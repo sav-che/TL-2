@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "1abe6e60dcc44182",
+    "type": "split",
+    "children": [
+      {
+        "id": "8df202797b99653c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "575f99586943ded7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front matter/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "da4a965fc2286849",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front matter/Documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4e5721f4bbe31b5c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supporting pages/Abbreviations.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5677ba4bbbeca6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "381e6a5c291ff309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e365561277341695",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c040bd2680356d53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d535a82f6b9b734",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5
+  },
+  "right": {
+    "id": "fce51550b2e74160",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6d27dfcd2ce438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7dc6ada2b29034",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Supporting pages/Abbreviations.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03a403f9f8b1f23d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Supporting pages/Abbreviations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c8052082720c2355",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e84fe5623083b50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Supporting pages/Abbreviations.md"
+              }
+            }
+          },
+          {
+            "id": "74ceb7cb810369cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "4e5721f4bbe31b5c",
+  "lastOpenFiles": [
+    "README.md",
+    "publish (2).css",
+    "Supporting pages/Layout key.md",
+    "Front matter/Documentation.md",
+    "Supporting pages/Abbreviations.md",
+    "Front matter/Introduction.md",
+    "Authors/Goethe, Johann Wolfgang von {std. Goethe}.md",
+    "Authors/Goethart, Jan Willem Christiaan {std. Goethart}.md",
+    "Authors/Goethe, Johann Wolfgang (von) {std. Goethe} (Suppl.).md",
+    "Supporting pages/Collections/Collection GOET.md",
+    "Authors/Gmelin family.md",
+    "Authors/Fries family.md",
+    "Authors/Frickhinger family.md",
+    "Authors/Fries, Elias Magnus {std. Fr.} (Suppl.).md",
+    "Authors/Fries, Elias Magnus {std. Fr.}.md",
+    "Authors/Darwin, Charles Robert {std. Darwin} (Suppl.).md",
+    "Authors/Darwin, Charles Robert {std. Darwin}.md",
+    "Authors/Rabenhorst, Gottlob Ludwig {std. Rabenh.}.md",
+    "Authors/Linnaeus, Carl (from 1761 Carl von Linné) {std. L.}.md",
+    "Work notes/Test note.md",
+    "Work notes/Untitled.md",
+    "Work notes/Misc notes.md",
+    "Front matter/Contact.md",
+    "Authors/Thomson, Paul William {std. P.W. Thomson}.md",
+    "Authors/Seidlitz, Nicolai (Karl Samuel) von {std. Seidlitz}.md",
+    "Authors/Schychowsky, Iwan {std. Schychowsky}.md",
+    "Authors/Klinge, Johannes Christoph {std. Klinge}.md",
+    "Maintenance/misc_images/TL-2 logo alt transparent.png",
+    "Maintenance/misc_images/TL-2 logo transparent.png",
+    "Maintenance/misc_images/layout key.png",
+    "Work notes/output.txt",
+    "Work notes/1_all_herbaria.txt",
+    "Infra/web_logos/TL-2 logo long.png",
+    "herbaria test 1",
+    "callout test 2",
+    "Infra/misc_images/layout key.jpg",
+    "Maintenance/misc_images",
+    "Supporting pages",
+    "Maintenance",
+    "Full volumes/TL_2_Suppl_2.xml",
+    "Full volumes_TEMP",
+    "Maintenance/tl2_images/tl2_v5_endpapers.jpg",
+    "Infra/web_logos/TL-2-logo-long.png",
+    "0_web_customization/TL-2_logo_long.png",
+    "0_web_customization/TL-2 logo long.png",
+    "Maintenance/web_logos/favicon-32.png",
+    "Test pile/Untitled.canvas"
+  ]
+}

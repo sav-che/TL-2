@@ -1,0 +1,37 @@
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103832#page/76/mode/1up) of TL-2 Suppl. VIII.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Frost, Frederick Hazard (1902-1973), American paleobotanist and paper-industry scientist, born 11 Jan 1902 in Hanover, New Hampshire, B.S. (Geology) 1923 Univ. of Chicago, Ph.D. 1927 Univ. of Calif., Natl. Research Council Fellow, Harvard Univ., Cambridge, Mass. 1927-1929, vice-president and dir. of research, S.D. Warren Co. (a paper company), Portland, Maine 1929-ca. 1966, vice-president 1953, Techn. Assn. Pulp & Paper Industries in Maine, died 20 Aug 1973 in Portland, Maine. (*F.H. Frost*).
+
+#### Note
+
+First son of astrophysicist Edwing Brant Frost (1866-1935).
+
+#### Herbarium and types
+
+[[Collection UC|UC]] (orig.).
+
+#### Bibliography and biography
+
+Amer. Men Sci. ed. 12: 1989; Ewan Pap. p. 74; IH 2: 211.
+
+#### Biofile
+
+- Anon., The New York Times \[newspaper\]: 26. 21 Aug 1973.
+- Ewan, J. (ed.), 1969. Short hist. bot. U.S.: 51.
+- Frost, E.B., 1933. An astronomer's life, Boston (Houghton Mifflin): 292. (index) \[autobiogr. of F.H. Frost's father, some family details\]
+
+### Publications
+
+##### n.35.791. pleistocene flora
+
+**Title**
+The *pleistocene flora* of Rancho *La Brea*... University of California Publications in Botany... 1927. Qu.
+**Abbreviated title**: *Pleistoc. fl. La Brea*.
+
+**Notes**
+*Publ*.: 30 Nov 1927 (in journal), p. \[i-ii\], \[73\]-98, *pl. 15-19* (uncol. phot. and lith.). *Copies*: BM (n.v.), L, LC (n.v.), NY (n.v.), U. – Issued as Univ. California Publ. Bot. 14(3): 1927.
+*Ref*.: Krause, K., Bot. Jahrb. Syst. 63(Lit.): 48. 1 Mar 1930 (rev.).
+

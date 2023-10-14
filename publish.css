@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+4');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+3');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+body {
+	--font-text-theme: 'Source Serif 4';
+	--font-text-size: 18px;
+	--font-monospace-theme: 'Source Code Pro';
+	--p-spacing: 0.7rem;
+	--accent-h: 90;
+	--accent-s: 40%;
+	--accent-l: 40%;
+	--callout-padding: 10px 14px 10px 14px;
+/*	--list-indent: 1em; */
+	--list-marker-color:var(--color-base-40);
+/*	--list-bullet-size: 0.2em; */
+	--table-border-width: 0; 
+	--table-row-alt-background: var(--background-secondary);
+	--table-row-background-hover: var(--background-secondary-alt);
+	--scrollbar-active-thumb-bg: rgba(var(--mono-rgb-100), 0.6);
+	--scrollbar-thumb-bg: rgba(var(--mono-rgb-100), 0.4);
+	}
+
+.site-body-left-column-site-logo {
+	text-align: left;
+}
+
+.published-container {
+	--logo-max-height: 50px;
+	--logo-radius: 0px;
+	--page-title-font: 'Source Sans 3';
+	--page-title-size: 35px;
+}
+
+.markdown-rendered p {
+	margin-block-start: 8px;
+	margin-block-end: 0px; 
+}
+
+.markdown-rendered ul {
+	list-style-type: '• ';
+}
+
+.markdown-rendered ul,
+.markdown-rendered ol {
+	padding-inline-start: 0px;
+	margin-block-start: 0px;
+}
+
+.markdown-rendered ul ul,
+.markdown-rendered ol ul,
+.markdown-rendered ul ol,
+.markdown-rendered ol ol {
+  padding-inline-start: 10px;
+}
+
+@media screen and (max-width: 750px) {
+	.published-container {
+		--list-spacing: 0.10em;
+	}
+	.published-container.has-navigation .site-header .clickable-icon {
+    margin-right: 24px;
+	}
+}

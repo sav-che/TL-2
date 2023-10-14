@@ -1,0 +1,37 @@
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103624#page/400/mode/1up) of TL-2 Vol. IV.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Preiss, Balthazar (Preis) (1765-1850), German military physician and botanist; Dr. chir. Wien 1792; "Regimentsarzt" at Salzburg 1792-1793; on active duty at various military stations of the "Regensburger Reichstag" 1793-1800; from 1800-1806 again in military and civil practice at Salzburg; from 1806-1830 in Austrian military service at Kuttenberg (Bohemia) and Praha (id.) and at various war stations; from 1830-1833 at Peterwardein, Slavonia; in retirement at Praha 1833-1850. (*B. Preiss*).
+
+#### Herbarium and types
+
+[[Collection PRC|PRC]].
+
+#### Bibliography and biography
+
+AG 4: 632; Barnhart 3: 107 (b. 29 Dec 1765, d. 2 Jul 1850, Preiss, not Preis); BM 4: 1610; Frank 3(Anh.): 78; Herder p. 118; Klášterský p. 149; Maiwald p. 101; PR 5176, 7305 (ed. 1: 8194-8195); Saccardo 2: 87-88.
+
+#### Biofile
+
+- Anon., Flora 14: 640. 1831 (Staatsarzt und k.k. Rath in Slavonien).
+- Maiwald, P.V., Jahresber. Stifts-Obergymn. Braunau 1901, p. 15 (bibl., epon.).
+- Opiz, P.M., Flora 7(2), Beil. 2: 142. 1824.
+- Weitenweber, W.R., Lotos 2: 171-172. 1852 (b. 29 Dec 1765, d. 2 Jul 1850; obit.).
+
+#### Eponymy
+
+*Preissia* Corda (1829); *Preissites* Knowlton (1894); *Pressia* S.O. Lindberg (1877, *orth. var.* of *Preissia* Corda); see ING 3: 1408 and Maiwald (1901).
+
+### Publications
+
+##### n.8284. Rhizographie
+
+**Title**
+*Rhizographie*, oder Versuch einer Beschreibung und Eintheilung der Wurzeln, Knollen und Zwiebeln der Pflanzen, ihrer verschiedenen Lagen, Formen, Oberflächen, Gränzen und Nebentheile, nebst kurzen Betrachtungen über ihr Entstehen und Fortpflanzen, mit einigen anatomisch-physiologischen Bemerkungen... Prag (Zu haben beym Verfasser,... und bey Anton C. Kronberger,...) 1823. Oct.
+**Abbreviated title**: *Rhizographie*.
+
+**Notes**
+*Publ*.: 1823 (Flora 21 Feb 1823: "Exemplare zu haben..."), p. \[i\]-xxvi, \[27\]-256, \[257-270 indexes\], \[271, err.\]. *Copies*: G, GOET, MO.
+

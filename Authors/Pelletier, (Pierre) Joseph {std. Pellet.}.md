@@ -1,0 +1,35 @@
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103624#page/162/mode/1up) of TL-2 Vol. IV.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Pelletier, \[Pierre\] Joseph (1788-1842), French botanist and pharmacist at Paris; Dr. Sci. Paris 1812, active at the École de pharmacie at Paris from 1814. (*Pellet.*).
+
+#### Herbarium and types
+
+Unknown.
+
+#### Bibliography and biography
+
+Backer p. 431, 658; Barnhart 3: 64 ("Pierre Joseph"); BM 4: 1539; Bossert p. 305; CSP 4: 806-810; Frank (Anh.): 75; GR p. 365 (b. 22 Mar 1785, sic); Krempelh. 1: 580; Lenley p. 321; LS 20394; PR 7028 (b. 22 Mar 1788, d. 20 Jul 1842), (ed. 1: 7854-7855); Rehder 3: 494, 5: 658; Tucker 1: 546; Zander ed. 10, p. 700, ed. 11, p. 798 (b. 22 Mar 1788, d. 20 Jul 1842).
+
+#### Biofile
+
+- Poggendorff, J.C., Biogr.-lit. Handw.-Buch 2: 392-393. 1863 (d. 19 Jul 1842; bibl.; "Josephe").
+- Wittrock, V.B., Acti Horti Berg. 3(3): 110. 1905.
+
+#### Eponymy
+
+*Pelleteria* Poiret (1825, *orth. var.* of *Pelletiera* A.F.C. Saint-Hilaire); *Pellettiera* A.F.C. Saint-Hilaire (1822). The derivation of *Pelletieria* Seward (1913) could not be determined.
+
+### Publications
+
+##### n.7621. Gommes résines
+
+**Title**
+Essai sur la nature des substances connues sous le nom de *Gommes résines*. Thèse soutenue devant la Faculté des Sciences de l'Université impériale 1e \[ink: 22\] aout 1812, par J. Pelletier, pharmacien,... Paris 1812. Qu.
+**Abbreviated title**: *Gomm. résin.*
+
+**Notes**
+*Publ*.: 22 Aug 1812, p. \[1\]-32. *Copy*: G.
+

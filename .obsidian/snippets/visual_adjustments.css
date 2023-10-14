@@ -1,0 +1,28 @@
+body {
+	--p-spacing: 0.7rem;
+	--callout-padding: 10px 14px 10px 14px;
+	--list-marker-color:var(--color-base-40);
+	--list-bullet-size: 0.2em;
+	--table-border-width: 0; 
+	--table-row-alt-background: var(--background-secondary);
+	--table-row-background-hover: var(--background-secondary-alt);
+}
+
+.markdown-rendered p {
+	margin-block-start: 8px;
+	margin-block-end: 0px; 
+}
+
+.markdown-rendered ul,
+.markdown-rendered ol {
+	padding-inline-start: 0px;
+	margin-block-start: 0px;
+}
+
+.markdown-rendered ul ul,
+.markdown-rendered ol ul,
+.markdown-rendered ul ol,
+.markdown-rendered ol ol {
+  padding-inline-start: 10px;
+}
+

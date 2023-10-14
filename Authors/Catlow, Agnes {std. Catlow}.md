@@ -1,0 +1,51 @@
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103861#page/473/mode/1up) of TL-2 Suppl. III.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Catlow, Agnes (1807\[?\]-1889), British botanist and entomologist, died Addlestone, Surrey 10 Mai 1889. (*Catlow*).
+
+#### Herbarium and types
+
+Unknown.
+
+#### Bibliography and biography
+
+Barnhart 1: 323 (d. 10 Mai 1889, Addlestone, Surrey); BB p. 61; BM 1: 327; Desmond p. 123; Jackson p. 42, 235, 531; Kew 1: 496; PR 1604-1605; Rehder 5(index): 165; Tucker 1: 146.
+
+#### Biofile
+
+- Freeman, R.B., Brit. nat. hist. books 1495-1900: 82-83. 1980.
+
+### Publications
+
+##### n.25.102. Popular field botany
+
+**Title**
+*Popular field botany*: containing a familiar and technical description of the plants most common to the various localities of the British Isles, adapted to the study of either the artificial or natural systems... London (printed and published by Reeve and Co....) 1848. Oct.
+**Abbreviated title**: *Pop. field bot.*
+
+**Notes**
+*Publ*.: 1848 (Bot. Zeit. 16 Jun 1848, brief note), p. \[i\]-xxxii, \[1\]-380, *20 col. pl. Copy*: BM.
+*Ed. 2*: 1849, p. \[i\]-xxxii, \[1\]-384, \[1\]-8 advs., *20 col. pl. Copy*: NY.
+*Ed. 3*: 1852, frontisp. (*pl. 16*), p. \[i\]-x, \[1\]-409, *pl. 1-15, 17-20* (col. liths.). *Copies*: HH, L, MO, NY.
+*Ed. 4*: 1860, p. \[i\]-xx, \[1\]-409, *pl. 1-20* (n.v.). – See Rehder 1: 533.
+
+##### n.25.103. Popular garden botany
+
+**Title**
+*Popular garden botany*: containing a familiar and scientific description of most of the hardy and half-hardy plants introduced into the flower garden... London (Lovell Reeve,...) 1855. Oct.
+**Abbreviated title**: *Pop. gard. bot.*
+
+**Notes**
+*Publ*.: Dec 1855 (date on t.p., p. x: 26 Nov 1855), p. \[i\]-xii, \[1\]-320, *pl. 1-20* (col.). *Copy*: MO.
+
+##### n.25.104. Popular greenhouse botany
+
+**Title**
+*Popular greenhouse botany*: containing a familiar and technical description of a selection of the exotic plants introduced into the greenhouses... London (Lovell Reeve,...) 1857. Oct.
+**Abbreviated title**: *Pop. greenh. bot.*
+
+**Notes**
+*Publ*.: 1857, p. \[i\]-xii, \[1\]-311, \[312, imprint\], *pl. 1-20.* *Copies*: HH, MO.
+

@@ -1,0 +1,36 @@
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103624#page/439/mode/1up) of TL-2 Vol. IV.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Puiggari, Juan Ignacio (1823-1900/1901), Spanish (Catalan) botanist; Dr. med. Barcelona 1849; in Brazil 1849; practicing at Barcelona 1849-1877; from 1877 in Brazil exploring the cryptogamic flora of São Paulo. (*Puigg.*).
+
+#### Herbarium and types
+
+Material in [[Collection B|B]], [[Collection BM|BM]], [[Collection GOET|GOET]], [[Collection E|E]], [[Collection FH|FH]], [[Collection H|H]], [[Collection H|H]]-BR (musci), [[Collection IAC|IAC]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]] (lich.), [[Collection NY|NY]], [[Collection P|P]], [[Collection PC|PC]], [[Collection WU|WU]] (1400). – Letters at [[Collection G|G]].
+
+#### Bibliography and biography
+
+Barnhart 3: 114; Colmeiro 1: cxciv; CSP 11: 77, 12: 592; Morren ed. 10, p. 152; SBC p. 129 (d. 1901, fide Geheeb); Urban-Berl. p. 311, 322.
+
+#### Biofile
+
+- Anon., Hedwigia 40(6): (204). 1901 (d.).
+- Geheeb, A., Rev. bryol. 6: 66-67. 1879 (mosses São Paulo); Bot. Centralbl. 8: 161-162. 1881 (review of Noticia cript. Apiahy, Anal. Soc. ci. Argent. 11 (4). 1881); Rev. bryol. 27(5). 1900, 28(4): 61. 1901 (mosses São Paulo), 28(4): 83. 1902 (died in April 1901).
+- Sayre, G., Mem. New York Bot. Gard. 19(3): 382. 1975 (coll.).
+- Urban, L, Fl. bras. 1(1): 82-83. 1906 (orig. inf.; herb. with P's son; b. 3 Mai 1823, d. 7 Aug 1900; date of death supplied by P's son!).
+
+#### Eponymy
+
+*Puiggaria* ("*Puigarria*") Duby (1880); *Puiggariella* Spegazzini (1881); *Puiggariella* V.F. Brotherus (1908); *Puiggarina* Spegazzini (1919).
+
+### Publications
+
+##### n.8383. Noticia sobre algunas criptógamas nuevas
+
+**Title**
+*Noticia sobre algunas criptógamas nuevas* halladas en Apiahy, Provincia de San Pablo en el Brasil \[Anal. Soc. Sci. Argentina 1881\]. Oct.
+
+**Notes**
+*Publ*.: 1881 (p. 16: 25 Jan 1881; Bot. Centralbl. 8: 161-162. Oct 1881), p. \[1\]-16. *Copy*: G. – Reprinted and to be cited from Anal. Soc. Ci. Argent. 11: 201-216. 1881 (first semester).
+

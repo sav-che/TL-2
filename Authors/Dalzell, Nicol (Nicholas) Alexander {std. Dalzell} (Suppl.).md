@@ -1,0 +1,55 @@
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103833#page/45/mode/1up) of TL-2 Suppl. V.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+> [!example] See also [[Dalzell, Nicol (Nicholas) Alexander {std. Dalzell}|first entry]] for this author
+
+### Author
+
+\* Dalzell, Nicol \[Nicholas\] Alexander (1817-1878), Scottish botanist and forester, born at Edinburgh, studied at the University of Edinburgh, MA 1837, conservator of forests at Bombay 1841-1870. (*Dalzell*).
+
+#### Herbarium and types
+
+[[Collection K|K]], further material at [[Collection BM|BM]] (drawings), [[Collection CAL|CAL]], [[Collection DD|DD]], [[Collection W|W]]. – Drawings at [[Collection BM|BM]], correspondence with Hooker at [[Collection K|K]].
+
+#### Bibliography and biography
+
+Barnhart 1: 414; BB p. 83; BM 1: 193, 417, 673; CSP 2: 135, 7: 479, 12: 182; Desmond p. 171; DNB 13: 448; Frank 3 (Anh.): 21; Hortus 3: 1191; IH 2: 150; Jackson p. 535 (ind.); Kew 2: 7; PR 2038-2039; Rehder 5(index): 208; RS p. 79; SK 1: 127; TL-2/1: 593-594; Tucker 1: 184, Zander ed. 11, p. 738.
+
+#### Biofile
+
+- Anon., Rev. hort. Belge étrang. 4: 120. 1878.
+- Bridson, G.D.R. et al., Nat. hist. mss. res. Brit. Isl. 229.462. 1980.
+- Burkill, I.H., Chapt. hist. bot. India 237 (index) 1965.
+- King, G., J. Bot. 37:462. 1899 (D's work in W. India).
+- McCann, C., J. Bombay Nat. Hist. Soc. 41: 145. 1939 (life notes).
+- White, A. and B.L. Sloane, The Stapelieae ed. 1: 26, 47. 1933, ed. 2: 104, 149, 150. 1937.
+- Wight, R., Icon. pl. Indiae Orient. 5: 35. 1851.
+
+### Publications
+
+##### n.28.777. Catalogue
+
+**Title**
+*Catalogue* of the *indigenous* flowering *plants* of the *Bombay* Presidency, forming an Index of the Bombay Flora... Surat (Irish presbyterian Mission Press) 1858. Oct.
+**Abbreviated title**: *Cat. indig. pl. Bombay*.
+
+**Notes**
+*Publ*.: 1858, p. \[i-iii\], \[1\]-78. *Copy*: K. – Rehder 1: 473, PR 2038.
+
+##### n.28.778. Observations
+
+**Title**
+*Observations* on the *influence* of *forests*, and the general principles of the management, as applicable to Bombay... Bombay (Printed for the Government at the Education Society's Press, Byculla) 1863. Qu.
+**Abbreviated title**: *Observ. influence forests*.
+
+**Notes**
+*Publ*.: 1863, p. \[1\]-29. *Copies*: BM, HH, K, NY. – Issued as Selections from the records of the Bombay Government 76 (new series) 1863. – See Tucker 1: 184, BM 1: 417.
+
+##### n.28.779. Dolichos uniflorus
+
+**Title**
+Remarks on *Dolichos uniflorus* Lamarck... Linn. Journ.-Bot.... \[1873\]. Oct.
+
+**Notes**
+*Publ*.: 1873 (read 16 Nov 1871), p. 145-146. *Copy*: L. – Reprinted and to be cited from J. Linn. Soc., Bot. 13: 145-146. 1873.
+

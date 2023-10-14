@@ -1,0 +1,31 @@
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103861#page/280/mode/1up) of TL-2 Suppl. III.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Burtin, François Xavier de (1743-1818), Belgian naturalist, born at Maastricht (Netherlands) December 1743, wrote "Oryctographie de Bruxelles 1784", worked on Glossopetren, Proboscidea, phytopalaeontology, died 9 August 1819 in Bruxelles. (*Burtin*).
+
+#### Herbarium and types
+
+Unknown.
+
+#### Bibliography and biography
+
+Barnhart 1: 289 (F.X. Burtin, b. Dec 1743, Maastricht, d. 9 Aug 1818, Bruxelles); BM 1: 291; Kew 1: 436; PR 1402, ed. 1: 1591-1592; Quenstedt p. 69; Rehder 5(index): 140; Tucker 1: 128.
+
+#### Biofile
+
+- Beneden, P.J. van, Ann. Acad. roy. Belg. 43: 247-258. 1877 (bibl.).
+- Hunt Institution, Biogr. Dict. Bot. portr. coll. 60. 1972.
+- Zittel, K.A. von, Gesch. Geol. Paläontol. 19. Jahrh. 25, 154, 189, 191. 1899.
+
+### Publications
+
+##### n.23.890. Mémoire sur
+
+**Title**
+*Mémoire sur* la question: Quels sont les *végétaux indigènes* que l'on pourroit *substituer* dans les Pays-Bas *aux végétaux exotiques* relativement aux differens usages de la vie? Qui a remporté en 1783 le Prix de l'Académie Impériale & Royale des Sciences & Belles-Lettres de Bruxelles... A Bruxelles (De l'Imprimerie Académique) 1784. Qu.
+
+**Notes**
+*Publ*.: 1784, p. \[i, iii\]-ix, \[11\]-187, \[188-190, errata\]. *Copy*: BR.
+

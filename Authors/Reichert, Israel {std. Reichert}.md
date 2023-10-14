@@ -1,0 +1,32 @@
+> [!cite] BHL link: this entry starts at [page 693](https://www.biodiversitylibrary.org/item/103624#page/707/mode/1up) of TL-2 Vol. IV.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Reichert, Israel (1891-1975), Polish-born Israeli botanist, studied at the University of Berlin 1913-1919, student of A. Engler; in 1920-1921 with Biologische Reichsanstalt, Berlin and the Ist. patologia vegetale, Firenze; Dr. phil. Berlin 1921; from 1921 at the Agricultural Research Station Rehovoth, from 1949-1959 professor at the faculty of agriculture of Hebrew University, Jerusalem; from 1959-1975 in retirement; Israel State Prize 1955; ardent zionist. (*Reichert*).
+
+#### Herbarium and types
+
+[[Collection TELA|TELA]]; other material at [[Collection M|M]] and [[Collection PC|PC]].
+
+#### Bibliography and biography
+
+Barnhart 3: 140 (b. 5 Aug 1889); Biol.-Dokum. 14: 7380; BJI 2: 144; GR p. 724-725 (b. 5 Aug 1891), *pl*. \[*25*\], cat. p. 70 (b. 1891); SBC p. 130; Stevenson p. 1255.
+
+#### Biofile
+
+- Bizot, M., Rev. bryol. lichénol. 24: 69, 186. 1955 (musci coll. by R.) (hepat. ibid. by S. Jovet-Ast p. 187).
+- Hertel, H., Mitt. Bot. München 16: 421. 1980 (lich. from TELA at M).
+- Laundon, J.R., Lichenologist 11(1): 16. 1979 (b. 1891; lichens at TELA).
+- Oppenheimer, H.R., Israel J. Bot. 15: 83-90. 1966 (tribute on retirement; portr., bibl.).
+- Verdoorn, F., ed., Chron. bot. 2: 31, 33, 80, 250, 251, 394. 1936, 3: 218, 359. 1937, 4: 274, 568. 1938.
+- Wulff, E.V., Introd. hist. pl. geogr. 203, 204, 214. 1943.
+
+#### Thesis
+
+*Die Pilzflora Ägyptens*. Eine mykogeographische Studie, Bot. Jahrb. 36: 598-727, \[728\], *pl. 2-4.* 29 Nov 1921.
+
+#### Eponymy
+
+*Reichertia* H. Karsten (1848) honors Carl Bogislaus Reichert (1811-1883) of Dorpat. Professor of physiology in the mid 19th century.
+

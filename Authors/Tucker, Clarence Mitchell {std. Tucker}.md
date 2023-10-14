@@ -1,0 +1,43 @@
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103683#page/532/mode/1up) of TL-2 Vol. VI.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Tucker, Clarence Mitchell (1897-1954), American botanist; B.S. Agr. Univ. Missouri 1920; Dr. phil. ib. 1930; professor of plant pathology Univ. Puerto Rico 1920-1923; id. in the Puerto Rico Agric. Experiment Station Mayaguez 1923-1930; associate plant pathologist Florida Agricultural Experiment Station 1930-1931; plant pathologist and associate professor of botany, University of Missouri 1931-1937, full professor ib. 1937-1954. (*Tucker*).
+
+#### Herbarium and types
+
+Unknown.
+
+#### Bibliography and biography
+
+Barnhart 3: 406 (b. 28 Oct 1897, d. 3 Feb 1954); LS suppl. 28183-28191; MW p. 505; Stevenson p. 1260.
+
+#### Biofile
+
+- Anon., Amer. men Sci. eds. 5-8, 1933-1949; Index Amer. bot. lit. 1886-1966, 4: 388. 1969; Science 119: 409. 1954 (d.); Who's who Amer. 27-28, 1952-1955; Who was who Amer. 3: 864. 1960.
+- Bretz, T.W., Phytopathology 45: 351. 1955 (obit., portr.).
+- Verdoorn, F., ed., Chron. bot. 2: 406. 1936, 4: 180. 1938, 5: 382. 1939, 6: 19. 1941.
+
+### Publications
+
+##### n.15.274. Taxonomy of the genus Phytophthora
+
+**Title**
+*Taxonomy of the genus Phytophthora* de Bary... Columbia, Missouri June, 1931. Oct.
+**Abbreviated title**: *Tax. Phytophthora*.
+
+**Notes**
+*Publ*.: Jun 1931, p. \[1\]-208. *Copy*: Stevenson.
+*Separates*: issued 1931 with a thesis t.p.: "The taxonomy of the genus Phytopthora \[sic\] by... submitted in partial fulfilment of the requirements for the degree of doctor of philosophy in the Graduate School of the University of Missouri 1930", p. \[1\]-208. – Even though the date "1930" appears on the t.p., it is clear from the "Biography" added to the text that this issue came out after Jun 1931.
+*Facsimile ed*.: 1967, Bibliotheca mycologica Band 7, 3301 Lehre, Verlag von J. Cramer, p. \[i-ii\], \[1\]-208. *Copies*: B, BR, FAS. – ISBN 3-7682-0515-0.
+
+##### n.15.275. The distribution of the genus Phytophthora
+
+**Title**
+*The distribution of the genus Phytophthora*... Columbia Missouri,... 1933. Oct.
+**Abbreviated title**: *Distr. Phytophthora*.
+
+**Notes**
+*Publ*.: Mar 1933, p. \[1\]-80. *Copy*: Stevenson. – Issued as Univ. Missouri Coll. Agr. Expt. Sta. Res. Bull. 1894.
+

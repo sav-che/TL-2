@@ -1,0 +1,33 @@
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103859#page/148/mode/1up) of TL-2 Suppl. II.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Besnard, Anton Franz (1814-1885), German (Bavarian) physician and botanist, educated at the München gymnasium, studied at the University of München, Dr. phil. ib. 1835, Dr. med. ib. 1836, assistant physician at the München general hospital 1836-1838, military physician with the Royal Bavarian army 1838-1875. (*Besnard*).
+
+#### Herbarium and types
+
+Unknown.
+
+#### Bibliography and biography
+
+Barnhart 1: 178 (b. 12 Apr 1814, d. 6 Dec 1885); BM 1: 156; Jackson p. 301; Morren ed 10, p. 18; PR 748; Rehder 1: 385.
+
+#### Biofile
+
+- Anon., Bonplandia 3: 30. 1855 (member of Leopoldina, cogn. Leopold Gmelin).
+- Ilg., W., Hoppea 42: 319. 1984 (member Regensb. Bot. Ges. 1853, gives name as "Franz Anton").
+- Sydow, P. and C. Mylius, Botaniker-Kalender 2: 101. 1887 (brief obit.).
+
+### Publications
+
+##### n.21.191. Bayern's Flora
+
+**Title**
+*Bayern's Flora*. Aufzählung der in Bayern diesseits und jenseits des Rheins wildwachsenden phanerogamischen Pflanzen, Angabe ihrer Standorte, Blüthezeit, der Linné'schen Klassen und der natürlichen Familien. Als Führer bei botanischen Exkursionen bearbeitet... München (Verlag von Jul. Grubert) 1866. Oct.
+**Abbreviated title**: *Bayern's Flora*.
+
+**Notes**
+*Publ*.: 1 Mar-16 Apr 1866 (preface Dec 1865; Flora "soeben" 17 Apr 1866, Bot. Zeit. adv. 25 Mai 1866 "soeben", ÖBZ 1 Jun 1866), p. \[i\]-xv, \[1\]-478. *Copies*: G, L, MO.
+*Ref*.: Anon., Flora 49: 142-143. 28 Mai 1866.
+

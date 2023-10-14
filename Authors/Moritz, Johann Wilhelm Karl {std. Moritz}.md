@@ -1,0 +1,36 @@
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/item/104137#page/604/mode/1up) of TL-2 Vol. III.
+> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+
+### Author
+
+Moritz, Johann Wilhelm Karl (1797-1866), German botanical explorer of the West Indies (1831-1835); lived in Venezuela 1835-1837, 1840-1866. (*Moritz*).
+
+#### Herbarium and types
+
+[[Collection BM|BM]]. – For duplicates see IH. Important early sets went to B.-Flora and Bot. Zeit. (1867) report that the private herbarium went to [[Collection BM|BM]].
+
+#### Bibliography and biography
+
+AG 7: 161; Barnhart 2: 514; BM 3: 1351; CSP 4: 474; Hortus 3: 1200; IH 2: 558; Lasègue p. 482, 505; PR (alph.); Rehder 5: 589; Urban-Berl. p. 267, 289, 308, 324, 376.
+- Anon., Flora 50: 15. 1867; Bot. Zeit. 8: 582. 1850, 18: 228 1860 (herb.).
+- Beck, G., Bot. Centralbl. 34: 150. 1888 (680 Venez. pl. at W.)
+- Candolle, Alph. de, Phytographie 435. 1880 (herb.).
+- Hedge, I. C. &J. M. Lamond, Index coll. Edind. herb. 112. 1970 (bryo. & vasc. pl. at E).
+- Herder, F. v., Bot. Centralbl. 55: 292. 1893 (Colomb. pl. LE).
+- Jackson, B. D., Bull. misc. Inf. Kew 1901: 47. (dupl. K).
+- Moldenke, H. N., Plant Life 2: 73. 1946 (1948) (epon.).
+- Moritz, J. W. K., Bot. Zeit. 1: 406-407, 647-648. 1843, 2: 173-175, 195-197, 430-431. 1844, 3: 688. 1845 (letters from Venezuela, sale collections); Bol. Acad. Ci. fis. mat. nat., Caracas (ano 9) 7: 883-896. 1942 (translation travel report 28 Mar 1843).
+- Murray, G., Hist. coll. BM(NH) 1: 169. 1904 (2850 pl.; mosses and hepat. in herb. Hampe).
+- Papavero, N., Essays hist. neotrop. dipterol. 2: 297-298. 1975.
+- Pittier, H., Man. pl. usual. Venezuela 3-4. 1926.
+- Röhl, E., Bol. Acad. Ci Fís., Venezuela 7(23): 873-896. 1943 (biogr. b. 10 Dec 1810, d. 26 Jun 1866. bibl., transl. travel account).
+- Sayre, G., Mem. New York bot. Gard. 19(3): 370. 1975.
+- Seemann, B., J. Bot. 4: 304. 1866.
+- Steinberg, C. H., Webbia 32(1): 32. 1977 (material at FI).
+- Steyermark, J. A. & O. Huber, Fl. Avila 16, 931. 1978.
+- Urban, I., Symb. ant. 3: 89. 1902.
+
+#### Eponymy
+
+*Moritzia* Hampe (1847).
+

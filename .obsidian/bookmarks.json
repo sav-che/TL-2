@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "ctime": 1696622949481,
+      "query": "\"see TL\"",
+      "title": "see TL (all)"
+    },
+    {
+      "type": "search",
+      "ctime": 1696624017945,
+      "query": "/see TL-2\\/\\d{2,}/",
+      "title": "see TL-2 (titles only)"
+    },
+    {
+      "type": "search",
+      "ctime": 1696624098053,
+      "query": "/see TL-2\\/\\d\\D/",
+      "title": "see TL-2 (pages only)"
+    }
+  ]
+}

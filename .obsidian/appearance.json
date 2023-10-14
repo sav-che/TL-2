@@ -1,0 +1,12 @@
+{
+  "accentColor": "#668f3d",
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "textFontFamily": "Source Serif Pro",
+  "cssTheme": "",
+  "monospaceFontFamily": "Source Code Pro",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "visual_adjustments"
+  ]
+}
