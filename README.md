@@ -5,7 +5,7 @@ This is a digital version of **Taxonomic literature : a selective guide to botan
 ## Offline setup 
 
 1. Install Obsidian: https://obsidian.md/download
-2. Download latest release for this repository (https://github.com/sav-che/TL-2/releases) and unzip it in a preferred location.
+2. Download latest release of TL-2 (https://github.com/sav-che/TL-2/releases) and unzip it in a preferred location.
 3. Open Obsidian. On the first launch it will ask for action – select "Open folder as vault" and navigate to the folder you specified above. If you already have some another vault opened, click on small "Open another vault" button in bottom left corner, as in the screenshot below. After that the setup is done.
 
 ![](/Maintenance/misc_images/instructions_open_folder.jpg)
@@ -16,7 +16,7 @@ Note that Obsidian have two modes: editing and viewing, toggled with a button on
 
 ![](/Maintenance/misc_images/instructions_change_view.jpg)
 
-If you do not intend to edit the content, you might want to switch default mode to "viewing" in Settings → Editor → Default view for new tabs.
+If you want to edit the content frequently, you might want to switch default mode to "editing" in Settings → Editor → Default view for new tabs.
 
 ![](/Maintenance/misc_images/instructions_change_default_view.jpg)
 
