@@ -48,9 +48,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1db7c68b0df8e4a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d7f8d4da7b7fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Authors/Barnhart, John Hendley {std. Barnhart} (Suppl.).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +106,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -96,11 +120,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 209.5
   },
   "right": {
     "id": "fce51550b2e74160",
@@ -116,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supporting pages/Abbreviations.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supporting pages/Abbreviations.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supporting pages/Abbreviations.md"
+                "file": "README.md"
               }
             }
           },
@@ -175,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,14 +213,26 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4e5721f4bbe31b5c",
+  "active": "1db7c68b0df8e4a3",
   "lastOpenFiles": [
+    "Maintenance/misc_images/instructions_change_view.jpg.0.pdnSave",
+    "Maintenance/misc_images/instructions_change_view.jpg",
+    "Maintenance/misc_images/instructions_change_default_view.jpg.0.pdnSave",
+    "Maintenance/misc_images/instructions_change_default_view.jpg",
+    "Maintenance/misc_images/screenshot.2023-10-14 (5).jpg",
+    "Maintenance/misc_images/screenshot.2023-10-14 (4).jpg",
+    "Authors/Barnhart, John Hendley {std. Barnhart} (Suppl.).md",
     "README.md",
-    "publish (2).css",
-    "Supporting pages/Layout key.md",
+    "Maintenance/misc_images/instructions_overview.jpg",
+    "Maintenance/misc_images/instructions_view.jpg",
+    "Maintenance/misc_images/screenshot.2023-10-14 (10).jpg",
+    "Authors/Andrä (Andrae), Carl Justus {std. Andrae} (Suppl.).md",
+    "Front matter/Introduction.md",
+    "Maintenance/misc_images/instructions_open_folder.jpg",
     "Front matter/Documentation.md",
     "Supporting pages/Abbreviations.md",
-    "Front matter/Introduction.md",
+    "publish (2).css",
+    "Supporting pages/Layout key.md",
     "Authors/Goethe, Johann Wolfgang von {std. Goethe}.md",
     "Authors/Goethart, Jan Willem Christiaan {std. Goethart}.md",
     "Authors/Goethe, Johann Wolfgang (von) {std. Goethe} (Suppl.).md",
@@ -214,28 +251,16 @@
     "Work notes/Misc notes.md",
     "Front matter/Contact.md",
     "Authors/Thomson, Paul William {std. P.W. Thomson}.md",
-    "Authors/Seidlitz, Nicolai (Karl Samuel) von {std. Seidlitz}.md",
-    "Authors/Schychowsky, Iwan {std. Schychowsky}.md",
-    "Authors/Klinge, Johannes Christoph {std. Klinge}.md",
     "Maintenance/misc_images/TL-2 logo alt transparent.png",
     "Maintenance/misc_images/TL-2 logo transparent.png",
-    "Maintenance/misc_images/layout key.png",
     "Work notes/output.txt",
     "Work notes/1_all_herbaria.txt",
-    "Infra/web_logos/TL-2 logo long.png",
     "herbaria test 1",
     "callout test 2",
-    "Infra/misc_images/layout key.jpg",
     "Maintenance/misc_images",
     "Supporting pages",
     "Maintenance",
     "Full volumes/TL_2_Suppl_2.xml",
-    "Full volumes_TEMP",
-    "Maintenance/tl2_images/tl2_v5_endpapers.jpg",
-    "Infra/web_logos/TL-2-logo-long.png",
-    "0_web_customization/TL-2_logo_long.png",
-    "0_web_customization/TL-2 logo long.png",
-    "Maintenance/web_logos/favicon-32.png",
     "Test pile/Untitled.canvas"
   ]
 }
