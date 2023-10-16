@@ -10,6 +10,14 @@ This is a repository for digital version of **Taxonomic literature : a selective
 
 ![](/Maintenance/misc_images/instructions_open_folder.jpg)
 
+## Fonts
+
+The fonts cannot be included in the vault. If you want to see the same fonts as in *tl2.io*, please install them on your system:
+
+- https://fonts.google.com/specimen/Source+Serif+4
+
+- https://fonts.google.com/specimen/Source+Code+Pro    
+
 ## Tips
 
 - Advanced search options including regex are explained here: https://help.obsidian.md/Plugins/Search
