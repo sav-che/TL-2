@@ -1,7 +1,9 @@
-README.md
+# Ignore customization files except those affecting appearance
 
-/Maintenance/misc_images/instructions_open_folder.jpg
+/.obsidian
 
-/Maintenance/misc_images/instructions_change_view.jpg
+!/.obsidian/snippets
 
-/Maintenance/misc_images/instructions_change_default_view.jpg
+!/.obsidian/app.json
+
+!/.obsidian/appearance.json
