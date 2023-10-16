@@ -1,6 +1,6 @@
 # TL-2 vault for Obsidian
 
-This is a repository for digital version of **Taxonomic literature : a selective guide to botanical publications and collections with dates, commentaries and types, ed. 2** (usually abbreviated **TL-2**). It is presented as a folder-based "vault" for [Obsidian](https://obsidian.md/) and can be either viewed online (https://tl2.io) or used offline from your own Obsidian installation.
+This is a repository for digital version of **Taxonomic literature : a selective guide to botanical publications and collections with dates, commentaries and types, ed. 2** (usually abbreviated **TL-2**). It is presented as a folder-based markdown-formatted "vault" for [Obsidian](https://obsidian.md/) and can be either viewed online (https://tl2.io) or used offline from your own Obsidian installation.
 
 ## Offline setup 
 
