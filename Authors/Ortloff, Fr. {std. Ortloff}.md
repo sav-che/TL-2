@@ -18,7 +18,7 @@ Barnhart 3: 33; BM 3: 1479; IH 2: (in press).
 ##### n.7118. Die Stammblätter von Sphagnum
 
 **Title**
-*Die Stammblätter von Sphagnum*,microphotographisch nach der Natur aufgenommen und herausgegeben von Dr. Fr. Ortloff in Coburg, in 66 Lichtdruckbildern der Dietz'schen Hofbuchdruckerei daselbst. Coburg (im Selbstverlag des Herausgebers) 1891. Oct.
+*Die Stammblätter von Sphagnum*, microphotographisch nach der Natur aufgenommen und herausgegeben von Dr. Fr. Ortloff in Coburg, in 66 Lichtdruckbildern der Dietz'schen Hofbuchdruckerei daselbst. Coburg (im Selbstverlag des Herausgebers) 1891. Oct.
 **Abbreviated title**: *Stammblätt. Sphagnum*.
 
 **Notes**

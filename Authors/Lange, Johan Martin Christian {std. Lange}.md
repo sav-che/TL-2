@@ -174,10 +174,10 @@ Candollea 31: 153-154. 1976.
 *Co-author*: Christian Erasmus Otterstrom Jensen (1859-1941).
 *Publ*.: Aug-Oct 1887 (p. 110: Mar 1887; Nat. Nov. Oct(2) 1887), p. \[1\]-110, \[1, err.\]. *Copies*: FH, Steere. – Reprinted from Joh. Lange, *Consp. fi. Groenland*. part 2, see 4185.
 
-##### n.4189. Nomenclator "Floraedanicea
+##### n.4189. Nomenclator "Florae danicae"
 
 **Title**
-*Nomenclator "Floraedanicea*"siveindexsystematicus et alphabeticusoperis, quod "icones florae danicae" inscribitur, cum enumeratio tabularum ordinem temporum habente, adiectis notis criticis,... Hauniae \[Kjøbenhavn\] (apudlibrarios Lehmann & Stage. Typis descripsit Bianco Luno (F. Dreyer)). 1887. Qu.
+*Nomenclator "Florae danicae"* sive index systematicus et alphabeticus operis, quod "icones florae danicae" inscribitur, cum enumeratio tabularum ordinem temporum habente, adiectis notis criticis,... Hauniae \[Kjøbenhavn\] (apud librarios Lehmann & Stage. Typis descripsit Bianco Luno (F. Dreyer)). 1887. Qu.
 **Abbreviated title**: *Nomencl. Fl. dank.*
 
 **Notes**
