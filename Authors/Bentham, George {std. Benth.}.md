@@ -342,7 +342,7 @@ The *Flora australiensis* "is entirely and exclusively mine, with the assistance
 |	|	|\[1\]-56	|I. Ranunc.-X. Papav.	|B|
 |	|	|57-112	|XI. Crucif.-XIII. Resed.	|H|
 |	|	|112-247	|XIV. Cist.-XXXV. Humir.	|B|
-|	|	|247-269	|XXXVI. Malp.-XXXVII.|Zygoph.	|H|
+|	|	|247-269	|XXXVI. Malp.-XXXVII. Zygoph.	|H|
 |	|	|269-278	|XXXVIII. Geraniaceae	|B|
 |	|	|278-342	|XXXIX. Rutac.-XLIV. Chaill.	|H|
 |	|	|342-355	|XLV. Olacinae	|B|
@@ -353,27 +353,27 @@ The *Flora australiensis* "is entirely and exclusively mine, with the assistance
 |	|	|690-725	|LXVII. Myrtaceae	|B|
 |	|3	|\[i\]-xv, 721-1040|
 |	|	|\['1010'\]	|	|	|Sep 1867|
-|	|	|725-859	|LXVIII. Melast.-LXXIX.|Ficoid.	|H|
+|	|	|725-859	|LXVIII. Melast.-LXXIX. Ficoid.	|H|
 |	|	|859-947	|LXXX. Umb.-LXXXI. Aral.	|B|
 |	|	|947-952	|LXXXII. Cornaceae.	|H|
 |2	|1	|\[i-iii\], \[1\]-554	|	|	|7-9 Apr 1873|
-|	|	|1-163	|LXXXIII. Capr.-LXXXVII.|Calayc.	|H|
+|	|	|1-163	|LXXXIII. Capr.-LXXXVII. Calayc.	|H|
 |	|	|163-533	|LXXXVIII. Compositae	|B|
 |	|2	|\[i\]-viii, 533-1279	|	|	|Mai 1876|
 |	|	|534-564	|LXXXIX. Styl.-XCI. Camp.	|B|
 |	|	|564-650	|XCII. Vacc.-C. Myrs.	|H|
-|	|	|650-662	|CI. Sapotaceae	|	|B & H|
+|	|	|650-662	|CI. Sapotaceae	|B & H|
 |	|	|662-1225	|CII. Eben.-CXXVII. Plant.	|B|
 |3	|1	|\[i\]-vii, \[1\]-459	|	|	|7 Feb 1880|
 |	|	|1-88	|CXXVIII. Nyct.-CXXXII. Bat.	|H|
-|	|	|88-115	|CXXXIV. Polyg.-CXXXV.|Podost.	|	|B|
-|	|	|115-121	|CXXXVI. Nep.-CXXXVII.|Cytin.	|H|
-|	|	|121-231	|CXXXVII. Arist.-CXLIX.|Sant.	|B|
+|	|	|88-115	|CXXXIV. Polyg.-CXXXV. Podost.	|B|
+|	|	|115-121	|CXXXVI. Nep.-CXXXVII. Cytin.	|H|
+|	|	|121-231	|CXXXVII. Arist.-CXLIX. Sant.	|B|
 |	|	|232-239	|CL. Balanophoraceae	|H|
 |	|	|237-447	|CLI. Euph.-CLXVI. Cycad.	|B|
 |	|2	|\[i\*\], vii \[bis\], viii-xi, 447-1258	|	|	|14 Apr 1883|
-|3	|2	|448-869	|CLXVII. Hydr.-CLXXXVI.|Junc.	|B|
-|	|	|870-1019	|CLXXXVII. Palm.-CXCV.|Naiad.	|H|
+|3	|2	|448-869	|CLXVII. Hydr.-CLXXXVI. Junc.	|B|
+|	|	|870-1019	|CLXXXVII. Palm.-CXCV. Naiad.	|H|
 |	|	|1019-1215	|CXVI. Erioc.-CC. Gram.	|B|
 
 *Copies*: FAS, U. – The first sets of all duplicate pages were "cancels, " intended to be destroyed and consequently not counted in numbering the pages of following parts; they included, however, descriptions of several new genera. – See Stearn's introduction to the facsimile reprint for lists of the papers by Bentham in which the latter explains and amplifies the accounts of several of the families. – For a general generic index see T. Durand.

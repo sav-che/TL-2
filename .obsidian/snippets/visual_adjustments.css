@@ -3,7 +3,7 @@ body {
 	--callout-padding: 10px 14px 10px 14px;
 	--list-marker-color:var(--color-base-40);
 	--list-bullet-size: 0.25em;
-	--list-bullet-transform: translateX(10px);
+/*	--list-bullet-transform: translateX(10px); */
 	--table-border-width: 0; 
 	--table-row-alt-background: var(--background-secondary);
 	--table-row-background-hover: var(--background-secondary-alt);
