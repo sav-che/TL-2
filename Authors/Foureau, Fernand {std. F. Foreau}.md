@@ -7,7 +7,7 @@ Foureau, Fernand (1850-1914), French explorer and colonial administrator, born 1
 
 #### Herbarium and types
 
-[[Collection CHEV|CHEV]], [[Collection P|P]].
+[[Collection P|CHEV]], [[Collection P|P]].
 
 #### Bibliography and biography
 

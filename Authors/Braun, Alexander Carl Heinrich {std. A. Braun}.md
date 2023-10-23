@@ -9,7 +9,7 @@ Braun, Alexander Carl Heinrich (1805-1877), German botanist, outstanding morphol
 
 #### Herbarium and types
 
-[[Collection B|B]] (mostly destroyed); some early collections at [[Collection LZ|LZ]] (destroyed), other material at [[Collection FB|FB]], [[Collection GIESSEN|GIESSEN]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection KR|KR]], [[Collection OXF|OXF]] (see IH). Algal material at [[Collection L|L]] and [[Collection PC|PC]]. The [[Collection OXF|OXF]] material was collected before 1835 and came with the Steudel herbarium.
+[[Collection B|B]] (mostly destroyed); some early collections at [[Collection LZ|LZ]] (destroyed), other material at [[Collection FB|FB]], [[Collection GI|GIESSEN]], [[Collection H|H]], [[Collection HBG|HBG]], [[Collection KR|KR]], [[Collection OXF|OXF]] (see IH). Algal material at [[Collection L|L]] and [[Collection PC|PC]]. The [[Collection OXF|OXF]] material was collected before 1835 and came with the Steudel herbarium.
 *Ref*.: GR p. 7; IH 2: 94.
 - Anon., Flora 61: 16. 1 Jan 1878 (herb. bought for B); J. Bot. 16: 96. 1878.
 - Candolle, Phytographie 399. 1880.

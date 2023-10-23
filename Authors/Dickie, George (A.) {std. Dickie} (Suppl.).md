@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (acquired 1884, see TL-2/1: p. 643; purchase 1883 was a collection of about 7000 algae and 372 diat. slides), further material at [[Collection ABD|ABD]], [[Collection AK|AK]], [[Collection BRSITM|BRSITM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection G|G]], [[Collection GL|GL]], [[Collection HU|HU]], [[Collection K|K]], [[Collection LINN|LINN]], [[Collection M|M]], [[Collection NMW|NMW]], [[Collection NY|NY]], [[Collection WAR|WAR]]. – Letters at [[Collection BM|BM]], [[Collection K|K]].
+[[Collection BM|BM]] (acquired 1884, see TL-2/1: p. 643; purchase 1883 was a collection of about 7000 algae and 372 diat. slides), further material at [[Collection ABD|ABD]], [[Collection AK|AK]], [[Collection BRISTM|BRISTM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection G|G]], [[Collection GL|GL]], [[Collection HU|HU]], [[Collection K|K]], [[Collection LINN|LINN]], [[Collection M|M]], [[Collection NMW|NMW]], [[Collection NY|NY]], [[Collection WAR|WAR]]. – Letters at [[Collection BM|BM]], [[Collection K|K]].
 
 #### Bibliography and biography
 

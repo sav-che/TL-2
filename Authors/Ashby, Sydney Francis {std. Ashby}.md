@@ -7,7 +7,7 @@ Ashby, Sydney Francis (1874-1954), British botanist, B.Sc. Glasgow, sometime res
 
 #### Herbarium and types
 
-[[Collection CMI|CMI]] (fungi).
+[[Collection IMI|CMI]] (fungi).
 
 #### Bibliography and biography
 

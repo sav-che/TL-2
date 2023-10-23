@@ -1,0 +1,2 @@
+IISL is not an "official" herbarium acronym, and usually it is not present in the lists of collections. In the context of TL-2 it appears only as a full name of institution:  International Institute of Ligurian Studies (Istituto Internazionale di Studi Liguri, Bordighera, Italy).
+[GRSciColl](https://scientific-collections.gbif.org/) links: [institution record](https://scientific-collections.gbif.org/institution/0eaffa40-738e-46c1-8635-0654b0c3c4da), [collection  record](https://scientific-collections.gbif.org/collection/1e81ba90-0aaa-4595-b537-ce999df312ba).

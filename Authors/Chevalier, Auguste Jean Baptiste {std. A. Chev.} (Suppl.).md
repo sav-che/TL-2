@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection P|P]], [[Collection PC|PC]] (incl. [[Collection CHEV|CHEV]]). – Further material in [[Collection B|B]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection COI|COI]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection NY|NY]], [[Collection W|W]]. – See IH 2: 125. 1954 for further inf.
+[[Collection P|P]], [[Collection PC|PC]] (incl. CHEV). – Further material in [[Collection B|B]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection COI|COI]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection NY|NY]], [[Collection W|W]]. – See IH 2: 125. 1954 for further inf.
 
 #### Bibliography and biography
 

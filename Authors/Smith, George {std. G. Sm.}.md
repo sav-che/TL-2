@@ -7,7 +7,7 @@ Smith, George (1895-1967), British chemist and self-taught mycologist; M.S. Manc
 
 #### Herbarium and types
 
-[[Collection CMI|CMI]], [[Collection K|K]].
+[[Collection IMI|CMI]], [[Collection K|K]].
 
 #### Bibliography and biography
 

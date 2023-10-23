@@ -7,7 +7,7 @@ Makowsky, Alexander (1833-1908), Czech botanist, mineralogist and geologist; hig
 
 #### Herbarium and types
 
-[[Collection W|W]] (see Ostermeyer 1913); further material at [[Collection BRNO|BRNO]], [[Collection BRNM|BRNM]], [[Collection E|E]].
+[[Collection W|W]] (see Ostermeyer 1913); further material at [[Collection BRNU|BRNO]], [[Collection BRNM|BRNM]], [[Collection E|E]].
 
 #### Bibliography and biography
 

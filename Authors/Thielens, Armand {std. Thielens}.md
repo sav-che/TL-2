@@ -7,7 +7,7 @@ Thielens, Armand (1833-1878), Belgian botanist and malacologist; studied at Liè
 
 #### Herbarium and types
 
-[[Collection LG|LG]]; other material at [[Collection BR|BR]] (1500 dupl. private coll.), [[Collection AWH|AWH]], [[Collection BUG|BUG]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection GOET|GOET]], [[Collection MW|MW]] (2020), [[Collection US|US]].
+[[Collection LG|LG]]; other material at [[Collection BR|BR]] (1500 dupl. private coll.), [[Collection AWH|AWH]], [[Collection BUC|BUC]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection GOET|GOET]], [[Collection MW|MW]] (2020), [[Collection US|US]].
 *Exsiccatae*: with A. DeVos, *Kickxia belgica*, cent. 1-4, 1865-1868, see below for prospectus; sets e.g. at [[Collection BR|BR]], [[Collection GOET|GOET]], [[Collection LG|LG]]. – In addition to this series of exsiccatae Thielens offered many sets of plants collected by others for sale as is clear from his undated pamphlets *Collections de plantes* (doubles) provenant de divers herbiers et mises en vente" (5 series; copies at [[Collection G|G]]) and his *Liste de plantes de Belgique* offertes en échange, Tirlemont 1863 (no. 1)(p. \[1\]-8, *copy*: [[Collection G|G]]). – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography

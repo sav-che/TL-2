@@ -7,7 +7,7 @@ Gibson, George Stacey (1818-1883), British banker and amateur botanist, born 20 
 
 #### Herbarium and types
 
-[[Collection BM|BM]], [[Collection BRSTM|BRSTM]], [[Collection CGE|CGE]], [[Collection CLR|CLR]], [[Collection HAMU|HAMU]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection SRD|SRD]], [[Collection SWN|SWN]] (orig.); he also purchased part of the Lambert herb. (*fide* Miller, H.S, Taxon 19: 509. 1970). – Corr. and papers in the Saffron Walden Museum (Essex).
+[[Collection BM|BM]], [[Collection BRISTM|BRISTM]], [[Collection CGE|CGE]], [[Collection CLR|CLR]], [[Collection HAMU|HAMU]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection SRD|SRD]], [[Collection SWN|SWN]] (orig.); he also purchased part of the Lambert herb. (*fide* Miller, H.S, Taxon 19: 509. 1970). – Corr. and papers in the Saffron Walden Museum (Essex).
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Hobkirk, Charles Codrington Pressick (1837-1902), British (Yorkshire) banker, lo
 
 #### Herbarium and types
 
-[[Collection DSY|DSY]]; further material at [[Collection K|K]], [[Collection MANGH|MANGH]] and [[Collection F|F]].
+[[Collection DSY|DSY]]; further material at [[Collection K|K]], [[Collection MANCH|MANCH]] and [[Collection F|F]].
 
 #### Bibliography and biography
 

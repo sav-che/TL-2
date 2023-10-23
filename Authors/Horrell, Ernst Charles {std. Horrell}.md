@@ -7,7 +7,7 @@ Horrell, Ernst Charles (1870-1937), British botanist. (*Horrell*).
 
 #### Herbarium and types
 
-Musci at [[Collection B|B]], [[Collection BIRM|BIRM]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection E|E]], [[Collection KEIGHLEY|KEIGHLEY]], [[Collection NOT|NOT]], [[Collection OXF|OXF]].
+Musci at [[Collection B|B]], [[Collection BIRM|BIRM]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection C|C]], [[Collection E|E]], [[Collection KGY|KEIGHLEY]], [[Collection NOT|NOT]], [[Collection OXF|OXF]].
 
 #### Bibliography and biography
 

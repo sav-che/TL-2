@@ -7,7 +7,7 @@ Aubréville, André (1897-1982), French botanist and Africa specialist; Ingenieu
 
 #### Herbarium and types
 
-[[Collection P|P]], further material at [[Collection A|A]], [[Collection CHEV|CHEV]], [[Collection MO|MO]].
+[[Collection P|P]], further material at [[Collection A|A]], [[Collection P|CHEV]], [[Collection MO|MO]].
 
 #### Bibliography and biography
 

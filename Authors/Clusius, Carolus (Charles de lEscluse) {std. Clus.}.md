@@ -7,7 +7,7 @@ Clusius, Carolus \[Charles de l’Escluse\] (1526-1609), Dutch botanist. (*Clus.
 
 #### Herbarium and types
 
-Herbarium specimens documenting Clusius' descriptions, are extremely rare. The Bauhins ([[Collection BAS|BAS]]) received Clusius' material and so did Platter (BE) but in the absence of annotations the specimens are difficult to locate.
+Herbarium specimens documenting Clusius' descriptions, are extremely rare. The Bauhins ([[Collection BAS|BAS]]) received Clusius' material and so did Platter ([[Collection BE|BE]]) but in the absence of annotations the specimens are difficult to locate.
 
 #### Bibliography and biography
 

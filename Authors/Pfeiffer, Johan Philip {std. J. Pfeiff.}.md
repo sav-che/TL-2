@@ -7,7 +7,7 @@ Pfeiffer, Johan Philip (1888-1947), Dutch chemical engineer, botanist and forest
 
 #### Herbarium and types
 
-[[Collection DELFT|DELFT]] (Suriname); [[Collection BO|BO]] and [[Collection L|L]] (Indon.).
+DELFT[^1] (Suriname); [[Collection BO|BO]] and [[Collection L|L]] (Indon.).
 
 #### Bibliography and biography
 
@@ -31,4 +31,6 @@ Andrews p. 312; Barnhart 3: 79; BL 2: 258, 312; BM 8: 1005; IH 2: (in press); La
 *2*: 1927 (p. \[5\]: Feb 1927), p. \[i-iii\], \[1\]-244.
 *Atlas*: cover, *pl. 1-24* (12 lvs) (uncol. phot.) and *pl. 1-18* (id.).
 *Copies*: B, BR, NY, U. – Kon. Ver. Koloniaal Instituut Amsterdam, Meded. 22, Afd. Handelsmuseum no. 6.
+
+[^1]: Probably [[Collection CBS|CBS]].
 

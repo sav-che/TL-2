@@ -7,7 +7,7 @@ Broughton, Arthur (x-1796), British botanist and physician at Bristol and from 1
 
 #### Herbarium and types
 
-[[Collection BRL|BRL]] (not traced, fide Kent, but see Willis and Gledhill 1971). Jamaica herbarium at [[Collection BRISTOL|BRISTOL]] (fide BB).
+[[Collection BRL|BRL]] (not traced, fide Kent, but see Willis and Gledhill 1971). Jamaica herbarium at [[Collection BRISTM|BRISTOL]] (fide BB).
 *Ref*.: BB p. 47.
 - Kent, Brit. herbaria 46. 1957.
 - Willis and Gledhill, Proc. Bristol Nat. Soc. 32(1): 53-57. 1971.

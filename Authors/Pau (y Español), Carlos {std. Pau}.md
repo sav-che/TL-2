@@ -7,7 +7,7 @@ Pau \[y Español\], Carlos (1857-1937), Spanish botanist and pharmacist at Segor
 
 #### Herbarium and types
 
-[[Collection MA|MA]]; further material in [[Collection AK|AK]], [[Collection B|B]] (extant; Herb. hisp. 1893-1894), [[Collection BR|BR]], [[Collection E|E]]-GL, [[Collection FI|FI]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection L|L]], [[Collection LIVU|LIVU]], [[Collection LRMANCH|LRMANCH]], [[Collection PH|PH]], [[Collection PI|PI]], [[Collection W|W]].
+[[Collection MA|MA]]; further material in [[Collection AK|AK]], [[Collection B|B]] (extant; Herb. hisp. 1893-1894), [[Collection BR|BR]], [[Collection E|E]]-GL, [[Collection FI|FI]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection L|L]], [[Collection LIVU|LIVU]], [[Collection LR|LR]], [[Collection MANCH|MANCH]], [[Collection PH|PH]], [[Collection PI|PI]], [[Collection W|W]].
 
 #### Bibliography and biography
 
