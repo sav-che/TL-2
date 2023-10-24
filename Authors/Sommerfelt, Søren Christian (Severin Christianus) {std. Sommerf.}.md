@@ -8,7 +8,7 @@ Sommerfelt, Søren Christian \[Severin Christianus\] (1794-1838), Norwegian cler
 #### Herbarium and types
 
 [[Collection O|O]]; further material at [[Collection C|C]], [[Collection E|E]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LZ|LZ]] (destr.), [[Collection UPS|UPS]]. *Exsiccatae*:
-(1) *Plantarum cryptogamarum norvegicarum* quas collegit... cent. 1-2, fasc. 1-4, nos. 1-200, Christianiae \[Oslo\] 1826-1830, sets at [[Collection C|C]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection O|O]], [[Collection S|S]], [[Collection STR|STR]], [[Collection U|U]], [[Collection UPS|UPS]], [[Collection W|W]]. – *Index*: Mag. Naturvid. 7(1): 158-161. 1826; (for lichens) see Lynge p. 493-494); further details in [[Collection MD|MD]] (p. 223), and Sayre (1969).
+(1) *Plantarum cryptogamarum norvegicarum* quas collegit... cent. 1-2, fasc. 1-4, nos. 1-200, Christianiae \[Oslo\] 1826-1830, sets at [[Collection C|C]], [[Collection DBN|DBN]], [[Collection FH|FH]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection O|O]], [[Collection S|S]], [[Collection STR|STR]], [[Collection U|U]], [[Collection UPS|UPS]], [[Collection W|W]]. – *Index*: Mag. Naturvid. 7(1): 158-161. 1826; (for lichens) see Lynge p. 493-494); further details in MD (p. 223), and Sayre (1969).
 (2) *Herbarium criticum novum*, sets at [[Collection L|L]] and [[Collection O|O]].
 Some *letters* at [[Collection G|G]].
 

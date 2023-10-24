@@ -1,6 +1,7 @@
 > [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/item/103414#page/907/mode/1up) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
+> [!example] See also [[Forster, Johann Georg (b. George) Adam {std. G. Forster} (Suppl.)|second entry]] for Forsters
 ### Author
 
 Forster, Johann Reinhold (1729-1798), German explorer and botanist, father of J. G. A. Forster, naturalist on Cook's second voyage. (*J. R. Forster*).

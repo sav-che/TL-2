@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BP|BP]], [[Collection C|C]], [[Collection DBM|DBM]], [[Collection H|H]]-BR, [[Collection PC|PC]], [[Collection LY|LY]](?).
+[[Collection BP|BP]], [[Collection C|C]], [[Collection DBM|DBM]] \[[[Collection DBN|DBN?]]\], [[Collection H|H]]-BR, [[Collection PC|PC]], [[Collection LY|LY]](?).
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Hy, Félix Charles (1853-1918), French clergyman and cryptogamist; professor at 
 
 #### Herbarium and types
 
-[[Collection ANGUC|ANGUC]], [[Collection GOLO|GOLO]], [[Collection PC|PC]]; other material at [[Collection DUKE|DUKE]], [[Collection G|G]], [[Collection L|L]].
+[[Collection ANGUC|ANGUC]], [[Collection COLO|COLO]], [[Collection PC|PC]]; other material at [[Collection DUKE|DUKE]], [[Collection G|G]], [[Collection L|L]].
 
 #### Bibliography and biography
 

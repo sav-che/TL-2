@@ -7,7 +7,7 @@ Purdie, William (c. 1817-1857), Scottish gardener and plant collector; originall
 
 #### Herbarium and types
 
-Important sets at [[Collection CGE|CGE]], [[Collection E|E]] and [[Collection K|K]]; further material at [[Collection B|B]], [[Collection COLU|COLU]], [[Collection FI|FI]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection L|L]], [[Collection MEDEL|MEDEL]], [[Collection NY|NY]], [[Collection P|P]], [[Collection TCD|TCD]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]].
+Important sets at [[Collection CGE|CGE]], [[Collection E|E]] and [[Collection K|K]]; further material at [[Collection B|B]], [[Collection COLO|COLO]], [[Collection FI|FI]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection L|L]], [[Collection MEDEL|MEDEL]], [[Collection NY|NY]], [[Collection P|P]], [[Collection TCD|TCD]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]].
 
 #### Bibliography and biography
 

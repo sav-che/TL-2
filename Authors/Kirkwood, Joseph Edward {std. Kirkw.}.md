@@ -7,7 +7,7 @@ Kirkwood, Joseph Edward (1872-1928), American botanist; Ph. D. Columbia 1903, fr
 
 #### Herbarium and types
 
-[[Collection MONTU|MONTU]]; duplicates [[Collection LA|LA]] (important set) [[Collection A|A]], [[Collection FG|FG]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection POM|POM]].
+[[Collection MONTU|MONTU]]; duplicates [[Collection LA|LA]] (important set) [[Collection A|A]], [[Collection FG|FG]] \[[[Collection FH|FH?]]\], [[Collection GH|GH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection POM|POM]].
 
 #### Bibliography and biography
 

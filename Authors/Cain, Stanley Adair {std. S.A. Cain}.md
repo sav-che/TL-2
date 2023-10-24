@@ -7,7 +7,7 @@ Cain, Stanley Adair (1902-x), American botanist, studied at Butler University, B
 
 #### Herbarium and types
 
-[[Collection TENN|TENN]] (3000); further material in [[Collection B|B]], [[Collection IU|IU]], [[Collection ND|ND]], [[Collection NY|NY]].
+[[Collection TENN|TENN]] (3000); further material in [[Collection B|B]], [[Collection IU|IU]] \[[[Collection BUT|BUT]]? see IH\], [[Collection ND|ND]], [[Collection NY|NY]].
 
 #### Bibliography and biography
 

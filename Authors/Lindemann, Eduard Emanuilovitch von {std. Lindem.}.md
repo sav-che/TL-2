@@ -5,7 +5,7 @@
 
 Lindemann, Eduard Emanuilovitch von (1825-1900), Russian botanist at Elisabethgrad (Cherson), son of Emanuel von Lindemann, studied natural sciences and medicine at St. Petersburg 1841-1847; military surgeon in the Russian army from 1848; Dr. phil. h.c. Odessa 1877. (*Lindem.*).
 
-#### Herbarium and types
+#### Herbarium and types [^1]
 
 [[Collection LE|LE]]; further material in [[Collection MW|MW]].
 
@@ -54,3 +54,4 @@ Barnhart 2: 384; BM 3: 1118; Bossert p. 238; CSP 4: 28, 8: 232-233, 10: 602; Hor
 *Copies*: BR, G, M, MO, USDA.
 *Orig. publ*.: Zap. Novorossijsk. Obsh. Estestvoisp. vol. 6 (supplements).
 
+[^1]: Also [[Collection MSUD|MSUD]] (7000). See Шиян, Н. М. (Ed.). (2011). _Гербарії України. Index Herbariorum Ucrainicum_ (2nd ed.). Альтпресс.

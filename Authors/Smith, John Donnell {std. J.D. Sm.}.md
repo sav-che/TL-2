@@ -7,7 +7,7 @@ Smith, John Donnell (1829-1928), American botanist; graduated from Yale Universi
 
 #### Herbarium and types
 
-[[Collection US|US]] (ca. 100.000); further material at [[Collection A|A]], [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection C|C]], [[Collection COLU|COLU]], [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection P|P]], [[Collection PH|PH]], [[Collection WELC|WELC]]. – The *Plantae guatemalenses Tuerckheimianae*, distributed by J.D. Smith from 1887 onward went to [[Collection B|B]], [[Collection GH|GH]], [[Collection K|K]], [[Collection NY|NY]], [[Collection P|P]] and [[Collection US|US]], fide footnote Bot. Gaz. 12: 131. 1887. – *Letters* and other mss. at e.g. [[Collection F|F]], [[Collection GH|GH]], [[Collection HU|HU]], SIA.
+[[Collection US|US]] (ca. 100.000); further material at [[Collection A|A]], [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection C|C]], [[Collection COLO|COLO]], [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection P|P]], [[Collection PH|PH]], [[Collection WELC|WELC]]. – The *Plantae guatemalenses Tuerckheimianae*, distributed by J.D. Smith from 1887 onward went to [[Collection B|B]], [[Collection GH|GH]], [[Collection K|K]], [[Collection NY|NY]], [[Collection P|P]] and [[Collection US|US]], fide footnote Bot. Gaz. 12: 131. 1887. – *Letters* and other mss. at e.g. [[Collection F|F]], [[Collection GH|GH]], [[Collection HU|HU]], SIA.
 
 #### Note
 

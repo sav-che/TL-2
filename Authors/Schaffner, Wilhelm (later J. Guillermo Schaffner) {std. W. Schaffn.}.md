@@ -7,7 +7,7 @@ Schaffner, Wilhelm (later: J. Guillermo Schaffner) (x-1882), German (Hessen) pla
 
 #### Herbarium and types
 
-Material at [[Collection A|A]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CAS|CAS]], [[Collection COLU|COLU]], [[Collection CORD|CORD]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection MEXU|MEXU]] (impt. set), [[Collection MICH|MICH]], [[Collection MW|MW]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SLPM|SLPM]], [[Collection US|US]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – Sometimes labelled J.G. Schaffner; exsiccatae distributed by R.F. Hohenacker and C.H. Schultz-Bip. – *Letters* to D.F.L. von Schlechtendal at [[Collection HAL|HAL]].
+Material at [[Collection A|A]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CAS|CAS]], [[Collection COLO|COLO]], [[Collection CORD|CORD]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]], [[Collection MEXU|MEXU]] (impt. set), [[Collection MICH|MICH]], [[Collection MW|MW]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SLPM|SLPM]], [[Collection US|US]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – Sometimes labelled J.G. Schaffner; exsiccatae distributed by R.F. Hohenacker and C.H. Schultz-Bip. – *Letters* to D.F.L. von Schlechtendal at [[Collection HAL|HAL]].
 
 #### Bibliography and biography
 

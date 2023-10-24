@@ -11,7 +11,7 @@ Holzinger, John Michael (1853-1929), American bryologist, professor of elementar
 (2) *Herb. J. M. Holzinger*: *Mosses of Idaho*, set at [[Collection FH|FH]].
 (3) *Mosses of Minnesota*. Sets at [[Collection FH|FH]] and [[Collection NY|NY]].
 (4) *Mosses of Colorado*... collected by Carl. F. Baker 1896, nos. 1-50, sets at [[Collection FH|FH]], [[Collection PC|PC]].
-(5) *Mosses of North-West Montana*... collected by J. M. Holzinger and James B. Blake 1898. Sets at [[Collection FN|FN]], [[Collection NY|NY]].
+(5) *Mosses of North-West Montana*... collected by J. M. Holzinger and James B. Blake 1898. Sets at [[Collection FH|FH]], [[Collection NY|NY]].
 *Ref*.: Grout, A. J., \[notes on fascicles of *Musci acrocarpi boreali-americani* in\] Bryologist vols. 7-30, 1904-1927.
 - LeRoy, Andrews, Bryologist 32(6): 109. 1930.
 - Sayre, G., Mem. New York Bot. Gard. 19(2): 213-215. 1971; Bryologist 80: 510. 1978.

@@ -1,0 +1,1 @@
+In the context of TL-2, USDA is not only a Library of the United States Department of Agriculture (Washington, USA), as specified in the [[Abbreviations|abbreviation list]], but also a corresponding herbarium. Also see [[Collection BPI|BPI]].

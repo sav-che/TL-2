@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BREM|BREM]], additonal material in [[Collection NMW|NMW]]; the types for his contributions to [[Collection EP|EP]], *Nat. Pflanzenfam.* are mostly at [[Collection K|K]]. – *Exsiccatae*: *Rubi selecti, distributi a Dr. W.O. Focke*... Bremen (1869-1872, nos. 1-82): [[Collection A|A]], [[Collection B|B]], [[Collection BORD|BORD]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection DR|DR]], [[Collection HAN|HAN]], [[Collection K|K]], [[Collection LE|LE]], [[Collection W|W]].
+[[Collection BREM|BREM]], additonal material in [[Collection NMW|NMW]]; the types for his contributions to EP, *Nat. Pflanzenfam.* are mostly at [[Collection K|K]]. – *Exsiccatae*: *Rubi selecti, distributi a Dr. W.O. Focke*... Bremen (1869-1872, nos. 1-82): [[Collection A|A]], [[Collection B|B]], [[Collection BORD|BORD]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection DR|DR]], [[Collection HAN|HAN]], [[Collection K|K]], [[Collection LE|LE]], [[Collection W|W]].
 *Ref*.: Weber, H.E., Die Gattung *Rubus* L. im nordwestlichen Europa, Lehre: 495. 1972 \[nos. and dates for the exsiccatae\].
 
 #### Bibliography and biography

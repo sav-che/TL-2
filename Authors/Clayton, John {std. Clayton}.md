@@ -7,7 +7,7 @@ Clayton, John (1686-1773), British physician in Virginia, correspondent of Grono
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (via Gronovius herbarium and Banks), also material at [[Collection GGE|GGE]], [[Collection LINN|LINN]] and [[Collection OXF|OXF]]. – Topotypes at [[Collection GLEN|GLEN]]. Clayton's own herbarium was destroyed (Britten 1909).
+[[Collection BM|BM]] (via Gronovius herbarium and Banks), also material at [[Collection CGE|CGE]], [[Collection LINN|LINN]] and [[Collection OXF|OXF]]. – Topotypes at [[Collection GLEN|GLEN]]. Clayton's own herbarium was destroyed (Britten 1909).
 *Ref*.: IH 1 (ed. 6): 101, 2: 130.
 - Blake, Rhodora 20: 21-28, 48-54, 65-73. 1918, see also Bot. Centralbl. 141: 237-238. 1919 (notes on the Clayton herb.).
 - Clokie, Account herbaria Oxford 146. 1964.

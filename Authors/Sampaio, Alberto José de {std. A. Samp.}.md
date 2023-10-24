@@ -7,7 +7,7 @@ Sampaio, Alberto José de (1881-1946), Brazilian botanist; with the botanical se
 
 #### Herbarium and types
 
-[[Collection R|R]]; duplicates at [[Collection B|B]] (mainly destr.), [[Collection IAG|IAG]], [[Collection NY|NY]]; [[Collection US|US]].
+[[Collection R|R]]; duplicates at [[Collection B|B]] (mainly destr.), [[Collection IAC|IAC]], [[Collection NY|NY]]; [[Collection US|US]].
 
 #### Bibliography and biography
 

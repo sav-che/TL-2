@@ -7,7 +7,7 @@ Boer, Petrus de (1841-1890), Dutch (Frisian) botanist, studied at the University
 
 #### Herbarium and types
 
-If any at [[Collection GRON|GRON]]; material used for his thesis (see below) at [[Collection L|L]] and [[Collection U|U]].
+If any at [[Collection GRO|GRON]]; material used for his thesis (see below) at [[Collection L|L]] and [[Collection U|U]].
 
 #### Bibliography and biography
 

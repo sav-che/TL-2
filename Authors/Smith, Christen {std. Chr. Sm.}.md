@@ -7,7 +7,7 @@ Smith, Christen (1785-1816), Norwegian botanist and physician; professor of bota
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – Other material at [[Collection B|B]] (mainly destr.), [[Collection BR|BR]], [[Collection C|C]], [[Collection GDC|GDC]], [[Collection K|K]] (ex herb. R. Brown), [[Collection LINN|LINN]], [[Collection MO|MO]], [[Collection STR|STR]]. – Mss. autobiography at [[Collection BM|BM]].
+[[Collection BM|BM]]. – Other material at [[Collection B|B]] (mainly destr.), [[Collection BR|BR]], [[Collection C|C]], [[Collection GDC|GDC]] \[[[Collection G|G]]-DC?\], [[Collection K|K]] (ex herb. R. Brown), [[Collection LINN|LINN]], [[Collection MO|MO]], [[Collection STR|STR]]. – Mss. autobiography at [[Collection BM|BM]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Rovirosa, José N. (1849-1901), Mexican botanist. (*Rovirosa*).
 
 #### Herbarium and types
 
-[[Collection MEXU|MEXU]]; other material at [[Collection B|B]] (mainly destr.), [[Collection COLU|COLU]], [[Collection GH|GH]], [[Collection K|K]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection UC|UC]], [[Collection US|US]]. – A.R. Smith (Fl. Chiapas 1981) notes that the most complete set may be at [[Collection PH|PH]]. (see also Mears 1981).
+[[Collection MEXU|MEXU]]; other material at [[Collection B|B]] (mainly destr.), [[Collection COLO|COLO]], [[Collection GH|GH]], [[Collection K|K]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection UC|UC]], [[Collection US|US]]. – A.R. Smith (Fl. Chiapas 1981) notes that the most complete set may be at [[Collection PH|PH]]. (see also Mears 1981).
 
 #### Bibliography and biography
 

@@ -1,15 +1,22 @@
 > [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103834#page/347/mode/1up) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Forster, Johann Georg Adam {std. G. Forster}|first entry]] for this author
+> [!example] See also [[Forster, Johann Georg Adam {std. G. Forster}|first entry]] for Johann Georg
+
+> [!example] See also [[Forster, Johann Reinhold {std. J.R. Forster}|first entry]] for Johann Reinhold
+
 
 ### Author
 
-\* Forster, Johann Georg \[b. George!\] Adam (1754-1794), German explorer and botanist, born 27 Dec 1754, son of J.R. Forster whom he accompanied to Russia, England and on Capt. J. Cook's second voyage (1772-1775), died 10 Jan 1794 in Paris. (*G. Forst.*). and \*Forster, Johann \[b. John!\] Reinhold (1729-1798), German explorer and naturalist, born 22 Nov 1729 in Tczew (Dirschau), died 9 Dec 1798 in Halle. (*J.R. Forst.*).
+\* Forster, Johann Georg \[b. George!\] Adam (1754-1794), German explorer and botanist, born 27 Dec 1754, son of J.R. Forster whom he accompanied to Russia, England and on Capt. J. Cook's second voyage (1772-1775), died 10 Jan 1794 in Paris. (*G. Forst.*). 
+
+**and**
+
+\* Forster, Johann \[b. John!\] Reinhold (1729-1798), German explorer and naturalist, born 22 Nov 1729 in Tczew (Dirschau), died 9 Dec 1798 in Halle. (*J.R. Forst.*).
 
 #### Herbarium and types
 
-There is no single original Forster herbarium. The Forsters (father and son) gave away, exchanged, offered or sold parts of their collections at various times. One of the most important collections is at the [[Collection BM|BM]], involving four easily distinguishable sets; two sets given to Banks (the 2nd a supplement to the first) and two sets acquired from A.B. Lambert (P.S. Pallas' set and a set from George Forster's estate). Other large Forster collections (more than 100 specimens) are at [[Collection B|B]], [[Collection C|C]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection LIV|LIV]] (the father's herbarium, many of which were sent to [[Collection K|K]]), [[Collection M|M]], [[Collection MW|MW]], [[Collection P|P]], [[Collection S|S]], [[Collection UPS|UPS]]-THUNB (a very considerable set involving A. Sparrman) and [[Collection W|W]]. Other collections are at [[Collection FR|FR]], [[Collection KIEL|KIEL]], [[Collection KRAM|KRAM]], [[Collection LE|LE]], [[Collection LINN|LINN]] (often via A. Bäck) and [[Collection PH|PH]] (via A.B. Lambert). The Moscow State Univ. ([[Collection MW|MW]]) specimens are available on microfiche (IDC 2000). – Major holdings of \[botanical\] artwork are at [[Collection BM|BM]], [[Collection GOTHA|GOTHA]] and [[Collection LE|LE]]. There also is a vast amount of Forster mss. in the Central Library of the Muséum natl. d'Histoire naturelle, Paris (at least 16 of the documents pertain to plants!, as opposed to birds, ethnology or zoology). These materials were given by George Forster's wife to "Le Peuple de France" on 11 Dec 1794.
+There is no single original Forster herbarium. The Forsters (father and son) gave away, exchanged, offered or sold parts of their collections at various times. One of the most important collections is at the [[Collection BM|BM]], involving four easily distinguishable sets; two sets given to Banks (the 2nd a supplement to the first) and two sets acquired from A.B. Lambert (P.S. Pallas' set and a set from George Forster's estate). Other large Forster collections (more than 100 specimens) are at [[Collection B|B]], [[Collection C|C]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection LIV|LIV]] (the father's herbarium, many of which were sent to [[Collection K|K]]), [[Collection M|M]], [[Collection MW|MW]], [[Collection P|P]], [[Collection S|S]], [[Collection UPS|UPS]]-THUNB (a very considerable set involving A. Sparrman) and [[Collection W|W]]. Other collections are at [[Collection FR|FR]], [[Collection KIEL|KIEL]], [[Collection KRAM|KRAM]], [[Collection LE|LE]], [[Collection LINN|LINN]] (often via A. Bäck) and [[Collection PH|PH]] (via A.B. Lambert). The Moscow State Univ. ([[Collection MW|MW]]) specimens are available on microfiche (IDC 2000). – Major holdings of \[botanical\] artwork are at [[Collection BM|BM]], [[Collection Gotha|GOTHA]] and [[Collection LE|LE]]. There also is a vast amount of Forster mss. in the Central Library of the Muséum natl. d'Histoire naturelle, Paris (at least 16 of the documents pertain to plants!, as opposed to birds, ethnology or zoology). These materials were given by George Forster's wife to "Le Peuple de France" on 11 Dec 1794.
 
 #### Bibliography and biography
 

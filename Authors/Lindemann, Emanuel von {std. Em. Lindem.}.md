@@ -5,7 +5,7 @@
 
 Lindemann, Emanuel von (1795-1845), Russian botanist and entomologist at Mitau; studied at Erfurt (1813) and Dorpat (1814-1816); high school teacher at Mitau 1820-1845. (*Em. Lindem.*).
 
-#### Herbarium and types
+#### Herbarium and types [^1]
 
 [[Collection LE|LE]].
 
@@ -216,4 +216,6 @@ NOTE: We have seen no further issues of the regular Linden catalogues. We have n
 *Co-editors*: Emile Rodigas (1831-1902), Charles Lucien Linden (1853-1940).
 *Publ*.: 17 volumes, each in 12 parts of four plates with accompanying text. In later volumes fascicles often came out in sets of 2; the last instalment published, Dec 1906, contained parts 9-12 of vol. 17. In all 813 plates, numbered 1-794, 796-814 ofwhich only *pl. 525* was uncoloured. A portrait of Linden is included in vol. 13. *Copies*: NY, U.
 *English translation*: 13 vols., Feb 1891 – Jul 1898, of 24 plates each, limited to the plates of the second half of vol. 6 of the original edition, and vols. 7-12, numbered 265-624. *Copy*: NY. –"Lindenia, iconography of Orchids conducted by J. Linden, Lucien Linden, Em. Rodigas and R. A. Rolfe..." Ghent (printed by Eug. Vanderhaeghen).
+
+[^1]: Also [[Collection MSUD|MSUD]]. See Шиян, Н. М. (Ed.). (2011). _Гербарії України. Index Herbariorum Ucrainicum_ (2nd ed.). Альтпресс.
 

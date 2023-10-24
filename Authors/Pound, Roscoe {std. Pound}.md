@@ -7,7 +7,7 @@ Pound, Roscoe (1870-1964), American botanist; Dr. phil. Univ. Nebraska 1897, dir
 
 #### Herbarium and types
 
-[[Collection NEB|NEB]]; some further material at [[Collection DNB|DNB]] and [[Collection E|E]]. – Letters and portrait at [[Collection G|G]].
+[[Collection NEB|NEB]]; some further material at [[Collection DNB|DNB]] \[[[Collection DBN|DBN?]]\] and [[Collection E|E]]. – Letters and portrait at [[Collection G|G]].
 
 #### Bibliography and biography
 

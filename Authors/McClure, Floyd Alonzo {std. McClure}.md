@@ -7,7 +7,7 @@ McClure, Floyd Alonzo (1897-1970), American economic botanist and taxonomist who
 
 #### Herbarium and types
 
-Main set at [[Collection US|US]]; status of set in [[Collection JBSC|JBSC]] unclear. See IH for duplicates; types at [[Collection US|US]] fide statement McClure (3.2.62) in IH archives.
+Main set at [[Collection US|US]]; status of set in [[Collection IBSC|IBSC]] unclear. See IH for duplicates; types at [[Collection US|US]] fide statement McClure (3.2.62) in IH archives.
 
 #### Bibliography and biography
 

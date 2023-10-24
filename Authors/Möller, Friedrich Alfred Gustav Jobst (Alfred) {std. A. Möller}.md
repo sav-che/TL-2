@@ -7,7 +7,7 @@ Möller, Friedrich Alfred Gustav Jobst ("Alfred") (1860-1922), German (Prussian)
 
 #### Herbarium and types
 
-[[Collection B|B]] (main collections; alcohol material extant), [[Collection HBG|HBG]] (p.p. orig. types; now main set), [[Collection IAG|IAG]] and [[Collection W|W]]. See Friederichsen (1977) for a list of specimens still extant at [[Collection HBG|HBG]].
+[[Collection B|B]] (main collections; alcohol material extant), [[Collection HBG|HBG]] (p.p. orig. types; now main set), [[Collection IAC|IAC]] and [[Collection W|W]]. See Friederichsen (1977) for a list of specimens still extant at [[Collection HBG|HBG]].
 
 #### Bibliography and biography
 

@@ -1,0 +1,1 @@
+In the context of TL-2, and when related to historical collections, "Gotha" means [Forschungsbibliothek Gotha](https://www.uni-erfurt.de/forschungsbibliothek-gotha) (Gotha, Germany), now a part of the University of Erfurt. It is not the same as Museum der Natur Gotha (acronym MNG).

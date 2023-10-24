@@ -7,7 +7,7 @@ Sauvalle, Francisco Adolfo (1807-1879), United States-born botanist and malacolo
 
 #### Herbarium and types
 
-[[Collection HAB|HAB]]; some further material at [[Collection NY|NY]].
+[[Collection HAB (sensu TL-2)|HAB]]; some further material at [[Collection NY|NY]].
 
 #### Bibliography and biography
 

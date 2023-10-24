@@ -7,7 +7,7 @@ Vries, Hugo de (1848-1935), Dutch botanist (plant physiologist and geneticist); 
 
 #### Herbarium and types
 
-A herbarium of *Oenothera* mutants, was deposited in the Nederl. Hist. Natuurw. Museum; 11 specimens of Oenothera were at [[Collection B|B]] (destr.). On the whole de Vries is said not to have held herbaria in high regard; archival material at [[Collection AMD|AMD]] (Archief de Vries), Museum Boerhaave, Leiden and Biohist. Inst. Utrecht. – *Letters* e.g. at [[Collection FH|FH]], [[Collection G|G]], [[Collection GH|GH]], [[Collection KNAW|KNAW]], [[Collection UPS|UPS]]-UB.
+A herbarium of *Oenothera* mutants, was deposited in the Nederl. Hist. Natuurw. Museum; 11 specimens of Oenothera were at [[Collection B|B]] (destr.). On the whole de Vries is said not to have held herbaria in high regard; archival material at [[Collection AMD|AMD]] (Archief de Vries), Museum Boerhaave, Leiden and Biohist. Inst. Utrecht. – *Letters* e.g. at [[Collection FH|FH]], [[Collection G|G]], [[Collection GH|GH]], KNAW, [[Collection UPS|UPS]]-UB.
 
 #### Main biography and bibliography
 

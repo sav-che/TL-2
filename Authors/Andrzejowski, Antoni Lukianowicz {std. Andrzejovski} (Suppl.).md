@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection KW|KW]] (9000), further material at [[Collection BR|BR]], [[Collection G|G]]-DC, [[Collection H|H]], [[Collection KRAN|KRAN]], [[Collection M|M]], [[Collection P|P]], [[Collection TO|TO]].
+[[Collection KW|KW]] (9000), further material at [[Collection BR|BR]], [[Collection G|G]]-DC, [[Collection H|H]], [[Collection KRAN|KRAN]] \[[[Collection KRAM|KRAM?]]\], [[Collection M|M]], [[Collection P|P]], [[Collection TO|TO]].
 
 #### Bibliography and biography
 

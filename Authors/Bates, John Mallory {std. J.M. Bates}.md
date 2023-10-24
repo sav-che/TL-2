@@ -7,7 +7,7 @@ Bates, John Mallory (1846-1930), American episcopal clergyman, botanist and orni
 
 #### Herbarium and types
 
-[[Collection CUP|CUP]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ILC|ILC]], [[Collection ISC|ISC]], [[Collection L|L]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection RM|RM]], [[Collection WYO|WYO]].
+[[Collection CUP|CUP]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection L|L]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection RM|RM]], [[Collection WYO|WYO]].
 
 #### Bibliography and biography
 

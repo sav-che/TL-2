@@ -1,0 +1,1 @@
+Early editions of Index Herbariorum specify JAM as Hope \[Royal Botanical\] Gardens, Jamaica.

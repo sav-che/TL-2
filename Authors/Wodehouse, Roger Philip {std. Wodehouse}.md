@@ -7,7 +7,7 @@ Wodehouse, Roger Philip (1889-1978), Canadian botanist, palynologist and allergi
 
 #### Herbarium and types
 
-Unknown. – *Letters* at Hunt Institute, Smithsonian Institution and in Verdoorn archives (with [[Collection FAS|FAS]]).
+Unknown. – *Letters* at Hunt Institute, Smithsonian Institution and in Verdoorn archives (with FAS).
 
 #### Bibliography and biography
 

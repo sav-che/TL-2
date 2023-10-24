@@ -8,7 +8,7 @@ Hamel, Gontran Georges Henri (1883-1944), French algologist; studied at Lille (l
 #### Herbarium and types
 
 [[Collection PC|PC]]. *Exsiccatae*:
-(1) *Algues de France*, fasc. 1-3, nos. 1-50; fasc. 4, nos. 151-200 issued by Mme. A. Hamel-Joukov. Fasc. 1: Dec 1929, 2: Feb 1930, 3: Jun 1931, 4: Oct 1959. Sets at [[Collection B|B]], [[Collection C|C]], [[Collection DW|DW]], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection PC|PC]], [[Collection WPS|WPS]]. (100 sets published of fasc. 1).
+(1) *Algues de France*, fasc. 1-3, nos. 1-50; fasc. 4, nos. 151-200 issued by Mme. A. Hamel-Joukov. Fasc. 1: Dec 1929, 2: Feb 1930, 3: Jun 1931, 4: Oct 1959. Sets at [[Collection B|B]], [[Collection C|C]], [[Collection DW|DW]] \[[[Collection DWC|DWC?]]\], [[Collection FH|FH]], [[Collection MICH|MICH]], [[Collection PC|PC]], [[Collection WPS|WPS]] \[[[Collection WSP|WSP?]]\]. (100 sets published of fasc. 1).
 (2) *Algues des Antilles françaises*, collected by G. Hamel and A. Hamel-Joukov, 20 sets issued, fasc. 1-3, nos. 1-150, Paris 1931 (publ. late 1932). Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PC|PC]].
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19: 76-77. 1969.
 - Koster, J. T., Taxon 18: 553. 1969.

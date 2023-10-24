@@ -7,7 +7,7 @@ Lapham, Increase Allen (1811-1875), American pioneer naturalist and botanist; fr
 
 #### Herbarium and types
 
-[[Collection WIS|WIS]] (24.000); other material at [[Collection B|B]], [[Collection DVVC|DVVC]] (66), [[Collection E|E]], [[Collection FH|FH]] (Tuckerman herb.), [[Collection GH|GH]], [[Collection GRA|GRA]], [[Collection K|K]], [[Collection MASS|MASS]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection US|US]].
+[[Collection WIS|WIS]] (24.000); other material at [[Collection B|B]], [[Collection DWC|DWC]] (66), [[Collection E|E]], [[Collection FH|FH]] (Tuckerman herb.), [[Collection GH|GH]], [[Collection GRA|GRA]], [[Collection K|K]], [[Collection MASS|MASS]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection US|US]].
 *Ref*.: Arthur, J. C, Bull. Torrey bot. Club 8: 52-53. 1881.
 - Sayre, G., Mem. New York Bot. Gard. 19: 355. Mai 1975.
 - Gordon, Bartonia 22: 8. 1943.

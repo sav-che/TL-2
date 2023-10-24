@@ -652,7 +652,7 @@ instr.|instruction(s).
 int.|international.
 Intl.|International (abbreviated earlier as "Int.").
 intr.|introduction.
-IPC|Ile de Port Clos, Musée d'histoire naturelle. Ile de Port Clos, France.
+IPC|Ile de Port Cros, Musée d'histoire naturelle. Ile de Port Cros, France.
 IPNI|International Plant Names Index (electronic resource).
 IPS|Ipswich: The Museum, Ipswich, East Suffolk, Great Britain.
 Is., Isls.|Island(s).
@@ -724,7 +724,7 @@ Krebel|Krebel, R., *Russlands naturhistorische und medicinische Literatur*. Schr
 Kremp.|see Krempelh.
 Krempelh.|Krempelhuber, A. von, *Geschichte und Litteratur der Lichenologie von den ältesten Zeiten bis zum Schlusse des Jahres 1865*(*1870*), München, 3 vols., 1867-1872. TL-2/3932.
 krypt.|kryptogamen.
-KSG|Manhattan: Herbarium, Bushnell Hall, Division of Biology, Kansas State University, Manhattan, Kansas 66506, U.S.A.
+KSC|Manhattan: Herbarium, Bushnell Hall, Division of Biology, Kansas State University, Manhattan, Kansas 66506, U.S.A.
 KSO|Kelso: Herbarium of the Tweedside Physical & Antiquarian Society Museum, Kelso, Great Britain.
 Kt.|Kanton (Swiss Confederation).
 KU|Lawrence, Kansas: Department of Special Collections, Kenneth Spencer Research Library, University of Kansas.

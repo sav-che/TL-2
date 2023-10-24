@@ -37,7 +37,7 @@ AG 1: 287 \["Verfasser der Flora der Provinz Brandenburg. Berlin 1859-1864"\], 2
 
 #### Composite works
 
-I. EP ed. 1: *Potamogetonaceae*, 2(1): 194-214. 1889; *Hydrocharitaceae*, 2(1): 238-258. 1889 (with M. Gürke).
+1. EP ed. 1: *Potamogetonaceae*, 2(1): 194-214. 1889; *Hydrocharitaceae*, 2(1): 238-258. 1889 (with M. Gürke).
 2. *Pflanzenreich*, with Graebner, *Potamogetonacaee*, IV. 11, 184 p., 29 Oct 1907,. reprinted 1958/60.
 3. *Verzeichniss der bis jetzt aus der Troas bekannten Pflanzen*. Nach den Sammlungen von R. Vorchow und J. Schmidt und den literarischen Quellen zusammengestellt von P. Ascherson, Th. von Heldreich, F. Kurtz. Anhang VI of H. Schliemann, Ilios, Stadt und Land der Trojaner. Leipzig 1881, p. \[804\]-813. *Copy*: B. – Jackson, p. 510, mentions a previous English edition of Schliemann's work: "Ilios, the city and country of the Trojans." London 1880, oct., with the botanical catalogue on p. \[727\]-736.
 4. See Schweinfurth, *Ill. fl. Egypte*, Cairo 1887 and *Aufz. Phan. Nil-Lander* 1868.

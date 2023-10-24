@@ -7,7 +7,7 @@ Wahlberg, Pehr Fredrik (1800-1877), Swedish botanist, physician and pharmacist; 
 
 #### Herbarium and types
 
-[[Collection S|S]]; further material in [[Collection BR|BR]], [[Collection LZ|LZ]], [[Collection UPS|UPS]]-Thunb. – *Letters* to Elias Fries in [[Collection KVA|KVA]]-Stockholm (200) and [[Collection UPS|UPS]]-UB (110).
+[[Collection S|S]]; further material in [[Collection BR|BR]], [[Collection LZ|LZ]], [[Collection UPS|UPS]]-Thunb. – *Letters* to Elias Fries in KVA-Stockholm (200) and [[Collection UPS|UPS]]-UB (110).
 
 #### Bibliography and biography
 

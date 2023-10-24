@@ -11,8 +11,7 @@ Hall, Harvey Munroe (1874-1932), Californian pioneer biosystematist, at Berkeley
 
 #### Bibliography and biography
 
-Barnhart 2: 113; BL 1: 165, 168, 299; BM 6: 426; Bossert p. 159; Hirsch p. 111; Hortus 3: 1194 ("H. M. Hall"); IH 2: 250; Kew 2: 557; Langman p. 345; NW p. 47; TL-2/781; Zander ed. 10, p. 666; see also notes under W. M. Hiesey and A. S.
-- Hitchcock in this volume.
+Barnhart 2: 113; BL 1: 165, 168, 299; BM 6: 426; Bossert p. 159; Hirsch p. 111; Hortus 3: 1194 ("H. M. Hall"); IH 2: 250; Kew 2: 557; Langman p. 345; NW p. 47; TL-2/781; Zander ed. 10, p. 666; see also notes under W. M. Hiesey and A. S. Hitchcock in this volume.
 - Anon., Botanical journeys of Harvey Monroe Hall 1895-1931, mimeographed document, undated, distributed by Carnegie Institute of Washington, Biology Div. Stanford. *Copies*: MO, NY, FAS (detailed record of botanical trips based on H's field note books); Palo Alto Times 11 Mar 1932, p. I.
 - Babcock, Univ. Calif. Publ. Bot. 17(12): 355-368, *pl. 66.* 1934 (portr., bibl.) (see p. 361 for Hall's proposed International Bureau of Plant Taxonomy... "valuable suggestions... that sooner or later... will doubtless be realized.").
 - Cantelow, Leaflets western Bot. 8: 92. 1957.

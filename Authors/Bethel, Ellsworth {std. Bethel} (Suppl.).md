@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BPI|BPI]], see TL-2/1: 209 and IH 2: 72. − Unfinished manuscripts at [[Collection BPI|U.S.D.A.]]; phanerogamic material mainly at [[Collection COLO|COLO]] and [[Collection FC|FC]].
+[[Collection BPI|BPI]], see TL-2/1: 209 and IH 2: 72. − Unfinished manuscripts at U.S.D.A.; phanerogamic material mainly at [[Collection COLO|COLO]] and [[Collection FC|FC]].
 
 #### Bibliography and biography
 

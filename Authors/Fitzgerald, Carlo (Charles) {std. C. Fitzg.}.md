@@ -7,7 +7,7 @@ Fitzgerald, Carlo \[Charles\] (1850-1894?), American-born Italian botanist (bryo
 
 #### Herbarium and types
 
-[[Collection F|F]] (formerly [[Collection JHU|JHU]]), [[Collection PI|PI]] (Bottini).
+[[Collection F|F]] (formerly JHU), [[Collection PI|PI]] (Bottini).
 
 #### Bibliography and biography
 

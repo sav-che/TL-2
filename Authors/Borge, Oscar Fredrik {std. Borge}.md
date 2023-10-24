@@ -194,7 +194,7 @@ Die *Süsswasseralgenflora Spitzbergens*... Kristiana \[Oslo\] (in Kommission be
 
 **Notes**
 *Collector*: Frederico Carlos Hoehne (1882-1959), see TL-2/2: 227-228.
-*Publ*.: shortly after 6 Apr 1925 (date of printing; issued in journal 2 Oct 1925), cover-t.p., p. \[1\]-56, *pl. 1-6* (uncol. liths. auct.). *Copies*: U; ICD mf. 158, E-8562/1. − Issued as Ark. Bot. 19(17): 1-56. 1925.
+*Publ*.: shortly after 6 Apr 1925 (date of printing; issued in journal 2 Oct 1925), cover-t.p., p. \[1\]-56, *pl. 1-6* (uncol. liths. auct.). *Copies*: U; ICD \[IDC?\] mf. 158, E-8562/1. − Issued as Ark. Bot. 19(17): 1-56. 1925.
 
 ##### n.22.151. Schwedisch-chinesische wissenschaftliche Expedition nach den nordwestlichen Pro- vinzen Chinas
 

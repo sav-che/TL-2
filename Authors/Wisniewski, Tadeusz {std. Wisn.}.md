@@ -3,11 +3,11 @@
 
 ### Author
 
-Wisniewski, Tadeusz (1905-1943), Polish bryologist, phytogeographer and traveller (born in Taganrog, to which city his father had been deported); from 1919 living in Warsaw; from 1928-1943 assistant at the Josef Pilsudski University, Warsaw; Dr. phil. ib. 1930; also working for the Polish botanical Society; excecuted as a hostage in Warsaw 30 Nov 1943. (*Wisn.*).
+Wisniewski, Tadeusz (1905-1943), Polish bryologist, phytogeographer and traveller (born in Taganrog, to which city his father had been deported); from 1919 living in Warsaw; from 1928-1943 assistant at the Josef Pilsudski University, Warsaw; Dr. phil. ib. 1930; also working for the Polish botanical Society; executed as a hostage in Warsaw 30 Nov 1943. (*Wisn.*).
 
 #### Herbarium and types
 
-[[Collection WA|WA]]; other material in [[Collection BM|BM]], [[Collection C|C]], [[Collection JE|JE]], [[Collection K|K]], [[Collection KRAM|KRAM]], [[Collection LWD|LWD]] (herb. Lobarzewski, see Wisniewski 1924), W. – *Letters* to F. Verdoorn with [[Collection FAS|FAS]]; other letters at [[Collection G|G]].
+[[Collection WA|WA]]; other material in [[Collection BM|BM]], [[Collection C|C]], [[Collection JE|JE]], [[Collection K|K]], [[Collection KRAM|KRAM]], [[Collection LWD|LWD]] (herb. Lobarzewski, see Wisniewski 1924), W. – *Letters* to F. Verdoorn with FAS; other letters at [[Collection G|G]].
 
 #### Bibliography and biography
 

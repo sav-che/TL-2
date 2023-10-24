@@ -7,7 +7,7 @@ Wright, William (1735-1819), British physician and botanist; studied medicine at
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (major set in herb. Banks), [[Collection E|E]] (3 vols.), and [[Collection LIV|LIV]] (1 vol.). – Further material in [[Collection BR|BR]] (identified by J.R. Brown), [[Collection G|G]], [[Collection K|K]], [[Collection OXF|OXF]]. – *Letters* [[Collection BM|BM]], [[Collection DTC|DTC]].
+[[Collection BM|BM]] (major set in herb. Banks), [[Collection E|E]] (3 vols.), and [[Collection LIV|LIV]] (1 vol.). – Further material in [[Collection BR|BR]] (identified by J.R. Brown), [[Collection G|G]], [[Collection K|K]], [[Collection OXF|OXF]]. – *Letters* [[Collection BM|BM]], DTC.
 
 #### Bibliography and biography
 

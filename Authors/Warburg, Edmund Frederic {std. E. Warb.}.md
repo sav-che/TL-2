@@ -7,7 +7,7 @@ Warburg, Edmund Frederic (1908-1966), British botanist; MA Cambridge 1934; assis
 
 #### Herbarium and types
 
-[[Collection OXF|OXF]]; other material at [[Collection BCW|BCW]], [[Collection BM|BM]] (Euphrasia, Sorbus, incl. types), [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection EGBH|EGBH]], [[Collection K|K]], [[Collection NMW|NMW]].
+[[Collection OXF|OXF]]; other material at [[Collection BCW|BCW]], [[Collection BM|BM]] (Euphrasia, Sorbus, incl. types), [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection EGBH|EGBH]] \[[[Collection EGHB|EGHB?]]\], [[Collection K|K]], [[Collection NMW|NMW]].
 
 #### Bibliography and biography
 

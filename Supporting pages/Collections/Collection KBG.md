@@ -1,0 +1,1 @@
+Herbarium KBG was located in Königsberg (Germany; now Kaliningrad, Russia) and destroyed in World War II.

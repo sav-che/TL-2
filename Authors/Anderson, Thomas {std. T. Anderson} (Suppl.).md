@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CAL|CAL]], [[Collection CN|CN]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection NANCY|NANCY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection W|W]]. – Manuscripts [[Collection K|K]] (corr. W.J. Hooker).
+[[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CAL|CAL]], [[Collection CN|CN]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection NCY|NANCY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection W|W]]. – Manuscripts [[Collection K|K]] (corr. W.J. Hooker).
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Wikström, Johan Emanuel (1789-1856), Swedish botanist; Dr. med. Uppsala 1817; c
 
 #### Herbarium and types
 
-[[Collection SBT|SBT]]. – Other material in [[Collection B|B]] (mainly destr.), [[Collection CGE|CGE]], [[Collection E|E]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection P|P]], [[Collection U|U]], [[Collection UPS|UPS]], [[Collection W|W]]. – *Manuscripts* and *correspondence* at [[Collection KVA|KVA]]; private notes at [[Collection UPS|UPS]]-UB and Peterson. – Letters to D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]], Kalmar Stifts- och Gymnasiebibliotek, [[Collection UPS|UPS]]-UB.
+[[Collection SBT|SBT]]. – Other material in [[Collection B|B]] (mainly destr.), [[Collection CGE|CGE]], [[Collection E|E]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection P|P]], [[Collection U|U]], [[Collection UPS|UPS]], [[Collection W|W]]. – *Manuscripts* and *correspondence* at KVA; private notes at [[Collection UPS|UPS]]-UB and Peterson. – Letters to D.F.L. von Schlechtendal at [[Collection HAL|HAL]]; other letters at [[Collection G|G]], Kalmar Stifts- och Gymnasiebibliotek, [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography
 

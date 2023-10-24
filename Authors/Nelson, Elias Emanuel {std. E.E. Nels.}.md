@@ -7,7 +7,7 @@ Nelson, Elias Emanuel (1876-?), Swedish-born American botanist; pupil of Aven Ne
 
 #### Herbarium and types
 
-[[Collection RM|RM]]; further material at [[Collection GH|GH]], [[Collection GRO|GRO]], [[Collection MO|MO]], [[Collection MSG|MSG]], [[Collection NY|NY]].
+[[Collection RM|RM]]; further material at [[Collection GH|GH]], [[Collection GRO|GRO]], [[Collection MO|MO]], [[Collection MSC|MSC]], [[Collection NY|NY]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection P|P]], [[Collection PC|PC]], further material at [[Collection AUT|AUT]], [[Collection B|B]] (incl. Herb. Ullepitsch), [[Collection BUCA|BUCA]], [[Collection CYF|CYF]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection HH|HH]], [[Collection JF|JF]], [[Collection KIEL|KIEL]], [[Collection KCA|KCA]], [[Collection LIV|LIV]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection W|W]].
+[[Collection P|P]], [[Collection PC|PC]], further material at [[Collection AUT|AUT]], [[Collection B|B]] (incl. Herb. Ullepitsch), [[Collection BUCA|BUCA]], [[Collection CYF|CYF]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection HBG|HBG]], [[Collection HH|HH]], [[Collection JF|JF]] \[[[Collection JE|JE?]]\], [[Collection KIEL|KIEL]], [[Collection KCA|KCA]], [[Collection LIV|LIV]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection W|W]].
 
 #### Bibliography and biography
 

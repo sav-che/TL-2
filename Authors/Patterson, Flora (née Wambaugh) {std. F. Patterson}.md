@@ -7,7 +7,7 @@ Patterson, Flora (née Wambaugh) (1847-1928), American mycologist; married Edwar
 
 #### Herbarium and types
 
-Material at [[Collection BPI|BPI]], [[Collection NY|NY]] and [[Collection PAV|PAV]]. – See Stevenson (1971) and Patterson, F., [[Collection USDA|USDA]] Bur. Plant Ind., Bull. 8: 1-31. 1902 and USDA Agric. Circ. 195: 1-50. 1922 for sets of reference collections sent to US agricultural experiment stations and other mycological herbaria.
+Material at [[Collection BPI|BPI]], [[Collection NY|NY]] and [[Collection PAV|PAV]]. – See Stevenson (1971) and Patterson, F., USDA Bur. Plant Ind., Bull. 8: 1-31. 1902 and USDA Agric. Circ. 195: 1-50. 1922 for sets of reference collections sent to US agricultural experiment stations and other mycological herbaria.
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Pickering, Charles (1805-1878), American botanist, zoologist and anthropologist;
 
 #### Herbarium and types
 
-General collection: [[Collection PH|PH]]; material from the U.S. Expl. Exp. at [[Collection US|US]]; further material at [[Collection DBN|DBN]], [[Collection DWG|DWG]], [[Collection K|K]] and [[Collection OXF|OXF]]. – Some letters at [[Collection G|G]] and [[Collection HU|HU]].
+General collection: [[Collection PH|PH]]; material from the U.S. Expl. Exp. at [[Collection US|US]]; further material at [[Collection DBN|DBN]], [[Collection DWC|DWC]], [[Collection K|K]] and [[Collection OXF|OXF]]. – Some letters at [[Collection G|G]] and [[Collection HU|HU]].
 
 #### Bibliography and biography
 

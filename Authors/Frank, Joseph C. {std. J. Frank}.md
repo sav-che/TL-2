@@ -7,7 +7,7 @@ Frank, Joseph C. (1782-1835), German botanist and physician, traveller in the US
 
 #### Herbarium and types
 
-Frank's herbarium (5.000-6.000 species, 15.000 specimens) was split up and sold, possibly also via Hochstetter and Steudel, Frank's connections with Esslingen date probably only from 1835. Specimens in many herbaria: [[Collection B|B]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection GRON|GRON]], [[Collection HAL|HAL]], [[Collection JE|JE]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection STU|STU]], [[Collection P|P]], [[Collection W|W]]. – Alph. de Candolle mentions a herbarium by J. C. Frank held by Doell; this is no longer extant.
+Frank's herbarium (5.000-6.000 species, 15.000 specimens) was split up and sold, possibly also via Hochstetter and Steudel, Frank's connections with Esslingen date probably only from 1835. Specimens in many herbaria: [[Collection B|B]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection GRO|GRON]], [[Collection HAL|HAL]], [[Collection JE|JE]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection STU|STU]], [[Collection P|P]], [[Collection W|W]]. – Alph. de Candolle mentions a herbarium by J. C. Frank held by Doell; this is no longer extant.
 *Ref*.: IH 2: 206.
 - Anon., Flora 19(1). Int. Bl. 20(= 24). 21 Jun 1836 (sale herbarium).
 - Candolle, Phytographie 412. 1880.

@@ -7,7 +7,7 @@ Williams, Louis Otho (1908-x), American botanist and museum curator; B.A. Univ. 
 
 #### Herbarium and types
 
-Orchid herbarium and library at [[Collection SEL|SEL]]; further material at [[Collection AMES|AMES]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection DPU|DPU]], [[Collection EAP|EAP]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GH|GH]], [[Collection LCU|LCU]], [[Collection MBG|MBG]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection RM|RM]], [[Collection TRT|TRT]], [[Collection US|US]], [[Collection UTC|UTC]]. – Manuscripts and letters e.g. at [[Collection F|F]], Hunt Institute (W. Popenoe papers), [[Collection NY|NY]], [[Collection RM|RM]], [[Collection SEL|SEL]].
+Orchid herbarium and library at [[Collection SEL|SEL]]; further material at [[Collection AMES|AMES]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection DPU|DPU]], [[Collection EAP|EAP]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GH|GH]], [[Collection LCU|LCU]], [[Collection MBG|MBG]] \[same as [[Collection MO|MO]]?\], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection RM|RM]], [[Collection TRT|TRT]], [[Collection US|US]], [[Collection UTC|UTC]]. – Manuscripts and letters e.g. at [[Collection F|F]], Hunt Institute (W. Popenoe papers), [[Collection NY|NY]], [[Collection RM|RM]], [[Collection SEL|SEL]].
 
 #### Bibliography and biography
 

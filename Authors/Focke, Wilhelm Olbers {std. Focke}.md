@@ -9,7 +9,7 @@ Focke, Wilhelm Olbers (1834-1922), German physician, batologist and rhodologist 
 
 #### Herbarium and types
 
-[[Collection BREM|BREM]]; his *Rubi selecti* and other Rosaceous material are at [[Collection A|A]], [[Collection B|B]], [[Collection BORD|BORD]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection HAN|HAN]], [[Collection K|K]], [[Collection LE|LE]], [[Collection W|W]]. – The types for his contributions to [[Collection EP|EP]] were mostly at [[Collection K|K]].
+[[Collection BREM|BREM]]; his *Rubi selecti* and other Rosaceous material are at [[Collection A|A]], [[Collection B|B]], [[Collection BORD|BORD]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection HAN|HAN]], [[Collection K|K]], [[Collection LE|LE]], [[Collection W|W]]. – The types for his contributions to EP were mostly at [[Collection K|K]].
 *Ref*.: IH 1 (ed. 6): 358, 2: 201.
 - Urban, Gesch. Berlin-Dahlem 346. 1916.
 

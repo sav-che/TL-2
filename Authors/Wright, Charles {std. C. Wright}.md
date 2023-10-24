@@ -9,16 +9,18 @@ Wright, Charles (1811-1885), American botanical collector; studied at Yale Colle
 
 [[Collection GH|GH]] (general colls.), [[Collection US|US]] (Mexican Boundary Survey, Ringgold Exp.).
 *Duplicates of Texas collections*: [[Collection DPU|DPU]], [[Collection FI|FI]], [[Collection G|G]], [[Collection K|K]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection PH|PH]], [[Collection SMU|SMU]], [[Collection YU|YU]]. – For labelling of Texas plants see Ewan (ed. 1: 342), Wooton (1906) and Shaw (1987).
-*Duplicates from Ringgold and Rodgers N. Pacific Expl. Exp.*: [[Collection FH|FH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection PH|PH]]. *Duplicates from New Mexico*: [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection MO|MO]].
+*Duplicates from Ringgold and Rodgers N. Pacific Expl. Exp.*: [[Collection FH|FH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection PH|PH]]. 
+*Duplicates from New Mexico*: [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection MO|MO]].
 *Duplicates from Mexico*: [[Collection FI|FI]], [[Collection G|G]], [[Collection L|L]].
 *Duplicates from Nicaragua*: [[Collection GOET|GOET]], [[Collection K|K]], [[Collection MO|MO]], [[Collection US|US]].
-*Duplicates from Cuba*: [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection BRU|BRU]], [[Collection BUF|BUF]], [[Collection CGE|CGE]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection FH|FH]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GOET|GOET]] (impt. set), [[Collection HAB|HAB]] (impt. set), [[Collection HAC|HAC]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MA|MA]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection TCD|TCD]], [[Collection US|US]], [[Collection W|W]], [[Collection WELC|WELC]].
+*Duplicates from Cuba*: [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection BREM|BREM]], [[Collection BRU|BRU]], [[Collection BUF|BUF]], [[Collection CGE|CGE]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection FH|FH]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GOET|GOET]] (impt. set), [[Collection HAB (sensu TL-2)|HAB]] (impt. set), [[Collection HAC|HAC]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MA|MA]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection TCD|TCD]], [[Collection US|US]], [[Collection W|W]], [[Collection WELC|WELC]].
 *Mosses* (Cuba): [[Collection BM|BM]]([[Collection BM|BM]]-K), [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]].
 *Lichens* (Cuba): [[Collection BM|BM]], [[Collection G|G]], [[Collection H|H]]-Nyl., [[Collection M|M]], [[Collection PC|PC]], [[Collection TCD|TCD]], [[Collection TUR|TUR]]-V, [[Collection WRSL|WRSL]].
-*Fungi* (Cuba): [[Collection B|B]] (destr.), [[Collection BPI|BPI]], [[Collection BUF|BUF]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]]([[Collection BM|BM]]-K), [[Collection LPS|LPS]], [[Collection PC|PC]], [[Collection NY|NY]], [[Collection NYS|NYS]]. For *Fungi cubenses wrightianae* see Stevenson, Beih. Nova Hedw. 34: 526-527. 1971. *Algae* (Cuba): [[Collection FH|FH]], [[Collection W|W]].
+*Fungi* (Cuba): [[Collection B|B]] (destr.), [[Collection BPI|BPI]], [[Collection BUF|BUF]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]]([[Collection BM|BM]]-K), [[Collection LPS|LPS]], [[Collection PC|PC]], [[Collection NY|NY]], [[Collection NYS|NYS]]. For *Fungi cubenses wrightianae* see Stevenson, Beih. Nova Hedw. 34: 526-527. 1971. 
+*Algae* (Cuba): [[Collection FH|FH]], [[Collection W|W]].
 *Ferns* (Cuba): [[Collection IA|IA]].
 *Santo Domingo*: [[Collection GH|GH]], [[Collection K|K]], [[Collection US|US]] (see Howard, R.A. 1961).
-For more details see Shaw (1987) and the coming treatment in [[Collection I|I]].H. Vegter, *Index Herbariorum Collectors Index*.
+For more details see Shaw (1987) and the coming treatment in I.H. Vegter, *Index Herbariorum Collectors Index*.
 *Manuscripts*: [[Collection GH|GH]]. – *Letters*: [[Collection GH|GH]] (impt. set), [[Collection NY|NY]], [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography

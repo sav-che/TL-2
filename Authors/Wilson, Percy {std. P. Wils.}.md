@@ -7,7 +7,7 @@ Wilson, Percy (1879-1944), American botanist; at the New York Botanical Garden f
 
 #### Herbarium and types
 
-[[Collection NY|NY]]. – Other material at [[Collection A|A]], [[Collection B|B]] (mainly destr.), [[Collection CUP|CUP]], [[Collection DPU|DPU]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection F|F]], [[Collection HAB|HAB]], [[Collection HAC|HAC]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection OXF|OXF]], [[Collection POM|POM]], [[Collection U|U]], [[Collection US|US]]. – *Manuscripts*, field notes and correspondence at [[Collection NY|NY]]. – *Letters* at [[Collection FH|FH]].
+[[Collection NY|NY]]. – Other material at [[Collection A|A]], [[Collection B|B]] (mainly destr.), [[Collection CUP|CUP]], [[Collection DPU|DPU]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection F|F]], [[Collection HAB (sensu TL-2)|HAB]], [[Collection HAC|HAC]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection OXF|OXF]], [[Collection POM|POM]], [[Collection U|U]], [[Collection US|US]]. – *Manuscripts*, field notes and correspondence at [[Collection NY|NY]]. – *Letters* at [[Collection FH|FH]].
 
 #### Bibliography and biography
 

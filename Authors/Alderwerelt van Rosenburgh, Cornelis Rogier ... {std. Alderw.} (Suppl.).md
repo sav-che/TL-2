@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BO|BO]]; further material in [[Collection B|B]] (extant), correspondence with J.H. Barnhart at [[Collection NY|NY]], with F. Verdoorn in archives [[Collection FAS|FAS]]).
+[[Collection BO|BO]]; further material in [[Collection B|B]] (extant), correspondence with J.H. Barnhart at [[Collection NY|NY]], with F. Verdoorn in archives (FAS).
 
 #### Bibliography and biography
 
