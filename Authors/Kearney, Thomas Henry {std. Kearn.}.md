@@ -7,7 +7,7 @@ Kearney, Thomas Henry (1874-1956), American botanist at the Bureau for Plant Ind
 
 #### Herbarium and types
 
-[[Collection OS|OS]] and [[Collection US|US]]; duplicates in [[Collection ARIZ|ARIZ]], [[Collection GU|GU]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MINN|MINN]], [[Collection MO|MO]], [[Collection MSC|MSC]], [[Collection POM|POM]], [[Collection SI|SI]], [[Collection TENN|TENN]]. The original Kearney-Peebles herbarium of Arizona plants is at [[Collection ARIZ|ARIZ]].
+[[Collection OS|OS]] and [[Collection US|US]]; duplicates in [[Collection ARIZ|ARIZ]], [[Collection GU|GU]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection MSC|MSC]], [[Collection POM|POM]], [[Collection SI|SI]], [[Collection TENN|TENN]]. The original Kearney-Peebles herbarium of Arizona plants is at [[Collection ARIZ|ARIZ]].
 *Ref*.: Hultén, E., Bot. Not. 1940: 292, 315-316 (itin., Alaska).
 - Stuckey and Wentz, Ohio J. Sci. 74(1): 20-35. 1974 (lists types).
 - Wentz, W. A., Taxon 23: 357-363. 1974 (lists types).

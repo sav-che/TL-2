@@ -7,7 +7,7 @@ Déséglise, Pierre-Alfred (1823-1883), French botanist, born at Bourges (Lamott
 
 #### Herbarium and types
 
-Herbarium sold after his death, Roses at [[Collection K|K]] (rd. 1884), duplicates at [[Collection G|G]], [[Collection G|G]]-DC (435 Musci), further material at [[Collection AUT|AUT]], [[Collection AWH|AWH]], [[Collection B|B]], [[Collection BM|BM]] (Herbarium Rosarum, major set), [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MPS|MPS]], [[Collection NMW|NMW]], [[Collection OXP|OXP]], [[Collection P|P]], [[Collection STR|STR]] (Herb. Rosarum).
+Herbarium sold after his death, Roses at [[Collection K|K]] (rd. 1884), duplicates at [[Collection G|G]], [[Collection G|G]]-DC (435 Musci), further material at [[Collection AUT|AUT]], [[Collection AWH|AWH]], [[Collection B|B]], [[Collection BM|BM]] (Herbarium Rosarum, major set), [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MPS|MPS]], [[Collection NMW|NMW]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection STR|STR]] (Herb. Rosarum).
 
 #### Bibliography and biography
 

@@ -3,7 +3,7 @@
 
 ### Author
 
-Summer, George (1793-1855), American physician and botanist; studied at Yale (grad. 1813) and the University of Pennsylvania (M.D. 1817); practicing physician at Hartford, Conn. 1819; professor of botany at Trinity College ib. 1824-1855. (*Sumner*).
+Sumner, George (1793-1855), American physician and botanist; studied at Yale (grad. 1813) and the University of Pennsylvania (M.D. 1817); practicing physician at Hartford, Conn. 1819; professor of botany at Trinity College ib. 1824-1855. (*Sumner*).
 
 #### Herbarium and types
 

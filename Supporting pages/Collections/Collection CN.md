@@ -2,7 +2,7 @@
 
 **Organization**: Université de Caen-Normandie
 
-**Division**: BOREA      laboratoire de Biologie des ORganismes et Ecosystèmes Aquatiques  MNHM, CNRS7208, Sorbonne Université, IRD 207, Unicaen, Université des 
+**Division**: BOREA laboratoire de Biologie des ORganismes et Ecosystèmes Aquatiques  MNHM, CNRS7208, Sorbonne Université, IRD 207, Unicaen, Université des 
 
 **Location**: Caen, France
 

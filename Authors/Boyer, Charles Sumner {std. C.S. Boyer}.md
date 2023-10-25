@@ -3,7 +3,7 @@
 
 ### Author
 
-Boyer, Charles Summer (1856-1928), American diatomist, at Brown University 1875-1879, A.B. 1879, A.M. 1885, teacher in Philadelphia public schools 1883-1916. (*C.S. Boyer*).
+Boyer, Charles Sumner (1856-1928), American diatomist, at Brown University 1875-1879, A.B. 1879, A.M. 1885, teacher in Philadelphia public schools 1883-1916. (*C.S. Boyer*).
 
 #### Herbarium and types
 

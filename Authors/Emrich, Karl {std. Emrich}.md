@@ -7,7 +7,7 @@ Emrich, Karl (x-1965), German born Brazilian amateur botanist and botanical arti
 
 #### Herbarium and types
 
-[[Collection S|S]]. Brazil (ca. 1940-48): [[Collection MVH|MVH]], [[Collection NY|NY]].
+[[Collection S|S]]. Brazil (ca. 1940-48): [[Collection MVH|MVH]] \[[[Collection MVM|MVM]]?\], [[Collection NY|NY]].
 
 #### Bibliography and biography
 

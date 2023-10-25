@@ -7,7 +7,7 @@ Heimans, Jacobus (1889-1978), Dutch botanist; son of Eli Heimans; specialized on
 
 #### Herbarium and types
 
-[[Collection AMD|AMD]], [[Collection NDB|NDB]].
+[[Collection AMD|AMD]], [[Collection NDB|NDB]] \[[[Collection NBV|NBV]]?\].
 
 #### Bibliography and biography
 

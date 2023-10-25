@@ -7,7 +7,7 @@ Seymour, Frank Conkling (1895-x), American botanist; son of A.B. Seymour. (*F. S
 
 #### Herbarium and types
 
-[[Collection MO|MO]] (coll. after 1953), [[Collection WIS|WIS]] (incl. the A.B. Seymour herb.); other material at [[Collection B|B]] (extant), [[Collection DUKE|DUKE]], [[Collection GH|GH]], [[Collection H|H]], [[Collection MAINE|MAINE]], [[Collection MASS|MASS]], [[Collection MCJ|MCJ]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection MU|MU]], [[Collection NEBC|NEBC]], [[Collection NSC|NSC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection VT|VT]]; Nicaragua material (1968-1976) e.g. at [[Collection B|B]], [[Collection MO|MO]], [[Collection VT|VT]]. – *Field notes* at [[Collection GH|GH]], [[Collection MO|MO]].
+[[Collection MO|MO]] (coll. after 1953), [[Collection WIS|WIS]] (incl. the A.B. Seymour herb.); other material at [[Collection B|B]] (extant), [[Collection DUKE|DUKE]], [[Collection GH|GH]], [[Collection H|H]], [[Collection MAINE|MAINE]], [[Collection MASS|MASS]], [[Collection MCJ|MCJ]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection MU|MU]], [[Collection NEBC|NEBC]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection VT|VT]]; Nicaragua material (1968-1976) e.g. at [[Collection B|B]], [[Collection MO|MO]], [[Collection VT|VT]]. – *Field notes* at [[Collection GH|GH]], [[Collection MO|MO]].
 
 #### Bibliography and biography
 

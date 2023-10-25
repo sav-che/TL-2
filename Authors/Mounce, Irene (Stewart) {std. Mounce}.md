@@ -7,7 +7,7 @@ Mounce, Irene (Stewart) (1894-x), Canadian mycologist and phytopathologist; M. S
 
 #### Herbarium and types
 
-[[Collection DAO|DAO]], [[Collection OTB|OTB]].
+[[Collection DAO|DAO]], [[Collection OTB|OTB]] \[[[Collection OTF|OTF?]]\].
 
 #### Bibliography and biography
 

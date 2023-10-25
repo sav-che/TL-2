@@ -7,7 +7,7 @@ Dubois, François Noel Alexandre (1752-1824), French clergyman and botanist at O
 
 #### Herbarium and types
 
-[[Collection OR|OR]]?
+[[Collection OR|OR]] \[[[Collection ORM|ORM]]?\]?
 *Ref*.: IH 2: 169.
 
 #### Bibliography and biography

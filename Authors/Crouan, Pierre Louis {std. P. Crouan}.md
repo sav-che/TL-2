@@ -9,7 +9,7 @@ Crouan, Pierre Louis (1798-1871), French botanist and pharmacist at Brest, broth
 
 #### Herbarium and types
 
-Laboratoire de Biologie marine, Concarneau, Bretagne, France; for other collections see Koster (1969). – *Exsiccatae*: *Algues marines du Finistère* (3 vols., nos. 1-404), Brest (Crouan) 1852 (see Sayre), in collaboration with Hippolyte Marie Crouan (1802-1871). Sets: [[Collection FH|FH]], [[Collection PCS|PCS]].
+Laboratoire de Biologie marine, Concarneau, Bretagne, France; for other collections see Koster (1969). – *Exsiccatae*: *Algues marines du Finistère* (3 vols., nos. 1-404), Brest (Crouan) 1852 (see Sayre), in collaboration with Hippolyte Marie Crouan (1802-1871). Sets: [[Collection FH|FH]], [[Collection PC|PC]], [[Collection S|S]].
 *Ref*.: GR p. 273; IH 2: 145.
 - Candolle, Phytographie 405. 1880.
 - Dixon, Brit. phycol. Bull. 3: 213-218. 1967.

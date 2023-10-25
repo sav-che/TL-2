@@ -7,7 +7,7 @@ Matthews, Velma Dare (1904-1958), American mycologist and horticulturist; Ph. D.
 
 #### Herbarium and types
 
-[[Collection NCV|NCV]].
+[[Collection NCU|NCU]].
 
 #### Bibliography and biography
 

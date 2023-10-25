@@ -1,0 +1,1 @@
+Herbarium Baruch in Paderborn (Germany). There is a mention that PADB was transferred to [[Collection MSTR|MSTR]] ([link](https://cnsflora.de/saxifraga_sponhemica/sax_spon_person_detail.php?id=400841), [archived link](https://web.archive.org/web/20220811184043/https://cnsflora.de/saxifraga_sponhemica/sax_spon_person_detail.php?id=400841#)).

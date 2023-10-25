@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection HH|HH]] ([[Collection FH|FH]]) and [[Collection NY|NY]] (40.000 specim.), further material (incl. exsicc.) at [[Collection AHFH|AHFH]], [[Collection B|B]](2140), [[Collection BM|BM]] (1075), [[Collection BRU|BRU]], [[Collection C|C]] (1400), [[Collection CM|CM]], [[Collection F|F]], [[Collection IA|IA]], [[Collection LD|LD]], [[Collection K|K]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection NEAC|NEAC]], [[Collection ODU|ODU]] (55 vols.), [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection UC|UC]], [[Collection US|US]] (Puerto Rico), [[Collection W|W]], [[Collection WELC|WELC]] (2425), [[Collection WRSL|WRSL]]. – *Exsiccatae*: see TL-2/1: 527 (Algae: *Phycotheca Boreali-Americana* 1895-1919).
+[[Collection HH|HH]] ([[Collection FH|FH]]) and [[Collection NY|NY]] (40.000 specim.), further material (incl. exsicc.) at [[Collection AHFH|AHFH]], [[Collection B|B]](2140), [[Collection BM|BM]] (1075), [[Collection BRU|BRU]], [[Collection C|C]] (1400), [[Collection CM|CM]], [[Collection F|F]], [[Collection IA|IA]], [[Collection LD|LD]], [[Collection K|K]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection NEBC|NEBC]], [[Collection ODU|ODU]] (55 vols.), [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection UC|UC]], [[Collection US|US]] (Puerto Rico), [[Collection W|W]], [[Collection WELC|WELC]] (2425), [[Collection WRSL|WRSL]]. – *Exsiccatae*: see TL-2/1: 527 (Algae: *Phycotheca Boreali-Americana* 1895-1919).
 
 #### Bibliography and biography
 

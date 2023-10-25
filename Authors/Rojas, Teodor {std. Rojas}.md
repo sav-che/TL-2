@@ -7,7 +7,7 @@ Rojas, Teodor (1877-1954), Paraguayan botanist; collected in Paraguay with E. Ha
 
 #### Herbarium and types
 
-Paraguay, Argentine and Uruguay material in many herbaria e.g. [[Collection B|B]], [[Collection BAF|BAF]], [[Collection BAI|BAI]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection GB|GB]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection LIL|LIL]], [[Collection M|M]], [[Collection MO|MO]], [[Collection MVH|MVH]], [[Collection MVM|MVM]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SI|SI]] (impt. set), [[Collection US|US]]. – See under E. Hassler for exsiccatae containing Rojas material.
+Paraguay, Argentine and Uruguay material in many herbaria e.g. [[Collection B|B]], [[Collection BAF|BAF]], [[Collection BAI|BAI]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection GB|GB]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection LIL|LIL]], [[Collection M|M]], [[Collection MO|MO]], [[Collection MVH|MVH]] \[[[Collection MVM|MVM]]?\], [[Collection MVM|MVM]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SI|SI]] (impt. set), [[Collection US|US]]. – See under E. Hassler for exsiccatae containing Rojas material.
 
 #### Note
 

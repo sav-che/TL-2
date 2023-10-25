@@ -162,30 +162,30 @@ Gegen einige sprachliche und logische *Fehler* in der *botanischen Literatur*...
 *3., verb. Aufl.*: 1950,... Jena (Gustav Fischer), p. \[i\]-iv, 1-186. *Copies*: BM (n.v.), K, MO-Steere (n.v.), NY, USDA.
 *4., stark erweiterte Aufl.*: (see Bd. 4. Kleine Kryptogamenflora below).
 *Ref*. \[ed. 3\]: Steere, W.C., Quart. Rev. Biol. 27(2): 212. Jun 1952 (rev.). \[eds. 1-3\]: Steere, W.C., Bryologist 55(3): 230. Sep 1952 (rev.).
-- *Bd. 2*: 1953, Die *Blätter- und Bauchpilze* (Agaricales und Gastromycetes)... Jena (Gustav Fischer), p. \[i\]-iv, 1-282. *Copies*: BM (n.v.), FH (n.v.), K (n.v.), NY, USDA.
-- *Author*: Moser, Meinhard M. (1924-2002), see Bull. Soc. Mycol. France 119(1-2): \[1\]. 2003. \[*2., Aufl.*\]: see Bd. 2b, Teil 2. Kleine Kryptogamenflora below. \[Revised and continued as\]: *Kleine Kryptogamenflora*... Bd. 1-4, Stuttgart (Gustav Fischer), 1957-x. Demi-Oct.
-- *Bd. 1a*: 1969, *Makroskopische Süsswasser- und Luftalgen*... p. \[i-vi\], \[1\]-63. *Copies*: BM (n.v.), FH (n.v.), NY, US.
-- *Author*: Gams, Helmut.
-- *Bd. 1b*: 1974 (foreword p. \[vii\] signed Mai 1974), *Makroskopische Meeresalgen*... p. \[i-viii\], \[1\]-119, \[i, advert.\]. *Copies*: BM (n.v.), FH (n.v.), NY(2).
-- *Author*: Gams, Helmut.
-- *Bd. 2a*: 1963 (foreword p. 2 signed Feb 1963), *Ascomyceten* (*Schlauchpilze*)... p. \[i-vi\], \[1\]-147, *pl. 1-7* (uncol. draw. in text). *Copies*: FH (n.v.), NY(2) (n.v.), US, USDA.
-- *Author*: Moser, Meinhard (1924-2002), see Bull. Soc. Mycol. France 119(1-2): \[1\]. 2003.
-- *Note*: Dedicated to H. Gams on his 70th birthday.
-- *Ref*.: Pilát, A., Česká Mykol. 18(2): 127. 25 Jan 1964. (rev.).
-- *Bd. 2b*, *Teil 1*: 1984 (foreword p. vi dated Nov 1982), Die *Nichtblätterpilze, Gallertpilze* und *Bauchpilze*: Aphyllophorales, Heterobasidiomycetes, Gastromycetes... Stuttgart \[&\] New York (Gustav Fischer), p. \[i\]-ix, \[1\]-626, \[i-ii, advert.\]. *Copies*: FH (n.v.), NY.
-- *Author*: Jülich, Walter (1942-x).
-- *Bd. 2b*, *Teil 2*: 1955 (foreword p. \[2\] signed Jun 1954), Die *Röhrlinge, Blätter- und Bauchpilze* (Agaricales und Gastromycetales), p. \[i\]-ix, \[1\]-327. *Copies*: BM (n.v.), FH (n.v.), NY, USDA.
-- *Author*: Moser, Meinhard (1924-2002), see Bull. Soc. Mycol. France 119(1-2): \[1\]. 2003. *3., Dritte, völlig umgearb. Aufl.*: 1967 (foreword p. vii signed Winter 1966), Die *Röhrlinge und Blätterpilze* (Agaricales), p. \[i\]-xii, \[1\]-443, \[i-iv, "für Notizen"\], \[v, advert.\], *pl. 1-13* (uncol. draw. in text), 1 chart (col., in pocket). *Copies*: BM (n.v.), FH (n.v.), K (n.v.), NY, US, USDA.
-- *4., völlig überarb. Aufl*.: 1978 (foreword p. \[vii\] signed Mai 1977), Die *Röhrlinge und Blätterpilze* (Polyporales, Boletales, Agaricales, Russulales), Stuttgart \[&\] New York (Gustav Fischer), p. \[i\]-xiii, \[1\]-532, \[i-ii, advert.\], 1 chart (3 pieces in pocket). *Copies*: FH (n.v.), NY.
-- *5., bearbeitete Aufl.*: 1983 (foreword p. \[vii\] signed Jun 1982), Die *Röhrlinge und Blätterpilze* (Polyporales, Boletales, Agaricales, Russulales), Stuttgart \[&\] New York (Gustav Fischer), p. \[i\]-xiii, \[1\]-533, \[i-iii, advert.\], chart in pocket (2 pieces col.). *Copies*: K (n.v.), NY.
-- *Suppl*. \[Bd. 1-7, & "Lieferung"\]: 1985-x, *Farbatlas der Basidiomyceten* \[=Colour Atlas of Basidiomycetes\], Stuttgart \[&\] New York (Gustav Fischer), 7 vols. (loose-leaf). *Copies*: K (n.v.), NY.
-- *Note*: A bibliographically complicated publication issued in parts to be arranged in loose-leaf binders.
-- *Authors*: Moser, Meinhard (1924-2002), see Bull. Soc. Mycol. France 119(1-2): \[1\]. 2003; Jülich, Walter; and Furrer-Ziogas, Cuno.
-- *Bd. 3*: 1967, (p. \[vi\] signed Summer 1996), *Flechten* (*Lichenes*), p. \[i\]-viii, \[1\]-244. *Copies*: BM (n.v.), FH (n.v.), K (n.v.), NY(2) (n.v.), USDA.
-- *Author*: Gams, Helmut.
-- *Bd. 4* \[=*4., stark erweiterte Aufl*.\]: 1957 (foreword p. \[v\] signed 1 Feb 1957), Die *Moosund Farnpflanzen* (Archegoniaten)... p. \[i\]-viii, 1-240. *Copies*: BM (n.v.), K, MO(4) (n.v.), NY, US, USDA.
-- *Author*: Gams, Helmut.
-- *Note*: This is Bd. 1 in Kleine Kryptogamenflora von Mitteleuropa. *5., erweiterte Aufl.*: 1973 (p. \[v\] signed Jul 1973), Die Moos- und Farnpflanzen (Archegoniaten)... p. \[i\]-viii, \[1\]-248. *Copies*: FH (n.v.), MO(4) (n.v.), NY. *6., völlig neubearbeitete Aufl.*: 1995 (winter), Die Moos- und Farnpflanzen Europas... Stuttgart (Gustav Fischer), p. \[i\]-xi, \[1\]-426, \[i-ii, advert.\]. *Copies*: FH (n.v.), MO(2) (n.v.), NY.
-- *Authors*: Frey, Wolfgang (1942-x); Frahm, Jan-Peter (1945-x); Fischer, Eberhard; & Lobin, Wolfram.
-- *Ref*.: Schmid, R., Taxon 44(3): 473-474. Aug 1995 (rev., "... a beautiful little work").
+*Bd. 2*: 1953, Die *Blätter- und Bauchpilze* (Agaricales und Gastromycetes)... Jena (Gustav Fischer), p. \[i\]-iv, 1-282. *Copies*: BM (n.v.), FH (n.v.), K (n.v.), NY, USDA.
+*Author*: Moser, Meinhard M. (1924-2002), see Bull. Soc. Mycol. France 119(1-2): \[1\]. 2003. \[*2., Aufl.*\]: see Bd. 2b, Teil 2. Kleine Kryptogamenflora below. \[Revised and continued as\]: *Kleine Kryptogamenflora*... Bd. 1-4, Stuttgart (Gustav Fischer), 1957-x. Demi-Oct.
+*Bd. 1a*: 1969, *Makroskopische Süsswasser- und Luftalgen*... p. \[i-vi\], \[1\]-63. *Copies*: BM (n.v.), FH (n.v.), NY, US.
+*Author*: Gams, Helmut.
+*Bd. 1b*: 1974 (foreword p. \[vii\] signed Mai 1974), *Makroskopische Meeresalgen*... p. \[i-viii\], \[1\]-119, \[i, advert.\]. *Copies*: BM (n.v.), FH (n.v.), NY(2).
+*Author*: Gams, Helmut.
+*Bd. 2a*: 1963 (foreword p. 2 signed Feb 1963), *Ascomyceten* (*Schlauchpilze*)... p. \[i-vi\], \[1\]-147, *pl. 1-7* (uncol. draw. in text). *Copies*: FH (n.v.), NY(2) (n.v.), US, USDA.
+*Author*: Moser, Meinhard (1924-2002), see Bull. Soc. Mycol. France 119(1-2): \[1\]. 2003.
+*Note*: Dedicated to H. Gams on his 70th birthday.
+*Ref*.: Pilát, A., Česká Mykol. 18(2): 127. 25 Jan 1964. (rev.).
+*Bd. 2b*, *Teil 1*: 1984 (foreword p. vi dated Nov 1982), Die *Nichtblätterpilze, Gallertpilze* und *Bauchpilze*: Aphyllophorales, Heterobasidiomycetes, Gastromycetes... Stuttgart \[&\] New York (Gustav Fischer), p. \[i\]-ix, \[1\]-626, \[i-ii, advert.\]. *Copies*: FH (n.v.), NY.
+*Author*: Jülich, Walter (1942-x).
+*Bd. 2b*, *Teil 2*: 1955 (foreword p. \[2\] signed Jun 1954), Die *Röhrlinge, Blätter- und Bauchpilze* (Agaricales und Gastromycetales), p. \[i\]-ix, \[1\]-327. *Copies*: BM (n.v.), FH (n.v.), NY, USDA.
+*Author*: Moser, Meinhard (1924-2002), see Bull. Soc. Mycol. France 119(1-2): \[1\]. 2003. *3., Dritte, völlig umgearb. Aufl.*: 1967 (foreword p. vii signed Winter 1966), Die *Röhrlinge und Blätterpilze* (Agaricales), p. \[i\]-xii, \[1\]-443, \[i-iv, "für Notizen"\], \[v, advert.\], *pl. 1-13* (uncol. draw. in text), 1 chart (col., in pocket). *Copies*: BM (n.v.), FH (n.v.), K (n.v.), NY, US, USDA.
+*4., völlig überarb. Aufl*.: 1978 (foreword p. \[vii\] signed Mai 1977), Die *Röhrlinge und Blätterpilze* (Polyporales, Boletales, Agaricales, Russulales), Stuttgart \[&\] New York (Gustav Fischer), p. \[i\]-xiii, \[1\]-532, \[i-ii, advert.\], 1 chart (3 pieces in pocket). *Copies*: FH (n.v.), NY.
+*5., bearbeitete Aufl.*: 1983 (foreword p. \[vii\] signed Jun 1982), Die *Röhrlinge und Blätterpilze* (Polyporales, Boletales, Agaricales, Russulales), Stuttgart \[&\] New York (Gustav Fischer), p. \[i\]-xiii, \[1\]-533, \[i-iii, advert.\], chart in pocket (2 pieces col.). *Copies*: K (n.v.), NY.
+*Suppl*. \[Bd. 1-7, & "Lieferung"\]: 1985-x, *Farbatlas der Basidiomyceten* \[=Colour Atlas of Basidiomycetes\], Stuttgart \[&\] New York (Gustav Fischer), 7 vols. (loose-leaf). *Copies*: K (n.v.), NY.
+*Note*: A bibliographically complicated publication issued in parts to be arranged in loose-leaf binders.
+*Authors*: Moser, Meinhard (1924-2002), see Bull. Soc. Mycol. France 119(1-2): \[1\]. 2003; Jülich, Walter; and Furrer-Ziogas, Cuno.
+*Bd. 3*: 1967, (p. \[vi\] signed Summer 1996), *Flechten* (*Lichenes*), p. \[i\]-viii, \[1\]-244. *Copies*: BM (n.v.), FH (n.v.), K (n.v.), NY(2) (n.v.), USDA.
+*Author*: Gams, Helmut.
+*Bd. 4* \[=*4., stark erweiterte Aufl*.\]: 1957 (foreword p. \[v\] signed 1 Feb 1957), Die *Moosund Farnpflanzen* (Archegoniaten)... p. \[i\]-viii, 1-240. *Copies*: BM (n.v.), K, MO(4) (n.v.), NY, US, USDA.
+*Author*: Gams, Helmut.
+*Note*: This is Bd. 1 in Kleine Kryptogamenflora von Mitteleuropa. *5., erweiterte Aufl.*: 1973 (p. \[v\] signed Jul 1973), Die Moos- und Farnpflanzen (Archegoniaten)... p. \[i\]-viii, \[1\]-248. *Copies*: FH (n.v.), MO(4) (n.v.), NY. *6., völlig neubearbeitete Aufl.*: 1995 (winter), Die Moos- und Farnpflanzen Europas... Stuttgart (Gustav Fischer), p. \[i\]-xi, \[1\]-426, \[i-ii, advert.\]. *Copies*: FH (n.v.), MO(2) (n.v.), NY.
+*Authors*: Frey, Wolfgang (1942-x); Frahm, Jan-Peter (1945-x); Fischer, Eberhard; & Lobin, Wolfram.
+*Ref*.: Schmid, R., Taxon 44(3): 473-474. Aug 1995 (rev., "... a beautiful little work").
 

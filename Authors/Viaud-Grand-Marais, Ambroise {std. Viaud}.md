@@ -7,7 +7,7 @@ Viaud-Grand-Marais, Ambroise (1833-1913), French naturalist; teacher at the scho
 
 #### Herbarium and types
 
-[[Collection NMT|NMT]]; further material in [[Collection H|H]]-NYL (lich.), [[Collection M|M]] (lich.), [[Collection PC|PC]], [[Collection TUR|TUR]]-V (lich.), [[Collection WRSL|WRSL]] (lich.).
+[[Collection NTM|NTM]]; further material in [[Collection H|H]]-NYL (lich.), [[Collection M|M]] (lich.), [[Collection PC|PC]], [[Collection TUR|TUR]]-V (lich.), [[Collection WRSL|WRSL]] (lich.).
 
 #### Bibliography and biography
 

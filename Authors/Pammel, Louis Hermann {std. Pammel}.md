@@ -7,7 +7,7 @@ Pammel, Louis Hermann (1862-1931), American botanist and conservationist; M.S. U
 
 #### Herbarium and types
 
-[[Collection ISC|ISC]]; further material in many herbaria, e.g. [[Collection A|A]], [[Collection B|B]], [[Collection C|C]], [[Collection CM|CM]], [[Collection CS|CS]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection FLAS|FLAS]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OKL|OKL]], [[Collection OKU|OKU]], [[Collection POM|POM]], [[Collection WELC|WELC]], [[Collection WTU|WTU]]. –
+[[Collection ISC|ISC]]; further material in many herbaria, e.g. [[Collection A|A]], [[Collection B|B]], [[Collection C|C]], [[Collection CM|CM]], [[Collection CS|CS]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection FLAS|FLAS]], [[Collection GH|GH]], [[Collection K|K]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OKL|OKL]], [[Collection OKLA|OKLA]], [[Collection POM|POM]], [[Collection WELC|WELC]], [[Collection WTU|WTU]]. –
 Some letters at [[Collection G|G]].
 
 #### Bibliography and biography

@@ -7,7 +7,7 @@ Groves, J\[ames\]. Walton (1906-1970), Canadian mycologist, born 18 Oct 1906 in 
 
 #### Herbarium and types
 
-Canada (1931-1952, Fungi): [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection OTB|OTB]], [[Collection PC|PC]], [[Collection TRTC|TRTC]].
+Canada (1931-1952, Fungi): [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection OTB|OTB]] \[[[Collection OTF|OTF?]]\], [[Collection PC|PC]], [[Collection TRTC|TRTC]].
 
 #### Bibliography and biography
 

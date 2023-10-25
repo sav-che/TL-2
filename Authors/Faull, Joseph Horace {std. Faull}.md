@@ -11,7 +11,7 @@ His daughter, Anna Faull (1906-1983), was a Prof. of Botany, Wheaton Collge, Nor
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (orig.), duplicates [[Collection BPI|BPI]] (esp. rust fungi), [[Collection NY|NY]], [[Collection OBT|OBT]], [[Collection TRT|TRT]], [[Collection TRTC|TRTC]]. – Mss. in [[Collection FH|FH]] (Joseph Horace Faull papers).
+[[Collection FH|FH]] (orig.), duplicates [[Collection BPI|BPI]] (esp. rust fungi), [[Collection NY|NY]], [[Collection OBT|OBT]] \[[[Collection CAN|OTF]]?\], [[Collection TRT|TRT]], [[Collection TRTC|TRTC]]. – Mss. in [[Collection FH|FH]] (Joseph Horace Faull papers).
 
 #### Bibliography and biography
 

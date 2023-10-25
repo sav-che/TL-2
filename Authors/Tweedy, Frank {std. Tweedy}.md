@@ -7,7 +7,7 @@ Tweedy, Frank (1854-1937), American topographic engineer and botanical collector
 
 #### Herbarium and types
 
-[[Collection YU|YU]] (private herb.), [[Collection US|US]] (1000, partly orig.); further material at [[Collection B|B]] (mainly destr.), [[Collection GH|GH]], [[Collection MON|MON]], [[Collection NY|NY]] (important set), [[Collection PH|PH]], [[Collection RM|RM]], [[Collection WTU|WTU]].
+[[Collection YU|YU]] (private herb.), [[Collection US|US]] (1000, partly orig.); further material at [[Collection B|B]] (mainly destr.), [[Collection GH|GH]], [[Collection MONT|MONT]], [[Collection NY|NY]] (important set), [[Collection PH|PH]], [[Collection RM|RM]], [[Collection WTU|WTU]].
 
 #### Bibliography and biography
 

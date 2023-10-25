@@ -9,7 +9,7 @@ Godron, Dominique Alexandre (1807-1880), French botanist at Nancy. (*Godr.*).
 
 #### Herbarium and types
 
-[[Collection NGY|NGY]]. – Published also some series of exsiccatae: *Flora cryptogamica nanceiensis exsiccata* (fasc, i-ii, nos. 1-100) and *Plantae galliae australis*. – Material at [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection P|P]], [[Collection PC|PC]], [[Collection W|W]].
+[[Collection NCY|NCY]]. – Published also some series of exsiccatae: *Flora cryptogamica nanceiensis exsiccata* (fasc, i-ii, nos. 1-100) and *Plantae galliae australis*. – Material at [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection CN|CN]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection P|P]], [[Collection PC|PC]], [[Collection W|W]].
 *Ref*.: IH 2: 229.
 - Godron, Bull. Soc. bot. France 24: 254-255. 1877; 27(2): 92-93. 1880.
 - Sayre, Mem. New York Bot. Gard. 19(1): 27. 1969.

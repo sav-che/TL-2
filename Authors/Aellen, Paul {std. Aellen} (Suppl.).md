@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection G|G]] ([[Collection G|G]]-PAE); collections from Basel at [[Collection BAS|BAS]]. – The Aellen herbarium contains the herbaria of W.G. Herter (50.000, Uruguay) and G. Looser (30.000, Europe, Chile); collections by J. Murr (Chenopod.), A. Ludwig, H. Wolf (crypt.), H. Bangerter and H. Heinis (Roses) as well as the Thüringen herbarium of R. Scheuermann; for further details see Burdet (1977). – For further information see P. Aellen, Jahresbericht 1962-1963 \[through 1969-1975\] der "Stiftung Herbarium Paul Aellen". Duplicates: [[Collection AD|AD]], [[Collection BM|BM]], [[Collection F|F]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection LCU|LCU]], [[Collection LD|LD]], [[Collection NJ|NJ]], [[Collection M|M]], [[Collection MVH|MVH]], [[Collection U|U]], [[Collection US|US]].
+[[Collection G|G]] ([[Collection G|G]]-PAE); collections from Basel at [[Collection BAS|BAS]]. – The Aellen herbarium contains the herbaria of W.G. Herter (50.000, Uruguay) and G. Looser (30.000, Europe, Chile); collections by J. Murr (Chenopod.), A. Ludwig, H. Wolf (crypt.), H. Bangerter and H. Heinis (Roses) as well as the Thüringen herbarium of R. Scheuermann; for further details see Burdet (1977). – For further information see P. Aellen, Jahresbericht 1962-1963 \[through 1969-1975\] der "Stiftung Herbarium Paul Aellen". Duplicates: [[Collection AD|AD]], [[Collection BM|BM]], [[Collection F|F]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection LCU|LCU]], [[Collection LD|LD]], [[Collection NJ|NJ]], [[Collection M|M]], [[Collection MVH|MVH]] \[[[Collection MVM|MVM]]?\], [[Collection U|U]], [[Collection US|US]].
 
 #### Bibliography and biography
 

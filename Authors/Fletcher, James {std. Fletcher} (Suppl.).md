@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection DAO|DAO]] (orig.), duplicates [[Collection A|A]], [[Collection CAN|CAN]], [[Collection K|K]], [[Collection NY|NY]], [[Collection OTB|OTB]]. – Corr. in the Public Archives, Ottawa.
+[[Collection DAO|DAO]] (orig.), duplicates [[Collection A|A]], [[Collection CAN|CAN]], [[Collection K|K]], [[Collection NY|NY]], [[Collection OTB|OTB]] \[[[Collection OTF|OTF?]]\]. – Corr. in the Public Archives, Ottawa.
 
 #### Bibliography and biography
 

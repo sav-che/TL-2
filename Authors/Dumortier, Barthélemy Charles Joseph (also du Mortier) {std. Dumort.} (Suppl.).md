@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BR|BR]], further material at [[Collection BM|BM]], [[Collection G|G]], [[Collection L|L]], [[Collection LG|LG]], [[Collection MO|MO]], [[Collection NBV|NBV]], [[Collection NY|NY]], [[Collection PCS|PCS]], Steare.
+[[Collection BR|BR]], further material at [[Collection BM|BM]], [[Collection G|G]], [[Collection L|L]], [[Collection LG|LG]], [[Collection MO|MO]], [[Collection NBV|NBV]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], Steare.
 
 #### Bibliography and biography
 
