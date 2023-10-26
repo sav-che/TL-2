@@ -7,7 +7,7 @@ Reverchon, Julien (1834-1905), French botanical collector; brother of E. Reverch
 
 #### Herbarium and types
 
-[[Collection MO|MO]]. – Collections from Texas also in [[Collection A|A]], [[Collection B|B]], [[Collection CR|CR]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection FMC|FMC]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LE|LE]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection ND|ND]], [[Collection NY|NY]], [[Collection ORE|ORE]], [[Collection P|P]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection S|S]], [[Collection SMU|SMU]], [[Collection TAEX|TAEX]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection VT|VT]], [[Collection WELC|WELC]]. – Letters to A. Gray and Th. Morong at [[Collection GH|GH]].
+[[Collection MO|MO]]. – Collections from Texas also in [[Collection A|A]], [[Collection B|B]], [[Collection CR|CR]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection FMC|FMC]], [[Collection GB|GB]], [[Collection K|K]], [[Collection LE|LE]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection ND|ND]], [[Collection NY|NY]], [[Collection ORE|ORE]], [[Collection P|P]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection S|S]], [[Collection SMU|SMU]], [[Collection TAES|TAES]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection VT|VT]], [[Collection WELC|WELC]]. – Letters to A. Gray and Th. Morong at [[Collection GH|GH]].
 
 #### Bibliography and biography
 

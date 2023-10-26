@@ -7,7 +7,7 @@ Bullock, Arthur Allman (1906-1980), British botanist, born 8 Feb 1906 Grimsby, L
 
 #### Herbarium and types
 
-[[Collection K|K]] (260), further material in [[Collection BM|BM]], [[Collection EA|EA]], [[Collection SRGM|SRGM]].
+[[Collection K|K]] (260), further material in [[Collection BM|BM]], [[Collection EA|EA]], [[Collection SRGH|SRGH]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@ Davis, John Jefferson (1852-1937), American physician and mycologist. (*J. J. Da
 
 #### Herbarium and types
 
-[[Collection WIS|WIS]], dupl. see IH 2: 154. 1954. Exsiccatae: *Fungi wisconsinensis exsiccatae* (17 dec, nos. 1-170, 1916-1933). Sets at [[Collection BPI|BPI]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection F|F]], [[Collection FH|FH]] (many types), [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PAC|PAC]], [[Collection PUR|PUR]], [[Collection SOLH|SOLH]], [[Collection TRTC|TRTC]], [[Collection UC|UC]], [[Collection WIS|WIS]].
+[[Collection WIS|WIS]], dupl. see IH 2: 154. 1954. Exsiccatae: *Fungi wisconsinensis exsiccatae* (17 dec, nos. 1-170, 1916-1933). Sets at [[Collection BPI|BPI]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection F|F]], [[Collection FH|FH]] (many types), [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PAC|PAC]], [[Collection PUR|PUR]], [[Collection RMS|SOLH]], [[Collection TRTC|TRTC]], [[Collection UC|UC]], [[Collection WIS|WIS]].
 *Ref*.: IH 2: 154.
 - Stevenson, Beih. Nova Hedwigia 36: 97-99. 1971.
 

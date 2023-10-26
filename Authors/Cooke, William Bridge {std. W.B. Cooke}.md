@@ -7,7 +7,7 @@ Cooke, William Bridge (1908-x), American mycologist. (*W. B. Cooke*).
 
 #### Herbarium and types
 
-[[Collection UC|UC]], [[Collection CINC|CINC]], duplicates see IH. – *Exsiccatae*: Mycobiota of North America (fasc. 1-11, 1939-1951, nos. 1-450). Sets at [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection CINC|CINC]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection KANU|KANU]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection ND|ND]], [[Collection NY|NY]], [[Collection SOLH|SOLH]], [[Collection TRIC|TRIC]], [[Collection UC|UC]], [[Collection UT|UT]], [[Collection WSP|WSP]].
+[[Collection UC|UC]], [[Collection CINC|CINC]], duplicates see IH. – *Exsiccatae*: Mycobiota of North America (fasc. 1-11, 1939-1951, nos. 1-450). Sets at [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection CINC|CINC]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection FH|FH]], [[Collection KANU|KANU]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection ND|ND]], [[Collection NY|NY]], [[Collection RMS|SOLH]], [[Collection TRTC|TRTC]], [[Collection UC|UC]], [[Collection UT|UT]], [[Collection WSP|WSP]].
 *Ref*.: IH 2: 137.
 - W. B. Cooke, Mycologia 32: 416-417. 1940.
 - Stevenson, Beih. Nova Hedwigia 36: 92-95. 1971.

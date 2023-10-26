@@ -8,7 +8,7 @@ Kellerman, William Ashbrook (1850-1908), American botanist and mycologist, studi
 #### Herbarium and types
 
 [[Collection OS|OS]]; further original material at [[Collection US|US]], [[Collection PUR|PUR]] and [[Collection F|F]]; material in many herbaria. *Exsiccatae*:
-(1) *Fungi selecti guatemalenses*, dec. 1-2, nos. 1-20, 1906-1907, sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection FH|FH]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection SOLH|SOLH]], [[Collection UC|UC]].
+(1) *Fungi selecti guatemalenses*, dec. 1-2, nos. 1-20, 1906-1907, sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection FH|FH]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection RMS|SOLH]], [[Collection UC|UC]].
 (2) *Ohio fungi*, fasc. 1-10, nos. 1-200, 1901-1905, sets see IH; texts in Ohio Naturalist.
 (3) *Kansas fungi*, fasc. 1-2, nos. 1-50, publ. 1 May and 1 Aug 1889, with Walter Tennyson F. Swingle (1871-1952), sets: [[Collection BPI|BPI]], [[Collection DAOM|DAOM]]. [[Collection FH|FH]], [[Collection ISC|ISC]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MSC|MSC]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection OC|OC]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection RUTPP|RUTPP]], [[Collection UT|UT]], [[Collection WIS|WIS]].
 *Ref*.: Anon., Torreya 9: 239. 1909.

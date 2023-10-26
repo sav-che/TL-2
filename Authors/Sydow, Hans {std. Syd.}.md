@@ -59,7 +59,7 @@ Sydow, Hans (1879-1946), German (Berlin) amateur mycologist; son of Paul Sydow; 
 |20-21	|951-1050	|Mar 1939	|40: 159-161. 1942|
 |22-25	|1051-1250	|Sep 1943	|41: 334-338. 1943|
 
-For full details see J. Stevenson, Beih. Nova Hedw. 36: 402-414. 1971. *Sets*: [[Collection B|B]] (extant), [[Collection BISH|BISH]], [[Collection BPI|BPI]], [[Collection C|C]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection PRE|PRE]], [[Collection PUR|PUR]], [[Collection S|S]], [[Collection SOLH|SOLH]], [[Collection TRTC|TRTC]], [[Collection UPS|UPS]], [[Collection W|W]], [[Collection WIS|WIS]], [[Collection WRSL|WRSL]]. – Fasc. 22-25 are at [[Collection S|S]] and [[Collection UPS|UPS]], and in part at [[Collection BPI|BPI]].
+For full details see J. Stevenson, Beih. Nova Hedw. 36: 402-414. 1971. *Sets*: [[Collection B|B]] (extant), [[Collection BISH|BISH]], [[Collection BPI|BPI]], [[Collection C|C]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection PRE|PRE]], [[Collection PUR|PUR]], [[Collection S|S]], [[Collection RMS|SOLH]], [[Collection TRTC|TRTC]], [[Collection UPS|UPS]], [[Collection W|W]], [[Collection WIS|WIS]], [[Collection WRSL|WRSL]]. – Fasc. 22-25 are at [[Collection S|S]] and [[Collection UPS|UPS]], and in part at [[Collection BPI|BPI]].
 
 #### Bibliography and biography
 

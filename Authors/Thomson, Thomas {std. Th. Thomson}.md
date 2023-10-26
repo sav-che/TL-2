@@ -7,7 +7,7 @@ Thomson, Thomas (1817-1878), British physician and botanist; MD Glasgow 1839; st
 
 #### Herbarium and types
 
-[[Collection K|K]] (see also J.D. Hooker); further material at [[Collection B|B]] (mainly destr.), [[Collection BAS|BAS]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MH|MH]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection UW|UW]], [[Collection WU|WU]]. – *Mss*. and *letters* at [[Collection K|K]], other letters at [[Collection G|G]]. – *Exsiccatae* (with J.D. Hooker (1817-1911), *Herbarium Indiae orientalis*, col. 1847-1851, see J.D. Hooker.
+[[Collection K|K]] (see also J.D. Hooker); further material at [[Collection B|B]] (mainly destr.), [[Collection BAS|BAS]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MH|MH]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection UW|UW]] \[[[Collection W|W]]?\], [[Collection WU|WU]]. – *Mss*. and *letters* at [[Collection K|K]], other letters at [[Collection G|G]]. – *Exsiccatae* (with J.D. Hooker (1817-1911), *Herbarium Indiae orientalis*, col. 1847-1851, see J.D. Hooker.
 
 #### Bibliography and biography
 

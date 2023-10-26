@@ -7,7 +7,7 @@ Archer, William Andrew (1894-1973), American botanist and plant collector at the
 
 #### Herbarium and types
 
-[[Collection US|US]]. – Further material at [[Collection BPI|BPI]], [[Collection BRG|BRG]], [[Collection COL|COL]], [[Collection DUKE|DUKE]], [[Collection F|F]], [[Collection GH|GH]], [[Collection IAN|IAN]], [[Collection K|K]], [[Collection MA|MA]], [[Collection MEDEL|MEDEL]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection RENU|RENU]], [[Collection SP|SP]].
+[[Collection US|US]]. – Further material at [[Collection BPI|BPI]], [[Collection BRG|BRG]], [[Collection COL|COL]], [[Collection DUKE|DUKE]], [[Collection F|F]], [[Collection GH|GH]], [[Collection IAN|IAN]], [[Collection K|K]], [[Collection MA|MA]], [[Collection MEDEL|MEDEL]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection RENO|RENO]], [[Collection SP|SP]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Zabel, Hermann (1832-1912), German forester and botanist; assistant at the Botan
 
 #### Herbarium and types
 
-[[Collection GOET|GOET]]; further material at [[Collection GFW|GFW]], [[Collection LUX|LUX]], [[Collection MO|MO]], [[Collection WRSL|WRSL]]. – *Letters *at [[Collection G|G]].
+[[Collection GOET|GOET]]; further material at [[Collection GFW|GFW]], [[Collection LUX|LUX]], [[Collection MO|MO]], [[Collection WRSL|WRSL]]. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

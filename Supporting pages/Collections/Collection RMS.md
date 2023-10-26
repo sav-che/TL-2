@@ -1,3 +1,6 @@
+> [!note] 
+> In TL-2 RMS is usually cited as SOLH (Solheim Mycological Herbarium)
+
 **Code**: [RMS](https://sweetgum.nybg.org/science/ih/herbarium-details/?irn=126908)
 
 **Organization**: University of Wyoming

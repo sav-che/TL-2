@@ -7,7 +7,7 @@ Theissen \[Theiszen\], Ferdinand (1877-1919), German clergyman and mycologist; N
 
 #### Herbarium and types
 
-[[Collection FH|FH]]. – Further material in [[Collection B|B]] (mainly destr.), W. – *Exsiccatae*: (1) *Decades fungorum brasiliensium* cent. 1-4 (nos. 1-300, appendix nos. 1-15); 1910-1912 for full details see J. Stevenson (1971). – Sets: [[Collection B|B]] (mainly destr.), [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection LIL|LIL]], [[Collection S|S]], [[Collection SOLH|SOLH]].
+[[Collection FH|FH]]. – Further material in [[Collection B|B]] (mainly destr.), W. – *Exsiccatae*: (1) *Decades fungorum brasiliensium* cent. 1-4 (nos. 1-300, appendix nos. 1-15); 1910-1912 for full details see J. Stevenson (1971). – Sets: [[Collection B|B]] (mainly destr.), [[Collection BPI|BPI]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection K|K]], [[Collection LIL|LIL]], [[Collection S|S]], [[Collection RMS|SOLH]].
 (2) See J. Rick, (TL-2/4: 780) for Theissen's share in the *Fungi austro-americani*.
 
 #### Bibliography and biography

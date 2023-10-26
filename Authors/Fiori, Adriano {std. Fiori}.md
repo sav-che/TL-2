@@ -9,7 +9,7 @@ Fiori, Adriano (1865-1950), Italian botanist. (*Fiori*).
 
 #### Herbarium and types
 
-[[Collection FI|FI]] (fide R. E. G. pichi-Sermolli in litt.) – *Exsiccatae*: *Flora italia exsiccata*: ser. 1-2 (1905-1927 by Fiori), ser. 3 (cent. 1-30, 1905-1927 by Fiori, Béguinot and Pampanini Schedae: in Nuovo Giorn. bot. ital.), sets at [[Collection B|B]], [[Collection BI|BI]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection K|K]], [[Collection L|L]], [[Collection OXF|OXF]], [[Collection PAD|PAD]], [[Collection QI|QI]].
+[[Collection FI|FI]] (fide R. E. G. pichi-Sermolli in litt.) – *Exsiccatae*: *Flora italia exsiccata*: ser. 1-2 (1905-1927 by Fiori), ser. 3 (cent. 1-30, 1905-1927 by Fiori, Béguinot and Pampanini Schedae: in Nuovo Giorn. bot. ital.), sets at [[Collection B|B]], [[Collection BI|BI]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection K|K]], [[Collection L|L]], [[Collection OXF|OXF]], [[Collection PAD|PAD]], [[Collection PI|PI]].
 *Ref*.: DTS 6(4): 137; IH 2: 197.
 
 #### Bibliography and biography

@@ -7,7 +7,7 @@ Boll, Jacob (1828-1880), Swiss botanist, entomologist, geologist, and pharmacist
 
 #### Herbarium and types
 
-[[Collection B|B]], [[Collection G|G]], [[Collection M|M]], [[Collection MO|MO]], [[Collection RSL|RSL]], [[Collection Z|Z]].
+[[Collection B|B]], [[Collection G|G]], [[Collection M|M]], [[Collection MO|MO]], [[Collection RSL|RSL]] \[[[Collection WRSL|WRSL]]?\], [[Collection Z|Z]].
 
 #### Bibliography and biography
 

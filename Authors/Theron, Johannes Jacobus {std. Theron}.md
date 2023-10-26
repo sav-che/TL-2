@@ -7,7 +7,7 @@ Theron, Johannes Jacobus (1905-x), South African botanist; at Potchefstroom Univ
 
 #### Herbarium and types
 
-[[Collection PRU|PRU]], [[Collection PU|PU]]. – Other material at [[Collection BM|BM]], [[Collection DPU|DPU]].
+[[Collection PRU|PRU]], [[Collection PU|PU]] \[[[Collection PUC|PUC]]?\]. – Other material at [[Collection BM|BM]], [[Collection DPU|DPU]].
 
 #### Bibliography and biography
 

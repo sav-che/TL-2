@@ -14,7 +14,7 @@
 
 #### Herbarium and types
 
-Original collections from California at [[Collection UC|UC]], duplicates at [[Collection B|B]]; collections of [[Collection S|S]]-Africa at [[Collection PRE|PRE]] (first set), further material at [[Collection BOL|BOL]], [[Collection BUL|BUL]], [[Collection GRA|GRA]], [[Collection J|J]], [[Collection JEPS|JEPS]], [[Collection K|K]], [[Collection NH|NH]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection SAM|SAM]]. Field notes from California period at [[Collection JEPS|JEPS]] and [[Collection WC|WC]].
+Original collections from California at [[Collection UC|UC]], duplicates at [[Collection B|B]]; collections of [[Collection S|S]]-Africa at [[Collection PRE|PRE]] (first set), further material at [[Collection BOL|BOL]], [[Collection BUL|BUL]], [[Collection GRA|GRA]], [[Collection J|J]], [[Collection JEPS|JEPS]], [[Collection K|K]], [[Collection NH|NH]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection SAM|SAM]]. Field notes from California period at [[Collection JEPS|JEPS]] and [[Collection WC|WC]] \[[[Collection UC|UC]]?\].
 
 #### Bibliography and biography
 

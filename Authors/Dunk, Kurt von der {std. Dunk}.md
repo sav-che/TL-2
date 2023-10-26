@@ -7,7 +7,7 @@ Dunk, Kurt von der (1897-1985), German botanist (bryologist) from Elberfeld, Dr.
 
 #### Herbarium and types
 
-[[Collection PRIV|PRIV]] (fide G. Sayre).
+PRIV (fide G. Sayre).
 
 ### Publications
 

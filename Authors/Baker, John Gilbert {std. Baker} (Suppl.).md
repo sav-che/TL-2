@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection WELT|WELT]]; first herbarium destroyed by fire 1864, types at [[Collection K|K]] and [[Collection WELT|WELT]], further material in [[Collection ABD|ABD]], [[Collection BEL|BEL]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection CUP|CUP]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection GL|GL]], [[Collection K|K]], [[Collection LDS|LDS]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]] (bryo.), [[Collection NMW|NMW]], [[Collection OXF|OXF]], [[Collection QK|QK]], [[Collection US|US]], [[Collection WAR|WAR]], [[Collection WAS|WAS]]. − Issued *Plantae criticae britannicae*, *Herbarium of British Roses*, *Plants of North Yorkshire*, *Fasciculus of dried specimens of the Hieracia of North Yorkshire* and *Teesdale* (see W.J. Hooker, J. Bot. Kew Gard. Misc. 6: 57-58. 1854).
+[[Collection WELT|WELT]]; first herbarium destroyed by fire 1864, types at [[Collection K|K]] and [[Collection WELT|WELT]], further material in [[Collection ABD|ABD]], [[Collection BEL|BEL]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection CUP|CUP]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection GL|GL]], [[Collection K|K]], [[Collection LDS|LDS]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]] (bryo.), [[Collection NMW|NMW]], [[Collection OXF|OXF]], [[Collection QK|QK]], [[Collection US|US]], [[Collection WAR|WAR]], [[Collection WAS|WAS]] \[[[Collection WAG|WAG]]?\]. − Issued *Plantae criticae britannicae*, *Herbarium of British Roses*, *Plants of North Yorkshire*, *Fasciculus of dried specimens of the Hieracia of North Yorkshire* and *Teesdale* (see W.J. Hooker, J. Bot. Kew Gard. Misc. 6: 57-58. 1854).
 
 #### Bibliography and biography
 

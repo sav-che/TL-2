@@ -7,7 +7,7 @@ Taylor, Thomas (1786-1848), India-born Irish botanist; M.D. Trinity College, Dub
 
 #### Herbarium and types
 
-[[Collection FH|FH]]; also in [[Collection BM|BM]] (acq. with herb. Wilson). – Other material at [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection M|M]], [[Collection OXF|OXF]], [[Collection TCI|TCI]], [[Collection WRSL|WRSL]]. – *Letters* [[Collection K|K]], [[Collection TCD|TCD]].
+[[Collection FH|FH]]; also in [[Collection BM|BM]] (acq. with herb. Wilson). – Other material at [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection M|M]], [[Collection OXF|OXF]], [[Collection TCD|TCD]], [[Collection WRSL|WRSL]]. – *Letters* [[Collection K|K]], [[Collection TCD|TCD]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Crandall, Charles Spencer (1852-1929), American horticulturist, born 12 Oct 1852
 
 #### Herbarium and types
 
-[[Collection NY|NY]], further material at [[Collection B|B]], [[Collection COLO|COLO]], [[Collection CS|CS]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ISC|ISC]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection PH|PH]], [[Collection PUR|PUR]], [[Collection URB|URB]], [[Collection US|US]], [[Collection UTC|UTC]], [[Collection VT|VT]], [[Collection WS|WS]], [[Collection WVU|WVU]], [[Collection WYO|WYO]].
+[[Collection NY|NY]], further material at [[Collection B|B]], [[Collection COLO|COLO]], [[Collection CS|CS]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ISC|ISC]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection PH|PH]], [[Collection PUR|PUR]], [[Collection URB|URB]], [[Collection US|US]], [[Collection UTC|UTC]], [[Collection VT|VT]], [[Collection WS|WS]], [[Collection WVA|WVU]], [[Collection WYO|WYO]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@ Abel, Clarke (1789-1826), British surgeon who travelled to China with Amherst, 1
 
 #### Herbarium and types
 
-[[Collection R|R]]. Brown described the plants collected on Abel's journey to China; they are at [[Collection BM|BM]]. Some material also at [[Collection K|K]]. – Most of the original collections from China were lost in shipwreck except those previously sent to Sir George Staunton.
+R. Brown described the plants collected on Abel's journey to China; they are at [[Collection BM|BM]]. Some material also at [[Collection K|K]]. – Most of the original collections from China were lost in shipwreck except those previously sent to Sir George Staunton.
 *Ref*.: IH 2: 25.
 
 #### Bibliography and biography

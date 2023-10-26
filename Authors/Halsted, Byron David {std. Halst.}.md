@@ -7,7 +7,7 @@ Halsted, Byron David (1852-1918), American botanist and pioneer phytopathologist
 
 #### Herbarium and types
 
-Herbarium material collected in C. America at [[Collection CS|CS]], [[Collection K|K]], [[Collection ILL|ILL]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection UTC|UTC]], [[Collection VT|VT]], [[Collection WVU|WVU]]. Halsted also distributed (1893) "a century of weed seeds" in vials with printed labels.
+Herbarium material collected in C. America at [[Collection CS|CS]], [[Collection K|K]], [[Collection ILL|ILL]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection UTC|UTC]], [[Collection VT|VT]], [[Collection WVA|WVU]]. Halsted also distributed (1893) "a century of weed seeds" in vials with printed labels.
 
 #### Bibliography and biography
 

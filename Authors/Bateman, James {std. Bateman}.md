@@ -9,7 +9,7 @@ Bateman, James (1811-1897), English horticulturist and orchidologist. (*Bateman*
 
 #### Herbarium and types
 
-Bateman's herbarium specimens and drawings of cultivated orchids are at [[Collection K|K]] (some also at [[Collection W|W]]). 7 Original drawings for *The orchidaceae* by Augusta Withers are in the Lindley Library, [[Collection RHS|RHS]], London ([[Collection NI|NI]]).
+Bateman's herbarium specimens and drawings of cultivated orchids are at [[Collection K|K]] (some also at [[Collection W|W]]). 7 Original drawings for *The orchidaceae* by Augusta Withers are in the Lindley Library, RHS, London (NI).
 *Ref*.: IH 2: 59; NI suppl. 89.
 
 #### Bibliography and biography

@@ -7,7 +7,7 @@ Friesner, Ray Clarence (1894-1952), American plant taxonomist and ecologist, bor
 
 #### Herbarium and types
 
-[[Collection BUT|BUT]] (25,500, incl. field books), duplicates [[Collection CAS|CAS]], [[Collection DS|DS]], [[Collection DUKE|DUKE]], [[Collection F|F]], [[Collection GH|GH]], [[Collection IA|IA]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection KSC|KSC]], [[Collection LAS|LAS]], [[Collection MO|MO]], [[Collection NH|NH]], [[Collection NY|NY]], [[Collection OKLA|OKLA]], [[Collection POM|POM]], [[Collection TEX|TEX]], [[Collection U|U]], [[Collection WAB|WAB]] (now [[Collection NY|NY]]), [[Collection WS|WS]], [[Collection WVU|WVU]]. – Some corr. at [[Collection HU|HU]].
+[[Collection BUT|BUT]] (25,500, incl. field books), duplicates [[Collection CAS|CAS]], [[Collection DS|DS]], [[Collection DUKE|DUKE]], [[Collection F|F]], [[Collection GH|GH]], [[Collection IA|IA]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection KSC|KSC]], [[Collection LAS|LAS]], [[Collection MO|MO]], [[Collection NH|NH]], [[Collection NY|NY]], [[Collection OKLA|OKLA]], [[Collection POM|POM]], [[Collection TEX|TEX]], [[Collection U|U]], [[Collection WAB|WAB]] (now [[Collection NY|NY]]), [[Collection WS|WS]], [[Collection WVA|WVU]]. – Some corr. at [[Collection HU|HU]].
 
 #### Bibliography and biography
 

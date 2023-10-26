@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection K|K]], further material at [[Collection W|W]]. − 7 drawings by Augusta Withers (for *The Orchidaceae*) at [[Collection RHS|RHS]], London.
+[[Collection K|K]], further material at [[Collection W|W]]. − 7 drawings by Augusta Withers (for *The Orchidaceae*) at RHS, London.
 
 #### Bibliography and biography
 

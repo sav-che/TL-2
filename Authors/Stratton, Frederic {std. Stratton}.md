@@ -7,7 +7,7 @@ Stratton, Frederic (1840-1916), British botanist at Newport, Isle of Wight, cler
 
 #### Herbarium and types
 
-Material at [[Collection ABD|ABD]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DOR|DOR]], [[Collection E|E]], [[Collection FRS|FRS]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection OXF|OXF]], [[Collection PSCB|PSCB]], [[Collection WAR|WAR]] (see Kent & Allen 1984).
+Material at [[Collection ABD|ABD]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DOR|DOR]], [[Collection E|E]], [[Collection FRS|FRS]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection OXF|OXF]], [[Collection PSGB|PSGB]], [[Collection WAR|WAR]] (see Kent & Allen 1984).
 
 #### Bibliography and biography
 

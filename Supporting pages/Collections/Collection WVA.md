@@ -1,3 +1,6 @@
+> [!note] 
+> In TL-2 WVA is usually cited as WVU
+
 **Code**: [WVA](https://sweetgum.nybg.org/science/ih/herbarium-details/?irn=127016)
 
 **Organization**: West Virginia University

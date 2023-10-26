@@ -7,7 +7,7 @@ Brown, Harry Philip (1887-x), American forest botanist and wood technologist, bo
 
 #### Herbarium and types
 
-[[Collection SYRE|SYRE]], further material at [[Collection NY|NY]], [[Collection U|U]].
+[[Collection SYR|SYR]], further material at [[Collection NY|NY]], [[Collection U|U]].
 
 #### Bibliography and biography
 

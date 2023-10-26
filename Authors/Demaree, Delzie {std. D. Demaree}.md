@@ -7,7 +7,7 @@ Demaree, Delzie (1889-1987), American botanist, born 15 Sep 1889 in Benham, Indi
 
 #### Herbarium and types
 
-[[Collection BH|BH]], [[Collection BUT|BUT]], [[Collection DS|DS]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection KY|KY]], [[Collection L|L]], [[Collection LA|LA]], [[Collection LAM|LAM]], [[Collection LCU|LCU]], [[Collection LIL|LIL]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NO|NO]], [[Collection NY|NY]], [[Collection OKLA|OKLA]], [[Collection PH|PH]] (ca. 700 specimens), [[Collection POM|POM]] [[Collection SD|SD]], [[Collection STAR|STAR]], [[Collection TENN|TENN]], [[Collection TEX|TEX]], [[Collection TTC|TTC]], [[Collection UARK|UARK]], [[Collection US|US]], [[Collection USFS|USFS]], [[Collection UVST|UVST]], [[Collection VBB|VBB]], [[Collection W|W]], [[Collection WS|WS]], [[Collection WTU|WTU]].
+[[Collection BH|BH]], [[Collection BUT|BUT]], [[Collection DS|DS]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection KY|KY]], [[Collection L|L]], [[Collection LA|LA]], [[Collection LAM|LAM]], [[Collection LCU|LCU]], [[Collection LIL|LIL]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NO|NO]], [[Collection NY|NY]], [[Collection OKLA|OKLA]], [[Collection PH|PH]] (ca. 700 specimens), [[Collection POM|POM]], [[Collection SD|SD]], [[Collection STAR|STAR]], [[Collection TENN|TENN]], [[Collection TEX|TEX]], [[Collection TTC|TTC]], [[Collection UARK|UARK]], [[Collection US|US]], [[Collection USFS|USFS]], [[Collection UVST|UVST]], [[Collection VBB|VBB]] \[[[Collection VDB|VDB]]?\], [[Collection W|W]], [[Collection WS|WS]], [[Collection WTU|WTU]].
 
 #### Bibliography and biography
 

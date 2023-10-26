@@ -9,7 +9,7 @@ Groves, Henry \[of Clapham\] (1855-1912), British algologist. (*H. Groves*).
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – Exsiccatae: (with his brother James Groves): *Characeae* *Britannicae exsiccatae* (fasc. i-iii, nos. 1-60, 1892-1900), sets at e.g. [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection PC|PC]]. Duplicares of higher plants are at [[Collection K|K]], [[Collection GL|GL]], [[Collection NOT|NOT]], [[Collection OXF|OXF]], [[Collection SCBI|SCBI]].
+[[Collection BM|BM]]. – Exsiccatae: (with his brother James Groves): *Characeae* *Britannicae exsiccatae* (fasc. i-iii, nos. 1-60, 1892-1900), sets at e.g. [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FH|FH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LD|LD]], [[Collection PC|PC]]. Duplicates of higher plants are at [[Collection K|K]], [[Collection GL|GL]], [[Collection NOT|NOT]], [[Collection OXF|OXF]], [[Collection SCBI|SCBI]].
 *Ref*.: IH 2: 242-243. Kent p. 58.
 - Clokie, Account herbaria Oxford 175. 1964.
 - Koster, Taxon 18: 553. 1969.
