@@ -9,7 +9,7 @@ Arcangeli, Giovanni (1840-1921), Italian botanist, professor of botany and direc
 
 #### Herbarium and types
 
-Unknown fat [[Collection PI|PI]]?); collections in many herbaria, e.g. bryophytes at [[Collection H|H]].
+Unknown (at [[Collection PI|PI]]?); collections in many herbaria, e.g. bryophytes at [[Collection H|H]].
 *Ref*.: IH 2: 40.
 
 #### Bibliography and biography
