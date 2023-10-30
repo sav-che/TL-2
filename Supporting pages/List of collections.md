@@ -1,4 +1,4 @@
-This is a list of abbreviations recognized as collection codes, either matched automatically to Index Herbariorum (IH) or manually resolved where possible. Erroneous acronyms with typographic errors are also listed. Extended table of edits, including acronyms with OCR errors that were initially parsed as separate herbaria, can be found [at GitHub](https://github.com/sav-che/TL-2/tree/main/Maintenance/raw_files) (`tl2-collections`).
+This is a list of abbreviations recognized as collection codes, either matched automatically to current Index Herbariorum (IH) or manually resolved where possible. Erroneous abbreviations with typographic errors are also listed. In most cases they were fixed by comparison with printed editions of "Index Herbariorum. Part II. Collectors" (IH-Collectors) [at BHL](https://www.biodiversitylibrary.org/bibliography/200637). "Part I. The herbaria of the world" is cited below as IH-Herbaria. Extended table of edits, including acronyms with OCR errors that were initially parsed as separate herbaria, can be found [at GitHub](https://github.com/sav-che/TL-2/tree/main/Maintenance/raw_files) (`tl2-collections`).
 
 ___
 
@@ -93,19 +93,19 @@ ___
 |BGSU<br/>[[Collection BGSU\|BGSU]]	|IH-matched	|Bowling Green State University	|Bowling Green, Ohio, U.S.A.	|Active	|
 |BH<br/>[[Collection BH\|BH]]	|IH-matched	|Cornell University	|Ithaca, New York, U.S.A.	|Active	|
 |BHC<br/>[[Collection BH\|BH]], [[Collection C\|C]]	|Fused BH and C	|	|	|	|
-|BHA<br/>[[Collection BHA\|BHA]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|BHA<br/>[[Collection BHA\|BHA]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |BHD<br/>[[Collection BHD\|BHD]]	|IH-matched	|Williamson Art Gallery and Museum	|Birkenhead, England, U.K.	|Inactive	|
 |BHDL<br/>[[Collection BHDL\|BHDL]]	|IH-matched	|Birkenhead Reference Library	|Birkenhead, England, U.K.	|Active	|
 |BHMG<br/>[[Collection BHMG\|BHMG]]	|IH-matched	|Instituto Agronômico	|Belo Horizonte, Minas Gerais, Brazil	|Inactive	|
 |BHU<br/>[[Collection BHU\|BHU]]	|IH-matched	|Humboldt-Universität zu Berlin	|Berlin, Germany	|Active	|
 |BHUPM<br/>[[Collection BHUPM\|BHUPM]]	|IH-matched	|Museum für Naturkunde	|Berlin, Germany	|Active	|
-|BHV<br/>[[Collection BHV\|BHV]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|BHV<br/>[[Collection BHV\|BHV]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |BI<br/>[[Collection BI\|BI]]	|IH-matched	|Museo Orto Botanico, Università degli Studi di Bari.	|Bari, Italy	|Active	|
 |BIRA<br/>[[Collection BIRA\|BIRA]]	|IH-matched	|Birmingham Museums Trust	|Birmingham, England, U.K.	|Active	|
 |BIRM<br/>[[Collection BIRM\|BIRM]]	|IH-matched	|University of Birmingham	|Birmingham, West Midlands, U.K.	|Active	|
 |BISH<br/>[[Collection BISH\|BISH]]	|IH-matched	|Bishop Museum	|Honolulu, Hawaii, U.S.A.	|Active	|
 |BK<br/>[[Collection BK\|BK]]	|IH-matched	|Plant Varieties Protection Office	|Bangkok, Thailand	|Active	|
-|BKG<br/>[[Collection BKG\|BKG]]	|Not an OCR error. Not in Collector's Index of IH. BKL? Suggestion added in text	|	|	|	|
+|BKG<br/>[[Collection BKG\|BKG]]	|Not an OCR error. Not in IH-Collectors. BKL? Suggestion added in text	|	|	|	|
 |BKL<br/>[[Collection BKL\|BKL]]	|IH-matched	|Brooklyn Botanic Garden	|Bronx, New York, U.S.A.	|Active	|
 |BLAT<br/>[[Collection BLAT\|BLAT]]	|IH-matched	|St. Xavier's College	|Mumbai, Maharashtra, India	|Active	|
 |BLFU<br/>[[Collection BLFU\|BLFU]]	|IH-matched	|University of the Free State	|Bloemfontein, Free State Province, Republic of South Africa	|Active	|
@@ -119,12 +119,12 @@ ___
 |BOG<br/>[[Collection BOG\|BOG]]	|IH-matched	|Universidad de La Salle	|Bogotá, D.C., Colombia	|Active	|
 |BOL<br/>[[Collection BOL\|BOL]]	|IH-matched	|University of Cape Town	|Cape Town, Western Cape Province, Republic of South Africa	|Active	|
 |BOLO<br/>[[Collection BOLO\|BOLO]]	|IH-matched	|Università di Bologna	|Bologna, Italy	|Active	|
-|BOLU<br/>[[Collection BOLU\|BOLU]]	|Typo. COLU in Collector's Index of IH. Unlikely to be COLO, more likely BOLO. Suggestion added in text	|	|	|	|
+|BOLU<br/>[[Collection BOLU\|BOLU]]	|Typo. COLU in IH-Collectors. Unlikely to be COLO, more likely BOLO. Suggestion added in text	|	|	|	|
 |BON<br/>[[Collection BON\|BON]]	|IH-matched	|Bolton Museum, Art Gallery and Aquarium	|Bolton, England, U.K.	|Active	|
 |BONN<br/>[[Collection BONN\|BONN]]	|IH-matched	|University of Bonn	|Bonn, Germany	|Active	|
 |BORD<br/>[[Collection BORD\|BORD]]	|IH-matched	|Bordeaux Botanical	|Bordeaux, France	|Active	|
 |BP<br/>[[Collection BP\|BP]]	|IH-matched	|Hungarian Natural History Museum	|Budapest, Hungary	|Active	|
-|BPC<br/>[[Collection BPC\|BPC]]	|Not an OCR error. Same in Collector's Index of IH	|	|	|	|
+|BPC<br/>[[Collection BPC\|BPC]]	|Not an OCR error. Same in IH-Collectors	|	|	|	|
 |BPI<br/>[[Collection BPI\|BPI]]	|IH-matched	|U.S. National Fungus Collections, USDA-ARS	|Beltsville, Maryland, U.S.A.	|Active	|
 |BPU<br/>[[Collection BPU\|BPU]]	|IH-matched	|Eötvös Loránd University	|Budapest, Hungary	|Permanently closed	|
 |BR<br/>[[Collection BR\|BR]]	|IH-matched	|Meise Botanic Garden	|Meise, Belgium	|Active	|
@@ -235,11 +235,11 @@ ___
 |CU<br/>[[Collection CU\|CU]]	|IH-matched	|Cornell University	|Ithaca, New York, U.S.A.	|Inactive	|
 |CUB<br/>[[Collection CUP\|CUP]]	|Typo or alternative spelling. Should be CUP	|	|	|	|
 |CUP<br/>[[Collection CUP\|CUP]]	|IH-matched	|Cornell University	|Ithaca, New York, U.S.A.	|Active	|
-|CV<br/>[[Collection CV\|CV]]	|Not an OCR error. Same in Collector's Index of IH	|	|	|	|
+|CV<br/>[[Collection CV\|CV]]	|Not an OCR error. Same in IH-Collectors	|	|	|	|
 |CWU<br/>[[Collection CWU\|CWU]]	|IH-matched	|V. N. Karazin National University	|Kharkiv, Ukraine	|Active	|
-|CYF<br/>[[Collection CYF\|CYF]]	|Not an OCR error. Not in Collector's Index of IH. CYP? China?	|	|	|	|
+|CYF<br/>[[Collection CYF\|CYF]]	|Not an OCR error. Not in IH-Collectors. CYP? China?	|	|	|	|
 |CYN<br/>[[Collection CYN\|CYN]]	|IH-matched	|Chipstead Valley Primary School	|Coulsdon, England, U.K.	|Inactive	|
-|DAD<br/>[[Collection DAD\|DAD]]	|Not an OCR error. Not in Collector's Index of IH. DAO? Suggestion added in text	|	|	|	|
+|DAD<br/>[[Collection DAD\|DAD]]	|Not an OCR error. Not in IH-Collectors. DAO? Suggestion added in text	|	|	|	|
 |DAKAR<br/>[[Collection DAKAR\|DAKAR]]	|IH-matched	|Université Cheikh Anta Diop	|Dakar, Senegal	|Active	|
 |DAL<br/>[[Collection DAL\|DAL]]	|IH-matched	|Dalhousie University	|Halifax, Nova Scotia, Canada	|Active	|
 |DAO<br/>[[Collection DAO\|DAO]]	|IH-matched	|National Collection of Vascular Plants - AAFC	|Ottawa, Ontario, Canada	|Active	|
@@ -247,10 +247,10 @@ ___
 |DAR<br/>[[Collection DAR\|DAR]]	|IH-matched	|Orange Agricultural Institute	|Orange, New South Wales, Australia	|Active	|
 |DAU<br/>[[Collection DAU\|DAU]]	|IH-matched	|University of Daugavpils	|Ilgas manor,  Skrudaliena parish, Daugavpils region, Latvia	|Active	|
 |DAV<br/>[[Collection DAV\|DAV]]	|IH-matched	|University of California, Davis	|Davis, California, U.S.A.	|Active	|
-|DBM<br/>[[Collection DBM\|DBM]]	|Not an OCR error. Not in Collector's Index of IH. DBN? Suggestion added in text	|	|	|	|
+|DBM<br/>[[Collection DBM\|DBM]]	|Not an OCR error. Not in IH-Collectors. DBN? Suggestion added in text	|	|	|	|
 |DBN<br/>[[Collection DBN\|DBN]]	|IH-matched	|National Botanic Gardens of Ireland	|Dublin, Ireland	|Active	|
 |DNB<br/>[[Collection DBN\|DBN]]	|Typo or alternative spelling. Should be DBN	|	|	|	|
-|DBV<br/>[[Collection DBV\|DBV]]	|Not an OCR error. Not in Collector's Index of IH. Hungary? Dubrovnik? DBY?	|	|	|	|
+|DBV<br/>[[Collection DBV\|DBV]]	|Not an OCR error. Not in IH-Collectors. Hungary? Dubrovnik? DBY?	|	|	|	|
 |DBY<br/>[[Collection DBY\|DBY]]	|IH-matched	|Derby Museum and Art Gallery	|Derby, England, U.K.	|Active	|
 |DD<br/>[[Collection DD\|DD]]	|IH-matched	|Forest Research Institute, Indian Council of Forestry Research and Education	|Dehra Dun, Uttar Pradesh, India	|Active	|
 |DE<br/>[[Collection DE\|DE]]	|IH-matched	|Debrecen University	|Debrecen, Hungary	|Active	|
@@ -263,7 +263,7 @@ ___
 |DHM<br/>[[Collection DHM\|DHM]]	|IH-matched	|University of Durham	|Durham, England, U.K.	|Inactive	|
 |DI<br/>[[Collection DI\|DI]]	|IH-matched	|Université de Bourgogne	|Dijon, France	|Active	|
 |DIN<br/>[[Collection DIN\|DIN]]	|IH-matched	|Muséum National d'Histoire Naturelle	|Dinard, France	|Active	|
-|DM<br/>[[Collection DM\|DM]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|DM<br/>[[Collection DM\|DM]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |DMNH<br/>[[Collection DMNH\|DMNH]]	|IH-matched	|Dayton Museum of Natural History	|Dayton, Ohio, U.S.A.	|Active	|
 |DNA<br/>[[Collection DNA\|DNA]]	|IH-matched	|NT Government	|Palmerston, Northern Territory, Australia	|Active	|
 |DO<br/>[[Collection DO\|DO]]	|IH-matched	|Société d'Agriculture Sciences et Arts	|Douai, France	|Inactive	|
@@ -276,17 +276,17 @@ ___
 |DS<br/>[[Collection DS\|DS]]	|IH-matched	|California Academy of Sciences	|San Francisco, California, U.S.A.	|Inactive	|
 |DSU<br/>[[Collection DSU\|DSU]]	|IH-matched	|Oles Honchar Dniprovsky National University	|Dnipro, Ukraine	|Active	|
 |DSY<br/>[[Collection DSY\|DSY]]	|IH-matched	|Dewsbury Museum	|Dewsbury, England, U.K.	|Permanently closed	|
-|DTO<br/>[[Collection DTO\|DTO]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|DTO<br/>[[Collection DTO\|DTO]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |DUIS<br/>[[Collection DUIS\|DUIS]]	|IH-matched	|Universität Duisburg	|Duisburg, Germany	|Inactive	|
 |DUKE<br/>[[Collection DUKE\|DUKE]]	|IH-matched	|Duke University	|Durham, North Carolina, U.S.A.	|Active	|
 |DUL<br/>[[Collection DUL\|DUL]]	|IH-matched	|University of Minnesota Duluth	|Duluth, Minnesota, U.S.A.	|Active	|
-|DUM<br/>[[Collection DUM\|DUM]]	|Not an OCR error. Not in Collector's Index of IH. Pakistan?	|	|	|	|
+|DUM<br/>[[Collection DUM\|DUM]]	|Not an OCR error. Not in IH-Collectors. Pakistan?	|	|	|	|
 |DUR<br/>[[Collection DUR\|DUR]]	|IH-matched	|Southeastern Oklahoma State University	|Durant, Oklahoma, U.S.A.	|Active	|
-|DW<br/>[[Collection DW\|DW]]	|Not an OCR error. Same in Collector's Index of IH	|	|	|	|
+|DW<br/>[[Collection DW\|DW]]	|Not an OCR error. Same in IH-Collectors	|	|	|	|
 |DVVC<br/>[[Collection DWC\|DWC]]	|OCR error	|	|	|	|
 |DWC<br/>[[Collection DWC\|DWC]]	|IH-matched	|West Chester University	|West Chester, PA, U.S.A.	|Active	|
 |DWG<br/>[[Collection DWC\|DWC]]	|OCR error	|	|	|	|
-|DWL<br/>[[Collection DWL\|DWL]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|DWL<br/>[[Collection DWL\|DWL]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |DZS<br/>[[Collection DZS\|DZS]]	|IH-matched	|Wiltshire Museum	|Devizes, England, U.K.	|Active	|
 |E<br/>[[Collection E\|E]]	|IH-matched	|Royal Botanic Garden Edinburgh	|Edinburgh, Scotland, U.K.	|Active	|
 |CA<br/>[[Collection EA\|EA]]	|Typo or alternative spelling. Should be EA	|	|	|	|
@@ -309,7 +309,7 @@ ___
 |EL<br/>[[Collection ER\|ER]]	|Typo or alternative spelling. Should be ER	|	|	|	|
 |ER<br/>[[Collection ER\|ER]]	|IH-matched	|Universität Erlangen-Nürnberg	|Erlangen, Germany	|Active	|
 |ERE<br/>[[Collection ERE\|ERE]]	|IH-matched	|Institute of Botany of the National Academy of Sciences of Armenia	|Yerevan, Armenia	|Active	|
-|ERN<br/>[[Collection ERN\|ERN]]	|Not an OCR error. Not in Collector's Index of IH. CERN? Suggestion added in text	|	|	|	|
+|ERN<br/>[[Collection ERN\|ERN]]	|Not an OCR error. Not in IH-Collectors. CERN? Suggestion added in text	|	|	|	|
 |ERZ<br/>[[Collection ERZ\|ERZ]]	|IH-matched	|Fürstin-Eugenie-Institut für Arzneipflanzenforschung	|Lindich, Germany	|Inactive	|
 |ESAL<br/>[[Collection ESAL\|ESAL]]	|IH-matched	|Universidade Federal de Lavras	|Lavras, Minas Gerais, Brazil	|Active	|
 |ETH<br/>[[Collection ETH\|ETH]]	|IH-matched	|Addis Ababa University	|Addis Ababa, Ethiopia	|Active	|
@@ -320,7 +320,7 @@ ___
 |FABR<br/>[[Collection FABR\|FABR]]	|IH-matched	|Harmas de J. H. Fabre	|Sérignan-du-Comtat, France	|Temporarily closed	|
 |FARM<br/>[[Collection FARM\|FARM]]	|IH-matched	|Longwood University	|Farmville, Virginia, U.S.A.	|Active	|
 |FB<br/>[[Collection FB\|FB]]	|IH-matched	|Albert-Ludwigs Universität	|Freiburg, Germany	|Active	|
-|FC<br/>[[Collection FC\|FC]]	|Not an OCR error. Not in Collector's Index of IH. Fused F ang G?	|	|	|	|
+|FC<br/>[[Collection FC\|FC]]	|Not an OCR error. Not in IH-Collectors. Fused F ang G?	|	|	|	|
 |FCME<br/>[[Collection FCME\|FCME]]	|IH-matched	|Universidad Nacional Autónoma de México, Ciudad Universitaria	|Mexico City, Distrito Federal, Mexico	|Active	|
 |FDG<br/>[[Collection FDG\|FDG]]	|IH-matched	|Guyana Forestry Commission	|Georgetown, Guyana	|Active	|
 |FH<br/>[[Collection FH\|FH]]	|IH-matched	|Harvard University	|Cambridge, Massachusetts, U.S.A.	|Active	|
@@ -333,7 +333,7 @@ ___
 |FL<br/>[[Collection FI\|FI]]	|OCR error	|	|	|	|
 |FIAF<br/>[[Collection FIAF\|FIAF]]	|IH-matched	|Università degli Studi di Firenze	|Firenze, Italy	|Active	|
 |FIPF<br/>[[Collection FIPF\|FIPF]]	|IH-matched	|Università di Firenze	|Firenze, Italy	|Active	|
-|FLA<br/>[[Collection FLA\|FLA]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|FLA<br/>[[Collection FLA\|FLA]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |FLAS<br/>[[Collection FLAS\|FLAS]]	|IH-matched	|Florida Museum of Natural History	|Gainesville, Florida, U.S.A.	|Active	|
 |FLOR<br/>[[Collection FLOR\|FLOR]]	|IH-matched	|Universidade Federal de Santa Catarina	|Florianópolis, Santa Catarina, Brazil	|Active	|
 |FM<br/>[[Collection FM\|FM]]	|IH-matched	|Fan Memorial Institute of Biology	|Beijing, Beijing, People's Republic of China	|Inactive	|
@@ -401,7 +401,7 @@ ___
 |HAN<br/>[[Collection HAN\|HAN]]	|IH-matched	|Universität Hannover	|Hannover, Germany	|Inactive	|
 |HB<br/>[[Collection HB\|HB]]	|IH-matched	|Herbarium Bradeanum	|Rio de Janeiro, Rio de Janeiro, Brazil	|Active	|
 |HBBS<br/>[[Collection HBBS\|HBBS]]	|IH-matched	|Museo Civico di Scienze Naturali	|Brescia, Italy	|Active	|
-|HBF<br/>[[Collection HBF\|HBF]]	|Not an OCR error. Not in Collector's Index of IH. HBG?	|	|	|	|
+|HBF<br/>[[Collection HBF\|HBF]]	|Not an OCR error. Not in IH-Collectors. HBG?	|	|	|	|
 |HBG<br/>[[Collection HBG\|HBG]]	|IH-matched	|University of Hamburg	|Hamburg, Germany	|Active	|
 |HBIL<br/>[[Collection HBIL\|HBIL]]	|IH-matched	|Institut d'Estudis Ilerdencs	|Lleida, Spain	|Active	|
 |HBR<br/>[[Collection HBR\|HBR]]	|IH-matched	|Universidade do Vale do Itajaí	|Itajaí, Santa Catarina, Brazil	|Active	|
@@ -412,7 +412,7 @@ ___
 |HERZ<br/>[[Collection HERZ\|HERZ]]	|IH-matched	|Alexander Herzen Pedagogical University	|Saint Petersburg, Russia	|Active	|
 |HFX<br/>[[Collection HFX\|HFX]]	|IH-matched	|Bankfield Museum and Art Gallery	|Halifax, England, U.K.	|Inactive	|
 |HH<br/>[[Collection HH (sensu TL-2)|HH]]	|Not the same as HH in IH	|Harvard University	|Cambridge, U.S.A.	|Active	|
-|HIL<br/>[[Collection HIL\|HIL]]	|Not an OCR error. Same in Collector's Index of IH	|	|	|	|
+|HIL<br/>[[Collection HIL\|HIL]]	|Not an OCR error. Same in IH-Collectors	|	|	|	|
 |HIRO<br/>[[Collection HIRO\|HIRO]]	|IH-matched	|Hiroshima University	|Higashi-Hiroshima-shi, Hiroshima-ken, Japan	|Active	|
 |HK<br/>[[Collection HK\|HK]]	|IH-matched	|Agriculture, Fisheries, and Conservation Department	|Hong Kong, Hong Kong, People's Republic of China	|Active	|
 |HLU<br/>[[Collection HLU\|HLU]]	|IH-matched	|University of Hull	|Kingston upon Hull, England, U.K.	|Active	|
@@ -434,7 +434,7 @@ ___
 |HU<br/>[[Collection HU\|HU]]	|IH-matched	|University of Zhejiang	|Hangzhou, Zhejiang, People's Republic of China	|Inactive	|
 |HUJ<br/>[[Collection HUJ\|HUJ]]	|IH-matched	|The Hebrew University of Jerusalem	|Jerusalem, Jerusalem, Israel	|Active	|
 |HUL<br/>[[Collection HUL\|HUL]]	|IH-matched	|Fine Arts Museum	|Kingston upon Hull, England, U.K.	|Inactive	|
-|HUTH<br/>[[Collection HUTH\|HUTH]]	|Not an OCR error. Same in Collector's Index of IH	|	|	|	|
+|HUTH<br/>[[Collection HUTH\|HUTH]]	|Not an OCR error. Same in IH-Collectors	|	|	|	|
 |HWA<br/>[[Collection HWA\|HWA]]	|IH-matched	|Southwest Agricultural University	|Chongqing, Chongqing, People's Republic of China	|Active	|
 |HWB<br/>[[Collection HWB\|HWB]]	|IH-matched	|Harrow School	|London, England, U.K.	|Inactive	|
 |I<br/>[[Collection I\|I]]	|IH-matched	|"""Alexandru Ioan Cuza"" University"	|Iasi, Romania	|Active	|
@@ -453,12 +453,12 @@ ___
 |IBIR<br/>[[Collection IBIR\|IBIR]]	|IH-matched	|Institutul Agronomic	|Iasi, Romania	|Active	|
 |IBK<br/>[[Collection IBK\|IBK]]	|IH-matched	|Guangxi Institute of Botany	|Guilin, Guangxi Zhuang Autonomous Region, People's Republic of China	|Active	|
 |IBL<br/>[[Collection IBL\|IBL]]	|IH-matched	|Independent Biological Laboratories	|Kefar Malal, Israel	|Inactive	|
-|IBN<br/>[[Collection IBN\|IBN]]	|Not an OCR error. Not in Collector's Index of IH. Probably in Ireland	|	|	|	|
+|IBN<br/>[[Collection IBN\|IBN]]	|Not an OCR error. Not in IH-Collectors. Probably in Ireland	|	|	|	|
 |IBS<br/>[[Collection IBS\|IBS]]	|IH-matched	|Irish Biogeographical Society	|Bray, Co. Wicklow, Ireland	|Inactive	|
 |IBSC<br/>[[Collection IBSC\|IBSC]]	|IH-matched	|South China Botanical Garden	|Guangzhou, Guangdong, People's Republic of China	|Active	|
 |JBSC<br/>[[Collection IBSC\|IBSC]]	|Typo or alternative spelling. Should be IBSC	|	|	|	|
-|IC<br/>[[Collection IC\|IC]]	|Not an OCR error. Only in Collector's Index of IH	|	|	|	|
-|ICD<br/>[[Collection ICD\|ICD]]	|Not an OCR error. Not in Herbarium Index or Collector's Index of IH	|	|	|	|
+|IC<br/>[[Collection IC\|IC]]	|Not an OCR error. Only in IH-Collectors	|	|	|	|
+|ICD<br/>[[Collection ICD\|ICD]]	|Not an OCR error. Not in IH-Herbaria or IH-Collectors	|	|	|	|
 |ICEL<br/>[[Collection ICEL\|ICEL]]	|IH-matched	|Icelandic Institute of Natural History	|Garðabær, Iceland	|Active	|
 |IEC<br/>[[Collection IEC\|IEC]]	|IH-matched	|Centre D'Etude sur les Ressources Végétales	|Brazzaville, Congo Republic (Congo-Brazzaville)	|Active	|
 |IFAN<br/>[[Collection IFAN\|IFAN]]	|IH-matched	|Institut Fondamental d'Afrique Noire	|Dakar, Senegal	|Inactive	|
@@ -480,7 +480,7 @@ ___
 |ISM<br/>[[Collection ISM\|ISM]]	|IH-matched	|Illinois State Museum	|Springfield, Illinois, U.S.A.	|Active	|
 |ISTF<br/>[[Collection ISTF\|ISTF]]	|IH-matched	|Istanbul University	|İstanbul, Turkey	|Active	|
 |ITIC<br/>[[Collection ITIC\|ITIC]]	|IH-matched	|Universidad de El Salvador	|San Salvador, El Salvador	|Active	|
-|IU<br/>[[Collection IU\|IU]]	|Not an OCR error. Collector's Index of IH refers to BUT. Suggestion added in text	|	|	|	|
+|IU<br/>[[Collection IU\|IU]]	|Not an OCR error. IH-Collectors refers to BUT. Suggestion added in text	|	|	|	|
 |IUP<br/>[[Collection IUP\|IUP]]	|IH-matched	|Indiana University of Pennsylvania	|Indiana, Pennsylvania, U.S.A.	|Active	|
 |J<br/>[[Collection J\|J]]	|IH-matched	|University of the Witwatersrand	|Johannesburg, Gauteng Province, Republic of South Africa	|Active	|
 |JAC<br/>[[Collection JAC\|JAC]]	|IH-matched	|University of Jodhpur	|Jodhpur, Rajasthan, India	|Active	|
@@ -502,7 +502,7 @@ ___
 |KASSEL<br/>[[Collection KASSEL\|KASSEL]]	|IH-matched	|Naturkundemuseum im Ottoneum	|Kassel, Germany	|Temporarily closed	|
 |KAZ<br/>[[Collection KAZ\|KAZ]]	|IH-matched	|Kazan State University	|Kazan, Republic of Tatarstan, Russia	|Active	|
 |KBG<br/>[[Collection KBG\|KBG]]	|Clearly resolved within TL-2	|	|	|	|
-|KCA<br/>[[Collection KCA\|KCA]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|KCA<br/>[[Collection KCA\|KCA]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |KCK<br/>[[Collection KCK\|KCK]]	|IH-matched	|Dick Institute	|Kilmarnock, Scotland, U.K.	|Inactive	|
 |KCS<br/>[[Collection KCS\|KCS]]	|IH-matched	|University of London, King's College	|London, England, U.K.	|Inactive	|
 |KDL<br/>[[Collection KDL\|KDL]]	|IH-matched	|Kendal Museum	|Kendal, England, U.K.	|Active	|
@@ -541,7 +541,7 @@ ___
 |LAF<br/>[[Collection LAF\|LAF]]	|IH-matched	|University of Louisiana at Lafayette	|Lafayette, Louisiana, U.S.A.	|Active	|
 |LAH<br/>[[Collection LAH\|LAH]]	|IH-matched	|University of the Punjab	|Lahore, Punjab, Pakistan	|Active	|
 |LAM<br/>[[Collection LAM\|LAM]]	|IH-matched	|Natural History Museum of Los Angeles County	|Los Angeles, California, U.S.A.	|Inactive	|
-|LAS<br/>[[Collection LAS\|LAS]]	|Not an OCR error. Only in Collector's Index of IH	|	|	|	|
+|LAS<br/>[[Collection LAS\|LAS]]	|Not an OCR error. Only in IH-Collectors	|	|	|	|
 |LASCA<br/>[[Collection LASCA\|LASCA]]	|IH-matched	|Los Angeles County Arboretum & Botanic Garden	|Arcadia, California, U.S.A.	|Active	|
 |LAU<br/>[[Collection LAU\|LAU]]	|IH-matched	|Musée et Jardins Botaniques Cantonaux MJBC	|Lausanne, Vaud (VD), Switzerland	|Active	|
 |LBL<br/>[[Collection LBL\|LBL]]	|IH-matched	|Maria Curie-Sklodowska University	|Lublin, Poland	|Active	|
@@ -657,7 +657,7 @@ ___
 |MPA<br/>[[Collection MPA\|MPA]]	|IH-matched	|École National Supérieure Agronomique	|Montpellier, France	|Active	|
 |MPPD<br/>[[Collection MPPD\|MPPD]]	|IH-matched	|University of Minnesota	|St. Paul, Minnesota, U.S.A.	|Inactive	|
 |MPR<br/>[[Collection MPR\|MPR]]	|IH-matched	|Mount Makulu Pasture Research Station	|Lusaka, Zambia	|Inactive	|
-|MPS<br/>[[Collection MPS\|MPS]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|MPS<br/>[[Collection MPS\|MPS]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |MPU<br/>[[Collection MPU\|MPU]]	|IH-matched	|Université de Montpellier	|Montpellier, France	|Active	|
 |MS<br/>[[Collection MS\|MS]]	|IH-matched	|Università di Messina	|Messina, Italy	|Active	|
 |MSC<br/>[[Collection MSC\|MSC]]	|IH-matched	|Michigan State University	|East Lansing, Michigan, U.S.A.	|Active	|
@@ -674,7 +674,7 @@ ___
 |MU<br/>[[Collection MU\|MU]]	|IH-matched	|Miami University	|Oxford, OH, United States	|Active	|
 |MVFA<br/>[[Collection MVFA\|MVFA]]	|IH-matched	|Universidad de la República	|Montevideo, Uruguay	|Active	|
 |MVFQ<br/>[[Collection MVFQ\|MVFQ]]	|IH-matched	|Universidad de la República	|Montevideo, Uruguay	|Active	|
-|MVH<br/>[[Collection MVH\|MVH]]	|Not an OCR error. Not in Herbarium Index of IH, only in Collector's Index. Multiple occurrences. MVM? Suggestion added in text	|	|	|	|
+|MVH<br/>[[Collection MVH\|MVH]]	|Not an OCR error. Not in IH-Herbaria of IH, only in Collector's Index. Multiple occurrences. MVM? Suggestion added in text	|	|	|	|
 |MUM<br/>[[Collection MVM\|MVM]]	|Typo or alternative spelling. Should be MVM	|	|	|	|
 |MVM<br/>[[Collection MVM\|MVM]]	|IH-matched	|Museo Nacional de Historia Natural	|Montevideo, Uruguay	|Active	|
 |MVSC<br/>[[Collection MVSC\|MVSC]]	|IH-matched	|Millersville University	|Millersville, Pennsylvania, U.S.A.	|Active	|
@@ -684,7 +684,7 @@ ___
 |NA<br/>[[Collection NA\|NA]]	|IH-matched	|United States National Arboretum, USDA-ARS	|Washington, District of Columbia, U.S.A.	|Active	|
 |NAM<br/>[[Collection NAM\|NAM]]	|IH-matched	|University of Namur	|Namur, Namur, Belgium	|Active	|
 |NAP<br/>[[Collection NAP\|NAP]]	|IH-matched	|Università Degli Studi di Napoli Federico II	|Napoli, Italy	|Temporarily closed	|
-|NARL<br/>[[Collection NARL\|NARL]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|NARL<br/>[[Collection NARL\|NARL]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |NAS<br/>[[Collection NAS\|NAS]]	|IH-matched	|Institute of Botany, Jiangsu Province and Chinese Academy of Sciences	|Nanjing, Jiangsu, People's Republic of China	|Active	|
 |NAT<br/>[[Collection NAT\|NAT]]	|IH-matched	|Seale-Hayne Agricultural College	|Newton Abbot, England, U.K.	|Permanently closed	|
 |NBG<br/>[[Collection NBG\|NBG]]	|IH-matched	|South African National Biodiversity Institute	|Cape Town, Western Cape Province, Republic of South Africa	|Active	|
@@ -716,8 +716,8 @@ ___
 |NJ<br/>[[Collection NJ\|NJ]]	|IH-matched	|Njala University College	|Njala, Sierra Leone	|Inactive	|
 |NM<br/>[[Collection NM\|NM]]	|IH-matched	|Northern Michigan University	|Marquette, Michigan, U.S.A.	|Active	|
 |NMC<br/>[[Collection NMC\|NMC]]	|IH-matched	|New Mexico State University	|Las Cruces, New Mexico, U.S.A.	|Active	|
-|NME<br/>[[Collection NME\|NME]]	|Not an OCR error. Not in Collector's Index of IH. NMW? Suggestion added in text	|	|	|	|
-|NMES<br/>[[Collection NMES\|NMES]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|NME<br/>[[Collection NME\|NME]]	|Not an OCR error. Not in IH-Collectors. NMW? Suggestion added in text	|	|	|	|
+|NMES<br/>[[Collection NMES\|NMES]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |NMMA<br/>[[Collection NMMA\|NMMA]]	|IH-matched	|The Nantucket Maria Mitchell Association	|Nantucket, Massachusetts, U.S.A.	|Active	|
 |NMW<br/>[[Collection NMW\|NMW]]	|IH-matched	|National Museum Wales	|Cardiff, Wales, U.K.	|Active	|
 |NO<br/>[[Collection NO\|NO]]	|IH-matched	|Tulane University	|, U.S.A.	|Permanently closed	|
@@ -739,7 +739,7 @@ ___
 |NYS<br/>[[Collection NYS\|NYS]]	|IH-matched	|New York State Museum	|Albany, New York, U.S.A.	|Active	|
 |O<br/>[[Collection O\|O]]	|IH-matched	|University of Oslo (O)	|Oslo, Norway	|Active	|
 |OAC<br/>[[Collection OAC\|OAC]]	|IH-matched	|University of Guelph	|Guelph, Ontario, Canada	|Active	|
-|OBT<br/>[[Collection OBT\|OBT]]	|Typo. OTB in Collector's Index of IH. OTF? Suggestion added in text	|	|	|	|
+|OBT<br/>[[Collection OBT\|OBT]]	|Typo. OTB in IH-Collectors. OTF? Suggestion added in text	|	|	|	|
 |OC<br/>[[Collection OC\|OC]]	|IH-matched	|Oberlin College	|Oberlin, Ohio, U.S.A.	|Active	|
 |ODU<br/>[[Collection ODU\|ODU]]	|IH-matched	|Old Dominion University	|Norfolk, Virginia, U.S.A.	|Active	|
 |OGDF<br/>[[Collection OGDF\|OGDF]]	|IH-matched	|Forest Service Region 4, USDA Forest Service Service	|Ogden, Utah, U.S.A.	|Inactive	|
@@ -749,7 +749,7 @@ ___
 |OLDS<br/>[[Collection OLDS\|OLDS]]	|IH-matched	|Olds College	|Olds, Alberta, Canada	|Active	|
 |OLM<br/>[[Collection OLM\|OLM]]	|IH-matched	|Vlastivědné muzeum v Olomouci	|Olomouc, Czech Republic	|Active	|
 |OP<br/>[[Collection OP\|OP]]	|IH-matched	|Slezské zemské muzeum Opava - Silesian Museum	|Opava, Czech Republic	|Active	|
-|OR<br/>[[Collection OR\|OR]]	|Not an OCR error. Same in Collector's Index of IH. Probably ORM. Suggestion added in text	|	|	|	|
+|OR<br/>[[Collection OR\|OR]]	|Not an OCR error. Same in IH-Collectors. Probably ORM. Suggestion added in text	|	|	|	|
 |ORE<br/>[[Collection ORE\|ORE]]	|IH-matched	|University of Oregon	|Eugene, Oregon, U.S.A.	|Inactive	|
 |OREB<br/>[[Collection OREB\|OREB]]	|IH-matched	|Karolinska Högre Allmänna Läroverket	|Örebro, Sweden	|Active	|
 |ORM<br/>[[Collection ORM\|ORM]]	|IH-matched	|Muséum d'Orléans pour la Biodiversité et l'Environnement	|Orléans, Centre-Val de Loire, France	|Active	|
@@ -757,7 +757,7 @@ ___
 |OSA<br/>[[Collection OSA\|OSA]]	|IH-matched	|Osaka Museum of Natural History	|Osaka, Osaka, Japan	|Active	|
 |OSC<br/>[[Collection OSC\|OSC]]	|IH-matched	|Oregon State University	|Corvallis, Oregon, U.S.A.	|Active	|
 |OTA<br/>[[Collection OTA\|OTA]]	|IH-matched	|University of Otago	|Dunedin, Otago, New Zealand	|Active	|
-|OTB<br/>[[Collection OTB\|OTB]]	|Multiple occurrences, also in Collector's Index of IH, but not in IH-herb. OTF? Suggestion added in text and a page for [[Collection OTF\|OTF]]	|	|	|	|
+|OTB<br/>[[Collection OTB\|OTB]]	|Multiple occurrences, also in IH-Collectors, but not in IH-herb. OTF? Suggestion added in text and a page for [[Collection OTF\|OTF]]	|	|	|	|
 |–<br/>[[Collection OTF\|OTF]]	|See OTB	|	|	|	|
 |OULU<br/>[[Collection OULU\|OULU]]	|IH-matched	|University of Oulu	|Oulu, Finland	|Active	|
 |OXF<br/>[[Collection OXF\|OXF]]	|IH-matched	|University of Oxford	|Oxford, England, U.K.	|Active	|
@@ -795,7 +795,7 @@ ___
 |PHIL<br/>[[Collection PHIL\|PHIL]]	|IH-matched	|University of the Sciences	|Philadelphia, Pennsylvania, U.S.A.	|Active	|
 |PI<br/>[[Collection PI\|PI]]	|IH-matched	|Università di Pisa (Italy)	|Pisa, Italy	|Active	|
 |QI<br/>[[Collection PI\|PI]]	|Typo or alternative spelling. Should be PI	|	|	|	|
-|PICH<br/>[[Collection PICH\|PICH]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|PICH<br/>[[Collection PICH\|PICH]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |PKDC<br/>[[Collection PKDC\|PKDC]]	|IH-matched	|Divisão de Museu de História Natural	|Curitiba, Paraná, Brazil	|Inactive	|
 |PKM<br/>[[Collection PKM\|PKM]]	|IH-matched	|Penza State University	|Penza, Russia	|Active	|
 |PL<br/>[[Collection PL\|PL]]	|IH-matched	|Západoceské muzeum	|Plzen, Czech Republic	|Active	|
@@ -818,8 +818,8 @@ ___
 |PSGB<br/>[[Collection PSGB\|PSGB]]	|IH-matched	|University of Bradford	|Bradford, England, U.K.	|Inactive	|
 |PSO<br/>[[Collection PSO\|PSO]]	|IH-matched	|Universidad de Nariño	|Pasto, Nariño, Colombia	|Active	|
 |PTH<br/>[[Collection PTH\|PTH]]	|IH-matched	|Perth Museum and Art Gallery	|Perth, Scotland, U.K.	|Active	|
-|PTM<br/>[[Collection PTM\|PTM]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
-|PU<br/>[[Collection PU\|PU]]	|Not an OCR error. Same in Collector's Index of IH with PRU and PUC. Suggestion added in text for PUC	|	|	|	|
+|PTM<br/>[[Collection PTM\|PTM]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
+|PU<br/>[[Collection PU\|PU]]	|Not an OCR error. Same in IH-Collectors with PRU and PUC. Suggestion added in text for PUC	|	|	|	|
 |PUC<br/>[[Collection PUC\|PUC]]	|IH-matched	|North-West University	|Potchefstroom, North-West Province, Republic of South Africa	|Active	|
 |PUR<br/>[[Collection PUR\|PUR]]	|IH-matched	|Purdue University	|West Lafayette, Indiana, U.S.A.	|Active	|
 |Q<br/>[[Collection Q\|Q]]	|IH-matched	|Universidad Central	|Quito, Ecuador	|Active	|
@@ -837,7 +837,7 @@ ___
 |RB<br/>[[Collection RB\|RB]]	|IH-matched	|Jardim Botânico do Rio de Janeiro	|Rio de Janeiro, Rio de Janeiro, Brazil	|Active	|
 |REG<br/>[[Collection REG\|REG]]	|IH-matched	|Regensburgische Botanische Gesellschaft	|Regensburg, Germany	|Active	|
 |REN<br/>[[Collection REN\|REN]]	|IH-matched	|Culture Scientifique et Technique (CST) Université de Rennes 1	|Rennes, France	|Active	|
-|RAINE<br/>[[Collection RENO\|RENO]]	|Not an OCR error. Same in Collector's Index of IH 	|	|	|	|
+|RAINE<br/>[[Collection RENO\|RENO]]	|Not an OCR error. Same in IH-Collectors 	|	|	|	|
 |RENO<br/>[[Collection RENO\|RENO]]	|IH-matched	|University of Nevada	|Reno, Nevada, U.S.A.	|Active	|
 |RENU<br/>[[Collection RENO\|RENO]]	|Typo or alternative spelling. Should be RENO	|	|	|	|
 |RFA<br/>[[Collection RFA\|RFA]]	|IH-matched	|Universidade Federal do Rio de Janeiro	|Rio de Janeiro, Rio de Janeiro, Brazil	|Active	|
@@ -849,7 +849,7 @@ ___
 |RJ<br/>[[Collection RJ\|RJ]]	|Typo or alternative spelling. Should be RB? Suggestion added in text 	|	|	|	|
 |RM<br/>[[Collection RM\|RM]]	|IH-matched	|University of Wyoming	|Laramie, Wyoming, U.S.A.	|Active	|
 |RMS<br/>[[Collection RMS\|RMS]]	|IH-matched	|University of Wyoming	|Laramie, Wyoming, U.S.A.	|Active	|
-|SOLH<br/>[[Collection RMS\|SOLH]]	|Multiple occurrences, not in Collector's Index of IH. Solheim Mycological herbarium, [[Collection RMS\|RMS]]	|	|	|	|
+|SOLH<br/>[[Collection RMS\|SOLH]]	|Multiple occurrences, not in IH-Collectors. Solheim Mycological herbarium, [[Collection RMS\|RMS]]	|	|	|	|
 |SOLM<br/>[[Collection RMS\|SOLH]]	|Typo or alternative spelling. Should be SOLH, now [[Collection RMS\|RMS]]	|	|	|	|
 |RNG<br/>[[Collection RNG\|RNG]]	|IH-matched	|University of Reading	|Reading, England, U.K.	|Active	|
 |RNMUT<br/>[[Collection RNMUT\|RNMUT]]	|IH-matched	|Republic Nature Museum of Uzbekistan	|Tashkent, Uzbekistan	|Inactive	|
@@ -873,7 +873,7 @@ ___
 |RYD<br/>[[Collection RYD\|RYD]]	|IH-matched	|School of Art	|Ryde, England, U.K.	|Inactive	|
 |S<br/>[[Collection S\|S]]	|IH-matched	|Swedish Museum of Natural History	|Stockholm, Sweden	|Active	|
 |SACT<br/>[[Collection SACT\|SACT]]	|IH-matched	|California State University, Sacramento	|Sacramento, California, U.S.A.	|Active	|
-|SALT<br/>[[Collection SALT\|SALT]]	|Not an OCR error. Not in Collector's Index of IH. SLC? SACT? Unlikely in NA. SANT? Suggestion added in text	|	|	|	|
+|SALT<br/>[[Collection SALT\|SALT]]	|Not an OCR error. Not in IH-Collectors. SLC? SACT? Unlikely in NA. SANT? Suggestion added in text	|	|	|	|
 |SAM<br/>[[Collection SAM\|SAM]]	|IH-matched	|South African Museum Herbarium	|Cape Town, Western Cape Province, Republic of South Africa	|Inactive	|
 |SAMU<br/>[[Collection SAMU\|SAMU]]	|IH-matched	|Savaria County Municipal Museum	|Szombathely, Vas County, Hungary	|Active	|
 |SAN<br/>[[Collection SAN\|SAN]]	|IH-matched	|Forest Research Centre	|Sandakan, Sabah, Malaysia	|Active	|
@@ -886,7 +886,7 @@ ___
 |SBC<br/>[[Collection SBC\|SBC]]	|IH-matched	|University of California	|Santa Barbara, California, U.S.A.	|Inactive	|
 |SBM<br/>[[Collection SBM\|SBM]]	|IH-matched	|Santa Barbara Museum of Natural History	|Santa Barbara, California, U.S.A.	|Inactive	|
 |SBT<br/>[[Collection SBT\|SBT]]	|IH-matched	|The Bergius Foundation at the Royal Swedish Academy of Sciences	|Stockholm, Sweden	|Temporarily closed	|
-|SCBI<br/>[[Collection SCBI\|SCBI]]	|Not an OCR error. Not in Collector's Index of IH. 	|	|	|	|
+|SCBI<br/>[[Collection SCBI\|SCBI]]	|Not an OCR error. Not in IH-Collectors. 	|	|	|	|
 |SCH<br/>[[Collection SCH\|SCH]]	|IH-matched	|Museum zu Allerheiligen	|Schaffhausen, Switzerland	|Active	|
 |SCHN<br/>[[Collection SCHN\|SCHN]]	|IH-matched	|Smith College	|Northampton, Massachusetts, U.S.A.	|Active	|
 |SCP<br/>[[Collection SCP\|SCP]]	|IH-matched	|Sociedad Científica del Paraguay	|Asunción, Paraguay	|Active	|
@@ -983,7 +983,7 @@ ___
 |TENN<br/>[[Collection TENN\|TENN]]	|IH-matched	|University of Tennessee	|Knoxville, Tennessee, U.S.A.	|Active	|
 |TEX<br/>[[Collection TEX\|TEX]]	|IH-matched	|University of Texas at Austin	|Austin, Texas, U.S.A.	|Active	|
 |TEXA<br/>[[Collection TEXA\|TEXA]]	|IH-matched	|Blackland Experiment Station	|Temple, Texas, U.S.A.	|Inactive	|
-|THA<br/>[[Collection THA\|THA]]	|Not an OCR error. Not in Collector's Index of IH 	|	|	|	|
+|THA<br/>[[Collection THA\|THA]]	|Not an OCR error. Not in IH-Collectors 	|	|	|	|
 |THO<br/>[[Collection THO\|THO]]	|IH-matched	|Robert Dick Herbarium	|Thurso, Scotland, U.K.	|Active	|
 |TI<br/>[[Collection TI\|TI]]	|IH-matched	|University of Tokyo	|Tokyo, Tokyo, Japan	|Active	|
 |TIE<br/>[[Collection TIE\|TIE]]	|IH-matched	|Tianjin Natural History Museum	|Tianjin, Tianjin, People's Republic of China	|Active	|
@@ -1027,7 +1027,7 @@ ___
 |UBC<br/>[[Collection UBC\|UBC]]	|IH-matched	|University of British Columbia	|Vancouver, British Columbia, Canada	|Active	|
 |UC<br/>[[Collection UC\|UC]]	|IH-matched	|University of California	|Berkeley, California, U.S.A.	|Active	|
 |WC<br/>[[Collection UC\|UC]]	|Typo or alternative spelling. Should be UC	|	|	|	|
-|UCA<br/>[[Collection UCA\|UCA]]	|Not an OCR error. Not in Collector's Index of IH 	|	|	|	|
+|UCA<br/>[[Collection UCA\|UCA]]	|Not an OCR error. Not in IH-Collectors 	|	|	|	|
 |UCNW<br/>[[Collection UCNW\|UCNW]]	|IH-matched	|University of Wales	|Bangor, Wales, U.K.	|Active	|
 |UCR<br/>[[Collection UCR\|UCR]]	|IH-matched	|University of California	|Riverside, California, U.S.A.	|Active	|
 |UCSW<br/>[[Collection UCSW\|UCSW]]	|IH-matched	|University College	|Cardiff, Wales, U.K.	|Inactive	|
@@ -1043,9 +1043,9 @@ ___
 |UP<br/>[[Collection UPS\|UPS]]	|Part of split UPS	|	|	|	|
 |UPS<br/>[[Collection UPS\|UPS]]	|IH-matched	|Museum of Evolution	|Uppsala, Sweden	|Active	|
 |UPSV<br/>[[Collection UPSV\|UPSV]]	|IH-matched	|Uppsala University	|, Sweden	|Inactive	|
-|URB<br/>[[Collection URB\|URB]]	|Not an OCR error. Same in Collector's Index of IH	|	|	|	|
+|URB<br/>[[Collection URB\|URB]]	|Not an OCR error. Same in IH-Collectors	|	|	|	|
 |URM<br/>[[Collection URM\|URM]]	|IH-matched	|Universidade Federal de Pernambuco	|Recife, Pernambuco, Brazil	|Active	|
-|URTPP<br/>[[Collection URTPP\|URTPP]]	|Not an OCR error. Same in Collector's Index of IH. Shouldn’t start from U	|	|	|	|
+|URTPP<br/>[[Collection URTPP\|URTPP]]	|Not an OCR error. Same in IH-Collectors. Shouldn’t start from U	|	|	|	|
 |URV<br/>[[Collection URV\|URV]]	|IH-matched	|University of Richmond	|Richmond, Virginia, U.S.A.	|Active	|
 |US<br/>[[Collection US\|US]]	|IH-matched	|Smithsonian Institution	|Washington, District of Columbia, U.S.A.	|Active	|
 |USA<br/>[[Collection US\|US]]	|Typo or alternative spelling. Should be US	|	|	|	|
@@ -1061,12 +1061,12 @@ ___
 |UTC<br/>[[Collection UTC\|UTC]]	|IH-matched	|Utah State University	|Logan, Utah, U.S.A.	|Active	|
 |UTD<br/>[[Collection UTD\|UTD]]	|IH-matched	|University of Texas	|, U.S.A.	|Permanently closed	|
 |UVST<br/>[[Collection UVST\|UVST]]	|IH-matched	|Southwest Texas Junior College	|Uvalde, Texas, U.S.A.	|Active	|
-|UW<br/>[[Collection UW\|UW]]	|Not an OCR error. Not in Collector's Index of IH. W? Made in-text suggestion	|	|	|	|
+|UW<br/>[[Collection UW\|UW]]	|Not an OCR error. Not in IH-Collectors. W? Made in-text suggestion	|	|	|	|
 |V<br/>[[Collection V\|V]]	|IH-matched	|Royal British Columbia Museum	|Victoria, BC Canada, Choose State, Canada	|Active	|
 |VA<br/>[[Collection VA\|VA]]	|IH-matched	|University of Virginia	|Charlottesville, Virginia, U.S.A.	|Inactive	|
 |VALLE<br/>[[Collection VALLE\|VALLE]]	|IH-matched	|Universidad Nacional de Colombia	|Palmira, Valle del Cauca, Colombia	|Active	|
-|VBB<br/>[[Collection VBB\|VBB]]	|Not an OCR error. Not in Collector's Index of IH. VDB? Suggestion added in text	|	|	|	|
-|VC<br/>[[Collection VC\|VC]]	|Not an OCR error. Same in Collector's Index of IH	|	|	|	|
+|VBB<br/>[[Collection VBB\|VBB]]	|Not an OCR error. Not in IH-Collectors. VDB? Suggestion added in text	|	|	|	|
+|VC<br/>[[Collection VC\|VC]]	|Not an OCR error. Same in IH-Collectors	|	|	|	|
 |VDB<br/>[[Collection VDB\|VDB]]	|IH-matched	|Vanderbilt University	|Nashville, Tennessee, U.S.A.	|Inactive	|
 |VEN<br/>[[Collection VEN\|VEN]]	|IH-matched	|Universidad Central de Venezuela	|Caracas, Venezuela	|Active	|
 |VER<br/>[[Collection VER\|VER]]	|IH-matched	|Museo Civico di Storia Naturale di Verona	|Verona, Italy	|Active	|
@@ -1091,7 +1091,7 @@ ___
 |WBM<br/>[[Collection WBM\|WBM]]	|IH-matched	|Universität Würzburg	|Würzburg, Germany	|Inactive	|
 |WCUH<br/>[[Collection WCUH\|WCUH]]	|IH-matched	|Western Carolina University	|Cullowhee, North Carolina, U.S.A.	|Active	|
 |WCW<br/>[[Collection WCW\|WCW]]	|IH-matched	|Whitman College	|Walla Walla, Washington, U.S.A.	|Active	|
-|WEBB<br/>[[Collection WEBB\|WEBB]]	|Not an OCR error. Not in Collector's Index of IH. FI-W?	|	|	|	|
+|WEBB<br/>[[Collection WEBB\|WEBB]]	|Not an OCR error. Not in IH-Collectors. FI-W?	|	|	|	|
 |WECO<br/>[[Collection WECO\|WECO]]	|IH-matched	|Wesleyan University	|Middletown, Connecticut, U.S.A.	|Inactive	|
 |WEIC<br/>[[Collection WELC\|WELC]]	|Typo or alternative spelling. Should be WELC	|	|	|	|
 |WELC<br/>[[Collection WELC\|WELC]]	|IH-matched	|Wellesley College	|Wellesley, Massachusetts, U.S.A.	|Inactive	|
@@ -1110,9 +1110,9 @@ ___
 |WISC<br/>[[Collection WIS\|WISC]]	|Alternative to WIS	|	|	|	|
 |WLU<br/>[[Collection WLU\|WLU]]	|IH-matched	|Wilfrid Laurier University	|Waterloo, Ontario, Canada	|Active	|
 |WOS<br/>[[Collection WOS\|WOS]]	|IH-matched	|City Museum and Art Gallery	|Worcester, England, U.K.	|Active	|
-|WPS<br/>[[Collection WPS\|WPS]]	|Not an OCR error. Not in Collector's Index of IH. WSP? Suggestion added in text	|	|	|	|
+|WPS<br/>[[Collection WPS\|WPS]]	|Not an OCR error. Not in IH-Collectors. WSP? Suggestion added in text	|	|	|	|
 |WRHM<br/>[[Collection WRHM\|WRHM]]	|IH-matched	|Institute of Terrestrial Ecology	|Wareham, England, U.K.	|Inactive	|
-|WRLS<br/>[[Collection WRLS\|WRLS]]	|Not an OCR error. Not in Collector's Index of IH	|	|	|	|
+|WRLS<br/>[[Collection WRLS\|WRLS]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |WRN<br/>[[Collection WRN\|WRN]]	|IH-matched	|Warrington Museum and Art Gallery	|Warrington, England, U.K.	|Active	|
 |WRSL<br/>[[Collection WRSL\|WRSL]]	|IH-matched	|Wroclaw University	|Wroclaw, Poland	|Active	|
 |WS<br/>[[Collection WS\|WS]]	|IH-matched	|Washington State University	|Pullman, Washington, U.S.A.	|Active	|
@@ -1124,7 +1124,7 @@ ___
 |WTU<br/>[[Collection WTU\|WTU]]	|IH-matched	|University of Washington	|Seattle, Washington, U.S.A.	|Active	|
 |WU<br/>[[Collection WU\|WU]]	|IH-matched	|Universität Wien	|Wien, Austria	|Active	|
 |WVA<br/>[[Collection WVA\|WVA]]	|IH-matched	|West Virginia University	|Morgantown, West Virginia, U.S.A.	|Active	|
-|WVU<br/>[[Collection WVA\|WVU]]	|Not an OCR error. Same in Collector's Index of IH. Multiple occurrences. Most surely WVA	|	|	|	|
+|WVU<br/>[[Collection WVA\|WVU]]	|Not an OCR error. Same in IH-Collectors. Multiple occurrences. Most surely WVA	|	|	|	|
 |WYAC<br/>[[Collection WYAC\|WYAC]]	|IH-matched	|University of Wyoming	|Laramie, Wyoming, U.S.A.	|Active	|
 |WYO<br/>[[Collection WYO\|WYO]]	|Alternative spelling? Wyoming? RM?	|	|	|	|
 |XAL<br/>[[Collection XAL\|XAL]]	|IH-matched	|Instituto de Ecología, A.C.	|Xalapa, Veracruz, Mexico	|Active	|
