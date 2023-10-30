@@ -17,7 +17,7 @@ AG 5(4): 120; Barnhart 1: 485; BM 1: 496; GR p. 318; LS 7502.
 
 #### Eponymy
 
-*Durandea* Delarbre (1800, *nom. rej.*) *Note*: *Durandea* J. E. Planchon (1847, *nom cons.*).is dedicated to Philippe Durand (fl. 1798-1807), French clergyman and botanical collector in South Spain and Morocco; *Durandia* Rehm (1913), *Durandiella* Seaver (1932) and *Durandiomyces* Seaver (1928) are dedicated to Elias Judah Durand (1870-1922), American mycologist; *Durandeeldea* O. Kuntze (1819) and *Durandia* Boeckeler (1896) are dedicated to Théophile Alexis Durand (1855-1912), q.v.; *Durandoa* Pomel (1860) is dedicated to Gaetano Leone Durando (1811-1892), q.v.
+*Durandea* Delarbre (1800, *nom. rej.*) *Note*: *Durandea* J. E. Planchon (1847, *nom cons.*).is dedicated to Philippe Durand (fl. 1798-1807), French clergyman and botanical collector in South Spain and Morocco; *Durandia* Rehm (1913), *Durandiella* Seaver (1932) and *Durandiomyces* Seaver (1928) are dedicated to Elias Judah Durand (1870-1922), American mycologist; *Durandeeldea* O. Kuntze (1819) [^1] and *Durandia* Boeckeler (1896) are dedicated to Théophile Alexis Durand (1855-1912), q.v.; *Durandoa* Pomel (1860) is dedicated to Gaetano Leone Durando (1811-1892), q.v.
 
 ### Publications
 
@@ -43,3 +43,6 @@ AG 5(4): 120; Barnhart 1: 485; BM 1: 496; GR p. 318; LS 7502.
 *Seconde* partie: 1782, p. \[i\]-xiv, 1-290, i-lxxx. *Copy*: NY. – Title: "Flore de Bourgogne, ou propriétés des plantes de cette province, relativement à la médecine, à l'agriculture et les arts. Ouvrage..."
 *Ref*.: BM 1: 496; LS 7502; PR 2551.
 
+[^1]: "*Durandeeldea* Kuntze 1891 (Euphorbiaceae) \[is dedicated to\] Theophile Alexis Durand (1855–1912), Belgian botanist **and** his wife née Van Eelde; both created an Index to Bentham & Hooker’s *Genera plantarum* (Kuntze, 1891: 603). 
+*Note*. – Kuntze named it for both, because a genus Eeldea for her had become a synonym."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)

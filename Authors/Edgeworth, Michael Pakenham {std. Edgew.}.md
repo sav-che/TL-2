@@ -32,7 +32,7 @@ Hooker, *Fl. Brit. India*:
 
 #### Eponymy
 
-*Edgeworthia* C. F. Meisner (1841).
+*Edgeworthia* C. F. Meisner (1841) [^1].
 
 ### Publications
 
@@ -45,4 +45,8 @@ Hooker, *Fl. Brit. India*:
 **Notes**
 *Publ*.: 7 Oct 1851 (p. 60), p. \[1\]-60, \[1, err.\]. *Copies*: HH, NY. – Preprint \[?\] from J. Asiat. Soc. Bengal 21: 24-48, 151-184. 1852 (Calcutta 1852).
 *Ref*.: BM 2: 505; Jackson p. 389; PR 2617.
+
+[^1]: "*Edgeworthia* Meisn. 1841 (Thymelaeaceae) \[is dedicated to\] Michael Pakenham Edgeworth (1812–1881), Irish-born (from his father’s 4th marriage) British civil servant in Bengal, botanist **and** his half-sister (from their father’s 1st marriage) Maria Edgeworth (1767–1849), prolific Anglo-Irish writer, amateur and patroness of science (Meisner, 1841: 242). 
+*Note*. – *Edgeworthia* Falc. 1842 (Sapotaceae) is only for Michael Pakenham Edgeworth (1812–1881) (Falconer, 1845: 158)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

@@ -26,7 +26,7 @@ Barnhart 1: 23; BB p. 3; BM 1: 1, 21; CSP 1: 28; Desmond p. 4 (b. 15 Jan 1747, d
 
 #### Eponymy
 
-*Aikinia* Wallich 1832 was named after Arthur Aikin (1773-1854), British chemist. This name was a later synonym of *Ratzeburgia* Kunth. – Robert Brown gave then the name *Aikinia* to another plant for John Aikin on 15 Aug 1832, see ING 1: 43.
+*Aikinia* Wallich 1832 [^1] was named after Arthur Aikin (1773-1854), British chemist. This name was a later synonym of *Ratzeburgia* Kunth. – Robert Brown gave then the name *Aikinia* to another plant for John Aikin on 15 Aug 1832, see ING 1: 43.
 
 ### Publications
 
@@ -40,4 +40,10 @@ Barnhart 1: 23; BB p. 3; BM 1: 1, 21; CSP 1: 28; Desmond p. 4 (b. 15 Jan 1747, d
 *Ed. 1*: 1802, p. \[i-iv\], \[1\]-92, *pl. 1-28. Copies*: L, MO. – Published anonymously except that the "advertisement" on p. \[iii\] is signed "J.A.". Later editions identified.
 *Ed. 2*: 1815, p. \[i-iv\], \[1\]-92, *pl. 1-28. Copies*: MO, NY. – "Second edition, corrected".
 *Ed. 3*: 1820, p. \[i-iv\], \[1\]-92, *pl. 1-28. Copy*: HH.
+
+[^1]: "*Aikinia* R.Br. 1832 (Gesneriaceae) \[is dedicated to\] Arthur Aikin (17731854), British chemist, botanist, mineralogist, member of Society of Arts London (Brown, 1832: 65, 66). First Wallich (1832: 46) had named for him *Aikinia elegans* in the Poaceae. Because there had already been the same plant in an earlier genus *Ratzeburgia* Kunth, he asked Brown to name the new genus in the Gesneriaceae after Arthur Aikin, who was a son to John Aikin. 
+*Note*. – *Aikinia* Salisb. ex A.DC. 1830 (Campanulaceae) \[is dedicated to\] Aikin, John (1747–1822), British physician and naturalist (Candolle, 1830: 135)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
+
+
 

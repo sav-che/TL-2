@@ -19,7 +19,7 @@ Barnhart 1: 377; BB p. 72; BM 1: 379; CSP 2: 41; DNB 12: 141; Jackson p. 534 \[i
 
 #### Eponymy
 
-× *Cooperanthus* Lancaster (1913); *Cooperia* Herbert (1836).
+× *Cooperanthus* Lancaster (1913) [^1]; *Cooperia* Herbert (1836).
 
 ### Publications
 
@@ -35,3 +35,5 @@ Barnhart 1: 377; BB p. 72; BM 1: 379; CSP 2: 41; DNB 12: 141; Jackson p. 534 \[i
 *Ed. 2*: London \[1837\], a combination of ed. 1 and the supplement.
 *Ref*.: BM 1: 379; BH; Jackson p. 357; Kew 1: 613; PR 1860.
 
+[^1]: "× *Cooperanthes* Lancaster 1913 (Amaryllidaceae) = *Cooperia* × *Zephyranthes* (Lancaster, 1913: 531), so one basic plant is: *Cooperia* Herb. 1836 (Amaryllidaceae) which is dedicated to Joseph Cooper (18th/19th century), British gardener, cultivator of rare plants/orchids, manager of the Botanic Garden at Wentworth-House of Earl Fitzwilliam/ Viscount Milton, “now for above 20 years”. He was one of the first to bring it (= *Cooperia drummondii*) into flower (Herbert, 1836: under t. 1835)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)

@@ -21,7 +21,7 @@ Barnhart 2: 547; BJI 1: 43; BM 3: 1416; CSP 4: 596, 8: 491, 10: 912, 12: 537, 17
 
 #### Eponymy
 
-*Neumayera* H. G. L. Reichenbach (1841) is very likely named for our author although Reichenbach does not give the derivation of the name.
+*Neumayera* H. G. L. Reichenbach (1841) [^1] is very likely named for our author although Reichenbach does not give the derivation of the name.
 
 ### Publications
 
@@ -49,3 +49,9 @@ Barnhart 2: 547; BJI 1: 43; BM 3: 1416; CSP 4: 596, 8: 491, 10: 912, 12: 537, 17
 *1*: \[i\]-xxiv, \[1\]-842, map, \[1, err.\].
 *2*: \[i\]-xv, \[1\]-880; Ascherson, Seegräser on p. 389-413, Wittmack \[Marx Carl Ludewig 1839-1929\], Landw. Kulturpflanzen p. 271-320, Grisebach \[revised by Carl Georg Oscar Drude 1852-1933\] Pflanzengeographie p. 321-388, Schweinfurth, Pflanzen höherer Ordnung p. 414-437.
 
+[^1]: "*Neumayera* Rchb. 1841 (Caryophyllaceae) Very likely for Franz Neumayer (?–1840), Austrian botanist, ornithologist, studied medicine in Vienna. Since 1825 at Ragusa/ Austria (now Dubrovnik/Croatia) where he collected plants. He was a “living book” of natural history and is merited of increasing the knowledge of the flora in the Austrian Empire (Petter, 1843: 257). There is no dedication given by Reichenbach, but the habitat of the plant is mentioned: “Breyner Alpen an der OesterreichischSteirischen Grenze ...”, a part in the Austrian Alps (Reichenbach, 1841: 30). 
+*Note*. – Georg Balthasar von Neumayer (1826–1909) was only 15 years old in 1841 and was at school until 1845 before studying engineer sciences, mathematics, physics, and astronomy. 
+*Note*. – *Neumayera* Rchb.f. 1872 (Orchidaceae) Reichenbach f. used a false orthography citing F. Müller’s *Niemeyera stylidioides*. 
+*Niemeyera* F.Müll. 1867 (Orchidaceae) \[is dedicated to\] Felix (von) Niemeyer (1820–1871), German physician, pathologist, professor of medicine in Greifswald and Tübingen (Müller, 1867: 96). Felix (von) Niemeyer was later honoured once more with the genus *Niemeyera* F.Müll. 1870 (Sapotaceae), Müller deciding *Niemeyera* 1867 to be a synonym of *Apostasia* Blume (Müller, 1870: 114). *Niemeyera* 1870 is conserved over *Niemeyera* 1867 (Wiersema & al., 2015: 267)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
+\[is dedicated to\] 

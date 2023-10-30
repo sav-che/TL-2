@@ -20,7 +20,7 @@ Barnhart 1: 71; BB p. 9; BM 1: 55; CSP 1: 85, 6: 567, 7:42, 13: 142; Dawson p. 1
 
 #### Eponymy
 
-*Archeria* J.D. Hooker (1857).
+*Archeria* J.D. Hooker (1857) [^1].
 
 ### Publications
 
@@ -44,4 +44,9 @@ Barnhart 1: 71; BB p. 9; BM 1: 55; CSP 1: 85, 6: 567, 7:42, 13: 142; Dawson p. 1
 
 **Notes**
 *Publ*.: 1854, p. \[1\]-24, \[adv.\], \[*frontisp. pl.*\], \[i\]-xv, \[1\]-199, *pl. 1-20. Copy*: NY.
+
+[^1]: "*Archeria* Hook.f. 1857 (Ericaceae) \[is dedicated to\] William Archer (1820–1874), botanist in Tasmania, sent to Hooker orchids and drawings of orchids which were published in J.D. Hooker’s Flora tasmaniae (1857: 262)." 
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9): 
+
+
 

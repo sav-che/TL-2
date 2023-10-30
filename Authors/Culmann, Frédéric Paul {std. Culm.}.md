@@ -24,7 +24,7 @@ Barnhart 1: 402 (b. 23 Feb 1860, Zürich, d. 27 Nov 1936, Paris); IH 2: 146; Kew
 
 #### Eponymy
 
-*Cullmannia* C. Destefano, Nuovo Giorn. bot. ital. ser. 2. 63: 158. 15 Dec 1956. – See ING 1: 458. 1979.
+*Cullmannia* C. Destefano [^1], Nuovo Giorn. bot. ital. ser. 2. 63: 158. 15 Dec 1956. – See ING 1: 458. 1979.
 
 #### Composite works
 
@@ -304,4 +304,7 @@ Un *îlot de mousses atlantiques dans les Alpes françaises*... Paris (Laboratoi
 
 **Notes**
 *Publ*.: 30 Apr 1934 (in journal), cover-t.p., p. \[78\]-89. *Copy*: B. – Reprinted and to be cited from Rev. bryol. lichénol. ser. 2. 6(1-4): 78-89. 1934.
+
+[^1]: "*Cullmannia* Distefano 1956 (Cactaceae) \[is dedicated to\] Wilhelm/Willy Cullmann (1905–1992), German notary, internationally renowned cactus specialist, founding member of International Organization for Succulent Plant Study – IOS, author, died at Menton/France, **and** his wife, both from Marktheidenfeld in Germany (Distefano, 1956: 99)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

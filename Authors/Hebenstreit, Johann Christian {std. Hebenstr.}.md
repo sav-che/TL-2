@@ -23,7 +23,7 @@ Hebenstreit published two papers in the *Nov. Comm. Acad. Sci. Petrop*. 5: 319-3
 
 #### Eponymy
 
-*Hebenstreitia* Linnaeus (1774, *orth. var.*); *Hebenstretia* Linnaeus (1753). Hechel, Wilhelm (x-1905), Northern German botanist; high school teacher at Friedrichsroda; founding member of the Bot. Ver. Brandenburg (1859). (*Hechel*).
+*Hebenstreitia* Linnaeus (1774, *orth. var.*); *Hebenstretia* Linnaeus (1753) [^1]. Hechel, Wilhelm (x-1905), Northern German botanist; high school teacher at Friedrichsroda; founding member of the Bot. Ver. Brandenburg (1859). (*Hechel*).
 
 #### Herbarium and types
 
@@ -47,4 +47,8 @@ Barnhart 2: 146; CSP 7: 932.
 **Notes**
 *Publ*.: Apr 1876 (p. 8: 22 Mar 1876; Hedwigia Mai 1976), p. 1-8, *1* uncol. lith. by A. Köpke.
 *Copy*: MO. – Reprinted from Programm der höheren Töchterschule zu Brandenburg a.d. H. Ostern \[Easter\] 1876.
+
+[^1]: "*Hebenstretia* L. 1753 (Scrophulariaceae) \[is dedicated to\] Johann Ernst Hebenstreit (1703–1757), German physician, director of the Bose Garden in Leipzig. He made an Africa expedition together with Christian Gottlieb Ludwig (Linnaeus, 1738: 326). Johann Ernst H. was Johann Christian Hebenstreit’s uncle. And likewise: 
+*Hebenstreitia* L. 1774 (Scrophulariaceae) (orth. var. to *Hebenstretia* L.)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

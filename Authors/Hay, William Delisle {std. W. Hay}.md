@@ -15,7 +15,7 @@ BM 2: 804; Kew 2: 612; Langman p. 345; LS 11548-11550.
 
 #### Eponymy
 
-*Hayaster* D. Bukry (1973), *Hayella* S. Gardner (1969), *Hayella* P. H. Roth (1969) and *Hayesites* (1971) are dedicated to William W. Hay, American micropaleontologist. The etymology of *Haya* I. B. Balfour (1884) could not be ascertained.
+*Hayaster* D. Bukry (1973), *Hayella* S. Gardner (1969), *Hayella* P. H. Roth (1969) and *Hayesites* (1971) are dedicated to William W. Hay, American micropaleontologist. The etymology of *Haya* I. B. Balfour (1884) [^1] could not be ascertained.
 
 ### Publications
 
@@ -38,3 +38,5 @@ BM 2: 804; Kew 2: 612; Langman p. 345; LS 11548-11550.
 *Publ*.: Jan-Mai 1887 (Nat. Nov. Jun(1) 1887; Bot. Zeit. 29 Jul 1887), p. \[1\]-157. *Copies*: FH, NY, USDA.
 *New ed*.: 1906 (Nat. Nov. Aug(1) 1906), n.v.
 
+[^1]: "*Haya* Balf.f. 1884 (Caryophyllaceae) \[is dedicated to\] George Hay, M.D., Port Surgeon in Aden, natural scientist, supported Balfour’s expedition to Socotra (Balfour 1888: 251)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)

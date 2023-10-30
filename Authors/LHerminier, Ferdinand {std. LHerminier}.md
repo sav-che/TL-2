@@ -32,5 +32,8 @@ Félix Louis L'Herminier (b. 18 Mai 1779, Paris; d. 25 Oct 1833, Paris), father 
 
 #### Eponymy
 
-*Herminiera* Guillemin & Perrottet (1832).
+*Herminiera* Guillemin & Perrottet (1832) [^1].
+
+[^1]: "*Herminiera* Guill. & Perr. 1832 (Fabaceae) Very likely \[is dedicated to\] Félix-Louis L’Herminier (1779–1833), French pharmacist, chemist, naturalist, since 1789 pharmacist in Guadeloupe, collected plants, animals, minerals. It was Félix-Louis L’Herminier who supported Perrottet visiting the island in 1824, while his son Ferdinand L’Herminier was student in France (Guillemin & al., 1832: 201; Maddi & al., 2013: 181; F.A. Maddi, pers. comm.)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

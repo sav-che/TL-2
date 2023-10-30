@@ -19,7 +19,7 @@ DU 229; GF p. 13, 71; Lenley p. 335; NI 1568 and 3: 55; PR 7332 (ed. 1: 8223); R
 
 #### Eponymy
 
-*Prevostea* J. Choisy (1825) honors J.L. Prevost, as well as Isaac Benedict Prevost (1755-1819), Swiss professor of plant physiology, and Pierre Prevost, a professor of physics at l'Académie de Genève.
+*Prevostea* J. Choisy (1825) [^1] honors J.L. Prevost, as well as Isaac Benedict Prevost (1755-1819), Swiss professor of plant physiology, and Pierre Prevost, a professor of physics at l'Académie de Genève.
 
 ### Publications
 
@@ -52,3 +52,7 @@ Duchesne, who may have been the author of the entire text. Two issues: plain and
 For details on the plates (stipple engravings, printed in colour or in black and white) see DU 229.
 *Reprint*: Jean Louis Prévost. *Bouquets*. Eighteen coloured engravings which faithfully reproduce the original watercolour flowers and fruits with captions from the original text and an introduction by Emy Pischel. MacDonald London\[1969\], p. \[i-vii\], *18 pl.w.t.* Originally published in German, 1959, Schuler Verlagsgesellschaft, Stuttgart (n.v.). – Plates reproduced from a copy in the Coburg library.
 
+
+[^1]: "*Prevostea* Choisy 1825 (Convolvulaceae) \[is dedicated to\] Isaac-Bénédict Prévost (1755–1819), Swiss teacher, professor of plant physiology and natural history in Montauban **and** Pierre Prévost (1751–1839), Swiss professor of physics at l’Académie de Genève, delegate **and** Jean-Louis Prévost (1790 1850), Swiss physician, biologist, Choisy’s friend (Choisy, 1825: 497). 
+*Note*. – This “Jean-Louis Prévost” is **not identical** to the person of the same name in TL-2."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)

@@ -32,5 +32,12 @@ AG 2(1): 758; Barnhart 1: 228; BM 1: 211; CSP 1: 514-515; Hortus 3: 1189; IH 2: 
 
 #### Eponymy
 
-*Bouchea* Chamisso (1832) see ING 1: 226. 1979.
+*Bouchea* Chamisso (1832) [^1] see ING 1: 226. 1979.
+
+[^1]: "*Bouchea* Cham. 1832 (Verbenaceae) \[is dedicated to\] Peter Karl Bouché (1783–1856), German gardener, in 1828 he was called inspector of the Botanic Garden Berlin-Schöneberg and his brother Peter Friedrich Bouché (1785–1856), gardener and entomologist. Chamisso (1781–1838) mentioned in his dedication that he and the honoured persons of the family Bouché were all near-born contemporaries (Chamisso, 1832: 252)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
+
+
+
+
 

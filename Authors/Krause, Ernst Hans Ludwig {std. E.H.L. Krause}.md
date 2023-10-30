@@ -28,7 +28,7 @@ Barnhart 2: 319; BFM 98, 546-549, 597; BJI 1: 34; BL 1: 88, 305, 2: 52, 120, 676
 
 #### Eponymy
 
-*Krauseola* Pax & Hoffmann (1934) may be dedicated to him ("... zu Ehren von Johannes Krause..."). *Krauseella* C. Müller Hal. (1883) is dedicated to the brothers Aurel Krause (1848-1908) and Arthur Krause (1851-1920), German geographers and botanical collectors.
+*Krauseola* Pax & Hoffmann (1934) [^1] may be dedicated to him ("... zu Ehren von Johannes Krause..."). *Krauseella* C. Müller Hal. (1883) is dedicated to the brothers Aurel Krause (1848-1908) and Arthur Krause (1851-1920), German geographers and botanical collectors.
 
 ### Publications
 
@@ -79,4 +79,7 @@ Barnhart 2: 319; BFM 98, 546-549, 597; BJI 1: 34; BL 1: 88, 305, 2: 52, 120, 676
 
 **Notes**
 *Publ*.: 1921-1922 (fide handwritten note by K. Müller on Steere copy), p. \[1\]-16. *Copy*: Steere.
+
+[^1]: "*Krauseola* Pax & K.Hoffm. 1934 (Caryophyllaceae) \[is dedicated to\] Johannes Krause, who made the authors attentive to the existing genus *Pleiosepalum* Hand.-Mazz. 1922 (Rosaceae), so *Pleiosepalum* Moss (Caryophyllaceae) was replaced (Pax & Hoffmann, 1934: 308). No further biographical information about Johannes Krause could be found."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

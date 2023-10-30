@@ -31,7 +31,7 @@ Barnhart 2: 526; BL 1: 132, 310; BM 3: 1374; Bossert p. 276; CSP 8: 454, 10: 884
 
 #### Eponymy
 
-*Muirella* R. Sprague (1959). – The John Muir Memorial Park and Muir's Lake, Wisconsin, U.S.A. – *Muiria* C. A. Gardner (1933) is named after "Sir Thomas Muir of Warungu, Morden \[Australia\], who accompanied me on the two occasions when this plant was collected." *Muiria* N. E. Brown (1927) was named after a John Muir (and his daughter Hortense Muir) who was still alive in 1927 and who sent living material of the plant concerned to the author.
+*Muirella* R. Sprague (1959). – The John Muir Memorial Park and Muir's Lake, Wisconsin, U.S.A. – *Muiria* C. A. Gardner (1933) is named after "Sir Thomas Muir of Warungu, Morden \[Australia\], who accompanied me on the two occasions when this plant was collected." *Muiria* N. E. Brown (1927) [^1] was named after a John Muir (and his daughter Hortense Muir) who was still alive in 1927 and who sent living material of the plant concerned to the author.
 
 #### Postage stamps
 
@@ -48,4 +48,7 @@ U.S.A. 5 c. (1964) yv. 760.
 **Notes**
 *Publ*.: Nov 1917, p. \[i\]-xxxii, \[1\]-279. *Copy*: MICH.
 *Reprint*: s.d. p. \[i\]-xxxii, \[1\]-303, \[304\]. *Copy*: NY.
+
+[^1]: "*Muiria* N.E.Br. 1927 (Aizoaceae) \[is dedicated to\] John Muir (1874–1947), Scottish physician, naturalist, cultural historian in South Africa; his daughter Hortense (Mrs. H.J. Stabbet, f l. 1927) who gave living plants to the author, got the type species *Muiria hortenseae* (Gunn, 1996: 3–4)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

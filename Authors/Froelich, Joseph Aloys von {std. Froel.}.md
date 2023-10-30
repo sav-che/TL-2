@@ -24,7 +24,7 @@ DC, *Prodr*.: *Crepis*, 7: 164-172. Apr 1838; *Hieracium* 7: 199-240. Apr 1838.
 
 #### Eponymy
 
-*Froelichia* Moench (1794); *Froelichiella* R. E. Fries (1920). *Note*: *Froelichia* M. Vahl (1797) is dedicated to Friedrich Heinrich Wilhelm Frölich (1769-1845), Danish botanist.
+*Froelichia* Moench (1794); *Froelichiella* R. E. Fries (1920). *Note*: *Froelichia* M. Vahl (1797) [^1] is dedicated to Friedrich Heinrich Wilhelm Frölich (1769-1845), Danish botanist.
 
 ### Publications
 
@@ -38,4 +38,7 @@ DC, *Prodr*.: *Crepis*, 7: 164-172. Apr 1838; *Hieracium* 7: 199-240. Apr 1838.
 *Thesis*: Jan 1796 (p. iv: 30 Dec 1795), p. \[i, t.p. of thesis\], \[i-iv\], \[1\]-141, \[142, add.\], 1 col. copper engr. J. Sturm. *Copy*: NY.
 *Trade ed*.: Erlangen (W. Walther) 1796, publ. Jan-Apr 1796, (p. vi: 30 Dec 1795), \[i-vi\], \[1\]-141, \[142, add.\], 1 col. copper engr. J. Sturm. *Copies*: G, M. – "De Gentiana libellus sistens specierum cognitarum descriptionibus cum observationibus."
 *Ref*.: BM 2: 628; DTS 1: 79; PR 3131, PR ed. 1: 3420.
+
+[^1]: "*Froelichia* Vahl 1797 (Rubiaceae) \[is dedicated to\] Joseph Aloys von Frölich (1766–1841), German physician (“Hofmedizinalrat”), botanist, entomologist, in Ellwangen. Vahl (1797: \[vii\], 13.) mentioned Frölich’s thesis *De Gentiana dissertatio*."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

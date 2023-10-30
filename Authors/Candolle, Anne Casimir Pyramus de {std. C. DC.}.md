@@ -44,7 +44,7 @@ Candollea 28: 165-166. 1973.
 
 #### Eponymy (genus)
 
-*Candollina* Van Tieghem (1895); (journal): *Candollea* (vide infra, sub A. P. de Candolle).
+*Candollina* Van Tieghem (1895) [^1]; (journal): *Candollea* (vide infra, sub A. P. de Candolle).
 
 ### Publications
 
@@ -58,4 +58,9 @@ Candollea 28: 165-166. 1973.
 *Publ*.: 1923 (p. 65: 1 Feb 1923) in *Candollea* 1: 65-415. 1922. Edited by Raymond de Candolle and R. Buser; the reprint with double pagination \[65\] = \[(1)\], \[415\] = (351). Reprint *copy*: US.
 *Ref*.: Kew 1: 470; MW p. 64.
 - Candolle, C. de, Candollea 2: 187-226. Mai 1925. Piperaceae novae.
+
+[^1]: "*Candollina* Tiegh. 1895 (Loranthaceae) \[is dedicated to\] Augustin Pyramus de Candolle (1778–1841), Swiss botanist, who worked on *Loranthaceae* in the 1830s. This is mentioned in the dedication (Tieghem, 1895: 269). 
+*Note*. – *Casimirella* Hassl. 1913 (Icacinaceae) \[is dedicated to\] Anne Casimir Pyramus de Candolle (1836 –1918), Swiss botanist, Alphonse de Candolle’s son (Hassler, 1913)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
+
 

@@ -10,3 +10,6 @@
 
 # Ignore personal notes
 /Work\ notes
+
+# Ignore local templates
+/Templates

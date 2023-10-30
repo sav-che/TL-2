@@ -81,7 +81,7 @@ Wiss. Z. Humboldt-Univ. Berlin, math.-nat. 19: 298. 1970; D.B. Arana, El doctor 
 
 #### Eponymy (genera)
 
-*Philippia* Klotzsch (1834); *Philippiamra* O. Kuntze (1891); *Philippicereus* Backeberg (1942); *Philippiella* Spegazzini (1897); *Philippimalva* O. Kuntze (1891). *Note*: *Philippiella* P.C. Silva (1959) and *Portphillippia* P.C. Silva (1970) are named for Port Phillip, Australia; *Philippinaea* Schlechter et Ames (1920) is named for the Philippine Islands; *Philippiregis* Ciferri et Tomaselli (1953) honors R. Philippo (1763-1817); *Philippodendrum* Poiteau (1837) and *Philippodendron* Endlicher (1840, *orth. var.*) honor Louis Philippe (1773-1850), King of France (1830-1848) and called the "Citizen King"; (journal): *Philippia*, Abhandlungen und Berichte aus dem Naturkundemuseum im Ottoneum zu Kassel, Germany. Vol. 1-x. 1970-x.
+*Philippia* Klotzsch (1834); *Philippiamra* O. Kuntze (1891); *Philippicereus* Backeberg (1942); *Philippiella* Spegazzini (1897); *Philippimalva* O. Kuntze (1891). *Note*: *Philippiella* P.C. Silva (1959) and *Portphillippia* P.C. Silva (1970) are named for Port Phillip, Australia; *Philippinaea* Schlechter et Ames (1920) is named for the Philippine Islands; *Philippiregis* Ciferri et Tomaselli (1953) [^1] honors R. Philippo (1763-1817); *Philippodendrum* Poiteau (1837) and *Philippodendron* Endlicher (1840, *orth. var.*) honor Louis Philippe (1773-1850), King of France (1830-1848) and called the "Citizen King"; (journal): *Philippia*, Abhandlungen und Berichte aus dem Naturkundemuseum im Ottoneum zu Kassel, Germany. Vol. 1-x. 1970-x.
 
 #### Travel reports
 
@@ -236,3 +236,7 @@ Publ.: 1886, p. \[1\]-15, *1 pl. Copy*: NY. – Reprinted and to be cited from A
 **Notes**
 *Publ*.: Aug 1896 (err. p. \[2\]: Jul 1896; Nat. Nov. Sep(1) 1896), p. \[i-ii\], \[1\]-31, \[1-2, err.\]. *Copies*: MO, NY. – Reprinted and to be cited from Abh. Ber. Ver. Naturk. Kassel 41: 1-31. 1896.
 
+
+[^1]: "*Philippiregis* Cif. & Tomas. 1953 (Lichenes) \[is dedicated to\] Philippo Re (1763–1817), Italian botanist, agronomist, professor of agriculture in Bologna, professor of agriculture and botany at Modena (Ciferri & Tomaselli, 1953: 57). 
+*Note*. – The first name is Philippo (in today Italian writing Filippo), the family name is Re."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)

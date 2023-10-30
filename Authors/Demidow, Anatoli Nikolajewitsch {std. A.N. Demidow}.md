@@ -19,7 +19,7 @@ Barnhart 1: 441.
 
 #### Eponymy
 
-*Demidovia* \[sic\] Pallas (1781).
+*Demidovia* \[sic\] Pallas (1781) [^1].
 
 ### Publications
 
@@ -39,4 +39,8 @@ Barnhart 1: 441.
 *Partial translation*: English (1853; ed. 2, 1855), Dutch (1840), Italian (1841), Polish (1845), German (1854), Spanish (1855), Russian (1853).
 *Ref*.: BM 1: 440.
 - Nissen, Zool. Buchill. no. 1072. 1966.
+
+[^1]: "*Demidovia* Pall. 1781 (Aizoaceae) \[is dedicated to\] Procopius Demidow (1710–1781), Russian owner of mines, who had a famous garden in Moscow, Pallas wrote a catalogue of its plants (Pallas, 1781: 150–156). 
+*Note*. – Anatoli Nicolajewitsch Demidow was born in 1812, the genus was named in 1781."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

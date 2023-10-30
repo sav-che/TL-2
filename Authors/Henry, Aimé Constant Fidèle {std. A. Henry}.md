@@ -23,7 +23,7 @@ Barnhart 2: 159; BM 2: 824; Bret. p. 774, 1092; CSP 3: 283; Jackson p. 162, 163;
 
 #### Eponymy
 
-*Henrya* C. G. D. Nees (1845). *Note: Henryettana* A. Brand (1929) is dedicated to Mrs. Augustine Henry (1857-1930), Irish botanist, dendrologist, who collected in China. *Henrya* W. B. Hemsley (1889), *Henryastrum* Happ (1937), and *Neohenrya* W. B. Hemsley (1892) are also named after Augustine Henry, but at the same time commemorate the Reverend Benjamin Couch Henry (1850-1901), who collected in China. *Henrica* Bouley de Lesdain (1921) is dedicated to Abbé Joseph Henry (*fl*. 1903-1914), who worked and collected in Italy.
+*Henrya* C. G. D. Nees (1845) [^1]. *Note: Henryettana* A. Brand (1929) is dedicated to Mrs. Augustine Henry (1857-1930), Irish botanist, dendrologist, who collected in China. *Henrya* W. B. Hemsley (1889), *Henryastrum* Happ (1937), and *Neohenrya* W. B. Hemsley (1892) are also named after Augustine Henry, but at the same time commemorate the Reverend Benjamin Couch Henry (1850-1901), who collected in China. *Henrica* Bouley de Lesdain (1921) is dedicated to Abbé Joseph Henry (*fl*. 1903-1914), who worked and collected in Italy.
 
 ### Publications
 
@@ -36,4 +36,10 @@ Barnhart 2: 159; BM 2: 824; Bret. p. 774, 1092; CSP 3: 283; Jackson p. 162, 163;
 **Notes**
 *Preface by*: Theodor Friedrich Ludwig Nees von Esenbeck (1787-1837).
 *Publ*.: Jan 1836 (p. \[iv\]: Sep 1835; Flora rd. 10 Feb 1836 p. \[i-vi\], \[1\]-48, *32 pl*. (partly handcol. liths.). *Copies*: NY, USDA. – See also Miquel (1836), for a similar Dutch text accompanied by the same plates.
+
+[^1]: "*Henrya* Hemsl. 1889 (Apocynaceae) \[is dedicated to\] Augustine Henry (1857–1930), Irish botanist, dendrologist and Rev. Benjamin Couch Henry (1850–1901), both collected in China. Note. – So far correct, but Augustine Henry was a man (https://www.plantexplorers.com/explorers/biographies/henry/augustine-henry.htm, accessed 2 May 2014); and likewise: 
+*Henryastrum* Happ 1937 (Apocynaceae) 
+*Henryettana* Brand 1929 (Boraginaceae) 
+*Neohenrya* Hemsl. 1892 (Apocynaceae)"
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

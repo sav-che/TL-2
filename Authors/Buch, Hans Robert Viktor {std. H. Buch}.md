@@ -26,5 +26,8 @@ Barnhart 1: 273; BL 2: 464; BM 6: 153; GR p. 614-615; Kew 1: 407.
 
 #### Eponymy
 
-*Neobuchia* Urban (1902) is dedicated to Wilhelm Buch (1862-x), German botanist and collector in Haiti.
+*Neobuchia* Urban (1902) [^1] is dedicated to Wilhelm Buch (1862-x), German botanist and collector in Haiti.
+
+[^1]: "*Neobuchia* Urb. 1902 (Malvaceae) \[is dedicated to\] Wilhelm Buch (18621943), German pharmacist, botanist, collector in Haiti **and** his wife Amalia Pauline Wilhelmine née Dieck, who accompanied him on his voyages (Urban, 1902: 319)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

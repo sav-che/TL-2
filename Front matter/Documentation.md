@@ -554,6 +554,8 @@ rename_input="<TSV_RENAMING_DICTIONARY_FILE>"
 sed 's/^/mv -vi "/;s/\t/" "/;s/$/";/' < "${rename_input}" | bash -
 
 ```
+
+Collection codes recognized as such, but without a match in current online Index Herbariorum were checked manually, first for OCR errors, and then for typographic errors against printed versions of "Index Herbariorum. Part II. Collectors" [at BHL](https://www.biodiversitylibrary.org/bibliography/200637). For summary of this work see [[List of collections]] and extended list with more annotated errors [at GitHub](https://github.com/sav-che/TL-2/tree/main/Maintenance/raw_files) (`tl2-collections`).
 ___
 
 ##### Misc.

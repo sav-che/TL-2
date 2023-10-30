@@ -17,5 +17,8 @@ Barnhart 2: 278; BJI 2: 88-89; BM 2: 966; Bossert p. 207; CSP 226; GR p. 561; Hi
 
 #### Eponymy
 
-*Kelleria* Tomin (1926). *Note*: *Kelleronia* Schinz (1895) is dedicated to A. Keller who took part in an expedition to Somaliland in 1891.
+*Kelleria* Tomin (1926). *Note*: *Kelleronia* Schinz (1895) [^1] is dedicated to A. Keller who took part in an expedition to Somaliland in 1891.
+
+[^1]: "*Kelleronia* Schinz 1895 (Zygophyllaceae) \[is dedicated to\] Conrad Keller (1848–1930), Swiss zoologist, botanist, professor of zoology at ETH Zürich, accompanied Ruspoli in 1891 to Somaliland (Schinz, 1895: 400; Stapf, 1907: 203)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

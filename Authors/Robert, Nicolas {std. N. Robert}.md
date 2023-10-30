@@ -31,5 +31,8 @@ Barnhart 3: 162; Blunt p. 302 \[index\]; BM 4: 1712; Dryander 3: 66; DU 264; Fra
 
 #### Eponymy
 
-*Robertia* Scopoli (1777); *Robertia* A. Richard ex A.P. de Candolle (1815). *Note*: *Robertia* R. Choubert (1932) honors M. Robert, Belgian geologist; *Robertomyces* Starbäck (1905) honors both Klas Robert Elias Fries, *q.v.* and Oscar Robert Fries (1840-1908), Swedish mycologist.
+*Robertia* Scopoli (1777); *Robertia* A. Richard ex A.P. de Candolle (1815) [^1]. *Note*: *Robertia* R. Choubert (1932) honors M. Robert, Belgian geologist; *Robertomyces* Starbäck (1905) honors both Klas Robert Elias Fries, *q.v.* and Oscar Robert Fries (1840-1908), Swedish mycologist.
+
+[^1]: "*Robertia* A.Rich. ex DC. 1815 (Asteraceae) Very likely \[is dedicated to\] Gaspard Nicolas Robert (1776–1857), French botanist, pharmacist, who about 1802 worked for a short time at the new established botanic garden in Ajaccio/Corsica. On the island he collected many plants. Then he was director of the botanic garden Toulon in the south of France. (Translated dedication: Monsieur Robert, to whom is owed the knowledge of many plants from Corsica.) (Candolle, 1815: 453)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

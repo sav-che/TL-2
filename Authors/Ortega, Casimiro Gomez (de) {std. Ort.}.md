@@ -35,7 +35,7 @@ Quer y Martinez, J., *Flora española*,continuacion... ordenada... y publicada..
 
 #### Eponymy
 
-*Ortega* Linnaeus (1753), corr. *Ortegia* Linnaeus (1754); *Ortegaea* Post et O. Kuntze (1903, *orth. var.*). *Note*: *Ortegocactus* E. J. Alexander (1961) honors the Ortega family of San José Lachiguirí, Mexico.
+*Ortega* Linnaeus (1753) [^1], corr. *Ortegia* Linnaeus (1754); *Ortegaea* Post et O. Kuntze (1903, *orth. var.*). *Note*: *Ortegocactus* E. J. Alexander (1961) honors the Ortega family of San José Lachiguirí, Mexico.
 
 ### Publications
 
@@ -116,4 +116,9 @@ Casimiri Gomezii Ortegae *novarum, aut rariorum plantarum* horti reg. botan. mat
 *7-8*: 1798, p. \[i-iv\], 81-108, *pl. 11-13.*
 *9-10*: 1800, p. \[i\], 109-138, *pl. 14-18.*
 *Copies*: MICH, NY, USDA (1-4); IDC 5531; *General t.p.* (copies: NY, PH): Casimiri Gomezii Ortegae,... novarum... iconibus. Centuria I. Superiorum permissu Matriri mdccc. Ex typographia mariniana.
+
+[^1]: "*Ortega* L. 1753 (Caryophyllaceae) \[is dedicated to\] José Ortega (?–1761), Spanish (Army-) pharmacist under the reign of Ferdinand VI, accompanied Loefling. He was secretary at the Real Academia de Medicina Madrid and Casimiro Gómez Ortega’s uncle (1741–1818) (Loefling, 1758: VII–XX; Pax & Hoffmann, 1934: 309); and likewise:
+*Ortegaea* T.Post & Kuntze 1903 (Caryophyllaceae) which is an orth. var. of *Ortega* L. 1753. 
+*Ortegia* L. 1754 (Caryophyllaceae) This *Ortegia* is a spelling correction by Linnaeus (1754: 21)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

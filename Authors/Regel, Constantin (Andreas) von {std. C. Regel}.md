@@ -28,7 +28,7 @@ Barnhart 3: 138(b. 10 Aug 1890); BFM no. 2943; Biol.-Dokum. 14: 7351-7352; BJI 2
 
 #### Eponymy
 
-*Neoregelia* L.B. Smith (1934).
+*Neoregelia* L.B. Smith (1934) [^1].
 
 ### Publications
 
@@ -54,4 +54,8 @@ Apie kai kurias Tragopogon rušis. *Beitrag zur Kenntniss einiger Tragopogon Art
 **Notes**
 *Publ*.: 1937 (U received 4 Oct 1938), p. \[1\]-66, *6 pl. Copy*: U. – Reprinted from V.D.U. Mat. Gamt. F-teto Darbu 11(4) (journal n.v.).
 *Second part*: 1939 (U rd 28 Mai 1940), p. \[29\]-39, \[40\], *3 pl. Copy*: U. – Reprinted from id. 13(2) (journal n.v.).
+
+[^1]: "*Neoregelia* L.B.Sm. 1934 (Bromeliaceae) \[is dedicated to\] Eduard August von Regel (1815–1892), German-born botanist, director of the Botanical Gardens in Zürich and St. Petersburg. He worked on *Nidularium*. 
+*Note*. – This is a substitute name for the genus *Regelia* (Lem.) Lindm. 1890 (Bromeliaceae), so Eduard August von Regel is honoured (Grant & Zijlstra, 1998)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

@@ -26,5 +26,7 @@ AG 6(1): 857; Barnhart 1: 335; BM 1: 338; CSP 1: 878, 6: 621; Quenstedt p. 79; S
 
 #### Eponymy
 
-*Charpentiera* Gaudichaud-Beaupré (1829).
+*Charpentiera* Gaudichaud-Beaupré (1829) [^1].
 
+[^1]: "*Charpentiera* Gaudich. 1829 (Amaranthaceae) \[is dedicated to\] Arsène Charpentier (1781–1818), French pharmacist, professor of pharmacy in Antwerp and Cherbourg, since 1816 naval pharmacist, Gaudichaud’s friend (Freycinet, 1826: 444)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)

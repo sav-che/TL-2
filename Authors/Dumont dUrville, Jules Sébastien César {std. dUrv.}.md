@@ -32,7 +32,7 @@ AG 2(1): 155, 5(2): 182; Barnhart 1: 480; BM 1: 489; Bossert p. 109; CSP 2: 399,
 #### Eponymy
 
 *Durvillaea* Bory de Saint-Vincent (1826); *Urvillea* Humboldt, Bonpland & Kunth (1821).
-*Note*: *Dumontia* J. F. V. Lamouroux (1813) is dedicated to "... mon respectable ami M. Ch. Dumont, l'un des auteurs du Dictionnaire d'histoire naturelle," about whom no further particulars could be found.
+*Note*: *Dumontia* J. F. V. Lamouroux (1813) [^1] is dedicated to "... mon respectable ami M. Ch. Dumont, l'un des auteurs du Dictionnaire d'histoire naturelle," about whom no further particulars could be found.
 
 #### Postage stamps
 
@@ -103,7 +103,7 @@ Some copies have a provisional t.p. dated 1842-1845; publication took place as a
 |8	|	|	|4	|4, 7-9	|17 Jan 1845|
 |9	|	|	|	|11, 12, 14, 15, 19	|12 Jun 1845|
 |10	|	|	|	|13, 16, 20-22	|14 Feb 1846|
-|11	|	|	|	|24-28	|6Jul 1848|
+|11	|	|	|	|24-28	|6 Jul 1848|
 |12	|	|	|	|17, 27, 30, 31	|?|
 |13	|	|	|5-8	|18, 22b, 23	|5 Mai 1853|
 
@@ -116,3 +116,5 @@ Some copies have a provisional t.p. dated 1842-1845; publication took place as a
 - Stearn, Taxon 2: 177. 1953.
 - Steenis-Kruseman, Fl. males. Bull. 15: 735. 1961.
 
+[^1]: "*Dumontia* J.V.Lamour. 1813 (Rhodophyta: Dumontiaceae) \[is dedicated to\] Charles Henri Frédéric Dumont de Sainte-Croix (1758–1830), French ornithologist, he was a friend to Lamouroux. In the “Liste des Auteurs par ordre de Matières” in the *Dictionnaire des sciences naturelles* (Cuvier, 1816) M. Dumont (M. = Monsieur) is to find in the chapter “Oiseaux”. Also Robert Kaye Greville (1830: 164) explained the dedication."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)

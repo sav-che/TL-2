@@ -41,7 +41,7 @@ ADB 26: 369-370; Barnhart 3: 94 (b. 22 Feb 1782); Blunt p. 247-248; BM 4: 1591; 
 
 #### Eponymy
 
-*Pohlana* C.F.P. von Martius et C.G.D. Nees (1823). *Note*: the source of *Pohlia* J. Hedwig (1801) and the derived *Pseudopohlia* R.S. Williams (1917) was not given, but may be named for Johann Pohl. *Pohliella* Engler (1926) honors Joseph Pohl (see sub Julius Pohl).
+*Pohlana* C.F.P. von Martius et C.G.D. Nees (1823). *Note*: the source of *Pohlia* J. Hedwig (1801) [^1] and the derived *Pseudopohlia* R.S. Williams (1917) was not given, but may be named for Johann Pohl. *Pohliella* Engler (1926) honors Joseph Pohl (see sub Julius Pohl).
 
 ### Publications
 
@@ -104,4 +104,9 @@ From the prospectus of the work published in Vienna on 1 Mai 1826 (in Lambert co
 *Atlas*: *9 plates*: 7 uncol. copper engr. (views landscapes), 1 col. drawing (insects), 1 lith. (geogn.). Oblong; cover: *Atlas zur Beschreibung der Reise* in Brasilien von Dr. Johann Emanuel Pohl. Erster Theil, Wien 1832, portfolio, drawings by Thorn. Endler (portfolio with cover MO copy).
 *Copies*: MO, NY. – The section on *Die vorzüglich lästige Insekten* of vol. 1 was reprinted separately, Wien 1832, 20 p., *1 pi*, that on geognosy id. as *Beiträge zur Gebirgskunde Brasiliens*, Wien 1832 (n.v.).
 *Portugese transi*: 1951, 2 vols. (400, 471 p., ill.), *Viagem no interior do Brasil*,... Rio de Janeiro (Ministerio de Educação e Saúde,...) 1951 (n.v.).
+
+[^1]: "*Pohlia* Hedw. 1801 (Bryaceae) \[is dedicated to\] Johann Ehrenfried Pohl (1746–1800), German physician, author, member of the German Academy “Leopoldina”. He was professor at the University of Leipzig in Saxony/Germany. Hedwig succeeded him as professor when Pohl went to Dresden as physician at the court of Saxony. In his *Species muscorum* Hedwig (1801: 171) gives no dedication, but one discovery site of the moss was near Chemnitz in Saxony/Germany. Already in 1795 Franz Georg Hoffmann (1795: 48) referred to *Mnium pohlia*. More about Pohl and Hedwig is to find in the article “Kurze Nachrichten von dem Leben verschiedener verstorbenen Mitglieder. Kurze Lebensgeschichte des Professors Johann Hedwig” (Short news about the lives of some deceased members. Short history of life of Professor Johann Hedwig) (N.N., 1799); and likewise: 
+*Pseudopohlia* R.S.Williams 1917 (Bryaceae) 
+*Note*. – Johann Baptist Emmanuel Pohl (1782–1834), Bohemian-born Austrian botanist, traveller in Brazil, is honoured with *Pohlana* Mart. & Nees 1823 (Rutaceae) (Nees & Martius, 1823: 185)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

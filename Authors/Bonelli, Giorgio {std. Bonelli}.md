@@ -18,7 +18,7 @@ Barnhart 1: 216; BM 1: 195; Jackson 320, 437; Kew 1: 295; Langman p. 148; Saccar
 
 #### Eponymy
 
-*Bonellia* Bertero ex Colla (1824).
+*Bonellia* Bertero ex Colla (1824) [^1].
 
 ### Publications
 
@@ -34,3 +34,5 @@ Barnhart 1: 216; BM 1: 195; Jackson 320, 437; Kew 1: 295; Langman p. 148; Saccar
 - O., Dict. Sci. méd., Biogr. méd. 2: 363. 1820.
 - Sotheby, Cat. Stiftung Botanik 62-63. 1975 (sold at *£* 7500).
 
+[^1]: "*Bonellia* Bertero ex Colla 1824 (Primulaceae) \[is dedicated to\] Franco Andrea Bonelli (1784–1830), Italian entomologist, ornithologist, professor of zoology, Turin (Colla, 1824: 21)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)

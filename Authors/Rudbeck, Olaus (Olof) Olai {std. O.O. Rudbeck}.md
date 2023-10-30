@@ -43,7 +43,7 @@ With his father O.J. Rudbeck, q.v., *Campus Elysius*.
 
 #### Eponymy
 
-*Rudbeckia* Linnaeus (1753).
+*Rudbeckia* Linnaeus (1753) [^1].
 
 #### Handwriting
 
@@ -69,4 +69,7 @@ C.G. *Propagatio plantarum botanico-physica*, quam experientia & rationibus stab
 
 **Notes**
 *Publ*.: 1686, p. \[i-xvi\], 1-142, *pl. 1-5*, 2 unnumbered pl., 15 vignettes. *Copies*: FI (inf. C. Steinberg), LD-Univ. (inf. O. Almborn). For further details see KR p. 606, no. 1 (coll.: tit., 142 p., \[4\], 16 vign., 5 pl.).
+
+[^1]: "*Rudbeckia* L. 1753 (Asteraceae) \[is dedicated to\] Olaus/Olof Rudbeck (1630–1702) Swedish physician, botanist, professor of anatomy and botany at Uppsala, founder of the Botanic Garden Uppsala **and** his son (of the same name) Olaus/ Olof Rudbeck (1660–1740), Swedish physician, scientist, professor of anatomy and botany, director of the Botanic Garden Uppsala, Linné’s protector (Linnaeus, 1738: 420)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

@@ -17,7 +17,7 @@ Barnhart 1: 320; BM 1: 323; CSP 1: 813; Jackson p. 68; Kew 1: 294; PR 1579-1581.
 
 #### Eponymy
 
-*Casselia* Dumortier (1822, *nom. rej.*); *Casselia* C. G. D. Nees & C. F. P. Martius (1823, *nom. cons.*)
+*Casselia* Dumortier (1822, *nom. rej.*) [^1]; *Casselia* C. G. D. Nees & C. F. P. Martius (1823, *nom. cons.*)
 
 ### Publications
 
@@ -30,4 +30,7 @@ Barnhart 1: 320; BM 1: 323; CSP 1: 813; Jackson p. 68; Kew 1: 294; PR 1579-1581.
 **Notes**
 *Publ*.: 1817, prob. Apr-Mai (p. viii: Sep 1816; Isis 1: 1037. 1817), p. \[i\]-viii, \[1\]-403, \[404, err.\] *Copies*: NY, UC.
 *Ref*.: BM 1: 323; Kew 1: 491; PR 1580.
+
+[^1]: "*Casselia* Dumort. 1822 (Boraginaceae) \[is dedicated to\] Franz Peter Cassel (1784–1821), German botanist, later in life professor of botany in Gent **and** Frans van Cassel (1745–1835) gardener, horticulturist, 1808 cofounder of the Society for Agriculture and Herbalism, in Gent (Dumortier, 1822: 21)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

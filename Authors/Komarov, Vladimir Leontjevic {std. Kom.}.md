@@ -34,7 +34,7 @@ K. SV. Vet. Akad. Handl. ser. 3. 5(1): 7. 1927.
 
 #### Eponymy (genera)
 
-*Komaroffia* O. Kuntze (1887); *Komarovia* Korovin (1939); (journals): *Komarovskie Ctenija*. Vladivostok. 1 Vol. 1947; *Komarovskie Ctenija*. Moscow & Leningrad. Vol. i-x. 1949-x.
+*Komaroffia* O. Kuntze (1887) [^1]; *Komarovia* Korovin (1939); (journals): *Komarovskie Ctenija*. Vladivostok. 1 Vol. 1947; *Komarovskie Ctenija*. Moscow & Leningrad. Vol. i-x. 1949-x.
 
 #### Postage stamps
 
@@ -1291,3 +1291,7 @@ For extensive details on this Flora see Kirpicznikov (1967); for further bibliog
 |Zosteraceae	|Juzepczuk, S. V.	|1	|265-269	|Jan 1934|
 |Zygophyllaceae	|Bobrov, E. G.	|14	|146-198	|9 Mar 1949|
 
+
+[^1]: "*Komaroffia* Kuntze 1887 (Ranunculaceae) \[is dedicated to\] A.V. Komaroff, Russian General, Governor of Turkmenistan, interested in botany and plant collector. Kuntze met him at Ashkhabad in 1886 and received plants from him (Kuntze, 1887: 144). 
+*Note*. – *Komarovia* Korovin 1939 (Apiaceae) \[is dedicated to\] Vladimir Leontjevich Komarov (1869–1945), Russian botanist."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
