@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (11.155) and [[Collection K|K]] (4300), further material at [[Collection B|B]], [[Collection BO|BO]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection CGE|CGE]], [[Collection DD|DD]], [[Collection E|E]] (ferns), [[Collection FI|FI]], [[Collection G|G]], [[Collection HAMU|HAMU]], [[Collection HH|HH]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection RAW|RAW]], [[Collection SING|SING]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]].
+[[Collection BM|BM]] (11.155) and [[Collection K|K]] (4300), further material at [[Collection B|B]], [[Collection BO|BO]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CAL|CAL]], [[Collection CGE|CGE]], [[Collection DD|DD]], [[Collection E|E]] (ferns), [[Collection FI|FI]], [[Collection G|G]], [[Collection HAMU|HAMU]], [[Collection HH (sensu TL-2)|HH]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NMW|NMW]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection RAW|RAW]], [[Collection SING|SING]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]].
 
 #### Bibliography and biography
 

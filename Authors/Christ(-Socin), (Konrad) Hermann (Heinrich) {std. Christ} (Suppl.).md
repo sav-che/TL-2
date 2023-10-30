@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BAS|BAS]]. – Further material in [[Collection AUT|AUT]], [[Collection B|B]], [[Collection BAS|BAS]] (conifers), [[Collection BERN|BERN]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection MVH|MVH]] \[[[Collection MVM|MVM]]?\], [[Collection P|P]] (herb. up to 1911 sold by Christ to [[Collection P|P]]), [[Collection WRSL|WRSL]].
+[[Collection BAS|BAS]]. – Further material in [[Collection AUT|AUT]], [[Collection B|B]], [[Collection BAS|BAS]] (conifers), [[Collection BERN|BERN]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection MVH|MVH]] \[[[Collection MVM|MVM]]?\], [[Collection P|P]] (herb. up to 1911 sold by Christ to [[Collection P|P]]), [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

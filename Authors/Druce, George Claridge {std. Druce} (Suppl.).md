@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection OXF|OXF]] (200.000), further material at [[Collection AK|AK]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NY|NY]].
+[[Collection OXF|OXF]] (200.000), further material at [[Collection AK|AK]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NY|NY]].
 
 #### Bibliography and biography
 

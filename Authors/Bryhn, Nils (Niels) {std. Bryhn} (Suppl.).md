@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection O|O]]. – Further collections at [[Collection B|B]], [[Collection BG|BG]], [[Collection BP|BP]], [[Collection C|C]] (1500), [[Collection GB|GB]] (400), [[Collection H|H]], [[Collection HH|HH]], [[Collection L|L]], [[Collection LD|LD]] (350), [[Collection NH|NH]] (100), [[Collection NY|NY]], [[Collection S|S]].
+[[Collection O|O]]. – Further collections at [[Collection B|B]], [[Collection BG|BG]], [[Collection BP|BP]], [[Collection C|C]] (1500), [[Collection GB|GB]] (400), [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection LD|LD]] (350), [[Collection NH|NH]] (100), [[Collection NY|NY]], [[Collection S|S]].
 
 #### Bibliography and biography
 

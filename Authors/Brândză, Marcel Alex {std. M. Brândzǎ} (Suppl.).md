@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BUC|BUC]], further material in [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BRA|BRA]], [[Collection CERN|CERN]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection IA|IA]], [[Collection NU|NU]], [[Collection NY|NY]], [[Collection P|P]], [[Collection STR|STR]], [[Collection W|W]]. – Issued series of *Myxomycetes de Roumanie* (at [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection IA|IA]], [[Collection NY|NY]]):
+[[Collection BUC|BUC]], further material in [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BRA|BRA]], [[Collection CERN|CERN]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection IA|IA]], [[Collection NU|NU]], [[Collection NY|NY]], [[Collection P|P]], [[Collection STR|STR]], [[Collection W|W]]. – Issued series of *Myxomycetes de Roumanie* (at [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection IA|IA]], [[Collection NY|NY]]):
 
 | | | | | | |
 |---|---|---|---|---|---|

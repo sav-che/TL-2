@@ -7,7 +7,7 @@ Cooper, George Proctor (1896-x), American forester, field assistant in tropical 
 
 #### Herbarium and types
 
-[[Collection NY|NY]](with field notes); further material at [[Collection BM|BM]], [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection PH|PH]](material from Liberia, more than 500 specimens), [[Collection US|US]], [[Collection WIS|WIS]].
+[[Collection NY|NY]](with field notes); further material at [[Collection BM|BM]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection PH|PH]](material from Liberia, more than 500 specimens), [[Collection US|US]], [[Collection WIS|WIS]].
 
 #### Bibliography and biography
 

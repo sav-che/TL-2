@@ -7,7 +7,7 @@ Collinder, Erik (1848-1920), Swedish teacher and botanist, born at Arbrå, Häls
 
 #### Herbarium and types
 
-Main material at [[Collection GB|GB]], further material in [[Collection B|B]], [[Collection HH|HH]]. – *Rosae suecicae exsiccatae* (fasc. 1 (30 nos.), 2 (35 nos.)), ed. 1913-1914. – See KR p. 131, no. 4.
+Main material at [[Collection GB|GB]], further material in [[Collection B|B]], [[Collection HH (sensu TL-2)|HH]]. – *Rosae suecicae exsiccatae* (fasc. 1 (30 nos.), 2 (35 nos.)), ed. 1913-1914. – See KR p. 131, no. 4.
 
 #### Bibliography and biography
 

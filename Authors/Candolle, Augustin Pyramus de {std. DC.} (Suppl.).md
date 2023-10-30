@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection G|G]], [[Collection G|G]]-DC (Prodromus herb.). – Further material at [[Collection AWH|AWH]], [[Collection B|B]], [[Collection DNB|DNB]] \[[[Collection DBN|DBN?]]\], [[Collection FI|FI]], [[Collection H|H]] (herb. Steven, 600 specimens of 1818-1820), [[Collection LE|LE]], [[Collection M|M]], [[Collection MP|MP]], [[Collection MPU|MPU]], [[Collection P|P]], ([[Collection PC|PC]], [[Collection P|P]]-JU, [[Collection P|P]]-LA), [[Collection PH|PH]], [[Collection PR|PR]].
+[[Collection G|G]], [[Collection G|G]]-DC (Prodromus herb.). – Further material at [[Collection AWH|AWH]], [[Collection B|B]], [[Collection DBN|DBN]], [[Collection FI|FI]], [[Collection H|H]] (herb. Steven, 600 specimens of 1818-1820), [[Collection LE|LE]], [[Collection M|M]], [[Collection MP|MP]], [[Collection MPU|MPU]], [[Collection P|P]], ([[Collection PC|PC]], [[Collection P|P]]-JU, [[Collection P|P]]-LA), [[Collection PH|PH]], [[Collection PR|PR]].
 (1) *Prodromus* herbarium on microfiche IDC 2562.
 (2) A.P. de Candolle acquired duplicates of Musci directly from Hedwig, see sub Hedwig, Herbarium and Types.
 

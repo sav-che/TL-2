@@ -7,7 +7,7 @@ Dall, William Healey (1845-1927), American palaeontologist, student of Agassiz, 
 
 #### Herbarium and types
 
-[[Collection US|US]] (orig., incl. U.S.D.A.), further material at [[Collection HH|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection P|P]]-DU, [[Collection PH|PH]], [[Collection WECO|WECO]].
+[[Collection US|US]] (orig., incl. U.S.D.A.), further material at [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection P|P]]-DU, [[Collection PH|PH]], [[Collection WECO|WECO]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Calderon, Salvador (1884-1940), Salvadorian botanist, chief of the Agricultural 
 
 #### Herbarium and types
 
-[[Collection TECLA|TECLA]] (herbarium), further material in [[Collection BM|BM]], [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection S|S]], [[Collection US|US]] (2469 orig.).
+[[Collection TECLA|TECLA]] (herbarium), further material in [[Collection BM|BM]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection S|S]], [[Collection US|US]] (2469 orig.).
 
 #### Bibliography and biography
 

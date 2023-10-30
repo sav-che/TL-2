@@ -7,7 +7,7 @@ Doassans, \[Jacques-\]Emíle (1852-1908), French "docteur en médecine" and "pr�
 
 #### Herbarium and types
 
-with Patrouillard, N.T. *Fungi exsiccati* (with ill.) *Champignons* figurés et désechés 1880-1883, [[Collection BR|BR]] (200), [[Collection HH|HH]], [[Collection PAD|PAD]], [[Collection PAV|PAV]].
+with Patrouillard, N.T. *Fungi exsiccati* (with ill.) *Champignons* figurés et désechés 1880-1883, [[Collection BR|BR]] (200), [[Collection HH (sensu TL-2)|HH]], [[Collection PAD|PAD]], [[Collection PAV|PAV]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection M|M]], for exsiccatae see TL-2/1: 65. – Herbaria holding further material: [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]] (2000), [[Collection EL|EL]], [[Collection FH|FH]], [[Collection FR|FR]], [[Collection H|H]], [[Collection IBF|IBF]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]] (1000), [[Collection LE|LE]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection MOD|MOD]], [[Collection MSTR|MSTR]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection STU|STU]], [[Collection UPS|UPS]], [[Collection W|W]], [[Collection WRSL|WRSL]].
+[[Collection M|M]], for exsiccatae see TL-2/1: 65. – Herbaria holding further material: [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]] (2000), [[Collection ER|ER]], [[Collection FH|FH]], [[Collection FR|FR]], [[Collection H|H]], [[Collection IBF|IBF]], [[Collection GOET|GOET]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]] (1000), [[Collection LE|LE]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection MOD|MOD]], [[Collection MSTR|MSTR]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection STU|STU]], [[Collection UPS|UPS]], [[Collection W|W]], [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

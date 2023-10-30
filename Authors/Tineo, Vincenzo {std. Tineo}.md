@@ -7,7 +7,7 @@ Tineo, Vincenzo (1791-1856), Italian botanist; director of the botanical garden 
 
 #### Herbarium and types
 
-[[Collection PAL|PAL]]; other material at [[Collection BASSA|BASSA]], [[Collection BR|BR]], [[Collection C|C]], [[Collection FI|FI]], [[Collection G|G]]-DC, [[Collection GOET|GOET]], [[Collection H|H]] (Stev.), [[Collection HLY|HLY]], [[Collection M|M]], [[Collection MW|MW]], [[Collection P|P]]. – Distributed sets of Sicilian plants; W.D.J. Koch at Erlangen distributed material to subscribers from a total of 175 species (Flora 16: 766. 1833). – *Letters* at [[Collection G|G]].
+[[Collection PAL|PAL]]; other material at [[Collection BASSA|BASSA]], [[Collection BR|BR]], [[Collection C|C]], [[Collection FI|FI]], [[Collection G|G]]-DC, [[Collection GOET|GOET]], [[Collection H|H]] (Stev.), [[Collection LY|LY]], [[Collection M|M]], [[Collection MW|MW]], [[Collection P|P]]. – Distributed sets of Sicilian plants; W.D.J. Koch at Erlangen distributed material to subscribers from a total of 175 species (Flora 16: 766. 1833). – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

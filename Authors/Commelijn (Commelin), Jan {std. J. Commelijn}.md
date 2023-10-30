@@ -7,7 +7,7 @@ Commelijn \[Commelin\], Jan (1629-1692), Netherlands druggist, merchant and bota
 
 #### Herbarium and types
 
-Some specimens in the Sloane herbarium (now at [[Collection BM|BM]]) – Original drawings for *Horti medici Amstelodamensis* at [[Collection AMS|AMS]].
+Some specimens in the Sloane herbarium (now at [[Collection BM|BM]]) – Original drawings for *Horti medici Amstelodamensis* at [[Collection AMS|AMS]] \[[[Collection AMD|AMD]]?\].
 *Ref*.: Dandy, The Sloane herbarium 116. 1958.
 
 #### Note on name

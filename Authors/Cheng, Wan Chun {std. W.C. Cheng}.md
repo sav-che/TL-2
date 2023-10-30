@@ -7,7 +7,7 @@ Cheng, Wan Chun (1903-1983), Chinese botanist from Sechuan (Szechuan). (*W.C. Ch
 
 #### Herbarium and types
 
-Jiangsu Botanical Institute, [[Collection BM|BM]], [[Collection CAS|CAS]], [[Collection HH|HH]], [[Collection U|U]].
+Jiangsu Botanical Institute, [[Collection BM|BM]], [[Collection CAS|CAS]], [[Collection HH (sensu TL-2)|HH]], [[Collection U|U]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-Herbarium up to 1885 acquired by NHES, present location unknown to us. – Further material at [[Collection B|B]], [[Collection HH|HH]] (impt. set), [[Collection LE|LE]], [[Collection MICH|MICH]]. [[Collection MIN|MIN]], [[Collection NY|NY]] (impt. set). – *Exsiccatae*: Mosses of the Cascade Mountains, Washington (147 nos.), Cambridge 1900. – Allen collected primarily for [[Collection GH|GH]] (now [[Collection HH|HH]]) and [[Collection NY|NY]].
+Herbarium up to 1885 acquired by NHES, present location unknown to us. – Further material at [[Collection B|B]], [[Collection HH (sensu TL-2)|HH]] (impt. set), [[Collection LE|LE]], [[Collection MICH|MICH]]. [[Collection MIN|MIN]], [[Collection NY|NY]] (impt. set). – *Exsiccatae*: Mosses of the Cascade Mountains, Washington (147 nos.), Cambridge 1900. – Allen collected primarily for [[Collection GH|GH]] (now [[Collection HH (sensu TL-2)|HH]]) and [[Collection NY|NY]].
 
 #### Note
 

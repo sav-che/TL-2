@@ -7,7 +7,7 @@ Nördlinger, Herman \[von\] (1818-1897), German forestry botanist; studied at T�
 
 #### Herbarium and types
 
-Unknown. – [[Collection N|N]] published *Querschnitte von Holzarten*, 11 vols., Stuttgart 1856-1888, 1100 plates (actually sections of wood) in boxes. Set at [[Collection HH|HH]]. (See e.g. C. Sanio, Bot. Centralbl. 39: 153-159. 1889, abstract vol. 11).
+Unknown. – [[Collection N|N]] published *Querschnitte von Holzarten*, 11 vols., Stuttgart 1856-1888, 1100 plates (actually sections of wood) in boxes. Set at [[Collection HH (sensu TL-2)|HH]]. (See e.g. C. Sanio, Bot. Centralbl. 39: 153-159. 1889, abstract vol. 11).
 
 #### Bibliography and biography
 

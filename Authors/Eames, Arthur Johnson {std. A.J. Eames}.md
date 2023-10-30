@@ -7,7 +7,7 @@ Eames, Arthur Johnson (1881-1969), American botanist, anatomist and phylogenist,
 
 #### Herbarium and types
 
-[[Collection NY|NY]], further material at [[Collection A|A]], [[Collection BISH|BISH]], [[Collection CU|CU]], [[Collection CUP|CUP]], [[Collection DBN|DBN]], [[Collection HH|HH]], [[Collection MO|MO]].
+[[Collection NY|NY]], further material at [[Collection A|A]], [[Collection BISH|BISH]], [[Collection CU|CU]], [[Collection CUP|CUP]], [[Collection DBN|DBN]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]].
 
 #### Bibliography and biography
 

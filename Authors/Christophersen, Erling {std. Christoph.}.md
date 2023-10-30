@@ -7,7 +7,7 @@ Christophersen, Erling (1898-x), Norwegian botanist, studied at Yale University 
 
 #### Herbarium and types
 
-[[Collection O|O]], further material at [[Collection BISH|BISH]], [[Collection BM|BM]]-Dixon, [[Collection BO|BO]], [[Collection C|C]], [[Collection HH|HH]], [[Collection NY|NY]], [[Collection S|S]].
+[[Collection O|O]], further material at [[Collection BISH|BISH]], [[Collection BM|BM]]-Dixon, [[Collection BO|BO]], [[Collection C|C]], [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]], [[Collection S|S]].
 
 #### Bibliography and biography
 

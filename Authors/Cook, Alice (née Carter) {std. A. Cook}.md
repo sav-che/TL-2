@@ -7,7 +7,7 @@ Cook, Alice (née Carter) (1868-x), American botanist, born at New York City 8 A
 
 #### Herbarium and types
 
-[[Collection US|US]] (1132 of Canary Islands; E. United States), further material at [[Collection CM|CM]], [[Collection DS|DS]], [[Collection GB|GB]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection K|K]] (200), [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection WELC|WELC]].
+[[Collection US|US]] (1132 of Canary Islands; E. United States), further material at [[Collection CM|CM]], [[Collection DS|DS]], [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]], [[Collection ILL|ILL]], [[Collection K|K]] (200), [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection WELC|WELC]].
 
 #### Bibliography and biography
 

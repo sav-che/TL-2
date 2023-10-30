@@ -7,7 +7,7 @@ Deflers, Albert (1841-1921), French officer and forester, some time with the Éc
 
 #### Herbarium and types
 
-[[Collection P|P]], further material at [[Collection G|G]], [[Collection HH|HH]], [[Collection LE|LE]], [[Collection MPU|MPU]], [[Collection NH|NH]] (180), [[Collection NY|NY]]. – Several sets named *Flora arabica exsiccata*, *Flora orientalis exsiccata*, *Iter arabicum secundum*.
+[[Collection P|P]], further material at [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection LE|LE]], [[Collection MPU|MPU]], [[Collection NH|NH]] (180), [[Collection NY|NY]]. – Several sets named *Flora arabica exsiccata*, *Flora orientalis exsiccata*, *Iter arabicum secundum*.
 
 #### Bibliography and biography
 

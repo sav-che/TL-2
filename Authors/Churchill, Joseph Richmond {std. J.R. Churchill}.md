@@ -7,7 +7,7 @@ Churchill, Joseph Richmond (1845-1933), American botanist, born 29 Jul 1845, Dor
 
 #### Herbarium and types
 
-[[Collection A|A]], [[Collection B|B]], [[Collection BH|BH]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NEBC|NEBC]], [[Collection RM|RM]], [[Collection US|US]].
+[[Collection A|A]], [[Collection B|B]], [[Collection BH|BH]], [[Collection HH (sensu TL-2)|HH]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NEBC|NEBC]], [[Collection RM|RM]], [[Collection US|US]].
 
 #### Bibliography and biography
 

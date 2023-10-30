@@ -7,7 +7,7 @@ Carter, William R. (fl. 1921), Canadian botanist, assistant in biology with the 
 
 #### Herbarium and types
 
-[[Collection V|V]]. – Further material in [[Collection HH|HH]], [[Collection LCU|LCU]], [[Collection POM|POM]].
+[[Collection V|V]]. – Further material in [[Collection HH (sensu TL-2)|HH]], [[Collection LCU|LCU]], [[Collection POM|POM]].
 
 #### Bibliography and biography
 

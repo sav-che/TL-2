@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection MANCH|MANCH]] (see TL-2/1: 460 for further information on his exsiccatae, *Hepaticae britannicae exsiccatae* 1878-1890 (see Schuster 1966, p. 26 and Note (3) below). – Other material: *British Hepaticae* 1874-1875, and tributed to Rabenhorst, *Bryotheca* & *Hepaticae* (Ireland); [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection PC|PC]], [[Collection PRE|PRE]], [[Collection S|S]].
+[[Collection MANCH|MANCH]] (see TL-2/1: 460 for further information on his exsiccatae, *Hepaticae britannicae exsiccatae* 1878-1890 (see Schuster 1966, p. 26 and Note (3) below). – Other material: *British Hepaticae* 1874-1875, and tributed to Rabenhorst, *Bryotheca* & *Hepaticae* (Ireland); [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection PC|PC]], [[Collection PRE|PRE]], [[Collection S|S]].
 *Letters* at [[Collection BM|BM]], [[Collection K|K]].
 *Portrait*: Manchester University.
 

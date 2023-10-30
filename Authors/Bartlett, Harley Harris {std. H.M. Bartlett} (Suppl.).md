@@ -7,7 +7,7 @@
 
 #### Herbarium and types
 
-[[Collection MICH|MICH]]; duplicates (see IH 2: 58): [[Collection A|A]], [[Collection AMES|AMES]], [[Collection B|B]], [[Collection BISH|BISH]], [[Collection C|C]], [[Collection DM|DM]], [[Collection DS|DS]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection LCU|LCU]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection PNH|PNH]], [[Collection POM|POM]], [[Collection S|S]], [[Collection SING|SING]], [[Collection TEX|TEX]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]]. − Collector's field notes: [[Collection MICH|MICH]].
+[[Collection MICH|MICH]]; duplicates (see IH 2: 58): [[Collection A|A]], [[Collection AMES|AMES]], [[Collection B|B]], [[Collection BISH|BISH]], [[Collection C|C]], [[Collection DM|DM]], [[Collection DS|DS]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection LCU|LCU]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection PNH|PNH]], [[Collection POM|POM]], [[Collection S|S]], [[Collection SING|SING]], [[Collection TEX|TEX]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]]. − Collector's field notes: [[Collection MICH|MICH]].
 
 #### Bibliography and biography
 

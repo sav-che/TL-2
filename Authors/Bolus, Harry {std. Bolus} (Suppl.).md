@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BOL|BOL]], further material at [[Collection B|B]], [[Collection BCL|BCL]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection COI|COI]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GRA|GRA]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NH|NH]], [[Collection NU|NU]], [[Collection P|P]], [[Collection PRC|PRC]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection SAM|SAM]], [[Collection STE|STE]], [[Collection TCD|TCD]], [[Collection UPS|UPS]], [[Collection VT|VT]], [[Collection W|W]], [[Collection WRSL|WRSL]], [[Collection WU|WU]], [[Collection Z|Z]].
+[[Collection BOL|BOL]], further material at [[Collection B|B]], [[Collection BCL|BCL]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection COI|COI]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GRA|GRA]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection NH|NH]], [[Collection NU|NU]], [[Collection P|P]], [[Collection PRC|PRC]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection SAM|SAM]], [[Collection STE|STE]], [[Collection TCD|TCD]], [[Collection UPS|UPS]], [[Collection VT|VT]], [[Collection W|W]], [[Collection WRSL|WRSL]], [[Collection WU|WU]], [[Collection Z|Z]].
 
 #### Bibliography and biography
 

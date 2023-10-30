@@ -7,7 +7,7 @@ Andrews, Luman (1839-1921), American botanist at Southington, Connecticut. (*L. 
 
 #### Herbarium and types
 
-[[Collection SPR|SPR]]; further material at [[Collection HH|HH]], [[Collection NEBC|NEBC]], [[Collection NY|NY]], [[Collection YU|YU]].
+[[Collection SPR|SPR]]; further material at [[Collection HH (sensu TL-2)|HH]], [[Collection NEBC|NEBC]], [[Collection NY|NY]], [[Collection YU|YU]].
 
 #### Bibliography and biography
 

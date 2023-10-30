@@ -7,7 +7,7 @@ Clements, née Schwartz, Edith Gertrude \[Edith Schwartz\] (1877-1971), American
 
 #### Herbarium and types
 
-[[Collection MIN|MIN]], further material in [[Collection B|B]], [[Collection C|C]], [[Collection DS|DS]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection ISC|ISC]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection RM|RM]], [[Collection RMS|RMS]].
+[[Collection MIN|MIN]], further material in [[Collection B|B]], [[Collection C|C]], [[Collection DS|DS]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection ISC|ISC]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection RM|RM]], [[Collection RMS|RMS]].
 
 #### Bibliography and biography
 

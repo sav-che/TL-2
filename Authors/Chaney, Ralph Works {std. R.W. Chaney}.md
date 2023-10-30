@@ -7,7 +7,7 @@ Chaney, Ralph Works (1890-\[fl. 1955\]), American geologist and paleobotanist, b
 
 #### Herbarium and types
 
-[[Collection B|B]], [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection QK|QK]], [[Collection UC|UC]], [[Collection US|US]], [[Collection W|W]].
+[[Collection B|B]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection QK|QK]], [[Collection UC|UC]], [[Collection US|US]], [[Collection W|W]].
 
 #### Bibliography and biography
 

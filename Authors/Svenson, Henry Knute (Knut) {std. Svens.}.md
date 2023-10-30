@@ -7,7 +7,7 @@ Svenson, Henry Knute \[Knut\] (1897-x), Swedish-born American botanist; Dr. phil
 
 #### Herbarium and types
 
-[[Collection BKL|BKL]]; further material at [[Collection AKAD|AKAD]], [[Collection B|B]] (mainly destr.), [[Collection CAS|CAS]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection FARM|FARM]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection S|S]], [[Collection TENN|TENN]], [[Collection UC|UC]], [[Collection US|US]].
+[[Collection BKL|BKL]]; further material at [[Collection ACAD|ACAD]], [[Collection B|B]] (mainly destr.), [[Collection CAS|CAS]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection FARM|FARM]], [[Collection GH|GH]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection MSC|MSC]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection S|S]], [[Collection TENN|TENN]], [[Collection UC|UC]], [[Collection US|US]].
 
 #### Bibliography and biography
 

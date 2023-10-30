@@ -7,7 +7,7 @@ Chivers, Arthur Houston (1880-x), American mycologist and pathologist, born at A
 
 #### Herbarium and types
 
-[[Collection CUP|CUP]], further material in [[Collection HH|HH]], [[Collection HNH|HNH]], [[Collection NY|NY]].
+[[Collection CUP|CUP]], further material in [[Collection HH (sensu TL-2)|HH]], [[Collection HNH|HNH]], [[Collection NY|NY]].
 
 #### Bibliography and biography
 

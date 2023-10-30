@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-Original fern herbarium at [[Collection BM|BM]], 12.000 duplicates at [[Collection C|C]]. – Further material at [[Collection GB|GB]], [[Collection HH|HH]].
+Original fern herbarium at [[Collection BM|BM]], 12.000 duplicates at [[Collection C|C]]. – Further material at [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]].
 
 #### Bibliography and biography
 

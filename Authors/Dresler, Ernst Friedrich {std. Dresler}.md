@@ -7,7 +7,7 @@ Dresler, Ernst Friedrich (1824-x), German botanist, teacher at gymnasium in Löw
 
 #### Herbarium and types
 
-[[Collection A|A]], [[Collection GOET|GOET]], [[Collection HH|HH]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]] (lich.), [[Collection MOD|MOD]], [[Collection WRSL|WRSL]] (lich.).
+[[Collection A|A]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection M|M]] (lich.), [[Collection MOD|MOD]], [[Collection WRSL|WRSL]] (lich.).
 
 #### Bibliography and biography
 

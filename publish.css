@@ -25,7 +25,7 @@ body {
 
 .published-container {
 	--logo-max-height: 50px;
-	--logo-radius: 0px;
+	--logo-radius: 5px;
 	--page-title-font: 'Source Sans 3';
 	--page-title-size: 35px;
 }

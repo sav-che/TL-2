@@ -7,7 +7,7 @@ Wilson, Ernest Henry (1876-1930), British-born American botanist, plant collecto
 
 #### Herbarium and types
 
-[[Collection A|A]]; other material at [[Collection AAH|AAH]], [[Collection AMES|AMES]], [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection C|C]], [[Collection CAS|CAS]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection HK|HK]], [[Collection K|K]] (major set), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PNH|PNH]], [[Collection US|US]], [[Collection W|W]]. – *Field notes and manuscripts*: [[Collection A|A]] (including Veitch letters). – *Letters* at [[Collection G|G]], [[Collection HH (modern)|HH]], [[Collection NY|NY]].
+[[Collection A|A]]; other material at [[Collection AAH|AAH]], [[Collection AMES|AMES]], [[Collection B|B]] (mainly destr.), [[Collection BM|BM]], [[Collection C|C]], [[Collection CAS|CAS]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection HK|HK]], [[Collection K|K]] (major set), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PNH|PNH]], [[Collection US|US]], [[Collection W|W]]. – *Field notes and manuscripts*: [[Collection A|A]] (including Veitch letters). – *Letters* at [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]].
 
 #### Bibliography and biography
 

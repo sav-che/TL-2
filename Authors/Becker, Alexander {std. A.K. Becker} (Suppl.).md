@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection LE|LE]] (main collections), further material (mostly distributed in series of exsiccatae) in [[Collection B|B]], [[Collection BHU|BHU]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection H|H]] (Steven), [[Collection HH|HH]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MW|MW]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection TU|TU]], [[Collection US|US]], [[Collection W|W]], [[Collection WAG|WAG]], [[Collection WB|WB]], [[Collection WRSL|WRSL]]; Berlin-Paläo., Akad. Wiss. – Many plants were distributed via Hohenacker (see also TL-2/1: 161).
+[[Collection LE|LE]] (main collections), further material (mostly distributed in series of exsiccatae) in [[Collection B|B]], [[Collection BHU|BHU]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection H|H]] (Steven), [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MW|MW]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]], [[Collection TU|TU]], [[Collection US|US]], [[Collection W|W]], [[Collection WAG|WAG]], [[Collection WB|WB]], [[Collection WRSL|WRSL]]; Berlin-Paläo., Akad. Wiss. – Many plants were distributed via Hohenacker (see also TL-2/1: 161).
 
 #### Bibliography and biography
 

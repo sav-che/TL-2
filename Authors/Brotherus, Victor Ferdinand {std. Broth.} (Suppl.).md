@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection H|H]] (120.000 specimens), for exsiccatae see TL-2/1, further material in [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection QK|QK]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PI|PI]], [[Collection S|S]]-PA, [[Collection W|W]], [[Collection WELC|WELC]], [[Collection WRSL|WRSL]].
+[[Collection H|H]] (120.000 specimens), for exsiccatae see TL-2/1, further material in [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection QK|QK]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PI|PI]], [[Collection S|S]]-PA, [[Collection W|W]], [[Collection WELC|WELC]], [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

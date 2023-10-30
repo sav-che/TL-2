@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection UPS|UPS]], duplicates in [[Collection CAN|CAN]], [[Collection HH|HH]], [[Collection M|M]] (lichens), [[Collection RM|RM]], [[Collection TNS|TNS]], [[Collection US|US]].
+[[Collection UPS|UPS]], duplicates in [[Collection CAN|CAN]], [[Collection HH (sensu TL-2)|HH]], [[Collection M|M]] (lichens), [[Collection RM|RM]], [[Collection TNS|TNS]], [[Collection US|US]].
 
 #### Bibliography and biography
 

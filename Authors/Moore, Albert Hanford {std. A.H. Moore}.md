@@ -7,7 +7,7 @@ Moore, Albert Hanford (1883-?), American botanist; AM Harvard 1906; worked at th
 
 #### Herbarium and types
 
-Mainly at [[Collection HH|HH]]; further material at [[Collection F|F]], [[Collection ISC|ISC]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PENN|PENN]], [[Collection POM|POM]].
+Mainly at [[Collection HH (sensu TL-2)|HH]]; further material at [[Collection F|F]], [[Collection ISC|ISC]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PENN|PENN]], [[Collection POM|POM]].
 
 #### Bibliography and biography
 

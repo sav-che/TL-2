@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-See TL-2/1: 407. – Main sets at [[Collection LE|LE]] and [[Collection P|P]], further material in [[Collection B|B]], [[Collection BERN|BERN]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GE|GE]], [[Collection GOET|GOET]], [[Collection H|H]](Steven), [[Collection HH|HH]], [[Collection K|K]], [[Collection KBG|KBG]], [[Collection KIEL|KIEL]], [[Collection KW|KW]], [[Collection L|L]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection TU|TU]] (Est-, Liv- and Kurland), [[Collection US|US]], [[Collection W|W]].
+See TL-2/1: 407. – Main sets at [[Collection LE|LE]] and [[Collection P|P]], further material in [[Collection B|B]], [[Collection BERN|BERN]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GE|GE]], [[Collection GOET|GOET]], [[Collection H|H]](Steven), [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection KBG|KBG]], [[Collection KIEL|KIEL]], [[Collection KW|KW]], [[Collection L|L]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection TU|TU]] (Est-, Liv- and Kurland), [[Collection US|US]], [[Collection W|W]].
 
 #### Bibliography and biography
 

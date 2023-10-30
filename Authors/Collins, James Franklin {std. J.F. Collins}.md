@@ -7,7 +7,7 @@ Collins, James Franklin (1863-1940), American botanist, born in North Anson, Mai
 
 #### Herbarium and types
 
-[[Collection HH|HH]] (rd. by New England Botanical Club 1938, commenced in 1884, 4700 specimens). – Field notes also at [[Collection HH|HH]] ([[Collection GH|GH]]). – Further material at [[Collection B|B]], [[Collection BH|BH]], [[Collection BRU|BRU]], [[Collection C|C]], [[Collection CU|CU]], [[Collection K|K]], [[Collection M|M]], [[Collection NEBC|NEBC]], [[Collection NY|NY]], [[Collection US|US]].
+[[Collection HH (sensu TL-2)|HH]] (rd. by New England Botanical Club 1938, commenced in 1884, 4700 specimens). – Field notes also at [[Collection HH (sensu TL-2)|HH]] ([[Collection GH|GH]]). – Further material at [[Collection B|B]], [[Collection BH|BH]], [[Collection BRU|BRU]], [[Collection C|C]], [[Collection CU|CU]], [[Collection K|K]], [[Collection M|M]], [[Collection NEBC|NEBC]], [[Collection NY|NY]], [[Collection US|US]].
 
 #### Bibliography and biography
 

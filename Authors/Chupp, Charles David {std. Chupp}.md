@@ -7,7 +7,7 @@ Chupp, Charles David (1886-1967), American phytopathologist, mycologist and taxo
 
 #### Herbarium and types
 
-[[Collection CUP|CUP]] (2000), further material at [[Collection HH|HH]]([[Collection FH|FH]]).
+[[Collection CUP|CUP]] (2000), further material at [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]).
 
 #### Bibliography and biography
 

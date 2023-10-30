@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (orig.) and [[Collection LINN|LINN]], further material at [[Collection B|B]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection G|G]], [[Collection HAL|HAL]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection K|K]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PH|PH]] (ex herb. Lambert), [[Collection TCD|TCD]] (lich.), [[Collection UOS|UOS]], [[Collection WRSL|WRSL]] (lich.).
+[[Collection BM|BM]] (orig.) and [[Collection LINN|LINN]], further material at [[Collection B|B]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection G|G]], [[Collection HAL|HAL]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection K|K]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PH|PH]] (ex herb. Lambert), [[Collection TCD|TCD]] (lich.), [[Collection UOS|UOS]], [[Collection WRSL|WRSL]] (lich.).
 
 #### Bibliography and biography
 

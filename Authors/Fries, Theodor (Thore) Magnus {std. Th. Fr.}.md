@@ -12,7 +12,7 @@ Fries, Theodor \[Thore\] Magnus (1832-1913), Swedish botanist, son of Elias Magn
 [[Collection UPS|UPS]]. – *Exsiccatae*:
 1. *Lichenes exsiccati Sueciae* (fasc, xii, nos. 331-360. Uppsala 1852), sets at [[Collection FH|FH]], [[Collection G|G]], [[Collection LD|LD]], [[Collection PC|PC]], [[Collection S|S]]. \[fasc, i-iv, vii-ix, xiii by E. M. Fries, v-vi, x, xiv by C. Stenhammar\].
 2. *Lichenes scandinaviae rariores et critici exsiccati* (fasc, i-iii, nos. 1-75, Uppsala 1859-1865), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection CN|CN]], [[Collection FH|FH]], [[Collection G|G]], [[Collection GB|GB]], [[Collection DUKE|DUKE]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MSTR|MSTR]], [[Collection NY|NY]], [[Collection O|O]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]].
-3. *Plantae vasculares insularum spetsbergensium hactenus lectae* (113 nos.), *Plantae vasculares in* *insula "Beeren Eiland" repertae* (38 nos.) (Uppsala 1871), sets at [[Collection B|B]], [[Collection C|C]], [[Collection CGI|CGI]][^1], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
+3. *Plantae vasculares insularum spetsbergensium hactenus lectae* (113 nos.), *Plantae vasculares in insula "Beeren Eiland" repertae* (38 nos.) (Uppsala 1871), sets at [[Collection B|B]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
 *Ref*.: GR p. 475; IH 1 (ed. 6): 358, 2: 210; KR p. 228 (nos. 126, 127, 128).
 - Anon., Flora 42: 287-288, 524-525, 608. 1859; 44: 13-34, 480. 1861.
 - Lynge, Medd. om Gronland 118(8). 1937.
@@ -130,6 +130,4 @@ For eponyms based on the name Fries, cf. supra, sub E. M. Fries.
 *Publ*.: Aug-Dec 1877, p. \[i\], \[1\]-27, \[28\]. – Ups. Soc. Sci. Nova Acta ser. 3 vol. extra ord. edit.
 *Ref*.: KR p. 224 (no. 70).
 - Anon., Hedwigia 18(2): 26-29. 1879.
-
-[^1]: [[Collection CGE|CGE]] or [[Collection CGG|CGG]] (see [[Abbreviations]])?
 

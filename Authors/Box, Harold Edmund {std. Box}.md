@@ -7,7 +7,7 @@ Box, Harold Edmund (1898-1972\[?\]), British botanist, travelled and collected i
 
 #### Herbarium and types
 
-[[Collection BM|BM]], further material at [[Collection FHI|FHI]], [[Collection HH|HH]]([[Collection A|A]]), [[Collection MO|MO]], [[Collection US|US]].
+[[Collection BM|BM]], further material at [[Collection FHI|FHI]], [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]]), [[Collection MO|MO]], [[Collection US|US]].
 
 #### Bibliography and biography
 

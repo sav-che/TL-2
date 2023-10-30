@@ -7,7 +7,7 @@ Chien, Sung-shu (Ch'ien Ch'ung-shu) (1883 \[not 1885\]-1965), Chinese botanist a
 
 #### Herbarium and types
 
-[[Collection PE|PE]] (collected especially in Havangshan Anwhei 1926 and in Western Hupeh 1921 (collected for Nanking Univ.)) – Further material at [[Collection E|E]], [[Collection HH|HH]], [[Collection LU|LU]], [[Collection NF|NF]], [[Collection P|P]], [[Collection W|W]].
+[[Collection PE|PE]] (collected especially in Havangshan Anwhei 1926 and in Western Hupeh 1921 (collected for Nanking Univ.)) – Further material at [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection LU|LU]], [[Collection NF|NF]], [[Collection P|P]], [[Collection W|W]].
 
 #### Bibliography and biography
 

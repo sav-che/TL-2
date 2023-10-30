@@ -7,7 +7,7 @@ Merrill, Elmer Drew (1876-1956), American botanist; in the Philippines 1902-1924
 
 #### Herbarium and types
 
-[[Collection A|A]], [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PNH|PNH]], [[Collection UC|UC]]. For further details see IH and [[Collection SK|SK]]. Merrill's library, medals, diplomas, and many of his manuscripts are at [[Collection NY|NY]]. *Correspondence* at [[Collection HH|HH]] and [[Collection NY|NY]]; 52 letters to Brotherus at [[Collection H|H]]-UB; other correspondence in many herbaria (e.g. [[Collection G|G]], [[Collection K|K]], [[Collection PH|PH]]) and in IAPT nomenclature files.
+[[Collection A|A]], [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PNH|PNH]], [[Collection UC|UC]]. For further details see IH and [[Collection SK|SK]]. Merrill's library, medals, diplomas, and many of his manuscripts are at [[Collection NY|NY]]. *Correspondence* at [[Collection HH (sensu TL-2)|HH]] and [[Collection NY|NY]]; 52 letters to Brotherus at [[Collection H|H]]-UB; other correspondence in many herbaria (e.g. [[Collection G|G]], [[Collection K|K]], [[Collection PH|PH]]) and in IAPT nomenclature files.
 
 #### Bibliography and biography
 

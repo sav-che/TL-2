@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection UC|UC]] (p.p. orig.), [[Collection B|B]], [[Collection BM|BM]], [[Collection BO|BO]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection G|G]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NSW|NSW]], [[Collection OKLA|OKLA]], [[Collection P|P]], [[Collection PH|PH]], [[Collection PNH|PNH]], [[Collection POM|POM]], [[Collection SACT|SACT]], [[Collection SI|SI]], [[Collection SING|SING]], [[Collection US|US]], [[Collection WELT|WELT]] (ferns).
+[[Collection UC|UC]] (p.p. orig.), [[Collection B|B]], [[Collection BM|BM]], [[Collection BO|BO]], [[Collection CUP|CUP]], [[Collection F|F]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NSW|NSW]], [[Collection OKLA|OKLA]], [[Collection P|P]], [[Collection PH|PH]], [[Collection PNH|PNH]], [[Collection POM|POM]], [[Collection SACT|SACT]], [[Collection SI|SI]], [[Collection SING|SING]], [[Collection US|US]], [[Collection WELT|WELT]] (ferns).
 
 #### Bibliography and biography
 

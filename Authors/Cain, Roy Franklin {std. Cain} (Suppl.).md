@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection TRTC|TRTC]] (crypt. orig.); further material at [[Collection BPI|BPI]], [[Collection BUT|BUT]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]] (personal coll.), [[Collection DPU|DPU]] (now [[Collection NY|NY]]), [[Collection FH|FH]], [[Collection HH|HH]], [[Collection IAC|IAC]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection TRT|TRT]], [[Collection UC|UC]], [[Collection W|W]], [[Collection WIS|WIS]].
+[[Collection TRTC|TRTC]] (crypt. orig.); further material at [[Collection BPI|BPI]], [[Collection BUT|BUT]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]] (personal coll.), [[Collection DPU|DPU]] (now [[Collection NY|NY]]), [[Collection FH|FH]], [[Collection HH (sensu TL-2)|HH]], [[Collection IAC|IAC]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection TRT|TRT]], [[Collection UC|UC]], [[Collection W|W]], [[Collection WIS|WIS]].
 
 #### Bibliography and biography
 

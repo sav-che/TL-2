@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection B|B]] (p.p. destroyed), further material at [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BOL|BOL]], [[Collection BR|BR]], [[Collection C|C]], [[Collection E|E]], [[Collection G|G]], [[Collection GRA|GRA]], [[Collection GRO|GRO]], [[Collection HBG|HBG]], [[Collection HH|HH]], [[Collection K|K]] (1960), [[Collection KMG|KMG]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]] (1050), [[Collection MO|MO]], [[Collection NBG|NBG]], [[Collection P|P]] (250), [[Collection PRE|PRE]], [[Collection S|S]], [[Collection SAM|SAM]] (530), [[Collection STE|STE]], [[Collection W|W]], [[Collection WIND|WIND]], [[Collection WRSL|WRSL]], [[Collection Z|Z]].
+[[Collection B|B]] (p.p. destroyed), further material at [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BOL|BOL]], [[Collection BR|BR]], [[Collection C|C]], [[Collection E|E]], [[Collection G|G]], [[Collection GRA|GRA]], [[Collection GRO|GRO]], [[Collection HBG|HBG]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]] (1960), [[Collection KMG|KMG]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]] (1050), [[Collection MO|MO]], [[Collection NBG|NBG]], [[Collection P|P]] (250), [[Collection PRE|PRE]], [[Collection S|S]], [[Collection SAM|SAM]] (530), [[Collection STE|STE]], [[Collection W|W]], [[Collection WIND|WIND]], [[Collection WRSL|WRSL]], [[Collection Z|Z]].
 
 #### Bibliography and biography
 

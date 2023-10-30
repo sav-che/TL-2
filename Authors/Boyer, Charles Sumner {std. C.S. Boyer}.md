@@ -7,7 +7,7 @@ Boyer, Charles Sumner (1856-1928), American diatomist, at Brown University 1875-
 
 #### Herbarium and types
 
-[[Collection PH|PH]] (diat.). − Further material at [[Collection HH|HH]]([[Collection FH|FH]]).
+[[Collection PH|PH]] (diat.). − Further material at [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]).
 
 #### Bibliography and biography
 

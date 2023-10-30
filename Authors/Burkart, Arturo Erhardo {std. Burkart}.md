@@ -7,7 +7,7 @@ Burkart, Arturo Erhardo (1906-1975), Argentinean botanist and agronomist, born i
 
 #### Herbarium and types
 
-[[Collection SI|SI]](15.000). – Further material in [[Collection B|B]], [[Collection BA|BA]], [[Collection F|F]], [[Collection GB|GB]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SP|SP]], [[Collection US|US]], [[Collection VEN|VEN]].
+[[Collection SI|SI]](15.000). – Further material in [[Collection B|B]], [[Collection BA|BA]], [[Collection F|F]], [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SP|SP]], [[Collection US|US]], [[Collection VEN|VEN]].
 
 #### Bibliography and biography
 

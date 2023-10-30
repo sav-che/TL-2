@@ -7,7 +7,7 @@ Buwalda, Pieter (1909-1947), Dutch botanist born in Exmorra, Friesland, studied 
 
 #### Herbarium and types
 
-[[Collection BO|BO]]. – Further material at [[Collection BZF|BZF]], [[Collection GRO|GRO]], [[Collection HH|HH]], [[Collection L|L]].
+[[Collection BO|BO]]. – Further material at [[Collection BZF|BZF]], [[Collection GRO|GRO]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]].
 
 #### Manuscript
 

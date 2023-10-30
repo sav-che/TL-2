@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection GOET|GOET]] (1st set), further material at [[Collection B|B]] (2nd set), [[Collection CN|CN]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection M|M]] (Lich.), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]] (509, 1700).
+[[Collection GOET|GOET]] (1st set), further material at [[Collection B|B]] (2nd set), [[Collection CN|CN]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection M|M]] (Lich.), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]] (509, 1700).
 
 #### Bibliography and biography
 

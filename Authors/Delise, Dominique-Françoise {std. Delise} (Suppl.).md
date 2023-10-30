@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection CN|CN]] (for exsiccatae see TL-2/1: 618), further material, mainly exsiccatae in [[Collection B|B]], [[Collection BM|BM]], [[Collection DUKE|DUKE]], [[Collection H|H]], [[Collection HH|HH]] ([[Collection FH|FH]]) (1901 rd. in Herbarium Arnold), [[Collection L|L]] (Lichens 6 vols.), [[Collection M|M]], [[Collection MPU|MPU]], [[Collection PC|PC]], [[Collection STR|STR]], [[Collection TL|TL]], [[Collection UPS|UPS]], [[Collection W|W]].
+[[Collection CN|CN]] (for exsiccatae see TL-2/1: 618), further material, mainly exsiccatae in [[Collection B|B]], [[Collection BM|BM]], [[Collection DUKE|DUKE]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]] ([[Collection FH|FH]]) (1901 rd. in Herbarium Arnold), [[Collection L|L]] (Lichens 6 vols.), [[Collection M|M]], [[Collection MPU|MPU]], [[Collection PC|PC]], [[Collection STR|STR]], [[Collection TL|TL]], [[Collection UPS|UPS]], [[Collection W|W]].
 
 #### Bibliography and biography
 

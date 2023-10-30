@@ -7,7 +7,7 @@ Blankinship, Joseph William (1862-1938), American botanist, studied at Harvard U
 
 #### Herbarium and types
 
-[[Collection US|US]] (orig.); further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CS|CS]], [[Collection CU|CU]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ISC|ISC]], [[Collection KSC|KSC]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection MEXU|MEXU]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection MONT|MONT]], [[Collection NH|NH]], [[Collection NMC|NMC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection RM|RM]], [[Collection RSA|RSA]], [[Collection S|S]], [[Collection WELC|WELC]], [[Collection WTU|WTU]]. − Collector's field notes at [[Collection US|US]].
+[[Collection US|US]] (orig.); further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CS|CS]], [[Collection CU|CU]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection ISC|ISC]], [[Collection KSC|KSC]], [[Collection L|L]], [[Collection LAU|LAU]], [[Collection MEXU|MEXU]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection MONT|MONT]], [[Collection NH|NH]], [[Collection NMC|NMC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection RM|RM]], [[Collection RSA|RSA]], [[Collection S|S]], [[Collection WELC|WELC]], [[Collection WTU|WTU]]. − Collector's field notes at [[Collection US|US]].
 
 #### Bibliography and biography
 

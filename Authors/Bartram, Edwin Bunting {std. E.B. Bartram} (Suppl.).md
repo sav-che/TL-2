@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (75.000), further material (incl. his *Mosses of Southern Arizona* (fasc. 1-7, nos. 1-173, Bushkill, Pa. 1924-1927)) at [[Collection B|B]], [[Collection BISH|BISH]], [[Collection CAN|CAN]], [[Collection CU|CU]], [[Collection DAD|DAD]] \[[[Collection DAO|DAO?]]\], [[Collection FM|FM]], [[Collection HH|HH]], [[Collection MICH|MICH]], [[Collection MT|MT]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection P|P]]-DU, [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection QFA|QFA]], [[Collection US|US]]. − Library acquired by [[Collection DUKE|DUKE]].
+[[Collection FH|FH]] (75.000), further material (incl. his *Mosses of Southern Arizona* (fasc. 1-7, nos. 1-173, Bushkill, Pa. 1924-1927)) at [[Collection B|B]], [[Collection BISH|BISH]], [[Collection CAN|CAN]], [[Collection CU|CU]], [[Collection DAD|DAD]] \[[[Collection DAO|DAO]]?\], [[Collection FM|FM]], [[Collection HH (sensu TL-2)|HH]], [[Collection MICH|MICH]], [[Collection MT|MT]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection P|P]]-DU, [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection QFA|QFA]], [[Collection US|US]]. − Library acquired by [[Collection DUKE|DUKE]].
 
 #### Bibliography and biography
 

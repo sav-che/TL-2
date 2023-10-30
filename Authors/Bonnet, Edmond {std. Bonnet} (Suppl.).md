@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection P|P]], [[Collection PC|PC]]; further material (mainly collected with P.N. Doumêt Adanson) in [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection FI|FI]], [[Collection HH|HH]], [[Collection LY|LY]], [[Collection TCD|TCD]].
+[[Collection P|P]], [[Collection PC|PC]]; further material (mainly collected with P.N. Doumêt Adanson) in [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection FI|FI]], [[Collection HH (sensu TL-2)|HH]], [[Collection LY|LY]], [[Collection TCD|TCD]].
 
 #### Bibliography and biography
 

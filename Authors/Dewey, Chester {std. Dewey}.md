@@ -7,7 +7,7 @@ Dewey, Chester (1784-1867), American naturalist, born in Sheffield, Mass. 15 Oct
 
 #### Herbarium and types
 
-[[Collection HH|HH]](former [[Collection GH|GH]]), further material at [[Collection B|B]], [[Collection L|L]], [[Collection PH|PH]](Carex), [[Collection US|US]] (506), [[Collection WECO|WECO]].
+[[Collection HH (sensu TL-2)|HH]](former [[Collection GH|GH]]), further material at [[Collection B|B]], [[Collection L|L]], [[Collection PH|PH]](Carex), [[Collection US|US]] (506), [[Collection WECO|WECO]].
 
 #### Bibliography and biography
 

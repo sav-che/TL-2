@@ -7,7 +7,7 @@ Woods, Albert Fred (1866-1948), American botanist; B.Sc. Univ. Nebraska 1890, M.
 
 #### Herbarium and types
 
-[[Collection NEB|NEB]]. – *Letters* at [[Collection HI|HI]].
+[[Collection NEB|NEB]]. – *Letters* at HI.
 
 #### Bibliography and biography
 

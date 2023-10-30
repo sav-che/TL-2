@@ -7,7 +7,7 @@ Pollacci, Gino (1872-1963), Italian botanist; assistant at the Botanical Garden,
 
 #### Herbarium and types
 
-[[Collection PAV|PAV]]; further material at [[Collection BRL|BRL]], [[Collection K|K]], [[Collection L|L]], [[Collection MIPU|MIPU]] \[[[Collection MIPV|MIPV]]?\], [[Collection O|O]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection ROPV|ROPV]], [[Collection S|S]], [[Collection SIENA|SIENA]], [[Collection W|W]]. – *Exsiccatae*: *Miceti patogeni* (fasc. 1-10, nos. 1-100), sets at [[Collection FH|FH]], [[Collection K|K]], [[Collection PC|PC]]; *Fungi longobardiae exsiccatae* (no further details known to us). – Letters at [[Collection G|G]].
+[[Collection PAV|PAV]]; further material at [[Collection BRL|BRL]], [[Collection K|K]], [[Collection L|L]], [[Collection MIPV|MIPV]], [[Collection O|O]], [[Collection PAD|PAD]], [[Collection PC|PC]], [[Collection ROPV|ROPV]], [[Collection S|S]], [[Collection SIENA|SIENA]], [[Collection W|W]]. – *Exsiccatae*: *Miceti patogeni* (fasc. 1-10, nos. 1-100), sets at [[Collection FH|FH]], [[Collection K|K]], [[Collection PC|PC]]; *Fungi longobardiae exsiccatae* (no further details known to us). – Letters at [[Collection G|G]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Anderson, Robert Henry (1899-1969), Australian (N.S.W.) botanist, studied at Syd
 
 #### Herbarium and types
 
-[[Collection NSW|NSW]], further material at [[Collection HH|HH]], [[Collection MEL|MEL]], [[Collection MO|MO]].
+[[Collection NSW|NSW]], further material at [[Collection HH (sensu TL-2)|HH]], [[Collection MEL|MEL]], [[Collection MO|MO]].
 
 #### Bibliography and biography
 

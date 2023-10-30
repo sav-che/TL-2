@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BM|BM]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]] (large set), [[Collection US|US]], [[Collection WELC|WELC]]. − Correspondence with Torrey at [[Collection NY|NY]].
+[[Collection BM|BM]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]] (large set), [[Collection US|US]], [[Collection WELC|WELC]]. − Correspondence with Torrey at [[Collection NY|NY]].
 
 #### Bibliography and biography
 

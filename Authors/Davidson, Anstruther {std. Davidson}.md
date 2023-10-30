@@ -7,7 +7,7 @@ Davidson, Anstruther (1860-1932), British (Scottish) botanist, born at Caithness
 
 #### Herbarium and types
 
-[[Collection LAM|LAM]], further material at [[Collection DS|DS]], [[Collection F|F]], [[Collection HH|HH]], [[Collection NY|NY]], [[Collection UC|UC]], [[Collection US|US]].
+[[Collection LAM|LAM]], further material at [[Collection DS|DS]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]], [[Collection UC|UC]], [[Collection US|US]].
 
 #### Bibliography and biography
 

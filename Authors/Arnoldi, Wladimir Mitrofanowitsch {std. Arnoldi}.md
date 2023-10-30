@@ -7,7 +7,7 @@ Arnoldi, Wladimir Mitrofanowitsch (1871-1924), Russian botanist (morphologist, a
 
 #### Herbarium and types
 
-[[Collection MW|MW]] and [[Collection LE|LE]], Indonesian algae at [[Collection BM|BM]], [[Collection HH|HH]], [[Collection L|L]].
+[[Collection MW|MW]] and [[Collection LE|LE]], Indonesian algae at [[Collection BM|BM]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]].
 
 #### Bibliography and biography
 

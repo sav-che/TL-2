@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection WIS|WIS]], further material at [[Collection CUP|CUP]], [[Collection DS|DS]], [[Collection HH|HH]] ("[[Collection FH|FH]]"), [[Collection IAC|IAC]], [[Collection ILL|ILL]], [[Collection IMI|IMI]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection TRTC|TRTC]].
+[[Collection WIS|WIS]], further material at [[Collection CUP|CUP]], [[Collection DS|DS]], [[Collection HH (sensu TL-2)|HH]] ("[[Collection FH|FH]]"), [[Collection IAC|IAC]], [[Collection ILL|ILL]], [[Collection IMI|IMI]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection TRTC|TRTC]].
 
 #### Bibliography and biography
 

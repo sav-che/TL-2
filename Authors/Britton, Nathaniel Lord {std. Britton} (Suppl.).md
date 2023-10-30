@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection NY|NY]], further material in [[Collection B|B]], [[Collection BM|BM]], [[Collection F|F]], [[Collection G|G]], [[Collection HH|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection LS|LS]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection S|S]], [[Collection TRIN|TRIN]], [[Collection US|US]]. – See IH 2: 98.
+[[Collection NY|NY]], further material in [[Collection B|B]], [[Collection BM|BM]], [[Collection F|F]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection LS|LS]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection S|S]], [[Collection TRIN|TRIN]], [[Collection US|US]]. – See IH 2: 98.
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-See TL-2/1: 571. – [[Collection MAINE|MAINE]] and [[Collection WELC|WELC]], fungi at [[Collection MICH|MICH]]. – Further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CM|CM]], [[Collection GB|GB]], [[Collection GRI|GRI]], [[Collection HH|HH]], [[Collection M|M]], [[Collection NEBC|NEBC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection S|S]].
+See TL-2/1: 571. – [[Collection MAINE|MAINE]] and [[Collection WELC|WELC]], fungi at [[Collection MICH|MICH]]. – Further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection CM|CM]], [[Collection GB|GB]], [[Collection GRI|GRI]], [[Collection HH (sensu TL-2)|HH]], [[Collection M|M]], [[Collection NEBC|NEBC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection S|S]].
 *Note*: (1): For the *Decades N. Amer. Lich.* and *Lich. bor.-amer.* see TL-2/1: 571 and Bot. Zeit. 51(II): 30. 1893 (360 nos. issued).
 (2) *Lichenes Boreali-Americana 1894-1905*, 280 numbers issued (by Cummings with T.A. Williams and A.B. Seymour). – See also Zahlbruckner, Bot. Centralbl. 93(32): 151. 18 Aug 1903.
 

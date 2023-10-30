@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection MEXU|MEXU]] (20.000 specimens), further material at [[Collection B|B]], [[Collection F|F]], [[Collection HH|HH]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection P|P]](Pterid.), [[Collection PH|PH]], [[Collection US|US]], [[Collection UT|UT]].
+[[Collection MEXU|MEXU]] (20.000 specimens), further material at [[Collection B|B]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection P|P]](Pterid.), [[Collection PH|PH]], [[Collection US|US]], [[Collection UT|UT]].
 
 #### Bibliography and biography
 

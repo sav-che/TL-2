@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection NY|NY]], duplicates at [[Collection BUF|BUF]], [[Collection CU|CU]], [[Collection HH|HH]], [[Collection MO|MO]] (F.C. Seymour herb.), [[Collection NEBC|NEBC]], [[Collection NYS|NYS]], [[Collection PH|PH]], [[Collection RUT|RUT]]. − Private library, records of specimens, field notes etc. also at [[Collection NY|NY]].
+[[Collection NY|NY]], duplicates at [[Collection BUF|BUF]], [[Collection CU|CU]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]] (F.C. Seymour herb.), [[Collection NEBC|NEBC]], [[Collection NYS|NYS]], [[Collection PH|PH]], [[Collection RUT|RUT]]. − Private library, records of specimens, field notes etc. also at [[Collection NY|NY]].
 
 #### Bibliography and biography
 

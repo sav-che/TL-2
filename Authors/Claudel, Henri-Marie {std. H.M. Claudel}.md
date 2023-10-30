@@ -7,7 +7,7 @@ Claudel, Henri-Marie (1865-1909), French industrial and especially paper-manufac
 
 #### Herbarium and types
 
-[[Collection NTM|NTM]]. – *Exsiccatae*: *Lichenes gallici praecipui exsiccati* (fasc. i-xi, nos. 1-550, 550 bis) Docellis Vogesorum, 1903-1913. Sets at [[Collection B|B]], [[Collection HH|HH]], [[Collection L|L]], [[Collection NTM|NTM]], [[Collection O|O]], [[Collection S|S]], [[Collection SI|SI]], [[Collection UPS|UPS]], [[Collection W|W]]. – Joint authors: Victor Claudel (fl. 1903-1913) and Abbé François Jules Harmand (1844-1915), (see TL-2/2: 54-55). Published 1-2: 1903, 3-5: 1904, 6-7: 1905, 8: 1906, 9: 1908, 10: Feb 1911, 11: 1913. *Ref*.: IH 2: 129; [[Collection LS|LS]] 5204, 32.096-32.097; [[Collection LS|LS]] suppl. 5220-5221; Sayre, G., Mem. New York Bot. Garden 19(1): 117. 1969; Lynge, B., Nyt Mag. Naturvidensk. 51(2-3): 102. 1913.
+[[Collection NTM|NTM]]. – *Exsiccatae*: *Lichenes gallici praecipui exsiccati* (fasc. i-xi, nos. 1-550, 550 bis) Docellis Vogesorum, 1903-1913. Sets at [[Collection B|B]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection NTM|NTM]], [[Collection O|O]], [[Collection S|S]], [[Collection SI|SI]], [[Collection UPS|UPS]], [[Collection W|W]]. – Joint authors: Victor Claudel (fl. 1903-1913) and Abbé François Jules Harmand (1844-1915), (see TL-2/2: 54-55). Published 1-2: 1903, 3-5: 1904, 6-7: 1905, 8: 1906, 9: 1908, 10: Feb 1911, 11: 1913. *Ref*.: IH 2: 129; [[Collection LS|LS]] 5204, 32.096-32.097; [[Collection LS|LS]] suppl. 5220-5221; Sayre, G., Mem. New York Bot. Garden 19(1): 117. 1969; Lynge, B., Nyt Mag. Naturvidensk. 51(2-3): 102. 1913.
 
 #### Bibliography and biography
 

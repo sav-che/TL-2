@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-Unknown; for his exsiccatae etc. see below and TL-2/1: 348. – Herbarium material, incl. exsiccatae: [[Collection B|B]], [[Collection BM|BM]], [[Collection CUP|CUP]], [[Collection GB|GB]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]], [[Collection SI|SI]], [[Collection WRSL|WRSL]]. – *Lichenes exsiccati aus der Flora Augsburgs*, Lief. 1-7, nos. 1-280, Lief. 8-10, nos. 281-420. See Sayre (1969). – *Lichenes exsiccati florae Augsburgensis* Suppl. 1: nos. 421-465, 2: nos. 467(sic)-520. See Sayre (1969). – *Lichenes exsiccati* nos. 541-580, 581-620, 621-664, 665-707. – *Lichenes aus Südbayern* nos. 708-741. – *Lichenes exsiccati aus Südbayern* nos. 742-847, 849-879, 880-920, 921-1003 (nos. 849-867 are figures, not exsiccatae). See H. Hertel (1982).
+Unknown; for his exsiccatae etc. see below and TL-2/1: 348. – Herbarium material, incl. exsiccatae: [[Collection B|B]], [[Collection BM|BM]], [[Collection CUP|CUP]], [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]], [[Collection SI|SI]], [[Collection WRSL|WRSL]]. – *Lichenes exsiccati aus der Flora Augsburgs*, Lief. 1-7, nos. 1-280, Lief. 8-10, nos. 281-420. See Sayre (1969). – *Lichenes exsiccati florae Augsburgensis* Suppl. 1: nos. 421-465, 2: nos. 467(sic)-520. See Sayre (1969). – *Lichenes exsiccati* nos. 541-580, 581-620, 621-664, 665-707. – *Lichenes aus Südbayern* nos. 708-741. – *Lichenes exsiccati aus Südbayern* nos. 742-847, 849-879, 880-920, 921-1003 (nos. 849-867 are figures, not exsiccatae). See H. Hertel (1982).
 
 #### Bibliography and biography
 

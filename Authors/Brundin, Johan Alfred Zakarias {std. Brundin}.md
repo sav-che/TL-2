@@ -7,7 +7,7 @@ Brundin, Johan Alfred Zakarias (1871-?), Swedish biologist from Torstuna, Upplan
 
 #### Herbarium and types
 
-Some material at [[Collection HH|HH]].
+Some material at [[Collection HH (sensu TL-2)|HH]].
 
 #### Bibliography and biography
 

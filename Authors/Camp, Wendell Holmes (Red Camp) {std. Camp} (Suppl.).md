@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection NY|NY]]. – Further material at [[Collection DS|DS]], [[Collection F|F]], [[Collection HH|HH]], [[Collection MICH|MICH]] (F.J. Hermann herb.), [[Collection MO|MO]], [[Collection PH|PH]] (1100), [[Collection US|US]]. – *Field notes* and accession books by W.H. Camp of his Ecuador collection at [[Collection NY|NY]], index to coll. volumes 198, 212, 213, 214, 215, 219, 220.
+[[Collection NY|NY]]. – Further material at [[Collection DS|DS]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection MICH|MICH]] (F.J. Hermann herb.), [[Collection MO|MO]], [[Collection PH|PH]] (1100), [[Collection US|US]]. – *Field notes* and accession books by W.H. Camp of his Ecuador collection at [[Collection NY|NY]], index to coll. volumes 198, 212, 213, 214, 215, 219, 220.
 
 #### Bibliography and biography
 

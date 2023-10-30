@@ -7,7 +7,7 @@ Chickering, John White, Jr. (1831-1913), American botanist, born at Bolton, Mass
 
 #### Herbarium and types
 
-[[Collection US|US]] (2000, orig.), further material in [[Collection CGE|CGE]], [[Collection F|F]], [[Collection HH|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection TENN|TENN]], [[Collection VT|VT]], [[Collection WELC|WELC]].
+[[Collection US|US]] (2000, orig.), further material in [[Collection CGE|CGE]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection TENN|TENN]], [[Collection VT|VT]], [[Collection WELC|WELC]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection NY|NY]]. – Sets of his *Fungi dakotensis*: [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection CUP|CUP]], [[Collection DAO|DAO]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection IMI|IMI]], [[Collection L|L]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NDA|NDA]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection PUR|PUR]], [[Collection RMS|RMS]], [[Collection S|S]], [[Collection TRTC|TRTC]], [[Collection U|U]], [[Collection US|US]]. Guatemalan material [[Collection MIN|MIN]], [[Collection US|US]].
+[[Collection NY|NY]]. – Sets of his *Fungi dakotensis*: [[Collection BM|BM]], [[Collection BP|BP]], [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection CUP|CUP]], [[Collection DAO|DAO]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection IMI|IMI]], [[Collection L|L]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NDA|NDA]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection PUR|PUR]], [[Collection RMS|RMS]], [[Collection S|S]], [[Collection TRTC|TRTC]], [[Collection U|U]], [[Collection US|US]]. Guatemalan material [[Collection MIN|MIN]], [[Collection US|US]].
 
 #### Bibliography and biography
 

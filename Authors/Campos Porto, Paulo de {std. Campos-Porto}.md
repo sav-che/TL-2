@@ -7,7 +7,7 @@ Campos Porto, Paulo de (1889-x), Brazilian botanist, "naturalista" at the Botani
 
 #### Herbarium and types
 
-[[Collection R|R]]. – Further material at [[Collection AMES|AMES]] ([[Collection HH|HH]]), [[Collection B|B]], [[Collection RB|RB]], [[Collection S|S]], [[Collection U|U]].
+[[Collection R|R]]. – Further material at [[Collection AMES|AMES]] ([[Collection HH (sensu TL-2)|HH]]), [[Collection B|B]], [[Collection RB|RB]], [[Collection S|S]], [[Collection U|U]].
 
 #### Bibliography and biography
 

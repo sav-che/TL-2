@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection LE|LE]], further material in [[Collection CAS|CAS]], [[Collection CN|CN]], [[Collection H|H]] (Steven?), [[Collection HH|HH]], [[Collection K|K]], [[Collection LECB|LECB]] (15.000 specim.), [[Collection M|M]], [[Collection P|P]], [[Collection PH|PH]] (via Ledebour).
+[[Collection LE|LE]], further material in [[Collection CAS|CAS]], [[Collection CN|CN]], [[Collection H|H]] (Steven?), [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LECB|LECB]] (15.000 specim.), [[Collection M|M]], [[Collection P|P]], [[Collection PH|PH]] (via Ledebour).
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@ Fraser, John (1750-1811), Scottish hosier, later plant collector and traveller i
 
 #### Herbarium and types
 
-Fraser was a professional plant collector who made several trips to North America (e.g. Newfoundland 1780-84, [[Collection USA|USA]] 1785-1796, 1808). He published Walter's *Flora caroliniana*. Various specimens are also in the Banksian herbarium ([[Collection BM|BM]]). Walter's herbarium, once also in the hands of Fraser, was presented to [[Collection LINN|LINN]] in 1849, and is now at [[Collection BM|BM]]. Other Fraser material is at [[Collection G|G]], [[Collection G|G]]-DC, [[Collection OXF|OXF]], [[Collection P|P]]-LA and [[Collection PH|PH]] (through Tuckerman).
+Fraser was a professional plant collector who made several trips to North America (e.g. Newfoundland 1780-84, USA 1785-1796, 1808). He published Walter's *Flora caroliniana*. Various specimens are also in the Banksian herbarium ([[Collection BM|BM]]). Walter's herbarium, once also in the hands of Fraser, was presented to [[Collection LINN|LINN]] in 1849, and is now at [[Collection BM|BM]]. Other Fraser material is at [[Collection G|G]], [[Collection G|G]]-DC, [[Collection OXF|OXF]], [[Collection P|P]]-LA and [[Collection PH|PH]] (through Tuckerman).
 *Ref*.: IH 2: 207.
 - Urban, Symb. ant. 3: 48-49. 1902.
 - Anon., J. Bot. 45: 255. 1907.

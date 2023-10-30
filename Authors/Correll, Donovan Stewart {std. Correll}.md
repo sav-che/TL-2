@@ -7,7 +7,7 @@ Correll, Donovan Stewart (1908-1983), American botanist, born in Wilson, North C
 
 #### Herbarium and types
 
-[[Collection DUKE|DUKE]], further material at [[Collection BUT|BUT]], [[Collection DPU|DPU]], [[Collection FTG|FTG]], [[Collection HH|HH]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection SMU|SMU]], [[Collection TEX|TEX]]([[Collection LL|LL]]), [[Collection US|US]].
+[[Collection DUKE|DUKE]], further material at [[Collection BUT|BUT]], [[Collection DPU|DPU]], [[Collection FTG|FTG]], [[Collection HH (sensu TL-2)|HH]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection SMU|SMU]], [[Collection TEX|TEX]]([[Collection LL|LL]]), [[Collection US|US]].
 
 #### Bibliography and biography
 

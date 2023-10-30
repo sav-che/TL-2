@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection UC|UC]] (orig. herb. 86.825 specimens); further material at [[Collection B|B]] (Flora of Lower Calif.), [[Collection CAS|CAS]], [[Collection COLO|COLO]], [[Collection DS|DS]], [[Collection F|F]], [[Collection HH|HH]]([[Collection A|A]], [[Collection GH|GH]]), [[Collection I|I]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NA|NA]], [[Collection NMC|NMC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection QK|QK]], [[Collection US|US]], [[Collection VT|VT]], [[Collection WELC|WELC]], [[Collection WRSL|WRSL]] (Lich.). – For his mosses distributed by NY see G. Sayre (1975).
+[[Collection UC|UC]] (orig. herb. 86.825 specimens); further material at [[Collection B|B]] (Flora of Lower Calif.), [[Collection CAS|CAS]], [[Collection COLO|COLO]], [[Collection DS|DS]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]], [[Collection GH|GH]]), [[Collection I|I]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NA|NA]], [[Collection NMC|NMC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection QK|QK]], [[Collection US|US]], [[Collection VT|VT]], [[Collection WELC|WELC]], [[Collection WRSL|WRSL]] (Lich.). – For his mosses distributed by NY see G. Sayre (1975).
 
 #### Bibliography and biography
 

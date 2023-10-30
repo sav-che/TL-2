@@ -7,7 +7,7 @@ Wall, George (1821-1894), British merchant, planter, newspaper editor and pterid
 
 #### Herbarium and types
 
-[[Collection K|K]] (fern herb.); further material in [[Collection B|B]], [[Collection E|E]], [[Collection HH (modern)|HH]], [[Collection LIV|LIV]], [[Collection PDA|PDA]].
+[[Collection K|K]] (fern herb.); further material in [[Collection B|B]], [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection LIV|LIV]], [[Collection PDA|PDA]].
 
 #### Bibliography and biography
 

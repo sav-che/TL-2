@@ -7,7 +7,7 @@ Cleland, John Burton (1878-1971), Australian microbiologist, pathologist and bac
 
 #### Herbarium and types
 
-[[Collection ADW|ADW]] (private herb.) and [[Collection AD|AD]]. – Further material at [[Collection DAR|DAR]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MEL|MEL]], [[Collection NSW|NSW]].
+[[Collection ADW|ADW]] (private herb.) and [[Collection AD|AD]]. – Further material at [[Collection DAR|DAR]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MEL|MEL]], [[Collection NSW|NSW]].
 
 #### Bibliography and biography
 

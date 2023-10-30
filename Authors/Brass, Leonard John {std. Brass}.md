@@ -7,7 +7,7 @@ Brass, Leonard John (1900-1971), Australian botanist, assistant in the Queenslan
 
 #### Herbarium and types
 
-[[Collection HH|HH]] (orig.), further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BR|BR]], [[Collection BRI|BRI]], [[Collection F|F]], [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection NSW|NSW]], [[Collection P|P]], [[Collection S|S]], [[Collection SING|SING]], [[Collection U|U]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]].
+[[Collection HH (sensu TL-2)|HH]] (orig.), further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BR|BR]], [[Collection BRI|BRI]], [[Collection F|F]], [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection NSW|NSW]], [[Collection P|P]], [[Collection S|S]], [[Collection SING|SING]], [[Collection U|U]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]].
 
 #### Bibliography and biography
 

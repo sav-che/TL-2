@@ -7,7 +7,7 @@ Corner, Edred John Henry (1906-x), British botanist, born in London, at Universi
 
 #### Herbarium and types
 
-[[Collection K|K]](1400), further material in [[Collection B|B]], [[Collection BM|BM]], [[Collection CGE|CGE]] (Ficus, Basidiom.), [[Collection E|E]], [[Collection HH|HH]], [[Collection L|L]], [[Collection NY|NY]], [[Collection SING|SING]], [[Collection W|W]].
+[[Collection K|K]](1400), further material in [[Collection B|B]], [[Collection BM|BM]], [[Collection CGE|CGE]] (Ficus, Basidiom.), [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection NY|NY]], [[Collection SING|SING]], [[Collection W|W]].
 
 #### Bibliography and biography
 

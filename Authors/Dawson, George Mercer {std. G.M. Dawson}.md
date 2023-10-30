@@ -7,7 +7,7 @@ Dawson, George Mercer (1849-1901), Canadian geologist, the son of Sir John Willi
 
 #### Herbarium and types
 
-[[Collection CAN|CAN]] and [[Collection E|E]], [[Collection HH|HH]], [[Collection K|K]].
+[[Collection CAN|CAN]] and [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]].
 
 #### Bibliography and biography
 

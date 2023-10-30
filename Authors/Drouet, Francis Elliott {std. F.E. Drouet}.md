@@ -7,7 +7,7 @@ Drouet, Francis Elliott (1907-1982), American botanist, born 1 Mar 1907 Philadel
 
 #### Herbarium and types
 
-[[Collection F|F]] (15.000), [[Collection PH|PH]], further material at [[Collection BM|BM]], [[Collection BUT|BUT]], [[Collection DS|DS]], [[Collection F|F]], [[Collection G|G]], [[Collection HH|HH]], [[Collection L|L]], [[Collection LCU|LCU]], [[Collection LY|LY]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PC|PC]], [[Collection S|S]], [[Collection SP|SP]], [[Collection US|US]].
+[[Collection F|F]] (15.000), [[Collection PH|PH]], further material at [[Collection BM|BM]], [[Collection BUT|BUT]], [[Collection DS|DS]], [[Collection F|F]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection LCU|LCU]], [[Collection LY|LY]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PC|PC]], [[Collection S|S]], [[Collection SP|SP]], [[Collection US|US]].
 
 #### Bibliography and biography
 

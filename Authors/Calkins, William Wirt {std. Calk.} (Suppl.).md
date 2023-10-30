@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection ILL|ILL]] (incl. field notes), [[Collection BPI|BPI]], [[Collection CM|CM]] (410 Lich.), [[Collection F|F]], [[Collection KSC|KSC]], [[Collection MICH|MICH]], [[Collection MTMG|MTMG]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]]. – *Exiccatae*: *Florida fungi* (1888) at [[Collection BPI|BPI]], [[Collection F|F]], [[Collection FH|FH]]([[Collection HH|HH]]), [[Collection KSC|KSC]], [[Collection MSC|MSC]], [[Collection NDA|NDA]], [[Collection NY|NY]]. – For Note on *Florida fungi* see Calkins, W.W., J. mycol 2: 6, 23, 42, 53, 70, 80, 89, 104, 126. 1886. – *Field notes*: [[Collection ILL|ILL]].
+[[Collection ILL|ILL]] (incl. field notes), [[Collection BPI|BPI]], [[Collection CM|CM]] (410 Lich.), [[Collection F|F]], [[Collection KSC|KSC]], [[Collection MICH|MICH]], [[Collection MTMG|MTMG]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]]. – *Exiccatae*: *Florida fungi* (1888) at [[Collection BPI|BPI]], [[Collection F|F]], [[Collection FH|FH]]([[Collection HH (sensu TL-2)|HH]]), [[Collection KSC|KSC]], [[Collection MSC|MSC]], [[Collection NDA|NDA]], [[Collection NY|NY]]. – For Note on *Florida fungi* see Calkins, W.W., J. mycol 2: 6, 23, 42, 53, 70, 80, 89, 104, 126. 1886. – *Field notes*: [[Collection ILL|ILL]].
 
 #### Bibliography and biography
 

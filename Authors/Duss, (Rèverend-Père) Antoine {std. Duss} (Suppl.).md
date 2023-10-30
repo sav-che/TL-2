@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection B|B]] (orig., 6700 incl. crypt.), further material at [[Collection C|C]] (338), [[Collection F|F]] (1180), [[Collection HH|HH]] (Musci), [[Collection LD|LD]], [[Collection LE|LE]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]] (ca. 1000), [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection U|U]], [[Collection US|US]] (2841). – See also TL-2/1: 713.
+[[Collection B|B]] (orig., 6700 incl. crypt.), further material at [[Collection C|C]] (338), [[Collection F|F]] (1180), [[Collection HH (sensu TL-2)|HH]] (Musci), [[Collection LD|LD]], [[Collection LE|LE]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]] (ca. 1000), [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection U|U]], [[Collection US|US]] (2841). – See also TL-2/1: 713.
 
 #### Biography and bibliography
 

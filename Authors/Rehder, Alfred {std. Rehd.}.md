@@ -7,7 +7,7 @@ Rehder, Alfred (1863-1949), German (Saxony)-born botanist, dendrologist and gard
 
 #### Herbarium and types
 
-[[Collection A|A]]; further material at [[Collection B|B]], [[Collection C|C]], [[Collection DPU|DPU]], [[Collection GH|GH]], [[Collection NY|NY]], [[Collection US|US]]. – Archival material at [[Collection FH|FH]], [[Collection HH|HH]] and SIA.
+[[Collection A|A]]; further material at [[Collection B|B]], [[Collection C|C]], [[Collection DPU|DPU]], [[Collection GH|GH]], [[Collection NY|NY]], [[Collection US|US]]. – Archival material at [[Collection FH|FH]], [[Collection HH (sensu TL-2)|HH]] and SIA.
 
 #### Bibliography and biography
 

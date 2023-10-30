@@ -7,7 +7,7 @@ Cook, Orator Fuller (1867-1949), American botanist, born in Clyde, New York, gra
 
 #### Herbarium and types
 
-[[Collection US|US]] (15.000 crypt.), further material at [[Collection BPI|BPI]], [[Collection DPU|DPU]], [[Collection HH|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]] (Hepatics), [[Collection WELC|WELC]].
+[[Collection US|US]] (15.000 crypt.), further material at [[Collection BPI|BPI]], [[Collection DPU|DPU]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]] (Hepatics), [[Collection WELC|WELC]].
 
 #### Bibliography and biography
 

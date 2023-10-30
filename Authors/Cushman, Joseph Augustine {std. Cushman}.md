@@ -7,7 +7,7 @@ Cushman, Joseph Augustine (1881-1949), American zoologist and botanist, born at 
 
 #### Herbarium and types
 
-[[Collection HH|HH]], [[Collection NY|NY]], [[Collection USNM|USNM]] (Natl. Mus.) (mainly Foraminifera but also as geologist treating Desmids, botanical material also at Harvard).
+[[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]], [[Collection USNM|USNM]] (Natl. Mus.) (mainly Foraminifera but also as geologist treating Desmids, botanical material also at Harvard).
 
 #### Bibliography and biography
 

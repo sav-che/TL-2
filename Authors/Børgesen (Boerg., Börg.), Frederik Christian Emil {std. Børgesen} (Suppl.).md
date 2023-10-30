@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection C|C]], and see TL-2/1: 248 for algae exsiccatae. Further material at [[Collection AHFM|AHFM]], [[Collection AK|AK]], [[Collection B|B]], [[Collection BG|BG]], [[Collection BM|BM]], [[Collection F|F]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MO|MO]], [[Collection O|O]], [[Collection NY|NY]], [[Collection UPS|UPS]], [[Collection PC|PC]].
+[[Collection C|C]], and see TL-2/1: 248 for algae exsiccatae. Further material at [[Collection AHFH|AHFH]], [[Collection AK|AK]], [[Collection B|B]], [[Collection BG|BG]], [[Collection BM|BM]], [[Collection F|F]], [[Collection FH|FH]], [[Collection G|G]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MO|MO]], [[Collection O|O]], [[Collection NY|NY]], [[Collection UPS|UPS]], [[Collection PC|PC]].
 
 #### Name
 

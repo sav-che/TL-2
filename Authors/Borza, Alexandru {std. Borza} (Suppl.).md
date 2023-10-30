@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection CL|CL]], further material in [[Collection B|B]], [[Collection BUC|BUC]], [[Collection CERN|CERN]], [[Collection GB|GB]], [[Collection HH|HH]], [[Collection P|P]]. − Published also *Schedae ad "Floram Romaniae exsiccatam"* a Museo botanico Univ. Clus. edit.
+[[Collection CL|CL]], further material in [[Collection B|B]], [[Collection BUC|BUC]], [[Collection CERN|CERN]], [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]], [[Collection P|P]]. − Published also *Schedae ad "Floram Romaniae exsiccatam"* a Museo botanico Univ. Clus. edit.
 
 #### Bibliography and biography
 

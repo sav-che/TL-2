@@ -7,7 +7,7 @@ Schrenk \[Schrenck\], Alexander Gustav von (1816-1876), Baltic-German botanist; 
 
 #### Herbarium and types
 
-[[Collection LE|LE]].– Further material at [[Collection A|A]], [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CN|CN]], [[Collection E|E]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HH (modern)|HH]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection MW|MW]], [[Collection NA|NA]], [[Collection OXF|OXF]], [[Collection PH|PH]], [[Collection TB|TB]], [[Collection TU|TU]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]].
+[[Collection LE|LE]].– Further material at [[Collection A|A]], [[Collection B|B]] (extant), [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CN|CN]], [[Collection E|E]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection MW|MW]], [[Collection NA|NA]], [[Collection OXF|OXF]], [[Collection PH|PH]], [[Collection TB|TB]], [[Collection TU|TU]], [[Collection U|U]], [[Collection US|US]], [[Collection W|W]].
 
 #### Bibliography and biography
 

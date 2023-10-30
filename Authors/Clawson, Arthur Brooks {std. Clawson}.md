@@ -7,7 +7,7 @@ Clawson, Arthur Brooks (1878-1937), American botanist, born at Green Lake, Wisc.
 
 #### Herbarium and types
 
-[[Collection HH|HH]] and [[Collection US|US]].
+[[Collection HH (sensu TL-2)|HH]] and [[Collection US|US]].
 
 #### Bibliography and biography
 

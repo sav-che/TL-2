@@ -7,7 +7,7 @@ Eggleston, Willard Webster (1863-1935), American agriculturalist and economic bo
 
 #### Herbarium and types
 
-Canada: [[Collection US|US]] (p.p. orig.); United States (1896-1920): [[Collection A|A]], [[Collection B|B]], [[Collection BM|BM]], [[Collection BUF|BUF]], [[Collection CM|CM]], [[Collection CU|CU]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]], [[Collection HNH|HNH]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]] (ca. 600), [[Collection PH|PH]], [[Collection POM|POM]], [[Collection TEX|TEX]], [[Collection US|US]] (p.p. orig.), [[Collection VT|VT]], [[Collection YU|YU]].
+Canada: [[Collection US|US]] (p.p. orig.); United States (1896-1920): [[Collection A|A]], [[Collection B|B]], [[Collection BM|BM]], [[Collection BUF|BUF]], [[Collection CM|CM]], [[Collection CU|CU]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection HNH|HNH]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]] (ca. 600), [[Collection PH|PH]], [[Collection POM|POM]], [[Collection TEX|TEX]], [[Collection US|US]] (p.p. orig.), [[Collection VT|VT]], [[Collection YU|YU]].
 
 #### Bibliography and biography
 

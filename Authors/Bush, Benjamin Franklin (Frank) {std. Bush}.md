@@ -7,7 +7,7 @@ Bush, Benjamin Franklin ("Frank") (1858-1937), American botanist, ornithologist,
 
 #### Herbarium and types
 
-Major set at [[Collection HH|HH]] (p.p. collected with Sargent (400 specimens), [[Collection NY|NY]] (5706), [[Collection US|US]] (10.708) and [[Collection B|B]] (1000). – Further material at [[Collection BUT|BUT]], [[Collection CGE|CGE]], [[Collection DAU|DAU]], [[Collection DBN|DBN]], [[Collection DELS|DELS]], [[Collection E|E]], [[Collection F|F]], [[Collection GB|GB]], [[Collection K|K]], [[Collection KSC|KSC]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MANCH|MANCH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NMC|NMC]], [[Collection ND|ND]], [[Collection OKLA|OKLA]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection TEX|TEX]].
+Major set at [[Collection HH (sensu TL-2)|HH]] (p.p. collected with Sargent (400 specimens), [[Collection NY|NY]] (5706), [[Collection US|US]] (10.708) and [[Collection B|B]] (1000). – Further material at [[Collection BUT|BUT]], [[Collection CGE|CGE]], [[Collection DAU|DAU]], [[Collection DBN|DBN]], [[Collection DELS|DELS]], [[Collection E|E]], [[Collection F|F]], [[Collection GB|GB]], [[Collection K|K]], [[Collection KSC|KSC]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MANCH|MANCH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NMC|NMC]], [[Collection ND|ND]], [[Collection OKLA|OKLA]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection TEX|TEX]].
 Sets distributed: *Plants of Indian Territory* (1894), *Plants of Missouri* (1894-1895), *Plants of Texas* (1901).
 
 #### Bibliography and biography

@@ -7,7 +7,7 @@ Barnes, Edward (c. 1892-1941), British Indian chemist, professor of chemistry, M
 
 #### Herbarium and types
 
-[[Collection K|K]]; further material at [[Collection HH|HH]].
+[[Collection K|K]]; further material at [[Collection HH (sensu TL-2)|HH]].
 
 #### Bibliography and biography
 

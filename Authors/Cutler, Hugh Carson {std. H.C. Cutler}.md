@@ -7,7 +7,7 @@ Cutler, Hugh Carson (1912-?), American botanist, born Milwaukee, Wisc., 8 Sep 19
 
 #### Herbarium and types
 
-[[Collection F|F]], [[Collection HH|HH]], [[Collection MO|MO]], [[Collection TAES|TAES]], [[Collection US|US]].
+[[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection TAES|TAES]], [[Collection US|US]].
 
 #### Bibliography and biography
 

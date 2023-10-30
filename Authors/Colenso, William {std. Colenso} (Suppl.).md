@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection K|K]](5115), and [[Collection WELT|WELT]] (20.000), Hepatics via Stephani at [[Collection G|G]], further material at [[Collection AK|AK]], [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection HH|HH]], [[Collection L|L]], [[Collection M|M]], [[Collection MEL|MEL]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PDD|PDD]], [[Collection TCD|TCD]], [[Collection W|W]]. – Manuscripts at Mitchell Library, Sydney.
+[[Collection K|K]](5115), and [[Collection WELT|WELT]] (20.000), Hepatics via Stephani at [[Collection G|G]], further material at [[Collection AK|AK]], [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection M|M]], [[Collection MEL|MEL]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PDD|PDD]], [[Collection TCD|TCD]], [[Collection W|W]]. – Manuscripts at Mitchell Library, Sydney.
 
 #### Bibliography and biography
 

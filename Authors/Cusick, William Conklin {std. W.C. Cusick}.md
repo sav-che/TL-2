@@ -7,7 +7,7 @@ Cusick, William Conklin (1842-1922), American botanist, born in Adams County, Il
 
 #### Herbarium and types
 
-[[Collection ORE|ORE]] (col. 1876-1902), further material at [[Collection B|B]], [[Collection BRU|BRU]], [[Collection C|C]], [[Collection CU|CU]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OSC|OSC]], [[Collection P|P]], [[Collection PH|PH]], [[Collection RM|RM]], [[Collection US|US]], [[Collection W|W]], [[Collection WELC|WELC]], [[Collection WRLS|WRLS]], [[Collection WS|WS]], [[Collection WTU|WTU]].
+[[Collection ORE|ORE]] (col. 1876-1902), further material at [[Collection B|B]], [[Collection BRU|BRU]], [[Collection C|C]], [[Collection CU|CU]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OSC|OSC]], [[Collection P|P]], [[Collection PH|PH]], [[Collection RM|RM]], [[Collection US|US]], [[Collection W|W]], [[Collection WELC|WELC]], [[Collection WRLS|WRLS]], [[Collection WS|WS]], [[Collection WTU|WTU]].
 
 #### Bibliography and biography
 

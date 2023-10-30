@@ -7,7 +7,7 @@ Bordère, Henri (1825-1889), French school teacher and botanist at Gèdre nr. Lu
 
 #### Herbarium and types
 
-[[Collection AK|AK]],[[Collection AUT|AUT]],[[Collection B|B]], [[Collection BHU|BHU]], [[Collection BORD|BORD]], [[Collection BP|BP]], [[Collection BUF|BUF]], [[Collection CN|CN]], [[Collection CORD|CORD]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GB|GB]], [[Collection HEID|HEID]], [[Collection HH|HH]], [[Collection IBF|IBF]], [[Collection JE|JE]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LG|LG]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection TCD|TCD]], [[Collection US|US]], [[Collection W|W]], [[Collection WB|WB]], [[Collection WRSL|WRSL]], [[Collection Z|Z]].
+[[Collection AK|AK]],[[Collection AUT|AUT]],[[Collection B|B]], [[Collection BHU|BHU]], [[Collection BORD|BORD]], [[Collection BP|BP]], [[Collection BUF|BUF]], [[Collection CN|CN]], [[Collection CORD|CORD]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GB|GB]], [[Collection HEID|HEID]], [[Collection HH (sensu TL-2)|HH]], [[Collection IBF|IBF]], [[Collection JE|JE]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LG|LG]], [[Collection MANCH|MANCH]], [[Collection MPU|MPU]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection TCD|TCD]], [[Collection US|US]], [[Collection W|W]], [[Collection WB|WB]], [[Collection WRSL|WRSL]], [[Collection Z|Z]].
 
 #### Bibliography and biography
 

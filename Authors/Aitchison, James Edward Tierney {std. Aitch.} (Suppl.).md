@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection K|K]] (largest set). – Further material in [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection CAL|CAL]], [[Collection CGE|CGE]], [[Collection DD|DD]], [[Collection E|E]], [[Collection FI|FI]](Webb), [[Collection HH|HH]], [[Collection KW|KW]], [[Collection LE|LE]], [[Collection MANCH|MANCH]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]]. – Botanical mss. at [[Collection K|K]], see also Bridson 269.37.
+[[Collection K|K]] (largest set). – Further material in [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection CAL|CAL]], [[Collection CGE|CGE]], [[Collection DD|DD]], [[Collection E|E]], [[Collection FI|FI]](Webb), [[Collection HH (sensu TL-2)|HH]], [[Collection KW|KW]], [[Collection LE|LE]], [[Collection MANCH|MANCH]], [[Collection P|P]], [[Collection PH|PH]], [[Collection S|S]]. – Botanical mss. at [[Collection K|K]], see also Bridson 269.37.
 
 #### Bibliography and biography
 

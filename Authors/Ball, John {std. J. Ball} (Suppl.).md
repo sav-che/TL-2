@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection E|E]] and [[Collection K|K]]; further material in [[Collection A|A]], [[Collection B|B]], [[Collection BASSA|BASSA]], [[Collection BM|BM]], [[Collection BRISTM|BRISTM]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection COLO|COLO]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection HH|HH]], [[Collection IA|IA]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NMW|NMW]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection P|P]]-CO, [[Collection PAD|PAD]], [[Collection PH|PH]], [[Collection TCD|TCD]], [[Collection UC|UC]], [[Collection US|US]], [[Collection WAR|WAR]], [[Collection WECO|WECO]], [[Collection YK|YK]].
+[[Collection E|E]] and [[Collection K|K]]; further material in [[Collection A|A]], [[Collection B|B]], [[Collection BASSA|BASSA]], [[Collection BM|BM]], [[Collection BRISTM|BRISTM]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection COLO|COLO]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]], [[Collection IA|IA]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection M|M]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NMW|NMW]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection P|P]]-CO, [[Collection PAD|PAD]], [[Collection PH|PH]], [[Collection TCD|TCD]], [[Collection UC|UC]], [[Collection US|US]], [[Collection WAR|WAR]], [[Collection WECO|WECO]], [[Collection YK|YK]].
 
 #### Bibliography and biography
 

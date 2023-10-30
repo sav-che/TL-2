@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection F|F]], further material at [[Collection B|B]], [[Collection HH|HH]], [[Collection MAD|MAD]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection US|US]].
+[[Collection F|F]], further material at [[Collection B|B]], [[Collection HH (sensu TL-2)|HH]], [[Collection MAD|MAD]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection US|US]].
 
 #### Bibliography and biography
 

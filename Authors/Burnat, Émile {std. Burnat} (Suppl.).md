@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection G|G]] (incl. Thuret-Bornet herbariun; 220.000), further material at [[Collection AK|AK]], [[Collection AUT|AUT]], [[Collection B|B]], [[Collection BP|BP]], [[Collection FI|FI]], [[Collection HH|HH]], [[Collection L|L]], [[Collection LAU|LAU]] (p.p. donated to [[Collection G|G]]), [[Collection LY|LY]], [[Collection NICE|NICE]], [[Collection P|P]], [[Collection PH|PH]], [[Collection TO|TO]].
+[[Collection G|G]] (incl. Thuret-Bornet herbariun; 220.000), further material at [[Collection AK|AK]], [[Collection AUT|AUT]], [[Collection B|B]], [[Collection BP|BP]], [[Collection FI|FI]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection LAU|LAU]] (p.p. donated to [[Collection G|G]]), [[Collection LY|LY]], [[Collection NICE|NICE]], [[Collection P|P]], [[Collection PH|PH]], [[Collection TO|TO]].
 
 #### Bibliography and biography
 

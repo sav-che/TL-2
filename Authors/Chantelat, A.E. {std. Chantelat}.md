@@ -7,7 +7,7 @@ Chantelat, A.E. (x-1856), French pharmacist and botanist at Bordeaux, later livi
 
 #### Herbarium and types
 
-[[Collection P|P]] (r. 1824), some further material at [[Collection FI|FI]], [[Collection MANCA|MANCA]].
+[[Collection P|P]] (r. 1824), some further material at [[Collection FI|FI]], [[Collection MANCA|MANCA]] \[[[Collection MANCH|MANCH]]?\].
 
 #### Bibliography and biography
 

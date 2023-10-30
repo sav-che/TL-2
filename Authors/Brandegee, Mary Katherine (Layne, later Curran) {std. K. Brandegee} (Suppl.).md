@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-Most collections now at [[Collection UC|UC]] together with those of her husband. Further material at [[Collection B|B]], [[Collection CAS|CAS]], [[Collection DS|DS]], [[Collection E|E]], [[Collection HH|HH]]([[Collection A|A]], [[Collection GH|GH]]); [[Collection K|K]], [[Collection L|L]], [[Collection MO|MO]], [[Collection NMC|NMC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection US|US]], [[Collection WELC|WELC]].
+Most collections now at [[Collection UC|UC]] together with those of her husband. Further material at [[Collection B|B]], [[Collection CAS|CAS]], [[Collection DS|DS]], [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]], [[Collection GH|GH]]); [[Collection K|K]], [[Collection L|L]], [[Collection MO|MO]], [[Collection NMC|NMC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection US|US]], [[Collection WELC|WELC]].
 
 #### Bibliography and biography
 

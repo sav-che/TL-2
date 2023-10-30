@@ -7,7 +7,7 @@ Crawford, Joseph (1858-1936), American botanist and pharmacist, born 20 Dec 1858
 
 #### Herbarium and types
 
-[[Collection F|F]], [[Collection HH|HH]], [[Collection NY|NY]], [[Collection PH|PH]].
+[[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]], [[Collection PH|PH]].
 
 #### Bibliography and biography
 

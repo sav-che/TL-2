@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection PC|PC]] (14.500), see TL-2/1: 454. – Further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection G|G]], [[Collection H|H]]-Br, [[Collection HH|HH]] ([[Collection FH|FH]]), [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection US|US]].
+[[Collection PC|PC]] (14.500), see TL-2/1: 454. – Further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection G|G]], [[Collection H|H]]-Br, [[Collection HH (sensu TL-2)|HH]] ([[Collection FH|FH]]), [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection US|US]].
 *Exsiccatae*: Renauld et Cardot, *Musci Americanae septentrionalis exsiccati* (nos. 1-400) and *Musci Europaei exsiccati* (nos. 1-300), see under Renauld, TL-2/4: 716.
 
 #### Bibliography and biography

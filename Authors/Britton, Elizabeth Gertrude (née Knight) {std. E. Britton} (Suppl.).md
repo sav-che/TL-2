@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection NY|NY]]. – Further material at [[Collection B|B]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection PC|PC]], [[Collection US|US]].
+[[Collection NY|NY]]. – Further material at [[Collection B|B]], [[Collection DBN|DBN]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection PC|PC]], [[Collection US|US]].
 
 #### Manuscripts and correspondence
 

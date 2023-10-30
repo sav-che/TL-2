@@ -7,7 +7,7 @@ Schindler, Anton Karl (1879-1964), German (Bremen) botanist; studied in Götting
 
 #### Herbarium and types
 
-material at [[Collection BM|BM]], [[Collection E|E]], [[Collection GRO|GRO]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection W|W]]. – Manuscripts, notes, sketches and photographs concerning *Desmodium* at [[Collection HH|HH]].
+material at [[Collection BM|BM]], [[Collection E|E]], [[Collection GRO|GRO]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection W|W]]. – Manuscripts, notes, sketches and photographs concerning *Desmodium* at [[Collection HH (sensu TL-2)|HH]].
 
 #### Bibliography and biography
 

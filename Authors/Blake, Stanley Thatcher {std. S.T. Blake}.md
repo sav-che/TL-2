@@ -7,7 +7,7 @@ Blake, Stanley Thatcher (1911-1973), Australian botanist, born at Brisbane, Quee
 
 #### Herbarium and types
 
-[[Collection BRI|BRI]], further material at: [[Collection B|B]], [[Collection CANB|CANB]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MEL|MEL]], [[Collection NSW|NSW]], [[Collection US|US]].
+[[Collection BRI|BRI]], further material at: [[Collection B|B]], [[Collection CANB|CANB]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MEL|MEL]], [[Collection NSW|NSW]], [[Collection US|US]].
 
 #### Bibliography and biography
 

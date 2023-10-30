@@ -7,7 +7,7 @@ Combs, Robert (1872-1899), American botanist, born 12 Feb 1872, Lyon County, Kan
 
 #### Herbarium and types
 
-[[Collection ISC|ISC]] (orig., destroyed), further material in [[Collection B|B]], [[Collection CSE|CSE]], [[Collection F|F]](1310), [[Collection HH|HH]], [[Collection K|K]] (Cuba 677, Iowa 100), [[Collection KSC|KSC]], [[Collection L|L]], [[Collection LS|LS]], [[Collection MO|MO]], [[Collection NY|NY]] (695), [[Collection P|P]], [[Collection WELC|WELC]], [[Collection Y|Y]], [[Collection US|US]].
+[[Collection ISC|ISC]] (orig., destroyed), further material in [[Collection B|B]], [[Collection CGE|CGE]], [[Collection F|F]](1310), [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]] (Cuba 677, Iowa 100), [[Collection KSC|KSC]], [[Collection L|L]], [[Collection LS|LS]], [[Collection MO|MO]], [[Collection NY|NY]] (695), [[Collection P|P]], [[Collection WELC|WELC]], [[Collection Y|Y]], [[Collection US|US]].
 
 #### Bibliography and biography
 

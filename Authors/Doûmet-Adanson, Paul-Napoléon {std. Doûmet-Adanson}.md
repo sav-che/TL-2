@@ -7,7 +7,7 @@ Doûmet-Adanson, Paul-Napoléon (1834-1897), French botanist, born Guéret (Creu
 
 #### Herbarium and types
 
-[[Collection P|P]], further material at [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection HH|HH]], [[Collection LY|LY]].
+[[Collection P|P]], further material at [[Collection AUT|AUT]], [[Collection BR|BR]], [[Collection HH (sensu TL-2)|HH]], [[Collection LY|LY]].
 
 #### Bibliography and biography
 

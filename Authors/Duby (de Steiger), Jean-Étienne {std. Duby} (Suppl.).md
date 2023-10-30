@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection G|G]], further material at [[Collection BERN|BERN]], [[Collection BORD|BORD]], [[Collection BR|BR]], [[Collection GOET|GOET]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection IBF|IBF]], [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]], [[Collection STR|STR]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection USDA|USDA]], [[Collection WRSL|WRSL]].
+[[Collection G|G]], further material at [[Collection BERN|BERN]], [[Collection BORD|BORD]], [[Collection BR|BR]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection IBF|IBF]], [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]], [[Collection STR|STR]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection USDA|USDA]], [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

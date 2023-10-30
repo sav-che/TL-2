@@ -7,7 +7,7 @@ Clokey, Ira Waddell (1878-1950), American botanist, born in Illinois, studied at
 
 #### Herbarium and types
 
-[[Collection UC|UC]] (102.600 specimens in "Clokey Herbarium"). – Some further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection CM|CM]], [[Collection HH|HH]], [[Collection IA|IA]], [[Collection LAM|LAM]], [[Collection LD|LD]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection NO|NO]], [[Collection NY|NY]], [[Collection OKLA|OKLA]], [[Collection PH|PH]], [[Collection RM|RM]], [[Collection S|S]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection WTU|WTU]]. – *Note*: (1) Mexican and Illinois material before 1912 was destroyed by fire, duplicates preserved in other herbaria; (2) See also Ewan ed. 2, p. 44 with further details especially on his collections; some notes differ from those of Reifschneider q.v.
+[[Collection UC|UC]] (102.600 specimens in "Clokey Herbarium"). – Some further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection CM|CM]], [[Collection HH (sensu TL-2)|HH]], [[Collection IA|IA]], [[Collection LAM|LAM]], [[Collection LD|LD]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection NO|NO]], [[Collection NY|NY]], [[Collection OKLA|OKLA]], [[Collection PH|PH]], [[Collection RM|RM]], [[Collection S|S]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection WTU|WTU]]. – *Note*: (1) Mexican and Illinois material before 1912 was destroyed by fire, duplicates preserved in other herbaria; (2) See also Ewan ed. 2, p. 44 with further details especially on his collections; some notes differ from those of Reifschneider q.v.
 
 #### Bibliography and biography
 

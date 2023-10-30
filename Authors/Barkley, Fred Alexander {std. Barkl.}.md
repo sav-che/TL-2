@@ -7,7 +7,7 @@ Barkley, Fred Alexander (1908-1989), American botanist and botanical collector; 
 
 #### Herbarium and types
 
-[[Collection TEX|TEX]] (orig. set Mexico 1944-1947), major sets in [[Collection ND|ND]], [[Collection NY|NY]], [[Collection OKL|OKL]], [[Collection USA|USA]]; further material: [[Collection BM|BM]], [[Collection BOG|BOG]], [[Collection BUA|BUA]], [[Collection C|C]], [[Collection COL|COL]], [[Collection DBN|DBN]], [[Collection DPU|DPU]]([[Collection NY|NY]]), [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection LA|LA]], [[Collection LIL|LIL]], [[Collection MEDEL|MEDEL]], [[Collection MEXU|MEXU]], [[Collection MO|MO]], [[Collection MONTU|MONTU]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection TAC|TAC]], [[Collection U|U]], [[Collection UC|UC]], [[Collection UCA|UCA]].
+[[Collection TEX|TEX]] (orig. set Mexico 1944-1947), major sets in [[Collection ND|ND]], [[Collection NY|NY]], [[Collection OKL|OKL]], [[Collection US|US]]; further material: [[Collection BM|BM]], [[Collection BOG|BOG]], [[Collection BUA|BUA]], [[Collection C|C]], [[Collection COL|COL]], [[Collection DBN|DBN]], [[Collection DPU|DPU]]([[Collection NY|NY]]), [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LA|LA]], [[Collection LIL|LIL]], [[Collection MEDEL|MEDEL]], [[Collection MEXU|MEXU]], [[Collection MO|MO]], [[Collection MONTU|MONTU]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection TAC|TAC]], [[Collection U|U]], [[Collection UC|UC]], [[Collection UCA|UCA]].
 
 #### Bibliography and biography
 

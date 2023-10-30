@@ -7,7 +7,7 @@ Snelling, Lilian (1879-1972), British botanical artist; at the Royal Botanic Gar
 
 #### Herbarium and types
 
-[[Collection K|K]], [[Collection NMW|NMW]]. – Original drawings mainly at [[Collection K|K]]; some at [[Collection HI|HI]].
+[[Collection K|K]], [[Collection NMW|NMW]]. – Original drawings mainly at [[Collection K|K]]; some at HI.
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Daveau, Jules Alexandre (1852-1929), French botanist, plant collector and workin
 
 #### Herbarium and types
 
-[[Collection MPU|MPU]], further collections in [[Collection AUT|AUT]], [[Collection B|B]], [[Collection CGE|CGE]], [[Collection COI|COI]], [[Collection G|G]], [[Collection HH|HH]], [[Collection LE|LE]], [[Collection LISU|LISU]], [[Collection LY|LY]], [[Collection US|US]].
+[[Collection MPU|MPU]], further collections in [[Collection AUT|AUT]], [[Collection B|B]], [[Collection CGE|CGE]], [[Collection COI|COI]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection LE|LE]], [[Collection LISU|LISU]], [[Collection LY|LY]], [[Collection US|US]].
 
 #### Bibliography and biography
 

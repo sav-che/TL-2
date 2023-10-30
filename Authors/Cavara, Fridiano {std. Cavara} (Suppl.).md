@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection NAP|NAP]], further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BUC|BUC]], [[Collection CGE|CGE]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GE|GE]], [[Collection HH|HH]], [[Collection IBT|IBT]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MICH|MICH]], [[Collection MOD|MOD]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection POR|POR]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection TLA|TLA]], [[Collection TO|TO]]. – *Exsiccati*: *Fungi Longobardiae exsiccati*, see TL-2/1: 474.
+[[Collection NAP|NAP]], further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BUC|BUC]], [[Collection CGE|CGE]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GE|GE]], [[Collection HH (sensu TL-2)|HH]], [[Collection IBF|IBF]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection MICH|MICH]], [[Collection MOD|MOD]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection POR|POR]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection TLA|TLA]], [[Collection TO|TO]]. – *Exsiccati*: *Fungi Longobardiae exsiccati*, see TL-2/1: 474.
 
 #### Bibliography and biography
 

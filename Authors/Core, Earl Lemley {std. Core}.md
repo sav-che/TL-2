@@ -7,7 +7,7 @@ Core, Earl Lemley (1902-1984), American botanist, born at Morgantown, West Virgi
 
 #### Herbarium and types
 
-[[Collection WVA|WVA]]; further material at [[Collection BUT|BUT]], [[Collection DUKE|DUKE]], [[Collection HH|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection S|S]], [[Collection U|U]], [[Collection US|US]].
+[[Collection WVA|WVA]]; further material at [[Collection BUT|BUT]], [[Collection DUKE|DUKE]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection S|S]], [[Collection U|U]], [[Collection US|US]].
 
 #### Note
 

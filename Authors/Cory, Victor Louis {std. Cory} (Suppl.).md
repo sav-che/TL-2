@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection SMU|SMU]] (herb. 13.575), [[Collection HH|HH]], [[Collection HPM|HPM]], [[Collection HOU|HOU]], [[Collection LL|LUNDELL]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OKLA|OKLA]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection RM|RM]], [[Collection TAES|TAES]], [[Collection TEX|TEX]], [[Collection TEXA|TEXA]], [[Collection US|US]]. – Field-notes at [[Collection SMU|SMU]].
+[[Collection SMU|SMU]] (herb. 13.575), [[Collection HH (sensu TL-2)|HH]], [[Collection HPM|HPM]], [[Collection HOU|HOU]], [[Collection LL|LUNDELL]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OKLA|OKLA]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection RM|RM]], [[Collection TAES|TAES]], [[Collection TEX|TEX]], [[Collection TEXA|TEXA]], [[Collection US|US]]. – Field-notes at [[Collection SMU|SMU]].
 
 #### Bibliography and biography
 

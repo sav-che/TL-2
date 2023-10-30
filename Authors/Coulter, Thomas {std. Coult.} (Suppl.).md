@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection TCD|TCD]] (150.000). – Further material at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]] (incl. field notes).
+[[Collection TCD|TCD]] (150.000). – Further material at [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]] (incl. field notes).
 
 #### Eponymy
 

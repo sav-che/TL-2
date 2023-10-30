@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-See TL-2/1: 485. – *Additional holdings*: [[Collection AUA|AUA]], [[Collection AWH|AWH]], [[Collection BM|BM]] (713 specimens), [[Collection BUF|BUF]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection DS|DS]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection HH|HH]] (incl. [[Collection FH|FH]]), [[Collection IA|IA]], [[Collection L|L]], [[Collection LIV|LIV]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]] (original herb.), [[Collection OXF|OXF]], [[Collection P|P]]-DU, [[Collection PH|PH]], [[Collection US|US]], [[Collection WECO|WECO]], [[Collection WELC|WELC]].
+See TL-2/1: 485. – *Additional holdings*: [[Collection AUA|AUA]], [[Collection AWH|AWH]], [[Collection BM|BM]] (713 specimens), [[Collection BUF|BUF]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection DS|DS]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]] (incl. [[Collection FH|FH]]), [[Collection IA|IA]], [[Collection L|L]], [[Collection LIV|LIV]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]] (original herb.), [[Collection OXF|OXF]], [[Collection P|P]]-DU, [[Collection PH|PH]], [[Collection US|US]], [[Collection WECO|WECO]], [[Collection WELC|WELC]].
 *Letters*: in Torrey correspondence at [[Collection NY|NY]].
 
 #### Bibliography and biography

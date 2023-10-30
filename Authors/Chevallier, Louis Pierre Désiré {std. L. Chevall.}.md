@@ -7,7 +7,7 @@ Chevallier, Louis Pierre Désiré (1852-1938), French clergyman and botanist, bo
 
 #### Herbarium and types
 
-Material at [[Collection AL|AL]], [[Collection B|B]], [[Collection DS|DS]], [[Collection F|F]], [[Collection GB|GB]], [[Collection GOET|GOET]]; [[Collection GRO|GRO]], [[Collection GZU|GZU]], [[Collection HH|HH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection STR|STR]], [[Collection TCD|TCD]], [[Collection U|U]], [[Collection W|W]], [[Collection WELC|WELC]] (63).
+Material at [[Collection AL|AL]], [[Collection B|B]], [[Collection DS|DS]], [[Collection F|F]], [[Collection GB|GB]], [[Collection GOET|GOET]]; [[Collection GRO|GRO]], [[Collection GZU|GZU]], [[Collection HH (sensu TL-2)|HH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection LD|LD]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection STR|STR]], [[Collection TCD|TCD]], [[Collection U|U]], [[Collection W|W]], [[Collection WELC|WELC]] (63).
 *Exsiccatae* (1): *Plantae Saharae Algeriensis exsiccatae* distributed in 2 fascicles, 1896 (1-122) and 1897 (123-254), further collections, from Mzab 1899: 106 specimen, also from 1902 and 1904, 650 numbers in all. – In part collecting with François Xavier Gillot (1842-1910), see TL-2/1: 947. (2): *Muscinées des environs de Mamers* (Sarthe) in [[Collection PC|PC]].
 
 #### Bibliography and biography

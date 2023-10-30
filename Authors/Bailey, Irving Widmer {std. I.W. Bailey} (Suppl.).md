@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection FDG|FDG]], [[Collection HH|HH]] (material from British Guinea). − Wood collection and slides at Harvard University Wood Collection, further material Forest Products Laboratory, Madison, Wisc.
+[[Collection FDG|FDG]], [[Collection HH (sensu TL-2)|HH]] (material from British Guinea). − Wood collection and slides at Harvard University Wood Collection, further material Forest Products Laboratory, Madison, Wisc.
 
 #### Bibliography and biography
 

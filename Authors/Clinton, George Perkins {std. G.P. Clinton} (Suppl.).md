@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection B|B]], [[Collection CUP|CUP]], [[Collection HH|HH]] ([[Collection FH|FH]]), [[Collection IAC|IAC]], [[Collection ILL|ILL]] (pl.), [[Collection LCU|LCU]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection PH|PH]], [[Collection PUR|PUR]], [[Collection SAM|SAM]]. – *Note*: *Supplement* to *Economic Fungi*, Ustilagineae (see Seamour-Earle, fasc. 38-45, nos. 1851-2250 (Fasc. 1-30 ed. by Savulescu)).
+[[Collection B|B]], [[Collection CUP|CUP]], [[Collection HH (sensu TL-2)|HH]] ([[Collection FH|FH]]), [[Collection IAC|IAC]], [[Collection ILL|ILL]] (pl.), [[Collection LCU|LCU]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection PH|PH]], [[Collection PUR|PUR]], [[Collection SAM|SAM]]. – *Note*: *Supplement* to *Economic Fungi*, Ustilagineae (see Seamour-Earle, fasc. 38-45, nos. 1851-2250 (Fasc. 1-30 ed. by Savulescu)).
 
 #### Bibliography and biography
 

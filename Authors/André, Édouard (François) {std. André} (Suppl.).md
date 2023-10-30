@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection K|K]] (orig. herb, 14.250), further material at [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection HH|HH]], [[Collection MPU|MPU]], [[Collection NY|NY]], [[Collection P|P]], [[Collection US|US]], [[Collection W|W]].
+[[Collection K|K]] (orig. herb, 14.250), further material at [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection MPU|MPU]], [[Collection NY|NY]], [[Collection P|P]], [[Collection US|US]], [[Collection W|W]].
 
 #### Bibliography and biography
 

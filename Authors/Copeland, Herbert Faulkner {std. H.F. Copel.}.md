@@ -7,7 +7,7 @@ Copeland, Herbert Faulkner (1902-1968), American botanist, born at Chicago, Illi
 
 #### Herbarium and types
 
-[[Collection UC|UC]], further material in [[Collection HH|HH]], [[Collection NY|NY]] (some types), [[Collection OKLA|OKLA]], [[Collection POM|POM]].
+[[Collection UC|UC]], further material in [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]] (some types), [[Collection OKLA|OKLA]], [[Collection POM|POM]].
 
 #### Bibliography and biography
 

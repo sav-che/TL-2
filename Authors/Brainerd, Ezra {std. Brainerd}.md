@@ -7,7 +7,7 @@ Brainerd, Ezra (1844-1924), American clergyman and botanist, trained for the min
 
 #### Herbarium and types
 
-[[Collection MID|MID]] (herbarium); further material at [[Collection BUF|BUF]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]] (Viola), [[Collection US|US]], [[Collection VT|VT]], [[Collection WELC|WELC]].
+[[Collection MID|MID]] (herbarium); further material at [[Collection BUF|BUF]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]] (Viola), [[Collection US|US]], [[Collection VT|VT]], [[Collection WELC|WELC]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection CAS|CAS]] (ca. 140.000), further material at [[Collection B|B]], [[Collection DS|DS]], [[Collection F|F]], [[Collection GB|GB]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LAE|LAE]], [[Collection LAM|LAM]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection US|US]], [[Collection WTU|WTU]].
+[[Collection CAS|CAS]] (ca. 140.000), further material at [[Collection B|B]], [[Collection DS|DS]], [[Collection F|F]], [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LAE|LAE]], [[Collection LAM|LAM]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection US|US]], [[Collection WTU|WTU]].
 
 #### Bibliography and biography
 

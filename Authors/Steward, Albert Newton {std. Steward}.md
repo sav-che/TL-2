@@ -7,7 +7,7 @@ Steward, Albert Newton (1897-1959), American botanist; B.S. Oregon State 1921; b
 
 #### Herbarium and types
 
-Chinese coll. 1921-1950: [[Collection A|A]] and [[Collection N|N]]; duplicates: [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (modern)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LU|LU]], [[Collection MO|MO]], [[Collection NF|NF]], [[Collection NY|NY]], [[Collection PNH|PNH]], [[Collection UC|UC]], [[Collection US|US]]. – Northwest American plants (1951-1959): [[Collection OSC|OSC]]; duplicates [[Collection DAV|DAV]], [[Collection LAM|LAM]], [[Collection W|W]], [[Collection WS|WS]]. – *Field notes*: [[Collection OSC|OSC]]. – *Letters* at [[Collection G|G]].
+Chinese coll. 1921-1950: [[Collection A|A]] and [[Collection N|N]]; duplicates: [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LU|LU]], [[Collection MO|MO]], [[Collection NF|NF]], [[Collection NY|NY]], [[Collection PNH|PNH]], [[Collection UC|UC]], [[Collection US|US]]. – Northwest American plants (1951-1959): [[Collection OSC|OSC]]; duplicates [[Collection DAV|DAV]], [[Collection LAM|LAM]], [[Collection W|W]], [[Collection WS|WS]]. – *Field notes*: [[Collection OSC|OSC]]. – *Letters* at [[Collection G|G]].
 
 #### Bibliography and biography
 

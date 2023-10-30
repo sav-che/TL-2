@@ -7,7 +7,7 @@ Smith, William (1808-1857), Irish clergyman and diatomologist; professor of natu
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (diat.), [[Collection CRK|CRK]] ("plants"); other diatom coll. at [[Collection AWM|AWM]], [[Collection PH|PH]].
+[[Collection BM|BM]] (diat.), [[Collection CRK|CRK]] ("plants"); other diatom coll. at [[Collection AWH|AWH]], [[Collection PH|PH]].
 
 #### Bibliography and biography
 

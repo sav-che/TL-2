@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-See TL-2/1: 201 and IH 2: 71. − Herbarium material in [[Collection AWM|AWM]], [[Collection B|B]], [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BOLO|BOLO]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection HH|HH]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MEDEL|MEDEL]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SGO|SGO]], [[Collection TCD|TCD]], [[Collection TO|TO]] (orig. herb.), [[Collection WB|WB]], [[Collection WRSL|WRSL]].
+See TL-2/1: 201 and IH 2: 71. − Herbarium material in [[Collection AWH|AWH]], [[Collection B|B]], [[Collection BM|BM]], [[Collection BO|BO]], [[Collection BOLO|BOLO]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection G|G]], [[Collection G|G]]-DC, [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MEDEL|MEDEL]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SGO|SGO]], [[Collection TCD|TCD]], [[Collection TO|TO]] (orig. herb.), [[Collection WB|WB]], [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

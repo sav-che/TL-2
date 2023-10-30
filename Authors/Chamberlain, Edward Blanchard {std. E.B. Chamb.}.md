@@ -7,7 +7,7 @@ Chamberlain, Edward Blanchard (1878-1925), American botanist, born at Bristol (M
 
 #### Herbarium and types
 
-[[Collection HH|HH]] (5000, incl. [[Collection NEBC|NEBC]]), further material at [[Collection BRU|BRU]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection US|US]].
+[[Collection HH (sensu TL-2)|HH]] (5000, incl. [[Collection NEBC|NEBC]]), further material at [[Collection BRU|BRU]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection US|US]].
 
 #### Bibliography and biography
 

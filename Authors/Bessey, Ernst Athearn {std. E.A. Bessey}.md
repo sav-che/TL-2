@@ -7,7 +7,7 @@ Bessey, Ernst Athearn (1877-1957), American botanist, mainly mycologist, son of 
 
 #### Herbarium and types
 
-[[Collection MSC|MSC]]. – Further material at [[Collection B|B]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MIN|MIN]], [[Collection MONT|MONT]], [[Collection MONTU|MONTU]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]].
+[[Collection MSC|MSC]]. – Further material at [[Collection B|B]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MIN|MIN]], [[Collection MONT|MONT]], [[Collection MONTU|MONTU]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]].
 
 #### Bibliography and biography
 

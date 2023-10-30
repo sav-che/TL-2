@@ -7,7 +7,7 @@ Beetle, Alan \[Allen\] Ackerman (1913-x), American botanist and collector; Dr. p
 
 #### Herbarium and types
 
-[[Collection UC|UC]] and [[Collection WYAC|WYAC]] (main colls.), further material in [[Collection AHFH|AHFH]], [[Collection BPI|BPI]], [[Collection CSAT|CSAT]], [[Collection GH|GH]], [[Collection HH|HH]], [[Collection HNH|HNH]], [[Collection L|L]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection RM|RM]], [[Collection SPH|SPH]], [[Collection US|US]].
+[[Collection UC|UC]] and [[Collection WYAC|WYAC]] (main colls.), further material in [[Collection AHFH|AHFH]], [[Collection BPI|BPI]], [[Collection CSAT|CSAT]], [[Collection GH|GH]], [[Collection HH (sensu TL-2)|HH]], [[Collection HNH|HNH]], [[Collection L|L]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection RM|RM]], [[Collection SPH|SPH]], [[Collection US|US]].
 
 #### Bibliography and biography
 

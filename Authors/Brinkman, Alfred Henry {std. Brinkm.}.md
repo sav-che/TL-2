@@ -7,7 +7,7 @@ Brinkman, Alfred Henry (1873-1945), English born bryologist, on Lighthouse servi
 
 #### Herbarium and types
 
-[[Collection HH|HH]] (6000 nos.?), further material at [[Collection ALTA|ALTA]], [[Collection B|B]], [[Collection BM|BM]], [[Collection CAFB|CAFB]], [[Collection CGE|CGE]], [[Collection CV|CV]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MT|MT]], [[Collection MTJB|MTJB]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PAE|PAE]], [[Collection PH|PH]], [[Collection QFA|QFA]], [[Collection UAC|UAC]], [[Collection US|US]], [[Collection V|V]], [[Collection W|W]], [[Collection WTU|WTU]]. – Issued also *Canadian mosses* exsicc., set of nos. 1-154 at [[Collection HH|HH]].
+[[Collection HH (sensu TL-2)|HH]] (6000 nos.?), further material at [[Collection ALTA|ALTA]], [[Collection B|B]], [[Collection BM|BM]], [[Collection CAFB|CAFB]], [[Collection CGE|CGE]], [[Collection CV|CV]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection K|K]], [[Collection MICH|MICH]], [[Collection MT|MT]], [[Collection MTJB|MTJB]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PAE|PAE]], [[Collection PH|PH]], [[Collection QFA|QFA]], [[Collection UAC|UAC]], [[Collection US|US]], [[Collection V|V]], [[Collection W|W]], [[Collection WTU|WTU]]. – Issued also *Canadian mosses* exsicc., set of nos. 1-154 at [[Collection HH (sensu TL-2)|HH]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection PC|PC]] ("special herb.", given 1863, and see TL-2/1: 630, incl. Plantes cryptog. Nord France), [[Collection AV|AV]], [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection DBN|DBN]], [[Collection DUKE|DUKE]], [[Collection G|G]], [[Collection GFW|GFW]], [[Collection GR|GR]], [[Collection H|H]], [[Collection HH|HH]](incl. [[Collection FH|FH]]), IH, [[Collection K|K]], [[Collection L|L]], [[Collection M|M]] (Lich.), [[Collection MPU|MPU]], [[Collection NEU|NEU]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]], [[Collection WRSL|WRSL]].
+[[Collection PC|PC]] ("special herb.", given 1863, and see TL-2/1: 630, incl. Plantes cryptog. Nord France), [[Collection AV|AV]], [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection DBN|DBN]], [[Collection DUKE|DUKE]], [[Collection G|G]], [[Collection GFW|GFW]], [[Collection GR|GR]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]](incl. [[Collection FH|FH]]), IH, [[Collection K|K]], [[Collection L|L]], [[Collection M|M]] (Lich.), [[Collection MPU|MPU]], [[Collection NEU|NEU]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]], [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

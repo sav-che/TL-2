@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection KW|KW]]. – Further material in [[Collection B|B]], [[Collection BMU|BMU]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection CWU|CW]], [[Collection FI|FI]], [[Collection G|G]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection G|G]]-DC, [[Collection K|K]], [[Collection KW|KW]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MO|MO]], [[Collection MW|MW]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PRC|PRC]], [[Collection TCD|TCD]], [[Collection WAG|WAG]].
+[[Collection KW|KW]]. – Further material in [[Collection B|B]], [[Collection BMU|BMU]] \[[[Collection BM|BM]]?\], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection CGE|CGE]], [[Collection CWU|CW]], [[Collection FI|FI]], [[Collection G|G]], [[Collection H|H]], [[Collection HAL|HAL]], [[Collection G|G]]-DC, [[Collection K|K]], [[Collection KW|KW]], [[Collection L|L]], [[Collection LE|LE]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MO|MO]], [[Collection MW|MW]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PRC|PRC]], [[Collection TCD|TCD]], [[Collection WAG|WAG]].
 
 #### Bibliography and biography
 

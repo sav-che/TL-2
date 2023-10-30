@@ -7,7 +7,7 @@ Descole, Horacio R. (1910-x), Argentinian botanist, Doctor in biology, "director
 
 #### Herbarium and types
 
-[[Collection LIL|LIL]] (orig), further material at [[Collection HH|HH]], [[Collection NY|NY]], [[Collection U|U]], [[Collection US|US]].
+[[Collection LIL|LIL]] (orig), further material at [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]], [[Collection U|U]], [[Collection US|US]].
 
 #### Bibliography and biography
 

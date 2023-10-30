@@ -7,7 +7,7 @@ Blomquist, Hugo Leander (1885-1964), Swedish born American botanist (bryologist)
 
 #### Herbarium and types
 
-[[Collection DUKE|DUKE]] (ca. 10.000); further material at [[Collection BUT|BUT]], [[Collection HH|HH]], [[Collection MO|MO]], [[Collection NCU|NCU]], [[Collection NY|NY]], [[Collection PENN|PENN]], [[Collection U|U]], [[Collection US|US]].
+[[Collection DUKE|DUKE]] (ca. 10.000); further material at [[Collection BUT|BUT]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection NCU|NCU]], [[Collection NY|NY]], [[Collection PENN|PENN]], [[Collection U|U]], [[Collection US|US]].
 
 #### Bibliography and biography
 

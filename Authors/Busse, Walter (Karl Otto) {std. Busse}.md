@@ -7,7 +7,7 @@ Busse, Walter \[Karl Otto\] (1865-1933), German (Berlin) botanist, studied pharm
 
 #### Herbarium and types
 
-[[Collection B|B]]. – Further material at [[Collection BM|BM]], [[Collection BR|BR]], [[Collection CA|CA]], [[Collection G|G]], [[Collection HBG|HBG]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LY|LY]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection P|P]], [[Collection PH|PH]], [[Collection W|W]], [[Collection WRSL|WRSL]].
+[[Collection B|B]]. – Further material at [[Collection BM|BM]], [[Collection BR|BR]], [[Collection EA|EA]], [[Collection G|G]], [[Collection HBG|HBG]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LY|LY]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection P|P]], [[Collection PH|PH]], [[Collection W|W]], [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

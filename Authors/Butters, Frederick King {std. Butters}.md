@@ -7,7 +7,7 @@ Butters, Frederick King (1878-1945), American botanist, attended the Central Hig
 
 #### Herbarium and types
 
-[[Collection MIN|MIN]]. – Further material at [[Collection HH|HH]], [[Collection LAM|LAM]], [[Collection MO|MO]], [[Collection NY|NY]], field notes at [[Collection MIN|MIN]].
+[[Collection MIN|MIN]]. – Further material at [[Collection HH (sensu TL-2)|HH]], [[Collection LAM|LAM]], [[Collection MO|MO]], [[Collection NY|NY]], field notes at [[Collection MIN|MIN]].
 
 #### Bibliography and biography
 

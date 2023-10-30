@@ -7,7 +7,7 @@ Castillon, Léon (fl. 1908-1928), Argentine botanist, sometime Chief of the Bota
 
 #### Herbarium and types
 
-[[Collection LIL|LIL]], further material at [[Collection AMES|AMES]], [[Collection HH|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection SI|SI]], [[Collection TEX|TEX]], [[Collection U|U]].
+[[Collection LIL|LIL]], further material at [[Collection AMES|AMES]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection SI|SI]], [[Collection TEX|TEX]], [[Collection U|U]].
 
 #### Bibliography and biography
 

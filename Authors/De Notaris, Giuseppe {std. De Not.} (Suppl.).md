@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection GE|GE]], [[Collection PAD|PAD]], [[Collection RO|RO]] & [[Collection TO|TO]], further material at [[Collection B|B]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection BASSA|BASSA]], [[Collection CN|CN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]]-DC, [[Collection GJO|GJO]], [[Collection H|H]], [[Collection HH|HH]] (Farlow), [[Collection H|H]]-SOL, [[Collection KIEL|KIEL]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection MW|MW]], [[Collection NY|NY]], [[Collection O|O]], [[Collection PC|PC]], [[Collection POR|POR]], [[Collection STR|STR]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – And see IH 2: 605-606.
+[[Collection GE|GE]], [[Collection PAD|PAD]], [[Collection RO|RO]] & [[Collection TO|TO]], further material at [[Collection B|B]], [[Collection BP|BP]], [[Collection BR|BR]], [[Collection BASSA|BASSA]], [[Collection CN|CN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]]-DC, [[Collection GJO|GJO]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]] (Farlow), [[Collection H|H]]-SOL, [[Collection KIEL|KIEL]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection MW|MW]], [[Collection NY|NY]], [[Collection O|O]], [[Collection PC|PC]], [[Collection POR|POR]], [[Collection STR|STR]], [[Collection W|W]], [[Collection WRSL|WRSL]]. – And see IH 2: 605-606.
 
 #### Exsiccatae
 

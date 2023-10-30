@@ -7,7 +7,7 @@ Lotsy, Johannes Paulus (1867-1931), Dutch botanist at Leiden, moving spirit behi
 
 #### Herbarium and types
 
-Material at [[Collection BO|BO]], [[Collection GOET|GOET]], [[Collection GRD|GRD]], [[Collection L|L]], [[Collection MO|MO]].
+Material at [[Collection BO|BO]], [[Collection GOET|GOET]], [[Collection GRO|GRO]], [[Collection L|L]], [[Collection MO|MO]].
 
 #### Bibliography and biography
 

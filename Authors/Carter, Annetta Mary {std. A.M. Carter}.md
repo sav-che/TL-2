@@ -7,7 +7,7 @@ Carter, Annetta Mary (1907-1991), American botanist, born Sierra Madre, Los Ange
 
 #### Herbarium and types
 
-[[Collection UC|UC]], further material at [[Collection HH|HH]], [[Collection US|US]].
+[[Collection UC|UC]], further material at [[Collection HH (sensu TL-2)|HH]], [[Collection US|US]].
 
 #### Bibliography and biography
 

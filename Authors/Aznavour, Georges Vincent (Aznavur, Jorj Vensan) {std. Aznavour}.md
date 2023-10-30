@@ -7,7 +7,7 @@ Aznavour, Georges Vincent \[Aznavur, Jorj Vensan\] (1861-1920), Turkish-Armenian
 
 #### Herbarium and types
 
-[[Collection E|E]] (20.000), further material in [[Collection BP|BP]], [[Collection G|G]], [[Collection GB|GB]], [[Collection HH|HH]], [[Collection LY|LY]], [[Collection MANCH|MANCH]], [[Collection NH|NH]], [[Collection W|W]]. – Aznavour's herbarium was for sometime deposited at Rumeli Hisar, Turkey (Herbarium of Robert College, [[Collection RH|RH]]), but was ultimately moved to [[Collection E|E]].
+[[Collection E|E]] (20.000), further material in [[Collection BP|BP]], [[Collection G|G]], [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]], [[Collection LY|LY]], [[Collection MANCH|MANCH]], [[Collection NH|NH]], [[Collection W|W]]. – Aznavour's herbarium was for sometime deposited at Rumeli Hisar, Turkey (Herbarium of Robert College, [[Collection RH|RH]]), but was ultimately moved to [[Collection E|E]].
 
 #### Bibliography and biography
 

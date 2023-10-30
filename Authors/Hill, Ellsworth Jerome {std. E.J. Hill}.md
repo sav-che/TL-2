@@ -7,7 +7,7 @@ Hill, Ellsworth Jerome (1833-1917), American botanist; presbyterian clergyman in
 
 #### Herbarium and types
 
-[[Collection ILL|ILL]] (16.000); other material at [[Collection DPU|DPU]], [[Collection F|F]], [[Collection ISC|ISC]], [[Collection NY|NY]], [[Collection WTO|WTO]].
+[[Collection ILL|ILL]] (16.000); other material at [[Collection DPU|DPU]], [[Collection F|F]], [[Collection ISC|ISC]], [[Collection NY|NY]], [[Collection WTO|WTO]] \[[[Collection WTU|WTU]]?\].
 
 #### Bibliography and biography
 

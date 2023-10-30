@@ -7,7 +7,7 @@ Tauscher, Gyula \[Julius August\] (1832-1882), Hungarian physician and plant col
 
 #### Herbarium and types
 
-[[Collection BP|BP]]; other material at [[Collection A|A]], [[Collection AUK|AUK]], [[Collection B|B]] (extant), [[Collection BR|BR]], [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection IBF|IBF]], [[Collection MANCH|MANCH]], [[Collection MW|MW]], [[Collection OXF|OXF]], [[Collection PH|PH]], [[Collection W|W]] (part of this material as *Flora exsiccata Csepeliensis* and/or *Flora transylvaniae*). – *Letters* at [[Collection G|G]] and [[Collection UPS|UPS]]-UB.
+[[Collection BP|BP]]; other material at [[Collection A|A]], [[Collection AK|AK]], [[Collection B|B]] (extant), [[Collection BR|BR]], [[Collection C|C]], [[Collection E|E]], [[Collection F|F]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection IBF|IBF]], [[Collection MANCH|MANCH]], [[Collection MW|MW]], [[Collection OXF|OXF]], [[Collection PH|PH]], [[Collection W|W]] (part of this material as *Flora exsiccata Csepeliensis* and/or *Flora transylvaniae*). – *Letters* at [[Collection G|G]] and [[Collection UPS|UPS]]-UB.
 
 #### Bibliography and biography
 

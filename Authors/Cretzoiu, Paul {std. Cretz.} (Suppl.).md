@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BUCA|BUCA]]/[[Collection BUC|BUC]], further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection CERN|CERN]], [[Collection CL|CL]], [[Collection GZU|GZU]], [[Collection H|H]], [[Collection HH|HH]] ([[Collection FH|FH]]-Schiffner), [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection SOM|SOM]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]], [[Collection WA|WA]].
+[[Collection BUCA|BUCA]]/[[Collection BUC|BUC]], further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection CERN|CERN]], [[Collection CL|CL]], [[Collection GZU|GZU]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]] ([[Collection FH|FH]]-Schiffner), [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection SOM|SOM]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]], [[Collection WA|WA]].
 
 #### Bibliography and biography
 

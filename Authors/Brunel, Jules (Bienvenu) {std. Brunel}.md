@@ -7,7 +7,7 @@ Brunel, Jules \[Bienvenu\] (1905-1986), Canadian botanist connected with the Uni
 
 #### Herbarium and types
 
-[[Collection MT|MT]], further material at [[Collection F|F]], [[Collection HH|HH]].
+[[Collection MT|MT]], further material at [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]].
 
 #### Bibliography and biography
 

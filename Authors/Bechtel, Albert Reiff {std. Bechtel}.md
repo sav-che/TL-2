@@ -7,7 +7,7 @@ Bechtel, Albert Reiff (1882-?), American botanist and plant collector, born at R
 
 #### Herbarium and types
 
-[[Collection PAC|PAC]]. − Further material at [[Collection BH|BH]], [[Collection CU|CU]], [[Collection HH|HH]], [[Collection IAC|IAC]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection NY|NY]], [[Collection RM|RM]], [[Collection W|W]], [[Collection WAB|WAB]], [[Collection WS|WS]].
+[[Collection PAC|PAC]]. − Further material at [[Collection BH|BH]], [[Collection CU|CU]], [[Collection HH (sensu TL-2)|HH]], [[Collection IAC|IAC]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection NY|NY]], [[Collection RM|RM]], [[Collection W|W]], [[Collection WAB|WAB]], [[Collection WS|WS]].
 
 #### Bibliography and biography
 

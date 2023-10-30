@@ -7,7 +7,7 @@ Corrêa, Manoel Pio (1874-1934), Brazilian botanist, born 6 Mai 1874 in Igreja d
 
 #### Herbarium and types
 
-[[Collection HH|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection U|U]].
+[[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection P|P]], [[Collection U|U]].
 
 #### Bibliography and biography
 

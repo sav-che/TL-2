@@ -7,7 +7,7 @@ Cooper, James Graham (1830-1902), American surgeon and naturalist, born in New Y
 
 #### Herbarium and types
 
-[[Collection BKL|BKL]], [[Collection CAS|CAS]], [[Collection HH|HH]], [[Collection NY|NY]] (incl. 2 letters to Torrey), [[Collection US|US]].
+[[Collection BKL|BKL]], [[Collection CAS|CAS]], [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]] (incl. 2 letters to Torrey), [[Collection US|US]].
 
 #### Bibliography and biography
 

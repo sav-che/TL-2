@@ -7,7 +7,7 @@ Chrysler, Mintin Asbury (1871-1963), Canadian born American botanist, sometime o
 
 #### Herbarium and types
 
-[[Collection RUT|RUT]] (New Brunswick, donated 1942 at retiring, now in [[Collection CHRB|CHRB]]), further material in [[Collection DUKE|DUKE]], [[Collection HH|HH]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]], [[Collection WS|WS]]. – Collected in Costa Rica, Cuba, New Jersey and Puerto Rico.
+[[Collection RUT|RUT]] (New Brunswick, donated 1942 at retiring, now in [[Collection CHRB|CHRB]]), further material in [[Collection DUKE|DUKE]], [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]], [[Collection WS|WS]]. – Collected in Costa Rica, Cuba, New Jersey and Puerto Rico.
 
 #### Bibliography and biography
 

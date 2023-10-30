@@ -7,7 +7,7 @@ Clapp, Asahel (1792-1862), American botanist of New Albany, Indiana. (*A. Clapp*
 
 #### Herbarium and types
 
-See C.C. Deam, *Flora of Indiana* 1940, p. 1116, material at [[Collection HH|HH]] and [[Collection WAB|WAB]] (180).
+See C.C. Deam, *Flora of Indiana* 1940, p. 1116, material at [[Collection HH (sensu TL-2)|HH]] and [[Collection WAB|WAB]] (180).
 
 #### Bibliography and biography
 

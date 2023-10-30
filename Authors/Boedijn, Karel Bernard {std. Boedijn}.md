@@ -9,7 +9,7 @@ Boedijn, Karel Bernard (1893-1964), Dutch mycologist who worked in Indonesia fro
 
 #### Herbarium and types
 
-Mainly [[Collection BO|BO]], also at [[Collection L|L]], personal herbarium at [[Collection W|W]]. The collections by van Overeem, de Haas and Boedijn (the "Mycologisch Museum te Weesp") are also at [[Collection BO|BO]] (dried specimens); the collections in liquid are at [[Collection AMS|AMS]].
+Mainly [[Collection BO|BO]], also at [[Collection L|L]], personal herbarium at [[Collection W|W]]. The collections by van Overeem, de Haas and Boedijn (the "Mycologisch Museum te Weesp") are also at [[Collection BO|BO]] (dried specimens); the collections in liquid are at [[Collection AMS|AMS]] \[[[Collection AMD|AMD]]?\].
 *Ref*.: IH 2: 81.
 - Donk, Persoonia 3(3): 325. 1965.
 

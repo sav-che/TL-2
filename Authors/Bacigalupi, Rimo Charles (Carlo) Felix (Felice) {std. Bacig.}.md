@@ -7,7 +7,7 @@ Bacigalupi, Rimo Charles \[Carlo\] Felix \[Felice\] (1901-x), American botanist 
 
 #### Herbarium and types
 
-[[Collection JEPS|JEPS]] (incl. field notes), [[Collection DS|DS]]. − Further material in [[Collection HH|HH]], [[Collection POM|POM]], [[Collection RSA|RSA]], [[Collection S|S]], [[Collection WTU|WTU]].
+[[Collection JEPS|JEPS]] (incl. field notes), [[Collection DS|DS]]. − Further material in [[Collection HH (sensu TL-2)|HH]], [[Collection POM|POM]], [[Collection RSA|RSA]], [[Collection S|S]], [[Collection WTU|WTU]].
 
 #### Bibliography and biography
 

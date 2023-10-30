@@ -7,7 +7,7 @@ Chapman, Valentine Jackson (1910-1980), British botanist, born in Alcester, Warw
 
 #### Herbarium and types
 
-[[Collection AKU|AKU]], – Further material at [[Collection BM|BM]], [[Collection F|F]], [[Collection HH|HH]], [[Collection IJ|IJ]], [[Collection MANCH|MANCH]].
+[[Collection AKU|AKU]], – Further material at [[Collection BM|BM]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection IJ|IJ]], [[Collection MANCH|MANCH]].
 *Ref*.: Koster, J.Th., Taxon 18: 530. 1969.
 
 #### Bibliography and biography

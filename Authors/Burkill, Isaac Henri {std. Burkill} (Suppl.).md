@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-main sets at [[Collection CAL|CAL]], [[Collection K|K]] and [[Collection SING|SING]]. Further material at [[Collection BO|BO]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection E|E]]-GL, [[Collection HH|HH]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PNH|PNH]], [[Collection US|US]]. – *Manuscripts* at [[Collection K|K]]. – For further mss. see G.D.R. Bridson et al., Nat. Hist. mss. Resources Brit. Isl. 128.1, 269.88, 269.169, 269.288.
+main sets at [[Collection CAL|CAL]], [[Collection K|K]] and [[Collection SING|SING]]. Further material at [[Collection BO|BO]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection E|E]]-GL, [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]], [[Collection P|P]], [[Collection PNH|PNH]], [[Collection US|US]]. – *Manuscripts* at [[Collection K|K]]. – For further mss. see G.D.R. Bridson et al., Nat. Hist. mss. Resources Brit. Isl. 128.1, 269.88, 269.169, 269.288.
 
 #### Bibliography and biography
 

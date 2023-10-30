@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection HH|HH]], further material at [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection PH|PH]], [[Collection US|US]], [[Collection VT|VT]].
+[[Collection HH (sensu TL-2)|HH]], further material at [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection PH|PH]], [[Collection US|US]], [[Collection VT|VT]].
 
 #### Bibliography and biography
 

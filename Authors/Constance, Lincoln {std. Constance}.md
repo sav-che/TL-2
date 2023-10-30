@@ -7,7 +7,7 @@ Constance, Lincoln (1909-x), American botanist, born at Eugene, Oregon, studied 
 
 #### Herbarium and types
 
-[[Collection UC|UC]] (ca. 12.000, orig.). – Further material at [[Collection BUT|BUT]], [[Collection HH|HH]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection MONTU|MONTU]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection RM|RM]], [[Collection S|S]], [[Collection US|US]], [[Collection WS|WS]], [[Collection WTU|WTU]]. – Collections mainly of Western North America (1928-1956) and Temperate South America (Chile and Peru 1954).
+[[Collection UC|UC]] (ca. 12.000, orig.). – Further material at [[Collection BUT|BUT]], [[Collection HH (sensu TL-2)|HH]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection MONTU|MONTU]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection RM|RM]], [[Collection S|S]], [[Collection US|US]], [[Collection WS|WS]], [[Collection WTU|WTU]]. – Collections mainly of Western North America (1928-1956) and Temperate South America (Chile and Peru 1954).
 
 #### Bibliography and biography
 

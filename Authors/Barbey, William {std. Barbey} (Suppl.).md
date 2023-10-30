@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection G|G]] (based on his acquisition of the herbarium of G.F. Reuter, developing the Herbier Boissier collections through the acquisition of the Müller Arg., Duby, Fuckel, Bornet and Stephani collections. After Barbey's death the collections of the Herbier Boissier were transferred to the University of Genève, later transferred to the Conservatoire botanique, Chambésy, Genève. Barbey duplicates of his own collections are at [[Collection B|B]], [[Collection BM|BM]], [[Collection HH|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection M|M]], [[Collection P|P]]. − See IH 2: 54.
+[[Collection G|G]] (based on his acquisition of the herbarium of G.F. Reuter, developing the Herbier Boissier collections through the acquisition of the Müller Arg., Duby, Fuckel, Bornet and Stephani collections. After Barbey's death the collections of the Herbier Boissier were transferred to the University of Genève, later transferred to the Conservatoire botanique, Chambésy, Genève. Barbey duplicates of his own collections are at [[Collection B|B]], [[Collection BM|BM]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection M|M]], [[Collection P|P]]. − See IH 2: 54.
 
 #### Bibliography and biography
 

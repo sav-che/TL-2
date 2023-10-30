@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-Original herbarium (11.216 herb. sheets) at the [[Collection IISL|International Institute of Ligurian Studies at Bordighera]] (see E. Martini 1981), important sets of material at [[Collection GE|GE]] and [[Collection TO|TO]], further material at [[Collection AK|AK]], [[Collection AMES|AMES]], [[Collection B|B]], [[Collection BHA|BHA]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection W|W]]. − Letters at [[Collection BM|BM]]; see also TL-2/1: 211 for drawings.
+Original herbarium (11.216 herb. sheets) at the [[Collection IISL|International Institute of Ligurian Studies at Bordighera]] (see E. Martini 1981), important sets of material at [[Collection GE|GE]] and [[Collection TO|TO]], further material at [[Collection AK|AK]], [[Collection AMES|AMES]], [[Collection B|B]], [[Collection BHA|BHA]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection W|W]]. − Letters at [[Collection BM|BM]]; see also TL-2/1: 211 for drawings.
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection LL|LL]] at Renner, Texas (personal herb. and library), [[Collection US|US]] (orig.), further material at [[Collection A|A]], [[Collection B|B]], [[Collection BM|BM]], [[Collection FI|FI]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection LAM|LAM]], [[Collection LCU|LCU]], [[Collection M|M]] (lich.), [[Collection MAD|MAD]], [[Collection MT|MT]], [[Collection NA|NA]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection TEX|TEX]], [[Collection US|US]]. − Field notes at [[Collection TEX|TEX]], see also Huntia 4: 153. 1982.
+[[Collection LL|LL]] at Renner, Texas (personal herb. and library), [[Collection US|US]] (orig.), further material at [[Collection A|A]], [[Collection B|B]], [[Collection BM|BM]], [[Collection FI|FI]], [[Collection HH (sensu TL-2)|HH]], [[Collection ILL|ILL]], [[Collection K|K]], [[Collection L|L]], [[Collection LAM|LAM]], [[Collection LCU|LCU]], [[Collection M|M]] (lich.), [[Collection MAD|MAD]], [[Collection MT|MT]], [[Collection NA|NA]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection TEX|TEX]], [[Collection US|US]]. − Field notes at [[Collection TEX|TEX]], see also Huntia 4: 153. 1982.
 
 #### Bibliography and biography
 

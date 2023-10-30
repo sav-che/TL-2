@@ -7,7 +7,7 @@ Buchanan, John, Rev. C.M.G. (1855-1896), British (Scottish) missionary born at P
 
 #### Herbarium and types
 
-[[Collection BM|BM]] (1115) and [[Collection K|K]] (2380), further material at [[Collection B|B]] (2000), [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection HH|HH]], [[Collection LE|LE]], [[Collection MO|MO]], [[Collection NH|NH]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection SAM|SAM]], [[Collection W|W]].
+[[Collection BM|BM]] (1115) and [[Collection K|K]] (2380), further material at [[Collection B|B]] (2000), [[Collection DBN|DBN]], [[Collection E|E]], [[Collection F|F]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection LE|LE]], [[Collection MO|MO]], [[Collection NH|NH]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection SAM|SAM]], [[Collection W|W]].
 
 #### Bibliography and biography
 

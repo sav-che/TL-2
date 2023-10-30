@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-See TL-2/1: 744, IH 2: 182 and [[Collection SK|SK]] 1: 151-152. Though Elmer is widely known for his collections of the Philippines and Southeast Asia he also collected extensively in Washington and Idaho. Lists of these collections were published in? 1895, 1896, and 1897 under the title "Plants of Washington and Idaho" (232, 200, and 500 specimens). Copies of these lists are at [[Collection HH|HH]] and [[Collection MO|MO]] (cf. also J.H. Thomas, Huntia 3(1): 35. 1979).
+See TL-2/1: 744, IH 2: 182 and [[Collection SK|SK]] 1: 151-152. Though Elmer is widely known for his collections of the Philippines and Southeast Asia he also collected extensively in Washington and Idaho. Lists of these collections were published in? 1895, 1896, and 1897 under the title "Plants of Washington and Idaho" (232, 200, and 500 specimens). Copies of these lists are at [[Collection HH (sensu TL-2)|HH]] and [[Collection MO|MO]] (cf. also J.H. Thomas, Huntia 3(1): 35. 1979).
 
 #### Bibliography and biography
 

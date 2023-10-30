@@ -7,7 +7,7 @@ Cratty, Robert Irvin (1853-1940), American botanist and educator, born in Butler
 
 #### Herbarium and types
 
-[[Collection IA|IA]], [[Collection ISC|ISC]], further material at [[Collection CGE|CGE]], [[Collection F|F]], [[Collection HH|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection US|US]].
+[[Collection IA|IA]], [[Collection ISC|ISC]], further material at [[Collection CGE|CGE]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection US|US]].
 
 #### Bibliography and biography
 

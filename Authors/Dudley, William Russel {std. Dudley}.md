@@ -7,7 +7,7 @@ Dudley, William Russel (1849-1911), American botanist, born 1 Mar 1849 at Guilfo
 
 #### Herbarium and types
 
-[[Collection DS|DS]] (original herbarium), [[Collection B|B]], [[Collection CAS|CAS]], [[Collection CU|CU]], [[Collection CUB|CUB]], [[Collection HH|HH]], [[Collection U|U]].
+[[Collection DS|DS]] (original herbarium), [[Collection B|B]], [[Collection CAS|CAS]], [[Collection CU|CU]], [[Collection CUP|CUP]], [[Collection HH (sensu TL-2)|HH]], [[Collection U|U]].
 
 #### Bibliography and biography
 

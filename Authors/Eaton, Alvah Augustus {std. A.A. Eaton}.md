@@ -7,7 +7,7 @@ Eaton, Alvah Augustus (1865-1908), American botanist, mainly pteridologist, born
 
 #### Herbarium and types
 
-[[Collection AMES|AMES]], [[Collection B|B]], [[Collection BUT|BUT]], [[Collection COCO|COCO]], [[Collection F|F]], [[Collection FI|FI]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]], [[Collection WELC|WELC]].
+[[Collection AMES|AMES]], [[Collection B|B]], [[Collection BUT|BUT]], [[Collection COCO|COCO]], [[Collection F|F]], [[Collection FI|FI]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]], [[Collection WELC|WELC]].
 
 #### Bibliography and biography
 

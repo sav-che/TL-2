@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection P|P]] (15.600. orig. herb) & [[Collection PC|PC]], further material at [[Collection B|B]], [[Collection F|F]], [[Collection H|H]], [[Collection HH|HH]] ("[[Collection A|A]]"), [[Collection K|K]] (520 specim. from Yunnan), [[Collection L|L]], [[Collection LE|LE]], [[Collection MO|MO]], [[Collection SHMH|SHMH]], [[Collection US|US]].
+[[Collection P|P]] (15.600. orig. herb) & [[Collection PC|PC]], further material at [[Collection B|B]], [[Collection F|F]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]] ("[[Collection A|A]]"), [[Collection K|K]] (520 specim. from Yunnan), [[Collection L|L]], [[Collection LE|LE]], [[Collection MO|MO]], [[Collection SHMH|SHMH]], [[Collection US|US]].
 
 #### Bibliography and biography
 

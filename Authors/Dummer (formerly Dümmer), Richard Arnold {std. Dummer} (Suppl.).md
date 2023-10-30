@@ -9,7 +9,7 @@ Dummer (formerly Dümmer), Richard Arnold (1887-1922), South African horticultur
 
 #### Herbarium and types
 
-[[Collection BM|BM]], [[Collection K|K]] and [[Collection PRE|PRE]], further material at [[Collection A|A]], [[Collection B|B]], [[Collection E|E]], [[Collection HH|HH]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NH|NH]] (150), [[Collection P|P]], [[Collection PC|PC]], [[Collection SAM|SAM]], [[Collection US|US]]. – *Plantae Peninsulae Capensis* Cent. 1-7. 1909.
+[[Collection BM|BM]], [[Collection K|K]] and [[Collection PRE|PRE]], further material at [[Collection A|A]], [[Collection B|B]], [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection NH|NH]] (150), [[Collection P|P]], [[Collection PC|PC]], [[Collection SAM|SAM]], [[Collection US|US]]. – *Plantae Peninsulae Capensis* Cent. 1-7. 1909.
 
 #### Bibliography and biography
 

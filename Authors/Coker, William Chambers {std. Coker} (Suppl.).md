@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection NCU|NCU]] and [[Collection NY|NY]], further material at [[Collection HH|HH]], [[Collection K|K]], [[Collection US|US]].
+[[Collection NCU|NCU]] and [[Collection NY|NY]], further material at [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection US|US]].
 
 #### Bibliography and biography
 

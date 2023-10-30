@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection K|K]]. – Further material at [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]], [[Collection HH|HH]], [[Collection MO|MO]], [[Collection P|P]], [[Collection PH|PH]], [[Collection TCD|TCD]], [[Collection WECO|WECO]], [[Collection WTR|WTR]].
+[[Collection K|K]]. – Further material at [[Collection CGE|CGE]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]], [[Collection P|P]], [[Collection PH|PH]], [[Collection TCD|TCD]], [[Collection WECO|WECO]], [[Collection WTR|WTR]].
 
 #### Bibliography and biography
 

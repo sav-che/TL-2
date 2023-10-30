@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection G|G]]. – Further material in [[Collection A|A]], [[Collection DPU|DPU]], [[Collection HH|HH]], [[Collection LAU|LAU]], [[Collection OXF|OXF]], [[Collection NY|NY]].
+[[Collection G|G]]. – Further material in [[Collection A|A]], [[Collection DPU|DPU]], [[Collection HH (sensu TL-2)|HH]], [[Collection LAU|LAU]], [[Collection OXF|OXF]], [[Collection NY|NY]].
 
 #### Bibliography and biography
 

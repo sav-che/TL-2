@@ -7,7 +7,7 @@ Dodge, Carroll William (1895-1988), American botanist (lichenologist and mycolog
 
 #### Herbarium and types
 
-[[Collection MO|MO]], further material at [[Collection C|C]], [[Collection F|F]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection MICH|MICH]], [[Collection S|S]], [[Collection US|US]].
+[[Collection MO|MO]], further material at [[Collection C|C]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection MICH|MICH]], [[Collection S|S]], [[Collection US|US]].
 
 #### Bibliography and biography
 

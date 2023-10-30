@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection PC|PC]] (incl. exsicc. Bryotheca gallica), further material at [[Collection BM|BM]], [[Collection HH|HH]], [[Collection L|L]], [[Collection NY|NY]], [[Collection STR|STR]].
+[[Collection PC|PC]] (incl. exsicc. Bryotheca gallica), further material at [[Collection BM|BM]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection NY|NY]], [[Collection STR|STR]].
 
 #### Exsiccatae
 

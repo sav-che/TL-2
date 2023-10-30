@@ -7,7 +7,7 @@ Drobov \[Drobow\], Vasilij Petrovich (1885-1956), Russian working in Turkestan a
 
 #### Herbarium and types
 
-[[Collection A|A]], [[Collection E|E]], [[Collection HH|HH]], [[Collection MO|MO]].
+[[Collection A|A]], [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection MO|MO]].
 
 #### Bibliography and biography
 

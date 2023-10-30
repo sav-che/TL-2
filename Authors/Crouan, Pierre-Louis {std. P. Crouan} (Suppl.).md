@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-See TL-2/1: 569. – Concarneaux, Lab. Zool., [[Collection PC|PC]]. – Further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection C|C]], [[Collection HH|HH]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MPU|MPU]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection TCD|TCD]], [[Collection WRSL|WRSL]].
+See TL-2/1: 569. – Concarneaux, Lab. Zool., [[Collection PC|PC]]. – Further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection C|C]], [[Collection HH (sensu TL-2)|HH]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LD|LD]], [[Collection MPU|MPU]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection TCD|TCD]], [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

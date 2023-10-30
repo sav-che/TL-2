@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BR|BR]] (4000), further material at [[Collection AWH|AWH]] (incl. Diatom coll.), [[Collection BM|BM]], [[Collection H|H]], [[Collection HH|HH]]([[Collection FH|FH]], Hépat. Ardennes, 60 nos.), [[Collection LG|LG]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]].
+[[Collection BR|BR]] (4000), further material at [[Collection AWH|AWH]] (incl. Diatom coll.), [[Collection BM|BM]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]], Hépat. Ardennes, 60 nos.), [[Collection LG|LG]], [[Collection PC|PC]], [[Collection S|S]], [[Collection W|W]].
 
 #### Exsiccatae
 

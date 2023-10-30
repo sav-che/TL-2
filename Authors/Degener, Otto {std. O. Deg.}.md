@@ -7,7 +7,7 @@ Degener, Otto (1899-1988), American botanist, specialist of the flora of Hawaii,
 
 #### Herbarium and types
 
-Main sets at [[Collection BISH|BISH]], [[Collection F|F]] (2800) and especially [[Collection NY|NY]], further material at [[Collection B|B]], [[Collection BH|BH]], [[Collection CAS|CAS]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HH|HH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SI|SI]], [[Collection UARK|UARK]], [[Collection US|US]], [[Collection W|W]], [[Collection WELC|WELC]]. – Many collections with his wife, Isa Degener.
+Main sets at [[Collection BISH|BISH]], [[Collection F|F]] (2800) and especially [[Collection NY|NY]], further material at [[Collection B|B]], [[Collection BH|BH]], [[Collection CAS|CAS]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SI|SI]], [[Collection UARK|UARK]], [[Collection US|US]], [[Collection W|W]], [[Collection WELC|WELC]]. – Many collections with his wife, Isa Degener.
 
 #### Bibliography and biography
 

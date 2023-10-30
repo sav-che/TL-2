@@ -7,7 +7,7 @@ Bessey, Charles Edwin (1845-1915), American botanist and educator, entered Michi
 
 #### Herbarium and types
 
-[[Collection HH|HH]], [[Collection ISC|ISC]] (Iowa), [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection UTC|UTC]].
+[[Collection HH (sensu TL-2)|HH]], [[Collection ISC|ISC]] (Iowa), [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection UTC|UTC]].
 
 #### Bibliography and biography
 

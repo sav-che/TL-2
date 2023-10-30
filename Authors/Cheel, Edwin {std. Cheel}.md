@@ -7,7 +7,7 @@ Cheel, Edwin (1872-1951) British (Kent) born botanist, horticulturist and forest
 
 #### Herbarium and types
 
-[[Collection NSW|NSW]]. – Further material at [[Collection A|A]], [[Collection DAR|DAR]], [[Collection HH|HH]], [[Collection K|K]], [[Collection M|M]], [[Collection MEL|MEL]], [[Collection MO|MO]].
+[[Collection NSW|NSW]]. – Further material at [[Collection A|A]], [[Collection DAR|DAR]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection M|M]], [[Collection MEL|MEL]], [[Collection MO|MO]].
 
 #### Bibliography and biography
 

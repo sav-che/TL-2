@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BP|BP]] (main herb.); [[Collection BPU|BPU]], further material in [[Collection AUK|AUK]], [[Collection B|B]], [[Collection BUC|BUC]], [[Collection CGE|CGE]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HH|HH]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection OXF|OXF]], [[Collection W|W]], [[Collection WRSL|WRSL]], [[Collection WU|WU]].
+[[Collection BP|BP]] (main herb.); [[Collection BPU|BPU]], further material in [[Collection AUK|AUK]] \[[[Collection A|A]], [[Collection AK|AK]]?\], [[Collection B|B]], [[Collection BUC|BUC]], [[Collection CGE|CGE]], [[Collection G|G]], [[Collection GB|GB]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection OXF|OXF]], [[Collection W|W]], [[Collection WRSL|WRSL]], [[Collection WU|WU]].
 
 #### Bibliography and biography
 

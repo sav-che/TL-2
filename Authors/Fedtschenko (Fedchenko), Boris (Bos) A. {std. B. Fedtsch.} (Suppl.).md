@@ -13,7 +13,7 @@ Treated as "Fedchenko, Boris Aleksevič" in TL-2/1, which is how the translitera
 
 #### Herbarium and types
 
-[[Collection LE|LE]], duplicates [[Collection A|A]], [[Collection G|G]], [[Collection H|H]], [[Collection H|H]]-BR (Bryoph.), [[Collection K|K]], [[Collection LAU|LAU]], [[Collection M|M]], [[Collection MW|MW]], [[Collection S|S]], [[Collection TASH|TASH]]. – *Exsiccatae*: Fedtschenko, *Flora Turkestanica exsiccata*... (Hortus Botanicus Imperialis Petropolitani, Petropolitani, nos. 1-100, 1911-1917) (Fedtschenko, *Fl. Turkest. Exs.*). *Note*: There is also a 4 fasc. (in 3 parts) *Gerbari Turkestanskoi flory* \[=*Schedae* ad *Floram Turkestanicam exsiccatam* ab Horto Botanico Imperiali Petropolitano editam\]. *Copies*: [[Collection HH|HH]], [[Collection K|K]] (fasc. 1). – Some corr. in [[Collection GH|GH]] (Archives).
+[[Collection LE|LE]], duplicates [[Collection A|A]], [[Collection G|G]], [[Collection H|H]], [[Collection H|H]]-BR (Bryoph.), [[Collection K|K]], [[Collection LAU|LAU]], [[Collection M|M]], [[Collection MW|MW]], [[Collection S|S]], [[Collection TASH|TASH]]. – *Exsiccatae*: Fedtschenko, *Flora Turkestanica exsiccata*... (Hortus Botanicus Imperialis Petropolitani, Petropolitani, nos. 1-100, 1911-1917) (Fedtschenko, *Fl. Turkest. Exs.*). *Note*: There is also a 4 fasc. (in 3 parts) *Gerbari Turkestanskoi flory* \[=*Schedae* ad *Floram Turkestanicam exsiccatam* ab Horto Botanico Imperiali Petropolitano editam\]. *Copies*: [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]] (fasc. 1). – Some corr. in [[Collection GH|GH]] (Archives).
 
 #### Bibliography and biography
 

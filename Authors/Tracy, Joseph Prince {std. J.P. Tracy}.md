@@ -7,7 +7,7 @@ Tracy, Joseph Prince (1879-1953), American abstractor of land titles at Eureka, 
 
 #### Herbarium and types
 
-[[Collection UC|UC]]. – Other material at [[Collection B|B]] (mainly destr.), [[Collection DPH|DPH]], [[Collection DS|DS]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection HAB (sensu TL-2)|HAB]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection UC|UC]], [[Collection URM|URM]], [[Collection US|US]], [[Collection VT|VT]]. – Manuscripts, field notes at [[Collection UC|UC]].
+[[Collection UC|UC]]. – Other material at [[Collection B|B]] (mainly destr.), [[Collection DPU|DPU]], [[Collection DS|DS]], [[Collection E|E]], [[Collection F|F]], [[Collection GH|GH]], [[Collection HAB (sensu TL-2)|HAB]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection UC|UC]], [[Collection URM|URM]], [[Collection US|US]], [[Collection VT|VT]]. – Manuscripts, field notes at [[Collection UC|UC]].
 
 #### Bibliography and biography
 

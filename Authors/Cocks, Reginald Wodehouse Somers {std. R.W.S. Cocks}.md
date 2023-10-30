@@ -7,7 +7,7 @@ Cocks, Reginald Wodehouse Somers (1863-1926), British botanist, born at Worceste
 
 #### Herbarium and types
 
-[[Collection NO|NO]], further material in [[Collection HH|HH]], [[Collection NY|NY]].
+[[Collection NO|NO]], further material in [[Collection HH (sensu TL-2)|HH]], [[Collection NY|NY]].
 
 #### Bibliography and biography
 

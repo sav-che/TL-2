@@ -7,7 +7,7 @@ Wann, Frank Burkett (1892-1954), American botanist; A.B. Wabash Col. 1914; Dr. p
 
 #### Herbarium and types
 
-[[Collection UTC|UTC]]. – *Exsiccatae*: with Walter Conrad Muenscher (1891-1963) *North American myxomycetes*, Fasc. 1 (nos. 1-50), ed. 1, 1923, Ithaca N.Y.; ed. 2, Mar 1929, ib.; fasc. 2 (nos. 51-100?) 1926, Ithaca. Sets at [[Collection BPI|BPI]], [[Collection CM|CM]], [[Collection CU|CU]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection TRTC|TRTC]], [[Collection WISC|WISC]]. – For full details see J. Stevenson (1971).
+[[Collection UTC|UTC]]. – *Exsiccatae*: with Walter Conrad Muenscher (1891-1963) *North American myxomycetes*, Fasc. 1 (nos. 1-50), ed. 1, 1923, Ithaca N.Y.; ed. 2, Mar 1929, ib.; fasc. 2 (nos. 51-100?) 1926, Ithaca. Sets at [[Collection BPI|BPI]], [[Collection CM|CM]], [[Collection CU|CU]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection IA|IA]], [[Collection MICH|MICH]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection TRTC|TRTC]], [[Collection WIS|WISC]]. – For full details see J. Stevenson (1971).
 
 #### Bibliography and biography
 

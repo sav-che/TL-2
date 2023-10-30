@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection US|US]], further material at [[Collection BPI|BPI]], [[Collection DS|DS]], [[Collection F|F]], [[Collection HH|HH]], [[Collection GRO|GRO]], [[Collection ILL|ILL]], [[Collection KSC|KSC]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection S|S]]. – *Exsiccatae*: *Uredineae Americanae exsiccatae* set 1, 50 nos., published at Manhattan, Kansas, 1 Jan 1894, not continued. *Ref*.: Dietel, P., Bot. Centralbl. 58(20): 239-240. 1894.
+[[Collection US|US]], further material at [[Collection BPI|BPI]], [[Collection DS|DS]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection GRO|GRO]], [[Collection ILL|ILL]], [[Collection KSC|KSC]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PUR|PUR]], [[Collection S|S]]. – *Exsiccatae*: *Uredineae Americanae exsiccatae* set 1, 50 nos., published at Manhattan, Kansas, 1 Jan 1894, not continued. *Ref*.: Dietel, P., Bot. Centralbl. 58(20): 239-240. 1894.
 
 #### Bibliography and biography
 

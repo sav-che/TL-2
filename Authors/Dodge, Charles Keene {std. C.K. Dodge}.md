@@ -7,7 +7,7 @@ Dodge, Charles Keene (1844-1918), American botanist, born at Blackman, Jackson C
 
 #### Herbarium and types
 
-[[Collection MICH|MICH]], further material at [[Collection CS|CS]], [[Collection CU|CU]], [[Collection E|E]], [[Collection HH|HH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection WECO|WECO]].
+[[Collection MICH|MICH]], further material at [[Collection CS|CS]], [[Collection CU|CU]], [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection WECO|WECO]].
 
 #### Bibliography and biography
 

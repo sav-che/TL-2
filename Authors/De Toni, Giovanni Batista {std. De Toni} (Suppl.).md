@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection NAP|NAP]]. – See TL-2/1: 637, further material at [[Collection BM|BM]], [[Collection G|G]], [[Collection HH|HH]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection UPS|UPS]].
+[[Collection NAP|NAP]]. – See TL-2/1: 637, further material at [[Collection BM|BM]], [[Collection G|G]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection UPS|UPS]].
 
 #### Bibliography and biography
 

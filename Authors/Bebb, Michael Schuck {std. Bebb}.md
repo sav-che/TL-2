@@ -7,7 +7,7 @@ Bebb, Michael Schuck (1833-1895), American botanist, born at Hamilton, Ohio, spe
 
 #### Herbarium and types
 
-[[Collection F|F]](3014). − Further material in [[Collection B|B]], [[Collection BUF|BUF]], [[Collection CGE|CGE]], [[Collection CM|CM]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection K|K]] (328, mainly *Salix*), [[Collection L|L]], [[Collection LY|LY]], [[Collection MO|MO]], [[Collection MT|MT]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection P|P]]-DU, [[Collection US|US]], [[Collection WELC|WELC]], [[Collection WRSL|WRSL]].
+[[Collection F|F]](3014). − Further material in [[Collection B|B]], [[Collection BUF|BUF]], [[Collection CGE|CGE]], [[Collection CM|CM]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]], [[Collection ILL|ILL]], [[Collection K|K]] (328, mainly *Salix*), [[Collection L|L]], [[Collection LY|LY]], [[Collection MO|MO]], [[Collection MT|MT]], [[Collection NY|NY]], [[Collection NYS|NYS]], [[Collection PENN|PENN]], [[Collection PH|PH]], [[Collection P|P]]-DU, [[Collection US|US]], [[Collection WELC|WELC]], [[Collection WRSL|WRSL]].
 
 #### Bibliography and biography
 

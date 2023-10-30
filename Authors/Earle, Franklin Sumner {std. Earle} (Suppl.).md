@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection B|B]] (Fungi), [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection CM|CM]], [[Collection CUP|CUP]], [[Collection DPU|DPU]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ILL|ILL]], [[Collection KSC|KSC]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection L|L]], [[Collection NM|NM]], [[Collection NY|NY]] (2537 Fungi), [[Collection PAM|PAM]], [[Collection PAVIA|PAVIA]] \[[[Collection PAV|PAV]]?\], [[Collection POM|POM]], [[Collection SMU|SMU]], [[Collection TAES|TAES]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection VT|VT]], [[Collection W|W]], [[Collection WELC|WELC]].
+[[Collection B|B]] (Fungi), [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection CM|CM]], [[Collection CUP|CUP]], [[Collection DPU|DPU]], [[Collection DUKE|DUKE]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection ILL|ILL]], [[Collection KSC|KSC]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection L|L]], [[Collection NM|NM]], [[Collection NY|NY]] (2537 Fungi), [[Collection PAM|PAM]], [[Collection PAVIA|PAVIA]] \[[[Collection PAV|PAV]]?\], [[Collection POM|POM]], [[Collection SMU|SMU]], [[Collection TAES|TAES]], [[Collection TEX|TEX]], [[Collection US|US]], [[Collection VT|VT]], [[Collection W|W]], [[Collection WELC|WELC]].
 
 #### Field notes
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection K|K]]. – Exsiccatae: *Fungi britannici exs*., see TL-2/1: no. 1198. [[Collection B|B]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]]([[Collection FH|FH]]), [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection W|W]], [[Collection WELC|WELC]]. – Drawings and mss. at Huddersfield Museum. Letters at [[Collection BM|BM]].
+[[Collection K|K]]. – Exsiccatae: *Fungi britannici exs*., see TL-2/1: no. 1198. [[Collection B|B]], [[Collection BM|BM]], [[Collection CGE|CGE]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]]([[Collection FH|FH]]), [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection MASS|MASS]], [[Collection NY|NY]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection PC|PC]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection W|W]], [[Collection WELC|WELC]]. – Drawings and mss. at Huddersfield Museum. Letters at [[Collection BM|BM]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Cave, George H. (c. 1870-1965), British gardener, Kew gardener 1894, assistant a
 
 #### Herbarium and types
 
-[[Collection BM|BM]], [[Collection CAL|CAL]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MO|MO]].
+[[Collection BM|BM]], [[Collection CAL|CAL]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MO|MO]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Braun, \[Emma\] Lucy (1889-1971), American (Cincinnati, Ohio born) botanist, of 
 
 #### Herbarium and types
 
-[[Collection CINC|CINC]], further material at [[Collection HH|HH]]([[Collection A|A]], [[Collection GH|GH]]), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]].
+[[Collection CINC|CINC]], further material at [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]], [[Collection GH|GH]]), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PH|PH]].
 
 #### Bibliography and biography
 

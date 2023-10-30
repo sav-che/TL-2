@@ -6,7 +6,7 @@
 
 **Department**: Natural History Department
 
-**Location**: , 
+**Location**: Glasgow, Scotland, U.K.
 
 **Total number of specimens**: 68287
 

@@ -7,7 +7,7 @@ Hartman, Robert Wilhelm (1827-1801), Swedish botanist, son of C.J. Hartman; teac
 
 #### Herbarium and types
 
-[[Collection UPS|UPS]]. – Exsiccatae: *Bryaceae Scandinaviae exsiccatae* (fasc. 1-15, nos. 1-450, Gevaliae \[Landin; 14-15: Lindholm\] 1857-1874, 450 nos. fasc. 14-15 edited by A. J. Lindholm), complete sets at [[Collection BM|BM]], [[Collection LD|LD]], [[Collection S|S]], [[Collection UPS|UPS]] and [[Collection W|W]], other sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CU|CU]], [[Collection FH|FH]], [[Collection FJ|FJ]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection PC|PC]]. – Most sets were noticed by Bot. Not.
+[[Collection UPS|UPS]]. – Exsiccatae: *Bryaceae Scandinaviae exsiccatae* (fasc. 1-15, nos. 1-450, Gevaliae \[Landin; 14-15: Lindholm\] 1857-1874, 450 nos. fasc. 14-15 edited by A. J. Lindholm), complete sets at [[Collection BM|BM]], [[Collection LD|LD]], [[Collection S|S]], [[Collection UPS|UPS]] and [[Collection W|W]], other sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BR|BR]], [[Collection C|C]], [[Collection CU|CU]], [[Collection FH|FH]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection PC|PC]]. – Most sets were noticed by Bot. Not.
 *Ref*.: Sayre, G., Mem. New York Bot. Gard. 19: 210. 1971.
 - Hartman, C., Handb. Skand. fl. ed. 10, 1871 (lists exsiccatae).
 

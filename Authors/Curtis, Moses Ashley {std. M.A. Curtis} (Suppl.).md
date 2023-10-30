@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection HH|HH]] ([[Collection FH|FH]], 16.000), further material in [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection CN|CN]], [[Collection DWC|DWC]] (517, see Ezra Michener), [[Collection K|K]], [[Collection LY|LY]], [[Collection MAINE|MAINE]], [[Collection MO|MO]], [[Collection P|P]], [[Collection P|P]]-DU, [[Collection NEB|NEB]], [[Collection NY|NY]] (included with correspondence with Torrey), [[Collection PH|PH]] (large set), [[Collection US|US]] (incl. 796 species deposited by Curtis directly), [[Collection Y|Y]].
+[[Collection HH (sensu TL-2)|HH]] ([[Collection FH|FH]], 16.000), further material in [[Collection BPI|BPI]], [[Collection BRU|BRU]], [[Collection CN|CN]], [[Collection DWC|DWC]] (517, see Ezra Michener), [[Collection K|K]], [[Collection LY|LY]], [[Collection MAINE|MAINE]], [[Collection MO|MO]], [[Collection P|P]], [[Collection P|P]]-DU, [[Collection NEB|NEB]], [[Collection NY|NY]] (included with correspondence with Torrey), [[Collection PH|PH]] (large set), [[Collection US|US]] (incl. 796 species deposited by Curtis directly), [[Collection Y|Y]].
 
 #### Bibliography and biography
 

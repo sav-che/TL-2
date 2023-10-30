@@ -7,7 +7,7 @@ Boullu, Antoine Étienne (1813-1904), French abbé and botanist, born at Côte-S
 
 #### Herbarium and types
 
-[[Collection AUT|AUT]], further material at [[Collection DBN|DBN]], [[Collection FI|FI]], [[Collection HH|HH]]([[Collection A|A]]), [[Collection M|M]] (Alg., Lich.), [[Collection MPU|MPU]], [[Collection P|P]]. − The musci, lichens and fungi were sold by Th.O. Weigel, Leipzig in 1917. − The 7830 phanerogams and the ca. 1500 roses were offered by Weigel in 1910.
+[[Collection AUT|AUT]], further material at [[Collection DBN|DBN]], [[Collection FI|FI]], [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]]), [[Collection M|M]] (Alg., Lich.), [[Collection MPU|MPU]], [[Collection P|P]]. − The musci, lichens and fungi were sold by Th.O. Weigel, Leipzig in 1917. − The 7830 phanerogams and the ca. 1500 roses were offered by Weigel in 1910.
 
 #### Bibliography and biography
 

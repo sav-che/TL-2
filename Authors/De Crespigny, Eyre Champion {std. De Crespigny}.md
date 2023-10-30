@@ -7,7 +7,7 @@ De Crespigny, Eyre Champion (1821-1895), Swiss botanist, born at Vevey, Switzerl
 
 #### Herbarium and types
 
-[[Collection CGE|CGE]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MANCH|MANCH]]. Drawings of Indian plants at [[Collection BM|BM]].
+[[Collection CGE|CGE]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MANCH|MANCH]]. Drawings of Indian plants at [[Collection BM|BM]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection HBG|HBG]], important material also at [[Collection K|K]], further material at [[Collection BONN|BONN]], [[Collection CAL|CAL]], [[Collection DD|DD]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection HH|HH]]([[Collection A|A]]), [[Collection M|M]] (lich.), [[Collection MEL|MEL]], [[Collection W|W]].
+[[Collection HBG|HBG]], important material also at [[Collection K|K]], further material at [[Collection BONN|BONN]], [[Collection CAL|CAL]], [[Collection DD|DD]], [[Collection FI|FI]], [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]]), [[Collection M|M]] (lich.), [[Collection MEL|MEL]], [[Collection W|W]].
 
 #### Bibliography and biography
 

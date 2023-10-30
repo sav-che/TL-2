@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection WELT|WELT]] (incl. extensive notebooks, ca. 4.000 sheets), further material in [[Collection B|B]], [[Collection CANTY|CANTY]], [[Collection E|E]], [[Collection H|H]], [[Collection HH|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection MEL|MEL]], [[Collection MO|MO]], [[Collection NH|NH]], [[Collection NY|NY]], [[Collection TO|TO]].
+[[Collection WELT|WELT]] (incl. extensive notebooks, ca. 4.000 sheets), further material in [[Collection B|B]], [[Collection CANTY|CANTY]], [[Collection E|E]], [[Collection H|H]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LE|LE]], [[Collection MEL|MEL]], [[Collection MO|MO]], [[Collection NH|NH]], [[Collection NY|NY]], [[Collection TO|TO]].
 
 #### Bibliography and biography
 

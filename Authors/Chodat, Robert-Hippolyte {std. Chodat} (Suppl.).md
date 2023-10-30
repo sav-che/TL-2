@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection G|G]]. – See TL-2/1: 496. – Further material in [[Collection BPI|BPI]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection HH|HH]], [[Collection MICH|MICH]], [[Collection MU|MU]], [[Collection NY|NY]], [[Collection UC|UC]], [[Collection WSP|WSP]].
+[[Collection G|G]]. – See TL-2/1: 496. – Further material in [[Collection BPI|BPI]], [[Collection COLO|COLO]], [[Collection CUP|CUP]], [[Collection DAOM|DAOM]], [[Collection HH (sensu TL-2)|HH]], [[Collection MICH|MICH]], [[Collection MU|MU]], [[Collection NY|NY]], [[Collection UC|UC]], [[Collection WSP|WSP]].
 
 #### Bibliography and biography
 

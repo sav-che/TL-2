@@ -7,7 +7,7 @@ Braun, Heinrich (1851-1920), Austrian botanist, alderman at Vienna. (*Heinr. Bra
 
 #### Herbarium and types
 
-[[Collection W|W]](9000), further material at [[Collection B|B]] (herb. Ullepitsch), [[Collection GOET|GOET]], [[Collection HH|HH]]([[Collection A|A]]), [[Collection IAC|IAC]], [[Collection L|L]], [[Collection LE|LE]], [[Collection PRC|PRC]]. – *Exsiccatae* in [[Collection M|M]]. Willkomm, *Algen* 1890, see Bot. Centralbl. 44(52): 432. 24 Dec 1890.
+[[Collection W|W]](9000), further material at [[Collection B|B]] (herb. Ullepitsch), [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]]), [[Collection IAC|IAC]], [[Collection L|L]], [[Collection LE|LE]], [[Collection PRC|PRC]]. – *Exsiccatae* in [[Collection M|M]]. Willkomm, *Algen* 1890, see Bot. Centralbl. 44(52): 432. 24 Dec 1890.
 
 #### Bibliography and biography
 

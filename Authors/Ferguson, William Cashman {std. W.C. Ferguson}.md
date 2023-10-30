@@ -7,7 +7,7 @@ Ferguson, William Cashman (1861-1930), American chemist and leading authority on
 
 #### Herbarium and types
 
-[[Collection NY|NY]] (orig.), duplicates [[Collection BKG|BKG]], [[Collection HH|HH]]. – Field books and other archival materials are in [[Collection NY|NY]] (William Cashman Ferguson papers); additional corr. in [[Collection GH|GH]].
+[[Collection NY|NY]] (orig.), duplicates [[Collection BKG|BKG]] \[[[Collection BKL|BKL]]?\], [[Collection HH (sensu TL-2)|HH]]. – Field books and other archival materials are in [[Collection NY|NY]] (William Cashman Ferguson papers); additional corr. in [[Collection GH|GH]].
 
 #### Bibliography and biography
 

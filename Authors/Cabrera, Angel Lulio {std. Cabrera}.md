@@ -7,7 +7,7 @@ Cabrera, Angel Lulio (1908-x), Argentine botanist at the Museo de La Plata, spec
 
 #### Herbarium and types
 
-[[Collection LP|LP]]. – Further material in [[Collection B|B]], [[Collection F|F]], [[Collection HH|HH]], [[Collection K|K]], [[Collection M|M]](Lich.), [[Collection MO|MO]], [[Collection MVM|MVM]], [[Collection NA|NA]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SI|SI]], [[Collection SP|SP]], [[Collection U|U]], [[Collection US|US]], [[Collection USFS|USFS]].
+[[Collection LP|LP]]. – Further material in [[Collection B|B]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection M|M]](Lich.), [[Collection MO|MO]], [[Collection MVM|MVM]], [[Collection NA|NA]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection S|S]], [[Collection SI|SI]], [[Collection SP|SP]], [[Collection U|U]], [[Collection US|US]], [[Collection USFS|USFS]].
 
 #### Bibliography and biography
 

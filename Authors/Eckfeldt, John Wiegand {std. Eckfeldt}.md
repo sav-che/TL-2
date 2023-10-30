@@ -7,7 +7,7 @@ Eckfeldt, John Wiegand (1851-1933), American physician and botanist, born Philad
 
 #### Herbarium and types
 
-[[Collection PH|PH]] (4000 Lich., orig.), further material at [[Collection A|A]], [[Collection B|B]], [[Collection HH|HH]], [[Collection LD|LD]] (100), [[Collection M|M]] (Lich.), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PENN|PENN]] (300 Pter.), [[Collection US|US]].
+[[Collection PH|PH]] (4000 Lich., orig.), further material at [[Collection A|A]], [[Collection B|B]], [[Collection HH (sensu TL-2)|HH]], [[Collection LD|LD]] (100), [[Collection M|M]] (Lich.), [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PENN|PENN]] (300 Pter.), [[Collection US|US]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Chen, Luetta (Ch'ên, Hsiu-ying) (fl. 1934-1939), Chinese botanist, at the Lingn
 
 #### Herbarium and types
 
-[[Collection SYS|SYS]] (formerly [[Collection LU|LU]]), further material in [[Collection E|E]] and [[Collection HH|HH]].
+[[Collection SYS|SYS]] (formerly [[Collection LU|LU]]), further material in [[Collection E|E]] and [[Collection HH (sensu TL-2)|HH]].
 
 #### Bibliography and biography
 

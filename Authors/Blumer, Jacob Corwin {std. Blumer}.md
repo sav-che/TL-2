@@ -7,7 +7,7 @@ Blumer, Jacob Corwin (1872-1948), Swiss born American botanist and collector, mi
 
 #### Herbarium and types
 
-[[Collection ARIZ|ARIZ]] (main sets, ca. 3000), further material at [[Collection B|B]], [[Collection DS|DS]], [[Collection E|E]], [[Collection F|F]], [[Collection HH|HH]], [[Collection ISC|ISC]], [[Collection K|K]], [[Collection KSC|KSC]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NMC|NMC]], [[Collection NY|NY]], [[Collection RM|RM]], [[Collection U|U]], [[Collection US|US]], [[Collection WTU|WTU]].
+[[Collection ARIZ|ARIZ]] (main sets, ca. 3000), further material at [[Collection B|B]], [[Collection DS|DS]], [[Collection E|E]], [[Collection F|F]], [[Collection HH (sensu TL-2)|HH]], [[Collection ISC|ISC]], [[Collection K|K]], [[Collection KSC|KSC]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MIN|MIN]], [[Collection MO|MO]], [[Collection NMC|NMC]], [[Collection NY|NY]], [[Collection RM|RM]], [[Collection U|U]], [[Collection US|US]], [[Collection WTU|WTU]].
 
 #### Bibliography and biography
 

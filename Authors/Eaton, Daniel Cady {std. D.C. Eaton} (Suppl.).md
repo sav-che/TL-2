@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection YU|YU]] (14.000), further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection G|G]], [[Collection GRA|GRA]], [[Collection HH|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection WECO|WECO]], [[Collection WELC|WELC]].
+[[Collection YU|YU]] (14.000), further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection G|G]], [[Collection GRA|GRA]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection LE|LE]], [[Collection MASS|MASS]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection PH|PH]], [[Collection WECO|WECO]], [[Collection WELC|WELC]].
 
 #### Bibliography and biography
 

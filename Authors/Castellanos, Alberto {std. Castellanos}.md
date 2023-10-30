@@ -7,7 +7,7 @@ Castellanos, Alberto (1896-1968), Argentine botanist, born in Cordoba, studied a
 
 #### Herbarium and types
 
-[[Collection BA|BA]] (8100, orig.). – Further material at [[Collection G|G]], [[Collection GUA|GUA]] (4000 nos.), [[Collection HH|HH]], [[Collection LIL|LIL]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SI|SI]], [[Collection US|US]].
+[[Collection BA|BA]] (8100, orig.). – Further material at [[Collection G|G]], [[Collection GUA|GUA]] (4000 nos.), [[Collection HH (sensu TL-2)|HH]], [[Collection LIL|LIL]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SI|SI]], [[Collection US|US]].
 
 #### Bibliography and biography
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection PRC|PRC]] (20.000, main part), [[Collection PR|PR]] and further material at [[Collection B|B]], [[Collection C|C]], [[Collection CERN|CERN]] (400), [[Collection CGE|CGE]], [[Collection HH|HH]], [[Collection K|K]], [[Collection PH|PH]] (ca. 500 specim.), [[Collection PR|PR]], [[Collection W|W]].
+[[Collection PRC|PRC]] (20.000, main part), [[Collection PR|PR]] and further material at [[Collection B|B]], [[Collection C|C]], [[Collection CERN|CERN]] (400), [[Collection CGE|CGE]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection PH|PH]] (ca. 500 specim.), [[Collection PR|PR]], [[Collection W|W]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Cambage, Richard Hind (1859-1928), Australian mining surveyor and botanist, born
 
 #### Herbarium and types
 
-[[Collection CANB|CANB]] (*Eucalyptus*) and [[Collection NSW|NSW]], further material at [[Collection E|E]], [[Collection HH|HH]], [[Collection L|L]], [[Collection MO|MO]], [[Collection S|S]].
+[[Collection CANB|CANB]] (*Eucalyptus*) and [[Collection NSW|NSW]], further material at [[Collection E|E]], [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection MO|MO]], [[Collection S|S]].
 
 #### Bibliography and biography
 

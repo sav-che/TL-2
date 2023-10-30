@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection LE|LE]], further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection HH|HH]], [[Collection MSI|MSI]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MSTR|MSTR]], [[Collection NY|NY]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
+[[Collection LE|LE]], further material at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection HH (sensu TL-2)|HH]], [[Collection MSI|MSI]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection MICH|MICH]], [[Collection MSTR|MSTR]], [[Collection NY|NY]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]].
 Issued *Lichenes florae rossia et regionum confinium orientalum*, fasc. I-IV, nos. 1-2000. 1901-1910, see Acta horti petrop. 19: 1-52. 1902 and 24: 1-118. 1905. *Lichenes florae rossia mediae*, fasc. I-IV, nos. 1-200. 1906-1911, in all 681 p. and *21 pl*.
 
 #### Bibliography and biography

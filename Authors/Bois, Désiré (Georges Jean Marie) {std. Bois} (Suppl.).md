@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection P|P]] (main coll.), further material at [[Collection AMES|AMES]], [[Collection HH|HH]]. − Collected 1204 numbers on his trip to Indo-China; collected also on Java 1903.
+[[Collection P|P]] (main coll.), further material at [[Collection AMES|AMES]], [[Collection HH (sensu TL-2)|HH]]. − Collected 1204 numbers on his trip to Indo-China; collected also on Java 1903.
 
 #### Bibliography and biography
 

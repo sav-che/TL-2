@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection BR|BR]], fossil material at Musée Hist. nat. Bruxelles, *Cladoniae belgicae exsiccatae* ed 1863-1866, cent. I-II, nos 1-200, further material in [[Collection B|B]], [[Collection DNB|DNB]] \[[[Collection DBN|DBN?]]\], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]]. – *Ref*.: Stizenberger, E., Flora 47(3): 42-45. 30 Jan 1864 (detailed review of *Cladoniae Belg*. Cent. I., 1863); Sayre, G., Mem. New York Bot. Gard. 19(1): 118. 30 Jun 1969; Lynge, B., Nyt Mag. Naturvidensk. 51 (2-3): 103. 1913.
+[[Collection BR|BR]], fossil material at Musée Hist. nat. Bruxelles, *Cladoniae belgicae exsiccatae* ed 1863-1866, cent. I-II, nos 1-200, further material in [[Collection B|B]], [[Collection DBN|DBN]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]]. – *Ref*.: Stizenberger, E., Flora 47(3): 42-45. 30 Jan 1864 (detailed review of *Cladoniae Belg*. Cent. I., 1863); Sayre, G., Mem. New York Bot. Gard. 19(1): 118. 30 Jun 1969; Lynge, B., Nyt Mag. Naturvidensk. 51 (2-3): 103. 1913.
 
 #### Bibliography and biography
 

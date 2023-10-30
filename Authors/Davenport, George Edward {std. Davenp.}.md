@@ -7,7 +7,7 @@ Davenport, George Edward (1833-1907), American botanist (pteridologist) and plan
 
 #### Herbarium and types
 
-[[Collection HH|HH]] (formerly with the Massachusetts Horticultural Society), further material at [[Collection K|K]], [[Collection L|L]]. – Set of photographs of Ferns of New England is at [[Collection HH|HH]].
+[[Collection HH (sensu TL-2)|HH]] (formerly with the Massachusetts Horticultural Society), further material at [[Collection K|K]], [[Collection L|L]]. – Set of photographs of Ferns of New England is at [[Collection HH (sensu TL-2)|HH]].
 
 #### Handwriting
 

@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection GE|GE]]; further material at [[Collection B|B]], [[Collection BI|BI]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection E|E]], [[Collection FI|FI]], [[Collection HH|HH]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection MOD|MOD]], [[Collection OXF|OXF]], [[Collection PAD|PAD]]. − Contributed to *Flora Italica exsiccata* ed. A. Fiori et al. 1905-1927.
+[[Collection GE|GE]]; further material at [[Collection B|B]], [[Collection BI|BI]], [[Collection BM|BM]], [[Collection BP|BP]], [[Collection E|E]], [[Collection FI|FI]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LAU|LAU]], [[Collection MOD|MOD]], [[Collection OXF|OXF]], [[Collection PAD|PAD]]. − Contributed to *Flora Italica exsiccata* ed. A. Fiori et al. 1905-1927.
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Over, William Henry (1866-?), American botanist; curator of the Museum of the Un
 
 #### Herbarium and types
 
-Material at [[Collection C|C]], [[Collection DBN|DBN]], [[Collection DS|DS]], [[Collection RM|RM]], [[Collection SMU|SMU]], [[Collection US|US]] (large set), [[Collection WTL|WTL]].
+Material at [[Collection C|C]], [[Collection DBN|DBN]], [[Collection DS|DS]], [[Collection RM|RM]], [[Collection SMU|SMU]], [[Collection US|US]] (large set), [[Collection WTU|WTU]].
 
 #### Bibliography and biography
 
@@ -18,7 +18,7 @@ Barnhart 3: 38; BL 1: 214, 311; IH 2: (in press); Pennell p. 615.
 ##### n.7168. Trees and shrubs of South Dakota...
 
 **Title**
-*Trees and shrubs of South Dakota...*Vermillion (University of South Dakota) 1923.
+*Trees and shrubs of South Dakota...* Vermillion (University of South Dakota) 1923.
 **Abbreviated title**: *Trees shrubs S. Dakota*.
 
 **Notes**

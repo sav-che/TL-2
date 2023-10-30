@@ -7,7 +7,7 @@ Dame, Lorin Low (1838-1903), American botanist, born at Newmarket, N.H. 12 Mar 1
 
 #### Herbarium and types
 
-[[Collection HH|HH]], further material at [[Collection MASS|MASS]].
+[[Collection HH (sensu TL-2)|HH]], further material at [[Collection MASS|MASS]].
 
 #### Bibliography and biography
 

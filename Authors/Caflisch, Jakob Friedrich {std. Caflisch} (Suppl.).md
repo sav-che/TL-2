@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection M|M]], further material at [[Collection BR|BR]], [[Collection HH|HH]], [[Collection KIEL|KIEL]], [[Collection W|W]](Orch).
+[[Collection M|M]], further material at [[Collection BR|BR]], [[Collection HH (sensu TL-2)|HH]], [[Collection KIEL|KIEL]], [[Collection W|W]](Orch).
 
 #### Note
 

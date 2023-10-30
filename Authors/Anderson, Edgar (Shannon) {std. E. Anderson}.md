@@ -7,7 +7,7 @@ Anderson, Edgar \[Shannon\], (1897-1969), American biosystematist and geneticist
 
 #### Herbarium and types
 
-[[Collection MO|MO]]; further material at [[Collection A|A]], [[Collection CEL|CEL]], [[Collection DAO|DAO]], [[Collection FW|FW]], [[Collection HH|HH]], [[Collection K|K]], [[Collection KMG|KMG]], [[Collection NTSC|NTSC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection WELC|WELC]].
+[[Collection MO|MO]]; further material at [[Collection A|A]], [[Collection CEL|CEL]], [[Collection DAO|DAO]], [[Collection FW|FW]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection KMG|KMG]], [[Collection NTSC|NTSC]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection WELC|WELC]].
 
 #### Bibliography and biography
 

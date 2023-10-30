@@ -7,7 +7,7 @@ Cornaz, Charles Auguste Edouard (1825-1911), French-Swiss physician and botanist
 
 #### Herbarium and types
 
-[[Collection GZU|GZU]], further material in [[Collection AUK|AUK]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection NEU|NEU]], [[Collection PC|PC]].
+[[Collection GZU|GZU]], further material in [[Collection AUK|AUK]] \[[[Collection A|A]], [[Collection AK|AK]]?\], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection NEU|NEU]], [[Collection PC|PC]].
 
 #### Bibliography and biography
 

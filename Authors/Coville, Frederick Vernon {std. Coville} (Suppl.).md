@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection US|US]], further material at [[Collection B|B]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection HH|HH]], [[Collection K|K]], [[Collection MIN|MIN]] (Holzinger), [[Collection MO|MO]], [[Collection NA|NA]], [[Collection NY|NY]] (Underwood), [[Collection PH|PH]].
+[[Collection US|US]], further material at [[Collection B|B]], [[Collection C|C]], [[Collection DBN|DBN]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection MIN|MIN]] (Holzinger), [[Collection MO|MO]], [[Collection NA|NA]], [[Collection NY|NY]] (Underwood), [[Collection PH|PH]].
 
 #### Bibliography and biography
 

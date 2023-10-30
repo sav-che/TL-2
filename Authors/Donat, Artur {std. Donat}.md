@@ -7,7 +7,7 @@ Donat, Artur (1893-1937), German botanist, born 26 Dec 1893 at Brück, Prov. Bra
 
 #### Herbarium and types
 
-[[Collection B|B]], [[Collection BA|BA]], [[Collection BM|BM]], [[Collection CAS|CAS]], [[Collection F|F]], [[Collection G|G]], [[Collection GB|GB]], [[Collection HH|HH]], [[Collection K|K]], [[Collection LIL|LIL]], [[Collection M|M]], [[Collection MU|MU]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SI|SI]], [[Collection U|U]].
+[[Collection B|B]], [[Collection BA|BA]], [[Collection BM|BM]], [[Collection CAS|CAS]], [[Collection F|F]], [[Collection G|G]], [[Collection GB|GB]], [[Collection HH (sensu TL-2)|HH]], [[Collection K|K]], [[Collection LIL|LIL]], [[Collection M|M]], [[Collection MU|MU]], [[Collection NY|NY]], [[Collection S|S]], [[Collection SI|SI]], [[Collection U|U]].
 
 #### Bibliography and biography
 

@@ -7,7 +7,7 @@ Peck, Morton Eaton (1871-1959), American botanist; B.A. Cornell College, Iowa, 1
 
 #### Herbarium and types
 
-[[Collection WILLU|WILLU]] (35.000) (on permanent loan at [[Collection OSC|OSC]]), other material e.g. at [[Collection B|B]], [[Collection BHC|BHC]], [[Collection DS|DS]], [[Collection F|F]], [[Collection GH|GH]], [[Collection ISC|ISC]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OSC|OSC]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection WTU|WTU]]. –
+[[Collection WILLU|WILLU]] (35.000) (on permanent loan at [[Collection OSC|OSC]]), other material e.g. at [[Collection B|B]], [[Collection BH|BH]], [[Collection C|C]], [[Collection DS|DS]], [[Collection F|F]], [[Collection GH|GH]], [[Collection ISC|ISC]], [[Collection K|K]], [[Collection L|L]], [[Collection MICH|MICH]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OSC|OSC]], [[Collection PH|PH]], [[Collection POM|POM]], [[Collection WTU|WTU]]. –
 Field note books in Smithsonian Archives.
 
 #### Bibliography and biography

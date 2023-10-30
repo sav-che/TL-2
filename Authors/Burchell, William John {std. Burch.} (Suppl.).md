@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection K|K]], further material in [[Collection AWH|AWH]], [[Collection B|B]](1074), [[Collection BM|BM]] (algae), [[Collection BR|BR]], [[Collection CN|CN]], [[Collection COLO|COLO]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection GRA|GRA]], [[Collection H|H]]-SOL, [[Collection HH|HH]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection SAM|SAM]], [[Collection US|US]], [[Collection W|W]] (orch.).
+[[Collection K|K]], further material in [[Collection AWH|AWH]], [[Collection B|B]](1074), [[Collection BM|BM]] (algae), [[Collection BR|BR]], [[Collection CN|CN]], [[Collection COLO|COLO]], [[Collection DBN|DBN]], [[Collection E|E]], [[Collection FI|FI]], [[Collection G|G]], [[Collection GOET|GOET]], [[Collection GRA|GRA]], [[Collection H|H]]-SOL, [[Collection HH (sensu TL-2)|HH]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection MO|MO]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection P|P]], [[Collection PRE|PRE]], [[Collection S|S]], [[Collection SAM|SAM]], [[Collection US|US]], [[Collection W|W]] (orch.).
 
 #### Bibliography and biography
 

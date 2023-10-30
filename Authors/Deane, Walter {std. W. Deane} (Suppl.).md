@@ -9,7 +9,7 @@
 
 #### Herbarium and types
 
-[[Collection HH|HH]] (40.000), further material at [[Collection DBN|DBN]], [[Collection ILL|ILL]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]].
+[[Collection HH (sensu TL-2)|HH]] (40.000), further material at [[Collection DBN|DBN]], [[Collection ILL|ILL]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection US|US]].
 
 #### Bibliography and biography
 

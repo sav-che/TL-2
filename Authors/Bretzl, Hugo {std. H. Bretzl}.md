@@ -7,7 +7,7 @@ Bretzl, Hugo (1878-x), German botanist and philologist, born at Diedolshausen, K
 
 #### Herbarium and types
 
-[[Collection B|B]](3500), further material [[Collection HH|HH]].
+[[Collection B|B]](3500), further material [[Collection HH (sensu TL-2)|HH]].
 
 #### Bibliography and biography
 

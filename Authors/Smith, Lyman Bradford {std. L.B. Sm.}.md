@@ -7,7 +7,7 @@ Smith, Lyman Bradford (1904-x), American botanist; Dr. phil. Harvard 1930; scien
 
 #### Herbarium and types
 
-[[Collection HH (modern)|HH]] and [[Collection US|US]]; further material at [[Collection BR|BR]], [[Collection DBN|DBN]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection FLOR|FLOR]], [[Collection HBR|HBR]], [[Collection K|K]], [[Collection LAM|LAM]], [[Collection NY|NY]], [[Collection R|R]], [[Collection RJ|RJ]] \[[[Collection RB|RB]]?\], [[Collection S|S]]. – *Letters* at [[Collection G|G]] and SIA.
+[[Collection HH (sensu TL-2)|HH]] and [[Collection US|US]]; further material at [[Collection BR|BR]], [[Collection DBN|DBN]], [[Collection DPU|DPU]], [[Collection E|E]], [[Collection FLOR|FLOR]], [[Collection HBR|HBR]], [[Collection K|K]], [[Collection LAM|LAM]], [[Collection NY|NY]], [[Collection R|R]], [[Collection RJ|RJ]] \[[[Collection RB|RB]]?\], [[Collection S|S]]. – *Letters* at [[Collection G|G]] and SIA.
 
 #### Bibliography and biography
 
