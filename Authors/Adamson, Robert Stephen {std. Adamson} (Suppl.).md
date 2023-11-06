@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/item/103858#page/37/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33264750) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-\* Adamson, Robert Stephen (1885-1965), British botanist, educated Kelvinside Academy, Glasgow, studied at Univ. Edinburgh 1902-1907 (M.A. and D.Sc.), at Emmanuel College, Cambridge 1907-1912, M.A. Cant. 1912, lecturer at Manchester Univ. 1907-1923, second Harry Bolus Professor at Cape Town University 1923-1950, retired 1950 and settled again in Great Britain 1955. (*Adamson*).
+\* Adamson, Robert Stephen (1885-1965), British botanist, educated Kelvinside Academy, Glasgow, studied at Univ. Edinburgh 1902-1907 (M.A. and D.Sc.), at Emmanuel College, Cambridge 1907-1912, M.A. Cant. 1912, lecturer at Manchester Univ. 1907-1923, second Harry Bolus Professor at Cape Town University 1923-1950, retired 1950 and settled again in Great Britain 1955. 
+**Abbreviated name**: *Adamson*
 
 #### Herbarium and types
 

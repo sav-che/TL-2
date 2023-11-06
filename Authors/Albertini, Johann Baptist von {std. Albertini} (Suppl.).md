@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103858#page/72/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33264787) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Albertini, Johannes Baptista von {std. Albertini}|first entry]] for this author
 
 ### Author
 
-\* Albertini, Johann Baptist von (1769-1831), German (Neuwied, Rheinland) Moravian brother and mycologist; early education at Niesky (Sachsen) and Barby 1782-1788, teacher at Niesky 1788-1789, id. at the Moravian "Pädagogium" at Niesky (1789), id. Barby 1789-1796, at the Niesky Seminary 1796-1804, from 1804-1810 as inspector and pastor, pastor at Gnadenberg 1814-1818, Gnadenfrei 1818-1821, to Berthelsdorf nr. Herrnhut 1821, from 1824 head of the entire Moravian church. (*Albertini*).
+\* Albertini, Johann Baptist von (1769-1831), German (Neuwied, Rheinland) Moravian brother and mycologist; early education at Niesky (Sachsen) and Barby 1782-1788, teacher at Niesky 1788-1789, id. at the Moravian "Pädagogium" at Niesky (1789), id. Barby 1789-1796, at the Niesky Seminary 1796-1804, from 1804-1810 as inspector and pastor, pastor at Gnadenberg 1814-1818, Gnadenfrei 1818-1821, to Berthelsdorf nr. Herrnhut 1821, from 1824 head of the entire Moravian church. 
+**Abbreviated name**: *Albertini*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103858#page/95/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33264810) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Almquist, Ernst Bernhard {std. E.B. Almq.}|first entry]] for this author
 
 ### Author
 
-\* Almquist, Ernst Bernhard (1852-1946), Swedish physician and lichenologist, uncle of E.G. Almquist, brother of S.O.I. Almquist, studied medicine at Uppsala from 1870, med. kand. 1875, med.lic. Karolinska Institut in Stockholm 1881, Dr. med. 1882, town-physician at Göteborg, professor of hygiene at the Karolinska Institut 1891-1917, physician on the Vega expedition 1878-1888. (*E.B. Almq.*).
+\* Almquist, Ernst Bernhard (1852-1946), Swedish physician and lichenologist, uncle of E.G. Almquist, brother of S.O.I. Almquist, studied medicine at Uppsala from 1870, med. kand. 1875, med.lic. Karolinska Institut in Stockholm 1881, Dr. med. 1882, town-physician at Göteborg, professor of hygiene at the Karolinska Institut 1891-1917, physician on the Vega expedition 1878-1888. 
+**Abbreviated name**: *E.B. Almq.*
 
 #### Herbarium and types
 

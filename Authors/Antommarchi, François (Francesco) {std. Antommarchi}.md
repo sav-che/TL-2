@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/item/103858#page/145/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33264860) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Antommarchi, François \[Francesco\] (1780-1838), Corsican physician, sometime professor of anatomy at Firenze, private physician to Napoleon Bonaparte on St. Helena from 1819, ultimately in Cuba. (*Antommarchi*).
+Antommarchi, François \[Francesco\] (1780-1838), Corsican physician, sometime professor of anatomy at Firenze, private physician to Napoleon Bonaparte on St. Helena from 1819, ultimately in Cuba. 
+**Abbreviated name**: *Antommarchi*
 
 #### Herbarium and types
 

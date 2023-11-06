@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103858#page/18/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33264769) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abel, Lothar (fl. 1882), Austrian dendrologist. (*L. Abel*).
+Abel, Lothar (fl. 1882), Austrian dendrologist. 
+**Abbreviated name**: *L. Abel*
 
 #### Bibliography and biography
 

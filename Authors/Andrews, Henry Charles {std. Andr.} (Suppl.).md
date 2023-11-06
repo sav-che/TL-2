@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103858#page/137/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andrews, Henry C. {std. Andr.}|first entry]] for this author
 
 ### Author
 
-\* Andrews, Henry Charles (fl. 1799-1830), British botanical painter and engraver of Knightbridge, London. (*Andr.*).
+\* Andrews, Henry Charles (fl. 1799-1830), British botanical painter and engraver of Knightbridge, London. 
+**Abbreviated name**: *Andr.*
 
 #### Herbarium and types
 

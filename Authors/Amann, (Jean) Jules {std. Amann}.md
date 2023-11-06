@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103858#page/105/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33264820) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Amann, \[Jean\] Jules (1859-1939), Swiss bryologist, studied pharmacy at the University of Lausanne, led toward bryology by L. Farrat, pharmacist at Davos, moved to Zürich 1893 and somewhat later to Lausanne, again in charge of pharmacy, Dr. phil. Lausanne 1900, dedicated himself to his chemical and bacteriological laboratory 1903, later to cryptogamic research, Dr. Sci. 1900, Dr. h.c. 1928 (École polytechn. féderale). (*Amann*).
+Amann, \[Jean\] Jules (1859-1939), Swiss bryologist, studied pharmacy at the University of Lausanne, led toward bryology by L. Farrat, pharmacist at Davos, moved to Zürich 1893 and somewhat later to Lausanne, again in charge of pharmacy, Dr. phil. Lausanne 1900, dedicated himself to his chemical and bacteriological laboratory 1903, later to cryptogamic research, Dr. Sci. 1900, Dr. h.c. 1928 (École polytechn. féderale). 
+**Abbreviated name**: *Amann*
 
 #### Herbarium and types
 

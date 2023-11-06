@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103414#page/96/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33120179) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[André, Édouard (François) {std. André} (Suppl.)|second entry]] for this author
 
 ### Author
 
-André, Édouard François (1840-1911), French horticulturist and traveller in South America. (*André*).
+André, Édouard François (1840-1911), French horticulturist and traveller in South America. 
+**Abbreviated name**: *André*
 
 #### Herbarium and types
 

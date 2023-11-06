@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103858#page/14/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33264773) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abbado, Michele (fl. 1900-1915), Italian phytopathologist, Dr. sci. nat., assistant at the R. Scuola superiore d'Agricoltura, and professor of natural history at the Lyceum Beccacia, Milano. (*Abbado*).
+Abbado, Michele (fl. 1900-1915), Italian phytopathologist, Dr. sci. nat., assistant at the R. Scuola superiore d'Agricoltura, and professor of natural history at the Lyceum Beccacia, Milano. 
+**Abbreviated name**: *Abbado*
 
 #### Herbarium and types
 

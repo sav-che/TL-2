@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103858#page/65/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33264742) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aikin, John (1747-1822), British (Leicester-born) physician and naturalist; studied medicine in London and Edinburgh, practising in various places, M.D. Leiden 1784, practising in Yarmouth 1784-1792, removed to London 1797, abandoned his medical profession for health reasons 1797, retired to Stoke Newington (London). (*Aikin*).
+Aikin, John (1747-1822), British (Leicester-born) physician and naturalist; studied medicine in London and Edinburgh, practising in various places, M.D. Leiden 1784, practising in Yarmouth 1784-1792, removed to London 1797, abandoned his medical profession for health reasons 1797, retired to Stoke Newington (London). 
+**Abbreviated name**: *Aikin*
 
 #### Herbarium and types
 

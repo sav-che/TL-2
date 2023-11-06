@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103414#page/61/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33120106) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Agardh, Carl Adolph {std. C. Agardh} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Agardh, Carl Adolf (1785-1859), Swedish algologist, professor at Lund (1807-1835), later bishop of Karlstad.(*C. Agardh*).
+Agardh, Carl Adolf (1785-1859), Swedish algologist, professor at Lund (1807-1835), later bishop of Karlstad.
+**Abbreviated name**: *C. Agardh*
 
 #### Herbarium and types
 

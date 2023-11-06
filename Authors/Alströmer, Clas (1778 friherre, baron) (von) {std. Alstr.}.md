@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/item/103414#page/86/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33120169) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alströmer, Clas {std. Alstr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alströmer, Clas (1778: friherre, baron) \[von\] (1736-1794), Swedish naturalist, pupil of Linnaeus. (*Alstr.*).
+Alströmer, Clas (1778: friherre, baron) \[von\] (1736-1794), Swedish naturalist, pupil of Linnaeus. 
+**Abbreviated name**: *Alstr.*
 
 #### Herbarium and types
 

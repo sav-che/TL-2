@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103858#page/63/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33264740) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ahrens, Ernst (*fl*. 1892-1895), German botanist and teacher at the Kön. Victoria Gymnasium in Burg, nr. Magdeburg, Prussia. (*Ahrens*).
+Ahrens, Ernst (*fl*. 1892-1895), German botanist and teacher at the Kön. Victoria Gymnasium in Burg, nr. Magdeburg, Prussia. 
+**Abbreviated name**: *Ahrens*
 
 #### Herbarium and types
 

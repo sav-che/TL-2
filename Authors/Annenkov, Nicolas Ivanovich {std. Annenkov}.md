@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103414#page/101/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33120184) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Annenkov, Nicolas Ivanovich (1819-1889), Russian cryptogamist. (*Annenkov*).
+Annenkov, Nicolas Ivanovich (1819-1889), Russian cryptogamist. 
+**Abbreviated name**: *Annenkov*
 
 #### Herbarium and types
 

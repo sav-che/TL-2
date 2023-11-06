@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103858#page/73/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33264788) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alboff (Albov), Nicolai Michailowitch {std. Alboff}|first entry]] for this author
 
 ### Author
 
-\* Alboff, Nicolas Michailowitch (1866-1897), Russian botanist; studied at the universities of Moscow, St. Pétersbourg and Odessa, travelled in the Caucasus and Lazistan 1889-1892, worked at the Herbier Boissier, Genève, identifying his material 1893-1894, collected for Barbey-Boissier in the Caucasus Mai-Oct 1893, again the Caucasus 1894-1895, at the Museum of Natural History at La Plata, Argentina 1895-1897, collected at Tierra del Fuego. (*Alboff*).
+\* Alboff, Nicolas Michailowitch (1866-1897), Russian botanist; studied at the universities of Moscow, St. Pétersbourg and Odessa, travelled in the Caucasus and Lazistan 1889-1892, worked at the Herbier Boissier, Genève, identifying his material 1893-1894, collected for Barbey-Boissier in the Caucasus Mai-Oct 1893, again the Caucasus 1894-1895, at the Museum of Natural History at La Plata, Argentina 1895-1897, collected at Tierra del Fuego. 
+**Abbreviated name**: *Alboff*
 
 #### Herbarium and types
 

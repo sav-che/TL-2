@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103858#page/42/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33264719) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Adler, Wilhelm (fl. 1834-1843), German botanist and proprietor of an estate in Wohlsdorf in the Ziegenrücker Kreis, Prussian Saxony (exclave in Thüringen). (*W. Adler*).
+Adler, Wilhelm (fl. 1834-1843), German botanist and proprietor of an estate in Wohlsdorf in the Ziegenrücker Kreis, Prussian Saxony (exclave in Thüringen). 
+**Abbreviated name**: *W. Adler*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103858#page/104/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33264819) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alten, Johann Wilhelm von {std. J. Alten}|first entry]] for this author
 
 ### Author
 
-\* Alten, Johann Wilhelm von (1770-1854), German pharmacist, botanist and malacologist at Augsburg (Bayern), member of the Regensburgische Botanische Gesellschaft 1807. (*J.W. v. Alten*).
+\* Alten, Johann Wilhelm von (1770-1854), German pharmacist, botanist and malacologist at Augsburg (Bayern), member of the Regensburgische Botanische Gesellschaft 1807. 
+**Abbreviated name**: *J.W. v. Alten*
 
 #### Herbarium and types
 

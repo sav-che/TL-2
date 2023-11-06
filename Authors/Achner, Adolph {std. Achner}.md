@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103858#page/28/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Achner, Adolph (fl. 1904), Rumanian pharmacist, Dr. pharm. Zürich 1904. (*Achner*).
+Achner, Adolph (fl. 1904), Rumanian pharmacist, Dr. pharm. Zürich 1904. 
+**Abbreviated name**: *Achner*
 
 #### Herbarium and types
 

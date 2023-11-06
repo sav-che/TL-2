@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103414#page/90/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33120173) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Amman, Johann (1707-1741), Swiss botanist in St. Petersburg. (*Amman*).
+Amman, Johann (1707-1741), Swiss botanist in St. Petersburg. 
+**Abbreviated name**: *Amman*
 
 #### Herbarium and types
 

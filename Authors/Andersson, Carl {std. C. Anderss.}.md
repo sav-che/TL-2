@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103858#page/123/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33264838) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andersson, Carl, (1818-1846), Swedish botanist, studied at Uppsala University 1838, med. cand. ib. 1843, med. lic. ib. 1845. (*C. Anderss.*).
+Andersson, Carl, (1818-1846), Swedish botanist, studied at Uppsala University 1838, med. cand. ib. 1843, med. lic. ib. 1845. 
+**Abbreviated name**: *C. Anderss.*
 
 #### Herbarium and types
 

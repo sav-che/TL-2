@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/item/103414#page/86/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33120169) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alston, Arthur Hugh Garfit {std. Alston} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alston, Arthur Hugh Garfit (1902-1958), British pteridologist and plant collector. (*Alston*).
+Alston, Arthur Hugh Garfit (1902-1958), British pteridologist and plant collector. 
+**Abbreviated name**: *Alston*
 
 #### Herbarium and types
 

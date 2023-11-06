@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/103858#page/141/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33264856) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ansberque, Edme (1828-1905), French military veterinarian and botanist at Lyon, ultimately at Besançon. (*Ansberque*).
+Ansberque, Edme (1828-1905), French military veterinarian and botanist at Lyon, ultimately at Besançon. 
+**Abbreviated name**: *Ansberque*
 
 #### Herbarium and types
 

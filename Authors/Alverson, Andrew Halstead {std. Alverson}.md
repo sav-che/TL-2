@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/item/103414#page/87/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33120170) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Alverson, Andrew Halstead (1845-1916), Californian cactus collector. (*Alverson*).
+Alverson, Andrew Halstead (1845-1916), Californian cactus collector. 
+**Abbreviated name**: *Alverson*
 
 #### Herbarium and types
 

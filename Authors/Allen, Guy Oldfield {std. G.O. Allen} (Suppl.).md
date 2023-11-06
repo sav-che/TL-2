@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103858#page/84/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33264799) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allen, Guy Oldfield {std. G.O. Allen}|first entry]] for this author
 
 ### Author
 
-\* Allen, Guy Oldfield (1883-1963), British algologist specialized on Charophyta; studied law at Oxford; in the Indian Civil Service 1908-1933; in retirement ultimately in St. Oswald's Enton Green, Surrey, England. (*G.O. Allen*).
+\* Allen, Guy Oldfield (1883-1963), British algologist specialized on Charophyta; studied law at Oxford; in the Indian Civil Service 1908-1933; in retirement ultimately in St. Oswald's Enton Green, Surrey, England. 
+**Abbreviated name**: *G.O. Allen*
 
 #### Herbarium and types
 

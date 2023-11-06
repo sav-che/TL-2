@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103858#page/65/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33264742) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ainslie, James Robert (1889-x), British forester, B.Sc. Oxford, Dipl. For. Oxford, chief conservator of forests, Nigeria. (*Ainslie*).
+Ainslie, James Robert (1889-x), British forester, B.Sc. Oxford, Dipl. For. Oxford, chief conservator of forests, Nigeria. 
+**Abbreviated name**: *Ainslie*
 
 #### Herbarium and types
 

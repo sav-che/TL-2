@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103414#page/78/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33120161) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allemão (e Cysneiro), Francisco Freire {std. Allemão} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Allemão e Cysneiro, Francisco Freire (1797-1874), Brazilian botanist. (*Allemão*).
+Allemão e Cysneiro, Francisco Freire (1797-1874), Brazilian botanist. 
+**Abbreviated name**: *Allemão*
 
 #### Herbarium and types
 

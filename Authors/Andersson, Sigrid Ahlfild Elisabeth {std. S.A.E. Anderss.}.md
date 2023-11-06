@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103858#page/130/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33264845) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andersson, Sigrid Ahlfild Elisabeth (1868-1918), Swedish botanist, daughter of N.J. Andersson, studied at the University of Stockholm 1885-1888, medical assistant at the Karolingska Institute (histological dept.) 1888, married J.G. Rissler 1895. (*S.A.E. Anderss.*).
+Andersson, Sigrid Ahlfild Elisabeth (1868-1918), Swedish botanist, daughter of N.J. Andersson, studied at the University of Stockholm 1885-1888, medical assistant at the Karolingska Institute (histological dept.) 1888, married J.G. Rissler 1895. 
+**Abbreviated name**: *S.A.E. Anderss.*
 
 #### Herbarium and types
 

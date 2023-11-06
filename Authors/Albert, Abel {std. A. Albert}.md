@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103858#page/71/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33264748) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Albert, Abel (1836-1909), French botanist and school-teacher, sometime bookseller (incl. photography) at Saint-Tropez, teacher in the Dept. Var 1863-1879, from 1880 id. at La Farlède (Soliès-Toucas) (Var), working on the French mediterranean flora. (*A. Albert*).
+Albert, Abel (1836-1909), French botanist and school-teacher, sometime bookseller (incl. photography) at Saint-Tropez, teacher in the Dept. Var 1863-1879, from 1880 id. at La Farlède (Soliès-Toucas) (Var), working on the French mediterranean flora. 
+**Abbreviated name**: *A. Albert*
 
 #### Herbarium and types
 

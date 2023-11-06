@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/103858#page/79/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33264794) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allamand, Frédéric {std. Allam.}|first entry]] for this author
 
 ### Author
 
-\* Allamand, Jean Frédéric François Louis (1735, 1736 (baptized) – c. 1803), Swiss physician, Dr. med. Leiden 1749, correspondent of Linnaeus, in Suriname 1755-1770, making various expeditions ca. 1759-1760, went to Essequibo, Guyana ca. 1756. (*Allam.*).
+\* Allamand, Jean Frédéric François Louis (1735, 1736 (baptized) – c. 1803), Swiss physician, Dr. med. Leiden 1749, correspondent of Linnaeus, in Suriname 1755-1770, making various expeditions ca. 1759-1760, went to Essequibo, Guyana ca. 1756. 
+**Abbreviated name**: *Allam.*
 
 #### Herbarium and types
 

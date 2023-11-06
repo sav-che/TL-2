@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103858#page/43/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33264720) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Adriani, Marcus Jan (1908-x), Dutch geobotanist of the Montpellier school. (*Adriani*).
+Adriani, Marcus Jan (1908-x), Dutch geobotanist of the Montpellier school. 
+**Abbreviated name**: *Adriani*
 
 #### Bibliography and biography
 

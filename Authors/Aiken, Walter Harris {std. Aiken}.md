@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103858#page/64/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33264741) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aiken, Walter Harris (1856-1935), American amateur botanist, music teacher in Cincinnati for 56 years. (*Aiken*).
+Aiken, Walter Harris (1856-1935), American amateur botanist, music teacher in Cincinnati for 56 years. 
+**Abbreviated name**: *Aiken*
 
 #### Herbarium and types
 

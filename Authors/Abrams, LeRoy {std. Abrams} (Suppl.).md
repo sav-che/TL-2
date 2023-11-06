@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103858#page/22/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33264765) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Abrams, LeRoy {std. Abrams}|first entry]] for this author
 
 ### Author
 
-\* Abrams, LeRoy (1874-1956), American (Sheffield, Iowa) botanist, at the University of South California 1895, at Stanford University 1896, A.B. Stanford Jun 1899; acting professor of botany at the University of Idaho 1899-1900, graduate student and assistant with W.R. Russel at Stanford 1900-1902, MA. 1902, instructor in botany ib. 1902-1904; graduate fellow in botany Columbia University working at the New York Botanical Garden 1904-1905 with N.L. Britton, J.K. Small and P.A. Rydberg; assistant curator at the National Museum, Washington, D.C. 1905-1906; assistant professor of botany at Stanford 1906-1912, associate professor 1912, full professor 1920, head of the Department of Botany ib. 1933-1934, director of the Natural History Museum ib. 1934-1940, emeritus professor of biology ib. 1940-1956, continuing his work on the Illustrated flora of the Pacific States. (*Abrams*).
+\* Abrams, LeRoy (1874-1956), American (Sheffield, Iowa) botanist, at the University of South California 1895, at Stanford University 1896, A.B. Stanford Jun 1899; acting professor of botany at the University of Idaho 1899-1900, graduate student and assistant with W.R. Russel at Stanford 1900-1902, MA. 1902, instructor in botany ib. 1902-1904; graduate fellow in botany Columbia University working at the New York Botanical Garden 1904-1905 with N.L. Britton, J.K. Small and P.A. Rydberg; assistant curator at the National Museum, Washington, D.C. 1905-1906; assistant professor of botany at Stanford 1906-1912, associate professor 1912, full professor 1920, head of the Department of Botany ib. 1933-1934, director of the Natural History Museum ib. 1934-1940, emeritus professor of biology ib. 1940-1956, continuing his work on the Illustrated flora of the Pacific States. 
+**Abbreviated name**: *Abrams*
 
 #### Herbarium and types
 

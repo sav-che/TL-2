@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103414#page/103/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33120186) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Anzi, Martino {std. Anzi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Anzi, Martino (1812-1883), Italian cryptogamist. (*Anzi*).
+Anzi, Martino (1812-1883), Italian cryptogamist. 
+**Abbreviated name**: *Anzi*
 
 #### Herbarium and types
 

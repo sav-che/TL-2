@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103858#page/148/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33264863) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aphonin, Matheus \[Matwey\] (1740- post 1777), Russian Student of Linnaeus 1761-1769, Dr. med. Uppsala 1766, professor of natural history in Moscow 1769-1777. (*Aphonin*).
+Aphonin, Matheus \[Matwey\] (1740- post 1777), Russian Student of Linnaeus 1761-1769, Dr. med. Uppsala 1766, professor of natural history in Moscow 1769-1777. 
+**Abbreviated name**: *Aphonin*
 
 #### Herbarium and types
 

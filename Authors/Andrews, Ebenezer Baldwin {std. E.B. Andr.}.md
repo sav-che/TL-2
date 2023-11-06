@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103858#page/137/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andrews, Ebenezer Baldwin (1821-1880), American (Connecticut born) clergyman and palaeontologist, also egg collector; graduated from Marietta College, Ohio 1842, professor of geology in Marietta College 1851-1869, from 1869 assistant geologist to the Ohio State Survey. (*E.B. Andr.*).
+Andrews, Ebenezer Baldwin (1821-1880), American (Connecticut born) clergyman and palaeontologist, also egg collector; graduated from Marietta College, Ohio 1842, professor of geology in Marietta College 1851-1869, from 1869 assistant geologist to the Ohio State Survey. 
+**Abbreviated name**: *E.B. Andr.*
 
 #### Herbarium and types
 

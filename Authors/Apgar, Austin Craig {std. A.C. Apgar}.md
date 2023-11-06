@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/item/103858#page/147/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33264862) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Apgar, Austin Craig (1838-1908), American (New Jersey) botanist. (*A.C. Apgar*).
+Apgar, Austin Craig (1838-1908), American (New Jersey) botanist. 
+**Abbreviated name**: *A.C. Apgar*
 
 #### Herbarium and types
 

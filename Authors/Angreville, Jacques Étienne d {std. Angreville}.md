@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103858#page/140/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33264855) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Angreville, Jacques Étienne d' (1808-1867), Swiss botanist at Saint-Maurice, Valais. (*Angreville*).
+Angreville, Jacques Étienne d' (1808-1867), Swiss botanist at Saint-Maurice, Valais. 
+**Abbreviated name**: *Angreville*
 
 #### Herbarium and types
 

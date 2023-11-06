@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103858#page/153/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33264868) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arber, Edward Alexander Newell {std. E. Arber}|first entry]] for this author
 
 ### Author
 
-\* Arber, Edward Alexander Newell (1870-1918), British palaeobotanist, stayed at Davos at the age of 15 for health reasons, educated at King Edward's School, Birmingham, at Mason's College and University College London; gardening in the Royal Horticultural Society's gardens at Chiswick 1893-1894; to Trinity College Cambridge 1895, studying botany; demonstrator on palaeobotany ib., working at the Sedgwick Museum until 1918; married Agnes Robertson \[Arber\]. (*E. Arber*).
+\* Arber, Edward Alexander Newell (1870-1918), British palaeobotanist, stayed at Davos at the age of 15 for health reasons, educated at King Edward's School, Birmingham, at Mason's College and University College London; gardening in the Royal Horticultural Society's gardens at Chiswick 1893-1894; to Trinity College Cambridge 1895, studying botany; demonstrator on palaeobotany ib., working at the Sedgwick Museum until 1918; married Agnes Robertson \[Arber\]. 
+**Abbreviated name**: *E. Arber*
 
 #### Herbarium and types
 

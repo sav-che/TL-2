@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103858#page/65/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33264742) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aikin, William Edward Augustin (1807-1888), American botanist and chemist, studied at the Renselaer Institute, lic. N.Y. State Med. Soc. and hon. M.D. Vermont Academy of medicine, in Baltimore from 1832 in various capacities at the University of Maryland, professor of chemistry 1837-1883, emeritus professor 1883-1888, L.L.D. 1843. (*W. Aikin*).
+Aikin, William Edward Augustin (1807-1888), American botanist and chemist, studied at the Renselaer Institute, lic. N.Y. State Med. Soc. and hon. M.D. Vermont Academy of medicine, in Baltimore from 1832 in various capacities at the University of Maryland, professor of chemistry 1837-1883, emeritus professor 1883-1888, L.L.D. 1843. 
+**Abbreviated name**: *W. Aikin*
 
 #### Herbarium and types
 

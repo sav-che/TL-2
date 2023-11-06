@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103858#page/133/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33264848) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-André, Eugène (x-1922), French orchid collector for Sander and Sons. (*Eug. André*).
+André, Eugène (x-1922), French orchid collector for Sander and Sons. 
+**Abbreviated name**: *Eug. André*
 
 #### Herbarium and types
 

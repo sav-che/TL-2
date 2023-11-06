@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/item/103858#page/151/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33264866) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arber, Agnes (née Robertson) {std. A. Arber}|first entry]] for this author
 
 ### Author
 
-\* Arber, Agnes (née Robertson) (1879-1960), British botanist and philosopher, educated at the North London Collegiate School for girls 1887-1897; studied at University College, London 1897-1899, and Newnham College, Cambridge 1899-1902, research assistant to Ethel Sargent at Reigate 1902-1903, continued her research at University College 1903-1909, lecturer in botany ib. 1908-1909, D.Sc. Univ. London 1905, married E.A.N. Arber 1909, private scientist in Cambridge 1909-1960, research fellow Newnham College, Cambridge 1912-1913, 1918-1920. (*A. Arber*).
+\* Arber, Agnes (née Robertson) (1879-1960), British botanist and philosopher, educated at the North London Collegiate School for girls 1887-1897; studied at University College, London 1897-1899, and Newnham College, Cambridge 1899-1902, research assistant to Ethel Sargent at Reigate 1902-1903, continued her research at University College 1903-1909, lecturer in botany ib. 1908-1909, D.Sc. Univ. London 1905, married E.A.N. Arber 1909, private scientist in Cambridge 1909-1960, research fellow Newnham College, Cambridge 1912-1913, 1918-1920. 
+**Abbreviated name**: *A. Arber*
 
 #### Herbarium and types
 

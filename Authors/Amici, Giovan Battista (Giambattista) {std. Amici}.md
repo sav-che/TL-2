@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103858#page/114/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33264829) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Amici, Giovan Battista \[Giambattista\] (1786-1863), Italian astronomer, mathematician and botanist, professor of mathematics at Modena 1815, from 1831 director of the observatory of Florence, designed various refined optical instruments (improved microscopes), botanical physiologist, Dr. med. h.c. Florence 1860. (*Amici*).
+Amici, Giovan Battista \[Giambattista\] (1786-1863), Italian astronomer, mathematician and botanist, professor of mathematics at Modena 1815, from 1831 director of the observatory of Florence, designed various refined optical instruments (improved microscopes), botanical physiologist, Dr. med. h.c. Florence 1860. 
+**Abbreviated name**: *Amici*
 
 #### Herbarium and types
 

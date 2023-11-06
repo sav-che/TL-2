@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103414#page/96/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33120179) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andrä (Andrae), Carl Justus {std. Andrae} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Andrae, Carl Justus (1816-1885), German palaeobotanist, first at Halle, later at Bonn. (*Andrae*).
+Andrae, Carl Justus (1816-1885), German palaeobotanist, first at Halle, later at Bonn. 
+**Abbreviated name**: *Andrae*
 
 #### Collections
 

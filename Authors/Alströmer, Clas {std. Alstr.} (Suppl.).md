@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103858#page/102/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33264817) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alströmer, Clas (1778 friherre, baron) (von) {std. Alstr.}|first entry]] for this author
 
 ### Author
 
-\* Alströmer, Clas (1736-1794), Swedish merchant and naturalist, student of Linnaeus 1750-1753, 1758-1759; commissioner to the College of Commerce, Uppsala 1762-1770, travelled in Europe 1760-1762, partner in the merchandising firm of Nicklaus Sahlgren 1770, invalid ca. 1778, "friherre" 1778. (*Alstr.*).
+\* Alströmer, Clas (1736-1794), Swedish merchant and naturalist, student of Linnaeus 1750-1753, 1758-1759; commissioner to the College of Commerce, Uppsala 1762-1770, travelled in Europe 1760-1762, partner in the merchandising firm of Nicklaus Sahlgren 1770, invalid ca. 1778, "friherre" 1778. 
+**Abbreviated name**: *Alstr.*
 
 #### Herbarium and types
 

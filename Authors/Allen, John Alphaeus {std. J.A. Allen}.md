@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103414#page/79/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allen, John Alpheus {std. J.A. Allen} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Allen, John Alphaeus (1863-1916), American bryologist. (*J. A. Allen*).
+Allen, John Alphaeus (1863-1916), American bryologist. 
+**Abbreviated name**: *J.A. Allen*
 
 #### Herbarium and types
 

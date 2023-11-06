@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103858#page/76/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33264791) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Alcock, Randal Hibbert (1833-1885), British botanist, cottonspinner, of Bury, Lancaster till 1882, retired to Disbury 1882-1885, founder and president of the Bury Natural History Society. (*Alcock*).
+Alcock, Randal Hibbert (1833-1885), British botanist, cottonspinner, of Bury, Lancaster till 1882, retired to Disbury 1882-1885, founder and president of the Bury Natural History Society. 
+**Abbreviated name**: *Alcock*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103414#page/76/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33120159) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alderwerelt van Rosenburgh, Cornelis Rogier ... {std. Alderw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alderwerelt van Rosenburgh, Cornelis Rogier Willem Karel van (1863-1936); Dutch pteridologist working in the East Indies. (*Alderwerelt*).
+Alderwerelt van Rosenburgh, Cornelis Rogier Willem Karel van (1863-1936); Dutch pteridologist working in the East Indies. 
+**Abbreviated name**: *Alderwerelt*
 
 #### Herbarium and types
 

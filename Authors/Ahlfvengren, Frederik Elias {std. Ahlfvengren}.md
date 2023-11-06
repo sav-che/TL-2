@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103858#page/60/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ahlfvengren, Frederik Elias (1862-1921), Swedish botanist, studied at a secondary school in Visby 1876-1882, at the University of Lund 1883, fil. kand. ib. 1888, fil. lic. 1893, Dr. phil. 1897; teacher at various schools in the Stockholm area 1894-1902; lector in natural history and chemistry at a secondary school at Holmstad 1902, idem in Stockholm (Norrmalen) from 1909; from 1883 an active member of Lunds botaniska förening. (*Ahlfvengren*).
+Ahlfvengren, Frederik Elias (1862-1921), Swedish botanist, studied at a secondary school in Visby 1876-1882, at the University of Lund 1883, fil. kand. ib. 1888, fil. lic. 1893, Dr. phil. 1897; teacher at various schools in the Stockholm area 1894-1902; lector in natural history and chemistry at a secondary school at Holmstad 1902, idem in Stockholm (Norrmalen) from 1909; from 1883 an active member of Lunds botaniska förening. 
+**Abbreviated name**: *Ahlfvengren*
 
 #### Herbarium and types
 

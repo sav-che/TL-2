@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103414#page/78/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33120161) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allen, Guy Oldfield {std. G.O. Allen} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Allen, Guy Oldfield (1883-1963), British algologist. (*G. O. Allen*).
+Allen, Guy Oldfield (1883-1963), British algologist. 
+**Abbreviated name**: *G.O. Allen*
 
 #### Herbarium and types
 

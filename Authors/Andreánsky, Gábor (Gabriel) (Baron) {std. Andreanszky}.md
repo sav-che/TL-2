@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103414#page/97/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andreánsky, Gábor (Gabriel) \[Baron\] (1895-1967), Hungarian palaeobotanist. (*Andreanszky*).
+Andreánsky, Gábor (Gabriel) \[Baron\] (1895-1967), Hungarian palaeobotanist. 
+**Abbreviated name**: *Andreanszky*
 
 #### Herbarium, collections, types
 

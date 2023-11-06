@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/103858#page/80/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33264795) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Allan, Harry Howard \[Barton\] (1882-1957), New Zealand ecologist and plant systematist, teacher at Ashburton High School 1918-1922, D.Sc. 1923, head of Fielding Agr. College 1923-1927, systematic botanist at the Botany Division, Dept. scientific and industrial research, Christchurch 1928-1948. (*H.H. Allan*).
+Allan, Harry Howard \[Barton\] (1882-1957), New Zealand ecologist and plant systematist, teacher at Ashburton High School 1918-1922, D.Sc. 1923, head of Fielding Agr. College 1923-1927, systematic botanist at the Botany Division, Dept. scientific and industrial research, Christchurch 1928-1948. 
+**Abbreviated name**: *H.H. Allan*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103858#page/62/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33264739) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ahnfelt, Nils Otto (1801-1837), Swedish botanist and ecclesiastical historian, studied at Lund 1816-1820, Dr.phil. Lund 1820, lecturer in dogma and church history ib.; travelled in S.W. Norway with A.E. Lindblom 1826, private teacher in Greifswald (Germany) 1833-1835, returned to Lund to take his degree, again in Greifswald Aug-Oct 1836, returned to Lund because of his illness. (*Ahnfelt*).
+Ahnfelt, Nils Otto (1801-1837), Swedish botanist and ecclesiastical historian, studied at Lund 1816-1820, Dr.phil. Lund 1820, lecturer in dogma and church history ib.; travelled in S.W. Norway with A.E. Lindblom 1826, private teacher in Greifswald (Germany) 1833-1835, returned to Lund to take his degree, again in Greifswald Aug-Oct 1836, returned to Lund because of his illness. 
+**Abbreviated name**: *Ahnfelt*
 
 #### Herbarium and types
 

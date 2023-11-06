@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103858#page/70/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33264747) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Akiyama, Shigeo (1906-x), Japanese botanist at the Botanical Institute, Faculty of Science, Hokkaido University, Sapporo, specialist in Carex. (*Akiyama*).
+Akiyama, Shigeo (1906-x), Japanese botanist at the Botanical Institute, Faculty of Science, Hokkaido University, Sapporo, specialist in Carex. 
+**Abbreviated name**: *Akiyama*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103858#page/22/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33264765) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abraham, Max (1860-?), German botanist, studied at Königsberg with Caspary, Ph.D. ib. 1885. (*Abraham*).
+Abraham, Max (1860-?), German botanist, studied at Königsberg with Caspary, Ph.D. ib. 1885. 
+**Abbreviated name**: *Abraham*
 
 #### Herbarium and types
 

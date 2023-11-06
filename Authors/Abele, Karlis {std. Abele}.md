@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103858#page/18/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33264769) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abele, Karlis (1896-?), Latvian botanist at the botanical institute of the University of Riga. (*Abele*).
+Abele, Karlis (1896-?), Latvian botanist at the botanical institute of the University of Riga. 
+**Abbreviated name**: *Abele*
 
 #### Herbarium and types
 

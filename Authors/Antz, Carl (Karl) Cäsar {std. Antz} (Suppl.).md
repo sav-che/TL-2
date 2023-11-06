@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/item/103858#page/145/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33264860) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Antz, Carl Cäsar {std. Antz}|first entry]] for this author
 
 ### Author
 
-\* Antz, Carl \[Karl\] Cäsar (1805-1859), German (Mosel) military physician and botanist ultimately "Bataillonsarzt beim 2. Jägerbataillon", Greifswald. (*Antz*).
+\* Antz, Carl \[Karl\] Cäsar (1805-1859), German (Mosel) military physician and botanist ultimately "Bataillonsarzt beim 2. Jägerbataillon", Greifswald. 
+**Abbreviated name**: *Antz*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103858#page/139/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33264854) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andrzeiovski, Antoni Lukianovich {std. Andrzejovski}|first entry]] for this author
 
 ### Author
 
-\* Andrzejowski, Antoni Lukianowicz (1785-1868), Polish naturalist, originally from Wolhynia, studied with W.S.J.G. von Besser at Kiew, Student of the flora of the Ukraine, specialized in Cruciferae and the living and fossil fauna of Southern Russia. (*Andrzejovski*).
+\* Andrzejowski, Antoni Lukianowicz (1785-1868), Polish naturalist, originally from Wolhynia, studied with W.S.J.G. von Besser at Kiew, Student of the flora of the Ukraine, specialized in Cruciferae and the living and fossil fauna of Southern Russia. 
+**Abbreviated name**: *Andrzejovski*
 
 #### Herbarium and types
 

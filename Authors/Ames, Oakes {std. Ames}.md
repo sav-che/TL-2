@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103414#page/89/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33120172) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ames, Oakes {std. Ames} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ames, Oakes (1874-1950), American orchidologist, professor of economic botany at Harvard University (*Ames*).
+Ames, Oakes (1874-1950), American orchidologist, professor of economic botany at Harvard University 
+**Abbreviated name**: *Ames*
 
 #### Herbarium and types
 

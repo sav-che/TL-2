@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/item/103858#page/118/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33264833) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andersen, Anton, (1856-1911), Danish botanist, teacher at a school in Havrehed 1876-1911. (*A. Andersen*).
+Andersen, Anton, (1856-1911), Danish botanist, teacher at a school in Havrehed 1876-1911. 
+**Abbreviated name**: *A. Andersen*
 
 #### Herbarium and types
 

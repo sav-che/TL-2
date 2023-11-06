@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103414#page/56/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33120101) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Adams, (Adam), (Johann) Michael Friedrich {std. M.F. Adams} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Adams, Michael Friedrich (1780-1829/1832), Russian botanist and traveller. (*M. F. Adams*).
+Adams, Michael Friedrich (1780-1829/1832), Russian botanist and traveller. 
+**Abbreviated name**: *M. F. Adams*
 
 #### Herbarium and types
 

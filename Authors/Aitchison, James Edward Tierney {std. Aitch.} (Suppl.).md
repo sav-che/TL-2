@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103858#page/67/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33264744) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aitchison, James Edward Tierney {std. Aitch.}|first entry]] for this author
 
 ### Author
 
-\* Aitchison, James Edward Tierney (1836-1898), British botanist and physician, M.D. and L.R.C.P. Edinburgh 1856, entered the service of the East India Company, first as assistant surgeon in the Bengal Medical Service 1858, ultimately as brigade surgeon until 1888; collected in India 1861-1872, Ireland 1867-1869, Afghanistan 1879-1885. (*Aitch.*).
+\* Aitchison, James Edward Tierney (1836-1898), British botanist and physician, M.D. and L.R.C.P. Edinburgh 1856, entered the service of the East India Company, first as assistant surgeon in the Bengal Medical Service 1858, ultimately as brigade surgeon until 1888; collected in India 1861-1872, Ireland 1867-1869, Afghanistan 1879-1885. 
+**Abbreviated name**: *Aitch.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103858#page/68/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33264745) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aiton, William {std. Aiton}|first entry]] for this author
 
 ### Author
 
-\* Aiton, William (1731-1793), British (Scottish-born) gardener and botanist, came to England 1754, employed at Chelsea as market gardener, superintendent of the Kew Botanical Gardens ("Gardener to his Majesty") 1759-1793, became acquainted with Sir Joseph Banks 1764. (*Aiton*).
+\* Aiton, William (1731-1793), British (Scottish-born) gardener and botanist, came to England 1754, employed at Chelsea as market gardener, superintendent of the Kew Botanical Gardens ("Gardener to his Majesty") 1759-1793, became acquainted with Sir Joseph Banks 1764. 
+**Abbreviated name**: *Aiton*
 
 #### Herbarium and types
 

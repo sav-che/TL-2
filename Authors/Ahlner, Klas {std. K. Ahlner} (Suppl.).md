@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103858#page/60/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ahlner, Klas {std. K. Ahlner}|first entry]] for this author
 
 ### Author
 
-\* Ahlner, Klas (1845-1932), Swedish botanist and highschool teacher, studied at a secondary school in Uppsala from 1864, teacher at a school in Växjo 1872-1911, Dr. phil. Uppsala 1879. (*K. Ahlner*).
+\* Ahlner, Klas (1845-1932), Swedish botanist and highschool teacher, studied at a secondary school in Uppsala from 1864, teacher at a school in Växjo 1872-1911, Dr. phil. Uppsala 1879. 
+**Abbreviated name**: *K. Ahlner*
 
 #### Herbarium and types
 

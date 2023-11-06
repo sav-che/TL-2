@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103858#page/38/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33264749) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Adanson, Michel {std. Adans.}|first entry]] for this author
 
 ### Author
 
-\* Adanson, Michel (1727-1806), French botanist and explorer, born in Aix-en-Provence, from 1730 resident in Paris, educated at the Collège du Cardinal Lemoine and the Collège de France, later at the Jardin du Roi and the Collège Royal, more specifically interested in botany from 1745; in Senegal as a bookkeeping clerk, but with the purpose to study the botany of the area 1749-1754; from then on in Paris mainly dedicated to botany, member of Académie Royale des Sciences in various ranks from 1750. (*Adans.*).
+\* Adanson, Michel (1727-1806), French botanist and explorer, born in Aix-en-Provence, from 1730 resident in Paris, educated at the Collège du Cardinal Lemoine and the Collège de France, later at the Jardin du Roi and the Collège Royal, more specifically interested in botany from 1745; in Senegal as a bookkeeping clerk, but with the purpose to study the botany of the area 1749-1754; from then on in Paris mainly dedicated to botany, member of Académie Royale des Sciences in various ranks from 1750. 
+**Abbreviated name**: *Adans.*
 
 #### Herbarium and types
 

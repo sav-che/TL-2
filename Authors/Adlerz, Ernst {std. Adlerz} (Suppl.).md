@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103858#page/42/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33264719) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Adlerz, Ernst {std. Adlerz}|first entry]] for this author
 
 ### Author
 
-\* Adlerz, Ernst (1854-1918), Swedish botanist (bryologist) and teacher, educated at Linköping and Uppsala, fil. kand. Uppsala 1878, fil. lic. 1881, fil. dr. 1882, lecturer natural history and chemistry at a highschool in Örebro from 1885. (*Adlerz*).
+\* Adlerz, Ernst (1854-1918), Swedish botanist (bryologist) and teacher, educated at Linköping and Uppsala, fil. kand. Uppsala 1878, fil. lic. 1881, fil. dr. 1882, lecturer natural history and chemistry at a highschool in Örebro from 1885. 
+**Abbreviated name**: *Adlerz*
 
 #### Herbarium and types
 

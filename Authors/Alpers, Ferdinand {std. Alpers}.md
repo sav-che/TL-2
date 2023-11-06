@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103858#page/98/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33264813) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Alpers, Ferdinand (1841-1912), German (Preussen/Hannover) botanist and highschool teacher in Achim, rector in Zeven, docent at teachers colleges in Stade and Hannover, teaching music and natural sciences, born in Spieka, d. in Hannover, biographer of Fr. Ehrhart, correspondent of Ascherson, Graebner, Focke, Buchenau and Nöldeke. (*Alpers*).
+Alpers, Ferdinand (1841-1912), German (Preussen/Hannover) botanist and highschool teacher in Achim, rector in Zeven, docent at teachers colleges in Stade and Hannover, teaching music and natural sciences, born in Spieka, d. in Hannover, biographer of Fr. Ehrhart, correspondent of Ascherson, Graebner, Focke, Buchenau and Nöldeke. 
+**Abbreviated name**: *Alpers*
 
 #### Herbarium and types
 

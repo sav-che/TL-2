@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103858#page/28/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Achepohl, Ludwig {std. Achepohl}|first entry]] for this author
 
 ### Author
 
-\* Achepohl, Ludwig (x-1902), German palaeontologist, "Obereinfahrer" at Essen; worker on the carboniferous flora. (*Achepohl*).
+\* Achepohl, Ludwig (x-1902), German palaeontologist, "Obereinfahrer" at Essen; worker on the carboniferous flora. 
+**Abbreviated name**: *Achepohl*
 
 #### Collections
 

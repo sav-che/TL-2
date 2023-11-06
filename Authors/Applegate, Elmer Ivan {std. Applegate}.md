@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103858#page/150/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Applegate, Elmer Ivan (1867-1949), American rancher and ranger botanist, at Stanford University 1895, until to circa 1928 rancher, farmer and businessman in Klamath Falls, Oregon, ranger naturalist at Crater Lake National Park and other protected areas in California 1934-1938, at Stanford hon. acting curator of the Dudley Herbarium 1928-1934 and 1938-1949. (*Applegate*).
+Applegate, Elmer Ivan (1867-1949), American rancher and ranger botanist, at Stanford University 1895, until to circa 1928 rancher, farmer and businessman in Klamath Falls, Oregon, ranger naturalist at Crater Lake National Park and other protected areas in California 1934-1938, at Stanford hon. acting curator of the Dudley Herbarium 1928-1934 and 1938-1949. 
+**Abbreviated name**: *Applegate*
 
 #### Herbarium and types
 

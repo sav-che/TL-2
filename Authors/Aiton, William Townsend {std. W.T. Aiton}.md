@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103414#page/74/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33120157) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aiton, William Townsend {std. W.T. Aiton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Aiton, William Townsend (1766-1849), British gardener and botanist, son of William Aiton, Royal gardener at Kew. (*W. T. Aiton*).
+Aiton, William Townsend (1766-1849), British gardener and botanist, son of William Aiton, Royal gardener at Kew. 
+**Abbreviated name**: *W.T. Aiton*
 
 #### Herbarium and types
 

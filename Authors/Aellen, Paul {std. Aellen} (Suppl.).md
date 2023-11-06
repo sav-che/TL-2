@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103858#page/44/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33264721) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aellen, Paul {std. Aellen}|first entry]] for this author
 
 ### Author
 
-\* Aellen, Paul (1896-1973), Swiss (Basel) botanist and teacher, studied natural sciences at the University of Basel 1915-ca. 1920; director of the École Pestalozzi, Schaffhausen 1921-1927; teacher at various institutions at Basel 1928-1958; specialist on Chenopodium and allies. (*Aellen*).
+\* Aellen, Paul (1896-1973), Swiss (Basel) botanist and teacher, studied natural sciences at the University of Basel 1915-ca. 1920; director of the École Pestalozzi, Schaffhausen 1921-1927; teacher at various institutions at Basel 1928-1958; specialist on Chenopodium and allies. 
+**Abbreviated name**: *Aellen*
 
 #### Herbarium and types
 

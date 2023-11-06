@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103858#page/42/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33264719) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aderholdt, August Eduard (1828-1890), German (Sachsen) physicist and chemist, born in Nordhausen, educated at the Nordhausen "Gymnasium", studied at the Friedrich Wilhelm University (Bonn). (*Aderholdt*).
+Aderholdt, August Eduard (1828-1890), German (Sachsen) physicist and chemist, born in Nordhausen, educated at the Nordhausen "Gymnasium", studied at the Friedrich Wilhelm University (Bonn). 
+**Abbreviated name**: *Aderholdt*
 
 #### Herbarium and types
 

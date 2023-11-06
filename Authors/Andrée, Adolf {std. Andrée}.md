@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103858#page/133/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33264848) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andrée, Adolf (1841-1917), German pharmacist and botanist, educated at the Gymnasium Andreanum, Hildesheim; studied in various pharmacies and, 1864-1865, at Göttingen and Berlin (1866); State-examination pharmacist Hannover 1865; in Charge of the family pharmacy in Münder a. Deister 1868-1887; id. in the Hildebrand pharmacy in Hannover 1887-1900; director of the Hannover Botanical Garden. (*Andrée*).
+Andrée, Adolf (1841-1917), German pharmacist and botanist, educated at the Gymnasium Andreanum, Hildesheim; studied in various pharmacies and, 1864-1865, at Göttingen and Berlin (1866); State-examination pharmacist Hannover 1865; in Charge of the family pharmacy in Münder a. Deister 1868-1887; id. in the Hildebrand pharmacy in Hannover 1887-1900; director of the Hannover Botanical Garden. 
+**Abbreviated name**: *Andrée*
 
 #### Herbarium and types
 

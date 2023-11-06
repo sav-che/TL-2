@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/item/103858#page/143/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33264858) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Antevs, Ernst Valdemar (1888-?), Swedish palaeobotanist, studied at a secondary school in Skara, from 1909 at the University of Stockholm, fil. mag. 1912, fil. lic. 1916, Dr. fil. 1917, lecturer in geology from 1917. (*Antevs*).
+Antevs, Ernst Valdemar (1888-?), Swedish palaeobotanist, studied at a secondary school in Skara, from 1909 at the University of Stockholm, fil. mag. 1912, fil. lic. 1916, Dr. fil. 1917, lecturer in geology from 1917. 
+**Abbreviated name**: *Antevs*
 
 #### Herbarium and types
 

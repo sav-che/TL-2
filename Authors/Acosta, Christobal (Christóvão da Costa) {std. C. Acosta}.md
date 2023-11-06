@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/item/103414#page/55/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33120100) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Acosta, Christobal (Christóvão da Costa) (1512-1580), Portuguese botanist. (*C. Acosta*).
+Acosta, Christobal (Christóvão da Costa) (1512-1580), Portuguese botanist. 
+**Abbreviated name**: *C. Acosta*
 
 #### Herbarium and types
 

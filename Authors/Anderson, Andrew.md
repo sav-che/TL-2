@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103858#page/119/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33264834) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Anderson, Andrew (fl. 1813), American physician in New York, A.B. Columbia Univ. 1810, M.D. 1813. (*A. Anderson*).
+Anderson, Andrew (fl. 1813), American physician in New York, A.B. Columbia Univ. 1810, M.D. 1813. 
+**Abbreviated name**: *A. Anderson*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103858#page/53/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33264730) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Agardh, Jacob Georg {std. J. Agardh}|first entry]] for this author
 
 ### Author
 
-\* Agardh, Jacob Georg (1813-1901), Swedish botanist in Lund, son of C.A. Agardh, studied at Lund University from 1826, Dr. phil. ib. 1832, Dr. med. honoris causa Copenhagen 1879; lecturer in botany at the University of Lund 1834, adjunct and botanical demonstrator 1836, extraordinary professor of botany 1847, ordinary professor ib. 1854-1879; travelled and botanized in Italy (1836-1837, 1840), France (1836-1837, 1856), England and Scotland (1836-1837, 1854); outstanding algologist. (*J. Agardh*).
+\* Agardh, Jacob Georg (1813-1901), Swedish botanist in Lund, son of C.A. Agardh, studied at Lund University from 1826, Dr. phil. ib. 1832, Dr. med. honoris causa Copenhagen 1879; lecturer in botany at the University of Lund 1834, adjunct and botanical demonstrator 1836, extraordinary professor of botany 1847, ordinary professor ib. 1854-1879; travelled and botanized in Italy (1836-1837, 1840), France (1836-1837, 1856), England and Scotland (1836-1837, 1854); outstanding algologist. 
+**Abbreviated name**: *J. Agardh*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103858#page/148/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33264863) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Appel, \[Friedrich Carl Louis\] Otto (1867-1952), German (Franconian) botanist, trained to become a pharmacist, Student at the Löwen-Apotheke, Weimar, id. in Schaffhausen (Switzerland) ca. 1891, id. in Breslau (Silesia), in charge of a pharmacy at Sonnenburg (Brandenburg), studied botany with Julius Sachs at Würzburg, Dr. phil. ib. 1897, assistant bacteriologist at Königsberg (E. Prussia), from 1899 id. at the Biologische Abtheilung des Kaiserlichen Gesundheitsamtes, Berlin 1899, director 1903, Regierungsrat 1913, specialized in the phytopathology of potatoes, also director of the Forschungsinstitut für Kartoffelbau, director of the Biologische Reichsanstalt Berlin 1920, hon. professor at the Landwirtschaftliche Hochschule in Berlin. (*O. Appel*).
+Appel, \[Friedrich Carl Louis\] Otto (1867-1952), German (Franconian) botanist, trained to become a pharmacist, Student at the Löwen-Apotheke, Weimar, id. in Schaffhausen (Switzerland) ca. 1891, id. in Breslau (Silesia), in charge of a pharmacy at Sonnenburg (Brandenburg), studied botany with Julius Sachs at Würzburg, Dr. phil. ib. 1897, assistant bacteriologist at Königsberg (E. Prussia), from 1899 id. at the Biologische Abtheilung des Kaiserlichen Gesundheitsamtes, Berlin 1899, director 1903, Regierungsrat 1913, specialized in the phytopathology of potatoes, also director of the Forschungsinstitut für Kartoffelbau, director of the Biologische Reichsanstalt Berlin 1920, hon. professor at the Landwirtschaftliche Hochschule in Berlin. 
+**Abbreviated name**: *O. Appel*
 
 #### Herbarium and types
 

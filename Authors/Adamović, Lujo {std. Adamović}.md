@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103414#page/56/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33120101) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Adamović, Lujo {std. Adamović} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Adamović, Lujo (1864-x) Dalmatian botanist. (*Adamović*).
+Adamović, Lujo (1864-x) Dalmatian botanist. 
+**Abbreviated name**: *Adamović*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103414#page/90/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33120173) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Amo y Mora, Mariano del {std. Amo} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Amo y Mora, Mariano del (1820-1896), Spanish botanist. (*Amo*).
+Amo y Mora, Mariano del (1820-1896), Spanish botanist. 
+**Abbreviated name**: *Amo*
 
 #### Herbarium and types
 

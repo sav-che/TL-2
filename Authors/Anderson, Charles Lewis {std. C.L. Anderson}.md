@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103414#page/92/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33120175) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Anderson, Charles Lewis {std. C.L. Anderson} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Anderson, Charles Lewis (1827-1919), American algologist. (*C. L. Anderson*).
+Anderson, Charles Lewis (1827-1919), American algologist. 
+**Abbreviated name**: *C.L. Anderson*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103858#page/109/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33264824) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ambrosi, Francesco {std. Ambrosi}|first entry]] for this author
 
 ### Author
 
-\* Ambrosi, Francesco (1821-1897), Austro-Italian (S. Tirol) botanist, archeologist, and librarian, longtime director of the Civico museo e bibliotecario della communale, Trento. (*Ambrosi*).
+\* Ambrosi, Francesco (1821-1897), Austro-Italian (S. Tirol) botanist, archeologist, and librarian, longtime director of the Civico museo e bibliotecario della communale, Trento. 
+**Abbreviated name**: *Ambrosi*
 
 #### Herbarium and types
 

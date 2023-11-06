@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103858#page/150/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Appun, Carl Ferdinand (1820-1872), German (Bunzlau born) traveller and botanical collector, collected in Venezuela and the Guyanas (mainly in British Guyana 1863-1867). (*Appun*).
+Appun, Carl Ferdinand (1820-1872), German (Bunzlau born) traveller and botanical collector, collected in Venezuela and the Guyanas (mainly in British Guyana 1863-1867). 
+**Abbreviated name**: *Appun*
 
 #### Herbarium and types
 

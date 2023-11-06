@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103858#page/130/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33264845) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andersson, Oscar Frederik (from 28 Mar 1891: Oscar Frederic Borge, q.v.) (1862-1938), Swedish botanist and highschool teacher, fil. kand. Uppsala 1888, fil. lic. ib. 1893, fil. dr. ib. 1895. (*O.F. Anderss.*).
+Andersson, Oscar Frederik (from 28 Mar 1891: Oscar Frederic Borge, q.v.) (1862-1938), Swedish botanist and highschool teacher, fil. kand. Uppsala 1888, fil. lic. ib. 1893, fil. dr. ib. 1895. 
+**Abbreviated name**: *O.F. Anderss.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103858#page/57/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33264734) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Agnethler, Michael Gottlieb, Ritter von (1719-1752), Transilvanian Saxonian (Hermannstadt) physician, botanist, numismatist and theologian, studied theology in Hermannstadt \[present Sibiu, Rumania\] and (1742) Halle, Dr. phil. ib. 1750, Dr. med. ib. 1751, also dedicating himself to theology, philosophy and history, later studying medicine, ultimately professor at the University ("Academy") of Helmstädt. (*Agnethler*).
+Agnethler, Michael Gottlieb, Ritter von (1719-1752), Transilvanian Saxonian (Hermannstadt) physician, botanist, numismatist and theologian, studied theology in Hermannstadt \[present Sibiu, Rumania\] and (1742) Halle, Dr. phil. ib. 1750, Dr. med. ib. 1751, also dedicating himself to theology, philosophy and history, later studying medicine, ultimately professor at the University ("Academy") of Helmstädt. 
+**Abbreviated name**: *Agnethler*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103414#page/49/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Abel, Clarke {std. C. Abel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Abel, Clarke (1789-1826), British surgeon who travelled to China with Amherst, 1816-1817. (*C. Abel*).
+Abel, Clarke (1789-1826), British surgeon who travelled to China with Amherst, 1816-1817. 
+**Abbreviated name**: *C. Abel*
 
 #### Herbarium and types
 

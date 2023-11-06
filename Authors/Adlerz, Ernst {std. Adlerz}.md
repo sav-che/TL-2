@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103414#page/59/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33120104) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Adlerz, Ernst {std. Adlerz} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Adlerz, Ernst (1854-1918), Swedish bryologist, teacher at Örebro. (*Adlerz*).
+Adlerz, Ernst (1854-1918), Swedish bryologist, teacher at Örebro. 
+**Abbreviated name**: *Adlerz*
 
 #### Herbarium and types
 

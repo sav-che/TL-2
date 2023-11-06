@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103858#page/103/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33264818) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Altamirano, Fernando (1850-1908), Mexican botanist and plant collector, Dr. med. Mexico 1878; professor at the Escuela de Medicina Mexico from 1878; director of the Instituto médico nacional 1890-1908. (*Altamirano*).
+Altamirano, Fernando (1850-1908), Mexican botanist and plant collector, Dr. med. Mexico 1878; professor at the Escuela de Medicina Mexico from 1878; director of the Instituto médico nacional 1890-1908. 
+**Abbreviated name**: *Altamirano*
 
 #### Herbarium and types
 

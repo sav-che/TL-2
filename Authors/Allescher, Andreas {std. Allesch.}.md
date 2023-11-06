@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103414#page/81/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33120164) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allescher, Andreas {std. Allesch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Allescher, Andreas (1828-1903), German mycologist and highschool-teacher at München. (*Allesch.*).
+Allescher, Andreas (1828-1903), German mycologist and highschool-teacher at München. 
+**Abbreviated name**: *Allesch.*
 
 #### Herbarium and types
 

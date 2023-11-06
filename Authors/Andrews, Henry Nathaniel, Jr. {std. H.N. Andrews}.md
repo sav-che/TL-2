@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103414#page/100/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33120183) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andrews, Henry Nathaniel, Jr. {std. H.N. Andrews} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Andrews, Henry Nathaniel, Jr. (1910-x), American palaeobotanist. (*H. N. Andrews*).
+Andrews, Henry Nathaniel, Jr. (1910-x), American palaeobotanist. 
+**Abbreviated name**: *H. N. Andrews*
 
 #### Collections and types
 

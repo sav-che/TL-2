@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/103858#page/142/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33264857) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Anslijn Nie.zn, Nicolaas (1777-1838), Dutch teacher, botanist and entomologist, State teacher's examination Leiden 1803, teacher at an elementary school at Amsterdam 1803-1807, head-teacher at the municipial school for the poor 1807-1819, private teacher 1819-1834, from 1834-1838 residing in Alkmaar, prolific author of botanical writings as well as popular education, historical and theological publications. (*Anslijn*).
+Anslijn Nie.zn, Nicolaas (1777-1838), Dutch teacher, botanist and entomologist, State teacher's examination Leiden 1803, teacher at an elementary school at Amsterdam 1803-1807, head-teacher at the municipial school for the poor 1807-1819, private teacher 1819-1834, from 1834-1838 residing in Alkmaar, prolific author of botanical writings as well as popular education, historical and theological publications. 
+**Abbreviated name**: *Anslijn*
 
 #### Herbarium and types
 

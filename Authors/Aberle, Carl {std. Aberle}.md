@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103858#page/21/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33264766) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aberle, Carl (x-1892), Austrian botanist, professor at the medical faculty of Salzburg, director of the botanical garden ib. 1863-1880, k.k. Regierungsrath; ultimately in Wien. (*Aberle*).
+Aberle, Carl (x-1892), Austrian botanist, professor at the medical faculty of Salzburg, director of the botanical garden ib. 1863-1880, k.k. Regierungsrath; ultimately in Wien. 
+**Abbreviated name**: *Aberle*
 
 #### Herbarium and types
 

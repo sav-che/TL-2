@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103414#page/59/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33120104) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aellen, Paul {std. Aellen} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Aellen, Paul (1896-1973), Swiss botanist. (*Aellen*).
+Aellen, Paul (1896-1973), Swiss botanist. 
+**Abbreviated name**: *Aellen*
 
 #### Herbarium and types
 

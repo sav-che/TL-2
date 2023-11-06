@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103858#page/105/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33264820) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alyon, Pierre Philippe {std. Alyon}|first entry]] for this author
 
 ### Author
 
-\* Alyon, Pierre Philippe (1746/1758-1816), French botanist and pharmacist. (*Alyon*).
+\* Alyon, Pierre Philippe (1746/1758-1816), French botanist and pharmacist. 
+**Abbreviated name**: *Alyon*
 
 #### Herbarium and types
 

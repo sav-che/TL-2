@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103858#page/87/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33264802) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allescher, Andreas {std. Allesch.}|first entry]] for this author
 
 ### Author
 
-\* Allescher, Andreas (1828-1903), German mycologist and highschool teacher, educated at a München grammar school, from 1844-1849 at the teachers college in Freising, teacher at Engedey nr. Berchtesgarten, starting a herbarium, studied at the University of München 1862, teacher at a business school ib. 1872-1898, in retirement finishing his work on imperfect fungi. (*Allesch.*).
+\* Allescher, Andreas (1828-1903), German mycologist and highschool teacher, educated at a München grammar school, from 1844-1849 at the teachers college in Freising, teacher at Engedey nr. Berchtesgarten, starting a herbarium, studied at the University of München 1862, teacher at a business school ib. 1872-1898, in retirement finishing his work on imperfect fungi. 
+**Abbreviated name**: *Allesch.*
 
 #### Herbarium and types
 

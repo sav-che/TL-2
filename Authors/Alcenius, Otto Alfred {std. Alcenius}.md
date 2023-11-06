@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103858#page/75/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33264790) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Alcenius, Otto Alfred (1838-1913), Finnish botanist; teacher at Åbo and Vasa, moved to Helsinki, in 1897 employed by the Historiska Museum. (*Alcenius*).
+Alcenius, Otto Alfred (1838-1913), Finnish botanist; teacher at Åbo and Vasa, moved to Helsinki, in 1897 employed by the Historiska Museum. 
+**Abbreviated name**: *Alcenius*
 
 #### Herbarium and types
 

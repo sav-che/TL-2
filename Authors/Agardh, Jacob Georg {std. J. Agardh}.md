@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103414#page/66/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33120111) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Agardh, Jacob Georg {std. J. Agardh} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Agardh, Jacob Georg (1813-1901), Swedish botanist, son of C. A. Agardh, professor of botany at Lund (1847-1879) (*J. Agardh*).
+Agardh, Jacob Georg (1813-1901), Swedish botanist, son of C. A. Agardh, professor of botany at Lund (1847-1879) 
+**Abbreviated name**: *J. Agardh*
 
 #### Herbarium and types
 

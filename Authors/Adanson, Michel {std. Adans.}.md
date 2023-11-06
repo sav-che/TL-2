@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103414#page/57/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33120102) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Adanson, Michel {std. Adans.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Adanson, Michel (1727-1806), French botanist and explorer, outstanding theoretician, philosopher and systematist. (*Adans.*).
+Adanson, Michel (1727-1806), French botanist and explorer, outstanding theoretician, philosopher and systematist. 
+**Abbreviated name**: *Adans.*
 
 #### Herbarium and types
 

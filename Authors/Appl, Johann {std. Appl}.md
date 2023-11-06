@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103858#page/150/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Appl, Johann (fl. 1913-1941), Moravian botanist at Brno \[Brünn\]. (*Appl*).
+Appl, Johann (fl. 1913-1941), Moravian botanist at Brno \[Brünn\]. 
+**Abbreviated name**: *Appl*
 
 #### Herbarium and types
 

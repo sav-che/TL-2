@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103858#page/47/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33264724) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Afzelius, Arvid August (1785-1872), Swedish clergyman, studied at Uppsala, Dr.phil. 1809, ordained 1811, ultimately dean at Enköping. (*A.A. Afzel.*).
+Afzelius, Arvid August (1785-1872), Swedish clergyman, studied at Uppsala, Dr.phil. 1809, ordained 1811, ultimately dean at Enköping. 
+**Abbreviated name**: *A.A. Afzel.*
 
 #### Herbarium and types
 

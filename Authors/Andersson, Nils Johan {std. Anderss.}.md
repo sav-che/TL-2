@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103414#page/93/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33120176) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andersson, Nils Johan {std. Anderss.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Andersson, Nils Johan (1821-1880), Swedish botanist. (*Anderss.*).
+Andersson, Nils Johan (1821-1880), Swedish botanist. 
+**Abbreviated name**: *Anderss.*
 
 #### Herbarium and types
 

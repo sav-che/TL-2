@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103858#page/134/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33264849) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andres, Heinrich {std. Andres}|first entry]] for this author
 
 ### Author
 
-\* Andres, Heinrich (1883-1970), German botanist until 1910 at Hetzhof, Eifel, later in Bonn. (*Andres*).
+\* Andres, Heinrich (1883-1970), German botanist until 1910 at Hetzhof, Eifel, later in Bonn. 
+**Abbreviated name**: *Andres*
 
 #### Herbarium and types
 

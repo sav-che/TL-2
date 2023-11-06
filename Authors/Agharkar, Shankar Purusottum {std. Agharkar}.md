@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103858#page/56/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33264733) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Agharkar, Shankar Purusottum (1884-1960), Indian botanist (Bombay born), educated at Ratnagiri and Dhawar, from 1901-1909 at the University of Bombay, B.A. 1906, M.A. botany, zoology and geology 1908, lecturer and head of the Biology Department of Elphinston College Bombay 1910-1913, at the Indian Museum Calcutta 1911-early 1914, Ghosh professor of botany at the University of Calcutta 1913, studied at the University of Berlin with A. Engler 1914, temporarily interned 1914- 1917, again with Engler et al. 1917-1919, Dr. phil. Univ. Berlin December 1919, visited the major European herbaria 1920 obtaining a basis for the herbarium CAL, from July 1919 at the Botany Dept. of Calcutta University until 1946, from then on resident at Poona. (*Agharkar*).
+Agharkar, Shankar Purusottum (1884-1960), Indian botanist (Bombay born), educated at Ratnagiri and Dhawar, from 1901-1909 at the University of Bombay, B.A. 1906, M.A. botany, zoology and geology 1908, lecturer and head of the Biology Department of Elphinston College Bombay 1910-1913, at the Indian Museum Calcutta 1911-early 1914, Ghosh professor of botany at the University of Calcutta 1913, studied at the University of Berlin with A. Engler 1914, temporarily interned 1914- 1917, again with Engler et al. 1917-1919, Dr. phil. Univ. Berlin December 1919, visited the major European herbaria 1920 obtaining a basis for the herbarium CAL, from July 1919 at the Botany Dept. of Calcutta University until 1946, from then on resident at Poona. 
+**Abbreviated name**: *Agharkar*
 
 #### Herbarium and types
 

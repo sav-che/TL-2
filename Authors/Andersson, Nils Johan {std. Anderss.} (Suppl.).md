@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103858#page/127/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33264842) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andersson, Nils Johan {std. Anderss.}|first entry]] for this author
 
 ### Author
 
-\* Andersson, Nils Johan (1821-1880), Swedish (Kalmar) botanist, studied at the University of Uppsala 1840, Dr. phil. 1845, lecturer in botany Uppsala 1846, natural history teacher Stockholm 1847, lector in botany and zoology ib. 1858-1874, appointed (but not effected) assistant in botany at the University of Lund 1855, professor and curator of the botanical collections of the Stockholm Riksmuseum 1856-1879, succeeding J.E. Wikström; botanist on the circumnavigation of the frigat Eugenie 1851-1853. (*N.J. Anderss.*).
+\* Andersson, Nils Johan (1821-1880), Swedish (Kalmar) botanist, studied at the University of Uppsala 1840, Dr. phil. 1845, lecturer in botany Uppsala 1846, natural history teacher Stockholm 1847, lector in botany and zoology ib. 1858-1874, appointed (but not effected) assistant in botany at the University of Lund 1855, professor and curator of the botanical collections of the Stockholm Riksmuseum 1856-1879, succeeding J.E. Wikström; botanist on the circumnavigation of the frigat Eugenie 1851-1853. 
+**Abbreviated name**: *N.J. Anderss.*
 
 #### Herbarium and types
 

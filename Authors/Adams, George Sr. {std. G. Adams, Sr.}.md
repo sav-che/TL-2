@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103858#page/35/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33264752) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Adams, George Sr. (1720-1786), British optician and mathematical instrument maker. (*G. Adams, Sr.*).
+Adams, George Sr. (1720-1786), British optician and mathematical instrument maker. 
+**Abbreviated name**: *G. Adams, Sr.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103858#page/58/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ahles, Wilhelm Elias von {std. Ahles}|first entry]] for this author
 
 ### Author
 
-\* Ahles, Wilhelm Elias von (1829-1900), German (Württemberg) botanist, Dr. phil. Jena 1853; high school teacher Heidelberg 1853, private lecturer ("Privatdozent") at the University of Heidelberg, 1859, professor of general and pharmaceutical botany at the technical University Stuttgart 1885-1899. (*Ahles*).
+\* Ahles, Wilhelm Elias von (1829-1900), German (Württemberg) botanist, Dr. phil. Jena 1853; high school teacher Heidelberg 1853, private lecturer ("Privatdozent") at the University of Heidelberg, 1859, professor of general and pharmaceutical botany at the technical University Stuttgart 1885-1899. 
+**Abbreviated name**: *Ahles*
 
 #### Herbarium and types
 

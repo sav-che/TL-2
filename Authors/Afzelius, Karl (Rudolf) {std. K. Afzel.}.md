@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103858#page/48/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33264725) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Afzelius, Karl \[Rudolf\] (1887-x), Swedish botanist, educated at primary and secondary schools in Stockholm, from 1906-1911 at Stockholm University, fil. mag. ib. 1911, fil. lic. ib. 1915, scientist at the Hortus Bergianus from 1915, later at the Botanical Department of the Stockholm Natural History Museum, travelled in Madagascar 1912-1913, lecturer in botany at Stockholm University 1925. (*K. Afzel.*).
+Afzelius, Karl \[Rudolf\] (1887-x), Swedish botanist, educated at primary and secondary schools in Stockholm, from 1906-1911 at Stockholm University, fil. mag. ib. 1911, fil. lic. ib. 1915, scientist at the Hortus Bergianus from 1915, later at the Botanical Department of the Stockholm Natural History Museum, travelled in Madagascar 1912-1913, lecturer in botany at Stockholm University 1925. 
+**Abbreviated name**: *K. Afzel.*
 
 #### Herbarium and types
 

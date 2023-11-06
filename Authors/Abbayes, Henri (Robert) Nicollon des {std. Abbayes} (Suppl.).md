@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103858#page/14/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33264773) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Abbayes, Henri des {std. Abbayes}|first entry]] for this author
 
 ### Author
 
-\* Abbayes, Henri \[Robert\] Nicollon des (1898-1974), French lichenologist; studied at the Richelieu College, Luçon (Vendée), baccalaureat 1915; studied natural sciences at the Faculté catholique, Angers, on active service 1917-1920, wine-salesman 1924-1931, settled in Saint Brieuc 1926, actively collecting in Western France, moved to Rennes, Lic. Sci. nat. Univ. Rennes 1930, 1931 zoological assistant ib., from 1933 assistant in botany, Dr. Sci. 1934, laureat Institut de France 1940, lecturer in botany at Rennes 1943, full professor 1952, in charge of botany in the School of Medicine and Pharmacy 1938-1958, retired 1968; collected in French-Guinea and Ivory Coast 1948, 1951, 1954; id. Réunion, Mauritius 1956. (*Abbayes*).
+\* Abbayes, Henri \[Robert\] Nicollon des (1898-1974), French lichenologist; studied at the Richelieu College, Luçon (Vendée), baccalaureat 1915; studied natural sciences at the Faculté catholique, Angers, on active service 1917-1920, wine-salesman 1924-1931, settled in Saint Brieuc 1926, actively collecting in Western France, moved to Rennes, Lic. Sci. nat. Univ. Rennes 1930, 1931 zoological assistant ib., from 1933 assistant in botany, Dr. Sci. 1934, laureat Institut de France 1940, lecturer in botany at Rennes 1943, full professor 1952, in charge of botany in the School of Medicine and Pharmacy 1938-1958, retired 1968; collected in French-Guinea and Ivory Coast 1948, 1951, 1954; id. Réunion, Mauritius 1956. 
+**Abbreviated name**: *Abbayes*
 
 #### Herbarium and types
 

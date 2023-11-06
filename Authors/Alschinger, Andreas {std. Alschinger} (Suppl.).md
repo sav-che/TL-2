@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/103858#page/99/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33264814) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alschinger, Andreas {std. Alschinger}|first entry]] for this author
 
 ### Author
 
-\* Alschinger, Andreas (1791-1864), Austrian (Bohemia-born, Budweis) botanist and highschool teacher, educated at the Gymnasium at Linz ca. 1807-1810, studied theology ca. 1810-1813, with the Fiume Academy 1818, teacher at the Gymnasium of Fiume 1820-1821, history teacher at the Zara Gymnasium 1821-1824, id. Greek and Latin 1824-1855, id. Greek at the Zara Obergymnasium 1855-1858, in retirement in Vienna from 1859, specialized on the flora of Dalmatia. (*Alschinger*).
+\* Alschinger, Andreas (1791-1864), Austrian (Bohemia-born, Budweis) botanist and highschool teacher, educated at the Gymnasium at Linz ca. 1807-1810, studied theology ca. 1810-1813, with the Fiume Academy 1818, teacher at the Gymnasium of Fiume 1820-1821, history teacher at the Zara Gymnasium 1821-1824, id. Greek and Latin 1824-1855, id. Greek at the Zara Obergymnasium 1855-1858, in retirement in Vienna from 1859, specialized on the flora of Dalmatia. 
+**Abbreviated name**: *Alschinger*
 
 #### Herbarium and types
 

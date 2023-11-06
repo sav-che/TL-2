@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/103858#page/49/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33264726) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Afzelius, Pehr Conrad (1817-1850), Swedish botanist, son of Adam Afzelius, studied at Uppsala 1836, med. kand. ib. 1848. (*P.C. Afzel.*).
+Afzelius, Pehr Conrad (1817-1850), Swedish botanist, son of Adam Afzelius, studied at Uppsala 1836, med. kand. ib. 1848. 
+**Abbreviated name**: *P.C. Afzel.*
 
 #### Herbarium and types
 

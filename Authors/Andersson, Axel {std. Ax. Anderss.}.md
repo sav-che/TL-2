@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103858#page/123/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33264838) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andersson, Axel, (1895-x), Swedish botanist, Ph.D. Lund 1931, lector in botany at Malmö. (*Ax. Anderss.*).
+Andersson, Axel, (1895-x), Swedish botanist, Ph.D. Lund 1931, lector in botany at Malmö. 
+**Abbreviated name**: *Ax. Anderss.*
 
 #### Herbarium and types
 

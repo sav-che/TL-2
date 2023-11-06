@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103858#page/30/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33264757) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Adam, Jean (*fl*. 1910), French agronomical engineer, "chef de service de l'agriculture du Sénégal". (*J. Adam*).
+Adam, Jean (*fl*. 1910), French agronomical engineer, "chef de service de l'agriculture du Sénégal". 
+**Abbreviated name**: *J. Adam*
 
 #### Herbarium and types
 

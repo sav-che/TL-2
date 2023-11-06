@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/item/103414#page/73/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33120156) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aiton, William {std. Aiton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Aiton, William (1731-1793), British gardener and botanist, Royal Gardener at Kew. (*Aiton*).
+Aiton, William (1731-1793), British gardener and botanist, Royal Gardener at Kew. 
+**Abbreviated name**: *Aiton*
 
 #### Herbarium and types
 

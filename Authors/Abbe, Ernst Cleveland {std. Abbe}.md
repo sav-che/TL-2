@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103858#page/16/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33264771) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abbe, Ernst Cleveland (1905-x), American botanist, B.S. Cornell Univ. 1928, M.S. ib. 1930, M.A. Harvard 1931; Dr. phil. Cornell (1933?) 1934; botanical assistant at Cornell 1927-1930, at Harvard Univ. 1931-1933, Natl. Res. council fellow in biology 1934-1935, from 1935 at Bot. Dept., University of Minnesota, 1959-1962 National Science Foundation fellow studying Fagaceae and Myricaceae in S.E. Asia. Collected in northern Labrador 1931, in N. Alberta and N.E. Brit. Columbia 1932, eastern Keewatin and Western Quebec 1939, \[in New Guinea 1962, Sarawak 1964\]. (*Abbe*).
+Abbe, Ernst Cleveland (1905-x), American botanist, B.S. Cornell Univ. 1928, M.S. ib. 1930, M.A. Harvard 1931; Dr. phil. Cornell (1933?) 1934; botanical assistant at Cornell 1927-1930, at Harvard Univ. 1931-1933, Natl. Res. council fellow in biology 1934-1935, from 1935 at Bot. Dept., University of Minnesota, 1959-1962 National Science Foundation fellow studying Fagaceae and Myricaceae in S.E. Asia. Collected in northern Labrador 1931, in N. Alberta and N.E. Brit. Columbia 1932, eastern Keewatin and Western Quebec 1939, \[in New Guinea 1962, Sarawak 1964\]. 
+**Abbreviated name**: *Abbe*
 
 #### Herbarium and types
 

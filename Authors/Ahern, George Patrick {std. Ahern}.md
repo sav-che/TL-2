@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103858#page/58/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ahern, George Patrick (1859-1942), American forester, organizer of the Bureau of Forestry, Philippines 1910, collector and organizer of plant collecting in the Philippines 1910-1915, captain, later lieutenant colonel, in the 9th U.S. Infantry; after 1915 on duty at the Army War College, living in Washington D.C. (*Ahern*).
+Ahern, George Patrick (1859-1942), American forester, organizer of the Bureau of Forestry, Philippines 1910, collector and organizer of plant collecting in the Philippines 1910-1915, captain, later lieutenant colonel, in the 9th U.S. Infantry; after 1915 on duty at the Army War College, living in Washington D.C. 
+**Abbreviated name**: *Ahern*
 
 #### Herbarium and types
 

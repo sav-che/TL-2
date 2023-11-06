@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/item/103858#page/138/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33264853) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andrews, Henry Nathaniel, Jr. {std. H.N. Andrews}|first entry]] for this author
 
 ### Author
 
-\* Andrews, Henry Nathaniel, Jr. (1910-x), American palaeobotanist, B.Sci. Mass. Inst. Techn. 1934, studied botany at the University of Massachusetts 1934-1935, graduate studies at Henry Shaw School of Botany, St. Louis, Missouri, 1935, M.S. ib. 1937, with H. Hamshaw Thomas in London 1938-1939, Dr. phil. St. Louis 1939, instructor in the Henry Shaw School of Botany 1940-1964, from 1948 as chairman of the Botany Dept., also associated with the Missouri Botanical Garden, head of the Botany Dept. University of Connecticut 1964-1975. (*H.N. Andr.*).
+\* Andrews, Henry Nathaniel, Jr. (1910-x), American palaeobotanist, B.Sci. Mass. Inst. Techn. 1934, studied botany at the University of Massachusetts 1934-1935, graduate studies at Henry Shaw School of Botany, St. Louis, Missouri, 1935, M.S. ib. 1937, with H. Hamshaw Thomas in London 1938-1939, Dr. phil. St. Louis 1939, instructor in the Henry Shaw School of Botany 1940-1964, from 1948 as chairman of the Botany Dept., also associated with the Missouri Botanical Garden, head of the Botany Dept. University of Connecticut 1964-1975. 
+**Abbreviated name**: *H.N. Andr.*
 
 #### Herbarium and types
 

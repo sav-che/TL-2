@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/item/103858#page/147/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33264862) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Apgar, Ellis Ayres (1835-1905), American botanist and teacher, studied at Rutgers University 1866, later State Superintendent of public instruction in New Jersey. (*E.A. Apgar*).
+Apgar, Ellis Ayres (1835-1905), American botanist and teacher, studied at Rutgers University 1866, later State Superintendent of public instruction in New Jersey. 
+**Abbreviated name**: *E.A. Apgar*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103858#page/60/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ahlner, Sten Gustaf Edward (1905-x), Swedish lichenologist; studied at the University of Uppsala, fil. mag. 1930, fil. lic. 1936, Dr. phil. Uppsala 1948, lecturer at the University of Uppsala, from 1950 at the Naturhistoriska Riksmuseum, Stockholm. (*Ahlner*).
+Ahlner, Sten Gustaf Edward (1905-x), Swedish lichenologist; studied at the University of Uppsala, fil. mag. 1930, fil. lic. 1936, Dr. phil. Uppsala 1948, lecturer at the University of Uppsala, from 1950 at the Naturhistoriska Riksmuseum, Stockholm. 
+**Abbreviated name**: *Ahlner*
 
 #### Herbarium and types
 

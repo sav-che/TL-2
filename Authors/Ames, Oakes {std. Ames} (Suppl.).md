@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/103858#page/110/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33264825) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ames, Oakes {std. Ames}|first entry]] for this author
 
 ### Author
 
-\* Ames, Oakes (1874-1950), American botanist at Harvard, graduated 1898, M.Sc. 1899; honorary D.Sc. Washington University 1938; assistant director Botanical Garden Harvard University 1899-1909, instructor in botany 1900-1910, director of the Botanical Garden 1909-1922, asst. professor of botany 1915-1926, curator Botanical Museum 1923-1927, professor of botany 1926-1932, chairman of the Council of botanical collections and supervisor of the biological laboratory and botanical garden in Cuba as well as of the Arnold Arboretum 1927-1935; supervisor Botanical Museum 1927-1937, Arnold professor of botany 1932-1935; research professor of botany 1935-1941, director of the Botanical Museum 1945-1950; outstanding orchidologist and economic botanist. (*Ames*).
+\* Ames, Oakes (1874-1950), American botanist at Harvard, graduated 1898, M.Sc. 1899; honorary D.Sc. Washington University 1938; assistant director Botanical Garden Harvard University 1899-1909, instructor in botany 1900-1910, director of the Botanical Garden 1909-1922, asst. professor of botany 1915-1926, curator Botanical Museum 1923-1927, professor of botany 1926-1932, chairman of the Council of botanical collections and supervisor of the biological laboratory and botanical garden in Cuba as well as of the Arnold Arboretum 1927-1935; supervisor Botanical Museum 1927-1937, Arnold professor of botany 1932-1935; research professor of botany 1935-1941, director of the Botanical Museum 1945-1950; outstanding orchidologist and economic botanist. 
+**Abbreviated name**: *Ames*
 
 #### Herbarium and types
 

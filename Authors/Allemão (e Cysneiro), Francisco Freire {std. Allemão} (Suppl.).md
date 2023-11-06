@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103858#page/81/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33264796) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allemão e Cysneiro, Francisco Freire {std. Allemão}|first entry]] for this author
 
 ### Author
 
-\* Allemão \[e Cysneiro\], Francisco Freire (1797-1874), Brazilian botanist, studied medicine at Rio de Janeiro and, from 1829-1832, in Paris, from then on again active in the medical field in Rio de Janeiro, again to Europe as naval physician 1843, collected plants in Rio de Janeiro, Minas Geraes, Espìrito Santo, Bahia and Ceara. (*Allemão*).
+\* Allemão \[e Cysneiro\], Francisco Freire (1797-1874), Brazilian botanist, studied medicine at Rio de Janeiro and, from 1829-1832, in Paris, from then on again active in the medical field in Rio de Janeiro, again to Europe as naval physician 1843, collected plants in Rio de Janeiro, Minas Geraes, Espìrito Santo, Bahia and Ceara. 
+**Abbreviated name**: *Allemão*
 
 #### Herbarium and types
 

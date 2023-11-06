@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103414#page/103/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33120186) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Antz, Carl (Karl) Cäsar {std. Antz} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Antz, Carl Cäsar (1805-1859), German physician and botanist, "Bataillons-Arzt des Königl. Garde-Landwehr-Bataillons Düsseldorf." (*Antz*).
+Antz, Carl Cäsar (1805-1859), German physician and botanist, "Bataillons-Arzt des Königl. Garde-Landwehr-Bataillons Düsseldorf." 
+**Abbreviated name**: *Antz*
 
 #### Herbarium and types
 

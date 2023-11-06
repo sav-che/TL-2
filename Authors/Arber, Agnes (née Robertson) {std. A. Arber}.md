@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103414#page/104/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33120187) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arber, Agnes (née Robertson) {std. A. Arber} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arber, Agnes (née Robertson) (1879-1960), British botanist and philosopher, wife of E. A. Newell Arber. (*A. Arber*).
+Arber, Agnes (née Robertson) (1879-1960), British botanist and philosopher, wife of E. A. Newell Arber. 
+**Abbreviated name**: *A. Arber*
 
 #### Herbarium and types
 

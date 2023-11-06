@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103414#page/92/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33120175) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Anderson, George (x-1817), British botanist and horticulturist at Westham who grew species of *Salix, Paeonia*, and *Narcissus* and who collected in Brazil and Barbados in 1815. (*G. Anderson*).
+Anderson, George (x-1817), British botanist and horticulturist at Westham who grew species of *Salix, Paeonia*, and *Narcissus* and who collected in Brazil and Barbados in 1815. 
+**Abbreviated name**: *G. Anderson*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103858#page/88/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33264803) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allioni, Carlo {std. All.}|first entry]] for this author
 
 ### Author
 
-\* Allioni, Carlo Ludovico (1728-1804), Italian naturalist, studied medicine at the University of Torino, graduated in medicine 1747, admitted to the college of physicians ib. 1747; extraordinary professor of botany at the medical faculty of the Torino Atheneum, ordinary professor 1763-1781, professor emeritus 1781-1804; director of the Museo di Scienze naturali of the University 1778. (*All.*).
+\* Allioni, Carlo Ludovico (1728-1804), Italian naturalist, studied medicine at the University of Torino, graduated in medicine 1747, admitted to the college of physicians ib. 1747; extraordinary professor of botany at the medical faculty of the Torino Atheneum, ordinary professor 1763-1781, professor emeritus 1781-1804; director of the Museo di Scienze naturali of the University 1778. 
+**Abbreviated name**: *All.*
 
 #### Herbarium and types
 

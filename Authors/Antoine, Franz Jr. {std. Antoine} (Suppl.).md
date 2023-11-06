@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103858#page/144/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33264859) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Antoine, Franz, Jr. {std. Antoine}|first entry]] for this author
 
 ### Author
 
-\* Antoine, Franz Jr. (1815-1886), Austrian horticulturist, director of the Schönbrunn Gardens near Vienna from 1865-1886, son of Franz de Paulo Antoine(1768-1834). (*Antoine*).
+\* Antoine, Franz Jr. (1815-1886), Austrian horticulturist, director of the Schönbrunn Gardens near Vienna from 1865-1886, son of Franz de Paulo Antoine(1768-1834). 
+**Abbreviated name**: *Antoine*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103414#page/49/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Abbayes, Henri (Robert) Nicollon des {std. Abbayes} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Abbayes, Henri des (1898-1974), French lichenologist and plant collector at Rennes. (*Abbayes*).
+Abbayes, Henri des (1898-1974), French lichenologist and plant collector at Rennes. 
+**Abbreviated name**: *Abbayes*
 
 #### Herbarium and types
 

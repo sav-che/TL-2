@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103858#page/115/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33264830) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Amo y Mora, Mariano del {std. Amo}|first entry]] for this author
 
 ### Author
 
-\* Amo y Mora, Mariano del (1820-1896), Spanish botanist, professor of botany and founder of the faculty of pharmacy at the University of Granada. (*Amo*).
+\* Amo y Mora, Mariano del (1820-1896), Spanish botanist, professor of botany and founder of the faculty of pharmacy at the University of Granada. 
+**Abbreviated name**: *Amo*
 
 #### Herbarium and types
 

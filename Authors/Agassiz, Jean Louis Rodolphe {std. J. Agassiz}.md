@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103414#page/69/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33120114) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Agassiz, Jean Louis Rodolphe (1807-1873), Swiss biologist and geologist, later at Harvard. (*J. Agassiz*).
+Agassiz, Jean Louis Rodolphe (1807-1873), Swiss biologist and geologist, later at Harvard. 
+**Abbreviated name**: *J. Agassiz*
 
 #### Herbarium and types
 

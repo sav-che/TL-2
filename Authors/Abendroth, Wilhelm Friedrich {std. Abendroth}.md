@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/item/103858#page/19/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33264768) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abendroth, Wilhelm Friedrich (1802-1863), German clinical physician, born at Pirna nr. Dresden (Sachsen), educated at a secondary school at Meissen; studied medicine at the University of Leipzig 1820-1825 with a stay in Vienna 1824-1825 specializing in clinical medicine, Dr. phil. Leipzig 1825. (*Abendroth*).
+Abendroth, Wilhelm Friedrich (1802-1863), German clinical physician, born at Pirna nr. Dresden (Sachsen), educated at a secondary school at Meissen; studied medicine at the University of Leipzig 1820-1825 with a stay in Vienna 1824-1825 specializing in clinical medicine, Dr. phil. Leipzig 1825. 
+**Abbreviated name**: *Abendroth*
 
 #### Herbarium and types
 

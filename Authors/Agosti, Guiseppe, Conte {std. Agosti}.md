@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103414#page/71/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33120116) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Agosti, Giuseppe, Conte {std. Agosti} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Agosti, Guiseppe, Conte (1715-1786), Italian botanist and jesuit. (*Agosti*).
+Agosti, Guiseppe, Conte (1715-1786), Italian botanist and jesuit. 
+**Abbreviated name**: *Agosti*
 
 #### Herbarium and types
 

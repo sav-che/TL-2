@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103858#page/104/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33264819) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Alvthin \[from 1895; earlier Johansson\], Nils (1852-1905), Swedish (Skåne) botanist (lichenologist). (*Alvthin*).
+Alvthin \[from 1895; earlier Johansson\], Nils (1852-1905), Swedish (Skåne) botanist (lichenologist). 
+**Abbreviated name**: *Alvthin*
 
 #### Herbarium and types
 

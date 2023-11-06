@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/103858#page/131/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33264846) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[André, Édouard François {std. André}|first entry]] for this author
 
 ### Author
 
-\* André, Édouard \[François\] (1840-1911), French horticulturist and botanical explorer, studied botany with Decaisne at the Muséum d' Histoire naturelle, Paris; head-gardener of the municipality of Paris, teacher at the École d' Horticulture, Versailles; travelled in the Northern Andes 1875-1876. (*Éd. André*).
+\* André, Édouard \[François\] (1840-1911), French horticulturist and botanical explorer, studied botany with Decaisne at the Muséum d' Histoire naturelle, Paris; head-gardener of the municipality of Paris, teacher at the École d' Horticulture, Versailles; travelled in the Northern Andes 1875-1876. 
+**Abbreviated name**: *Éd. André*
 
 #### Herbarium and types
 

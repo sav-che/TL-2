@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103858#page/20/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33264767) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abercrombie, John (1726-1806), English nurseryman, gardener at Kew ca. 1751, market-gardener at Hackney, nr. London 1770, nurseryman at Tottenham ca. 1775, gardener to the Duke of Leeds 1778. (*Abercr.*).
+Abercrombie, John (1726-1806), English nurseryman, gardener at Kew ca. 1751, market-gardener at Hackney, nr. London 1770, nurseryman at Tottenham ca. 1775, gardener to the Duke of Leeds 1778. 
+**Abbreviated name**: *Abercr.*
 
 #### Herbarium and types
 

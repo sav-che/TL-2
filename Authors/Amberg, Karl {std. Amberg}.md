@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103858#page/107/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33264822) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Amberg, Karl (1886-1940), Swiss plant geographer at Engelberg; Dr. phil. Zürich (E.T.H.) 1916. (*Amberg*).
+Amberg, Karl (1886-1940), Swiss plant geographer at Engelberg; Dr. phil. Zürich (E.T.H.) 1916. 
+**Abbreviated name**: *Amberg*
 
 #### Herbarium and types
 

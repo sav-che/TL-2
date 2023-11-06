@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103858#page/108/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33264823) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Amblard, Francisque (fl. 1870), French pharmacist. (*Amblard*).
+Amblard, Francisque (fl. 1870), French pharmacist. 
+**Abbreviated name**: *Amblard*
 
 #### Herbarium and types
 

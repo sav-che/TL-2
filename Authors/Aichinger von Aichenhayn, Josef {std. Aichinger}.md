@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103858#page/63/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33264740) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aichinger von Aichenhayn, Josef (1789-1870), Austrian botanist and soldier as k.k. Major in retirement in Stein ca. 1852, also sometime professor at the Neustädter Militär-Akademie, before 1855 active in Wien, Stein and Graz, ultimately in Salzburg. (*Aichinger*).
+Aichinger von Aichenhayn, Josef (1789-1870), Austrian botanist and soldier as k.k. Major in retirement in Stein ca. 1852, also sometime professor at the Neustädter Militär-Akademie, before 1855 active in Wien, Stein and Graz, ultimately in Salzburg. 
+**Abbreviated name**: *Aichinger*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103858#page/24/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33264763) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Abromeit, Johannes {std. Abrom.}|first entry]] for this author
 
 ### Author
 
-\* Abromeit, Johannes (1857-1946), German botanist at Königsberg i. Pr., born in Paschleitschen nr. Ragnit, East Prussia, studied at the Real-Gymnasium in Gumbinnen 1871-1876 and at a similar institution in Königsberg i. Pr. 1877-1879; studied natural sciences at the Albertus-Universität ib. 1879-1884 (natural sciences, philosophy, German literature); Dr. phil. ib. 1884 with Robert Caspary; state-examination for teacher of secondary schools 1886, assistant in botany at the Königsberg botanical institute from 1887, "Habilitation" 19 Mar 1900, private lecturer at the University 1900, extraordinary professor of botany (titular) 1911, pensioned off 1930; prime mover of the Preussische Botanische Verein, fled to Jena 1944. (*Abrom.*).
+\* Abromeit, Johannes (1857-1946), German botanist at Königsberg i. Pr., born in Paschleitschen nr. Ragnit, East Prussia, studied at the Real-Gymnasium in Gumbinnen 1871-1876 and at a similar institution in Königsberg i. Pr. 1877-1879; studied natural sciences at the Albertus-Universität ib. 1879-1884 (natural sciences, philosophy, German literature); Dr. phil. ib. 1884 with Robert Caspary; state-examination for teacher of secondary schools 1886, assistant in botany at the Königsberg botanical institute from 1887, "Habilitation" 19 Mar 1900, private lecturer at the University 1900, extraordinary professor of botany (titular) 1911, pensioned off 1930; prime mover of the Preussische Botanische Verein, fled to Jena 1944. 
+**Abbreviated name**: *Abrom.*
 
 #### Herbarium and types
 

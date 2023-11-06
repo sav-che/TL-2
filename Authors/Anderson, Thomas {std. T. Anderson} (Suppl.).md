@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103858#page/122/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Anderson, Thomas {std. T. Anderson}|first entry]] for this author
 
 ### Author
 
-\* Anderson, Thomas (1832-1870), Scottish botanist and physician, MD Edinburgh 1853, in the Bengal Medical Service 1854-1858, superintendent of the Calcutta Botanical Gardens, 1860/61-1868, visited as such Java 1861 to obtain Cinchona stock for Darjeeling, returned to Edinburgh 1868. (*Th. Anderson*).
+\* Anderson, Thomas (1832-1870), Scottish botanist and physician, MD Edinburgh 1853, in the Bengal Medical Service 1854-1858, superintendent of the Calcutta Botanical Gardens, 1860/61-1868, visited as such Java 1861 to obtain Cinchona stock for Darjeeling, returned to Edinburgh 1868. 
+**Abbreviated name**: *Th. Anderson*
 
 #### Herbarium and types
 

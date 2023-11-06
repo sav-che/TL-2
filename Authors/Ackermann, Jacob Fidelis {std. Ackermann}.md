@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103858#page/28/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ackermann, Jacob Fidelis (1765-1815), German physician, Dr. phil. Mainz 1787, travelled in Germany and Italy 1787-1789, habil. Mainz 1789 as Privatdozent (private lecturer) in forensic medicine, subsequently full professor; president and professor at the Medical School, Mainz 1798, id. anatomy and surgery at Jena 1804, id. Heidelberg 1805-1815; taught botany at Heidelberg in 1812 as part of his medical curriculum. (*Ackermann*).
+Ackermann, Jacob Fidelis (1765-1815), German physician, Dr. phil. Mainz 1787, travelled in Germany and Italy 1787-1789, habil. Mainz 1789 as Privatdozent (private lecturer) in forensic medicine, subsequently full professor; president and professor at the Medical School, Mainz 1798, id. anatomy and surgery at Jena 1804, id. Heidelberg 1805-1815; taught botany at Heidelberg in 1812 as part of his medical curriculum. 
+**Abbreviated name**: *Ackermann*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103858#page/93/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33264808) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alm, Carl Gustaf {std. C. Alm}|first entry]] for this author
 
 ### Author
 
-\* Alm, Carl Gustav (1888-1962), Swedish botanist, sometime teacher at various schools in Kiruna, later in Uppsala at the Botanical Museum, from 1931 also director of the Hortus Linnaeanus, Uppsala. (*Alm*).
+\* Alm, Carl Gustav (1888-1962), Swedish botanist, sometime teacher at various schools in Kiruna, later in Uppsala at the Botanical Museum, from 1931 also director of the Hortus Linnaeanus, Uppsala. 
+**Abbreviated name**: *Alm*
 
 #### Herbarium and types
 

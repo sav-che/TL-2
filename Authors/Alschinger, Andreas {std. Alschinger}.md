@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/103414#page/85/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33120168) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alschinger, Andreas {std. Alschinger} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alschinger, Andreas (1791-1864), Austrian botanist and theologist, born in Bohemia, teacher at the Zara Gymnasium. (*Alschinger*).
+Alschinger, Andreas (1791-1864), Austrian botanist and theologist, born in Bohemia, teacher at the Zara Gymnasium. 
+**Abbreviated name**: *Alschinger*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103414#page/59/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33120104) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Afzelius, Adam {std. Afzel.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Afzelius, Adam (1750-1837), Swedish botanist in Uppsala, traveller in Sierra Leone, pupil of Linnaeus. (*Afzel.*).
+Afzelius, Adam (1750-1837), Swedish botanist in Uppsala, traveller in Sierra Leone, pupil of Linnaeus. 
+**Abbreviated name**: *Afzel.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103858#page/41/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33264718) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aderhold, Rudolf Ferdinand Theodor (1865-1907), German (Thüringen) mycologist and phytopathologist; educated at the Realgymnasium in Frankenhausen and, from 1882, in Nordhausen, at the University of Jena 1884, studying especially botany; 1885-1886 at the University of Berlin with Eichler and Schwendener, from 1886 again in Jena as assistant in the Botanical Institute until 1888; Dr. phil. ib. 9 Apr 1888; teacher's curriculum 1888-1889, on active service 1889-1890, teacher at Iserlohn 1890-1891, at Dortmund 1891; assistant at the horticultural academy at Geisenheim a. Rh. 1891-1893, teacher at the pomological institute at Proskau 1893 (succeeding Sorauer)-1901, with the Sanitary Board (Kais. Gesundheitsamt) in Berlin 1901-1905, with the biology institution for agriculture and sylviculture at Dahlem 1905, as director until 1907. (*Aderhold*).
+Aderhold, Rudolf Ferdinand Theodor (1865-1907), German (Thüringen) mycologist and phytopathologist; educated at the Realgymnasium in Frankenhausen and, from 1882, in Nordhausen, at the University of Jena 1884, studying especially botany; 1885-1886 at the University of Berlin with Eichler and Schwendener, from 1886 again in Jena as assistant in the Botanical Institute until 1888; Dr. phil. ib. 9 Apr 1888; teacher's curriculum 1888-1889, on active service 1889-1890, teacher at Iserlohn 1890-1891, at Dortmund 1891; assistant at the horticultural academy at Geisenheim a. Rh. 1891-1893, teacher at the pomological institute at Proskau 1893 (succeeding Sorauer)-1901, with the Sanitary Board (Kais. Gesundheitsamt) in Berlin 1901-1905, with the biology institution for agriculture and sylviculture at Dahlem 1905, as director until 1907. 
+**Abbreviated name**: *Aderhold*
 
 #### Herbarium and types
 

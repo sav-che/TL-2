@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103414#page/50/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33120095) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abich, \[Otto\] Hermann Wilhelm \[von\] (1806-1886), German palaeobiologist at Dorpat, St. Petersburg and Vienna. (*Abich*).
+Abich, \[Otto\] Hermann Wilhelm \[von\] (1806-1886), German palaeobiologist at Dorpat, St. Petersburg and Vienna. 
+**Abbreviated name**: *Abich*
 
 #### Collections
 

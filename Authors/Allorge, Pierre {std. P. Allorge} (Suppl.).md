@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103858#page/90/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33264805) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allorge, Pierre {std. P. Allorge}|first entry]] for this author
 
 ### Author
 
-\* Allorge, Pierre (1891-1944), French botanist in Paris, studied at the Faculté des Sciences de l'Université de Paris specializing in geology, botany and zoology, at the École nationale des langues orientales, Dr. Sci.nat. (with Gaston Bonnier) 1922, assistant to Mangin at the Muséum d'Histoire naturelle, sous-directeur 1926 and, 1932, professor of cryptogamic botany, from 1936 also in charge of a laboratory of the École pratique des hautes études, travelled and collected in Europe (esp. Spain), North Africa, Azores and French Antilles. (*P. Allorge*).
+\* Allorge, Pierre (1891-1944), French botanist in Paris, studied at the Faculté des Sciences de l'Université de Paris specializing in geology, botany and zoology, at the École nationale des langues orientales, Dr. Sci.nat. (with Gaston Bonnier) 1922, assistant to Mangin at the Muséum d'Histoire naturelle, sous-directeur 1926 and, 1932, professor of cryptogamic botany, from 1936 also in charge of a laboratory of the École pratique des hautes études, travelled and collected in Europe (esp. Spain), North Africa, Azores and French Antilles. 
+**Abbreviated name**: *P. Allorge*
 
 #### Herbarium and types
 

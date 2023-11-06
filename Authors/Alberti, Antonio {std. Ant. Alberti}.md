@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103414#page/74/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33120157) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alberti, Antonio {std. Ant. Alberti} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alberti, Antonio (1785-1861), Italian mycologist. (*Ant. Alberti*).
+Alberti, Antonio (1785-1861), Italian mycologist. 
+**Abbreviated name**: *Ant. Alberti*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103858#page/117/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33264832) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Anders, Joseph {std. Anders}|first entry]] for this author
 
 ### Author
 
-\* Anders, Josef (1863-1936), Czech (Bohemian) botanist, especially lichenologist, educated at schools in Schima and Leitmeritz, at teacher's College Leitmeritz, teacher at Ruschowan (nr. Leitmeritz) and Barzdorf am Rollberg 1885-1887, from 1887 at Böhmisch-Leipa teaching German at a girls school until 1896, ultimately "Fachlehrer" at a boys school. (*Anders*).
+\* Anders, Josef (1863-1936), Czech (Bohemian) botanist, especially lichenologist, educated at schools in Schima and Leitmeritz, at teacher's College Leitmeritz, teacher at Ruschowan (nr. Leitmeritz) and Barzdorf am Rollberg 1885-1887, from 1887 at Böhmisch-Leipa teaching German at a girls school until 1896, ultimately "Fachlehrer" at a boys school. 
+**Abbreviated name**: *Anders*
 
 #### Herbarium and types
 

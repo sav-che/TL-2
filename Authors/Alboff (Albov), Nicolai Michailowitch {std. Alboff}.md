@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/103414#page/75/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33120158) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alboff, Nicolas Michailowitch {std. Alboff} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alboff \[Albov\], Nicolai Michailowitch (1866-1897), Russian botanist, traveller in the Causasus, the Alps, Argentina and Tierra del Fuego. (*Alboff*).
+Alboff \[Albov\], Nicolai Michailowitch (1866-1897), Russian botanist, traveller in the Causasus, the Alps, Argentina and Tierra del Fuego. 
+**Abbreviated name**: *Alboff*
 
 #### Herbarium and types
 

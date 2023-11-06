@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/103858#page/116/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33264831) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Amshoff, Gerda Jane Hillegonda {std. Amshoff}|first entry]] for this author
 
 ### Author
 
-\* Amshoff, Gerda Jane Hillegonda (1913-1985), Dutch plant systematist, student of A.A. Pulle, Dr. phil. 1939 (see TL-2/117), scientist at the Utrecht Institute of Systematic Botany 1939-1955; with the Laboratory for Plant Taxonomy, Wageningen 1955-1978. (*Amshoff*).
+\* Amshoff, Gerda Jane Hillegonda (1913-1985), Dutch plant systematist, student of A.A. Pulle, Dr. phil. 1939 (see TL-2/117), scientist at the Utrecht Institute of Systematic Botany 1939-1955; with the Laboratory for Plant Taxonomy, Wageningen 1955-1978. 
+**Abbreviated name**: *Amshoff*
 
 #### Herbarium and types
 

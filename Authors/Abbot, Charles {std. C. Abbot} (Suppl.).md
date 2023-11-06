@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103858#page/16/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33264771) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Abbot, Charles {std. C. Abbot}|first entry]] for this author
 
 ### Author
 
-\* Abbot, Charles (1761-1817), British clergyman, botanist and lepidopterist, MA Oxford 1788, DD. ib. 1802, Vicar of Oakley Raynes 1798 and Goldington, Beds. 1803. (*C. Abbot*).
+\* Abbot, Charles (1761-1817), British clergyman, botanist and lepidopterist, MA Oxford 1788, DD. ib. 1802, Vicar of Oakley Raynes 1798 and Goldington, Beds. 1803. 
+**Abbreviated name**: *C. Abbot*
 
 #### Herbarium and types
 

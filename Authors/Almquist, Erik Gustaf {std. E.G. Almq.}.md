@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103858#page/94/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33264809) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Almquist, Erik Gustaf (1892-1974), Swedish botanist, nephew of Ernst and Sigfrid Almquist, studied at Uppsala 1910-1917, Fil.mag. Ups. 1917, assistant ib. 1918-1919, curator of the Botanical Department of the Riksmuseum, Stockholm 1921, Dr.phil. Uppsala 1929, lector in Eskilstuna ca. 1940, later lector Uppsala, prof. title 1964. (*E.G. Almq.*).
+Almquist, Erik Gustaf (1892-1974), Swedish botanist, nephew of Ernst and Sigfrid Almquist, studied at Uppsala 1910-1917, Fil.mag. Ups. 1917, assistant ib. 1918-1919, curator of the Botanical Department of the Riksmuseum, Stockholm 1921, Dr.phil. Uppsala 1929, lector in Eskilstuna ca. 1940, later lector Uppsala, prof. title 1964. 
+**Abbreviated name**: *E.G. Almq.*
 
 #### Herbarium and types
 

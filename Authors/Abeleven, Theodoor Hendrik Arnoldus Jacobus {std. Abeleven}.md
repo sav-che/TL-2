@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103414#page/50/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33120095) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Abeleven, Theodorus Hendrik Arnoldus Jacobus {std. Abeleven} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Abeleven, Theodoor Hendrik Arnoldus Jacobus (1822-1904), Dutch botanist, apothecary and high-school teacher at Nijmegen. (*Abeleven*).
+Abeleven, Theodoor Hendrik Arnoldus Jacobus (1822-1904), Dutch botanist, apothecary and high-school teacher at Nijmegen. 
+**Abbreviated name**: *Abeleven*
 
 #### Herbarium and types
 

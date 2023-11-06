@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/103858#page/78/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33264793) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alexander, Edward Johnston {std. Alexander}|first entry]] for this author
 
 ### Author
 
-\* Alexander, Edward Johnston (1901-1985), American botanist, studied at North Carolina State University 1919-1923, worked as a Museum intern at the New York Botanical Garden, assistant to J.K. Small 1926, assistant curator 1928-1932, id. and curator of the local herbarium 1932-1947, associate curator 1928-1943, curator 1943-1963. (*Alexander*).
+\* Alexander, Edward Johnston (1901-1985), American botanist, studied at North Carolina State University 1919-1923, worked as a Museum intern at the New York Botanical Garden, assistant to J.K. Small 1926, assistant curator 1928-1932, id. and curator of the local herbarium 1932-1947, associate curator 1928-1943, curator 1943-1963. 
+**Abbreviated name**: *Alexander*
 
 #### Herbarium and types
 

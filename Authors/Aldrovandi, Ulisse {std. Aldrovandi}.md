@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103414#page/76/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33120159) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aldrovandi, Ulisse (1522-1605), Italian botanist and pharmacologist, professor of botany at Bologna, author of several encyclopaedic works on natural history. (*Aldrovandi*).
+Aldrovandi, Ulisse (1522-1605), Italian botanist and pharmacologist, professor of botany at Bologna, author of several encyclopaedic works on natural history. 
+**Abbreviated name**: *Aldrovandi*
 
 #### Herbarium and types
 

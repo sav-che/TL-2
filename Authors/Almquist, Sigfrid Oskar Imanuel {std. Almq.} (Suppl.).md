@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103858#page/96/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33264811) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Almquist, Sigfrid Oscar Immanuel {std. Almq.}|first entry]] for this author
 
 ### Author
 
-\* Almquist, Sigfrid Oskar Imanuel (1844-1923), Swedish botanist, brother of Ernst Bernhard Almquist, studied at Uppsala, fil. kand. ib. 1868, fil. dr. ib. 1869, highschool teacher at Stockholm 1870-1880, lector in natural history and chemistry at the Stockholm teachers college at Norrmalm 1880-1909, interim rector ib. 1891-1906. (*S. Almq.*).
+\* Almquist, Sigfrid Oskar Imanuel (1844-1923), Swedish botanist, brother of Ernst Bernhard Almquist, studied at Uppsala, fil. kand. ib. 1868, fil. dr. ib. 1869, highschool teacher at Stockholm 1870-1880, lector in natural history and chemistry at the Stockholm teachers college at Norrmalm 1880-1909, interim rector ib. 1891-1906. 
+**Abbreviated name**: *S. Almq.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103858#page/120/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33264835) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Anderson, Charles Wilgress (1867-?), British forestry officer in British Guyana. (*C.W. Anderson*).
+Anderson, Charles Wilgress (1867-?), British forestry officer in British Guyana. 
+**Abbreviated name**: *C.W. Anderson*
 
 #### Herbarium and types
 

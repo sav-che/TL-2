@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103858#page/35/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33264752) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Adams, George Jr. (1750-1795), London optician and microscopist. (*G. Adams, Jr.*).
+Adams, George Jr. (1750-1795), London optician and microscopist. 
+**Abbreviated name**: *G. Adams, Jr.*
 
 #### Herbarium and types
 

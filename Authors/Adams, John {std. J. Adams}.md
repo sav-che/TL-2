@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103858#page/36/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33264751) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Adams, John (1872-1950), Irish botanist at Dublin, M.A. Cantab. \[Cambridge\], lecturer in botany at Dublin municipal technical school, assistant professor of botany, R. Veterinarian College Dublin; Dominion (economic) Botanist of Canada at Ottawa 1914-1938. (*J. Adams*).
+Adams, John (1872-1950), Irish botanist at Dublin, M.A. Cantab. \[Cambridge\], lecturer in botany at Dublin municipal technical school, assistant professor of botany, R. Veterinarian College Dublin; Dominion (economic) Botanist of Canada at Ottawa 1914-1938. 
+**Abbreviated name**: *J. Adams*
 
 #### Herbarium and types
 

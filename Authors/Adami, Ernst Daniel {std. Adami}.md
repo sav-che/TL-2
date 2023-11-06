@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103858#page/30/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33264757) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Adami, Ernst Daniel (1716-1795), German (born in Zduny (Posen/Poznan)) botanist and highschool teacher at Landeshutt (Lower Silesia), died in Pommerwitz (Silesia). (*Adami*).
+Adami, Ernst Daniel (1716-1795), German (born in Zduny (Posen/Poznan)) botanist and highschool teacher at Landeshutt (Lower Silesia), died in Pommerwitz (Silesia). 
+**Abbreviated name**: *Adami*
 
 #### Herbarium and types
 

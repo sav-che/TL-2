@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/item/103414#page/87/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33120170) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Altmann, Paul {std. P. Altmann} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Altmann, Paul (*fl*. 1894), German highschool teacher and botanist at Wriezen. (*P. Altmann*).
+Altmann, Paul (*fl*. 1894), German highschool teacher and botanist at Wriezen. 
+**Abbreviated name**: *P. Altmann*
 
 #### Herbarium and types
 

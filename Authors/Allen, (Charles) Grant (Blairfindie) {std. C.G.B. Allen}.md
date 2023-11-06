@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103858#page/83/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33264798) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Allen, \[Charles\] Grant \[Blairfindie\] (1848-1899), Canada born British popular writer, novelist and scientist, Merton College Oxford B.A. 1871, philosophy teacher at Spanish town, Jamaica 1873-1876, back to England 1876, turning to literature. (*C.G.B. Allen*).
+Allen, \[Charles\] Grant \[Blairfindie\] (1848-1899), Canada born British popular writer, novelist and scientist, Merton College Oxford B.A. 1871, philosophy teacher at Spanish town, Jamaica 1873-1876, back to England 1876, turning to literature. 
+**Abbreviated name**: *C.G.B. Allen*
 
 #### Herbarium and types
 

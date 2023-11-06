@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103858#page/62/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33264739) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ahlquist, Abraham (1794-1844), Swedish (Öland) vicar, rural dean and botanist, studied at Uppsala from 1813, Dr. phil. ib. 1818, at highschool in Kalmar 1820, teacher in natural history at the Kalmar "gymnasium" 1821-1826, conrector ib. 1825, later pastor in Runsten, Öland, from 1831 as dean. (*Ahlquist*).
+Ahlquist, Abraham (1794-1844), Swedish (Öland) vicar, rural dean and botanist, studied at Uppsala from 1813, Dr. phil. ib. 1818, at highschool in Kalmar 1820, teacher in natural history at the Kalmar "gymnasium" 1821-1826, conrector ib. 1825, later pastor in Runsten, Öland, from 1831 as dean. 
+**Abbreviated name**: *Ahlquist*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103414#page/77/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33120160) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alexander, Edward Johnston {std. Alexander} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alexander, Edward Johnston (1901-x); American botanist. (*E. J. Alexander*).
+Alexander, Edward Johnston (1901-x); American botanist. 
+**Abbreviated name**: *E. J. Alexander*
 
 #### Herbarium and types
 

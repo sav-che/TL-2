@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103858#page/137/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Andrews, Charles William (1866-1924), British geologist, educated at London University, assistant at the Geological Dept. Brit. Museum 1892, later assistant keeper ib., made an expedition to Christmas Island (Indian Ocean) 1897-1898. (*C.W. Andr.*).
+Andrews, Charles William (1866-1924), British geologist, educated at London University, assistant at the Geological Dept. Brit. Museum 1892, later assistant keeper ib., made an expedition to Christmas Island (Indian Ocean) 1897-1898. 
+**Abbreviated name**: *C.W. Andr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103858#page/66/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33264743) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Airy Shaw, Herbert Kenneth (1902-1985), British botanist, studied at Cambridge 1921-1924, at first reading classics, but later studying biology, B.A. 1924, volunteer botanist at the Royal Botanic Gardens, Kew 1925-1929, appointed to a salaried post 1929, principal scientific officer 1948, resigned 1952, again active at Kew 1958-1985. (*Airy Shaw*).
+Airy Shaw, Herbert Kenneth (1902-1985), British botanist, studied at Cambridge 1921-1924, at first reading classics, but later studying biology, B.A. 1924, volunteer botanist at the Royal Botanic Gardens, Kew 1925-1929, appointed to a salaried post 1929, principal scientific officer 1948, resigned 1952, again active at Kew 1958-1985. 
+**Abbreviated name**: *Airy Shaw*
 
 #### Herbarium and types
 

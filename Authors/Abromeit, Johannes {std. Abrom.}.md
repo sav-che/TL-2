@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103414#page/51/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33120096) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Abromeit, Johannes {std. Abrom.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Abromeit, Johannes (1857-1946), German botanist at Königsberg, specialized in the flora of E. and W. Prussia. (*Abrom.*).
+Abromeit, Johannes (1857-1946), German botanist at Königsberg, specialized in the flora of E. and W. Prussia. 
+**Abbreviated name**: *Abrom.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103414#page/91/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33120174) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Anders, Josef {std. Anders} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Anders, Joseph (1863-1936), Czeck lichenologist. (*Anders*).
+Anders, Joseph (1863-1936), Czeck lichenologist. 
+**Abbreviated name**: *Anders*
 
 #### Herbarium and types
 

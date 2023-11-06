@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103858#page/40/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33264717) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ade, Alfred (1876-1968), German amateur botanist, born in Sarbogard in Hungary, educated in München at the Max-Gymnasium (1887-1893), at the Veterinarian college in München; district veterinarian at Brückenau from 1912, later idem at Gemünden a. Main, Dr. h.c. University of Würzburg 1951. (*Ade*).
+Ade, Alfred (1876-1968), German amateur botanist, born in Sarbogard in Hungary, educated in München at the Max-Gymnasium (1887-1893), at the Veterinarian college in München; district veterinarian at Brückenau from 1912, later idem at Gemünden a. Main, Dr. h.c. University of Würzburg 1951. 
+**Abbreviated name**: *Ade*
 
 #### Herbarium and types
 

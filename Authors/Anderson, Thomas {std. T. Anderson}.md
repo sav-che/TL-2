@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103414#page/93/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33120176) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Anderson, Thomas {std. T. Anderson} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Anderson, Thomas (1832-1870), Scottish botanist, superintendent and later director of the Calcutta Botanic Garden. (*T. Anderson*).
+Anderson, Thomas (1832-1870), Scottish botanist, superintendent and later director of the Calcutta Botanic Garden. 
+**Abbreviated name**: *T. Anderson*
 
 #### Herbarium and types
 

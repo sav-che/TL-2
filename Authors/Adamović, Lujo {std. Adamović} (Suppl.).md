@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103858#page/30/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33264757) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Adamović, Lujo {std. Adamović}|first entry]] for this author
 
 ### Author
 
-\* Adamović, Lujo (1864-1935), Dalmatian botanist, born at Dubrovnik (Ragusa); distributed Dalmatian plant material in 1889; in Serbia 1889, highschool teacher at Vranja 1890-1900, Dr. phil. Berlin 1898 with Engler. Director of the Botanical Garden and professor of botany in Belgrade 1901-1905, "Habilitation" Univ. Vienna 1906; "Privatdozent" 1906-1914; employed by the Austrian govt. to study the floristics of the Balcan peninsula from 1906 onward. In retirement living in Dubrovnik, Dalmatia. (*Adamovic*).
+\* Adamović, Lujo (1864-1935), Dalmatian botanist, born at Dubrovnik (Ragusa); distributed Dalmatian plant material in 1889; in Serbia 1889, highschool teacher at Vranja 1890-1900, Dr. phil. Berlin 1898 with Engler. Director of the Botanical Garden and professor of botany in Belgrade 1901-1905, "Habilitation" Univ. Vienna 1906; "Privatdozent" 1906-1914; employed by the Austrian govt. to study the floristics of the Balcan peninsula from 1906 onward. In retirement living in Dubrovnik, Dalmatia. 
+**Abbreviated name**: *Adamovic*
 
 #### Herbarium and types
 

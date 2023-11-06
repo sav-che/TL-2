@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103858#page/13/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33264774) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aasen, Ivar Andreas (1813-1896), Norwegian botanist. (*Aasen*).
+Aasen, Ivar Andreas (1813-1896), Norwegian botanist. 
+**Abbreviated name**: *Aasen*
 
 #### Herbarium and types
 

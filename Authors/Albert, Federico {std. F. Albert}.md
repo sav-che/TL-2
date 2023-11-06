@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103858#page/72/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33264787) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Albert, Federico (fl. 1909), Chilean botanist, ornithologist and silviculturist, sometime in charge of the Seccion de Aguas; Bosques del Ministerio de Industria, Santiago de Chile. (*F. Albert*).
+Albert, Federico (fl. 1909), Chilean botanist, ornithologist and silviculturist, sometime in charge of the Seccion de Aguas; Bosques del Ministerio de Industria, Santiago de Chile. 
+**Abbreviated name**: *F. Albert*
 
 #### Herbarium and types
 

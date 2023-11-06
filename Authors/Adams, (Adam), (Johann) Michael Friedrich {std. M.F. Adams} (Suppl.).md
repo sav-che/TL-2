@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103858#page/35/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33264752) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Adams, Michael Friedrich {std. M.F. Adams}|first entry]] for this author
 
 ### Author
 
-\* Adams, \[Adam\], \[Johann\] Michael Friedrich (1780-1829/1832), Russian botanist, zoologist, and collector, studied medicine in St. Petersburg 1795-1796, travelled with Count Mussin-Pushkin in Transcaucasia 1800-1805; later with Golowkin to China, travelled along the Lena 1806-1807, settled later in Moscow as adj. professor of botany at the medical academy. (*M.F. Adams*).
+\* Adams, \[Adam\], \[Johann\] Michael Friedrich (1780-1829/1832), Russian botanist, zoologist, and collector, studied medicine in St. Petersburg 1795-1796, travelled with Count Mussin-Pushkin in Transcaucasia 1800-1805; later with Golowkin to China, travelled along the Lena 1806-1807, settled later in Moscow as adj. professor of botany at the medical academy. 
+**Abbreviated name**: *M.F. Adams*
 
 #### Herbarium and types
 

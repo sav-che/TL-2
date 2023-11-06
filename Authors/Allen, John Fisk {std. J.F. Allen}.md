@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103414#page/79/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Allen, John Fisk (1807-1876), American botanist, of Salem, Mass. (*J. F. Allen*).
+Allen, John Fisk (1807-1876), American botanist, of Salem, Mass. 
+**Abbreviated name**: *J.F. Allen*
 
 #### Herbarium and types
 

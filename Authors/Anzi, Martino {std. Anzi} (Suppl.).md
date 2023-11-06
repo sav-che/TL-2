@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103858#page/146/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33264861) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Anzi, Martino {std. Anzi}|first entry]] for this author
 
 ### Author
 
-\* Anzi, Martino (1812-1883), Italian cryptogamist and canon at Como, editor of various important series of cryptogams exsiccatae, educated at the Bormio gymnasium, ordained priest 1835 at the episcopal see at Como, subsequently "canonicus ecclesiae cathedr. Novo-Comensis". (*Anzi*).
+\* Anzi, Martino (1812-1883), Italian cryptogamist and canon at Como, editor of various important series of cryptogams exsiccatae, educated at the Bormio gymnasium, ordained priest 1835 at the episcopal see at Como, subsequently "canonicus ecclesiae cathedr. Novo-Comensis". 
+**Abbreviated name**: *Anzi*
 
 #### Herbarium and types
 

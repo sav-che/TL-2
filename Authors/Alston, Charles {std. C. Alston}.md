@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103858#page/101/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33264816) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Alston, Charles (1685-1760), Scottish botanist and physician, studied at the University of Glasgow 1700-1703, principal servant to the Duchess of Hamilton 1706-1715, King's botanist, professor of botany and materia medica and overseer of the Royal Garden (Edinburgh) 1716-1760, at Leiden with Boerhaave 1718-1719, Dr. med. Glasgow 1719, Fellow of the Royal College of Physicians 1725, College professor at the University of Edinburgh 1738. (*C. Alston*).
+Alston, Charles (1685-1760), Scottish botanist and physician, studied at the University of Glasgow 1700-1703, principal servant to the Duchess of Hamilton 1706-1715, King's botanist, professor of botany and materia medica and overseer of the Royal Garden (Edinburgh) 1716-1760, at Leiden with Boerhaave 1718-1719, Dr. med. Glasgow 1719, Fellow of the Royal College of Physicians 1725, College professor at the University of Edinburgh 1738. 
+**Abbreviated name**: *C. Alston*
 
 #### Herbarium and types
 

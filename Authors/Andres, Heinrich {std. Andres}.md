@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103414#page/97/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andres, Heinrich {std. Andres} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Andres, Heinrich (1883-1970), German cryptogamist. (*Andres*).
+Andres, Heinrich (1883-1970), German cryptogamist. 
+**Abbreviated name**: *Andres*
 
 #### Herbarium and types
 

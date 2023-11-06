@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/item/103414#page/87/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33120170) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alten, Johann Wilhelm von {std. J. Alten} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alten, Johann Wilhelm von (1770-?), German apothecary and botanist in Augsburg. (*J. Alten*).
+Alten, Johann Wilhelm von (1770-?), German apothecary and botanist in Augsburg. 
+**Abbreviated name**: *J. Alten*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103858#page/29/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33264758) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Acosta Solis, Misael (1910-x), Ecuadorian botanist, director of the Instituto botanico, Quito ca. 1938, professor of botany and pharmacognosy ib. (*Acosta Solis*).
+Acosta Solis, Misael (1910-x), Ecuadorian botanist, director of the Instituto botanico, Quito ca. 1938, professor of botany and pharmacognosy ib. 
+**Abbreviated name**: *Acosta Solis*
 
 #### Herbarium and types
 

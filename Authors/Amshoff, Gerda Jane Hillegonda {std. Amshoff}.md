@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103414#page/91/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33120174) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Amshoff, Gerda Jane Hillegonda {std. Amshoff} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Amshoff, Gerda Jane Hillegonda (*fl*. 1939), Dutch botanist. (*Amshoff*).
+Amshoff, Gerda Jane Hillegonda (*fl*. 1939), Dutch botanist. 
+**Abbreviated name**: *Amshoff*
 
 #### Herbarium and types
 

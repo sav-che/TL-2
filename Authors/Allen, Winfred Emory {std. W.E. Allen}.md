@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/item/103858#page/86/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33264801) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Allen, Winfred Emory (1873-1947), American botanist, at first athletic coach and physical director 1896-1904, at various schools in Nebraska and Washington 1899-1911 teaching biology, head biology department at a high school in California 1912-1919, from 1919 on assistant professor of biology at Scripps Institution, California. (*W.E. Allen*).
+Allen, Winfred Emory (1873-1947), American botanist, at first athletic coach and physical director 1896-1904, at various schools in Nebraska and Washington 1899-1911 teaching biology, head biology department at a high school in California 1912-1919, from 1919 on assistant professor of biology at Scripps Institution, California. 
+**Abbreviated name**: *W.E. Allen*
 
 #### Herbarium and types
 

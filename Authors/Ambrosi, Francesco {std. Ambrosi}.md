@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/103414#page/88/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33120171) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ambrosi, Francesco {std. Ambrosi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ambrosi, Francesco (1821-1897), Austro-Italian botanist, director of the Museo civico in Trient. (*Ambrosi*).
+Ambrosi, Francesco (1821-1897), Austro-Italian botanist, director of the Museo civico in Trient. 
+**Abbreviated name**: *Ambrosi*
 
 #### Herbarium and types
 

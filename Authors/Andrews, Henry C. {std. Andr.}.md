@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103414#page/97/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andrews, Henry Charles {std. Andr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Andrews, Henry C. (*fl*. 1799-1830), English botanical painter and engraver.(*Andr.*).
+Andrews, Henry C. (*fl*. 1799-1830), English botanical painter and engraver.
+**Abbreviated name**: *Andr.*
 
 #### Herbarium and types
 

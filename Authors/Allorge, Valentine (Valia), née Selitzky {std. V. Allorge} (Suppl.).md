@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/item/103858#page/92/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33264807) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allorge, Valentine, née Sélitsky {std. V. Allorge}|first entry]] for this author
 
 ### Author
 
-\* Allorge, Valentine \["Valia"\], née Selitzky (1888-1977), French, Russian born, bryologist, went to schools in Kharkov, moved to France before 1914, studied at Lausanne and Paris, married the botanist Charles Louis Gatin (1877-1916, fell at Douaumont), took her degree (Dr. phil.) at the Sorbonne with Gaston Bonnier, married Pierre Allorge 1920 (d. 1944), longtime editor of the Revue bryologique succeeding as such her husband in 1944. (*V. Allorge*).
+\* Allorge, Valentine \["Valia"\], née Selitzky (1888-1977), French, Russian born, bryologist, went to schools in Kharkov, moved to France before 1914, studied at Lausanne and Paris, married the botanist Charles Louis Gatin (1877-1916, fell at Douaumont), took her degree (Dr. phil.) at the Sorbonne with Gaston Bonnier, married Pierre Allorge 1920 (d. 1944), longtime editor of the Revue bryologique succeeding as such her husband in 1944. 
+**Abbreviated name**: *V. Allorge*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103414#page/54/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33120099) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Acloque, Alexandre Noel Charles {std. Acloque} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Acloque, Alexandre Noel Charles (1871-x), French botanist at Auxi-le-Château, Pas-de-Calais, editor of and contributor to various natural history journals. (*Acloque*).
+Acloque, Alexandre Noel Charles (1871-x), French botanist at Auxi-le-Château, Pas-de-Calais, editor of and contributor to various natural history journals. 
+**Abbreviated name**: *Acloque*
 
 #### Herbarium and types
 

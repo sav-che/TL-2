@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103858#page/117/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33264832) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Anastasia, Guiseppe Emilio (1870-1934), Italian technician at the R. Istituto Sperimente dei Tabacchi in Scafati. (*Anas.*).
+Anastasia, Guiseppe Emilio (1870-1934), Italian technician at the R. Istituto Sperimente dei Tabacchi in Scafati. 
+**Abbreviated name**: *Anas.*
 
 #### Herbarium and types
 

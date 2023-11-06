@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103414#page/93/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33120176) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Andersson, (Carl Filip) Gunnar {std. G. Andersson} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Andersson, Carl Filip Gunnar (1865-1928), Swedish bryologist, palaeobotanist and plant-geographer at Stockholm. (*C. Andersson*).
+Andersson, Carl Filip Gunnar (1865-1928), Swedish bryologist, palaeobotanist and plant-geographer at Stockholm. 
+**Abbreviated name**: *C. Andersson*
 
 #### Herbarium and types
 

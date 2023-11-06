@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103858#page/121/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33264836) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Anderson, Lewis Edward (1912-x), American botanist (bryologist), educated at Mississippi State College B.S. 1931; studied at Duke University, 1933; University of Pennsylvania, Ph.D. 1936; assistant in botany at Duke University 1931-1935; fellow in botany at the University of Pennsylvania 1933-1935; assistant instructor id. 1935-1936; from 1936 at Duke University as instructor of botany, later professor of botany until 1983. (*L.E. Anderson*).
+Anderson, Lewis Edward (1912-x), American botanist (bryologist), educated at Mississippi State College B.S. 1931; studied at Duke University, 1933; University of Pennsylvania, Ph.D. 1936; assistant in botany at Duke University 1931-1935; fellow in botany at the University of Pennsylvania 1933-1935; assistant instructor id. 1935-1936; from 1936 at Duke University as instructor of botany, later professor of botany until 1983. 
+**Abbreviated name**: *L.E. Anderson*
 
 #### Herbarium and types
 

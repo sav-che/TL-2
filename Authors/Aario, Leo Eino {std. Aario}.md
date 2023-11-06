@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103858#page/13/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33264774) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aario, Leo Eino (1906-x), Finnish botanist; originally Leo Eino Engman. (*Aario*).
+Aario, Leo Eino (1906-x), Finnish botanist; originally Leo Eino Engman. 
+**Abbreviated name**: *Aario*
 
 #### Herbarium and types
 

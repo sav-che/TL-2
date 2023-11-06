@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103858#page/18/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33264769) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Abel, Othenio (1875-1946), Austrian botanist, professor of palaeontology at the University of Vienna, visited the United States and Cuba in 1925, sometime editor of Palaeobiologica. (*O. Abel*).
+Abel, Othenio (1875-1946), Austrian botanist, professor of palaeontology at the University of Vienna, visited the United States and Cuba in 1925, sometime editor of Palaeobiologica. 
+**Abbreviated name**: *O. Abel*
 
 #### Herbarium and types
 

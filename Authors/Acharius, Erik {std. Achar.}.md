@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103414#page/52/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33120097) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Acharius, Erik {std. Achar.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Acharius, Erik (1757-1819), Swedish lichenologist, pupil of Linnaeus, physician at Vadstena. (*Achar.*).
+Acharius, Erik (1757-1819), Swedish lichenologist, pupil of Linnaeus, physician at Vadstena. 
+**Abbreviated name**: *Achar.*
 
 #### Herbarium and types
 

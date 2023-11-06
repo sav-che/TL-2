@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103858#page/115/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33264830) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Amoreux, Pierre-Joseph (1741-1824), French botanist, zoologist and physician, educated at Beaucaire, studied medicine at Montpellier, student of A. Gouan, Dr. med. 1762, in Paris 1764-1765 meeting Lemonnier and Bernard de Jussieu, from 1765 in Montpellier, curator of the medical library at the Hôtel-Dieu-Saint-Éloy 1768-1795, professor of natural history at the École de médecine 1795, later, in retirement, dedicating himself to botany only. (*Amoreux*).
+Amoreux, Pierre-Joseph (1741-1824), French botanist, zoologist and physician, educated at Beaucaire, studied medicine at Montpellier, student of A. Gouan, Dr. med. 1762, in Paris 1764-1765 meeting Lemonnier and Bernard de Jussieu, from 1765 in Montpellier, curator of the medical library at the Hôtel-Dieu-Saint-Éloy 1768-1795, professor of natural history at the École de médecine 1795, later, in retirement, dedicating himself to botany only. 
+**Abbreviated name**: *Amoreux*
 
 #### Herbarium and types
 

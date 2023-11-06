@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103414#page/77/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33120160) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alefeld, Friedrich (Georg Christoph) {std. Alef.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Alefeld, Friedrich Georg Christoph (1820-1872), German physician and botanist at Ober-Ramstadt. (*Alef.*).
+Alefeld, Friedrich Georg Christoph (1820-1872), German physician and botanist at Ober-Ramstadt. 
+**Abbreviated name**: *Alef.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103858#page/72/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33264787) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Alberti, Antonio {std. Ant. Alberti}|first entry]] for this author
 
 ### Author
 
-\* Alberti, Antonio (1785-1861), Italian physician and botanist at Milano. (*==Name in the standard form is not specified==.*).
+\* Alberti, Antonio (1785-1861), Italian physician and botanist at Milano. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Herbarium and types
 

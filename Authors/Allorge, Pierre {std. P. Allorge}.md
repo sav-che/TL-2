@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103414#page/84/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33120167) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allorge, Pierre {std. P. Allorge} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Allorge, Pierre (1891-1944), French botanist and ecologist. (*P. Allorge*).
+Allorge, Pierre (1891-1944), French botanist and ecologist. 
+**Abbreviated name**: *P. Allorge*
 
 #### Herbarium and types
 

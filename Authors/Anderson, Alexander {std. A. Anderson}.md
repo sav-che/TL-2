@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103414#page/92/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33120175) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Anderson, Alexander (x-1811), British born physician who was superintendent of the St. Vincent botanical garden 1785-1811. (*A. Anderson*).
+Anderson, Alexander (x-1811), British born physician who was superintendent of the St. Vincent botanical garden 1785-1811. 
+**Abbreviated name**: *A. Anderson*
 
 #### Herbarium and types
 

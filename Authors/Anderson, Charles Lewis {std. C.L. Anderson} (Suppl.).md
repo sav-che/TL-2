@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103858#page/119/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33264834) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Anderson, Charles Lewis {std. C.L. Anderson}|first entry]] for this author
 
 ### Author
 
-\* Anderson, Charles Lewis (1827-1910), American practicing physician and naturalist, born at Salem, Roanoke (Virginia), moved ca. 1837 with his family to Indiana, Dr. med. 1852 at Indiana Asbury University, practiced in Hennipin Cy., Minnesota, moved to Carson City, Nevada Territory 1862, practicing 1862-1867, moved to Santa Cruz, California, again practicing medicine but devoting himself in addition to botany, zoology and geology, collecting widely, especially Algae. (*C.L. Anderson*).
+\* Anderson, Charles Lewis (1827-1910), American practicing physician and naturalist, born at Salem, Roanoke (Virginia), moved ca. 1837 with his family to Indiana, Dr. med. 1852 at Indiana Asbury University, practiced in Hennipin Cy., Minnesota, moved to Carson City, Nevada Territory 1862, practicing 1862-1867, moved to Santa Cruz, California, again practicing medicine but devoting himself in addition to botany, zoology and geology, collecting widely, especially Algae. 
+**Abbreviated name**: *C.L. Anderson*
 
 #### Herbarium and types
 

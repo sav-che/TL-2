@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103858#page/108/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33264823) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ambronn, \[Ernst Ludwig Victor\] Hermann (1856-1927), German botanist and microscopist, educated at the Meiningen (- Sachsen) Gymnasium, studied botany at Heidelberg 1877, Vienna 1877-1878 with Kny 1878-1880, Dr. phil. Berlin 1880, assistant to Schenk at Leipzig 1881, habil. 1882, curator of the Leipzig herbarium 1882-1887, worked in Triest 1883 and at the Zoological Station at Naples 1889 and 1890, private lecturer ca. 1884, extraordinary professor 1889, specializing in cell biology, professor of scientific microscopy at Jena with Abbe 1899, also director of the microscopy division of Zeiss, full time at Jena University from 1907 as director of the Institute of scientific microscopy, Leipnitz medal 1924; died in Jena 28 Mar 1927. (*Ambronn*).
+Ambronn, \[Ernst Ludwig Victor\] Hermann (1856-1927), German botanist and microscopist, educated at the Meiningen (- Sachsen) Gymnasium, studied botany at Heidelberg 1877, Vienna 1877-1878 with Kny 1878-1880, Dr. phil. Berlin 1880, assistant to Schenk at Leipzig 1881, habil. 1882, curator of the Leipzig herbarium 1882-1887, worked in Triest 1883 and at the Zoological Station at Naples 1889 and 1890, private lecturer ca. 1884, extraordinary professor 1889, specializing in cell biology, professor of scientific microscopy at Jena with Abbe 1899, also director of the microscopy division of Zeiss, full time at Jena University from 1907 as director of the Institute of scientific microscopy, Leipnitz medal 1924; died in Jena 28 Mar 1927. 
+**Abbreviated name**: *Ambronn*
 
 #### Herbarium and types
 

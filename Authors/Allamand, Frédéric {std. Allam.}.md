@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103414#page/78/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33120161) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allamand, Jean Frédéric François Louis {std. Allam.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Allamand, Frédéric (1736-x), Swiss botanist and physician, correspondent of Linnaeus. (*Allam.*).
+Allamand, Frédéric (1736-x), Swiss botanist and physician, correspondent of Linnaeus. 
+**Abbreviated name**: *Allam.*
 
 #### Collections and manuscripts
 

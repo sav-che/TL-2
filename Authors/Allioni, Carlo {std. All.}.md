@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/item/103414#page/82/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33120165) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Allioni, Carlo Ludovico {std. All.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Allioni, Carlo (1728-1804), Italian physician and botanist, correspondent of Linnaeus, "il Linneo piemontese". (*All.*).
+Allioni, Carlo (1728-1804), Italian physician and botanist, correspondent of Linnaeus, "il Linneo piemontese". 
+**Abbreviated name**: *All.*
 
 #### Herbarium and types
 

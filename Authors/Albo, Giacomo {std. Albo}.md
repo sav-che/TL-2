@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103858#page/73/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33264788) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Albo, Giacomo (1872-?), Italian botanist and biochemist, sometime connected as professor at the R. Istituto tecnico Messina, ultimately active in his private Laboratorio di Biochemica vegetale, Villa Albo, Modica, Sicilia; mainly interested in microbiochemistry and the Sicilian flora. (*Albo*).
+Albo, Giacomo (1872-?), Italian botanist and biochemist, sometime connected as professor at the R. Istituto tecnico Messina, ultimately active in his private Laboratorio di Biochemica vegetale, Villa Albo, Modica, Sicilia; mainly interested in microbiochemistry and the Sicilian flora. 
+**Abbreviated name**: *Albo*
 
 #### Herbarium and types
 
