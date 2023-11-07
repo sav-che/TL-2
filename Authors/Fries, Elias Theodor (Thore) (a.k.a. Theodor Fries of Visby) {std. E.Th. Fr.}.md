@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103832#page/33/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fries, Elias Theodor \[Thore\] (a.k.a. Theodor Fries of Visby) (1875-1951), born 9 Jul 1875 in Göteborg, studied medicine in Uppsala (license 1908), published on the flora of Gotland, died 11 Oct 1951 in Visby. (*E.Th. Fr.*).
+Fries, Elias Theodor \[Thore\] (a.k.a. Theodor Fries of Visby) (1875-1951), born 9 Jul 1875 in Göteborg, studied medicine in Uppsala (license 1908), published on the flora of Gotland, died 11 Oct 1951 in Visby. 
+**Abbreviated name**: *E.Th. Fr.*
 
 #### Note
 

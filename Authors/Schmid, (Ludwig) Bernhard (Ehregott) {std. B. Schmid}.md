@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/104077#page/248/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33333373) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmid, \[Ludwig\] Bernhard \[Ehregott\] (1788-1857), German (Thüringian) missionary and botanical explorer; nephew of J.K. Zenker (Jena); studied theology at Jena 1807-1810; private teacher at Aachen, Hamburg and Paris 1810-1817; to Madras 1817-1819; in the Nilgiri Hills 1819-1837. (*B. Schmid*).
+Schmid, \[Ludwig\] Bernhard \[Ehregott\] (1788-1857), German (Thüringian) missionary and botanical explorer; nephew of J.K. Zenker (Jena); studied theology at Jena 1807-1810; private teacher at Aachen, Hamburg and Paris 1810-1817; to Madras 1817-1819; in the Nilgiri Hills 1819-1837. 
+**Abbreviated name**: *B. Schmid*
 
 #### Herbarium and types
 

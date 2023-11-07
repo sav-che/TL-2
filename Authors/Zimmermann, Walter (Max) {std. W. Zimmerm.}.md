@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/item/103250#page/602/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33066882) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zimmermann, Walter \[Max\] (1892-1980), German (Baden) botanist; studied natural sciences in Karlsruhe, Freiburg, Berlin, München; Dr. phil. Freiburg i. Br. 1921; private lecturer Tübingen 1925; assistant professor ib. 1929-1959; military service 1910-1911, active service 1914-1919, 1939-1945; full professor (emeritus) Tübingen 1959-1980; outstanding phylogeneticist and botanist; originator of the "Telomtheorie". (*W. Zimmerm.*).
+Zimmermann, Walter \[Max\] (1892-1980), German (Baden) botanist; studied natural sciences in Karlsruhe, Freiburg, Berlin, München; Dr. phil. Freiburg i. Br. 1921; private lecturer Tübingen 1925; assistant professor ib. 1929-1959; military service 1910-1911, active service 1914-1919, 1939-1945; full professor (emeritus) Tübingen 1959-1980; outstanding phylogeneticist and botanist; originator of the "Telomtheorie". 
+**Abbreviated name**: *W. Zimmerm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103250#page/310/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33066590) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, Edward Albert (1872-1943), American botanist; B.Sc. Massachusetts State College 1895; in charge of greenhouse of this College 1895-1897; florist Arlington, Mass. 1897-1900; assistant professor of horticulture Texas A. & M. 1900-1902; professor of botany and forestry Connecticut Agric. College 1902-1906; professor of floriculture Mass. State Coll. 1906-1913; head of Dept. Floriculture, Cornell Univ. 1913-1939; prof. emeritus 1939-1943; specialist on orchidaceae as well as fungi. (*E.A. White*).
+White, Edward Albert (1872-1943), American botanist; B.Sc. Massachusetts State College 1895; in charge of greenhouse of this College 1895-1897; florist Arlington, Mass. 1897-1900; assistant professor of horticulture Texas A. & M. 1900-1902; professor of botany and forestry Connecticut Agric. College 1902-1906; professor of floriculture Mass. State Coll. 1906-1913; head of Dept. Floriculture, Cornell Univ. 1913-1939; prof. emeritus 1939-1943; specialist on orchidaceae as well as fungi. 
+**Abbreviated name**: *E.A. White*
 
 #### Herbarium and types
 

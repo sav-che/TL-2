@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103833#page/64/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259098) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daniel, Jean-Lucien (?-1915), French student of biology, son of professor Lucien Daniel (see below), died in battle in W.W. I at 24 Sep 1915 as sublieutenant in the French army after having completed in 1914 his thesis which was never defended but published posthumously early in 1916. (*J.L. Daniel*).
+Daniel, Jean-Lucien (?-1915), French student of biology, son of professor Lucien Daniel (see below), died in battle in W.W. I at 24 Sep 1915 as sublieutenant in the French army after having completed in 1914 his thesis which was never defended but published posthumously early in 1916. 
+**Abbreviated name**: *J.L. Daniel*
 
 #### Herbarium and types
 

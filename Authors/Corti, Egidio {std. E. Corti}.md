@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103860#page/396/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33266063) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Corti, Egidio (1856-1921), Italian architect and botanist, mainly interested in bryophytes, lichens, algae and plancton, died at Milano. (*E. Corti*).
+Corti, Egidio (1856-1921), Italian architect and botanist, mainly interested in bryophytes, lichens, algae and plancton, died at Milano. 
+**Abbreviated name**: *E. Corti*
 
 #### Herbarium and types
 

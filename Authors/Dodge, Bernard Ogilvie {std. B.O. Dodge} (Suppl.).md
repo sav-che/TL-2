@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/item/103835#page/24/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33260002) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dodge, Bernard Ogilvie {std. B.O. Dodge}|first entry]] for this author
 
 ### Author
 
-\* Dodge, Bernard Ogilvie (1872-1960), American botanist, born 18 Apr 1872 at Manston, Wisconsin, died 9 Aug 1960, New York, grew up on a Wisconsin farm, enrolled in the University of Wisconsin 1895 for a single year, later teaching and studying, graduated from Milwaukee Normal School 1901, some time at Madison, assistant at Columbia (N.Y.), Ph.D. 1912, 1909-1920 at Columbia, instructor, since 1928 as plant pathologist at the New York Botanical Garden. (*B.O. Dodge*).
+\* Dodge, Bernard Ogilvie (1872-1960), American botanist, born 18 Apr 1872 at Manston, Wisconsin, died 9 Aug 1960, New York, grew up on a Wisconsin farm, enrolled in the University of Wisconsin 1895 for a single year, later teaching and studying, graduated from Milwaukee Normal School 1901, some time at Madison, assistant at Columbia (N.Y.), Ph.D. 1912, 1909-1920 at Columbia, instructor, since 1928 as plant pathologist at the New York Botanical Garden. 
+**Abbreviated name**: *B.O. Dodge*
 
 #### Herbarium and types
 

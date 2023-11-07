@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103860#page/221/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265888) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cléonique-Joseph, Frère (Julian Bablee) (1886-?), Brother of Christian Instruction, French born, later in the United States and Canada as F.I.C. Brother of Christian Instruction, ultimately at Montreal, Quebec. (*Cléonique-Joseph*).
+Cléonique-Joseph, Frère (Julian Bablee) (1886-?), Brother of Christian Instruction, French born, later in the United States and Canada as F.I.C. Brother of Christian Instruction, ultimately at Montreal, Quebec. 
+**Abbreviated name**: *Cléonique-Joseph*
 
 #### Herbarium and types
 

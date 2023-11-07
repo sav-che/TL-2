@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 673](https://www.biodiversitylibrary.org/item/103253#page/699/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 673](https://www.biodiversitylibrary.org/page/33068915) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kreutzer, Karl (Carl) Joseph (1809-1866), Austrian botanist and librarian at Wien; later University librarian at Graz. (*Kreutz.*).
+Kreutzer, Karl (Carl) Joseph (1809-1866), Austrian botanist and librarian at Wien; later University librarian at Graz. 
+**Abbreviated name**: *Kreutz.*
 
 #### Herbarium and types
 

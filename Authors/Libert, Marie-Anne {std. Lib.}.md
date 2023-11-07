@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/104137#page/22/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33355121) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Libert, Marie-Anne (1782-1865), Belgian botanist, born in Malmédy.(*Lib.*).
+Libert, Marie-Anne (1782-1865), Belgian botanist, born in Malmédy.
+**Abbreviated name**: *Lib.*
 
 #### Herbarium and types
 

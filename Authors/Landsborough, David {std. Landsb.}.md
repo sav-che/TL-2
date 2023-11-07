@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/103253#page/770/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33068986) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Landsborough, David (1779-1854), Scottish clergyman and botanist; minister of Stevenson, Ayrshire 1811, at Saltcoats 1843; died of cholera. (*Landsb.*).
+Landsborough, David (1779-1854), Scottish clergyman and botanist; minister of Stevenson, Ayrshire 1811, at Saltcoats 1843; died of cholera. 
+**Abbreviated name**: *Landsb.*
 
 #### Herbarium and types
 

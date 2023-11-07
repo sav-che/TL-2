@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/item/103253#page/559/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33068775) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kiaer, Frantz Casper (1835-1893), Norwegian bryologist and physician; Dr. med. Oslo 1863, hospital physician at Oslo 1864-1893. (*Kiaer*).
+Kiaer, Frantz Casper (1835-1893), Norwegian bryologist and physician; Dr. med. Oslo 1863, hospital physician at Oslo 1864-1893. 
+**Abbreviated name**: *Kiaer*
 
 #### Herbarium and types
 

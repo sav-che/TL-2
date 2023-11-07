@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/item/103624#page/678/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33190135) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reichel, Georg Christian (1727-1771), German (Saxonian/Thuringian) physician and botanist; Dr. phil. Leipzig 1759; professor of medicine at the University of Leipzig 1767-1771. (*G. Reichel*).
+Reichel, Georg Christian (1727-1771), German (Saxonian/Thuringian) physician and botanist; Dr. phil. Leipzig 1759; professor of medicine at the University of Leipzig 1767-1771. 
+**Abbreviated name**: *G. Reichel*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/item/103414#page/898/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Foerster (later Förster), Arnold {std. A. Foerster} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Foerster, Arnold (1810-1884), German highschool teacher and botanist at Aachen (Aix-la-Chapelle). (*A. Foerster*).
+Foerster, Arnold (1810-1884), German highschool teacher and botanist at Aachen (Aix-la-Chapelle). 
+**Abbreviated name**: *A. Foerster*
 
 #### Herbarium and types
 

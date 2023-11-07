@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103861#page/131/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33266428) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bronn, Heinrich Georg {std. Bronn}|first entry]] for this author
 
 ### Author
 
-\* Bronn, Heinrich Georg (1800-1862), German palaeontologist, born in Ziegelhausen near Heidelberg, studied at the University of Heidelberg, Dr. phil. ib. 1822, Privatdocent ib. 1822, extraordinary professor 1833, regular professor of zoology and general biological sciences 1838, director of the Heidelberg Zoological Museum, member of Leopoldina 1832 ("Esper"), died 5 Jul 1862 at Heidelberg. (*Bronn*).
+\* Bronn, Heinrich Georg (1800-1862), German palaeontologist, born in Ziegelhausen near Heidelberg, studied at the University of Heidelberg, Dr. phil. ib. 1822, Privatdocent ib. 1822, extraordinary professor 1833, regular professor of zoology and general biological sciences 1838, director of the Heidelberg Zoological Museum, member of Leopoldina 1832 ("Esper"), died 5 Jul 1862 at Heidelberg. 
+**Abbreviated name**: *Bronn*
 
 #### Herbarium and types
 

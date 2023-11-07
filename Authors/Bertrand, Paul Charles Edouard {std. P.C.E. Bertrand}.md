@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/item/103859#page/141/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33265328) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bertrand, Paul Charles Edouard (1879-1944), French phytopalaeontologist, son of C.E. Bertrand, worked mainly at the Museum houiller in Lille as technician from 1906, Dr. phil. Lille 1909, lecturer and curator ib. 1910, professor of palaeontology ib. 1910. (*P.C.E. Bertrand*).
+Bertrand, Paul Charles Edouard (1879-1944), French phytopalaeontologist, son of C.E. Bertrand, worked mainly at the Museum houiller in Lille as technician from 1906, Dr. phil. Lille 1909, lecturer and curator ib. 1910, professor of palaeontology ib. 1910. 
+**Abbreviated name**: *P.C.E. Bertrand*
 
 #### Herbarium and types
 

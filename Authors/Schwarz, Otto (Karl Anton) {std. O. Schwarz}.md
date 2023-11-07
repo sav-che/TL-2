@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/104077#page/439/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33333564) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwarz, Otto \[Karl Anton\] (1900-1983), German (Thuringian) botanist; Dr. phil. Berlin 1929 (student of L. Diels); on active service 1918; studied in Jena 1919-1920; employed in an art and antique shop at Jena 1920-1926; studied in Berlin 1926-1928; visiting professor in Turkey 1931-1934; privately active 1934-1939; director of the Haussknecht Herbarium; from 1946 professor of botany at Jena. (*O. Schwarz*).
+Schwarz, Otto \[Karl Anton\] (1900-1983), German (Thuringian) botanist; Dr. phil. Berlin 1929 (student of L. Diels); on active service 1918; studied in Jena 1919-1920; employed in an art and antique shop at Jena 1920-1926; studied in Berlin 1926-1928; visiting professor in Turkey 1931-1934; privately active 1934-1939; director of the Haussknecht Herbarium; from 1946 professor of botany at Jena. 
+**Abbreviated name**: *O. Schwarz*
 
 #### Herbarium and types
 

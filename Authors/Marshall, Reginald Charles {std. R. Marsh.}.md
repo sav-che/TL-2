@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/104137#page/326/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33355397) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marshall, Reginald Charles (1893- ?), British forester; conservator of forests, Trinidad and Tobago (*R. Marsh.*).
+Marshall, Reginald Charles (1893- ?), British forester; conservator of forests, Trinidad and Tobago 
+**Abbreviated name**: *R. Marsh.*
 
 #### Herbarium and types
 

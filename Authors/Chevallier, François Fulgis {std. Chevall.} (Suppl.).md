@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103860#page/107/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265774) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chevallier, François Fulgis {std. Chevall.}|first entry]] for this author
 
 ### Author
 
-\* Chevallier, François Fulgis (1796-1840), French physicain and botanist, born at Paris, studied and received the Dr. méd. at the Faculté de Paris, after 1832 at the Faculté de Médecine at Strasbourg, died at Freiburg im Breisgau (*Chevall.*).
+\* Chevallier, François Fulgis (1796-1840), French physicain and botanist, born at Paris, studied and received the Dr. méd. at the Faculté de Paris, after 1832 at the Faculté de Médecine at Strasbourg, died at Freiburg im Breisgau 
+**Abbreviated name**: *Chevall.*
 
 #### Herbarium and types
 

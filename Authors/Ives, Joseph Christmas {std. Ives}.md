@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103253#page/418/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33068634) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ives, Joseph Christmas (1828-1868), American explorer; officer in the U.S. army corps of topographical engineers. (*Ives*).
+Ives, Joseph Christmas (1828-1868), American explorer; officer in the U.S. army corps of topographical engineers. 
+**Abbreviated name**: *Ives*
 
 #### Herbarium and types
 

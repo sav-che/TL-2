@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103253#page/286/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33068502) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holmberg, Otto Rudolf (1874-1930), Swedish botanist; curator at Lund from 1909. (*Holmb.*).
+Holmberg, Otto Rudolf (1874-1930), Swedish botanist; curator at Lund from 1909. 
+**Abbreviated name**: *Holmb.*
 
 #### Herbarium and types
 

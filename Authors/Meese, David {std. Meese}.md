@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/104137#page/415/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33355486) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meese, David (1723-1770), Dutch gardener at Franeker. (*Meese*).
+Meese, David (1723-1770), Dutch gardener at Franeker. 
+**Abbreviated name**: *Meese*
 
 #### Herbarium and types
 

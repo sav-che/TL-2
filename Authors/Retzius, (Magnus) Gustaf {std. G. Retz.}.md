@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/103624#page/752/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33190209) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Retzius, \[Magnus\] Gustaf (1842-1919), Swedish physician and zoologist; Dr. med. Stockholm 1871; from 1871 at the Karolinska inst.; professor of histology (later: anatomy) 1877-1890; son of A.A. Retzius. (*G. Retz.*).
+Retzius, \[Magnus\] Gustaf (1842-1919), Swedish physician and zoologist; Dr. med. Stockholm 1871; from 1871 at the Karolinska inst.; professor of histology (later: anatomy) 1877-1890; son of A.A. Retzius. 
+**Abbreviated name**: *G. Retz.*
 
 #### Herbarium and types
 

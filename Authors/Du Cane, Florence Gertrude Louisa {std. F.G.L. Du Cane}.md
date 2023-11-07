@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103835#page/135/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33260113) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Du Cane, Florence Gertrude Louisa (fl. 1908-1911). No description provided. (*F.G.L. Du Cane*).
+Du Cane, Florence Gertrude Louisa (fl. 1908-1911). No description provided. 
+**Abbreviated name**: *F.G.L. Du Cane*
 
 #### Herbarium and types
 

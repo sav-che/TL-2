@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103683#page/27/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33212077) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stoliczka, Ferdinand (1838-1874), Moravian palaeontologist, geologist and zoologist; with the Geologische Reichsanstalt Wien 1861-1862; in the Geological Survey of India 1862-1874. (*Stoliczka*).
+Stoliczka, Ferdinand (1838-1874), Moravian palaeontologist, geologist and zoologist; with the Geologische Reichsanstalt Wien 1861-1862; in the Geological Survey of India 1862-1874. 
+**Abbreviated name**: *Stoliczka*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103859#page/159/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33265346) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beust, Fritz von (1856-1908), Swiss palaeobotanist and teacher at secondary schools, educated at the Zürcher Gymnasium, studied at the Zürich Polytechnic University (mainly botany), id. for his teacher examination 1877-1879, Dr. phil. University of Zürich Feb 1884, studied and worked in Paris and England, sometime teacher in England. (*Beust*).
+Beust, Fritz von (1856-1908), Swiss palaeobotanist and teacher at secondary schools, educated at the Zürcher Gymnasium, studied at the Zürich Polytechnic University (mainly botany), id. for his teacher examination 1877-1879, Dr. phil. University of Zürich Feb 1884, studied and worked in Paris and England, sometime teacher in England. 
+**Abbreviated name**: *Beust*
 
 #### Herbarium and types
 

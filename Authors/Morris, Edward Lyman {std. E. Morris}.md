@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/104137#page/610/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morris, Edward Lyman (1870-1913), American botanist; M. A.Amherst 1895; instructor in botany at Amherst, Mass. 1893-1895; at Western High School, Washington, D. C. 1895-1896; head of the dept. of biology in the Washington high schools from 1896-1907; curator of natural sciences Brooklyn Institute of Arts 1907-1913; expert on Plantaginaceae. (*E. Morris*).
+Morris, Edward Lyman (1870-1913), American botanist; M. A.Amherst 1895; instructor in botany at Amherst, Mass. 1893-1895; at Western High School, Washington, D. C. 1895-1896; head of the dept. of biology in the Washington high schools from 1896-1907; curator of natural sciences Brooklyn Institute of Arts 1907-1913; expert on Plantaginaceae. 
+**Abbreviated name**: *E. Morris*
 
 #### Herbarium and types
 

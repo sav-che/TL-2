@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/103250#page/519/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33066799) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wortmann, Julius (1856-1925), German (Westfalen) botanist; studied natural sciences at the University of Berlin 1875-1877 (especially with L. Kny), id. Würzburg 1877-1879 with J. Sachs; Dr. phil. Würzburg 1879; assistant with A. de Bary in Strassburg 1880-1884; habil. Strassburg 1883; lecturer ib. 1883-1891; head of the plant physicological experiment station at Geisenheim a. Rh. 1891-1895; from 1895-1925 with the title professor, ultimately as director of the station. (*Wortmann*).
+Wortmann, Julius (1856-1925), German (Westfalen) botanist; studied natural sciences at the University of Berlin 1875-1877 (especially with L. Kny), id. Würzburg 1877-1879 with J. Sachs; Dr. phil. Würzburg 1879; assistant with A. de Bary in Strassburg 1880-1884; habil. Strassburg 1883; lecturer ib. 1883-1891; head of the plant physicological experiment station at Geisenheim a. Rh. 1891-1895; from 1895-1925 with the title professor, ultimately as director of the station. 
+**Abbreviated name**: *Wortmann*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/104137#page/223/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33355294) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mabille, \[Jules\] Paul (1835-1923), French botanist and entomologist; high school teacher at Bastia, Corsica (*Mabille*).
+Mabille, \[Jules\] Paul (1835-1923), French botanist and entomologist; high school teacher at Bastia, Corsica 
+**Abbreviated name**: *Mabille*
 
 #### Herbarium and types
 

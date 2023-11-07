@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103859#page/53/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33265240) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bégué, Louis Henri (1906-x), French botanist, "Inspecteur des Eaux et Fôrets des Colonies" in West Africa (*Bégué*).
+Bégué, Louis Henri (1906-x), French botanist, "Inspecteur des Eaux et Fôrets des Colonies" in West Africa 
+**Abbreviated name**: *Bégué*
 
 #### Herbarium and types
 

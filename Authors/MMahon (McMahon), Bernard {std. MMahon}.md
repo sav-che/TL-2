@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/104137#page/245/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-M'Mahon \[McMahon\], Bernard (c. 1775-1816), Irish-born American horticulturist and seedsman at Philadelphia; author of the first American gardener's guide. (*M'Mahon*).
+M'Mahon \[McMahon\], Bernard (c. 1775-1816), Irish-born American horticulturist and seedsman at Philadelphia; author of the first American gardener's guide. 
+**Abbreviated name**: *M'Mahon*
 
 #### Herbarium and types
 

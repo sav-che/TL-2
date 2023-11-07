@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103253#page/76/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hara, Hiroshi (1911-x), Japanese botanist at the University of Tokyo, explorer of the Himalaya and specialist on the Japanese phanerogamic flora. (*H. Hara*).
+Hara, Hiroshi (1911-x), Japanese botanist at the University of Tokyo, explorer of the Himalaya and specialist on the Japanese phanerogamic flora. 
+**Abbreviated name**: *H. Hara*
 
 #### Herbarium and types
 

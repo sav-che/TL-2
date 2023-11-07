@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/item/103832#page/278/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33258744) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Goeppert (Göppert), (Johann) Heinrich Robert {std. Goepp.}|first entry]] for this author
 
 ### Author
 
-\* Goeppert \[Göppert\], \[Johann\] Heinrich \[Robert\] (1800-1884), German physician, paleobotanist and morphologist, born 25 Jul 1800 in Sprottau (Lower Silesia), studied medicine in Breslau and Berlin, graduated 11 Jan 1825, tutor to 1827, extraord. prof. 1831, full prof. 1839, dir. of the botanic garden in Breslau 1852, founded first German botanical museum in 1854, appointed Privy Medical Councilor (Geheimer Medicinal-Rath) by the King of Prussia (Frederick William IV) in 1855, F.L.S. 1855, Murchison Medal (Geological Society London 1883), died 18 Mai 1884 in Breslau (Vratislav) (succeeded by A. Engler). (*Goepp.*).
+\* Goeppert \[Göppert\], \[Johann\] Heinrich \[Robert\] (1800-1884), German physician, paleobotanist and morphologist, born 25 Jul 1800 in Sprottau (Lower Silesia), studied medicine in Breslau and Berlin, graduated 11 Jan 1825, tutor to 1827, extraord. prof. 1831, full prof. 1839, dir. of the botanic garden in Breslau 1852, founded first German botanical museum in 1854, appointed Privy Medical Councilor (Geheimer Medicinal-Rath) by the King of Prussia (Frederick William IV) in 1855, F.L.S. 1855, Murchison Medal (Geological Society London 1883), died 18 Mai 1884 in Breslau (Vratislav) (succeeded by A. Engler). 
+**Abbreviated name**: *Goepp.*
 
 #### Note
 

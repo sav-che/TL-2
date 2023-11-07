@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/item/103860#page/488/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33266155) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crosby, Caroline Macomber (fl. 1900-1903), American algologist who collected in Hawaii, summer 1900 with Josephine E. Tilden. (*C.M. Crosby*).
+Crosby, Caroline Macomber (fl. 1900-1903), American algologist who collected in Hawaii, summer 1900 with Josephine E. Tilden. 
+**Abbreviated name**: *C.M. Crosby*
 
 #### Herbarium and types
 

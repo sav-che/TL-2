@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103833#page/188/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33259222) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delevoy, Gaston C.A. (1884-?), Belgian botanist, "inspecteur principal des eaux et forêts", head of forestry experiments in charge of mission of the special committee for Katanga, joint member of the "Institut Royal Colonial Belge", laureate of the Belgian royal academy. (*Delevoy*).
+Delevoy, Gaston C.A. (1884-?), Belgian botanist, "inspecteur principal des eaux et forêts", head of forestry experiments in charge of mission of the special committee for Katanga, joint member of the "Institut Royal Colonial Belge", laureate of the Belgian royal academy. 
+**Abbreviated name**: *Delevoy*
 
 #### Herbarium and types
 

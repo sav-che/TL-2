@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/104137#page/172/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33355243) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lorek, Christian Gottlieb (1788-1871), German botanist and high school teacher at Königsberg; Dr. phil. Königsberg 1812; taught at the Burgschule 1811-1850, retired because of increasing loss of eye-sight. (*Lorek*).
+Lorek, Christian Gottlieb (1788-1871), German botanist and high school teacher at Königsberg; Dr. phil. Königsberg 1812; taught at the Burgschule 1811-1850, retired because of increasing loss of eye-sight. 
+**Abbreviated name**: *Lorek*
 
 #### Herbarium and types
 

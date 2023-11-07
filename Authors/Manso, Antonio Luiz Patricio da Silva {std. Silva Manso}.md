@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/104137#page/299/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33355370) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Manso, Antonio Luiz Patricio da Silva, (1788-1848), Brazilian botanist, politician and physician; from 1823 practicing medicine in Cuiabá, Matto Grosso; representative of Matto Grosso in the Brazilian parliament 1834-1837; later living in his native town Campinas. (*==Name in the standard form is not specified==.*).
+Manso, Antonio Luiz Patricio da Silva, (1788-1848), Brazilian botanist, politician and physician; from 1823 practicing medicine in Cuiabá, Matto Grosso; representative of Matto Grosso in the Brazilian parliament 1834-1837; later living in his native town Campinas. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Herbarium and types
 

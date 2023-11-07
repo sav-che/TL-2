@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/103624#page/329/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33189786) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pohl, Johann \[Baptist\] Emanuel (1782-1834), Bohemian-born Austrian botanist and traveller; Dr. med. Praha 1808; army physician 1809-1811; at the garden of J.M. de Canal (Freiherr von Hochberg) 1811-1817; travelled in Brazil with Spix, Martius et al. 1817-1821; afterwards curator at the Vienna Natural History Museum and the Vienna Brasilian Museum. (*Pohl*).
+Pohl, Johann \[Baptist\] Emanuel (1782-1834), Bohemian-born Austrian botanist and traveller; Dr. med. Praha 1808; army physician 1809-1811; at the garden of J.M. de Canal (Freiherr von Hochberg) 1811-1817; travelled in Brazil with Spix, Martius et al. 1817-1821; afterwards curator at the Vienna Natural History Museum and the Vienna Brasilian Museum. 
+**Abbreviated name**: *Pohl*
 
 #### Herbarium and types
 

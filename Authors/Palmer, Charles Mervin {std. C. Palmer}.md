@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103624#page/42/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33189461) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmer, Charles Mervin (1900-x), American botanist; MS Pennsylvania State Coll. 1925; subsequently assistant, instructor and professor of botany at Butler University, Indianapolis. (*C. Palmer*).
+Palmer, Charles Mervin (1900-x), American botanist; MS Pennsylvania State Coll. 1925; subsequently assistant, instructor and professor of botany at Butler University, Indianapolis. 
+**Abbreviated name**: *C. Palmer*
 
 #### Herbarium and types
 

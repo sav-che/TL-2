@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/item/103253#page/751/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lahm, Johann Gottlieb Franz-Xaver (1811-1888), German priest (ordin. 1834, Bonn), lichenologist, and school superintendent (1853-1866 "wirklicher Regierungsschulrat" 1866-1888: "Domkapitular," member of dom chapter) at Münster, Westfalen. (*J. Lahm*).
+Lahm, Johann Gottlieb Franz-Xaver (1811-1888), German priest (ordin. 1834, Bonn), lichenologist, and school superintendent (1853-1866 "wirklicher Regierungsschulrat" 1866-1888: "Domkapitular," member of dom chapter) at Münster, Westfalen. 
+**Abbreviated name**: *J. Lahm*
 
 #### Herbarium and types
 

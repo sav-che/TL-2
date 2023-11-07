@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/item/103860#page/534/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33266201) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cusick, William Conklin (1842-1922), American botanist, born in Adams County, Illinois, emigrated to Oregon while a youth, had "a modest 'collegiate' education" and worked in the Wallowa Mountains, started botanical collecting in the area of the Wallowa and Blue Mountains from 1865, travelled widely in Oregon and Idaho. (*W.C. Cusick*).
+Cusick, William Conklin (1842-1922), American botanist, born in Adams County, Illinois, emigrated to Oregon while a youth, had "a modest 'collegiate' education" and worked in the Wallowa Mountains, started botanical collecting in the area of the Wallowa and Blue Mountains from 1865, travelled widely in Oregon and Idaho. 
+**Abbreviated name**: *W.C. Cusick*
 
 #### Herbarium and types
 

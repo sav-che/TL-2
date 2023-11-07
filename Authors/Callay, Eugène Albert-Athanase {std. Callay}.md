@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103414#page/474/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Callay, Eugène-Albert-Athanase {std. Callay} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Callay, Eugène Albert-Athanase (1822-1896), French pharmacist and botanist at Le Chesne. (*Callay*).
+Callay, Eugène Albert-Athanase (1822-1896), French pharmacist and botanist at Le Chesne. 
+**Abbreviated name**: *Callay*
 
 #### Herbarium and types
 

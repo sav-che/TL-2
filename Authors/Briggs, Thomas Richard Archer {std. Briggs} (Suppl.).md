@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103861#page/86/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33266383) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Briggs, Thomas Richard Archer {std. Briggs}|first entry]] for this author
 
 ### Author
 
-\* Briggs, Thomas Richard Archer (1838-1891), British botanist, born at Fursdon (nr. Plymouth), from 1844/1845 his family moved to Plymouth where he lived for the rest of his life, of independent means, dedicated himself to the botany of the area of Plymouth, ultimately moving again to Fursdon. (*Briggs*).
+\* Briggs, Thomas Richard Archer (1838-1891), British botanist, born at Fursdon (nr. Plymouth), from 1844/1845 his family moved to Plymouth where he lived for the rest of his life, of independent means, dedicated himself to the botany of the area of Plymouth, ultimately moving again to Fursdon. 
+**Abbreviated name**: *Briggs*
 
 #### Herbarium and types
 

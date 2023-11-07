@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/104077#page/129/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33333254) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schagerström, Johan August (1818-1867), Swedish botanist; studied at Uppsala University; Dr. phil. ib. 1845;lecturer in practical economy 1846, from 1853 university clerk in Uppsala. (*Schagerström*).
+Schagerström, Johan August (1818-1867), Swedish botanist; studied at Uppsala University; Dr. phil. ib. 1845;lecturer in practical economy 1846, from 1853 university clerk in Uppsala. 
+**Abbreviated name**: *Schagerström*
 
 #### Herbarium and types
 

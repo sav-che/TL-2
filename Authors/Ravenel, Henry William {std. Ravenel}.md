@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/103624#page/611/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33190068) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ravenel, Henry William (1814-1887), American botanist, graduated from South Carolina College 1832; planter at St. John's, S.C. 1832-1853; from 1853-1887 at Aiken, S.C., LL.D. Univ. N. Carolina 1886. (*Ravenel*).
+Ravenel, Henry William (1814-1887), American botanist, graduated from South Carolina College 1832; planter at St. John's, S.C. 1832-1853; from 1853-1887 at Aiken, S.C., LL.D. Univ. N. Carolina 1886. 
+**Abbreviated name**: *Ravenel*
 
 #### Herbarium and types
 

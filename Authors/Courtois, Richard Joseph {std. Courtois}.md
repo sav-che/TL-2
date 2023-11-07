@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103860#page/435/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266102) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Courtois, Richard Joseph (1806-1835), Belgian botanist, born at Liège, Dr. phil. Gent 1823 \[sic\], botanist at Liège in Charge of the botanical garden of the University of Liège. (*Courtois*).
+Courtois, Richard Joseph (1806-1835), Belgian botanist, born at Liège, Dr. phil. Gent 1823 \[sic\], botanist at Liège in Charge of the botanical garden of the University of Liège. 
+**Abbreviated name**: *Courtois*
 
 #### Herbarium and types
 

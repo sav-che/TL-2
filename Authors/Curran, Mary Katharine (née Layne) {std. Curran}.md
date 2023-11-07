@@ -1,10 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103860#page/521/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Curran, Mary Katharine (née Layne) (1844-1920), M.K. Layne married Hugh Curran who died in 1874, she later married T.S. Brandegee and published under the name M.K. Brandegee. For further information see under this name in TL-2/1: 302-303 and suppl. 3: 9-10. (*Curran*).
-
+Curran, Mary Katharine (née Layne) (1844-1920), M.K. Layne married Hugh Curran who died in 1874, she later married T.S. Brandegee and published under the name M.K. Brandegee. For further information see under this name in TL-2/1: 302-303 and suppl. 3: 9-10. 
+**Abbreviated name**: *Curran*
 **Alternate abbreviation:** (*K. Brandegee*)
 
 #### Bibliography and biography

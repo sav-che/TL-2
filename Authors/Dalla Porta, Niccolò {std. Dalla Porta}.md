@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/103833#page/39/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33259073) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalla Porta, Niccolò (fl. 1821), Greek botanist and physician on Cephalonia and Corfu. (*Dalla Porta*).
+Dalla Porta, Niccolò (fl. 1821), Greek botanist and physician on Cephalonia and Corfu. 
+**Abbreviated name**: *Dalla Porta*
 
 #### Herbarium and types
 

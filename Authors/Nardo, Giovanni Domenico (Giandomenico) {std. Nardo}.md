@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/104137#page/706/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nardo, Giovanni Domenico (Giandomenico) (1802-1877), Italian botanist; Dr. med. Padua; practicing physician and director of the orphanage at Venetia and director of the cholera hospital at S. Alviso. (*Nardo*).
+Nardo, Giovanni Domenico (Giandomenico) (1802-1877), Italian botanist; Dr. med. Padua; practicing physician and director of the orphanage at Venetia and director of the cholera hospital at S. Alviso. 
+**Abbreviated name**: *Nardo*
 
 #### Herbarium and types
 

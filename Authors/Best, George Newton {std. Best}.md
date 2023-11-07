@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103859#page/155/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33265342) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Best, George Newton (1846-1926), American physician and bryologist, New Jersey born, school teacher 1867-1870 in the region of Pittstown, N.J., teacher in natural sciences and mathematics in Rugby Academy 1872-1873, graduated from the Medical Dept. University of Pennsylvania 1875, practicing physician at Rosemont, New Jersey 1875-1926. (*Best*).
+Best, George Newton (1846-1926), American physician and bryologist, New Jersey born, school teacher 1867-1870 in the region of Pittstown, N.J., teacher in natural sciences and mathematics in Rugby Academy 1872-1873, graduated from the Medical Dept. University of Pennsylvania 1875, practicing physician at Rosemont, New Jersey 1875-1926. 
+**Abbreviated name**: *Best*
 
 #### Herbarium and types
 

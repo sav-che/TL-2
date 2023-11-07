@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/item/104137#page/746/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neuberger, Joseph (1854-1924), German botanist; studied at Freiburg im Breisgau 1874-1878; high school teacher at Heidelberg 1878-1881 and 1884-1890; id. at Donaueschingen 1881-1884; id. at Freiburg i.Br. 1890-1919. (*Neuberger*).
+Neuberger, Joseph (1854-1924), German botanist; studied at Freiburg im Breisgau 1874-1878; high school teacher at Heidelberg 1878-1881 and 1884-1890; id. at Donaueschingen 1881-1884; id. at Freiburg i.Br. 1890-1919. 
+**Abbreviated name**: *Neuberger*
 
 #### Herbarium and types
 

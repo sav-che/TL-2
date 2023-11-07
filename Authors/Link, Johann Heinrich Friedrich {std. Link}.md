@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/104137#page/81/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Link, Johann Heinrich Friedrich (1767-1851), German nature philosopher and botanist; Dr. med. Göttingen 1789; at Rostock 1792; director botanical garden Breslau 1811-1815; professor of botany at Berlin 1815-1851; successor to Willdenow. (*Link*).
+Link, Johann Heinrich Friedrich (1767-1851), German nature philosopher and botanist; Dr. med. Göttingen 1789; at Rostock 1792; director botanical garden Breslau 1811-1815; professor of botany at Berlin 1815-1851; successor to Willdenow. 
+**Abbreviated name**: *Link*
 
 #### Herbarium and types
 

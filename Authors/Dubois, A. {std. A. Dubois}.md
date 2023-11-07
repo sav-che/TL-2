@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103835#page/131/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33260109) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dubois, A. (fl. 1914), French botanist of the Faculté des Sciences de Paris, Dr. phil. Paris 1914. (*A. Dubois*).
+Dubois, A. (fl. 1914), French botanist of the Faculté des Sciences de Paris, Dr. phil. Paris 1914. 
+**Abbreviated name**: *A. Dubois*
 
 #### Herbarium and types
 

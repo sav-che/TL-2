@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/item/104077#page/613/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33333738) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Silva Tarouca, Ernst Emanuel, Graf (1860-1936), Austrian/Moravian botanist, agriculturist and dendrologist; developed an extensive arboretum on his estate at Pruhonice nr Praha. (*Silva-Tar.*).
+Silva Tarouca, Ernst Emanuel, Graf (1860-1936), Austrian/Moravian botanist, agriculturist and dendrologist; developed an extensive arboretum on his estate at Pruhonice nr Praha. 
+**Abbreviated name**: *Silva-Tar.*
 
 #### Herbarium and types
 

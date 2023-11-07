@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/item/103414#page/1052/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33121135) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Griesselich, Ludwig (1804-1848), German military physician at Karlsruhe (Baden). (*Griess.*).
+Griesselich, Ludwig (1804-1848), German military physician at Karlsruhe (Baden). 
+**Abbreviated name**: *Griess.*
 
 #### Herbarium and types
 

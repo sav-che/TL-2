@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103860#page/56/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33265723) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chamberlain, Edward Blanchard (1878-1925), American botanist, born at Bristol (Maine) 24 Jul 1878, AB Bowdoin 1899, AM Inst. botany Brown University 1899-1901, at Cumberland (Maine) 1901-1904, 1904-1906 at Washington D.C., from 1906-1925 in New York, in the Sachs Collegiate Institute (later Franklin School for Boys), died 2 Feb 1925 in New York City. (*E.B. Chamb.*).
+Chamberlain, Edward Blanchard (1878-1925), American botanist, born at Bristol (Maine) 24 Jul 1878, AB Bowdoin 1899, AM Inst. botany Brown University 1899-1901, at Cumberland (Maine) 1901-1904, 1904-1906 at Washington D.C., from 1906-1925 in New York, in the Sachs Collegiate Institute (later Franklin School for Boys), died 2 Feb 1925 in New York City. 
+**Abbreviated name**: *E.B. Chamb.*
 
 #### Herbarium and types
 

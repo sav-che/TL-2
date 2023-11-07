@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103859#page/241/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265428) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blumer, Samuel (fl. 1920-1967), Swiss mycologist and phytopathologist at the Botanical Institute and Garden of the University of Bern, ca. 1939 private lecturer. (*S. Blumer*).
+Blumer, Samuel (fl. 1920-1967), Swiss mycologist and phytopathologist at the Botanical Institute and Garden of the University of Bern, ca. 1939 private lecturer. 
+**Abbreviated name**: *S. Blumer*
 
 #### Herbarium and types
 

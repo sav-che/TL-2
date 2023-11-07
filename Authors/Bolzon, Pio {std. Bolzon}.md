@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103859#page/310/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33265497) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bolzon, Pio (1867-1940), Italian (Treviso) botanist, assistant at the Botanical Institute in Bologna late 1888 or early 1889, second assistant at the Botanical Garden of the University of Padua 1897, professor of natural sciences at the R. Scuola normale sup. femminile Rovigo Dec 1898/Jan 1899, professor of natural history at Carrara from 1908. (*Bolzon*).
+Bolzon, Pio (1867-1940), Italian (Treviso) botanist, assistant at the Botanical Institute in Bologna late 1888 or early 1889, second assistant at the Botanical Garden of the University of Padua 1897, professor of natural sciences at the R. Scuola normale sup. femminile Rovigo Dec 1898/Jan 1899, professor of natural history at Carrara from 1908. 
+**Abbreviated name**: *Bolzon*
 
 #### Herbarium and types
 

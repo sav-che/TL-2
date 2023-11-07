@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103835#page/99/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33260077) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drapiez, Pierre Auguste Joseph (1778-1856), French-Belgian chemist and botanist, born 28 Aug 1778 at Lille (France), died 28 Dec 1856 Bruxelles. (*Drapiez*).
+Drapiez, Pierre Auguste Joseph (1778-1856), French-Belgian chemist and botanist, born 28 Aug 1778 at Lille (France), died 28 Dec 1856 Bruxelles. 
+**Abbreviated name**: *Drapiez*
 
 #### Herbarium and types
 

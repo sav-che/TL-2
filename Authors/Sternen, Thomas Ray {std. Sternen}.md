@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/item/104077#page/896/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33334021) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sternen, Thomas Ray (1892-1968), American botanist; AB Huntington Coll. (Ind.) 1914, MA Univ. Okla. 1922; instructor in biology, Central High School, Oklahoma City 1915-1935, head science department 1935. (*Sternen*).
+Sternen, Thomas Ray (1892-1968), American botanist; AB Huntington Coll. (Ind.) 1914, MA Univ. Okla. 1922; instructor in biology, Central High School, Oklahoma City 1915-1935, head science department 1935. 
+**Abbreviated name**: *Sternen*
 
 #### Herbarium and types
 

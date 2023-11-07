@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103861#page/159/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33266456) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruchmann, Helmut (1847-1920), German (Pommeranian) botanist, studied at the University of Jena, student of Strasburger, at Tharand 1878 delivering a course of lectures in forestry, teacher of mathematics and physics at Gotha 1879 until circa 1905, retired to the Riviera and visited Sicily, Tunisia and Algeria, ultimately in Gotha. (*Bruchm.*).
+Bruchmann, Helmut (1847-1920), German (Pommeranian) botanist, studied at the University of Jena, student of Strasburger, at Tharand 1878 delivering a course of lectures in forestry, teacher of mathematics and physics at Gotha 1879 until circa 1905, retired to the Riviera and visited Sicily, Tunisia and Algeria, ultimately in Gotha. 
+**Abbreviated name**: *Bruchm.*
 
 #### Herbarium and types
 

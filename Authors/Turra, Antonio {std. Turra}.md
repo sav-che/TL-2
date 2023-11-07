@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/item/103683#page/561/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33212593) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turra, Antonio (1730-1796), Italian botanist, mineralogist and practicing physician at Vicenza. (*Turra*).
+Turra, Antonio (1730-1796), Italian botanist, mineralogist and practicing physician at Vicenza. 
+**Abbreviated name**: *Turra*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/item/104137#page/667/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Philipp Jakob (Muller, Philippe Jacques) (1832-1889), Alsatian botanist (batologist) at Weissenburg am Rhein (Wissembourg); from 1872 with French nationality at Nyon (Waadt). (*P. J. Müll.*).
+Müller, Philipp Jakob (Muller, Philippe Jacques) (1832-1889), Alsatian botanist (batologist) at Weissenburg am Rhein (Wissembourg); from 1872 with French nationality at Nyon (Waadt). 
+**Abbreviated name**: *P. J. Müll.*
 
 #### Herbarium and types
 

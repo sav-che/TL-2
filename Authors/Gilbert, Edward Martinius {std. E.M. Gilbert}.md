@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103832#page/219/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33258685) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gilbert, Edward Martinius (1875-1956), American mycologist, born 20 Sep 1875 in Blair, Wisconsin, graduated 1901 Normal School, Stevens Point, Wisconsin, taught high school in n. Wisconsin, Ph.B. 1907 and Ph.D. 1914, Univ. of Wisconsin at Madison, Asst. Prof. 1913, Prof. 1922 and Chairman 1925, all Botany Dept., Univ. of Wisconsin at Madison, retired 1946, died 23 Apr 1956 in San Marcos, Texas. (*E.M. Gilbert*).
+Gilbert, Edward Martinius (1875-1956), American mycologist, born 20 Sep 1875 in Blair, Wisconsin, graduated 1901 Normal School, Stevens Point, Wisconsin, taught high school in n. Wisconsin, Ph.B. 1907 and Ph.D. 1914, Univ. of Wisconsin at Madison, Asst. Prof. 1913, Prof. 1922 and Chairman 1925, all Botany Dept., Univ. of Wisconsin at Madison, retired 1946, died 23 Apr 1956 in San Marcos, Texas. 
+**Abbreviated name**: *E.M. Gilbert*
 
 #### Herbarium and types
 

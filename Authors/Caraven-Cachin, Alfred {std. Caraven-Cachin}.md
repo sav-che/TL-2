@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103861#page/410/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33266707) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caraven-Cachin, Alfred (1839-1903), French naturalist and archaeologist, born at Castres, died at Salvagnac, Tarn. (*Caraven-Cachin*).
+Caraven-Cachin, Alfred (1839-1903), French naturalist and archaeologist, born at Castres, died at Salvagnac, Tarn. 
+**Abbreviated name**: *Caraven-Cachin*
 
 #### Herbarium and types
 

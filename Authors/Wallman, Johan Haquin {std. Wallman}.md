@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103250#page/102/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33066382) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wallman, Johan Haquin (1792-1853), Swedish botanist, archaeologist and high school teacher; Dr. phil. Uppsala 1815; teacher in natural history at the gymnasium of Linköping 1822, lecturer in history ib. 1829. (*Wallman*).
+Wallman, Johan Haquin (1792-1853), Swedish botanist, archaeologist and high school teacher; Dr. phil. Uppsala 1815; teacher in natural history at the gymnasium of Linköping 1822, lecturer in history ib. 1829. 
+**Abbreviated name**: *Wallman*
 
 #### Herbarium and types
 

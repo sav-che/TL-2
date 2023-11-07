@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103860#page/192/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33265859) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clark, William Smith (1826-1886), American botanist, born 31 Jul 1826, Ashfield, Massachusetts, later President of the Massachusetts agricultural College 1867-1879, died 9 Mar 1886, Amherst, Massachusetts. (*W.S. Clark*).
+Clark, William Smith (1826-1886), American botanist, born 31 Jul 1826, Ashfield, Massachusetts, later President of the Massachusetts agricultural College 1867-1879, died 9 Mar 1886, Amherst, Massachusetts. 
+**Abbreviated name**: *W.S. Clark*
 
 #### Herbarium and types
 

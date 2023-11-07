@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103414#page/101/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33120184) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ångström, Johan {std. Ångstr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ångström, Johan (1813-1879), Swedish bryologist and physician, educated at Uppsala, practising at Lycksele (1853) and Örnsköldsvik.(*Ångstr.*).
+Ångström, Johan (1813-1879), Swedish bryologist and physician, educated at Uppsala, practising at Lycksele (1853) and Örnsköldsvik.
+**Abbreviated name**: *Ångstr.*
 
 #### Herbarium and types
 

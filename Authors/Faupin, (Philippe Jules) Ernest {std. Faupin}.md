@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/103834#page/89/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33259571) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Faupin, \[Philippe Jules\] Ernest (1850-1930), French mycologist, born 11 Oct 1850 in Cernay-en-Dormois (Marne), science teacher, École Normale, Blois (Loir-et-Cher) 1873-1906, one of the founders in 1881 of the Société d'Histoire naturelle de Loir-et-Cher, of which society he was gen. secretary until 1908, died 17 Mar 1930 in Blois. (*Faupin*).
+Faupin, \[Philippe Jules\] Ernest (1850-1930), French mycologist, born 11 Oct 1850 in Cernay-en-Dormois (Marne), science teacher, École Normale, Blois (Loir-et-Cher) 1873-1906, one of the founders in 1881 of the Société d'Histoire naturelle de Loir-et-Cher, of which society he was gen. secretary until 1908, died 17 Mar 1930 in Blois. 
+**Abbreviated name**: *Faupin*
 
 #### Herbarium and types
 

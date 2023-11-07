@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103624#page/86/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parmentier, Antoine Augustin (1737-1813), French economic botanist and military pharmacist, especially active in promoting the potato and, later, the sugar beet in France; "apothicaire aide-major" at the Invalides 1766; member of the Conseil de Santé 1782-1813; first army pharmacist 1800; inspector general of the health service 1805-1813. (*A. Parm.*).
+Parmentier, Antoine Augustin (1737-1813), French economic botanist and military pharmacist, especially active in promoting the potato and, later, the sugar beet in France; "apothicaire aide-major" at the Invalides 1766; member of the Conseil de Santé 1782-1813; first army pharmacist 1800; inspector general of the health service 1805-1813. 
+**Abbreviated name**: *A. Parm.*
 
 #### Herbarium and types
 

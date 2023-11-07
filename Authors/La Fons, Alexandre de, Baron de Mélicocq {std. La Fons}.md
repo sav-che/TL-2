@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/103253#page/745/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-La Fons, Alexandre de, Baron de Mélicocq (1802-1867), French botanist at Noyon. (*La Fons*).
+La Fons, Alexandre de, Baron de Mélicocq (1802-1867), French botanist at Noyon. 
+**Abbreviated name**: *La Fons*
 
 #### Herbarium and types
 

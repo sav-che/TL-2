@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/item/104077#page/640/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33333765) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skofitz, Alexander (1822-1892), Galicia-born Austrian botanist of Carniolan origin; grew up in Laibach (Ljubljana), studied pharmacy in pharmacies at Laibach, Pottendorf and Znaim (Moravia) and at the University of Vienna 1845-1847; collected plants in the Austrian empire; founded and edited the "Oesterreichisches botanisches Wochenblatt" (later Zeitschrift) 1851-1889; Dr. phil. Göttingen 1854. (*Skofitz*).
+Skofitz, Alexander (1822-1892), Galicia-born Austrian botanist of Carniolan origin; grew up in Laibach (Ljubljana), studied pharmacy in pharmacies at Laibach, Pottendorf and Znaim (Moravia) and at the University of Vienna 1845-1847; collected plants in the Austrian empire; founded and edited the "Oesterreichisches botanisches Wochenblatt" (later Zeitschrift) 1851-1889; Dr. phil. Göttingen 1854. 
+**Abbreviated name**: *Skofitz*
 
 #### Herbarium and types
 

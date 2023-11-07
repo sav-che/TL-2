@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/item/103683#page/503/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33212535) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trinius, Carl Bernhard (1778-1844), German (Saxonian) botanist (agrostologist), physician and poet; studied at Jena, Halle and Leipzig; Dr. chirurg. Göttingen 1802; state examination medicine Berlin 1803, id. Dorpat 1804, practicing physician in Gawesen and Hasenpot in Courland (Latvia) 1804-1808; private physician to Antoinette von Württemberg 1808-1824, travelling widely with her in Russia and Germany, residing in St. Petersburg 1811-1815, in Witebsk 1816-1822, again in St. Petersburg from 1822; member of the Academy of Sciences ib. 1823, private court physician 1824 as well as physician to the Würtemberg family 1824-1844; tutor to the later Czar Alexander I; first curator of the St. Petersburg botanical collections. (*Trin.*).
+Trinius, Carl Bernhard (1778-1844), German (Saxonian) botanist (agrostologist), physician and poet; studied at Jena, Halle and Leipzig; Dr. chirurg. Göttingen 1802; state examination medicine Berlin 1803, id. Dorpat 1804, practicing physician in Gawesen and Hasenpot in Courland (Latvia) 1804-1808; private physician to Antoinette von Württemberg 1808-1824, travelling widely with her in Russia and Germany, residing in St. Petersburg 1811-1815, in Witebsk 1816-1822, again in St. Petersburg from 1822; member of the Academy of Sciences ib. 1823, private court physician 1824 as well as physician to the Würtemberg family 1824-1844; tutor to the later Czar Alexander I; first curator of the St. Petersburg botanical collections. 
+**Abbreviated name**: *Trin.*
 
 #### Herbarium and types
 

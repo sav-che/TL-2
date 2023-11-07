@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/item/103683#page/723/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vermeiden, Pieter (1899-1981), Dutch orchidologist and school teacher; studied biology at the University of Amsterdam concurrent with his teaching 1930-1935; high school teacher at Doetinchem and Amsterdam; Dr. phil. Univ. Amsterdam 1947; from 1947 curator of the herbarium at the Hugo de Vries Laboratory, Amsterdam; lecturer (privaat docent) for didactics and methodology Univ. Amsterdam 1953, in Indonesia 1956; after his retirement in 1969 continuing his work on orchids. (*Vermeulen*).
+Vermeiden, Pieter (1899-1981), Dutch orchidologist and school teacher; studied biology at the University of Amsterdam concurrent with his teaching 1930-1935; high school teacher at Doetinchem and Amsterdam; Dr. phil. Univ. Amsterdam 1947; from 1947 curator of the herbarium at the Hugo de Vries Laboratory, Amsterdam; lecturer (privaat docent) for didactics and methodology Univ. Amsterdam 1953, in Indonesia 1956; after his retirement in 1969 continuing his work on orchids. 
+**Abbreviated name**: *Vermeulen*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103414#page/428/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33120511) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bruehl, Paul Johannes {std. Brühl} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brühl, Paul Johannes (1855-x), German botanist. (*Brühl*).
+Brühl, Paul Johannes (1855-x), German botanist. 
+**Abbreviated name**: *Brühl*
 
 #### Herbarium and types
 

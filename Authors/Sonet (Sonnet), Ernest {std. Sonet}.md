@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/item/104077#page/757/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33333882) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sonet \[Sonnet\], Ernest (*fl*. 1872), Belgian botanist; technician at the Jardin botanique de l'État, Brussels, 1871-1890; from 1890 in retirement because of invalidity. (*Sonet*).
+Sonet \[Sonnet\], Ernest (*fl*. 1872), Belgian botanist; technician at the Jardin botanique de l'État, Brussels, 1871-1890; from 1890 in retirement because of invalidity. 
+**Abbreviated name**: *Sonet*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103250#page/232/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33066512) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Welch, Winona Hazel (1896-x), American botanist (bryologist); Dr. phil. DePaauw Univ. 1928; assistant in botany Univ. Illinois 1923-1926, head dept. biology Centr. Normal College, Indiana 1926-1927; instructor in botany DePaauw University 1928-1930; assistant professor, later professor ib. 1930-1961; emeritus professor of botany ib. 1964. (*Welch*).
+Welch, Winona Hazel (1896-x), American botanist (bryologist); Dr. phil. DePaauw Univ. 1928; assistant in botany Univ. Illinois 1923-1926, head dept. biology Centr. Normal College, Indiana 1926-1927; instructor in botany DePaauw University 1928-1930; assistant professor, later professor ib. 1930-1961; emeritus professor of botany ib. 1964. 
+**Abbreviated name**: *Welch*
 
 #### Herbarium and types
 

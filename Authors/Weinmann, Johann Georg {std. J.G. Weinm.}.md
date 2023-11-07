@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/item/103250#page/219/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33066499) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weinmann, Johann Georg (1764-1769), German (Schwaben) physician and botanist; town physician of Reutlingen. (*J.G. Weinm.*).
+Weinmann, Johann Georg (1764-1769), German (Schwaben) physician and botanist; town physician of Reutlingen. 
+**Abbreviated name**: *J.G. Weinm.*
 
 #### Herbarium and types
 

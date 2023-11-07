@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/item/103683#page/631/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33212663) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ursprung, Alfred (1876-1952), Swiss botanist; Dr. phil. Basel 1900; in Berlin with Schwendener 1900-1902; assistant at the University of Fribourg (Switzerland) 1902-1903, extraordinary professor of botany ib. 1903, regular professor 1907. (*Ursprung*).
+Ursprung, Alfred (1876-1952), Swiss botanist; Dr. phil. Basel 1900; in Berlin with Schwendener 1900-1902; assistant at the University of Fribourg (Switzerland) 1902-1903, extraordinary professor of botany ib. 1903, regular professor 1907. 
+**Abbreviated name**: *Ursprung*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103683#page/220/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33212252) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tengström, Johan Magnus af (1793-1856), Finnish botanist; Dr. phil. Åbo 1815, Dr. med. ib. 1817; museum inspector Åbo 1818, "adjunkt" (assoc. prof.) 1828 and from 1842 professor of zoology and botany Helsinki. (*Tengstr.*).
+Tengström, Johan Magnus af (1793-1856), Finnish botanist; Dr. phil. Åbo 1815, Dr. med. ib. 1817; museum inspector Åbo 1818, "adjunkt" (assoc. prof.) 1828 and from 1842 professor of zoology and botany Helsinki. 
+**Abbreviated name**: *Tengstr.*
 
 #### Herbarium and types
 

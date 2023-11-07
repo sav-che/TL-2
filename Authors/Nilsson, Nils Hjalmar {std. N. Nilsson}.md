@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/104137#page/770/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nilsson, Nils Hjalmar (1856-1925), Swedish botanist; Dr. phil. Lund 1886; lecturer (1886) and professor (1902) of botany at Lund; from 1889 connected with Svalöv experiment station. (*N. Nilsson*).
+Nilsson, Nils Hjalmar (1856-1925), Swedish botanist; Dr. phil. Lund 1886; lecturer (1886) and professor (1902) of botany at Lund; from 1889 connected with Svalöv experiment station. 
+**Abbreviated name**: *N. Nilsson*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/item/104137#page/870/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33355941) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Osten-Saken, Baron Friedrich von der (Fedor Romanovic) (1832-?), German botanist in Russia. (*Osten-Saken*).
+Osten-Saken, Baron Friedrich von der (Fedor Romanovic) (1832-?), German botanist in Russia. 
+**Abbreviated name**: *Osten-Saken*
 
 #### Herbarium and types
 

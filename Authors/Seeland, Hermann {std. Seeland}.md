@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/item/104077#page/487/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33333612) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seeland, Hermann (1868-1954), German (Hannoverian) botanist and clergyman at Ruthe, Celle, Hannover and, from 1932, at Hildesheim. (*Seeland*).
+Seeland, Hermann (1868-1954), German (Hannoverian) botanist and clergyman at Ruthe, Celle, Hannover and, from 1932, at Hildesheim. 
+**Abbreviated name**: *Seeland*
 
 #### Herbarium and types
 

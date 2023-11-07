@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/item/103253#page/599/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33068815) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knaut, Christian (1654-1716), German botanist at Halle, brother of Christoph Knauth. (*Knaut*).
+Knaut, Christian (1654-1716), German botanist at Halle, brother of Christoph Knauth. 
+**Abbreviated name**: *Knaut*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103833#page/189/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33259223) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delile, Alire (Raffeneau) {std. Delile}|first entry]] for this author
 
 ### Author
 
-\* Delile \[also Raffeneau Delile\], Alire (1778-1850), French botanist and physician, studied at the Collège de Lisieu, Paris, at the École de Santé, Paris 1795, joined the Egyptian expeditionary force organized by Bonaparte, 1798-1801, sailed for Wilmington, North Carolina for Commerce, worked 1806 as physician at the Pennsylvania Hospital at Philadelphia also with David Hosack in New York, thesis 1807, returned to France to issue a flora of Egypt 1807-1809, Dr. thesis (medicine) at Faculty of Medicine, Paris, from 1819-1850 at Montpellier with A.P. de Candolle. (*Delile*).
+\* Delile \[also Raffeneau Delile\], Alire (1778-1850), French botanist and physician, studied at the Collège de Lisieu, Paris, at the École de Santé, Paris 1795, joined the Egyptian expeditionary force organized by Bonaparte, 1798-1801, sailed for Wilmington, North Carolina for Commerce, worked 1806 as physician at the Pennsylvania Hospital at Philadelphia also with David Hosack in New York, thesis 1807, returned to France to issue a flora of Egypt 1807-1809, Dr. thesis (medicine) at Faculty of Medicine, Paris, from 1819-1850 at Montpellier with A.P. de Candolle. 
+**Abbreviated name**: *Delile*
 
 #### Herbarium and types
 

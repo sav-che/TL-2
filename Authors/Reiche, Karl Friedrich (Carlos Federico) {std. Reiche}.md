@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/103624#page/675/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33190132) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reiche, Karl Friedrich (Carlos Federico) (1860-1929), German (Saxonian) botanist; Dr. phil. Leipzig 1885; high school teacher Dresden, 1886-1889; at the same time assistant to O. Drude at the university; to Chile 1889; high school teacher Concepcion 1889-1896; head of the botany dept. National Museum Santiago 1896-1911, concurrently professor of botany at the Medical faculty, Santiago; in Mexico professor of botany and head of the botany dept. Instituto medico nacional 1911-1923; in München 1924-1929 (with trip to Mexico 1926-1927), ultimately at the Botanische Staatssammlungen. (*Reiche*).
+Reiche, Karl Friedrich (Carlos Federico) (1860-1929), German (Saxonian) botanist; Dr. phil. Leipzig 1885; high school teacher Dresden, 1886-1889; at the same time assistant to O. Drude at the university; to Chile 1889; high school teacher Concepcion 1889-1896; head of the botany dept. National Museum Santiago 1896-1911, concurrently professor of botany at the Medical faculty, Santiago; in Mexico professor of botany and head of the botany dept. Instituto medico nacional 1911-1923; in München 1924-1929 (with trip to Mexico 1926-1927), ultimately at the Botanische Staatssammlungen. 
+**Abbreviated name**: *Reiche*
 
 #### Herbarium and types
 

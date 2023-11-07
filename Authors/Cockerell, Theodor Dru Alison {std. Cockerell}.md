@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/item/103414#page/564/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33120647) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cockerell, Theodore Dru Alison {std. Cockerell} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cockerell, Theodor Dru Alison (1866-1948), British born American naturalist. (*Cockerell*).
+Cockerell, Theodor Dru Alison (1866-1948), British born American naturalist. 
+**Abbreviated name**: *Cockerell*
 
 #### Herbarium and types
 

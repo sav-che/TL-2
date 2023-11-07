@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/item/103834#page/107/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33259589) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fedchenko (Fedtschenko), Boris Alexsevič {std. B. Fedtsch.}|first entry]] for this author
 
 ### Author
 
-\* Fedtschenko \[Fedčenko, Fedchenko, Fedschenko, Fedtchenko, Fedezenko\], Boris \[Bos\] Alexjewitsch \[Alexjevič, Alekseevich, Aleksyvitch, Alexsevič\] (1872-1947), German-born Russian botanist, born 27 Dec 1872 (o.s. = 8 Jan 1873) in Leipzig, attended Moscow Univ. 1892-1896, after traveling with his mother O.A. Fedtschenko (see below) on botanical excursions a.o. to C.-Asia he visited Turkestan on his own 1897, at St. Petersburg botanic gardens 1900, chief manager of the herb. 1905-1932, Dr. 1905 Univ. of Dorpat, prof. 1927, died 29 Sep 1947 in Leningrad. (*B. Fedtsch.*).
+\* Fedtschenko \[Fedčenko, Fedchenko, Fedschenko, Fedtchenko, Fedezenko\], Boris \[Bos\] Alexjewitsch \[Alexjevič, Alekseevich, Aleksyvitch, Alexsevič\] (1872-1947), German-born Russian botanist, born 27 Dec 1872 (o.s. = 8 Jan 1873) in Leipzig, attended Moscow Univ. 1892-1896, after traveling with his mother O.A. Fedtschenko (see below) on botanical excursions a.o. to C.-Asia he visited Turkestan on his own 1897, at St. Petersburg botanic gardens 1900, chief manager of the herb. 1905-1932, Dr. 1905 Univ. of Dorpat, prof. 1927, died 29 Sep 1947 in Leningrad. 
+**Abbreviated name**: *B. Fedtsch.*
 
 #### Note
 

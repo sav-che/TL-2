@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103858#page/363/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33265078) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barton, William Paul Crillon {std. W. Barton}|first entry]] for this author
 
 ### Author
 
-\* Barton, William Paul Crillon (1786-1856), American botanist at Philadelphia, nephew of B.S. Barton; graduated at Princeton 1805, studied medicine at the University of Pennsylvania; joined the navy as a surgeon 1809, served in naval hospitals in Philadelphia, Norfolk and Pensacola; succeeded his uncle as professor of botany at the University of Pennsylvania, subsequently teacher of materia medica at Jefferson Medical College, Philadelphia; first chief Navy Department Bureau of Medicine and Surgery 1842-1844. (*W. Barton*).
+\* Barton, William Paul Crillon (1786-1856), American botanist at Philadelphia, nephew of B.S. Barton; graduated at Princeton 1805, studied medicine at the University of Pennsylvania; joined the navy as a surgeon 1809, served in naval hospitals in Philadelphia, Norfolk and Pensacola; succeeded his uncle as professor of botany at the University of Pennsylvania, subsequently teacher of materia medica at Jefferson Medical College, Philadelphia; first chief Navy Department Bureau of Medicine and Surgery 1842-1844. 
+**Abbreviated name**: *W. Barton*
 
 #### Herbarium and types
 

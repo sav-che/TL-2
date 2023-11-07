@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103861#page/217/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33266514) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buen y del Cos, Odón de (1863-?), Spanish botanist, professor of natural history at Barcelona, director of the Botanical Garden ib. and of the Biological marine laboratory at the Baleares. (*Buen*).
+Buen y del Cos, Odón de (1863-?), Spanish botanist, professor of natural history at Barcelona, director of the Botanical Garden ib. and of the Biological marine laboratory at the Baleares. 
+**Abbreviated name**: *Buen*
 
 #### Herbarium and types
 

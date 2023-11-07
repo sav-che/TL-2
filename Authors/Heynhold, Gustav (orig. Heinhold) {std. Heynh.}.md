@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103253#page/215/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33068431) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heynhold, Gustav (orig. Heinhold) (1800-ca. 1860), German botanist in Saxonia. (*Heynh.*).
+Heynhold, Gustav (orig. Heinhold) (1800-ca. 1860), German botanist in Saxonia. 
+**Abbreviated name**: *Heynh.*
 
 #### Herbarium and types
 

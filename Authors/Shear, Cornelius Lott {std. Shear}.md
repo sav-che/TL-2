@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/item/104077#page/569/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33333694) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shear, Cornelius Lott (1865-1956), American botanist (agrostologist and mycologist); MA Univ. Nebraska 1901; Dr. phil. George Washington Univ. 1906; with the United states Department of Agriculture 1898-1901 as agrostologist, from 1901-1935 as mycologist in the Bureau of Plant Industry; from 1935-1950 in retirement and still active at USDA. (*Shear*).
+Shear, Cornelius Lott (1865-1956), American botanist (agrostologist and mycologist); MA Univ. Nebraska 1901; Dr. phil. George Washington Univ. 1906; with the United states Department of Agriculture 1898-1901 as agrostologist, from 1901-1935 as mycologist in the Bureau of Plant Industry; from 1935-1950 in retirement and still active at USDA. 
+**Abbreviated name**: *Shear*
 
 #### Herbarium and types
 

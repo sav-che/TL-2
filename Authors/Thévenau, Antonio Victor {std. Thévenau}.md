@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103683#page/266/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thévenau, Antonio Victor (1814/1815-1876), French physician and botanist at Béziers; from 1867 in Agde. (*Thévenau*).
+Thévenau, Antonio Victor (1814/1815-1876), French physician and botanist at Béziers; from 1867 in Agde. 
+**Abbreviated name**: *Thévenau*
 
 #### Herbarium and types
 

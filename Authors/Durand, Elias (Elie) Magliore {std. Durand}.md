@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/item/103414#page/755/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33120838) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Durand, Elias (Elie) Magliore {std. Durand} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Durand, Elias \[Elie\] Magliore (1794-1873), French botanist who resided in the United States from 1816-1873. (*E. M. Durand*).
+Durand, Elias \[Elie\] Magliore (1794-1873), French botanist who resided in the United States from 1816-1873. 
+**Abbreviated name**: *E. M. Durand*
 
 #### Herbarium and types
 

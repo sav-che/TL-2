@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/item/104077#page/590/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33333715) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sibree, James (1836-1929), British missionary and naturalist; educated at Hull Collegiate College; surveyor Board of Health 1859-1863; architect of memorial churches in Madagascar 1863-1867; trained for congregational ministry, Birmingham 1868-1870; missionary in Madagascar with the London Missionary Society until 1915. (*Sibree*).
+Sibree, James (1836-1929), British missionary and naturalist; educated at Hull Collegiate College; surveyor Board of Health 1859-1863; architect of memorial churches in Madagascar 1863-1867; trained for congregational ministry, Birmingham 1868-1870; missionary in Madagascar with the London Missionary Society until 1915. 
+**Abbreviated name**: *Sibree*
 
 #### Herbarium and types
 

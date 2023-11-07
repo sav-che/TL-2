@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103859#page/60/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33265247) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Behr, Hans Herman(n) {std. Behr}|first entry]] for this author
 
 ### Author
 
-\* Behr, Hans Herman\[n\] (1818-1904), German (Saxony-Anhalt) physician, botanist, entomologist and poet, studied at the Universities of Halle (1837), Würzburg, and Berlin, Dr. med. Berlin 1843, went to Australia 1844-1845, collecting plants and insects, extended his travels to the Straits Settlements, East Indies and South Africa, returned to Germany 1848, went to Brazil 1848, Australia 1848, and the Philippine Islands 1849-1850, settled in California 1850 as practicing physician, later professor of botany at the California College of Pharmacy, San Francisco, narrowly associated with the Californian Academy of Sciences. (*Behr*).
+\* Behr, Hans Herman\[n\] (1818-1904), German (Saxony-Anhalt) physician, botanist, entomologist and poet, studied at the Universities of Halle (1837), Würzburg, and Berlin, Dr. med. Berlin 1843, went to Australia 1844-1845, collecting plants and insects, extended his travels to the Straits Settlements, East Indies and South Africa, returned to Germany 1848, went to Brazil 1848, Australia 1848, and the Philippine Islands 1849-1850, settled in California 1850 as practicing physician, later professor of botany at the California College of Pharmacy, San Francisco, narrowly associated with the Californian Academy of Sciences. 
+**Abbreviated name**: *Behr*
 
 #### Herbarium and types
 

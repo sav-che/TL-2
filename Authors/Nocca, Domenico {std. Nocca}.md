@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/item/104137#page/773/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33355844) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nocca, Domenico (1758-1841), Italian clergyman (ordinis praedicat.) and botanist; professor of botany and director of the botanic garden at Pavia. (*Nocca*).
+Nocca, Domenico (1758-1841), Italian clergyman (ordinis praedicat.) and botanist; professor of botany and director of the botanic garden at Pavia. 
+**Abbreviated name**: *Nocca*
 
 #### Herbarium and types
 

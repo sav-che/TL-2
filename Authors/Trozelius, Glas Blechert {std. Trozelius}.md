@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103683#page/521/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33212553) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trozelius, Glas Blechert (1719-1794), Swedish economist, clergyman and botanist; Dr. phil. Lund 1745; lecturer Lund 1746; clergyman 1754; Dr. theol. 1766, professor of economy Lund 1759-1788. (*Trozelius*).
+Trozelius, Glas Blechert (1719-1794), Swedish economist, clergyman and botanist; Dr. phil. Lund 1745; lecturer Lund 1746; clergyman 1754; Dr. theol. 1766, professor of economy Lund 1759-1788. 
+**Abbreviated name**: *Trozelius*
 
 #### Herbarium and types
 

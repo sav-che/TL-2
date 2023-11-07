@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/103414#page/659/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33120742) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dehnhardt, Friedrich (1787-1870), German gardener, curator at the Naples botanical garden. (*Dehnh.*).
+Dehnhardt, Friedrich (1787-1870), German gardener, curator at the Naples botanical garden. 
+**Abbreviated name**: *Dehnh.*
 
 #### Herbarium and types
 

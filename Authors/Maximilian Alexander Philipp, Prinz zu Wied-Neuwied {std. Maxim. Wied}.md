@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/item/104137#page/397/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33355468) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maximilian Alexander Philipp, Prinz zu Wied-Neuwied (1782-1867), German botanist and traveller in Brazil (1815-1817); in North America 1832-1834). (*Maxim. Wied*).
+Maximilian Alexander Philipp, Prinz zu Wied-Neuwied (1782-1867), German botanist and traveller in Brazil (1815-1817); in North America 1832-1834). 
+**Abbreviated name**: *Maxim. Wied*
 
 #### Herbarium and types
 

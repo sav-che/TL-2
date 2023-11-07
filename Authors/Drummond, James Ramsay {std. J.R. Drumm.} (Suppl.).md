@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103835#page/128/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33260106) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drummond, James Ramsay {std. J.R. Drumm.}|first entry]] for this author
 
 ### Author
 
-\* Drummond, James Ramsay (1851-1921), Scottish botanist born 13 (or 25) Mai 1851 on a boat at sea near Madras, studied in Oxford, B.A. 1872, Indian Civil Service in Punjab 1874-1904, to Kew 1905-1921, died 11 Mar 1921 in Acton (Middx.). (*J.R. Drumm.*).
+\* Drummond, James Ramsay (1851-1921), Scottish botanist born 13 (or 25) Mai 1851 on a boat at sea near Madras, studied in Oxford, B.A. 1872, Indian Civil Service in Punjab 1874-1904, to Kew 1905-1921, died 11 Mar 1921 in Acton (Middx.). 
+**Abbreviated name**: *J.R. Drumm.*
 
 #### Herbarium and types
 

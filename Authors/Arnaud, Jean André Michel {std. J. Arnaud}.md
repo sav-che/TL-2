@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103414#page/112/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33120195) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arnaud, Jean André Michel {std. J. Arnaud} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arnaud, Jean André Michel (1760-1831), French physician and botanist. (*J. Arnaud*).
+Arnaud, Jean André Michel (1760-1831), French physician and botanist. 
+**Abbreviated name**: *J. Arnaud*
 
 #### Herbarium and types
 

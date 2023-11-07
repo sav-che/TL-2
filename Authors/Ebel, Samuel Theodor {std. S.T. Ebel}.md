@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103835#page/255/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33260233) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebel, Samuel Theodor (1788-1866), German teacher, born 12 Jan 1788 at Passenheim, visited 1795-1806 the "latin school", studied theology at the University of Königsberg, teacher at the Collegium Fridericianum since 1808, founded a private school in 1814 but returned to the Collegium Fridericianum until 1858, died 9 Oct 1866. (*S.T. Ebel*).
+Ebel, Samuel Theodor (1788-1866), German teacher, born 12 Jan 1788 at Passenheim, visited 1795-1806 the "latin school", studied theology at the University of Königsberg, teacher at the Collegium Fridericianum since 1808, founded a private school in 1814 but returned to the Collegium Fridericianum until 1858, died 9 Oct 1866. 
+**Abbreviated name**: *S.T. Ebel*
 
 #### Herbarium and types
 

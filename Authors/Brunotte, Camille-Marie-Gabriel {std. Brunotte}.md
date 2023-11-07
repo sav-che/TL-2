@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103861#page/175/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33266472) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunotte, Camille-Marie-Gabriel (1860-1910), French naturalist and pharmacist, studied at the École supérieure de Pharmacie, Nancy, Bac. Sci. 1877, assistant for materia medica at the École supérieure de Pharmacie 1881-1883, assistant for zoology at the Faculty of Sciences at Nancy 1883-1889, pharmacist first class 1884, Lic. Sci. nat. 1886, professor of natural history at the École professionelle de l'Est 1886-1889, dipl. pharmacist 1889, lecturer ib. 1889-1910, Dr. Sc. Paris 1900. (*Brunotte*).
+Brunotte, Camille-Marie-Gabriel (1860-1910), French naturalist and pharmacist, studied at the École supérieure de Pharmacie, Nancy, Bac. Sci. 1877, assistant for materia medica at the École supérieure de Pharmacie 1881-1883, assistant for zoology at the Faculty of Sciences at Nancy 1883-1889, pharmacist first class 1884, Lic. Sci. nat. 1886, professor of natural history at the École professionelle de l'Est 1886-1889, dipl. pharmacist 1889, lecturer ib. 1889-1910, Dr. Sc. Paris 1900. 
+**Abbreviated name**: *Brunotte*
 
 #### Herbarium and types
 

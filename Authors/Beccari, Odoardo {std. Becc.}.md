@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103414#page/203/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beccari, Odoardo {std. Becc.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beccari, Odoardo (1843-1920), Italian botanical explorer and palm specialist. (*Becc.*).
+Beccari, Odoardo (1843-1920), Italian botanical explorer and palm specialist. 
+**Abbreviated name**: *Becc.*
 
 #### Herbarium and types
 

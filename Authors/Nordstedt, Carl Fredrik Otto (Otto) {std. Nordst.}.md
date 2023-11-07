@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/item/104137#page/784/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/page/33355855) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nordstedt, Carl Fredrik Otto \["Otto"\] (1838-1924), Swedish phycologist of independent means; med. fil. kand. Lund 1861; amanuensis at the Lund botanical institute 1878-1886; curator at id. 1886-1909; Dr. phil. h.c. Lund 1881; Prof. id. 1903. (*Nordst.*).
+Nordstedt, Carl Fredrik Otto \["Otto"\] (1838-1924), Swedish phycologist of independent means; med. fil. kand. Lund 1861; amanuensis at the Lund botanical institute 1878-1886; curator at id. 1886-1909; Dr. phil. h.c. Lund 1881; Prof. id. 1903. 
+**Abbreviated name**: *Nordst.*
 
 #### Herbarium and types
 

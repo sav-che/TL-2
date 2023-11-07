@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/item/103414#page/911/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33120994) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Foslie, Mikal (Mikel, Mikael, Michael) Heggelund {std. Foslie} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Foslie, Michael (Mikal) Heggelund (1855-1909), Norwegian algologist. (*Foslie*).
+Foslie, Michael (Mikal) Heggelund (1855-1909), Norwegian algologist. 
+**Abbreviated name**: *Foslie*
 
 #### Herbarium and types
 

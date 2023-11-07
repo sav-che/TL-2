@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103683#page/267/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33212299) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thiébaut-de-Berneaud, Arsenne \[Arsène\] (1777-1850), French agronomist, botanist and author; officer in the republican army; librarian at the Bibliothèque Mazarine from 1808; from 1849 as "Conservatoir-adjoint"; secretary of the Société Linnéenne de Paris. (*Thiébaut-de-Berneaud*).
+Thiébaut-de-Berneaud, Arsenne \[Arsène\] (1777-1850), French agronomist, botanist and author; officer in the republican army; librarian at the Bibliothèque Mazarine from 1808; from 1849 as "Conservatoir-adjoint"; secretary of the Société Linnéenne de Paris. 
+**Abbreviated name**: *Thiébaut-de-Berneaud*
 
 #### Herbarium and types
 

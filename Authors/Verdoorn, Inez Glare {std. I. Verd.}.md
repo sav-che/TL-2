@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/item/103683#page/719/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33212751) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Verdoorn, Inez Glare (1896-x), South African botanist; herbarium assistant Division of Botany and Plant Pathology 1917; liaison officer for the National Herbarium at Kew 1925-1927; in charge of the National Herbarium from 1927-1951, from 1944-1951 as senior professional officer; in semi-retirement 1951-1968, from 1968 still actively engaged in systematic botany at Pretoria; Dr. phil. h.c. Univ. Natal 1967. (*I. Verd.*).
+Verdoorn, Inez Glare (1896-x), South African botanist; herbarium assistant Division of Botany and Plant Pathology 1917; liaison officer for the National Herbarium at Kew 1925-1927; in charge of the National Herbarium from 1927-1951, from 1944-1951 as senior professional officer; in semi-retirement 1951-1968, from 1968 still actively engaged in systematic botany at Pretoria; Dr. phil. h.c. Univ. Natal 1967. 
+**Abbreviated name**: *I. Verd.*
 
 #### Herbarium and types
 

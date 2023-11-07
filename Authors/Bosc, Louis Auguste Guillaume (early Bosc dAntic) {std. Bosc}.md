@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103414#page/335/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33120418) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bosc, Louis-Auguste-Guillaume (early Bosc dAntic) {std. Bosc} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bosc, Louis Auguste Guillaume (in his youth Bosc d'Antic) (1759-1828), French consul in Carolina (1798-1800), later horticulturist and botanist in the Paris region. (*Bosc*).
+Bosc, Louis Auguste Guillaume (in his youth Bosc d'Antic) (1759-1828), French consul in Carolina (1798-1800), later horticulturist and botanist in the Paris region. 
+**Abbreviated name**: *Bosc*
 
 #### Herbarium and types
 

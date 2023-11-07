@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/103683#page/445/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33212477) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trappen, Johannes \[Jan\] Everhardus van der (*fl*. 1834-1849), Dutch botanist and physician; studied medicine at Utrecht University; Dr. med. Utrecht 1843; practicing physician at Naaldwijk (Westland, Holland). (*Trappen*).
+Trappen, Johannes \[Jan\] Everhardus van der (*fl*. 1834-1849), Dutch botanist and physician; studied medicine at Utrecht University; Dr. med. Utrecht 1843; practicing physician at Naaldwijk (Westland, Holland). 
+**Abbreviated name**: *Trappen*
 
 #### Herbarium and types
 

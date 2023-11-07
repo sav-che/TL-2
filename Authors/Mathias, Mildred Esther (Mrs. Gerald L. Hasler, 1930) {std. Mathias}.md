@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/104137#page/381/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33355452) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mathias, Mildred Esther \[Mrs. Gerald L. Hasler, 1930\], (1906-x), American botanist and conservationist at Los Angeles; specialist on Umbelliferae; Ph. D. Washington Univ. 1929; Jessie R. Barr Fellow, Henry Shaw School of botany 1927-1929; Missouri Botanical Garden 1929-1930; at New York Botanical Garden 1932-1936; University of California Berkeley 1937-1942; idem Los Angeles 1947-1974, from 1962 as professor of botany; Tyler Ecology award 1974. (*Mathias*).
+Mathias, Mildred Esther \[Mrs. Gerald L. Hasler, 1930\], (1906-x), American botanist and conservationist at Los Angeles; specialist on Umbelliferae; Ph. D. Washington Univ. 1929; Jessie R. Barr Fellow, Henry Shaw School of botany 1927-1929; Missouri Botanical Garden 1929-1930; at New York Botanical Garden 1932-1936; University of California Berkeley 1937-1942; idem Los Angeles 1947-1974, from 1962 as professor of botany; Tyler Ecology award 1974. 
+**Abbreviated name**: *Mathias*
 
 #### Herbarium and types
 

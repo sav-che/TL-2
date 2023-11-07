@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103683#page/397/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33212429) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tolmie, William Fraser (1812-1886), British botanical collector on the Northwest coast of America; student of W.J. Hooker; medical officer in Vancouver 1832, later also associated with the Canadian Geological Survey; first botanist to ascend and to collect on Mount Rainier (1833). (*Tolmie*).
+Tolmie, William Fraser (1812-1886), British botanical collector on the Northwest coast of America; student of W.J. Hooker; medical officer in Vancouver 1832, later also associated with the Canadian Geological Survey; first botanist to ascend and to collect on Mount Rainier (1833). 
+**Abbreviated name**: *Tolmie*
 
 #### Herbarium and types
 

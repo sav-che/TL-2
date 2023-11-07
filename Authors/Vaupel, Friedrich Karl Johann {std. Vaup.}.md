@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/item/103683#page/692/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33212724) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaupel, Friedrich Karl Johann (1876-1927), German (Prussian/Rhenisch Palatinate) botanist; followed a military career 1893-1895, pensioned off because of invalidity 1895; studied medicine and natural sciences in Berlin, Heidelberg and München; in Mexico and the West Indies 1899-1910; Dr. phil. München 1903 as student of K. v. Goebel; travelled in India, Australia and the Samoa Islands 1903-1907; assistant at the Botanical Museum Berlin-Dahlem 1908, curator ib. 1921, professor's title 1926; on active service as training officer 1914-1918; specialist on Cactaceae. (*Vaup.*).
+Vaupel, Friedrich Karl Johann (1876-1927), German (Prussian/Rhenisch Palatinate) botanist; followed a military career 1893-1895, pensioned off because of invalidity 1895; studied medicine and natural sciences in Berlin, Heidelberg and München; in Mexico and the West Indies 1899-1910; Dr. phil. München 1903 as student of K. v. Goebel; travelled in India, Australia and the Samoa Islands 1903-1907; assistant at the Botanical Museum Berlin-Dahlem 1908, curator ib. 1921, professor's title 1926; on active service as training officer 1914-1918; specialist on Cactaceae. 
+**Abbreviated name**: *Vaup.*
 
 #### Herbarium and types
 

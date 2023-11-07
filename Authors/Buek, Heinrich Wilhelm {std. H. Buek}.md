@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103414#page/447/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33120530) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buek, Heinrich Wilhelm (1796-1879), German physician ("Landphysicus" at Hamburg) and botanist. (*H. Buek*).
+Buek, Heinrich Wilhelm (1796-1879), German physician ("Landphysicus" at Hamburg) and botanist. 
+**Abbreviated name**: *H. Buek*
 
 #### Herbarium and types
 

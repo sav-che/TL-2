@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/104077#page/409/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulze, Walther (1875-?), German (Saxonian) pharmacist and botanist; pharmac. state exam. Leipzig 1899; Dr. phil. Erlangen 1891, student of H. Solereder. (*Wa. Schulze*).
+Schulze, Walther (1875-?), German (Saxonian) pharmacist and botanist; pharmac. state exam. Leipzig 1899; Dr. phil. Erlangen 1891, student of H. Solereder. 
+**Abbreviated name**: *Wa. Schulze*
 
 #### Herbarium and types
 

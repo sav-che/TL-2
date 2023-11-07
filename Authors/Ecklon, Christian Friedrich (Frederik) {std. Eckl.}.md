@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/item/103414#page/769/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33120852) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ecklon, Christian Friedrich {std. Eckl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ecklon, Christian Friedrich (Frederik) (1795-1868), Danish botanist, travelling in South Africa, later working in Germany. (*Ecklon*).
+Ecklon, Christian Friedrich (Frederik) (1795-1868), Danish botanist, travelling in South Africa, later working in Germany. 
+**Abbreviated name**: *Ecklon*
 
 #### Herbarium and types
 

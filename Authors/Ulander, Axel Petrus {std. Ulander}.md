@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/item/103683#page/581/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33212613) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ulander, Axel Petrus (1874-?), Swedish botanist and agronomist; Fil. kand. Uppsala 1898, student at Göttingen 1903-1905; Dr. phil. ib. 1905; assistant with the Svenska Utsädesföringen at Luleå 1906-1913; later teacher at the Luleå seminarium. (*Ulander*).
+Ulander, Axel Petrus (1874-?), Swedish botanist and agronomist; Fil. kand. Uppsala 1898, student at Göttingen 1903-1905; Dr. phil. ib. 1905; assistant with the Svenska Utsädesföringen at Luleå 1906-1913; later teacher at the Luleå seminarium. 
+**Abbreviated name**: *Ulander*
 
 #### Herbarium and types
 

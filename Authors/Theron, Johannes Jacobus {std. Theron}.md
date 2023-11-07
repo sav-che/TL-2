@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103683#page/265/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Theron, Johannes Jacobus (1905-x), South African botanist; at Potchefstroom University 1930-1935; Humboldt Stipendium for study in Germany 1935-1936; Dr. phil. Berlin 1936; lecturer at Potchefstroom 1936-1939; id., later head of the biology department Pretoria University 1939-1969; in retirement in Ellisvar District. (*Theron*).
+Theron, Johannes Jacobus (1905-x), South African botanist; at Potchefstroom University 1930-1935; Humboldt Stipendium for study in Germany 1935-1936; Dr. phil. Berlin 1936; lecturer at Potchefstroom 1936-1939; id., later head of the biology department Pretoria University 1939-1969; in retirement in Ellisvar District. 
+**Abbreviated name**: *Theron*
 
 #### Herbarium and types
 

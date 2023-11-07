@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/item/104077#page/115/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33333240) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schack, Hans (1878-1946), German (Bavarian) lawyer and botanist; judge ("Landesgerichtsdirector") at Coburg, later (from 1930) idem (Reichsgerichtsrat) at Leipzig; interested in Hieracium and Rubus. (*Schack*).
+Schack, Hans (1878-1946), German (Bavarian) lawyer and botanist; judge ("Landesgerichtsdirector") at Coburg, later (from 1930) idem (Reichsgerichtsrat) at Leipzig; interested in Hieracium and Rubus. 
+**Abbreviated name**: *Schack*
 
 #### Herbarium and types
 

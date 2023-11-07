@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103834#page/342/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33259824) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fors \[y Reyes\], Alberto J. (fl. 1912-1947), Cuban forester, B.S. 1912 Cornell Univ., Ithaca, New York, "el padre de la silvicultura cubana". (*A. Fors*).
+Fors \[y Reyes\], Alberto J. (fl. 1912-1947), Cuban forester, B.S. 1912 Cornell Univ., Ithaca, New York, "el padre de la silvicultura cubana". 
+**Abbreviated name**: *A. Fors*
 
 #### Herbarium and types
 

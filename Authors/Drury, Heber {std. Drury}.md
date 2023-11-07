@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/item/103414#page/734/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33120817) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drury, Heber {std. Drury} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Drury, Heber (1819-1872), British colonel in the Madras Light Infantry, student of the flora of India. (*Drury*).
+Drury, Heber (1819-1872), British colonel in the Madras Light Infantry, student of the flora of India. 
+**Abbreviated name**: *Drury*
 
 #### Herbarium and types
 

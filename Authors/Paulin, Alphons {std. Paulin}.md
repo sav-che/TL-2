@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103624#page/126/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33189583) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paulin, Alphons (1853-1942), Austrian botanist in Slovenia; director of the botanical garden of the University of Ljubljana (Laibach) 1886-1931; Dr. phil. Graz 1880. (*Paulin*).
+Paulin, Alphons (1853-1942), Austrian botanist in Slovenia; director of the botanical garden of the University of Ljubljana (Laibach) 1886-1931; Dr. phil. Graz 1880. 
+**Abbreviated name**: *Paulin*
 
 #### Herbarium and types
 

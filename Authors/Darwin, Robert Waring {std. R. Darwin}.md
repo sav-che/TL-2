@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/item/103414#page/648/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darwin, Robert Waring (1724-1816), British physician and botanist, brother of Erasmus Darwin. (*R. Darwin*).
+Darwin, Robert Waring (1724-1816), British physician and botanist, brother of Erasmus Darwin. 
+**Abbreviated name**: *R. Darwin*
 
 #### Herbarium and types
 

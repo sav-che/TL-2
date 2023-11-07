@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/item/103414#page/574/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33120657) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Collett, Henry {std. Collett} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Collett, \[Sir\] Henry (1836-1901), British colonial army officer, botanist and collector. (*Collett*).
+Collett, \[Sir\] Henry (1836-1901), British colonial army officer, botanist and collector. 
+**Abbreviated name**: *Collett*
 
 #### Herbarium and types
 

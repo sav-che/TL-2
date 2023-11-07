@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103835#page/23/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33260001) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dodel\[-Port\], Arnold (1843-1908), Swiss botanist, scolar of Nägeli, docent of botany at the polytechnikum Zürich 1871, professor of botany ib. 1880-1898, from 1898 pension officer, born 16 Oct 1843, Affeltrangen, Thurgau, Switzerland, died 11 Apr 1908, Zürich. (*Dodel*).
+Dodel\[-Port\], Arnold (1843-1908), Swiss botanist, scolar of Nägeli, docent of botany at the polytechnikum Zürich 1871, professor of botany ib. 1880-1898, from 1898 pension officer, born 16 Oct 1843, Affeltrangen, Thurgau, Switzerland, died 11 Apr 1908, Zürich. 
+**Abbreviated name**: *Dodel*
 
 #### Herbarium and types
 

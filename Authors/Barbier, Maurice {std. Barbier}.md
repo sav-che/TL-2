@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103858#page/333/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barbier, Maurice (1866-1955), French mycologist, born at Lux (Côte-d'Or), educated at the Collège de Cluny and at the Lycée de Dijon, studied at the Faculté des Sciences of Dijon, Lic. ès Sciences ib., from 1898 member of the Société mycologique de France. (*Barbier*).
+Barbier, Maurice (1866-1955), French mycologist, born at Lux (Côte-d'Or), educated at the Collège de Cluny and at the Lycée de Dijon, studied at the Faculté des Sciences of Dijon, Lic. ès Sciences ib., from 1898 member of the Société mycologique de France. 
+**Abbreviated name**: *Barbier*
 
 #### Herbarium and types
 

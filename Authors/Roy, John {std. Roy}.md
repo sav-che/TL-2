@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/item/103624#page/972/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33190429) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roy, John (1826-1893), Scottish botanist (desmidiologist); educated in the Normal College of the Church of Scotland, Edinburgh; school teacher at Brackmuirhill and at Old Bridge of Don nr. Aberdeen; from 1863 in charge of the Skene Square Public School at Aberdeen; LL.D.h.c. Aberdeen 1889. (*Roy*).
+Roy, John (1826-1893), Scottish botanist (desmidiologist); educated in the Normal College of the Church of Scotland, Edinburgh; school teacher at Brackmuirhill and at Old Bridge of Don nr. Aberdeen; from 1863 in charge of the Skene Square Public School at Aberdeen; LL.D.h.c. Aberdeen 1889. 
+**Abbreviated name**: *Roy*
 
 #### Herbarium and types
 

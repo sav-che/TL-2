@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103833#page/222/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33259256) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Densmore, Frances Theresa (1867-1957), American ethnologist, born 21 Mai 1867 at Red Wing, Minnesota, studied music at Oberlin conservatory 1884-1886, private study 1880-1890 and 1898-1900, honorary AM. Oberlin College 1924, teacher piano and organ Minnesota 1887-1904, studying music of the American Indians, also publishing on plants used by the Indians, died 1957. (*F.T. Densmore*).
+Densmore, Frances Theresa (1867-1957), American ethnologist, born 21 Mai 1867 at Red Wing, Minnesota, studied music at Oberlin conservatory 1884-1886, private study 1880-1890 and 1898-1900, honorary AM. Oberlin College 1924, teacher piano and organ Minnesota 1887-1904, studying music of the American Indians, also publishing on plants used by the Indians, died 1957. 
+**Abbreviated name**: *F.T. Densmore*
 
 #### Herbarium and types
 

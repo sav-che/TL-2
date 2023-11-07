@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103859#page/122/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33265309) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berridge, Emily Mary (1872-1947), British botanist, studied at Bedford College 1891-1894, at the Royal Holloway College 1894-1898, B.Sc. London 1898, teacher in York 1898-1900, with the University of London 1906, at the Imperial College of Science 1910, D. Sc. London 1914, bacteriologist with the Thompson Yates Laboratory, University of Liverpool 1916, from then on continuing her bacteriological research. (*Berridge*).
+Berridge, Emily Mary (1872-1947), British botanist, studied at Bedford College 1891-1894, at the Royal Holloway College 1894-1898, B.Sc. London 1898, teacher in York 1898-1900, with the University of London 1906, at the Imperial College of Science 1910, D. Sc. London 1914, bacteriologist with the Thompson Yates Laboratory, University of Liverpool 1916, from then on continuing her bacteriological research. 
+**Abbreviated name**: *Berridge*
 
 #### Herbarium and types
 

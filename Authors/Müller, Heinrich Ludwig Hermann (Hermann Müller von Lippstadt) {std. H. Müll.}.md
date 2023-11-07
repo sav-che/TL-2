@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/item/104137#page/642/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33355713) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Heinrich Ludwig Hermann \["Hermann Müller von Lippstadt"\] (1829-1883), German bryologist, pollination biologist; studied at Erfurt and Berlin, examen profac. doc. Berlin 1852; from 1855-1883 high school teacher at Lippstadt; brother of Fritz Müller. (*H. Müll.*).
+Müller, Heinrich Ludwig Hermann \["Hermann Müller von Lippstadt"\] (1829-1883), German bryologist, pollination biologist; studied at Erfurt and Berlin, examen profac. doc. Berlin 1852; from 1855-1883 high school teacher at Lippstadt; brother of Fritz Müller. 
+**Abbreviated name**: *H. Müll.*
 
 #### Herbarium and types
 

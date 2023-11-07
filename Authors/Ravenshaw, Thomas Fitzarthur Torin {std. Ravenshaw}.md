@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/item/103624#page/613/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33190070) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ravenshaw, Thomas Fitzarthur Torin (1829-1882), British clergyman and botanist; Oriel Coll. Oxford MA 1854; curate at Ilfracombe, Devon, 1854-1856; rector of Pewsey Wilts. 1857-1880. (*Ravenshaw*).
+Ravenshaw, Thomas Fitzarthur Torin (1829-1882), British clergyman and botanist; Oriel Coll. Oxford MA 1854; curate at Ilfracombe, Devon, 1854-1856; rector of Pewsey Wilts. 1857-1880. 
+**Abbreviated name**: *Ravenshaw*
 
 #### Herbarium and types
 

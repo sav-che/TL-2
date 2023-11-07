@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/item/104077#page/510/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33333635) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Selby, Prideaux John (1788-1867), British naturalist; M.A. Durham 1839; high sheriff, Northumberland 1823; mainly devoting himself to ornithology, forestry and entomology. (*P. Selby*).
+Selby, Prideaux John (1788-1867), British naturalist; M.A. Durham 1839; high sheriff, Northumberland 1823; mainly devoting himself to ornithology, forestry and entomology. 
+**Abbreviated name**: *P. Selby*
 
 #### Herbarium and types
 

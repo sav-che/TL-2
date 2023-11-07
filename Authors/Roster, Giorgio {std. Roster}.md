@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/item/103624#page/924/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roster, Giorgio (x-1968), Italian botanist and horticulturist. (*Roster*).
+Roster, Giorgio (x-1968), Italian botanist and horticulturist. 
+**Abbreviated name**: *Roster*
 
 #### Herbarium and types
 

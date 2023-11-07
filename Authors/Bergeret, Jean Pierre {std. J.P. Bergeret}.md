@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103414#page/238/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33120321) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergeret, Jean Pierre (1751-1813), French botanist. (*J. P. Bergeret*).
+Bergeret, Jean Pierre (1751-1813), French botanist. 
+**Abbreviated name**: *J. P. Bergeret*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103414#page/472/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caldas, Francisco José de, (1768-1816), Spanish astronomer at Santa Fé de Bogotá, pupil of Mutis. (*Caldas*).
+Caldas, Francisco José de, (1768-1816), Spanish astronomer at Santa Fé de Bogotá, pupil of Mutis. 
+**Abbreviated name**: *Caldas*
 
 #### Herbarium and types
 

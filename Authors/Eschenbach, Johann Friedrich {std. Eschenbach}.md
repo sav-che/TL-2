@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/item/103414#page/848/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33120931) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eschenbach, Johann Friedrich {std. Eschenbach} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Eschenbach, Johann Friedrich (1757-x), German physician and botanist at Leipzig. (*Eschenbach*).
+Eschenbach, Johann Friedrich (1757-x), German physician and botanist at Leipzig. 
+**Abbreviated name**: *Eschenbach*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/item/104077#page/726/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Snyder, Leon Carlton (1908-x), American botanist; Dr. phil. Univ. Washington 1935; botanist at the University of Washington 1932-1935, with the University of Wyoming 1935-1936; instructor in botany S. Dakota State College 1936-1942, professor of horticulture ib. 1942-1976, professor of horticulture ib. 1942-1976; emeritus professor of horticulture from 1976. (*Snyder*).
+Snyder, Leon Carlton (1908-x), American botanist; Dr. phil. Univ. Washington 1935; botanist at the University of Washington 1932-1935, with the University of Wyoming 1935-1936; instructor in botany S. Dakota State College 1936-1942, professor of horticulture ib. 1942-1976, professor of horticulture ib. 1942-1976; emeritus professor of horticulture from 1976. 
+**Abbreviated name**: *Snyder*
 
 #### Herbarium and types
 

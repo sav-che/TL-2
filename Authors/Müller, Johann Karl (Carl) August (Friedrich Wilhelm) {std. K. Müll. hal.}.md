@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/item/104137#page/660/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33355731) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Johann Karl \[Carl\] August \[Friedrich Wilhelm\] (1818-1899), German bryologist at Halle; practicing pharmacist in various parts of Germany until 1843; from then on at Halle, associated with D. F. L. von Schlechtendal, but essentially a self-made scientist. (*K. Müll. hal.*).
+Müller, Johann Karl \[Carl\] August \[Friedrich Wilhelm\] (1818-1899), German bryologist at Halle; practicing pharmacist in various parts of Germany until 1843; from then on at Halle, associated with D. F. L. von Schlechtendal, but essentially a self-made scientist. 
+**Abbreviated name**: *K. Müll. hal.*
 
 #### Herbarium and types
 

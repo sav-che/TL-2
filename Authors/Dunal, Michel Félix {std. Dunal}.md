@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/item/103414#page/748/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33120831) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dunal, Michel-Félix {std. Dunal} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dunal, Michel Félix (1789-1856), French botanist at Montpellier. (*Dunal*).
+Dunal, Michel Félix (1789-1856), French botanist at Montpellier. 
+**Abbreviated name**: *Dunal*
 
 #### Herbarium and types
 

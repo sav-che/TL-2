@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/item/103833#page/247/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33259281) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Desvaux, Étienne-Émile (1830-1854), French botanist, born 8 Feb 1830 at Vendôme (Loir-et-Cher), went to school at Mondoubleau, went to a "college" 1843, baccalauréat ès lettres 1846, id. sciences 1847, licencié in natural sciences 1850, died at Mondoubleau 13 Mai 1854. (*É. Desv.*).
+Desvaux, Étienne-Émile (1830-1854), French botanist, born 8 Feb 1830 at Vendôme (Loir-et-Cher), went to school at Mondoubleau, went to a "college" 1843, baccalauréat ès lettres 1846, id. sciences 1847, licencié in natural sciences 1850, died at Mondoubleau 13 Mai 1854. 
+**Abbreviated name**: *É. Desv.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/item/103414#page/524/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33120607) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Čelakovský, Ladislav Josef {std. Čelak.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Čelakovský, Ladislav Josef (1834-1902), Czeck botanist at Praha, leader of the Bohemian morphological school bridging typological and evolutionary morphology. (*Čelak.*).
+Čelakovský, Ladislav Josef (1834-1902), Czeck botanist at Praha, leader of the Bohemian morphological school bridging typological and evolutionary morphology. 
+**Abbreviated name**: *Čelak.*
 
 #### Herbarium and types
 

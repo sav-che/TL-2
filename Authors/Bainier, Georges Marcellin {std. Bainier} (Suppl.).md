@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/103858#page/285/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265000) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bainier, Georges {std. Bainier}|first entry]] for this author
 
 ### Author
 
-\* Bainier, Georges Marcellin (1848-1920), French pharmacist, studied at the École supérieur de Paris, pharmacist first class 1882, in charge of the Mycothèque de l'École de pharmacie, working on micromycetes. (*Bainier*).
+\* Bainier, Georges Marcellin (1848-1920), French pharmacist, studied at the École supérieur de Paris, pharmacist first class 1882, in charge of the Mycothèque de l'École de pharmacie, working on micromycetes. 
+**Abbreviated name**: *Bainier*
 
 #### Herbarium and types
 

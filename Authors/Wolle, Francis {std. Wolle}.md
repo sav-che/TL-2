@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103250#page/485/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33066765) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolle, Francis (1817-1893), American botanist (algologist) and educator; did educational work in the Moravian church, teacher at Nazareth Hall and Bethlehem Pa.; vice-principal Young Ladies Seminary, Bethlehem, Pa., 1857, principal 1861-1881; in retirement continuing his algological work. (*Wolle*).
+Wolle, Francis (1817-1893), American botanist (algologist) and educator; did educational work in the Moravian church, teacher at Nazareth Hall and Bethlehem Pa.; vice-principal Young Ladies Seminary, Bethlehem, Pa., 1857, principal 1861-1881; in retirement continuing his algological work. 
+**Abbreviated name**: *Wolle*
 
 #### Herbarium and types
 

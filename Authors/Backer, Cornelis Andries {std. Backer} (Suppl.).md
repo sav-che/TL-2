@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/item/103858#page/250/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33264965) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Backer, Cornelis Andries {std. Backer}|first entry]] for this author
 
 ### Author
 
-\* Backer, Cornelis Andries (1874-1963), Dutch botanist, originally school teacher in the Netherlands, moved to the Dutch East Indies 1901, teacher at Weltevreden (h.t. part of Batavia/Djakarta), appointed botanist at the Herbarium of the Buitenzorg (Bogor) Botanical Gardens 1905, from 1914-1924 botanist for the Java flora; working at a weed flora at the Java Sugar Industry, Pasuruan, Java 1924-1931, from 1931 resident in the Netherlands (Heemstede) working on the flora of Java, Dr. h.c. University of Utrecht 1936. (*Backer*).
+\* Backer, Cornelis Andries (1874-1963), Dutch botanist, originally school teacher in the Netherlands, moved to the Dutch East Indies 1901, teacher at Weltevreden (h.t. part of Batavia/Djakarta), appointed botanist at the Herbarium of the Buitenzorg (Bogor) Botanical Gardens 1905, from 1914-1924 botanist for the Java flora; working at a weed flora at the Java Sugar Industry, Pasuruan, Java 1924-1931, from 1931 resident in the Netherlands (Heemstede) working on the flora of Java, Dr. h.c. University of Utrecht 1936. 
+**Abbreviated name**: *Backer*
 
 #### Herbarium and types
 

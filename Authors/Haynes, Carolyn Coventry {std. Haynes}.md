@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103253#page/140/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haynes, Carolyn Coventry (1858-1951), American hepaticologist at New York. (*Haynes*).
+Haynes, Carolyn Coventry (1858-1951), American hepaticologist at New York. 
+**Abbreviated name**: *Haynes*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103253#page/309/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33068525) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hooker, William Jackson (1785-1865), British botanist, professor of botany Glasgow 1820, director Royal Botanic Gardens, Kew, 1841-1865, travelled in Iceland 1809. (*Hook.*).
+Hooker, William Jackson (1785-1865), British botanist, professor of botany Glasgow 1820, director Royal Botanic Gardens, Kew, 1841-1865, travelled in Iceland 1809. 
+**Abbreviated name**: *Hook.*
 
 #### Herbarium and types
 

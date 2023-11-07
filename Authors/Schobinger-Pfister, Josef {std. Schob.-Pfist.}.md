@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/104077#page/299/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schobinger-Pfister, Josef (1810-1874), Swiss botanist, commercial gardener and private botany-teacher in Luzern. (*Schob.-Pfist.*).
+Schobinger-Pfister, Josef (1810-1874), Swiss botanist, commercial gardener and private botany-teacher in Luzern. 
+**Abbreviated name**: *Schob.-Pfist.*
 
 #### Herbarium and types
 

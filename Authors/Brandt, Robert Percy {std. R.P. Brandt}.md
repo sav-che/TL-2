@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103861#page/27/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33266324) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandt, Robert Percy (1887-1966), American botanist, studied at the University of California, Berkeley, B.S. 1912, M.S. 1913, Dr. phil. 1916. (*R.P. Brandt*).
+Brandt, Robert Percy (1887-1966), American botanist, studied at the University of California, Berkeley, B.S. 1912, M.S. 1913, Dr. phil. 1916. 
+**Abbreviated name**: *R.P. Brandt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/item/104077#page/789/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33333914) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sparrow, Frederick Kroeber, Jr. (1903-1977), American mycologist, specialist on aquatic phycomycetes; M.A. Harvard 1926; Dr. phil. 1929; instructor in evolution, Dartmouth College 1929; assistant professor of botany Univ. Michigan 1936, associate prof. 1949-1973; acting director (1967) and (from 1968) director of the University of Michigan Biological Station 1969-1973. (*Sparrow*).
+Sparrow, Frederick Kroeber, Jr. (1903-1977), American mycologist, specialist on aquatic phycomycetes; M.A. Harvard 1926; Dr. phil. 1929; instructor in evolution, Dartmouth College 1929; assistant professor of botany Univ. Michigan 1936, associate prof. 1949-1973; acting director (1967) and (from 1968) director of the University of Michigan Biological Station 1969-1973. 
+**Abbreviated name**: *Sparrow*
 
 #### Herbarium and types
 

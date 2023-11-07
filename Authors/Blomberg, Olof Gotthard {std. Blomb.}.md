@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/103859#page/231/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265418) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blomberg, Olof Gotthard (1838-1901), Swedish clergyman and lichenologist, studied theology at Uppsala 1858, priest 1861, vicar at Dunker and Lilla Malma from 1884, brother of C.A. Blomberg. (*Blomb.*).
+Blomberg, Olof Gotthard (1838-1901), Swedish clergyman and lichenologist, studied theology at Uppsala 1858, priest 1861, vicar at Dunker and Lilla Malma from 1884, brother of C.A. Blomberg. 
+**Abbreviated name**: *Blomb.*
 
 #### Herbarium and types
 

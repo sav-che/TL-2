@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/item/103683#page/720/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33212752) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Verhoeff, Carl \[Karl\] Wilhelm (1867-1944), German entomologist; studied insect-plant relationships; died of wounds received in an air raid on München, December 1944. (*Verhoeff*).
+Verhoeff, Carl \[Karl\] Wilhelm (1867-1944), German entomologist; studied insect-plant relationships; died of wounds received in an air raid on München, December 1944. 
+**Abbreviated name**: *Verhoeff*
 
 #### Herbarium and types
 

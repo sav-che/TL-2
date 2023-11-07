@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/item/103253#page/60/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33068276) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hamilton, Arthur (*fl*. 1832), Genevese botanist. (*A. Ham.*).
+Hamilton, Arthur (*fl*. 1832), Genevese botanist. 
+**Abbreviated name**: *A. Ham.*
 
 #### Herbarium and types
 

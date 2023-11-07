@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/item/104137#page/738/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33355809) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nelson, Aven (1859-1952), American botanist, plant collector and educator at the University of Wyoming, as professor of biology from 1887; founder of the Rocky Mountain herbarium (RM); Dr. phil. Denver 1904; president of the University of Wyoming 1917-1922. (*A. Nels.*).
+Nelson, Aven (1859-1952), American botanist, plant collector and educator at the University of Wyoming, as professor of biology from 1887; founder of the Rocky Mountain herbarium (RM); Dr. phil. Denver 1904; president of the University of Wyoming 1917-1922. 
+**Abbreviated name**: *A. Nels.*
 
 #### Herbarium and types
 

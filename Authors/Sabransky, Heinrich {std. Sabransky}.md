@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/item/103624#page/1037/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/page/33190494) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sabransky, Heinrich (1864-1915), Austrian botanist (batologist) and physician; born in Presburg (Bratislava); studied medicine in Wien; practicing physician at Tramin 1892; at Mayrhofen 1896; regional physician at Söchau (Steiermark), 1896-1915. (*Sabransky*).
+Sabransky, Heinrich (1864-1915), Austrian botanist (batologist) and physician; born in Presburg (Bratislava); studied medicine in Wien; practicing physician at Tramin 1892; at Mayrhofen 1896; regional physician at Söchau (Steiermark), 1896-1915. 
+**Abbreviated name**: *Sabransky*
 
 #### Herbarium and types
 

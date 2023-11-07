@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/item/103624#page/588/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33190045) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramsbottom, John (1885-1974), British botanist; BA Univ. of Cambridge 1909; at the Botany Department of the British Museum of natural History, from 1910 as mycologist, from 1928 as deputy keeper, from 1930-1951 as keeper; general secretary of British mycological Society 1921-1945; editor of the Transactions 1919-1942; president of the Linnean Society of London 1938-1941. (*Ramsb.*).
+Ramsbottom, John (1885-1974), British botanist; BA Univ. of Cambridge 1909; at the Botany Department of the British Museum of natural History, from 1910 as mycologist, from 1928 as deputy keeper, from 1930-1951 as keeper; general secretary of British mycological Society 1921-1945; editor of the Transactions 1919-1942; president of the Linnean Society of London 1938-1941. 
+**Abbreviated name**: *Ramsb.*
 
 #### Herbarium and types
 

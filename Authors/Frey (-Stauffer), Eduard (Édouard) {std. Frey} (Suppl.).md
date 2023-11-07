@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103832#page/14/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33258524) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Frey, Eduard (-Stauffer) {std. Frey}|first entry]] for this author
 
 ### Author
 
-\* Frey \[-Stauffer\], Eduard \[Édouard\] (1888-1974), Swiss biology teacher and lichenologist, born 3 Nov 1888 in Meiringen (Oberhaslital) where he grew up, taught at a primary school 1909-1911 and a girls' school in Bern 1914-1939, Dr. Sci. Nat. 1922, taught biology at a teachers' college 1939-1956, died 23 Apr 1974 in Langenthal (Kt. Bern), "the grand old man of European lichenology..." (*teste* Almborn, 1971). (*Frey*).
+\* Frey \[-Stauffer\], Eduard \[Édouard\] (1888-1974), Swiss biology teacher and lichenologist, born 3 Nov 1888 in Meiringen (Oberhaslital) where he grew up, taught at a primary school 1909-1911 and a girls' school in Bern 1914-1939, Dr. Sci. Nat. 1922, taught biology at a teachers' college 1939-1956, died 23 Apr 1974 in Langenthal (Kt. Bern), "the grand old man of European lichenology..." (*teste* Almborn, 1971). 
+**Abbreviated name**: *Frey*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/104137#page/326/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33355397) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marshall, \[Caroline\] Nina Lovering (1861-1921), American mycologist. (*N. Marsh.*).
+Marshall, \[Caroline\] Nina Lovering (1861-1921), American mycologist. 
+**Abbreviated name**: *N. Marsh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/104137#page/311/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33355382) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marion, Antoine-Fortuné (1846-1900), French zoologist and palaeobotanist at Marseille. (*Marion*).
+Marion, Antoine-Fortuné (1846-1900), French zoologist and palaeobotanist at Marseille. 
+**Abbreviated name**: *Marion*
 
 #### Herbarium and types
 

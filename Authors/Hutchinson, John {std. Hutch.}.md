@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/103253#page/404/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33068620) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hutchinson, John (1884-1972), British self-taught botanist; at Kew 1904 as a gardener, soon afterwards at the herbarium; keeper of the museums 1936-1948; in retirement still fully active at Kew and developing towards macrosystematics. (*Hutch.*).
+Hutchinson, John (1884-1972), British self-taught botanist; at Kew 1904 as a gardener, soon afterwards at the herbarium; keeper of the museums 1936-1948; in retirement still fully active at Kew and developing towards macrosystematics. 
+**Abbreviated name**: *Hutch.*
 
 #### Herbarium and types
 

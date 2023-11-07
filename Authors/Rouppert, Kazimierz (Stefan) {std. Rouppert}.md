@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/item/103624#page/952/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rouppert, Kazimierz (Stefan) (1885-1963), Polish botanist; Dr. phil. Krakow 1909; professor of botany at Krakow until 1939; at the Treub Laboratory Buitenzorg (Bogor), Java 1926; from 1939 at the University of Budapest. (*Rouppert*).
+Rouppert, Kazimierz (Stefan) (1885-1963), Polish botanist; Dr. phil. Krakow 1909; professor of botany at Krakow until 1939; at the Treub Laboratory Buitenzorg (Bogor), Java 1926; from 1939 at the University of Budapest. 
+**Abbreviated name**: *Rouppert*
 
 #### Herbarium and types
 

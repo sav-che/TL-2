@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103835#page/241/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33260219) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eames, Edwin Hubert (1865-1948), American amateur botanist, born 9 Jul 1865, Brooklyn, N.Y., plant collector in Connecticut, New Jersey, and Newfoundland, died 1948. (*Eames*).
+Eames, Edwin Hubert (1865-1948), American amateur botanist, born 9 Jul 1865, Brooklyn, N.Y., plant collector in Connecticut, New Jersey, and Newfoundland, died 1948. 
+**Abbreviated name**: *Eames*
 
 #### Herbarium and types
 

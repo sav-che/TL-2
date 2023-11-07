@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103832#page/217/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33258683) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gilbert, Benjamin Davis (1835-1907), American amateur botanist interested in ferns, born 21 Nov 1835 in Albany, New York, A.B. 1857 Hamilton College, Clinton, New York, book trade 1860-1876, Utica, New York, literary and agricultural editor 1877-1888, Utica Morning Herald \[newspaper\], secretary 1892-1897, New York State Dairymen's Association, died 3 Jun 1907 in Clayville, New York. (*B.D. Gilbert*).
+Gilbert, Benjamin Davis (1835-1907), American amateur botanist interested in ferns, born 21 Nov 1835 in Albany, New York, A.B. 1857 Hamilton College, Clinton, New York, book trade 1860-1876, Utica, New York, literary and agricultural editor 1877-1888, Utica Morning Herald \[newspaper\], secretary 1892-1897, New York State Dairymen's Association, died 3 Jun 1907 in Clayville, New York. 
+**Abbreviated name**: *B.D. Gilbert*
 
 #### Herbarium and types
 

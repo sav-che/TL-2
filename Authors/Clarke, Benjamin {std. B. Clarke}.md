@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/item/103414#page/554/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33120637) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clarke, Benjamin (1813-1890), British botanist. (*B. Clarke*).
+Clarke, Benjamin (1813-1890), British botanist. 
+**Abbreviated name**: *B. Clarke*
 
 #### Herbarium and types
 

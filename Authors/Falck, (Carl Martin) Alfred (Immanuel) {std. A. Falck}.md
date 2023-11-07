@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103834#page/46/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259528) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Falck, \[Carl Martin\] Alfred \[Immanuel\] (1844-1871), Swedish botanist, born 30 Oct 1844 in Gladsax (Skåne), started his studies at Lund 1860, Dr. Sci. 1868, died 3 Jan 1871 in Lund after a severe illness. (*A. Falck*).
+Falck, \[Carl Martin\] Alfred \[Immanuel\] (1844-1871), Swedish botanist, born 30 Oct 1844 in Gladsax (Skåne), started his studies at Lund 1860, Dr. Sci. 1868, died 3 Jan 1871 in Lund after a severe illness. 
+**Abbreviated name**: *A. Falck*
 
 #### Herbarium and types
 

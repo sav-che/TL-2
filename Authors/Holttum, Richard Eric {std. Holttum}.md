@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103253#page/289/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33068505) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holttum, Richard Eric (1895-x), British botanist; on the Malay Peninsula 1921-1954; part of this period director of the Singapore botanical Garden; specialist on ferns and on the flora of the Malay Peninsula. (*Holttum*).
+Holttum, Richard Eric (1895-x), British botanist; on the Malay Peninsula 1921-1954; part of this period director of the Singapore botanical Garden; specialist on ferns and on the flora of the Malay Peninsula. 
+**Abbreviated name**: *Holttum*
 
 #### Herbarium and types
 

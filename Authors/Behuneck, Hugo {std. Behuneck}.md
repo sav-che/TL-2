@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103859#page/64/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33265251) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Behuneck, Hugo (1849-?), German (Schlesien) botanist, educated at the St. Martha Magdalena Gymnasium, Breslau until 1896, studied at the University of Breslau 1869-1873, assistant ib. 1873-1875, teacher at the Gymnasium in Ratibor 1875-1876, id. at the St. Johann Realschule, Danzig 1876-1878, Dr. phil. Kiel 1879. (*Behuneck*).
+Behuneck, Hugo (1849-?), German (Schlesien) botanist, educated at the St. Martha Magdalena Gymnasium, Breslau until 1896, studied at the University of Breslau 1869-1873, assistant ib. 1873-1875, teacher at the Gymnasium in Ratibor 1875-1876, id. at the St. Johann Realschule, Danzig 1876-1878, Dr. phil. Kiel 1879. 
+**Abbreviated name**: *Behuneck*
 
 #### Herbarium and types
 

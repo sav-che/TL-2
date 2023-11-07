@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/item/103624#page/820/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33190277) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rivinus, August \[Augustus\] Quirinus \[Bachmann\] (1652-1723), German (Saxonian) botanist and physician; Dr.med. Helmstedt 1676, Dr. med. Leipzig 1677; practicing physician at Leipzig 1677-1688; assessor at the Leipzig medical faculty 1688, professor for physiology and botany 1691; ordinary professor of botany 1701; professor of therapy and botany 1719. (*Riv.*).
+Rivinus, August \[Augustus\] Quirinus \[Bachmann\] (1652-1723), German (Saxonian) botanist and physician; Dr.med. Helmstedt 1676, Dr. med. Leipzig 1677; practicing physician at Leipzig 1677-1688; assessor at the Leipzig medical faculty 1688, professor for physiology and botany 1691; ordinary professor of botany 1701; professor of therapy and botany 1719. 
+**Abbreviated name**: *Riv.*
 
 #### Herbarium and types
 

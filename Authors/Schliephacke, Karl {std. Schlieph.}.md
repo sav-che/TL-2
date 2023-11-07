@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/104077#page/237/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33333362) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schliephacke, Karl (1834-1913), German (Saxonian) botanist (bryologist); studied pharmacy in the Löwenapotheke in Halle, associated with K. Müller hal.; founded various factories in the brown coal and mineral oil industry in Saxony; from 1873-1898 industrialist at Waldau nr Osterfeld (Thüringen); in retirement at Naumburg a.d. Saale and Blasewitz nr Dresden. (*Schlieph.*).
+Schliephacke, Karl (1834-1913), German (Saxonian) botanist (bryologist); studied pharmacy in the Löwenapotheke in Halle, associated with K. Müller hal.; founded various factories in the brown coal and mineral oil industry in Saxony; from 1873-1898 industrialist at Waldau nr Osterfeld (Thüringen); in retirement at Naumburg a.d. Saale and Blasewitz nr Dresden. 
+**Abbreviated name**: *Schlieph.*
 
 #### Herbarium and types
 

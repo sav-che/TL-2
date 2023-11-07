@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103250#page/69/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33066311) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wagner, D. (1800-?), Austro-Hungarian pharmacist and botanist; Dr. chem. Wien 1825; pharmacist in Pressburg (Bratislava) subsequently in Pesth (Budapest) until 1864. (*D. Wagner*).
+Wagner, D. (1800-?), Austro-Hungarian pharmacist and botanist; Dr. chem. Wien 1825; pharmacist in Pressburg (Bratislava) subsequently in Pesth (Budapest) until 1864. 
+**Abbreviated name**: *D. Wagner*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/104137#page/192/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33355263) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lowe, Edward Joseph (1825-1900), British botanist and meteorologist of independent means at Shirenewton Hall, near Chepstow; "passionately devoted to raising varieties of ferns from spores", prolific author during the Victorian fern craze. (*E. J. Lowe*).
+Lowe, Edward Joseph (1825-1900), British botanist and meteorologist of independent means at Shirenewton Hall, near Chepstow; "passionately devoted to raising varieties of ferns from spores", prolific author during the Victorian fern craze. 
+**Abbreviated name**: *E. J. Lowe*
 
 #### Herbarium and types
 

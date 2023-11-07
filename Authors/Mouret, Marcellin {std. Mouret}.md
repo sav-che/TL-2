@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/item/104137#page/625/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33355696) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mouret, Marcellin (1881-1915), French soldier and botanist; in the 3rd colonial infantry in Martinique, Tonkin and Marocco; died at Argonne on the battle fields of World War I. (*Mouret*).
+Mouret, Marcellin (1881-1915), French soldier and botanist; in the 3rd colonial infantry in Martinique, Tonkin and Marocco; died at Argonne on the battle fields of World War I. 
+**Abbreviated name**: *Mouret*
 
 #### Herbarium and types
 

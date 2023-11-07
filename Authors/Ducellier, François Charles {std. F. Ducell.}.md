@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103835#page/135/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33260113) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ducellier, François Charles (1866-1940), Swiss physician and botanist, born at Carouge, Genève, 17 Jun 1866, studied first medicine in Genève, later in Paris (1887-1893), returned to Genève and practised there, retired from his practise during WW I and devoted himself from that time to the study of Desmidiaceae, died 24 Feb 1940 at Genève. (*F. Ducell.*).
+Ducellier, François Charles (1866-1940), Swiss physician and botanist, born at Carouge, Genève, 17 Jun 1866, studied first medicine in Genève, later in Paris (1887-1893), returned to Genève and practised there, retired from his practise during WW I and devoted himself from that time to the study of Desmidiaceae, died 24 Feb 1940 at Genève. 
+**Abbreviated name**: *F. Ducell.*
 
 #### Herbarium and types
 

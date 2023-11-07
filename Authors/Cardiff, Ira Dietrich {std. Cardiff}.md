@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103861#page/410/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33266707) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cardiff, Ira Dietrich (1873-?), American botanist, born at Lafayette, Illinois, studied at Knox College, Illinois B.S. 1897, at Chicago University 1899-1904, at the New York Botanical Garden 1904-1906, Ph.D. Columbia University 1906, assistant professor of botany at University of Utah 1906-1907, full professor ib. 1907-1908, professor of botany at Washington College 1908-1912, professor of plant physiology at Washington State College at Pullmann 1912. (*Cardiff*).
+Cardiff, Ira Dietrich (1873-?), American botanist, born at Lafayette, Illinois, studied at Knox College, Illinois B.S. 1897, at Chicago University 1899-1904, at the New York Botanical Garden 1904-1906, Ph.D. Columbia University 1906, assistant professor of botany at University of Utah 1906-1907, full professor ib. 1907-1908, professor of botany at Washington College 1908-1912, professor of plant physiology at Washington State College at Pullmann 1912. 
+**Abbreviated name**: *Cardiff*
 
 #### Herbarium and types
 

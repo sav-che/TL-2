@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103253#page/477/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33068693) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnston, Robert Mackenzie (1844-1918), Scottish palaeobotanist; to Victoria 1870; from 1882 registrar-general and government statistician of Tasmania. (*R. Johnst.*).
+Johnston, Robert Mackenzie (1844-1918), Scottish palaeobotanist; to Victoria 1870; from 1882 registrar-general and government statistician of Tasmania. 
+**Abbreviated name**: *R. Johnst.*
 
 #### Herbarium and types
 

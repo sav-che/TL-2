@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103861#page/299/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33266596) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buxbaum, Franz (1900-1979), Austrian botanist, specialist of the Cactaceae and Liliaceae, born at Liebenau near Graz, educated at a "Volksschule" and a "Staatsgymnasium" at Graz, on active duty 1918, studied botany at the University of Graz with K. Fritsch, Dr. phil. ib. 10 Oct 1922, assistant with R. v. Wettstein at the Botanical Institute of the University of Vienna 1923-1926, travelled in Tunesia 1924, unemployed 1926-1930, studied again at Graz for the teaching profession, teacher at the Bundesrealgymnasium Fürstenfeld 1930, "Habilitation" 1937, on active duty 1939-1945, professor at the Bundesrealschule Judenburg 1949, venia docendi for systematic botany University Graz 1954-1968, privately active on his work on Cactaceae 1968-1979. (*Buxb.*).
+Buxbaum, Franz (1900-1979), Austrian botanist, specialist of the Cactaceae and Liliaceae, born at Liebenau near Graz, educated at a "Volksschule" and a "Staatsgymnasium" at Graz, on active duty 1918, studied botany at the University of Graz with K. Fritsch, Dr. phil. ib. 10 Oct 1922, assistant with R. v. Wettstein at the Botanical Institute of the University of Vienna 1923-1926, travelled in Tunesia 1924, unemployed 1926-1930, studied again at Graz for the teaching profession, teacher at the Bundesrealgymnasium Fürstenfeld 1930, "Habilitation" 1937, on active duty 1939-1945, professor at the Bundesrealschule Judenburg 1949, venia docendi for systematic botany University Graz 1954-1968, privately active on his work on Cactaceae 1968-1979. 
+**Abbreviated name**: *Buxb.*
 
 #### Herbarium and types
 

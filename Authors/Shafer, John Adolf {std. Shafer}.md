@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/104077#page/562/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shafer, John Adolf (1863-1918), American botanist, pharmacist and plant collector; Dr. pharm. h.c. Univ. W. Pennsylvania 1904; curator of botany Carnegie Museum, Pittsburgh 1897-1903; collected in Cuba with N.L. Britton 1903; museum custodian New York Botanical Garden 1904-1910; collected in Montserrat 1907 and Cuba 1909, 1910, 1911, 1912; with Britton in the West Indies 1913, at Vieques (Puerto Rico) 1914; collecting Cactaceae for Britton and Rose in South America 1916-1917. (*Shafer*).
+Shafer, John Adolf (1863-1918), American botanist, pharmacist and plant collector; Dr. pharm. h.c. Univ. W. Pennsylvania 1904; curator of botany Carnegie Museum, Pittsburgh 1897-1903; collected in Cuba with N.L. Britton 1903; museum custodian New York Botanical Garden 1904-1910; collected in Montserrat 1907 and Cuba 1909, 1910, 1911, 1912; with Britton in the West Indies 1913, at Vieques (Puerto Rico) 1914; collecting Cactaceae for Britton and Rose in South America 1916-1917. 
+**Abbreviated name**: *Shafer*
 
 #### Herbarium and types
 

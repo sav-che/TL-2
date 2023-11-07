@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/item/103414#page/869/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33120952) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Feer, Heinrich (Henri) {std. Feer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Feer, Heinrich (Henri) (1857-1892), Swiss botanist. (*Feer*).
+Feer, Heinrich (Henri) (1857-1892), Swiss botanist. 
+**Abbreviated name**: *Feer*
 
 #### Herbarium and types
 

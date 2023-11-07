@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103250#page/386/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33066666) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williams, Thomas Albert (1865-1900), American agricultural botanist and lichenologist; professor of botany at the South Dakota Agricultural College at Brookings 1896; assistant chief of the Division of Agrostology, U.S.D.A., Washington D.C. 1896-1900. (*T.A. Williams*).
+Williams, Thomas Albert (1865-1900), American agricultural botanist and lichenologist; professor of botany at the South Dakota Agricultural College at Brookings 1896; assistant chief of the Division of Agrostology, U.S.D.A., Washington D.C. 1896-1900. 
+**Abbreviated name**: *T.A. Williams*
 
 #### Herbarium and types
 

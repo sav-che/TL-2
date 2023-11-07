@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/item/104077#page/627/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33333752) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sinclair, George (1786-1834), British gardener and botanist; with the Duke of Bedford at Woburn Abbey 1803-ca. 1824; from 1824 partner in Messrs Cormack and Son, nurserymen and seedsmen at New Cross, Kent. (*Sinclair*).
+Sinclair, George (1786-1834), British gardener and botanist; with the Duke of Bedford at Woburn Abbey 1803-ca. 1824; from 1824 partner in Messrs Cormack and Son, nurserymen and seedsmen at New Cross, Kent. 
+**Abbreviated name**: *Sinclair*
 
 #### Herbarium and types
 

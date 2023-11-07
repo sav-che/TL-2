@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103859#page/342/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265529) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bordère, Henri (1825-1889), French school teacher and botanist at Gèdre nr. Luz, Hautes Pyrenées, distributed series of exsiccatae of Pyrenean plants. (*Bordère*).
+Bordère, Henri (1825-1889), French school teacher and botanist at Gèdre nr. Luz, Hautes Pyrenées, distributed series of exsiccatae of Pyrenean plants. 
+**Abbreviated name**: *Bordère*
 
 #### Herbarium and types
 

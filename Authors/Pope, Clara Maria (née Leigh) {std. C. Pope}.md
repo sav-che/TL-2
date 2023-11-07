@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103624#page/351/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pope, Clara Maria (née Leigh) (*fl*. 1760s-1838), British flower painter, wife of the actor Alexander Pope (Francis Wheatley). (*C. Pope*).
+Pope, Clara Maria (née Leigh) (*fl*. 1760s-1838), British flower painter, wife of the actor Alexander Pope (Francis Wheatley). 
+**Abbreviated name**: *C. Pope*
 
 #### Herbarium and types
 

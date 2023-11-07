@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/item/103624#page/1015/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33190472) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Russ, Georg Philipp (*fl*. 1868), German botanist; high school teacher at Hanau. (*Russ*).
+Russ, Georg Philipp (*fl*. 1868), German botanist; high school teacher at Hanau. 
+**Abbreviated name**: *Russ*
 
 #### Herbarium and types
 

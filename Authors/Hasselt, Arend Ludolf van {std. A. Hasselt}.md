@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103253#page/120/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33068336) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hasselt, Arend Ludolf van (1848-1909), Dutch soldier and later civil administrator on Java and Sumatra, leader of the Central Sumatra Expedition of 1877-1879. (*A. Hasselt*).
+Hasselt, Arend Ludolf van (1848-1909), Dutch soldier and later civil administrator on Java and Sumatra, leader of the Central Sumatra Expedition of 1877-1879. 
+**Abbreviated name**: *A. Hasselt*
 
 #### Herbarium and types
 

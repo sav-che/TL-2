@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 935](https://www.biodiversitylibrary.org/item/103414#page/983/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 935](https://www.biodiversitylibrary.org/page/33121066) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gerhardt, Julius (1827-x), German highschool teacher and cryptogamist at Liegnitz. (*Gerhardt*).
+Gerhardt, Julius (1827-x), German highschool teacher and cryptogamist at Liegnitz. 
+**Abbreviated name**: *Gerhardt*
 
 #### Herbarium and types
 

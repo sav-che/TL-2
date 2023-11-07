@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/104137#page/56/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33355089) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindemann, Eduard Emanuilovitch von (1825-1900), Russian botanist at Elisabethgrad (Cherson), son of Emanuel von Lindemann, studied natural sciences and medicine at St. Petersburg 1841-1847; military surgeon in the Russian army from 1848; Dr. phil. h.c. Odessa 1877. (*Lindem.*).
+Lindemann, Eduard Emanuilovitch von (1825-1900), Russian botanist at Elisabethgrad (Cherson), son of Emanuel von Lindemann, studied natural sciences and medicine at St. Petersburg 1841-1847; military surgeon in the Russian army from 1848; Dr. phil. h.c. Odessa 1877. 
+**Abbreviated name**: *Lindem.*
 
 #### Herbarium and types [^1]
 

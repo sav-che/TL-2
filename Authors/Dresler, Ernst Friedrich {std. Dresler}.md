@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103835#page/104/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33260082) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dresler, Ernst Friedrich (1824-x), German botanist, teacher at gymnasium in Löwenberg (Silesia) until 1891, collected from 1865 in the surroundings of this town, especially in the Iser- and Riesengebirge, exchanged herbarium specimens. (*Dresler*).
+Dresler, Ernst Friedrich (1824-x), German botanist, teacher at gymnasium in Löwenberg (Silesia) until 1891, collected from 1865 in the surroundings of this town, especially in the Iser- and Riesengebirge, exchanged herbarium specimens. 
+**Abbreviated name**: *Dresler*
 
 #### Herbarium and types
 

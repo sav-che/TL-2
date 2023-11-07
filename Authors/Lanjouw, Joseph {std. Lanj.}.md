@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/item/103253#page/779/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33068995) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lanjouw, Joseph (1902-x), Dutch botanist at Utrecht; founder, with Pulle, of the Utrecht School ofplant taxonomy; professor of botany at Utrecht 1949-1972; rapporteur-général for botanical nomenclature 1948-1964; founder of the International Association for Plant Taxonomy. (*Lanj.*).
+Lanjouw, Joseph (1902-x), Dutch botanist at Utrecht; founder, with Pulle, of the Utrecht School ofplant taxonomy; professor of botany at Utrecht 1949-1972; rapporteur-général for botanical nomenclature 1948-1964; founder of the International Association for Plant Taxonomy. 
+**Abbreviated name**: *Lanj.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/item/103253#page/582/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33068798) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kittel, Baldwin Martin (1798-1885), German naturalist; from 1834-1869 Rector of the Landwirthschafts- und Gewerbsschule zu Aschaffenburg. (*Kitt.*).
+Kittel, Baldwin Martin (1798-1885), German naturalist; from 1834-1869 Rector of the Landwirthschafts- und Gewerbsschule zu Aschaffenburg. 
+**Abbreviated name**: *Kitt.*
 
 #### Herbarium and types
 

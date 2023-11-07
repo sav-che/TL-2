@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103414#page/173/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33120256) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bartlett, Harley Harris (1886-1960), American botanist at the University of Michigan, Ann Arbor. (*H. H. Bartlett*).
+Bartlett, Harley Harris (1886-1960), American botanist at the University of Michigan, Ann Arbor. 
+**Abbreviated name**: *H. H. Bartlett*
 
 #### Herbarium and types
 

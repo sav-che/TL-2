@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/item/103624#page/1018/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33190475) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Russell, John Lewis (1808-1873), American botanist; Unitarian clergyman and botanist at Salem, Mass.; A.B. Harvard 1828, A.M. id. 1836; Div. school id. 1831; vicar at Chelmsford, Hingham, Brattleboro, Kennebunk (Mass.); from 1853 again at Salem devoting himself to cryptogamic botany and writing of popular articles on natural history in addition to occasional preaching. (*J.L. Russell*).
+Russell, John Lewis (1808-1873), American botanist; Unitarian clergyman and botanist at Salem, Mass.; A.B. Harvard 1828, A.M. id. 1836; Div. school id. 1831; vicar at Chelmsford, Hingham, Brattleboro, Kennebunk (Mass.); from 1853 again at Salem devoting himself to cryptogamic botany and writing of popular articles on natural history in addition to occasional preaching. 
+**Abbreviated name**: *J.L. Russell*
 
 #### Herbarium and types
 

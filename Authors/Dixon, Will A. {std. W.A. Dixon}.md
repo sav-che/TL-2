@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/item/103833#page/387/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33259421) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dixon, Will A. (fl. 1906-1918), Australian botanist at the Botanical Garden of Sydney, N.S.W. (*W.A. Dixon*).
+Dixon, Will A. (fl. 1906-1918), Australian botanist at the Botanical Garden of Sydney, N.S.W. 
+**Abbreviated name**: *W.A. Dixon*
 
 #### Herbarium and types
 

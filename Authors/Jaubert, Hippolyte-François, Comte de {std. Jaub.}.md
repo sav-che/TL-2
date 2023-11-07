@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/item/103253#page/453/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33068669) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaubert, Hippolyte-François, Comte de (1798-1874), French politician and botanist, one of the founders of the Société botanique de France, pupil of Desfontaines, Mirbel, and of Laugier, member of the Chambre des députés and minister of public works 1831-1842. (*Jaub.*).
+Jaubert, Hippolyte-François, Comte de (1798-1874), French politician and botanist, one of the founders of the Société botanique de France, pupil of Desfontaines, Mirbel, and of Laugier, member of the Chambre des députés and minister of public works 1831-1842. 
+**Abbreviated name**: *Jaub.*
 
 #### Herbarium and types
 

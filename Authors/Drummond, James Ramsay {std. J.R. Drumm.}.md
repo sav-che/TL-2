@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/item/103414#page/732/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33120815) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drummond, James Ramsay {std. J.R. Drumm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Drummond, James Ramsay (1851-1921), British botanist and collector, in India 1874-1904, later at Kew, nephew of James and Thomas Drummond. (*J. R. Drumm.*).
+Drummond, James Ramsay (1851-1921), British botanist and collector, in India 1874-1904, later at Kew, nephew of James and Thomas Drummond. 
+**Abbreviated name**: *J. R. Drumm.*
 
 #### Herbarium and types
 

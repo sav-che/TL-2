@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103834#page/238/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259720) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fischer, (Emanuel Friedrich) Ludwig {std. L. Fisch.}|first entry]] for this author
 
 ### Author
 
-\* Fischer, \[Emmanuel Friedrich\] Ludwig \[Louis\] (1828-1907), Swiss pharmacist and botanist, born 31 Jan 1828 in Bern, attended the Realschule, Bern 1838-1844, then "Hochschule" 1845-1846 where he studied chemistry and botany, but ultimately chose pharmacy and worked from 1846-1849 in pharmacies in Besigheim (Germany) and Bern, studied pharmacy in Geneva 1849-1850, visited M.J. Schleiden in Jena 1851, stayed in Berlin and Zürich for some time, Dr. phil. 1852, docent in Bern and then prof. 1863-1897 (replaced by his son, Ludwig Eduard Fischer, 1861-1939), died 21 Mai 1907. (*L. Fisch.*).
+\* Fischer, \[Emmanuel Friedrich\] Ludwig \[Louis\] (1828-1907), Swiss pharmacist and botanist, born 31 Jan 1828 in Bern, attended the Realschule, Bern 1838-1844, then "Hochschule" 1845-1846 where he studied chemistry and botany, but ultimately chose pharmacy and worked from 1846-1849 in pharmacies in Besigheim (Germany) and Bern, studied pharmacy in Geneva 1849-1850, visited M.J. Schleiden in Jena 1851, stayed in Berlin and Zürich for some time, Dr. phil. 1852, docent in Bern and then prof. 1863-1897 (replaced by his son, Ludwig Eduard Fischer, 1861-1939), died 21 Mai 1907. 
+**Abbreviated name**: *L. Fisch.*
 
 #### Herbarium and types
 

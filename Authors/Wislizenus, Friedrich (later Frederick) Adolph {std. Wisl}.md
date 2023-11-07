@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103250#page/451/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33066731) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wislizenus, Friedrich \[later: Frederick\] Adolph (1810-1889), German-born (Schwarzburg-Rudolstadt/Thuringian) American traveller, physician and author; studied natural sciences at Jena, Göttingen, Zürich and Paris; to the United States in 1835; settling as country physician at Mascoutah, Illinois; travelled in the Middle West 1839; settling as physician in partnership with Georg Engelmann in St. Louis 1839; travelled to Northern Mexico and the Gulf region 1846-1847; from 1850-1852 in Europe and California, again in St. Louis from 1852. (*Wisl*).
+Wislizenus, Friedrich \[later: Frederick\] Adolph (1810-1889), German-born (Schwarzburg-Rudolstadt/Thuringian) American traveller, physician and author; studied natural sciences at Jena, Göttingen, Zürich and Paris; to the United States in 1835; settling as country physician at Mascoutah, Illinois; travelled in the Middle West 1839; settling as physician in partnership with Georg Engelmann in St. Louis 1839; travelled to Northern Mexico and the Gulf region 1846-1847; from 1850-1852 in Europe and California, again in St. Louis from 1852. 
+**Abbreviated name**: *Wisl*
 
 #### Herbarium and types
 

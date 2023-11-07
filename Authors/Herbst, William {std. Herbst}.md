@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103253#page/193/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33068409) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herbst, William (1833-1907), American physician and mycologist; M. D. Jefferson medical college 1855; practicing physician at Trexlertown, Lehigh Co., Pa., later also lectured at Muhlenberg College, Pa. (*Herbst*).
+Herbst, William (1833-1907), American physician and mycologist; M. D. Jefferson medical college 1855; practicing physician at Trexlertown, Lehigh Co., Pa., later also lectured at Muhlenberg College, Pa. 
+**Abbreviated name**: *Herbst*
 
 #### Herbarium and types
 

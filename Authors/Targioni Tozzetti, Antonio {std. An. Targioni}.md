@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103683#page/177/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33212209) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Targioni Tozzetti, Antonio (1785-1856), Italian botanist; professor of botany and materia medica at the S. Maria hospital of Firenze; also professor of chemistry at the Academy of fine arts and director of the medical garden; son of O. Targioni Tozzetti, uncle of Adolfo T.T. (*An. Targioni*).
+Targioni Tozzetti, Antonio (1785-1856), Italian botanist; professor of botany and materia medica at the S. Maria hospital of Firenze; also professor of chemistry at the Academy of fine arts and director of the medical garden; son of O. Targioni Tozzetti, uncle of Adolfo T.T. 
+**Abbreviated name**: *An. Targioni*
 
 #### Herbarium and types
 

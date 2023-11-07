@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/item/103253#page/185/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33068401) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henrard, Jan Theodor (1881-1974), Dutch agrostologist and malacologist; studied pharmacy at Groningen (1901-1906) under Eykman; practicing pharmacist at Gorinchem 1909-1915, at the Hague 1915-1922; from 1921-1946 curator of the Rijksherbarium at Leiden, Dr. phil. (plant taxonomy) Utrecht 1929 under Pulle. (*Henr.*).
+Henrard, Jan Theodor (1881-1974), Dutch agrostologist and malacologist; studied pharmacy at Groningen (1901-1906) under Eykman; practicing pharmacist at Gorinchem 1909-1915, at the Hague 1915-1922; from 1921-1946 curator of the Rijksherbarium at Leiden, Dr. phil. (plant taxonomy) Utrecht 1929 under Pulle. 
+**Abbreviated name**: *Henr.*
 
 #### Herbarium and types
 

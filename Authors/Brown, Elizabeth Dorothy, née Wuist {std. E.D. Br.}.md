@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/item/103861#page/143/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, Elizabeth Dorothy, née Wuist (1880-?), American botanist, born at Dayton, Ohio, married Forest Buffen Harkness Brown, studied at the University of Michigan, Ph.D. 1912. (*E.D. Br.*).
+Brown, Elizabeth Dorothy, née Wuist (1880-?), American botanist, born at Dayton, Ohio, married Forest Buffen Harkness Brown, studied at the University of Michigan, Ph.D. 1912. 
+**Abbreviated name**: *E.D. Br.*
 
 #### Herbarium and types
 

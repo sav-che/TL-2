@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/104137#page/706/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nannizzi, Arturo (1877-1961), Italian botanist; lecturer in mycology at the University of Siena; from 1935 also director of the Siena botanical garden. (*Nann.*).
+Nannizzi, Arturo (1877-1961), Italian botanist; lecturer in mycology at the University of Siena; from 1935 also director of the Siena botanical garden. 
+**Abbreviated name**: *Nann.*
 
 #### Herbarium and types
 

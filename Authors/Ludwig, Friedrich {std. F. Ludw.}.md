@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/104137#page/200/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33355271) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ludwig, Friedrich (1851-1918), German botanist; from 1875 teacher at the gymnasium of Greiz (*F. Ludw.*).
+Ludwig, Friedrich (1851-1918), German botanist; from 1875 teacher at the gymnasium of Greiz 
+**Abbreviated name**: *F. Ludw.*
 
 #### Herbarium and types
 

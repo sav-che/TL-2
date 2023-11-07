@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/item/103624#page/873/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33190330) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rogers, Julia Ellen (1866-?), American author of popular books on trees; studied at Iowa State University and Cornell Univ., M.S. Cornell 1902; high school teacher in Des Moines 1881-1887, and Cedar Rapids, Iowa, 1892-1900; from 1903 lecturer in civic improvement and nature subjects, residing in New Jersey, later in Long Beach, California. (*J.E. Rogers*).
+Rogers, Julia Ellen (1866-?), American author of popular books on trees; studied at Iowa State University and Cornell Univ., M.S. Cornell 1902; high school teacher in Des Moines 1881-1887, and Cedar Rapids, Iowa, 1892-1900; from 1903 lecturer in civic improvement and nature subjects, residing in New Jersey, later in Long Beach, California. 
+**Abbreviated name**: *J.E. Rogers*
 
 #### Herbarium and types
 

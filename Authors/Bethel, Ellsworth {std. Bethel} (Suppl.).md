@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103859#page/156/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bethel, Ellsworth {std. Bethel}|first entry]] for this author
 
 ### Author
 
-\* Bethel, Ellsworth (1863-1925), American (Ohio-born) botanist, educated at Scio College and East Tennessee Wesleyan University; migrated to Colorado 1890, living in Denver until his death, teacher at East Denver high school until 1917, later employed by U.S.D.A., also, from 1912, connected with the State Museum, Denver. (*Bethel*).
+\* Bethel, Ellsworth (1863-1925), American (Ohio-born) botanist, educated at Scio College and East Tennessee Wesleyan University; migrated to Colorado 1890, living in Denver until his death, teacher at East Denver high school until 1917, later employed by U.S.D.A., also, from 1912, connected with the State Museum, Denver. 
+**Abbreviated name**: *Bethel*
 
 #### Herbarium and types
 

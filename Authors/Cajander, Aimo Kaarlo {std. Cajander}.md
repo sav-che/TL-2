@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103861#page/314/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33266611) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cajander, Aimo Kaarlo (1879-1943), Finnish botanist, matriculated 1896, Bachel. phil. 1901, Ph. D. Helsinki 1903, studied at the University of Munich 1904, amanuensis at the Botanical Museum, Helsinki University 1901, assistant ib. 1902-1903, lecturer in botany 1904, teacher natural sciences at Evo forest school 1904, graduated from Evo forest school 1906, headmaster and forester ib. 1907-1908, professor of silviculture 1911-1934, professor of mensuration and survey 1913-1927, director general Forest Service 1918-1943. (*Cajander*).
+Cajander, Aimo Kaarlo (1879-1943), Finnish botanist, matriculated 1896, Bachel. phil. 1901, Ph. D. Helsinki 1903, studied at the University of Munich 1904, amanuensis at the Botanical Museum, Helsinki University 1901, assistant ib. 1902-1903, lecturer in botany 1904, teacher natural sciences at Evo forest school 1904, graduated from Evo forest school 1906, headmaster and forester ib. 1907-1908, professor of silviculture 1911-1934, professor of mensuration and survey 1913-1927, director general Forest Service 1918-1943. 
+**Abbreviated name**: *Cajander*
 
 #### Herbarium and types
 

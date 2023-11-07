@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/104137#page/228/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McCalla \[M'Calla\], William (1814-1849), Irish schoolmaster and algologist at Roundstone, Connemara. (*W. McCalla*).
+McCalla \[M'Calla\], William (1814-1849), Irish schoolmaster and algologist at Roundstone, Connemara. 
+**Abbreviated name**: *W. McCalla*
 
 #### Herbarium and types
 

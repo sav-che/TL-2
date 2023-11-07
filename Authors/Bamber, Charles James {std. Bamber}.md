@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103414#page/162/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bamber, Charles James {std. Bamber} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bamber, Charles James (1855-x), British soldier in the Indian Medical Service. (*Bamber*).
+Bamber, Charles James (1855-x), British soldier in the Indian Medical Service. 
+**Abbreviated name**: *Bamber*
 
 #### Herbarium and types
 

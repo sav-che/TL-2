@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/item/103414#page/480/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33120563) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Camus, Edmond-Gustave (Gustave) {std. E.G. Camus} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Camus, Edmond Gustave (1852-1915), French botanist and pharmacist. (*E. G. Camus*).
+Camus, Edmond Gustave (1852-1915), French botanist and pharmacist. 
+**Abbreviated name**: *E. G. Camus*
 
 #### Herbarium and types
 

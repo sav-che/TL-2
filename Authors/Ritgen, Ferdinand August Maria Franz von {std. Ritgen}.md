@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/item/103624#page/814/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33190271) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ritgen, Ferdinand August Maria Franz von (1787-1837), German (Hessen) physician and botanist; D. med. Giessen 1808; Dr. phil. hon. ib. 1823; ultimately professor of surgery and psychiatry and director of the obstetrical clinic in Giessen. (*Ritgen*).
+Ritgen, Ferdinand August Maria Franz von (1787-1837), German (Hessen) physician and botanist; D. med. Giessen 1808; Dr. phil. hon. ib. 1823; ultimately professor of surgery and psychiatry and director of the obstetrical clinic in Giessen. 
+**Abbreviated name**: *Ritgen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103835#page/151/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33260129) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ducom, L. (fl. 1847), French botanist and pharmacist, thesis presented at the École spéciale de Pharmacie de Paris. (*Ducom*).
+Ducom, L. (fl. 1847), French botanist and pharmacist, thesis presented at the École spéciale de Pharmacie de Paris. 
+**Abbreviated name**: *Ducom*
 
 #### Herbarium and types
 

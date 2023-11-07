@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/item/103624#page/836/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33190293) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rochel, Anton (1770-1847), Austrian botanist and surgeon; surgical assistant in the Austrian army 1788-1798; Magister chirurgiae Wien 1792, id. obstetritiae 1798; practicing physician in Moravia, Hungary (Neutra, Rownye) 1798-1820; curator of the Pest botanical garden 1820-1840; travelled to Leningrad and Dresden 1840-1841; settled at Graz in retirement 1841-1847. (*Rochel*).
+Rochel, Anton (1770-1847), Austrian botanist and surgeon; surgical assistant in the Austrian army 1788-1798; Magister chirurgiae Wien 1792, id. obstetritiae 1798; practicing physician in Moravia, Hungary (Neutra, Rownye) 1798-1820; curator of the Pest botanical garden 1820-1840; travelled to Leningrad and Dresden 1840-1841; settled at Graz in retirement 1841-1847. 
+**Abbreviated name**: *Rochel*
 
 #### Herbarium and types
 

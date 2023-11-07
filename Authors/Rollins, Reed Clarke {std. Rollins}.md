@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/item/103624#page/887/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33190344) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rollins, Reed Clarke (1911-x), American botanist; B.A. Univ. Wyoming 1933; M.S. State College Washington 1936; Dr. phil. Harvard 1941; curator of the Dudley Herbarium of Stanford University 1940-1948; asst. prof. ib. 1940-1941, assoc. prof. ib. 1947-1948; director of the Gray Herbarium of Harvard University 1948-1979, from 1954 Asa Gray professor of systematic botany at Harvard University; specialist on Cruciferae; president of the International Association for Plant Taxonomy 1954-1959; member of the editorial committee for botanical nomenclature 1954-x. (*Rollins*).
+Rollins, Reed Clarke (1911-x), American botanist; B.A. Univ. Wyoming 1933; M.S. State College Washington 1936; Dr. phil. Harvard 1941; curator of the Dudley Herbarium of Stanford University 1940-1948; asst. prof. ib. 1940-1941, assoc. prof. ib. 1947-1948; director of the Gray Herbarium of Harvard University 1948-1979, from 1954 Asa Gray professor of systematic botany at Harvard University; specialist on Cruciferae; president of the International Association for Plant Taxonomy 1954-1959; member of the editorial committee for botanical nomenclature 1954-x. 
+**Abbreviated name**: *Rollins*
 
 #### Herbarium and types
 

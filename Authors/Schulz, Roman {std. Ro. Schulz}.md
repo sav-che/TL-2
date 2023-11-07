@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/104077#page/403/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, Roman (1873-1926), German (Berlin) botanist; brother of O.E. Schulz; educated in Berlin at the "Kön. Seminar für Stadtschullehrer" and the "Lehrerseminar"; teacher at various Berlin schools; active populariser of mycology and specialist on the flora of the Mark Brandenburg. (*Ro. Schulz*).
+Schulz, Roman (1873-1926), German (Berlin) botanist; brother of O.E. Schulz; educated in Berlin at the "Kön. Seminar für Stadtschullehrer" and the "Lehrerseminar"; teacher at various Berlin schools; active populariser of mycology and specialist on the flora of the Mark Brandenburg. 
+**Abbreviated name**: *Ro. Schulz*
 
 #### Herbarium and types
 

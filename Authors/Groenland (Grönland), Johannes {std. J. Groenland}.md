@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/item/103832#page/417/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33258883) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Groenland \[Grönland\], Johannes (1824-1891), German horticulturist and microscopist, born 8 Apr 1824 in Altona (Hamburg), trained as a druggist, joined the Schleswig-Holstein army 1849, moved to Paris 1853 as an asst. to Louis Vilmorin and began editing *Revue Horticole*, returned to Germany after the Franco-Prussian War (1870-1871) and settled in Dahme (nr. Potsdam) as prof. of natural sciences, Agricultural and Agricultural Chemistry Research Station 1872-1891, died 13 Feb 1891 in Dahme. (*J. Groenland*).
+Groenland \[Grönland\], Johannes (1824-1891), German horticulturist and microscopist, born 8 Apr 1824 in Altona (Hamburg), trained as a druggist, joined the Schleswig-Holstein army 1849, moved to Paris 1853 as an asst. to Louis Vilmorin and began editing *Revue Horticole*, returned to Germany after the Franco-Prussian War (1870-1871) and settled in Dahme (nr. Potsdam) as prof. of natural sciences, Agricultural and Agricultural Chemistry Research Station 1872-1891, died 13 Feb 1891 in Dahme. 
+**Abbreviated name**: *J. Groenland*
 
 #### Herbarium and types
 

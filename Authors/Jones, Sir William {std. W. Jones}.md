@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103253#page/483/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33068699) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jones, Sir William (1746-1794), British judge of the Supreme Court, Calcutta (1783-1794); knighted 1793; published on botany and a variety of other subjects. (*W. Jones*).
+Jones, Sir William (1746-1794), British judge of the Supreme Court, Calcutta (1783-1794); knighted 1793; published on botany and a variety of other subjects. 
+**Abbreviated name**: *W. Jones*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103683#page/217/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33212249) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tempère, Joannes Albert \[Jean Clodius\] (1847-1926), French diatomologist. (*Temp.*).
+Tempère, Joannes Albert \[Jean Clodius\] (1847-1926), French diatomologist. 
+**Abbreviated name**: *Temp.*
 
 #### Herbarium and types
 

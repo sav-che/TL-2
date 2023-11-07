@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103859#page/170/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33265357) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Biers, \[Denis\] Paul \[M.\] (1867-1929), French mycologist, Licencié es sciences naturelles, sometime employed by the "Cabinet du Ministre de l'Instruction publique" until 1905, assistant at the Muséum d'Histoire naturelle, Paris 1905-1929, collaborator with Louis Mangin. (*Biers*).
+Biers, \[Denis\] Paul \[M.\] (1867-1929), French mycologist, Licencié es sciences naturelles, sometime employed by the "Cabinet du Ministre de l'Instruction publique" until 1905, assistant at the Muséum d'Histoire naturelle, Paris 1905-1929, collaborator with Louis Mangin. 
+**Abbreviated name**: *Biers*
 
 #### Herbarium and types
 

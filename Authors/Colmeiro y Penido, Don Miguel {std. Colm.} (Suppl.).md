@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103860#page/287/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265954) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Colmeiro y Penido, Don Miguel {std. Colm.}|first entry]] for this author
 
 ### Author
 
-\* Colmeiro y Penido, Don Miguel (1816-1901), Spanish physician and botanist, born at Santiago de Compostela, Dr. med. Madrid 1842, professor of botany and agriculture at Barcelona 1842-1847, idem for natural history at Sevilla 1847-1857, professor of botany and director of the botanical garden of Madrid 1857-1900, died at Sevilla 1901. (*Colm.*).
+\* Colmeiro y Penido, Don Miguel (1816-1901), Spanish physician and botanist, born at Santiago de Compostela, Dr. med. Madrid 1842, professor of botany and agriculture at Barcelona 1842-1847, idem for natural history at Sevilla 1847-1857, professor of botany and director of the botanical garden of Madrid 1857-1900, died at Sevilla 1901. 
+**Abbreviated name**: *Colm.*
 
 #### Herbarium and types
 

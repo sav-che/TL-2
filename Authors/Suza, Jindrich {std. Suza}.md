@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/103683#page/114/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33212146) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suza, Jindrich (1890-1951), Moravian (later Czechoslovakian) botanist (lichenologist, phytogeographer), assistant at the botanical Department of Masaryk University at Brno 1921-1934; later professor of botany at Praha; Dr. phil. Brno 1924. (*Suza*).
+Suza, Jindrich (1890-1951), Moravian (later Czechoslovakian) botanist (lichenologist, phytogeographer), assistant at the botanical Department of Masaryk University at Brno 1921-1934; later professor of botany at Praha; Dr. phil. Brno 1924. 
+**Abbreviated name**: *Suza*
 
 #### Herbarium and types
 

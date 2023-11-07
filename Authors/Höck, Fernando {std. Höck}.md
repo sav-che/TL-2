@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103253#page/251/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33068467) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Höck, Fernando (1858-1915), German botanist, born in Tating, Eiderstedt, later high school teacher at Lackenwalde (Neumark). (*Höck*).
+Höck, Fernando (1858-1915), German botanist, born in Tating, Eiderstedt, later high school teacher at Lackenwalde (Neumark). 
+**Abbreviated name**: *Höck*
 
 #### Herbarium and types
 

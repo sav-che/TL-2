@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/item/103253#page/458/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33068674) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jeanbernat, Ernest-Marie-Jules (1835-1888), French physician, geologist and botanist; studied at Paris; dr. med. 1862; practicing physician at Toulouse 1862-1866; from 1866 on combining a business and a scientific career. (*Jeanb.*).
+Jeanbernat, Ernest-Marie-Jules (1835-1888), French physician, geologist and botanist; studied at Paris; dr. med. 1862; practicing physician at Toulouse 1862-1866; from 1866 on combining a business and a scientific career. 
+**Abbreviated name**: *Jeanb.*
 
 #### Herbarium and types
 

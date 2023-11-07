@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/item/104137#page/817/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33355888) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oborný, Adolf (1840-1924), Moravian botanist; studied at the technical college of Brünn (Brno); assistant at the Staatsrealschule 1866; teachers examination Wien (1870; "supplent" (1870) and teacher (1871) at the Landesrealschule in Znaim; director of the Landesoberrealschule in Leipnik 1898-1907; retired at Znaim 1907-1924. (*Oborný*).
+Oborný, Adolf (1840-1924), Moravian botanist; studied at the technical college of Brünn (Brno); assistant at the Staatsrealschule 1866; teachers examination Wien (1870; "supplent" (1870) and teacher (1871) at the Landesrealschule in Znaim; director of the Landesoberrealschule in Leipnik 1898-1907; retired at Znaim 1907-1924. 
+**Abbreviated name**: *Oborný*
 
 #### Herbarium and types
 

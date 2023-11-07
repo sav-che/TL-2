@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/104077#page/367/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33333492) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schubert \[Szubert\], Michael \[Mikael\] (1787-1860), German-born botanist; professor of botany and director of the botanical garden at Warsaw. (*M. Schub.*).
+Schubert \[Szubert\], Michael \[Mikael\] (1787-1860), German-born botanist; professor of botany and director of the botanical garden at Warsaw. 
+**Abbreviated name**: *M. Schub.*
 
 #### Herbarium and types
 

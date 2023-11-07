@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103859#page/349/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33265536) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borggreve, Bernhard Robert August (1836-?), German (Magdeburg born) biology teacher, forester and ornithologist, "Oberförster" and teacher at the Academy of Münden, id. at the Academy at Poppelsdorf nr. Bonn, from 1879 director of the Königl. Preuss. Forstakademie at Münden, in retirement in Wiesbaden. (*Borggreve*).
+Borggreve, Bernhard Robert August (1836-?), German (Magdeburg born) biology teacher, forester and ornithologist, "Oberförster" and teacher at the Academy of Münden, id. at the Academy at Poppelsdorf nr. Bonn, from 1879 director of the Königl. Preuss. Forstakademie at Münden, in retirement in Wiesbaden. 
+**Abbreviated name**: *Borggreve*
 
 #### Herbarium and types
 

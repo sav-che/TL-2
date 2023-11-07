@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103859#page/113/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33265300) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berlese, Lorenzo Bernardo (Abate) (1784-1863), Italian clergyman and horticulturist, born in Campomolino, Treviso, Italy, received holy orders 1809 at the Seminary of Ceneda, in Paris from ca. 1810, at first private teacher later at the court of Louis-Philippe, later dedicating himself to horticulture, ultimately again in Campomolino. (*L. Berl.*).
+Berlese, Lorenzo Bernardo (Abate) (1784-1863), Italian clergyman and horticulturist, born in Campomolino, Treviso, Italy, received holy orders 1809 at the Seminary of Ceneda, in Paris from ca. 1810, at first private teacher later at the court of Louis-Philippe, later dedicating himself to horticulture, ultimately again in Campomolino. 
+**Abbreviated name**: *L. Berl.*
 
 #### Herbarium and types
 

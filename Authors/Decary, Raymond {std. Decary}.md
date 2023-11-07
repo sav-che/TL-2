@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/103833#page/152/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33259186) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Decary, Raymond (1891-1973), French administer for the colonies, born at Méry sur Seine, lived in Madagascar since 1916 where he was able to find the time to study the geology, flora, fauna, and ethnography of the island until his retirement in 1944, collected on several scientific expeditions for the Paris Museum of Natural History, died 1973. (*Decary*).
+Decary, Raymond (1891-1973), French administer for the colonies, born at Méry sur Seine, lived in Madagascar since 1916 where he was able to find the time to study the geology, flora, fauna, and ethnography of the island until his retirement in 1944, collected on several scientific expeditions for the Paris Museum of Natural History, died 1973. 
+**Abbreviated name**: *Decary*
 
 #### Herbarium and types
 

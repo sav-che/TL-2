@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/item/104077#page/799/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33333924) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Speke, John Hanning (1827-1864), British soldier and explorer; entered the Royal Army 1844; in East Africa 1854; in the Crimean War 1855; again in East Africa 1857-1859 with R.F. Burton and 1860-1863 with J.A. Grant. (*Speke*).
+Speke, John Hanning (1827-1864), British soldier and explorer; entered the Royal Army 1844; in East Africa 1854; in the Crimean War 1855; again in East Africa 1857-1859 with R.F. Burton and 1860-1863 with J.A. Grant. 
+**Abbreviated name**: *Speke*
 
 #### Herbarium and types
 

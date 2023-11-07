@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/item/103683#page/740/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33212772) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vierhapper, Friedrich (1844-1903), Austrian botanist; studied at Salzburg University; with the Vienna Polytechnic 1861, and with the University ib. 1873; teacher's examination 1874, high school teacher in Weidenau (Silesia) 1875-1881; at the State Gymnasium Ried 1881-1895; at highschool no. 4 in Vienna. (*Vierh. sen.*).
+Vierhapper, Friedrich (1844-1903), Austrian botanist; studied at Salzburg University; with the Vienna Polytechnic 1861, and with the University ib. 1873; teacher's examination 1874, high school teacher in Weidenau (Silesia) 1875-1881; at the State Gymnasium Ried 1881-1895; at highschool no. 4 in Vienna. 
+**Abbreviated name**: *Vierh. sen.*
 
 #### Herbarium and types
 

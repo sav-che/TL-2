@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/item/104077#page/726/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Snow, Julia Warner (1863-1927), American algologist; Dr. phil. Zürich 1893; with the University of Michigan 1893-1900, from 1898 as instructor; instructor in botany at Rockford College, Illinois, 1900-1901; botanical assistant (1901), instructor (1902) and associate professor (1906) of botany at Smith College (Mass.), 1900-1927. (*J. Snow*).
+Snow, Julia Warner (1863-1927), American algologist; Dr. phil. Zürich 1893; with the University of Michigan 1893-1900, from 1898 as instructor; instructor in botany at Rockford College, Illinois, 1900-1901; botanical assistant (1901), instructor (1902) and associate professor (1906) of botany at Smith College (Mass.), 1900-1927. 
+**Abbreviated name**: *J. Snow*
 
 #### Herbarium and types
 

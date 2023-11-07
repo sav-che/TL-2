@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103858#page/243/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33264958) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bachman \[Bachmann\], Freda Marie (1878-?), American botanist studied and graduated from Miami University, Oxford, Ohio 1903-1907, A.B. 1907, Dr. phil. Univ. Wisconsin 1912, assistant botanist at Miami 1907-1908, at Wisconsin 1908-1912, professor of botany at Milwaukee 1912-1914, instructor in bacteriology Madison, Wisconsin from 1914. (*F.M. Bachman*).
+Bachman \[Bachmann\], Freda Marie (1878-?), American botanist studied and graduated from Miami University, Oxford, Ohio 1903-1907, A.B. 1907, Dr. phil. Univ. Wisconsin 1912, assistant botanist at Miami 1907-1908, at Wisconsin 1908-1912, professor of botany at Milwaukee 1912-1914, instructor in bacteriology Madison, Wisconsin from 1914. 
+**Abbreviated name**: *F.M. Bachman*
 
 #### Herbarium and types
 

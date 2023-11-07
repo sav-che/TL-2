@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103832#page/165/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33258631) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gautier, Marie Clément Gaston {std. Gaut.}|first entry]] for this author
 
 ### Author
 
-\* Gautier, \[Marie or Maurice\] Clément Gaston (1841-1911), French botanist and land proprietor, born 10 Apr 1841 in Narbonne (Aude), studied natural history while he oversaw cultivation on his extensive land holdings, died 7 Oct 1911 in Narbonne. (*Gaut.*).
+\* Gautier, \[Marie or Maurice\] Clément Gaston (1841-1911), French botanist and land proprietor, born 10 Apr 1841 in Narbonne (Aude), studied natural history while he oversaw cultivation on his extensive land holdings, died 7 Oct 1911 in Narbonne. 
+**Abbreviated name**: *Gaut.*
 
 #### Herbarium and types
 

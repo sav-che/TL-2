@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103835#page/351/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33260329) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Engel, Heinrich (1804-1861), Austrian priest and cryptogamist, born 1804 in Seewalchen, studied at the gymnasium and lyceum at Salzburg, studied theology at Linz, ordination in 1827, chaplain in Steyr, priest in Gleink 1847, professor theology at Linz 1851, in 1861 to Taiskirchen, died 1861. (*Heinr. Engel*).
+Engel, Heinrich (1804-1861), Austrian priest and cryptogamist, born 1804 in Seewalchen, studied at the gymnasium and lyceum at Salzburg, studied theology at Linz, ordination in 1827, chaplain in Steyr, priest in Gleink 1847, professor theology at Linz 1851, in 1861 to Taiskirchen, died 1861. 
+**Abbreviated name**: *Heinr. Engel*
 
 #### Herbarium and types
 

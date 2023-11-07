@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103858#page/248/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33264963) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bacigalupi, Rimo Charles \[Carlo\] Felix \[Felice\] (1901-x), American botanist in the Bay area, A.B. Stanford University 1923, A.M. ib. 1925, Ph.D. Harvard 1931, assistant in botany Stanford 1923-1924, fellow in botany University of California 1926, also instructor in botany, Mills College 1925, later curator of the Jepson herbarium at the University of California, collected widely in the western United States. (*Bacig.*).
+Bacigalupi, Rimo Charles \[Carlo\] Felix \[Felice\] (1901-x), American botanist in the Bay area, A.B. Stanford University 1923, A.M. ib. 1925, Ph.D. Harvard 1931, assistant in botany Stanford 1923-1924, fellow in botany University of California 1926, also instructor in botany, Mills College 1925, later curator of the Jepson herbarium at the University of California, collected widely in the western United States. 
+**Abbreviated name**: *Bacig.*
 
 #### Herbarium and types
 

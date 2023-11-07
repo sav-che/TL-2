@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/item/103414#page/954/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/page/33121037) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gallenmüller, Joseph (*fl*. 1876), German highschool teacher in Aschaffenburg. (*Gallenmüller*).
+Gallenmüller, Joseph (*fl*. 1876), German highschool teacher in Aschaffenburg. 
+**Abbreviated name**: *Gallenmüller*
 
 #### Herbarium and types
 

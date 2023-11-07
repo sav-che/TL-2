@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103835#page/13/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259991) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dochnahl, Friedrich Jakob (1820-1904), German botanist, fruit grower and market gardener in Neustadt (S.). (*Dochnahl*).
+Dochnahl, Friedrich Jakob (1820-1904), German botanist, fruit grower and market gardener in Neustadt (S.). 
+**Abbreviated name**: *Dochnahl*
 
 #### Herbarium and types
 

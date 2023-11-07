@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/item/103624#page/898/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33190355) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rose, Hugh (ca. 1717-1792), British (English) apothecary and botanist at Norwich; teacher of J.E. Smith; associate of W. Hudson. (*H. Rose*).
+Rose, Hugh (ca. 1717-1792), British (English) apothecary and botanist at Norwich; teacher of J.E. Smith; associate of W. Hudson. 
+**Abbreviated name**: *H. Rose*
 
 #### Herbarium and types
 

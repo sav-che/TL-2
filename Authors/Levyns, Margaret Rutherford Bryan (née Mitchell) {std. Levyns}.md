@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/item/103253#page/893/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33069109) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Levyns, Margaret Rutherford Bryan (née Mitchell) (1890-1975), South African botanist; lecturer at the University of Cape Town 1916-1946; first woman president of the Royal Society of South Africa. (*Levyns*).
+Levyns, Margaret Rutherford Bryan (née Mitchell) (1890-1975), South African botanist; lecturer at the University of Cape Town 1916-1946; first woman president of the Royal Society of South Africa. 
+**Abbreviated name**: *Levyns*
 
 #### Herbarium and types
 

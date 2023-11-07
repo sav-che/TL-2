@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/item/104077#page/623/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simon, \[Wilhelm Otto\] Friedrich (1868-?), German (Silesian) botanist; Dr. phil. Berlin 1890; student of S. Schwendener. (*F. Simon*).
+Simon, \[Wilhelm Otto\] Friedrich (1868-?), German (Silesian) botanist; Dr. phil. Berlin 1890; student of S. Schwendener. 
+**Abbreviated name**: *F. Simon*
 
 #### Herbarium and types
 

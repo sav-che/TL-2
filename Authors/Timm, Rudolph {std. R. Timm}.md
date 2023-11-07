@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103683#page/372/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33212404) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Timm, Rudolph (1859-1936), German (Hamburg) bryologist and zoologist; son of Carl Theodor Timm; studied at Göttingen and Würzburg; Dr. phil. Würzburg 1883; high school teacher for natural sciences at the Realschule vor dem Lübecker Tor 1887-1890; working at Cuxhaven 1890-1892; again at the Hamburg school 1892-1924, from 1906 with the title professor. (*R. Timm*).
+Timm, Rudolph (1859-1936), German (Hamburg) bryologist and zoologist; son of Carl Theodor Timm; studied at Göttingen and Würzburg; Dr. phil. Würzburg 1883; high school teacher for natural sciences at the Realschule vor dem Lübecker Tor 1887-1890; working at Cuxhaven 1890-1892; again at the Hamburg school 1892-1924, from 1906 with the title professor. 
+**Abbreviated name**: *R. Timm*
 
 #### Herbarium and types
 

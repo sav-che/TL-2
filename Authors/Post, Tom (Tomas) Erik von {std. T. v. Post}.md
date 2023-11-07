@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103624#page/367/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33189824) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Post, Tom \[Tomas\] Erik von (1858-1912), Swedish botanist; son of Hampus von Post; director of the Uppsala seed testing station from 1887 and of the Esperanza field station for medicinal herbs near Landskrona from 1907. (*T. v. Post*).
+Post, Tom \[Tomas\] Erik von (1858-1912), Swedish botanist; son of Hampus von Post; director of the Uppsala seed testing station from 1887 and of the Esperanza field station for medicinal herbs near Landskrona from 1907. 
+**Abbreviated name**: *T. v. Post*
 
 #### Herbarium and types
 

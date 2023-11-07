@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103859#page/60/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33265247) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Behm, Moritz (1867-?), German (Bavarian) pharmacist, educated at the humanistic Gymnasium Nürnberg, qualified himself for the study of pharmacy 1884-1890, at the University of München 1890 as student with Radlkofer, at the University of Erlangen, Dr. phil. ib. 1895. (*M. Behm*).
+Behm, Moritz (1867-?), German (Bavarian) pharmacist, educated at the humanistic Gymnasium Nürnberg, qualified himself for the study of pharmacy 1884-1890, at the University of München 1890 as student with Radlkofer, at the University of Erlangen, Dr. phil. ib. 1895. 
+**Abbreviated name**: *M. Behm*
 
 #### Herbarium and types
 

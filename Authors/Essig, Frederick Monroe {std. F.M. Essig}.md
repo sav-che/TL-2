@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/103835#page/423/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33260401) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Essig, Frederick Monroe (fl. 1920-1922), American botanist, Ph.D. in botany at Berkeley in 1920. (*F.M. Essig*).
+Essig, Frederick Monroe (fl. 1920-1922), American botanist, Ph.D. in botany at Berkeley in 1920. 
+**Abbreviated name**: *F.M. Essig*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103250#page/320/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33066600) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Widmer, Elisabeth (1862-1952), German botanist in München. (*Widm.*).
+Widmer, Elisabeth (1862-1952), German botanist in München. 
+**Abbreviated name**: *Widm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103835#page/62/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33260040) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Donckier de Donceel, Henri (1854-1926), Belgian botanist and entomologist, born 3 Mar 1854 at Liège, visited a grammar school at Liège, founded with Émile Durand the "Société des jeunes botanistes liègeois", became "aide-préparateur" at the natural history museum at Brussels 1876, head of the "Cabinet entomologique" at Paris from 1894, died at Paris 24 Oct 1926. (*Donckier*).
+Donckier de Donceel, Henri (1854-1926), Belgian botanist and entomologist, born 3 Mar 1854 at Liège, visited a grammar school at Liège, founded with Émile Durand the "Société des jeunes botanistes liègeois", became "aide-préparateur" at the natural history museum at Brussels 1876, head of the "Cabinet entomologique" at Paris from 1894, died at Paris 24 Oct 1926. 
+**Abbreviated name**: *Donckier*
 
 #### Herbarium and types
 

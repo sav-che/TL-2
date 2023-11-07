@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103624#page/351/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Popenoe, Dorothy Kate (née Hughes) (1899-1932), British-born botanist; assistant at Kew 1918-1923 as collaborator of O. Stapf; to USDA Washington 1923; married Frederick Wilson Popenoe (17 Nov 1923). (*D. Popenoe*).
+Popenoe, Dorothy Kate (née Hughes) (1899-1932), British-born botanist; assistant at Kew 1918-1923 as collaborator of O. Stapf; to USDA Washington 1923; married Frederick Wilson Popenoe (17 Nov 1923). 
+**Abbreviated name**: *D. Popenoe*
 
 #### Herbarium and types
 

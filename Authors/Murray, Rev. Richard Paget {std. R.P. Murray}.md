@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/item/104137#page/687/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33355758) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murray, Rev. Richard Paget (1842-1908), British clergyman and botanist; ordained 1868; curate of Plymstock, Beckenham and Baltonsborough (1868-1882, in succession); vicar of Shapwick (Dorset; 1883-1908); botanized in Ireland, Portugal and Canary Is. (*R. P. Murray*).
+Murray, Rev. Richard Paget (1842-1908), British clergyman and botanist; ordained 1868; curate of Plymstock, Beckenham and Baltonsborough (1868-1882, in succession); vicar of Shapwick (Dorset; 1883-1908); botanized in Ireland, Portugal and Canary Is. 
+**Abbreviated name**: *R. P. Murray*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/item/103683#page/529/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33212561) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tsiang, Ying (1898-1982), Chinese botanist; professor of botany at the College of Agriculture of South China, Shek-P'ai, Canton (Guangzhou, Guandong); member of the editorial board of the Flora reipublicae popularis sinicae and honorary president of the Botanical Society of China. (*Tsiang*).
+Tsiang, Ying (1898-1982), Chinese botanist; professor of botany at the College of Agriculture of South China, Shek-P'ai, Canton (Guangzhou, Guandong); member of the editorial board of the Flora reipublicae popularis sinicae and honorary president of the Botanical Society of China. 
+**Abbreviated name**: *Tsiang*
 
 #### Herbarium and types
 

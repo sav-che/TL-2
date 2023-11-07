@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103253#page/36/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33068252) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hagen, Ingebrigt Severin (1852-1917), Norwegian physician and bryologist; from 1899 at Opdal (Dovrefjeld); from 1906 at Trondhjem. (*I. Hagen*).
+Hagen, Ingebrigt Severin (1852-1917), Norwegian physician and bryologist; from 1899 at Opdal (Dovrefjeld); from 1906 at Trondhjem. 
+**Abbreviated name**: *I. Hagen*
 
 #### Herbarium and types
 

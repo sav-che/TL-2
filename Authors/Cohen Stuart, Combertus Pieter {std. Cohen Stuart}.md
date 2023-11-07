@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103860#page/264/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265931) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cohen Stuart, Combertus Pieter (1889-1945), Dutch botanist, Java born, Dr. phil. Utrecht 1916. (*Cohen Stuart*).
+Cohen Stuart, Combertus Pieter (1889-1945), Dutch botanist, Java born, Dr. phil. Utrecht 1916. 
+**Abbreviated name**: *Cohen Stuart*
 
 #### Herbarium and types
 

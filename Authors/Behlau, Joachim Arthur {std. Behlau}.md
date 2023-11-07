@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103859#page/59/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265246) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Behlau, Joachim Arthur (1910-x), German (b. Bismarckhütte, Oberschlesien) botanist, educated at Beuthen O.S., studied botany, zoology, chemistry and mathematics at the University of Breslau 1929-1934, Dr. phil. ib. 1935. (*Behlau*).
+Behlau, Joachim Arthur (1910-x), German (b. Bismarckhütte, Oberschlesien) botanist, educated at Beuthen O.S., studied botany, zoology, chemistry and mathematics at the University of Breslau 1929-1934, Dr. phil. ib. 1935. 
+**Abbreviated name**: *Behlau*
 
 #### Herbarium and types
 

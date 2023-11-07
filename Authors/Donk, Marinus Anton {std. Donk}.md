@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/item/103414#page/719/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33120802) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Donk, Marinus Anton {std. Donk} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Donk, Marinus Anton (1908-1972), Dutch mycologist. (*Donk*).
+Donk, Marinus Anton (1908-1972), Dutch mycologist. 
+**Abbreviated name**: *Donk*
 
 #### Herbarium and types
 

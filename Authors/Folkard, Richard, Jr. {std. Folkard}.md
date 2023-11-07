@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103834#page/314/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259796) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Folkard, Richard, Jr. (fl. 1884-1892), English horticulturalist, originally associated with a journal devoted to horticulture, very much interested in plant-lore, lived in Cricklewood (now London Borough of Barnet). (*Folkard*).
+Folkard, Richard, Jr. (fl. 1884-1892), English horticulturalist, originally associated with a journal devoted to horticulture, very much interested in plant-lore, lived in Cricklewood (now London Borough of Barnet). 
+**Abbreviated name**: *Folkard*
 
 #### Herbarium and types
 

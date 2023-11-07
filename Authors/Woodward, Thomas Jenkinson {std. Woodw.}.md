@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/103250#page/509/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33066789) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woodward, Thomas Jenkinson (1745-1820), British country gentleman of leisure and botanist; LLB Cambridge 1769; magistrate and deputy-lieutenant for Suffolk, later Norfolk; lieutenant-colonel of the Diss volunteers; F.L.S. 1789. (*Woodw.*).
+Woodward, Thomas Jenkinson (1745-1820), British country gentleman of leisure and botanist; LLB Cambridge 1769; magistrate and deputy-lieutenant for Suffolk, later Norfolk; lieutenant-colonel of the Diss volunteers; F.L.S. 1789. 
+**Abbreviated name**: *Woodw.*
 
 #### Herbarium and types
 

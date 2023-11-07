@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103859#page/297/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33265484) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bojer, Wenceslas (Wenzel) {std. Bojer}|first entry]] for this author
 
 ### Author
 
-\* Bojer, Wenceslaus \[Wencelaus\] (1797-1856), Czeck (Bohemian) naturalist and explorer, born at Resanice, S. Bohemia, baptised Vaclar Pojer, known by his German name Wencelaus Bojer, apprentice at the estate of Caspar von Sternberg at Radnitz 1810-1813, moved to Vienna at the invitation of F.W. Sieber, employed at the Imperial Museum to bring together botanical collections, sent to East Africa and the Mascarenes with Ch. Hilsenberg, reaching Mauritius 1821, collected on Madagascar and the East African Islands, settled at Mauritius late 1824 or 1825, professor of natural history at the Royal College 1826, collected at Agaléga and the Comoro Islands 1835, curator of the Mauritius Natural History Museum 1842, ultimately professor of natural history at the Royal College. (*Bojer*).
+\* Bojer, Wenceslaus \[Wencelaus\] (1797-1856), Czeck (Bohemian) naturalist and explorer, born at Resanice, S. Bohemia, baptised Vaclar Pojer, known by his German name Wencelaus Bojer, apprentice at the estate of Caspar von Sternberg at Radnitz 1810-1813, moved to Vienna at the invitation of F.W. Sieber, employed at the Imperial Museum to bring together botanical collections, sent to East Africa and the Mascarenes with Ch. Hilsenberg, reaching Mauritius 1821, collected on Madagascar and the East African Islands, settled at Mauritius late 1824 or 1825, professor of natural history at the Royal College 1826, collected at Agaléga and the Comoro Islands 1835, curator of the Mauritius Natural History Museum 1842, ultimately professor of natural history at the Royal College. 
+**Abbreviated name**: *Bojer*
 
 #### Herbarium and types
 

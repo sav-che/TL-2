@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/104077#page/270/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33333395) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Johann Carl \[Karl\] (1793-1850), German (Oberlausitz) botanist; high school teacher at the Schloss Lenzburg educational institution; ultimately curator of the R.J. Shuttleworth herbarium in Bern. (*J.C. Schmidt*).
+Schmidt, Johann Carl \[Karl\] (1793-1850), German (Oberlausitz) botanist; high school teacher at the Schloss Lenzburg educational institution; ultimately curator of the R.J. Shuttleworth herbarium in Bern. 
+**Abbreviated name**: *J.C. Schmidt*
 
 #### Herbarium and types
 

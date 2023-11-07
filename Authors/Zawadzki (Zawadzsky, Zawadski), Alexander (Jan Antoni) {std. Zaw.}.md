@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/item/103250#page/581/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33066861) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zawadzki \[Zawadzsky, Zawadski\], Alexander \[Jan Antoni\] (1798-1868), Austrian-Silesian botanist; studied at the Universities of Ölmütz 1819-1820 and Lemberg 1821; botanical assistant at Lemberg 1822; high school teacher at Lemberg 1824; assistant for mathematics and physics Univ. Lemberg 1830-1837; regular professor id. Przemysl 1837; professor of physics Univ. Lemberg 1849; teacher for natural history at the k.k. Oberrealschule, Brünn 1850-1867. (*Zaw.*).
+Zawadzki \[Zawadzsky, Zawadski\], Alexander \[Jan Antoni\] (1798-1868), Austrian-Silesian botanist; studied at the Universities of Ölmütz 1819-1820 and Lemberg 1821; botanical assistant at Lemberg 1822; high school teacher at Lemberg 1824; assistant for mathematics and physics Univ. Lemberg 1830-1837; regular professor id. Przemysl 1837; professor of physics Univ. Lemberg 1849; teacher for natural history at the k.k. Oberrealschule, Brünn 1850-1867. 
+**Abbreviated name**: *Zaw.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/item/104077#page/542/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33333667) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Setchell, William Albert (1864-1943), American botanist (algologist), plant geographer and botanical historian; student of D.C. Eaton and W.G. Farlow; Morgan Fellow, Harvard 1887-1890; Dr. phil. Harvard 1890; assistant at Yale University 1891-1895; professor of botany at the University of California, Berkeley from 1895-1934; travelled widely: Santa Cruz Mts. Calif. 1896; Alaska and Bering Sea 1899, around the world 1903-1904, 1926-1927; Tutuila, Samoa 1920; Tahiti 1922; Hawaii 1924; Java 1929; Alaska 1931, 1932. (*Setch.*).
+Setchell, William Albert (1864-1943), American botanist (algologist), plant geographer and botanical historian; student of D.C. Eaton and W.G. Farlow; Morgan Fellow, Harvard 1887-1890; Dr. phil. Harvard 1890; assistant at Yale University 1891-1895; professor of botany at the University of California, Berkeley from 1895-1934; travelled widely: Santa Cruz Mts. Calif. 1896; Alaska and Bering Sea 1899, around the world 1903-1904, 1926-1927; Tutuila, Samoa 1920; Tahiti 1922; Hawaii 1924; Java 1929; Alaska 1931, 1932. 
+**Abbreviated name**: *Setch.*
 
 #### Herbarium and types
 

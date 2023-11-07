@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/103835#page/78/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33260056) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Douglas, Gertrude Elizabeth (1883-x), American botanist, born 12 Mar 1883 at Gardner, Mass., A.B. Smith College 1904, A.M. Cornell 1907, fellow 1914-1915, Ph.D. 1917, instructor botany at Randolph-Macon College 1909-1913, Lake Erie College 1915-1917, New York State College of Agriculture, Cornell 1917-1919, New York State College for Teachers, Albany 1919-1929, asst. prof. 1929. (*G.E. Douglas*).
+Douglas, Gertrude Elizabeth (1883-x), American botanist, born 12 Mar 1883 at Gardner, Mass., A.B. Smith College 1904, A.M. Cornell 1907, fellow 1914-1915, Ph.D. 1917, instructor botany at Randolph-Macon College 1909-1913, Lake Erie College 1915-1917, New York State College of Agriculture, Cornell 1917-1919, New York State College for Teachers, Albany 1919-1929, asst. prof. 1929. 
+**Abbreviated name**: *G.E. Douglas*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103861#page/25/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33266322) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandt, Ernst Friedrich Wilhelm (1821-?), German (Neustadt-Magdeburg) botanist, educated at Neustadt and Magdeburg, from 1836 at the orphan-asylum at Halle, worked 1840-1845 as student at Berlin gardens, studied at the University of Halle 1846-1849, Dr. phil. Halle 1849. (*E.F.W. Brandt*).
+Brandt, Ernst Friedrich Wilhelm (1821-?), German (Neustadt-Magdeburg) botanist, educated at Neustadt and Magdeburg, from 1836 at the orphan-asylum at Halle, worked 1840-1845 as student at Berlin gardens, studied at the University of Halle 1846-1849, Dr. phil. Halle 1849. 
+**Abbreviated name**: *E.F.W. Brandt*
 
 #### Herbarium and types
 

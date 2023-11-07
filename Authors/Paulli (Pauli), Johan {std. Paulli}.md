@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103624#page/127/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paulli \[Pauli\], Johan (1732-1804), Danish botanist and physician in Copenhagen. (*Paulli*).
+Paulli \[Pauli\], Johan (1732-1804), Danish botanist and physician in Copenhagen. 
+**Abbreviated name**: *Paulli*
 
 #### Herbarium and types
 

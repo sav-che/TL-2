@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103835#page/301/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33260279) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ekkert, Josef (1849-?), Hungarian/German agriculturist, born 10 Dec 1849 at Adony (Hungary), visited the gymnasium at Pest until 1868, went to the Hohenheim academy near Stuttgart in 1869, diploma in 1871, continued his studies from 1872 at Halle. (*Ekkert*).
+Ekkert, Josef (1849-?), Hungarian/German agriculturist, born 10 Dec 1849 at Adony (Hungary), visited the gymnasium at Pest until 1868, went to the Hohenheim academy near Stuttgart in 1869, diploma in 1871, continued his studies from 1872 at Halle. 
+**Abbreviated name**: *Ekkert*
 
 #### Herbarium and types
 

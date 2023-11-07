@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/104137#page/273/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maire, Louis (1885-x), French mycologist and pharmacist at Nancy and Strasbourg. (*L. Maire*).
+Maire, Louis (1885-x), French mycologist and pharmacist at Nancy and Strasbourg. 
+**Abbreviated name**: *L. Maire*
 
 #### Herbarium and types
 

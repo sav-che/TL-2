@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/104077#page/401/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33333526) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, Hermann (1882-1970), German botanist and teacher; at the Seminar für Lehrerbildung, Homberg, 1900-1903; teacher at Meckbach 1903-1907; in various educational functions in Kassel 1907-1927; director of the botanical garden, ib., 1927; administrator of the Waldschule Kassel-Wilhelmshöhe 1927-1935; in charge of the botanical collections of the Kassel Naturkundemuseum 1929; evacuated to Witzenhausen 1943-1945; in charge of the Naturkundemuseum Kassel 1951-1966. (*H. Schulz*).
+Schulz, Hermann (1882-1970), German botanist and teacher; at the Seminar für Lehrerbildung, Homberg, 1900-1903; teacher at Meckbach 1903-1907; in various educational functions in Kassel 1907-1927; director of the botanical garden, ib., 1927; administrator of the Waldschule Kassel-Wilhelmshöhe 1927-1935; in charge of the botanical collections of the Kassel Naturkundemuseum 1929; evacuated to Witzenhausen 1943-1945; in charge of the Naturkundemuseum Kassel 1951-1966. 
+**Abbreviated name**: *H. Schulz*
 
 #### Herbarium and types
 

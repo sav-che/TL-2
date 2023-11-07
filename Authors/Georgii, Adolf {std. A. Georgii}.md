@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103832#page/195/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33258661) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Georgii, Adolf (fl. 1891-1894), German amateur botanist and Gymnasium teacher in Neustadt on the Haardt. (*A. Georgii*).
+Georgii, Adolf (fl. 1891-1894), German amateur botanist and Gymnasium teacher in Neustadt on the Haardt. 
+**Abbreviated name**: *A. Georgii*
 
 #### Herbarium and types
 

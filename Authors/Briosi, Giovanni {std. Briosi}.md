@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103414#page/375/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33120458) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Briosi, Giovanni {std. Briosi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Briosi, Giovanni (1846-1921 \[1919?\]), Italian cryptogamic botanist, professor of botany and director of the botanic garden of Paris. (*Briosi*).
+Briosi, Giovanni (1846-1921 \[1919?\]), Italian cryptogamic botanist, professor of botany and director of the botanic garden of Paris. 
+**Abbreviated name**: *Briosi*
 
 #### Herbarium and types
 

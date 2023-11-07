@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103250#page/188/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33066468) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weber, Georg Heinrich (1752-1828), German (Hannoverian) physician and botanist; Dr. phil. Göttingen 1774; extraordinary professor of medicine and prosector Univ. Kiel 1777, ordinary professor of medicine and botany ib. 1780; "Archiater" 1790; director of the academic clinic 1802; director of the council for medical services of Schleswig Holstein 1810; Dr. phil. h.c. Göttingen 1824. (*G.H. Weber*).
+Weber, Georg Heinrich (1752-1828), German (Hannoverian) physician and botanist; Dr. phil. Göttingen 1774; extraordinary professor of medicine and prosector Univ. Kiel 1777, ordinary professor of medicine and botany ib. 1780; "Archiater" 1790; director of the academic clinic 1802; director of the council for medical services of Schleswig Holstein 1810; Dr. phil. h.c. Göttingen 1824. 
+**Abbreviated name**: *G.H. Weber*
 
 #### Herbarium and types
 

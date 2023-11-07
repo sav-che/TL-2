@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103835#page/342/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33260320) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emel, Louis (fl. 1921), French pharmacist studying at the University of Strasbourg, living at Lude (Sarthe). (*Emel*).
+Emel, Louis (fl. 1921), French pharmacist studying at the University of Strasbourg, living at Lude (Sarthe). 
+**Abbreviated name**: *Emel*
 
 #### Herbarium and types
 

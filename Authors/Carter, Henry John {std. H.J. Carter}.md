@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/item/103861#page/441/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33266738) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carter, Henry John (1813-1895), British geologist, diatomist, born and died at Budleigh Salterton, Devon, studied medicine 1829, as indoor pupil Devon and Exeter Hospital, 1835 at University College, London, House surgeon, soon later appointed as conservator of the College Museum, studied at the École de Medecine, Paris, 1841, 1842 appointed surgeon in the service of the East India Company, 1844 Medical Officer, 1846 assistant Civil Surgeon in Bombay until 1862, in retirement 1862 in Budleigh, Selterton. (*H.J. Carter*).
+Carter, Henry John (1813-1895), British geologist, diatomist, born and died at Budleigh Salterton, Devon, studied medicine 1829, as indoor pupil Devon and Exeter Hospital, 1835 at University College, London, House surgeon, soon later appointed as conservator of the College Museum, studied at the École de Medecine, Paris, 1841, 1842 appointed surgeon in the service of the East India Company, 1844 Medical Officer, 1846 assistant Civil Surgeon in Bombay until 1862, in retirement 1862 in Budleigh, Selterton. 
+**Abbreviated name**: *H.J. Carter*
 
 #### Herbarium and types
 

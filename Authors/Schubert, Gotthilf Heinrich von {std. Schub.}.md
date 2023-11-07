@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/104077#page/365/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33333490) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schubert, Gotthilf Heinrich von (1780-1860), German (Saxonian) philosopher, physician and natural scientist; Dr. med. Jena 1803; practicing physician at Altenburg 1803-1805, in Freiberg 1805-1807, in Dresden 1807-1809; teacher at Nürnberg 1809-1816; private teacher at Ludwigslust 1816-1818; professor of general natural history and philosophy at Erlangen 1819-1827, id. at München, also curator of the zoological and mineralogical collections of the state of Bavaria ibid. 1828-1853; travelled in Egypt, Palestine, Lebanon and "Arabia petraea" in 1836-1837. (*Schub.*).
+Schubert, Gotthilf Heinrich von (1780-1860), German (Saxonian) philosopher, physician and natural scientist; Dr. med. Jena 1803; practicing physician at Altenburg 1803-1805, in Freiberg 1805-1807, in Dresden 1807-1809; teacher at Nürnberg 1809-1816; private teacher at Ludwigslust 1816-1818; professor of general natural history and philosophy at Erlangen 1819-1827, id. at München, also curator of the zoological and mineralogical collections of the state of Bavaria ibid. 1828-1853; travelled in Egypt, Palestine, Lebanon and "Arabia petraea" in 1836-1837. 
+**Abbreviated name**: *Schub.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/item/103253#page/859/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33069075) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lely, Hugh Vandervaes (1891-x), Nigerian botanist and conservator of forests. (*Lely*).
+Lely, Hugh Vandervaes (1891-x), Nigerian botanist and conservator of forests. 
+**Abbreviated name**: *Lely*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/item/104137#page/797/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33355868) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nuttall, Lawrence William (1857-1933), American mine-owner, botanist and plant collector at Nuttallburg, Fayette County, West Virginia; in San Diego from 1927. (*L. Nutt.*).
+Nuttall, Lawrence William (1857-1933), American mine-owner, botanist and plant collector at Nuttallburg, Fayette County, West Virginia; in San Diego from 1927. 
+**Abbreviated name**: *L. Nutt.*
 
 #### Herbarium and types
 

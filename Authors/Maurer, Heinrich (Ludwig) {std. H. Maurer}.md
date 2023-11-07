@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/104137#page/394/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33355465) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maurer, Heinrich \[Ludwig\] (1818-1885), German horticulturist at Jena; Grossh. Sächsischer Hofgärtner. (*H. Maurer*).
+Maurer, Heinrich \[Ludwig\] (1818-1885), German horticulturist at Jena; Grossh. Sächsischer Hofgärtner. 
+**Abbreviated name**: *H. Maurer*
 
 #### Herbarium and types
 

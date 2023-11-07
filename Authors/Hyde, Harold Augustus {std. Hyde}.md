@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/item/103253#page/407/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33068623) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hyde, Harold Augustus (1892-1973), Welsh botanist and aero-palynologist; high school teacher Birmingham 1914-1917, 1919-1922; at National Museum of Wales 1922-1962. (*Hyde*).
+Hyde, Harold Augustus (1892-1973), Welsh botanist and aero-palynologist; high school teacher Birmingham 1914-1917, 1919-1922; at National Museum of Wales 1922-1962. 
+**Abbreviated name**: *Hyde*
 
 #### Herbarium and types
 

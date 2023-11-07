@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/item/104137#page/846/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33355917) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Olivier, Guillaume Antoine (1756-1814), French zoologist and botanist; practiced medicine until 1792; travelled in the Orient 1792-1798; afterwards working mainly on entomology. (*G. Olivier*).
+Olivier, Guillaume Antoine (1756-1814), French zoologist and botanist; practiced medicine until 1792; travelled in the Orient 1792-1798; afterwards working mainly on entomology. 
+**Abbreviated name**: *G. Olivier*
 
 #### Herbarium and types
 

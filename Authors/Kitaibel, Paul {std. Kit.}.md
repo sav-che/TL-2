@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/item/103253#page/581/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33068797) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kitaibel, Paul (1757-1817), Hungarian botanist at Budapest whose herbarium constitutes the basis of BP. (*Kit.*).
+Kitaibel, Paul (1757-1817), Hungarian botanist at Budapest whose herbarium constitutes the basis of BP. 
+**Abbreviated name**: *Kit.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103250#page/582/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33066862) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zea, Francisco Antonio (1770-1822), Colombian statesman and botanist; educated at the Seminary of Popayan and the College of San Bartolome in Bogota; successor to J.C. Mutis on the "Expedicion botanica" 1789; sent to Spain for political reasons 1794-1799, part of the time imprisoned in Cadiz; on a scientific mission to France 1799-1803; director of the Madrid botanical cabinet 1803; chief clerk of the secretary of the interior 1808, afterwards prefect of Malaga; left Spain after the French occupation, to Bolivar in Haiti 1815; with Bolivar to Venezuela in 1816-1819; vice-president of Colombia after its proclamation as a republic 1819; sent to France and England 1820; student of quinine. (*Zea*).
+Zea, Francisco Antonio (1770-1822), Colombian statesman and botanist; educated at the Seminary of Popayan and the College of San Bartolome in Bogota; successor to J.C. Mutis on the "Expedicion botanica" 1789; sent to Spain for political reasons 1794-1799, part of the time imprisoned in Cadiz; on a scientific mission to France 1799-1803; director of the Madrid botanical cabinet 1803; chief clerk of the secretary of the interior 1808, afterwards prefect of Malaga; left Spain after the French occupation, to Bolivar in Haiti 1815; with Bolivar to Venezuela in 1816-1819; vice-president of Colombia after its proclamation as a republic 1819; sent to France and England 1820; student of quinine. 
+**Abbreviated name**: *Zea*
 
 #### Herbarium and types
 

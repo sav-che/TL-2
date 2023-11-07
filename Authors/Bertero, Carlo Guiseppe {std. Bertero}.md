@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103414#page/249/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33120332) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bertero, Carlo Giuseppe {std. Bertero} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bertero, Carlo Guiseppe (1789-1831), Italian physician, botanist, who as a naval physician travelled in the West Indies (1816-1821) and settled in Chile in 1827. (*Bertero*).
+Bertero, Carlo Guiseppe (1789-1831), Italian physician, botanist, who as a naval physician travelled in the West Indies (1816-1821) and settled in Chile in 1827. 
+**Abbreviated name**: *Bertero*
 
 #### Herbarium and types
 

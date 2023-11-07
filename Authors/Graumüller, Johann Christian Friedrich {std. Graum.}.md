@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/item/103414#page/1029/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33121112) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Graumüller, Johann Christian Friedrich (1770-1824), German botanist and pharmacist at Jena, lectured at Jena University from 1807 onward. (*Graum.*).
+Graumüller, Johann Christian Friedrich (1770-1824), German botanist and pharmacist at Jena, lectured at Jena University from 1807 onward. 
+**Abbreviated name**: *Graum.*
 
 #### Herbarium and types
 

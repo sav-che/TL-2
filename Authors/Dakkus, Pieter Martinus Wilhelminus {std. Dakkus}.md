@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103833#page/34/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259068) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dakkus, Pieter Martinus Wilhelminus (1892-1958), Dutch botanist, born at Utrecht, 1920-1940 curator of the Botanical Gardens at Bogor (Buitenzorg), on expeditions in Sumatra (1920) and Central Borneo (1924-1925). (*Dakkus*).
+Dakkus, Pieter Martinus Wilhelminus (1892-1958), Dutch botanist, born at Utrecht, 1920-1940 curator of the Botanical Gardens at Bogor (Buitenzorg), on expeditions in Sumatra (1920) and Central Borneo (1924-1925). 
+**Abbreviated name**: *Dakkus*
 
 #### Herbarium and types
 

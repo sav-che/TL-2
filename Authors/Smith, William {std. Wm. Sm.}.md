@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/item/104077#page/717/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33333842) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, William (1808-1857), Irish clergyman and diatomologist; professor of natural history, Cork from 1854. (*Wm. Sm.*).
+Smith, William (1808-1857), Irish clergyman and diatomologist; professor of natural history, Cork from 1854. 
+**Abbreviated name**: *Wm. Sm.*
 
 #### Herbarium and types
 

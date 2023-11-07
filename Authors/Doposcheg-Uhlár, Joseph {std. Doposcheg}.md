@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103835#page/68/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33260046) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doposcheg-Uhlár, Joseph (fl. 1913-1931), German botanist, assistant at the Botanical Laboratory of Munich University about 1913, stayed at Buitenzorg (Bogor), Java, Apr-Jun 1913, living 1931 at Partenkirchen, Bavaria. (*Doposcheg*).
+Doposcheg-Uhlár, Joseph (fl. 1913-1931), German botanist, assistant at the Botanical Laboratory of Munich University about 1913, stayed at Buitenzorg (Bogor), Java, Apr-Jun 1913, living 1931 at Partenkirchen, Bavaria. 
+**Abbreviated name**: *Doposcheg*
 
 #### Herbarium and types
 

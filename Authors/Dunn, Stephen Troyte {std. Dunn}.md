@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/item/103414#page/750/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dunn, Stephen Troyte {std. Dunn} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dunn, Stephen Troyte (1868-1938), British botanist, assistant for India at Kew, stationed in Hongkong and travelled in China 1903-1910. (*Dunn*).
+Dunn, Stephen Troyte (1868-1938), British botanist, assistant for India at Kew, stationed in Hongkong and travelled in China 1903-1910. 
+**Abbreviated name**: *Dunn*
 
 #### Herbarium and types
 

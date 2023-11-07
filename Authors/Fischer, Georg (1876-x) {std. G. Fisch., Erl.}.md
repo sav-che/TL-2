@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103834#page/235/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259717) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Georg (1876-x), German botanist, born 22 Feb 1876 in Erlangen, attended local gymnasium and then worked in a pharmacy 1893-1899, studied pharmacy, Univ. of Erlangen 1899-1901, Ph.D. 1902. (*G. Fisch., Erl.*).
+Fischer, Georg (1876-x), German botanist, born 22 Feb 1876 in Erlangen, attended local gymnasium and then worked in a pharmacy 1893-1899, studied pharmacy, Univ. of Erlangen 1899-1901, Ph.D. 1902. 
+**Abbreviated name**: *G. Fisch., Erl.*
 
 #### Herbarium and types
 

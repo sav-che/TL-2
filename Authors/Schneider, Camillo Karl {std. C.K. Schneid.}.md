@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/104077#page/284/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33333409) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, Camillo Karl (1876-1951), German (Saxonian) botanist (dendrologist); studied in Wien with Richard von Wettstein 1901-1909; general secretary and traveller for the Dendrologische Gesellschaft für Österreich-Ungarn; travelled in the Balkan Peninsula and the Caucasus 1907-1908; in Western China 1913-1914; with the Arnold Arboretum 1915-1919; from 1921 garden architect, horticultural journalist and author in Berlin. (*C.K. Schneid.*).
+Schneider, Camillo Karl (1876-1951), German (Saxonian) botanist (dendrologist); studied in Wien with Richard von Wettstein 1901-1909; general secretary and traveller for the Dendrologische Gesellschaft für Österreich-Ungarn; travelled in the Balkan Peninsula and the Caucasus 1907-1908; in Western China 1913-1914; with the Arnold Arboretum 1915-1919; from 1921 garden architect, horticultural journalist and author in Berlin. 
+**Abbreviated name**: *C.K. Schneid.*
 
 #### Herbarium and types
 

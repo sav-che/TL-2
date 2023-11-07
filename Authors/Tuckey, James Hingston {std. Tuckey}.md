@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/103683#page/537/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33212569) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tuckey, James Hingston (1776-1816), British commander in the navy and explorer; in the British navy from 1793, lieutenant 1800, first lieutenant 1802; on the Calcutta to New South Wales to survey Port Philipp 1802-1804; in French captivity 1805-1814, commander 1814; on the Congo to the Zaire river 1816. (*Tuckey*).
+Tuckey, James Hingston (1776-1816), British commander in the navy and explorer; in the British navy from 1793, lieutenant 1800, first lieutenant 1802; on the Calcutta to New South Wales to survey Port Philipp 1802-1804; in French captivity 1805-1814, commander 1814; on the Congo to the Zaire river 1816. 
+**Abbreviated name**: *Tuckey*
 
 #### Herbarium and types
 

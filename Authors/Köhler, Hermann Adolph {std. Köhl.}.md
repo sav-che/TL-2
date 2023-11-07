@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/item/103253#page/621/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Köhler, Hermann Adolph (1834-1879), German botanist. (*Köhl.*).
+Köhler, Hermann Adolph (1834-1879), German botanist. 
+**Abbreviated name**: *Köhl.*
 
 #### Herbarium and types
 

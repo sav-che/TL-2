@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/item/104077#page/516/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Senckenberg, Johann Christian (1707-1772), German (Frankfurt a.M.) physician and naturalist; founder of the Senckenberg Stiftung consisting of a library, botanical garden, chemical laboratory and hospital. (*Senckenberg*).
+Senckenberg, Johann Christian (1707-1772), German (Frankfurt a.M.) physician and naturalist; founder of the Senckenberg Stiftung consisting of a library, botanical garden, chemical laboratory and hospital. 
+**Abbreviated name**: *Senckenberg*
 
 #### Herbarium and types
 

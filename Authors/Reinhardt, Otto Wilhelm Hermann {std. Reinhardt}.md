@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/item/103624#page/715/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinhardt, Otto Wilhelm Hermann (1838-1924), German (Prussian) botanist; Student of Alexander Braun at the Friedrich-Wilhelms-Universität, Berlin; Dr. phil. Berlin 1863; high school teacher at Berlin 1865-1887 (Luisenstädtische Gewerbeschule/Oberrealschule); rector of the fourth Berlin "Bürgerschule" 1887-1891; director of the second Realschule 1891-1910; one of the founders of the Bot. Ver. Mark Brandenburg and close associate of P. Ascherson; from 1874 mainly active as malacologist. (*Reinhardt*).
+Reinhardt, Otto Wilhelm Hermann (1838-1924), German (Prussian) botanist; Student of Alexander Braun at the Friedrich-Wilhelms-Universität, Berlin; Dr. phil. Berlin 1863; high school teacher at Berlin 1865-1887 (Luisenstädtische Gewerbeschule/Oberrealschule); rector of the fourth Berlin "Bürgerschule" 1887-1891; director of the second Realschule 1891-1910; one of the founders of the Bot. Ver. Mark Brandenburg and close associate of P. Ascherson; from 1874 mainly active as malacologist. 
+**Abbreviated name**: *Reinhardt*
 
 #### Herbarium and types
 

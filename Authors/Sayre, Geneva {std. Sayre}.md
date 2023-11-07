@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/104077#page/109/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33333234) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sayre, Geneva (1911-x), American bryologist, botanical historian and bibliographer; Dr. phil. Univ. Colorado 1938; instructor in biology, Univ. of Colorado 1938-1940; id. at Russell Sage College 1940-1941; assistant professor of botany at Russell Sage College 1941-1945, associate professor 1945-1947, professor 1947; in retirement associated with Farlow Herbarium of Harvard University. (*Sayre*).
+Sayre, Geneva (1911-x), American bryologist, botanical historian and bibliographer; Dr. phil. Univ. Colorado 1938; instructor in biology, Univ. of Colorado 1938-1940; id. at Russell Sage College 1940-1941; assistant professor of botany at Russell Sage College 1941-1945, associate professor 1945-1947, professor 1947; in retirement associated with Farlow Herbarium of Harvard University. 
+**Abbreviated name**: *Sayre*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/item/103860#page/505/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33266172) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cugnac, Antoine de (1895-?), French botanist, born 20 Jul 1895 at La Rochelle, at the École speciale militaire de Saint Cyr Jul 1914, in the 113ème Régiment d’Infanterie Aug 1914, invalidated 100% 1919, licencié-ès-sciences naturelles, Paris 1922, assistant Fac. Sciences, Paris 1927, Dr. ès Sci. 1930, chaire d’agriculture Conserv. natl. Arts Métiers 1937, maître de recherches 1941. (*Cugnac*).
+Cugnac, Antoine de (1895-?), French botanist, born 20 Jul 1895 at La Rochelle, at the École speciale militaire de Saint Cyr Jul 1914, in the 113ème Régiment d’Infanterie Aug 1914, invalidated 100% 1919, licencié-ès-sciences naturelles, Paris 1922, assistant Fac. Sciences, Paris 1927, Dr. ès Sci. 1930, chaire d’agriculture Conserv. natl. Arts Métiers 1937, maître de recherches 1941. 
+**Abbreviated name**: *Cugnac*
 
 #### Herbarium and types
 

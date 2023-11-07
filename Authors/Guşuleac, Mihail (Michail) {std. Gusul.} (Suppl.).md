@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103832#page/477/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gusuleac, Mihail {std. Gusul.}|first entry]] for this author
 
 ### Author
 
-\* Guşuleac, Mihail \[Michail\] (1887-1960), Ukrainian (Soviet) morphologist and botanist, born 12 Oct 1887 in Csernovic (then Austro-Hungarian Empire, now Chernivtsi, Ukraine), graduated 1911 and awarded doctorate 1917, both Franz-Josefs Universität (later Universitatea Regele Carol I din Cernăuţi), Dir., Univ. of Cernăuţi Botanic Garden 1919 (from 1918-1940 Cernăuţi (Chernivtsi) was part of the Kingdom of Romania), died 11 Sep 1960 in Chernivtsi, Ukrainian Soviet Socialist Republic. (*Guşuleac*).
+\* Guşuleac, Mihail \[Michail\] (1887-1960), Ukrainian (Soviet) morphologist and botanist, born 12 Oct 1887 in Csernovic (then Austro-Hungarian Empire, now Chernivtsi, Ukraine), graduated 1911 and awarded doctorate 1917, both Franz-Josefs Universität (later Universitatea Regele Carol I din Cernăuţi), Dir., Univ. of Cernăuţi Botanic Garden 1919 (from 1918-1940 Cernăuţi (Chernivtsi) was part of the Kingdom of Romania), died 11 Sep 1960 in Chernivtsi, Ukrainian Soviet Socialist Republic. 
+**Abbreviated name**: *Guşuleac*
 
 #### Herbarium and types
 

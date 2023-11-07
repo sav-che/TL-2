@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103683#page/277/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33212309) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thode, \[Hans\] Justus (1859-1932), German-born S. African plant collector; to S. Africa 1885 or 1886, collected from 1886-1931 maintaining himself as tutor at missionary schools and farms. (*Thode*).
+Thode, \[Hans\] Justus (1859-1932), German-born S. African plant collector; to S. Africa 1885 or 1886, collected from 1886-1931 maintaining himself as tutor at missionary schools and farms. 
+**Abbreviated name**: *Thode*
 
 #### Herbarium and types
 

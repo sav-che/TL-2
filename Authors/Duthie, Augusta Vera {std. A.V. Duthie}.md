@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103835#page/217/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33260195) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duthie, Augusta Vera (1881-1963), South African botanist, born 18 Jul 1881 Belvidere, Knysna, educated at the Huguenot College Wellington 1899-1901, B.A. and later M.A. at Cape Town 1910, D.Sci. University of South Africa in 1929, lecturer in Stellenbosch 1902, head of the departement until 1921, senior lecturer until 1939. (*A.V. Duthie*).
+Duthie, Augusta Vera (1881-1963), South African botanist, born 18 Jul 1881 Belvidere, Knysna, educated at the Huguenot College Wellington 1899-1901, B.A. and later M.A. at Cape Town 1910, D.Sci. University of South Africa in 1929, lecturer in Stellenbosch 1902, head of the departement until 1921, senior lecturer until 1939. 
+**Abbreviated name**: *A.V. Duthie*
 
 #### Herbarium and types
 

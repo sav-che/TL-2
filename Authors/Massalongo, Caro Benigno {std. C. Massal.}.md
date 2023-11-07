@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/104137#page/371/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33355442) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Massalongo, Caro Benigno (1852-1928), Italian botanist at Ferrara; son of A. B. Massalongo. (*C. Massal.*).
+Massalongo, Caro Benigno (1852-1928), Italian botanist at Ferrara; son of A. B. Massalongo. 
+**Abbreviated name**: *C. Massal.*
 
 #### Herbarium and types
 

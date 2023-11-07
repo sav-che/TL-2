@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103250#page/315/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Whitfield, Robert Parr (1828-1910), American palaeontologist; with James Hall at the New York State Survey from ca. 1850-1876; with the American Museum of Natural History as curator of the Dept. of Geology 1876-1910. (*Whitfield*).
+Whitfield, Robert Parr (1828-1910), American palaeontologist; with James Hall at the New York State Survey from ca. 1850-1876; with the American Museum of Natural History as curator of the Dept. of Geology 1876-1910. 
+**Abbreviated name**: *Whitfield*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103253#page/486/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jónsson, Helgi (1867-1925), Icelandic algologist. (*Jónss.*).
+Jónsson, Helgi (1867-1925), Icelandic algologist. 
+**Abbreviated name**: *Jónss.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103253#page/245/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hobson, Edward (1782-1830), British self-taught bryologist, entomologist and geologist at Manchester, correspondent of R. K. Greville and W. J. Hooker. (*Hobs.*).
+Hobson, Edward (1782-1830), British self-taught bryologist, entomologist and geologist at Manchester, correspondent of R. K. Greville and W. J. Hooker. 
+**Abbreviated name**: *Hobs.*
 
 #### Herbarium and types
 

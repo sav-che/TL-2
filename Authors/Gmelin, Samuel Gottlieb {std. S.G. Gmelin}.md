@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/item/103414#page/1006/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33121089) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gmelin, Samuel Gottlieb (1745-1774), German naturalist and traveller in Russia, nephew of J. G. Gmelin. (*S. G. Gmelin*).
+Gmelin, Samuel Gottlieb (1745-1774), German naturalist and traveller in Russia, nephew of J. G. Gmelin. 
+**Abbreviated name**: *S. G. Gmelin*
 
 #### Herbarium and types
 

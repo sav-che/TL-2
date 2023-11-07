@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/item/103624#page/874/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33190331) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rogers, William Moyle (1835-1920), British (English) botanist (batologist) and clergyman, vice principal Theological College Cape Town 1860-1862; curate at various locations in Devon, Isle of Wight, Worcestershire and Dorset; ultimately Vicar of Bridgerule Devon 1882-1885; retired to Bournemouth for health reasons. (*W.M. Rogers*).
+Rogers, William Moyle (1835-1920), British (English) botanist (batologist) and clergyman, vice principal Theological College Cape Town 1860-1862; curate at various locations in Devon, Isle of Wight, Worcestershire and Dorset; ultimately Vicar of Bridgerule Devon 1882-1885; retired to Bournemouth for health reasons. 
+**Abbreviated name**: *W.M. Rogers*
 
 #### Herbarium and types
 

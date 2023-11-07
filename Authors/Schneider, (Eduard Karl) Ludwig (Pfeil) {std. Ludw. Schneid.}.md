@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/104077#page/290/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33333415) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, \[Eduard Karl\] Ludwig \[Pfeil\], (1809-1889), German (Prussian) botanist, magistrate and liberal politician; studied law at the University of Berlin; "Auscultator" at the Magdeburger law-court 1834-1836; studied botany in Berlin with C.S. Kunth 1836-1840; local administrator at Erfurt 1840-1844; burgomaster of Schönebeck a.d. Elbe 1844-1856; member of the regional diet 1847, of the Prussian National Assembly 1848, of the House of representatives 1849; from 1856-1858 and 1860-1861 in Magdeburg; 1858-1860 in Switzerland; member of the House of representatives 1861-1866; in Berlin 1861-1869, in retirement in Zerbst 1871-1878 and Schönebeck 1879-1889. (*Ludw. Schneid.*).
+Schneider, \[Eduard Karl\] Ludwig \[Pfeil\], (1809-1889), German (Prussian) botanist, magistrate and liberal politician; studied law at the University of Berlin; "Auscultator" at the Magdeburger law-court 1834-1836; studied botany in Berlin with C.S. Kunth 1836-1840; local administrator at Erfurt 1840-1844; burgomaster of Schönebeck a.d. Elbe 1844-1856; member of the regional diet 1847, of the Prussian National Assembly 1848, of the House of representatives 1849; from 1856-1858 and 1860-1861 in Magdeburg; 1858-1860 in Switzerland; member of the House of representatives 1861-1866; in Berlin 1861-1869, in retirement in Zerbst 1871-1878 and Schönebeck 1879-1889. 
+**Abbreviated name**: *Ludw. Schneid.*
 
 #### Herbarium and types
 

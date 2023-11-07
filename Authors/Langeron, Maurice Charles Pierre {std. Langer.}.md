@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/item/103253#page/776/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Langeron, Maurice Charles Pierre (1874-1950), French parasitologist and bryologist and palaeobotanist at the Faculté de Médecine, Paris. (*Langer.*).
+Langeron, Maurice Charles Pierre (1874-1950), French parasitologist and bryologist and palaeobotanist at the Faculté de Médecine, Paris. 
+**Abbreviated name**: *Langer.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/item/103683#page/566/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33212598) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tutin, Thomas Gaskell (1908-x), British botanist; studied at Cambridge 1927-1931; collected in Southern Spain and Spanish Marocco 1931 and British Guiana 1932; at the Marine Biological Station Plymouth 1933-1937; to lake Titicaca 1937; lecturer at King's College, London 1937-1939, collected in S. Peru and N. Bolivia 1938; assistant lecturer at Manchester 1939-1944; lecturer-in-charge of the Botany Dept. Leicester University College; professor of botany at Leicester University 1947-1973 (from 1967-1973 occupying the chair of taxonomy). (*Tutin*).
+Tutin, Thomas Gaskell (1908-x), British botanist; studied at Cambridge 1927-1931; collected in Southern Spain and Spanish Marocco 1931 and British Guiana 1932; at the Marine Biological Station Plymouth 1933-1937; to lake Titicaca 1937; lecturer at King's College, London 1937-1939, collected in S. Peru and N. Bolivia 1938; assistant lecturer at Manchester 1939-1944; lecturer-in-charge of the Botany Dept. Leicester University College; professor of botany at Leicester University 1947-1973 (from 1967-1973 occupying the chair of taxonomy). 
+**Abbreviated name**: *Tutin*
 
 #### Herbarium and types
 

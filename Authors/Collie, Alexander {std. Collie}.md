@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/item/103414#page/574/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33120657) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collie, Alexander (x-1835), British naval surgeon, naturalist on Captain Beechey's voyage. (*Collie*).
+Collie, Alexander (x-1835), British naval surgeon, naturalist on Captain Beechey's voyage. 
+**Abbreviated name**: *Collie*
 
 #### Herbarium and types
 

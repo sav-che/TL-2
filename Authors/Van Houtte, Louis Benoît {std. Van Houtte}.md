@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/item/103683#page/680/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33212712) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van Houtte, Louis Benoît (1810-1876), Belgian horticulturist; studied at the École centrale du Commerce, Paris, in Clermont-Ferrand 1826-1828; civil servant in Brussels 1830; travelled in Brazil, Guatemala, Honduras and the Cape Verde Islands collecting living plants 1834-1835; with the Brussels botanical garden 1836-1838; from 1839 at Gendbrugge as private commercial horticulturist; setting up a horticultural school and functioning longtime as burgomaster. (*Van Houtte*).
+Van Houtte, Louis Benoît (1810-1876), Belgian horticulturist; studied at the École centrale du Commerce, Paris, in Clermont-Ferrand 1826-1828; civil servant in Brussels 1830; travelled in Brazil, Guatemala, Honduras and the Cape Verde Islands collecting living plants 1834-1835; with the Brussels botanical garden 1836-1838; from 1839 at Gendbrugge as private commercial horticulturist; setting up a horticultural school and functioning longtime as burgomaster. 
+**Abbreviated name**: *Van Houtte*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103624#page/282/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pinchot, Gifford (1865-1946), American botanist, forester, conservationist and politician, M.A. Yale 1901, M.A. Princeton 1904; studied forestry in France, Germany, Switzerland, Austria; consulting forester 1892-1898; forester USDA 1898-1910, governor of Pennsylvania 1923-1927, 1931-1935. (*Pinchot*).
+Pinchot, Gifford (1865-1946), American botanist, forester, conservationist and politician, M.A. Yale 1901, M.A. Princeton 1904; studied forestry in France, Germany, Switzerland, Austria; consulting forester 1892-1898; forester USDA 1898-1910, governor of Pennsylvania 1923-1927, 1931-1935. 
+**Abbreviated name**: *Pinchot*
 
 #### Herbarium and types
 

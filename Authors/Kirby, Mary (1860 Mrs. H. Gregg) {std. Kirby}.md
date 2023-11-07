@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/103253#page/574/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33068790) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirby, Mary (1860: Mrs. H. Gregg) (1817-1893), British botanist at Leicester. (*Kirby*).
+Kirby, Mary (1860: Mrs. H. Gregg) (1817-1893), British botanist at Leicester. 
+**Abbreviated name**: *Kirby*
 
 #### Herbarium and types
 

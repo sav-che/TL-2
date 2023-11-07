@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103858#page/210/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33264925) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Asplund, Erik (1888-1974), Swedish botanist, fil. mag. Uppsala 1913, amanuensis at the Botanical Laboratory Uppsala 1915-1920, Dr. phil. Uppsala 1920, "docent" ib. 1920-1927, fourth Regnell Scholar and assistant, later curator, at the Botanical Department, Natural History Museum, Stockholm 1926 \[sic\], specialist on the South American flora, explored e.g. Spitsbergen, Bolivia 1920-1921 and Ecuador and Peru 1920-1921, 1939-1941. (*Asplund*).
+Asplund, Erik (1888-1974), Swedish botanist, fil. mag. Uppsala 1913, amanuensis at the Botanical Laboratory Uppsala 1915-1920, Dr. phil. Uppsala 1920, "docent" ib. 1920-1927, fourth Regnell Scholar and assistant, later curator, at the Botanical Department, Natural History Museum, Stockholm 1926 \[sic\], specialist on the South American flora, explored e.g. Spitsbergen, Bolivia 1920-1921 and Ecuador and Peru 1920-1921, 1939-1941. 
+**Abbreviated name**: *Asplund*
 
 #### Herbarium and types
 

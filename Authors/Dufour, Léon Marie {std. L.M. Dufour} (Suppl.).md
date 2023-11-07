@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103835#page/160/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33260138) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dufour, Léon (Marie) {std. L.M. Dufour}|first entry]] for this author
 
 ### Author
 
-\* Dufour, Léon Marie (1862-1942), French botanist (mycologist), born 4 Apr 1862 Dol-de-Bretagne, studied natural sciences, went to Paris as assistant at the faculty of sciences 1887 and was appointed by Gaston Bonnier at the "Laboratoire de biologie végétale" at Fontainebleau in 1890, died 15 Jan 1942. (*L.M. Dufour*).
+\* Dufour, Léon Marie (1862-1942), French botanist (mycologist), born 4 Apr 1862 Dol-de-Bretagne, studied natural sciences, went to Paris as assistant at the faculty of sciences 1887 and was appointed by Gaston Bonnier at the "Laboratoire de biologie végétale" at Fontainebleau in 1890, died 15 Jan 1942. 
+**Abbreviated name**: *L.M. Dufour*
 
 #### Herbarium and types
 

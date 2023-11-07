@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/103835#page/309/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33260287) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Elenkin, Aleksander Aleksandrovitch {std. Elenkin}|first entry]] for this author
 
 ### Author
 
-\* Elenkin, Alexander Alexandrowitsch (1873-1942), Polish/Russian botanist, born 4 Nov 1873 a Warsaw, studied until 1893 at the University of Warsaw, assistant for systematics and morphology 1898, from 1899 conservator and director of the department of cryptogamy of the botanic gardens at St. Petersburg, later professor and scientific specialist, considered to be "father of Russian lichenology", died 19 Apr 1942 at Kasan. (*Elenkin*).
+\* Elenkin, Alexander Alexandrowitsch (1873-1942), Polish/Russian botanist, born 4 Nov 1873 a Warsaw, studied until 1893 at the University of Warsaw, assistant for systematics and morphology 1898, from 1899 conservator and director of the department of cryptogamy of the botanic gardens at St. Petersburg, later professor and scientific specialist, considered to be "father of Russian lichenology", died 19 Apr 1942 at Kasan. 
+**Abbreviated name**: *Elenkin*
 
 #### Herbarium and types
 

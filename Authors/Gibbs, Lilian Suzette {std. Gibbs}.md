@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/item/103414#page/988/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/page/33121071) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gibbs, Lilian Suzette (Susette) {std. Gibbs} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gibbs, Lilian Suzette (1870-1925), British botanist. (*Gibbs*).
+Gibbs, Lilian Suzette (1870-1925), British botanist. 
+**Abbreviated name**: *Gibbs*
 
 #### Herbarium and types
 

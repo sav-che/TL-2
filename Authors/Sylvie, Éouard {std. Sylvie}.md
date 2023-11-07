@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103683#page/148/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33212180) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sylvie, Éouard (1670-1739). Fictitious French naturalist and clergyman; abbot at Lyon; visited Santo Domingo 1701-1703, explored the Caribbean sea, visited South America 1704, doubled Cape Horn, explored Chile and Peru; returned to France 1710. (*Sylvie*).
+Sylvie, Éouard (1670-1739). Fictitious French naturalist and clergyman; abbot at Lyon; visited Santo Domingo 1701-1703, explored the Caribbean sea, visited South America 1704, doubled Cape Horn, explored Chile and Peru; returned to France 1710. 
+**Abbreviated name**: *Sylvie*
 
 #### Note
 

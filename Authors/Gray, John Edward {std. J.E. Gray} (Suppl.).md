@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103832#page/362/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33258828) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gray, John Edward {std. J.E. Gray}|first entry]] for this author
 
 ### Author
 
-\* Gray, John Edward (1800-1875), British algologist, hepaticologist and zoologist, born 12 Feb 1800 in Walsall (Staffs.), son of Samuel Frederick Gray (1766-1828) (pharmacologist and botanist) and brother of George Robert Gray (1808-1872) (ornithologist), studied medicine but abandoned it for zoology, from 1824 asst. Zoology Dept. and from 1840 Keeper of Zoology, BMNH, F.R.S. 1832, president, Bot. Soc. London 1836-1857, Dr. h.c. 1852 Univ. of Munich, F.L.S. 1857, president, Royal Entomol. Soc. London 1858-1859, died 7 Mar 1875 "at his residence in the British Museum" \[i.e. London\] (buried in Lewisham). (*J.E. Gray*).
+\* Gray, John Edward (1800-1875), British algologist, hepaticologist and zoologist, born 12 Feb 1800 in Walsall (Staffs.), son of Samuel Frederick Gray (1766-1828) (pharmacologist and botanist) and brother of George Robert Gray (1808-1872) (ornithologist), studied medicine but abandoned it for zoology, from 1824 asst. Zoology Dept. and from 1840 Keeper of Zoology, BMNH, F.R.S. 1832, president, Bot. Soc. London 1836-1857, Dr. h.c. 1852 Univ. of Munich, F.L.S. 1857, president, Royal Entomol. Soc. London 1858-1859, died 7 Mar 1875 "at his residence in the British Museum" \[i.e. London\] (buried in Lewisham). 
+**Abbreviated name**: *J.E. Gray*
 
 #### Herbarium and types
 

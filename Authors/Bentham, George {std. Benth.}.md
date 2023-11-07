@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103414#page/221/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33120304) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bentham, George {std. Benth.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bentham, George (1800-1884), English botanist. (*Benth.*).
+Bentham, George (1800-1884), English botanist. 
+**Abbreviated name**: *Benth.*
 
 #### Herbarium and types
 

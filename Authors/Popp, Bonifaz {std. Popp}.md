@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103624#page/353/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Popp, Bonifaz (x-1892), German (Bavarian) botanist, Benedictine monk and high school teacher at Scheyern, Bayern. (*Popp*).
+Popp, Bonifaz (x-1892), German (Bavarian) botanist, Benedictine monk and high school teacher at Scheyern, Bayern. 
+**Abbreviated name**: *Popp*
 
 #### Herbarium and types
 

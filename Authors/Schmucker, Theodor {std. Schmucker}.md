@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/item/104077#page/279/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33333404) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmucker, Theodor (1895-1970), German (Bavarian) botanist; student of K. Goebel and G. Hegi in München; Dr. phil. München 1922; assistant with K. Goebel, subsequently "Privatdocent" (1927) and extraordinary professor (1933) of botany at Göttingen; ordinary professor of forest botany and technical mycology at the forestry college of Hann.-Münden (Forestry faculty of the University of Göttingen) 1937-1959. (*Schmucker*).
+Schmucker, Theodor (1895-1970), German (Bavarian) botanist; student of K. Goebel and G. Hegi in München; Dr. phil. München 1922; assistant with K. Goebel, subsequently "Privatdocent" (1927) and extraordinary professor (1933) of botany at Göttingen; ordinary professor of forest botany and technical mycology at the forestry college of Hann.-Münden (Forestry faculty of the University of Göttingen) 1937-1959. 
+**Abbreviated name**: *Schmucker*
 
 #### Herbarium and types
 

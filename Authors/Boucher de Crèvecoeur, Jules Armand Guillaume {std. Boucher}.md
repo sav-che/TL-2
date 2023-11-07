@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103414#page/338/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33120421) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boucher de Crèvecoeur, Jules Armand Guillaume {std. Boucher} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boucher de Crèvecoeur, Jules Armand Guillaume (1757-1844), French botanist. (*Boucher*).
+Boucher de Crèvecoeur, Jules Armand Guillaume (1757-1844), French botanist. 
+**Abbreviated name**: *Boucher*
 
 #### Herbarium and types
 

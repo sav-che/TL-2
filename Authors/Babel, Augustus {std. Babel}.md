@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103858#page/238/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33264953) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Babel, Augustus (fl. 1804), German (N.-Silesian from Brega \[Briga, Brzeg\]) physician, studied at Halle, Dr. med. ib. 1804. (*Babel*).
+Babel, Augustus (fl. 1804), German (N.-Silesian from Brega \[Briga, Brzeg\]) physician, studied at Halle, Dr. med. ib. 1804. 
+**Abbreviated name**: *Babel*
 
 #### Herbarium and types
 

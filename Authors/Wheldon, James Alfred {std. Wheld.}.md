@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103250#page/301/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33066581) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wheldon, James Alfred (1862-1924), British pharmacist and botanist; studied at Cleveland College, Darlington and the Westminster College of Pharmacy, London; pharmac. exam. 1884; practicing pharmacist in York 1884-1890; pharmacist at H.M. Prison, Liverpool 1891-1921; co-founder Moss Exchange Club British Isles (later Brit. bryol. Soc). (*Wheld.*).
+Wheldon, James Alfred (1862-1924), British pharmacist and botanist; studied at Cleveland College, Darlington and the Westminster College of Pharmacy, London; pharmac. exam. 1884; practicing pharmacist in York 1884-1890; pharmacist at H.M. Prison, Liverpool 1891-1921; co-founder Moss Exchange Club British Isles (later Brit. bryol. Soc). 
+**Abbreviated name**: *Wheld.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103835#page/224/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33260202) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duval, Clotaire (1854-1903), French botanist, head of the botany school of the Muséum at Paris, later chief gardener at the laboratory for plant biology at Fontainebleau, also seed merchant at Paris, sub-secretary of the Société botanique de France 1884, secretary in 1888, member of several scientific societies, died Dec 1903. (*Cl. Duval*).
+Duval, Clotaire (1854-1903), French botanist, head of the botany school of the Muséum at Paris, later chief gardener at the laboratory for plant biology at Fontainebleau, also seed merchant at Paris, sub-secretary of the Société botanique de France 1884, secretary in 1888, member of several scientific societies, died Dec 1903. 
+**Abbreviated name**: *Cl. Duval*
 
 #### Herbarium and types
 

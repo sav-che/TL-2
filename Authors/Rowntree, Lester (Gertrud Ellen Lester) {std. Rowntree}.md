@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/item/103624#page/966/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/page/33190423) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rowntree, Lester (Gertrud Ellen Lester) (1879-1979), British-born (Cumberland) naturalist, horticulturist and writer; emigrated to America 1889; married to Bernard Rowntree 1908-1930; settled in California where she ran a wild flower firm. (*Rowntree*).
+Rowntree, Lester (Gertrud Ellen Lester) (1879-1979), British-born (Cumberland) naturalist, horticulturist and writer; emigrated to America 1889; married to Bernard Rowntree 1908-1930; settled in California where she ran a wild flower firm. 
+**Abbreviated name**: *Rowntree*
 
 #### Herbarium and types
 

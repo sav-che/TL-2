@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 970](https://www.biodiversitylibrary.org/item/103414#page/1018/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 970](https://www.biodiversitylibrary.org/page/33121101) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gomont, Maurice Augustin {std. Gomont} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gomont, Maurice Augustin (1839-1909), French algologist, "garde-général des forêts" at Rouen. (*Gomont*).
+Gomont, Maurice Augustin (1839-1909), French algologist, "garde-général des forêts" at Rouen. 
+**Abbreviated name**: *Gomont*
 
 #### Herbarium and types
 

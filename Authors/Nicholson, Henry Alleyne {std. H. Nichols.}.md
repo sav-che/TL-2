@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/item/104137#page/758/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33355829) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicholson, Henry Alleyne (1844-1899), Scottish palaeobotanist; Dr. phil. Göttingen 1862; M. D. Edinburgh 1869; professor of natural history Toronto 1871, Durham 1874, St. Andrews 1875, Aberdeen 1882. (*H. Nichols.*).
+Nicholson, Henry Alleyne (1844-1899), Scottish palaeobotanist; Dr. phil. Göttingen 1862; M. D. Edinburgh 1869; professor of natural history Toronto 1871, Durham 1874, St. Andrews 1875, Aberdeen 1882. 
+**Abbreviated name**: *H. Nichols.*
 
 #### Herbarium and types
 

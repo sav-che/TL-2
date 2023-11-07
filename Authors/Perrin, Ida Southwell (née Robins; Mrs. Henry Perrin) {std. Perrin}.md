@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103624#page/187/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33189644) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perrin, Ida Southwell (née Robins; Mrs. Henry Perrin), (1860-?), British popular writer on botany and botanical artist. (*Perrin*).
+Perrin, Ida Southwell (née Robins; Mrs. Henry Perrin), (1860-?), British popular writer on botany and botanical artist. 
+**Abbreviated name**: *Perrin*
 
 #### Herbarium and types
 

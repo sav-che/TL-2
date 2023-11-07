@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/103414#page/709/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33120792) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dodge, Bernard Ogilvie {std. B.O. Dodge} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dodge, Bernard Ogilvie (1872-1960), American mycologist, cytologist, geneticist, and phytopathologist. (*B. O. Dodge*).
+Dodge, Bernard Ogilvie (1872-1960), American mycologist, cytologist, geneticist, and phytopathologist. 
+**Abbreviated name**: *B. O. Dodge*
 
 #### Herbarium and types
 

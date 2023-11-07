@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103414#page/210/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33120293) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beckhaus, Konrad (also Conrad) Friedrich Ludwig {std. Beckh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beckhaus, Konrad Friedrich Ludwig (1821-1890), German clergyman, highschool teacher and botanist at Höxter, Westfalen. (*Beckhaus*).
+Beckhaus, Konrad Friedrich Ludwig (1821-1890), German clergyman, highschool teacher and botanist at Höxter, Westfalen. 
+**Abbreviated name**: *Beckhaus*
 
 #### Herbarium and types
 

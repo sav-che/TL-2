@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103683#page/440/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33212472) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Traill, George William (1836-1897), British botanist (phycologist) and mineralogist; clerk in the Standard Life Assurance Co., Edinburgh. (*Traill*).
+Traill, George William (1836-1897), British botanist (phycologist) and mineralogist; clerk in the Standard Life Assurance Co., Edinburgh. 
+**Abbreviated name**: *Traill*
 
 #### Herbarium and types
 

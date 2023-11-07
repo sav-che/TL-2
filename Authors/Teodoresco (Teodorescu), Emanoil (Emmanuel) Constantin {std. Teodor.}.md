@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103683#page/229/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33212261) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teodoresco \[Teodorescu\], Emanoil \[Emmanuel\] Constantin (1866-1949), Rumanian botanist (algologist, phytosociologist, plant physiologist); Dr. phil. Paris 1899; professor of plant physiology at the Faculty of Sciences of Bucarest University. (*Teodor.*).
+Teodoresco \[Teodorescu\], Emanoil \[Emmanuel\] Constantin (1866-1949), Rumanian botanist (algologist, phytosociologist, plant physiologist); Dr. phil. Paris 1899; professor of plant physiology at the Faculty of Sciences of Bucarest University. 
+**Abbreviated name**: *Teodor.*
 
 #### Herbarium and types
 

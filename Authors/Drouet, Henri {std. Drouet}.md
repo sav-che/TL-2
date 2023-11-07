@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/item/103414#page/729/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33120812) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drouet, Henri (1829-x), French botanist and conchologist. (*Drouet*).
+Drouet, Henri (1829-x), French botanist and conchologist. 
+**Abbreviated name**: *Drouet*
 
 #### Herbarium and types
 

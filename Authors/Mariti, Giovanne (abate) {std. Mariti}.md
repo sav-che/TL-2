@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/104137#page/312/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33355383) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mariti, Giovanne (abate) (1736-1806), Italian clergyman and botanist. (*Mariti*).
+Mariti, Giovanne (abate) (1736-1806), Italian clergyman and botanist. 
+**Abbreviated name**: *Mariti*
 
 #### Herbarium and types
 

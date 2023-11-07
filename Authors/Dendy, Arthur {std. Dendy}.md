@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103833#page/211/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33259245) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dendy, Arthur (1865-1925), British botanist and zoologist, born Patricroft near Manchester 20 Jan 1865, died London 24 Mar 1925, D.Sc. Manchester 1886, F.R.S. 1908, F.Z.S., F.L.S. 1886, Demonstrator on Zoology at Melbourne University 1884-1894, lecturer, later professor of biology at Canterbury College, New Zealand 1894-1903, South African College 1903-1905, King's College of London 1903-1925. (*Dendy*).
+Dendy, Arthur (1865-1925), British botanist and zoologist, born Patricroft near Manchester 20 Jan 1865, died London 24 Mar 1925, D.Sc. Manchester 1886, F.R.S. 1908, F.Z.S., F.L.S. 1886, Demonstrator on Zoology at Melbourne University 1884-1894, lecturer, later professor of biology at Canterbury College, New Zealand 1894-1903, South African College 1903-1905, King's College of London 1903-1925. 
+**Abbreviated name**: *Dendy*
 
 #### Herbarium and types
 

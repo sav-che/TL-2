@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103250#page/449/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33066729) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wirth, Carl (1883-?), Swiss botanist; studied at the teacher's seminary.at Küsnacht 1899-1903; teacher at Zürich 1905; studied botany at the University of Zürich with Hans Schinz; Dr. phil. ib. 1914. (*Wirth*).
+Wirth, Carl (1883-?), Swiss botanist; studied at the teacher's seminary.at Küsnacht 1899-1903; teacher at Zürich 1905; studied botany at the University of Zürich with Hans Schinz; Dr. phil. ib. 1914. 
+**Abbreviated name**: *Wirth*
 
 #### Herbarium and types
 

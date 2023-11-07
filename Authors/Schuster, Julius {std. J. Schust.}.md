@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/104077#page/426/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33333551) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schuster, Julius (1886-1949), German (Bavarian) botanist, morphologist, palaeontologist and historian of biology; Dr. phil. München 1909; habil. ib. 1911; scientific assistant Bot. Mus. Berlin-Dahlem 1912-1920; in charge of the archival collection for the history of sciences, Darmstadt 1920-1928; with the geol.-palaeont. Museum Berlin 1928; habil. Berlin 1932; lecturer and extra-ordinary professor history of biology, Univ. Berlin and employed at the Institute for the history of science and medicine 1932-1945; relieved from his functions 1945; collaborator Volk und Wissen 1945. (*J. Schust.*).
+Schuster, Julius (1886-1949), German (Bavarian) botanist, morphologist, palaeontologist and historian of biology; Dr. phil. München 1909; habil. ib. 1911; scientific assistant Bot. Mus. Berlin-Dahlem 1912-1920; in charge of the archival collection for the history of sciences, Darmstadt 1920-1928; with the geol.-palaeont. Museum Berlin 1928; habil. Berlin 1932; lecturer and extra-ordinary professor history of biology, Univ. Berlin and employed at the Institute for the history of science and medicine 1932-1945; relieved from his functions 1945; collaborator Volk und Wissen 1945. 
+**Abbreviated name**: *J. Schust.*
 
 #### Herbarium and types
 

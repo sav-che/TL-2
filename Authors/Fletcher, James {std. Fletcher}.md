@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/item/103414#page/893/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33120976) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fletcher, James {std. Fletcher} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fletcher, James (1852-1908), Canadian botanist. (*Fletcher*).
+Fletcher, James (1852-1908), Canadian botanist. 
+**Abbreviated name**: *Fletcher*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103250#page/439/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winslow, Charles Frederick (1811-1877), American geologist, seismologist and physician; M.D. Harvard 1834; V.S. consul in Payta, Peru from 1862; visitéd the Hawaiian Islands, later in California and Utah. (*C. Winslow*).
+Winslow, Charles Frederick (1811-1877), American geologist, seismologist and physician; M.D. Harvard 1834; V.S. consul in Payta, Peru from 1862; visitéd the Hawaiian Islands, later in California and Utah. 
+**Abbreviated name**: *C. Winslow*
 
 #### Herbarium and types
 

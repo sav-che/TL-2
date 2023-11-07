@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/item/104137#page/606/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33355677) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morong, Thomas (1827-1894), American congregational clergyman and botanist; resigned his pastoral charge in 1888; collected in Paraguay 1888-1890 and in Chile; specialist on *Potamogeton*; curator of the Columbia College herbarium in New York 1890-1894. (*Morong*).
+Morong, Thomas (1827-1894), American congregational clergyman and botanist; resigned his pastoral charge in 1888; collected in Paraguay 1888-1890 and in Chile; specialist on *Potamogeton*; curator of the Columbia College herbarium in New York 1890-1894. 
+**Abbreviated name**: *Morong*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103859#page/200/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265387) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blake, Sidney Fay {std. S.F. Blake}|first entry]] for this author
 
 ### Author
 
-\* Blake, Sidney Fay (1892-1959), American botanist (Massachusetts born), studied at Harvard, visited Europe 1913-1916, continued his studies 1916-1917, Ph.D. Cambridge (Mass.) 1917, assistant botanist USDA 1917, travelled in Guatemala and Honduras 1918, worked in London, Paris and Genève 1925, in various ranks at USDA until 1959. (*S.F. Blake*).
+\* Blake, Sidney Fay (1892-1959), American botanist (Massachusetts born), studied at Harvard, visited Europe 1913-1916, continued his studies 1916-1917, Ph.D. Cambridge (Mass.) 1917, assistant botanist USDA 1917, travelled in Guatemala and Honduras 1918, worked in London, Paris and Genève 1925, in various ranks at USDA until 1959. 
+**Abbreviated name**: *S.F. Blake*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/103624#page/429/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prodan, Iuliu \[Julius\] (1875-1959), Roumanian botanist; studied at Cluj (lic. sci. nat. 1899); high school teacher at Gherla, Nasaud, Eger & Zombor 1899-1919; professor of botany at the faculty of agronomy, Cluj 1919-1940. (*Prodan*).
+Prodan, Iuliu \[Julius\] (1875-1959), Roumanian botanist; studied at Cluj (lic. sci. nat. 1899); high school teacher at Gherla, Nasaud, Eger & Zombor 1899-1919; professor of botany at the faculty of agronomy, Cluj 1919-1940. 
+**Abbreviated name**: *Prodan*
 
 #### Herbarium and types
 

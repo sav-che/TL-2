@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/item/103834#page/374/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33259856) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fott, Bohuslav (1908-1976), Czech algologist, born 12 Sep 1908 in Příbram, university graduate 1931, Dr. Rerum Naturalium 1932 and Dr. Biol. Sciences 1957, all Univ. Karlova (Charles Univ.), Prague, prof., Charles Univ. where he specialized in freshwater algae, President, Intl. Phycological Society 1962, visiting prof., Univ. of Washington, Seattle 1969, retired 1973, died 7 Oct 1976 in Prague. (*Fott*).
+Fott, Bohuslav (1908-1976), Czech algologist, born 12 Sep 1908 in Příbram, university graduate 1931, Dr. Rerum Naturalium 1932 and Dr. Biol. Sciences 1957, all Univ. Karlova (Charles Univ.), Prague, prof., Charles Univ. where he specialized in freshwater algae, President, Intl. Phycological Society 1962, visiting prof., Univ. of Washington, Seattle 1969, retired 1973, died 7 Oct 1976 in Prague. 
+**Abbreviated name**: *Fott*
 
 #### Herbarium and types
 

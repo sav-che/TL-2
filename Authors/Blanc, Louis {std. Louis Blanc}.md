@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103859#page/209/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33265396) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blanc, Louis (fl. 1898-1910), French engineer with the Department of Engineering at Montpellier. (*Louis Blanc*).
+Blanc, Louis (fl. 1898-1910), French engineer with the Department of Engineering at Montpellier. 
+**Abbreviated name**: *Louis Blanc*
 
 #### Herbarium and types
 

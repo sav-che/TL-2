@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103861#page/87/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33266384) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brinkman, Alfred Henry (1873-1945), English born bryologist, on Lighthouse service, England 1895-1908, emigrated to Canada 1908, settled at Craigmyle, Alberta, surveyor and topographer in Rocky Mountain forests. (*Brinkm.*).
+Brinkman, Alfred Henry (1873-1945), English born bryologist, on Lighthouse service, England 1895-1908, emigrated to Canada 1908, settled at Craigmyle, Alberta, surveyor and topographer in Rocky Mountain forests. 
+**Abbreviated name**: *Brinkm.*
 
 #### Herbarium and types
 

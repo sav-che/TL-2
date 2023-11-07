@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103860#page/58/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chandler, Alfred Jr. (1804-1896), British nurseryman, succeeded his father as nurseryman at Vauxhall. (*Chandler*).
+Chandler, Alfred Jr. (1804-1896), British nurseryman, succeeded his father as nurseryman at Vauxhall. 
+**Abbreviated name**: *Chandler*
 
 #### Herbarium and types
 

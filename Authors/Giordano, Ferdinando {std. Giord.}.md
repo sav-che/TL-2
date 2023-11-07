@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/103832#page/241/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33258707) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Giordano, Ferdinando (fl. 1833-1842), Italian medical doctor in Naples (Kingdom of the Two Sicilies), associated with M. Tenore. (*Giord.*).
+Giordano, Ferdinando (fl. 1833-1842), Italian medical doctor in Naples (Kingdom of the Two Sicilies), associated with M. Tenore. 
+**Abbreviated name**: *Giord.*
 
 #### Herbarium and types
 

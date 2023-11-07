@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103683#page/71/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33212065) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stur, Dionys \[Rudolf Josef\] \[Štur, Dionýz\] (1827-1893), Slovak botanist, geologist and paleobotanist; studied at Wien and Schemnitz; student of St. Endlicher with the Geol. Reichsanstalt, Wien from 1850, Bergrath 1867, geologist-in-chief 1873-1877, from 1877-1885 assistant director, director 1885-1892; Cothenius medal Leopoldina 1890. (*Stur*).
+Stur, Dionys \[Rudolf Josef\] \[Štur, Dionýz\] (1827-1893), Slovak botanist, geologist and paleobotanist; studied at Wien and Schemnitz; student of St. Endlicher with the Geol. Reichsanstalt, Wien from 1850, Bergrath 1867, geologist-in-chief 1873-1877, from 1877-1885 assistant director, director 1885-1892; Cothenius medal Leopoldina 1890. 
+**Abbreviated name**: *Stur*
 
 #### Herbarium and types
 

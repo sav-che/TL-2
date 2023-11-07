@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/item/104137#page/642/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33355713) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Fritz \[Johann Friedrich Theodor\] (1822-1897), German zoologist and flower biologist; studied at Berlin and Greifswald; Dr. phil. Berlin 1844; studied medicine at Greifswald 1845-1848; to Brazil 1852 as farmer and physician in the primeval forest of Santa Catharina (Rio Garcia); from 1856-1857 high school teacher at Desterro; from 1867-1897 at Blumenau as private scientist and (1867-1891) "naturalista viajante" for the Brazilian government. (*Fritz Müll.*).
+Müller, Fritz \[Johann Friedrich Theodor\] (1822-1897), German zoologist and flower biologist; studied at Berlin and Greifswald; Dr. phil. Berlin 1844; studied medicine at Greifswald 1845-1848; to Brazil 1852 as farmer and physician in the primeval forest of Santa Catharina (Rio Garcia); from 1856-1857 high school teacher at Desterro; from 1867-1897 at Blumenau as private scientist and (1867-1891) "naturalista viajante" for the Brazilian government. 
+**Abbreviated name**: *Fritz Müll.*
 
 #### Herbarium and types
 

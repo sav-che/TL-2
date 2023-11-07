@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103859#page/69/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33265256) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beinert, Carl Christian (1793-1868), German (Waitsdorf bei Bernstadt) pharmacist, palaeobotanist and mycologist at Charlottenbrunn (Schlesien), Dr. phil. Breslau 19 Aug 1849. (*Beinert*).
+Beinert, Carl Christian (1793-1868), German (Waitsdorf bei Bernstadt) pharmacist, palaeobotanist and mycologist at Charlottenbrunn (Schlesien), Dr. phil. Breslau 19 Aug 1849. 
+**Abbreviated name**: *Beinert*
 
 #### Herbarium and types
 

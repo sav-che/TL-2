@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/item/103683#page/786/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33212818) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voigt, Joachim Otto (1798-1843), Danish physician and botanist; surgeon's examination 1822; surgeon to the Danish colony of Frederiksnagor (Serampore) near Calcutta 1826; succeeded Carey as superintendent of the Botanical Garden of Serampore 1834-1841, temporary in charge of the Calcutta botanical garden 1841; returned to Europe because of illness in 843, died in London. (*Voigt*).
+Voigt, Joachim Otto (1798-1843), Danish physician and botanist; surgeon's examination 1822; surgeon to the Danish colony of Frederiksnagor (Serampore) near Calcutta 1826; succeeded Carey as superintendent of the Botanical Garden of Serampore 1834-1841, temporary in charge of the Calcutta botanical garden 1841; returned to Europe because of illness in 843, died in London. 
+**Abbreviated name**: *Voigt*
 
 #### Herbarium and types
 

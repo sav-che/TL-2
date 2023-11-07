@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/103683#page/576/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33212608) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uildriks, Frederike Johanna van (*fl*. 1898), Dutch popular writer on botany. (*Uildriks*).
+Uildriks, Frederike Johanna van (*fl*. 1898), Dutch popular writer on botany. 
+**Abbreviated name**: *Uildriks*
 
 #### Herbarium and types
 

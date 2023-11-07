@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103414#page/368/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33120451) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breutel, Johann Christian (1788-1875), German Moravian bishop (1853-1875), botanist at Herrnhut, travelled in the West Indies and South Africa. (*Breut.*).
+Breutel, Johann Christian (1788-1875), German Moravian bishop (1853-1875), botanist at Herrnhut, travelled in the West Indies and South Africa. 
+**Abbreviated name**: *Breut.*
 
 #### Herbarium and types
 

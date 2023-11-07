@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/103861#page/197/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33266494) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchanan, Robert Earle (1883-1973), American bacteriologist, born at Cedar Rapids, Iowa, studied at Ames, Iowa State College, degree in botany 1904, master in bacteriology 1906, Dr. in bacteriology, University of Chicago 1908, at the Department of Bacteriology of Iowa State College 1908-1948, active with the International Bacteriological Code of Nomenclature, editor of the International Bulletin of Bacteriological Nomenclature and Taxonomy, later International Journal of systematic Bacteriology. (*R.E. Buchanan*).
+Buchanan, Robert Earle (1883-1973), American bacteriologist, born at Cedar Rapids, Iowa, studied at Ames, Iowa State College, degree in botany 1904, master in bacteriology 1906, Dr. in bacteriology, University of Chicago 1908, at the Department of Bacteriology of Iowa State College 1908-1948, active with the International Bacteriological Code of Nomenclature, editor of the International Bulletin of Bacteriological Nomenclature and Taxonomy, later International Journal of systematic Bacteriology. 
+**Abbreviated name**: *R.E. Buchanan*
 
 #### Herbarium and types
 

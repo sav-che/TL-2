@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103250#page/115/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33066395) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walz, Lajos \[Ludwig\] (1845-1914), Hungarian botanist; studied at the Vienna Polytechnic 1864; gardener at the Graz Johanneum 1865-1868, idem in Körmend 1868-1870; assistant gardener at the botanical garden of Budapest University 1870-1873, at the botanical garden of Klausenburg (Kolozsvár, Cluj) 1873-1914, from 1901 as inspector. (*L. Walz*).
+Walz, Lajos \[Ludwig\] (1845-1914), Hungarian botanist; studied at the Vienna Polytechnic 1864; gardener at the Graz Johanneum 1865-1868, idem in Körmend 1868-1870; assistant gardener at the botanical garden of Budapest University 1870-1873, at the botanical garden of Klausenburg (Kolozsvár, Cluj) 1873-1914, from 1901 as inspector. 
+**Abbreviated name**: *L. Walz*
 
 #### Herbarium and types
 

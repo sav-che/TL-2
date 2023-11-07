@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/item/104077#page/931/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/page/33334056) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stevens, Neil Everett (1887-1949), American mycologist and plant pathologist; Dr. phil. Yale Univ. 1911; with Kansas State College 1911-1912; plant pathologist in the Bureau of Plant Industry 1912-1936, associated with C.L. Shear; adjunct professor of botany at George Washington University 1931-1936; professor of botany, University of Illinois, Urbana 1936-1949. (*N. Stevens*).
+Stevens, Neil Everett (1887-1949), American mycologist and plant pathologist; Dr. phil. Yale Univ. 1911; with Kansas State College 1911-1912; plant pathologist in the Bureau of Plant Industry 1912-1936, associated with C.L. Shear; adjunct professor of botany at George Washington University 1931-1936; professor of botany, University of Illinois, Urbana 1936-1949. 
+**Abbreviated name**: *N. Stevens*
 
 #### Herbarium and types
 

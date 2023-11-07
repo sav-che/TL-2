@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103833#page/107/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33259141) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-David, Elisabeth (fl. 1938), German botanist at the Botanical Institute of the University of Rostock. (*E. David*).
+David, Elisabeth (fl. 1938), German botanist at the Botanical Institute of the University of Rostock. 
+**Abbreviated name**: *E. David*
 
 #### Herbarium and types
 

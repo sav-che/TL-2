@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/item/103624#page/357/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33189814) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Porta, Pietro (1832-1923), Italian botanist and clergyman; in Vallaria 1856; later priest at Bolone, Val Vestino, Trento; explored S. Tirol, Spain, the Balearic Is. with R. Huter and G. Rigo; ultimately living in Cologna di Creto. (*Porta*).
+Porta, Pietro (1832-1923), Italian botanist and clergyman; in Vallaria 1856; later priest at Bolone, Val Vestino, Trento; explored S. Tirol, Spain, the Balearic Is. with R. Huter and G. Rigo; ultimately living in Cologna di Creto. 
+**Abbreviated name**: *Porta*
 
 #### Herbarium and types
 

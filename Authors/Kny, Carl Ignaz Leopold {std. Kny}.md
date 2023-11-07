@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/item/103253#page/612/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33068828) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kny, Carl Ignaz Leopold (1841-1916), German botanist; pupil of A. Braun; Dr. phil. Berlin 1863; professor of botany at the Landwirtschaftliche Hochschule, Berlin from 1868. (*Kny*).
+Kny, Carl Ignaz Leopold (1841-1916), German botanist; pupil of A. Braun; Dr. phil. Berlin 1863; professor of botany at the Landwirtschaftliche Hochschule, Berlin from 1868. 
+**Abbreviated name**: *Kny*
 
 #### Herbarium and types
 

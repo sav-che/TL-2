@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/104137#page/499/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33355570) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mikutowicz, Johann Mattias (1872-1951), Baltic German botanist in Livonia. (*Mikut.*).
+Mikutowicz, Johann Mattias (1872-1951), Baltic German botanist in Livonia. 
+**Abbreviated name**: *Mikut.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103414#page/265/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33120348) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Binz, August {std. Binz} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Binz, August (1870-1963), Swiss teacher and botanist at Basel. (*Binz*).
+Binz, August (1870-1963), Swiss teacher and botanist at Basel. 
+**Abbreviated name**: *Binz*
 
 #### Herbarium and types
 

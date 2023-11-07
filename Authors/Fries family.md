@@ -1,4 +1,4 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103832#page/28/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33258510) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author

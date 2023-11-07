@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/104077#page/275/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33333400) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidtke, Ernst (*fl*. 1934), German (Prussian) bryologist at Zoppot nr Danzig. (*E. Schmidtke*).
+Schmidtke, Ernst (*fl*. 1934), German (Prussian) bryologist at Zoppot nr Danzig. 
+**Abbreviated name**: *E. Schmidtke*
 
 #### Herbarium and types
 

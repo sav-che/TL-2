@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103833#page/214/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33259248) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dening, Karl Heinrich August (1897-?), German pharmacist and botanist, born 4 Oct 1897 in Blumenthal (Unterweser, Preussen), at the "Volksschule" of Blumenthal 1904-1908, at the Vegesack Realgymnasium 1908-1916, in the German army 1916-1917, prisoner of war 1917-1919, pharmacist apprentice 1919-1922, studied at the University of Marburg 1922-1926, Dr. phil. 1928. (*Dening*).
+Dening, Karl Heinrich August (1897-?), German pharmacist and botanist, born 4 Oct 1897 in Blumenthal (Unterweser, Preussen), at the "Volksschule" of Blumenthal 1904-1908, at the Vegesack Realgymnasium 1908-1916, in the German army 1916-1917, prisoner of war 1917-1919, pharmacist apprentice 1919-1922, studied at the University of Marburg 1922-1926, Dr. phil. 1928. 
+**Abbreviated name**: *Dening*
 
 #### Herbarium and types
 

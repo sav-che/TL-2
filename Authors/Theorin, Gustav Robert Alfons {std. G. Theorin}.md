@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103683#page/256/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33212288) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Theorin, Gustav Robert Alfons (1841-1881), Swedish physician and botanist; Dr. phil. Lund 1865; Dr. med. ib. 1875; ultimately regional physician at Sveg, Härjedalen. (*G. Theorin*).
+Theorin, Gustav Robert Alfons (1841-1881), Swedish physician and botanist; Dr. phil. Lund 1865; Dr. med. ib. 1875; ultimately regional physician at Sveg, Härjedalen. 
+**Abbreviated name**: *G. Theorin*
 
 #### Herbarium and types
 

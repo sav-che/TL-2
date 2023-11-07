@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/103250#page/617/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33066897) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zornow, Robert (1842-1873), German (Prussian) high school teacher and botanist; teacher's examination Königsberg 1867, teacher at the high school at Gumbinnen; on active service 1870-1871. (*Zornow*).
+Zornow, Robert (1842-1873), German (Prussian) high school teacher and botanist; teacher's examination Königsberg 1867, teacher at the high school at Gumbinnen; on active service 1870-1871. 
+**Abbreviated name**: *Zornow*
 
 #### Herbarium and types
 

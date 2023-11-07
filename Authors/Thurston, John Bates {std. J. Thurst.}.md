@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103683#page/350/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33212382) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thurston, John Bates (1836-1897), British planter, politician and administrator in the merchant service 1850-1855; sheep farmer near Sydney ca. 1859-1862; acting consul Ovalau, Fiji Isl. 1867-1869; colonial secretary Fiji 1874, lieut. governor 1886, governor and commander-in-chief Fiji and Western Pacific 1887-1897; collected plants on Fiji between 1863 and 1897 (*J. Thurst.*).
+Thurston, John Bates (1836-1897), British planter, politician and administrator in the merchant service 1850-1855; sheep farmer near Sydney ca. 1859-1862; acting consul Ovalau, Fiji Isl. 1867-1869; colonial secretary Fiji 1874, lieut. governor 1886, governor and commander-in-chief Fiji and Western Pacific 1887-1897; collected plants on Fiji between 1863 and 1897 
+**Abbreviated name**: *J. Thurst.*
 
 #### Herbarium and types
 

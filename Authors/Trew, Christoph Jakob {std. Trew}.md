@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/103683#page/493/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33212525) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trew, Christoph Jakob (1695-1769), German (Bavarian) botanist and physician; Dr. med. Altorf 1717 (1716?); travelled in Switzerland, France, Holland and Prussia 1717-1720; practicing physician in Nürnberg 1720-1769; personal physician to the Markgraf of Ansbach 1736. (*Trew*).
+Trew, Christoph Jakob (1695-1769), German (Bavarian) botanist and physician; Dr. med. Altorf 1717 (1716?); travelled in Switzerland, France, Holland and Prussia 1717-1720; practicing physician in Nürnberg 1720-1769; personal physician to the Markgraf of Ansbach 1736. 
+**Abbreviated name**: *Trew*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/104077#page/144/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33333269) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schenck, \[Johann\] Heinrich \[Rudolf\] (1860-1927), German (Westfalen) botanist; studied at Bonn 1879-1880, 1882-1883, and Berlin 1881-1882; Dr. phil. Bonn 1884, student of E. Strasburger; travelled in Brazil 1886-1887 and Mexico 1908; habil. Bonn 1889; "Privatdozent" and assistant at the Botanical Institute, Bonn 1890-1896; extraordinary professor ib. 1896; professor of botany at the Technical University and director of the botanical garden Darmstadt 1896-1927. (*Schenck*).
+Schenck, \[Johann\] Heinrich \[Rudolf\] (1860-1927), German (Westfalen) botanist; studied at Bonn 1879-1880, 1882-1883, and Berlin 1881-1882; Dr. phil. Bonn 1884, student of E. Strasburger; travelled in Brazil 1886-1887 and Mexico 1908; habil. Bonn 1889; "Privatdozent" and assistant at the Botanical Institute, Bonn 1890-1896; extraordinary professor ib. 1896; professor of botany at the Technical University and director of the botanical garden Darmstadt 1896-1927. 
+**Abbreviated name**: *Schenck*
 
 #### Herbarium and types
 

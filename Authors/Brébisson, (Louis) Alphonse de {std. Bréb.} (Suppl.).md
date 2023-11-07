@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103861#page/54/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33266351) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brébisson, Louis Alphonse de {std. Bréb.}|first entry]] for this author
 
 ### Author
 
-\* Brébisson, \[Louis\] Alphonse de (1798-1872), French naturalist, promotor of sciences and arts of independent means at Falaise, Dépt. Calvados, especially interested in cryptogams, archeology and photography. (*Bréb.*).
+\* Brébisson, \[Louis\] Alphonse de (1798-1872), French naturalist, promotor of sciences and arts of independent means at Falaise, Dépt. Calvados, especially interested in cryptogams, archeology and photography. 
+**Abbreviated name**: *Bréb.*
 
 #### Herbarium and types
 

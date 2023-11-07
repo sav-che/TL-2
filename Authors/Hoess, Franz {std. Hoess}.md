@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/103253#page/259/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoess, Franz (1756-1840), Austrian botanist and forester, professor at the Mariabrunn school of forestry (nr. Wien), later at Windischmarchwitz in Schlesien. (*Hoess*).
+Hoess, Franz (1756-1840), Austrian botanist and forester, professor at the Mariabrunn school of forestry (nr. Wien), later at Windischmarchwitz in Schlesien. 
+**Abbreviated name**: *Hoess*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103624#page/216/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33189673) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petitmengin, Marcel Georges Charles (1881-1908), French botanist; curator of botany (préparateur) at the Pharmaceutical college of Nancy; travelled in Greece with R. Maire (1906). (*Petitm.*).
+Petitmengin, Marcel Georges Charles (1881-1908), French botanist; curator of botany (préparateur) at the Pharmaceutical college of Nancy; travelled in Greece with R. Maire (1906). 
+**Abbreviated name**: *Petitm.*
 
 #### Herbarium and types
 

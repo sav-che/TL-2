@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/104077#page/273/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33333398) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Oswald \[Hermann Wilhelm\], (1907-x), German (Berlin) pharmacist; with the Trebbin pharmacy 1925; first state examination pharmacy 1927; at Berlin University 1928-1930; final examination pharmacy 1930; working on his thesis at the Berlin-Dahlem Botanical Museum under L. Diels 1930-1932; Dr. phil. Berlin 1932. (*O. Schmidt*).
+Schmidt, Oswald \[Hermann Wilhelm\], (1907-x), German (Berlin) pharmacist; with the Trebbin pharmacy 1925; first state examination pharmacy 1927; at Berlin University 1928-1930; final examination pharmacy 1930; working on his thesis at the Berlin-Dahlem Botanical Museum under L. Diels 1930-1932; Dr. phil. Berlin 1932. 
+**Abbreviated name**: *O. Schmidt*
 
 #### Herbarium and types
 

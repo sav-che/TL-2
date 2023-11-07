@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/item/103414#page/722/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33120805) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dop, Paul Louis Amans {std. Dop} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dop, Paul Louis Amans (1876-1954), French botanist at Toulouse. (*Dop*).
+Dop, Paul Louis Amans (1876-1954), French botanist at Toulouse. 
+**Abbreviated name**: *Dop*
 
 #### Herbarium and types
 

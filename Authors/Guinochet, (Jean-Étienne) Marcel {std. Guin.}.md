@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103832#page/472/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33258938) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guinochet, \[Jean-Étienne\] Marcel (1909-1997), French phycologist and botanist with interests and influence in phytosociology and biosystematics, born 21 Dec 1909 in Lyon, Lic. ès-sciences naturelles 1931, asst.-"préparateur", Centre de Recherches Agronomiques de Provence (Villa Thuret) in Antibes (Alpes-Maritimes), Dr. ès-sciences 1938 Grenoble, taught in Montpellier 1939-1943, during and after W.W-II held a number of university positions in quick succession, incl. Besançon 1943-1945, Nancy 1945-1946 and Strasbourg 1946, succeeded René Maire as prof., Faculty of Sciences, Univ. of Alger, Algeria 1950-1957, returned to France and joined the Faculty of Sciences, Paris (Orsay) from 1958 until retirement in 1977, president, Société Botanique de France, died 22 Aug 1997 in Fayence (Var). (*Guin.*).
+Guinochet, \[Jean-Étienne\] Marcel (1909-1997), French phycologist and botanist with interests and influence in phytosociology and biosystematics, born 21 Dec 1909 in Lyon, Lic. ès-sciences naturelles 1931, asst.-"préparateur", Centre de Recherches Agronomiques de Provence (Villa Thuret) in Antibes (Alpes-Maritimes), Dr. ès-sciences 1938 Grenoble, taught in Montpellier 1939-1943, during and after W.W-II held a number of university positions in quick succession, incl. Besançon 1943-1945, Nancy 1945-1946 and Strasbourg 1946, succeeded René Maire as prof., Faculty of Sciences, Univ. of Alger, Algeria 1950-1957, returned to France and joined the Faculty of Sciences, Paris (Orsay) from 1958 until retirement in 1977, president, Société Botanique de France, died 22 Aug 1997 in Fayence (Var). 
+**Abbreviated name**: *Guin.*
 
 #### Herbarium and types
 

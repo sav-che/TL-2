@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103624#page/322/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33189779) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poech, Josef \[Alois\] (1816-1846), Bohemian botanist, born at Snedovice (Wegstädl) nr Praha, studied medicine, assistant to the botanical cabinet of Praha University; associated with Opiz. (*Poech*).
+Poech, Josef \[Alois\] (1816-1846), Bohemian botanist, born at Snedovice (Wegstädl) nr Praha, studied medicine, assistant to the botanical cabinet of Praha University; associated with Opiz. 
+**Abbreviated name**: *Poech*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/item/103253#page/866/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33069082) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lemmermann, Ernst Johann (1867-1915), German algologist at Bremen. (*Lemmerm.*).
+Lemmermann, Ernst Johann (1867-1915), German algologist at Bremen. 
+**Abbreviated name**: *Lemmerm.*
 
 #### Herbarium and types
 

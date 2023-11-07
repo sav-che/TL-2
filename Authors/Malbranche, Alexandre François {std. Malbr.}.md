@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/104137#page/279/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33355350) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malbranche, Alexandre François (1818-1888), French lichenologist and pharmacist at Rouen (*Malbr.*).
+Malbranche, Alexandre François (1818-1888), French lichenologist and pharmacist at Rouen 
+**Abbreviated name**: *Malbr.*
 
 #### Herbarium and types
 

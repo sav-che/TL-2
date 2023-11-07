@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/item/103414#page/556/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Claussen, Peter (Heinrich) {std. Claussen} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Claussen, Peter (1877-1959), German botanist, pupil of Schwendener, morphologist and developmental biologist. (*Claussen*).
+Claussen, Peter (1877-1959), German botanist, pupil of Schwendener, morphologist and developmental biologist. 
+**Abbreviated name**: *Claussen*
 
 #### Herbarium and types
 

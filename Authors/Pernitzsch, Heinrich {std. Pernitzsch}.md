@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103624#page/183/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33189640) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pernitzsch, Heinrich (*fl*. 1825), German (Saxonian) forester and botanist at Heidelbach (Sachsen); "königlicher Sächs. Oberförster". (*Pernitzsch*).
+Pernitzsch, Heinrich (*fl*. 1825), German (Saxonian) forester and botanist at Heidelbach (Sachsen); "königlicher Sächs. Oberförster". 
+**Abbreviated name**: *Pernitzsch*
 
 #### Herbarium and types
 

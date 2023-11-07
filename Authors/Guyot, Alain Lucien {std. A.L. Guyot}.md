@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103832#page/480/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33258946) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guyot, Alain Lucien (1901-1987), French mycologist, prof. of botany and phytopathology, École Nationale Supérieure d'Agriculture de Grignon (Seine-et-Oise), and from 1932 dir. of the Jardin Botanique there, studied rust fungi of s. France and n. Africa (Morocco, Tunisia). (*A.L. Guyot*).
+Guyot, Alain Lucien (1901-1987), French mycologist, prof. of botany and phytopathology, École Nationale Supérieure d'Agriculture de Grignon (Seine-et-Oise), and from 1932 dir. of the Jardin Botanique there, studied rust fungi of s. France and n. Africa (Morocco, Tunisia). 
+**Abbreviated name**: *A.L. Guyot*
 
 #### Herbarium and types
 

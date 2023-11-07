@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103414#page/266/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33120349) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Biroli, Giovanni {std. Biroli} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Biroli, Giovanni (1772-1825), Italian botanist at Novara. (*Biroli*).
+Biroli, Giovanni (1772-1825), Italian botanist at Novara. 
+**Abbreviated name**: *Biroli*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/item/103860#page/524/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33266191) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Curtis, John Thomas (1913-1961), American botanist, born at Waukesha, Wisconsin, B.A. Carroll College 1934, MA University of Wisconsin 1935, Ph.D. bot. 1937, instructor in botany 1937, id. University Pennsylvania 1940, assistant professor at Wisconsin University 1940, assoc. professor 1945, professor 1951, died at Madison, Wisconsin. (*J.T. Curtis*).
+Curtis, John Thomas (1913-1961), American botanist, born at Waukesha, Wisconsin, B.A. Carroll College 1934, MA University of Wisconsin 1935, Ph.D. bot. 1937, instructor in botany 1937, id. University Pennsylvania 1940, assistant professor at Wisconsin University 1940, assoc. professor 1945, professor 1951, died at Madison, Wisconsin. 
+**Abbreviated name**: *J.T. Curtis*
 
 #### Herbarium and types
 

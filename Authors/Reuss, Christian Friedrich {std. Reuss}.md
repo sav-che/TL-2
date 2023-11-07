@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/item/103624#page/754/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33190211) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reuss, Christian Friedrich (1745-1813), Danish-born German botanist; Dr. med. 1769; professor of medicine at the University of Tübingen (extraord. 1771, ord. 1796). (*Reuss*).
+Reuss, Christian Friedrich (1745-1813), Danish-born German botanist; Dr. med. 1769; professor of medicine at the University of Tübingen (extraord. 1771, ord. 1796). 
+**Abbreviated name**: *Reuss*
 
 #### Herbarium and types
 

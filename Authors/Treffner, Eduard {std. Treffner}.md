@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103683#page/467/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33212499) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Treffner, Eduard (fl. 1881), Baltic-German pharmacist; Mag. pharm. Dorpat 1881. (*Treffner*).
+Treffner, Eduard (fl. 1881), Baltic-German pharmacist; Mag. pharm. Dorpat 1881. 
+**Abbreviated name**: *Treffner*
 
 #### Herbarium and types
 

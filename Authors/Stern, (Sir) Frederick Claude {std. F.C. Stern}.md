@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/item/104077#page/912/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stern, \[Sir\] Frederick Claude (1884-1967), British banker, soldier, horticulturist and botanist; treasurer Linnean Society 1941-1958; chairman John Innes Horticultural Institution 1947-1961. (*F.C. Stern*).
+Stern, \[Sir\] Frederick Claude (1884-1967), British banker, soldier, horticulturist and botanist; treasurer Linnean Society 1941-1958; chairman John Innes Horticultural Institution 1947-1961. 
+**Abbreviated name**: *F.C. Stern*
 
 #### Herbarium and types
 

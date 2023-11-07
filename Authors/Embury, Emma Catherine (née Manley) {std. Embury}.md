@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103835#page/342/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33260320) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Embury, Emma Catherine \[née Manley\] (1806-1863), American botanist, born 1806 New York City, married Daniel Embury in 1828, leader of a literary salon, as author contributed to various periodicals, died 10 Feb 1863. (*Embury*).
+Embury, Emma Catherine \[née Manley\] (1806-1863), American botanist, born 1806 New York City, married Daniel Embury in 1828, leader of a literary salon, as author contributed to various periodicals, died 10 Feb 1863. 
+**Abbreviated name**: *Embury*
 
 #### Herbarium and types
 

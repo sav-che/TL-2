@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/item/103624#page/957/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roussel, Henri François Anne de (1748-1812), French (Normandy) botanist; Dr. med. Caen 1771 or 1772; professor of medicine at the University of Caen 1773; professor of medical botany ib. 1776; from 1801 professor of botany at the Faculté des Sciences, Caen (preceding J.V.F. Lamouroux); director of the Jardin botanique de la ville de Caen 1786-1797 and 1801-1812. (*Roussel*).
+Roussel, Henri François Anne de (1748-1812), French (Normandy) botanist; Dr. med. Caen 1771 or 1772; professor of medicine at the University of Caen 1773; professor of medical botany ib. 1776; from 1801 professor of botany at the Faculté des Sciences, Caen (preceding J.V.F. Lamouroux); director of the Jardin botanique de la ville de Caen 1786-1797 and 1801-1812. 
+**Abbreviated name**: *Roussel*
 
 #### Herbarium and types
 

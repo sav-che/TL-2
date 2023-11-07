@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103833#page/228/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259262) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Déséglise, Pierre-Alfred (1823-1883), French botanist, born at Bourges (Lamotte d'Insay) (Cher), 28 Oct 1823, died at Genève 13 Dec 1883, student and friend of Alexandre Boreau, studied botany with Gustave Tourangin, herborists in the French-German war of 1870-1871, settled in Genève 1871, assistant at the Conservatoire botanique 1874-1883. (*Déségl.*).
+Déséglise, Pierre-Alfred (1823-1883), French botanist, born at Bourges (Lamotte d'Insay) (Cher), 28 Oct 1823, died at Genève 13 Dec 1883, student and friend of Alexandre Boreau, studied botany with Gustave Tourangin, herborists in the French-German war of 1870-1871, settled in Genève 1871, assistant at the Conservatoire botanique 1874-1883. 
+**Abbreviated name**: *Déségl.*
 
 #### Herbarium and types
 

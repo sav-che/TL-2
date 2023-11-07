@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/item/103414#page/760/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33120843) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Du Roi, Johann Philipp (1741-1785), German physician, botanist and dendrologist at Braunschweig. (*Du Roi*).
+Du Roi, Johann Philipp (1741-1785), German physician, botanist and dendrologist at Braunschweig. 
+**Abbreviated name**: *Du Roi*
 
 #### Herbarium and types
 

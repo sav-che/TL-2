@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/item/103253#page/748/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33068964) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lagerberg, Karl Erik Torsten (1882-x), Swedish botanist; Dr. phil. Uppsala 1909; from 1910 at Skogshögskolan (*Lagerberg*).
+Lagerberg, Karl Erik Torsten (1882-x), Swedish botanist; Dr. phil. Uppsala 1909; from 1910 at Skogshögskolan 
+**Abbreviated name**: *Lagerberg*
 
 #### Herbarium and types
 

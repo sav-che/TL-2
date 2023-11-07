@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/104137#page/253/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33355324) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macvicar, Symers Macdonald (1857-1932), Scottish hepaticologist at Invermoidart, Shona; trained as a physician but dedicating himself fully to hepaticology. (*Macvicar*).
+Macvicar, Symers Macdonald (1857-1932), Scottish hepaticologist at Invermoidart, Shona; trained as a physician but dedicating himself fully to hepaticology. 
+**Abbreviated name**: *Macvicar*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/item/103858#page/355/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33265070) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barthelat, Gilbert Joseph (fl. 1893), French pharmacist, studied at the École de Médecine et Pharmacie de Clemont-Ferrand (lauréat 1889) and the École supérieure de Pharmacie de Paris (lauréat 1892), "pharmacien de première classe". (*Barthelat*).
+Barthelat, Gilbert Joseph (fl. 1893), French pharmacist, studied at the École de Médecine et Pharmacie de Clemont-Ferrand (lauréat 1889) and the École supérieure de Pharmacie de Paris (lauréat 1892), "pharmacien de première classe". 
+**Abbreviated name**: *Barthelat*
 
 #### Herbarium and types
 

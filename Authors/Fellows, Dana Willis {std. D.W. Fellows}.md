@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/item/103834#page/148/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33259630) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fellows, Dana Willis (1847-1928), American dentist, historian and botanist, born 14 Aug 1847 in Lincoln, Maine, graduated Mattanawcook Academy, Lincoln, M.D. 1877 Maine Medical School at Bowdoin College, Brunswick, Maine, practiced dentistry in Portland, Maine, long-time president, Josselyn Botanical Society of Maine, moved to Port Richmond on Staten Isl. in New York City in 1920, died 23 Dec 1928 in Port Richmond. (*D.W. Fellows*).
+Fellows, Dana Willis (1847-1928), American dentist, historian and botanist, born 14 Aug 1847 in Lincoln, Maine, graduated Mattanawcook Academy, Lincoln, M.D. 1877 Maine Medical School at Bowdoin College, Brunswick, Maine, practiced dentistry in Portland, Maine, long-time president, Josselyn Botanical Society of Maine, moved to Port Richmond on Staten Isl. in New York City in 1920, died 23 Dec 1928 in Port Richmond. 
+**Abbreviated name**: *D.W. Fellows*
 
 #### Herbarium and types
 

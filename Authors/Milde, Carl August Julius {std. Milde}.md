@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/item/104137#page/501/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33355572) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Milde, Carl August Julius (1824-1971), German high school teacher and botanist at Breslau; Dr. phil. Breslau (with Goeppert) 1850; from 1851 at the Realschule zum Grauen Kloster "zum heiligen Geist"; royal professor 1870; curator of the botanical Museum of the Schlesische Gesellschaft für vaterländische Cultur. (*Milde*).
+Milde, Carl August Julius (1824-1971), German high school teacher and botanist at Breslau; Dr. phil. Breslau (with Goeppert) 1850; from 1851 at the Realschule zum Grauen Kloster "zum heiligen Geist"; royal professor 1870; curator of the botanical Museum of the Schlesische Gesellschaft für vaterländische Cultur. 
+**Abbreviated name**: *Milde*
 
 #### Herbarium and types
 

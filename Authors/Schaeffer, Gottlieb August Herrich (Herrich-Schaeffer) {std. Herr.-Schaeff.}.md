@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/104077#page/118/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaeffer, Gottlieb August Herrich \[Herrich-Schaeffer\] (1799-1874), German (Bavarian) botanist, entomologist and physician; Dr. med. Landshut 1821; practicing physician at Regensburg 1823 and 1828-1864; " Physikus" at Vohenstrauss 1824-1828; "Landesgerichtsarzt" for Stadtamhof, residing in Regensburg 1828-1833; regional and town physician ib. 1833-1856; from 1861-1874 director of the Regensburg bot. Gesellschaft and editor of Flora. (*Herr.-Schaeff.*).
+Schaeffer, Gottlieb August Herrich \[Herrich-Schaeffer\] (1799-1874), German (Bavarian) botanist, entomologist and physician; Dr. med. Landshut 1821; practicing physician at Regensburg 1823 and 1828-1864; " Physikus" at Vohenstrauss 1824-1828; "Landesgerichtsarzt" for Stadtamhof, residing in Regensburg 1828-1833; regional and town physician ib. 1833-1856; from 1861-1874 director of the Regensburg bot. Gesellschaft and editor of Flora. 
+**Abbreviated name**: *Herr.-Schaeff.*
 
 #### Herbarium and types
 

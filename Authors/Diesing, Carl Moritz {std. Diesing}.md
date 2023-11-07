@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/item/103414#page/696/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33120779) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Diesing, Karl Moritz {std. Diesing} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Diesing, Carl Moritz (1800-1867), Austrian helminthologist, pupil of Jacquin Jr., collaborator of Endlicher, curator of the Vienna Zoological Museum. (*Diesing*).
+Diesing, Carl Moritz (1800-1867), Austrian helminthologist, pupil of Jacquin Jr., collaborator of Endlicher, curator of the Vienna Zoological Museum. 
+**Abbreviated name**: *Diesing*
 
 #### Herbarium and types
 

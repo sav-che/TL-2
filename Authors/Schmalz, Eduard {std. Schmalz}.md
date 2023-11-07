@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/104077#page/245/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33333370) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmalz, Eduard (1801-1871), German (Saxonian) botanist and surgeon, practicing in Königsbrück 1824-1827; Dr. med. Leipzig 1827; practicing at Leipzig from 1827; ultimately physician for the poor in Dresden. (*Schmalz*).
+Schmalz, Eduard (1801-1871), German (Saxonian) botanist and surgeon, practicing in Königsbrück 1824-1827; Dr. med. Leipzig 1827; practicing at Leipzig from 1827; ultimately physician for the poor in Dresden. 
+**Abbreviated name**: *Schmalz*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103683#page/233/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33212265) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ternisien, Théophile Antoine Timoléon (1804-1879), French horticulturist at Cherbourg. (*Ternisien*).
+Ternisien, Théophile Antoine Timoléon (1804-1879), French horticulturist at Cherbourg. 
+**Abbreviated name**: *Ternisien*
 
 #### Herbarium and types
 

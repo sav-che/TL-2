@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/item/103253#page/431/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33068647) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jacquin, Hector ("aîné") \[*fl*. 1832), French horticulturist. (*H. Jacq.*).
+Jacquin, Hector ("aîné") \[*fl*. 1832), French horticulturist. 
+**Abbreviated name**: *H. Jacq.*
 
 #### Herbarium and types
 

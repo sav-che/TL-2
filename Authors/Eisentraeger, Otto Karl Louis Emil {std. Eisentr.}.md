@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103835#page/300/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33260278) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eisentraeger, Otto Karl Louis Emil (1900-x), German pharmacist and botanist, born 1 Apr 1900 at Kassel, visited the elementary school and gymnasium at Hann.-Münden, studied pharmacy at the Philipps-Universität at Marburg until 1924 and botany from 1925 at Hamburg and Berlin. (*Eisentr.*).
+Eisentraeger, Otto Karl Louis Emil (1900-x), German pharmacist and botanist, born 1 Apr 1900 at Kassel, visited the elementary school and gymnasium at Hann.-Münden, studied pharmacy at the Philipps-Universität at Marburg until 1924 and botany from 1925 at Hamburg and Berlin. 
+**Abbreviated name**: *Eisentr.*
 
 #### Herbarium and types
 

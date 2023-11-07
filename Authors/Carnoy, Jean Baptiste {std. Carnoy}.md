@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103861#page/429/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33266726) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carnoy, Jean Baptiste (1836-1899), Belgian parish-priest and botanist, studied at the University of Louvain, Dr. sci. nat. 1865, later bishop of Louvain, continued as botanist at his Collège du Pape. (*Carnoy*).
+Carnoy, Jean Baptiste (1836-1899), Belgian parish-priest and botanist, studied at the University of Louvain, Dr. sci. nat. 1865, later bishop of Louvain, continued as botanist at his Collège du Pape. 
+**Abbreviated name**: *Carnoy*
 
 #### Herbarium and types
 

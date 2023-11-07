@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/item/103861#page/83/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33266380) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brieger, Friedrich Gustav (1900-x), German geneticist, born at Breslau, studied at the Bussey Institution at Harvard University, later at the Kaiser-Wilhelm-Institut für Biologie in Berlin-Dahlem. (*Brieger*).
+Brieger, Friedrich Gustav (1900-x), German geneticist, born at Breslau, studied at the Bussey Institution at Harvard University, later at the Kaiser-Wilhelm-Institut für Biologie in Berlin-Dahlem. 
+**Abbreviated name**: *Brieger*
 
 #### Herbarium and types
 

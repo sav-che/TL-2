@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103832#page/307/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33258773) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gonggrijp \[Gonggryp\], Justus Willem (1885-1974), Surinam-born Dutch forester, born 20 Mai 1885 in Plantage Clevia, educated at Wageningen Agricultural College, Wageningen, The Netherlands, Forest Officer in Surinam 1908-1923, then in Dutch East Indies (Indonesia) until retirement in 1935, in retirement a lecturer in geography, Delft Technical College, The Netherlands, died 3 Oct 1974 in Breda, The Netherlands. (*Gonggrijp*).
+Gonggrijp \[Gonggryp\], Justus Willem (1885-1974), Surinam-born Dutch forester, born 20 Mai 1885 in Plantage Clevia, educated at Wageningen Agricultural College, Wageningen, The Netherlands, Forest Officer in Surinam 1908-1923, then in Dutch East Indies (Indonesia) until retirement in 1935, in retirement a lecturer in geography, Delft Technical College, The Netherlands, died 3 Oct 1974 in Breda, The Netherlands. 
+**Abbreviated name**: *Gonggrijp*
 
 #### Note
 

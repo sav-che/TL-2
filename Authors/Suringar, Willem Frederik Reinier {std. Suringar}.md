@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103683#page/105/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33212137) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suringar, Willem Frederik Reinier (1832-1898), Dutch botanist; Dr. phil. Leiden 1857; extraordinary professor of botany University of Leiden 1857-1862, regular professor of botany, successor to W.H. de Vriese 1862-1898; from 1871-1898 director of the Rijksherbarium as successor to F.A.W. Miquel; Dr. phil. h.c. Univ. München 1872; travelled in Suriname, \[British\] Guyana, Trinidad and the Netherlands Antilles 1884-1885. (*Suringar*).
+Suringar, Willem Frederik Reinier (1832-1898), Dutch botanist; Dr. phil. Leiden 1857; extraordinary professor of botany University of Leiden 1857-1862, regular professor of botany, successor to W.H. de Vriese 1862-1898; from 1871-1898 director of the Rijksherbarium as successor to F.A.W. Miquel; Dr. phil. h.c. Univ. München 1872; travelled in Suriname, \[British\] Guyana, Trinidad and the Netherlands Antilles 1884-1885. 
+**Abbreviated name**: *Suringar*
 
 #### Herbarium and types
 

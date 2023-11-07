@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103860#page/88/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chen, Luetta (Ch'ên, Hsiu-ying) (fl. 1934-1939), Chinese botanist, at the Lingnan Natural History Survey and Museum, Lingnan University, Canton, M.A. botany, Oberlin College, U.S.A. 1938. (*H.Y. Chen*).
+Chen, Luetta (Ch'ên, Hsiu-ying) (fl. 1934-1939), Chinese botanist, at the Lingnan Natural History Survey and Museum, Lingnan University, Canton, M.A. botany, Oberlin College, U.S.A. 1938. 
+**Abbreviated name**: *H.Y. Chen*
 
 #### Herbarium and types
 

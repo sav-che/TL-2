@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/item/104137#page/845/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33355916) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Olivi, Giuseppe (1769-1795), Italian zoologist at Padua (*Olivi*).
+Olivi, Giuseppe (1769-1795), Italian zoologist at Padua 
+**Abbreviated name**: *Olivi*
 
 #### Herbarium and types
 

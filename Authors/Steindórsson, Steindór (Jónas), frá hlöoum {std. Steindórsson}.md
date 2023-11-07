@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/item/104077#page/888/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33334013) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steindórsson, Steindór \[Jónas\], frá hlöoum (1902-x), Icelandic botanist; teacher nat. sci. (1930-1973) and rector (1967-1972) of Akureyri College; member of Althing 1947, 1949; Dr. phil. Univ. Iceland 1981. (*Steindórsson*).
+Steindórsson, Steindór \[Jónas\], frá hlöoum (1902-x), Icelandic botanist; teacher nat. sci. (1930-1973) and rector (1967-1972) of Akureyri College; member of Althing 1947, 1949; Dr. phil. Univ. Iceland 1981. 
+**Abbreviated name**: *Steindórsson*
 
 #### Herbarium and types
 

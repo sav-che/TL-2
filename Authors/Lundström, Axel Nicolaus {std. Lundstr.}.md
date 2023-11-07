@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/104137#page/213/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33355284) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lundström, Axel Nicolaus (1847-1905), Swedish botanist; Dr. phil. Uppsala 1875; lecturer ib. 1875, curator botanical museum 1887-1892; at Ultuna agricultural college 1892-1897; professor of plant biology at Uppsala 1897-1905. (*Lundstr.*).
+Lundström, Axel Nicolaus (1847-1905), Swedish botanist; Dr. phil. Uppsala 1875; lecturer ib. 1875, curator botanical museum 1887-1892; at Ultuna agricultural college 1892-1897; professor of plant biology at Uppsala 1897-1905. 
+**Abbreviated name**: *Lundstr.*
 
 #### Herbarium and types
 

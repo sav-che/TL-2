@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/item/103860#page/513/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33266180) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cunningham, Allan {std. A. Cunn.}|first entry]] for this author
 
 ### Author
 
-\* Cunningham, Allan (1791-1839), British botanist, employed at Kew, working on Aiton's Hortus Kewensis circa 1808, collected for Kew 1814-1831, to Brazil with James Bowie 1814-1816, in Australia (Sydney) 1816-1826, collected wide, in New Zealand 1826, back to England 1831, superintendent of the Botanical garden Sydney 1836-1838. (*A. Cunn.*).
+\* Cunningham, Allan (1791-1839), British botanist, employed at Kew, working on Aiton's Hortus Kewensis circa 1808, collected for Kew 1814-1831, to Brazil with James Bowie 1814-1816, in Australia (Sydney) 1816-1826, collected wide, in New Zealand 1826, back to England 1831, superintendent of the Botanical garden Sydney 1836-1838. 
+**Abbreviated name**: *A. Cunn.*
 
 #### Herbarium and types
 

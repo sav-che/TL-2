@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/item/103835#page/338/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33260316) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elwert, Johann Caspar Philipp (1760-1827), German physician (and botanist), born 5 Nov 1760 at Speyer, "Hofmedikus" in Hildesheim, died in Hildesheim 3 Nov 1827. (*Elwert*).
+Elwert, Johann Caspar Philipp (1760-1827), German physician (and botanist), born 5 Nov 1760 at Speyer, "Hofmedikus" in Hildesheim, died in Hildesheim 3 Nov 1827. 
+**Abbreviated name**: *Elwert*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/item/104077#page/632/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33333757) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sinskaya, Evgenija Nikolaevna (1889-1965), Russian botanist and agronomist; studied scientific agronomy at Moscow; worked in various agricultural stations between 1910 and 1916 and travelled widely in Central Asia and the Northern Territory; with the Novozybkovskaya Experiment Station 1916-1919; at the Saratov Province Land Department and at Saratov University 1919-1921; with N.I. Vavilow at the Petrograd Bureau of applied Sciences (later Ail-Union Institute of Plant Industry) 1921-1940 and from 1945-1965. (*Sinskaya*).
+Sinskaya, Evgenija Nikolaevna (1889-1965), Russian botanist and agronomist; studied scientific agronomy at Moscow; worked in various agricultural stations between 1910 and 1916 and travelled widely in Central Asia and the Northern Territory; with the Novozybkovskaya Experiment Station 1916-1919; at the Saratov Province Land Department and at Saratov University 1919-1921; with N.I. Vavilow at the Petrograd Bureau of applied Sciences (later Ail-Union Institute of Plant Industry) 1921-1940 and from 1945-1965. 
+**Abbreviated name**: *Sinskaya*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103414#page/325/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33120408) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Booth, William Beattie (c. 1804-1874), British gardener. (*Booth*).
+Booth, William Beattie (c. 1804-1874), British gardener. 
+**Abbreviated name**: *Booth*
 
 #### Herbarium and types
 

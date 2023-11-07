@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/104077#page/302/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33333427) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schoenichen, Walther (1876-1956), German (Rheinland/Preussen) botanist, entomologist and conservationist; studied natural sciences at Halle; high school teacher at Halle and in Berlin-Schöneberg 1899-1913; lecturer in biology at the teacher's college of Posen 1913-1915; vice-director of the "Zentralinstitut für Erziehung und Unterricht", Berlin 1915-1922; director of the "Staatliche Stelle für Naturdenkmalpflege in Preussen 1922-1938; in forced retirement 1938; ultimately at Leipzig and Goslar; lecturing at Braunschweig Technical University. (*Schoenichen*).
+Schoenichen, Walther (1876-1956), German (Rheinland/Preussen) botanist, entomologist and conservationist; studied natural sciences at Halle; high school teacher at Halle and in Berlin-Schöneberg 1899-1913; lecturer in biology at the teacher's college of Posen 1913-1915; vice-director of the "Zentralinstitut für Erziehung und Unterricht", Berlin 1915-1922; director of the "Staatliche Stelle für Naturdenkmalpflege in Preussen 1922-1938; in forced retirement 1938; ultimately at Leipzig and Goslar; lecturing at Braunschweig Technical University. 
+**Abbreviated name**: *Schoenichen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/item/103253#page/590/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33068806) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klein, Jakob Theodor (1685-1759), German botanist, born at Königsberg, municipal secretary at Danzig. (*Klein*).
+Klein, Jakob Theodor (1685-1759), German botanist, born at Königsberg, municipal secretary at Danzig. 
+**Abbreviated name**: *Klein*
 
 #### Herbarium and types
 

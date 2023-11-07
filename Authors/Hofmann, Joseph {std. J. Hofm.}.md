@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103253#page/274/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hofmann, Joseph (1822-1901), German botanist; Dr. phil. Würzburg 1864; high school teacher at the gymnasium of Freising from 1849-1867, from 1867-1873 at Speyer, from 1873-1890 again at Freising. (*J. Hofm.*).
+Hofmann, Joseph (1822-1901), German botanist; Dr. phil. Würzburg 1864; high school teacher at the gymnasium of Freising from 1849-1867, from 1867-1873 at Speyer, from 1873-1890 again at Freising. 
+**Abbreviated name**: *J. Hofm.*
 
 #### Herbarium and types
 

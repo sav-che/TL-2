@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103861#page/310/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33266607) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caillon, H. (1835-x), French tax collector at Mothe-St.-Heray (D.S.), born at Feniaux (D.S.). (*Caillon*).
+Caillon, H. (1835-x), French tax collector at Mothe-St.-Heray (D.S.), born at Feniaux (D.S.). 
+**Abbreviated name**: *Caillon*
 
 #### Herbarium and types
 

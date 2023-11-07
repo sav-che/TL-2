@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103832#page/90/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33258556) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Funk, Georg (1886-1958), German algologist and dendrologist, born 15 Mai 1886 in Bensheim (Hesse), Inaugural Dissertation 1912 Ludwigs-Univ., Giessen, appointed, marine botany dept., Stazione Zoologica, Naples, Italy 1912, also prof. of botany, Ludwigs-Univ., died 24 Jan 1958 in Naples. (*Funk*).
+Funk, Georg (1886-1958), German algologist and dendrologist, born 15 Mai 1886 in Bensheim (Hesse), Inaugural Dissertation 1912 Ludwigs-Univ., Giessen, appointed, marine botany dept., Stazione Zoologica, Naples, Italy 1912, also prof. of botany, Ludwigs-Univ., died 24 Jan 1958 in Naples. 
+**Abbreviated name**: *Funk*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103860#page/422/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266089) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coulouma, Joseph (fl. 1924), French pharmacist and botanist, some time at Montpellier, as pharmacist living in Béziers. (*Coulouma*).
+Coulouma, Joseph (fl. 1924), French pharmacist and botanist, some time at Montpellier, as pharmacist living in Béziers. 
+**Abbreviated name**: *Coulouma*
 
 #### Herbarium and types
 

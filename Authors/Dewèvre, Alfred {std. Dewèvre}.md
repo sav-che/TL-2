@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103833#page/265/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dewèvre, Alfred (1866-1897), Belgian botanist who worked on the Station Luebo nr. Kassai, born 20 Mar 1866, Brussels, died 27 Feb 1897, Leopoldville, Belgian Congo. (*Dewèvre*).
+Dewèvre, Alfred (1866-1897), Belgian botanist who worked on the Station Luebo nr. Kassai, born 20 Mar 1866, Brussels, died 27 Feb 1897, Leopoldville, Belgian Congo. 
+**Abbreviated name**: *Dewèvre*
 
 #### Herbarium and types
 

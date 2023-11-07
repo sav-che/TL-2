@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103858#page/231/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33264946) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Axt, Johann Conrad (1638-1714), German botanist, "Stadtphysicus und Konsul" \[Burgomaster\] in Arnstadt. (*Axt*).
+Axt, Johann Conrad (1638-1714), German botanist, "Stadtphysicus und Konsul" \[Burgomaster\] in Arnstadt. 
+**Abbreviated name**: *Axt*
 
 #### Herbarium and types
 

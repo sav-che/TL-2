@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/104077#page/47/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sandstede, \[Johann\] Heinrich (1859-1951), German (Oldenburg) botanist; trained as a baker in his father's bakery which he took over and managed until 1912; from then on in retirement dedicating himself part of the time to lichenology; Dr. phil. h.c. Univ. Münster 1930. (*Sandst.*).
+Sandstede, \[Johann\] Heinrich (1859-1951), German (Oldenburg) botanist; trained as a baker in his father's bakery which he took over and managed until 1912; from then on in retirement dedicating himself part of the time to lichenology; Dr. phil. h.c. Univ. Münster 1930. 
+**Abbreviated name**: *Sandst.*
 
 #### Herbarium and types
 

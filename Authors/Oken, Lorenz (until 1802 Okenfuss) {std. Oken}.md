@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/item/104137#page/832/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33355903) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oken, Lorenz (until 1802: Okenfuss) (1779-1851), German naturalist, physician, philosopher and philologist; Dr. med. Freiburg i.B. 1804; at Jena university 1807-1819; at München 1827-1832, at Zürich from 1832; main proponent of the German "Naturphilosophie" and longtime editor of Isis. (*Oken*).
+Oken, Lorenz (until 1802: Okenfuss) (1779-1851), German naturalist, physician, philosopher and philologist; Dr. med. Freiburg i.B. 1804; at Jena university 1807-1819; at München 1827-1832, at Zürich from 1832; main proponent of the German "Naturphilosophie" and longtime editor of Isis. 
+**Abbreviated name**: *Oken*
 
 #### Herbarium and types
 

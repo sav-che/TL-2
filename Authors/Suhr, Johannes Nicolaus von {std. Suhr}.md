@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103683#page/94/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33212126) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suhr, Johannes Nicolaus von (1792-1847), German/Danish (Danish Holstein) algologist and soldier in the Danish army in Schleswig; from 1834 as captain; from 1842 in Rendsburg. (*Suhr*).
+Suhr, Johannes Nicolaus von (1792-1847), German/Danish (Danish Holstein) algologist and soldier in the Danish army in Schleswig; from 1834 as captain; from 1842 in Rendsburg. 
+**Abbreviated name**: *Suhr*
 
 #### Herbarium and types
 

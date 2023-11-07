@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/item/104137#page/383/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33355454) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Matouschek, Franz (1871-?), Bohemian bryologist; at the German University Praha 1893-1894; at the Geological Institute, Praha 1895-1897; high school teacher in Moravia, Bohemia and Austria; later lecturer at the University of Vienna and the Hochschule für Bodenkultur. (*Matousch.*).
+Matouschek, Franz (1871-?), Bohemian bryologist; at the German University Praha 1893-1894; at the Geological Institute, Praha 1895-1897; high school teacher in Moravia, Bohemia and Austria; later lecturer at the University of Vienna and the Hochschule für Bodenkultur. 
+**Abbreviated name**: *Matousch.*
 
 #### Herbarium and types
 

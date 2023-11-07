@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103833#page/59/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33259093) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dangeard, Pierre (Clement) Augustin {std. P.A. Dang.}|first entry]] for this author
 
 ### Author
 
-\* Dangeard, Pierre-Augustin \[Clément\] (1862-1947), French botanist, born at Choannière near Ségrie (Sarthe), first education at the École voisine de Ségrie, admitted at the École Normale d'Instituteur, Alençon 1878, teaching Instituteur-adjoint at Chance-à-Flers, Orne, Licencié at Caen, préparateur in botany 1886-1891, Dr. Sci. Paris 1886, chef des travaux at Caen, from 1891-1901 professor at the Faculty of Poitiers, "Chargé de cours" in Paris 1908-1923, at the Sorbonne 1924-1934, retired 1934, died 10 Nov 1947. (*P.A. Dang.*).
+\* Dangeard, Pierre-Augustin \[Clément\] (1862-1947), French botanist, born at Choannière near Ségrie (Sarthe), first education at the École voisine de Ségrie, admitted at the École Normale d'Instituteur, Alençon 1878, teaching Instituteur-adjoint at Chance-à-Flers, Orne, Licencié at Caen, préparateur in botany 1886-1891, Dr. Sci. Paris 1886, chef des travaux at Caen, from 1891-1901 professor at the Faculty of Poitiers, "Chargé de cours" in Paris 1908-1923, at the Sorbonne 1924-1934, retired 1934, died 10 Nov 1947. 
+**Abbreviated name**: *P.A. Dang.*
 
 #### Herbarium and types
 

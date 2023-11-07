@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103683#page/91/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33212123) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suessenguth, Karl (1893-1955), German (Unterfranken, Bavarian) botanist; student of K. Goebel at München; on active service 1915-1918; Dr. phil. München 1919; habil. ib. 1922; scientific assistant with Goebel 1919-1927; extraordinary professor of botany at the University of München 1927-1955; interim director of the Botanical Institute, München 1945-1948; curator of the Botanische Staatssammlung 1927-1955. (*Suess.*).
+Suessenguth, Karl (1893-1955), German (Unterfranken, Bavarian) botanist; student of K. Goebel at München; on active service 1915-1918; Dr. phil. München 1919; habil. ib. 1922; scientific assistant with Goebel 1919-1927; extraordinary professor of botany at the University of München 1927-1955; interim director of the Botanical Institute, München 1945-1948; curator of the Botanische Staatssammlung 1927-1955. 
+**Abbreviated name**: *Suess.*
 
 #### Herbarium and types
 

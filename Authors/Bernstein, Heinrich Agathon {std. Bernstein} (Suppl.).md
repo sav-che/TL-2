@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103859#page/121/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265308) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernstein, Heinrich Agathon {std. Bernstein}|first entry]] for this author
 
 ### Author
 
-\* Bernstein, Heinrich Agathon (1828-1865), German (Schlesien, Breslau) physician and naturalist, went to Java 1854, first physician of the Health Establishment at Gadok near Bogor (Buitenzorg), from 1860 bringing together zoological collections for the Museum of Natural History at Leiden, Netherlands. (*Bernstein*).
+\* Bernstein, Heinrich Agathon (1828-1865), German (Schlesien, Breslau) physician and naturalist, went to Java 1854, first physician of the Health Establishment at Gadok near Bogor (Buitenzorg), from 1860 bringing together zoological collections for the Museum of Natural History at Leiden, Netherlands. 
+**Abbreviated name**: *Bernstein*
 
 #### Herbarium and types
 

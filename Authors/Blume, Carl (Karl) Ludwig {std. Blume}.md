@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103414#page/282/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33120365) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blume, Carl (Karl) Ludwig {std. Blume} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blume, Carl (Karl) Ludwig (1796-1862), German born Dutch botanist, travelled and worked in Java, long-time director of the Leiden Rijksherbarium. (*Blume*).
+Blume, Carl (Karl) Ludwig (1796-1862), German born Dutch botanist, travelled and worked in Java, long-time director of the Leiden Rijksherbarium. 
+**Abbreviated name**: *Blume*
 
 #### Herbarium and types
 

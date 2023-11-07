@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/item/104137#page/676/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33355747) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mundkur, Bhalchendra Bhavanishankar (1896-1952), Indian botanist; Ph. D. Iowa State 1930; mycologist with the Imperial Institute of Agricultural Research, Pusa, later deputy plant protection adviser, ministry of agriculture, India; ultimately at Poona. (*Mundk.*).
+Mundkur, Bhalchendra Bhavanishankar (1896-1952), Indian botanist; Ph. D. Iowa State 1930; mycologist with the Imperial Institute of Agricultural Research, Pusa, later deputy plant protection adviser, ministry of agriculture, India; ultimately at Poona. 
+**Abbreviated name**: *Mundk.*
 
 #### Herbarium and types
 

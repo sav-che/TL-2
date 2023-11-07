@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103253#page/35/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33068251) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Häyren, Ernst Fredrik (1878-1957), Finnish botanist, associate professor of botany at Helsinki University. (*Häyr.*).
+Häyren, Ernst Fredrik (1878-1957), Finnish botanist, associate professor of botany at Helsinki University. 
+**Abbreviated name**: *Häyr.*
 
 #### Herbarium and types
 

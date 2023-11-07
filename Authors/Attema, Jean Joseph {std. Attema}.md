@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/103858#page/215/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33264930) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Attema, Jean Joseph (fl. 1901), Dutch pharmacist and botanist, Dr. pharm. Groningen 1901. (*Attema*).
+Attema, Jean Joseph (fl. 1901), Dutch pharmacist and botanist, Dr. pharm. Groningen 1901. 
+**Abbreviated name**: *Attema*
 
 #### Herbarium and types
 

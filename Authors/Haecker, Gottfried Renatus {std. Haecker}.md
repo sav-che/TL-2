@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103253#page/32/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haecker, Gottfried Renatus (1789-1864), German botanist; from 1824 pharmacist ("Provisor") at Lübeck. (*Haecker*).
+Haecker, Gottfried Renatus (1789-1864), German botanist; from 1824 pharmacist ("Provisor") at Lübeck. 
+**Abbreviated name**: *Haecker*
 
 #### Herbarium and types
 

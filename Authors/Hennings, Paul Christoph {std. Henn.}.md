@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103253#page/183/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hennings, Paul Christoph (1841-1908), German self-taught cryptogamist, originally employed by the postal services; from 1874-1880 at the Botanical Garden Kiel (with Eichler); from 1880 onward at the Botanical Museum, Berlin-Dahlem; appointed royal professor 1902. (*Henn.*).
+Hennings, Paul Christoph (1841-1908), German self-taught cryptogamist, originally employed by the postal services; from 1874-1880 at the Botanical Garden Kiel (with Eichler); from 1880 onward at the Botanical Museum, Berlin-Dahlem; appointed royal professor 1902. 
+**Abbreviated name**: *Henn.*
 
 #### Herbarium and types
 

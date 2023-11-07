@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/item/103253#page/736/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laban, Friedrich Christian (*fl*. 1866), German botanist and high school teacher at Hamburg. (*Laban*).
+Laban, Friedrich Christian (*fl*. 1866), German botanist and high school teacher at Hamburg. 
+**Abbreviated name**: *Laban*
 
 #### Herbarium and types
 

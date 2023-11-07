@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/104137#page/153/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33355224) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Löfgren, Albert \[Loefgren, Alberto\] (1854-1918), Swedish-born botanist who settled (1874) in Brazil; director of the São Paulo botanical garden 1898-1906; ultimately at the botanical garden of Rio de Janeiro (*Loefgr.*).
+Löfgren, Albert \[Loefgren, Alberto\] (1854-1918), Swedish-born botanist who settled (1874) in Brazil; director of the São Paulo botanical garden 1898-1906; ultimately at the botanical garden of Rio de Janeiro 
+**Abbreviated name**: *Loefgr.*
 
 #### Herbarium and types
 

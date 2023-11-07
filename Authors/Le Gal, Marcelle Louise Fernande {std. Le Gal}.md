@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/item/103253#page/841/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Le Gal, Marcelle Louise Fernande (1895-x), French mycologist at the Muséum d'Histoire naturelle, Paris; Dr. sci. nat. Paris 1944. (*Le Gal*).
+Le Gal, Marcelle Louise Fernande (1895-x), French mycologist at the Muséum d'Histoire naturelle, Paris; Dr. sci. nat. Paris 1944. 
+**Abbreviated name**: *Le Gal*
 
 #### Herbarium and types
 

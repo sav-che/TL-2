@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/item/103683#page/136/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33212168) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swingle, Deane Bret (1879-1944), American botanist (mycologist); M.S. Univ. Wisconsin 1901; Dr. phil. 1931; assist. pathologist USDA 1901-1906; professor of botany and bacteriology, Univ. Montana from 1906; dean division of science 1932. (*D. Swingle*).
+Swingle, Deane Bret (1879-1944), American botanist (mycologist); M.S. Univ. Wisconsin 1901; Dr. phil. 1931; assist. pathologist USDA 1901-1906; professor of botany and bacteriology, Univ. Montana from 1906; dean division of science 1932. 
+**Abbreviated name**: *D. Swingle*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/103858#page/394/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265109) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bauer, Ernst {std. E. Bauer}|first entry]] for this author
 
 ### Author
 
-\* Bauer, Ernst (1860-1942), Bohemian bryologist, "Finanz-Prokurator" and Regierungsrat in Prague, later in Stadt Obersdorf. (*E. Bauer*).
+\* Bauer, Ernst (1860-1942), Bohemian bryologist, "Finanz-Prokurator" and Regierungsrat in Prague, later in Stadt Obersdorf. 
+**Abbreviated name**: *E. Bauer*
 
 #### Herbarium and types
 

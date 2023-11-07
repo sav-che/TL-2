@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/item/103683#page/509/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33212541) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tristram, Henry Baker (1822-1906), British clergyman, traveller and naturalist; BA Oxford 1844, naval chaplain Ireland Island, Bermuda 1847-1849, rector of Castle Eden (Durham) 1849-1860; master of Greatham hospital and vicar of Greatham (Durham) 1860-1874, canon of Durham 1870, resid. 1874; LL.D. Edinburgh 1868; travelled in the Sahara 1855-1856, 1856-1857, and in Palestine and Egypt 1857-1858 and 1863-1864. (*Tristram*).
+Tristram, Henry Baker (1822-1906), British clergyman, traveller and naturalist; BA Oxford 1844, naval chaplain Ireland Island, Bermuda 1847-1849, rector of Castle Eden (Durham) 1849-1860; master of Greatham hospital and vicar of Greatham (Durham) 1860-1874, canon of Durham 1870, resid. 1874; LL.D. Edinburgh 1868; travelled in the Sahara 1855-1856, 1856-1857, and in Palestine and Egypt 1857-1858 and 1863-1864. 
+**Abbreviated name**: *Tristram*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103250#page/322/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33066602) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiegand, Karl McKay (1873-1942), American botanist; Dr. phil. Cornell. Univ. 1898; assistant in botany Cornell 1894-1899; instructor 1899-1907; assoc. professor of botany Wellesley College 1907-1913; professor of botany Cornell 1913-1941; emeritus professor 1941-1942. (*Wiegand*).
+Wiegand, Karl McKay (1873-1942), American botanist; Dr. phil. Cornell. Univ. 1898; assistant in botany Cornell 1894-1899; instructor 1899-1907; assoc. professor of botany Wellesley College 1907-1913; professor of botany Cornell 1913-1941; emeritus professor 1941-1942. 
+**Abbreviated name**: *Wiegand*
 
 #### Herbarium and types
 

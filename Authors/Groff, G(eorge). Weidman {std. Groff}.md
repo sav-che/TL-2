@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/103832#page/422/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33258888) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Groff, G\[eorge\]. Weidman (1884-1954), American horticulturist and "agricultural missionary", born 29 Mar 1884 in Annville (Lebanon Co.), Penn., attended school in Harrisburg, Penn., B.Sc. 1907 and M.S. 1912 (horticulture) Penn. State College (now Penn. State Univ.), State College, Penn., went to China in 1907 and from 1908 served as middle school teacher, Canton Christian College, then held positions as Field Asst., Office of Crop Physiology and Breeding Investigation, U.S.D.A. and in the herb., Lingnan Univ. 1918-1920, Canton (now Guangzhou), Dean and Dir., Agricultural College 1921-1935 and Dir., Economic Plant Receiving Station 1935, both Lingnan Univ., moved to Florida 1941 (during W.W.-II), worked in s. China for the U.N. Relief and Rehabilitation Administration 1946-1947, died 4 Dec 1954 in Laurel, Florida. (*Groff*).
+Groff, G\[eorge\]. Weidman (1884-1954), American horticulturist and "agricultural missionary", born 29 Mar 1884 in Annville (Lebanon Co.), Penn., attended school in Harrisburg, Penn., B.Sc. 1907 and M.S. 1912 (horticulture) Penn. State College (now Penn. State Univ.), State College, Penn., went to China in 1907 and from 1908 served as middle school teacher, Canton Christian College, then held positions as Field Asst., Office of Crop Physiology and Breeding Investigation, U.S.D.A. and in the herb., Lingnan Univ. 1918-1920, Canton (now Guangzhou), Dean and Dir., Agricultural College 1921-1935 and Dir., Economic Plant Receiving Station 1935, both Lingnan Univ., moved to Florida 1941 (during W.W.-II), worked in s. China for the U.N. Relief and Rehabilitation Administration 1946-1947, died 4 Dec 1954 in Laurel, Florida. 
+**Abbreviated name**: *Groff*
 
 #### Herbarium and types
 

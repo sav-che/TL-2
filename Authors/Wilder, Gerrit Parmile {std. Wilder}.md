@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103250#page/352/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33066632) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilder, Gerrit Parmile (1863-1935), American horticulturist; superintendent Kahului Ry. Co. Maui, Hawaii 1884-1896, president 1896-1899; id. Estate S.G. Wilder Ltd. 1898, from then on retired from active business and devoting himself to horticulture; associate B.P. Bishop Museum Honolulu from 1924. (*Wilder*).
+Wilder, Gerrit Parmile (1863-1935), American horticulturist; superintendent Kahului Ry. Co. Maui, Hawaii 1884-1896, president 1896-1899; id. Estate S.G. Wilder Ltd. 1898, from then on retired from active business and devoting himself to horticulture; associate B.P. Bishop Museum Honolulu from 1924. 
+**Abbreviated name**: *Wilder*
 
 #### Herbarium and types
 

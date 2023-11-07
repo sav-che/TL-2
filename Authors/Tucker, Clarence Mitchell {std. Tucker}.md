@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103683#page/532/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33212564) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tucker, Clarence Mitchell (1897-1954), American botanist; B.S. Agr. Univ. Missouri 1920; Dr. phil. ib. 1930; professor of plant pathology Univ. Puerto Rico 1920-1923; id. in the Puerto Rico Agric. Experiment Station Mayaguez 1923-1930; associate plant pathologist Florida Agricultural Experiment Station 1930-1931; plant pathologist and associate professor of botany, University of Missouri 1931-1937, full professor ib. 1937-1954. (*Tucker*).
+Tucker, Clarence Mitchell (1897-1954), American botanist; B.S. Agr. Univ. Missouri 1920; Dr. phil. ib. 1930; professor of plant pathology Univ. Puerto Rico 1920-1923; id. in the Puerto Rico Agric. Experiment Station Mayaguez 1923-1930; associate plant pathologist Florida Agricultural Experiment Station 1930-1931; plant pathologist and associate professor of botany, University of Missouri 1931-1937, full professor ib. 1937-1954. 
+**Abbreviated name**: *Tucker*
 
 #### Herbarium and types
 

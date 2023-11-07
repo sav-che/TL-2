@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103253#page/365/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33068581) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hosseus, Carl Curt (1878-1950), German botanist; collected in Thailand 1904-1905; to Argentina 1912; from 1916-1946 professor of botany in Cordoba, Argentina. (*Hosseus*).
+Hosseus, Carl Curt (1878-1950), German botanist; collected in Thailand 1904-1905; to Argentina 1912; from 1916-1946 professor of botany in Cordoba, Argentina. 
+**Abbreviated name**: *Hosseus*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/103832#page/423/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33258889) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gronovius, Johan (Jan) Frederik {std. Gronov.}|first entry]] for this author
 
 ### Author
 
-\* Gronovius, Johan \[Jan\] Frederik (1690-1762). No description provided. (*Gronov.*).
+\* Gronovius, Johan \[Jan\] Frederik (1690-1762). No description provided. 
+**Abbreviated name**: *Gronov.*
 
 #### Note
 

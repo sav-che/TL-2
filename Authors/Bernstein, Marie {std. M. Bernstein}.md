@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103859#page/122/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33265309) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bernstein, Marie (fl. 1928), Latvian (?) botanist. (*M. Bernstein*).
+Bernstein, Marie (fl. 1928), Latvian (?) botanist. 
+**Abbreviated name**: *M. Bernstein*
 
 #### Herbarium and types
 

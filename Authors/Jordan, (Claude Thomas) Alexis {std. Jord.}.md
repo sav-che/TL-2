@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103253#page/486/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jordan, \[Claude Thomas\] Alexis (1814-1897), French botanist, whose extremely narrow species concept led to "jordanism" and Jordan-species (jordanons) vs. Linnaean species. (*Jord.*).
+Jordan, \[Claude Thomas\] Alexis (1814-1897), French botanist, whose extremely narrow species concept led to "jordanism" and Jordan-species (jordanons) vs. Linnaean species. 
+**Abbreviated name**: *Jord.*
 
 #### Herbarium and types
 

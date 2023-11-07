@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/item/103858#page/319/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33265034) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balsamo, Francesco {std. Balsamo}|first entry]] for this author
 
 ### Author
 
-\* Balsamo, Francesco (1850-1922), Italian botanist (algologist), educated at Napoli, Dipl. Sci. nat. Univ. Napoli 1874, associated with the Napoli Botanical Garden and its director V. de Cesati until 1881, assistant ib. 1881-1882, idem with Pasquale at the Botanical Institute, later idem with E. Delpino, professor of biology id. 1900. (*Balsamo*).
+\* Balsamo, Francesco (1850-1922), Italian botanist (algologist), educated at Napoli, Dipl. Sci. nat. Univ. Napoli 1874, associated with the Napoli Botanical Garden and its director V. de Cesati until 1881, assistant ib. 1881-1882, idem with Pasquale at the Botanical Institute, later idem with E. Delpino, professor of biology id. 1900. 
+**Abbreviated name**: *Balsamo*
 
 #### Herbarium and types
 

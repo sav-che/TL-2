@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103624#page/117/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33189574) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Patrick, Ruth Myrtle (1907-x), American diatomologist at the Philadelphia Academy of Natural Sciences; married Charles Hodge 1931; Ph. D. Univ. of Virginia 1934, at the Academy of Sciences from 1937 in various positions, curator of the Limnology Dept. from 1947; chairman of this department 1947-1973, chairman board of trustees Academy 1973-1976, from 1976 honorary chairman; Tyler award 1975; chairman Section of Population Biology, Evolution and Ecology of the National Academy of Sciences. (*R. Patrick*).
+Patrick, Ruth Myrtle (1907-x), American diatomologist at the Philadelphia Academy of Natural Sciences; married Charles Hodge 1931; Ph. D. Univ. of Virginia 1934, at the Academy of Sciences from 1937 in various positions, curator of the Limnology Dept. from 1947; chairman of this department 1947-1973, chairman board of trustees Academy 1973-1976, from 1976 honorary chairman; Tyler award 1975; chairman Section of Population Biology, Evolution and Ecology of the National Academy of Sciences. 
+**Abbreviated name**: *R. Patrick*
 
 #### Herbarium and types
 

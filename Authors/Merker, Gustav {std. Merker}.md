@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/104137#page/440/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33355511) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Merker, Gustav (1874-x), Bohemian botanist; teacher at the forestry college of Mährisch-Weisskirchen (Hranice, E. Bohemia) (*Merker*).
+Merker, Gustav (1874-x), Bohemian botanist; teacher at the forestry college of Mährisch-Weisskirchen (Hranice, E. Bohemia) 
+**Abbreviated name**: *Merker*
 
 #### Herbarium and types
 

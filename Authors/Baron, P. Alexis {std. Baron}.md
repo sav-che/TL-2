@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103414#page/171/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baron, P. Alexis (1754-?), French surveyor and naturalist who lived some time on St. Domingue. (*Baron*).
+Baron, P. Alexis (1754-?), French surveyor and naturalist who lived some time on St. Domingue. 
+**Abbreviated name**: *Baron*
 
 #### Herbarium and types
 

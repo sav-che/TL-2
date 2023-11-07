@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103858#page/158/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33264873) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Archer, Thomas Croxen (1817-1885), British surgeon and botanist, with Import Department Liverpool Custom House 1841-1860, formed economic collections of Liverpool imports for the Great Exhibition \[London\] 1851, also for Royal Institution, Liverpool; professor of botany Queen's College Liverpool 1857-1860, director Edinburgh Museum of Science and Art 1860-1885, president Bot. Soc. Edinburgh 1862; commissioner at various international "Exhibitions". (*T.C. Archer*).
+Archer, Thomas Croxen (1817-1885), British surgeon and botanist, with Import Department Liverpool Custom House 1841-1860, formed economic collections of Liverpool imports for the Great Exhibition \[London\] 1851, also for Royal Institution, Liverpool; professor of botany Queen's College Liverpool 1857-1860, director Edinburgh Museum of Science and Art 1860-1885, president Bot. Soc. Edinburgh 1862; commissioner at various international "Exhibitions". 
+**Abbreviated name**: *T.C. Archer*
 
 #### Herbarium and types
 

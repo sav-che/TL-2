@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103859#page/250/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33265437) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bochkoltz, W.C. (fl. 1859-1873), German civil engineer of Trier. (*Bochkoltz*).
+Bochkoltz, W.C. (fl. 1859-1873), German civil engineer of Trier. 
+**Abbreviated name**: *Bochkoltz*
 
 #### Herbarium and types
 

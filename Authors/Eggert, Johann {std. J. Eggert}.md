@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103835#page/279/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33260257) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eggert, Johann (1812-1895), German teacher, born 2 Feb 1812 in Letzkauerweide on the Danziger Nehrung, visited school in his village, to Jenkau (nr. Danzig) 1828 to study for teacher, 1832 assistant teacher in Jenkau, studied at Berlin 1834-1836 mathematics and natural sciences, 1836 back at Jenkau as teacher, 1850 test "Pro facultate docendi" at Königsberg, died 2 Jun 1895. (*J. Eggert*).
+Eggert, Johann (1812-1895), German teacher, born 2 Feb 1812 in Letzkauerweide on the Danziger Nehrung, visited school in his village, to Jenkau (nr. Danzig) 1828 to study for teacher, 1832 assistant teacher in Jenkau, studied at Berlin 1834-1836 mathematics and natural sciences, 1836 back at Jenkau as teacher, 1850 test "Pro facultate docendi" at Königsberg, died 2 Jun 1895. 
+**Abbreviated name**: *J. Eggert*
 
 #### Herbarium and types
 

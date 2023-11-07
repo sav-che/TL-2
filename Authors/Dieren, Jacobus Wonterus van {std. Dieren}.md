@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103833#page/331/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33259365) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dieren, Jacobus Wonterus van (1902-1935), Dutch botanist, born at Amsterdam 10 Jul 1902, worked on "Organogene Dünenbildung" with Stomps at Amsterdam, Doctor in botany 12 Jul 1934, became teacher at Utrecht 1934-1935, later in 1935 teacher at the Kennemer Lyceum at Overveen, died 14 Nov 1935 (*Dieren*).
+Dieren, Jacobus Wonterus van (1902-1935), Dutch botanist, born at Amsterdam 10 Jul 1902, worked on "Organogene Dünenbildung" with Stomps at Amsterdam, Doctor in botany 12 Jul 1934, became teacher at Utrecht 1934-1935, later in 1935 teacher at the Kennemer Lyceum at Overveen, died 14 Nov 1935 
+**Abbreviated name**: *Dieren*
 
 #### Herbarium and types
 

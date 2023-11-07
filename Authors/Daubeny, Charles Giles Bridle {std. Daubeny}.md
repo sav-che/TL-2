@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103833#page/96/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33259130) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daubeny, Charles Giles Bridle (1795-1867), British botanist born at Stratton, Glos., BA 1814 (Oxford), MA Oxford 1817, MD 1821, professor of chemistry, Oxford 1822-1855, from 1834 also professor of botany and professor of rural economy. (*Daubeny*).
+Daubeny, Charles Giles Bridle (1795-1867), British botanist born at Stratton, Glos., BA 1814 (Oxford), MA Oxford 1817, MD 1821, professor of chemistry, Oxford 1822-1855, from 1834 also professor of botany and professor of rural economy. 
+**Abbreviated name**: *Daubeny*
 
 #### Herbarium and types
 

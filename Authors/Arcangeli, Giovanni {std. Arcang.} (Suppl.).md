@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103858#page/155/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33264870) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arcangeli, Giovanni {std. Arcang.}|first entry]] for this author
 
 ### Author
 
-\* Arcangeli, Giovanni (1840-1921), Italian botanist, director a.i. botanical garden of Firenze 1877-1878, director of the botanical garden of the University of Torino 1879-1883, id. of Pisa 1883-1915. (*Arcang.*).
+\* Arcangeli, Giovanni (1840-1921), Italian botanist, director a.i. botanical garden of Firenze 1877-1878, director of the botanical garden of the University of Torino 1879-1883, id. of Pisa 1883-1915. 
+**Abbreviated name**: *Arcang.*
 
 #### Herbarium and types
 

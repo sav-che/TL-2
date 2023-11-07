@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/item/103624#page/607/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rauwenhoff, Nicolaas Willem Pieter (1826-1909), Dutch botanist; Dr. phil.; lecturer at the medical college of Rotterdam and high school teacher ib. 1860-1871; professor of botany and director of the botanical garden at Utrecht (succeeding F.A.W. Miquel) 1871-1896; first Dutch professor of botany to teach plant physiology. (*Rauwenh.*).
+Rauwenhoff, Nicolaas Willem Pieter (1826-1909), Dutch botanist; Dr. phil.; lecturer at the medical college of Rotterdam and high school teacher ib. 1860-1871; professor of botany and director of the botanical garden at Utrecht (succeeding F.A.W. Miquel) 1871-1896; first Dutch professor of botany to teach plant physiology. 
+**Abbreviated name**: *Rauwenh.*
 
 #### Herbarium and types
 

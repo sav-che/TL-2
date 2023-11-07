@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103414#page/166/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33120249) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barbey, William {std. Barbey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Barbey, William (1842-1914), Swiss philanthropist and botanist. (*Barbey*).
+Barbey, William (1842-1914), Swiss philanthropist and botanist. 
+**Abbreviated name**: *Barbey*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/item/103414#page/667/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33120750) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delpino, Giacomo Giuseppe Federico {std. Delpino} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Delpino, Giacomo Giuseppe Federico (1833-1905), Italian botanist, later director of the botanical institute of Napoli. (*Delpino*).
+Delpino, Giacomo Giuseppe Federico (1833-1905), Italian botanist, later director of the botanical institute of Napoli. 
+**Abbreviated name**: *Delpino*
 
 #### Herbarium and types
 

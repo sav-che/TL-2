@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103253#page/279/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33068495) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holandre, Jean Joseph Jacques (1778-1857), French naturalist and librarian; forest superintendent in Illyria 1809-1814; from 1817 at Metz in charge of the Musée d'histoire naturelle; from 1823 also town librarian; from 1840 devoting himself exclusively to botany. (*Holandre*).
+Holandre, Jean Joseph Jacques (1778-1857), French naturalist and librarian; forest superintendent in Illyria 1809-1814; from 1817 at Metz in charge of the Musée d'histoire naturelle; from 1823 also town librarian; from 1840 devoting himself exclusively to botany. 
+**Abbreviated name**: *Holandre*
 
 #### Herbarium and types
 

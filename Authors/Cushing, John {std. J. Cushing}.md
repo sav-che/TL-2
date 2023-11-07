@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103860#page/532/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33266199) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cushing, John (x-1819/20), Ireland born foreman gardener at the nurserey of Messrs Lee and Kennedy at Hammersmith. (*J. Cushing*).
+Cushing, John (x-1819/20), Ireland born foreman gardener at the nurserey of Messrs Lee and Kennedy at Hammersmith. 
+**Abbreviated name**: *J. Cushing*
 
 #### Herbarium and types
 

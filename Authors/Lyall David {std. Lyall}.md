@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/104137#page/215/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lyall David (1817-1895), British surgeon, naturalist and explorer; on Ross's Antarctic Voyage (1839-1842); in New Zealand 1847; in the Arctic with Belcher 1852; on Oregon Boundary Commission 1858-1861. (*Lyall*).
+Lyall David (1817-1895), British surgeon, naturalist and explorer; on Ross's Antarctic Voyage (1839-1842); in New Zealand 1847; in the Arctic with Belcher 1852; on Oregon Boundary Commission 1858-1861. 
+**Abbreviated name**: *Lyall*
 
 #### Herbarium and types
 

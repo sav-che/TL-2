@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/item/104077#page/422/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33333547) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schummel, \[Theodor\] Emil (1785-1848), German (Silesian) botanist, entomologist and high school teacher at the medical college, Breslau. (*Schummel*).
+Schummel, \[Theodor\] Emil (1785-1848), German (Silesian) botanist, entomologist and high school teacher at the medical college, Breslau. 
+**Abbreviated name**: *Schummel*
 
 #### Herbarium and types
 

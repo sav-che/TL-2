@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/item/103624#page/885/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33190342) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rolland, Léon \[Louis\] (1841-1912), French mycologist; lived at Le Hávre 1866-1879, later at Paris and Neuilly. (*Rolland*).
+Rolland, Léon \[Louis\] (1841-1912), French mycologist; lived at Le Hávre 1866-1879, later at Paris and Neuilly. 
+**Abbreviated name**: *Rolland*
 
 #### Herbarium and types
 

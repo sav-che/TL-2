@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/103414#page/697/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dietel, Paul {std. Dietel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dietel, Paul (1860-1947), German high-school teacher and mycologist at Leipzig, specialist on Uredineae. (*Dietel*).
+Dietel, Paul (1860-1947), German high-school teacher and mycologist at Leipzig, specialist on Uredineae. 
+**Abbreviated name**: *Dietel*
 
 #### Herbarium and types
 

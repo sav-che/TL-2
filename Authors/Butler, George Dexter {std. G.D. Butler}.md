@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103861#page/297/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33266594) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Butler, George Dexter (1850-1910), American lawyer and botanist, born in Morris, Grundy County, Illinois, studied law at the University of Iowa, Iowa-City, admitted to the bar in Iowa, teacher in Arkansas and Indian Territory, admitted to the bar in California 1896, practicing law as his main profession, took up botany studying the native Siskiyon County (Cal.). (*G.D. Butler*).
+Butler, George Dexter (1850-1910), American lawyer and botanist, born in Morris, Grundy County, Illinois, studied law at the University of Iowa, Iowa-City, admitted to the bar in Iowa, teacher in Arkansas and Indian Territory, admitted to the bar in California 1896, practicing law as his main profession, took up botany studying the native Siskiyon County (Cal.). 
+**Abbreviated name**: *G.D. Butler*
 
 #### Herbarium and types
 

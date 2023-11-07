@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103683#page/242/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thaxter, Roland (1858-1932), American mycologist; A.B. Harvard 1882; Dr. phil. ib. 1888; assistant to W.G. Farlow 1886-1888; with Connecticut Experiment Station 1888-1891; assistant professor Harvard (with W.G. Farlow) 1891-1901, full professor 1901-1919; in retirement at Harvard 1919-1932; travelled in Chile 1905-1906. (*Thaxt.*).
+Thaxter, Roland (1858-1932), American mycologist; A.B. Harvard 1882; Dr. phil. ib. 1888; assistant to W.G. Farlow 1886-1888; with Connecticut Experiment Station 1888-1891; assistant professor Harvard (with W.G. Farlow) 1891-1901, full professor 1901-1919; in retirement at Harvard 1919-1932; travelled in Chile 1905-1906. 
+**Abbreviated name**: *Thaxt.*
 
 #### Herbarium and types
 

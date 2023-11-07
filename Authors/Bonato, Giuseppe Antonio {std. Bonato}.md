@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103414#page/317/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33120400) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bonato, Giuseppe Antonio {std. Bonato} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bonato, Giuseppe Antonio (1753-1836), Italian botanist, professor of botany at Padua. (*Bonato*).
+Bonato, Giuseppe Antonio (1753-1836), Italian botanist, professor of botany at Padua. 
+**Abbreviated name**: *Bonato*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/item/104137#page/506/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33355577) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miller, Elihu Sanford (1848-1940), American botanist and horticulturist; at Wading River, N.Y. 1848-1888, 1902-1904, at Floral Park 1883-1902. (*E.S. Mill.*).
+Miller, Elihu Sanford (1848-1940), American botanist and horticulturist; at Wading River, N.Y. 1848-1888, 1902-1904, at Floral Park 1883-1902. 
+**Abbreviated name**: *E.S. Mill.*
 
 #### Herbarium and types
 

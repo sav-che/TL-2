@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/item/104077#page/600/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33333725) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siebold, Philipp Franz \[Balthasar\] von (1796-1866), German (Franken) physician, natural scientist and orientalist; studied medicine and natural sciences in Würzburg; Dr. med. 1870; to the Netherlands in 1822; as governmental physician to Batavia 1822; accompanied a diplomatic mission to Japan 1823-1830; returned to Europe 1830; advisor to the Department of Colonies, Netherlands, in Leiden, dedicating himself to working on his publications and collections 1830-1847; ennobled ("Jonkheer") 1842; settled in Boppard a. Rhein 1857; second journey to Japan 1859-1862; in Würzburg 1862-1866. (*Siebold*).
+Siebold, Philipp Franz \[Balthasar\] von (1796-1866), German (Franken) physician, natural scientist and orientalist; studied medicine and natural sciences in Würzburg; Dr. med. 1870; to the Netherlands in 1822; as governmental physician to Batavia 1822; accompanied a diplomatic mission to Japan 1823-1830; returned to Europe 1830; advisor to the Department of Colonies, Netherlands, in Leiden, dedicating himself to working on his publications and collections 1830-1847; ennobled ("Jonkheer") 1842; settled in Boppard a. Rhein 1857; second journey to Japan 1859-1862; in Würzburg 1862-1866. 
+**Abbreviated name**: *Siebold*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/104137#page/466/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33355537) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meyer, J. C. (*fl*. 1854), German botanist and pharmacist at Bayreuth. (*J. Mey.*).
+Meyer, J. C. (*fl*. 1854), German botanist and pharmacist at Bayreuth. 
+**Abbreviated name**: *J. Mey.*
 
 #### Herbarium and types
 

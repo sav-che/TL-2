@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103414#page/120/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ascherson, Paul (Friedrich August) {std. Aschers.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ascherson, Paul Friedrich August (1834-1913), German botanist, professor of botany at Berlin University, great authority on the Central European flora. (*Aschers.*).
+Ascherson, Paul Friedrich August (1834-1913), German botanist, professor of botany at Berlin University, great authority on the Central European flora. 
+**Abbreviated name**: *Aschers.*
 
 #### Herbarium and types
 

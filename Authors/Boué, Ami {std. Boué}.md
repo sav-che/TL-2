@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103859#page/389/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33265576) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boué, Ami (1794-1881), German (Hamburg born) physician, botanist and geologist, educated at Genève, studied medicine at the University of Edinburgh 1813-1817, Dr. phil. ib. 1817, continued his studies in France, travelling widely mainly for geological purposes, based in Paris 1818-1844, settled in Austria (Vienna) 1844. (*Boué*).
+Boué, Ami (1794-1881), German (Hamburg born) physician, botanist and geologist, educated at Genève, studied medicine at the University of Edinburgh 1813-1817, Dr. phil. ib. 1817, continued his studies in France, travelling widely mainly for geological purposes, based in Paris 1818-1844, settled in Austria (Vienna) 1844. 
+**Abbreviated name**: *Boué*
 
 #### Herbarium and types
 

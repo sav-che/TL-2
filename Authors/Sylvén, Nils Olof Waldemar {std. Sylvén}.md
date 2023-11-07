@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103683#page/146/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33212178) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sylvén, Nils Olof Waldemar (1880-1969), Swedish botanist; Dr. phil. Uppsala 1906; assistant at the Hortus Bergianus, Stockholm 1906-1907; id. with the Forestry Research Institute 1907-1909; lecturer at the Forestry College 1909-1917 in charge of the department of texture and oil plants, later of pasture plants of the Svalöv plant-breeding station 1918-1938; head of the Institute for breeding Forest trees, Ekebo, Svalöv 1938-1949; professor h.c. 1940; at Lund from 1950. (*Sylvén*).
+Sylvén, Nils Olof Waldemar (1880-1969), Swedish botanist; Dr. phil. Uppsala 1906; assistant at the Hortus Bergianus, Stockholm 1906-1907; id. with the Forestry Research Institute 1907-1909; lecturer at the Forestry College 1909-1917 in charge of the department of texture and oil plants, later of pasture plants of the Svalöv plant-breeding station 1918-1938; head of the Institute for breeding Forest trees, Ekebo, Svalöv 1938-1949; professor h.c. 1940; at Lund from 1950. 
+**Abbreviated name**: *Sylvén*
 
 #### Herbarium and types
 

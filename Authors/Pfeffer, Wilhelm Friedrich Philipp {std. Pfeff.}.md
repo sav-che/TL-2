@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103624#page/232/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33189689) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pfeffer, Wilhelm Friedrich Philipp (1845-1920), German (Hesse-Nassau) plant physiologist, pharmacist, chemist and bryologist; Dr. phil. Göttingen 1865; assistant pharmacist in Chur 1865-1869; with Pringsheim in Berlin 1869-1870; with Sachs at Würzburg 1870-1871; habil. Marburg 1871, "dozent" ib. 1871-1873; professor of botany Bonn 1873-1877, at Basel 1877, at Tübingen 1878-1887; ultimately director of the botanical garden and of the plant physiology laboratory at Leipzig 1887-1920; leading plant physiologist of his era. (*Pfeff.*).
+Pfeffer, Wilhelm Friedrich Philipp (1845-1920), German (Hesse-Nassau) plant physiologist, pharmacist, chemist and bryologist; Dr. phil. Göttingen 1865; assistant pharmacist in Chur 1865-1869; with Pringsheim in Berlin 1869-1870; with Sachs at Würzburg 1870-1871; habil. Marburg 1871, "dozent" ib. 1871-1873; professor of botany Bonn 1873-1877, at Basel 1877, at Tübingen 1878-1887; ultimately director of the botanical garden and of the plant physiology laboratory at Leipzig 1887-1920; leading plant physiologist of his era. 
+**Abbreviated name**: *Pfeff.*
 
 #### Herbarium and types
 

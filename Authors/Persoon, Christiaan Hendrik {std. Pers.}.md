@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103624#page/192/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33189649) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Persoon, Christiaan Hendrik (1761/1762-1836), South African botanist (Dutch citizen), especially mycologist, who was educated (high school) at Lingen; studied theology at Halle 1783-1786, and medicine and natural sciences at Göttingen 1787-1802; Dr. phil. Leopoldina 1799; lived in Paris 1802-1836; left his herbarium and library to the Dutch government after having exchanged his earlier herbarium in 1828 for an annual pension with the same government. (*Pers.*).
+Persoon, Christiaan Hendrik (1761/1762-1836), South African botanist (Dutch citizen), especially mycologist, who was educated (high school) at Lingen; studied theology at Halle 1783-1786, and medicine and natural sciences at Göttingen 1787-1802; Dr. phil. Leopoldina 1799; lived in Paris 1802-1836; left his herbarium and library to the Dutch government after having exchanged his earlier herbarium in 1828 for an annual pension with the same government. 
+**Abbreviated name**: *Pers.*
 
 #### Herbarium and types
 

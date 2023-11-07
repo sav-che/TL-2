@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103835#page/152/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33260130) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ducomet, Vital (fl. 1899-1931), French botanist, plant pathologist and mycologist, specialist in cultivated plants, docteur ès sciences, honorary professor at the Institut national agronomique, director of the botanical garden at Grignon (Seine-et-Oise) 1915-1931. (*Ducomet*).
+Ducomet, Vital (fl. 1899-1931), French botanist, plant pathologist and mycologist, specialist in cultivated plants, docteur ès sciences, honorary professor at the Institut national agronomique, director of the botanical garden at Grignon (Seine-et-Oise) 1915-1931. 
+**Abbreviated name**: *Ducomet*
 
 #### Herbarium and types
 

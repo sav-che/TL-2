@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/103414#page/575/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33120658) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collins, Zacchaeus (1764-1831), Quaker merchant, philanthropist, promoter of botany. (*Z. Collins*).
+Collins, Zacchaeus (1764-1831), Quaker merchant, philanthropist, promoter of botany. 
+**Abbreviated name**: *Z. Collins*
 
 #### Herbarium and types
 

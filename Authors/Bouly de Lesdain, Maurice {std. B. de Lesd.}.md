@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/103414#page/342/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33120425) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bouly de Lesdain, Maurice {std. B. de Lesd.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bouly de Lesdain, Maurice (1869-1965), French lichenologist. (*B. de Lesd.*).
+Bouly de Lesdain, Maurice (1869-1965), French lichenologist. 
+**Abbreviated name**: *B. de Lesd.*
 
 #### Herbarium and types
 

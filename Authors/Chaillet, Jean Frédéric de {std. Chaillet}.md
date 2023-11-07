@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/103414#page/529/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chaillet, Jean Frédéric de (1747-1839), Swiss soldier and plant collector. (*Chaillet*).
+Chaillet, Jean Frédéric de (1747-1839), Swiss soldier and plant collector. 
+**Abbreviated name**: *Chaillet*
 
 #### Herbarium and types
 

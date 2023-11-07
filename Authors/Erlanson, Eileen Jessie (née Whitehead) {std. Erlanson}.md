@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103835#page/408/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33260386) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Erlanson, Eileen Jessie \[née Whitehead\] (1899-?), born 1899 at Kingston-on-Thames (England), B.Sc. London 1919, married Earl Jerome Grimes in 1919, M.S. Michigan 1924, Emma J. Cole fellow 1925-1926, married after the death of Grimes (1921) Carl Oscar Erlanson, ecologist in Michigan, received her Ph.D. in 1928 and D.Sci. in London in 1934, that year she married James Borthwick Macfarlane, she was assistant professor in biology at Kent State University 1932-1933, collaborator in Asiatic research in Michigan from 1933. (*Erlanson*).
+Erlanson, Eileen Jessie \[née Whitehead\] (1899-?), born 1899 at Kingston-on-Thames (England), B.Sc. London 1919, married Earl Jerome Grimes in 1919, M.S. Michigan 1924, Emma J. Cole fellow 1925-1926, married after the death of Grimes (1921) Carl Oscar Erlanson, ecologist in Michigan, received her Ph.D. in 1928 and D.Sci. in London in 1934, that year she married James Borthwick Macfarlane, she was assistant professor in biology at Kent State University 1932-1933, collaborator in Asiatic research in Michigan from 1933. 
+**Abbreviated name**: *Erlanson*
 
 #### Herbarium and types
 

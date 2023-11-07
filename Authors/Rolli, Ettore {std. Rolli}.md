@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/item/103624#page/886/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33190343) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rolli, Ettore (1818-1876), Italian botanist and pharmacist at Rome; professor of botany at Rome University and director of its botanical garden ca. 1851-1870. (*Rolli*).
+Rolli, Ettore (1818-1876), Italian botanist and pharmacist at Rome; professor of botany at Rome University and director of its botanical garden ca. 1851-1870. 
+**Abbreviated name**: *Rolli*
 
 #### Herbarium and types
 

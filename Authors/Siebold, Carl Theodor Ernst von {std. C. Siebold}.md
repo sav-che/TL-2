@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/item/104077#page/599/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33333724) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siebold, Carl Theodor Ernst von (1804-1885), German (Würzburg) physiologist and zoologist; studied in Göttingen and Berlin; regional physician at Heilsberg, Prussia 1831-1835; director of the obstetric clinic in Danzig 1835-1840; professor of physiology and comparative anatomy in Erlangen 1840-1845, idem in Freiburg i.Br. 1845-1850, id. in Breslau 1850-1853; from 1853 in the same function in München, later also as professor of zoology and director of the physiological institute; brother of P.F. v. Siebold. (*C. Siebold*).
+Siebold, Carl Theodor Ernst von (1804-1885), German (Würzburg) physiologist and zoologist; studied in Göttingen and Berlin; regional physician at Heilsberg, Prussia 1831-1835; director of the obstetric clinic in Danzig 1835-1840; professor of physiology and comparative anatomy in Erlangen 1840-1845, idem in Freiburg i.Br. 1845-1850, id. in Breslau 1850-1853; from 1853 in the same function in München, later also as professor of zoology and director of the physiological institute; brother of P.F. v. Siebold. 
+**Abbreviated name**: *C. Siebold*
 
 #### Herbarium and types
 

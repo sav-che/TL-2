@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103835#page/113/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33260091) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Droysen, Karl Johann (1849-?), German agricultural student, born 11 Jul 1849 in Goerlsdorf (near Seelow), moved to Berlin, visited the Friedrich-Wilhelms-Gymnasium, studied at the Friedrich-Wilhelms-Universität ib., went later (1875) to Halle-Wittenberg. (*Droysen*).
+Droysen, Karl Johann (1849-?), German agricultural student, born 11 Jul 1849 in Goerlsdorf (near Seelow), moved to Berlin, visited the Friedrich-Wilhelms-Gymnasium, studied at the Friedrich-Wilhelms-Universität ib., went later (1875) to Halle-Wittenberg. 
+**Abbreviated name**: *Droysen*
 
 #### Herbarium and types
 

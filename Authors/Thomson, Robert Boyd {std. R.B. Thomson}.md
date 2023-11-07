@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103683#page/296/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomson, Robert Boyd (1870-1947), Canadian botanist; Dr. phil. Univ. Toronto 1899; associated with this University from 1899-1941, from 1928-1941 as head of the Department of Botany; professor emeritus ib. 1941-1947. (*R.B. Thomson*).
+Thomson, Robert Boyd (1870-1947), Canadian botanist; Dr. phil. Univ. Toronto 1899; associated with this University from 1899-1941, from 1928-1941 as head of the Department of Botany; professor emeritus ib. 1941-1947. 
+**Abbreviated name**: *R.B. Thomson*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/item/103250#page/622/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zukal, Hugo (1845-1900), Austrian high school teacher and botanist; soldier in the Austrian army 1864-1872; studied at the Trautenau teachers college; teacher at Freudenthal and Vienna, ultimately at a women's teachers college; e.o. profesor of phytopathology for forestry at the Vienna agricultural and forestry college (Hochschule für Bodenkultur) 1898-1900. (*Zukal*).
+Zukal, Hugo (1845-1900), Austrian high school teacher and botanist; soldier in the Austrian army 1864-1872; studied at the Trautenau teachers college; teacher at Freudenthal and Vienna, ultimately at a women's teachers college; e.o. profesor of phytopathology for forestry at the Vienna agricultural and forestry college (Hochschule für Bodenkultur) 1898-1900. 
+**Abbreviated name**: *Zukal*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103861#page/347/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Campos Porto, Paulo de (1889-x), Brazilian botanist, "naturalista" at the Botanical Garden of Rio de Janeiro 1914, in charge of the new Estaçao Biológia de Itatiaia 1929-1933, assistant chef 1933-1934, biologist 1934, in charge of the Jardim botânico do Rio de Janeiro 1934, director of the Instituto de Biológia Vegetal do Rio de Janeiro 1934-1939, secretary of agriculture at the state of Bahia 1942-1945, later again continuing his directorship of the Jardim botânico do Rio de Janeiro. (*Campos-Porto*).
+Campos Porto, Paulo de (1889-x), Brazilian botanist, "naturalista" at the Botanical Garden of Rio de Janeiro 1914, in charge of the new Estaçao Biológia de Itatiaia 1929-1933, assistant chef 1933-1934, biologist 1934, in charge of the Jardim botânico do Rio de Janeiro 1934, director of the Instituto de Biológia Vegetal do Rio de Janeiro 1934-1939, secretary of agriculture at the state of Bahia 1942-1945, later again continuing his directorship of the Jardim botânico do Rio de Janeiro. 
+**Abbreviated name**: *Campos-Porto*
 
 #### Herbarium and types
 

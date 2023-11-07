@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103683#page/279/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomae, Carl \[Karl\] Th. (1808-1885), German (Hessen-Nassau), botanist and general naturalist; studied in Bonn 1832-1835; teacher of natural sciences at Wiesbaden 1835-1845; director of the agricultural institute Geisberg nr Wiesbaden 1849-1868; from 1838 with the professor's title. (*Thomae*).
+Thomae, Carl \[Karl\] Th. (1808-1885), German (Hessen-Nassau), botanist and general naturalist; studied in Bonn 1832-1835; teacher of natural sciences at Wiesbaden 1835-1845; director of the agricultural institute Geisberg nr Wiesbaden 1849-1868; from 1838 with the professor's title. 
+**Abbreviated name**: *Thomae*
 
 #### Herbarium and types
 

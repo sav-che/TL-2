@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/103683#page/426/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33212458) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Toussaint, Anatole (1863-1943), French clergyman and botanist in Normandy; priest at Bois-Jérôme. (*Toussaint*).
+Toussaint, Anatole (1863-1943), French clergyman and botanist in Normandy; priest at Bois-Jérôme. 
+**Abbreviated name**: *Toussaint*
 
 #### Herbarium and types
 

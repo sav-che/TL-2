@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103832#page/160/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33258626) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gaudin, Charles Théophile (1822-1866), Swiss paleobotanist, born 4 Aug 1822 in Lausanne, studied theology in Lausanne but not consecrated, private tutor ("précepteur") in England for the family of Lord Ashley (1801-1885) (later 7th Earl of Shaftesbury) 1845, returned to Switzerland and began paleobotany studies 1851, private tutor for Gabriel de Rumine (1841-1871), the son of a Russian emigré family that settled in Lausanne and which also financed Gaudin's paleontological research, founded with Mme. Catherine de Rumine (1818-1867) the Musée Industriel, Lausanne 1862, died 7 Jan 1866 in Lausanne. (*C.T. Gaudin*).
+Gaudin, Charles Théophile (1822-1866), Swiss paleobotanist, born 4 Aug 1822 in Lausanne, studied theology in Lausanne but not consecrated, private tutor ("précepteur") in England for the family of Lord Ashley (1801-1885) (later 7th Earl of Shaftesbury) 1845, returned to Switzerland and began paleobotany studies 1851, private tutor for Gabriel de Rumine (1841-1871), the son of a Russian emigré family that settled in Lausanne and which also financed Gaudin's paleontological research, founded with Mme. Catherine de Rumine (1818-1867) the Musée Industriel, Lausanne 1862, died 7 Jan 1866 in Lausanne. 
+**Abbreviated name**: *C.T. Gaudin*
 
 #### Herbarium and types
 

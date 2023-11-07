@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103833#page/296/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33259330) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dibbern, Hermann \[Friedrich Wilhelm\] (1870-19?), German, born 22 Dec 1870 in Schleswig, became "Volkschullehrer" first at Eckernförde 1891, later ib. 1893, and became 1898 at Tondern "Mittelschullehrer", studied in Jena and Berlin philosophy, sciences esp. botany, 1902 teacher in the Real-Gymnasium at Magdeburg, inaugural dissertation 20 Dec 1902 at the University of Berlin. (*Dibbern*).
+Dibbern, Hermann \[Friedrich Wilhelm\] (1870-19?), German, born 22 Dec 1870 in Schleswig, became "Volkschullehrer" first at Eckernförde 1891, later ib. 1893, and became 1898 at Tondern "Mittelschullehrer", studied in Jena and Berlin philosophy, sciences esp. botany, 1902 teacher in the Real-Gymnasium at Magdeburg, inaugural dissertation 20 Dec 1902 at the University of Berlin. 
+**Abbreviated name**: *Dibbern*
 
 #### Herbarium and types
 

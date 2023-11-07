@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103624#page/403/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33189860) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Presl, Jan Svatopluk (1791-1849), Czech physician and botanist at Praha; professor of botany at the medical faculty. (*J. Presl*).
+Presl, Jan Svatopluk (1791-1849), Czech physician and botanist at Praha; professor of botany at the medical faculty. 
+**Abbreviated name**: *J. Presl*
 
 #### Herbarium and types
 

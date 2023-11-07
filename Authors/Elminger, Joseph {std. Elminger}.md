@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103835#page/335/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33260313) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elminger, Joseph (1790-1859), Swiss physician, born 1790 at Luzern where he visited the gymnasium from 1799 till 1804, studied medicine at Montpellier, Dr. med. in 1812, collected plants in France which he later presented to the museum at Luzern, where he practised the rest of his life, died 22 Jun 1859. (*Elminger*).
+Elminger, Joseph (1790-1859), Swiss physician, born 1790 at Luzern where he visited the gymnasium from 1799 till 1804, studied medicine at Montpellier, Dr. med. in 1812, collected plants in France which he later presented to the museum at Luzern, where he practised the rest of his life, died 22 Jun 1859. 
+**Abbreviated name**: *Elminger*
 
 #### Herbarium and types
 

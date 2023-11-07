@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/item/103624#page/921/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33190378) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rossmann, \[Georg Wilhelm\] Julius (1831-1866), German (Hessen) botanist; studied medicine at Giessen but devoted himself to botany from 1851 as a student of A. Braun; Dr. phil. Giessen 1853; habil. ib. 1854; extra-ordinary professor of botany ib. 1859-1865; retired to Worms because of illness. (*Rossmann*).
+Rossmann, \[Georg Wilhelm\] Julius (1831-1866), German (Hessen) botanist; studied medicine at Giessen but devoted himself to botany from 1851 as a student of A. Braun; Dr. phil. Giessen 1853; habil. ib. 1854; extra-ordinary professor of botany ib. 1859-1865; retired to Worms because of illness. 
+**Abbreviated name**: *Rossmann*
 
 #### Herbarium and types
 

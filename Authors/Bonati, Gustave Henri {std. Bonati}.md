@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103414#page/317/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33120400) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bonati, Gustave Henri {std. Bonati} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bonati, Gustave Henri (1873-1927), French botanist and pharmacist. (*Bonati*).
+Bonati, Gustave Henri (1873-1927), French botanist and pharmacist. 
+**Abbreviated name**: *Bonati*
 
 #### Herbarium and types
 

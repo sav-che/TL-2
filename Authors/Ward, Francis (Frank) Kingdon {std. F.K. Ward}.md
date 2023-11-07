@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103250#page/123/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33066403) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ward, Francis \[Frank\] Kingdon (1885-1958), British plant collector, traveller and author; studied at Christ's College, Cambridge; teacher at the Shanghai Public School 1906; travelled in W. China 1909-1910; professional plant collector from 1911-1956, active in China 1911, 1913, 1921-1923; North Burma 1914, 1919, 1926, 1930-1931, 1937, 1938-1939, 1942, 1953; South East Tibet 1924, 1933, 1935; Assam 1927-1928, 1935, 1938, 1946, 1948, 1949; French Indo-China 1929; Thailand 1941; East Manipur 1948; Assam-Tibet 1950; Mount Victoria, West Burma 1956; Veitch memorial medal 1934; O.B.E. 1952; son of Harry Marshall Ward. (*F.K. Ward*).
+Ward, Francis \[Frank\] Kingdon (1885-1958), British plant collector, traveller and author; studied at Christ's College, Cambridge; teacher at the Shanghai Public School 1906; travelled in W. China 1909-1910; professional plant collector from 1911-1956, active in China 1911, 1913, 1921-1923; North Burma 1914, 1919, 1926, 1930-1931, 1937, 1938-1939, 1942, 1953; South East Tibet 1924, 1933, 1935; Assam 1927-1928, 1935, 1938, 1946, 1948, 1949; French Indo-China 1929; Thailand 1941; East Manipur 1948; Assam-Tibet 1950; Mount Victoria, West Burma 1956; Veitch memorial medal 1934; O.B.E. 1952; son of Harry Marshall Ward. 
+**Abbreviated name**: *F.K. Ward*
 
 #### Herbarium and types
 

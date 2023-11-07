@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/103832#page/481/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33258947) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guyot, Arnaud \[Arnold\] Henri \[Henry\] (1807-1884), Swiss-born American geographer, paleontologist, meteorologist and naturalist, born 28 Sep 1807 in Boudevilliers nr. Neuchâtel, attended Neuchâtel Univ. where he was a classmate of Leo Lesquereaux, Ph.D. Berlin 1835, went to America at instigation of Louis Agassiz in 1848 and became prof. of geology and geography, Princeton Univ., Princeton, New Jersey 1854-1884, L.L.D., died 8 Feb 1884 in Princeton. (*A.H. Guyot*).
+Guyot, Arnaud \[Arnold\] Henri \[Henry\] (1807-1884), Swiss-born American geographer, paleontologist, meteorologist and naturalist, born 28 Sep 1807 in Boudevilliers nr. Neuchâtel, attended Neuchâtel Univ. where he was a classmate of Leo Lesquereaux, Ph.D. Berlin 1835, went to America at instigation of Louis Agassiz in 1848 and became prof. of geology and geography, Princeton Univ., Princeton, New Jersey 1854-1884, L.L.D., died 8 Feb 1884 in Princeton. 
+**Abbreviated name**: *A.H. Guyot*
 
 #### Herbarium and types
 

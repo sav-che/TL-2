@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103832#page/298/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33258764) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gombault, René (1871-1971), French bureaucrat and botanist, French Customs Inspector-Gén. of Syria and Lebanon in 1930s, resided in Versailles (Seine-et-Oise) ca. 1939. (*Gombault*).
+Gombault, René (1871-1971), French bureaucrat and botanist, French Customs Inspector-Gén. of Syria and Lebanon in 1930s, resided in Versailles (Seine-et-Oise) ca. 1939. 
+**Abbreviated name**: *Gombault*
 
 #### Herbarium and types
 

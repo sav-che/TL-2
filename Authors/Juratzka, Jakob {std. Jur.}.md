@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103253#page/500/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33068716) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Juratzka, Jakob (1821-1878), Austro-Hungarian, Moravia-born, bryologist and "Oberingenieur der Dicasterialgebäude-Direction" \[direction of the law-courts\] in Vienna. (*Jur.*).
+Juratzka, Jakob (1821-1878), Austro-Hungarian, Moravia-born, bryologist and "Oberingenieur der Dicasterialgebäude-Direction" \[direction of the law-courts\] in Vienna. 
+**Abbreviated name**: *Jur.*
 
 #### Herbarium and types
 

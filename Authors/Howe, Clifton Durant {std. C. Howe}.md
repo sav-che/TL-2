@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/item/103253#page/372/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33068588) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howe, Clifton Durant (1874-?), American botanist; doctor's degree at Chicago 1904; instructor at Biltmore Forest School from 1905: later at the Faculty of Forestry, University of Toronto; brother of Marshall Avery Howe. (*C. Howe*).
+Howe, Clifton Durant (1874-?), American botanist; doctor's degree at Chicago 1904; instructor at Biltmore Forest School from 1905: later at the Faculty of Forestry, University of Toronto; brother of Marshall Avery Howe. 
+**Abbreviated name**: *C. Howe*
 
 #### Herbarium and types
 

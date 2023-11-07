@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/103414#page/783/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33120866) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eiben, C. E. (*fl*. 1870), German East-Frisian cryptogamist at Aurich nr. Emden. (*Eiben*).
+Eiben, C. E. (*fl*. 1870), German East-Frisian cryptogamist at Aurich nr. Emden. 
+**Abbreviated name**: *Eiben*
 
 #### Herbarium and types
 

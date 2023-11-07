@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/item/104137#page/551/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33355622) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Möller, Ludwig Heinrich Ferdinand (1820-1877), German high school teacher and botanist at Mühlhausen in Thüringen. (*L. Möller*).
+Möller, Ludwig Heinrich Ferdinand (1820-1877), German high school teacher and botanist at Mühlhausen in Thüringen. 
+**Abbreviated name**: *L. Möller*
 
 #### Herbarium and types
 

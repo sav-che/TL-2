@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1016](https://www.biodiversitylibrary.org/item/103414#page/1064/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1016](https://www.biodiversitylibrary.org/page/33121147) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Groves, James {std. J. Groves} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Groves, James (1858-1933), British algologist and palaeontologist, brother of Henry Groves. (*J. Groves*).
+Groves, James (1858-1933), British algologist and palaeontologist, brother of Henry Groves. 
+**Abbreviated name**: *J. Groves*
 
 #### Herbarium and types
 

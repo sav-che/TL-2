@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1040](https://www.biodiversitylibrary.org/item/103624#page/1054/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1040](https://www.biodiversitylibrary.org/page/33190511) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sachs, \[Ferdinand Gustav\] Julius von (1832-1897), German (Silesian) botanist; outstanding plant physiologist; draftsman with J.E. Purkyné at Praha 1849-1851; studied at Praha University 1851-1856; Dr. phil. ib. 1856; habil. ib. 1857; teaching plant physiology at Praha 1857-1859; assistant at the Forestry College of Tharandt (nr. Dresden) 1859; id. at Poppelsdorf (nr. Bonn) 1859-1867; professor of botany Freiburg i.B. 1867-1868; full professor of botany at Würzburg 1868-1897; Geheimrat 1877; most influential nineteenth century botanist in promoting experimental botany. (*Sachs*).
+Sachs, \[Ferdinand Gustav\] Julius von (1832-1897), German (Silesian) botanist; outstanding plant physiologist; draftsman with J.E. Purkyné at Praha 1849-1851; studied at Praha University 1851-1856; Dr. phil. ib. 1856; habil. ib. 1857; teaching plant physiology at Praha 1857-1859; assistant at the Forestry College of Tharandt (nr. Dresden) 1859; id. at Poppelsdorf (nr. Bonn) 1859-1867; professor of botany Freiburg i.B. 1867-1868; full professor of botany at Würzburg 1868-1897; Geheimrat 1877; most influential nineteenth century botanist in promoting experimental botany. 
+**Abbreviated name**: *Sachs*
 
 #### Herbarium and types
 

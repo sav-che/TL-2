@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103835#page/233/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33260211) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duvau, Auguste (1771-1831), French botanist, born 14 Jan 1771 at Tours, studied at Tours, later at Paris, left France and went to Germany (Erfurt, later Weimar) in 1792, returned to France in 1802, stayed in Genève 1805, finally in France from 1805 studying natural sciences, died 8 Jan 1831 at the family-castle "la Farinière" near Cinq Mars (Indre-et-Loire). (*Duvau*).
+Duvau, Auguste (1771-1831), French botanist, born 14 Jan 1771 at Tours, studied at Tours, later at Paris, left France and went to Germany (Erfurt, later Weimar) in 1792, returned to France in 1802, stayed in Genève 1805, finally in France from 1805 studying natural sciences, died 8 Jan 1831 at the family-castle "la Farinière" near Cinq Mars (Indre-et-Loire). 
+**Abbreviated name**: *Duvau*
 
 #### Herbarium and types
 

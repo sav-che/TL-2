@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/item/104077#page/487/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33333612) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sedgwick, Leonard John (1883-1925), British botanist; B.A. Cambridge 1905; in the Indian civil service from 1907. (*Sedgwick*).
+Sedgwick, Leonard John (1883-1925), British botanist; B.A. Cambridge 1905; in the Indian civil service from 1907. 
+**Abbreviated name**: *Sedgwick*
 
 #### Herbarium and types
 

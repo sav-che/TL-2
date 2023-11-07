@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103683#page/157/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33212189) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Täckholm, Gunnar Vilhelm (1891-1933), Swedish botanist; Dr. phil. Stockholm 1922; with the botanical institute of Stockholm College 1913-1923; high school teacher at Kungsholmen, Stockholm 1923-1925 and from 1929; professor of botany at Cairo University 1925-1929. (*G. Täckh.*).
+Täckholm, Gunnar Vilhelm (1891-1933), Swedish botanist; Dr. phil. Stockholm 1922; with the botanical institute of Stockholm College 1913-1923; high school teacher at Kungsholmen, Stockholm 1923-1925 and from 1929; professor of botany at Cairo University 1925-1929. 
+**Abbreviated name**: *G. Täckh.*
 
 #### Herbarium and types
 

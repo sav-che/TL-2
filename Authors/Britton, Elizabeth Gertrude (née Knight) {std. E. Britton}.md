@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103414#page/379/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33120462) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Britton, Elizabeth Gertrude (née Knight) {std. E. Britton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Britton, Elizabeth Gertrude (née Knight) (1858-1934), American botanist, married Nathaniel Lord Britton, 27 Aug 1885. (*E. Britton*).
+Britton, Elizabeth Gertrude (née Knight) (1858-1934), American botanist, married Nathaniel Lord Britton, 27 Aug 1885. 
+**Abbreviated name**: *E. Britton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 633](https://www.biodiversitylibrary.org/item/103683#page/643/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 633](https://www.biodiversitylibrary.org/page/33212675) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vailionis, Liudas (1886-1939), Lithuanian botanist; studied at gymnasia in Lodz and Krakau (Poland) and at the University of Krakau, graduated 1913; assistant at the Agricultural Experiment Station Potzk 1913-1914; high school teacher in Poland 1914-1918; returned to the then independent Lithuania 1919 (still occupied by Polish troops), in the underground army 1919-1920; lector in botany at the Lithuanian University, Kaunas 1920, "docent" and in charge of the Institute of plant anatomy and physiology 1922; e.o. professor at botany 1938; died 1939 just before the renewed loss of Lithuanian independence; mainly active as a phycologist. (*Vailionis*).
+Vailionis, Liudas (1886-1939), Lithuanian botanist; studied at gymnasia in Lodz and Krakau (Poland) and at the University of Krakau, graduated 1913; assistant at the Agricultural Experiment Station Potzk 1913-1914; high school teacher in Poland 1914-1918; returned to the then independent Lithuania 1919 (still occupied by Polish troops), in the underground army 1919-1920; lector in botany at the Lithuanian University, Kaunas 1920, "docent" and in charge of the Institute of plant anatomy and physiology 1922; e.o. professor at botany 1938; died 1939 just before the renewed loss of Lithuanian independence; mainly active as a phycologist. 
+**Abbreviated name**: *Vailionis*
 
 #### Herbarium and types
 

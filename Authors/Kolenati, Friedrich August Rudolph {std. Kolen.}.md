@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/item/103253#page/635/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kolenati, Friedrich August Rudolph (1812-1864), Bohemian zoologist and botanist at the polytechnic institute of Brünn, travelled in Russia 1842-1845, founded the society "Lotos". (*Kolen.*).
+Kolenati, Friedrich August Rudolph (1812-1864), Bohemian zoologist and botanist at the polytechnic institute of Brünn, travelled in Russia 1842-1845, founded the society "Lotos". 
+**Abbreviated name**: *Kolen.*
 
 #### Herbarium and types
 

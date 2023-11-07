@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/104077#page/334/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33333459) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schrader, Johann Christian Carl \[Karl\] (1762-1826), German (Prussian Saxony) pharmacist; from 1796 owner of the pharmacy "am Königstor" in Berlin; from 1803 running a boarding school for young pharmacists. (*J.C.C. Schrad.*).
+Schrader, Johann Christian Carl \[Karl\] (1762-1826), German (Prussian Saxony) pharmacist; from 1796 owner of the pharmacy "am Königstor" in Berlin; from 1803 running a boarding school for young pharmacists. 
+**Abbreviated name**: *J.C.C. Schrad.*
 
 #### Herbarium and types
 

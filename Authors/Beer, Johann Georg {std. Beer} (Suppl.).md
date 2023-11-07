@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103859#page/51/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33265238) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beer, Johann Georg {std. Beer}|first entry]] for this author
 
 ### Author
 
-\* Beer, Johann Georg (1803-1873), Austrian municipal administrator ("Stadtrath") and businessman, amateur botanist and horticulturist in Vienna, from 1859 secretary of the k.k. Gartenbau-Gesellschaft. (*Beer*).
+\* Beer, Johann Georg (1803-1873), Austrian municipal administrator ("Stadtrath") and businessman, amateur botanist and horticulturist in Vienna, from 1859 secretary of the k.k. Gartenbau-Gesellschaft. 
+**Abbreviated name**: *Beer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103834#page/343/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259825) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forselles, Jacob \[Jakob\] Henrik \[Henric, Hendrik\] af (1785-1855), Finnish-born Swedish geologist and mining engineer, born 27 Dec 1785 in Ruotsinphytää (Strömsfors), matriculated 1801, Court of Appeal (law) degree 1806 and mining degree 1812, all Uppsala Univ., worked in the Sala (Västmanland) silver mines from 1817, died 13 Jun 1855 in Stockholm. (*Forselles*).
+Forselles, Jacob \[Jakob\] Henrik \[Henric, Hendrik\] af (1785-1855), Finnish-born Swedish geologist and mining engineer, born 27 Dec 1785 in Ruotsinphytää (Strömsfors), matriculated 1801, Court of Appeal (law) degree 1806 and mining degree 1812, all Uppsala Univ., worked in the Sala (Västmanland) silver mines from 1817, died 13 Jun 1855 in Stockholm. 
+**Abbreviated name**: *Forselles*
 
 #### Herbarium and types
 

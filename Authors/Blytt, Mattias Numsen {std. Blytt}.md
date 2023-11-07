@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/item/103414#page/290/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33120373) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blytt, Matthias Numsen {std. Blytt} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blytt, Mattias Numsen (1789-1862), Norwegian botanist professor of botany at Oslo, father of Axel Gudbrand Blytt. (*M. N. Blytt*).
+Blytt, Mattias Numsen (1789-1862), Norwegian botanist professor of botany at Oslo, father of Axel Gudbrand Blytt. 
+**Abbreviated name**: *M. N. Blytt*
 
 #### Herbarium and types
 

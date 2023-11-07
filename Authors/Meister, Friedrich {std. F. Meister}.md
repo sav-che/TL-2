@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/item/104137#page/423/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33355494) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meister, Friedrich (fl. 1893-1919), Swiss diatomologist; high school teacher at Horgen nr. Zürich. (*F. Meister*).
+Meister, Friedrich (fl. 1893-1919), Swiss diatomologist; high school teacher at Horgen nr. Zürich. 
+**Abbreviated name**: *F. Meister*
 
 #### Herbarium and types
 

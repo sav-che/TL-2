@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103624#page/199/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perty, Joseph Anton Maximilian (1804-1884), German botanist and zoologist; Dr. med. Landshut 1826; Dr. phil. Erlangen 1828; habil. München 1831; at München until 1833; from 1833-1876 professor of zoology at Bern. (*Perty*).
+Perty, Joseph Anton Maximilian (1804-1884), German botanist and zoologist; Dr. med. Landshut 1826; Dr. phil. Erlangen 1828; habil. München 1831; at München until 1833; from 1833-1876 professor of zoology at Bern. 
+**Abbreviated name**: *Perty*
 
 #### Herbarium and types
 

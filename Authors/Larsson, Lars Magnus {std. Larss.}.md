@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/item/103253#page/787/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33069003) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Larsson, Lars Magnus (1882-1884), Swedish botanist; Dr. phil. Uppsala 1851; high school teacher (1850), later lecturer (1860) at the grammar school of Karlstad. (*Larss.*).
+Larsson, Lars Magnus (1882-1884), Swedish botanist; Dr. phil. Uppsala 1851; high school teacher (1850), later lecturer (1860) at the grammar school of Karlstad. 
+**Abbreviated name**: *Larss.*
 
 #### Herbarium and types
 

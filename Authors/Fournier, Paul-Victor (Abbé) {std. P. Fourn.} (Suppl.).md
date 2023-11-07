@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/103834#page/383/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33259865) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fournier, Paul Victor {std. P. Fourn.}|first entry]] for this author
 
 ### Author
 
-\* Fournier, Paul-Victor (Abbé) (1877-1964), French clergyman and botanist, born 29 Dec 1877 in Damrémont (Haute-Marne), his youthful interest in botany stimulated by the priest of his village, educated at the Petit Séminaire de Langres 1891-1894, afterwards at the Grand Séminaire, ordained 29 Jun 1901, further studies in Dijon, prof. at the Petit Séminaire de Langres and other colleges, after service in W.W.-I was prof. in Saint-Dizier, Dr. ès-sciences 1928 Paris, at the College Stanislaus, Paris 1928, Dr. ès-lettres 1932 Paris, left Paris for Garches 1932 and in 1937 settled in Poinson-lès-Grancey (Haute-Marne) where he died 20 Mai 1964. (*P. Fourn.*).
+\* Fournier, Paul-Victor (Abbé) (1877-1964), French clergyman and botanist, born 29 Dec 1877 in Damrémont (Haute-Marne), his youthful interest in botany stimulated by the priest of his village, educated at the Petit Séminaire de Langres 1891-1894, afterwards at the Grand Séminaire, ordained 29 Jun 1901, further studies in Dijon, prof. at the Petit Séminaire de Langres and other colleges, after service in W.W.-I was prof. in Saint-Dizier, Dr. ès-sciences 1928 Paris, at the College Stanislaus, Paris 1928, Dr. ès-lettres 1932 Paris, left Paris for Garches 1932 and in 1937 settled in Poinson-lès-Grancey (Haute-Marne) where he died 20 Mai 1964. 
+**Abbreviated name**: *P. Fourn.*
 
 #### Herbarium and types
 

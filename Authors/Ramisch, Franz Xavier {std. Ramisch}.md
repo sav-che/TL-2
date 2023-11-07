@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/item/103624#page/586/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33190043) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramisch, Franz Xavier (1798-1859), Bohemian physician and botanist; Dr. med. Praha 1825; professor of medicine at Prague University; student of parthenogenesis. (*Ramisch*).
+Ramisch, Franz Xavier (1798-1859), Bohemian physician and botanist; Dr. med. Praha 1825; professor of medicine at Prague University; student of parthenogenesis. 
+**Abbreviated name**: *Ramisch*
 
 #### Herbarium and types
 

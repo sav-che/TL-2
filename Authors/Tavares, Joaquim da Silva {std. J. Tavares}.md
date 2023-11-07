@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103683#page/195/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tavares, Joaquim da Silva (1866-1931), Portuguese clergyman (S.J.), cecidiologist and entomologist; in Portugal until 1910; in exile in Argentina and Brazil 1910-1914; settled in Galicia, Spain 1914; one of the founders of *Brotéria*. (*J. Tavares*).
+Tavares, Joaquim da Silva (1866-1931), Portuguese clergyman (S.J.), cecidiologist and entomologist; in Portugal until 1910; in exile in Argentina and Brazil 1910-1914; settled in Galicia, Spain 1914; one of the founders of *Brotéria*. 
+**Abbreviated name**: *J. Tavares*
 
 #### Herbarium and types
 

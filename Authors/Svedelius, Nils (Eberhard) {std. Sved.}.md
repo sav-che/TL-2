@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/item/103683#page/116/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33212148) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Svedelius, Nils \[Eberhard\] (1873-1960), Swedish botanist (algologist); Dr. phil. Uppsala 1901 as a student of F.R. Kjellman; Regnellian curator Riksmuseum Stockholm 1901-1902; lecturer at Uppsala 1902-1914; professor of botany 1914-1938, director of the Botanical Museum 1928-1938; visited Ceylon, Singapore and Buitenzorg 1902-1903; director of the Hortus Linnaeanus, Uppsala 1920-1930; of Uppsala Univ. Bot. Trädg. 1928-1938. (*Sved.*).
+Svedelius, Nils \[Eberhard\] (1873-1960), Swedish botanist (algologist); Dr. phil. Uppsala 1901 as a student of F.R. Kjellman; Regnellian curator Riksmuseum Stockholm 1901-1902; lecturer at Uppsala 1902-1914; professor of botany 1914-1938, director of the Botanical Museum 1928-1938; visited Ceylon, Singapore and Buitenzorg 1902-1903; director of the Hortus Linnaeanus, Uppsala 1920-1930; of Uppsala Univ. Bot. Trädg. 1928-1938. 
+**Abbreviated name**: *Sved.*
 
 #### Herbarium and types
 

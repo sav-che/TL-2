@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/item/103683#page/520/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33212552) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trow, Albert Howard (1863-1939), British botanist; D.Sc. London Univ.; professor of botany, Univ. Cardiff 1892-1919, principal 1919-1929. (*Trow*).
+Trow, Albert Howard (1863-1939), British botanist; D.Sc. London Univ.; professor of botany, Univ. Cardiff 1892-1919, principal 1919-1929. 
+**Abbreviated name**: *Trow*
 
 #### Herbarium and types
 

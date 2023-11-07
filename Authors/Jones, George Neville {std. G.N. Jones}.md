@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/item/103253#page/480/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33068696) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jones, George Neville (1904-1970), British born American botanist; emigrated to Manitoba, Canada with his parents; Ph. D. Seattle 1937; instructor in biology Harvard 1937-1939; professor of botany, University of Illinois, Urbana, 1939-1970. (*G. N. Jones*).
+Jones, George Neville (1904-1970), British born American botanist; emigrated to Manitoba, Canada with his parents; Ph. D. Seattle 1937; instructor in biology Harvard 1937-1939; professor of botany, University of Illinois, Urbana, 1939-1970. 
+**Abbreviated name**: *G. N. Jones*
 
 #### Herbarium and types
 

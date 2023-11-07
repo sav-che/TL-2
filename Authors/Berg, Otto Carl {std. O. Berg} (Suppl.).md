@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103859#page/94/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33265281) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berg, Otto Carl {std. O. Berg}|first entry]] for this author
 
 ### Author
 
-\* Berg, Otto Carl (1815-1866), German (Stettin, Preussen) botanist, educated at the Gymnasium, student at a pharmacy in Demmin, studied pharmacy at the University of Berlin 1838-1839, further study in various pharmacies, at the University of Berlin for natural sciences 1842-1845, Dr. phil. bot./pharm. 1848, private lecturer id. 1849, extraordinary professor 1862-1866. (*O. Berg*).
+\* Berg, Otto Carl (1815-1866), German (Stettin, Preussen) botanist, educated at the Gymnasium, student at a pharmacy in Demmin, studied pharmacy at the University of Berlin 1838-1839, further study in various pharmacies, at the University of Berlin for natural sciences 1842-1845, Dr. phil. bot./pharm. 1848, private lecturer id. 1849, extraordinary professor 1862-1866. 
+**Abbreviated name**: *O. Berg*
 
 #### Herbarium and types
 

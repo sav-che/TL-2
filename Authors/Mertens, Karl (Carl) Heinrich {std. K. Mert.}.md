@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/item/104137#page/447/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33355518) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mertens, Karl (Carl) Heinrich (1796-1830), German botanist at St. Petersburg; son of F. K. Mertens. (*K. Mert.*).
+Mertens, Karl (Carl) Heinrich (1796-1830), German botanist at St. Petersburg; son of F. K. Mertens. 
+**Abbreviated name**: *K. Mert.*
 
 #### Herbarium and types
 

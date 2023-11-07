@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/104137#page/536/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33355607) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miranda, González, Faustino (1905-1964), Spanish-born Mexican botanist, D. Ci. Madrid 1929; from 1933-1935 at the marine biological laboratory at Pontevedra, Spain; to Mexico 1939; naturalized 1941; director Instituto botánico de Chiapas at Tuxtla Gutiérrez 1949-1954, from 1941-1949 and from 1954 at the Instituto de Biologia, Mexico. (*Miranda*).
+Miranda, González, Faustino (1905-1964), Spanish-born Mexican botanist, D. Ci. Madrid 1929; from 1933-1935 at the marine biological laboratory at Pontevedra, Spain; to Mexico 1939; naturalized 1941; director Instituto botánico de Chiapas at Tuxtla Gutiérrez 1949-1954, from 1941-1949 and from 1954 at the Instituto de Biologia, Mexico. 
+**Abbreviated name**: *Miranda*
 
 #### Herbarium and types
 

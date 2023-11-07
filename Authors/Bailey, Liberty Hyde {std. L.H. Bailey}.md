@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103414#page/142/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33120225) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bailey, Liberty Hyde {std. L.H. Bailey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bailey, Liberty Hyde (1858-1954), American horticulturist at Cornell University. (*L.H.Bailey*).
+Bailey, Liberty Hyde (1858-1954), American horticulturist at Cornell University. 
+**Abbreviated name**: *L.H.Bailey*
 
 #### Herbarium and types
 

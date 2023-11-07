@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/103250#page/443/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33066723) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winter, John Mack (1899-1964), American botanist; Dr. phil. Univ. Nebraska 1932; assistant in botany Univ. Nebraska 1926-1928; instructor in botany Northwestern Univ. 1928-1930, professor of biology Univ. Nebraska 1930-1932; id. Peru State Teachers College 1932-1946; at South Dakota University, Brookings 1946-1948, id. at Vermillion S.D. 1948-1963. (*J.M. Wint.*).
+Winter, John Mack (1899-1964), American botanist; Dr. phil. Univ. Nebraska 1932; assistant in botany Univ. Nebraska 1926-1928; instructor in botany Northwestern Univ. 1928-1930, professor of biology Univ. Nebraska 1930-1932; id. Peru State Teachers College 1932-1946; at South Dakota University, Brookings 1946-1948, id. at Vermillion S.D. 1948-1963. 
+**Abbreviated name**: *J.M. Wint.*
 
 #### Herbarium and types
 

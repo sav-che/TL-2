@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103859#page/184/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33265371) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bisby, Guy Richard {std. Bisby}|first entry]] for this author
 
 ### Author
 
-\* Bisby, Guy Richard (1889-1958), American (South Dakota-born) mycologist and plant-pathologist, studied at the South Dakota State College at Brookings S.D., B.Sc. 1912, plant pathologist at the Brooklyn Botanic Garden, New York 1913, studied concurrently at Columbia University 1914-1915 (M.A. 1915) and worked sometime for the American Potato Corporation (Presque Isle), assistant in botany at the Indiana Agricultural Experiment Station, Lafayette 1915, assistant professor with E.C. Stakman at Minnesota, Ph.D. ib. 1920, professor of plant pathology in the University of Manitoba, Winnipeg, Canada 1920-1936, stage at Imperial Bureau of Mycology, Kew 1921-1922, at the Commonwealth Mycological Institute, Kew 1937-1954. (*Bisby*).
+\* Bisby, Guy Richard (1889-1958), American (South Dakota-born) mycologist and plant-pathologist, studied at the South Dakota State College at Brookings S.D., B.Sc. 1912, plant pathologist at the Brooklyn Botanic Garden, New York 1913, studied concurrently at Columbia University 1914-1915 (M.A. 1915) and worked sometime for the American Potato Corporation (Presque Isle), assistant in botany at the Indiana Agricultural Experiment Station, Lafayette 1915, assistant professor with E.C. Stakman at Minnesota, Ph.D. ib. 1920, professor of plant pathology in the University of Manitoba, Winnipeg, Canada 1920-1936, stage at Imperial Bureau of Mycology, Kew 1921-1922, at the Commonwealth Mycological Institute, Kew 1937-1954. 
+**Abbreviated name**: *Bisby*
 
 #### Herbarium and types
 

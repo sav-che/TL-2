@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/item/103624#page/725/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33190182) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reissek, (Reisseck), Siegfried (1819-1871), Austrian-Silesian (born in Teschen) botanist; from 1838 in Wien, studying medicine and acting as volunteer at the natural history cabinet (the later Naturhist. Museum); from 1845 curator ib. (*Reissek*).
+Reissek, (Reisseck), Siegfried (1819-1871), Austrian-Silesian (born in Teschen) botanist; from 1838 in Wien, studying medicine and acting as volunteer at the natural history cabinet (the later Naturhist. Museum); from 1845 curator ib. 
+**Abbreviated name**: *Reissek*
 
 #### Herbarium and types
 

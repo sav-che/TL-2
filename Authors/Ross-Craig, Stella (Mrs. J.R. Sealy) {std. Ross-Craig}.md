@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/item/103624#page/917/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ross-Craig, Stella (Mrs. J.R. Sealy) (1906-x), British botanical artist; contributed to Botanical Magazine, Hooker's Icones plantarum, and Kew Bulletin; artist for the Royal Horticultural Society 1929-1960, and on the staff of the R.B.G. Kew. (*Ross-Craig*).
+Ross-Craig, Stella (Mrs. J.R. Sealy) (1906-x), British botanical artist; contributed to Botanical Magazine, Hooker's Icones plantarum, and Kew Bulletin; artist for the Royal Horticultural Society 1929-1960, and on the staff of the R.B.G. Kew. 
+**Abbreviated name**: *Ross-Craig*
 
 #### Herbarium and types
 

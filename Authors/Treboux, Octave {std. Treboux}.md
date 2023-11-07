@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103683#page/465/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33212497) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Treboux, Octave (1876-?), Estonian botanist (mycologist, algologist), born at Pernau \[Pärna\]; Dr. phil. Leipzig 1903, student of Pfeffer; plant physiologist at the Universities of Charkow and Riga. (*Treboux*).
+Treboux, Octave (1876-?), Estonian botanist (mycologist, algologist), born at Pernau \[Pärna\]; Dr. phil. Leipzig 1903, student of Pfeffer; plant physiologist at the Universities of Charkow and Riga. 
+**Abbreviated name**: *Treboux*
 
 #### Herbarium and types
 

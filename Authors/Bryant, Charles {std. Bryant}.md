@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103414#page/433/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bryant, Charles (x-1799), British botanist at Norwich. (*Bryant*).
+Bryant, Charles (x-1799), British botanist at Norwich. 
+**Abbreviated name**: *Bryant*
 
 #### Herbarium and types
 

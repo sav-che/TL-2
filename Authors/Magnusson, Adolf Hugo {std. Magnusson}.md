@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/104137#page/263/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33355334) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Magnusson, Adolf Hugo (1885-1964), Swedish lichenologist; studied at Uppsala; pupil of R. Sernander; teacher at Göteborg from 1909-1948. (*Magnusson*).
+Magnusson, Adolf Hugo (1885-1964), Swedish lichenologist; studied at Uppsala; pupil of R. Sernander; teacher at Göteborg from 1909-1948. 
+**Abbreviated name**: *Magnusson*
 
 #### Herbarium and types
 

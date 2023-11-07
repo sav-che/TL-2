@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103835#page/128/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33260106) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drury, Heber {std. Drury}|first entry]] for this author
 
 ### Author
 
-\* Drury, Heber (1819-1872), English colonel with the Madras Light Infantry, at Travancore 1850, plant collecting and studying botany of Flora of India. (*Drury*).
+\* Drury, Heber (1819-1872), English colonel with the Madras Light Infantry, at Travancore 1850, plant collecting and studying botany of Flora of India. 
+**Abbreviated name**: *Drury*
 
 #### Herbarium and types
 

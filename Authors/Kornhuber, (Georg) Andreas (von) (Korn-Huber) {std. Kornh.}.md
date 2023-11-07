@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/item/103253#page/676/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33068892) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kornhuber, (Georg) Andreas (von) (Korn-Huber) (1825-1905), Austrian botanist at the polytechnical school at Vienna; Dr. med. vindob. 1850; teacher at the Oberrealschule Pressburg \[Bratislava\] 1852-1861; professor of botany and zoology at the k.k. polytechnisches Institut Wien (now Polytechnical University) 1861-1895; at Pressburg 1897-1905; died in Wien. (*Kornh.*).
+Kornhuber, (Georg) Andreas (von) (Korn-Huber) (1825-1905), Austrian botanist at the polytechnical school at Vienna; Dr. med. vindob. 1850; teacher at the Oberrealschule Pressburg \[Bratislava\] 1852-1861; professor of botany and zoology at the k.k. polytechnisches Institut Wien (now Polytechnical University) 1861-1895; at Pressburg 1897-1905; died in Wien. 
+**Abbreviated name**: *Kornh.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/item/103414#page/978/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33121061) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Geisenheyner, (Franz Adolf) Ludwig (Louis) {std. Geisenh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Geisenheyner, Franz Adolf Louis (1841-1926), German highschool teacher and botanist at Kreuznach. (*Geisenh.*).
+Geisenheyner, Franz Adolf Louis (1841-1926), German highschool teacher and botanist at Kreuznach. 
+**Abbreviated name**: *Geisenh.*
 
 #### Herbarium and types
 

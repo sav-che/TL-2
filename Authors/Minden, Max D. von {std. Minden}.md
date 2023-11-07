@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/item/104137#page/522/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33355593) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Minden, Max D. von (1871-?), German mycologist; assistant at the botanical institute Giessen 1898. (*Minden*).
+Minden, Max D. von (1871-?), German mycologist; assistant at the botanical institute Giessen 1898. 
+**Abbreviated name**: *Minden*
 
 #### Herbarium and types
 

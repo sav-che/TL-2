@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103624#page/246/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33189703) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Philibert, J.C. (*fl*. 1800), French botanist. (*J. Philib.*).
+Philibert, J.C. (*fl*. 1800), French botanist. 
+**Abbreviated name**: *J. Philib.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103835#page/315/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33260293) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eliot, W.G. (fl. 1888), American botanist, at Shaw School of Botany. (*W.G. Eliot*).
+Eliot, W.G. (fl. 1888), American botanist, at Shaw School of Botany. 
+**Abbreviated name**: *W.G. Eliot*
 
 #### Herbarium and types
 

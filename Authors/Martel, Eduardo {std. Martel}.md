@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/item/104137#page/328/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33355399) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martel, Eduardo (1846-1929), Italian botanist and high school teacher at Torino; ultimately at Finalmarina. (*Martel*).
+Martel, Eduardo (1846-1929), Italian botanist and high school teacher at Torino; ultimately at Finalmarina. 
+**Abbreviated name**: *Martel*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/103683#page/567/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33212599) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tuzson, János (1870-1943), Hungarian (Transylvanian-born) systematic botanist; Dr. phil. Kolozsvár (Cluj) 1898; professor of systematic botany at the Institute for systematic botany and plant geography of the University of Budapest 1914, from 1928 also director of its botanical garden. (*Tuzson*).
+Tuzson, János (1870-1943), Hungarian (Transylvanian-born) systematic botanist; Dr. phil. Kolozsvár (Cluj) 1898; professor of systematic botany at the Institute for systematic botany and plant geography of the University of Budapest 1914, from 1928 also director of its botanical garden. 
+**Abbreviated name**: *Tuzson*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/item/103414#page/964/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33121047) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gardner, Nathaniel Lyon {std. N.L. Gardner} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gardner, Nathaniel Lyon (1864-1937), American phycologist. (*N. L. Gardner*).
+Gardner, Nathaniel Lyon (1864-1937), American phycologist. 
+**Abbreviated name**: *N. L. Gardner*
 
 #### Herbarium and types
 

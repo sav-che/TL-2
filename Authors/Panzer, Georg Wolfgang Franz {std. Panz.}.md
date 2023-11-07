@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103624#page/62/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33189481) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Panzer, Georg Wolfgang Franz (1755-1829), German (Oberpfalz) physician, botanist and entomologist; Dr. med. Erlangen 1777; travelled in C. Europe 1778-1780; from 1780 regional physician and lecturer at the Collegium medicum, Nürnberg. (*Panz.*).
+Panzer, Georg Wolfgang Franz (1755-1829), German (Oberpfalz) physician, botanist and entomologist; Dr. med. Erlangen 1777; travelled in C. Europe 1778-1780; from 1780 regional physician and lecturer at the Collegium medicum, Nürnberg. 
+**Abbreviated name**: *Panz.*
 
 #### Herbarium and types
 

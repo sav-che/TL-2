@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103861#page/428/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33266725) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carlson, Gusten Wilhelm Fredrik (1877-1947), Swedish botanist and teacher, studied at Skara 1896, fil. cand. Uppsala 1901, fil. lic. ib. 1906, fil. dr. 1913, teacher in biology and chemistry at Västerås 1910, lector id. Vänersborg 1913, Karlskrona 1914, later lector in Stockholm. (*G.W.F. Carlson*).
+Carlson, Gusten Wilhelm Fredrik (1877-1947), Swedish botanist and teacher, studied at Skara 1896, fil. cand. Uppsala 1901, fil. lic. ib. 1906, fil. dr. 1913, teacher in biology and chemistry at Västerås 1910, lector id. Vänersborg 1913, Karlskrona 1914, later lector in Stockholm. 
+**Abbreviated name**: *G.W.F. Carlson*
 
 #### Herbarium and types
 

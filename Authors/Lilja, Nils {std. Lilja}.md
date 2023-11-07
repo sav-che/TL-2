@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/104137#page/33/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33355110) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lilja, Nils (1808-1870), Swedish botanist, publicist and (from 1843) organist (klockare) at Billinge in Skåne. (*Lilja*).
+Lilja, Nils (1808-1870), Swedish botanist, publicist and (from 1843) organist (klockare) at Billinge in Skåne. 
+**Abbreviated name**: *Lilja*
 
 #### Herbarium and types
 

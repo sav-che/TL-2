@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/item/103253#page/505/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33068721) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jussieu, Bernard de (1699-1777), French botanist, uncle and teacher of A. L. de Jussieu, curator of the Trianon garden. (*B. Juss.*).
+Jussieu, Bernard de (1699-1777), French botanist, uncle and teacher of A. L. de Jussieu, curator of the Trianon garden. 
+**Abbreviated name**: *B. Juss.*
 
 #### Herbarium
 

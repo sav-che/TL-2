@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/103833#page/39/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33259073) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalla Fior, Giuseppe (1884-1967), Italian botanist, born 4 Aug 1884 in Trento, died 14 Feb 1967 in Trento, "Ordinario di botanica" at the University of Milan, worked on fossil pollen and natural science. (*Dalla Fior*).
+Dalla Fior, Giuseppe (1884-1967), Italian botanist, born 4 Aug 1884 in Trento, died 14 Feb 1967 in Trento, "Ordinario di botanica" at the University of Milan, worked on fossil pollen and natural science. 
+**Abbreviated name**: *Dalla Fior*
 
 #### Herbarium and types
 

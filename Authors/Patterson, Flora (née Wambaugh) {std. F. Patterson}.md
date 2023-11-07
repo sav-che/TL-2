@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/103624#page/118/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33189575) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Patterson, Flora (née Wambaugh) (1847-1928), American mycologist; married Edward Patterson 12 Aug 1869; A.M. Wesleyan Coll., Cincinatti 1882; id. Univ. Iowa 1895; at Radcliffe Coll., Harvard 1892-1895; pathologist, later mycologist, in the U.S. Dept. of Agriculture 1896-1923; in retirement in Brooklyn, N.Y. (*F. Patterson*).
+Patterson, Flora (née Wambaugh) (1847-1928), American mycologist; married Edward Patterson 12 Aug 1869; A.M. Wesleyan Coll., Cincinatti 1882; id. Univ. Iowa 1895; at Radcliffe Coll., Harvard 1892-1895; pathologist, later mycologist, in the U.S. Dept. of Agriculture 1896-1923; in retirement in Brooklyn, N.Y. 
+**Abbreviated name**: *F. Patterson*
 
 #### Herbarium and types
 

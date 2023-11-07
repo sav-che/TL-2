@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103683#page/462/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33212494) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Traverso, Giovanni Battista (1878-1955), Italian mycologist and phytopathologist; Dr. phil. Pavia 1900; assistant at the Botanical Institute of Padua; habil. Padua 1905; asst. director Phytopathological Station Roma 1915; professor of phytopathology at the R. Ist. superiore agrario di Milano 1925. (*Traverso*).
+Traverso, Giovanni Battista (1878-1955), Italian mycologist and phytopathologist; Dr. phil. Pavia 1900; assistant at the Botanical Institute of Padua; habil. Padua 1905; asst. director Phytopathological Station Roma 1915; professor of phytopathology at the R. Ist. superiore agrario di Milano 1925. 
+**Abbreviated name**: *Traverso*
 
 #### Herbarium and types
 

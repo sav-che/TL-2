@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103253#page/500/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33068716) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jurányi, Lajos \[Ludwig\] (1837-1897), Hungarian botanist. (*Jurányi*).
+Jurányi, Lajos \[Ludwig\] (1837-1897), Hungarian botanist. 
+**Abbreviated name**: *Jurányi*
 
 #### Herbarium and types
 

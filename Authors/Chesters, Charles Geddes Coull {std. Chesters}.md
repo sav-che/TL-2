@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103860#page/99/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33265766) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chesters, Charles Geddes Coull (1904-x), British mycologist, B.Sc. University of Glasgow, M.Sc. University of Birmingham, Ph.D. 1937. (*Chesters*).
+Chesters, Charles Geddes Coull (1904-x), British mycologist, B.Sc. University of Glasgow, M.Sc. University of Birmingham, Ph.D. 1937. 
+**Abbreviated name**: *Chesters*
 
 #### Herbarium and types
 

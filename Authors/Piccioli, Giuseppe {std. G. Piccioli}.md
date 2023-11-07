@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103624#page/263/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33189720) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piccioli, Giuseppe (*fl*. 1783-1818), Italian botanist; curator of a botanical garden at Firenze. (*G. Piccioli*).
+Piccioli, Giuseppe (*fl*. 1783-1818), Italian botanist; curator of a botanical garden at Firenze. 
+**Abbreviated name**: *G. Piccioli*
 
 #### Herbarium and types
 

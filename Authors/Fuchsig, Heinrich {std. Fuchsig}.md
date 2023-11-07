@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103832#page/83/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33258549) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fuchsig, Heinrich (1887-x), Austrian botanist, Ph.D. 1910 Graz, prof. of Natural History in Vienna in 1924. (*Fuchsig*).
+Fuchsig, Heinrich (1887-x), Austrian botanist, Ph.D. 1910 Graz, prof. of Natural History in Vienna in 1924. 
+**Abbreviated name**: *Fuchsig*
 
 #### Herbarium and types
 

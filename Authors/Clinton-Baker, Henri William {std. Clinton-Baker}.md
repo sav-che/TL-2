@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/103860#page/231/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265898) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clinton-Baker, Henri William (1865-1935), British botanist from Bayfordbury, Herts, followed his grandfather as director of the Pinetum established by his grandfather at Bayfordbury 1903. (*Clinton-Baker*).
+Clinton-Baker, Henri William (1865-1935), British botanist from Bayfordbury, Herts, followed his grandfather as director of the Pinetum established by his grandfather at Bayfordbury 1903. 
+**Abbreviated name**: *Clinton-Baker*
 
 #### Herbarium and types
 

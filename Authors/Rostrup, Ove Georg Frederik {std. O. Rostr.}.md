@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/item/103624#page/929/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33190386) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rostrup, Ove Georg Frederik (1864-1933), Danish botanist and phytopathologist; director "Statsanstalten Dansk Frøkontrol" 1891-1902; scientist at the department of plant pathology of the Agricultural college 1902-1933; son of E. Rostrup. (*O. Rostr.*).
+Rostrup, Ove Georg Frederik (1864-1933), Danish botanist and phytopathologist; director "Statsanstalten Dansk Frøkontrol" 1891-1902; scientist at the department of plant pathology of the Agricultural college 1902-1933; son of E. Rostrup. 
+**Abbreviated name**: *O. Rostr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/item/103683#page/757/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33212789) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vilmorin, Roger \[Marie Vincent Philippe Levêque\] de (1905-1980), French botanist, geneticist and horticulturist; son of Philippe de Vilmorin; member of the Editorial Committee for the International Code of Botanical Nomenclature 1954-1972; president International Commission for the Nomenclature of Cultivated Plants of I.U.B.S. 1955-1961; with Vilmorin-Andrieux from 1925-1962 as director of the Service des graines, subsequently engaged with M. Guinochet on a new Flore de France. (*R. Vilm.*).
+Vilmorin, Roger \[Marie Vincent Philippe Levêque\] de (1905-1980), French botanist, geneticist and horticulturist; son of Philippe de Vilmorin; member of the Editorial Committee for the International Code of Botanical Nomenclature 1954-1972; president International Commission for the Nomenclature of Cultivated Plants of I.U.B.S. 1955-1961; with Vilmorin-Andrieux from 1925-1962 as director of the Service des graines, subsequently engaged with M. Guinochet on a new Flore de France. 
+**Abbreviated name**: *R. Vilm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103250#page/90/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waldschmidt, J. (*fl*. 1865), German high school teacher and botanist at Corbach. (*Waldschmidt*).
+Waldschmidt, J. (*fl*. 1865), German high school teacher and botanist at Corbach. 
+**Abbreviated name**: *Waldschmidt*
 
 #### Herbarium and types
 

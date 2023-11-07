@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/item/103414#page/1053/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33121136) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Griffith, William {std. Griff.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Griffith, William (1810-1845), British colonial physician and botanist. (*Griff.*).
+Griffith, William (1810-1845), British colonial physician and botanist. 
+**Abbreviated name**: *Griff.*
 
 #### Herbarium and types
 

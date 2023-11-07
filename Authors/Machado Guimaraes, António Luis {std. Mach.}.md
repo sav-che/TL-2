@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/104137#page/238/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33355309) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Machado Guimaraes, António Luis (1883-1969), Portuguese bryologist; Lic. fil. nat. Coimbra 1907; high school teacher in Lisboa 1907-1914; from 1914-1953 in various functions at the Biology Dept. of the Faculdade de Ciências do Porto, from 1921 as professor of zoology, from 1935 as director of the Marine zoological institute. (*Mach.*).
+Machado Guimaraes, António Luis (1883-1969), Portuguese bryologist; Lic. fil. nat. Coimbra 1907; high school teacher in Lisboa 1907-1914; from 1914-1953 in various functions at the Biology Dept. of the Faculdade de Ciências do Porto, from 1921 as professor of zoology, from 1935 as director of the Marine zoological institute. 
+**Abbreviated name**: *Mach.*
 
 #### Herbarium and types
 

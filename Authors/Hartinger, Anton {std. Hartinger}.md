@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103253#page/88/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33068304) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartinger, Anton (1806-1890), Austrian botanical artist. (*Hartinger*).
+Hartinger, Anton (1806-1890), Austrian botanical artist. 
+**Abbreviated name**: *Hartinger*
 
 #### Original drawings
 

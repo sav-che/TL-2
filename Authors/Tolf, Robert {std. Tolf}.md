@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103683#page/395/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33212427) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tolf, Robert (1849-1903), Swedish botanist and teacher; assistant dyer at Vrigstad 1868-1879; dyer and private teacher at Ingatorp, Småland 1879-1890; assistant for botany and geology with the Swedish "mosskulturföreningen" (peat reclamation society) at Jönköping 1890-1895; with Jönköping's seed control station 1895-1903. (*Tolf*).
+Tolf, Robert (1849-1903), Swedish botanist and teacher; assistant dyer at Vrigstad 1868-1879; dyer and private teacher at Ingatorp, Småland 1879-1890; assistant for botany and geology with the Swedish "mosskulturföreningen" (peat reclamation society) at Jönköping 1890-1895; with Jönköping's seed control station 1895-1903. 
+**Abbreviated name**: *Tolf*
 
 #### Herbarium and types
 

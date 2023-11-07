@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103834#page/37/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33259519) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Faideau, Ferdinand (1862-1937), French teacher of botany and other natural sciences and author of numerous textbooks and popular scientific texts, born in La Rochelle (Charente-Maritime), Lic. ès-sciences naturelles, Paris, instructor, École Jean-Baptiste Say (La Rochelle?), died in La Rochelle. (*Faideau*).
+Faideau, Ferdinand (1862-1937), French teacher of botany and other natural sciences and author of numerous textbooks and popular scientific texts, born in La Rochelle (Charente-Maritime), Lic. ès-sciences naturelles, Paris, instructor, École Jean-Baptiste Say (La Rochelle?), died in La Rochelle. 
+**Abbreviated name**: *Faideau*
 
 #### Herbarium and types
 

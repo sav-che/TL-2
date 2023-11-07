@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/item/103624#page/988/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudolphi, Friedrich \[Karl Ludwig\] (1801-1849), German (Schleswig-Holstein, then Danish) botanist and physician; studied pharmacy in Neustrelitz, Stralsund and Hamburg; from 1826 medicine at the University of Greifswald; Dr. phil. Rostock 1829; Dr. med. Greifswald 1830; from 1830 practicing at Ratzeburg; from 1837 regional physician of the Lauenburg district. (*F. Rudolphi*).
+Rudolphi, Friedrich \[Karl Ludwig\] (1801-1849), German (Schleswig-Holstein, then Danish) botanist and physician; studied pharmacy in Neustrelitz, Stralsund and Hamburg; from 1826 medicine at the University of Greifswald; Dr. phil. Rostock 1829; Dr. med. Greifswald 1830; from 1830 practicing at Ratzeburg; from 1837 regional physician of the Lauenburg district. 
+**Abbreviated name**: *F. Rudolphi*
 
 #### Herbarium and types
 

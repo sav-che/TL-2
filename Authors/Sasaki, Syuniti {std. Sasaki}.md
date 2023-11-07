@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/104077#page/76/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33333201) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sasaki, Syun'iti (1888-1960), Japanese botanist at the Government Research Institute, Formosa (now Taiwan). (*Sasaki*).
+Sasaki, Syun'iti (1888-1960), Japanese botanist at the Government Research Institute, Formosa (now Taiwan). 
+**Abbreviated name**: *Sasaki*
 
 #### Herbarium and types
 

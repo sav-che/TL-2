@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/103253#page/145/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33068361) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hedwig, Johann (1730-1799), German bryologist, born in Kronstadt (Brassó, hist. Hungary); Dr. med. Leipzig 1759; physician at Chemnitz (1762-1781), later at Leipzig; ultimately professor of botany and director of the botanic garden at Leipzig. (*Hedw.*).
+Hedwig, Johann (1730-1799), German bryologist, born in Kronstadt (Brassó, hist. Hungary); Dr. med. Leipzig 1759; physician at Chemnitz (1762-1781), later at Leipzig; ultimately professor of botany and director of the botanic garden at Leipzig. 
+**Abbreviated name**: *Hedw.*
 
 #### Herbarium and types
 

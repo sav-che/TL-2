@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/103414#page/901/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33120984) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forbes, James (1773-1861), British gardener at Woburn Abbey. (*J. Forbes*).
+Forbes, James (1773-1861), British gardener at Woburn Abbey. 
+**Abbreviated name**: *J. Forbes*
 
 #### Herbarium and types
 

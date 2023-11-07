@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/item/103624#page/554/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33190011) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Radius, Justus Wilhelm Martin (1797-1884), German (Saxonian) physician and botanist; practicing physician and professor of medicine at the University of Leipzig, director of the "medicinische Gesellschaft" in Leipzig. (*Radius*).
+Radius, Justus Wilhelm Martin (1797-1884), German (Saxonian) physician and botanist; practicing physician and professor of medicine at the University of Leipzig, director of the "medicinische Gesellschaft" in Leipzig. 
+**Abbreviated name**: *Radius*
 
 #### Herbarium and types
 

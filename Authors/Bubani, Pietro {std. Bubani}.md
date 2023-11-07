@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103414#page/434/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33120517) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bubani, Pietro {std. Bubani} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bubani, Pietro (1806-1888), Italian physician and botanist who studied the flora of the Pyrenées while in exile. (*Bubani*).
+Bubani, Pietro (1806-1888), Italian physician and botanist who studied the flora of the Pyrenées while in exile. 
+**Abbreviated name**: *Bubani*
 
 #### Herbarium and types
 

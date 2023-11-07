@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103832#page/320/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33258786) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Goor, Andreas Cornelis Joseph van {std. Goor}|first entry]] for this author
 
 ### Author
 
-\* Goor, Andreas Cornelis Joseph van (1881-1925), Dutch phycologist, born 24 Oct 1881 in Amsterdam, Ph.D. 1917 Amsterdam, asst., Dutch marine biol. station, Den Helder where H.C. Redeke was dir., asst. to Gino Pollacci in Siena, Italy 1924, became ill and returned to Amsterdam where he died 23 Apr 1925. (*Goor*).
+\* Goor, Andreas Cornelis Joseph van (1881-1925), Dutch phycologist, born 24 Oct 1881 in Amsterdam, Ph.D. 1917 Amsterdam, asst., Dutch marine biol. station, Den Helder where H.C. Redeke was dir., asst. to Gino Pollacci in Siena, Italy 1924, became ill and returned to Amsterdam where he died 23 Apr 1925. 
+**Abbreviated name**: *Goor*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103253#page/90/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33068306) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartman, Carl (1824-1884), Swedish botanist; high school teacher at Gävle (1852-1859); lecturer at the teacher's college of Örebro; son of C. J. Hartman. (*C. Hartm.*).
+Hartman, Carl (1824-1884), Swedish botanist; high school teacher at Gävle (1852-1859); lecturer at the teacher's college of Örebro; son of C. J. Hartman. 
+**Abbreviated name**: *C. Hartm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103835#page/161/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33260139) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dufrénoy, Jean (1894-x), French botanist and agronomist, born 13 Jun 1894 at Paris, agronomical engineer in 1919, Dr. sci. at the Sorbonne 1925, director of the phytopathological station at Pont-de-la-Maye, Gironde, 1930. (*Dufrénoy*).
+Dufrénoy, Jean (1894-x), French botanist and agronomist, born 13 Jun 1894 at Paris, agronomical engineer in 1919, Dr. sci. at the Sorbonne 1925, director of the phytopathological station at Pont-de-la-Maye, Gironde, 1930. 
+**Abbreviated name**: *Dufrénoy*
 
 #### Herbarium and types
 

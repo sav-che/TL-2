@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/item/103414#page/1059/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grønlund (Groen., Grön.), (Carl) Christian (Howitz) {std. Grønlund} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Grønlund, Carl Christian Howitz (1825-1901), Danish botanist, and microscopist at the NyKarlsberg brewery. (*Grønlund*).
+Grønlund, Carl Christian Howitz (1825-1901), Danish botanist, and microscopist at the NyKarlsberg brewery. 
+**Abbreviated name**: *Grønlund*
 
 #### Herbarium and types
 

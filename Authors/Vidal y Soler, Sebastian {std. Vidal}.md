@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/103683#page/737/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33212769) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vidal y Soler, Sebastian (1842-1889), Spanish (Catalonian) botanist; brother of Domingo Vidal; came to the Philippines 1871 as inspector-general of the forestry department; back in Spain for health reasons 1873-1875; representative of the Spanish government at the Philadelphia International Exposition 1876; chief of the "Comision de la flore forestal de Filipinas" 1876; studying the tobacco industry in Cuba 1877-1878; in Paris at the Exposition of 1878; in the Philippines 1878-1882, studying in European herbaria 1882-1883, again in the Philippines 1883-1889 as inspector-general of the forestry commission; director of the Manila Botanical Garden 1878-1889. (*Vidal*).
+Vidal y Soler, Sebastian (1842-1889), Spanish (Catalonian) botanist; brother of Domingo Vidal; came to the Philippines 1871 as inspector-general of the forestry department; back in Spain for health reasons 1873-1875; representative of the Spanish government at the Philadelphia International Exposition 1876; chief of the "Comision de la flore forestal de Filipinas" 1876; studying the tobacco industry in Cuba 1877-1878; in Paris at the Exposition of 1878; in the Philippines 1878-1882, studying in European herbaria 1882-1883, again in the Philippines 1883-1889 as inspector-general of the forestry commission; director of the Manila Botanical Garden 1878-1889. 
+**Abbreviated name**: *Vidal*
 
 #### Herbarium and types
 

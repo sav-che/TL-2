@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103832#page/172/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33258638) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gáyer, Gyula \[Julius in German\] (1883-1932), Hungarian plant geographer, born 16 Feb 1883 in Celldömölk, Ph.D. 1907 Kolozsvár, died 13 Jul 1932 in Szombathely. (*Gáyer*).
+Gáyer, Gyula \[Julius in German\] (1883-1932), Hungarian plant geographer, born 16 Feb 1883 in Celldömölk, Ph.D. 1907 Kolozsvár, died 13 Jul 1932 in Szombathely. 
+**Abbreviated name**: *Gáyer*
 
 #### Herbarium and types
 

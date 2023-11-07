@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/item/103250#page/412/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33066692) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilson, Francis Robert Muter (1832-1903), Australian clergyman and lichenologist; long time Presbyterian minister at Kew, Victoria. (*F. Wils.*).
+Wilson, Francis Robert Muter (1832-1903), Australian clergyman and lichenologist; long time Presbyterian minister at Kew, Victoria. 
+**Abbreviated name**: *F. Wils.*
 
 #### Herbarium and types
 

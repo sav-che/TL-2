@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103683#page/148/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33212180) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Syme, John Thomas Irvine Boswell (afterwards Boswell-Syme) (1822-1888), British botanist; curator Botanical Society, Edinburgh; from 1851 in London; lecturer at Charing Cross (1854-1867) and Westminster (1855-1867) Hospitals ; at the Free Church College, Edinburgh 1868. (*Syme*).
+Syme, John Thomas Irvine Boswell (afterwards Boswell-Syme) (1822-1888), British botanist; curator Botanical Society, Edinburgh; from 1851 in London; lecturer at Charing Cross (1854-1867) and Westminster (1855-1867) Hospitals ; at the Free Church College, Edinburgh 1868. 
+**Abbreviated name**: *Syme*
 
 #### Herbarium and types
 

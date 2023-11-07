@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/104077#page/466/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schychowsky, Iwan (*fl*. 1832), Russian (Kaluga-born) botanist; Dr. phil. Dorpat 1832. (*Schychowsky*).
+Schychowsky, Iwan (*fl*. 1832), Russian (Kaluga-born) botanist; Dr. phil. Dorpat 1832. 
+**Abbreviated name**: *Schychowsky*
 
 #### Herbarium and types
 

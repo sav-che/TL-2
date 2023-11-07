@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103833#page/263/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-\* De Vos \[Devos\], André Pascal Alexander (1834-?), Belgian school teacher and botanist at Aarschot, Namur and Liège, born 23 Apr 1834, Champion, Namur, curator at the state school museum at Brussels. (*A. De Vos*).
+\* De Vos \[Devos\], André Pascal Alexander (1834-?), Belgian school teacher and botanist at Aarschot, Namur and Liège, born 23 Apr 1834, Champion, Namur, curator at the state school museum at Brussels. 
+**Abbreviated name**: *A. De Vos*
 
 #### Herbarium and types
 

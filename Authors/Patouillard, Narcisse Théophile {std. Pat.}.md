@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103624#page/108/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33189565) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Patouillard, Narcisse Théophile (1854-1926), French mycologist; studied at the École de Pharmacie, Paris; lived in Poligny 1881-1884 and Fontenay-sous-Bois 1884-1885; from 1885 in Paris; from 1898-1926 living at Neuilly-sur-Seine; assistant at PC from 1901. (*Pat.*).
+Patouillard, Narcisse Théophile (1854-1926), French mycologist; studied at the École de Pharmacie, Paris; lived in Poligny 1881-1884 and Fontenay-sous-Bois 1884-1885; from 1885 in Paris; from 1898-1926 living at Neuilly-sur-Seine; assistant at PC from 1901. 
+**Abbreviated name**: *Pat.*
 
 #### Herbarium and types
 

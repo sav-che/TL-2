@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103861#page/330/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33266627) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cambessèdes, Jacques {std. Cambess.}|first entry]] for this author
 
 ### Author
 
-\* Cambessèdes, Jacques (1799-1863), French botanist and agronomist, born at Montpellier, educated with the oratorians of Tournon until 1815, learned latin and rhetorique, studied law at Aix (1818), and medicine at Montpellier, student of Gouan, at the École de médecine, Paris 1819, with botanical studies with Delile, finished his medical studies at Montpellier 1822, in Paris late 1822-1835, working with Kunth, Adrien de Jussieu, L.C. Richard and especially J. Gay, settled at the family domain de Pradines 1836-1855, and 1855 at his property at Férussac. (*Cambess.*).
+\* Cambessèdes, Jacques (1799-1863), French botanist and agronomist, born at Montpellier, educated with the oratorians of Tournon until 1815, learned latin and rhetorique, studied law at Aix (1818), and medicine at Montpellier, student of Gouan, at the École de médecine, Paris 1819, with botanical studies with Delile, finished his medical studies at Montpellier 1822, in Paris late 1822-1835, working with Kunth, Adrien de Jussieu, L.C. Richard and especially J. Gay, settled at the family domain de Pradines 1836-1855, and 1855 at his property at Férussac. 
+**Abbreviated name**: *Cambess.*
 
 #### Herbarium and types
 

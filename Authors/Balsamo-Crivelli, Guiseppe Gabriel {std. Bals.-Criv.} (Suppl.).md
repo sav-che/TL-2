@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103858#page/320/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265035) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balsamo-Crivelli, Giuseppe Gabriel {std. Bals.-Criv.}|first entry]] for this author
 
 ### Author
 
-\* Balsamo-Crivelli, Guiseppe Gabriel \[originally Joseph Gabriel Balsamo, sic\] (1800-1874), Italian botanist, natural history teacher at a secondary school in Milano 1826, also director of the Orto botanico di Brera, Milano 1826-1852, assistant professor for general natural history at the University of Pavia 1852-1853, professor of zoology and mineralogy ib. (*Bals.-Criv.*).
+\* Balsamo-Crivelli, Guiseppe Gabriel \[originally Joseph Gabriel Balsamo, sic\] (1800-1874), Italian botanist, natural history teacher at a secondary school in Milano 1826, also director of the Orto botanico di Brera, Milano 1826-1852, assistant professor for general natural history at the University of Pavia 1852-1853, professor of zoology and mineralogy ib. 
+**Abbreviated name**: *Bals.-Criv.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103832#page/265/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33258731) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Godfrin, Julien (1850-1913), French pharmacist, mycologist and plant anatomist, born 26 Feb 1850 in Châtel-Saint-Germain (Moselle), student at the École Normale in Metz, teacher in Moselle and then Oise, adjunct prof. of agriculture at the École Normale in Aleçon where he obtained his bachelor degree 1873, "pharmacien de première classe" 1878, Dr. en pharmacie 1880 Nancy, named "Maître de conférences de botanique", Faculty of Sciences, Algiers, Algeria but recalled to Nancy to oversee materia medica courses at the univ. 1882, Dr. ès-sciences 1884 Paris, prof. of materia medica and natural sciences, Univ. of Nancy 1884-1913, and dir., School of Pharmacy 1901-1913, died 26 Mar 1913 in Nancy. (*Godfrin*).
+Godfrin, Julien (1850-1913), French pharmacist, mycologist and plant anatomist, born 26 Feb 1850 in Châtel-Saint-Germain (Moselle), student at the École Normale in Metz, teacher in Moselle and then Oise, adjunct prof. of agriculture at the École Normale in Aleçon where he obtained his bachelor degree 1873, "pharmacien de première classe" 1878, Dr. en pharmacie 1880 Nancy, named "Maître de conférences de botanique", Faculty of Sciences, Algiers, Algeria but recalled to Nancy to oversee materia medica courses at the univ. 1882, Dr. ès-sciences 1884 Paris, prof. of materia medica and natural sciences, Univ. of Nancy 1884-1913, and dir., School of Pharmacy 1901-1913, died 26 Mar 1913 in Nancy. 
+**Abbreviated name**: *Godfrin*
 
 #### Herbarium and types
 

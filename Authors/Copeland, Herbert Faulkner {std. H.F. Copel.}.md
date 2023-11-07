@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/103860#page/358/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33266025) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Copeland, Herbert Faulkner (1902-1968), American botanist, born at Chicago, Illinois, studied at the University of California, MS 1925, Ph.D. 1936, later at Sacramento Junior College, Sacramento, California, collector in Yellowstone 1928-1934. (*H.F. Copel.*).
+Copeland, Herbert Faulkner (1902-1968), American botanist, born at Chicago, Illinois, studied at the University of California, MS 1925, Ph.D. 1936, later at Sacramento Junior College, Sacramento, California, collector in Yellowstone 1928-1934. 
+**Abbreviated name**: *H.F. Copel.*
 
 #### Herbarium and types
 

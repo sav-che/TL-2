@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103414#page/205/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33120288) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beck, Ritter von Mannagetta und Lerchenau, Günther {std. Beck} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beck, Ritter von Mannagetta und Lerchenau, Günther (1856-1931), Bohemian botanist, curator of W (1886-1899), professor of botany in Vienna (1888-1899), later at Prague. (*Beck*).
+Beck, Ritter von Mannagetta und Lerchenau, Günther (1856-1931), Bohemian botanist, curator of W (1886-1899), professor of botany in Vienna (1888-1899), later at Prague. 
+**Abbreviated name**: *Beck*
 
 #### Herbarium and types
 

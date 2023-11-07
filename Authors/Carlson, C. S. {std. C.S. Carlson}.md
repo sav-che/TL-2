@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103861#page/427/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33266724) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carlson, C. S. (fl. 1905), Swedish botanist, studied at the University of Zürich, id. Bern, id. Clermont Ferrand, Dr. phil. 1905 at Clermont Ferrand. (*C.S. Carlson*).
+Carlson, C. S. (fl. 1905), Swedish botanist, studied at the University of Zürich, id. Bern, id. Clermont Ferrand, Dr. phil. 1905 at Clermont Ferrand. 
+**Abbreviated name**: *C.S. Carlson*
 
 #### Herbarium and types
 

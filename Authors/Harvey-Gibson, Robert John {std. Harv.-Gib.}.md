@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103253#page/116/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harvey-Gibson, Robert John (1860-1929), Scottish marine algologist; at Edinburgh 1882-1883; at Liverpool 1883-1921 (professor of botany 1894-1921; organizer of the Hartley Botanical Laboratory). (*Harv.-Gib.*).
+Harvey-Gibson, Robert John (1860-1929), Scottish marine algologist; at Edinburgh 1882-1883; at Liverpool 1883-1921 (professor of botany 1894-1921; organizer of the Hartley Botanical Laboratory). 
+**Abbreviated name**: *Harv.-Gib.*
 
 #### Herbarium and types
 

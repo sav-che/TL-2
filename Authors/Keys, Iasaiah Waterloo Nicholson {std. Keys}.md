@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/item/103253#page/558/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33068774) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keys, Iasaiah Waterloo Nicholson (1818-1890), English botanist, bookseller and printer at Plymouth. (*Keys*).
+Keys, Iasaiah Waterloo Nicholson (1818-1890), English botanist, bookseller and printer at Plymouth. 
+**Abbreviated name**: *Keys*
 
 #### Herbarium and types
 

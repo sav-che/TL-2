@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103859#page/286/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33265473) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boireau, Aurélien (fl. 1874), French (born at Salles, Gironde) pharmacist, studied at the École supérieure de pharmacie de Paris, Pharmacien de 1re classe 1874. (*Boireau*).
+Boireau, Aurélien (fl. 1874), French (born at Salles, Gironde) pharmacist, studied at the École supérieure de pharmacie de Paris, Pharmacien de 1re classe 1874. 
+**Abbreviated name**: *Boireau*
 
 #### Herbarium and types
 

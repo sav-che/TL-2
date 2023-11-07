@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/item/103414#page/1002/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33121085) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Glück, (Christian Maximilian) Hugo {std. Glück} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Glück, Christian Maximilian Hugo (1868-1940), German biologist at Heidelberg. (*Glück*).
+Glück, Christian Maximilian Hugo (1868-1940), German biologist at Heidelberg. 
+**Abbreviated name**: *Glück*
 
 #### Herbarium and types
 

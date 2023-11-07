@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/103832#page/459/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33258925) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guillaume, André (1883-1963), French lawyer and botanist, born 3 Aug 1883 in Reims, Dr. en droit 1904 Univ. of Paris, Dr. ès-sciences 1923 Univ. of Paris, practiced law in Reims, died 17 Jun 1963 in Paris. (*Guillaume*).
+Guillaume, André (1883-1963), French lawyer and botanist, born 3 Aug 1883 in Reims, Dr. en droit 1904 Univ. of Paris, Dr. ès-sciences 1923 Univ. of Paris, practiced law in Reims, died 17 Jun 1963 in Paris. 
+**Abbreviated name**: *Guillaume*
 
 #### Herbarium and types
 

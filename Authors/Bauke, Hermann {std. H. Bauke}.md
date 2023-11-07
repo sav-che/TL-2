@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103858#page/397/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33265112) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bauke, Hermann (1852-1879), German (Berlin) botanist, educated at the Friedrichwerder Gymnasium ("Abitur" 1870), studied natural sciences at the University of Berlin with e.g. A. Braun, Kny and Ascherson 1870-1872, idem at Heidelberg 1872-1874, Dr. phil. Heidelberg 1874, with de Bary in Strassburg 1874 and 1875-1876, also briefly in Würzburg 1876; from 1876-1879 ill, died in Berlin (*H. Bauke*).
+Bauke, Hermann (1852-1879), German (Berlin) botanist, educated at the Friedrichwerder Gymnasium ("Abitur" 1870), studied natural sciences at the University of Berlin with e.g. A. Braun, Kny and Ascherson 1870-1872, idem at Heidelberg 1872-1874, Dr. phil. Heidelberg 1874, with de Bary in Strassburg 1874 and 1875-1876, also briefly in Würzburg 1876; from 1876-1879 ill, died in Berlin 
+**Abbreviated name**: *H. Bauke*
 
 #### Herbarium and types
 

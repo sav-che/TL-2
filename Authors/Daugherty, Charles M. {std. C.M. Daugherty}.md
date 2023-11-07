@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103833#page/98/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daugherty, Charles M. (fl. 1903), American at the Bureau of Statistics of the Departement of Agriculture of the United States. (*C.M. Daugherty*).
+Daugherty, Charles M. (fl. 1903), American at the Bureau of Statistics of the Departement of Agriculture of the United States. 
+**Abbreviated name**: *C.M. Daugherty*
 
 #### Herbarium and types
 

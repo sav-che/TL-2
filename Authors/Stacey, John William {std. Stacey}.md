@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/item/104077#page/837/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/page/33333962) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stacey, John William (1871-1943), American businessman and botanist (caricologist); studied medicine and botany at the University of Michigan; bookseller at The Emporiom, San Francisco 1914, founder of the firm of J.W. Stacey, Inc., dealers in medicai and scientific books 1923; research associate of the California Academy of Sciences. (*Stacey*).
+Stacey, John William (1871-1943), American businessman and botanist (caricologist); studied medicine and botany at the University of Michigan; bookseller at The Emporiom, San Francisco 1914, founder of the firm of J.W. Stacey, Inc., dealers in medicai and scientific books 1923; research associate of the California Academy of Sciences. 
+**Abbreviated name**: *Stacey*
 
 #### Herbarium and types
 

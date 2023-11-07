@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/104077#page/71/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sartorelli, Giovanni Battista (1780-1853), Italian (Trentino) botanist; forestry inspector in Lecco and Bergamo. (*Sartorelli*).
+Sartorelli, Giovanni Battista (1780-1853), Italian (Trentino) botanist; forestry inspector in Lecco and Bergamo. 
+**Abbreviated name**: *Sartorelli*
 
 #### Herbarium and types
 

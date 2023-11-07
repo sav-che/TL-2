@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 948](https://www.biodiversitylibrary.org/item/103414#page/996/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 948](https://www.biodiversitylibrary.org/page/33121079) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gingins de la Sarraz, Frédéric-Charles-Jean, baron (1790-1863), Swiss historian and botanist, pupil of A. P. de Candolle. (*Ging.*).
+Gingins de la Sarraz, Frédéric-Charles-Jean, baron (1790-1863), Swiss historian and botanist, pupil of A. P. de Candolle. 
+**Abbreviated name**: *Ging.*
 
 #### Herbarium and types
 

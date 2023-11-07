@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103835#page/337/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33260315) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elsner, Carl Friedrich Moritz (1809-1894), German highschool teacher and botanist, born 20 Nov 1809 at Kortnitz (distr. Sprottau), visited school at Oberleschen and gymnasium at Hirschberg (Schlesien), at University of Breslau from 1831, became friend with Christian Nees v. Esenbeck, teacher at the Magdalenäum in Breslau 1843, was active in politics in Breslau and Hirschberg as member of the town council, died 22 Sep 1894. (*Elsner*).
+Elsner, Carl Friedrich Moritz (1809-1894), German highschool teacher and botanist, born 20 Nov 1809 at Kortnitz (distr. Sprottau), visited school at Oberleschen and gymnasium at Hirschberg (Schlesien), at University of Breslau from 1831, became friend with Christian Nees v. Esenbeck, teacher at the Magdalenäum in Breslau 1843, was active in politics in Breslau and Hirschberg as member of the town council, died 22 Sep 1894. 
+**Abbreviated name**: *Elsner*
 
 #### Herbarium and types
 

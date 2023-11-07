@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103832#page/106/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33258572) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gage, Andrew Thomas (1871-1945) (Major, later Lieut.-Col.), Scottish soldier, physician and botanist, born 14 Dec 1871 in Aberdeen, M.A. and LL.D. Aberdeen Univ., asst. to prof. of Botany, Aberdeen Univ. 1894-1895, Indian Medical Service 1897-1898, herb. curator, Calcutta Botanic Gardens 1898-1905, then superintendent and dir. of the Botanical Survey of India 1906-1925, prof. of Botany, Medical College, Calcutta, librarian and asst. secretary of the Linnean Society (London) 1924-1929, F.L.S. 1901, died 21 Jan 1945 in Strathpeffer (Ross). (*A.T. Gage*).
+Gage, Andrew Thomas (1871-1945) (Major, later Lieut.-Col.), Scottish soldier, physician and botanist, born 14 Dec 1871 in Aberdeen, M.A. and LL.D. Aberdeen Univ., asst. to prof. of Botany, Aberdeen Univ. 1894-1895, Indian Medical Service 1897-1898, herb. curator, Calcutta Botanic Gardens 1898-1905, then superintendent and dir. of the Botanical Survey of India 1906-1925, prof. of Botany, Medical College, Calcutta, librarian and asst. secretary of the Linnean Society (London) 1924-1929, F.L.S. 1901, died 21 Jan 1945 in Strathpeffer (Ross). 
+**Abbreviated name**: *A.T. Gage*
 
 #### Note
 

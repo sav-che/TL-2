@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/103832#page/297/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33258763) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Golenkin, Mikhail \[Michael, Michail\] Ilitch \[Ilich, Iljitsch\] (1864-1941), Russian botanist, born 4 Feb 1864 in St. Petersburg, dir., Moscow Bot. Garden 1900-1931, visited Buitenzorg (Bogor) Dec 1904-Mai 1905, died 15 Jun 1941 in Moscow. (*Golenkin*).
+Golenkin, Mikhail \[Michael, Michail\] Ilitch \[Ilich, Iljitsch\] (1864-1941), Russian botanist, born 4 Feb 1864 in St. Petersburg, dir., Moscow Bot. Garden 1900-1931, visited Buitenzorg (Bogor) Dec 1904-Mai 1905, died 15 Jun 1941 in Moscow. 
+**Abbreviated name**: *Golenkin*
 
 #### Herbarium and types
 

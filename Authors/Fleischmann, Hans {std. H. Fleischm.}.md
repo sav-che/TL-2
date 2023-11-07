@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103834#page/272/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33259754) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fleischmann, Hans (x-1925), Austrian teacher in Vienna, studied mainly orchids, died 8 Mai 1925 in Vienna. (*H. Fleischm.*).
+Fleischmann, Hans (x-1925), Austrian teacher in Vienna, studied mainly orchids, died 8 Mai 1925 in Vienna. 
+**Abbreviated name**: *H. Fleischm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103834#page/50/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Falk, Herman Gustaf (1840-1880), Swedish lichenologist, born 7 Jun 1840 in Ölme (Värmland), studied at Uppsala from 1858, fil. cand. 1868, teacher in Karlskrona 1869, Dr. phil. 1874 Lund Univ., died 12 Oct 1880 in Karlskrona. (*H.G. Falk*).
+Falk, Herman Gustaf (1840-1880), Swedish lichenologist, born 7 Jun 1840 in Ölme (Värmland), studied at Uppsala from 1858, fil. cand. 1868, teacher in Karlskrona 1869, Dr. phil. 1874 Lund Univ., died 12 Oct 1880 in Karlskrona. 
+**Abbreviated name**: *H.G. Falk*
 
 #### Herbarium and types
 

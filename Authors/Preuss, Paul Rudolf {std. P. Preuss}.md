@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103624#page/411/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33189868) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Preuss, Paul Rudolf (1861-?), German (Prussian) botanist and explorer; in Sierra Leone 1886-1888; on the Zintgraff expedition at Kumba 1889-1892; founder and director of the Victoria botanic garden, Cameroon, 1892-1895(-1902); in tropical America 1899-1900; in S.E. Asia 1903-1904. (*P. Preuss*).
+Preuss, Paul Rudolf (1861-?), German (Prussian) botanist and explorer; in Sierra Leone 1886-1888; on the Zintgraff expedition at Kumba 1889-1892; founder and director of the Victoria botanic garden, Cameroon, 1892-1895(-1902); in tropical America 1899-1900; in S.E. Asia 1903-1904. 
+**Abbreviated name**: *P. Preuss*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103859#page/154/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33265341) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bessey, Ernst Athearn (1877-1957), American botanist, mainly mycologist, son of C.E. Bessey, educated at Lincoln, Nebraska, graduated from high school June 1892, studied at the University of Nebraska at Lincoln 1892-1904, A.B. 1896, B.Sc. 1897, M.A. 1898, studied at the University of Halle with G.A. Klebs 1902-1904, Ph.D. Halle 1904, part-time (later full-time) agricultural explorer for U.S.D.A in Russia, the Caucasus, Turkestan, and Algeria 1899-1902, at U.S.D.A Washington D.C. 1906-1908, professor of botany at Louisiana State University, Baton Rouge 1908-1910, from 1910-1946 at Michigan Agricultural College, East Lansing, professor of botany, visiting professor of botany University of Hawaii 1939-1940, professor emeritus East Lansing 1946-1957. (*E.A. Bessey*).
+Bessey, Ernst Athearn (1877-1957), American botanist, mainly mycologist, son of C.E. Bessey, educated at Lincoln, Nebraska, graduated from high school June 1892, studied at the University of Nebraska at Lincoln 1892-1904, A.B. 1896, B.Sc. 1897, M.A. 1898, studied at the University of Halle with G.A. Klebs 1902-1904, Ph.D. Halle 1904, part-time (later full-time) agricultural explorer for U.S.D.A in Russia, the Caucasus, Turkestan, and Algeria 1899-1902, at U.S.D.A Washington D.C. 1906-1908, professor of botany at Louisiana State University, Baton Rouge 1908-1910, from 1910-1946 at Michigan Agricultural College, East Lansing, professor of botany, visiting professor of botany University of Hawaii 1939-1940, professor emeritus East Lansing 1946-1957. 
+**Abbreviated name**: *E.A. Bessey*
 
 #### Herbarium and types
 

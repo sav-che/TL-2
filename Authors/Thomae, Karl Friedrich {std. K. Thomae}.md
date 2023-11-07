@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103683#page/279/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomae, Karl Friedrich (1863-?), German (Hessen-Nassau) botanist; studied at Leipzig University, student of J.A. Schenk; Dr. phil. ib. 1886. (*K. Thomae*).
+Thomae, Karl Friedrich (1863-?), German (Hessen-Nassau) botanist; studied at Leipzig University, student of J.A. Schenk; Dr. phil. ib. 1886. 
+**Abbreviated name**: *K. Thomae*
 
 #### Herbarium and types
 

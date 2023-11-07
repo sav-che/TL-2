@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/item/104077#page/526/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Senoner, Adolf (1806-1895), Austrian physician, botanist and librarian; educated as surgeon at Pavia and Padua; military surgeon, later practicing physician in Lower Austria; from 1866 librarian, later archivist of the Austrian Geologische Reichsanstalt. (*Senoner*).
+Senoner, Adolf (1806-1895), Austrian physician, botanist and librarian; educated as surgeon at Pavia and Padua; military surgeon, later practicing physician in Lower Austria; from 1866 librarian, later archivist of the Austrian Geologische Reichsanstalt. 
+**Abbreviated name**: *Senoner*
 
 #### Herbarium and types
 

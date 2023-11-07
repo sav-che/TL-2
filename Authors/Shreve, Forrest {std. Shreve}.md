@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/item/104077#page/585/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33333710) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shreve, Forrest (1878-1950), American botanist and ecologist; AB Johns Hopkins Univ. 1901; Dr. phil. ib. 1905; instructor bot. Cold Spring Harbor 1904-1905; at the Cinchona, Jamaica Botanical station 1905-1906; associate professor of botany at Goucher College, Maryland, 1906-1908; with the Tucson, Arizona Desert Laboratory of the Carnegie Institution of Washington 1909-1947; in charge of the desert investigations of the Carnegie Institution 1928-1932; from 1932 head of the Tucson laboratory and working especially on the floristics of the Sonoran desert. (*Shreve*).
+Shreve, Forrest (1878-1950), American botanist and ecologist; AB Johns Hopkins Univ. 1901; Dr. phil. ib. 1905; instructor bot. Cold Spring Harbor 1904-1905; at the Cinchona, Jamaica Botanical station 1905-1906; associate professor of botany at Goucher College, Maryland, 1906-1908; with the Tucson, Arizona Desert Laboratory of the Carnegie Institution of Washington 1909-1947; in charge of the desert investigations of the Carnegie Institution 1928-1932; from 1932 head of the Tucson laboratory and working especially on the floristics of the Sonoran desert. 
+**Abbreviated name**: *Shreve*
 
 #### Herbarium and types
 

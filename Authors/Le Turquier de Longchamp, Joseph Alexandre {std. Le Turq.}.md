@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/item/103253#page/886/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33069102) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Le Turquier de Longchamp, Joseph Alexandre (1748-1829), French clergyman and botanist; from 1800 at Rouen. (*Le Turq.*).
+Le Turquier de Longchamp, Joseph Alexandre (1748-1829), French clergyman and botanist; from 1800 at Rouen. 
+**Abbreviated name**: *Le Turq.*
 
 #### Herbarium and types
 

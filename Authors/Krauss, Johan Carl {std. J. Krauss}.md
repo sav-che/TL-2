@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/item/103253#page/695/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krauss, Johan Carl (1759-1826), German-born professor of medecine at Leiden. (*J. Krauss*).
+Krauss, Johan Carl (1759-1826), German-born professor of medecine at Leiden. 
+**Abbreviated name**: *J. Krauss*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/item/103683#page/761/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33212793) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Viret, Louis (1875-1928), Swiss botanist (desmidiologist); studied at the Univ. Lausanne 1893-1896 and Genève 1900-1904; Dr. Sci. nat. Genéve 1904; mathematics teacher at Morillon, Genève 1897-1915, founded the "École Viret" at Genéve 1915; from ca. 1916 actively engaged in Geneva politics. (*Viret*).
+Viret, Louis (1875-1928), Swiss botanist (desmidiologist); studied at the Univ. Lausanne 1893-1896 and Genève 1900-1904; Dr. Sci. nat. Genéve 1904; mathematics teacher at Morillon, Genève 1897-1915, founded the "École Viret" at Genéve 1915; from ca. 1916 actively engaged in Geneva politics. 
+**Abbreviated name**: *Viret*
 
 #### Herbarium and types
 

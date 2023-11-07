@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103253#page/249/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33068465) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hochstetter, Wilhelm Christian (1825-1881), German garden inspector at Tübingen, son of C. F. Hochstetter. (*W. Hochst.*).
+Hochstetter, Wilhelm Christian (1825-1881), German garden inspector at Tübingen, son of C. F. Hochstetter. 
+**Abbreviated name**: *W. Hochst.*
 
 #### Herbarium and types
 

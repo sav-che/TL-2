@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/item/104077#page/750/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33333875) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sommerfelt, Søren Christian \[Severin Christianus\] (1794-1838), Norwegian clergyman and botanist; studied theology in Copenhagen 1812, cand. theol. Kristiania \[Oslo\] 1817; vicar in Saltdallen 1818, and in Ringebo Gudbrandsdalen 1827. (*Sommerf.*).
+Sommerfelt, Søren Christian \[Severin Christianus\] (1794-1838), Norwegian clergyman and botanist; studied theology in Copenhagen 1812, cand. theol. Kristiania \[Oslo\] 1817; vicar in Saltdallen 1818, and in Ringebo Gudbrandsdalen 1827. 
+**Abbreviated name**: *Sommerf.*
 
 #### Herbarium and types
 

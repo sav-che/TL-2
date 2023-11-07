@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103683#page/399/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tommasini, Muzio Giuseppe Spirito de \[Mutius Joseph Spiritus, Ritter von\] (1794-1879), Austro-Hungarian (Trieste-Italian) magistrate and botanist; educated at Lemberg, Wien and Graz; in administrative functions in Zara, Spalato 1817-1827; district commissioner in Cattaro (Kotor) 1827; assessor of the Triest Council 1827-1839, from 1839-1861 as chairman of the Triest council and (from 1851) mayor ("podesta") of the town; student of the flora of the Austrian coastal regions and Istria. (*Tomm.*).
+Tommasini, Muzio Giuseppe Spirito de \[Mutius Joseph Spiritus, Ritter von\] (1794-1879), Austro-Hungarian (Trieste-Italian) magistrate and botanist; educated at Lemberg, Wien and Graz; in administrative functions in Zara, Spalato 1817-1827; district commissioner in Cattaro (Kotor) 1827; assessor of the Triest Council 1827-1839, from 1839-1861 as chairman of the Triest council and (from 1851) mayor ("podesta") of the town; student of the flora of the Austrian coastal regions and Istria. 
+**Abbreviated name**: *Tomm.*
 
 #### Herbarium and types
 

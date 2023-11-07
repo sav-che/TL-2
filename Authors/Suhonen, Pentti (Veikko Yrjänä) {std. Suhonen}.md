@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103683#page/93/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33212125) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suhonen, Pentti \[Veikko Yrjänä\] (1888-1966), Finnish high school teacher, forester and botanist. (*Suhonen*).
+Suhonen, Pentti \[Veikko Yrjänä\] (1888-1966), Finnish high school teacher, forester and botanist. 
+**Abbreviated name**: *Suhonen*
 
 #### Herbarium and types
 

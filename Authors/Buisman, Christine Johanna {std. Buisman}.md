@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103861#page/226/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33266523) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buisman, Christine Johanna (1900-1936), Dutch phytopathologist, studied at the University of Amsterdam, assistant with the Centraalbureau voor Schimmelcultures, Baarn 1925-1926, Dr. phil. Utrecht 1927, scientist at the Phytopathological Laboratory Willie Commelin Scholten with Johanna Westerdijk, Baarn 1927-1936, studied elm fungi at Radcliffe College, U.S. 1929. (*Buisman*).
+Buisman, Christine Johanna (1900-1936), Dutch phytopathologist, studied at the University of Amsterdam, assistant with the Centraalbureau voor Schimmelcultures, Baarn 1925-1926, Dr. phil. Utrecht 1927, scientist at the Phytopathological Laboratory Willie Commelin Scholten with Johanna Westerdijk, Baarn 1927-1936, studied elm fungi at Radcliffe College, U.S. 1929. 
+**Abbreviated name**: *Buisman*
 
 #### Herbarium and types
 

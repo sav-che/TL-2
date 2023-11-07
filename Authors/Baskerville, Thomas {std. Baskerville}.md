@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/item/103858#page/378/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33265093) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baskerville, Thomas (1812-1840), British physician, member of the Royal College of Surgeons, London, M.R.C.S. 1835, practised in Canterbury. (*Baskerville*).
+Baskerville, Thomas (1812-1840), British physician, member of the Royal College of Surgeons, London, M.R.C.S. 1835, practised in Canterbury. 
+**Abbreviated name**: *Baskerville*
 
 #### Herbarium and types
 

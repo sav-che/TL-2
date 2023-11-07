@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103624#page/121/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33189578) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pau \[y Español\], Carlos (1857-1937), Spanish botanist and pharmacist at Segorbe. (*Pau*).
+Pau \[y Español\], Carlos (1857-1937), Spanish botanist and pharmacist at Segorbe. 
+**Abbreviated name**: *Pau*
 
 #### Herbarium and types
 

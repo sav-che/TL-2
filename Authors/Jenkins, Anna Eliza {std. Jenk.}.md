@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/103253#page/461/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jenkins, Anna Eliza (1886-1973), American phytopathologist and mycologist; Ph. D. Cornell 1927; from 1912 with the Bureau of Plant Industry. (*Jenk.*).
+Jenkins, Anna Eliza (1886-1973), American phytopathologist and mycologist; Ph. D. Cornell 1927; from 1912 with the Bureau of Plant Industry. 
+**Abbreviated name**: *Jenk.*
 
 #### Herbarium and types
 

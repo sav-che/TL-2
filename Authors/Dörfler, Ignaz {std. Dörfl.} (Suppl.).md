@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103835#page/33/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33260011) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dörfler, Ignaz {std. Dörfl.}|first entry]] for this author
 
 ### Author
 
-Dörfler, Ignaz (1866-1950), Austrian botanist, publisher and plant collector, born in Vienna 19 Jun 1866, died ib. 26 Aug 1950, from 1890 as Kustos at the Botanical Institution of the k.k. Wiener Universität, collected in the Balkan Peninsula (especially Albania), Crete, and in general in S.E. Europe. (*Dörfl.*).
+Dörfler, Ignaz (1866-1950), Austrian botanist, publisher and plant collector, born in Vienna 19 Jun 1866, died ib. 26 Aug 1950, from 1890 as Kustos at the Botanical Institution of the k.k. Wiener Universität, collected in the Balkan Peninsula (especially Albania), Crete, and in general in S.E. Europe. 
+**Abbreviated name**: *Dörfl.*
 
 #### Herbarium and types
 

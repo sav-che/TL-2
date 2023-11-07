@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/item/104077#page/912/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sterler, Alois (1787-1831), German (Bavarian) botanist. (*Sterler*).
+Sterler, Alois (1787-1831), German (Bavarian) botanist. 
+**Abbreviated name**: *Sterler*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103833#page/299/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dickinson, Joseph {std. Dickinson}|first entry]] for this author
 
 ### Author
 
-\* Dickinson, Joseph (about 1805-1865), British botanist, born at Lampleigh, near Whitehaven, Cumberland circa 1805, died Waterloo, near Liverpool, 21 Jul 1865, educated at Trinity College, Dublin, M.B. 1837, M.A. & M.D., Dublin 1843, F.L.S. 1939, lecturer on botany and medicine at Liverpool School of medicine, visited Egypt 1857. (*Dickinson*).
+\* Dickinson, Joseph (about 1805-1865), British botanist, born at Lampleigh, near Whitehaven, Cumberland circa 1805, died Waterloo, near Liverpool, 21 Jul 1865, educated at Trinity College, Dublin, M.B. 1837, M.A. & M.D., Dublin 1843, F.L.S. 1939, lecturer on botany and medicine at Liverpool School of medicine, visited Egypt 1857. 
+**Abbreviated name**: *Dickinson*
 
 #### Herbarium and types
 

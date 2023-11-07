@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103833#page/303/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diddens, Harmanna Antonia (fl. 1929-1944), Dutch botanist, phytopathologist, born in Winschoten, studied at the University of Amsterdam, Ph.D. 1931, at the "Centraal-bureau voor schimmelcultures", Baarn, died 3 Dec 1944 from an unfortunate fall in a foxhole. (*Diddens*).
+Diddens, Harmanna Antonia (fl. 1929-1944), Dutch botanist, phytopathologist, born in Winschoten, studied at the University of Amsterdam, Ph.D. 1931, at the "Centraal-bureau voor schimmelcultures", Baarn, died 3 Dec 1944 from an unfortunate fall in a foxhole. 
+**Abbreviated name**: *Diddens*
 
 #### Herbarium and types
 

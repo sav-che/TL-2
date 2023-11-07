@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103253#page/450/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33068666) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jao, Ch'in-chih (1900-x), Chinese botanist who studied at Ann Arbor, Mich.; later professor of biology at Peking. (*Jao*).
+Jao, Ch'in-chih (1900-x), Chinese botanist who studied at Ann Arbor, Mich.; later professor of biology at Peking. 
+**Abbreviated name**: *Jao*
 
 #### Herbarium and types
 

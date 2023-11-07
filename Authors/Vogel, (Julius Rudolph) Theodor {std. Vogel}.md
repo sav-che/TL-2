@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/item/103683#page/777/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33212809) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogel, \[Julius Rudolph\] Theodor (1812-1841), German (Berlin) botanist; studied at the University of Berlin; Dr. phil. ib. 1837; Habil. ib. 1838; lecturer in botany Bonn and co-director of the Botanical Garden 1838-1840; on the Niger expedition of 1840-1841; died on Fernando-Po. (*Vogel*).
+Vogel, \[Julius Rudolph\] Theodor (1812-1841), German (Berlin) botanist; studied at the University of Berlin; Dr. phil. ib. 1837; Habil. ib. 1838; lecturer in botany Bonn and co-director of the Botanical Garden 1838-1840; on the Niger expedition of 1840-1841; died on Fernando-Po. 
+**Abbreviated name**: *Vogel*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103833#page/174/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259208) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Degenkolbe, Walther (1908-?), German pharmacist and botanist, born 25 Jul 1908 at Stedten, on "Oberrealschule" at Eisleben till 1928, two years on the pharmacy of Stedten, first pharmacy examen Mar 1930, from 1931-1933 ultimate studium of pharmacy at the University of Halle, further study of natural sciences at the University of Jena until 1937. (*Degenkolbe*).
+Degenkolbe, Walther (1908-?), German pharmacist and botanist, born 25 Jul 1908 at Stedten, on "Oberrealschule" at Eisleben till 1928, two years on the pharmacy of Stedten, first pharmacy examen Mar 1930, from 1931-1933 ultimate studium of pharmacy at the University of Halle, further study of natural sciences at the University of Jena until 1937. 
+**Abbreviated name**: *Degenkolbe*
 
 #### Herbarium and types
 

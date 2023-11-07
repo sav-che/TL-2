@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/104137#page/341/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33355412) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martius, Carl Friedrich Philipp von (1794-1868), German botanical traveller, ethnologist and botanist; M. D. Erlangen 1814, from then on at München; in Brazil 1817-1820; founder of the *Flora brasiliensis*. (*Mart.*).
+Martius, Carl Friedrich Philipp von (1794-1868), German botanical traveller, ethnologist and botanist; M. D. Erlangen 1814, from then on at München; in Brazil 1817-1820; founder of the *Flora brasiliensis*. 
+**Abbreviated name**: *Mart.*
 
 #### Herbarium and types
 

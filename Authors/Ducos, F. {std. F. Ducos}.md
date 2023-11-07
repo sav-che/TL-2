@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103835#page/153/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33260131) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ducos, F. (fl. 1934), French botanist. (*F. Ducos*).
+Ducos, F. (fl. 1934), French botanist. 
+**Abbreviated name**: *F. Ducos*
 
 #### Herbarium and types
 

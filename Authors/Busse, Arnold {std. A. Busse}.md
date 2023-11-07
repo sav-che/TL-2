@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/103861#page/291/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33266588) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Busse, Arnold (b. 1887), German botanist, born at 29 Apr 1887 at Schledehausen, Kreis Osnabrück, at the Gymnasium of Osnabrück 1901-1902, at the agricultural school at Herford 1902-1905, at the Oberrealschule I in Kiel 1905-1909, studied at the Universities of Marburg and Kiel, Dr. phil. Kgl. Christian-Albrechts-Universität of Kiel 1914, later at the Inst. f. Meereskunde Univ. Berlin. (*A. Busse*).
+Busse, Arnold (b. 1887), German botanist, born at 29 Apr 1887 at Schledehausen, Kreis Osnabrück, at the Gymnasium of Osnabrück 1901-1902, at the agricultural school at Herford 1902-1905, at the Oberrealschule I in Kiel 1905-1909, studied at the Universities of Marburg and Kiel, Dr. phil. Kgl. Christian-Albrechts-Universität of Kiel 1914, later at the Inst. f. Meereskunde Univ. Berlin. 
+**Abbreviated name**: *A. Busse*
 
 #### Herbarium and types
 

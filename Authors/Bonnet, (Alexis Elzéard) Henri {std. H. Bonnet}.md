@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103859#page/328/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265515) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonnet, \[Alexis Elzéard\] Henri (1823-1892), French botanist and agriculturist in the arrondissement d'Apt. (*H. Bonnet*).
+Bonnet, \[Alexis Elzéard\] Henri (1823-1892), French botanist and agriculturist in the arrondissement d'Apt. 
+**Abbreviated name**: *H. Bonnet*
 
 #### Herbarium and types
 

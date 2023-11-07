@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103250#page/211/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33066491) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weihe, Carl Ernst August (1779-1834), German (Westphalen) physician and botanist (batologist); studied pharmacy in pharmacies at Melle (1798-1799) and Bielefeld (1799-1800); studied medicine at Halle 1800-1802; Dr. med. ib. 1802; practicing physician at Lüttringhausen 1803-1806, in Biinde 1807-ca. 1811, in Mennighüffen 1811-1824; from 1825-1834 in Herford. (*Weihe*).
+Weihe, Carl Ernst August (1779-1834), German (Westphalen) physician and botanist (batologist); studied pharmacy in pharmacies at Melle (1798-1799) and Bielefeld (1799-1800); studied medicine at Halle 1800-1802; Dr. med. ib. 1802; practicing physician at Lüttringhausen 1803-1806, in Biinde 1807-ca. 1811, in Mennighüffen 1811-1824; from 1825-1834 in Herford. 
+**Abbreviated name**: *Weihe*
 
 #### Herbarium and types
 

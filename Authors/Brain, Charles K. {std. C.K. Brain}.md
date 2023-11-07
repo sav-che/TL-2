@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/item/103861#page/15/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33266312) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brain, Charles K. (fl. 1930-1942), British botanist and collector in Southern Rhodesia. (*C.K. Brain*).
+Brain, Charles K. (fl. 1930-1942), British botanist and collector in Southern Rhodesia. 
+**Abbreviated name**: *C.K. Brain*
 
 #### Herbarium and types
 

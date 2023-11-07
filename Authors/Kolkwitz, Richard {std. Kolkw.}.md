@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/103253#page/636/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kolkwitz, Richard (1873-1956), German botanist and ecologist at Berlin-Dahlem. (*Kolkw.*).
+Kolkwitz, Richard (1873-1956), German botanist and ecologist at Berlin-Dahlem. 
+**Abbreviated name**: *Kolkw.*
 
 #### Herbarium and types
 

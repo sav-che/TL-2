@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103835#page/157/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33260135) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duffort, Louis (1846-1923), French pharmacist and specialist on roses, born 7 Mar 1846 at Masseube (Gers), had a pharmacy in Masseube, died 1923. (*Duffort*).
+Duffort, Louis (1846-1923), French pharmacist and specialist on roses, born 7 Mar 1846 at Masseube (Gers), had a pharmacy in Masseube, died 1923. 
+**Abbreviated name**: *Duffort*
 
 #### Herbarium and types
 

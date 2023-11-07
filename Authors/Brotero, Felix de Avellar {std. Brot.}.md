@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103414#page/405/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33120488) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brotero, Felix de Avellar (1744-1828), Portuguese botanist, professor of botany at Coimbra in the later part of his life. (*Brot.*).
+Brotero, Felix de Avellar (1744-1828), Portuguese botanist, professor of botany at Coimbra in the later part of his life. 
+**Abbreviated name**: *Brot.*
 
 #### Herbarium and types
 

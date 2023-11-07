@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/item/103624#page/1075/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/page/33190532) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sainsbury, George Osborne King (1880-1957), New Zealand barrister, solicitor and bryologist; practiced at Gisborne, New Zealand 1903-1911, farming 1911-1917, practicing sollicitor 1917-1946. (*Sainsbury*).
+Sainsbury, George Osborne King (1880-1957), New Zealand barrister, solicitor and bryologist; practiced at Gisborne, New Zealand 1903-1911, farming 1911-1917, practicing sollicitor 1917-1946. 
+**Abbreviated name**: *Sainsbury*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103414#page/398/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33120481) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brockmüller, Hans Joachim Heinrich (1821-1882), German cryptogamist, school teacher at Wölschendorf, later "Trichinenschauer" in Schwerin. (*Brockm.*).
+Brockmüller, Hans Joachim Heinrich (1821-1882), German cryptogamist, school teacher at Wölschendorf, later "Trichinenschauer" in Schwerin. 
+**Abbreviated name**: *Brockm.*
 
 #### Herbarium and types
 

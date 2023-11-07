@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/104137#page/80/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33355151) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindstedt, Karl (1846-?), German mycologist at Berlin, Dr. phil. Berlin 1872. (*Lindst.*).
+Lindstedt, Karl (1846-?), German mycologist at Berlin, Dr. phil. Berlin 1872. 
+**Abbreviated name**: *Lindst.*
 
 #### Herbarium and types
 

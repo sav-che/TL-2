@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103835#page/424/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33260402) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Estee, Lula May (fl. 1913), American botanist, BS Univ. of California 1911, MS 1912, married John J. Vandiver. (*Estee*).
+Estee, Lula May (fl. 1913), American botanist, BS Univ. of California 1911, MS 1912, married John J. Vandiver. 
+**Abbreviated name**: *Estee*
 
 #### Herbarium and types
 

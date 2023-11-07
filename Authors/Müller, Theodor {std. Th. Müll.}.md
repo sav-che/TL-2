@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/item/104137#page/667/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Theodor (1894-1969), German lichenologist; war-invalid World War I; working on the lichens of the Eiffel at Klein Vernich. (*Th. Müll.*).
+Müller, Theodor (1894-1969), German lichenologist; war-invalid World War I; working on the lichens of the Eiffel at Klein Vernich. 
+**Abbreviated name**: *Th. Müll.*
 
 #### Herbarium and types
 

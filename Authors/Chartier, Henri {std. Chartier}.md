@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/103860#page/67/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265734) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chartier, Henri (fl. 1910), French botanist and teacher, licencié ès sciences, teacher at the Collège de Melun, worked on his thesis at the Botanical Laboratory of the Sorbonne, "diplôme d'études supérieures" 1910. (*Chartier*).
+Chartier, Henri (fl. 1910), French botanist and teacher, licencié ès sciences, teacher at the Collège de Melun, worked on his thesis at the Botanical Laboratory of the Sorbonne, "diplôme d'études supérieures" 1910. 
+**Abbreviated name**: *Chartier*
 
 #### Herbarium and types
 

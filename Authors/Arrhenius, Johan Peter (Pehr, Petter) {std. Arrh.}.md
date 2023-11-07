@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103414#page/117/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33120200) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arrhenius, Johan Peter (Pehr Petter) {std. Arrh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arrhenius, Johan Peter (Pehr, Petter) (1811-1889), Swedish botanist and agriculturist. (*Arrh.*).
+Arrhenius, Johan Peter (Pehr, Petter) (1811-1889), Swedish botanist and agriculturist. 
+**Abbreviated name**: *Arrh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103860#page/374/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33266041) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cornet, Arthur Théodore Erasme (1863-1939), Belgian stationmaster and bryologist, born at Viemme, "Chef de Station" at Juslenville 1901-1928, moved to Moha. (*Cornet*).
+Cornet, Arthur Théodore Erasme (1863-1939), Belgian stationmaster and bryologist, born at Viemme, "Chef de Station" at Juslenville 1901-1928, moved to Moha. 
+**Abbreviated name**: *Cornet*
 
 #### Herbarium and types
 

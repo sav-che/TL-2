@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/item/103414#page/889/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33120972) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fitzgerald (FitzGerald), Robert David {std. Fitzg.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fitzgerald, Robert Desmond (1830-1892), Australian deputy surveyor-general and botanical artist of Irish birth, in Sydney from 1856. (*Fitzg.*).
+Fitzgerald, Robert Desmond (1830-1892), Australian deputy surveyor-general and botanical artist of Irish birth, in Sydney from 1856. 
+**Abbreviated name**: *Fitzg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103835#page/188/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33260166) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duque Jaramillo, José \[Jesus\] Maria (fl. 1931-1948), Colombian botanist, geologist and entomologist, professor at the Escuela de Agricultura y Veterinaria of the University at Canca. (*Duque Jaramillo*).
+Duque Jaramillo, José \[Jesus\] Maria (fl. 1931-1948), Colombian botanist, geologist and entomologist, professor at the Escuela de Agricultura y Veterinaria of the University at Canca. 
+**Abbreviated name**: *Duque Jaramillo*
 
 #### Herbarium and types
 

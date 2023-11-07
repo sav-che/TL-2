@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/104077#page/23/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33333174) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salmon, Charles Edgar (1872-1930), British botanist and practicing architect at Reigate (Surrey); active amateur local historian and student of the flora of Surrey, esp. *Limonium*. (*Statice*). (*Salmon*).
+Salmon, Charles Edgar (1872-1930), British botanist and practicing architect at Reigate (Surrey); active amateur local historian and student of the flora of Surrey, esp. *Limonium*. (*Statice*). 
+**Abbreviated name**: *Salmon*
 
 #### Herbarium and types
 

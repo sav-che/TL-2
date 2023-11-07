@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103414#page/457/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33120540) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burchell, William John {std. Burch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Burchell, William John (1781-1863), British botanist and traveller in South Africa (1811-1815) and Brazil (1825-1829). (*Burch.*).
+Burchell, William John (1781-1863), British botanist and traveller in South Africa (1811-1815) and Brazil (1825-1829). 
+**Abbreviated name**: *Burch.*
 
 #### Herbarium and types
 

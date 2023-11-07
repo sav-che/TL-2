@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/104137#page/754/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33355825) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Newton, James (1639-1718), British physician and botanist; acquainted with J. Ray and J. Commelijn. (*J. Newton*).
+Newton, James (1639-1718), British physician and botanist; acquainted with J. Ray and J. Commelijn. 
+**Abbreviated name**: *J. Newton*
 
 #### Herbarium and types
 

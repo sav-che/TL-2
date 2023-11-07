@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/item/104137#page/423/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33355494) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meister, Jakob (1850-1927), Swiss botanist and geologist; high school teacher at Zürich 1871-1880, at Schaffhausen 1880-1926. (*J. Meister*).
+Meister, Jakob (1850-1927), Swiss botanist and geologist; high school teacher at Zürich 1871-1880, at Schaffhausen 1880-1926. 
+**Abbreviated name**: *J. Meister*
 
 #### Herbarium and types
 

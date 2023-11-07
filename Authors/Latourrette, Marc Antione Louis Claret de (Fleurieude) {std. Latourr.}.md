@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/item/103253#page/790/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33069006) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Latourrette, Marc Antione Louis Claret de \[Fleurieude\] (1729-1793), French naturalist; judge at the Lyon fiscal court until 1771; permanent secretary of the Lyon Academy 1767-1793; founder of various botanic gardens in the Lyon area; active floristic botanist and popularizer of science. (*Latourr.*).
+Latourrette, Marc Antione Louis Claret de \[Fleurieude\] (1729-1793), French naturalist; judge at the Lyon fiscal court until 1771; permanent secretary of the Lyon Academy 1767-1793; founder of various botanic gardens in the Lyon area; active floristic botanist and popularizer of science. 
+**Abbreviated name**: *Latourr.*
 
 #### Herbarium and types
 

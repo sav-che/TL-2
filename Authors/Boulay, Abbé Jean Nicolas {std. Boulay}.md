@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/103414#page/341/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33120424) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boulay, Nicolas-Jean {std. Boulay} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boulay, Abbé Jean Nicolas (1837-1905), Northern French clergyman, bryologist and palaeobotanist, professor of botany at the University of Lille. (*Boulay*).
+Boulay, Abbé Jean Nicolas (1837-1905), Northern French clergyman, bryologist and palaeobotanist, professor of botany at the University of Lille. 
+**Abbreviated name**: *Boulay*
 
 #### Herbarium and types
 

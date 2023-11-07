@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103250#page/267/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33066547) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Westendorp, Gerard Daniel (1813-1869), Dutch-born Belgian physician and botanist; studied medicine in Brussels; examination surgery and obstetrics 1833; some time student physician at Antwerp; naturalized Belgian citizen ca. 1836, subsequently assistant army and naval physician; regular physician with the Belgian army at Gent and other locations 1846, from 1858 definitely stationed at Termende; Leopold order 1866; active amateur botanist from 1834 onward, working mainly on cryptogams from 1835. (*Westend.*).
+Westendorp, Gerard Daniel (1813-1869), Dutch-born Belgian physician and botanist; studied medicine in Brussels; examination surgery and obstetrics 1833; some time student physician at Antwerp; naturalized Belgian citizen ca. 1836, subsequently assistant army and naval physician; regular physician with the Belgian army at Gent and other locations 1846, from 1858 definitely stationed at Termende; Leopold order 1866; active amateur botanist from 1834 onward, working mainly on cryptogams from 1835. 
+**Abbreviated name**: *Westend.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 677](https://www.biodiversitylibrary.org/item/104077#page/691/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 677](https://www.biodiversitylibrary.org/page/33333816) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Huron Herbert (1883-1933), American botanist; B.S. De Pauw Univ. 1905; at Cornell Univ. 1905-1907; dendrologist Field Mus., Chicago, 1907-1917, asst. curator of botany 1911-1917; curator of botany of the Milwaukee Public Museum 1917-1933. (*Hu.H. Sm.*).
+Smith, Huron Herbert (1883-1933), American botanist; B.S. De Pauw Univ. 1905; at Cornell Univ. 1905-1907; dendrologist Field Mus., Chicago, 1907-1917, asst. curator of botany 1911-1917; curator of botany of the Milwaukee Public Museum 1917-1933. 
+**Abbreviated name**: *Hu.H. Sm.*
 
 #### Herbarium and types
 

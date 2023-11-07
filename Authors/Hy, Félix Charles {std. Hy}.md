@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/item/103253#page/407/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33068623) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hy, Félix Charles (1853-1918), French clergyman and cryptogamist; professor at the catholic University of Angers. (*Hy*).
+Hy, Félix Charles (1853-1918), French clergyman and cryptogamist; professor at the catholic University of Angers. 
+**Abbreviated name**: *Hy*
 
 #### Herbarium and types
 

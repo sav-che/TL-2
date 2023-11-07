@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/item/103253#page/887/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leuduger-Fortmorel, Georges (1830-1902), French physician and diatomologist; ultimately at Saint-Brieuc. (*Leud.-Fortm.*).
+Leuduger-Fortmorel, Georges (1830-1902), French physician and diatomologist; ultimately at Saint-Brieuc. 
+**Abbreviated name**: *Leud.-Fortm.*
 
 #### Herbarium and types
 

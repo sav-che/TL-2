@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/item/104137#page/586/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33355657) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moore, Lucy Beatrice (1906-x), New Zealand botanist; M. Sc. Auckland 1929; at the Botany Division, Dept. Scientific and Industrial Research, Wellington. (*L. B. Moore*).
+Moore, Lucy Beatrice (1906-x), New Zealand botanist; M. Sc. Auckland 1929; at the Botany Division, Dept. Scientific and Industrial Research, Wellington. 
+**Abbreviated name**: *L. B. Moore*
 
 #### Herbarium and types
 

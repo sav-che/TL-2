@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103624#page/339/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33189796) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pokorny, Alois (1826-1886), Bohemian-born Austrian botanist; studied at the University of Wien 1844-1848; worked at the natural history museum (W) 1848-1849; from 1849-1886 high school teacher in Vienna, until 1864 at the academic Gymnasium, then director of the Realgymnasium of Wien-II; Dr. phil. Göttingen 1855; id. and habil. Wien 1857; lectured phytogeography at the University 1857-1868; developed nature printing with von Ettingshausen. (*Pokorny*).
+Pokorny, Alois (1826-1886), Bohemian-born Austrian botanist; studied at the University of Wien 1844-1848; worked at the natural history museum (W) 1848-1849; from 1849-1886 high school teacher in Vienna, until 1864 at the academic Gymnasium, then director of the Realgymnasium of Wien-II; Dr. phil. Göttingen 1855; id. and habil. Wien 1857; lectured phytogeography at the University 1857-1868; developed nature printing with von Ettingshausen. 
+**Abbreviated name**: *Pokorny*
 
 #### Herbarium and types
 

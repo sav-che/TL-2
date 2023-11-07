@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/103858#page/325/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33265040) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Banning, Florens (1835-1882), German (Westfalen, Münster) botanist and highschool teacher at Minden (Westfalen). (*Banning*).
+Banning, Florens (1835-1882), German (Westfalen, Münster) botanist and highschool teacher at Minden (Westfalen). 
+**Abbreviated name**: *Banning*
 
 #### Herbarium and types
 

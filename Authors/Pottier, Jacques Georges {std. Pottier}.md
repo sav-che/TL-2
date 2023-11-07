@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103624#page/378/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pottier, Jacques Georges (1892-x), French botanist; studied at the École pratique des Hautes Études; Dr. sci. Paris 1920; later at the Faculté des Sciences de Besançon. (*Pottier*).
+Pottier, Jacques Georges (1892-x), French botanist; studied at the École pratique des Hautes Études; Dr. sci. Paris 1920; later at the Faculté des Sciences de Besançon. 
+**Abbreviated name**: *Pottier*
 
 #### Herbarium and types
 

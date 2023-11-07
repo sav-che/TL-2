@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/item/104077#page/330/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33333455) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schrader, Heinrich Adolph (1767-1836), German (Hildesheim/Hannover) botanist; Dr. med. Göttingen 1795; lecturer (1797); extra-ordinary professor (1802/3) and regular professor of botany (1809) at Göttingen University; director of the Göttingen botanical garden 1802/3-1836, succeeding G.F. Hoffman. (*Schrad.*).
+Schrader, Heinrich Adolph (1767-1836), German (Hildesheim/Hannover) botanist; Dr. med. Göttingen 1795; lecturer (1797); extra-ordinary professor (1802/3) and regular professor of botany (1809) at Göttingen University; director of the Göttingen botanical garden 1802/3-1836, succeeding G.F. Hoffman. 
+**Abbreviated name**: *Schrad.*
 
 #### Herbarium and types
 

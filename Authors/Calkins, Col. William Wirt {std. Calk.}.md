@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103414#page/473/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33120556) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Calkins, William Wirt {std. Calk.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Calkins, Col. William Wirt (1842-1914), American amateur mycologist and lichenologist. (*Calk.*).
+Calkins, Col. William Wirt (1842-1914), American amateur mycologist and lichenologist. 
+**Abbreviated name**: *Calk.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103624#page/60/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33189479) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pantocsek, Josef (1846-1916), Hungarian botanist and provincial physican; district physician at Tavarnok; from 1896 director of the hospital and "wirklicher Sanitätsrat" at Bratislava (Pozsony); botanical explorer of Montenegro. (*Pant.*).
+Pantocsek, Josef (1846-1916), Hungarian botanist and provincial physican; district physician at Tavarnok; from 1896 director of the hospital and "wirklicher Sanitätsrat" at Bratislava (Pozsony); botanical explorer of Montenegro. 
+**Abbreviated name**: *Pant.*
 
 #### Herbarium and types
 

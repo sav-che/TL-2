@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/item/104077#page/395/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultze, A.G.R. (*fl*. 1840), German pharmacist and botanist. (*A. Schultze*).
+Schultze, A.G.R. (*fl*. 1840), German pharmacist and botanist. 
+**Abbreviated name**: *A. Schultze*
 
 #### Herbarium and types
 

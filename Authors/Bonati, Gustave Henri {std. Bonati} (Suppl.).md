@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/item/103859#page/317/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33265504) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bonati, Gustave Henri {std. Bonati}|first entry]] for this author
 
 ### Author
 
-\* Bonati, Gustave Henri (1873-1927), French (Strasbourg born) pharmacist and botanist, Dr. pharm. Nancy 1918, pharmacist at Lure (Haute Saône), as botanist associated with William Barbey and G. Beauverd at the Boissier Herbarium in Genève. (*Bonati*).
+\* Bonati, Gustave Henri (1873-1927), French (Strasbourg born) pharmacist and botanist, Dr. pharm. Nancy 1918, pharmacist at Lure (Haute Saône), as botanist associated with William Barbey and G. Beauverd at the Boissier Herbarium in Genève. 
+**Abbreviated name**: *Bonati*
 
 #### Herbarium and types
 

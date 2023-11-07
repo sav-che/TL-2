@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/item/103683#page/517/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33212549) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trotter, Alessandro (1874-1967), Italian botanist; Dr. phil. Padua; botanical assistant University of Padua 1899; professor of natural history and phytopathology at the school for viticulture, Avellino; professor of phytopathology at the R. Istituto superiore Agric., Portici; son-in-law of P.A. Saccardo. (*Trott.*).
+Trotter, Alessandro (1874-1967), Italian botanist; Dr. phil. Padua; botanical assistant University of Padua 1899; professor of natural history and phytopathology at the school for viticulture, Avellino; professor of phytopathology at the R. Istituto superiore Agric., Portici; son-in-law of P.A. Saccardo. 
+**Abbreviated name**: *Trott.*
 
 #### Herbarium and types
 

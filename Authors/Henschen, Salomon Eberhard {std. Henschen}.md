@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103253#page/188/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henschen, Salomon Eberhard (1847-1930), Swedish physician and botanist, later at the Karolinska Institut (1900-1912). (*Henschen*).
+Henschen, Salomon Eberhard (1847-1930), Swedish physician and botanist, later at the Karolinska Institut (1900-1912). 
+**Abbreviated name**: *Henschen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103624#page/346/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33189803) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Polscher, W. (1831-1861), German (Prussian) high school teacher at Duisburg. (*Polscher*).
+Polscher, W. (1831-1861), German (Prussian) high school teacher at Duisburg. 
+**Abbreviated name**: *Polscher*
 
 #### Herbarium and types
 

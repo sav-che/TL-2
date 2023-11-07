@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103834#page/72/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33259554) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Farr, Wanda (née Kirkbride) (1895-1983), American botanist (cytologist), born 9 Jan 1895 in New Matamoras, Ohio, B.S. 1915 Ohio Univ., Athens, Ohio, M.A. 1918 Columbia Univ., New York City, instructor Kansas State College (now Univ.), Manhattan, Kansas 1917-1918, Agric. & Mech. College (now Texas A & M), College Station, Texas 1918-1919, many more different jobs, retired in 1954, died Apr 1983 \[in Maine?\]. (*W. Farr*).
+Farr, Wanda (née Kirkbride) (1895-1983), American botanist (cytologist), born 9 Jan 1895 in New Matamoras, Ohio, B.S. 1915 Ohio Univ., Athens, Ohio, M.A. 1918 Columbia Univ., New York City, instructor Kansas State College (now Univ.), Manhattan, Kansas 1917-1918, Agric. & Mech. College (now Texas A & M), College Station, Texas 1918-1919, many more different jobs, retired in 1954, died Apr 1983 \[in Maine?\]. 
+**Abbreviated name**: *W. Farr*
 
 #### Note
 

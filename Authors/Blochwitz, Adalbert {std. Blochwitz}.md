@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103859#page/226/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33265413) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blochwitz, Adalbert (1875-?), German mycologist, student with W.F.P. Pfeffer at the plant physiology laboratory at Leipzig. (*Blochwitz*).
+Blochwitz, Adalbert (1875-?), German mycologist, student with W.F.P. Pfeffer at the plant physiology laboratory at Leipzig. 
+**Abbreviated name**: *Blochwitz*
 
 #### Herbarium and types
 

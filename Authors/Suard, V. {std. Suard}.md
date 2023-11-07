@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103683#page/85/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suard, V. (*fl*. 1843), French pharmacist and botanist at Nancy. (*Suard*).
+Suard, V. (*fl*. 1843), French pharmacist and botanist at Nancy. 
+**Abbreviated name**: *Suard*
 
 #### Herbarium and types
 

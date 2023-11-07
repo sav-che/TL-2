@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103414#page/417/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33120500) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brown, Roland Wilbur {std. R.W. Br.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brown, Roland Wilbur (1893-1961), American palaeobotanist. (*R. W. Brown*).
+Brown, Roland Wilbur (1893-1961), American palaeobotanist. 
+**Abbreviated name**: *R. W. Brown*
 
 #### Collections
 

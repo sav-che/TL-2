@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103250#page/312/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33066592) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, James Walter (1846-1932), British botanist and pharmaceutical chemist; set up a chemist's business at Clifton, Bristol in 1874; special lecturer in botany at the University of Bristol and M.Sc. hon. ib. 1927. (*J.W. White*).
+White, James Walter (1846-1932), British botanist and pharmaceutical chemist; set up a chemist's business at Clifton, Bristol in 1874; special lecturer in botany at the University of Bristol and M.Sc. hon. ib. 1927. 
+**Abbreviated name**: *J.W. White*
 
 #### Herbarium and types
 

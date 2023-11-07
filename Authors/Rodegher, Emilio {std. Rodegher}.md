@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/item/103624#page/841/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33190298) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rodegher, Emilio (1856-1922), Italian botanist. (*Rodegher*).
+Rodegher, Emilio (1856-1922), Italian botanist. 
+**Abbreviated name**: *Rodegher*
 
 #### Herbarium and types
 

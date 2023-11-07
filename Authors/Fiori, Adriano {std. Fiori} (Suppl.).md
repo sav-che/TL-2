@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103834#page/216/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33259698) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fiori, Adriano {std. Fiori}|first entry]] for this author
 
 ### Author
 
-\* Fiori, Adriano (1865-1950), Italian botanist, phytogeographer and physician, born 12 \[17?\] Dec 1865 in Casinalbo (Modena), Dr. Sci. Nat. and Dr. Med., asst. to P. Saccardo, Padua Botanical Garden 1892-1900, prof., systematic botany, Forestry Inst., Vallombrosa (Florence) 1900-1913, sent on a mission by the Italian Ministry of Agriculture to study forests of Eritrea 13 Jan-15 Apr 1909, prof. of botany, Univ. of Florence 1913-1936, died 5 Nov 1950 in Casinalbo. (*Fiori*).
+\* Fiori, Adriano (1865-1950), Italian botanist, phytogeographer and physician, born 12 \[17?\] Dec 1865 in Casinalbo (Modena), Dr. Sci. Nat. and Dr. Med., asst. to P. Saccardo, Padua Botanical Garden 1892-1900, prof., systematic botany, Forestry Inst., Vallombrosa (Florence) 1900-1913, sent on a mission by the Italian Ministry of Agriculture to study forests of Eritrea 13 Jan-15 Apr 1909, prof. of botany, Univ. of Florence 1913-1936, died 5 Nov 1950 in Casinalbo. 
+**Abbreviated name**: *Fiori*
 
 #### Herbarium and types
 

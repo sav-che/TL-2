@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103860#page/112/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33265779) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chimani, Otto (fl. 1895), German botanist from Kassel, Dr. phil. Bern 1895. (*Chimani*).
+Chimani, Otto (fl. 1895), German botanist from Kassel, Dr. phil. Bern 1895. 
+**Abbreviated name**: *Chimani*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103861#page/422/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carestia, Antonio (1825-1908), Italian priest and botanist, born 2 Feb 1825 in Riva Valdobbia, died 12 Mar 1908 in Riva Valdobbia (Valsesia), from 1891 priest in Varallo (Piemonto), from 1908 in Valle Vogogna Valsesia (Novara). (*Ant. Carestia*).
+Carestia, Antonio (1825-1908), Italian priest and botanist, born 2 Feb 1825 in Riva Valdobbia, died 12 Mar 1908 in Riva Valdobbia (Valsesia), from 1891 priest in Varallo (Piemonto), from 1908 in Valle Vogogna Valsesia (Novara). 
+**Abbreviated name**: *Ant. Carestia*
 
 #### Herbarium and types
 

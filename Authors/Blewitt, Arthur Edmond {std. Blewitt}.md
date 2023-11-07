@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103859#page/223/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33265410) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blewitt, Arthur Edmond (1872-1960), American botanist, with the U.S. Postal Service at Waterbury, Connecticut, in retirement lecturer on nature topics in public schools, interested in the local flora, active in the Connecticut Botanical Society from 1906 and other Connecticut nature clubs. (*Blewitt*).
+Blewitt, Arthur Edmond (1872-1960), American botanist, with the U.S. Postal Service at Waterbury, Connecticut, in retirement lecturer on nature topics in public schools, interested in the local flora, active in the Connecticut Botanical Society from 1906 and other Connecticut nature clubs. 
+**Abbreviated name**: *Blewitt*
 
 #### Herbarium and types
 

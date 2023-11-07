@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/item/104137#page/782/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33355853) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nordhagen, Rolf (1894-1979), Norwegian botanist, especially geobotanist; Dr. phil. Oslo 1922; assistant at the Oslo botanic garden 1915-1920; at Oslo university 1920-1925; professor of botany Bergen 1925-1946; idem at Oslo 1946-1964. (*Nordh.*).
+Nordhagen, Rolf (1894-1979), Norwegian botanist, especially geobotanist; Dr. phil. Oslo 1922; assistant at the Oslo botanic garden 1915-1920; at Oslo university 1920-1925; professor of botany Bergen 1925-1946; idem at Oslo 1946-1964. 
+**Abbreviated name**: *Nordh.*
 
 #### Herbarium and types
 

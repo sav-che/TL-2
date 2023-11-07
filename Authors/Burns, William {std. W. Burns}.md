@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/103861#page/269/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33266566) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burns, William (1884-1970), Scottish botanist, studied at the University of Edinburgh (B.Sc 1907, D.Sc 1914), assistant lecturer in botany at Reading 1907-1908, economic botanist at Bombay 1908-1922, also Director of the Botanical and Agricultural Station, Bassein nr. Bombay 1908-1912, Principal of Poona College of Agriculture 1922-1932, also director of Ganeshkhind Botanical Garden (fruit exp. sta); director of agriculture Bombay 1932-1936, Agricultural Commissioner with the Government of India at New Delhi 1939-1943, specialized in agronomy, plant breeding, grassland improvement and soil conservation. (*W. Burns*).
+Burns, William (1884-1970), Scottish botanist, studied at the University of Edinburgh (B.Sc 1907, D.Sc 1914), assistant lecturer in botany at Reading 1907-1908, economic botanist at Bombay 1908-1922, also Director of the Botanical and Agricultural Station, Bassein nr. Bombay 1908-1912, Principal of Poona College of Agriculture 1922-1932, also director of Ganeshkhind Botanical Garden (fruit exp. sta); director of agriculture Bombay 1932-1936, Agricultural Commissioner with the Government of India at New Delhi 1939-1943, specialized in agronomy, plant breeding, grassland improvement and soil conservation. 
+**Abbreviated name**: *W. Burns*
 
 #### Herbarium and types
 

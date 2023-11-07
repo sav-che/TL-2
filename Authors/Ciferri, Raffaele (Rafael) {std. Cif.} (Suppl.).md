@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103860#page/184/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33265851) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ciferri, Raffaele {std. Cif.}|first entry]] for this author
 
 ### Author
 
-\* Ciferri, Raffaele \[Rafael\] (1897-1964), Italian mycologist, born at Fermo, studied at an agricultural school in Bologna, "laureato in Scienze Agrarie" 1919, at the Scuola di Viticoltura ed Enologia di Alba 1921-1922, at the Instituto superiore forestale di Firenze 1922-1923, from 1925-1932 working in Cuba, Haiti, Dominican Republic, from 1932 at Pavia as director of the Italian Cryptogamic Laboratory, from 1936 at Firence. (*Cif.*).
+\* Ciferri, Raffaele \[Rafael\] (1897-1964), Italian mycologist, born at Fermo, studied at an agricultural school in Bologna, "laureato in Scienze Agrarie" 1919, at the Scuola di Viticoltura ed Enologia di Alba 1921-1922, at the Instituto superiore forestale di Firenze 1922-1923, from 1925-1932 working in Cuba, Haiti, Dominican Republic, from 1932 at Pavia as director of the Italian Cryptogamic Laboratory, from 1936 at Firence. 
+**Abbreviated name**: *Cif.*
 
 #### Herbarium and types
 

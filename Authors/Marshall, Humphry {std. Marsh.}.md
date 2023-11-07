@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/104137#page/324/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33355395) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marshall, Humphry (1722-1801), American Quaker, botanist, dendrologist, farmer, operator of a grist mill; county treasurer; owner of a commercial botanic garden near present Marshallton, Pa.; correspondent of John Fothergill; cousin of John Bartram. (*Marsh.*).
+Marshall, Humphry (1722-1801), American Quaker, botanist, dendrologist, farmer, operator of a grist mill; county treasurer; owner of a commercial botanic garden near present Marshallton, Pa.; correspondent of John Fothergill; cousin of John Bartram. 
+**Abbreviated name**: *Marsh.*
 
 #### Herbarium and types
 

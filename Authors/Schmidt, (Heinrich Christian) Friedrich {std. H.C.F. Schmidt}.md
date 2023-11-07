@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/104077#page/265/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33333390) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, \[Heinrich Christian\] Friedrich (1819-1863), German (Franconio-Bavarian) pharmacist and botanist at Wunsiedel; studied pharmacy in the Mohren-Apotheke in Nürnberg and with Apoth. Strauss in Mosbach a. Neckar; at the University of München 1838-1840; studied botany and mineralogy at Berlin 1840-1841; from 1846 with the family pharmacy in Wunsiedel, from 1855 as owner; Dr. phil. Jena 1857. (*H.C.F. Schmidt*).
+Schmidt, \[Heinrich Christian\] Friedrich (1819-1863), German (Franconio-Bavarian) pharmacist and botanist at Wunsiedel; studied pharmacy in the Mohren-Apotheke in Nürnberg and with Apoth. Strauss in Mosbach a. Neckar; at the University of München 1838-1840; studied botany and mineralogy at Berlin 1840-1841; from 1846 with the family pharmacy in Wunsiedel, from 1855 as owner; Dr. phil. Jena 1857. 
+**Abbreviated name**: *H.C.F. Schmidt*
 
 #### Herbarium and types
 

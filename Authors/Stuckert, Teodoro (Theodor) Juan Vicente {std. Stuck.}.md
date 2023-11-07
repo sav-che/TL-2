@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103683#page/65/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33212059) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stuckert, Teodoro \[Theodor\] Juan Vicente (1852-1932), Swiss botanist and pharmacist; studied pharmacy in Tucumán and Cordoba; practicing pharmacist in Cordoba from 1885; professor of natural sciences at the Escuela Nacional de Agricultura, Cordoba 1903-1905; Swiss consul at Cordoba 1906-1912; in Genève 1913. (*Stuck.*).
+Stuckert, Teodoro \[Theodor\] Juan Vicente (1852-1932), Swiss botanist and pharmacist; studied pharmacy in Tucumán and Cordoba; practicing pharmacist in Cordoba from 1885; professor of natural sciences at the Escuela Nacional de Agricultura, Cordoba 1903-1905; Swiss consul at Cordoba 1906-1912; in Genève 1913. 
+**Abbreviated name**: *Stuck.*
 
 #### Herbarium and types
 

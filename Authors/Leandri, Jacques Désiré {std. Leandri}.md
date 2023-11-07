@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/item/103253#page/803/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33069019) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leandri, Jacques Désiré (1903-x), Corsica-born French botanist at the Muséum d'histoire naturelle, Paris. (*Leandri*).
+Leandri, Jacques Désiré (1903-x), Corsica-born French botanist at the Muséum d'histoire naturelle, Paris. 
+**Abbreviated name**: *Leandri*
 
 #### Herbarium and types
 

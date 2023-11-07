@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/item/104077#page/889/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33334014) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steiner, Julius (1844-1918), Austrian botanist (lichenologist) and teacher at the k.k. Staatsgymnasium, Wien. (*J. Steiner*).
+Steiner, Julius (1844-1918), Austrian botanist (lichenologist) and teacher at the k.k. Staatsgymnasium, Wien. 
+**Abbreviated name**: *J. Steiner*
 
 #### Herbarium and types
 

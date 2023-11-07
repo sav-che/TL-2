@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/item/103414#page/859/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fairman, Charles Edward {std. Fairm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fairman, Charles Edward (1856-1934), American mycologist. (*Fairm.*).
+Fairman, Charles Edward (1856-1934), American mycologist. 
+**Abbreviated name**: *Fairm.*
 
 #### Herbarium and types
 

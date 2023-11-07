@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 971](https://www.biodiversitylibrary.org/item/103414#page/1019/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 971](https://www.biodiversitylibrary.org/page/33121102) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gordon, George (1806-1879), British botanist. (*Gordon*).
+Gordon, George (1806-1879), British botanist. 
+**Abbreviated name**: *Gordon*
 
 #### Herbarium and types
 

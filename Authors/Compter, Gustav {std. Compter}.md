@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103860#page/300/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33265967) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Compter, Gustav (1831-1922), German high school teacher and palaeobotanist at Jena, born at Jena, early lessons at Jena by his father, from 1846-1848 private lessons subsequently at the Gymnasium at Weimar 1848-1851, studied mathematics and natural sciences in Jena until 1854, id. in Berlin 1854-1855, Dr. phil. at Jena 1856, director of a non-classical secondary school at Apolda 1859-1909. (*Compter*).
+Compter, Gustav (1831-1922), German high school teacher and palaeobotanist at Jena, born at Jena, early lessons at Jena by his father, from 1846-1848 private lessons subsequently at the Gymnasium at Weimar 1848-1851, studied mathematics and natural sciences in Jena until 1854, id. in Berlin 1854-1855, Dr. phil. at Jena 1856, director of a non-classical secondary school at Apolda 1859-1909. 
+**Abbreviated name**: *Compter*
 
 #### Herbarium and types
 

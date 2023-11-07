@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/item/103414#page/378/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33120461) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Britten, James {std. Britten} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Britten, James (1846-1924), British botanist and bibliographer, long-time editor of the *Journal of Botany*. (*Britten*).
+Britten, James (1846-1924), British botanist and bibliographer, long-time editor of the *Journal of Botany*. 
+**Abbreviated name**: *Britten*
 
 #### Herbarium and types
 

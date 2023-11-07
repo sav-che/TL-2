@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103833#page/217/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33259251) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dennert, Eberhard (1861-1942), German botanist and culture philosopher, born 31 Jul 1861 at Pützerlin near Stargard, Pommern, first education at Stargard, later at the Gymnasium at Lippstadt, Westfalen, at the University of Marburg 1880 studying natural sciences and mathematics, in Bonn 1881-1882, promotion at Marburg 1884, worked with A. Wigand on the German encyclopedia, teacher at the "Pädagogium" Bad Godesberg 1889-1907, leader of the Keplerbund, professor in Bad Godesberg 1908, died 18 Jun 1942. (*Dennert*).
+Dennert, Eberhard (1861-1942), German botanist and culture philosopher, born 31 Jul 1861 at Pützerlin near Stargard, Pommern, first education at Stargard, later at the Gymnasium at Lippstadt, Westfalen, at the University of Marburg 1880 studying natural sciences and mathematics, in Bonn 1881-1882, promotion at Marburg 1884, worked with A. Wigand on the German encyclopedia, teacher at the "Pädagogium" Bad Godesberg 1889-1907, leader of the Keplerbund, professor in Bad Godesberg 1908, died 18 Jun 1942. 
+**Abbreviated name**: *Dennert*
 
 #### Herbarium and types
 

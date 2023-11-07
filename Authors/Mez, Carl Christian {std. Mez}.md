@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/104137#page/467/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33355538) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mez, Carl Christian (1866-1944), German botanist; Dr. phil. Berlin 1888; habil. Breslau 1890; in München with Radlkofer 1888-1890; at the University of Breslau 1890-1899; 1899-1910 professor of botany at Halle; director of the Königsberg botanical garden 1910-1935, ultimately at Freiburg i.Br.; main promotor of serodiagnostics ("Königsberger Stammbaum") in systematic botany. (*Mez*).
+Mez, Carl Christian (1866-1944), German botanist; Dr. phil. Berlin 1888; habil. Breslau 1890; in München with Radlkofer 1888-1890; at the University of Breslau 1890-1899; 1899-1910 professor of botany at Halle; director of the Königsberg botanical garden 1910-1935, ultimately at Freiburg i.Br.; main promotor of serodiagnostics ("Königsberger Stammbaum") in systematic botany. 
+**Abbreviated name**: *Mez*
 
 #### Herbarium and types
 

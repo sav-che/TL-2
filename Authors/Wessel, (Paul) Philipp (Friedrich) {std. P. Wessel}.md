@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103250#page/261/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wessel, \[Paul\] Philipp \[Friedrich\] (1826-1855), German (Westprussian) geographer at Bonn; Dr. phil. Bonn 1851. (*P. Wessel*).
+Wessel, \[Paul\] Philipp \[Friedrich\] (1826-1855), German (Westprussian) geographer at Bonn; Dr. phil. Bonn 1851. 
+**Abbreviated name**: *P. Wessel*
 
 #### Herbarium and types
 

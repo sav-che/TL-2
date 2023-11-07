@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/104137#page/536/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33355607) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mirbel, Charles François Brisseau de (1776-1854), French botanist; in Paris 1798-1806 at the Muséum; from 1802-1806 head-gardener at Malmaison; in Holland with Louis Napoléon 1806-1810; from 1829 again attached to the Muséum (1829 professeur de culture); mainly plant anatomist and physiologist. (*Mirb.*).
+Mirbel, Charles François Brisseau de (1776-1854), French botanist; in Paris 1798-1806 at the Muséum; from 1802-1806 head-gardener at Malmaison; in Holland with Louis Napoléon 1806-1810; from 1829 again attached to the Muséum (1829 professeur de culture); mainly plant anatomist and physiologist. 
+**Abbreviated name**: *Mirb.*
 
 #### Herbarium and types
 

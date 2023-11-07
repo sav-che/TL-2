@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/item/104077#page/845/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33333970) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Standley, Paul Carpenter (1884-1963), American botanist; M.Sc. New Mexico State College 1908; assistant ib. 1908-1909; botanist at the U.S. National Museum, Smithsonian Institution 1909-1928; id. with the Field Museum of Natural History, Chicago 1928-1950; with the Escuela agrícola Panamericana 1950-1956; in retirement at Tegucigalpa 1957-1963; prolific botanist, collector and student of the New World floras, botanical explorer of Central and Western North America. (*Standl.*).
+Standley, Paul Carpenter (1884-1963), American botanist; M.Sc. New Mexico State College 1908; assistant ib. 1908-1909; botanist at the U.S. National Museum, Smithsonian Institution 1909-1928; id. with the Field Museum of Natural History, Chicago 1928-1950; with the Escuela agrícola Panamericana 1950-1956; in retirement at Tegucigalpa 1957-1963; prolific botanist, collector and student of the New World floras, botanical explorer of Central and Western North America. 
+**Abbreviated name**: *Standl.*
 
 #### Herbarium and types
 

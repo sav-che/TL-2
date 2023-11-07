@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103833#page/198/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33259232) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delpino, Giacomo Giuseppe Federico {std. Delpino}|first entry]] for this author
 
 ### Author
 
-\* Delpino, Giacomo Giuseppe Federico (1833-1905), Italian botanist, born in Chiavari 17 Dec 1833, died 14 Mai 1905 in Napoli, studied from 1849 at the University of Genua mathematics and natural sciences, but early (ca. 1852) became employed by the finance ministry until 1867, with Parlatore as botanist 1867-1871, teacher at Kloster Vallombrosa 1871-1875, as professor and director of the botanical garden in Genua 1875-1884, at University of Bologna 1884-1893, ultimately at the Botanical Garden of Napoli 1894-1902. (*Delpino*).
+\* Delpino, Giacomo Giuseppe Federico (1833-1905), Italian botanist, born in Chiavari 17 Dec 1833, died 14 Mai 1905 in Napoli, studied from 1849 at the University of Genua mathematics and natural sciences, but early (ca. 1852) became employed by the finance ministry until 1867, with Parlatore as botanist 1867-1871, teacher at Kloster Vallombrosa 1871-1875, as professor and director of the botanical garden in Genua 1875-1884, at University of Bologna 1884-1893, ultimately at the Botanical Garden of Napoli 1894-1902. 
+**Abbreviated name**: *Delpino*
 
 #### Herbarium and types
 

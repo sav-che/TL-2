@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103834#page/130/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259612) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fehlner, Carl \[Karl\] (1859-1884), Austrian cryptogamist, born 9 Oct 1859 in St. Aegid (Niederösterreich), asst., botanical museum, Univ. of Vienna, died 9 Dec 1884 in Tübingen, Germany. (*Fehlner*).
+Fehlner, Carl \[Karl\] (1859-1884), Austrian cryptogamist, born 9 Oct 1859 in St. Aegid (Niederösterreich), asst., botanical museum, Univ. of Vienna, died 9 Dec 1884 in Tübingen, Germany. 
+**Abbreviated name**: *Fehlner*
 
 #### Herbarium and types
 

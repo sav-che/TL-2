@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103860#page/328/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265995) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Conzatti, Cassiano {std. Conz.}|first entry]] for this author
 
 ### Author
 
-\* Conzatti, Cassiano (1862-1951), Italian born botanist, moved to Mexico 1881, autodidact who was interested in plants, settled at Oaxaca and set up a botanical garden 1909, became director of the national herbarium in 1917, collected widely in Mexico as well as in Chile, died 2 Mar 1951. (*Conz.*).
+\* Conzatti, Cassiano (1862-1951), Italian born botanist, moved to Mexico 1881, autodidact who was interested in plants, settled at Oaxaca and set up a botanical garden 1909, became director of the national herbarium in 1917, collected widely in Mexico as well as in Chile, died 2 Mar 1951. 
+**Abbreviated name**: *Conz.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103835#page/154/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33260132) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dudley, William Russel (1849-1911), American botanist, born 1 Mar 1849 at Guilford, Connecticut, died 4 Jun 1911 at Porto Alto, California, educated at Cornell University, with the class of 1874, master's degree at the same institution 1876, instructor in botany Cornell University 1873-1876, assistant professor 1876-1892, professor of biology in the University of Indiana 1880-1893, at Strasbourg and Berlin 1886-1887, professor syst. botany at Stanford University 1893-1910. (*Dudley*).
+Dudley, William Russel (1849-1911), American botanist, born 1 Mar 1849 at Guilford, Connecticut, died 4 Jun 1911 at Porto Alto, California, educated at Cornell University, with the class of 1874, master's degree at the same institution 1876, instructor in botany Cornell University 1873-1876, assistant professor 1876-1892, professor of biology in the University of Indiana 1880-1893, at Strasbourg and Berlin 1886-1887, professor syst. botany at Stanford University 1893-1910. 
+**Abbreviated name**: *Dudley*
 
 #### Herbarium and types
 

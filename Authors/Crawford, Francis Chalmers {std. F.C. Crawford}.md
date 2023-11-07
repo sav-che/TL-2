@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103860#page/462/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33266129) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crawford, Francis Chalmers (1851-1908), British Stockbroker and botanist, born North Berwick, 24 Aug 1851, educated at Edinburgh Academy (1863-1868), sometime voluntary demonstrator of botany at the Royal Botanic Gardens Edinburgh 1897-1908, worked mainly on Carex, for some time president of the Microscopical Society, died 9 Feb 1908, the proof-sheets for his book arrived the day of his funeral \[sic\]. (*F.C. Crawford*).
+Crawford, Francis Chalmers (1851-1908), British Stockbroker and botanist, born North Berwick, 24 Aug 1851, educated at Edinburgh Academy (1863-1868), sometime voluntary demonstrator of botany at the Royal Botanic Gardens Edinburgh 1897-1908, worked mainly on Carex, for some time president of the Microscopical Society, died 9 Feb 1908, the proof-sheets for his book arrived the day of his funeral \[sic\]. 
+**Abbreviated name**: *F.C. Crawford*
 
 #### Herbarium and types
 

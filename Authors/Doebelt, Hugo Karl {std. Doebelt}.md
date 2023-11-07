@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/103835#page/29/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doebelt, Hugo Karl (1885-x), German botanist, born 15 Jun 1885 at Halle a. S., educated at the Oberrealschule of Halle until 1904, natural sciences at the University of Halle 1909. (*Doebelt*).
+Doebelt, Hugo Karl (1885-x), German botanist, born 15 Jun 1885 at Halle a. S., educated at the Oberrealschule of Halle until 1904, natural sciences at the University of Halle 1909. 
+**Abbreviated name**: *Doebelt*
 
 #### Herbarium and types
 

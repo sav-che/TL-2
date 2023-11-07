@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103683#page/30/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33212074) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stolz, Adolf \[Ferdinand\] (1871-1917), South-Africa-born (son of a Moravian brother) German missionary and botanical collector; merchant at Neuwied a. Rh. and Wriezen 1885-1897; merchant in the service of the mission of the Moravian Brethern (Herrnhuter Mission) in Nyassaland (German East Africa; h.t. Malawi) charged with the development of plantations 1898-1914; from 1914-1917 in Germany, ultimately in the mission's hospital for tropical diseases at Tübingen. (*Stolz*).
+Stolz, Adolf \[Ferdinand\] (1871-1917), South-Africa-born (son of a Moravian brother) German missionary and botanical collector; merchant at Neuwied a. Rh. and Wriezen 1885-1897; merchant in the service of the mission of the Moravian Brethern (Herrnhuter Mission) in Nyassaland (German East Africa; h.t. Malawi) charged with the development of plantations 1898-1914; from 1914-1917 in Germany, ultimately in the mission's hospital for tropical diseases at Tübingen. 
+**Abbreviated name**: *Stolz*
 
 #### Herbarium and types
 

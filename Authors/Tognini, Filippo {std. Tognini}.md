@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103683#page/394/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tognini, Filippo (1868-1896), Italian botanist (mycologist); studied at the Istituto superiore, Facoltà di Scienze, Firenze 1885-1886; assistant with Briosi at Pavia 1886; Dr. phil. ib. 1889; curator of the Botanical Garden Pavia 1896. (*Tognini*).
+Tognini, Filippo (1868-1896), Italian botanist (mycologist); studied at the Istituto superiore, Facoltà di Scienze, Firenze 1885-1886; assistant with Briosi at Pavia 1886; Dr. phil. ib. 1889; curator of the Botanical Garden Pavia 1896. 
+**Abbreviated name**: *Tognini*
 
 #### Herbarium and types
 

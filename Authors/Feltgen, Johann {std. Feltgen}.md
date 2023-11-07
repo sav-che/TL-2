@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103834#page/149/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33259631) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Feltgen, Johann (1833-1904), Luxembourg physician, studied the fungi of Luxembourg, lived in the Kanton Mersch, died 11 Mai 1904. (*Feltgen*).
+Feltgen, Johann (1833-1904), Luxembourg physician, studied the fungi of Luxembourg, lived in the Kanton Mersch, died 11 Mai 1904. 
+**Abbreviated name**: *Feltgen*
 
 #### Note
 

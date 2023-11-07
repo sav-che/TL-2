@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103253#page/85/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33068301) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harshberger, John William Cleghorn (1869-1929), American botanist at Philadelphia. (*Harshb.*).
+Harshberger, John William Cleghorn (1869-1929), American botanist at Philadelphia. 
+**Abbreviated name**: *Harshb.*
 
 #### Herbarium and types
 

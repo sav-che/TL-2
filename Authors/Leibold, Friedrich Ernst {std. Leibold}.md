@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/item/103253#page/851/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leibold, Friedrich Ernst (1804-1864), German gardener and botanical explorer; at the Cape 1835-1838 (with Baron von Ludwig); in Cuba and Mexico 1839-1844; settled in the United States 1847; farmer in Texas, ultimately at New Orleans. (*Leibold*).
+Leibold, Friedrich Ernst (1804-1864), German gardener and botanical explorer; at the Cape 1835-1838 (with Baron von Ludwig); in Cuba and Mexico 1839-1844; settled in the United States 1847; farmer in Texas, ultimately at New Orleans. 
+**Abbreviated name**: *Leibold*
 
 #### Herbarium and types
 

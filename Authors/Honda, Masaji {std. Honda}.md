@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103253#page/293/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33068509) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Honda, Masaji (1897-x), Japanese botanist. (*Honda*).
+Honda, Masaji (1897-x), Japanese botanist. 
+**Abbreviated name**: *Honda*
 
 #### Herbarium and types
 

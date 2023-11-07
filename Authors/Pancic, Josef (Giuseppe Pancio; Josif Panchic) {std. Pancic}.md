@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103624#page/56/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33189475) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pancic, Josef (Giuseppe Pancio; Josif Panchic) (1814-1888), Croatian botanist and physician; M.D. Budapest 1842; regional physician in Serbia 1846-1853; high school teacher (natural history) at the Belgrad Lyceum and director of the Belgrad botanical garden. (*Pancic*).
+Pancic, Josef (Giuseppe Pancio; Josif Panchic) (1814-1888), Croatian botanist and physician; M.D. Budapest 1842; regional physician in Serbia 1846-1853; high school teacher (natural history) at the Belgrad Lyceum and director of the Belgrad botanical garden. 
+**Abbreviated name**: *Pancic*
 
 #### Herbarium and types
 

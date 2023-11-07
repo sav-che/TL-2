@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/103250#page/353/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33066633) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilhelm, Gottlieb Tobias (1758-1811), German (Bavarian) clergyman and naturalist in Augsburg. (*G. Wilh.*).
+Wilhelm, Gottlieb Tobias (1758-1811), German (Bavarian) clergyman and naturalist in Augsburg. 
+**Abbreviated name**: *G. Wilh.*
 
 #### Herbarium and types
 

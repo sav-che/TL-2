@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/103859#page/319/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265506) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bond, Richard Wallace (1914-1976), Australian botanist, born at Traralgon, at the Victorian School of Forestry, Creswich 1932, sometime in the Service of the Forests Commission, continued studies at Melbourne University, B. Sc. 1941, Bachelor of Commerce 1953, with Snowy Mountains Hydroelectric Authority at Cooma 1954-1965, retired because of blindness. (*R.W. Bond*).
+Bond, Richard Wallace (1914-1976), Australian botanist, born at Traralgon, at the Victorian School of Forestry, Creswich 1932, sometime in the Service of the Forests Commission, continued studies at Melbourne University, B. Sc. 1941, Bachelor of Commerce 1953, with Snowy Mountains Hydroelectric Authority at Cooma 1954-1965, retired because of blindness. 
+**Abbreviated name**: *R.W. Bond*
 
 #### Herbarium and types
 

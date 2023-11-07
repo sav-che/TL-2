@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/103832#page/482/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33258948) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guyot, Henry (1891-1950), Swiss pharmaceutical researcher and botanist with a keen interest in floristic botany and geology, born 26 Mai 1891 in Saint Imier (Ct. Berne), studied at the Collège de Porrentruy, passed his pharmacy examination 1915, Dr. ès-sciences naturelles 1917 Univ. of Geneva, taught school nr. Geneva 1918-1921, asst. to R.-H. Chodat 1918-1922, employed as a research scientist at Hoffmann-La Roche (pharmaceutical firm), Basel 1922-1950, died 12 Apr 1950 nr. Montreux. (*H. Guyot*).
+Guyot, Henry (1891-1950), Swiss pharmaceutical researcher and botanist with a keen interest in floristic botany and geology, born 26 Mai 1891 in Saint Imier (Ct. Berne), studied at the Collège de Porrentruy, passed his pharmacy examination 1915, Dr. ès-sciences naturelles 1917 Univ. of Geneva, taught school nr. Geneva 1918-1921, asst. to R.-H. Chodat 1918-1922, employed as a research scientist at Hoffmann-La Roche (pharmaceutical firm), Basel 1922-1950, died 12 Apr 1950 nr. Montreux. 
+**Abbreviated name**: *H. Guyot*
 
 #### Note
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103683#page/22/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33212082) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Størmer, Per (1907-x), Norwegian botanist at the Botanical Museum of the University of Oslo from 1933; first curator 1957; Dr. phil. Oslo 1969; professor of cryptogamic botany 1969-x. (*Størm.*).
+Størmer, Per (1907-x), Norwegian botanist at the Botanical Museum of the University of Oslo from 1933; first curator 1957; Dr. phil. Oslo 1969; professor of cryptogamic botany 1969-x. 
+**Abbreviated name**: *Størm.*
 
 #### Herbarium and types
 

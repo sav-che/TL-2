@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103861#page/435/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carroll, Isaac {std. Carroll}|first entry]] for this author
 
 ### Author
 
-\* Carroll, Isaac (1828-1880), Irish lichenologist, born at Aghada, County Cork, interested in first instance in the plants (soon mainly the lichens) of the counties Cork and Kerry, making often collections with David Moore (q.v.), visited Lapland 1864 as well as Iceland. (*Carroll*).
+\* Carroll, Isaac (1828-1880), Irish lichenologist, born at Aghada, County Cork, interested in first instance in the plants (soon mainly the lichens) of the counties Cork and Kerry, making often collections with David Moore (q.v.), visited Lapland 1864 as well as Iceland. 
+**Abbreviated name**: *Carroll*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103624#page/412/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33189869) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Price, Sarah \[Sadie\] Frances (1849-1903), American naturalist living at Bowling Green, Kentucky. (*S.F. Price*).
+Price, Sarah \[Sadie\] Frances (1849-1903), American naturalist living at Bowling Green, Kentucky. 
+**Abbreviated name**: *S.F. Price*
 
 #### Herbarium and types
 

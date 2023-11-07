@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/104137#page/408/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33355479) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mazza, Angelo (1844-1929), Italian algologist. (*Mazza*).
+Mazza, Angelo (1844-1929), Italian algologist. 
+**Abbreviated name**: *Mazza*
 
 #### Herbarium and types
 

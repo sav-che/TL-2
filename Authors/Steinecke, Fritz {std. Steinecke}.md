@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/item/104077#page/888/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33334013) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steinecke, Fritz (1892-?), German (Berlin) botanist; Dr. phil. Königsberg i. Pr. 1914; habil. ib. 1926; lecturer Botanical Garden, Königsberg i. Pr. 1934; extraord. prof. of botany ib. 1935; later teacher at Recklinghausen (1949) and Wuppertal-Barmen (1953). (*Steinecke*).
+Steinecke, Fritz (1892-?), German (Berlin) botanist; Dr. phil. Königsberg i. Pr. 1914; habil. ib. 1926; lecturer Botanical Garden, Königsberg i. Pr. 1934; extraord. prof. of botany ib. 1935; later teacher at Recklinghausen (1949) and Wuppertal-Barmen (1953). 
+**Abbreviated name**: *Steinecke*
 
 #### Herbarium and types
 

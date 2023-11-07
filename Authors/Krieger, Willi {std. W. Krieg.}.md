@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/item/103253#page/701/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33068917) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krieger, Willi (1886-1954), German desmidiologist; Dr. phil. Marburg 1927; from 1923 collaborator of Kolkwitz at the Berlin "Anstalt für Wasser-, Boden- und Lufthygiene". (*W. Krieg.*).
+Krieger, Willi (1886-1954), German desmidiologist; Dr. phil. Marburg 1927; from 1923 collaborator of Kolkwitz at the Berlin "Anstalt für Wasser-, Boden- und Lufthygiene". 
+**Abbreviated name**: *W. Krieg.*
 
 #### Herbarium and types
 

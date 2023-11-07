@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103250#page/176/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33066456) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weatherwax, Paul (1888-1976), American botanist; Dr. phil. Indiana Univ. 1918; assistant in botany ib. 1913-1915, instructor 1915-1918; associate professor Georgia 1919-1921; professor of botany Indiana Univ. 1921-1959; visiting professor Franklin College 1960-1963; emeritus professor Indiana Univ. 1959-1976. (*Weatherwax*).
+Weatherwax, Paul (1888-1976), American botanist; Dr. phil. Indiana Univ. 1918; assistant in botany ib. 1913-1915, instructor 1915-1918; associate professor Georgia 1919-1921; professor of botany Indiana Univ. 1921-1959; visiting professor Franklin College 1960-1963; emeritus professor Indiana Univ. 1959-1976. 
+**Abbreviated name**: *Weatherwax*
 
 #### Herbarium and types
 

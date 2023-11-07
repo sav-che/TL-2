@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103834#page/277/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33259759) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fletcher, James {std. Fletcher}|first entry]] for this author
 
 ### Author
 
-\* Fletcher, James (1852-1908), English-born Canadian botanist and naturalist, born 28 Mar 1852 in Ashe nr. Wrotham (Kent), educated at King's College, Rochester, employed by the Bank of British North America and posted from London to Canada 1874, joined the Library of Parliament as an accountant 1876, founding member, Ottawa Field-Naturalists' Club 1879, hon. entomologist, Dominion Dept. of Agriculture 1884, appointed Dominion entomologist and botanist 1886, and served as chief of Entomology and Botany Division 1887-1908, LL.D. 1896 Queen's Univ., Kingston, Ontario, Fellow, Royal Society of Canada, F.L.S., died 8 Nov 1908 in Montreal. (*Fletcher*).
+\* Fletcher, James (1852-1908), English-born Canadian botanist and naturalist, born 28 Mar 1852 in Ashe nr. Wrotham (Kent), educated at King's College, Rochester, employed by the Bank of British North America and posted from London to Canada 1874, joined the Library of Parliament as an accountant 1876, founding member, Ottawa Field-Naturalists' Club 1879, hon. entomologist, Dominion Dept. of Agriculture 1884, appointed Dominion entomologist and botanist 1886, and served as chief of Entomology and Botany Division 1887-1908, LL.D. 1896 Queen's Univ., Kingston, Ontario, Fellow, Royal Society of Canada, F.L.S., died 8 Nov 1908 in Montreal. 
+**Abbreviated name**: *Fletcher*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103683#page/168/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33212200) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tanaka, Tyôzaburô (1885-?), Japanese botanist; studied at Tokyo University, grad. 1910; Dr. agr. Tokyo 1932; lecturer Ueda Sericultural College 1912; botanist and translator USDA 1915; lecturer in horticulture Kyushu Imperial Univ. 1923; professor at Miyazahi Agr. College 1925; professor of horticulture and economic botany Taihoku Univ. from 1929; specialist on *Citrus*. (*Tanaka*).
+Tanaka, Tyôzaburô (1885-?), Japanese botanist; studied at Tokyo University, grad. 1910; Dr. agr. Tokyo 1932; lecturer Ueda Sericultural College 1912; botanist and translator USDA 1915; lecturer in horticulture Kyushu Imperial Univ. 1923; professor at Miyazahi Agr. College 1925; professor of horticulture and economic botany Taihoku Univ. from 1929; specialist on *Citrus*. 
+**Abbreviated name**: *Tanaka*
 
 #### Herbarium and types
 

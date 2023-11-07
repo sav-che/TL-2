@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/item/103414#page/856/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33120939) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Exell, Arthur Wallis {std. Exell} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Exell, Arthur Wallis (1901-x), British botanist, worker on the Flora Zambesiaca and the flora of Angola. (*Exell*).
+Exell, Arthur Wallis (1901-x), British botanist, worker on the Flora Zambesiaca and the flora of Angola. 
+**Abbreviated name**: *Exell*
 
 #### Herbarium and types
 

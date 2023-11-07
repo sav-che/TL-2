@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/item/103414#page/976/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/page/33121059) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Geheeb, Adalbert (Adelbert) {std. Geh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Geheeb, Adalbert (1842-1909), German botanist and pharmacist at Geisa, Thuringia. (*Geh.*).
+Geheeb, Adalbert (1842-1909), German botanist and pharmacist at Geisa, Thuringia. 
+**Abbreviated name**: *Geh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/item/104077#page/763/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33333888) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sorauer, Paul Carl Moritz (1839-1916), German (Silesian) phytopathologist; studied natural sciences in Berlin from 1862; Dr. phil. Rostock 1867; assistant at the agricultural museum Berlin 1867-1868; assistant at the agricultural experiment station at Dahme (prov. Brandenburg) 1868-1872; in charge of the plant-physiological experiment station of the Pomological Institute at Poskau, Oppeln 1872-1893; in retirement in Berlin. (*Sorauer*).
+Sorauer, Paul Carl Moritz (1839-1916), German (Silesian) phytopathologist; studied natural sciences in Berlin from 1862; Dr. phil. Rostock 1867; assistant at the agricultural museum Berlin 1867-1868; assistant at the agricultural experiment station at Dahme (prov. Brandenburg) 1868-1872; in charge of the plant-physiological experiment station of the Pomological Institute at Poskau, Oppeln 1872-1893; in retirement in Berlin. 
+**Abbreviated name**: *Sorauer*
 
 #### Herbarium and types
 

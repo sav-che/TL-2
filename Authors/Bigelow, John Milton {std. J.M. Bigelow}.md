@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103414#page/262/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33120345) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bigelow, John Milton {std. J.M. Bigelow} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bigelow, John Milton (1804-1878), American surgeon and botanist on the Whipple Expedition. (*J. M. Bigelow*).
+Bigelow, John Milton (1804-1878), American surgeon and botanist on the Whipple Expedition. 
+**Abbreviated name**: *J. M. Bigelow*
 
 #### Herbarium and types
 

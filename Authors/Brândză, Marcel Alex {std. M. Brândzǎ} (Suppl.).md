@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/103861#page/29/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33266326) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brândzǎ, Marcel Alex {std. M. Brândzǎ}|first entry]] for this author
 
 ### Author
 
-\* Brândză, Marcel Alex (1868-1934), Roumanian botanist and entomologist, lecturer in botany at the Pharmaceutical Faculty and curator of the cryptogamic collections of the Botanical Institute of the University at Bucarest, specialist in Myxomycetes. (*Brândză*).
+\* Brândză, Marcel Alex (1868-1934), Roumanian botanist and entomologist, lecturer in botany at the Pharmaceutical Faculty and curator of the cryptogamic collections of the Botanical Institute of the University at Bucarest, specialist in Myxomycetes. 
+**Abbreviated name**: *Brândză*
 
 #### Herbarium and types
 

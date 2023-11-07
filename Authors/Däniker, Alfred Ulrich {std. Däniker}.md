@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103833#page/15/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259049) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Däniker, Alfred Ulrich (1894-1957), Swiss botanist and ecologist, born at Steinmaur, Switzerland, travelled and studied in Europe 1921-1924, on an expedition to New Caledonia and the Loyalty Islands 1924-1926 (including a visit to Australia), from 1929 in charge of the Botanic Garden and Museum in Zürich, extraordinary professor and director of the Botanic Garden and Museum. (*Däniker*).
+Däniker, Alfred Ulrich (1894-1957), Swiss botanist and ecologist, born at Steinmaur, Switzerland, travelled and studied in Europe 1921-1924, on an expedition to New Caledonia and the Loyalty Islands 1924-1926 (including a visit to Australia), from 1929 in charge of the Botanic Garden and Museum in Zürich, extraordinary professor and director of the Botanic Garden and Museum. 
+**Abbreviated name**: *Däniker*
 
 #### Herbarium and types
 

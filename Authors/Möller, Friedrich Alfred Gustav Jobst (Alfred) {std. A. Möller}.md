@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/item/104137#page/548/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33355619) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Möller, Friedrich Alfred Gustav Jobst ("Alfred") (1860-1922), German (Prussian) forester and mycologist; pupil of O. Brefeld; Dr. phil. Eberswalde 1887; visited Brazil as diplomatic courier and "naturalista viajante do museu nacional" (Blumenau, Santa Catarina 1890-1893); later teacher (1899) and director (1906) of the forestry college at Eberswalde (Brandenburg). (*A. Möller*).
+Möller, Friedrich Alfred Gustav Jobst ("Alfred") (1860-1922), German (Prussian) forester and mycologist; pupil of O. Brefeld; Dr. phil. Eberswalde 1887; visited Brazil as diplomatic courier and "naturalista viajante do museu nacional" (Blumenau, Santa Catarina 1890-1893); later teacher (1899) and director (1906) of the forestry college at Eberswalde (Brandenburg). 
+**Abbreviated name**: *A. Möller*
 
 #### Herbarium and types
 

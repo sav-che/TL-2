@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103414#page/511/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33120594) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Casares-Gil, Antonio {std. Cas.-Gil} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Casares-Gil, Antonio (1871-1929), Spanish army physician and botanist. (*Cas.-Gil.*).
+Casares-Gil, Antonio (1871-1929), Spanish army physician and botanist. 
+**Abbreviated name**: *Cas.-Gil.*
 
 #### Herbarium and types
 

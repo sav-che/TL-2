@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103834#page/223/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33259705) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Alfred (1858-1913), German botanist (cryptogamist) and bacteriologist, born 17 Dec 1858 in Meissen where he attended school, later at the Annen-Realschule of Dresden, studied natural sciences in Leipzig 1876-1877, Würzburg 1877-1878 and Jena from 1879, Dr. Sci. Nat. 1879 Jena, docent 1882, then extraord. prof., Leipzig 1889, prof. and dir. of the Botanic Garden in Basel (Switzerland) 1901-1912, returned to Leipzig 1912, died 27 Mar 1913 (suicide). (*A. Fisch.*).
+Fischer, Alfred (1858-1913), German botanist (cryptogamist) and bacteriologist, born 17 Dec 1858 in Meissen where he attended school, later at the Annen-Realschule of Dresden, studied natural sciences in Leipzig 1876-1877, Würzburg 1877-1878 and Jena from 1879, Dr. Sci. Nat. 1879 Jena, docent 1882, then extraord. prof., Leipzig 1889, prof. and dir. of the Botanic Garden in Basel (Switzerland) 1901-1912, returned to Leipzig 1912, died 27 Mar 1913 (suicide). 
+**Abbreviated name**: *A. Fisch.*
 
 #### Note
 

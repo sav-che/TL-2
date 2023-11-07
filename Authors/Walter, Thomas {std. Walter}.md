@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103250#page/110/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33066390) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walter, Thomas (1740-1789), British-born botanist in North America; emigrated to South Carolina 1768; planter, merchant and politician. (*Walter*).
+Walter, Thomas (1740-1789), British-born botanist in North America; emigrated to South Carolina 1768; planter, merchant and politician. 
+**Abbreviated name**: *Walter*
 
 #### Herbarium and types
 

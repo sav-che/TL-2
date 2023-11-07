@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/item/103683#page/629/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Urbina y Altamirano, Manuel (1843-1906), Mexican botanist; studied at the Escuela nacional de Medecina, Mexico; medical and pharmaceutical examinations 1864; practicing physician and active in various medical and scientific functions; professor of botany at the Museo nacional from 1881, from 1889 also zoology; also connected with the Instituto médico nacional. (*Urbino*).
+Urbina y Altamirano, Manuel (1843-1906), Mexican botanist; studied at the Escuela nacional de Medecina, Mexico; medical and pharmaceutical examinations 1864; practicing physician and active in various medical and scientific functions; professor of botany at the Museo nacional from 1881, from 1889 also zoology; also connected with the Instituto médico nacional. 
+**Abbreviated name**: *Urbino*
 
 #### Herbarium and types
 

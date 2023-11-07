@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103859#page/222/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33265409) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bleier, Hubert (1896-x), Austrian graduated agricultural engineer, assistant at the phytopathology department of the college of soil science Vienna 1926, lecturer at the Agricultural Institute of the University of Jena 1936, in addition idem on chromosome research and genetics at Halle a. Saale. (*Bleier*).
+Bleier, Hubert (1896-x), Austrian graduated agricultural engineer, assistant at the phytopathology department of the college of soil science Vienna 1926, lecturer at the Agricultural Institute of the University of Jena 1936, in addition idem on chromosome research and genetics at Halle a. Saale. 
+**Abbreviated name**: *Bleier*
 
 #### Herbarium and types
 

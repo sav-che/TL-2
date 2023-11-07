@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/item/103414#page/615/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33120698) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crié, Louis Auguste {std. Crié} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Crié, Louis Auguste (1850-1912), French palaeobotanist at Rennes. (*Crié*).
+Crié, Louis Auguste (1850-1912), French palaeobotanist at Rennes. 
+**Abbreviated name**: *Crié*
 
 #### Collections
 

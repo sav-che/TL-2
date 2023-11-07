@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103834#page/297/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33259779) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flueck \[Flück\], Hans (1901-1970), Swiss pharmacognosist, plant ecologist and anatomist, born 6 Mar 1901 in Interlaken, Dr. Sci. Nat. 1925 E.T.H. Zürich, also dipl. pharmacist, in Brienz (Kt. Bern), extraord. prof. of pharmacognosy and technical microscopy 1930, then full prof. 1935, both E.T.H. Zürich. (*H. Flueck*).
+Flueck \[Flück\], Hans (1901-1970), Swiss pharmacognosist, plant ecologist and anatomist, born 6 Mar 1901 in Interlaken, Dr. Sci. Nat. 1925 E.T.H. Zürich, also dipl. pharmacist, in Brienz (Kt. Bern), extraord. prof. of pharmacognosy and technical microscopy 1930, then full prof. 1935, both E.T.H. Zürich. 
+**Abbreviated name**: *H. Flueck*
 
 #### Herbarium and types
 

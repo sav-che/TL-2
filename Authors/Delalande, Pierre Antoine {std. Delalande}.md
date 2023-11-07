@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103833#page/182/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33259216) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delalande, Pierre Antoine (1787-1823), French naturalist, with the Muséum d'Histoire naturelle de Paris, was sent 1818 to South Africa in order to find animals and plants at the Cape of Good Hope, returned to France 1820 bringing 800-900 living plants. (*Delalande*).
+Delalande, Pierre Antoine (1787-1823), French naturalist, with the Muséum d'Histoire naturelle de Paris, was sent 1818 to South Africa in order to find animals and plants at the Cape of Good Hope, returned to France 1820 bringing 800-900 living plants. 
+**Abbreviated name**: *Delalande*
 
 #### Herbarium and types
 

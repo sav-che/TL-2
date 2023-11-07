@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103253#page/478/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33068694) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnstone, William Grosart (died c. 1860), British algologist. (*Johnstone*).
+Johnstone, William Grosart (died c. 1860), British algologist. 
+**Abbreviated name**: *Johnstone*
 
 #### Herbarium and types
 

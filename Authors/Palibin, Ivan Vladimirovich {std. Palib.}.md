@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/item/103624#page/28/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33189501) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palibin, Ivan Vladimirovich (1872-1949), Russian botanist; Dr. phil. 1934; in various ways associated with the St. Petersburg botanical garden, later Komarov Botanical Institute, from 1895; from 1906-1910 at the Jeneve University; from 1910-1915 at the St. Petersburg botanical garden; from 1915-1922 at Batoem; 1923-1929 head botanist, 1929-1932 director of the Botanical Museum and Garden at Leningrad; from 1932-1949 head of the Palaeobotanical Department at Leningrad; organized a palaeobotanical cabinet at the Petroleum Institute 1931. (*Palib.*).
+Palibin, Ivan Vladimirovich (1872-1949), Russian botanist; Dr. phil. 1934; in various ways associated with the St. Petersburg botanical garden, later Komarov Botanical Institute, from 1895; from 1906-1910 at the Jeneve University; from 1910-1915 at the St. Petersburg botanical garden; from 1915-1922 at Batoem; 1923-1929 head botanist, 1929-1932 director of the Botanical Museum and Garden at Leningrad; from 1932-1949 head of the Palaeobotanical Department at Leningrad; organized a palaeobotanical cabinet at the Petroleum Institute 1931. 
+**Abbreviated name**: *Palib.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/item/103414#page/558/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33120641) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clements, Frederic Edward {std. Clem.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Clements, Frederic Edward (1874-1945), American ecologist, mycologist, climatologist, and neo-lamarckian philosopher. (*Clements*).
+Clements, Frederic Edward (1874-1945), American ecologist, mycologist, climatologist, and neo-lamarckian philosopher. 
+**Abbreviated name**: *Clements*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103414#page/276/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33120359) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blakeslee, Albert Francis {std. Blakeslee} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blakeslee, Albert Francis (1874-1954), American botanist. (*Blakeslee*).
+Blakeslee, Albert Francis (1874-1954), American botanist. 
+**Abbreviated name**: *Blakeslee*
 
 #### Herbarium and types
 

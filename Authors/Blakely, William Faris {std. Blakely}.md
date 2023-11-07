@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103859#page/206/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33265393) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blakely, William Faris (1875-1941), Australian (New South Wales) botanist and collector, on the staff of the Jenolan Caves 1898, associated with J.H. Maiden, on the staff of the Sydney Botanic Gardens 1900, assistant at the National Herbarium of New South Wales, Sydney 1913-1940, worked e.g. on Acacia, Loranthus, and Eucalypts, in retirement Honorary Custodian of the New South Wales *Eucalyptus* collection. (*Blakely*).
+Blakely, William Faris (1875-1941), Australian (New South Wales) botanist and collector, on the staff of the Jenolan Caves 1898, associated with J.H. Maiden, on the staff of the Sydney Botanic Gardens 1900, assistant at the National Herbarium of New South Wales, Sydney 1913-1940, worked e.g. on Acacia, Loranthus, and Eucalypts, in retirement Honorary Custodian of the New South Wales *Eucalyptus* collection. 
+**Abbreviated name**: *Blakely*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/item/103624#page/19/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33189510) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Page, William Bridgewater (1790-1871), British nurseryman at Hammersmith and Southampton. (*Page*).
+Page, William Bridgewater (1790-1871), British nurseryman at Hammersmith and Southampton. 
+**Abbreviated name**: *Page*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103624#page/465/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quandt, Christian (1720-post 1807), Baltic German/Latvian clergyman and missionary; educated with the Moravian brethren; sometime teacher at a boarding-school for boys at Neudietendorf; missionary in Suriname 1768-1780; returned to Europe 1780, ultimately at Herrnhut. (*Quandt*).
+Quandt, Christian (1720-post 1807), Baltic German/Latvian clergyman and missionary; educated with the Moravian brethren; sometime teacher at a boarding-school for boys at Neudietendorf; missionary in Suriname 1768-1780; returned to Europe 1780, ultimately at Herrnhut. 
+**Abbreviated name**: *Quandt*
 
 #### Herbarium and types
 

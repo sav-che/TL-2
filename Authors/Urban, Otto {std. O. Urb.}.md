@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/item/103683#page/629/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Urban, Otto (*fl*. 1934), German clergyman and botanist; some time rector of the Colegio Alemán de Osorno in Chile. (*O. Urb.*).
+Urban, Otto (*fl*. 1934), German clergyman and botanist; some time rector of the Colegio Alemán de Osorno in Chile. 
+**Abbreviated name**: *O. Urb.*
 
 #### Herbarium and types
 

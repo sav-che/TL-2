@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/103859#page/150/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33265337) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Besser, Wilibald Swibert Joseph Gottlieb von {std. Besser}|first entry]] for this author
 
 ### Author
 
-\* Besser, Wilibald Swibert Joseph Gottlieb von (1784-1842), Austrian botanist, born at Innsbruck(Tirol), educated in Lemberg, studied at the University of Cracow 1805, Dr. med. ib. 1807, medical assistant at the university 1808, in Vienna 1808-1809, teacher in botany and zoology, and director of the botanical garden of the Gymnasium (from 1816 Lyceum) at Krzemieniec 1809-1831, after the abolishment of the Lyceum only with the botanical garden 1831-1835, professor of botany at Kiew 1835-1841, in retirement in Krzemieniec. (*Besser*).
+\* Besser, Wilibald Swibert Joseph Gottlieb von (1784-1842), Austrian botanist, born at Innsbruck(Tirol), educated in Lemberg, studied at the University of Cracow 1805, Dr. med. ib. 1807, medical assistant at the university 1808, in Vienna 1808-1809, teacher in botany and zoology, and director of the botanical garden of the Gymnasium (from 1816 Lyceum) at Krzemieniec 1809-1831, after the abolishment of the Lyceum only with the botanical garden 1831-1835, professor of botany at Kiew 1835-1841, in retirement in Krzemieniec. 
+**Abbreviated name**: *Besser*
 
 #### Herbarium and types
 

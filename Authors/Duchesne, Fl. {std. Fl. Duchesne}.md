@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103835#page/146/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33260124) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duchesne, Fl. (fl. 1938), Belgian botanist, chef de Section au Musée du Congo Belge. (*Fl. Duchesne*).
+Duchesne, Fl. (fl. 1938), Belgian botanist, chef de Section au Musée du Congo Belge. 
+**Abbreviated name**: *Fl. Duchesne*
 
 #### Herbarium and types
 

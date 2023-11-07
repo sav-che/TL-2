@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103858#page/262/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33264977) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baez, Juan Romualdo (fl. 1933-1942), Argentine botanist, director-general Dept. agrícola-ganadero Paraná, Director of the Escuela nacional de agricoltura Las Delicias, Paraná. (*Baez*).
+Baez, Juan Romualdo (fl. 1933-1942), Argentine botanist, director-general Dept. agrícola-ganadero Paraná, Director of the Escuela nacional de agricoltura Las Delicias, Paraná. 
+**Abbreviated name**: *Baez*
 
 #### Herbarium and types
 

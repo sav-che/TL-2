@@ -1,10 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/item/104077#page/917/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33334042) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sterne, Carus \[pseudonym for Ernst Ludwig Krause\] (1839-1903), German self-taught natural scientist and popularizing author; strong proponent of the ideas of Charles Darwin and Ernst Häckel. (*Sterne*).
-
+Sterne, Carus \[pseudonym for Ernst Ludwig Krause\] (1839-1903), German self-taught natural scientist and popularizing author; strong proponent of the ideas of Charles Darwin and Ernst Häckel. 
+**Abbreviated name**: *Sterne*
 **Alternate abbreviation:** (*E.L. Krause*)
 
 #### Herbarium and types

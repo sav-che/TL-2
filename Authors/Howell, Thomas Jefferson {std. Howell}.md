@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103253#page/376/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33068592) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howell, Thomas Jefferson (1842-1912), American botanist, pioneer of Oregon and of the knowledge of the Northwestern American flora, discovered *Picea Breweriana*. (*Howell*).
+Howell, Thomas Jefferson (1842-1912), American botanist, pioneer of Oregon and of the knowledge of the Northwestern American flora, discovered *Picea Breweriana*. 
+**Abbreviated name**: *Howell*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 885](https://www.biodiversitylibrary.org/item/104077#page/899/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 885](https://www.biodiversitylibrary.org/page/33334024) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stenström, Karl Otto Edvard (1858-1901), Swedish botanist; Dr. phil. Uppsala 1890; from 1897 teacher at a high school in Norrköping. (*Stenström*).
+Stenström, Karl Otto Edvard (1858-1901), Swedish botanist; Dr. phil. Uppsala 1890; from 1897 teacher at a high school in Norrköping. 
+**Abbreviated name**: *Stenström*
 
 #### Herbarium and types
 

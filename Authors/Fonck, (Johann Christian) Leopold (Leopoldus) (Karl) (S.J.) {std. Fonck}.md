@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103834#page/317/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33259799) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fonck, \[Johann Christian\] Leopold \[Leopoldus\] \[Karl\] (S.J.) (1865-1930), German theologian and amateur botanist, born 14 Jan 1865 in Wissen nr. Weeze (Dusseldorf Distr.), studied philosophy and theology in Rome 1883-1890 (ordained 1889), taught religion in Telgte (Westphalia) 1890-1892, accepted into the Jesuit order 1892, studied in England 1893, traveled in Egypt and Palestine 1895, studied in Berlin and Munich 1896-1899, Prof. for New Testament Exegesis, Innsbruck 1901-1907, visited Palestine again 1911 and 1913, in Switzerland 1915-1918, Prof. for Biblical Exegesis, Rome 1919-1929, died 19 Oct 1930 in Vienna. (*Fonck*).
+Fonck, \[Johann Christian\] Leopold \[Leopoldus\] \[Karl\] (S.J.) (1865-1930), German theologian and amateur botanist, born 14 Jan 1865 in Wissen nr. Weeze (Dusseldorf Distr.), studied philosophy and theology in Rome 1883-1890 (ordained 1889), taught religion in Telgte (Westphalia) 1890-1892, accepted into the Jesuit order 1892, studied in England 1893, traveled in Egypt and Palestine 1895, studied in Berlin and Munich 1896-1899, Prof. for New Testament Exegesis, Innsbruck 1901-1907, visited Palestine again 1911 and 1913, in Switzerland 1915-1918, Prof. for Biblical Exegesis, Rome 1919-1929, died 19 Oct 1930 in Vienna. 
+**Abbreviated name**: *Fonck*
 
 #### Herbarium and types
 

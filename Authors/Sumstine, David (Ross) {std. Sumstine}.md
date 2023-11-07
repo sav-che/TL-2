@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103683#page/103/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33212135) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sumstine, David \[Ross\] (1870-1965), American mycologist; M.S. Univ. Pittsburgh 1908; Dr. phil. Pennsylvania College 1910; assistant for botany, Carnegie Museum, Pittsburgh from 1898; Pittsburgh high school, teacher 1909-1912, principal 1912-1926, director from 1926; from 1939 research appointment Pittsburgh schools; ordained minister of the Lutheran church. (*Sumstine*).
+Sumstine, David \[Ross\] (1870-1965), American mycologist; M.S. Univ. Pittsburgh 1908; Dr. phil. Pennsylvania College 1910; assistant for botany, Carnegie Museum, Pittsburgh from 1898; Pittsburgh high school, teacher 1909-1912, principal 1912-1926, director from 1926; from 1939 research appointment Pittsburgh schools; ordained minister of the Lutheran church. 
+**Abbreviated name**: *Sumstine*
 
 #### Herbarium and types
 

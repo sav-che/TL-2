@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/item/103624#page/917/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rossi, Giovanni Battista (*fl*. 1825), Italian gardener; curator of the botanical garden of Monza, nr. Milano 1825-1843. (*G. Rossi*).
+Rossi, Giovanni Battista (*fl*. 1825), Italian gardener; curator of the botanical garden of Monza, nr. Milano 1825-1843. 
+**Abbreviated name**: *G. Rossi*
 
 #### Herbarium and types
 

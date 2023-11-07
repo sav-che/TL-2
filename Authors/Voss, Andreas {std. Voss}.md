@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/item/103683#page/794/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33212826) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voss, Andreas (1857-1924), German (Bremen) author on horticulture, botanical nomenclature and meteorology; gardener with the Landwirtschaftsschule Hildesheim 1878-1882; university gardener Göttingen 1882-1890; from 1890 independent, living from his activities as author. (*Voss*).
+Voss, Andreas (1857-1924), German (Bremen) author on horticulture, botanical nomenclature and meteorology; gardener with the Landwirtschaftsschule Hildesheim 1878-1882; university gardener Göttingen 1882-1890; from 1890 independent, living from his activities as author. 
+**Abbreviated name**: *Voss*
 
 #### Herbarium and types
 

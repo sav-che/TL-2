@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103860#page/191/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clark, Josephine Adelaide (1856-x), American botanist, born 9 Mar 1856, Weston, Mass., later at U.S. Dept. Agric., asst. librarian 1891-1900, librarian 1901-1907, at Smith College library 1907-1919. (*J.A. Clark*).
+Clark, Josephine Adelaide (1856-x), American botanist, born 9 Mar 1856, Weston, Mass., later at U.S. Dept. Agric., asst. librarian 1891-1900, librarian 1901-1907, at Smith College library 1907-1919. 
+**Abbreviated name**: *J.A. Clark*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103683#page/238/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tessendorff, \[Konrad\] Ferdinand (1879-1924), German (Prussian) botanist and high school teacher; state teacher's examination Berlin 1905; assistant teacher at the Hohenzollernschule, Berlin-Schöneberg 1906; "Oberlehrer", from 1920 "Oberstudiendirector", at the Helmholtz-Realgymnasium, ib. 1907-1924; on active service 1917-1918; associate of Paul Graebner; librarian of the Botanischer Verein der Mark Brandenburg 1910-1924; associated with the Botanisches Museum, Berlin-Dahlem. (*Tessend.*).
+Tessendorff, \[Konrad\] Ferdinand (1879-1924), German (Prussian) botanist and high school teacher; state teacher's examination Berlin 1905; assistant teacher at the Hohenzollernschule, Berlin-Schöneberg 1906; "Oberlehrer", from 1920 "Oberstudiendirector", at the Helmholtz-Realgymnasium, ib. 1907-1924; on active service 1917-1918; associate of Paul Graebner; librarian of the Botanischer Verein der Mark Brandenburg 1910-1924; associated with the Botanisches Museum, Berlin-Dahlem. 
+**Abbreviated name**: *Tessend.*
 
 #### Herbarium and types
 

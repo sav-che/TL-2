@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103835#page/336/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33260314) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elrod, Ralph Perry (fl. 1939-1940), American mycologist. (*R.P. Elrod*).
+Elrod, Ralph Perry (fl. 1939-1940), American mycologist. 
+**Abbreviated name**: *R.P. Elrod*
 
 #### Herbarium and types
 

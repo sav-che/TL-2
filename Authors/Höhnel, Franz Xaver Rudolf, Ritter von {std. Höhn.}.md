@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/103253#page/255/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33068471) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Höhnel, Franz Xaver Rudolf, Ritter von (1852-1920), Austrian bryologist and mycologist; Dr. phil Strassburg 1877; ultimately (1884, 1888) professor of botany at the Technische Hochschule, Wien. (*Höhn.*).
+Höhnel, Franz Xaver Rudolf, Ritter von (1852-1920), Austrian bryologist and mycologist; Dr. phil Strassburg 1877; ultimately (1884, 1888) professor of botany at the Technische Hochschule, Wien. 
+**Abbreviated name**: *Höhn.*
 
 #### Herbarium and types
 

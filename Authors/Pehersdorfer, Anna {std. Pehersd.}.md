@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103624#page/159/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33189616) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pehersdorfer, Anna (1849-1925), Austrian botanist, teacher at a girl's college in Steyr. (*Pehersd.*).
+Pehersdorfer, Anna (1849-1925), Austrian botanist, teacher at a girl's college in Steyr. 
+**Abbreviated name**: *Pehersd.*
 
 #### Herbarium and types
 

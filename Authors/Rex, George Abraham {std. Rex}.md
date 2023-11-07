@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/item/103624#page/762/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33190219) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rex, George Abraham (1845-1895), American physician and mycologist in Philadelphia; Dr. med. Univ. Pennsylvania 1868; demonstrator of anatomy at the University of Pennsylvania; conservator of the Microscopical Section of the Academy of natural Sciences 1890-1895. (*Rex*).
+Rex, George Abraham (1845-1895), American physician and mycologist in Philadelphia; Dr. med. Univ. Pennsylvania 1868; demonstrator of anatomy at the University of Pennsylvania; conservator of the Microscopical Section of the Academy of natural Sciences 1890-1895. 
+**Abbreviated name**: *Rex*
 
 #### Herbarium and types
 

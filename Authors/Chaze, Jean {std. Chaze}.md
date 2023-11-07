@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103860#page/80/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33265747) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chaze, Jean (1895-?), French mycologist, born at Ruoms, Ardèche, Dr. ès. Sci. 1931 at the Faculty of Sciences, Paris, subsequently assistant in botany. (*Chaze*).
+Chaze, Jean (1895-?), French mycologist, born at Ruoms, Ardèche, Dr. ès. Sci. 1931 at the Faculty of Sciences, Paris, subsequently assistant in botany. 
+**Abbreviated name**: *Chaze*
 
 #### Herbarium and types
 

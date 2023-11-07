@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/item/104077#page/565/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33333690) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shaw, George (1751-1813), British naturalist; MD Oxford 1787; assistant lecturer in botany Oxford 1788; keeper of natural history collections British Museum 1807-1813. (*G. Shaw*).
+Shaw, George (1751-1813), British naturalist; MD Oxford 1787; assistant lecturer in botany Oxford 1788; keeper of natural history collections British Museum 1807-1813. 
+**Abbreviated name**: *G. Shaw*
 
 #### Herbarium and types
 

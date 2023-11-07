@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/item/103624#page/21/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33189508) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pailleux, \[Nicolas\] Auguste (1812-1898), French botanist; owner and director of an embroidery firm at Saint Pierre-lez-Calars ca. 1840-1871; in retirement at Crosnes nr. Villeneuve-Saint-Georges dedicating himself to horticulture developing new cultivars of vegetables; introduced the chinese artichoke ("Crosne"). (*Pailleux*).
+Pailleux, \[Nicolas\] Auguste (1812-1898), French botanist; owner and director of an embroidery firm at Saint Pierre-lez-Calars ca. 1840-1871; in retirement at Crosnes nr. Villeneuve-Saint-Georges dedicating himself to horticulture developing new cultivars of vegetables; introduced the chinese artichoke ("Crosne"). 
+**Abbreviated name**: *Pailleux*
 
 #### Herbarium and types
 

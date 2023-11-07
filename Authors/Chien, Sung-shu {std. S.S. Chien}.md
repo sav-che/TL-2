@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/item/103860#page/111/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265778) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chien, Sung-shu (Ch'ien Ch'ung-shu) (1883 \[not 1885\]-1965), Chinese botanist at the Biological Laboratory of the Science Society of China, Peipei, Chungking Szechuan, also at the Institute of Botany, Academia Sinica, Western City, Peking. (*S.S. Chien*).
+Chien, Sung-shu (Ch'ien Ch'ung-shu) (1883 \[not 1885\]-1965), Chinese botanist at the Biological Laboratory of the Science Society of China, Peipei, Chungking Szechuan, also at the Institute of Botany, Academia Sinica, Western City, Peking. 
+**Abbreviated name**: *S.S. Chien*
 
 #### Herbarium and types
 

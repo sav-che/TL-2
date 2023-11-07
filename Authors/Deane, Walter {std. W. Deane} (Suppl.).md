@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103833#page/134/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33259168) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deane, Walter {std. W. Deane}|first entry]] for this author
 
 ### Author
 
-\* Deane, Walter (1848-1930), American botanist and ornithologist, born 23 Apr 1848 at Boston, Mass., graduated from Harvard College 1870, teacher at St. Mark's School at Southboro, Mass., later at the Hopkinson School in Boston, turned fully to science from 1895, ca. 10 years in the Brewster ornithological Museum in Cambridge, one of the founders of the New England Botanical Club, president 1908-1911, died at Cambridge, Mass. 30 Jul 1930. (*W. Deane*).
+\* Deane, Walter (1848-1930), American botanist and ornithologist, born 23 Apr 1848 at Boston, Mass., graduated from Harvard College 1870, teacher at St. Mark's School at Southboro, Mass., later at the Hopkinson School in Boston, turned fully to science from 1895, ca. 10 years in the Brewster ornithological Museum in Cambridge, one of the founders of the New England Botanical Club, president 1908-1911, died at Cambridge, Mass. 30 Jul 1930. 
+**Abbreviated name**: *W. Deane*
 
 #### Herbarium and types
 

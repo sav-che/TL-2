@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103624#page/379/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pouchet, Félix Archimède (1800-1872), French naturalist and physician; Dr. med. Paris 1827; professor of botany at the Jardin des Plantes, and director of the Muséum d'Histoire naturelle, Rouen from 1821-1872. (*F. Pouchet*).
+Pouchet, Félix Archimède (1800-1872), French naturalist and physician; Dr. med. Paris 1827; professor of botany at the Jardin des Plantes, and director of the Muséum d'Histoire naturelle, Rouen from 1821-1872. 
+**Abbreviated name**: *F. Pouchet*
 
 #### Herbarium and types
 

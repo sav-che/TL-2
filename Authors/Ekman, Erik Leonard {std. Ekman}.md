@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/103414#page/787/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33120870) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ekman, Erik Leonard {std. Ekman} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ekman, Erik Leonard (1883-1931), Swedish botanist and explorer. (*Ekman*).
+Ekman, Erik Leonard (1883-1931), Swedish botanist and explorer. 
+**Abbreviated name**: *Ekman*
 
 #### Herbarium and types
 

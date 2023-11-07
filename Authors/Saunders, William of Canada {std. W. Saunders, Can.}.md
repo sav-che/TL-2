@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/104077#page/82/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33333207) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saunders, William of Canada (1836-1914), English-born botanist and agricultural scientist; to Canada 1848; active as industrial pharmacist, entomologist and plant breeder; owner of a private experimental farm from 1868; professor of materia medica Western Univ., Ontario 1882-1886; director Experimental Farms Canada, 1886-1911; originated the work which led to the development by his son, Charles Edward, of the Marquis wheat; LL.D. Queen's (Can.) 1896, id. Toronto 1903.(*W. Saunders, Can.*).
+Saunders, William of Canada (1836-1914), English-born botanist and agricultural scientist; to Canada 1848; active as industrial pharmacist, entomologist and plant breeder; owner of a private experimental farm from 1868; professor of materia medica Western Univ., Ontario 1882-1886; director Experimental Farms Canada, 1886-1911; originated the work which led to the development by his son, Charles Edward, of the Marquis wheat; LL.D. Queen's (Can.) 1896, id. Toronto 1903.
+**Abbreviated name**: *W. Saunders, Can.*
 
 #### Herbarium and types
 

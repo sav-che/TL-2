@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103861#page/299/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33266596) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Butterworth, John (fl. 1897-1900), British palaeobotanist at Manchester, published some papers through the Lit. Phil. Soc. Manchester. (*J. Butterworth*).
+Butterworth, John (fl. 1897-1900), British palaeobotanist at Manchester, published some papers through the Lit. Phil. Soc. Manchester. 
+**Abbreviated name**: *J. Butterworth*
 
 #### Herbarium and types
 

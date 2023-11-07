@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/104077#page/407/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33333532) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulze, \[Johann Ernst\] Ferdinand (*fl*. 1788), German physician and botanist. (*J.E.F. Schulze*).
+Schulze, \[Johann Ernst\] Ferdinand (*fl*. 1788), German physician and botanist. 
+**Abbreviated name**: *J.E.F. Schulze*
 
 #### Herbarium and types
 

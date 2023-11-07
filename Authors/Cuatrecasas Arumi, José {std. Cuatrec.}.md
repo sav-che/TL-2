@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/item/103860#page/498/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33266165) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cuatrecasas Arumi, José (1903-x), Spanish born botanist, Pharm. Dr. 1923 at Barcelona, assistant in botany 1924-1931, Bot. Dr. Madrid 1928, professor of systematic botany at Madrid 1931, later also professor of botany at the University of Bogota (1939-1942) and Cali (1943-1947), some time curator of Colombian Botany at the Chicago Natural History Museum, Fellow of the Guggenheim Memorial foundation, investigator for taxonomic study of Colombia by the National Science Foundation of Washington. (*Cuatrec.*).
+Cuatrecasas Arumi, José (1903-x), Spanish born botanist, Pharm. Dr. 1923 at Barcelona, assistant in botany 1924-1931, Bot. Dr. Madrid 1928, professor of systematic botany at Madrid 1931, later also professor of botany at the University of Bogota (1939-1942) and Cali (1943-1947), some time curator of Colombian Botany at the Chicago Natural History Museum, Fellow of the Guggenheim Memorial foundation, investigator for taxonomic study of Colombia by the National Science Foundation of Washington. 
+**Abbreviated name**: *Cuatrec.*
 
 #### Herbarium and types
 

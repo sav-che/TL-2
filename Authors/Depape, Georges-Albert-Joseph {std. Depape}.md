@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103833#page/223/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33259257) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Depape, Georges-Albert-Joseph (1884-?), French botanist and palaeobotanist born 19 Jan 1884, "Thèse de doctorat" 1922, at the Faculté libre des Sciences (Institut Catholique de Lille (Nord)), working on fossil plants especially from tertiary and quaternary periods. (*Depape*).
+Depape, Georges-Albert-Joseph (1884-?), French botanist and palaeobotanist born 19 Jan 1884, "Thèse de doctorat" 1922, at the Faculté libre des Sciences (Institut Catholique de Lille (Nord)), working on fossil plants especially from tertiary and quaternary periods. 
+**Abbreviated name**: *Depape*
 
 #### Herbarium and types
 

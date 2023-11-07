@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103253#page/134/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33068350) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hayata, Bunzô (1874-1934), Japanese botanist at Tokyo. (*Hayata*).
+Hayata, Bunzô (1874-1934), Japanese botanist at Tokyo. 
+**Abbreviated name**: *Hayata*
 
 #### Herbarium and types
 

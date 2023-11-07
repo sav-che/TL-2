@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/item/103624#page/818/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33190275) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Riva, Domenico (ca. 1856-1895), Italian botanist and explorer of Africa with Schweinfurth (1892) and Ruspoli (1892-1893); botanical assistant at Bologna. (*Riva*).
+Riva, Domenico (ca. 1856-1895), Italian botanist and explorer of Africa with Schweinfurth (1892) and Ruspoli (1892-1893); botanical assistant at Bologna. 
+**Abbreviated name**: *Riva*
 
 #### Herbarium and types
 

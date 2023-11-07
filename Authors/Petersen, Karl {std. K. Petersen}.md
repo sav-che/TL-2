@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103624#page/211/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33189668) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petersen, Karl (*fl*. 1929), German botanist. (*K. Petersen*).
+Petersen, Karl (*fl*. 1929), German botanist. 
+**Abbreviated name**: *K. Petersen*
 
 #### Herbarium and types
 

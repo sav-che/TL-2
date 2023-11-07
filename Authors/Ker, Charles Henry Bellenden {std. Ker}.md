@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103253#page/548/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33068764) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ker, Charles Henry Bellenden (1785?-1871), British botanist and legal reformer; barrister at Lincoln's Inn; son of John Bellenden Ker. (*Ker*).
+Ker, Charles Henry Bellenden (1785?-1871), British botanist and legal reformer; barrister at Lincoln's Inn; son of John Bellenden Ker. 
+**Abbreviated name**: *Ker*
 
 #### Herbarium and types
 

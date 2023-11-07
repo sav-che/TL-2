@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/103860#page/269/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33265936) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coincy, Auguste Henri Cornu de la Fontaine de {std. Coincy}|first entry]] for this author
 
 ### Author
 
-\* Coincy, Auguste Henri \[Cornut de la Fontaine de\] (1837-1903), French botanist, born at Lille (dépt. Nord), educated at the Lycée de Sens until 1859, started on botany only in 1870, collected widely in Spain and published on the Spanish flora, died at Coutoiseau (Loiret). (*Coincy*).
+\* Coincy, Auguste Henri \[Cornut de la Fontaine de\] (1837-1903), French botanist, born at Lille (dépt. Nord), educated at the Lycée de Sens until 1859, started on botany only in 1870, collected widely in Spain and published on the Spanish flora, died at Coutoiseau (Loiret). 
+**Abbreviated name**: *Coincy*
 
 #### Herbarium and types
 

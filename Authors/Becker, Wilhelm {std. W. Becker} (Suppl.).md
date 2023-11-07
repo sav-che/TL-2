@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103859#page/42/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33265229) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Becker, Wilhelm {std. W. Becker}|first entry]] for this author
 
 ### Author
 
-\* Becker, Wilhelm (1874-1928), German (Prussian-Saxony) botanist, studied at Friedrich Gymnasium in Berlin, in Halberstadt 1888 at a teacher's college, teacher in Wettelrode (Harz) 1894; travelled in Tirol, N. Italy, Triest, Krain, Steyermark 1898, teacher in Burgörner nr. Hettstedt 1902-1903; id. at Hedersleben (nr. Magdeburg) 1903-1909; teacher at Ostrau (Bromberg) 1909-1913; id. in Schlaustedt (Prussian-Saxony) 1913-1914, Loitsche (id.) 1914-1916, Haferland (id.) 1916; on active duty 1916-1919, from then on living in Rosian (Jerichow, Prussian-Saxony), specialist in *Viola* and *Euphrasia*. (*W. Becker*).
+\* Becker, Wilhelm (1874-1928), German (Prussian-Saxony) botanist, studied at Friedrich Gymnasium in Berlin, in Halberstadt 1888 at a teacher's college, teacher in Wettelrode (Harz) 1894; travelled in Tirol, N. Italy, Triest, Krain, Steyermark 1898, teacher in Burgörner nr. Hettstedt 1902-1903; id. at Hedersleben (nr. Magdeburg) 1903-1909; teacher at Ostrau (Bromberg) 1909-1913; id. in Schlaustedt (Prussian-Saxony) 1913-1914, Loitsche (id.) 1914-1916, Haferland (id.) 1916; on active duty 1916-1919, from then on living in Rosian (Jerichow, Prussian-Saxony), specialist in *Viola* and *Euphrasia*. 
+**Abbreviated name**: *W. Becker*
 
 #### Herbarium and types
 

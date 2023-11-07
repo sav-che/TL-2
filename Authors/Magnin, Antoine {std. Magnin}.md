@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/item/104137#page/258/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33355329) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Magnin, Antoine (1848-1926), French physician and botanist at Lyon, later at Besançon; Dr. med. Paris 1876. (*Magnin*).
+Magnin, Antoine (1848-1926), French physician and botanist at Lyon, later at Besançon; Dr. med. Paris 1876. 
+**Abbreviated name**: *Magnin*
 
 #### Herbarium and types
 

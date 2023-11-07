@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103414#page/219/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33120302) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bennett, Alfred William {std. A.W. Benn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bennett, Alfred William (1833-1902), British botanist. (*A. W. Benn.*).
+Bennett, Alfred William (1833-1902), British botanist. 
+**Abbreviated name**: *A. W. Benn.*
 
 #### Herbarium and types
 

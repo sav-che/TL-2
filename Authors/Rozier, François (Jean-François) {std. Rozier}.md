@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/item/103624#page/978/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/page/33190435) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rozier, François (Jean-François), (1734-1793), French botanist, agronomist and clergyman; educated at the Lyon seminary of Saint-Irenée; director of the École vétérinaire de Lyon and in charge of its botanical garden 1765-1766; professor at the "Académie royale" Lyon; associated with J.J. Rousseau ca. 1767-1768 in Paris (ca. 1770-1780) where he founded the *Journal de Physique* (1771); travelled in Corsica and the Netherlands (1777); at Béziers, 1780, shortly afterwards back in Lyon, working on his *Cours compl. agric.*; during the French revolution "curé constitutionnel" of the Lyon parishes; died through war action 1793. (*Rozier*).
+Rozier, François (Jean-François), (1734-1793), French botanist, agronomist and clergyman; educated at the Lyon seminary of Saint-Irenée; director of the École vétérinaire de Lyon and in charge of its botanical garden 1765-1766; professor at the "Académie royale" Lyon; associated with J.J. Rousseau ca. 1767-1768 in Paris (ca. 1770-1780) where he founded the *Journal de Physique* (1771); travelled in Corsica and the Netherlands (1777); at Béziers, 1780, shortly afterwards back in Lyon, working on his *Cours compl. agric.*; during the French revolution "curé constitutionnel" of the Lyon parishes; died through war action 1793. 
+**Abbreviated name**: *Rozier*
 
 #### Herbarium and types
 

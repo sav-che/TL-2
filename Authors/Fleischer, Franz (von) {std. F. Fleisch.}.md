@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103834#page/268/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33259750) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fleischer, Franz (von) (1801-1878), German physician, pharmacist and botanist, born 27 Nov 1801 in Lausigk (Saxony), studied pharmacy in Dresden and Esslingen, collected plants in Tirol, Salzburg and around Venice 1825, visited Smyrna \[Izmir\] and Alexandria in 1826-1827 as a member of the Botanical Travel Society (Botanische Reiseverein or Unio Itineriae) of Esslingen, studied medicine at Tübingen until 1832, physician in Hofwyl, Switzerland, Prof. of Natural History 1834 in Aarau, Prof. (1838) of agriculture and forestry and Dir. of the Botanic Garden in Hohenheim (nr. Tübingen), died 24 Aug 1878 in Stuttgart-Hohenheim. (*F. Fleisch.*).
+Fleischer, Franz (von) (1801-1878), German physician, pharmacist and botanist, born 27 Nov 1801 in Lausigk (Saxony), studied pharmacy in Dresden and Esslingen, collected plants in Tirol, Salzburg and around Venice 1825, visited Smyrna \[Izmir\] and Alexandria in 1826-1827 as a member of the Botanical Travel Society (Botanische Reiseverein or Unio Itineriae) of Esslingen, studied medicine at Tübingen until 1832, physician in Hofwyl, Switzerland, Prof. of Natural History 1834 in Aarau, Prof. (1838) of agriculture and forestry and Dir. of the Botanic Garden in Hohenheim (nr. Tübingen), died 24 Aug 1878 in Stuttgart-Hohenheim. 
+**Abbreviated name**: *F. Fleisch.*
 
 #### Note
 

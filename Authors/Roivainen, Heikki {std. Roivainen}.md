@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/item/103624#page/881/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33190338) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roivainen, Heikki (1900-x), Finnish botanist (bryologist); collected in Tierra del Fuego, Patagonia and Chile 1928-1929; Dr. phil. Helsinki 1954; senior curator of cryptogams at Helsinki 1956-1968. (*Roivainen*).
+Roivainen, Heikki (1900-x), Finnish botanist (bryologist); collected in Tierra del Fuego, Patagonia and Chile 1928-1929; Dr. phil. Helsinki 1954; senior curator of cryptogams at Helsinki 1956-1968. 
+**Abbreviated name**: *Roivainen*
 
 #### Herbarium and types
 

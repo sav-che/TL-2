@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/item/103834#page/336/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33259818) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Foreau, Georges {std. Foreau}|first entry]] for this author
 
 ### Author
 
-\* Foreau, Georges (S.J.) \[b. Eugène Armand Foreau\] (1882-1967), French priest, teacher, lecturer and moss collector, St. Xavier's College, Palmacotta, Madura, India. (*Foreau*).
+\* Foreau, Georges (S.J.) \[b. Eugène Armand Foreau\] (1882-1967), French priest, teacher, lecturer and moss collector, St. Xavier's College, Palmacotta, Madura, India. 
+**Abbreviated name**: *Foreau*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103624#page/354/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33189811) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Porcius, Florian (1816-1906), Transylvanian botanist at Ó-Radna (Rodna); high school teacher in Zagra and Naszód; from 1849 in the civil service in various functions, from 1861-1877 at Naszód; in retirement at O-Radna. (*Porcius*).
+Porcius, Florian (1816-1906), Transylvanian botanist at Ó-Radna (Rodna); high school teacher in Zagra and Naszód; from 1849 in the civil service in various functions, from 1861-1877 at Naszód; in retirement at O-Radna. 
+**Abbreviated name**: *Porcius*
 
 #### Herbarium and types
 

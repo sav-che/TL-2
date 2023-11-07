@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/item/103414#page/942/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fryer, Alfred {std. Fryer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fryer, Alfred (1826-1912), British botanist. (*Fryer*).
+Fryer, Alfred (1826-1912), British botanist. 
+**Abbreviated name**: *Fryer*
 
 #### Herbarium and types
 

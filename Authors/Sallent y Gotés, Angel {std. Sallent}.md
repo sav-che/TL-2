@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/104077#page/20/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33333177) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sallent y Gotés, Angel (1857-1934), Catalonian philologist and botanist; collaborator of Cadeval y Diars. (*Sallent*).
+Sallent y Gotés, Angel (1857-1934), Catalonian philologist and botanist; collaborator of Cadeval y Diars. 
+**Abbreviated name**: *Sallent*
 
 #### Herbarium and types
 

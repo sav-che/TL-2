@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/item/104077#page/673/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smirnov, \[Smirnow, Smirnoff\], Michael Nikolajèwitsch (1849-1889), Russian botanist; school inspector at Tiflis. (*M. Smirn.*).
+Smirnov, \[Smirnow, Smirnoff\], Michael Nikolajèwitsch (1849-1889), Russian botanist; school inspector at Tiflis. 
+**Abbreviated name**: *M. Smirn.*
 
 #### Herbarium and types
 

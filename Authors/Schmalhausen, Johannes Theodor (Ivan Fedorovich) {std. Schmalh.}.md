@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/104077#page/244/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33333369) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmalhausen, Johannes Theodor \[Ivan Fedorovich Schmal'hausen, Shmargauzen\] (1849-1894), Russian aktuo- and palaeobotanist; studied at the University of St.-Petersburg ("Magister" 1874); studied with Heer and A. de Bary; Dr. phil. and habil. St. Petersburg 1877; from 1876-1879 curator at the botanical garden ib.; professor of botany at the University and director of the Botanical Garden of Kiew 1879-1894; member of the International Commission of botanical Nomenclature 1892-1894. (*Schmalh.*).
+Schmalhausen, Johannes Theodor \[Ivan Fedorovich Schmal'hausen, Shmargauzen\] (1849-1894), Russian aktuo- and palaeobotanist; studied at the University of St.-Petersburg ("Magister" 1874); studied with Heer and A. de Bary; Dr. phil. and habil. St. Petersburg 1877; from 1876-1879 curator at the botanical garden ib.; professor of botany at the University and director of the Botanical Garden of Kiew 1879-1894; member of the International Commission of botanical Nomenclature 1892-1894. 
+**Abbreviated name**: *Schmalh.*
 
 #### Herbarium and types
 

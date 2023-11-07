@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/item/103624#page/937/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roth, Wilhelm (1819\[?\]-1875), German (Silesian) botanist and "Webermeister" \[weaver\] at Langenbielau in Silezia. (*W. Roth*).
+Roth, Wilhelm (1819\[?\]-1875), German (Silesian) botanist and "Webermeister" \[weaver\] at Langenbielau in Silezia. 
+**Abbreviated name**: *W. Roth*
 
 #### Herbarium and types
 

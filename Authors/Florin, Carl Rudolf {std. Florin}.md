@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/item/103414#page/896/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Florin, Carl (Karl) Rudolf (Rudolph) {std. Florin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Florin, Carl Rudolf (1894-1965), Swedish botanist and palaeobiologist. (*Florin*).
+Florin, Carl Rudolf (1894-1965), Swedish botanist and palaeobiologist. 
+**Abbreviated name**: *Florin*
 
 #### Herbarium and types
 

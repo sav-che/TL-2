@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103834#page/72/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33259554) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Farr, Edith May (1864-1956), American botanist, born 9 Oct 1864 in Winthrop Center, Maine, collected plants in the Canadian Rocky Mts. 1904-1905. (*Farr*).
+Farr, Edith May (1864-1956), American botanist, born 9 Oct 1864 in Winthrop Center, Maine, collected plants in the Canadian Rocky Mts. 1904-1905. 
+**Abbreviated name**: *Farr*
 
 #### Herbarium and types
 

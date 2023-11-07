@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103833#page/244/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33259278) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Desrousseaux, Louis Auguste Joseph (1753-1838), French cloth manufacturer and botanist at Sedan, born there 27 Jul 17553, died 20 Jan 1838 at Vendières, Marne, member of the Linnean Society at Paris from 1790. (*Desr.*).
+Desrousseaux, Louis Auguste Joseph (1753-1838), French cloth manufacturer and botanist at Sedan, born there 27 Jul 17553, died 20 Jan 1838 at Vendières, Marne, member of the Linnean Society at Paris from 1790. 
+**Abbreviated name**: *Desr.*
 
 #### Herbarium and types
 

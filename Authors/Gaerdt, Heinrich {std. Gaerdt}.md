@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103832#page/103/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33258569) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gaerdt, Heinrich (1813-1893), German horticulturist and landscape architect, born 7 Nov 1813 in Drebkau (Brandenburg), head gardener of August Borsig, a factory owner 1854, later dir. of the Königlicher Gartenbau in Berlin, died 14 Nov 1893. (*Gaerdt*).
+Gaerdt, Heinrich (1813-1893), German horticulturist and landscape architect, born 7 Nov 1813 in Drebkau (Brandenburg), head gardener of August Borsig, a factory owner 1854, later dir. of the Königlicher Gartenbau in Berlin, died 14 Nov 1893. 
+**Abbreviated name**: *Gaerdt*
 
 #### Herbarium and types
 

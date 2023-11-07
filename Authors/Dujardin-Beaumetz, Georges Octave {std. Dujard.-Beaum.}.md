@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103835#page/167/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33260145) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dujardin-Beaumetz, Georges Octave (1833-1895), French physician and botanist, member of the medical academy and the board of health "de la Seine", physician at the Cochin hospital. (*Dujard.-Beaum.*).
+Dujardin-Beaumetz, Georges Octave (1833-1895), French physician and botanist, member of the medical academy and the board of health "de la Seine", physician at the Cochin hospital. 
+**Abbreviated name**: *Dujard.-Beaum.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103833#page/176/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33259210) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Branth, Jakob Severin Deichmann {std. Branth}|first entry]] for this author
 
 ### Author
 
-Deichmann Branth, Jakob Severin (1831-1917), as this name often causes troubles we originally published this author in TL-2, suppl. 3 as Branth on p. 21-22. All information published there will not be repeated here but as more information was filed under Deichmann we thought it appropiate to mention this author once more. (*Branth*).
+Deichmann Branth, Jakob Severin (1831-1917), as this name often causes troubles we originally published this author in TL-2, suppl. 3 as Branth on p. 21-22. All information published there will not be repeated here but as more information was filed under Deichmann we thought it appropiate to mention this author once more. 
+**Abbreviated name**: *Branth*
 
 #### Herbarium and types
 

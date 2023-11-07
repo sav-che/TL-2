@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103624#page/20/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33189509) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paglia, Enrico (1834-1889), Italian botanist at Mantua. (*Paglia*).
+Paglia, Enrico (1834-1889), Italian botanist at Mantua. 
+**Abbreviated name**: *Paglia*
 
 #### Herbarium and types
 

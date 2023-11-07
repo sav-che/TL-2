@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/item/103414#page/510/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33120593) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carus, Carl Gustav {std. Carus} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Carus, Carl Gustav (1789-1869), German zoologist at Leipzig and Dresden. (*Carus*).
+Carus, Carl Gustav (1789-1869), German zoologist at Leipzig and Dresden. 
+**Abbreviated name**: *Carus*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103859#page/168/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33265355) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Biebl, Richard (1908-1974), Austrian (Salzburg born) botanist, educated at Volksschule and first gymnasium year in Vienna, continued at the Salzburg Gymnasium, studied palaeontology at the University of Vienna 1926-1930, Dr. phil. Vienna 1930, teacher at various Vienna gymnasia, from 1930, habil. 1938, scientific assistant at the Institute of Plant Physiology, Vienna from 1939, on active service 1942-1944, professor of botany at the University 1945, assistant at the Institute of Plant Physiology, became the title of professor again in 1950, extra-ordinary professor for plant anatomy and physiology 1955, regular professor 1964. (*Biebl*).
+Biebl, Richard (1908-1974), Austrian (Salzburg born) botanist, educated at Volksschule and first gymnasium year in Vienna, continued at the Salzburg Gymnasium, studied palaeontology at the University of Vienna 1926-1930, Dr. phil. Vienna 1930, teacher at various Vienna gymnasia, from 1930, habil. 1938, scientific assistant at the Institute of Plant Physiology, Vienna from 1939, on active service 1942-1944, professor of botany at the University 1945, assistant at the Institute of Plant Physiology, became the title of professor again in 1950, extra-ordinary professor for plant anatomy and physiology 1955, regular professor 1964. 
+**Abbreviated name**: *Biebl*
 
 #### Herbarium and types
 

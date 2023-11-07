@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103860#page/292/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265959) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Comber, Thomas (1837-1902), British merchant and botanist, born at Pernambuco, Brazil, settled in Liverpool, Manchester and Parkgate-Cheshire. (*Comber*).
+Comber, Thomas (1837-1902), British merchant and botanist, born at Pernambuco, Brazil, settled in Liverpool, Manchester and Parkgate-Cheshire. 
+**Abbreviated name**: *Comber*
 
 #### Herbarium and types
 

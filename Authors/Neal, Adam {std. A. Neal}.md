@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/item/104137#page/716/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33355787) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neal, Adam (*fl. 1770's*), British gardener to J. Blackburne at Warrington. (*A. Neal*).
+Neal, Adam (*fl. 1770's*), British gardener to J. Blackburne at Warrington. 
+**Abbreviated name**: *A. Neal*
 
 #### Herbarium and types
 

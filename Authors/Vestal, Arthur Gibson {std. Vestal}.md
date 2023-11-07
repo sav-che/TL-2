@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/103683#page/727/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33212759) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vestal, Arthur Gibson (1888-1964), American botanist; A.B. Univ. Illinois 1911; instructor in biology Univ. Colorado 1911-1914; at the University of Chicago 1914-1915; Dr. phil. ib. 1915; professor of botany at Eastern Illinois Univ. 1915-1920; assistant botanist Stanford University 1920-1929; associate professor of botany Univ. Illinois 1929-1939, regular professor ib. 1939-1957; emeritus professor from 1957. (*Vestal*).
+Vestal, Arthur Gibson (1888-1964), American botanist; A.B. Univ. Illinois 1911; instructor in biology Univ. Colorado 1911-1914; at the University of Chicago 1914-1915; Dr. phil. ib. 1915; professor of botany at Eastern Illinois Univ. 1915-1920; assistant botanist Stanford University 1920-1929; associate professor of botany Univ. Illinois 1929-1939, regular professor ib. 1939-1957; emeritus professor from 1957. 
+**Abbreviated name**: *Vestal*
 
 #### Herbarium and types
 

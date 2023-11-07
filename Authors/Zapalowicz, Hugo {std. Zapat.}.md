@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/item/103250#page/581/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33066861) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zapalowicz, Hugo (1852-1917), Polish military lawyer and botanist; studied law at Kraków; Dr. jur. ib. 1880; combined an active career in the military administration of the Austro-Hungarian empire with botanizing. (*Zapat.*).
+Zapalowicz, Hugo (1852-1917), Polish military lawyer and botanist; studied law at Kraków; Dr. jur. ib. 1880; combined an active career in the military administration of the Austro-Hungarian empire with botanizing. 
+**Abbreviated name**: *Zapat.*
 
 #### Herbarium and types
 

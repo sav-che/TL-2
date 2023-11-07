@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103250#page/512/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33066792) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woolward, Florence Helen (1854-1930), British botanist and botanical artist. (*Woolward*).
+Woolward, Florence Helen (1854-1930), British botanist and botanical artist. 
+**Abbreviated name**: *Woolward*
 
 #### Herbarium and types
 

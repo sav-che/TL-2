@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/item/103414#page/899/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/page/33120982) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fomin, Aleksandr Vasilievich {std. Fomin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fomin, Aleksandr Vasilievich (1869-1935), Russian botanist who worked at Tiflis and Kiew. (*Fomin*).
+Fomin, Aleksandr Vasilievich (1869-1935), Russian botanist who worked at Tiflis and Kiew. 
+**Abbreviated name**: *Fomin*
 
 #### Herbarium and types
 

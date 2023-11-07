@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/item/104077#page/761/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33333886) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sonntag, CO. (*fl*. 1894), Scottish high school teacher and botanist at Edinburgh. (*Sonntag*).
+Sonntag, CO. (*fl*. 1894), Scottish high school teacher and botanist at Edinburgh. 
+**Abbreviated name**: *Sonntag*
 
 #### Herbarium and types
 

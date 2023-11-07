@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103253#page/182/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33068398) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hennedy, Roger (1809-1877), Scottish botanist, professor of botany at Glasgow. (*Hennedy*).
+Hennedy, Roger (1809-1877), Scottish botanist, professor of botany at Glasgow. 
+**Abbreviated name**: *Hennedy*
 
 #### Herbarium and types
 

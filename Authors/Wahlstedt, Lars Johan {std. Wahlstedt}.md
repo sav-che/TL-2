@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103250#page/81/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33066361) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wahlstedt, Lars Johan (1836-1917), Swedish botanist and lecturer; studied at Lund 1856-1862; Dr. phil. 1862; head of the botanical garden Lund 1862-1864; lecturer in natural sciences and Swedish at Kristianstad college 1865-1905. (*Wahlstedt*).
+Wahlstedt, Lars Johan (1836-1917), Swedish botanist and lecturer; studied at Lund 1856-1862; Dr. phil. 1862; head of the botanical garden Lund 1862-1864; lecturer in natural sciences and Swedish at Kristianstad college 1865-1905. 
+**Abbreviated name**: *Wahlstedt*
 
 #### Herbarium and types
 

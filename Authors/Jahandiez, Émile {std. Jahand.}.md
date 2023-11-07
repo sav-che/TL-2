@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103253#page/443/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33068659) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jahandiez, Émile (1876-1938), French botanist and horticulturist at Carqueiranne (Var, mainly active in S. France, Canary Islands, Spain and North Africa. (*Jahand.*).
+Jahandiez, Émile (1876-1938), French botanist and horticulturist at Carqueiranne (Var, mainly active in S. France, Canary Islands, Spain and North Africa. 
+**Abbreviated name**: *Jahand.*
 
 #### Herbarium and types
 

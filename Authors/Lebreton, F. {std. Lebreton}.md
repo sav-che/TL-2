@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/item/103253#page/805/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lebreton, F. (*fl*. 1787), French botanist. (*Lebreton*).
+Lebreton, F. (*fl*. 1787), French botanist. 
+**Abbreviated name**: *Lebreton*
 
 #### Herbarium and types
 

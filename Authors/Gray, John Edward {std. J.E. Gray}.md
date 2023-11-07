@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/item/103414#page/1041/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33121124) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gray, John Edward {std. J.E. Gray} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gray, John Edward (1800-1875), British algologist, hepaticologist and zoologist, keeper of the Zool. Dept. of the British Museum 1840-1875, son of S. F. Gray. (*J. E. Gray*).
+Gray, John Edward (1800-1875), British algologist, hepaticologist and zoologist, keeper of the Zool. Dept. of the British Museum 1840-1875, son of S. F. Gray. 
+**Abbreviated name**: *J. E. Gray*
 
 #### Herbarium and types
 

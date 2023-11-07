@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/item/103624#page/711/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33190168) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rein, Johannes Justus (1835-1918), German (Hessen) geographer and geologist; Dr. phil. 1861 Rostock; high school teacher at Reval 1858-1860, from 1861-1863 private teacher on the Bermuda Islands; travelled in the Canary Islands and Morocco (1872) and Japan (1873-1875); from 1876 professor of geology at Marburg, from 1883 idem at Bonn. (*Rein*).
+Rein, Johannes Justus (1835-1918), German (Hessen) geographer and geologist; Dr. phil. 1861 Rostock; high school teacher at Reval 1858-1860, from 1861-1863 private teacher on the Bermuda Islands; travelled in the Canary Islands and Morocco (1872) and Japan (1873-1875); from 1876 professor of geology at Marburg, from 1883 idem at Bonn. 
+**Abbreviated name**: *Rein*
 
 #### Herbarium and types
 

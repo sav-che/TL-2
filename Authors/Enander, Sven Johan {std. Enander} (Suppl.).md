@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103835#page/347/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33260325) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Enander, Sven Johan {std. Enander}|first entry]] for this author
 
 ### Author
 
-\* Enander, Sven Johan (1847-1928), Swedish clergyman and botanist, born 29 Dec 1847 at Torsås near Kalmar, visited schools at Kalmar until 1871, studied theology in Uppsala till 1883, vicar in Härjedalen 1889, honorary Dr. Lund 1918, Linnean Gold Medallist Royal Society Stockholm 1923, travelled to study and collect plants to England, Novaja Semlja, Russia, Siberia, Japan, N. America, and Greenland, specialized in Salix, found dead 18 Dec 1928 in Victoria, British Columbia, Canada in his hotel (gas-poisoning). (*Enander*).
+\* Enander, Sven Johan (1847-1928), Swedish clergyman and botanist, born 29 Dec 1847 at Torsås near Kalmar, visited schools at Kalmar until 1871, studied theology in Uppsala till 1883, vicar in Härjedalen 1889, honorary Dr. Lund 1918, Linnean Gold Medallist Royal Society Stockholm 1923, travelled to study and collect plants to England, Novaja Semlja, Russia, Siberia, Japan, N. America, and Greenland, specialized in Salix, found dead 18 Dec 1928 in Victoria, British Columbia, Canada in his hotel (gas-poisoning). 
+**Abbreviated name**: *Enander*
 
 #### Herbarium and types
 

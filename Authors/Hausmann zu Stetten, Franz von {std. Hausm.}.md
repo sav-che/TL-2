@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103253#page/129/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33068345) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hausmann zu Stetten, Franz von (1810-1878), Austrian botanist, Freiherr zum Stein unter Lebenberg, Lanegg und Greiffenegg. (*Hausm.*).
+Hausmann zu Stetten, Franz von (1810-1878), Austrian botanist, Freiherr zum Stein unter Lebenberg, Lanegg und Greiffenegg. 
+**Abbreviated name**: *Hausm.*
 
 #### Bibliography and biography
 

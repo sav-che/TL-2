@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/item/104077#page/711/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33333836) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, John (1798-1888), British gardener and pteridologist; gardener at the Royal Botanic Garden, Edinburgh 1818, idem at Kew 1822, curator at Kew 1841-1864. (*John Sm.*).
+Smith, John (1798-1888), British gardener and pteridologist; gardener at the Royal Botanic Garden, Edinburgh 1818, idem at Kew 1822, curator at Kew 1841-1864. 
+**Abbreviated name**: *John Sm.*
 
 #### Herbarium and types
 

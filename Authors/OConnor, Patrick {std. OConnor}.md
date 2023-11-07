@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/item/104137#page/819/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-O'Connor, Patrick (1889-1969), Irish botanist; Ph. D. Dublin 1929; keeper, natural history division, National Museum of Ireland (1929). (*O'Connor*).
+O'Connor, Patrick (1889-1969), Irish botanist; Ph. D. Dublin 1929; keeper, natural history division, National Museum of Ireland (1929). 
+**Abbreviated name**: *O'Connor*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103253#page/415/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Isert, Paul Erdmann (1756-1789), German explorer and colonial administrator in the Danish possessions in Guinea (1783-1786) and the West Indies (1786-1787). (*Isert*).
+Isert, Paul Erdmann (1756-1789), German explorer and colonial administrator in the Danish possessions in Guinea (1783-1786) and the West Indies (1786-1787). 
+**Abbreviated name**: *Isert*
 
 #### Herbarium and types
 

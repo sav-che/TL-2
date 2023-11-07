@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/item/103624#page/913/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33190370) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ross, David (ca. 1810-1881), British (Scottish) classics teacher in Edinburgh. (*D. Ross*).
+Ross, David (ca. 1810-1881), British (Scottish) classics teacher in Edinburgh. 
+**Abbreviated name**: *D. Ross*
 
 #### Herbarium and types
 

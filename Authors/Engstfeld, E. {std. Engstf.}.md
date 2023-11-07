@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/103835#page/388/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33260366) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Engstfeld, E. (fl. 1856-1857), teacher at Siegen, Germany. (*Engstf.*).
+Engstfeld, E. (fl. 1856-1857), teacher at Siegen, Germany. 
+**Abbreviated name**: *Engstf.*
 
 #### Herbarium and types
 

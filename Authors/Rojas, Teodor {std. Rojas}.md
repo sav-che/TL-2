@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/item/103624#page/882/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33190339) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rojas, Teodor (1877-1954), Paraguayan botanist; collected in Paraguay with E. Hassler in 1896 and from then on until 1954; assistant director of the Assuncion botanical garden and curator of the herbaria. (*Rojas*).
+Rojas, Teodor (1877-1954), Paraguayan botanist; collected in Paraguay with E. Hassler in 1896 and from then on until 1954; assistant director of the Assuncion botanical garden and curator of the herbaria. 
+**Abbreviated name**: *Rojas*
 
 #### Herbarium and types
 

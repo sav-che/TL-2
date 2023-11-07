@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103859#page/240/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265427) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blumenhain, Eugen Heinrich (fl. 1826), Austrian botanist. (*Blumenhain*).
+Blumenhain, Eugen Heinrich (fl. 1826), Austrian botanist. 
+**Abbreviated name**: *Blumenhain*
 
 #### Herbarium and types
 

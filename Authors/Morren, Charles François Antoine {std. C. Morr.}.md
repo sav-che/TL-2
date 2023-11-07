@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/item/104137#page/607/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33355678) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morren, Charles François Antoine (1807-1858), Belgian botanist and horticulturist; born at Gent; studied natural sciences at Gent University; Dr. phil. ib. 1829; teacher physics at a secondary school until 1835, from then on professor of botany at Liège; director of the Jardin botanique de l'Université de Liège 1855-1856. (*C. Morr.*).
+Morren, Charles François Antoine (1807-1858), Belgian botanist and horticulturist; born at Gent; studied natural sciences at Gent University; Dr. phil. ib. 1829; teacher physics at a secondary school until 1835, from then on professor of botany at Liège; director of the Jardin botanique de l'Université de Liège 1855-1856. 
+**Abbreviated name**: *C. Morr.*
 
 #### Herbarium and types
 

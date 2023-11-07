@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103253#page/479/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33068695) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jolyclerc, Nicolas-Marie-Thérèse (1746-1817), French clergyman and botanist; for some time at Lyon; later teaching at the École centrale de l'Oise. (*Jolycl.*).
+Jolyclerc, Nicolas-Marie-Thérèse (1746-1817), French clergyman and botanist; for some time at Lyon; later teaching at the École centrale de l'Oise. 
+**Abbreviated name**: *Jolycl.*
 
 #### Herbarium and types
 

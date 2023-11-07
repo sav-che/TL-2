@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/item/103683#page/796/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33212828) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vouaux, Léon (1870-1914), French clergyman and mycologist (lichenicolous fungi); studied at the Petit Séminaire, Pont-à-Mousson 1887-1892, Grand Séminaire Nancy 1887-1892; ordained 1893; professor of literature and mathematics at the Collège of Malgrange 1892-1914; associated with the University of Nancy 1894-1898; collaborator of J.H.A.J. Harmand; taken hostage at Jarny in 1914 (in World War I) and executed. (*Vouaux*).
+Vouaux, Léon (1870-1914), French clergyman and mycologist (lichenicolous fungi); studied at the Petit Séminaire, Pont-à-Mousson 1887-1892, Grand Séminaire Nancy 1887-1892; ordained 1893; professor of literature and mathematics at the Collège of Malgrange 1892-1914; associated with the University of Nancy 1894-1898; collaborator of J.H.A.J. Harmand; taken hostage at Jarny in 1914 (in World War I) and executed. 
+**Abbreviated name**: *Vouaux*
 
 #### Herbarium and types
 

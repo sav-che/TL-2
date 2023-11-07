@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/item/103414#page/569/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33120652) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Golden, Jane, later Farquhar (1724-1759), first woman botanist in America, daughter of Cadwallader Colden (1688-1776). (*Colden*).
+Golden, Jane, later Farquhar (1724-1759), first woman botanist in America, daughter of Cadwallader Colden (1688-1776). 
+**Abbreviated name**: *Colden*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/103253#page/509/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33068725) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kabsch, Wilhelm Albert Walter (1835-1864), Silesian botanist; from 1863 pharmacist at Zürich. (*Kabsch*).
+Kabsch, Wilhelm Albert Walter (1835-1864), Silesian botanist; from 1863 pharmacist at Zürich. 
+**Abbreviated name**: *Kabsch*
 
 #### Bibliography and biography
 

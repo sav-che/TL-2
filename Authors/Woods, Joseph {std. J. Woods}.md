@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103250#page/504/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33066784) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woods, Joseph (1776-1864), British architect and botanist; architect in London until 1833; from then on living at Lewes in retirement and dedicating himself to botany. (*J. Woods*).
+Woods, Joseph (1776-1864), British architect and botanist; architect in London until 1833; from then on living at Lewes in retirement and dedicating himself to botany. 
+**Abbreviated name**: *J. Woods*
 
 #### Herbarium and types
 

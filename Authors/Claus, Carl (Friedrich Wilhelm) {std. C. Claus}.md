@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103860#page/199/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33265866) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Claus, Carl \[Friedrich Wilhelm\] (1835-1899), German (Hessen) zoologist and botanist, born in Kassel, studied biology at the universities of Marburg and Giessen, Dr. phil. Marburg 1857, Privatdocent for Zoology at Marburg 1858, id. Würzburg 1859, professor (e.o.) of Zoology 1860, ordinary professor at Marburg 1863, id. Göttingen 1870 and Vienna 1873, stayed at Vienna until 1896, also director of the Zoological Station at Triest. (*C. Claus*).
+Claus, Carl \[Friedrich Wilhelm\] (1835-1899), German (Hessen) zoologist and botanist, born in Kassel, studied biology at the universities of Marburg and Giessen, Dr. phil. Marburg 1857, Privatdocent for Zoology at Marburg 1858, id. Würzburg 1859, professor (e.o.) of Zoology 1860, ordinary professor at Marburg 1863, id. Göttingen 1870 and Vienna 1873, stayed at Vienna until 1896, also director of the Zoological Station at Triest. 
+**Abbreviated name**: *C. Claus*
 
 #### Herbarium and types
 

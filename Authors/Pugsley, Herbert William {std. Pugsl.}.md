@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103624#page/438/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33189895) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pugsley, Herbert William (1868-1948), British botanist; BA London 1889; civil servant in the Admiralty, 1896-1928. (*Pugsl.*).
+Pugsley, Herbert William (1868-1948), British botanist; BA London 1889; civil servant in the Admiralty, 1896-1928. 
+**Abbreviated name**: *Pugsl.*
 
 #### Herbarium and types
 

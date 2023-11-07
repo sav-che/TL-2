@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/103860#page/423/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33266090) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coulter, John Merle {std. J.M. Coult.}|first entry]] for this author
 
 ### Author
 
-\* Coulter, John Merle (1851-1928), American (born at Ningpo, China) botanist and geologist, educated in Hanover, Indiana (from 1853), at Hanover College, bachelor degree 1870, masters degree 1873, doctor of philosophy 1882 from University of Indiana, (hon. doct. laws id.), sometime worked with E. Thomson Nelson with the U.S. Geol. Survey 1872 as assistant in geology, collaborated with T.C. Porter 1874, as professor of Sciences in Hanover College, also professor of biology in Wabash College, from 1896-1925 head of a department of the new University of Chicago. (*J.M. Coult.*).
+\* Coulter, John Merle (1851-1928), American (born at Ningpo, China) botanist and geologist, educated in Hanover, Indiana (from 1853), at Hanover College, bachelor degree 1870, masters degree 1873, doctor of philosophy 1882 from University of Indiana, (hon. doct. laws id.), sometime worked with E. Thomson Nelson with the U.S. Geol. Survey 1872 as assistant in geology, collaborated with T.C. Porter 1874, as professor of Sciences in Hanover College, also professor of biology in Wabash College, from 1896-1925 head of a department of the new University of Chicago. 
+**Abbreviated name**: *J.M. Coult.*
 
 #### Herbarium and types
 

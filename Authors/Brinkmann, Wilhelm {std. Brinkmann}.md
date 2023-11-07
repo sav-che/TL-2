@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103861#page/88/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33266385) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brinkmann, Wilhelm (1861-1917), German (Westphalia, Lengerich) botanist (mycologist), educated at the teacher's seminar at Soest 1879-1882, teacher at Ladbergen 1882, idem at Lengerich 1882-1916, specialized on the Westphalian Hymenomycetes. (*Brinkmann*).
+Brinkmann, Wilhelm (1861-1917), German (Westphalia, Lengerich) botanist (mycologist), educated at the teacher's seminar at Soest 1879-1882, teacher at Ladbergen 1882, idem at Lengerich 1882-1916, specialized on the Westphalian Hymenomycetes. 
+**Abbreviated name**: *Brinkmann*
 
 #### Herbarium and types
 

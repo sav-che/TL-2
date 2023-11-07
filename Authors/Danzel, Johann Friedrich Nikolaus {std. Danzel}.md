@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103833#page/75/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33259109) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Danzel, Johann Friedrich Nikolaus (1792-1847), German physician and botanist, born at Hamburg 2 Feb 1792, died 10 Nov 1847, Hamburg. (*Danzel*).
+Danzel, Johann Friedrich Nikolaus (1792-1847), German physician and botanist, born at Hamburg 2 Feb 1792, died 10 Nov 1847, Hamburg. 
+**Abbreviated name**: *Danzel*
 
 #### Herbarium and types
 

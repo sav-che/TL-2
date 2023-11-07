@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/item/104137#page/862/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ordoyno, Thomas (*fl*. 1790s-1810s), British nurseryman and seedsman of Newark-on-Trent. (*Ordoyno*).
+Ordoyno, Thomas (*fl*. 1790s-1810s), British nurseryman and seedsman of Newark-on-Trent. 
+**Abbreviated name**: *Ordoyno*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/item/103414#page/606/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33120689) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coulter, John Merle {std. J.M. Coult.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Coulter, John Merle (1851-1928), American botanist. (*J. M. Coulter*).
+Coulter, John Merle (1851-1928), American botanist. 
+**Abbreviated name**: *J. M. Coulter*
 
 #### Herbarium and types
 

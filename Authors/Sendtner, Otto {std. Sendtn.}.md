@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/item/104077#page/517/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33333642) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sendtner, Otto (1813-1859), German (Bavarian) botanist, privately employed in Silesia studying the cryptogamic flora of the Sudeten 1837-1840; Dr. phil. München 1840; curator of the Leuchtenberg Museum at Eichstädt 1841; travelled in Istria, Illyria and Bosnia; habil. Univ. München 1848; adjunct with the Bavarian Academy of Sciences in charge of the plant-geographical exploration of Bavaria; extraordinary professor at the University of München 1853; ordinary professor and curator of the München herbarium 1857-1859. (*Sendtn.*).
+Sendtner, Otto (1813-1859), German (Bavarian) botanist, privately employed in Silesia studying the cryptogamic flora of the Sudeten 1837-1840; Dr. phil. München 1840; curator of the Leuchtenberg Museum at Eichstädt 1841; travelled in Istria, Illyria and Bosnia; habil. Univ. München 1848; adjunct with the Bavarian Academy of Sciences in charge of the plant-geographical exploration of Bavaria; extraordinary professor at the University of München 1853; ordinary professor and curator of the München herbarium 1857-1859. 
+**Abbreviated name**: *Sendtn.*
 
 #### Herbarium and types
 

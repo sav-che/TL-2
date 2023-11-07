@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/item/103624#page/802/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33190259) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rieber, Xaver (1860-1906), German (Hohenzollern) botanist; studied at the Polytechnic and University of Tübingen; from 1881-1884 teacher at the Stuttgart Realgymnasium; teacher at the business school ib. 1886-1893; high school teacher at Ludwigsburg 1893-1896, id. at Ehingen a. Donau 1896-1903, again at Ludwigsburg 1904-1906. (*Rieber*).
+Rieber, Xaver (1860-1906), German (Hohenzollern) botanist; studied at the Polytechnic and University of Tübingen; from 1881-1884 teacher at the Stuttgart Realgymnasium; teacher at the business school ib. 1886-1893; high school teacher at Ludwigsburg 1893-1896, id. at Ehingen a. Donau 1896-1903, again at Ludwigsburg 1904-1906. 
+**Abbreviated name**: *Rieber*
 
 #### Herbarium and types
 

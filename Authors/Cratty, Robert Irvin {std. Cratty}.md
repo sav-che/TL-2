@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103860#page/460/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33266127) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cratty, Robert Irvin (1853-1940), American botanist and educator, born in Butler County, Pennsylvania, 5 Feb 1853, teacher in public schools until 1877, in the vicinity of Armstrong, curator of the herbarium (personal) until 1918, collection 1918 to Iowa State College, retired 1932. (*Cratty*).
+Cratty, Robert Irvin (1853-1940), American botanist and educator, born in Butler County, Pennsylvania, 5 Feb 1853, teacher in public schools until 1877, in the vicinity of Armstrong, curator of the herbarium (personal) until 1918, collection 1918 to Iowa State College, retired 1932. 
+**Abbreviated name**: *Cratty*
 
 #### Herbarium and types
 

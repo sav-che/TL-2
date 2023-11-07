@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103833#page/350/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33259384) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diguet, Léon \[Jacques Gustave\] (1859-1926), French botanist, born at Le Havre 25 Jul 1859, died 31 Aug 1926, stationed at Santa Rosalia and Isla Santa Catalina. (*Diguet*).
+Diguet, Léon \[Jacques Gustave\] (1859-1926), French botanist, born at Le Havre 25 Jul 1859, died 31 Aug 1926, stationed at Santa Rosalia and Isla Santa Catalina. 
+**Abbreviated name**: *Diguet*
 
 #### Herbarium and types
 

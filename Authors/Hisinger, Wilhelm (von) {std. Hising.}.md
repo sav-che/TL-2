@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103253#page/238/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33068454) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hisinger, Wilhelm \[von\] (1766-1852), Swedish palaeobotanist. (*Hising.*).
+Hisinger, Wilhelm \[von\] (1766-1852), Swedish palaeobotanist. 
+**Abbreviated name**: *Hising.*
 
 #### Herbarium and types
 

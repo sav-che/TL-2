@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103253#page/202/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hervey, Alpheus Baker (1839-1931), American clergyman and algologist, educated at St. Lawrence University, pastor of Universalist Church 1861, president of St. Lawrence University 1888. (*A. Herv.*).
+Hervey, Alpheus Baker (1839-1931), American clergyman and algologist, educated at St. Lawrence University, pastor of Universalist Church 1861, president of St. Lawrence University 1888. 
+**Abbreviated name**: *A. Herv.*
 
 #### Herbarium and types
 

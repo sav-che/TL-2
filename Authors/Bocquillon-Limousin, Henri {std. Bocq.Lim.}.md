@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103414#page/293/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33120376) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bocquillon-Limousin, Henri (*fl*. 1891-1914), French pharmacist at Paris. (*Bocq.-Lim.*).
+Bocquillon-Limousin, Henri (*fl*. 1891-1914), French pharmacist at Paris. 
+**Abbreviated name**: *Bocq.-Lim.*
 
 #### Herbarium and types
 

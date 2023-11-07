@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103859#page/300/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33265487) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boldt, Johan Georg Robert (1861-1923), Finnish phycologist and teacher, studied at the University of Helsinki 1878, fil. kand. 1881, fil. lic. 1891, teacher at various schools in Finland. (*Boldt*).
+Boldt, Johan Georg Robert (1861-1923), Finnish phycologist and teacher, studied at the University of Helsinki 1878, fil. kand. 1881, fil. lic. 1891, teacher at various schools in Finland. 
+**Abbreviated name**: *Boldt*
 
 #### Herbarium and types
 

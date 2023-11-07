@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/104137#page/177/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33355248) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lorey, A. (*fl*. 1851), German botanist and high school teacher at Apolda. (*A. Lorey*).
+Lorey, A. (*fl*. 1851), German botanist and high school teacher at Apolda. 
+**Abbreviated name**: *A. Lorey*
 
 #### Herbarium and types
 

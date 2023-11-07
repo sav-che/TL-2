@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/item/103253#page/783/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33068999) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lapham, Increase Allen (1811-1875), American pioneer naturalist and botanist; from 1836 businessman at Milwaukee; state geologist of Wisconsin 1873-1875. (*Laph.*).
+Lapham, Increase Allen (1811-1875), American pioneer naturalist and botanist; from 1836 businessman at Milwaukee; state geologist of Wisconsin 1873-1875. 
+**Abbreviated name**: *Laph.*
 
 #### Herbarium and types
 

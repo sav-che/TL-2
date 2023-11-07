@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/103414#page/167/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33120250) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Rodrigues, João Barbosa {std. Barb. Rodr.}|second]] and [[Barbosa Rodrigues, João {std. Barb. Rodr.} (Suppl.)|third]] entries for this author
 
 ### Author
 
-Barbosa Rodrigues, João (1842-1909), Brazilian botanist. (*Barb. Rodr.*).
+Barbosa Rodrigues, João (1842-1909), Brazilian botanist. 
+**Abbreviated name**: *Barb. Rodr.*
 
 #### Herbarium and types
 

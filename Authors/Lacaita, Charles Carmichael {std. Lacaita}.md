@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/item/103253#page/740/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lacaita, Charles Carmichael (1853-1933), British amateur botanist of Italian descent; country gentleman of independent means; specially interested in the flora of Italy; collected in Sikkim (1913) and Spain (1925-28). (*Lacaita*).
+Lacaita, Charles Carmichael (1853-1933), British amateur botanist of Italian descent; country gentleman of independent means; specially interested in the flora of Italy; collected in Sikkim (1913) and Spain (1925-28). 
+**Abbreviated name**: *Lacaita*
 
 #### Herbarium and types
 

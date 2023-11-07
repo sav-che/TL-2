@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 999](https://www.biodiversitylibrary.org/item/103414#page/1047/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 999](https://www.biodiversitylibrary.org/page/33121130) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grenier, (Jean) Charles (Marie) {std. Gren.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Grenier, Jean Charles Marie (1808-1875), French botanist at Besançon. (*Gren.*).
+Grenier, Jean Charles Marie (1808-1875), French botanist at Besançon. 
+**Abbreviated name**: *Gren.*
 
 #### Herbarium and types
 

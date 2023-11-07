@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/item/104137#page/651/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/page/33355722) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller, Jean Baptiste \[Baptista\] (1806-1894), German pharmacist and botanist at Mesebach, Emmerich and Berlin (*J. B. Müll*).
+Mueller, Jean Baptiste \[Baptista\] (1806-1894), German pharmacist and botanist at Mesebach, Emmerich and Berlin 
+**Abbreviated name**: *J. B. Müll*
 
 #### Herbarium and types
 

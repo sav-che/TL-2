@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/104077#page/371/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33333496) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schübler, Gustav (1787-1834), German (Württemberg) natural scientist; Dr. med. Tübingen 1810; practicing physician at Stuttgart ca. 1811; teacher of natural sciences at Hofwyl (Fellenberg Inst.) 1812-1817; professor of botany, natural history and agricultural chemistry at Tübingen 1817-1834. (*Schübl.*).
+Schübler, Gustav (1787-1834), German (Württemberg) natural scientist; Dr. med. Tübingen 1810; practicing physician at Stuttgart ca. 1811; teacher of natural sciences at Hofwyl (Fellenberg Inst.) 1812-1817; professor of botany, natural history and agricultural chemistry at Tübingen 1817-1834. 
+**Abbreviated name**: *Schübl.*
 
 #### Herbarium and types
 

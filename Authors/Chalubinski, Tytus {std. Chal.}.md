@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103860#page/52/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265719) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chalubinski, Tytus (1820-1889), Polish botanist, born 1820, Chociwek near Radom, died 4 Nov 1889, Zakopane, Galicia. (*Chal.*).
+Chalubinski, Tytus (1820-1889), Polish botanist, born 1820, Chociwek near Radom, died 4 Nov 1889, Zakopane, Galicia. 
+**Abbreviated name**: *Chal.*
 
 #### Herbarium and types
 

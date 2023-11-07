@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/103859#page/371/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33265558) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borszczow \[Borsrzow, Borstehof\], Elias \[Elia, Ilja\] Grigorjewitsch (1833-1878), Russian botanist, St. Petersburg born, educated at the Peter School and the Alexandrow-Lyceum in St. Petersburg 1846-1853, employed with the Finance Department, joined an expedition to the Aral Sea, later studied with Schenk in Würzburg, Dr. phil. Würzburg 1861, with the University of Kiew 1862-1865, lecturer ib. 1866-1878. (*I.G. Borshch.*).
+Borszczow \[Borsrzow, Borstehof\], Elias \[Elia, Ilja\] Grigorjewitsch (1833-1878), Russian botanist, St. Petersburg born, educated at the Peter School and the Alexandrow-Lyceum in St. Petersburg 1846-1853, employed with the Finance Department, joined an expedition to the Aral Sea, later studied with Schenk in Würzburg, Dr. phil. Würzburg 1861, with the University of Kiew 1862-1865, lecturer ib. 1866-1878. 
+**Abbreviated name**: *I.G. Borshch.*
 
 #### Herbarium and types
 

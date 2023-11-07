@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/104137#page/327/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marsilly, Louis Joseph Auguste de Commines de (1811 -1890), French army officer, mathematician and botanist. (*Marsilly*).
+Marsilly, Louis Joseph Auguste de Commines de (1811 -1890), French army officer, mathematician and botanist. 
+**Abbreviated name**: *Marsilly*
 
 #### Herbarium and types
 

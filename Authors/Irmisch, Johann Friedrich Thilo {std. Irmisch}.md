@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103253#page/412/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33068628) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Irmisch, Johann Friedrich Thilo (1816-1879), German botanist; studied at Halle with Schlechtendal; from 1844 high school teacher at Sondershausen; Dr. phil. h.c. Rostock 1857. (*Irmisch*).
+Irmisch, Johann Friedrich Thilo (1816-1879), German botanist; studied at Halle with Schlechtendal; from 1844 high school teacher at Sondershausen; Dr. phil. h.c. Rostock 1857. 
+**Abbreviated name**: *Irmisch*
 
 #### Herbarium and types
 

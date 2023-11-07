@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/item/103832#page/292/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33258758) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gola, Giuseppe (1877-1956), Italian botanist, born 26 Feb 1877 in Novara, studied medicine and natural sciences at Univ. of Turin, "promotion" in medicine 1900 and natural sciences 1902 Univ. of Turin, volunteer asst., pharmacy inst., then at inst. of botany, Univ. of Turin 1901, Univ. of Cagliari (Sardinia) 1920, prof., Univ. of Padua, died 20 \[25?\] Jul 1956 in Padua. (*Gola*).
+Gola, Giuseppe (1877-1956), Italian botanist, born 26 Feb 1877 in Novara, studied medicine and natural sciences at Univ. of Turin, "promotion" in medicine 1900 and natural sciences 1902 Univ. of Turin, volunteer asst., pharmacy inst., then at inst. of botany, Univ. of Turin 1901, Univ. of Cagliari (Sardinia) 1920, prof., Univ. of Padua, died 20 \[25?\] Jul 1956 in Padua. 
+**Abbreviated name**: *Gola*
 
 #### Herbarium and types
 

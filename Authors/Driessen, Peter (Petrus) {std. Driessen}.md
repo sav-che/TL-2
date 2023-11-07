@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/item/103835#page/109/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33260087) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Driessen, Peter (Petrus) (1753-1828), Dutch physician and botanist, born 30 Aug 1753 at Groningen, extraordinary medical professor in Harderwijk 1787, later professor in Groningen, since 1806 also teaching botany, emeritus in 1823, died 1828. (*Driessen*).
+Driessen, Peter (Petrus) (1753-1828), Dutch physician and botanist, born 30 Aug 1753 at Groningen, extraordinary medical professor in Harderwijk 1787, later professor in Groningen, since 1806 also teaching botany, emeritus in 1823, died 1828. 
+**Abbreviated name**: *Driessen*
 
 #### Herbarium and types
 

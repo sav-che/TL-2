@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103683#page/178/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33212210) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Targioni Tozetti, Giovanni (né Targioni) (1712-1783), Italian (Firenze) physician and naturalist; Dr. med. Pisa 1734; practiced medicine in Firenze 1734-1783; promoted prophylactic inoculation against smallpox; director of the Magliabechi Library 1739; associate of P.A. Micheli; director of the Firenze medico-botanical garden from 1737-1749; travelled widely espcially in Tuscany; father of Ottaviano Targioni Tozzetii. (*G. Targioni*).
+Targioni Tozetti, Giovanni (né Targioni) (1712-1783), Italian (Firenze) physician and naturalist; Dr. med. Pisa 1734; practiced medicine in Firenze 1734-1783; promoted prophylactic inoculation against smallpox; director of the Magliabechi Library 1739; associate of P.A. Micheli; director of the Firenze medico-botanical garden from 1737-1749; travelled widely espcially in Tuscany; father of Ottaviano Targioni Tozzetii. 
+**Abbreviated name**: *G. Targioni*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103859#page/214/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33265401) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blankinship, Joseph William (1862-1938), American botanist, studied at Harvard University, assistant in botany 1894-1898, A.B. 1894, A.M. 1896, Ph.D. 1898, professor of botany, Montana Agricultural College, Bozeman 1898-1905, later consulting pathologist but continuing his botanical exploration of Montana until ca. 1920, later resident of Kelseyville, Calif. as plant pathologist for smelter companies there and in other cities in Utah and Montana. (*Blank.*).
+Blankinship, Joseph William (1862-1938), American botanist, studied at Harvard University, assistant in botany 1894-1898, A.B. 1894, A.M. 1896, Ph.D. 1898, professor of botany, Montana Agricultural College, Bozeman 1898-1905, later consulting pathologist but continuing his botanical exploration of Montana until ca. 1920, later resident of Kelseyville, Calif. as plant pathologist for smelter companies there and in other cities in Utah and Montana. 
+**Abbreviated name**: *Blank.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103414#page/261/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33120344) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bigelow, Jacob {std. Bigelow} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bigelow, Jacob (1787-1879), American botanist at Harvard. (*Bigel.*).
+Bigelow, Jacob (1787-1879), American botanist at Harvard. 
+**Abbreviated name**: *Bigel.*
 
 #### Herbarium and types
 

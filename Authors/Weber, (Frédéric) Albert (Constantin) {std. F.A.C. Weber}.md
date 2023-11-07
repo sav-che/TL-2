@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/item/103250#page/184/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33066464) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weber, \[Frédéric\] Albert \[Constantin\] (1830-1903), French military surgeon and amateur botanist; studied medicine at the Val-de-Grâce, Paris, graduating 1853; on active service in Algeria, Italy (e.g. Solférino), Indo-China (ca. 1860-1862) and Mexico 1865-1866; in the Metz hospltal and the Army of the Loire 1870-1871; subsequently in charge of various military hospitals in France, ultimately director of Val-de-Grâce. (*F.A.C. Weber*).
+Weber, \[Frédéric\] Albert \[Constantin\] (1830-1903), French military surgeon and amateur botanist; studied medicine at the Val-de-Grâce, Paris, graduating 1853; on active service in Algeria, Italy (e.g. Solférino), Indo-China (ca. 1860-1862) and Mexico 1865-1866; in the Metz hospltal and the Army of the Loire 1870-1871; subsequently in charge of various military hospitals in France, ultimately director of Val-de-Grâce. 
+**Abbreviated name**: *F.A.C. Weber*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/item/103253#page/777/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Langman, Johann Friedrich (*fl*. 1841), German high school teacher at Neustrelitz. (*Langm.*).
+Langman, Johann Friedrich (*fl*. 1841), German high school teacher at Neustrelitz. 
+**Abbreviated name**: *Langm.*
 
 #### Herbarium and types
 

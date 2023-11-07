@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/item/103624#page/770/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33190227) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ricca, Luigi (x-1879), Italian customs officer and botanist on the French-Italian border in western Liguria. (*Ricca*).
+Ricca, Luigi (x-1879), Italian customs officer and botanist on the French-Italian border in western Liguria. 
+**Abbreviated name**: *Ricca*
 
 #### Herbarium and types
 

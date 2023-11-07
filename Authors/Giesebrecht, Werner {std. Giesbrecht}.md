@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103832#page/214/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33258680) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Giesebrecht, Werner (1880-x), German apothecary and mycologist, born 29 Jan 1880 in Stettin (now Szczecin, Poland), doctorate 1915 Würzburg. (*Giesbrecht*).
+Giesebrecht, Werner (1880-x), German apothecary and mycologist, born 29 Jan 1880 in Stettin (now Szczecin, Poland), doctorate 1915 Würzburg. 
+**Abbreviated name**: *Giesbrecht*
 
 #### Herbarium and types
 

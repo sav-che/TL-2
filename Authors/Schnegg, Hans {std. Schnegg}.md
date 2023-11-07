@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/104077#page/282/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33333407) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schnegg, Hans (1875-1950), German (Bavarian) mycologist and fermentation-physiologist; assistant at the Institute for plant physiology at München; Dr. phil. München 1901, as student of Karl Goebel; from 1913-1943 teacher at the agricultural and brewery college of Weihenstephan, also extra-ordinary professor at the Technical University of München. (*Schnegg*).
+Schnegg, Hans (1875-1950), German (Bavarian) mycologist and fermentation-physiologist; assistant at the Institute for plant physiology at München; Dr. phil. München 1901, as student of Karl Goebel; from 1913-1943 teacher at the agricultural and brewery college of Weihenstephan, also extra-ordinary professor at the Technical University of München. 
+**Abbreviated name**: *Schnegg*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103253#page/250/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33068466) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hodgson, William (1824-1901), English botanist and schoolmaster at Watermillock, and Aspatria, Cumberland. (*Hodgs.*).
+Hodgson, William (1824-1901), English botanist and schoolmaster at Watermillock, and Aspatria, Cumberland. 
+**Abbreviated name**: *Hodgs.*
 
 #### Herbarium and types
 

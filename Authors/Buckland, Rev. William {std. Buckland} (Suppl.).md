@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103861#page/211/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33266508) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buckland, William {std. Buckland}|first entry]] for this author
 
 ### Author
 
-\* Buckland, Rev. William (1784-1856), British geologist and mineralogist, born in Axminster, Devonshire, educated at Winchester School, studied at Oxford, at Corpus Christi College 1801, graduated 1804, admitted to holy orders 1809, reader in mineralogy 1813, reader in geology 1818, lectured also in London, dean of Westminster 1845. (*Buckland*).
+\* Buckland, Rev. William (1784-1856), British geologist and mineralogist, born in Axminster, Devonshire, educated at Winchester School, studied at Oxford, at Corpus Christi College 1801, graduated 1804, admitted to holy orders 1809, reader in mineralogy 1813, reader in geology 1818, lectured also in London, dean of Westminster 1845. 
+**Abbreviated name**: *Buckland*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/item/104137#page/552/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33355623) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moench, Conrad (1744-1805), German botanist, chemist and pharmacist; Dr. med. Marburg 1781; pharmacist at Hannover (1764), Bern (1765-1768), Strassburg (1768-1770), Kassel (1770-1785); assessor and from 1781 professor of botany at the medical college of Kassel 1780-1785; professor of botany and in other functions at Marburg University 1785-1805. (*Moench*).
+Moench, Conrad (1744-1805), German botanist, chemist and pharmacist; Dr. med. Marburg 1781; pharmacist at Hannover (1764), Bern (1765-1768), Strassburg (1768-1770), Kassel (1770-1785); assessor and from 1781 professor of botany at the medical college of Kassel 1780-1785; professor of botany and in other functions at Marburg University 1785-1805. 
+**Abbreviated name**: *Moench*
 
 #### Herbarium and types
 

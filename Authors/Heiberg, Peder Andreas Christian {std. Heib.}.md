@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103253#page/162/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33068378) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heiberg, Peder Andreas Christian (1837-1875), Danish algologist; Dr. phil. Kjøbenhavn 1863; one of the founders of the Dansk bot. Forening (1865). (*Heib.*).
+Heiberg, Peder Andreas Christian (1837-1875), Danish algologist; Dr. phil. Kjøbenhavn 1863; one of the founders of the Dansk bot. Forening (1865). 
+**Abbreviated name**: *Heib.*
 
 #### Herbarium and types
 

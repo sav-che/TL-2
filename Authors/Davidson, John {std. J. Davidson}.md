@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103833#page/109/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33259143) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davidson, John (1878-1970), British botanist, born at Aberdeen 6 Aug 1878, died 10 Feb 1970, curator, Botany Museum Aberdeen University 1893-1911, provincial botanist British Columbia 1911, curator of herbarium and botanic garden 1916, first professor of botany University of British Columbia, founder and president, Vancouver Natural History Society. (*J. Davidson*).
+Davidson, John (1878-1970), British botanist, born at Aberdeen 6 Aug 1878, died 10 Feb 1970, curator, Botany Museum Aberdeen University 1893-1911, provincial botanist British Columbia 1911, curator of herbarium and botanic garden 1916, first professor of botany University of British Columbia, founder and president, Vancouver Natural History Society. 
+**Abbreviated name**: *J. Davidson*
 
 #### Herbarium and types
 

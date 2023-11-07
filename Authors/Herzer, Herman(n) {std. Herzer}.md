@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103253#page/204/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herzer, Herman\[n\] (1833-1912), German-born American itinerant Methodist minister and palaeobotanist active in the Geological Survey of the State of Ohio. (*Herzer*).
+Herzer, Herman\[n\] (1833-1912), German-born American itinerant Methodist minister and palaeobotanist active in the Geological Survey of the State of Ohio. 
+**Abbreviated name**: *Herzer*
 
 #### Collections and types
 

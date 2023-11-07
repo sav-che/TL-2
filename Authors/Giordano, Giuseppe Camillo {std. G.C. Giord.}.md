@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/103832#page/241/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33258707) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Giordano, Giuseppe Camillo (1841-1901), Italian bryologist, born 1 Mar 1841 in Pomarico (Basilicata), educated in Matera, studied at the Royal Technical and Nautical Inst., Naples, student of N.A. Pedicino, taught natural history in secondary school and ultimately prof. at the Technical Inst., Naples, died 17 Nov 1901 in Bernalda (Basilicata) nr. Naples. (*G.C. Giord.*).
+Giordano, Giuseppe Camillo (1841-1901), Italian bryologist, born 1 Mar 1841 in Pomarico (Basilicata), educated in Matera, studied at the Royal Technical and Nautical Inst., Naples, student of N.A. Pedicino, taught natural history in secondary school and ultimately prof. at the Technical Inst., Naples, died 17 Nov 1901 in Bernalda (Basilicata) nr. Naples. 
+**Abbreviated name**: *G.C. Giord.*
 
 #### Note
 

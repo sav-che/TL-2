@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103835#page/389/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33260367) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Entleutner, Anton F. (fl. 1880-1892), Austrian (German?) botanist living in Meran, earlier (1880) professor in Lautrach near Memmingen (Germany), finally living at Munich. (*Entleutner*).
+Entleutner, Anton F. (fl. 1880-1892), Austrian (German?) botanist living in Meran, earlier (1880) professor in Lautrach near Memmingen (Germany), finally living at Munich. 
+**Abbreviated name**: *Entleutner*
 
 #### Herbarium and types
 

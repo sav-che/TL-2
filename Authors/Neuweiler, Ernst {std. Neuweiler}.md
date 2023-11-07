@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/item/104137#page/749/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33355820) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neuweiler, Ernst (1875-?), Swiss botanist and palaeontologist; Dr. phil. Zürich 1901 (*Neuweiler*).
+Neuweiler, Ernst (1875-?), Swiss botanist and palaeontologist; Dr. phil. Zürich 1901 
+**Abbreviated name**: *Neuweiler*
 
 #### Herbarium and types
 

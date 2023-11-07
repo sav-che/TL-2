@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/103835#page/313/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33260291) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elfving, Karl Oskar (1872-1946), Finnish botanist. (*K.O. Elfving*).
+Elfving, Karl Oskar (1872-1946), Finnish botanist. 
+**Abbreviated name**: *K.O. Elfving*
 
 #### Herbarium and types
 

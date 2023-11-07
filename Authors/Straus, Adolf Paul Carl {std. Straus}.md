@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103683#page/52/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Straus, Adolf Paul Carl (1901-x), German (Berlin) palaeobotanist and mycologist; Dr. phil. Göttingen 1929; managing clerk 1930-1941; owner of the bookprinting shop 1941, publisher 1954; collaborator Berlin-Dahlem (Bot. Mus.) 1963-1964; lecturer paläontology Freie Univ. Berlin 1964. (*Straus*).
+Straus, Adolf Paul Carl (1901-x), German (Berlin) palaeobotanist and mycologist; Dr. phil. Göttingen 1929; managing clerk 1930-1941; owner of the bookprinting shop 1941, publisher 1954; collaborator Berlin-Dahlem (Bot. Mus.) 1963-1964; lecturer paläontology Freie Univ. Berlin 1964. 
+**Abbreviated name**: *Straus*
 
 #### Herbarium and types
 

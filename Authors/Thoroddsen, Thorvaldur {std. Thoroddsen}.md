@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103683#page/305/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33212337) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thoroddsen, Thorvaldur (1855-1921), Icelandic geologist, geographer and botanist; studied at the University of Copenhagen; high school teacher in Iceland 1880-1895; from 1895 private scientist in Copenhagen. (*Thoroddsen*).
+Thoroddsen, Thorvaldur (1855-1921), Icelandic geologist, geographer and botanist; studied at the University of Copenhagen; high school teacher in Iceland 1880-1895; from 1895 private scientist in Copenhagen. 
+**Abbreviated name**: *Thoroddsen*
 
 #### Herbarium and types
 

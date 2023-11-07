@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/item/103683#page/720/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33212752) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vergara y Perez de Aranda, Mariano (1833-?), Spanish rhodologist. (*Vergara*).
+Vergara y Perez de Aranda, Mariano (1833-?), Spanish rhodologist. 
+**Abbreviated name**: *Vergara*
 
 #### Herbarium and types
 

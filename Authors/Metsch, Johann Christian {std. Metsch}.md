@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/item/104137#page/448/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33355519) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Metsch, Johann Christian (1796-1856), German botanist; Dr. med. Berlin 1821; from 1822 public health officer at Suhl. (*Metsch*).
+Metsch, Johann Christian (1796-1856), German botanist; Dr. med. Berlin 1821; from 1822 public health officer at Suhl. 
+**Abbreviated name**: *Metsch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/item/103253#page/430/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33068646) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jacques, Henri Antoine (1782-1866), French horticulturist at Raincy and Neuilly. (*Jacques*).
+Jacques, Henri Antoine (1782-1866), French horticulturist at Raincy and Neuilly. 
+**Abbreviated name**: *Jacques*
 
 #### Herbarium and types
 

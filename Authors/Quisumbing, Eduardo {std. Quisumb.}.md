@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/103624#page/473/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33189930) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quisumbing, Eduardo (1895-x), Philippine botanist; Dr. phil. Univ. Chicago 1923; in various functions at the College of Agriculture of the University of the Philippines, at the College of Pharmacy of the University of Santo Tomas and with the Division of Botany and National Museum of the Bureau of Science; from 1945-1961 director the National Museum, Manila. (*Quisumb.*).
+Quisumbing, Eduardo (1895-x), Philippine botanist; Dr. phil. Univ. Chicago 1923; in various functions at the College of Agriculture of the University of the Philippines, at the College of Pharmacy of the University of Santo Tomas and with the Division of Botany and National Museum of the Bureau of Science; from 1945-1961 director the National Museum, Manila. 
+**Abbreviated name**: *Quisumb.*
 
 #### Herbarium and types
 

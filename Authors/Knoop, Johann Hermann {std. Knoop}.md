@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/item/103253#page/606/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33068822) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knoop, Johann Hermann (± 1700-1769), German born gardener at Marienburg near Leeuwarden, later teacher in mathematics and free-lance publicist. (*Knoop*).
+Knoop, Johann Hermann (± 1700-1769), German born gardener at Marienburg near Leeuwarden, later teacher in mathematics and free-lance publicist. 
+**Abbreviated name**: *Knoop*
 
 #### Herbarium and types
 

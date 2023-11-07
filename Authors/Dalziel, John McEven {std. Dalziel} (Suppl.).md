@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/item/103833#page/46/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33259080) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dalziel, John McEwen {std. Dalziel}|first entry]] for this author
 
 ### Author
 
-\* Dalziel, John McEven (1872-1948), British colonial public health officer, born in Nagpur, India, traveller as missionary in China 1895-1902 and in West tropical Africa 1905-1922, ultimately at Kew 1923-1936, M.B., Edinburgh 1895, MD 1903, FLS 1917. (*Dalziel*).
+\* Dalziel, John McEven (1872-1948), British colonial public health officer, born in Nagpur, India, traveller as missionary in China 1895-1902 and in West tropical Africa 1905-1922, ultimately at Kew 1923-1936, M.B., Edinburgh 1895, MD 1903, FLS 1917. 
+**Abbreviated name**: *Dalziel*
 
 #### Herbarium and types
 

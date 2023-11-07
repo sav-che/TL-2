@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103833#page/13/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259047) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dachnowski-Stokes, Alfred Paul (1875-1949), American botanist, born at Königshütte (Germany then, later Chorzow, Poland), studied at the University of Berlin 1900-1901, id. Vienna 1902, Ph.D. University of Michigan 1906, professor of botany at Ohio State 1908-1914, with Ohio Geological Service 1904-1912, from 1915 with U.S.D.A. (*Dachnowski*).
+Dachnowski-Stokes, Alfred Paul (1875-1949), American botanist, born at Königshütte (Germany then, later Chorzow, Poland), studied at the University of Berlin 1900-1901, id. Vienna 1902, Ph.D. University of Michigan 1906, professor of botany at Ohio State 1908-1914, with Ohio Geological Service 1904-1912, from 1915 with U.S.D.A. 
+**Abbreviated name**: *Dachnowski*
 
 #### Letters
 

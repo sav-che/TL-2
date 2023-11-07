@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/item/103624#page/824/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robert, Nicolas (1610-1684), French botanical artist for Gaston d'Orléans at Paris. (*N. Robert*).
+Robert, Nicolas (1610-1684), French botanical artist for Gaston d'Orléans at Paris. 
+**Abbreviated name**: *N. Robert*
 
 #### Herbarium and types
 

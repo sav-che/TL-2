@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103859#page/70/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265257) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beinling, Theodor Rudolf Berthold (1825-1900), German (Schlesien) botanist and highschool teacher, educated at the Santa Maria Magdalena Gymnasium 1839-1845, studied at the University of Breslau 1845-1850, Dr. phil. ib. 1850, ca. 1858 teacher at the "Gymnasium zu St. Maria Magdalena", Breslau. (*Th. Beinling*).
+Beinling, Theodor Rudolf Berthold (1825-1900), German (Schlesien) botanist and highschool teacher, educated at the Santa Maria Magdalena Gymnasium 1839-1845, studied at the University of Breslau 1845-1850, Dr. phil. ib. 1850, ca. 1858 teacher at the "Gymnasium zu St. Maria Magdalena", Breslau. 
+**Abbreviated name**: *Th. Beinling*
 
 #### Herbarium and types
 

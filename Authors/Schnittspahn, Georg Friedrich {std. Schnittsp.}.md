@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/item/104077#page/292/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schnittspahn, Georg Friedrich (1810-1865), German (Hessen) botanist; botany teacher at Kranichstein 1831-1838; inspector of the Darmstadt botanical garden 1836, "Oberleiter" from 1841, director 1855; teacher at the technical school from 1841; "Hofgartendirector" from 1849. (*Schnittsp.*).
+Schnittspahn, Georg Friedrich (1810-1865), German (Hessen) botanist; botany teacher at Kranichstein 1831-1838; inspector of the Darmstadt botanical garden 1836, "Oberleiter" from 1841, director 1855; teacher at the technical school from 1841; "Hofgartendirector" from 1849. 
+**Abbreviated name**: *Schnittsp.*
 
 #### Herbarium and types
 

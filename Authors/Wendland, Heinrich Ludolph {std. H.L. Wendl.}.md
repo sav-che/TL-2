@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103250#page/240/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33066520) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wendland, Heinrich Ludolph (1791-1869), German (Hannover) botanist and gardener; son of Johann Christian Wendland; father of Hermann Wendland; garden inspector at Herrenhausen nr. Hannover. (*H.L. Wendl.*).
+Wendland, Heinrich Ludolph (1791-1869), German (Hannover) botanist and gardener; son of Johann Christian Wendland; father of Hermann Wendland; garden inspector at Herrenhausen nr. Hannover. 
+**Abbreviated name**: *H.L. Wendl.*
 
 #### Herbarium and types
 

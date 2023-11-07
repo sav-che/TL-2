@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103835#page/314/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33260292) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eliasson, Albin Gottfrid (1860-1933), Swedish botanist, born 3 Oct at Vänersborg, went to schools at Vånersborg and started to study at Uppsala 1881, fil. cand. 1886, fil. lic. 1892, dr. phil. 1894, also cand. in chemistry 1899, was teacher at several schools, lector in biology and chemistry at Visby 1906, died 14 Nov 1933 at Vånersborg. (*A.G. Eliasson*).
+Eliasson, Albin Gottfrid (1860-1933), Swedish botanist, born 3 Oct at Vänersborg, went to schools at Vånersborg and started to study at Uppsala 1881, fil. cand. 1886, fil. lic. 1892, dr. phil. 1894, also cand. in chemistry 1899, was teacher at several schools, lector in biology and chemistry at Visby 1906, died 14 Nov 1933 at Vånersborg. 
+**Abbreviated name**: *A.G. Eliasson*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/item/103414#page/455/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33120538) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bunge, Alexander (Georg) Andrejewitsch von {std. Bunge} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bunge, Alexander Andrejewitsch von (1803-1890), Russian botanist and explorer professor of natural history at Dorpat. (*Bunge*).
+Bunge, Alexander Andrejewitsch von (1803-1890), Russian botanist and explorer professor of natural history at Dorpat. 
+**Abbreviated name**: *Bunge*
 
 #### Herbarium and types
 

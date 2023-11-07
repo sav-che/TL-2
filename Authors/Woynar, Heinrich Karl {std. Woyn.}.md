@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/item/103250#page/522/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33066802) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woynar, Heinrich Karl (1865-1917), Austrian botanist; studied pharmacy at the University of Innsbruck 1887-1889; from 1900 living at Graz as private scientist. (*Woyn.*).
+Woynar, Heinrich Karl (1865-1917), Austrian botanist; studied pharmacy at the University of Innsbruck 1887-1889; from 1900 living at Graz as private scientist. 
+**Abbreviated name**: *Woyn.*
 
 #### Herbarium and types
 

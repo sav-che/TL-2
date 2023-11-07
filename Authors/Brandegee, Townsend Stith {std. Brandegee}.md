@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/103414#page/351/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33120434) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandegee, Townsend Stith {std. Brandegee} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brandegee, Townsend Stith (1843-1925), American botanist in California. (*T. S. Brandegee*).
+Brandegee, Townsend Stith (1843-1925), American botanist in California. 
+**Abbreviated name**: *T. S. Brandegee*
 
 #### Herbarium and types
 

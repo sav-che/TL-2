@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/item/103253#page/786/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Larber, Giovanni (1785-1845), Italian physican and botanist at Bassano. (*Larber*).
+Larber, Giovanni (1785-1845), Italian physican and botanist at Bassano. 
+**Abbreviated name**: *Larber*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/item/104077#page/912/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stern, Kurt (1892-x), German (Silesian) botanist; studied law in Berlin and natural sciences in Breslau and München; Dr. phil. München 1914; student of K. v. Goebel. (*K. Stern*).
+Stern, Kurt (1892-x), German (Silesian) botanist; studied law in Berlin and natural sciences in Breslau and München; Dr. phil. München 1914; student of K. v. Goebel. 
+**Abbreviated name**: *K. Stern*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103414#page/107/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33120190) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ardoino, Honoré (Onorato) Jean Baptiste {std. Ardoino} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ardoino, Honoré \[Onorato\] Jean Baptiste (1819-1874), French-Italian botanist at Menton. (*Ardoino*).
+Ardoino, Honoré \[Onorato\] Jean Baptiste (1819-1874), French-Italian botanist at Menton. 
+**Abbreviated name**: *Ardoino*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/item/104137#page/717/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Necker, Noel Joseph de (1730-1793), French-born botanist and historiographer; later "kurpfälzischer Botaniker" in Mannheim (*Neck.*).
+Necker, Noel Joseph de (1730-1793), French-born botanist and historiographer; later "kurpfälzischer Botaniker" in Mannheim 
+**Abbreviated name**: *Neck.*
 
 #### Herbarium and types
 

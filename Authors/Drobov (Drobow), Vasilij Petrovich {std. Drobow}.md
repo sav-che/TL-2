@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103835#page/110/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drobov \[Drobow\], Vasilij Petrovich (1885-1956), Russian working in Turkestan and St. Petersburg, born 30 Jul 1885, Tomashev. (*Drobow*).
+Drobov \[Drobow\], Vasilij Petrovich (1885-1956), Russian working in Turkestan and St. Petersburg, born 30 Jul 1885, Tomashev. 
+**Abbreviated name**: *Drobow*
 
 #### Herbarium and types
 

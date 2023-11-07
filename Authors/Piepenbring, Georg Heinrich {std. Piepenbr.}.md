@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103624#page/271/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piepenbring, Georg Heinrich (1763-1806), German (Kurhessen) pharmacist and botanist at Meinberg (Lippe), Karlshafen (Hessen); later professor of chemistry and pharmacy at Marburg; from 1805 at Rinteln. (*Piepenbr.*).
+Piepenbring, Georg Heinrich (1763-1806), German (Kurhessen) pharmacist and botanist at Meinberg (Lippe), Karlshafen (Hessen); later professor of chemistry and pharmacy at Marburg; from 1805 at Rinteln. 
+**Abbreviated name**: *Piepenbr.*
 
 #### Herbarium and types
 

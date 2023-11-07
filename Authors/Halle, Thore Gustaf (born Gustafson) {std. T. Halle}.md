@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103253#page/50/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33068266) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Halle, Thore Gustaf (born Gustafson) (1884-1964), Swedish palaeobotanist at the Naturhistoriska Riksmuseet, Stockholm. (*T. Halle*).
+Halle, Thore Gustaf (born Gustafson) (1884-1964), Swedish palaeobotanist at the Naturhistoriska Riksmuseet, Stockholm. 
+**Abbreviated name**: *T. Halle*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/item/103253#page/841/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Le Gall de Kerlinou, Nicolas Joseph Marie (1787-1860), French botanist; "conseiller à la Cour d'Appel de Rennes"; député d'Ille-et-Vilaine. (*Le Gall*).
+Le Gall de Kerlinou, Nicolas Joseph Marie (1787-1860), French botanist; "conseiller à la Cour d'Appel de Rennes"; député d'Ille-et-Vilaine. 
+**Abbreviated name**: *Le Gall*
 
 #### Herbarium and types
 

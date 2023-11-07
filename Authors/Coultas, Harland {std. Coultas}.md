@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103860#page/422/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266089) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coultas, Harland (x-1877), U.S.A. born professor of botany, Pennsylvania Medical University, Philadelphia, lecturer at Charing Cross Hospital, London, England, died in London 2 Feb 1877. (*Coultas*).
+Coultas, Harland (x-1877), U.S.A. born professor of botany, Pennsylvania Medical University, Philadelphia, lecturer at Charing Cross Hospital, London, England, died in London 2 Feb 1877. 
+**Abbreviated name**: *Coultas*
 
 #### Herbarium and types
 

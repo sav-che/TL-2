@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/item/103250#page/506/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33066786) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woodson, Robert \[Everard\], Jr. (1904-1963), American botanist; studied at Washington University, St. Louis, Missouri; M.S. ib. 1927; M.A. Harvard 1928; Dr. phil. Washington Univ. 1929; instructor in botany ib. 1929-1935, assistant professor 1935-1942, associate professor 1942-1945, regular professor 1945-1963; assistant herbarium Missouri Botanical Garden 1928-1937, asst. curator 1937-1947, "curator" 1945-1955, curator 1955-1956, 1959-1963. (*Woodson*).
+Woodson, Robert \[Everard\], Jr. (1904-1963), American botanist; studied at Washington University, St. Louis, Missouri; M.S. ib. 1927; M.A. Harvard 1928; Dr. phil. Washington Univ. 1929; instructor in botany ib. 1929-1935, assistant professor 1935-1942, associate professor 1942-1945, regular professor 1945-1963; assistant herbarium Missouri Botanical Garden 1928-1937, asst. curator 1937-1947, "curator" 1945-1955, curator 1955-1956, 1959-1963. 
+**Abbreviated name**: *Woodson*
 
 #### Herbarium and types
 

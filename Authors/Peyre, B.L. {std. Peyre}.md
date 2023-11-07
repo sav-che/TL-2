@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103624#page/229/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33189686) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peyre, B.L. (*fl*. 1823), French botanist, army surgeon with the 18th "Régiment d'Infanterie de Ligne". (*Peyre*).
+Peyre, B.L. (*fl*. 1823), French botanist, army surgeon with the 18th "Régiment d'Infanterie de Ligne". 
+**Abbreviated name**: *Peyre*
 
 #### Herbarium and types
 

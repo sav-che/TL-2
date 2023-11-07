@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103860#page/51/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33265718) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chaloner, Edward (fl. 1851), British, author of "The Mahogany tree". (*E. Chaloner*).
+Chaloner, Edward (fl. 1851), British, author of "The Mahogany tree". 
+**Abbreviated name**: *E. Chaloner*
 
 #### Herbarium and types
 

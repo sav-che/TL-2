@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/item/103858#page/387/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33265102) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Batka, Johann Baptista (fl. 1823-1872), Czech business-man (with the Wenzel Batka firm) and amateur botanist at Praha. (*Batka*).
+Batka, Johann Baptista (fl. 1823-1872), Czech business-man (with the Wenzel Batka firm) and amateur botanist at Praha. 
+**Abbreviated name**: *Batka*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103250#page/275/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33066555) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Westhoff, Friedrich \[Fritz\] (1867-1896), German (Westphalian) entomologist and botanist; lecturer ("Privatdocent") at the University of Münster; Dr. phil. ib. 1882. (*Westh.*).
+Westhoff, Friedrich \[Fritz\] (1867-1896), German (Westphalian) entomologist and botanist; lecturer ("Privatdocent") at the University of Münster; Dr. phil. ib. 1882. 
+**Abbreviated name**: *Westh.*
 
 #### Herbarium and types
 

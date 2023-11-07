@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/item/103414#page/540/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chesney, Francis Rawdon (1789-1872), British general who collected plants on an expedition to the Euphrates. (*Chesney*).
+Chesney, Francis Rawdon (1789-1872), British general who collected plants on an expedition to the Euphrates. 
+**Abbreviated name**: *Chesney*
 
 #### Herbarium and types
 

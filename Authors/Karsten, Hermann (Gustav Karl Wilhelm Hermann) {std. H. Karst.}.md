@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/103253#page/526/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33068742) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Karsten, Hermann \[Gustav Karl Wilhelm Hermann\] (1817-1908), German botanist; studied botany in the Stralsund pharmacy; travelled in South America 1844-1847, 1848-1856; from 1856-1868 professor of botany in Berlin; 1868-1872 in Wien; from 1872 onward in Berlin. (*H. Karst.*).
+Karsten, Hermann \[Gustav Karl Wilhelm Hermann\] (1817-1908), German botanist; studied botany in the Stralsund pharmacy; travelled in South America 1844-1847, 1848-1856; from 1856-1868 professor of botany in Berlin; 1868-1872 in Wien; from 1872 onward in Berlin. 
+**Abbreviated name**: *H. Karst.*
 
 #### Herbarium and types
 

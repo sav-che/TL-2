@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/item/103414#page/372/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33120455) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bridel (-Brideri), Samuel-Elisée de {std. Brid.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bridel (-Brideri), Samuel-Elisée de (1761-1828), Swiss bryologist who lived for the greater part of his life in Gotha. (*Brid.*).
+Bridel (-Brideri), Samuel-Elisée de (1761-1828), Swiss bryologist who lived for the greater part of his life in Gotha. 
+**Abbreviated name**: *Brid.*
 
 #### Herbarium and types
 

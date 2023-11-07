@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103859#page/179/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33265366) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bioret, Georges Félix Marie (1880-1957), French clergyman, algologist and lichenologist, student of abbé Hy, Dr. Sci. Paris 1921, canon 1921, professor of botany at the Faculté libre des Sciences, Catholic University at Angers. (*Bioret*).
+Bioret, Georges Félix Marie (1880-1957), French clergyman, algologist and lichenologist, student of abbé Hy, Dr. Sci. Paris 1921, canon 1921, professor of botany at the Faculté libre des Sciences, Catholic University at Angers. 
+**Abbreviated name**: *Bioret*
 
 #### Herbarium and types
 

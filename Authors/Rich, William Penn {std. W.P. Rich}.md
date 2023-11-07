@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/item/103624#page/772/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33190229) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rich, William Penn (1849-1930), American wholesale grocer in Boston 1864-1902; ardent amateur botanist; secretary and librarian of the Massachusetts Horticultural Society 1902-1923; member of the editorial board of Rhodora from 1899. (*W.P. Rich*).
+Rich, William Penn (1849-1930), American wholesale grocer in Boston 1864-1902; ardent amateur botanist; secretary and librarian of the Massachusetts Horticultural Society 1902-1923; member of the editorial board of Rhodora from 1899. 
+**Abbreviated name**: *W.P. Rich*
 
 #### Herbarium and types
 

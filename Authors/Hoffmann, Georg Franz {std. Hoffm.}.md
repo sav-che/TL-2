@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/103253#page/263/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33068479) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoffmann, Georg Franz (1760-1826), German botanist, professor of botany at Erlangen (1789), Göttingen (1792) and Moscow (1804). (*Hoffm.*).
+Hoffmann, Georg Franz (1760-1826), German botanist, professor of botany at Erlangen (1789), Göttingen (1792) and Moscow (1804). 
+**Abbreviated name**: *Hoffm.*
 
 #### Herbarium and types
 

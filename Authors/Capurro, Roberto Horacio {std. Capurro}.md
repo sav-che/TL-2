@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103861#page/407/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33266704) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Capurro, Roberto Horacio (1910-x), Argentine botanist, born 5 April 1910, at the Facultad de Ciencias exactas y naturales de Buenos Aires and at the Instituto Nacional de Investigación de las Ciencias naturales, specialized in Pteridophyta. (*Capurro*).
+Capurro, Roberto Horacio (1910-x), Argentine botanist, born 5 April 1910, at the Facultad de Ciencias exactas y naturales de Buenos Aires and at the Instituto Nacional de Investigación de las Ciencias naturales, specialized in Pteridophyta. 
+**Abbreviated name**: *Capurro*
 
 #### Herbarium and types
 

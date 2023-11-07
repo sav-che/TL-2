@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103832#page/298/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33258764) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gombocz, Endre A. (1882-1945), Hungarian botanist, historian and bibliographer, born 9 Jun 1882 in Sopron, dir., Hungarian Natl. Museum, Budapest from 1936, died 16 Jan 1945 in Budapest. (*Gombocz*).
+Gombocz, Endre A. (1882-1945), Hungarian botanist, historian and bibliographer, born 9 Jun 1882 in Sopron, dir., Hungarian Natl. Museum, Budapest from 1936, died 16 Jan 1945 in Budapest. 
+**Abbreviated name**: *Gombocz*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/103683#page/269/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33212301) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thielau, Friedrich Joachim Siegismund von (1796-?), German (Silesian) landed proprietor, agriculturist and forester, managing the estate of Lampersdorf (nr Breslau) from 1822. (*Thielau*).
+Thielau, Friedrich Joachim Siegismund von (1796-?), German (Silesian) landed proprietor, agriculturist and forester, managing the estate of Lampersdorf (nr Breslau) from 1822. 
+**Abbreviated name**: *Thielau*
 
 #### Herbarium and types
 

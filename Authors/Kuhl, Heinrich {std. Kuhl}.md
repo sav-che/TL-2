@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/item/103253#page/715/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33068931) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kuhl, Heinrich (1796-1821), Dutch botanical and zoological explorer in the Netherlands East-Indies; member of the "Natuurwetenschappelijke Commissie". (*Kuhl*).
+Kuhl, Heinrich (1796-1821), Dutch botanical and zoological explorer in the Netherlands East-Indies; member of the "Natuurwetenschappelijke Commissie". 
+**Abbreviated name**: *Kuhl*
 
 #### Herbarium and types
 

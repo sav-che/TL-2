@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/104077#page/309/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33333434) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scholz, Eduard (1860-?), Transsylvania-born Austrian botanist; high school teacher at Stockerau, Görtz \[Göritz, Gorizia, Venetia Giulia\]; id. in Krems 1897-1898; from 1898 id. in Wien. (*E. Scholz*).
+Scholz, Eduard (1860-?), Transsylvania-born Austrian botanist; high school teacher at Stockerau, Görtz \[Göritz, Gorizia, Venetia Giulia\]; id. in Krems 1897-1898; from 1898 id. in Wien. 
+**Abbreviated name**: *E. Scholz*
 
 #### Herbarium and types
 

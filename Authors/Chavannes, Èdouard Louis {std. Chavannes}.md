@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/item/103414#page/538/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chavannes, Èdouard Louis (1805-1861), Swiss botanist and religious philanthropist. (*Chavannes*).
+Chavannes, Èdouard Louis (1805-1861), Swiss botanist and religious philanthropist. 
+**Abbreviated name**: *Chavannes*
 
 #### Herbarium and types
 

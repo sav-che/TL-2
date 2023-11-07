@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103861#page/440/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33266737) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carson, Joseph {std. Carson}|first entry]] for this author
 
 ### Author
 
-\* Carson, Joseph (1808-1876), American (Philadelphia born) physician and botanist, educated at Germantown Academy, entered 1823 the Sophomore Class of the University of Pennsylvania, Bachelor of Arts 1826, entered a wholesale drugstore and up again studying medicine at the University of Pennsylvania, Dr. med. March 1930, elected resident phycician in the Philadelphia Almshouse but took a voyage to the East Indies visiting Madras and Calcutta, returning 1832, taking up practitioner of obstetrics, member of the Academy of natural sciences 1835, professor of materia medica in Philadelphia College of Pharmacy 1836-1850, physician in Pennsylvania Hospital 1849-1854, professor of materia medica and therapeutics 1850-1876 in the University of Pennsylvania. (*Carson*).
+\* Carson, Joseph (1808-1876), American (Philadelphia born) physician and botanist, educated at Germantown Academy, entered 1823 the Sophomore Class of the University of Pennsylvania, Bachelor of Arts 1826, entered a wholesale drugstore and up again studying medicine at the University of Pennsylvania, Dr. med. March 1930, elected resident phycician in the Philadelphia Almshouse but took a voyage to the East Indies visiting Madras and Calcutta, returning 1832, taking up practitioner of obstetrics, member of the Academy of natural sciences 1835, professor of materia medica in Philadelphia College of Pharmacy 1836-1850, physician in Pennsylvania Hospital 1849-1854, professor of materia medica and therapeutics 1850-1876 in the University of Pennsylvania. 
+**Abbreviated name**: *Carson*
 
 #### Herbarium and types
 

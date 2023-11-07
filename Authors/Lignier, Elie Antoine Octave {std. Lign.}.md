@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/104137#page/32/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33355111) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lignier, Elie Antoine Octave (1855-1916), French palaeobotanist; Dr. Sci. Paris 1887; "préparateur" at Lille with C. E. Bertrand 1880-1887; lecturer (1887) and professor of botany (1889), as well as director of the botanical garden (1896) at the University of Caen. (*Lign.*).
+Lignier, Elie Antoine Octave (1855-1916), French palaeobotanist; Dr. Sci. Paris 1887; "préparateur" at Lille with C. E. Bertrand 1880-1887; lecturer (1887) and professor of botany (1889), as well as director of the botanical garden (1896) at the University of Caen. 
+**Abbreviated name**: *Lign.*
 
 #### Herbarium and types
 

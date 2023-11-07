@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/item/103832#page/86/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33258552) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fuentes Maturana, Francisco (1876-1934), Chilean botanist, born 19 Apr 1876 in San Fernando, chief, Phanerogam section, Santiago Museum 1912, died 6 Feb 1934 in Aysén. (*Fuentes*).
+Fuentes Maturana, Francisco (1876-1934), Chilean botanist, born 19 Apr 1876 in San Fernando, chief, Phanerogam section, Santiago Museum 1912, died 6 Feb 1934 in Aysén. 
+**Abbreviated name**: *Fuentes*
 
 #### Herbarium and types
 

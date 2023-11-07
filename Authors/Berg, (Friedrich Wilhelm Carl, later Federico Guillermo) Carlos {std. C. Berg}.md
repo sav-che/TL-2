@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103859#page/93/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33265280) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berg, \[Friedrich Wilhelm Carl, later Federico Guillermo\] Carlos (1843-1902), Latvian ("Kurland") zoologist (especially entomologist) and botanist, educated in Senten and Tuckum, in business in Mitau and Riga 1859-1871, private teacher id. 1871-1873, curator at the Zoological Museum in Buenos Aires 1873-1890, Dr. phil. 1874, director of the Natural History Museum in Montevideo (Uruguay), from 1892 director of the National Museum in Buenos Aires, travelled briefly in Germany, Kurland and Riga 1897. (*C. Berg*).
+Berg, \[Friedrich Wilhelm Carl, later Federico Guillermo\] Carlos (1843-1902), Latvian ("Kurland") zoologist (especially entomologist) and botanist, educated in Senten and Tuckum, in business in Mitau and Riga 1859-1871, private teacher id. 1871-1873, curator at the Zoological Museum in Buenos Aires 1873-1890, Dr. phil. 1874, director of the Natural History Museum in Montevideo (Uruguay), from 1892 director of the National Museum in Buenos Aires, travelled briefly in Germany, Kurland and Riga 1897. 
+**Abbreviated name**: *C. Berg*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/item/103624#page/916/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/page/33190373) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ross, Robert (1912-x), British (English) botanist (diatomologist, nomenclaturist), educated at St. Paul's School, London and St. John's College, Cambridge, M.S. Cambridge 1934; on the Cambridge Botanical Expedition to West Africa 1935; with the British Museum (Natural History), Botany Dept., from 1936, in charge of Diatomaceae; deputy keeper Bot. Dept. 1962; keeper 1966; now retired; member of the editorial Committee for the International Code of Botanical Nomenclature 1954-1978. (*R. Ross*).
+Ross, Robert (1912-x), British (English) botanist (diatomologist, nomenclaturist), educated at St. Paul's School, London and St. John's College, Cambridge, M.S. Cambridge 1934; on the Cambridge Botanical Expedition to West Africa 1935; with the British Museum (Natural History), Botany Dept., from 1936, in charge of Diatomaceae; deputy keeper Bot. Dept. 1962; keeper 1966; now retired; member of the editorial Committee for the International Code of Botanical Nomenclature 1954-1978. 
+**Abbreviated name**: *R. Ross*
 
 #### Herbarium and types
 

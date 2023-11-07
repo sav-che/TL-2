@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103414#page/445/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33120528) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buckley, Samuel Botsford {std. Buckley} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buckley, Samuel Botsford (1809-1884), American naturalist, state geologist of Texas 1866-1884. (*Buckley*).
+Buckley, Samuel Botsford (1809-1884), American naturalist, state geologist of Texas 1866-1884. 
+**Abbreviated name**: *Buckley*
 
 #### Herbarium and types
 

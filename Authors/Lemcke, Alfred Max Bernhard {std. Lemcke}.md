@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/item/103253#page/865/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33069081) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lemcke, Alfred Max Bernhard (1864-?), German botanist at the agricultural experiment station at Königsberg i. Pr. (*Lemcke*).
+Lemcke, Alfred Max Bernhard (1864-?), German botanist at the agricultural experiment station at Königsberg i. Pr. 
+**Abbreviated name**: *Lemcke*
 
 #### Herbarium and types
 

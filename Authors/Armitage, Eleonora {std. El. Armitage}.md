@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103858#page/172/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33264887) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Armitage, Eleonora (1865-1961), British bryologist, lived at her property at Bridstow north of Ross on Wye; travelled widely especially in the Canary Islands, Azores and Madeira, active member of the British Bryological Society and interested in Iris. (*El. Armitage*).
+Armitage, Eleonora (1865-1961), British bryologist, lived at her property at Bridstow north of Ross on Wye; travelled widely especially in the Canary Islands, Azores and Madeira, active member of the British Bryological Society and interested in Iris. 
+**Abbreviated name**: *El. Armitage*
 
 #### Herbarium and types
 

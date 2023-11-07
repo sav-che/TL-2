@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 957](https://www.biodiversitylibrary.org/item/103414#page/1005/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 957](https://www.biodiversitylibrary.org/page/33121088) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gmelin, Philipp Friedrich (1721-1768), German botanist at Tübingen, brother of J. G. Gmelin, father of Johann Friedrich Gmelin. (*P. F. Gmelin*).
+Gmelin, Philipp Friedrich (1721-1768), German botanist at Tübingen, brother of J. G. Gmelin, father of Johann Friedrich Gmelin. 
+**Abbreviated name**: *P. F. Gmelin*
 
 #### Herbarium and types
 

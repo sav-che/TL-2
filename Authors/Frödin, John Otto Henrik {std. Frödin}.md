@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103832#page/72/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33258538) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frödin, John Otto Henrik (1879-1960), Swedish geographer and specialist in plant geography, born 16 Apr 1879 in Uppsala, fil. cand. 1901 and fil. lic. 1906, both at Uppsala, Dr. fil. 1914 and docent in geography at Lund, Prof. of Geography, Univ. of Uppsala 1929-1952, died 23 Oct 1960. (*Frödin*).
+Frödin, John Otto Henrik (1879-1960), Swedish geographer and specialist in plant geography, born 16 Apr 1879 in Uppsala, fil. cand. 1901 and fil. lic. 1906, both at Uppsala, Dr. fil. 1914 and docent in geography at Lund, Prof. of Geography, Univ. of Uppsala 1929-1952, died 23 Oct 1960. 
+**Abbreviated name**: *Frödin*
 
 #### Herbarium and types
 

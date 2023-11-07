@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103624#page/166/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33189623) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Penland, Charles William Theodore (1899-x), American botanist; and ecologist; professor of botany at Colorado College (Boulder) from 1922. (*Penland*).
+Penland, Charles William Theodore (1899-x), American botanist; and ecologist; professor of botany at Colorado College (Boulder) from 1922. 
+**Abbreviated name**: *Penland*
 
 #### Herbarium and types
 

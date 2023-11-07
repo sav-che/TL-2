@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/103624#page/397/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33189854) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Praschil, Wenceslaus Wilhelm (*fl*. 1840), Austrian (Bohemian) botanist and physician at Gleichenberg. (*Praschil*).
+Praschil, Wenceslaus Wilhelm (*fl*. 1840), Austrian (Bohemian) botanist and physician at Gleichenberg. 
+**Abbreviated name**: *Praschil*
 
 #### Herbarium and types
 

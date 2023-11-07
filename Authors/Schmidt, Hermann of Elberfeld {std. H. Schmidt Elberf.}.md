@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/104077#page/266/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Hermann of Elberfeld (1821/2-1905), German botanist and high school teacher at Elberfeld (Rhine province, Prussia). (*H. Schmidt Elberf.*).
+Schmidt, Hermann of Elberfeld (1821/2-1905), German botanist and high school teacher at Elberfeld (Rhine province, Prussia). 
+**Abbreviated name**: *H. Schmidt Elberf.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103414#page/248/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernstein, Heinrich Agathon {std. Bernstein} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bernstein, Heinrich Agathon (1822-1865), German botanist from Silesia. (*Bernstein*).
+Bernstein, Heinrich Agathon (1822-1865), German botanist from Silesia. 
+**Abbreviated name**: *Bernstein*
 
 #### Herbarium and types
 

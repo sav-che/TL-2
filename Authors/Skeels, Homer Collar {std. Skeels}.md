@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/item/104077#page/639/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33333764) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skeels, Homer Collar (1873-1934), American botanist; B.Sc. Michigan Agr. Coll. 1898; gardener, Bot. Gard. Michigan State Coll. 1898-1899; botanist, Forest of Arden, Joliet, Ill. 1900-1906; gardener Dellwood park 1906-1908; with the Bureau of Plant Industry, U.S.D.A. 1908-1934. (*Skeels*).
+Skeels, Homer Collar (1873-1934), American botanist; B.Sc. Michigan Agr. Coll. 1898; gardener, Bot. Gard. Michigan State Coll. 1898-1899; botanist, Forest of Arden, Joliet, Ill. 1900-1906; gardener Dellwood park 1906-1908; with the Bureau of Plant Industry, U.S.D.A. 1908-1934. 
+**Abbreviated name**: *Skeels*
 
 #### Herbarium and types
 

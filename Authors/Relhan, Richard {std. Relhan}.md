@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/item/103624#page/727/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33190184) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Relhan, Richard (1754-1823), British clergyman and botanist; MA cantab. 1779; rector at Hemingby, Lincoln (Cambridge) 1791; editor of Tacitus; one of the founders of the Linnean Society (London). (*Relhan*).
+Relhan, Richard (1754-1823), British clergyman and botanist; MA cantab. 1779; rector at Hemingby, Lincoln (Cambridge) 1791; editor of Tacitus; one of the founders of the Linnean Society (London). 
+**Abbreviated name**: *Relhan*
 
 #### Herbarium and types
 

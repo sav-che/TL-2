@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103833#page/104/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33259138) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davel, Ricordo J. (1876-?), Argentine botanist, born at Buenos Aires, "jefe del laboratorio químico de la oficina agricola ganadera". (*Davel*).
+Davel, Ricordo J. (1876-?), Argentine botanist, born at Buenos Aires, "jefe del laboratorio químico de la oficina agricola ganadera". 
+**Abbreviated name**: *Davel*
 
 #### Herbarium and types
 

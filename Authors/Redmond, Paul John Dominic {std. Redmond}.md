@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/item/103624#page/637/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Redmond, Paul John Dominic (1901-x), American clergyman and botanist; ordained priest 1930; Dr. phil. Cath. Univ. Washington, D.C. 1933. (*Redmond*).
+Redmond, Paul John Dominic (1901-x), American clergyman and botanist; ordained priest 1930; Dr. phil. Cath. Univ. Washington, D.C. 1933. 
+**Abbreviated name**: *Redmond*
 
 #### Herbarium and types
 

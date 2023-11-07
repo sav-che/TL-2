@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/item/103683#page/353/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33212385) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tidestrom, \[orig.: Tidestrøm\], Ivar \[Frederick\] (1864-1956), Swedish-born American botanist; emigrated to the United States 1880; in the U.S. army attached to the hospital service 1880-1884, 1887-1891; studied engineering at the University of California 1891-1895, becoming assistant to E.L. Greene; with Greene to Catholic University, Washington 1895; Dr. phil. ib. 1897; assistant botanist USDA with F.V. Coville 1903, from 1915 detached at the Smithsonian Institution on the grass and sedge collections; retired from USDA 1934; from 1934-1935 at the botany Dept., Catholic Univ.; in retirement at St. Petersburg, Florida. (*Tidestr.*).
+Tidestrom, \[orig.: Tidestrøm\], Ivar \[Frederick\] (1864-1956), Swedish-born American botanist; emigrated to the United States 1880; in the U.S. army attached to the hospital service 1880-1884, 1887-1891; studied engineering at the University of California 1891-1895, becoming assistant to E.L. Greene; with Greene to Catholic University, Washington 1895; Dr. phil. ib. 1897; assistant botanist USDA with F.V. Coville 1903, from 1915 detached at the Smithsonian Institution on the grass and sedge collections; retired from USDA 1934; from 1934-1935 at the botany Dept., Catholic Univ.; in retirement at St. Petersburg, Florida. 
+**Abbreviated name**: *Tidestr.*
 
 #### Herbarium and types
 

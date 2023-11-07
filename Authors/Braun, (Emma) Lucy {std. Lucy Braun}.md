@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103861#page/45/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33266342) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Braun, \[Emma\] Lucy (1889-1971), American (Cincinnati, Ohio born) botanist, of a family of German-French (mother), English (father) descent, educated at Cincinnati public schools, studied at the University of Cincinnati, B.A. 1910, M.A. geol. 1912, Ph.D. bot. 1914, assistant in geology 1910-1913, id. botany 1914-1917, instructor in botany 1917-1923, assistant professor 1923-1926, associate professor of botany 1927-46, id. plant ecology 1946-1948, emeritus 1948-1971, all at Cincinnati. (*Lucy Braun*).
+Braun, \[Emma\] Lucy (1889-1971), American (Cincinnati, Ohio born) botanist, of a family of German-French (mother), English (father) descent, educated at Cincinnati public schools, studied at the University of Cincinnati, B.A. 1910, M.A. geol. 1912, Ph.D. bot. 1914, assistant in geology 1910-1913, id. botany 1914-1917, instructor in botany 1917-1923, assistant professor 1923-1926, associate professor of botany 1927-46, id. plant ecology 1946-1948, emeritus 1948-1971, all at Cincinnati. 
+**Abbreviated name**: *Lucy Braun*
 
 #### Herbarium and types
 

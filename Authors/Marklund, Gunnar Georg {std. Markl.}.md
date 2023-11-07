@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/104137#page/315/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33355386) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marklund, Gunnar Georg (1892-1964), Finnish botanist; curator at the Helsinki Botanical Museum; specialized in *Taraxacum* and *Ranunculus auricomus*. (*Markl.*).
+Marklund, Gunnar Georg (1892-1964), Finnish botanist; curator at the Helsinki Botanical Museum; specialized in *Taraxacum* and *Ranunculus auricomus*. 
+**Abbreviated name**: *Markl.*
 
 #### Herbarium and types
 

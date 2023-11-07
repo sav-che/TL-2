@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103861#page/176/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33266473) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunswik \[Brunswick\] von Korompa, Hermann (1898-1939), Austrian botanist, born in Vienna, Dr. phil. Jul 1921 in Vienna, "Demonstrator" at the Pharmaceutical Institute of the University of Vienna with Wasicki 1920, idem at the Plant-physiology Institute 1920-1922, at the Kaiser-Wilhelm-Institute for "Faserstoffchemie" in Berlin 1923-1925, died in Hall, Tirol 1939. (*Brunswik*).
+Brunswik \[Brunswick\] von Korompa, Hermann (1898-1939), Austrian botanist, born in Vienna, Dr. phil. Jul 1921 in Vienna, "Demonstrator" at the Pharmaceutical Institute of the University of Vienna with Wasicki 1920, idem at the Plant-physiology Institute 1920-1922, at the Kaiser-Wilhelm-Institute for "Faserstoffchemie" in Berlin 1923-1925, died in Hall, Tirol 1939. 
+**Abbreviated name**: *Brunswik*
 
 #### Herbarium and types
 

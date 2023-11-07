@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/item/103253#page/793/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laurer, Johann Friedrich (1798-1873), German pharmacist, physician and lichenologist; Dr. med. Greifswald 1830; from 1836 professor of medicine (extraord.; from 1863 ord.) at Greifswald; pupil of Hoppe. (*Laurer*).
+Laurer, Johann Friedrich (1798-1873), German pharmacist, physician and lichenologist; Dr. med. Greifswald 1830; from 1836 professor of medicine (extraord.; from 1863 ord.) at Greifswald; pupil of Hoppe. 
+**Abbreviated name**: *Laurer*
 
 #### Herbarium and types
 

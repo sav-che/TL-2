@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/item/103624#page/930/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33190387) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rota, Lorenzo (1819-1855), Italian botanist and physician; sometime botanical assistant in the University of Pavia; ultimately practicing physician at Bergamo; died of cholera. (*Rota*).
+Rota, Lorenzo (1819-1855), Italian botanist and physician; sometime botanical assistant in the University of Pavia; ultimately practicing physician at Bergamo; died of cholera. 
+**Abbreviated name**: *Rota*
 
 #### Herbarium and types
 

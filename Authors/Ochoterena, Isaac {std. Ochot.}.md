@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/item/104137#page/818/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ochoterena, Isaac (1885-1950), Mexican botanist, director of the botanical section of the Directión Estud. Biol. Mex. from 1915. (*Ochot.*).
+Ochoterena, Isaac (1885-1950), Mexican botanist, director of the botanical section of the Directión Estud. Biol. Mex. from 1915. 
+**Abbreviated name**: *Ochot.*
 
 #### Herbarium and types
 

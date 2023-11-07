@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/item/103683#page/344/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33212376) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thurber, George (1821-1890), American botanist and chemist; quartermaster and commissary on the United States Boundary Commission to settle the boundary between the United States and Mexico 1850-1853; with the United States Assay Office in New York 1853-1856; lecturer on botany and materia medica College of Pharmacy, New York, 1856-1860, 1865-1866; professor of botany and head of the Michigan Agricultural College 1859-1863; editor of the American Agriculturist 1863-1885; president of the Torrey Botanical Club succeeding J. Torrey 1873-1880. (*Thurb.*).
+Thurber, George (1821-1890), American botanist and chemist; quartermaster and commissary on the United States Boundary Commission to settle the boundary between the United States and Mexico 1850-1853; with the United States Assay Office in New York 1853-1856; lecturer on botany and materia medica College of Pharmacy, New York, 1856-1860, 1865-1866; professor of botany and head of the Michigan Agricultural College 1859-1863; editor of the American Agriculturist 1863-1885; president of the Torrey Botanical Club succeeding J. Torrey 1873-1880. 
+**Abbreviated name**: *Thurb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/item/103253#page/464/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33068680) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jennings, Otto Emery (1877-1964), American botanist; B.S. Agric. Ohio State Univ. 1903; Dr. phil. Univ. Pittsburgh 1911; Dr. h.c. Sci. id. 1930; from 1904-1964 at the Carnegie Museum Pittsburgh, also at the University of Pittsburgh in various functions 1911-1946; edrtor of the Bryologist 1913-1938; to his friends "?. ?." (*Jenn.*).
+Jennings, Otto Emery (1877-1964), American botanist; B.S. Agric. Ohio State Univ. 1903; Dr. phil. Univ. Pittsburgh 1911; Dr. h.c. Sci. id. 1930; from 1904-1964 at the Carnegie Museum Pittsburgh, also at the University of Pittsburgh in various functions 1911-1946; edrtor of the Bryologist 1913-1938; to his friends "?. ?." 
+**Abbreviated name**: *Jenn.*
 
 #### Herbarium and types
 

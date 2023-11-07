@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103253#page/260/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33068476) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoeven, Jan van der (1801-1868), Dutch zoologist at Leiden. (*Hoeven*).
+Hoeven, Jan van der (1801-1868), Dutch zoologist at Leiden. 
+**Abbreviated name**: *Hoeven*
 
 #### Herbarium and types
 

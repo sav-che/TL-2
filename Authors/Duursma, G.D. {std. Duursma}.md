@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103835#page/223/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33260201) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duursma, G.D. (fl. 1930), Dutch amateur botanist, succulent specialist living at Leeuwarden. (*Duursma*).
+Duursma, G.D. (fl. 1930), Dutch amateur botanist, succulent specialist living at Leeuwarden. 
+**Abbreviated name**: *Duursma*
 
 #### Herbarium and types
 

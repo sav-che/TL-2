@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103859#page/229/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265416) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blom, Carl \[Hilding\] (1885-1972), Swedish botanist and printer, assistant in a bookshop 1912, later connected with Göteborg's Botaniska Trädgard, ultimately curator of the herbarium id. (*C.H. Blom*).
+Blom, Carl \[Hilding\] (1885-1972), Swedish botanist and printer, assistant in a bookshop 1912, later connected with Göteborg's Botaniska Trädgard, ultimately curator of the herbarium id. 
+**Abbreviated name**: *C.H. Blom*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/item/103253#page/754/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-La Llave, Pablo de (1773-1833), Mexican clergyman; for some time director of the Madrid botanical garden; member of the Cortes 1812; back to Mexico 1823; minister of justice 1823-1825; president of the Senate 1830. (*La Llave*).
+La Llave, Pablo de (1773-1833), Mexican clergyman; for some time director of the Madrid botanical garden; member of the Cortes 1812; back to Mexico 1823; minister of justice 1823-1825; president of the Senate 1830. 
+**Abbreviated name**: *La Llave*
 
 #### Herbarium and types
 

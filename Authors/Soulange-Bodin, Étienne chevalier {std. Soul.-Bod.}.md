@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/item/104077#page/769/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33333894) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soulange-Bodin, Étienne chevalier (1774-1846), French horticulturist, politician and diplomat; educated at the Collège de Tours; in various diplomatic functions during the Napoleonic period; retired to Fromont after 1813; co-founder and general secretary of the Société d'Horticulture, Paris 1827, later idem of the Société royale et centrale d'Agriculture and president of the Société linnéenne de Paris. (*Soul.-Bod.*).
+Soulange-Bodin, Étienne chevalier (1774-1846), French horticulturist, politician and diplomat; educated at the Collège de Tours; in various diplomatic functions during the Napoleonic period; retired to Fromont after 1813; co-founder and general secretary of the Société d'Horticulture, Paris 1827, later idem of the Société royale et centrale d'Agriculture and president of the Société linnéenne de Paris. 
+**Abbreviated name**: *Soul.-Bod.*
 
 #### Herbarium and types
 

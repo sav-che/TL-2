@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103859#page/379/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33265566) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bose, Sahay Ram (1888-1970), Indian mycologist, M.A. degree in botany from the Presidency College, Calcutta 1908, B.L. id. 1910, associated with the Calcutta High Court, as well as professor of botany at Bangabasi College 1910-1916, professor of botany at R.G. Carmichael Medical College 1916-1963. (*Bose*).
+Bose, Sahay Ram (1888-1970), Indian mycologist, M.A. degree in botany from the Presidency College, Calcutta 1908, B.L. id. 1910, associated with the Calcutta High Court, as well as professor of botany at Bangabasi College 1910-1916, professor of botany at R.G. Carmichael Medical College 1916-1963. 
+**Abbreviated name**: *Bose*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 921](https://www.biodiversitylibrary.org/item/103414#page/969/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 921](https://www.biodiversitylibrary.org/page/33121052) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gaudichaud-Beaupré, Charles {std. Gaud.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gaudichaud-Beaupré, Charles (1789-1854), French naturalist and circumnavigator, "pharmacien en chef de la Marine". (*Gaud.*).
+Gaudichaud-Beaupré, Charles (1789-1854), French naturalist and circumnavigator, "pharmacien en chef de la Marine". 
+**Abbreviated name**: *Gaud.*
 
 #### Herbarium and types
 

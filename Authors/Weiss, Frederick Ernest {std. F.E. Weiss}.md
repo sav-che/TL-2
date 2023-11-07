@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103250#page/226/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33066506) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weiss, Frederick Ernest (1865-1953), British botanist; B.Sci. London 1888; studied botany and zoology at University College, London 1884; Quain student and lecturer of botany ib. 1889-1892; professor of botany Univ. Manchester 1892-1930; R.H.S. Victoria Medal of Honour 1947, Linnean medal 1949; travelled in S. Africa 1905. (*F.E. Weiss*).
+Weiss, Frederick Ernest (1865-1953), British botanist; B.Sci. London 1888; studied botany and zoology at University College, London 1884; Quain student and lecturer of botany ib. 1889-1892; professor of botany Univ. Manchester 1892-1930; R.H.S. Victoria Medal of Honour 1947, Linnean medal 1949; travelled in S. Africa 1905. 
+**Abbreviated name**: *F.E. Weiss*
 
 #### Herbarium and types
 

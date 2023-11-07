@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103861#page/28/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33266325) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandt, \[Andreas\] Wilhelm \[Heinrich\] (1879-1929), German pharmacist, born at Seckenheim, Baden, educated at schools at Rothenfelde nr. Osnabrück and Schalke nr. Gelsenkirchen, at gymnasia at Schalke and Elberfeld, pharmaceutical apprenticeship at Barmen 1898-1900, stage at Elberfeld 1901-1903, id. Stettin 1903-1904, pharmacist at Elberfeld 1904-1911, studied again in Berlin 1913, Dr. phil. University Berlin 1915, botany with Engler and Gilg, assistant at the Botanical Institute, Frankfurt a. M. 1916, habil. Bot. & Pharmacogn. 1917, extraord. professor for pharmacognosy 1919-1927. (*W. Brandt*).
+Brandt, \[Andreas\] Wilhelm \[Heinrich\] (1879-1929), German pharmacist, born at Seckenheim, Baden, educated at schools at Rothenfelde nr. Osnabrück and Schalke nr. Gelsenkirchen, at gymnasia at Schalke and Elberfeld, pharmaceutical apprenticeship at Barmen 1898-1900, stage at Elberfeld 1901-1903, id. Stettin 1903-1904, pharmacist at Elberfeld 1904-1911, studied again in Berlin 1913, Dr. phil. University Berlin 1915, botany with Engler and Gilg, assistant at the Botanical Institute, Frankfurt a. M. 1916, habil. Bot. & Pharmacogn. 1917, extraord. professor for pharmacognosy 1919-1927. 
+**Abbreviated name**: *W. Brandt*
 
 #### Herbarium and types
 

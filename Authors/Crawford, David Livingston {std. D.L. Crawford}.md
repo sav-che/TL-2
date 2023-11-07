@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103860#page/462/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33266129) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crawford, David Livingston (1889-x), American entomologist and agriculturist, born Hermosillo, Mexico 1889, A.B. Pomona College 1911, A.M. Stanford 1912, assistant entomologist at Cornell 1912-1913, at Mexico Gulf Coast Citrus Assoc. 1913-1915, asst. professor botany Pomona College 1914-1917, prof. entomology Hawaii 1917-1927, president from 1927. (*D.L. Crawford*).
+Crawford, David Livingston (1889-x), American entomologist and agriculturist, born Hermosillo, Mexico 1889, A.B. Pomona College 1911, A.M. Stanford 1912, assistant entomologist at Cornell 1912-1913, at Mexico Gulf Coast Citrus Assoc. 1913-1915, asst. professor botany Pomona College 1914-1917, prof. entomology Hawaii 1917-1927, president from 1927. 
+**Abbreviated name**: *D.L. Crawford*
 
 #### Herbarium and types
 

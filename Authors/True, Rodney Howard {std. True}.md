@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/item/103683#page/522/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33212554) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-True, Rodney Howard (1866-1940), American botanist; student of W.F.P. Pfeffer 1893-1895; Dr. phil. Leipzig 1895; lecturer in pharmacognostic botany, Univ. Wisconson, Madison 1895; assistant professor ib. 1896-1899; lecturer in botany at Harvard 1899-1901; plant physiologist with USDA 1902-1920; professor of botany at Pennsylvania 1920-1937 and director Morris Arboretum ib. 1932-1940. (*True*).
+True, Rodney Howard (1866-1940), American botanist; student of W.F.P. Pfeffer 1893-1895; Dr. phil. Leipzig 1895; lecturer in pharmacognostic botany, Univ. Wisconson, Madison 1895; assistant professor ib. 1896-1899; lecturer in botany at Harvard 1899-1901; plant physiologist with USDA 1902-1920; professor of botany at Pennsylvania 1920-1937 and director Morris Arboretum ib. 1932-1940. 
+**Abbreviated name**: *True*
 
 #### Herbarium and types
 

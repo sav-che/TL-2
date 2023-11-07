@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/104137#page/425/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33355496) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Melhus, Irving E. (1881-1969), American phytopathologist and pteridologist; B. Sc. Iowa State 1906, Ph. D. Madison 1912; plant pathologist in the Agricultural Experiment Station and Botany Dept. of Iowa State University 1912-1946; director of the Iowa State University Guatemala Tropical Research Center 1946-1953. (*Melhus*).
+Melhus, Irving E. (1881-1969), American phytopathologist and pteridologist; B. Sc. Iowa State 1906, Ph. D. Madison 1912; plant pathologist in the Agricultural Experiment Station and Botany Dept. of Iowa State University 1912-1946; director of the Iowa State University Guatemala Tropical Research Center 1946-1953. 
+**Abbreviated name**: *Melhus*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/item/104137#page/830/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ohlert, \[Otto Ludwig\] Arnold (1816-1875), German lichenologist and "Regierungsund Schulrath" at Danzig. (*Ohlert*).
+Ohlert, \[Otto Ludwig\] Arnold (1816-1875), German lichenologist and "Regierungsund Schulrath" at Danzig. 
+**Abbreviated name**: *Ohlert*
 
 #### Herbarium and types
 

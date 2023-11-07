@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103250#page/417/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33066697) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiltshear, Samuel Paul (1891-1967), British mycologist; M.A. Cambridge; Dr. phil. Bristol 1913; mycologist Long Ashton Research Station 1919-1922; assistant director, Imperial Bureau of Mycology, Kew 1924-1939, director 1940-1956. (*S. Wiltshear*).
+Wiltshear, Samuel Paul (1891-1967), British mycologist; M.A. Cambridge; Dr. phil. Bristol 1913; mycologist Long Ashton Research Station 1919-1922; assistant director, Imperial Bureau of Mycology, Kew 1924-1939, director 1940-1956. 
+**Abbreviated name**: *S. Wiltshear*
 
 #### Herbarium and types
 

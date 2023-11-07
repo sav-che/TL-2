@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103835#page/92/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33260070) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dowson, Walter John (1887-1963), British botanist born at Bristol 22 Mai 1887, BA at Cambridge Christ's College 1909, MA University of Cambridge, FLS 1917-1928, D.Sc. London, government mycologist Kenya 1913-1919, Royal horticultural Society's Garden, Wisley 1920-1928, plant pathologist Tasmania 1928-1932, lecturer in mycology at Cambridge 1932-1952, died 1 Sep 1963. (*Dowson*).
+Dowson, Walter John (1887-1963), British botanist born at Bristol 22 Mai 1887, BA at Cambridge Christ's College 1909, MA University of Cambridge, FLS 1917-1928, D.Sc. London, government mycologist Kenya 1913-1919, Royal horticultural Society's Garden, Wisley 1920-1928, plant pathologist Tasmania 1928-1932, lecturer in mycology at Cambridge 1932-1952, died 1 Sep 1963. 
+**Abbreviated name**: *Dowson*
 
 #### Herbarium and types
 

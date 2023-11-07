@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103835#page/233/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33260211) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duvernoy, Charles Jules Arthur (1876-1922), French botanist (mycologist), born 5 Mai 1876 at Benthal (Doubs), studied at the École Normale de Besançon 1892-1895, went to Algeria in 1897, mobilized during the war from 1915 at Besançon, demobilized in 1917, returned to Boufarik (Algeria), Chef de travaux de Botanique at the faculty of science at Alger 1920, died 8 Mar 1922 at Besançon being seriously ill. (*Duvernoy*).
+Duvernoy, Charles Jules Arthur (1876-1922), French botanist (mycologist), born 5 Mai 1876 at Benthal (Doubs), studied at the École Normale de Besançon 1892-1895, went to Algeria in 1897, mobilized during the war from 1915 at Besançon, demobilized in 1917, returned to Boufarik (Algeria), Chef de travaux de Botanique at the faculty of science at Alger 1920, died 8 Mar 1922 at Besançon being seriously ill. 
+**Abbreviated name**: *Duvernoy*
 
 #### Note
 

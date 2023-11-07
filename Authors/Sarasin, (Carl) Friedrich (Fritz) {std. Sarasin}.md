@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/104077#page/63/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33333150) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sarasin, \[Carl\] Friedrich ("Fritz") (1859-1942), Swiss naturalist; studied in Basel and Würzburg; explored, with his cousin Paul Benedict Sarasin, Ceylon (1883-1886, 1890), and Celebes (1893-1896, 1902-1903); "Privatgelehrter" at Basel; from 1898 president of the council for the Basel Museum f. Völkerkunde. (*Sarasin*).
+Sarasin, \[Carl\] Friedrich ("Fritz") (1859-1942), Swiss naturalist; studied in Basel and Würzburg; explored, with his cousin Paul Benedict Sarasin, Ceylon (1883-1886, 1890), and Celebes (1893-1896, 1902-1903); "Privatgelehrter" at Basel; from 1898 president of the council for the Basel Museum f. Völkerkunde. 
+**Abbreviated name**: *Sarasin*
 
 #### Herbarium and types
 

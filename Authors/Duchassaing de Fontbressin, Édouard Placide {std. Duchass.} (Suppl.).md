@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103835#page/144/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33260122) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duchassaing de Fontbressin, Èdouard Placide {std. Duchass.}|first entry]] for this author
 
 ### Author
 
-\* Duchassaing de Fontbressin, Édouard Placide (1818-1873), Dr. med. with "Licentiat" of natural sciences, born 1 Dec 1818 in Moule on Guadeloupe, died 16 Sep 1873 in Périgord, France, medical degree in Paris, returned to practice medicine at Guadeloupe, collected 1844-1848 at St. Thomas, from 1848 at Santa Marta near Panama, stayed several years in Panama, again to Guadeloupe 1851, later in St. Thomas, returned in 1867 to France. (*Duchass.*).
+\* Duchassaing de Fontbressin, Édouard Placide (1818-1873), Dr. med. with "Licentiat" of natural sciences, born 1 Dec 1818 in Moule on Guadeloupe, died 16 Sep 1873 in Périgord, France, medical degree in Paris, returned to practice medicine at Guadeloupe, collected 1844-1848 at St. Thomas, from 1848 at Santa Marta near Panama, stayed several years in Panama, again to Guadeloupe 1851, later in St. Thomas, returned in 1867 to France. 
+**Abbreviated name**: *Duchass.*
 
 #### Herbarium and types
 

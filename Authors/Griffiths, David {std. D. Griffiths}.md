@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1006](https://www.biodiversitylibrary.org/item/103414#page/1054/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1006](https://www.biodiversitylibrary.org/page/33121137) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Griffiths, David {std. D. Griffiths} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Griffiths, David (1867-1935), British born American horticulturist and mycologist. (*D. Griffiths*).
+Griffiths, David (1867-1935), British born American horticulturist and mycologist. 
+**Abbreviated name**: *D. Griffiths*
 
 #### Herbarium and types
 

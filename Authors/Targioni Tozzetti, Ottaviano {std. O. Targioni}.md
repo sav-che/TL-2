@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103683#page/180/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33212212) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Targioni Tozzetti, Ottaviano (1755-1829), Italian (Firenze) botanist and physician; professor of botany at the Firenze Spedale Santa Maria Nuova until 1807; professor of botany and director of the botanical garden, the University of Pisa 1807-1829; son of Giovanni Targioni Tozzetti. (*O. Targioni*).
+Targioni Tozzetti, Ottaviano (1755-1829), Italian (Firenze) botanist and physician; professor of botany at the Firenze Spedale Santa Maria Nuova until 1807; professor of botany and director of the botanical garden, the University of Pisa 1807-1829; son of Giovanni Targioni Tozzetti. 
+**Abbreviated name**: *O. Targioni*
 
 #### Herbarium and types
 

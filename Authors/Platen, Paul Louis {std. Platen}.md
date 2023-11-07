@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103624#page/304/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33189761) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Platen, Paul Louis (1876-?), German palaeobotanist; student of J.P. Felix at Leipzig. (*Platen*).
+Platen, Paul Louis (1876-?), German palaeobotanist; student of J.P. Felix at Leipzig. 
+**Abbreviated name**: *Platen*
 
 #### Herbarium and types
 

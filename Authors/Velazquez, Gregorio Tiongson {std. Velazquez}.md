@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/103683#page/700/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33212732) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Velazquez, Gregorio Tiongson (1901-x), Philippine botanist (algologist); M.Sc. Univ. Philippines 1931; Dr. phil. Univ. Michigan 1939; with the University of the Philippines in various ranks 1923-1941; assistant professor of botany ib. 1945, associate prof. 1951, full professor 1958-1967. (*Velazquez*).
+Velazquez, Gregorio Tiongson (1901-x), Philippine botanist (algologist); M.Sc. Univ. Philippines 1931; Dr. phil. Univ. Michigan 1939; with the University of the Philippines in various ranks 1923-1941; assistant professor of botany ib. 1945, associate prof. 1951, full professor 1958-1967. 
+**Abbreviated name**: *Velazquez*
 
 #### Herbarium and types
 

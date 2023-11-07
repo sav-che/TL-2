@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/item/103414#page/735/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/page/33120818) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dubois, François Noel Alexandre (1752-1824), French clergyman and botanist at Orléans. (*Dubois*).
+Dubois, François Noel Alexandre (1752-1824), French clergyman and botanist at Orléans. 
+**Abbreviated name**: *Dubois*
 
 #### Herbarium and types
 

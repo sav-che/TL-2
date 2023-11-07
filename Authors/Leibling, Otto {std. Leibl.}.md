@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/item/103253#page/851/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leibling, Otto (*fl*. 1884), German high school teacher and botanist at Crimmitschau (Sachsen). (*Leibl.*).
+Leibling, Otto (*fl*. 1884), German high school teacher and botanist at Crimmitschau (Sachsen). 
+**Abbreviated name**: *Leibl.*
 
 #### Herbarium and types
 

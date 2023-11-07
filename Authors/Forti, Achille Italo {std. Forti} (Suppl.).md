@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103834#page/353/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33259835) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forti, Achille Italo {std. Forti}|first entry]] for this author
 
 ### Author
 
-\* Forti, Achille Italo (1878-1937), Italian algologist, born 28 Nov 1878 in Verona, studied in Padua, where G.B. De Toni instructed him in phycology, Dr. Sci. 1900 Univ. of Padua, received (with De Toni) the Prix Desmazières from the Paris Academy and the gold medal from the Reale Accademia nazionale dell Scienze, 1916 docent in Modena, later in Padua, died 11 \[12?\] Feb 1937 in Verona. (*Forti*).
+\* Forti, Achille Italo (1878-1937), Italian algologist, born 28 Nov 1878 in Verona, studied in Padua, where G.B. De Toni instructed him in phycology, Dr. Sci. 1900 Univ. of Padua, received (with De Toni) the Prix Desmazières from the Paris Academy and the gold medal from the Reale Accademia nazionale dell Scienze, 1916 docent in Modena, later in Padua, died 11 \[12?\] Feb 1937 in Verona. 
+**Abbreviated name**: *Forti*
 
 #### Herbarium and types
 

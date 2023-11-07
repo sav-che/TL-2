@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103859#page/174/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265361) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bigsby, John Jeremiah {std. Bigsby}|first entry]] for this author
 
 ### Author
 
-\* Bigsby, John Jeremiah (1792-1881), British physician and geologist, studied medicine in St. Andrews and Edinburgh, M.D. Edinburgh 1814, resident physician in the Edinburgh infirmary 1814, entered the medical department of the army 1816, army medical officer at the Cape 1817, medical officer to a German Rifle Regiment in the English service, ordered as such to Canada ca. 1818, ca. 1819 exploring Upper Canada to report on its geology, subsequently visiting the N.E. United States, about 1824 appointed British secretary and medical officer to the Canadian Boundary Commission, returned to England 1827 practising as physician at Newark until 1846, from then on living in London. (*Bigsby*).
+\* Bigsby, John Jeremiah (1792-1881), British physician and geologist, studied medicine in St. Andrews and Edinburgh, M.D. Edinburgh 1814, resident physician in the Edinburgh infirmary 1814, entered the medical department of the army 1816, army medical officer at the Cape 1817, medical officer to a German Rifle Regiment in the English service, ordered as such to Canada ca. 1818, ca. 1819 exploring Upper Canada to report on its geology, subsequently visiting the N.E. United States, about 1824 appointed British secretary and medical officer to the Canadian Boundary Commission, returned to England 1827 practising as physician at Newark until 1846, from then on living in London. 
+**Abbreviated name**: *Bigsby*
 
 #### Herbarium and types
 

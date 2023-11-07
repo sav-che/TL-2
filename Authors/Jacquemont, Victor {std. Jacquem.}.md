@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/item/103253#page/429/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33068645) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jacquemont, Victor (1801-1832), French explorer and naturalist, travelled in the United States and Canada and on the Zélée via the South to India; in India 1829-1832; friend of Stendhal. (*Jacquem.*).
+Jacquemont, Victor (1801-1832), French explorer and naturalist, travelled in the United States and Canada and on the Zélée via the South to India; in India 1829-1832; friend of Stendhal. 
+**Abbreviated name**: *Jacquem.*
 
 #### Herbarium and types
 

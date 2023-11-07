@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103624#page/290/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33189747) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piso, Willem (ca. 1611-1678), Dutch physician, pharmacist and botanist; M.D. Caen 1633; practicing physician at Amsterdam; in Brazil as physician of the Dutch settlement (1633-1644) with Johan Maurits van Nassau. (*Piso*).
+Piso, Willem (ca. 1611-1678), Dutch physician, pharmacist and botanist; M.D. Caen 1633; practicing physician at Amsterdam; in Brazil as physician of the Dutch settlement (1633-1644) with Johan Maurits van Nassau. 
+**Abbreviated name**: *Piso*
 
 #### Herbarium and types
 

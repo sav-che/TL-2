@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/103833#page/110/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259144) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davie, Robert Chapman (1887-1919), Scottish botanist, born at Glasgow, M.A. Glasgow 1907, B.Sc. 1907, demonstrator for botany 1907-1909, D.Sc. 1915, assistant at the Botany Department of Glasgow University 1912, lecturer in botany Edinburgh 1912-1919, mainly working on ferns. (*Davie*).
+Davie, Robert Chapman (1887-1919), Scottish botanist, born at Glasgow, M.A. Glasgow 1907, B.Sc. 1907, demonstrator for botany 1907-1909, D.Sc. 1915, assistant at the Botany Department of Glasgow University 1912, lecturer in botany Edinburgh 1912-1919, mainly working on ferns. 
+**Abbreviated name**: *Davie*
 
 #### Herbarium and types
 

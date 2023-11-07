@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103624#page/431/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33189888) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prollius, Friedrich (*fl*. 1882), German (Hannoverian) botanist; Dr. phil. Jena 1882. (*Prollius*).
+Prollius, Friedrich (*fl*. 1882), German (Hannoverian) botanist; Dr. phil. Jena 1882. 
+**Abbreviated name**: *Prollius*
 
 #### Herbarium and types
 

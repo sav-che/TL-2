@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/104137#page/273/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mains, Edwin Butterworth (1890-1968), American mycologist; Ph. D. Univ. Mich. 1916; at Purdue University 1916-1930; from 1930 professor of botany and from 1931 director of the herbarium of the University of Michigan; retired 1960. (*Mains*).
+Mains, Edwin Butterworth (1890-1968), American mycologist; Ph. D. Univ. Mich. 1916; at Purdue University 1916-1930; from 1930 professor of botany and from 1931 director of the herbarium of the University of Michigan; retired 1960. 
+**Abbreviated name**: *Mains*
 
 #### Herbarium and types
 

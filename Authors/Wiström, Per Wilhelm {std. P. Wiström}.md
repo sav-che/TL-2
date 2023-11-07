@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103250#page/454/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33066734) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiström, Per Wilhelm (1865-1926), Swedish botanist and educator; Fil. kand. Uppsala 1888; with the Ultuna agricultural station 1888, later teacher at elementary and agricultural schools in Södrar Vi, 1890-1897, Fornby 1898-1908 and Svalov 1908-1926; nephew of J.A. Wiström. (*P. Wiström*).
+Wiström, Per Wilhelm (1865-1926), Swedish botanist and educator; Fil. kand. Uppsala 1888; with the Ultuna agricultural station 1888, later teacher at elementary and agricultural schools in Södrar Vi, 1890-1897, Fornby 1898-1908 and Svalov 1908-1926; nephew of J.A. Wiström. 
+**Abbreviated name**: *P. Wiström*
 
 #### Herbarium and types
 

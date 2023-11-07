@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103859#page/228/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33265415) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bloembergen, Siebe (1905-1992), Dutch botanist, studied botany at the University of Groningen, Dr. phil. 1935, assistant ib. 1935-1938, assistant on Bodja Estate nr. Semarang, Java 1938-1939, scientist at the Forest Research Institute Buitenzorg (Bogor), botanist at the Buitenzorg herbarium 1940-1955, (interned in Siam in WW II), professor of plant taxonomy and plant geography at the Faculty of Agriculture, University of Indonesia, Bogor 1950-1955, returned to the Netherlands 1955, teacher in natural history at a secondary school in Leiden 1956. (*Bloemb.*).
+Bloembergen, Siebe (1905-1992), Dutch botanist, studied botany at the University of Groningen, Dr. phil. 1935, assistant ib. 1935-1938, assistant on Bodja Estate nr. Semarang, Java 1938-1939, scientist at the Forest Research Institute Buitenzorg (Bogor), botanist at the Buitenzorg herbarium 1940-1955, (interned in Siam in WW II), professor of plant taxonomy and plant geography at the Faculty of Agriculture, University of Indonesia, Bogor 1950-1955, returned to the Netherlands 1955, teacher in natural history at a secondary school in Leiden 1956. 
+**Abbreviated name**: *Bloemb.*
 
 #### Herbarium and types
 

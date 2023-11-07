@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103624#page/129/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pauwels, Jan Lodewijk Huibrecht (1899-x), Belgian linguist; Dr. phil. Leuven 1923; professor of Dutch linguistics ib. from 1942. (*Pauwels*).
+Pauwels, Jan Lodewijk Huibrecht (1899-x), Belgian linguist; Dr. phil. Leuven 1923; professor of Dutch linguistics ib. from 1942. 
+**Abbreviated name**: *Pauwels*
 
 #### Herbarium and types
 

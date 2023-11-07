@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103860#page/397/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cosandey, Florian (1897-x), Swiss phycologist and general botanist, born at Sassel, Switzerland, director of Jardin Botanique de l'Université de Lausanne, professor of general botany and idem at Bex ("La Thomasia"). (*Cosandey*).
+Cosandey, Florian (1897-x), Swiss phycologist and general botanist, born at Sassel, Switzerland, director of Jardin Botanique de l'Université de Lausanne, professor of general botany and idem at Bex ("La Thomasia"). 
+**Abbreviated name**: *Cosandey*
 
 #### Herbarium and types
 

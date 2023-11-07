@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/item/103253#page/798/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33069014) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lavy, Jean (1775-1851), Piedmont physician and botanist at Torino. (*Lavy*).
+Lavy, Jean (1775-1851), Piedmont physician and botanist at Torino. 
+**Abbreviated name**: *Lavy*
 
 #### Herbarium and types
 

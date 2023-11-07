@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/item/104137#page/612/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33355683) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morse, Elizabeth Eaton (1864-1955), American Wellesley trained (School of Art 1891) art teacher (1891-1924), re-entered Wellesley 1924, B.A. 1926; subsequently with Lee Bonar at the University of California, Berkeley specializing in fleshy fungi of the Pacific Coast; sometimes temporarily working at the Farlow Herbarium; but in general living at Berkeley 1926-1955. (*Morse*).
+Morse, Elizabeth Eaton (1864-1955), American Wellesley trained (School of Art 1891) art teacher (1891-1924), re-entered Wellesley 1924, B.A. 1926; subsequently with Lee Bonar at the University of California, Berkeley specializing in fleshy fungi of the Pacific Coast; sometimes temporarily working at the Farlow Herbarium; but in general living at Berkeley 1926-1955. 
+**Abbreviated name**: *Morse*
 
 #### Herbarium and types
 

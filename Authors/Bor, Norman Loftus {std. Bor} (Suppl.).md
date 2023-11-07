@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103859#page/337/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33265524) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bor, Norman Loftus {std. Bor}|first entry]] for this author
 
 ### Author
 
-\* Bor, Norman Loftus (1893-1972), Irish born British botanist (forest botanist and agrostologist), studied at Trinity College, Dublin 1911-1914, on active service 1914-1919, B.A. Arts Dublin 1921, M.A. id. 1927, Sc.D. 1948, at the University of Edinburgh 1919-1921, B.Sc. forestry 1921, D.Sc. 1930, entered the Indian Forest Service 1921-1948, ultimately as Conservator of Forests, assistant director Kew 1948-1959, self-employed honorary member of the Kew staff 1959-1972 continuing his work on grasses. (*Bor*).
+\* Bor, Norman Loftus (1893-1972), Irish born British botanist (forest botanist and agrostologist), studied at Trinity College, Dublin 1911-1914, on active service 1914-1919, B.A. Arts Dublin 1921, M.A. id. 1927, Sc.D. 1948, at the University of Edinburgh 1919-1921, B.Sc. forestry 1921, D.Sc. 1930, entered the Indian Forest Service 1921-1948, ultimately as Conservator of Forests, assistant director Kew 1948-1959, self-employed honorary member of the Kew staff 1959-1972 continuing his work on grasses. 
+**Abbreviated name**: *Bor*
 
 #### Herbarium and types
 

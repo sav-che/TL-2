@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103861#page/152/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33266449) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brown, Roland Wilbur {std. R.W. Br.}|first entry]] for this author
 
 ### Author
 
-\* Brown, Roland Wilbur (1893-1961), American palaeobotanist, born at Weatherby, Pa., attended Lafayette College, Easton, Pa., studied palaeobotany with E.W. Berry at Johns Hopkins University, Ph.D. ib. 1926, briefly assistant with the Geological Survey, from 1928 palaeobotanist of the U.S. Geological Survey and honorary curator of palaeobotany with the National Museum, Washington, D.C. (*R.W. Br.*).
+\* Brown, Roland Wilbur (1893-1961), American palaeobotanist, born at Weatherby, Pa., attended Lafayette College, Easton, Pa., studied palaeobotany with E.W. Berry at Johns Hopkins University, Ph.D. ib. 1926, briefly assistant with the Geological Survey, from 1928 palaeobotanist of the U.S. Geological Survey and honorary curator of palaeobotany with the National Museum, Washington, D.C. 
+**Abbreviated name**: *R.W. Br.*
 
 #### Herbarium and types
 

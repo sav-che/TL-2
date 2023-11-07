@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103414#page/110/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33120193) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Areschoug, Johan (John) Erhard {std. J. Areschoug} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Areschoug, John Erhard (1811-1887), Swedish algologist at Uppsala. (*J. Areschoug*).
+Areschoug, John Erhard (1811-1887), Swedish algologist at Uppsala. 
+**Abbreviated name**: *J. Areschoug*
 
 #### Herbarium and types
 

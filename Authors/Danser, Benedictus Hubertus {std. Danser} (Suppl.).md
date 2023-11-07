@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103833#page/68/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33259102) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Danser, Benedictus Hubertus {std. Danser}|first entry]] for this author
 
 ### Author
 
-\* Danser, Benedictus Hubertus (1891-1943), Dutch botanist, born 24 Mai 1891 at Schiedam (nr. Rotterdam), school master at Schiedam 1910, studied at the University of Amsterdam with cum laude 1921, teacher at a secondary school 1920-1925 at Haarlem, unsalaried university lecturer in plant geography at Amsterdam but went immediately to Buitenzorg (Bogor, Netherl. Ind.) with the Land's Plantentuin, returned 1929 to the Netherlands as professor at the University of Groningen. (*Danser*).
+\* Danser, Benedictus Hubertus (1891-1943), Dutch botanist, born 24 Mai 1891 at Schiedam (nr. Rotterdam), school master at Schiedam 1910, studied at the University of Amsterdam with cum laude 1921, teacher at a secondary school 1920-1925 at Haarlem, unsalaried university lecturer in plant geography at Amsterdam but went immediately to Buitenzorg (Bogor, Netherl. Ind.) with the Land's Plantentuin, returned 1929 to the Netherlands as professor at the University of Groningen. 
+**Abbreviated name**: *Danser*
 
 #### Herbarium and types
 

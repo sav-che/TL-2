@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/104077#page/383/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33333508) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultz, Arthur (1838-1915), German (Silesian) floristic botanist and physician practicing at Storkow, Finsterwalde; ultimately in Wiesbaden. (*Arth. Schultz*).
+Schultz, Arthur (1838-1915), German (Silesian) floristic botanist and physician practicing at Storkow, Finsterwalde; ultimately in Wiesbaden. 
+**Abbreviated name**: *Arth. Schultz*
 
 #### Herbarium and types
 

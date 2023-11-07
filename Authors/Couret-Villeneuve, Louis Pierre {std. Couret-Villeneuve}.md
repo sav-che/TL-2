@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103860#page/434/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33266101) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Couret-Villeneuve, Louis Pierre (1749-1806), French botanist and horticulturist, born in Orléans, from 1800 (1801) director of the Botanical Garden of the University of Gent \[Gand\], Belgium. (*Couret-Villeneuve*).
+Couret-Villeneuve, Louis Pierre (1749-1806), French botanist and horticulturist, born in Orléans, from 1800 (1801) director of the Botanical Garden of the University of Gent \[Gand\], Belgium. 
+**Abbreviated name**: *Couret-Villeneuve*
 
 #### Herbarium and types
 

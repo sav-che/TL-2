@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/104137#page/286/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maly, Joseph Karl \[Carl\] (1797-1866), Prague-born Austrian physician and botanist; Dr. med. Prague 1823; practicing at Graz from 1824. (*Maly*).
+Maly, Joseph Karl \[Carl\] (1797-1866), Prague-born Austrian physician and botanist; Dr. med. Prague 1823; practicing at Graz from 1824. 
+**Abbreviated name**: *Maly*
 
 #### Herbarium and types
 

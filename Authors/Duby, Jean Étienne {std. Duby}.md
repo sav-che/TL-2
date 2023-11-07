@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/item/103414#page/735/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/page/33120818) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duby (de Steiger), Jean-Étienne {std. Duby} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Duby, Jean Étienne (1798-1885), Swiss clergyman and botanist at Genève. (*Duby*).
+Duby, Jean Étienne (1798-1885), Swiss clergyman and botanist at Genève. 
+**Abbreviated name**: *Duby*
 
 #### Herbarium and types
 

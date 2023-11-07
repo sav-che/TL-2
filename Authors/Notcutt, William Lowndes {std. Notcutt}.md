@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/item/104137#page/793/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Notcutt, William Lowndes (1819-1868), British pharmacist and botanist at Fareham, Kettering and Cheltenham. (*Notcutt*).
+Notcutt, William Lowndes (1819-1868), British pharmacist and botanist at Fareham, Kettering and Cheltenham. 
+**Abbreviated name**: *Notcutt*
 
 #### Herbarium and types
 

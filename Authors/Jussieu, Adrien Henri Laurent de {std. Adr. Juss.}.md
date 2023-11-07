@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/item/103253#page/501/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33068717) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jussieu, Adrien Henri Laurent de (1797-1853), French botanist; son of A. L. de Jussieu; professor of botany at the Muséum d'Histoire naturelle 1826. (*Adr. Juss.*).
+Jussieu, Adrien Henri Laurent de (1797-1853), French botanist; son of A. L. de Jussieu; professor of botany at the Muséum d'Histoire naturelle 1826. 
+**Abbreviated name**: *Adr. Juss.*
 
 #### Herbarium and types
 

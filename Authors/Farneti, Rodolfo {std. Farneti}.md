@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103834#page/69/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33259551) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Farneti, Rodolfo (1859-1919), Italian botanist interested in cryptogams and plant pathology, born 17 Feb 1859 in Chiesina, a village of Lizzano in Belvedere (Bologna), asst., cryptogamic lab., Univ. of Pavia 1886, published extensively on the diseases and pests of economically important plants, died 18 Jan (not Feb) 1919 in Vidiciatico (Bologna). (*Farneti*).
+Farneti, Rodolfo (1859-1919), Italian botanist interested in cryptogams and plant pathology, born 17 Feb 1859 in Chiesina, a village of Lizzano in Belvedere (Bologna), asst., cryptogamic lab., Univ. of Pavia 1886, published extensively on the diseases and pests of economically important plants, died 18 Jan (not Feb) 1919 in Vidiciatico (Bologna). 
+**Abbreviated name**: *Farneti*
 
 #### Herbarium and types
 

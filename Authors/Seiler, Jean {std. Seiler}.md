@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/item/104077#page/508/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33333633) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seiler, Jean (1878-1939), Swiss botanist; student of H. Schinz and C. Schröter; Dr. phil. Zürich 1909. (*Seiler*).
+Seiler, Jean (1878-1939), Swiss botanist; student of H. Schinz and C. Schröter; Dr. phil. Zürich 1909. 
+**Abbreviated name**: *Seiler*
 
 #### Herbarium and types
 

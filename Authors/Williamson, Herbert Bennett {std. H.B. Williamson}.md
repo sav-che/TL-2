@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103250#page/387/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33066667) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williamson, Herbert Bennett (1860-1931), Australian school teacher and botanist; teacher at various schools in Victoria until 1908, from then on head master at several Victorian State Schools, ultimately at the Dandenong State School 1922-1925. (*H.B. Williamson*).
+Williamson, Herbert Bennett (1860-1931), Australian school teacher and botanist; teacher at various schools in Victoria until 1908, from then on head master at several Victorian State Schools, ultimately at the Dandenong State School 1922-1925. 
+**Abbreviated name**: *H.B. Williamson*
 
 #### Herbarium and types
 

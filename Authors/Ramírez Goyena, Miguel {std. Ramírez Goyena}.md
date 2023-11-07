@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/item/103624#page/585/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33190042) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramírez Goyena, Miguel (1857-1927), Nicaraguan botanist; studied at the College of Granada (Nic.), connected with Institute nacional central de Managua for some time, from 1891-1902 in exile in Costa Rica and Honduras; from 1902 again in Nicaragua, working on his Flora nicaraguense. (*Ramírez Goyena*).
+Ramírez Goyena, Miguel (1857-1927), Nicaraguan botanist; studied at the College of Granada (Nic.), connected with Institute nacional central de Managua for some time, from 1891-1902 in exile in Costa Rica and Honduras; from 1902 again in Nicaragua, working on his Flora nicaraguense. 
+**Abbreviated name**: *Ramírez Goyena*
 
 #### Herbarium and types
 

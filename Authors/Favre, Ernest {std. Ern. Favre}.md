@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103834#page/94/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259576) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Favre, Ernest (1845-1925), Swiss stratigrapher and invertebrate paleontologist, born 14 Jun 1845 in Geneva, studied in Paris, Heidelberg, Vienna and Geneva, published extensively on the geology and paleontology of Switzerland and the Caucasus, died 7 Jan 1925 in Geneva. (*Ern. Favre*).
+Favre, Ernest (1845-1925), Swiss stratigrapher and invertebrate paleontologist, born 14 Jun 1845 in Geneva, studied in Paris, Heidelberg, Vienna and Geneva, published extensively on the geology and paleontology of Switzerland and the Caucasus, died 7 Jan 1925 in Geneva. 
+**Abbreviated name**: *Ern. Favre*
 
 #### Herbarium and types
 

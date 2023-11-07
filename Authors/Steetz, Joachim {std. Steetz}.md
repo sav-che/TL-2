@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/item/104077#page/879/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33334004) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steetz, Joachim (1804-1862), German (Hamburg) botanist; studied pharmacy at Halle 1825-1826, and Würzburg 1826-1829; Dr. med. Würzburg 1829; physician at the hospital of the Holy Spirit, Hamburg 1830-1862; from 1849 lecturer at the Hamburg botanical garden. (*Steetz*).
+Steetz, Joachim (1804-1862), German (Hamburg) botanist; studied pharmacy at Halle 1825-1826, and Würzburg 1826-1829; Dr. med. Würzburg 1829; physician at the hospital of the Holy Spirit, Hamburg 1830-1862; from 1849 lecturer at the Hamburg botanical garden. 
+**Abbreviated name**: *Steetz*
 
 #### Herbarium and types
 

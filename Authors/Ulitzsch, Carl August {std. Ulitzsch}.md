@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/item/103683#page/593/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33212625) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ulitzsch, Carl August (*fl*. 1796), German senator and pharmacist at Torgau. (*Ulitzsch*).
+Ulitzsch, Carl August (*fl*. 1796), German senator and pharmacist at Torgau. 
+**Abbreviated name**: *Ulitzsch*
 
 #### Herbarium and types
 

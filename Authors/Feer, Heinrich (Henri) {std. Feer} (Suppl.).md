@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103834#page/129/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33259611) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Feer, Heinrich (Henri) {std. Feer}|first entry]] for this author
 
 ### Author
 
-\* Feer, Heinrich \[Henri\] (1857-1892), Swiss botanist, born 19 Dec 1857 in Aarau (Kt. Aargau) where he was schooled and employed by a bank, attended Univ. of Zurich 1878-1880, went to Geneva 1889 and worked with R. Buser and B. Reber, contracted pulmonary consumption and died 27 Oct 1892 in Aarau. (*Feer*).
+\* Feer, Heinrich \[Henri\] (1857-1892), Swiss botanist, born 19 Dec 1857 in Aarau (Kt. Aargau) where he was schooled and employed by a bank, attended Univ. of Zurich 1878-1880, went to Geneva 1889 and worked with R. Buser and B. Reber, contracted pulmonary consumption and died 27 Oct 1892 in Aarau. 
+**Abbreviated name**: *Feer*
 
 #### Herbarium and types
 

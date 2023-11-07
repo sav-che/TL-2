@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103834#page/309/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259791) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fockeu, Henri Louis Jean Baptiste (1864-x), French botanist, born 19 Jun 1864 in La Chapelle d'Armentières (Nord), Lic. ès sciences naturelles, medical doctor 1889, Dr. èssciences 1896 Paris, "préparateur", then dir. of botanical research, Faculty of Medicine, Lille 1901-1903. (*Fockeu*).
+Fockeu, Henri Louis Jean Baptiste (1864-x), French botanist, born 19 Jun 1864 in La Chapelle d'Armentières (Nord), Lic. ès sciences naturelles, medical doctor 1889, Dr. èssciences 1896 Paris, "préparateur", then dir. of botanical research, Faculty of Medicine, Lille 1901-1903. 
+**Abbreviated name**: *Fockeu*
 
 #### Herbarium and types
 

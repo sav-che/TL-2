@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103858#page/21/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33264766) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Åberg, \[Johan\] Gerhard \[Göran\] (1868-1940), Swedish bryologist studied at the cathedral school at Lund 1887, med. lic. Lund 1900; provincial physician Sunne, Bergs distr. Jämtland 1914, Linnémedal Sv. Vet. Akad. 1934. (*Åberg*).
+Åberg, \[Johan\] Gerhard \[Göran\] (1868-1940), Swedish bryologist studied at the cathedral school at Lund 1887, med. lic. Lund 1900; provincial physician Sunne, Bergs distr. Jämtland 1914, Linnémedal Sv. Vet. Akad. 1934. 
+**Abbreviated name**: *Åberg*
 
 #### Herbarium and types
 

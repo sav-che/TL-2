@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103253#page/209/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33068425) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heuffel, Johann A. (1800-1857), Hungarian physician and botanist; "Comitats-Physicus a. D." in Krasso; worker on the flora of the Banat. (*Heuff.*).
+Heuffel, Johann A. (1800-1857), Hungarian physician and botanist; "Comitats-Physicus a. D." in Krasso; worker on the flora of the Banat. 
+**Abbreviated name**: *Heuff.*
 
 #### Herbarium and types
 

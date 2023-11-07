@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/104137#page/760/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33355831) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicolson, (Père) (1734-ca. 1790), Dominican priest in Paris who lived about four years on Santo Domingo. (*Nicols.*).
+Nicolson, (Père) (1734-ca. 1790), Dominican priest in Paris who lived about four years on Santo Domingo. 
+**Abbreviated name**: *Nicols.*
 
 #### Herbarium and types
 

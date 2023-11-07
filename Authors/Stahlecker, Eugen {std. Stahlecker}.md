@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/item/104077#page/844/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33333969) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stahlecker, Eugen (1867-?), German (Württemberg) botanist and high school teacher at Korntal; student of L.M. Fünfstück. (*Stahlecker*).
+Stahlecker, Eugen (1867-?), German (Württemberg) botanist and high school teacher at Korntal; student of L.M. Fünfstück. 
+**Abbreviated name**: *Stahlecker*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103683#page/185/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33212217) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tate, George Henry Hamilton (1894-1953), British-born American zoologist and collector; field assistant at the American Museum of Natural History, New York from 1922-1931; American citizen 1927; M.A. Columbia Univ. 1931; asst. curator mammals 1931-1942, assoc. curator 1942-1946, curator 1946-1953; Dr. Sci. Univ. Montreal 1937; made 42 collecting expeditions in the tropics, made substantial botanical collections in South America. (*G.H. Tate*).
+Tate, George Henry Hamilton (1894-1953), British-born American zoologist and collector; field assistant at the American Museum of Natural History, New York from 1922-1931; American citizen 1927; M.A. Columbia Univ. 1931; asst. curator mammals 1931-1942, assoc. curator 1942-1946, curator 1946-1953; Dr. Sci. Univ. Montreal 1937; made 42 collecting expeditions in the tropics, made substantial botanical collections in South America. 
+**Abbreviated name**: *G.H. Tate*
 
 #### Herbarium and types
 

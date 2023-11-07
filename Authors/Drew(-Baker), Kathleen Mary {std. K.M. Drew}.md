@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103835#page/106/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33260084) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drew\[-Baker\], Kathleen Mary (1901-1957), British botanist, born 6 Nov 1901 Leigh, Lancs., died 14 Sep 1957 Manchester, B.Sc. at University of Manchester 1922, D.Sc. 1939, assistant lecturer in botany at Manchester, phycologist, travelled in America and Hawaii, president of the British Phycological Society 1952. (*K.M. Drew*).
+Drew\[-Baker\], Kathleen Mary (1901-1957), British botanist, born 6 Nov 1901 Leigh, Lancs., died 14 Sep 1957 Manchester, B.Sc. at University of Manchester 1922, D.Sc. 1939, assistant lecturer in botany at Manchester, phycologist, travelled in America and Hawaii, president of the British Phycological Society 1952. 
+**Abbreviated name**: *K.M. Drew*
 
 #### Herbarium and types
 

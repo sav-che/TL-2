@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/item/103624#page/630/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33190087) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reboul, Eugène de (1781-1851), French botanist; emigrated to Italy and settled in Florence (calling himself Eugenio). (*Reboul*).
+Reboul, Eugène de (1781-1851), French botanist; emigrated to Italy and settled in Florence (calling himself Eugenio). 
+**Abbreviated name**: *Reboul*
 
 #### Herbarium and types
 

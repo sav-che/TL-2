@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/item/103414#page/655/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deby, Julien Marc {std. Deby} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Deby, Julien Marc (1826-1895), Belgian diatomist who settled in London about 1877. (*Deby*).
+Deby, Julien Marc (1826-1895), Belgian diatomist who settled in London about 1877. 
+**Abbreviated name**: *Deby*
 
 #### Herbarium and types
 

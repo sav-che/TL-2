@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/103414#page/363/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bremekamp, Cornelius Elisa Bertus {std. Bremek.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bremekamp, Cornelis Elisa Bertus (1888-x), Dutch botanist of the Utrecht school who resided in Java, South Africa and the Netherlands. (*Bremek.*).
+Bremekamp, Cornelis Elisa Bertus (1888-x), Dutch botanist of the Utrecht school who resided in Java, South Africa and the Netherlands. 
+**Abbreviated name**: *Bremek.*
 
 #### Herbarium and types
 

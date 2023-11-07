@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103253#page/180/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henfrey, Arthur (1819-1859) British botanist; professor of botany at King's College London 1852-1859. (*Henfr.*).
+Henfrey, Arthur (1819-1859) British botanist; professor of botany at King's College London 1852-1859. 
+**Abbreviated name**: *Henfr.*
 
 #### Herbarium and types
 

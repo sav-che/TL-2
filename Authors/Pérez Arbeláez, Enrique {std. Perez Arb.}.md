@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103624#page/177/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33189634) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pérez Arbeláez, Enrique (1896-1972), Colombian botanist; Dr. phil. Burgos 1918; Dr. theol. ib. 1926; Dr. Sci. München 1928. (*Perez Arb.*).
+Pérez Arbeláez, Enrique (1896-1972), Colombian botanist; Dr. phil. Burgos 1918; Dr. theol. ib. 1926; Dr. Sci. München 1928. 
+**Abbreviated name**: *Perez Arb.*
 
 #### Herbarium and types
 

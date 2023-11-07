@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103835#page/41/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33260019) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dolley, Charles Sumner (1856-x), American botanist and zoologist, born at Elyria in Lorraine County, Ohio, U.S.A., 16 Jun 1856, professor of biology at Swarthmore College 1885-1888, also until 1892 with University of Pennsylvania mostly for zoology, from 1892 at the Philadelphia High School. (*Dolley*).
+Dolley, Charles Sumner (1856-x), American botanist and zoologist, born at Elyria in Lorraine County, Ohio, U.S.A., 16 Jun 1856, professor of biology at Swarthmore College 1885-1888, also until 1892 with University of Pennsylvania mostly for zoology, from 1892 at the Philadelphia High School. 
+**Abbreviated name**: *Dolley*
 
 #### Herbarium and types
 

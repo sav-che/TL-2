@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103414#page/302/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33120385) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boisduval, Jean (Baptiste) Antoine (Déchaffour) de {std. Boisd.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boisduval, Jean Baptiste Alphonse Déchauffour(e) de (1801 \[1799?\]-1879), French naturalist and physician at Paris. (*Boisduval*).
+Boisduval, Jean Baptiste Alphonse Déchauffour(e) de (1801 \[1799?\]-1879), French naturalist and physician at Paris. 
+**Abbreviated name**: *Boisduval*
 
 #### Herbarium and types
 

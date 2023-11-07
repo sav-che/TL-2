@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103250#page/346/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33066626) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilbrand, Johann Bernhard (1779-1846), German (Westphalen) botanist and physician; Dr. med. Würzburg 1806; "Privatdocent" at the University of Münster 1806-1808; professor of anatomy and natural history Giessen Univ. 1809-1844, from 1817 also director of the botanical garden; ardent promoter of the "Naturphilosophie". (*Wilbr.*).
+Wilbrand, Johann Bernhard (1779-1846), German (Westphalen) botanist and physician; Dr. med. Würzburg 1806; "Privatdocent" at the University of Münster 1806-1808; professor of anatomy and natural history Giessen Univ. 1809-1844, from 1817 also director of the botanical garden; ardent promoter of the "Naturphilosophie". 
+**Abbreviated name**: *Wilbr.*
 
 #### Herbarium and types
 

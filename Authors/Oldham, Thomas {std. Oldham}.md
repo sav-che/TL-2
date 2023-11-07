@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/item/104137#page/834/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33355905) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oldham, Thomas (1816-1878), British geologist, paleontologist and botanist; B. A. Dublin 1836; director of the Irish Geological Survey (1840-1850), of the Indian Geological Survey 1850-1876. (*Oldham*).
+Oldham, Thomas (1816-1878), British geologist, paleontologist and botanist; B. A. Dublin 1836; director of the Irish Geological Survey (1840-1850), of the Indian Geological Survey 1850-1876. 
+**Abbreviated name**: *Oldham*
 
 #### Herbarium and types
 

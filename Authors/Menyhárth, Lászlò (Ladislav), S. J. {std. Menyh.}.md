@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/104137#page/432/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Menyhárth, Lászlò (Ladislav), S. J. (1849-1897), Austro-Hungarian missionary and botanist; originally at Innsbruck; later at Kalocsa; travelled in the Zambesi region. (*Menyh.*).
+Menyhárth, Lászlò (Ladislav), S. J. (1849-1897), Austro-Hungarian missionary and botanist; originally at Innsbruck; later at Kalocsa; travelled in the Zambesi region. 
+**Abbreviated name**: *Menyh.*
 
 #### Herbarium and types
 

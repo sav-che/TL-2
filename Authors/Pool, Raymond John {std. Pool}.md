@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103624#page/350/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33189807) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pool, Raymond John (1882-1967), American botanist; Dr. phil. Univ. Nebraska 1913; professor of botany and chairman, Department of Botany, University of Nebraska 1915-1948. (*Pool*).
+Pool, Raymond John (1882-1967), American botanist; Dr. phil. Univ. Nebraska 1913; professor of botany and chairman, Department of Botany, University of Nebraska 1915-1948. 
+**Abbreviated name**: *Pool*
 
 #### Herbarium and types
 

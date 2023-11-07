@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103859#page/242/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265429) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blumrich, Josef (1865-1949), Austrian (Bohemian born) botanist, geologist and highschool teacher, student of V. Schiffner, gymnasium teacher at Bregenz, connected with the Vorarlberger Landesmuseum, Bregenz. (*Blumr.*).
+Blumrich, Josef (1865-1949), Austrian (Bohemian born) botanist, geologist and highschool teacher, student of V. Schiffner, gymnasium teacher at Bregenz, connected with the Vorarlberger Landesmuseum, Bregenz. 
+**Abbreviated name**: *Blumr.*
 
 #### Herbarium and types
 

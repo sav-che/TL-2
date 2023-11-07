@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/item/103250#page/620/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33066900) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zuccarini, Joseph Gerhard (1797-1848), German (Bavarian) botanist; Dr. med. Erlangen 1819; professor of botany at a high school in München 1823; e.o. professor of botany at the University of Landshut 1824-1826, id. at München 1826; ordinary professor of agronomy and forestry botany 1835. (*Zucc.*).
+Zuccarini, Joseph Gerhard (1797-1848), German (Bavarian) botanist; Dr. med. Erlangen 1819; professor of botany at a high school in München 1823; e.o. professor of botany at the University of Landshut 1824-1826, id. at München 1826; ordinary professor of agronomy and forestry botany 1835. 
+**Abbreviated name**: *Zucc.*
 
 #### Herbarium and types
 

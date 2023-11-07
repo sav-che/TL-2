@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/item/104137#page/359/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33355430) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martyn, Thomas (1735-1825), British botanist; at Cambridge from 1762; son of John Martyn. (*Martyn*).
+Martyn, Thomas (1735-1825), British botanist; at Cambridge from 1762; son of John Martyn. 
+**Abbreviated name**: *Martyn*
 
 #### Herbarium and types
 

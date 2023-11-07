@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/item/104077#page/657/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Slater, Matthew B. (c. 1829-1918), British bryologist at Malton; friend of Richard Spruce. (*Slater*).
+Slater, Matthew B. (c. 1829-1918), British bryologist at Malton; friend of Richard Spruce. 
+**Abbreviated name**: *Slater*
 
 #### Herbarium and types
 

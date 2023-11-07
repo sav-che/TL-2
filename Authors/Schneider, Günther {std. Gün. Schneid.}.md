@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/104077#page/288/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33333413) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, Günther (1904-x), German (Berlin) pharmacist and botanist; Dr. phil. Berlin 1931. (*Gün. Schneid.*).
+Schneider, Günther (1904-x), German (Berlin) pharmacist and botanist; Dr. phil. Berlin 1931. 
+**Abbreviated name**: *Gün. Schneid.*
 
 #### Herbarium and types
 

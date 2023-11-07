@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/item/104077#page/938/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33334063) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steyaert, René \[Léopold Alix Ghislain Jules\] (1905-1978), Belgian botanist; Ing. agr. Gembloux 1927; with the "Station de Phytopathologie de l'État", Gembloux 1926, 1928-1929; agronomist for mycology, in the Belgian Congo 1929-1934; with the "Institut national pour l'Étude agronomique au Congo" \[INEAC\] 1934-1946; mycologist with the "Commission pour l'étude de la flore du Congo belge..." from 1947; ultimately (1968-1970) stationed at the "Jardin botanique national de Belgique". (*Steyaert*).
+Steyaert, René \[Léopold Alix Ghislain Jules\] (1905-1978), Belgian botanist; Ing. agr. Gembloux 1927; with the "Station de Phytopathologie de l'État", Gembloux 1926, 1928-1929; agronomist for mycology, in the Belgian Congo 1929-1934; with the "Institut national pour l'Étude agronomique au Congo" \[INEAC\] 1934-1946; mycologist with the "Commission pour l'étude de la flore du Congo belge..." from 1947; ultimately (1968-1970) stationed at the "Jardin botanique national de Belgique". 
+**Abbreviated name**: *Steyaert*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/103253#page/428/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jacobsen, Hermann Johannes Heinrich (1898-x), German horticulturist and botanist; curator of the Kiel botanical garden; author on succulent plants; Dr. h.c. Kiel 1963. (*H. Jacobsen*).
+Jacobsen, Hermann Johannes Heinrich (1898-x), German horticulturist and botanist; curator of the Kiel botanical garden; author on succulent plants; Dr. h.c. Kiel 1963. 
+**Abbreviated name**: *H. Jacobsen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103683#page/102/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33212134) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Summerhayes, Victor Samuel (1897-1974), British botanist (orchidologist); B.Sc. Univ. Coll. London 1920; travelled to Spitzbergen 1921; at the Royal Botanic Gardens, Kew, in charge of the orchid herbarium 1924-1964. (*Summerh.*).
+Summerhayes, Victor Samuel (1897-1974), British botanist (orchidologist); B.Sc. Univ. Coll. London 1920; travelled to Spitzbergen 1921; at the Royal Botanic Gardens, Kew, in charge of the orchid herbarium 1924-1964. 
+**Abbreviated name**: *Summerh.*
 
 #### Herbarium and types
 

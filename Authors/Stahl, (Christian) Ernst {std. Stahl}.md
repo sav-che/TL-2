@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/104077#page/842/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33333967) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stahl, \[Christian\] Ernst (1848-1919), Alsatian botanist; student of W. Schimper at Strassburg (gymnasium) and of Millardet (ib., University), of A. de Bary at Halle 1871-1872, and with the same in Strassburg 1872-1873; Dr. phil. ib. 1873; assistant at the botanical institute 1874-1877; habil. Würzburg 1877; ordinary professor of botany at Jena 1881-1919; in Java (Buitenzorg) 1889-1890, and Mexico 1894. (*Stahl*).
+Stahl, \[Christian\] Ernst (1848-1919), Alsatian botanist; student of W. Schimper at Strassburg (gymnasium) and of Millardet (ib., University), of A. de Bary at Halle 1871-1872, and with the same in Strassburg 1872-1873; Dr. phil. ib. 1873; assistant at the botanical institute 1874-1877; habil. Würzburg 1877; ordinary professor of botany at Jena 1881-1919; in Java (Buitenzorg) 1889-1890, and Mexico 1894. 
+**Abbreviated name**: *Stahl*
 
 #### Herbarium and types
 

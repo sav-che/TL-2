@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/item/104077#page/723/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33333848) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smyttère, Philippe Joseph Emmanuel de (1800-?), Northern French botanist and physician; government physician and pharmacist in Paris. (*Smyttère*).
+Smyttère, Philippe Joseph Emmanuel de (1800-?), Northern French botanist and physician; government physician and pharmacist in Paris. 
+**Abbreviated name**: *Smyttère*
 
 #### Herbarium and types
 

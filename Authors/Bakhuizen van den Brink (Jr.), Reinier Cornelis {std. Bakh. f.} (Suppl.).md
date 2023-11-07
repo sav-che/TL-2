@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/103858#page/297/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33265012) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bakhuizen van den Brink, Reinier Cornelis Jr. {std. Bakh. f.}|first entry]] for this author
 
 ### Author
 
-\* Bakhuizen van den Brink \[Jr.\], Reinier Cornelis (1911-1987), Dutch botanist (born in the Dutch East Indies), moved to the Netherlands 1925, studied biology at the State University of Utrecht 1933-1939, Dr. phil. Utrecht 1943; assistant at the Rijksherbarium, Leiden assisting C.A. Backer in the work on the Flora of Java 1943, botanist on the staff of the Flora malesiana 1949-1976. (*Bakh. f.*).
+\* Bakhuizen van den Brink \[Jr.\], Reinier Cornelis (1911-1987), Dutch botanist (born in the Dutch East Indies), moved to the Netherlands 1925, studied biology at the State University of Utrecht 1933-1939, Dr. phil. Utrecht 1943; assistant at the Rijksherbarium, Leiden assisting C.A. Backer in the work on the Flora of Java 1943, botanist on the staff of the Flora malesiana 1949-1976. 
+**Abbreviated name**: *Bakh. f.*
 
 #### Herbarium and types
 

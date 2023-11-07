@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103861#page/331/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33266628) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caminhoá, Joaquim Monteiro (1835-?), Brasilian botanist at Rio de Janeiro. (*Caminhoá*).
+Caminhoá, Joaquim Monteiro (1835-?), Brasilian botanist at Rio de Janeiro. 
+**Abbreviated name**: *Caminhoá*
 
 #### Herbarium and types
 

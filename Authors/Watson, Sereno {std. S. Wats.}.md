@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103250#page/162/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33066442) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watson, Sereno (1826-1892), American botanist; trained as a physician; secretary of the Planter's Insurance Company in Greensboro, Alabama 1856-1861; employed with the Journal of Education at Hartford, Conn. 1861-1866; to California 1867; joined C. King's Geological Exploration of the fortieth parallel as a volunteer 1867; official botanist of the expedition 1868; studied his collections at Yale 1869 and Harvard 1870-1874; assistant with A. Gray at the Gray Herbarium 1874-1888; curator ib. 1888-1892; travelled in N.W. United States 1880, Guatemala 1885 and Europe 1886. (*S. Wats.*).
+Watson, Sereno (1826-1892), American botanist; trained as a physician; secretary of the Planter's Insurance Company in Greensboro, Alabama 1856-1861; employed with the Journal of Education at Hartford, Conn. 1861-1866; to California 1867; joined C. King's Geological Exploration of the fortieth parallel as a volunteer 1867; official botanist of the expedition 1868; studied his collections at Yale 1869 and Harvard 1870-1874; assistant with A. Gray at the Gray Herbarium 1874-1888; curator ib. 1888-1892; travelled in N.W. United States 1880, Guatemala 1885 and Europe 1886. 
+**Abbreviated name**: *S. Wats.*
 
 #### Herbarium and types
 

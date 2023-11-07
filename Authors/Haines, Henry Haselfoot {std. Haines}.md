@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103253#page/41/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haines, Henry Haselfoot (1867-1945), British forester in India; Indian Forest Service (1888), Imperial forest botanist (1906); at Imperial Forest College 1907; Conservator of forests (1909-1919). (*Haines*).
+Haines, Henry Haselfoot (1867-1945), British forester in India; Indian Forest Service (1888), Imperial forest botanist (1906); at Imperial Forest College 1907; Conservator of forests (1909-1919). 
+**Abbreviated name**: *Haines*
 
 #### Herbarium and types
 

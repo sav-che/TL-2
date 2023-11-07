@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/item/103414#page/857/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33120940) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fabricius, Johan Christian {std. J. Fabr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fabricius, Johan Christian (1745-1808), Danish (Schleswig) entomologist, pupil of Linnaeus (1762-1764), later at Kiel. (*J. Fabr.*).
+Fabricius, Johan Christian (1745-1808), Danish (Schleswig) entomologist, pupil of Linnaeus (1762-1764), later at Kiel. 
+**Abbreviated name**: *J. Fabr.*
 
 #### Herbarium and types
 

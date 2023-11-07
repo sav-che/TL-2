@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/item/104077#page/442/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33333567) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schweigger, August Friedrich (1783-1821), German (Bavarian) botanist and zoologist; Dr. med. chir. Erlangen 1804; with Willdenow in Berlin; from 1809-1821 director of the botanical garden and professor of botany at Königsberg; travelled in Western, Southern and Central Europe; murdered near Girgenti in Sicily. (*Schweigg.*).
+Schweigger, August Friedrich (1783-1821), German (Bavarian) botanist and zoologist; Dr. med. chir. Erlangen 1804; with Willdenow in Berlin; from 1809-1821 director of the botanical garden and professor of botany at Königsberg; travelled in Western, Southern and Central Europe; murdered near Girgenti in Sicily. 
+**Abbreviated name**: *Schweigg.*
 
 #### Herbarium and types
 

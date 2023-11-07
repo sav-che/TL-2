@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/item/104077#page/751/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33333876) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sommerstorff, Hermann (1889-1913), German (Berlin) botanist; studied biology in Göttingen 1907-1909; in Graz 1909-1911; assistant at the botanical Institute of the University of Vienna; Dr. phil. Wien 1912, student of G. Haberlandt and R. v. Wettstein. (*Sommerst.*).
+Sommerstorff, Hermann (1889-1913), German (Berlin) botanist; studied biology in Göttingen 1907-1909; in Graz 1909-1911; assistant at the botanical Institute of the University of Vienna; Dr. phil. Wien 1912, student of G. Haberlandt and R. v. Wettstein. 
+**Abbreviated name**: *Sommerst.*
 
 #### Herbarium and types
 

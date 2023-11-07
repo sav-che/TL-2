@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/104137#page/242/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33355313) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-M'Ken \[McKen, Mac Kerc\], Mark John (1823-1872), Scottish gardener and plant collector; in Jamaica 1847; curator Natal botanical garden 1851-1853, 1860-1872; with the Tongut (Tongaart) Sugar Estate 1853-1860 as pioneer of the S. Afr. sugar industry. (*M'Ken*).
+M'Ken \[McKen, Mac Kerc\], Mark John (1823-1872), Scottish gardener and plant collector; in Jamaica 1847; curator Natal botanical garden 1851-1853, 1860-1872; with the Tongut (Tongaart) Sugar Estate 1853-1860 as pioneer of the S. Afr. sugar industry. 
+**Abbreviated name**: *M'Ken*
 
 #### Herbarium and types
 

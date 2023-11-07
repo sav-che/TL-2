@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/item/103253#page/614/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koch, Heinrich (*fl*. 1774), Swiss dendrologist. (*H. Koch*).
+Koch, Heinrich (*fl*. 1774), Swiss dendrologist. 
+**Abbreviated name**: *H. Koch*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103859#page/263/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33265450) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boehmer, Georg Rudolph {std. Boehm.}|first entry]] for this author
 
 ### Author
 
-\* Boehmer, Georg Rudolf (1723-1803), German (Liegnitz, Lower Silesia born) botanist (anatomy, physiology and pharmaceutic botany), studied at the University of Leipzig, professor of botany at the University of Wittenberg. (*Boehm.*).
+\* Boehmer, Georg Rudolf (1723-1803), German (Liegnitz, Lower Silesia born) botanist (anatomy, physiology and pharmaceutic botany), studied at the University of Leipzig, professor of botany at the University of Wittenberg. 
+**Abbreviated name**: *Boehm.*
 
 #### Herbarium and types
 

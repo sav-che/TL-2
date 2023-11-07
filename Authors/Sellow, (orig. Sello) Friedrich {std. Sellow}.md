@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/104077#page/514/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33333639) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sellow, \[orig.: Sello\] Friedrich (1789-1831), German gardener and botanical explorer; worked in the Berlin and Paris (1810-1811) botanical gardens and studied botany with Willdenow, Desfontaines and A.L. de Jussieu as well as in London (sponsored by A. v. Humboldt 1811-1813); from 1814 in Brazil, collecting widely from 1815-1817 with Maximilian zu Wied-Neuwied; with Ignaz Franz Werner von Olfers \[1793-1871\] in 1819; continued to collect 1819-1831 in Brazil and Uruguay. (*Sellow*).
+Sellow, \[orig.: Sello\] Friedrich (1789-1831), German gardener and botanical explorer; worked in the Berlin and Paris (1810-1811) botanical gardens and studied botany with Willdenow, Desfontaines and A.L. de Jussieu as well as in London (sponsored by A. v. Humboldt 1811-1813); from 1814 in Brazil, collecting widely from 1815-1817 with Maximilian zu Wied-Neuwied; with Ignaz Franz Werner von Olfers \[1793-1871\] in 1819; continued to collect 1819-1831 in Brazil and Uruguay. 
+**Abbreviated name**: *Sellow*
 
 #### Herbarium and types
 

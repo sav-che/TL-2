@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103624#page/390/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prahn, Hermann (*fl*. 1887), German botanist. (*Prahn*).
+Prahn, Hermann (*fl*. 1887), German botanist. 
+**Abbreviated name**: *Prahn*
 
 #### Herbarium and types
 

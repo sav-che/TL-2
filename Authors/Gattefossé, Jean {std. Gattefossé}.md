@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103832#page/156/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33258622) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gattefossé, Jean (1899-1960), French industrial chemist and botanist, born in Lyon, chemical engineer 1918 Univ. of Lyon, employed by his father's perfume factory for which he went to Morocco with Émile Jahandiez in 1920, established a factory to exploit aromatic plants in Provence, returned to Morocco and settled there 1927, died Jun 1960 in Aïn Seba, Morocco. (*Gattefossé*).
+Gattefossé, Jean (1899-1960), French industrial chemist and botanist, born in Lyon, chemical engineer 1918 Univ. of Lyon, employed by his father's perfume factory for which he went to Morocco with Émile Jahandiez in 1920, established a factory to exploit aromatic plants in Provence, returned to Morocco and settled there 1927, died Jun 1960 in Aïn Seba, Morocco. 
+**Abbreviated name**: *Gattefossé*
 
 #### Herbarium and types
 

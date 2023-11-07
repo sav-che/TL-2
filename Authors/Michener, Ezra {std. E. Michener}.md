@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/104137#page/484/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michener, Ezra (1794-1887), American physician, conchologist and botanist in Chester County, Pennsylvania; M. D. Univ. Penn. 1817. (*E. Michener*).
+Michener, Ezra (1794-1887), American physician, conchologist and botanist in Chester County, Pennsylvania; M. D. Univ. Penn. 1817. 
+**Abbreviated name**: *E. Michener*
 
 #### Herbarium and types
 

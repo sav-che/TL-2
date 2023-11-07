@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103834#page/188/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259670) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferry, René Joseph Justin (1845-1924), French physician and lawyer, born 19 Apr 1845 in St.-Dié (Vosges), where he attended school, Bacc. litt. Nancy 1862, Bacc. en droit 1863 and Bacc. en médecine 1864 Strasbourg, "Aide titulaire" in botany, Strasbourg 1869, military service Franco-Prussian War 1870, Dr. of Law and lawyer at St.-Dié, Dr. en médecine 1876 Nancy, deputy judge 1895, then judge at civil court, St.-Dié 1911, one of the founders, Société mycologique de France 1885, died 23 Jul 1924 in St.-Dié. (*Ferry*).
+Ferry, René Joseph Justin (1845-1924), French physician and lawyer, born 19 Apr 1845 in St.-Dié (Vosges), where he attended school, Bacc. litt. Nancy 1862, Bacc. en droit 1863 and Bacc. en médecine 1864 Strasbourg, "Aide titulaire" in botany, Strasbourg 1869, military service Franco-Prussian War 1870, Dr. of Law and lawyer at St.-Dié, Dr. en médecine 1876 Nancy, deputy judge 1895, then judge at civil court, St.-Dié 1911, one of the founders, Société mycologique de France 1885, died 23 Jul 1924 in St.-Dié. 
+**Abbreviated name**: *Ferry*
 
 #### Herbarium and types
 

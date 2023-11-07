@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/103414#page/787/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33120870) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eisengrein, Georg Adolf (1799-1857), German botanist, professor of botany at Freiburg im Breisgau. (*Eisengrein*).
+Eisengrein, Georg Adolf (1799-1857), German botanist, professor of botany at Freiburg im Breisgau. 
+**Abbreviated name**: *Eisengrein*
 
 #### Herbarium and types
 

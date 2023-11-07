@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/item/103683#page/787/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33212819) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voit, Johann Gottlob Wilhelm (1787-1813), German (Bavarian) physician and botanist at Schweinfurt. (*Voit*).
+Voit, Johann Gottlob Wilhelm (1787-1813), German (Bavarian) physician and botanist at Schweinfurt. 
+**Abbreviated name**: *Voit*
 
 #### Herbarium and types
 

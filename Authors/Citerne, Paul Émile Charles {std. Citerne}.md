@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/item/103860#page/189/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Citerne, Paul Émile Charles (1857-x), French botanist, born 31 Aug 1857 at Nantes, Loire-Inférieure, France, promotion at the Faculté des Sciences de Paris, Dr. in natural sciences, préparateur at the École pratique des Hautes Études 1892, later at the medical school at Nantes. (*Citerne*).
+Citerne, Paul Émile Charles (1857-x), French botanist, born 31 Aug 1857 at Nantes, Loire-Inférieure, France, promotion at the Faculté des Sciences de Paris, Dr. in natural sciences, préparateur at the École pratique des Hautes Études 1892, later at the medical school at Nantes. 
+**Abbreviated name**: *Citerne*
 
 #### Herbarium and types
 

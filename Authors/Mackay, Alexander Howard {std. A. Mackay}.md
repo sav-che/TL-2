@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/104137#page/241/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33355312) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mackay, Alexander Howard (1848-1929), Canadian botanist; B.Sc. Univ. Halifax 1880; teacher at the Pictou Academy, Halifax, 1873-1889, principal of Halifax County Academy 1889-1891; head of the department of education of Nova Scotia 1891-1926; LL.D. h. c. Dalhousie Univ. 1892, id. Univ. Antigonish, N. S. 1905. (*A. Mackay*).
+Mackay, Alexander Howard (1848-1929), Canadian botanist; B.Sc. Univ. Halifax 1880; teacher at the Pictou Academy, Halifax, 1873-1889, principal of Halifax County Academy 1889-1891; head of the department of education of Nova Scotia 1891-1926; LL.D. h. c. Dalhousie Univ. 1892, id. Univ. Antigonish, N. S. 1905. 
+**Abbreviated name**: *A. Mackay*
 
 #### Herbarium and types
 

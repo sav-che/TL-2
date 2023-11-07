@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/104137#page/584/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33355655) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moore, David (until 1828: Muir) (1808-1879), Scottish botanist; brother of Charles Moore; at Trinity College Garden Dublin 1829-1834; botanist to Ordnance survey of Ireland 1834-1838; curator of Glasnevin Garden 1838-1879; Dr. phil. h.c. Zürich 1863. (*D. Moore*).
+Moore, David (until 1828: Muir) (1808-1879), Scottish botanist; brother of Charles Moore; at Trinity College Garden Dublin 1829-1834; botanist to Ordnance survey of Ireland 1834-1838; curator of Glasnevin Garden 1838-1879; Dr. phil. h.c. Zürich 1863. 
+**Abbreviated name**: *D. Moore*
 
 #### Herbarium and types
 

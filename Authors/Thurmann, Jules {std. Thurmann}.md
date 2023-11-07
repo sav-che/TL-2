@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103683#page/347/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33212379) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thurmann, Jules (1804-1855), Swiss botanist (Alsatian-born) and school teacher; trained to be an army engineer at Thun, turning to natural history in 1830, especially dedicating himself to the geology of the Jura; from 1832 teacher of mathematics and natural history at Porrentruy (Brunntrut), from 1837 as director of the local teacher's college. (*Thurmann*).
+Thurmann, Jules (1804-1855), Swiss botanist (Alsatian-born) and school teacher; trained to be an army engineer at Thun, turning to natural history in 1830, especially dedicating himself to the geology of the Jura; from 1832 teacher of mathematics and natural history at Porrentruy (Brunntrut), from 1837 as director of the local teacher's college. 
+**Abbreviated name**: *Thurmann*
 
 #### Herbarium and types
 

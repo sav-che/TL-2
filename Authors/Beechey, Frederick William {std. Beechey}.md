@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103414#page/212/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33120295) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beechey, Frederick William {std. Beechey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beechey, Frederick William (1796-1856), British explorer. (*Beechey*).
+Beechey, Frederick William (1796-1856), British explorer. 
+**Abbreviated name**: *Beechey*
 
 #### Herbarium and types
 

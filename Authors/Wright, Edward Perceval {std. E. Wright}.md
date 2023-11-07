@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/item/103250#page/527/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33066807) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wright, Edward Perceval (1834-1910), Irish naturalist; MA Dublin 1857, MD ib. 1862; lecturer in zoology Trinity College, Dublin 1858-1868; professor of botany ib. 1869-1904; keeper of TCD 1870-1910; collected on the Seychelles 1867, in Sicily and Portugal 1868. (*E. Wright*).
+Wright, Edward Perceval (1834-1910), Irish naturalist; MA Dublin 1857, MD ib. 1862; lecturer in zoology Trinity College, Dublin 1858-1868; professor of botany ib. 1869-1904; keeper of TCD 1870-1910; collected on the Seychelles 1867, in Sicily and Portugal 1868. 
+**Abbreviated name**: *E. Wright*
 
 #### Herbarium and types
 

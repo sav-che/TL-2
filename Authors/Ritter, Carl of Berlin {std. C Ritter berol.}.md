@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/item/103624#page/815/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33190272) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ritter, Carl of Berlin (1779-1859), German (Prussian) geographer and botanist; private teacher at Frankfurt a.M. 1798-1814, id. at Göttingen 1819; professor of history at the Frankfurt Gymnasium 1819-1820; from 1820 at Berlin, 1820 prof. geogr. Kriegsschule; extraordinary professor of geography at Berlin University 1820, ordinary professor 1825-1859. (*C Ritter berol.*).
+Ritter, Carl of Berlin (1779-1859), German (Prussian) geographer and botanist; private teacher at Frankfurt a.M. 1798-1814, id. at Göttingen 1819; professor of history at the Frankfurt Gymnasium 1819-1820; from 1820 at Berlin, 1820 prof. geogr. Kriegsschule; extraordinary professor of geography at Berlin University 1820, ordinary professor 1825-1859. 
+**Abbreviated name**: *C Ritter berol.*
 
 #### Herbarium and types
 

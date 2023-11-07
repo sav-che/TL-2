@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103834#page/53/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259535) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Familler, Ignaz (1863-1923), German priest and cryptogamic botanist, born 15 Sep 1863 in Puchhausen nr. Straubing, attended elementary school and gymnasium in Metten and Straubing, studied theology in Regensburg, ordained 1887, appointed curate 1892, Ph.D. 1896 Munich (under K.I. Goebel), priest at Regensburg 1910, died 26 Feb 1923 in Karthaus-Prüll nr. Regensburg. (*Fam.*).
+Familler, Ignaz (1863-1923), German priest and cryptogamic botanist, born 15 Sep 1863 in Puchhausen nr. Straubing, attended elementary school and gymnasium in Metten and Straubing, studied theology in Regensburg, ordained 1887, appointed curate 1892, Ph.D. 1896 Munich (under K.I. Goebel), priest at Regensburg 1910, died 26 Feb 1923 in Karthaus-Prüll nr. Regensburg. 
+**Abbreviated name**: *Fam.*
 
 #### Herbarium and types
 

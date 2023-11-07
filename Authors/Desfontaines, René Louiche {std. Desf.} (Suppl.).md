@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/103833#page/232/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33259266) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Desfontaines, René Louiche {std. Desf.}|first entry]] for this author
 
 ### Author
 
-\* Desfontaines, René Louiche (1750-1833), French botanist, born 14 Feb 1750, died 16 Nov 1833, studied medicine at Paris, but turned to botany, "demonstrator" of the Muséum d'Histoire naturelle 1783, "Académicien", on expedition in N. Africa (Algeria, Tunis), 1784-1785, professor of botany at the Jardin des plantes of Paris 1786, professor at the Faculty of Science Paris 1811. (*Desf.*).
+\* Desfontaines, René Louiche (1750-1833), French botanist, born 14 Feb 1750, died 16 Nov 1833, studied medicine at Paris, but turned to botany, "demonstrator" of the Muséum d'Histoire naturelle 1783, "Académicien", on expedition in N. Africa (Algeria, Tunis), 1784-1785, professor of botany at the Jardin des plantes of Paris 1786, professor at the Faculty of Science Paris 1811. 
+**Abbreviated name**: *Desf.*
 
 #### Herbarium and types
 

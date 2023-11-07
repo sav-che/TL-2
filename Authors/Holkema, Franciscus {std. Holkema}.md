@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103253#page/280/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33068496) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holkema, Franciscus (1840-1870), Dutch botanist; studied at Groningen, pupil of H. C. van Hall; pioneer dutch plant-geographer. (*Holkema*).
+Holkema, Franciscus (1840-1870), Dutch botanist; studied at Groningen, pupil of H. C. van Hall; pioneer dutch plant-geographer. 
+**Abbreviated name**: *Holkema*
 
 #### Herbarium and types
 

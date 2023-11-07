@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103859#page/214/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33265401) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blank, Fritz (1914-x), German botanist, born in Horn (Lippe – Deutschland), educated in Horn at the elementary school 1921-1925, in Bad-Meinberg "Privat-Lehrinstitut" 1925-1929, "Staatliche Oberrealschule" in Detmold 1929-1933, "Maturitätsprüfung" 1933, practicing agriculture in Fegersheim, Bas-Rhin, France 1933-1934, at the Eidgenössischen Technischen Hochschule, Zürich 1934-1939, "Ingenieur-Agronom" diploma 1938, Dr. phil. Zürich 1939. (*F. Blank*).
+Blank, Fritz (1914-x), German botanist, born in Horn (Lippe – Deutschland), educated in Horn at the elementary school 1921-1925, in Bad-Meinberg "Privat-Lehrinstitut" 1925-1929, "Staatliche Oberrealschule" in Detmold 1929-1933, "Maturitätsprüfung" 1933, practicing agriculture in Fegersheim, Bas-Rhin, France 1933-1934, at the Eidgenössischen Technischen Hochschule, Zürich 1934-1939, "Ingenieur-Agronom" diploma 1938, Dr. phil. Zürich 1939. 
+**Abbreviated name**: *F. Blank*
 
 #### Herbarium and types
 

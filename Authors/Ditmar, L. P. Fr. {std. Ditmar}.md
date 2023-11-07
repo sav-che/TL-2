@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/item/103414#page/708/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33120791) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ditmar, L. P. Fr. (*fl*. 1809), German lawyer and botanist at Rostock. (*Ditmar*).
+Ditmar, L. P. Fr. (*fl*. 1809), German lawyer and botanist at Rostock. 
+**Abbreviated name**: *Ditmar*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/104137#page/626/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33355697) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mouton-Fontenille de la Clotte, Marie Jacques Philippe (1769-1837), French botanist and ornithologist; studied at Montpellier under Gouan; from 1808-1815 professor of natural history at the faculty of sciences at Lyon; from 1815-1830 at the Lyon Palais des Arts and director of the natural history cabinet at Lyon; pensioned off in 1830 because of his ultra-royalist attitude. (*Mouton-Font.*).
+Mouton-Fontenille de la Clotte, Marie Jacques Philippe (1769-1837), French botanist and ornithologist; studied at Montpellier under Gouan; from 1808-1815 professor of natural history at the faculty of sciences at Lyon; from 1815-1830 at the Lyon Palais des Arts and director of the natural history cabinet at Lyon; pensioned off in 1830 because of his ultra-royalist attitude. 
+**Abbreviated name**: *Mouton-Font.*
 
 #### Herbarium and types
 

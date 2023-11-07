@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103253#page/406/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33068622) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hutton, William (1798-1860), British palaeobotanist at Durham. (*Hutton*).
+Hutton, William (1798-1860), British palaeobotanist at Durham. 
+**Abbreviated name**: *Hutton*
 
 #### Collections
 

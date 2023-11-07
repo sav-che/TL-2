@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103253#page/176/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33068392) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hemsley, William Botting (1843-1924), British botanist at Kew (1865-1867); worked as a private scientist 1867-1883, from 1883-1908 again at Kew in various capacities, ultimately (1899-1908) as keeper of the herbarium and library. (*Hemsl.*).
+Hemsley, William Botting (1843-1924), British botanist at Kew (1865-1867); worked as a private scientist 1867-1883, from 1883-1908 again at Kew in various capacities, ultimately (1899-1908) as keeper of the herbarium and library. 
+**Abbreviated name**: *Hemsl.*
 
 #### Herbarium and types
 

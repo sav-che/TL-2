@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1022](https://www.biodiversitylibrary.org/item/103624#page/1036/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1022](https://www.biodiversitylibrary.org/page/33190493) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sabine, Joseph (1770-1837), British (English) barrister and horticulturist; inspector-general of assessed taxes 1808-1835; secretary of the Horticultural Society of London 1816-1830; elder brother of Edward Sabine, founder of the Transactions of the \[later Royal\] Horticultural Society. (*Sabine*).
+Sabine, Joseph (1770-1837), British (English) barrister and horticulturist; inspector-general of assessed taxes 1808-1835; secretary of the Horticultural Society of London 1816-1830; elder brother of Edward Sabine, founder of the Transactions of the \[later Royal\] Horticultural Society. 
+**Abbreviated name**: *Sabine*
 
 #### Herbarium and types
 

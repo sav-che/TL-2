@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/item/103859#page/83/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33265270) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bennett, George (1804-1893), British physician and naturalist, born at Plymouth, went to Ceylon 1819 (sic), studied in England (M.R.C.S. 1828), surgeon to a merchant vessel, 1828 visited Australia, revisited Australia 1832, settled as practicing physician in Sydney 1836, a founder of the Australian Museum, M.D. Glasgow 1859. (*G. Benn.*).
+Bennett, George (1804-1893), British physician and naturalist, born at Plymouth, went to Ceylon 1819 (sic), studied in England (M.R.C.S. 1828), surgeon to a merchant vessel, 1828 visited Australia, revisited Australia 1832, settled as practicing physician in Sydney 1836, a founder of the Australian Museum, M.D. Glasgow 1859. 
+**Abbreviated name**: *G. Benn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/104077#page/56/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33333143) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Santi, Georgio (1746-1822), Italian botanist; Dr. med. phil. Siena 1777; in Paris 1777-1783; professor of botany, natural history and chemistry and director of the botanical garden of Pisa 1782/3-1814. (*Santi*).
+Santi, Georgio (1746-1822), Italian botanist; Dr. med. phil. Siena 1777; in Paris 1777-1783; professor of botany, natural history and chemistry and director of the botanical garden of Pisa 1782/3-1814. 
+**Abbreviated name**: *Santi*
 
 #### Herbarium and types
 

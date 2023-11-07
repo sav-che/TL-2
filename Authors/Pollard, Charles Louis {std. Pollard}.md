@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/item/103624#page/343/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33189800) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pollard, Charles Louis (1872-1945), American botanist; AM Colombia Univ. 1894; curator of plants U.S. natl. Mus. 1895-1903. (*Pollard*).
+Pollard, Charles Louis (1872-1945), American botanist; AM Colombia Univ. 1894; curator of plants U.S. natl. Mus. 1895-1903. 
+**Abbreviated name**: *Pollard*
 
 #### Herbarium and types
 

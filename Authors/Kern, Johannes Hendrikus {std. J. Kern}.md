@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/item/103253#page/551/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33068767) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kern, Johannes Hendrikus (1903-1974), Dutch botanist, high school teacher at Nijmegen; later at the Rijksherbarium, Leiden, specialist on Cyperaceae. (*J. Kern*).
+Kern, Johannes Hendrikus (1903-1974), Dutch botanist, high school teacher at Nijmegen; later at the Rijksherbarium, Leiden, specialist on Cyperaceae. 
+**Abbreviated name**: *J. Kern*
 
 #### Herbarium and types
 

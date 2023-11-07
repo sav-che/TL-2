@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/item/103414#page/805/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33120888) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Engler, Heinrich Gustav Adolf {std. Engl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Engler, Heinrich Gustav Adolf (1844-1930), German botanist, leader of the Berlin school of plant taxonomy and plant geography. (*Engl.*).
+Engler, Heinrich Gustav Adolf (1844-1930), German botanist, leader of the Berlin school of plant taxonomy and plant geography. 
+**Abbreviated name**: *Engl.*
 
 #### Herbarium and types
 

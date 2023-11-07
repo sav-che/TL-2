@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103835#page/137/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33260115) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ducellier, Léon Octave (1878-1937), French botanist, born 10 Aug 1878 at Persac, Vienne, studied at the agricultural schools at Montlouis, Cléon, and Montpellier, was appointed at the "Service du Phylloxera" at Alger 1904, later at the agricultural school "Maison-Carrée" in 1905, diploma in natural sciences 1911, professor in agriculture since 1911, made important explorations in Algeria and Morocco, died 26 Dec 1937 at Alger. (*Ducell.*).
+Ducellier, Léon Octave (1878-1937), French botanist, born 10 Aug 1878 at Persac, Vienne, studied at the agricultural schools at Montlouis, Cléon, and Montpellier, was appointed at the "Service du Phylloxera" at Alger 1904, later at the agricultural school "Maison-Carrée" in 1905, diploma in natural sciences 1911, professor in agriculture since 1911, made important explorations in Algeria and Morocco, died 26 Dec 1937 at Alger. 
+**Abbreviated name**: *Ducell.*
 
 #### Herbarium and types
 

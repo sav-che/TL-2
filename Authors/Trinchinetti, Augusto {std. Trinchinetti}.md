@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/item/103683#page/503/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33212535) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trinchinetti, Augusto (1813-1847), Italian botanist; Dr. med. Pavia 1835, later sometime professor of botany in Pavia. (*Trinchinetti*).
+Trinchinetti, Augusto (1813-1847), Italian botanist; Dr. med. Pavia 1835, later sometime professor of botany in Pavia. 
+**Abbreviated name**: *Trinchinetti*
 
 #### Herbarium and types
 

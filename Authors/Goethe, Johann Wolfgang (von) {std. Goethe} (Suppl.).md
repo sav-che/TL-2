@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/103832#page/285/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33258751) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Goethe, Johann Wolfgang von {std. Goethe}|first entry]] for this author
 
 ### Author
 
-\* Goethe, Johann Wolfgang (von) (1749-1832), famous German author, poet and "Natur-Philosoph". (*Goethe*).
+\* Goethe, Johann Wolfgang (von) (1749-1832), famous German author, poet and "Natur-Philosoph". 
+**Abbreviated name**: *Goethe*
 
 #### This entry is introduced only to
 

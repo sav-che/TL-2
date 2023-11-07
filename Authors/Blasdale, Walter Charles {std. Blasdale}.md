@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103859#page/217/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blasdale, Walter Charles (1871-1960), American chemist and amateur mycologist, studied at the University of California, B.S. 1892, Ph.D. 1900, instructor in chemistry ib. 1895-1903, assistant professor 1903-1919, professor of chemistry 1919-1921, emer. 1941. (*Blasdale*).
+Blasdale, Walter Charles (1871-1960), American chemist and amateur mycologist, studied at the University of California, B.S. 1892, Ph.D. 1900, instructor in chemistry ib. 1895-1903, assistant professor 1903-1919, professor of chemistry 1919-1921, emer. 1941. 
+**Abbreviated name**: *Blasdale*
 
 #### Herbarium and types
 

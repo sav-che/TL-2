@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103833#page/124/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33259158) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dawodu, Thomas B. (x-1920), Kew Gardener, died 25 Mai 1920, Ebute Metta, Nigeria, student at Kew 1893-1894, assistant curator Botanic Sta., Lagos 1894, life member of Kew Guild, Lagos Bot. Station asst. curator 1894-1920. (*Dawodu*).
+Dawodu, Thomas B. (x-1920), Kew Gardener, died 25 Mai 1920, Ebute Metta, Nigeria, student at Kew 1893-1894, assistant curator Botanic Sta., Lagos 1894, life member of Kew Guild, Lagos Bot. Station asst. curator 1894-1920. 
+**Abbreviated name**: *Dawodu*
 
 #### Herbarium and types
 

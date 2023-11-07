@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103861#page/226/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33266523) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buining, Albert Frederik Hendrik (1901-1976), Dutch botanist, student of succulents, president of the Dutch "Succulenta" 1940-1968, travelled in South America collecting succulents. (*Buining*).
+Buining, Albert Frederik Hendrik (1901-1976), Dutch botanist, student of succulents, president of the Dutch "Succulenta" 1940-1968, travelled in South America collecting succulents. 
+**Abbreviated name**: *Buining*
 
 #### Herbarium and types
 

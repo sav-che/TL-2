@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/103253#page/591/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33068807) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klett, Gustav Theodor (x-1827), German botanist at Leipzig. (*Klett*).
+Klett, Gustav Theodor (x-1827), German botanist at Leipzig. 
+**Abbreviated name**: *Klett*
 
 #### Herbarium and types
 

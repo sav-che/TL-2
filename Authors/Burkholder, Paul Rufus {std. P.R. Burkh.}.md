@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103861#page/254/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33266551) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burkholder, Paul Rufus (1903-x), American botanist, born at Orrstown, Pa., at Dickinson College B.A. 1924, instructor in botany Univ. Cornell, Ithaca 1924, Biol. curator Buffalo Museum of Science 1929-1932, Ph.D. Cornell 1929, assistant professor Connecticut College 1934, assoc. prof. 1937, id. Univ. Missouri 1938, id. Univ. Yale 1940, M.A. h.c. id. 1944, Eaton prof. botany 1944-1953, Dr. h.c. Dickinson College 1949, Univ. Yale chairman Dept. Plant Science, after 1955 director Brooklyn Bot. Gard. (*P.R. Burkh.*).
+Burkholder, Paul Rufus (1903-x), American botanist, born at Orrstown, Pa., at Dickinson College B.A. 1924, instructor in botany Univ. Cornell, Ithaca 1924, Biol. curator Buffalo Museum of Science 1929-1932, Ph.D. Cornell 1929, assistant professor Connecticut College 1934, assoc. prof. 1937, id. Univ. Missouri 1938, id. Univ. Yale 1940, M.A. h.c. id. 1944, Eaton prof. botany 1944-1953, Dr. h.c. Dickinson College 1949, Univ. Yale chairman Dept. Plant Science, after 1955 director Brooklyn Bot. Gard. 
+**Abbreviated name**: *P.R. Burkh.*
 
 #### Herbarium and types
 

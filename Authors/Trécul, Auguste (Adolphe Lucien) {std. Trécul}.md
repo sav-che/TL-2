@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103683#page/465/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33212497) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trécul, Auguste \[Adolphe Lucien\] (1818-1896), French botanist; studied pharmacy at Paris (Maître de pharmacie 1845) but dedicating himself to botany; travelled in North America 1848-1850; from 1850 working at the Muséum d'Histoire naturelle, Paris without official status. (*Trécul*).
+Trécul, Auguste \[Adolphe Lucien\] (1818-1896), French botanist; studied pharmacy at Paris (Maître de pharmacie 1845) but dedicating himself to botany; travelled in North America 1848-1850; from 1850 working at the Muséum d'Histoire naturelle, Paris without official status. 
+**Abbreviated name**: *Trécul*
 
 #### Herbarium and types
 

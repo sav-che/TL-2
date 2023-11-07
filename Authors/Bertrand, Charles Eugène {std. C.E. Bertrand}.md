@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103414#page/254/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33120337) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bertrand, Charles Eugène {std. C.E. Bertrand} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bertrand, Charles Eugène (1851-1917), French palaeobotanist at Lille. (*C. E. Bertrand*).
+Bertrand, Charles Eugène (1851-1917), French palaeobotanist at Lille. 
+**Abbreviated name**: *C. E. Bertrand*
 
 #### Collections
 

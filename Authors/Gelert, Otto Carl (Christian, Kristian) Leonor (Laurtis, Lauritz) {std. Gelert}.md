@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103832#page/182/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33258648) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gelert, Otto Carl \[Christian, Kristian\] Leonor \[Laurtis, Lauritz\] (1862-1899), Danish batologist and floristic taxonomist, born 9 Nov 1862 in Nybol, pharmacy examination 1883, worked as a druggist then in a sugar refinery and finally at the Botanical Museum, Copenhagen, visited Canary Islands 1897, died of consumption (phthisis) 20 Mar 1899 in Copenhagen. (*Gelert*).
+Gelert, Otto Carl \[Christian, Kristian\] Leonor \[Laurtis, Lauritz\] (1862-1899), Danish batologist and floristic taxonomist, born 9 Nov 1862 in Nybol, pharmacy examination 1883, worked as a druggist then in a sugar refinery and finally at the Botanical Museum, Copenhagen, visited Canary Islands 1897, died of consumption (phthisis) 20 Mar 1899 in Copenhagen. 
+**Abbreviated name**: *Gelert*
 
 #### Herbarium and types
 

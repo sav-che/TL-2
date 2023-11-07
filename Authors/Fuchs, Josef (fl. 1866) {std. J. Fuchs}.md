@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103832#page/82/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33258548) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fuchs, Josef (fl. 1866), Austrian pharmacist and curator ("custos") of the natural history collections of the Austrian Society of Pharmacists. (*J. Fuchs*).
+Fuchs, Josef (fl. 1866), Austrian pharmacist and curator ("custos") of the natural history collections of the Austrian Society of Pharmacists. 
+**Abbreviated name**: *J. Fuchs*
 
 #### Note
 

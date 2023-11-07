@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/104077#page/274/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33333399) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Wilhelm Ludwig Ewald (1804-1843), German (Prussian, Brandenburg) physician, botanist and entomologist; Dr. med. Berlin 1828; practicing physician and teacher at the Royal Gymnasium at Stettin from 1829. (*W.L.E. Schmidt*).
+Schmidt, Wilhelm Ludwig Ewald (1804-1843), German (Prussian, Brandenburg) physician, botanist and entomologist; Dr. med. Berlin 1828; practicing physician and teacher at the Royal Gymnasium at Stettin from 1829. 
+**Abbreviated name**: *W.L.E. Schmidt*
 
 #### Herbarium and types
 

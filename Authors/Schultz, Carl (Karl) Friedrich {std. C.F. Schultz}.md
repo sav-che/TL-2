@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/104077#page/384/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33333509) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultz, Carl \[Karl\] Friedrich (1765 \[1766?\]-1837), German (Mecklenburg-Strelitz) botanist and physician; Dr. med. Halle 1791; practicing physician at Neubrandenburg (Stargard); ultimately as "Grossherzoglich-Mecklenburgischer Leibarzt und Rat". (*C.F. Schultz*).
+Schultz, Carl \[Karl\] Friedrich (1765 \[1766?\]-1837), German (Mecklenburg-Strelitz) botanist and physician; Dr. med. Halle 1791; practicing physician at Neubrandenburg (Stargard); ultimately as "Grossherzoglich-Mecklenburgischer Leibarzt und Rat". 
+**Abbreviated name**: *C.F. Schultz*
 
 #### Herbarium and types
 

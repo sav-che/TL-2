@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103833#page/55/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33259089) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Damseaux, Adolph (fl. 1883-1911), Belgian professor in agriculture at Gembloux. (*Damseaux*).
+Damseaux, Adolph (fl. 1883-1911), Belgian professor in agriculture at Gembloux. 
+**Abbreviated name**: *Damseaux*
 
 #### Herbarium and types
 

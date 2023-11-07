@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/item/103253#page/736/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Labillardière, Jacques Julien Houttou de (1775-1834), French explorer and botanist; studied medicine at Montpellier; travelled in near East 1786; on expedition to find La Pérouse 1791-1795; from 1828 at Rouen. (*Labill.*).
+Labillardière, Jacques Julien Houttou de (1775-1834), French explorer and botanist; studied medicine at Montpellier; travelled in near East 1786; on expedition to find La Pérouse 1791-1795; from 1828 at Rouen. 
+**Abbreviated name**: *Labill.*
 
 #### Herbarium and types
 

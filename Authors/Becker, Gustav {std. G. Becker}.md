@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103859#page/40/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265227) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Becker, Gustav (1815-1880), German pharmacist and botanist at Bonn. (*G. Becker*).
+Becker, Gustav (1815-1880), German pharmacist and botanist at Bonn. 
+**Abbreviated name**: *G. Becker*
 
 #### Herbarium and types
 

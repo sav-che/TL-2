@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/104077#page/276/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33333401) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmitz, \[Carl Johann\] Friedrich (1850-1895), German (Rhineland) botanist (algologist); studied botany at Bonn with J.L.E.R. von Hanstein; participated in the 1870-1871 Franco-German war; Dr. phil. Bonn 1871; assistant with A. de Bary at Halle and Strassburg 1872-1874; habil. Halle 1874; lecturer ib. 1874-1878; at Napoli zoological station 1878; extraordinary professor of botany at Bonn 1878-1884; professor of botany at Greifswald 1884-1895. (*F. Schmitz*).
+Schmitz, \[Carl Johann\] Friedrich (1850-1895), German (Rhineland) botanist (algologist); studied botany at Bonn with J.L.E.R. von Hanstein; participated in the 1870-1871 Franco-German war; Dr. phil. Bonn 1871; assistant with A. de Bary at Halle and Strassburg 1872-1874; habil. Halle 1874; lecturer ib. 1874-1878; at Napoli zoological station 1878; extraordinary professor of botany at Bonn 1878-1884; professor of botany at Greifswald 1884-1895. 
+**Abbreviated name**: *F. Schmitz*
 
 #### Herbarium and types
 

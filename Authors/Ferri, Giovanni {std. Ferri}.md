@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103834#page/187/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259669) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferri, Giovanni (1865-1919), Italian physician, born 2 Mar 1865, member of the Natural Science Society of Italy, died 2 Jul 1919. (*Ferri*).
+Ferri, Giovanni (1865-1919), Italian physician, born 2 Mar 1865, member of the Natural Science Society of Italy, died 2 Jul 1919. 
+**Abbreviated name**: *Ferri*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103624#page/213/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33189670) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pethybridge, George Herbert (1871-1948), British botanist (phytopathologist); Ph. D. Göttingen 1899; with Department of Agriculture and Royal College of Science at Dublin from 1900, Economic Botanist 1908-1923; mycologist and asst. director of the Plant Pathology Lab., Harpenden, 1923-1936; O.B.E. 1937. (*Pethybr.*).
+Pethybridge, George Herbert (1871-1948), British botanist (phytopathologist); Ph. D. Göttingen 1899; with Department of Agriculture and Royal College of Science at Dublin from 1900, Economic Botanist 1908-1923; mycologist and asst. director of the Plant Pathology Lab., Harpenden, 1923-1936; O.B.E. 1937. 
+**Abbreviated name**: *Pethybr.*
 
 #### Herbarium and types
 

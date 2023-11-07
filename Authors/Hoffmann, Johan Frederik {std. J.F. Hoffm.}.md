@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103253#page/270/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoffmann, Johan Frederik (1823-1841), Dutch botanist. (*J. F. Hoffm.*).
+Hoffmann, Johan Frederik (1823-1841), Dutch botanist. 
+**Abbreviated name**: *J. F. Hoffm.*
 
 #### Herbarium and types
 

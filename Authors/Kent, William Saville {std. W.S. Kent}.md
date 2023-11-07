@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103253#page/548/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33068764) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kent, William Saville (x-1908), British protozoologist at the British Museum (Natural History). (*W. S. Kent*).
+Kent, William Saville (x-1908), British protozoologist at the British Museum (Natural History). 
+**Abbreviated name**: *W. S. Kent*
 
 #### Collections
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103683#page/70/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stumpf, \[Johann\] Georg (1750-1798), German (Bavarian) agricultural botanist and zoologist, roman-catholic theologist and Carthusian mönch; professor at Jena 1791-1793 id. at Greifswald 1794-1798. (*Stumpf*).
+Stumpf, \[Johann\] Georg (1750-1798), German (Bavarian) agricultural botanist and zoologist, roman-catholic theologist and Carthusian mönch; professor at Jena 1791-1793 id. at Greifswald 1794-1798. 
+**Abbreviated name**: *Stumpf*
 
 #### Herbarium and types
 

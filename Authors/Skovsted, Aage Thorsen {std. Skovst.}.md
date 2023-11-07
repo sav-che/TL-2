@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/item/104077#page/653/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/page/33333778) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skovsted, Aage Thorsen (1903-1983), Danish botanist; Dr. phil. 1937; assistant at the Danish College of Agriculture 1927-1930; cytogeneticist at the Empire Cotton Growing Corporation's Research Station, Trinidad 1930-1936; at the physiological department of the Carlsberg laboratories in Copenhagen 1936-1956; from 1956 teacher in genetics (from 1959 in botany) at the State Teacher's College; head of the Botanical Museum, Copenhagen 1960-1973. (*Skovst.*).
+Skovsted, Aage Thorsen (1903-1983), Danish botanist; Dr. phil. 1937; assistant at the Danish College of Agriculture 1927-1930; cytogeneticist at the Empire Cotton Growing Corporation's Research Station, Trinidad 1930-1936; at the physiological department of the Carlsberg laboratories in Copenhagen 1936-1956; from 1956 teacher in genetics (from 1959 in botany) at the State Teacher's College; head of the Botanical Museum, Copenhagen 1960-1973. 
+**Abbreviated name**: *Skovst.*
 
 #### Herbarium and types
 

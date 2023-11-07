@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103253#page/494/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jundzill, Jozef (x-1877), Polish botanist at Wilna. (*J. Jundz.*).
+Jundzill, Jozef (x-1877), Polish botanist at Wilna. 
+**Abbreviated name**: *J. Jundz.*
 
 #### Herbarium and types
 

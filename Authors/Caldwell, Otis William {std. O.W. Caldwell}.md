@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103861#page/320/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33266617) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caldwell, Otis William (1869-1947), American botanist (plant morphologist) born at Lebanon, Indiana, B.S. at Franklin College 1894, Ph.D. at University of Chicago 1898, assistant-botanist ib. 1897-1899, head of the department of biology at East Ill. Nor. Sch., associate prof. of botany at University of Chicago 1907-1913, id. prof. and dean at University College 1913-1917, LLD 1917, prof. of education Teachers College, Columbia, 1917-1935, emer. prof. 1936. (*O.W. Caldwell*).
+Caldwell, Otis William (1869-1947), American botanist (plant morphologist) born at Lebanon, Indiana, B.S. at Franklin College 1894, Ph.D. at University of Chicago 1898, assistant-botanist ib. 1897-1899, head of the department of biology at East Ill. Nor. Sch., associate prof. of botany at University of Chicago 1907-1913, id. prof. and dean at University College 1913-1917, LLD 1917, prof. of education Teachers College, Columbia, 1917-1935, emer. prof. 1936. 
+**Abbreviated name**: *O.W. Caldwell*
 
 #### Herbarium and types
 

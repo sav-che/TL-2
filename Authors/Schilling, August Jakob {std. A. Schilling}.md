@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/item/104077#page/173/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33333298) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schilling, August Jakob (1865-?), German (Hessen) botanist; Dr. phil. Basel 1891; habil. Technical Univ. Darmstadt 1895. (*A. Schilling*).
+Schilling, August Jakob (1865-?), German (Hessen) botanist; Dr. phil. Basel 1891; habil. Technical Univ. Darmstadt 1895. 
+**Abbreviated name**: *A. Schilling*
 
 #### Herbarium and types
 

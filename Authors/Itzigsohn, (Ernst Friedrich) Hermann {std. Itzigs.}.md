@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103253#page/417/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33068633) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Itzigsohn, \[Ernst Friedrich\] Hermann (1814-1879), German physician and naturalist; Dr. med. Berlin 1836; practiced in Frankfurt a.O., Cüstrin and Neudamm, ultimately at Schöneberg. (*Itzigs.*).
+Itzigsohn, \[Ernst Friedrich\] Hermann (1814-1879), German physician and naturalist; Dr. med. Berlin 1836; practiced in Frankfurt a.O., Cüstrin and Neudamm, ultimately at Schöneberg. 
+**Abbreviated name**: *Itzigs.*
 
 #### Herbarium and types
 

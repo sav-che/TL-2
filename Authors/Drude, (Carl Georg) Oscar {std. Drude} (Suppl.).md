@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103835#page/118/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33260096) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drude, Carl Georg Oscar {std. Drude}|first entry]] for this author
 
 ### Author
 
-\* Drude, \[Carl Georg\] Oscar (1852-1933), German botanist, born at Braunschweig, 5 Jun 1852, educated at the gymnasium of Braunschweig, at the Collegium Carolinum 1870-71, and id. in Göttingen, student of Grisebach, Dr. phil. Göttingen 1874, habilitation id. 1876, from 1879 professor of botany at the "Polytechnikum" at Dresden, joined the Naturw. Gesellschaft Isis 1879, died 1 Feb 1933 in Bühlau nr. Dresden. (*Drude*).
+\* Drude, \[Carl Georg\] Oscar (1852-1933), German botanist, born at Braunschweig, 5 Jun 1852, educated at the gymnasium of Braunschweig, at the Collegium Carolinum 1870-71, and id. in Göttingen, student of Grisebach, Dr. phil. Göttingen 1874, habilitation id. 1876, from 1879 professor of botany at the "Polytechnikum" at Dresden, joined the Naturw. Gesellschaft Isis 1879, died 1 Feb 1933 in Bühlau nr. Dresden. 
+**Abbreviated name**: *Drude*
 
 #### Herbarium and types
 

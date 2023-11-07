@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/104137#page/132/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33355203) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lippmaa, Teodor (until 1924: Lipman) (1892-1943), Estonian botanist; Dr. phil. Tartu 1926; at Tartu University as assistant lecturer (1923), lecturer (1927) and professor of botany (1930-1943); worker on vegetable pigments, geobotany and Estonian floristics. (*Lippmaa*).
+Lippmaa, Teodor (until 1924: Lipman) (1892-1943), Estonian botanist; Dr. phil. Tartu 1926; at Tartu University as assistant lecturer (1923), lecturer (1927) and professor of botany (1930-1943); worker on vegetable pigments, geobotany and Estonian floristics. 
+**Abbreviated name**: *Lippmaa*
 
 #### Herbarium and types
 

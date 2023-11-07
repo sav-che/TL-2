@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103860#page/179/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33265846) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chupp, Charles David (1886-1967), American phytopathologist, mycologist and taxonomist, born at Millersburgh, Indiana, studied botany at Wabash College with a B.S. in botany 1912, at Graduate School of Cornell University 1912-1916, Ph.D. 1916 Cornell, acting professor of botany at Wabash College 1917, returned to Cornell as assistant professor in plant pathology 1918-1919, professor 1927-1954. (*Chupp*).
+Chupp, Charles David (1886-1967), American phytopathologist, mycologist and taxonomist, born at Millersburgh, Indiana, studied botany at Wabash College with a B.S. in botany 1912, at Graduate School of Cornell University 1912-1916, Ph.D. 1916 Cornell, acting professor of botany at Wabash College 1917, returned to Cornell as assistant professor in plant pathology 1918-1919, professor 1927-1954. 
+**Abbreviated name**: *Chupp*
 
 #### Herbarium and types
 

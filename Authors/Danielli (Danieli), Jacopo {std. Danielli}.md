@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103833#page/66/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33259100) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Danielli \[Danieli\], Jacopo (fl. 1885), Italian anthropologist, "libera docente" at Firenze. (*Danielli*).
+Danielli \[Danieli\], Jacopo (fl. 1885), Italian anthropologist, "libera docente" at Firenze. 
+**Abbreviated name**: *Danielli*
 
 #### Herbarium and types
 

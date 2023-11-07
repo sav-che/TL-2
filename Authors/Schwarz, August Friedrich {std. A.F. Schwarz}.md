@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/104077#page/437/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33333562) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwarz, August Friedrich (1852-1915), German (Bavarian) floristic botanist and veterinarian; studied at the Veterinary College München; army veterinarian at Augsburg and Nürnberg. (*A.F. Schwarz*).
+Schwarz, August Friedrich (1852-1915), German (Bavarian) floristic botanist and veterinarian; studied at the Veterinary College München; army veterinarian at Augsburg and Nürnberg. 
+**Abbreviated name**: *A.F. Schwarz*
 
 #### Herbarium and types
 

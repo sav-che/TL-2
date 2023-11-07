@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/103861#page/269/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33266566) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burns, Georg Plumer (1871-1953), American botanist, born at Maroa, Ill., studied in München ca. 1889, Dr. phil. München 1900, director of the Nichols Arboretum of the University of Michigan 1907-1910, professor of botany at the University of Vermont. (*G.P. Burns*).
+Burns, Georg Plumer (1871-1953), American botanist, born at Maroa, Ill., studied in München ca. 1889, Dr. phil. München 1900, director of the Nichols Arboretum of the University of Michigan 1907-1910, professor of botany at the University of Vermont. 
+**Abbreviated name**: *G.P. Burns*
 
 #### Herbarium and types
 

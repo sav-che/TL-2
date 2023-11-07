@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103834#page/52/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33259534) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Falqui, Giuseppe (fl. 1886-1924), Italian botanist and paleobotanist, Ph.D., prof., Univ. of Sassari (n.w. Sardinia), also worked in Cagliari (s. Sardinia), dir. of its botanical garden 1915-1920 and 1922-1924. (*Falqui*).
+Falqui, Giuseppe (fl. 1886-1924), Italian botanist and paleobotanist, Ph.D., prof., Univ. of Sassari (n.w. Sardinia), also worked in Cagliari (s. Sardinia), dir. of its botanical garden 1915-1920 and 1922-1924. 
+**Abbreviated name**: *Falqui*
 
 #### Herbarium and types
 

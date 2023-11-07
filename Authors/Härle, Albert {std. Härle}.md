@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103253#page/34/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33068250) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Härle, Albert (1905-x), German botanist. (*Härle*).
+Härle, Albert (1905-x), German botanist. 
+**Abbreviated name**: *Härle*
 
 #### Herbarium and types
 

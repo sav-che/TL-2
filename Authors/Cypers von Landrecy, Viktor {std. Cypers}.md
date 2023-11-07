@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/103860#page/537/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33266204) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cypers von Landrecy, Viktor (1857-1930), German/Bohemian botanist born at Harta near Hohenelbe, educated at the Realschule in Böhm.-Leipa, studied at the technical "Hochschule" in Wien, studying chemistry, published 1877 on plant geography of the Riesengebirge, as well as mycological treatises especially. (*Cypers*).
+Cypers von Landrecy, Viktor (1857-1930), German/Bohemian botanist born at Harta near Hohenelbe, educated at the Realschule in Böhm.-Leipa, studied at the technical "Hochschule" in Wien, studying chemistry, published 1877 on plant geography of the Riesengebirge, as well as mycological treatises especially. 
+**Abbreviated name**: *Cypers*
 
 #### Herbarium and types
 

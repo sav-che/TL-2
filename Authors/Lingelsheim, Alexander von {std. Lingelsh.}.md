@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/104137#page/81/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lingelsheim, Alexander von (1874-1937), German botanist; Dr. phil. Rostock 1906; at the Botanical Museum and Garden, Breslau, 1904-1929; pharmacist 1929-1937; lecturer in pharmacognosy 1926, professor 1932-1937. (*Lingelsh.*).
+Lingelsheim, Alexander von (1874-1937), German botanist; Dr. phil. Rostock 1906; at the Botanical Museum and Garden, Breslau, 1904-1929; pharmacist 1929-1937; lecturer in pharmacognosy 1926, professor 1932-1937. 
+**Abbreviated name**: *Lingelsh.*
 
 #### Herbarium and types
 

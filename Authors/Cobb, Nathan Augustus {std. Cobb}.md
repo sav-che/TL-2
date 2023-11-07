@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103860#page/241/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265908) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cobb, Nathan Augustus (1859-1932), American botanist and plant pathologist born in Spencer, Mass., studied at the Worcester Polytechnic Institute, Mass., 1878-1881, teacher of chemistry and drawing at Williston Seminary in Easthampton, Mass., 1881-1887, went to Jena, Germany, for further studies 1887, received a Dr. phil., studied again at Naples, and went to Australia, first at the University of Sydney, scientist at the Department of Agriculture N.S.W. until 1898, returned to USA and travelled widely, back to Australia 1901, in Hawaii 1905-1907, from 1907 again in the USA employed with the Agricultural Dept. Washington D.C. until 1932. (*Cobb*).
+Cobb, Nathan Augustus (1859-1932), American botanist and plant pathologist born in Spencer, Mass., studied at the Worcester Polytechnic Institute, Mass., 1878-1881, teacher of chemistry and drawing at Williston Seminary in Easthampton, Mass., 1881-1887, went to Jena, Germany, for further studies 1887, received a Dr. phil., studied again at Naples, and went to Australia, first at the University of Sydney, scientist at the Department of Agriculture N.S.W. until 1898, returned to USA and travelled widely, back to Australia 1901, in Hawaii 1905-1907, from 1907 again in the USA employed with the Agricultural Dept. Washington D.C. until 1932. 
+**Abbreviated name**: *Cobb*
 
 #### Herbarium and types
 

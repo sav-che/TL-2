@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103859#page/351/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265538) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bormann, Erhard (1863-?), German (Silesian) pharmacist and botanist, born at Langenöls, Schlesien, attended the gymnasium of Bunzlau until 1884, pharmacy student in various pharmacies 1884-1890, studied at the University of München 1890-1894, Dr. pharm. University of Erlangen 1895. (*E. Bormann*).
+Bormann, Erhard (1863-?), German (Silesian) pharmacist and botanist, born at Langenöls, Schlesien, attended the gymnasium of Bunzlau until 1884, pharmacy student in various pharmacies 1884-1890, studied at the University of München 1890-1894, Dr. pharm. University of Erlangen 1895. 
+**Abbreviated name**: *E. Bormann*
 
 #### Herbarium and types
 

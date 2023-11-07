@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103253#page/133/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33068349) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hay, William Delisle (*fl*. 1887), British popular science author. (*W. Hay*).
+Hay, William Delisle (*fl*. 1887), British popular science author. 
+**Abbreviated name**: *W. Hay*
 
 #### Herbarium and types
 

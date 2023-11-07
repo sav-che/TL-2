@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103624#page/231/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33189688) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peyronel, Beniamino (1890-x), Italian mycologist at the Istituto botanico dell'Università, Torina (*Peyronel*).
+Peyronel, Beniamino (1890-x), Italian mycologist at the Istituto botanico dell'Università, Torina 
+**Abbreviated name**: *Peyronel*
 
 #### Herbarium and types
 

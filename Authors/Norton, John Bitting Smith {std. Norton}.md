@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/item/104137#page/791/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33355862) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Norton, John Bitting Smith (1872-1966), American botanist, mycologist, pathologist and horticulturalist; B.S. and M.S. Kansas State College of Agriculture (now Kansas State University), Manhattan (1896, 1900) under the direction of A. S. Hitchcock, assistant professor at Kansas State (1894-1896); botanical assistant, Missouri Botanical Garden (1896-1901): professor of botany, Maryland Agricultural College (now University of Maryland), College Park (1901-1942); professor emeritus (1942-1966). (*Norton*).
+Norton, John Bitting Smith (1872-1966), American botanist, mycologist, pathologist and horticulturalist; B.S. and M.S. Kansas State College of Agriculture (now Kansas State University), Manhattan (1896, 1900) under the direction of A. S. Hitchcock, assistant professor at Kansas State (1894-1896); botanical assistant, Missouri Botanical Garden (1896-1901): professor of botany, Maryland Agricultural College (now University of Maryland), College Park (1901-1942); professor emeritus (1942-1966). 
+**Abbreviated name**: *Norton*
 
 #### Herbarium and types
 

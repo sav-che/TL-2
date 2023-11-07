@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/item/103624#page/891/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rondelet, Guillaume (1507-1566), French ichthyologist, botanist and physician; MD Montpellier 1537, practicing physician at Maringues and Montpellier; from 1545 regius profesor of medicine at Montpellier; from 1540 also personal physician to François Cardinal Tournon; chancellor of Montpellier 1556-1566. (*Rondelet*).
+Rondelet, Guillaume (1507-1566), French ichthyologist, botanist and physician; MD Montpellier 1537, practicing physician at Maringues and Montpellier; from 1545 regius profesor of medicine at Montpellier; from 1540 also personal physician to François Cardinal Tournon; chancellor of Montpellier 1556-1566. 
+**Abbreviated name**: *Rondelet*
 
 #### Herbarium and types
 

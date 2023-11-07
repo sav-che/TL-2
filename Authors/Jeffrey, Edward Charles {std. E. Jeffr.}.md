@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/item/103253#page/459/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33068675) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jeffrey, Edward Charles (1866-1952), Canadian botanist; Ph. D. Harvard 1898; at Toronto (1898-1902); from 1902 plant morphologist at Harvard; professor of plant morphology 1907-1933. (*E. Jeffr.*).
+Jeffrey, Edward Charles (1866-1952), Canadian botanist; Ph. D. Harvard 1898; at Toronto (1898-1902); from 1902 plant morphologist at Harvard; professor of plant morphology 1907-1933. 
+**Abbreviated name**: *E. Jeffr.*
 
 #### Herbarium and types
 

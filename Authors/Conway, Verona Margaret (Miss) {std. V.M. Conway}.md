@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/103860#page/321/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33265988) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conway, Verona Margaret \[Miss\] (fl. 1934-1937), British botanist, Yarrow Research Student of Girton College, Cambridge, U.K., student of A.C. Seward. (*V.M. Conway*).
+Conway, Verona Margaret \[Miss\] (fl. 1934-1937), British botanist, Yarrow Research Student of Girton College, Cambridge, U.K., student of A.C. Seward. 
+**Abbreviated name**: *V.M. Conway*
 
 #### Herbarium and types
 

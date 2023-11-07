@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/item/104077#page/153/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33333278) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scherer, Johann \[Baptist\] Andreas (1755-1844), Bohemian botanist; studied at Praha and Wien under J.G. Mikan and N.J. v. Jacquin; practicing physician at Wien; professor of chemistry at the "Theresianische Ritterakademie", Wien 1797-1803; id. at the Technical Institute Praha, later professor of "special natural history" in Wien 1803-1833. (*Scherer*).
+Scherer, Johann \[Baptist\] Andreas (1755-1844), Bohemian botanist; studied at Praha and Wien under J.G. Mikan and N.J. v. Jacquin; practicing physician at Wien; professor of chemistry at the "Theresianische Ritterakademie", Wien 1797-1803; id. at the Technical Institute Praha, later professor of "special natural history" in Wien 1803-1833. 
+**Abbreviated name**: *Scherer*
 
 #### Herbarium and types
 

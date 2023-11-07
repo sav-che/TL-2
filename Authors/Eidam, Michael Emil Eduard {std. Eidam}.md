@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103835#page/294/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eidam, Michael Emil Eduard (1845-1901), German physiologist and mycologist, born 6 Sep 1845 at Nürnberg, director at the agricultural institute at Breslau, died 1901. (*Eidam*).
+Eidam, Michael Emil Eduard (1845-1901), German physiologist and mycologist, born 6 Sep 1845 at Nürnberg, director at the agricultural institute at Breslau, died 1901. 
+**Abbreviated name**: *Eidam*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103414#page/468/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33120551) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buscalioni, Luigi {std. Buscal.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buscalioni, Luigi (1863-1954), Italian botanist. (*Buscal.*).
+Buscalioni, Luigi (1863-1954), Italian botanist. 
+**Abbreviated name**: *Buscal.*
 
 #### Herbarium and types
 

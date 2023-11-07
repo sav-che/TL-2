@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/item/104137#page/870/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33355941) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ostenfeld, Carl Emil Hansen (1873-1931), Danish botanist; Ph. D. Kjøbenhavn 1906; inspector of the Botanical Museum from 1900-1918; professor of botany, at the Veterinary College, 1918-1923, and director of the Botanical Garden of Kjøbenhavn 1923-1931. (*Ostenf.*).
+Ostenfeld, Carl Emil Hansen (1873-1931), Danish botanist; Ph. D. Kjøbenhavn 1906; inspector of the Botanical Museum from 1900-1918; professor of botany, at the Veterinary College, 1918-1923, and director of the Botanical Garden of Kjøbenhavn 1923-1931. 
+**Abbreviated name**: *Ostenf.*
 
 #### Herbarium and types
 

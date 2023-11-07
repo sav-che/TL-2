@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/item/103253#page/601/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33068817) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kneucker, Johann Andreas ("Andrees") (1862-1946), German high school teacher and botanist at Karlsruhe; from 1905 also curator of KR; botanical explorer of the Near East, especially of the Sinai Peninsula. (*Kneuck.*).
+Kneucker, Johann Andreas ("Andrees") (1862-1946), German high school teacher and botanist at Karlsruhe; from 1905 also curator of KR; botanical explorer of the Near East, especially of the Sinai Peninsula. 
+**Abbreviated name**: *Kneuck.*
 
 #### Herbarium and types
 

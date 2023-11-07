@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103861#page/360/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266657) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Camus, Fernand \[Antonin\] (1852-1922), French botanist, born at Cholet, Maine-et-Loire, educated at the Lycée d'Angers, studied medicine at Nantes, Dr. med. ib. 1880, stage in the military hospital at Rennes 1875-1876, laboratory-assistant at the Sorbonne 1877, "licencierès-sciences naturelles" 1882, teacher at the École Pompée, Ivry-sur-Seine 1884-1899, from 1906 at the Laboratoire de Phanérogamie at the Muséum national d'histoire naturelle, Paris as assistant to L. Mangin. (*F. Camus*).
+Camus, Fernand \[Antonin\] (1852-1922), French botanist, born at Cholet, Maine-et-Loire, educated at the Lycée d'Angers, studied medicine at Nantes, Dr. med. ib. 1880, stage in the military hospital at Rennes 1875-1876, laboratory-assistant at the Sorbonne 1877, "licencierès-sciences naturelles" 1882, teacher at the École Pompée, Ivry-sur-Seine 1884-1899, from 1906 at the Laboratoire de Phanérogamie at the Muséum national d'histoire naturelle, Paris as assistant to L. Mangin. 
+**Abbreviated name**: *F. Camus*
 
 #### Herbarium and types
 

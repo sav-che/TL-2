@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103624#page/284/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33189741) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piper, Charles Vancouver (1867-1926), American botanist; M.Sc. Univ. Washington 1892; professor of botany at Pullman, Washington 1893; M.Sc. Harvard 1900; from 1903 in Washington, D.C., with the Bureau of Plant Industry (forage crop investigations); D.Sc. Kansas Agric. College 1921. (*Piper*).
+Piper, Charles Vancouver (1867-1926), American botanist; M.Sc. Univ. Washington 1892; professor of botany at Pullman, Washington 1893; M.Sc. Harvard 1900; from 1903 in Washington, D.C., with the Bureau of Plant Industry (forage crop investigations); D.Sc. Kansas Agric. College 1921. 
+**Abbreviated name**: *Piper*
 
 #### Herbarium and types
 

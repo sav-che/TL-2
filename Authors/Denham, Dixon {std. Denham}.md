@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/item/103414#page/669/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Denham, Dixon (1786-1828), British colonial army officer and traveller \[with Clapperton\] in Africa. (*Denham*).
+Denham, Dixon (1786-1828), British colonial army officer and traveller \[with Clapperton\] in Africa. 
+**Abbreviated name**: *Denham*
 
 #### Herbarium and types
 

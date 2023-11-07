@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/item/103624#page/604/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33190061) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raunkiaer, Christen Christiansen (1860-1938), Danish botanist; Mag. Sci. Kjøbenhavn 1885; assistant at the Botanical Garden ib. 1893-1911; lecturer at the University 1909; professor of botany and director of the Botanical Garden ib. 1912-1923, succeeding E. Warming; versatile botanist and ecologist("plant life forms", Taraxacum). (*Raunk.*).
+Raunkiaer, Christen Christiansen (1860-1938), Danish botanist; Mag. Sci. Kjøbenhavn 1885; assistant at the Botanical Garden ib. 1893-1911; lecturer at the University 1909; professor of botany and director of the Botanical Garden ib. 1912-1923, succeeding E. Warming; versatile botanist and ecologist("plant life forms", Taraxacum). 
+**Abbreviated name**: *Raunk.*
 
 #### Herbarium and types
 

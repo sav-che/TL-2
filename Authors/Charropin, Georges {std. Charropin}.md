@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103860#page/66/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33265733) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Charropin, Georges (fl. 1873), French pharmacist and botanist, born at Pons, Charente-Inférieure, at the École supérieure de pharmacie de Paris. (*Charropin*).
+Charropin, Georges (fl. 1873), French pharmacist and botanist, born at Pons, Charente-Inférieure, at the École supérieure de pharmacie de Paris. 
+**Abbreviated name**: *Charropin*
 
 #### Herbarium and types
 

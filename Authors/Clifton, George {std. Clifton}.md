@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/item/103414#page/560/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33120643) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clifton, George (1823-1913), British botanist who collected algae in Australia (1854). (*Clifton*).
+Clifton, George (1823-1913), British botanist who collected algae in Australia (1854). 
+**Abbreviated name**: *Clifton*
 
 #### Herbarium and types
 

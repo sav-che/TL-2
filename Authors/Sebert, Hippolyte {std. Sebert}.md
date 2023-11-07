@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/104077#page/482/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33333607) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sebert, Hippolyte (1839-1930), French marine officer and wood technologist; educated at the École Polytechnique (1860); in New Caledonia before 1870; with the staff of the artillery of the Right Bank, Paris, 1870-1871; Inspector of various marine establishments in France from 1871. (*Sebert*).
+Sebert, Hippolyte (1839-1930), French marine officer and wood technologist; educated at the École Polytechnique (1860); in New Caledonia before 1870; with the staff of the artillery of the Right Bank, Paris, 1870-1871; Inspector of various marine establishments in France from 1871. 
+**Abbreviated name**: *Sebert*
 
 #### Herbarium and types
 

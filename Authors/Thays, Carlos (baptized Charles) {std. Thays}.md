@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103683#page/246/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thays, Carlos \[baptized Charles\] (1849-1934), French-born Argentinian botanist, engineer and gardener; founder and director of the Jardin botanico municipal de Buenos Aires 1892-1917. (*Thays*).
+Thays, Carlos \[baptized Charles\] (1849-1934), French-born Argentinian botanist, engineer and gardener; founder and director of the Jardin botanico municipal de Buenos Aires 1892-1917. 
+**Abbreviated name**: *Thays*
 
 #### Herbarium and types
 

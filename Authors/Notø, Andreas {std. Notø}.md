@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/item/104137#page/793/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Notø, Andreas (1865-1948), Norwegian botanist; high school teacher at Tromsø (1888-1909), Levanger (1909-1920) and Bodø (from 1920): (*Notø*).
+Notø, Andreas (1865-1948), Norwegian botanist; high school teacher at Tromsø (1888-1909), Levanger (1909-1920) and Bodø (from 1920): 
+**Abbreviated name**: *Notø*
 
 #### Herbarium and types
 

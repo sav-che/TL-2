@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 790](https://www.biodiversitylibrary.org/item/103624#page/804/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 790](https://www.biodiversitylibrary.org/page/33190261) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rietsch, Maximilian (*fl*. 1882), French pharmacist and botanist; sometime professor at the school of Pharmacy and Medicine of Marseilles. (*Rietsch*).
+Rietsch, Maximilian (*fl*. 1882), French pharmacist and botanist; sometime professor at the school of Pharmacy and Medicine of Marseilles. 
+**Abbreviated name**: *Rietsch*
 
 #### Herbarium and types
 

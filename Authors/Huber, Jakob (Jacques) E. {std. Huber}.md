@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103253#page/379/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33068595) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Huber, Jakob ("Jacques") E. (1867-1914), Swiss (Schaffhausen) botanist, who settled at Belém, Pará (Brazil) in 1905 and developed the Museu Goeldi (Museu Paraense); explorer of the Amazon region (1894-1904). (*Huber*).
+Huber, Jakob ("Jacques") E. (1867-1914), Swiss (Schaffhausen) botanist, who settled at Belém, Pará (Brazil) in 1905 and developed the Museu Goeldi (Museu Paraense); explorer of the Amazon region (1894-1904). 
+**Abbreviated name**: *Huber*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 962](https://www.biodiversitylibrary.org/item/103414#page/1010/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 962](https://www.biodiversitylibrary.org/page/33121093) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goebel, Karl Christian Traugott Friedemann (1794-1851), German botanist and pharmacist at Dorpat. (*K. C. T. Goebel*).
+Goebel, Karl Christian Traugott Friedemann (1794-1851), German botanist and pharmacist at Dorpat. 
+**Abbreviated name**: *K. C. T. Goebel*
 
 #### Herbarium and types
 

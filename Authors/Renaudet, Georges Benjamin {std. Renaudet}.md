@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/item/103624#page/729/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33190186) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Renaudet, Georges Benjamin (1852-?), French botanist and phytochemist, sometime "preparateur" at the medical college at Poitiers. (*Renaudet*).
+Renaudet, Georges Benjamin (1852-?), French botanist and phytochemist, sometime "preparateur" at the medical college at Poitiers. 
+**Abbreviated name**: *Renaudet*
 
 #### Herbarium and types
 

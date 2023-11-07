@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/item/103414#page/887/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33120970) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fischer-Ooster, Carl (von) {std. Fisch.-Oost.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fischer-Ooster, Carl von (1807-1875), Swiss palaeobiologist and batologist at Thun, later in Bern. (*Fisch.-Oost.*).
+Fischer-Ooster, Carl von (1807-1875), Swiss palaeobiologist and batologist at Thun, later in Bern. 
+**Abbreviated name**: *Fisch.-Oost.*
 
 #### Herbarium and types
 

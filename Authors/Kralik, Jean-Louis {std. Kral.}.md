@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/103253#page/687/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33068903) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kralik, Jean-Louis (1813-1892), Alsatian-French botanist; explorer of the mediterranean flora; curator of the Cosson herbarium 1855-1885. (*Kral.*).
+Kralik, Jean-Louis (1813-1892), Alsatian-French botanist; explorer of the mediterranean flora; curator of the Cosson herbarium 1855-1885. 
+**Abbreviated name**: *Kral.*
 
 #### Herbarium and types
 

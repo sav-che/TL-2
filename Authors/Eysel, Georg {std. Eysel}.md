@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103835#page/461/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33260439) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eysel, Georg (1909-x), German botanist, born 21 Jun 1909 at Marburg (Lahn), visited from 1915-1918 the Bürgerschule Süd at Marburg and from 1918-1927 the Gymnasium Philippinum ib., studied natural sciences at Marburg and Berlin, later also medicine. (*Eysel*).
+Eysel, Georg (1909-x), German botanist, born 21 Jun 1909 at Marburg (Lahn), visited from 1915-1918 the Bürgerschule Süd at Marburg and from 1918-1927 the Gymnasium Philippinum ib., studied natural sciences at Marburg and Berlin, later also medicine. 
+**Abbreviated name**: *Eysel*
 
 #### Herbarium and types
 

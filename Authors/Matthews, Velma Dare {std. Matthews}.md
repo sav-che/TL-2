@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/104137#page/387/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33355458) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Matthews, Velma Dare (1904-1958), American mycologist and horticulturist; Ph. D. Univ. N. Carol. 1930; at Monticello, Ark. 1930-1931; Chapel Hill, N.C. 1931-1934; at Coker College, N.C. 1934-1958. (*Matthews*).
+Matthews, Velma Dare (1904-1958), American mycologist and horticulturist; Ph. D. Univ. N. Carol. 1930; at Monticello, Ark. 1930-1931; Chapel Hill, N.C. 1931-1934; at Coker College, N.C. 1934-1958. 
+**Abbreviated name**: *Matthews*
 
 #### Herbarium and types
 

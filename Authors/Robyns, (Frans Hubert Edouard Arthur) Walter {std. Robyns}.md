@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/item/103624#page/833/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33190290) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robyns, \[Frans Hubert Edouard Arthur\] Walter (1901-x), Belgian botanist; Dr. sci. Louvain 1923; with the Jardin botanique de l'État (later:... National) from 1923, assistant 1923-1928, curator 1928-1931; director 1931-1966; in retirement at Louvain and Bruxelles; president of the International Association for Plant Taxonomy 1959-1964. (*Robyns*).
+Robyns, \[Frans Hubert Edouard Arthur\] Walter (1901-x), Belgian botanist; Dr. sci. Louvain 1923; with the Jardin botanique de l'État (later:... National) from 1923, assistant 1923-1928, curator 1928-1931; director 1931-1966; in retirement at Louvain and Bruxelles; president of the International Association for Plant Taxonomy 1959-1964. 
+**Abbreviated name**: *Robyns*
 
 #### Herbarium and types
 

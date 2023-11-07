@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/item/103414#page/314/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33120397) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolus, Harry {std. Bolus} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bolus, Harry (1834-1911), British born South African banker and botanist. (*H. Bolus*).
+Bolus, Harry (1834-1911), British born South African banker and botanist. 
+**Abbreviated name**: *H. Bolus*
 
 #### Herbarium and types
 

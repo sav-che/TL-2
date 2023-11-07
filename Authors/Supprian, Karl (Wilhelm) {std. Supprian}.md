@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103683#page/104/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Supprian, Karl \[Wilhelm\] (1871-1917), German (Silesian) botanist; studied natural sciences at München and Berlin; Dr. phil. Berlin 1894 as student of A. Engler; teacher at the Reform-Realgymnasium, Altona 1900; active promotor of gymnastics; on active service 1914-1917; fell at Villers-devant-la-Thour. (*Supprian*).
+Supprian, Karl \[Wilhelm\] (1871-1917), German (Silesian) botanist; studied natural sciences at München and Berlin; Dr. phil. Berlin 1894 as student of A. Engler; teacher at the Reform-Realgymnasium, Altona 1900; active promotor of gymnastics; on active service 1914-1917; fell at Villers-devant-la-Thour. 
+**Abbreviated name**: *Supprian*
 
 #### Herbarium and types
 

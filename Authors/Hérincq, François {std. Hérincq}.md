@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103253#page/196/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33068412) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hérincq, François (1820-1891), French botanist and gardener at the Muséum d'histoire naturelle. (*Hérincq*).
+Hérincq, François (1820-1891), French botanist and gardener at the Muséum d'histoire naturelle. 
+**Abbreviated name**: *Hérincq*
 
 #### Herbarium and types
 

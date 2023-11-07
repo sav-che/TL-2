@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/item/103624#page/855/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33190312) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roemer, \[Friedrich\] Adolph (1809-1869), German (Hildesheim, Niedersachsen, Hannoverian) palaeobotanist and algologist; studied law at Goettingen and Berlin 1828-1831; law official ("juristischer Beamter") at Hildesheim 1831-1840; id. Bovenden nr. Göttingen 1840-1843; mining official at Clausthal 1843; teacher for geognosy and mineralogy at the mining school Clausthal 1846-1867; brother of \[Carl\] Ferdinand Roemer. (*A. Roem.*).
+Roemer, \[Friedrich\] Adolph (1809-1869), German (Hildesheim, Niedersachsen, Hannoverian) palaeobotanist and algologist; studied law at Goettingen and Berlin 1828-1831; law official ("juristischer Beamter") at Hildesheim 1831-1840; id. Bovenden nr. Göttingen 1840-1843; mining official at Clausthal 1843; teacher for geognosy and mineralogy at the mining school Clausthal 1846-1867; brother of \[Carl\] Ferdinand Roemer. 
+**Abbreviated name**: *A. Roem.*
 
 #### Herbarium and types
 

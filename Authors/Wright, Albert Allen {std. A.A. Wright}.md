@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103250#page/523/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33066803) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wright, Albert Allen (1846-1905), American geologist and naturalist; studied at Oberlin College, A.B. 1865; two years at Union Theological Seminary; degree theology Oberlin Seminary 1870; Ph.D. School of Mines, Columbia Univ. 1875; teacher in Cleveland Institute 1865-ca. 1867, at Berea College, Kentucky 1870-ca. 1872; professor of geology and natural history Oberlin College 1874-1905. (*A.A. Wright*).
+Wright, Albert Allen (1846-1905), American geologist and naturalist; studied at Oberlin College, A.B. 1865; two years at Union Theological Seminary; degree theology Oberlin Seminary 1870; Ph.D. School of Mines, Columbia Univ. 1875; teacher in Cleveland Institute 1865-ca. 1867, at Berea College, Kentucky 1870-ca. 1872; professor of geology and natural history Oberlin College 1874-1905. 
+**Abbreviated name**: *A.A. Wright*
 
 #### Herbarium and types
 

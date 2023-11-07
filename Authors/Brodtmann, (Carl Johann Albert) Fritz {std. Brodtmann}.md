@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103861#page/123/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33266420) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brodtmann, \[Carl Johann Albert\] Fritz (1872-?), German pharmacist, born at Neusalz a.O. (Liegnitz), educated at The Royal catholic Gymnasium at Gr. Glogau, started dedicating himself to pharmacy 1889 through working at the pharmacy at Freystadt in Schlesien, first examination at Liegnitz 1892, further condition with pharmacies in Hannover-Münden and Berlin 1892-1895, at the University of Breslau Oct 1895 with Pax and Mez, id. at the University of Erlangen 1897-1898, Dr. pharm. Erlangen 1898, ultimately pharmacist at Neusalz a.O. (*Brodtmann*).
+Brodtmann, \[Carl Johann Albert\] Fritz (1872-?), German pharmacist, born at Neusalz a.O. (Liegnitz), educated at The Royal catholic Gymnasium at Gr. Glogau, started dedicating himself to pharmacy 1889 through working at the pharmacy at Freystadt in Schlesien, first examination at Liegnitz 1892, further condition with pharmacies in Hannover-Münden and Berlin 1892-1895, at the University of Breslau Oct 1895 with Pax and Mez, id. at the University of Erlangen 1897-1898, Dr. pharm. Erlangen 1898, ultimately pharmacist at Neusalz a.O. 
+**Abbreviated name**: *Brodtmann*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103253#page/144/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33068360) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hector, Sir James (1834-1907), Scottish geologist and naturalist; educated at Edinburgh; on the Palliser Exploring Expedition to British N. America (1857-1860); to New Zealand 1861; director of the botanical garden at Wellington, N.Z. (1866-1903); of the Geological Survey of New Zealand (1865-1903). (*Hector*).
+Hector, Sir James (1834-1907), Scottish geologist and naturalist; educated at Edinburgh; on the Palliser Exploring Expedition to British N. America (1857-1860); to New Zealand 1861; director of the botanical garden at Wellington, N.Z. (1866-1903); of the Geological Survey of New Zealand (1865-1903). 
+**Abbreviated name**: *Hector*
 
 #### Herbarium and types
 

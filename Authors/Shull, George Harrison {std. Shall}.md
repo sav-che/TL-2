@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/item/104077#page/587/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33333712) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shull, George Harrison (1874-1954), American botanist and geneticist; Dr. phil. Chicago 1904; assistant Bureau Forestry USDA 1901; id. U.S. Natl. Mus. 1902; bot. expert USDA 1902-1904; assistant plant physiology Univ. Chicago 1903-1904; botanical investigator Carnegie Institution, Station for Experimental Evolution, Cold Spring Harbor, Long Island 1904-1915 (discovered and analysed the phenomenon of hybrid vigor in maize breeding); professor of botany and genetics, Princeton Univ. 1915-1942. (*Shall*).
+Shull, George Harrison (1874-1954), American botanist and geneticist; Dr. phil. Chicago 1904; assistant Bureau Forestry USDA 1901; id. U.S. Natl. Mus. 1902; bot. expert USDA 1902-1904; assistant plant physiology Univ. Chicago 1903-1904; botanical investigator Carnegie Institution, Station for Experimental Evolution, Cold Spring Harbor, Long Island 1904-1915 (discovered and analysed the phenomenon of hybrid vigor in maize breeding); professor of botany and genetics, Princeton Univ. 1915-1942. 
+**Abbreviated name**: *Shall*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103833#page/348/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33259382) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dietrich, Heinrich August (fl. 1852-1883), Student of cryptogamie of Baltic provinces of Russia, especially 1852-1859, horticulturist at Heimar near Reval, later known as A.H. Dietrich, at Riga, latest publication known from 1862. (*H.A. Dietr.*).
+Dietrich, Heinrich August (fl. 1852-1883), Student of cryptogamie of Baltic provinces of Russia, especially 1852-1859, horticulturist at Heimar near Reval, later known as A.H. Dietrich, at Riga, latest publication known from 1862. 
+**Abbreviated name**: *H.A. Dietr.*
 
 #### Herbarium and types[^1]
 

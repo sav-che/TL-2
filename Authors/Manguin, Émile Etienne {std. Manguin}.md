@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/104137#page/292/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33355363) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Manguin, Émile Etienne (1893-1966), French algologist at the Muséum d'Histoire naturelle, Paris (*Manguin*).
+Manguin, Émile Etienne (1893-1966), French algologist at the Muséum d'Histoire naturelle, Paris 
+**Abbreviated name**: *Manguin*
 
 #### Herbarium and types
 

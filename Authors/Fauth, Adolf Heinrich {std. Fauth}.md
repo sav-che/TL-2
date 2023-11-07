@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103834#page/91/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259573) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fauth, Adolf Heinrich (1873-1959), German pharmacist, born 20 Jan 1873 in Gersweiler on the Saar, attended gymnasium at Saarbrücken and Höxter, worked in a pharmacy and studied afterwards at the universities of Munich and Erlangen, Ph.D 1903 Erlangen, state examination for pharmacy (rated "very good"). (*Fauth*).
+Fauth, Adolf Heinrich (1873-1959), German pharmacist, born 20 Jan 1873 in Gersweiler on the Saar, attended gymnasium at Saarbrücken and Höxter, worked in a pharmacy and studied afterwards at the universities of Munich and Erlangen, Ph.D 1903 Erlangen, state examination for pharmacy (rated "very good"). 
+**Abbreviated name**: *Fauth*
 
 #### Herbarium and types
 

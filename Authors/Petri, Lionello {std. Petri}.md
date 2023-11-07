@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103624#page/223/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33189680) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petri, Lionello (1875-1946), Italian botanist. (*Petri*).
+Petri, Lionello (1875-1946), Italian botanist. 
+**Abbreviated name**: *Petri*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/item/103860#page/276/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33265943) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Colgan, \[Lloyd\] Nathaniel (1851-1919), Irish botanist and clerk with the Metropolitan Police at Dublin, born in Dublin 28 Mai 1851, died ib. 28 Oct 1919. (*Colgan*).
+Colgan, \[Lloyd\] Nathaniel (1851-1919), Irish botanist and clerk with the Metropolitan Police at Dublin, born in Dublin 28 Mai 1851, died ib. 28 Oct 1919. 
+**Abbreviated name**: *Colgan*
 
 #### Herbarium and types
 

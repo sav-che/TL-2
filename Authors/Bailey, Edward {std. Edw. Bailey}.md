@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103858#page/268/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33264983) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bailey, Edward (1814-1903), American botanist at Wailuku, Hawaiian Islands. (*Edw. Bailey*).
+Bailey, Edward (1814-1903), American botanist at Wailuku, Hawaiian Islands. 
+**Abbreviated name**: *Edw. Bailey*
 
 #### Herbarium and types
 

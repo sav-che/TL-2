@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/item/103624#page/785/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33190242) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richardson, Richard (1663-1741), British (Yorkshire) physician, botanist, antiquary and book-collector, who studied in Oxford (University College, Bachelor of Physics) and Leiden, under Paul Hermann and Boerhaave (M.D. Leiden 1790), F.R.S. 1712; entertained an extensive correspondence with many botanists. (*R. Richardson*).
+Richardson, Richard (1663-1741), British (Yorkshire) physician, botanist, antiquary and book-collector, who studied in Oxford (University College, Bachelor of Physics) and Leiden, under Paul Hermann and Boerhaave (M.D. Leiden 1790), F.R.S. 1712; entertained an extensive correspondence with many botanists. 
+**Abbreviated name**: *R. Richardson*
 
 #### Herbarium and types
 

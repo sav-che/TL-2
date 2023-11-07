@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/item/103414#page/770/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33120853) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Edgeworth, Michael Pakenham {std. Edgew.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Edgeworth, Michael Pakenham (1812-1881), British civil servant in Bengal, botanist. (*Edgew.*).
+Edgeworth, Michael Pakenham (1812-1881), British civil servant in Bengal, botanist. 
+**Abbreviated name**: *Edgew.*
 
 #### Herbarium and types
 

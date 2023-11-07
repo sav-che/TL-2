@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/item/103861#page/472/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cathcart, Alan Frederick, 3rd Earl Cathcart (1828-1905), British agriculturist born at Hythe, Kent, d. 30 Oct 1905, London, LLD Cambridge. (*Cathcart*).
+Cathcart, Alan Frederick, 3rd Earl Cathcart (1828-1905), British agriculturist born at Hythe, Kent, d. 30 Oct 1905, London, LLD Cambridge. 
+**Abbreviated name**: *Cathcart*
 
 #### Herbarium and types
 

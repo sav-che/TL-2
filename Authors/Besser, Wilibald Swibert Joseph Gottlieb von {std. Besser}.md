@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103414#page/256/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33120339) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Besser, Wilibald Swibert Joseph Gottlieb von {std. Besser} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Besser, Wilibald Swibert Joseph Gottlieb von (1784-1842), Austrian-Polish botanist. (*Besser*).
+Besser, Wilibald Swibert Joseph Gottlieb von (1784-1842), Austrian-Polish botanist. 
+**Abbreviated name**: *Besser*
 
 #### Herbarium and types
 

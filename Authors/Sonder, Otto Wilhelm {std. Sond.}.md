@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/item/104077#page/755/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sonder, Otto Wilhelm (1812-1881), German (Holstein) botanist and pharmacist; pharmaceutical state examination Berlin 1835; owner of a pharmacy in Hamburg 1841-1878; Dr. phil. h.c. Königsberg 1846; compiled a large herbarium especially rich in African and Australian collections. (*Sond.*).
+Sonder, Otto Wilhelm (1812-1881), German (Holstein) botanist and pharmacist; pharmaceutical state examination Berlin 1835; owner of a pharmacy in Hamburg 1841-1878; Dr. phil. h.c. Königsberg 1846; compiled a large herbarium especially rich in African and Australian collections. 
+**Abbreviated name**: *Sond.*
 
 #### Herbarium and types
 

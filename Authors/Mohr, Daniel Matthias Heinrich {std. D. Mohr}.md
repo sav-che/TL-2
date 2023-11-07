@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/item/104137#page/560/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33355631) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mohr, Daniel Matthias Heinrich (1780-1808), German botanist; from 1805 "Adjunct," from 1807 professor of philosophy at the University of Kiel. (*D. Mohr*).
+Mohr, Daniel Matthias Heinrich (1780-1808), German botanist; from 1805 "Adjunct," from 1807 professor of philosophy at the University of Kiel. 
+**Abbreviated name**: *D. Mohr*
 
 #### Herbarium and types
 

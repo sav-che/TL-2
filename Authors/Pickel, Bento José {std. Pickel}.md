@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103624#page/267/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pickel, Bento José (1890-1963), German-born Brazilian botanist, explorer and plant collector; sometime professor at the agricultural college at Tapera (Pernambuco) and at São Paulo. (*Pickel*).
+Pickel, Bento José (1890-1963), German-born Brazilian botanist, explorer and plant collector; sometime professor at the agricultural college at Tapera (Pernambuco) and at São Paulo. 
+**Abbreviated name**: *Pickel*
 
 #### Herbarium and types
 

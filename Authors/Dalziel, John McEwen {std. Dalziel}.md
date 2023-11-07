@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/103414#page/642/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33120725) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dalziel, John McEven {std. Dalziel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dalziel, John McEwen (1872-1942), British colonial public health officer, born in India, ultimately specialized in tropical botany, traveller in China and West tropical Africa, later at Kew. (*Dalziel*).
+Dalziel, John McEwen (1872-1942), British colonial public health officer, born in India, ultimately specialized in tropical botany, traveller in China and West tropical Africa, later at Kew. 
+**Abbreviated name**: *Dalziel*
 
 #### Herbarium and types
 

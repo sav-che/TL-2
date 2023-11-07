@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/item/103253#page/563/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kieffer, Frédéric (182 7-192 7), French botanist of Alsatian origin at Marseille, director of the Petit Lycée. (*F. Kieff.*).
+Kieffer, Frédéric (182 7-192 7), French botanist of Alsatian origin at Marseille, director of the Petit Lycée. 
+**Abbreviated name**: *F. Kieff.*
 
 #### Herbarium and types
 

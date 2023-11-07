@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103860#page/59/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265726) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chapman, Alvan Wentworth {std. Chapm.}|first entry]] for this author
 
 ### Author
 
-\* Chapman, Alvin \[Alvan\] Wentworth (1809-1899), American botanist and physician, born in Southampton, Mass., graduated at Amherst 1830, sometime teacher in Georgia and North-Carolina, finished his medical studies in Louisville, Kentucky 1835, settled in Florida, at first in Quincy, later in Marianna and, since 1847, in Apalachicola as physician, died in the latter village on 6 Apr 1899. (*Chapm.*).
+\* Chapman, Alvin \[Alvan\] Wentworth (1809-1899), American botanist and physician, born in Southampton, Mass., graduated at Amherst 1830, sometime teacher in Georgia and North-Carolina, finished his medical studies in Louisville, Kentucky 1835, settled in Florida, at first in Quincy, later in Marianna and, since 1847, in Apalachicola as physician, died in the latter village on 6 Apr 1899. 
+**Abbreviated name**: *Chapm.*
 
 #### Herbarium and types
 

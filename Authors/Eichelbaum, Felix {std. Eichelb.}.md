@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/103835#page/284/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33260262) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichelbaum, Felix (1848-1922), German physician and botanist (mycologist), living at Hamburg, working on a "Pilzflora" for Hamburg. (*Eichelb.*).
+Eichelbaum, Felix (1848-1922), German physician and botanist (mycologist), living at Hamburg, working on a "Pilzflora" for Hamburg. 
+**Abbreviated name**: *Eichelb.*
 
 #### Herbarium and types
 

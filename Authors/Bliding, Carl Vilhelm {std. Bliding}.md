@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103859#page/223/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33265410) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bliding, Carl Vilhelm (1891-x), Swedish teacher (lector) and botanist, Dr. phil. 1928, lector at Borås, student of the taxonomy and development of the Ulvaceae. (*Bliding*).
+Bliding, Carl Vilhelm (1891-x), Swedish teacher (lector) and botanist, Dr. phil. 1928, lector at Borås, student of the taxonomy and development of the Ulvaceae. 
+**Abbreviated name**: *Bliding*
 
 #### Herbarium and types
 

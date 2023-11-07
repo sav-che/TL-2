@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/104077#page/239/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33333364) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlosser, Ritter von Klekovski, Joseph Calasenz (1808-1882) Moravian-born Austrian physician and botanist; Dr. med. Torino 1836; external practicing physician with the Vienna general hospital 1836; private physician in Slavonia and Croatia 1836-1838; "Badearzt" in the Kurort Teplitz 1838-1844; regional physician of the Kreutzer Komitat 1844-1854; governmental physician of the Agram \[Zagreb\] Komitat 1854-1861; from 1861-1864 again at Kreutz; regional medical supervisor (Landes-Protomedikus) for Croatia and Slavonia 1864; ennobled 1867. (*Schloss.*).
+Schlosser, Ritter von Klekovski, Joseph Calasenz (1808-1882) Moravian-born Austrian physician and botanist; Dr. med. Torino 1836; external practicing physician with the Vienna general hospital 1836; private physician in Slavonia and Croatia 1836-1838; "Badearzt" in the Kurort Teplitz 1838-1844; regional physician of the Kreutzer Komitat 1844-1854; governmental physician of the Agram \[Zagreb\] Komitat 1854-1861; from 1861-1864 again at Kreutz; regional medical supervisor (Landes-Protomedikus) for Croatia and Slavonia 1864; ennobled 1867. 
+**Abbreviated name**: *Schloss.*
 
 #### Herbarium and types
 

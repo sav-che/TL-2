@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103834#page/377/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33259859) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fouillade, Amédée (1870-1954), French botanist, born 25 Aug 1870 in Paizay-le-Chapt (Deux-Sèvres), taught in Absie (Deux-Sèvres) until 1902, then clerked for the justice of the peace in Tonnay-Charente until 1939, specialist in the flora of Charente-Maritime, died 31 Mar 1954 in Royan (Charente-Maritime). (*Fouill.*).
+Fouillade, Amédée (1870-1954), French botanist, born 25 Aug 1870 in Paizay-le-Chapt (Deux-Sèvres), taught in Absie (Deux-Sèvres) until 1902, then clerked for the justice of the peace in Tonnay-Charente until 1939, specialist in the flora of Charente-Maritime, died 31 Mar 1954 in Royan (Charente-Maritime). 
+**Abbreviated name**: *Fouill.*
 
 #### Herbarium and types
 

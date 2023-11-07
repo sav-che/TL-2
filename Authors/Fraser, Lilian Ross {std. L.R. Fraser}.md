@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103834#page/414/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33259896) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fraser, Lilian Ross (1908-1987), Australian botanist, born 8 Aug 1908 in Kurrajong, New South Wales, B.Sc. (Hons.) 1930 and D.Sc. 1937 Univ. of Sydney, post graduate study, Imperial College, Univ. of London and Imperial Mycological Inst., Commonwealth Research Fellow, Univ. of Sydney 1939-1940, asst. plant pathologist, New South Wales Dept. of Agriculture 1940 rising to citrus pathologist and Chief Biologist, retired 1973, president, Linnean Society of New South Wales 1948-1949 and 1956-1957, Clarke Medal, Royal Society of New South Wales 1976, died 5 Oct 1987 in New South Wales. (*L.R. Fraser*).
+Fraser, Lilian Ross (1908-1987), Australian botanist, born 8 Aug 1908 in Kurrajong, New South Wales, B.Sc. (Hons.) 1930 and D.Sc. 1937 Univ. of Sydney, post graduate study, Imperial College, Univ. of London and Imperial Mycological Inst., Commonwealth Research Fellow, Univ. of Sydney 1939-1940, asst. plant pathologist, New South Wales Dept. of Agriculture 1940 rising to citrus pathologist and Chief Biologist, retired 1973, president, Linnean Society of New South Wales 1948-1949 and 1956-1957, Clarke Medal, Royal Society of New South Wales 1976, died 5 Oct 1987 in New South Wales. 
+**Abbreviated name**: *L.R. Fraser*
 
 #### Note
 

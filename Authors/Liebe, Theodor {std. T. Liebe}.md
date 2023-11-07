@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/104137#page/28/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33355115) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Liebe, Theodor (*fl*. 1862), German botanist, high school teacher at the Friedrichs-Werdersche Gewerbeschule in Berlin. (*T. Liebe*).
+Liebe, Theodor (*fl*. 1862), German botanist, high school teacher at the Friedrichs-Werdersche Gewerbeschule in Berlin. 
+**Abbreviated name**: *T. Liebe*
 
 #### Herbarium and types
 

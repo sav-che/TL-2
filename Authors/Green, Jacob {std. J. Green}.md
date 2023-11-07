@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103832#page/365/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33258831) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Green, Jacob (1790-1841), American druggist and naturalist, born 26 Jul 1790 in Philadelphia, A.B. 1807 and A.M. 1810 Univ. of Penn., Philadelphia, studied and practiced law, held chairs of chemistry, experimental philosophy and natural history, Princeton Univ., Princeton, New Jersey 1818-1822, prof. of chemistry, Jefferson Medical College, Philadelphia 1825-1841, hon. M.D. 1827 Yale Univ., New Haven, Conn., visited England, France and Switzerland 1828, published a monograph on trilobites 1832, died 1 Feb 1841 in Philadelphia. (*J. Green*).
+Green, Jacob (1790-1841), American druggist and naturalist, born 26 Jul 1790 in Philadelphia, A.B. 1807 and A.M. 1810 Univ. of Penn., Philadelphia, studied and practiced law, held chairs of chemistry, experimental philosophy and natural history, Princeton Univ., Princeton, New Jersey 1818-1822, prof. of chemistry, Jefferson Medical College, Philadelphia 1825-1841, hon. M.D. 1827 Yale Univ., New Haven, Conn., visited England, France and Switzerland 1828, published a monograph on trilobites 1832, died 1 Feb 1841 in Philadelphia. 
+**Abbreviated name**: *J. Green*
 
 #### Herbarium and types
 

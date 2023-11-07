@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/item/103253#page/700/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krieger, Karl Wilhelm (1848-1921), German mycologist; educated in the seminary at Nossen; high school teacher at Porschdorf nr. Schandau 1869-1876; from then on at Königstein a.E. (*K. Krieg.*).
+Krieger, Karl Wilhelm (1848-1921), German mycologist; educated in the seminary at Nossen; high school teacher at Porschdorf nr. Schandau 1869-1876; from then on at Königstein a.E. 
+**Abbreviated name**: *K. Krieg.*
 
 #### Herbarium and types
 

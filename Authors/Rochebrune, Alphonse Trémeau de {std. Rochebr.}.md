@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/item/103624#page/836/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33190293) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rochebrune, Alphonse Trémeau de (1834-1912), French palaeontologist, zoologist and botanist; colonial physician at Saint-Louis, Sénégal; later asst. naturalist at the Paris Muséum d'Histoire naturelle. (*Rochebr.*).
+Rochebrune, Alphonse Trémeau de (1834-1912), French palaeontologist, zoologist and botanist; colonial physician at Saint-Louis, Sénégal; later asst. naturalist at the Paris Muséum d'Histoire naturelle. 
+**Abbreviated name**: *Rochebr.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103834#page/163/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259645) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ferguson, William {std. Ferguson}|first entry]] for this author
 
 ### Author
 
-\* Ferguson, William (1820-1887), British surveyor and civil servant interested in botany and herpetology, born Jul 1820, went to Ceylon (now Sri Lanka) in the Civil Service 1839 where surveying work took him into unexplored forests where he collected plants and acquired a good knowledge of the flora and fauna, he was in contact with a.o. G.H.K. Thwaites and visited London to study specimens at the BMNH 1857, F.L.S. 1862, died 31 Jul 1887 in Colombo (buried in the "General Cemetary"). (*Ferguson*).
+\* Ferguson, William (1820-1887), British surveyor and civil servant interested in botany and herpetology, born Jul 1820, went to Ceylon (now Sri Lanka) in the Civil Service 1839 where surveying work took him into unexplored forests where he collected plants and acquired a good knowledge of the flora and fauna, he was in contact with a.o. G.H.K. Thwaites and visited London to study specimens at the BMNH 1857, F.L.S. 1862, died 31 Jul 1887 in Colombo (buried in the "General Cemetary"). 
+**Abbreviated name**: *Ferguson*
 
 #### Note
 

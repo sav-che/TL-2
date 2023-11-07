@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103860#page/436/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266103) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coutance, Amédée Guillaume Auguste (1824-1895), French pharmacist and botanist, born 8 Aug 1824 at Quimper (Finistère), studied literature and sciences at St. Brieuc, at pharmacy school at Brest 1844, in 1846 in the "Corps de l'École de Santé" of the navy, sent to Guyana until 1853, to Martinique in 1859, collected plants there around 1868, professor in natural history at the medical school of the navy at Brest, died 17 Feb 1895 at Brest (Finistère). (*Coutance*).
+Coutance, Amédée Guillaume Auguste (1824-1895), French pharmacist and botanist, born 8 Aug 1824 at Quimper (Finistère), studied literature and sciences at St. Brieuc, at pharmacy school at Brest 1844, in 1846 in the "Corps de l'École de Santé" of the navy, sent to Guyana until 1853, to Martinique in 1859, collected plants there around 1868, professor in natural history at the medical school of the navy at Brest, died 17 Feb 1895 at Brest (Finistère). 
+**Abbreviated name**: *Coutance*
 
 #### Herbarium and types
 

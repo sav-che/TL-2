@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/104137#page/414/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33355485) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meerburgh, Nicolaas (1734-1814), Dutch gardener; curator of the Leiden botanical garden 1774-1814. (*Meerb.*).
+Meerburgh, Nicolaas (1734-1814), Dutch gardener; curator of the Leiden botanical garden 1774-1814. 
+**Abbreviated name**: *Meerb.*
 
 #### Herbarium and types
 

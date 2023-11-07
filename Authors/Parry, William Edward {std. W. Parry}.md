@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103624#page/95/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33189552) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parry, William Edward (1790-1855), British explorer; made three expeditions to the Arctic (north-west passage), 1819-20, 1821-23, 1824-25; DCL Oxford 1829; knighted 1829; rear admiral 1852. (*W. Parry*).
+Parry, William Edward (1790-1855), British explorer; made three expeditions to the Arctic (north-west passage), 1819-20, 1821-23, 1824-25; DCL Oxford 1829; knighted 1829; rear admiral 1852. 
+**Abbreviated name**: *W. Parry*
 
 #### Herbarium and types
 

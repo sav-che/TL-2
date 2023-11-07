@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103833#page/178/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dekker, Ernst (fl. 1929), German botanist in Königsberg, Preussen. (*E. Dekker*).
+Dekker, Ernst (fl. 1929), German botanist in Königsberg, Preussen. 
+**Abbreviated name**: *E. Dekker*
 
 #### Herbarium and types
 

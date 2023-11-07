@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/103858#page/382/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33265097) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bastow, Richard Austin (1839-1920), British (Scottish) architect and botanist, architectural draughtsman, went to Tasmania as such in 1884, later living in Victoria, Australia, in St. Kilda nr. Melbourne. (*Bastow*).
+Bastow, Richard Austin (1839-1920), British (Scottish) architect and botanist, architectural draughtsman, went to Tasmania as such in 1884, later living in Victoria, Australia, in St. Kilda nr. Melbourne. 
+**Abbreviated name**: *Bastow*
 
 #### Herbarium and types
 

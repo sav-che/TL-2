@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/item/103859#page/252/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33265439) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bodard, Pierre Henri Hippolyte (fl. 1798-1810), French medical botanist. (*Bodard*).
+Bodard, Pierre Henri Hippolyte (fl. 1798-1810), French medical botanist. 
+**Abbreviated name**: *Bodard*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103860#page/396/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33266063) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cortini, Jone Comanducci (fl. 1921), Italian mycologist. (*Cortini*).
+Cortini, Jone Comanducci (fl. 1921), Italian mycologist. 
+**Abbreviated name**: *Cortini*
 
 #### Herbarium and types
 

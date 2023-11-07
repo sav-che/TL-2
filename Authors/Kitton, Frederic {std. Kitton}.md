@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/item/103253#page/584/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kitton, Frederic (1827-1895), British diatomist and microscopist. (*Kitton*).
+Kitton, Frederic (1827-1895), British diatomist and microscopist. 
+**Abbreviated name**: *Kitton*
 
 #### Herbarium and types
 

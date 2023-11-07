@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/103833#page/245/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bommer, (Mme) Elisa Caroline, née Destrée {std. E. Bommer}|first entry]] for this author
 
 ### Author
 
-\* Destrée, Caroline Élisa (1832-1910), Belgian mycologist, born 19 Jan 1832, Laeken, married Joseph-Éduard Bommer, died 17 Jan 1910. (*E. Bommer*).
+\* Destrée, Caroline Élisa (1832-1910), Belgian mycologist, born 19 Jan 1832, Laeken, married Joseph-Éduard Bommer, died 17 Jan 1910. 
+**Abbreviated name**: *E. Bommer*
 
 #### Note
 

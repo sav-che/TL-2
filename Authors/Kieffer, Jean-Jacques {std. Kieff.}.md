@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/item/103253#page/563/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kieffer, Jean-Jacques (1857-1925), French clergyman, entomologist, cecidologist and botanist at the Collège de Bitche. (*Kieff.*).
+Kieffer, Jean-Jacques (1857-1925), French clergyman, entomologist, cecidologist and botanist at the Collège de Bitche. 
+**Abbreviated name**: *Kieff.*
 
 #### Herbarium and types
 

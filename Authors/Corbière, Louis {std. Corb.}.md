@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/item/103414#page/593/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33120676) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Corbière, (François Matthieu) Louis {std. Corb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Corbière, Louis (1850-1941), French botanist. (*Corb.*).
+Corbière, Louis (1850-1941), French botanist. 
+**Abbreviated name**: *Corb.*
 
 #### Herbarium and types
 

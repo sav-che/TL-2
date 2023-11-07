@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/item/104077#page/862/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33333987) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Staub, Moriz \[Móricz, Moritz\] (1842-1904), Hungarian botanist (of Swiss-Austrian parentage), schoolteacher in Budapest 1858-1868; studied natural sciences in Budapest (with L. Jurányi), Berlin and Bonn 1869-1870; professor of natural history at the royal teacher's college of Budapest 1872-1904; mainly specialized in phaenology and palaeobotany. (*Staub*).
+Staub, Moriz \[Móricz, Moritz\] (1842-1904), Hungarian botanist (of Swiss-Austrian parentage), schoolteacher in Budapest 1858-1868; studied natural sciences in Budapest (with L. Jurányi), Berlin and Bonn 1869-1870; professor of natural history at the royal teacher's college of Budapest 1872-1904; mainly specialized in phaenology and palaeobotany. 
+**Abbreviated name**: *Staub*
 
 #### Herbarium and types
 

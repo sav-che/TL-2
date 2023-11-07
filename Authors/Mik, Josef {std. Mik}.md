@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/104137#page/497/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33355568) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mik, Josef (1839-1900), Moravian botanist and dipterologist; studied at the Olmütz gymnasium 1850-1857; at the University of Vienna 1857-1861; high school teacher at Görz 1861-1865 at Linz 1865-1867, at Freistadt 1867-1871; from 1871-1899 professor at the academic gymnasium in Wien and school inspector; Schulrath 1894; Franz Joseph Order 1899. (*Mik*).
+Mik, Josef (1839-1900), Moravian botanist and dipterologist; studied at the Olmütz gymnasium 1850-1857; at the University of Vienna 1857-1861; high school teacher at Görz 1861-1865 at Linz 1865-1867, at Freistadt 1867-1871; from 1871-1899 professor at the academic gymnasium in Wien and school inspector; Schulrath 1894; Franz Joseph Order 1899. 
+**Abbreviated name**: *Mik*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103860#page/196/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33265863) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clarke, Louisa Lane \[née Lane\] (c. 1812-1883), British microscopist and botanist at Guernsey, Channel Islands. (*L.L. Clarke*).
+Clarke, Louisa Lane \[née Lane\] (c. 1812-1883), British microscopist and botanist at Guernsey, Channel Islands. 
+**Abbreviated name**: *L.L. Clarke*
 
 #### Herbarium and types
 

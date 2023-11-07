@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103253#page/86/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33068302) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hart, Henry Chichester (1847-1908), Irish botanist, who collected on the British Polar Expedition (1875/6) and in Palestine (1883-1884). (*Hart*).
+Hart, Henry Chichester (1847-1908), Irish botanist, who collected on the British Polar Expedition (1875/6) and in Palestine (1883-1884). 
+**Abbreviated name**: *Hart*
 
 #### Herbarium and types
 

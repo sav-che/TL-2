@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/104137#page/134/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33355205) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-List, Friedrich Ludwig (fl. 1837), German botanist and high school teacher at Tilsit, Western Prussia. (*List*).
+List, Friedrich Ludwig (fl. 1837), German botanist and high school teacher at Tilsit, Western Prussia. 
+**Abbreviated name**: *List*
 
 #### Herbarium and types
 

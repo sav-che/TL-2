@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103683#page/184/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33212216) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tassi, Flaminio (1851-?), Italian (Tuscany) botanist; with the chair of botany of the University of Siena from 1880; director of the Siena botanic garden 1905-1906, id., acting, of the garden at Cagliari 1910; son of A. Tassi. (*Tassi*).
+Tassi, Flaminio (1851-?), Italian (Tuscany) botanist; with the chair of botany of the University of Siena from 1880; director of the Siena botanic garden 1905-1906, id., acting, of the garden at Cagliari 1910; son of A. Tassi. 
+**Abbreviated name**: *Tassi*
 
 #### Herbarium and types
 

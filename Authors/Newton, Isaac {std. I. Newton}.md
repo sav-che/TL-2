@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/104137#page/754/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33355825) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Newton, Isaac (1840-1906), British-Portuguese businessman and bryologist at Porto, Portugal. (*I. Newton*).
+Newton, Isaac (1840-1906), British-Portuguese businessman and bryologist at Porto, Portugal. 
+**Abbreviated name**: *I. Newton*
 
 #### Herbarium and types
 

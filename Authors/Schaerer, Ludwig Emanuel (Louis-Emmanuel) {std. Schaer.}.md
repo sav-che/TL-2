@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/104077#page/122/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33333247) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaerer, Ludwig Emanuel \[Louis-Emmanuel\] (1785-1853), Swiss (Bern) clergyman and lichenologist; studied theology; teacher at a Bern primary school 1806-1808; ordained 1808; high school teacher 1813, conrector gymnasii 1814; director of the municipal orphanage 1819; pastor at Lauperswil (canton Bern) 1826, later in Belp (idem) until 1852. (*Schaer.*).
+Schaerer, Ludwig Emanuel \[Louis-Emmanuel\] (1785-1853), Swiss (Bern) clergyman and lichenologist; studied theology; teacher at a Bern primary school 1806-1808; ordained 1808; high school teacher 1813, conrector gymnasii 1814; director of the municipal orphanage 1819; pastor at Lauperswil (canton Bern) 1826, later in Belp (idem) until 1852. 
+**Abbreviated name**: *Schaer.*
 
 #### Herbarium and types
 

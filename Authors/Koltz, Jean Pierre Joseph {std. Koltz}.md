@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/103253#page/636/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koltz, Jean Pierre Joseph (1827-1907), Belgian/Luxemburg botanist; forester in Luxemburg, founder of the société botanique du G. D. de Luxemburg. (*Koltz*).
+Koltz, Jean Pierre Joseph (1827-1907), Belgian/Luxemburg botanist; forester in Luxemburg, founder of the société botanique du G. D. de Luxemburg. 
+**Abbreviated name**: *Koltz*
 
 #### Herbarium and types
 

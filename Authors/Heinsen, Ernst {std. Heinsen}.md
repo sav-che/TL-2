@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/103253#page/166/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heinsen, Ernst (*fl*. 1894), German botanist. (*Heinsen*).
+Heinsen, Ernst (*fl*. 1894), German botanist. 
+**Abbreviated name**: *Heinsen*
 
 #### Herbarium and types
 

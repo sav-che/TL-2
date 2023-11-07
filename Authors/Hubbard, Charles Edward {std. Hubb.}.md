@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103253#page/379/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33068595) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hubbard, Charles Edward (1900-x), British botanist at Kew. (*Hubb.*).
+Hubbard, Charles Edward (1900-x), British botanist at Kew. 
+**Abbreviated name**: *Hubb.*
 
 #### Herbarium and types
 

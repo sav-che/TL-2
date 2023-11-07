@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/104077#page/125/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33333250) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaffner, John Henry (1866-1939), American botanist; A.B. Baker Univ. 1893; M.S. ib. 1896; at Univ. Michigan 1894-1895, at South Dakota 1895-1896; at Chicago 1896-1897; assistant botanist Ohio State Univ. 1897-1899; asst. prof. bot. ib. 1899-1902; assoc. prof. bot. 1902-1911; prof. bot. 1911-1939; head of Botany Dept. 1908-1918. (*J.H. Schaffn.*).
+Schaffner, John Henry (1866-1939), American botanist; A.B. Baker Univ. 1893; M.S. ib. 1896; at Univ. Michigan 1894-1895, at South Dakota 1895-1896; at Chicago 1896-1897; assistant botanist Ohio State Univ. 1897-1899; asst. prof. bot. ib. 1899-1902; assoc. prof. bot. 1902-1911; prof. bot. 1911-1939; head of Botany Dept. 1908-1918. 
+**Abbreviated name**: *J.H. Schaffn.*
 
 #### Herbarium and types
 

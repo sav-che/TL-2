@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103860#page/147/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33265814) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chopra, Ram Saran (1904-1973), Indian bryologist, born in Chahal Gujranwala, now Pakistan, pioneer in investigations of medicinal plants of India, at the Department of Botany, Panjab University c/o Khalsa College Amritsar (India), collected 1949-1956 in Mussoorie (W. Himalaya) and Darjeeling (E. Himalaya). (*R.S. Chopra*).
+Chopra, Ram Saran (1904-1973), Indian bryologist, born in Chahal Gujranwala, now Pakistan, pioneer in investigations of medicinal plants of India, at the Department of Botany, Panjab University c/o Khalsa College Amritsar (India), collected 1949-1956 in Mussoorie (W. Himalaya) and Darjeeling (E. Himalaya). 
+**Abbreviated name**: *R.S. Chopra*
 
 #### Herbarium and types
 

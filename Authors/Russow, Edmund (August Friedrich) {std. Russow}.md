@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/item/103624#page/1019/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Russow, Edmund \[August Friedrich\] (1841-1897), Esthonian botanist (of Baltic German origin); studied at Dorpat (Tartu) University 1860-1865; Dr. phil. 1871; habil. Dorpat 1865; lecturer plant anatomy and physiology ib. 1867; succeeding M. Willkomm as professor of botany and director of the botanical garden at Dorpat 1874-1895; professor emeritus 1895-1897; specialist on *Sphagnum*, the Esthonian flora and on the plant morphology of vascular cryptogams. (*Russow*).
+Russow, Edmund \[August Friedrich\] (1841-1897), Esthonian botanist (of Baltic German origin); studied at Dorpat (Tartu) University 1860-1865; Dr. phil. 1871; habil. Dorpat 1865; lecturer plant anatomy and physiology ib. 1867; succeeding M. Willkomm as professor of botany and director of the botanical garden at Dorpat 1874-1895; professor emeritus 1895-1897; specialist on *Sphagnum*, the Esthonian flora and on the plant morphology of vascular cryptogams. 
+**Abbreviated name**: *Russow*
 
 #### Herbarium and types
 

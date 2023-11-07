@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/item/104137#page/708/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33355779) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nathorst, Alfred Gabriel (1850-1921), Swedish palaeobotanist; Dr. phil. Lund 1874; lecturer at Lund 1874-1879; with the Swedish geological survey 1879-1884; from 1885-1917 professor and director of the palaeobotanical division of the Naturhistoriska Museum. (*Nath.*).
+Nathorst, Alfred Gabriel (1850-1921), Swedish palaeobotanist; Dr. phil. Lund 1874; lecturer at Lund 1874-1879; with the Swedish geological survey 1879-1884; from 1885-1917 professor and director of the palaeobotanical division of the Naturhistoriska Museum. 
+**Abbreviated name**: *Nath.*
 
 #### Herbarium and types
 

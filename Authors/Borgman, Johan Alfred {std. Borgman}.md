@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103859#page/349/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33265536) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borgman, Johan Alfred (1850-1912), Swedish teacher and botanist, studied at Malmö and Lund, fil. kand. Lund 1873, Dr. phil. ib. 1879, teacher at a secondary school at Karlshamn. (*Borgman*).
+Borgman, Johan Alfred (1850-1912), Swedish teacher and botanist, studied at Malmö and Lund, fil. kand. Lund 1873, Dr. phil. ib. 1879, teacher at a secondary school at Karlshamn. 
+**Abbreviated name**: *Borgman*
 
 #### Herbarium and types
 

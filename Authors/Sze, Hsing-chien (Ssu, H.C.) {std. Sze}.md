@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103683#page/154/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sze, Hsing-chien \[Ssu, H.C.\] (1902-x), Chinese paleobotanist at the Institute of Paleontology, Nanking. (*Sze*).
+Sze, Hsing-chien \[Ssu, H.C.\] (1902-x), Chinese paleobotanist at the Institute of Paleontology, Nanking. 
+**Abbreviated name**: *Sze*
 
 #### Herbarium and types
 

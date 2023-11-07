@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103833#page/307/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33259341) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diederichs, Rudolf (fl. 1894), German botanist, Ph.D. at Rostock 1894. (*R. Dieder.*).
+Diederichs, Rudolf (fl. 1894), German botanist, Ph.D. at Rostock 1894. 
+**Abbreviated name**: *R. Dieder.*
 
 #### Herbarium and types
 

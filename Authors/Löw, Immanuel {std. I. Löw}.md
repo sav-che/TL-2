@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/104137#page/161/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33355232) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Löw, Immanuel (1854-1944), Hungarian rabbi and scholar; rabbi of Szeged 1878-1944; specialist in talmudic and rabbinic lexicography. (*I. Löw*).
+Löw, Immanuel (1854-1944), Hungarian rabbi and scholar; rabbi of Szeged 1878-1944; specialist in talmudic and rabbinic lexicography. 
+**Abbreviated name**: *I. Löw*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103833#page/183/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259217) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delamare, Ernest-Amédée (1835-1888), French physician, born 26 Mar 1835, became employed by the French navy and stayed on the island Miquelon from 1858, where he made extensive botanical collections, died on that island 2 Jun 1888. (*E.-A. Delamare*).
+Delamare, Ernest-Amédée (1835-1888), French physician, born 26 Mar 1835, became employed by the French navy and stayed on the island Miquelon from 1858, where he made extensive botanical collections, died on that island 2 Jun 1888. 
+**Abbreviated name**: *E.-A. Delamare*
 
 #### Herbarium and types
 

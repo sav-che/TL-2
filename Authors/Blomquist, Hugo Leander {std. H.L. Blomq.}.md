@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103859#page/232/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33265419) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blomquist, Hugo Leander (1885-1964), Swedish born American botanist (bryologist), emigrated with his parents to Kulm, North Dakota 1892, studied at the University of Chicago, B.S. 1916, graduate work at Chicago 1916-1917, with the U.S. army 1917-1919, studied at the Institut Pasteur, Paris 1919, continued his graduate study at Chicago, Ph.D. ib. 1921, assistant professor of biology at Trinity College (later Duke University) at Durham, N.C. 1921, full professor 1923, chairman of botany 1935-1953, emeritus professor of botany ib. 1957. (*H.L. Blomq.*).
+Blomquist, Hugo Leander (1885-1964), Swedish born American botanist (bryologist), emigrated with his parents to Kulm, North Dakota 1892, studied at the University of Chicago, B.S. 1916, graduate work at Chicago 1916-1917, with the U.S. army 1917-1919, studied at the Institut Pasteur, Paris 1919, continued his graduate study at Chicago, Ph.D. ib. 1921, assistant professor of biology at Trinity College (later Duke University) at Durham, N.C. 1921, full professor 1923, chairman of botany 1935-1953, emeritus professor of botany ib. 1957. 
+**Abbreviated name**: *H.L. Blomq.*
 
 #### Herbarium and types
 

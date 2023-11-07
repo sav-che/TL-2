@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/103250#page/450/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33066730) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wirzén, Johan Ernst Adhemar (1812-1857), Finnish botanist, traveller and physician; mag. filos. 1832; travelled in Russia and Finland 1832-1835; med. kand. 1836, dr. med. 1840; from 1839 medical adjunct and botanical demonstrator at the University Helsinki; travelled in Sweden, Denmark and Germany 1846-1847. (*Wirzén*).
+Wirzén, Johan Ernst Adhemar (1812-1857), Finnish botanist, traveller and physician; mag. filos. 1832; travelled in Russia and Finland 1832-1835; med. kand. 1836, dr. med. 1840; from 1839 medical adjunct and botanical demonstrator at the University Helsinki; travelled in Sweden, Denmark and Germany 1846-1847. 
+**Abbreviated name**: *Wirzén*
 
 #### Herbarium and types
 

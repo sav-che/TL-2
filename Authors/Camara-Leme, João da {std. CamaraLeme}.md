@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103861#page/329/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33266626) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Camara-Leme, João da (fl. 1857), Portuguese physican and botanist at Madeira. (*Camara-Leme*).
+Camara-Leme, João da (fl. 1857), Portuguese physican and botanist at Madeira. 
+**Abbreviated name**: *Camara-Leme*
 
 #### Herbarium and types
 

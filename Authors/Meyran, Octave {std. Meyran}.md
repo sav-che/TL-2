@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/104137#page/467/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33355538) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meyran, Octave (1858-1944), French botanist at Lyon (*Meyran*).
+Meyran, Octave (1858-1944), French botanist at Lyon 
+**Abbreviated name**: *Meyran*
 
 #### Herbarium and types
 

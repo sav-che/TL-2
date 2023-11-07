@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/item/103250#page/253/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33066533) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Werneck, Ludwig Friedrich Franz Freiherr von (*fl*. 1791), German forester and botanist. (*Werneck*).
+Werneck, Ludwig Friedrich Franz Freiherr von (*fl*. 1791), German forester and botanist. 
+**Abbreviated name**: *Werneck*
 
 #### Herbarium and types
 

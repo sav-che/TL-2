@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103624#page/227/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33189684) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petzholdt, Georg Paul Alexander (1810-1889), German (Saxonian) botanist, published on palaeobotany, agriculture and peat research; originally physician at Dresden; from 1846 professor of agronomy and technology at Dorpat (Tartu); later in retirement at Freiburg i. Br. (*Petzh.*).
+Petzholdt, Georg Paul Alexander (1810-1889), German (Saxonian) botanist, published on palaeobotany, agriculture and peat research; originally physician at Dresden; from 1846 professor of agronomy and technology at Dorpat (Tartu); later in retirement at Freiburg i. Br. 
+**Abbreviated name**: *Petzh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/item/103683#page/690/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33212722) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaucher, Jean Pierre Etienne (1763-1841), Swiss clergyman and botanist; Dr. theol. 1787, ordained 1787; in charge of a private school until 1828; pastor of St. Gervais at Genève 1795-1821; honorary professor of botany Genève 1802; professor of ecclesiastical history at the Theological Faculty 1808-1841. (*Vauch.*).
+Vaucher, Jean Pierre Etienne (1763-1841), Swiss clergyman and botanist; Dr. theol. 1787, ordained 1787; in charge of a private school until 1828; pastor of St. Gervais at Genève 1795-1821; honorary professor of botany Genève 1802; professor of ecclesiastical history at the Theological Faculty 1808-1841. 
+**Abbreviated name**: *Vauch.*
 
 #### Herbarium and types
 

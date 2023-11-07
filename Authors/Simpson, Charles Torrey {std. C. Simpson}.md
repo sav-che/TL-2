@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/104077#page/625/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simpson, Charles Torrey (1826-1932), American malacologist and botanist; conchologist with the United States National Museum 1889-1902; collaborator USDA; retired to Florida, writing on Florida wild life. (*C. Simpson*).
+Simpson, Charles Torrey (1826-1932), American malacologist and botanist; conchologist with the United States National Museum 1889-1902; collaborator USDA; retired to Florida, writing on Florida wild life. 
+**Abbreviated name**: *C. Simpson*
 
 #### Herbarium and types
 

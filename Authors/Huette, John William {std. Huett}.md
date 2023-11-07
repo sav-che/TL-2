@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103253#page/386/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33068602) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Huette, John William (1832/3-?), Canadian botanist. (*Huett*).
+Huette, John William (1832/3-?), Canadian botanist. 
+**Abbreviated name**: *Huett*
 
 #### Herbarium and types
 

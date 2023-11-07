@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/item/104077#page/725/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Snow, Charles Henry (1863-1957), American civil engineer and wood technologist; private practice 1880-1891; acting professor of civil engineering New York University 1891-1897; dean of the School of University and professor of civil engineering 1897-1931; emeritus dean from 1931. (*C. Snow*).
+Snow, Charles Henry (1863-1957), American civil engineer and wood technologist; private practice 1880-1891; acting professor of civil engineering New York University 1891-1897; dean of the School of University and professor of civil engineering 1897-1931; emeritus dean from 1931. 
+**Abbreviated name**: *C. Snow*
 
 #### Herbarium and types
 

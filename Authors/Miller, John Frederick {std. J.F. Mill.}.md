@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/104137#page/507/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33355578) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miller, John Frederick (1715-c. 1790), British botanical artist; son of Johann Sebastian Müllier (Miller). (*J. F. Mill.*).
+Miller, John Frederick (1715-c. 1790), British botanical artist; son of Johann Sebastian Müllier (Miller). 
+**Abbreviated name**: *J. F. Mill.*
 
 #### Drawings
 

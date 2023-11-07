@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103859#page/160/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33265347) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bews, John William (1884-1938), Scottish-born ecologist and philosopher, studied at the University of Edinburgh, M.A. 1906, D.Sc. 1912, lecturer in economic botany at Manchester University 1907-1908, assistant professor of botany Edinburgh 1908-1910, professor of botany at Natal University College, Pietermaritzburg, S. Afr. 1910-1938 (except for prof. of botany at Durham 1925-1927), travelled widely in Southern Africa, USA and Canada. (*Bews*).
+Bews, John William (1884-1938), Scottish-born ecologist and philosopher, studied at the University of Edinburgh, M.A. 1906, D.Sc. 1912, lecturer in economic botany at Manchester University 1907-1908, assistant professor of botany Edinburgh 1908-1910, professor of botany at Natal University College, Pietermaritzburg, S. Afr. 1910-1938 (except for prof. of botany at Durham 1925-1927), travelled widely in Southern Africa, USA and Canada. 
+**Abbreviated name**: *Bews*
 
 #### Herbarium and types
 

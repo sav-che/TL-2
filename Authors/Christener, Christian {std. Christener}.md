@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103860#page/166/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Christener, Christian (1810-1872), Swiss botanist and school teacher (at the Kantonsschule) at Bern, botanized mainly in the Berner Alpen, especially in the area of Grindelwald, had a large herbarium acquired by Shuttleworth. (*Christener*).
+Christener, Christian (1810-1872), Swiss botanist and school teacher (at the Kantonsschule) at Bern, botanized mainly in the Berner Alpen, especially in the area of Grindelwald, had a large herbarium acquired by Shuttleworth. 
+**Abbreviated name**: *Christener*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103683#page/170/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33212202) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tanfani, Enrico (1848-1892), Italian botanist; studied at Pisa and Firenze; in various functions at the Ministry of Agriculture, Roma; from 1892 assistant at the Botanical department of the Firenze institute of higher studies and assistant at the Botanical Museum, Firenze. (*Tanfani*).
+Tanfani, Enrico (1848-1892), Italian botanist; studied at Pisa and Firenze; in various functions at the Ministry of Agriculture, Roma; from 1892 assistant at the Botanical department of the Firenze institute of higher studies and assistant at the Botanical Museum, Firenze. 
+**Abbreviated name**: *Tanfani*
 
 #### Herbarium and types
 

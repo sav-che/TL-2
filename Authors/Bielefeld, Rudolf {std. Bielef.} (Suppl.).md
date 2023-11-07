@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/item/103859#page/169/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33265356) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bielefeld, Rudolf {std. Bielef.}|first entry]] for this author
 
 ### Author
 
-\* Bielefeld, Rudolf (fl. 1900), German highschool teacher and botanist at Halle a.S. (*Bielef.*).
+\* Bielefeld, Rudolf (fl. 1900), German highschool teacher and botanist at Halle a.S. 
+**Abbreviated name**: *Bielef.*
 
 #### Herbarium and types
 

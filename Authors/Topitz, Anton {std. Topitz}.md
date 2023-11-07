@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103683#page/403/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33212435) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Topitz, Anton (1857-1948), Austrian botanist and high school teacher at St. Nikola a.d. Donau and at Grein; from 1931 again in Linz arranging the collections at LI. (*Topitz*).
+Topitz, Anton (1857-1948), Austrian botanist and high school teacher at St. Nikola a.d. Donau and at Grein; from 1931 again in Linz arranging the collections at LI. 
+**Abbreviated name**: *Topitz*
 
 #### Herbarium and types
 

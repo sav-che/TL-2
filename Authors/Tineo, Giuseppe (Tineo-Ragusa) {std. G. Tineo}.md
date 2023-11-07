@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103683#page/374/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33212406) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tineo, Giuseppe ("Tineo-Ragusa") (1757-1812), Italian botanist; director of the Palermo botanic garden at Porta Carini 1780-1789, at id. Villa Giulia 1789-1812. (*G. Tineo*).
+Tineo, Giuseppe ("Tineo-Ragusa") (1757-1812), Italian botanist; director of the Palermo botanic garden at Porta Carini 1780-1789, at id. Villa Giulia 1789-1812. 
+**Abbreviated name**: *G. Tineo*
 
 #### Herbarium and types
 

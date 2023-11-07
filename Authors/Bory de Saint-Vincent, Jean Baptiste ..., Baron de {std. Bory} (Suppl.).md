@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103859#page/372/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33265559) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de {std. Bory}|first entry]] for this author
 
 ### Author
 
-\* Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de (1778-1846), French soldier, geographer, naturalist and explorer, in the French army 1799 until 1840, seconded the expedition with Baudin to Australia 1801, stayed on the Isle de Bourbon and the Canary Islands 1801-1802, on active service in the German-French war 1806-1807, on the scientific expedition to Greece 1829, id. Algeria 1840-1842. (*Bory*).
+\* Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de (1778-1846), French soldier, geographer, naturalist and explorer, in the French army 1799 until 1840, seconded the expedition with Baudin to Australia 1801, stayed on the Isle de Bourbon and the Canary Islands 1801-1802, on active service in the German-French war 1806-1807, on the scientific expedition to Greece 1829, id. Algeria 1840-1842. 
+**Abbreviated name**: *Bory*
 
 #### Herbarium and types
 

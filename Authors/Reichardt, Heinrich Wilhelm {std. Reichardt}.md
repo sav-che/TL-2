@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/item/103624#page/672/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33190129) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reichardt, Heinrich Wilhelm (1835-1885), Moravian botanist (of German parents), educated at the gymnasium of Iglau; studied medicine and botany at Wien 1855-1860; student of A. Pokorny, E. Fenzl and F. Unger; Dr. med. Wien 1860; habil. ib. 1860; assistant at the Botanical Garden with Fenzl and lecturer in botany 1860-1866; from 1863 unpaid assistant at the botanical "Hofcabinet" (later Naturh. Hofmus.); from 1866 second "Custos" (curator), first curator 1871, head of the "Cabinet" 1878; id. of the botanical dept. of the Naturh. Hofmuseum from its incorporation in 1884; assistant editor Flora brasiliensis 1870; extraordinary professor of botany at Wien University 1873. (*Reichardt*).
+Reichardt, Heinrich Wilhelm (1835-1885), Moravian botanist (of German parents), educated at the gymnasium of Iglau; studied medicine and botany at Wien 1855-1860; student of A. Pokorny, E. Fenzl and F. Unger; Dr. med. Wien 1860; habil. ib. 1860; assistant at the Botanical Garden with Fenzl and lecturer in botany 1860-1866; from 1863 unpaid assistant at the botanical "Hofcabinet" (later Naturh. Hofmus.); from 1866 second "Custos" (curator), first curator 1871, head of the "Cabinet" 1878; id. of the botanical dept. of the Naturh. Hofmuseum from its incorporation in 1884; assistant editor Flora brasiliensis 1870; extraordinary professor of botany at Wien University 1873. 
+**Abbreviated name**: *Reichardt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103861#page/410/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33266707) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Card, Hamilton Hye (1877-1953), American botanist and teacher, AB at University of Illinois, Dr. phil. 1931 at Washington University, later school teacher in Fillmore, Illinois. (*Card*).
+Card, Hamilton Hye (1877-1953), American botanist and teacher, AB at University of Illinois, Dr. phil. 1931 at Washington University, later school teacher in Fillmore, Illinois. 
+**Abbreviated name**: *Card*
 
 #### Herbarium and types
 

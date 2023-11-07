@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103414#page/155/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33120238) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balansa, Benedict (Benjamin) {std. Balansa} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Balansa, Benedict ("Benjamin"") (1825-1891), French botanical explorer. (*Balansa*).
+Balansa, Benedict ("Benjamin"") (1825-1891), French botanical explorer. 
+**Abbreviated name**: *Balansa*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/item/103253#page/536/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kawakami, Takiya (1871-1915), Japanese botanist; botanist of the Government of Formosa from 1901. (*Kawak.*).
+Kawakami, Takiya (1871-1915), Japanese botanist; botanist of the Government of Formosa from 1901. 
+**Abbreviated name**: *Kawak.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/item/103414#page/429/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33120512) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruinsma, Josephus Johannes (1805-1888), Dutch-Frisian apothecary and botanist at Leeuwarden (Friesland). (*Bruinsma*).
+Bruinsma, Josephus Johannes (1805-1888), Dutch-Frisian apothecary and botanist at Leeuwarden (Friesland). 
+**Abbreviated name**: *Bruinsma*
 
 #### Herbarium and types
 

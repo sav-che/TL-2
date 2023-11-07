@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/104077#page/471/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33333596) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scott, Arthur Moreland (1888-1963), English civil engineer and amateur phycologist; settled in the United States; ultimately in New Orleans; published on Desmidiaceae from 1942 onward. (*A.M. Scott*).
+Scott, Arthur Moreland (1888-1963), English civil engineer and amateur phycologist; settled in the United States; ultimately in New Orleans; published on Desmidiaceae from 1942 onward. 
+**Abbreviated name**: *A.M. Scott*
 
 #### Herbarium and types
 

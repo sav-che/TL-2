@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/item/104137#page/783/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33355854) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nordmann, Alexander \[Davidovic\] von (1803-1866), Finnish botanist; Dr. phil. Turku 1827; high school teacher and director of the botanic garden at Odessa; professor of natural history (1849) and of zoology (1852) in Helsinki. (*Nordm.*).
+Nordmann, Alexander \[Davidovic\] von (1803-1866), Finnish botanist; Dr. phil. Turku 1827; high school teacher and director of the botanic garden at Odessa; professor of natural history (1849) and of zoology (1852) in Helsinki. 
+**Abbreviated name**: *Nordm.*
 
 #### Herbarium and types
 

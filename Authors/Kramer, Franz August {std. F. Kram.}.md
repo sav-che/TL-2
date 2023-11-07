@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/103253#page/687/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33068903) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kramer, Franz August (*fl*. 1875), German botanist and high school teacher at Chemnitz. (*F. Kram.*).
+Kramer, Franz August (*fl*. 1875), German botanist and high school teacher at Chemnitz. 
+**Abbreviated name**: *F. Kram.*
 
 #### Herbarium and types
 

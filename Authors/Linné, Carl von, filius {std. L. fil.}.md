@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/104137#page/127/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33355198) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linné, Carl von, filius (1741-1783), Swedish botanist; studied at Uppsala, Dr. med. 1765, professor of medicine and botany ib. 1777-1783. (*L. fil.*).
+Linné, Carl von, filius (1741-1783), Swedish botanist; studied at Uppsala, Dr. med. 1765, professor of medicine and botany ib. 1777-1783. 
+**Abbreviated name**: *L. fil.*
 
 #### Herbarium and types
 

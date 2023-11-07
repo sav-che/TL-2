@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/item/104137#page/547/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33355618) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Möhring, Paul Heinrich Gerhard (1710-1792), East Frisian (German) botanist, ornithologist and physician; Dr. med. Wittemberg, practicing physician at Jever (Oldenburg). (*Möhring*).
+Möhring, Paul Heinrich Gerhard (1710-1792), East Frisian (German) botanist, ornithologist and physician; Dr. med. Wittemberg, practicing physician at Jever (Oldenburg). 
+**Abbreviated name**: *Möhring*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/item/103683#page/516/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33212548) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trommer, Ernst Emil (*fl*. 1881), German botanist and high school teacher at Freiberg in Sachsen. (*Trommer*).
+Trommer, Ernst Emil (*fl*. 1881), German botanist and high school teacher at Freiberg in Sachsen. 
+**Abbreviated name**: *Trommer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103835#page/236/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33260214) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dyer, Robert Allen (1900-1987), South African botanist born 21 Sep 1900 at Pietermaritzburg, educated at Merchiston and Michaelhouse schools in Natal, from 1919-1923 at Natal University, graduating with M.Sc., research worker with the Natal Sugar Association 1924-1925, appointed in 1925 to the Division of Botany at Grahamstown, curator Albany Museum Herbarium, at Royal Botanic Garden Kew 1931-1934, Dr. Sci. in 1937, at the National Herbarium Pretoria chief and director of the Pretoria Botanical Research Institute 1944-1950, in official retirement 1963, but served the institute until 1979, died 26 Oct 1987 at Johannesburg. (*R.A. Dyer*).
+Dyer, Robert Allen (1900-1987), South African botanist born 21 Sep 1900 at Pietermaritzburg, educated at Merchiston and Michaelhouse schools in Natal, from 1919-1923 at Natal University, graduating with M.Sc., research worker with the Natal Sugar Association 1924-1925, appointed in 1925 to the Division of Botany at Grahamstown, curator Albany Museum Herbarium, at Royal Botanic Garden Kew 1931-1934, Dr. Sci. in 1937, at the National Herbarium Pretoria chief and director of the Pretoria Botanical Research Institute 1944-1950, in official retirement 1963, but served the institute until 1979, died 26 Oct 1987 at Johannesburg. 
+**Abbreviated name**: *R.A. Dyer*
 
 #### Herbarium and types
 

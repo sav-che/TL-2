@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103834#page/406/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33259888) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Francoeur, Louis-Benjamin (1773-1849), French mathematician, astronomer and naturalist, born 16 Aug 1773 in Paris, entered College d'Harcourt in Navarre 1790, army service from 1793, École Polytechnique 1794-1797 and appointed prof. of mathematics 1804, prof. of mathematics at the Lycée Charlemagne 1805 and then at the Faculty of Sciences, Paris 1808-1845, served in Napoleon's Peninsular Campaign 1809-1810, elected member of the Institut \[academician?\] 1842, died 15 Dec 1849 in Fontainebleau (Paris). (*Francoeur*).
+Francoeur, Louis-Benjamin (1773-1849), French mathematician, astronomer and naturalist, born 16 Aug 1773 in Paris, entered College d'Harcourt in Navarre 1790, army service from 1793, École Polytechnique 1794-1797 and appointed prof. of mathematics 1804, prof. of mathematics at the Lycée Charlemagne 1805 and then at the Faculty of Sciences, Paris 1808-1845, served in Napoleon's Peninsular Campaign 1809-1810, elected member of the Institut \[academician?\] 1842, died 15 Dec 1849 in Fontainebleau (Paris). 
+**Abbreviated name**: *Francoeur*
 
 #### Herbarium and types
 

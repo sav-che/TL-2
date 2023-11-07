@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/103683#page/510/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tröndle, Arthur (1881-1920), Swiss (Aargau) botanist; studied at Geneva 1901-1903, at Freiburg i. Br. 1903-1905 as student of Friedrich Oltmanns; assistant at the Botanical Institute Basel from 1905-1909; Dr. phil. Basel 1907 with A. Fischer; Privatdozent for botany at Freiburg i. Br. 1911-1914; habil. Zürich 1915; working at the Zürich Institute for general botany 1915-1919. (*Tröndle*).
+Tröndle, Arthur (1881-1920), Swiss (Aargau) botanist; studied at Geneva 1901-1903, at Freiburg i. Br. 1903-1905 as student of Friedrich Oltmanns; assistant at the Botanical Institute Basel from 1905-1909; Dr. phil. Basel 1907 with A. Fischer; Privatdozent for botany at Freiburg i. Br. 1911-1914; habil. Zürich 1915; working at the Zürich Institute for general botany 1915-1919. 
+**Abbreviated name**: *Tröndle*
 
 #### Herbarium and types
 

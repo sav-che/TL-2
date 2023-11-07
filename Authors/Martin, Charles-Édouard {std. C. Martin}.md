@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/104137#page/335/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33355406) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martin, Charles-Édouard (1847-1937), Swiss amateur mycologist; studied at the École libre de théologie de la Société évangélique, Genève; professor of classical languages at the École until 1921; from 1885 corrector for the *Tribune de Genève*; first president of the Société mycologique de Genève; Dr. h. c. Genève 1933. (*C. Martin*).
+Martin, Charles-Édouard (1847-1937), Swiss amateur mycologist; studied at the École libre de théologie de la Société évangélique, Genève; professor of classical languages at the École until 1921; from 1885 corrector for the *Tribune de Genève*; first president of the Société mycologique de Genève; Dr. h. c. Genève 1933. 
+**Abbreviated name**: *C. Martin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/item/103414#page/920/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33121003) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Franklin, Sir John (1786-1847), British arctic explorer, rear admiral, governor of Tasmania. (*Franklin*).
+Franklin, Sir John (1786-1847), British arctic explorer, rear admiral, governor of Tasmania. 
+**Abbreviated name**: *Franklin*
 
 #### Herbarium and types
 

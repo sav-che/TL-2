@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/item/103624#page/1077/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saint-Cyr, Dominique Napoléon (1826-1899), Canadian (Quebec) botanist and entomologist; teacher at Lennoxville 1846-1850, at Ste-Anne de la Pérade 1850-1876; provincial administrator 1875-1881; from 1881 dedicating himself to the setting up of a public museum; curator of the Musée de l'Instruction publique (Provincial Government Museum) 1886-1899. (*Saint-Cyr*).
+Saint-Cyr, Dominique Napoléon (1826-1899), Canadian (Quebec) botanist and entomologist; teacher at Lennoxville 1846-1850, at Ste-Anne de la Pérade 1850-1876; provincial administrator 1875-1881; from 1881 dedicating himself to the setting up of a public museum; curator of the Musée de l'Instruction publique (Provincial Government Museum) 1886-1899. 
+**Abbreviated name**: *Saint-Cyr*
 
 #### Herbarium and types
 

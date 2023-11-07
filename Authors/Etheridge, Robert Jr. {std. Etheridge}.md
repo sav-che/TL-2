@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/item/103414#page/851/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Etheridge, Robert Jr. (1847-1920), British palaeobiologist, from 1887-1920 in Australia. (*Etheridge*).
+Etheridge, Robert Jr. (1847-1920), British palaeobiologist, from 1887-1920 in Australia. 
+**Abbreviated name**: *Etheridge*
 
 #### Collections
 

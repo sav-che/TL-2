@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/item/103858#page/386/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33265101) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bates, Henry Walter (1825-1892), British entomologist, botanist and natural history explorer, educated at Billesden nr. Leicester, apprentice to a hosiery manufacturer in Leicester 1838; became acquainted with A.R. Wallace ca. 1844, with Wallace to the Amazone region 1848, exploring and collecting until 1859, worked on his collection 1859-1864, assistant secretary of the Royal Geographical Society of London 1864-1892, mainly working on entomology. (*Bates*).
+Bates, Henry Walter (1825-1892), British entomologist, botanist and natural history explorer, educated at Billesden nr. Leicester, apprentice to a hosiery manufacturer in Leicester 1838; became acquainted with A.R. Wallace ca. 1844, with Wallace to the Amazone region 1848, exploring and collecting until 1859, worked on his collection 1859-1864, assistant secretary of the Royal Geographical Society of London 1864-1892, mainly working on entomology. 
+**Abbreviated name**: *Bates*
 
 #### Herbarium and types
 

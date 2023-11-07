@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/item/103624#page/956/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/page/33190413) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rousseau, Marietta, née Hannon (1850-1926), Belgian self-taught mycologist; from 1908 connected with the Jardin Botanique de l'État, Bruxelles; married E.J. Rousseau 1871. (*M. Rousseau*).
+Rousseau, Marietta, née Hannon (1850-1926), Belgian self-taught mycologist; from 1908 connected with the Jardin Botanique de l'État, Bruxelles; married E.J. Rousseau 1871. 
+**Abbreviated name**: *M. Rousseau*
 
 #### Herbarium and types
 

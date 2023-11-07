@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103250#page/66/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33066308) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waga, Jakub \[Jakob\] Ignacy (1800-1872), Polish botanist; student of Michel Szubert; Mag. phil. Warsaw 1825; high school teacher at Warsaw, Radom and Szczuczyn; from 1828 at Lomza; school inspector ib. 1854-1862. (*Waga*).
+Waga, Jakub \[Jakob\] Ignacy (1800-1872), Polish botanist; student of Michel Szubert; Mag. phil. Warsaw 1825; high school teacher at Warsaw, Radom and Szczuczyn; from 1828 at Lomza; school inspector ib. 1854-1862. 
+**Abbreviated name**: *Waga*
 
 #### Herbarium and types
 

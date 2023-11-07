@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/item/104137#page/835/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33355906) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Olive, Edgar William (1870-1971), American botanist; Dr. phil. Harvard 1904; instructor in phanerogamic botany Wabash 1893-1895; high school teacher at Frankfort, Ind. 1895-1896, botanist at Harvard 1897-1903; at Madison, Wisc. 1904-1907; at State Agricultural College S. Dakota 1907-1912; curator of the Brooklyn botanical garden 1912-1920. (*Olive*).
+Olive, Edgar William (1870-1971), American botanist; Dr. phil. Harvard 1904; instructor in phanerogamic botany Wabash 1893-1895; high school teacher at Frankfort, Ind. 1895-1896, botanist at Harvard 1897-1903; at Madison, Wisc. 1904-1907; at State Agricultural College S. Dakota 1907-1912; curator of the Brooklyn botanical garden 1912-1920. 
+**Abbreviated name**: *Olive*
 
 #### Herbarium and types
 

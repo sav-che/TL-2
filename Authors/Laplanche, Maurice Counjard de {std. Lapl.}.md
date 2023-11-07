@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/item/103253#page/785/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laplanche, Maurice Counjard de (1843-1904), French mycologist and landed gentleman at Laplanche near Luzy (Nièvre) and at Souh-el-Khemis (Tunisia). (*Lapl.*).
+Laplanche, Maurice Counjard de (1843-1904), French mycologist and landed gentleman at Laplanche near Luzy (Nièvre) and at Souh-el-Khemis (Tunisia). 
+**Abbreviated name**: *Lapl.*
 
 #### Herbarium and types
 

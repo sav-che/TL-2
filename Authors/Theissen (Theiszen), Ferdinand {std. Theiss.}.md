@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103683#page/249/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Theissen \[Theiszen\], Ferdinand (1877-1919), German clergyman and mycologist; Novit. S.J. 1897; stationed in São Leopoldo, Brazil 1902-1908; studied theology at Valkenburg and Innsbruck 1909-1912; ordained 1911; studied natural sciences in Innsbruck 1913-1914; teacher at the Feldkirch gymnasium Stella matutina 1914-1919; died in the Vorarlberg Alps while collecting lichens. (*Theiss.*).
+Theissen \[Theiszen\], Ferdinand (1877-1919), German clergyman and mycologist; Novit. S.J. 1897; stationed in São Leopoldo, Brazil 1902-1908; studied theology at Valkenburg and Innsbruck 1909-1912; ordained 1911; studied natural sciences in Innsbruck 1913-1914; teacher at the Feldkirch gymnasium Stella matutina 1914-1919; died in the Vorarlberg Alps while collecting lichens. 
+**Abbreviated name**: *Theiss.*
 
 #### Herbarium and types
 

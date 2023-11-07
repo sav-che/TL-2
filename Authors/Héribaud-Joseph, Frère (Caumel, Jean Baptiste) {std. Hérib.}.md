@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103253#page/195/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33068411) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Héribaud-Joseph, Frère (Caumel, Jean Baptiste) (1841-1918), French clergyman and botanist. (*Hérib.*).
+Héribaud-Joseph, Frère (Caumel, Jean Baptiste) (1841-1918), French clergyman and botanist. 
+**Abbreviated name**: *Hérib.*
 
 #### Herbarium and types
 

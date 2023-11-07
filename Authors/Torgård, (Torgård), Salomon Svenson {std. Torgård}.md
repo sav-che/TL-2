@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103683#page/405/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33212437) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torgård, \[Torgård\], Salomon Sv:son (1885-?), Swedish botanist; Dr. phil. Lund 1924; teacher at the grammar school of Kalmar 1915-1927; high school teacher in biology, Linköping 1927-1950. (*Torgård*).
+Torgård, \[Torgård\], Salomon Sv:son (1885-?), Swedish botanist; Dr. phil. Lund 1924; teacher at the grammar school of Kalmar 1915-1927; high school teacher in biology, Linköping 1927-1950. 
+**Abbreviated name**: *Torgård*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103860#page/112/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33265779) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Childs, Thomas White (1908-x), American botanist, born at Rockwell City, Iowa, educated at Oregon State College, and the University of Pennsylvania, Ph.D. 1936 at this university, ca. 1939 employed at the Division of Forest Pathology, Portland, Oregon. (*Th.W. Childs*).
+Childs, Thomas White (1908-x), American botanist, born at Rockwell City, Iowa, educated at Oregon State College, and the University of Pennsylvania, Ph.D. 1936 at this university, ca. 1939 employed at the Division of Forest Pathology, Portland, Oregon. 
+**Abbreviated name**: *Th.W. Childs*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/104137#page/677/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33355748) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Munson, Thomas Volney (1843-1913), American grape breeder at Denison, Texas (*Munson*).
+Munson, Thomas Volney (1843-1913), American grape breeder at Denison, Texas 
+**Abbreviated name**: *Munson*
 
 #### Herbarium and types
 

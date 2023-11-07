@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/item/103624#page/662/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33190119) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Regnault, Nicolas François (1746-?), French physician and botanist. (*Regnault*).
+Regnault, Nicolas François (1746-?), French physician and botanist. 
+**Abbreviated name**: *Regnault*
 
 #### Herbarium and types
 

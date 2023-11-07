@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103833#page/98/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daul, Anton (1821-?), German botanist, born at Donauwörth, interested in Cactaceae and succulents, worked at Stuttgart. (*Daul*).
+Daul, Anton (1821-?), German botanist, born at Donauwörth, interested in Cactaceae and succulents, worked at Stuttgart. 
+**Abbreviated name**: *Daul*
 
 #### Herbarium and types
 

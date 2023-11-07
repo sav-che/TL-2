@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103250#page/482/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33066762) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolf, \[Franz\] Theodor (1841-1921), German (Württemberg) geologist and botanist; professor of geology and mineralogy Univ. Quito 1870, state geologist of Ecuador 1875; from 1891 private scientist at Dresden-Plauen. (*Th. Wolf*).
+Wolf, \[Franz\] Theodor (1841-1921), German (Württemberg) geologist and botanist; professor of geology and mineralogy Univ. Quito 1870, state geologist of Ecuador 1875; from 1891 private scientist at Dresden-Plauen. 
+**Abbreviated name**: *Th. Wolf*
 
 #### Herbarium and types
 

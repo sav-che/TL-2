@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103624#page/267/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pickard, Joseph Fry (1876-1943), British draper, tea merchant and botanist in Yorkshire (Leeds). (*Pickard*).
+Pickard, Joseph Fry (1876-1943), British draper, tea merchant and botanist in Yorkshire (Leeds). 
+**Abbreviated name**: *Pickard*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/item/103414#page/864/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fechner, G. A. (*fl*. 1849), German highschool teacher and botanist at Görlitz (*Fechner*).
+Fechner, G. A. (*fl*. 1849), German highschool teacher and botanist at Görlitz 
+**Abbreviated name**: *Fechner*
 
 #### Herbarium and types
 

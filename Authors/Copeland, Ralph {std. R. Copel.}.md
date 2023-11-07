@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103860#page/359/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33266026) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Copeland, Ralph (1837-1905), British astronomer, born at Woodplumton, Lancashire, Royal Astronomer for Scotland at the University of Edinburgh, with the second German North Pole expedition 1869/70, and with Lord Linsal 1874 to Mauritius to observe the transit of Venus 1874, collected plants on Trinidad. (*R. Copel.*).
+Copeland, Ralph (1837-1905), British astronomer, born at Woodplumton, Lancashire, Royal Astronomer for Scotland at the University of Edinburgh, with the second German North Pole expedition 1869/70, and with Lord Linsal 1874 to Mauritius to observe the transit of Venus 1874, collected plants on Trinidad. 
+**Abbreviated name**: *R. Copel.*
 
 #### Herbarium and types
 

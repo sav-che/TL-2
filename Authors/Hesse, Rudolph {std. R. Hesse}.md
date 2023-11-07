@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103253#page/208/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33068424) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hesse, Rudolph (1844-1912), German botanist and agronomist teaching at the agricultural colleges of Arendsee and Marburg. (*R. Hesse*).
+Hesse, Rudolph (1844-1912), German botanist and agronomist teaching at the agricultural colleges of Arendsee and Marburg. 
+**Abbreviated name**: *R. Hesse*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/103860#page/491/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33266158) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crow, William Bernard (1895-?), British algologist, studied at London, Ph.D., D.Sc., senior lecturer in biology South West Essex Technical College, from 1918 at Botanical Dept. East London College, from ca. 1922 at University College Cardiff, S. Wales and Monmouthshire, from ca. 1929 Head of the Dept. of Biology, The Technical College, Huddersfield, Thesis for Doctor of Science at University London 1929. (*Crow*).
+Crow, William Bernard (1895-?), British algologist, studied at London, Ph.D., D.Sc., senior lecturer in biology South West Essex Technical College, from 1918 at Botanical Dept. East London College, from ca. 1922 at University College Cardiff, S. Wales and Monmouthshire, from ca. 1929 Head of the Dept. of Biology, The Technical College, Huddersfield, Thesis for Doctor of Science at University London 1929. 
+**Abbreviated name**: *Crow*
 
 #### Herbarium and types
 

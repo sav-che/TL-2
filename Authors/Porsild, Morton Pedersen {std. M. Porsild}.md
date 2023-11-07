@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/item/103624#page/356/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33189813) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Porsild, Morton Pedersen (1872-1956), Danish botanist; mag. sci. Kjøbenhavn 1900; director of the Danish Arctic biological station at Disko from 1906 (1905)-1946. (*M. Porsild*).
+Porsild, Morton Pedersen (1872-1956), Danish botanist; mag. sci. Kjøbenhavn 1900; director of the Danish Arctic biological station at Disko from 1906 (1905)-1946. 
+**Abbreviated name**: *M. Porsild*
 
 #### Herbarium and types
 

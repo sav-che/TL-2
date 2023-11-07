@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/item/103414#page/920/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33121003) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Franqueville, Albert \[comte\] de (x-1891), French botanist. (*Franqueville*).
+Franqueville, Albert \[comte\] de (x-1891), French botanist. 
+**Abbreviated name**: *Franqueville*
 
 #### Herbarium
 

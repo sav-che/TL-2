@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103859#page/386/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bouché, Peter Carl \[Karl\] (1784-1856), German institutional gardener at Schöneberg (Berlin), belonging to a Franch refugee gardeners family, father of Carl Daniel Bouché. (*Bouché*).
+Bouché, Peter Carl \[Karl\] (1784-1856), German institutional gardener at Schöneberg (Berlin), belonging to a Franch refugee gardeners family, father of Carl Daniel Bouché. 
+**Abbreviated name**: *Bouché*
 
 #### Herbarium and types
 

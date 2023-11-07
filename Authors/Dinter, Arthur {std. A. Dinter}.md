@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/item/103833#page/359/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33259393) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dinter, Arthur (1876-?), German botanist, born 27 Jun 1875 at Mülhausen (Elsass). (*A. Dinter*).
+Dinter, Arthur (1876-?), German botanist, born 27 Jun 1875 at Mülhausen (Elsass). 
+**Abbreviated name**: *A. Dinter*
 
 #### Herbarium and types
 

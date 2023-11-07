@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/item/104077#page/776/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sowerby, James de Carle (1787-1871), British naturalist and artist, eldest son of James Sowerby and his closest collaborator; founder member of the Royal botanic Society and Gardens, Regent's Park, London 1838; secretary to this society 1839-1869. (*J. de C. Sowerby*).
+Sowerby, James de Carle (1787-1871), British naturalist and artist, eldest son of James Sowerby and his closest collaborator; founder member of the Royal botanic Society and Gardens, Regent's Park, London 1838; secretary to this society 1839-1869. 
+**Abbreviated name**: *J. de C. Sowerby*
 
 #### Herbarium and types
 

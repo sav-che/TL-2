@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103834#page/341/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33259823) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forquignon, Jean Baptiste Lucien (1847-1888), French civil engineer and amateur mycologist, born 31 Mai 1847 in Pont-à-Mousson (Meurthe-et-Moselle), studied literature and science in Fontenay-aux-Roses and Sainte-Barbe, entered the "École des Mines" 1867, military service 1870, Dr. ès-sciences physiques 1881 Paris, adjunct prof. of chemistry, Faculty of Sciences, Dijon 1884, one of the founders of the Société Mycologique de France, died 13 Jun 1888 in Bolle nr. St. Dié (Vosges). (*Forq.*).
+Forquignon, Jean Baptiste Lucien (1847-1888), French civil engineer and amateur mycologist, born 31 Mai 1847 in Pont-à-Mousson (Meurthe-et-Moselle), studied literature and science in Fontenay-aux-Roses and Sainte-Barbe, entered the "École des Mines" 1867, military service 1870, Dr. ès-sciences physiques 1881 Paris, adjunct prof. of chemistry, Faculty of Sciences, Dijon 1884, one of the founders of the Société Mycologique de France, died 13 Jun 1888 in Bolle nr. St. Dié (Vosges). 
+**Abbreviated name**: *Forq.*
 
 #### Herbarium and types
 

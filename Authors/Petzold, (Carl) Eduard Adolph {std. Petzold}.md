@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103624#page/228/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33189685) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petzold, \[Carl\] Eduard Adolph (1815-1891), German (Prussian) botanist and gardener; trained in practice at Matzdorf (1835-1838); and Neuenhof (1838-1840); at the forestry school of Eisenach 1840-1844; Hofgärtner at Ettersburg (1844-1848), and Weimar (1848-1852); from 1852-1881 director of the garden at Muskau (W. Schlesien); in retirement at Blasewitz (Sachsen) 1882-1891. (*Petzold*).
+Petzold, \[Carl\] Eduard Adolph (1815-1891), German (Prussian) botanist and gardener; trained in practice at Matzdorf (1835-1838); and Neuenhof (1838-1840); at the forestry school of Eisenach 1840-1844; Hofgärtner at Ettersburg (1844-1848), and Weimar (1848-1852); from 1852-1881 director of the garden at Muskau (W. Schlesien); in retirement at Blasewitz (Sachsen) 1882-1891. 
+**Abbreviated name**: *Petzold*
 
 #### Herbarium and types
 

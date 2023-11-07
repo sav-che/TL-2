@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/item/103683#page/722/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33212754) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Verlot, Jean Baptiste (1815-1891), French botanist and gardener; gardener at Dijon 1833, assistant gardener at Paris 1835, assistant director of the Dijon botanical garden 1837; head gardener of the town of Grenoble and director of its botanical garden 1845-1886; lectured on horticulture at the professional and teacher's colleges of Grenoble. (*Verl.*).
+Verlot, Jean Baptiste (1815-1891), French botanist and gardener; gardener at Dijon 1833, assistant gardener at Paris 1835, assistant director of the Dijon botanical garden 1837; head gardener of the town of Grenoble and director of its botanical garden 1845-1886; lectured on horticulture at the professional and teacher's colleges of Grenoble. 
+**Abbreviated name**: *Verl.*
 
 #### Herbarium and types
 

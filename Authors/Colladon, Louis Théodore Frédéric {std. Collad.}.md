@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/item/103414#page/573/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33120656) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Colladon, Louis Théodore Frédéric (1792-1862), Swiss physician and botanist at Genève, pupil of A. P. de Candolle. (*Collad.*).
+Colladon, Louis Théodore Frédéric (1792-1862), Swiss physician and botanist at Genève, pupil of A. P. de Candolle. 
+**Abbreviated name**: *Collad.*
 
 #### Herbarium and types
 

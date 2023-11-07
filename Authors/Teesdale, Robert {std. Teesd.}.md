@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103683#page/209/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33212241) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teesdale, Robert (ca. 1740-1804), British gardener and botanist at Castle Howard, Yorkshire; later junior partner in Minier, Mason and Teesdale, seedsmen, London. (*Teesd.*).
+Teesdale, Robert (ca. 1740-1804), British gardener and botanist at Castle Howard, Yorkshire; later junior partner in Minier, Mason and Teesdale, seedsmen, London. 
+**Abbreviated name**: *Teesd.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/item/104137#page/669/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33355740) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Muenscher, Walter Leopold Conrad (1891-1963), German-born American botanist; naturalized 1899; Ph. D. Cornell University 1921; teaching botany at Cornell 1916-1954. (*Muenscher*).
+Muenscher, Walter Leopold Conrad (1891-1963), German-born American botanist; naturalized 1899; Ph. D. Cornell University 1921; teaching botany at Cornell 1916-1954. 
+**Abbreviated name**: *Muenscher*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103624#page/179/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33189636) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perkins, George Henry (1844-1933), American botanist, zoologist and geologist; Dr. phil. at Yale 1869, from 1869-1933 at the University of Vermont in various positions, incl. 56 years as curator of the University Museum; vice-president of the University 1907-1931; State geologist of Vermont 1898-1933; LL.D. Univ. Vermont 1911, Litt. D. Knox College 1912. (*G. Perkins*).
+Perkins, George Henry (1844-1933), American botanist, zoologist and geologist; Dr. phil. at Yale 1869, from 1869-1933 at the University of Vermont in various positions, incl. 56 years as curator of the University Museum; vice-president of the University 1907-1931; State geologist of Vermont 1898-1933; LL.D. Univ. Vermont 1911, Litt. D. Knox College 1912. 
+**Abbreviated name**: *G. Perkins*
 
 #### Herbarium and types
 

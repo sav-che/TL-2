@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103859#page/193/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265380) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bizot, Maurice \[Louis Jean\] (1905-1979), French pharmacist and bryologist, studied at the University of Nancy, Dr. phil. 1937, chief pharmacist at the Centre Hospitalier, Dijon, professor and later assessor and dean at the Faculté de Pharmacie of the École nationale de Médecine et Pharmacie de Dijon. (*Bizot*).
+Bizot, Maurice \[Louis Jean\] (1905-1979), French pharmacist and bryologist, studied at the University of Nancy, Dr. phil. 1937, chief pharmacist at the Centre Hospitalier, Dijon, professor and later assessor and dean at the Faculté de Pharmacie of the École nationale de Médecine et Pharmacie de Dijon. 
+**Abbreviated name**: *Bizot*
 
 #### Herbarium and types
 

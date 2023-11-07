@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103250#page/71/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33066313) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wagner, János \[Johannes\] (1870-1955), Hungarian (Banat-born) botanist and high school teacher; studied at the teacher's college at Znióváralja; teacher in Csáktornya, Kiskunfélogyhaza and 1901-1911 in Arad; from 1911-1914 teacher at a girls school in Budapest; school inspector 1914, general inspector of the teacher's college in Hungary 1919-1928; Dr. h.c. Szeged 1953; Dr. biol. sci. h.t. 1952. (*J. Wagner*).
+Wagner, János \[Johannes\] (1870-1955), Hungarian (Banat-born) botanist and high school teacher; studied at the teacher's college at Znióváralja; teacher in Csáktornya, Kiskunfélogyhaza and 1901-1911 in Arad; from 1911-1914 teacher at a girls school in Budapest; school inspector 1914, general inspector of the teacher's college in Hungary 1919-1928; Dr. h.c. Szeged 1953; Dr. biol. sci. h.t. 1952. 
+**Abbreviated name**: *J. Wagner*
 
 #### Herbarium and types
 

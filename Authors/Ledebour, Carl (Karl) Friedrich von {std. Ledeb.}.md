@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/item/103253#page/831/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33069047) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ledebour, Carl \[Karl\] Friedrich von (1785-1851), German botanist (bora at Stralsund, then Swedish Pomerania); Dr. phil. Greifswald 1805; studied and resided in Greifswald and Stockholm 1805-1811; professor of botany in Dorpat 1811-1836; travelled widely in Russia and the Altai region with Meyer and Bunge; retired 1836 to Heidelberg to work at his *Flora rossica*; ultimately in München 1844-1851. (*Ledeb.*).
+Ledebour, Carl \[Karl\] Friedrich von (1785-1851), German botanist (bora at Stralsund, then Swedish Pomerania); Dr. phil. Greifswald 1805; studied and resided in Greifswald and Stockholm 1805-1811; professor of botany in Dorpat 1811-1836; travelled widely in Russia and the Altai region with Meyer and Bunge; retired 1836 to Heidelberg to work at his *Flora rossica*; ultimately in München 1844-1851. 
+**Abbreviated name**: *Ledeb.*
 
 #### Herbarium and types
 

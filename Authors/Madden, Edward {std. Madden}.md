@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/item/104137#page/254/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33355325) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Madden, Edward (1805-1856) Irish-born British botanist; officer in the Bengal Army 1830-1849 (*Madden*).
+Madden, Edward (1805-1856) Irish-born British botanist; officer in the Bengal Army 1830-1849 
+**Abbreviated name**: *Madden*
 
 #### Herbarium and types
 

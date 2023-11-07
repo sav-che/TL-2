@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/item/104077#page/803/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33333928) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spicer, William Webb (1820-1879), British clergyman and botanist; M.A. Oxford 1848; rector at Itchen Abbas, Kants., England 1850-1874; in Tasmania from 1874-1878. (*Spicer*).
+Spicer, William Webb (1820-1879), British clergyman and botanist; M.A. Oxford 1848; rector at Itchen Abbas, Kants., England 1850-1874; in Tasmania from 1874-1878. 
+**Abbreviated name**: *Spicer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/item/104077#page/717/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33333842) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Matilda (1854-1926), British (Bombay-born) botanical artist, cousin of J.D. Hooker, associated with the Royal Botanic Gardens, Kew 1877-1921; contributed drawings to Botanical Magazine, Hooker's Icones and several other Kew publications. (*M. Sm.*).
+Smith, Matilda (1854-1926), British (Bombay-born) botanical artist, cousin of J.D. Hooker, associated with the Royal Botanic Gardens, Kew 1877-1921; contributed drawings to Botanical Magazine, Hooker's Icones and several other Kew publications. 
+**Abbreviated name**: *M. Sm.*
 
 #### Herbarium and types
 

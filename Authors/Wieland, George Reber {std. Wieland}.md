@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/item/103250#page/325/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33066605) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wieland, George Reber (1865-1953), American palaeontologist; B.S. Pennsylvania State College 1893; at University of Göttingen 1894; Dr. phil. Yale 1900; teacher at Chester, Pennsylvania 1895-1898; from 1899 palaeontologist at Yale University (fellow 1899, lecturer 1906, res. asst. 1920, assoc. prof. 1924-1935) and associate of the Carnegie Institution. (*Wieland*).
+Wieland, George Reber (1865-1953), American palaeontologist; B.S. Pennsylvania State College 1893; at University of Göttingen 1894; Dr. phil. Yale 1900; teacher at Chester, Pennsylvania 1895-1898; from 1899 palaeontologist at Yale University (fellow 1899, lecturer 1906, res. asst. 1920, assoc. prof. 1924-1935) and associate of the Carnegie Institution. 
+**Abbreviated name**: *Wieland*
 
 #### Herbarium and types
 

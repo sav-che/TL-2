@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/item/103860#page/418/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33266085) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cottle, Harvey James (1876-1931), American botanist and teacher at Sal Ross State Teachers College, Alpine, Texas, born 18 Apr 1876 in Illinois, died 14 Nov 1931. (*Cottle*).
+Cottle, Harvey James (1876-1931), American botanist and teacher at Sal Ross State Teachers College, Alpine, Texas, born 18 Apr 1876 in Illinois, died 14 Nov 1931. 
+**Abbreviated name**: *Cottle*
 
 #### Herbarium and types
 

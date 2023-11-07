@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/item/104137#page/765/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33355836) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Niederlein, Gustavo (1858-1924), German botanist who travelled and collected in Brazil and Argentina 1879-1886. (*Niederl.*).
+Niederlein, Gustavo (1858-1924), German botanist who travelled and collected in Brazil and Argentina 1879-1886. 
+**Abbreviated name**: *Niederl.*
 
 #### Herbarium and types
 

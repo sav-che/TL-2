@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103250#page/355/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilke, Fritz \[Wilhelm\] (1888-x), German (Prussian/Westphalian) botanist; studied natural sciences at Jena, Berlin and Halle; Dr. phil. Halle 1913. (*Wilke*).
+Wilke, Fritz \[Wilhelm\] (1888-x), German (Prussian/Westphalian) botanist; studied natural sciences at Jena, Berlin and Halle; Dr. phil. Halle 1913. 
+**Abbreviated name**: *Wilke*
 
 #### Herbarium and types
 

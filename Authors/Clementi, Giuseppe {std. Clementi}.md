@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103860#page/215/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clementi, Giuseppe (1812-1873), Italian botanist, born at Alcenago in Pogano, Verona, professor in physics and biology at the Lyceum of Bergama, subsequently at Padua and Genova, ultimately (from 1855) professor of natural sciences at Torino, collected in Greece and Turkey ca. 1852. (*Clementi*).
+Clementi, Giuseppe (1812-1873), Italian botanist, born at Alcenago in Pogano, Verona, professor in physics and biology at the Lyceum of Bergama, subsequently at Padua and Genova, ultimately (from 1855) professor of natural sciences at Torino, collected in Greece and Turkey ca. 1852. 
+**Abbreviated name**: *Clementi*
 
 #### Herbarium and types
 

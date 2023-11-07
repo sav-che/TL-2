@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/103414#page/632/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33120715) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cusson, Pierre (1727-1783), French botanist at Montpellier. (*Cusson*).
+Cusson, Pierre (1727-1783), French botanist at Montpellier. 
+**Abbreviated name**: *Cusson*
 
 #### Herbarium and types
 

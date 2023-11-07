@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103624#page/322/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33189779) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poederlé, Eugène Joseph Charles Gilain Hubert d'Olmen baron de (1742-1813), Belgian landed gentleman, botanist, sylviculturist and agronomist living in Bruxelles and on his property at Saintes. (*Poederlé*).
+Poederlé, Eugène Joseph Charles Gilain Hubert d'Olmen baron de (1742-1813), Belgian landed gentleman, botanist, sylviculturist and agronomist living in Bruxelles and on his property at Saintes. 
+**Abbreviated name**: *Poederlé*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103860#page/175/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265842) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Christman, A.H. (fl. 1904-1907), American mycologist and phytopathologist, student of J.C. Arthur at Purdue University, West Lafayette, Indiana. (*Christman*).
+Christman, A.H. (fl. 1904-1907), American mycologist and phytopathologist, student of J.C. Arthur at Purdue University, West Lafayette, Indiana. 
+**Abbreviated name**: *Christman*
 
 #### Herbarium and types
 

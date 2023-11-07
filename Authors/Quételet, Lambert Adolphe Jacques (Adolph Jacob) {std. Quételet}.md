@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103624#page/471/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33189928) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quételet, Lambert Adolphe Jacques \[Adolph Jacob\] (1796-1874), Belgian natural scientist; professor of mathematics at Brussels University; director of the Royal Belgian astronomical observatory; perpetual secretary of the Royal Academy of Sciences of Belgium. (*Quételet*).
+Quételet, Lambert Adolphe Jacques \[Adolph Jacob\] (1796-1874), Belgian natural scientist; professor of mathematics at Brussels University; director of the Royal Belgian astronomical observatory; perpetual secretary of the Royal Academy of Sciences of Belgium. 
+**Abbreviated name**: *Quételet*
 
 #### Herbarium and types
 

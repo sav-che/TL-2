@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/item/103414#page/796/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33120879) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ender, Ernst Eduard (1837-1893), German gardener at the St. Petersburg botanical garden. (*Ender*).
+Ender, Ernst Eduard (1837-1893), German gardener at the St. Petersburg botanical garden. 
+**Abbreviated name**: *Ender*
 
 #### Herbarium and types
 

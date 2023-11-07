@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/item/104077#page/664/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33333789) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Small, John Kunkel (1869-1938), American botanist (of Pennsylvania-German origin); at Franklin and Marshall College, Lancaster 1888-1892; studied botany with N.L. Britton at Columbia College; Dr. phil. 1895; curator of the herbarium of Columbia College 1895-1898; curator of the Museums of the New York Botanical Garden 1898-1905; head-curator id. 1906-1933; chief research associate and curator 1934-1938; mainly interested in the flora of the southeastern United States, especially of Florida which he visited almost annually from 1901-1916; Dr. Sci. h.c. Franklin and Marshall College 1912. (*Small*).
+Small, John Kunkel (1869-1938), American botanist (of Pennsylvania-German origin); at Franklin and Marshall College, Lancaster 1888-1892; studied botany with N.L. Britton at Columbia College; Dr. phil. 1895; curator of the herbarium of Columbia College 1895-1898; curator of the Museums of the New York Botanical Garden 1898-1905; head-curator id. 1906-1933; chief research associate and curator 1934-1938; mainly interested in the flora of the southeastern United States, especially of Florida which he visited almost annually from 1901-1916; Dr. Sci. h.c. Franklin and Marshall College 1912. 
+**Abbreviated name**: *Small*
 
 #### Herbarium and types
 

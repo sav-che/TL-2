@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103860#page/463/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266130) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crawshay, Richard (1862-1958), British botanist. (*Crawshay*).
+Crawshay, Richard (1862-1958), British botanist. 
+**Abbreviated name**: *Crawshay*
 
 #### Herbarium and types
 

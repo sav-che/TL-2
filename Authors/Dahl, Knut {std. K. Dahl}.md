@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103833#page/20/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33259054) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dahl, Knut (1871-?), Norwegian botanist, professor at the University of Oslo ("Kristiania"). (*K. Dahl*).
+Dahl, Knut (1871-?), Norwegian botanist, professor at the University of Oslo ("Kristiania"). 
+**Abbreviated name**: *K. Dahl*
 
 #### Herbarium and types
 

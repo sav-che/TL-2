@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103835#page/257/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33260235) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eberhardt, Albert (1875-1952), Swiss botanist, born 1875 at Saint-Imier, visited primary school at Porrentruy, studied sciences at the University of Bern, became teacher at the gymnasium of Saint-Imier, teaching mathematics and chemistry but was very much interested in biology, especially bryology, died in 1952. (*A. Eberh.*).
+Eberhardt, Albert (1875-1952), Swiss botanist, born 1875 at Saint-Imier, visited primary school at Porrentruy, studied sciences at the University of Bern, became teacher at the gymnasium of Saint-Imier, teaching mathematics and chemistry but was very much interested in biology, especially bryology, died in 1952. 
+**Abbreviated name**: *A. Eberh.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/item/103414#page/552/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33120635) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cirillo (Cyrillus), Domenico Maria Leone {std. Cirillo} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cirillo, Domenico Maria Leone (1739-1799), Italian statesman and botanist. (*Cirillo*).
+Cirillo, Domenico Maria Leone (1739-1799), Italian statesman and botanist. 
+**Abbreviated name**: *Cirillo*
 
 #### Herbarium and types
 

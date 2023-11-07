@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/item/103624#page/822/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33190279) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robecchi-Bricchetti, Luigi (1855-1926), Italian explorer of Somalia and Ethiopia; studied at the Zürich E.T.H and at Karlsruhe. (*Rob.-Bricch.*).
+Robecchi-Bricchetti, Luigi (1855-1926), Italian explorer of Somalia and Ethiopia; studied at the Zürich E.T.H and at Karlsruhe. 
+**Abbreviated name**: *Rob.-Bricch.*
 
 #### Herbarium and types
 

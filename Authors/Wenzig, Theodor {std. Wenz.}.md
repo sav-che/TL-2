@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103250#page/248/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33066528) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wenzig, Theodor (1824-1892), German pharmacist and botanist; from 1869-1874 assistant at the Berlin herbarium; specialist on Pomaceae, Quercus, Mespilus, Juglans. (*Wenz.*).
+Wenzig, Theodor (1824-1892), German pharmacist and botanist; from 1869-1874 assistant at the Berlin herbarium; specialist on Pomaceae, Quercus, Mespilus, Juglans. 
+**Abbreviated name**: *Wenz.*
 
 #### Herbarium and types
 

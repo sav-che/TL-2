@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103832#page/24/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33258514) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fridtz, Randor Eretius (1845-1921), Norwegian amateur botanist and plant collector, born 29 Nov 1845 in Kristianssand, trained as a teacher 1862-1864, studied mathematics, physics and chemistry at the Univ. of Kristiania from 1880, amanuensis at the chemistry lab. 1887-1918, studied the flora of s. Norway, esp. during summer holidays and made extensive collections, died 15 Feb 1921 in Kristiania (Oslo). (*Fridtz*).
+Fridtz, Randor Eretius (1845-1921), Norwegian amateur botanist and plant collector, born 29 Nov 1845 in Kristianssand, trained as a teacher 1862-1864, studied mathematics, physics and chemistry at the Univ. of Kristiania from 1880, amanuensis at the chemistry lab. 1887-1918, studied the flora of s. Norway, esp. during summer holidays and made extensive collections, died 15 Feb 1921 in Kristiania (Oslo). 
+**Abbreviated name**: *Fridtz*
 
 #### Herbarium and types
 

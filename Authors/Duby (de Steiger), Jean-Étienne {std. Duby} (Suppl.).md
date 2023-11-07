@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103835#page/132/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33260110) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duby, Jean Étienne {std. Duby}|first entry]] for this author
 
 ### Author
 
-\* Duby \[de Steiger\], Jean-Étienne (1798-1885), Swiss theologian and botanist, born 15 Feb 1798 at Genève, studied at the Collège and Academy of Genève (theology from 1816) at the same time studying botany with A.P. de Candolle, consacrated in 1820 with theses "philosophico- théologiques: de Conscientia", received the title "docteur ès sciences" in 1824, visited Italy 1829-1830, returned to Genève and was clergyman for 32 years. (*Duby*).
+\* Duby \[de Steiger\], Jean-Étienne (1798-1885), Swiss theologian and botanist, born 15 Feb 1798 at Genève, studied at the Collège and Academy of Genève (theology from 1816) at the same time studying botany with A.P. de Candolle, consacrated in 1820 with theses "philosophico- théologiques: de Conscientia", received the title "docteur ès sciences" in 1824, visited Italy 1829-1830, returned to Genève and was clergyman for 32 years. 
+**Abbreviated name**: *Duby*
 
 #### Herbarium and types
 

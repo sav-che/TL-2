@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/item/103683#page/693/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33212725) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaupell, Christian Theodor (1821-1862), Danish botanist and high school teacher; Cand. theol. 1847; Dr. phil. Copenhagen 1859; lecturer ("privatdocent") at Copenhagen University 1860-1862. (*Vaupell*).
+Vaupell, Christian Theodor (1821-1862), Danish botanist and high school teacher; Cand. theol. 1847; Dr. phil. Copenhagen 1859; lecturer ("privatdocent") at Copenhagen University 1860-1862. 
+**Abbreviated name**: *Vaupell*
 
 #### Herbarium and types
 

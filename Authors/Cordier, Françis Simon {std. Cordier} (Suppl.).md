@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103860#page/369/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33266036) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cordier, François Simon {std. Cordier}|first entry]] for this author
 
 ### Author
 
-\* Cordier, Françis Simon (1797-1874), French mycologist, born at Brillon (Meuse), studied literature at Troyes, also medicine, sometime army physician, "bachelier ès lettres" 1818, doctor in medicine 1819, studied botany in Paris at the Muséum d'Histoire naturelle, 1829-1830, teacher of natural history and medicine, later practicing medicine. (*Cordier*).
+\* Cordier, Françis Simon (1797-1874), French mycologist, born at Brillon (Meuse), studied literature at Troyes, also medicine, sometime army physician, "bachelier ès lettres" 1818, doctor in medicine 1819, studied botany in Paris at the Muséum d'Histoire naturelle, 1829-1830, teacher of natural history and medicine, later practicing medicine. 
+**Abbreviated name**: *Cordier*
 
 #### Herbarium and types
 

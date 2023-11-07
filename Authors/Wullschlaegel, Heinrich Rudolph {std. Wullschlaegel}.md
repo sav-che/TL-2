@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/item/103250#page/539/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33066819) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wullschlaegel, Heinrich Rudolph (1805-1864), German (Russian-born, Wolga-German in Moravian Brothers settlement Sarepta) teacher belonging to the Moravian Brothers; theological education at Gnadenfeld, Silesia; teacher in Niesky, Ebersdorf (Reuss) and Herrnhut 1826-1834; administrator community Neudietendorf (Gotha) 1834-1843; missionary in Antigua 1847-1849, Paramaribo, Suriname 1849-1855; director of the community Berthelsdorf, Herrnhut 1855-1857, bishop ib. 1857-1864, consecrated 30 Aug 1857. (*Wullschlaegel*).
+Wullschlaegel, Heinrich Rudolph (1805-1864), German (Russian-born, Wolga-German in Moravian Brothers settlement Sarepta) teacher belonging to the Moravian Brothers; theological education at Gnadenfeld, Silesia; teacher in Niesky, Ebersdorf (Reuss) and Herrnhut 1826-1834; administrator community Neudietendorf (Gotha) 1834-1843; missionary in Antigua 1847-1849, Paramaribo, Suriname 1849-1855; director of the community Berthelsdorf, Herrnhut 1855-1857, bishop ib. 1857-1864, consecrated 30 Aug 1857. 
+**Abbreviated name**: *Wullschlaegel*
 
 #### Herbarium and types
 

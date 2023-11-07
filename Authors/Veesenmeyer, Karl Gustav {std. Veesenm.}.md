@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/item/103683#page/697/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/page/33212729) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Veesenmeyer, Karl Gustav (1814-1901), German physician, traveller and botanist; studied theology at Tübingen 1833-1834, 1836-1837; vicar on the Schwäbische Alp 1838; studied medicine at Heidelberg 1840-1842; Dr. med. ib. 1842; private physician to Sir Mervin Stuart in Ireland 1842-1844; id. with the Chowanski family from 1845 in Germany and Russia; state medical examination Kasan 1847; with Claus on an expedition around the Caspian Sea 1852; professor of medicine in Ulm 1853-1885, from 1866 also municipal librarian. (*Veesenm.*).
+Veesenmeyer, Karl Gustav (1814-1901), German physician, traveller and botanist; studied theology at Tübingen 1833-1834, 1836-1837; vicar on the Schwäbische Alp 1838; studied medicine at Heidelberg 1840-1842; Dr. med. ib. 1842; private physician to Sir Mervin Stuart in Ireland 1842-1844; id. with the Chowanski family from 1845 in Germany and Russia; state medical examination Kasan 1847; with Claus on an expedition around the Caspian Sea 1852; professor of medicine in Ulm 1853-1885, from 1866 also municipal librarian. 
+**Abbreviated name**: *Veesenm.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/item/103414#page/617/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33120700) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crouan, Hippolyte Marie {std. H. Crouan} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Crouan, Hippolyte Marie (1802-1871), French botanist and pharmacist at Brest. (*H. Crouan*).
+Crouan, Hippolyte Marie (1802-1871), French botanist and pharmacist at Brest. 
+**Abbreviated name**: *H. Crouan*
 
 #### Herbarium and types
 

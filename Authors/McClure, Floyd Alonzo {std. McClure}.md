@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/104137#page/231/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McClure, Floyd Alonzo (1897-1970), American economic botanist and taxonomist who resided in China, at Lingnan University Canton 1919-1940; from 1941 at the Smithsonian Institution, Washington, D.C., specialist on bamboo. (*McClure*).
+McClure, Floyd Alonzo (1897-1970), American economic botanist and taxonomist who resided in China, at Lingnan University Canton 1919-1940; from 1941 at the Smithsonian Institution, Washington, D.C., specialist on bamboo. 
+**Abbreviated name**: *McClure*
 
 #### Herbarium and types
 

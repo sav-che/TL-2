@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/item/103624#page/720/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33190177) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinsch, Paul Friedrich (1836-1914), German (Bavarian) botanist and palaeontologist; studied at Erlangen and München; high school teacher in Erlangen, Zweibrücken and Baselland; in early retirement at Erlangen. (*Reinsch*).
+Reinsch, Paul Friedrich (1836-1914), German (Bavarian) botanist and palaeontologist; studied at Erlangen and München; high school teacher in Erlangen, Zweibrücken and Baselland; in early retirement at Erlangen. 
+**Abbreviated name**: *Reinsch*
 
 #### Herbarium and types
 

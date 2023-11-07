@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/104137#page/318/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33355389) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marquand, Ernest David (1848-1918), British botanist of independent means; born on Guernsey; educated in New York; until 1888 in England; 1888-1910 mainly on Guernsey; ultimately in South Devon. (*Marquand*).
+Marquand, Ernest David (1848-1918), British botanist of independent means; born on Guernsey; educated in New York; until 1888 in England; 1888-1910 mainly on Guernsey; ultimately in South Devon. 
+**Abbreviated name**: *Marquand*
 
 #### Herbarium and types
 

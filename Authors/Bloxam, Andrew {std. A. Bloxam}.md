@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103859#page/234/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33265421) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bloxam, Andrew (1801-1878), British clergyman and naturalist, educated at Rugby school, studied at Worcester College, Oxford 1820, B.A. 1824, M.A. 1827, naturalist on the Blonde Frigate, took holy orders, perpetual curate of Twycross, Leicestershire 1839-1871 and rector of Harborough Magna, Warwickshire 1871-1878. (*A. Bloxam*).
+Bloxam, Andrew (1801-1878), British clergyman and naturalist, educated at Rugby school, studied at Worcester College, Oxford 1820, B.A. 1824, M.A. 1827, naturalist on the Blonde Frigate, took holy orders, perpetual curate of Twycross, Leicestershire 1839-1871 and rector of Harborough Magna, Warwickshire 1871-1878. 
+**Abbreviated name**: *A. Bloxam*
 
 #### Herbarium and types
 

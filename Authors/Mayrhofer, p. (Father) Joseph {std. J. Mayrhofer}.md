@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/104137#page/406/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mayrhofer, p. \[Father?\] Joseph (1831-1880), German botanist, "Conventual des Benedictinerstifter Weltenburg." (*J. Mayrhofer*).
+Mayrhofer, p. \[Father?\] Joseph (1831-1880), German botanist, "Conventual des Benedictinerstifter Weltenburg." 
+**Abbreviated name**: *J. Mayrhofer*
 
 #### Herbarium and types
 

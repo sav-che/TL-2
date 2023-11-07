@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/item/103683#page/201/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33212233) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, Thomas (1820-1910), Scottish-born American mycologist, chemist and microscopist; chief of the division of microscopy, USDA 1871-1895. (*T. Tayl.*).
+Taylor, Thomas (1820-1910), Scottish-born American mycologist, chemist and microscopist; chief of the division of microscopy, USDA 1871-1895. 
+**Abbreviated name**: *T. Tayl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103859#page/89/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33265276) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bentley, Henry Lewis (fl. 1898), American special agent of the United States Department of Agriculture in charge of grass experiments at Abilene, Texas ca. 1898-1901. (*H.L. Bentley*).
+Bentley, Henry Lewis (fl. 1898), American special agent of the United States Department of Agriculture in charge of grass experiments at Abilene, Texas ca. 1898-1901. 
+**Abbreviated name**: *H.L. Bentley*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/104137#page/409/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mead, Samuel Barnum (1798-1880), American botanist and physician; B. A. Yale 1820; from 1824-1835 practicing at Greenwich, Conn.; from 1833 at Augusta, 111. (*Mead*).
+Mead, Samuel Barnum (1798-1880), American botanist and physician; B. A. Yale 1820; from 1824-1835 practicing at Greenwich, Conn.; from 1833 at Augusta, 111. 
+**Abbreviated name**: *Mead*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/103414#page/309/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33120392) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bojer, Wenceslaus (Wencelaus) {std. Bojer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bojer, Wenceslas (Wenzel) (1797-1856), Czeck born naturalist and explorer who settled on Mauitius; director of the botanical garden at Port Louis. (*Bojer*).
+Bojer, Wenceslas (Wenzel) (1797-1856), Czeck born naturalist and explorer who settled on Mauitius; director of the botanical garden at Port Louis. 
+**Abbreviated name**: *Bojer*
 
 #### Herbarium and types
 

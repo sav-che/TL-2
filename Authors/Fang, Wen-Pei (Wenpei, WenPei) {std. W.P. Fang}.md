@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/item/103834#page/56/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33259538) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fang, Wen-Pei \[Wenpei, WenPei\] (1899-1983), Chinese botanist, born 12 Dec 1899 in Zhong Xian (e. Sichuan), primary and middle school education, Chung-Hsien, Szechuan prov. 1908-1918, studied, Natl. Southeastern Univ. (later Natl. Central Univ.), Nanking 1921-1926, research asst., Biol. Lab. of the Science Society of China, Nanking 1927, Szechuan exped. 1927, Mount Omei exped. 1928 and subsequent expeds. to w. China 1929, 1930 and 1932, studied Royal Botanic Garden, Edinburgh 1935-1937, Ph.D. 1937 Univ. of Edinburgh, rejoined Dept. of Botany at Szechuan Univ. 1937 and became chief prof. 1939-1942, died 30 Nov 1983 in Chengdu. (*W.P. Fang*).
+Fang, Wen-Pei \[Wenpei, WenPei\] (1899-1983), Chinese botanist, born 12 Dec 1899 in Zhong Xian (e. Sichuan), primary and middle school education, Chung-Hsien, Szechuan prov. 1908-1918, studied, Natl. Southeastern Univ. (later Natl. Central Univ.), Nanking 1921-1926, research asst., Biol. Lab. of the Science Society of China, Nanking 1927, Szechuan exped. 1927, Mount Omei exped. 1928 and subsequent expeds. to w. China 1929, 1930 and 1932, studied Royal Botanic Garden, Edinburgh 1935-1937, Ph.D. 1937 Univ. of Edinburgh, rejoined Dept. of Botany at Szechuan Univ. 1937 and became chief prof. 1939-1942, died 30 Nov 1983 in Chengdu. 
+**Abbreviated name**: *W.P. Fang*
 
 #### Herbarium and types
 

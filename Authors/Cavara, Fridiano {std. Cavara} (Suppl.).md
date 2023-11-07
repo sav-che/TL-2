@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103861#page/478/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266775) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cavara, Fridiano {std. Cavara}|first entry]] for this author
 
 ### Author
 
-\* Cavara, Fridiano (1857-1929), Italian botanist, studied at the University of Pavia, habil. bot. 1894, private teacher at the University of Pavia 1894-1896, called to the Forestry Academy of Vallombrosa 1896, extra-ordinary professor at Cagliari, Sardinia, 1900-1902, director of the Hortus botanicus and professor at the University of Catania, Sicily 1902, ordinary professor ib. 1903-1906, id. at Napoli 1906-1929. (*Cavara*).
+\* Cavara, Fridiano (1857-1929), Italian botanist, studied at the University of Pavia, habil. bot. 1894, private teacher at the University of Pavia 1894-1896, called to the Forestry Academy of Vallombrosa 1896, extra-ordinary professor at Cagliari, Sardinia, 1900-1902, director of the Hortus botanicus and professor at the University of Catania, Sicily 1902, ordinary professor ib. 1903-1906, id. at Napoli 1906-1929. 
+**Abbreviated name**: *Cavara*
 
 #### Herbarium and types
 

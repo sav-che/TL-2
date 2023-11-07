@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103834#page/239/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33259721) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Theobald (1846-1910), German geographer and explorer of s. Europe and n. Africa who was esp. interested in the economic botany of the latter region, born 31 Jan 1846 in Kirchsteitz nr. Zeitz (Thuringia), student, Univ. of Heidelberg, then Univ. of Halle, Dr. phil. 1868 Bonn, "Privatdozent", traveled in s. Europe, the "Orient" and N. Afr. 1868-1876, Bonn 1876, prof., Kiel 1879 and then Marburg 1883, died 17 Sep 1910 in Marburg. (*Th. Fisch.*).
+Fischer, Theobald (1846-1910), German geographer and explorer of s. Europe and n. Africa who was esp. interested in the economic botany of the latter region, born 31 Jan 1846 in Kirchsteitz nr. Zeitz (Thuringia), student, Univ. of Heidelberg, then Univ. of Halle, Dr. phil. 1868 Bonn, "Privatdozent", traveled in s. Europe, the "Orient" and N. Afr. 1868-1876, Bonn 1876, prof., Kiel 1879 and then Marburg 1883, died 17 Sep 1910 in Marburg. 
+**Abbreviated name**: *Th. Fisch.*
 
 #### Herbarium and types
 

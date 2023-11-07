@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/103861#page/67/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33266364) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brenchley, Winifred Elsie (1883-1953), British botanist, B.Sc. London Univ. 1905, collaborator 1907 and head of the Botanical Department of the Rothamsted Experimental Station 1907-1947. (*Brenchley*).
+Brenchley, Winifred Elsie (1883-1953), British botanist, B.Sc. London Univ. 1905, collaborator 1907 and head of the Botanical Department of the Rothamsted Experimental Station 1907-1947. 
+**Abbreviated name**: *Brenchley*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/103414#page/461/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33120544) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burman, Johannes (1707-1779), Dutch physician and botanist at Amsterdam, friend and correspondent of Linnaeus, professor of botany in Amsterdam at the *Hortus medicus* from 1728 onward, at the *Athenaeum illustre* 1755-1777. (*J. Burm.*).
+Burman, Johannes (1707-1779), Dutch physician and botanist at Amsterdam, friend and correspondent of Linnaeus, professor of botany in Amsterdam at the *Hortus medicus* from 1728 onward, at the *Athenaeum illustre* 1755-1777. 
+**Abbreviated name**: *J. Burm.*
 
 #### Herbarium and types
 

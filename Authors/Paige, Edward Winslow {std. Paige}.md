@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/item/103624#page/21/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33189508) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paige, Edward Winslow (1844-1918), American lawyer and botanist at New York; A.B. Union Coll. 1864; LL.D. Hobart Coll. 1887. (*Paige*).
+Paige, Edward Winslow (1844-1918), American lawyer and botanist at New York; A.B. Union Coll. 1864; LL.D. Hobart Coll. 1887. 
+**Abbreviated name**: *Paige*
 
 #### Herbarium and types
 

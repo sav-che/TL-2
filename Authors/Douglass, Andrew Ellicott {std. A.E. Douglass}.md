@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/103835#page/78/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33260056) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Douglass, Andrew Ellicott (1867-1962), American astronomer and dendrochronologist, born at Windsor, Vermont, 5 Jul 1867, A.B. Trinity College (Conn.) 1889, prof. in physics and astronomy Arizona 1906-1918, astronomy and dendrochronology from 1938, died 20 Mar 1962 at Tucson, Arizona. (*A.E. Douglass*).
+Douglass, Andrew Ellicott (1867-1962), American astronomer and dendrochronologist, born at Windsor, Vermont, 5 Jul 1867, A.B. Trinity College (Conn.) 1889, prof. in physics and astronomy Arizona 1906-1918, astronomy and dendrochronology from 1938, died 20 Mar 1962 at Tucson, Arizona. 
+**Abbreviated name**: *A.E. Douglass*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/103683#page/576/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33212608) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uhlworm, Oskar (1849-1929), German (Thüringen) librarian and botanical editor; librarian of the University Library of Leipzig 1880; director of the Murhard Library, Kassel, 1881-1901; head-librarian at the Royal Library Berlin 1901-1915 (from 1903 with professor's title) and in charge of the Deutsches Bureau für internationale Bibliographie). (*Uhlworm*).
+Uhlworm, Oskar (1849-1929), German (Thüringen) librarian and botanical editor; librarian of the University Library of Leipzig 1880; director of the Murhard Library, Kassel, 1881-1901; head-librarian at the Royal Library Berlin 1901-1915 (from 1903 with professor's title) and in charge of the Deutsches Bureau für internationale Bibliographie). 
+**Abbreviated name**: *Uhlworm*
 
 #### Herbarium and types
 

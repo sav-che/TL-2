@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/104077#page/611/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siim-Jensen, Johannes (1870-1921), Danish pharmacist; Dr. phil. Marburg 1900; librarian at the Pharmaceutical School in Copenhagen as well as pharmacist at the military hospital. (*Siim-Jensen*).
+Siim-Jensen, Johannes (1870-1921), Danish pharmacist; Dr. phil. Marburg 1900; librarian at the Pharmaceutical School in Copenhagen as well as pharmacist at the military hospital. 
+**Abbreviated name**: *Siim-Jensen*
 
 #### Herbarium and types
 

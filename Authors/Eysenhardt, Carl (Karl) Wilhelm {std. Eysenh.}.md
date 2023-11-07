@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103835#page/461/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33260439) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eysenhardt, Carl (Karl) Wilhelm (1794-1825), German physician, zoologist and botanist, born 21 Jan 1794 at Berlin, became professor extraordinarius at Königsberg in 1822, died 25 Dec 1825. (*Eysenh.*).
+Eysenhardt, Carl (Karl) Wilhelm (1794-1825), German physician, zoologist and botanist, born 21 Jan 1794 at Berlin, became professor extraordinarius at Königsberg in 1822, died 25 Dec 1825. 
+**Abbreviated name**: *Eysenh.*
 
 #### Herbarium and types
 

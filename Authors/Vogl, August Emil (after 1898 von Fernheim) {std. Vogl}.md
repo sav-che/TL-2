@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/item/103683#page/779/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33212811) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogl, August Emil \[after 1898: von Fernheim\] (1833-1909), Austrian (Moravian-born) pharmacologist and botanist; studied medicine in Vienna 1854, military surgeon in the Austro-Italian war; Dr. med. Wien; assistant with C. von Ettingshausen with the chair of natural history at the Josefinum(k.k. Josefsakademie) ca. 1862-1866; habil. univ. Wien 1864; regular military physician 1866, librarian at the Josefinum 1867, assistant at the state chemical laboratory 1869; professor of botany and zoology at the Prague Polytechnic 1870; ordinary professor of pharmacology Univ. Wien 1874. (*Vogl*).
+Vogl, August Emil \[after 1898: von Fernheim\] (1833-1909), Austrian (Moravian-born) pharmacologist and botanist; studied medicine in Vienna 1854, military surgeon in the Austro-Italian war; Dr. med. Wien; assistant with C. von Ettingshausen with the chair of natural history at the Josefinum(k.k. Josefsakademie) ca. 1862-1866; habil. univ. Wien 1864; regular military physician 1866, librarian at the Josefinum 1867, assistant at the state chemical laboratory 1869; professor of botany and zoology at the Prague Polytechnic 1870; ordinary professor of pharmacology Univ. Wien 1874. 
+**Abbreviated name**: *Vogl*
 
 #### Herbarium and types
 

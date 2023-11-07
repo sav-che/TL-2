@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/item/104137#page/881/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33355952) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Overeem \[-de Haas\], Casper van (1893-1927), Dutch mycologist; Ph. D. Zürich 1920; at Buitenzorg (Bogor) 1921-1927 as mycological assistant at the Herbarium bogoriense. (*Overeem*).
+Overeem \[-de Haas\], Casper van (1893-1927), Dutch mycologist; Ph. D. Zürich 1920; at Buitenzorg (Bogor) 1921-1927 as mycological assistant at the Herbarium bogoriense. 
+**Abbreviated name**: *Overeem*
 
 #### Herbarium and types
 

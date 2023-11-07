@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103253#page/388/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Humbert, Henri (1887-1967), French botanist and botanical traveller at Paris, explorer of Madagascar. (*Humbert*).
+Humbert, Henri (1887-1967), French botanist and botanical traveller at Paris, explorer of Madagascar. 
+**Abbreviated name**: *Humbert*
 
 #### Herbarium and types
 

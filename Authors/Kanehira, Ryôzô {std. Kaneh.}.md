@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/item/103253#page/519/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33068735) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kanehira, Ryôzô, (1882-1948), Japanese botanist, director of the Department of Forestry, Formosa, later at Fukuoka. (*Kaneh.*).
+Kanehira, Ryôzô, (1882-1948), Japanese botanist, director of the Department of Forestry, Formosa, later at Fukuoka. 
+**Abbreviated name**: *Kaneh.*
 
 #### Herbarium and types
 

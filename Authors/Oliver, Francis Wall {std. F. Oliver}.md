@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/104137#page/844/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33355915) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oliver, Francis Wall (1864-1951), British ecologist and palaeobotanist; lecturer in (1888) and professor (1890-1929) at University College, London; professor of botany at Cairo University 1929-1935; son of Daniel Oliver. (*F. Oliver*).
+Oliver, Francis Wall (1864-1951), British ecologist and palaeobotanist; lecturer in (1888) and professor (1890-1929) at University College, London; professor of botany at Cairo University 1929-1935; son of Daniel Oliver. 
+**Abbreviated name**: *F. Oliver*
 
 #### Herbarium and types
 

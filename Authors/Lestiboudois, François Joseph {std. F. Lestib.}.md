@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/item/103253#page/880/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lestiboudois, François Joseph (x-1815), French botanist at Lille, son of Jean Baptiste Lestiboudois. (*F. Lestib.*).
+Lestiboudois, François Joseph (x-1815), French botanist at Lille, son of Jean Baptiste Lestiboudois. 
+**Abbreviated name**: *F. Lestib.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/item/104077#page/502/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33333627) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Segura, José Carmen (1846-1906), Mexican botanist and agricultural engineer; studied at the Escuela de Agricultura, Mexico; in the Mexican army as technical engineer 1870-1876; later teaching at agricultural schools and employed by the Mexican government in various administrative and advisory capacities. (*Segura*).
+Segura, José Carmen (1846-1906), Mexican botanist and agricultural engineer; studied at the Escuela de Agricultura, Mexico; in the Mexican army as technical engineer 1870-1876; later teaching at agricultural schools and employed by the Mexican government in various administrative and advisory capacities. 
+**Abbreviated name**: *Segura*
 
 #### Herbarium and types
 

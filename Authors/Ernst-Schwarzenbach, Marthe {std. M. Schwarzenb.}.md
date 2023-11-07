@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/item/103835#page/418/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33260396) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ernst-Schwarzenbach, Marthe (1900-1967), Swiss botanist born 24 Jan 1900 in Kilchberg (as Marthe Schwarzenbach), visited the gymnasium at Zürich and started in 1920 her study of natural sciences in Geneva, came back to Zürich and finished her study in 1924, Dr. sci. in 1926, was teacher for 3 years and went to the Kaiser-Wilhelm-Institut in Müncheberg (Brandenburg) in 1929 but returned the same year to Zürich and married Alfred Ernst (1930), visited Indonesia in 1930, studied genetics of cryptogams and floral biology, died 27 Aug 1967. (*M. Schwarzenb.*).
+Ernst-Schwarzenbach, Marthe (1900-1967), Swiss botanist born 24 Jan 1900 in Kilchberg (as Marthe Schwarzenbach), visited the gymnasium at Zürich and started in 1920 her study of natural sciences in Geneva, came back to Zürich and finished her study in 1924, Dr. sci. in 1926, was teacher for 3 years and went to the Kaiser-Wilhelm-Institut in Müncheberg (Brandenburg) in 1929 but returned the same year to Zürich and married Alfred Ernst (1930), visited Indonesia in 1930, studied genetics of cryptogams and floral biology, died 27 Aug 1967. 
+**Abbreviated name**: *M. Schwarzenb.*
 
 #### Herbarium and types
 

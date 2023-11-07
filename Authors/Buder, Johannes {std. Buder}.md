@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103861#page/215/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33266512) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buder, Johannes (1884-1966), German botanist, born and educated in Berlin, studied with Pfeffer in Leipzig, assistant ib. 1910, private lecturer (habilitation) ib. 1911, extraordinary professor succeeding Hugo Miehe ib. 1917, director of the Botanical Garden of the Leipzig University 1921-1922, ordinary professor at Greifswald 1922, idem at the University of Breslau and director of its Botanical Garden 1928, in charge of the Botanische Anstalten of Halle 1947. (*Buder*).
+Buder, Johannes (1884-1966), German botanist, born and educated in Berlin, studied with Pfeffer in Leipzig, assistant ib. 1910, private lecturer (habilitation) ib. 1911, extraordinary professor succeeding Hugo Miehe ib. 1917, director of the Botanical Garden of the Leipzig University 1921-1922, ordinary professor at Greifswald 1922, idem at the University of Breslau and director of its Botanical Garden 1928, in charge of the Botanische Anstalten of Halle 1947. 
+**Abbreviated name**: *Buder*
 
 #### Herbarium and types
 

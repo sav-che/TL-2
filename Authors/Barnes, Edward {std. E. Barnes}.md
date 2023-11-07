@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103858#page/344/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265059) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barnes, Edward (c. 1892-1941), British Indian chemist, professor of chemistry, Madras Christian College, in addition interest in botany, collected in South India. (*E. Barnes*).
+Barnes, Edward (c. 1892-1941), British Indian chemist, professor of chemistry, Madras Christian College, in addition interest in botany, collected in South India. 
+**Abbreviated name**: *E. Barnes*
 
 #### Herbarium and types
 

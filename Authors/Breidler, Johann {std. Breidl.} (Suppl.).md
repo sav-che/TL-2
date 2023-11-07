@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103861#page/60/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33266357) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Breidler, Johann {std. Breidl.}|first entry]] for this author
 
 ### Author
 
-\* Breidler, Johann (1828-1913), Austrian architect and botanist, born in Leoben, educated at the "Volksschule" and a continuation school, "Hauptschule", from 1843-1849 at the Joanneum (technical college) at Graz, at the Royal School of architecture in Berlin 1849-1852, architect at Leoben but spending most of his time on botany, working often with Jakob Juratzka, specializing in bryology, from 1896 living at Graz. (*Breidl.*).
+\* Breidler, Johann (1828-1913), Austrian architect and botanist, born in Leoben, educated at the "Volksschule" and a continuation school, "Hauptschule", from 1843-1849 at the Joanneum (technical college) at Graz, at the Royal School of architecture in Berlin 1849-1852, architect at Leoben but spending most of his time on botany, working often with Jakob Juratzka, specializing in bryology, from 1896 living at Graz. 
+**Abbreviated name**: *Breidl.*
 
 #### Herbarium and types
 

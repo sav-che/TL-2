@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103253#page/249/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33068465) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hochstetter, Christian Gottlob Ferdinand (Ritter) von (1829-1884), German geologist and naturalist; Dr. phil. Tübingen 1852; in Vienna at the Geol. Reichsanstalt (1852-1857); on the Novara expedition (1857-1859); son of C. F. Hochstetter; in New Zealand 1859; professor of geology at the Vienna polytechnic 1860-1876, from 1876-1884 "Intendant" (director) of the k.k. Naturhistorische Hofmuseum; later working mainly on prehistory and ethnology. (*C. G. F. Hochst.*).
+Hochstetter, Christian Gottlob Ferdinand (Ritter) von (1829-1884), German geologist and naturalist; Dr. phil. Tübingen 1852; in Vienna at the Geol. Reichsanstalt (1852-1857); on the Novara expedition (1857-1859); son of C. F. Hochstetter; in New Zealand 1859; professor of geology at the Vienna polytechnic 1860-1876, from 1876-1884 "Intendant" (director) of the k.k. Naturhistorische Hofmuseum; later working mainly on prehistory and ethnology. 
+**Abbreviated name**: *C. G. F. Hochst.*
 
 #### Herbarium and types
 

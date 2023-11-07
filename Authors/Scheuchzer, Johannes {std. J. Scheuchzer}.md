@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/104077#page/155/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33333280) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheuchzer, Johannes (1684-1738), Swiss botanist at Zürich; brother of J.J. Scheuchzer. (*J. Scheuchzer*).
+Scheuchzer, Johannes (1684-1738), Swiss botanist at Zürich; brother of J.J. Scheuchzer. 
+**Abbreviated name**: *J. Scheuchzer*
 
 #### Herbarium and types
 
@@ -25,7 +26,7 @@ AG 6(2): 935; Backer p. 515; Barnhart 3: 227 (b. 20 Mar 1684, d. 8 Mar 1738); BM
 
 #### Eponymy
 
-*Scheuchzeria* Linnaeus (1753).
+*Scheuchzeria* Linnaeus (1753) [^1].
 
 #### Handwriting
 
@@ -60,4 +61,7 @@ Savage, S., Cat. Linn. herb. fig. 70. 1945; J.E. Dandy, The Sloane herbarium, fa
 **Notes**
 *Publ*.: 1719, p. \[i\*, t.p.\], \[sign. x5-x3, i-xxxviii\], 1-512, *pl. 1-11* (copp. D. Herrliberger), *pl. 1-8* (copp., J.H. Huber), Ttt1-Xxx4 \[1-24\]. *Copies*: BR, FI, G, H, HH, KNAW, M, MICH, MO, NSW, NY, USDA. – The set of 8 folded plates is identical with that in the Agrostogr. helv. prodr., 1708; this set is often lacking.
 *Later ed*.: 1775, see TL-2/2314, A. von Haller, *Agrostographia*, additional copies seen BR, FI, H, HH, M, MICH, MO, PH, USDA.
+
+[^1]: "*Scheuchzeria* L. 1753 (Scheuchzeriaceae) \[is dedicated to\] Johannes Scheuchzer (1684–1738), Swiss physician in Zurich, professor of physics, wrote about grasses in Switzerland **and** his brother Johann Jacob Scheuchzer (1672–1733) Swiss physician, professor of mathematics (Linnaeus, 1737: 96)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

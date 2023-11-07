@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103859#page/94/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33265281) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berg, Eugen (1875-?), German (Ludwigsburg in Württemberg) pharmacist, educated at the Royal Lyceum in Ludwigsburg (x-1893), pharmaceutical training in Stuttgart 1893-1896, studied pharmacy at the University of Erlangen 1896-1899, pharmaceutic license, Dr. phil. ib. 1896 as student of Max Reess. (*Eug. Berg*).
+Berg, Eugen (1875-?), German (Ludwigsburg in Württemberg) pharmacist, educated at the Royal Lyceum in Ludwigsburg (x-1893), pharmaceutical training in Stuttgart 1893-1896, studied pharmacy at the University of Erlangen 1896-1899, pharmaceutic license, Dr. phil. ib. 1896 as student of Max Reess. 
+**Abbreviated name**: *Eug. Berg*
 
 #### Herbarium and types
 

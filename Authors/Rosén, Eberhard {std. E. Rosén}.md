@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/item/103624#page/901/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosén, Eberhard (knighted 1770: Rosenblad)(1714-1796), Swedish physician and botanist; Dr. med. Uppsala 1741 (under N. Rosén); professor of medicine and anatomy at Lund 1744-1784. (*E. Rosén*).
+Rosén, Eberhard (knighted 1770: Rosenblad)(1714-1796), Swedish physician and botanist; Dr. med. Uppsala 1741 (under N. Rosén); professor of medicine and anatomy at Lund 1744-1784. 
+**Abbreviated name**: *E. Rosén*
 
 #### Herbarium and types
 

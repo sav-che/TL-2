@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 991](https://www.biodiversitylibrary.org/item/103624#page/1005/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 991](https://www.biodiversitylibrary.org/page/33190462) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rupp, Herman Montague Rucker (1872-1956), Australian botanist; B.A. Univ. Melbourne 1897; ord. minister church of England 1899; serving in various parishes in Victoria, Tasmania and New South Wales; amateur orchidologist; Clarke Medal, Royal Society NSW 1949. (*Rupp*).
+Rupp, Herman Montague Rucker (1872-1956), Australian botanist; B.A. Univ. Melbourne 1897; ord. minister church of England 1899; serving in various parishes in Victoria, Tasmania and New South Wales; amateur orchidologist; Clarke Medal, Royal Society NSW 1949. 
+**Abbreviated name**: *Rupp*
 
 #### Herbarium and types
 

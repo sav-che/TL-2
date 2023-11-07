@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/item/103860#page/535/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33266202) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cutler, Manasseh (1742-1823), American clergyman, botanist and collector, born at Killingly, Connecticut, studied at Yale 1761, AB 1765, began to teach school 1766, AM 1768, L.L.D. 1794, AM Harvard 1770, ordained pastor of the Church at Ipswich, Mass. 1771, made excursions as a preacher through New England, elected member American Academy of Arts and Sciences 1781. (*M. Cutler*).
+Cutler, Manasseh (1742-1823), American clergyman, botanist and collector, born at Killingly, Connecticut, studied at Yale 1761, AB 1765, began to teach school 1766, AM 1768, L.L.D. 1794, AM Harvard 1770, ordained pastor of the Church at Ipswich, Mass. 1771, made excursions as a preacher through New England, elected member American Academy of Arts and Sciences 1781. 
+**Abbreviated name**: *M. Cutler*
 
 #### Herbarium and types
 

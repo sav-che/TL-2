@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/item/103253#page/734/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33068950) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kurz, Wilhelm Sulpiz (1834-1878), German botanist in the Dutch East Indian army 1856 (as "Johann Amann"); 1859-1863 at Buitenzorg (Bogor); from 1864 curator of the herbarium at Calcutta. (*Kurz*).
+Kurz, Wilhelm Sulpiz (1834-1878), German botanist in the Dutch East Indian army 1856 (as "Johann Amann"); 1859-1863 at Buitenzorg (Bogor); from 1864 curator of the herbarium at Calcutta. 
+**Abbreviated name**: *Kurz*
 
 #### Herbarium and types
 

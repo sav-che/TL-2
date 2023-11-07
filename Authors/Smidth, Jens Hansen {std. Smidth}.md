@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/item/104077#page/672/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smidth, Jens Hansen (1769-1847), Danish botanist and clergyman at Aastrup (Falster). (*Smidth*).
+Smidth, Jens Hansen (1769-1847), Danish botanist and clergyman at Aastrup (Falster). 
+**Abbreviated name**: *Smidth*
 
 #### Herbarium and types
 

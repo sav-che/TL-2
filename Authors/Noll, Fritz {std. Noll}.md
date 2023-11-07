@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/item/104137#page/779/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33355850) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noll, Fritz (1858-1908), German botanist; Dr. phil. Heidelberg 1883 (with Pfitzer), assistant Heidelberg 1882-1886; assistant with J. Sachs at Würzburg 1887-1889; assistant and lecturer with Strasburger at Bonn 1889-1894; lecturer and professor (1897, 1898) of botany at the agriculture college of Poppelsdorf 1894-1908; professor of botany at Halle 1907-1908; prominent plant physiologist. (*Noll*).
+Noll, Fritz (1858-1908), German botanist; Dr. phil. Heidelberg 1883 (with Pfitzer), assistant Heidelberg 1882-1886; assistant with J. Sachs at Würzburg 1887-1889; assistant and lecturer with Strasburger at Bonn 1889-1894; lecturer and professor (1897, 1898) of botany at the agriculture college of Poppelsdorf 1894-1908; professor of botany at Halle 1907-1908; prominent plant physiologist. 
+**Abbreviated name**: *Noll*
 
 #### Herbarium and types
 

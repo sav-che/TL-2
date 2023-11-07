@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/item/103858#page/356/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33265071) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bartholomew, Elbert Thomas (1878-?), American (Kansas born) botanist, son of Elam Bartholomew, worked on the family farm until 1899, school-teacher 1899-1902, at Kansas State Normal College 1902-1910, fellow and assistant 1906-1909, assistant professor of botany 1909-1910, at the University of Wisconsin, assistant and instructor in botany 1910-1915, assistant professor in botany ib. 1915-1920, assistant professor of plant pathology, Citrus Exper. Sta. (Calif.) 1920-1925, associate plant pathologist 1925-?. (*E.T. Barth.*).
+Bartholomew, Elbert Thomas (1878-?), American (Kansas born) botanist, son of Elam Bartholomew, worked on the family farm until 1899, school-teacher 1899-1902, at Kansas State Normal College 1902-1910, fellow and assistant 1906-1909, assistant professor of botany 1909-1910, at the University of Wisconsin, assistant and instructor in botany 1910-1915, assistant professor in botany ib. 1915-1920, assistant professor of plant pathology, Citrus Exper. Sta. (Calif.) 1920-1925, associate plant pathologist 1925-?. 
+**Abbreviated name**: *E.T. Barth.*
 
 #### Herbarium and types
 

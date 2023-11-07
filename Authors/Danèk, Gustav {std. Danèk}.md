@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103833#page/58/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33259092) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Danèk, Gustav (fl. 1912), Czech botanist at the Botanical Institute of the k.k. böhmische Universität in Prague. (*Danèk*).
+Danèk, Gustav (fl. 1912), Czech botanist at the Botanical Institute of the k.k. böhmische Universität in Prague. 
+**Abbreviated name**: *Danèk*
 
 #### Herbarium and types
 

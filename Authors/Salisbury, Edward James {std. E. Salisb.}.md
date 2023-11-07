@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/104077#page/16/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33333181) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salisbury, Edward James (1886-1978), English botanist; Dr. phil. Univ. College, London; senior lecturer at Queen Mary College, Univ. London; with Univ. College, London 1918-1943, ultimately as Quain professor of botany; director Royal Botanic Gardens Kew 1943-1956; knighted 1946. (*E. Salisb.*).
+Salisbury, Edward James (1886-1978), English botanist; Dr. phil. Univ. College, London; senior lecturer at Queen Mary College, Univ. London; with Univ. College, London 1918-1943, ultimately as Quain professor of botany; director Royal Botanic Gardens Kew 1943-1956; knighted 1946. 
+**Abbreviated name**: *E. Salisb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/103683#page/510/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Troeltzsch, Georgius Christianus (*fl*. 1751), German (Bavarian) physician; Dr. med. Erlangen 1751. (*Troeltzsch*).
+Troeltzsch, Georgius Christianus (*fl*. 1751), German (Bavarian) physician; Dr. med. Erlangen 1751. 
+**Abbreviated name**: *Troeltzsch*
 
 #### Herbarium and types
 

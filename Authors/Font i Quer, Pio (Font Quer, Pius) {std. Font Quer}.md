@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/item/103414#page/900/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33120983) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Font Quer, Pio(afterwards Font i Quer, Pius) {std. Font Quer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Font i Quer, Pio \[Font Quer, Pius\] (1888-1964), Catalonian botanist. (*Font Quer*).
+Font i Quer, Pio \[Font Quer, Pius\] (1888-1964), Catalonian botanist. 
+**Abbreviated name**: *Font Quer*
 
 #### Herbarium and types
 

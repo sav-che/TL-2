@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/item/103253#page/803/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33069019) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leandro do Sacramento (1778-1829), Brazilian botanist; calced Carmelite (White Friar); director of the Rio de Janeiro botanical garden; Dr. phil. Coimbra 1806. (*Leandro*).
+Leandro do Sacramento (1778-1829), Brazilian botanist; calced Carmelite (White Friar); director of the Rio de Janeiro botanical garden; Dr. phil. Coimbra 1806. 
+**Abbreviated name**: *Leandro*
 
 #### Herbarium and types
 

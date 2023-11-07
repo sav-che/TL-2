@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103624#page/163/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pena, Pierre (*fl*. 1520-1600), French botanist and physician; collaborated with L'Obel at Montpellier (1565) and in England 1566-1572); from then onward practicing physician in France, ultimately as chief physician of Henri III. (*Pena*).
+Pena, Pierre (*fl*. 1520-1600), French botanist and physician; collaborated with L'Obel at Montpellier (1565) and in England 1566-1572); from then onward practicing physician in France, ultimately as chief physician of Henri III. 
+**Abbreviated name**: *Pena*
 
 #### Herbarium and types
 

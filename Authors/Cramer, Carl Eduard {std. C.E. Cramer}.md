@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/item/103414#page/611/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33120694) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cramer, Carl Eduard {std. C.E. Cramer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cramer, Carl Eduard (1831-1901), Swiss algologist, professor of botany at Zürich. (*C. Cramer*).
+Cramer, Carl Eduard (1831-1901), Swiss algologist, professor of botany at Zürich. 
+**Abbreviated name**: *C. Cramer*
 
 #### Herbarium and types
 

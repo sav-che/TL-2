@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/item/103253#page/805/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lebour, Marie Victoria (*fl*. 1925), British naturalist, for some time at the laboratory of the Marine Biological Association of the United Kingdom, Plymouth. (*M. Lebour*).
+Lebour, Marie Victoria (*fl*. 1925), British naturalist, for some time at the laboratory of the Marine Biological Association of the United Kingdom, Plymouth. 
+**Abbreviated name**: *M. Lebour*
 
 #### Collections
 

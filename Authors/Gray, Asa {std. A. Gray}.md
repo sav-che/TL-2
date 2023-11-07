@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/item/103414#page/1031/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gray, Asa {std. A. Gray} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gray, Asa (1810-1888), American botanist at Harvard University. (*A. Gray*).
+Gray, Asa (1810-1888), American botanist at Harvard University. 
+**Abbreviated name**: *A. Gray*
 
 #### Herbarium, types and original manuscripts, archives, correspondence
 

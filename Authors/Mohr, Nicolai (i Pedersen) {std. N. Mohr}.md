@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/item/104137#page/561/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33355632) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mohr, Nicolai (i Pedersen) (1742-1790), Faeroes-born Danish botanist; visited Iceland 1780, Groenland 1787; employed by the Royal Danish China factory. (*N. Mohr*).
+Mohr, Nicolai (i Pedersen) (1742-1790), Faeroes-born Danish botanist; visited Iceland 1780, Groenland 1787; employed by the Royal Danish China factory. 
+**Abbreviated name**: *N. Mohr*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103253#page/288/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33068504) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holtermann, Carl (1866-1923), Norwegian-born German botanist; travelled in the old tropics 1895/96; later professor of botany at Berlin University. (*Holterm.*).
+Holtermann, Carl (1866-1923), Norwegian-born German botanist; travelled in the old tropics 1895/96; later professor of botany at Berlin University. 
+**Abbreviated name**: *Holterm.*
 
 #### Herbarium and types
 

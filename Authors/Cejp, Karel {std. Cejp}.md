@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/item/103414#page/524/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33120607) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cejp, Karel {std. Cejp} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cejp, Karel (1900-x), Czeck mycologist and botanical bibliographer. (*Cejp*).
+Cejp, Karel (1900-x), Czeck mycologist and botanical bibliographer. 
+**Abbreviated name**: *Cejp*
 
 #### Herbarium and types
 

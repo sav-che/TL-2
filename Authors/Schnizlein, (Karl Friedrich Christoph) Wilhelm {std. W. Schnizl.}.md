@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/104077#page/297/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33333422) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schnizlein, \[Karl Friedrich Christoph\] Wilhelm (1780-1856), German (Bavarian) botanist and magistrate; lived some time (ca. 1806) in Austria, later "Landgerichtsarzt" (law court physician) at Monheim and Erlangen; associate of E.G. von Steudel through the Esslinger Reiseverein; father of Adalbert Schnizlein. (*W. Schnizl.*).
+Schnizlein, \[Karl Friedrich Christoph\] Wilhelm (1780-1856), German (Bavarian) botanist and magistrate; lived some time (ca. 1806) in Austria, later "Landgerichtsarzt" (law court physician) at Monheim and Erlangen; associate of E.G. von Steudel through the Esslinger Reiseverein; father of Adalbert Schnizlein. 
+**Abbreviated name**: *W. Schnizl.*
 
 #### Herbarium and types
 

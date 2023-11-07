@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/item/103414#page/892/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33120975) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fleischer, (Richard Paul) Max {std. M. Fleisch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fleischer, Max (1861-1930), German painter, bryologist and traveller. (*M. Fleisch.*).
+Fleischer, Max (1861-1930), German painter, bryologist and traveller. 
+**Abbreviated name**: *M. Fleisch.*
 
 #### Herbarium and types
 

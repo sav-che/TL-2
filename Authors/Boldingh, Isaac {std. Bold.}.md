@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103414#page/310/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33120393) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boldingh, Isaäc {std. Bold.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boldingh, Isaac (1879-1938), Dutch botanist who worked on the flora of the Netherlands West Indies. (*Boldingh*).
+Boldingh, Isaac (1879-1938), Dutch botanist who worked on the flora of the Netherlands West Indies. 
+**Abbreviated name**: *Boldingh*
 
 #### Herbarium and types
 

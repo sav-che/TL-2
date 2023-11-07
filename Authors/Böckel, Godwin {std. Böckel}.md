@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103859#page/255/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33265442) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Böckel, Godwin (fl. 1853-1867), German botanist of the Oldenburg and Bremen flora, published later on heredity. (*Böckel*).
+Böckel, Godwin (fl. 1853-1867), German botanist of the Oldenburg and Bremen flora, published later on heredity. 
+**Abbreviated name**: *Böckel*
 
 #### Herbarium and types
 

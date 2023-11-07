@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103860#page/80/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33265747) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cheel, Edwin (1872-1951) British (Kent) born botanist, horticulturist and forester, moved early to Australia, worked as a gardener in Queensland and Sydney, appointed to the staff of Centennial Park 1897, later at Sydney Botanic Gardens, on the botanical staff of the National Herbarium at Sydney 1908, chief botanist and curator 1933-1936, retired 1936 (*Cheel*).
+Cheel, Edwin (1872-1951) British (Kent) born botanist, horticulturist and forester, moved early to Australia, worked as a gardener in Queensland and Sydney, appointed to the staff of Centennial Park 1897, later at Sydney Botanic Gardens, on the botanical staff of the National Herbarium at Sydney 1908, chief botanist and curator 1933-1936, retired 1936 
+**Abbreviated name**: *Cheel*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/103414#page/309/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33120392) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boissieu, (Jean Marie Antoine Gustave) Henri de {std. H. Boissieu} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boissieu, Henri de (1871-1912), French botanist. (*H. Boissieu*).
+Boissieu, Henri de (1871-1912), French botanist. 
+**Abbreviated name**: *H. Boissieu*
 
 #### Herbarium and types
 

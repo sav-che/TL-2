@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/item/104077#page/868/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33333993) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stebbing, Edward Percy (1870-1960), British botanist, zoologist and forester; in the Indian Forest Service 1893-1906; forest zoologist at the Forest Research Institute, Dehra Dun 1906-1910; lecturer in forestry, Edinburgh University 1910-1920, professor id. 1920-1951. (*Stebbing*).
+Stebbing, Edward Percy (1870-1960), British botanist, zoologist and forester; in the Indian Forest Service 1893-1906; forest zoologist at the Forest Research Institute, Dehra Dun 1906-1910; lecturer in forestry, Edinburgh University 1910-1920, professor id. 1920-1951. 
+**Abbreviated name**: *Stebbing*
 
 #### Herbarium and types
 

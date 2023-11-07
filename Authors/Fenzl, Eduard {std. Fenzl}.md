@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/item/103414#page/871/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/page/33120954) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fenzl, Eduard {std. Fenzl} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fenzl, Eduard (1808-1879), Austrian botanist, curator of the collections of the Vienna botanical museum, later "kaiserlicher Regierungsrath", professor of botany and director of the botanic garden. (*Fenzl*).
+Fenzl, Eduard (1808-1879), Austrian botanist, curator of the collections of the Vienna botanical museum, later "kaiserlicher Regierungsrath", professor of botany and director of the botanic garden. 
+**Abbreviated name**: *Fenzl*
 
 #### Herbarium and types
 

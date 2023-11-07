@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103861#page/473/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33266770) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cattley, William (1788-1835), British (very rich) businessman and horticulturist at Barnet nr. London, enthusiastic collector of orchids and tropical plants, patron of John Lindley, member of the Royal Horticultural Society and the Linnean Society, had a rich collection of drawings of plants, died 8 Aug 1835. (*W. Cattley*).
+Cattley, William (1788-1835), British (very rich) businessman and horticulturist at Barnet nr. London, enthusiastic collector of orchids and tropical plants, patron of John Lindley, member of the Royal Horticultural Society and the Linnean Society, had a rich collection of drawings of plants, died 8 Aug 1835. 
+**Abbreviated name**: *W. Cattley*
 
 #### Herbarium and types
 

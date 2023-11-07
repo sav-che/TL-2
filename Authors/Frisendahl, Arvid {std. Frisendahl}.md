@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103832#page/55/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33258483) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frisendahl, Arvid (1886-1965), Swedish botanist, born 24 \[25?\] Jun 1886 in Piteå, fil. kand. 1907, fil. lic. 1910 and Dr. phil. 1912, all Uppsala Univ., adjunct for biology and chemistry in Göteborg 1917, lector in 1919, died 29 Jan 1965 in Uppsala. (*Frisendahl*).
+Frisendahl, Arvid (1886-1965), Swedish botanist, born 24 \[25?\] Jun 1886 in Piteå, fil. kand. 1907, fil. lic. 1910 and Dr. phil. 1912, all Uppsala Univ., adjunct for biology and chemistry in Göteborg 1917, lector in 1919, died 29 Jan 1965 in Uppsala. 
+**Abbreviated name**: *Frisendahl*
 
 #### Herbarium and types
 

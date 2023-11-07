@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103861#page/61/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33266358) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breistroffer, Maurice \[André Frantz\] (1910-1986), French botanist at Grenoble, Licensié ès Sciences naturelles, curator of the Laboratory of Geology at the University of Grenoble and auxiliary collaborator with the "Centre national de la Recherche scientifique appliquée" at Grenoble, specialized in geobotany and systematics of the flora of the Dauphiné. (*Breistr.*).
+Breistroffer, Maurice \[André Frantz\] (1910-1986), French botanist at Grenoble, Licensié ès Sciences naturelles, curator of the Laboratory of Geology at the University of Grenoble and auxiliary collaborator with the "Centre national de la Recherche scientifique appliquée" at Grenoble, specialized in geobotany and systematics of the flora of the Dauphiné. 
+**Abbreviated name**: *Breistr.*
 
 #### Herbarium and types
 

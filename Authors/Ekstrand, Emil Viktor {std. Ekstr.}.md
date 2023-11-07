@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103835#page/308/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33260286) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ekstrand, Emil Viktor (1841-1884), Swedish botanist, born 21 Jan 1841 at Kalmar, studied at Uppsala from 1860, phil. dr. at Uppsala 1880, died 10 Nov 1884 Uppsala. (*Ekstr.*).
+Ekstrand, Emil Viktor (1841-1884), Swedish botanist, born 21 Jan 1841 at Kalmar, studied at Uppsala from 1860, phil. dr. at Uppsala 1880, died 10 Nov 1884 Uppsala. 
+**Abbreviated name**: *Ekstr.*
 
 #### Herbarium and types
 

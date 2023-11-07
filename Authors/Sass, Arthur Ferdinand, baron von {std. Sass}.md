@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/104077#page/77/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sass, Arthur Ferdinand, baron von (1837-1870), Estonian (Baltic German) agronomist, land-owner, naturalist and botanist on the Island of Oesel (Saare, Estonia). (*Sass*).
+Sass, Arthur Ferdinand, baron von (1837-1870), Estonian (Baltic German) agronomist, land-owner, naturalist and botanist on the Island of Oesel (Saare, Estonia). 
+**Abbreviated name**: *Sass*
 
 #### Herbarium and types
 

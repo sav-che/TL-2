@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103835#page/345/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33260323) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emoto, Yoshikadzu (1892-x), Japanese botanist, working at the biological section, Tokyo National research institute of cultural properties, specialist on Myxomycetes, mycology, and bacteriology, studied some time with H. Molisch in Austria. (*Emoto*).
+Emoto, Yoshikadzu (1892-x), Japanese botanist, working at the biological section, Tokyo National research institute of cultural properties, specialist on Myxomycetes, mycology, and bacteriology, studied some time with H. Molisch in Austria. 
+**Abbreviated name**: *Emoto*
 
 #### Herbarium and types
 

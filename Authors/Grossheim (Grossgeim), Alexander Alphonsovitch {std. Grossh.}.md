@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/103832#page/425/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33258891) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grossheim \[Grossgeim\], Alexander \[Aleksandr\] Alphonsovitch \[Alfonsovich\] (1888-1948), Ukrainian-born Soviet botanist, born 6 Mar 1888 in Lichovka nr. Verchnedneprovsk, Ekaterinoslav (from 1926 Dnipropetrovsk), educated at Karkov, Moscow and Tiflis (Tibilisi), worked at Tiflis Botanic Garden, Baku 1929-1946 and then in Leningrad 1946-1948, died 4 Dec 1948 in Leningrad. (*Grossh.*).
+Grossheim \[Grossgeim\], Alexander \[Aleksandr\] Alphonsovitch \[Alfonsovich\] (1888-1948), Ukrainian-born Soviet botanist, born 6 Mar 1888 in Lichovka nr. Verchnedneprovsk, Ekaterinoslav (from 1926 Dnipropetrovsk), educated at Karkov, Moscow and Tiflis (Tibilisi), worked at Tiflis Botanic Garden, Baku 1929-1946 and then in Leningrad 1946-1948, died 4 Dec 1948 in Leningrad. 
+**Abbreviated name**: *Grossh.*
 
 #### Note
 

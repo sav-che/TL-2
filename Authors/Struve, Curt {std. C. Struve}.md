@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103683#page/64/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33212058) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Struve, Curt (*fl*. 1872), German botanist; high school teacher at Sorau. (*C. Struve*).
+Struve, Curt (*fl*. 1872), German botanist; high school teacher at Sorau. 
+**Abbreviated name**: *C. Struve*
 
 #### Herbarium and types
 

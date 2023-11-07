@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/104137#page/25/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33355118) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lickleder, Max (1826-1893), German Benedictine clergyman; ordained Metten 1851; high school teacher and bryologist at the Studien-Anstalt Metten. (*Lickl.*).
+Lickleder, Max (1826-1893), German Benedictine clergyman; ordained Metten 1851; high school teacher and bryologist at the Studien-Anstalt Metten. 
+**Abbreviated name**: *Lickl.*
 
 #### Herbarium and types
 

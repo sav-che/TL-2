@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/item/103250#page/407/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33066687) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilmott, Alfred James (1888-1950), British botanist; MA Cambridge; assistant Botany Dept., Brit. Mus. (Nat. Hist.) 1911-1931, deputy keeper 1931-1950. (*A. Wilm.*).
+Wilmott, Alfred James (1888-1950), British botanist; MA Cambridge; assistant Botany Dept., Brit. Mus. (Nat. Hist.) 1911-1931, deputy keeper 1931-1950. 
+**Abbreviated name**: *A. Wilm.*
 
 #### Herbarium and types
 

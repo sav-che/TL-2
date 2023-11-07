@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103414#page/295/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33120378) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boehmer, Georg Rudolf {std. Boehm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boehmer, Georg Rudolph (1723-1803), German botanist at the University of Wittenberg. (*Boehmer*).
+Boehmer, Georg Rudolph (1723-1803), German botanist at the University of Wittenberg. 
+**Abbreviated name**: *Boehmer*
 
 #### Herbarium and types
 

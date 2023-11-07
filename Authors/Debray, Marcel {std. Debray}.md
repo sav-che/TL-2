@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103833#page/144/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259178) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Debray, Marcel (fl. 1923-1971), French botanist, working in Le Havre mostly on the flora of the French coast. (*Debray*).
+Debray, Marcel (fl. 1923-1971), French botanist, working in Le Havre mostly on the flora of the French coast. 
+**Abbreviated name**: *Debray*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/103414#page/309/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33120392) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boivin, Louis Hyacinthe {std. Boivin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boivin, Louis Hyacinthe (1808-1852), French botanist and plant collector, especially active on the islands in the Indian Ocean (*Boivin*).
+Boivin, Louis Hyacinthe (1808-1852), French botanist and plant collector, especially active on the islands in the Indian Ocean 
+**Abbreviated name**: *Boivin*
 
 #### Herbarium and types
 

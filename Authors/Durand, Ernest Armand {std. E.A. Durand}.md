@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/item/103414#page/755/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33120838) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durand, Ernest Armand (1872-1910), French botanist, grandson of Cosson. (*E. A. Durand*).
+Durand, Ernest Armand (1872-1910), French botanist, grandson of Cosson. 
+**Abbreviated name**: *E. A. Durand*
 
 #### Herbarium and types
 

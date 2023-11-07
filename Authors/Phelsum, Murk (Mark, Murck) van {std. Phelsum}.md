@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103624#page/245/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phelsum, Murk \[Mark, Murck\] van (*fl*. 1769, d. ca. 1780), Dutch naturalist; Dr. med. Franeker 1755; practicing physician at Sneek, Friesland, from 1764. (*Phelsum*).
+Phelsum, Murk \[Mark, Murck\] van (*fl*. 1769, d. ca. 1780), Dutch naturalist; Dr. med. Franeker 1755; practicing physician at Sneek, Friesland, from 1764. 
+**Abbreviated name**: *Phelsum*
 
 #### Herbarium and types
 

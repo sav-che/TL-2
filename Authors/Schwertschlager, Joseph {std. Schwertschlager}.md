@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/104077#page/463/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33333588) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwertschlager, Joseph (1853-1924), German (Bavarian) geologist, botanist, high school teacher and clergyman; ordained 1877; town chaplain of Monheim ca. 1877-1880; studied philosophy and natural sciences at Würzburg; Dr. phil. ib. 1882; professor of natural sciences at the episcopal Lyceum of Eichstätt 1882-1923. (*Schwertschlager*).
+Schwertschlager, Joseph (1853-1924), German (Bavarian) geologist, botanist, high school teacher and clergyman; ordained 1877; town chaplain of Monheim ca. 1877-1880; studied philosophy and natural sciences at Würzburg; Dr. phil. ib. 1882; professor of natural sciences at the episcopal Lyceum of Eichstätt 1882-1923. 
+**Abbreviated name**: *Schwertschlager*
 
 #### Herbarium and types
 

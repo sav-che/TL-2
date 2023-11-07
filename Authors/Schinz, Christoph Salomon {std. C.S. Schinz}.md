@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/104077#page/188/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schinz, Christoph Salomon (1764-1847), Swiss physician and botanist at Zürich; Dr. med. Göttingen 1787; practicing physician at Zürich 1787, from 1812-1834 professor of medicine at the Zürich "Carolinum"; later at the university; librarian of the "Naturforschende Gesellschaft, Zürich 1792-1837. (*C.S. Schinz*).
+Schinz, Christoph Salomon (1764-1847), Swiss physician and botanist at Zürich; Dr. med. Göttingen 1787; practicing physician at Zürich 1787, from 1812-1834 professor of medicine at the Zürich "Carolinum"; later at the university; librarian of the "Naturforschende Gesellschaft, Zürich 1792-1837. 
+**Abbreviated name**: *C.S. Schinz*
 
 #### Herbarium and types
 

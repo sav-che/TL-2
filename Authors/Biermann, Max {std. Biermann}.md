@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103859#page/170/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33265357) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Biermann, Max (fl. 1896), German pharmacist at Bünde in Westphalia, Dr. phil. Bern 1896. (*Biermann*).
+Biermann, Max (fl. 1896), German pharmacist at Bünde in Westphalia, Dr. phil. Bern 1896. 
+**Abbreviated name**: *Biermann*
 
 #### Herbarium and types
 

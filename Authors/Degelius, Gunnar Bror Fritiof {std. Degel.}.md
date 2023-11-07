@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/103414#page/658/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Degelius, Gunnar Bror Fritiof {std. Degel.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Degelius, Gunnar Bror Fritiof (1903-x), Swedish botanist. (*Degel.*).
+Degelius, Gunnar Bror Fritiof (1903-x), Swedish botanist. 
+**Abbreviated name**: *Degel.*
 
 #### Herbarium and types
 

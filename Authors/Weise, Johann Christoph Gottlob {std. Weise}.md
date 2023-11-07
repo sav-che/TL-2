@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103250#page/222/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weise, Johann Christoph Gottlob (1762-1840), German (Sachsen-Weimar) engineer, geographer and garden inspector at Weimar; with the military school at Dresden ca. 1793-1801; surveyor for the French army on the battlefield of Jena 1806; in charge of the military library of the Duke of Jena 1807; inspector of the ducal gardens from 1811. (*Weise*).
+Weise, Johann Christoph Gottlob (1762-1840), German (Sachsen-Weimar) engineer, geographer and garden inspector at Weimar; with the military school at Dresden ca. 1793-1801; surveyor for the French army on the battlefield of Jena 1806; in charge of the military library of the Duke of Jena 1807; inspector of the ducal gardens from 1811. 
+**Abbreviated name**: *Weise*
 
 #### Herbarium and types
 

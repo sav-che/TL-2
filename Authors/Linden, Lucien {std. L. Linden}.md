@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/104137#page/62/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33355095) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linden, Lucien (1851-1940), Belgian horticulturist, son of J. J. Linden, (*L. Linden*).
+Linden, Lucien (1851-1940), Belgian horticulturist, son of J. J. Linden, 
+**Abbreviated name**: *L. Linden*
 
 #### Herbarium and types
 

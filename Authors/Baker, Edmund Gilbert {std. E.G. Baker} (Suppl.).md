@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103858#page/287/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265002) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baker, Edmund Gilbert {std. E.G. Baker}|first entry]] for this author
 
 ### Author
 
-\* Baker, Edmund Gilbert (1864-1949), British (Yorkshire) botanist, educated at the Pharmaceutical College, London, assistant, later assistant keeper, Department of Botany BM(NH) 1887-1924, collected in N. Africa and Europe; son of John Gilbert Baker. (*E.G. Baker*).
+\* Baker, Edmund Gilbert (1864-1949), British (Yorkshire) botanist, educated at the Pharmaceutical College, London, assistant, later assistant keeper, Department of Botany BM(NH) 1887-1924, collected in N. Africa and Europe; son of John Gilbert Baker. 
+**Abbreviated name**: *E.G. Baker*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/item/104137#page/675/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Muller, (Pierre) Félix (Müller) (1818-1896), Belgian botanist. (*F. Mull.*).
+Muller, (Pierre) Félix (Müller) (1818-1896), Belgian botanist. 
+**Abbreviated name**: *F. Mull.*
 
 #### Herbarium and types
 

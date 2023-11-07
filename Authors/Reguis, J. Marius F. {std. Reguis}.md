@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/item/103624#page/664/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33190121) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reguis, J. Marius F. (1850-?), French physician and mycologist at Allauch nr Marseille, later at Avignon. (*Reguis*).
+Reguis, J. Marius F. (1850-?), French physician and mycologist at Allauch nr Marseille, later at Avignon. 
+**Abbreviated name**: *Reguis*
 
 #### Herbarium and types
 

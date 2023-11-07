@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/item/104137#page/872/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33355943) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Osterhout, George Everett (1858-1937), American lumberman and amateur botanist; collected in Colorado between 1893 and 1930. (*Osterh.*).
+Osterhout, George Everett (1858-1937), American lumberman and amateur botanist; collected in Colorado between 1893 and 1930. 
+**Abbreviated name**: *Osterh.*
 
 #### Herbarium and types
 

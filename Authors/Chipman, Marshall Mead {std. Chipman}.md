@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103860#page/120/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33265787) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chipman, Marshall Mead (x-1899), American botanist, died 16 October 1899, San Diego, California, MD of Med. College Pacif. 1876 (*Chipman*).
+Chipman, Marshall Mead (x-1899), American botanist, died 16 October 1899, San Diego, California, MD of Med. College Pacif. 1876 
+**Abbreviated name**: *Chipman*
 
 #### Herbarium and types
 

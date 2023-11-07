@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/item/104137#page/323/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33355394) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marshall, \[Rev.\] Edward Shearburn (1858-1919), British clergyman and botanist; M. A. Oxford 1884, ord. 1885; vicar of Milford, Surrey 1890-1900; rector of West Monkton, Som. 1904-1918. (*E. Marsh.*).
+Marshall, \[Rev.\] Edward Shearburn (1858-1919), British clergyman and botanist; M. A. Oxford 1884, ord. 1885; vicar of Milford, Surrey 1890-1900; rector of West Monkton, Som. 1904-1918. 
+**Abbreviated name**: *E. Marsh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/item/103253#page/850/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33069066) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lehr, Georg Philipp (1756-1807), German physician at Frankfurt a. Main; Dr. med. Goett. 1799. (*Lehr*).
+Lehr, Georg Philipp (1756-1807), German physician at Frankfurt a. Main; Dr. med. Goett. 1799. 
+**Abbreviated name**: *Lehr*
 
 #### Herbarium and types
 

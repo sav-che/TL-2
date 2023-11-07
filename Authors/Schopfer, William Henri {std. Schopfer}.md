@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/104077#page/316/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33333441) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schopfer, William Henri (1900-1962), Swiss botanist and microbiologist; student of R. Chodat, Genève; Dr. phil. Genève 1928; lecturer in plant physiology at Genève 1929-1933; professor of botany and director of the botanical garden of Bern University 1933-1962. (*Schopfer*).
+Schopfer, William Henri (1900-1962), Swiss botanist and microbiologist; student of R. Chodat, Genève; Dr. phil. Genève 1928; lecturer in plant physiology at Genève 1929-1933; professor of botany and director of the botanical garden of Bern University 1933-1962. 
+**Abbreviated name**: *Schopfer*
 
 #### Herbarium and types
 

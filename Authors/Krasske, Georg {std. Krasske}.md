@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/item/103253#page/690/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krasske, Georg (1889-1951), German diatomologist; teacher at the Volksschule Wattenbach near Kassel 1908-1913; later at Kassel, from 1923-1951 as high school teacher at the middle school for boys. (*Krasske*).
+Krasske, Georg (1889-1951), German diatomologist; teacher at the Volksschule Wattenbach near Kassel 1908-1913; later at Kassel, from 1923-1951 as high school teacher at the middle school for boys. 
+**Abbreviated name**: *Krasske*
 
 #### Herbarium and types
 

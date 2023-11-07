@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/104137#page/413/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33355484) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meehan, Thomas (1826-1901), British-born nurseryman; Kew gardener 1846-1848; from 1853 at Germantown (Philadelphia). (*Meehan*).
+Meehan, Thomas (1826-1901), British-born nurseryman; Kew gardener 1846-1848; from 1853 at Germantown (Philadelphia). 
+**Abbreviated name**: *Meehan*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103860#page/257/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33265924) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coester, Carl (fl. 1894), German botanist born at Neuhof, studied in Erlangen, Dr. Sci. 1894. (*Coester*).
+Coester, Carl (fl. 1894), German botanist born at Neuhof, studied in Erlangen, Dr. Sci. 1894. 
+**Abbreviated name**: *Coester*
 
 #### Herbarium and types
 

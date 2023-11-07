@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/item/103624#page/342/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33189799) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Polgár, Sándor (1876-1944), Hungarian lichenologist; Dr. phil. Budapest 1913. (*Polg.*).
+Polgár, Sándor (1876-1944), Hungarian lichenologist; Dr. phil. Budapest 1913. 
+**Abbreviated name**: *Polg.*
 
 #### Herbarium and types
 

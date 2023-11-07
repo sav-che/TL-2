@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/item/104137#page/835/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33355906) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oliva, Leonardo (1805-1873), Mexican botanist and pharmacologist. (*Oliva*).
+Oliva, Leonardo (1805-1873), Mexican botanist and pharmacologist. 
+**Abbreviated name**: *Oliva*
 
 #### Herbarium and types
 

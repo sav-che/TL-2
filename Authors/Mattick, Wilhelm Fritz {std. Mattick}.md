@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/104137#page/387/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33355458) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mattick, Wilhelm Fritz (1901-x), German lichenologist; student of O. Drude and F. Tobler; Dr. rer. techn. Dresden 1927; assistant Technische Hochschule Dresden 1927-1932; assistant at Berlin-Dahlem 1932-1945; at Staatsstelle f. Vegetationskartierung, Stolzenau/Weser 1946-1947; from 1947 again at Berlin-Dahlem, 1947-1953 assistant, 1953-1964 "Kustos," 1964-1966 "Wiss. Oberrath"; professor of plant geography Freie Univ. 1958; in retirement still working at Berlin-Dahlem (1980).(*Mattick*).
+Mattick, Wilhelm Fritz (1901-x), German lichenologist; student of O. Drude and F. Tobler; Dr. rer. techn. Dresden 1927; assistant Technische Hochschule Dresden 1927-1932; assistant at Berlin-Dahlem 1932-1945; at Staatsstelle f. Vegetationskartierung, Stolzenau/Weser 1946-1947; from 1947 again at Berlin-Dahlem, 1947-1953 assistant, 1953-1964 "Kustos," 1964-1966 "Wiss. Oberrath"; professor of plant geography Freie Univ. 1958; in retirement still working at Berlin-Dahlem (1980).
+**Abbreviated name**: *Mattick*
 
 #### Herbarium and types
 

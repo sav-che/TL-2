@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/item/103832#page/439/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33258905) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gruber, Eduard A. (fl. 1896), German phycologist, "aus Freiburg. i. B." (i.e. Freiburg im Breisgau, just N of Basel in Switzerland), doctorate 1896 Univ. of Basel. (*E. Gruber*).
+Gruber, Eduard A. (fl. 1896), German phycologist, "aus Freiburg. i. B." (i.e. Freiburg im Breisgau, just N of Basel in Switzerland), doctorate 1896 Univ. of Basel. 
+**Abbreviated name**: *E. Gruber*
 
 #### Herbarium and types
 

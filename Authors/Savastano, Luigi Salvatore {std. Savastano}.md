@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/104077#page/96/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33333221) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savastano, Luigi Salvatore (1853- ?), Italian botanist and phytopathologist; assistant at the botanical garden of the R. Scuola superiore d'Agricoltura Portici, nr Napoli. (*Savastano*).
+Savastano, Luigi Salvatore (1853- ?), Italian botanist and phytopathologist; assistant at the botanical garden of the R. Scuola superiore d'Agricoltura Portici, nr Napoli. 
+**Abbreviated name**: *Savastano*
 
 #### Herbarium and types
 

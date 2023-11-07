@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103253#page/34/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33068250) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hänlein, Friedrich Hermann (1851-?), German botanist and microbiologist; born at Reinsdorf nr. Waldheim; studied at Leipzig under Luerssen. (*Hänlein*).
+Hänlein, Friedrich Hermann (1851-?), German botanist and microbiologist; born at Reinsdorf nr. Waldheim; studied at Leipzig under Luerssen. 
+**Abbreviated name**: *Hänlein*
 
 #### Herbarium and types
 

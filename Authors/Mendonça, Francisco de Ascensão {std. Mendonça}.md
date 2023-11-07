@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/104137#page/429/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33355500) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mendonça, Francisco de Ascensão (1889-?), Portuguese botanist; specialist on Capparidaceae and Malvaceae; travelled in Angola 1927, 1937, 1955, in Moçambique 1942-1948. (*Mendonça*).
+Mendonça, Francisco de Ascensão (1889-?), Portuguese botanist; specialist on Capparidaceae and Malvaceae; travelled in Angola 1927, 1937, 1955, in Moçambique 1942-1948. 
+**Abbreviated name**: *Mendonça*
 
 #### Herbarium and types
 

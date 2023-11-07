@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/item/103414#page/641/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33120724) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalton, James, senior (1764-1843), British clergyman and botanist at Croft, Yorkshire. (*James Dalton*).
+Dalton, James, senior (1764-1843), British clergyman and botanist at Croft, Yorkshire. 
+**Abbreviated name**: *James Dalton*
 
 #### Herbarium and types
 

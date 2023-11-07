@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103832#page/168/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33258634) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gay, Hippolyte (fl. 1882-1909), French botanist and secondary school teacher in Algeria (1882-?), holding positions at the Collège du Blida, Collège de Médéa (1888, at least) and in Crescia (Khraicia). (*H. Gay*).
+Gay, Hippolyte (fl. 1882-1909), French botanist and secondary school teacher in Algeria (1882-?), holding positions at the Collège du Blida, Collège de Médéa (1888, at least) and in Crescia (Khraicia). 
+**Abbreviated name**: *H. Gay*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/item/103683#page/149/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33212181) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Symons, Jelinger (1778-1851), British clergyman and botanist; M.A. Cantab. 1797; curate Whitbarn, Durham, and rector Radnage 1833-1851. (*Symons*).
+Symons, Jelinger (1778-1851), British clergyman and botanist; M.A. Cantab. 1797; curate Whitbarn, Durham, and rector Radnage 1833-1851. 
+**Abbreviated name**: *Symons*
 
 #### Herbarium and types
 

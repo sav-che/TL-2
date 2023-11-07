@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103833#page/225/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259259) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Derick, (Miss) Carrie Matilda (1862-x), Canadian plant morphologist and plant geneticist, born 14 Jan 1862, Clarenceville, Quebec, Canada, A.B. McGill 1890, A.M. 1896, Woods Hole 1895-1897, 1900, Royal Col. Sci. London 1898, Bonn 1901-1902, demonstrator bot. McGill 1891-95, lecturer 1896-1904, asst. prof. 1904-1907. (*C.M. Derick*).
+Derick, (Miss) Carrie Matilda (1862-x), Canadian plant morphologist and plant geneticist, born 14 Jan 1862, Clarenceville, Quebec, Canada, A.B. McGill 1890, A.M. 1896, Woods Hole 1895-1897, 1900, Royal Col. Sci. London 1898, Bonn 1901-1902, demonstrator bot. McGill 1891-95, lecturer 1896-1904, asst. prof. 1904-1907. 
+**Abbreviated name**: *C.M. Derick*
 
 #### Herbarium and types
 

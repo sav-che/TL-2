@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/104077#page/42/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33333129) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sande Lacoste, Cornelius Marinus van der (1815-1887), Dutch botanist (bryologist); Dr. med. Utrecht 1843; practicing physician at Amsterdam from 1843, dedicating himself, however, more and more to botany; co-founder of the Nederlandse Botanische Vereniging. (*Sande Lac.*).
+Sande Lacoste, Cornelius Marinus van der (1815-1887), Dutch botanist (bryologist); Dr. med. Utrecht 1843; practicing physician at Amsterdam from 1843, dedicating himself, however, more and more to botany; co-founder of the Nederlandse Botanische Vereniging. 
+**Abbreviated name**: *Sande Lac.*
 
 #### Herbarium and types
 

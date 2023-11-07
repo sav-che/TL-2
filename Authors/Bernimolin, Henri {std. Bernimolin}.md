@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103859#page/121/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265308) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bernimolin, Henri (fl. 1883), Belgian engineer and botanist, director of the technical school at Tournay. (*Bernimolin*).
+Bernimolin, Henri (fl. 1883), Belgian engineer and botanist, director of the technical school at Tournay. 
+**Abbreviated name**: *Bernimolin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103859#page/351/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265538) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bormann, Johannes \[Eberhard\] (1906-x), German botanist, born at Charlottenburg, educated in Hamburg, final examination of the secondary school in Hamburg 1925, at the University of Hamburg 1925-1929 and 1933-1934, for botany with teachers Winkler, Klebahn, Irmscher and Bredemann, "Staatsprüfung" for highschool teacher 1929, "Studienassessor" in the Hamburg schools, last at the Wilhelm-Gymnasium, from 1935 assistant with H.K.A. Winkler at the Institute for general botany at Hamburg. (*J. Bormann*).
+Bormann, Johannes \[Eberhard\] (1906-x), German botanist, born at Charlottenburg, educated in Hamburg, final examination of the secondary school in Hamburg 1925, at the University of Hamburg 1925-1929 and 1933-1934, for botany with teachers Winkler, Klebahn, Irmscher and Bredemann, "Staatsprüfung" for highschool teacher 1929, "Studienassessor" in the Hamburg schools, last at the Wilhelm-Gymnasium, from 1935 assistant with H.K.A. Winkler at the Institute for general botany at Hamburg. 
+**Abbreviated name**: *J. Bormann*
 
 #### Herbarium and types
 

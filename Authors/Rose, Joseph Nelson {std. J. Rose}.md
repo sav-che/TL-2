@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/item/103624#page/898/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33190355) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rose, Joseph Nelson (1862-1928), American botanist; Dr. phil. Wabash, student of J.M. Coulter; assistant botanist USDA, Washington 1888-1896; assistant curator for botany at the Smithsonian Institution 1896-1905; associate curator ib. 1905-1912 and 1923-1928; research associate of the Carnegie Institution of Washington to work on the Cactaceae of the world with N.L. Britton 1912-1923; collected extensively in Mexico, the Central and Southwestern United States and South America; co-author, with N.L. Britton, of the treatments of Leguminosae for the North American Flora. (*J. Rose*).
+Rose, Joseph Nelson (1862-1928), American botanist; Dr. phil. Wabash, student of J.M. Coulter; assistant botanist USDA, Washington 1888-1896; assistant curator for botany at the Smithsonian Institution 1896-1905; associate curator ib. 1905-1912 and 1923-1928; research associate of the Carnegie Institution of Washington to work on the Cactaceae of the world with N.L. Britton 1912-1923; collected extensively in Mexico, the Central and Southwestern United States and South America; co-author, with N.L. Britton, of the treatments of Leguminosae for the North American Flora. 
+**Abbreviated name**: *J. Rose*
 
 #### Herbarium and types
 

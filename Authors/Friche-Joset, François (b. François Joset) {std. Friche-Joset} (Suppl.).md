@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103832#page/21/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33258517) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Friche-Joset, François {std. Friche-Joset}|first entry]] for this author
 
 ### Author
 
-\* Friche-Joset, François \[b. François Joset\] (1799-1846), French-born Swiss horticulturist, born 27 Mai 1799 in Courfaivre (Mont-Terrrible, France, now Ct. Jura, Switzerland), successively at Soleure, Delémont, Porrentruy 1832-ca. 1841 and Altkirch where he died on 14 Dec 1846. (*Friche-Joset*).
+\* Friche-Joset, François \[b. François Joset\] (1799-1846), French-born Swiss horticulturist, born 27 Mai 1799 in Courfaivre (Mont-Terrrible, France, now Ct. Jura, Switzerland), successively at Soleure, Delémont, Porrentruy 1832-ca. 1841 and Altkirch where he died on 14 Dec 1846. 
+**Abbreviated name**: *Friche-Joset*
 
 #### Bibliography and biography
 

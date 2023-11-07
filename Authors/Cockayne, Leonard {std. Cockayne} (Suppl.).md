@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/103860#page/243/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33265910) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cockayne, Leonard {std. Cockayne}|first entry]] for this author
 
 ### Author
 
-\* Cockayne, Leonard (1855-1934), British born botanist, studied at Owen's College Manchester 1872-1874, travelled to Australia 1876, school master in Queensland, moved to New Zealand about 1880, schoolmaster in the Taieri, collected plants for his garden, started publishing on botany from 1898, in Christchurch 1904-1914, living at Wellington 1914-1934. (*Cockayne*).
+\* Cockayne, Leonard (1855-1934), British born botanist, studied at Owen's College Manchester 1872-1874, travelled to Australia 1876, school master in Queensland, moved to New Zealand about 1880, schoolmaster in the Taieri, collected plants for his garden, started publishing on botany from 1898, in Christchurch 1904-1914, living at Wellington 1914-1934. 
+**Abbreviated name**: *Cockayne*
 
 #### Herbarium and types
 

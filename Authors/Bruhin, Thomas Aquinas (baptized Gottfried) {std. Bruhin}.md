@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103861#page/165/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33266462) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruhin, Thomas Aquinas (baptized Gottfried) (1835-1896), Swiss catholic priest of the order of St. Benedict (O.S.B.), active at Mehrerau near Bregenz, Vorarlberg, Austria 1866, St. Gerold nr. Bludenz, id. 1868-1869, in the U.S. 1869-1885, at Neu-Cöln, Wisconsin 1869-1875, Centreville, Wisconsin 1875-1877, Potosi-Grant Co., Wisconsin 1877-1881, Columbus, Ohio 1881-1885, Thun, Switzerland 1885-1889, in retirement pastor at Basel. (*Bruhin*).
+Bruhin, Thomas Aquinas (baptized Gottfried) (1835-1896), Swiss catholic priest of the order of St. Benedict (O.S.B.), active at Mehrerau near Bregenz, Vorarlberg, Austria 1866, St. Gerold nr. Bludenz, id. 1868-1869, in the U.S. 1869-1885, at Neu-Cöln, Wisconsin 1869-1875, Centreville, Wisconsin 1875-1877, Potosi-Grant Co., Wisconsin 1877-1881, Columbus, Ohio 1881-1885, Thun, Switzerland 1885-1889, in retirement pastor at Basel. 
+**Abbreviated name**: *Bruhin*
 
 #### Herbarium and types
 

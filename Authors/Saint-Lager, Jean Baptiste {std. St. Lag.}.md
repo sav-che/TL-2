@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1073](https://www.biodiversitylibrary.org/item/103624#page/1087/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1073](https://www.biodiversitylibrary.org/page/33190544) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saint-Lager, Jean Baptiste (1825-1912), French physician, botanist, botanical historian and bibliographer at Lyon; laureat École de Médecine Lyon 1847; Dr. med. Paris 1850; practicing physician at Lyon 1850-1862; from 1862 private scientist, travelling for botanical and medical studies 1862-1890; one of the founders of the Société botanique de Lyon; librarian of the Société linnéenne de Lyon and the Société botanique de Lyon until 1911 and of the Palais des Arts. (*St. Lag.*).
+Saint-Lager, Jean Baptiste (1825-1912), French physician, botanist, botanical historian and bibliographer at Lyon; laureat École de Médecine Lyon 1847; Dr. med. Paris 1850; practicing physician at Lyon 1850-1862; from 1862 private scientist, travelling for botanical and medical studies 1862-1890; one of the founders of the Société botanique de Lyon; librarian of the Société linnéenne de Lyon and the Société botanique de Lyon until 1911 and of the Palais des Arts. 
+**Abbreviated name**: *St. Lag.*
 
 #### Herbarium and types
 

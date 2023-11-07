@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/item/104137#page/517/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/page/33355588) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Millspaugh, Charles Frederick (1854-1923), American physician and botanist; M. D. New York Med. coll. 1881; practicing physician at Binghamton, N.Y. 1881-1890, and Waverly, N.Y. 1890-1891; professor of botany Univ. W. Virginia 1891-1894; from 1894 at Chicago (Field Museum, Chicago University Medical College). (*Millsp.*).
+Millspaugh, Charles Frederick (1854-1923), American physician and botanist; M. D. New York Med. coll. 1881; practicing physician at Binghamton, N.Y. 1881-1890, and Waverly, N.Y. 1890-1891; professor of botany Univ. W. Virginia 1891-1894; from 1894 at Chicago (Field Museum, Chicago University Medical College). 
+**Abbreviated name**: *Millsp.*
 
 #### Herbarium and types
 

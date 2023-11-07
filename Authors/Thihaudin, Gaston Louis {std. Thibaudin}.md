@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103683#page/266/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thihaudin, Gaston Louis (1727-1776), fictitious French explorer and botanist, said to have been sent to Cuba, Chile and Peru by Louis XVI in 1776 to collect medicinal plants that could be naturalized in France. (*Thibaudin*).
+Thihaudin, Gaston Louis (1727-1776), fictitious French explorer and botanist, said to have been sent to Cuba, Chile and Peru by Louis XVI in 1776 to collect medicinal plants that could be naturalized in France. 
+**Abbreviated name**: *Thibaudin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103859#page/168/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33265355) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bidwill, John Carne (1815-1853), English born botanist who emigrated to Australia, arrived in Sydney 1838, travelled and collected in New Zealand 1839-1844, returned to Sydney 1844, accompanied J.D. Hooker around Port Jackson, temporary government botanist and director of the Botanic Gardens, Sydney 1847-1848, Commissioner of Crown Lands for the Wide Bay District, Queensland 1848-1853. (*Bidwill*).
+Bidwill, John Carne (1815-1853), English born botanist who emigrated to Australia, arrived in Sydney 1838, travelled and collected in New Zealand 1839-1844, returned to Sydney 1844, accompanied J.D. Hooker around Port Jackson, temporary government botanist and director of the Botanic Gardens, Sydney 1847-1848, Commissioner of Crown Lands for the Wide Bay District, Queensland 1848-1853. 
+**Abbreviated name**: *Bidwill*
 
 #### Herbarium and types
 

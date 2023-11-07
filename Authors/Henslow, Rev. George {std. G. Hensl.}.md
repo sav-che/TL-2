@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103253#page/188/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henslow, Rev. George (1835-1925), British clergyman, B. A. Cambridge 1858; teacher, popular writer and lecturer; son of J. S. Henslow; brother-in-law of J. D. Hooker; curate of Steyning, Sussex (1858-1861); headmaster of Hampton Lucy Grammar School 1861-1865, id. at London, Stove Street, 1865-1886; lecturer to St. Bartholomew's medical school (1886-1890); hon. professor of botany to the Royal Horticultural Society. (*G. Hensl.*).
+Henslow, Rev. George (1835-1925), British clergyman, B. A. Cambridge 1858; teacher, popular writer and lecturer; son of J. S. Henslow; brother-in-law of J. D. Hooker; curate of Steyning, Sussex (1858-1861); headmaster of Hampton Lucy Grammar School 1861-1865, id. at London, Stove Street, 1865-1886; lecturer to St. Bartholomew's medical school (1886-1890); hon. professor of botany to the Royal Horticultural Society. 
+**Abbreviated name**: *G. Hensl.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/item/103414#page/179/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33120262) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartram, John {std. J. Bartram} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bartram, John (1699-1777), American pioneer botanist, Quaker, founder of the first botanical garden in America near Philadelphia in 1728, sent many living plants to England, "the earliest native-born American botanist." (*J. Bartram*).
+Bartram, John (1699-1777), American pioneer botanist, Quaker, founder of the first botanical garden in America near Philadelphia in 1728, sent many living plants to England, "the earliest native-born American botanist." 
+**Abbreviated name**: *J. Bartram*
 
 #### Herbarium
 

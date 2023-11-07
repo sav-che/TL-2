@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103832#page/201/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33258667) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gerke, Otto (1873-1946?), German botanist, born 2 Feb 1873 in Oberscheden, Ph.D. 1900 Erlangen, based in Hannover. (*Gerke*).
+Gerke, Otto (1873-1946?), German botanist, born 2 Feb 1873 in Oberscheden, Ph.D. 1900 Erlangen, based in Hannover. 
+**Abbreviated name**: *Gerke*
 
 #### Herbarium and types
 

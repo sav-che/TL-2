@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/item/103414#page/154/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33120237) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bakhuizen van den Brink (Jr.), Reinier Cornelis {std. Bakh. f.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bakhuizen van den Brink, Reinier Cornelis Jr. (1911-x), Dutch botanist. (*Bakh. f.*).
+Bakhuizen van den Brink, Reinier Cornelis Jr. (1911-x), Dutch botanist. 
+**Abbreviated name**: *Bakh. f.*
 
 #### Herbarium and types
 

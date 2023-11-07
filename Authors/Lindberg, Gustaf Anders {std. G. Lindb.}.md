@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/104137#page/45/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33355078) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindberg, Gustaf Anders (1832-1900), Swedish botanist and city treasurer at Stockholm; travelled in Brazil with A. F. Regnell (1854-1855); brother of S. O. Lindberg; specialist on *Rhipsalis*. (*G. Lindb.*).
+Lindberg, Gustaf Anders (1832-1900), Swedish botanist and city treasurer at Stockholm; travelled in Brazil with A. F. Regnell (1854-1855); brother of S. O. Lindberg; specialist on *Rhipsalis*. 
+**Abbreviated name**: *G. Lindb.*
 
 #### Herbarium and types
 

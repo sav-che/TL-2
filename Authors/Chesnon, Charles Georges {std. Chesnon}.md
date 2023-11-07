@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/103860#page/97/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33265764) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chesnon, Charles Georges (1791-?), French (Normandie) botanist. (*Chesnon*).
+Chesnon, Charles Georges (1791-?), French (Normandie) botanist. 
+**Abbreviated name**: *Chesnon*
 
 #### Herbarium and types
 

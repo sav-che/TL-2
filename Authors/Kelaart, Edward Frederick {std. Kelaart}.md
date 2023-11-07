@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/item/103253#page/540/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33068756) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kelaart, Edward Frederick (1818?-1860), Ceylon-born British botanist; sometime army physician at Gibraltar. (*Kelaart*).
+Kelaart, Edward Frederick (1818?-1860), Ceylon-born British botanist; sometime army physician at Gibraltar. 
+**Abbreviated name**: *Kelaart*
 
 #### Herbarium and types
 

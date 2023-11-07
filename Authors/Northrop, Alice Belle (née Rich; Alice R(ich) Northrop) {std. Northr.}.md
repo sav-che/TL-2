@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/item/104137#page/791/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33355862) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Northrop, Alice Belle (née Rich; Alice R(ich) Northrop) (1864-1922), American botanist; wife (from 1889) of John Isaiah Northrop (1861-1891); tutor in botany at Normal College, New York 1885-1889. (*Northr.*).
+Northrop, Alice Belle (née Rich; Alice R(ich) Northrop) (1864-1922), American botanist; wife (from 1889) of John Isaiah Northrop (1861-1891); tutor in botany at Normal College, New York 1885-1889. 
+**Abbreviated name**: *Northr.*
 
 #### Herbarium and types
 

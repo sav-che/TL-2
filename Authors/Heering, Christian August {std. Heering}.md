@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103253#page/153/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33068369) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heering, Christian August (1876-1916), German botanist and conservationist at Hamburg; fell at Verdun. (*Heering*).
+Heering, Christian August (1876-1916), German botanist and conservationist at Hamburg; fell at Verdun. 
+**Abbreviated name**: *Heering*
 
 #### Herbarium and types
 

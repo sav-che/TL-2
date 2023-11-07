@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/item/104137#page/744/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33355815) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nestler, Chrétien Géofroy \[Christian Géofroy\] (1778-1832), Alsatian botanist of German origin; studied with L. C. Richard at Paris; army pharmacist 1806-1810; from 1813 assistant to Villars; professor of botany and pharmacy at Strasbourg 1817-1832. (*Nestl.*).
+Nestler, Chrétien Géofroy \[Christian Géofroy\] (1778-1832), Alsatian botanist of German origin; studied with L. C. Richard at Paris; army pharmacist 1806-1810; from 1813 assistant to Villars; professor of botany and pharmacy at Strasbourg 1817-1832. 
+**Abbreviated name**: *Nestl.*
 
 #### Herbarium and types
 

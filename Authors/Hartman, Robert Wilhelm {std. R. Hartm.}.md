@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/103253#page/93/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33068309) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartman, Robert Wilhelm (1827-1801), Swedish botanist, son of C.J. Hartman; teacher at Gävle; Dr. phil. Uppsala 1854. (*R. Hartm.*).
+Hartman, Robert Wilhelm (1827-1801), Swedish botanist, son of C.J. Hartman; teacher at Gävle; Dr. phil. Uppsala 1854. 
+**Abbreviated name**: *R. Hartm.*
 
 #### Herbarium and types
 

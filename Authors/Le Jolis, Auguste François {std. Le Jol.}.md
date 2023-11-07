@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/item/103253#page/857/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33069073) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Le Jolis, Auguste François (1823-1904), French merchant and algologist at Cherbourg; founder (30 Dec 1851) of the Société des Sciences naturelles de Cherbourg; from then on director and archivist as well as editor of the society's publications. (*Le Jol.*).
+Le Jolis, Auguste François (1823-1904), French merchant and algologist at Cherbourg; founder (30 Dec 1851) of the Société des Sciences naturelles de Cherbourg; from then on director and archivist as well as editor of the society's publications. 
+**Abbreviated name**: *Le Jol.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103253#page/491/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33068707) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Juel, Hans Oscar (1863-1931), Swedish botanist at Stockholm and Uppsala, Linnaean scholar; Dr. phil. Uppsala 1889; outstanding cytologist and mycologist. (*Juel*).
+Juel, Hans Oscar (1863-1931), Swedish botanist at Stockholm and Uppsala, Linnaean scholar; Dr. phil. Uppsala 1889; outstanding cytologist and mycologist. 
+**Abbreviated name**: *Juel*
 
 #### Herbarium and types
 

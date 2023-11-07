@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103683#page/302/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33212334) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thormeyer, Paul (1878-?), German (Anhalt) botanist and high school teacher; studied mathematics and natural sciences in Göttingen (1901-1903), Halle (1903-1904), and again Göttingen (1904-1906); state teachers examination Göttingen 1906; teacher at Hannover from 1906; Dr. phil. Göttingen 1910; student of G.A. Peter. (*Thormeyer*).
+Thormeyer, Paul (1878-?), German (Anhalt) botanist and high school teacher; studied mathematics and natural sciences in Göttingen (1901-1903), Halle (1903-1904), and again Göttingen (1904-1906); state teachers examination Göttingen 1906; teacher at Hannover from 1906; Dr. phil. Göttingen 1910; student of G.A. Peter. 
+**Abbreviated name**: *Thormeyer*
 
 #### Herbarium and types
 

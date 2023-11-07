@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103861#page/43/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33266340) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Braun, Heinrich (1851-1920), Austrian botanist, alderman at Vienna. (*Heinr. Braun*).
+Braun, Heinrich (1851-1920), Austrian botanist, alderman at Vienna. 
+**Abbreviated name**: *Heinr. Braun*
 
 #### Herbarium and types
 

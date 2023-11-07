@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103624#page/97/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parsons, Thomas Henry (*fl*. 1926), British gardener, trained at Kew; from 1913 curator of the Peradeniya botanical Garden. (*T Parsons*).
+Parsons, Thomas Henry (*fl*. 1926), British gardener, trained at Kew; from 1913 curator of the Peradeniya botanical Garden. 
+**Abbreviated name**: *T Parsons*
 
 #### Herbarium and types
 

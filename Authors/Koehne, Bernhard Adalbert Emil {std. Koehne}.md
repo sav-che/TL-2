@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/item/103253#page/621/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koehne, Bernhard Adalbert Emil (1848-1918), German botanist and dendrologist; Dr. phil. Berol. 1869; participated as "Vizefeldwebel beim Alexander Regiment" in the Battle of Gravelotte (18 Aug 1870); teacher at the Friedrich-Werderschen Gewerbschule 1872-1880; from 1880 at the then new Falk-Realgymnasium, both in Berlin; professor's title 1891; from 1913 retired; one of the founders (1881) of the Deutsche botanische Gesellschaft. (*Koehne*).
+Koehne, Bernhard Adalbert Emil (1848-1918), German botanist and dendrologist; Dr. phil. Berol. 1869; participated as "Vizefeldwebel beim Alexander Regiment" in the Battle of Gravelotte (18 Aug 1870); teacher at the Friedrich-Werderschen Gewerbschule 1872-1880; from 1880 at the then new Falk-Realgymnasium, both in Berlin; professor's title 1891; from 1913 retired; one of the founders (1881) of the Deutsche botanische Gesellschaft. 
+**Abbreviated name**: *Koehne*
 
 #### Herbarium and types
 

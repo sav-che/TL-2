@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103250#page/165/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33066445) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watson, Walter (1872-1960), British school teacher and lichenologist; biology master Sexeys, Bruton, Somerset 1902, at Taunton School 1908-1939; D.Sc. London 1918. (*Wa. Wats.*).
+Watson, Walter (1872-1960), British school teacher and lichenologist; biology master Sexeys, Bruton, Somerset 1902, at Taunton School 1908-1939; D.Sc. London 1918. 
+**Abbreviated name**: *Wa. Wats.*
 
 #### Herbarium and types
 

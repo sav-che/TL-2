@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103861#page/132/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33266429) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brooks, Frederick Tom (1882-1952), British botanist, studied at Emmanuel College Cambridge 1902, senior demonstrator at the University of Cambridge, university lecturer in botany ib., for one year (1913-1914) with the Department of Agriculture of the Federated Malay States, on military duty 1914-1917, plant pathologist at the Food Production Department 1917-1919, reader in botany at Cambridge 1919, reader in mycology 1931, professor of botany ib. succeeding A.C. Seward 1936 (*F.T. Brooks*).
+Brooks, Frederick Tom (1882-1952), British botanist, studied at Emmanuel College Cambridge 1902, senior demonstrator at the University of Cambridge, university lecturer in botany ib., for one year (1913-1914) with the Department of Agriculture of the Federated Malay States, on military duty 1914-1917, plant pathologist at the Food Production Department 1917-1919, reader in botany at Cambridge 1919, reader in mycology 1931, professor of botany ib. succeeding A.C. Seward 1936 
+**Abbreviated name**: *F.T. Brooks*
 
 #### Herbarium and types
 

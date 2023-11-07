@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103833#page/302/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33259336) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dickson, James Geere (1891-1962), American plant pathologist, born 7 Feb 1891, Yakima, Washington, died 28 Feb 1962, Madison, Wisconsin, attended a school in Yakima, had a B.S. degree in agriculture and botany at Washington State College 1915, MS of University of Wisconsin, Ph.D. degree 1921, agent for U.S.D.A. 1906-1961, also joint appointment as asst. professor plant pathology Univ. Wisconsin, promoted to assoc. professor 1922, professor 1926. (*J.G. Dicks.*).
+Dickson, James Geere (1891-1962), American plant pathologist, born 7 Feb 1891, Yakima, Washington, died 28 Feb 1962, Madison, Wisconsin, attended a school in Yakima, had a B.S. degree in agriculture and botany at Washington State College 1915, MS of University of Wisconsin, Ph.D. degree 1921, agent for U.S.D.A. 1906-1961, also joint appointment as asst. professor plant pathology Univ. Wisconsin, promoted to assoc. professor 1922, professor 1926. 
+**Abbreviated name**: *J.G. Dicks.*
 
 #### Herbarium and types
 

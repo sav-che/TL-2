@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103859#page/224/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33265411) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bliedner, Arno (fl. 1890-1926), German school teacher, inspector and supervisor ("Schulrat") at Eisenach, Thüringen. (*Bliedner*).
+Bliedner, Arno (fl. 1890-1926), German school teacher, inspector and supervisor ("Schulrat") at Eisenach, Thüringen. 
+**Abbreviated name**: *Bliedner*
 
 #### Herbarium and types
 

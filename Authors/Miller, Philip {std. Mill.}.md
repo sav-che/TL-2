@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/104137#page/507/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33355578) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miller, Philip (1691-1771), British gardener; superintendent of the Society of Apothecaries at Chelsea ("Chelsea Physick Garden") 1722-1770; "hortulanorum princeps." (*Mill.*).
+Miller, Philip (1691-1771), British gardener; superintendent of the Society of Apothecaries at Chelsea ("Chelsea Physick Garden") 1722-1770; "hortulanorum princeps." 
+**Abbreviated name**: *Mill.*
 
 #### Herbarium and types
 

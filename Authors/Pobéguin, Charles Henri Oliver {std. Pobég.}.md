@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103624#page/318/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pobéguin, Charles Henri Oliver (1856-1951), French botanist and colonial administrator in French Africa (Ivory Coast, Comores, Guinea, Equatorial Africa, Congo) 1892-1923. (*Pobég.*).
+Pobéguin, Charles Henri Oliver (1856-1951), French botanist and colonial administrator in French Africa (Ivory Coast, Comores, Guinea, Equatorial Africa, Congo) 1892-1923. 
+**Abbreviated name**: *Pobég.*
 
 #### Herbarium and types
 

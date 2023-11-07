@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/item/103624#page/555/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33190012) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Radlkofer, Ludwig Adolph Timotheus (1829-1927), German (Bavarian) botanist; Dr. med. München 1854; student of M. Schleiden at Jena 1854-1855; Dr. phil. Jena 1855; habil. München 1856; extraord. professor of botany and "Adjunkt" at the Botanical garden and herbarium 1859; regular professor ib. 1863-1913; director of the Botanical museum and state herbarium 1908-1927. (*Radlk.*).
+Radlkofer, Ludwig Adolph Timotheus (1829-1927), German (Bavarian) botanist; Dr. med. München 1854; student of M. Schleiden at Jena 1854-1855; Dr. phil. Jena 1855; habil. München 1856; extraord. professor of botany and "Adjunkt" at the Botanical garden and herbarium 1859; regular professor ib. 1863-1913; director of the Botanical museum and state herbarium 1908-1927. 
+**Abbreviated name**: *Radlk.*
 
 #### Herbarium and types
 

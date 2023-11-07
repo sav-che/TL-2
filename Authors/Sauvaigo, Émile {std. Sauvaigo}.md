@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/104077#page/92/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33333217) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sauvaigo, Émile (1856-1927), French botanist and physician; worker on the spontaneous and cultivated mediterranean plants; curator of the library and archives of the town of Nice until 1897; director of the Museum of natural history, Nice 1897-1924. (*Sauvaigo*).
+Sauvaigo, Émile (1856-1927), French botanist and physician; worker on the spontaneous and cultivated mediterranean plants; curator of the library and archives of the town of Nice until 1897; director of the Museum of natural history, Nice 1897-1924. 
+**Abbreviated name**: *Sauvaigo*
 
 #### Herbarium and types
 

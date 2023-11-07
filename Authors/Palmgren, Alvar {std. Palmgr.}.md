@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103624#page/46/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33189465) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmgren, Alvar (1880-1960), Finnish botanist; Dr. phil. Helsinki 1914; lecturer in botany at the College of technology, Helsinki 1916; professor of botany at Helsinki University 1928-1950. (*Palmgr.*).
+Palmgren, Alvar (1880-1960), Finnish botanist; Dr. phil. Helsinki 1914; lecturer in botany at the College of technology, Helsinki 1916; professor of botany at Helsinki University 1928-1950. 
+**Abbreviated name**: *Palmgr.*
 
 #### Herbarium and types
 

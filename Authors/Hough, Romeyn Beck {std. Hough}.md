@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103253#page/367/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33068583) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hough, Romeyn Beck (1857-1924), American botanist at Lowville, N.J. (*Hough*).
+Hough, Romeyn Beck (1857-1924), American botanist at Lowville, N.J. 
+**Abbreviated name**: *Hough*
 
 #### Herbarium and types
 

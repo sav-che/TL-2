@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/item/103860#page/487/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33266154) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Croom, Hardy Bryan (1797-1837), American lawyer and botanist, born at Lenoir Co., North Carolina, studied at the University of North Carolina, graduated 1817, studied law and was admitted to the bar, lived at New Bern, N.C., had a plantation in Leon Co., Florida \[text by Barnhart\], died by shipwreck off Ocracoke Island, N.C. (*H.B. Croom*).
+Croom, Hardy Bryan (1797-1837), American lawyer and botanist, born at Lenoir Co., North Carolina, studied at the University of North Carolina, graduated 1817, studied law and was admitted to the bar, lived at New Bern, N.C., had a plantation in Leon Co., Florida \[text by Barnhart\], died by shipwreck off Ocracoke Island, N.C. 
+**Abbreviated name**: *H.B. Croom*
 
 #### Herbarium and types
 

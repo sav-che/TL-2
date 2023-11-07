@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103624#page/91/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33189548) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gasilien (Frère) {std. Parrique} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Parrique, Géraud ("Frère Gasilien") (1851-1907), French school teacher, clergyman, lichenologist and bryologist at Sorbiers (Loire) (*Parrique*).
+Parrique, Géraud ("Frère Gasilien") (1851-1907), French school teacher, clergyman, lichenologist and bryologist at Sorbiers (Loire) 
+**Abbreviated name**: *Parrique*
 
 #### Herbarium and types
 

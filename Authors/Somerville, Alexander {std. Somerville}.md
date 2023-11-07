@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/104077#page/749/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33333874) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Somerville, Alexander (1842-1907), British (Scottish) malacologist and botanist at Glasgow; merchant in Calcutta for 15 years; B.Sc. Univ. Glasgow. (*Somerville*).
+Somerville, Alexander (1842-1907), British (Scottish) malacologist and botanist at Glasgow; merchant in Calcutta for 15 years; B.Sc. Univ. Glasgow. 
+**Abbreviated name**: *Somerville*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103858#page/217/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33264932) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aubouy, \[Fulcran\] Antonin \[Édouard\] (fl. 1871-1903), French botanist and school-teacher at Aniane and Lodève, later director of a school in Montpellier, general secretary of the Société d' Horticulture et d' Histoire naturelle de l' Hérault, Montpellier. (*Aubouy*).
+Aubouy, \[Fulcran\] Antonin \[Édouard\] (fl. 1871-1903), French botanist and school-teacher at Aniane and Lodève, later director of a school in Montpellier, general secretary of the Société d' Horticulture et d' Histoire naturelle de l' Hérault, Montpellier. 
+**Abbreviated name**: *Aubouy*
 
 #### Herbarium and types
 

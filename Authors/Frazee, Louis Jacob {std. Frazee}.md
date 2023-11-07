@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103834#page/418/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33259900) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frazee, Louis Jacob (1819-1905), American physician, born 23 Aug 1819 in Mayslink (Mason Co.), Kentucky, studied medicine in Germantown, Kentucky and graduated from the Louisville Inst. in Mar 1841, evidently traveled and studied in Europe before 1849, then settled and practiced medicine in Maysville, Kentucky until 1851 when he moved to Louisville where he died. (*Frazee*).
+Frazee, Louis Jacob (1819-1905), American physician, born 23 Aug 1819 in Mayslink (Mason Co.), Kentucky, studied medicine in Germantown, Kentucky and graduated from the Louisville Inst. in Mar 1841, evidently traveled and studied in Europe before 1849, then settled and practiced medicine in Maysville, Kentucky until 1851 when he moved to Louisville where he died. 
+**Abbreviated name**: *Frazee*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/item/103861#page/464/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33266761) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Castellanos, Alberto (1896-1968), Argentine botanist, born in Cordoba, studied at the University of Buenos Aires, Dr. nat. sci. ib. 1925, collected in South America, Colombia, Canary Islands, N Africa and Europe, in charge of the Herbarium of the University of Buenos Aires from 1924, moved to Brazil 1955, contracted by various Brazilian scientific institutions. (*Castellanos*).
+Castellanos, Alberto (1896-1968), Argentine botanist, born in Cordoba, studied at the University of Buenos Aires, Dr. nat. sci. ib. 1925, collected in South America, Colombia, Canary Islands, N Africa and Europe, in charge of the Herbarium of the University of Buenos Aires from 1924, moved to Brazil 1955, contracted by various Brazilian scientific institutions. 
+**Abbreviated name**: *Castellanos*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103861#page/179/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bryan, Mary McIlwaine (fl. 1896-1917), American botanist, studied at Washington University, A.B. 1896, M.A. 1915. (*Bryan*).
+Bryan, Mary McIlwaine (fl. 1896-1917), American botanist, studied at Washington University, A.B. 1896, M.A. 1915. 
+**Abbreviated name**: *Bryan*
 
 #### Herbarium and types
 

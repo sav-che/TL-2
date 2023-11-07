@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/item/104077#page/662/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33333787) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sloff, Jan G. (1892-1979), Dutch botanist and high school teacher at Bergen op Zoom; co-founder and moving force behind the Institute for Vegetation Research of the Netherlands (IVON), mainly dedicated to the mapping of the distribution of phanerogams in the Netherlands. (*Sloff*).
+Sloff, Jan G. (1892-1979), Dutch botanist and high school teacher at Bergen op Zoom; co-founder and moving force behind the Institute for Vegetation Research of the Netherlands (IVON), mainly dedicated to the mapping of the distribution of phanerogams in the Netherlands. 
+**Abbreviated name**: *Sloff*
 
 #### Herbarium and types
 

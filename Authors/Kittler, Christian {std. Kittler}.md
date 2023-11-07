@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/103253#page/583/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33068799) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kittler, Christian (x-1919), German botanist and high school teacher at Nürnberg. (*Kittler*).
+Kittler, Christian (x-1919), German botanist and high school teacher at Nürnberg. 
+**Abbreviated name**: *Kittler*
 
 #### Herbarium and types
 

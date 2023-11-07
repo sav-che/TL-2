@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/103414#page/767/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33120850) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eaton, Daniel Cady {std. D.C. Eaton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Eaton, Daniel Cady (1834-1895), American botanist at Yale University, grandson of Amos Eaton. (*D. C. Eaton*).
+Eaton, Daniel Cady (1834-1895), American botanist at Yale University, grandson of Amos Eaton. 
+**Abbreviated name**: *D. C. Eaton*
 
 #### Herbarium and types
 

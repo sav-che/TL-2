@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/104137#page/439/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33355510) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Merino y Román, \[Père\] Baltasar (1845-1917), Spanish jesuit and botanist in Galicia. (*Merino*).
+Merino y Román, \[Père\] Baltasar (1845-1917), Spanish jesuit and botanist in Galicia. 
+**Abbreviated name**: *Merino*
 
 #### Herbarium and types
 

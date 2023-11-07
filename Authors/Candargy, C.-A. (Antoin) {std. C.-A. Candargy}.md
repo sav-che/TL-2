@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103861#page/365/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266662) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Candargy, C.-A. \[Antoin ?\] (1825/26-1900 (or later)), Greek botanist, for the few details known see S. Diemar and O. Seberg. (*C.-A. Candargy*).
+Candargy, C.-A. \[Antoin ?\] (1825/26-1900 (or later)), Greek botanist, for the few details known see S. Diemar and O. Seberg. 
+**Abbreviated name**: *C.-A. Candargy*
 
 #### Herbarium and types
 

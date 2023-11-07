@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103414#page/202/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33120285) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bayer, Edvin {std. E. Bayer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bayer, Edvin (1862-1921), Czech palaeobotanist, lichenologist and botanical historian. (*E. Bayer*).
+Bayer, Edvin (1862-1921), Czech palaeobotanist, lichenologist and botanical historian. 
+**Abbreviated name**: *E. Bayer*
 
 #### Herbarium and types
 

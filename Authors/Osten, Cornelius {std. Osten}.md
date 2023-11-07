@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/104137#page/869/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Osten, Cornelius (1863-1936), German botanist and business man in Uruguay; Dr. phil. h.c. Göttingen 1934. (*Osten*).
+Osten, Cornelius (1863-1936), German botanist and business man in Uruguay; Dr. phil. h.c. Göttingen 1934. 
+**Abbreviated name**: *Osten*
 
 #### Herbarium and types
 

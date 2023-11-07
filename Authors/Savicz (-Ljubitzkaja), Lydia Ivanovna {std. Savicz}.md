@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/104077#page/103/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33333228) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savicz \[-Ljubitzkaja\], Lydia Ivanovna (1886-1982), Russian botanist (bryologist) at the V.L. Komarov Botanical Institute, Leningrad 1911-1956. (*Savicz*).
+Savicz \[-Ljubitzkaja\], Lydia Ivanovna (1886-1982), Russian botanist (bryologist) at the V.L. Komarov Botanical Institute, Leningrad 1911-1956. 
+**Abbreviated name**: *Savicz*
 
 #### Herbarium and types
 

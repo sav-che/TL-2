@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/item/103683#page/667/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33212699) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vandas, Karel (1861-1923), Bohemian botanist; assistant with Celakovsky at the National Museum, Praha; high school teacher at Praha 1892, id. at Kolin 1894; professor for the encyclopaedia of agriculture and forestry at the Czech Technical School, Brünn 1902; rector of this school 1913; travelled and collected on the Balkan peninsula; died in Serbian Macedonia 1923. (*Vandas*).
+Vandas, Karel (1861-1923), Bohemian botanist; assistant with Celakovsky at the National Museum, Praha; high school teacher at Praha 1892, id. at Kolin 1894; professor for the encyclopaedia of agriculture and forestry at the Czech Technical School, Brünn 1902; rector of this school 1913; travelled and collected on the Balkan peninsula; died in Serbian Macedonia 1923. 
+**Abbreviated name**: *Vandas*
 
 #### Herbarium and types
 

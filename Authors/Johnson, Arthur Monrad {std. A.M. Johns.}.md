@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/item/103253#page/474/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33068690) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnson, Arthur Monrad (1878-1943), Norwegian-born American botanist. (*A. M. Johns.*).
+Johnson, Arthur Monrad (1878-1943), Norwegian-born American botanist. 
+**Abbreviated name**: *A. M. Johns.*
 
 #### Herbarium and types
 

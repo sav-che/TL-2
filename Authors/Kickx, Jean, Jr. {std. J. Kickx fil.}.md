@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/item/103253#page/560/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33068776) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kickx, Jean, Jr. (1803-1864), Belgian botanist and malacologist, son of Jean Kickx (1775-1831); Ph. D. Leuven 1830; professor of botany at Brussels 1831-1835, at Gent 1835-1864; one of the founders of the Société de Botanique de Belgique. (*J. Kickx fil.*).
+Kickx, Jean, Jr. (1803-1864), Belgian botanist and malacologist, son of Jean Kickx (1775-1831); Ph. D. Leuven 1830; professor of botany at Brussels 1831-1835, at Gent 1835-1864; one of the founders of the Société de Botanique de Belgique. 
+**Abbreviated name**: *J. Kickx fil.*
 
 #### Herbarium and types
 

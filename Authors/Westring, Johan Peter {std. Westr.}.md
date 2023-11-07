@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103250#page/278/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33066558) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Westring, Johan Peter (1753-1833), Swedish physician and lichenologist; student of C. Linnaeus; Dr. med. Uppsala 1780; practicing physician in Linköping and, from 1781, Norrköping; royal physician from 1794. (*Westr.*).
+Westring, Johan Peter (1753-1833), Swedish physician and lichenologist; student of C. Linnaeus; Dr. med. Uppsala 1780; practicing physician in Linköping and, from 1781, Norrköping; royal physician from 1794. 
+**Abbreviated name**: *Westr.*
 
 #### Herbarium and types
 

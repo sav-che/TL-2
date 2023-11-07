@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103834#page/180/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33259662) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fernow, Bernhard Eduard (1851-1923), German-born American forester and dendrologist, born 7 Jan 1851 in Inowraclaw (Hohensalza), Posen (Prussia, now Poland), attended forest acad. in Münden 1870-1873, studied law in Königsberg from 1874, came to the U.S.A. in 1876, married an American citizen, naturalized 1883, chief, Division of Forestry, U.S.D.A., Washington, D.C. 1886-1898, LL.D. 1896 Univ. of Wisconsin at Madison, dir. of the first American school of forestry at Cornell Univ., Ithaca, New York 1898-1903, later, from 1907, dean of the first Canadian school of forestry in Toronto, died 6 Feb 1923 in Toronto. (*Fernow*).
+Fernow, Bernhard Eduard (1851-1923), German-born American forester and dendrologist, born 7 Jan 1851 in Inowraclaw (Hohensalza), Posen (Prussia, now Poland), attended forest acad. in Münden 1870-1873, studied law in Königsberg from 1874, came to the U.S.A. in 1876, married an American citizen, naturalized 1883, chief, Division of Forestry, U.S.D.A., Washington, D.C. 1886-1898, LL.D. 1896 Univ. of Wisconsin at Madison, dir. of the first American school of forestry at Cornell Univ., Ithaca, New York 1898-1903, later, from 1907, dean of the first Canadian school of forestry in Toronto, died 6 Feb 1923 in Toronto. 
+**Abbreviated name**: *Fernow*
 
 #### Herbarium and types
 

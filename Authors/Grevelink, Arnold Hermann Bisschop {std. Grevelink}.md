@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/item/103832#page/389/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33258855) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grevelink, Arnold Hermann Bisschop (a.k.a. Bisschop Grevelink, A.H.) (1811-1882), Dutch naval officer and economic botanist, spent one year in Curaçao and seven years in St. Eustatius (Netherland Antilles), and briefly was government resident and dir. of a government school in Soerabaya, E. Java, returned to The Netherlands 1873, died in Amsterdam, "... een *selfmade man*". (*Grevelink*).
+Grevelink, Arnold Hermann Bisschop (a.k.a. Bisschop Grevelink, A.H.) (1811-1882), Dutch naval officer and economic botanist, spent one year in Curaçao and seven years in St. Eustatius (Netherland Antilles), and briefly was government resident and dir. of a government school in Soerabaya, E. Java, returned to The Netherlands 1873, died in Amsterdam, "... een *selfmade man*". 
+**Abbreviated name**: *Grevelink*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103414#page/319/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33120402) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bonner, Charles Edmond Bradlaugh {std. Bonner} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bonner, Charles Edmond Bradlaugh (1915-x), English cryptogamist. (*Bonner*).
+Bonner, Charles Edmond Bradlaugh (1915-x), English cryptogamist. 
+**Abbreviated name**: *Bonner*
 
 #### Herbarium and types
 

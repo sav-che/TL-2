@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103414#page/276/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33120359) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blanchet, Jacques Samuel {std. Blanchet} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blanchet, Jacques Samuel (1807-1875), Swiss plant collector in Bahia, Brazil, 1828-1856 (*Blanchet*).
+Blanchet, Jacques Samuel (1807-1875), Swiss plant collector in Bahia, Brazil, 1828-1856 
+**Abbreviated name**: *Blanchet*
 
 #### Herbarium and types
 

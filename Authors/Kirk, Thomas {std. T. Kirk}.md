@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/item/103253#page/577/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33068793) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirk, Thomas (1828-1898), English-born botanist and chief conservator of State forests in New Zealand (1863-1898). (*T. Kirk*).
+Kirk, Thomas (1828-1898), English-born botanist and chief conservator of State forests in New Zealand (1863-1898). 
+**Abbreviated name**: *T. Kirk*
 
 #### Herbarium and types
 

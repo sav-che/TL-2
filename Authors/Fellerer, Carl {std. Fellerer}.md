@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/item/103834#page/146/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259628) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fellerer, Carl (fl. 1892), German botanist, born in Freising, awarded a prize for his published thesis. (*Fellerer*).
+Fellerer, Carl (fl. 1892), German botanist, born in Freising, awarded a prize for his published thesis. 
+**Abbreviated name**: *Fellerer*
 
 #### Herbarium and types
 

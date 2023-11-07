@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/item/104137#page/670/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33355741) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Münster, Georg Graf zu (1776-1844), German financial administrator and palaeontologist at Bayreuth. (*G. Münster*).
+Münster, Georg Graf zu (1776-1844), German financial administrator and palaeontologist at Bayreuth. 
+**Abbreviated name**: *G. Münster*
 
 #### Collection
 

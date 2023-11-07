@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/104137#page/257/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33355328) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Magnier, Charles (*fl*. 1882), French librarian, botanist and plant collector at St. Quentin (Aisne). (*Magnier*).
+Magnier, Charles (*fl*. 1882), French librarian, botanist and plant collector at St. Quentin (Aisne). 
+**Abbreviated name**: *Magnier*
 
 #### Herbarium and types
 

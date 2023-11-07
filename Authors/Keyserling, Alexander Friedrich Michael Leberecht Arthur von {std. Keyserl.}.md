@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/item/103253#page/558/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33068774) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keyserling, Alexander Friedrich Michael Leberecht Arthur von, \[Andreëvich\]  (1815-1891), Latvian/Russian botanist, geologist and palaeontologist of Baltic German origin; educated at Berlin University; from 1840-1850 handling special missions in the Russian mining department and travelling in Northern and Eastern Russia; from 1850 on his Esthonian estate Raiküll. (*Keyserl.*).
+Keyserling, Alexander Friedrich Michael Leberecht Arthur von, \[Andreëvich\]  (1815-1891), Latvian/Russian botanist, geologist and palaeontologist of Baltic German origin; educated at Berlin University; from 1840-1850 handling special missions in the Russian mining department and travelling in Northern and Eastern Russia; from 1850 on his Esthonian estate Raiküll. 
+**Abbreviated name**: *Keyserl.*
 
 #### Herbarium and types
 

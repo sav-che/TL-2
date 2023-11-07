@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/item/103860#page/486/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266153) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crookall, Robert (1889/1890-?), British palaeobotanist and geologist, studied at the University of Bristol, Dr. phil. 1925, D.Sc. 1932. (*Crookall*).
+Crookall, Robert (1889/1890-?), British palaeobotanist and geologist, studied at the University of Bristol, Dr. phil. 1925, D.Sc. 1932. 
+**Abbreviated name**: *Crookall*
 
 #### Herbarium and types
 

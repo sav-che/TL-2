@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/item/103253#page/837/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33069053) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lee, Sun-Ching (1892-x), Chinese botanist at the Peking teacher's college. (*S. C. Lee*).
+Lee, Sun-Ching (1892-x), Chinese botanist at the Peking teacher's college. 
+**Abbreviated name**: *S. C. Lee*
 
 #### Herbarium and types
 

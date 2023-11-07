@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1016](https://www.biodiversitylibrary.org/item/103414#page/1064/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1016](https://www.biodiversitylibrary.org/page/33121147) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grüss, Johannes (1860-x), German palaeobiologist and physiologist, highschool-teacher in Berlin. (*Grüss*).
+Grüss, Johannes (1860-x), German palaeobiologist and physiologist, highschool-teacher in Berlin. 
+**Abbreviated name**: *Grüss*
 
 #### Collections
 

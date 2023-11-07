@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/item/103253#page/733/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33068949) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kurz, Herman (1886-x), American bryologist; Ph. D. Chicago 1922; from 1922 at Tallahassee, Fla. (*H. Kurz*).
+Kurz, Herman (1886-x), American bryologist; Ph. D. Chicago 1922; from 1922 at Tallahassee, Fla. 
+**Abbreviated name**: *H. Kurz*
 
 #### Herbarium and types
 

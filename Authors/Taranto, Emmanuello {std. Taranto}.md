@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103683#page/175/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33212207) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taranto, Emmanuello (*fl*. 1845), Italian natural scientist; professor at the Cabinet of natural history and archeology of Calatogirone. (*Taranto*).
+Taranto, Emmanuello (*fl*. 1845), Italian natural scientist; professor at the Cabinet of natural history and archeology of Calatogirone. 
+**Abbreviated name**: *Taranto*
 
 #### Herbarium and types
 

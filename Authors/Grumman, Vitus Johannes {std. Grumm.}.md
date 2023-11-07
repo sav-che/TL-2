@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/item/103414#page/1065/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/page/33121148) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grummann, Vitus Johannes {std. Grumm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Grumman, Vitus Johannes (1899-1967), German lichenologist. (*Grumm.*).
+Grumman, Vitus Johannes (1899-1967), German lichenologist. 
+**Abbreviated name**: *Grumm.*
 
 #### Herbarium and types
 

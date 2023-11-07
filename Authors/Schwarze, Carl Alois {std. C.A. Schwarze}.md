@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/104077#page/440/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33333565) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwarze, Carl Alois (1886-1956), American mycologist and high school teacher; Dr. phil. Univ. Missouri 1909, subsequently lecturer at the chemistry department Columbia University; assistant plant pathologist New Jersey Experiment Station; high school teacher Jamaica High School, Long Island, N.Y. and id. Newton High School, Queens, New York; consulting plant pathologist from 1923. (*C.A. Schwarze*).
+Schwarze, Carl Alois (1886-1956), American mycologist and high school teacher; Dr. phil. Univ. Missouri 1909, subsequently lecturer at the chemistry department Columbia University; assistant plant pathologist New Jersey Experiment Station; high school teacher Jamaica High School, Long Island, N.Y. and id. Newton High School, Queens, New York; consulting plant pathologist from 1923. 
+**Abbreviated name**: *C.A. Schwarze*
 
 #### Herbarium and types
 

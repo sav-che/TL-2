@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103861#page/241/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33266538) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bureau, Louis Édouard {std. Bureau}|first entry]] for this author
 
 ### Author
 
-\* Bureau, Louis Édouard (1830-1918), French botanist, born in Nantes (Loire inf.), studied at the Faculté de médecine in Paris 1852, Dr. phil. ib. 1856, continued his studies with J.B. Payer in the Faculté des Sciences, Dr. sci. nat. 1864, "aide-naturaliste" with the Paris Museum of natural history 1872, professor of botany and director of the phanerogamic and palaeobotanical collections 1874-1905, director of the Jardin des plantes 1883-1905, member of the Medical Academy from 1901. (*Bureau*).
+\* Bureau, Louis Édouard (1830-1918), French botanist, born in Nantes (Loire inf.), studied at the Faculté de médecine in Paris 1852, Dr. phil. ib. 1856, continued his studies with J.B. Payer in the Faculté des Sciences, Dr. sci. nat. 1864, "aide-naturaliste" with the Paris Museum of natural history 1872, professor of botany and director of the phanerogamic and palaeobotanical collections 1874-1905, director of the Jardin des plantes 1883-1905, member of the Medical Academy from 1901. 
+**Abbreviated name**: *Bureau*
 
 #### Herbarium and types
 

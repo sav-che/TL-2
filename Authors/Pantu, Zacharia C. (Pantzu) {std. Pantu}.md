@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103624#page/62/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33189481) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pantu, Zacharia C. (Pantzu) (1866-1934), Roumanian botanist; at the Bucarest botanical institute 1890 (as naturalist), 1891-1934 (as curator). (*Pantu*).
+Pantu, Zacharia C. (Pantzu) (1866-1934), Roumanian botanist; at the Bucarest botanical institute 1890 (as naturalist), 1891-1934 (as curator). 
+**Abbreviated name**: *Pantu*
 
 #### Herbarium and types
 

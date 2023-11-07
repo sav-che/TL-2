@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/104137#page/762/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33355833) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Niedenzu, Franz Josef (1857-1937), German botanist; Dr. phil. Breslau 1889; assistant at the Botanical Garden, Breslau 1886-1889; id. Berlin-Dahlem 1889-1892; professor of mathematics and natural history at the Braunsberg (E. Prussia) Lyceum Hosianum 1892-1926; Geh. Regierungsrat 1913. (*Nied.*).
+Niedenzu, Franz Josef (1857-1937), German botanist; Dr. phil. Breslau 1889; assistant at the Botanical Garden, Breslau 1886-1889; id. Berlin-Dahlem 1889-1892; professor of mathematics and natural history at the Braunsberg (E. Prussia) Lyceum Hosianum 1892-1926; Geh. Regierungsrat 1913. 
+**Abbreviated name**: *Nied.*
 
 #### Herbarium and types
 

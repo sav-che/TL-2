@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/104077#page/132/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33333257) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schau, \[Hermann Ernst\] Otto (1900-x), German (Prussian) pharmacist and botanist; on active service 1918; studied pharmacy at Berlin University; state pharmacist's exam. 1924, studied natural sciences ib. 1931-1934, student of L. Diels. (*Schau*).
+Schau, \[Hermann Ernst\] Otto (1900-x), German (Prussian) pharmacist and botanist; on active service 1918; studied pharmacy at Berlin University; state pharmacist's exam. 1924, studied natural sciences ib. 1931-1934, student of L. Diels. 
+**Abbreviated name**: *Schau*
 
 #### Herbarium and types
 

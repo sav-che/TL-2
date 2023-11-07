@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/103253#page/854/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33069070) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leimer, Franz (*fl*. 1854), German benedictine monk and botanist at Augsburg. (*Leim.*).
+Leimer, Franz (*fl*. 1854), German benedictine monk and botanist at Augsburg. 
+**Abbreviated name**: *Leim.*
 
 #### Herbarium and types
 

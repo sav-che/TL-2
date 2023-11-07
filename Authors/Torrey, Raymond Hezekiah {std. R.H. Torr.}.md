@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/item/103683#page/418/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33212450) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torrey, Raymond Hezekiah (1880-1938), American journalist, amateur botanist and conservationist; journalist with various newspapers 1896-1938. (*R.H. Torr.*).
+Torrey, Raymond Hezekiah (1880-1938), American journalist, amateur botanist and conservationist; journalist with various newspapers 1896-1938. 
+**Abbreviated name**: *R.H. Torr.*
 
 #### Herbarium and types
 

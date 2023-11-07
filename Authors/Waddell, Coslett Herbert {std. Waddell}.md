@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103250#page/63/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waddell, Coslett Herbert (1858-1919), British clergyman and botanist; studied at Trinity College, Dublin; ordained 1880; rector Saintfield and Grey Abbey (County Down); secretary Moss Exchange Club 1896-1903. (*Waddell*).
+Waddell, Coslett Herbert (1858-1919), British clergyman and botanist; studied at Trinity College, Dublin; ordained 1880; rector Saintfield and Grey Abbey (County Down); secretary Moss Exchange Club 1896-1903. 
+**Abbreviated name**: *Waddell*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/item/103253#page/380/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33068596) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Huber, Johann Christoph(er) (1830-1913), German physician, entomologist and botanist at Memmingen (Schwaben, Bayern). (*J. C. Huber*).
+Huber, Johann Christoph(er) (1830-1913), German physician, entomologist and botanist at Memmingen (Schwaben, Bayern). 
+**Abbreviated name**: *J. C. Huber*
 
 #### Herbarium and types
 

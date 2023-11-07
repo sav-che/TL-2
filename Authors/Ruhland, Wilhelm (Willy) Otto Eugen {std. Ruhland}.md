@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/item/103624#page/993/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33190450) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruhland, Wilhelm \[Willy\] Otto Eugen (1878-1960), German (Schleswig) botanist; student of A. Engler at Berlin; Dr. phil. 1899; collaborator at the Botanical Museum ib. 1899-1903; Privatdocent Univ. Berlin 1903-1911; assistant at the Biologische Reichsanstalt Berlin-Dahlem 1905-1911; extraordinary professor of botany at Halle 1911-1918; full professor of botany at Tübingen Univ. 1918-1922; professor of botany and director of the botanical garden and institute of the University of Leipzig 1922-1945; honorary professor at Erlangen 1948-1956; Dr. h.c. Erlangen 1949. (*Ruhland*).
+Ruhland, Wilhelm \[Willy\] Otto Eugen (1878-1960), German (Schleswig) botanist; student of A. Engler at Berlin; Dr. phil. 1899; collaborator at the Botanical Museum ib. 1899-1903; Privatdocent Univ. Berlin 1903-1911; assistant at the Biologische Reichsanstalt Berlin-Dahlem 1905-1911; extraordinary professor of botany at Halle 1911-1918; full professor of botany at Tübingen Univ. 1918-1922; professor of botany and director of the botanical garden and institute of the University of Leipzig 1922-1945; honorary professor at Erlangen 1948-1956; Dr. h.c. Erlangen 1949. 
+**Abbreviated name**: *Ruhland*
 
 #### Herbarium and types
 

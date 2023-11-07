@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/item/103683#page/595/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33212627) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ulsamer, A. (*fl*. 1895), German high school teacher at Dillingen. (*Ulsamer*).
+Ulsamer, A. (*fl*. 1895), German high school teacher at Dillingen. 
+**Abbreviated name**: *Ulsamer*
 
 #### Herbarium and types
 

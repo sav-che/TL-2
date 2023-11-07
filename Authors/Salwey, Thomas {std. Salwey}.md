@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/104077#page/30/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33333167) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salwey, Thomas (1791-1877), British clergyman and lichenologist; BD Cambridge; rector Oswestry, Shropshire 1833-1872. (*Salwey*).
+Salwey, Thomas (1791-1877), British clergyman and lichenologist; BD Cambridge; rector Oswestry, Shropshire 1833-1872. 
+**Abbreviated name**: *Salwey*
 
 #### Herbarium and types
 

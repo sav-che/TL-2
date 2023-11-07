@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/item/104077#page/883/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33334008) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steffen, Hans (1891-?), German (East-Prussian) botanist; Dr. phil. Königsberg 1918; Dr. med. ib. 1920. (*Steffen*).
+Steffen, Hans (1891-?), German (East-Prussian) botanist; Dr. phil. Königsberg 1918; Dr. med. ib. 1920. 
+**Abbreviated name**: *Steffen*
 
 #### Herbarium and types
 

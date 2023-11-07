@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103253#page/95/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartung, C. A. F. A. Heinrich (*fl*. 1812), German physician. (*Hartung*).
+Hartung, C. A. F. A. Heinrich (*fl*. 1812), German physician. 
+**Abbreviated name**: *Hartung*
 
 #### Herbarium and types
 

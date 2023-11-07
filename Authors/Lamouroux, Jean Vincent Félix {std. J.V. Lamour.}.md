@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/item/103253#page/766/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33068982) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lamouroux, Jean Vincent Félix (1779-1825), French algologist and professor of natural history at Caen; from 1808 at the Lycée de Caen; from 1809 at the Faculté des Sciences (1812 succeeding Roussel as professor). (*J. V. Lamour.*).
+Lamouroux, Jean Vincent Félix (1779-1825), French algologist and professor of natural history at Caen; from 1808 at the Lycée de Caen; from 1809 at the Faculté des Sciences (1812 succeeding Roussel as professor). 
+**Abbreviated name**: *J. V. Lamour.*
 
 #### Herbarium and types
 

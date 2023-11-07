@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/104077#page/43/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33333130) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sandéen, Peter Fredrik (1839-1868), Swedish botanist: amanuensis at the Botanical Museum, Lund, 1858; Dr. phil. Lund 1865; "adjunkt" at schools in Lund (1864) and Karlskrona (1865). (*Sandéen*).
+Sandéen, Peter Fredrik (1839-1868), Swedish botanist: amanuensis at the Botanical Museum, Lund, 1858; Dr. phil. Lund 1865; "adjunkt" at schools in Lund (1864) and Karlskrona (1865). 
+**Abbreviated name**: *Sandéen*
 
 #### Herbarium and types
 

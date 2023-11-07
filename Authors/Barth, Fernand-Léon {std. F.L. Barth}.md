@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/item/103858#page/354/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265069) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barth, Fernand-Léon (1874-?), Swiss (Neuchâtel region) scientist and theologist and evangelist, studied natural sciences at the University of Genève 1893-1895 (bacc. lit. 1893, bacc. sci. 1894, Dr. sci. 1895), from then on concentrating on theology (bacc. theol. 1899), probationer at the French protestant church in Basel 1899-1902, with the Union chrétienne des jeunes gens 1902-1903, id. in Vaud 1913-1920, with the Belgian protestant mission at Liège 1920-1923, from 1924 "pasteur remplaçant" in the Swiss Canton de Vaud. (*F.L. Barth*).
+Barth, Fernand-Léon (1874-?), Swiss (Neuchâtel region) scientist and theologist and evangelist, studied natural sciences at the University of Genève 1893-1895 (bacc. lit. 1893, bacc. sci. 1894, Dr. sci. 1895), from then on concentrating on theology (bacc. theol. 1899), probationer at the French protestant church in Basel 1899-1902, with the Union chrétienne des jeunes gens 1902-1903, id. in Vaud 1913-1920, with the Belgian protestant mission at Liège 1920-1923, from 1924 "pasteur remplaçant" in the Swiss Canton de Vaud. 
+**Abbreviated name**: *F.L. Barth*
 
 #### Herbarium and types
 

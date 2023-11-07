@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/item/103414#page/863/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33120946) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fauconnet, Charles-Isaac {std. Fauc.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fauconnet, Charles Isaac (1811-1876), Genève physician and botanist. (*Fauc.*).
+Fauconnet, Charles Isaac (1811-1876), Genève physician and botanist. 
+**Abbreviated name**: *Fauc.*
 
 #### Herbarium and types
 

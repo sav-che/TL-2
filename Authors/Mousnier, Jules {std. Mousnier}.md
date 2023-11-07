@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/item/104137#page/625/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33355696) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mousnier, Jules (*fl*. 1873), French pharmacist born at Saujon (Charente-Inférieure); Dr. pharm. Paris 1873. (*Mousnier*).
+Mousnier, Jules (*fl*. 1873), French pharmacist born at Saujon (Charente-Inférieure); Dr. pharm. Paris 1873. 
+**Abbreviated name**: *Mousnier*
 
 #### Herbarium and types
 

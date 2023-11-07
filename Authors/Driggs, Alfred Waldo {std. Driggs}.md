@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/item/103835#page/109/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33260087) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Driggs, Alfred Waldo (1875-x), American organist and amateur botanist, born 4 Dec 1875 at Hartford (Conn.). (*Driggs*).
+Driggs, Alfred Waldo (1875-x), American organist and amateur botanist, born 4 Dec 1875 at Hartford (Conn.). 
+**Abbreviated name**: *Driggs*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103860#page/379/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33266046) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Corrêa, Manoel Pio (1874-1934), Brazilian botanist, born 6 Mai 1874 in Igreja de Santo Ildefonse, naturalist at the Jardim Botânico of Rio de Janeiro, worked later also in Paris, died at Neuilly-sur-Scine 21 Feb 1934. (*M.P. Corrêa*).
+Corrêa, Manoel Pio (1874-1934), Brazilian botanist, born 6 Mai 1874 in Igreja de Santo Ildefonse, naturalist at the Jardim Botânico of Rio de Janeiro, worked later also in Paris, died at Neuilly-sur-Scine 21 Feb 1934. 
+**Abbreviated name**: *M.P. Corrêa*
 
 #### Herbarium and types
 

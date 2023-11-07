@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103859#page/312/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265499) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bommer, Joseph (Jean) Édouard {std. J. Bommer}|first entry]] for this author
 
 ### Author
 
-\* Bommer, Jean-Édouard (1829-1895), Belgian pteridologist, self-taught botanist, curator of the collections of the Jardin botanique de Bruxelles 1855, id. at the Jardin botanique national de Belgique from 1870, also from 1855 curator of the collections of the Société royale d'Horticulture de Belgique, from 1872 professor of botany at the University of Bruxelles. (*J. Bommer*).
+\* Bommer, Jean-Édouard (1829-1895), Belgian pteridologist, self-taught botanist, curator of the collections of the Jardin botanique de Bruxelles 1855, id. at the Jardin botanique national de Belgique from 1870, also from 1855 curator of the collections of the Société royale d'Horticulture de Belgique, from 1872 professor of botany at the University of Bruxelles. 
+**Abbreviated name**: *J. Bommer*
 
 #### Herbarium and types
 

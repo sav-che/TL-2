@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103832#page/343/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33258809) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gray, Asa {std. A. Gray}|first entry]] for this author
 
 ### Author
 
-\* Gray, Asa (1810-1888), American botanist, born 18 Nov 1810 in Sauquoit (Oneida Co.), New York, son of a farmer, educated at Fairfield (New York) Academy and Fairfield Medical School (M.D. 1831), science teacher at high school in Utica, New York 1832-1835, asst. to John Torrey 1833, Curator and librarian, Lyceum of Natural History, New York City 1836, Prof. of Botany, State Univ. of Michigan (now Univ. of Michigan at Ann Arbor) 1838, visited European herbaria 1838-1839, appointed to the Fisher Chair of Natural History, Harvard Univ., Cambridge, Mass. 1842, retired from teaching 1873, president A.A.A.S. 1863-1873, regent, Smithsonian Inst. 1874-1888, F.R.S. (foreign member) 1873, LL.D. Cambridge, Oxford and Edinburgh (all 1887), died 30 Jan 1888 in Cambridge, Mass. (*A. Gray*).
+\* Gray, Asa (1810-1888), American botanist, born 18 Nov 1810 in Sauquoit (Oneida Co.), New York, son of a farmer, educated at Fairfield (New York) Academy and Fairfield Medical School (M.D. 1831), science teacher at high school in Utica, New York 1832-1835, asst. to John Torrey 1833, Curator and librarian, Lyceum of Natural History, New York City 1836, Prof. of Botany, State Univ. of Michigan (now Univ. of Michigan at Ann Arbor) 1838, visited European herbaria 1838-1839, appointed to the Fisher Chair of Natural History, Harvard Univ., Cambridge, Mass. 1842, retired from teaching 1873, president A.A.A.S. 1863-1873, regent, Smithsonian Inst. 1874-1888, F.R.S. (foreign member) 1873, LL.D. Cambridge, Oxford and Edinburgh (all 1887), died 30 Jan 1888 in Cambridge, Mass. 
+**Abbreviated name**: *A. Gray*
 
 #### "... nobody did more to spread the love of natural history in america" (p. 71 in foster w. russell, mount auburn biographies
 

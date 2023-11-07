@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/item/103414#page/619/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33120702) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cruse, (Carl Friedrich) Wilhelm {std. Cruse} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cruse, Carl Friedrich Wilhelm (1803-1873), German botanist at Königsberg. (*Cruse*).
+Cruse, Carl Friedrich Wilhelm (1803-1873), German botanist at Königsberg. 
+**Abbreviated name**: *Cruse*
 
 #### Herbarium and types
 

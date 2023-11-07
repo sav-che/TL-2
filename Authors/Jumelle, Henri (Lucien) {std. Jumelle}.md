@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103253#page/494/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jumelle, Henri (Lucien) (1866-1935), French botanist; pupil of Bonnier; Plant physiologist at Paris 1887-1894; later at Marseille; ultimately director of the Musée colonial. (*Jumelle*).
+Jumelle, Henri (Lucien) (1866-1935), French botanist; pupil of Bonnier; Plant physiologist at Paris 1887-1894; later at Marseille; ultimately director of the Musée colonial. 
+**Abbreviated name**: *Jumelle*
 
 #### Herbarium and types
 

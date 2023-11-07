@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103833#page/370/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33259404) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dittrich, Georg Gustav (1875-?), German botanist, born at Oels in Silesia 4 Mai 1875, educated at the elementary school at Oels, at the gymnasium ib. until 1894, studied natural sciences at Breslau 1894-1898, Dr. phil. 1898 ib. (*G.G. Dittrich*).
+Dittrich, Georg Gustav (1875-?), German botanist, born at Oels in Silesia 4 Mai 1875, educated at the elementary school at Oels, at the gymnasium ib. until 1894, studied natural sciences at Breslau 1894-1898, Dr. phil. 1898 ib. 
+**Abbreviated name**: *G.G. Dittrich*
 
 #### Herbarium and types
 

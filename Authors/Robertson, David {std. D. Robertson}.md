@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/item/103624#page/825/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33190282) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robertson, David (1806-1896), British (Scottish) algologist and naturalist at Cumbrae; originally practicing a medical career, then in commerce, from ca. 1860 devoting himself fully to marine zoology and botany; LL.D. h.c. Glasgow 1895; "the naturalist of the Cumbraes". (*D. Robertson*).
+Robertson, David (1806-1896), British (Scottish) algologist and naturalist at Cumbrae; originally practicing a medical career, then in commerce, from ca. 1860 devoting himself fully to marine zoology and botany; LL.D. h.c. Glasgow 1895; "the naturalist of the Cumbraes". 
+**Abbreviated name**: *D. Robertson*
 
 #### Herbarium and types
 

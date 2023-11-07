@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/item/104077#page/567/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/page/33333692) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shaw, Henry (1800-1889), English-born merchant and benefactor; emigrated to the United States in 1819; engaged in hardware business at St. Louis until 1840; in retirement laying out a garden ("Shaw's garden"), which became the Missouri Botanical Garden in 1858 and founding Shaw's School of Botany at George Washington University. (*H. Shaw*).
+Shaw, Henry (1800-1889), English-born merchant and benefactor; emigrated to the United States in 1819; engaged in hardware business at St. Louis until 1840; in retirement laying out a garden ("Shaw's garden"), which became the Missouri Botanical Garden in 1858 and founding Shaw's School of Botany at George Washington University. 
+**Abbreviated name**: *H. Shaw*
 
 #### Herbarium and types
 

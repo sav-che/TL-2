@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103859#page/160/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33265347) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bevis, James Frederick (fl. 1909-1911), British botanist, lecturer at the Woolwich Polytechnic. (*J.F. Bevis*).
+Bevis, James Frederick (fl. 1909-1911), British botanist, lecturer at the Woolwich Polytechnic. 
+**Abbreviated name**: *J.F. Bevis*
 
 #### Herbarium and types
 

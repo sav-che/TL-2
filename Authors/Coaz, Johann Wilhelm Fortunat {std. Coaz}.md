@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103860#page/240/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265907) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coaz, Johann Wilhelm Fortunat (1822-1918), Dutch forester, born in Antwerpen, studied forestry science in Germany (Tharandt) with the "Eidgenössischen Typographischen Bureau" (1844-1851), "Kantonale Forstinspektor" 1851-1873 in Chur, 1873-1875 idem in St-Gallen, "Oberforstinspektor" at Bern 1875-1914, Dr. phil h.c. Bern (1880). (*Coaz*).
+Coaz, Johann Wilhelm Fortunat (1822-1918), Dutch forester, born in Antwerpen, studied forestry science in Germany (Tharandt) with the "Eidgenössischen Typographischen Bureau" (1844-1851), "Kantonale Forstinspektor" 1851-1873 in Chur, 1873-1875 idem in St-Gallen, "Oberforstinspektor" at Bern 1875-1914, Dr. phil h.c. Bern (1880). 
+**Abbreviated name**: *Coaz*
 
 #### Herbarium and types
 

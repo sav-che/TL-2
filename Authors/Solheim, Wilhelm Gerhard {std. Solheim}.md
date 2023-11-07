@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/item/104077#page/740/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33333865) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Solheim, Wilhelm Gerhard (1898-1978), American botanist; B.A. Iowa State Teachers College 1924; Dr. phil. Univ. Illinois 1928; LL.D. h.c. Univ. Wyoming 1978; assistant in botany at the University of Illinois 1921-1927; fellow in botany ib. 1927-1928; id. at N. Dakota Coll. 1928-1929; id. at the University of Wyoming 1929-1931; head Dept. botany ib. 1931-1950; professor of botany until 1963. (*Solheim*).
+Solheim, Wilhelm Gerhard (1898-1978), American botanist; B.A. Iowa State Teachers College 1924; Dr. phil. Univ. Illinois 1928; LL.D. h.c. Univ. Wyoming 1978; assistant in botany at the University of Illinois 1921-1927; fellow in botany ib. 1927-1928; id. at N. Dakota Coll. 1928-1929; id. at the University of Wyoming 1929-1931; head Dept. botany ib. 1931-1950; professor of botany until 1963. 
+**Abbreviated name**: *Solheim*
 
 #### Herbarium and types
 

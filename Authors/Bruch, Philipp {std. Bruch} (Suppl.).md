@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103861#page/158/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33266455) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bruch, Philipp {std. Bruch}|first entry]] for this author
 
 ### Author
 
-\* Bruch, Philipp (1781-1847), German "Apotheker", born in Zweibrücken 11 Feb 1781, educated in Mainz (pharmacy), studied in Marburg and Paris, took over his father's pharmacy at Zweibrücken, amateur botanist especially bryologist, worked with D.J. Koch and W.P. Schimper (Strasbourg), died 11 Feb 1847 on his 66th birthday. (*Bruch*).
+\* Bruch, Philipp (1781-1847), German "Apotheker", born in Zweibrücken 11 Feb 1781, educated in Mainz (pharmacy), studied in Marburg and Paris, took over his father's pharmacy at Zweibrücken, amateur botanist especially bryologist, worked with D.J. Koch and W.P. Schimper (Strasbourg), died 11 Feb 1847 on his 66th birthday. 
+**Abbreviated name**: *Bruch*
 
 #### Herbarium and types
 

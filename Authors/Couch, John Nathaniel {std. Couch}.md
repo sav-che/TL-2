@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/item/103414#page/606/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33120689) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Couch, John Nathaniel {std. Couch} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Couch, John Nathaniel (1896-x), American mycologist in North Carolina. (*Couch*).
+Couch, John Nathaniel (1896-x), American mycologist in North Carolina. 
+**Abbreviated name**: *Couch*
 
 #### Herbarium and types
 

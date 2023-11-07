@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103253#page/96/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33068312) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harvey, William Henry (1811-1866), Irish botanist; colonial treasurer at the Cape 1836-1841; curator of TCD 1843; professor of botany Dublin 1856; traveller in the United States (1849-1850), South Africa (1835-1841), and Australia, New Zealand and Fiji (1853-1856). (*Harv.*).
+Harvey, William Henry (1811-1866), Irish botanist; colonial treasurer at the Cape 1836-1841; curator of TCD 1843; professor of botany Dublin 1856; traveller in the United States (1849-1850), South Africa (1835-1841), and Australia, New Zealand and Fiji (1853-1856). 
+**Abbreviated name**: *Harv.*
 
 #### Herbarium and types
 

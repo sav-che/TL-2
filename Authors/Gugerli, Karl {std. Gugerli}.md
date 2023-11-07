@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103832#page/456/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33258922) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gugerli, Karl (1910-x), Swiss botanist, born 17 Mar 1910 in Zurich, Ph.D. 1940 Univ. of Zurich. (*Gugerli*).
+Gugerli, Karl (1910-x), Swiss botanist, born 17 Mar 1910 in Zurich, Ph.D. 1940 Univ. of Zurich. 
+**Abbreviated name**: *Gugerli*
 
 #### Herbarium and types
 

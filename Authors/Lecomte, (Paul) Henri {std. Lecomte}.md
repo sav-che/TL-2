@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/item/103253#page/807/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lecomte, (Paul) Henri (1856-1934), French botanist; Lic. sc. nat. Nancy 1881, id. phys. 1883, Dr. sci. nat. Paris 1889; from 1884-1906 teacher at the Lycées Saint-Louis and Henri IV; from 1906 director of the Laboratoire de Phanérogamie of the Museum d'Histoire naturelle; played an active rôle in the founding of the new Paris herbarium by means of Rockefeller money. (*Lecomte*).
+Lecomte, (Paul) Henri (1856-1934), French botanist; Lic. sc. nat. Nancy 1881, id. phys. 1883, Dr. sci. nat. Paris 1889; from 1884-1906 teacher at the Lycées Saint-Louis and Henri IV; from 1906 director of the Laboratoire de Phanérogamie of the Museum d'Histoire naturelle; played an active rôle in the founding of the new Paris herbarium by means of Rockefeller money. 
+**Abbreviated name**: *Lecomte*
 
 #### Herbarium and types
 

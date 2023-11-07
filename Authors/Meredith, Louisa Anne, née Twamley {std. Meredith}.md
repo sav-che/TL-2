@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/104137#page/438/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33355509) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meredith, Louisa Anne, née Twamley (1812-1895), British botanical artist, bush naturalist, writer and poetess; settled in Australia 1839 (mainly N.S.W. and Tasmania) (*Meredith*).
+Meredith, Louisa Anne, née Twamley (1812-1895), British botanical artist, bush naturalist, writer and poetess; settled in Australia 1839 (mainly N.S.W. and Tasmania) 
+**Abbreviated name**: *Meredith*
 
 #### Herbarium and types
 

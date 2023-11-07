@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/item/103414#page/618/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33120701) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crüger, Hermann {std. Crueg.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Crueger, Hermann (1818-1864), German born apothecary who settled in Trinidad in 1841, Government botanist and director of the botanical garden 1857-1864. (*Crueg.*).
+Crueger, Hermann (1818-1864), German born apothecary who settled in Trinidad in 1841, Government botanist and director of the botanical garden 1857-1864. 
+**Abbreviated name**: *Crueg.*
 
 #### Herbarium and types
 

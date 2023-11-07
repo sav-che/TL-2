@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/item/104077#page/618/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33333743) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simler, Rudolf Theodor (1833-1874), Swiss high school teacher and botanist; teacher for natural sciences at the agricultural college of Muri-Aargau 1864-1872; professor at the agricultural college zum Strickhof, Zürich 1872-1874. (*Simler*).
+Simler, Rudolf Theodor (1833-1874), Swiss high school teacher and botanist; teacher for natural sciences at the agricultural college of Muri-Aargau 1864-1872; professor at the agricultural college zum Strickhof, Zürich 1872-1874. 
+**Abbreviated name**: *Simler*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/item/103414#page/978/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33121061) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geiseler, Eduard Ferdinand (1781-1872), German physician and botanist at Danzig. (*Geiseler*).
+Geiseler, Eduard Ferdinand (1781-1872), German physician and botanist at Danzig. 
+**Abbreviated name**: *Geiseler*
 
 #### Herbarium and types
 

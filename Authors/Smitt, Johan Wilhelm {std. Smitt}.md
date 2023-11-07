@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/item/104077#page/721/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33333846) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smitt, Johan Wilhelm (1821-1904), Swedish mycologist, ultimately consul for Argentina in Stockholm 1875-1902. (*Smitt*).
+Smitt, Johan Wilhelm (1821-1904), Swedish mycologist, ultimately consul for Argentina in Stockholm 1875-1902. 
+**Abbreviated name**: *Smitt*
 
 #### Herbarium and types
 

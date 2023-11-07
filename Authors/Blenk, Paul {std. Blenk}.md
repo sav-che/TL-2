@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103859#page/222/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33265409) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blenk, Paul (fl. 1884), German botanist who studied at the University of Erlangen, Dr. phil. id. 1884, died at San Remo on 30 Dec 1886. (*Blenk*).
+Blenk, Paul (fl. 1884), German botanist who studied at the University of Erlangen, Dr. phil. id. 1884, died at San Remo on 30 Dec 1886. 
+**Abbreviated name**: *Blenk*
 
 #### Herbarium and types
 

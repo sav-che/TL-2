@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/item/103253#page/885/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lettau, Georg (1878-1951), German physician and lichenologist; ophthalmologist at Arnstadt (1906-1910); from 1910 at Lörrach, Baden, until 1923 as practicing ophthalmologist, 1923-1931 as administrator. (*Lettau*).
+Lettau, Georg (1878-1951), German physician and lichenologist; ophthalmologist at Arnstadt (1906-1910); from 1910 at Lörrach, Baden, until 1923 as practicing ophthalmologist, 1923-1931 as administrator. 
+**Abbreviated name**: *Lettau*
 
 #### Herbarium and types
 

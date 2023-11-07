@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/104137#page/307/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marcialis, Efisio (fl. 1889), Italian botanist at Cagliari (*Marcialis*).
+Marcialis, Efisio (fl. 1889), Italian botanist at Cagliari 
+**Abbreviated name**: *Marcialis*
 
 #### Herbarium and types
 

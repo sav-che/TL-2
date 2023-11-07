@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103834#page/240/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33259722) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Wilhelm Johannes (1892-1977), Swiss-born German ornithologist and botanist, born 21 Oct 1892 in Fehrultdorf (Kt. Zürich), attended schools in Winnenden and Cannstatt, studied natural history in Stuttgart 1910-1911 and later in Tübingen, Dr. Sci. (ornithology) 1913, visited the Mediterranean area, teacher at the botanical inst. of the technical high school in Stuttgart, died 18 Nov 1977. (*W. Fisch.*).
+Fischer, Wilhelm Johannes (1892-1977), Swiss-born German ornithologist and botanist, born 21 Oct 1892 in Fehrultdorf (Kt. Zürich), attended schools in Winnenden and Cannstatt, studied natural history in Stuttgart 1910-1911 and later in Tübingen, Dr. Sci. (ornithology) 1913, visited the Mediterranean area, teacher at the botanical inst. of the technical high school in Stuttgart, died 18 Nov 1977. 
+**Abbreviated name**: *W. Fisch.*
 
 #### Herbarium and types
 

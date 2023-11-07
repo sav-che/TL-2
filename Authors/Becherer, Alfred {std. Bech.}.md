@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103859#page/26/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33265213) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Becherer, Alfred (1897-1977), Suisse (Basel-born) botanist, educated at the Basel "Humanistisches Gymnasium", dipl. 1916, studied natural sciences at the University of Basel, Dr. phil. 1924; subsequently assistant with Senn, Basel; in 1928 studying at the Royal Botanical Gardens, Kew; assistant at the Conservatoire botanique de Genève, with Briquet, 1929; lecturer at the University of Genève 1934, curator at the Conservatoire 1943; retired to Lugano 1957 continuing his botanical work, curator of the herbarium of the Museo cantonale di storia naturale, Liceo Lugano 1961. (*Bech.*).
+Becherer, Alfred (1897-1977), Suisse (Basel-born) botanist, educated at the Basel "Humanistisches Gymnasium", dipl. 1916, studied natural sciences at the University of Basel, Dr. phil. 1924; subsequently assistant with Senn, Basel; in 1928 studying at the Royal Botanical Gardens, Kew; assistant at the Conservatoire botanique de Genève, with Briquet, 1929; lecturer at the University of Genève 1934, curator at the Conservatoire 1943; retired to Lugano 1957 continuing his botanical work, curator of the herbarium of the Museo cantonale di storia naturale, Liceo Lugano 1961. 
+**Abbreviated name**: *Bech.*
 
 #### Herbarium and types
 

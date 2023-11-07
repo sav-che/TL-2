@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103833#page/198/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33259232) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delondre, Auguste (1790-1865), French botanist, born 1790, died 27 Feb near Le Havre, member of the Académie impériale de médecine. (*Delondre*).
+Delondre, Auguste (1790-1865), French botanist, born 1790, died 27 Feb near Le Havre, member of the Académie impériale de médecine. 
+**Abbreviated name**: *Delondre*
 
 #### Herbarium and types
 

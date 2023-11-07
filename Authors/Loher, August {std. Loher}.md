@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/104137#page/162/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33355233) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loher, August (x-1930), German botanist; wholesale dealer in pharmaceuticals; from 1889 resident in the Philippines. (*Loher*).
+Loher, August (x-1930), German botanist; wholesale dealer in pharmaceuticals; from 1889 resident in the Philippines. 
+**Abbreviated name**: *Loher*
 
 #### Herbarium and types
 

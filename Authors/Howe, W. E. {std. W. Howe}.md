@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103253#page/375/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33068591) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howe, W. E. (x-1891), British geologist and pteridologist at Matlock-Bath. (*W. Howe*).
+Howe, W. E. (x-1891), British geologist and pteridologist at Matlock-Bath. 
+**Abbreviated name**: *W. Howe*
 
 #### Herbarium and types
 

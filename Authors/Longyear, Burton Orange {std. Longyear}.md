@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/104137#page/170/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33355241) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Longyear, Burton Orange (1868-1969), American forester and botanist in Colorado. (*Longyear*).
+Longyear, Burton Orange (1868-1969), American forester and botanist in Colorado. 
+**Abbreviated name**: *Longyear*
 
 #### Herbarium and types
 

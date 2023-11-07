@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103861#page/206/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33266503) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchli, Matheus (1898-x), Swiss agronomist and botanist, assistant at the Eidg. Landwirtschaftl. Versuchsanstalt Zürich-Oerlikon. (*M. Buchli*).
+Buchli, Matheus (1898-x), Swiss agronomist and botanist, assistant at the Eidg. Landwirtschaftl. Versuchsanstalt Zürich-Oerlikon. 
+**Abbreviated name**: *M. Buchli*
 
 #### Herbarium and types
 

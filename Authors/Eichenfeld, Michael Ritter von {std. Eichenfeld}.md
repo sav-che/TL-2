@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103835#page/285/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33260263) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichenfeld, Michael Ritter von (1839-1916), Austrian lawyer and botanist, born 22 Jul 1839 at Vienna, "Oberlandesgerichtsrath" at Vienna, studied the flora in the vicinity of Lienz (1883, 1886 and 1889) and visited Panevieggio in the summers of 1892-1897, died at Vienna 1916. (*Eichenfeld*).
+Eichenfeld, Michael Ritter von (1839-1916), Austrian lawyer and botanist, born 22 Jul 1839 at Vienna, "Oberlandesgerichtsrath" at Vienna, studied the flora in the vicinity of Lienz (1883, 1886 and 1889) and visited Panevieggio in the summers of 1892-1897, died at Vienna 1916. 
+**Abbreviated name**: *Eichenfeld*
 
 #### Herbarium and types
 

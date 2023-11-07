@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/item/104137#page/570/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moll, Karl Maria Ehrenbert, Freiherr von (1760-1838), German scientist, director of the mathematical-physical class of the Kgl. bayerische Akademie der Wissenschaften at München. (*K. Moll*).
+Moll, Karl Maria Ehrenbert, Freiherr von (1760-1838), German scientist, director of the mathematical-physical class of the Kgl. bayerische Akademie der Wissenschaften at München. 
+**Abbreviated name**: *K. Moll*
 
 #### Herbarium and types
 

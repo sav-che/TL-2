@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103414#page/119/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33120202) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Artis, Edmund Tyrell {std. Artis} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Artis, Edmund Tyrell (1789-1847), British palaeobotanist and archeologist. (*Artis*).
+Artis, Edmund Tyrell (1789-1847), British palaeobotanist and archeologist. 
+**Abbreviated name**: *Artis*
 
 #### Collections
 

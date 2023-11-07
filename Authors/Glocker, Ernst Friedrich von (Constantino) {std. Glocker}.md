@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/item/103414#page/1001/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Glocker, Ernst Friedrich von ("Constantino") (1793-1858), German mineralogist and palaeobiologist at Stuttgart. (*Glocker*).
+Glocker, Ernst Friedrich von ("Constantino") (1793-1858), German mineralogist and palaeobiologist at Stuttgart. 
+**Abbreviated name**: *Glocker*
 
 #### Collections
 

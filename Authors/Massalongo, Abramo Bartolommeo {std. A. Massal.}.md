@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/104137#page/365/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Massalongo, Abramo Bartolommeo (1824-1860), Italian lichenologist and palaeobotanist; high school teacher at Verona; with G. W. Koerber founder of the "Italian-Silesian" school of lichenology. (*A. Massal.*).
+Massalongo, Abramo Bartolommeo (1824-1860), Italian lichenologist and palaeobotanist; high school teacher at Verona; with G. W. Koerber founder of the "Italian-Silesian" school of lichenology. 
+**Abbreviated name**: *A. Massal.*
 
 #### Herbarium and types
 

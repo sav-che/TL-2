@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103624#page/229/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33189686) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petzold, \[Karl\] Wilhelm (1848-1897), German (Saxonian) botanist and geologist; Dr. phil. Halle 1876; in the campaign in France 1870-1871; high school teacher at Neu-Brandenburg 1874-1877, id. at Weisenburg i. E. (Wissembourg) 1877-1879, id. at Braunschweig 1880-1897. (*W. Petzold*).
+Petzold, \[Karl\] Wilhelm (1848-1897), German (Saxonian) botanist and geologist; Dr. phil. Halle 1876; in the campaign in France 1870-1871; high school teacher at Neu-Brandenburg 1874-1877, id. at Weisenburg i. E. (Wissembourg) 1877-1879, id. at Braunschweig 1880-1897. 
+**Abbreviated name**: *W. Petzold*
 
 #### Herbarium and types
 

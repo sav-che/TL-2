@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/item/103624#page/901/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rose, Lewis Samuel (originally: Rosenbaum) (1893-1973), American (native Californian) plant collector in California; long-time associate of the California Academy of Sciences, from 1930 as a volunteer in its Department of Botany. (*L. Rose*).
+Rose, Lewis Samuel (originally: Rosenbaum) (1893-1973), American (native Californian) plant collector in California; long-time associate of the California Academy of Sciences, from 1930 as a volunteer in its Department of Botany. 
+**Abbreviated name**: *L. Rose*
 
 #### Herbarium and types
 

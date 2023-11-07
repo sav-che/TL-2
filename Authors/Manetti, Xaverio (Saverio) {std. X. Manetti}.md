@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/104137#page/290/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Manetti, Xaverio \[Saverio\] (1723-1785), Italian botanist; physician in Florence and director of the local botanic garden. (*X. Manetti*).
+Manetti, Xaverio \[Saverio\] (1723-1785), Italian botanist; physician in Florence and director of the local botanic garden. 
+**Abbreviated name**: *X. Manetti*
 
 #### Herbarium and types
 

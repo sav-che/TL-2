@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/item/103253#page/559/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33068775) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kiaerskou, (Kjaerskou) Hjalmar Frederik Christian (1835-1900), Danish botanist and high school teacher at Copenhagen; from 1861-1883 assistant at the Botanisk Museum parttime); from 1883-1900 inspector id. (*Kiaersk.*).
+Kiaerskou, (Kjaerskou) Hjalmar Frederik Christian (1835-1900), Danish botanist and high school teacher at Copenhagen; from 1861-1883 assistant at the Botanisk Museum parttime); from 1883-1900 inspector id. 
+**Abbreviated name**: *Kiaersk.*
 
 #### Herbarium and types
 

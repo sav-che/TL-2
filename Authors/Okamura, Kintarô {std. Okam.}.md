@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/item/104137#page/831/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33355902) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Okamura, Kintarô (1867-1935), Japanese algologist. (*Okam.*).
+Okamura, Kintarô (1867-1935), Japanese algologist. 
+**Abbreviated name**: *Okam.*
 
 #### Herbarium and types
 

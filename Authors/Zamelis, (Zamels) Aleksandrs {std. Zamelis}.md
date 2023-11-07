@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/item/103250#page/575/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33066855) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zamelis, \[Zamels\] Aleksandrs (1897-1943), Latvian botanist and geneticist; studied natural sciences at St. Petersburg 1914-1917 and Riga 1917-1921; Mag. rer. nat. Riga 1921, habil. ib. 1925; assistant at the Botanical Institute of the University of Riga 1922-1925, hon. lecturer from 1925-1943; Dr. phil. 1942; also professor of genetics at the Agricultural Academy at Jelgava 1942-1943. (*Zamelis*).
+Zamelis, \[Zamels\] Aleksandrs (1897-1943), Latvian botanist and geneticist; studied natural sciences at St. Petersburg 1914-1917 and Riga 1917-1921; Mag. rer. nat. Riga 1921, habil. ib. 1925; assistant at the Botanical Institute of the University of Riga 1922-1925, hon. lecturer from 1925-1943; Dr. phil. 1942; also professor of genetics at the Agricultural Academy at Jelgava 1942-1943. 
+**Abbreviated name**: *Zamelis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103858#page/223/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33264938) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Augier, Augustin (fl. 1801), French botanist at Lyon. (*Augier*).
+Augier, Augustin (fl. 1801), French botanist at Lyon. 
+**Abbreviated name**: *Augier*
 
 #### Herbarium and types
 

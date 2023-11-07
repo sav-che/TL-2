@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103835#page/389/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33260367) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Entz, Géza (1875-1943), Hungarian zoologist and algologist, born 1875, working at the Hungarian academy of sciences on the biology of Hungarian Peridineae until he moved to Utrecht (Netherlands) working at the zoological laboratory of the university from 1920 until 1929, director of the biological institute Tihanyi (1929), director zool. museum Budapest and professor there, died 21 Feb 1943. (*Entz*).
+Entz, Géza (1875-1943), Hungarian zoologist and algologist, born 1875, working at the Hungarian academy of sciences on the biology of Hungarian Peridineae until he moved to Utrecht (Netherlands) working at the zoological laboratory of the university from 1920 until 1929, director of the biological institute Tihanyi (1929), director zool. museum Budapest and professor there, died 21 Feb 1943. 
+**Abbreviated name**: *Entz*
 
 #### Note
 

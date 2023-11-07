@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103253#page/245/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hochreutiner, Bénedict Pierre Georges (1873-1959), Swiss botanist and theologist; assistant to Briquet (1896); in Indonesia 1903-1905; at the Conservatoire botanique de Genève 1906-1943; specialist on Malvaceae and on the flora of S. Algeria. (*Hochr.*).
+Hochreutiner, Bénedict Pierre Georges (1873-1959), Swiss botanist and theologist; assistant to Briquet (1896); in Indonesia 1903-1905; at the Conservatoire botanique de Genève 1906-1943; specialist on Malvaceae and on the flora of S. Algeria. 
+**Abbreviated name**: *Hochr.*
 
 #### Herbarium and types
 

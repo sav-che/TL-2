@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103833#page/43/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259077) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dallimore, William (1871-1959), British botanist and gardener, Kew Gardener 1891, ib. foreman of Arboretum 1901-1908, assistant at the Kew Museum 1908-1926, keeper (curator) id. 1926-1936, development of the National Pinetum, Bedgebury ca. 1939. (*Dallim.*).
+Dallimore, William (1871-1959), British botanist and gardener, Kew Gardener 1891, ib. foreman of Arboretum 1901-1908, assistant at the Kew Museum 1908-1926, keeper (curator) id. 1926-1936, development of the National Pinetum, Bedgebury ca. 1939. 
+**Abbreviated name**: *Dallim.*
 
 #### Herbarium and types
 

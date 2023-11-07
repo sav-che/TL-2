@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103833#page/296/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33259330) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dick, Julius (1873-1950), German botanist, born 14 August 1873 in Kusel in the Pfalz, died in Neustadt an der Haardt 17 Mar 1950, educated in gymnasium in Kaiserslautern, studied geodesy at the Königlich Technische Universität of München, interested in orchids and Desmidiaceae, in the "Flurbereinigungsamt" in Neustadt an der Haardt from 1924-1938. (*J. Dick*).
+Dick, Julius (1873-1950), German botanist, born 14 August 1873 in Kusel in the Pfalz, died in Neustadt an der Haardt 17 Mar 1950, educated in gymnasium in Kaiserslautern, studied geodesy at the Königlich Technische Universität of München, interested in orchids and Desmidiaceae, in the "Flurbereinigungsamt" in Neustadt an der Haardt from 1924-1938. 
+**Abbreviated name**: *J. Dick*
 
 #### Herbarium and types
 

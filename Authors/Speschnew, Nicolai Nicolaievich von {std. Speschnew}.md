@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/item/104077#page/802/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33333927) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Speschnew, Nicolai Nicolaievich von (1844-1907), Russian mycologist; state mycologist of the Russian department of agriculture in the Caucasus and director of the department's mycological laboratory at Tiflis. (*Speschnew*).
+Speschnew, Nicolai Nicolaievich von (1844-1907), Russian mycologist; state mycologist of the Russian department of agriculture in the Caucasus and director of the department's mycological laboratory at Tiflis. 
+**Abbreviated name**: *Speschnew*
 
 #### Herbarium and types
 

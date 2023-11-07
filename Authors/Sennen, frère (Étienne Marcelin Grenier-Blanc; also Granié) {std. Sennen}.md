@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/104077#page/523/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33333648) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sennen, *frère* \[Étienne Marcelin Grenier-Blanc; also: Granié\] (1861-1937), French botanist and clergyman to the "Frères des écoles chrétiennes"; director of schools at Prades 1896-1898 and La Nouvelle 1898-1904; from 1904 director of his congregation's school at Figueiras (Catalonia); ultimately at Marseilles; student of the flora of the Iberian Peninsula and Morocco. (*Sennen*).
+Sennen, *frère* \[Étienne Marcelin Grenier-Blanc; also: Granié\] (1861-1937), French botanist and clergyman to the "Frères des écoles chrétiennes"; director of schools at Prades 1896-1898 and La Nouvelle 1898-1904; from 1904 director of his congregation's school at Figueiras (Catalonia); ultimately at Marseilles; student of the flora of the Iberian Peninsula and Morocco. 
+**Abbreviated name**: *Sennen*
 
 #### Herbarium and types
 

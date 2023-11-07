@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/item/103250#page/570/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33066850) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zahlbruckner, Johann \[Baptist\] (1782-1851), Austrian botanist and mineralogist; in the service of Johann of Austria from 1808, from 1818 as private secretary, accompanying the archduke on his many travels. (*J. Zahlbr.*).
+Zahlbruckner, Johann \[Baptist\] (1782-1851), Austrian botanist and mineralogist; in the service of Johann of Austria from 1808, from 1818 as private secretary, accompanying the archduke on his many travels. 
+**Abbreviated name**: *J. Zahlbr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103250#page/92/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33066372) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walker, Richard (1791-1870), British clergyman and botanist; educated at Balliol and Magdalen Colleges, Oxford; MA. 1817, B.D. 1824; fellow of Magdalen College 1821, subsequently dean, bursar and vice-president and master of the Grammar School of Magdalen College, later curate of Tilehurst nr Reading; died at Olveston, Gloucestershire. (*R. Walker*).
+Walker, Richard (1791-1870), British clergyman and botanist; educated at Balliol and Magdalen Colleges, Oxford; MA. 1817, B.D. 1824; fellow of Magdalen College 1821, subsequently dean, bursar and vice-president and master of the Grammar School of Magdalen College, later curate of Tilehurst nr Reading; died at Olveston, Gloucestershire. 
+**Abbreviated name**: *R. Walker*
 
 #### Herbarium and types
 

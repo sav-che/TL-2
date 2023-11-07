@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/103683#page/519/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33212551) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trouillard, Charles (1821-1888), French banker and amateur botanist at Saumur (Maine-et-Loire). (*Trouillard*).
+Trouillard, Charles (1821-1888), French banker and amateur botanist at Saumur (Maine-et-Loire). 
+**Abbreviated name**: *Trouillard*
 
 #### Herbarium and types
 

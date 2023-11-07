@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103624#page/414/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33189871) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prince, William (1766-1842), American botanist and horticulturist, proprietor of the "Linnaean botanic Garden" at Flushing, N.Y. (*W. Prince*).
+Prince, William (1766-1842), American botanist and horticulturist, proprietor of the "Linnaean botanic Garden" at Flushing, N.Y. 
+**Abbreviated name**: *W. Prince*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/item/103253#page/520/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33068736) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kanitz, August (Agoston, Agost) (1843-1896), Hungarian botanist, who studied with Neilreich in Wien, at Hungarian Altenburg (1869-1872), after 1872 professor of botany and director of the botanic garden at Klausenburg (Cluj, Kolozsvár). (*Kanitz*).
+Kanitz, August (Agoston, Agost) (1843-1896), Hungarian botanist, who studied with Neilreich in Wien, at Hungarian Altenburg (1869-1872), after 1872 professor of botany and director of the botanic garden at Klausenburg (Cluj, Kolozsvár). 
+**Abbreviated name**: *Kanitz*
 
 #### Herbarium and types
 

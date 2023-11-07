@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103833#page/140/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33259174) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Debes, E. (fl. 1885-1919/1920), German diatomist in Leipzig. (*E. Debes*).
+Debes, E. (fl. 1885-1919/1920), German diatomist in Leipzig. 
+**Abbreviated name**: *E. Debes*
 
 #### Herbarium and types
 

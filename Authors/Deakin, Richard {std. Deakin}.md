@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/item/103414#page/651/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deakin, Richard {std. Deakin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Deakin, Richard (1809-1873), British physician and botanist. (*Deakin*).
+Deakin, Richard (1809-1873), British physician and botanist. 
+**Abbreviated name**: *Deakin*
 
 #### Herbarium and types
 

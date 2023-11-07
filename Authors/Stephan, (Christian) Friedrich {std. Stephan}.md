@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/item/104077#page/903/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33334028) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stephan, \[Christian\] Friedrich (1 757-1814), German (Saxonian) botanist and physician; studied in Leipzig and Leiden; to St. Petersburg 1792; military physician in the Crimea 1783; professor of botany and chemistry at Moscow 1786; director of the Forestry Institute St. Petersburg from 1811. (*Stephan*).
+Stephan, \[Christian\] Friedrich (1 757-1814), German (Saxonian) botanist and physician; studied in Leipzig and Leiden; to St. Petersburg 1792; military physician in the Crimea 1783; professor of botany and chemistry at Moscow 1786; director of the Forestry Institute St. Petersburg from 1811. 
+**Abbreviated name**: *Stephan*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/item/104137#page/858/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33355929) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Orbigny, Alcide Dessalines d' (1802-1857), French traveller, palaeontologist and zoologist; travelled in South America 1826-1834; from then on in Paris as a private scientist; from 1856 as professor of paleontology at the Muséum d'Histoire naturelle. (*A. D. d' Orb.*).
+Orbigny, Alcide Dessalines d' (1802-1857), French traveller, palaeontologist and zoologist; travelled in South America 1826-1834; from then on in Paris as a private scientist; from 1856 as professor of paleontology at the Muséum d'Histoire naturelle. 
+**Abbreviated name**: *A.D. d'Orb.*
 
 #### Herbarium and types
 

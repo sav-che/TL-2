@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103253#page/278/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33068494) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hohenacker, Rudolf Friedrich (1798-1874), German missionary (1822-1830), physician, botanist and collector; collecting 1830-1841; from 1842-1858 at Esslingen, selling plant collections made by himself and others; from 1858 at Kirchheim/Teck. (*Hohen.*).
+Hohenacker, Rudolf Friedrich (1798-1874), German missionary (1822-1830), physician, botanist and collector; collecting 1830-1841; from 1842-1858 at Esslingen, selling plant collections made by himself and others; from 1858 at Kirchheim/Teck. 
+**Abbreviated name**: *Hohen.*
 
 #### Herbarium and types
 

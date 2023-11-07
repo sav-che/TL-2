@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103624#page/92/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33189549) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parrot, Johann Jacob Friedrich Wilhelm (1792-1841), German-born (Baden) physician and botanist; studied at Dorpat (1809-1811); to the Crimea and the Caucasus 1811-1812; military physician with the Russian army 1815; professor of medicine at Dorpat 1821; visited the Pyrenees in 1824, and climbed Ararat 1829; to the North Cape 1837. (*Parrot*).
+Parrot, Johann Jacob Friedrich Wilhelm (1792-1841), German-born (Baden) physician and botanist; studied at Dorpat (1809-1811); to the Crimea and the Caucasus 1811-1812; military physician with the Russian army 1815; professor of medicine at Dorpat 1821; visited the Pyrenees in 1824, and climbed Ararat 1829; to the North Cape 1837. 
+**Abbreviated name**: *Parrot*
 
 #### Herbarium and types
 

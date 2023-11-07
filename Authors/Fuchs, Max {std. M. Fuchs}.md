@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103832#page/83/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33258549) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fuchs, Max (1861-x), German geographer, born 7 Jan 1861 in Bromberg, attended gymnasium in Bromberg, studied history and geography in Berlin from 1880, went to Halle 1882, doctorate 1885 Halle, worked at a bank 1885-1893, dir. of archives, Deutsche Bank in Berlin 1893-1929. (*M. Fuchs*).
+Fuchs, Max (1861-x), German geographer, born 7 Jan 1861 in Bromberg, attended gymnasium in Bromberg, studied history and geography in Berlin from 1880, went to Halle 1882, doctorate 1885 Halle, worked at a bank 1885-1893, dir. of archives, Deutsche Bank in Berlin 1893-1929. 
+**Abbreviated name**: *M. Fuchs*
 
 #### Herbarium and types
 

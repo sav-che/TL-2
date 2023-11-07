@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/103624#page/842/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rodigas, Émile (1831-1902), Belgian botanist and zoologist at Gent; director of the local zoological garden, later teacher at and director of the horticultural college. (*Rodigas*).
+Rodigas, Émile (1831-1902), Belgian botanist and zoologist at Gent; director of the local zoological garden, later teacher at and director of the horticultural college. 
+**Abbreviated name**: *Rodigas*
 
 #### Herbarium and types
 

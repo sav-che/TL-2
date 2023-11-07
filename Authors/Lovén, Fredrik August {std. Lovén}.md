@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/104137#page/191/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33355262) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lovén, Fredrik August (1847-1929), Swedish botanist; Dr. phil. Lund 1874; with the Skogsinstitut (wood and forestry) 1875-1802, at Uddeholmsverken 1884-1908. (*Lovén*).
+Lovén, Fredrik August (1847-1929), Swedish botanist; Dr. phil. Lund 1874; with the Skogsinstitut (wood and forestry) 1875-1802, at Uddeholmsverken 1884-1908. 
+**Abbreviated name**: *Lovén*
 
 #### Herbarium and types
 

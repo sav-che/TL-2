@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/item/103624#page/618/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33190075) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ray, John (until 1669: Wray) (1627-1705), British naturalist; studied theology at Cambridge, fellow of Trinity College 1649-1662, MA Cambridge 1651, travelled widely in England; in continental Europe (1663-1666) "father" of British botany. F.R.S. 1667. (*Ray*).
+Ray, John (until 1669: Wray) (1627-1705), British naturalist; studied theology at Cambridge, fellow of Trinity College 1649-1662, MA Cambridge 1651, travelled widely in England; in continental Europe (1663-1666) "father" of British botany. F.R.S. 1667. 
+**Abbreviated name**: *Ray*
 
 #### Herbarium and types
 

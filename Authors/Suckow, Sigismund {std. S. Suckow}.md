@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103683#page/87/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suckow, Sigismund (1845-?), German (Silesian) botanist; Dr. phil. Breslau 1873; student of F. Cohn. (*S. Suckow*).
+Suckow, Sigismund (1845-?), German (Silesian) botanist; Dr. phil. Breslau 1873; student of F. Cohn. 
+**Abbreviated name**: *S. Suckow*
 
 #### Herbarium and types
 

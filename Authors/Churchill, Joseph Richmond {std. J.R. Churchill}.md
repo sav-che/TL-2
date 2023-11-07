@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103860#page/182/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265849) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Churchill, Joseph Richmond (1845-1933), American botanist, born 29 Jul 1845, Dorchester, Mass., died 14 Feb 1933, Dorchester, Mass., Judge, sometime resident of Boston and Dorchester, Mass., collected plants in twelve eastern states and Canada, visited Colorado in 1918, botanizing about Brookvale, Clear Creek Co. (*J.R. Churchill*).
+Churchill, Joseph Richmond (1845-1933), American botanist, born 29 Jul 1845, Dorchester, Mass., died 14 Feb 1933, Dorchester, Mass., Judge, sometime resident of Boston and Dorchester, Mass., collected plants in twelve eastern states and Canada, visited Colorado in 1918, botanizing about Brookvale, Clear Creek Co. 
+**Abbreviated name**: *J.R. Churchill*
 
 #### Herbarium and types
 

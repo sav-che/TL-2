@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/item/103414#page/963/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33121046) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gardner, Charles Austin (1896-1970), Government botanist of Western Australia. (*C. A. Gardner*).
+Gardner, Charles Austin (1896-1970), Government botanist of Western Australia. 
+**Abbreviated name**: *C. A. Gardner*
 
 #### Herbarium and types
 

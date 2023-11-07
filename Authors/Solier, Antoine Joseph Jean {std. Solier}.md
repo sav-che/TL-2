@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/104077#page/741/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33333866) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Solier, Antoine Joseph Jean (1792-1851), French botanist, entomologist and soldier; studied at the Paris École polytechnique, in the Napoleonic army as lieutenant with the engineers 1813-1815; captain in the French army at Marseille 1815-1823 and Montpellier 1823-1824, again in Marseille 1824-1832; in retirement ib. 1832-1851. (*Solier*).
+Solier, Antoine Joseph Jean (1792-1851), French botanist, entomologist and soldier; studied at the Paris École polytechnique, in the Napoleonic army as lieutenant with the engineers 1813-1815; captain in the French army at Marseille 1815-1823 and Montpellier 1823-1824, again in Marseille 1824-1832; in retirement ib. 1832-1851. 
+**Abbreviated name**: *Solier*
 
 #### Herbarium and types
 

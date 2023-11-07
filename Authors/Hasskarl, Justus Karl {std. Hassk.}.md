@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103253#page/121/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33068337) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hasskarl, Justus Karl (1811-1894), German botanist; studied in Bonn; in Java 1837-1843 and 1846 at the Bogor garden; from 1852-1856 involved in introducing *Cinchona* into the Netherlands East Indies; Dr. phil. h.c. Greifswald 1858; from 1856 as private scientist at Cleve, Germany. (*Hassk.*).
+Hasskarl, Justus Karl (1811-1894), German botanist; studied in Bonn; in Java 1837-1843 and 1846 at the Bogor garden; from 1852-1856 involved in introducing *Cinchona* into the Netherlands East Indies; Dr. phil. h.c. Greifswald 1858; from 1856 as private scientist at Cleve, Germany. 
+**Abbreviated name**: *Hassk.*
 
 #### Herbarium and types
 

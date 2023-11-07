@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103253#page/187/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33068403) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henry, Aimé Constant Fidèle (1801-1875), French-born (Douai) artist, lithographer and publisher; came to Germany in 1816 to work with Arnz & Co., Düsseldorf; later at Bonn, founded the firm Henry and Cohen; published many illustrated botanical works. (*A. Henry*).
+Henry, Aimé Constant Fidèle (1801-1875), French-born (Douai) artist, lithographer and publisher; came to Germany in 1816 to work with Arnz & Co., Düsseldorf; later at Bonn, founded the firm Henry and Cohen; published many illustrated botanical works. 
+**Abbreviated name**: *A. Henry*
 
 #### Herbarium and types
 

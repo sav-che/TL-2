@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103683#page/256/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33212288) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Theorin, Pehr Gustaf Emanuel (1842-1916), Swedish botanist; Dr. phil. Uppsala 1866; teacher at Göteborg 1868; high school teacher at Falun 1878-1907. (*Theorin*).
+Theorin, Pehr Gustaf Emanuel (1842-1916), Swedish botanist; Dr. phil. Uppsala 1866; teacher at Göteborg 1868; high school teacher at Falun 1878-1907. 
+**Abbreviated name**: *Theorin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/103253#page/517/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33068733) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kamel, Georg Joseph (Georgius Josephus Camellus, Camel, Camelli) (1661-1706), Moravia born Jesuit (lay brother) missionary and pharmacist in the Phillippines. (*Kamel*).
+Kamel, Georg Joseph (Georgius Josephus Camellus, Camel, Camelli) (1661-1706), Moravia born Jesuit (lay brother) missionary and pharmacist in the Phillippines. 
+**Abbreviated name**: *Kamel*
 
 #### Herbarium and types
 

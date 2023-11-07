@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/item/104077#page/606/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siegesbeck, Johann Georg (1686-1755), German (Prussian) botanist; Dr. med. Wittenberg 1716; physician at Seehausen i.M. 1718-1730; regional physician at Helmstedt 1730-1735; physician and director of the botanical garden of St. Petersburg 1735-1747; practicing physician at Seehausen 1747-1755; originally a friend, later an adversary of Linnaeus. (*Siegesb.*).
+Siegesbeck, Johann Georg (1686-1755), German (Prussian) botanist; Dr. med. Wittenberg 1716; physician at Seehausen i.M. 1718-1730; regional physician at Helmstedt 1730-1735; physician and director of the botanical garden of St. Petersburg 1735-1747; practicing physician at Seehausen 1747-1755; originally a friend, later an adversary of Linnaeus. 
+**Abbreviated name**: *Siegesb.*
 
 #### Herbarium and types
 

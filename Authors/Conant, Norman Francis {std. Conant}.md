@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/103860#page/303/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33265970) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conant, Norman Francis (1908-x), American bacteriologist and mycologist, born in Walpole, Mass., educated at Bates College, BS 1930, at Harvard AM 1931 and Ph.D. 1933, trav. fellow Paris 1933-1934, assistant at Harvard 1934-1935, from 1935 at Duke University Hospital. (*Conant*).
+Conant, Norman Francis (1908-x), American bacteriologist and mycologist, born in Walpole, Mass., educated at Bates College, BS 1930, at Harvard AM 1931 and Ph.D. 1933, trav. fellow Paris 1933-1934, assistant at Harvard 1934-1935, from 1935 at Duke University Hospital. 
+**Abbreviated name**: *Conant*
 
 #### Herbarium and types
 

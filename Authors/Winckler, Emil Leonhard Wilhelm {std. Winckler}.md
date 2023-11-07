@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103250#page/424/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33066704) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winckler, Emil Leonhard Wilhelm (1824-ca. 1871), German pharmacist and botanist at Giessen. (*Winckler*).
+Winckler, Emil Leonhard Wilhelm (1824-ca. 1871), German pharmacist and botanist at Giessen. 
+**Abbreviated name**: *Winckler*
 
 #### Herbarium and types
 

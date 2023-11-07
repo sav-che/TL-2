@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/104137#page/221/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33355292) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lyons, John Charles (1792-1874), British botanist and orchid grower at Ladiston. (*J. Lyons*).
+Lyons, John Charles (1792-1874), British botanist and orchid grower at Ladiston. 
+**Abbreviated name**: *J. Lyons*
 
 #### Herbarium and types
 

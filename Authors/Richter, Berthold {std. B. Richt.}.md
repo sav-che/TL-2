@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/item/103624#page/789/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33190246) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richter, Berthold (1834-?), German (Silesian) botanist; Dr. med. Breslau 1860. (*B. Richt.*).
+Richter, Berthold (1834-?), German (Silesian) botanist; Dr. med. Breslau 1860. 
+**Abbreviated name**: *B. Richt.*
 
 #### Herbarium and types
 

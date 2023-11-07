@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103414#page/244/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33120327) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berkhout, Christine Marie (1893-1932), Dutch mycologist and phytopathologist, pupil of J. Westerdijk. (*Berkhout*).
+Berkhout, Christine Marie (1893-1932), Dutch mycologist and phytopathologist, pupil of J. Westerdijk. 
+**Abbreviated name**: *Berkhout*
 
 #### Herbarium and types
 

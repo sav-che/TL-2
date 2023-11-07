@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103859#page/233/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265420) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blottner, Karl Ludwig (1773-1802), German (Silesian) physician, born in Fraustadt in Schlesien, studied medicine at the University of Halle, Dr. med. ib. 1797, practising in Reinerz in Lower Silesia. (*Blottner*).
+Blottner, Karl Ludwig (1773-1802), German (Silesian) physician, born in Fraustadt in Schlesien, studied medicine at the University of Halle, Dr. med. ib. 1797, practising in Reinerz in Lower Silesia. 
+**Abbreviated name**: *Blottner*
 
 #### Herbarium and types
 

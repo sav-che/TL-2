@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/104137#page/355/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33355426) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martius, Carl \[Karl\] Friedrich Phil. Sigm. (1829-1899), German physician and botanist; Dr. med. Erlangen 1853; habil. ib. 1857; from 1858-1868 practicing physician at Nürnberg; from 1868 regional physician ib.; from 1873-1899 regional physician at Ansbach; son of T. W. C. Martius (*C. Mart.*).
+Martius, Carl \[Karl\] Friedrich Phil. Sigm. (1829-1899), German physician and botanist; Dr. med. Erlangen 1853; habil. ib. 1857; from 1858-1868 practicing physician at Nürnberg; from 1868 regional physician ib.; from 1873-1899 regional physician at Ansbach; son of T. W. C. Martius 
+**Abbreviated name**: *C. Mart.*
 
 #### Herbarium and types
 

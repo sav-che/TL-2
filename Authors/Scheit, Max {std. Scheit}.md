@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/104077#page/139/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheit, Max (1858-1888), German (Sachsen-Weimar-Eisenach) botanist and high school teacher; Dr. phil. Jena 1883; teacher at Sonnenberg. (*Scheit*).
+Scheit, Max (1858-1888), German (Sachsen-Weimar-Eisenach) botanist and high school teacher; Dr. phil. Jena 1883; teacher at Sonnenberg. 
+**Abbreviated name**: *Scheit*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/104137#page/249/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33355320) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macoun, John (1831-1920), Irish-born naturalist who went to Canada in 1850; professor of botany in Albert College, Belleville (Ont.) 1874-1881; from 1881-1912 botanist to the Dominion government and naturalist at the Geological Survey of Canada; ultimately in British Columbia. (*Macoun*).
+Macoun, John (1831-1920), Irish-born naturalist who went to Canada in 1850; professor of botany in Albert College, Belleville (Ont.) 1874-1881; from 1881-1912 botanist to the Dominion government and naturalist at the Geological Survey of Canada; ultimately in British Columbia. 
+**Abbreviated name**: *Macoun*
 
 #### Herbarium and types
 

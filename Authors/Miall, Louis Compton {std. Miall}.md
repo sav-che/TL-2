@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/104137#page/469/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33355540) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miall, Louis Compton (1842-1921), British botanist, entomologist, and palaeontologist; professor of biology at Yorkshire College of Science (Leeds University) 1876-1907. (*Miall*).
+Miall, Louis Compton (1842-1921), British botanist, entomologist, and palaeontologist; professor of biology at Yorkshire College of Science (Leeds University) 1876-1907. 
+**Abbreviated name**: *Miall*
 
 #### Herbarium and types
 

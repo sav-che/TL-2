@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103861#page/227/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33266524) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bujack, Johann Gottlieb (1787-1840), German (East-Prussian) botanist and zoologist, educated in the Königl. Waisenhaus (orphanage) at Königsberg 1799-1804, studied theology at the University of Königsberg 1804-1808, theological examination 1808, pastor and teacher at the orphanage 1808-1809, studied chemistry, botany, mineralogy and zoology at the same university, assistant teacher 1810, regular teacher 1811 at the Königl. Friedrichskollegium, professor ib. 1839-1840. (*Bujack*).
+Bujack, Johann Gottlieb (1787-1840), German (East-Prussian) botanist and zoologist, educated in the Königl. Waisenhaus (orphanage) at Königsberg 1799-1804, studied theology at the University of Königsberg 1804-1808, theological examination 1808, pastor and teacher at the orphanage 1808-1809, studied chemistry, botany, mineralogy and zoology at the same university, assistant teacher 1810, regular teacher 1811 at the Königl. Friedrichskollegium, professor ib. 1839-1840. 
+**Abbreviated name**: *Bujack*
 
 #### Herbarium and types
 

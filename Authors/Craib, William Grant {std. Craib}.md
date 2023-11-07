@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/item/103414#page/610/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33120693) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Craib, William Grant {std. Craib} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Craib, William Grant (1882-1933), British botanist at Aberdeen and Kew. (*Craib*).
+Craib, William Grant (1882-1933), British botanist at Aberdeen and Kew. 
+**Abbreviated name**: *Craib*
 
 #### Herbarium and types
 

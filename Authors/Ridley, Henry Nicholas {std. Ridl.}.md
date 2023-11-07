@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/item/103624#page/800/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33190257) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ridley, Henry Nicholas (1855-1956), British botanist; B.A. Oxford; assistant at the Botany Dept., Brit. Mus. 1880-1888, to Fernando do Noronha 1887; director Botanic Gardens Singapore 1888-1912; in retirement living at Kew, England; Linnean Gold Medal 1950; chief promotor of the introduction of the *Hevea* rubber trees in the Malay Peninsula. (*Ridl.*).
+Ridley, Henry Nicholas (1855-1956), British botanist; B.A. Oxford; assistant at the Botany Dept., Brit. Mus. 1880-1888, to Fernando do Noronha 1887; director Botanic Gardens Singapore 1888-1912; in retirement living at Kew, England; Linnean Gold Medal 1950; chief promotor of the introduction of the *Hevea* rubber trees in the Malay Peninsula. 
+**Abbreviated name**: *Ridl.*
 
 #### Herbarium and types
 

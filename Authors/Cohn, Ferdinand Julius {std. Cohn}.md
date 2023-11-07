@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/item/103414#page/567/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33120650) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cohn, Ferdinand Julius {std. Cohn} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cohn, Ferdinand Julius (1828-1898), German botanist and bacteriologist, "geheimer Regierungsrath" at Breslau. (*Cohn*).
+Cohn, Ferdinand Julius (1828-1898), German botanist and bacteriologist, "geheimer Regierungsrath" at Breslau. 
+**Abbreviated name**: *Cohn*
 
 #### Herbarium and types
 

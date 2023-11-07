@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103253#page/74/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33068290) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hanstein, Heinrich (1825-1871), German botanist and pharmacist. (*H. Hanst.*).
+Hanstein, Heinrich (1825-1871), German botanist and pharmacist. 
+**Abbreviated name**: *H. Hanst.*
 
 #### Herbarium and types
 

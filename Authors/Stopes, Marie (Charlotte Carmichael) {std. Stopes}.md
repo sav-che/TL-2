@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103683#page/36/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33212068) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stopes, Marie \[Charlotte Carmichael\] (1880-1958), British paleobotanist, pioneer of birth control, sex education and emancipation of women; Dr. phil. München 1904; Dr. sci. London Univ. 1905; asst. lecturer in palaeobotany, Manchester University 1904-1909; lecturer ib. 1909-1913; lecturer at University College London 1914-1920; from 1920 turning her attention mainly to birth control; opened "The mothers' clinic" in London 1921; married Reginald Ruggles Gates 1911 (annulled 1916), Humphrey Verdon Roe, 1918. (*Stopes*).
+Stopes, Marie \[Charlotte Carmichael\] (1880-1958), British paleobotanist, pioneer of birth control, sex education and emancipation of women; Dr. phil. München 1904; Dr. sci. London Univ. 1905; asst. lecturer in palaeobotany, Manchester University 1904-1909; lecturer ib. 1909-1913; lecturer at University College London 1914-1920; from 1920 turning her attention mainly to birth control; opened "The mothers' clinic" in London 1921; married Reginald Ruggles Gates 1911 (annulled 1916), Humphrey Verdon Roe, 1918. 
+**Abbreviated name**: *Stopes*
 
 #### Herbarium and types
 

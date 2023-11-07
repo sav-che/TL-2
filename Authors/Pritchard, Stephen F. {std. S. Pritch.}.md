@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103624#page/423/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pritchard, Stephen F. (*fl*. 1836). No description provided. (*S. Pritch.*).
+Pritchard, Stephen F. (*fl*. 1836). No description provided. 
+**Abbreviated name**: *S. Pritch.*
 
 #### Herbarium and types
 

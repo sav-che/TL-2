@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/104137#page/234/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McDougall, Walter Byron (1883-x), American ecologist and botanist; Ph. D. Univ. Mich. 1913; professor of botany at the University of Illinois; later botanist with the National Park Service until 1953. (*W. McDougall*).
+McDougall, Walter Byron (1883-x), American ecologist and botanist; Ph. D. Univ. Mich. 1913; professor of botany at the University of Illinois; later botanist with the National Park Service until 1953. 
+**Abbreviated name**: *W. McDougall*
 
 #### Herbarium and types
 

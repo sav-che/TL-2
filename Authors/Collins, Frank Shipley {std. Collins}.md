@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/103414#page/575/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33120658) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Collins, Frank Shipley {std. Collins} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Collins, Frank Shipley (1848-1920), American algologist. (*Collins*).
+Collins, Frank Shipley (1848-1920), American algologist. 
+**Abbreviated name**: *Collins*
 
 #### Herbarium and types
 

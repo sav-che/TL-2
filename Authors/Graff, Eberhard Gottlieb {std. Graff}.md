@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/item/103414#page/1026/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33121109) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Graff, Eberhard Gottlieb (1780-1841), German highschool teacher and botanist at Elbing. (*Graff*).
+Graff, Eberhard Gottlieb (1780-1841), German highschool teacher and botanist at Elbing. 
+**Abbreviated name**: *Graff*
 
 #### Herbarium and types
 

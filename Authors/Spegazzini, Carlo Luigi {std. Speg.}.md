@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/item/104077#page/790/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33333915) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spegazzini, Carlo Luigi (1858-1926), Italian-born Argentine botanist; trained at the viticultural and enological school of Conegliano Veneto 1876-1879; to Argentina 1879; assistant to the chair of botany at the Faculty of Sciences, Buenos Aires 1879; to Tierra del Fuego 1881-1882; assistant professor of botany Buenos Aires 1884; from 1885 with the Faculty of Agronomy at Santa Catalina, from 1887 as professor of zoology, from 1890 located at La Plata, from 1897-1912 professor of botany and phytopathology and in charge of the botanical section of the Museo de La Plata; from 1912 active as private botanist. (*Speg.*).
+Spegazzini, Carlo Luigi (1858-1926), Italian-born Argentine botanist; trained at the viticultural and enological school of Conegliano Veneto 1876-1879; to Argentina 1879; assistant to the chair of botany at the Faculty of Sciences, Buenos Aires 1879; to Tierra del Fuego 1881-1882; assistant professor of botany Buenos Aires 1884; from 1885 with the Faculty of Agronomy at Santa Catalina, from 1887 as professor of zoology, from 1890 located at La Plata, from 1897-1912 professor of botany and phytopathology and in charge of the botanical section of the Museo de La Plata; from 1912 active as private botanist. 
+**Abbreviated name**: *Speg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/item/103414#page/874/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fernandez-Villar, Celestino (1838-1907), *Philipplne botanist*. (*Fern.-Vill.*).
+Fernandez-Villar, Celestino (1838-1907), *Philipplne botanist*. 
+**Abbreviated name**: *Fern.-Vill.*
 
 #### Types
 

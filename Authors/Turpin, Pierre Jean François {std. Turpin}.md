@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/item/103683#page/559/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33212591) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turpin, Pierre Jean François (1775-1840), French botanist and botanical artist; from 1794-1802 in Haiti, Tortuga and the United States; from 1802 in France active as botanist and illustrator. (*Turpin*).
+Turpin, Pierre Jean François (1775-1840), French botanist and botanical artist; from 1794-1802 in Haiti, Tortuga and the United States; from 1802 in France active as botanist and illustrator. 
+**Abbreviated name**: *Turpin*
 
 #### Herbarium and types
 

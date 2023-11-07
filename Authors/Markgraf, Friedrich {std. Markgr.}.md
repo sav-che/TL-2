@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/item/104137#page/313/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33355384) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Markgraf, Friedrich (1897-x), German botanist; Dr. phil. Berlin 1922 (student of Engler and Diels); from 1921-1943 at the Botanical Museum, Berlin – Dahlem; Habil. Berlin 1927; prof. of botany Berlin 1934-1943; 1943-1945 at Müncheberg; 1945-1957 at the Botanical Garden Munchen; 1957-1958 at Ankara; from 1958-1967 at Zürich as professor of botany and director of the botanical garden. (*Markgr.*).
+Markgraf, Friedrich (1897-x), German botanist; Dr. phil. Berlin 1922 (student of Engler and Diels); from 1921-1943 at the Botanical Museum, Berlin – Dahlem; Habil. Berlin 1927; prof. of botany Berlin 1934-1943; 1943-1945 at Müncheberg; 1945-1957 at the Botanical Garden Munchen; 1957-1958 at Ankara; from 1958-1967 at Zürich as professor of botany and director of the botanical garden. 
+**Abbreviated name**: *Markgr.*
 
 #### Herbarium and types
 

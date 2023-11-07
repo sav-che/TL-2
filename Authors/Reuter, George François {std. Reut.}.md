@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/item/103624#page/756/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reuter, George François (1805-1872), Swiss (French-born) botanist (of Geneva parents), at Genève from 1826, at first active as engraver; from 1835 curator of the Candollean herbarium; with E. Boissier in Spain, 1841 and until 1849 curator of the Boissier herbarium and collaborator of Boissier accompanying him on his travels and collecting trips; from 1849-1872 director of the Genève botanical garden (succeeding Alph. de Candolle). (*Reut.*).
+Reuter, George François (1805-1872), Swiss (French-born) botanist (of Geneva parents), at Genève from 1826, at first active as engraver; from 1835 curator of the Candollean herbarium; with E. Boissier in Spain, 1841 and until 1849 curator of the Boissier herbarium and collaborator of Boissier accompanying him on his travels and collecting trips; from 1849-1872 director of the Genève botanical garden (succeeding Alph. de Candolle). 
+**Abbreviated name**: *Reut.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103861#page/204/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33266501) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchet, Samuel (1875-1956), French student of myxomycetes and aroids, born in Roanne, Loire, studied medicine and botany at the University of Paris (Sorbonne), collected beetles and cryptogams, sometime teacher of botany at the Sorbonne, sometime president of the Société botanique de France. (*Buchet*).
+Buchet, Samuel (1875-1956), French student of myxomycetes and aroids, born in Roanne, Loire, studied medicine and botany at the University of Paris (Sorbonne), collected beetles and cryptogams, sometime teacher of botany at the Sorbonne, sometime president of the Société botanique de France. 
+**Abbreviated name**: *Buchet*
 
 #### Herbarium and types
 

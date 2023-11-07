@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103683#page/206/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33212238) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tchihatcheff, Pierre de \[Chikhachef Petr Aleksandrovich; Tschihatcheff\] (1812-1890), Russian-born traveller, geographer and botanist of Bohemian descent; travelled in the Altai, Asia minor (1848-1858), Egypt, Algeria, Tunisia and Spain; resigned his diplomatic functions in 1844; resident in Paris from which he made his various trips. (*Tchihatcheff*).
+Tchihatcheff, Pierre de \[Chikhachef Petr Aleksandrovich; Tschihatcheff\] (1812-1890), Russian-born traveller, geographer and botanist of Bohemian descent; travelled in the Altai, Asia minor (1848-1858), Egypt, Algeria, Tunisia and Spain; resigned his diplomatic functions in 1844; resident in Paris from which he made his various trips. 
+**Abbreviated name**: *Tchihatcheff*
 
 #### Herbarium and types
 

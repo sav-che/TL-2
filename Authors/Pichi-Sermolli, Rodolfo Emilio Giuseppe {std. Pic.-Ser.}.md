@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103624#page/266/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33189723) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pichi-Sermolli, Rodolfo Emilio Giuseppe (1912-x), Italian botanist (pteridologist); Laureato Sci. nat. Firenze 1935; at the Herbarium Universitati Florentinae 1935-1950; from 1957-1959 at Sassari; later at Genova and Perugia. (*Pic.-Ser.*).
+Pichi-Sermolli, Rodolfo Emilio Giuseppe (1912-x), Italian botanist (pteridologist); Laureato Sci. nat. Firenze 1935; at the Herbarium Universitati Florentinae 1935-1950; from 1957-1959 at Sassari; later at Genova and Perugia. 
+**Abbreviated name**: *Pic.-Ser.*
 
 #### Herbarium and types
 

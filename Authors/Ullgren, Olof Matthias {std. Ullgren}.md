@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/103683#page/594/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33212626) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ullgren, Olof Matthias (1785-1819), Swedish botanist, historian and librarian; Dr. phil. Uppsala 1806, lecturer in Swedish history and employee at Uppsala University Library. (*Ullgren*).
+Ullgren, Olof Matthias (1785-1819), Swedish botanist, historian and librarian; Dr. phil. Uppsala 1806, lecturer in Swedish history and employee at Uppsala University Library. 
+**Abbreviated name**: *Ullgren*
 
 #### Herbarium and types
 

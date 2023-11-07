@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/item/103253#page/771/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Láng, Adolf Franz \[Franz Adolf, Adolph\] (1795-1863), Hungarian botanist and pharmacist at Pest, from 1832 at Neutra. (Nyitira). (*A. Láng*).
+Láng, Adolf Franz \[Franz Adolf, Adolph\] (1795-1863), Hungarian botanist and pharmacist at Pest, from 1832 at Neutra. (Nyitira). 
+**Abbreviated name**: *A. Láng*
 
 #### Herbarium and types
 

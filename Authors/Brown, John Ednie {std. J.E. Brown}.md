@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/item/103414#page/411/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33120494) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, John Ednie (1848-1899), Scottish born Australian botanist. (*J. E. Brown*).
+Brown, John Ednie (1848-1899), Scottish born Australian botanist. 
+**Abbreviated name**: *J. E. Brown*
 
 #### Herbarium and types
 

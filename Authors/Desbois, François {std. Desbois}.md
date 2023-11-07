@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103833#page/226/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Desbois, François (1827-1902), French horticulturist born at Angers, France, worked at Auderghem, near Brussels, member of the "Société royale de botanique" of Gand \[Gent\], with the "Cercle horticole Van Houtte". (*Desbois*).
+Desbois, François (1827-1902), French horticulturist born at Angers, France, worked at Auderghem, near Brussels, member of the "Société royale de botanique" of Gand \[Gent\], with the "Cercle horticole Van Houtte". 
+**Abbreviated name**: *Desbois*
 
 #### Herbarium and types
 

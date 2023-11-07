@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103858#page/180/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33264895) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arnott, George Arnott (sometimes Arnold) Walker {std. Arnott}|first entry]] for this author
 
 ### Author
 
-\* Arnott, George Arnott \[sometimes Arnold\] Walker (1799-1868), Scottish botanist, educated at the Edinburgh High School 1807, studied at the University of Edinburgh 1813-1818 (languages, botany and mathematics), A.M. 1818, further law studies until 1821, admitted to the Faculty of Advocates 1821, inherited his father's property 1822, from then on mainly interested in botany, visited France 1821-1825, contacting the Paris botanists as well as Brébisson (Falaise), publishing widely between 1822 and 1868, regius professor of botany at Glasgow and director of the Glasgow Botanic Gardens 1845-1868. (*Arnott*).
+\* Arnott, George Arnott \[sometimes Arnold\] Walker (1799-1868), Scottish botanist, educated at the Edinburgh High School 1807, studied at the University of Edinburgh 1813-1818 (languages, botany and mathematics), A.M. 1818, further law studies until 1821, admitted to the Faculty of Advocates 1821, inherited his father's property 1822, from then on mainly interested in botany, visited France 1821-1825, contacting the Paris botanists as well as Brébisson (Falaise), publishing widely between 1822 and 1868, regius professor of botany at Glasgow and director of the Glasgow Botanic Gardens 1845-1868. 
+**Abbreviated name**: *Arnott*
 
 #### Herbarium and types
 

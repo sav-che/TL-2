@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/104137#page/26/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33355117) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lidbeck, Eric Gustaf (1724-1803), Swedish botanist at Lund; Dr. phil. Uppsala 1749; adjunct nat. hist. Lund 1750, curator ("prefekt") of the botanical garden 1752; professor of natural history at Lund University 1756-1795. (*Lidb.*).
+Lidbeck, Eric Gustaf (1724-1803), Swedish botanist at Lund; Dr. phil. Uppsala 1749; adjunct nat. hist. Lund 1750, curator ("prefekt") of the botanical garden 1752; professor of natural history at Lund University 1756-1795. 
+**Abbreviated name**: *Lidb.*
 
 #### Herbarium and types
 

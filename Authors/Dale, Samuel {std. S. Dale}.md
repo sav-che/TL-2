@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/item/103414#page/638/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dale, Samuel (1659-1739), English physician and apothecary who practised at Braintree, Essex from 1680. Friend of Ray and Joseph Andrews. (*Dale*).
+Dale, Samuel (1659-1739), English physician and apothecary who practised at Braintree, Essex from 1680. Friend of Ray and Joseph Andrews. 
+**Abbreviated name**: *Dale*
 
 #### Herbarium and types
 

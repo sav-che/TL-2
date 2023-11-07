@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/item/103414#page/951/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33121034) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gaertner, Philipp Gottfried (1754-1825), German botanist, apothecary at Hanau. (*P. Gaertn.*).
+Gaertner, Philipp Gottfried (1754-1825), German botanist, apothecary at Hanau. 
+**Abbreviated name**: *P. Gaertn.*
 
 #### Herbarium and types
 

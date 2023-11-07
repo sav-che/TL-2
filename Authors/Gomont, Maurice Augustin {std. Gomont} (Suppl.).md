@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/103832#page/305/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33258771) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gomont, Maurice Augustin {std. Gomont}|first entry]] for this author
 
 ### Author
 
-\* Gomont, Maurice Augustin (1839-1909), French forester and algologist, born 11 Mai 1839 in Rouen, entered forestry school in Nancy 1858, appointed "garde-général des forêts" in Rouen, frustrated by administrative duties he resigned, began painting (with some success) but by the 1870s turned again to natural sciences, "Préparateur", Muséum natl. d'Histoire naturelle, Paris, where he focused his attention on algae, died 22 Jun 1909 in Rouen. (*Gomont*).
+\* Gomont, Maurice Augustin (1839-1909), French forester and algologist, born 11 Mai 1839 in Rouen, entered forestry school in Nancy 1858, appointed "garde-général des forêts" in Rouen, frustrated by administrative duties he resigned, began painting (with some success) but by the 1870s turned again to natural sciences, "Préparateur", Muséum natl. d'Histoire naturelle, Paris, where he focused his attention on algae, died 22 Jun 1909 in Rouen. 
+**Abbreviated name**: *Gomont*
 
 #### Herbarium and types
 

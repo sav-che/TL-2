@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103414#page/279/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33120362) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blandow, Otto Christian {std. Blandow} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blandow, Otto Christian (1778-1810). German pharmacist, notary and bryologist in Mecklenburg. (*Bland.*).
+Blandow, Otto Christian (1778-1810). German pharmacist, notary and bryologist in Mecklenburg. 
+**Abbreviated name**: *Bland.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/item/103859#page/322/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonhomme, Jules (fl. 1858-1880), French botanist at Millau (Aveyron). (*Bonhomme*).
+Bonhomme, Jules (fl. 1858-1880), French botanist at Millau (Aveyron). 
+**Abbreviated name**: *Bonhomme*
 
 #### Herbarium and types
 

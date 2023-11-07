@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/104137#page/538/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33355609) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mitchell, John (1711-1768), Virginia-born British physician and botanist; physician at Urbanna, Virginia; 1735-1746, 1746-1768 in London. (*Mitch.*).
+Mitchell, John (1711-1768), Virginia-born British physician and botanist; physician at Urbanna, Virginia; 1735-1746, 1746-1768 in London. 
+**Abbreviated name**: *Mitch.*
 
 #### Herbarium and types
 

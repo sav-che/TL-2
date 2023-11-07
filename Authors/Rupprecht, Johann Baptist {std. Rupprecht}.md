@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 992](https://www.biodiversitylibrary.org/item/103624#page/1006/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 992](https://www.biodiversitylibrary.org/page/33190463) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rupprecht, Johann Baptist (1776-1846), Austrian botanist and gardener in Vienna. (*Rupprecht*).
+Rupprecht, Johann Baptist (1776-1846), Austrian botanist and gardener in Vienna. 
+**Abbreviated name**: *Rupprecht*
 
 #### Herbarium and types
 

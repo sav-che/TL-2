@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103833#page/33/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33259067) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Daiber, J. {std. Daiber}|first entry]] for this author
 
 ### Author
 
-\* Daiber, J. (fl. 1866-1892), German high-school teacher and botanist in Tübingen, Württemberg. (*Daiber*).
+\* Daiber, J. (fl. 1866-1892), German high-school teacher and botanist in Tübingen, Württemberg. 
+**Abbreviated name**: *Daiber*
 
 #### Herbarium and types
 

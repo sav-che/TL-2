@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103624#page/378/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Potter, Michael Cressé (1858-1948), British clergyman and botanist; BA Cambridge 1881; at Cambridge herbarium 1884-1889; professor of botany at Armstrong College, Newcastle, 1889-1925; from 1925-1948 in retirement at New Milton, Hampshire. (*Potter*).
+Potter, Michael Cressé (1858-1948), British clergyman and botanist; BA Cambridge 1881; at Cambridge herbarium 1884-1889; professor of botany at Armstrong College, Newcastle, 1889-1925; from 1925-1948 in retirement at New Milton, Hampshire. 
+**Abbreviated name**: *Potter*
 
 #### Herbarium and types
 

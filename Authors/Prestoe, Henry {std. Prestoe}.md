@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103624#page/409/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33189866) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prestoe, Henry (1842-1923), British gardener; trained at Kew; Government botanist and superintendent Botanic Gardens, Trinidad 1864-1886. (*Prestoe*).
+Prestoe, Henry (1842-1923), British gardener; trained at Kew; Government botanist and superintendent Botanic Gardens, Trinidad 1864-1886. 
+**Abbreviated name**: *Prestoe*
 
 #### Herbarium and types
 

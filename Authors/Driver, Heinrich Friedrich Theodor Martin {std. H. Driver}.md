@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/item/103835#page/109/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33260087) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Driver, Heinrich Friedrich Theodor Martin (1881-x), German botanist, born in Kiel, educated at the Königliches Gymnasium Kiel until 1902, studied botany at Munich two semesters 1902, further in Kiel, Dr. phil. 1907. (*H. Driver*).
+Driver, Heinrich Friedrich Theodor Martin (1881-x), German botanist, born in Kiel, educated at the Königliches Gymnasium Kiel until 1902, studied botany at Munich two semesters 1902, further in Kiel, Dr. phil. 1907. 
+**Abbreviated name**: *H. Driver*
 
 #### Herbarium and types
 

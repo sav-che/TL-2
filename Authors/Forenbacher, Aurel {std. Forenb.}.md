@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/103834#page/337/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33259819) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forenbacher, Aurel (1882-1972), Croatian botanist and physician, born 13 Mai 1882 in Zagreb, Dr. Sci. 1913, appointed docent in plant morphology, Univ. of Agram (Zagreb), prof. at the Forest Academy of the same institution in 1914, died 18 Sep 1972 in Zagreb. (*Forenb.*).
+Forenbacher, Aurel (1882-1972), Croatian botanist and physician, born 13 Mai 1882 in Zagreb, Dr. Sci. 1913, appointed docent in plant morphology, Univ. of Agram (Zagreb), prof. at the Forest Academy of the same institution in 1914, died 18 Sep 1972 in Zagreb. 
+**Abbreviated name**: *Forenb.*
 
 #### Herbarium and types
 

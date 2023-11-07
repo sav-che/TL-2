@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103860#page/99/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33265766) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chester, Kenneth Starr (1906-x), American phytopathologist, born at Turner's Fall, Mass., studied at Boston University, AM 1929, Dr. sci. Harvard 1931, at the Pathological Laboratory, Arnold Arboretum, Harvard University. (*K.S. Chester*).
+Chester, Kenneth Starr (1906-x), American phytopathologist, born at Turner's Fall, Mass., studied at Boston University, AM 1929, Dr. sci. Harvard 1931, at the Pathological Laboratory, Arnold Arboretum, Harvard University. 
+**Abbreviated name**: *K.S. Chester*
 
 #### Herbarium and types
 

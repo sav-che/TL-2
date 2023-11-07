@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103834#page/165/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33259647) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fermond, Charles (1810-1882), French pharmacist and botanist, born 12 Mai 1810 in Angoulême (Charente), studied pharmacy in Paris, chief pharmacist, Salpêtriére hospital, Paris 1837, vice-president, Société Botanique de France, died after a long illness on 7 Mai 1882 in Hyères (Var). (*Fermond*).
+Fermond, Charles (1810-1882), French pharmacist and botanist, born 12 Mai 1810 in Angoulême (Charente), studied pharmacy in Paris, chief pharmacist, Salpêtriére hospital, Paris 1837, vice-president, Société Botanique de France, died after a long illness on 7 Mai 1882 in Hyères (Var). 
+**Abbreviated name**: *Fermond*
 
 #### Herbarium and types
 

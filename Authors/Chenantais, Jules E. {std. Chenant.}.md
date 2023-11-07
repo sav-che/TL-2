@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103860#page/88/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chenantais, Jules E. (1854-1942), French algologist, mycologist and artist, studied medicine at Nantes and Paris, practicing physician in Nantes. (*Chenant.*).
+Chenantais, Jules E. (1854-1942), French algologist, mycologist and artist, studied medicine at Nantes and Paris, practicing physician in Nantes. 
+**Abbreviated name**: *Chenant.*
 
 #### Herbarium and types
 

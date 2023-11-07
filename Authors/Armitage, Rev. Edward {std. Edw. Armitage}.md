@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/item/103858#page/171/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33264886) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Armitage, Rev. Edward (1822-1906), British clergyman and amateur botanist, educated at University College York, B.A. 1845, at Magdalen College, Oxford 1845-1848, M.A. 1848, visited S. Africa (Natal) 1853, rector of Croscombe, Dorset 1858-1869; later active in the Western Mediterranean area (collected e.g. in Algeria in 1893). (*Edw. Armitage*).
+Armitage, Rev. Edward (1822-1906), British clergyman and amateur botanist, educated at University College York, B.A. 1845, at Magdalen College, Oxford 1845-1848, M.A. 1848, visited S. Africa (Natal) 1853, rector of Croscombe, Dorset 1858-1869; later active in the Western Mediterranean area (collected e.g. in Algeria in 1893). 
+**Abbreviated name**: *Edw. Armitage*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103835#page/179/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33260157) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duncan, John Bishop (1869-1953), British bank clerk and bryologist, born at Edinburgh 1869, treasurer British bryological society 1925-1945, president 1937-1938, died 4 Jan 1953 at Berwick-on-Tweed, Northumberland. (*J.B. Duncan*).
+Duncan, John Bishop (1869-1953), British bank clerk and bryologist, born at Edinburgh 1869, treasurer British bryological society 1925-1945, president 1937-1938, died 4 Jan 1953 at Berwick-on-Tweed, Northumberland. 
+**Abbreviated name**: *J.B. Duncan*
 
 #### Herbarium and types
 

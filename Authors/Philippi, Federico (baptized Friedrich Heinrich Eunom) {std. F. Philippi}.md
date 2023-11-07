@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103624#page/248/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Philippi, Federico (baptized Friedrich Heinrich Eunom) (1838-1910), Chilean botanist and entomologist of German origin (born in Napoli), son of R.A. Philippi, whom he succeeded in 1874 as professor of botany at Santiago; from 1897 also director of the Museo nacional (de Chile). (*F. Philippi*).
+Philippi, Federico (baptized Friedrich Heinrich Eunom) (1838-1910), Chilean botanist and entomologist of German origin (born in Napoli), son of R.A. Philippi, whom he succeeded in 1874 as professor of botany at Santiago; from 1897 also director of the Museo nacional (de Chile). 
+**Abbreviated name**: *F. Philippi*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103860#page/73/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265740) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Châtelain, Jean Jacques (1736-1822), Swiss botanist, born in Bern, Dr. med. 13 Mai 1760. (*Châtel.*).
+Châtelain, Jean Jacques (1736-1822), Swiss botanist, born in Bern, Dr. med. 13 Mai 1760. 
+**Abbreviated name**: *Châtel.*
 
 #### Herbarium and types
 

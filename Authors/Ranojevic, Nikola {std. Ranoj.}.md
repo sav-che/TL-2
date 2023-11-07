@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/item/103624#page/592/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33190049) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ranojevic, Nikola (*fl*. 1905), Serbian mycologist. (*Ranoj.*).
+Ranojevic, Nikola (*fl*. 1905), Serbian mycologist. 
+**Abbreviated name**: *Ranoj.*
 
 #### Herbarium and types
 

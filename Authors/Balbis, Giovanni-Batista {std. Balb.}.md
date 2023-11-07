@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103414#page/155/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33120238) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balbis, Giovanni-Batista (Jean-Baptiste in France) {std. Balb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Balbis, Giovanni-Batista (1765-1831), Italian physician and botanist at Torino, pupil of Allioni. (*Balb.*).
+Balbis, Giovanni-Batista (1765-1831), Italian physician and botanist at Torino, pupil of Allioni. 
+**Abbreviated name**: *Balb.*
 
 #### Herbarium and types
 

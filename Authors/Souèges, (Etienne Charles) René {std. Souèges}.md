@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/item/104077#page/769/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33333894) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Souèges, \[Etienne Charles\] René (1876-1967), French botanist and pharmacist; assistant for micrography at the École supérieure de Pharmacie de Paris 1904-1910; Dr. phil. Paris 1907; director of the Département de micrographie ib. from 1910; chef-pharmacien des Asiles de Paris 1908-1942. (*Souèges*).
+Souèges, \[Etienne Charles\] René (1876-1967), French botanist and pharmacist; assistant for micrography at the École supérieure de Pharmacie de Paris 1904-1910; Dr. phil. Paris 1907; director of the Département de micrographie ib. from 1910; chef-pharmacien des Asiles de Paris 1908-1942. 
+**Abbreviated name**: *Souèges*
 
 #### Herbarium and types
 

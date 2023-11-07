@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/item/103414#page/985/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geuns, Matthias van (1735-1817), Dutch botanist at Utrecht. (*M. Geuns*).
+Geuns, Matthias van (1735-1817), Dutch botanist at Utrecht. 
+**Abbreviated name**: *M. Geuns*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/item/103624#page/992/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33190449) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rüppell \[Rüppel\], \[Wilhelm Peter\] Eduard \[Simon\] (1794-1884), German (Frankfurt) zoologist, mineralogist and explorer; studied at Pavia 1817-1821; Dr. med. h.c. Giessen 1827; travelled in Egypt and Nubia 1817, 1822-1827, and Arabia and Ethiopia 1831-1834, Italy 1816-1817, 1844 and Egypt 1850; donated his archeological, mineralogical and natural history collections to the Senckenbergische Gesellschaft at Frankfurt; curator of these collections 1841-1843, 1846-1847, 1854-1855 and 1858-1859; later especially active as numismatologist. (*Rüppell*).
+Rüppell \[Rüppel\], \[Wilhelm Peter\] Eduard \[Simon\] (1794-1884), German (Frankfurt) zoologist, mineralogist and explorer; studied at Pavia 1817-1821; Dr. med. h.c. Giessen 1827; travelled in Egypt and Nubia 1817, 1822-1827, and Arabia and Ethiopia 1831-1834, Italy 1816-1817, 1844 and Egypt 1850; donated his archeological, mineralogical and natural history collections to the Senckenbergische Gesellschaft at Frankfurt; curator of these collections 1841-1843, 1846-1847, 1854-1855 and 1858-1859; later especially active as numismatologist. 
+**Abbreviated name**: *Rüppell*
 
 #### Herbarium and types
 

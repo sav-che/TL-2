@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/item/104077#page/734/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33333859) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Söyrinki, Niilo (1907-x), Finnish botanist; Dr. phil. Helsinki 1938; assistant at the Botanical Dept., Univ. of Helsinki 1931-1933, at the Agricultural Faculty 1934-1945; associate professor ib. 1945-1959; professor of botany at Oulu University 1959. (*Söyrinki*).
+Söyrinki, Niilo (1907-x), Finnish botanist; Dr. phil. Helsinki 1938; assistant at the Botanical Dept., Univ. of Helsinki 1931-1933, at the Agricultural Faculty 1934-1945; associate professor ib. 1945-1959; professor of botany at Oulu University 1959. 
+**Abbreviated name**: *Söyrinki*
 
 #### Herbarium and types
 

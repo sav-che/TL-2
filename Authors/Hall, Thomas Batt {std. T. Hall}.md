@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103253#page/49/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33068265) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hall, Thomas Batt (1814-1886), British naturalist at Coggeshall, Essex (1814-1835, 1839-1852), Liverpool (1835-1839), in Australia (1852-1886). (*T. Hall*).
+Hall, Thomas Batt (1814-1886), British naturalist at Coggeshall, Essex (1814-1835, 1839-1852), Liverpool (1835-1839), in Australia (1852-1886). 
+**Abbreviated name**: *T. Hall*
 
 #### Herbarium and types
 

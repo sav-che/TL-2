@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/item/103253#page/460/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jeffrey, John (1826-1854), Scottish botanical explorer of the American Northwest on the "Oregon Expedition" 1850-1854; disappeared while exploring the Colorado river basin. (*J. Jeffr.*).
+Jeffrey, John (1826-1854), Scottish botanical explorer of the American Northwest on the "Oregon Expedition" 1850-1854; disappeared while exploring the Colorado river basin. 
+**Abbreviated name**: *J. Jeffr.*
 
 #### Herbarium and types
 

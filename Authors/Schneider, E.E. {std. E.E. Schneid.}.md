@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/104077#page/286/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33333411) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, E.E. (*fl*. 1912), American wood expert in the Bureau of Forestry of the Philippine Islands. (*E.E. Schneid.*).
+Schneider, E.E. (*fl*. 1912), American wood expert in the Bureau of Forestry of the Philippine Islands. 
+**Abbreviated name**: *E.E. Schneid.*
 
 #### Herbarium and types
 

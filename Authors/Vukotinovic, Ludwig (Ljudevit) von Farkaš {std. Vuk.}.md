@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/item/103683#page/813/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33212845) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Farkaš-Vukotinović, Ludwig {std. Vuk.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Vukotinovic, Ludwig \[Ljudevit\] von Farkaš (1813-1893), Croatian politician, magistrate and botanist; asst. judge in Pressburg (Bratislava) 1836, judge 1840; member of the diet of Croatia 1847; in the Croatian National Guard 1848-1850; judge at Križevci (Kreuz) 1850-1853; privately active in Agram (Zagreb) 1853-1860; co-founder of the Croatian Museum; prefect of the Križevci district 1860-1867; from 1867 private politician and scientist. (*Vuk.*).
+Vukotinovic, Ludwig \[Ljudevit\] von Farkaš (1813-1893), Croatian politician, magistrate and botanist; asst. judge in Pressburg (Bratislava) 1836, judge 1840; member of the diet of Croatia 1847; in the Croatian National Guard 1848-1850; judge at Križevci (Kreuz) 1850-1853; privately active in Agram (Zagreb) 1853-1860; co-founder of the Croatian Museum; prefect of the Križevci district 1860-1867; from 1867 private politician and scientist. 
+**Abbreviated name**: *Vuk.*
 
 #### Herbarium and types
 

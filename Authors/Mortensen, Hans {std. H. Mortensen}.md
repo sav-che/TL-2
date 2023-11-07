@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/104137#page/613/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33355684) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mortensen, Hans (1825-1908), Danish botanist; teacher at Naesgaard Agricultural College, 1849-1853; at Jonstrup training school from 1856-1896. (*H. Mortensen*).
+Mortensen, Hans (1825-1908), Danish botanist; teacher at Naesgaard Agricultural College, 1849-1853; at Jonstrup training school from 1856-1896. 
+**Abbreviated name**: *H. Mortensen*
 
 #### Herbarium and types
 

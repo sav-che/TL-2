@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/item/103624#page/311/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plowright, Charles Bagge (1849-1910); British botanist and physician; MD Durham 1890; medical officer of health, Freebridge Lynn Rural District Council; from 1892-1894 Hunterian professor of comparative anatomy and physiology at the London Royal College of Surgeons. (*Plowr.*).
+Plowright, Charles Bagge (1849-1910); British botanist and physician; MD Durham 1890; medical officer of health, Freebridge Lynn Rural District Council; from 1892-1894 Hunterian professor of comparative anatomy and physiology at the London Royal College of Surgeons. 
+**Abbreviated name**: *Plowr.*
 
 #### Herbarium and types
 

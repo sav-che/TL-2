@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/item/104137#page/780/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33355851) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nolte, Ernst Ferdinand (1791-1875), German botanist; Dr. med. Göttingen 1817; in Denmark with Hornemann 1824-1826; professor of botany at Kiel University from 1826-1873; Dr. h.c. Kiel 1867.(*Nolle*).
+Nolte, Ernst Ferdinand (1791-1875), German botanist; Dr. med. Göttingen 1817; in Denmark with Hornemann 1824-1826; professor of botany at Kiel University from 1826-1873; Dr. h.c. Kiel 1867.
+**Abbreviated name**: *Nolle*
 
 #### Herbarium and types
 

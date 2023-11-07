@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/103624#page/133/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33189590) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pax, Ferdinand Albin (1858-1942), German botanist (born in Bohemia); Dr. phil. Breslau 1882; assistant with A. Engler at Kiel 1883-1884; with id. to Breslau 1884 as lecturer, from 1889-1893 again with Engler at Berlin; from 1893-1925 professor of botany and director of the botanical garden at Breslau; one of the most productive of Engler's collaborators. (*Pax*).
+Pax, Ferdinand Albin (1858-1942), German botanist (born in Bohemia); Dr. phil. Breslau 1882; assistant with A. Engler at Kiel 1883-1884; with id. to Breslau 1884 as lecturer, from 1889-1893 again with Engler at Berlin; from 1893-1925 professor of botany and director of the botanical garden at Breslau; one of the most productive of Engler's collaborators. 
+**Abbreviated name**: *Pax*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/item/103624#page/626/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33190083) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rea, Carleton(1861-1946), British barrister and mycologist at Worcester; co-founder, first secretary, and editor of the British mycological Society; educated at Oxford (Magdelen College, grad. 1883), called to the Bar 1881, practicing until 1907, but, thanks to his independent means devoting himself mainly to botany. (*Rea*).
+Rea, Carleton(1861-1946), British barrister and mycologist at Worcester; co-founder, first secretary, and editor of the British mycological Society; educated at Oxford (Magdelen College, grad. 1883), called to the Bar 1881, practicing until 1907, but, thanks to his independent means devoting himself mainly to botany. 
+**Abbreviated name**: *Rea*
 
 #### Herbarium and types
 

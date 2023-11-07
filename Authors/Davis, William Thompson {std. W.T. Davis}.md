@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103833#page/120/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davis, William Thompson (1862-1945), American entomologist and botanist, born 12 Oct 1862, New Brighton, Staten Island, N.Y., died 22 Jan 1941 in Staten Island Hospital, his primary interest was cicades, but also the local flora, well-known around the New York Botanical Garden. (*W.T. Davis*).
+Davis, William Thompson (1862-1945), American entomologist and botanist, born 12 Oct 1862, New Brighton, Staten Island, N.Y., died 22 Jan 1941 in Staten Island Hospital, his primary interest was cicades, but also the local flora, well-known around the New York Botanical Garden. 
+**Abbreviated name**: *W.T. Davis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/104137#page/451/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33355522) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Metz, Sister Mary Clare (1907-x), American botanist and nun at the Congregation of the Sisters of Divine Providence San Antonio, Texas; Ph. D. Cathol. Univ. Amer. 1934; later at Our Lady of the Lake College. (*Metz*).
+Metz, Sister Mary Clare (1907-x), American botanist and nun at the Congregation of the Sisters of Divine Providence San Antonio, Texas; Ph. D. Cathol. Univ. Amer. 1934; later at Our Lady of the Lake College. 
+**Abbreviated name**: *Metz*
 
 #### Herbarium and types
 

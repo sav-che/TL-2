@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103859#page/180/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33265367) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Birge, Willie I. (fl. 1911), American botanist, sometime graduate assistant in botany at the University of Texas. (*Birge*).
+Birge, Willie I. (fl. 1911), American botanist, sometime graduate assistant in botany at the University of Texas. 
+**Abbreviated name**: *Birge*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103860#page/431/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33266098) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coulter, Samuel Elderslie Monds (1860-x), American botanist, born 30 Jul 1860, A.B. Hanover 1880, A.M. 1898, fellow at Chicago 1897-1901, Ph.D. Washington, St. Louis 1904, teacher 1880-1885, manager telephone and electr. companies 1885-1897, instructor botanist Chicago 1897-1901, Washington, St. Louis 1901-1903, assistant professor 1903, later full Professor. (*S.E.M. Coult.*).
+Coulter, Samuel Elderslie Monds (1860-x), American botanist, born 30 Jul 1860, A.B. Hanover 1880, A.M. 1898, fellow at Chicago 1897-1901, Ph.D. Washington, St. Louis 1904, teacher 1880-1885, manager telephone and electr. companies 1885-1897, instructor botanist Chicago 1897-1901, Washington, St. Louis 1901-1903, assistant professor 1903, later full Professor. 
+**Abbreviated name**: *S.E.M. Coult.*
 
 #### Herbarium and types
 

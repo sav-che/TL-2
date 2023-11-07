@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103859#page/92/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265279) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berens, Reinhold von (1745-1823), Latvian (Riga born) physician, educated at the Domschule and Lyceum in Riga 1756-1764, studied at the Collegium med.-chir. Berlin 1768-1770, id. at Göttingen 1768-1770, Dr. med. Göttingen 1770; license St. Petersburg 1771, practicing in Moscow 1771-1773, military physician in Omsk 1773-1780, living in Moscow 1780-1784, from 1784 in Riga. (*Berens*).
+Berens, Reinhold von (1745-1823), Latvian (Riga born) physician, educated at the Domschule and Lyceum in Riga 1756-1764, studied at the Collegium med.-chir. Berlin 1768-1770, id. at Göttingen 1768-1770, Dr. med. Göttingen 1770; license St. Petersburg 1771, practicing in Moscow 1771-1773, military physician in Omsk 1773-1780, living in Moscow 1780-1784, from 1784 in Riga. 
+**Abbreviated name**: *Berens*
 
 #### Herbarium and types
 

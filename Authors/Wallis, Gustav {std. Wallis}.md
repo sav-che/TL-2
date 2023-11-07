@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103250#page/101/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33066381) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wallis, Gustav (1830-1878), German (Hanoverian) gardener and botanical explorer; gardener at Detmold and München; collected in South and Central America 1854-1868 (part of the time for J. Linden), in Europe 1868-1869; in the Philippines and Japan 1870-1871; in North America 1871-1872; in Colombia, Panama and Ecuador 1872-1878 for James Veitch; died in Ecuador. (*Wallis*).
+Wallis, Gustav (1830-1878), German (Hanoverian) gardener and botanical explorer; gardener at Detmold and München; collected in South and Central America 1854-1868 (part of the time for J. Linden), in Europe 1868-1869; in the Philippines and Japan 1870-1871; in North America 1871-1872; in Colombia, Panama and Ecuador 1872-1878 for James Veitch; died in Ecuador. 
+**Abbreviated name**: *Wallis*
 
 #### Herbarium and types
 

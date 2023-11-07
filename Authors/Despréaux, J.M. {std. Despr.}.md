@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103833#page/243/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259277) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Despréaux, J.M. (1794-1843), French physician and botanist, born at Fougères, France 25 Dec 1794, studied in Paris, came in the French marine, studied further medicine, went as botanist with Bory de Saint-Vincent to Morea, collected in the Canary Islands, went to Cuba 1841, Mexico 1842, died in Mexico 27 Nov 1843. (*Despr.*).
+Despréaux, J.M. (1794-1843), French physician and botanist, born at Fougères, France 25 Dec 1794, studied in Paris, came in the French marine, studied further medicine, went as botanist with Bory de Saint-Vincent to Morea, collected in the Canary Islands, went to Cuba 1841, Mexico 1842, died in Mexico 27 Nov 1843. 
+**Abbreviated name**: *Despr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103253#page/175/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hempel, Gustav (1842-1904), German-born botanist and forester; studied at the mining academy of Freiberg 1861-1865 and at the forestry college at Tharand 1866-1868; from 1872-1876 at Giessen University; from 1873 in Austria, at the Mariabrunn Forestry College and at the Hochschule für Bodenkultur in Wien. (*Hemp.*).
+Hempel, Gustav (1842-1904), German-born botanist and forester; studied at the mining academy of Freiberg 1861-1865 and at the forestry college at Tharand 1866-1868; from 1872-1876 at Giessen University; from 1873 in Austria, at the Mariabrunn Forestry College and at the Hochschule für Bodenkultur in Wien. 
+**Abbreviated name**: *Hemp.*
 
 #### Herbarium and types
 

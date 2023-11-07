@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/item/104137#page/684/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33355755) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murray, George Robert Milne (1858-1911), British cryptogamist; pupil of de Bary; assistant (1876-1895) and keeper of the Department of Botany of BM(NH) 1895-1905; naturalist on the West Indian Eclipse Expedition of 1886; scientific director, National Antarctic Expedition "Discovery" 1901 (organisation only). (*G. Murray*).
+Murray, George Robert Milne (1858-1911), British cryptogamist; pupil of de Bary; assistant (1876-1895) and keeper of the Department of Botany of BM(NH) 1895-1905; naturalist on the West Indian Eclipse Expedition of 1886; scientific director, National Antarctic Expedition "Discovery" 1901 (organisation only). 
+**Abbreviated name**: *G. Murray*
 
 #### Herbarium and types
 

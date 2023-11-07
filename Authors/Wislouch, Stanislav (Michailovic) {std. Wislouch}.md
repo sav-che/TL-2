@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103250#page/452/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33066732) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wislouch, Stanislav \[Michailovic\] (1875-1927), Russian botanist (hydrobiologist); studied at the forestry institute of St. Petersburg; assistant at the seed testing station at the Botanical Garden of St. Petersburg 1906-1908; assistant at the chair of botany at the Institute of gynaecology 1908-1919; professor of systematics of cryptogams at the St. Petersburg Agricultural Institute 1918; from 1922 in exile in Poland; professor of botany at the pharmaceutical faculty, Warsaw 1922-1927. (*Wislouch*).
+Wislouch, Stanislav \[Michailovic\] (1875-1927), Russian botanist (hydrobiologist); studied at the forestry institute of St. Petersburg; assistant at the seed testing station at the Botanical Garden of St. Petersburg 1906-1908; assistant at the chair of botany at the Institute of gynaecology 1908-1919; professor of systematics of cryptogams at the St. Petersburg Agricultural Institute 1918; from 1922 in exile in Poland; professor of botany at the pharmaceutical faculty, Warsaw 1922-1927. 
+**Abbreviated name**: *Wislouch*
 
 #### Herbarium and types
 

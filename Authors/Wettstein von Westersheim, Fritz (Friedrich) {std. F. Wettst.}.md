@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103250#page/279/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33066559) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wettstein von Westersheim, Fritz (Friedrich\] (1895-1945), Austrian botanist; son of Richard von Wettstein; studied at Vienna University; assistant Kaiser Wilhelms Institut für Biologie, Berlin-Dahlem 1919; habil. Berlin 1923; professor of botany Göttingen 1925-1931; director bot. gard. ib. 1927-1931; travelled in Southern and Eastern Africa 1929-1930; director of the Botanical Institute and Garden and professor of botany München, succeeding K. v. Goebel, 1931-1934; director of the Kaiser Wilhelms Institut für Biologie, Berlin-Dahlem 1934-1945. (*F. Wettst.*).
+Wettstein von Westersheim, Fritz (Friedrich\] (1895-1945), Austrian botanist; son of Richard von Wettstein; studied at Vienna University; assistant Kaiser Wilhelms Institut für Biologie, Berlin-Dahlem 1919; habil. Berlin 1923; professor of botany Göttingen 1925-1931; director bot. gard. ib. 1927-1931; travelled in Southern and Eastern Africa 1929-1930; director of the Botanical Institute and Garden and professor of botany München, succeeding K. v. Goebel, 1931-1934; director of the Kaiser Wilhelms Institut für Biologie, Berlin-Dahlem 1934-1945. 
+**Abbreviated name**: *F. Wettst.*
 
 #### Herbarium and types
 

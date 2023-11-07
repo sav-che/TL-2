@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/item/104137#page/681/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33355752) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murith, Laurent Joseph (1742-1818), Swiss clergyman and botanist in Wallis (Valais), "chanoine regulier du St. Bernard, prieur de Martigni." ordained 1766, curate at Liddes 1778, prior of Martigny 1791. (*Murith*).
+Murith, Laurent Joseph (1742-1818), Swiss clergyman and botanist in Wallis (Valais), "chanoine regulier du St. Bernard, prieur de Martigni." ordained 1766, curate at Liddes 1778, prior of Martigny 1791. 
+**Abbreviated name**: *Murith*
 
 #### Herbarium and types
 

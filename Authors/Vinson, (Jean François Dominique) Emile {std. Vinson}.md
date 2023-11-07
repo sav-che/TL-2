@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/item/103683#page/760/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33212792) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vinson, \[Jean François Dominique\] Emile (*fl*. 1855-1870), French pharmacist and botanist at Réunion. (*Vinson*).
+Vinson, \[Jean François Dominique\] Emile (*fl*. 1855-1870), French pharmacist and botanist at Réunion. 
+**Abbreviated name**: *Vinson*
 
 #### Herbarium and types
 

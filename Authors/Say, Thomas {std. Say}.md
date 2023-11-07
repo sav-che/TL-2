@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/104077#page/108/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Say, Thomas (1787-1834), American naturalist, entomologist, zoologist and Quaker; energetic collector; with the Academy of Natural Sciences of Philadelphia 1822-1825; with the settlement at New Harmony, Indiana 1825-1834. (*Say*).
+Say, Thomas (1787-1834), American naturalist, entomologist, zoologist and Quaker; energetic collector; with the Academy of Natural Sciences of Philadelphia 1822-1825; with the settlement at New Harmony, Indiana 1825-1834. 
+**Abbreviated name**: *Say*
 
 #### Herbarium and types
 

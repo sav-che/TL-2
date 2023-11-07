@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103624#page/436/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33189893) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pucci, Angiolo (1851-1935), Italian botanist and horticulturist; professor at the Pomological and Horticultural College at Firenze. (*Pucci*).
+Pucci, Angiolo (1851-1935), Italian botanist and horticulturist; professor at the Pomological and Horticultural College at Firenze. 
+**Abbreviated name**: *Pucci*
 
 #### Herbarium and types
 

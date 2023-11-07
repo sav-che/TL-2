@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/item/103859#page/413/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33265600) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Box, Harold Edmund (1898-1972\[?\]), British botanist, travelled and collected in West Africa, Venezuela and the British West Indies. (*Box*).
+Box, Harold Edmund (1898-1972\[?\]), British botanist, travelled and collected in West Africa, Venezuela and the British West Indies. 
+**Abbreviated name**: *Box*
 
 #### Herbarium and types
 

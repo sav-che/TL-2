@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103860#page/273/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33265940) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coldstream, William (x-1929), British, "reported to Government of India on fruit culture in Himalayas and on forest of Simla Hill States" \[text Desmond\]. (*Coldstream*).
+Coldstream, William (x-1929), British, "reported to Government of India on fruit culture in Himalayas and on forest of Simla Hill States" \[text Desmond\]. 
+**Abbreviated name**: *Coldstream*
 
 #### Herbarium and types
 

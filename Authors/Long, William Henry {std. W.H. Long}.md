@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/104137#page/169/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33355240) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Long, William Henry (1867-1947), American mycologist; studied at Baylor University, Waco, Texas; A. B. 1888; professor of natural history at Waco 1888-1892, from 1892-1899 at Greenville, Texas; A. M. Univ. Texas 1900; Ph. D. id. 1917; 1900-1910 at Denton, Texas; from 1910-1911 at USDA, Washington, with USDA at Albuquerque, New Mexico 1911-1937. (*W. H. Long*).
+Long, William Henry (1867-1947), American mycologist; studied at Baylor University, Waco, Texas; A. B. 1888; professor of natural history at Waco 1888-1892, from 1892-1899 at Greenville, Texas; A. M. Univ. Texas 1900; Ph. D. id. 1917; 1900-1910 at Denton, Texas; from 1910-1911 at USDA, Washington, with USDA at Albuquerque, New Mexico 1911-1937. 
+**Abbreviated name**: *W. H. Long*
 
 #### Herbarium and types
 

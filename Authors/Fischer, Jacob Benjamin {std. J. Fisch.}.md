@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/item/103414#page/885/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33120968) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Jacob Benjamin (1730-1793), Livonian botanist. (*J. Fisch.*).
+Fischer, Jacob Benjamin (1730-1793), Livonian botanist. 
+**Abbreviated name**: *J. Fisch.*
 
 #### Herbarium and types
 

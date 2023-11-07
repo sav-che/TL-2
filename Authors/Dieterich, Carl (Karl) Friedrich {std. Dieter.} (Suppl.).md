@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103833#page/343/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33259377) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dieterich, Carl Friedrich {std. Dieter.}|first entry]] for this author
 
 ### Author
 
-\* Dieterich, Carl \[Karl\] Friedrich (1734-1805), German jurist and botanist, born 23 Aug 1734 at Erfurt, died also at Erfurt 31 Aug 1805. (*Dieter.*).
+\* Dieterich, Carl \[Karl\] Friedrich (1734-1805), German jurist and botanist, born 23 Aug 1734 at Erfurt, died also at Erfurt 31 Aug 1805. 
+**Abbreviated name**: *Dieter.*
 
 #### Herbarium and types
 

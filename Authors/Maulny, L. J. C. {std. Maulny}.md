@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/104137#page/392/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33355463) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maulny, L. J. C. (ca. 1760-ca. 1830), French botanist and naturalist; author of a flora of Mans. (*Maulny*).
+Maulny, L. J. C. (ca. 1760-ca. 1830), French botanist and naturalist; author of a flora of Mans. 
+**Abbreviated name**: *Maulny*
 
 #### Herbarium and types
 

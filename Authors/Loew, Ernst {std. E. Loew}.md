@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/104137#page/161/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33355232) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loew, Ernst (1843-1908), German botanist and flower-biologist; Dr. phil. Berlin 1865; from 1867-1906 teacher at the (later) Kaiser-Wilhelm-Realgymnasium. (*E. Loew*).
+Loew, Ernst (1843-1908), German botanist and flower-biologist; Dr. phil. Berlin 1865; from 1867-1906 teacher at the (later) Kaiser-Wilhelm-Realgymnasium. 
+**Abbreviated name**: *E. Loew*
 
 #### Herbarium and types
 

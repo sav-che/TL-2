@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103833#page/84/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259118) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darlington, Henry Townsend (1875-1964), American botanist, born 23 Jun 1875, West Chester, d. 23 Oct 1965, Lansing, Michigan, studied at the University of Idaho, BS 1908, at Harvard MS 1911, assistant professor 1911-1914 at State College Washington, id. at Agricultural College at East Lansing, Michigan, from 1914-1945, in later years mostly working on ecology, phytogeography and bryology. (*H.T. Darl.*).
+Darlington, Henry Townsend (1875-1964), American botanist, born 23 Jun 1875, West Chester, d. 23 Oct 1965, Lansing, Michigan, studied at the University of Idaho, BS 1908, at Harvard MS 1911, assistant professor 1911-1914 at State College Washington, id. at Agricultural College at East Lansing, Michigan, from 1914-1945, in later years mostly working on ecology, phytogeography and bryology. 
+**Abbreviated name**: *H.T. Darl.*
 
 #### Herbarium and types
 

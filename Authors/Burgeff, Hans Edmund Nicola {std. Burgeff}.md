@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/103414#page/459/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33120542) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burgeff, Hans (Edmund Nicola) {std. Burgeff} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Burgeff, Hans Edmund Nicola (1883-x), German botanist, professor of botany in Halle, München, Göttingen and Würzburg. (*Burgeff*).
+Burgeff, Hans Edmund Nicola (1883-x), German botanist, professor of botany in Halle, München, Göttingen and Würzburg. 
+**Abbreviated name**: *Burgeff*
 
 #### Herbarium and types
 

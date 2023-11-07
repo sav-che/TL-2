@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103250#page/197/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33066477) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weddell, Hugh Algernon (1819-1877), British botanist (French by choice) and physician; grew up and worked in France; Dr. med. Paris 1841; associated with Adr. Jussieu; with F. de Castelnau to S. America 1843-1848 (Brazil, Bolivia, Peru); aide-naturaliste at the Muséum d'Histoire naturelle, Paris 1850-1857; visiting Bolivia again in 1853 in search of Cinchona; in 1857 settling in Bagnères-de-Bigorre, from 1861 in Poitiers. (*Wedd.*).
+Weddell, Hugh Algernon (1819-1877), British botanist (French by choice) and physician; grew up and worked in France; Dr. med. Paris 1841; associated with Adr. Jussieu; with F. de Castelnau to S. America 1843-1848 (Brazil, Bolivia, Peru); aide-naturaliste at the Muséum d'Histoire naturelle, Paris 1850-1857; visiting Bolivia again in 1853 in search of Cinchona; in 1857 settling in Bagnères-de-Bigorre, from 1861 in Poitiers. 
+**Abbreviated name**: *Wedd.*
 
 #### Herbarium and types
 

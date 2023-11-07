@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/item/103859#page/377/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33265564) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bosc, Louis Auguste Guillaume (early Bosc dAntic) {std. Bosc}|first entry]] for this author
 
 ### Author
 
-\* Bosc, Louis-Auguste-Guillaume \[early: Bosc d'Antic\] (1759-1828), French naturalist, consul and administrator, studied with Durande in Dijon and A.L. Jussieu in Paris; sécrétaire des postes 1784-1788, in hiding from the French revolution at Montmorency, French consul for the "Directoire" in New York 1794-1799, inspector of the gardens of Versailles 1803 and of the state gardens from 1806 residing under the Ministry of the Interior, ultimately "professeur" in the Jardin des Plantes. (*Bosc*).
+\* Bosc, Louis-Auguste-Guillaume \[early: Bosc d'Antic\] (1759-1828), French naturalist, consul and administrator, studied with Durande in Dijon and A.L. Jussieu in Paris; sécrétaire des postes 1784-1788, in hiding from the French revolution at Montmorency, French consul for the "Directoire" in New York 1794-1799, inspector of the gardens of Versailles 1803 and of the state gardens from 1806 residing under the Ministry of the Interior, ultimately "professeur" in the Jardin des Plantes. 
+**Abbreviated name**: *Bosc*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103860#page/209/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33265876) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clawson, Arthur Brooks (1878-1937), American botanist, born at Green Lake, Wisc., educated at Ripon College, the University of Michigan and the University of Wisconsin, teacher of biology at Lake Forest College, Ill., 1907-1909, joined the Bureau of Plant Industry 1909, finally physiologist at the Bureau of Animal Industry 1930. (*Clawson*).
+Clawson, Arthur Brooks (1878-1937), American botanist, born at Green Lake, Wisc., educated at Ripon College, the University of Michigan and the University of Wisconsin, teacher of biology at Lake Forest College, Ill., 1907-1909, joined the Bureau of Plant Industry 1909, finally physiologist at the Bureau of Animal Industry 1930. 
+**Abbreviated name**: *Clawson*
 
 #### Herbarium and types
 

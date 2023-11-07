@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103861#page/68/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33266365) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brendel, Frederik (1820-1912), German born (Erlangen), studied at the University of Erlangen, M.D. 1843, assistant physician at the Bamberg city hospital 1846-1848, emigrated to the United States 1850, journeying westward to Missouri, worked some time with Engelmann, settled at Peoria, Illinois, active as physician. (*Brendel*).
+Brendel, Frederik (1820-1912), German born (Erlangen), studied at the University of Erlangen, M.D. 1843, assistant physician at the Bamberg city hospital 1846-1848, emigrated to the United States 1850, journeying westward to Missouri, worked some time with Engelmann, settled at Peoria, Illinois, active as physician. 
+**Abbreviated name**: *Brendel*
 
 #### Herbarium and types
 

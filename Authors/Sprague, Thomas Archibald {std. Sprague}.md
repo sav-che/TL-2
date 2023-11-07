@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/item/104077#page/812/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33333937) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sprague, Thomas Archibald (1877-1958), British botanist; B.Sc. Edinburgh 1898, D. Sc. ib. 1927; at the Royal Botanic Gardens, Kew 1900-1945, deputy keeper of the herbarium 1930-1945; travelled and collected with H.W. Dowding in Venezuela and Columbia 1898-1899, in the Canary Islands 1913; rapporteur-général for botanical nomenclature 1935-1947. (*Sprague*).
+Sprague, Thomas Archibald (1877-1958), British botanist; B.Sc. Edinburgh 1898, D. Sc. ib. 1927; at the Royal Botanic Gardens, Kew 1900-1945, deputy keeper of the herbarium 1930-1945; travelled and collected with H.W. Dowding in Venezuela and Columbia 1898-1899, in the Canary Islands 1913; rapporteur-général for botanical nomenclature 1935-1947. 
+**Abbreviated name**: *Sprague*
 
 #### Herbarium and types
 

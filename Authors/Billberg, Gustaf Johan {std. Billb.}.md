@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103414#page/263/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Billberg, Gustaf Johan (1772-1844), Swedish "Hammarrättsråd" and botanist and zoologist. (*Billb.*).
+Billberg, Gustaf Johan (1772-1844), Swedish "Hammarrättsråd" and botanist and zoologist. 
+**Abbreviated name**: *Billb.*
 
 #### Herbarium and types
 

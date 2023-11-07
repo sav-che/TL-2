@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103683#page/409/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33212441) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torralbas, José Ildefonso (1842-1903), Cuban agronomist and botanist; Dr. phil. Univ. Habana 1890; professor at Habana University and director of the Botanical Museum. (*Torralbas*).
+Torralbas, José Ildefonso (1842-1903), Cuban agronomist and botanist; Dr. phil. Univ. Habana 1890; professor at Habana University and director of the Botanical Museum. 
+**Abbreviated name**: *Torralbas*
 
 #### Herbarium and types
 

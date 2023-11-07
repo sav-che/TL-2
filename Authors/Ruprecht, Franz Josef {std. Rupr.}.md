@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/item/103624#page/1007/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33190464) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruprecht, Franz Josef (1814-1870) Austro-Bohemian botanist; studied medicine in Praha 1830-1836 (Carl-Ferdinand University); Dr. med. Praha 1838; practicing physician Praha 1838; curator of the botanical collections of the Academy of Sciences at St. Petersburg 1839 at the invitation of Trinius; from 1851-1855 connected with the St. Petersburg botanical garden; from 1855 director of the Botanical Museum of the Academy. (*Rupr.*).
+Ruprecht, Franz Josef (1814-1870) Austro-Bohemian botanist; studied medicine in Praha 1830-1836 (Carl-Ferdinand University); Dr. med. Praha 1838; practicing physician Praha 1838; curator of the botanical collections of the Academy of Sciences at St. Petersburg 1839 at the invitation of Trinius; from 1851-1855 connected with the St. Petersburg botanical garden; from 1855 director of the Botanical Museum of the Academy. 
+**Abbreviated name**: *Rupr.*
 
 #### Herbarium and types
 

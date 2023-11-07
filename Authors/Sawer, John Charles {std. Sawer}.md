@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/104077#page/107/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33333232) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sawer, John Charles (x-1904), British botanist working on perfume-bearing plants. (*Sawer*).
+Sawer, John Charles (x-1904), British botanist working on perfume-bearing plants. 
+**Abbreviated name**: *Sawer*
 
 #### Herbarium and types
 

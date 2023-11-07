@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103624#page/121/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33189578) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Patze, Carl August (1808-1892), German (Berlin) botanist and pharmacist; from 1830-1836 in pharmacies in Berlin and Charlottenburg (1829-1830 in Breslau); from 1837-1874 owner of a pharmacy in Königsberg i. Pr. (*Patze*).
+Patze, Carl August (1808-1892), German (Berlin) botanist and pharmacist; from 1830-1836 in pharmacies in Berlin and Charlottenburg (1829-1830 in Breslau); from 1837-1874 owner of a pharmacy in Königsberg i. Pr. 
+**Abbreviated name**: *Patze*
 
 #### Herbarium and types
 

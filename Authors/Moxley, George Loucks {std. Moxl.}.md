@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/104137#page/627/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33355698) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moxley, George Loucks (1871-?), American botanist, methodist missionary in Liberia 1896-1897; in Southern California from 1898. (*Moxl.*).
+Moxley, George Loucks (1871-?), American botanist, methodist missionary in Liberia 1896-1897; in Southern California from 1898. 
+**Abbreviated name**: *Moxl.*
 
 #### Herbarium and types
 

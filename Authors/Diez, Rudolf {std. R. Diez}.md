@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103833#page/349/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33259383) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diez, Rudolf (fl. 1887), German botanist, born at Karlsruhe, studied at the University of Freiburg im Breisgau. (*R. Diez*).
+Diez, Rudolf (fl. 1887), German botanist, born at Karlsruhe, studied at the University of Freiburg im Breisgau. 
+**Abbreviated name**: *R. Diez*
 
 #### Herbarium and types
 

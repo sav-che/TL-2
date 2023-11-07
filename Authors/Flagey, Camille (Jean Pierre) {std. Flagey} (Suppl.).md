@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103834#page/261/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259743) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Flagey, Camille {std. Flagey}|first entry]] for this author
 
 ### Author
 
-\* Flagey, Camille \[Jean Pierre\] (1834-1898), French botanist and civil engineer, born 11 Oct 1834 in Besançon (Doubs), trained as "Ingénieur-chimiste", settled in Montferrand (Doubs), interested in botany from 1875 and esp. in bryology from 1878, "Prix Montagne" 1876, moved to Algeria 1884 and made extensive collections there, died 27 Jun 1898 in Azéba nr. Constantine, Algeria. (*Flagey*).
+\* Flagey, Camille \[Jean Pierre\] (1834-1898), French botanist and civil engineer, born 11 Oct 1834 in Besançon (Doubs), trained as "Ingénieur-chimiste", settled in Montferrand (Doubs), interested in botany from 1875 and esp. in bryology from 1878, "Prix Montagne" 1876, moved to Algeria 1884 and made extensive collections there, died 27 Jun 1898 in Azéba nr. Constantine, Algeria. 
+**Abbreviated name**: *Flagey*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103860#page/318/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265985) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Constantin, Aimé (1831-1900), French (Savoie) botanist. (*A. Constantin*).
+Constantin, Aimé (1831-1900), French (Savoie) botanist. 
+**Abbreviated name**: *A. Constantin*
 
 #### Herbarium and types
 

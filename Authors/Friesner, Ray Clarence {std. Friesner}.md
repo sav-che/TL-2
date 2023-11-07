@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/103832#page/52/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33258480) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Friesner, Ray Clarence (1894-1952), American plant taxonomist and ecologist, born 8 Feb 1894 in Bremen, Ohio, A.B. 1916 Ohio Wesleyan Univ., Delaware, Ohio, Ph.D. 1919 Univ. of Michigan, Ann Arbor, asst. prof. 1919, assoc. prof. 1922, prof. 1925, "Head" 1920-1952, Dept. of Botany, and dean 1947-1952, College of Liberal Arts and Sciences, all Butler Univ., Indianapolis, Indiana, secretary1926-1935 and president 1936, Indiana Academy of Science, Dr. h.c. 1951 Ohio Wesleyan Univ., died 1 Dec 1952 in Indianapolis (buried in Bremen, Ohio). (*Friesner*).
+Friesner, Ray Clarence (1894-1952), American plant taxonomist and ecologist, born 8 Feb 1894 in Bremen, Ohio, A.B. 1916 Ohio Wesleyan Univ., Delaware, Ohio, Ph.D. 1919 Univ. of Michigan, Ann Arbor, asst. prof. 1919, assoc. prof. 1922, prof. 1925, "Head" 1920-1952, Dept. of Botany, and dean 1947-1952, College of Liberal Arts and Sciences, all Butler Univ., Indianapolis, Indiana, secretary1926-1935 and president 1936, Indiana Academy of Science, Dr. h.c. 1951 Ohio Wesleyan Univ., died 1 Dec 1952 in Indianapolis (buried in Bremen, Ohio). 
+**Abbreviated name**: *Friesner*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/item/103624#page/670/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33190127) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rehsteiner, Hugo (1864-1947), Swiss botanist at St. Gallen. (*Rehsteiner*).
+Rehsteiner, Hugo (1864-1947), Swiss botanist at St. Gallen. 
+**Abbreviated name**: *Rehsteiner*
 
 #### Herbarium and types
 

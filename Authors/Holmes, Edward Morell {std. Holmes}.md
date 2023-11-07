@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103253#page/286/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33068502) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holmes, Edward Morell (1843-1930), British pharmaceutical botanist and algologist, curator of the Museum of the Pharmaceutical Society of Great Britain (1872-1922). (*Holmes*).
+Holmes, Edward Morell (1843-1930), British pharmaceutical botanist and algologist, curator of the Museum of the Pharmaceutical Society of Great Britain (1872-1922). 
+**Abbreviated name**: *Holmes*
 
 #### Herbarium and types
 

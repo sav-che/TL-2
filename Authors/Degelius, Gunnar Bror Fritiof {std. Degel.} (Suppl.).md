@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103833#page/160/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33259194) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Degelius, Gunnar Bror Fritiof {std. Degel.}|first entry]] for this author
 
 ### Author
 
-\* Degelius, Gunnar Bror Fritiof (1903-1993), Swedish botanist, born 27 Jan 1903 in Uppsala, son of a pharmacist, studied at the University of Uppsala, Dr. biol. and "Dozent" 1935, set up a trio of lichenologists at UPS, moved to Göteborg 1955-1968, died 1993. (*Degel.*).
+\* Degelius, Gunnar Bror Fritiof (1903-1993), Swedish botanist, born 27 Jan 1903 in Uppsala, son of a pharmacist, studied at the University of Uppsala, Dr. biol. and "Dozent" 1935, set up a trio of lichenologists at UPS, moved to Göteborg 1955-1968, died 1993. 
+**Abbreviated name**: *Degel.*
 
 #### Herbarium and types
 

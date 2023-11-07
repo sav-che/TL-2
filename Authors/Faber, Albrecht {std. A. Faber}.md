@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103834#page/23/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259505) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Faber, Albrecht (1903-1986), German pharmacist, plant sociologist and ecologist, born 10 Feb 1903 in Aalen, at the Natural History Museum, Tübingen from 1932, promoted to general conservator 1944 and then prof. of natural history, died 17 Dec 1986. (*A. Faber*).
+Faber, Albrecht (1903-1986), German pharmacist, plant sociologist and ecologist, born 10 Feb 1903 in Aalen, at the Natural History Museum, Tübingen from 1932, promoted to general conservator 1944 and then prof. of natural history, died 17 Dec 1986. 
+**Abbreviated name**: *A. Faber*
 
 #### Herbarium and types
 

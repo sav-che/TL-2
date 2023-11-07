@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/item/103250#page/488/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33066768) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolley-Dod, Anthony Hurt (1861-1948), British soldier and botanist; Royal Military Academy at Woolwich 1879; commissioned Royal Artillery 1881; captain 1889, retired with rank of major 1901; It.-colonel during World War I; collected in S. Africa (1900-1901), Gibraltar (1913-1914), California (1921). (*Wolley-Dod*).
+Wolley-Dod, Anthony Hurt (1861-1948), British soldier and botanist; Royal Military Academy at Woolwich 1879; commissioned Royal Artillery 1881; captain 1889, retired with rank of major 1901; It.-colonel during World War I; collected in S. Africa (1900-1901), Gibraltar (1913-1914), California (1921). 
+**Abbreviated name**: *Wolley-Dod*
 
 #### Herbarium and types
 

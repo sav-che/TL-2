@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103834#page/224/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33259706) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Bernhard (1852-1915), German surgeon and marine bacteriologist, born 19 Feb 1852 in Coburg, educated as an army surgeon, M.D. 1875 Friedrich-Wilhelms-Univ. in Berlin, asst. to Robert Koch (1843-1910) in Berlin (Koch later a Nobel laureate) and went with him on the Cholera Commission to Egypt and India 1883, prof. of hygiene at Kiel 1899, served in W.W.-I and killed in action nr. Ypres, Belgium. (*B. Fischer*).
+Fischer, Bernhard (1852-1915), German surgeon and marine bacteriologist, born 19 Feb 1852 in Coburg, educated as an army surgeon, M.D. 1875 Friedrich-Wilhelms-Univ. in Berlin, asst. to Robert Koch (1843-1910) in Berlin (Koch later a Nobel laureate) and went with him on the Cholera Commission to Egypt and India 1883, prof. of hygiene at Kiel 1899, served in W.W.-I and killed in action nr. Ypres, Belgium. 
+**Abbreviated name**: *B. Fischer*
 
 #### Herbarium and types
 

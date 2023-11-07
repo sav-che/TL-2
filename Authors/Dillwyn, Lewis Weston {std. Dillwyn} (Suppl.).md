@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103833#page/352/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dillwyn, Lewis Weston {std. Dillwyn}|first entry]] for this author
 
 ### Author
 
-Dillwyn, Lewis Weston (1778-1855), British porcelain manufacturer and naturalist, county magistrate, born at Ipswich, Suffolk 21 Aug 1778, moved to Walthamstow, since living at Swansea 1802-1835, died 31 Aug 1855. (*Dillwyn*).
+Dillwyn, Lewis Weston (1778-1855), British porcelain manufacturer and naturalist, county magistrate, born at Ipswich, Suffolk 21 Aug 1778, moved to Walthamstow, since living at Swansea 1802-1835, died 31 Aug 1855. 
+**Abbreviated name**: *Dillwyn*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/item/104137#page/621/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33355692) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Motyka, Józef (1900-x), Polish botanist (lichenologist); Dr. phil. 1925; professor of botany at the University of Lublin. (*Motyka*).
+Motyka, Józef (1900-x), Polish botanist (lichenologist); Dr. phil. 1925; professor of botany at the University of Lublin. 
+**Abbreviated name**: *Motyka*
 
 #### Herbarium and types
 

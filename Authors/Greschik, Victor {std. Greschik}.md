@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1000](https://www.biodiversitylibrary.org/item/103414#page/1048/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1000](https://www.biodiversitylibrary.org/page/33121131) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Greschik, Victor (1862-1946), Carpathian bryologist at Leutschau (Levoca) (now Czechoslovakia). (*Greschik*).
+Greschik, Victor (1862-1946), Carpathian bryologist at Leutschau (Levoca) (now Czechoslovakia). 
+**Abbreviated name**: *Greschik*
 
 #### Herbarium and types
 

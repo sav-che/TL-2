@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103253#page/140/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hayward, Ida Margaret (1872-1949), British botanist residing at Galashiels in Scotland; student of the adventive flora of the Tweed area. (*Hayw.*).
+Hayward, Ida Margaret (1872-1949), British botanist residing at Galashiels in Scotland; student of the adventive flora of the Tweed area. 
+**Abbreviated name**: *Hayw.*
 
 #### Herbarium and types
 

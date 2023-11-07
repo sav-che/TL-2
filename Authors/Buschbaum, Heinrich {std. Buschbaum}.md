@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103861#page/286/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33266583) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buschbaum, Heinrich (1836-1924), German (born Neuland a. d. Elbe) botanist and highschool teacher, at the "Realschule" at Osnabrück 1869, prolific writer on the flora around Osnabrück until 1891. (*Buschbaum*).
+Buschbaum, Heinrich (1836-1924), German (born Neuland a. d. Elbe) botanist and highschool teacher, at the "Realschule" at Osnabrück 1869, prolific writer on the flora around Osnabrück until 1891. 
+**Abbreviated name**: *Buschbaum*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103414#page/210/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33120293) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beddome, Richard Henry {std. Bedd.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beddome, Richard Henry (1830-1911), English army officer and forestry botanist in India. (*Bedd.*).
+Beddome, Richard Henry (1830-1911), English army officer and forestry botanist in India. 
+**Abbreviated name**: *Bedd.*
 
 #### Herbarium and types
 

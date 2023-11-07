@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/item/104137#page/420/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33355491) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meisel, Max (1892-1969), American bibliographer and historian of natural history; B.Sc. New York 1914, librarian at New York public library 1916-1917; at Battle Creek, Mich. 1917-1918, at Brooklyn 1918-? (*Meisel*).
+Meisel, Max (1892-1969), American bibliographer and historian of natural history; B.Sc. New York 1914, librarian at New York public library 1916-1917; at Battle Creek, Mich. 1917-1918, at Brooklyn 1918-? 
+**Abbreviated name**: *Meisel*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103835#page/285/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33260263) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichholz, Georg (1861-1886), German botanist, born 9 Mar 1861 at Stargard, Pommern, visited the gymnasium in that city and after 1878 at Posen until 1882, studied natural sciences in Berlin and Zürich, died 8 Apr 1886 at Strasbourg. (*Eichholz*).
+Eichholz, Georg (1861-1886), German botanist, born 9 Mar 1861 at Stargard, Pommern, visited the gymnasium in that city and after 1878 at Posen until 1882, studied natural sciences in Berlin and Zürich, died 8 Apr 1886 at Strasbourg. 
+**Abbreviated name**: *Eichholz*
 
 #### Herbarium and types
 

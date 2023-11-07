@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 963](https://www.biodiversitylibrary.org/item/103624#page/977/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 963](https://www.biodiversitylibrary.org/page/33190434) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roze, Ernest (1833-1900), French administrator at the ministry of finances Paris; self-taught amateur botanist, mycologist, bryologist and botanical historian. (*Roze*).
+Roze, Ernest (1833-1900), French administrator at the ministry of finances Paris; self-taught amateur botanist, mycologist, bryologist and botanical historian. 
+**Abbreviated name**: *Roze*
 
 #### Herbarium and types
 

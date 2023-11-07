@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103683#page/349/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33212381) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thurston, Edgar (1855-1935), British botanist and anthropologist; studied medicine at King's College, London (L.R.C.P. 1877); superintendent of the Government Museum, Madras 1885-1909; from 1910 in retirement in Cornwall dedicating himself to the local flora and to horticulture. (*E. Thurst.*).
+Thurston, Edgar (1855-1935), British botanist and anthropologist; studied medicine at King's College, London (L.R.C.P. 1877); superintendent of the Government Museum, Madras 1885-1909; from 1910 in retirement in Cornwall dedicating himself to the local flora and to horticulture. 
+**Abbreviated name**: *E. Thurst.*
 
 #### Herbarium and types
 

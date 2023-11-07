@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103858#page/264/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33264979) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bagnall, James Eustace {std. Bagn.}|first entry]] for this author
 
 ### Author
 
-\* Bagnall, James Eustace (1830-1918), British botanist, born in Birmingham, educated at Singer's Hill, joined his father in the warehouse 1844 (sic), employed by Messrs Hinks and Wells pen factory 1853-1897, from 1884 active amateur botanist. (*Bagn.*).
+\* Bagnall, James Eustace (1830-1918), British botanist, born in Birmingham, educated at Singer's Hill, joined his father in the warehouse 1844 (sic), employed by Messrs Hinks and Wells pen factory 1853-1897, from 1884 active amateur botanist. 
+**Abbreviated name**: *Bagn.*
 
 #### Herbarium and types
 

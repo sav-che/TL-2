@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/103860#page/501/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33266168) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cuénot, Lucien Claude Marie Julien (1866-1951), French botanist, born 21 Oct 1866 in Paris (Batignolles), died 8 Jan 1951 at Nancy, studied at the Paris Sorbonne medicine, went to Nancy 1890 as Maître de Conférences, professor and scientific investigator. (*Cuénot*).
+Cuénot, Lucien Claude Marie Julien (1866-1951), French botanist, born 21 Oct 1866 in Paris (Batignolles), died 8 Jan 1951 at Nancy, studied at the Paris Sorbonne medicine, went to Nancy 1890 as Maître de Conférences, professor and scientific investigator. 
+**Abbreviated name**: *Cuénot*
 
 #### Herbarium and types
 

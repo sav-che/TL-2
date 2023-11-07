@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103859#page/46/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265233) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Becking, Johannes Hendrikus (1890-1972), Dutch forester, studied at the Agriculture and Forestry College, Wageningen, Forest officer in the Dutch East Indies Govt. Forestry Services 1913, head of the Division of Commerce of the Teak Forest Administration 1933, chief inspector of the Forest Service 1936, professor at the Wageningen College. (*J.H. Becking*).
+Becking, Johannes Hendrikus (1890-1972), Dutch forester, studied at the Agriculture and Forestry College, Wageningen, Forest officer in the Dutch East Indies Govt. Forestry Services 1913, head of the Division of Commerce of the Teak Forest Administration 1933, chief inspector of the Forest Service 1936, professor at the Wageningen College. 
+**Abbreviated name**: *J.H. Becking*
 
 #### Herbarium and types
 

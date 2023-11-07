@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103253#page/27/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33068243) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haartman, Johan Gustav (1777-1799), Finnish botanist; born in Sauvo. (*Haartm.*).
+Haartman, Johan Gustav (1777-1799), Finnish botanist; born in Sauvo. 
+**Abbreviated name**: *Haartm.*
 
 #### Herbarium and types
 

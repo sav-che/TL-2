@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103858#page/263/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33264978) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baeza R. \[Riquelme\], Víctor Manuel (1886-1944), Chilean botanist. (*Baeza*).
+Baeza R. \[Riquelme\], Víctor Manuel (1886-1944), Chilean botanist. 
+**Abbreviated name**: *Baeza*
 
 #### Herbarium and types
 

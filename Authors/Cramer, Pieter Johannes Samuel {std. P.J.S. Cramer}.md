@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103860#page/455/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33266122) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cramer, Pieter Johannes Samuel (1879-1952), Dutch botanist, born at Lonneker, Overijssel, 29 Nov 1879, studied at the Amsterdam University, Ph.D. 1905, employed with the Department of Agriculture at Buitenzorg \[Bogor, then Dutch East Indies\] 1905-1909, in Suriname 1909-1911, returned to Buitenzorg, finally director of the Dept. of Agriculture until 1927, retired 1928, University Leiden lecturer in economy of tropical agriculture until 1937, id. in Wageningen (Agricultural College) 1937, returned to the Dutch East Indies 1940, evacuated to the Netherlands 1947, honorary professor of tropical cultures at Utrecht University until 1950, died 23 Mar 1952 at Wassenaar. (*P.J.S. Cramer*).
+Cramer, Pieter Johannes Samuel (1879-1952), Dutch botanist, born at Lonneker, Overijssel, 29 Nov 1879, studied at the Amsterdam University, Ph.D. 1905, employed with the Department of Agriculture at Buitenzorg \[Bogor, then Dutch East Indies\] 1905-1909, in Suriname 1909-1911, returned to Buitenzorg, finally director of the Dept. of Agriculture until 1927, retired 1928, University Leiden lecturer in economy of tropical agriculture until 1937, id. in Wageningen (Agricultural College) 1937, returned to the Dutch East Indies 1940, evacuated to the Netherlands 1947, honorary professor of tropical cultures at Utrecht University until 1950, died 23 Mar 1952 at Wassenaar. 
+**Abbreviated name**: *P.J.S. Cramer*
 
 #### Herbarium and types
 

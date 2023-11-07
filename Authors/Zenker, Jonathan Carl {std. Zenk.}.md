@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/103250#page/587/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33066867) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zenker, Jonathan Carl (1799-1837), German (Sachsen) botanist; studied theology (1818-1821), later (1821-1823) natural history and medicine at the University of Jena 1818; private teacher at Dresden 1823; continuing his studies at the medico-surgical school; Dr. phil. Jena 1825, Dr. med. ib. 1825; e.o. professor of natural history at Jena 1828, hon. regular professor in the philosophical faculty 1832, id. medical faculty 1836. (*Zenk.*).
+Zenker, Jonathan Carl (1799-1837), German (Sachsen) botanist; studied theology (1818-1821), later (1821-1823) natural history and medicine at the University of Jena 1818; private teacher at Dresden 1823; continuing his studies at the medico-surgical school; Dr. phil. Jena 1825, Dr. med. ib. 1825; e.o. professor of natural history at Jena 1828, hon. regular professor in the philosophical faculty 1832, id. medical faculty 1836. 
+**Abbreviated name**: *Zenk.*
 
 #### Herbarium and types
 

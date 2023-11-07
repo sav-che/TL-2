@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103253#page/48/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33068264) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hall, James (of Albany) (1811-1898), American geologist and palaeobiologist; pupil of Amos Eaton; leader of the New York Geological Survey 1843-1898. (*J. Hall*).
+Hall, James (of Albany) (1811-1898), American geologist and palaeobiologist; pupil of Amos Eaton; leader of the New York Geological Survey 1843-1898. 
+**Abbreviated name**: *J. Hall*
 
 #### Collections
 

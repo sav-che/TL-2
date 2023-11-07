@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/item/103414#page/563/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33120646) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cockayne, Leonard {std. Cockayne} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cockayne, Leonard (1855-1934), English born New Zealand botanist. (*Cockayne*).
+Cockayne, Leonard (1855-1934), English born New Zealand botanist. 
+**Abbreviated name**: *Cockayne*
 
 #### Herbarium and types
 

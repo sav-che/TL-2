@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/103860#page/537/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33266204) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Czaja, Alphons Theodor (1894-x), German botanist (plant-physiologist), born at Karlsruhe, Baden, assistant at the Pflanzenphysiologischen Institut der Universität Berlin, 1935 "außerordentlichen" Professor 1935, professor of botany of the Technische Hochschule Aachen 1936. (*Czaja*).
+Czaja, Alphons Theodor (1894-x), German botanist (plant-physiologist), born at Karlsruhe, Baden, assistant at the Pflanzenphysiologischen Institut der Universität Berlin, 1935 "außerordentlichen" Professor 1935, professor of botany of the Technische Hochschule Aachen 1936. 
+**Abbreviated name**: *Czaja*
 
 #### Herbarium and types
 

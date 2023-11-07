@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103253#page/37/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33068253) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hagen, Johann Heinrich (1738-1775), German pharmacist and botanist at Königsberg i. Pr. (*F. Hagen*).
+Hagen, Johann Heinrich (1738-1775), German pharmacist and botanist at Königsberg i. Pr. 
+**Abbreviated name**: *F. Hagen*
 
 #### Herbarium and types
 

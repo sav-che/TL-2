@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/item/103624#page/279/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33189736) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pilger, Robert Knuds Friedrich (1876-1953), German botanist; Dr. phil. Berlin (with Engler) 1898; collected in Brazil 1898-1900; assistant at Berlin-Dahlem 1900; Custos 1908; habil. Berlin 1908; titular professor 1913, vice-director 1921, director 1945-1950. (*Pilg.*).
+Pilger, Robert Knuds Friedrich (1876-1953), German botanist; Dr. phil. Berlin (with Engler) 1898; collected in Brazil 1898-1900; assistant at Berlin-Dahlem 1900; Custos 1908; habil. Berlin 1908; titular professor 1913, vice-director 1921, director 1945-1950. 
+**Abbreviated name**: *Pilg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103833#page/65/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33259099) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daniel, Lucien \[Louis\] (1856-1940), French botanist (mycologist and agriculturist), born at La Dorée, Mayenne (1 Nov 1856), died at Rennes (26 Dec 1940), professor at the Lyceum of Rennes, professor at the University of Rennes for agricultural botany 1903. (*L.L. Daniel*).
+Daniel, Lucien \[Louis\] (1856-1940), French botanist (mycologist and agriculturist), born at La Dorée, Mayenne (1 Nov 1856), died at Rennes (26 Dec 1940), professor at the Lyceum of Rennes, professor at the University of Rennes for agricultural botany 1903. 
+**Abbreviated name**: *L.L. Daniel*
 
 #### Herbarium and types
 

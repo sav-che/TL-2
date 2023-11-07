@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103833#page/348/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33259382) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diettrich-Kalkhoff, Emil Georg Friedrich (1873-1920), Austrian botanist, born at Prague 18 Mai 1873, after 1897 living in Arco. (*Diettrich-Kalkh.*).
+Diettrich-Kalkhoff, Emil Georg Friedrich (1873-1920), Austrian botanist, born at Prague 18 Mai 1873, after 1897 living in Arco. 
+**Abbreviated name**: *Diettrich-Kalkh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/item/104077#page/682/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33333807) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Christen (1785-1816), Norwegian botanist and physician; professor of botany at the University of Christiania (Oslo) 1814; travelled to Madeira and the Canary Islands 1815; botanist and geologist on the British expedition to the Congo under J.K. Tuckey 1816. (*Chr. Sm.*).
+Smith, Christen (1785-1816), Norwegian botanist and physician; professor of botany at the University of Christiania (Oslo) 1814; travelled to Madeira and the Canary Islands 1815; botanist and geologist on the British expedition to the Congo under J.K. Tuckey 1816. 
+**Abbreviated name**: *Chr. Sm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/item/103253#page/460/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jekyll, Gertrude (1843-1932), British gardener. (*Jekyll*).
+Jekyll, Gertrude (1843-1932), British gardener. 
+**Abbreviated name**: *Jekyll*
 
 #### Herbarium and types
 

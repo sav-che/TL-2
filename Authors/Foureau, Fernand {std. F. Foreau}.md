@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103834#page/379/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33259861) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Foureau, Fernand (1850-1914), French explorer and colonial administrator, born 17 Oct 1850 in Saint-Barbant (Haute-Vienne), served in the French Marine and imprisoned by Germans during Franco-Prussian War 1870-1871, undertook numerous exploring expeds. to n. and w. Africa (esp. the Sahara) 1876-1900 (covered 21,000 km of itineraries!), Légion d'honneur 1893, gold medal, Société de Géographie, Paris 1901, etc., governor of Mayotte 1906-1907 and then Martinique 1908-1913, died 17 Jan 1914 in Paris. (*F. Foreau*).
+Foureau, Fernand (1850-1914), French explorer and colonial administrator, born 17 Oct 1850 in Saint-Barbant (Haute-Vienne), served in the French Marine and imprisoned by Germans during Franco-Prussian War 1870-1871, undertook numerous exploring expeds. to n. and w. Africa (esp. the Sahara) 1876-1900 (covered 21,000 km of itineraries!), Légion d'honneur 1893, gold medal, Société de Géographie, Paris 1901, etc., governor of Mayotte 1906-1907 and then Martinique 1908-1913, died 17 Jan 1914 in Paris. 
+**Abbreviated name**: *F. Foreau*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/item/103414#page/925/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33121008) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Freyn, Josef (József, Joseph) Franz (František) {std. Freyn} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Freyn, Josef Franz (1845-1903), Bohemian engineer, botanist and "Fürstlich colloredo'scher Baurath" (AG) in Prague. (*Freyn*).
+Freyn, Josef Franz (1845-1903), Bohemian engineer, botanist and "Fürstlich colloredo'scher Baurath" (AG) in Prague. 
+**Abbreviated name**: *Freyn*
 
 #### Herbarium and types
 

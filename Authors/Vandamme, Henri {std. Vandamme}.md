@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/item/103683#page/666/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33212698) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vandamme, Henri (1803-?), French pharmacist and botanist at Hazebrouck in N.W. France. (*Vandamme*).
+Vandamme, Henri (1803-?), French pharmacist and botanist at Hazebrouck in N.W. France. 
+**Abbreviated name**: *Vandamme*
 
 #### Herbarium and types
 

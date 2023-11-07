@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103250#page/62/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33066304) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wacker, Hermann (x-1899), German (Prussian) high school teacher and botanist in Kulm, later in Berlin. (*Wacker*).
+Wacker, Hermann (x-1899), German (Prussian) high school teacher and botanist in Kulm, later in Berlin. 
+**Abbreviated name**: *Wacker*
 
 #### Herbarium and types
 

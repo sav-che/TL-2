@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103859#page/368/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33265555) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boros, Ádám (1900-1973), Hungarian botanist (bryologist, florist, geo-botanist), studied at the University of Budapest 1918-1922, Dr. bot. 1922, employed by the Hungarian medical plants station from 1922, director ib. 1945, also with the state agricultural botany institute, lecturer at the Pázmány Péter University 1929, professor 1949, Dr. biol. sci. at the Science Academy Budapest. (*Boros*).
+Boros, Ádám (1900-1973), Hungarian botanist (bryologist, florist, geo-botanist), studied at the University of Budapest 1918-1922, Dr. bot. 1922, employed by the Hungarian medical plants station from 1922, director ib. 1945, also with the state agricultural botany institute, lecturer at the Pázmány Péter University 1929, professor 1949, Dr. biol. sci. at the Science Academy Budapest. 
+**Abbreviated name**: *Boros*
 
 #### Herbarium and types
 

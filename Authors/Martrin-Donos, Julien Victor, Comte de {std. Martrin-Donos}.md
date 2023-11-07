@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/104137#page/357/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33355428) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martrin-Donos, Julien Victor, Comte de (1802-1870), French botanist. (*Martrin-Donos*).
+Martrin-Donos, Julien Victor, Comte de (1802-1870), French botanist. 
+**Abbreviated name**: *Martrin-Donos*
 
 #### Herbarium and types
 

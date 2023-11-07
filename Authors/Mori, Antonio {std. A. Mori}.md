@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/item/104137#page/597/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33355668) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mori, Antonio (1847-1902), Italian botanist; acting director botanical garden of Pisa 1880-1881; director of the botanical garden of Alodena (1883-1902), professor of botany from 1888. (*A. Mori*).
+Mori, Antonio (1847-1902), Italian botanist; acting director botanical garden of Pisa 1880-1881; director of the botanical garden of Alodena (1883-1902), professor of botany from 1888. 
+**Abbreviated name**: *A. Mori*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/item/103858#page/355/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33265070) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartholomew, Elam {std. Barth.}|first entry]] for this author
 
 ### Author
 
-\* Bartholomew, Elam (1852-1934), American farmer, school-teacher, stock-raiser, mycologist and plant collector, born in Pennsylvania, educated in Ohio and at a farm near Farmington, Illinois, qualified himself to teach school, settled in Kansas at a farm near Stocktor 1874-1929, moved to Fort Hayes, Kansas State College as curator of the mycological herbarium 1929-1934. (*Barth.*).
+\* Bartholomew, Elam (1852-1934), American farmer, school-teacher, stock-raiser, mycologist and plant collector, born in Pennsylvania, educated in Ohio and at a farm near Farmington, Illinois, qualified himself to teach school, settled in Kansas at a farm near Stocktor 1874-1929, moved to Fort Hayes, Kansas State College as curator of the mycological herbarium 1929-1934. 
+**Abbreviated name**: *Barth.*
 
 #### Herbarium and types
 

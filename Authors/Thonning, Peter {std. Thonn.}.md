@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103683#page/300/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33212332) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thonning, Peter (1775-1848), Danish botanist; studied medicine and natural sciences at Copenhagen; on a botanical expedition to Danish Guinea \[now in Ghana\] with O. Haaslund Smith 1799-1803 studying natural resources and dye plants; after 1807 in various functions, from 1829 co-director of the Royal Natural History Museum. (*Thonn.*).
+Thonning, Peter (1775-1848), Danish botanist; studied medicine and natural sciences at Copenhagen; on a botanical expedition to Danish Guinea \[now in Ghana\] with O. Haaslund Smith 1799-1803 studying natural resources and dye plants; after 1807 in various functions, from 1829 co-director of the Royal Natural History Museum. 
+**Abbreviated name**: *Thonn.*
 
 #### Herbarium and types
 

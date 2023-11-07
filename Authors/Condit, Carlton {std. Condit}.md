@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/103860#page/309/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265976) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Condit, Carlton (1906-x), American geologist and paleobotanist, born 28 Mai 1906 at Oakland, California, A.B. California 1935, Ph.D. (paleobotany) 1939, teaching assistant paleobotany California University 1935-1939, teacher William College (Calif.) 1940-1941, assistant professor geology Iowa 1945-1950. (*Condit*).
+Condit, Carlton (1906-x), American geologist and paleobotanist, born 28 Mai 1906 at Oakland, California, A.B. California 1935, Ph.D. (paleobotany) 1939, teaching assistant paleobotany California University 1935-1939, teacher William College (Calif.) 1940-1941, assistant professor geology Iowa 1945-1950. 
+**Abbreviated name**: *Condit*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103250#page/257/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33066537) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wesenburg-Lund, Carl Jørgen (1867-1955), Danish limnologist and algologist; Dr. phil. Copenhagen 1899; assistant with the Agricultural College 1894-1899; in charge of the fresh water biological laboratory of the University 1904-1939; professor of fresh water biology 1922-1939. (*Wesenb.-Lund*).
+Wesenburg-Lund, Carl Jørgen (1867-1955), Danish limnologist and algologist; Dr. phil. Copenhagen 1899; assistant with the Agricultural College 1894-1899; in charge of the fresh water biological laboratory of the University 1904-1939; professor of fresh water biology 1922-1939. 
+**Abbreviated name**: *Wesenb.-Lund*
 
 #### Herbarium and types
 

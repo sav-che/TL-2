@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103860#page/14/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33265681) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ceillier, René (fl. 1913), French botanist at Paris, "docteur ès sciences naturelles". (*Ceillier*).
+Ceillier, René (fl. 1913), French botanist at Paris, "docteur ès sciences naturelles". 
+**Abbreviated name**: *Ceillier*
 
 #### Herbarium and types
 

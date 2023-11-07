@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/item/103253#page/694/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33068910) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krauss, Christian Ferdinand Friedrich von (1812-1890), German botanist and zoologist; Dr. Phil. Heidelberg 1836; travelled in South Africa 1838-1840; from 1840 in various functions at the natural history museum at Stuttgart. (*C. Krauss*).
+Krauss, Christian Ferdinand Friedrich von (1812-1890), German botanist and zoologist; Dr. Phil. Heidelberg 1836; travelled in South Africa 1838-1840; from 1840 in various functions at the natural history museum at Stuttgart. 
+**Abbreviated name**: *C. Krauss*
 
 #### Herbarium and types
 

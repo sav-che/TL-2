@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103832#page/230/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33258696) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gillespie, John Wynn (1901-1932), American botanist, A.M. 1926 Stanford Univ., Palo Alto, Calif. (thesis entitled "Notes on the fungus Dicaeoma evadens..."), Bernice P. Bishop Museum Fellow, Yale Univ., New Haven, Conn., during which period he visited Fiji Jul 1927-Apr 1928, Research Associate in Botany, Bernice P. Bishop Museum 1928-1932, Ph.D. 1930 Stanford Univ., Natl. Research Fellowship, Gray Herb., Harvard Univ., Cambridge, Mass., appointed prof. of botany, Arizona State Teachers College (now Arizona State Univ.), Tempe 1932, visited Kew summer 1932 and died of pneumonia on 13 Sep 1932 in Albany, Georgia, U.S.A. while enroute home. (*Gillespie*).
+Gillespie, John Wynn (1901-1932), American botanist, A.M. 1926 Stanford Univ., Palo Alto, Calif. (thesis entitled "Notes on the fungus Dicaeoma evadens..."), Bernice P. Bishop Museum Fellow, Yale Univ., New Haven, Conn., during which period he visited Fiji Jul 1927-Apr 1928, Research Associate in Botany, Bernice P. Bishop Museum 1928-1932, Ph.D. 1930 Stanford Univ., Natl. Research Fellowship, Gray Herb., Harvard Univ., Cambridge, Mass., appointed prof. of botany, Arizona State Teachers College (now Arizona State Univ.), Tempe 1932, visited Kew summer 1932 and died of pneumonia on 13 Sep 1932 in Albany, Georgia, U.S.A. while enroute home. 
+**Abbreviated name**: *Gillespie*
 
 #### Note
 

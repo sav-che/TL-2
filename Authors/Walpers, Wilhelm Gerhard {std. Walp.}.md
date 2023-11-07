@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103250#page/105/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33066385) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walpers, Wilhelm Gerhard (1816-1853), German (Thuringian) botanist; studied at the University of Greifswald (1836) and Breslau (1837-1838); Dr. phil. Greifswald 1839; from then on independent scientist in Berlin; habil. Univ. Berlin 1848. (*Walp.*).
+Walpers, Wilhelm Gerhard (1816-1853), German (Thuringian) botanist; studied at the University of Greifswald (1836) and Breslau (1837-1838); Dr. phil. Greifswald 1839; from then on independent scientist in Berlin; habil. Univ. Berlin 1848. 
+**Abbreviated name**: *Walp.*
 
 #### Herbarium and types
 

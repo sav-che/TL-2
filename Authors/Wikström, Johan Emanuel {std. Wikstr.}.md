@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103250#page/343/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33066623) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wikström, Johan Emanuel (1789-1856), Swedish botanist; Dr. med. Uppsala 1817; curator of the botanical department of the Stockholm Riksmuseum and successor to O. Swartz as teacher at the Bergius Garden 1818-1856; temp. teacher at the Stockholm Gymnasium 1821-1842; professor's title 1823; historian and bibliographer of Swedish botany. (*Wikstr.*).
+Wikström, Johan Emanuel (1789-1856), Swedish botanist; Dr. med. Uppsala 1817; curator of the botanical department of the Stockholm Riksmuseum and successor to O. Swartz as teacher at the Bergius Garden 1818-1856; temp. teacher at the Stockholm Gymnasium 1821-1842; professor's title 1823; historian and bibliographer of Swedish botany. 
+**Abbreviated name**: *Wikstr.*
 
 #### Herbarium and types
 

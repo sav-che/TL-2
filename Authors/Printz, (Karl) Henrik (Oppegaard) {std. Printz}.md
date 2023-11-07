@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/item/103624#page/420/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33189877) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Printz, \[Karl\] Henrik \[Oppegaard\] (1888-1978), Norwegian botanist; originally at Trondjhem; from 1926 professor of botany and director of the Botanical Institute of the Agricultural College at Aas near Oslo. (*Printz*).
+Printz, \[Karl\] Henrik \[Oppegaard\] (1888-1978), Norwegian botanist; originally at Trondjhem; from 1926 professor of botany and director of the Botanical Institute of the Agricultural College at Aas near Oslo. 
+**Abbreviated name**: *Printz*
 
 #### Herbarium and types
 

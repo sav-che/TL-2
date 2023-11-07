@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103832#page/186/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33258652) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Genevier, \[Léon\] Gaston (1830-1880), French pharmacist and botanist, born 18 Jun 1830 in Saint-Clément-de-la-Place (Maine-et-Loire) where he also was a student, took a dipl. in pharmacy in Paris and settled in Mortagne-sur-Sèvre (Vendée) 1856, accepted official position as inspector of mushrooms sold at Nantes 1867, died 11 Jul 1880 in Nantes. (*Genev.*).
+Genevier, \[Léon\] Gaston (1830-1880), French pharmacist and botanist, born 18 Jun 1830 in Saint-Clément-de-la-Place (Maine-et-Loire) where he also was a student, took a dipl. in pharmacy in Paris and settled in Mortagne-sur-Sèvre (Vendée) 1856, accepted official position as inspector of mushrooms sold at Nantes 1867, died 11 Jul 1880 in Nantes. 
+**Abbreviated name**: *Genev.*
 
 #### Herbarium and types
 

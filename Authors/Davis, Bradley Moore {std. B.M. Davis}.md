@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103833#page/112/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33259146) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davis, Bradley Moore (1871-1957), American botanist, born at Chicago, Illinois, studied with David Starr Jordan and Douglas Houghton Campbell at the University of Indiana, moved to Stanford BA 1892, MA 1894, Ph.D. Harvard 1895, assistant prof. Univ. Pennsylvania 1911, professor at the University of Michigan 1919-1942. (*B.M. Davis*).
+Davis, Bradley Moore (1871-1957), American botanist, born at Chicago, Illinois, studied with David Starr Jordan and Douglas Houghton Campbell at the University of Indiana, moved to Stanford BA 1892, MA 1894, Ph.D. Harvard 1895, assistant prof. Univ. Pennsylvania 1911, professor at the University of Michigan 1919-1942. 
+**Abbreviated name**: *B.M. Davis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103683#page/211/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33212243) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teijsmann \[Teysmann\], Johannes Elias (1809-1882), Dutch botanist; to Java as gardener 1830; curator of the Buitenzorg (h.t. Bogor) botanic gardens 1831-1869; honorary inspector of cultures from 1858; botanical explorer of the Indonesian archipelago. (*Teijsm.*).
+Teijsmann \[Teysmann\], Johannes Elias (1809-1882), Dutch botanist; to Java as gardener 1830; curator of the Buitenzorg (h.t. Bogor) botanic gardens 1831-1869; honorary inspector of cultures from 1858; botanical explorer of the Indonesian archipelago. 
+**Abbreviated name**: *Teijsm.*
 
 #### Herbarium and types
 

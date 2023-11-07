@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/item/103624#page/714/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinecke, W. (*fl*. 1886), German botanist at Gernrode a.H. (*W. Reinecke*).
+Reinecke, W. (*fl*. 1886), German botanist at Gernrode a.H. 
+**Abbreviated name**: *W. Reinecke*
 
 #### Note
 

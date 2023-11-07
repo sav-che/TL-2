@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/item/103683#page/758/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vines, Sydney Howard (1849-1934), British botanist; B.Sc. London 1873; BA Cambridge 1875; D.Sc. London 1879; fellow and lecturer Christ's College Cambridge 1876-1888; worked with J. Sachs, Würzburg 1877; reader in botany Univ. Cambridge 1883-1888; Sherardian professor of botany, Oxford and fellow of Magdalen College 1888-1919; president Linnean Society 1900-1904. (*Vines*).
+Vines, Sydney Howard (1849-1934), British botanist; B.Sc. London 1873; BA Cambridge 1875; D.Sc. London 1879; fellow and lecturer Christ's College Cambridge 1876-1888; worked with J. Sachs, Würzburg 1877; reader in botany Univ. Cambridge 1883-1888; Sherardian professor of botany, Oxford and fellow of Magdalen College 1888-1919; president Linnean Society 1900-1904. 
+**Abbreviated name**: *Vines*
 
 #### Herbarium and types
 

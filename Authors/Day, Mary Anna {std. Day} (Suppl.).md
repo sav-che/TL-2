@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103833#page/128/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259162) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Day, Mary Anna {std. Day}|first entry]] for this author
 
 ### Author
 
-\* Day, Mary Anna (1852-1924), American botanist and librarian, born in Nelson, Cheshire Cy., New Hampshire, first education in the Lancester Academy, Mass., ca. 1868-1870, taught in the Massachusetts public schools 1871-1878 at Sudbury and Clinton, later for six years in the Clinton Public Library, at the Gray Herbarium, Harvard College 1893 until retirement. (*Day*).
+\* Day, Mary Anna (1852-1924), American botanist and librarian, born in Nelson, Cheshire Cy., New Hampshire, first education in the Lancester Academy, Mass., ca. 1868-1870, taught in the Massachusetts public schools 1871-1878 at Sudbury and Clinton, later for six years in the Clinton Public Library, at the Gray Herbarium, Harvard College 1893 until retirement. 
+**Abbreviated name**: *Day*
 
 #### Herbarium and types
 

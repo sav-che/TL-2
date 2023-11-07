@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103832#page/87/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33258553) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fuisting, Wilhelm \[Guilelmus\] (1839-1870), German lichenologist, born 18 Jul 1839 in Münster and attended Gymnasium there until 1858, studied law in Bonn but switched to natural history in Münster after two years, went first to Munich and in 1864 to Berlin, Dr. Sci. 1865 Berlin, returned to his home in Münster because of heart problems, died 17 Nov 1870. (*Fuisting*).
+Fuisting, Wilhelm \[Guilelmus\] (1839-1870), German lichenologist, born 18 Jul 1839 in Münster and attended Gymnasium there until 1858, studied law in Bonn but switched to natural history in Münster after two years, went first to Munich and in 1864 to Berlin, Dr. Sci. 1865 Berlin, returned to his home in Münster because of heart problems, died 17 Nov 1870. 
+**Abbreviated name**: *Fuisting*
 
 #### Herbarium and types
 

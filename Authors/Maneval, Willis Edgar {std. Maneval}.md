@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/104137#page/290/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maneval, Willis Edgar (1877-1956), American mycologist; Ph. D. Johns Hopkins 1912; at the University of Missouri, Columbia, 1915-1947. (*Maneval*).
+Maneval, Willis Edgar (1877-1956), American mycologist; Ph. D. Johns Hopkins 1912; at the University of Missouri, Columbia, 1915-1947. 
+**Abbreviated name**: *Maneval*
 
 #### Herbarium and types
 

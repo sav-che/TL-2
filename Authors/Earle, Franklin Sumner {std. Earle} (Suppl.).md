@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103835#page/242/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33260220) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Earle, Franklin Sumner {std. Earle}|first entry]] for this author
 
 ### Author
 
-\* Earle, Franklin Sumner (1856-1929), American botanist, phytopathologist and mycologist, born 4 Sep 1856, Dwight, Grundy Co., Illinois, entered the University of Illinois 1872, but received no degree, had a honorary M.S. Degree from the Alabama Polytechnic Institute, in 1892 superintendent on a branch of the Mississipi Experiment Station, 1895-1896 assistant pathologist U.S. Dept. of Agriculture, 1896-1901 professor of biology at the Alabama Polytechnic Institute, worked at the New York Botanical Garden in charge of mycological collections 1901-1904, from 1904 at the Estación Central Agronómica in Cuba, stayed in 1918 with the U.S.D.A. in Puerto Rico in which year he also lost his collections, notes and writings by a fire which destroyed his home, died 31 Jan 1929 in Herradura, Cuba. (*Earle*).
+\* Earle, Franklin Sumner (1856-1929), American botanist, phytopathologist and mycologist, born 4 Sep 1856, Dwight, Grundy Co., Illinois, entered the University of Illinois 1872, but received no degree, had a honorary M.S. Degree from the Alabama Polytechnic Institute, in 1892 superintendent on a branch of the Mississipi Experiment Station, 1895-1896 assistant pathologist U.S. Dept. of Agriculture, 1896-1901 professor of biology at the Alabama Polytechnic Institute, worked at the New York Botanical Garden in charge of mycological collections 1901-1904, from 1904 at the Estación Central Agronómica in Cuba, stayed in 1918 with the U.S.D.A. in Puerto Rico in which year he also lost his collections, notes and writings by a fire which destroyed his home, died 31 Jan 1929 in Herradura, Cuba. 
+**Abbreviated name**: *Earle*
 
 #### Herbarium and types
 

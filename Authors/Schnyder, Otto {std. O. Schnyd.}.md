@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/104077#page/298/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33333423) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schnyder, Otto (*fl*. 1878), Argentine botanist; professor of botany at the University of Buenos Aires. (*O. Schnyd.*).
+Schnyder, Otto (*fl*. 1878), Argentine botanist; professor of botany at the University of Buenos Aires. 
+**Abbreviated name**: *O. Schnyd.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103834#page/137/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259619) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fekete, Lajos \[Ludwig\] (1837-1916), Hungarian forester, born 18 Jun 1837 in Torda (Siebenbürgen), prof. at the forestry academy in Selmecbánya (Schemnitz), died 29 Jun 1916 in Selmecbánya. (*Fekete*).
+Fekete, Lajos \[Ludwig\] (1837-1916), Hungarian forester, born 18 Jun 1837 in Torda (Siebenbürgen), prof. at the forestry academy in Selmecbánya (Schemnitz), died 29 Jun 1916 in Selmecbánya. 
+**Abbreviated name**: *Fekete*
 
 #### Herbarium and types
 

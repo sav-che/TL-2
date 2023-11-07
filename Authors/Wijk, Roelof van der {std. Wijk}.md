@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103250#page/343/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33066623) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wijk, Roelof van der (1895-1981), Dutch bryologist; teacher at a primary school 1913-1916; id. at teachers colleges in Meppel and Groningen 1916-1947; Dr. phil. Univ. Groningen 1930 (with J.C. Schoute); professor of systematic botany Groningen 1947-1965; collected bryophytes in Indonesia 1952; senior and principal author of the *Index muscorum*. (*Wijk*).
+Wijk, Roelof van der (1895-1981), Dutch bryologist; teacher at a primary school 1913-1916; id. at teachers colleges in Meppel and Groningen 1916-1947; Dr. phil. Univ. Groningen 1930 (with J.C. Schoute); professor of systematic botany Groningen 1947-1965; collected bryophytes in Indonesia 1952; senior and principal author of the *Index muscorum*. 
+**Abbreviated name**: *Wijk*
 
 #### Herbarium and types
 

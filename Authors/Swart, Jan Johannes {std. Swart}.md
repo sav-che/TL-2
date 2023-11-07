@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103683#page/126/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33212158) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swart, Jan Johannes (1901-1974), Dutch botanist; Dr. phil. Utrecht; teacher at the College for colonial (later: tropical) agriculture at Deventer; from 1954-1971 collaborator for *Index nominimi genericorum* with the International Bureau for Plant Taxonomy and Nomenclature, Utrecht. (*Swart*).
+Swart, Jan Johannes (1901-1974), Dutch botanist; Dr. phil. Utrecht; teacher at the College for colonial (later: tropical) agriculture at Deventer; from 1954-1971 collaborator for *Index nominimi genericorum* with the International Bureau for Plant Taxonomy and Nomenclature, Utrecht. 
+**Abbreviated name**: *Swart*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/103253#page/409/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33068625) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Illick, Joseph Simon (1884-x) American forest botanist in Pennsylvania. (*Illick*).
+Illick, Joseph Simon (1884-x) American forest botanist in Pennsylvania. 
+**Abbreviated name**: *Illick*
 
 #### Herbarium and types
 

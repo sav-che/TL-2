@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/item/103414#page/475/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33120558) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cambessèdes, Jacques {std. Cambess.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cambessèdes, Jacques (1799-1863), French botanist and agronomist at Montpellier. (*Cambess.*).
+Cambessèdes, Jacques (1799-1863), French botanist and agronomist at Montpellier. 
+**Abbreviated name**: *Cambess.*
 
 #### Herbarium and types
 

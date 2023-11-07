@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/item/103414#page/937/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fries, Theodor (Thore, Thorel) Magnus {std. Th. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fries, Theodor \[Thore\] Magnus (1832-1913), Swedish botanist, son of Elias Magnus Fries. (*Th. Fr.*).
+Fries, Theodor \[Thore\] Magnus (1832-1913), Swedish botanist, son of Elias Magnus Fries. 
+**Abbreviated name**: *Th. Fr.*
 
 #### Herbarium and types
 

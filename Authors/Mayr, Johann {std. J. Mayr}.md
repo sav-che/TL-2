@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/104137#page/406/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mayr, Johann (*fl*. 1797), German engraver and printer at Regensburg. (*J. Mayr*).
+Mayr, Johann (*fl*. 1797), German engraver and printer at Regensburg. 
+**Abbreviated name**: *J. Mayr*
 
 #### Herbarium and types
 

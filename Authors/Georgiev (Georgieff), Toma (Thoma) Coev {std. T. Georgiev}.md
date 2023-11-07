@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103832#page/195/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33258661) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Georgiev \[Georgieff\], Toma \[Thoma\] Coev (1883-x), Macedonian-born Bulgarian botanist, born 15 Mar 1883 in Titov Veles, doctorate 1911 Sofia, asst. in applied botany, Faculty of Agriculture, Sofia Univ. ca. 1931, specialist in *Cerastium* and *Hieracium*. (*T. Georgiev*).
+Georgiev \[Georgieff\], Toma \[Thoma\] Coev (1883-x), Macedonian-born Bulgarian botanist, born 15 Mar 1883 in Titov Veles, doctorate 1911 Sofia, asst. in applied botany, Faculty of Agriculture, Sofia Univ. ca. 1931, specialist in *Cerastium* and *Hieracium*. 
+**Abbreviated name**: *T. Georgiev*
 
 #### Herbarium and types
 

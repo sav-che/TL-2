@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103861#page/123/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33266420) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broekens, Douwe Johannes (fl. 1925), Dutch geneticist, student of Hugo de Vries at the University of Amsterdam, Dr. phil. Amsterdam 1925. (*Broekens*).
+Broekens, Douwe Johannes (fl. 1925), Dutch geneticist, student of Hugo de Vries at the University of Amsterdam, Dr. phil. Amsterdam 1925. 
+**Abbreviated name**: *Broekens*
 
 #### Herbarium and types
 

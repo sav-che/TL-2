@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103250#page/202/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33066482) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weed, Clarence Moores (1864-1947), American entomologist, botanist and educator; Dr. sci. Ohio State Univ. 1890; with the Ohio Experiment Station 1888-1891; professor of zoology and entomologist New Hampshire College of Agriculture Experiment Station 1891-1904; instructor State Normal School (Lowell State Teachers College), Mass. 1904-1922, president ib. 1922-1935. (*Weed*).
+Weed, Clarence Moores (1864-1947), American entomologist, botanist and educator; Dr. sci. Ohio State Univ. 1890; with the Ohio Experiment Station 1888-1891; professor of zoology and entomologist New Hampshire College of Agriculture Experiment Station 1891-1904; instructor State Normal School (Lowell State Teachers College), Mass. 1904-1922, president ib. 1922-1935. 
+**Abbreviated name**: *Weed*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/104137#page/451/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33355522) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Metzger, Johann (1789-1852), German botanist and gardener at Heidelberg; from 1851 director of the agricultural garden and college at Karlsruhe. (*Metzg.*).
+Metzger, Johann (1789-1852), German botanist and gardener at Heidelberg; from 1851 director of the agricultural garden and college at Karlsruhe. 
+**Abbreviated name**: *Metzg.*
 
 #### Herbarium and types
 

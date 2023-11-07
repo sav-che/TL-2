@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103832#page/109/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33258575) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gagnepain, François {std. Gagnep.}|first entry]] for this author
 
 ### Author
 
-\* Gagnepain, François (1866-1952), French botanist, born 23 Sep 1866 in Bois-de-Raveau nr. La Charité-sur-Loire (Nièvre), began collecting plants when 11 years old, school teacher in various villages of Nièvre 1886-1900, "préparateur des hautes études" 1909, then asst. dir. of the lab. of phanerogamic botany 1909, both Muséum natl. d'Histoire naturelle, Paris, major contributor to *Flore générale de l'Indochine* 1907-1950, which was initiated by Prof. H. Lecomte, Légion d'honneur 1923, died 20 Jan 1952 in Cannes. (*Gagnep.*).
+\* Gagnepain, François (1866-1952), French botanist, born 23 Sep 1866 in Bois-de-Raveau nr. La Charité-sur-Loire (Nièvre), began collecting plants when 11 years old, school teacher in various villages of Nièvre 1886-1900, "préparateur des hautes études" 1909, then asst. dir. of the lab. of phanerogamic botany 1909, both Muséum natl. d'Histoire naturelle, Paris, major contributor to *Flore générale de l'Indochine* 1907-1950, which was initiated by Prof. H. Lecomte, Légion d'honneur 1923, died 20 Jan 1952 in Cannes. 
+**Abbreviated name**: *Gagnep.*
 
 #### Note
 

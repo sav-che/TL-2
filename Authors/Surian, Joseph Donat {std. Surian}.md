@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103683#page/104/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Surian, Joseph Donat (x-1691), French physician-pharmacist at Marseille; travelled in the West Indies 1689-1690 by Royal Command, accompanied by Charles Plumier. (*Surian*).
+Surian, Joseph Donat (x-1691), French physician-pharmacist at Marseille; travelled in the West Indies 1689-1690 by Royal Command, accompanied by Charles Plumier. 
+**Abbreviated name**: *Surian*
 
 #### Herbarium and types
 

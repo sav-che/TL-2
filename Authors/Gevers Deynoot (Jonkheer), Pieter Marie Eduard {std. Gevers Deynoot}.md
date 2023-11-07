@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/item/103414#page/986/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33121069) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gevers Deynoot \[Jonkheer\], Pieter Marie Eduard (1816-1860), Dutch botanist. (*Gevers Deynoot*).
+Gevers Deynoot \[Jonkheer\], Pieter Marie Eduard (1816-1860), Dutch botanist. 
+**Abbreviated name**: *Gevers Deynoot*
 
 #### Herbarium and types
 

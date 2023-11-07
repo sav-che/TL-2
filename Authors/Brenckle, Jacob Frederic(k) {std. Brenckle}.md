@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/item/103414#page/364/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33120447) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brenckle, Jacob Frederic(k) {std. Brenckle} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brenckle, Jacob Frederic\[k\] (1875-1958), American physician, amateur botanist and plant collector at Kulm, North Dakota and Northville, South Dakota. (*Brenckle*).
+Brenckle, Jacob Frederic\[k\] (1875-1958), American physician, amateur botanist and plant collector at Kulm, North Dakota and Northville, South Dakota. 
+**Abbreviated name**: *Brenckle*
 
 #### Herbarium and types
 

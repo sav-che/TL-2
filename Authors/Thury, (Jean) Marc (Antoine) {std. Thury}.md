@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103683#page/350/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33212382) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thury, \[Jean\] Marc \[Antoine\] (1822-1905), Swiss naturalist and teacher; teaching at various private institutions at Nyon, Lausanne, Neuchâtel and Genève 1840-1851; professor of botany at the Faculté des Sciences, Genève from 1851-1900 as well as natural history teacher at the Genève girls high school. (*Thury*).
+Thury, \[Jean\] Marc \[Antoine\] (1822-1905), Swiss naturalist and teacher; teaching at various private institutions at Nyon, Lausanne, Neuchâtel and Genève 1840-1851; professor of botany at the Faculté des Sciences, Genève from 1851-1900 as well as natural history teacher at the Genève girls high school. 
+**Abbreviated name**: *Thury*
 
 #### Herbarium and types
 

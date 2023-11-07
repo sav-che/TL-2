@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103414#page/236/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33120319) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berger, Reinholdus (1824-1850), German palaeobotanist at Breslau, pupil of Goeppert. (*R. Berger*).
+Berger, Reinholdus (1824-1850), German palaeobotanist at Breslau, pupil of Goeppert. 
+**Abbreviated name**: *R. Berger*
 
 #### Collections
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/104137#page/325/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33355396) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marshall, Joseph Jewison (1860-1934), British bryologist and pharmaceutical chemist (*J. Marsh.*).
+Marshall, Joseph Jewison (1860-1934), British bryologist and pharmaceutical chemist 
+**Abbreviated name**: *J. Marsh.*
 
 #### Herbarium and types
 

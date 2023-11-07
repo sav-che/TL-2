@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/104077#page/49/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33333136) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sandwith, Mrs. Cecil Ivry (1871-1961), English botanist; collected plants in Northern Rhodesia 1929; floristically active in the Bristol area from 1909. (*C.I. Sandw.*).
+Sandwith, Mrs. Cecil Ivry (1871-1961), English botanist; collected plants in Northern Rhodesia 1929; floristically active in the Bristol area from 1909. 
+**Abbreviated name**: *C.I. Sandw.*
 
 #### Herbarium and types
 

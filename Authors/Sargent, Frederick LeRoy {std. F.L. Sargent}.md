@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/104077#page/70/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33333157) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sargent, Frederick LeRoy (1863-1928), American botanist; studied at the Lawrence Science School, Harvard University 1883-1886; head Department of Botany, Madison, Wisconsin 1886-1887; instructor in botany at the Medical School, Boston 1894-1895; assistant Botanical Museum, Harvard University 1902-1904; later botany teacher at Cambridge, Mass. (*F.L. Sargent*).
+Sargent, Frederick LeRoy (1863-1928), American botanist; studied at the Lawrence Science School, Harvard University 1883-1886; head Department of Botany, Madison, Wisconsin 1886-1887; instructor in botany at the Medical School, Boston 1894-1895; assistant Botanical Museum, Harvard University 1902-1904; later botany teacher at Cambridge, Mass. 
+**Abbreviated name**: *F.L. Sargent*
 
 #### Herbarium and types
 

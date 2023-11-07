@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/104137#page/214/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33355285) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lutze, Günther (1840-1930) German botanist and high school teacher at Sondershausen (*Lutze*).
+Lutze, Günther (1840-1930) German botanist and high school teacher at Sondershausen 
+**Abbreviated name**: *Lutze*
 
 #### Herbarium and types
 

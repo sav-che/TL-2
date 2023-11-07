@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/104137#page/286/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malthé, Gottlieb Friedrich (*fl*. 1787), German physician and botanist; Dr. med. Goett. 1787. (*Malthé*).
+Malthé, Gottlieb Friedrich (*fl*. 1787), German physician and botanist; Dr. med. Goett. 1787. 
+**Abbreviated name**: *Malthé*
 
 #### Herbarium and types
 

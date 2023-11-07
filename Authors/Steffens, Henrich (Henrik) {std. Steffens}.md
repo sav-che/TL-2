@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/item/104077#page/883/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33334008) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steffens, Henrich \[Henrik\] (1773-1845), Norwegian botanist; lecturer for natural history at the University of Kiel 1796-1798; Dr. phil. ib. 1797; subsequently professor of mineralogy in Halle (1804), in physics and philosophy of natural science at Breslau (1811), in natural sciences in Berlin (1831). (*Steffens*).
+Steffens, Henrich \[Henrik\] (1773-1845), Norwegian botanist; lecturer for natural history at the University of Kiel 1796-1798; Dr. phil. ib. 1797; subsequently professor of mineralogy in Halle (1804), in physics and philosophy of natural science at Breslau (1811), in natural sciences in Berlin (1831). 
+**Abbreviated name**: *Steffens*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/104077#page/259/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33333384) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Carl \[Karl\] Friedrich (1811-1892), German (Berlin) botanical artist and lithographer; teacher (art master) at the Berlin horticultural school 1843-1853, and idem at the Friedrich-Werdersche Gymnasium ib. until 1887, ultimately with the title professor; prolific artist who illustrated many of the German illustrated botanical works of the 19th century; illustrator of the Botanische Zeitung 1843-1891. (*C.F. Schmidt*).
+Schmidt, Carl \[Karl\] Friedrich (1811-1892), German (Berlin) botanical artist and lithographer; teacher (art master) at the Berlin horticultural school 1843-1853, and idem at the Friedrich-Werdersche Gymnasium ib. until 1887, ultimately with the title professor; prolific artist who illustrated many of the German illustrated botanical works of the 19th century; illustrator of the Botanische Zeitung 1843-1891. 
+**Abbreviated name**: *C.F. Schmidt*
 
 #### Herbarium and types
 

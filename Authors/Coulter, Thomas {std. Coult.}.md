@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/item/103414#page/607/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33120690) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coulter, Thomas {std. Coult.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Coulter, Thomas (1793-1846), Irish botanist, in Central Mexico 1825-1834, curator of the herbarium of Trinity College, Dublin. (*T. Coulter*).
+Coulter, Thomas (1793-1846), Irish botanist, in Central Mexico 1825-1834, curator of the herbarium of Trinity College, Dublin. 
+**Abbreviated name**: *T. Coulter*
 
 #### Herbarium and types
 

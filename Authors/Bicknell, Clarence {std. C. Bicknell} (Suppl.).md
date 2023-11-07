@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103859#page/166/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265353) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bicknell, Clarence {std. C. Bicknell}|first entry]] for this author
 
 ### Author
 
-\* Bicknell, Clarence (1842-1918), British curate, archeologist and botanist, B.A. Trinity College, Cambridge 1865, M.A. 1873, took Orders in the Church of England, curate at St. Paul's Walworth and at Stoke (Shropshire), chaplain at Bordighera (Riviera) 1879-1881, from then on following scientific and artistic pursuits settled at Bordighera. (*C. Bicknell*).
+\* Bicknell, Clarence (1842-1918), British curate, archeologist and botanist, B.A. Trinity College, Cambridge 1865, M.A. 1873, took Orders in the Church of England, curate at St. Paul's Walworth and at Stoke (Shropshire), chaplain at Bordighera (Riviera) 1879-1881, from then on following scientific and artistic pursuits settled at Bordighera. 
+**Abbreviated name**: *C. Bicknell*
 
 #### Herbarium and types
 

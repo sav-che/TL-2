@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/item/103683#page/511/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/page/33212543) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trog, Jakob Gabriel (1781-1865), Swiss pharmacist and mycologist; studied pharmacy in Lausanne, Strasbourg and Paris; assistant pharmacist at Yverdon 1802-1804; pharmacist at Thun 1804-1834; in retirement dedicating himself to mycology. (*Trog*).
+Trog, Jakob Gabriel (1781-1865), Swiss pharmacist and mycologist; studied pharmacy in Lausanne, Strasbourg and Paris; assistant pharmacist at Yverdon 1802-1804; pharmacist at Thun 1804-1834; in retirement dedicating himself to mycology. 
+**Abbreviated name**: *Trog*
 
 #### Herbarium and types
 

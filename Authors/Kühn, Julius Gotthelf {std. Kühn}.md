@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/item/103253#page/708/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33068924) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kühn, Julius Gotthelf (1825-1910), German phytopathologist at Halle, Preussischer Geheimer Ober-Regierungsrat. (*Kühn*).
+Kühn, Julius Gotthelf (1825-1910), German phytopathologist at Halle, Preussischer Geheimer Ober-Regierungsrat. 
+**Abbreviated name**: *Kühn*
 
 #### Herbarium and types
 

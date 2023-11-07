@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103414#page/185/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33120268) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bastard, Toussaint {std. Bastard} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bastard, Toussaint (1784-1846) (al.: Batard), French botanist in Chalonnes-sur-Loire, Anjou. (*Bastard*).
+Bastard, Toussaint (1784-1846) (al.: Batard), French botanist in Chalonnes-sur-Loire, Anjou. 
+**Abbreviated name**: *Bastard*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103250#page/234/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33066514) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Welling, Christian Friedrich von (*fl*. 1791), Alsatian-born German naturalist. (*Welling*).
+Welling, Christian Friedrich von (*fl*. 1791), Alsatian-born German naturalist. 
+**Abbreviated name**: *Welling*
 
 #### Herbarium and types
 

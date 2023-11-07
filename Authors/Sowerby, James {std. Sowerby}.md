@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/item/104077#page/773/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33333898) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sowerby, James (1757-1822), British botanical artist; trained at the Royal Academy Schools; illustrated many of the British botanical publications from 1777-1822; collaborator of e.g. William Curtis and James Edward Smith. (*Sowerby*).
+Sowerby, James (1757-1822), British botanical artist; trained at the Royal Academy Schools; illustrated many of the British botanical publications from 1777-1822; collaborator of e.g. William Curtis and James Edward Smith. 
+**Abbreviated name**: *Sowerby*
 
 #### Herbarium and types
 

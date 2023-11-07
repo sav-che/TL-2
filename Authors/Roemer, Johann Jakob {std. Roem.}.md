@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/item/103624#page/858/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33190315) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roemer, Johann Jakob (1763-1819), Swiss (Zürich) botanist; studied medicine and natural history at the University of Zürich 1783-1784, and Göttingen 1784-1786; Dr. phil. 1784; practicing physician at Zürich 1786-1797 and 1804-1819; lectured also at the Zürich medical college; director of the botanical garden of the Naturforschende Gesellschaft Zürich 1797-1819. (*Roem.*).
+Roemer, Johann Jakob (1763-1819), Swiss (Zürich) botanist; studied medicine and natural history at the University of Zürich 1783-1784, and Göttingen 1784-1786; Dr. phil. 1784; practicing physician at Zürich 1786-1797 and 1804-1819; lectured also at the Zürich medical college; director of the botanical garden of the Naturforschende Gesellschaft Zürich 1797-1819. 
+**Abbreviated name**: *Roem.*
 
 #### Herbarium and types
 

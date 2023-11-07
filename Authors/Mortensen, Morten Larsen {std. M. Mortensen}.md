@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/104137#page/613/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33355684) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mortensen, Morten Larsen (1881-1911), Danish botanist and phytopathologist. (*M. Mortensen*).
+Mortensen, Morten Larsen (1881-1911), Danish botanist and phytopathologist. 
+**Abbreviated name**: *M. Mortensen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103859#page/195/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blaauw, Anton Hendrik (1882-1942), Dutch botanist educated at the Gymnasium of Arnhem, studied biology at the University of Utrecht 1902, Dr. phil. ib. 1909, travelled in Java and Sumatra 1911-1912, curator of the Dutch botanical Society 1912, biology teacher at the Gymnasium of Haarlem 1914, idem also at the Haarlem Girls College 1916, professor of plant physiology at the Agricultural College, Wageningen 1918-1942. (*Blaauw*).
+Blaauw, Anton Hendrik (1882-1942), Dutch botanist educated at the Gymnasium of Arnhem, studied biology at the University of Utrecht 1902, Dr. phil. ib. 1909, travelled in Java and Sumatra 1911-1912, curator of the Dutch botanical Society 1912, biology teacher at the Gymnasium of Haarlem 1914, idem also at the Haarlem Girls College 1916, professor of plant physiology at the Agricultural College, Wageningen 1918-1942. 
+**Abbreviated name**: *Blaauw*
 
 #### Herbarium and types
 

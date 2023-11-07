@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103835#page/193/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33260171) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Durand, Théophile Alexis {std. T. Durand}|first entry]] for this author
 
 ### Author
 
-\* Durand, Théophile-Alexis (1855-1912), Belgian botanist, born 4 Sep 1855 at St. Josseten- Noode (Brussels), moved with his family to Liège in 1856, from 1871 interested in botany, entered the university at Liège in 1875, stayed because of illness in Château-d'Oex (Switzerland) 1877-1879, returned to Belgium at the Jardin Botanique at Brussels 1879 as volunteer, became "aide-naturaliste" in 1881, conservator in 1895 and director in 1902, correspondent of the Belgian royal Academy 1905, died 12 Jan 1912. (*T. Durand*).
+\* Durand, Théophile-Alexis (1855-1912), Belgian botanist, born 4 Sep 1855 at St. Josseten- Noode (Brussels), moved with his family to Liège in 1856, from 1871 interested in botany, entered the university at Liège in 1875, stayed because of illness in Château-d'Oex (Switzerland) 1877-1879, returned to Belgium at the Jardin Botanique at Brussels 1879 as volunteer, became "aide-naturaliste" in 1881, conservator in 1895 and director in 1902, correspondent of the Belgian royal Academy 1905, died 12 Jan 1912. 
+**Abbreviated name**: *T. Durand*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103859#page/266/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33265453) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boergesen (Børgesen), Frederik Christian Emil {std. Børgesen}|first entry]] for this author
 
 ### Author
 
-\* Børgesen \[Boergesen, Börgesen\], Frederik Christian Emil (1866-1956), Danish, Copen hagen born, botanist, especially algologist, and librarian, studied at the University of Copenhagen 1884-1891, Mag. Sci. 1891, Dr. phil. 1904, assistant at the Botanical Museum of Copenhagen 1898-1904, librarian ib. 1900-1934, had a private "botanical garden" at his home at Hellebaek. (*Børgesen*).
+\* Børgesen \[Boergesen, Börgesen\], Frederik Christian Emil (1866-1956), Danish, Copen hagen born, botanist, especially algologist, and librarian, studied at the University of Copenhagen 1884-1891, Mag. Sci. 1891, Dr. phil. 1904, assistant at the Botanical Museum of Copenhagen 1898-1904, librarian ib. 1900-1934, had a private "botanical garden" at his home at Hellebaek. 
+**Abbreviated name**: *Børgesen*
 
 #### Herbarium and types
 

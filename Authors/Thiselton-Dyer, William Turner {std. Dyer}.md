@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/103683#page/274/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33212306) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thiselton-Dyer, William Turner (1843-1928), British botanist; B.A. Oxford 1867, B.Sc. London 1880; professor of natural history, Royal Agricultural College, Cirencester 1868-1870; professor of botany, Royal College of Science, Dublin 1870-1872; id. Royal Horticultural Society London 1872, private secretary and editorial assistant to J.D. Hooker 1872; assistant director Royal Botanic Gardens, Kew 1875-1885; director ib. 1885-1905; in retirement at Witcombe, Gloucestershire; knighted 1899. (*Dyer*).
+Thiselton-Dyer, William Turner (1843-1928), British botanist; B.A. Oxford 1867, B.Sc. London 1880; professor of natural history, Royal Agricultural College, Cirencester 1868-1870; professor of botany, Royal College of Science, Dublin 1870-1872; id. Royal Horticultural Society London 1872, private secretary and editorial assistant to J.D. Hooker 1872; assistant director Royal Botanic Gardens, Kew 1875-1885; director ib. 1885-1905; in retirement at Witcombe, Gloucestershire; knighted 1899. 
+**Abbreviated name**: *Dyer*
 
 #### Herbarium and types
 

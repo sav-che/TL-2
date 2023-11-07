@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/item/103414#page/764/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33120847) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Earle, Franklin Sumner {std. Earle} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Earle, Franklin Sumner (1856-1929), American mycologist and phytopathologist. (*Earle*).
+Earle, Franklin Sumner (1856-1929), American mycologist and phytopathologist. 
+**Abbreviated name**: *Earle*
 
 #### Herbarium and types
 

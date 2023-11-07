@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/103624#page/206/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33189663) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petermann, Wilhelm Ludwig (1806-1855), German (Saxonian) botanist; habil. Leipzig 1835; suceeded Kunze as professor of botany in 1851. (*Peterm.*).
+Petermann, Wilhelm Ludwig (1806-1855), German (Saxonian) botanist; habil. Leipzig 1835; suceeded Kunze as professor of botany in 1851. 
+**Abbreviated name**: *Peterm.*
 
 #### Herbarium and types
 

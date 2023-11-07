@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103835#page/94/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33260072) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dracinschi, Margit (fl. 1926-1932), Romanian botanist. (*Dracinschi*).
+Dracinschi, Margit (fl. 1926-1932), Romanian botanist. 
+**Abbreviated name**: *Dracinschi*
 
 #### Herbarium and types
 

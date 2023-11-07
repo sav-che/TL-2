@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/103861#page/400/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33266697) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Candrian, Moritz \[Murezzan\] (1847-1930), Swiss botanist, born at Sagens, Graubünden, educated at the Lehrerseminar at Chur ca. 1863-1866, teacher at Fetan, Unterengadin 1861, at Schnaus im Oberland, and Celerina (Engadin), teacher and forester in Samaden, Graubünden, interested mainly in the vegetation of the Engadin 1881-1927. (*Candrian*).
+Candrian, Moritz \[Murezzan\] (1847-1930), Swiss botanist, born at Sagens, Graubünden, educated at the Lehrerseminar at Chur ca. 1863-1866, teacher at Fetan, Unterengadin 1861, at Schnaus im Oberland, and Celerina (Engadin), teacher and forester in Samaden, Graubünden, interested mainly in the vegetation of the Engadin 1881-1927. 
+**Abbreviated name**: *Candrian*
 
 #### Herbarium and types
 

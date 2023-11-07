@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103253#page/72/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hansen, Carl (1848-1903), Danish horticulturist; from 1879 lecturer, later professor at the Copenhagen agricultural college (Landbohöjskolen). (*C. Hans.*).
+Hansen, Carl (1848-1903), Danish horticulturist; from 1879 lecturer, later professor at the Copenhagen agricultural college (Landbohöjskolen). 
+**Abbreviated name**: *C. Hans.*
 
 #### Herbarium and types
 

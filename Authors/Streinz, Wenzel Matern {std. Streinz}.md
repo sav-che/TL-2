@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103683#page/55/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Streinz, Wenzel Matern (1792-1876), Bohemian-Austrian physician and botanist; Dr. med. Praha 1817; regional physician at Bidschow 1818; id. at Beroun 1819; "Sanitäts-Referent" at Linz 1828, subsequently "Protomedicus" for Upper-Austria and Salzburg; from 1841-1856 "Gubernialrath und Landes-Protomedicus" in Linz. (*Streinz*).
+Streinz, Wenzel Matern (1792-1876), Bohemian-Austrian physician and botanist; Dr. med. Praha 1817; regional physician at Bidschow 1818; id. at Beroun 1819; "Sanitäts-Referent" at Linz 1828, subsequently "Protomedicus" for Upper-Austria and Salzburg; from 1841-1856 "Gubernialrath und Landes-Protomedicus" in Linz. 
+**Abbreviated name**: *Streinz*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103414#page/109/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33120192) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arendt, Johann Josef Franz {std. Arendt} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arendt, Johann Josef Franz (*fl*. 1828-1840), German botanist at Osnabrück. (*Arendt*).
+Arendt, Johann Josef Franz (*fl*. 1828-1840), German botanist at Osnabrück. 
+**Abbreviated name**: *Arendt*
 
 #### Herbarium and types
 

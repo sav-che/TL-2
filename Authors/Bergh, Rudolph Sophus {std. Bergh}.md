@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103859#page/103/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33265290) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergh, Rudolph Sophus (1859-1924), Danish zoologist, mag. sc. zool. 1882 at the University of Copenhagen, Dr. phil. ib. 1881, lecturer in histology and embryology ib. 1890-1903, later resident in Germany. (*Bergh*).
+Bergh, Rudolph Sophus (1859-1924), Danish zoologist, mag. sc. zool. 1882 at the University of Copenhagen, Dr. phil. ib. 1881, lecturer in histology and embryology ib. 1890-1903, later resident in Germany. 
+**Abbreviated name**: *Bergh*
 
 #### Herbarium and types
 

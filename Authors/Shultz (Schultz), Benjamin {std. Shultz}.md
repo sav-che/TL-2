@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/item/104077#page/588/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33333713) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shultz \[Schultz\], Benjamin (1772-1814), American physician; Dr. med. Univ. Pennsylvania 1795; engaged in medicinal experimentation on a balsam farm, in Hereford Twp., Berks Co. (Northampton Co.), Pa. until ca. 1806; subsequently at or near Middelberg, Snyder Co., Pa. (*Shultz*).
+Shultz \[Schultz\], Benjamin (1772-1814), American physician; Dr. med. Univ. Pennsylvania 1795; engaged in medicinal experimentation on a balsam farm, in Hereford Twp., Berks Co. (Northampton Co.), Pa. until ca. 1806; subsequently at or near Middelberg, Snyder Co., Pa. 
+**Abbreviated name**: *Shultz*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/item/103414#page/1059/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Groenhart, Pieter {std. Groenh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Groenhart, Pieter (1894-1932), Dutch lichenologist. (*Groenh.*).
+Groenhart, Pieter (1894-1932), Dutch lichenologist. 
+**Abbreviated name**: *Groenh.*
 
 #### Herbarium and types
 

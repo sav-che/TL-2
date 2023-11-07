@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/103253#page/879/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33069095) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lesson, René Primevère (1794-1849), French physician, pharmacist and explorer on the voyage of *La Coquille* (1822-1825); later teacher at the naval academy of Rochefort. (*R. Lesson*).
+Lesson, René Primevère (1794-1849), French physician, pharmacist and explorer on the voyage of *La Coquille* (1822-1825); later teacher at the naval academy of Rochefort. 
+**Abbreviated name**: *R. Lesson*
 
 #### Herbarium and types
 

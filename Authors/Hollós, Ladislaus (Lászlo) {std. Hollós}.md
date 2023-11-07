@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/103253#page/284/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33068500) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hollós, Ladislaus (Lászlo) (1859-1940), Hungarian high school teacher and botanist at Kecskemét. (*Hollós*).
+Hollós, Ladislaus (Lászlo) (1859-1940), Hungarian high school teacher and botanist at Kecskemét. 
+**Abbreviated name**: *Hollós*
 
 #### Herbarium and types
 

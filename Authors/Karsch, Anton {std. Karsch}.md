@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/item/103253#page/524/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33068740) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Karsch, Anton (1822-1892), German botanist, zoologist and physician; Dr. phil. et med. Greifswald 1846; practicing physician at Münster i.W. 1848, professor of medicine at the University 1852 (extraord.), 1856 (ord.), Geheimer Medizinalrath 1874. (*Karsch*).
+Karsch, Anton (1822-1892), German botanist, zoologist and physician; Dr. phil. et med. Greifswald 1846; practicing physician at Münster i.W. 1848, professor of medicine at the University 1852 (extraord.), 1856 (ord.), Geheimer Medizinalrath 1874. 
+**Abbreviated name**: *Karsch*
 
 #### Herbarium and types
 

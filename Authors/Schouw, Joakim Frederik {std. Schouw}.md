@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/item/104077#page/326/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33333451) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schouw, Joakim Frederik (1789-1852), Danish botanist; Dr. phil. Copenhagen 1816; travelled in Germany, Italy, France and Switzerland 1816-1820; extraordinary professor of botany Copenhagen 1821; in Italy and Paris 1829-1830; journal editor 1831-1836, 1842-1846; teacher at the Copenhagen polytechnic 1832-1840; director of the Copenhagen botanical garden 1841; ordinary professor of botany ib. 1845; state counsel 1847; co-founder "Naturhistorisk Forening". (*Schouw*).
+Schouw, Joakim Frederik (1789-1852), Danish botanist; Dr. phil. Copenhagen 1816; travelled in Germany, Italy, France and Switzerland 1816-1820; extraordinary professor of botany Copenhagen 1821; in Italy and Paris 1829-1830; journal editor 1831-1836, 1842-1846; teacher at the Copenhagen polytechnic 1832-1840; director of the Copenhagen botanical garden 1841; ordinary professor of botany ib. 1845; state counsel 1847; co-founder "Naturhistorisk Forening". 
+**Abbreviated name**: *Schouw*
 
 #### Herbarium and types
 

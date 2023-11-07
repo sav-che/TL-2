@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/item/103250#page/619/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33066899) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zuccagni, Attilio (1754-1807), Italian physician and botanist; director of the Giardino dei semplici, Firenze, and director of the Museo di físico e storia naturale, Firenze; made a trip to Spain and Portugal. (*Zuccagni*).
+Zuccagni, Attilio (1754-1807), Italian physician and botanist; director of the Giardino dei semplici, Firenze, and director of the Museo di físico e storia naturale, Firenze; made a trip to Spain and Portugal. 
+**Abbreviated name**: *Zuccagni*
 
 #### Herbarium and types
 

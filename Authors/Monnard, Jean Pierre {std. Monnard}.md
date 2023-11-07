@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/item/104137#page/572/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33355643) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Monnard, Jean Pierre (1791-?), Swiss botanist and high school teacher at Nyon. (*Monnard*).
+Monnard, Jean Pierre (1791-?), Swiss botanist and high school teacher at Nyon. 
+**Abbreviated name**: *Monnard*
 
 #### Herbarium and types
 

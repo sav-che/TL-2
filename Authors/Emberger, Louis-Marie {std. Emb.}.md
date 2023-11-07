@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/item/103835#page/339/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33260317) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emberger, Louis-Marie (1897-1969), French botanist, originally pharmacist, born 23 Jan 1897 at Thann (Haut-Rhin), went to Lyon to study pharmacy, lic. sci. nat. in 1918, finished his studies in 1920, thesis 20 Apr 1921, at Montpellier 1921-1925, first visit to Morocco in 1923 where he stayed as "Chef du service" at the "Institut scientifique chérifien" at Rabat until 1936, returned to France as professor at Clermont-Ferrand, in 1937 already going to Montpellier until his retirement in 1968, died 30 Nov 1969. (*Emb.*).
+Emberger, Louis-Marie (1897-1969), French botanist, originally pharmacist, born 23 Jan 1897 at Thann (Haut-Rhin), went to Lyon to study pharmacy, lic. sci. nat. in 1918, finished his studies in 1920, thesis 20 Apr 1921, at Montpellier 1921-1925, first visit to Morocco in 1923 where he stayed as "Chef du service" at the "Institut scientifique chérifien" at Rabat until 1936, returned to France as professor at Clermont-Ferrand, in 1937 already going to Montpellier until his retirement in 1968, died 30 Nov 1969. 
+**Abbreviated name**: *Emb.*
 
 #### Herbarium and types
 

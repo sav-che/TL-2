@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/item/103624#page/986/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudolph, Karl (1881-1937), Bohemian botanist of German (Saxonian) origin; studied botany, palaeontology and geology in Wien 1900-1905; student of R. v. Wettstein; Dr. phil. Wien 1905; assistant with F. Czapeck in Czernowicz 1906-1910 and Praha 1910-1913; with G. Beck in Praha 1913-1914; on active duty in the Austrian army 1914-1919; habil. Praha 1919, extraordinary professor of plant systematics at the German University, Praha 1924, "wirklicher" (paid) extraordinary professor ib. 1931; developed quaternary palaeobotany with F. Firbas in Central Europe. (*K. Rudolph*).
+Rudolph, Karl (1881-1937), Bohemian botanist of German (Saxonian) origin; studied botany, palaeontology and geology in Wien 1900-1905; student of R. v. Wettstein; Dr. phil. Wien 1905; assistant with F. Czapeck in Czernowicz 1906-1910 and Praha 1910-1913; with G. Beck in Praha 1913-1914; on active duty in the Austrian army 1914-1919; habil. Praha 1919, extraordinary professor of plant systematics at the German University, Praha 1924, "wirklicher" (paid) extraordinary professor ib. 1931; developed quaternary palaeobotany with F. Firbas in Central Europe. 
+**Abbreviated name**: *K. Rudolph*
 
 #### Herbarium and types
 

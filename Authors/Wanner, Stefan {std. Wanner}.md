@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103250#page/118/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33066398) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wanner, Stefan (*fl*. 1885), Swiss botanist and high school teacher at Zürich. (*Wanner*).
+Wanner, Stefan (*fl*. 1885), Swiss botanist and high school teacher at Zürich. 
+**Abbreviated name**: *Wanner*
 
 #### Herbarium and types
 

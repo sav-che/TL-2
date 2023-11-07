@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/104077#page/268/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33333393) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Johann Anton (1823-1905), German (Hamburg) botanist; studied botany at Heidelberg 1848-1849, Göttingen 1849-1850; Dr. phil. Göttingen 1850; in the Cape Verde Islands 1851; habil. Heidelberg 1852; lecturer ib. from 1852-1855, extra-ordinary professor of botany 1855-1863; from 1863-1904 in retirement at Hamburg; ultimately at Elberfeld. (*J.A. Schmidt*).
+Schmidt, Johann Anton (1823-1905), German (Hamburg) botanist; studied botany at Heidelberg 1848-1849, Göttingen 1849-1850; Dr. phil. Göttingen 1850; in the Cape Verde Islands 1851; habil. Heidelberg 1852; lecturer ib. from 1852-1855, extra-ordinary professor of botany 1855-1863; from 1863-1904 in retirement at Hamburg; ultimately at Elberfeld. 
+**Abbreviated name**: *J.A. Schmidt*
 
 #### Herbarium and types
 

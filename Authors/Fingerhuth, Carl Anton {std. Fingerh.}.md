@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/item/103414#page/880/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fingerhuth, Carl Anton (1798-1876), German botanist and physician at Esch near Euskirchen. (*Fingerh.*).
+Fingerhuth, Carl Anton (1798-1876), German botanist and physician at Esch near Euskirchen. 
+**Abbreviated name**: *Fingerh.*
 
 #### Herbarium and types
 

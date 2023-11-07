@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/103253#page/539/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33068755) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keissler, Karl von (1872-1965), Austrian lichenologist at Vienna; Dr. phil. Vienna 1895; at the Botanical Garden 1895-1899; in various functions at the Botanische Abteilung des Naturhistorischen Hofmuseums 1899-1938; pupil of A. Zahlbrückner; from 1924 with the title Hofrat. (*Keissl.*).
+Keissler, Karl von (1872-1965), Austrian lichenologist at Vienna; Dr. phil. Vienna 1895; at the Botanical Garden 1895-1899; in various functions at the Botanische Abteilung des Naturhistorischen Hofmuseums 1899-1938; pupil of A. Zahlbrückner; from 1924 with the title Hofrat. 
+**Abbreviated name**: *Keissl.*
 
 #### Herbarium and types
 

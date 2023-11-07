@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103250#page/115/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33066395) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walz., Jacob Jacoblevic (1840-1904), Russian botanist; studied in Kiev and Berlin (with P.F.A. Ascherson); professor of botany in Odessa. (*J. Walz*).
+Walz., Jacob Jacoblevic (1840-1904), Russian botanist; studied in Kiev and Berlin (with P.F.A. Ascherson); professor of botany in Odessa. 
+**Abbreviated name**: *J. Walz*
 
 #### Herbarium and types
 

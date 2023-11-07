@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/item/103414#page/577/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33120660) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Colmeiro y Penido, Don Miguel {std. Colm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Colmeiro y Penido, Don Miguel (1816-1901), Spanish botanist, director of the Madrid botanical garden. (*Colm.*).
+Colmeiro y Penido, Don Miguel (1816-1901), Spanish botanist, director of the Madrid botanical garden. 
+**Abbreviated name**: *Colm.*
 
 #### Herbarium and types
 

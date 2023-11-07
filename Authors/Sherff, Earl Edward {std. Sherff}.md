@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/item/104077#page/575/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33333700) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sherff, Earl Edward (1886-1966), American botanist; Dr. phil. Univ. Chicago 1916; high school teacher at various colleges in Michigan 1907-1912; instructor of botany at Chicago Teachers College 1923; head of the dept. of science ib. 1929-1951; longtime honorary research associate in systematic botany at the Field Museum, Chicago, Ill. (*Sherff*).
+Sherff, Earl Edward (1886-1966), American botanist; Dr. phil. Univ. Chicago 1916; high school teacher at various colleges in Michigan 1907-1912; instructor of botany at Chicago Teachers College 1923; head of the dept. of science ib. 1929-1951; longtime honorary research associate in systematic botany at the Field Museum, Chicago, Ill. 
+**Abbreviated name**: *Sherff*
 
 #### Herbarium and types
 

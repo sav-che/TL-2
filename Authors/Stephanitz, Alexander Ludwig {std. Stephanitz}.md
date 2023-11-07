@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 895](https://www.biodiversitylibrary.org/item/104077#page/909/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 895](https://www.biodiversitylibrary.org/page/33334034) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stephanitz, Alexander Ludwig (*fl*. 1838), German (Prussian) pharmacist. (*Stephanitz*).
+Stephanitz, Alexander Ludwig (*fl*. 1838), German (Prussian) pharmacist. 
+**Abbreviated name**: *Stephanitz*
 
 #### Herbarium and types
 

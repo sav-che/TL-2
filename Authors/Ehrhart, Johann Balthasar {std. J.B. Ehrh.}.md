@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/item/103414#page/782/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33120865) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ehrhart, Johann Balthasar (1700-1756), German physician and botanist, physician at Memmingen. (*J. B. Ehrh.*).
+Ehrhart, Johann Balthasar (1700-1756), German physician and botanist, physician at Memmingen. 
+**Abbreviated name**: *J. B. Ehrh.*
 
 #### Herbarium and types
 

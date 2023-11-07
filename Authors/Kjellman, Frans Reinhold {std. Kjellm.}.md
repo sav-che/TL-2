@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/item/103253#page/585/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33068801) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kjellman, Frans Reinhold (1846-1907), Swedish phycologist at Uppsala; collected in Spitzbergen 1872-1873; Novaya Zemlya 1875; botanist with Nordenskjöld on the *Vega* expedition of 1878-1880; Ph. D. Uppsala 1872; extra ord. professor of botany 1883; ord. professor 1900. (*Kjellm.*).
+Kjellman, Frans Reinhold (1846-1907), Swedish phycologist at Uppsala; collected in Spitzbergen 1872-1873; Novaya Zemlya 1875; botanist with Nordenskjöld on the *Vega* expedition of 1878-1880; Ph. D. Uppsala 1872; extra ord. professor of botany 1883; ord. professor 1900. 
+**Abbreviated name**: *Kjellm.*
 
 #### Herbarium and types
 

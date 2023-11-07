@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/item/103861#page/326/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33266623) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Calloni, Silvio (1851-1931), Swiss botanist, born at Pazzallo nr. Lugano, educated at schools in Lugano, studied at the universities of Genève and Pavia, Dr. sci. Pavia 1884, assistant at the Herbier Delessert Genève 1878-1883, in Pavia 1884-1893, teacher of natural sciences at the Lycée cantonal of Lugano 1894-1912, died at Lugano. (*Calloni*).
+Calloni, Silvio (1851-1931), Swiss botanist, born at Pazzallo nr. Lugano, educated at schools in Lugano, studied at the universities of Genève and Pavia, Dr. sci. Pavia 1884, assistant at the Herbier Delessert Genève 1878-1883, in Pavia 1884-1893, teacher of natural sciences at the Lycée cantonal of Lugano 1894-1912, died at Lugano. 
+**Abbreviated name**: *Calloni*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/item/103860#page/458/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33266125) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crane, Florence (née Hedleston) (fl. 1931), American missionary and botanist, married John Curtis Crane (also missionary) in Korea of the Southern Presbyterian Church. (*F. Crane*).
+Crane, Florence (née Hedleston) (fl. 1931), American missionary and botanist, married John Curtis Crane (also missionary) in Korea of the Southern Presbyterian Church. 
+**Abbreviated name**: *F. Crane*
 
 #### Herbarium and types
 

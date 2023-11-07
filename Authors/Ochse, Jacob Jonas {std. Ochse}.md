@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/item/104137#page/818/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ochse, Jacob Jonas (1891-1970), Dutch agriculturist and specialist on diet and tropical horticulture; in the former Dutch East Indies 1914-1946, mainly as governmental horticulturist; from 1946 professor of applied tropical and economic botany at the University of Miami. (*Ochse*).
+Ochse, Jacob Jonas (1891-1970), Dutch agriculturist and specialist on diet and tropical horticulture; in the former Dutch East Indies 1914-1946, mainly as governmental horticulturist; from 1946 professor of applied tropical and economic botany at the University of Miami. 
+**Abbreviated name**: *Ochse*
 
 #### Herbarium and types
 

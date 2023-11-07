@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/item/103624#page/872/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33190329) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rogers, Henry Darwin (1809-1866), American geologist; professor of chemistry and natural philosophy, Carlisle, Pa.; studied in England 1831-1833; M.A. Univ. Pennsylvania 1834; professor of geology ib. 1835-1846; geologist on the Geological Survey of Pennsylvania 1836-1856; from 1846-1857 residing at Boston working on the report of the Geol. Surv. Pa.; from 1857-1866 Regius professor of natural history at Glasgow, Scotland. (*H.D. Rogers*).
+Rogers, Henry Darwin (1809-1866), American geologist; professor of chemistry and natural philosophy, Carlisle, Pa.; studied in England 1831-1833; M.A. Univ. Pennsylvania 1834; professor of geology ib. 1835-1846; geologist on the Geological Survey of Pennsylvania 1836-1856; from 1846-1857 residing at Boston working on the report of the Geol. Surv. Pa.; from 1857-1866 Regius professor of natural history at Glasgow, Scotland. 
+**Abbreviated name**: *H.D. Rogers*
 
 #### Herbarium and types
 

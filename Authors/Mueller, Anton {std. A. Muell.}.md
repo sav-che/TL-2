@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/item/104137#page/630/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33355701) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller, Anton (1798-1864), Moravian naturalist; educated at the Gymnasium of Brünn (Brno); administrator in the "Kreisamt" Brünn until 1858. (*A. Muell.*).
+Mueller, Anton (1798-1864), Moravian naturalist; educated at the Gymnasium of Brünn (Brno); administrator in the "Kreisamt" Brünn until 1858. 
+**Abbreviated name**: *A. Muell.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/103624#page/787/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richon, Charles Édouard (1820-1893), French botanist and, from 1847, practicing physician at Saint-Amand (Marne). (*Richon*).
+Richon, Charles Édouard (1820-1893), French botanist and, from 1847, practicing physician at Saint-Amand (Marne). 
+**Abbreviated name**: *Richon*
 
 #### Herbarium and types
 

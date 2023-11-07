@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/item/104137#page/251/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33355322) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macquart, Justin \[Jean\] \[Pierre Marie\] (1778-1855), French botanist and entomologist at Lille; long-time director of the Lille Musée d'Histoire naturelle; eventually mayor of Lestrem and member of the Conseil général du Pas de Calais. (*Macquart*).
+Macquart, Justin \[Jean\] \[Pierre Marie\] (1778-1855), French botanist and entomologist at Lille; long-time director of the Lille Musée d'Histoire naturelle; eventually mayor of Lestrem and member of the Conseil général du Pas de Calais. 
+**Abbreviated name**: *Macquart*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/item/104137#page/771/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nisbet, John (1853-1914), Scottish forestry botanist; in the Indian Forestry Service (1875), conservator of forests Burma (1895-1900); professor of forestry at West of Scotland Agricultural College (1908-1912). (*Nisbet*).
+Nisbet, John (1853-1914), Scottish forestry botanist; in the Indian Forestry Service (1875), conservator of forests Burma (1895-1900); professor of forestry at West of Scotland Agricultural College (1908-1912). 
+**Abbreviated name**: *Nisbet*
 
 #### Herbarium and types
 

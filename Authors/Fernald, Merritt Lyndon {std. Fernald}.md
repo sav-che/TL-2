@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/item/103414#page/873/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33120956) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fernald, Merritt Lyndon {std. Fernald} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fernald, Merritt Lyndon (1873-1950), American botanist. (*Fernald*).
+Fernald, Merritt Lyndon (1873-1950), American botanist. 
+**Abbreviated name**: *Fernald*
 
 #### Herbarium and types
 

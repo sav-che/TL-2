@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/104077#page/71/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sartori, Franz (1782-1832), Austrian author and naturalist; Dr. med. Wien 1807; with the "k.k. Bücher-Revisionsamt", from 1812-1832 as director; editor of various magazines such as the Annalen der österreichischen Literatur und Kunst, Wiener Literatur-Zeitung, Vaterländische Blätter and Österreichischer Kalender. (*F. Sartori*).
+Sartori, Franz (1782-1832), Austrian author and naturalist; Dr. med. Wien 1807; with the "k.k. Bücher-Revisionsamt", from 1812-1832 as director; editor of various magazines such as the Annalen der österreichischen Literatur und Kunst, Wiener Literatur-Zeitung, Vaterländische Blätter and Österreichischer Kalender. 
+**Abbreviated name**: *F. Sartori*
 
 #### Herbarium and types
 

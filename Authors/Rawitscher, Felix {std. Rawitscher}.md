@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/item/103624#page/617/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rawitscher, Felix (1890-1957), German botanist; student of F. Oltmanns; Dr. phil. Freiburg 1912; student of Pfeffer 1913-1914; assistant with Oltmanns at Freiburg i.B.; habil. ib. 1921; extraord. prof. forestry botany ib. 1927-1934; professor at the University of São Paulo, Brazil, 1934-1952; Dr. h.c. São Paulo 1955; back in Germany 1952-1957. (*Rawitscher*).
+Rawitscher, Felix (1890-1957), German botanist; student of F. Oltmanns; Dr. phil. Freiburg 1912; student of Pfeffer 1913-1914; assistant with Oltmanns at Freiburg i.B.; habil. ib. 1921; extraord. prof. forestry botany ib. 1927-1934; professor at the University of São Paulo, Brazil, 1934-1952; Dr. h.c. São Paulo 1955; back in Germany 1952-1957. 
+**Abbreviated name**: *Rawitscher*
 
 #### Herbarium and types
 

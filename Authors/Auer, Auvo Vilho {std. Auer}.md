@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103858#page/222/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33264937) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Auer, Auvo Vilho (1909-1945), Finnish botanist in Turku, studied ib. 1928, Mag. phil. 1935, highschool teacher. (*Auer*).
+Auer, Auvo Vilho (1909-1945), Finnish botanist in Turku, studied ib. 1928, Mag. phil. 1935, highschool teacher. 
+**Abbreviated name**: *Auer*
 
 #### Herbarium and types
 

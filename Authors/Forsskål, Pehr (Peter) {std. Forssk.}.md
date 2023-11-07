@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/item/103414#page/903/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forsskål (Forsskåhl, Forskål), Pehr (Per, Peter, ...) {std. Forssk.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Forsskål, Pehr (Peter) (1732-1763), Finnish born (Swedish parents) botanical traveller, pupil of Linnaeus, on the Danish expedition to Egypt and Arabia 1761-1763. (*Forssk.*).
+Forsskål, Pehr (Peter) (1732-1763), Finnish born (Swedish parents) botanical traveller, pupil of Linnaeus, on the Danish expedition to Egypt and Arabia 1761-1763. 
+**Abbreviated name**: *Forssk.*
 
 #### Herbarium and types
 

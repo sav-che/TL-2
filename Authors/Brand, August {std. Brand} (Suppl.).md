@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/item/103861#page/17/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33266314) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brand, August {std. Brand}|first entry]] for this author
 
 ### Author
 
-\* Brand, August (1863-1930), German (Berlin born) classic philologist, studied at Bonn and Berlin, classical teacher at Frankfurt a. O. 1885-1910, "Studienrat" at the Gymnasium at Sorau, in his spare time botanist, collaborator of Engler e.g. for the Pflanzenreich. (*Brand*).
+\* Brand, August (1863-1930), German (Berlin born) classic philologist, studied at Bonn and Berlin, classical teacher at Frankfurt a. O. 1885-1910, "Studienrat" at the Gymnasium at Sorau, in his spare time botanist, collaborator of Engler e.g. for the Pflanzenreich. 
+**Abbreviated name**: *Brand*
 
 #### Herbarium and types
 

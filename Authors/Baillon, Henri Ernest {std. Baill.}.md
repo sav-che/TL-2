@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103414#page/144/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33120227) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baillon, Henri (Ernest) {std. Baill.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baillon, Henri Ernest (1827-1895), French botanist. (*Baill.*).
+Baillon, Henri Ernest (1827-1895), French botanist. 
+**Abbreviated name**: *Baill.*
 
 #### Herbarium and types
 

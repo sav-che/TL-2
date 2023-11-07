@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/item/104077#page/762/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33333887) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sopp, Olav Johan (until 1907: Johan-Olsen) (1860-1931), Norwegian botanist (mycologist); med. kand. Christiania (Oslo) 1888; Dr. phil. ib. 1903, later owner and director of a fermentation-physiological and mycological laboratory at Kap (Kapp) nr Mjoesen). (*Sopp*).
+Sopp, Olav Johan (until 1907: Johan-Olsen) (1860-1931), Norwegian botanist (mycologist); med. kand. Christiania (Oslo) 1888; Dr. phil. ib. 1903, later owner and director of a fermentation-physiological and mycological laboratory at Kap (Kapp) nr Mjoesen). 
+**Abbreviated name**: *Sopp*
 
 #### Herbarium and types
 

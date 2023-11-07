@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103860#page/478/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crié, Louis Auguste {std. Crié}|first entry]] for this author
 
 ### Author
 
-\* Crié, Louis Auguste (1850-1912), French botanist and palaeobotanist, born at Conlie, Sarthe, licencié ès sciences naturelles from 1879, "chargé du cours de botanique" at the faculty of natural sciences at Rennes, from 1881 professor of botany. (*Crié*).
+\* Crié, Louis Auguste (1850-1912), French botanist and palaeobotanist, born at Conlie, Sarthe, licencié ès sciences naturelles from 1879, "chargé du cours de botanique" at the faculty of natural sciences at Rennes, from 1881 professor of botany. 
+**Abbreviated name**: *Crié*
 
 #### Herbarium and types
 

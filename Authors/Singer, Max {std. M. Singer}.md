@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/item/104077#page/630/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33333755) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Singer, Max (*fl*. 1885), Austrian rhodologist, botanist and high school teacher; from 1898 professor at the German Gymnasium in the "Königl. Weinbergen" in Praha. (*M. Singer*).
+Singer, Max (*fl*. 1885), Austrian rhodologist, botanist and high school teacher; from 1898 professor at the German Gymnasium in the "Königl. Weinbergen" in Praha. 
+**Abbreviated name**: *M. Singer*
 
 #### Herbarium and types
 

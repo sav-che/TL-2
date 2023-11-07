@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103683#page/135/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33212167) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swete, Edward Horace (1827-1912), British surgeon and botanist; lecturer in botany, Bristol medical school. (*Swete*).
+Swete, Edward Horace (1827-1912), British surgeon and botanist; lecturer in botany, Bristol medical school. 
+**Abbreviated name**: *Swete*
 
 #### Herbarium and types
 

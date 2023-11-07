@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/103414#page/430/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33120513) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brunchorst, Jørgen {std. Brunch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brunchorst, Jörgen (1862-1917), Norwegian botanist, diplomat and museum director. (*Brunch.*).
+Brunchorst, Jörgen (1862-1917), Norwegian botanist, diplomat and museum director. 
+**Abbreviated name**: *Brunch.*
 
 #### Herbarium and types
 

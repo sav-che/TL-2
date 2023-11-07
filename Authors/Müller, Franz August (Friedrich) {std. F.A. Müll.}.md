@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/item/104137#page/641/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33355712) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Franz August \["Friedrich"\] (1798-1871), German pharmacist and plant collector; travelled for the Württembergische Reiseverein (Esslingen) in Algeria, Austro-Hungary and Sardinia (1826-1828); ultimately from 1831-1867 pharmacist at Schneeberg (Erzgebirge) in Sachsen. (*F. A. Müll.*).
+Müller, Franz August \["Friedrich"\] (1798-1871), German pharmacist and plant collector; travelled for the Württembergische Reiseverein (Esslingen) in Algeria, Austro-Hungary and Sardinia (1826-1828); ultimately from 1831-1867 pharmacist at Schneeberg (Erzgebirge) in Sachsen. 
+**Abbreviated name**: *F. A. Müll.*
 
 #### Herbarium and types
 

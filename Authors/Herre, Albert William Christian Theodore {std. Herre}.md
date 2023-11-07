@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103253#page/200/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33068416) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herre, Albert William Christian Theodore (1868-1962), American ichthyologist and botanist; Ph. D. Stanford Univ. 1909; in various functions in Nevada, California, Washington and Manila 1910-1928; from 1928-1946 curator of the ichthyological collections, Natural history Museum, Stanford University. (*Herre*).
+Herre, Albert William Christian Theodore (1868-1962), American ichthyologist and botanist; Ph. D. Stanford Univ. 1909; in various functions in Nevada, California, Washington and Manila 1910-1928; from 1928-1946 curator of the ichthyological collections, Natural history Museum, Stanford University. 
+**Abbreviated name**: *Herre*
 
 #### Herbarium and types
 

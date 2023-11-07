@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103414#page/118/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33120201) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arthur, Joseph Charles {std. Arth.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arthur, Joseph Charles (1850-1942), American mycologist, professor of botany at Purdue University. (*Arth.*).
+Arthur, Joseph Charles (1850-1942), American mycologist, professor of botany at Purdue University. 
+**Abbreviated name**: *Arth.*
 
 #### Herbarium and types
 

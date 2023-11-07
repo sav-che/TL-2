@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103250#page/477/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33066757) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woerlein, Georg (1848-1899), German (Bavarian) soldier and botanist; studied at the Nürnberg Polytechnic; in the Bavarian Army 1866-1876; from 1876 in München (Nymphenburg), sometime Bavarian paymaster ("königlicher Zahlmeister"). (*Woerl.*).
+Woerlein, Georg (1848-1899), German (Bavarian) soldier and botanist; studied at the Nürnberg Polytechnic; in the Bavarian Army 1866-1876; from 1876 in München (Nymphenburg), sometime Bavarian paymaster ("königlicher Zahlmeister"). 
+**Abbreviated name**: *Woerl.*
 
 #### Herbarium and types
 

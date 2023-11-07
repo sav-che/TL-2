@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103861#page/484/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33266781) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cave, Marion Elizabeth (born Stilwell) (1904-x), American plant cytologist, embryologist and geneticist, born at Rochester, N.Y., married 21 Mai 1928, San José, California, Roy Clinton Cave, studied at the University of Colorado (AB 1924, AM 1925) and University of California, Ph.D. 1936 at Berkeley, research associated botanist 1936-1943, idem cytologist 1946-1947, 1950-1951, Guggenheim 1953. (*Cave*).
+Cave, Marion Elizabeth (born Stilwell) (1904-x), American plant cytologist, embryologist and geneticist, born at Rochester, N.Y., married 21 Mai 1928, San José, California, Roy Clinton Cave, studied at the University of Colorado (AB 1924, AM 1925) and University of California, Ph.D. 1936 at Berkeley, research associated botanist 1936-1943, idem cytologist 1946-1947, 1950-1951, Guggenheim 1953. 
+**Abbreviated name**: *Cave*
 
 #### Herbarium and types
 

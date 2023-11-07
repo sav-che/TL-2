@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103859#page/123/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33265310) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berry, Edward Wilber (1875-1945), American palaeobotanist, born in Newark, New Jersey, at Johns Hopkins University 1905-1945, at first as student 1905-1906, assistant for palaeontology 1906-1908, instructor 1908-1910, associate 1910-1913, associate professor 1913-1917, professor from 1917, dean 1929, provost 1935. (*E.W. Berry*).
+Berry, Edward Wilber (1875-1945), American palaeobotanist, born in Newark, New Jersey, at Johns Hopkins University 1905-1945, at first as student 1905-1906, assistant for palaeontology 1906-1908, instructor 1908-1910, associate 1910-1913, associate professor 1913-1917, professor from 1917, dean 1929, provost 1935. 
+**Abbreviated name**: *E.W. Berry*
 
 #### Herbarium and types
 

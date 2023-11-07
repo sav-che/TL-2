@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103861#page/119/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brockhausen, H. (fl. 1907-1917), German botanist and teacher ("Oberlehrer") at the Katholiches Gymnasium Dionysianum zu Rheine. (*Brockhausen*).
+Brockhausen, H. (fl. 1907-1917), German botanist and teacher ("Oberlehrer") at the Katholiches Gymnasium Dionysianum zu Rheine. 
+**Abbreviated name**: *Brockhausen*
 
 #### Herbarium and types
 

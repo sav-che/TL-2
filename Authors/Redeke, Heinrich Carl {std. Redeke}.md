@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/item/103624#page/635/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33190092) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Redeke, Heinrich Carl (1873-1945), German-born Dutch hydrobiologist, zoologist and botanist; Dr. phil. Amsterdam 1898 (student of Max Weber); at the Dutch marine biological station, Den Helder 1898-1929 (1899-1902 asst. director, from 1902 director); from 1916-1933 also director of the State institute for biological fishery research at Den Helder and (from 1929) at Gouda; from 1934 active at the Utrecht University Library. (*Redeke*).
+Redeke, Heinrich Carl (1873-1945), German-born Dutch hydrobiologist, zoologist and botanist; Dr. phil. Amsterdam 1898 (student of Max Weber); at the Dutch marine biological station, Den Helder 1898-1929 (1899-1902 asst. director, from 1902 director); from 1916-1933 also director of the State institute for biological fishery research at Den Helder and (from 1929) at Gouda; from 1934 active at the Utrecht University Library. 
+**Abbreviated name**: *Redeke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/104077#page/397/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33333522) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, August \[Albert Heinrich\] (1862-1922), German (Prussian) botanist; studied medicine at Halle, state examination 1890; Dr. phil. Halle 1893, habil. ib. 1894; lecturer at Halle under Gregor Kraus 1894; professor's title 1908; librarian of the "Leopoldina" 1918. (*Aug. Schulz*).
+Schulz, August \[Albert Heinrich\] (1862-1922), German (Prussian) botanist; studied medicine at Halle, state examination 1890; Dr. phil. Halle 1893, habil. ib. 1894; lecturer at Halle under Gregor Kraus 1894; professor's title 1908; librarian of the "Leopoldina" 1918. 
+**Abbreviated name**: *Aug. Schulz*
 
 #### Herbarium and types
 

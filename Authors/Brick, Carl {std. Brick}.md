@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103861#page/82/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33266379) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brick, Carl (1863-1924), German (born Stolp in Preussen) botanist (phytopathologist), educated at the Gymnasium of Stolp, the "Realschule I. Ordnung" and the "Realgymnasium zu St. Johann" in Danzig, final examination 1882, studied natural sciences at the University of Breslau 1882-1886, on military duty in Berlin 1886-1887, studied e.g. with F. and H. Cohn, Engler and Göppert, Dr. phil. Breslau 1888, assistant at the Botanical Museum in Hamburg 1887-1888, first assistant at the Botanical Institute in Karlsruhe 1888, later again in Hamburg, ultimately as scientific member of the Institute for applied botany, died on a field trip with the "Gartenbauverein". (*Brick*).
+Brick, Carl (1863-1924), German (born Stolp in Preussen) botanist (phytopathologist), educated at the Gymnasium of Stolp, the "Realschule I. Ordnung" and the "Realgymnasium zu St. Johann" in Danzig, final examination 1882, studied natural sciences at the University of Breslau 1882-1886, on military duty in Berlin 1886-1887, studied e.g. with F. and H. Cohn, Engler and Göppert, Dr. phil. Breslau 1888, assistant at the Botanical Museum in Hamburg 1887-1888, first assistant at the Botanical Institute in Karlsruhe 1888, later again in Hamburg, ultimately as scientific member of the Institute for applied botany, died on a field trip with the "Gartenbauverein". 
+**Abbreviated name**: *Brick*
 
 #### Herbarium and types
 

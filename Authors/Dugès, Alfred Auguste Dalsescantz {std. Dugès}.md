@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/item/103414#page/740/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33120823) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dugès, Alfred Auguste Dalsescantz (1826-1910), French botanist who settled in Mexico in 1853. (*Dugès*).
+Dugès, Alfred Auguste Dalsescantz (1826-1910), French botanist who settled in Mexico in 1853. 
+**Abbreviated name**: *Dugès*
 
 #### Herbarium and types
 

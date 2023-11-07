@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/104077#page/787/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spamer, Albert (*fl*. 1887), German diatomologist; high school teacher at Düren (Rheinpreussen). (*Spamer*).
+Spamer, Albert (*fl*. 1887), German diatomologist; high school teacher at Düren (Rheinpreussen). 
+**Abbreviated name**: *Spamer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103832#page/312/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33258778) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Good, Ronald D'Oyley (1896-1992), British botanist and plant geographer, born 5 Mar 1896 in Dorchester (Dorset), military service W.W.-I from 1914-1918 and wounded in action, M.A. and Sc.D. Cambridge, Botany staff, BMNH 1922-1928, then head of Botany, Hull Univ., Hull, England from 1928 until retirement in 1959, F.L.S., died 11 Dec 1992 in Hull (Yorks.). (*R.D. Good*).
+Good, Ronald D'Oyley (1896-1992), British botanist and plant geographer, born 5 Mar 1896 in Dorchester (Dorset), military service W.W.-I from 1914-1918 and wounded in action, M.A. and Sc.D. Cambridge, Botany staff, BMNH 1922-1928, then head of Botany, Hull Univ., Hull, England from 1928 until retirement in 1959, F.L.S., died 11 Dec 1992 in Hull (Yorks.). 
+**Abbreviated name**: *R.D. Good*
 
 #### Herbarium and types
 

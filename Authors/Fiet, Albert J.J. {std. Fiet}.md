@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103834#page/199/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33259681) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fiet, Albert J.J. (1851-1921), Dutch horticulturalist, worked on several estates in The Netherlands and nurseries in Gent (Belgium), gardener at the Hortus Botanicus of Groningen 1877, appointed curator 1879 which he remained until his death in early Feb 1921. (*Fiet*).
+Fiet, Albert J.J. (1851-1921), Dutch horticulturalist, worked on several estates in The Netherlands and nurseries in Gent (Belgium), gardener at the Hortus Botanicus of Groningen 1877, appointed curator 1879 which he remained until his death in early Feb 1921. 
+**Abbreviated name**: *Fiet*
 
 #### Herbarium and types
 

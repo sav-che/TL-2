@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103835#page/56/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33260034) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Domke, Friedrich Walter (1899-1988), German botanist, born at Neudamm 19 Oct 1899, from 1920 studying natural sciences at the Friedrich-Wilhelms-Universität of Berlin, "Staatsexamen" for teacher 1926, Dr. phil. Universität Berlin 1934, extra-ordinary assistant 1934-1938, regular assistant 1938-1945, Zentralstelle für Vegetationskartierung Stolzenau 1945-1946, at botanical institute of University Hamburg 1947-1960, again at Berlin 1961-1964, died 28 Jul 1988. (*Domke*).
+Domke, Friedrich Walter (1899-1988), German botanist, born at Neudamm 19 Oct 1899, from 1920 studying natural sciences at the Friedrich-Wilhelms-Universität of Berlin, "Staatsexamen" for teacher 1926, Dr. phil. Universität Berlin 1934, extra-ordinary assistant 1934-1938, regular assistant 1938-1945, Zentralstelle für Vegetationskartierung Stolzenau 1945-1946, at botanical institute of University Hamburg 1947-1960, again at Berlin 1961-1964, died 28 Jul 1988. 
+**Abbreviated name**: *Domke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103250#page/316/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33066596) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Whitford, Harry Nichols (1872-1941), American forester and botanist; M.S. Kansas State Agric. Coll. 1900; Dr. phil. Chicago 1903; instructor in biology Armour Inst. 1898-1900; assistant in botany Chicago 1900-1904; collector Bureau of Science, Philippine Isl. 1904-1906; chief div. investig. Bur. Forestry ib. 1906-1912; assistant professor of forestry ib. 1910-1912; forester in Canada 1913-1916; asst. professor of tropical forestry Yale 1916-1923; chief crude rubber Survey U.S. Dept. Commerce 1923-1925; manager crude rubber div., Rubber manuf. Ass. from 1925. (*Whitford*).
+Whitford, Harry Nichols (1872-1941), American forester and botanist; M.S. Kansas State Agric. Coll. 1900; Dr. phil. Chicago 1903; instructor in biology Armour Inst. 1898-1900; assistant in botany Chicago 1900-1904; collector Bureau of Science, Philippine Isl. 1904-1906; chief div. investig. Bur. Forestry ib. 1906-1912; assistant professor of forestry ib. 1910-1912; forester in Canada 1913-1916; asst. professor of tropical forestry Yale 1916-1923; chief crude rubber Survey U.S. Dept. Commerce 1923-1925; manager crude rubber div., Rubber manuf. Ass. from 1925. 
+**Abbreviated name**: *Whitford*
 
 #### Herbarium and types
 

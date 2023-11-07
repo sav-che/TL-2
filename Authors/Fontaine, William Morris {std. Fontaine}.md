@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/item/103414#page/899/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/page/33120982) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fontaine, William Morris {std. Fontaine} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fontaine, William Morris (1835-1913), American geologist and palaeobiologist. (*Fontaine*).
+Fontaine, William Morris (1835-1913), American geologist and palaeobiologist. 
+**Abbreviated name**: *Fontaine*
 
 #### Collections
 

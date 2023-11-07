@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103833#page/351/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33259385) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dihm, Hugo (born as Hugo Jerschke) (1867-1942), German botanist born 7 Apr 1867 at Lähn near Hirschberg (Silesia), educated from the age of 1 year in Saarbrücken by his uncle (Dihm), adopted his family-name, visited the gymnasium at Saarbrücken, from 1889 studying at the Ludwig-Maximilians-University at Munich and the Friedrich-Wilhelms-University at Berlin, visited 1899-1900 Indonesia, Japan and Malacca, lived from 1902 at Gräfelfing, died from an accident 13 Nov 1942. (*Dihm*).
+Dihm, Hugo (born as Hugo Jerschke) (1867-1942), German botanist born 7 Apr 1867 at Lähn near Hirschberg (Silesia), educated from the age of 1 year in Saarbrücken by his uncle (Dihm), adopted his family-name, visited the gymnasium at Saarbrücken, from 1889 studying at the Ludwig-Maximilians-University at Munich and the Friedrich-Wilhelms-University at Berlin, visited 1899-1900 Indonesia, Japan and Malacca, lived from 1902 at Gräfelfing, died from an accident 13 Nov 1942. 
+**Abbreviated name**: *Dihm*
 
 #### Herbarium and types
 

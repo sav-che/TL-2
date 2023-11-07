@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103859#page/121/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265308) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernoulli, Carl Gustav {std. Bernoulli}|first entry]] for this author
 
 ### Author
 
-\* Bernoulli, Karl \[Carl\] Gustav (1834-1878), Swiss (Basel-born) physician and naturalist, studied medicine at the University of Basel 1852, id. at Würzburg, Berlin and Paris, practicing in Basel until 1858; moved to Central America at the instigation of Alexander von Humboldt, settled in Guatemala 1858 as physician and coffee planter, explored Guatemala, died on his way back to Switzerland in San Francisco. (*Bernoulli*).
+\* Bernoulli, Karl \[Carl\] Gustav (1834-1878), Swiss (Basel-born) physician and naturalist, studied medicine at the University of Basel 1852, id. at Würzburg, Berlin and Paris, practicing in Basel until 1858; moved to Central America at the instigation of Alexander von Humboldt, settled in Guatemala 1858 as physician and coffee planter, explored Guatemala, died on his way back to Switzerland in San Francisco. 
+**Abbreviated name**: *Bernoulli*
 
 #### Herbarium and types
 

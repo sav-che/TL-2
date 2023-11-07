@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/103414#page/642/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33120725) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dampier, William (1652-1715), British buccaneer and circumnavigator. (*Dampier*).
+Dampier, William (1652-1715), British buccaneer and circumnavigator. 
+**Abbreviated name**: *Dampier*
 
 #### Herbarium and types
 

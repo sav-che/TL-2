@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/103861#page/321/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33266618) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Calestani, Vittorio (1882-x), Italian botanist. (*Calest.*).
+Calestani, Vittorio (1882-x), Italian botanist. 
+**Abbreviated name**: *Calest.*
 
 #### Herbarium and types
 

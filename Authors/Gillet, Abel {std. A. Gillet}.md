@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103832#page/231/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33258697) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gillet, Abel (1857-1927), French teacher, bureaucrat and lichenologist, born 30 Oct 1857 in Chauffourt (Haute-Marne), teacher, Dépt. Côte-d'Or, then bureaucrat, Paris, died 12 Nov 1927, Saint-Mammès, nr. Moret-sur-Loing (Seine-et-Marne). (*A. Gillet*).
+Gillet, Abel (1857-1927), French teacher, bureaucrat and lichenologist, born 30 Oct 1857 in Chauffourt (Haute-Marne), teacher, Dépt. Côte-d'Or, then bureaucrat, Paris, died 12 Nov 1927, Saint-Mammès, nr. Moret-sur-Loing (Seine-et-Marne). 
+**Abbreviated name**: *A. Gillet*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/item/104077#page/897/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33334022) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stenhammar, Christian (1783-1866), Swedish botanist (lichenologist), clergyman, politician and polyhistor; Dr. phil. Uppsala 1801; ordained 1813; Dr. theol. 1845, high school teacher history and geography at Linköping (1822) 1823-1830; from 1836 vicar at Häradshammar and Jonsberg in Östergötland; member of the Swedish Parliament 1834-1851. (*Stenh.*).
+Stenhammar, Christian (1783-1866), Swedish botanist (lichenologist), clergyman, politician and polyhistor; Dr. phil. Uppsala 1801; ordained 1813; Dr. theol. 1845, high school teacher history and geography at Linköping (1822) 1823-1830; from 1836 vicar at Häradshammar and Jonsberg in Östergötland; member of the Swedish Parliament 1834-1851. 
+**Abbreviated name**: *Stenh.*
 
 #### Herbarium and types
 

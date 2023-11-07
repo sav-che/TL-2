@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103683#page/395/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33212427) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tollard, Claude (*fl*. 1805), French soldier and botanist; professor of botany at the Military hospital at Strasbourg. (*Tollard*).
+Tollard, Claude (*fl*. 1805), French soldier and botanist; professor of botany at the Military hospital at Strasbourg. 
+**Abbreviated name**: *Tollard*
 
 #### Herbarium and types
 

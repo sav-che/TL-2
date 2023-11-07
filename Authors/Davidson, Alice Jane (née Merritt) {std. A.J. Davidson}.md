@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103833#page/109/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33259143) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davidson, Alice Jane (née Merritt) (1859-?), American botanist, born 31 Oct 1859, Plymouth, Mich., married 23 Jun 1897, Los Angeles, Calif., Anstruther Davidson. (*A.J. Davidson*).
+Davidson, Alice Jane (née Merritt) (1859-?), American botanist, born 31 Oct 1859, Plymouth, Mich., married 23 Jun 1897, Los Angeles, Calif., Anstruther Davidson. 
+**Abbreviated name**: *A.J. Davidson*
 
 #### Herbarium and types
 

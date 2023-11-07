@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/103253#page/879/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33069095) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lesson, Adolphe Pierre (1805-1888), French explorer; with Dumont d'Urville on the voyage in *L'Astrolabe* (1826-1829); brother of R. P. Lesson. (*A. Lesson*).
+Lesson, Adolphe Pierre (1805-1888), French explorer; with Dumont d'Urville on the voyage in *L'Astrolabe* (1826-1829); brother of R. P. Lesson. 
+**Abbreviated name**: *A. Lesson*
 
 #### Herbarium and types
 

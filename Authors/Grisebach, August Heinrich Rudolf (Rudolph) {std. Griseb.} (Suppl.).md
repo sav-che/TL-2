@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103832#page/411/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33258877) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grisebach, August Heinrich Rudolph {std. Griseb.}|first entry]] for this author
 
 ### Author
 
-\* Grisebach, August Heinrich Rudolf \[Rudolph\] (1814-1879), German botanist (plant geographer and systematist), born 17 Apr 1814 in Hannover, studied medicine and botany in Berlin and Göttingen 1832-1835, M.D. 1836 Göttingen, traveled through the Balkan Penins. and n.w. Asia Minor 1839-1840, prof. extraord. of botany, medical faculty, Göttingen 1841, visited Norway 1842, full prof. 1847-1875 and from 1875-1879 also dir. of Göttingen Botanical Garden, Dr. h.c. 1875, privy government councilor (Geheimer Regierungsrath), Göttingen Univ. 1874-1875, died 9 Mai 1879 in Göttingen. (*Griseb.*).
+\* Grisebach, August Heinrich Rudolf \[Rudolph\] (1814-1879), German botanist (plant geographer and systematist), born 17 Apr 1814 in Hannover, studied medicine and botany in Berlin and Göttingen 1832-1835, M.D. 1836 Göttingen, traveled through the Balkan Penins. and n.w. Asia Minor 1839-1840, prof. extraord. of botany, medical faculty, Göttingen 1841, visited Norway 1842, full prof. 1847-1875 and from 1875-1879 also dir. of Göttingen Botanical Garden, Dr. h.c. 1875, privy government councilor (Geheimer Regierungsrath), Göttingen Univ. 1874-1875, died 9 Mai 1879 in Göttingen. 
+**Abbreviated name**: *Griseb.*
 
 #### Herbarium and types
 

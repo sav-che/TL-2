@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/104077#page/536/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33333661) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Serres, \[Pierre\] Marcel \[Toussaint\] de (1780/1783-1862), French naturalist; professor of mineralogy and geology at the University of Montpellier 1809-1814; "conseiller auditeur" at the "Cours royale" ib., "conseiller titulaire". 1819-1852. (*M. Serres*).
+Serres, \[Pierre\] Marcel \[Toussaint\] de (1780/1783-1862), French naturalist; professor of mineralogy and geology at the University of Montpellier 1809-1814; "conseiller auditeur" at the "Cours royale" ib., "conseiller titulaire". 1819-1852. 
+**Abbreviated name**: *M. Serres*
 
 #### Herbarium and types
 

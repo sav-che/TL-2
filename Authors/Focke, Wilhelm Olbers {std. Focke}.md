@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/item/103414#page/897/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33120980) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Focke, Wilhelm Olbers {std. Focke} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Focke, Wilhelm Olbers (1834-1922), German physician, batologist and rhodologist at Bremen.(*Focke*).
+Focke, Wilhelm Olbers (1834-1922), German physician, batologist and rhodologist at Bremen.
+**Abbreviated name**: *Focke*
 
 #### Herbarium and types
 

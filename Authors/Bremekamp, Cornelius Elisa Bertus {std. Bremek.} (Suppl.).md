@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103861#page/62/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33266359) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bremekamp, Cornelis Elisa Bertus {std. Bremek.}|first entry]] for this author
 
 ### Author
 
-\* Bremekamp, Cornelius Elisa Bertus (1888-1984), Dutch botanist born in Dordrecht, educated at the gymnasium of his birthtown, studied at the University of Utrecht with F.A.F.C. Went as his main teacher, Dr. phil. 1912 Utrecht, employed at the Experiment Station of the Java Sugar industry at Pasuruan 1912-1921, from 1915 also lecturer in biology at Surabaja (NIAS), returned to the Netherlands 1921, working at the Hugo de Vries laboratory at Amsterdam, professor of botany at the Transvaal University College, Pretoria, S. Africa 1924-1931, returned to the Netherlands as private scientist at the Botanical Museum and Herbarium, Utrecht 1931-1976. (*Bremek.*).
+\* Bremekamp, Cornelius Elisa Bertus (1888-1984), Dutch botanist born in Dordrecht, educated at the gymnasium of his birthtown, studied at the University of Utrecht with F.A.F.C. Went as his main teacher, Dr. phil. 1912 Utrecht, employed at the Experiment Station of the Java Sugar industry at Pasuruan 1912-1921, from 1915 also lecturer in biology at Surabaja (NIAS), returned to the Netherlands 1921, working at the Hugo de Vries laboratory at Amsterdam, professor of botany at the Transvaal University College, Pretoria, S. Africa 1924-1931, returned to the Netherlands as private scientist at the Botanical Museum and Herbarium, Utrecht 1931-1976. 
+**Abbreviated name**: *Bremek.*
 
 #### Herbarium and types
 

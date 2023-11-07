@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/item/103859#page/111/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265298) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berlese, Augusto Napoleone {std. Berl.}|first entry]] for this author
 
 ### Author
 
-\* Berlese, Augusto Napoleone (1864-1903), Italian mycologist and plant pathologist, studied at the Faculty of Sciences of the Atheneum of Padova 1882, Dr. phil. ib. 1885; assistant at the Botanical Institute, Padova, 1885; lecturer in mycology and phytopathology at the University of Padova 1889; teacher at the Liceo di Ascoli Piceno 1889-1899; id. at the school of viticulture and enology in Avellino 1891-1895; professor at the University of Camerino 1895-1899; id. at the R. Liceo Minghetti, Bologna 1898-1899; id. at the University of Sassari 1899-1901, id. at the Agricultural University of Milano 1901-1903. (*Berl.*).
+\* Berlese, Augusto Napoleone (1864-1903), Italian mycologist and plant pathologist, studied at the Faculty of Sciences of the Atheneum of Padova 1882, Dr. phil. ib. 1885; assistant at the Botanical Institute, Padova, 1885; lecturer in mycology and phytopathology at the University of Padova 1889; teacher at the Liceo di Ascoli Piceno 1889-1899; id. at the school of viticulture and enology in Avellino 1891-1895; professor at the University of Camerino 1895-1899; id. at the R. Liceo Minghetti, Bologna 1898-1899; id. at the University of Sassari 1899-1901, id. at the Agricultural University of Milano 1901-1903. 
+**Abbreviated name**: *Berl.*
 
 #### Herbarium and types
 

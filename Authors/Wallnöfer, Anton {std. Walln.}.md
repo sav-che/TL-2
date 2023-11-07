@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103250#page/103/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33066383) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wallnöfer, Anton (*fl*. 1888), Austrian bryologist in Klagenfurt. (*Walln.*).
+Wallnöfer, Anton (*fl*. 1888), Austrian bryologist in Klagenfurt. 
+**Abbreviated name**: *Walln.*
 
 #### Herbarium and types
 

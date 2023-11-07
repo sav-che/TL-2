@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103250#page/77/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33066357) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wahlenberg, Georg \[from 1804: Göran\] (1780-1851), Swedish botanist; Dr. med. Uppsala 1806; botanical demonstrator Uppsala 1814; titular professor 1826; regular professor of botany and medicine ib., succeeding C.P. Thunberg 1829; travelled in Pommern 1796, Gotland 1799, Lapland and northern Norway (1800, 1802, 1807, 1810), Germany, Switzerland, Austria and the Carpathics (Hungary) 1811-1814; early plant geographer and staunch Linnaean. (*Wahlenb.*).
+Wahlenberg, Georg \[from 1804: Göran\] (1780-1851), Swedish botanist; Dr. med. Uppsala 1806; botanical demonstrator Uppsala 1814; titular professor 1826; regular professor of botany and medicine ib., succeeding C.P. Thunberg 1829; travelled in Pommern 1796, Gotland 1799, Lapland and northern Norway (1800, 1802, 1807, 1810), Germany, Switzerland, Austria and the Carpathics (Hungary) 1811-1814; early plant geographer and staunch Linnaean. 
+**Abbreviated name**: *Wahlenb.*
 
 #### Herbarium and types
 

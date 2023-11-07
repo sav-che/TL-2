@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103833#page/43/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259077) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dallière, Alexis (1823-1901), Belgian botanist. (*Dallière*).
+Dallière, Alexis (1823-1901), Belgian botanist. 
+**Abbreviated name**: *Dallière*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/103858#page/215/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33264930) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aubert, Pierre-Léonce (fl. 1873), French (Charente) pharmacist, studied at the École pratique des hautes études pour la section de chimie et de botanique, Dr. pharm. Paris 1873. (*Aubert*).
+Aubert, Pierre-Léonce (fl. 1873), French (Charente) pharmacist, studied at the École pratique des hautes études pour la section de chimie et de botanique, Dr. pharm. Paris 1873. 
+**Abbreviated name**: *Aubert*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103683#page/167/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33212199) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tammes, Tine \[Jantine\] (1871-1941), Dutch botanist and geneticist; Dr. phil. h.c. Univ. Groningen 1911; professor of botany at Groningen from 1919. (*Tammes*).
+Tammes, Tine \[Jantine\] (1871-1941), Dutch botanist and geneticist; Dr. phil. h.c. Univ. Groningen 1911; professor of botany at Groningen from 1919. 
+**Abbreviated name**: *Tammes*
 
 #### Herbarium and types
 

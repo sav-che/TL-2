@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/104077#page/433/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33333558) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwaighofer, Anton (*fl*. 1892), Austrian botanist. (*Schwaighofer*).
+Schwaighofer, Anton (*fl*. 1892), Austrian botanist. 
+**Abbreviated name**: *Schwaighofer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/item/103253#page/717/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33068933) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kummer, Georg (1885-1954), Swiss botanist born at Tayngen near Schaffhausen; studied at Zürich; high school teacher and school inspector at Schaffhausen. (*G. Kumm.*).
+Kummer, Georg (1885-1954), Swiss botanist born at Tayngen near Schaffhausen; studied at Zürich; high school teacher and school inspector at Schaffhausen. 
+**Abbreviated name**: *G. Kumm.*
 
 #### Herbarium and types
 

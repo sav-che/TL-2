@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103860#page/375/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33266042) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cornu, Marie Maxime {std. Cornu}|first entry]] for this author
 
 ### Author
 
-\* Cornu, \[Marie\] Maxime (1843-1901), French botanist (cryptogamist), born at Orléans, educated at the College at Orléans and at the École normale at Sainte-Barbe 1865, licencés sci. math. and sci. physiques 1867, license ès sciences naturelles 1868, préparateur for botany at the faculty of Sciences, Paris 1869, working with Ad. Brongniart 1869, Dr. Sci. 1872 (prix Desmazières), from 1874 at the Muséum national d'Histoire naturelle as aide-naturaliste, professor ib. 1884. (*Cornu*).
+\* Cornu, \[Marie\] Maxime (1843-1901), French botanist (cryptogamist), born at Orléans, educated at the College at Orléans and at the École normale at Sainte-Barbe 1865, licencés sci. math. and sci. physiques 1867, license ès sciences naturelles 1868, préparateur for botany at the faculty of Sciences, Paris 1869, working with Ad. Brongniart 1869, Dr. Sci. 1872 (prix Desmazières), from 1874 at the Muséum national d'Histoire naturelle as aide-naturaliste, professor ib. 1884. 
+**Abbreviated name**: *Cornu*
 
 #### Herbarium and types
 

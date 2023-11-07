@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/104077#page/201/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33333326) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlagintweit, Adolf von (1829-1857), German (Bavarian) traveller, geologist and plant collector; brother of Robert and Hermann Alfred Rudolph von Schlagintweit-Sakünlünski; studied at München; habil. ib. 1853 for geognostics; explorer of the Himalaya, Karakoram, Tibet, N. India and other parts of Central Asia; killed by religious fanatics at Kashgar, Turkestan. (*A. Schlagintweit*).
+Schlagintweit, Adolf von (1829-1857), German (Bavarian) traveller, geologist and plant collector; brother of Robert and Hermann Alfred Rudolph von Schlagintweit-Sakünlünski; studied at München; habil. ib. 1853 for geognostics; explorer of the Himalaya, Karakoram, Tibet, N. India and other parts of Central Asia; killed by religious fanatics at Kashgar, Turkestan. 
+**Abbreviated name**: *A. Schlagintweit*
 
 #### Herbarium and types
 

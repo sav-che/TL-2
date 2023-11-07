@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103858#page/371/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33265086) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bary, Heinrich Anton de {std. de Bary}|first entry]] for this author
 
 ### Author
 
-\* Bary, \[Heinrich\] Anton de (1831-1888), German botanist, "founder of modern mycology" (Ainsworth and Bisby), born and educated at Frankfurt a.M., final examination Gymnasium 1848, studied medicine at the Universities of Heidelberg (1849), Marburg (1849-1850), and Berlin (1850-1853), Dr. phil. Berlin 30 Mar 1849 with Alexander Braun, Ehrenberg and Johann Müller, examination medical practitioner in Frankfurt, practicing briefly ib. 1853, habil. botanical private lecturer ("Privatdocent") at Tübingen 28 Dec 1853 with Hugo Mohl, extraordinary professor at the University of Freiburg 1855-1859, full professor ib. 1859-1867, id. University of Halle, succeeding D.F.L. von Schlechtendal 1867-1872, id. University of Strassburg 1872-1888. (*de Bary*).
+\* Bary, \[Heinrich\] Anton de (1831-1888), German botanist, "founder of modern mycology" (Ainsworth and Bisby), born and educated at Frankfurt a.M., final examination Gymnasium 1848, studied medicine at the Universities of Heidelberg (1849), Marburg (1849-1850), and Berlin (1850-1853), Dr. phil. Berlin 30 Mar 1849 with Alexander Braun, Ehrenberg and Johann Müller, examination medical practitioner in Frankfurt, practicing briefly ib. 1853, habil. botanical private lecturer ("Privatdocent") at Tübingen 28 Dec 1853 with Hugo Mohl, extraordinary professor at the University of Freiburg 1855-1859, full professor ib. 1859-1867, id. University of Halle, succeeding D.F.L. von Schlechtendal 1867-1872, id. University of Strassburg 1872-1888. 
+**Abbreviated name**: *de Bary*
 
 #### Herbarium and types
 

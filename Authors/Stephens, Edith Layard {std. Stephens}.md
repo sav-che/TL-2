@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 895](https://www.biodiversitylibrary.org/item/104077#page/909/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 895](https://www.biodiversitylibrary.org/page/33334034) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stephens, Edith Layard (1884-1966), South African botanist; studied at the South African College (later: Univ. Cape Town) and Cambridge University (U.K.); lecturer in botany at the University of Cape Town 1911-1940; honorary reader in plant taxonomy, Bolus herbarium, Cape Town 1952. (*Stephens*).
+Stephens, Edith Layard (1884-1966), South African botanist; studied at the South African College (later: Univ. Cape Town) and Cambridge University (U.K.); lecturer in botany at the University of Cape Town 1911-1940; honorary reader in plant taxonomy, Bolus herbarium, Cape Town 1952. 
+**Abbreviated name**: *Stephens*
 
 #### Herbarium and types
 

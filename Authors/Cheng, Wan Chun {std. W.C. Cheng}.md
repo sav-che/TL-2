@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103860#page/91/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265758) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cheng, Wan Chun (1903-1983), Chinese botanist from Sechuan (Szechuan). (*W.C. Cheng*).
+Cheng, Wan Chun (1903-1983), Chinese botanist from Sechuan (Szechuan). 
+**Abbreviated name**: *W.C. Cheng*
 
 #### Herbarium and types
 

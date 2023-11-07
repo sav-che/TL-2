@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103835#page/267/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eddelbüttel, Heinrich (1888-x), German botanist, born 12 Nov 1888 at Hamburg, visited the "Oberealschule" at Hamburg 1898-1907, studied natural sciences at Göttingen, especially botany, went to Berlin in 1908, to Hamburg in 1909 and returned to Göttingen. (*Eddelb.*).
+Eddelbüttel, Heinrich (1888-x), German botanist, born 12 Nov 1888 at Hamburg, visited the "Oberealschule" at Hamburg 1898-1907, studied natural sciences at Göttingen, especially botany, went to Berlin in 1908, to Hamburg in 1909 and returned to Göttingen. 
+**Abbreviated name**: *Eddelb.*
 
 #### Herbarium and types
 

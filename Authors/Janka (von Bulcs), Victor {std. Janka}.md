@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103253#page/450/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33068666) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Janka \[von Bulcs\], Victor (1837-1900), Austrian soldier and botanist, from 1871 curator of BP. (*Janka*).
+Janka \[von Bulcs\], Victor (1837-1900), Austrian soldier and botanist, from 1871 curator of BP. 
+**Abbreviated name**: *Janka*
 
 #### Herbarium and types
 

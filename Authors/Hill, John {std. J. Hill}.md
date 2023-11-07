@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103253#page/224/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33068440) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hill, John (1716-1775), British apothecary and naturalist; author of many compilations dealing with horticulture, botany or medicine. (*J. Hill*).
+Hill, John (1716-1775), British apothecary and naturalist; author of many compilations dealing with horticulture, botany or medicine. 
+**Abbreviated name**: *J. Hill*
 
 #### Herbarium and types
 

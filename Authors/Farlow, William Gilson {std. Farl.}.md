@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/item/103414#page/861/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33120944) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Farlow, William Gilson (sometimes miscited as Gibson) {std. Farl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Farlow, William Gilson (1844-1919), American botanist, professor of cryptogamic botany at Harvard. (*Farl.*).
+Farlow, William Gilson (1844-1919), American botanist, professor of cryptogamic botany at Harvard. 
+**Abbreviated name**: *Farl.*
 
 #### Herbarium and types
 

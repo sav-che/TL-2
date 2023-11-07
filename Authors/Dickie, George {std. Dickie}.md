@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/item/103414#page/691/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dickie, George (A.) {std. Dickie} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dickie, George (1812-1882), Scottish physician and algologist at Aberdeen. (*Dickie*).
+Dickie, George (1812-1882), Scottish physician and algologist at Aberdeen. 
+**Abbreviated name**: *Dickie*
 
 #### Herbarium and types
 

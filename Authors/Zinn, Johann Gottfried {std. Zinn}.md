@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/item/103250#page/604/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33066884) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zinn, Johann Gottfried (1727-1759), German (Franconian) physician and botanist; studied at Göttingen; Dr. med. 1749; in Berlin 1749-1753; e.o. professor of pharmacology and director of the botanical garden of Göttingen 1753, ord. prof. 1755. (*Zinn*).
+Zinn, Johann Gottfried (1727-1759), German (Franconian) physician and botanist; studied at Göttingen; Dr. med. 1749; in Berlin 1749-1753; e.o. professor of pharmacology and director of the botanical garden of Göttingen 1753, ord. prof. 1755. 
+**Abbreviated name**: *Zinn*
 
 #### Herbarium and types
 

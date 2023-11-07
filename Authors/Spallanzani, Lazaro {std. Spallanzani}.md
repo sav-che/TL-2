@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/item/104077#page/786/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33333911) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spallanzani, Lazaro (1729-1799), Italian philosopher and experimental natural scientist; professor of logic and metaphysics at the University of Reggio; from 1760-1769 professor of natural history of Modena, subsequently at Pavia; travelled in Switzerland and the Mediterranean area. (*Spallanzani*).
+Spallanzani, Lazaro (1729-1799), Italian philosopher and experimental natural scientist; professor of logic and metaphysics at the University of Reggio; from 1760-1769 professor of natural history of Modena, subsequently at Pavia; travelled in Switzerland and the Mediterranean area. 
+**Abbreviated name**: *Spallanzani*
 
 #### Herbarium and types
 

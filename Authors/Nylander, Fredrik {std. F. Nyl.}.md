@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/item/104137#page/804/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33355875) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nylander, Fredrik (1820-1880), Finnish botanist and physician; Dr. phil. Helsinki 1844; M. D. Helsinki 1853; from 1865 town surgeon of Oulu; brother of William Nylander. (*F. Nyl.*).
+Nylander, Fredrik (1820-1880), Finnish botanist and physician; Dr. phil. Helsinki 1844; M. D. Helsinki 1853; from 1865 town surgeon of Oulu; brother of William Nylander. 
+**Abbreviated name**: *F. Nyl.*
 
 #### Herbarium and types
 

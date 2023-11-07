@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103414#page/310/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33120393) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolander, Henry Nicholas {std. Bol.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bolander, Henry Nicholas (1832-1897), German born American botanist, "State botanist for California" for many years. (*Boland.*).
+Bolander, Henry Nicholas (1832-1897), German born American botanist, "State botanist for California" for many years. 
+**Abbreviated name**: *Boland.*
 
 #### Herbarium and types
 

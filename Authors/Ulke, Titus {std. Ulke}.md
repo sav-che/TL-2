@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/item/103683#page/593/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33212625) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ulke, Titus (1866-1961), American patent attorney, chemist, botanist and mineralogist; B.S. Columbia College, Washington D.C. 1885; studied at the Mining Academy, Freiberg in Sachsen, ME George Washington University 1889; Dr. phil. (bot.) Catholic Univ. Amer. 1934; U.S. examiner of patents 1906-1918, patent attorney 1918-1932. (*Ulke*).
+Ulke, Titus (1866-1961), American patent attorney, chemist, botanist and mineralogist; B.S. Columbia College, Washington D.C. 1885; studied at the Mining Academy, Freiberg in Sachsen, ME George Washington University 1889; Dr. phil. (bot.) Catholic Univ. Amer. 1934; U.S. examiner of patents 1906-1918, patent attorney 1918-1932. 
+**Abbreviated name**: *Ulke*
 
 #### Herbarium and types
 

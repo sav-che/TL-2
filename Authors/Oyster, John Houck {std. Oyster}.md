@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/item/104137#page/883/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oyster, John Houck (1849-after 1904), American botanist at Paola, Kansas. (*Oyster*).
+Oyster, John Houck (1849-after 1904), American botanist at Paola, Kansas. 
+**Abbreviated name**: *Oyster*
 
 #### Herbarium and types
 

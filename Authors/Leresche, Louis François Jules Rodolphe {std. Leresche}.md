@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/item/103253#page/873/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33069089) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leresche, Louis François Jules Rodolphe (1808-1885), Swiss botanist and plant collector; clergyman at Château d'Oex(Vaud) 1845-1866. (*Leresche*).
+Leresche, Louis François Jules Rodolphe (1808-1885), Swiss botanist and plant collector; clergyman at Château d'Oex(Vaud) 1845-1866. 
+**Abbreviated name**: *Leresche*
 
 #### Herbarium and types
 

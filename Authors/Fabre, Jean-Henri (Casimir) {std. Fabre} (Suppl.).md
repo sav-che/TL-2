@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103834#page/25/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259507) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fabre, Jean Henri Casimir {std. Fabre}|first entry]] for this author
 
 ### Author
 
-\* Fabre, Jean-Henri \[Casimir\] (1823-1915), French entomologist, naturalist and prolific author best known for his published studies of insect behavior, born 22 Dec 1823 in Saint-Léons, Avignon, studied in Avignon, taught secondary school in Carpentras 1842-1849, and then in Ajaccio, Corsica 1849-1853, returned to Avignon 1853-1870, Dr. ès-sciences 1855 Paris, acquired the "Harmas de Sérignan" (Provence) 1880, where he lived until his death (the property now a museum), a proposed flora of Vaucluse never materialized, member of many academies and scientific societies, corr., Académie des Sciences 1887, Légion d'honneur, died 11 Oct 1915 in Sérignan, "that inimitable observer M. Fabre...." (*teste* C. Darwin, whose theory of evolution Fabre opposed). (*Fabre*).
+\* Fabre, Jean-Henri \[Casimir\] (1823-1915), French entomologist, naturalist and prolific author best known for his published studies of insect behavior, born 22 Dec 1823 in Saint-Léons, Avignon, studied in Avignon, taught secondary school in Carpentras 1842-1849, and then in Ajaccio, Corsica 1849-1853, returned to Avignon 1853-1870, Dr. ès-sciences 1855 Paris, acquired the "Harmas de Sérignan" (Provence) 1880, where he lived until his death (the property now a museum), a proposed flora of Vaucluse never materialized, member of many academies and scientific societies, corr., Académie des Sciences 1887, Légion d'honneur, died 11 Oct 1915 in Sérignan, "that inimitable observer M. Fabre...." (*teste* C. Darwin, whose theory of evolution Fabre opposed). 
+**Abbreviated name**: *Fabre*
 
 #### Herbarium and types
 

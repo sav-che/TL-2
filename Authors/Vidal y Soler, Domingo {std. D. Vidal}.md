@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/103683#page/737/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33212769) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vidal y Soler, Domingo (x-1878), Spanish forester and botanist; chief of the forestry bureau and director of the Botanical Garden, Manila, Philippines 1873-1878. (*D. Vidal*).
+Vidal y Soler, Domingo (x-1878), Spanish forester and botanist; chief of the forestry bureau and director of the Botanical Garden, Manila, Philippines 1873-1878. 
+**Abbreviated name**: *D. Vidal*
 
 #### Herbarium and types
 

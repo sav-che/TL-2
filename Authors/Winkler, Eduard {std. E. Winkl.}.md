@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103250#page/429/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33066709) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winkler, Eduard (1799-?), German author of botanical-pharmaceutical illustrated works in Eutritzsch near Leipzig. (*E. Winkl.*).
+Winkler, Eduard (1799-?), German author of botanical-pharmaceutical illustrated works in Eutritzsch near Leipzig. 
+**Abbreviated name**: *E. Winkl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/item/103683#page/613/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33212645) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Unwin, Arthur Harold (1878-?), German (British?) forester; Dr. oec. pub. München; conservator of forests in Nigeria; later principal officer at Nicosia, Cyprus. (*A. Unwin*).
+Unwin, Arthur Harold (1878-?), German (British?) forester; Dr. oec. pub. München; conservator of forests in Nigeria; later principal officer at Nicosia, Cyprus. 
+**Abbreviated name**: *A. Unwin*
 
 #### Herbarium and types
 

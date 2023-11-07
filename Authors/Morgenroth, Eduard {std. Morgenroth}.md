@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/item/104137#page/597/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33355668) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morgenroth, Eduard (1861-?), German palaeobotanist; Dr. phil. Leipzig 1883; ultimately "Oberstudienrat" in Berlin (*Morgenroth*).
+Morgenroth, Eduard (1861-?), German palaeobotanist; Dr. phil. Leipzig 1883; ultimately "Oberstudienrat" in Berlin 
+**Abbreviated name**: *Morgenroth*
 
 #### Herbarium and types
 

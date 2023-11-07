@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/104077#page/198/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33333323) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schkuhr, Christian (1741-1811), German (Saxonian) botanist and "Universitätsmechaniker" at Wittemberg. (*Schkuhr*).
+Schkuhr, Christian (1741-1811), German (Saxonian) botanist and "Universitätsmechaniker" at Wittemberg. 
+**Abbreviated name**: *Schkuhr*
 
 #### Herbarium and types
 

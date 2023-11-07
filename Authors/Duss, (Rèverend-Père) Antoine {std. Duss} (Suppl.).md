@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103835#page/214/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33260192) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duss, (Père) Antoine {std. Duss}|first entry]] for this author
 
 ### Author
 
-\* Duss, \[Rèverend-Père\] Antoine (1840-1924), Swiss clergyman and botanist living most of the time in the West Indies, born 14 Aug 1840 Haslé (Luzern), studied in Luzern and Freiburg (Switzerland), taught in religious colleges at Martinique 1865-1870, finished religious studies in France 1870-1871, back to Martinique 1871-1889, collected plants on several West Indian islands, since 1890 naturalized Frenchman, in Guadeloupe 1891-1906 professor at the Collège de la Basse-Terre, became Chevalier de la Légion d'Honneur in 1924, died 12 Mai 1924 Castel (Basse-Terre), Guadeloupe. (*Duss*).
+\* Duss, \[Rèverend-Père\] Antoine (1840-1924), Swiss clergyman and botanist living most of the time in the West Indies, born 14 Aug 1840 Haslé (Luzern), studied in Luzern and Freiburg (Switzerland), taught in religious colleges at Martinique 1865-1870, finished religious studies in France 1870-1871, back to Martinique 1871-1889, collected plants on several West Indian islands, since 1890 naturalized Frenchman, in Guadeloupe 1891-1906 professor at the Collège de la Basse-Terre, became Chevalier de la Légion d'Honneur in 1924, died 12 Mai 1924 Castel (Basse-Terre), Guadeloupe. 
+**Abbreviated name**: *Duss*
 
 #### Herbarium and types
 

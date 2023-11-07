@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/item/103624#page/716/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33190173) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinke, Johannes (1849-1931), German (Mecklenburg) botanist; Dr. phil. 1871; assistant with Bartling in Goettingen 1871-1872; habil. Göttingen 1872; lecturer Bonn 1872-1873; extraordinary professor of botany at Göttingen 1873-1884; regular professor of botany and director of the botanical garden (succeeding A. Engler) at Kiel 1887-1921; in retirement at Preetz (Holstein); Dr. h.c. Kiel 1921; Geh. Regierungsrat 1896; member of the Prussian parliament (Herrenhaus) for Kiel University 1894-1912; philosopher, politician, scientist and vitalist. (*Reinke*).
+Reinke, Johannes (1849-1931), German (Mecklenburg) botanist; Dr. phil. 1871; assistant with Bartling in Goettingen 1871-1872; habil. Göttingen 1872; lecturer Bonn 1872-1873; extraordinary professor of botany at Göttingen 1873-1884; regular professor of botany and director of the botanical garden (succeeding A. Engler) at Kiel 1887-1921; in retirement at Preetz (Holstein); Dr. h.c. Kiel 1921; Geh. Regierungsrat 1896; member of the Prussian parliament (Herrenhaus) for Kiel University 1894-1912; philosopher, politician, scientist and vitalist. 
+**Abbreviated name**: *Reinke*
 
 #### Herbarium and types
 

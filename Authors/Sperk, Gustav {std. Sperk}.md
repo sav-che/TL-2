@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/item/104077#page/801/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sperk, Gustav (1845/1846-1870), Russian (Charkow) botanist. (*Sperk*).
+Sperk, Gustav (1845/1846-1870), Russian (Charkow) botanist. 
+**Abbreviated name**: *Sperk*
 
 #### Herbarium and types
 

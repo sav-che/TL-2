@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/item/103624#page/986/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudolph, Johann Heinrich (1744-1809), German (Thuringian) botanist; Dr. med. Jena 1781, from 1783 at St. Petersburg as "professor of botany"; from 1804 member of the St. Petersburg Academy of Sciences. (*J.H. Rudolph*).
+Rudolph, Johann Heinrich (1744-1809), German (Thuringian) botanist; Dr. med. Jena 1781, from 1783 at St. Petersburg as "professor of botany"; from 1804 member of the St. Petersburg Academy of Sciences. 
+**Abbreviated name**: *J.H. Rudolph*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/104137#page/285/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33355356) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malta, Nicolajs (1890-1944), Latvian botanist; Dr. phil. Riga 1927; from 1927 lecturer at the University of Riga; died in Germany. (*Malta*).
+Malta, Nicolajs (1890-1944), Latvian botanist; Dr. phil. Riga 1927; from 1927 lecturer at the University of Riga; died in Germany. 
+**Abbreviated name**: *Malta*
 
 #### Herbarium and types
 

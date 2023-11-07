@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/item/103414#page/1066/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gümbel, Carl Wilhelm (Baron) von (1823-1898), German geologist and palaeobiologist, brother of W. T. Gümbel, pupil of Martius. (*C. Gümbel*).
+Gümbel, Carl Wilhelm (Baron) von (1823-1898), German geologist and palaeobiologist, brother of W. T. Gümbel, pupil of Martius. 
+**Abbreviated name**: *C. Gümbel*
 
 #### Collections
 

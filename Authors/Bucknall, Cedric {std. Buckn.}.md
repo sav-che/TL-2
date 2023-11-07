@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103861#page/214/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bucknall, Cedric (1849-1921), British organist, composer and botanist, born Bath 2 Mai 1849, died Clifton, Bristol 12 Dec 1921, organist of a country church at fourteen, worked at St. Matthias, Stoke Newington under Dr. Monk, later Southwell Minister, Mus. Bac. in Keble College, Oxford, appointed to the Church of All Saints, Clifton 1876-1921. (*Buckn.*).
+Bucknall, Cedric (1849-1921), British organist, composer and botanist, born Bath 2 Mai 1849, died Clifton, Bristol 12 Dec 1921, organist of a country church at fourteen, worked at St. Matthias, Stoke Newington under Dr. Monk, later Southwell Minister, Mus. Bac. in Keble College, Oxford, appointed to the Church of All Saints, Clifton 1876-1921. 
+**Abbreviated name**: *Buckn.*
 
 #### Herbarium and types
 

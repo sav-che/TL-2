@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/item/103250#page/583/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33066863) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zeiller, \[Charles\] René (1847-1915), French palaeobotanist; studied at the École polytechnique 1865-1867 and the École des mines 1867-1870; from 1871 with the Conseil général des mines; from 1878 as secretary; from 1878 also professor of palaeobotany at the École des mines; from 1911 vice-president of the Conseil général des Mines; Acad. Sci. 1901. (*Zeiller*).
+Zeiller, \[Charles\] René (1847-1915), French palaeobotanist; studied at the École polytechnique 1865-1867 and the École des mines 1867-1870; from 1871 with the Conseil général des mines; from 1878 as secretary; from 1878 also professor of palaeobotany at the École des mines; from 1911 vice-president of the Conseil général des Mines; Acad. Sci. 1901. 
+**Abbreviated name**: *Zeiller*
 
 #### Herbarium and types
 

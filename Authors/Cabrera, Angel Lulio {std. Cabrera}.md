@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103861#page/302/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33266599) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cabrera, Angel Lulio (1908-x), Argentine botanist at the Museo de La Plata, specialist on Compositae, Doctor en ciencias naturales, retired 1983 as director of the Instituto Botánica Darwinion, San Isidro. (*Cabrera*).
+Cabrera, Angel Lulio (1908-x), Argentine botanist at the Museo de La Plata, specialist on Compositae, Doctor en ciencias naturales, retired 1983 as director of the Instituto Botánica Darwinion, San Isidro. 
+**Abbreviated name**: *Cabrera*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/103835#page/271/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33260249) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edwards, Harry Taylor (1877-x), American botanist, born 28 Oct 1877, Chesterfield, Mass., worked in California and with the Philippine Bureau of Agriculture. (*H.T. Edwards*).
+Edwards, Harry Taylor (1877-x), American botanist, born 28 Oct 1877, Chesterfield, Mass., worked in California and with the Philippine Bureau of Agriculture. 
+**Abbreviated name**: *H.T. Edwards*
 
 #### Herbarium and types
 

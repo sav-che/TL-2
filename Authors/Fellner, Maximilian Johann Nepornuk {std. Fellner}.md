@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/item/103414#page/870/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fellner, Maximilian Johann Nepornuk (*fl*. 1775), Austrian mycologist. (*Fellner*).
+Fellner, Maximilian Johann Nepornuk (*fl*. 1775), Austrian mycologist. 
+**Abbreviated name**: *Fellner*
 
 #### Herbarium and types
 

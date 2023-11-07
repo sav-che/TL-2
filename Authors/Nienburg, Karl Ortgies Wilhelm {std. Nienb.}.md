@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/item/104137#page/767/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33355838) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nienburg, Karl Ortgies Wilhelm (1882-1932), German botanist; Dr. phil. Berlin 1907; 1907-1920 in Berlin; curator at the Helgoland biological station 1921; from 1923 professor of botany at Kiel University. (*Nienb.*).
+Nienburg, Karl Ortgies Wilhelm (1882-1932), German botanist; Dr. phil. Berlin 1907; 1907-1920 in Berlin; curator at the Helgoland biological station 1921; from 1923 professor of botany at Kiel University. 
+**Abbreviated name**: *Nienb.*
 
 #### Herbarium and types
 

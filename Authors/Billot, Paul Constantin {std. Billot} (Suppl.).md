@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103859#page/176/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33265363) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Billot, Paul Constantin {std. Billot}|first entry]] for this author
 
 ### Author
 
-\* Billot, Paul Constantin (1796-1863), Alsatian botanist educated at the Collège de Pont-à-Mousson 1807-1813, at the imperial Lyceum in Strassbourg 1813, sometime in the trade, e.g. that of the hop-culture, inspector of the bridges and roads at Hagenau 1813-1834, turned to science, Bachelier-ès-lettres and Bachelier-ès-sciences 1834, from then on teacher, later professor of natural sciences at Hagenau 1834-1861. (*Billot*).
+\* Billot, Paul Constantin (1796-1863), Alsatian botanist educated at the Collège de Pont-à-Mousson 1807-1813, at the imperial Lyceum in Strassbourg 1813, sometime in the trade, e.g. that of the hop-culture, inspector of the bridges and roads at Hagenau 1813-1834, turned to science, Bachelier-ès-lettres and Bachelier-ès-sciences 1834, from then on teacher, later professor of natural sciences at Hagenau 1834-1861. 
+**Abbreviated name**: *Billot*
 
 #### Herbarium and types
 

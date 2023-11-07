@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/104077#page/235/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33333360) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlich, Wilhelm \[Philipp Daniel\], \[later: Sir William Schlich\], (1840-1925), German-born (Hessen) British forester; Dr. phil. Giessen 1867 (thesis submitted 1866; degree awarded 1867); in the Indian Forest Service, Burma 1867-1870; id. Sind 1870-1872; conservator of forests Bengal 1872-1878; on furlough 1878-1880; conservator of forests Punjab 1880-1881; Inspector-general of forests 1881-1883 (deputy), 1883-1885; at Royal Indian Engineering College, Coopers Hill, head of Forestry Dept. 1885-1906; id. at Oxford 1906-1911; professor of forestry Oxford 1911-1919. (*Schlich*).
+Schlich, Wilhelm \[Philipp Daniel\], \[later: Sir William Schlich\], (1840-1925), German-born (Hessen) British forester; Dr. phil. Giessen 1867 (thesis submitted 1866; degree awarded 1867); in the Indian Forest Service, Burma 1867-1870; id. Sind 1870-1872; conservator of forests Bengal 1872-1878; on furlough 1878-1880; conservator of forests Punjab 1880-1881; Inspector-general of forests 1881-1883 (deputy), 1883-1885; at Royal Indian Engineering College, Coopers Hill, head of Forestry Dept. 1885-1906; id. at Oxford 1906-1911; professor of forestry Oxford 1911-1919. 
+**Abbreviated name**: *Schlich*
 
 #### Herbarium and types
 

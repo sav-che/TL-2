@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/item/103414#page/1021/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33121104) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gothan, Walther (Walter) (Ulrich Eduard Friedrich) {std. Gothan} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gotham, Walther Ulrich Eduard Friedrich (1879-1954), German palaeontologist. (*Gothan*).
+Gotham, Walther Ulrich Eduard Friedrich (1879-1954), German palaeontologist. 
+**Abbreviated name**: *Gothan*
 
 #### Collections
 

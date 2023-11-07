@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103859#page/61/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33265248) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Behrendsen, Werner (x-1923), German physician and amateur botanist, practicing in Berlin. (*Behrendsen*).
+Behrendsen, Werner (x-1923), German physician and amateur botanist, practicing in Berlin. 
+**Abbreviated name**: *Behrendsen*
 
 #### Herbarium and types
 

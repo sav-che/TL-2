@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103861#page/117/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33266414) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Britzelmayr, Max {std. Britzelm.}|first entry]] for this author
 
 ### Author
 
-\* Britzelmayr, Max (1839-1909), German (Augsburg born) lichenologist and mycologist in Bavaria, educated at the Latin school nr. St. Stephan, at the Lehrerseminar zu Lauingen, diploma 1859, school teacher at Augsburg 1865, school inspector 1873-1899, retired from teaching 1899. (*Britzelm.*).
+\* Britzelmayr, Max (1839-1909), German (Augsburg born) lichenologist and mycologist in Bavaria, educated at the Latin school nr. St. Stephan, at the Lehrerseminar zu Lauingen, diploma 1859, school teacher at Augsburg 1865, school inspector 1873-1899, retired from teaching 1899. 
+**Abbreviated name**: *Britzelm.*
 
 #### Herbarium and types
 

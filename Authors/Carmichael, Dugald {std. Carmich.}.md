@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103414#page/505/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33120588) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carmichael, Dugald (1772-1827), British soldier and plant collector at the Cape (1806-1810, 1814-1815), Mauritius and Réunion (1810-1814), India (1815-1827). (*Carmich.*).
+Carmichael, Dugald (1772-1827), British soldier and plant collector at the Cape (1806-1810, 1814-1815), Mauritius and Réunion (1810-1814), India (1815-1827). 
+**Abbreviated name**: *Carmich.*
 
 #### Herbarium and types
 

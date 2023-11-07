@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/item/103414#page/751/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33120834) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duperrey, Louis Isidore (1786-1865), French navy officer, hydrographer and physicist. (*Duperrey*).
+Duperrey, Louis Isidore (1786-1865), French navy officer, hydrographer and physicist. 
+**Abbreviated name**: *Duperrey*
 
 #### Herbarium and types
 

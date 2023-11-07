@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103859#page/285/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265472) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bohnhof, Ernst (fl. 1886-1895), French (German?) writer on orchids. (*Bohnhof*).
+Bohnhof, Ernst (fl. 1886-1895), French (German?) writer on orchids. 
+**Abbreviated name**: *Bohnhof*
 
 #### Herbarium and types
 

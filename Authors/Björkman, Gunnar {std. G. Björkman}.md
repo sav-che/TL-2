@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103859#page/195/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Björkman, Gunnar (1898-x), Swedish plant geographer, living in Uppsala, explorer of Swedish Lapland. (*G. Björkman*).
+Björkman, Gunnar (1898-x), Swedish plant geographer, living in Uppsala, explorer of Swedish Lapland. 
+**Abbreviated name**: *G. Björkman*
 
 #### Herbarium and types
 

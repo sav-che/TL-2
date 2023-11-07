@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/item/103683#page/453/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33212485) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Traunsteiner, Joseph (1798-1850), Austrian pharmacist and botanist at Kitzbühl; studied pharmacy at Brixen and botany and chemistry at the University of Vienna (1820); in charge of his father's pharmacy at Kitzbühl from 1820-1850 (from 1829 as owner). (*Traunst.*).
+Traunsteiner, Joseph (1798-1850), Austrian pharmacist and botanist at Kitzbühl; studied pharmacy at Brixen and botany and chemistry at the University of Vienna (1820); in charge of his father's pharmacy at Kitzbühl from 1820-1850 (from 1829 as owner). 
+**Abbreviated name**: *Traunst.*
 
 #### Herbarium and types
 

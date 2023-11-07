@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/104137#page/180/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lortet, Mme. Clémence, née Richard (1772-1835), French botanist at Lyon; pupil and botanical companion of Gilibert, one of the founders of the Société linnéenne de Lyon. (*C. Lortet*).
+Lortet, Mme. Clémence, née Richard (1772-1835), French botanist at Lyon; pupil and botanical companion of Gilibert, one of the founders of the Société linnéenne de Lyon. 
+**Abbreviated name**: *C. Lortet*
 
 #### Herbarium and types
 

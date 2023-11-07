@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/item/103624#page/1019/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Russell, Thomas Hawkes (1851-1913), British (English) solicitor and botanist. (*T.H. Russell*).
+Russell, Thomas Hawkes (1851-1913), British (English) solicitor and botanist. 
+**Abbreviated name**: *T.H. Russell*
 
 #### Herbarium and types
 

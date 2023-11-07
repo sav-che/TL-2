@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/item/103414#page/673/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33120756) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Derbès, Auguste Alphonse (1818-1894), French algologist. (*Derbés*).
+Derbès, Auguste Alphonse (1818-1894), French algologist. 
+**Abbreviated name**: *Derbés*
 
 #### Herbarium and types
 

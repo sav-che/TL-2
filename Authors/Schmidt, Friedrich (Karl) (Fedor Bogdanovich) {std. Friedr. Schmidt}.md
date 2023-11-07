@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/104077#page/264/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33333389) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Friedrich \[Karl\] \[Fedor Bogdanovich\] (1832-1908), Livonian explorer, botanist and geologist; studied at the University of Dorpat 1849-1853, bot. asst. id. 1856-1859; from 1859-1863 in charge of the activities of the Siberian expedition of the Imperial Russian geographical Society in the Transbaikal, Sachalin, Daurian, Amur and Mandchurian regions; working on the collections at St. Petersburg 1863-1866; 1866-1867 on the Mammuth expedition to the Enissej ("Mammuth-Schmidt"); from 1872-1874 geologist in Esthonia; in St. Petersburg from 1874, ultimately as director of the Mineralogical Museum; adjunct (1872), extraord. (1874) and ord. (1885) member of the Academy of Sciences, St. Petersburg; Dr. phil. h.c. Königsberg 1894. (*Friedr. Schmidt*).
+Schmidt, Friedrich \[Karl\] \[Fedor Bogdanovich\] (1832-1908), Livonian explorer, botanist and geologist; studied at the University of Dorpat 1849-1853, bot. asst. id. 1856-1859; from 1859-1863 in charge of the activities of the Siberian expedition of the Imperial Russian geographical Society in the Transbaikal, Sachalin, Daurian, Amur and Mandchurian regions; working on the collections at St. Petersburg 1863-1866; 1866-1867 on the Mammuth expedition to the Enissej ("Mammuth-Schmidt"); from 1872-1874 geologist in Esthonia; in St. Petersburg from 1874, ultimately as director of the Mineralogical Museum; adjunct (1872), extraord. (1874) and ord. (1885) member of the Academy of Sciences, St. Petersburg; Dr. phil. h.c. Königsberg 1894. 
+**Abbreviated name**: *Friedr. Schmidt*
 
 #### Herbarium and types
 

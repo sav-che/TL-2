@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103861#page/161/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33266458) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruckmüller, A. (fl. 1851), Austrian "Korrepitor" at the kaiserl. königl. Thierarznei-Institute in Vienna. (*Bruckmüller*).
+Bruckmüller, A. (fl. 1851), Austrian "Korrepitor" at the kaiserl. königl. Thierarznei-Institute in Vienna. 
+**Abbreviated name**: *Bruckmüller*
 
 #### Herbarium and types
 

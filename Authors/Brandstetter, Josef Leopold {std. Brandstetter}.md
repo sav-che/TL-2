@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103861#page/25/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33266322) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandstetter, Josef Leopold (1831-1924), Swiss teacher ("Erziehungsrat") and botanist at the "Höhern Lehranstalt in Luzern", Switzerland. (*Brandstetter*).
+Brandstetter, Josef Leopold (1831-1924), Swiss teacher ("Erziehungsrat") and botanist at the "Höhern Lehranstalt in Luzern", Switzerland. 
+**Abbreviated name**: *Brandstetter*
 
 #### Herbarium and types
 

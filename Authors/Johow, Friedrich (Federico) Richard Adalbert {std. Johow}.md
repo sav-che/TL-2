@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103253#page/478/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33068694) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johow, Friedrich \[Federico\] Richard Adalbert (1859-1933), German botanist; originally at Bonn; from 1889 in Chile. (*Johow*).
+Johow, Friedrich \[Federico\] Richard Adalbert (1859-1933), German botanist; originally at Bonn; from 1889 in Chile. 
+**Abbreviated name**: *Johow*
 
 #### Herbarium and types
 

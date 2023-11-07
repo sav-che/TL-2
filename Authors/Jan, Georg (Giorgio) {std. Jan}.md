@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103253#page/447/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33068663) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jan, Georg (Giorgio) (1791-1866), Austrian botanist of Hungarian descent who became professor of botany at Parma, from 1831 director of the Museo Civico in Milan. (*Jan*).
+Jan, Georg (Giorgio) (1791-1866), Austrian botanist of Hungarian descent who became professor of botany at Parma, from 1831 director of the Museo Civico in Milan. 
+**Abbreviated name**: *Jan*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103834#page/314/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259796) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Folin, Thorild Conrad (1881-fl. 1942), Swedish chemical engineer and botanist, born 23 Mai 1881 in Stockholm, at Bergvik, specialist on the genus *Hieracium*. (*Folin*).
+Folin, Thorild Conrad (1881-fl. 1942), Swedish chemical engineer and botanist, born 23 Mai 1881 in Stockholm, at Bergvik, specialist on the genus *Hieracium*. 
+**Abbreviated name**: *Folin*
 
 #### Herbarium and types
 

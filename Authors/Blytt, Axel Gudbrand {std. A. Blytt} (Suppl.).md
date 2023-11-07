@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103859#page/242/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265429) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blytt, Axel Gudbrand {std. A. Blytt}|first entry]] for this author
 
 ### Author
 
-\* Blytt, Axel Gudbrand (1843-1898), Norwegian botanist, son of M.N. Blytt, studied at the University of Christiania \[Oslo\] 1860, curator of the botanical collections of the university 1865, scholarship at the university 1875, professor of botany ib. 1880. (*A. Blytt*).
+\* Blytt, Axel Gudbrand (1843-1898), Norwegian botanist, son of M.N. Blytt, studied at the University of Christiania \[Oslo\] 1860, curator of the botanical collections of the university 1865, scholarship at the university 1875, professor of botany ib. 1880. 
+**Abbreviated name**: *A. Blytt*
 
 #### Herbarium and types
 

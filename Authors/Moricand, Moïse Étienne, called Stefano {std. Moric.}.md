@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/item/104137#page/598/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33355669) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moricand, Moïse Étienne, called Stefano (1779-1854); Swiss botanist; commercial traveller in Italy for the Swiss watch industry; later in Genève working (in his spare time) with A. P. de Candolle. (*Moric.*).
+Moricand, Moïse Étienne, called Stefano (1779-1854); Swiss botanist; commercial traveller in Italy for the Swiss watch industry; later in Genève working (in his spare time) with A. P. de Candolle. 
+**Abbreviated name**: *Moric.*
 
 #### Herbarium and types
 

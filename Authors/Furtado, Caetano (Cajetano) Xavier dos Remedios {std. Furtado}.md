@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103832#page/93/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33258559) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Furtado, Caetano \[Cajetano\] Xavier dos Remedios (1897-1980), Indian botanist, born 14 Oct 1897 in Merces, Goa, studied agriculture at the Agricultural College in Poona, B.Sc. 1921, worked in Burma (now Myanmar) for a short time as asst. botanist, joined the Singapore Botanic Garden in 1923 as field asst., later as botanist, Dr. Sci. 1940 Univ. of Bombay, retired 1952 but rehired until 1960, specialist in palms, Araceae and nomenclature, died 13 Jun 1980 in Singapore. (*Furtado*).
+Furtado, Caetano \[Cajetano\] Xavier dos Remedios (1897-1980), Indian botanist, born 14 Oct 1897 in Merces, Goa, studied agriculture at the Agricultural College in Poona, B.Sc. 1921, worked in Burma (now Myanmar) for a short time as asst. botanist, joined the Singapore Botanic Garden in 1923 as field asst., later as botanist, Dr. Sci. 1940 Univ. of Bombay, retired 1952 but rehired until 1960, specialist in palms, Araceae and nomenclature, died 13 Jun 1980 in Singapore. 
+**Abbreviated name**: *Furtado*
 
 #### Herbarium and types
 

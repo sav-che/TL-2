@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/103834#page/412/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33259894) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fraser, John {std. Fraser}|first entry]] for this author
 
 ### Author
 
-\* Fraser, John (1750-1811), Scottish hosier and draper turned plant explorer and nurseryman, born in Tomnacross \[not Tomnacloich\] (Inverness-shire), baptized 14 Oct 1750, moved to London 1770 or 1776, traveled to collect plants in Newfoundland 1780 and the s. U.S.A. 1784-1785, made several more trips to the U.S.A. 1790-1795, established a nursery in Chelsea (London) 1795, visited Russia 1796 and was appointed collector for Tsar Paul I (1754-1801), returned to America 1799 and also visited Cuba 1801 and the Bahamas 1802, began a seventh and final trip to America in 1806 during which he revisited Cuba 1809, his nursery business was continued by his sons John (1780-1861) and James Thomas (1782-x), the senior Fraser is credited with introducing more than 200 species of flowering plants to England, died 26 Apr 1811 in Chelsea. (*Fraser*).
+\* Fraser, John (1750-1811), Scottish hosier and draper turned plant explorer and nurseryman, born in Tomnacross \[not Tomnacloich\] (Inverness-shire), baptized 14 Oct 1750, moved to London 1770 or 1776, traveled to collect plants in Newfoundland 1780 and the s. U.S.A. 1784-1785, made several more trips to the U.S.A. 1790-1795, established a nursery in Chelsea (London) 1795, visited Russia 1796 and was appointed collector for Tsar Paul I (1754-1801), returned to America 1799 and also visited Cuba 1801 and the Bahamas 1802, began a seventh and final trip to America in 1806 during which he revisited Cuba 1809, his nursery business was continued by his sons John (1780-1861) and James Thomas (1782-x), the senior Fraser is credited with introducing more than 200 species of flowering plants to England, died 26 Apr 1811 in Chelsea. 
+**Abbreviated name**: *Fraser*
 
 #### Note
 

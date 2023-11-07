@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/item/103683#page/376/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33212408) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tischler, Georg \[Friedrich Leopold\] (1878-1955), German (East-Prussian) botanist; studied at Königsberg, München, Bonn 1896-1900; Dr. phil. Bonn 1899; assistant Botanical Institute Heidelberg 1900-1902, at the Plant-Physiological Institute of the Landtbrucksakad. Stockholm; habil. and lecturer Heidelberg 1902, in Java (Buitenzorg-Stipendium), Ceylon and East-Africa 1908-1909; extra-ordinary professor of botany Heidelberg 1908-1912; professor at the Technical College and director of the Natural history Museum and Botanical garden Braunschweig 1912-1917; ordinary professor and director of the Botanical Institute and Garden Stuttgart-Hohenheim 1917-1922; professor of botany and director of the Botanical Garden at Kiel 1922-1951; outstanding plant cytologist. (*Tischler*).
+Tischler, Georg \[Friedrich Leopold\] (1878-1955), German (East-Prussian) botanist; studied at Königsberg, München, Bonn 1896-1900; Dr. phil. Bonn 1899; assistant Botanical Institute Heidelberg 1900-1902, at the Plant-Physiological Institute of the Landtbrucksakad. Stockholm; habil. and lecturer Heidelberg 1902, in Java (Buitenzorg-Stipendium), Ceylon and East-Africa 1908-1909; extra-ordinary professor of botany Heidelberg 1908-1912; professor at the Technical College and director of the Natural history Museum and Botanical garden Braunschweig 1912-1917; ordinary professor and director of the Botanical Institute and Garden Stuttgart-Hohenheim 1917-1922; professor of botany and director of the Botanical Garden at Kiel 1922-1951; outstanding plant cytologist. 
+**Abbreviated name**: *Tischler*
 
 #### Herbarium and types
 

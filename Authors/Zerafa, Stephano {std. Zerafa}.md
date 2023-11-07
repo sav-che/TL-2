@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/103250#page/590/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33066870) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zerafa, Stephano (1791-1871), Maltese physician and botanist; director of the Floriana botanical garden. (*Zerafa*).
+Zerafa, Stephano (1791-1871), Maltese physician and botanist; director of the Floriana botanical garden. 
+**Abbreviated name**: *Zerafa*
 
 #### Herbarium and types
 

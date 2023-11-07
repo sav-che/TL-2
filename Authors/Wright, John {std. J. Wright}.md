@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103250#page/528/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33066808) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wright, John (1811-1846), American physician and naturalist; studied at the Rensselaer Polytechnic Institute (N.Y.) (with Amos Eaton); graduated in medicine at Yale College 1833; practicing physician at Troy, N.Y.; with the Michigan geological survey 1838; professor of natural history in the Rensselaer Institute 1838-1845. (*J. Wright*).
+Wright, John (1811-1846), American physician and naturalist; studied at the Rensselaer Polytechnic Institute (N.Y.) (with Amos Eaton); graduated in medicine at Yale College 1833; practicing physician at Troy, N.Y.; with the Michigan geological survey 1838; professor of natural history in the Rensselaer Institute 1838-1845. 
+**Abbreviated name**: *J. Wright*
 
 #### Herbarium and types
 

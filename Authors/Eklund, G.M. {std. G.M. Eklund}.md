@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103835#page/301/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33260279) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eklund, G.M. (fl. 1935-1936), Swede, author on Cactaceae, no more information found. (*G.M. Eklund*).
+Eklund, G.M. (fl. 1935-1936), Swede, author on Cactaceae, no more information found. 
+**Abbreviated name**: *G.M. Eklund*
 
 #### Herbarium and types
 

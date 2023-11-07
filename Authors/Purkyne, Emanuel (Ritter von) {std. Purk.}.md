@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103624#page/459/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Purkyne, Emanuel \[Ritter von\] (1831-1882), Moravian botanist; from 1851-1860 custos at the National Museum, Praha; Dr. phil. Praha 1861; from 1860 professor at the forestry College of Weisswasser (Bela pod Bezdem). (*Purk.*).
+Purkyne, Emanuel \[Ritter von\] (1831-1882), Moravian botanist; from 1851-1860 custos at the National Museum, Praha; Dr. phil. Praha 1861; from 1860 professor at the forestry College of Weisswasser (Bela pod Bezdem). 
+**Abbreviated name**: *Purk.*
 
 #### Herbarium and types
 

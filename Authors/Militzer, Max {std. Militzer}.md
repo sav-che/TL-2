@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/item/104137#page/504/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33355575) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Militzer, Max (1894-1971), German botanist, trained to be Volksschullchrer; in French captivity in Marocco after the Marne battle; exchange prisoner of war in Switzerland 1916-1917; teacher at Langebrück 1917-1919, Marienberg 1919-1921, Bautzen (Lutherschule) 1921-1945; from 1951-1959 with the nature conservancy at Dresden. (*Militzer*).
+Militzer, Max (1894-1971), German botanist, trained to be Volksschullchrer; in French captivity in Marocco after the Marne battle; exchange prisoner of war in Switzerland 1916-1917; teacher at Langebrück 1917-1919, Marienberg 1919-1921, Bautzen (Lutherschule) 1921-1945; from 1951-1959 with the nature conservancy at Dresden. 
+**Abbreviated name**: *Militzer*
 
 #### Herbarium and types
 

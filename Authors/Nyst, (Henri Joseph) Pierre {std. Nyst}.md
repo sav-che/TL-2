@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/item/104137#page/815/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nyst, \[Henri Joseph\] Pierre (1780-1846), Dutch-(Maastricht) born Belgian botanist; director of the botanical garden in Bruxelles; later curator of malacology at the Bruxelles Mus. hist. nat. (*Nyst*).
+Nyst, \[Henri Joseph\] Pierre (1780-1846), Dutch-(Maastricht) born Belgian botanist; director of the botanical garden in Bruxelles; later curator of malacology at the Bruxelles Mus. hist. nat. 
+**Abbreviated name**: *Nyst*
 
 #### Herbarium and types
 

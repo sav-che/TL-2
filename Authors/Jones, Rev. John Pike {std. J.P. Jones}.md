@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103253#page/481/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33068697) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jones, Rev. John Pike (1790-1857), British clergyman and botanist; DA Cantab. 1813; curate at North Bovey, Devon. (*J. P. Jones*).
+Jones, Rev. John Pike (1790-1857), British clergyman and botanist; DA Cantab. 1813; curate at North Bovey, Devon. 
+**Abbreviated name**: *J. P. Jones*
 
 #### Herbarium
 

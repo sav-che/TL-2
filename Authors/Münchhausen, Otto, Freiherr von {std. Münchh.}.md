@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/item/104137#page/669/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33355740) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Münchhausen, Otto, Freiherr von (1716-1774), German "Landdrost" (sheriff) at Hannover and Schwölbern where he created a large Landschaftspark. (*Münchh.*).
+Münchhausen, Otto, Freiherr von (1716-1774), German "Landdrost" (sheriff) at Hannover and Schwölbern where he created a large Landschaftspark. 
+**Abbreviated name**: *Münchh.*
 
 #### Herbarium and types
 

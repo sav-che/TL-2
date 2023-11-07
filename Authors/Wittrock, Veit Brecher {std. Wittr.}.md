@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/item/103250#page/466/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33066746) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wittrock, Veit Brecher (1839-1914), Swedish botanist; studied at the University of Uppsala 1857-1865; Dr. phil. and lecturer ib. 1886; high school teacher at a private school in Uppsala 1865-1878, extraordinary professor of botany Uppsala 1878; professor and curator of the botanical collections at the Stockholm Riksmuseum 1879-1904, also "Professor Bergianus" and director of the Bergianska trädgårdsskolan 1879-1914; also botany teacher at Stockholms högskola 1879-1883. (*Wittr.*).
+Wittrock, Veit Brecher (1839-1914), Swedish botanist; studied at the University of Uppsala 1857-1865; Dr. phil. and lecturer ib. 1886; high school teacher at a private school in Uppsala 1865-1878, extraordinary professor of botany Uppsala 1878; professor and curator of the botanical collections at the Stockholm Riksmuseum 1879-1904, also "Professor Bergianus" and director of the Bergianska trädgårdsskolan 1879-1914; also botany teacher at Stockholms högskola 1879-1883. 
+**Abbreviated name**: *Wittr.*
 
 #### Herbarium and types
 

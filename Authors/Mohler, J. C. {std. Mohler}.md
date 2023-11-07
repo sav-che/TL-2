@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/item/104137#page/559/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mohler, J. C. (*fl*. 1928), American botanist at Topeka, Kansas. (*Mohler*).
+Mohler, J. C. (*fl*. 1928), American botanist at Topeka, Kansas. 
+**Abbreviated name**: *Mohler*
 
 #### Herbarium and types
 

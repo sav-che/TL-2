@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103253#page/244/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33068460) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hobkirk, Charles Codrington Pressick (1837-1902), British (Yorkshire) banker, local historian, and bryologist at Huddersfield and Dewsbury; after retirement in 1897 at Horsforth and Ilkley. (*Hobk.*).
+Hobkirk, Charles Codrington Pressick (1837-1902), British (Yorkshire) banker, local historian, and bryologist at Huddersfield and Dewsbury; after retirement in 1897 at Horsforth and Ilkley. 
+**Abbreviated name**: *Hobk.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/item/103859#page/84/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33265271) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Benoist, Raymond (1881-1970), French botanist, studied botany at the University of Paris with Ph. van Tieghem and H. Lecomte, Dr. phil. Paris 1912, préparateur (assistant) at the École pratique des Hautes Études, collected in French Guyana 1913-1914, on active service 1915-1918, collected in Morocco 1918 and 1928, scientist at the Muséum d'Histoire naturelle Paris 1919, collected in Ecuador 1919, sous-directeur at the Muséum 1933-1942, maître de recherches Centre national de la Recherche scientifique 1945-1948, idem with the Institut de Recherche scientifique et Technique Outre-Mer (ORSTOM) 1949-1952, setting up a herbarium at Madagascar, from 1952 active again at the Muséum d'Histoire naturelle, Paris, working at the flora of Madagascar. (*Benoist*).
+Benoist, Raymond (1881-1970), French botanist, studied botany at the University of Paris with Ph. van Tieghem and H. Lecomte, Dr. phil. Paris 1912, préparateur (assistant) at the École pratique des Hautes Études, collected in French Guyana 1913-1914, on active service 1915-1918, collected in Morocco 1918 and 1928, scientist at the Muséum d'Histoire naturelle Paris 1919, collected in Ecuador 1919, sous-directeur at the Muséum 1933-1942, maître de recherches Centre national de la Recherche scientifique 1945-1948, idem with the Institut de Recherche scientifique et Technique Outre-Mer (ORSTOM) 1949-1952, setting up a herbarium at Madagascar, from 1952 active again at the Muséum d'Histoire naturelle, Paris, working at the flora of Madagascar. 
+**Abbreviated name**: *Benoist*
 
 #### Herbarium and types
 

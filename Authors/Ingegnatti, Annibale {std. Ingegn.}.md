@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103253#page/410/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ingegnatti, Annibale (1838-?), Italian physician and botanist at Mondovi (nr. Torino). (*Ingegn.*).
+Ingegnatti, Annibale (1838-?), Italian physician and botanist at Mondovi (nr. Torino). 
+**Abbreviated name**: *Ingegn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/item/103253#page/709/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33068925) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kühner, Robert (1904-x), French mycologist; Dr. sci. nat. Paris 1926; high school teacher at Lille (1921-1932); botanical assistant, Fac. Sci. Alger and Paris (1932-1934); lecturer, later professor, at the Fac. Sci. Lyon (1938). (*Kühner*).
+Kühner, Robert (1904-x), French mycologist; Dr. sci. nat. Paris 1926; high school teacher at Lille (1921-1932); botanical assistant, Fac. Sci. Alger and Paris (1932-1934); lecturer, later professor, at the Fac. Sci. Lyon (1938). 
+**Abbreviated name**: *Kühner*
 
 #### Herbarium and types
 

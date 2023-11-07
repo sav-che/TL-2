@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/item/103683#page/547/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33212579) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turczaninow, Nicolai Stepanowitsch \[von\] (1796-1863) \[n.s. 1864\], Russian botanist and administrator; civil servant in the departments of justice and finances 1814-1828; on a government mission to Irkutsk 1828 (from 1832 in the service of the Academy of Sciences)-1835; civil servant in Krasnoyarsk 1835-1837; president of the civil council of the Jenisei government 1835-1845; actively collecting in these areas and bringing together a large herbarium; in retirement at Taganrog 1845-1847 and Charkow 1847-1863; botanical explorer of the Baikal and Dahurical region 1828-1835 and the Jenisei region 1835-1845. (*Turcz.*).
+Turczaninow, Nicolai Stepanowitsch \[von\] (1796-1863) \[n.s. 1864\], Russian botanist and administrator; civil servant in the departments of justice and finances 1814-1828; on a government mission to Irkutsk 1828 (from 1832 in the service of the Academy of Sciences)-1835; civil servant in Krasnoyarsk 1835-1837; president of the civil council of the Jenisei government 1835-1845; actively collecting in these areas and bringing together a large herbarium; in retirement at Taganrog 1845-1847 and Charkow 1847-1863; botanical explorer of the Baikal and Dahurical region 1828-1835 and the Jenisei region 1835-1845. 
+**Abbreviated name**: *Turcz.*
 
 #### Herbarium and types
 

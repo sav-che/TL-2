@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/item/103861#page/468/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33266765) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Castle, Hempstead (1894-x), American botanist (bryologist), born at Springfield, Mass., B.S. Cornell 1921, A.M. 1923, Ph.D. Yale University 1926, Sterling fellow from Yale to Kew Gardens, British Museum, Paris and Geneva 1926-1928, instructor of botany at Yale 1928-1931 (at Osborn Botanical Laboratory), id. assistant professor 1932-1941, associated professor 1941-1962, emeritus professor from 1962. (*H. Castle*).
+Castle, Hempstead (1894-x), American botanist (bryologist), born at Springfield, Mass., B.S. Cornell 1921, A.M. 1923, Ph.D. Yale University 1926, Sterling fellow from Yale to Kew Gardens, British Museum, Paris and Geneva 1926-1928, instructor of botany at Yale 1928-1931 (at Osborn Botanical Laboratory), id. assistant professor 1932-1941, associated professor 1941-1962, emeritus professor from 1962. 
+**Abbreviated name**: *H. Castle*
 
 #### Herbarium and types
 

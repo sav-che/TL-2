@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103861#page/23/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33266320) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandis, Sir Dietrich {std. Brandis}|first entry]] for this author
 
 ### Author
 
-\* Brandis, \[Sir\] Dietrich (1824-1907), German botanist and forester, born in Bonn, studied natural sciences at Copenhagen 1843, continuing in Bonn and Göttingen, Dr. phil. Bonn 1848 (chemistry), botanical teachers J.E. Schouw in Copenhagen and A. Grisebach in Göttingen, habil. Bonn 1848 for botany and plant chemistry, superintendent of forests in the province of Burma 1856-1862, forestry advisor with the government of India, Calcutta, "inspector-general of forests" to the government of India 1864-1883, returned to Bonn in retirement, L.L.D. Edinburgh 1889, worked on his *Indian trees* at Kew 1901-1906. (*Brandis*).
+\* Brandis, \[Sir\] Dietrich (1824-1907), German botanist and forester, born in Bonn, studied natural sciences at Copenhagen 1843, continuing in Bonn and Göttingen, Dr. phil. Bonn 1848 (chemistry), botanical teachers J.E. Schouw in Copenhagen and A. Grisebach in Göttingen, habil. Bonn 1848 for botany and plant chemistry, superintendent of forests in the province of Burma 1856-1862, forestry advisor with the government of India, Calcutta, "inspector-general of forests" to the government of India 1864-1883, returned to Bonn in retirement, L.L.D. Edinburgh 1889, worked on his *Indian trees* at Kew 1901-1906. 
+**Abbreviated name**: *Brandis*
 
 #### Herbarium and types
 

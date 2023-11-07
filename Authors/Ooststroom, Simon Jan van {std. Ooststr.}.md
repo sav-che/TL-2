@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/item/104137#page/854/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33355925) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ooststroom, Simon Jan van (1906-x), Dutch botanist; Dr. phil. Utrecht 1934; assistant at the Botanical Museum Utrecht 1927-1934; from 1934 in various functions at the Rijksherbarium, Leiden (*Ooststr.*).
+Ooststroom, Simon Jan van (1906-x), Dutch botanist; Dr. phil. Utrecht 1934; assistant at the Botanical Museum Utrecht 1927-1934; from 1934 in various functions at the Rijksherbarium, Leiden 
+**Abbreviated name**: *Ooststr.*
 
 #### Herbarium and types
 

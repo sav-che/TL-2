@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/104137#page/25/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33355118) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Licopoli, Gaetano (1833-1897), Italian botanist at Napoli; high school teacher and assistant at the Napoli botanical garden; student of Gasparrini (*Licopoli*).
+Licopoli, Gaetano (1833-1897), Italian botanist at Napoli; high school teacher and assistant at the Napoli botanical garden; student of Gasparrini 
+**Abbreviated name**: *Licopoli*
 
 #### Herbarium and types
 

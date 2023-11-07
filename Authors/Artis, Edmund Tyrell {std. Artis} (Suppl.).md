@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103858#page/192/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33264907) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Artis, Edmund Tyrell {std. Artis}|first entry]] for this author
 
 ### Author
 
-\* Artis, Edmund Tyrell (1789-1847), British palaeobotanist, archeologist and antiquarian, brought together an extensive collection of fossil plants, from 1825 living at Castor, Northamptonshire, studying and excavating Roman remains. (*Artis*).
+\* Artis, Edmund Tyrell (1789-1847), British palaeobotanist, archeologist and antiquarian, brought together an extensive collection of fossil plants, from 1825 living at Castor, Northamptonshire, studying and excavating Roman remains. 
+**Abbreviated name**: *Artis*
 
 #### Collections
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/item/103683#page/95/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sukachev, Vladimir Nikolaevich (1880-1967), Russian botanist; associated with the St. Petersburg Forest Institute from 1898; from 1944 director of the Forest Institute of the Academy of Sciences U.S.S.R. at Moscow (later S.M. Kirov Forest Engineering Academy). (*Sukachev*).
+Sukachev, Vladimir Nikolaevich (1880-1967), Russian botanist; associated with the St. Petersburg Forest Institute from 1898; from 1944 director of the Forest Institute of the Academy of Sciences U.S.S.R. at Moscow (later S.M. Kirov Forest Engineering Academy). 
+**Abbreviated name**: *Sukachev*
 
 #### Herbarium and types
 

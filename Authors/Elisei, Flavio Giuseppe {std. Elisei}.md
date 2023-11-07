@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103835#page/315/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33260293) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elisei, Flavio Giuseppe (fl. 1937), Italian botanist working at the botanical institute of Pavia. (*Elisei*).
+Elisei, Flavio Giuseppe (fl. 1937), Italian botanist working at the botanical institute of Pavia. 
+**Abbreviated name**: *Elisei*
 
 #### Herbarium and types
 

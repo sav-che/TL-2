@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103832#page/300/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33258766) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gomes, Bernardino António (1768-1823), Portuguese physician, chemist, botanist and parasitologist, born 29 Oct 1768 in Paredes de Coura, studied medicine at Univ. of Coimbra and graduated Mai 1793, named surgeon to the Royal Navy 1797, resided in Brazil 1797-1801, returned to Portugal and worked as a physician in military hospitals, introduced smallpox vaccination to Portugal 1812, returned briefly to Rio de Janeiro 1817, died 13 Jan 1823 in Lisbon. (*Gomes*).
+Gomes, Bernardino António (1768-1823), Portuguese physician, chemist, botanist and parasitologist, born 29 Oct 1768 in Paredes de Coura, studied medicine at Univ. of Coimbra and graduated Mai 1793, named surgeon to the Royal Navy 1797, resided in Brazil 1797-1801, returned to Portugal and worked as a physician in military hospitals, introduced smallpox vaccination to Portugal 1812, returned briefly to Rio de Janeiro 1817, died 13 Jan 1823 in Lisbon. 
+**Abbreviated name**: *Gomes*
 
 #### Note
 

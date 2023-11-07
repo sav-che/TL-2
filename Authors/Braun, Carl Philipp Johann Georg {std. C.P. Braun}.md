@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/item/103861#page/44/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33266341) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Braun, Carl Philipp Johann Georg (1870-1935), German (born Biebrich am Rhein) pharmacist and botanist, Dr. phil. Basel 1900, employed at the Biological-Agricultural Institute in Amani, Tanganyika, ultimately as head of the "Biologische Reichsanstalt für Land- und Forstwirtschaft" ib. (*C.P. Braun*).
+Braun, Carl Philipp Johann Georg (1870-1935), German (born Biebrich am Rhein) pharmacist and botanist, Dr. phil. Basel 1900, employed at the Biological-Agricultural Institute in Amani, Tanganyika, ultimately as head of the "Biologische Reichsanstalt für Land- und Forstwirtschaft" ib. 
+**Abbreviated name**: *C.P. Braun*
 
 #### Herbarium and types
 

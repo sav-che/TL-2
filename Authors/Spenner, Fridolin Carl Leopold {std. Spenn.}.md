@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/item/104077#page/800/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33333925) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spenner, Fridolin Carl Leopold (1798-1841), German (Säckingen, Vorderösterreich, later Baden) botanist; Dr. med. Freiburg i.B. 1829; from 1832-1838 extraordinary, from 1838-1841 ordinary professor of medical botany at the University of Freiburg i.B. (*Spenn.*).
+Spenner, Fridolin Carl Leopold (1798-1841), German (Säckingen, Vorderösterreich, later Baden) botanist; Dr. med. Freiburg i.B. 1829; from 1832-1838 extraordinary, from 1838-1841 ordinary professor of medical botany at the University of Freiburg i.B. 
+**Abbreviated name**: *Spenn.*
 
 #### Herbarium and types
 

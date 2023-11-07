@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103624#page/49/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33189468) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palouzier, Émile (*fl*. 1891), French botanist and pharmacist at the "École supérieure de Pharmacie", Montpellier. (*Palouz.*).
+Palouzier, Émile (*fl*. 1891), French botanist and pharmacist at the "École supérieure de Pharmacie", Montpellier. 
+**Abbreviated name**: *Palouz.*
 
 #### Herbarium and types
 

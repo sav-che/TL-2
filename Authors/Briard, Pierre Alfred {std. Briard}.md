@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103414#page/371/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33120454) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Briard, Pierre-Alfred {std. Briard} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Briard, Pierre Alfred (1811-1896), French botanist and soldier. (*Briard*).
+Briard, Pierre Alfred (1811-1896), French botanist and soldier. 
+**Abbreviated name**: *Briard*
 
 #### Herbarium and types
 

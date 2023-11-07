@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103683#page/166/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33212198) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tamburlini, Francesco (1859-?), Italian lichenologist and high school teacher at Sassari, Sardinia. (*Tamburlini*).
+Tamburlini, Francesco (1859-?), Italian lichenologist and high school teacher at Sassari, Sardinia. 
+**Abbreviated name**: *Tamburlini*
 
 #### Herbarium and types
 

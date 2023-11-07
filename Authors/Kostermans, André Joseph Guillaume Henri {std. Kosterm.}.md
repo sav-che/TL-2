@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/item/103253#page/680/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33068896) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kostermans, André Joseph Guillaume Henri (1907-x), Dutch botanist; trained at Utrecht; Ph.D. 1936, settled at Buitenzorg, later Bogor, Indonesia; explorer and taxonomist (Lauraceae) connected with the Forest Research Institute. (*Kosterm.*).
+Kostermans, André Joseph Guillaume Henri (1907-x), Dutch botanist; trained at Utrecht; Ph.D. 1936, settled at Buitenzorg, later Bogor, Indonesia; explorer and taxonomist (Lauraceae) connected with the Forest Research Institute. 
+**Abbreviated name**: *Kosterm.*
 
 #### Herbarium and types
 

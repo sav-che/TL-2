@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/104137#page/190/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33355261) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lousley, Job Edward (1907-1976), British botanist; employee of Barclays Bank. (*Lousley*).
+Lousley, Job Edward (1907-1976), British botanist; employee of Barclays Bank. 
+**Abbreviated name**: *Lousley*
 
 #### Herbarium and types
 

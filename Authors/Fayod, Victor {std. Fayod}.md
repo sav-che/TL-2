@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/item/103414#page/864/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fayod, Victor {std. Fayod} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fayod, Victor (1860-1900), Swiss mycologist. (*Fayod*).
+Fayod, Victor (1860-1900), Swiss mycologist. 
+**Abbreviated name**: *Fayod*
 
 #### Herbarium and types
 

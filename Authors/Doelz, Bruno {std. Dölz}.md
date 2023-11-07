@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103835#page/32/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33260010) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doelz, Bruno (1906-1945), German lawyer and specialist for Cactaceae, born 4 Feb 1906 at Berlin-Tempelhof, editor of Jahrb. deut. Kakteenges. (1936-1944) and Kakteenkunde II (1939-1943), fifth and last president of the Deutsche Kakteengesellschaft (1941-1945), died 29 Apr 1945 at Berlin-Wannsee. (*Dölz*).
+Doelz, Bruno (1906-1945), German lawyer and specialist for Cactaceae, born 4 Feb 1906 at Berlin-Tempelhof, editor of Jahrb. deut. Kakteenges. (1936-1944) and Kakteenkunde II (1939-1943), fifth and last president of the Deutsche Kakteengesellschaft (1941-1945), died 29 Apr 1945 at Berlin-Wannsee. 
+**Abbreviated name**: *Dölz*
 
 #### Herbarium and types
 

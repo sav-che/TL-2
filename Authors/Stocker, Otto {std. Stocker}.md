@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103683#page/19/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33212085) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stocker, Otto (1888-1979), German (Baden) plant physiologist and ecologist; Dr. phil. Freiburg i. Br. 1923; scientific assistant at the Techn. Hochschule Karlsruhe 1913-1914; high school teacher at Bremerhaven 1915-1934; professor of botany and director of the Botanical Institute and Garden in Darmstadt 1934-1959; in retirement still actively travelling and publishing. (*Stocker*).
+Stocker, Otto (1888-1979), German (Baden) plant physiologist and ecologist; Dr. phil. Freiburg i. Br. 1923; scientific assistant at the Techn. Hochschule Karlsruhe 1913-1914; high school teacher at Bremerhaven 1915-1934; professor of botany and director of the Botanical Institute and Garden in Darmstadt 1934-1959; in retirement still actively travelling and publishing. 
+**Abbreviated name**: *Stocker*
 
 #### Herbarium and types
 

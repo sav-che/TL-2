@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103833#page/16/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33259050) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daenzer, F.G. (fl. 1834), French botanist, studied at Strasbourg, Dr. phil. ib. 1834. (*Daenzer*).
+Daenzer, F.G. (fl. 1834), French botanist, studied at Strasbourg, Dr. phil. ib. 1834. 
+**Abbreviated name**: *Daenzer*
 
 #### Herbarium and types
 

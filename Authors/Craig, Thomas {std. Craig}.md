@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/item/103860#page/451/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33266118) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Craig, Thomas (1839-1916), Canadian botanist, born 14 Jun 1839, Montreal, died 1916, member of the Torrey Botanical Club, 1916, business man. (*Craig*).
+Craig, Thomas (1839-1916), Canadian botanist, born 14 Jun 1839, Montreal, died 1916, member of the Torrey Botanical Club, 1916, business man. 
+**Abbreviated name**: *Craig*
 
 #### Herbarium and types
 

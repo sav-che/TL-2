@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/item/103253#page/627/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33068843) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koenig, Karl Dietrich Eberhard (1774-1851), British botanist (Koenig or König, alias Charles Konig) of German birth; keeper of mineralogy British Museum 1813. (*K. D. Koenig*).
+Koenig, Karl Dietrich Eberhard (1774-1851), British botanist (Koenig or König, alias Charles Konig) of German birth; keeper of mineralogy British Museum 1813. 
+**Abbreviated name**: *K. D. Koenig*
 
 #### Herbarium and types
 

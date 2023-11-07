@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103253#page/67/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33068283) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hanbury, Sir Thomas (1832-1907), British horticulturist and botanist; from 1852-1867/71 merchant at Shanghai; settled in Italy at La Mortola, Ventimiglia (1867/71-1907); founder of the Hanbury Botanical Institute at Genoa; brother of Daniel Hanbury. (*T. Hanb.*).
+Hanbury, Sir Thomas (1832-1907), British horticulturist and botanist; from 1852-1867/71 merchant at Shanghai; settled in Italy at La Mortola, Ventimiglia (1867/71-1907); founder of the Hanbury Botanical Institute at Genoa; brother of Daniel Hanbury. 
+**Abbreviated name**: *T. Hanb.*
 
 #### Herbarium and types
 

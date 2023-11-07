@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103860#page/188/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33265855) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cirillo, Domenico Maria Leone {std. Cirillo}|first entry]] for this author
 
 ### Author
 
-\* Cirillo \[Cyrillus\], Domenico Maria Leone (1739-1799), Italian physician and botanist in Napoli, born 11 Apr 1739 at Grumo, died 29 Oct 1799 at Napoli, president of the Constituante "de la République parthénopéenne". (*Cirillo*).
+\* Cirillo \[Cyrillus\], Domenico Maria Leone (1739-1799), Italian physician and botanist in Napoli, born 11 Apr 1739 at Grumo, died 29 Oct 1799 at Napoli, president of the Constituante "de la République parthénopéenne". 
+**Abbreviated name**: *Cirillo*
 
 #### Herbarium and types
 

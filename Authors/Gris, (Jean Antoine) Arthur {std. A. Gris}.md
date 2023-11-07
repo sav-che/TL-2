@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103832#page/410/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33258876) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gris, \[Jean Antoine\] Arthur (1829-1873), French botanist, born 11 Dec 1829 in Châtillon-sur-Seine (Côte-d'Or), 1857 Dr. ès-sciences, "aide-naturaliste" 1859, then asst. 1864 to A.T. Brongniart, Muséum natl. d'Histoire naturelle, Paris, died 18 Aug 1873 in Paris. (*A. Gris*).
+Gris, \[Jean Antoine\] Arthur (1829-1873), French botanist, born 11 Dec 1829 in Châtillon-sur-Seine (Côte-d'Or), 1857 Dr. ès-sciences, "aide-naturaliste" 1859, then asst. 1864 to A.T. Brongniart, Muséum natl. d'Histoire naturelle, Paris, died 18 Aug 1873 in Paris. 
+**Abbreviated name**: *A. Gris*
 
 #### Herbarium and types
 

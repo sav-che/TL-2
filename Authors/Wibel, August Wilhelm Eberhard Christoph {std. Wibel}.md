@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103250#page/317/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33066597) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wibel, August Wilhelm Eberhard Christoph (1775-1813), German (Württemberg) physician and botanist; studied in Jena from 1797; Dr. med. 1797; practicing at Wertheim am Main (Baden). (*Wibel*).
+Wibel, August Wilhelm Eberhard Christoph (1775-1813), German (Württemberg) physician and botanist; studied in Jena from 1797; Dr. med. 1797; practicing at Wertheim am Main (Baden). 
+**Abbreviated name**: *Wibel*
 
 #### Herbarium and types
 

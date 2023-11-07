@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103624#page/379/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Potzger, John Ernest (1886-1955), American botanist and ecologist (palynologist); Dr. phil. Butler Univ. 1932; at Dept. of Botany, Butler Univ., Indianapolis, from 1932-1955 (full professor 1948-1955). (*Potzger*).
+Potzger, John Ernest (1886-1955), American botanist and ecologist (palynologist); Dr. phil. Butler Univ. 1932; at Dept. of Botany, Butler Univ., Indianapolis, from 1932-1955 (full professor 1948-1955). 
+**Abbreviated name**: *Potzger*
 
 #### Herbarium and types
 

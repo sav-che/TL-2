@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103250#page/73/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33066353) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wagner, Rudolf (1872-?), German (Baden) botanist; Dr. phil. 1895 Strassburg; assistant at the Institute for Plant Physiology, München 1896-1898; id. Botanical Institute Heidelberg 1898-1899; id. Karlsruhe 1899-1900; id. with R. v. Wettstein 1900-1901; id. Botanical Garden Vienna 1901-1903; at the regional office for Vienna of the Internationale Wissenschaftliche Bibliographie 1903-1915; "Privatgelehrter" from 1916. (*R. Wagner*).
+Wagner, Rudolf (1872-?), German (Baden) botanist; Dr. phil. 1895 Strassburg; assistant at the Institute for Plant Physiology, München 1896-1898; id. Botanical Institute Heidelberg 1898-1899; id. Karlsruhe 1899-1900; id. with R. v. Wettstein 1900-1901; id. Botanical Garden Vienna 1901-1903; at the regional office for Vienna of the Internationale Wissenschaftliche Bibliographie 1903-1915; "Privatgelehrter" from 1916. 
+**Abbreviated name**: *R. Wagner*
 
 #### Herbarium and types
 

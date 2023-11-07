@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/103253#page/166/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heinricher, Emil Johann Lambert (1856-1934), Austrian botanist; Dr. phil. Graz 1879; from 1889 director of the botanical garden and professor of botany at Innsbruck University. (*Heinr.*).
+Heinricher, Emil Johann Lambert (1856-1934), Austrian botanist; Dr. phil. Graz 1879; from 1889 director of the botanical garden and professor of botany at Innsbruck University. 
+**Abbreviated name**: *Heinr.*
 
 #### Herbarium and types
 

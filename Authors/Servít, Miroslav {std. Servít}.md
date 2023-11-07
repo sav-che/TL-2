@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/item/104077#page/538/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33333663) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Servít, Miroslav (1886-1959), Moravian botanist (lichenologist); studied at the Charles University and Agricultural College Praha; assistant at the Agricultural College of Tabor 1910-1914; Dr. phil. 1915; from 1920 professor, from 1923 director of the state agricultural experimental station and college at Horice, from 1936 id. at the Agricultural college, Königgrätz (Hradec Kralové); retired 1943 but from 1945-1950 director of the Agricultural college at Kaaden (Kadan); in retirement at Bettlern nr Klösterle (Klašterce nad Ohre). (*Servít*).
+Servít, Miroslav (1886-1959), Moravian botanist (lichenologist); studied at the Charles University and Agricultural College Praha; assistant at the Agricultural College of Tabor 1910-1914; Dr. phil. 1915; from 1920 professor, from 1923 director of the state agricultural experimental station and college at Horice, from 1936 id. at the Agricultural college, Königgrätz (Hradec Kralové); retired 1943 but from 1945-1950 director of the Agricultural college at Kaaden (Kadan); in retirement at Bettlern nr Klösterle (Klašterce nad Ohre). 
+**Abbreviated name**: *Servít*
 
 #### Herbarium and types
 

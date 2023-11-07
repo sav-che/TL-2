@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103858#page/244/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33264959) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bachman, John (1790-1874), American clergyman (Lutheran pastor), ornithologist and botanist at Charleston, South Carolina, licenced to preach 1813, from 1815-1874 pastor of the Lutheran Church in Charleston, S.C., collaborator of Audubon. (*J. Bachman*).
+Bachman, John (1790-1874), American clergyman (Lutheran pastor), ornithologist and botanist at Charleston, South Carolina, licenced to preach 1813, from 1815-1874 pastor of the Lutheran Church in Charleston, S.C., collaborator of Audubon. 
+**Abbreviated name**: *J. Bachman*
 
 #### Herbarium and types
 

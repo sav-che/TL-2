@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103860#page/368/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33266035) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cordes, Jan Willem Hugo (1836-1906), Dutch forester, born in Amsterdam, 23 Oct 1836, got his training in Groningen and Karlsruhe (Germany), went to Dutch East Indies 1857, employed with the Dutch East Indian Forest Service, commissioned to Sumatra West Coast 1865, inspector in the Forest Service 1877, later Chief inspector, returned to Europe, retired 1890, died in Apeldoorn 4 Jun 1906. (*J.W.H. Cordes*).
+Cordes, Jan Willem Hugo (1836-1906), Dutch forester, born in Amsterdam, 23 Oct 1836, got his training in Groningen and Karlsruhe (Germany), went to Dutch East Indies 1857, employed with the Dutch East Indian Forest Service, commissioned to Sumatra West Coast 1865, inspector in the Forest Service 1877, later Chief inspector, returned to Europe, retired 1890, died in Apeldoorn 4 Jun 1906. 
+**Abbreviated name**: *J.W.H. Cordes*
 
 #### Herbarium and types
 

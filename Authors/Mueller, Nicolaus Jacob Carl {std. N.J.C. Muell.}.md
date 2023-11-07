@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/104137#page/665/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33355736) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller, Nicolaus Jacob Carl (1842-1901), German plant physiologist and morphologist; Dr. phil. Heidelberg 1866; from 1866-1872 Privat-Dozent at Heidelberg; from 1872-1901 at the Forestry College of Münden (Hannover). (*N. J. C. Muell.*).
+Mueller, Nicolaus Jacob Carl (1842-1901), German plant physiologist and morphologist; Dr. phil. Heidelberg 1866; from 1866-1872 Privat-Dozent at Heidelberg; from 1872-1901 at the Forestry College of Münden (Hannover). 
+**Abbreviated name**: *N. J. C. Muell.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103414#page/444/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33120527) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buckland, Rev. William {std. Buckland} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buckland, William (1784-1856), British geologist, dean of Westminster. (*Buckland*).
+Buckland, William (1784-1856), British geologist, dean of Westminster. 
+**Abbreviated name**: *Buckland*
 
 #### Collections
 

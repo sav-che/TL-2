@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103835#page/167/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33260145) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duke, Maude M. (fl. 1926), British mycologist, later Mrs. Wallace. (*Duke*).
+Duke, Maude M. (fl. 1926), British mycologist, later Mrs. Wallace. 
+**Abbreviated name**: *Duke*
 
 #### Herbarium and types
 

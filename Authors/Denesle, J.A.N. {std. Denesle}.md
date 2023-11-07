@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103833#page/212/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33259246) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Denesle, J.A.N. (x-1818/19), French botanist, teacher of natural history at the central school of the department of Vienne at Poitiers, founded the botanical garden in that city. (*Denesle*).
+Denesle, J.A.N. (x-1818/19), French botanist, teacher of natural history at the central school of the department of Vienne at Poitiers, founded the botanical garden in that city. 
+**Abbreviated name**: *Denesle*
 
 #### Herbarium and types
 

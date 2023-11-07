@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/103414#page/578/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33120661) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Colsmann, Johannes (1771-1830), Danish physician in Copenhagen. (*Colsm.*).
+Colsmann, Johannes (1771-1830), Danish physician in Copenhagen. 
+**Abbreviated name**: *Colsm.*
 
 #### Herbarium and types
 

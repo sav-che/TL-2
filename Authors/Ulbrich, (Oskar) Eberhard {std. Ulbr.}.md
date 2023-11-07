@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/item/103683#page/581/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33212613) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ulbrich, \[Oskar\] Eberhard (1879-1952), German (Berlin) botanist; studied natural sciences at the University of Berlin 1899-1905; Dr. phil. ib. 1905, student of A. Engler; free-lance assistant at the Botanical Museum and Herbarium, Berlin 1902-1905 (1903-1904 with L. Kny at the Agric. College); assistant 1905-1908, tenured assistant 1908-1920; curator 1920-1926, professor from 1926; in charge of the Department of fungi from 1938. (*Ulbr.*).
+Ulbrich, \[Oskar\] Eberhard (1879-1952), German (Berlin) botanist; studied natural sciences at the University of Berlin 1899-1905; Dr. phil. ib. 1905, student of A. Engler; free-lance assistant at the Botanical Museum and Herbarium, Berlin 1902-1905 (1903-1904 with L. Kny at the Agric. College); assistant 1905-1908, tenured assistant 1908-1920; curator 1920-1926, professor from 1926; in charge of the Department of fungi from 1938. 
+**Abbreviated name**: *Ulbr.*
 
 #### Herbarium and types
 

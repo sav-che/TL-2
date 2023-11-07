@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103253#page/489/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Josch, Eduard, Ritter von (1799-1874), Austrian botanist, judge at Klagenfurt and Laibach (Ljubljana). (*Josch*).
+Josch, Eduard, Ritter von (1799-1874), Austrian botanist, judge at Klagenfurt and Laibach (Ljubljana). 
+**Abbreviated name**: *Josch*
 
 #### Herbarium and types
 

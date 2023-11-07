@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103250#page/358/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33066638) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willdenow, Carl Ludwig (1765-1812), German (Berlin) botanist; studied medicine at the University of Halle 1785-1789; Dr. med. 1789; in charge of the family pharmacy "Apotheke Unter den Linden" 1790-1798; professor of natural history at the Berlin Collegium medico-chirurgicum 1798; director of the Berlin Botanical Garden 1801; Botanist at the Academy of Sciences and public teacher of botany 1801; professor of botany at the newly founded University of Berlin 1810. (*Willd.*).
+Willdenow, Carl Ludwig (1765-1812), German (Berlin) botanist; studied medicine at the University of Halle 1785-1789; Dr. med. 1789; in charge of the family pharmacy "Apotheke Unter den Linden" 1790-1798; professor of natural history at the Berlin Collegium medico-chirurgicum 1798; director of the Berlin Botanical Garden 1801; Botanist at the Academy of Sciences and public teacher of botany 1801; professor of botany at the newly founded University of Berlin 1810. 
+**Abbreviated name**: *Willd.*
 
 #### Herbarium and types
 

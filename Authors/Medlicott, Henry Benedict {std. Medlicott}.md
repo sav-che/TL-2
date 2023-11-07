@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/104137#page/413/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33355484) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Medlicott, Henry Benedict (1829-1905), British geologist; from 1854 until 1887 with the Geological Survey of India; 1854-1862 also professor of geology at Rurki; Mutiny Medal 1857; from 1876-1885 director of the Survey. (*Medlicott*).
+Medlicott, Henry Benedict (1829-1905), British geologist; from 1854 until 1887 with the Geological Survey of India; 1854-1862 also professor of geology at Rurki; Mutiny Medal 1857; from 1876-1885 director of the Survey. 
+**Abbreviated name**: *Medlicott*
 
 #### Herbarium and types
 

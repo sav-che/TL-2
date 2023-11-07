@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/item/104077#page/742/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33333867) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sollers, Basil (1853-1909), American botanist at Baltimore. (*Sollers*).
+Sollers, Basil (1853-1909), American botanist at Baltimore. 
+**Abbreviated name**: *Sollers*
 
 #### Herbarium and types
 

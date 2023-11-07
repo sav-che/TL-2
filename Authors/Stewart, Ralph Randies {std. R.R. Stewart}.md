@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/item/104077#page/937/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33334062) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stewart, Ralph Randies (1890-x), American botanist; studied natural sciences at Columbia College 1907-1911; A.B. 1911; science teacher Gordon College, Rawalpindi 1911-1914; at Columbia College 1914-1916; Dr. phil. 1914; again at Gordon College, ultimately as principal 1916-1943, 1947-1960; acting curator of mosses at the New York Botanical Garden 1943-1947; in retirement at the University of Michigan from 1960-1977; subsequently in California. (*R.R. Stewart*).
+Stewart, Ralph Randies (1890-x), American botanist; studied natural sciences at Columbia College 1907-1911; A.B. 1911; science teacher Gordon College, Rawalpindi 1911-1914; at Columbia College 1914-1916; Dr. phil. 1914; again at Gordon College, ultimately as principal 1916-1943, 1947-1960; acting curator of mosses at the New York Botanical Garden 1943-1947; in retirement at the University of Michigan from 1960-1977; subsequently in California. 
+**Abbreviated name**: *R.R. Stewart*
 
 #### Herbarium and types
 

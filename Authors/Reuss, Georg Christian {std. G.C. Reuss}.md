@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/item/103624#page/755/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33190212) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reuss, Georg Christian (*fl*. 1869), German botanist at Ulm. (*G.C. Reuss*).
+Reuss, Georg Christian (*fl*. 1869), German botanist at Ulm. 
+**Abbreviated name**: *G.C. Reuss*
 
 #### Herbarium and types
 

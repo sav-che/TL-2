@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/item/103624#page/632/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33190089) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rechinger, Karl Heinz (1906-x), Austrian botanist and explorer; son of Karl and Lily Rechinger; Dr. phil. Wien 1931; "Demonstrator" at the Botanical Institute, Wien (with Richard Wettstein) 1928-1929; from 1929 in various positions, ultimately as director at the "Naturhistorisches Museum" Wien. (*Rech. fil.*).
+Rechinger, Karl Heinz (1906-x), Austrian botanist and explorer; son of Karl and Lily Rechinger; Dr. phil. Wien 1931; "Demonstrator" at the Botanical Institute, Wien (with Richard Wettstein) 1928-1929; from 1929 in various positions, ultimately as director at the "Naturhistorisches Museum" Wien. 
+**Abbreviated name**: *Rech. fil.*
 
 #### Herbarium and types
 

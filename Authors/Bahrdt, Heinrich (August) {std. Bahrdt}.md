@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103858#page/266/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33264981) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bahrdt, Heinrich \[August\] (1826-?), German (Saarbrücken) botanist, educated at home and at the Gymnasium Teutoburgense, from 1844-1849 at the University \[Academia Fridericia Guilelmia Rhenana\] Bonn; Dr. phil. ib. 1849. (*Bahrdt*).
+Bahrdt, Heinrich \[August\] (1826-?), German (Saarbrücken) botanist, educated at home and at the Gymnasium Teutoburgense, from 1844-1849 at the University \[Academia Fridericia Guilelmia Rhenana\] Bonn; Dr. phil. ib. 1849. 
+**Abbreviated name**: *Bahrdt*
 
 #### Herbarium and types
 

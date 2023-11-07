@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103834#page/235/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259717) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Hermann \[Wilhelm Konrad\] (1884-1936), German botanist (physiologist and historian), born 14 Jun 1884 in Würzburg, attended schools in Würzburg, studied natural sciences at the Univ., asst., biol. experiment station, Munich 1912, docent in plant physiology 1915, natural history teacher 1919, extraord. prof. 1931, died 7 Jan 1936. (*H.W.K. Fisch.*).
+Fischer, Hermann \[Wilhelm Konrad\] (1884-1936), German botanist (physiologist and historian), born 14 Jun 1884 in Würzburg, attended schools in Würzburg, studied natural sciences at the Univ., asst., biol. experiment station, Munich 1912, docent in plant physiology 1915, natural history teacher 1919, extraord. prof. 1931, died 7 Jan 1936. 
+**Abbreviated name**: *H.W.K. Fisch.*
 
 #### Herbarium and types
 

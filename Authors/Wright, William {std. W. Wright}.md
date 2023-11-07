@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/103250#page/529/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33066809) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wright, William (1735-1819), British physician and botanist; studied medicine at Edinburgh University; to Greenland 1757; surgeon's mate in the British navy 1758-1763, visiting e.g. Jamaica; MD St. Andrews; practicing physician on Jamaica 1764-1777; in London 1777-1779; regimental surgeon in the Jamaican regiment 1779; in Spanish captivity 1779-1781; again in Jamaica 1781-1785, ultimately as physician-general; settled in Edinburgh 1788 (1786?); visited Barbados 1796-1798; from 1798 again in Edinburgh. (*W. Wright*).
+Wright, William (1735-1819), British physician and botanist; studied medicine at Edinburgh University; to Greenland 1757; surgeon's mate in the British navy 1758-1763, visiting e.g. Jamaica; MD St. Andrews; practicing physician on Jamaica 1764-1777; in London 1777-1779; regimental surgeon in the Jamaican regiment 1779; in Spanish captivity 1779-1781; again in Jamaica 1781-1785, ultimately as physician-general; settled in Edinburgh 1788 (1786?); visited Barbados 1796-1798; from 1798 again in Edinburgh. 
+**Abbreviated name**: *W. Wright*
 
 #### Herbarium and types
 

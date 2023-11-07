@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/103253#page/409/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33068625) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ilse, Hugo (1835-1900), German botanist and forester at Oderberg (1867), Trier (1868), Hohenheide/Stettin (1870), Pfalzburg (1870). (*Ilse*).
+Ilse, Hugo (1835-1900), German botanist and forester at Oderberg (1867), Trier (1868), Hohenheide/Stettin (1870), Pfalzburg (1870). 
+**Abbreviated name**: *Ilse*
 
 #### Herbarium and types
 

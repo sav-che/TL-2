@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/104077#page/76/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33333201) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sartwell, Henry Parker (1792-1867), American botanist and physician; lic. med. Oneida County Med. Soc. 1811; practicing at New Hartford, New York 1811-1812, after the 1812 war at Springfield, N.Y. and Bethel; ultimately (1832-1867) at Penn Yang, N.Y.; Dr. phil. h.c. Hamilton College, Clinton, N.Y. 1864. (*Sartwell*).
+Sartwell, Henry Parker (1792-1867), American botanist and physician; lic. med. Oneida County Med. Soc. 1811; practicing at New Hartford, New York 1811-1812, after the 1812 war at Springfield, N.Y. and Bethel; ultimately (1832-1867) at Penn Yang, N.Y.; Dr. phil. h.c. Hamilton College, Clinton, N.Y. 1864. 
+**Abbreviated name**: *Sartwell*
 
 #### Herbarium and types
 

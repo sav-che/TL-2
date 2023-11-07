@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103860#page/360/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266027) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coppey, Amédée (1874-1913), French teacher and bryologist, born at Dampierre-les-Conflans, Haute-Saône, "Boursier" at the Faculté de Besançon 1898-1899 "licencié" of the natural and physic sciences, at Paris 1899-1901, "agrégation" of natural science, teacher at the Lycée de la Rochelle, ultimately at the Lycée de Nancy. (*Copp.*).
+Coppey, Amédée (1874-1913), French teacher and bryologist, born at Dampierre-les-Conflans, Haute-Saône, "Boursier" at the Faculté de Besançon 1898-1899 "licencié" of the natural and physic sciences, at Paris 1899-1901, "agrégation" of natural science, teacher at the Lycée de la Rochelle, ultimately at the Lycée de Nancy. 
+**Abbreviated name**: *Copp.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/item/104137#page/562/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moldenhawer, Johann Jacob Paul (1766-1827), German botanist; born at Hamburg; professor of botany at Kiel University and director of the Düsternbrook forestry school (*Moldenh.*).
+Moldenhawer, Johann Jacob Paul (1766-1827), German botanist; born at Hamburg; professor of botany at Kiel University and director of the Düsternbrook forestry school 
+**Abbreviated name**: *Moldenh.*
 
 #### Herbarium and types
 

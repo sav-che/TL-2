@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/item/103414#page/891/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33120974) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fleischer, Johann Gottlieb (Theophilus) (1797-1838), German physician and botanist at Mitau. (*J. Fleisch.*).
+Fleischer, Johann Gottlieb (Theophilus) (1797-1838), German physician and botanist at Mitau. 
+**Abbreviated name**: *J. Fleisch.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/item/103414#page/701/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33120784) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dietrich, Friedrich Gottlieb {std. F. Dietr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dietrich, Friedrich Gottlieb (1768-1850), German botanist and "Gartendirektor." (*F. Dietr.*).
+Dietrich, Friedrich Gottlieb (1768-1850), German botanist and "Gartendirektor." 
+**Abbreviated name**: *F. Dietr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103860#page/207/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33265874) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clautriau, Georges (1863-1900), Belgian botanist, born at Marchienne-au-Pont 1863, educated at the "collège communal" of Charleroi 1874-1880, studied at the University of Brussels 1880, pharmacist 1883, Dr. sci. ib. 1887, from 1887 in charge of the pharmacy at Marchienne-au-Pont, studied briefly in Groningen, Netherlands, with Moll, travelled in Java and Ceylon 1896-1897, ultimately assistant at the Botanical Institute of the University of Brussels, died at Davos, Switzerland. (*Clautriau*).
+Clautriau, Georges (1863-1900), Belgian botanist, born at Marchienne-au-Pont 1863, educated at the "collège communal" of Charleroi 1874-1880, studied at the University of Brussels 1880, pharmacist 1883, Dr. sci. ib. 1887, from 1887 in charge of the pharmacy at Marchienne-au-Pont, studied briefly in Groningen, Netherlands, with Moll, travelled in Java and Ceylon 1896-1897, ultimately assistant at the Botanical Institute of the University of Brussels, died at Davos, Switzerland. 
+**Abbreviated name**: *Clautriau*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/item/103253#page/528/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33068744) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Karsten, Petter \[Peter\] Adolf (1834-1917), Finnish mycologist; Ph. D. Helsinki 1859; teacher at the Wasa Gymnasium 1862-1864; lecturer in botany at Mustiala agricultural college 1864-1908; later in Forssa. (*P. Karst.*).
+Karsten, Petter \[Peter\] Adolf (1834-1917), Finnish mycologist; Ph. D. Helsinki 1859; teacher at the Wasa Gymnasium 1862-1864; lecturer in botany at Mustiala agricultural college 1864-1908; later in Forssa. 
+**Abbreviated name**: *P. Karst.*
 
 #### Herbarium and types
 

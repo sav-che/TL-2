@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103624#page/474/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rabenau, \[Benno Carl August\] Hugo von (1845-1921), German (Prussian) botanist at Görlitz, Oberlausitz; studied in Bern, Leipzig and Halle; participated in the 1870/71 Franco-Prussian war; Dr. phil. Göttingen 1874; high school teacher (girls school) at Görlitz 1875-1885; living in New York and Hoboken 1885-1895 as chemical analyst; curator of the museum of the Naturf. Ges. Görlitz from 1895-1901; perpetual director 1901-1921. (*Rabenau*).
+Rabenau, \[Benno Carl August\] Hugo von (1845-1921), German (Prussian) botanist at Görlitz, Oberlausitz; studied in Bern, Leipzig and Halle; participated in the 1870/71 Franco-Prussian war; Dr. phil. Göttingen 1874; high school teacher (girls school) at Görlitz 1875-1885; living in New York and Hoboken 1885-1895 as chemical analyst; curator of the museum of the Naturf. Ges. Görlitz from 1895-1901; perpetual director 1901-1921. 
+**Abbreviated name**: *Rabenau*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/item/103414#page/1002/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33121085) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gloxin, Benjamin Peter (*fl*. 1785), Alsatian botanist and physician at Colmar. (*Gloxin*).
+Gloxin, Benjamin Peter (*fl*. 1785), Alsatian botanist and physician at Colmar. 
+**Abbreviated name**: *Gloxin*
 
 #### Herbarium and types
 

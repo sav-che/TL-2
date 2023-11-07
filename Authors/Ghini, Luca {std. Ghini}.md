@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/item/103414#page/987/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ghini, Luca (1490-1556), Italian physician and botanist. (*Ghini*).
+Ghini, Luca (1490-1556), Italian physician and botanist. 
+**Abbreviated name**: *Ghini*
 
 #### Herbarium and types
 

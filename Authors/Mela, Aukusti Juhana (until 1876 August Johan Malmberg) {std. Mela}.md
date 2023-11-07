@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/item/104137#page/424/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33355495) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mela, Aukusti Juhana (until 1876 August Johan Malmberg) (1846-1904), Finnish zoologist and botanist; high school teacher in Helsinki; active promoter of Finnish culture and language. (*Mela*).
+Mela, Aukusti Juhana (until 1876 August Johan Malmberg) (1846-1904), Finnish zoologist and botanist; high school teacher in Helsinki; active promoter of Finnish culture and language. 
+**Abbreviated name**: *Mela*
 
 #### Herbarium and types
 

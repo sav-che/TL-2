@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/item/103414#page/916/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33120999) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[González Fragoso (Gonzales Fragoso), Romualdo {std. Gonz. Frag.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fragoso, Romualdo Gonzalez (1862-1928), Spanish mycologist at the Madrid botanical garden. (*Gonz. Frag.*).
+Fragoso, Romualdo Gonzalez (1862-1928), Spanish mycologist at the Madrid botanical garden. 
+**Abbreviated name**: *Gonz. Frag.*
 
 #### Herbarium and types
 

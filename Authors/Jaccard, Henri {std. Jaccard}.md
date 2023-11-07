@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103253#page/419/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33068635) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaccard, Henri (1844-1922), Swiss botanist, high school teacher at Morges (1868-1872) and Aigle (1872-1915); from 1915 at Lausanne. (*Jaccard*).
+Jaccard, Henri (1844-1922), Swiss botanist, high school teacher at Morges (1868-1872) and Aigle (1872-1915); from 1915 at Lausanne. 
+**Abbreviated name**: *Jaccard*
 
 #### Herbarium and types
 

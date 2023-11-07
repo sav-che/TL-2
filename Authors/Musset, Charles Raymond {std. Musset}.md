@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/item/104137#page/691/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33355762) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Musset, Charles Raymond (1826-1892), French botanist at Toulouse; from 1878-1883 lecturer, 1883-1892 professor of botany at the Faculté des Sciences, Grenoble. (*Musset*).
+Musset, Charles Raymond (1826-1892), French botanist at Toulouse; from 1878-1883 lecturer, 1883-1892 professor of botany at the Faculté des Sciences, Grenoble. 
+**Abbreviated name**: *Musset*
 
 #### Herbarium and types
 

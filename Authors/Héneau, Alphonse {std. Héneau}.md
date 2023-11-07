@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103253#page/180/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Héneau, Alphonse (*fl*. 1889), Belgian botanist and teacher at Bruxelles. (*Héneau*).
+Héneau, Alphonse (*fl*. 1889), Belgian botanist and teacher at Bruxelles. 
+**Abbreviated name**: *Héneau*
 
 #### Herbarium and types
 

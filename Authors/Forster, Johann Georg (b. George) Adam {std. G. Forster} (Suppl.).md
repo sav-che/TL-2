@@ -1,4 +1,4 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103834#page/347/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33259829) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forster, Johann Georg Adam {std. G. Forster}|first entry]] for Johann Georg
@@ -8,7 +8,8 @@
 
 ### Author
 
-\* Forster, Johann Georg \[b. George!\] Adam (1754-1794), German explorer and botanist, born 27 Dec 1754, son of J.R. Forster whom he accompanied to Russia, England and on Capt. J. Cook's second voyage (1772-1775), died 10 Jan 1794 in Paris. (*G. Forst.*). 
+\* Forster, Johann Georg \[b. George!\] Adam (1754-1794), German explorer and botanist, born 27 Dec 1754, son of J.R. Forster whom he accompanied to Russia, England and on Capt. J. Cook's second voyage (1772-1775), died 10 Jan 1794 in Paris. 
+**Abbreviated name**: *G. Forst.*
 
 **and**
 

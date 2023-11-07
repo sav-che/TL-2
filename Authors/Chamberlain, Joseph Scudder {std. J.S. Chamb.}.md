@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103860#page/57/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chamberlain, Joseph Scudder (1870-x), American chemist and botanist, born 7 Mar 1870, Hudson, Ohio, B.S. Iowa State College 1890, M.S. 1892, instructor 1894-1897, fellow Hopkins 1898-1899, Ph. D. 1899, Oberlin College 1899-1901, U.S.D.A. 1901-1909, at Berlin 1909, Mass. State College 1909-1913, 1913-1934 dept., head also 1928-1934, at Oxford 1930-1931, Goessmann prof. chem. 1934-1940, emer. prof. 1940-x. (*J.S. Chamb.*).
+Chamberlain, Joseph Scudder (1870-x), American chemist and botanist, born 7 Mar 1870, Hudson, Ohio, B.S. Iowa State College 1890, M.S. 1892, instructor 1894-1897, fellow Hopkins 1898-1899, Ph. D. 1899, Oberlin College 1899-1901, U.S.D.A. 1901-1909, at Berlin 1909, Mass. State College 1909-1913, 1913-1934 dept., head also 1928-1934, at Oxford 1930-1931, Goessmann prof. chem. 1934-1940, emer. prof. 1940-x. 
+**Abbreviated name**: *J.S. Chamb.*
 
 #### Herbarium and types
 

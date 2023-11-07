@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/104137#page/248/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33355319) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macoun, James Melville \["Jim"\] (1862-1920), Canadian botanist and geologist with the Geological Survey of Canada (1883-1898 assistant botanist; 1898-1917 assistant naturalist; 1917-1920 botanist); son of John Macoun. (*J. M. Macoun*).
+Macoun, James Melville \["Jim"\] (1862-1920), Canadian botanist and geologist with the Geological Survey of Canada (1883-1898 assistant botanist; 1898-1917 assistant naturalist; 1917-1920 botanist); son of John Macoun. 
+**Abbreviated name**: *J. M. Macoun*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103414#page/410/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33120493) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broussonet, Pierre Marie Auguste (1761-1807), French botanist and zoologist at Montpellier, collector in Morocco (1794-1975, 1797-1799), and the Canary Islands (1799-1803) later professor at the Montpellier medical school and director of its botanical garden. (*Brouss.*).
+Broussonet, Pierre Marie Auguste (1761-1807), French botanist and zoologist at Montpellier, collector in Morocco (1794-1975, 1797-1799), and the Canary Islands (1799-1803) later professor at the Montpellier medical school and director of its botanical garden. 
+**Abbreviated name**: *Brouss.*
 
 #### Herbarium and types
 

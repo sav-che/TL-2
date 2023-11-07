@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/item/103860#page/497/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33266164) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crugnola, Gaetano (1850-1910), Italian botanist, born in Induno Olona, engineer in the Provincial Office at Teramo, died in Induno Olona 6 Sep 1910. (*Crugnola*).
+Crugnola, Gaetano (1850-1910), Italian botanist, born in Induno Olona, engineer in the Provincial Office at Teramo, died in Induno Olona 6 Sep 1910. 
+**Abbreviated name**: *Crugnola*
 
 #### Herbarium and types
 

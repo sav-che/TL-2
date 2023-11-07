@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/103253#page/490/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jovet, Paul Albert (1896-x), French botanist, specialized in the flora of W. and S.W. France. (*Jovet*).
+Jovet, Paul Albert (1896-x), French botanist, specialized in the flora of W. and S.W. France. 
+**Abbreviated name**: *Jovet*
 
 #### Herbarium and types
 

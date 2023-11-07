@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103858#page/193/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33264908) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arvet-Touvet, Jean Maurice Casimir {std. Arv.-Touv.}|first entry]] for this author
 
 ### Author
 
-\* Arvet-Touvet, \[Jean Maurice\] Casimir (1841-1913), French winegrower and hieraciologist at Gières-Uriage, near Grenoble (*Arv.-Touv.*).
+\* Arvet-Touvet, \[Jean Maurice\] Casimir (1841-1913), French winegrower and hieraciologist at Gières-Uriage, near Grenoble 
+**Abbreviated name**: *Arv.-Touv.*
 
 #### Herbarium and types
 

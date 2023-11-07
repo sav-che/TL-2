@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/item/104137#page/773/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33355844) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Niven, \[David\] James (1774-1826), Scottish gardener at Edinburgh and Syon House, Middlesex; collected in South Africa 1798-1812. (*Niven*).
+Niven, \[David\] James (1774-1826), Scottish gardener at Edinburgh and Syon House, Middlesex; collected in South Africa 1798-1812. 
+**Abbreviated name**: *Niven*
 
 #### Herbarium and types
 

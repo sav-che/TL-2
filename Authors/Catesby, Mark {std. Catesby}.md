@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/103414#page/517/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Catesby, Mark (1683-1749), English traveller and naturalist, in Virginia 1712-1719, Carolina etc. 1722-1726. (*Catesby*).
+Catesby, Mark (1683-1749), English traveller and naturalist, in Virginia 1712-1719, Carolina etc. 1722-1726. 
+**Abbreviated name**: *Catesby*
 
 #### Herbarium and types
 

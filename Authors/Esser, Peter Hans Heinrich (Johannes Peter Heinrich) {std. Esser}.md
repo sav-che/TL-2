@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/103835#page/423/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33260401) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Esser, Peter Hans Heinrich (Johannes Peter Heinrich) (1859-?), German botanist, born 29 Mai 1859 at Düren, visited elementary school and gymnasium at Düren and Gymnasium Theodorianum at Paderborn 1881-1883, studied natural sciences at Bonn especially botany, Dr. phil. Bonn 1887, teacher gymnasium Köln 1889-1893, director of the botanical garden at Köln-Riehl 1892-1928. (*Esser*).
+Esser, Peter Hans Heinrich (Johannes Peter Heinrich) (1859-?), German botanist, born 29 Mai 1859 at Düren, visited elementary school and gymnasium at Düren and Gymnasium Theodorianum at Paderborn 1881-1883, studied natural sciences at Bonn especially botany, Dr. phil. Bonn 1887, teacher gymnasium Köln 1889-1893, director of the botanical garden at Köln-Riehl 1892-1928. 
+**Abbreviated name**: *Esser*
 
 #### Herbarium and types
 

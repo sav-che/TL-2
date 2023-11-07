@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103834#page/423/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33259905) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Frémy, Pierre (Abbé) {std. Frémy}|first entry]] for this author
 
 ### Author
 
-\* Frémy, Pierre (Abbé) (1880-1944), French priest and algologist, born 13 Jul 1880 in Lessay (Manche), attended the seminary 1899-1905, but after his theological studies became more interested in natural history, esp. algology, Lic. ès-sciences 1909, published his thesis in 1930 (see TL-2/1, nr. 1835) which received the Prix Montagne, prof., Institut Libre, St.-Lô (Manche), lived at Mesnil-Rouxelin nr. St.-Lô where he died 14 Jun 1944 from injuries after his house was destroyed in the night of 6-7 Jun 1944 during the Allied invasion of France in W.W.-II. (*Frémy*).
+\* Frémy, Pierre (Abbé) (1880-1944), French priest and algologist, born 13 Jul 1880 in Lessay (Manche), attended the seminary 1899-1905, but after his theological studies became more interested in natural history, esp. algology, Lic. ès-sciences 1909, published his thesis in 1930 (see TL-2/1, nr. 1835) which received the Prix Montagne, prof., Institut Libre, St.-Lô (Manche), lived at Mesnil-Rouxelin nr. St.-Lô where he died 14 Jun 1944 from injuries after his house was destroyed in the night of 6-7 Jun 1944 during the Allied invasion of France in W.W.-II. 
+**Abbreviated name**: *Frémy*
 
 #### Herbarium and types
 

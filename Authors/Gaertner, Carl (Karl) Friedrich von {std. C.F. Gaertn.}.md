@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/item/103414#page/948/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/page/33121031) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gaertner (Gärtner), Carl (Karl) Friedrich (von) {std. C.F. Gaertn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gaertner, Carl (Karl) Friedrich von (1772-1850), German physician and botanist at Calw. (*C. F. Gaertn.*).
+Gaertner, Carl (Karl) Friedrich von (1772-1850), German physician and botanist at Calw. 
+**Abbreviated name**: *C. F. Gaertn.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/item/103414#page/707/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33120790) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dippel, Leopold {std. Dippel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dippel, Leopold (1827-1914), German botanist at Darmstadt. (*Dippel*).
+Dippel, Leopold (1827-1914), German botanist at Darmstadt. 
+**Abbreviated name**: *Dippel*
 
 #### Herbarium and types
 

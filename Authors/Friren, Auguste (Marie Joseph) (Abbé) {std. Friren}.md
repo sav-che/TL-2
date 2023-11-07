@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103832#page/53/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33258481) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Friren, Auguste \[Marie Joseph\] (Abbé) (1837-1916), French priest interested in geology and bryology, born 24 Oct 1837 in Thionville (Moselle), studied in Nancy and then at the Seminary in Metz, among other positions was chaplain ("aumônier") of the Pensionnat des Dames du Sacré-Coeur in Montigny-lès-Metz (Moselle) 1865-1873, and prof. of mathematics and physics at the Petit Séminaire of Sainte-Constance from 1873, retired 1915, died 18 Apr 1916 in Metz (Moselle). (*Friren*).
+Friren, Auguste \[Marie Joseph\] (Abbé) (1837-1916), French priest interested in geology and bryology, born 24 Oct 1837 in Thionville (Moselle), studied in Nancy and then at the Seminary in Metz, among other positions was chaplain ("aumônier") of the Pensionnat des Dames du Sacré-Coeur in Montigny-lès-Metz (Moselle) 1865-1873, and prof. of mathematics and physics at the Petit Séminaire of Sainte-Constance from 1873, retired 1915, died 18 Apr 1916 in Metz (Moselle). 
+**Abbreviated name**: *Friren*
 
 #### Herbarium and types
 

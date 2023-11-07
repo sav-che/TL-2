@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/item/103253#page/613/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koch, Georg Friedrich (1808)-1874), German physician and botanist in the Pfaltz (Dürkheim, Wachenheim, Sembach, Waldmohr). (*G. Koch*).
+Koch, Georg Friedrich (1808)-1874), German physician and botanist in the Pfaltz (Dürkheim, Wachenheim, Sembach, Waldmohr). 
+**Abbreviated name**: *G. Koch*
 
 #### Herbarium and types
 

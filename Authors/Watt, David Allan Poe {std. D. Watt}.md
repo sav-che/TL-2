@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103250#page/167/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33066447) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watt, David Allan Poe (1830-1917), British-born Canadian naturalist at Montreal. (*D. Watt*).
+Watt, David Allan Poe (1830-1917), British-born Canadian naturalist at Montreal. 
+**Abbreviated name**: *D. Watt*
 
 #### Herbarium and types
 

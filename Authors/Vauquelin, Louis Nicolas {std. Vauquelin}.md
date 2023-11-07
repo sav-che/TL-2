@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/item/103683#page/694/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33212726) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vauquelin, Louis Nicolas (1763-1829), French chemist and pharmacist; studied at Rouen and Paris; pharmacist at a hospital in Melun 1793; inspector of mines and assistant professor of chemistry at the École polytechnique, Paris 1794; later professor of chemistry at the Collège de France and at the Muséum d'Histoire naturelle and from 1811 at the Faculté des Sciences. (*Vauquelin*).
+Vauquelin, Louis Nicolas (1763-1829), French chemist and pharmacist; studied at Rouen and Paris; pharmacist at a hospital in Melun 1793; inspector of mines and assistant professor of chemistry at the École polytechnique, Paris 1794; later professor of chemistry at the Collège de France and at the Muséum d'Histoire naturelle and from 1811 at the Faculté des Sciences. 
+**Abbreviated name**: *Vauquelin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/item/103624#page/843/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33190300) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rodin, Hippolyte (1829-1886\[?\]), French botanist and pharmacist at Beauvais; secretary of the Société d'Agriculture et d'Horticulture de Beauvais (Seine-et-Oise). (*Rodin*).
+Rodin, Hippolyte (1829-1886\[?\]), French botanist and pharmacist at Beauvais; secretary of the Société d'Agriculture et d'Horticulture de Beauvais (Seine-et-Oise). 
+**Abbreviated name**: *Rodin*
 
 #### Herbarium and types
 

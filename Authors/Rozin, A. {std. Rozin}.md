@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 966](https://www.biodiversitylibrary.org/item/103624#page/980/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 966](https://www.biodiversitylibrary.org/page/33190437) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rozin, A., (*fl*. 1791), Belgian (Liège) botanist and physician. (*Rozin*).
+Rozin, A., (*fl*. 1791), Belgian (Liège) botanist and physician. 
+**Abbreviated name**: *Rozin*
 
 #### Herbarium and types
 

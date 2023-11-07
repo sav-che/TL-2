@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103250#page/209/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33066489) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weigel, Christian Ehrenfried \[after 1806 von Weigel\] (1748-1831), German (Mecklenburg) botanist and chemist; Dr. med. Göttingen 1771; lecturer and supervisor of the botanical garden Greifswald 1772; professor of chemistry and pharmacy and director of the botanical garden Greifswald 1775-1831. (*Weigel*).
+Weigel, Christian Ehrenfried \[after 1806 von Weigel\] (1748-1831), German (Mecklenburg) botanist and chemist; Dr. med. Göttingen 1771; lecturer and supervisor of the botanical garden Greifswald 1772; professor of chemistry and pharmacy and director of the botanical garden Greifswald 1775-1831. 
+**Abbreviated name**: *Weigel*
 
 #### Herbarium and types
 

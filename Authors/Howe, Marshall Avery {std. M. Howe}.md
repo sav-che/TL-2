@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/item/103253#page/373/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33068589) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howe, Marshall Avery (1867-1936), American botanist; specialist on hepatics, marine algae and dahlias; instructor in cryptogamic botany at Berkeley 1891-1896; curator of the herbarium of Columbia college 1899-1901; Ph. D. Columbia 1898; subsequently curator (1902-1922), assistant director (1923-1935) and director (July 1935) of the New York Botanical Garden. (*M. Howe*).
+Howe, Marshall Avery (1867-1936), American botanist; specialist on hepatics, marine algae and dahlias; instructor in cryptogamic botany at Berkeley 1891-1896; curator of the herbarium of Columbia college 1899-1901; Ph. D. Columbia 1898; subsequently curator (1902-1922), assistant director (1923-1935) and director (July 1935) of the New York Botanical Garden. 
+**Abbreviated name**: *M. Howe*
 
 #### Herbarium and types
 

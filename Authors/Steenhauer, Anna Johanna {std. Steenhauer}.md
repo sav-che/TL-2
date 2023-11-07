@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/item/104077#page/873/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33333998) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steenhauer, Anna Johanna (*fi*. 1919), Dutch pharmacist; Dr. phil. Leiden 1919. (*Steenhauer*).
+Steenhauer, Anna Johanna (*fi*. 1919), Dutch pharmacist; Dr. phil. Leiden 1919. 
+**Abbreviated name**: *Steenhauer*
 
 #### Herbarium and types
 

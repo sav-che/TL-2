@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/104077#page/152/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33333277) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schenk, Ernst (1796-1859), German (Thüringian) botanist and botanical artist, "akademischer Zeichnenlehrer" in Jena. (*E. Schenk*).
+Schenk, Ernst (1796-1859), German (Thüringian) botanist and botanical artist, "akademischer Zeichnenlehrer" in Jena. 
+**Abbreviated name**: *E. Schenk*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103861#page/473/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33266770) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Catlow, Agnes (1807\[?\]-1889), British botanist and entomologist, died Addlestone, Surrey 10 Mai 1889. (*Catlow*).
+Catlow, Agnes (1807\[?\]-1889), British botanist and entomologist, died Addlestone, Surrey 10 Mai 1889. 
+**Abbreviated name**: *Catlow*
 
 #### Herbarium and types
 

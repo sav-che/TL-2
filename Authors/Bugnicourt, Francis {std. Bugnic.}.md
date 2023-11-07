@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103861#page/222/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33266519) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bugnicourt, Francis (fl. 1939), French mycologist and phytopathologist, Ingénieur d'Agronomie coloniale, Ingénieur agricole, Docteur ès Sciences, mycologist at the Institut des Recherches agronomiques de l'Indochine in Saigon. (*Bugnic.*).
+Bugnicourt, Francis (fl. 1939), French mycologist and phytopathologist, Ingénieur d'Agronomie coloniale, Ingénieur agricole, Docteur ès Sciences, mycologist at the Institut des Recherches agronomiques de l'Indochine in Saigon. 
+**Abbreviated name**: *Bugnic.*
 
 #### Herbarium and types
 

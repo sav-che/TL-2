@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103683#page/163/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33212195) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Takeda, Hisayoshi (1883-1972), Japanese botanist; graduated from Engineering Department, King's College, London 1912; instructor at Taihoku Univ., Kyushu Univ., King's College, Kyoto Univ., after 1945 agricultural adviser to the Natural Resources Bureau, Japan. (*Takeda*).
+Takeda, Hisayoshi (1883-1972), Japanese botanist; graduated from Engineering Department, King's College, London 1912; instructor at Taihoku Univ., Kyushu Univ., King's College, Kyoto Univ., after 1945 agricultural adviser to the Natural Resources Bureau, Japan. 
+**Abbreviated name**: *Takeda*
 
 #### Herbarium and types
 

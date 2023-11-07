@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1057](https://www.biodiversitylibrary.org/item/103624#page/1071/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1057](https://www.biodiversitylibrary.org/page/33190528) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sahlberg, Carl Reinhold (1779-1860), Finnish botanist; med. lic. Turku (Åbo) 1810; adjunct for medicine and demonstrator for botany at Turku 1810-1813; adjunct for natural history and museum inspector ib. 1813-1818; professor of natural history 1818-1828; moved with the university after the great Turku fire of 1827 to Helsinki in the same function until 1840, also in charge of the establishment (1833) and development of a university botanical garden (*C. Sahlberg*).
+Sahlberg, Carl Reinhold (1779-1860), Finnish botanist; med. lic. Turku (Åbo) 1810; adjunct for medicine and demonstrator for botany at Turku 1810-1813; adjunct for natural history and museum inspector ib. 1813-1818; professor of natural history 1818-1828; moved with the university after the great Turku fire of 1827 to Helsinki in the same function until 1840, also in charge of the establishment (1833) and development of a university botanical garden 
+**Abbreviated name**: *C. Sahlberg*
 
 #### Herbarium and types
 

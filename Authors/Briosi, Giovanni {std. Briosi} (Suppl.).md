@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103861#page/88/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33266385) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Briosi, Giovanni {std. Briosi}|first entry]] for this author
 
 ### Author
 
-\* Briosi, Giovanni (1846-1919), Italian botanist, born at Ferrara, originally trained as an engineer, later dedicating himself to botany, private lecturer at the University of Rome 1879, also director of the Agricultural Station in Rome, 1883 professor of botany at the University of Pavia and director of the Pavia Botanical Garden. (*Briosi*).
+\* Briosi, Giovanni (1846-1919), Italian botanist, born at Ferrara, originally trained as an engineer, later dedicating himself to botany, private lecturer at the University of Rome 1879, also director of the Agricultural Station in Rome, 1883 professor of botany at the University of Pavia and director of the Pavia Botanical Garden. 
+**Abbreviated name**: *Briosi*
 
 #### Herbarium and types
 

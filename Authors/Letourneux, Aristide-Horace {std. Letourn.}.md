@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/item/103253#page/884/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Letourneux, Aristide-Horace (1820-1890), French magistrate, botanist and malacologist in Algeria (1851-1876, 1881-1890) and at Alexandria (1876-1881); collaborator of Cosson. (*Letourn.*).
+Letourneux, Aristide-Horace (1820-1890), French magistrate, botanist and malacologist in Algeria (1851-1876, 1881-1890) and at Alexandria (1876-1881); collaborator of Cosson. 
+**Abbreviated name**: *Letourn.*
 
 #### Herbarium and types
 

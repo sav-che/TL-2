@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103833#page/121/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33259155) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davy de Virville, Adrien (1895-1967), French botanist born at Laval, studied at Paris especially plant-biology, Dr. ès Sciences d' État at the Sorbonne in 1927, with the "Mayenne Sciences" 1928-1944, from 1946 "Chef travaux pratiques biol.-vég.", interested mainly in marine algues. (*Davy de Virville*).
+Davy de Virville, Adrien (1895-1967), French botanist born at Laval, studied at Paris especially plant-biology, Dr. ès Sciences d' État at the Sorbonne in 1927, with the "Mayenne Sciences" 1928-1944, from 1946 "Chef travaux pratiques biol.-vég.", interested mainly in marine algues. 
+**Abbreviated name**: *Davy de Virville*
 
 #### Herbarium and types
 

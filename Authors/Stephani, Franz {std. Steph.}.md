@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/item/104077#page/903/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33334028) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stephani, Franz (1842-1927), German (Berlin) botanist (hepaticologist), from 1859-1863 and 1867-1868 employee, from 1868-1869 director of a woollen yarn spinning mill at Dessau, travelling in Europe 1863-1864; in New York for further professional training 1864-1866; merchant in Waldkirchen (Erzgebirge, Saxonia) 1869-1880; director of a wholesale toys store in Leipzig 1880-1884; from 1884-1907 with the publishing house Julius Klinghardt, Leipzig, from 1889 as confidential clerk; from 1907 in retirement at Leipzig, at Oetsch nr Leipzig 1910-1927. (*Steph.*).
+Stephani, Franz (1842-1927), German (Berlin) botanist (hepaticologist), from 1859-1863 and 1867-1868 employee, from 1868-1869 director of a woollen yarn spinning mill at Dessau, travelling in Europe 1863-1864; in New York for further professional training 1864-1866; merchant in Waldkirchen (Erzgebirge, Saxonia) 1869-1880; director of a wholesale toys store in Leipzig 1880-1884; from 1884-1907 with the publishing house Julius Klinghardt, Leipzig, from 1889 as confidential clerk; from 1907 in retirement at Leipzig, at Oetsch nr Leipzig 1910-1927. 
+**Abbreviated name**: *Steph.*
 
 #### Herbarium and types
 

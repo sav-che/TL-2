@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103859#page/379/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33265566) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bose, G.C. (fl. 1920), principal and professor of botany, Bangabasi College, Calcutta. (*G.C. Bose*).
+Bose, G.C. (fl. 1920), principal and professor of botany, Bangabasi College, Calcutta. 
+**Abbreviated name**: *G.C. Bose*
 
 #### Herbarium and types
 

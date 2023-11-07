@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103414#page/433/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bruttan, Andreas {std. Bruttan} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bruttan, Andreas (1829-1893), Esthonian highschool teacher and cryptogamist at Dorpat. (*Bruttan*).
+Bruttan, Andreas (1829-1893), Esthonian highschool teacher and cryptogamist at Dorpat. 
+**Abbreviated name**: *Bruttan*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103858#page/400/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33265115) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baumgärtel, Otto (x-1919), German botanist, assistant at the Botanical Institute of the German University in Prague. (*Baumgärtel*).
+Baumgärtel, Otto (x-1919), German botanist, assistant at the Botanical Institute of the German University in Prague. 
+**Abbreviated name**: *Baumgärtel*
 
 #### Herbarium and types
 

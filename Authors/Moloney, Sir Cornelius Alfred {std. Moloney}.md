@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/item/104137#page/570/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moloney, Sir Cornelius Alfred (1848-1913), British colonial administrator in W. Africa from 1867; governor of Lagos 1887-1891; in the West Indies 1891-1904. (*Moloney*).
+Moloney, Sir Cornelius Alfred (1848-1913), British colonial administrator in W. Africa from 1867; governor of Lagos 1887-1891; in the West Indies 1891-1904. 
+**Abbreviated name**: *Moloney*
 
 #### Herbarium and types
 

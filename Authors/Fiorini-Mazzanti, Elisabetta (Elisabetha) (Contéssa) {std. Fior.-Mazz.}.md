@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103834#page/219/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259701) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fiorini-Mazzanti, Elisabetta \[Elisabetha\] (Contéssa) (1799-1879), Italian botanist, born 3 Jun 1799 in Terracina (Rome), student of Giovanni Battista Brocchi (prof. of natural sciences in Brescia), married in 1829 the lawyer Luca Mazzanti (d. 1841), lived in Rome but often returned to Terracina, was seriously ill during her last years, died 23 Apr 1879 in Rome. (*Fior.-Mazz.*).
+Fiorini-Mazzanti, Elisabetta \[Elisabetha\] (Contéssa) (1799-1879), Italian botanist, born 3 Jun 1799 in Terracina (Rome), student of Giovanni Battista Brocchi (prof. of natural sciences in Brescia), married in 1829 the lawyer Luca Mazzanti (d. 1841), lived in Rome but often returned to Terracina, was seriously ill during her last years, died 23 Apr 1879 in Rome. 
+**Abbreviated name**: *Fior.-Mazz.*
 
 #### Herbarium and types
 

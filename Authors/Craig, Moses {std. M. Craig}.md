@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/item/103860#page/451/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33266118) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Craig, Moses (1864-1913), American botanist and agriculturist, B.S. Ohio State University 1889, at Cornell University with M.S. 1890, sometime professor of botany at Oregon Agricultural College, ultimately curator of the herbarium of the Missouri Botanical Garden. (*M. Craig*).
+Craig, Moses (1864-1913), American botanist and agriculturist, B.S. Ohio State University 1889, at Cornell University with M.S. 1890, sometime professor of botany at Oregon Agricultural College, ultimately curator of the herbarium of the Missouri Botanical Garden. 
+**Abbreviated name**: *M. Craig*
 
 #### Herbarium and types
 

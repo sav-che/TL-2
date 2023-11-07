@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/item/103414#page/136/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33120219) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Backhouse, James Sr. {std. Backhouse} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Backhouse, James (1794-1869), British nurseryman and missionary of the Society of Friends who collected in the Southern Hemisphere 1831-1841. (*Backhouse*).
+Backhouse, James (1794-1869), British nurseryman and missionary of the Society of Friends who collected in the Southern Hemisphere 1831-1841. 
+**Abbreviated name**: *Backhouse*
 
 #### Herbarium and types
 

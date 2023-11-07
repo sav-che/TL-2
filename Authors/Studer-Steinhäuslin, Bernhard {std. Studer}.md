@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103683#page/66/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33212060) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Studer-Steinhäuslin, Bernhard (1847-1910), Swiss botanist (mycologist) and pharmacist at Bern; studied pharmacy at Bern and Wiesbaden; state examination pharmacy 1872; in his father's pharmacy in Bern from 1872, from 1877-1907 co-owner with Wilhelm Studer. (*Studer*).
+Studer-Steinhäuslin, Bernhard (1847-1910), Swiss botanist (mycologist) and pharmacist at Bern; studied pharmacy at Bern and Wiesbaden; state examination pharmacy 1872; in his father's pharmacy in Bern from 1872, from 1877-1907 co-owner with Wilhelm Studer. 
+**Abbreviated name**: *Studer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103860#page/320/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265987) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conti, Pascal \[Pasquale\] (1874-1898), Swiss botanist, born at Lugano, studied at Lugano and at the University of Lausanne, from 1895 at the University of Genève, assistant of R.-H. Chodat, died at Genève 2 Aug 1898. (*Conti*).
+Conti, Pascal \[Pasquale\] (1874-1898), Swiss botanist, born at Lugano, studied at Lugano and at the University of Lausanne, from 1895 at the University of Genève, assistant of R.-H. Chodat, died at Genève 2 Aug 1898. 
+**Abbreviated name**: *Conti*
 
 #### Herbarium and types
 

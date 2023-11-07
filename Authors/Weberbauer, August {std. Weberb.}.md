@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103250#page/194/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33066474) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weberbauer, August (1871-1948), German (Silesian) botanist and explorer; son of Otto Weberbauer; Dr. phil. Berlin (student of A. Engler) 1894; habil. Univ. Breslau 1898; collected in Peru 1901-1905, returned to Breslau 1905; director of the botanical garden and agricultural station at Victoria, Cameroon 1906-1907; director of the Parque zoológico y botánico de Lima, Peru 1908; professor of botany Universidad Nacional Mayor de San Marcos 1925, Botanico adscrito a la Estación experimental agrícola de la Molina 1932; professor of pharmaceutical botany, faculty of medical sciences Univ. San Marcos 1934. (*Weberb.*).
+Weberbauer, August (1871-1948), German (Silesian) botanist and explorer; son of Otto Weberbauer; Dr. phil. Berlin (student of A. Engler) 1894; habil. Univ. Breslau 1898; collected in Peru 1901-1905, returned to Breslau 1905; director of the botanical garden and agricultural station at Victoria, Cameroon 1906-1907; director of the Parque zoológico y botánico de Lima, Peru 1908; professor of botany Universidad Nacional Mayor de San Marcos 1925, Botanico adscrito a la Estación experimental agrícola de la Molina 1932; professor of pharmaceutical botany, faculty of medical sciences Univ. San Marcos 1934. 
+**Abbreviated name**: *Weberb.*
 
 #### Herbarium and types
 

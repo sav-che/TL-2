@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/item/104077#page/738/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33333863) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Solereder, Hans (1860-1920), German (Bavarian) botanist, especially plant anatomist; Dr. phil. München 1885, assistant at the München botanical institute 1886-1890; habil. 1888; curator at the Botanical Museum 1890-1901; extra-ordinary professor of botany 1899; professor of botany and director of the botanical garden at Erlangen 1901-1920. (*Soler.*).
+Solereder, Hans (1860-1920), German (Bavarian) botanist, especially plant anatomist; Dr. phil. München 1885, assistant at the München botanical institute 1886-1890; habil. 1888; curator at the Botanical Museum 1890-1901; extra-ordinary professor of botany 1899; professor of botany and director of the botanical garden at Erlangen 1901-1920. 
+**Abbreviated name**: *Soler.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103833#page/32/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33259066) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dahmen, M.C. (fl. 1937), Belgian botanist at Liège at the Laboratoire de Systématique. (*M. Dahmen*).
+Dahmen, M.C. (fl. 1937), Belgian botanist at Liège at the Laboratoire de Systématique. 
+**Abbreviated name**: *M. Dahmen*
 
 #### Herbarium and types
 

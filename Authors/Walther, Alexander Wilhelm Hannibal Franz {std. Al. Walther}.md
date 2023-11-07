@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103250#page/111/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33066391) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walther, Alexander Wilhelm Hannibal Franz (1813-1890), German (Bavarian/Oberfranken) physician and botanist at Bayreuth. (*Al. Walther*).
+Walther, Alexander Wilhelm Hannibal Franz (1813-1890), German (Bavarian/Oberfranken) physician and botanist at Bayreuth. 
+**Abbreviated name**: *Al. Walther*
 
 #### Herbarium and types
 

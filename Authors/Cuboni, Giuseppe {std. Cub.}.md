@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/item/103860#page/500/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33266167) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cuboni, Giuseppe (1852-1920), Italian botanist at Modena, born 2 Feb 1852 in Modena, died 3 Nov 1920 at Rome, studied four years medicine but De Notaris et al. brought him to botany, moving to Rome with De Notaris, Dr. phil. 1877 at the science faculty, assistant 1877-1881, teacher at the "Weinbauschule" at Conegliano 1881-1886, working in Rome from 1886 on botany and on plant diseases. (*Cub.*).
+Cuboni, Giuseppe (1852-1920), Italian botanist at Modena, born 2 Feb 1852 in Modena, died 3 Nov 1920 at Rome, studied four years medicine but De Notaris et al. brought him to botany, moving to Rome with De Notaris, Dr. phil. 1877 at the science faculty, assistant 1877-1881, teacher at the "Weinbauschule" at Conegliano 1881-1886, working in Rome from 1886 on botany and on plant diseases. 
+**Abbreviated name**: *Cub.*
 
 #### Herbarium and types
 

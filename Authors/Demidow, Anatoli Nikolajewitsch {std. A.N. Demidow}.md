@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/item/103414#page/668/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33120751) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Demidow, Anatoli Nikolajewitsch (1812-1870), Russian explorer and maecenas. (*A. N. Demidow*).
+Demidow, Anatoli Nikolajewitsch (1812-1870), Russian explorer and maecenas. 
+**Abbreviated name**: *A. N. Demidow*
 
 #### Herbarium and types
 

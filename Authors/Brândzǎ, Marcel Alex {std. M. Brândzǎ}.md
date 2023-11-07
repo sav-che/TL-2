@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103414#page/354/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33120437) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brândză, Marcel Alex {std. M. Brândzǎ} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brândzǎ, Marcel Alex (1868-1934), Roumanian mycologist. (*M. Brândzǎ*).
+Brândzǎ, Marcel Alex (1868-1934), Roumanian mycologist. 
+**Abbreviated name**: *M. Brândzǎ*
 
 #### Herbarium and types
 

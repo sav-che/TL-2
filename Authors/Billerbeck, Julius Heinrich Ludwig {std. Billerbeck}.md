@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103859#page/175/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265362) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Billerbeck, Julius Heinrich Ludwig (1772-1838 or later), German highschool teacher, classicus and botanist at Hildesheim. (*Billerbeck*).
+Billerbeck, Julius Heinrich Ludwig (1772-1838 or later), German highschool teacher, classicus and botanist at Hildesheim. 
+**Abbreviated name**: *Billerbeck*
 
 #### Herbarium and types
 

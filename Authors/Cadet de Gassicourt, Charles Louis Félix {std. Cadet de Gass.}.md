@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103861#page/306/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33266603) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cadet de Gassicourt, Charles Louis Félix (1789-1861), French botanist, living in Paris. (*Cadet de Gass.*).
+Cadet de Gassicourt, Charles Louis Félix (1789-1861), French botanist, living in Paris. 
+**Abbreviated name**: *Cadet de Gass.*
 
 #### Herbarium and types
 

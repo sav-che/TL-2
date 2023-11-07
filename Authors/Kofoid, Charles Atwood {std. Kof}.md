@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/item/103253#page/632/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33068848) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kofoid, Charles Atwood (1865-1947), American protozoologist and algologist of Danish descent; Ph. D. Harvard 1894; with Illinois nat. hist. survey 1894-1903; at Univ. California, Berkeley 1903-1936; assistant director San Diego zool. station 1907-1910; of La Jolla zool. station (later: Scripps) 1910-1923; professor of zoology at Berkeley 1904-1936. (*Kof*).
+Kofoid, Charles Atwood (1865-1947), American protozoologist and algologist of Danish descent; Ph. D. Harvard 1894; with Illinois nat. hist. survey 1894-1903; at Univ. California, Berkeley 1903-1936; assistant director San Diego zool. station 1907-1910; of La Jolla zool. station (later: Scripps) 1910-1923; professor of zoology at Berkeley 1904-1936. 
+**Abbreviated name**: *Kof*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/item/103624#page/578/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33190035) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raimann, Rudolf (1863-1896), Austrian botanist; professor of natural history at the "Handelsakademie" in Vienna. (*Raim.*).
+Raimann, Rudolf (1863-1896), Austrian botanist; professor of natural history at the "Handelsakademie" in Vienna. 
+**Abbreviated name**: *Raim.*
 
 #### Herbarium and types
 

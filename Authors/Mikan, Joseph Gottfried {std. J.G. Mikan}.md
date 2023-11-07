@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/104137#page/499/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33355570) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mikan, Joseph Gottfried (1743-1814), Bohemian (Czech) botanist at Praha; founder and director of the botanical garden in Smichow (Praha) 1775-1811; father of J. C. Mikan. (*J. G. Mikan*).
+Mikan, Joseph Gottfried (1743-1814), Bohemian (Czech) botanist at Praha; founder and director of the botanical garden in Smichow (Praha) 1775-1811; father of J. C. Mikan. 
+**Abbreviated name**: *J. G. Mikan*
 
 #### Herbarium and types
 

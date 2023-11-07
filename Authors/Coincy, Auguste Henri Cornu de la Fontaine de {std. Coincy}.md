@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/103414#page/568/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33120651) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coincy, Auguste Henri (Cornut de la Fontaine de) {std. Coincy} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Coincy, Auguste Henri Cornu de la Fontaine de, (1837-1903). French botanist. (*Coincy*).
+Coincy, Auguste Henri Cornu de la Fontaine de, (1837-1903). French botanist. 
+**Abbreviated name**: *Coincy*
 
 #### Herbarium and types
 

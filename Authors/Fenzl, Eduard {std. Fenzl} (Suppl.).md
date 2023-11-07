@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103834#page/154/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259636) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fenzl, Eduard {std. Fenzl}|first entry]] for this author
 
 ### Author
 
-\* Fenzl, Eduard (1808-1879), Austrian botanist, born 15 Feb 1808 in Krummnussbaum nr. Pöchlarn on the Danube, moved with his family to Dürrenstein 1817, at first schooled at home, then attended the gymnasium in Krems 1820-1825, studied medicine in Vienna, Dr. med. 1833, asst. to J.F. Jacquin until 1836, adjunct curator of the "Hof-Naturalien-Cabinet" 1836-1839, curator 1839, founded with S.F.L. Endlicher the Botanical Museum of Vienna Univ. 1845, Prof. of Botany 1849-1878, died 29 Sep 1879 in Vienna. (*Fenzl*).
+\* Fenzl, Eduard (1808-1879), Austrian botanist, born 15 Feb 1808 in Krummnussbaum nr. Pöchlarn on the Danube, moved with his family to Dürrenstein 1817, at first schooled at home, then attended the gymnasium in Krems 1820-1825, studied medicine in Vienna, Dr. med. 1833, asst. to J.F. Jacquin until 1836, adjunct curator of the "Hof-Naturalien-Cabinet" 1836-1839, curator 1839, founded with S.F.L. Endlicher the Botanical Museum of Vienna Univ. 1845, Prof. of Botany 1849-1878, died 29 Sep 1879 in Vienna. 
+**Abbreviated name**: *Fenzl*
 
 #### Note
 

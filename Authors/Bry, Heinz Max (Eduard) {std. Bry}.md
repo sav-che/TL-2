@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103861#page/179/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bry, Heinz Max \[Eduard\] (1904-x), German botanist, born in Koerth, Baruth, Kreis Jüterbog- Luckenwalde, Prussia, educated at schools in Koerth, at the Victoria Gymnasium, Potsdam 1919, id.at the Askanische Gymnasium, Berlin 1921-1923, pharmaceutical assistant 1923-1925, at the Friedrich-Wilhelms-Universität, Berlin 1926-1929, state pharmaceutical examination 1928, worked with Gilg and Diels at the Botanical Museum Berlin, Dr. phil. Berlin 1930. (*Bry*).
+Bry, Heinz Max \[Eduard\] (1904-x), German botanist, born in Koerth, Baruth, Kreis Jüterbog- Luckenwalde, Prussia, educated at schools in Koerth, at the Victoria Gymnasium, Potsdam 1919, id.at the Askanische Gymnasium, Berlin 1921-1923, pharmaceutical assistant 1923-1925, at the Friedrich-Wilhelms-Universität, Berlin 1926-1929, state pharmaceutical examination 1928, worked with Gilg and Diels at the Botanical Museum Berlin, Dr. phil. Berlin 1930. 
+**Abbreviated name**: *Bry*
 
 #### Herbarium and types
 

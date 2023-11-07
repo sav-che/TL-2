@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/103414#page/105/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33120188) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arber, Edward Alexander Newell {std. E. Arber} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arber, Edward Alexander Newell (1870-1918), palaeobotanist at Cambridge. (*E. Arber*).
+Arber, Edward Alexander Newell (1870-1918), palaeobotanist at Cambridge. 
+**Abbreviated name**: *E. Arber*
 
 #### Collections
 

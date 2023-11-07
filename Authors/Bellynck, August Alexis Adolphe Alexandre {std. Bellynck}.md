@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103414#page/218/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33120301) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bellynck, Auguste Alexis Adolphe Alexandre {std. Bellynck} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bellynck, August Alexis Adolphe Alexandre (1814-1877), Belgian jesuit and cryptogamist. (*Bellynck*).
+Bellynck, August Alexis Adolphe Alexandre (1814-1877), Belgian jesuit and cryptogamist. 
+**Abbreviated name**: *Bellynck*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103858#page/231/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33264946) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aznavour, Georges Vincent \[Aznavur, Jorj Vensan\] (1861-1920), Turkish-Armenian botanist at Istanbul, student of the flora around Istanbul. (*Aznavour*).
+Aznavour, Georges Vincent \[Aznavur, Jorj Vensan\] (1861-1920), Turkish-Armenian botanist at Istanbul, student of the flora around Istanbul. 
+**Abbreviated name**: *Aznavour*
 
 #### Herbarium and types
 

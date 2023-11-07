@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/item/103683#page/614/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33212646) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Unwin, William Charles (1811-1887), British ornithologist and entomologist at Lewes, Sussex. (*Unwin*).
+Unwin, William Charles (1811-1887), British ornithologist and entomologist at Lewes, Sussex. 
+**Abbreviated name**: *Unwin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/item/103253#page/567/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33068783) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Killias, Eduard (1829-1891), Swiss botanist, entomologist and physician in Chur, Le Prese (nr. Puschlaf), and Tarasp-Schuls (Nairs). (*Killias*).
+Killias, Eduard (1829-1891), Swiss botanist, entomologist and physician in Chur, Le Prese (nr. Puschlaf), and Tarasp-Schuls (Nairs). 
+**Abbreviated name**: *Killias*
 
 #### Herbarium and types
 

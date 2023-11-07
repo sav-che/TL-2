@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103861#page/217/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33266514) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Büren, Günther von (1889-?), Swiss (Bern) botanist, studied at the University of Bern with Ed. Fischer, Dr. phil. 1915 Bern. (*Büren*).
+Büren, Günther von (1889-?), Swiss (Bern) botanist, studied at the University of Bern with Ed. Fischer, Dr. phil. 1915 Bern. 
+**Abbreviated name**: *Büren*
 
 #### Herbarium and types
 

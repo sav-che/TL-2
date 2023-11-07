@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103683#page/20/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33212084) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stockmans, François (1904-x), Belgian botanist; "aide-naturaliste"; later director of the palaeontological department of the Brussels Museum of natural history and Laboratory director at the Institut royal des Sciences naturelles de Belgique; professor at the Université de Bruxelles. (*Stockmans*).
+Stockmans, François (1904-x), Belgian botanist; "aide-naturaliste"; later director of the palaeontological department of the Brussels Museum of natural history and Laboratory director at the Institut royal des Sciences naturelles de Belgique; professor at the Université de Bruxelles. 
+**Abbreviated name**: *Stockmans*
 
 #### Herbarium and types
 

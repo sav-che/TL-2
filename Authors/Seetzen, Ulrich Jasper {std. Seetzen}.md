@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/104077#page/497/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seetzen, Ulrich Jasper (1767-1811), German (Oldenburg) naturalist and traveller at Jever; Dr. phil. Göttingen 1789; traveller in the Orient and Africa 1802-1811. (*Seetzen*).
+Seetzen, Ulrich Jasper (1767-1811), German (Oldenburg) naturalist and traveller at Jever; Dr. phil. Göttingen 1789; traveller in the Orient and Africa 1802-1811. 
+**Abbreviated name**: *Seetzen*
 
 #### Herbarium and types
 

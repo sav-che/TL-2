@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103683#page/155/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33212187) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Szyszylowicz, Ignaz von (1857-1910), Polish botanist; volunteer assistant at the Hofmuseum Wien (W) 1885-1891; professor of botany and director of the Agricultural College at Lemberg (Lwow) 1891-1909; inspector of agricultural schools in Galicia 1898. (*Szysz.*).
+Szyszylowicz, Ignaz von (1857-1910), Polish botanist; volunteer assistant at the Hofmuseum Wien (W) 1885-1891; professor of botany and director of the Agricultural College at Lemberg (Lwow) 1891-1909; inspector of agricultural schools in Galicia 1898. 
+**Abbreviated name**: *Szysz.*
 
 #### Herbarium and types
 

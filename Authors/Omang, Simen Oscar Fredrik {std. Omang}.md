@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/item/104137#page/853/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Omang, Simen Oscar Fredrik (1867-1953), Norwegian botanist; specialist on *Hieracium*. (*Omang*).
+Omang, Simen Oscar Fredrik (1867-1953), Norwegian botanist; specialist on *Hieracium*. 
+**Abbreviated name**: *Omang*
 
 #### Herbarium and types
 

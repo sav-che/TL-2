@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/104137#page/394/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33355465) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mauri, Ernesto (1791-1836), Italian botanist at Rome; professor of botany and director of the University Botanical Garden 1820-1831. (*Mauri*).
+Mauri, Ernesto (1791-1836), Italian botanist at Rome; professor of botany and director of the University Botanical Garden 1820-1831. 
+**Abbreviated name**: *Mauri*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/item/103253#page/751/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laharpe (La Harpe), Jean Jacques Charles de (1802-1877), Swiss botanist; physician at the provincial hospital of Lausanne. (*Laharpe*).
+Laharpe (La Harpe), Jean Jacques Charles de (1802-1877), Swiss botanist; physician at the provincial hospital of Lausanne. 
+**Abbreviated name**: *Laharpe*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/item/104137#page/453/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mexia, Ynes Enriquetta Julietta (1870-1938), American botanical explorer (of Mexican descent) of Alaska and Latin America. (*Mexia*).
+Mexia, Ynes Enriquetta Julietta (1870-1938), American botanical explorer (of Mexican descent) of Alaska and Latin America. 
+**Abbreviated name**: *Mexia*
 
 #### Herbarium and types
 

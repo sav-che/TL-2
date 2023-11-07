@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/item/103414#page/984/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Germar, Ernst Friedrich (1786-1853), German mining expert ("Bergrath") and professor at Halle. (*Germar*).
+Germar, Ernst Friedrich (1786-1853), German mining expert ("Bergrath") and professor at Halle. 
+**Abbreviated name**: *Germar*
 
 #### Collections
 

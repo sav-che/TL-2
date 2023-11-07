@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103624#page/465/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Puymaly, André Henri Laurent de (1883-?), French lichenologist; Dr. med. Bordeaux 1912, Dr. sci. nat. 1925; teaching at the University of Bordeaux. (*Puym.*).
+Puymaly, André Henri Laurent de (1883-?), French lichenologist; Dr. med. Bordeaux 1912, Dr. sci. nat. 1925; teaching at the University of Bordeaux. 
+**Abbreviated name**: *Puym.*
 
 #### Herbarium and types
 

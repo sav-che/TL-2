@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/103860#page/76/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33265743) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chatin, Joannes Charles Melchior (1847-1912), French botanist, son of G.A. Chatin, born at Paris, Licencié ès naturelles 1871, aggrégation 1874 (*J. Chatin*).
+Chatin, Joannes Charles Melchior (1847-1912), French botanist, son of G.A. Chatin, born at Paris, Licencié ès naturelles 1871, aggrégation 1874 
+**Abbreviated name**: *J. Chatin*
 
 #### Herbarium and types
 

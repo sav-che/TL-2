@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/104137#page/47/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33355080) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindberg, Sextus Otto (1835-1889), Swedish bryologist (from 1865 Finnish); educated at Stockholm and Uppsala; teacher at the Pharmaceutical Institution of Stockholm (1862-1865); professor of botany at Helsingfors University (successor to W. Nylander) 1865-1889. (*Lindb.*).
+Lindberg, Sextus Otto (1835-1889), Swedish bryologist (from 1865 Finnish); educated at Stockholm and Uppsala; teacher at the Pharmaceutical Institution of Stockholm (1862-1865); professor of botany at Helsingfors University (successor to W. Nylander) 1865-1889. 
+**Abbreviated name**: *Lindb.*
 
 #### Herbarium and types
 

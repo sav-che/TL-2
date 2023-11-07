@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/item/103250#page/537/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33066817) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wulff, Johann Christoph (x-1767), German (Prussian) physician and botanist at Königsberg i.Pr.; Dr. med. ib. 1744. (*J. Wulff*).
+Wulff, Johann Christoph (x-1767), German (Prussian) physician and botanist at Königsberg i.Pr.; Dr. med. ib. 1744. 
+**Abbreviated name**: *J. Wulff*
 
 #### Herbarium and types
 

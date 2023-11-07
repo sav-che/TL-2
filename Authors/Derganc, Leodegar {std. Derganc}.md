@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103833#page/224/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33259258) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Derganc, Leodegar (fl. 1897-1905), Austrian "Statthalterei-Beamter" in Vienna. (*Derganc*).
+Derganc, Leodegar (fl. 1897-1905), Austrian "Statthalterei-Beamter" in Vienna. 
+**Abbreviated name**: *Derganc*
 
 #### Herbarium and types
 

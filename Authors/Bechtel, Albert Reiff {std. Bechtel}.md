@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/103859#page/29/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265216) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bechtel, Albert Reiff (1882-?), American botanist and plant collector, born at Royersford, Pa., A.M. Univ. Pennsylvania 1912, Ph. D. bot. Cornell 1920, instructor in botany at Pennsylvania State College 1913-1914, at Cornell New York State Coll. Agric. 1914-1920, professor and head of department Wabash College 1920-1952, emeritus professor from 1952 at Wabash. (*Bechtel*).
+Bechtel, Albert Reiff (1882-?), American botanist and plant collector, born at Royersford, Pa., A.M. Univ. Pennsylvania 1912, Ph. D. bot. Cornell 1920, instructor in botany at Pennsylvania State College 1913-1914, at Cornell New York State Coll. Agric. 1914-1920, professor and head of department Wabash College 1920-1952, emeritus professor from 1952 at Wabash. 
+**Abbreviated name**: *Bechtel*
 
 #### Herbarium and types
 

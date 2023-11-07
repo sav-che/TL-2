@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103861#page/162/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33266459) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brügger, Christian Georg (1833-1899), Swiss (Churwalden nr. Chur born) biologist and geographer, attended schools in Brig, Chur and St. Gallen, studied at the University of München with e.g. Otto Sendtner, and at Innsbruck, curator of the botanical museum at the botanical garden of the Zürich Polytechnic 1859-1870, professor of natural history and geography at the Kantonschule of Chur as well as director of the natural history collections of the Rhätischen Museum 1870-1899. (*Brügger*).
+Brügger, Christian Georg (1833-1899), Swiss (Churwalden nr. Chur born) biologist and geographer, attended schools in Brig, Chur and St. Gallen, studied at the University of München with e.g. Otto Sendtner, and at Innsbruck, curator of the botanical museum at the botanical garden of the Zürich Polytechnic 1859-1870, professor of natural history and geography at the Kantonschule of Chur as well as director of the natural history collections of the Rhätischen Museum 1870-1899. 
+**Abbreviated name**: *Brügger*
 
 #### Herbarium and types
 

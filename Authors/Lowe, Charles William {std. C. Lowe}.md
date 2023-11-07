@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/104137#page/191/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33355262) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lowe, Charles William (1885-1969), British-born botanist; M. Sc. Birmingham 1915; settled in Canada; lecturer at the University of Manitoba until 1931, professor until 1950, from then on in Victoria, Canada (*C. Lowe*).
+Lowe, Charles William (1885-1969), British-born botanist; M. Sc. Birmingham 1915; settled in Canada; lecturer at the University of Manitoba until 1931, professor until 1950, from then on in Victoria, Canada 
+**Abbreviated name**: *C. Lowe*
 
 #### Herbarium and types
 

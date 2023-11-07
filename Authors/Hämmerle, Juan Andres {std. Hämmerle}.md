@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103253#page/32/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hämmerle, Juan Andres (1876-1930), German botanist. (*Hämmerle*).
+Hämmerle, Juan Andres (1876-1930), German botanist. 
+**Abbreviated name**: *Hämmerle*
 
 #### Herbarium and types
 

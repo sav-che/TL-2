@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103624#page/58/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33189477) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pansch, Adolf (1841-1887), German (Eutin/Lübeck) physician and botanist; at Kiel from 1864; participated in the second German North Polar Expedition 1869-1870 under K. Koldewey. (*Pansch*).
+Pansch, Adolf (1841-1887), German (Eutin/Lübeck) physician and botanist; at Kiel from 1864; participated in the second German North Polar Expedition 1869-1870 under K. Koldewey. 
+**Abbreviated name**: *Pansch*
 
 #### Herbarium and types
 

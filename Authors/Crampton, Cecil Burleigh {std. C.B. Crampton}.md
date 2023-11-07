@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/103860#page/457/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33266124) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crampton, Cecil Burleigh (1871-1920), British (Scottish) botanist and geologist, in H.M. Geological survey, collected algae in S. Africa. (*C.B. Crampton*).
+Crampton, Cecil Burleigh (1871-1920), British (Scottish) botanist and geologist, in H.M. Geological survey, collected algae in S. Africa. 
+**Abbreviated name**: *C.B. Crampton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103835#page/186/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33260164) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dupont, J.D.C. (fl. 1805), French botanist at Paris. (*J.D. Dupont*).
+Dupont, J.D.C. (fl. 1805), French botanist at Paris. 
+**Abbreviated name**: *J.D. Dupont*
 
 #### Herbarium and types
 

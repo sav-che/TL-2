@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/104077#page/307/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schöpfer, Franz Xaver (1777-1855), Austrian botanist; practicing physician at Innsbruck. (*Schöpfer*).
+Schöpfer, Franz Xaver (1777-1855), Austrian botanist; practicing physician at Innsbruck. 
+**Abbreviated name**: *Schöpfer*
 
 #### Herbarium and types
 

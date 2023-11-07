@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103835#page/286/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33260264) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichinger, Alfons (1883-?), German botanist and mycologist, born 26 Mar 1883, Stadtamhof, was employed as botanist at the "Kaiserlich biolog. Landwirtschaftliche Institut" at Amani, E. Africa. (*Eichinger*).
+Eichinger, Alfons (1883-?), German botanist and mycologist, born 26 Mar 1883, Stadtamhof, was employed as botanist at the "Kaiserlich biolog. Landwirtschaftliche Institut" at Amani, E. Africa. 
+**Abbreviated name**: *Eichinger*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/item/103683#page/577/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33212609) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uilkens, Theodorus Frederik (1812-1891), Dutch protestant minister, botanist and horticulturist; studied theology at Groningen; minister at Wehe and Zuurdijk 1836-1890. (*Uilkens*).
+Uilkens, Theodorus Frederik (1812-1891), Dutch protestant minister, botanist and horticulturist; studied theology at Groningen; minister at Wehe and Zuurdijk 1836-1890. 
+**Abbreviated name**: *Uilkens*
 
 #### Herbarium and types
 

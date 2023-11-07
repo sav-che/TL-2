@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/104137#page/237/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33355308) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-MacGillivray, Paul Howard (1834-1895), Scottish botanist and zoologist; MA Aberdeen 1854; in Australia 1855, from 1857 practicing medicine at Bendigo, Victoria; son of William MacGillivray (1796-1852). (*P. MacGillivray*).
+MacGillivray, Paul Howard (1834-1895), Scottish botanist and zoologist; MA Aberdeen 1854; in Australia 1855, from 1857 practicing medicine at Bendigo, Victoria; son of William MacGillivray (1796-1852). 
+**Abbreviated name**: *P. MacGillivray*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/item/104137#page/707/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33355778) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nash, George Valentine (1864-1921), American botanist and horticulturist; at the New York Botanical Garden from its initiation as collector (1896), curator of plantations (1899) and head gardener (1900); collected extensively in Florida and the West Indies. (*Nash*).
+Nash, George Valentine (1864-1921), American botanist and horticulturist; at the New York Botanical Garden from its initiation as collector (1896), curator of plantations (1899) and head gardener (1900); collected extensively in Florida and the West Indies. 
+**Abbreviated name**: *Nash*
 
 #### Herbarium and types
 

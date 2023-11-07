@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/104077#page/117/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaefer, Hermann (*fl*. 1872), German (Lausitz) botanist. (*H. Schaefer*).
+Schaefer, Hermann (*fl*. 1872), German (Lausitz) botanist. 
+**Abbreviated name**: *H. Schaefer*
 
 #### Herbarium and types
 

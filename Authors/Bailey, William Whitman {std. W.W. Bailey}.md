@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103858#page/280/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33264995) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bailey, William Whitman (1843-1914), American botanist, entered Brown University, Providence, Rhode Island, 1860, graduated 1864, Ph.D. 1873, A.M. 1893; studied botany at Columbia University 1872, at Harvard Summer School 1875, 1876, 1879; assistant in chemistry at the Massachusetts Institute of Technology 1866, botanist of the United States Geological Survey of the fortieth parallel 1867-1868 (King's Survey), Deputy Secretary of the State of Rhode Islands 1868, assistant librarian at the Providence Athenaeum 1869-1871, taught botany in private schools in Providence 1871-1877, instructor at Brown University 1877-1881, professor of botany ib. 1881-1906, professor emeritus from 1896. (*W.W. Bailey*).
+Bailey, William Whitman (1843-1914), American botanist, entered Brown University, Providence, Rhode Island, 1860, graduated 1864, Ph.D. 1873, A.M. 1893; studied botany at Columbia University 1872, at Harvard Summer School 1875, 1876, 1879; assistant in chemistry at the Massachusetts Institute of Technology 1866, botanist of the United States Geological Survey of the fortieth parallel 1867-1868 (King's Survey), Deputy Secretary of the State of Rhode Islands 1868, assistant librarian at the Providence Athenaeum 1869-1871, taught botany in private schools in Providence 1871-1877, instructor at Brown University 1877-1881, professor of botany ib. 1881-1906, professor emeritus from 1896. 
+**Abbreviated name**: *W.W. Bailey*
 
 #### Herbarium and types
 

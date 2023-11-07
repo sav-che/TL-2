@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/item/103624#page/679/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33190136) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reichenbach, Carl \[Karl\] Ludwig \[Freiherr\] von (1788-1869), German (Württemberg) botanist, chemist and industrialist; studied at Tübingen 1807-1809, specialized in industrial carbonization; from 1822-1839 in charge of the mining industry and metallurgical plants at Blansko (Moravia), studying the chemical products of carbonization as well as the geology of the region; from 1839 residing at his property Reisenberg near Wien as private scientist, developing e.g. his "Odlehre" of physiological magnetism. (*C. Rchb.*).
+Reichenbach, Carl \[Karl\] Ludwig \[Freiherr\] von (1788-1869), German (Württemberg) botanist, chemist and industrialist; studied at Tübingen 1807-1809, specialized in industrial carbonization; from 1822-1839 in charge of the mining industry and metallurgical plants at Blansko (Moravia), studying the chemical products of carbonization as well as the geology of the region; from 1839 residing at his property Reisenberg near Wien as private scientist, developing e.g. his "Odlehre" of physiological magnetism. 
+**Abbreviated name**: *C. Rchb.*
 
 #### Herbarium and types
 

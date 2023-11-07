@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103860#page/99/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33265766) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chevalier, Auguste Jean Baptiste {std. A. Chev.}|first entry]] for this author
 
 ### Author
 
-\* Chevalier, Auguste Jean Baptiste (1873-1956), French botanist, born at Domfront in Normandy, educated at a school in Domfront, studied at the Faculté des Sciences de Caen, sometime "préparateur" in botany at Lille, "boursier de doctorat" at the Muséum national d'Histoire naturelle de Paris 1897, Dr. ès Sci. nat. Paris 1901, collected in tropical Africa (Congo, Oubangui-Chari, Tchad) 1902-1904, further four voyages to Central Africa 1905-1913, idem in Indo-China 1913-1914, set up the Institut scientifique at Saigon 1917-1919, subsequently in the laboratoire d'agronomie coloniale at the Muséum national d'histoire naturelle, collected again 1931 in W. Africa and 1934 on Cape Verde Islands. (*A. Chev.*).
+\* Chevalier, Auguste Jean Baptiste (1873-1956), French botanist, born at Domfront in Normandy, educated at a school in Domfront, studied at the Faculté des Sciences de Caen, sometime "préparateur" in botany at Lille, "boursier de doctorat" at the Muséum national d'Histoire naturelle de Paris 1897, Dr. ès Sci. nat. Paris 1901, collected in tropical Africa (Congo, Oubangui-Chari, Tchad) 1902-1904, further four voyages to Central Africa 1905-1913, idem in Indo-China 1913-1914, set up the Institut scientifique at Saigon 1917-1919, subsequently in the laboratoire d'agronomie coloniale at the Muséum national d'histoire naturelle, collected again 1931 in W. Africa and 1934 on Cape Verde Islands. 
+**Abbreviated name**: *A. Chev.*
 
 #### Herbarium and types
 

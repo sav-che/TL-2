@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/item/104137#page/701/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33355772) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nägeli, Otto (1871-1938), Swiss botanist and physician; habil. int. med. Zurich 1900; professor of medicine at Tübingen 1912-1918; id. at Zürich 1918 (from 1921 as ord. prof.). (*O. Näg.*).
+Nägeli, Otto (1871-1938), Swiss botanist and physician; habil. int. med. Zurich 1900; professor of medicine at Tübingen 1912-1918; id. at Zürich 1918 (from 1921 as ord. prof.). 
+**Abbreviated name**: *O. Näg.*
 
 #### Herbarium and types
 

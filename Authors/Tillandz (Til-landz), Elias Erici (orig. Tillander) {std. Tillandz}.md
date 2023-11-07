@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103683#page/365/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33212397) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tillandz (Til-landz), Elias Erici \[orig. Tillander\] (1640-1693), Swedish physician and botanist; studied in Åbo and Uppsala; Dr. med. Leiden 1670, later professor of medicine at Åbo \[Finland\]. (*Tillandz*).
+Tillandz (Til-landz), Elias Erici \[orig. Tillander\] (1640-1693), Swedish physician and botanist; studied in Åbo and Uppsala; Dr. med. Leiden 1670, later professor of medicine at Åbo \[Finland\]. 
+**Abbreviated name**: *Tillandz*
 
 #### Herbarium and types
 

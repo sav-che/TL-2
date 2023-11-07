@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103833#page/47/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259081) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Damblon, Jean (fl. 1939-1956), Belgian botanist. (*Damblon*).
+Damblon, Jean (fl. 1939-1956), Belgian botanist. 
+**Abbreviated name**: *Damblon*
 
 #### Herbarium and types
 

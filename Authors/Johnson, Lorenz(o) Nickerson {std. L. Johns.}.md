@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/103253#page/475/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33068691) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnson, Lorenz(o) Nickerson (1862-1897), American algologist. (*L. Johns.*).
+Johnson, Lorenz(o) Nickerson (1862-1897), American algologist. 
+**Abbreviated name**: *L. Johns.*
 
 #### Herbarium and types
 

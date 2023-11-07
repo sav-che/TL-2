@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103860#page/311/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265978) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coninck, Louis Charles Frederik de (1779-1852), Danish born merchant and botanist in Paris. (*Coninck*).
+Coninck, Louis Charles Frederik de (1779-1852), Danish born merchant and botanist in Paris. 
+**Abbreviated name**: *Coninck*
 
 #### Herbarium and types
 

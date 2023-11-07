@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/103253#page/495/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jung, W. (*fl*. 1832), German botanist in Nassau. (*W. Jung*).
+Jung, W. (*fl*. 1832), German botanist in Nassau. 
+**Abbreviated name**: *W. Jung*
 
 #### Herbarium and types
 

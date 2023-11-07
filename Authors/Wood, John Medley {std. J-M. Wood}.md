@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/item/103250#page/498/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wood, John Medley (1827-1915), English-born South African botanist; in the East Indian merchant service ca. 1845-1852; emigrated to South Africa 1852; trading store owner Inanda, Natal 1852-1882; curator of the Natal Botanic Garden, Durban 1882-1908; director of the Natal Garden and Herbarium 1900; director of the Natal Herbarium 1913; D.Sc. h.c. Univ. Cape Good Hope 1913. (*J-M. Wood*).
+Wood, John Medley (1827-1915), English-born South African botanist; in the East Indian merchant service ca. 1845-1852; emigrated to South Africa 1852; trading store owner Inanda, Natal 1852-1882; curator of the Natal Botanic Garden, Durban 1882-1908; director of the Natal Garden and Herbarium 1900; director of the Natal Herbarium 1913; D.Sc. h.c. Univ. Cape Good Hope 1913. 
+**Abbreviated name**: *J-M. Wood*
 
 #### Herbarium and types
 

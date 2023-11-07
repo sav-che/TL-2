@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103832#page/263/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33258729) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Godet, Charles Henri {std. Godet}|first entry]] for this author
 
 ### Author
 
-\* Godet, Charles Henri (1797-1879), Swiss botanist, born 16 Sep 1797 in Neuchâtel, studied in Neuchâtel and Zurich, instructor in Russia 1822-1829 ("Précepteur des enfants du comte Orlowski"), accompanied Christian von Steven to the Caucasus where they collected plants and insects 1828, sojourned in Paris where he met G. Cuvier, P.A. Latreille and A. von Humboldt, returned to Switzerland 1834, served as school inspector 1839-1848 and librarian in Neuchâtel 1859-1876, died 16 Dec 1879 in Neuchâtel. (*Godet*).
+\* Godet, Charles Henri (1797-1879), Swiss botanist, born 16 Sep 1797 in Neuchâtel, studied in Neuchâtel and Zurich, instructor in Russia 1822-1829 ("Précepteur des enfants du comte Orlowski"), accompanied Christian von Steven to the Caucasus where they collected plants and insects 1828, sojourned in Paris where he met G. Cuvier, P.A. Latreille and A. von Humboldt, returned to Switzerland 1834, served as school inspector 1839-1848 and librarian in Neuchâtel 1859-1876, died 16 Dec 1879 in Neuchâtel. 
+**Abbreviated name**: *Godet*
 
 #### Herbarium and types
 

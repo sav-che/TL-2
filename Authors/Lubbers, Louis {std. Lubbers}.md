@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/item/104137#page/195/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lubbers, Louis (1832-1905), Belgian horticulturist; chef des cultures de Jardin botanique de l'État, Bruxelles 1870-1903; longtime secretary of the Société de Flore. (*Lubbers*).
+Lubbers, Louis (1832-1905), Belgian horticulturist; chef des cultures de Jardin botanique de l'État, Bruxelles 1870-1903; longtime secretary of the Société de Flore. 
+**Abbreviated name**: *Lubbers*
 
 #### Herbarium and types
 

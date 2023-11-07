@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/103414#page/329/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33120412) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bornemann, Felix (*ft*. 1887), German phycologist. (*F. Bornemann*).
+Bornemann, Felix (*ft*. 1887), German phycologist. 
+**Abbreviated name**: *F. Bornemann*
 
 #### Herbarium and types
 

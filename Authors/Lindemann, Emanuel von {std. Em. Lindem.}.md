@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/104137#page/57/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33355090) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindemann, Emanuel von (1795-1845), Russian botanist and entomologist at Mitau; studied at Erfurt (1813) and Dorpat (1814-1816); high school teacher at Mitau 1820-1845. (*Em. Lindem.*).
+Lindemann, Emanuel von (1795-1845), Russian botanist and entomologist at Mitau; studied at Erfurt (1813) and Dorpat (1814-1816); high school teacher at Mitau 1820-1845. 
+**Abbreviated name**: *Em. Lindem.*
 
 #### Herbarium and types [^1]
 

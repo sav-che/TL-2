@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/item/103624#page/913/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33190370) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ross, Alexander Milton (1832-1897), Canadian philanthropist and naturalist; studying medicine at NY while a compositor on the Evening Post; Dr. med. 1855; served as surgeon in Nicaragua, the American Civil War, and in the Mexican Army; actively engaged in the anti-slavery struggle 1855-1865; from 1870-1897 back in Canada devoting himself to botany and zoology; died in Detroit, Mich.(*A.M. Ross*).
+Ross, Alexander Milton (1832-1897), Canadian philanthropist and naturalist; studying medicine at NY while a compositor on the Evening Post; Dr. med. 1855; served as surgeon in Nicaragua, the American Civil War, and in the Mexican Army; actively engaged in the anti-slavery struggle 1855-1865; from 1870-1897 back in Canada devoting himself to botany and zoology; died in Detroit, Mich.
+**Abbreviated name**: *A.M. Ross*
 
 #### Herbarium and types
 

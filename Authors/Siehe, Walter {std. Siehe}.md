@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/104077#page/608/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33333733) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siehe, Walter (1859-1928), German (Berlin) plant collector and salesman; botanical explorer of Turkey. (*Siehe*).
+Siehe, Walter (1859-1928), German (Berlin) plant collector and salesman; botanical explorer of Turkey. 
+**Abbreviated name**: *Siehe*
 
 #### Herbarium and types
 

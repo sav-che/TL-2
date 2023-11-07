@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103833#page/179/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33259213) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delachapelle, Pierre-Adrien (1780-1854), French naturalist, born at Cherbourg (Manche) 22 Jun 1780, died ib. 20 Apr 1854, drawer at the Bureau de la Marine, Cherbourg 1794, studied pharmacy at Paris, returned 1802 to Cherbourg. (*Delachapelle*).
+Delachapelle, Pierre-Adrien (1780-1854), French naturalist, born at Cherbourg (Manche) 22 Jun 1780, died ib. 20 Apr 1854, drawer at the Bureau de la Marine, Cherbourg 1794, studied pharmacy at Paris, returned 1802 to Cherbourg. 
+**Abbreviated name**: *Delachapelle*
 
 #### Herbarium and types
 

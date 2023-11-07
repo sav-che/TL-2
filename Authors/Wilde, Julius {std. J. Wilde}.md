@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103250#page/351/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33066631) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilde, Julius (1864-1947), German (Rhenish Palatinate) self-taught botanist, dendrologist and conservationist; high school teacher at Neustadt a.d. H. (*J. Wilde*).
+Wilde, Julius (1864-1947), German (Rhenish Palatinate) self-taught botanist, dendrologist and conservationist; high school teacher at Neustadt a.d. H. 
+**Abbreviated name**: *J. Wilde*
 
 #### Herbarium and types
 

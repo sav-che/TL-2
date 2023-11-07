@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/item/104137#page/835/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33355906) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oliver, Daniel (1830-1916), British botanist; assistant at the Kew herbarium 1858-1864, keeper 1860-1890; professor of botany at University College, London, 1861-1888. (*Oliver*).
+Oliver, Daniel (1830-1916), British botanist; assistant at the Kew herbarium 1858-1864, keeper 1860-1890; professor of botany at University College, London, 1861-1888. 
+**Abbreviated name**: *Oliver*
 
 #### Herbarium and types
 

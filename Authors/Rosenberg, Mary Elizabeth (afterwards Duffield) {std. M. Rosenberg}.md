@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/item/103624#page/903/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33190360) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosenberg, Mary Elizabeth (afterwards: Duffield) (1820-1914), British (English) flower painter of Bath, Somerset; married William Duffield 1850. (*M. Rosenberg*).
+Rosenberg, Mary Elizabeth (afterwards: Duffield) (1820-1914), British (English) flower painter of Bath, Somerset; married William Duffield 1850. 
+**Abbreviated name**: *M. Rosenberg*
 
 #### Herbarium and types
 

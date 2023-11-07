@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/104077#page/79/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33333204) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saunders, Charles Francis (1859-1941), American botanist; educated at Friend's Central High School, Philadelphia; after graduation (1875) employed at the office of a Philadelphia shipping firm; moved to California 1904; enthusiastic amateur botanist. (*C.F. Saunders*).
+Saunders, Charles Francis (1859-1941), American botanist; educated at Friend's Central High School, Philadelphia; after graduation (1875) employed at the office of a Philadelphia shipping firm; moved to California 1904; enthusiastic amateur botanist. 
+**Abbreviated name**: *C.F. Saunders*
 
 #### Herbarium and types
 

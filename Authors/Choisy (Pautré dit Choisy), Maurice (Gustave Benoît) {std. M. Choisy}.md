@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103860#page/142/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265809) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Choisy ("Pautré dit Choisy"), Maurice \[Gustave Benoît\] (1897-1969?), French botanist at Lyon, born 29 Jun 1897 at Priay, Ain, specialized in classification of ascolichens and lichenological nomenclature. (*M. Choisy*).
+Choisy ("Pautré dit Choisy"), Maurice \[Gustave Benoît\] (1897-1969?), French botanist at Lyon, born 29 Jun 1897 at Priay, Ain, specialized in classification of ascolichens and lichenological nomenclature. 
+**Abbreviated name**: *M. Choisy*
 
 #### Herbarium and types
 

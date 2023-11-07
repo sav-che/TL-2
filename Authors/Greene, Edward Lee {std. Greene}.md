@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 995](https://www.biodiversitylibrary.org/item/103414#page/1043/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 995](https://www.biodiversitylibrary.org/page/33121126) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Greene, Edward Lee (later Rev.) {std. Greene} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Greene, Edward Lee (1843-1915), American botanist and clergyman, (*Greene*).
+Greene, Edward Lee (1843-1915), American botanist and clergyman, 
+**Abbreviated name**: *Greene*
 
 #### Herbarium and types
 

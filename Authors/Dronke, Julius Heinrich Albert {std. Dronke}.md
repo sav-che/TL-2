@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103835#page/110/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dronke, Julius Heinrich Albert (1874-?), German botanist, born 23 Mar 1874 in Koblenz, at elementary school and "Realgymnasium" at Trier, studied in Bonn mathematics and natural sciences, 1899 "Oberlehrer" at the "Realschule" at Hechingen, later in 1901 at the royal gymnasium at Sigmaringen. (*Dronke*).
+Dronke, Julius Heinrich Albert (1874-?), German botanist, born 23 Mar 1874 in Koblenz, at elementary school and "Realgymnasium" at Trier, studied in Bonn mathematics and natural sciences, 1899 "Oberlehrer" at the "Realschule" at Hechingen, later in 1901 at the royal gymnasium at Sigmaringen. 
+**Abbreviated name**: *Dronke*
 
 #### Herbarium and types
 

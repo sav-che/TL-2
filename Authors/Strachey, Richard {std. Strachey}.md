@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103683#page/39/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strachey, Richard (1817-1908), British colonial administrator, geophysicist and naturalist; with Bombay Engineers 1836, with Bengal Engineers 1839; collected in Punch, Kashmir, and Gharwal Kumaon, 1846-1849; in various military and administrative positions until 1871; stationed in England 1871-1876; retired as Lieutenant-general. (*Strachey*).
+Strachey, Richard (1817-1908), British colonial administrator, geophysicist and naturalist; with Bombay Engineers 1836, with Bengal Engineers 1839; collected in Punch, Kashmir, and Gharwal Kumaon, 1846-1849; in various military and administrative positions until 1871; stationed in England 1871-1876; retired as Lieutenant-general. 
+**Abbreviated name**: *Strachey*
 
 #### Herbarium and types
 

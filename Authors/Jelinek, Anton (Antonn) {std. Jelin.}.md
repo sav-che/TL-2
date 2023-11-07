@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/103253#page/461/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jelinek, Anton (Anton?n) (*fl*. 1857-1859), Austrian naturalist on the Novara expedition. (*Jelin.*).
+Jelinek, Anton (Anton?n) (*fl*. 1857-1859), Austrian naturalist on the Novara expedition. 
+**Abbreviated name**: *Jelin.*
 
 #### Herbarium and types
 

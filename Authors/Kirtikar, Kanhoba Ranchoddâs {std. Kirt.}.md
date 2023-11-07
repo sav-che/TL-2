@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/item/103253#page/581/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33068797) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirtikar, Kanhoba Ranchoddâs (1849/1850-1917), Indian botanist; surgeon-major in the British-Indian army; stationed at various locations; 1886 assistant, 1887 full professor of materia medica at Bombay; one of the founders of the Bombay Natural History Society. (*Kirt.*).
+Kirtikar, Kanhoba Ranchoddâs (1849/1850-1917), Indian botanist; surgeon-major in the British-Indian army; stationed at various locations; 1886 assistant, 1887 full professor of materia medica at Bombay; one of the founders of the Bombay Natural History Society. 
+**Abbreviated name**: *Kirt.*
 
 #### Herbarium and types
 

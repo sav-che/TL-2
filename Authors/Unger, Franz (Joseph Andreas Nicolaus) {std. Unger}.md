@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/103683#page/604/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33212636) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Unger, Franz \[Joseph Andreas Nicolaus\] (1800-1870), Austrian botanist; Dr. med. Wien 1827; practicing physician at Stockerau 1828-1830; forensic physician at Kitzbühel; professor of botany and zoology at the Johanneum, Graz 1835-1849; professor of plant anatomy and physiology Univ. Wien 1849-1866; in retirement at Graz 1866-1870. (*Unger*).
+Unger, Franz \[Joseph Andreas Nicolaus\] (1800-1870), Austrian botanist; Dr. med. Wien 1827; practicing physician at Stockerau 1828-1830; forensic physician at Kitzbühel; professor of botany and zoology at the Johanneum, Graz 1835-1849; professor of plant anatomy and physiology Univ. Wien 1849-1866; in retirement at Graz 1866-1870. 
+**Abbreviated name**: *Unger*
 
 #### Herbarium and types
 

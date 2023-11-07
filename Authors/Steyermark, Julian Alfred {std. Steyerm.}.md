@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/item/104077#page/939/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33334064) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steyermark, Julian Alfred (1909-x), American botanist and botanical explorer; studied at Washington University, St. Louis, AB 1929; Dr. phil. 1933; with the Missouri botanical Garden 1934-1935; with the Field Museum of Natural history 1937-1958 (asst. cur. 1937, assoc. cur. 1948, cur. 1950); at the Instituto botanico Caracas, Venezuela from 1959-1984; research associate Missouri botanical Garden 1984. (*Steyerm.*).
+Steyermark, Julian Alfred (1909-x), American botanist and botanical explorer; studied at Washington University, St. Louis, AB 1929; Dr. phil. 1933; with the Missouri botanical Garden 1934-1935; with the Field Museum of Natural history 1937-1958 (asst. cur. 1937, assoc. cur. 1948, cur. 1950); at the Instituto botanico Caracas, Venezuela from 1959-1984; research associate Missouri botanical Garden 1984. 
+**Abbreviated name**: *Steyerm.*
 
 #### Herbarium and types
 

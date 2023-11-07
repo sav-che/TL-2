@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/item/103624#page/783/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33190240) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richards, Herbert Maule (1871-1928), American botanist; Dr. Sci. Harvard 1895; tutor in botany in Barnard College, Columbia Univ., New York 1897, adjunct professor of botany 1903, ord. professor 1906; president of the Torrey botanical Club 1917. (*H. Richards*).
+Richards, Herbert Maule (1871-1928), American botanist; Dr. Sci. Harvard 1895; tutor in botany in Barnard College, Columbia Univ., New York 1897, adjunct professor of botany 1903, ord. professor 1906; president of the Torrey botanical Club 1917. 
+**Abbreviated name**: *H. Richards*
 
 #### Herbarium and types
 

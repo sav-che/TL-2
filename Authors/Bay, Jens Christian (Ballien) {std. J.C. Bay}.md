@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103858#page/406/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265121) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bay, Jens Christian \[Ballien\] (1871-1962), Danish librarian and botanical bibliographer, educated at the University of Copenhagen 1887-1982, emigrated to the U.S.A. 1892, naturalized 1896, assistant at the Missouri Bot. Garden, St. Louis 1892-1894, bacteriologist Iowa State Board of Health 1894-1897, assistant at Library of Congress, Washington, D.C. 1900-1905; at the John Crerar library, Chicago 1905-1947, ultimately, from 1928, as librarian. (*J.C. Bay*).
+Bay, Jens Christian \[Ballien\] (1871-1962), Danish librarian and botanical bibliographer, educated at the University of Copenhagen 1887-1982, emigrated to the U.S.A. 1892, naturalized 1896, assistant at the Missouri Bot. Garden, St. Louis 1892-1894, bacteriologist Iowa State Board of Health 1894-1897, assistant at Library of Congress, Washington, D.C. 1900-1905; at the John Crerar library, Chicago 1905-1947, ultimately, from 1928, as librarian. 
+**Abbreviated name**: *J.C. Bay*
 
 #### Herbarium and types
 

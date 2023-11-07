@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103861#page/220/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33266517) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buetschli, Johann Adam Otto {std. Buetschli}|first entry]] for this author
 
 ### Author
 
-\* Bütschli, \[Johann Adam\] Otto (1848-1920), German zoologist, born in Frankfurt a. M., professor of zoology in Heidelberg, mainly working on protozoa. (*Buetschli*).
+\* Bütschli, \[Johann Adam\] Otto (1848-1920), German zoologist, born in Frankfurt a. M., professor of zoology in Heidelberg, mainly working on protozoa. 
+**Abbreviated name**: *Buetschli*
 
 #### Herbarium and types
 

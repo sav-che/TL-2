@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/104077#page/364/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33333489) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schube, Theodor (1860-1934), German (Silesian) botanist and high school teacher; pupil of Engler at the Breslau Magdalenäum in 1870; studied at the University of Breslau with F. Cohn, A. Engler and F. Pax; Dr. phil. ib. 1885; high school teacher ib. from 1885; active floristic botanist and conservationist. (*Schube*).
+Schube, Theodor (1860-1934), German (Silesian) botanist and high school teacher; pupil of Engler at the Breslau Magdalenäum in 1870; studied at the University of Breslau with F. Cohn, A. Engler and F. Pax; Dr. phil. ib. 1885; high school teacher ib. from 1885; active floristic botanist and conservationist. 
+**Abbreviated name**: *Schube*
 
 #### Herbarium and types
 

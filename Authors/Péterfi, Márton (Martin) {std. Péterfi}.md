@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/103624#page/206/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33189663) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Péterfi, Márton \[Martin\] (1875-1922), Hungarian (Transylvanian) botanist, especially bryologist; school teacher at Deva, from 1906 at Cluj; curator of the National Transilvanian Museum from 1908. (*Péterfi*).
+Péterfi, Márton \[Martin\] (1875-1922), Hungarian (Transylvanian) botanist, especially bryologist; school teacher at Deva, from 1906 at Cluj; curator of the National Transilvanian Museum from 1908. 
+**Abbreviated name**: *Péterfi*
 
 #### Herbarium and types
 

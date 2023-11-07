@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103835#page/26/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33260004) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dodge, Carroll William (1895-1988), American botanist (lichenologist and mycologist, history of biology), born 20 Jan 1895, AB. Middlebury College 1915, A.M. 1916, fellow Washington Univ. (St. Louis) 1915-1918, Ph.D. 1918, instructor botany Brown 1919-1920, assist. professor 1920-1921, instructor Harvard 1921-1924, assist. professor Farlow Library and Herbarium 1924-1931, from 1931 mycologist Missouri Bot. Garden. (*C.W. Dodge*).
+Dodge, Carroll William (1895-1988), American botanist (lichenologist and mycologist, history of biology), born 20 Jan 1895, AB. Middlebury College 1915, A.M. 1916, fellow Washington Univ. (St. Louis) 1915-1918, Ph.D. 1918, instructor botany Brown 1919-1920, assist. professor 1920-1921, instructor Harvard 1921-1924, assist. professor Farlow Library and Herbarium 1924-1931, from 1931 mycologist Missouri Bot. Garden. 
+**Abbreviated name**: *C.W. Dodge*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103859#page/251/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33265438) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bock, Rudolf (fl. 1908), German student of Ed. Fischer at the botanical institute of the University of Bern, Dr. phil. Bern. 1908 (*R. Bock*).
+Bock, Rudolf (fl. 1908), German student of Ed. Fischer at the botanical institute of the University of Bern, Dr. phil. Bern. 1908 
+**Abbreviated name**: *R. Bock*
 
 #### Herbarium and types
 

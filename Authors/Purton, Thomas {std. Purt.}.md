@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/103624#page/463/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33189920) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Purton, Thomas (1768-1833), British botanist and surgeon; practiced in London 1791-1795, later in Alcester. (*Purt.*).
+Purton, Thomas (1768-1833), British botanist and surgeon; practiced in London 1791-1795, later in Alcester. 
+**Abbreviated name**: *Purt.*
 
 #### Herbarium and types
 

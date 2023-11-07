@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/103253#page/66/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33068282) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hanbury, Frederick Janson (1851-1938), British industrial pharmacist, botanist, horticulturist, and specialist on Hieracium; cousin of Daniel Hanbury. (*F. Hanb.*).
+Hanbury, Frederick Janson (1851-1938), British industrial pharmacist, botanist, horticulturist, and specialist on Hieracium; cousin of Daniel Hanbury. 
+**Abbreviated name**: *F. Hanb.*
 
 #### Herbarium and types
 

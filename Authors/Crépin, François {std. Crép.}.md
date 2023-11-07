@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/103414#page/613/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33120696) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crépin, François {std. Crép.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Crépin, François (1830-1903), Belgian rhodologist and palaeontologist. (*Crép.*).
+Crépin, François (1830-1903), Belgian rhodologist and palaeontologist. 
+**Abbreviated name**: *Crép.*
 
 #### Herbarium and types
 

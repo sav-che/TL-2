@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103832#page/477/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gustafsson, Carl Emil (1868-1939), Swedish botanist, in Trälleborg (Trelleborg) ca. 1921. (*Gust.*).
+Gustafsson, Carl Emil (1868-1939), Swedish botanist, in Trälleborg (Trelleborg) ca. 1921. 
+**Abbreviated name**: *Gust.*
 
 #### Herbarium and types
 

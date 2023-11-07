@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/item/103250#page/610/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33066890) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zollinger, Heinrich (1818-1859), Swiss botanist; school teacher at Küssnacht 1836-1837; studied at Genève 1837 (with e.g. Alph. de Candolle); high school teacher at Horgen 1838 and Herzogenbachsee 1840; sent out on a botanical expedition to Java by Alph. de Candolle and others 1841-1844; working at the herbarium of de Candolle 1845; in Sumatra and Java again 1845-1848; director of a seminary at Horgen, Switzerland 1848-1854; again in Java 1855-1859. (*Zoll.*).
+Zollinger, Heinrich (1818-1859), Swiss botanist; school teacher at Küssnacht 1836-1837; studied at Genève 1837 (with e.g. Alph. de Candolle); high school teacher at Horgen 1838 and Herzogenbachsee 1840; sent out on a botanical expedition to Java by Alph. de Candolle and others 1841-1844; working at the herbarium of de Candolle 1845; in Sumatra and Java again 1845-1848; director of a seminary at Horgen, Switzerland 1848-1854; again in Java 1855-1859. 
+**Abbreviated name**: *Zoll.*
 
 #### Herbarium and types
 

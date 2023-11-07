@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103624#page/435/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33189892) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Przewalski, Nikolai Michailowicz \[Przhevalsky, Nikolay Mikhaylovich\] (1839-1888), Russian soldier, traveller, geographer and naturalist; from 1864-1867 geography teacher at the Warschau "Junkerschule"; from 1867 on the general staff of the army; explored Manchuria and Central Asia between 1867 and 1885. (*Przew.*).
+Przewalski, Nikolai Michailowicz \[Przhevalsky, Nikolay Mikhaylovich\] (1839-1888), Russian soldier, traveller, geographer and naturalist; from 1864-1867 geography teacher at the Warschau "Junkerschule"; from 1867 on the general staff of the army; explored Manchuria and Central Asia between 1867 and 1885. 
+**Abbreviated name**: *Przew.*
 
 #### Herbarium and types
 

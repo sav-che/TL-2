@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103834#page/274/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33259756) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flerov \[Fleroff, Flerow\], Alexandr \[Aleksandr, Alexander\] Fedorovich \[Fedorovic, Theodorovich, Theodorowitsch\] (1872-1960), Russian botanist, born 30 Mai 1872 in Kalyazin District, Tver Region, research staff, Imperial Botanic Garden, St. Petersburg and later V.L. Komarov Botanical Inst., Leningrad, where he collaborated with B.A. Fedtschenko (see above), retired to Rostov-na-Donu where he died 13 Oct 1960. (*Flerov*).
+Flerov \[Fleroff, Flerow\], Alexandr \[Aleksandr, Alexander\] Fedorovich \[Fedorovic, Theodorovich, Theodorowitsch\] (1872-1960), Russian botanist, born 30 Mai 1872 in Kalyazin District, Tver Region, research staff, Imperial Botanic Garden, St. Petersburg and later V.L. Komarov Botanical Inst., Leningrad, where he collaborated with B.A. Fedtschenko (see above), retired to Rostov-na-Donu where he died 13 Oct 1960. 
+**Abbreviated name**: *Flerov*
 
 #### Herbarium and types
 

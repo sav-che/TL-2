@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/item/104137#page/521/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33355592) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miltitz, Friedrich Joseph Franz Xaver von (x-1840), German botanical bibliographer at Dresden. (*Miltitz*).
+Miltitz, Friedrich Joseph Franz Xaver von (x-1840), German botanical bibliographer at Dresden. 
+**Abbreviated name**: *Miltitz*
 
 #### Herbarium and types
 

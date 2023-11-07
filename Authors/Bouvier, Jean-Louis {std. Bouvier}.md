@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103414#page/344/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33120427) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bouvier, (Jean) Louis {std. Bouvier} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bouvier, Jean-Louis (1819-1908), French botanist who lived in Genève 1867-1890. (*Bouvier*).
+Bouvier, Jean-Louis (1819-1908), French botanist who lived in Genève 1867-1890. 
+**Abbreviated name**: *Bouvier*
 
 #### Herbarium and types
 

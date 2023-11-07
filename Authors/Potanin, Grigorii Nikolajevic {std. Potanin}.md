@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/item/103624#page/370/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33189827) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Potanin, Grigorii Nikolajevic (1835-1920), Russian botanist and explorer of Eastern Siberia, China, Tibet and Mongolia. (*Potanin*).
+Potanin, Grigorii Nikolajevic (1835-1920), Russian botanist and explorer of Eastern Siberia, China, Tibet and Mongolia. 
+**Abbreviated name**: *Potanin*
 
 #### Herbarium and types
 

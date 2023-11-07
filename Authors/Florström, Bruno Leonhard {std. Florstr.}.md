@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103834#page/292/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33259774) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Florström, Bruno Leonhard (1879-1914), Finnish botanist, born in Helsingfors (i.e. Helsinki), teacher of gymnastics and specialist on the genus *Taraxacum*, died 22 Dec 1914 in Tammerfors only 35 years of age. (*Florstr.*).
+Florström, Bruno Leonhard (1879-1914), Finnish botanist, born in Helsingfors (i.e. Helsinki), teacher of gymnastics and specialist on the genus *Taraxacum*, died 22 Dec 1914 in Tammerfors only 35 years of age. 
+**Abbreviated name**: *Florstr.*
 
 #### Herbarium and types
 

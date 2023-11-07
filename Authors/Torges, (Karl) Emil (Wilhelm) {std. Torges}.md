@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103683#page/405/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33212437) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torges, \[Karl\] Emil \[Wilhelm\] (1831-1917), German military physician and botanist (agrostologist); studied medecine in Berlin from 1856-1886; on active service in Saarlouis and Magdeburg; ultimately in Weimar. (*Torges*).
+Torges, \[Karl\] Emil \[Wilhelm\] (1831-1917), German military physician and botanist (agrostologist); studied medecine in Berlin from 1856-1886; on active service in Saarlouis and Magdeburg; ultimately in Weimar. 
+**Abbreviated name**: *Torges*
 
 #### Herbarium and types
 

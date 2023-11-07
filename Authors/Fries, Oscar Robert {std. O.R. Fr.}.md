@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103832#page/43/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33258471) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fries, Oscar Robert (1840-1908), Swedish physician and botanist (mycologist), born 5 Apr 1840 in Uppsala, studied at Uppsala from 1858, med. kand. 1863, med. lic. 1867, Dr. med. 1868 and docent at Uppsala, at Göteborg 1869-1898, died 18 Jun 1908 in Uppsala. (*O.R. Fr.*).
+Fries, Oscar Robert (1840-1908), Swedish physician and botanist (mycologist), born 5 Apr 1840 in Uppsala, studied at Uppsala from 1858, med. kand. 1863, med. lic. 1867, Dr. med. 1868 and docent at Uppsala, at Göteborg 1869-1898, died 18 Jun 1908 in Uppsala. 
+**Abbreviated name**: *O.R. Fr.*
 
 #### Note
 

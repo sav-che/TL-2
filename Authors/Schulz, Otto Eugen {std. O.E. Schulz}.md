@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/104077#page/402/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33333527) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, Otto Eugen (1874-1936), German (Berlin) botanist; educated at Berlin (Friedrichs-Gymnsasium, Kön. Seminar für Stadtschullehrer); high school teacher at various schools in Berlin 1906-1931; from 1931 in retirement because of invalidity; collaborator with I. Urban for West Indian plants and with A. Engler and H. Harms on the Pflanzenreich and Nat. Pflanzenfam., ed. 2; specialist on Cruciferae and Erythroxylaceae. (*O.E. Schulz*).
+Schulz, Otto Eugen (1874-1936), German (Berlin) botanist; educated at Berlin (Friedrichs-Gymnsasium, Kön. Seminar für Stadtschullehrer); high school teacher at various schools in Berlin 1906-1931; from 1931 in retirement because of invalidity; collaborator with I. Urban for West Indian plants and with A. Engler and H. Harms on the Pflanzenreich and Nat. Pflanzenfam., ed. 2; specialist on Cruciferae and Erythroxylaceae. 
+**Abbreviated name**: *O.E. Schulz*
 
 #### Herbarium and types
 

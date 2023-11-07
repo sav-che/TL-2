@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103835#page/316/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33260294) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elkan, Louis (Ludwig) (1815-1850), German botanist, born 21 Nov 1815 at Regensburg, visited the Kneiphöfisches Gymnasium at Königsberg, studied medicine and surgery at Königsberg from 1835, was also interested in botany and made many excursions with Prof. E. Meyer in spite of a bad constitution, died 14 Jun 1859 from tuberculosis. (*Elkan*).
+Elkan, Louis (Ludwig) (1815-1850), German botanist, born 21 Nov 1815 at Regensburg, visited the Kneiphöfisches Gymnasium at Königsberg, studied medicine and surgery at Königsberg from 1835, was also interested in botany and made many excursions with Prof. E. Meyer in spite of a bad constitution, died 14 Jun 1859 from tuberculosis. 
+**Abbreviated name**: *Elkan*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103414#page/508/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33120591) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carroll, Isaac {std. Carroll} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Carroll, Isaac (1828-1880), Irish lichenologist. (*Carroll*).
+Carroll, Isaac (1828-1880), Irish lichenologist. 
+**Abbreviated name**: *Carroll*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/item/104137#page/776/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33355847) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noeggerath \[Nöggerath\], Johann Jacob (1788-1877), German botanist, geologist and palaeobotanist; professor of mineralogy and mining at the Rhein. Friedr.-Wilh.-Univ., Bonn. and at the agricultural college of Poppelsdorf; director of the natural history museum of Bonn. (*Noegg.*).
+Noeggerath \[Nöggerath\], Johann Jacob (1788-1877), German botanist, geologist and palaeobotanist; professor of mineralogy and mining at the Rhein. Friedr.-Wilh.-Univ., Bonn. and at the agricultural college of Poppelsdorf; director of the natural history museum of Bonn. 
+**Abbreviated name**: *Noegg.*
 
 #### Herbarium and types
 

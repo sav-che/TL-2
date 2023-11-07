@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103832#page/188/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33258654) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Genlis, (Caroline) Stéphanie Félicité (née du Crest de Saint-Aubin) (Comtesse de) (1746-1830/1831), French writer, educator and botanical historian, born 25 \[26?\] Jan 1746 in Champcéry (nr. Autun), in 1762 married Charles Brillart de Genlis (1737-1793), a colonel of grenadiers who later became Marquis de Sillery, lady in waiting to the duchess of Chartres (i.e. Louise Marie Adélaïde de Bourbon-Penthièvre, 1753–1821, the mother of Louis-Philippe I, 1773-1850) 1770, governess to the daughters and sons of the family, fled to Switzerland during the Revolution 1793, moved to Berlin 1794 and then Hamburg, returned to France during the Consulate 1799, died 31 Dec 1830 (or 1 Jan 1831) in Paris. (*Genlis*).
+Genlis, (Caroline) Stéphanie Félicité (née du Crest de Saint-Aubin) (Comtesse de) (1746-1830/1831), French writer, educator and botanical historian, born 25 \[26?\] Jan 1746 in Champcéry (nr. Autun), in 1762 married Charles Brillart de Genlis (1737-1793), a colonel of grenadiers who later became Marquis de Sillery, lady in waiting to the duchess of Chartres (i.e. Louise Marie Adélaïde de Bourbon-Penthièvre, 1753–1821, the mother of Louis-Philippe I, 1773-1850) 1770, governess to the daughters and sons of the family, fled to Switzerland during the Revolution 1793, moved to Berlin 1794 and then Hamburg, returned to France during the Consulate 1799, died 31 Dec 1830 (or 1 Jan 1831) in Paris. 
+**Abbreviated name**: *Genlis*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/item/103835#page/355/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33260333) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Engelmann, Georg {std. Engelm.}|first entry]] for this author
 
 ### Author
 
-\* Engelmann, George (Georg) (1809-1884), German physician and botanist, born at Frankfurt (Main) 2 Feb 1809, studied medicine at the University of Heidelberg from 1827, later (1829) in Berlin, Dr. med. 1831 at Würzburg, stayed in Paris some time in 1832, went in the autumn of 1832 to the United States moving around collecting plants in Illinois, Missouri, and Arkansas, settled in St. Louis as physician in 1835, came to Europe in 1840, 1856-1858, 1868-1869 and for health reasons in 1883, died 4 Feb 1884 in St. Louis. (*Engelm.*).
+\* Engelmann, George (Georg) (1809-1884), German physician and botanist, born at Frankfurt (Main) 2 Feb 1809, studied medicine at the University of Heidelberg from 1827, later (1829) in Berlin, Dr. med. 1831 at Würzburg, stayed in Paris some time in 1832, went in the autumn of 1832 to the United States moving around collecting plants in Illinois, Missouri, and Arkansas, settled in St. Louis as physician in 1835, came to Europe in 1840, 1856-1858, 1868-1869 and for health reasons in 1883, died 4 Feb 1884 in St. Louis. 
+**Abbreviated name**: *Engelm.*
 
 #### Herbarium and types
 

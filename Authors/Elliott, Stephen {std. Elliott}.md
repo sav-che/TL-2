@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/item/103414#page/789/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33120872) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elliott, Stephen (1771-1830), American botanist, prominent citizen of South Carolina. (*Elliott*).
+Elliott, Stephen (1771-1830), American botanist, prominent citizen of South Carolina. 
+**Abbreviated name**: *Elliott*
 
 #### Herbarium and types
 

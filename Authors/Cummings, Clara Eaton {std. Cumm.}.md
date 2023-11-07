@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/item/103414#page/619/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33120702) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cummings, Clara Eaton {std. Cumm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cummings, Clara Eaton (1855-1906); American lichenologist at Wellesley College. (*Cumm.*).
+Cummings, Clara Eaton (1855-1906); American lichenologist at Wellesley College. 
+**Abbreviated name**: *Cumm.*
 
 #### Herbarium and types
 

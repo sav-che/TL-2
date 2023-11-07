@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/item/103683#page/596/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33212628) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Hipólito Unanue, José {std. Unanue}|first entry]] for this author
 
 ### Author
 
-Unanue, José Hipólito (1755-1853), Peruvian writer, physician and mathematician; professor of medicine at the Escuela de medicina of Lima; founder of the Escuela de Medicina of San Fernando; active in the movement of Peruvian independence (cosignatory manifesto 1812); in various government functions, ultimately as prime minister. (*Unanue*).
+Unanue, José Hipólito (1755-1853), Peruvian writer, physician and mathematician; professor of medicine at the Escuela de medicina of Lima; founder of the Escuela de Medicina of San Fernando; active in the movement of Peruvian independence (cosignatory manifesto 1812); in various government functions, ultimately as prime minister. 
+**Abbreviated name**: *Unanue*
 
 #### Herbarium and types
 

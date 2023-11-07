@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103624#page/363/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33189820) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poselger, Heinrich (1818-1883), German chemist and botanist; collector and student of succulent plants, collected plants on and near the U.S. and Mexican boundary 1849-1851; living on private means in Berlin, growing a rich collection of cacti and succulents. (*Poselg.*).
+Poselger, Heinrich (1818-1883), German chemist and botanist; collector and student of succulent plants, collected plants on and near the U.S. and Mexican boundary 1849-1851; living on private means in Berlin, growing a rich collection of cacti and succulents. 
+**Abbreviated name**: *Poselg.*
 
 #### Herbarium and types
 

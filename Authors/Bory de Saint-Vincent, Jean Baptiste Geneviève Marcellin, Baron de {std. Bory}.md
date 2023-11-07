@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103414#page/332/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33120415) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bory de Saint-Vincent, Jean Baptiste ..., Baron de {std. Bory} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de (1778-1846), French geographer, naturalist and explorer. (*Bory*).
+Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de (1778-1846), French geographer, naturalist and explorer. 
+**Abbreviated name**: *Bory*
 
 #### Herbarium and types
 

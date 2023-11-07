@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103834#page/406/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33259888) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Franck, Heinrich (1855-x), German teacher, born 11 Aug 1855 at Kreien (Mecklenburg-Schwerin), prof. at the gymnasium in Dortmund. (*Franck*).
+Franck, Heinrich (1855-x), German teacher, born 11 Aug 1855 at Kreien (Mecklenburg-Schwerin), prof. at the gymnasium in Dortmund. 
+**Abbreviated name**: *Franck*
 
 #### Herbarium and types
 

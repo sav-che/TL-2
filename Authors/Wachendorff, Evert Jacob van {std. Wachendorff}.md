@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103250#page/61/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wachendorff, Evert Jacob van (1702-1758), Dutch physician and botanist; studied medicine in Leiden and Utrecht; Dr. med. 1724; municipal physician of Utrecht 1726-1758; lecturer in chemistry at the University 1726-1743; professor of medicine, chemistry and botany 1743-1758. (*Wachendorff*).
+Wachendorff, Evert Jacob van (1702-1758), Dutch physician and botanist; studied medicine in Leiden and Utrecht; Dr. med. 1724; municipal physician of Utrecht 1726-1758; lecturer in chemistry at the University 1726-1743; professor of medicine, chemistry and botany 1743-1758. 
+**Abbreviated name**: *Wachendorff*
 
 #### Herbarium and types
 

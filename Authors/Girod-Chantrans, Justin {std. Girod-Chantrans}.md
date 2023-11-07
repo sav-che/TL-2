@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 949](https://www.biodiversitylibrary.org/item/103414#page/997/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 949](https://www.biodiversitylibrary.org/page/33121080) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Girod-Chantrans, Justin (1750-1841), French soldier and botanist. (*Girod-Chantrans*).
+Girod-Chantrans, Justin (1750-1841), French soldier and botanist. 
+**Abbreviated name**: *Girod-Chantrans*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/item/104137#page/391/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33355462) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Matuda, Eizi (1894-1978), Japanese-born Mexican botanist; specialist on Araceae and Meliaceae; at Taihoku University 1911-1921; emigrated to Mexico 1922 (naturalized 1928); in Chiapas from 1922; teaching at University of Mexico 1950-1978; Dr. phil. h.c. Tokyo 1962. (*Matuda*).
+Matuda, Eizi (1894-1978), Japanese-born Mexican botanist; specialist on Araceae and Meliaceae; at Taihoku University 1911-1921; emigrated to Mexico 1922 (naturalized 1928); in Chiapas from 1922; teaching at University of Mexico 1950-1978; Dr. phil. h.c. Tokyo 1962. 
+**Abbreviated name**: *Matuda*
 
 #### Herbarium and types
 

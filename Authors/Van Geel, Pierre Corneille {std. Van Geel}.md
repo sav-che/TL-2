@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/item/103683#page/674/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33212706) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Geel, Pierre (Petrus) Corneille van {std. Van Geel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Van Geel, Pierre Corneille (1796-1836), Belgian clergyman, botanist and polemical publicist; ordained 1815; with Drapiez founder of a "horticultural establishment" at Bruxelles \[later Jardin botanique de l'État, Jardin national de botanique de Belgique\]; later residing in The Hague and Paris. (*==Name in the standard form is not specified==.*).
+Van Geel, Pierre Corneille (1796-1836), Belgian clergyman, botanist and polemical publicist; ordained 1815; with Drapiez founder of a "horticultural establishment" at Bruxelles \[later Jardin botanique de l'État, Jardin national de botanique de Belgique\]; later residing in The Hague and Paris. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Herbarium and types
 

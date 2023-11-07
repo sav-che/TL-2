@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/item/104137#page/541/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33355612) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mitten, William (1819-1906), British pharmaceutical chemist and bryologist at Hurstpierpont Sussex. (*Mitt.*).
+Mitten, William (1819-1906), British pharmaceutical chemist and bryologist at Hurstpierpont Sussex. 
+**Abbreviated name**: *Mitt.*
 
 #### Herbarium and types
 

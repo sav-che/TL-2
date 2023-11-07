@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/item/103414#page/328/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33120411) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borg, John (1873-x), Superintendent of agriculture and professor of natural history, Malta. (*Borg*).
+Borg, John (1873-x), Superintendent of agriculture and professor of natural history, Malta. 
+**Abbreviated name**: *Borg*
 
 #### Herbarium and types
 

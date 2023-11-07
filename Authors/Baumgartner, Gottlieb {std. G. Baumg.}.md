@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103858#page/401/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33265116) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baumgartner, Gottlieb (fl. 1901), Swiss (St. Gallen) agronomist and botanist, Dr. phil. Zürich 1901. (*G. Baumg.*).
+Baumgartner, Gottlieb (fl. 1901), Swiss (St. Gallen) agronomist and botanist, Dr. phil. Zürich 1901. 
+**Abbreviated name**: *G. Baumg.*
 
 #### Herbarium and types
 

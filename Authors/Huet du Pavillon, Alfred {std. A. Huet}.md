@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103253#page/385/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33068601) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Huet du Pavillon, Alfred (1829-1907), French administrator and botanist who, together with his brother Edouard (1819-1908), brought together a considerable herbarium and who issued numerous series of exsiccatae. (*A. Huet*).
+Huet du Pavillon, Alfred (1829-1907), French administrator and botanist who, together with his brother Edouard (1819-1908), brought together a considerable herbarium and who issued numerous series of exsiccatae. 
+**Abbreviated name**: *A. Huet*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/item/104137#page/682/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33355753) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murphy, Edmund (1828-1866), Irish horticulturist and botanist; professor of horticulture, Queen's College, York 1849. (*Murphy*).
+Murphy, Edmund (1828-1866), Irish horticulturist and botanist; professor of horticulture, Queen's College, York 1849. 
+**Abbreviated name**: *Murphy*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/104077#page/353/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33333478) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schröter, Carl \[Joseph\] (1855-1939), German-born (Silesian origin) Swiss botanist; from 1865 in Zürich (Swiss citizen from 1867); studied at the Zürich Polytechnic (later E.T.H.); botanical assistant 1878; Dr. phil. Zürich 1880 with Oswald Heer; professor of systematic botany 1884-1926; widely travelled leading plant-geographer; co-founder Schweizerische botanische Gesellschaft. (*Schröt.*).
+Schröter, Carl \[Joseph\] (1855-1939), German-born (Silesian origin) Swiss botanist; from 1865 in Zürich (Swiss citizen from 1867); studied at the Zürich Polytechnic (later E.T.H.); botanical assistant 1878; Dr. phil. Zürich 1880 with Oswald Heer; professor of systematic botany 1884-1926; widely travelled leading plant-geographer; co-founder Schweizerische botanische Gesellschaft. 
+**Abbreviated name**: *Schröt.*
 
 #### Herbarium and types
 

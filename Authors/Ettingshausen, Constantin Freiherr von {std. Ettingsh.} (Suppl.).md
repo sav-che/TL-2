@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103835#page/424/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33260402) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ettingshausen, Constantin Freiherr von {std. Ettingsh.}|first entry]] for this author
 
 ### Author
 
-\* Ettingshausen, Constantin Freiherr von (1826-1897), Austrian botanist, palaeontologist and mineralogist, born 16 Jun 1826 at Vienna, visited the gymnasium at Kremsmünster and Vienna, studied medicine at Vienna, Dr. in 1848, but was more interested in fossil floras and published on them from 1851, became professor in physics, botany, zoology, and mineralogy at the Josephs-Akademie in 1854, went to Graz as professor in botany and phytopalaeontology in 1871, died 1 Feb 1897. (*Ettingsh.*).
+\* Ettingshausen, Constantin Freiherr von (1826-1897), Austrian botanist, palaeontologist and mineralogist, born 16 Jun 1826 at Vienna, visited the gymnasium at Kremsmünster and Vienna, studied medicine at Vienna, Dr. in 1848, but was more interested in fossil floras and published on them from 1851, became professor in physics, botany, zoology, and mineralogy at the Josephs-Akademie in 1854, went to Graz as professor in botany and phytopalaeontology in 1871, died 1 Feb 1897. 
+**Abbreviated name**: *Ettingsh.*
 
 #### Herbarium and types
 

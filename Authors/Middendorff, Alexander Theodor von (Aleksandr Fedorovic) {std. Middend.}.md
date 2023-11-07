@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/104137#page/485/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33355556) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Middendorff, Alexander Theodor von (Aleksandr Fedorovic Middendorf) (1815-1894), Russian biologist and explorer; Dr. med. Dorpat 1837; professor of zoology at Kiew 1839; to Siberia 1843-1844; at St. Petersburg 1845-1865; imperial counsel 1873. (*Middend.*).
+Middendorff, Alexander Theodor von (Aleksandr Fedorovic Middendorf) (1815-1894), Russian biologist and explorer; Dr. med. Dorpat 1837; professor of zoology at Kiew 1839; to Siberia 1843-1844; at St. Petersburg 1845-1865; imperial counsel 1873. 
+**Abbreviated name**: *Middend.*
 
 #### Herbarium and types
 

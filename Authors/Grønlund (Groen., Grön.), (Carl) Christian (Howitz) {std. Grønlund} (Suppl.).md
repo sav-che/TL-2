@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/item/103832#page/418/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33258884) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grønlund, Carl Christian Howitz {std. Grønlund}|first entry]] for this author
 
 ### Author
 
-\* Grønlund \[Groenlund, Grönlund\], \[Carl\] Christian \[Howitz\] (1825-1901), Danish botanist, born 14 Jul 1825 in Vordingborg, studied theology 1850, traveled in Iceland 1868 and 1876, taught botany in Copenhagen until 1879 when appointed manager of the Physiological Laboratory of Nv. Carlsberg (a brewery), died 10 Aug 1901 in Copenhagen. (*C. Grønlund*).
+\* Grønlund \[Groenlund, Grönlund\], \[Carl\] Christian \[Howitz\] (1825-1901), Danish botanist, born 14 Jul 1825 in Vordingborg, studied theology 1850, traveled in Iceland 1868 and 1876, taught botany in Copenhagen until 1879 when appointed manager of the Physiological Laboratory of Nv. Carlsberg (a brewery), died 10 Aug 1901 in Copenhagen. 
+**Abbreviated name**: *C. Grønlund*
 
 #### Herbarium and types
 

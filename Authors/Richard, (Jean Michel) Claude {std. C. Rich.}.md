@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/item/103624#page/778/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33190235) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richard, \[Jean Michel\] Claude (1784-1868), French botanist and gardener who collected in Sénégal, 1816-1821; founder of the botanic garden Richard-Toll in Sénégal; travelled in Cayenne 1820-1824; from 1830 in charge of the botanical garden of Réunion; collected in Madagascar 1839-1840. (*C. Rich.*).
+Richard, \[Jean Michel\] Claude (1784-1868), French botanist and gardener who collected in Sénégal, 1816-1821; founder of the botanic garden Richard-Toll in Sénégal; travelled in Cayenne 1820-1824; from 1830 in charge of the botanical garden of Réunion; collected in Madagascar 1839-1840. 
+**Abbreviated name**: *C. Rich.*
 
 #### Herbarium and types
 

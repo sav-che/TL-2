@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/103859#page/47/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33265234) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beckmann, Paul (1881-?), German (Dessau) botanist, studied at the University of Berlin, Dr. phil. ib. 1906; lived in Dessau. (*P. Beckm.*).
+Beckmann, Paul (1881-?), German (Dessau) botanist, studied at the University of Berlin, Dr. phil. ib. 1906; lived in Dessau. 
+**Abbreviated name**: *P. Beckm.*
 
 #### Herbarium and types
 

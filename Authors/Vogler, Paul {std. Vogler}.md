@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/item/103683#page/781/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogler, Paul (1875-?), Swiss botanist and high school teacher at St. Gallen; Dr. phil. Zürich 1901. (*Vogler*).
+Vogler, Paul (1875-?), Swiss botanist and high school teacher at St. Gallen; Dr. phil. Zürich 1901. 
+**Abbreviated name**: *Vogler*
 
 #### Herbarium and types
 

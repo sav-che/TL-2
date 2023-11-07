@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103414#page/478/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33120561) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Campdera, Francisco (*fl*. 1819), Catalonian physician and botanist. (*Campd.*).
+Campdera, Francisco (*fl*. 1819), Catalonian physician and botanist. 
+**Abbreviated name**: *Campd.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103861#page/221/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33266518) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buffham, Thomas Hughes (1840-1896), British algologist and astronomer born at Long Sutton, Lincolnshire, clerk in an office at Earith, Hunts, in ca. 1876 removed to London, entering the office of Messrs. Warren & Co. as clerk, later chief clerk, ultimately London agent of this firm. (*Buffham*).
+Buffham, Thomas Hughes (1840-1896), British algologist and astronomer born at Long Sutton, Lincolnshire, clerk in an office at Earith, Hunts, in ca. 1876 removed to London, entering the office of Messrs. Warren & Co. as clerk, later chief clerk, ultimately London agent of this firm. 
+**Abbreviated name**: *Buffham*
 
 #### Herbarium and types
 

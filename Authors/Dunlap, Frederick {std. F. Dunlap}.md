@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103835#page/180/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33260158) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dunlap, Frederick (1881-x), American forester, born 17 Jun 1881 near Chillicothe, Ohio, at Ohio State University 1899-1901, F.E. Cornell University 1904, member of U.S. Forest Service 1904-1913, lecturer in forestry at Univ. of Wisconsin 1910-1913, professor in forestry at Univ. Missouri 1913-1921, consulting forester 1921-1925, state forester Missouri from 1925. (*F. Dunlap*).
+Dunlap, Frederick (1881-x), American forester, born 17 Jun 1881 near Chillicothe, Ohio, at Ohio State University 1899-1901, F.E. Cornell University 1904, member of U.S. Forest Service 1904-1913, lecturer in forestry at Univ. of Wisconsin 1910-1913, professor in forestry at Univ. Missouri 1913-1921, consulting forester 1921-1925, state forester Missouri from 1925. 
+**Abbreviated name**: *F. Dunlap*
 
 #### Herbarium and types
 

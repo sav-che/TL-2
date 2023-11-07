@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/item/103624#page/882/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33190339) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rolander, Daniel (1725-1793), Swedish botanist; student of Linnaeus in Uppsala 1744-1754; tutor of Linnaeus fil., 1751-1754; travelled and collected in Suriname 1755-1756 at the invitation of C.G. Dahlberg; returned to Sweden in poor health; died destitute. (*Rolander*).
+Rolander, Daniel (1725-1793), Swedish botanist; student of Linnaeus in Uppsala 1744-1754; tutor of Linnaeus fil., 1751-1754; travelled and collected in Suriname 1755-1756 at the invitation of C.G. Dahlberg; returned to Sweden in poor health; died destitute. 
+**Abbreviated name**: *Rolander*
 
 #### Herbarium and types
 

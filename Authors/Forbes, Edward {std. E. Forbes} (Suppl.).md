@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103834#page/332/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33259814) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forbes, Edward {std. E. Forbes}|first entry]] for this author
 
 ### Author
 
-\* Forbes, Edward (1815-1854), British naturalist, botanist, artist, zoologist and paleontologist, born 12 Feb 1815 in Douglas, Isle of Man, after failing as an art student in London, he entered Edinburgh Univ. 1831 to study medicine and natural sciences, visited France, Germany and Switzerland 1835 and spent the winter of 1836-1837 studying at the Jardin des Plantes, Paris, collected plants in Austria 1838, naturalist to H.M.S. *Beacon* on visit to the Greek archipelago and Asia Minor 1841-1842, prof. of botany at King's College, London 1843 (succeeding David Don), curator of the Geological Society of London 1842, F.L.S. 1843, paleontologist, Geological Survey of Great Britain 1844-1854, F.R.S. 1845, Regius prof. of natural history, Univ. of Edinburgh, from Mai 1854 until his premature death on 18 Nov 1854. (*E. Forbes*).
+\* Forbes, Edward (1815-1854), British naturalist, botanist, artist, zoologist and paleontologist, born 12 Feb 1815 in Douglas, Isle of Man, after failing as an art student in London, he entered Edinburgh Univ. 1831 to study medicine and natural sciences, visited France, Germany and Switzerland 1835 and spent the winter of 1836-1837 studying at the Jardin des Plantes, Paris, collected plants in Austria 1838, naturalist to H.M.S. *Beacon* on visit to the Greek archipelago and Asia Minor 1841-1842, prof. of botany at King's College, London 1843 (succeeding David Don), curator of the Geological Society of London 1842, F.L.S. 1843, paleontologist, Geological Survey of Great Britain 1844-1854, F.R.S. 1845, Regius prof. of natural history, Univ. of Edinburgh, from Mai 1854 until his premature death on 18 Nov 1854. 
+**Abbreviated name**: *E. Forbes*
 
 #### Herbarium and types
 

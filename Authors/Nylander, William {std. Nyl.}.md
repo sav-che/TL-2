@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/item/104137#page/805/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33355876) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nylander, William (1822-1899), Finnish lichenologist; M. D. Helsinki 1847; to Paris at the Muséum d'Histoire naturelle (1848); first professor of botany at the University of Helsinki 1857-1863; from 1863-1899 again in Paris. (*Nyl.*).
+Nylander, William (1822-1899), Finnish lichenologist; M. D. Helsinki 1847; to Paris at the Muséum d'Histoire naturelle (1848); first professor of botany at the University of Helsinki 1857-1863; from 1863-1899 again in Paris. 
+**Abbreviated name**: *Nyl.*
 
 #### Herbarium and types
 

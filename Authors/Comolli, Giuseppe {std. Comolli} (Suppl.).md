@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103860#page/299/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265966) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Comolli, Giuseppe {std. Comolli}|first entry]] for this author
 
 ### Author
 
-\* Comolli, Giuseppe (1780-1849), Italian botanist, born at Como, died at Pavia, professor of agriculture and rural economist at the University of Pavia. (*Comolli*).
+\* Comolli, Giuseppe (1780-1849), Italian botanist, born at Como, died at Pavia, professor of agriculture and rural economist at the University of Pavia. 
+**Abbreviated name**: *Comolli*
 
 #### Herbarium and types
 

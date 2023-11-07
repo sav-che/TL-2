@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/item/103414#page/873/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33120956) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ferguson, William {std. Ferguson} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ferguson, William (1820-1887), British civil servant in Ceylon, amateur botanist and entomologist. (*Ferguson*).
+Ferguson, William (1820-1887), British civil servant in Ceylon, amateur botanist and entomologist. 
+**Abbreviated name**: *Ferguson*
 
 #### Herbarium and types
 

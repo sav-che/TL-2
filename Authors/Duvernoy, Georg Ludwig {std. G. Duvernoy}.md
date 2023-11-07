@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103835#page/234/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33260212) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duvernoy, Georg Ludwig (fl. 1825-1834), German physician and botanist living at Stuttgart. (*G. Duvernoy*).
+Duvernoy, Georg Ludwig (fl. 1825-1834), German physician and botanist living at Stuttgart. 
+**Abbreviated name**: *G. Duvernoy*
 
 #### Herbarium and types
 

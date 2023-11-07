@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/item/103859#page/352/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265539) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bornebusch, \[Aage\] Carl Heinrich (1886-1951), Danish forester, botanist and entomologist, "Forstkandidat" 1910, Dr. phil. 1930, biologist with the state forestry department from 1921, director of the state forestry experiment station 1931-1950 ("Statens forstlige Forsøgsvaesen Springforbi"). (*Bornebusch*).
+Bornebusch, \[Aage\] Carl Heinrich (1886-1951), Danish forester, botanist and entomologist, "Forstkandidat" 1910, Dr. phil. 1930, biologist with the state forestry department from 1921, director of the state forestry experiment station 1931-1950 ("Statens forstlige Forsøgsvaesen Springforbi"). 
+**Abbreviated name**: *Bornebusch*
 
 #### Herbarium and types
 

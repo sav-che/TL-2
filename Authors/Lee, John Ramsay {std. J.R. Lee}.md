@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/item/103253#page/836/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33069052) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lee, John Ramsay (1868-1959), Scottish cashier and amateur botanist at Glasgow. (*J. R. Lee*).
+Lee, John Ramsay (1868-1959), Scottish cashier and amateur botanist at Glasgow. 
+**Abbreviated name**: *J. R. Lee*
 
 #### Herbarium and types
 

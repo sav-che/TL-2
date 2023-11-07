@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103250#page/208/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33066488) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wehrhahn, Wilhelm (1857-1926), German (Hannoverian) high school teacher and botanist; studied at the Hannover Teacher's College 1879-1882; assistant teacher at Kloster 1882; employed in the Hannover school system from 1885, teacher at the Kleinenfelde high school 1898, from 1920 as director. (*Wehrhahn*).
+Wehrhahn, Wilhelm (1857-1926), German (Hannoverian) high school teacher and botanist; studied at the Hannover Teacher's College 1879-1882; assistant teacher at Kloster 1882; employed in the Hannover school system from 1885, teacher at the Kleinenfelde high school 1898, from 1920 as director. 
+**Abbreviated name**: *Wehrhahn*
 
 #### Herbarium and types
 

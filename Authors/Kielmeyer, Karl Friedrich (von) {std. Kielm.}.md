@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/item/103253#page/563/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kielmeyer, Karl Friedrich \[von\] (1765-1844), German naturalist at Tübingen 1796-1817; at Stuttgart 1817-1839. (*Kielm.*).
+Kielmeyer, Karl Friedrich \[von\] (1765-1844), German naturalist at Tübingen 1796-1817; at Stuttgart 1817-1839. 
+**Abbreviated name**: *Kielm.*
 
 #### Herbarium and types
 

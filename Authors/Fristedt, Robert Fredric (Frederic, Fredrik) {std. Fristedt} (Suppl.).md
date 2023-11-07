@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103832#page/56/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33258484) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fristedt, Robert Fredric (Fredrik) {std. Fristedt}|first entry]] for this author
 
 ### Author
 
-\* Fristedt, Robert Fredric \[Frederic, Fredrik\] (1832-1893), Swedish pharmacologist and botanist, born 19 Jun 1832 in Stockholm, studied at Uppsala Univ. from 1851, fil. mag. 1857, med. kand. 1859, med. lic. 1861, adjunct for natural history and chemistry at Uppsala 1861 and prof. pharmacology 1877, died 16 Feb 1893 in Tomtebo nr. Uppsala. (*Fristedt*).
+\* Fristedt, Robert Fredric \[Frederic, Fredrik\] (1832-1893), Swedish pharmacologist and botanist, born 19 Jun 1832 in Stockholm, studied at Uppsala Univ. from 1851, fil. mag. 1857, med. kand. 1859, med. lic. 1861, adjunct for natural history and chemistry at Uppsala 1861 and prof. pharmacology 1877, died 16 Feb 1893 in Tomtebo nr. Uppsala. 
+**Abbreviated name**: *Fristedt*
 
 #### Herbarium and types
 

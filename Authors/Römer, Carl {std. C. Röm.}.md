@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/item/103624#page/855/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33190312) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Römer, Carl (1815-1881), German (Eupen; in 1815 Rheinpreussen) botanist; student of A.L.S. Lejeune; industrial administrator at Namiest (Moravia) ca. 1850-1870; later in Eupen and Quedlinburg. (*C. Röm.*).
+Römer, Carl (1815-1881), German (Eupen; in 1815 Rheinpreussen) botanist; student of A.L.S. Lejeune; industrial administrator at Namiest (Moravia) ca. 1850-1870; later in Eupen and Quedlinburg. 
+**Abbreviated name**: *C. Röm.*
 
 #### Herbarium and types
 

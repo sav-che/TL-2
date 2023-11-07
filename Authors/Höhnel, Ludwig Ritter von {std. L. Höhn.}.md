@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103253#page/258/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33068474) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Höhnel, Ludwig Ritter von (1857-1942), Austrian naval officer and explorer. (*L. Höhn.*).
+Höhnel, Ludwig Ritter von (1857-1942), Austrian naval officer and explorer. 
+**Abbreviated name**: *L. Höhn.*
 
 #### Herbarium and types
 

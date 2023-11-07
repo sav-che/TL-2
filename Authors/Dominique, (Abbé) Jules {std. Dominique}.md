@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103835#page/56/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33260034) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dominique, \[Abbé\] Jules (1838-1902), French priest and botanist at Nantes, worked for the "Société académique de la Loire-Inférieure ", born 1838 Nevers (Nièvre), died Nantes 7 Dec 1902, médaille d'Or de la Soc. acad. Nantes in 1884. (*Dominique*).
+Dominique, \[Abbé\] Jules (1838-1902), French priest and botanist at Nantes, worked for the "Société académique de la Loire-Inférieure ", born 1838 Nevers (Nièvre), died Nantes 7 Dec 1902, médaille d'Or de la Soc. acad. Nantes in 1884. 
+**Abbreviated name**: *Dominique*
 
 #### Herbarium and types
 

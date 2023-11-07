@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103250#page/169/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33066449) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watts, William Walter (1856-1920), British-born Australian clergyman and botanist; studied at New College, London, in training for the Congregational Church; ordained 1882; served at Stratford-on-Avon 1882-1886; to Australia (New South Wales) 1887; pastor of the Congregational Church at Milton, Brisbane 1887-1893, in New Zealand 1893-1894; minister at Orange N.S.W. (1894?-) 1895; ordained Presbyterian minister 1896; served at Ballina 1896-1903, Young 1904-1907, Gladesville-Ryde 1910-1916, ultimately in Wycheproof; studied the mosses of N.S.W. (*Watts*).
+Watts, William Walter (1856-1920), British-born Australian clergyman and botanist; studied at New College, London, in training for the Congregational Church; ordained 1882; served at Stratford-on-Avon 1882-1886; to Australia (New South Wales) 1887; pastor of the Congregational Church at Milton, Brisbane 1887-1893, in New Zealand 1893-1894; minister at Orange N.S.W. (1894?-) 1895; ordained Presbyterian minister 1896; served at Ballina 1896-1903, Young 1904-1907, Gladesville-Ryde 1910-1916, ultimately in Wycheproof; studied the mosses of N.S.W. 
+**Abbreviated name**: *Watts*
 
 #### Herbarium and types
 

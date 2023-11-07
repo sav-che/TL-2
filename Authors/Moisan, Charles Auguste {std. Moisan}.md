@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/item/104137#page/561/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33355632) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moisan, Charles Auguste (*fl*. 1839), French botanist and pharmacist at Nantes. (*Moisan*).
+Moisan, Charles Auguste (*fl*. 1839), French botanist and pharmacist at Nantes. 
+**Abbreviated name**: *Moisan*
 
 #### Herbarium and types
 

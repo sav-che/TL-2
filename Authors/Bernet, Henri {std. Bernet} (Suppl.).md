@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103859#page/119/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33265306) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernet, Henri {std. Bernet}|first entry]] for this author
 
 ### Author
 
-\* Bernet, Henri (1850-1904), Swiss (Graubünden/Grisons) botanist and physician, educated in Genève, studied medicine at the University of Jena 1872-1876, also working in the laboratory of Strasburger, Dr. med. Jena 1876, practicing in Genève, specialized in respiratory illnesses, botanically mainly interested in Hepatics, died at Lausanne. (*Bernet*).
+\* Bernet, Henri (1850-1904), Swiss (Graubünden/Grisons) botanist and physician, educated in Genève, studied medicine at the University of Jena 1872-1876, also working in the laboratory of Strasburger, Dr. med. Jena 1876, practicing in Genève, specialized in respiratory illnesses, botanically mainly interested in Hepatics, died at Lausanne. 
+**Abbreviated name**: *Bernet*
 
 #### Herbarium and types
 

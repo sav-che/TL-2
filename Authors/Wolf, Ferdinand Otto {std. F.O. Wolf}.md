@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103250#page/480/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33066760) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolf, Ferdinand Otto (1838-1906), German (Thüringian)-born Swiss botanist and musician; educated as choir and solo church singer in Ellwangen; teacher at Feldkirch 1856-1858; to Wallis (Switzerland) 1858; teacher of music and natural history at Brig 1858-1861; organist and music teacher at Sion from 1861; student of the flora of the Wallis Alps; one of the founders and later president of the Société Murithienne. (*F.O. Wolf*).
+Wolf, Ferdinand Otto (1838-1906), German (Thüringian)-born Swiss botanist and musician; educated as choir and solo church singer in Ellwangen; teacher at Feldkirch 1856-1858; to Wallis (Switzerland) 1858; teacher of music and natural history at Brig 1858-1861; organist and music teacher at Sion from 1861; student of the flora of the Wallis Alps; one of the founders and later president of the Société Murithienne. 
+**Abbreviated name**: *F.O. Wolf*
 
 #### Herbarium and types
 

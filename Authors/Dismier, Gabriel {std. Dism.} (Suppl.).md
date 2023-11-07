@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103833#page/363/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259397) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dismier, Gabriel {std. Dism.}|first entry]] for this author
 
 ### Author
 
-\* Dismier, Gabriel (1856-1942), French bryologist, born at Genève 26 Jan 1856, died 6 Feb 1942 at Vagney, family moved 1871 to Paris, in the administration of the "Chemins de fere l'Est", but giving most time to bryology. (*Dism.*).
+\* Dismier, Gabriel (1856-1942), French bryologist, born at Genève 26 Jan 1856, died 6 Feb 1942 at Vagney, family moved 1871 to Paris, in the administration of the "Chemins de fere l'Est", but giving most time to bryology. 
+**Abbreviated name**: *Dism.*
 
 #### Herbarium and types
 

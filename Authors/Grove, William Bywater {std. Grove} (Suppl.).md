@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103832#page/431/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33258897) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grove, William Bywater {std. Grove}|first entry]] for this author
 
 ### Author
 
-\* Grove, William Bywater (1848-1938), British mycologist, born 24 Oct 1848 in Birmingham (Warks.), B.A. 1871 Cambridge, headmaster, Birmingham School for Boys at Queen's College 1887-1900, lecturer in botany, Studley Horticultural College (Warks.) 1900-1908 and then Birmingham Municipal Technical School, 1905-1927, hon. Curator, Fungus Herb., Univ. of Birmingham, president Birmingham Natural History Society, M.Sc. (h.c.) 1936, died 6 Jan 1938 in Birmingham. (*Grove*).
+\* Grove, William Bywater (1848-1938), British mycologist, born 24 Oct 1848 in Birmingham (Warks.), B.A. 1871 Cambridge, headmaster, Birmingham School for Boys at Queen's College 1887-1900, lecturer in botany, Studley Horticultural College (Warks.) 1900-1908 and then Birmingham Municipal Technical School, 1905-1927, hon. Curator, Fungus Herb., Univ. of Birmingham, president Birmingham Natural History Society, M.Sc. (h.c.) 1936, died 6 Jan 1938 in Birmingham. 
+**Abbreviated name**: *Grove*
 
 #### Herbarium and types
 

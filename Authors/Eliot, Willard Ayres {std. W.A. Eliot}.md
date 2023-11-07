@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103835#page/315/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33260293) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eliot, Willard Ayres (1871-?), American botanist, born 14 Jan 1871, Sioux City, Iowa. (*W.A. Eliot*).
+Eliot, Willard Ayres (1871-?), American botanist, born 14 Jan 1871, Sioux City, Iowa. 
+**Abbreviated name**: *W.A. Eliot*
 
 #### Herbarium and types
 

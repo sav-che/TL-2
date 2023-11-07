@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/item/103253#page/681/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33068897) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kotschy, Carl (Karl) Georg Theodor (1813-1866), Austrian botanical explorer of the Orient 1835-1843; from 1847 assistant, from 1852 curator of the herbarium of the Vienna Natural History Museum (W). (*Kotschy*).
+Kotschy, Carl (Karl) Georg Theodor (1813-1866), Austrian botanical explorer of the Orient 1835-1843; from 1847 assistant, from 1852 curator of the herbarium of the Vienna Natural History Museum (W). 
+**Abbreviated name**: *Kotschy*
 
 #### Herbarium and types
 

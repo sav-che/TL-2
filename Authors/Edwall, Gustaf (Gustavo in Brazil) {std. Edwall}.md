@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103835#page/270/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33260248) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edwall, Gustaf ("Gustavo" in Brazil) (1862-1946), Swedish botanist, born 7 Jun 1862 at Karlstad, at the gymnasium until 1883, studied at the agricultural academy at Stockholm, travelled in Central Europe from 1889, went to Brazil in 1891 settling in São Paulo, as secretary for agriculture, collected plants around São Paulo until 1905, died 1946. (*Edwall*).
+Edwall, Gustaf ("Gustavo" in Brazil) (1862-1946), Swedish botanist, born 7 Jun 1862 at Karlstad, at the gymnasium until 1883, studied at the agricultural academy at Stockholm, travelled in Central Europe from 1889, went to Brazil in 1891 settling in São Paulo, as secretary for agriculture, collected plants around São Paulo until 1905, died 1946. 
+**Abbreviated name**: *Edwall*
 
 #### Herbarium and types
 

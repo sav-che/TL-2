@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/item/103414#page/730/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33120813) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drude, (Carl Georg) Oscar {std. Drude} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Drude, Carl Georg Oscar (1852-1933), German botanist at Göttingen, Dresden and Breslau, professor of botany, director of the botanic garden and Geheimrath. (*Drude*).
+Drude, Carl Georg Oscar (1852-1933), German botanist at Göttingen, Dresden and Breslau, professor of botany, director of the botanic garden and Geheimrath. 
+**Abbreviated name**: *Drude*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103624#page/160/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33189617) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peirce, George James (1868-1954), Manila-born (of American parents) American botanist; Dr. phil. Leipzig 1894 (with Pfeffer); instructor in botany, Bloomington, Ind. 1895; plant physiologist at Stanford from 1897-1934; all-round botanist; studied the effect of air pollution on plants. (*Peirce*).
+Peirce, George James (1868-1954), Manila-born (of American parents) American botanist; Dr. phil. Leipzig 1894 (with Pfeffer); instructor in botany, Bloomington, Ind. 1895; plant physiologist at Stanford from 1897-1934; all-round botanist; studied the effect of air pollution on plants. 
+**Abbreviated name**: *Peirce*
 
 #### Herbarium and types
 

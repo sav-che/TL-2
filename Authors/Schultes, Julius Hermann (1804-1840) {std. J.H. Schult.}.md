@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/item/104077#page/382/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33333507) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultes, Julius Hermann (1804-1840), Austrian-born German (Bavarian) botanist; son of J.A. Schultes; studied natural sciences and medicine at the University of Landshut; Dr. med. ib. 1825; practicing physician and director of the Landshut surgical school 1826-1831; from 1831-1840 practicing physician in München. (*J.H. Schult.*).
+Schultes, Julius Hermann (1804-1840), Austrian-born German (Bavarian) botanist; son of J.A. Schultes; studied natural sciences and medicine at the University of Landshut; Dr. med. ib. 1825; practicing physician and director of the Landshut surgical school 1826-1831; from 1831-1840 practicing physician in München. 
+**Abbreviated name**: *J.H. Schult.*
 
 #### Herbarium and types
 

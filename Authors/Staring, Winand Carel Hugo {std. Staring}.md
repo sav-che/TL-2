@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/item/104077#page/859/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33333984) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Staring, Winand Carel Hugo (1808-1877), Dutch geologist and agronomist; Dr. phil. Leiden 1833; scientist of private means, founder of Dutch geology; secretary of the Dutch State Committee for geology from 1852-1855. (*Staring*).
+Staring, Winand Carel Hugo (1808-1877), Dutch geologist and agronomist; Dr. phil. Leiden 1833; scientist of private means, founder of Dutch geology; secretary of the Dutch State Committee for geology from 1852-1855. 
+**Abbreviated name**: *Staring*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103861#page/167/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruinsma, Vitus (fl. 1906), Dutch mycologist. (*V. Bruinsma*).
+Bruinsma, Vitus (fl. 1906), Dutch mycologist. 
+**Abbreviated name**: *V. Bruinsma*
 
 #### Herbarium and types
 

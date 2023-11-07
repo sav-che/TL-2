@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/item/103253#page/217/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33068433) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hiern, William Philip (1839-1925), British botanist of independent means who worked at Kew and BM; M.A. Oxford 1868. (*Hiern*).
+Hiern, William Philip (1839-1925), British botanist of independent means who worked at Kew and BM; M.A. Oxford 1868. 
+**Abbreviated name**: *Hiern*
 
 #### Herbarium and types
 

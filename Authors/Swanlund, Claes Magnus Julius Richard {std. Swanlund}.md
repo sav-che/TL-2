@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103683#page/124/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33212156) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swanlund, Claes Magnus Julius Richard (1875-1952), Swedish botanist and pharmacist; studied in Berlin 1899-1901, Technical University Zürich 1901-1903, Copenhagen 1904, Berlin 1905-1914; Dr. phil. Basel 1901; from 1905-1914 pharmacist at Borås; id. at Norberg 1925-1931, at Borlänge 1931-1942; ultimately at Ronneby. (*Swanlund*).
+Swanlund, Claes Magnus Julius Richard (1875-1952), Swedish botanist and pharmacist; studied in Berlin 1899-1901, Technical University Zürich 1901-1903, Copenhagen 1904, Berlin 1905-1914; Dr. phil. Basel 1901; from 1905-1914 pharmacist at Borås; id. at Norberg 1925-1931, at Borlänge 1931-1942; ultimately at Ronneby. 
+**Abbreviated name**: *Swanlund*
 
 #### Herbarium and types
 

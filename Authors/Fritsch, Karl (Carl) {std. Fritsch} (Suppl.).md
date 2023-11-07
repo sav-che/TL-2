@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103832#page/64/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33258492) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fritsch, Karl, Jr. {std. Fritsch}|first entry]] for this author
 
 ### Author
 
-\* Fritsch, Karl \[Carl\] (1864-1934), Austrian botanist, born 24 Feb 1864 in Vienna, studied natural history in Innsbruck 1882-1883 and Vienna 1883-1886, Dr. phil. 1886 Vienna, volunteer at the Naturhistorischen Hofmuseum, Vienna 1889, habilitation 1890, demonstrator of systematic botany, Inst. of Plant Physiology 1892 and prof. 1896, Univ. of Vienna, moved to Univ. of Graz 1900 where he became full prof. 1905, died 17 Jan 1934 in Graz. (*Fritsch*).
+\* Fritsch, Karl \[Carl\] (1864-1934), Austrian botanist, born 24 Feb 1864 in Vienna, studied natural history in Innsbruck 1882-1883 and Vienna 1883-1886, Dr. phil. 1886 Vienna, volunteer at the Naturhistorischen Hofmuseum, Vienna 1889, habilitation 1890, demonstrator of systematic botany, Inst. of Plant Physiology 1892 and prof. 1896, Univ. of Vienna, moved to Univ. of Graz 1900 where he became full prof. 1905, died 17 Jan 1934 in Graz. 
+**Abbreviated name**: *Fritsch*
 
 #### Note
 

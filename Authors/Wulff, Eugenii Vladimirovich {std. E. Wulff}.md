@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/item/103250#page/536/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33066816) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wulff, Eugenii Vladimirovich (1885-1941), Russian botanist (plant-geographer); Dr. phil. Univ. Wien 1910; ultimately curator of the Herbarium, Department of Geography of Cultivated Plants of the U.S.S.R. Institute of Plant Industry. (*E. Wulff*).
+Wulff, Eugenii Vladimirovich (1885-1941), Russian botanist (plant-geographer); Dr. phil. Univ. Wien 1910; ultimately curator of the Herbarium, Department of Geography of Cultivated Plants of the U.S.S.R. Institute of Plant Industry. 
+**Abbreviated name**: *E. Wulff*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/item/103414#page/593/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33120676) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Copeland, Edwin Bingham {std. Copel.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Copeland, Edwin Bingham (1873-1964), American pteridologist at the University of California. (*Copeland*).
+Copeland, Edwin Bingham (1873-1964), American pteridologist at the University of California. 
+**Abbreviated name**: *Copeland*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/item/103253#page/739/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33068955) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Labram, Jonas David (1785-1852), Swiss botanical artist at Basel (*Labram*).
+Labram, Jonas David (1785-1852), Swiss botanical artist at Basel 
+**Abbreviated name**: *Labram*
 
 #### Herbarium and types
 

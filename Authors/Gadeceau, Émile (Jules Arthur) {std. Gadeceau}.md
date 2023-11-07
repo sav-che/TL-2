@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/103832#page/99/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33258565) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gadeceau, Émile \[Jules Arthur\] (1845-1928), French botanist esp. interested in the flora of Brittany, born 7 Feb 1845 in Nantes and was to succeed his father in business but devoted himself to botany, died 18 Mai 1928 in Neuilly (Seine). (*Gadeceau*).
+Gadeceau, Émile \[Jules Arthur\] (1845-1928), French botanist esp. interested in the flora of Brittany, born 7 Feb 1845 in Nantes and was to succeed his father in business but devoted himself to botany, died 18 Mai 1928 in Neuilly (Seine). 
+**Abbreviated name**: *Gadeceau*
 
 #### Herbarium and types
 

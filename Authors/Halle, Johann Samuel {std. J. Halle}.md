@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103253#page/49/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33068265) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Halle, Johann Samuel (1727-1810), German botanist, professor at the military school at Berlin. (*J. Halle*).
+Halle, Johann Samuel (1727-1810), German botanist, professor at the military school at Berlin. 
+**Abbreviated name**: *J. Halle*
 
 #### Herbarium and types
 

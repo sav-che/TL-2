@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103833#page/369/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33259403) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dissmann, Erwin (fl. 1931), Czech botanist, at the "Deutsche Universität, Abteilung für Kryptogamenkunde". (*Dissmann*).
+Dissmann, Erwin (fl. 1931), Czech botanist, at the "Deutsche Universität, Abteilung für Kryptogamenkunde". 
+**Abbreviated name**: *Dissmann*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/item/103414#page/477/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33120560) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Camp, Wendell Holmes (Red Camp) {std. Camp} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Camp, Wendel Holmes (1904-1963), American botanist. (*Camp*).
+Camp, Wendel Holmes (1904-1963), American botanist. 
+**Abbreviated name**: *Camp*
 
 #### Herbarium and types
 

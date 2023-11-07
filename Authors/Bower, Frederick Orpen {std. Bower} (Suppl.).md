@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103859#page/407/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265594) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bower, Frederick Orpen {std. Bower}|first entry]] for this author
 
 ### Author
 
-\* Bower, Frederick Orpen (1855-1948), British botanist (palaeobotanist), born in Ripon, Yorkshire, studied at the University of Cambrige 1874, Dr. phil. bot. 1877, with J. Sachs in Würzburg 1877, id. with de Bary in Strasbourg 1879, teaching at South Kensington, London and working at Kew 1880-1885, professor of botany at the University of Glasgow (regius chair) 1885 and dedicating himself to comparative morphology, retired 1925. (*Bower*).
+\* Bower, Frederick Orpen (1855-1948), British botanist (palaeobotanist), born in Ripon, Yorkshire, studied at the University of Cambrige 1874, Dr. phil. bot. 1877, with J. Sachs in Würzburg 1877, id. with de Bary in Strasbourg 1879, teaching at South Kensington, London and working at Kew 1880-1885, professor of botany at the University of Glasgow (regius chair) 1885 and dedicating himself to comparative morphology, retired 1925. 
+**Abbreviated name**: *Bower*
 
 #### Herbarium and types
 

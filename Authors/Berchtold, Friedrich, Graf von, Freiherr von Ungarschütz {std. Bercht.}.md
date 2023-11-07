@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103414#page/230/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33120313) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz {std. Bercht.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz (Uherčic) (1781-1876), Czech botanist, traveller in Europe, the Orient and Brazil (1836-1855). (*Bercht.*).
+Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz (Uherčic) (1781-1876), Czech botanist, traveller in Europe, the Orient and Brazil (1836-1855). 
+**Abbreviated name**: *Bercht.*
 
 #### Herbarium and types
 

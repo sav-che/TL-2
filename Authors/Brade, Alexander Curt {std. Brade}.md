@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103414#page/348/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33120431) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brade, Alexander Curt {std. Brade} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brade, Alexander Curt (1881-1971), German born botanist who worked in Brazil. (*A. C. Brade*).
+Brade, Alexander Curt (1881-1971), German born botanist who worked in Brazil. 
+**Abbreviated name**: *A. C. Brade*
 
 #### Herbarium and types
 

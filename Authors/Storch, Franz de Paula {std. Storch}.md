@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/103683#page/37/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33212067) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Storch, Franz de Paula (1812-?), Austrian botanist, entomologist and physician; studied at Vienna University 1832, and Padua; Dr. med. Padua 1838; physician at Salzburg 1840-1871. (*Storch*).
+Storch, Franz de Paula (1812-?), Austrian botanist, entomologist and physician; studied at Vienna University 1832, and Padua; Dr. med. Padua 1838; physician at Salzburg 1840-1871. 
+**Abbreviated name**: *Storch*
 
 #### Herbarium and types
 

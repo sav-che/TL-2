@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/item/104137#page/787/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33355858) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Norman, George (1824-1882), British diatomologist and entomologist in Yorkshire. (*G. Norm.*).
+Norman, George (1824-1882), British diatomologist and entomologist in Yorkshire. 
+**Abbreviated name**: *G. Norm.*
 
 #### Herbarium and types
 

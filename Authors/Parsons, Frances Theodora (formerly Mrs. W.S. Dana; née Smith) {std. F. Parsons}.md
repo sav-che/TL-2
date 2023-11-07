@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103624#page/97/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parsons, Frances Theodora (formerly Mrs. William Starr Dana; née Smith) (1861-1952), American popular writer on botany. (*F. Parsons*).
+Parsons, Frances Theodora (formerly Mrs. William Starr Dana; née Smith) (1861-1952), American popular writer on botany. 
+**Abbreviated name**: *F. Parsons*
 
 #### Herbarium and types
 

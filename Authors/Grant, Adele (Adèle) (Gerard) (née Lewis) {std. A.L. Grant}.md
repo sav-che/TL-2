@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/item/103832#page/342/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33258808) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grant, Adele \[Adèle\] \[Gerard\] (née Lewis) (1881-1969), American botanist, born 3 Jul 1881 in Carpenteria, Calif., B.Sc. 1902 Univ. of Calif. at Berkeley, married George F. Grant, M.A. 1919 and Ph.D. 1923 Washington Univ., St. Louis, Missouri, botany instructor, Cornell Univ., Ithaca, New York 1920-1926, lecturer, Huguenot Univ. College, S. Afr. 1926-1930, Asst. Prof., Washington Univ. 1930-1931, lecturer, Univ. of S. Calif., retired in 1952, died 19 Jun 1969 in Los Angeles (Ingelwood). (*A.L. Grant*).
+Grant, Adele \[Adèle\] \[Gerard\] (née Lewis) (1881-1969), American botanist, born 3 Jul 1881 in Carpenteria, Calif., B.Sc. 1902 Univ. of Calif. at Berkeley, married George F. Grant, M.A. 1919 and Ph.D. 1923 Washington Univ., St. Louis, Missouri, botany instructor, Cornell Univ., Ithaca, New York 1920-1926, lecturer, Huguenot Univ. College, S. Afr. 1926-1930, Asst. Prof., Washington Univ. 1930-1931, lecturer, Univ. of S. Calif., retired in 1952, died 19 Jun 1969 in Los Angeles (Ingelwood). 
+**Abbreviated name**: *A.L. Grant*
 
 #### Herbarium and types
 

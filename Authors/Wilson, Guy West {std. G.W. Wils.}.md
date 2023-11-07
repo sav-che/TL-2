@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103250#page/413/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33066693) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilson, Guy West (1877-1956), American botanist; M.Sc. DePauw 1903; professor of biology Mount Union College 1903-1904; high school teacher Lafayette, Indiana 1904-1905; Dr. sci. Purdue 1906; aide New York Botanical Garden 1906-1907; professor of biology Upper Iowa Univ. 1907-1910; assistant plant pathology North Carolina Expt. Station 1910-1912; assistant professor of mycology Iowa 1914-1916; associate botanist Clemson College 1918-1919; professor of biology Upper Iowa Univ. 1919-1927, at Penn College 1927-1930; from 1930 onward engaged in private research. (*G.W. Wils.*).
+Wilson, Guy West (1877-1956), American botanist; M.Sc. DePauw 1903; professor of biology Mount Union College 1903-1904; high school teacher Lafayette, Indiana 1904-1905; Dr. sci. Purdue 1906; aide New York Botanical Garden 1906-1907; professor of biology Upper Iowa Univ. 1907-1910; assistant plant pathology North Carolina Expt. Station 1910-1912; assistant professor of mycology Iowa 1914-1916; associate botanist Clemson College 1918-1919; professor of biology Upper Iowa Univ. 1919-1927, at Penn College 1927-1930; from 1930 onward engaged in private research. 
+**Abbreviated name**: *G.W. Wils.*
 
 #### Herbarium and types
 

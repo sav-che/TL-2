@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/item/103624#page/649/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/page/33190106) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reess, Max \[Friedrich Timotheus Ferdinand Maria\] (1845-1901), German (Baden); Dr. phil. München 1867; bot. assistant München 1867; idem Halle 1867-1868; director botanical garden Halle 1868-1872; habil. Halle 1869; professor of botany and director of the botanical garden at Erlangen 1872-1901. (*Reess*).
+Reess, Max \[Friedrich Timotheus Ferdinand Maria\] (1845-1901), German (Baden); Dr. phil. München 1867; bot. assistant München 1867; idem Halle 1867-1868; director botanical garden Halle 1868-1872; habil. Halle 1869; professor of botany and director of the botanical garden at Erlangen 1872-1901. 
+**Abbreviated name**: *Reess*
 
 #### Herbarium and types
 

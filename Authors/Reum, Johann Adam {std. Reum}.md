@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/103624#page/752/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33190209) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reum, Johann Adam (1780-1839), German (Sachsen-Meiningen) forest botanist and plant physiologist; studied at Jena, Würzburg and Heidelberg; teacher at a forestry college at Zillbach 1805-1811; Dr. phil. Jena 1808; teacher at the forestry college at Tharandt 1811-1816; professor of mathematics and forestry botany at the royal Saxonian forestry academy of Tharandt 1816-1839, also founder and director of the botanical garden of Tharandt from 1816. (*Reum*).
+Reum, Johann Adam (1780-1839), German (Sachsen-Meiningen) forest botanist and plant physiologist; studied at Jena, Würzburg and Heidelberg; teacher at a forestry college at Zillbach 1805-1811; Dr. phil. Jena 1808; teacher at the forestry college at Tharandt 1811-1816; professor of mathematics and forestry botany at the royal Saxonian forestry academy of Tharandt 1816-1839, also founder and director of the botanical garden of Tharandt from 1816. 
+**Abbreviated name**: *Reum*
 
 #### Herbarium and types
 

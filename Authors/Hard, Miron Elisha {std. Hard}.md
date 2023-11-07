@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103253#page/77/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33068293) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hard, Miron Elisha (1849-1914), American mycologist; superintendent of public instruction at Kirkwood, Mo. (*Hard*).
+Hard, Miron Elisha (1849-1914), American mycologist; superintendent of public instruction at Kirkwood, Mo. 
+**Abbreviated name**: *Hard*
 
 #### Herbarium and types
 

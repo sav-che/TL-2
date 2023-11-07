@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/item/103624#page/586/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33190043) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramond, Louis François Élisabeth de Carbonnières, baron (1753-1829), French botanist; mineralogist, politician and administrator; from 1792-1800 in the Pyrenées; from 1796-1800 teacher at Tarbes; member of the "Corps législatif" 1800-1806; préfet of Puy-de-Dôme 1806-1814; financial administrator from 1815, "phytosociologue avant la lettre". (*Ramond*).
+Ramond, Louis François Élisabeth de Carbonnières, baron (1753-1829), French botanist; mineralogist, politician and administrator; from 1792-1800 in the Pyrenées; from 1796-1800 teacher at Tarbes; member of the "Corps législatif" 1800-1806; préfet of Puy-de-Dôme 1806-1814; financial administrator from 1815, "phytosociologue avant la lettre". 
+**Abbreviated name**: *Ramond*
 
 #### Herbarium and types
 

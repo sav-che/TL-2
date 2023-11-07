@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/item/103414#page/801/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33120884) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Endress, Philipp Anton Christoph (1806-1831), German plant collector for the *Unio itineraria* at Esslingen. (*Endress*).
+Endress, Philipp Anton Christoph (1806-1831), German plant collector for the *Unio itineraria* at Esslingen. 
+**Abbreviated name**: *Endress*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103834#page/236/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259718) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, \[Carl Albert\] Hugo (1865-1939), German botanist (mainly plant physiologist and bacteriologist), born 12 Apr 1865 in Breslau (now Wroclaw, Poland), attended gymnasium there until 1883, studied natural sciences in Breslau and Halle, Dr. sci. 1890 (under F.J. Cohn), asst. at the botanical inst. in Tübingen and Heidelberg, docent Univ. of Bonn 1889, then at the agricultural experiment station in Berlin 1905, Kaiser Wilhelm-Institut in Bromberg 1915, later to Berlin, died 18 Oct 1939 in Achim nr. Bremen. (*H. Fisch.*).
+Fischer, \[Carl Albert\] Hugo (1865-1939), German botanist (mainly plant physiologist and bacteriologist), born 12 Apr 1865 in Breslau (now Wroclaw, Poland), attended gymnasium there until 1883, studied natural sciences in Breslau and Halle, Dr. sci. 1890 (under F.J. Cohn), asst. at the botanical inst. in Tübingen and Heidelberg, docent Univ. of Bonn 1889, then at the agricultural experiment station in Berlin 1905, Kaiser Wilhelm-Institut in Bromberg 1915, later to Berlin, died 18 Oct 1939 in Achim nr. Bremen. 
+**Abbreviated name**: *H. Fisch.*
 
 #### Herbarium and types
 

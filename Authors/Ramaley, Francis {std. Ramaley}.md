@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/103624#page/582/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramaley, Francis (1870-1942), American botanist and ecologist; M.Sc. Minnesota 1896; Dr. phil. ib. 1899; instructor in botany Univ. Minnesota 1895-1898, ass. prof. biology University of Colorado, Boulder; regular prof. biology and head of the department of biology University of Colorado 1899-1939. (*Ramaley*).
+Ramaley, Francis (1870-1942), American botanist and ecologist; M.Sc. Minnesota 1896; Dr. phil. ib. 1899; instructor in botany Univ. Minnesota 1895-1898, ass. prof. biology University of Colorado, Boulder; regular prof. biology and head of the department of biology University of Colorado 1899-1939. 
+**Abbreviated name**: *Ramaley*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/item/103858#page/380/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265095) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bastian, Henry Charlton (1837-1915), British (Cornwall) physician and neurologist, adhered to the doctrine of abiogenesis (opponent of Pasteur), educated at University College, London, M.A. London 1861, M.B. 1866, Fellow Royal Society 1868, from 1887 professor of pathological anatomy at University College, sometime censor Roy. Coll. Physicians, London. (*Bastian*).
+Bastian, Henry Charlton (1837-1915), British (Cornwall) physician and neurologist, adhered to the doctrine of abiogenesis (opponent of Pasteur), educated at University College, London, M.A. London 1861, M.B. 1866, Fellow Royal Society 1868, from 1887 professor of pathological anatomy at University College, sometime censor Roy. Coll. Physicians, London. 
+**Abbreviated name**: *Bastian*
 
 #### Herbarium and types
 

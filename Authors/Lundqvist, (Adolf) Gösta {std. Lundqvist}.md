@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/104137#page/213/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33355284) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lundqvist, \[Adolf\] Gösta (1894-1967), Swedish palaeobotanist; Fil. lic. Stockh. högskola 1919; with the Swedish Geological Survey (for 40 years) in various capacities. (*Lundqvist*).
+Lundqvist, \[Adolf\] Gösta (1894-1967), Swedish palaeobotanist; Fil. lic. Stockh. högskola 1919; with the Swedish Geological Survey (for 40 years) in various capacities. 
+**Abbreviated name**: *Lundqvist*
 
 #### Herbarium and types
 

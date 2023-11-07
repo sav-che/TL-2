@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/104077#page/288/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33333413) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, Gustav (x-ca. 1908), German (Silesian) botanist; mining administrator in Cunnersdorf bei Hirschberg i. Schl., later in Kattowitz. (*Gus. Schneid.*).
+Schneider, Gustav (x-ca. 1908), German (Silesian) botanist; mining administrator in Cunnersdorf bei Hirschberg i. Schl., later in Kattowitz. 
+**Abbreviated name**: *Gus. Schneid.*
 
 #### Herbarium and types
 

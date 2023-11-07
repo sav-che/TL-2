@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103833#page/109/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33259143) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davidson, Anstruther (1860-1932), British (Scottish) botanist, born at Caithness, Scotland, Medicinae Baccalaureus Univ. Glasgow 1881, M.D. 1887, emigrated to America 1889, from 1889 praticing medicine in Los Angeles, also professor at the University of S. California, died 21 Aug 1932. (*Davidson*).
+Davidson, Anstruther (1860-1932), British (Scottish) botanist, born at Caithness, Scotland, Medicinae Baccalaureus Univ. Glasgow 1881, M.D. 1887, emigrated to America 1889, from 1889 praticing medicine in Los Angeles, also professor at the University of S. California, died 21 Aug 1932. 
+**Abbreviated name**: *Davidson*
 
 #### Herbarium and types
 

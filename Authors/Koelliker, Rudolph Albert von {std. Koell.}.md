@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/103253#page/624/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33068840) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koelliker, Rudolph Albert von (1817-1905), Swiss human anatomist and botanist; Dr. phil. Zürich 1841; Dr. med. Heidelberg 1842; professor of anatomy at Heidelberg 1844-1847; id. at Würzburg from 1847. (*Koell.*).
+Koelliker, Rudolph Albert von (1817-1905), Swiss human anatomist and botanist; Dr. phil. Zürich 1841; Dr. med. Heidelberg 1842; professor of anatomy at Heidelberg 1844-1847; id. at Würzburg from 1847. 
+**Abbreviated name**: *Koell.*
 
 #### Herbarium and types
 

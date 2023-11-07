@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/103835#page/239/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33260217) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dymock, William (1832-1892), British Indian physician and botanist, born 10 Aug 1832, at the Bombay Medical Staff 1859, Surgeon-Major 1873, professor of Materia Medica at Grant College, Bombay 1874-1881, died 29 Apr 1892 at Bombay. (*Dymock*).
+Dymock, William (1832-1892), British Indian physician and botanist, born 10 Aug 1832, at the Bombay Medical Staff 1859, Surgeon-Major 1873, professor of Materia Medica at Grant College, Bombay 1874-1881, died 29 Apr 1892 at Bombay. 
+**Abbreviated name**: *Dymock*
 
 #### Herbarium and types
 

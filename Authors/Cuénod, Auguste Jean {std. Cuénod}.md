@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/103860#page/501/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33266168) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cuénod, Auguste Jean (1868-1954), Swiss botanist from Vevey, from 1895 "médecin-oculist" in Tunisia, author of a work on phyllotaxy 1934-1954, and on the Flore de Tunisie, died in Tunis 1954. (*Cuénod*).
+Cuénod, Auguste Jean (1868-1954), Swiss botanist from Vevey, from 1895 "médecin-oculist" in Tunisia, author of a work on phyllotaxy 1934-1954, and on the Flore de Tunisie, died in Tunis 1954. 
+**Abbreviated name**: *Cuénod*
 
 #### Herbarium and types
 

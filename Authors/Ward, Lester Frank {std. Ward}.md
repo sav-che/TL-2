@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/103250#page/126/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33066406) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ward, Lester Frank (1841-1913), American botanist, philosopher and sociologist; in the Union army 1862-1864; with the U.S. Treasury Department, Washington, D.C. 1865-1881; A.B. Columbian College \[later George Washington Univ.\] 1869, A.M. ib. 1872; turned to botany in 1872; assistant geologist with the United States Geological Survey 1881, geologist ib. 1883, palaeontologist ib. 1892; from ca. 1881 also active as a sociologist, pioneer of evolutionary sociology in the United States. (*Ward*).
+Ward, Lester Frank (1841-1913), American botanist, philosopher and sociologist; in the Union army 1862-1864; with the U.S. Treasury Department, Washington, D.C. 1865-1881; A.B. Columbian College \[later George Washington Univ.\] 1869, A.M. ib. 1872; turned to botany in 1872; assistant geologist with the United States Geological Survey 1881, geologist ib. 1883, palaeontologist ib. 1892; from ca. 1881 also active as a sociologist, pioneer of evolutionary sociology in the United States. 
+**Abbreviated name**: *Ward*
 
 #### Herbarium and types
 

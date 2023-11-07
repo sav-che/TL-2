@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103835#page/43/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33260021) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Domaradsky, M. (fl. 1908), German botanist. (*Domaradsky*).
+Domaradsky, M. (fl. 1908), German botanist. 
+**Abbreviated name**: *Domaradsky*
 
 #### Herbarium and types
 

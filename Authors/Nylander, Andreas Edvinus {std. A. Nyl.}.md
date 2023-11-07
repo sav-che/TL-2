@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/item/104137#page/804/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33355875) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nylander, Andreas Edvinus (1831-1890), Finnish botanist. (*A. Nyl.*).
+Nylander, Andreas Edvinus (1831-1890), Finnish botanist. 
+**Abbreviated name**: *A. Nyl.*
 
 #### Herbarium and types
 

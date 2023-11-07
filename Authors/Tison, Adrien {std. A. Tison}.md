@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/item/103683#page/378/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33212410) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tison, Adrien (*fl*. 1900-1909), French botanist at the University of Rennes; Dr. phil. Caen 1900. (*A. Tison*).
+Tison, Adrien (*fl*. 1900-1909), French botanist at the University of Rennes; Dr. phil. Caen 1900. 
+**Abbreviated name**: *A. Tison*
 
 #### Herbarium and types
 

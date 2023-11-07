@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103833#page/263/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Devold, Joakim (1908-x), Norwegian botanist. (*Devold*).
+Devold, Joakim (1908-x), Norwegian botanist. 
+**Abbreviated name**: *Devold*
 
 #### Herbarium and types
 

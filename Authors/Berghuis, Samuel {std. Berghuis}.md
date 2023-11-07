@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103859#page/104/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33265291) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berghuis, Samuel (fl. 1864-1868), Dutch grower of fruit trees. (*Berghuis*).
+Berghuis, Samuel (fl. 1864-1868), Dutch grower of fruit trees. 
+**Abbreviated name**: *Berghuis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/item/103253#page/708/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33068924) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kudô, Yûshun (1887-1932), Japanese botanist; at Hokkaido University with Miyabe; later at Taihoku Imperial University. (*Kudô*).
+Kudô, Yûshun (1887-1932), Japanese botanist; at Hokkaido University with Miyabe; later at Taihoku Imperial University. 
+**Abbreviated name**: *Kudô*
 
 #### Herbarium and types
 

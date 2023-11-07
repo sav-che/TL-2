@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103833#page/208/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33259242) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dembosz, Stanislaw (1802-1868), Polish botanist, born at Kraków 1802, died in Chrzanów near Kraków in 1868, studied medicine at the Jagellonian University in Kraków until 1841, assistant at St. Lazarus Hospital in that town 1843-1846, medical officer of the Chrzanów District 1846-1848. (*Dembosz*).
+Dembosz, Stanislaw (1802-1868), Polish botanist, born at Kraków 1802, died in Chrzanów near Kraków in 1868, studied medicine at the Jagellonian University in Kraków until 1841, assistant at St. Lazarus Hospital in that town 1843-1846, medical officer of the Chrzanów District 1846-1848. 
+**Abbreviated name**: *Dembosz*
 
 #### Herbarium and types
 

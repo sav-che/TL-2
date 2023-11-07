@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/item/103253#page/869/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33069085) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lendner, Alfred (1873-1948), Swiss mycologist. (*Lendn.*).
+Lendner, Alfred (1873-1948), Swiss mycologist. 
+**Abbreviated name**: *Lendn.*
 
 #### Herbarium and types
 

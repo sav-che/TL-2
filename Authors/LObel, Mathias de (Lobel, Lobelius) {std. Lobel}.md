@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/104137#page/146/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33355217) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-L'Obel, Mathias de \[Lobel, Lobelius\] (1538-1616), Flemish botanist; worked with Rondelet at Montpellier 1565-1566; from 1566-1572 in England; from 1572-1584 in the Netherlands, from 1584 again in England; botanist to James I; curator of Lord Edward Zouche's garden at Hackney. (*Lobel*).
+L'Obel, Mathias de \[Lobel, Lobelius\] (1538-1616), Flemish botanist; worked with Rondelet at Montpellier 1565-1566; from 1566-1572 in England; from 1572-1584 in the Netherlands, from 1584 again in England; botanist to James I; curator of Lord Edward Zouche's garden at Hackney. 
+**Abbreviated name**: *Lobel*
 
 #### Herbarium and types
 

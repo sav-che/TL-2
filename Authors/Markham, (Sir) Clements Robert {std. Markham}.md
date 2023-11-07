@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/104137#page/314/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33355385) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Markham, \[Sir\] Clements Robert (1830-1916), British geographer and botanist; traveller in Peru (1852-1854); involved in the introduction of Cinchona into India (visiting S. America agian 1860); employed by the India Office 1858-1862 (Cinchona), 1867-1877 (Geogr. dept.). (*Markham*).
+Markham, \[Sir\] Clements Robert (1830-1916), British geographer and botanist; traveller in Peru (1852-1854); involved in the introduction of Cinchona into India (visiting S. America agian 1860); employed by the India Office 1858-1862 (Cinchona), 1867-1877 (Geogr. dept.). 
+**Abbreviated name**: *Markham*
 
 #### Herbarium and types
 

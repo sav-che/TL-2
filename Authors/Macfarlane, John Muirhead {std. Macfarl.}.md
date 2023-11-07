@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/104137#page/235/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33355306) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macfarlane, John Muirhead (1855-1943), Scottish-born American botanist; BSc. Edinburgh 1880, D. Sc. id. 1883; at Edinburgh, e.g. at the Royal Veterinary College, until 1891; from 1893-1920 professor of botany at the University of Pennsylvania at Philadelphia (*Macfarl.*).
+Macfarlane, John Muirhead (1855-1943), Scottish-born American botanist; BSc. Edinburgh 1880, D. Sc. id. 1883; at Edinburgh, e.g. at the Royal Veterinary College, until 1891; from 1893-1920 professor of botany at the University of Pennsylvania at Philadelphia 
+**Abbreviated name**: *Macfarl.*
 
 #### Herbarium and types
 

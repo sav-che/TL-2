@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/103250#page/297/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33066577) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weymouth, William Anderson (1842-1928), Australian (Tasmanian) bryologist. (*Weymouth*).
+Weymouth, William Anderson (1842-1928), Australian (Tasmanian) bryologist. 
+**Abbreviated name**: *Weymouth*
 
 #### Herbarium and types
 

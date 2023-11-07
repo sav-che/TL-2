@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/item/103832#page/445/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33258911) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guba, Emil Frederick (1897-1999), American mycologist and plant pathologist, born 13 Mai 1897 in New Bedford, Mass., B.Sc. 1919 Mass. Agricultural College (now Univ. of Mass.), Amherst, Ph.D. 1923 Univ. of Illinois, plant pathologist, Cornell Univ., Ithaca, New York 1923-1925, asst. prof. 1925 and prof. 1939, Mass. Agricultural College Field Station (a.k.a. Market Garden Field Station), Waltham, Mass., retired 1962, died 16 Mar 1999 in Kingston, Mass. (buried in Waltham). (*Guba*).
+Guba, Emil Frederick (1897-1999), American mycologist and plant pathologist, born 13 Mai 1897 in New Bedford, Mass., B.Sc. 1919 Mass. Agricultural College (now Univ. of Mass.), Amherst, Ph.D. 1923 Univ. of Illinois, plant pathologist, Cornell Univ., Ithaca, New York 1923-1925, asst. prof. 1925 and prof. 1939, Mass. Agricultural College Field Station (a.k.a. Market Garden Field Station), Waltham, Mass., retired 1962, died 16 Mar 1999 in Kingston, Mass. (buried in Waltham). 
+**Abbreviated name**: *Guba*
 
 #### Herbarium and types
 

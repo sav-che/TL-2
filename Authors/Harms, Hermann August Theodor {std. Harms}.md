@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103253#page/82/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33068298) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harms, Hermann August Theodor (1870-1942), German botanist of the Engler school; at Berlin from 1893; executive editor of "Pflanzenreich" from 1900, of Engler and Prantl ed. 2 from 1930. (*Harms*).
+Harms, Hermann August Theodor (1870-1942), German botanist of the Engler school; at Berlin from 1893; executive editor of "Pflanzenreich" from 1900, of Engler and Prantl ed. 2 from 1930. 
+**Abbreviated name**: *Harms*
 
 #### Herbarium and types
 

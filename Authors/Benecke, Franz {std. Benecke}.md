@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/103859#page/77/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33265264) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Benecke, Franz (1857-1903), German (Berlin) botanist, studied at the Agricultural University of Berlin, and at the universities of Halle and Heidelberg, Dr. phil. Heidelberg 1879-1880 with E.H.H. Pfitzer, assistant Heidelberg 1880-1882, at the University of Basel 1882-1883 with H. Vöchting, assistant with E. Schulze Zürich 1885-1886, habil. Zürich Polytechnic 1885, botanist at the Agricultural Experiment Station at Möckern nr. Leipzig 1888-1889, assistant scientist at the Central Java sugar-cane experiment station at Semarang 1890, director ib. succeeding F.W.O. Soltwedel 1890-1893, in charge of the phytopathological dept. of the Instituto agronomica, Campinas, São Paulo, Brazil 1893-1895, living in Berlin, Hamburg 1895-1899, Tennstedt, Thüringen 1899-1903. (*Benecke*).
+Benecke, Franz (1857-1903), German (Berlin) botanist, studied at the Agricultural University of Berlin, and at the universities of Halle and Heidelberg, Dr. phil. Heidelberg 1879-1880 with E.H.H. Pfitzer, assistant Heidelberg 1880-1882, at the University of Basel 1882-1883 with H. Vöchting, assistant with E. Schulze Zürich 1885-1886, habil. Zürich Polytechnic 1885, botanist at the Agricultural Experiment Station at Möckern nr. Leipzig 1888-1889, assistant scientist at the Central Java sugar-cane experiment station at Semarang 1890, director ib. succeeding F.W.O. Soltwedel 1890-1893, in charge of the phytopathological dept. of the Instituto agronomica, Campinas, São Paulo, Brazil 1893-1895, living in Berlin, Hamburg 1895-1899, Tennstedt, Thüringen 1899-1903. 
+**Abbreviated name**: *Benecke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/item/103624#page/941/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/page/33190398) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rothpletz, \[Friedrich\] August (1853-1918), German (Pfalz-born of a Swiss father) palaeontologist; studied at Heidelberg und Zürich; geologist at the Geological Survey of Saxony 1875-1880; travelling in Europe 1880-1882; Dr. phil. Leipzig 1882; in München with K. von Zittel 1882; habil. München 1884; professor of geology and palaeontology at the University of München and director of the Bayerische geologisch-paläontologische Staatssammlung as successor to K. von Zittel 1904-1918. (*Rothpletz*).
+Rothpletz, \[Friedrich\] August (1853-1918), German (Pfalz-born of a Swiss father) palaeontologist; studied at Heidelberg und Zürich; geologist at the Geological Survey of Saxony 1875-1880; travelling in Europe 1880-1882; Dr. phil. Leipzig 1882; in München with K. von Zittel 1882; habil. München 1884; professor of geology and palaeontology at the University of München and director of the Bayerische geologisch-paläontologische Staatssammlung as successor to K. von Zittel 1904-1918. 
+**Abbreviated name**: *Rothpletz*
 
 #### Herbarium and types
 

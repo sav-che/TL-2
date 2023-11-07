@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103859#page/206/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33265393) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blakeslee, Albert Francis {std. Blakeslee}|first entry]] for this author
 
 ### Author
 
-\* Blakeslee, Albert Francis (1874-1954), American (N.Y. State) geneticist, educated at East Greenwich (Rhode Isl.) Academy, studied at Wesleyan University, grad. 1896, teaching at secondary schools 1896-1899, studied at Harvard University, masters degree 1900, Dr. phil. 1904, worked at the Botanical Institute at Halle, Germany 1904-1906, instructor in cryptogamic botany at Harvard and Radcliffe College 1906-1907, professor of botany at the Connecticut Agriculture College (incl. director of its garden) 1907-1911, and 1913-1915, at the Station for experimental evolution, Long Island at Cold Spring Harbor 1912-1913, member of id. 1913, resident plant geneticist ib. 1915-1941, sometime concurrently director of the Department of Genetics, Carnegie Institution of Washington, D.C. (*Blakeslee*).
+\* Blakeslee, Albert Francis (1874-1954), American (N.Y. State) geneticist, educated at East Greenwich (Rhode Isl.) Academy, studied at Wesleyan University, grad. 1896, teaching at secondary schools 1896-1899, studied at Harvard University, masters degree 1900, Dr. phil. 1904, worked at the Botanical Institute at Halle, Germany 1904-1906, instructor in cryptogamic botany at Harvard and Radcliffe College 1906-1907, professor of botany at the Connecticut Agriculture College (incl. director of its garden) 1907-1911, and 1913-1915, at the Station for experimental evolution, Long Island at Cold Spring Harbor 1912-1913, member of id. 1913, resident plant geneticist ib. 1915-1941, sometime concurrently director of the Department of Genetics, Carnegie Institution of Washington, D.C. 
+**Abbreviated name**: *Blakeslee*
 
 #### Herbarium and types
 

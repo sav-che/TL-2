@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/104077#page/346/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schreiber, Franz (1839-?), German (Rhein-Hessen) botanist; Dr. phil. Bonn 1865. (*F. Schreiber*).
+Schreiber, Franz (1839-?), German (Rhein-Hessen) botanist; Dr. phil. Bonn 1865. 
+**Abbreviated name**: *F. Schreiber*
 
 #### Herbarium and types
 

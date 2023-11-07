@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103683#page/82/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33212114) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sturm, Karl (1879-?), German botanist; studied at Jena and Zürich; student of H. Schinz; Dr. phil. 1910. (*K. Sturm*).
+Sturm, Karl (1879-?), German botanist; studied at Jena and Zürich; student of H. Schinz; Dr. phil. 1910. 
+**Abbreviated name**: *K. Sturm*
 
 #### Herbarium and types
 

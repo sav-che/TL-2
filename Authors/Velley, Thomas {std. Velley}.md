@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/item/103683#page/706/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33212738) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Velley, Thomas (1749-1806), British soldier and botanist; D.C.L. Oxford Univ. 1787; lieutenant-colonel in the Oxford militia; long-time resident of Bath, botanising in association with J.E. Smith, D. Turner, J. Stackhouse, W. Watson and R. Relhan. (*Velley*).
+Velley, Thomas (1749-1806), British soldier and botanist; D.C.L. Oxford Univ. 1787; lieutenant-colonel in the Oxford militia; long-time resident of Bath, botanising in association with J.E. Smith, D. Turner, J. Stackhouse, W. Watson and R. Relhan. 
+**Abbreviated name**: *Velley*
 
 #### Herbarium and types
 

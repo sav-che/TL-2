@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103683#page/102/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33212134) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sumner, George (1793-1855), American physician and botanist; studied at Yale (grad. 1813) and the University of Pennsylvania (M.D. 1817); practicing physician at Hartford, Conn. 1819; professor of botany at Trinity College ib. 1824-1855. (*Sumner*).
+Sumner, George (1793-1855), American physician and botanist; studied at Yale (grad. 1813) and the University of Pennsylvania (M.D. 1817); practicing physician at Hartford, Conn. 1819; professor of botany at Trinity College ib. 1824-1855. 
+**Abbreviated name**: *Sumner*
 
 #### Herbarium and types
 

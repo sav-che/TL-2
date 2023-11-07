@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/103253#page/796/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lauth, Thomas (1758-1826), Alsatian botanist and physician; Dr. med. Strasbourg 1781; professor of anatomy at Strasbourg. (*Lauth*).
+Lauth, Thomas (1758-1826), Alsatian botanist and physician; Dr. med. Strasbourg 1781; professor of anatomy at Strasbourg. 
+**Abbreviated name**: *Lauth*
 
 #### Herbarium and types
 

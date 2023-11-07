@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/104137#page/210/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lundell, Cyrus Longworth (1907-x), American botanist; BA Southern Methodist Univ. 1932; assistant botanical garden Ann Arbor 1932-1936; Dr. phil. Univ. Mich. 1936 assistant curator at MICH 1936-1939; curator of phanerogams ib. 1939-1944; at Southern Methodist University 1944-1948; at the Texas Research Foundation Renner 1946-1972; subsequently at Dallas, Texas. (*C. Lundell*).
+Lundell, Cyrus Longworth (1907-x), American botanist; BA Southern Methodist Univ. 1932; assistant botanical garden Ann Arbor 1932-1936; Dr. phil. Univ. Mich. 1936 assistant curator at MICH 1936-1939; curator of phanerogams ib. 1939-1944; at Southern Methodist University 1944-1948; at the Texas Research Foundation Renner 1946-1972; subsequently at Dallas, Texas. 
+**Abbreviated name**: *C. Lundell*
 
 #### Herbarium and types
 

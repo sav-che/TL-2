@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103859#page/45/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265232) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beckett, Thomas W. Naylor (1839-1906), British botanist, coffee planter in Ceylon, collected plants there 1882-1883, travelled and collected in the Himalayas circa 1900, in New Zealand 1903-1906. (*Beckett*).
+Beckett, Thomas W. Naylor (1839-1906), British botanist, coffee planter in Ceylon, collected plants there 1882-1883, travelled and collected in the Himalayas circa 1900, in New Zealand 1903-1906. 
+**Abbreviated name**: *Beckett*
 
 #### Herbarium and types
 

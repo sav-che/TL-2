@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103832#page/104/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33258570) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gäumann, Ernest Albert {std. Gäum.}|first entry]] for this author
 
 ### Author
 
-\* Gäumann, Ernst Albert (1893-1963), Swiss mycologist and plant pathologist, born 6 Oct 1893 in Lyss (Kt. Berne), attended Gymnasium in Biel, Ph.D. 1917 Bern (under Eduard Fischer), in Indonesia 1919-1922, prof., Dept. of Special Botany, Swiss Federal Inst. of Technology, Zürich & dir., Bot. Museum 1927-1963, specialized in parasitic fungi and mosses, Dr. h.c. Bonn, Bordeaux, Montpellier and Paris, Corr. Member B.S.A., died 5 Dec 1963 in Zürich. (*Gäumann*).
+\* Gäumann, Ernst Albert (1893-1963), Swiss mycologist and plant pathologist, born 6 Oct 1893 in Lyss (Kt. Berne), attended Gymnasium in Biel, Ph.D. 1917 Bern (under Eduard Fischer), in Indonesia 1919-1922, prof., Dept. of Special Botany, Swiss Federal Inst. of Technology, Zürich & dir., Bot. Museum 1927-1963, specialized in parasitic fungi and mosses, Dr. h.c. Bonn, Bordeaux, Montpellier and Paris, Corr. Member B.S.A., died 5 Dec 1963 in Zürich. 
+**Abbreviated name**: *Gäumann*
 
 #### Herbarium and types
 

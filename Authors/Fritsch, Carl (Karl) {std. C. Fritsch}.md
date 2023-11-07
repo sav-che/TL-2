@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103832#page/59/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33258487) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fritsch, Carl \[Karl\] (1812-1879), Austrian scientist, born 16 Aug 1812 in Prague (now Czech Republic), where he studied law 1833-1836, but being more interested in astronomy, became an asst. at the Prague observatory 1851, adjunct and eventually vice-dir., Central-Anstalt für Meteorologie und Erdmagnetismus, Vienna, well known for his phenological observations on plants and animals, retired and moved to Salzburg in 1871 where he died on 26 Dec 1879. (*C. Fritsch*).
+Fritsch, Carl \[Karl\] (1812-1879), Austrian scientist, born 16 Aug 1812 in Prague (now Czech Republic), where he studied law 1833-1836, but being more interested in astronomy, became an asst. at the Prague observatory 1851, adjunct and eventually vice-dir., Central-Anstalt für Meteorologie und Erdmagnetismus, Vienna, well known for his phenological observations on plants and animals, retired and moved to Salzburg in 1871 where he died on 26 Dec 1879. 
+**Abbreviated name**: *C. Fritsch*
 
 #### Note
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103414#page/141/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33120224) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bailey, Jacob Whitman {std. J.W. Bailey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bailey, Jacob Whitman (1811-1857), American botanist. (*J. W. Bailey*).
+Bailey, Jacob Whitman (1811-1857), American botanist. 
+**Abbreviated name**: *J. W. Bailey*
 
 #### Herbarium and types
 

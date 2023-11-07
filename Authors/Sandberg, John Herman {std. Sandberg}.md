@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/104077#page/41/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33333128) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sandberg, John Herman (1848-1917), Swedish-born American botanist, agronomist and forester; came to America in 1868; practicing physician at Jenkins and Minneapolis, Minnesota; field agent with USDA (Divi Bot.) 1892; collected widely in Minnesota (1885-1894), Idaho (1886-1892), Washington (1887-1893), Montana (1887, 1892-1893), Michigan 1889-1890, Wisconsin 1890. (*Sandberg*).
+Sandberg, John Herman (1848-1917), Swedish-born American botanist, agronomist and forester; came to America in 1868; practicing physician at Jenkins and Minneapolis, Minnesota; field agent with USDA (Divi Bot.) 1892; collected widely in Minnesota (1885-1894), Idaho (1886-1892), Washington (1887-1893), Montana (1887, 1892-1893), Michigan 1889-1890, Wisconsin 1890. 
+**Abbreviated name**: *Sandberg*
 
 #### Herbarium and types
 

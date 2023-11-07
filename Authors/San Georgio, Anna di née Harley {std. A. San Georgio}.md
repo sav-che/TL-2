@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/104077#page/50/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33333137) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-San Georgio, Anna di née Harley (1803-1874), British-born Italian botanist at Florence. (*A. San Georgio*).
+San Georgio, Anna di née Harley (1803-1874), British-born Italian botanist at Florence. 
+**Abbreviated name**: *A. San Georgio*
 
 #### Herbarium and types
 

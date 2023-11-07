@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103859#page/302/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33265489) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolle, Carl (Karl) August {std. Bolle}|first entry]] for this author
 
 ### Author
 
-\* Bolle, Carl \[Karl\] August (1821-1909), German (Berlin) botanist, ornithologist and dendrologist, independent scholar of private means, delegate in the board of the public parks of Berlin, collected widely in Europe, the Canary Islands and the Cape Verde Islands, close associate of Paul Ascherson, had an arboretum on the Insel Scharfenberg in the Tegeler See, "Kommerzienrat" of Prussia 1897. (*Bolle*).
+\* Bolle, Carl \[Karl\] August (1821-1909), German (Berlin) botanist, ornithologist and dendrologist, independent scholar of private means, delegate in the board of the public parks of Berlin, collected widely in Europe, the Canary Islands and the Cape Verde Islands, close associate of Paul Ascherson, had an arboretum on the Insel Scharfenberg in the Tegeler See, "Kommerzienrat" of Prussia 1897. 
+**Abbreviated name**: *Bolle*
 
 #### Herbarium and types
 

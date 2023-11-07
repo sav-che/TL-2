@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103861#page/216/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33266513) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buekers, P. G. (fl. 1904-1909), Dutch botanist. (*Buekers*).
+Buekers, P. G. (fl. 1904-1909), Dutch botanist. 
+**Abbreviated name**: *Buekers*
 
 #### Herbarium and types
 

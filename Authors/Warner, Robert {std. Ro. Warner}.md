@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103250#page/142/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33066422) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warner, Robert (c. 1815-1896), British orchid grower at Chelmsford. (*Ro. Warner*).
+Warner, Robert (c. 1815-1896), British orchid grower at Chelmsford. 
+**Abbreviated name**: *Ro. Warner*
 
 #### Herbarium and types
 

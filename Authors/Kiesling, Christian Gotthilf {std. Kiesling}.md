@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/item/103253#page/564/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kiesling, Christian Gotthilf (1724-1754), German botanist. (*Kiesling*).
+Kiesling, Christian Gotthilf (1724-1754), German botanist. 
+**Abbreviated name**: *Kiesling*
 
 #### Herbarium and types
 

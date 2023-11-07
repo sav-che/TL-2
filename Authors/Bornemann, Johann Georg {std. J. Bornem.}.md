@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/103414#page/329/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33120412) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bornemann, Johann Georg {std. J. Bornem.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bornemann, Johann Georg (1831-1896), German geologist and palaeobotanist at Eisenach, Thüringen. (*J. Bornemann*).
+Bornemann, Johann Georg (1831-1896), German geologist and palaeobotanist at Eisenach, Thüringen. 
+**Abbreviated name**: *J. Bornemann*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/item/103414#page/560/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33120643) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clinton, George Perkins {std. G.P. Clinton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Clinton, George Perkins (1867-1937), American mycologist. (*G. P. Clinton*).
+Clinton, George Perkins (1867-1937), American mycologist. 
+**Abbreviated name**: *G. P. Clinton*
 
 #### Herbarium and types
 

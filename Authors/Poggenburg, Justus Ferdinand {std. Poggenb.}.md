@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/item/103624#page/328/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33189785) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poggenburg, Justus Ferdinand (1840-1893), German-born (Hannover) American botanist; at his death business manager of the "New Yorker Staats Zeitung". (*Poggenb.*).
+Poggenburg, Justus Ferdinand (1840-1893), German-born (Hannover) American botanist; at his death business manager of the "New Yorker Staats Zeitung". 
+**Abbreviated name**: *Poggenb.*
 
 #### Herbarium and types
 

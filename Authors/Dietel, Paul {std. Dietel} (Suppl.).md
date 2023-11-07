@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103833#page/333/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259367) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dietel, Paul {std. Dietel}|first entry]] for this author
 
 ### Author
 
-\* Dietel, Paul (1860-1947), German botanist, "Altmeister der deutschen Uredineen-Forschung", born 15 Feb 1860 in Greiz, Thüringen, died 30 Oct 1947 in Zwickau, Sachsen, studied in Berlin and Göttingen mathematics and natural sciences, end of "Probejahre" 1886-1887 in Greiz, promotion under Dr. Ludwig, Johann-Friedrichs-Universität in Jena, worked in Leipzig, Reichenbach im Vogtland, Glauchau 1907-1934, ultimately retired from Zwickau 1924. (*Dietel*).
+\* Dietel, Paul (1860-1947), German botanist, "Altmeister der deutschen Uredineen-Forschung", born 15 Feb 1860 in Greiz, Thüringen, died 30 Oct 1947 in Zwickau, Sachsen, studied in Berlin and Göttingen mathematics and natural sciences, end of "Probejahre" 1886-1887 in Greiz, promotion under Dr. Ludwig, Johann-Friedrichs-Universität in Jena, worked in Leipzig, Reichenbach im Vogtland, Glauchau 1907-1934, ultimately retired from Zwickau 1924. 
+**Abbreviated name**: *Dietel*
 
 #### Herbarium and types
 

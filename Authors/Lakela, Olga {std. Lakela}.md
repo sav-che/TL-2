@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/103253#page/753/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33068969) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lakela, Olga (1890-x), Finnish-born American botanist; to America 1906; ultimately at the University of Minnesota, Duluth Branch. (*Lakela*).
+Lakela, Olga (1890-x), Finnish-born American botanist; to America 1906; ultimately at the University of Minnesota, Duluth Branch. 
+**Abbreviated name**: *Lakela*
 
 #### Herbarium and types
 

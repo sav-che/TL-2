@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103860#page/345/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33266012) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coons, George Herbert (1885-x), American botanist, plant pathologist, born at Bloomington, III., studied at the University of Illinois, Urbana, A.B. 1908 at the University of Nebraska, AM 1911, University of Michigan, Ph.D. 1915, professor of botany at Michigan State College 1925-1929, from 1929 principal pathologist at U.S.D.A., specialist of sugarbeet technology. (*Coons*).
+Coons, George Herbert (1885-x), American botanist, plant pathologist, born at Bloomington, III., studied at the University of Illinois, Urbana, A.B. 1908 at the University of Nebraska, AM 1911, University of Michigan, Ph.D. 1915, professor of botany at Michigan State College 1925-1929, from 1929 principal pathologist at U.S.D.A., specialist of sugarbeet technology. 
+**Abbreviated name**: *Coons*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103833#page/108/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33259142) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davids, Eugen (fl. 1822), Dutch botanist and physician, studied at the University of Leiden. (*Eu. Davids*).
+Davids, Eugen (fl. 1822), Dutch botanist and physician, studied at the University of Leiden. 
+**Abbreviated name**: *Eu. Davids*
 
 #### Herbarium and types
 

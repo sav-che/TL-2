@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/item/103860#page/496/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33266163) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crueger, Hermann {std. Crueg.}|first entry]] for this author
 
 ### Author
 
-\* Crüger, Hermann (1818-1864), German pharmacist and botanist, born at Hamburg, educated by his father F. Crüger in Kuhbier (Prignitz), pupil in a pharmacy in Lüneburg, later id. at Hamburg, moved to Trinidad 1841 also in a pharmacy, 1857 director of the botanical gardens at Port of Spain as colonial botanist, died in San Fernando, Trinidad. (*Crueg.*).
+\* Crüger, Hermann (1818-1864), German pharmacist and botanist, born at Hamburg, educated by his father F. Crüger in Kuhbier (Prignitz), pupil in a pharmacy in Lüneburg, later id. at Hamburg, moved to Trinidad 1841 also in a pharmacy, 1857 director of the botanical gardens at Port of Spain as colonial botanist, died in San Fernando, Trinidad. 
+**Abbreviated name**: *Crueg.*
 
 #### Herbarium and types
 

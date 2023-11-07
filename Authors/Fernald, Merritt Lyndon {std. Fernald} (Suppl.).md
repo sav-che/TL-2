@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103834#page/167/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33259649) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fernald, Merritt Lyndon {std. Fernald}|first entry]] for this author
 
 ### Author
 
-\* Fernald, Merritt Lyndon (1873-1950), American botanist, born 5 Oct 1873 in Orono, Maine, educated at Maine State College of Agriculture and Mechanic Arts (now Univ. of Maine at Orono) and Lawrence Scientific School of Harvard Univ., Cambridge, Mass., asst. 1891-1902, Gray Herb., Harvard Univ. (recruited by Sereno Watson), B.Sci. (magna cum laude) 1897 Harvard College, instructor 1902-1905, asst. prof. 1905-1915, Fisher Prof. of Natural History 1915-1947, curator 1935-1937 and dir. of the Gray Herb. 1937-1947, all Harvard Univ., D.C.L. 1933 Acadia Univ. and D.Sc. 1938 Univ. of Montreal, F.L.S., president A.S.P.T. 1938 and B.S.A. 1940, author of more than 830 papers (!), recipient of numerous awards, died 22 Sep 1950 in Cambridge, Mass. (*Fernald*).
+\* Fernald, Merritt Lyndon (1873-1950), American botanist, born 5 Oct 1873 in Orono, Maine, educated at Maine State College of Agriculture and Mechanic Arts (now Univ. of Maine at Orono) and Lawrence Scientific School of Harvard Univ., Cambridge, Mass., asst. 1891-1902, Gray Herb., Harvard Univ. (recruited by Sereno Watson), B.Sci. (magna cum laude) 1897 Harvard College, instructor 1902-1905, asst. prof. 1905-1915, Fisher Prof. of Natural History 1915-1947, curator 1935-1937 and dir. of the Gray Herb. 1937-1947, all Harvard Univ., D.C.L. 1933 Acadia Univ. and D.Sc. 1938 Univ. of Montreal, F.L.S., president A.S.P.T. 1938 and B.S.A. 1940, author of more than 830 papers (!), recipient of numerous awards, died 22 Sep 1950 in Cambridge, Mass. 
+**Abbreviated name**: *Fernald*
 
 #### Herbarium and types
 

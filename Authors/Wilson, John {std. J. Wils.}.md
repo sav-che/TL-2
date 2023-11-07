@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/item/103250#page/414/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33066694) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilson, John (1696-1751), British shoemaker, baker and botanist at Kendal, Westmorland. (*J. Wils.*).
+Wilson, John (1696-1751), British shoemaker, baker and botanist at Kendal, Westmorland. 
+**Abbreviated name**: *J. Wils.*
 
 #### Herbarium and types
 

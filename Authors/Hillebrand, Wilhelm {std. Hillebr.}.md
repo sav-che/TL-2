@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103253#page/231/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33068447) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hillebrand, Wilhelm (1821-1886), German physician, botanist, and traveller who lived for twenty years in the Hawaiian Islands (1851-1871). (*Hillebr.*).
+Hillebrand, Wilhelm (1821-1886), German physician, botanist, and traveller who lived for twenty years in the Hawaiian Islands (1851-1871). 
+**Abbreviated name**: *Hillebr.*
 
 #### Herbarium and types
 

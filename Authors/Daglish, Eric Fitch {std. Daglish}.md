@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/item/103833#page/17/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33259051) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daglish, Eric Fitch (1892-1966), English artist (illustrator and wood engravor) and author of zoological and botanical books, born 29 Aug 1892 at London, educated at Hertford County College, served in British Army 1916-1922 as Squadron Leader R.A.F. in W.W. II, died 5 Apr 1966 at Speen, Aylesbury, Buckinghamshire. (*Daglish*).
+Daglish, Eric Fitch (1892-1966), English artist (illustrator and wood engravor) and author of zoological and botanical books, born 29 Aug 1892 at London, educated at Hertford County College, served in British Army 1916-1922 as Squadron Leader R.A.F. in W.W. II, died 5 Apr 1966 at Speen, Aylesbury, Buckinghamshire. 
+**Abbreviated name**: *Daglish*
 
 #### Herbarium and types
 

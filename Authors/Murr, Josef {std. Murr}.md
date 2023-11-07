@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/item/104137#page/682/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33355753) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murr, Josef (1864-1932), Austrian botanist and high school teacher at Hall (1888-1890), Innsbruck (1890-1891), Marburg (1891-1894). Linz (1894-1897), Trient (1897-1906), Feldkirch (1906-1919), ultimately at Innsbruck. (*Murr*).
+Murr, Josef (1864-1932), Austrian botanist and high school teacher at Hall (1888-1890), Innsbruck (1890-1891), Marburg (1891-1894). Linz (1894-1897), Trient (1897-1906), Feldkirch (1906-1919), ultimately at Innsbruck. 
+**Abbreviated name**: *Murr*
 
 #### Herbarium and types
 

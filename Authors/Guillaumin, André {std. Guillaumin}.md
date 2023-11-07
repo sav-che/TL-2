@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/item/103414#page/1069/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33121152) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Guillaumin, André (Louis Joseph Edmond Armand) {std. Guillaumin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Guillaumin, André (1885-1974), French botanist and explorer. (*Guillaumin*).
+Guillaumin, André (1885-1974), French botanist and explorer. 
+**Abbreviated name**: *Guillaumin*
 
 #### Herbarium and types
 

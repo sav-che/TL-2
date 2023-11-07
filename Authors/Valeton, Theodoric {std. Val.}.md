@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/103683#page/659/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33212691) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Valeton, Theodoric (1855-1929), Dutch botanist educated at the University of Groningen; assistant at the botanical laboratory circa 1879-1885; Dr. phil. 1886; high school teacher at Groningen 1885-1889; bacteriologist at the Java Sugar Experiment Station, Pasuruan, E.Java 1889-1892, working on the Sereh disease of Sugar-cane; from 1892-1913 scientist at the Buitenzorg Botanic Garden, ultimately as head of the herbarium; in retirement in Holland from 1913 but again in Buitenzorg 1915-1919 to study the Zingiberaceae, and from 1919 in the Netherlands working at the Leiden Rijksherbarium. (*Val.*).
+Valeton, Theodoric (1855-1929), Dutch botanist educated at the University of Groningen; assistant at the botanical laboratory circa 1879-1885; Dr. phil. 1886; high school teacher at Groningen 1885-1889; bacteriologist at the Java Sugar Experiment Station, Pasuruan, E.Java 1889-1892, working on the Sereh disease of Sugar-cane; from 1892-1913 scientist at the Buitenzorg Botanic Garden, ultimately as head of the herbarium; in retirement in Holland from 1913 but again in Buitenzorg 1915-1919 to study the Zingiberaceae, and from 1919 in the Netherlands working at the Leiden Rijksherbarium. 
+**Abbreviated name**: *Val.*
 
 #### Herbarium and types
 

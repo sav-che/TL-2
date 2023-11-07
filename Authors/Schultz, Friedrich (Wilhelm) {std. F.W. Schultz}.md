@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/104077#page/390/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33333515) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultz, Friedrich \[Wilhelm\] (1804-1876), German (Rhenisch-Palatinate) pharmacist and botanist; brother of C.H. Schultz Bipontinus; studied pharmacy at München 1827-1829; Dr. med. Tübingen 1829; state examination pharmacy München 1831; from 1832-1836 practicing pharmacist in Bitsch \[Bitche\] (Elsass); from 1876 dedicating himself to botany; from 1853-1876 at Weissenburg (Elsass). (*F.W. Schultz*).
+Schultz, Friedrich \[Wilhelm\] (1804-1876), German (Rhenisch-Palatinate) pharmacist and botanist; brother of C.H. Schultz Bipontinus; studied pharmacy at München 1827-1829; Dr. med. Tübingen 1829; state examination pharmacy München 1831; from 1832-1836 practicing pharmacist in Bitsch \[Bitche\] (Elsass); from 1876 dedicating himself to botany; from 1853-1876 at Weissenburg (Elsass). 
+**Abbreviated name**: *F.W. Schultz*
 
 #### Herbarium and types
 

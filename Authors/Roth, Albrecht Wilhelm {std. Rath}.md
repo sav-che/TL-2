@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/item/103624#page/930/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33190387) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roth, Albrecht Wilhelm (1757-1834), German (Oldenburg) physician and botanist; studied medicine at Halle 1775-1778 and Erlangen 1778; Dr. med. Erlangen 1778; practicing physician at Vegesack nr. Bremen from 1779; regional physician from 1781. (*Rath*).
+Roth, Albrecht Wilhelm (1757-1834), German (Oldenburg) physician and botanist; studied medicine at Halle 1775-1778 and Erlangen 1778; Dr. med. Erlangen 1778; practicing physician at Vegesack nr. Bremen from 1779; regional physician from 1781. 
+**Abbreviated name**: *Rath*
 
 #### Herbarium and types
 

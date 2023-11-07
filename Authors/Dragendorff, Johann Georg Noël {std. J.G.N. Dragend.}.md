@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/item/103835#page/95/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33260073) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dragendorff, Johann Georg Noël (1836-1898), German pharmacist and botanist, born at Rostock 20 Apr 1936, died ib. 7 Apr 1898, studied at the University of Rostock, 1861 Dr. phil., 1864-1894 as professor of pharmacy in Dorpat (Russia), returned to Rostock. (*J.G.N. Dragend.*).
+Dragendorff, Johann Georg Noël (1836-1898), German pharmacist and botanist, born at Rostock 20 Apr 1936, died ib. 7 Apr 1898, studied at the University of Rostock, 1861 Dr. phil., 1864-1894 as professor of pharmacy in Dorpat (Russia), returned to Rostock. 
+**Abbreviated name**: *J.G.N. Dragend.*
 
 #### Herbarium and types
 

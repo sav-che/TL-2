@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103683#page/94/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33212126) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suhr, Johannes (1882-?), German (Hamburg) algologist; studied natural sciences in München and Göttingen; Dr. phil. Göttingen 1905. (*J. Suhr*).
+Suhr, Johannes (1882-?), German (Hamburg) algologist; studied natural sciences in München and Göttingen; Dr. phil. Göttingen 1905. 
+**Abbreviated name**: *J. Suhr*
 
 #### Herbarium and types
 

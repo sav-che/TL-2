@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103835#page/12/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33259990) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dobrowolski, Jan Marjan (1886-1958), Polish botanist and pharmacologist, prof. University of Poznán. (*Dobrowolski*).
+Dobrowolski, Jan Marjan (1886-1958), Polish botanist and pharmacologist, prof. University of Poznán. 
+**Abbreviated name**: *Dobrowolski*
 
 #### Herbarium and types
 

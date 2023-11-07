@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103859#page/395/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33265582) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boulger, George Edward Simmonds {std. Boulger}|first entry]] for this author
 
 ### Author
 
-\* Boulger, George \[Edward\] Simmonds (1853-1922), British botanist, born at Bletchingley, Surrey, educated at Wellington and Epsom Colleges as well as at the "Middle Temple", professor of natural history at the Royal Agricultural College, Cirencester 1876, from 1884 lecturer on botany and geology at the City of London College, id. also at the Imperial Institute from 1917, active in the Essex Field Club and the Selborne Society, historian of British botany. (*Boulger*).
+\* Boulger, George \[Edward\] Simmonds (1853-1922), British botanist, born at Bletchingley, Surrey, educated at Wellington and Epsom Colleges as well as at the "Middle Temple", professor of natural history at the Royal Agricultural College, Cirencester 1876, from 1884 lecturer on botany and geology at the City of London College, id. also at the Imperial Institute from 1917, active in the Essex Field Club and the Selborne Society, historian of British botany. 
+**Abbreviated name**: *Boulger*
 
 #### Herbarium and types
 

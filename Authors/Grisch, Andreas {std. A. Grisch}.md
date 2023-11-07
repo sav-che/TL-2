@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103832#page/411/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33258877) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grisch, Andreas (1879-1952), Swiss agronomist (and botanist), born either in Sur (Kt. Graubünden) or "5 Jan 1879 possibly Surlej (Gem. Silvaplana)", Doctorate 1907 Zurich, author of textbooks for agricultural students and farmers, died 6 Feb 1952 in Küsnacht nr. Zurich. (*A. Grisch*).
+Grisch, Andreas (1879-1952), Swiss agronomist (and botanist), born either in Sur (Kt. Graubünden) or "5 Jan 1879 possibly Surlej (Gem. Silvaplana)", Doctorate 1907 Zurich, author of textbooks for agricultural students and farmers, died 6 Feb 1952 in Küsnacht nr. Zurich. 
+**Abbreviated name**: *A. Grisch*
 
 #### Herbarium and types
 

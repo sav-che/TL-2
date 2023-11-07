@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/item/104077#page/395/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultze, Christian Friedrich (1730-1755), German paleontologist. (*C. Schultze*).
+Schultze, Christian Friedrich (1730-1755), German paleontologist. 
+**Abbreviated name**: *C. Schultze*
 
 #### Herbarium and types
 

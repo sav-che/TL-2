@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103833#page/67/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33259101) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Daniels, Francis Potter {std. Daniels}|first entry]] for this author
 
 ### Author
 
-\* Daniels, Francis Potter (1869-1947), American botanist and minister, born at Ionia, Mich. 1869, A.B. at Michigan 1895, A.M. Missouri 1897, Harvard 1897-1898, Ph.D. 1905, professor of romance languages Cornell Coll. (Iowa) 1906-1909, at Wabash College 1909-1916, taught in summer session at Univ. Colorado 1906, was assistant curator US 1911, professor of romance languages at Georgia State College for women from 1923. (*Daniels*).
+\* Daniels, Francis Potter (1869-1947), American botanist and minister, born at Ionia, Mich. 1869, A.B. at Michigan 1895, A.M. Missouri 1897, Harvard 1897-1898, Ph.D. 1905, professor of romance languages Cornell Coll. (Iowa) 1906-1909, at Wabash College 1909-1916, taught in summer session at Univ. Colorado 1906, was assistant curator US 1911, professor of romance languages at Georgia State College for women from 1923. 
+**Abbreviated name**: *Daniels*
 
 #### Herbarium and types
 

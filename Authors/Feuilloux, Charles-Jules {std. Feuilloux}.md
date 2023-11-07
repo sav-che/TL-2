@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103834#page/192/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33259674) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Feuilloux, Charles-Jules (1865-x), French pharmacist, born 24 Dec 1865 in Yzeure \[Iseure in his thesis\] (Allier), studied pharmacy in Paris under (François) Gustav Planchon (1833-1900), worked in Parisian hospitals, received the "Prix Menier" 1890. (*Feuilloux*).
+Feuilloux, Charles-Jules (1865-x), French pharmacist, born 24 Dec 1865 in Yzeure \[Iseure in his thesis\] (Allier), studied pharmacy in Paris under (François) Gustav Planchon (1833-1900), worked in Parisian hospitals, received the "Prix Menier" 1890. 
+**Abbreviated name**: *Feuilloux*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103859#page/249/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33265436) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bobisut, O. (fl. 1904), Austrian botanist, student of G. Haberlandt, assistant at the Botanical Institute of the University of Graz. (*Bobisut*).
+Bobisut, O. (fl. 1904), Austrian botanist, student of G. Haberlandt, assistant at the Botanical Institute of the University of Graz. 
+**Abbreviated name**: *Bobisut*
 
 #### Herbarium and types
 

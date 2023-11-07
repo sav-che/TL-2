@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103414#page/127/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33120210) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aublet, Jean Baptiste Christophe Fusée {std. Aubl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Aublet, Jean Baptiste Christophe Fusée (1720-1778), French explorer and botanist, founder of the knowledge of the flora of Guyana. (*Aubl.*).
+Aublet, Jean Baptiste Christophe Fusée (1720-1778), French explorer and botanist, founder of the knowledge of the flora of Guyana. 
+**Abbreviated name**: *Aubl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103683#page/21/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33212083) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Störck, Anton \[Freiherr\] von (1731-1803), German (Württemberg) physician and pharmacologist in Vienna; Dr. med. 1757; from 1760 private physician to the emperor; 1766 dean at the Vienna Medical Faculty, rector of the University 1768; later director of the Medical Faculty and of the medical studies at the University; "Freiherr" 1777. (*Störck*).
+Störck, Anton \[Freiherr\] von (1731-1803), German (Württemberg) physician and pharmacologist in Vienna; Dr. med. 1757; from 1760 private physician to the emperor; 1766 dean at the Vienna Medical Faculty, rector of the University 1768; later director of the Medical Faculty and of the medical studies at the University; "Freiherr" 1777. 
+**Abbreviated name**: *Störck*
 
 #### Herbarium and types
 

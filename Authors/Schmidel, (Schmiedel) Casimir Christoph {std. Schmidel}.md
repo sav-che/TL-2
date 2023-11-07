@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/104077#page/251/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33333376) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidel, \[Schmiedel\] Casimir Christoph (1718-1792), German (Bavarian) physician and naturalist; Dr. med. Jena 1742; professor of medicine and pharmacology at the University of Bayreuth/Erlangen 1743-1763; physician to Margrave Carl Alexander in Ansbach 1763; Dr. med. h.c. Erlangen 1783. (*Schmidel*).
+Schmidel, \[Schmiedel\] Casimir Christoph (1718-1792), German (Bavarian) physician and naturalist; Dr. med. Jena 1742; professor of medicine and pharmacology at the University of Bayreuth/Erlangen 1743-1763; physician to Margrave Carl Alexander in Ansbach 1763; Dr. med. h.c. Erlangen 1783. 
+**Abbreviated name**: *Schmidel*
 
 #### Herbarium and types
 

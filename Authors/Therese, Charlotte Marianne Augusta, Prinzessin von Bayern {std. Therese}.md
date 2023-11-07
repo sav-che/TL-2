@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103683#page/258/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33212290) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Therese, Charlotte Marianne Augusta, Prinzessin von Bayern (1850-1925), German (Bavarian) princess; travelled in the Mediterranean region 1875-1876, in Scandinavia 1881, in Russia 1882, in S.E. Europe 1883, via Spain to Brasilia 1888, in the Balkan Peninsula 1890, in N. America and Mexico 1893, in S. America 1898, collecting natural history material; Dr. phil. h.c. München 1897. (*Therese*).
+Therese, Charlotte Marianne Augusta, Prinzessin von Bayern (1850-1925), German (Bavarian) princess; travelled in the Mediterranean region 1875-1876, in Scandinavia 1881, in Russia 1882, in S.E. Europe 1883, via Spain to Brasilia 1888, in the Balkan Peninsula 1890, in N. America and Mexico 1893, in S. America 1898, collecting natural history material; Dr. phil. h.c. München 1897. 
+**Abbreviated name**: *Therese*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103250#page/440/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winslow, Evelyn James (1870-1949), American teacher and pteridologist; around 1919 assistant principal at Lasell Seminary, Auburndale, Mass.; founder and managing editor, American Fern Journal 1910-1935. (*E. Winslow*).
+Winslow, Evelyn James (1870-1949), American teacher and pteridologist; around 1919 assistant principal at Lasell Seminary, Auburndale, Mass.; founder and managing editor, American Fern Journal 1910-1935. 
+**Abbreviated name**: *E. Winslow*
 
 #### Herbarium and types
 

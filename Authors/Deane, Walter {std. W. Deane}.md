@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/item/103414#page/653/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33120736) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deane, Walter {std. W. Deane} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Deane, Walter (1848-1930), American botanist and ornithologist. (*W. Deane*).
+Deane, Walter (1848-1930), American botanist and ornithologist. 
+**Abbreviated name**: *W. Deane*
 
 #### Herbarium and types
 

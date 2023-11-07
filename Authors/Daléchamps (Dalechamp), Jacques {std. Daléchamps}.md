@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/item/103414#page/638/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daléchamps (Dalechamp), Jacques (1513-1588), French medical humanist, physician and botanist at Lyon. (*Daléchamps*).
+Daléchamps (Dalechamp), Jacques (1513-1588), French medical humanist, physician and botanist at Lyon. 
+**Abbreviated name**: *Daléchamps*
 
 #### Herbarium and types
 

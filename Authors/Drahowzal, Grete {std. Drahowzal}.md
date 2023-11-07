@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103835#page/96/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33260074) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drahowzal, Grete (fl. 1936), Austrian botanist at Vienna (Austria), at the botanical institute of the university. (*Drahowzal*).
+Drahowzal, Grete (fl. 1936), Austrian botanist at Vienna (Austria), at the botanical institute of the university. 
+**Abbreviated name**: *Drahowzal*
 
 #### Herbarium and types
 

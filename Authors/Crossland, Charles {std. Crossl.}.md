@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/item/103860#page/488/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33266155) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crossland, Charles (1844-1916), British mycologist, born at Halifax Yorks, actively in business but found much time to spend on botany and bibliography, painted and drew 550 botanical specimens. (*Crossl.*).
+Crossland, Charles (1844-1916), British mycologist, born at Halifax Yorks, actively in business but found much time to spend on botany and bibliography, painted and drew 550 botanical specimens. 
+**Abbreviated name**: *Crossl.*
 
 #### Herbarium and types
 

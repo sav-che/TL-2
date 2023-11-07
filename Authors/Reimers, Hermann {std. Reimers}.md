@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/item/103624#page/710/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33190167) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reimers, Hermann (1893-1961), German (Holstein) botanist, studied at Freiburg and Kiel, in charge of the biology department of the "Deutsche\[s\] Forschungsinstitut für Textilrohstoffe" at Karlsruhe; Dr. phil. Hamburg 1922; from 1922-1958 at Berlin-Dahlem (1922 assistant; curator 1948); professor at the Humboldt University, Berlin 1947-1951; bryologist and student of the flora of the Mark Brandenburg. (*Reimers*).
+Reimers, Hermann (1893-1961), German (Holstein) botanist, studied at Freiburg and Kiel, in charge of the biology department of the "Deutsche\[s\] Forschungsinstitut für Textilrohstoffe" at Karlsruhe; Dr. phil. Hamburg 1922; from 1922-1958 at Berlin-Dahlem (1922 assistant; curator 1948); professor at the Humboldt University, Berlin 1947-1951; bryologist and student of the flora of the Mark Brandenburg. 
+**Abbreviated name**: *Reimers*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103859#page/311/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265498) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bomansson, Johan Oskar (1838-1906), Finnish botanist, sheriff's clerk and landowner in the Åland Islands, specialized in the bryology of Åland. (*Bom.*).
+Bomansson, Johan Oskar (1838-1906), Finnish botanist, sheriff's clerk and landowner in the Åland Islands, specialized in the bryology of Åland. 
+**Abbreviated name**: *Bom.*
 
 #### Herbarium and types
 

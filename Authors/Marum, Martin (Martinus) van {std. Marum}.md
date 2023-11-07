@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/item/104137#page/361/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33355432) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marum, Martin \[Martinus\] van (1750-1837), Dutch physician and naturalist; Ph. D. Groningen 1773; main founder of the collections and library of Teyler's Stichting at Haarlem. (*Marum*).
+Marum, Martin \[Martinus\] van (1750-1837), Dutch physician and naturalist; Ph. D. Groningen 1773; main founder of the collections and library of Teyler's Stichting at Haarlem. 
+**Abbreviated name**: *Marum*
 
 #### Herbarium and types
 

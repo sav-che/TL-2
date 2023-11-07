@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/item/103683#page/554/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33212586) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turner, Dawson (1775-1858), British banker and botanist; studied at Pembroke College, Cambridge 1793-1794; from 1796-1850 with the Yarmouth bank; from 1850-1853 in London and Barnes; from 1853 in Old Brompton. (*Turn.*).
+Turner, Dawson (1775-1858), British banker and botanist; studied at Pembroke College, Cambridge 1793-1794; from 1796-1850 with the Yarmouth bank; from 1850-1853 in London and Barnes; from 1853 in Old Brompton. 
+**Abbreviated name**: *Turn.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/item/103414#page/923/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33121006) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Frémy, Pierre (Abbé) {std. Frémy} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Frémy, Pierre (abbé) (1880-1944), French algologist. (*Frémy*).
+Frémy, Pierre (abbé) (1880-1944), French algologist. 
+**Abbreviated name**: *Frémy*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/103859#page/114/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265301) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berlin, \[Johan\] August (1851-1910), Swedish physician and botanist, educated at Stockholms gymnasium o.i. Uppsala 1871, studied at Lund 1876, med. cand. Karolinska Inst. Stockholm 1876, med. lic. ib. 1883, Dr. med. Uppsala 1888, provincial physician Stockholm district from 1892. (*Berlin*).
+Berlin, \[Johan\] August (1851-1910), Swedish physician and botanist, educated at Stockholms gymnasium o.i. Uppsala 1871, studied at Lund 1876, med. cand. Karolinska Inst. Stockholm 1876, med. lic. ib. 1883, Dr. med. Uppsala 1888, provincial physician Stockholm district from 1892. 
+**Abbreviated name**: *Berlin*
 
 #### Herbarium and types
 

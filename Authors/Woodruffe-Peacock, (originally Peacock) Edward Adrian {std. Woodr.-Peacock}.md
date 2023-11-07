@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/item/103250#page/503/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33066783) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woodruffe-Peacock, \[originally Peacock\] Edward Adrian (1858-1922), British clergyman and botanist; studied at St. John's College, Cambridge 1877, at Durham University 1879; ordained 1881 (dean), 1883 (priest) curate at Long Benton, Northumberland 1881-1884; Barkingside, Essex (1884-1886), Harrington, Northamptonshire 1886-1890; from 1891 vicar at Cadney (*Woodr.-Peacock*).
+Woodruffe-Peacock, \[originally Peacock\] Edward Adrian (1858-1922), British clergyman and botanist; studied at St. John's College, Cambridge 1877, at Durham University 1879; ordained 1881 (dean), 1883 (priest) curate at Long Benton, Northumberland 1881-1884; Barkingside, Essex (1884-1886), Harrington, Northamptonshire 1886-1890; from 1891 vicar at Cadney 
+**Abbreviated name**: *Woodr.-Peacock*
 
 #### Herbarium and types
 

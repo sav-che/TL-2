@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/104137#page/374/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33355445) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Massart, Jean (1865-1925), Belgian botanist; curator at the Jardin botanique de l'État, Bruxelles (1902-1905); director of the botanical institute Léo Errera (1906-1925). (*Massart*).
+Massart, Jean (1865-1925), Belgian botanist; curator at the Jardin botanique de l'État, Bruxelles (1902-1905); director of the botanical institute Léo Errera (1906-1925). 
+**Abbreviated name**: *Massart*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/104137#page/386/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33355457) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mattfeld, Johannes (1895-1951), German botanist at Berlin-Dahlem, pupil of Engler; Dr. phil. Berlin 1920; from 1919-1951 at the Botanical Museum, Berlin-Dahlem. (*Mattf.*).
+Mattfeld, Johannes (1895-1951), German botanist at Berlin-Dahlem, pupil of Engler; Dr. phil. Berlin 1920; from 1919-1951 at the Botanical Museum, Berlin-Dahlem. 
+**Abbreviated name**: *Mattf.*
 
 #### Herbarium and types
 

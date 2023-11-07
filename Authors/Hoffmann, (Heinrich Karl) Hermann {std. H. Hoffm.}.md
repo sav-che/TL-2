@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/item/103253#page/268/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33068484) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoffmann, \[Heinrich Karl\] Hermann (1819-1891), German mycologist, plant-geographer, and experimental systematist; Dr. med. Giessen 1841; practicing physician 1842; Privatdozent 1842; extraordinary professor 1848; from 1853 full professor of botany; from 1851 director of the botanic garden at Giessen. (*H. Hoffm.*).
+Hoffmann, \[Heinrich Karl\] Hermann (1819-1891), German mycologist, plant-geographer, and experimental systematist; Dr. med. Giessen 1841; practicing physician 1842; Privatdozent 1842; extraordinary professor 1848; from 1853 full professor of botany; from 1851 director of the botanic garden at Giessen. 
+**Abbreviated name**: *H. Hoffm.*
 
 #### Herbarium and types
 

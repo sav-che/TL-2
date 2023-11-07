@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/item/103683#page/553/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33212585) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turio, Bernardino (*fl*. 1806), Italian botanist at Chiavari. (*Turio*).
+Turio, Bernardino (*fl*. 1806), Italian botanist at Chiavari. 
+**Abbreviated name**: *Turio*
 
 #### Herbarium and types
 

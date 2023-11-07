@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/104077#page/278/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33333403) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmitz, Johann Joseph (1813-1845), German (Rheinland) botanist and teacher; studied natural sciences at Bonn 1834-1838; at the "Ritteracademie" in Bedburg a. Rhein. (*J.J. Schmitz*).
+Schmitz, Johann Joseph (1813-1845), German (Rheinland) botanist and teacher; studied natural sciences at Bonn 1834-1838; at the "Ritteracademie" in Bedburg a. Rhein. 
+**Abbreviated name**: *J.J. Schmitz*
 
 #### Herbarium and types
 

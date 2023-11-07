@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1048](https://www.biodiversitylibrary.org/item/103624#page/1062/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1048](https://www.biodiversitylibrary.org/page/33190519) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sadler, Joseph (1791-1849), Hungarian botanist; assistant for chemistry and botany at the University of Budapest 1815-1819; Dr. med. Univ. Budapest 1820; subsequently curator at the National Hungarian Museum for zoology and mineralogy; ultimately professor of botany and director of the University Botanic Garden, Budapest 1834-1849. (*Jos. Sadler*).
+Sadler, Joseph (1791-1849), Hungarian botanist; assistant for chemistry and botany at the University of Budapest 1815-1819; Dr. med. Univ. Budapest 1820; subsequently curator at the National Hungarian Museum for zoology and mineralogy; ultimately professor of botany and director of the University Botanic Garden, Budapest 1834-1849. 
+**Abbreviated name**: *Jos. Sadler*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/103414#page/115/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33120198) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arnott, George Arnott (sometimes Arnold) Walker {std. Arnott} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arnott, George Arnott \[sometimes: Arnold\] Walker (1799-1868), Scottish botanist. (*Arnott*).
+Arnott, George Arnott \[sometimes: Arnold\] Walker (1799-1868), Scottish botanist. 
+**Abbreviated name**: *Arnott*
 
 #### Herbarium and types
 

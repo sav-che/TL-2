@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/item/103253#page/806/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33069022) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lebrun, Jean (1906-x), Belgian botanist. (*Lebrun*).
+Lebrun, Jean (1906-x), Belgian botanist. 
+**Abbreviated name**: *Lebrun*
 
 #### Herbarium and types
 

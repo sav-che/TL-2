@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/item/103833#page/375/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33259409) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dixon, Hugh Neville {std. Dixon}|first entry]] for this author
 
 ### Author
 
-\* Dixon, Hugh Neville (1861-1944), Britsh botanist (bryologist), born 20 Apr 1861 at Wickham Bishops, Essex, died at Northampton 9 Mai 1944, entered Christ's College Cambridge 1879, graduated with honours 1883, leaving Cambridge, settled in Northampton 1883-1941, assistant later headmaster at the Northampton school for the deaf and dumb until 1911, from then on mainly working as bryologist. (*Dixon*).
+\* Dixon, Hugh Neville (1861-1944), Britsh botanist (bryologist), born 20 Apr 1861 at Wickham Bishops, Essex, died at Northampton 9 Mai 1944, entered Christ's College Cambridge 1879, graduated with honours 1883, leaving Cambridge, settled in Northampton 1883-1941, assistant later headmaster at the Northampton school for the deaf and dumb until 1911, from then on mainly working as bryologist. 
+**Abbreviated name**: *Dixon*
 
 #### Herbarium and types
 

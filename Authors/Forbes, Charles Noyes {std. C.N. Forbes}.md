@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103834#page/330/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33259812) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forbes, Charles Noyes (1883-1920), American botanist (pteridologist and taxonomist), born 24 Sep 1883 in Boylston, Mass., attended high school in Calif., B.S. 1908 Univ. of Calif. at Berkeley, Asst. in Botany 1908, then Curator of Botany 1909-1920, Bernice Pauahi Bishop Museum of Polynesian Ethnology and Nat. Hist., Honolulu, Hawaii, died 8 Aug 1920 in Kaimuki, Honolulu. (*C.N. Forbes*).
+Forbes, Charles Noyes (1883-1920), American botanist (pteridologist and taxonomist), born 24 Sep 1883 in Boylston, Mass., attended high school in Calif., B.S. 1908 Univ. of Calif. at Berkeley, Asst. in Botany 1908, then Curator of Botany 1909-1920, Bernice Pauahi Bishop Museum of Polynesian Ethnology and Nat. Hist., Honolulu, Hawaii, died 8 Aug 1920 in Kaimuki, Honolulu. 
+**Abbreviated name**: *C.N. Forbes*
 
 #### Herbarium and types
 

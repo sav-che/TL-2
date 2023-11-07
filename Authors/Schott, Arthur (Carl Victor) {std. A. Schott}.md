@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/104077#page/317/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33333442) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schott, Arthur \[Carl Victor\] (1814-1875), German (Württemberg) naturalist, explorer and plant collector; manager of several estates in Germany and in charge of a mining property in Hungary; travelled in S. Europe, Turkey and Arabia 1848; to the United States 1850; in New York 1850-1851; surveyor on the Mexican Boundary Survey 1851-1864; in the field 1851-1853, 1854, 1855, 1857, but stationed at Washington D.C.; in charge of a geological survey of Yucatan 1864-1866; in various Government functions in Washington, D.C. 1866-1875. (*A. Schott*).
+Schott, Arthur \[Carl Victor\] (1814-1875), German (Württemberg) naturalist, explorer and plant collector; manager of several estates in Germany and in charge of a mining property in Hungary; travelled in S. Europe, Turkey and Arabia 1848; to the United States 1850; in New York 1850-1851; surveyor on the Mexican Boundary Survey 1851-1864; in the field 1851-1853, 1854, 1855, 1857, but stationed at Washington D.C.; in charge of a geological survey of Yucatan 1864-1866; in various Government functions in Washington, D.C. 1866-1875. 
+**Abbreviated name**: *A. Schott*
 
 #### Herbarium and types
 

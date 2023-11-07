@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103859#page/305/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33265492) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bolle, Friedrich Franz August Albrecht (1905-x), German (Potsdam born) botanist, studied botany at the University of Berlin, student of Diels at the Botanical Garden and Museum Berlin, Dr. phil. Berlin 1934, assistant at the Botanical Museum 1933-1934, id. with Harms at the Preussische Akademie der Wissenschaften; on active service 1941-1946, scientist at the Pflanzenschutzamt in Kiel 1946-1970. (*F. Bolle*).
+Bolle, Friedrich Franz August Albrecht (1905-x), German (Potsdam born) botanist, studied botany at the University of Berlin, student of Diels at the Botanical Garden and Museum Berlin, Dr. phil. Berlin 1934, assistant at the Botanical Museum 1933-1934, id. with Harms at the Preussische Akademie der Wissenschaften; on active service 1941-1946, scientist at the Pflanzenschutzamt in Kiel 1946-1970. 
+**Abbreviated name**: *F. Bolle*
 
 #### Herbarium and types
 

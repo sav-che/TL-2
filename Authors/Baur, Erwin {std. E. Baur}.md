@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/103858#page/402/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33265117) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baur, Erwin (1875-1933), German (Baden) botanist, grew up in Ichenheim (Baden), Volksschule 1881-1885, at a Gymnasium in Konstanz 1885-1888, idem in Karlsruhe 1888-1894, studied medicine, general natural sciences, ultimately botany at the universities of Heidelberg, Freiburg, Strassburg and (1897-1900) Kiel, Dr. med. Kiel 1900, enlisted in the German navy 1901-1902, assistant physician in Kiel and Emmendingen (Baden), Dr. phil. Freiburg with Oltmans 1903, assistant with Schwendener in Berlin 1903-1911, habil. Univ. Berlin 1904, succeeded Kny as professor of botany at the Agricultural University in Berlin 1911-1914, director of the Kaiser Wilhelm's Institute ib. 1914-1933, founder and longtime editor of Zeitschrift fuer induktive Abstammungs- und Vererbungslehre, founder of the Institute for Genetics Dahlem 1921 and the Institute für Züchtungsforschung, Müncheberg 1928. (*E. Baur*).
+Baur, Erwin (1875-1933), German (Baden) botanist, grew up in Ichenheim (Baden), Volksschule 1881-1885, at a Gymnasium in Konstanz 1885-1888, idem in Karlsruhe 1888-1894, studied medicine, general natural sciences, ultimately botany at the universities of Heidelberg, Freiburg, Strassburg and (1897-1900) Kiel, Dr. med. Kiel 1900, enlisted in the German navy 1901-1902, assistant physician in Kiel and Emmendingen (Baden), Dr. phil. Freiburg with Oltmans 1903, assistant with Schwendener in Berlin 1903-1911, habil. Univ. Berlin 1904, succeeded Kny as professor of botany at the Agricultural University in Berlin 1911-1914, director of the Kaiser Wilhelm's Institute ib. 1914-1933, founder and longtime editor of Zeitschrift fuer induktive Abstammungs- und Vererbungslehre, founder of the Institute for Genetics Dahlem 1921 and the Institute für Züchtungsforschung, Müncheberg 1928. 
+**Abbreviated name**: *E. Baur*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103860#page/121/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265788) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chisholm, Edwin Claude (c. 1880-1944), Australian physician and botanist, probably born in New South Wales, studied at the University of Sydney, graduated 1904, interested in the native flora, especially the Eucalypts, collected in New South Wales and a Prairie in Queensland. (*Chisholm*).
+Chisholm, Edwin Claude (c. 1880-1944), Australian physician and botanist, probably born in New South Wales, studied at the University of Sydney, graduated 1904, interested in the native flora, especially the Eucalypts, collected in New South Wales and a Prairie in Queensland. 
+**Abbreviated name**: *Chisholm*
 
 #### Herbarium and types
 

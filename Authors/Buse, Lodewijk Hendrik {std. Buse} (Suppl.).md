@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103861#page/287/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33266584) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buse, L. H. {std. Buse}|first entry]] for this author
 
 ### Author
 
-\* Buse, Lodewijk Hendrik (1819-1888), Dutch botanist and lawyer, born at Haarlem, collected in its surroundings with H.D. Gildemeester Buse, studied law at Utrecht (doctor of laws), moved to Renkum soon after 1845 (the year of the foundation of the Dutch Botanical Society of wich B. was a founder-member), issued *Musci neerlandici* (exsicc.) together with his wife Mrs. Buse-Koppiers, travelled in England and Germany, corresponded with Juratzka and Milde, active in the Dutch Botanical Society until 1865. (*Buse*).
+\* Buse, Lodewijk Hendrik (1819-1888), Dutch botanist and lawyer, born at Haarlem, collected in its surroundings with H.D. Gildemeester Buse, studied law at Utrecht (doctor of laws), moved to Renkum soon after 1845 (the year of the foundation of the Dutch Botanical Society of wich B. was a founder-member), issued *Musci neerlandici* (exsicc.) together with his wife Mrs. Buse-Koppiers, travelled in England and Germany, corresponded with Juratzka and Milde, active in the Dutch Botanical Society until 1865. 
+**Abbreviated name**: *Buse*
 
 #### Note
 

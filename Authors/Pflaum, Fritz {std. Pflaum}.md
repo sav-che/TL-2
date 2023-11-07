@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103624#page/242/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33189699) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pflaum, Fritz (*fl*. 1897), German (Bavarian) botanist; Dr. phil. München 1897. (*Pflaum*).
+Pflaum, Fritz (*fl*. 1897), German (Bavarian) botanist; Dr. phil. München 1897. 
+**Abbreviated name**: *Pflaum*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103253#page/548/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33068764) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ker, John Bellenden (1764-1842), British botanist at Ramridge; editor of *Botanical Register* 1815-1824; until 5 Nov 1804, John Gawler. (*Ker-Gawl.*).
+Ker, John Bellenden (1764-1842), British botanist at Ramridge; editor of *Botanical Register* 1815-1824; until 5 Nov 1804, John Gawler. 
+**Abbreviated name**: *Ker-Gawl.*
 
 #### Herbarium and types
 

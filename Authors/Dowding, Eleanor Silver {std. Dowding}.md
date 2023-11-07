@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/item/103835#page/90/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dowding, Eleanor Silver (1901-x), Canadian botanist, born 1901 in London, England, B.S. and M.S. University of Alberta, Ph.D. University of Alberta, at Dept. of Bacteriology 1954-1957, Dept. of Botany 1958-1961, Dept. of Genetics 1962-1973. (*Dowding*).
+Dowding, Eleanor Silver (1901-x), Canadian botanist, born 1901 in London, England, B.S. and M.S. University of Alberta, Ph.D. University of Alberta, at Dept. of Bacteriology 1954-1957, Dept. of Botany 1958-1961, Dept. of Genetics 1962-1973. 
+**Abbreviated name**: *Dowding*
 
 #### Herbarium and types
 

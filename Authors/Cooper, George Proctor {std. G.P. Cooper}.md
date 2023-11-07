@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103860#page/348/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33266015) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooper, George Proctor (1896-x), American forester, field assistant in tropical forestry, Yale University, collected plants in Panama and Liberia. (*G.P. Cooper*).
+Cooper, George Proctor (1896-x), American forester, field assistant in tropical forestry, Yale University, collected plants in Panama and Liberia. 
+**Abbreviated name**: *G.P. Cooper*
 
 #### Herbarium and types
 

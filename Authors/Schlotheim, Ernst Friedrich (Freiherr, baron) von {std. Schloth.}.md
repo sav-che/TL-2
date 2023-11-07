@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/104077#page/240/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33333365) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlotheim, Ernst Friedrich \[Freiherr, baron\] von (1764-1832), German (Thüringian) magistrate, palaeontologist and geologist; educated at the Gotha gymnasium 1779-1781; studied public administration and natural sciences at Göttingen and geology at the Freiberg (Saxony) mining academy; entered the Gotha civil service 1793 as "Beisitzer" (assessor), "dirigierender Rat" (1805), Präsident des Kammercollegiums (1817) and Oberhofmarschall (1828); pioneer palaeobotanist. (*Schloth.*).
+Schlotheim, Ernst Friedrich \[Freiherr, baron\] von (1764-1832), German (Thüringian) magistrate, palaeontologist and geologist; educated at the Gotha gymnasium 1779-1781; studied public administration and natural sciences at Göttingen and geology at the Freiberg (Saxony) mining academy; entered the Gotha civil service 1793 as "Beisitzer" (assessor), "dirigierender Rat" (1805), Präsident des Kammercollegiums (1817) and Oberhofmarschall (1828); pioneer palaeobotanist. 
+**Abbreviated name**: *Schloth.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103414#page/289/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33120372) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blytt, Axel Gudbrand {std. A. Blytt} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blytt, Axel Gudbrand (1843-1898), Norwegian botanist and palaeobiologist, professor of botany at Oslo, son of Matthias Numsen Blytt. (*A. Blytt*).
+Blytt, Axel Gudbrand (1843-1898), Norwegian botanist and palaeobiologist, professor of botany at Oslo, son of Matthias Numsen Blytt. 
+**Abbreviated name**: *A. Blytt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/104137#page/626/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33355697) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mouton, Victor (*fl*. 1875-1901), Belgian mycologist at Liège. (*V. Mouton*).
+Mouton, Victor (*fl*. 1875-1901), Belgian mycologist at Liège. 
+**Abbreviated name**: *V. Mouton*
 
 #### Herbarium and types
 

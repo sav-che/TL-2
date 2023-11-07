@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103832#page/77/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33258543) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fry, Edward (Sir) (1827-1918), British lawyer, judge and cryptogamic botanist also interested in archeology, astronomy and geology, born 4 Nov 1827 in Bristol (Gloucs.), educated at Bristol College 1841-1842 and Univ. College, London from 1843, B.A. 1851 in classics and physiology, called to the bar 1854, Queen's Counsel 1869, appointed Judge of the High Court of Justice 1877-1883, Lord Justice of Appeal 1883-1892, published also together with his daughter Agnes Fry (1868-1957), knighted 1877, F.R.S. 1883, G.C.B. 1907, LL.D. Edinburgh, died 18 Oct 1918 at "Failand House" nr. Bristol. (*E. Fry*).
+Fry, Edward (Sir) (1827-1918), British lawyer, judge and cryptogamic botanist also interested in archeology, astronomy and geology, born 4 Nov 1827 in Bristol (Gloucs.), educated at Bristol College 1841-1842 and Univ. College, London from 1843, B.A. 1851 in classics and physiology, called to the bar 1854, Queen's Counsel 1869, appointed Judge of the High Court of Justice 1877-1883, Lord Justice of Appeal 1883-1892, published also together with his daughter Agnes Fry (1868-1957), knighted 1877, F.R.S. 1883, G.C.B. 1907, LL.D. Edinburgh, died 18 Oct 1918 at "Failand House" nr. Bristol. 
+**Abbreviated name**: *E. Fry*
 
 #### Herbarium and types
 

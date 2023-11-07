@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103250#page/271/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33066551) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Westerhoff, Rembertus (1801-1874), Dutch physician and botanist; studied at Groningen University 1819-1825; Dr. med. ib. 1825; practicing physician at Warffum 1825-1874. (*Westerh.*).
+Westerhoff, Rembertus (1801-1874), Dutch physician and botanist; studied at Groningen University 1819-1825; Dr. med. ib. 1825; practicing physician at Warffum 1825-1874. 
+**Abbreviated name**: *Westerh.*
 
 #### Herbarium and types
 

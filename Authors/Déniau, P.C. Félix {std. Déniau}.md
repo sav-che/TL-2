@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103833#page/213/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33259247) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Déniau, P.C. Félix (fl. 1868), French pharmacist, "ancien interne des hospitaux de Paris", member of the Société pour les Sciences pharmaceutiques". (*Déniau*).
+Déniau, P.C. Félix (fl. 1868), French pharmacist, "ancien interne des hospitaux de Paris", member of the Société pour les Sciences pharmaceutiques". 
+**Abbreviated name**: *Déniau*
 
 #### Herbarium and types
 

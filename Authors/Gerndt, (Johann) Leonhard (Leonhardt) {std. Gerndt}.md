@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103832#page/202/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33258668) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gerndt, (Johann?) Leonhard \[Leonhardt\] (1837-1896), German botanist, born 1 Nov 1837 in Lissen (Posen; then Prussia, now Poland), Ph.D. 1866 Breslau, prof. at Realschule (Gymnasium) in Zwickau (Saxony), where he died 18 Jan 1896. (*Gerndt*).
+Gerndt, (Johann?) Leonhard \[Leonhardt\] (1837-1896), German botanist, born 1 Nov 1837 in Lissen (Posen; then Prussia, now Poland), Ph.D. 1866 Breslau, prof. at Realschule (Gymnasium) in Zwickau (Saxony), where he died 18 Jan 1896. 
+**Abbreviated name**: *Gerndt*
 
 #### Herbarium and types
 

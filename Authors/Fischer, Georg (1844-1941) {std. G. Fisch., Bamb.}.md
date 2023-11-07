@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103834#page/234/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33259716) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Georg (1844-1941), German botanist who studied aquatic flowering plants, prof. at Lyceum in Bamberg. (*G. Fisch., Bamb.*).
+Fischer, Georg (1844-1941), German botanist who studied aquatic flowering plants, prof. at Lyceum in Bamberg. 
+**Abbreviated name**: *G. Fisch., Bamb.*
 
 #### Herbarium and types
 

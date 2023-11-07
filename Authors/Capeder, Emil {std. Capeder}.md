@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103861#page/403/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33266700) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Capeder, Emil (1874-1947), Swiss (Chur) botanist. (*Capeder*).
+Capeder, Emil (1874-1947), Swiss (Chur) botanist. 
+**Abbreviated name**: *Capeder*
 
 #### Herbarium and types
 

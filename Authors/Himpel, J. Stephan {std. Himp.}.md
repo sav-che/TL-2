@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103253#page/233/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Himpel, J. Stephan (*fl*. 1891), German high school teacher and botanist. (*Himp.*).
+Himpel, J. Stephan (*fl*. 1891), German high school teacher and botanist. 
+**Abbreviated name**: *Himp.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103833#page/301/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259335) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dickson, James {std. Dicks.}|first entry]] for this author
 
 ### Author
 
-\* Dickson, James (1738-1822), Scottish nurseryman, born at Traquhair, Peebles, 1778, died at Croydon, Surrey 14 Aug 1822, established herb and seed shop, Covent Garden, London, one of the founders of the Horticultural Society of London and the Linnean Society, as gardener became a friend of J. Banks. (*Dicks.*).
+\* Dickson, James (1738-1822), Scottish nurseryman, born at Traquhair, Peebles, 1778, died at Croydon, Surrey 14 Aug 1822, established herb and seed shop, Covent Garden, London, one of the founders of the Horticultural Society of London and the Linnean Society, as gardener became a friend of J. Banks. 
+**Abbreviated name**: *Dicks.*
 
 #### Herbarium and types
 

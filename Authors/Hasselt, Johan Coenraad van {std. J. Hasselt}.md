@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103253#page/121/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33068337) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hasselt, Johan Coenraad van (1797-1823), Dutch surgeon and biologist, member of the "Natuurkundige Commissie" for the Dutch East Indies together with Kuhl. (*J. Hasselt*).
+Hasselt, Johan Coenraad van (1797-1823), Dutch surgeon and biologist, member of the "Natuurkundige Commissie" for the Dutch East Indies together with Kuhl. 
+**Abbreviated name**: *J. Hasselt*
 
 #### Herbarium and types
 

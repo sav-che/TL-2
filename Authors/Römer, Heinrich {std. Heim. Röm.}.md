@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/item/103624#page/857/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33190314) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Römer, Heinrich (*fl*. 1843), Swiss botanical artist at Zürich. (*Heim. Röm.*).
+Römer, Heinrich (*fl*. 1843), Swiss botanical artist at Zürich. 
+**Abbreviated name**: *Heim. Röm.*
 
 #### Herbarium and types
 

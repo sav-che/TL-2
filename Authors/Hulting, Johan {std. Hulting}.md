@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103253#page/388/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hulting, Johan (1842-1929), Swedish lecturer and lichenologist, botanist at Nörrköpings teachers college (1871-1909) and at the Nörrköping technical college (1872-1909). (*Hulting*).
+Hulting, Johan (1842-1929), Swedish lecturer and lichenologist, botanist at Nörrköpings teachers college (1871-1909) and at the Nörrköping technical college (1872-1909). 
+**Abbreviated name**: *Hulting*
 
 #### Herbarium and types
 

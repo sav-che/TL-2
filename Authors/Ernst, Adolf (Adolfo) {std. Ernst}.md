@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/item/103414#page/847/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33120930) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ernst, Gustav Adolf (Adolfo) {std. Ernst} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ernst, Adolf \[Adolfo\] (1832-1899), German botanist who settled in Venezuela (1861). (*Ernst*).
+Ernst, Adolf \[Adolfo\] (1832-1899), German botanist who settled in Venezuela (1861). 
+**Abbreviated name**: *Ernst*
 
 #### Herbarium and types
 

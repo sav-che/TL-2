@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/item/103253#page/581/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33068797) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kitagawa, Masao (1909-x), Japanese botanist at the Biological Institute, Yokohama National University; before 1940 in Manchuria. (*Kitag.*).
+Kitagawa, Masao (1909-x), Japanese botanist at the Biological Institute, Yokohama National University; before 1940 in Manchuria. 
+**Abbreviated name**: *Kitag.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/104137#page/441/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Merrill, Elmer Drew (1876-1956), American botanist; in the Philippines 1902-1924; at Berkeley 1924-1930; director of the New York Botanical Garden 1930-1935 succeeding N. L. Britton; at Harvard 1935-1948 (retirement as Arnold Professor); active until 1954; outstanding plant systematist ("get-the-job-done"). (*Merr.*).
+Merrill, Elmer Drew (1876-1956), American botanist; in the Philippines 1902-1924; at Berkeley 1924-1930; director of the New York Botanical Garden 1930-1935 succeeding N. L. Britton; at Harvard 1935-1948 (retirement as Arnold Professor); active until 1954; outstanding plant systematist ("get-the-job-done"). 
+**Abbreviated name**: *Merr.*
 
 #### Herbarium and types
 

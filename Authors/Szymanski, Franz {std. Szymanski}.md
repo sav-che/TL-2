@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103683#page/155/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33212187) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Szymanski, Franz (1853-?), Polish botanist; Dr. phil. Breslau 1878. (*Szymanski*).
+Szymanski, Franz (1853-?), Polish botanist; Dr. phil. Breslau 1878. 
+**Abbreviated name**: *Szymanski*
 
 #### Herbarium and types
 

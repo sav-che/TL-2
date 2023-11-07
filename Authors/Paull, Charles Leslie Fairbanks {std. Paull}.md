@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103624#page/126/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33189583) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paull, Charles Leslie Fairbanks (*fl*. 1904), American botanist, AM Brown Univ. 1898, assistant Kansas State College 1902-1904; from 1904 with the USDA Bureau of Plant Industry. (*Paull*).
+Paull, Charles Leslie Fairbanks (*fl*. 1904), American botanist, AM Brown Univ. 1898, assistant Kansas State College 1902-1904; from 1904 with the USDA Bureau of Plant Industry. 
+**Abbreviated name**: *Paull*
 
 #### Herbarium and types
 

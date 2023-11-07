@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/item/104077#page/810/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33333935) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sprague, Charles James (1823-1903), American banker, poet, mycologist and lichenologist at Boston; curator of the herbarium of the Boston Society for Natural History. (*C. Sprague*).
+Sprague, Charles James (1823-1903), American banker, poet, mycologist and lichenologist at Boston; curator of the herbarium of the Boston Society for Natural History. 
+**Abbreviated name**: *C. Sprague*
 
 #### Herbarium and types
 

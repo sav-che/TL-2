@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/104077#page/259/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33333384) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Alfred (1886-?), German (Silesian) mycologist; travelled in East Africa 1910; student of F. Pax; D. phil. Breslau 1912. (*Alfr. Schmidt*).
+Schmidt, Alfred (1886-?), German (Silesian) mycologist; travelled in East Africa 1910; student of F. Pax; D. phil. Breslau 1912. 
+**Abbreviated name**: *Alfr. Schmidt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/104077#page/188/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schinnerl, Martin (1861-1950), German (Bavarian) bryologist and high school teacher at München; librarian Bayer. bot. Ges. 1890-1903; first secretary id. 1903-1905. (*Schinnerl*).
+Schinnerl, Martin (1861-1950), German (Bavarian) bryologist and high school teacher at München; librarian Bayer. bot. Ges. 1890-1903; first secretary id. 1903-1905. 
+**Abbreviated name**: *Schinnerl*
 
 #### Herbarium and types
 

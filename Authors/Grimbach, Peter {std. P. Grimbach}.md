@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103832#page/406/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33258872) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grimbach, Peter (1888-x), German botanist, born 25 Jun 1888 in Baasem, doctorate 1913 Münster. (*P. Grimbach*).
+Grimbach, Peter (1888-x), German botanist, born 25 Jun 1888 in Baasem, doctorate 1913 Münster. 
+**Abbreviated name**: *P. Grimbach*
 
 #### Herbarium and types
 

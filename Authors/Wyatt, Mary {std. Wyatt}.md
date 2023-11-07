@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/103250#page/541/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33066821) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wyatt, Mary (x-c. 1850), British dealer in shells and algae exsiccatae at Torquay. (*Wyatt*).
+Wyatt, Mary (x-c. 1850), British dealer in shells and algae exsiccatae at Torquay. 
+**Abbreviated name**: *Wyatt*
 
 #### Herbarium and types
 

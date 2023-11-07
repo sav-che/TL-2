@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/103624#page/33/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33189496) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palla, Eduard (1864-1922), Moravia-born Austrian botanist; Dr. phil. Wien 1887; from 1888 at the University of Graz; habil. 1891; titular professor and "Adjunct" 1901; extra-ordinary professor 1909; ordinary professor 1913. (*Palla*).
+Palla, Eduard (1864-1922), Moravia-born Austrian botanist; Dr. phil. Wien 1887; from 1888 at the University of Graz; habil. 1891; titular professor and "Adjunct" 1901; extra-ordinary professor 1909; ordinary professor 1913. 
+**Abbreviated name**: *Palla*
 
 #### Herbarium and types
 

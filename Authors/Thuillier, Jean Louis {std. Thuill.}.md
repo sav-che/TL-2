@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103683#page/315/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33212347) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thuillier, Jean Louis (1757-1822), French botanist and gardener at various gardens in Paris, ultimately at the garden of the Collège Charlemagne. (*Thuill.*).
+Thuillier, Jean Louis (1757-1822), French botanist and gardener at various gardens in Paris, ultimately at the garden of the Collège Charlemagne. 
+**Abbreviated name**: *Thuill.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/item/104077#page/870/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33333995) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stechmann, Johannes Paul (*fl*. 1775), German (Prussian) physician and botanist; Dr. phil. Göttingen 1775. (*Stechm.*).
+Stechmann, Johannes Paul (*fl*. 1775), German (Prussian) physician and botanist; Dr. phil. Göttingen 1775. 
+**Abbreviated name**: *Stechm.*
 
 #### Herbarium and types
 

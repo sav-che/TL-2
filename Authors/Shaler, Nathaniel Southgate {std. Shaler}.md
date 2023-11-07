@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/104077#page/562/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shaler, Nathaniel Southgate (1841-1906), American geologist; student of L. Agassiz; D.Sc. Lawrence Scientific School, Cambridge 1865; instructor in zoology and geology ib. 1868-1872; professor of paleontology Harvard 1869-1888; professor of geology ib. 1888-1906; director of the second Kentucky Geological Survey 1873-1879; geologist U.S. Geol. Survey 1886-1900. (*Shaler*).
+Shaler, Nathaniel Southgate (1841-1906), American geologist; student of L. Agassiz; D.Sc. Lawrence Scientific School, Cambridge 1865; instructor in zoology and geology ib. 1868-1872; professor of paleontology Harvard 1869-1888; professor of geology ib. 1888-1906; director of the second Kentucky Geological Survey 1873-1879; geologist U.S. Geol. Survey 1886-1900. 
+**Abbreviated name**: *Shaler*
 
 #### Herbarium and types
 

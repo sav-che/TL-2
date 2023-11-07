@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/103860#page/445/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33266112) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cowell, Matthew Henry (fl. 1830-1840), British botanist of Faversham, Kent. (*Cowell*).
+Cowell, Matthew Henry (fl. 1830-1840), British botanist of Faversham, Kent. 
+**Abbreviated name**: *Cowell*
 
 #### Herbarium and types
 

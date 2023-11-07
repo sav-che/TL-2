@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103833#page/192/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33259226) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delille, \[Jacques Monanier, called\] Abbé (1738-1813), French priest and poet. (*Delille, Abbé*).
+Delille, \[Jacques Monanier, called\] Abbé (1738-1813), French priest and poet. 
+**Abbreviated name**: *Delille, Abbé*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/item/103414#page/600/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33120683) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cory, Victor Louis {std. Cory} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cory, Victor Louis (1880-1964), American botanist. (*Cory*).
+Cory, Victor Louis (1880-1964), American botanist. 
+**Abbreviated name**: *Cory*
 
 #### Herbarium and types
 

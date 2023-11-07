@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/item/103683#page/83/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33212115) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sturt, Charles (1795-1869), British soldier, administrator, explorer and plant collector; in the British army 1813-1833 (from 1825-1833 in Australia); explored Southern Australia 1828-1831; on sick leave in England 1832-1834; settled in New South Wales 1834; surveyor general to South Australia; explored central Australia 1844-1846; colonial treasurer of South Australia 1846; colonial secretary id. 1849-1851; in retirement on his farm near Adelaide from 1851; died in England. (*Sturt*).
+Sturt, Charles (1795-1869), British soldier, administrator, explorer and plant collector; in the British army 1813-1833 (from 1825-1833 in Australia); explored Southern Australia 1828-1831; on sick leave in England 1832-1834; settled in New South Wales 1834; surveyor general to South Australia; explored central Australia 1844-1846; colonial treasurer of South Australia 1846; colonial secretary id. 1849-1851; in retirement on his farm near Adelaide from 1851; died in England. 
+**Abbreviated name**: *Sturt*
 
 #### Herbarium and types
 

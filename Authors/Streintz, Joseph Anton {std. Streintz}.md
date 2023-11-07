@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103683#page/55/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Streintz, Joseph Anton (*fl*. 1843), Austrian physician; Dr. med. Wien 1843. (*Streintz*).
+Streintz, Joseph Anton (*fl*. 1843), Austrian physician; Dr. med. Wien 1843. 
+**Abbreviated name**: *Streintz*
 
 #### Herbarium and types
 

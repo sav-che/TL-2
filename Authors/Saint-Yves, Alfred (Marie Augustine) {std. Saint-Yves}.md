@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1079](https://www.biodiversitylibrary.org/item/103624#page/1093/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1079](https://www.biodiversitylibrary.org/page/33190550) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saint-Yves, Alfred \[Marie Augustine\] (1855-1933), French botanist (agrostologist) and soldier; at the École polytechnique 1875-1879; following a military career 1879-1905, ultimately in the rank of "Commandant"; in retirement at Nice; in army service 1914-1918. (*Saint-Yves*).
+Saint-Yves, Alfred \[Marie Augustine\] (1855-1933), French botanist (agrostologist) and soldier; at the École polytechnique 1875-1879; following a military career 1879-1905, ultimately in the rank of "Commandant"; in retirement at Nice; in army service 1914-1918. 
+**Abbreviated name**: *Saint-Yves*
 
 #### Herbarium and types
 

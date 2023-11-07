@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103834#page/101/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33259583) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Featherman, Americus (1822-1891, or later), German-born American physician, novelist, botanist and anthropologist, born 1822 in Göttingen (probably as Federmann and possibly with a different first name), came to the U.S.A. at age 17, studied medicine in Paris 1847-1850 and practiced in Missouri, asst. examiner, Confederate Patent Office, Richmond, Virginia 1862-1865, prof. of romance languages and botany, Louisiana State Seminary of Learning and Military Academy (later Louisiana State Univ.), Baton Rouge, Louisiana 1869-1872, returned to Europe (and Paris) 1875. (*Featherm.*).
+Featherman, Americus (1822-1891, or later), German-born American physician, novelist, botanist and anthropologist, born 1822 in Göttingen (probably as Federmann and possibly with a different first name), came to the U.S.A. at age 17, studied medicine in Paris 1847-1850 and practiced in Missouri, asst. examiner, Confederate Patent Office, Richmond, Virginia 1862-1865, prof. of romance languages and botany, Louisiana State Seminary of Learning and Military Academy (later Louisiana State Univ.), Baton Rouge, Louisiana 1869-1872, returned to Europe (and Paris) 1875. 
+**Abbreviated name**: *Featherm.*
 
 #### Herbarium and types
 

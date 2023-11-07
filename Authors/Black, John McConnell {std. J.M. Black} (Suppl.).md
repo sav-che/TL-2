@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103859#page/196/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33265383) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Black, John McConnell {std. J.M. Black}|first entry]] for this author
 
 ### Author
 
-\* Black, John McConnell (1855-1951), Scottish-born Australian botanist, emigrated to South Australia 1877, farmed at Baroota, S. Australia 1877-1882, settled in Adelaide as journalist 1883, retired as such 1902 and took up botany, mainly writing on the flora of South Australia, visited Great Britain, Spain, Italy, France and Germany in 1903, and again Great Britain, attending the fifth International Botanical Congress at Cambridge, later honorary lecturer in systematic botany at the University of Adelaide (ca. 1939), actively working on botany until ca. 1947. (*J.M. Black*).
+\* Black, John McConnell (1855-1951), Scottish-born Australian botanist, emigrated to South Australia 1877, farmed at Baroota, S. Australia 1877-1882, settled in Adelaide as journalist 1883, retired as such 1902 and took up botany, mainly writing on the flora of South Australia, visited Great Britain, Spain, Italy, France and Germany in 1903, and again Great Britain, attending the fifth International Botanical Congress at Cambridge, later honorary lecturer in systematic botany at the University of Adelaide (ca. 1939), actively working on botany until ca. 1947. 
+**Abbreviated name**: *J.M. Black*
 
 #### Herbarium and types
 

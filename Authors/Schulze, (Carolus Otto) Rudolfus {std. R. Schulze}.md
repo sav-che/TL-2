@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/104077#page/409/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulze, \[Carolus Otto\] Rudolfus (1870-?), German (Berlin) botanist; studied at the Berlin University; Dr. phil. ib. 1893 as student of Adolf Engler. (*R. Schulze*).
+Schulze, \[Carolus Otto\] Rudolfus (1870-?), German (Berlin) botanist; studied at the Berlin University; Dr. phil. ib. 1893 as student of Adolf Engler. 
+**Abbreviated name**: *R. Schulze*
 
 #### Herbarium and types
 

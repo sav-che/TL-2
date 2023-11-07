@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/item/103253#page/752/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33068968) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lahm, Wilhem (1856-?), German botanist and high school teacher at Laubach (Oberhessen). (*W. Lahm*).
+Lahm, Wilhem (1856-?), German botanist and high school teacher at Laubach (Oberhessen). 
+**Abbreviated name**: *W. Lahm*
 
 #### Herbarium and types
 

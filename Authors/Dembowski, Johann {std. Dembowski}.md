@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103833#page/208/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33259242) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dembowski, Johann (1890-?), German biologist, born 21 Aug 1890 at Schedliska (Kreis Lötzen), at the Volksschule of Schedliska, secondary schools at Lötzen and at the "Lehrerseminar" at Angerburg, in the German army 1915-1918, in Russian captivity for 2 1/2 years, passed his examination for university studies in 1923, studying at the University of Königsberg (Preussen) biology, chemistry, slavonic language, 1923-1938, cand. phil., inaugural dissertation in 1929. (*Dembowski*).
+Dembowski, Johann (1890-?), German biologist, born 21 Aug 1890 at Schedliska (Kreis Lötzen), at the Volksschule of Schedliska, secondary schools at Lötzen and at the "Lehrerseminar" at Angerburg, in the German army 1915-1918, in Russian captivity for 2 1/2 years, passed his examination for university studies in 1923, studying at the University of Königsberg (Preussen) biology, chemistry, slavonic language, 1923-1938, cand. phil., inaugural dissertation in 1929. 
+**Abbreviated name**: *Dembowski*
 
 #### Herbarium and types
 

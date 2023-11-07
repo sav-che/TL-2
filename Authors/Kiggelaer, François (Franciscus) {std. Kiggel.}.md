@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/item/103253#page/564/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kiggelaer, François ("Franciscus") (1648-1722), Dutch botanist, "commies ter secretarye van den Heer van Beaumont." (*Kiggel.*).
+Kiggelaer, François ("Franciscus") (1648-1722), Dutch botanist, "commies ter secretarye van den Heer van Beaumont." 
+**Abbreviated name**: *Kiggel.*
 
 #### Herbarium and types
 

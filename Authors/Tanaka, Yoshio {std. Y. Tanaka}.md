@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103683#page/170/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33212202) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tanaka, Yoshio (1838-1916), Japanese botanist and entomologist; member of the Japanese Diet and House of Peers (1890); director of the Japan Forestry Association; secretary to the departments of Agriculture and Commerce and Home affairs. (*Y. Tanaka*).
+Tanaka, Yoshio (1838-1916), Japanese botanist and entomologist; member of the Japanese Diet and House of Peers (1890); director of the Japan Forestry Association; secretary to the departments of Agriculture and Commerce and Home affairs. 
+**Abbreviated name**: *Y. Tanaka*
 
 #### Herbarium and types
 

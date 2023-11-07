@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/item/103414#page/886/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33120969) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fischer, (Emmanuel Friedrich) Ludwig (Louis) {std. L. Fisch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fischer, \[Emanuel Friedrich\] Ludwig (1828-1907), Swiss botanist, father of Eduard Fischer, director botanic garden Bern 1860-1897. (*L. Fisch.*).
+Fischer, \[Emanuel Friedrich\] Ludwig (1828-1907), Swiss botanist, father of Eduard Fischer, director botanic garden Bern 1860-1897. 
+**Abbreviated name**: *L. Fisch.*
 
 #### Herbarium and types
 

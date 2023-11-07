@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103832#page/216/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33258682) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Giger, Emil (Heinrich) (1885-1962), Swiss botanist, born 17 Feb 1885 in Appenzell (Ct. Appenzell), attended schools in Stein (St. Gallen), Dr. sc. Nat. 1912 Swiss Federal Univ. Zurich, prof. at a girl's school ("a.d. Töchterschule"), Zurich, died 20 Jan 1962. (*Giger*).
+Giger, Emil (Heinrich) (1885-1962), Swiss botanist, born 17 Feb 1885 in Appenzell (Ct. Appenzell), attended schools in Stein (St. Gallen), Dr. sc. Nat. 1912 Swiss Federal Univ. Zurich, prof. at a girl's school ("a.d. Töchterschule"), Zurich, died 20 Jan 1962. 
+**Abbreviated name**: *Giger*
 
 #### Herbarium and types
 

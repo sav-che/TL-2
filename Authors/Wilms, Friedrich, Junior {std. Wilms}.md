@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/103250#page/408/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33066688) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilms, Friedrich, Junior (1848-1919), German (Westphalian) pharmacist, botanist and plant collector; pharmacist in Münster until 1882; id. in S. Africa 1882-1896, e.g. at Lydenburg, Transvaal, later in Berlin, some time assistant (1904, 1910-1913) at the Botanical Museum and Herbarium. (*Wilms*).
+Wilms, Friedrich, Junior (1848-1919), German (Westphalian) pharmacist, botanist and plant collector; pharmacist in Münster until 1882; id. in S. Africa 1882-1896, e.g. at Lydenburg, Transvaal, later in Berlin, some time assistant (1904, 1910-1913) at the Botanical Museum and Herbarium. 
+**Abbreviated name**: *Wilms*
 
 #### Herbarium and types
 

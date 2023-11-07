@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/item/103253#page/889/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33069105) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Léveillé, Augustin Abel Hector (1863-1918), French botanist and clergyman; ordained 1887; at Pondicherry (1887-1892); later at Le Mans; founder and director of the *Monde des plantes*. (*H. Lév.*).
+Léveillé, Augustin Abel Hector (1863-1918), French botanist and clergyman; ordained 1887; at Pondicherry (1887-1892); later at Le Mans; founder and director of the *Monde des plantes*. 
+**Abbreviated name**: *H. Lév.*
 
 #### Herbarium and types
 

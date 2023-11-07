@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/item/103860#page/449/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33266116) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coyault, Marie-Emmanuel-Victor (1871-x), French botanist and "avocat" at Niort, born at Niort 5 Feb 1871. (*Coyault*).
+Coyault, Marie-Emmanuel-Victor (1871-x), French botanist and "avocat" at Niort, born at Niort 5 Feb 1871. 
+**Abbreviated name**: *Coyault*
 
 #### Herbarium and types
 

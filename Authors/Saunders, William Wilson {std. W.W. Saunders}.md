@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/104077#page/82/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33333207) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saunders, William Wilson (1809-1879), English botanist, horticulturist and entomologist; with the East India Company 1830-1832; underwriter at Lloyds, London 1832-1873; treasurer Linnean Society, London 1861-1873; had large living collections of plants at East Hill, Wandsworth, from 1857 at Hallfield, Reigate; from 1874 in retirement at Raystead, Worthing. (*W.W. Saunders*).
+Saunders, William Wilson (1809-1879), English botanist, horticulturist and entomologist; with the East India Company 1830-1832; underwriter at Lloyds, London 1832-1873; treasurer Linnean Society, London 1861-1873; had large living collections of plants at East Hill, Wandsworth, from 1857 at Hallfield, Reigate; from 1874 in retirement at Raystead, Worthing. 
+**Abbreviated name**: *W.W. Saunders*
 
 #### Herbarium and types
 

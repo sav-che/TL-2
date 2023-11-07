@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/104137#page/255/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33355326) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mägdefrau, Karl (1907-x), German botanist, palaeobiologist and historian of botany; Dr. phil. München 1932; at Halle 1930-1934; at Erlangen 1932-1948, at München 1948-1951 (forestry botany), 1951-1960 (professor of botany at University); at Tübingen (as prof, of systematic bot.) 1960-1972. (*Mägd.*).
+Mägdefrau, Karl (1907-x), German botanist, palaeobiologist and historian of botany; Dr. phil. München 1932; at Halle 1930-1934; at Erlangen 1932-1948, at München 1948-1951 (forestry botany), 1951-1960 (professor of botany at University); at Tübingen (as prof, of systematic bot.) 1960-1972. 
+**Abbreviated name**: *Mägd.*
 
 #### Herbarium and types
 

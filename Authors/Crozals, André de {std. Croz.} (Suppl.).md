@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/103860#page/493/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33266160) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crozals, André de {std. Croz.}|first entry]] for this author
 
 ### Author
 
-\* Crozals, André de (1861-1932), French botanist, born at Béziers 2 Jan 1862(?), educated at the Lycée of Toulon, at the naval school, "aspirant 1° classe" 1881, in the navy until 1890, from 1890 in the commerce of wines at Oran, Valence (Esp.) and from 1900 at Béziers, retired from business 1921, settled at Toulon mainly interested in botany, died 16 Oct 1932. (*Croz.*).
+\* Crozals, André de (1861-1932), French botanist, born at Béziers 2 Jan 1862(?), educated at the Lycée of Toulon, at the naval school, "aspirant 1° classe" 1881, in the navy until 1890, from 1890 in the commerce of wines at Oran, Valence (Esp.) and from 1900 at Béziers, retired from business 1921, settled at Toulon mainly interested in botany, died 16 Oct 1932. 
+**Abbreviated name**: *Croz.*
 
 #### Herbarium and types
 

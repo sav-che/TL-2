@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/item/103624#page/788/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33190245) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richter, \[Vincenz\] Aladár (1868-1927), Hungarian botanist; school teacher in Transylvania 1891-1895; high school teacher at the first Budapest Staatsgymnasium 1895-1898; habil. Univ. Budapest 1898; head botany dept. Hung. Natl. Mus. 1898-1899; suppl. professor of general botany at Klausenburg (Kolozsvár, Cluj) 1899; director of botanical institute and garden ib. 1900; ordinary professor of general botany ib. ("Ferenze-József' Univ.); also director of institute of syst. bot. ib. succeeding V. Borb-as ib. 1905-1913. (*Al. Richt.*).
+Richter, \[Vincenz\] Aladár (1868-1927), Hungarian botanist; school teacher in Transylvania 1891-1895; high school teacher at the first Budapest Staatsgymnasium 1895-1898; habil. Univ. Budapest 1898; head botany dept. Hung. Natl. Mus. 1898-1899; suppl. professor of general botany at Klausenburg (Kolozsvár, Cluj) 1899; director of botanical institute and garden ib. 1900; ordinary professor of general botany ib. ("Ferenze-József' Univ.); also director of institute of syst. bot. ib. succeeding V. Borb-as ib. 1905-1913. 
+**Abbreviated name**: *Al. Richt.*
 
 #### Herbarium and types
 

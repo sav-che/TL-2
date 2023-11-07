@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/103860#page/519/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33266186) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cunningham, Richard {std. R. Cunn.}|first entry]] for this author
 
 ### Author
 
-\* Cunningham, Richard (1793-1835), British gardener, Kew collector in Australia, colonial botanist in New South Wales 1833-1835 (brother of Allan Cunningham), born at Wimbledon, son of Allan Cunningham sr., gardener in the service of W.T. Aiton (director Kew), working on the *Hortus Kewensis* for six years, left for Australia (Sydney), August 1832, at the Botanical Garden of Sydney 1833, collecting in New Zealand 1834, on an expedition to the River Dailing 1835, until ca. 15 Apr 1835 when he was murdered: "he fell in with a party of blacks...". (*R. Cunn.*).
+\* Cunningham, Richard (1793-1835), British gardener, Kew collector in Australia, colonial botanist in New South Wales 1833-1835 (brother of Allan Cunningham), born at Wimbledon, son of Allan Cunningham sr., gardener in the service of W.T. Aiton (director Kew), working on the *Hortus Kewensis* for six years, left for Australia (Sydney), August 1832, at the Botanical Garden of Sydney 1833, collecting in New Zealand 1834, on an expedition to the River Dailing 1835, until ca. 15 Apr 1835 when he was murdered: "he fell in with a party of blacks...". 
+**Abbreviated name**: *R. Cunn.*
 
 #### Herbarium and types
 

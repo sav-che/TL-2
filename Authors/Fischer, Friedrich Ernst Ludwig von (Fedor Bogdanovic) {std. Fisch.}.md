@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/item/103414#page/883/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33120966) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Friedrich Ernst Ludwig von (Fedor Bogdanovic) (1782-1854), Russian botanist of German origin, director of the St. Petersburg botanical garden 1823-1850. (*Fisch.*).
+Fischer, Friedrich Ernst Ludwig von (Fedor Bogdanovic) (1782-1854), Russian botanist of German origin, director of the St. Petersburg botanical garden 1823-1850. 
+**Abbreviated name**: *Fisch.*
 
 #### Herbarium and types
 

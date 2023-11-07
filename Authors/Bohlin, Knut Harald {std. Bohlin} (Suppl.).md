@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/103859#page/283/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265470) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bohlin, Knut Harald {std. Bohlin}|first entry]] for this author
 
 ### Author
 
-\* Bohlin, Knut Harald (1869-1956), Swedish botanist (phycologist), educated at Södermalms secondary grammar school in Stockholm until 1887, studied at the University of Uppsala, fil. kand. 1892, fil. lic. 1898, fil. dr. 1901, lecturer in botany at a college at Stockholm 1901, lector in natural history and chemistry at Södermalms sec. gramm. school 1901-1914, rector of a school in Stockholm from 1914. (*Bohlin*).
+\* Bohlin, Knut Harald (1869-1956), Swedish botanist (phycologist), educated at Södermalms secondary grammar school in Stockholm until 1887, studied at the University of Uppsala, fil. kand. 1892, fil. lic. 1898, fil. dr. 1901, lecturer in botany at a college at Stockholm 1901, lector in natural history and chemistry at Södermalms sec. gramm. school 1901-1914, rector of a school in Stockholm from 1914. 
+**Abbreviated name**: *Bohlin*
 
 #### Herbarium and types
 

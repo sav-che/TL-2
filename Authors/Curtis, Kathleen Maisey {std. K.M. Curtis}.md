@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/item/103860#page/525/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Curtis, Kathleen Maisey (fl. 1900-1930), New Zealand botanist, B.A. and M.A. University of New Zealand, M.Sc. 1917 and D.Sc. 1921 University of London, working as mycologist at the Cawthorn Institute, Nelson (N.Z.) named after the founder Thomas Cawthorn. (*K.M. Curtis*).
+Curtis, Kathleen Maisey (fl. 1900-1930), New Zealand botanist, B.A. and M.A. University of New Zealand, M.Sc. 1917 and D.Sc. 1921 University of London, working as mycologist at the Cawthorn Institute, Nelson (N.Z.) named after the founder Thomas Cawthorn. 
+**Abbreviated name**: *K.M. Curtis*
 
 #### Herbarium and types
 

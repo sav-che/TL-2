@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103858#page/226/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33264941) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Autran, Eugène John Benjamin {std. Autran}|first entry]] for this author
 
 ### Author
 
-\* Autran, Eugène \[John Benjamin\] (1855-1912), Swiss (Genève) botanist, professional industrialist, employed at the Boissier Herbarium from 1888, editor of the Bulletin de l'Herbier Boissier, emigrated to Argentina in 1901, curator of the Buenos Aires botanical garden and head of the botany section of the Pharmacological Museum of the Faculty of medicine. (*Autran*).
+\* Autran, Eugène \[John Benjamin\] (1855-1912), Swiss (Genève) botanist, professional industrialist, employed at the Boissier Herbarium from 1888, editor of the Bulletin de l'Herbier Boissier, emigrated to Argentina in 1901, curator of the Buenos Aires botanical garden and head of the botany section of the Pharmacological Museum of the Faculty of medicine. 
+**Abbreviated name**: *Autran*
 
 #### Herbarium and types
 

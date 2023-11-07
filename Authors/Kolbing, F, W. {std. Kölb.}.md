@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/103253#page/623/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kolbing, F, W. (x-1840), German bishop of the Herrnhut Moravian society at Gnadenfeld, Schlesien. (*Kölb.*).
+Kolbing, F, W. (x-1840), German bishop of the Herrnhut Moravian society at Gnadenfeld, Schlesien. 
+**Abbreviated name**: *Kölb.*
 
 #### Herbarium and types
 

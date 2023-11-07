@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103414#page/460/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burkill, Isaac Henri {std. Burkill} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Burkill, Isaac Henry (1870-1965), British botanist who resided in Malaya for many years. (*Burkill*).
+Burkill, Isaac Henry (1870-1965), British botanist who resided in Malaya for many years. 
+**Abbreviated name**: *Burkill*
 
 #### Herbarium and types
 

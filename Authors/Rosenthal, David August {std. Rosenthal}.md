@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/item/103624#page/908/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33190365) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosenthal, David August (1821-1875), German (Silesian) physician, botanist and theological author; practicing physician as well as municipal physician at Breslau from 1855. (*Rosenthal*).
+Rosenthal, David August (1821-1875), German (Silesian) physician, botanist and theological author; practicing physician as well as municipal physician at Breslau from 1855. 
+**Abbreviated name**: *Rosenthal*
 
 #### Herbarium and types
 

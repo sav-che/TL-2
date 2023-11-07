@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103250#page/327/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33066607) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiesbaur, Johann Baptist (1836-1906), Austrian clergyman and botanist; originally jesuit priest, later secular priest and teacher at high schools in Mariaschein and (from 1898) at Duppau in Moravia; died at Leschna, Moravia. (*Wiesb.*).
+Wiesbaur, Johann Baptist (1836-1906), Austrian clergyman and botanist; originally jesuit priest, later secular priest and teacher at high schools in Mariaschein and (from 1898) at Duppau in Moravia; died at Leschna, Moravia. 
+**Abbreviated name**: *Wiesb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/item/104077#page/498/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33333623) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Séguier, Jean François (1703-1784), French botanist, historian, bibliographer and archeologist at Nîmes; studied law at Montpellier and botany at Paris with Antoine de Jussieu; accompanied the archeologist Francesco Scipione on his European travels 1732-1736, visiting e.g. Holland (Boerhaave, J.F. Gronovius, G.P. van Swinden); to Verona with Scipione 1736-1755; at Nîmes 1755-1784 working mainly on archeology. (*Séguier*).
+Séguier, Jean François (1703-1784), French botanist, historian, bibliographer and archeologist at Nîmes; studied law at Montpellier and botany at Paris with Antoine de Jussieu; accompanied the archeologist Francesco Scipione on his European travels 1732-1736, visiting e.g. Holland (Boerhaave, J.F. Gronovius, G.P. van Swinden); to Verona with Scipione 1736-1755; at Nîmes 1755-1784 working mainly on archeology. 
+**Abbreviated name**: *Séguier*
 
 #### Herbarium and types
 

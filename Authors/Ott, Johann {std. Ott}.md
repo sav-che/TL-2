@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/item/104137#page/873/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ott, Johann (fl. 1851), Bohemian physician and botanist at Praha. (*Ott*).
+Ott, Johann (fl. 1851), Bohemian physician and botanist at Praha. 
+**Abbreviated name**: *Ott*
 
 #### Herbarium and types
 

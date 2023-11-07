@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103861#page/270/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33266567) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burrell, William Holmes (1865-1945), Britisch (London born) pharmacist and biologist, lived in Yorkshire 1914-1945, curator of the Ingham Herbarium, Leeds University. (*Burrell*).
+Burrell, William Holmes (1865-1945), Britisch (London born) pharmacist and biologist, lived in Yorkshire 1914-1945, curator of the Ingham Herbarium, Leeds University. 
+**Abbreviated name**: *Burrell*
 
 #### Herbarium and types
 

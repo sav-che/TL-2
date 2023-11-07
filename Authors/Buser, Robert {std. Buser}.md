@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103414#page/469/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33120552) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buser, Robert {std. Buser} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buser, Robert (1857-1931), Swiss botanist, curator of the Candolle herbarium. (*Buser*).
+Buser, Robert (1857-1931), Swiss botanist, curator of the Candolle herbarium. 
+**Abbreviated name**: *Buser*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103832#page/120/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33258586) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gallesio, Giorgio \[Georges\] (Conte) (1772-1839), Italian geneticist, pomologist, magistrate, deputy and diplomat, born 23 Mai 1772 in Finalborgo (now Finale Ligure) on the Gulf of Genoa (then Republic of Genoa), law degree 1793 Univ. of Pavia, "Consiglio Generale", Dept. of Montenotte 1808, elected deputy from Dept. of Montenotte 1809, died 29 Nov 1839 in Florence. (*Gallesio*).
+Gallesio, Giorgio \[Georges\] (Conte) (1772-1839), Italian geneticist, pomologist, magistrate, deputy and diplomat, born 23 Mai 1772 in Finalborgo (now Finale Ligure) on the Gulf of Genoa (then Republic of Genoa), law degree 1793 Univ. of Pavia, "Consiglio Generale", Dept. of Montenotte 1808, elected deputy from Dept. of Montenotte 1809, died 29 Nov 1839 in Florence. 
+**Abbreviated name**: *Gallesio*
 
 #### Herbarium and types
 

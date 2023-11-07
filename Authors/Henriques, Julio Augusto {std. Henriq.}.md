@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103253#page/186/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33068402) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henriques, Julio Augusto (1838-1928), Portuguese botanist, ultimately professor of botany and director of the botanical garden at Coimbra. (*Henriq.*).
+Henriques, Julio Augusto (1838-1928), Portuguese botanist, ultimately professor of botany and director of the botanical garden at Coimbra. 
+**Abbreviated name**: *Henriq.*
 
 #### Herbarium and types
 

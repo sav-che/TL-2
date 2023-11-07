@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/item/103414#page/845/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33120928) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Erdtman, Otto Gunnar Elias {std. Erdtman} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Erdtman, Otto Gunnar Elias (1897-1973), Swedish palynologist, (*Erdtman*).
+Erdtman, Otto Gunnar Elias (1897-1973), Swedish palynologist, 
+**Abbreviated name**: *Erdtman*
 
 #### Herbarium and types
 

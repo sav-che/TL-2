@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103861#page/399/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33266696) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Candolle, Richard Émile Augustin de {std. Aug. DC.}|first entry]] for this author
 
 ### Author
 
-\* Candolle, \[Richard-Émile-\] Augustin de (1868-1920), Swiss botanist, born in England, son of Casimir de Candolle, educated at Rugby 1883-1887, spent some time in Frankfurt a. M., studied law at Heidelberg and Leipzig 1890-1893, returned to Genève dedicating himself to botany working with his father at the Candolle herbarium, British consul at Genève 1912, president of the Société botanique de Genève 1903-1907. (*Aug. DC.*).
+\* Candolle, \[Richard-Émile-\] Augustin de (1868-1920), Swiss botanist, born in England, son of Casimir de Candolle, educated at Rugby 1883-1887, spent some time in Frankfurt a. M., studied law at Heidelberg and Leipzig 1890-1893, returned to Genève dedicating himself to botany working with his father at the Candolle herbarium, British consul at Genève 1912, president of the Société botanique de Genève 1903-1907. 
+**Abbreviated name**: *Aug. DC.*
 
 #### Herbarium and types
 

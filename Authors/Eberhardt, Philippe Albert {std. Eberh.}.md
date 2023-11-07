@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103835#page/257/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33260235) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eberhardt, Philippe Albert (1874-1942), French botanist, born at Paris 24 Mai 1874, studied at the Sorbonne, "préparateur" 1896-1905, sent on scientific mission to Bhutan and Indo-China 1905-1908, special mission at the "Cour de Hué" 19108-1916, chief of economic services 1916-1920, returned to France and became professor of botany at Besançon until his retirement in 1940, died 20 Feb 1942. (*Eberh.*).
+Eberhardt, Philippe Albert (1874-1942), French botanist, born at Paris 24 Mai 1874, studied at the Sorbonne, "préparateur" 1896-1905, sent on scientific mission to Bhutan and Indo-China 1905-1908, special mission at the "Cour de Hué" 19108-1916, chief of economic services 1916-1920, returned to France and became professor of botany at Besançon until his retirement in 1940, died 20 Feb 1942. 
+**Abbreviated name**: *Eberh.*
 
 #### Herbarium and types
 

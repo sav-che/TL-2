@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/item/104077#page/441/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwarzenbach, Marthe (1900-x), Swiss (Zürich) high school teacher and botanist; Dr. phil. Zürich (student of A. Ernst) 1926. (*Schwarzenbach*).
+Schwarzenbach, Marthe (1900-x), Swiss (Zürich) high school teacher and botanist; Dr. phil. Zürich (student of A. Ernst) 1926. 
+**Abbreviated name**: *Schwarzenbach*
 
 #### Herbarium and types
 

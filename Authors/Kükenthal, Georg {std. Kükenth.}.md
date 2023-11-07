@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/item/103253#page/710/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kükenthal, Georg (1864-1955), German clergyman and botanist at Grub a. F. and, from 1919, Coburg; ordained Coburg 1885; Dr. phil. h.c. Breslau 1913; long-time associate for Cyperaceae of Engler and the Botanical Museum, Berlin-Dahlem. (*Kükenth.*).
+Kükenthal, Georg (1864-1955), German clergyman and botanist at Grub a. F. and, from 1919, Coburg; ordained Coburg 1885; Dr. phil. h.c. Breslau 1913; long-time associate for Cyperaceae of Engler and the Botanical Museum, Berlin-Dahlem. 
+**Abbreviated name**: *Kükenth.*
 
 #### Herbarium and types
 

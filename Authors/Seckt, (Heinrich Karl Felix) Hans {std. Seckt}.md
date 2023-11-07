@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/item/104077#page/485/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33333610) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seckt, \[Heinrich Karl Felix\] Hans (1879-1953), German (Berlin)-born botanist who emigrated to Argentina; Dr. phil. Berlin 1901; assistant at the Institute for plant physiology Berlin 1901-1906; professor at the "Instituto nacional del professorado secundario" in Buenos Aires 1906-1920; professor of botany at the University of Córdoba 1920-1947. (*Seckt*).
+Seckt, \[Heinrich Karl Felix\] Hans (1879-1953), German (Berlin)-born botanist who emigrated to Argentina; Dr. phil. Berlin 1901; assistant at the Institute for plant physiology Berlin 1901-1906; professor at the "Instituto nacional del professorado secundario" in Buenos Aires 1906-1920; professor of botany at the University of Córdoba 1920-1947. 
+**Abbreviated name**: *Seckt*
 
 #### Herbarium and types
 

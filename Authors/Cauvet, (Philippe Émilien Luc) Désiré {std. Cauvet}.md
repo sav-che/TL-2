@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103861#page/475/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33266772) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cauvet, \[Philippe Émilien Luc\] Désiré (1829-1890), French pharmacist and army physician, studied at the École supérieure de pharmacie de Paris, thèse Paris 1864, Dr. Sci. nat, "répétiteur" à l'École de Santé militaire de Strasbourg, pharmacien en chef at the military hospital at Bougie, Algérie, ultimately professor at the Faculté de médecine de Lyon 1877-1890. (*Cauvet*).
+Cauvet, \[Philippe Émilien Luc\] Désiré (1829-1890), French pharmacist and army physician, studied at the École supérieure de pharmacie de Paris, thèse Paris 1864, Dr. Sci. nat, "répétiteur" à l'École de Santé militaire de Strasbourg, pharmacien en chef at the military hospital at Bougie, Algérie, ultimately professor at the Faculté de médecine de Lyon 1877-1890. 
+**Abbreviated name**: *Cauvet*
 
 #### Herbarium and types
 

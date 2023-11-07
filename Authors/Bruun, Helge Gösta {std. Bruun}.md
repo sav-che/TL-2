@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103861#page/178/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33266475) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruun, Helge Gösta (1897-x), Swedish cytologist and geneticist, studied at the University of Uppsala, Dr. phil. ib. 1932, lector, head of Strängnäs Läroverk, Strängnäs 1932. (*Bruun*).
+Bruun, Helge Gösta (1897-x), Swedish cytologist and geneticist, studied at the University of Uppsala, Dr. phil. ib. 1932, lector, head of Strängnäs Läroverk, Strängnäs 1932. 
+**Abbreviated name**: *Bruun*
 
 #### Herbarium and types
 

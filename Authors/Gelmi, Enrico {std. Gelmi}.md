@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103832#page/183/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33258649) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gelmi, Enrico (1855-1901), Italian/Austrian botanist, born 1 Feb 1858 in Trento, died 5 Jan 1901 in Trento (part of the Austro-Hungarian Empire during Gelmi's lifetime). (*Gelmi*).
+Gelmi, Enrico (1855-1901), Italian/Austrian botanist, born 1 Feb 1858 in Trento, died 5 Jan 1901 in Trento (part of the Austro-Hungarian Empire during Gelmi's lifetime). 
+**Abbreviated name**: *Gelmi*
 
 #### Herbarium and types
 

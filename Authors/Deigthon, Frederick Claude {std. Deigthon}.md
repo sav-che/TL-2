@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103833#page/177/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259211) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deigthon, Frederick Claude (1903-1992), British mycologist and plant pathologist, born at London, 14 Feb 1903, appointed mycologist, lands and forests department, often working in Sierra Leone and Gold Coast 1926-1955, also with Royal Botanic Gardens, Kew and Commonwealth mycological institute, ib. (*Deigthon*).
+Deigthon, Frederick Claude (1903-1992), British mycologist and plant pathologist, born at London, 14 Feb 1903, appointed mycologist, lands and forests department, often working in Sierra Leone and Gold Coast 1926-1955, also with Royal Botanic Gardens, Kew and Commonwealth mycological institute, ib. 
+**Abbreviated name**: *Deigthon*
 
 #### Herbarium and types
 

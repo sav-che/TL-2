@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/item/103253#page/702/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33068918) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krok, Thorgny Ossian Bolivar Napoleon (1834-1921), Swedisn botanist, bibliographer, and high school teacher at Stockholm. (*Krok*).
+Krok, Thorgny Ossian Bolivar Napoleon (1834-1921), Swedisn botanist, bibliographer, and high school teacher at Stockholm. 
+**Abbreviated name**: *Krok*
 
 #### Herbarium and types
 

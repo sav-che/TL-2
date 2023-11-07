@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103861#page/204/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33266501) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bucherer, Emil \[Bucherer-Gölz\] (1852-1928), Swiss (Basel) botanist, educated at the Basel Gymnasium, studied physics in München, teacher in mathematics and natural sciences at the Basel Gymnasium until 1922, Dr. phil. Basel 1887 with Hermann Vöchting. (*Bucherer*).
+Bucherer, Emil \[Bucherer-Gölz\] (1852-1928), Swiss (Basel) botanist, educated at the Basel Gymnasium, studied physics in München, teacher in mathematics and natural sciences at the Basel Gymnasium until 1922, Dr. phil. Basel 1887 with Hermann Vöchting. 
+**Abbreviated name**: *Bucherer*
 
 #### Herbarium and types
 

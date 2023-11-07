@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103835#page/390/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33260368) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Enwald, Kurt Henrik (1877-1961), Finnish botanist. (*Enwald*).
+Enwald, Kurt Henrik (1877-1961), Finnish botanist. 
+**Abbreviated name**: *Enwald*
 
 #### Herbarium and types
 

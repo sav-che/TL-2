@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103624#page/332/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33189789) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poirault, \[Marie Henri\] Georges (1858-1936), French botanist; son of J.P.F. Poirault; on oceanographic voyage of Talisman, 1883; with A.S. Famintzin, St. Petersburg 1886-1888; Dr. sci. Paris 1894; at Mus. Hist. nat. Paris, 1888-1889; director of the Villa Thuret at Antibes 1899-1936. (*G. Poirault*).
+Poirault, \[Marie Henri\] Georges (1858-1936), French botanist; son of J.P.F. Poirault; on oceanographic voyage of Talisman, 1883; with A.S. Famintzin, St. Petersburg 1886-1888; Dr. sci. Paris 1894; at Mus. Hist. nat. Paris, 1888-1889; director of the Villa Thuret at Antibes 1899-1936. 
+**Abbreviated name**: *G. Poirault*
 
 #### Herbarium and types
 

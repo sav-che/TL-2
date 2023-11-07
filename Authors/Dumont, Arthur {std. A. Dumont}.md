@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103835#page/171/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33260149) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dumont, Arthur (1849-?), French botanist, born 6 Mar 1849, Ciry-Salsogne, Aisne, studied natural sciences, teacher at the grammar school at Rouen. (*A. Dumont*).
+Dumont, Arthur (1849-?), French botanist, born 6 Mar 1849, Ciry-Salsogne, Aisne, studied natural sciences, teacher at the grammar school at Rouen. 
+**Abbreviated name**: *A. Dumont*
 
 #### Herbarium and types
 

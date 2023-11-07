@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/item/103624#page/838/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33190295) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rock, Joseph Francis Charles \[until 1933 Joseph Franz Karl\] (1884-1962), Austrian-born American botanical explorer, botanist, geographer and ethnologist; to the United States 1905, in Hawaii 1907- 1920; naturalized U.S. citizen 1913; explorer for the Bureau of Plant Industry, USDA, the Arnold Arboretum, the National Geographic Society and other U.S. institutions and agencies, frequently travelling and working in China until 1949; from then on in India, Europe, U.S.A., ultimately on Oahu, Hawaii; "father of Hawaiian botany".(*Rock*).
+Rock, Joseph Francis Charles \[until 1933 Joseph Franz Karl\] (1884-1962), Austrian-born American botanical explorer, botanist, geographer and ethnologist; to the United States 1905, in Hawaii 1907- 1920; naturalized U.S. citizen 1913; explorer for the Bureau of Plant Industry, USDA, the Arnold Arboretum, the National Geographic Society and other U.S. institutions and agencies, frequently travelling and working in China until 1949; from then on in India, Europe, U.S.A., ultimately on Oahu, Hawaii; "father of Hawaiian botany".
+**Abbreviated name**: *Rock*
 
 #### Herbarium and types
 

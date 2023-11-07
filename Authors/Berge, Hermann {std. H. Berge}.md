@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/103859#page/97/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33265284) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berge, Hermann (1845-1891), German (Magdeburg) botanist, originally gardener, studied later at the Universities of Jena and Zürich, teacher at Herisau 1872-1874; assistant 1874-1888, 1876-1881 lecturer at the Zürich Polytechnic, with the School of Arts in Berlin 1881-1882, from 1882-1891 master of drawings at the highschool at Luisenstadt. (*H. Berge*).
+Berge, Hermann (1845-1891), German (Magdeburg) botanist, originally gardener, studied later at the Universities of Jena and Zürich, teacher at Herisau 1872-1874; assistant 1874-1888, 1876-1881 lecturer at the Zürich Polytechnic, with the School of Arts in Berlin 1881-1882, from 1882-1891 master of drawings at the highschool at Luisenstadt. 
+**Abbreviated name**: *H. Berge*
 
 #### Herbarium and types
 

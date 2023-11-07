@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/item/103833#page/85/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33259119) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darlington, Josephine (1905-x), American botanist, at Biological Sciences, University of Montana, Missoula, AB, Washington University MS 1930, Thesis Ph.D. at Washington University 1937. (*J. Darl.*).
+Darlington, Josephine (1905-x), American botanist, at Biological Sciences, University of Montana, Missoula, AB, Washington University MS 1930, Thesis Ph.D. at Washington University 1937. 
+**Abbreviated name**: *J. Darl.*
 
 #### Herbarium and types
 

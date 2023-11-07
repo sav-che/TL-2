@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103835#page/298/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33260276) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eimbcke, Georg (1771-1843), German pharmacist and botanist, born 17 Dec 1771 at Hamburg, died 20 Apr 1843 at Eppendorf near Hamburg. (*Eimbcke*).
+Eimbcke, Georg (1771-1843), German pharmacist and botanist, born 17 Dec 1771 at Hamburg, died 20 Apr 1843 at Eppendorf near Hamburg. 
+**Abbreviated name**: *Eimbcke*
 
 #### Herbarium and types
 

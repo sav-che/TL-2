@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/item/103253#page/768/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33068984) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lamson-Scribner, Frank (originally Franklin Pierce Lamson) (1851-1938); American agrostologist; at Girard College, Philadelphia (1877-1885); from 1885 at the U.S. Dept. Agriculture; L.L.D. h.c. Univ. Maine 1920. (*Lams.-Scribn.*).
+Lamson-Scribner, Frank (originally Franklin Pierce Lamson) (1851-1938); American agrostologist; at Girard College, Philadelphia (1877-1885); from 1885 at the U.S. Dept. Agriculture; L.L.D. h.c. Univ. Maine 1920. 
+**Abbreviated name**: *Lams.-Scribn.*
 
 #### Herbarium and types
 

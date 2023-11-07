@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/104077#page/219/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33333344) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlechter, \[Friedrich Richard\] Rudolf (1872-1925), German (Berlin/Prussian) botanist, botanical explorer and orchidologist; gardener at Berlin Botanical Garden until 1891; collected in S. Africa and Moçambique 1891-1895, 1896-1898; leader West-African Caoutchouk exp. 1899-1900, id. New Guinea, Indonesia, New Caledonia 1900-1903; Dr. phil. Berlin 1904 as student of Engler; to Cameroons 1904, Borneo and Sumatra 1906; Kaiser Wilhelmsland 1907-1909, until 1910 in Indonesia; from 1913 assistant (active service in World War I 1914-1918), from 1921-1925 curator at Berlin-Dahlem. (*Schlechter*).
+Schlechter, \[Friedrich Richard\] Rudolf (1872-1925), German (Berlin/Prussian) botanist, botanical explorer and orchidologist; gardener at Berlin Botanical Garden until 1891; collected in S. Africa and Moçambique 1891-1895, 1896-1898; leader West-African Caoutchouk exp. 1899-1900, id. New Guinea, Indonesia, New Caledonia 1900-1903; Dr. phil. Berlin 1904 as student of Engler; to Cameroons 1904, Borneo and Sumatra 1906; Kaiser Wilhelmsland 1907-1909, until 1910 in Indonesia; from 1913 assistant (active service in World War I 1914-1918), from 1921-1925 curator at Berlin-Dahlem. 
+**Abbreviated name**: *Schlechter*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/104077#page/464/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33333589) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schweykert, J.M. (*fl*. 1791), German gardener at Karlsruhe. (*Schweykert*).
+Schweykert, J.M. (*fl*. 1791), German gardener at Karlsruhe. 
+**Abbreviated name**: *Schweykert*
 
 #### Herbarium and types
 

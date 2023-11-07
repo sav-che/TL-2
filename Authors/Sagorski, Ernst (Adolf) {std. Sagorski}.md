@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1052](https://www.biodiversitylibrary.org/item/103624#page/1066/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1052](https://www.biodiversitylibrary.org/page/33190523) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sagorski, Ernst (Adolf) (1847-1929), German (Saarbrücken/Prussian) botanist; studied at Bonn 1865-1868; high school teacher at the Königl. Landesschule, Pforta near Naumburg, Thüringen 1870-1905; Dr. phil. h.c. Halle 1905; in retirement at Almrich. (*Sagorski*).
+Sagorski, Ernst (Adolf) (1847-1929), German (Saarbrücken/Prussian) botanist; studied at Bonn 1865-1868; high school teacher at the Königl. Landesschule, Pforta near Naumburg, Thüringen 1870-1905; Dr. phil. h.c. Halle 1905; in retirement at Almrich. 
+**Abbreviated name**: *Sagorski*
 
 #### Herbarium and types
 

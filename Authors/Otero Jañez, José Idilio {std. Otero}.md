@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/item/104137#page/872/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33355943) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Otero Jañez, José Idilio (1893-x), Porto-Rican botanist; librarian and botanical bibliographer at the Insular Exp. Sta., Porto-Rico. (*Otero*).
+Otero Jañez, José Idilio (1893-x), Porto-Rican botanist; librarian and botanical bibliographer at the Insular Exp. Sta., Porto-Rico. 
+**Abbreviated name**: *Otero*
 
 #### Herbarium and types
 

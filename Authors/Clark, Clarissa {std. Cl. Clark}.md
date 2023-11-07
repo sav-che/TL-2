@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103860#page/190/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33265857) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clark, Clarissa (fl. 1911), American botanist in Iowa, associated with E.C. Pammel. (*Cl. Clark*).
+Clark, Clarissa (fl. 1911), American botanist in Iowa, associated with E.C. Pammel. 
+**Abbreviated name**: *Cl. Clark*
 
 #### Herbarium and types
 

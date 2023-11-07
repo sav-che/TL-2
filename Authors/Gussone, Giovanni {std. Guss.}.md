@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1025](https://www.biodiversitylibrary.org/item/103414#page/1073/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1025](https://www.biodiversitylibrary.org/page/33121156) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gussone, Giovanni {std. Guss.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gussone, Giovanni (1787-1866), Italian botanist at Naples. (*Guss*).
+Gussone, Giovanni (1787-1866), Italian botanist at Naples. 
+**Abbreviated name**: *Guss*
 
 #### Herbarium and types
 

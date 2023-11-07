@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/104077#page/65/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33333152) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sargent, Charles Sprague (1841-1927), American (Bostonian) botanist and dendrologist; graduated from Harvard 1862; in the Civil War 1862-1865; travelled in Europe 1865-1868; professor of horticulture at Harvard 1870; Arnold professor of arboriculture ib. 1879-1927; founder (1872) and first director of the Arnold Arboretum of Harvard University 1872-1927; travelled and collected extensively in the United States, the West Indies, Mexico and Japan; active conservationist; LL.D. h.c. Harvard 1901. (*Sarg.*).
+Sargent, Charles Sprague (1841-1927), American (Bostonian) botanist and dendrologist; graduated from Harvard 1862; in the Civil War 1862-1865; travelled in Europe 1865-1868; professor of horticulture at Harvard 1870; Arnold professor of arboriculture ib. 1879-1927; founder (1872) and first director of the Arnold Arboretum of Harvard University 1872-1927; travelled and collected extensively in the United States, the West Indies, Mexico and Japan; active conservationist; LL.D. h.c. Harvard 1901. 
+**Abbreviated name**: *Sarg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/104077#page/324/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33333449) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schoute, Johannes Cornelis (1877-1942), Dutch botanist; studied at the University of Groningen, student of J.W. Moll; Dr. phil. Groningen 1902; assistant for botany ib. 1900-1902; in Buitenzorg, Indonesia 1903; with the State Seed Testing Station at Wageningen 1903-1907; high school teacher at Gouda 1908-1911; at Bussum 1911-1917; professor of botany at Groningen 1917-1931; in early retirement at Groningen dedicating himself mainly to research on plant morphology. (*Schoute*).
+Schoute, Johannes Cornelis (1877-1942), Dutch botanist; studied at the University of Groningen, student of J.W. Moll; Dr. phil. Groningen 1902; assistant for botany ib. 1900-1902; in Buitenzorg, Indonesia 1903; with the State Seed Testing Station at Wageningen 1903-1907; high school teacher at Gouda 1908-1911; at Bussum 1911-1917; professor of botany at Groningen 1917-1931; in early retirement at Groningen dedicating himself mainly to research on plant morphology. 
+**Abbreviated name**: *Schoute*
 
 #### Herbarium and types
 

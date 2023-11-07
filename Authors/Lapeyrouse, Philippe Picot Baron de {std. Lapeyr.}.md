@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/item/103253#page/782/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33068998) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lapeyrouse, Philippe Picot Baron de (1744-1818), French mineralogist and botanist at Toulouse, teacher at the École centrale, later (1800) maire of Toulouse, subsequently professor of natural history at Toulouse University; deputy during the "cent jours". (*Lapeyr.*).
+Lapeyrouse, Philippe Picot Baron de (1744-1818), French mineralogist and botanist at Toulouse, teacher at the École centrale, later (1800) maire of Toulouse, subsequently professor of natural history at Toulouse University; deputy during the "cent jours". 
+**Abbreviated name**: *Lapeyr.*
 
 #### Herbarium and types
 

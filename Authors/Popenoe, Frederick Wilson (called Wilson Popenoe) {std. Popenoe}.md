@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103624#page/352/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Popenoe, Frederick Wilson (called Wilson Popenoe) (1892-1975), American botanist and explorer; studied at Pomona College; agricultural explorer for USDA from 1913-1923; with the United Fruit Company from 1923-1957; from 1944 as director of the Escuela Agricola Panamericana, Honduras. (*Popenoe*).
+Popenoe, Frederick Wilson (called Wilson Popenoe) (1892-1975), American botanist and explorer; studied at Pomona College; agricultural explorer for USDA from 1913-1923; with the United Fruit Company from 1923-1957; from 1944 as director of the Escuela Agricola Panamericana, Honduras. 
+**Abbreviated name**: *Popenoe*
 
 #### Herbarium and types
 

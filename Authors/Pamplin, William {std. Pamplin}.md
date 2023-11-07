@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/103624#page/54/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33189473) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pamplin, William (1806-1899), British botanist; from 1839 botanical bookseller and publisher in Soho; retired to Llanderfel, North Wales 1863. (*Pamplin*).
+Pamplin, William (1806-1899), British botanist; from 1839 botanical bookseller and publisher in Soho; retired to Llanderfel, North Wales 1863. 
+**Abbreviated name**: *Pamplin*
 
 #### Herbarium and types
 

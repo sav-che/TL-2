@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103833#page/108/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33259142) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-David, Georg (1848-?), German born at Frankenstein, Silesia, studied at the University of Breslau with Ph.D. Apr 1862. (*G. David*).
+David, Georg (1848-?), German born at Frankenstein, Silesia, studied at the University of Breslau with Ph.D. Apr 1862. 
+**Abbreviated name**: *G. David*
 
 #### Herbarium and types
 

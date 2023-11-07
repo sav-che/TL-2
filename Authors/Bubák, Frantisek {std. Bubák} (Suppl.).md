@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103861#page/182/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33266479) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bubák, František {std. Bubák}|first entry]] for this author
 
 ### Author
 
-\* Bubák, Frantisek (1865-1925), Bohemian botanist and phytopathologist, educated at the Jičině gymnasium at Prague, studied at universities of Prague, Halle and Berlin, botanical assistant at the Prague state museum of natural history, assistant for phytopathology at the Bohemian technical college at Prague, ca. 1902 head of phytopathology at the agriculturalphysiological station in Prague, professor of botany and phytopathology at the Royal agricultural Academy at Tábor, Bohemia, travelled in Montenegro 1903, professor of systematic botany and phytopathology at the new Bohemian College for Soil Science at Brünn (Brno, Mähren) 1919, professor of phytopathology and director of the Technical College in Prague. (*Bubák*).
+\* Bubák, Frantisek (1865-1925), Bohemian botanist and phytopathologist, educated at the Jičině gymnasium at Prague, studied at universities of Prague, Halle and Berlin, botanical assistant at the Prague state museum of natural history, assistant for phytopathology at the Bohemian technical college at Prague, ca. 1902 head of phytopathology at the agriculturalphysiological station in Prague, professor of botany and phytopathology at the Royal agricultural Academy at Tábor, Bohemia, travelled in Montenegro 1903, professor of systematic botany and phytopathology at the new Bohemian College for Soil Science at Brünn (Brno, Mähren) 1919, professor of phytopathology and director of the Technical College in Prague. 
+**Abbreviated name**: *Bubák*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/104077#page/322/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33333447) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schottky, Ernst Max (1888-1915), German (Zürich-born) botanist; studied natural sciences and geography at the University of Berlin; especially botany under A. Engler; Dr. phil. Berlin 1912; active in the "Wandervögel" movement; on active duty (war-time volunteer) in the German army 1914; fell at La Bassée on 12 Jan 1915. (*Schottky*).
+Schottky, Ernst Max (1888-1915), German (Zürich-born) botanist; studied natural sciences and geography at the University of Berlin; especially botany under A. Engler; Dr. phil. Berlin 1912; active in the "Wandervögel" movement; on active duty (war-time volunteer) in the German army 1914; fell at La Bassée on 12 Jan 1915. 
+**Abbreviated name**: *Schottky*
 
 #### Herbarium and types
 

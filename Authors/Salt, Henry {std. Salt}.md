@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/104077#page/27/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33333170) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salt, Henry (1780-1827), English traveller and Egyptologist; secretary to Lord Valentia in India and Africa 1802-1805; in Abyssinia 1805 and 1809-1810; in Moçambique 1809; consul-general for Gr. Britain in Egypt 1815-1827. (*Salt*).
+Salt, Henry (1780-1827), English traveller and Egyptologist; secretary to Lord Valentia in India and Africa 1802-1805; in Abyssinia 1805 and 1809-1810; in Moçambique 1809; consul-general for Gr. Britain in Egypt 1815-1827. 
+**Abbreviated name**: *Salt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103683#page/151/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33212183) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Szafer, Wladyslaw (1886-1970), Polish botanist; Dr. phil. Lwów 1909; studied at Vienna 1910-1911, München 1911-1912; botanical assistant at the School of Forestry, Lwów (Lemberg); army bacteriologist 1914-1917; professor of botany and director of the botanical garden at the University of Kraków 1917-1960, later also at Institute of Botany of the Polish Academy of Scienes, Kraków. (*Szafer*).
+Szafer, Wladyslaw (1886-1970), Polish botanist; Dr. phil. Lwów 1909; studied at Vienna 1910-1911, München 1911-1912; botanical assistant at the School of Forestry, Lwów (Lemberg); army bacteriologist 1914-1917; professor of botany and director of the botanical garden at the University of Kraków 1917-1960, later also at Institute of Botany of the Polish Academy of Scienes, Kraków. 
+**Abbreviated name**: *Szafer*
 
 #### Herbarium and types
 

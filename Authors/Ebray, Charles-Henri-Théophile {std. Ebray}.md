@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103835#page/260/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33260238) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebray, Charles-Henri-Théophile (1823-1879), French-Swiss geologist and palaeontologist, born 1823 at Basel, visited the gymnasium at Basel, most interested in mathematics and natural sciences, studied until 1849 at the "École centrale" at Paris, worked from 1856 on the railway Paris-Lyon, retired in 1870 to Talloires at the lake of Annecy and moved 1873 to Petit-Sacconex near Geneva, died 5 Feb 1879. (*Ebray*).
+Ebray, Charles-Henri-Théophile (1823-1879), French-Swiss geologist and palaeontologist, born 1823 at Basel, visited the gymnasium at Basel, most interested in mathematics and natural sciences, studied until 1849 at the "École centrale" at Paris, worked from 1856 on the railway Paris-Lyon, retired in 1870 to Talloires at the lake of Annecy and moved 1873 to Petit-Sacconex near Geneva, died 5 Feb 1879. 
+**Abbreviated name**: *Ebray*
 
 #### Herbarium and types
 

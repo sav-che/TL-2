@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/item/104137#page/136/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33355207) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lister, Guilielma (1860-1949), British botanist; daughter of Arthur Lister; educated at home; constant companion of her father in his studies on Mycetozoa. (*G. List.*).
+Lister, Guilielma (1860-1949), British botanist; daughter of Arthur Lister; educated at home; constant companion of her father in his studies on Mycetozoa. 
+**Abbreviated name**: *G. List.*
 
 #### Herbarium and types
 

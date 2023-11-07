@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103858#page/310/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33265025) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balfour, John Hutton {std. Balf.}|first entry]] for this author
 
 ### Author
 
-\* Balfour, John Hutton (1808-1884), British (Scottish) botanist, educated at the High School Edinburgh, studied at the Universities of Edinburgh and St. Andrews, M.D. Edinburgh 1832, at a medical school in Paris 1832-1834, practising physician Edinburgh 1834, succeeded W.J. Hooker as professor of botany at Glasgow 1841-1845, Queen's botanist in Scotland, Regius Keeper of the Royal Botanic Garden and professor of botany at Edinburgh 1845-1879, L.L.D. Univ. Edinburgh, St. Andrews and Glasgow 1879, one of the founders of the Botanical Society of Edinburgh. (*Balf.*).
+\* Balfour, John Hutton (1808-1884), British (Scottish) botanist, educated at the High School Edinburgh, studied at the Universities of Edinburgh and St. Andrews, M.D. Edinburgh 1832, at a medical school in Paris 1832-1834, practising physician Edinburgh 1834, succeeded W.J. Hooker as professor of botany at Glasgow 1841-1845, Queen's botanist in Scotland, Regius Keeper of the Royal Botanic Garden and professor of botany at Edinburgh 1845-1879, L.L.D. Univ. Edinburgh, St. Andrews and Glasgow 1879, one of the founders of the Botanical Society of Edinburgh. 
+**Abbreviated name**: *Balf.*
 
 #### Herbarium and types
 

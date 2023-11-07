@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/103253#page/765/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33068981) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lamotte, Martial (1820-1883), French pharmacist and botanist at Riom, professor at the École de médecine et de pharmacie at Clermont-Ferrand. (*Lamotte*).
+Lamotte, Martial (1820-1883), French pharmacist and botanist at Riom, professor at the École de médecine et de pharmacie at Clermont-Ferrand. 
+**Abbreviated name**: *Lamotte*
 
 #### Herbarium and types
 

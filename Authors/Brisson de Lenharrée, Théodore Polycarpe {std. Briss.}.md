@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103861#page/99/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33266396) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brisson de Lenharrée, Théodore Polycarpe (1828-post 1891), French lichenologist at Chalon-sur-Marne. (*Briss.*).
+Brisson de Lenharrée, Théodore Polycarpe (1828-post 1891), French lichenologist at Chalon-sur-Marne. 
+**Abbreviated name**: *Briss.*
 
 #### Herbarium and types
 

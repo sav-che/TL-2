@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/item/103624#page/756/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reuss, Leopold (*fl*. 1831), German (Bavarian) botanist and clergyman ("Domvikar") at Passau. (*L. Reuss*).
+Reuss, Leopold (*fl*. 1831), German (Bavarian) botanist and clergyman ("Domvikar") at Passau. 
+**Abbreviated name**: *L. Reuss*
 
 #### Herbarium and types
 

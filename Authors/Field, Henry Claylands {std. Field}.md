@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/item/103414#page/877/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33120960) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Field, Henry Claylands (1825-1911), British born civil engineer and pteridologist who settled (1855) in New Zealand. (*Field*).
+Field, Henry Claylands (1825-1911), British born civil engineer and pteridologist who settled (1855) in New Zealand. 
+**Abbreviated name**: *Field*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/item/103624#page/924/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rostius, Christopher (1620-1687), German-born Swedish physician and botanist; Dr. med. Leiden 1657; "General-gouvernements-medicus" in the province of Skåne from 1658; first professor of medicine (incl. botany) and "archiater" at Lund University 1667-1676. (*Rostius*).
+Rostius, Christopher (1620-1687), German-born Swedish physician and botanist; Dr. med. Leiden 1657; "General-gouvernements-medicus" in the province of Skåne from 1658; first professor of medicine (incl. botany) and "archiater" at Lund University 1667-1676. 
+**Abbreviated name**: *Rostius*
 
 #### Herbarium and types
 

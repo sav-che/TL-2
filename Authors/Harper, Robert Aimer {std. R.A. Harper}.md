@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/103253#page/83/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harper, Robert Aimer (1862-1946), American botanist; pupil of Brefeld and Strasburger; professor of botany at Madison (Wisc.) (1898-1911); Torrey professor at Columbia University (1911-1930); specialist on the cytology of fungi and on phytopathology. (*R. A. Harper*).
+Harper, Robert Aimer (1862-1946), American botanist; pupil of Brefeld and Strasburger; professor of botany at Madison (Wisc.) (1898-1911); Torrey professor at Columbia University (1911-1930); specialist on the cytology of fungi and on phytopathology. 
+**Abbreviated name**: *R. A. Harper*
 
 #### Herbarium and types
 

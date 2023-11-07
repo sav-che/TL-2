@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/item/103414#page/502/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33120585) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cardot, Jules {std. Cardot} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cardot, Jules (1860-1934), French bryologist. (*Cardot*).
+Cardot, Jules (1860-1934), French bryologist. 
+**Abbreviated name**: *Cardot*
 
 #### Herbarium and types
 

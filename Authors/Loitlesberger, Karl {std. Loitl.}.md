@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/104137#page/166/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33355237) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loitlesberger, Karl (1857-1943), Austrian cryptogamist, high school teacher e.g. at the Stella matutina at Feldkirch. (*Loitl.*).
+Loitlesberger, Karl (1857-1943), Austrian cryptogamist, high school teacher e.g. at the Stella matutina at Feldkirch. 
+**Abbreviated name**: *Loitl.*
 
 #### Herbarium and types
 

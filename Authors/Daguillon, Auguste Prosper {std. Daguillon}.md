@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103833#page/18/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33259052) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daguillon, Auguste Prosper (1862-1908), French botanist, born in Paris, Ph.D. Paris 1890, teaching botany at the Faculty of Sciences, professor adjunct (from 1905) (*Daguillon*).
+Daguillon, Auguste Prosper (1862-1908), French botanist, born in Paris, Ph.D. Paris 1890, teaching botany at the Faculty of Sciences, professor adjunct (from 1905) 
+**Abbreviated name**: *Daguillon*
 
 #### Herbarium and types
 

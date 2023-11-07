@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103858#page/158/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33264873) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Archer, William {std. W. Archer}|first entry]] for this author
 
 ### Author
 
-\* Archer, William (of Dublin) (1830-1897), Irish botanist and microscopist, librarian, Royal Dublin Society 1876, id. to National Library of Ireland 1877-1895. (*W. Archer, Dubl.*).
+\* Archer, William (of Dublin) (1830-1897), Irish botanist and microscopist, librarian, Royal Dublin Society 1876, id. to National Library of Ireland 1877-1895. 
+**Abbreviated name**: *W. Archer, Dubl.*
 
 #### Note
 

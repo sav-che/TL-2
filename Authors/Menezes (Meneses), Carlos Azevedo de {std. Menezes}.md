@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/104137#page/431/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Menezes (Meneses), Carlos Azevedo de (1863-1928), Portuguese botanist; municipal librarian at Funchal, Madeira. (*Menezes*).
+Menezes (Meneses), Carlos Azevedo de (1863-1928), Portuguese botanist; municipal librarian at Funchal, Madeira. 
+**Abbreviated name**: *Menezes*
 
 #### Herbarium and types
 

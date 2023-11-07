@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/item/103834#page/29/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33259511) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fabricius, Johan Christian {std. J. Fabr.}|first entry]] for this author
 
 ### Author
 
-\* Fabricius, Johan Christian (1745-1808), Danish (Schleswig) entomologist, born 7 Jan 1745 in Tønder (Schleswig or South Jutland), studied at a gymnasium in Altona, entered Univ. of Copenhagen 1762, but studied with Linnaeus in Uppsala 1762-1764, studied in Leipzig 1765 and later Leiden, visited Scotland and England 1767-1768, and later France and Italy, appointed prof. extraord., "Charlottenborg Naturaliekabinet" 1767 with permission to travel, prof. of natural sciences and economics, Copenhagen 1775-1777 and finally Univ. of Kiel until 1789, but often residing in Paris or traveling, died 3 Mar 1808 in Kiel, "the Linnaeus of insects..." (*fide* Steffens, 1842). (*J. Fabr.*).
+\* Fabricius, Johan Christian (1745-1808), Danish (Schleswig) entomologist, born 7 Jan 1745 in Tønder (Schleswig or South Jutland), studied at a gymnasium in Altona, entered Univ. of Copenhagen 1762, but studied with Linnaeus in Uppsala 1762-1764, studied in Leipzig 1765 and later Leiden, visited Scotland and England 1767-1768, and later France and Italy, appointed prof. extraord., "Charlottenborg Naturaliekabinet" 1767 with permission to travel, prof. of natural sciences and economics, Copenhagen 1775-1777 and finally Univ. of Kiel until 1789, but often residing in Paris or traveling, died 3 Mar 1808 in Kiel, "the Linnaeus of insects..." (*fide* Steffens, 1842). 
+**Abbreviated name**: *J. Fabr.*
 
 #### Herbarium and types
 

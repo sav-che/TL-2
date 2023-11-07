@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103833#page/98/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dauber, Ludwig (fl. 1865), German teacher and Direktor of the Gymnasium of Holzminden (*L. Dauber*).
+Dauber, Ludwig (fl. 1865), German teacher and Direktor of the Gymnasium of Holzminden 
+**Abbreviated name**: *L. Dauber*
 
 #### Herbarium and types
 

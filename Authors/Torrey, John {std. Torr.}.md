@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103683#page/411/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33212443) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torrey, John (1796-1873), American botanist and chemist; studied medicine at the College of Physicians and Surgeons, New York (M.D. 1818), practicing physician New York 1818-1822; professor of chemistry at the United States Military Academy, West Point 1824-1827, id. at New York College of physicians and surgeons 1827-1855, trustee id. 1856-1873, id. concurrently at Princeton 1830-1855; United States Assayer, U.S. Mint, New York 1853-1873; first president of the Torrey botanical Club. (*Torr.*).
+Torrey, John (1796-1873), American botanist and chemist; studied medicine at the College of Physicians and Surgeons, New York (M.D. 1818), practicing physician New York 1818-1822; professor of chemistry at the United States Military Academy, West Point 1824-1827, id. at New York College of physicians and surgeons 1827-1855, trustee id. 1856-1873, id. concurrently at Princeton 1830-1855; United States Assayer, U.S. Mint, New York 1853-1873; first president of the Torrey botanical Club. 
+**Abbreviated name**: *Torr.*
 
 #### Herbarium and types
 

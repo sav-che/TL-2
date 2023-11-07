@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103833#page/47/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259081) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Damazio, Léonidas Bothelo (1854-1922), Brazilian botanist, born in S. Salvador in Bahia, from 1876 repetitor and schoolmaster, later at Ouro Preta (Minas Gerais) teaching physics, chemistry, zoology and botany, from 1887 only zoological and botanical teacher. (*Damazio*).
+Damazio, Léonidas Bothelo (1854-1922), Brazilian botanist, born in S. Salvador in Bahia, from 1876 repetitor and schoolmaster, later at Ouro Preta (Minas Gerais) teaching physics, chemistry, zoology and botany, from 1887 only zoological and botanical teacher. 
+**Abbreviated name**: *Damazio*
 
 #### Herbarium and types
 

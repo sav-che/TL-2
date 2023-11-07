@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/item/103683#page/672/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33212704) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vanderyst, Hyacinthe Julien Robert (1860-1934), Belgian agronomical engineer, botanist and missionary; studied agronomy at Louvain \[Leuven\] 1883-1885; agronomist with the ministry of agriculture 1884, state agronomist 1885-1890; secular missionary in the Belgian Congo 1890-1891 setting up a missionary post at Banane; assistant inspector for agriculture in the Belgian department of agriculture 1893, from 1898-1902 inspector; studied theology in Rome 1902-1906, ordained at Louvain as a Missionary of Scheut (Congr. Immac. Cord. Mariae); in Congo 1906-1909 as auxiliary priest with Jesuit missionaries at Kisantu; further similar stays in Congo 1909-1912, 1913-1919, 1920-1923 and 1924-1928 combining his scientific studies and collecting with his missionary work. (*Vanderyst*).
+Vanderyst, Hyacinthe Julien Robert (1860-1934), Belgian agronomical engineer, botanist and missionary; studied agronomy at Louvain \[Leuven\] 1883-1885; agronomist with the ministry of agriculture 1884, state agronomist 1885-1890; secular missionary in the Belgian Congo 1890-1891 setting up a missionary post at Banane; assistant inspector for agriculture in the Belgian department of agriculture 1893, from 1898-1902 inspector; studied theology in Rome 1902-1906, ordained at Louvain as a Missionary of Scheut (Congr. Immac. Cord. Mariae); in Congo 1906-1909 as auxiliary priest with Jesuit missionaries at Kisantu; further similar stays in Congo 1909-1912, 1913-1919, 1920-1923 and 1924-1928 combining his scientific studies and collecting with his missionary work. 
+**Abbreviated name**: *Vanderyst*
 
 #### Herbarium and types
 

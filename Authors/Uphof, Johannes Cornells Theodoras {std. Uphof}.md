@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/item/103683#page/615/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33212647) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uphof, Johannes Cornells Theodoras (1886-x), Dutch botanist; studied at the College of horticulture, Frederiksoord and the University of Amsterdam; emigrated to the United States 1912; curator of the botanical garden at East Lansing (Michigan Agricultural College); asst. professor of botany at the State University of Arizona 1913-1919; in the Netherlands with the Nederlandsche Elitezaad Maatschappij 1919-1922; professor of botany Rollins College, Orlando, Florida 1922-1941; economic botanist Board Economic Warfare 1941-1943; at Tampa, Florida from 1945. (*Uphof*).
+Uphof, Johannes Cornells Theodoras (1886-x), Dutch botanist; studied at the College of horticulture, Frederiksoord and the University of Amsterdam; emigrated to the United States 1912; curator of the botanical garden at East Lansing (Michigan Agricultural College); asst. professor of botany at the State University of Arizona 1913-1919; in the Netherlands with the Nederlandsche Elitezaad Maatschappij 1919-1922; professor of botany Rollins College, Orlando, Florida 1922-1941; economic botanist Board Economic Warfare 1941-1943; at Tampa, Florida from 1945. 
+**Abbreviated name**: *Uphof*
 
 #### Herbarium and types
 

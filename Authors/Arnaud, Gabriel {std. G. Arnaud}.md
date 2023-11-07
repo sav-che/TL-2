@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103414#page/112/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33120195) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arnaud, Gabriel {std. G. Arnaud} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arnaud, Gabriel (1882-1957), French mycologist. (*G. Arnaud*).
+Arnaud, Gabriel (1882-1957), French mycologist. 
+**Abbreviated name**: *G. Arnaud*
 
 #### Herbarium and types
 

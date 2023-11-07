@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/103414#page/232/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33120315) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berdau, Félix I. (1826-1895), Polish physician and botanist at Krakow, later at Warsawa. (*Berdau*).
+Berdau, Félix I. (1826-1895), Polish physician and botanist at Krakow, later at Warsawa. 
+**Abbreviated name**: *Berdau*
 
 #### HERBARIUM and TYPES
 

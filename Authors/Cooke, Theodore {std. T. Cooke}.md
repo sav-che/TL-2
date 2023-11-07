@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/item/103414#page/591/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33120674) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooke, Theodore (1836-1910), British botanist in India 1860-1893, principal at Poona college 1865-1893. (*T. Cooke*).
+Cooke, Theodore (1836-1910), British botanist in India 1860-1893, principal at Poona college 1865-1893. 
+**Abbreviated name**: *T. Cooke*
 
 #### Herbarium and types
 

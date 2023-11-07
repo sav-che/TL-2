@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103683#page/360/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33212392) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tiffany, Lewis Hanford (1894-1965), American botanist (phycologist); Dr. phil. Ohio State University 1923; instructor and ass. professor at Ohio State Univ., Columbia 1923-1932, professor of botany 1932-1937; prof. of botany at Northwestern University, Evanston, Ill. 1937-1959. (*Tiffany*).
+Tiffany, Lewis Hanford (1894-1965), American botanist (phycologist); Dr. phil. Ohio State University 1923; instructor and ass. professor at Ohio State Univ., Columbia 1923-1932, professor of botany 1932-1937; prof. of botany at Northwestern University, Evanston, Ill. 1937-1959. 
+**Abbreviated name**: *Tiffany*
 
 #### Herbarium and types
 

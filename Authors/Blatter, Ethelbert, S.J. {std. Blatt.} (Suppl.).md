@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103859#page/217/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blatter, Ethelbert {std. Blatt.}|first entry]] for this author
 
 ### Author
 
-\* Blatter, Ethelbert, S.J. (1877-1934), Swiss Jesuit and botanist, born in Canton Appenzell, entered the Society of Jesus (1896) 1903, studied at Valkenburg (Limburg, Netherlands), became an ardent botanist, at St. Xavier's College, Bombay as botany teacher 1904-1908, followed a course in theology at Ore, nr. Hastings, England 1908-1913, returned to St. Xavier's college 1915, Principal ib. 1919, chaplain at Panchgami from 1925. (*Blatt.*).
+\* Blatter, Ethelbert, S.J. (1877-1934), Swiss Jesuit and botanist, born in Canton Appenzell, entered the Society of Jesus (1896) 1903, studied at Valkenburg (Limburg, Netherlands), became an ardent botanist, at St. Xavier's College, Bombay as botany teacher 1904-1908, followed a course in theology at Ore, nr. Hastings, England 1908-1913, returned to St. Xavier's college 1915, Principal ib. 1919, chaplain at Panchgami from 1925. 
+**Abbreviated name**: *Blatt.*
 
 #### Herbarium and types
 

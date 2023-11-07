@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103624#page/402/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33189859) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prescott, Gerald Webber (1899-x), American algologist; Dr. phil. Iowa State 1928; act. prof. bot. Willamette Univ. 1928-1929; asst. prof. Albion College 1929-1932, assoc., prof. id. 1932-1946; assoc. prof. Michigan State 1946-1949; prof. ib. 1949-1968; in retirement associated with the University of Montana. (*Prescott*).
+Prescott, Gerald Webber (1899-x), American algologist; Dr. phil. Iowa State 1928; act. prof. bot. Willamette Univ. 1928-1929; asst. prof. Albion College 1929-1932, assoc., prof. id. 1932-1946; assoc. prof. Michigan State 1946-1949; prof. ib. 1949-1968; in retirement associated with the University of Montana. 
+**Abbreviated name**: *Prescott*
 
 #### Herbarium and types
 

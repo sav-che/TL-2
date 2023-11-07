@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103683#page/171/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33212203) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tang, T. (T'ang, Chin)( (x-1984), Chinese botanist at the Fan Memorial Institute, Peking. (*T. Tang*).
+Tang, T. (T'ang, Chin)( (x-1984), Chinese botanist at the Fan Memorial Institute, Peking. 
+**Abbreviated name**: *T. Tang*
 
 #### Herbarium and types
 

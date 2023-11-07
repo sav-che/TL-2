@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103860#page/174/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265841) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Christiansen, Mads Peter (1889-1975), Danish botanist, born at Gamborg, teacher's examination 1912, subject teacher at Køge 1919-1944, school inspector 1935. (*M.P. Christ.*).
+Christiansen, Mads Peter (1889-1975), Danish botanist, born at Gamborg, teacher's examination 1912, subject teacher at Køge 1919-1944, school inspector 1935. 
+**Abbreviated name**: *M.P. Christ.*
 
 #### Herbarium and types
 

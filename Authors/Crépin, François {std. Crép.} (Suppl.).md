@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103860#page/463/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266130) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crépin, François {std. Crép.}|first entry]] for this author
 
 ### Author
 
-\* Crépin, François (1830-1903), Belgian botanist, rhodologist and palaeontologist, born Rochefort, Namur, Belgium, post-office clerk, in the provincial administration, professor of botany at the horticultural school at Gent 1861-1870, with the botanical garden of Bruxelles, curator 1871, from 1876-1901 director of the Rijksplantentuin, Directeur honoraire 1901-1903. (*Crép.*).
+\* Crépin, François (1830-1903), Belgian botanist, rhodologist and palaeontologist, born Rochefort, Namur, Belgium, post-office clerk, in the provincial administration, professor of botany at the horticultural school at Gent 1861-1870, with the botanical garden of Bruxelles, curator 1871, from 1876-1901 director of the Rijksplantentuin, Directeur honoraire 1901-1903. 
+**Abbreviated name**: *Crép.*
 
 #### Herbarium and types
 

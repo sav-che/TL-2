@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103624#page/244/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33189701) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phelps, Almira (previously Lincoln, née Hart or Heart) (1793-1884), American popular writer on botany and teacher at the Troy Female Seminary; from 1838-1841 in charge of a seminary in West Chester, Pa., from 1841 id. of the Patapsco Female Institute, Ellicott City, Md.; married Samuel Lincoln 1817, John Phelps 1831. (*A. Phelps*).
+Phelps, Almira (previously Lincoln, née Hart or Heart) (1793-1884), American popular writer on botany and teacher at the Troy Female Seminary; from 1838-1841 in charge of a seminary in West Chester, Pa., from 1841 id. of the Patapsco Female Institute, Ellicott City, Md.; married Samuel Lincoln 1817, John Phelps 1831. 
+**Abbreviated name**: *A. Phelps*
 
 #### Herbarium and types
 

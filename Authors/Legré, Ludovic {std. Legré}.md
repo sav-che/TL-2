@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/item/103253#page/843/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33069059) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Legré, Ludovic (1838-1904), French jurist and botanical historian, "bâtonnier de l'ordre des avocats de Marseille." (*Legré*).
+Legré, Ludovic (1838-1904), French jurist and botanical historian, "bâtonnier de l'ordre des avocats de Marseille." 
+**Abbreviated name**: *Legré*
 
 #### Herbarium and types
 

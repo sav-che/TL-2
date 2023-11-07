@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103833#page/252/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259286) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[De Toni, Giovanni Batista {std. De Toni}|first entry]] for this author
 
 ### Author
 
-\* De Toni, Giovanni Batista (1864-1924), Italian botanist, born in Venezia 2 Jan 1864, died in Modena 31 Jul 1924, Doctor Sci. nat. chem. 1886, assistant in the botanical garden of Padova, assistant as professor suppl. Botany at University of Parma 1892-1894, doctor 1896 University of Padova, director and professor Botany University Camerino 1899, some time at Camerino 1902, at Sassari and Modena as professor at the University 1903, Dr. med. 1916. (*De Toni*).
+\* De Toni, Giovanni Batista (1864-1924), Italian botanist, born in Venezia 2 Jan 1864, died in Modena 31 Jul 1924, Doctor Sci. nat. chem. 1886, assistant in the botanical garden of Padova, assistant as professor suppl. Botany at University of Parma 1892-1894, doctor 1896 University of Padova, director and professor Botany University Camerino 1899, some time at Camerino 1902, at Sassari and Modena as professor at the University 1903, Dr. med. 1916. 
+**Abbreviated name**: *De Toni*
 
 #### Herbarium and types
 

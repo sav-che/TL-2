@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103859#page/402/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33265589) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bourgeau, Eugène {std. Bourg.}|first entry]] for this author
 
 ### Author
 
-\* Bourgeau, Eugène (1813-1877), French botanical traveller and collector, born at Brizon (Haute-Alpes), in his early years botanizing and working with N.C. Seringe, then director of the Botanical Garden of Lyon, moved to Paris, curator and traveller for Philip Barker Webb, travelled widely in South and Southwest France (including nine trips to Spain), in Algeria 1856, in North America at the instigation of William Hooker 1857-1861 (mainly in present Canada), continued his European and Near East explorations (for Boissier) 1861-1864, again to North America 1865-1866, in 1867 to Mexico. (*Bourg.*).
+\* Bourgeau, Eugène (1813-1877), French botanical traveller and collector, born at Brizon (Haute-Alpes), in his early years botanizing and working with N.C. Seringe, then director of the Botanical Garden of Lyon, moved to Paris, curator and traveller for Philip Barker Webb, travelled widely in South and Southwest France (including nine trips to Spain), in Algeria 1856, in North America at the instigation of William Hooker 1857-1861 (mainly in present Canada), continued his European and Near East explorations (for Boissier) 1861-1864, again to North America 1865-1866, in 1867 to Mexico. 
+**Abbreviated name**: *Bourg.*
 
 #### Herbarium and types
 

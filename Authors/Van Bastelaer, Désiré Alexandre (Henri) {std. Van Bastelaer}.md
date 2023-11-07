@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/item/103683#page/666/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33212698) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van Bastelaer, Désiré Alexandre \[Henri\] (1823-1907), Belgian botanist, pharmacist, archeologist and author on folklore; Dr. sci. nat. 1847; pharmacist at Charleroi 1847-1878, from 1883 in Bruxelles. (*Van Bastelaer*).
+Van Bastelaer, Désiré Alexandre \[Henri\] (1823-1907), Belgian botanist, pharmacist, archeologist and author on folklore; Dr. sci. nat. 1847; pharmacist at Charleroi 1847-1878, from 1883 in Bruxelles. 
+**Abbreviated name**: *Van Bastelaer*
 
 #### Herbarium and types
 

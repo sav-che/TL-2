@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103253#page/537/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33068753) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keating, William Hippolitus \[Hypolitus\] (1799-1840), American mineralogist and geologist on the Long expedition to St. Peter's River (1823); professor of chemistry Univ. Pennsylvania 1822-1828. (*Keating*).
+Keating, William Hippolitus \[Hypolitus\] (1799-1840), American mineralogist and geologist on the Long expedition to St. Peter's River (1823); professor of chemistry Univ. Pennsylvania 1822-1828. 
+**Abbreviated name**: *Keating*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/item/103414#page/724/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33120807) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doyle, Conrad Bartling (1884-?), American botanist at the U.S. Department of Agriculture, traveller in Central America. (*Doyle*).
+Doyle, Conrad Bartling (1884-?), American botanist at the U.S. Department of Agriculture, traveller in Central America. 
+**Abbreviated name**: *Doyle*
 
 #### Herbarium and types
 

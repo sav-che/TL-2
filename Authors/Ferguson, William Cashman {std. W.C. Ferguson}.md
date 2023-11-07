@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103834#page/164/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33259646) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferguson, William Cashman (1861-1930), American chemist and leading authority on copper smelting, born 19 Nov 1861 in Brooklyn, New York, Ph.D. (chemistry) 1887 Columbia Univ., New York City, late in life developed an interest in botany and became an authority on the flora of Long Island, died 3 Jun 1930 in Hempstead (Long Island), New York. (*W.C. Ferguson*).
+Ferguson, William Cashman (1861-1930), American chemist and leading authority on copper smelting, born 19 Nov 1861 in Brooklyn, New York, Ph.D. (chemistry) 1887 Columbia Univ., New York City, late in life developed an interest in botany and became an authority on the flora of Long Island, died 3 Jun 1930 in Hempstead (Long Island), New York. 
+**Abbreviated name**: *W.C. Ferguson*
 
 #### Herbarium and types
 

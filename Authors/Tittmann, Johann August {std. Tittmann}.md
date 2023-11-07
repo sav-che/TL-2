@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/item/103683#page/382/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33212414) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tittmann, Johann August (1774-1840), German (Hannover) physician, botanist and agronomist; studied pharmacy at Elbingerode and Wernigerode; studied medicine at Leipzig 1794; "Privatdocent" ib. 1797; Dr. med. 1801; practicing physician at Dresden 1801-1813; in retirement nr Altenburg. (*Tittmann*).
+Tittmann, Johann August (1774-1840), German (Hannover) physician, botanist and agronomist; studied pharmacy at Elbingerode and Wernigerode; studied medicine at Leipzig 1794; "Privatdocent" ib. 1797; Dr. med. 1801; practicing physician at Dresden 1801-1813; in retirement nr Altenburg. 
+**Abbreviated name**: *Tittmann*
 
 #### Herbarium and types
 

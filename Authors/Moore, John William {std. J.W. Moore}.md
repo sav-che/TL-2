@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/item/104137#page/586/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33355657) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moore, John William (1901-x), American botanist; Ph. D. Univ. Minnesota 1933, on Raiatea Island 1926-1927. (*J. W. Moore*).
+Moore, John William (1901-x), American botanist; Ph. D. Univ. Minnesota 1933, on Raiatea Island 1926-1927. 
+**Abbreviated name**: *J. W. Moore*
 
 #### Herbarium and types
 

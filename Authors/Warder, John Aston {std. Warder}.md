@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103250#page/130/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warder, John Aston (1812-1883), American forester, horticulturist and physician; grad. Jefferson Medical College, Philadelphia 1836; practicing physician in Cincinnati 1837-1855; from then onward living on a farm near North Bend, Ohio; longtime president of the Ohio Horticultural Society; member of the Ohio State Board of Agriculture 1871-1876. (*Warder*).
+Warder, John Aston (1812-1883), American forester, horticulturist and physician; grad. Jefferson Medical College, Philadelphia 1836; practicing physician in Cincinnati 1837-1855; from then onward living on a farm near North Bend, Ohio; longtime president of the Ohio Horticultural Society; member of the Ohio State Board of Agriculture 1871-1876. 
+**Abbreviated name**: *Warder*
 
 #### Herbarium and types
 

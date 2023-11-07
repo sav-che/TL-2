@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/item/103253#page/65/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33068281) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hanbury, Daniel (1825-1875), British pharmacologist and botanist; travelled in Syria 1860; brother of Sir Thomas Hanbury. (*D. Hanb.*).
+Hanbury, Daniel (1825-1875), British pharmacologist and botanist; travelled in Syria 1860; brother of Sir Thomas Hanbury. 
+**Abbreviated name**: *D. Hanb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/item/103861#page/145/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33266442) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, J. P. (x-1842), British soldier, after a military career in England, moved to Thun (Switzerland) in 1823, from then on interested in botany. (*J.P. Br.*).
+Brown, J. P. (x-1842), British soldier, after a military career in England, moved to Thun (Switzerland) in 1823, from then on interested in botany. 
+**Abbreviated name**: *J.P. Br.*
 
 #### Herbarium and types
 

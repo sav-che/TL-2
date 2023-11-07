@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/item/103253#page/360/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33068576) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hornschuch, Christian Friedrich (1793-1850), German botanist, mineralogist, entomologist, pharmacist 1808-1818; subsequently professor of botany and director of the botanic garden at Greifswald. (*Hornsch.*).
+Hornschuch, Christian Friedrich (1793-1850), German botanist, mineralogist, entomologist, pharmacist 1808-1818; subsequently professor of botany and director of the botanic garden at Greifswald. 
+**Abbreviated name**: *Hornsch.*
 
 #### Herbarium and types
 

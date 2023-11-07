@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/item/104077#page/776/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sowerby, James II (1815-1834), British botanical artist, grandson of James Sowerby, son of J. de Carle Sowerby. (*Js. Sowerby II*).
+Sowerby, James II (1815-1834), British botanical artist, grandson of James Sowerby, son of J. de Carle Sowerby. 
+**Abbreviated name**: *Js. Sowerby II*
 
 #### Herbarium and types
 

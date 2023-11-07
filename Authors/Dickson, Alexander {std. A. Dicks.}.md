@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103833#page/300/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33259334) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dickson, Alexander (1836-1887), Scottish botanist, born at Edinburgh 21 Feb 1836, died Hartree Peebles 30 Dec 1887, MD Edinburgh 1860, MD Dublin, LLD Glasgow, FLS 1875, professor of botany at Trinity College Dublin 1866-1868, Glasgow 1878-1879, at Edinburgh Regins Keeper Botanic Garden 1879-1887. (*A. Dicks.*).
+Dickson, Alexander (1836-1887), Scottish botanist, born at Edinburgh 21 Feb 1836, died Hartree Peebles 30 Dec 1887, MD Edinburgh 1860, MD Dublin, LLD Glasgow, FLS 1875, professor of botany at Trinity College Dublin 1866-1868, Glasgow 1878-1879, at Edinburgh Regins Keeper Botanic Garden 1879-1887. 
+**Abbreviated name**: *A. Dicks.*
 
 #### Herbarium and types
 

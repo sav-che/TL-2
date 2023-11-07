@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103832#page/71/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33258499) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fröderström, Harald August (1876-1944), Swedish physician (psychiatrist) and botanist, born 11 Mai 1876 in Goteborg, med. kand. 1901 Lund, med. lic. 1907 Stockholm and med. dr. 1913 Uppsala. (*Fröd.*).
+Fröderström, Harald August (1876-1944), Swedish physician (psychiatrist) and botanist, born 11 Mai 1876 in Goteborg, med. kand. 1901 Lund, med. lic. 1907 Stockholm and med. dr. 1913 Uppsala. 
+**Abbreviated name**: *Fröd.*
 
 #### Herbarium and types
 

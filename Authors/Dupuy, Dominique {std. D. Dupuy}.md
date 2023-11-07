@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103835#page/187/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33260165) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dupuy, Dominique (1812-1885), French priest interested in botany and malacology, born 16 Mai 1812 at Lectoure (Gers), natural history teacher at the college of Gimont and the seminary of Auch, died 23 Sep 1885 at Lectoure. (*D. Dupuy*).
+Dupuy, Dominique (1812-1885), French priest interested in botany and malacology, born 16 Mai 1812 at Lectoure (Gers), natural history teacher at the college of Gimont and the seminary of Auch, died 23 Sep 1885 at Lectoure. 
+**Abbreviated name**: *D. Dupuy*
 
 #### Herbarium and types
 

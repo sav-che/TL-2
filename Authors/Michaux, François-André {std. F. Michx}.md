@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/104137#page/475/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33355546) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michaux, François-André (1770-1855), French botanist; son of André M., whom he accompanied to the United States 1785-1790; travelled again in the U.S. 1801-1803 and 1806-1807. (*F. Michx*).
+Michaux, François-André (1770-1855), French botanist; son of André M., whom he accompanied to the United States 1785-1790; travelled again in the U.S. 1801-1803 and 1806-1807. 
+**Abbreviated name**: *F. Michx*
 
 #### Herbarium and types
 

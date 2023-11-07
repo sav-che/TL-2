@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/item/104137#page/456/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33355527) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meyer, Carl Anton von \[Karl Anton; Carl Andreevic\] (1795-1855), Russian botanist and explorer; studied at Dorpat, 1813-1814; in the Crimea 1818, in the Baltic area 1821-1824; in the Altai with Ledebour and Bunge 1826-1827; in the Caucasus 1829-1830; assistant (1832-1850) and director (1850-1855) of the botanical garden of St. Petersburg. (*C. A. Mey.*).
+Meyer, Carl Anton von \[Karl Anton; Carl Andreevic\] (1795-1855), Russian botanist and explorer; studied at Dorpat, 1813-1814; in the Crimea 1818, in the Baltic area 1821-1824; in the Altai with Ledebour and Bunge 1826-1827; in the Caucasus 1829-1830; assistant (1832-1850) and director (1850-1855) of the botanical garden of St. Petersburg. 
+**Abbreviated name**: *C. A. Mey.*
 
 #### Herbarium and types
 

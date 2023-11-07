@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103253#page/446/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-James, Thomas Potts (1803-1882), American bryologist; collaborator of Leo Lesquereux; lived at Philadelphia 1803-1869; at Cambridge, Mass. 1869-1882. (*T. James*).
+James, Thomas Potts (1803-1882), American bryologist; collaborator of Leo Lesquereux; lived at Philadelphia 1803-1869; at Cambridge, Mass. 1869-1882. 
+**Abbreviated name**: *T. James*
 
 #### Herbarium and types
 

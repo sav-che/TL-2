@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103859#page/180/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33265367) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Birger, Selim Birger Gotthard (né Andersson) (1879-1931), Swedish (Skåne) botanist, studied at a highschool ("gymnasium") in Lund, grad. 1897, studied medicine at the University of Lund (med.-filos. exam. 1899), continued his studies at the Stockholm Karlinska Institut, med. cand. 1904, med. lic. 1909, practised further at St. Görans hospital in Stockholm and in various clinics in Vienna, from 1911 private practising physician in Stockholm, active field botanist, visited the Falkland Islands in 1904. (*Birger*).
+Birger, Selim Birger Gotthard (né Andersson) (1879-1931), Swedish (Skåne) botanist, studied at a highschool ("gymnasium") in Lund, grad. 1897, studied medicine at the University of Lund (med.-filos. exam. 1899), continued his studies at the Stockholm Karlinska Institut, med. cand. 1904, med. lic. 1909, practised further at St. Görans hospital in Stockholm and in various clinics in Vienna, from 1911 private practising physician in Stockholm, active field botanist, visited the Falkland Islands in 1904. 
+**Abbreviated name**: *Birger*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103414#page/247/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33120330) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernet, Henri {std. Bernet} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bernet, Henri (1850-1904), Swiss physician and bryologist. (*Bernet*).
+Bernet, Henri (1850-1904), Swiss physician and bryologist. 
+**Abbreviated name**: *Bernet*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/item/103683#page/527/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33212559) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tschirch, \[Wilhelm Oswald\] Alexander (1856-1939), German (Prussian) pharmacist, botanist and pharmacognosist; studied in Freiburg i.B., Bern and Berlin 1876-1881; Dr. phil. Freiburg i.B. 1881, student of S. Schwendener; assistant with N. Pringsheim in Berlin 1881 and assistant at the Berlin Agricultural College 1881; habil. Berlin 1884; lecturer at the University of Berlin 1885-1890; in Buitenzorg, Dutch East Indies 1889-1890; extraordinary professor (1890) and regular professor of pharmacognosy and of pharmaceutical and forensic chemistry at the University of Bern 1891-1932. (*Tschirch*).
+Tschirch, \[Wilhelm Oswald\] Alexander (1856-1939), German (Prussian) pharmacist, botanist and pharmacognosist; studied in Freiburg i.B., Bern and Berlin 1876-1881; Dr. phil. Freiburg i.B. 1881, student of S. Schwendener; assistant with N. Pringsheim in Berlin 1881 and assistant at the Berlin Agricultural College 1881; habil. Berlin 1884; lecturer at the University of Berlin 1885-1890; in Buitenzorg, Dutch East Indies 1889-1890; extraordinary professor (1890) and regular professor of pharmacognosy and of pharmaceutical and forensic chemistry at the University of Bern 1891-1932. 
+**Abbreviated name**: *Tschirch*
 
 #### Herbarium and types
 

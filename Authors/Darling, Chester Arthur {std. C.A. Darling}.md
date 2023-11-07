@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103833#page/81/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259115) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darling, Chester Arthur (1880-x), American botanist, born 4 Oct 1880 at Leon, N.Y., at Albion College A.B. 1904, AM 1906, Columbia University Ph.D. 1909, "professor" biology at Defiance College, Defiance 1904-1906, assistant botanist at the Columbia University 1906-1908, tutor botany 1908-1910, instructor botany 1910. (*C.A. Darling*).
+Darling, Chester Arthur (1880-x), American botanist, born 4 Oct 1880 at Leon, N.Y., at Albion College A.B. 1904, AM 1906, Columbia University Ph.D. 1909, "professor" biology at Defiance College, Defiance 1904-1906, assistant botanist at the Columbia University 1906-1908, tutor botany 1908-1910, instructor botany 1910. 
+**Abbreviated name**: *C.A. Darling*
 
 #### Herbarium and types
 

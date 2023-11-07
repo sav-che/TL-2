@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103861#page/173/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33266470) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunies, Stephan Ernst (1877-?), Swiss botanist and teacher, born in Cinuskel, Engadin, at the teacher-college at Chur 1891-1896, at the University of Breslau, student of F. Pax, natural sciences, with emphasis on botany 1896-1900, Dr. phil. Breslau 1900, assistant at the Botanical Museum, University of Zürich 1904. (*Brunies*).
+Brunies, Stephan Ernst (1877-?), Swiss botanist and teacher, born in Cinuskel, Engadin, at the teacher-college at Chur 1891-1896, at the University of Breslau, student of F. Pax, natural sciences, with emphasis on botany 1896-1900, Dr. phil. Breslau 1900, assistant at the Botanical Museum, University of Zürich 1904. 
+**Abbreviated name**: *Brunies*
 
 #### Herbarium and types
 

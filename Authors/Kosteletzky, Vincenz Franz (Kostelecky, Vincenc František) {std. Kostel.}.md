@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/item/103253#page/678/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33068894) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kosteletzky, Vincenz Franz (Kostelecky, Vincenc František) (1801-1887), Czech botanist; Dr. med. Praha 1824; professor of botany at the Carl-Ferdinands Universität and director of the botanic garden at Smichov in Praha (1826-) 1835-1872.(*Kostel.*).
+Kosteletzky, Vincenz Franz (Kostelecky, Vincenc František) (1801-1887), Czech botanist; Dr. med. Praha 1824; professor of botany at the Carl-Ferdinands Universität and director of the botanic garden at Smichov in Praha (1826-) 1835-1872.
+**Abbreviated name**: *Kostel.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/item/103253#page/292/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33068508) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Honckeny, Gerhard August (1724-1805), German administrator and botanist. (*Honck.*).
+Honckeny, Gerhard August (1724-1805), German administrator and botanist. 
+**Abbreviated name**: *Honck.*
 
 #### Herbarium and types
 

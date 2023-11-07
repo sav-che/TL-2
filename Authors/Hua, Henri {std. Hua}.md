@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103253#page/379/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33068595) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hua, Henri (1861-1919), French botanist at the École des Hautes-Études and Laboratoire de Phanérogamie du Muséum d'histoire naturelle, Paris. (*Hua*).
+Hua, Henri (1861-1919), French botanist at the École des Hautes-Études and Laboratoire de Phanérogamie du Muséum d'histoire naturelle, Paris. 
+**Abbreviated name**: *Hua*
 
 #### Herbarium and types
 

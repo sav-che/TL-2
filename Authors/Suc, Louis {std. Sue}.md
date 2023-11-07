@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103683#page/85/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suc, Louis (*fl*. 1912), French pharmacist and botanist; Dr. pharm. Toulouse 1912. (*Sue*).
+Suc, Louis (*fl*. 1912), French pharmacist and botanist; Dr. pharm. Toulouse 1912. 
+**Abbreviated name**: *Sue*
 
 #### Herbarium and types
 

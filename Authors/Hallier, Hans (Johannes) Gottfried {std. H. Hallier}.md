@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103253#page/58/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33068274) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hallier, Hans \[Johannes\] Gottfried (1868-1932), German botanist who collected in Indonesia and the Philippines and who settled ultimately (Nov 1908) at Leiden; son of Ernst Hallier. (*H. Hallier*).
+Hallier, Hans \[Johannes\] Gottfried (1868-1932), German botanist who collected in Indonesia and the Philippines and who settled ultimately (Nov 1908) at Leiden; son of Ernst Hallier. 
+**Abbreviated name**: *H. Hallier*
 
 #### Herbarium and types
 

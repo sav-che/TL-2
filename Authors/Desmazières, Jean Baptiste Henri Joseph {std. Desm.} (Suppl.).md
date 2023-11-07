@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103833#page/236/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33259270) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Desmazières, Jean Baptiste Henri Joseph {std. Desm.}|first entry]] for this author
 
 ### Author
 
-\* Desmazières, Jean Baptiste Henri Joseph (1786-1862), French merchant, amateur botanist and horticulturist, mycologist and agrostologist, born 10 Jul 1786, Lille, France, died 23 Jun 1862 at Lambersart near Lille, pharmacist at Lille. (*Desm.*).
+\* Desmazières, Jean Baptiste Henri Joseph (1786-1862), French merchant, amateur botanist and horticulturist, mycologist and agrostologist, born 10 Jul 1786, Lille, France, died 23 Jun 1862 at Lambersart near Lille, pharmacist at Lille. 
+**Abbreviated name**: *Desm.*
 
 #### Herbarium and types
 

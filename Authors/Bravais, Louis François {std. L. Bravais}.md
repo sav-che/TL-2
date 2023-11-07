@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103861#page/52/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33266349) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bravais, Louis François (1800-1843), French physician and botanist at Annonay (Ardèche). (*L. Bravais*).
+Bravais, Louis François (1800-1843), French physician and botanist at Annonay (Ardèche). 
+**Abbreviated name**: *L. Bravais*
 
 #### Herbarium and types
 

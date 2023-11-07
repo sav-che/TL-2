@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/103414#page/561/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33120644) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clos, Dominique {std. Clos} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Clos, Dominique (1821-1908), French botanist at Toulouse. (*Clos*).
+Clos, Dominique (1821-1908), French botanist at Toulouse. 
+**Abbreviated name**: *Clos*
 
 #### Herbarium and types
 

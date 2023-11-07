@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103832#page/397/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33258863) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Griffith, William {std. Griff.}|first entry]] for this author
 
 ### Author
 
-\* Griffith, William (1810-1845), British colonial physician, botanist and "man of genius" (*teste* Sir George King), born 4 Mar 1810 in Ham (Surrey), studied under J. Lindley and graduated from London Univ., went to Madras in 1832 as asst. surgeon, in Assam with N. Wallich 1835-1836, in Bhutan 1837-1838, Afghanistan 1839-1841 and Malacca (now Malaysia) in mid-1841, Superindendent, Calcutta Botanic Gardens 1842-1843, returned to Malacca where he died 9 Feb 1845 of an abscess of the liver (malaria & hepatitis?). (*Griff.*).
+\* Griffith, William (1810-1845), British colonial physician, botanist and "man of genius" (*teste* Sir George King), born 4 Mar 1810 in Ham (Surrey), studied under J. Lindley and graduated from London Univ., went to Madras in 1832 as asst. surgeon, in Assam with N. Wallich 1835-1836, in Bhutan 1837-1838, Afghanistan 1839-1841 and Malacca (now Malaysia) in mid-1841, Superindendent, Calcutta Botanic Gardens 1842-1843, returned to Malacca where he died 9 Feb 1845 of an abscess of the liver (malaria & hepatitis?). 
+**Abbreviated name**: *Griff.*
 
 #### Herbarium and types
 

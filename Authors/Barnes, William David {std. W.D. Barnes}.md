@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103858#page/344/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265059) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barnes, William David (1868-1938), American botanist, A.B. North-Western University 1891, graduate studies at Harvard 1891-1892. (*W.D. Barnes*).
+Barnes, William David (1868-1938), American botanist, A.B. North-Western University 1891, graduate studies at Harvard 1891-1892. 
+**Abbreviated name**: *W.D. Barnes*
 
 #### Herbarium and types
 

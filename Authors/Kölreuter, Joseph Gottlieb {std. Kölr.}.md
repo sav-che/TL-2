@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/item/103253#page/625/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33068841) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kölreuter, Joseph Gottlieb (1733-1806), German botanist; early student of flower biology and of hybridization; Dr. med. Tübingen 1756; until 1761 at St. Petersburg; until 1763 at Calw; from then on director of the botanical garden at Karlsruhe. (*Kölr.*).
+Kölreuter, Joseph Gottlieb (1733-1806), German botanist; early student of flower biology and of hybridization; Dr. med. Tübingen 1756; until 1761 at St. Petersburg; until 1763 at Calw; from then on director of the botanical garden at Karlsruhe. 
+**Abbreviated name**: *Kölr.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103858#page/228/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33264943) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Avé-Lallemant, Julius Leopold Éduard {std. Avé-Lall.}|first entry]] for this author
 
 ### Author
 
-\* Avé-Lallemant, Julius Leopold Éduard (1803-1867), German (Lübeck) botanist and physician, educated at Kassel 1815-1823, studied medicine and natural sciences in Greifswald 1823-1825, and Berlin 1825-1829, travelled in northern Italy, southern France, Switzerland and Germany 1826, Dr. med. chir. 1829, curator of the botanical garden of St. Petersburg 1838-1855, ultimately practising physician in Lübeck. (*Avé-Lall.*).
+\* Avé-Lallemant, Julius Leopold Éduard (1803-1867), German (Lübeck) botanist and physician, educated at Kassel 1815-1823, studied medicine and natural sciences in Greifswald 1823-1825, and Berlin 1825-1829, travelled in northern Italy, southern France, Switzerland and Germany 1826, Dr. med. chir. 1829, curator of the botanical garden of St. Petersburg 1838-1855, ultimately practising physician in Lübeck. 
+**Abbreviated name**: *Avé-Lall.*
 
 #### Herbarium and types
 

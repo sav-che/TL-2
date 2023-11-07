@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103683#page/183/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33212215) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taschner, Christian Friedrich (1817-?), German (Thuringian) physician and botanist; Dr. med. Jena 1843; practicing physician at Eisenach, Thuringia. (*Taschner*).
+Taschner, Christian Friedrich (1817-?), German (Thuringian) physician and botanist; Dr. med. Jena 1843; practicing physician at Eisenach, Thuringia. 
+**Abbreviated name**: *Taschner*
 
 #### Herbarium and types
 

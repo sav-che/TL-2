@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/item/103414#page/848/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33120931) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eschscholtz, Johann Friedrich Gustav von (1793-1831), Estonian (Baltic-German) explorer, biologist and physician. (*Eschsch.*).
+Eschscholtz, Johann Friedrich Gustav von (1793-1831), Estonian (Baltic-German) explorer, biologist and physician. 
+**Abbreviated name**: *Eschsch.*
 
 #### Herbarium and types
 

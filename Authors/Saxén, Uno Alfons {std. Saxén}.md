@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/104077#page/108/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saxén, Uno Alfons (1863-1948), Finnish high school teacher and amateur botanist; Dr. phil. Helsinki 1892 (*Saxén*).
+Saxén, Uno Alfons (1863-1948), Finnish high school teacher and amateur botanist; Dr. phil. Helsinki 1892 
+**Abbreviated name**: *Saxén*
 
 #### Herbarium and types
 

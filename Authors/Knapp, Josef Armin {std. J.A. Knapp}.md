@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/item/103253#page/598/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33068814) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knapp, Josef Armin (1843-1899), Austrian botanist at first at Cluj, later curator at Wien. (*J. A. Knapp*).
+Knapp, Josef Armin (1843-1899), Austrian botanist at first at Cluj, later curator at Wien. 
+**Abbreviated name**: *J. A. Knapp*
 
 #### Herbarium and types
 

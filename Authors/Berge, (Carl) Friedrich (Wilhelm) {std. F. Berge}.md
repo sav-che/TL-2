@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103859#page/96/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33265283) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berge, \[Carl\] Friedrich \[Wilhelm\] (1811-1883), German entomologist at Stuttgart. (*F. Berge*).
+Berge, \[Carl\] Friedrich \[Wilhelm\] (1811-1883), German entomologist at Stuttgart. 
+**Abbreviated name**: *F. Berge*
 
 #### Herbarium and types
 

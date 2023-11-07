@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/104077#page/29/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salter, Thomas Bell (1814-1858), Scottish physician and botanist; Dr. med. Edinburgh; practiced at Ryde (Isle of Wight). (*T.B. Salter*).
+Salter, Thomas Bell (1814-1858), Scottish physician and botanist; Dr. med. Edinburgh; practiced at Ryde (Isle of Wight). 
+**Abbreviated name**: *T.B. Salter*
 
 #### Herbarium and types
 

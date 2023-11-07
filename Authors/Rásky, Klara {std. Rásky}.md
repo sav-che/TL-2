@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/item/103624#page/595/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33190052) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rásky, Klara (1908-1971), Hungarian paleobotanist at the Department of Botany of the Museum of Natural History, Budapest 1938-1971; specialist on fossil of Characeae. (*Rásky*).
+Rásky, Klara (1908-1971), Hungarian paleobotanist at the Department of Botany of the Museum of Natural History, Budapest 1938-1971; specialist on fossil of Characeae. 
+**Abbreviated name**: *Rásky*
 
 #### Herbarium and types
 

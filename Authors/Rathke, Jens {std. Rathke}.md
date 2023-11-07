@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/103624#page/598/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33190055) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rathke, Jens (1769-1855), Norwegian botanist; Mag. theol. Kjøbenhavn 1792; teacher at Christiania (Oslo); professor of zoology at Kjøbenhavn 1810-1813; professor of natural history at Christiania 1813-1845, director of the botanical garden ib. 1816-1843. (*Rathke*).
+Rathke, Jens (1769-1855), Norwegian botanist; Mag. theol. Kjøbenhavn 1792; teacher at Christiania (Oslo); professor of zoology at Kjøbenhavn 1810-1813; professor of natural history at Christiania 1813-1845, director of the botanical garden ib. 1816-1843. 
+**Abbreviated name**: *Rathke*
 
 #### Herbarium and types
 

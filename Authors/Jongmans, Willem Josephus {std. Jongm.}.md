@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/item/103253#page/484/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33068700) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jongmans, Willem Josephus (1878-1957), Dutch palaeobotanist at the Geological Bureau for the mining industry, Heerlen, longtime editor of the *Fossilium catalogus*. (*Jongm.*).
+Jongmans, Willem Josephus (1878-1957), Dutch palaeobotanist at the Geological Bureau for the mining industry, Heerlen, longtime editor of the *Fossilium catalogus*. 
+**Abbreviated name**: *Jongm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/item/103414#page/793/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33120876) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emmert, Friedrich (x-1868), German clergyman and botanist. (*Emmert*).
+Emmert, Friedrich (x-1868), German clergyman and botanist. 
+**Abbreviated name**: *Emmert*
 
 #### Herbarium and types
 

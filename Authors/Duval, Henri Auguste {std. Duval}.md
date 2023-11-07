@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/item/103414#page/763/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33120846) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duval, Henri Auguste {std. Duval} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Duval, Henri Auguste (1777-1814), French physician and botanist. (*Duval*).
+Duval, Henri Auguste (1777-1814), French physician and botanist. 
+**Abbreviated name**: *Duval*
 
 #### Herbarium and types
 

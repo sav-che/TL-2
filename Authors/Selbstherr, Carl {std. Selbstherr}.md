@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/item/104077#page/509/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Selbstherr, Carl (*fl*. 1832), German (Silesian) rhodologist in Breslau. (*Selbstherr*).
+Selbstherr, Carl (*fl*. 1832), German (Silesian) rhodologist in Breslau. 
+**Abbreviated name**: *Selbstherr*
 
 #### Herbarium and types
 

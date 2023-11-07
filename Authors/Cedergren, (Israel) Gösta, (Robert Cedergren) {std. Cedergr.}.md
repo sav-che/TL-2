@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103860#page/13/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33265680) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cedergren, \[Israel\] Gösta, \[Robert Cedergren\] (1888-1954), Swedish botanist, born at Tillinge in Upland, educated at a "Privatgymnasium" in Uppsala, studied at the University of Uppsala 1908, fil. mag. 1917, from 1911 assistant at the Uppsala Botanical Institute, teacher at various schools, e.g. at Karlstad, Malmö, ultimately at Karlshamn 1936-1949. (*Cedergr.*).
+Cedergren, \[Israel\] Gösta, \[Robert Cedergren\] (1888-1954), Swedish botanist, born at Tillinge in Upland, educated at a "Privatgymnasium" in Uppsala, studied at the University of Uppsala 1908, fil. mag. 1917, from 1911 assistant at the Uppsala Botanical Institute, teacher at various schools, e.g. at Karlstad, Malmö, ultimately at Karlshamn 1936-1949. 
+**Abbreviated name**: *Cedergr.*
 
 #### Herbarium and types
 

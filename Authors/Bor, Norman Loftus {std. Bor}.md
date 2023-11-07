@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/item/103414#page/326/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33120409) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bor, Norman Loftus {std. Bor} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bor, Norman Loftus (1893-1972), Irish born British botanist who worked in India. (*N. L. Bor*).
+Bor, Norman Loftus (1893-1972), Irish born British botanist who worked in India. 
+**Abbreviated name**: *N. L. Bor*
 
 #### Herbarium and types
 

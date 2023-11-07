@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/item/104077#page/619/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33333744) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simmonds, Arthur (1892-1968), British botanist, assistant horticultural superintendent, Kew 1919-1923; assistant director R.H.S. gardens Wisley 1923-1925; assistant secretary, Royal Horticultural Society 1925-1956; secretary 1956-1962. (*A. Simmonds*).
+Simmonds, Arthur (1892-1968), British botanist, assistant horticultural superintendent, Kew 1919-1923; assistant director R.H.S. gardens Wisley 1923-1925; assistant secretary, Royal Horticultural Society 1925-1956; secretary 1956-1962. 
+**Abbreviated name**: *A. Simmonds*
 
 #### Herbarium and types
 

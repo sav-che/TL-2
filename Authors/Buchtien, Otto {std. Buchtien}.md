@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103414#page/444/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33120527) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buchtien, Otto August {std. Buchtien} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buchtien, Otto (1859-x), German botanical collector, active in Bolivia and Chile. (*Buchtien*).
+Buchtien, Otto (1859-x), German botanical collector, active in Bolivia and Chile. 
+**Abbreviated name**: *Buchtien*
 
 #### Herbarium and types
 

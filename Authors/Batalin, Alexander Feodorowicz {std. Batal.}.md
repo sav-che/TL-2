@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/item/103858#page/384/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265099) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Batalin, Alexander Feodorowicz (1847-1896), Russian botanist, educated at St. Petersburg Gymnasium, studied at the University of St. Petersburg 1865-1869, curator of the St. Petersburg Botanical Garden 1870; first botanist 1877, director 1892, professor of botany at the Medical Military Academy 1884-1893; originally working on plant physiology, from 1892 fully dedicating himself to plant systematics. (*Batal.*).
+Batalin, Alexander Feodorowicz (1847-1896), Russian botanist, educated at St. Petersburg Gymnasium, studied at the University of St. Petersburg 1865-1869, curator of the St. Petersburg Botanical Garden 1870; first botanist 1877, director 1892, professor of botany at the Medical Military Academy 1884-1893; originally working on plant physiology, from 1892 fully dedicating himself to plant systematics. 
+**Abbreviated name**: *Batal.*
 
 #### Herbarium and types
 

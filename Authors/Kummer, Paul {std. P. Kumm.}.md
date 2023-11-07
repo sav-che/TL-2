@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/item/103253#page/717/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33068933) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kummer, Paul (1834-1912), German clergyman and lichenologist; private teacher 1857-1863; from 1863-1877 curate at Zerbst; from 1877 minister at Hann.-Münden. (*P. Kumm.*).
+Kummer, Paul (1834-1912), German clergyman and lichenologist; private teacher 1857-1863; from 1863-1877 curate at Zerbst; from 1877 minister at Hann.-Münden. 
+**Abbreviated name**: *P. Kumm.*
 
 #### Herbarium and types
 

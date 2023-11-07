@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103833#page/295/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deysson, Pierre Jérome (abbé) (fl. 1899), French botanist. (*Deysson*).
+Deysson, Pierre Jérome (abbé) (fl. 1899), French botanist. 
+**Abbreviated name**: *Deysson*
 
 #### Herbarium and types
 

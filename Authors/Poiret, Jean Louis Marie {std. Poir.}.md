@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103624#page/333/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33189790) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poiret, Jean Louis Marie (1755-1834), French clergyman and botanist; travelled in North Africa 1785-1786. (*Poir.*).
+Poiret, Jean Louis Marie (1755-1834), French clergyman and botanist; travelled in North Africa 1785-1786. 
+**Abbreviated name**: *Poir.*
 
 #### Herbarium and types
 

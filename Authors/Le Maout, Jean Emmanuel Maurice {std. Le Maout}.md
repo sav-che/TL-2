@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/item/103253#page/863/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33069079) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Le Maout, Jean Emmanuel Maurice (1799-1877). French physician and botanist in Paris. (*Le Maout*).
+Le Maout, Jean Emmanuel Maurice (1799-1877). French physician and botanist in Paris. 
+**Abbreviated name**: *Le Maout*
 
 #### Herbarium and types
 

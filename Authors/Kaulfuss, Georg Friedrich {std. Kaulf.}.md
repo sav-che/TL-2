@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/item/103253#page/534/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33068750) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kaulfuss, Georg Friedrich (1786-1830), German botanist; Dr. jur. et phil. Halle 1816; extra-ord. prof. forestry at Halle 1823; ord. prof. of botany ib. 1818. (*Kaulf.*).
+Kaulfuss, Georg Friedrich (1786-1830), German botanist; Dr. jur. et phil. Halle 1816; extra-ord. prof. forestry at Halle 1823; ord. prof. of botany ib. 1818. 
+**Abbreviated name**: *Kaulf.*
 
 #### Herbarium and types
 

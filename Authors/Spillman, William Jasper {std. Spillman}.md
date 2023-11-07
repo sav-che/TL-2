@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/item/104077#page/805/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spillman, William Jasper (1863-1931), American botanist and geneticist; BS. Univ. Missouri 1886; MS. ib. 1889; Dr. sci. Temple Univ., Philadelphia 1890; professor of agriculture at the Washington State Experimental Station, Pullman 1894-1901; agrostologist at the Bureau of Plant Industry, USDA, Washington, D.C. from 1902-1915; from 1915 in various other functions at USDA, from 1928 principal agricultural economist; originator of the first hybrid wheats grown in the U.S. (*Spillman*).
+Spillman, William Jasper (1863-1931), American botanist and geneticist; BS. Univ. Missouri 1886; MS. ib. 1889; Dr. sci. Temple Univ., Philadelphia 1890; professor of agriculture at the Washington State Experimental Station, Pullman 1894-1901; agrostologist at the Bureau of Plant Industry, USDA, Washington, D.C. from 1902-1915; from 1915 in various other functions at USDA, from 1928 principal agricultural economist; originator of the first hybrid wheats grown in the U.S. 
+**Abbreviated name**: *Spillman*
 
 #### Herbarium and types
 

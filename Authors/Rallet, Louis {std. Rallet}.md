@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/item/103624#page/581/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33190038) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rallet, Louis (1897-1969), French botanist; Dr. sci. Poitiers 1935; teacher at teacher's college of La Rochelle 1945-1962; president of the Société botanique du Centre-Ouest 1940-1969; prix Coincy 1947. (*Rallet*).
+Rallet, Louis (1897-1969), French botanist; Dr. sci. Poitiers 1935; teacher at teacher's college of La Rochelle 1945-1962; president of the Société botanique du Centre-Ouest 1940-1969; prix Coincy 1947. 
+**Abbreviated name**: *Rallet*
 
 #### Herbarium and types
 

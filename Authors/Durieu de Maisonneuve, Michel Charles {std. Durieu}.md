@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/item/103414#page/759/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33120842) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Durieu de Maisonneuve, Michel-Charles {std. Durieu} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Durieu de Maisonneuve, Michel Charles (1796-1878), French botanist at Bordeaux. (*Durieu*).
+Durieu de Maisonneuve, Michel Charles (1796-1878), French botanist at Bordeaux. 
+**Abbreviated name**: *Durieu*
 
 #### Herbarium and types
 

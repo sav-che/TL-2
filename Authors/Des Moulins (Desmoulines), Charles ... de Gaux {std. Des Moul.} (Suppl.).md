@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103833#page/240/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33259274) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Des Moulins, Charles Robert Alexandre {std. Des Moul.}|first entry]] for this author
 
 ### Author
 
-\* Des Moulins \[Desmoulines\], Charles Robert Alexander de Gaux (1798-1875), French naturalist and director of customs, born at Southampton 13 Mar 1798, died 23 Dec 1875 at Bordeaux, member and later president of the Société Linnéenne of Bordeaux 1827, later occupied with geology and zoology. (*Des Moul.*).
+\* Des Moulins \[Desmoulines\], Charles Robert Alexander de Gaux (1798-1875), French naturalist and director of customs, born at Southampton 13 Mar 1798, died 23 Dec 1875 at Bordeaux, member and later president of the Société Linnéenne of Bordeaux 1827, later occupied with geology and zoology. 
+**Abbreviated name**: *Des Moul.*
 
 #### Herbarium and types
 

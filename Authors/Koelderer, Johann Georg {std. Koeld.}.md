@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/103253#page/623/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koelderer, Johann Georg (*fl*. 1747), German physician; Dr. med. Strasbourg 1748. (*Koeld.*).
+Koelderer, Johann Georg (*fl*. 1747), German physician; Dr. med. Strasbourg 1748. 
+**Abbreviated name**: *Koeld.*
 
 #### Herbarium and types
 

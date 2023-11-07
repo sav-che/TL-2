@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/104137#page/198/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33355269) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ludwig, Christian Gottlieb (1709-1773), German physician and botanist at Leipzig. (*Ludw.*).
+Ludwig, Christian Gottlieb (1709-1773), German physician and botanist at Leipzig. 
+**Abbreviated name**: *Ludw.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/item/104077#page/808/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/page/33333933) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spitzner, Wenzel (Václav) (1852-1907), Bohemian botanist (lichenologist). (*Spitzn.*).
+Spitzner, Wenzel (Václav) (1852-1907), Bohemian botanist (lichenologist). 
+**Abbreviated name**: *Spitzn.*
 
 #### Herbarium and types
 

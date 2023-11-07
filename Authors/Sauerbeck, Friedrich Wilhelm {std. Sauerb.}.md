@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/104077#page/78/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33333203) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sauerbeck, Friedrich Wilhelm (1801-1882), German (Baden) botanist; "Hofgerichtsrath" (law court official) at Freiburg i.B.; ultimately "Oberlandesgerichtsrath" in Karlsruhe. (*Sauerb.*).
+Sauerbeck, Friedrich Wilhelm (1801-1882), German (Baden) botanist; "Hofgerichtsrath" (law court official) at Freiburg i.B.; ultimately "Oberlandesgerichtsrath" in Karlsruhe. 
+**Abbreviated name**: *Sauerb.*
 
 #### Herbarium and types
 

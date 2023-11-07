@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103414#page/435/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33120518) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buch, Christian Leopold von {std. Buch} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buch, Christian Leopold von, Freiherr von Gelmersdorf etc. (1774-1853), German traveller and naturalist. (*L. v. Buch*).
+Buch, Christian Leopold von, Freiherr von Gelmersdorf etc. (1774-1853), German traveller and naturalist. 
+**Abbreviated name**: *L. v. Buch*
 
 #### Collections
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/item/103624#page/982/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33190439) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudbeck, Johan Olof (1711-1790), Swedish naturai scientist; "assessor" at the Swedish mining college 1753; ultimately president (1778) of this college; son of Olaus Rudbeck. (*J.O. Rudbeck*).
+Rudbeck, Johan Olof (1711-1790), Swedish naturai scientist; "assessor" at the Swedish mining college 1753; ultimately president (1778) of this college; son of Olaus Rudbeck. 
+**Abbreviated name**: *J.O. Rudbeck*
 
 #### Herbarium and types
 

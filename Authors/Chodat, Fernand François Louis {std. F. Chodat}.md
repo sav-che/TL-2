@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103860#page/123/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33265790) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chodat, Fernand François Louis (1900-1974), Swiss (Genevois) botanist, educated at the Collège de Genève. "maturité" Jun 1918, at the Faculty of Médecine of the University of Genève 1919-1924, at the Faculty of Sciences, Examen fédéral sci. nat. méd. 1919, "Licence" of physic and natural sciences Oct 1920, Dr. Sci. nat. Univ. Genève 1924, assistant at the Institut de Botanique 1921-1932, "privat-docent" 1926-1929, extraordinary professor 1929-1931, professor at the Faculté des Sciences 1930-1970. (*F. Chodat*).
+Chodat, Fernand François Louis (1900-1974), Swiss (Genevois) botanist, educated at the Collège de Genève. "maturité" Jun 1918, at the Faculty of Médecine of the University of Genève 1919-1924, at the Faculty of Sciences, Examen fédéral sci. nat. méd. 1919, "Licence" of physic and natural sciences Oct 1920, Dr. Sci. nat. Univ. Genève 1924, assistant at the Institut de Botanique 1921-1932, "privat-docent" 1926-1929, extraordinary professor 1929-1931, professor at the Faculté des Sciences 1930-1970. 
+**Abbreviated name**: *F. Chodat*
 
 #### Herbarium and types
 

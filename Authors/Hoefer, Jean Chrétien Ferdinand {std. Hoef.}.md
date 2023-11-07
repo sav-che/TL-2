@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103253#page/251/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33068467) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoefer, Jean Chrétien Ferdinand (1811-1878), French historian of science. (*Hoef.*).
+Hoefer, Jean Chrétien Ferdinand (1811-1878), French historian of science. 
+**Abbreviated name**: *Hoef.*
 
 #### Herbarium and types
 

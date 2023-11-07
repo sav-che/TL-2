@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/103833#page/49/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33259083) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dammann, Hildegard (1900-x), German botanist, born at Berlin 11 Jul 1900, \[daughter of Ernst Dammann (veterinary surgeon)\], at the Plehn'sche höhere Mädchenschule, final examination 1917, at the Oberlyzeum zu Neukölln 1917-1921, "Lehrbefähigung" 1922 for Zemke'sches Lyzeum as teacher, at the Friedrich-Wilhelms-Universität Berlin 1924-1927, thesis in 1930. (*Dammann*).
+Dammann, Hildegard (1900-x), German botanist, born at Berlin 11 Jul 1900, \[daughter of Ernst Dammann (veterinary surgeon)\], at the Plehn'sche höhere Mädchenschule, final examination 1917, at the Oberlyzeum zu Neukölln 1917-1921, "Lehrbefähigung" 1922 for Zemke'sches Lyzeum as teacher, at the Friedrich-Wilhelms-Universität Berlin 1924-1927, thesis in 1930. 
+**Abbreviated name**: *Dammann*
 
 #### Herbarium and types
 

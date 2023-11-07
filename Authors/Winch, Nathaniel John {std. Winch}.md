@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103250#page/422/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33066702) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winch, Nathaniel John (1768-1838), British botanist; in Newcastle from 1786; longtime secretary to the Newcastle Infirmary in Newcastle; travelled in France and S. Europe 1790-1791. (*Winch*).
+Winch, Nathaniel John (1768-1838), British botanist; in Newcastle from 1786; longtime secretary to the Newcastle Infirmary in Newcastle; travelled in France and S. Europe 1790-1791. 
+**Abbreviated name**: *Winch*
 
 #### Herbarium and types
 

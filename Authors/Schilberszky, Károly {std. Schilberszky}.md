@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/104077#page/171/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33333296) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schilberszky, Károly (1863-1935), Hungarian botanist; Dr. phil. Budapest, 1893; assistant at the Seed Control Station Budapest 1887; subsequently assistant at the Botanical Institute of the University of Budapest; until 1894 professor of botany and phytopathology at the Budapest Horticultural School (later: college) 1894; habil. Univ. Budapest 1904; asst. professor at the Faculty of Philosophy, Univ. Sci. Budapest 1904, id. at the Technical University 1911 and at the Agronomical Faculty 1923, full professor 1926. (*Schilberszky*).
+Schilberszky, Károly (1863-1935), Hungarian botanist; Dr. phil. Budapest, 1893; assistant at the Seed Control Station Budapest 1887; subsequently assistant at the Botanical Institute of the University of Budapest; until 1894 professor of botany and phytopathology at the Budapest Horticultural School (later: college) 1894; habil. Univ. Budapest 1904; asst. professor at the Faculty of Philosophy, Univ. Sci. Budapest 1904, id. at the Technical University 1911 and at the Agronomical Faculty 1923, full professor 1926. 
+**Abbreviated name**: *Schilberszky*
 
 #### Herbarium and types
 

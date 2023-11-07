@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103683#page/158/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33212190) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Täckholm, Vivi, née Laurent (1898-1978), Swedish botanist; studied at Stockholm College; worked in the United States 1921-1923, in Sweden as journalist and editor 1923-1926; married G.V. Täckholm 1926 and joined her husband at the Botany Department of the Egyptian University (h.t. Cairo University) 1926-1929, continuing her husband's work from 1933; in Sweden 1929-1933 and 1939-1946; with Bot. Dept. Univ. Cairo 1946-1947; with the University of Alexandria 1947-1948; professor of botany at the Faculty of Science, Univ. Cairo 1948-1978; in Sweden March-May 1978. (*Täckh.*).
+Täckholm, Vivi, née Laurent (1898-1978), Swedish botanist; studied at Stockholm College; worked in the United States 1921-1923, in Sweden as journalist and editor 1923-1926; married G.V. Täckholm 1926 and joined her husband at the Botany Department of the Egyptian University (h.t. Cairo University) 1926-1929, continuing her husband's work from 1933; in Sweden 1929-1933 and 1939-1946; with Bot. Dept. Univ. Cairo 1946-1947; with the University of Alexandria 1947-1948; professor of botany at the Faculty of Science, Univ. Cairo 1948-1978; in Sweden March-May 1978. 
+**Abbreviated name**: *Täckh.*
 
 #### Herbarium and types
 

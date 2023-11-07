@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/103832#page/323/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33258789) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gotham, Walther Ulrich Eduard Friedrich {std. Gothan}|first entry]] for this author
 
 ### Author
 
-\* Gothan, Walther \[Walter\] \[Ulrich Eduard Friedrich\] (1879-1954), German paleontologist, born 26 Aug 1879 in Woldegk (Mecklenburg), briefly studied at Clausthal College of Mines, Harz, then College of Mines and Univ. of Berlin, Ph.D. 1905, lecturer, Berlin College of Mines 1908-1914 and Berlin College of Technology 1914-1933 (prof. from 1919), Prof. of Paleobotany, Humboldt Univ., Berlin 1946-1954, also Geologist, Prussian Geological Survey and from 1913 Keeper of the Institute of Paleobotany, hon. president of the 1950 and 1954 Botanical Congresses, died 30 Dec 1954 in Berlin-Charlottenburg, "the Nestor of German Palaeobotany and leader of the Berlin school of palaeobotanists...." (*Gothan*).
+\* Gothan, Walther \[Walter\] \[Ulrich Eduard Friedrich\] (1879-1954), German paleontologist, born 26 Aug 1879 in Woldegk (Mecklenburg), briefly studied at Clausthal College of Mines, Harz, then College of Mines and Univ. of Berlin, Ph.D. 1905, lecturer, Berlin College of Mines 1908-1914 and Berlin College of Technology 1914-1933 (prof. from 1919), Prof. of Paleobotany, Humboldt Univ., Berlin 1946-1954, also Geologist, Prussian Geological Survey and from 1913 Keeper of the Institute of Paleobotany, hon. president of the 1950 and 1954 Botanical Congresses, died 30 Dec 1954 in Berlin-Charlottenburg, "the Nestor of German Palaeobotany and leader of the Berlin school of palaeobotanists...." 
+**Abbreviated name**: *Gothan*
 
 #### Herbarium and types
 

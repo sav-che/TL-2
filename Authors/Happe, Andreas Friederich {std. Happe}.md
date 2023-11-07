@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103253#page/76/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Happe, Andreas Friederich (1733-1802), German naturalist and artist at the Berlin Academy of Sciences. (*Happe*).
+Happe, Andreas Friederich (1733-1802), German naturalist and artist at the Berlin Academy of Sciences. 
+**Abbreviated name**: *Happe*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/103832#page/459/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33258925) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Guillaumin, André {std. Guillaumin}|first entry]] for this author
 
 ### Author
 
-\* Guillaumin, André \[Louis Joseph Edmond Armand\] (1885-1974), French botanist and explorer, born 21 Jun 1885 in Arrou (Eure-et-Loir), Lic. ès-sciences 1906, "preparateur", Lab. de Phanérogamie, Muséum natl. d'Histoire naturelle, Paris 1909 (under Henri Lecomte), Dr. ès-sciences 1910 Paris, sub-dir. 1927-1950 and prof. 1932-1956, Lab. de Culture (i.e. horticulture), Muséum natl. d'Histoire naturelle, Paris, President, Société Botanique de France 1935, retired Oct 1956, died 24 Mai 1974 in Athis-Mons (Essonne). (*Guillaumin*).
+\* Guillaumin, André \[Louis Joseph Edmond Armand\] (1885-1974), French botanist and explorer, born 21 Jun 1885 in Arrou (Eure-et-Loir), Lic. ès-sciences 1906, "preparateur", Lab. de Phanérogamie, Muséum natl. d'Histoire naturelle, Paris 1909 (under Henri Lecomte), Dr. ès-sciences 1910 Paris, sub-dir. 1927-1950 and prof. 1932-1956, Lab. de Culture (i.e. horticulture), Muséum natl. d'Histoire naturelle, Paris, President, Société Botanique de France 1935, retired Oct 1956, died 24 Mai 1974 in Athis-Mons (Essonne). 
+**Abbreviated name**: *Guillaumin*
 
 #### Herbarium and types
 

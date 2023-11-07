@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 694](https://www.biodiversitylibrary.org/item/103624#page/708/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 694](https://www.biodiversitylibrary.org/page/33190165) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reid, Clement (1853-1916), British botanist and geologist; with the British Geological Survey 1874-1913; in retirement at Milford-on-Sea; FRS 1899. (*C. Reid*).
+Reid, Clement (1853-1916), British botanist and geologist; with the British Geological Survey 1874-1913; in retirement at Milford-on-Sea; FRS 1899. 
+**Abbreviated name**: *C. Reid*
 
 #### Herbarium and types
 

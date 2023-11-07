@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/103250#page/625/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zwanziger, Gustaf \[Gustav\] Adolf (1839-1893), Austrian library assistant, botanist at Salzburg until 1863; assistant librarian at Klagenfurt 1863-1867; assistant in the Klagenfurt natural history museum 1867-1893; editor of the Kärntner Gartenzeitung 1873-1886. (*Zwanziger*).
+Zwanziger, Gustaf \[Gustav\] Adolf (1839-1893), Austrian library assistant, botanist at Salzburg until 1863; assistant librarian at Klagenfurt 1863-1867; assistant in the Klagenfurt natural history museum 1867-1893; editor of the Kärntner Gartenzeitung 1873-1886. 
+**Abbreviated name**: *Zwanziger*
 
 #### Herbarium and types
 

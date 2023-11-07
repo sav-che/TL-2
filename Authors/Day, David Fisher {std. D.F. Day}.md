@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103833#page/127/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259161) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Day, David Fisher (1829-1900), American botanist, born and died at Buffalo, N.Y., lived all his life in that city, publications on the plants of Buffalo and vicinity, was one of the founders of the Buffalo Societies of natural sciences, 40-years director of the Buffalo Society. (*D.F. Day*).
+Day, David Fisher (1829-1900), American botanist, born and died at Buffalo, N.Y., lived all his life in that city, publications on the plants of Buffalo and vicinity, was one of the founders of the Buffalo Societies of natural sciences, 40-years director of the Buffalo Society. 
+**Abbreviated name**: *D.F. Day*
 
 #### Herbarium and types
 

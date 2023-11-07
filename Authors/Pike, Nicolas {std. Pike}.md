@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103624#page/276/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33189733) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pike, Nicolas (1815-1905), American soldier, herpetologist and algologist; U.S. consul at Porto, Portugal 1856-1866 and Mauritius (1866-1876). (*Pike*).
+Pike, Nicolas (1815-1905), American soldier, herpetologist and algologist; U.S. consul at Porto, Portugal 1856-1866 and Mauritius (1866-1876). 
+**Abbreviated name**: *Pike*
 
 #### Herbarium and types
 

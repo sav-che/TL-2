@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/item/103250#page/521/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33066801) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wóycicki, Zygmunt (1871-1941), Polish botanist; studied at the University of Warsaw; professor of botany at the University of Lemberg (Lwow) 1913; later professor of general botany at the University of Warsaw. (*Wóycicki*).
+Wóycicki, Zygmunt (1871-1941), Polish botanist; studied at the University of Warsaw; professor of botany at the University of Lemberg (Lwow) 1913; later professor of general botany at the University of Warsaw. 
+**Abbreviated name**: *Wóycicki*
 
 #### Herbarium and types
 

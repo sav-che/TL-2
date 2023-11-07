@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/item/103414#page/737/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33120820) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duchesne, Antoine Nicolas (1747-1827), French botanist and horticulturist. (*Duchesne*).
+Duchesne, Antoine Nicolas (1747-1827), French botanist and horticulturist. 
+**Abbreviated name**: *Duchesne*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103860#page/59/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265726) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chantelat, A.E. (x-1856), French pharmacist and botanist at Bordeaux, later living at Gujan, Gironde. (*Chantelat*).
+Chantelat, A.E. (x-1856), French pharmacist and botanist at Bordeaux, later living at Gujan, Gironde. 
+**Abbreviated name**: *Chantelat*
 
 #### Herbarium and types
 

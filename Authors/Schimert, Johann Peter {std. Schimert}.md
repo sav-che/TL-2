@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/104077#page/174/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33333299) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schimert, Johann Peter (*fl*. 1776), Transylvanian botanist; Dr. med. Tyrnau 1776. (*Schimert*).
+Schimert, Johann Peter (*fl*. 1776), Transylvanian botanist; Dr. med. Tyrnau 1776. 
+**Abbreviated name**: *Schimert*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103624#page/75/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33189532) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parke, Mary (1908-x), British phycologist at the Marine Biological Association, Plymouth, until March 1973. (*Parke*).
+Parke, Mary (1908-x), British phycologist at the Marine Biological Association, Plymouth, until March 1973. 
+**Abbreviated name**: *Parke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/104137#page/280/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33355351) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malençon, Georges Jean Louis (1898-x), French mycologist; long-time associate of the Institut scientifique Chérifien at Rabat. (*Malençon*).
+Malençon, Georges Jean Louis (1898-x), French mycologist; long-time associate of the Institut scientifique Chérifien at Rabat. 
+**Abbreviated name**: *Malençon*
 
 #### Herbarium and types
 

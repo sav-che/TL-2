@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103250#page/445/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33066725) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wirsing, Adam Ludwig (1734-1797), German (Saxonian) botanical artist at Nürnberg. (*Wirsing*).
+Wirsing, Adam Ludwig (1734-1797), German (Saxonian) botanical artist at Nürnberg. 
+**Abbreviated name**: *Wirsing*
 
 #### Herbarium and types
 

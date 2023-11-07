@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/104077#page/414/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33333539) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schumann, Karl Moritz (1851-1904), German (Silesian) botanist; Dr. phil. Breslau 1873; assistant with H.R. Göppert at the Botanical Institute, Breslau 1872-1876; state teacher's examination 1875; high school teacher at Breslau 1876-1884; curator at the Botanical Museum, Berlin 1884-1904; professor's title 1892; habil. Univ. Berlin 1893; one of the most productive phanerogam taxonomists of the Engler era with an emphasis on morphological and flower-biological methodologies. (*K. Schum.*).
+Schumann, Karl Moritz (1851-1904), German (Silesian) botanist; Dr. phil. Breslau 1873; assistant with H.R. Göppert at the Botanical Institute, Breslau 1872-1876; state teacher's examination 1875; high school teacher at Breslau 1876-1884; curator at the Botanical Museum, Berlin 1884-1904; professor's title 1892; habil. Univ. Berlin 1893; one of the most productive phanerogam taxonomists of the Engler era with an emphasis on morphological and flower-biological methodologies. 
+**Abbreviated name**: *K. Schum.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/104077#page/483/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33333608) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sébire, Albert (1863-1936), French botanist and clergyman (Pères du Saint-Esprit); had an experimental garden at Thiés, Sénégal from 1887-ca. 1925(?); in retirement in Belgium. (*Sébire*).
+Sébire, Albert (1863-1936), French botanist and clergyman (Pères du Saint-Esprit); had an experimental garden at Thiés, Sénégal from 1887-ca. 1925(?); in retirement in Belgium. 
+**Abbreviated name**: *Sébire*
 
 #### Herbarium and types
 

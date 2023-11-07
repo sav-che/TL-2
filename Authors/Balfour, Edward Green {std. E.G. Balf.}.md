@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103858#page/307/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33265022) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Balfour, Edward Green (1813-1889), British (Scottish) surgeon in the Madras Army, India. (*E.G. Balf.*).
+Balfour, Edward Green (1813-1889), British (Scottish) surgeon in the Madras Army, India. 
+**Abbreviated name**: *E.G. Balf.*
 
 #### Herbarium and types
 

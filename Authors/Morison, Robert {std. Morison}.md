@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/item/104137#page/603/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33355674) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morison, Robert (1620-1683), British botanist; in France at Angers and Blois 1640-1660; in London 1660; at Oxford (first professor of botany) 1669. "Morisonus est Fructista cum Physiognomis & Corollistis conspirans" (Linnaeus, Phil. bot. 18. 1751) (*Morison*).
+Morison, Robert (1620-1683), British botanist; in France at Angers and Blois 1640-1660; in London 1660; at Oxford (first professor of botany) 1669. "Morisonus est Fructista cum Physiognomis & Corollistis conspirans" (Linnaeus, Phil. bot. 18. 1751) 
+**Abbreviated name**: *Morison*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/item/104077#page/638/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33333763) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skan, Sidney Alfred (1870-1939), British gardener, botanist and librarian; student gardener, Royal Botanical Gardens, Kew 1892-1894; herbarium assistant 1894-1899; librarian 1899-1933. (*Skan*).
+Skan, Sidney Alfred (1870-1939), British gardener, botanist and librarian; student gardener, Royal Botanical Gardens, Kew 1892-1894; herbarium assistant 1894-1899; librarian 1899-1933. 
+**Abbreviated name**: *Skan*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/item/103253#page/840/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33069056) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lefroy, Sir John Henry (1817-1890), British soldier, colonial administrator and botanist, governor of Bermuda 1872-1877, of Tasmania 1880-1882. (*Lefr.*).
+Lefroy, Sir John Henry (1817-1890), British soldier, colonial administrator and botanist, governor of Bermuda 1872-1877, of Tasmania 1880-1882. 
+**Abbreviated name**: *Lefr.*
 
 #### Herbarium and types
 

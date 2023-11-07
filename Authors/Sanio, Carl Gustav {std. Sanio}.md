@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/item/104077#page/52/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33333139) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sanio, Carl Gustav (1832-1891), German (Eastern Prussian) botanist at Lyck; studied botany and medicine at Königsberg University; with Alexander Braun at Berlin 1855-1857; Dr. phil. Königsberg 1858; habil. id. 1858; lecturer 1859-1866; from 1866-1891 "Privatgelehrter" at Lyck; oustanding plant anatomist. (*Sanio*).
+Sanio, Carl Gustav (1832-1891), German (Eastern Prussian) botanist at Lyck; studied botany and medicine at Königsberg University; with Alexander Braun at Berlin 1855-1857; Dr. phil. Königsberg 1858; habil. id. 1858; lecturer 1859-1866; from 1866-1891 "Privatgelehrter" at Lyck; oustanding plant anatomist. 
+**Abbreviated name**: *Sanio*
 
 #### Herbarium and types
 

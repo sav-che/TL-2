@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103860#page/198/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33265865) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clason, Else Willem (1904-1971), Dutch botanist, agronomist, born at Oldenhove, Groningen, educated at a secondary school at Groningen, studied at the University of Groningen until 1928, group advisor in the employment of the Java Sugar Experiment Station at Pasuruan, also as advisor at Sitoebondo 1929-1933, at Kediri 1934-1935, Cheribon 1935-1936, Pasuruan 1936-1937, again Kediri 1937-1939, inspector of field service from 1939, after WW II evacuated to the Netherlands, returned to Java 1947, later settled at Tynaarlo, Holland, died 12 Apr 1971. (*Clason*).
+Clason, Else Willem (1904-1971), Dutch botanist, agronomist, born at Oldenhove, Groningen, educated at a secondary school at Groningen, studied at the University of Groningen until 1928, group advisor in the employment of the Java Sugar Experiment Station at Pasuruan, also as advisor at Sitoebondo 1929-1933, at Kediri 1934-1935, Cheribon 1935-1936, Pasuruan 1936-1937, again Kediri 1937-1939, inspector of field service from 1939, after WW II evacuated to the Netherlands, returned to Java 1947, later settled at Tynaarlo, Holland, died 12 Apr 1971. 
+**Abbreviated name**: *Clason*
 
 #### Herbarium and types
 

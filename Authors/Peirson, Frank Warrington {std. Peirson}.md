@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103624#page/160/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33189617) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peirson, Frank Warrington (1865-1951), American botanist and plant collector, from 1902 realtor at Altadena, Calif.; AB Haverford 1889, AM ib. 1890; plant collector in the Pacific States. (*Peirson*).
+Peirson, Frank Warrington (1865-1951), American botanist and plant collector, from 1902 realtor at Altadena, Calif.; AB Haverford 1889, AM ib. 1890; plant collector in the Pacific States. 
+**Abbreviated name**: *Peirson*
 
 #### Herbarium and types
 

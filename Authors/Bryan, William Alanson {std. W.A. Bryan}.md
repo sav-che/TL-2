@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103861#page/179/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bryan, William Alanson (1875-1942), American biologist, ornithology and botany, born 23 Dec 1875, New Sharon, Iowa, B.S. Iowa-State 1893, lecturer Museum Iowa State 1896, assistant in museum methods in several museums 1895-1897, curator Field Museum Nat. Hist. 1898-1899, U.S. Dept. Agric. 1899, curator Bishop Museum Hawaii 1900-1907, president Pacific Sci. Inst. from 1908. (*W.A. Bryan*).
+Bryan, William Alanson (1875-1942), American biologist, ornithology and botany, born 23 Dec 1875, New Sharon, Iowa, B.S. Iowa-State 1893, lecturer Museum Iowa State 1896, assistant in museum methods in several museums 1895-1897, curator Field Museum Nat. Hist. 1898-1899, U.S. Dept. Agric. 1899, curator Bishop Museum Hawaii 1900-1907, president Pacific Sci. Inst. from 1908. 
+**Abbreviated name**: *W.A. Bryan*
 
 #### Herbarium and types
 

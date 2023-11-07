@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103835#page/62/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33260040) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doncaster, Leonard (fl. 1910), English botanist, was some time with Smithsonian in Washington D.C. (*Doncaster*).
+Doncaster, Leonard (fl. 1910), English botanist, was some time with Smithsonian in Washington D.C. 
+**Abbreviated name**: *Doncaster*
 
 #### Herbarium and types
 

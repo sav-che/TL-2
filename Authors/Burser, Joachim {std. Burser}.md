@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103414#page/467/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33120550) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burser, Joachim (1583-1639), German physician and botanist, professor of botany and medecine at Sorö, Denmark (1625-1639), travelled in C. and S. Europe. (*Burser*).
+Burser, Joachim (1583-1639), German physician and botanist, professor of botany and medecine at Sorö, Denmark (1625-1639), travelled in C. and S. Europe. 
+**Abbreviated name**: *Burser*
 
 #### Herbarium
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/item/103250#page/540/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33066820) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wurth, Theophil (1875-1922), Swiss botanist; studied at the University of Bern with the mycologist Ed. Fischer; Dr. phil. ib. 1904; teacher at an elementary school at Wilchingen (Schaffhausen) from 1894; at the Cocoa experiment station of Salatiga, Java 1905-1908, the Malang experiment station 1908-1911, director ib. 1911-1914, 1915-1922. (*Wurth*).
+Wurth, Theophil (1875-1922), Swiss botanist; studied at the University of Bern with the mycologist Ed. Fischer; Dr. phil. ib. 1904; teacher at an elementary school at Wilchingen (Schaffhausen) from 1894; at the Cocoa experiment station of Salatiga, Java 1905-1908, the Malang experiment station 1908-1911, director ib. 1911-1914, 1915-1922. 
+**Abbreviated name**: *Wurth*
 
 #### Herbarium and types
 

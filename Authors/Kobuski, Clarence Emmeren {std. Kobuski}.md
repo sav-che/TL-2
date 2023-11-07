@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/item/103253#page/613/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kobuski, Clarence Emmeren (1900-1963), American botanist at the Arnold Arboretum of Harvard University, editor of the *Journal of the Arnold Arboretum* (1949-1958) and of *Sargentia*; Dr. phil. Univ. Washington 1927 (*Kobuski*).
+Kobuski, Clarence Emmeren (1900-1963), American botanist at the Arnold Arboretum of Harvard University, editor of the *Journal of the Arnold Arboretum* (1949-1958) and of *Sargentia*; Dr. phil. Univ. Washington 1927 
+**Abbreviated name**: *Kobuski*
 
 #### Herbarium and types
 

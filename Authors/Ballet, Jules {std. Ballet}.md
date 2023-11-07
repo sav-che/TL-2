@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103414#page/161/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33120244) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ballet, Jules (1825-?), French author. (*Ballet*).
+Ballet, Jules (1825-?), French author. 
+**Abbreviated name**: *Ballet*
 
 #### Herbarium and types
 

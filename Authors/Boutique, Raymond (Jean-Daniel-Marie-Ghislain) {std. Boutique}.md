@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103859#page/403/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265590) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boutique, Raymond (Jean-Daniel-Marie-Ghislain) (1906-1985), Belgian botanist, educated at the Institut Saint-Pierre at Jette until 1924, studied at the Université Catholique de Louvain 1924-1928, Ing. agric. ib. 1928, phytopathologist at the Jardin botanique de l'État 1930, aide-préparateur 1931-1935, préparateur 1935-1940, chef-préparateur 1940-1945, botanist at the Institut national pour l'Étude agronomique du Congo (INEAC) 1945-1961, with the Institut belge pour la Recherche scientifique Outre-Mer 1961-1963, subsequently assistant at the Institut Royal des Sciences naturelles 1963-1968, again with the Jardin botanique 1968-1971. (*Boutique*).
+Boutique, Raymond (Jean-Daniel-Marie-Ghislain) (1906-1985), Belgian botanist, educated at the Institut Saint-Pierre at Jette until 1924, studied at the Université Catholique de Louvain 1924-1928, Ing. agric. ib. 1928, phytopathologist at the Jardin botanique de l'État 1930, aide-préparateur 1931-1935, préparateur 1935-1940, chef-préparateur 1940-1945, botanist at the Institut national pour l'Étude agronomique du Congo (INEAC) 1945-1961, with the Institut belge pour la Recherche scientifique Outre-Mer 1961-1963, subsequently assistant at the Institut Royal des Sciences naturelles 1963-1968, again with the Jardin botanique 1968-1971. 
+**Abbreviated name**: *Boutique*
 
 #### Herbarium and types
 

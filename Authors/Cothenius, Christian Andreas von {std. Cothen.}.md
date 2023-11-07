@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/103414#page/605/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33120688) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cothenius, Christian Andreas von (1708-1789), German physician and botanist. (*Cothen.*).
+Cothenius, Christian Andreas von (1708-1789), German physician and botanist. 
+**Abbreviated name**: *Cothen.*
 
 #### Herbarium and types
 

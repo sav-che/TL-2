@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103832#page/403/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33258869) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Griffon, Édouard (1869-1912), French phytopathologist, born 24 Jul 1869 in Vault-de-Lugny (Yonne), prof. of Natural History, then Botany, and Dir., Plant Pathology Station at Versailles and Botanic Garden of the National School of Agriculture at Grignon, died 28 Jun 1912 in Paris. (*É. Griffon*).
+Griffon, Édouard (1869-1912), French phytopathologist, born 24 Jul 1869 in Vault-de-Lugny (Yonne), prof. of Natural History, then Botany, and Dir., Plant Pathology Station at Versailles and Botanic Garden of the National School of Agriculture at Grignon, died 28 Jun 1912 in Paris. 
+**Abbreviated name**: *É. Griffon*
 
 #### Herbarium and types
 

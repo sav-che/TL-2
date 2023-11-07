@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/item/103833#page/129/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33259163) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dayton, William Adams (1885-1958), American botanist, forest ecologist, dendrologist, born in New York City, childhood home Tarrytown, N.Y., at Williams College B.A. 1905, M.A. 1908, worked in the U.S. Post Office Dept. Washington D.C. 1906-1910, from 1910-1958 with the Forest Service, founded by him the Forest Service Herbarium Washington D.C. 1910, from 1942 chief of the Division of Dendrology and Range Forage Investigations, retired 1955, collaborator 1955-1958. (*Dayton*).
+Dayton, William Adams (1885-1958), American botanist, forest ecologist, dendrologist, born in New York City, childhood home Tarrytown, N.Y., at Williams College B.A. 1905, M.A. 1908, worked in the U.S. Post Office Dept. Washington D.C. 1906-1910, from 1910-1958 with the Forest Service, founded by him the Forest Service Herbarium Washington D.C. 1910, from 1942 chief of the Division of Dendrology and Range Forage Investigations, retired 1955, collaborator 1955-1958. 
+**Abbreviated name**: *Dayton*
 
 #### Herbarium and types
 

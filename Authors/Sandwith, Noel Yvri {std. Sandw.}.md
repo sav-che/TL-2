@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/104077#page/49/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33333136) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sandwith, Noel Yvri (1901-1965), English botanist; Keble Coll. Oxford BA 1926, MA 1929; at Royal Botanic Gardens Kew 1924-1965; collected in British Guyana 1929 and 1937; travelled in Albania, North Africa and South America; son of Mrs. C.I. Sandwith; specialist on Bignoniaceae; enthusiastic host at Kew for all younger botanical workers on the flora of tropical South America. (*Sandw.*).
+Sandwith, Noel Yvri (1901-1965), English botanist; Keble Coll. Oxford BA 1926, MA 1929; at Royal Botanic Gardens Kew 1924-1965; collected in British Guyana 1929 and 1937; travelled in Albania, North Africa and South America; son of Mrs. C.I. Sandwith; specialist on Bignoniaceae; enthusiastic host at Kew for all younger botanical workers on the flora of tropical South America. 
+**Abbreviated name**: *Sandw.*
 
 #### Herbarium and types
 

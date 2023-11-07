@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103835#page/93/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doyle, Joseph (1896-x), Irish botanist at the University of Dublin. (*J. Doyle*).
+Doyle, Joseph (1896-x), Irish botanist at the University of Dublin. 
+**Abbreviated name**: *J. Doyle*
 
 #### Herbarium and types
 

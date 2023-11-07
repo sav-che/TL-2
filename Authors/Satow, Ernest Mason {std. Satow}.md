@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/104077#page/77/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Satow, Ernest Mason (1843-1929), British botanist and diplomat; Japanese secretary to the British legation at Tokyo 1868-1884; minister resident and consul-general at Bangkok 1885-1888; in Uruguay 1888-1893, Marocco 1893-1895; minister plenipotentiary in Tokyo 1895-1900; id. Peking 190-1906; privy councillor from 1906. (*Satow*).
+Satow, Ernest Mason (1843-1929), British botanist and diplomat; Japanese secretary to the British legation at Tokyo 1868-1884; minister resident and consul-general at Bangkok 1885-1888; in Uruguay 1888-1893, Marocco 1893-1895; minister plenipotentiary in Tokyo 1895-1900; id. Peking 190-1906; privy councillor from 1906. 
+**Abbreviated name**: *Satow*
 
 #### Herbarium and types
 

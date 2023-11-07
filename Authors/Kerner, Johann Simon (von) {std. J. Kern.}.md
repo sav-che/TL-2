@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/103253#page/556/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33068772) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kerner, Johann Simon \[von\] (1755-1830), German botanist and botanical artist at the Württemberg Carl's Universität, Stuttgart. (*J. Kern.*).
+Kerner, Johann Simon \[von\] (1755-1830), German botanist and botanical artist at the Württemberg Carl's Universität, Stuttgart. 
+**Abbreviated name**: *J. Kern.*
 
 #### Herbarium and types
 

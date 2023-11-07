@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/104137#page/27/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33355116) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lidforss, Bengt (1868-1913), Swedish batologist; Dr, phil. Lund 1893; lecturer in botany at Lund university 1897-1905, 1906-1911; professor of botany at Uppsala 1910-1911, at Lund 1911-1913. (*Lidf.*).
+Lidforss, Bengt (1868-1913), Swedish batologist; Dr, phil. Lund 1893; lecturer in botany at Lund university 1897-1905, 1906-1911; professor of botany at Uppsala 1910-1911, at Lund 1911-1913. 
+**Abbreviated name**: *Lidf.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/104077#page/299/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schönach, Hugo (1847-?), Austrian botanist; high school teacher at Brunek (until 1880) and Feldkirch, Vorarlberg (1881-1908); later in retirement in Innsbruck. (*H. Schönach*).
+Schönach, Hugo (1847-?), Austrian botanist; high school teacher at Brunek (until 1880) and Feldkirch, Vorarlberg (1881-1908); later in retirement in Innsbruck. 
+**Abbreviated name**: *H. Schönach*
 
 #### Herbarium and types
 

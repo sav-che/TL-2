@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103250#page/315/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, Violetta Susan Elizabeth (1875-1949), American botanist; married John Ross Delafield 1904; associated with the New York Bot. Gard. 1901-1902. (*V.S. White*).
+White, Violetta Susan Elizabeth (1875-1949), American botanist; married John Ross Delafield 1904; associated with the New York Bot. Gard. 1901-1902. 
+**Abbreviated name**: *V.S. White*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103861#page/118/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33266415) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brizi, Ugo (1868-1949), Italian botanist and phytopathologist (Ancona born), assistant at the Stazione di patologia vegetale a Roma 1900, professor of physiology and phytopathology at the R. Scuola superiore d'Agricoltura at Milano, ordinary professor at the Agricultural University of Milano 1918, from 1937 director of the botanical garden Brera, Milano. (*Brizi*).
+Brizi, Ugo (1868-1949), Italian botanist and phytopathologist (Ancona born), assistant at the Stazione di patologia vegetale a Roma 1900, professor of physiology and phytopathology at the R. Scuola superiore d'Agricoltura at Milano, ordinary professor at the Agricultural University of Milano 1918, from 1937 director of the botanical garden Brera, Milano. 
+**Abbreviated name**: *Brizi*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103624#page/347/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33189804) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pomata y Gisbert, Eladio (*fl*. 1880), Spanish botanist. (*Pomata*).
+Pomata y Gisbert, Eladio (*fl*. 1880), Spanish botanist. 
+**Abbreviated name**: *Pomata*
 
 #### Herbarium and types
 

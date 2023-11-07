@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/item/103861#page/443/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33266740) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carter, Nellie (1895-x), British botanist (algologist), studied at the University of Birmingham, B.Sc. 1915, M. Sc. 1915, Dr. Sci. 1919, FLS 1926. (*N. Carter*).
+Carter, Nellie (1895-x), British botanist (algologist), studied at the University of Birmingham, B.Sc. 1915, M. Sc. 1915, Dr. Sci. 1919, FLS 1926. 
+**Abbreviated name**: *N. Carter*
 
 #### Herbarium and types
 

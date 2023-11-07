@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/104077#page/202/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33333327) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlagintweit-Sakünlünski, Hermann Alfred Rudolph von (1826-1882), German (Bavarian) traveller, geographer, plant collector and explorer of Northern India, the Himalaya, Karakorum and Tibet 1854-1857. (*H. Schlagintweit*).
+Schlagintweit-Sakünlünski, Hermann Alfred Rudolph von (1826-1882), German (Bavarian) traveller, geographer, plant collector and explorer of Northern India, the Himalaya, Karakorum and Tibet 1854-1857. 
+**Abbreviated name**: *H. Schlagintweit*
 
 #### Herbarium and types
 

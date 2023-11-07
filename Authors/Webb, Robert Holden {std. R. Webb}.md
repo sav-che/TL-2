@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103250#page/182/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33066462) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Webb, Robert Holden (1806-1880), British clergyman and botanist; B.A. Cambridge 1829, M.A. 1834; ordained deacon 1829, priest 1830; curate of Essendon nr. Hatfield, Herts. 1830, rector ib. 1843-1880. (*R. Webb*).
+Webb, Robert Holden (1806-1880), British clergyman and botanist; B.A. Cambridge 1829, M.A. 1834; ordained deacon 1829, priest 1830; curate of Essendon nr. Hatfield, Herts. 1830, rector ib. 1843-1880. 
+**Abbreviated name**: *R. Webb*
 
 #### Herbarium and types
 

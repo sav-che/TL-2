@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/item/103253#page/560/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33068776) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kickx, Jean, Sr. (1775-1831), Belgian botanist and mineralogist, professor of botany, pharmacy and mineralogy at the Brussels medical school. (*J. Kickx*).
+Kickx, Jean, Sr. (1775-1831), Belgian botanist and mineralogist, professor of botany, pharmacy and mineralogy at the Brussels medical school. 
+**Abbreviated name**: *J. Kickx*
 
 #### Herbarium and types
 

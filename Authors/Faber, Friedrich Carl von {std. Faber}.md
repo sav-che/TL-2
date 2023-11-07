@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103834#page/23/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259505) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Faber, Friedrich Carl von (1880-1954), Dutch botanist of German origin, born 10 Jul 1880 in Amsterdam, moved to the Dutch E. Indies but returned to Amsterdam for elementary school and Gymnasium 1887, studied at the Landwirtschaftliche Hochschule, Wageningen and graduated "summa cum laude" 1900, studied at Heidelberg (with E.H.H. Pfitzer), then at Leipzig (with W.F.P. Pfeffer) until 1903, Dr. degree from Heidelberg, at Stuttgart 1903-1904, Munich 1905 and Berlin 1905-1907, in W. Afr. 1907 and Java 1909-1930, prof., Munich 1930 and Vienna 1931, returned to Munich 1934 as Dir. until his retirement 1945, died 5 Feb 1954. (*Faber*).
+Faber, Friedrich Carl von (1880-1954), Dutch botanist of German origin, born 10 Jul 1880 in Amsterdam, moved to the Dutch E. Indies but returned to Amsterdam for elementary school and Gymnasium 1887, studied at the Landwirtschaftliche Hochschule, Wageningen and graduated "summa cum laude" 1900, studied at Heidelberg (with E.H.H. Pfitzer), then at Leipzig (with W.F.P. Pfeffer) until 1903, Dr. degree from Heidelberg, at Stuttgart 1903-1904, Munich 1905 and Berlin 1905-1907, in W. Afr. 1907 and Java 1909-1930, prof., Munich 1930 and Vienna 1931, returned to Munich 1934 as Dir. until his retirement 1945, died 5 Feb 1954. 
+**Abbreviated name**: *Faber*
 
 #### Note
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103834#page/411/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33259893) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Franzoni, Alberto (1816-1886), Swiss lawyer and amateur botanist, born 20 Aug 1816 in Locarno (Cantone Ticino), studied law in Zurich and Pisa where he received a doctorate in 1837, much involved in politics, studied the flora of Ticino, died 9 Aug 1886 in Locarno. (*Franzoni*).
+Franzoni, Alberto (1816-1886), Swiss lawyer and amateur botanist, born 20 Aug 1816 in Locarno (Cantone Ticino), studied law in Zurich and Pisa where he received a doctorate in 1837, much involved in politics, studied the flora of Ticino, died 9 Aug 1886 in Locarno. 
+**Abbreviated name**: *Franzoni*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/104077#page/57/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33333144) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saporta, (Louis Charles Joseph) Gaston, marquis de (1823-1895), French palaeobotanist of independent means, living at St. Zacharie (Var) near Aix-en-Provence; corresponding member of the Académie des Sciences, 1877; specially interested in the Mesozoic. (*Saporta*).
+Saporta, (Louis Charles Joseph) Gaston, marquis de (1823-1895), French palaeobotanist of independent means, living at St. Zacharie (Var) near Aix-en-Provence; corresponding member of the Académie des Sciences, 1877; specially interested in the Mesozoic. 
+**Abbreviated name**: *Saporta*
 
 #### Herbarium and types
 

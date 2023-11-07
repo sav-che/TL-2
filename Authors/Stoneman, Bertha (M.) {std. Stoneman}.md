@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/item/103683#page/35/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33212069) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stoneman, Bertha \[M.\] (1866-1943), American-born botanist; Dr. sci. Cornell Univ. 1896, settled in South Africa 1897; in charge of the Botany Dept. of the Huguenot College for Women, Wellington, Cape Prov. 1897-1921; president id. 1921-1933; from 1933 in retirement at Bainskloof. (*Stoneman*).
+Stoneman, Bertha \[M.\] (1866-1943), American-born botanist; Dr. sci. Cornell Univ. 1896, settled in South Africa 1897; in charge of the Botany Dept. of the Huguenot College for Women, Wellington, Cape Prov. 1897-1921; president id. 1921-1933; from 1933 in retirement at Bainskloof. 
+**Abbreviated name**: *Stoneman*
 
 #### Herbarium and types
 

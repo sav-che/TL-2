@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/item/104137#page/629/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33355700) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mudie, Robert (1777-1842), British journalist and popular writer on natural history; 1802-1808 teacher in Scotland; to London 1808 as reporter with the Morning Chronicle and editor of the Sunday Times. (*Mudie*).
+Mudie, Robert (1777-1842), British journalist and popular writer on natural history; 1802-1808 teacher in Scotland; to London 1808 as reporter with the Morning Chronicle and editor of the Sunday Times. 
+**Abbreviated name**: *Mudie*
 
 #### Herbarium and types
 

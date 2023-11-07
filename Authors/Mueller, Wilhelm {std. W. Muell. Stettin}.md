@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/item/104137#page/668/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33355739) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller, Wilhelm (fl. 1898), German botanist and high school teacher at Stettin. (*W. Muell. Stettin*).
+Mueller, Wilhelm (fl. 1898), German botanist and high school teacher at Stettin. 
+**Abbreviated name**: *W. Muell. Stettin*
 
 #### Herbarium and types
 

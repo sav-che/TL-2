@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/item/103414#page/879/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33120962) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Finet, Eugène Achille {std. Finet} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Finet, Eugène Achille (1863-1913), French botanist, specialist on orchids, and botanical artist. (*Finet*).
+Finet, Eugène Achille (1863-1913), French botanist, specialist on orchids, and botanical artist. 
+**Abbreviated name**: *Finet*
 
 #### Herbarium and types
 

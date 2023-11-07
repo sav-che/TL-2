@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/103860#page/313/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33265980) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conrad, Solomon White (1779-1831), American bookseller, amateur mineralogist, conchologist and botanist, born 31 Jul 1779, Germantown, Pa., died 2 Oct 1831, Philadelphia, Pa., Professor of botany at the University of Pennsylvania elected 21 Mar 1829. (*Conrad*).
+Conrad, Solomon White (1779-1831), American bookseller, amateur mineralogist, conchologist and botanist, born 31 Jul 1779, Germantown, Pa., died 2 Oct 1831, Philadelphia, Pa., Professor of botany at the University of Pennsylvania elected 21 Mar 1829. 
+**Abbreviated name**: *Conrad*
 
 #### Herbarium and types
 

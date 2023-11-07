@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/103253#page/539/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33068755) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kegel, Hermann Aribert Heinrich (1819-1856), German gardener at Halle, collected in Surinam 1844-1846. (*Kegel*).
+Kegel, Hermann Aribert Heinrich (1819-1856), German gardener at Halle, collected in Surinam 1844-1846. 
+**Abbreviated name**: *Kegel*
 
 #### Herbarium and types
 

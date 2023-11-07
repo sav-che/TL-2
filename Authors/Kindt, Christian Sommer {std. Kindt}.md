@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/item/103253#page/570/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33068786) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kindt, Christian Sommer (1816-1903), Norwegian botanist and physician at Trondhjem. (*Kindt*).
+Kindt, Christian Sommer (1816-1903), Norwegian botanist and physician at Trondhjem. 
+**Abbreviated name**: *Kindt*
 
 #### Herbarium and types
 

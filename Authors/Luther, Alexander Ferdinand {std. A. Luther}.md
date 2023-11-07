@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/104137#page/214/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33355285) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Luther, Alexander Ferdinand (1877-1955), Finnish botanist and zoologist at Helsingfors (*A. Luther*).
+Luther, Alexander Ferdinand (1877-1955), Finnish botanist and zoologist at Helsingfors 
+**Abbreviated name**: *A. Luther*
 
 #### Herbarium and types
 

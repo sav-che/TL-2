@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103833#page/175/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33259209) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dehay, Charles-Louis-Ferdinand (1898-x), French pharmacist, Dr. Sci. nat. and Pharmacien de 1-re classe, born 17 Apr 1898, at Bully-les-Mines, studied at the Faculté de médecine et de pharmacie de Lille. (*C.L.F. Dehay*).
+Dehay, Charles-Louis-Ferdinand (1898-x), French pharmacist, Dr. Sci. nat. and Pharmacien de 1-re classe, born 17 Apr 1898, at Bully-les-Mines, studied at the Faculté de médecine et de pharmacie de Lille. 
+**Abbreviated name**: *C.L.F. Dehay*
 
 #### Herbarium and types
 

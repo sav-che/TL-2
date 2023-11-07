@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103858#page/261/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33264976) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bärner, Johannes Max Wilhelm (1900-x), German (Saxonian) pharmacist, botanist and wood specialist; educated in Leipzig (elementary school) and Dresden (Reformgymnasium), on active service 1917-1918, studied pharmacy in Dresden, first phase 1920-1922, assistant in a Dresden pharmacy 1922-1923, final pharmaceutical study at the Friedrich-Wilhelms-Universität, Berlin, pharm. state exam. 1925, active in various pharmacies and at the Botanical Museum Berlin-Dahlem (with Gilg and Diels); Dr. phil. Berlin 1927; later assistant at the Biologische Reichsanstalt für Land- und Forstwirtschaft, Dahlem, working e.g. on the Bibliographie der Pflanzenschutzliteratur. (*Bärner*).
+Bärner, Johannes Max Wilhelm (1900-x), German (Saxonian) pharmacist, botanist and wood specialist; educated in Leipzig (elementary school) and Dresden (Reformgymnasium), on active service 1917-1918, studied pharmacy in Dresden, first phase 1920-1922, assistant in a Dresden pharmacy 1922-1923, final pharmaceutical study at the Friedrich-Wilhelms-Universität, Berlin, pharm. state exam. 1925, active in various pharmacies and at the Botanical Museum Berlin-Dahlem (with Gilg and Diels); Dr. phil. Berlin 1927; later assistant at the Biologische Reichsanstalt für Land- und Forstwirtschaft, Dahlem, working e.g. on the Bibliographie der Pflanzenschutzliteratur. 
+**Abbreviated name**: *Bärner*
 
 #### Herbarium and types
 

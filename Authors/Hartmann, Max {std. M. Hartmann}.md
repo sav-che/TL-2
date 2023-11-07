@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/103253#page/94/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33068310) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartmann, Max (1876-x), German algologist. (*M. Hartmann*).
+Hartmann, Max (1876-x), German algologist. 
+**Abbreviated name**: *M. Hartmann*
 
 #### Herbarium and types
 

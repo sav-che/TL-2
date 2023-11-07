@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/item/103832#page/26/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33258512) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Friend, Hilderic (Rev.) (1852-1940), English Methodist minister, born 6 Nov 1852 in High \[Great\] Wigsell (Kent), but raised in Hastings (Sussex), entered the Wesleyan College in Richmond 1874, left two years later as missionary to China, lost an eye in 1880 and returned to England, lived in Newton Abbot (Devonshire), began study of English worms (annelids) 1890, retired 1914, died 7 Feb 1940 in Solihull, Birmingham. (*Friend*).
+Friend, Hilderic (Rev.) (1852-1940), English Methodist minister, born 6 Nov 1852 in High \[Great\] Wigsell (Kent), but raised in Hastings (Sussex), entered the Wesleyan College in Richmond 1874, left two years later as missionary to China, lost an eye in 1880 and returned to England, lived in Newton Abbot (Devonshire), began study of English worms (annelids) 1890, retired 1914, died 7 Feb 1940 in Solihull, Birmingham. 
+**Abbreviated name**: *Friend*
 
 #### Herbarium and types
 

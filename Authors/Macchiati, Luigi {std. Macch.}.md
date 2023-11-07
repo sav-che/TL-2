@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/104137#page/229/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macchiati, Luigi (1852-1921), Italian cryptogamist; until 1905 at Savona; later scientific director and president of the R. Instituto Tecnico, Venezia. (*Macch.*).
+Macchiati, Luigi (1852-1921), Italian cryptogamist; until 1905 at Savona; later scientific director and president of the R. Instituto Tecnico, Venezia. 
+**Abbreviated name**: *Macch.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/item/103860#page/364/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33266031) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Corboz, François (1845-1905), Swiss agriculturist and botanist, born at Aclens 25 Feb 1845, died ib. 21 Feb 1905, at primary schools at Aclens, 1859 on the École d'agriculture de Bois-Bougy, where a.o. S. Biéler taught zootechnique and Teysseires agronomy, followed his father 1860 at the family domain. (*Corboz*).
+Corboz, François (1845-1905), Swiss agriculturist and botanist, born at Aclens 25 Feb 1845, died ib. 21 Feb 1905, at primary schools at Aclens, 1859 on the École d'agriculture de Bois-Bougy, where a.o. S. Biéler taught zootechnique and Teysseires agronomy, followed his father 1860 at the family domain. 
+**Abbreviated name**: *Corboz*
 
 #### Herbarium and types
 

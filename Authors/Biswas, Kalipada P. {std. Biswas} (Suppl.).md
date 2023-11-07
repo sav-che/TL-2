@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103859#page/187/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33265374) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Biswas, Kalipada P. {std. Biswas}|first entry]] for this author
 
 ### Author
 
-Biswas, Kalipada P. (1899-1969), Indian botanist, educated at the Mitra Institution, Bhowanipur Branch, matric. 1916, studied at the South Suburban College, Calcutta, intermediate exam. 1918, graduated 1920 from Bangabasi College, M.A. Botany 1922, D.Sc. Edinburgh University; Bengal Research Scholar in Algae and systematic botany 1923-1926, curator of the herbarium of the R. Botanical Garden, Sibpur 1927, superintendent 1937-1954, director medical plants scheme West Bengal 1954-1964, in retirement from 1964 at the Botany Dept., University College of Science, Calcutta. (*Biswas*).
+Biswas, Kalipada P. (1899-1969), Indian botanist, educated at the Mitra Institution, Bhowanipur Branch, matric. 1916, studied at the South Suburban College, Calcutta, intermediate exam. 1918, graduated 1920 from Bangabasi College, M.A. Botany 1922, D.Sc. Edinburgh University; Bengal Research Scholar in Algae and systematic botany 1923-1926, curator of the herbarium of the R. Botanical Garden, Sibpur 1927, superintendent 1937-1954, director medical plants scheme West Bengal 1954-1964, in retirement from 1964 at the Botany Dept., University College of Science, Calcutta. 
+**Abbreviated name**: *Biswas*
 
 #### Herbarium and types
 

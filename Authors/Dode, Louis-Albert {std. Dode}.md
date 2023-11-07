@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103835#page/21/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33259999) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dode, Louis-Albert (1875-1945), French Dr. in law and keen dendrologist, born at Moulins, Allier, 15 Jan 1875, founder of the Société dendrologique de France, possessed a large private arboretum where he introduced and cultivated many exotic species, died in 1945. (*Dode*).
+Dode, Louis-Albert (1875-1945), French Dr. in law and keen dendrologist, born at Moulins, Allier, 15 Jan 1875, founder of the Société dendrologique de France, possessed a large private arboretum where he introduced and cultivated many exotic species, died in 1945. 
+**Abbreviated name**: *Dode*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1026](https://www.biodiversitylibrary.org/item/103414#page/1074/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1026](https://www.biodiversitylibrary.org/page/33121157) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gutbier, Christian August von (1798-1866), German palaeobiologist in Sachsen. (*Gutbier*).
+Gutbier, Christian August von (1798-1866), German palaeobiologist in Sachsen. 
+**Abbreviated name**: *Gutbier*
 
 #### Collections
 

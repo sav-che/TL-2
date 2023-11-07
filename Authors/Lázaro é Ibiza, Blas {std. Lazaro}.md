@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/item/103253#page/802/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33069018) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lázaro é Ibiza, Blas (1858-1921), Spanish botanist, from 1882 at the Jardín botanico de Madrid. (*Lazaro*).
+Lázaro é Ibiza, Blas (1858-1921), Spanish botanist, from 1882 at the Jardín botanico de Madrid. 
+**Abbreviated name**: *Lazaro*
 
 #### Herbarium and types
 

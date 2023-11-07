@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/item/103832#page/446/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33258912) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gubler, \[Nicolas\] Adolphe Marie (1821-1879), French physician, pharmacologist and botanist, born 4 Apr 1821 in Metz (Moselle), studied medicine in Paris 1841, traveled in Italy, returned to Paris and obtained his doctorate 1849, Prof., Faculty of Medicine, Paris 1858-1879, Académie de médecine 1865, published extensively on human anatomy, physicology and clinical medicine, vice-president, Société Botanique de France, died 20 Apr 1879 in Val Margue nr. Toulon (Var). (*Gubler*).
+Gubler, \[Nicolas\] Adolphe Marie (1821-1879), French physician, pharmacologist and botanist, born 4 Apr 1821 in Metz (Moselle), studied medicine in Paris 1841, traveled in Italy, returned to Paris and obtained his doctorate 1849, Prof., Faculty of Medicine, Paris 1858-1879, Académie de médecine 1865, published extensively on human anatomy, physicology and clinical medicine, vice-president, Société Botanique de France, died 20 Apr 1879 in Val Margue nr. Toulon (Var). 
+**Abbreviated name**: *Gubler*
 
 #### Herbarium and types
 

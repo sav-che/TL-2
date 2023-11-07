@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103860#page/146/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33265813) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chopra, Govardhan Lal (1903-x), Indian botanist, born 1 Dec 1903 Chhanga Manga, Lahore/Punjab, Pakistan, M.Sc. 1930 (Hons) bot., 1-st class from Gov. College in Lahore, 1930-1932 univ. research scholar at Punjab Univ., Bot. dept., 1935 Head of the Biology Dept. and Prof. Bot. College Jullundur City. (*G.L. Chopra*).
+Chopra, Govardhan Lal (1903-x), Indian botanist, born 1 Dec 1903 Chhanga Manga, Lahore/Punjab, Pakistan, M.Sc. 1930 (Hons) bot., 1-st class from Gov. College in Lahore, 1930-1932 univ. research scholar at Punjab Univ., Bot. dept., 1935 Head of the Biology Dept. and Prof. Bot. College Jullundur City. 
+**Abbreviated name**: *G.L. Chopra*
 
 #### Herbarium and types
 

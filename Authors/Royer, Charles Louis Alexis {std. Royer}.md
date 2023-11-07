@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/item/103624#page/975/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33190432) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Royer, Charles Louis Alexis (1831-1883), French botanist; landowner at Quincy, Côte-d'-Or. (*Royer*).
+Royer, Charles Louis Alexis (1831-1883), French botanist; landowner at Quincy, Côte-d'-Or. 
+**Abbreviated name**: *Royer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103832#page/288/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33258754) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gogela, Franz (fl. 1892-1900), Czech cleric ("Pfarrer"), amateur botanist and school teacher (?) (i.e. "Cooperator und Bürgerschulkatechet in Mistek"). (*Gogela*).
+Gogela, Franz (fl. 1892-1900), Czech cleric ("Pfarrer"), amateur botanist and school teacher (?) (i.e. "Cooperator und Bürgerschulkatechet in Mistek"). 
+**Abbreviated name**: *Gogela*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103834#page/42/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33259524) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fairchild, Herman Le Roy (1850-1943), American geologist who published on fossil plants, born 29 Apr 1850 in Montrose, Penn., B.Sci. 1874 Cornell Univ., Ithaca, New York, teacher of natural sciences, Wyoming Seminary, Kingston, Penn. 1874-1876, lecturer, private schools and Cooper Union, New York City 1877-1888, prof. of geology, Univ. of Rochester, Rochester, New York 1888-1920, prof. emeritus 1920, Marsh Panama-Darien exped. 1924, Dr. h.c. 1910 Univ. of Pittsburgh, also a founder of Geological Soc. America, died 29 Nov 1943 in Rochester. (*H.L. Fairchild*).
+Fairchild, Herman Le Roy (1850-1943), American geologist who published on fossil plants, born 29 Apr 1850 in Montrose, Penn., B.Sci. 1874 Cornell Univ., Ithaca, New York, teacher of natural sciences, Wyoming Seminary, Kingston, Penn. 1874-1876, lecturer, private schools and Cooper Union, New York City 1877-1888, prof. of geology, Univ. of Rochester, Rochester, New York 1888-1920, prof. emeritus 1920, Marsh Panama-Darien exped. 1924, Dr. h.c. 1910 Univ. of Pittsburgh, also a founder of Geological Soc. America, died 29 Nov 1943 in Rochester. 
+**Abbreviated name**: *H.L. Fairchild*
 
 #### Herbarium and types
 

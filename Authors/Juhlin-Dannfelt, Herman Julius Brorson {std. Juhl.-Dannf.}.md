@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/item/103253#page/493/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Juhlin-Dannfelt, Herman Julius Brorson (1852-1937), Swedish diatomologist and agronomist at the Ultuna agricultural college, from 1902-1918 secretary of the Lantbruksakademien (agricultural academy). (*Juhl.-Dannf.*).
+Juhlin-Dannfelt, Herman Julius Brorson (1852-1937), Swedish diatomologist and agronomist at the Ultuna agricultural college, from 1902-1918 secretary of the Lantbruksakademien (agricultural academy). 
+**Abbreviated name**: *Juhl.-Dannf.*
 
 #### Herbarium and types
 

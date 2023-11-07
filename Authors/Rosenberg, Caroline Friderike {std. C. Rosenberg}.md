@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/item/103624#page/903/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33190360) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosenberg, Caroline Friderike (1810-1902), Hamburg-Altona-born Danish botanist (algologist, bryologist); teacher in Odense ca. 1835; living on the state Hofmansgave on the island of Fünen (Fyn) as foster-daughter of Niels Hofman Bang 1838-1902. (*C. Rosenberg*).
+Rosenberg, Caroline Friderike (1810-1902), Hamburg-Altona-born Danish botanist (algologist, bryologist); teacher in Odense ca. 1835; living on the state Hofmansgave on the island of Fünen (Fyn) as foster-daughter of Niels Hofman Bang 1838-1902. 
+**Abbreviated name**: *C. Rosenberg*
 
 #### Herbarium and types
 

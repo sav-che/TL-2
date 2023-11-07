@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103683#page/282/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33212314) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas, Friedrich August Wilhelm (1840-1918), German (Thüringian) botanist, cecidiologist and high school teacher; studied natural sciences at Jena University with A. Braun and M.J. Schleiden; Dr. phil. Berlin 1863 as student of N. Pringsheim; teacher at the Gymnasium Gleichense at Ohrdruf (Thuringia) 1863-1905. (*F. Thomas*).
+Thomas, Friedrich August Wilhelm (1840-1918), German (Thüringian) botanist, cecidiologist and high school teacher; studied natural sciences at Jena University with A. Braun and M.J. Schleiden; Dr. phil. Berlin 1863 as student of N. Pringsheim; teacher at the Gymnasium Gleichense at Ohrdruf (Thuringia) 1863-1905. 
+**Abbreviated name**: *F. Thomas*
 
 #### Herbarium and types
 

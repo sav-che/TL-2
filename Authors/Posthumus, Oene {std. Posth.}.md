@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103624#page/369/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33189826) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Posthumus, Oene (1898-1945), Dutch botanist (pteridologist, palaeobotanist, geneticist); Dr. phil. Groningen 1924; to Indonesia 1925; in Bogor and on Djambi Exped. 1925; geneticist at the Java Sugar Experiment Station, Pasuruan 1926-1939; from 1939 director of the general agricultural experiment station, Buitenzorg; murdered by extremists Nov 1945. (*Posth.*).
+Posthumus, Oene (1898-1945), Dutch botanist (pteridologist, palaeobotanist, geneticist); Dr. phil. Groningen 1924; to Indonesia 1925; in Bogor and on Djambi Exped. 1925; geneticist at the Java Sugar Experiment Station, Pasuruan 1926-1939; from 1939 director of the general agricultural experiment station, Buitenzorg; murdered by extremists Nov 1945. 
+**Abbreviated name**: *Posth.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/item/104137#page/768/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33355839) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Niethammer, Anneliese (1901-x), German microbiologist and biological technologist; Dr. rer. nat. Praha 1925; from 1926-1932 assistant at the Technical University of Praha; habil. id. 1928, professor's title 1941; from 1948 professor at the Technical University of Stuttgart. (*Niethammer*).
+Niethammer, Anneliese (1901-x), German microbiologist and biological technologist; Dr. rer. nat. Praha 1925; from 1926-1932 assistant at the Technical University of Praha; habil. id. 1928, professor's title 1941; from 1948 professor at the Technical University of Stuttgart. 
+**Abbreviated name**: *Niethammer*
 
 #### Herbarium and types
 

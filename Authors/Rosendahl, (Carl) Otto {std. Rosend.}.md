@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/item/103624#page/904/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/page/33190361) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosendahl, \[Carl\] Otto (1875-1956), American botanist; MS Univ. Minnesota 1902; with the Geol. & Nat. Hist. Survey of Minnesota 1902-1903; studied at the University of Berlin 1903-1905; Dr. phil. Berlin 1905, student of A. Engler; at the Univ. Minnesota from 1901-1903 and 1905-1944 in various functions, as full professor from 1910; from 1944-1956 professor emeritus botany. (*Rosend.*).
+Rosendahl, \[Carl\] Otto (1875-1956), American botanist; MS Univ. Minnesota 1902; with the Geol. & Nat. Hist. Survey of Minnesota 1902-1903; studied at the University of Berlin 1903-1905; Dr. phil. Berlin 1905, student of A. Engler; at the Univ. Minnesota from 1901-1903 and 1905-1944 in various functions, as full professor from 1910; from 1944-1956 professor emeritus botany. 
+**Abbreviated name**: *Rosend.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103859#page/396/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33265583) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boullu, Antoine Étienne (1813-1904), French abbé and botanist, born at Côte-Saint-André, Isère, educated at the seminar of his birthplace, further studies at the Petit-Séminaire du Rondeau (ca. 1831-1836), teacher at the Petit-Séminaire d'Ajaccio, Corsica, 1836-1842, ordained priest 1840, professor of rhetoric at the free college of Pont-de-Beauvoisin (Isère) 1842, later teacher with the Rostaing family at Lyon, in retirement in Lyon from 1869. (*Boullu*).
+Boullu, Antoine Étienne (1813-1904), French abbé and botanist, born at Côte-Saint-André, Isère, educated at the seminar of his birthplace, further studies at the Petit-Séminaire du Rondeau (ca. 1831-1836), teacher at the Petit-Séminaire d'Ajaccio, Corsica, 1836-1842, ordained priest 1840, professor of rhetoric at the free college of Pont-de-Beauvoisin (Isère) 1842, later teacher with the Rostaing family at Lyon, in retirement in Lyon from 1869. 
+**Abbreviated name**: *Boullu*
 
 #### Herbarium and types
 

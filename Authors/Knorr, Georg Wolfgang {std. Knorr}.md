@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/item/103253#page/608/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33068824) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knorr, Georg Wolfgang (1705-1761), German engraver, palaeontologist and art merchant at Nürnberg. (*Knorr*).
+Knorr, Georg Wolfgang (1705-1761), German engraver, palaeontologist and art merchant at Nürnberg. 
+**Abbreviated name**: *Knorr*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/item/103860#page/203/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33265870) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clausen, Roy Elwood (1891-1956), American botanist who dedicated his entire professional life on the cytogenetics of Nicotiana, born at Randall, Iowa, d. Berkeley, Calif., on public schools at Randall 1897, and Newkirk, Oklahoma 1900, at the University of Oklahoma at Stillwater, B.Sc. Agric. 1910, Dr. phil. 1910, at the University of California, Berkeley 1910, Ph.D. biochemistry 1914, at the Division of Genetics Dept. Agr. 1914-1945. (*R.E. Clausen*).
+Clausen, Roy Elwood (1891-1956), American botanist who dedicated his entire professional life on the cytogenetics of Nicotiana, born at Randall, Iowa, d. Berkeley, Calif., on public schools at Randall 1897, and Newkirk, Oklahoma 1900, at the University of Oklahoma at Stillwater, B.Sc. Agric. 1910, Dr. phil. 1910, at the University of California, Berkeley 1910, Ph.D. biochemistry 1914, at the Division of Genetics Dept. Agr. 1914-1945. 
+**Abbreviated name**: *R.E. Clausen*
 
 #### Herbarium and types
 

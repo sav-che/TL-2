@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103861#page/436/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266733) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carruthers, William {std. Carruth.}|first entry]] for this author
 
 ### Author
 
-\* Carruthers, William (1830-1922), British botanist and palaeobiologist, born at Moffat, Dumfriesshire, educated at the Moffat Academy, entered New College, Edinburgh 1854, studied natural sciences, assistant at the Departement of Botany of the British Museum August 1859, keeper id. 1871-1895, president of the Linnean Society 1886-1890, Fellow of the Royal Society 1871, PH.D. Uppsala 1907. (*Carruthers*).
+\* Carruthers, William (1830-1922), British botanist and palaeobiologist, born at Moffat, Dumfriesshire, educated at the Moffat Academy, entered New College, Edinburgh 1854, studied natural sciences, assistant at the Departement of Botany of the British Museum August 1859, keeper id. 1871-1895, president of the Linnean Society 1886-1890, Fellow of the Royal Society 1871, PH.D. Uppsala 1907. 
+**Abbreviated name**: *Carruthers*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/item/103683#page/773/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vocke, Adolf (1821-1901), German (Prussian) botanist and gardener; trained at the Nathusiusschen Baumschulen, Neuhaldensleben; gardener e.g. at te Breslau Botanical Garden; bought a commercial nursery at Nordhausen ca. 1860; sold the nursery in 1870 to dedicate himself exclusively to botany, especially plant collecting. (*Vocke*).
+Vocke, Adolf (1821-1901), German (Prussian) botanist and gardener; trained at the Nathusiusschen Baumschulen, Neuhaldensleben; gardener e.g. at te Breslau Botanical Garden; bought a commercial nursery at Nordhausen ca. 1860; sold the nursery in 1870 to dedicate himself exclusively to botany, especially plant collecting. 
+**Abbreviated name**: *Vocke*
 
 #### Herbarium and types
 

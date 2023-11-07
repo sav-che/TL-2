@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/item/103859#page/248/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33265435) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boberski, Ladislaus \[Wladyslaw\] (1846-1891/2), Austrian (Lemberg, West Galicia) lichenologist, k.k. school inspector of the city of Lemberg. (*Boberski*).
+Boberski, Ladislaus \[Wladyslaw\] (1846-1891/2), Austrian (Lemberg, West Galicia) lichenologist, k.k. school inspector of the city of Lemberg. 
+**Abbreviated name**: *Boberski*
 
 #### Herbarium and types
 

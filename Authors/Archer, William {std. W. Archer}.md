@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103414#page/106/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33120189) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Archer, William (of Dublin) {std. W. Archer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Archer, William (1830-1897), Irish botanist, of Dublin, librarian and microscopist. (*W. Archer*).
+Archer, William (1830-1897), Irish botanist, of Dublin, librarian and microscopist. 
+**Abbreviated name**: *W. Archer*
 
 #### Herbarium and types
 

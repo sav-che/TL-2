@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/item/104077#page/723/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33333848) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Snell, Karl (1881-1956), German agricultural botanist; Dr. phil. München 1907; assistant at Bonn-Poppelsdorf Agricultural Station 1907-1911; in charge of the botany dept. of the Cairo Agricultural Institute 1912-1919; plant physiologist at the Potato Research Institute at Berlin-Steglitz 1919-1924; Biologische Reichsanstalt für Land- und Forstwirtschaft, Berlin-Dahlem 1924-1950. (*K. Snell*).
+Snell, Karl (1881-1956), German agricultural botanist; Dr. phil. München 1907; assistant at Bonn-Poppelsdorf Agricultural Station 1907-1911; in charge of the botany dept. of the Cairo Agricultural Institute 1912-1919; plant physiologist at the Potato Research Institute at Berlin-Steglitz 1919-1924; Biologische Reichsanstalt für Land- und Forstwirtschaft, Berlin-Dahlem 1924-1950. 
+**Abbreviated name**: *K. Snell*
 
 #### Herbarium and types
 

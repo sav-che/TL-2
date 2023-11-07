@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103253#page/180/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henderson, Nellie Frater (1885-1952), American bryologist (*N. Henderson*).
+Henderson, Nellie Frater (1885-1952), American bryologist 
+**Abbreviated name**: *N. Henderson*
 
 #### Herbarium and types
 

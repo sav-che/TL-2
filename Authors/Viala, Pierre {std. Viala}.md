@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/item/103683#page/730/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33212762) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Viala, Pierre (1859-1936), French agronomist; studied at the École d'Agriculture de Montpellier, specialized on viticulture; played an important rôle in the re-constitution of the French vineyards after the occurrence of the Phylloxera disease; professor at the Institut national agronomique, Paris 1890; inspecteur-général for viticulture 1897. (*Viala*).
+Viala, Pierre (1859-1936), French agronomist; studied at the École d'Agriculture de Montpellier, specialized on viticulture; played an important rôle in the re-constitution of the French vineyards after the occurrence of the Phylloxera disease; professor at the Institut national agronomique, Paris 1890; inspecteur-général for viticulture 1897. 
+**Abbreviated name**: *Viala*
 
 #### Herbarium and types
 

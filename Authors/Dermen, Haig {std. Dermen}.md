@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103833#page/225/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259259) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dermen, Haig (1895-x), Istamboul born 22 Oct 1895, moved to U.S.A, Connecticut State College BS 1925, University of Maine MS 1927, Harvard MS 1931, Ph.D. 1933, assistant in biology in Univ. Maine 1925-1927, instructor biology 1927-1929, research assistant 1929, later at U.S. Horti-Cultural Station, Beltsville, Maryland. (*Dermen*).
+Dermen, Haig (1895-x), Istamboul born 22 Oct 1895, moved to U.S.A, Connecticut State College BS 1925, University of Maine MS 1927, Harvard MS 1931, Ph.D. 1933, assistant in biology in Univ. Maine 1925-1927, instructor biology 1927-1929, research assistant 1929, later at U.S. Horti-Cultural Station, Beltsville, Maryland. 
+**Abbreviated name**: *Dermen*
 
 #### Herbarium and types
 

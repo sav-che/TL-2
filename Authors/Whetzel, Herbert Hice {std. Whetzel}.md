@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103250#page/305/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33066585) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Whetzel, Herbert Hice (1877-1944), American mycologist and phytopathologist; studied at Wabash College, Crawfordsville, Indiana; AB 1902; assistant Dept. Botany Cornell Univ. 1902-1906; asst. professor and head of the department of botany New York State College 1909-1944 (head dept. until 1922). (*Whetzel*).
+Whetzel, Herbert Hice (1877-1944), American mycologist and phytopathologist; studied at Wabash College, Crawfordsville, Indiana; AB 1902; assistant Dept. Botany Cornell Univ. 1902-1906; asst. professor and head of the department of botany New York State College 1909-1944 (head dept. until 1922). 
+**Abbreviated name**: *Whetzel*
 
 #### Herbarium and types
 

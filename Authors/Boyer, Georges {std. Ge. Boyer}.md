@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/item/103859#page/414/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33265601) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boyer, Georges (fl. 1890), French phytopathologist and professor at the Agricultural School in Montpellier. (*Ge. Boyer*).
+Boyer, Georges (fl. 1890), French phytopathologist and professor at the Agricultural School in Montpellier. 
+**Abbreviated name**: *Ge. Boyer*
 
 #### Herbarium and types
 

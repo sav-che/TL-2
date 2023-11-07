@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103683#page/306/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33212338) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thory, Claude Antoine (1759-1827), French polygraph, horticulturist and botanist, especially rhodologist; studied at the Collège de Lisieux; counsel at the French Parliament; clerk at the "Chambre criminelle" of the Paris court of justice; after 1789 dedicating himself to the natural sciences and literature, especially botany. (*Thory*).
+Thory, Claude Antoine (1759-1827), French polygraph, horticulturist and botanist, especially rhodologist; studied at the Collège de Lisieux; counsel at the French Parliament; clerk at the "Chambre criminelle" of the Paris court of justice; after 1789 dedicating himself to the natural sciences and literature, especially botany. 
+**Abbreviated name**: *Thory*
 
 #### Herbarium and types
 

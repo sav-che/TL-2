@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/item/103624#page/966/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/page/33190423) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rowlee, Willard Winfield (1861-1923), American botanist; D.L. Cornell 1888; Dr. sci. 1893; instructor of botany at Cornell University 1889-1893; assistant professor of botany 1896-1906; ordinary professor of botany 1906-1923. (*Rowlee*).
+Rowlee, Willard Winfield (1861-1923), American botanist; D.L. Cornell 1888; Dr. sci. 1893; instructor of botany at Cornell University 1889-1893; assistant professor of botany 1896-1906; ordinary professor of botany 1906-1923. 
+**Abbreviated name**: *Rowlee*
 
 #### Herbarium and types
 

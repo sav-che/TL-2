@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/item/104137#page/675/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Muller \[before 1937: Mueller\], Cornelius Herman (1909-x), American ecologist and botanist at the University of Texas and later at Santa Barbara; A.M. Univ. Texas 1933; specialist on *Quercus* (*C. Mull.*).
+Muller \[before 1937: Mueller\], Cornelius Herman (1909-x), American ecologist and botanist at the University of Texas and later at Santa Barbara; A.M. Univ. Texas 1933; specialist on *Quercus* 
+**Abbreviated name**: *C. Mull.*
 
 #### Herbarium and types
 

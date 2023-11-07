@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103835#page/71/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33260049) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dorofejew, Nikolai Jewdokim (fl. 1885), Russian botanist at Odessa. (*N.J. Dorof.*).
+Dorofejew, Nikolai Jewdokim (fl. 1885), Russian botanist at Odessa. 
+**Abbreviated name**: *N.J. Dorof.*
 
 #### Herbarium and types
 

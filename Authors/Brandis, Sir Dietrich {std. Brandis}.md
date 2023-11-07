@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103414#page/352/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33120435) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandis, (Sir) Dietrich {std. Brandis} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brandis, Sir Dietrich (1824-1907), German botanist, originally at Bonn, later Inspector-General of Forests, India, author on forestry and forest trees. (*Brandis*).
+Brandis, Sir Dietrich (1824-1907), German botanist, originally at Bonn, later Inspector-General of Forests, India, author on forestry and forest trees. 
+**Abbreviated name**: *Brandis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/item/103253#page/797/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lavallée, Pierre Alphonse Martin (1836-1884), French botanist and horticulturist at Segrez near Paris, "a gentleman of abundant means and of great public spirit". (*Lavall.*).
+Lavallée, Pierre Alphonse Martin (1836-1884), French botanist and horticulturist at Segrez near Paris, "a gentleman of abundant means and of great public spirit". 
+**Abbreviated name**: *Lavall.*
 
 #### Herbarium and types
 

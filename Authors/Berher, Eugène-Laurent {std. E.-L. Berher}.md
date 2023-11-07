@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103859#page/107/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berher, Eugène-Laurent (1822-1900), French (Épinal, Vosges) physician, botanist and librarian, born at Épinal, studied at the University of Paris, Dr. med. ib. 1850, settled again in Épinal, later adjunct librarian at the municipal library. (*E.-L. Berher*).
+Berher, Eugène-Laurent (1822-1900), French (Épinal, Vosges) physician, botanist and librarian, born at Épinal, studied at the University of Paris, Dr. med. ib. 1850, settled again in Épinal, later adjunct librarian at the municipal library. 
+**Abbreviated name**: *E.-L. Berher*
 
 #### Herbarium and types
 

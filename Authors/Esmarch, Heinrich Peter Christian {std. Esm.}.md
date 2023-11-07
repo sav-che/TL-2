@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103835#page/422/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33260400) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Esmarch, Heinrich Peter Christian (1745-1830), Danish botanist, born 21 Feb 1745 at Ulsnis in Angeln, became conrector in 1770 and rector in 1778 of the "Domschule" in Schleswig, 1807 Dr. phil. and professor in 1820, died at Schleswig 8 Mai 1830. (*Esm.*).
+Esmarch, Heinrich Peter Christian (1745-1830), Danish botanist, born 21 Feb 1745 at Ulsnis in Angeln, became conrector in 1770 and rector in 1778 of the "Domschule" in Schleswig, 1807 Dr. phil. and professor in 1820, died at Schleswig 8 Mai 1830. 
+**Abbreviated name**: *Esm.*
 
 #### Herbarium and types
 

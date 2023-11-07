@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103414#page/403/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33120486) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bronn, Heinrich Georg {std. Bronn} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bronn, Heinrich Georg (1800-1862), German biologist at Heidelberg. (*Bronn*).
+Bronn, Heinrich Georg (1800-1862), German biologist at Heidelberg. 
+**Abbreviated name**: *Bronn*
 
 #### Herbarium and types
 

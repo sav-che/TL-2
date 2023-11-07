@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/103250#page/608/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33066888) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zobel, August (1861-1934), German (Prussian) botanist at Dessau; studied at a teacher's seminary at Osterburg (Altmark); first teacher's exam. 1881; teacher at Wolfsburg 1881-1884, at Loedderitz 1884-1885; second teacher's exam. 1885; teacher and cantor at Güntersberge 1885-1900; high school teacher at Dessau 1900-1923. (*Zobel*).
+Zobel, August (1861-1934), German (Prussian) botanist at Dessau; studied at a teacher's seminary at Osterburg (Altmark); first teacher's exam. 1881; teacher at Wolfsburg 1881-1884, at Loedderitz 1884-1885; second teacher's exam. 1885; teacher and cantor at Güntersberge 1885-1900; high school teacher at Dessau 1900-1923. 
+**Abbreviated name**: *Zobel*
 
 #### Herbarium and types
 

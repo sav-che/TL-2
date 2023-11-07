@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103833#page/344/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33259378) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dietrich, Amalie \[née Nellen\] (1822-1891), German botanist, born at Siebenlehn (Sachsen), née Nellen, highly interested in natural history (chiefly botany), married A.W.S. Dietrich 1847, living some time in Bucarest, returned to Germany 1858, in Australia 1863-1873, returned to Hamburg, died 1891. (*Amalie Dietr.*).
+Dietrich, Amalie \[née Nellen\] (1822-1891), German botanist, born at Siebenlehn (Sachsen), née Nellen, highly interested in natural history (chiefly botany), married A.W.S. Dietrich 1847, living some time in Bucarest, returned to Germany 1858, in Australia 1863-1873, returned to Hamburg, died 1891. 
+**Abbreviated name**: *Amalie Dietr.*
 
 #### Herbarium and types
 

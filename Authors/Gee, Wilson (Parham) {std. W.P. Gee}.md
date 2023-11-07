@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103832#page/176/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33258642) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gee, Wilson \[Parham\] (1888-1961), American social scientist, born 18 Sep 1888 in Union, South Carolina, B.S. 1908 and hon. D.Sc. 1937 Clemson Agricultural College (now Univ.), South Carolina, M.A. 1910 Univ. of South Carolina, Ph.D. 1913 Univ. of Calif. at Berkeley, medical corps in France during W.W.-I, taught at Univ. of South Carolina, Univ. of Calif. and Emory Univ., Atlanta, Georgia, Prof. of Rural Social Economics and Rural Sociology, Univ. of Virginia, Charlottesville 1923-1959, published extensively on agriculture and rural economics of the South, Dr. h.c. 1938 Univ. of Alabama, died 1 Feb 1961 in Urbana, Illinois. (*W.P. Gee*).
+Gee, Wilson \[Parham\] (1888-1961), American social scientist, born 18 Sep 1888 in Union, South Carolina, B.S. 1908 and hon. D.Sc. 1937 Clemson Agricultural College (now Univ.), South Carolina, M.A. 1910 Univ. of South Carolina, Ph.D. 1913 Univ. of Calif. at Berkeley, medical corps in France during W.W.-I, taught at Univ. of South Carolina, Univ. of Calif. and Emory Univ., Atlanta, Georgia, Prof. of Rural Social Economics and Rural Sociology, Univ. of Virginia, Charlottesville 1923-1959, published extensively on agriculture and rural economics of the South, Dr. h.c. 1938 Univ. of Alabama, died 1 Feb 1961 in Urbana, Illinois. 
+**Abbreviated name**: *W.P. Gee*
 
 #### Note
 

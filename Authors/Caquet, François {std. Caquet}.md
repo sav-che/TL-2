@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103861#page/408/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33266705) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caquet, François (1857-?), French forester, born at Clarin, Nièvre, studied at the École nationale forestière, "directeur de la France agricole et forestière". (*Caquet*).
+Caquet, François (1857-?), French forester, born at Clarin, Nièvre, studied at the École nationale forestière, "directeur de la France agricole et forestière". 
+**Abbreviated name**: *Caquet*
 
 #### Herbarium and types
 

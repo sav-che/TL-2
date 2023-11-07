@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/item/103253#page/784/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33069000) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lapie, Georges (fl. 1914), French botanist. (*Lapie*).
+Lapie, Georges (fl. 1914), French botanist. 
+**Abbreviated name**: *Lapie*
 
 #### Herbarium and types
 

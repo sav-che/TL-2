@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/103253#page/770/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33068986) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lanessan, Jean Marie Antoine de \[Jean Louis de\] (1843-1919), French botanist. (*Laness.*).
+Lanessan, Jean Marie Antoine de \[Jean Louis de\] (1843-1919), French botanist. 
+**Abbreviated name**: *Laness.*
 
 #### Herbarium and types
 

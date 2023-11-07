@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103832#page/408/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33258874) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grindel, David Hieronymus \[Heinrich\] (1776-1836), Latvian druggist and doctor, born 28 Sep (=9 Oct n.s.) 1776 in Riga, studied at Jena, apothecary in Riga, then Prof. of Chemistry and Pharmacy, Univ. of Tartu 1804-1814, rector 1810-1812, returned to Tartu to study medicine 1820 and began practicing in Riga where he also owned a pharmacy 1822, one of the founders of the Riga Pharmaceutical Society 1803, received degrees from Dorpat where he taught, published several important textbooks on botany and chemistry for pharmacists and doctors, died 8 (=20 n.s.) Jan 1836 in Riga. (*D.H. Grindel*).
+Grindel, David Hieronymus \[Heinrich\] (1776-1836), Latvian druggist and doctor, born 28 Sep (=9 Oct n.s.) 1776 in Riga, studied at Jena, apothecary in Riga, then Prof. of Chemistry and Pharmacy, Univ. of Tartu 1804-1814, rector 1810-1812, returned to Tartu to study medicine 1820 and began practicing in Riga where he also owned a pharmacy 1822, one of the founders of the Riga Pharmaceutical Society 1803, received degrees from Dorpat where he taught, published several important textbooks on botany and chemistry for pharmacists and doctors, died 8 (=20 n.s.) Jan 1836 in Riga. 
+**Abbreviated name**: *D.H. Grindel*
 
 #### Herbarium and types
 

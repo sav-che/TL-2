@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103414#page/199/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33120282) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baxter, William {std. Baxter} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baxter, William (1787-1871), English gardener and cryptogamist, curator of the Oxford botanical garden (1813-1851). (*Baxter*).
+Baxter, William (1787-1871), English gardener and cryptogamist, curator of the Oxford botanical garden (1813-1851). 
+**Abbreviated name**: *Baxter*
 
 #### Herbarium and types
 

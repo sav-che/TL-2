@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/104137#page/466/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33355537) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meylan, Charles (1868-1941), Swiss cryptogamist at Lausanne, high school teacher at La Chaux nr. Ste.-Croix (Lausanne) 1888-1923; Dr. sci.h.c. Lausanne 1922. (*Meyl.*).
+Meylan, Charles (1868-1941), Swiss cryptogamist at Lausanne, high school teacher at La Chaux nr. Ste.-Croix (Lausanne) 1888-1923; Dr. sci.h.c. Lausanne 1922. 
+**Abbreviated name**: *Meyl.*
 
 #### Herbarium and types
 

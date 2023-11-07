@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103414#page/216/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33120299) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bélanger, Charles Paulus {std. Bél.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bélanger, Charles Paulus (1805-1881), French botanical explorer. (*Bél.*).
+Bélanger, Charles Paulus (1805-1881), French botanical explorer. 
+**Abbreviated name**: *Bél.*
 
 #### Herbarium and types
 

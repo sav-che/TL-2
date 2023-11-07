@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/item/104137#page/867/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 851](https://www.biodiversitylibrary.org/page/33355938) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Osbeck, Pehr (1723-1805), Swedish clergyman and botanist; chaplain with the Svenska Ostindiska Kompaniet, on the "Prins Carl" to the East, 1750-1752; ultimately village clergyman in Halland; Dr. theol. 1778. (*Osbeck*).
+Osbeck, Pehr (1723-1805), Swedish clergyman and botanist; chaplain with the Svenska Ostindiska Kompaniet, on the "Prins Carl" to the East, 1750-1752; ultimately village clergyman in Halland; Dr. theol. 1778. 
+**Abbreviated name**: *Osbeck*
 
 #### Herbarium and types
 

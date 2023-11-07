@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103858#page/383/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33265098) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bataille, Frédéric {std. Bataille}|first entry]] for this author
 
 ### Author
 
-\* Bataille, Frédéric (1850-1946), French highschool teacher and mycologist born at Mandeure (Doubs), nr. Besançon, teacher's training at the "École modèle" of Montbéliard; highschool teacher in Paris (Lycée de Vauves) until 1908; in retirement at Besançon, dedicating himself to the mycology of the Pays de Montbéliard. (*Bataille*).
+\* Bataille, Frédéric (1850-1946), French highschool teacher and mycologist born at Mandeure (Doubs), nr. Besançon, teacher's training at the "École modèle" of Montbéliard; highschool teacher in Paris (Lycée de Vauves) until 1908; in retirement at Besançon, dedicating himself to the mycology of the Pays de Montbéliard. 
+**Abbreviated name**: *Bataille*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103835#page/299/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33260277) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eisen, August Gustaf (Gustavus Augustus) (1847-1940), Swedish botanist and zoologist, born 2 Aug 1847 (1849 in Wittrock \[sic\]), studied biology from 1868, Dr. fil. and docent in zoology at Uppsala 1873 (1872?), migrated to North America, curator California Academy of Sciences (San Francisco) 1892-1900, Dr. hon. causa Uppsala in 1893, director biological institute San Francisco in 1905, died 29 Oct 1940 in New York. (*Eisen*).
+Eisen, August Gustaf (Gustavus Augustus) (1847-1940), Swedish botanist and zoologist, born 2 Aug 1847 (1849 in Wittrock \[sic\]), studied biology from 1868, Dr. fil. and docent in zoology at Uppsala 1873 (1872?), migrated to North America, curator California Academy of Sciences (San Francisco) 1892-1900, Dr. hon. causa Uppsala in 1893, director biological institute San Francisco in 1905, died 29 Oct 1940 in New York. 
+**Abbreviated name**: *Eisen*
 
 #### Herbarium and types
 

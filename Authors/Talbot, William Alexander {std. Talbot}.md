@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103683#page/165/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33212197) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Talbot, William Alexander (1847-1917), Irish botanist; in the Indian Forest Service 1876 in the Bombay Presidency; conservator of Forests, Bombay 1901-1909; in Switzerland from 1911. (*Talbot*).
+Talbot, William Alexander (1847-1917), Irish botanist; in the Indian Forest Service 1876 in the Bombay Presidency; conservator of Forests, Bombay 1901-1909; in Switzerland from 1911. 
+**Abbreviated name**: *Talbot*
 
 #### Herbarium and types
 

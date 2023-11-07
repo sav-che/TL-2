@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103861#page/301/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33266598) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buysson \[Viscount\], Robert du (fl. 1883-1893), French cryptogamist and entomologist at Moulins. (*Buyss.*).
+Buysson \[Viscount\], Robert du (fl. 1883-1893), French cryptogamist and entomologist at Moulins. 
+**Abbreviated name**: *Buyss.*
 
 #### Herbarium and types
 

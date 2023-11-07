@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103833#page/160/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33259194) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-De Friese, Lafayette Hoyt (1852-1928), American, born in Alabama, Harvard AB (law) 1876, Kentucky Geology Survey, bot. 1876-1881, member of law firm of Steele, de Friese & Steele, went to England in 1883 and for years practising international law in London, died 17 Jun 1928, San Francisco, California. (*De Friese*).
+De Friese, Lafayette Hoyt (1852-1928), American, born in Alabama, Harvard AB (law) 1876, Kentucky Geology Survey, bot. 1876-1881, member of law firm of Steele, de Friese & Steele, went to England in 1883 and for years practising international law in London, died 17 Jun 1928, San Francisco, California. 
+**Abbreviated name**: *De Friese*
 
 #### Herbarium and types
 

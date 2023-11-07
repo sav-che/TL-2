@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/item/103414#page/534/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chapman, Frederick (1864-1943), British palaeobiologist who worked in Australia. (*F. Chapman*).
+Chapman, Frederick (1864-1943), British palaeobiologist who worked in Australia. 
+**Abbreviated name**: *F. Chapman*
 
 #### Collections
 

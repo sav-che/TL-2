@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/item/103414#page/746/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33120829) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dumortier, Barthélemy Charles Joseph (also du Mortier) {std. Dumort.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dumortier, Barthélemy Charles Joseph \[Count\] (1797-1878), Belgian politician and botanist. (*Dumort.*).
+Dumortier, Barthélemy Charles Joseph \[Count\] (1797-1878), Belgian politician and botanist. 
+**Abbreviated name**: *Dumort.*
 
 #### Herbarium and types
 

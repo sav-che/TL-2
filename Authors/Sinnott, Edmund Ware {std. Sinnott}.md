@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 617](https://www.biodiversitylibrary.org/item/104077#page/631/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 617](https://www.biodiversitylibrary.org/page/33333756) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sinnott, Edmund Ware (1888-1968), American botanist; Dr. phil. Harvard 1913; Sheldon Fellow in Australia 1910-1911; at the Bussey Institution, Harvard with I.W. Bailey 1913-1915; professor of botany and genetics at the Connecticut Agricultural College at Storrs (later Univ. Connecticut) 1915-1928; professor of botany and chairman of the department at Barnard College, Columbia University 1928-1940; Sterling professor of botany and director of the Marsh Botanical Garden, Yale University 1940-1945; director of the Sheffield Scientific School, Yale Univ. 1945-1950; dean of the Graduate School 1950-1956. (*Sinnott*).
+Sinnott, Edmund Ware (1888-1968), American botanist; Dr. phil. Harvard 1913; Sheldon Fellow in Australia 1910-1911; at the Bussey Institution, Harvard with I.W. Bailey 1913-1915; professor of botany and genetics at the Connecticut Agricultural College at Storrs (later Univ. Connecticut) 1915-1928; professor of botany and chairman of the department at Barnard College, Columbia University 1928-1940; Sterling professor of botany and director of the Marsh Botanical Garden, Yale University 1940-1945; director of the Sheffield Scientific School, Yale Univ. 1945-1950; dean of the Graduate School 1950-1956. 
+**Abbreviated name**: *Sinnott*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/103833#page/297/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33259331) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dick, Robert (1811-1866), British baker and collector of fossils in the Thurso environment, self-taught, re-discovered holy grass. (*R. Dick*).
+Dick, Robert (1811-1866), British baker and collector of fossils in the Thurso environment, self-taught, re-discovered holy grass. 
+**Abbreviated name**: *R. Dick*
 
 #### Herbarium and types
 

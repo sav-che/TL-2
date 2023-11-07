@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103834#page/73/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33259555) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Farrow, Ernst Pickworth (fl. 1912-1941), British botanist and agriculturalist, B.S. Agriculture 1912, D. Sci. 1916 Univ. of London. (*Farrow*).
+Farrow, Ernst Pickworth (fl. 1912-1941), British botanist and agriculturalist, B.S. Agriculture 1912, D. Sci. 1916 Univ. of London. 
+**Abbreviated name**: *Farrow*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/item/103253#page/493/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jürgens, Georg Heinrich Bernard (1771-1846), German magistrate at Jever in Oldenburg, Friesian algologist. (*Jürg.*).
+Jürgens, Georg Heinrich Bernard (1771-1846), German magistrate at Jever in Oldenburg, Friesian algologist. 
+**Abbreviated name**: *Jürg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103861#page/261/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33266558) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burlingame, Leonas Lancelot (1876-1950), American botanist, born 25 Aug 1876 at Guernsey Co., Ohio, Ph.B. Ohio Northern 1901, fellow Chicago A.B. 1906, Ph.D. plant morphology 1908, professor biology and geology, Ohio Northern 1902-1904, assistant botanist Chicago 1906-1908, Stanford 1908-1909, asisst. professor 1909-1916, assoc. professor 1916-1925, professor 1925-1941, emer. professor from 1941. (*Burlingame*).
+Burlingame, Leonas Lancelot (1876-1950), American botanist, born 25 Aug 1876 at Guernsey Co., Ohio, Ph.B. Ohio Northern 1901, fellow Chicago A.B. 1906, Ph.D. plant morphology 1908, professor biology and geology, Ohio Northern 1902-1904, assistant botanist Chicago 1906-1908, Stanford 1908-1909, asisst. professor 1909-1916, assoc. professor 1916-1925, professor 1925-1941, emer. professor from 1941. 
+**Abbreviated name**: *Burlingame*
 
 #### Herbarium and types
 

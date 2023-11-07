@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103624#page/210/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33189667) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petersen, Johannes Boye (1887-1961), Danish algologist; assistant at the Polyteknisk Laereanstalt 1916-1929, lecturer ib. 1929-1951; (cryptogamic "amanuensis") at the Copenhagen botanic garden 1920-1951; professor of botany at Copenhagen University 1951-1958. (*J.B. Petersen*).
+Petersen, Johannes Boye (1887-1961), Danish algologist; assistant at the Polyteknisk Laereanstalt 1916-1929, lecturer ib. 1929-1951; (cryptogamic "amanuensis") at the Copenhagen botanic garden 1920-1951; professor of botany at Copenhagen University 1951-1958. 
+**Abbreviated name**: *J.B. Petersen*
 
 #### Herbarium and types
 

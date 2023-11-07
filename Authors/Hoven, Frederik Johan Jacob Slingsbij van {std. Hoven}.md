@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/item/103253#page/372/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33068588) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoven, Frederik Johan Jacob Slingsbij van (1815-1879), Dutch army physician and botanist at's Hertogenbosch (1844), later at Dordrecht; from 1866 at Helvoirt, from 1871-1879 at Vught. (*Hoven*).
+Hoven, Frederik Johan Jacob Slingsbij van (1815-1879), Dutch army physician and botanist at's Hertogenbosch (1844), later at Dordrecht; from 1866 at Helvoirt, from 1871-1879 at Vught. 
+**Abbreviated name**: *Hoven*
 
 #### Herbarium and types
 

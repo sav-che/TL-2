@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/item/104137#page/685/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33355756) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murray, Johan Andreas (Anders) (1740-1791), Swedish botanist; pupil of Linnaeus 1756-1760; studied at Göttingen 1760-1763; Dr. med. ib. 1763; professor of medicine and botany at Göttingen 1764 (ordin. 1769)-1791. (*J. A. Murray*).
+Murray, Johan Andreas (Anders) (1740-1791), Swedish botanist; pupil of Linnaeus 1756-1760; studied at Göttingen 1760-1763; Dr. med. ib. 1763; professor of medicine and botany at Göttingen 1764 (ordin. 1769)-1791. 
+**Abbreviated name**: *J. A. Murray*
 
 #### Herbarium and types
 

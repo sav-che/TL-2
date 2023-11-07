@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/104077#page/437/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33333562) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwartz, Oskar (1901-1945), German (Baltic German, Latvian-born) botanist; Dr. phil. Göttingen 1925; assistant at the Botanical Institute Göttingen 1924-1927; assistant at the Institut für Allgemeine Botanik 1927-1932; scientific assistant 1932-1943; curator of the herbarium 1943-1945; habil. Hamburg 1938; "Privatdocent" 1939-1945; on active service in World War ii 1941-1945. (*O. Schwartz*).
+Schwartz, Oskar (1901-1945), German (Baltic German, Latvian-born) botanist; Dr. phil. Göttingen 1925; assistant at the Botanical Institute Göttingen 1924-1927; assistant at the Institut für Allgemeine Botanik 1927-1932; scientific assistant 1932-1943; curator of the herbarium 1943-1945; habil. Hamburg 1938; "Privatdocent" 1939-1945; on active service in World War ii 1941-1945. 
+**Abbreviated name**: *O. Schwartz*
 
 #### Herbarium and types
 

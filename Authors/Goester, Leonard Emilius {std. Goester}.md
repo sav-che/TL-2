@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103832#page/284/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33258750) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goester, Leonard Emilius (1872-x), Dutch pharmacist and botanist, born in Montfoort, studied in Amsterdam. (*Goester*).
+Goester, Leonard Emilius (1872-x), Dutch pharmacist and botanist, born in Montfoort, studied in Amsterdam. 
+**Abbreviated name**: *Goester*
 
 #### Herbarium and types
 

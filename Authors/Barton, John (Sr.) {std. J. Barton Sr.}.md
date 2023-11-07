@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103858#page/363/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33265078) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barton, John \[Sr.\] (1798-1852), British botanist of Stoughton, Chichester, Sussex. (*J. Barton Sr.*).
+Barton, John \[Sr.\] (1798-1852), British botanist of Stoughton, Chichester, Sussex. 
+**Abbreviated name**: *J. Barton Sr.*
 
 #### Herbarium and types
 

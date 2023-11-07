@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103250#page/483/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33066763) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolff, Johann Friedrich (1778-1806), German (Bavarian) physician and botanist at Schweinfurt; Dr. med. Altorf 1801. (*J.F. Wolff*).
+Wolff, Johann Friedrich (1778-1806), German (Bavarian) physician and botanist at Schweinfurt; Dr. med. Altorf 1801. 
+**Abbreviated name**: *J.F. Wolff*
 
 #### Herbarium and types
 

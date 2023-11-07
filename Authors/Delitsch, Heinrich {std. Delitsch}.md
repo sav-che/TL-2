@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103833#page/193/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259227) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delitsch, Heinrich (1899-x), German botanist, born 15 April 1899 in Leipzig, 1904-1909 in "Dritte Höhere Bürgerschule" in Leipzig, 1909-1917 at the Königin-Carola-Gymnasium, from 1917 on at the University of Leipzig studying natural sciences, from December 1917 until June 1919 serving in the army, at the University of Leipzig 1923-1926, Dr. in mycology 1926, later bacteriologist at an institute in Kiel. (*Delitsch*).
+Delitsch, Heinrich (1899-x), German botanist, born 15 April 1899 in Leipzig, 1904-1909 in "Dritte Höhere Bürgerschule" in Leipzig, 1909-1917 at the Königin-Carola-Gymnasium, from 1917 on at the University of Leipzig studying natural sciences, from December 1917 until June 1919 serving in the army, at the University of Leipzig 1923-1926, Dr. in mycology 1926, later bacteriologist at an institute in Kiel. 
+**Abbreviated name**: *Delitsch*
 
 #### Herbarium and types
 

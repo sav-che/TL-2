@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103624#page/467/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33189924) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quélet, Lucien (1832-1899), French mycologist; Dr. med. Strasbourg 1856; practicing physician at Hérimoncourt (Doubs); founder and first president of the Société mycologique de France 1885; prix Desmazières 1878; prix Montagne 1886. (*Quél.*).
+Quélet, Lucien (1832-1899), French mycologist; Dr. med. Strasbourg 1856; practicing physician at Hérimoncourt (Doubs); founder and first president of the Société mycologique de France 1885; prix Desmazières 1878; prix Montagne 1886. 
+**Abbreviated name**: *Quél.*
 
 #### Herbarium and types
 

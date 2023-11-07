@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/item/103253#page/538/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33068754) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keck, David Daniels (1903-x); American botanist; Ph. D. Berkeley 1930; collaborated with Clausen and Hiesey in their pioneer experimental systematics at Stanford (1926-1950); specialist on *Penstemon*; head curator at the New York Bot. Gard. 1950-1959; at the National Science Foundation 1959-1970; subsequently living in New Zealand (1971-1976) and California (1976-x). (*D. Keck*).
+Keck, David Daniels (1903-x); American botanist; Ph. D. Berkeley 1930; collaborated with Clausen and Hiesey in their pioneer experimental systematics at Stanford (1926-1950); specialist on *Penstemon*; head curator at the New York Bot. Gard. 1950-1959; at the National Science Foundation 1959-1970; subsequently living in New Zealand (1971-1976) and California (1976-x). 
+**Abbreviated name**: *D. Keck*
 
 #### Herbarium and types
 

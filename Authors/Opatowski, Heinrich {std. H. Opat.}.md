@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/item/104137#page/855/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33355926) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Opatowski, Heinrich (1812-?), German physician and botanist in Saalfeld; Dr. med. Berlin 1838. (*H. Opat.*).
+Opatowski, Heinrich (1812-?), German physician and botanist in Saalfeld; Dr. med. Berlin 1838. 
+**Abbreviated name**: *H. Opat.*
 
 #### Herbarium and types
 

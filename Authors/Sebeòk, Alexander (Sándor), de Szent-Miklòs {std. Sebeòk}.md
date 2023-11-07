@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/104077#page/482/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33333607) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sebeòk, Alexander \[Sándor\], de Szent-Miklòs, (*fl*. 1981), Hungarian botanist; student of N.J. von Jacquin. (*Sebeòk*).
+Sebeòk, Alexander \[Sándor\], de Szent-Miklòs, (*fl*. 1981), Hungarian botanist; student of N.J. von Jacquin. 
+**Abbreviated name**: *Sebeòk*
 
 #### Herbarium and types
 

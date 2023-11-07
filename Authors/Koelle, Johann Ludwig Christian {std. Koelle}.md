@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/103253#page/624/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33068840) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koelle, Johann Ludwig Christian (1763-1797), German physician ("Medicinalrath") and botanist at Bayreuth. (*Koelle*).
+Koelle, Johann Ludwig Christian (1763-1797), German physician ("Medicinalrath") and botanist at Bayreuth. 
+**Abbreviated name**: *Koelle*
 
 #### Herbarium and types
 

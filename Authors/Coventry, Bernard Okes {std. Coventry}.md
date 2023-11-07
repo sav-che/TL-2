@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/item/103860#page/439/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33266106) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coventry, Bernard Okes (x-1929), British botanist in the Indian Forest Service, collected plants in Kashmir 1923-1925. (*Coventry*).
+Coventry, Bernard Okes (x-1929), British botanist in the Indian Forest Service, collected plants in Kashmir 1923-1925. 
+**Abbreviated name**: *Coventry*
 
 #### Herbarium and types
 

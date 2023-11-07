@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/103414#page/281/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33120364) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bleicher, Marie Gustave (1838-1901), French geologist and pharmacist, director of the Ecole de Pharmacie at Nancy. (*M. G. Bleicher*).
+Bleicher, Marie Gustave (1838-1901), French geologist and pharmacist, director of the Ecole de Pharmacie at Nancy. 
+**Abbreviated name**: *M. G. Bleicher*
 
 #### Collections
 

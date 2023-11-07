@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/item/103250#page/416/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33066696) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilson, William (1799-1871), British solicitor and bryologist at Manchester, later at Paddington near Warrington. (*W. Wils.*).
+Wilson, William (1799-1871), British solicitor and bryologist at Manchester, later at Paddington near Warrington. 
+**Abbreviated name**: *W. Wils.*
 
 #### Herbarium and types
 

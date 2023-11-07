@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/item/103414#page/936/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33121019) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fries, Elias Petrus {std. E.P. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fries, Elias Petrus (1834-1858), Swedish botanist, son of E. M. Fries. (*E. P. Fr.*).
+Fries, Elias Petrus (1834-1858), Swedish botanist, son of E. M. Fries. 
+**Abbreviated name**: *E. P. Fr.*
 
 #### Herbarium and types
 

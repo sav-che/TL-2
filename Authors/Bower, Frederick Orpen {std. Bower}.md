@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/item/103414#page/345/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33120428) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bower, Frederick Orpen {std. Bower} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bower, Frederick Orpen (1855-1948), British palaeontologist. (*Bower*).
+Bower, Frederick Orpen (1855-1948), British palaeontologist. 
+**Abbreviated name**: *Bower*
 
 #### Collections
 

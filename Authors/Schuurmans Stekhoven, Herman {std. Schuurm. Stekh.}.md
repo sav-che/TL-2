@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/104077#page/428/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33333553) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schuurmans Stekhoven, Herman (?\_1855), Dutch botanist; curator of the Leiden botanical garden. (*Schuurm. Stekh.*).
+Schuurmans Stekhoven, Herman (?\_1855), Dutch botanist; curator of the Leiden botanical garden. 
+**Abbreviated name**: *Schuurm. Stekh.*
 
 #### Herbarium and types
 

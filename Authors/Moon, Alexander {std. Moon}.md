@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/104137#page/582/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33355653) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moon, Alexander (x-1825), Scottish botanist and gardener for Kew, collected at Gibraltar and N. Africa (Barbary), superintendent of the royal botanic gardens in Ceylon (1817-1825). (*Moon*).
+Moon, Alexander (x-1825), Scottish botanist and gardener for Kew, collected at Gibraltar and N. Africa (Barbary), superintendent of the royal botanic gardens in Ceylon (1817-1825). 
+**Abbreviated name**: *Moon*
 
 #### Herbarium and types
 

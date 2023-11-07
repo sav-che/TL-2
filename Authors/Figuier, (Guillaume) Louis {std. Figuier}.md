@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103834#page/202/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33259684) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Figuier, \[Guillaume\] Louis (1819-1894), French physician, pharmacist, naturalist and author on all aspects of natural sciences, born 15 Feb 1819 in Montpellier, Dr. en médecine 1841 Montpellier, briefly in Paris at the Sorbonne, prof., School of Pharmacy, Montpellier 1846-1853, and Dr. ès-sciences physiques 1850 Toulouse, prof., School of Pharmacy, Paris 1853, abandoned teaching for writing popular science 1856, died 8 Nov 1894 (in Paris?). (*Figuier*).
+Figuier, \[Guillaume\] Louis (1819-1894), French physician, pharmacist, naturalist and author on all aspects of natural sciences, born 15 Feb 1819 in Montpellier, Dr. en médecine 1841 Montpellier, briefly in Paris at the Sorbonne, prof., School of Pharmacy, Montpellier 1846-1853, and Dr. ès-sciences physiques 1850 Toulouse, prof., School of Pharmacy, Paris 1853, abandoned teaching for writing popular science 1856, died 8 Nov 1894 (in Paris?). 
+**Abbreviated name**: *Figuier*
 
 #### Note
 

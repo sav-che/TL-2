@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/item/104077#page/783/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33333908) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spae, Dieudonné (1819-1858), Belgian horticulturist; assistant secretary of the Société royale d'agriculture et de botanique at Gent. (*Spae*).
+Spae, Dieudonné (1819-1858), Belgian horticulturist; assistant secretary of the Société royale d'agriculture et de botanique at Gent. 
+**Abbreviated name**: *Spae*
 
 #### Herbarium and types
 

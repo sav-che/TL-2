@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/103683#page/97/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33212129) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sullivan, David (1836-1895), Australian botanist and head master of the state school at Moyston, Victoria. (*Sullivan*).
+Sullivan, David (1836-1895), Australian botanist and head master of the state school at Moyston, Victoria. 
+**Abbreviated name**: *Sullivan*
 
 #### Herbarium and types
 

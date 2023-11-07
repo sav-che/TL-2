@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103858#page/377/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33265092) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Basiner, Theodor Friedrich Julius (1817-1862), Esthonian (Livonian) botanist, studied natural sciences at the University of Dorpat, employed by the Imperial Botanical Garden St. Petersburg 1841, travelled in European and Asiatic Russia 1841-1843 (to Chiwa), curator of the Imperial Botanical Garden 1843, later librarian and secretary for foreign activities id., agricultural inspector in Southern Russia 1849, curator of the Kiew Arboretum 1851-1862, travelled in Western Europe 1860, went to Vienna for health reasons 1862, Dr. phil. Königsberg 1848. (*Basiner*).
+Basiner, Theodor Friedrich Julius (1817-1862), Esthonian (Livonian) botanist, studied natural sciences at the University of Dorpat, employed by the Imperial Botanical Garden St. Petersburg 1841, travelled in European and Asiatic Russia 1841-1843 (to Chiwa), curator of the Imperial Botanical Garden 1843, later librarian and secretary for foreign activities id., agricultural inspector in Southern Russia 1849, curator of the Kiew Arboretum 1851-1862, travelled in Western Europe 1860, went to Vienna for health reasons 1862, Dr. phil. Königsberg 1848. 
+**Abbreviated name**: *Basiner*
 
 #### Herbarium and types
 

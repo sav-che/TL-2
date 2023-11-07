@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/item/104077#page/485/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33333610) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Secondat, Jean Baptiste baron de (1716-1796), French botanist. (*Secondat*).
+Secondat, Jean Baptiste baron de (1716-1796), French botanist. 
+**Abbreviated name**: *Secondat*
 
 #### Herbarium and types
 

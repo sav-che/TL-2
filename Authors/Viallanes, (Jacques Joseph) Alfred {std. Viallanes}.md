@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/item/103683#page/731/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33212763) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Viallanes, \[Jacques Joseph\] Alfred (1828-1899), French botanist; state exam. pharm. 1854; pharmacist at Dijon 1854-1862; teacher for pharmacy and toxicology at the Dijon medical and pharmaceutical school 1862-1864, for natural history 1866-1879; professor of pharmacy and materia medica ib. 1879-1898. (*Viallanes*).
+Viallanes, \[Jacques Joseph\] Alfred (1828-1899), French botanist; state exam. pharm. 1854; pharmacist at Dijon 1854-1862; teacher for pharmacy and toxicology at the Dijon medical and pharmaceutical school 1862-1864, for natural history 1866-1879; professor of pharmacy and materia medica ib. 1879-1898. 
+**Abbreviated name**: *Viallanes*
 
 #### Herbarium and types
 

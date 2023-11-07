@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/item/103253#page/557/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kersten, Otto (1839-1900), German botanist, participated with Hermann Linck in the Decken expedition (1862-1865); collected later in the Mediterranean area. (*Kerst.*).
+Kersten, Otto (1839-1900), German botanist, participated with Hermann Linck in the Decken expedition (1862-1865); collected later in the Mediterranean area. 
+**Abbreviated name**: *Kerst.*
 
 #### Herbarium and types
 

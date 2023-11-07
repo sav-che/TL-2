@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/item/104077#page/727/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33333852) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sobolewskiy, Gregor \[Grigoriy Fedorowich\] (1741-1807), Russian physician and botanist; studied at the St. Petersburg General Land Hospital 1757; local practicioner's examination 1761; studied in Paris and Leiden; Dr. med. Leiden 1775; general practitioner's examination 1777; practicing physician and lecturer in materia medica and botany at St. Petersburg, in charge of the Botanical Garden 1779, physician to the guards' regiment 1782-1797, professor of botany at the Academy of medicine and surgery 1795-1803. (*Sobol.*).
+Sobolewskiy, Gregor \[Grigoriy Fedorowich\] (1741-1807), Russian physician and botanist; studied at the St. Petersburg General Land Hospital 1757; local practicioner's examination 1761; studied in Paris and Leiden; Dr. med. Leiden 1775; general practitioner's examination 1777; practicing physician and lecturer in materia medica and botany at St. Petersburg, in charge of the Botanical Garden 1779, physician to the guards' regiment 1782-1797, professor of botany at the Academy of medicine and surgery 1795-1803. 
+**Abbreviated name**: *Sobol.*
 
 #### Herbarium and types
 

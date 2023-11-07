@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103683#page/273/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33212305) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thijsse, Jacobus Pieter (1863-1945), Dutch naturalist and schoolteacher at Amsterdam 1883-1890; at De Burg, Texel 1890-1892; director of a school in Amsterdam 1892-1901; teacher at the Amsterdam municipal teachers college 1901-1921; high school teacher at the Kennemer Lyceum, Bloemendaal 1921-1930; from 1930 in retirement; Dr. phil. h.c. Amsterdam 1922; pioneer conservationist and popularizer of natural history in the Netherlands. (*Thijsse*).
+Thijsse, Jacobus Pieter (1863-1945), Dutch naturalist and schoolteacher at Amsterdam 1883-1890; at De Burg, Texel 1890-1892; director of a school in Amsterdam 1892-1901; teacher at the Amsterdam municipal teachers college 1901-1921; high school teacher at the Kennemer Lyceum, Bloemendaal 1921-1930; from 1930 in retirement; Dr. phil. h.c. Amsterdam 1922; pioneer conservationist and popularizer of natural history in the Netherlands. 
+**Abbreviated name**: *Thijsse*
 
 #### Herbarium and types
 

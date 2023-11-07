@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103624#page/474/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rabenhorst, Gottlob Ludwig (1806-1881), German (Brandenburg, Prussian) cryptogamist; founder of Hedwigia; studied pharmacy in Belzig and Berlin 1822-1830; pharmacist at Luckau 1831-1840; Dr. phil. Jena 1841; "Privatgelehrter" dedicating himself entirely to cryptogamy at Dresden 1840-1875, at Meissen 1875-1881; outstanding collector; published numerous extensive series of cryptogamae exsiccatae. (*Rabenh.*).
+Rabenhorst, Gottlob Ludwig (1806-1881), German (Brandenburg, Prussian) cryptogamist; founder of Hedwigia; studied pharmacy in Belzig and Berlin 1822-1830; pharmacist at Luckau 1831-1840; Dr. phil. Jena 1841; "Privatgelehrter" dedicating himself entirely to cryptogamy at Dresden 1840-1875, at Meissen 1875-1881; outstanding collector; published numerous extensive series of cryptogamae exsiccatae. 
+**Abbreviated name**: *Rabenh.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/item/103860#page/497/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33266164) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cruse, Carl Friedrich Wilhelm {std. Cruse}|first entry]] for this author
 
 ### Author
 
-\* Cruse, \[Carl Friedrich\] Wilhelm (1803-1873), German (born in Mitau (Latvia)) physician and botanist, professor in the University of Königsberg. (*Cruse*).
+\* Cruse, \[Carl Friedrich\] Wilhelm (1803-1873), German (born in Mitau (Latvia)) physician and botanist, professor in the University of Königsberg. 
+**Abbreviated name**: *Cruse*
 
 #### Herbarium and types
 

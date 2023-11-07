@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/item/103858#page/342/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33265057) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barnes, Bertie Frank (1888-1965), British mycologist, demonstrator, later lecturer in botany, Birkbeck College 1922-1933; PH.D. 1928, head Department of Biology, Chelsea Polytechnic 1934-1952. (*B.F. Barnes*).
+Barnes, Bertie Frank (1888-1965), British mycologist, demonstrator, later lecturer in botany, Birkbeck College 1922-1933; PH.D. 1928, head Department of Biology, Chelsea Polytechnic 1934-1952. 
+**Abbreviated name**: *B.F. Barnes*
 
 #### Herbarium and types
 

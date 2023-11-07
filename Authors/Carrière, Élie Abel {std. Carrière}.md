@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/103414#page/507/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33120590) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carrière, Élie-Abel {std. Carrière} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Carrière, Élie Abel (1818-1896), French horticulturist at Paris. (*Carrière*).
+Carrière, Élie Abel (1818-1896), French horticulturist at Paris. 
+**Abbreviated name**: *Carrière*
 
 #### Herbarium and types
 

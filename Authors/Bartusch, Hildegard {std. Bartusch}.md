@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103858#page/371/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33265086) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bartusch, Hildegard (fl. 1931), German lichenologist, Dr. rer. techn. Technical University Dresden; student of the lichenologist F. Tobler. (*Bartusch*).
+Bartusch, Hildegard (fl. 1931), German lichenologist, Dr. rer. techn. Technical University Dresden; student of the lichenologist F. Tobler. 
+**Abbreviated name**: *Bartusch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/item/103250#page/601/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33066881) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zimmermann, Johann Georg von (1728-1795), Swiss physician and botanist; studied medicine in Göttingen and Bern; practicing physician; royal physician at Hannover 1768, later also in St. Petersburg and Potsdam, at the same time writer on political, social and philosophical issues. (*J.G. Zimmerm.*).
+Zimmermann, Johann Georg von (1728-1795), Swiss physician and botanist; studied medicine in Göttingen and Bern; practicing physician; royal physician at Hannover 1768, later also in St. Petersburg and Potsdam, at the same time writer on political, social and philosophical issues. 
+**Abbreviated name**: *J.G. Zimmerm.*
 
 #### Herbarium and types
 

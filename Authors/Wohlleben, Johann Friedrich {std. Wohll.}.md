@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103250#page/478/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33066758) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wohlleben, Johann Friedrich (x-1796), German (Westphalen) botanist; physician in Halle; Dr. med. Halle 1796. (*Wohll.*).
+Wohlleben, Johann Friedrich (x-1796), German (Westphalen) botanist; physician in Halle; Dr. med. Halle 1796. 
+**Abbreviated name**: *Wohll.*
 
 #### Herbarium and types
 

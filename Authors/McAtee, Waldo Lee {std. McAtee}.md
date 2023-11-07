@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/104137#page/225/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33355296) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McAtee, Waldo Lee (1883-x), American entomologist, botanist and ornithologist, A. M. Indiana Univ. 1906; with USDA in various functions 1904-1947. (*McAtee*).
+McAtee, Waldo Lee (1883-x), American entomologist, botanist and ornithologist, A. M. Indiana Univ. 1906; with USDA in various functions 1904-1947. 
+**Abbreviated name**: *McAtee*
 
 #### Herbarium and types
 

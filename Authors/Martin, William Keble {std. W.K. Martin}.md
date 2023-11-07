@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/104137#page/337/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martin, William Keble (1877-1969), British clergyman, botanist and botanical artist; MA Oxon 1899; curate 1902-1909; vicar, Wath-upon-Dearne, Rotherham 1909-1921; rector Haccombe, Devon, 1921-1934; Great Torrington 1934-1943; Combe-in-Teignhead 1943-1949. (*W. K. Martin*).
+Martin, William Keble (1877-1969), British clergyman, botanist and botanical artist; MA Oxon 1899; curate 1902-1909; vicar, Wath-upon-Dearne, Rotherham 1909-1921; rector Haccombe, Devon, 1921-1934; Great Torrington 1934-1943; Combe-in-Teignhead 1943-1949. 
+**Abbreviated name**: *W. K. Martin*
 
 #### Herbarium and types
 

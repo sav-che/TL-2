@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103414#page/255/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33120338) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Besler, Basilius (1561-1629), German apothecary and botanist. (*Besler*).
+Besler, Basilius (1561-1629), German apothecary and botanist. 
+**Abbreviated name**: *Besler*
 
 #### Herbarium and types
 

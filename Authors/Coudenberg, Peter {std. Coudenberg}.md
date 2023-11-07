@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/item/103414#page/606/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33120689) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coudenberg, Peter (*fl*. 1566), Belgian apothecary at Antwerp, correspondent of Clusius. (*Coudenberg*).
+Coudenberg, Peter (*fl*. 1566), Belgian apothecary at Antwerp, correspondent of Clusius. 
+**Abbreviated name**: *Coudenberg*
 
 #### Herbarium
 

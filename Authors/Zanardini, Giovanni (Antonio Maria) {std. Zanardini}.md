@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/item/103250#page/576/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33066856) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zanardini, Giovanni \[Antonio Maria\] (1804-1878), Italian physician and botanist; Dr. med. Padova 1831, Dr. chir. obstet. Pavia 1934; practicing physician in Padova and Venezia; secretary at the R. Istituto Veneto di Scienze e Lettere, (*Zanardini*).
+Zanardini, Giovanni \[Antonio Maria\] (1804-1878), Italian physician and botanist; Dr. med. Padova 1831, Dr. chir. obstet. Pavia 1934; practicing physician in Padova and Venezia; secretary at the R. Istituto Veneto di Scienze e Lettere, 
+**Abbreviated name**: *Zanardini*
 
 #### Herbarium and types
 

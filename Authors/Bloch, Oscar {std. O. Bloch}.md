@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103859#page/225/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33265412) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bloch, Oscar (1856-?), German (Neisse) botanist educated at the Realschule 1. Ordn. in Neisse 1867-1875, studied at the University of Leipzig 1875-1876, and at the University of Berlin 1876-1880, teacher at a private school in Berlin. (*O. Bloch*).
+Bloch, Oscar (1856-?), German (Neisse) botanist educated at the Realschule 1. Ordn. in Neisse 1867-1875, studied at the University of Leipzig 1875-1876, and at the University of Berlin 1876-1880, teacher at a private school in Berlin. 
+**Abbreviated name**: *O. Bloch*
 
 #### Herbarium and types
 

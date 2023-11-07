@@ -1,10 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/item/103624#page/983/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33190440) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudbeck, Olaus \[Olof\] Olai (1660-1740), Swedish physician and botanist; Dr. med. Utrecht 1690; professor of anatomy Uppsala 1690, and botany 1691, succeeding his father, O.J. Rudbeck; full professor 1702; director of the botanical garden 1691-1740; "arkiater" 1739; travelled in Lappland 1695; teacher of Linnaeus. (*O.O. Rudbeck*).
-
+Rudbeck, Olaus \[Olof\] Olai (1660-1740), Swedish physician and botanist; Dr. med. Utrecht 1690; professor of anatomy Uppsala 1690, and botany 1691, succeeding his father, O.J. Rudbeck; full professor 1702; director of the botanical garden 1691-1740; "arkiater" 1739; travelled in Lappland 1695; teacher of Linnaeus. 
+**Abbreviated name**: *O.O. Rudbeck*
 **Alternate abbreviation:** (*Rudbeck Jr.*)
 
 #### Herbarium and types

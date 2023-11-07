@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/item/103683#page/565/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33212597) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tutcher, William James (1867-1920), British gardener and botanist; "young gardener" subsequently "sub-foreman" at Kew 1888-1891; assistant superintendent botanical and forestry department Hongkong 1901, superintendent 1910-1920. (*Tutcher*).
+Tutcher, William James (1867-1920), British gardener and botanist; "young gardener" subsequently "sub-foreman" at Kew 1888-1891; assistant superintendent botanical and forestry department Hongkong 1901, superintendent 1910-1920. 
+**Abbreviated name**: *Tutcher*
 
 #### Herbarium and types
 

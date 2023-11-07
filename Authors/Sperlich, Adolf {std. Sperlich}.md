@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/item/104077#page/801/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sperlich, Adolf (1879-1963), Austrian botanist; Dr. phil. Innsbrück 1902; habil. Univ. Innsbrück 1908; lecturer (Privat-Dozent) 1908-1914; extra-ordinary professor of botany at the University of Innsbrück 1914-1928; ordinary professor 1928-; director of the botanical garden of the University of Innsbrück from 1928. (*Sperlich*).
+Sperlich, Adolf (1879-1963), Austrian botanist; Dr. phil. Innsbrück 1902; habil. Univ. Innsbrück 1908; lecturer (Privat-Dozent) 1908-1914; extra-ordinary professor of botany at the University of Innsbrück 1914-1928; ordinary professor 1928-; director of the botanical garden of the University of Innsbrück from 1928. 
+**Abbreviated name**: *Sperlich*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 909](https://www.biodiversitylibrary.org/item/103414#page/957/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 909](https://www.biodiversitylibrary.org/page/33121040) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gandoger, (Jean) Michel (Abbé) {std. Gand.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gandoger, Michel (1850-1926), French botanist, one of the greatest "splitters" ever, plant collector, and rhodologist. (*Gand.*).
+Gandoger, Michel (1850-1926), French botanist, one of the greatest "splitters" ever, plant collector, and rhodologist. 
+**Abbreviated name**: *Gand.*
 
 #### Herbarium and types
 

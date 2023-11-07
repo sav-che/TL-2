@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/item/104077#page/839/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33333964) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stadelmeyer, Ernst (*fl*. 1840), German (Bavarian) physician and botanist; Dr. med. 1840. (*Stadelm.*).
+Stadelmeyer, Ernst (*fl*. 1840), German (Bavarian) physician and botanist; Dr. med. 1840. 
+**Abbreviated name**: *Stadelm.*
 
 #### Herbarium and types
 

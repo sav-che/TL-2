@@ -1,12 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103414#page/358/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33120441) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Braun-Blanquet, Josias (early Josias Braun) {std. Braun-Blanq.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Braun-Blanquet, Josias (1884-x), Swiss born phytosociologist at Montpellier, founder of the French-Swiss school of phytosociologists and of SIGMA. (*Braun-Blanq.*).
-
+Braun-Blanquet, Josias (1884-x), Swiss born phytosociologist at Montpellier, founder of the French-Swiss school of phytosociologists and of SIGMA. 
+**Abbreviated name**: *Braun-Blanq.*
 **Alternate abbreviation:** (*Br. Bl.*)
 
 #### Herbarium and types

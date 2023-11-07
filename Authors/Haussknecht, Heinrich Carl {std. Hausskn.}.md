@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103253#page/129/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33068345) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haussknecht, Heinrich Carl (1838-1903), German botanist of independent means at Weimar; botanical explorer of the Orient. (*Hausskn.*).
+Haussknecht, Heinrich Carl (1838-1903), German botanist of independent means at Weimar; botanical explorer of the Orient. 
+**Abbreviated name**: *Hausskn.*
 
 #### Herbarium and types
 

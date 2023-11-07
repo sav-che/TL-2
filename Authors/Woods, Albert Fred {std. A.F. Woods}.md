@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103250#page/504/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33066784) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woods, Albert Fred (1866-1948), American botanist; B.Sc. Univ. Nebraska 1890, M.A. ib. 1892; assistant ib. 1890-1893; with USDA as pathologist in the Division of vegetable Physiology and Pathology 1893-1900, and the Bureau of Plant Industry 1900-1910; dean of Minnesota State Agricultural College and director of its Experimental Station 1901-1917; president of Maryland State College 1917, from 1920-1926 id. of the University of Maryland; director of scientific work USDA 1926-1934, director of its graduate school 1926-1941, educational adviser 1941-1947. (*A.F. Woods*).
+Woods, Albert Fred (1866-1948), American botanist; B.Sc. Univ. Nebraska 1890, M.A. ib. 1892; assistant ib. 1890-1893; with USDA as pathologist in the Division of vegetable Physiology and Pathology 1893-1900, and the Bureau of Plant Industry 1900-1910; dean of Minnesota State Agricultural College and director of its Experimental Station 1901-1917; president of Maryland State College 1917, from 1920-1926 id. of the University of Maryland; director of scientific work USDA 1926-1934, director of its graduate school 1926-1941, educational adviser 1941-1947. 
+**Abbreviated name**: *A.F. Woods*
 
 #### Herbarium and types
 

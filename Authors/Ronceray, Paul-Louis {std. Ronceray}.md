@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/item/103624#page/891/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ronceray, Paul-Louis (1875-1953 (?)), French pharmacist; Dr. pharm. Univ. Paris 1904; Dr. med. ibid. 1911. (*Ronceray*).
+Ronceray, Paul-Louis (1875-1953 (?)), French pharmacist; Dr. pharm. Univ. Paris 1904; Dr. med. ibid. 1911. 
+**Abbreviated name**: *Ronceray*
 
 #### Herbarium and types
 

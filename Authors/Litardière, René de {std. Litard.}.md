@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/item/104137#page/136/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33355207) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Litardière, René de (1888-1957), French botanist; Lic. Sci. Univ. Poitiers 1908, Dr. Sci. nat. Paris 1921; 1920-1931 at the University of Lille, from 1931-1954 at the Faculté des Sciences, Grenoble; retired at Mazières-en-Gâtine; botanical explorer of Corsica. (*Litard.*).
+Litardière, René de (1888-1957), French botanist; Lic. Sci. Univ. Poitiers 1908, Dr. Sci. nat. Paris 1921; 1920-1931 at the University of Lille, from 1931-1954 at the Faculté des Sciences, Grenoble; retired at Mazières-en-Gâtine; botanical explorer of Corsica. 
+**Abbreviated name**: *Litard.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/103860#page/29/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265696) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cels, François (1771-1832), French horticulturist, son of Jacques Philippe Martin Cels (1740-1806), moved his father’s "établissement" to the Avenue de Maine (h.t. rue Cels), dealing mostly with ornamental plants. (*F. Cels*).
+Cels, François (1771-1832), French horticulturist, son of Jacques Philippe Martin Cels (1740-1806), moved his father’s "établissement" to the Avenue de Maine (h.t. rue Cels), dealing mostly with ornamental plants. 
+**Abbreviated name**: *F. Cels*
 
 #### Herbarium and types
 

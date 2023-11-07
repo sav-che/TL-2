@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103253#page/77/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33068293) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hara, Kanesuke (1885-1962), Japanese mycologist and plant pathologist. (*K. Hara*).
+Hara, Kanesuke (1885-1962), Japanese mycologist and plant pathologist. 
+**Abbreviated name**: *K. Hara*
 
 #### Herbarium and types
 

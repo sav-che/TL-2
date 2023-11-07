@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103250#page/157/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33066437) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watson, Elba Emanuel (1871-1936), American high school teacher and botanist; BL Univ. Mich. 1895, AM 1918; teacher in schools in Michigan, New York and Germany between 1895-1916; assistant in botany Univ. Michigan 1917-1919; id. Univ. of Illinois 1919. (*E. Wats.*).
+Watson, Elba Emanuel (1871-1936), American high school teacher and botanist; BL Univ. Mich. 1895, AM 1918; teacher in schools in Michigan, New York and Germany between 1895-1916; assistant in botany Univ. Michigan 1917-1919; id. Univ. of Illinois 1919. 
+**Abbreviated name**: *E. Wats.*
 
 #### Herbarium and types
 

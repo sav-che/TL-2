@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/103833#page/142/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33259176) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-De Bonis, Antonio (1862-1901), Italian botanist, born at Rovizo, Italy, died Mai 1901. (*De Bonis*).
+De Bonis, Antonio (1862-1901), Italian botanist, born at Rovizo, Italy, died Mai 1901. 
+**Abbreviated name**: *De Bonis*
 
 #### Herbarium and types
 

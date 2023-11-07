@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103414#page/457/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33120540) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buniva, Michele Francesco (1761-1834), Italian botanist. (*Buniva*).
+Buniva, Michele Francesco (1761-1834), Italian botanist. 
+**Abbreviated name**: *Buniva*
 
 #### Herbarium and types
 

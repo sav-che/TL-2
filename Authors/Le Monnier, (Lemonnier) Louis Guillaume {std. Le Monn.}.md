@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/item/103253#page/868/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33069084) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Le Monnier, \[Lemonnier\] Louis Guillaume (1717-1799), French botanist at Paris, pupil of Bernard de Jussieu, state physician, professor of botany at the Jardin du Roi (1758-1786), sent Michaux to the Near East, Aublet to Guyana, Desfontaines to North Africa and Labillardière to the Lebanon. (*Le Monn.*).
+Le Monnier, \[Lemonnier\] Louis Guillaume (1717-1799), French botanist at Paris, pupil of Bernard de Jussieu, state physician, professor of botany at the Jardin du Roi (1758-1786), sent Michaux to the Near East, Aublet to Guyana, Desfontaines to North Africa and Labillardière to the Lebanon. 
+**Abbreviated name**: *Le Monn.*
 
 #### Herbarium and types
 

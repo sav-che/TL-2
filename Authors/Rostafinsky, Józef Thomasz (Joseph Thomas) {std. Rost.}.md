@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 908](https://www.biodiversitylibrary.org/item/103624#page/922/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 908](https://www.biodiversitylibrary.org/page/33190379) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rostafinsky, Józef Thomasz (Joseph Thomas) (1850-1928), Polish botanist, born in Warsaw; studied in Jena 1869-1870, Halle 1870-1872 and Strassburg 1872-1873; Dr. phil. Strassburg 1872-1873; Dr. phil. Strassburg (with A. de Bary) 1873; assistant ib. 1873-1876; lecturer at the University of Cracow 1876, e.o. professor of botany 1878, regular professor and director of the botanic garden 1881-1912. (*Rost.*).
+Rostafinsky, Józef Thomasz (Joseph Thomas) (1850-1928), Polish botanist, born in Warsaw; studied in Jena 1869-1870, Halle 1870-1872 and Strassburg 1872-1873; Dr. phil. Strassburg 1872-1873; Dr. phil. Strassburg (with A. de Bary) 1873; assistant ib. 1873-1876; lecturer at the University of Cracow 1876, e.o. professor of botany 1878, regular professor and director of the botanic garden 1881-1912. 
+**Abbreviated name**: *Rost.*
 
 #### Herbarium and types
 

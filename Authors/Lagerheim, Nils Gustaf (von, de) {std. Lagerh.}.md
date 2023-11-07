@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/item/103253#page/748/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33068964) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lagerheim, Nils Gustaf (von, de) (1860-1926), Swedish microbiologist and cryptogamic botanist; Dr. phil. h.c. Uppsala 1893; Dr. jur. h.c. St. Andrews 1911; at Lisboa 1889; at the University of Quito, Equador 1892-1895; at Tromsö 1892; from 1895-1925 professor of botany at Stockholm. (*Lagerh.*).
+Lagerheim, Nils Gustaf (von, de) (1860-1926), Swedish microbiologist and cryptogamic botanist; Dr. phil. h.c. Uppsala 1893; Dr. jur. h.c. St. Andrews 1911; at Lisboa 1889; at the University of Quito, Equador 1892-1895; at Tromsö 1892; from 1895-1925 professor of botany at Stockholm. 
+**Abbreviated name**: *Lagerh.*
 
 #### Herbarium and types
 

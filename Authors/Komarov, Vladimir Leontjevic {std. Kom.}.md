@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/103253#page/637/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33068853) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Komarov, Vladimir Leontjevic (1869-1945), Russian botanist. (*Kom.*).
+Komarov, Vladimir Leontjevic (1869-1945), Russian botanist. 
+**Abbreviated name**: *Kom.*
 
 #### Herbarium and types
 

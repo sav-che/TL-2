@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103835#page/188/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33260166) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durand, Elias Judah (1870-1922), American botanist, born 20 Mar 1870, Canadaigua, N.Y., was educated at Cornell University (AB in 1893, DSci. in 1895), where he taught botany until 1910, went to University of Missouri as assoc. professor 1910-1918, from 1918-1922 professor of botany at the University of Minnesota, died 29 Oct 1922 at St. Paul, Minnesota. (*E.J. Durand*).
+Durand, Elias Judah (1870-1922), American botanist, born 20 Mar 1870, Canadaigua, N.Y., was educated at Cornell University (AB in 1893, DSci. in 1895), where he taught botany until 1910, went to University of Missouri as assoc. professor 1910-1918, from 1918-1922 professor of botany at the University of Minnesota, died 29 Oct 1922 at St. Paul, Minnesota. 
+**Abbreviated name**: *E.J. Durand*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/104137#page/163/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33355234) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loiseleur-Deslongchamps, Jean Louis Auguste (1774-1849), French physician and botanist; in the French armée des Alpes 1793-1797; Dr. med. Paris 1806; physician at the "bureau de charité du neuvième arrondissement" later working mainly on botany. (*Loisel.*).
+Loiseleur-Deslongchamps, Jean Louis Auguste (1774-1849), French physician and botanist; in the French armée des Alpes 1793-1797; Dr. med. Paris 1806; physician at the "bureau de charité du neuvième arrondissement" later working mainly on botany. 
+**Abbreviated name**: *Loisel.*
 
 #### Herbarium and types
 

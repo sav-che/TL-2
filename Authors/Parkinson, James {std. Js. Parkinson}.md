@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103624#page/76/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33189533) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parkinson, James (1755-1824), English surgeon, apothecary and palaeontologist at Hoxton, East London. (*Js. Parkinson*).
+Parkinson, James (1755-1824), English surgeon, apothecary and palaeontologist at Hoxton, East London. 
+**Abbreviated name**: *Js. Parkinson*
 
 #### Collections
 

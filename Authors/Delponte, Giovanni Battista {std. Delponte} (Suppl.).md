@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/103833#page/204/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33259238) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delponte, Giovanni Battista {std. Delponte}|first entry]] for this author
 
 ### Author
 
-\* Delponte, Giovanni Battista (1812-1884), Italian botanist, born at Mombaruzzo, Piemont 2 Aug 1812, studied medicine at Torino, ib. dr. phil. 1832, repetitor for medical studies, 1839-1841 as assistant, latin thesis to become teacher 1841, substitute for Moris 1848-1869, took the place of Moris 1869-1879, died 19 Mai 1884 at Mombaruzzo. (*Delponte*).
+\* Delponte, Giovanni Battista (1812-1884), Italian botanist, born at Mombaruzzo, Piemont 2 Aug 1812, studied medicine at Torino, ib. dr. phil. 1832, repetitor for medical studies, 1839-1841 as assistant, latin thesis to become teacher 1841, substitute for Moris 1848-1869, took the place of Moris 1869-1879, died 19 Mai 1884 at Mombaruzzo. 
+**Abbreviated name**: *Delponte*
 
 #### Herbarium and types
 

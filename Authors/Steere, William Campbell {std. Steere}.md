@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/item/104077#page/877/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33334002) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steere, William Campbell (1907-x), American botanist; Dr. phil. Univ. Mich. 1932; instructor in botany Univ. Mich. 1931-1936, asst. prof. 1936-1942, assoc. prof. 1942-1946, full prof. 1946-1950; chairman Botany Dept. 1947-1950; prof. Biol. Stanford Univ. 1950-1958, with National Science Foundation 1954-1955; Dean Graduate Div., Stanford Univ., 1955-1958; director New York Botanical Garden 1958-1968, exec. dir. 1968-1970, president 1970-1972, president emeritus 1973-x; leading bryologist and specialist on arctic and tropical American bryology; Dr. sci. h.c. Univ. Montreal 1959, id. Michigan 1962, idem Alaska 1982. (*Steere*).
+Steere, William Campbell (1907-x), American botanist; Dr. phil. Univ. Mich. 1932; instructor in botany Univ. Mich. 1931-1936, asst. prof. 1936-1942, assoc. prof. 1942-1946, full prof. 1946-1950; chairman Botany Dept. 1947-1950; prof. Biol. Stanford Univ. 1950-1958, with National Science Foundation 1954-1955; Dean Graduate Div., Stanford Univ., 1955-1958; director New York Botanical Garden 1958-1968, exec. dir. 1968-1970, president 1970-1972, president emeritus 1973-x; leading bryologist and specialist on arctic and tropical American bryology; Dr. sci. h.c. Univ. Montreal 1959, id. Michigan 1962, idem Alaska 1982. 
+**Abbreviated name**: *Steere*
 
 #### Herbarium and types
 

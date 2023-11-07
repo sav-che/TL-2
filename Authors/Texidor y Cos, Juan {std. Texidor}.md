@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103683#page/240/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33212272) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Texidor y Cos, Juan (1836-1885), Spanish botanist and pharmacist; professor of pharmaceutical botany at the University of Cataluña 1864-1866; at the University of Santiago de Compostela 1866-1871, later in Madrid and again in Barcelona. (*Texidor*).
+Texidor y Cos, Juan (1836-1885), Spanish botanist and pharmacist; professor of pharmaceutical botany at the University of Cataluña 1864-1866; at the University of Santiago de Compostela 1866-1871, later in Madrid and again in Barcelona. 
+**Abbreviated name**: *Texidor*
 
 #### Herbarium and types
 

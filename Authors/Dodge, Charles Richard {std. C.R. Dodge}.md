@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103835#page/28/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33260006) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dodge, Charles Richard (1847-1918), American entomologist and botanist, specialist in plant fibres, born 17 Jul 1847 Covington Co., Missouri, appointed by U.S. Department of Agriculture in 1890 as special agent for fibre investigations, for ten years in charge of the U.S.D.A. museum, died early 1918. (*C.R. Dodge*).
+Dodge, Charles Richard (1847-1918), American entomologist and botanist, specialist in plant fibres, born 17 Jul 1847 Covington Co., Missouri, appointed by U.S. Department of Agriculture in 1890 as special agent for fibre investigations, for ten years in charge of the U.S.D.A. museum, died early 1918. 
+**Abbreviated name**: *C.R. Dodge*
 
 #### Herbarium and types
 

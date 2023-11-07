@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/103833#page/131/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33259165) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deam, Charles Clemon {std. Deam}|first entry]] for this author
 
 ### Author
 
-\* Deam, Charles Clemon (1865-1953), American drugstore owner and botanist, born at Bluffton, Indiana, 30 Aug 1865, tried to work at the DePauw University a couple of years but the "college stuff" was not for him (Duane Isely). (*Deam*).
+\* Deam, Charles Clemon (1865-1953), American drugstore owner and botanist, born at Bluffton, Indiana, 30 Aug 1865, tried to work at the DePauw University a couple of years but the "college stuff" was not for him (Duane Isely). 
+**Abbreviated name**: *Deam*
 
 #### Herbarium and types
 

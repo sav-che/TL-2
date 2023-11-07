@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103859#page/315/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33265502) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonaparte, \[Prince\] Roland Napoléon (1858-1924), French botanist (pteridologist), grandson of Lucien Bonaparte, second brother of Napoleon I, at the military school of St. Cyr, graduated 1879, commissioned lieutenant 1879-1886, from 1886 private citizen devoting himself to science, travelled widely, e.g. in N. America 1887 and 1893, set up a pteridological herbarium of some 300.000 specimens, published, mainly on ferns, lavishly; member of the Institut de France. (*Bonap.*).
+Bonaparte, \[Prince\] Roland Napoléon (1858-1924), French botanist (pteridologist), grandson of Lucien Bonaparte, second brother of Napoleon I, at the military school of St. Cyr, graduated 1879, commissioned lieutenant 1879-1886, from 1886 private citizen devoting himself to science, travelled widely, e.g. in N. America 1887 and 1893, set up a pteridological herbarium of some 300.000 specimens, published, mainly on ferns, lavishly; member of the Institut de France. 
+**Abbreviated name**: *Bonap.*
 
 #### Herbarium and types
 

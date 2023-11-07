@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/103253#page/716/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33068932) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kuhlmann, João Geraldo (1882-1958), Brazilian botanist and collector at São Paulo. (*Kuhlm.*).
+Kuhlmann, João Geraldo (1882-1958), Brazilian botanist and collector at São Paulo. 
+**Abbreviated name**: *Kuhlm.*
 
 #### Herbarium and types
 

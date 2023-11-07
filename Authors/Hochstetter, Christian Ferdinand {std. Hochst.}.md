@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/103253#page/246/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33068462) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hochstetter, Christian Ferdinand (1787-1860), German botanist, clergyman (Stadtpfarrer), and professor at the teacher's college at Esslingen; founded and led the Esslinger Reiseverein (Unio itineraria) with E. G. Steudel. (*Hochst.*).
+Hochstetter, Christian Ferdinand (1787-1860), German botanist, clergyman (Stadtpfarrer), and professor at the teacher's college at Esslingen; founded and led the Esslinger Reiseverein (Unio itineraria) with E. G. Steudel. 
+**Abbreviated name**: *Hochst.*
 
 #### Herbarium and types
 

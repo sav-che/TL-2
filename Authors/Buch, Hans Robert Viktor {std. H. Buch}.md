@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103414#page/437/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33120520) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buch, Hans Robert Viktor {std. H. Buch} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buch, Hans Robert Viktor (1883-1964), Finnish bryologist. (*H. Buch*).
+Buch, Hans Robert Viktor (1883-1964), Finnish bryologist. 
+**Abbreviated name**: *H. Buch*
 
 #### Herbarium and types
 

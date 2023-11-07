@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/item/104077#page/861/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33333986) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Starke, Johann Christian (1744-1808), German (Prussian/Neumark) botanist; pastor at Gr. Tschirnau nr Guhrau, Silesia 1775-1808; floristic botanist and bryologist. (*Starke*).
+Starke, Johann Christian (1744-1808), German (Prussian/Neumark) botanist; pastor at Gr. Tschirnau nr Guhrau, Silesia 1775-1808; floristic botanist and bryologist. 
+**Abbreviated name**: *Starke*
 
 #### Herbarium and types
 

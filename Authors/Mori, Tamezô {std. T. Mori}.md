@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/item/104137#page/597/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33355668) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mori, Tamezô (1884-1962), Japanese botanist; AB Tokyo 1909; teacher in Korea from 1909. (*T. Mori*).
+Mori, Tamezô (1884-1962), Japanese botanist; AB Tokyo 1909; teacher in Korea from 1909. 
+**Abbreviated name**: *T. Mori*
 
 #### Herbarium and types
 

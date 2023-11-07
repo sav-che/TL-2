@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/104077#page/133/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33333258) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schauer, Johannes Conrad (1813-1848), German (Frankfurt a.M.) botanist; studied at the gymnasium of Mainz 1825-1827; in the "Hofgarten" of Würzburg 1828-1831 with Ant. Heller; assistant at the botanical garden of Bonn, 1831-1832; with C.G. Nees to Breslau in charge of the botanical garden 1832-1848; Dr. phil. Erlangen 1835; habil. Breslau 1841 ; professor of botany at the University of Greifswald and the Agricultural College of neighbouring Eldena 1843-1848. (*Schauer*).
+Schauer, Johannes Conrad (1813-1848), German (Frankfurt a.M.) botanist; studied at the gymnasium of Mainz 1825-1827; in the "Hofgarten" of Würzburg 1828-1831 with Ant. Heller; assistant at the botanical garden of Bonn, 1831-1832; with C.G. Nees to Breslau in charge of the botanical garden 1832-1848; Dr. phil. Erlangen 1835; habil. Breslau 1841 ; professor of botany at the University of Greifswald and the Agricultural College of neighbouring Eldena 1843-1848. 
+**Abbreviated name**: *Schauer*
 
 #### Herbarium and types
 
@@ -43,7 +44,7 @@ Nothing is known to us about Sebastian Schauer who published, with C.G. Nees von
 
 #### Eponymy
 
-*Schaueria* Hasskarl (1842); *Note*: *Sebastiano-schaueria* C.G.D. Nees (1847)) and *Sebschauera* O. Kuntze (1891) honor Sebastian Schauer. The etymology *of Schauern* C.G.D. Nees (1836, *nom. rej.*) and *Schaueria* C.G.D. Nees (1838, *nom. cons.*) could not be determined.
+*Schaueria* Hasskarl (1842); *Note*: *Sebastiano-schaueria* C.G.D. Nees (1847)) and *Sebschauera* O. Kuntze (1891) honor Sebastian Schauer. The etymology *of Schauern* C.G.D. Nees (1836, *nom. rej.*) and *Schaueria* C.G.D. Nees (1838, *nom. cons.*) [^1] could not be determined.
 
 ### Publications
 
@@ -105,4 +106,7 @@ The two issues of the other edition differ from the 1843 original by not having 
 
 **Notes**
 *Publ*.: 19-21 Sep 1844 (date receipt pars 1(1) *Pl. Preiss.* by Hinrichs), \[i, cover-t.p.\], \[96\]-160. *Copy*: G. – Reprinted and to be cited from J.G.C. Lehmann, Pl. Preiss. 1(1): 96-160. 1844, TL-2/4332. – Preliminary publication "Ueber die von Dr. L. Preiss im südwestlichen Neuholland gesammelten Myrtaceae" by Schauer in Flora 26(2): 405-410. 7 Jul 1843 with several new generic names as nomina nuda.
+
+[^1]: "*Schaueria* Nees 1838 (Acanthaceae) \[is dedicated to\] Johann Conrad Schauer (1813–1848) German botanist **and** his brother Sebastian Schauer (fl. 1847), German gardener, botanist (Nees, 1842: 301)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

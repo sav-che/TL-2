@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/item/103414#page/600/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33120683) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cosson, Ernest (Saint-Charles) {std. Coss.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cosson, Ernest Saint-Charles (1819-1889), French botanist. (*Coss.*).
+Cosson, Ernest Saint-Charles (1819-1889), French botanist. 
+**Abbreviated name**: *Coss.*
 
 #### Herbarium and types
 

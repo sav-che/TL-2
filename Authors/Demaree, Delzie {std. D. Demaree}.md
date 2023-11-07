@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103833#page/206/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33259240) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Demaree, Delzie (1889-1987), American botanist, born 15 Sep 1889 in Benham, Indiana, University of Chicago MS 1921, Stanford 1932 Ph.D, professor at the University of Arkansas 1926-1929, collector in the Southern U.S. (Arkansas, Texas), died 2 Jul 1987 Benham ("Bonham"), personal herbarium was donated to Southern Methodist University. (*D. Demaree*).
+Demaree, Delzie (1889-1987), American botanist, born 15 Sep 1889 in Benham, Indiana, University of Chicago MS 1921, Stanford 1932 Ph.D, professor at the University of Arkansas 1926-1929, collector in the Southern U.S. (Arkansas, Texas), died 2 Jul 1987 Benham ("Bonham"), personal herbarium was donated to Southern Methodist University. 
+**Abbreviated name**: *D. Demaree*
 
 #### Herbarium and types
 

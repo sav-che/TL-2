@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/item/104077#page/637/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sjöstrand, Magnus Gustaf (1807-1880), Swedish botanist and clergyman; studied at Uppsala; ordained 1841; assistant vicar at Torslunda in Oland 1856 \[1857\], parish priest 1870. (*Sjöstrand*).
+Sjöstrand, Magnus Gustaf (1807-1880), Swedish botanist and clergyman; studied at Uppsala; ordained 1841; assistant vicar at Torslunda in Oland 1856 \[1857\], parish priest 1870. 
+**Abbreviated name**: *Sjöstrand*
 
 #### Herbarium and types
 

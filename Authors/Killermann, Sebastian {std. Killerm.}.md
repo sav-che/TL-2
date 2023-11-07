@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/item/103253#page/566/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33068782) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Killermann, Sebastian (1870-1956), German clergyman and botanist; Dr. rer. nat. Regensburg 1893; ordin. ib. 1895; curate at Arendsberg 1895-1901; teacher (1901) and professor (1910) at the theological-philosophical college at Regensburg; from 1916-1956 president of the Regensburgische botanische Gesellschaft; specialist on Hymenomycetes. (*Killerm.*).
+Killermann, Sebastian (1870-1956), German clergyman and botanist; Dr. rer. nat. Regensburg 1893; ordin. ib. 1895; curate at Arendsberg 1895-1901; teacher (1901) and professor (1910) at the theological-philosophical college at Regensburg; from 1916-1956 president of the Regensburgische botanische Gesellschaft; specialist on Hymenomycetes. 
+**Abbreviated name**: *Killerm.*
 
 #### Herbarium and types
 

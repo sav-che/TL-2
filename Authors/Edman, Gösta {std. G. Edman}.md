@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/103835#page/269/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33260247) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edman, Gösta (1887-?), Swedish botanist, professor at the Pharmaceutical Institute at Stockholm. (*G. Edman*).
+Edman, Gösta (1887-?), Swedish botanist, professor at the Pharmaceutical Institute at Stockholm. 
+**Abbreviated name**: *G. Edman*
 
 #### Herbarium and types
 

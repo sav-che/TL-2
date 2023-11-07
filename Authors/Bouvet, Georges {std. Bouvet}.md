@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103859#page/404/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265591) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bouvet, Georges (1850-1929), French pharmacist and botanist, born at Angers, studied at the Lycée David d'Angers, student at the Ménière pharmacie at Angers, pharmacist 1876, had a pharmacy of its own 1876-1919, also director of the Musée d'Histoire naturelle and of the Jardin des plantes of Angers, including the various herbaria (Herb. Boreau, Herb. Lloyd, General herbarium of the Jardin des plantes). (*Bouvet*).
+Bouvet, Georges (1850-1929), French pharmacist and botanist, born at Angers, studied at the Lycée David d'Angers, student at the Ménière pharmacie at Angers, pharmacist 1876, had a pharmacy of its own 1876-1919, also director of the Musée d'Histoire naturelle and of the Jardin des plantes of Angers, including the various herbaria (Herb. Boreau, Herb. Lloyd, General herbarium of the Jardin des plantes). 
+**Abbreviated name**: *Bouvet*
 
 #### Herbarium and types
 

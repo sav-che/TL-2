@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/item/103861#page/169/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33266466) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunaud, Paul (fl. 1877-1897), French solicitor and mycologist at Saintes (Charente maritime). (*Brunaud*).
+Brunaud, Paul (fl. 1877-1897), French solicitor and mycologist at Saintes (Charente maritime). 
+**Abbreviated name**: *Brunaud*
 
 #### Herbarium and types
 

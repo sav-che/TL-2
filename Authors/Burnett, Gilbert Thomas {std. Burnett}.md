@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/103861#page/268/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33266565) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burnett, Gilbert Thomas (1800-1835), British Professor of Botany at King's College London 1831 and at Chelsea 1835. (*Burnett*).
+Burnett, Gilbert Thomas (1800-1835), British Professor of Botany at King's College London 1831 and at Chelsea 1835. 
+**Abbreviated name**: *Burnett*
 
 #### Herbarium and types
 

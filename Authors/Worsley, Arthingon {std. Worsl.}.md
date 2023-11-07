@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/103250#page/519/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33066799) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Worsley, Arthingon (1861-1944), British civil engineer and amateur horticulturist; lived in Isleworth, Middlesex from 1894; specialist on Amaryllis. (*Worsl.*).
+Worsley, Arthingon (1861-1944), British civil engineer and amateur horticulturist; lived in Isleworth, Middlesex from 1894; specialist on Amaryllis. 
+**Abbreviated name**: *Worsl.*
 
 #### Herbarium and types
 

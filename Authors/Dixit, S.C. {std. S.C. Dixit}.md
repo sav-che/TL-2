@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/103833#page/373/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33259407) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dixit, S.C. (fl. 1931-1940), British botanist at the Wilson College, Bombay. (*S.C. Dixit*).
+Dixit, S.C. (fl. 1931-1940), British botanist at the Wilson College, Bombay. 
+**Abbreviated name**: *S.C. Dixit*
 
 #### Herbarium and types
 

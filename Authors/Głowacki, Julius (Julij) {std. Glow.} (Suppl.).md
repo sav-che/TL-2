@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103832#page/253/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33258719) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Glowacki, Julius {std. Glow.}|first entry]] for this author
 
 ### Author
 
-\* Głowacki, Julius \[Julij\] (1846-1915), Austrian bryologist also interested in lich., born 18 Jun 1846 in Idria (Krain, now Slovenia), studied in Vienna and Graz, middle school prof. from 1870 in various towns, dir. of the gymnasium in Marburg (now Slovenia) 1899-1911, died 18 Mai 1915 in Graz. (*Glow.*).
+\* Głowacki, Julius \[Julij\] (1846-1915), Austrian bryologist also interested in lich., born 18 Jun 1846 in Idria (Krain, now Slovenia), studied in Vienna and Graz, middle school prof. from 1870 in various towns, dir. of the gymnasium in Marburg (now Slovenia) 1899-1911, died 18 Mai 1915 in Graz. 
+**Abbreviated name**: *Glow.*
 
 #### Herbarium and types
 

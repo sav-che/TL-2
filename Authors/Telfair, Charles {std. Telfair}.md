@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103683#page/215/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33212247) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Telfair, Charles (1778 \[1777?\]-1833), Irish surgeon, plant collector, naturalist and gardener on Mauritius; honorary supervisor of the Botanic Garden of Pamplemousses 1826-1829. (*Telfair*).
+Telfair, Charles (1778 \[1777?\]-1833), Irish surgeon, plant collector, naturalist and gardener on Mauritius; honorary supervisor of the Botanic Garden of Pamplemousses 1826-1829. 
+**Abbreviated name**: *Telfair*
 
 #### Herbarium and types
 

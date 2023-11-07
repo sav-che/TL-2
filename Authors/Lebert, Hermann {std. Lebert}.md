@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/item/103253#page/804/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33069020) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lebert, Hermann (1813-1878), German botanist and naturalist; Dr. med. Zürich 1834; active in Lavey, Paris, Zürich (1855), Breslau (1859), Vevey (1875). (*Lebert*).
+Lebert, Hermann (1813-1878), German botanist and naturalist; Dr. med. Zürich 1834; active in Lavey, Paris, Zürich (1855), Breslau (1859), Vevey (1875). 
+**Abbreviated name**: *Lebert*
 
 #### Herbarium and types
 

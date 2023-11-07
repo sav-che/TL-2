@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/item/103624#page/149/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33189606) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peattie, Donald Culross (1898-1964), American botanist; studied at Univ. Chicago (1915-1917; no degree). (*Peattie*).
+Peattie, Donald Culross (1898-1964), American botanist; studied at Univ. Chicago (1915-1917; no degree). 
+**Abbreviated name**: *Peattie*
 
 #### Herbarium and types
 

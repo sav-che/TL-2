@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103250#page/91/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33066371) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walker, Egbert Hamilton (1899-x), American botanist and botanical bibliographer; A.B. Mich. Univ. 1922; Dr. phil. Johns Hopkins Univ. 1940; Instructor Canton Christian College 1922-1926; assistant in botany Univ. Wisconsin 1926-1928; aide, division of plants Smithsonian Institution 1928-1942; assistant curator ib. 1942-1946, associate curator 1946-1958; working on various grants ib. 1956-1964; research associate 1964-1966, emeritus botanist 1967. (*E. Walker*).
+Walker, Egbert Hamilton (1899-x), American botanist and botanical bibliographer; A.B. Mich. Univ. 1922; Dr. phil. Johns Hopkins Univ. 1940; Instructor Canton Christian College 1922-1926; assistant in botany Univ. Wisconsin 1926-1928; aide, division of plants Smithsonian Institution 1928-1942; assistant curator ib. 1942-1946, associate curator 1946-1958; working on various grants ib. 1956-1964; research associate 1964-1966, emeritus botanist 1967. 
+**Abbreviated name**: *E. Walker*
 
 #### Herbarium and types
 

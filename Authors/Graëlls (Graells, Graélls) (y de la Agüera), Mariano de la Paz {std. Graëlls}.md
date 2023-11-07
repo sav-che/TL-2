@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/103832#page/334/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33258800) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Graëlls \[Graells, Graélls\] \[y de la Agüera\], Mariano de la Paz (1809-1898), Spanish physician, botanist and naturalist interested in Lepidoptera and mammals, born 24 Jan 1809 in Tricio (Logroño), studied medicine and natural sciences, Barcelona Univ., one of the founders of the Museo de Historia Natural de la Academia de Ciencias y Artes, moved to Madrid in 1837 to be Prof. of Zoology, Real Museo de Ciencias Naturales, then dir. of the museum and the Real Jardín Botánico de Madrid 1845-1868, co-founder Real Academia de Ciencias Exactas, Físicas y Naturales de Madrid, died 14 Feb 1898 in Madrid. (*Graëlls*).
+Graëlls \[Graells, Graélls\] \[y de la Agüera\], Mariano de la Paz (1809-1898), Spanish physician, botanist and naturalist interested in Lepidoptera and mammals, born 24 Jan 1809 in Tricio (Logroño), studied medicine and natural sciences, Barcelona Univ., one of the founders of the Museo de Historia Natural de la Academia de Ciencias y Artes, moved to Madrid in 1837 to be Prof. of Zoology, Real Museo de Ciencias Naturales, then dir. of the museum and the Real Jardín Botánico de Madrid 1845-1868, co-founder Real Academia de Ciencias Exactas, Físicas y Naturales de Madrid, died 14 Feb 1898 in Madrid. 
+**Abbreviated name**: *Graëlls*
 
 #### Herbarium and types
 

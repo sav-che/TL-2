@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/item/103253#page/522/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kappler, August (1815-1887), German soldier and naturalist; from 1836-1879 in Suriname and the West Indies; travelled around the world in 1883; the most important author on Suriname of the mid-nineteenth century. (*Kappl.*).
+Kappler, August (1815-1887), German soldier and naturalist; from 1836-1879 in Suriname and the West Indies; travelled around the world in 1883; the most important author on Suriname of the mid-nineteenth century. 
+**Abbreviated name**: *Kappl.*
 
 #### Herbarium and types
 

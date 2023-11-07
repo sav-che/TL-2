@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/item/103858#page/356/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33265071) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-\* Bartlett, Harley Harris (1886-1960), American botanist studied at Shortridge High School, Indianapolis, after graduation assistant ib. in biology and chemistry, entered Harvard University 1904, A.B. cum laude in chemistry 1908, 1905-1908 assistant to B.L. Robinson and M.L. Fernald, in graduate school 1908-1909; chemical biologist with Bureau of Plant Industry, USDA, Washington D.C.; assistant professor of botany at the University of Michigan 1915, full professor 1921, head of the Department of Botany 1922-1947, Director of the Botanical Gardens 1919-1955; explored and botanized in Sumatra, Formosa, Mexico, Guatemala, British Honduras, the Philippines, Panama, Haiti, Argentina, Uruguay and Chile. (*H.M. Bartlett*).
+\* Bartlett, Harley Harris (1886-1960), American botanist studied at Shortridge High School, Indianapolis, after graduation assistant ib. in biology and chemistry, entered Harvard University 1904, A.B. cum laude in chemistry 1908, 1905-1908 assistant to B.L. Robinson and M.L. Fernald, in graduate school 1908-1909; chemical biologist with Bureau of Plant Industry, USDA, Washington D.C.; assistant professor of botany at the University of Michigan 1915, full professor 1921, head of the Department of Botany 1922-1947, Director of the Botanical Gardens 1919-1955; explored and botanized in Sumatra, Formosa, Mexico, Guatemala, British Honduras, the Philippines, Panama, Haiti, Argentina, Uruguay and Chile. 
+**Abbreviated name**: *H.M. Bartlett*
 
 #### Herbarium and types
 

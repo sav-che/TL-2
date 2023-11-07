@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/item/103860#page/494/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33266161) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cruchet, Émilie (fl. 1933), Swiss botanist at Lausanne, "Licenciée ès Sciences" at Lausanne. (*É. Cruchet*).
+Cruchet, Émilie (fl. 1933), Swiss botanist at Lausanne, "Licenciée ès Sciences" at Lausanne. 
+**Abbreviated name**: *É. Cruchet*
 
 #### Herbarium and types
 

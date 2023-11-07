@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103250#page/315/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, Theodore Greely (1872-1901), American botanist and geologist; Dr. phil. Columbia Univ. 1898; lecturer Department of Public Instruction, New York 1895-1896; assistant, Dept. Physics, Columbia Univ. 1896-1900; from 1900 dedicating himself almost fully to philanthropic work. (*T.G. White*).
+White, Theodore Greely (1872-1901), American botanist and geologist; Dr. phil. Columbia Univ. 1898; lecturer Department of Public Instruction, New York 1895-1896; assistant, Dept. Physics, Columbia Univ. 1896-1900; from 1900 dedicating himself almost fully to philanthropic work. 
+**Abbreviated name**: *T.G. White*
 
 #### Herbarium and types
 

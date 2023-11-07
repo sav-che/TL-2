@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/item/103250#page/548/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33066828) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Yatabe, Ryôkichi (1851-1899), Japanese botanist; BS Cornell 1876; studied with A. Gray and Farlow at Harvard; first professor of botany at Tokyo Imperial University; founder of the Botanical Society of Japan and president of the Higher Teacher's College; director of the Botanic Gardens Tokyo Imperial University 1877-1890. (*Yatabe*).
+Yatabe, Ryôkichi (1851-1899), Japanese botanist; BS Cornell 1876; studied with A. Gray and Farlow at Harvard; first professor of botany at Tokyo Imperial University; founder of the Botanical Society of Japan and president of the Higher Teacher's College; director of the Botanic Gardens Tokyo Imperial University 1877-1890. 
+**Abbreviated name**: *Yatabe*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103860#page/254/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33265921) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cocks, Reginald Wodehouse Somers (1863-1926), British botanist, born at Worcester, M.A. Cambridge 1889, professor of botany at Louisiana, U.S.A. 1906-1907, from 1907 professor of botany at Tulane University, New Orleans. (*R.W.S. Cocks*).
+Cocks, Reginald Wodehouse Somers (1863-1926), British botanist, born at Worcester, M.A. Cambridge 1889, professor of botany at Louisiana, U.S.A. 1906-1907, from 1907 professor of botany at Tulane University, New Orleans. 
+**Abbreviated name**: *R.W.S. Cocks*
 
 #### Herbarium and types
 

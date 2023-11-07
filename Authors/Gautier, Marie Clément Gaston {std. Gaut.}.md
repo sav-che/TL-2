@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/item/103414#page/972/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33121055) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gautier, (Marie or Maurice) Clément Gaston {std. Gaut.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gautier, Marie Clément Gaston (1841-1911), French botanist at Narbonne. (*Gaut.*).
+Gautier, Marie Clément Gaston (1841-1911), French botanist at Narbonne. 
+**Abbreviated name**: *Gaut.*
 
 #### Herbarium and types
 

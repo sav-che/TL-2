@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/item/104137#page/749/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33355820) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Newberry, John Strong (1822-1892), American botanist and palaeontologist; trained as a physician at Western Reserve College and Cleveland Medical College (M.D. 1848); in Paris 1849-1850; practicing medicine in Cleveland 1851-1855; surgeon and geologist on various transcontinental exploring expeditions into the American West; professor of Geology at Columbia College 1866-1892; LL.D.h.c. Columbia 1867; chief geologist to the Geological Survey of Ohio 1869-1872. (*Newb.*).
+Newberry, John Strong (1822-1892), American botanist and palaeontologist; trained as a physician at Western Reserve College and Cleveland Medical College (M.D. 1848); in Paris 1849-1850; practicing medicine in Cleveland 1851-1855; surgeon and geologist on various transcontinental exploring expeditions into the American West; professor of Geology at Columbia College 1866-1892; LL.D.h.c. Columbia 1867; chief geologist to the Geological Survey of Ohio 1869-1872. 
+**Abbreviated name**: *Newb.*
 
 #### Herbarium and types
 

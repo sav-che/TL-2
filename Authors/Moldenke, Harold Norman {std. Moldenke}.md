@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/item/104137#page/562/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moldenke, Harold Norman (1909-x), American botanist; Ph. D. Columbia 1934; curator at the New York Botanical Garden 1934-1951; son of C. E. Moldenke. (*Moldenke*).
+Moldenke, Harold Norman (1909-x), American botanist; Ph. D. Columbia 1934; curator at the New York Botanical Garden 1934-1951; son of C. E. Moldenke. 
+**Abbreviated name**: *Moldenke*
 
 #### Herbarium and types
 

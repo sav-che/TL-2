@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/103683#page/425/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33212457) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tournon, Dominique Jérôme (1758-post 1827), French physician and botanist; Dr. med. Toulouse 1788; director of the Jardin des plantes and professor of botany at the Medical School at Toulouse. (*Tournon*).
+Tournon, Dominique Jérôme (1758-post 1827), French physician and botanist; Dr. med. Toulouse 1788; director of the Jardin des plantes and professor of botany at the Medical School at Toulouse. 
+**Abbreviated name**: *Tournon*
 
 #### Herbarium and types
 

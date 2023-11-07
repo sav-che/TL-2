@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103835#page/31/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33260009) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Döll, Johann Christoph {std. Döll}|first entry]] for this author
 
 ### Author
 
-\* Döll \[Doell\], Johann Christoph (1808-1885), German librarian and botanist, born Mannheim 21 Jul 1808, died 10 Mar 1885 Karlsruhe, Baden, 1840 in Mannheim at a "höhere Bürgerschule", 1843 "Oberbibliothekar", moved to the "Hofbibliothek" at Karlsruhe, 1858 "Grossherzogl. Oberstudienrath". (*Döll*).
+\* Döll \[Doell\], Johann Christoph (1808-1885), German librarian and botanist, born Mannheim 21 Jul 1808, died 10 Mar 1885 Karlsruhe, Baden, 1840 in Mannheim at a "höhere Bürgerschule", 1843 "Oberbibliothekar", moved to the "Hofbibliothek" at Karlsruhe, 1858 "Grossherzogl. Oberstudienrath". 
+**Abbreviated name**: *Döll*
 
 #### Herbarium and types
 

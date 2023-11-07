@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/104077#page/401/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33333526) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, Johann Heinrich (1799-1870), German (Pommerian) naturalist and high school teacher; on active service in France 1815-1816; teacher at a private Berlin school 1816-1822; high school teacher at the Königliche Realschule Berlin 1823-1831; from 1831-1866 "Oberlehrer". (*J.H. Schulz*).
+Schulz, Johann Heinrich (1799-1870), German (Pommerian) naturalist and high school teacher; on active service in France 1815-1816; teacher at a private Berlin school 1816-1822; high school teacher at the Königliche Realschule Berlin 1823-1831; from 1831-1866 "Oberlehrer". 
+**Abbreviated name**: *J.H. Schulz*
 
 #### Herbarium and types
 

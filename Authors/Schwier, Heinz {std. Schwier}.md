@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/104077#page/465/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33333590) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwier, Heinz (1881-1955), German (Prussian) musician, composer and botanist; high school teacher at Schweicheln 1901-1905; attended the Sondershausen music school 1905; subsequently conductor of theatre orchestras in Celle and Hannover, ultimately music director in Göttingen; in retirement at Petershagen. (*Schwier*).
+Schwier, Heinz (1881-1955), German (Prussian) musician, composer and botanist; high school teacher at Schweicheln 1901-1905; attended the Sondershausen music school 1905; subsequently conductor of theatre orchestras in Celle and Hannover, ultimately music director in Göttingen; in retirement at Petershagen. 
+**Abbreviated name**: *Schwier*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103833#page/38/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33259072) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dall, William Healey (1845-1927), American palaeontologist, student of Agassiz, mostly working on animals but also interested in botany, made several trips to Alaska 1865-1895, professor of invertebrate palaeontology at the Wagner Institute of Science in Philadelphia. (*W.H. Dall*).
+Dall, William Healey (1845-1927), American palaeontologist, student of Agassiz, mostly working on animals but also interested in botany, made several trips to Alaska 1865-1895, professor of invertebrate palaeontology at the Wagner Institute of Science in Philadelphia. 
+**Abbreviated name**: *W.H. Dall*
 
 #### Herbarium and types
 

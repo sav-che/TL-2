@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/103414#page/347/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33120430) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brackenridge, William Dunlop {std. Brack.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brackenridge, William Dunlop (1810-1893), Scottish born American botanist, assistant naturalist on the Wilkes expedition. (*Brack.*).
+Brackenridge, William Dunlop (1810-1893), Scottish born American botanist, assistant naturalist on the Wilkes expedition. 
+**Abbreviated name**: *Brack.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/104137#page/229/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-MacCaughey, Vaughan (1887-1954), American botanist; B. A. Cornell Univ. 1908; active in various functions in Hawaii. (*MacCaughey*).
+MacCaughey, Vaughan (1887-1954), American botanist; B. A. Cornell Univ. 1908; active in various functions in Hawaii. 
+**Abbreviated name**: *MacCaughey*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/104077#page/318/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33333443) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schott, Heinrich Wilhelm (1794-1865), Moravian-born Austrian botanist; gardener at the Belvedere palace, Wien 1815; with J.C. Mikan, Natterer and J.B.E. Pohl to Brazil 1817-1821; gardener at Schönbrunn 1821; director id. 1845-1865; Dr. phil. h.c. Jena 1858. (*Schott*).
+Schott, Heinrich Wilhelm (1794-1865), Moravian-born Austrian botanist; gardener at the Belvedere palace, Wien 1815; with J.C. Mikan, Natterer and J.B.E. Pohl to Brazil 1817-1821; gardener at Schönbrunn 1821; director id. 1845-1865; Dr. phil. h.c. Jena 1858. 
+**Abbreviated name**: *Schott*
 
 #### Herbarium and types
 

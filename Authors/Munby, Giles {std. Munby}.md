@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/item/104137#page/675/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Munby, Giles (1813-1876), British botanist; studied at Edinburgh and in Paris (under Adrien de Jussieu); in Algeria 1839-1861. (*Munby*).
+Munby, Giles (1813-1876), British botanist; studied at Edinburgh and in Paris (under Adrien de Jussieu); in Algeria 1839-1861. 
+**Abbreviated name**: *Munby*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/item/103414#page/695/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/page/33120778) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dierbach, Johann Heinrich {std. Dierb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dierbach, Johann Heinrich (1788-1845), German botanist at Heidelberg, botanical historian. (*Dierb.*).
+Dierbach, Johann Heinrich (1788-1845), German botanist at Heidelberg, botanical historian. 
+**Abbreviated name**: *Dierb.*
 
 #### Herbarium and types
 

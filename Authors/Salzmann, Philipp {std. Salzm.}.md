@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/104077#page/30/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33333167) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salzmann, Philipp (1781-1851), German (Saxonian) botanist; studied medicine at Göttingen (1800-1801), Wien (1801-1803), Halle (1803-1805), and Paris (1805); settled in Montpellier (1806) as hospital physician, later devoting himself to botany and entomology; collecting extensively in S. France, N. Africa, Spain (1823-1825) and Brazil, mainly Bahia, 1827-1830. (*Salzm.*).
+Salzmann, Philipp (1781-1851), German (Saxonian) botanist; studied medicine at Göttingen (1800-1801), Wien (1801-1803), Halle (1803-1805), and Paris (1805); settled in Montpellier (1806) as hospital physician, later devoting himself to botany and entomology; collecting extensively in S. France, N. Africa, Spain (1823-1825) and Brazil, mainly Bahia, 1827-1830. 
+**Abbreviated name**: *Salzm.*
 
 #### Herbarium and types
 

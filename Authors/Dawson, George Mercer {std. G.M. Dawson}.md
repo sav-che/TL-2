@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103833#page/124/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33259158) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dawson, George Mercer (1849-1901), Canadian geologist, the son of Sir John William Dawson, graduated at the London School of Mines in 1873, naturalist and member of the Northern American Boundary Survey 1873, with the Commission of 1874, joined the Canada Geological Survey 1875, became 20 years later its director. (*G.M. Dawson*).
+Dawson, George Mercer (1849-1901), Canadian geologist, the son of Sir John William Dawson, graduated at the London School of Mines in 1873, naturalist and member of the Northern American Boundary Survey 1873, with the Commission of 1874, joined the Canada Geological Survey 1875, became 20 years later its director. 
+**Abbreviated name**: *G.M. Dawson*
 
 #### Herbarium and types
 

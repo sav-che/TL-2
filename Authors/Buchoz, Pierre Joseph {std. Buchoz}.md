@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103414#page/440/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33120523) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchoz, Pierre Joseph (1731-1807), French (Lorraine) physician and naturalist. (*Buchoz*).
+Buchoz, Pierre Joseph (1731-1807), French (Lorraine) physician and naturalist. 
+**Abbreviated name**: *Buchoz*
 
 #### Herbarium and types
 

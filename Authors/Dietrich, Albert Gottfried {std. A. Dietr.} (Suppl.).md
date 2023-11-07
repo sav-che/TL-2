@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103833#page/343/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33259377) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dietrich, Albert Gottfried {std. A. Dietr.}|first entry]] for this author
 
 ### Author
 
-\* Dietrich, Albert Gottfried (1795-1856), German botanist and gardener, born at Danzig 8 Nov 1795, died 22 Mai 1856 Berlin, pharmacist in Danzig, since 1816 studying medicine and natural sciences at the universities of Berlin and Halle, teacher at the "Gärtner-Lehranstalt" in Schöneberg near Berlin, assistant at the zoological museum of Berlin, Dr. phil. at Berlin 1834, published the "Allgemeine Gartenzeitung" with Friedrich Otto 1835-1836, as "Kustos" at herbarium and botanical garden of Berlin. (*A. Dietr.*).
+\* Dietrich, Albert Gottfried (1795-1856), German botanist and gardener, born at Danzig 8 Nov 1795, died 22 Mai 1856 Berlin, pharmacist in Danzig, since 1816 studying medicine and natural sciences at the universities of Berlin and Halle, teacher at the "Gärtner-Lehranstalt" in Schöneberg near Berlin, assistant at the zoological museum of Berlin, Dr. phil. at Berlin 1834, published the "Allgemeine Gartenzeitung" with Friedrich Otto 1835-1836, as "Kustos" at herbarium and botanical garden of Berlin. 
+**Abbreviated name**: *A. Dietr.*
 
 #### Herbarium and types
 

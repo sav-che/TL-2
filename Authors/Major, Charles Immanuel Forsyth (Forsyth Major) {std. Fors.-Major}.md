@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/104137#page/276/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33355347) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forsyth-Major (Major), Charles Immanuel {std. Fors.-Major} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Major, Charles Immanuel Forsyth \[Forsyth Major\] (1843-1923), British-Swiss botanist and palaeontologist; practicing physician 1868-1886; working on the mediterranean and madagascan floras; MD Basel 1868. (*Major*).
+Major, Charles Immanuel Forsyth \[Forsyth Major\] (1843-1923), British-Swiss botanist and palaeontologist; practicing physician 1868-1886; working on the mediterranean and madagascan floras; MD Basel 1868. 
+**Abbreviated name**: *Major*
 
 #### Herbarium and types
 

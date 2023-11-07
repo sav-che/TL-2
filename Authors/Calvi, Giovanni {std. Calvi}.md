@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103861#page/328/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33266625) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Calvi, Giovanni (1715-1766), Italian botanist, born at Cremona, professor of botany and medicine at the University of Pisa. (*Calvi*).
+Calvi, Giovanni (1715-1766), Italian botanist, born at Cremona, professor of botany and medicine at the University of Pisa. 
+**Abbreviated name**: *Calvi*
 
 #### Herbarium and types
 

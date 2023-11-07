@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103860#page/58/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chandler, Marjorie Elizabeth Jane (1897-x), British botanist and palaeobotanist, born 18 Mai 1897, at British Museum (Natural History) London. (*M. Chandler*).
+Chandler, Marjorie Elizabeth Jane (1897-x), British botanist and palaeobotanist, born 18 Mai 1897, at British Museum (Natural History) London. 
+**Abbreviated name**: *M. Chandler*
 
 #### Herbarium and types
 

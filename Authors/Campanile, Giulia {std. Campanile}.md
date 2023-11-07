@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103861#page/336/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33266633) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Campanile, Giulia (fl. 1922-1925), Italian botanist. (*Campanile*).
+Campanile, Giulia (fl. 1922-1925), Italian botanist. 
+**Abbreviated name**: *Campanile*
 
 #### Herbarium and types
 

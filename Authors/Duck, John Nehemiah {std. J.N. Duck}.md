@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103835#page/146/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33260124) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duck, John Nehemiah (fl. 1832), English naturalist, geologist and entomologist, who made a list of local plants with some obvious errors. (*J.N. Duck*).
+Duck, John Nehemiah (fl. 1832), English naturalist, geologist and entomologist, who made a list of local plants with some obvious errors. 
+**Abbreviated name**: *J.N. Duck*
 
 #### Herbarium and types
 

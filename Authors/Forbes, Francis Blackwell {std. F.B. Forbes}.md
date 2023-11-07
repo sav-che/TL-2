@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/item/103414#page/900/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33120983) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forbes, Francis Blackwell {std. F.B. Forbes} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Forbes, Francis Blackwell (1839-1908), American botanist who lived in China 1857-1882. (*F.Forbes*).
+Forbes, Francis Blackwell (1839-1908), American botanist who lived in China 1857-1882. 
+**Abbreviated name**: *F.Forbes*
 
 #### Herbarium and types
 

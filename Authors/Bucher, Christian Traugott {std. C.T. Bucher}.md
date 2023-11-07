@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103861#page/204/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33266501) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bucher, Christian Traugott (x-1808), German (Dresden) botanist. (*C.T. Bucher*).
+Bucher, Christian Traugott (x-1808), German (Dresden) botanist. 
+**Abbreviated name**: *C.T. Bucher*
 
 #### Herbarium and types
 

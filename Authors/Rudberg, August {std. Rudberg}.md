@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 970](https://www.biodiversitylibrary.org/item/103624#page/984/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 970](https://www.biodiversitylibrary.org/page/33190441) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudberg, August (1842-1912), Swedish clergyman and botanist; ordained 1872; parish priest in various locations; dean from 1901. (*Rudberg*).
+Rudberg, August (1842-1912), Swedish clergyman and botanist; ordained 1872; parish priest in various locations; dean from 1901. 
+**Abbreviated name**: *Rudberg*
 
 #### Herbarium and types
 

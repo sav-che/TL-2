@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103250#page/461/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33066741) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Witte, \[Bror Otto\] Hernfrid (1877-1945), Swedish agricultural botanist; Dr. phil. Uppsala 1906; with the Svalöv seed experiment station 1907-1921, with the Swedish "mosskulturföreningen" in Jönköping 1921-1925; with the Swedish State Seed Testing Station, Stocksund 1925-1944. (*Her. Witte*).
+Witte, \[Bror Otto\] Hernfrid (1877-1945), Swedish agricultural botanist; Dr. phil. Uppsala 1906; with the Svalöv seed experiment station 1907-1921, with the Swedish "mosskulturföreningen" in Jönköping 1921-1925; with the Swedish State Seed Testing Station, Stocksund 1925-1944. 
+**Abbreviated name**: *Her. Witte*
 
 #### Herbarium and types
 

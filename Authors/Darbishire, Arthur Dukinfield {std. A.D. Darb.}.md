@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103833#page/75/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33259109) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darbishire, Arthur Dukinfield (1880-1915), British biologist and geneticist, at 1906 demonstrator of zoology in the Victoria University of Manchester and later at the Royal College of Science, London, demonstrator of zoology, later lecturer in genetics at the University of Edinburgh, died 26 Dec 1915. (*A.D. Darb.*).
+Darbishire, Arthur Dukinfield (1880-1915), British biologist and geneticist, at 1906 demonstrator of zoology in the Victoria University of Manchester and later at the Royal College of Science, London, demonstrator of zoology, later lecturer in genetics at the University of Edinburgh, died 26 Dec 1915. 
+**Abbreviated name**: *A.D. Darb.*
 
 #### Herbarium and types
 

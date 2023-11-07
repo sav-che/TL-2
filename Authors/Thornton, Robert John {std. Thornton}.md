@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/103683#page/303/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33212335) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thornton, Robert John (1768\[?\]-1837), British physician and botanist; MB Cambridge 1793; MD St. Andrews 1805; lecturer in botany, Grey's Hospital, London. (*Thornton*).
+Thornton, Robert John (1768\[?\]-1837), British physician and botanist; MB Cambridge 1793; MD St. Andrews 1805; lecturer in botany, Grey's Hospital, London. 
+**Abbreviated name**: *Thornton*
 
 #### Herbarium and types
 

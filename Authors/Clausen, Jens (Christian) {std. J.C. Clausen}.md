@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103860#page/200/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265867) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clausen, Jens \[Christian\] (1891-1969), Danish botanist and geneticist, born near Tølløse (Seeland), educated at the secondary school at Tølløse, studied at the University of Copenhagen, with the staff of the Dept. Genetics Royal Veterinary and Agricultural High School, Copenhagen 1921-1931 with Ø. Winge, Dr. phil. ib. 1926, head of the division of plant biology of the Carnegie Institution of Washington in Stanford, Calif. 1931 (from 1932 for experimental taxonomy), professor of biology at Stanford University 1951-1969. (*J.C. Clausen*).
+Clausen, Jens \[Christian\] (1891-1969), Danish botanist and geneticist, born near Tølløse (Seeland), educated at the secondary school at Tølløse, studied at the University of Copenhagen, with the staff of the Dept. Genetics Royal Veterinary and Agricultural High School, Copenhagen 1921-1931 with Ø. Winge, Dr. phil. ib. 1926, head of the division of plant biology of the Carnegie Institution of Washington in Stanford, Calif. 1931 (from 1932 for experimental taxonomy), professor of biology at Stanford University 1951-1969. 
+**Abbreviated name**: *J.C. Clausen*
 
 #### Herbarium and types
 

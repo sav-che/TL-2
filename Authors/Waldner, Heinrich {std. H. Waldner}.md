@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103250#page/89/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33066369) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waldner, Heinrich (*fl*. 1880), German botanist; teacher at the high school of Wasselnheim, Elsass. (*H. Waldner*).
+Waldner, Heinrich (*fl*. 1880), German botanist; teacher at the high school of Wasselnheim, Elsass. 
+**Abbreviated name**: *H. Waldner*
 
 #### Herbarium and types
 

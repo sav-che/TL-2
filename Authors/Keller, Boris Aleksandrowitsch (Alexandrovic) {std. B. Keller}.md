@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/item/103253#page/540/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33068756) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keller, Boris Aleksandrowitsch (Alexandrovic) (1874-1945), Russian botanist, from 1913-1931 at Woronesch. (*B. Keller*).
+Keller, Boris Aleksandrowitsch (Alexandrovic) (1874-1945), Russian botanist, from 1913-1931 at Woronesch. 
+**Abbreviated name**: *B. Keller*
 
 #### Herbarium and types
 

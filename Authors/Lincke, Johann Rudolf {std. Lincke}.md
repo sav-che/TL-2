@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/104137#page/38/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33355105) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lincke, Johann Rudolf (*fl*. 1840), German compller of illustrated works. (*Lincke*).
+Lincke, Johann Rudolf (*fl*. 1840), German compller of illustrated works. 
+**Abbreviated name**: *Lincke*
 
 #### Herbarium and types
 

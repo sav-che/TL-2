@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/104137#page/129/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33355200) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linney, William Marcus (1835-1887), American botanist in Kentucky. (*Linney*).
+Linney, William Marcus (1835-1887), American botanist in Kentucky. 
+**Abbreviated name**: *Linney*
 
 #### Herbarium and types
 

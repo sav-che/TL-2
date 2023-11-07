@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103860#page/280/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265947) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Colling, Jakob Ferdinand (1882-x), German botanist, born 30 Mar 1882 at Neunkirchen, Bez. Trier, Volksschule and "Realklassen" of the gymnasiums at Neunkirchen, Köln and Saarbrücken, studied natural science at the universities of München, Jena, Graz, Freiburg i. Schweiz and Berlin, "immatrikuliert" 1904, promotion 2 Nov 1905. (*Colling*).
+Colling, Jakob Ferdinand (1882-x), German botanist, born 30 Mar 1882 at Neunkirchen, Bez. Trier, Volksschule and "Realklassen" of the gymnasiums at Neunkirchen, Köln and Saarbrücken, studied natural science at the universities of München, Jena, Graz, Freiburg i. Schweiz and Berlin, "immatrikuliert" 1904, promotion 2 Nov 1905. 
+**Abbreviated name**: *Colling*
 
 #### Herbarium and types
 

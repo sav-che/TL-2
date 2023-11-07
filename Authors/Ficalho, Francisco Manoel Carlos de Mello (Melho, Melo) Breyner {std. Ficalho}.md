@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103834#page/194/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33259676) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ficalho, Francisco Manoel Carlos de Mello \[Melho, Melo\] Breyner (Conde de) (1837-1903), Portuguese botanist, botanical historian and novelist (member of the literary circle "Vencidos da vida"), born 27 Jul 1837 in Lisbon, studied at the Eschola Polytechnica in Lisbon until 1861 and immediately appointed substitute Prof. of Botany there, becoming full Prof. 1890, died 19 \[18?\] Apr 1903 in Lisbon. (*Ficalho*).
+Ficalho, Francisco Manoel Carlos de Mello \[Melho, Melo\] Breyner (Conde de) (1837-1903), Portuguese botanist, botanical historian and novelist (member of the literary circle "Vencidos da vida"), born 27 Jul 1837 in Lisbon, studied at the Eschola Polytechnica in Lisbon until 1861 and immediately appointed substitute Prof. of Botany there, becoming full Prof. 1890, died 19 \[18?\] Apr 1903 in Lisbon. 
+**Abbreviated name**: *Ficalho*
 
 #### Herbarium and types
 

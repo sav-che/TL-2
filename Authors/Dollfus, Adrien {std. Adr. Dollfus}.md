@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103835#page/42/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33260020) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dollfus, Adrien (1858-1921), French botanist and zoologist, born 1858 in Dornach (Elsaß), died 1921, was chief-editor of "Feuille des Jeunes naturalistes". (*Adr. Dollfus*).
+Dollfus, Adrien (1858-1921), French botanist and zoologist, born 1858 in Dornach (Elsaß), died 1921, was chief-editor of "Feuille des Jeunes naturalistes". 
+**Abbreviated name**: *Adr. Dollfus*
 
 #### Herbarium and types
 

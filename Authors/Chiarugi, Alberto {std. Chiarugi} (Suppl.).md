@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/item/103860#page/109/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33265776) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chiarugi, Alberto {std. Chiarugi}|first entry]] for this author
 
 ### Author
 
-\* Chiarugi, Alberto (1901-1960), Italian botanist, born at Firenze, studied at the University of Firenze, as "laureò in botanica" 1924, docent 1927, professor of botany at the University of Pisa 1930, ultimately idem at Firenze 1950-1960. (*Chiarugi*).
+\* Chiarugi, Alberto (1901-1960), Italian botanist, born at Firenze, studied at the University of Firenze, as "laureò in botanica" 1924, docent 1927, professor of botany at the University of Pisa 1930, ultimately idem at Firenze 1950-1960. 
+**Abbreviated name**: *Chiarugi*
 
 #### Herbarium and types
 

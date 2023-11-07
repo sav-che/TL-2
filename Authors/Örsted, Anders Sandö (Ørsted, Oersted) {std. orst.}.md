@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/item/104137#page/824/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33355895) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Örsted, Anders Sandö (Ørsted, Oersted) (1816-1872), Danish botanist and zoologist; Dr. phil. København 1854; high school teacher at København 1839-1844, travelled in Central America 1845-1848; lecturer, later professor of botany at the University of København 1851-1862. (*orst.*).
+Örsted, Anders Sandö (Ørsted, Oersted) (1816-1872), Danish botanist and zoologist; Dr. phil. København 1854; high school teacher at København 1839-1844, travelled in Central America 1845-1848; lecturer, later professor of botany at the University of København 1851-1862. 
+**Abbreviated name**: *orst.*
 
 #### Herbarium and types
 

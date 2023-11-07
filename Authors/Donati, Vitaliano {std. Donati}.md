@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/item/103414#page/718/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33120801) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Donati, Vitaliano (1713-1762), Italian biologist, apothecary at Venetia. (*Donati*).
+Donati, Vitaliano (1713-1762), Italian biologist, apothecary at Venetia. 
+**Abbreviated name**: *Donati*
 
 #### Herbarium and types
 

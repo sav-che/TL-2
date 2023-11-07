@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/item/104137#page/852/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33355923) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oltmanns, Friedrich (1860-1945), German algologist; studied at Jena under Strasburger; Dr. phil. Strassburg 1884 under de Bary; assistant to Goebel at Rostock 1885-1892; professor of pharmacognosy, later of botany and pharmacology, at Freiburg i. Br. from 1892. (*Oltm.*).
+Oltmanns, Friedrich (1860-1945), German algologist; studied at Jena under Strasburger; Dr. phil. Strassburg 1884 under de Bary; assistant to Goebel at Rostock 1885-1892; professor of pharmacognosy, later of botany and pharmacology, at Freiburg i. Br. from 1892. 
+**Abbreviated name**: *Oltm.*
 
 #### Herbarium and types
 

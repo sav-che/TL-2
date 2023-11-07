@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/item/103414#page/644/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33120727) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dangeard, Pierre-Augustin (Clément) {std. P.A. Dang.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dangeard, Pierre \[Clement\] Augustin (1862-1947), French botanist. (*P. A. Dang.*).
+Dangeard, Pierre \[Clement\] Augustin (1862-1947), French botanist. 
+**Abbreviated name**: *P. A. Dang.*
 
 #### Herbarium and types
 

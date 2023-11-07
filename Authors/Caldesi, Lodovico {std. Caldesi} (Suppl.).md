@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103861#page/320/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33266617) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caldesi, Lodovico (Ludovico) {std. Caldesi}|first entry]] for this author
 
 ### Author
 
-\* Caldesi, Lodovico (1822-1884), Italien politician and botanist (mycologist) at Faenza, member of the roman constituante 1849, of the national parliament 1866, idem of the departemental and communal assemblies 1859-1884. (*Caldesi*).
+\* Caldesi, Lodovico (1822-1884), Italien politician and botanist (mycologist) at Faenza, member of the roman constituante 1849, of the national parliament 1866, idem of the departemental and communal assemblies 1859-1884. 
+**Abbreviated name**: *Caldesi*
 
 #### Herbarium and types
 

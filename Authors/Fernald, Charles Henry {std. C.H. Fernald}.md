@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103834#page/166/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33259648) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fernald, Charles Henry (1838-1921), American entomologist, born 16 Mar 1838 at Fernald's Point, Mt. Desert Island, Maine, educated at Maine Wesleyan Seminary, Kent Hills, Maine, Ensign U.S. Navy 1862-1865 (i.e. during the Civil War), principal, Litchfield Academy 1865 and then Houlton Academy 1866 (both in Maine), A.M. (Hon.) 1871 Bowdoin Coll., Brunswick, Maine, chair of natural history, Maine State College of Agriculture and Mechanic Arts (now Univ. of Maine at Orono) 1871-1886, Prof. of Zoology 1886 and Acting President 1892, Mass. Agricultural College (now Univ. of Mass. at Amherst), retired 1910, died 22 Feb 1921 in Amherst, Mass. (*C.H. Fernald*).
+Fernald, Charles Henry (1838-1921), American entomologist, born 16 Mar 1838 at Fernald's Point, Mt. Desert Island, Maine, educated at Maine Wesleyan Seminary, Kent Hills, Maine, Ensign U.S. Navy 1862-1865 (i.e. during the Civil War), principal, Litchfield Academy 1865 and then Houlton Academy 1866 (both in Maine), A.M. (Hon.) 1871 Bowdoin Coll., Brunswick, Maine, chair of natural history, Maine State College of Agriculture and Mechanic Arts (now Univ. of Maine at Orono) 1871-1886, Prof. of Zoology 1886 and Acting President 1892, Mass. Agricultural College (now Univ. of Mass. at Amherst), retired 1910, died 22 Feb 1921 in Amherst, Mass. 
+**Abbreviated name**: *C.H. Fernald*
 
 #### Herbarium and types
 

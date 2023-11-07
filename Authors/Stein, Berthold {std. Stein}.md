@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/item/104077#page/886/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33334011) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stein, Berthold (1847-1899), German (Silesian) botanist (lichenologist) and gardener; assistant curator of the Berlin botanical garden; curator of the Innsbruck botanical garden 1873; id. of the Breslau botanical garden 1880-1890. (*Stein*).
+Stein, Berthold (1847-1899), German (Silesian) botanist (lichenologist) and gardener; assistant curator of the Berlin botanical garden; curator of the Innsbruck botanical garden 1873; id. of the Breslau botanical garden 1880-1890. 
+**Abbreviated name**: *Stein*
 
 #### Herbarium and types
 

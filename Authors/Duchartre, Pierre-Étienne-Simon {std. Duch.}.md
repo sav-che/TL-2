@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/item/103414#page/736/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/page/33120819) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duchartre, Pierre Étienne Simon {std. Duch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Duchartre, Pierre-Étienne-Simon (1811-1894), French botanist, ultimately professor of botany at the Sorbonne. (*Duchartre*).
+Duchartre, Pierre-Étienne-Simon (1811-1894), French botanist, ultimately professor of botany at the Sorbonne. 
+**Abbreviated name**: *Duchartre*
 
 #### Herbarium and types
 

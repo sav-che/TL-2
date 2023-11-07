@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103835#page/183/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33260161) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dunselman, J. (1901-x), Dutch roman catholic missionary, stationed in Borneo since 1933, made botanical collections there, interned by the Japanese Jul 1942, after W.W. II returned to Pantianak until 1947, from 1948 in a convent at Eindhoven, Netherlands. (*Dunselman*).
+Dunselman, J. (1901-x), Dutch roman catholic missionary, stationed in Borneo since 1933, made botanical collections there, interned by the Japanese Jul 1942, after W.W. II returned to Pantianak until 1947, from 1948 in a convent at Eindhoven, Netherlands. 
+**Abbreviated name**: *Dunselman*
 
 #### Herbarium and types
 

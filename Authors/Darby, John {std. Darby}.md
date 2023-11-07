@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/103414#page/646/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33120729) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darby, John (1804-1877), American botanist. (*Darby*).
+Darby, John (1804-1877), American botanist. 
+**Abbreviated name**: *Darby*
 
 #### Herbarium and types
 

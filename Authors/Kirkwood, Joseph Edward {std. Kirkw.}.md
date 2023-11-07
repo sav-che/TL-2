@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/item/103253#page/578/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33068794) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirkwood, Joseph Edward (1872-1928), American botanist; Ph. D. Columbia 1903, from 1901-1907 at Syracuse University; from 1907-1909 involved in guayule-rubber research; from 1909 at the department of botany of the University of Montana, Missoula. (*Kirkw.*).
+Kirkwood, Joseph Edward (1872-1928), American botanist; Ph. D. Columbia 1903, from 1901-1907 at Syracuse University; from 1907-1909 involved in guayule-rubber research; from 1909 at the department of botany of the University of Montana, Missoula. 
+**Abbreviated name**: *Kirkw.*
 
 #### Herbarium and types
 

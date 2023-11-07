@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/103624#page/768/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33190225) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rhiner, Joseph (1830-1897), Swiss botanist, philologist and private teacher at Schwyz. (*Rhiner*).
+Rhiner, Joseph (1830-1897), Swiss botanist, philologist and private teacher at Schwyz. 
+**Abbreviated name**: *Rhiner*
 
 #### Herbarium and types
 

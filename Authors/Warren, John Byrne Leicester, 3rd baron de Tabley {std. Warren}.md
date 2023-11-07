@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103250#page/151/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33066431) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warren, John Byrne Leicester, 3rd baron de Tabley (1835-1895), British botanist, poet and numismatist; studied at Eton and Christchurch, Oxford, M.A. 1856; called to the bar 1860; residing in London from 1871; succeeded to the title 1887. (*Warren*).
+Warren, John Byrne Leicester, 3rd baron de Tabley (1835-1895), British botanist, poet and numismatist; studied at Eton and Christchurch, Oxford, M.A. 1856; called to the bar 1860; residing in London from 1871; succeeded to the title 1887. 
+**Abbreviated name**: *Warren*
 
 #### Herbarium and types
 

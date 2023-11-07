@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103859#page/198/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33265385) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blackburn, Kathleen Bever (c. 1892-1968), British botanist (cyto-taxonomist), studied botany at Bedford College, London, grad. 1913, lecturer in botany at Southlands Training College, Battersea 1914-1918, M.Sc. 1916, D.Sc. London University 1924, lecturer at Armstrong College (later King's College) at Newcastle-upon-Tyne 1918-1947, reader in cytology ib. 1947-1957. (*K.B. Blackburn*).
+Blackburn, Kathleen Bever (c. 1892-1968), British botanist (cyto-taxonomist), studied botany at Bedford College, London, grad. 1913, lecturer in botany at Southlands Training College, Battersea 1914-1918, M.Sc. 1916, D.Sc. London University 1924, lecturer at Armstrong College (later King's College) at Newcastle-upon-Tyne 1918-1947, reader in cytology ib. 1947-1957. 
+**Abbreviated name**: *K.B. Blackburn*
 
 #### Herbarium and types
 

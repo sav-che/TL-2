@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103833#page/372/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33259406) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dixit, P.D. (fl. 1832), British honorary research worker, botanical section of the Imperial Institute of Agricultural Research, Pusa. (*P.D. Dixit*).
+Dixit, P.D. (fl. 1832), British honorary research worker, botanical section of the Imperial Institute of Agricultural Research, Pusa. 
+**Abbreviated name**: *P.D. Dixit*
 
 #### Herbarium and types
 

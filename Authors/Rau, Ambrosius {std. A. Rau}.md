@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/item/103624#page/601/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33190058) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rau, Ambrosius (1784-1830), German botanist and mineralogist; professor of natural history, forestry and rural economy at the University of Würzburg. (*A. Rau*).
+Rau, Ambrosius (1784-1830), German botanist and mineralogist; professor of natural history, forestry and rural economy at the University of Würzburg. 
+**Abbreviated name**: *A. Rau*
 
 #### Herbarium and types
 

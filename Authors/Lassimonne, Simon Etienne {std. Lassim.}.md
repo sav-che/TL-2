@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/item/103253#page/789/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lassimonne, Simon Etienne (fl. 1932), French botanist. (*Lassim.*).
+Lassimonne, Simon Etienne (fl. 1932), French botanist. 
+**Abbreviated name**: *Lassim.*
 
 #### Herbarium and types
 

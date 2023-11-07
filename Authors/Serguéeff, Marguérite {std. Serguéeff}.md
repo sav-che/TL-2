@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/104077#page/527/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Serguéeff, Marguérite (1877-?), Russian botanist, who studied at Genève 1900-1908; Dr. Sci. nat. Genève 1907. (*Serguéeff*).
+Serguéeff, Marguérite (1877-?), Russian botanist, who studied at Genève 1900-1908; Dr. Sci. nat. Genève 1907. 
+**Abbreviated name**: *Serguéeff*
 
 #### Herbarium and types
 

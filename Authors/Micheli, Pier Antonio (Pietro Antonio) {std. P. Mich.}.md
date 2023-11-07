@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/item/104137#page/482/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33355553) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Micheli, Pier' Antonio (Pietro Antonio) (1679-1737), Italian botanist, "oculatissimus Michelius" (L.), curator of the botanical garden of Firenze, "father of cryptogamy", founder of the Società botanica fiorentina; botanist to the grand duke of Tuscany. (*P. Mich.*).
+Micheli, Pier' Antonio (Pietro Antonio) (1679-1737), Italian botanist, "oculatissimus Michelius" (L.), curator of the botanical garden of Firenze, "father of cryptogamy", founder of the Società botanica fiorentina; botanist to the grand duke of Tuscany. 
+**Abbreviated name**: *P. Mich.*
 
 #### Herbarium, manuscripts and types
 

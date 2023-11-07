@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/item/104137#page/209/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33355280) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lund, Nils (1814-1847), Norwegian botanist; pupil of E. M. Fries (1843-1845); went to Venezuela in 1846. (*N. Lund*).
+Lund, Nils (1814-1847), Norwegian botanist; pupil of E. M. Fries (1843-1845); went to Venezuela in 1846. 
+**Abbreviated name**: *N. Lund*
 
 #### Herbarium and types
 

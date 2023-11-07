@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/item/104077#page/509/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sekera, Wenzel Johann \[Václac Jan\] (1815-1875), Bohemian pharmacist and botanist at Münchengrätz \[Mnichovo Hradište\]. (*Sekera*).
+Sekera, Wenzel Johann \[Václac Jan\] (1815-1875), Bohemian pharmacist and botanist at Münchengrätz \[Mnichovo Hradište\]. 
+**Abbreviated name**: *Sekera*
 
 #### Herbarium and types
 

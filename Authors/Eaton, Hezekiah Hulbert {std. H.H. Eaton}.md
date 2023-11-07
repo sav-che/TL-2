@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103835#page/254/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33260232) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eaton, Hezekiah Hulbert (1809-1832), American botanist, chemist, and mineralogist, born 23 Jul 1809 at Catskill, Greene County, N.Y., son of Amos Eaton, attended schools at Catskill and in Chatham until 1818, moved with his family to Albany and became his father's assistant at Amherst College in Massachusetts in 1823, in 1824 went to the newly opened Rensselaer School in Troy, N.Y., and received in April 1826 his BA from that school, lectured chemistry in several places and received a Junior Professorship in Troy 1829, died 16 Aug 1832 of pulmonary consumption in Lexington, Kentucky. (*H.H. Eaton*).
+Eaton, Hezekiah Hulbert (1809-1832), American botanist, chemist, and mineralogist, born 23 Jul 1809 at Catskill, Greene County, N.Y., son of Amos Eaton, attended schools at Catskill and in Chatham until 1818, moved with his family to Albany and became his father's assistant at Amherst College in Massachusetts in 1823, in 1824 went to the newly opened Rensselaer School in Troy, N.Y., and received in April 1826 his BA from that school, lectured chemistry in several places and received a Junior Professorship in Troy 1829, died 16 Aug 1832 of pulmonary consumption in Lexington, Kentucky. 
+**Abbreviated name**: *H.H. Eaton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/item/104137#page/587/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33355658) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moore, Thomas (1821-1887), British botanist and gardener; curator of the Chelsea botanic garden (1848-1887); assistant, later co-editor of Gardeners Chronicle (1841-1881) and of several other gardening magazines. (*T. Moore*).
+Moore, Thomas (1821-1887), British botanist and gardener; curator of the Chelsea botanic garden (1848-1887); assistant, later co-editor of Gardeners Chronicle (1841-1881) and of several other gardening magazines. 
+**Abbreviated name**: *T. Moore*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103859#page/221/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265408) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blau, Johannes (fl. 1904), Swiss botanist, Dr. phil. 1904 at Zürich. (*J. Blau*).
+Blau, Johannes (fl. 1904), Swiss botanist, Dr. phil. 1904 at Zürich. 
+**Abbreviated name**: *J. Blau*
 
 #### Herbarium and types
 

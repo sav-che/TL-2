@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/103683#page/479/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33212511) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Treub, Melchior (1851-1910), Dutch botanist of Swiss descent; studied at Leiden 1869-1873; Dr. phil. ib. 1873; assistant at the Leiden botanical institute with W.F.R. Suringar 1873-1880; director of the Buitenzorg \[Bogor\] botanical gardens 1880-1909; director of agriculture Netherlands Indies 1905-1909. (*Treub*).
+Treub, Melchior (1851-1910), Dutch botanist of Swiss descent; studied at Leiden 1869-1873; Dr. phil. ib. 1873; assistant at the Leiden botanical institute with W.F.R. Suringar 1873-1880; director of the Buitenzorg \[Bogor\] botanical gardens 1880-1909; director of agriculture Netherlands Indies 1905-1909. 
+**Abbreviated name**: *Treub*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103835#page/102/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33260080) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dreier, Johannes Caspar Heinrich (1833-1908), German botanist, born 10 Jun 1833 as son of "Pfarrer Dreier an der Moorlosen Kirche" near Mittelsbüren, died in Bremen 11 Sep 1908, studied medicine at Heidelberg and Würzburg, later physician in Bremen where he also worked on floristics. (*Dreier*).
+Dreier, Johannes Caspar Heinrich (1833-1908), German botanist, born 10 Jun 1833 as son of "Pfarrer Dreier an der Moorlosen Kirche" near Mittelsbüren, died in Bremen 11 Sep 1908, studied medicine at Heidelberg and Würzburg, later physician in Bremen where he also worked on floristics. 
+**Abbreviated name**: *Dreier*
 
 #### Herbarium and types
 

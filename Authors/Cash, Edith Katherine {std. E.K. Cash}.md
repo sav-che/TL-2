@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103861#page/455/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33266752) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cash, Edith Katherine (1890-x), American mycologist, studied at George Washington University, A.B. 1912, botanical translator, Bureau plant industr., USDA 1913-1924, junior pathologist 1924-1929, assistant pathologist and mycologist 1929-1944, associated mycologist 1944, subsequently in plant disease epidemics, horticultural crops research and ultimately at agricultural research service. (*E.K. Cash*).
+Cash, Edith Katherine (1890-x), American mycologist, studied at George Washington University, A.B. 1912, botanical translator, Bureau plant industr., USDA 1913-1924, junior pathologist 1924-1929, assistant pathologist and mycologist 1929-1944, associated mycologist 1944, subsequently in plant disease epidemics, horticultural crops research and ultimately at agricultural research service. 
+**Abbreviated name**: *E.K. Cash*
 
 #### Herbarium and types
 

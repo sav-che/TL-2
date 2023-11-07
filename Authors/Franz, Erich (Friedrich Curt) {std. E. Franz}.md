@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103834#page/411/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33259893) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Franz, Erich \[Friedrich Curt\] (1884-x), German botanist, born 16 Nov 1884 in Merseburg am Saale, attended the Dom-Gymnasium in Merseburg and then Univ. of Kiel 1904, Dr. Sci. 1908 Halle, also at Jena. (*E. Franz*).
+Franz, Erich \[Friedrich Curt\] (1884-x), German botanist, born 16 Nov 1884 in Merseburg am Saale, attended the Dom-Gymnasium in Merseburg and then Univ. of Kiel 1904, Dr. Sci. 1908 Halle, also at Jena. 
+**Abbreviated name**: *E. Franz*
 
 #### Herbarium and types
 

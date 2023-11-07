@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/item/103833#page/100/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33259134) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dauphin, Jean (fl. 1904-1908), French botanist (cryptogamist) and teacher, préparateur at the faculty of science in Paris and teacher at an Alsatian school. (*Dauphin*).
+Dauphin, Jean (fl. 1904-1908), French botanist (cryptogamist) and teacher, préparateur at the faculty of science in Paris and teacher at an Alsatian school. 
+**Abbreviated name**: *Dauphin*
 
 #### Herbarium and types
 

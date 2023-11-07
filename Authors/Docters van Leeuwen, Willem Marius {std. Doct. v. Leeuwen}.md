@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103835#page/14/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33259992) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Docters van Leeuwen, Willem Marius (1880-1960), Dutch biologist, born 16 Mar 1880, Batavia \[Djakarta\], studied at the University of Amsterdam, Dr. phil. ib. 1907, entomologist at the Salatiga (Java) General Experiment Station 1908-1909, teacher at secondary schools at Semarang 1909-1915, also as director at Bandoeng 1915-1918, director of the Buitenzorg Botanic Gardens 1918-1932, from 1926-1932 also extraordinary professor at the Batavia Medical School, from 1932 in retirement at Leersum, Netherlands, later for some years parttime lecturer, later extraordinary professor at the University of Amsterdam, died 25 Feb 1960, Amsterdam. (*Doct. v. Leeuwen*).
+Docters van Leeuwen, Willem Marius (1880-1960), Dutch biologist, born 16 Mar 1880, Batavia \[Djakarta\], studied at the University of Amsterdam, Dr. phil. ib. 1907, entomologist at the Salatiga (Java) General Experiment Station 1908-1909, teacher at secondary schools at Semarang 1909-1915, also as director at Bandoeng 1915-1918, director of the Buitenzorg Botanic Gardens 1918-1932, from 1926-1932 also extraordinary professor at the Batavia Medical School, from 1932 in retirement at Leersum, Netherlands, later for some years parttime lecturer, later extraordinary professor at the University of Amsterdam, died 25 Feb 1960, Amsterdam. 
+**Abbreviated name**: *Doct. v. Leeuwen*
 
 #### Note
 

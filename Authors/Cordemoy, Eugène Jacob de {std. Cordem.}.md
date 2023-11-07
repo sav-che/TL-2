@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/103414#page/596/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33120679) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cordemoy, Eugène Jacob de (1835-1911), botanist on Réunion. (*Cordem.*).
+Cordemoy, Eugène Jacob de (1835-1911), botanist on Réunion. 
+**Abbreviated name**: *Cordem.*
 
 #### Herbarium and types
 

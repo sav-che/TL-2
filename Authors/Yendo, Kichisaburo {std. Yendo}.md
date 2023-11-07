@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/item/103250#page/550/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33066830) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Yendo, Kichisaburo (1874-1921), Japanese algologist; studied at the College of Science, Imperial University of Tokyo (grad. bot. 1901); professor of marine botany Hokkaido Imperial University 1907; Dr. Sci. ib. 1908; retired on account of ill health in 1919. (*Yendo*).
+Yendo, Kichisaburo (1874-1921), Japanese algologist; studied at the College of Science, Imperial University of Tokyo (grad. bot. 1901); professor of marine botany Hokkaido Imperial University 1907; Dr. Sci. ib. 1908; retired on account of ill health in 1919. 
+**Abbreviated name**: *Yendo*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103860#page/81/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33265748) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cheeseman, Thomas Frederick {std. Cheeseman}|first entry]] for this author
 
 ### Author
 
-\* Cheeseman, Thomas Frederick (1846-1923), British born botanist, came to New Zealand 1854 (with his parents), living in Auckland, at the Purnell Grammar School, later at St. John's College, correspondent of J.D. Hooker, secretary of the Auckland Institute and curator of the Museum 1874, continuing his botanizing, visited the Kermadec Islands 1887, with J. Adams to Mangonui 1895, Raratonga 1899. (*Cheeseman*).
+\* Cheeseman, Thomas Frederick (1846-1923), British born botanist, came to New Zealand 1854 (with his parents), living in Auckland, at the Purnell Grammar School, later at St. John's College, correspondent of J.D. Hooker, secretary of the Auckland Institute and curator of the Museum 1874, continuing his botanizing, visited the Kermadec Islands 1887, with J. Adams to Mangonui 1895, Raratonga 1899. 
+**Abbreviated name**: *Cheeseman*
 
 #### Herbarium and types
 

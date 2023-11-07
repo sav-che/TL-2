@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103835#page/91/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33260069) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Downie, Dorothy G. (?-1960), British botanist, BS at Edinburgh 1917, assistant to W.G. Craib at Aberdeen, went to America and became lecturer at Chicago University 1925-1928, studying cycads and orchid mycorrhiza, Ph.D. 1928 at University of Chicago, died 22 Aug 1960. (*Downie*).
+Downie, Dorothy G. (?-1960), British botanist, BS at Edinburgh 1917, assistant to W.G. Craib at Aberdeen, went to America and became lecturer at Chicago University 1925-1928, studying cycads and orchid mycorrhiza, Ph.D. 1928 at University of Chicago, died 22 Aug 1960. 
+**Abbreviated name**: *Downie*
 
 #### Herbarium and types
 

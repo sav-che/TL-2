@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/item/103250#page/616/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33066896) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zorn, Johannes (1739-1799), German (Bavarian) pharmacist at Kempten. (*Zorn*).
+Zorn, Johannes (1739-1799), German (Bavarian) pharmacist at Kempten. 
+**Abbreviated name**: *Zorn*
 
 #### Herbarium and types
 

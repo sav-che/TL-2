@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103250#page/380/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33066660) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williams, Louis Otho (1908-x), American botanist and museum curator; B.A. Univ. Wyoming 1932, MS. 1933; Dr. phil. Washington Univ. St. Louis 1936; Research associate Harvard Univ. 1936-1946 (1942-1946 in Brazil on U.S. wild rubber project); botanist United Fruit Company and Escuela Agricola Panamericana, Tegucigalpa, Honduras 1946-1957; economic botanist U.S.D.A. 1957-1960; curator and chairman (1971-1973) of the Botany Department, Field Mus., Chicago 1960-1974; emeritus curator Field Mus. from 1975. (*L.O. Williams*).
+Williams, Louis Otho (1908-x), American botanist and museum curator; B.A. Univ. Wyoming 1932, MS. 1933; Dr. phil. Washington Univ. St. Louis 1936; Research associate Harvard Univ. 1936-1946 (1942-1946 in Brazil on U.S. wild rubber project); botanist United Fruit Company and Escuela Agricola Panamericana, Tegucigalpa, Honduras 1946-1957; economic botanist U.S.D.A. 1957-1960; curator and chairman (1971-1973) of the Botany Department, Field Mus., Chicago 1960-1974; emeritus curator Field Mus. from 1975. 
+**Abbreviated name**: *L.O. Williams*
 
 #### Herbarium and types
 

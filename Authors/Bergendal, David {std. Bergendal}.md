@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/103859#page/97/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33265284) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergendal, David (1855-1908), Swedish (Bohuslän) botanist, educated at Lund and Göteborg, final examination Göteborg 1874, studied at the University of Göteborg, cand. ex. 1877, dr. phil. 1883, lecturer in botany at Lund 1883, id. zoology 1886, e.o. prof. anatomy 1894, professor of zoology 1904, teacher at a private school in Lund 1883-1892, director ib. 1892-1897. (*Bergendal*).
+Bergendal, David (1855-1908), Swedish (Bohuslän) botanist, educated at Lund and Göteborg, final examination Göteborg 1874, studied at the University of Göteborg, cand. ex. 1877, dr. phil. 1883, lecturer in botany at Lund 1883, id. zoology 1886, e.o. prof. anatomy 1894, professor of zoology 1904, teacher at a private school in Lund 1883-1892, director ib. 1892-1897. 
+**Abbreviated name**: *Bergendal*
 
 #### Herbarium and types
 

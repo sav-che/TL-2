@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103624#page/60/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33189479) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pantling, Robert (1856-1910), British botanist; trained at Kew as a gardener; assistant Cinchona Dept., Bengal, 1879; curator Royal Botanic Gardens, Calcutta Dec 1879; at the Cinchona Dept. 1880; from 1897 as deputy superintendent. (*Pantl.*).
+Pantling, Robert (1856-1910), British botanist; trained at Kew as a gardener; assistant Cinchona Dept., Bengal, 1879; curator Royal Botanic Gardens, Calcutta Dec 1879; at the Cinchona Dept. 1880; from 1897 as deputy superintendent. 
+**Abbreviated name**: *Pantl.*
 
 #### Herbarium and types
 

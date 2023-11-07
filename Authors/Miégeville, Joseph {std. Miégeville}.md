@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/104137#page/486/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33355557) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miégeville, Joseph (1819-1901), French clergyman, botanist and explorer of the Pyrenees. (*Miégeville*).
+Miégeville, Joseph (1819-1901), French clergyman, botanist and explorer of the Pyrenees. 
+**Abbreviated name**: *Miégeville*
 
 #### Herbarium and types
 

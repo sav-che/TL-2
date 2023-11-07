@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103859#page/162/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33265349) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beyma thoe Kingma, Frederik Hessel (1885-1966), Dutch mycologist connected with the Central Bureau voor Schimmelcultures at Baarn (nr. Utrecht). (*J.F.H. Beyma*).
+Beyma thoe Kingma, Frederik Hessel (1885-1966), Dutch mycologist connected with the Central Bureau voor Schimmelcultures at Baarn (nr. Utrecht). 
+**Abbreviated name**: *J.F.H. Beyma*
 
 #### Herbarium and types
 

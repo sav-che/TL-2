@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103832#page/363/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33258829) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grecescu, Dimitrie {std. Grecescu}|first entry]] for this author
 
 ### Author
 
-\* Grecescu, Dimitrie \[Demetrius\] (1841-1910), Romanian botanist and physician, born 15 Jun 1841 in Cernetz, studied medicine in Paris 1868, Academia Româna 1907, died 20 Oct 1910 in Bucharest. (*Grecescu*).
+\* Grecescu, Dimitrie \[Demetrius\] (1841-1910), Romanian botanist and physician, born 15 Jun 1841 in Cernetz, studied medicine in Paris 1868, Academia Româna 1907, died 20 Oct 1910 in Bucharest. 
+**Abbreviated name**: *Grecescu*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/103860#page/480/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33266147) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Croasdale, Hannah Thompson (1905-x), American phycologist and botanist, born at Daylesford, Pennsylvania, 18 Nov 1905, at the University of Pennsylvania B.S. 1928, M.S. 1931, Ph.D. 1935, Mem. staff Biol. Abstracts 1928-1932, preparator botany 1932-1933, res. asst. 1935-1946, assoc. zool. 1946-1959, from asst. professor to professor 1959-1971, emer. Prof. Biol. 1971-x. (*Croasdale*).
+Croasdale, Hannah Thompson (1905-x), American phycologist and botanist, born at Daylesford, Pennsylvania, 18 Nov 1905, at the University of Pennsylvania B.S. 1928, M.S. 1931, Ph.D. 1935, Mem. staff Biol. Abstracts 1928-1932, preparator botany 1932-1933, res. asst. 1935-1946, assoc. zool. 1946-1959, from asst. professor to professor 1959-1971, emer. Prof. Biol. 1971-x. 
+**Abbreviated name**: *Croasdale*
 
 #### Herbarium and types
 

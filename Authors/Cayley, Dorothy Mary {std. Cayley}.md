@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/item/103861#page/487/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33266784) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cayley, Dorothy Mary (1874-1955), British mycologist at the John Innes Horticultural Institution 1910-1938. (*Cayley*).
+Cayley, Dorothy Mary (1874-1955), British mycologist at the John Innes Horticultural Institution 1910-1938. 
+**Abbreviated name**: *Cayley*
 
 #### Herbarium and types
 

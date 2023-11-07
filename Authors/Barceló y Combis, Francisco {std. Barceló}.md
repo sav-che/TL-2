@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/item/103414#page/168/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33120251) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barceló y Combis, Francisco {std. Barceló} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Barceló y Combis, Francisco (x-1889), Spanish botanist. (*Barceló*).
+Barceló y Combis, Francisco (x-1889), Spanish botanist. 
+**Abbreviated name**: *Barceló*
 
 #### Herbarium and types
 

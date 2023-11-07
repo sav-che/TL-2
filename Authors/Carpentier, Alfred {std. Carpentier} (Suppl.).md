@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103861#page/430/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33266727) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carpentier, Alfred, abbé {std. Carpentier}|first entry]] for this author
 
 ### Author
 
-\* Carpentier, Alfred (1878-1952), French catholic priest, ultimately canon, and palaeobotanist, born at Avesnes, educated at the Avesnes college, at the secondary school of the seminary of Cambrai, studied palaeobotany and biology at the Catholic University at Lille, further studies at the theological faculty at Lille, teacher at the Institution Notre-Dame de Valenciennes, studied the carboniferous of the region, at 1905 teacher at the Faculté libre des sciences of Lille, Dr. phil. ib 1913, from then on studying mainly palaeontology (*Carpentier*).
+\* Carpentier, Alfred (1878-1952), French catholic priest, ultimately canon, and palaeobotanist, born at Avesnes, educated at the Avesnes college, at the secondary school of the seminary of Cambrai, studied palaeobotany and biology at the Catholic University at Lille, further studies at the theological faculty at Lille, teacher at the Institution Notre-Dame de Valenciennes, studied the carboniferous of the region, at 1905 teacher at the Faculté libre des sciences of Lille, Dr. phil. ib 1913, from then on studying mainly palaeontology 
+**Abbreviated name**: *Carpentier*
 
 #### Collections
 

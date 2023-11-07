@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/104077#page/40/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33333127) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sand, Austin Westman William (*fl*. 1926), American botanist at the Agricultural Experiment Station of Cornell University. (*Sand*).
+Sand, Austin Westman William (*fl*. 1926), American botanist at the Agricultural Experiment Station of Cornell University. 
+**Abbreviated name**: *Sand*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/item/103624#page/593/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raoul, Édouard François Armand (1845-1898), French botanist and naval pharmacist; in Formosa 1873 and 1884; on a mission of circumnavigation 1885-1888; member of the High Colonial Council and professor of colonial agriculture at the "École coloniale".(*E.F.A. Raoul*).
+Raoul, Édouard François Armand (1845-1898), French botanist and naval pharmacist; in Formosa 1873 and 1884; on a mission of circumnavigation 1885-1888; member of the High Colonial Council and professor of colonial agriculture at the "École coloniale".
+**Abbreviated name**: *E.F.A. Raoul*
 
 #### Herbarium and types
 

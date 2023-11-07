@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103250#page/306/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33066586) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Whistling, Christian Gottfried (1757-1807), German physician and botanist. (*Whistling*).
+Whistling, Christian Gottfried (1757-1807), German physician and botanist. 
+**Abbreviated name**: *Whistling*
 
 #### Herbarium and types
 

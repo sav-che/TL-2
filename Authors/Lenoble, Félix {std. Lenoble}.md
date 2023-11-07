@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/item/103253#page/869/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33069085) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lenoble, Félix (1867-1949), French floristic botanist; trained at the teachers College of Saint-Cloud; high school teacher at Rennes and Valence; from 1900-1933 "inspecteur du travail" (factory inspector) at Angoulême, Marseille, Privas, Valence and Dijon. (*Lenoble*).
+Lenoble, Félix (1867-1949), French floristic botanist; trained at the teachers College of Saint-Cloud; high school teacher at Rennes and Valence; from 1900-1933 "inspecteur du travail" (factory inspector) at Angoulême, Marseille, Privas, Valence and Dijon. 
+**Abbreviated name**: *Lenoble*
 
 #### Herbarium and types
 

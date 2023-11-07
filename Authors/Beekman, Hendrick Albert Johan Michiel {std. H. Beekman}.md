@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/103859#page/50/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33265237) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beekman, Hendrick Albert Johan Michiel (1874-?), Dutch botanist and forester, born at Utrecht, at the Rijks Landbouwschool Wageningen 1895, id. at the Forstakademie Tharandt, Sachsen 1896, at the University of Leiden 1897, forester in the Netherlands Indies 1897, in charge of the Bosbouwproefstation in Buitenzorg (Bogor) 1911, Dr. Agric. Wageningen 1920, id. professor from 1921. (*H. Beekman*).
+Beekman, Hendrick Albert Johan Michiel (1874-?), Dutch botanist and forester, born at Utrecht, at the Rijks Landbouwschool Wageningen 1895, id. at the Forstakademie Tharandt, Sachsen 1896, at the University of Leiden 1897, forester in the Netherlands Indies 1897, in charge of the Bosbouwproefstation in Buitenzorg (Bogor) 1911, Dr. Agric. Wageningen 1920, id. professor from 1921. 
+**Abbreviated name**: *H. Beekman*
 
 #### Herbarium and types
 

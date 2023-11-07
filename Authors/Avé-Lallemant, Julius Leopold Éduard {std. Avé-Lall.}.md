@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103414#page/130/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Avé-Lallemant, Julius Leopold Éduard {std. Avé-Lall.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Avé-Lallemant, Julius Leopold Éduard (1803-1867), German botanist who worked at the botanical garden in St. Petersburg from 1838-1855. (*Avé-Lall.*).
+Avé-Lallemant, Julius Leopold Éduard (1803-1867), German botanist who worked at the botanical garden in St. Petersburg from 1838-1855. 
+**Abbreviated name**: *Avé-Lall.*
 
 #### Herbarium and types
 

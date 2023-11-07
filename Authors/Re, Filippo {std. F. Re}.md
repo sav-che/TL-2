@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/103624#page/625/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33190082) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Re, Filippo (1763-1817), Italian economic botanist and phytopathologist; professor of agriculture at Bologna; subsequently professor of botany and agriculture and director of the botanical garden at Modena 1814-1817. (*F. Re*).
+Re, Filippo (1763-1817), Italian economic botanist and phytopathologist; professor of agriculture at Bologna; subsequently professor of botany and agriculture and director of the botanical garden at Modena 1814-1817. 
+**Abbreviated name**: *F. Re*
 
 #### Herbarium and types
 

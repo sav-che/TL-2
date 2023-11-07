@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/item/103414#page/728/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33120811) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drège, Jean François (Johann Franz) {std. Drège} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Drège, Jean François (Johann Franz) (1794-1881), German plant collector in South Africa (1826-1834). (*Drège*).
+Drège, Jean François (Johann Franz) (1794-1881), German plant collector in South Africa (1826-1834). 
+**Abbreviated name**: *Drège*
 
 #### Herbarium and types
 

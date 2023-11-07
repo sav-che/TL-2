@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/item/103253#page/883/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33069099) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Letellier, Jean Baptiste Louis (*fl*. 1829-1842), French mycologist. (*Letell.*).
+Letellier, Jean Baptiste Louis (*fl*. 1829-1842), French mycologist. 
+**Abbreviated name**: *Letell.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/item/103624#page/771/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33190228) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rich, William (*fl*. 1830-1850), American botanist on the Wilkes Expedition (1838-1842); younger brother of Obadiah Rich. (*W. Rich*).
+Rich, William (*fl*. 1830-1850), American botanist on the Wilkes Expedition (1838-1842); younger brother of Obadiah Rich. 
+**Abbreviated name**: *W. Rich*
 
 #### Herbarium and types
 

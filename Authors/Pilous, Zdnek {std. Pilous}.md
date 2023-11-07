@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103624#page/281/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pilous, Zdnek (1912-x), Czechoslavak bryologist, Privatgelehrter at Hostinné. (*Pilous*).
+Pilous, Zdnek (1912-x), Czechoslavak bryologist, Privatgelehrter at Hostinné. 
+**Abbreviated name**: *Pilous*
 
 #### Herbarium and types
 

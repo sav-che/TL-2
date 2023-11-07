@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103832#page/388/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33258854) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Greter, Fintan (Pater) (1899-1984), Swiss bryologist and priest, born 21 Mar 1899 in Ebikon (Kt. Luzern), studied theology and became a Benedictine priest, also studied botany, Univ. of Freiburg, died 14 Mai 1984 in Priesterseminar Luzern. (*Greter*).
+Greter, Fintan (Pater) (1899-1984), Swiss bryologist and priest, born 21 Mar 1899 in Ebikon (Kt. Luzern), studied theology and became a Benedictine priest, also studied botany, Univ. of Freiburg, died 14 Mai 1984 in Priesterseminar Luzern. 
+**Abbreviated name**: *Greter*
 
 #### Herbarium and types
 

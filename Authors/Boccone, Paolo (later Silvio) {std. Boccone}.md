@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103414#page/291/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33120374) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boccone, Paolo (later Silvio) (1633-1704), Italian botanist of the grand-duke of Tuscany, professor of Botany at Padua, who collected in Italy, Sicily, Corsica (1677), Malta and travelled in western Europe. (*Boccone*).
+Boccone, Paolo (later Silvio) (1633-1704), Italian botanist of the grand-duke of Tuscany, professor of Botany at Padua, who collected in Italy, Sicily, Corsica (1677), Malta and travelled in western Europe. 
+**Abbreviated name**: *Boccone*
 
 #### Herbarium and types
 

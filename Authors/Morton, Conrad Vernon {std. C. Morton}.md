@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/104137#page/614/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33355685) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morton, Conrad Vernon (1905-1972), American botanist; AB, Univ. Calif., 1928; at the Smithsonian Institution (1928-1972), specialist on pteridophytes, Gesneriaceae and Solanaceae. (*C. Morton*).
+Morton, Conrad Vernon (1905-1972), American botanist; AB, Univ. Calif., 1928; at the Smithsonian Institution (1928-1972), specialist on pteridophytes, Gesneriaceae and Solanaceae. 
+**Abbreviated name**: *C. Morton*
 
 #### Herbarium and types
 

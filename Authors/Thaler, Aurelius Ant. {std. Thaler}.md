@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103683#page/242/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thaler, Aurelius Ant. (1796-1843), Moravian botanist and Augustine monk; professor of philosophy at Brno \[Brünn\] from 1820. (*Thaler*).
+Thaler, Aurelius Ant. (1796-1843), Moravian botanist and Augustine monk; professor of philosophy at Brno \[Brünn\] from 1820. 
+**Abbreviated name**: *Thaler*
 
 #### Herbarium and types
 

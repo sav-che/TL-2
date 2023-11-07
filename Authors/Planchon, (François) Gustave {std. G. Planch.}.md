@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103624#page/297/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33189754) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Planchon, \[François\] Gustave (1833-1900), French botanist and pharmacist; Dr. med. Montpellier 1859; prof. agr. méd. Montpellier 1860, prof. bot. Lausanne 1862; Dr. sci. Paris 1864; Pharm. I. classe 1864; prof. at École de Pharmacie, Montpellier 1864-1866; prof. École supérieure de Pharmacie de Paris 1866; prof. id. 1886-1900; brother of J.E. Planchon. (*G. Planch.*).
+Planchon, \[François\] Gustave (1833-1900), French botanist and pharmacist; Dr. med. Montpellier 1859; prof. agr. méd. Montpellier 1860, prof. bot. Lausanne 1862; Dr. sci. Paris 1864; Pharm. I. classe 1864; prof. at École de Pharmacie, Montpellier 1864-1866; prof. École supérieure de Pharmacie de Paris 1866; prof. id. 1886-1900; brother of J.E. Planchon. 
+**Abbreviated name**: *G. Planch.*
 
 #### Herbarium and types
 

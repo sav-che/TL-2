@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/item/103834#page/249/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33259731) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fitting, Hans \[Johannes\] Theodor Gustav Ernst (1877-1970), German botanist (physiologist), born 23 Apr 1877 in Halle am Saale, educated by private teachers, then attended gymnasium in Halle 1886-1895, studied natural sciences in Halle 1895-1896 and chemistry, paleontology, zoology and botany at Strassburg 1896-1900, Dr. Sci. 1900, asst. in Tübingen 1902, visited Buitenzorg (now Bogor) Oct 1907-Apr 1908, extraord. prof. in Halle 1910, succeeded E.A. Strasburger in Hamburg 1911, prof. in Bonn 1912, died 6 Jul 1970. (*Fitting*).
+Fitting, Hans \[Johannes\] Theodor Gustav Ernst (1877-1970), German botanist (physiologist), born 23 Apr 1877 in Halle am Saale, educated by private teachers, then attended gymnasium in Halle 1886-1895, studied natural sciences in Halle 1895-1896 and chemistry, paleontology, zoology and botany at Strassburg 1896-1900, Dr. Sci. 1900, asst. in Tübingen 1902, visited Buitenzorg (now Bogor) Oct 1907-Apr 1908, extraord. prof. in Halle 1910, succeeded E.A. Strasburger in Hamburg 1911, prof. in Bonn 1912, died 6 Jul 1970. 
+**Abbreviated name**: *Fitting*
 
 #### Note
 

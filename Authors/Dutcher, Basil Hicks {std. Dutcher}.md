@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103835#page/217/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33260195) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dutcher, Basil Hicks (1871-1922), American colonel in the U.S. Medical Corps, with the U.S. Biological Survey in Idaho, studied at Columbia College and joined in his second year the Bureau of Biological Survey collecting mammals. (*Dutcher*).
+Dutcher, Basil Hicks (1871-1922), American colonel in the U.S. Medical Corps, with the U.S. Biological Survey in Idaho, studied at Columbia College and joined in his second year the Bureau of Biological Survey collecting mammals. 
+**Abbreviated name**: *Dutcher*
 
 #### Herbarium and types
 

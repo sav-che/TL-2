@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/item/103683#page/524/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33212556) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tschermak-Seysenegg, Erich von (1871-1962), Austrian botanist and zoologist; grandson of Eduard Fenzl; studied at the University of Vienna and at the Hochschule für Bodenkultur ib. 1891-1896; continued his studies at the University of Halle; Dr. phil. Halle 1896; with the Agricultural Stations at Stendal and id. Quedlinburg 1896-1897; in 1898 working at the botanical garden of Gent, Belgium, experimenting with various types of peas; rediscovered Mendel's laws of heredity independently of but simultaneously with Hugo de Vries and Carl Correns (publ. 1900); habil. Wien 1900; lecturer at the Hochschule für Bodenkultur 1900; assistant to the chair of theoretical plant breeding 1902; extraordinary professor 1906, full professor 1906-1939, in retirement in Vienna; Cothenius Medal 1937, Goethe medal 1941, Darwin plaque 1959. (*Tschermak*).
+Tschermak-Seysenegg, Erich von (1871-1962), Austrian botanist and zoologist; grandson of Eduard Fenzl; studied at the University of Vienna and at the Hochschule für Bodenkultur ib. 1891-1896; continued his studies at the University of Halle; Dr. phil. Halle 1896; with the Agricultural Stations at Stendal and id. Quedlinburg 1896-1897; in 1898 working at the botanical garden of Gent, Belgium, experimenting with various types of peas; rediscovered Mendel's laws of heredity independently of but simultaneously with Hugo de Vries and Carl Correns (publ. 1900); habil. Wien 1900; lecturer at the Hochschule für Bodenkultur 1900; assistant to the chair of theoretical plant breeding 1902; extraordinary professor 1906, full professor 1906-1939, in retirement in Vienna; Cothenius Medal 1937, Goethe medal 1941, Darwin plaque 1959. 
+**Abbreviated name**: *Tschermak*
 
 #### Herbarium and types
 

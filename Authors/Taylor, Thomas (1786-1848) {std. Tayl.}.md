@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103683#page/200/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33212232) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, Thomas (1786-1848), India-born Irish botanist; M.D. Trinity College, Dublin 1814; physician in ordinary to Sir Patrick Dun's Hospital in Dublin 1814-1820; professor of botany and natural history at the Royal Cork Scientific Institution 1820-1830; in retirement at Dunkerron, County Kerry from 1830-1840; physician to the Union Work House at Kenman 1840-1847. (*Tayl.*).
+Taylor, Thomas (1786-1848), India-born Irish botanist; M.D. Trinity College, Dublin 1814; physician in ordinary to Sir Patrick Dun's Hospital in Dublin 1814-1820; professor of botany and natural history at the Royal Cork Scientific Institution 1820-1830; in retirement at Dunkerron, County Kerry from 1830-1840; physician to the Union Work House at Kenman 1840-1847. 
+**Abbreviated name**: *Tayl.*
 
 #### Herbarium and types
 

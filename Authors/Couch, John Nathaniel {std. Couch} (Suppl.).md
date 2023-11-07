@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/103860#page/420/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33266087) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Couch, John Nathaniel {std. Couch}|first entry]] for this author
 
 ### Author
 
-\* Couch, John Nathaniel (1896-1986), American mycologist, born at Prince Edward Co., Virginia 12 Oct 1896, graduated in 1914 at the High School and Trinity College, later (1914) at Duke University of North Carolina, Chapel Hill, assistant professor idem 1927, associate professor 1929, full professor 1932, Kenan professor of botany 1945, chairman of the dept. of botany until 1960. (*Couch*).
+\* Couch, John Nathaniel (1896-1986), American mycologist, born at Prince Edward Co., Virginia 12 Oct 1896, graduated in 1914 at the High School and Trinity College, later (1914) at Duke University of North Carolina, Chapel Hill, assistant professor idem 1927, associate professor 1929, full professor 1932, Kenan professor of botany 1945, chairman of the dept. of botany until 1960. 
+**Abbreviated name**: *Couch*
 
 #### Herbarium and types
 

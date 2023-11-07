@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/item/103833#page/346/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33259380) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dietrich, Friedrich Carl (1805-1891), German botanist, born 14 Oct 1805 Danzig, died 13 Sep 1891 Berlin, custos at the Botanical Museum of Berlin. (*F.C. Dietr.*).
+Dietrich, Friedrich Carl (1805-1891), German botanist, born 14 Oct 1805 Danzig, died 13 Sep 1891 Berlin, custos at the Botanical Museum of Berlin. 
+**Abbreviated name**: *F.C. Dietr.*
 
 #### Herbarium and types
 

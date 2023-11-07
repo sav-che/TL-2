@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/item/103253#page/867/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33069083) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lemoine (Pierre Louis) Victor (1823-1911), French horticulturist; trained e.g. at Gent by Louis Van Houtte; at Nancy from 1850; raised many new cultivars of *Begonia, Syringa, Clematis, Fuchsia* and *Deutzia*. (*Lemoine*).
+Lemoine (Pierre Louis) Victor (1823-1911), French horticulturist; trained e.g. at Gent by Louis Van Houtte; at Nancy from 1850; raised many new cultivars of *Begonia, Syringa, Clematis, Fuchsia* and *Deutzia*. 
+**Abbreviated name**: *Lemoine*
 
 #### Herbarium and types
 

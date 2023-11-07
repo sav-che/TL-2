@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/item/103253#page/614/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koch, Johann Friedrich Wilhelm (1759-1831), German botanist and "Consistorialrath" in Magdeburg. (*J. Koch*).
+Koch, Johann Friedrich Wilhelm (1759-1831), German botanist and "Consistorialrath" in Magdeburg. 
+**Abbreviated name**: *J. Koch*
 
 #### Herbarium and types
 

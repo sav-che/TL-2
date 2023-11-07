@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103861#page/172/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33266469) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunel, Jules \[Bienvenu\] (1905-1986), Canadian botanist connected with the Université de Montréal 1921-1956, published widely on the algological flora of Canada with an emphasis on Desmidiaceae, marine Diatoms, and Dinophyceae, especially of the Province of Quebec. (*Brunel*).
+Brunel, Jules \[Bienvenu\] (1905-1986), Canadian botanist connected with the Université de Montréal 1921-1956, published widely on the algological flora of Canada with an emphasis on Desmidiaceae, marine Diatoms, and Dinophyceae, especially of the Province of Quebec. 
+**Abbreviated name**: *Brunel*
 
 #### Herbarium and types
 

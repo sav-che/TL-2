@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103861#page/411/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266708) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cardot, Jules {std. Cardot}|first entry]] for this author
 
 ### Author
 
-\* Cardot, Jules (1860-1934), French bryologist, born at Stenay (Meuse), educated at the primary school of Stenay, at the Lyceum at Bar-le-Duc, dedicated himself to botany, sometime at Montmédy, during World-War I in Paris, "functionnaire de l'Agence économique de l'Indochine" 1917-1931, ultimately living at Charleville nr. Mezières. (*Cardot*).
+\* Cardot, Jules (1860-1934), French bryologist, born at Stenay (Meuse), educated at the primary school of Stenay, at the Lyceum at Bar-le-Duc, dedicated himself to botany, sometime at Montmédy, during World-War I in Paris, "functionnaire de l'Agence économique de l'Indochine" 1917-1931, ultimately living at Charleville nr. Mezières. 
+**Abbreviated name**: *Cardot*
 
 #### Herbarium and types
 

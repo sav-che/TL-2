@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/104077#page/31/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33333166) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sampaio, Alberto José de (1881-1946), Brazilian botanist; with the botanical section of the Rio de Janeiro Museo nacional from 1905; from 1910 as associate professor, and from 1912 as professor and chief of the section. (*A. Samp.*).
+Sampaio, Alberto José de (1881-1946), Brazilian botanist; with the botanical section of the Rio de Janeiro Museo nacional from 1905; from 1910 as associate professor, and from 1912 as professor and chief of the section. 
+**Abbreviated name**: *A. Samp.*
 
 #### Herbarium and types
 

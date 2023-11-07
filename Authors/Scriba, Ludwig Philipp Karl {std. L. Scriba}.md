@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/104077#page/478/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scriba, Ludwig Philipp Karl (1847-1933), German (Hessen) mechanical engineer and lichenologist; studied engineering at Zürich (exam. 1867); engineer in various factories in Bremen, Berlin, London and Frankfurt a.M.; started the Höchster Giessereien L. Scriba in 1878; Dr. h.c. Frankfurt a. Main 1927. (*L. Scriba*).
+Scriba, Ludwig Philipp Karl (1847-1933), German (Hessen) mechanical engineer and lichenologist; studied engineering at Zürich (exam. 1867); engineer in various factories in Bremen, Berlin, London and Frankfurt a.M.; started the Höchster Giessereien L. Scriba in 1878; Dr. h.c. Frankfurt a. Main 1927. 
+**Abbreviated name**: *L. Scriba*
 
 #### Herbarium and types
 

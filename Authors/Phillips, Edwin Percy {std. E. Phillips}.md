@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103624#page/254/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33189711) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phillips, Edwin Percy (1884-1967), South African botanist; Dr. sci. Univ. Cape 1915; with the South African Museum at Capetown 1917-1918; from 1918-1944 at the National Herbarium, Pretoria (chief (1939-1944). (*E. Phillips*).
+Phillips, Edwin Percy (1884-1967), South African botanist; Dr. sci. Univ. Cape 1915; with the South African Museum at Capetown 1917-1918; from 1918-1944 at the National Herbarium, Pretoria (chief (1939-1944). 
+**Abbreviated name**: *E. Phillips*
 
 #### Herbarium and types
 

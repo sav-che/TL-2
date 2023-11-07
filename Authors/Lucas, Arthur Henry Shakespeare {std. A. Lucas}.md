@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/104137#page/196/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33355267) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lucas, Arthur Henry Shakespeare (1853-1936), British-born Australian botanist and science master; at Wesley College, Melbourne 1883, at Stanmore, N.S.W. 1892, at Sydney 1899-1923. (*A. Lucas*).
+Lucas, Arthur Henry Shakespeare (1853-1936), British-born Australian botanist and science master; at Wesley College, Melbourne 1883, at Stanmore, N.S.W. 1892, at Sydney 1899-1923. 
+**Abbreviated name**: *A. Lucas*
 
 #### Herbarium and types
 

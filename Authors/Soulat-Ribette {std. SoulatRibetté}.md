@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/item/104077#page/770/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soulat-Ribette (*fl*. 1892), French botanist and "chef d'institution" at Limoges. (*Soulat-Ribetté*).
+Soulat-Ribette (*fl*. 1892), French botanist and "chef d'institution" at Limoges. 
+**Abbreviated name**: *Soulat-Ribetté*
 
 #### Herbarium and types
 

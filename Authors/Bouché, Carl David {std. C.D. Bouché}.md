@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/item/103859#page/385/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33265572) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bouché, Carl David (1809-1881), German (Berlin born) gardener and botanist, educated at the "Gymnasium zum grauen Kloster" until 1823, worked with his father Peter Carl Bouché at the Schöneberg garden school 1823-1831, from 1831-1839 employed at the Berlin Botanical Garden, at the Pfaueninsel as gardener 1839-1843, "inspector" \[director\] of the Botanical Garden from 1843-1881. (*C.D. Bouché*).
+Bouché, Carl David (1809-1881), German (Berlin born) gardener and botanist, educated at the "Gymnasium zum grauen Kloster" until 1823, worked with his father Peter Carl Bouché at the Schöneberg garden school 1823-1831, from 1831-1839 employed at the Berlin Botanical Garden, at the Pfaueninsel as gardener 1839-1843, "inspector" \[director\] of the Botanical Garden from 1843-1881. 
+**Abbreviated name**: *C.D. Bouché*
 
 #### Herbarium and types
 
@@ -34,7 +35,8 @@ AG 2(1): 758; Barnhart 1: 228; BM 1: 211; CSP 1: 514-515; Hortus 3: 1189; IH 2: 
 
 *Bouchea* Chamisso (1832) [^1] see ING 1: 226. 1979.
 
-[^1]: "*Bouchea* Cham. 1832 (Verbenaceae) \[is dedicated to\] Peter Karl Bouché (1783–1856), German gardener, in 1828 he was called inspector of the Botanic Garden Berlin-Schöneberg and his brother Peter Friedrich Bouché (1785–1856), gardener and entomologist. Chamisso (1781–1838) mentioned in his dedication that he and the honoured persons of the family Bouché were all near-born contemporaries (Chamisso, 1832: 252)."
+[^1]: "*Bouchea* Cham. 1832 (Verbenaceae) \[is dedicated to\] Peter Karl Bouché (1783–1856), German gardener, in 1828 he was called inspector of the Botanic Garden Berlin-Schöneberg and his brother Peter Friedrich Bouché (1785–1856), gardener and entomologist. 
+Chamisso (1781–1838) mentioned in his dedication that he and the honoured persons of the family Bouché were all near-born contemporaries (Chamisso, 1832: 252)."
 Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 
 

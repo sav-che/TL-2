@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/104137#page/337/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martin de Argenta, Vicente (*fl*. 1862), Spanish botanist. (*V. Martin*).
+Martin de Argenta, Vicente (*fl*. 1862), Spanish botanist. 
+**Abbreviated name**: *V. Martin*
 
 #### Herbarium and types
 

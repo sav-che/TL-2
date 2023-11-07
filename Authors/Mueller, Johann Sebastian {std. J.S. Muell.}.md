@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/item/104137#page/652/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33355723) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller, Johann Sebastian (1715-1780), German botanical artist who settled in London (1744) and afterwards called himself John Miller. (*J. S. Muell.*).
+Mueller, Johann Sebastian (1715-1780), German botanical artist who settled in London (1744) and afterwards called himself John Miller. 
+**Abbreviated name**: *J. S. Muell.*
 
 #### Collection
 

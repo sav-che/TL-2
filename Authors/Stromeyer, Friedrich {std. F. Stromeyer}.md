@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103683#page/63/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33212057) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stromeyer, Friedrich (1776-1835), German (Hannover) physician, botanist and chemist; Dr. med. Göttingen 1800; lecturer (1802) and professor (1805, e.o.; 1807 ord.) in the medical faculty of Göttingen, from 1817 officially for chemistry and pharmacy, but from 1806 in charge of the chemical laboratory; general inspector of pharmacies in the kingdom of Hannover; Hofrath 1817; son of Johann Friedrich Stromeyer. (*F. Stromeyer*).
+Stromeyer, Friedrich (1776-1835), German (Hannover) physician, botanist and chemist; Dr. med. Göttingen 1800; lecturer (1802) and professor (1805, e.o.; 1807 ord.) in the medical faculty of Göttingen, from 1817 officially for chemistry and pharmacy, but from 1806 in charge of the chemical laboratory; general inspector of pharmacies in the kingdom of Hannover; Hofrath 1817; son of Johann Friedrich Stromeyer. 
+**Abbreviated name**: *F. Stromeyer*
 
 #### Herbarium and types
 

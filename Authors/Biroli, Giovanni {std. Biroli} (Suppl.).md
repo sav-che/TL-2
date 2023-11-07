@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103859#page/183/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265370) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Biroli, Giovanni {std. Biroli}|first entry]] for this author
 
 ### Author
 
-\* Biroli, Giovanni (1772-1825), Italian agronomist and botanist, professor of agriculture at the University of Pavia, later professor of botany at the University of Torino and head of the Botanical Garden of Torino 1815-1817. (*Biroli*).
+\* Biroli, Giovanni (1772-1825), Italian agronomist and botanist, professor of agriculture at the University of Pavia, later professor of botany at the University of Torino and head of the Botanical Garden of Torino 1815-1817. 
+**Abbreviated name**: *Biroli*
 
 #### Herbarium and types
 

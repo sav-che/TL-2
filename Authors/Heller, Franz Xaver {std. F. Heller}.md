@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103253#page/174/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33068390) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heller, Franz Xaver (1775-1840), German botanist; Dr. med. Würzburg 1800; from 1803 extra-ordinary, from 1805 regular professor of botany at Würzburg University. (*F. Heller*).
+Heller, Franz Xaver (1775-1840), German botanist; Dr. med. Würzburg 1800; from 1803 extra-ordinary, from 1805 regular professor of botany at Würzburg University. 
+**Abbreviated name**: *F. Heller*
 
 #### Herbarium and types
 

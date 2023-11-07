@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/item/103414#page/743/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33120826) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dulac, Joseph (*fl*. 1867), French clergyman and botanist. (*Dulac*).
+Dulac, Joseph (*fl*. 1867), French clergyman and botanist. 
+**Abbreviated name**: *Dulac*
 
 #### Herbarium and types
 

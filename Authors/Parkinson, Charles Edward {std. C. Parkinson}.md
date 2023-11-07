@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103624#page/76/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33189533) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parkinson, Charles Edward (1890-1945), Scottish botanist; assistant conservator of forests, Andaman Isl. 1912; India Forest Service, Burma, 1916; Forest Botanist Burma 1925; Forest Research Institute, Dehra Dun 1929. (*C. Parkinson*).
+Parkinson, Charles Edward (1890-1945), Scottish botanist; assistant conservator of forests, Andaman Isl. 1912; India Forest Service, Burma, 1916; Forest Botanist Burma 1925; Forest Research Institute, Dehra Dun 1929. 
+**Abbreviated name**: *C. Parkinson*
 
 #### Herbarium and types
 

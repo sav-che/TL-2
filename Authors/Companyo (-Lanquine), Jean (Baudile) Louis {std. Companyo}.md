@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103860#page/300/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33265967) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Companyo \[-Lanquine\], Jean \[Baudile\] Louis (1781-1871), French botanist and physician, born at Céret, studied medicine at the École de Montpellier, military physician in the army of Spain and Portugal, collected mainly in Catalonia, returned in France attached to the Military hospital of Prades as "chirurgien aide-major", Dr. med. at Montpellier 1812, from 1840 director of the Musée d'histoire naturelle de Perpignan. (*Companyo*).
+Companyo \[-Lanquine\], Jean \[Baudile\] Louis (1781-1871), French botanist and physician, born at Céret, studied medicine at the École de Montpellier, military physician in the army of Spain and Portugal, collected mainly in Catalonia, returned in France attached to the Military hospital of Prades as "chirurgien aide-major", Dr. med. at Montpellier 1812, from 1840 director of the Musée d'histoire naturelle de Perpignan. 
+**Abbreviated name**: *Companyo*
 
 #### Herbarium and types
 

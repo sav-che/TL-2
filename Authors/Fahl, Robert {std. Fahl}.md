@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103834#page/37/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33259519) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fahl, Robert (1878-x), German/Austrian botanist, born 1 Oct 1878 in Blankenberg (Kr. Heilsberg, Ostpreussen), studied economics at Breslau (now Wroclaw, Poland), later philosophy and pedagogy, then botany, zoology and geology, Dr. phil. 1926 Breslau, subsequently employed as a teacher. (*Fahl*).
+Fahl, Robert (1878-x), German/Austrian botanist, born 1 Oct 1878 in Blankenberg (Kr. Heilsberg, Ostpreussen), studied economics at Breslau (now Wroclaw, Poland), later philosophy and pedagogy, then botany, zoology and geology, Dr. phil. 1926 Breslau, subsequently employed as a teacher. 
+**Abbreviated name**: *Fahl*
 
 #### Herbarium and types
 

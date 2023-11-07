@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/item/103414#page/752/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33120835) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Du Petit-Thouars, Louis-Marie Aubert Aubert {std. Thouars} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Du Petit-Thouars, Louis-Marie Aubert Aubert (1758-1831), French traveller and botanist. (*Thouars*).
+Du Petit-Thouars, Louis-Marie Aubert Aubert (1758-1831), French traveller and botanist. 
+**Abbreviated name**: *Thouars*
 
 #### Herbarium and types
 

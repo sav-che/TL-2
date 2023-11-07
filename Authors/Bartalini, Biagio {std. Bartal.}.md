@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103858#page/353/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265068) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bartalini, Biagio (1746-1822), Italian botanist, studied medicine and natural sciences at the University of Siena; professor of natural history and founder and director of the Siena Botanical Garden 1783-1822. (*Bartal.*).
+Bartalini, Biagio (1746-1822), Italian botanist, studied medicine and natural sciences at the University of Siena; professor of natural history and founder and director of the Siena Botanical Garden 1783-1822. 
+**Abbreviated name**: *Bartal.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/104077#page/272/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33333397) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, \[Karl\] Max (1880-?), German (Hamburg) botanist; Dr. phil. Göttingen 1903. (*M. Schmidt*).
+Schmidt, \[Karl\] Max (1880-?), German (Hamburg) botanist; Dr. phil. Göttingen 1903. 
+**Abbreviated name**: *M. Schmidt*
 
 #### Herbarium and types
 

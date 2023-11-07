@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103833#page/242/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33259276) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Desnoix, Charles Julien (fl. 1853), French physician at Paris. (*Desnoix*).
+Desnoix, Charles Julien (fl. 1853), French physician at Paris. 
+**Abbreviated name**: *Desnoix*
 
 #### Herbarium and types
 

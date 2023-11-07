@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/103253#page/285/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holmberg, Eduardo Ladislao (1852-1937), Argentine naturalist, first native Argentinian to become a professional and outstanding botanist and zoologist. (*E. Holmb.*).
+Holmberg, Eduardo Ladislao (1852-1937), Argentine naturalist, first native Argentinian to become a professional and outstanding botanist and zoologist. 
+**Abbreviated name**: *E. Holmb.*
 
 #### Herbarium and types
 

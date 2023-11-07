@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103859#page/183/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265370) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Birnie, Steven (1855-1939), Dutch chemist, botanist and highschool teacher, studied natural sciences at the University of Utrecht 1871-1877, assistant in physical chemistry ib. 1878, Dr. phil. Utrecht 1883, teacher at the Gymnasium in Utrecht from 1886-1919, later director at the first secondary school ("H.B.S.") and other schools at Rotterdam. (*Birnie*).
+Birnie, Steven (1855-1939), Dutch chemist, botanist and highschool teacher, studied natural sciences at the University of Utrecht 1871-1877, assistant in physical chemistry ib. 1878, Dr. phil. Utrecht 1883, teacher at the Gymnasium in Utrecht from 1886-1919, later director at the first secondary school ("H.B.S.") and other schools at Rotterdam. 
+**Abbreviated name**: *Birnie*
 
 #### Bibliography and biography
 

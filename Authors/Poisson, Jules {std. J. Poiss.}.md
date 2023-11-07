@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/103624#page/336/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33189793) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poisson, Jules (1833-1919), French botanist; at the Paris Muséum d'Histoire naturelle from 1843 (sic "élève jardinier") until 1909, from 1864 as "préparateur" (botany), from 1873 aide-naturaliste. (*J. Poiss.*).
+Poisson, Jules (1833-1919), French botanist; at the Paris Muséum d'Histoire naturelle from 1843 (sic "élève jardinier") until 1909, from 1864 as "préparateur" (botany), from 1873 aide-naturaliste. 
+**Abbreviated name**: *J. Poiss.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103414#page/513/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33120596) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cassebeer, Johann Heinrich {std. Casseb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cassebeer, Johann Heinrich (1785-1850), German pharmacist and bryologist. (*Casseb.*).
+Cassebeer, Johann Heinrich (1785-1850), German pharmacist and bryologist. 
+**Abbreviated name**: *Casseb.*
 
 #### Herbarium and types
 

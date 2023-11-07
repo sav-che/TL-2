@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103833#page/212/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33259246) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dengler, Alfred (1874-1944), German forester, born 21 Mar 1874 in Berlin, suicide 15 Oct 1944 Eberswalde, studied at the University of Berlin and at the "Forstakademie" of Eberswalde until 1901, 1902-1909 assistant at the Botanical Institution in Eberswalde as well as at the laboratory for research into plant physiology, Dr. phil. 1903 in München, 1912-1922 "Oberförster Forstmeister" at Göttingen, from 1922-1927 again at Eberswalde. (*Dengler*).
+Dengler, Alfred (1874-1944), German forester, born 21 Mar 1874 in Berlin, suicide 15 Oct 1944 Eberswalde, studied at the University of Berlin and at the "Forstakademie" of Eberswalde until 1901, 1902-1909 assistant at the Botanical Institution in Eberswalde as well as at the laboratory for research into plant physiology, Dr. phil. 1903 in München, 1912-1922 "Oberförster Forstmeister" at Göttingen, from 1922-1927 again at Eberswalde. 
+**Abbreviated name**: *Dengler*
 
 #### Herbarium and types
 

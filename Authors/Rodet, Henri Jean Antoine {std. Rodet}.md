@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/103624#page/842/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rodet, Henri Jean Antoine (1810-1875), French botanist; teacher at the veterinary college of Lyon; later at Toulouse. (*Rodet*).
+Rodet, Henri Jean Antoine (1810-1875), French botanist; teacher at the veterinary college of Lyon; later at Toulouse. 
+**Abbreviated name**: *Rodet*
 
 #### Herbarium and types
 

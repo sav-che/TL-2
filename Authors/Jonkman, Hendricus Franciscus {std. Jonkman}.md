@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/103253#page/485/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33068701) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jonkman, Hendricus Franciscus (*fl*. 1879), Dutch botanist, Ph. D. Utrecht 1879. (*Jonkman*).
+Jonkman, Hendricus Franciscus (*fl*. 1879), Dutch botanist, Ph. D. Utrecht 1879. 
+**Abbreviated name**: *Jonkman*
 
 #### Herbarium and types
 

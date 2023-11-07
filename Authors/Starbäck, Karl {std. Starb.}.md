@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/item/104077#page/857/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33333982) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Starbäck, Karl (1863-1931), Swedish botanist and politician; Dr. phil. Uppsala 1894; lecturer in botany Uppsala 1895-1896; high school teacher for natural history and chemistry at Gävle 1902-1928; member of the Swedish Parliament 1902-1914 and 1921-1924; pioneer of the Swedish nature protection movement (golden medal 1923). (*Starb.*).
+Starbäck, Karl (1863-1931), Swedish botanist and politician; Dr. phil. Uppsala 1894; lecturer in botany Uppsala 1895-1896; high school teacher for natural history and chemistry at Gävle 1902-1928; member of the Swedish Parliament 1902-1914 and 1921-1924; pioneer of the Swedish nature protection movement (golden medal 1923). 
+**Abbreviated name**: *Starb.*
 
 #### Herbarium and types
 

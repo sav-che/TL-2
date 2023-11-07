@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/item/104077#page/839/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33333964) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stadler, Solomon (1842-1917), Swiss botanist and teacher; Dr. phil. Zürich 1886; rector of the girls high school in Winterthur 1872-1878, id. at Zürich 1878-1891, rector ib. 1891-1911. (*Stadler*).
+Stadler, Solomon (1842-1917), Swiss botanist and teacher; Dr. phil. Zürich 1886; rector of the girls high school in Winterthur 1872-1878, id. at Zürich 1878-1891, rector ib. 1891-1911. 
+**Abbreviated name**: *Stadler*
 
 #### Herbarium and types
 

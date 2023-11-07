@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103250#page/156/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33066436) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waterhouse, Benjamin (1754-1846), American physician and naturalist; M.D. Univ. Leiden 1780; practicing physician at Newport 1782; professor of theory and practice of physic Harvard 1783-1812; lecturer in natural history 1788-1809; physician to U.S. Marine Hospital, Charlestown, Mass. 1807-1809; practicing physician again in Cambridge from 1812; introduced vaccine for small pox in U.S. (*Waterhouse*).
+Waterhouse, Benjamin (1754-1846), American physician and naturalist; M.D. Univ. Leiden 1780; practicing physician at Newport 1782; professor of theory and practice of physic Harvard 1783-1812; lecturer in natural history 1788-1809; physician to U.S. Marine Hospital, Charlestown, Mass. 1807-1809; practicing physician again in Cambridge from 1812; introduced vaccine for small pox in U.S. 
+**Abbreviated name**: *Waterhouse*
 
 #### Herbarium and types
 

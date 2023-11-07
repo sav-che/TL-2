@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103835#page/263/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33260241) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eckardt, Wilhelm Richard Ernst (1879-?), German botanist, born 5 Oct 1879 at Hildburghausen, visited the gymnasium until 1900, studied at Leipzig and Heidelberg, and from 1902 at Jena. (*W.R.E. Eckardt*).
+Eckardt, Wilhelm Richard Ernst (1879-?), German botanist, born 5 Oct 1879 at Hildburghausen, visited the gymnasium until 1900, studied at Leipzig and Heidelberg, and from 1902 at Jena. 
+**Abbreviated name**: *W.R.E. Eckardt*
 
 #### Herbarium and types
 

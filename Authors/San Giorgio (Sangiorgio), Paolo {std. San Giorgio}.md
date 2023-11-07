@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/104077#page/51/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33333138) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-San Giorgio (Sangiorgio), Paolo (1748-1816), Italian botanist and chemist; demonstrator for chemistry at the Ospedale maggiore, Milano; in exile 1798-1806; subsequently teacher of natural history in Milano. (*San Giorgio*).
+San Giorgio (Sangiorgio), Paolo (1748-1816), Italian botanist and chemist; demonstrator for chemistry at the Ospedale maggiore, Milano; in exile 1798-1806; subsequently teacher of natural history in Milano. 
+**Abbreviated name**: *San Giorgio*
 
 #### Herbarium and types
 

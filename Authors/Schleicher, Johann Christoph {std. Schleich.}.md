@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/104077#page/227/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33333352) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schleicher, Johann Christoph (1768-1834), German-born (Hessen-Nassau) botanist; settled ca. 1790 in Bex, Vaud, Switzerland as owner of a firm selling living plants as well as herbarium specimens. (*Schleich.*).
+Schleicher, Johann Christoph (1768-1834), German-born (Hessen-Nassau) botanist; settled ca. 1790 in Bex, Vaud, Switzerland as owner of a firm selling living plants as well as herbarium specimens. 
+**Abbreviated name**: *Schleich.*
 
 #### Herbarium and types
 

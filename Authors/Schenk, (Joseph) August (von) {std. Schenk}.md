@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/104077#page/148/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33333273) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schenk, \[Joseph\] August \[von\] (1815-1891), Austrian (Tirol) born German botanist and palaeontologist; studied medicine at München University; Dr. med. 1837; Dr. phil. Erlangen 1840; habil. München 1841; extraordinary professor of botany at Würzburg 1844; from 1850 regular professor and director of the Würzburg botanical garden; idem at Leipzig 1868-1887. (*Schenk*).
+Schenk, \[Joseph\] August \[von\] (1815-1891), Austrian (Tirol) born German botanist and palaeontologist; studied medicine at München University; Dr. med. 1837; Dr. phil. Erlangen 1840; habil. München 1841; extraordinary professor of botany at Würzburg 1844; from 1850 regular professor and director of the Würzburg botanical garden; idem at Leipzig 1868-1887. 
+**Abbreviated name**: *Schenk*
 
 #### Herbarium and types
 

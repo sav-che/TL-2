@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/item/103414#page/762/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33120845) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duthie, John Firminger {std. Duthie} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Duthie, John Firmimger (1845-1922), British botanist in India. (*Duthie*).
+Duthie, John Firmimger (1845-1922), British botanist in India. 
+**Abbreviated name**: *Duthie*
 
 #### Herbarium and types
 

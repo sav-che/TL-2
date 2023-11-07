@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/item/103861#page/442/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33266739) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carter, Humphrey Gilbert (1884-1969), British (Devon) botanist, studied at the Universities of Edinburgh and Cambridge, economic botanist on Botanical Survey of India 1913-1921, director Botanic Garden, Cambridge 1921-1950, university lecturer in botany 1930-1950. (*H.G. Carter*).
+Carter, Humphrey Gilbert (1884-1969), British (Devon) botanist, studied at the Universities of Edinburgh and Cambridge, economic botanist on Botanical Survey of India 1913-1921, director Botanic Garden, Cambridge 1921-1950, university lecturer in botany 1930-1950. 
+**Abbreviated name**: *H.G. Carter*
 
 #### Note on name
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/103253#page/93/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33068309) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartman, Carl Vilhelm (1862-1941), Swedish botanist, ethnographer and archeologist, son of Carl Hartman; curator at the Carnegie Museum at Pittsburgh 1903-1908, later at the Stockholm Riksmuseum. (*C. V. Hartm.*).
+Hartman, Carl Vilhelm (1862-1941), Swedish botanist, ethnographer and archeologist, son of Carl Hartman; curator at the Carnegie Museum at Pittsburgh 1903-1908, later at the Stockholm Riksmuseum. 
+**Abbreviated name**: *C. V. Hartm.*
 
 #### Herbarium and types
 

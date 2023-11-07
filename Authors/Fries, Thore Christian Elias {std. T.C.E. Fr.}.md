@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/item/103414#page/937/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fries, Thore Christian Elias {std. T.C.E. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fries, Thore Christian Elias (1886-1930), Swedish botanist, son of Theodor Magnus Fries, grandson of Elias Magnus Fries. (*T. C. E. Fr.*).
+Fries, Thore Christian Elias (1886-1930), Swedish botanist, son of Theodor Magnus Fries, grandson of Elias Magnus Fries. 
+**Abbreviated name**: *T. C. E. Fr.*
 
 #### Herbarium and types
 

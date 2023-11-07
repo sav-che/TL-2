@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/104137#page/188/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33355259) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Louis-Marie, Père (Louis Lalonde) (1896-1978), French-Canadian botanist; entered Trappist order at Oka 1917; Ph. D. Harvard 1928; at the Institut agricole, Oka from 1923-1962. (*Louis-Marie*).
+Louis-Marie, Père (Louis Lalonde) (1896-1978), French-Canadian botanist; entered Trappist order at Oka 1917; Ph. D. Harvard 1928; at the Institut agricole, Oka from 1923-1962. 
+**Abbreviated name**: *Louis-Marie*
 
 #### Herbarium and types
 

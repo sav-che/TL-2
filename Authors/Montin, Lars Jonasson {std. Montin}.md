@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/104137#page/581/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33355652) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Montin, Lars Jonasson (1723-1785), Swedish botanist; pupil of Linnaeus; physician at Lund 1751; regional physician in Halland 1782. (*Montin*).
+Montin, Lars Jonasson (1723-1785), Swedish botanist; pupil of Linnaeus; physician at Lund 1751; regional physician in Halland 1782. 
+**Abbreviated name**: *Montin*
 
 #### Herbarium and types
 

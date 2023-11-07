@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103832#page/435/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33258901) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Groves, Henry (of Clapham) {std. H. Groves}|first entry]] for this author
 
 ### Author
 
-\* Groves, Henry (1855-1912), British botanist interested in Characeae and nomenclature, born 15 Oct 1855 in London, employed as a stockbroker until 1879, then by Queen Anne's Bounty Office until his death, F.L.S. 1892, died 2 Nov 1912 in London (Clapham). (*H. Groves*).
+\* Groves, Henry (1855-1912), British botanist interested in Characeae and nomenclature, born 15 Oct 1855 in London, employed as a stockbroker until 1879, then by Queen Anne's Bounty Office until his death, F.L.S. 1892, died 2 Nov 1912 in London (Clapham). 
+**Abbreviated name**: *H. Groves*
 
 #### Note
 

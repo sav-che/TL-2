@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/104137#page/626/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33355697) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mouterde, Paul (1892-1972), French jesuit and botanist; from 1929 at the Université Saint-Joseph at Beyrouth; botanical explorer of Syria and Lebanon; specialist in the syrian, coptic, greek and hebrew languages. (*Mouterde*).
+Mouterde, Paul (1892-1972), French jesuit and botanist; from 1929 at the Université Saint-Joseph at Beyrouth; botanical explorer of Syria and Lebanon; specialist in the syrian, coptic, greek and hebrew languages. 
+**Abbreviated name**: *Mouterde*
 
 #### Herbarium and types
 

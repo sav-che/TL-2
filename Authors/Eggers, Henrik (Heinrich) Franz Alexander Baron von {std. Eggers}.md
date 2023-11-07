@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/item/103414#page/774/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33120857) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eggers, Henrik (Heinrich) Franz Alexander (Baron) von {std. Eggers} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Eggers, Henrik \[Heinrich\] Franz Alexander Baron von (1844-1903), Danish soldier and botanist, resided 1869-1887 in the Danish Antilles. (*Eggers*).
+Eggers, Henrik \[Heinrich\] Franz Alexander Baron von (1844-1903), Danish soldier and botanist, resided 1869-1887 in the Danish Antilles. 
+**Abbreviated name**: *Eggers*
 
 #### Herbarium and types
 

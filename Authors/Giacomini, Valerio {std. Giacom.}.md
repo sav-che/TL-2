@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/item/103832#page/205/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33258671) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Giacomini, Valerio (1914-1981), Italian bryogeographer, ecologist and conservationist, born 21 Jan 1914 in Fagagna (Udine), enrolled Univ. of Pavia 1933, postgraduate work in Jena, asst., agronomy faculty, Univ. of Florence 1940, imprisoned by the Wehrmacht in Poland and n. Germany, freed by British troops 1945, returned to Florence 1946 and then worked at a succession of Italian universities, died 6 Jan 1981 in Rome. (*Giacom.*).
+Giacomini, Valerio (1914-1981), Italian bryogeographer, ecologist and conservationist, born 21 Jan 1914 in Fagagna (Udine), enrolled Univ. of Pavia 1933, postgraduate work in Jena, asst., agronomy faculty, Univ. of Florence 1940, imprisoned by the Wehrmacht in Poland and n. Germany, freed by British troops 1945, returned to Florence 1946 and then worked at a succession of Italian universities, died 6 Jan 1981 in Rome. 
+**Abbreviated name**: *Giacom.*
 
 #### Herbarium and types
 

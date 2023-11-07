@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/104077#page/143/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33333268) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schenck, A. (Adolf?) (*fl*. 1845), German botanist; high school teacher at the teacher's college of Nassau-Dillenburg. (*A. Schenck*).
+Schenck, A. (Adolf?) (*fl*. 1845), German botanist; high school teacher at the teacher's college of Nassau-Dillenburg. 
+**Abbreviated name**: *A. Schenck*
 
 #### Herbarium and types
 

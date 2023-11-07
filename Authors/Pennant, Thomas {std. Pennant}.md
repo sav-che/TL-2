@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103624#page/167/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33189624) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pennant, Thomas (1726-1798). British zoologist and antiquary; sheriff of Flintshire; gentleman-naturalist; correspondent of Linnaeus. (*Pennant*).
+Pennant, Thomas (1726-1798). British zoologist and antiquary; sheriff of Flintshire; gentleman-naturalist; correspondent of Linnaeus. 
+**Abbreviated name**: *Pennant*
 
 #### Herbarium and types
 

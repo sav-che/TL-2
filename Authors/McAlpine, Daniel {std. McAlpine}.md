@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/104137#page/223/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33355294) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McAlpine, Daniel (1849-1932), Scottish-born Australian mycologist; lecturer in botany, Heriot Watt College, Edinburgh 1877; at Ormond College, Melbourne University 1884; at the College of Pharmacy, Melbourne; plant pathologist to the Victorian Government 1890-1915. (*McAlpine*).
+McAlpine, Daniel (1849-1932), Scottish-born Australian mycologist; lecturer in botany, Heriot Watt College, Edinburgh 1877; at Ormond College, Melbourne University 1884; at the College of Pharmacy, Melbourne; plant pathologist to the Victorian Government 1890-1915. 
+**Abbreviated name**: *McAlpine*
 
 #### Herbarium and types
 

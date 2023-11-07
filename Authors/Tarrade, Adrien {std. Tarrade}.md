@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103683#page/182/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33212214) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tarrade, Adrien (1843-1889), French botanist (mycologist) and pharmacist in the Limoges area. (*Tarrade*).
+Tarrade, Adrien (1843-1889), French botanist (mycologist) and pharmacist in the Limoges area. 
+**Abbreviated name**: *Tarrade*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103414#page/570/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33120653) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coleman, Rev. William Higgins (1816?-1863), British clergyman and botanist at Hertford and Ashby-de-la-Zouch. (*Coleman*).
+Coleman, Rev. William Higgins (1816?-1863), British clergyman and botanist at Hertford and Ashby-de-la-Zouch. 
+**Abbreviated name**: *Coleman*
 
 #### Herbarium and types
 

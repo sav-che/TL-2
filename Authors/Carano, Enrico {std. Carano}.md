@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103861#page/409/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33266706) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carano, Enrico (1877-1943), Italian botanist, born and died at Gioia del Colle, studied at the University of Roma until 1901, assistant of Pirotta 1902, professor in 1910, director of the Giardino dei Semplici, Firenze 1922-1925, id. at the R. Orto Botanico delle R. Università de Roma 1928-1943. (*Carano*).
+Carano, Enrico (1877-1943), Italian botanist, born and died at Gioia del Colle, studied at the University of Roma until 1901, assistant of Pirotta 1902, professor in 1910, director of the Giardino dei Semplici, Firenze 1922-1925, id. at the R. Orto Botanico delle R. Università de Roma 1928-1943. 
+**Abbreviated name**: *Carano*
 
 #### Herbarium and types
 

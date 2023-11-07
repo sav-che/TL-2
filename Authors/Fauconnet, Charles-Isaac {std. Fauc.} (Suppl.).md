@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103834#page/86/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259568) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fauconnet, Charles Isaac {std. Fauc.}|first entry]] for this author
 
 ### Author
 
-\* Fauconnet, Charles-Isaac (1811-1876), Swiss physician and botanist, born 24 Apr 1811 in Geneva, studied in Geneva and then studied medicine in Paris 1830-1832, greatly interested in floristics, visited England, The Netherlands, Berlin, Vienna and Heidelberg 1836-1838, practiced medicine in Geneva until 1870, moved to Sadex nr. Nyon (Ct. Vaud), died 20 Jan 1876 in Geneva. (*Fauc.*).
+\* Fauconnet, Charles-Isaac (1811-1876), Swiss physician and botanist, born 24 Apr 1811 in Geneva, studied in Geneva and then studied medicine in Paris 1830-1832, greatly interested in floristics, visited England, The Netherlands, Berlin, Vienna and Heidelberg 1836-1838, practiced medicine in Geneva until 1870, moved to Sadex nr. Nyon (Ct. Vaud), died 20 Jan 1876 in Geneva. 
+**Abbreviated name**: *Fauc.*
 
 #### Herbarium and types
 

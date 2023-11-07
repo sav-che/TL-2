@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 971](https://www.biodiversitylibrary.org/item/103414#page/1019/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 971](https://www.biodiversitylibrary.org/page/33121102) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gorter, David de (1717-1783), Dutch botanist and physician. (*Gorter*).
+Gorter, David de (1717-1783), Dutch botanist and physician. 
+**Abbreviated name**: *Gorter*
 
 #### Herbarium and types
 

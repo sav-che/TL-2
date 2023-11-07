@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/item/103414#page/674/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33120757) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deschamps, Louis Auguste (1765-1842), French naturalist. (*Deschamps*).
+Deschamps, Louis Auguste (1765-1842), French naturalist. 
+**Abbreviated name**: *Deschamps*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103860#page/347/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266014) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooper, Delmer Clair (1896-x), American botanist, born 10 Apr 1896, Sutherland, Iowa, hon. D.Sc. 1948, M.S. Purdue 1926, Ph.D. (bot) Wisconsin 1930, instructor of biology at Morningside College 1917-1919, Purdue 1926-1928, Wisconsin 1928-1930, research assoc. botany and genetics 1930-1936, botany 1936-1939, asst. professor of genetics 1942-1947, full professor 1947-x. (*D.C. Cooper*).
+Cooper, Delmer Clair (1896-x), American botanist, born 10 Apr 1896, Sutherland, Iowa, hon. D.Sc. 1948, M.S. Purdue 1926, Ph.D. (bot) Wisconsin 1930, instructor of biology at Morningside College 1917-1919, Purdue 1926-1928, Wisconsin 1928-1930, research assoc. botany and genetics 1930-1936, botany 1936-1939, asst. professor of genetics 1942-1947, full professor 1947-x. 
+**Abbreviated name**: *D.C. Cooper*
 
 #### Herbarium and types
 

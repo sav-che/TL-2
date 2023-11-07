@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103859#page/75/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33265262) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bellynck, August Alexis Adolphe Alexandre {std. Bellynck}|first entry]] for this author
 
 ### Author
 
-\* Bellynck, Auguste Alexis Adolphe Alexandre (1814-1877), Belgian (Wallonian) jesuit and cryptogamist, studied at the college of Bergues, the petit-séminaire de St.-Omer and the grand séminaire de Cambrai; ordained priest 1837, vicar at the parish of Quesnoy-sur-Deub near Lille, id. Duinkerken (Dunkerque) 1838, later chaplain at a convent at Gravelines; entered the Soc. Jésus 1840, stationed at Katwijk (Netherlands) 1841-1842, bursar at the Collège de Notre-Dame de la Paix, Namur 1842. (*Bellynck*).
+\* Bellynck, Auguste Alexis Adolphe Alexandre (1814-1877), Belgian (Wallonian) jesuit and cryptogamist, studied at the college of Bergues, the petit-séminaire de St.-Omer and the grand séminaire de Cambrai; ordained priest 1837, vicar at the parish of Quesnoy-sur-Deub near Lille, id. Duinkerken (Dunkerque) 1838, later chaplain at a convent at Gravelines; entered the Soc. Jésus 1840, stationed at Katwijk (Netherlands) 1841-1842, bursar at the Collège de Notre-Dame de la Paix, Namur 1842. 
+**Abbreviated name**: *Bellynck*
 
 #### Herbarium and types
 

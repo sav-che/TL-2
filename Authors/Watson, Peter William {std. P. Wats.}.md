@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103250#page/162/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33066442) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watson, Peter William (1761-1830), British botanist and tradesman of Hull; founded the Hull botanic garden 1812; F.L.S. 1824. (*P. Wats.*).
+Watson, Peter William (1761-1830), British botanist and tradesman of Hull; founded the Hull botanic garden 1812; F.L.S. 1824. 
+**Abbreviated name**: *P. Wats.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/item/103414#page/326/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33120409) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Borbás, Vincent (Vince, Vincenz) von {std. Borbás} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Borbás, Vincent \[Vince\] von (1844-1905), Hungarian botanist at Budapest and Cluj. (*Borbás*).
+Borbás, Vincent \[Vince\] von (1844-1905), Hungarian botanist at Budapest and Cluj. 
+**Abbreviated name**: *Borbás*
 
 #### Herbarium and types
 

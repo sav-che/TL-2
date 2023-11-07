@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 640](https://www.biodiversitylibrary.org/item/104077#page/654/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 640](https://www.biodiversitylibrary.org/page/33333779) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skuja, Heinrich Leonhards (1892-1972), Latvian botanist (algologist); studied at the University of Riga 1923-1929; Mag. rer. nat. ib. 1929; Dr. rer. nat. 1943; lecturer in biology at a high school in Riga 1920-1923; "demonstrator" at the Riga Institute of Plant Systematics 1929-1932; lecturer cryptogamy ib. 1933-1940; assistant professor 1940, full professor of general botany ib. 1943; to Uppsala 1944; associate professor of botany ib. 1947-1961; Dr. h.c. Uppsala 1958; Björken Prize 1962. (*Skuja*).
+Skuja, Heinrich Leonhards (1892-1972), Latvian botanist (algologist); studied at the University of Riga 1923-1929; Mag. rer. nat. ib. 1929; Dr. rer. nat. 1943; lecturer in biology at a high school in Riga 1920-1923; "demonstrator" at the Riga Institute of Plant Systematics 1929-1932; lecturer cryptogamy ib. 1933-1940; assistant professor 1940, full professor of general botany ib. 1943; to Uppsala 1944; associate professor of botany ib. 1947-1961; Dr. h.c. Uppsala 1958; Björken Prize 1962. 
+**Abbreviated name**: *Skuja*
 
 #### Herbarium and types
 

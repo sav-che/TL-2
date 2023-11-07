@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103858#page/317/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33265032) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ball, Oscar Melville (1868-1942), Palaeobotanist and botanist, B.A. University of Virginia 1896, Ph.D. Leipzig (with W. Pfeffer) 1904; from 1903 at the Agricultural and Mechanical College of Texas. (*O.M. Ball*).
+Ball, Oscar Melville (1868-1942), Palaeobotanist and botanist, B.A. University of Virginia 1896, Ph.D. Leipzig (with W. Pfeffer) 1904; from 1903 at the Agricultural and Mechanical College of Texas. 
+**Abbreviated name**: *O.M. Ball*
 
 #### Herbarium and types
 

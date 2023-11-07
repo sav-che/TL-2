@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/104077#page/200/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33333325) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlagdenhauffen, Charles Frédéric (1830-1907), French botanist and phytochemist at Strasbourg; Dr. sci. Strasbourg 1857; with the École supérieure de Strasbourg from 1855 as assistant, associate professor of toxicology and physics, and, from 1873-1900, regular professor of toxicology. (*Schlagdenhauffen*).
+Schlagdenhauffen, Charles Frédéric (1830-1907), French botanist and phytochemist at Strasbourg; Dr. sci. Strasbourg 1857; with the École supérieure de Strasbourg from 1855 as assistant, associate professor of toxicology and physics, and, from 1873-1900, regular professor of toxicology. 
+**Abbreviated name**: *Schlagdenhauffen*
 
 #### Herbarium and types
 

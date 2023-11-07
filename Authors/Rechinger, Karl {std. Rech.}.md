@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/item/103624#page/630/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33190087) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rechinger, Karl (1867-1952), Austrian botanist; student of Richard Wettstein; Dr. phil. Wien 1893; demonstrator and (later) assistant at the University Botanical Garden, Wien 1893-1902; in various functions at the "Naturhistorisches Museum" Wien 1902-1922, from 1918 as curator of the botany department; Regierungsrat 1922. (*Rech.*).
+Rechinger, Karl (1867-1952), Austrian botanist; student of Richard Wettstein; Dr. phil. Wien 1893; demonstrator and (later) assistant at the University Botanical Garden, Wien 1893-1902; in various functions at the "Naturhistorisches Museum" Wien 1902-1922, from 1918 as curator of the botany department; Regierungsrat 1922. 
+**Abbreviated name**: *Rech.*
 
 #### Herbarium and types
 

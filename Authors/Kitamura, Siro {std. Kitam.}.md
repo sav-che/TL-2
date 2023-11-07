@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/item/103253#page/582/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33068798) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kitamura, Siro (1906-x), Japanese botanist at the Department of Botany, Kyoto University, specialist in Compositae and the flora of Afghanistan, Himalaya, Tibet and Japan. (*Kitam.*).
+Kitamura, Siro (1906-x), Japanese botanist at the Department of Botany, Kyoto University, specialist in Compositae and the flora of Afghanistan, Himalaya, Tibet and Japan. 
+**Abbreviated name**: *Kitam.*
 
 #### Herbarium and types
 

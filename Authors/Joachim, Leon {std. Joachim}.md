@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103253#page/470/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Joachim, Leon (1873-1945), French (Alsatian) mycologist and pharmacist; practiced at Valdoie 1898-1910, at Auxerre 1910/1-1910; Dr. pharm. Paris 1914; at Noisy-le-Sec (Seine) 1919-1936, at Paris 1936-1945. (*Joachim*).
+Joachim, Leon (1873-1945), French (Alsatian) mycologist and pharmacist; practiced at Valdoie 1898-1910, at Auxerre 1910/1-1910; Dr. pharm. Paris 1914; at Noisy-le-Sec (Seine) 1919-1936, at Paris 1936-1945. 
+**Abbreviated name**: *Joachim*
 
 #### Herbarium and types
 

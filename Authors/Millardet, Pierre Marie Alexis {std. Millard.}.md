@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/item/104137#page/505/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33355576) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Millardet, Pierre Marie Alexis (1838-1902), French cryptogamist; pupil of Montagne, Hofmeister, Sachs and de Bary; Dr. Sci. nat. Strasbourg 1869; professor of botany at Strasbourg (1869), Nancy (1872), Bordeaux (1876-1902); inventor of the Bordeaux mixture "bouillie bordelaise" and hybridiser of *Vitis*; resuscitated the French wine industry. (*Millard.*).
+Millardet, Pierre Marie Alexis (1838-1902), French cryptogamist; pupil of Montagne, Hofmeister, Sachs and de Bary; Dr. Sci. nat. Strasbourg 1869; professor of botany at Strasbourg (1869), Nancy (1872), Bordeaux (1876-1902); inventor of the Bordeaux mixture "bouillie bordelaise" and hybridiser of *Vitis*; resuscitated the French wine industry. 
+**Abbreviated name**: *Millard.*
 
 #### Herbarium and types
 

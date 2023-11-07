@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/item/103832#page/455/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33258921) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guffroy, Charles Émile (1875-1954), French botanist and mycologist, Lic. ès-sciences, Ingénieur-agronome, Paris. (*Guffroy*).
+Guffroy, Charles Émile (1875-1954), French botanist and mycologist, Lic. ès-sciences, Ingénieur-agronome, Paris. 
+**Abbreviated name**: *Guffroy*
 
 #### Herbarium and types
 

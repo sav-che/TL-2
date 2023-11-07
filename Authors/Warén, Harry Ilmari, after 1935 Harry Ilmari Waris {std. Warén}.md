@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103250#page/130/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warén, Harry Ilmari, after 1935: Harry Ilmari Waris (1893-1973), Finnish botanist; with the Finnish Association for the cultivation of peatlands 1919-1925; professor of botany at Turku University 1925-1953 and at Helsinki University 1953-1960. (*Warén*).
+Warén, Harry Ilmari, after 1935: Harry Ilmari Waris (1893-1973), Finnish botanist; with the Finnish Association for the cultivation of peatlands 1919-1925; professor of botany at Turku University 1925-1953 and at Helsinki University 1953-1960. 
+**Abbreviated name**: *Warén*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103414#page/358/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33120441) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Braun, Carl (Karl) Friedrich Wilhelm {std. Braun} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Braun, Carl Friedrich Wilhelm (1800-1864), German palaeobotanist, pharmacist and teacher at the technical school of Bayreuth. (*C. F. W. Braun*).
+Braun, Carl Friedrich Wilhelm (1800-1864), German palaeobotanist, pharmacist and teacher at the technical school of Bayreuth. 
+**Abbreviated name**: *C. F. W. Braun*
 
 #### Collections
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103250#page/64/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33066306) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wade, Walter (1760-1825), Irish botanist and physician practicing in Dublin; professor of botany for the Dublin Society; founder and director of the Botanical Garden of the Society, now National Botanic Garden, Glasnevin 1794-1825. (*Wade*).
+Wade, Walter (1760-1825), Irish botanist and physician practicing in Dublin; professor of botany for the Dublin Society; founder and director of the Botanical Garden of the Society, now National Botanic Garden, Glasnevin 1794-1825. 
+**Abbreviated name**: *Wade*
 
 #### Herbarium and types
 

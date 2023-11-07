@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/item/103414#page/666/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33120749) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delise, Dominique-Françoise {std. Delise} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Delise, Dominic François (1780-1841), French "chef de bataillon" and cryptogamist in Normandy. (*Delise*).
+Delise, Dominic François (1780-1841), French "chef de bataillon" and cryptogamist in Normandy. 
+**Abbreviated name**: *Delise*
 
 #### Herbarium and types
 

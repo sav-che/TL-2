@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103860#page/11/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265678) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ceballos \[y Fernandez de Cordoba\], Luis (1896-1967), Spanish botanist and entomologist, Escuela especial de Ingenieros de Montes, Ciudad Universitaria Madrid. (*Ceballos*).
+Ceballos \[y Fernandez de Cordoba\], Luis (1896-1967), Spanish botanist and entomologist, Escuela especial de Ingenieros de Montes, Ciudad Universitaria Madrid. 
+**Abbreviated name**: *Ceballos*
 
 #### Herbarium and types
 

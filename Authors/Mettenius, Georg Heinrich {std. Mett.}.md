@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/item/104137#page/448/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33355519) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mettenius, Georg Heinrich (1823-1866), German pteridologist; professor of botany and director of the Leipzig botanical garden from 1851-1866; succeeding Gustav Kunze; married Cecilie Braun, daughter of Alexander Braun; died of cholera. (*Mett.*).
+Mettenius, Georg Heinrich (1823-1866), German pteridologist; professor of botany and director of the Leipzig botanical garden from 1851-1866; succeeding Gustav Kunze; married Cecilie Braun, daughter of Alexander Braun; died of cholera. 
+**Abbreviated name**: *Mett.*
 
 #### Herbarium and types
 

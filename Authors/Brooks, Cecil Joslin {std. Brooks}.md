@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103861#page/132/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33266429) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brooks, Cecil Joslin (1875-1953), British metallurgical chemist in the employ of the gold-exploitation of the Borneo Co. Ltd. in Sarawak 1900-1910, at the goldmine Simau in Benkoelen, S.W. Sumatra 1912-1923. (*Brooks*).
+Brooks, Cecil Joslin (1875-1953), British metallurgical chemist in the employ of the gold-exploitation of the Borneo Co. Ltd. in Sarawak 1900-1910, at the goldmine Simau in Benkoelen, S.W. Sumatra 1912-1923. 
+**Abbreviated name**: *Brooks*
 
 #### Herbarium and types
 

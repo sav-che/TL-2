@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/item/103624#page/331/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pohle, Richard Richardowich (1869-1926), German-Latvian botanist, born in Riga of German parents; in military service at Berlin 1889/90; studied at Dresden Technical University 1894-1899, from 1895-1899 also assistant at the Dresden Botanical Institute; travelled in N. Europe 1898-1899; at University of Rostock 1900-1901; Dr. phil. ib. 1901; until 1914 at the Botanic Garden St. Petersburg; later professor of geography at the Technical University of Braunschweig. (*Pohle*).
+Pohle, Richard Richardowich (1869-1926), German-Latvian botanist, born in Riga of German parents; in military service at Berlin 1889/90; studied at Dresden Technical University 1894-1899, from 1895-1899 also assistant at the Dresden Botanical Institute; travelled in N. Europe 1898-1899; at University of Rostock 1900-1901; Dr. phil. ib. 1901; until 1914 at the Botanic Garden St. Petersburg; later professor of geography at the Technical University of Braunschweig. 
+**Abbreviated name**: *Pohle*
 
 #### Herbarium and types
 

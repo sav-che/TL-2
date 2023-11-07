@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103860#page/34/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33265701) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cermenati, Mario (1868-1924), Italian geologist and historian of natural sciences at the University of Roma, born 16 Oct 1860 in Lecco, died 8 Oct 1924 in Castelgandolfo. (*Cermenati*).
+Cermenati, Mario (1868-1924), Italian geologist and historian of natural sciences at the University of Roma, born 16 Oct 1860 in Lecco, died 8 Oct 1924 in Castelgandolfo. 
+**Abbreviated name**: *Cermenati*
 
 #### Herbarium and types
 

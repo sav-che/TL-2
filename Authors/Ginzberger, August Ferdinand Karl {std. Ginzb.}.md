@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103832#page/240/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33258706) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ginzberger, August Ferdinand Karl (1873-1940), Austrian botanist, born 1 Jul 1873 in Vienna, Ph.D. 1896 Vienna, worked in various capacities at the Botanical Garden and Museum, Vienna 1900-1923, qualified (habilitated) 1923 Univ. of Vienna, traveled to Brazil 1927, prof. 1929, died 26 Mar 1940 in Remscheid, Germany. (*Ginzb.*).
+Ginzberger, August Ferdinand Karl (1873-1940), Austrian botanist, born 1 Jul 1873 in Vienna, Ph.D. 1896 Vienna, worked in various capacities at the Botanical Garden and Museum, Vienna 1900-1923, qualified (habilitated) 1923 Univ. of Vienna, traveled to Brazil 1927, prof. 1929, died 26 Mar 1940 in Remscheid, Germany. 
+**Abbreviated name**: *Ginzb.*
 
 #### Herbarium and types
 

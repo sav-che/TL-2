@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/item/104077#page/778/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33333903) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sowter, Frederick Archibald (1899-1972), British sales manager, bryologist and lichenologist at Leicester. (*Sowter*).
+Sowter, Frederick Archibald (1899-1972), British sales manager, bryologist and lichenologist at Leicester. 
+**Abbreviated name**: *Sowter*
 
 #### Herbarium and types
 

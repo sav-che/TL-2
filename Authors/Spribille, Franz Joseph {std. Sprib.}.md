@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/item/104077#page/828/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33333953) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spribille, Franz Joseph (1841-1921), German (Silesian) botanist; studied theology and classical philology at Breslau 1861-1866; in various positions in the Silesian school system from 1868; teacher at the gymnasia at Schrimm and Inowrazlaw until 1907; professor's title 1897; in retirement in Breslau 1908-1921. (*Sprib.*).
+Spribille, Franz Joseph (1841-1921), German (Silesian) botanist; studied theology and classical philology at Breslau 1861-1866; in various positions in the Silesian school system from 1868; teacher at the gymnasia at Schrimm and Inowrazlaw until 1907; professor's title 1897; in retirement in Breslau 1908-1921. 
+**Abbreviated name**: *Sprib.*
 
 #### Herbarium and types
 

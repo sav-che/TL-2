@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/item/103414#page/481/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33120564) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Candolle, Alphonse Louis Pierre Pyramus de {std. A. DC.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Candolle, Alphonse Louis Pierre Pyramus de (1806-1893), Swiss botanist, son of Augustin Pyramus de Candolle. (*A. DC*).
+Candolle, Alphonse Louis Pierre Pyramus de (1806-1893), Swiss botanist, son of Augustin Pyramus de Candolle. 
+**Abbreviated name**: *A. DC*
 
 #### Herbarium and types
 

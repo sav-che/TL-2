@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/item/104077#page/900/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stenzel, Georg (*fl*. 1893), German (Silesian) botanist; Dr. phil. Erlangen 1893. (*Geo. Stenzel*).
+Stenzel, Georg (*fl*. 1893), German (Silesian) botanist; Dr. phil. Erlangen 1893. 
+**Abbreviated name**: *Geo. Stenzel*
 
 #### Herbarium and types
 

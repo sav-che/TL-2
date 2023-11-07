@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/item/103253#page/704/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33068920) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krombholz, Julius Vincenz von (1782-1843), Czech mycologist; Dr. med. Erfurt 1811; 1811-1814 prosector, from 1814 professor of theoretical surgery, from 1820-1836 "Professor der Staatsarzneikunde" at Praha. (*Krombh.*).
+Krombholz, Julius Vincenz von (1782-1843), Czech mycologist; Dr. med. Erfurt 1811; 1811-1814 prosector, from 1814 professor of theoretical surgery, from 1820-1836 "Professor der Staatsarzneikunde" at Praha. 
+**Abbreviated name**: *Krombh.*
 
 #### Herbarium and types
 

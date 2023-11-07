@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103861#page/435/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carrisso, Luis Wittnich (1886-1937), Portuguese botanist, studied at the University of Coimbra, Dr. nat. Phil. 1911, worked some time with R. Chodat in Genève, assistant professor at Coimbra, succeeded Julio Henriques, as full professor ib. 1928, explored the botany of the Portuguese possessions, started in collaboration with the Botanical Departement of the British Museum (BM) a flora of Angola, died on a botanical mission to Angola (*Carrisso*).
+Carrisso, Luis Wittnich (1886-1937), Portuguese botanist, studied at the University of Coimbra, Dr. nat. Phil. 1911, worked some time with R. Chodat in Genève, assistant professor at Coimbra, succeeded Julio Henriques, as full professor ib. 1928, explored the botany of the Portuguese possessions, started in collaboration with the Botanical Departement of the British Museum (BM) a flora of Angola, died on a botanical mission to Angola 
+**Abbreviated name**: *Carrisso*
 
 #### Herbarium and types
 

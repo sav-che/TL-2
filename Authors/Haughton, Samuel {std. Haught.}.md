@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/item/103253#page/127/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haughton, Samuel (1821-1897), Irish clergyman, physician and palaeobotanist at Dublin; professor of geology at Trinity College 1851-1881; M. D. Dublin 1862, D.C.L. Oxford 1868, L.L.D. Edinburgh 1884. (*Haught.*).
+Haughton, Samuel (1821-1897), Irish clergyman, physician and palaeobotanist at Dublin; professor of geology at Trinity College 1851-1881; M. D. Dublin 1862, D.C.L. Oxford 1868, L.L.D. Edinburgh 1884. 
+**Abbreviated name**: *Haught.*
 
 #### Collections
 

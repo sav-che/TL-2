@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/item/103624#page/720/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33190177) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinsch, \[Edgar\] Hugo \[Emil\] (1809-1884), German (Bavarian) high school teacher and naturalist at Erlangen. (*H. Reinsch*).
+Reinsch, \[Edgar\] Hugo \[Emil\] (1809-1884), German (Bavarian) high school teacher and naturalist at Erlangen. 
+**Abbreviated name**: *H. Reinsch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/item/103858#page/356/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33265071) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bartlett, Emily Mary (1891-x), American botanist, Ph.D. Stanford 1925, instructor in botany at Wellesley College 1925-1926, later with the University of California. (*E.M. Bartlett*).
+Bartlett, Emily Mary (1891-x), American botanist, Ph.D. Stanford 1925, instructor in botany at Wellesley College 1925-1926, later with the University of California. 
+**Abbreviated name**: *E.M. Bartlett*
 
 #### Herbarium and types
 

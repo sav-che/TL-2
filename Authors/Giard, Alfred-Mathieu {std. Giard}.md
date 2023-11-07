@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103832#page/206/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33258672) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Giard, Alfred-Mathieu (1846-1908), French zoologist interested in entomophagous fungi, born 8 Aug 1846 in Nord (Valenciennes), École normale supérieure, Paris 1869-1872, named "préparateur" 1871, Dr. ès-sciences naturelles 1872, prof. "suppléant" 1873 and "titulaire" 1880-1882, Faculty of Sciences, Lille, founder and dir., marine lab. at Wimereux (Pas de Calais) 1874, Député de Valenciennes 1882-1885, lecturer ("maître de conferences"), École Normale Superiéure 1887, prof. and dir., Faculty of Sciences, Sorbonne 1888-1908, elected, Académie des Sciences 1900, died 8 Aug 1908 in Orsay (Essonne). (*Giard*).
+Giard, Alfred-Mathieu (1846-1908), French zoologist interested in entomophagous fungi, born 8 Aug 1846 in Nord (Valenciennes), École normale supérieure, Paris 1869-1872, named "préparateur" 1871, Dr. ès-sciences naturelles 1872, prof. "suppléant" 1873 and "titulaire" 1880-1882, Faculty of Sciences, Lille, founder and dir., marine lab. at Wimereux (Pas de Calais) 1874, Député de Valenciennes 1882-1885, lecturer ("maître de conferences"), École Normale Superiéure 1887, prof. and dir., Faculty of Sciences, Sorbonne 1888-1908, elected, Académie des Sciences 1900, died 8 Aug 1908 in Orsay (Essonne). 
+**Abbreviated name**: *Giard*
 
 #### Herbarium and types
 

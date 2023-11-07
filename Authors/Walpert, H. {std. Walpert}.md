@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103250#page/108/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33066388) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walpert, H. (*fl*. 1852-1855), German pharmacist and botanist at Magdeburg. (*Walpert*).
+Walpert, H. (*fl*. 1852-1855), German pharmacist and botanist at Magdeburg. 
+**Abbreviated name**: *Walpert*
 
 #### Herbarium and types
 

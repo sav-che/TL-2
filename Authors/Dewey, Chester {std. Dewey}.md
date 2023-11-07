@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103833#page/267/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33259301) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dewey, Chester (1784-1867), American naturalist, born in Sheffield, Mass. 15 Oct 1784, died in Rochester, N.Y. 5 Dec 1867, tutor in Williams College 1808-1810, professor of mathematics and natural philosophy 1810-1817 in medical colleges of Pittsfield, Mass. and Woodstock, Vermont, 1836-1850 principal of the Collegiate Institute of Rochester, N.Y., 1850-1860 professor of chemistry and natural philosophy at University of Rochester. (*Dewey*).
+Dewey, Chester (1784-1867), American naturalist, born in Sheffield, Mass. 15 Oct 1784, died in Rochester, N.Y. 5 Dec 1867, tutor in Williams College 1808-1810, professor of mathematics and natural philosophy 1810-1817 in medical colleges of Pittsfield, Mass. and Woodstock, Vermont, 1836-1850 principal of the Collegiate Institute of Rochester, N.Y., 1850-1860 professor of chemistry and natural philosophy at University of Rochester. 
+**Abbreviated name**: *Dewey*
 
 #### Herbarium and types
 

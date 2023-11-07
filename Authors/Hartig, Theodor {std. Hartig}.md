@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103253#page/87/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33068303) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartig, Theodor (1805-1880), German forester; from 1831-1838 lecturer and professor of forestry at Berlin; ultimately Forstrath and professor of forestry at the forestry college in Braunschweig. (*Hartig*).
+Hartig, Theodor (1805-1880), German forester; from 1831-1838 lecturer and professor of forestry at Berlin; ultimately Forstrath and professor of forestry at the forestry college in Braunschweig. 
+**Abbreviated name**: *Hartig*
 
 #### Herbarium and types
 

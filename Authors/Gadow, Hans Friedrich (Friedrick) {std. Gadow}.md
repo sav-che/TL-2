@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103832#page/102/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33258568) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gadow, Hans Friedrich \[Friedrick\] (1855-1928), German-born British zoologist whose knowledge of birds, reptiles, amphibians and plants contributed to systematics, evolution and biogeography, born 8 Mar 1855 in Krakow Schlawe (now Alt-Krakow bei Schlawe), Farther Pomerania, where his father was Inspector of the Prussian Royal Forests, from 1875 studied natural science at Berlin Univ., Ph.D. 1878 Jena (under E. Haeckel), research asst. in zoology, BMNH 1880, trustee and curator of the Strickland Foundation for Birds, Zoology Museum, Cambridge Univ. 1882, naturalized 1884, lecturer, King's College, Cambridge 1884, F.R.S. 1892, visited Mexico with his wife 1904, reader in vertebrate morphology, King's College 1920, died 26 \[16?\] Mai 1928 nr. Cambridge, England. (*Gadow*).
+Gadow, Hans Friedrich \[Friedrick\] (1855-1928), German-born British zoologist whose knowledge of birds, reptiles, amphibians and plants contributed to systematics, evolution and biogeography, born 8 Mar 1855 in Krakow Schlawe (now Alt-Krakow bei Schlawe), Farther Pomerania, where his father was Inspector of the Prussian Royal Forests, from 1875 studied natural science at Berlin Univ., Ph.D. 1878 Jena (under E. Haeckel), research asst. in zoology, BMNH 1880, trustee and curator of the Strickland Foundation for Birds, Zoology Museum, Cambridge Univ. 1882, naturalized 1884, lecturer, King's College, Cambridge 1884, F.R.S. 1892, visited Mexico with his wife 1904, reader in vertebrate morphology, King's College 1920, died 26 \[16?\] Mai 1928 nr. Cambridge, England. 
+**Abbreviated name**: *Gadow*
 
 #### Herbarium and types
 

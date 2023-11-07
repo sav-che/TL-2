@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103835#page/177/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33260155) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dunal, Michel Félix {std. Dunal}|first entry]] for this author
 
 ### Author
 
-\* Dunal, Michel-Félix (1789-1856), French botanist, born 24 Oct 1789 at Montpellier, after elementary school followed scientific courses at the "École centrale de l'Hérault", specialized in botany and became pupil of A.P. de Candolle 1807, to Paris with de Jussieu, Desfontaines and Delessert 1813, Dr. med. Montpellier 1813, 1829 Dr. sci. nat. at Montpellier, professor of botany 1829-1856, died 29 Jul 1856 at Montpellier. (*Dunal*).
+\* Dunal, Michel-Félix (1789-1856), French botanist, born 24 Oct 1789 at Montpellier, after elementary school followed scientific courses at the "École centrale de l'Hérault", specialized in botany and became pupil of A.P. de Candolle 1807, to Paris with de Jussieu, Desfontaines and Delessert 1813, Dr. med. Montpellier 1813, 1829 Dr. sci. nat. at Montpellier, professor of botany 1829-1856, died 29 Jul 1856 at Montpellier. 
+**Abbreviated name**: *Dunal*
 
 #### Herbarium and types
 

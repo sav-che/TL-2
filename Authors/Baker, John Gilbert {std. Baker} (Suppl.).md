@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103858#page/289/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baker, John Gilbert {std. Baker}|first entry]] for this author
 
 ### Author
 
-\* Baker, John Gilbert (1834-1920), British botanist, educated as Quaker, attending the Friend's schools at Ackworth and Bootham, York, in a drapery business in Thirsk 1847-1864, at the same time developing his interest in botany, one of the founders of the Thirsk Natural History Society until 1865, lost his herbarium and library by fire in 1864, joined the staff of the Royal Botanic Gardens, Kew, as first assistant of the herbarium 1866, at the same time lecturing on botany at the London Hospital Medical School 1869-1881, id. at the Chelsea Physic Garden 1869-1881, keeper of the Kew herbarium and library 1890-1899, in retirement living at Kew. (*Baker*).
+\* Baker, John Gilbert (1834-1920), British botanist, educated as Quaker, attending the Friend's schools at Ackworth and Bootham, York, in a drapery business in Thirsk 1847-1864, at the same time developing his interest in botany, one of the founders of the Thirsk Natural History Society until 1865, lost his herbarium and library by fire in 1864, joined the staff of the Royal Botanic Gardens, Kew, as first assistant of the herbarium 1866, at the same time lecturing on botany at the London Hospital Medical School 1869-1881, id. at the Chelsea Physic Garden 1869-1881, keeper of the Kew herbarium and library 1890-1899, in retirement living at Kew. 
+**Abbreviated name**: *Baker*
 
 #### Herbarium and types
 

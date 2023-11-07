@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/103253#page/716/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33068932) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kuhn, Friedrich Adalbert Maximilian \["Max"\] (1842-1894), German pteridologist at Berlin; Dr. phil. Berlin 1867; high school teacher at the Königstädtische Realschule (later Gymnasium) from 1870-1893, from 1889 with the title of professor. (*Kuhn*).
+Kuhn, Friedrich Adalbert Maximilian \["Max"\] (1842-1894), German pteridologist at Berlin; Dr. phil. Berlin 1867; high school teacher at the Königstädtische Realschule (later Gymnasium) from 1870-1893, from 1889 with the title of professor. 
+**Abbreviated name**: *Kuhn*
 
 #### Herbarium and types
 

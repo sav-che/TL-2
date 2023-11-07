@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103624#page/89/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33189546) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parodi, Domingo (1823-1890), Italian-born pharmacist; to Montevideo 1833; pharmacist ib. 1843; in Paraguay as physician and pharmacist 1853-1867; returned to Montevideo 1869, active as pharmacist until 1879; in Buenos Aires from 1878, Dr. pharm, ib. 1881, lecturer in pharmacy at the Faculty of medical sciences from 1884. (*D. Parodi*).
+Parodi, Domingo (1823-1890), Italian-born pharmacist; to Montevideo 1833; pharmacist ib. 1843; in Paraguay as physician and pharmacist 1853-1867; returned to Montevideo 1869, active as pharmacist until 1879; in Buenos Aires from 1878, Dr. pharm, ib. 1881, lecturer in pharmacy at the Faculty of medical sciences from 1884. 
+**Abbreviated name**: *D. Parodi*
 
 #### Herbarium and types
 

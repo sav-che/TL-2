@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/104137#page/253/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33355324) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macvicar, John Gibson (1801-1884), Scottish clergyman and botanist; M. A. St. Andrews, pastor Scottish Church in Ceylon 1839-1852; minister at Moffat 1853-1884. (*J. Macvicar*).
+Macvicar, John Gibson (1801-1884), Scottish clergyman and botanist; M. A. St. Andrews, pastor Scottish Church in Ceylon 1839-1852; minister at Moffat 1853-1884. 
+**Abbreviated name**: *J. Macvicar*
 
 #### Herbarium and types
 

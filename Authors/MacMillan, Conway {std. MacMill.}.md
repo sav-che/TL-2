@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/104137#page/246/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33355317) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-MacMillan, Conway (1867-1929), American botanist; M. A. Univ. Nebraska 1885, at Univ. of Nebraska 1885-1887; instructor of botany Univ. Minnesota 1887-1891; professor id. 1891-1893; state botanist of the Minnesota Geological Survey and Natural History Survey from 1893-1901; director of the Minnesota Seaside Station at Port Renfrew from 1901-1906; in the advertising business at Philadelphia 1906-1929. (*MacMill.*).
+MacMillan, Conway (1867-1929), American botanist; M. A. Univ. Nebraska 1885, at Univ. of Nebraska 1885-1887; instructor of botany Univ. Minnesota 1887-1891; professor id. 1891-1893; state botanist of the Minnesota Geological Survey and Natural History Survey from 1893-1901; director of the Minnesota Seaside Station at Port Renfrew from 1901-1906; in the advertising business at Philadelphia 1906-1929. 
+**Abbreviated name**: *MacMill.*
 
 #### Herbarium and types
 

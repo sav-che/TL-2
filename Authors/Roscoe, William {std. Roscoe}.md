@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/item/103624#page/897/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33190354) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roscoe, William (1753-1831), British (English) historian, botanist and banker at Liverpool 1774; devoting himself to literary studies 1794; partner in a bank 1799; lost money 1816, bankrupt 1820; founder of the Liverpool botanical garden, 1802. (*Roscoe*).
+Roscoe, William (1753-1831), British (English) historian, botanist and banker at Liverpool 1774; devoting himself to literary studies 1794; partner in a bank 1799; lost money 1816, bankrupt 1820; founder of the Liverpool botanical garden, 1802. 
+**Abbreviated name**: *Roscoe*
 
 #### Herbarium and types
 

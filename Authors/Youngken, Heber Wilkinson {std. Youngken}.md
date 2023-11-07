@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/item/103250#page/554/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33066834) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Youngken, Heber Wilkinson (1885-1963), American pharmacologist; studied pharmacy and natural sciences at Med. Chir. Coll. Philadelphia, Buchnell Univ. and Univ. of Pennsylvania 1903-1915; Dr. phil. Pennsylvania 1915; demonstrator of biology and pharmacy at Med. Chir. Coll. 1909; professor of botany and pharmacognosy at Philadelphia College of Pharmacy and Science 1911-1923; id. at Massachusetts College of Pharmacy, Boston, 1923-1951; research professor ib. 1951-1956; emeritus professor from 1956. (*Youngken*).
+Youngken, Heber Wilkinson (1885-1963), American pharmacologist; studied pharmacy and natural sciences at Med. Chir. Coll. Philadelphia, Buchnell Univ. and Univ. of Pennsylvania 1903-1915; Dr. phil. Pennsylvania 1915; demonstrator of biology and pharmacy at Med. Chir. Coll. 1909; professor of botany and pharmacognosy at Philadelphia College of Pharmacy and Science 1911-1923; id. at Massachusetts College of Pharmacy, Boston, 1923-1951; research professor ib. 1951-1956; emeritus professor from 1956. 
+**Abbreviated name**: *Youngken*
 
 #### Herbarium and types
 

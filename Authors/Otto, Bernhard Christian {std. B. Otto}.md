@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/item/104137#page/874/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33355945) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Otto, Bernhard Christian (1745-1835), German botanist; Dr. med. 1789, professor of medicine at Frankfurt a. Oder. (*B. Otto*).
+Otto, Bernhard Christian (1745-1835), German botanist; Dr. med. 1789, professor of medicine at Frankfurt a. Oder. 
+**Abbreviated name**: *B. Otto*
 
 #### Herbarium and types
 

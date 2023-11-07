@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/item/103860#page/448/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33266115) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cox, Jacob Dolson (1828-1900), Canadian, born Montreal, Canada 27 Oct 1828, microscopist, member of Congress, from Ohio, 1877-1879, graduated Oberlin 1851, State Senator, Ohio 1859-1861, Brig. gen. 1861-1862, maj. gen. 1862-1867, Governor of Ohio 1866-1867, Sec. of Interior 1869-1870, died 4 Aug 1900, Magnolia, Mass. (*J.D. Cox*).
+Cox, Jacob Dolson (1828-1900), Canadian, born Montreal, Canada 27 Oct 1828, microscopist, member of Congress, from Ohio, 1877-1879, graduated Oberlin 1851, State Senator, Ohio 1859-1861, Brig. gen. 1861-1862, maj. gen. 1862-1867, Governor of Ohio 1866-1867, Sec. of Interior 1869-1870, died 4 Aug 1900, Magnolia, Mass. 
+**Abbreviated name**: *J.D. Cox*
 
 #### Herbarium and types
 

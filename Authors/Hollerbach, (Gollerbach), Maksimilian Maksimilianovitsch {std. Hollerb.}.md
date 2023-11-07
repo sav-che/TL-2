@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103253#page/282/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33068498) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hollerbach, (Gollerbach), Maksimilian Maksimilianovitsch (1907-x), Soviet botanist at Leningrad. (*Hollerb.*).
+Hollerbach, (Gollerbach), Maksimilian Maksimilianovitsch (1907-x), Soviet botanist at Leningrad. 
+**Abbreviated name**: *Hollerb.*
 
 #### Herbarium and types
 

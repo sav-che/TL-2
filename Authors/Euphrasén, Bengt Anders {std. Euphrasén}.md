@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/item/103414#page/854/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Euphrasén, Bengt Anders (1756-1796), Swedish botanist who made a journey to the Swedish West Indies in 1788. (*Euphrasén*).
+Euphrasén, Bengt Anders (1756-1796), Swedish botanist who made a journey to the Swedish West Indies in 1788. 
+**Abbreviated name**: *Euphrasén*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103859#page/401/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265588) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bourdillon, Thomas Fulton (1849-1930), British (Indian born) coffee planter, forest officer, Travancore 1886, conservator of forests ib. 1891-1908. (*Bourd.*).
+Bourdillon, Thomas Fulton (1849-1930), British (Indian born) coffee planter, forest officer, Travancore 1886, conservator of forests ib. 1891-1908. 
+**Abbreviated name**: *Bourd.*
 
 #### Herbarium and types
 

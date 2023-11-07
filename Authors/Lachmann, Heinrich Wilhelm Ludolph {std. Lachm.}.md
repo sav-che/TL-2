@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/item/103253#page/741/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33068957) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lachmann, Heinrich Wilhelm Ludolph (1800-1861), German physician and botanist at Braunschweig. (*Lachm.*).
+Lachmann, Heinrich Wilhelm Ludolph (1800-1861), German physician and botanist at Braunschweig. 
+**Abbreviated name**: *Lachm.*
 
 #### Herbarium and types
 

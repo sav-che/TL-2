@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/item/104077#page/732/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33333857) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sørensen, Henrik Lauritz (1842-1903), Norwegian botanist and high school teacher; at Kristiania high school 1867-1871, from 1868-1874 also at Gjertsens school ib.; from 1871 in various functions at Kristiania Kathedralskole. (*Sørensen*).
+Sørensen, Henrik Lauritz (1842-1903), Norwegian botanist and high school teacher; at Kristiania high school 1867-1871, from 1868-1874 also at Gjertsens school ib.; from 1871 in various functions at Kristiania Kathedralskole. 
+**Abbreviated name**: *Sørensen*
 
 #### Herbarium and types
 

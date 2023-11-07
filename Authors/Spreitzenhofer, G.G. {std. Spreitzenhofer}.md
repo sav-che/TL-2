@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/item/104077#page/817/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33333942) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spreitzenhofer, G.G. (1835-1883), Austrian savings bank-employee, botanist and plant collector in Vienna. (*Spreitzenhofer*).
+Spreitzenhofer, G.G. (1835-1883), Austrian savings bank-employee, botanist and plant collector in Vienna. 
+**Abbreviated name**: *Spreitzenhofer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103624#page/415/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33189872) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pringle, Cyrus Guernsey (1838-1911), American botanist and collector (and Quaker); plant breeder at his farm at East Charlotte, Vt. until 1880; collected extensively especially in the Pacific States and in Mexico between 1880 and 1909; from 1902 at the University of Vermont as keeper of the herbarium. (*Pringle*).
+Pringle, Cyrus Guernsey (1838-1911), American botanist and collector (and Quaker); plant breeder at his farm at East Charlotte, Vt. until 1880; collected extensively especially in the Pacific States and in Mexico between 1880 and 1909; from 1902 at the University of Vermont as keeper of the herbarium. 
+**Abbreviated name**: *Pringle*
 
 #### Herbarium and types
 

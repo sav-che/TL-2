@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103860#page/532/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33266199) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cushman, Joseph Augustine (1881-1949), American zoologist and botanist, born at Bridgewater, Mass., studied at Harvard University, Ph.D. Harvard 1909, with the United States Geological Survey as stratigraphic palaeontologist 1912-1921, museum director of Boston natural history Society 1913-1923, set up the Cushman Laboratory for Foraminifera Research at Sharon, Mass., director 1923-1949. (*Cushman*).
+Cushman, Joseph Augustine (1881-1949), American zoologist and botanist, born at Bridgewater, Mass., studied at Harvard University, Ph.D. Harvard 1909, with the United States Geological Survey as stratigraphic palaeontologist 1912-1921, museum director of Boston natural history Society 1913-1923, set up the Cushman Laboratory for Foraminifera Research at Sharon, Mass., director 1923-1949. 
+**Abbreviated name**: *Cushman*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/item/104077#page/606/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siegers, Jean (1842-post 1904), German-born Malmédy botanist; studied at the Köln roman catholic gymnasium and at the universities of Münster and Bonn; high school teacher at Aachen and Düren and, from 1874-1903, professor at the progymnasium of Malmédy. (*Siegers*).
+Siegers, Jean (1842-post 1904), German-born Malmédy botanist; studied at the Köln roman catholic gymnasium and at the universities of Münster and Bonn; high school teacher at Aachen and Düren and, from 1874-1903, professor at the progymnasium of Malmédy. 
+**Abbreviated name**: *Siegers*
 
 #### Herbarium and types
 

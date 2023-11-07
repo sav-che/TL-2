@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103832#page/202/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33258668) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gérôme, Joseph (1863-1928), French horticulturist, born 29 Jun 1863 in Hadol (Vosges), studied at the Ferme-École in Beaufroy (Vosges) and the École Natl. d'Horticulture in Versailles, joined the Muséum natl. d'Histoire naturelle, Paris in 1888 as an intern but rose to asst. dir of the experimental garden before retirement, Légion d'honneur, died 31 Dec 1928 in Hadol. (*Gérôme*).
+Gérôme, Joseph (1863-1928), French horticulturist, born 29 Jun 1863 in Hadol (Vosges), studied at the Ferme-École in Beaufroy (Vosges) and the École Natl. d'Horticulture in Versailles, joined the Muséum natl. d'Histoire naturelle, Paris in 1888 as an intern but rose to asst. dir of the experimental garden before retirement, Légion d'honneur, died 31 Dec 1928 in Hadol. 
+**Abbreviated name**: *Gérôme*
 
 #### Herbarium and types
 

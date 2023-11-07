@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103624#page/349/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pontén, Johan (Jon) Peter (1776-1857), Swedish botanist, physician and clergyman; Dr. phil. Greifswald 1800, ordained 1801, parish priest at Hultsjö from 1826, at Korsberga from 1837. (*Pontén*).
+Pontén, Johan (Jon) Peter (1776-1857), Swedish botanist, physician and clergyman; Dr. phil. Greifswald 1800, ordained 1801, parish priest at Hultsjö from 1826, at Korsberga from 1837. 
+**Abbreviated name**: *Pontén*
 
 #### Herbarium and types
 

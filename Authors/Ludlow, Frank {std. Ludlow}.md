@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/104137#page/197/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ludlow, Frank (1886-1972), British explorer of Bhutan, Tibet and the inner Himalaya. (*Ludlow*).
+Ludlow, Frank (1886-1972), British explorer of Bhutan, Tibet and the inner Himalaya. 
+**Abbreviated name**: *Ludlow*
 
 #### Herbarium and types
 

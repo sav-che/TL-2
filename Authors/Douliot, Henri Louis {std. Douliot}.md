@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103835#page/86/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33260064) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Douliot, Henri Louis (1859-1892), French botanist and explorer of Madagascar, born 6 Aug 1859 at Troyes, Aube, died 2 Jul 1892 at Nossi-Bé, Madagascar, at Muséum d'Histoire naturelle at Paris, Dr. ès Sciences working often in Madagascar. (*Douliot*).
+Douliot, Henri Louis (1859-1892), French botanist and explorer of Madagascar, born 6 Aug 1859 at Troyes, Aube, died 2 Jul 1892 at Nossi-Bé, Madagascar, at Muséum d'Histoire naturelle at Paris, Dr. ès Sciences working often in Madagascar. 
+**Abbreviated name**: *Douliot*
 
 #### Herbarium and types
 

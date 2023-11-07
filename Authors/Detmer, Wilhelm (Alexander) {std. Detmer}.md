@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/103833#page/249/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33259283) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Detmer, Wilhelm \[Alexander\] (1850-1930), German plant physiologist, born at Hamburg 11 Apr 1850, died ib. 12 Dec 1930, 1866-1868 at a secondary school, as "Elève" in Küddemörde near Friedrichsruh, 1868-1870 at the Agricultural Academy of Hohenheim, 1870 at the University of Leipzig, 21 Jul 1871 promoted, from 1871 assistant in agriculture of the University, Dozent 1875, from 1897-1925 professor at Jena, 1904-1905 visitor at the Bogor (Buitenzorg) "Vreemdelingen Laboratorium", emeritus at Jena 1925. (*Detmer*).
+Detmer, Wilhelm \[Alexander\] (1850-1930), German plant physiologist, born at Hamburg 11 Apr 1850, died ib. 12 Dec 1930, 1866-1868 at a secondary school, as "Elève" in Küddemörde near Friedrichsruh, 1868-1870 at the Agricultural Academy of Hohenheim, 1870 at the University of Leipzig, 21 Jul 1871 promoted, from 1871 assistant in agriculture of the University, Dozent 1875, from 1897-1925 professor at Jena, 1904-1905 visitor at the Bogor (Buitenzorg) "Vreemdelingen Laboratorium", emeritus at Jena 1925. 
+**Abbreviated name**: *Detmer*
 
 #### Herbarium and types
 

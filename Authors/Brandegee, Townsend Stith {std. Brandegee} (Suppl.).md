@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103861#page/20/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33266317) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandegee, Townsend Stith {std. Brandegee}|first entry]] for this author
 
 ### Author
 
-\* Brandegee, Towns===h===end Stith (1843-1925), American botanist and civil engineer with Atchison, Topeka and Santa Fe Rail Road and Denver and South Park Rail Road, county surveyor of Fremont Company, Colorado 1871-1878, assistant topographer and botanical collector with the Hayden Survey, for many years honorary curator of the herbarium of the University of California, married its curator of botany, M.K. Curran (Layne). (*Brandegee*).
+\* Brandegee, Towns===h===end Stith (1843-1925), American botanist and civil engineer with Atchison, Topeka and Santa Fe Rail Road and Denver and South Park Rail Road, county surveyor of Fremont Company, Colorado 1871-1878, assistant topographer and botanical collector with the Hayden Survey, for many years honorary curator of the herbarium of the University of California, married its curator of botany, M.K. Curran (Layne). 
+**Abbreviated name**: *Brandegee*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103683#page/208/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33212240) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tedin, Hans (1860-1930), Swedish geneticist and plant breeder; Dr. phil. Lund 1891; with the Svalöv plant breeding institute of the Swedish Seed Association from 1891. (*Tedin*).
+Tedin, Hans (1860-1930), Swedish geneticist and plant breeder; Dr. phil. Lund 1891; with the Svalöv plant breeding institute of the Swedish Seed Association from 1891. 
+**Abbreviated name**: *Tedin*
 
 #### Herbarium and types
 

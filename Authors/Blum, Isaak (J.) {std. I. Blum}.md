@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103859#page/235/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33265422) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blum, Isaak \["J."\] (1833-1903), German highschool teacher and botanist, teacher at the Realund Volksschule der israelitischen Gemeinde zu Frankfurt am Main, also connected with the Forschungsinstitut Senckenberg as volontary curator ("Sektionär") of the botanical collections. (*I. Blum*).
+Blum, Isaak \["J."\] (1833-1903), German highschool teacher and botanist, teacher at the Realund Volksschule der israelitischen Gemeinde zu Frankfurt am Main, also connected with the Forschungsinstitut Senckenberg as volontary curator ("Sektionär") of the botanical collections. 
+**Abbreviated name**: *I. Blum*
 
 #### Herbarium and types
 

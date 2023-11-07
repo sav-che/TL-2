@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/item/103414#page/985/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geuns, Steven Jan van (1767-1795), Dutch physician and botanist at Utrecht. (*S. Geuns*).
+Geuns, Steven Jan van (1767-1795), Dutch physician and botanist at Utrecht. 
+**Abbreviated name**: *S. Geuns*
 
 #### Herbarium and types
 

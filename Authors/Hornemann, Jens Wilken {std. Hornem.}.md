@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103253#page/359/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33068575) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hornemann, Jens Wilken (1770-1841), Danish botanist, lecturer (1801), from 1808 professor of botany at Copenhagen, editor of *Flora danica* 1805-1841. (*Hornem.*).
+Hornemann, Jens Wilken (1770-1841), Danish botanist, lecturer (1801), from 1808 professor of botany at Copenhagen, editor of *Flora danica* 1805-1841. 
+**Abbreviated name**: *Hornem.*
 
 #### Herbarium and types
 

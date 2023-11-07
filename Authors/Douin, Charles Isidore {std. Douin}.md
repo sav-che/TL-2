@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/item/103414#page/723/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33120806) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Douin, Charles-Isidore {std. Douin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Douin, Charles Isidore (1858-1944), French bryologist. (*Douin*).
+Douin, Charles Isidore (1858-1944), French bryologist. 
+**Abbreviated name**: *Douin*
 
 #### Herbarium and types
 

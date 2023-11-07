@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/item/103253#page/735/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33068951) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kylin, Johan Harald (1879-1949), Swedish algologist; Dr. phil. Uppsala 1907; from 1920 professor of botany at Lund. (*Kylin*).
+Kylin, Johan Harald (1879-1949), Swedish algologist; Dr. phil. Uppsala 1907; from 1920 professor of botany at Lund. 
+**Abbreviated name**: *Kylin*
 
 #### Herbarium and types
 

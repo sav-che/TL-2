@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/item/103624#page/816/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33190273) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ritter, Christian Wilhelm Jonathan (1775-1821), German (Schleswig) botanist and physician; from 1798-1804 at Altona, 1804-1811 at Crempe, from 1811 at Flensburg. (*Chr. Ritter*).
+Ritter, Christian Wilhelm Jonathan (1775-1821), German (Schleswig) botanist and physician; from 1798-1804 at Altona, 1804-1811 at Crempe, from 1811 at Flensburg. 
+**Abbreviated name**: *Chr. Ritter*
 
 #### Herbarium and types
 

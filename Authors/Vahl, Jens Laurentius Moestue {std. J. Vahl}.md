@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/item/103683#page/638/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33212670) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vahl, Jens Laurentius Moestue (1796-1854), Danish botanist, plant collector and librarian; travelled in Sweden, Germany, Austria and France 1822-1826; in Greenland with V.A. Graah's expedition 1828-1829; engaged in botanical and meteorological work ib. 1829-1836; with a French expedition to Spitsbergen 1838-1839; from 1840 connected with the Botanical Museum, Copenhagen, from 1842-1850 as librarian; Dr. phil. Rostock 1842; son of M. Vahl. (*J. Vahl*).
+Vahl, Jens Laurentius Moestue (1796-1854), Danish botanist, plant collector and librarian; travelled in Sweden, Germany, Austria and France 1822-1826; in Greenland with V.A. Graah's expedition 1828-1829; engaged in botanical and meteorological work ib. 1829-1836; with a French expedition to Spitsbergen 1838-1839; from 1840 connected with the Botanical Museum, Copenhagen, from 1842-1850 as librarian; Dr. phil. Rostock 1842; son of M. Vahl. 
+**Abbreviated name**: *J. Vahl*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103683#page/59/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33212053) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strøm, Kaare Münster (1902-x), Norwegian algologist; Dr. phil. Oslo 1927; studied in various foreign institutions 1920-1932, University Stipendium, Oslo 1931; lecturer limnology ib. 1939; professor of geography 1948, of limnology 1962. (*K. Strøm*).
+Strøm, Kaare Münster (1902-x), Norwegian algologist; Dr. phil. Oslo 1927; studied in various foreign institutions 1920-1932, University Stipendium, Oslo 1931; lecturer limnology ib. 1939; professor of geography 1948, of limnology 1962. 
+**Abbreviated name**: *K. Strøm*
 
 #### Herbarium and types
 

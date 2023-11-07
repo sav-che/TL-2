@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/104077#page/407/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33333532) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulze, \[Carl Theodor\] Maximilian (Max Schulze (Jena)) (1841-1915), German (Prussian-Saxony) botanist; trained to be a professional soldier (Kriegsschule Erfurt; officer 1862) but discharged after an accident; student-pharmacist 1862-1868; studied pharmacy and botany at Halle 1868; state examination pharmacy 1870; pharmacist at Hildburghausen 1871-1878; from 1878 in Jena devoting himself to botany, especially rhodology and orchidology; from 1912 with the title of professor. (*M. Schulze*).
+Schulze, \[Carl Theodor\] Maximilian (Max Schulze (Jena)) (1841-1915), German (Prussian-Saxony) botanist; trained to be a professional soldier (Kriegsschule Erfurt; officer 1862) but discharged after an accident; student-pharmacist 1862-1868; studied pharmacy and botany at Halle 1868; state examination pharmacy 1870; pharmacist at Hildburghausen 1871-1878; from 1878 in Jena devoting himself to botany, especially rhodology and orchidology; from 1912 with the title of professor. 
+**Abbreviated name**: *M. Schulze*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/104137#page/395/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33355466) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maury, Paul Jean Baptiste (1858-1893), French botanist, in Mexico 1884-1893. (*Maury*).
+Maury, Paul Jean Baptiste (1858-1893), French botanist, in Mexico 1884-1893. 
+**Abbreviated name**: *Maury*
 
 #### Herbarium and types
 

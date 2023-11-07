@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/item/104077#page/680/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33333805) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Charles Piper (1877-1955), Canadian-born American botanist; studied at Purdue Univ. 1900-1903; BSc ib. 1903; with the Indiana State Forestry Board 1904; at Stanford University 1904-1906, 1907-1908; MA ib. 1908; forester with the Pacific Improvement Co., Monterey 1906-1907; professor of zoology and entomology, later botany, at Utah Agricultural College, Logan 1908-1911; worked at Cornell University 1911-1912; associate professor of botany at Maryland Agricultural College 1912-1914; seed inspector and analyst Maryland Board of Agriculture 1912-1919; with a seed firm in Baltimore 1919-1920; teacher of biology at San Jose High School (Calif.) 1920-1940; from 1920 especially interested in *Lupinus*; Dr. phil. Stanford 1927. (*Ch.P. Sm.*).
+Smith, Charles Piper (1877-1955), Canadian-born American botanist; studied at Purdue Univ. 1900-1903; BSc ib. 1903; with the Indiana State Forestry Board 1904; at Stanford University 1904-1906, 1907-1908; MA ib. 1908; forester with the Pacific Improvement Co., Monterey 1906-1907; professor of zoology and entomology, later botany, at Utah Agricultural College, Logan 1908-1911; worked at Cornell University 1911-1912; associate professor of botany at Maryland Agricultural College 1912-1914; seed inspector and analyst Maryland Board of Agriculture 1912-1919; with a seed firm in Baltimore 1919-1920; teacher of biology at San Jose High School (Calif.) 1920-1940; from 1920 especially interested in *Lupinus*; Dr. phil. Stanford 1927. 
+**Abbreviated name**: *Ch.P. Sm.*
 
 #### Herbarium and types
 

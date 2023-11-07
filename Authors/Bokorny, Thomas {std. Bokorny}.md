@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103859#page/298/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33265485) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bokorny, Thomas (1856-1929), German (Bavarian, Franconian) plant physiologist, studied at the University of München, Dr. phil. ib. 1882, lecturer at the University of Erlangen, habil. Erlangen 1888-1892, teacher of natural sciences at the Royal "Cadettencorps" in München 1892. (*Bokorny*).
+Bokorny, Thomas (1856-1929), German (Bavarian, Franconian) plant physiologist, studied at the University of München, Dr. phil. ib. 1882, lecturer at the University of Erlangen, habil. Erlangen 1888-1892, teacher of natural sciences at the Royal "Cadettencorps" in München 1892. 
+**Abbreviated name**: *Bokorny*
 
 #### Herbarium and types
 

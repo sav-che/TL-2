@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103860#page/360/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266027) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Copineau, Charles (fl. 1866-1898), French judge at the civil court, member of the Société botanique de France, living at Doullens (Somme). (*Copineau*).
+Copineau, Charles (fl. 1866-1898), French judge at the civil court, member of the Société botanique de France, living at Doullens (Somme). 
+**Abbreviated name**: *Copineau*
 
 #### Herbarium and types
 

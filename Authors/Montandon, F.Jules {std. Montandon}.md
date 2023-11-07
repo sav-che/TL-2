@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/item/104137#page/580/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33355651) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Montandon, F.Jules (*fl*. 1856), French botanist and physician in the Jura. (*Montandon*).
+Montandon, F.Jules (*fl*. 1856), French botanist and physician in the Jura. 
+**Abbreviated name**: *Montandon*
 
 #### Herbarium and types
 

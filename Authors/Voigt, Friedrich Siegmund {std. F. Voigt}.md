@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/item/103683#page/785/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33212817) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voigt, Friedrich Siegmund (1781-1850), German (Thüringian) botanist and physician; studied medicine in Jena 1789; practicing physician ib. 1802; Dr. med. ib. 1802; lecturer in botany at Jena University 1803, e.o. professor of botany and director of the botanical garden 1807; ordinary professor of medicine 1810; from 1812 lecturing mainly on human physiology, remained director of the botanical garden until 1850. (*F. Voigt*).
+Voigt, Friedrich Siegmund (1781-1850), German (Thüringian) botanist and physician; studied medicine in Jena 1789; practicing physician ib. 1802; Dr. med. ib. 1802; lecturer in botany at Jena University 1803, e.o. professor of botany and director of the botanical garden 1807; ordinary professor of medicine 1810; from 1812 lecturing mainly on human physiology, remained director of the botanical garden until 1850. 
+**Abbreviated name**: *F. Voigt*
 
 #### Herbarium and types
 

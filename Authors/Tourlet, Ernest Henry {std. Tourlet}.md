@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/103683#page/421/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33212453) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tourlet, Ernest Henry (1843-1907), French pharmacist and botanist; studied pharmacy in Paris 1865-1868; succeeded his father in the pharmacy at Chinon (Indre-et-Loire); active floristic botanist, archeologist and numismatist. (*Tourlet*).
+Tourlet, Ernest Henry (1843-1907), French pharmacist and botanist; studied pharmacy in Paris 1865-1868; succeeded his father in the pharmacy at Chinon (Indre-et-Loire); active floristic botanist, archeologist and numismatist. 
+**Abbreviated name**: *Tourlet*
 
 #### Herbarium and types
 

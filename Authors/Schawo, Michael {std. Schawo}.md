@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/104077#page/135/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33333260) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schawo, Michael (1850-1909), German (Bavarian) algologist; telegraph operator at München ca. 1879-1891; later "Telegraphen-Verwalter" and "Postverwalter" at Lindau. (*Schawo*).
+Schawo, Michael (1850-1909), German (Bavarian) algologist; telegraph operator at München ca. 1879-1891; later "Telegraphen-Verwalter" and "Postverwalter" at Lindau. 
+**Abbreviated name**: *Schawo*
 
 #### Herbarium and types
 

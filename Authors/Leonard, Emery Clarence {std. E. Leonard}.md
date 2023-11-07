@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/item/103253#page/871/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33069087) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leonard, Emery Clarence (1892-1968), American botanist, at the Smithsonian Institution from 1918; specialist on Acanthaceae. (*E. Leonard*).
+Leonard, Emery Clarence (1892-1968), American botanist, at the Smithsonian Institution from 1918; specialist on Acanthaceae. 
+**Abbreviated name**: *E. Leonard*
 
 #### Herbarium and types
 

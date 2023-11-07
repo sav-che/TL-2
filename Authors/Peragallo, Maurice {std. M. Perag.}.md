@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103624#page/175/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33189632) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peragallo, Maurice (1853-?), French diatomologist; brother of H. Peragallo. (*M. Perag.*).
+Peragallo, Maurice (1853-?), French diatomologist; brother of H. Peragallo. 
+**Abbreviated name**: *M. Perag.*
 
 #### Herbarium and types
 

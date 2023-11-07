@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/item/103624#page/819/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33190276) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rivière, \[Marie\] Auguste (1821-1877), French horticulturist and botanist; plant introducer, arboriculturist and early orchid hybridizer; gardener at the Faculté de Médecine, Paris 1837-1859; from 1859 director of the Jardin du Luxembourg, from 1868 also of the Jardin du Hamma, Algeria. (*Rivière*).
+Rivière, \[Marie\] Auguste (1821-1877), French horticulturist and botanist; plant introducer, arboriculturist and early orchid hybridizer; gardener at the Faculté de Médecine, Paris 1837-1859; from 1859 director of the Jardin du Luxembourg, from 1868 also of the Jardin du Hamma, Algeria. 
+**Abbreviated name**: *Rivière*
 
 #### Herbarium and types
 

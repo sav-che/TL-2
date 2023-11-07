@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/item/103861#page/444/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33266741) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carter, William R. (fl. 1921), Canadian botanist, assistant in biology with the Provincial Museum of British Columbia 1918-1926. (*W. Carter*).
+Carter, William R. (fl. 1921), Canadian botanist, assistant in biology with the Provincial Museum of British Columbia 1918-1926. 
+**Abbreviated name**: *W. Carter*
 
 #### Herbarium and types
 

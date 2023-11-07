@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/104137#page/322/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33355393) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marsden, William (1754-1836), Irish-born British orientalist, numismatist and plant collector; in S. E. Asia 1771-1779; chief-secretary to the British Board of Admiralty 1779-1807. (*Marsden*).
+Marsden, William (1754-1836), Irish-born British orientalist, numismatist and plant collector; in S. E. Asia 1771-1779; chief-secretary to the British Board of Admiralty 1779-1807. 
+**Abbreviated name**: *Marsden*
 
 #### Herbarium and types
 

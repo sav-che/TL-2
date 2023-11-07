@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103253#page/243/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hjaltalín, Oddur Jönsson (1782-1840), Icelandic botanist and regional physician. (*Hjaltalín*).
+Hjaltalín, Oddur Jönsson (1782-1840), Icelandic botanist and regional physician. 
+**Abbreviated name**: *Hjaltalín*
 
 #### Herbarium and types
 

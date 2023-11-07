@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103835#page/41/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33260019) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dolk, Herman Elisa (1904-1932), Dutch botanist, born 1904 at Maastricht, studied at the University of Utrecht with A.A. Pulle and F.A.F.C. Went, Ph.D. 31 Mar 1930 (thesis in plant physiology), went to California Institute of Technology, Pasadena (Calif.), died 18 Mar 1932 by an accident. (*Dolk*).
+Dolk, Herman Elisa (1904-1932), Dutch botanist, born 1904 at Maastricht, studied at the University of Utrecht with A.A. Pulle and F.A.F.C. Went, Ph.D. 31 Mar 1930 (thesis in plant physiology), went to California Institute of Technology, Pasadena (Calif.), died 18 Mar 1932 by an accident. 
+**Abbreviated name**: *Dolk*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/103858#page/382/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33265097) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bastin, Joseph (1851-1939), Belgian (Malmédy-born) clergyman, abbé at Stavelot from 1894. (*J. Bastin*).
+Bastin, Joseph (1851-1939), Belgian (Malmédy-born) clergyman, abbé at Stavelot from 1894. 
+**Abbreviated name**: *J. Bastin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103624#page/202/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33189659) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petch, Thomas (1870-1948), British botanist (plant pathologist and mycologist) and schoolteacher at King's Lynn and Leyton; at the Royal Botanic Gardens, Peradeniya, Ceylon (Sri Lanka) 1905-1925; director Tea research institute of Ceylon 1925-1928. (*Petch*).
+Petch, Thomas (1870-1948), British botanist (plant pathologist and mycologist) and schoolteacher at King's Lynn and Leyton; at the Royal Botanic Gardens, Peradeniya, Ceylon (Sri Lanka) 1905-1925; director Tea research institute of Ceylon 1925-1928. 
+**Abbreviated name**: *Petch*
 
 #### Herbarium and types
 

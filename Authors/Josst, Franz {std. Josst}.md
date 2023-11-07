@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/103253#page/490/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Josst, Franz (1815-1862), Bohemian gardener from 1841 with Thun-Hohenstein at Tetschen; died from a shooting (hunting) accident. (*Josst*).
+Josst, Franz (1815-1862), Bohemian gardener from 1841 with Thun-Hohenstein at Tetschen; died from a shooting (hunting) accident. 
+**Abbreviated name**: *Josst*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 931](https://www.biodiversitylibrary.org/item/103414#page/979/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 931](https://www.biodiversitylibrary.org/page/33121062) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Genth, Carl Friedrich Ferdinand (1810-1837), German cryptogamist. (*Genth*).
+Genth, Carl Friedrich Ferdinand (1810-1837), German cryptogamist. 
+**Abbreviated name**: *Genth*
 
 #### Herbarium and types
 

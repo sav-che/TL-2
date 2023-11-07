@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103250#page/440/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winter, Ferdinand (1835-1888), German (Prussian) pharmacist at Saarbrücken, later at Gerolstein (Eifel). (*F. Wint.*).
+Winter, Ferdinand (1835-1888), German (Prussian) pharmacist at Saarbrücken, later at Gerolstein (Eifel). 
+**Abbreviated name**: *F. Wint.*
 
 #### Herbarium and types
 

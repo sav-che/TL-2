@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103414#page/215/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beilschmied, Carl (Karl) Traugott {std. Beilschm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beilschmied, Carl \[Karl\] Traugott (1793-1848), German botanist and apothecary at Ohlau. (*Beilschm.*).
+Beilschmied, Carl \[Karl\] Traugott (1793-1848), German botanist and apothecary at Ohlau. 
+**Abbreviated name**: *Beilschm.*
 
 #### Herbarium and types
 

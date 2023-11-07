@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103861#page/28/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33266325) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandts Buys, L.F.R.P.C.A. (fl. 1928), Dutch forester employed with the Forest Research Institute, Buitenzorg (Bogor). (*Brandts Buys*).
+Brandts Buys, L.F.R.P.C.A. (fl. 1928), Dutch forester employed with the Forest Research Institute, Buitenzorg (Bogor). 
+**Abbreviated name**: *Brandts Buys*
 
 #### Herbarium and types
 

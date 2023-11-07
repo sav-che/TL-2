@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/104137#page/236/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McGibbon \[MacGibbon\], James (*fl*. 1848-1864), Scottish gardener; at the Cape of Good Hope for Kew from 1850. (*McGibb.*).
+McGibbon \[MacGibbon\], James (*fl*. 1848-1864), Scottish gardener; at the Cape of Good Hope for Kew from 1850. 
+**Abbreviated name**: *McGibb.*
 
 #### Herbarium and types
 

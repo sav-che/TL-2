@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103834#page/46/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259528) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Falck, Kurt Richard (1888-x), Swedish mycologist, born 25 Jan 1888 in Lillhärdals, Hårjedalen, fil. mag. 1912 and fil. lic. 1917 Univ. of Stockholm, biology teacher and lecturer in geography and biology in Linköping 1919. (*K.R. Falck*).
+Falck, Kurt Richard (1888-x), Swedish mycologist, born 25 Jan 1888 in Lillhärdals, Hårjedalen, fil. mag. 1912 and fil. lic. 1917 Univ. of Stockholm, biology teacher and lecturer in geography and biology in Linköping 1919. 
+**Abbreviated name**: *K.R. Falck*
 
 #### Herbarium and types
 

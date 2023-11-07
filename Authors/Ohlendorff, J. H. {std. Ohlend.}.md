@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/item/104137#page/830/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ohlendorff, J. H. (x-1857), German gardener at Hamburg. (*Ohlend.*).
+Ohlendorff, J. H. (x-1857), German gardener at Hamburg. 
+**Abbreviated name**: *Ohlend.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/item/103414#page/855/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33120938) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ewart, Alfred James {std. Ewart} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ewart, Alfred James (1872-1937), British born government botanist of Victoria at Melbourne, professor of botany 1906-1937. (*Ewart*).
+Ewart, Alfred James (1872-1937), British born government botanist of Victoria at Melbourne, professor of botany 1906-1937. 
+**Abbreviated name**: *Ewart*
 
 #### Herbarium and types
 

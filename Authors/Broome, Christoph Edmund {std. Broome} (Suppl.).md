@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103861#page/133/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33266430) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Broome, Christopher Edmund {std. Broome}|first entry]] for this author
 
 ### Author
 
-\* Broome, Christoph Edmund (1812-1886), British mycologist at Batheaston in the Bristol district, B.A. Cambridge, Trinity Hall, degree 1836, lived near Bristol, later at Clifton, from 1848 at Elmhurst near Bath. (*Broome*).
+\* Broome, Christoph Edmund (1812-1886), British mycologist at Batheaston in the Bristol district, B.A. Cambridge, Trinity Hall, degree 1836, lived near Bristol, later at Clifton, from 1848 at Elmhurst near Bath. 
+**Abbreviated name**: *Broome*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/item/103414#page/1017/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33121100) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goldfuss, Georg August (1782-1848), German professor of zoology at Bonn. (*Goldfuss*).
+Goldfuss, Georg August (1782-1848), German professor of zoology at Bonn. 
+**Abbreviated name**: *Goldfuss*
 
 #### Collections
 

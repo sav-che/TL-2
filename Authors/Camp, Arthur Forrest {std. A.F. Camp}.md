@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103861#page/335/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33266632) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Camp, Arthur Forrest (1896-?), American plant physiologist, born at Los Angeles, studied at the University of California, A.B. 1920, Ph.D. at St. Louis (Washington Univ.) 1923, assistant pathologist at the Experiment Station Florida 1923-1925, plant physiologist in charge of cotton investigations 1925-1926, associate horticulturist id. 1926-1927, in charge 1927-1928, horticulturist 1928-1929, with U.S.D.A. 1929-1930, id. at Experiment Station Florida 1930-1936, in charge of Citrus Experiment Station from 1936. (*A.F. Camp*).
+Camp, Arthur Forrest (1896-?), American plant physiologist, born at Los Angeles, studied at the University of California, A.B. 1920, Ph.D. at St. Louis (Washington Univ.) 1923, assistant pathologist at the Experiment Station Florida 1923-1925, plant physiologist in charge of cotton investigations 1925-1926, associate horticulturist id. 1926-1927, in charge 1927-1928, horticulturist 1928-1929, with U.S.D.A. 1929-1930, id. at Experiment Station Florida 1930-1936, in charge of Citrus Experiment Station from 1936. 
+**Abbreviated name**: *A.F. Camp*
 
 #### Bibliography and biography
 

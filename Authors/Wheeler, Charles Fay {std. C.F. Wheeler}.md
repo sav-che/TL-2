@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/item/103250#page/298/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33066578) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wheeler, Charles Fay (1842-1910), American botanist; studied medecine at the University of Michigan 1866-1867; had a drug and book store at Hubbardston, Michigan 1867-1889; instructor at Michigan Agricultural College, 1889-1895, assistant professor and consulting botanist to the Experiment Station of the College 1892-1902; expert in charge of economic gardens at the Bureau of Plant Industry, USDA 1902-1910. (*C.F. Wheeler*).
+Wheeler, Charles Fay (1842-1910), American botanist; studied medecine at the University of Michigan 1866-1867; had a drug and book store at Hubbardston, Michigan 1867-1889; instructor at Michigan Agricultural College, 1889-1895, assistant professor and consulting botanist to the Experiment Station of the College 1892-1902; expert in charge of economic gardens at the Bureau of Plant Industry, USDA 1902-1910. 
+**Abbreviated name**: *C.F. Wheeler*
 
 #### Herbarium and types
 

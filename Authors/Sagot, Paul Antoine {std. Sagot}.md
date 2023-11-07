@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1053](https://www.biodiversitylibrary.org/item/103624#page/1067/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1053](https://www.biodiversitylibrary.org/page/33190524) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sagot, Paul Antoine (1821-1888), French botanist and plant collector; Dr. med. Paris 1848; practicing physician at Coulanges-sur-Yonne 1848-1853; naval surgeon in French Guyana and briefly on the French Antilles 1854-1859; in Ténériffe 1864-1865; professor of natural sciences at the École normale spéciale de Cluny; 1865-1877; from 1877-1881 at Dijon; from 1881-1888 at Melun nr. Paris, associated with the Paris Muséum d'Histoire naturelle. (*Sagot*).
+Sagot, Paul Antoine (1821-1888), French botanist and plant collector; Dr. med. Paris 1848; practicing physician at Coulanges-sur-Yonne 1848-1853; naval surgeon in French Guyana and briefly on the French Antilles 1854-1859; in Ténériffe 1864-1865; professor of natural sciences at the École normale spéciale de Cluny; 1865-1877; from 1877-1881 at Dijon; from 1881-1888 at Melun nr. Paris, associated with the Paris Muséum d'Histoire naturelle. 
+**Abbreviated name**: *Sagot*
 
 #### Herbarium and types
 

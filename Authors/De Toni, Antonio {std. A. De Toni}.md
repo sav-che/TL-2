@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103833#page/252/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259286) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-De Toni, Antonio (1889-1915), Italian botanist (phycologist), born 6 Jun 1889 at Venezia, died 1915. (*A. De Toni*).
+De Toni, Antonio (1889-1915), Italian botanist (phycologist), born 6 Jun 1889 at Venezia, died 1915. 
+**Abbreviated name**: *A. De Toni*
 
 #### Herbarium and types
 

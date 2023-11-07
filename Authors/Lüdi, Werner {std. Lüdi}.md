@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/104137#page/202/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lüdi, Werner (1888-1968), Swiss ecologist, phytosociologist and quaternary botanist; Dr. phil. Bern 1923; high school teacher at Bern 1915-1931; lecturer at Bern University 1927-1933; from 1931-1958 director of the Geobot. Institut Rübel in Zürich. (*Lüdi*).
+Lüdi, Werner (1888-1968), Swiss ecologist, phytosociologist and quaternary botanist; Dr. phil. Bern 1923; high school teacher at Bern 1915-1931; lecturer at Bern University 1927-1933; from 1931-1958 director of the Geobot. Institut Rübel in Zürich. 
+**Abbreviated name**: *Lüdi*
 
 #### Herbarium and types
 

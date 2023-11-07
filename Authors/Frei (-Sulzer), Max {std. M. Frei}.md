@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103834#page/422/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33259904) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frei \[-Sulzer\], Max (1913-1983), Swiss botanist and forensic criminologist, born 8 Mar 1913 in Winterthur (Kt. Zürich), attended school and univ. in Zurich, teacher's dipl. 1932, private teacher in Agrigento (Sicily) 1933-1934, further study at Zurich 1934, doctorate 1937, founder in 1950 and dir. of the crime lab., Zurich police, achieved notoriety in the 1970s when he argued that pollen grains of plants endemic to Palestine were found on the Shroud of Turin and again later when he "authenticated" through handwriting analysis Adolf Hitler diaries that were forgeries, died 14 Jan 1983. (*M. Frei*).
+Frei \[-Sulzer\], Max (1913-1983), Swiss botanist and forensic criminologist, born 8 Mar 1913 in Winterthur (Kt. Zürich), attended school and univ. in Zurich, teacher's dipl. 1932, private teacher in Agrigento (Sicily) 1933-1934, further study at Zurich 1934, doctorate 1937, founder in 1950 and dir. of the crime lab., Zurich police, achieved notoriety in the 1970s when he argued that pollen grains of plants endemic to Palestine were found on the Shroud of Turin and again later when he "authenticated" through handwriting analysis Adolf Hitler diaries that were forgeries, died 14 Jan 1983. 
+**Abbreviated name**: *M. Frei*
 
 #### Herbarium and types
 

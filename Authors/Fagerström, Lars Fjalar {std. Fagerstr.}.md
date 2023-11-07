@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103834#page/35/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33259517) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fagerström, Lars Fjalar (1914-2001), Finnish (mother-tongue Swedish) botanist, born 24 Jul 1914 in Porvoo (Borgå), studied from 1931 at Univ. of Helsinki, cand. phil. 1937, Ph.D. 1954, Capt. in Finnish Army during Russian-Finnish War 1941-1944, conducted floristic studies and collected many specimens in Russian Karelia during the war, served in various positions at Botanical Museum, Univ. of Helsinki 1939-1979, died 27 Mai 2001 in Hamina (Fredriksham). (*Fagerstr.*).
+Fagerström, Lars Fjalar (1914-2001), Finnish (mother-tongue Swedish) botanist, born 24 Jul 1914 in Porvoo (Borgå), studied from 1931 at Univ. of Helsinki, cand. phil. 1937, Ph.D. 1954, Capt. in Finnish Army during Russian-Finnish War 1941-1944, conducted floristic studies and collected many specimens in Russian Karelia during the war, served in various positions at Botanical Museum, Univ. of Helsinki 1939-1979, died 27 Mai 2001 in Hamina (Fredriksham). 
+**Abbreviated name**: *Fagerstr.*
 
 #### Herbarium and types
 

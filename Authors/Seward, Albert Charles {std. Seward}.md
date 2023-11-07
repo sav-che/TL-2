@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/item/104077#page/553/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seward, Albert Charles (1863-1941), British paleobotanist; lecturer (later fellow) St. John's College Cambridge 1890; professor of botany Cambridge 1906-1936; also Master of Downing College 1915-1936; FRS 1898; knighted 1936; after retirement working in London (Brit. Mus. Nat. Hist.) and Oxford. (*Seward*).
+Seward, Albert Charles (1863-1941), British paleobotanist; lecturer (later fellow) St. John's College Cambridge 1890; professor of botany Cambridge 1906-1936; also Master of Downing College 1915-1936; FRS 1898; knighted 1936; after retirement working in London (Brit. Mus. Nat. Hist.) and Oxford. 
+**Abbreviated name**: *Seward*
 
 #### Herbarium and types
 

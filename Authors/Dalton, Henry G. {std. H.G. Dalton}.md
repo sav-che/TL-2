@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103833#page/45/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33259079) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalton, Henry G. (fl. 1855), British explorer and botanist in British Guyana. (*H.G. Dalton*).
+Dalton, Henry G. (fl. 1855), British explorer and botanist in British Guyana. 
+**Abbreviated name**: *H.G. Dalton*
 
 #### Herbarium and types
 

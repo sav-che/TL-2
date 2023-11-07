@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/item/104077#page/513/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seiland, Sjur Knutsen (1867-1920), Norwegian botanist and school teacher at Granvin; Hardanger from 1888-1919; lecturer at the teacher's college at Stord 1919-1920. (*Selland*).
+Seiland, Sjur Knutsen (1867-1920), Norwegian botanist and school teacher at Granvin; Hardanger from 1888-1919; lecturer at the teacher's college at Stord 1919-1920. 
+**Abbreviated name**: *Selland*
 
 #### Herbarium and types
 

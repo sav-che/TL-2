@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103683#page/132/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33212164) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sweet, Robert (1783-1835), British horticulturist, botanist and ornithologist; nurseryman at Stockwell 1810-1815, Fulham 1815-1819, Chelsea 1819-1826. (*Sweet*).
+Sweet, Robert (1783-1835), British horticulturist, botanist and ornithologist; nurseryman at Stockwell 1810-1815, Fulham 1815-1819, Chelsea 1819-1826. 
+**Abbreviated name**: *Sweet*
 
 #### Herbarium and types
 

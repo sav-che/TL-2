@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103833#page/248/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33259282) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Determe, Clément Julien Théophile (1821-1868), Belgian land surveyor, born 1821, studied at the old college at Morlanwelz, lived at Mariembourg and was much interested in botany and assisted in making and inventory of the Belgian flora from 1860, died 8 Apr 1868. (*Determe*).
+Determe, Clément Julien Théophile (1821-1868), Belgian land surveyor, born 1821, studied at the old college at Morlanwelz, lived at Mariembourg and was much interested in botany and assisted in making and inventory of the Belgian flora from 1860, died 8 Apr 1868. 
+**Abbreviated name**: *Determe*
 
 #### Herbarium and types
 

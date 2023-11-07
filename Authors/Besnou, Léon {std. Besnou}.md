@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/item/103859#page/149/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33265336) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Besnou, Léon (1811-?), French pharmacist and botanist, chief pharmacist of the French navy. (*Besnou*).
+Besnou, Léon (1811-?), French pharmacist and botanist, chief pharmacist of the French navy. 
+**Abbreviated name**: *Besnou*
 
 #### Herbarium and types
 

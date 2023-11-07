@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/item/103250#page/493/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33066773) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolpert, Josef \[Johann Baptist\] (1881-?), German (Franconian) botanist; Dr. phil. München 1909; assistant at the botanical division of the Kön. forstliche Versuchsanstalt, München 1911. (*Wolpert*).
+Wolpert, Josef \[Johann Baptist\] (1881-?), German (Franconian) botanist; Dr. phil. München 1909; assistant at the botanical division of the Kön. forstliche Versuchsanstalt, München 1911. 
+**Abbreviated name**: *Wolpert*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/item/103624#page/618/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33190075) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rawton, Olivier de (*fl*. 1882), French economie botanist. (*Rawton*).
+Rawton, Olivier de (*fl*. 1882), French economie botanist. 
+**Abbreviated name**: *Rawton*
 
 #### Herbarium and types
 

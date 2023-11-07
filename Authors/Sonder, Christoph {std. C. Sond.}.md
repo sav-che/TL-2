@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/item/104077#page/755/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sonder, Christoph (*fl*. 1890), German (Holstein) pharmacist and botanist; Dr. phil. Rostock 1890; pharmacist in Oldesloe, Schleswig-Holstein, nephew of O.W. Sonder. (*C. Sond.*).
+Sonder, Christoph (*fl*. 1890), German (Holstein) pharmacist and botanist; Dr. phil. Rostock 1890; pharmacist in Oldesloe, Schleswig-Holstein, nephew of O.W. Sonder. 
+**Abbreviated name**: *C. Sond.*
 
 #### Herbarium and types
 

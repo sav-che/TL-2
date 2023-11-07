@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103860#page/311/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265978) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conklin, George Hall (1866-1940), American physician, surgeon and bryologist, born at Battle Creek, Mich., studied medicine at the University of Michigan, graduated (MD) 1888, post-graduate work at the same institution, practising medicine at Superior, Wisconsin 1889-1917 as county physician for Douglas County, served with a medical replacement unit on military duty 1917-1918 at Vichy, France, 1918-1919 id. at Gondrecour, Lorraine, post-graduate work at Chicago University (pediatrics), until 1929 dealing with medical aid of underprivileged children, directing physician of the City Health Department at Superior 1929-1933, in charge of the County Tuberculair Sanitorium at Hawtherne. (*Conkl.*).
+Conklin, George Hall (1866-1940), American physician, surgeon and bryologist, born at Battle Creek, Mich., studied medicine at the University of Michigan, graduated (MD) 1888, post-graduate work at the same institution, practising medicine at Superior, Wisconsin 1889-1917 as county physician for Douglas County, served with a medical replacement unit on military duty 1917-1918 at Vichy, France, 1918-1919 id. at Gondrecour, Lorraine, post-graduate work at Chicago University (pediatrics), until 1929 dealing with medical aid of underprivileged children, directing physician of the City Health Department at Superior 1929-1933, in charge of the County Tuberculair Sanitorium at Hawtherne. 
+**Abbreviated name**: *Conkl.*
 
 #### Herbarium and types
 

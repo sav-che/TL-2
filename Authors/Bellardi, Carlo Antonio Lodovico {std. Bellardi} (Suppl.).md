@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103859#page/73/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bellardi, Carlo Antonio Lodovico {std. Bellardi}|first entry]] for this author
 
 ### Author
 
-\* Bellardi, Carlo Antonio Lodovico (1741-1826), Italian physician and botanist at Torino, student and later assistant with Allioni at the Botanical Garden of Torino, subsequently practicing physician at Torino. (*Bellardi*).
+\* Bellardi, Carlo Antonio Lodovico (1741-1826), Italian physician and botanist at Torino, student and later assistant with Allioni at the Botanical Garden of Torino, subsequently practicing physician at Torino. 
+**Abbreviated name**: *Bellardi*
 
 #### Herbarium and types
 

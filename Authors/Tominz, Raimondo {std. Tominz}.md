@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103683#page/399/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tominz, Raimondo (*fl*. 1879), Austro-Hungarian (Trieste/Italian) botanist; director of the Civico Orto botanico, Trieste from 1879. (*Tominz*).
+Tominz, Raimondo (*fl*. 1879), Austro-Hungarian (Trieste/Italian) botanist; director of the Civico Orto botanico, Trieste from 1879. 
+**Abbreviated name**: *Tominz*
 
 #### Herbarium and types
 

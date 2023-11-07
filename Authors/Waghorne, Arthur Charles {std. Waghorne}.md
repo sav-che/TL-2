@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103250#page/68/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33066310) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waghorne, Arthur Charles (1851-1900), British missionary and botanist; educated at Canterbury for the Society for the Propagation of the Gospel to Newfoundland 1875; ordained Queen's College St. John's 1875 (deacon), 1878 (priest); mission priest in Newfoundland, St. Pierre and Miquelon and Labrador until 1899; in retirement on Jamaica 1899-1900. (*Waghorne*).
+Waghorne, Arthur Charles (1851-1900), British missionary and botanist; educated at Canterbury for the Society for the Propagation of the Gospel to Newfoundland 1875; ordained Queen's College St. John's 1875 (deacon), 1878 (priest); mission priest in Newfoundland, St. Pierre and Miquelon and Labrador until 1899; in retirement on Jamaica 1899-1900. 
+**Abbreviated name**: *Waghorne*
 
 #### Herbarium and types
 

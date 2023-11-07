@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103253#page/402/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33068618) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hussey, A. M.(née Reed; Mrs. Thomas Jonathan Hussey), (*fl*. 1820-1877), British mycologist of Hayes, Kent. (*Hussey.*).
+Hussey, A. M.(née Reed; Mrs. Thomas Jonathan Hussey), (*fl*. 1820-1877), British mycologist of Hayes, Kent. 
+**Abbreviated name**: *Hussey.*
 
 #### Herbarium and types
 

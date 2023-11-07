@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103253#page/183/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henneguy, Louis-Félix (1850-1928), French physician and embryologist at Montpellier, later at Paris, first editor of the Archives d'Anatomie microscopique. (*Henneg.*).
+Henneguy, Louis-Félix (1850-1928), French physician and embryologist at Montpellier, later at Paris, first editor of the Archives d'Anatomie microscopique. 
+**Abbreviated name**: *Henneg.*
 
 #### Herbarium and types
 

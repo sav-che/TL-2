@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103250#page/82/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33066362) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wahnschaffe, \[Gustav Albert Bruno\] Felix (1851-1914), German (Prussian) geologist; studied natural sciences at Leipzig 1871-1874, at Jena 1874-1875; Dr. phil. Jena 1875; temporary assistant at the Königliche Geologische Landesanstalt und Bergakademie, Charlottenburg, Berlin 1875-1878, regular assistant 1878-1886; "Landesgeologe" ib. 1886; Habil. Univ. Berlin 1886, from 1892 with the title professor; divisional director ib. 1903-1914. (*Wahnschaffe*).
+Wahnschaffe, \[Gustav Albert Bruno\] Felix (1851-1914), German (Prussian) geologist; studied natural sciences at Leipzig 1871-1874, at Jena 1874-1875; Dr. phil. Jena 1875; temporary assistant at the Königliche Geologische Landesanstalt und Bergakademie, Charlottenburg, Berlin 1875-1878, regular assistant 1878-1886; "Landesgeologe" ib. 1886; Habil. Univ. Berlin 1886, from 1892 with the title professor; divisional director ib. 1903-1914. 
+**Abbreviated name**: *Wahnschaffe*
 
 #### Herbarium and types
 

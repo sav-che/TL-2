@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/item/103414#page/960/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33121043) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Garcke, (Christian) August (Friedrich) {std. Garcke} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Garcke, Christian August Friedrich (1819-1904), German botanist, pupil of D. F. L. von Schlechtendal at Halle, after 1854 curator, "dozent" and ultimately professor of botany at Berlin. (*Garcke*).
+Garcke, Christian August Friedrich (1819-1904), German botanist, pupil of D. F. L. von Schlechtendal at Halle, after 1854 curator, "dozent" and ultimately professor of botany at Berlin. 
+**Abbreviated name**: *Garcke*
 
 #### Herbarium and types
 

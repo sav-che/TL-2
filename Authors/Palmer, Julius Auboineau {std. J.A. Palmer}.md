@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103624#page/45/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmer, Julius Auboineau (1840-1899), American mycologist. (*J.A. Palmer*).
+Palmer, Julius Auboineau (1840-1899), American mycologist. 
+**Abbreviated name**: *J.A. Palmer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/104137#page/339/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33355410) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martinez, Maximino (1888-1964), Mexican botanist, founder of the Sociedad Botánica de México and the Boletin of that society. (*Martinez*).
+Martinez, Maximino (1888-1964), Mexican botanist, founder of the Sociedad Botánica de México and the Boletin of that society. 
+**Abbreviated name**: *Martinez*
 
 #### Herbarium and types
 

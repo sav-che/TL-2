@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/item/103414#page/724/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33120807) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dozy, François {std. Dozy} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dozy, François (1807-1856), Dutch physician and botanist. (*Dozy*).
+Dozy, François (1807-1856), Dutch physician and botanist. 
+**Abbreviated name**: *Dozy*
 
 #### Herbarium and types
 

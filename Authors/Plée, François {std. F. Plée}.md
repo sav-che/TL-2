@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/103624#page/308/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33189765) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plée, François (*fl*. 1844), French botanical artist and author. (*F. Plée*).
+Plée, François (*fl*. 1844), French botanical artist and author. 
+**Abbreviated name**: *F. Plée*
 
 #### Herbarium and types
 

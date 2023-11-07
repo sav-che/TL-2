@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103861#page/310/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33266607) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cailliaud, Frédéric {std. Caill.}|first entry]] for this author
 
 ### Author
 
-\* Cailliaud, Fréderic (1787-1869), French traveller and mineralogist, born in Nantes, studied mineralogy, went to Paris 1809, sent out to Egypt exploring upper Egypt 1815, later sent out on a further archeological expedition to the oasis Siouah and Nubie, curator of the Musée d'histoire naturelle in Nantes from 1836. (*Caill.*).
+\* Cailliaud, Fréderic (1787-1869), French traveller and mineralogist, born in Nantes, studied mineralogy, went to Paris 1809, sent out to Egypt exploring upper Egypt 1815, later sent out on a further archeological expedition to the oasis Siouah and Nubie, curator of the Musée d'histoire naturelle in Nantes from 1836. 
+**Abbreviated name**: *Caill.*
 
 #### Herbarium and types
 

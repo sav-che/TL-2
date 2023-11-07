@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/item/104137#page/542/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33355613) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mix, Arthur Jackson (1888-1956), American mycologist, Ph. D. Cornell 1916; LL. D. h. c. Hamilton College 1953; at the University of Kansas from 1916; authority on *Taphrina*. (*Mix*).
+Mix, Arthur Jackson (1888-1956), American mycologist, Ph. D. Cornell 1916; LL. D. h. c. Hamilton College 1953; at the University of Kansas from 1916; authority on *Taphrina*. 
+**Abbreviated name**: *Mix*
 
 #### Herbarium and types
 

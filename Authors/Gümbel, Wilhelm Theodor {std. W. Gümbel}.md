@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/item/103414#page/1067/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33121150) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gümbel, (Wilhelm) Theodor (von) {std. W. Gümbel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gümbel, Wilhelm Theodor (1812-1858), German bryologist, director of a secondary school at Spandau. (*W. Gümbel*).
+Gümbel, Wilhelm Theodor (1812-1858), German bryologist, director of a secondary school at Spandau. 
+**Abbreviated name**: *W. Gümbel*
 
 #### Herbarium and types
 

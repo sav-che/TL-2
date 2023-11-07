@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103414#page/113/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33120196) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arnold, Ferdinand (Christian Gustav) (von Eichstätt) {std. Arnold} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arnold, Ferdinand Christian Gustav ("von Eichstätt") (1828-1901), Southern German lichenologist and bryologist, "Oberlandesgerichtsrath" in München. (*Arnold*).
+Arnold, Ferdinand Christian Gustav ("von Eichstätt") (1828-1901), Southern German lichenologist and bryologist, "Oberlandesgerichtsrath" in München. 
+**Abbreviated name**: *Arnold*
 
 #### Herbarium and types
 

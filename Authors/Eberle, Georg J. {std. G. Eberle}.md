@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103835#page/258/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33260236) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eberle, Georg J. (1899-x), German botanist, living at Wetzlar, since 1957 corresponding member of the Senckenbergische naturforschende Gesellschaft (Frankfurt) for which organisation he published several books on the German flora. (*G. Eberle*).
+Eberle, Georg J. (1899-x), German botanist, living at Wetzlar, since 1957 corresponding member of the Senckenbergische naturforschende Gesellschaft (Frankfurt) for which organisation he published several books on the German flora. 
+**Abbreviated name**: *G. Eberle*
 
 #### Herbarium and types
 

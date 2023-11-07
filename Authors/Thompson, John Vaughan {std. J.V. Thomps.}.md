@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/103683#page/291/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33212323) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thompson, John Vaughan (1779-1847), British surgeon, zoologist and botanist; studied surgery at Edinburgh 1797-1798; assistant surgeon with the Prince of Wales's Fencibles 1799, in Gibraltar 1799, in the West Indies and Guiana 1799-1809, from 1803 as full surgeon; to Madagascar and Mauritius 1812-1816; district medical inspector at Cork 1816-1835; in charge of the convict medical department at Sydney 1835-1847. (*J.V. Thomps.*).
+Thompson, John Vaughan (1779-1847), British surgeon, zoologist and botanist; studied surgery at Edinburgh 1797-1798; assistant surgeon with the Prince of Wales's Fencibles 1799, in Gibraltar 1799, in the West Indies and Guiana 1799-1809, from 1803 as full surgeon; to Madagascar and Mauritius 1812-1816; district medical inspector at Cork 1816-1835; in charge of the convict medical department at Sydney 1835-1847. 
+**Abbreviated name**: *J.V. Thomps.*
 
 #### Herbarium and types
 

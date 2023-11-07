@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1045](https://www.biodiversitylibrary.org/item/103624#page/1059/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1045](https://www.biodiversitylibrary.org/page/33190516) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sadebeck, Richard Emil Benjamin (1839-1905), German (Silesian) botanist; studied at Breslau with Goeppert, Cohn and Koerber; Dr. phil. ib. 1864; high school teacher in Berlin 1865-1876; teacher at the Johanneum high school at Hamburg 1876; subsequently director of the Botanical Museum (1883-1901) and the Botanical Garden ib.; in retirement from 1901. (*Sadebeck*).
+Sadebeck, Richard Emil Benjamin (1839-1905), German (Silesian) botanist; studied at Breslau with Goeppert, Cohn and Koerber; Dr. phil. ib. 1864; high school teacher in Berlin 1865-1876; teacher at the Johanneum high school at Hamburg 1876; subsequently director of the Botanical Museum (1883-1901) and the Botanical Garden ib.; in retirement from 1901. 
+**Abbreviated name**: *Sadebeck*
 
 #### Herbarium and types
 

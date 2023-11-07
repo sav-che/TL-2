@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103624#page/43/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33189462) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmer, Elmore (1839-1910/1911), American botanist and physician at Dexter, Mich. (*Elm. Palmer*).
+Palmer, Elmore (1839-1910/1911), American botanist and physician at Dexter, Mich. 
+**Abbreviated name**: *Elm. Palmer*
 
 #### Herbarium and types
 

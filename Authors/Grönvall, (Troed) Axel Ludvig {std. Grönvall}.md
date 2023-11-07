@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103832#page/421/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33258887) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grönvall, \[Troed\] Axel Ludvig (1838-1892), Swedish bryologist, born 31 Mar 1838 in Söfvestad (Skåne), Ph.D. 1859 Lund, taught at Malmö 1861, died 16 Nov 1892 in Malmö. (*Grönvall*).
+Grönvall, \[Troed\] Axel Ludvig (1838-1892), Swedish bryologist, born 31 Mar 1838 in Söfvestad (Skåne), Ph.D. 1859 Lund, taught at Malmö 1861, died 16 Nov 1892 in Malmö. 
+**Abbreviated name**: *Grönvall*
 
 #### Herbarium and types
 

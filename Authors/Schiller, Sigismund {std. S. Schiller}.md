@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/item/104077#page/173/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33333298) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schiller, Sigismund (1847-1920), Austro-Hungarian botanist and journalist; from 1881-1884 at Presburg (Bratislava, now Czecho-Slovakia); later editor of the "Pester Lloyd" at Budapest. (*S. Schiller*).
+Schiller, Sigismund (1847-1920), Austro-Hungarian botanist and journalist; from 1881-1884 at Presburg (Bratislava, now Czecho-Slovakia); later editor of the "Pester Lloyd" at Budapest. 
+**Abbreviated name**: *S. Schiller*
 
 #### Herbarium and types
 

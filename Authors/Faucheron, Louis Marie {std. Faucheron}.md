@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103834#page/85/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33259567) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Faucheron, Louis Marie (1873-1937), French botanist, Ph.D. 1894 Univ. of Lyon, Dir. of botanical garden, Lyon 1926-1937. (*Faucheron*).
+Faucheron, Louis Marie (1873-1937), French botanist, Ph.D. 1894 Univ. of Lyon, Dir. of botanical garden, Lyon 1926-1937. 
+**Abbreviated name**: *Faucheron*
 
 #### Herbarium and types
 

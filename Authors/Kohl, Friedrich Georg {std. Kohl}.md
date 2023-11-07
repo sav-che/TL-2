@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/item/103253#page/632/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33068848) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kohl, Friedrich Georg (1855-1910), German botanist; Dr. phil. Leipzig 1881; professor of botany at the University of Marburg i.H. 1891, later in Leipzig. (*Kohl*).
+Kohl, Friedrich Georg (1855-1910), German botanist; Dr. phil. Leipzig 1881; professor of botany at the University of Marburg i.H. 1891, later in Leipzig. 
+**Abbreviated name**: *Kohl*
 
 #### Herbarium and types
 

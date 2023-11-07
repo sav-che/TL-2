@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/item/103414#page/623/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33120706) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Curtis, William {std. Curtis} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Curtis, William (1746-1799), English botanist, entomologist, and editor of the Botanical Magazine 1787-1799. (*Curtis*).
+Curtis, William (1746-1799), English botanist, entomologist, and editor of the Botanical Magazine 1787-1799. 
+**Abbreviated name**: *Curtis*
 
 #### Herbarium and types
 

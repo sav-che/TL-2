@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103858#page/343/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33265058) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barnes, Charles Reid {std. Barnes}|first entry]] for this author
 
 ### Author
 
-\* Barnes, Charles Reid (1858-1910), American bryologist and plant physiologist, studied at Hanover College (Indiana), graduated A.B. 1877, studied at Harvard University, taught in public schools; professor of botany at Purdue University 1882-1887; id. University of Wisconsin 1887-1898, professor of plant physiology University of Chicago 1898-1910, from 1883 co-editor of the Botanical Gazette. (*Barnes*).
+\* Barnes, Charles Reid (1858-1910), American bryologist and plant physiologist, studied at Hanover College (Indiana), graduated A.B. 1877, studied at Harvard University, taught in public schools; professor of botany at Purdue University 1882-1887; id. University of Wisconsin 1887-1898, professor of plant physiology University of Chicago 1898-1910, from 1883 co-editor of the Botanical Gazette. 
+**Abbreviated name**: *Barnes*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103683#page/434/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33212466) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tracy, Clarissa, née Tucker (1818-1905), American botanist; married Horace Tracy 1844, widowed 1848; operated private schools at Honesdale 1851-1856 and Neenah, Wisc. 1856-1859; matron in charge of domestic operations and teacher at Ripon College, Wisc., retired 1893. (*Cl. Tracy*).
+Tracy, Clarissa, née Tucker (1818-1905), American botanist; married Horace Tracy 1844, widowed 1848; operated private schools at Honesdale 1851-1856 and Neenah, Wisc. 1856-1859; matron in charge of domestic operations and teacher at Ripon College, Wisc., retired 1893. 
+**Abbreviated name**: *Cl. Tracy*
 
 #### Herbarium and types
 

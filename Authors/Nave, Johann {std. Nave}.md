@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/item/104137#page/714/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nave, Johann (1831-1864), Bohemian financial administrator and botanist; educated at Brünn (Brno), studied in Vienna with Unger 1850-1854; from 1854-1864 again in Brünn as civil servant in the regional finance department. (*Nave*).
+Nave, Johann (1831-1864), Bohemian financial administrator and botanist; educated at Brünn (Brno), studied in Vienna with Unger 1850-1854; from 1854-1864 again in Brünn as civil servant in the regional finance department. 
+**Abbreviated name**: *Nave*
 
 #### Herbarium and types
 

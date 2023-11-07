@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 950](https://www.biodiversitylibrary.org/item/103414#page/998/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 950](https://www.biodiversitylibrary.org/page/33121081) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gleason, Henry Allan {std. Gleason} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gleason, Henry Allan (1882-1975). American botanist. (*Gleason*).
+Gleason, Henry Allan (1882-1975). American botanist. 
+**Abbreviated name**: *Gleason*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103683#page/249/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Théis, Alexandre \[Étienne Guillaume, baron\] de (1765-1842), French author and administrator; maire Laon 1808-1814; prefect of the dept. Corrèze 1830, ultimately dépt. Haute-Vienne. (*Théis*).
+Théis, Alexandre \[Étienne Guillaume, baron\] de (1765-1842), French author and administrator; maire Laon 1808-1814; prefect of the dept. Corrèze 1830, ultimately dépt. Haute-Vienne. 
+**Abbreviated name**: *Théis*
 
 #### Herbarium and types
 

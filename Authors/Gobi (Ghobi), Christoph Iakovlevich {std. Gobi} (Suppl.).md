@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103832#page/259/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33258725) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gobi, Christophos Jacoblewitsch (Ghobi) {std. Gobi}|first entry]] for this author
 
 ### Author
 
-\* Gobi \[Ghobi\], Christoph \[Christopher, Christophos, Christophus, Khristofer, Khristofor, Khristov, Kristofer, Kristofor\] Iakovlevich \[Iakovlevitch, Jakoblewitsch, Jakosolewitsch, Jakovlevich, Jakowlewitsch, Yakovlevich\] (1847-1919), Russian mycologist and phycologist, born 12 Apr 1847 \[24 Apr *teste* Wittrock\] in St. Petersburg, Ph.D. 1881 St. Petersburg, curator of the herb., then dir., St. Petersburg Bot. Gard. 1896, died 24 Dec 1919 in Petrograd (i.e. St. Petersburg). (*Gobi*).
+\* Gobi \[Ghobi\], Christoph \[Christopher, Christophos, Christophus, Khristofer, Khristofor, Khristov, Kristofer, Kristofor\] Iakovlevich \[Iakovlevitch, Jakoblewitsch, Jakosolewitsch, Jakovlevich, Jakowlewitsch, Yakovlevich\] (1847-1919), Russian mycologist and phycologist, born 12 Apr 1847 \[24 Apr *teste* Wittrock\] in St. Petersburg, Ph.D. 1881 St. Petersburg, curator of the herb., then dir., St. Petersburg Bot. Gard. 1896, died 24 Dec 1919 in Petrograd (i.e. St. Petersburg). 
+**Abbreviated name**: *Gobi*
 
 #### Note
 

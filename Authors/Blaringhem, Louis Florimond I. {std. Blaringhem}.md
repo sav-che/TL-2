@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103859#page/215/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265402) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blaringhem, Louis Florimond I. (1878-?), French geneticist, associated with the Muséum d'Histoire naturelle, Paris; prix Bonaparte 1910. (*Blaringhem*).
+Blaringhem, Louis Florimond I. (1878-?), French geneticist, associated with the Muséum d'Histoire naturelle, Paris; prix Bonaparte 1910. 
+**Abbreviated name**: *Blaringhem*
 
 #### Herbarium and types
 

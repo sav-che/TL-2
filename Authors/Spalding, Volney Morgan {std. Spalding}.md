@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/item/104077#page/785/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33333910) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spalding, Volney Morgan (1849-1918), American botanist; B.A. Univ. Mich. 1873; principal of high schools at Battle Creek and Flint, Mich. 1873-1876; instructor in zoology and botany, Univ. Michigan 1876-1879, asst. professor 1879-1881, acting professor 1881-1886, full professor of botany 1886-1904; Dr. phil. Leipzig 1904; with the Desert botanical laboratory of the Carnegie Institution of Washington at Tucson, Ariz. 1905-1909; in retirement because of ill health at Loma Linda, Calif. 1909-1918; from 1896 married with Effie Almira Southworth. (*Spalding*).
+Spalding, Volney Morgan (1849-1918), American botanist; B.A. Univ. Mich. 1873; principal of high schools at Battle Creek and Flint, Mich. 1873-1876; instructor in zoology and botany, Univ. Michigan 1876-1879, asst. professor 1879-1881, acting professor 1881-1886, full professor of botany 1886-1904; Dr. phil. Leipzig 1904; with the Desert botanical laboratory of the Carnegie Institution of Washington at Tucson, Ariz. 1905-1909; in retirement because of ill health at Loma Linda, Calif. 1909-1918; from 1896 married with Effie Almira Southworth. 
+**Abbreviated name**: *Spalding*
 
 #### Herbarium and types
 

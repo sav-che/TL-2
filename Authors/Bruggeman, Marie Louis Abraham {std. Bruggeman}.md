@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103861#page/164/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33266461) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruggeman, Marie Louis Abraham (1894-1982), Dutch botanist, educated at the Horticultural School at Frederiksoord, assistant curator at the Mountain Garden at Tjibodas, W. Java (Indonesia) 1921-1927, subsequently transferred to the Buitenzorg (Bogor) Botanical Gardens. (*Bruggeman*).
+Bruggeman, Marie Louis Abraham (1894-1982), Dutch botanist, educated at the Horticultural School at Frederiksoord, assistant curator at the Mountain Garden at Tjibodas, W. Java (Indonesia) 1921-1927, subsequently transferred to the Buitenzorg (Bogor) Botanical Gardens. 
+**Abbreviated name**: *Bruggeman*
 
 #### Herbarium and types
 

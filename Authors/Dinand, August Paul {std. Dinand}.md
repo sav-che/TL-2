@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103833#page/353/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33259387) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dinand, August Paul (1865-x), German expert on medicinal plants, leader of the "Kneipp-Bund" living in Mannheim. (*Dinand*).
+Dinand, August Paul (1865-x), German expert on medicinal plants, leader of the "Kneipp-Bund" living in Mannheim. 
+**Abbreviated name**: *Dinand*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/104077#page/300/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33333425) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schoenefeld, Wladimir de (1816-1875), Berlin-born botanist of Russian parentage; in France from 1817-1833; in Berlin with C.S. Kunth 1833-1840; in Paris from 1840-1875; student of Adr. de Jussieu; one of the founders and secretary of the Société botanique de France 1854-1855, 1858-1861, secretary-general 1862-1875. (*Schoenef.*).
+Schoenefeld, Wladimir de (1816-1875), Berlin-born botanist of Russian parentage; in France from 1817-1833; in Berlin with C.S. Kunth 1833-1840; in Paris from 1840-1875; student of Adr. de Jussieu; one of the founders and secretary of the Société botanique de France 1854-1855, 1858-1861, secretary-general 1862-1875. 
+**Abbreviated name**: *Schoenef.*
 
 #### Herbarium and types
 

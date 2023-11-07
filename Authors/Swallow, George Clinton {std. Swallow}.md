@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103683#page/124/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33212156) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swallow, George Clinton (1817-1899), American geologist; AM Bowdoin 1846; Dr. med. Maryland Med. Coll. 1867; LL.D. Univ. Missouri 1873; principal at Bowdoin 1843-1849; id. at Hampden, Me. 1849-1851; professor of geology and mineralogy, Univ. Missouri 1851-1853 and 1870-1882; state geologist for Missouri 1856-1861, for Kansas 1866-1867; engaged in mining operations in Montana 1867-1870; professor of agriculture Univ. Missouri, dean ib. 1872 as well as professor of botany in the medical school; editor of the Daily Independent at Helena, Mont. 1882-1888; state inspector of mines 1888-1890. (*Swallow*).
+Swallow, George Clinton (1817-1899), American geologist; AM Bowdoin 1846; Dr. med. Maryland Med. Coll. 1867; LL.D. Univ. Missouri 1873; principal at Bowdoin 1843-1849; id. at Hampden, Me. 1849-1851; professor of geology and mineralogy, Univ. Missouri 1851-1853 and 1870-1882; state geologist for Missouri 1856-1861, for Kansas 1866-1867; engaged in mining operations in Montana 1867-1870; professor of agriculture Univ. Missouri, dean ib. 1872 as well as professor of botany in the medical school; editor of the Daily Independent at Helena, Mont. 1882-1888; state inspector of mines 1888-1890. 
+**Abbreviated name**: *Swallow*
 
 #### Herbarium and types
 

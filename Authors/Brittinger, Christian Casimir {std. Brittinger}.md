@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103861#page/102/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33266399) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brittinger, Christian Casimir (1795-1869), Austrian pharmacist, botanist and entomologist, born in Friedberg, Hessen-Darmstadt, Germany, pharmaceutical training at the Stift Schlägel, Mühlkreis, Ober-Österreich; assistant at a pharmacy in Linz 1817, final pharmacy studies at the University of Vienna 1818, ultimately, from 1827, pharmacist in Steyr, dedicating himself as well to the botany of Ober-Österreich. (*Brittinger*).
+Brittinger, Christian Casimir (1795-1869), Austrian pharmacist, botanist and entomologist, born in Friedberg, Hessen-Darmstadt, Germany, pharmaceutical training at the Stift Schlägel, Mühlkreis, Ober-Österreich; assistant at a pharmacy in Linz 1817, final pharmacy studies at the University of Vienna 1818, ultimately, from 1827, pharmacist in Steyr, dedicating himself as well to the botany of Ober-Österreich. 
+**Abbreviated name**: *Brittinger*
 
 #### Herbarium and types
 

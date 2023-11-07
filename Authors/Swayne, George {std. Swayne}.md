@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103683#page/131/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33212163) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swayne, George (1746-1827), British botanist and clergyman; vicar at Pucklechurch, Glos. 1772; rector at Dyrham 1806. (*Swayne*).
+Swayne, George (1746-1827), British botanist and clergyman; vicar at Pucklechurch, Glos. 1772; rector at Dyrham 1806. 
+**Abbreviated name**: *Swayne*
 
 #### Herbarium and types
 

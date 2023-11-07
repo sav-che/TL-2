@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/103858#page/360/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33265075) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barton, Benjamin Smith {std. Barton}|first entry]] for this author
 
 ### Author
 
-\* Barton, Benjamin Smith (1766-1815), American botanist, zoologist, ethnographer and physician, educated by his older brother, William and at a school in York, Pennsylvania, studied medicine at the University of Edinburgh 1786-1787 and id. of Göttingen 1787-1788, professor of natural history and botany in the College of Philadelphia (later University of Pennsylvania), professor of materia medica 1795, curator at the American Philosophical Society 1790-1800, vice-president ib. 1802-1815. (*Barton*).
+\* Barton, Benjamin Smith (1766-1815), American botanist, zoologist, ethnographer and physician, educated by his older brother, William and at a school in York, Pennsylvania, studied medicine at the University of Edinburgh 1786-1787 and id. of Göttingen 1787-1788, professor of natural history and botany in the College of Philadelphia (later University of Pennsylvania), professor of materia medica 1795, curator at the American Philosophical Society 1790-1800, vice-president ib. 1802-1815. 
+**Abbreviated name**: *Barton*
 
 #### Herbarium and types
 

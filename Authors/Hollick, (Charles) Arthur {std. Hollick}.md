@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103253#page/282/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33068498) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hollick, \[Charles\] Arthur (1857-1933), American dendrologist and palaeobotanbt; sanitary engineer New York Board of Health 1881-1891; at Columbia College 1890-1901; after the transfer of the Columbia fossil collections to NY curator of the collections of fossil plants of the New York Botanical Garden 1902-1921, palaebotanist 1922-1933. (*Hollick*).
+Hollick, \[Charles\] Arthur (1857-1933), American dendrologist and palaeobotanbt; sanitary engineer New York Board of Health 1881-1891; at Columbia College 1890-1901; after the transfer of the Columbia fossil collections to NY curator of the collections of fossil plants of the New York Botanical Garden 1902-1921, palaebotanist 1922-1933. 
+**Abbreviated name**: *Hollick*
 
 #### Herbarium and types
 

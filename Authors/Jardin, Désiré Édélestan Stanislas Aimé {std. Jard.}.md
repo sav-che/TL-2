@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103253#page/451/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jardin, Désiré Édélestan Stanislas Aimé (1822-1896), French amateur botanist, inspector general of the French navy. (*Jard.*).
+Jardin, Désiré Édélestan Stanislas Aimé (1822-1896), French amateur botanist, inspector general of the French navy. 
+**Abbreviated name**: *Jard.*
 
 #### Herbarium and types
 

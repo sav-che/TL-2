@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/item/104077#page/858/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33333983) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Starcs, Karlis (1897-1953), Latvian botanist; Mag. rev. nat. Latvian Univ., Riga 1936; botanist at the Bio-entomological station of the Latvian Dept. of Agriculture 1919, soon afterwards (ca. 1922) until 1944 botanist at the Latvian Institute of Plant Protection; displaced 1944, at Weimar 1945; with the UNRRA Univ. at München 1946-1949; in D.P. camps in Bavaria 1945-1950; from 1950-1953 in the United States as gardener in Indianapolis. (*Starcs*).
+Starcs, Karlis (1897-1953), Latvian botanist; Mag. rev. nat. Latvian Univ., Riga 1936; botanist at the Bio-entomological station of the Latvian Dept. of Agriculture 1919, soon afterwards (ca. 1922) until 1944 botanist at the Latvian Institute of Plant Protection; displaced 1944, at Weimar 1945; with the UNRRA Univ. at München 1946-1949; in D.P. camps in Bavaria 1945-1950; from 1950-1953 in the United States as gardener in Indianapolis. 
+**Abbreviated name**: *Starcs*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/item/103250#page/497/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33066777) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wood, Horatio C (1841-1920), American physician, entomologist and botanist; M.D. Pennsylvania Univ., Philadelphia 1862; practicing physician from 1865; professor of botany Pennsylvania 1866-1876; professor of diseases of the nervous system 1875-1902, id. of materia medica & therapeutics 1876-1906; emeritus professor from 1906. (*H.C. Wood*).
+Wood, Horatio C (1841-1920), American physician, entomologist and botanist; M.D. Pennsylvania Univ., Philadelphia 1862; practicing physician from 1865; professor of botany Pennsylvania 1866-1876; professor of diseases of the nervous system 1875-1902, id. of materia medica & therapeutics 1876-1906; emeritus professor from 1906. 
+**Abbreviated name**: *H.C. Wood*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/item/104137#page/454/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33355525) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meyen, Franz Julius Ferdinand (1804-1840), Prussian physician and botanist; Dr. med. Berlin 1826; travelled around the world with W. Wendt on the Prinzess Luise (1830-1832); Dr. phil. h.c. Bonn 1834; professor of botany at the University of Berlin. (*Meyen*).
+Meyen, Franz Julius Ferdinand (1804-1840), Prussian physician and botanist; Dr. med. Berlin 1826; travelled around the world with W. Wendt on the Prinzess Luise (1830-1832); Dr. phil. h.c. Bonn 1834; professor of botany at the University of Berlin. 
+**Abbreviated name**: *Meyen*
 
 #### Herbarium and types
 

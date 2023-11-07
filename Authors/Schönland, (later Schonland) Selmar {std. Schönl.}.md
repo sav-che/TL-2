@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/104077#page/303/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33333428) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schönland, \[later: Schonland\] Selmar (1860-1940), German (Thuringian) botanist; studied at Berlin and Kiel; student of A. Engler; Dr. phil. Kiel 1883; high school teacher at Aschersleben 1884-1885; assistant with I.B. Balfour and S. Vines at Oxford, M.A. Oxf. 1888; curator, later director of the Albany Museum, Grahamstown, S. Africa 1889-1910; curator of the herbarium 1910-1925; professor of botany at Rhodes University College 1905-1925; from 1925-1940 in retirement at Grahamstown. (*Schönl.*).
+Schönland, \[later: Schonland\] Selmar (1860-1940), German (Thuringian) botanist; studied at Berlin and Kiel; student of A. Engler; Dr. phil. Kiel 1883; high school teacher at Aschersleben 1884-1885; assistant with I.B. Balfour and S. Vines at Oxford, M.A. Oxf. 1888; curator, later director of the Albany Museum, Grahamstown, S. Africa 1889-1910; curator of the herbarium 1910-1925; professor of botany at Rhodes University College 1905-1925; from 1925-1940 in retirement at Grahamstown. 
+**Abbreviated name**: *Schönl.*
 
 #### Herbarium and types
 

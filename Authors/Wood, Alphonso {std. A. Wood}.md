@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/item/103250#page/493/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33066773) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wood, Alphonso (1810-1881), American botanist and teacher; studied at Dartmouth College 1831-1834 and at Andover theological Seminary; teacher of Latin and natural science Kimball Union Academy, Meriden, N.H. 1835-1849; civil engineer in the construction of a railway between Rutland, Vt. and Albany, N.Y. 1849-1851; president of the Female Seminary, Cleveland, Ohio 1851-1857; professor at Terre Haute female College, Indiana 1858-1860; principal of the Clinton female seminary, Brooklyn 1861-1865, travelled to and along the Pacific Coast 1865-1866; in retirement at West Farms, N.Y. from 1867. (*A. Wood*).
+Wood, Alphonso (1810-1881), American botanist and teacher; studied at Dartmouth College 1831-1834 and at Andover theological Seminary; teacher of Latin and natural science Kimball Union Academy, Meriden, N.H. 1835-1849; civil engineer in the construction of a railway between Rutland, Vt. and Albany, N.Y. 1849-1851; president of the Female Seminary, Cleveland, Ohio 1851-1857; professor at Terre Haute female College, Indiana 1858-1860; principal of the Clinton female seminary, Brooklyn 1861-1865, travelled to and along the Pacific Coast 1865-1866; in retirement at West Farms, N.Y. from 1867. 
+**Abbreviated name**: *A. Wood*
 
 #### Herbarium and types
 

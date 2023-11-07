@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103832#page/125/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33258591) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gammie, George Alexander (1839-1935), Scottish agriculturalist, born 12 Nov 1839 in Kingcausie (Kincardine), apprenticed as a gardener, sent to Sikkim in 1865 to manage cinchona plantations and quinine extraction, F.L.S., retired in 1897. (*Gammie*).
+Gammie, George Alexander (1839-1935), Scottish agriculturalist, born 12 Nov 1839 in Kingcausie (Kincardine), apprenticed as a gardener, sent to Sikkim in 1865 to manage cinchona plantations and quinine extraction, F.L.S., retired in 1897. 
+**Abbreviated name**: *Gammie*
 
 #### Herbarium and types
 

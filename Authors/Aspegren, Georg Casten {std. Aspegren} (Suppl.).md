@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103858#page/209/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33264924) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aspegren, Georg Casten {std. Aspegren}|first entry]] for this author
 
 ### Author
 
-\* Aspegren, Georg Casten (1791-1828), Swedish botanist and government baker at Karlskrona. (*Aspegren*).
+\* Aspegren, Georg Casten (1791-1828), Swedish botanist and government baker at Karlskrona. 
+**Abbreviated name**: *Aspegren*
 
 #### Herbarium and types
 

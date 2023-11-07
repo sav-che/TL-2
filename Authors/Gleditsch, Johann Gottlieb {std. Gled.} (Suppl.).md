@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103832#page/252/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33258718) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gleditsch, Johann Gottlieb {std. Gled.}|first entry]] for this author
 
 ### Author
 
-\* Gleditsch, Johann Gottlieb (1714-1786), German botanist and sylviculturist, born 5 Feb 1714 in Leipzig, doctorate 1730 Leipzig, curator in Leipzig 1731-1735, Dr. med. 1742 Univ. Frankfurt/Oder, first Dir. (Praefectus) Berlin Botanical Garden 1744-1786 and other posts in forestry, died 5 Oct 1786 in Berlin. (*Gled*).
+\* Gleditsch, Johann Gottlieb (1714-1786), German botanist and sylviculturist, born 5 Feb 1714 in Leipzig, doctorate 1730 Leipzig, curator in Leipzig 1731-1735, Dr. med. 1742 Univ. Frankfurt/Oder, first Dir. (Praefectus) Berlin Botanical Garden 1744-1786 and other posts in forestry, died 5 Oct 1786 in Berlin. 
+**Abbreviated name**: *Gled*
 
 #### Herbarium and types
 

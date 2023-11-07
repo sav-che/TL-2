@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/104137#page/435/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33355506) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mérat de Vaumartoise, François Victor (1780-1851), French botanist and physician at Paris; Dr. méd. Paris 1803; at the Charité hospital 1803-1813; editor of the Dictionnaire des sciences médicales. (*Mérat*).
+Mérat de Vaumartoise, François Victor (1780-1851), French botanist and physician at Paris; Dr. méd. Paris 1803; at the Charité hospital 1803-1813; editor of the Dictionnaire des sciences médicales. 
+**Abbreviated name**: *Mérat*
 
 #### Herbarium and types
 

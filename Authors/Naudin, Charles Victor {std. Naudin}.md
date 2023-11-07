@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/item/104137#page/711/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33355782) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Naudin, Charles Victor (1815-1899), French botanist and horticulturist; Dr. sci. Paris 1842; botanist at the Muséum d'Histoire naturelle 1845 (aide-naturaliste 1854); owner of a private experimental garden at Collioure 1869-1878; from 1878 director of the botanical garden of the Villa Thuret at Antibes; early plant hybridiser. (*Naudin*).
+Naudin, Charles Victor (1815-1899), French botanist and horticulturist; Dr. sci. Paris 1842; botanist at the Muséum d'Histoire naturelle 1845 (aide-naturaliste 1854); owner of a private experimental garden at Collioure 1869-1878; from 1878 director of the botanical garden of the Villa Thuret at Antibes; early plant hybridiser. 
+**Abbreviated name**: *Naudin*
 
 #### Herbarium and types
 

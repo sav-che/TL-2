@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/item/104077#page/573/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33333698) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shepherd, Thomas (1779-1835), Scottish nurseryman; emigrated to Sydney, Australia, where he established Darling Nursery in 1827; lectured on horticulture and landscape gardening. (*Th. Sheph.*).
+Shepherd, Thomas (1779-1835), Scottish nurseryman; emigrated to Sydney, Australia, where he established Darling Nursery in 1827; lectured on horticulture and landscape gardening. 
+**Abbreviated name**: *Th. Sheph.*
 
 #### Herbarium and types
 

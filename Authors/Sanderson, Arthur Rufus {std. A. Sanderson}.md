@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/104077#page/45/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33333132) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sanderson, Arthur Rufus (1877-1932), English plant pathologist with the Rubber Growers' Association, Malaya; later at the Rubber Research Institute, 1918-1931. (*A. Sanderson*).
+Sanderson, Arthur Rufus (1877-1932), English plant pathologist with the Rubber Growers' Association, Malaya; later at the Rubber Research Institute, 1918-1931. 
+**Abbreviated name**: *A. Sanderson*
 
 #### Herbarium and types
 

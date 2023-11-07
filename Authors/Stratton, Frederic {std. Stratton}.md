@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103683#page/51/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33212045) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stratton, Frederic (1840-1916), British botanist at Newport, Isle of Wight, clerk to the Board of Guardians ib. 1863-1903; practicing solicitor 1863-1914. (*Stratton*).
+Stratton, Frederic (1840-1916), British botanist at Newport, Isle of Wight, clerk to the Board of Guardians ib. 1863-1903; practicing solicitor 1863-1914. 
+**Abbreviated name**: *Stratton*
 
 #### Herbarium and types
 

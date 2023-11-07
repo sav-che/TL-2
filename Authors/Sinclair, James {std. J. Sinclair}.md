@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/item/104077#page/628/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33333753) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sinclair, James (1913-1968), British (Scottish) botanist; BSc. Edinburgh 1936; teacher in Orkney; on active service 1941-1945; botanist Royal Botanic Garden Edinburgh 1946-1948; curator herbarium Botanic Gardens Singapore 1948-1962; on special contract ib. 1963-1967; collected widely in the Malesian area. (*J. Sinclair*).
+Sinclair, James (1913-1968), British (Scottish) botanist; BSc. Edinburgh 1936; teacher in Orkney; on active service 1941-1945; botanist Royal Botanic Garden Edinburgh 1946-1948; curator herbarium Botanic Gardens Singapore 1948-1962; on special contract ib. 1963-1967; collected widely in the Malesian area. 
+**Abbreviated name**: *J. Sinclair*
 
 #### Herbarium and types
 

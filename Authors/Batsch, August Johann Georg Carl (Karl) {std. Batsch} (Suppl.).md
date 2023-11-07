@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103858#page/388/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265103) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Batsch, August Johann Georg Carl {std. Batsch}|first entry]] for this author
 
 ### Author
 
-\* Batsch, August Johann Georg Carl \[Karl\] (1761-1802), German botanist at Jena, studied at the University of Jena, Dr. phil. 1781, spent some time in Jena, Weimar, and Köstriz studying mainly botany, Dr. med. and e.o. professor of natural history 1786, professor of medicine 1787, ordinary professor of philosophy 1792, prolific author, especially on systematic botany, in contact with Goethe (morphology). (*Batsch*).
+\* Batsch, August Johann Georg Carl \[Karl\] (1761-1802), German botanist at Jena, studied at the University of Jena, Dr. phil. 1781, spent some time in Jena, Weimar, and Köstriz studying mainly botany, Dr. med. and e.o. professor of natural history 1786, professor of medicine 1787, ordinary professor of philosophy 1792, prolific author, especially on systematic botany, in contact with Goethe (morphology). 
+**Abbreviated name**: *Batsch*
 
 #### Herbarium and types
 

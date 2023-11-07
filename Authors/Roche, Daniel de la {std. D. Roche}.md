@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/item/103624#page/835/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33190292) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roche, Daniel de la (1743-1813), Swiss (Geneva) botanist; Dr. med. Leiden 1766; practicing physician at Genève 1771-1782, at Paris 1782-1813 with a short period (1792-?) at Lausanne. (*D. Roche*).
+Roche, Daniel de la (1743-1813), Swiss (Geneva) botanist; Dr. med. Leiden 1766; practicing physician at Genève 1771-1782, at Paris 1782-1813 with a short period (1792-?) at Lausanne. 
+**Abbreviated name**: *D. Roche*
 
 #### Herbarium and types
 

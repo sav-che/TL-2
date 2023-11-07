@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/item/103414#page/640/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33120723) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dalla Torre von Thunberg-Sternhoff, Carl Wilhelm {std. Dalla Torre} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dalla Torre von Thurnberg-Sternhoff, Karl Wilhelm von (1850-1928), Austrian botanist and entomologist. (*Dalla Torre*).
+Dalla Torre von Thurnberg-Sternhoff, Karl Wilhelm von (1850-1928), Austrian botanist and entomologist. 
+**Abbreviated name**: *Dalla Torre*
 
 #### Herbarium and types
 

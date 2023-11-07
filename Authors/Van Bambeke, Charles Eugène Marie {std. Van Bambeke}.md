@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/item/103683#page/665/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33212697) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van Bambeke, Charles Eugène Marie (1829-1918), Belgian physician and botanist; Dr. med. Univ. Gent 1857; practicing physician in Gent 1857, also physician for the poor 1857-1863 and surgeon at various hospitals until 1880; assistant for comparative anatomy at the University, e.o. professor 1871-1876; regular professor at the Faculty of medicine 1876-1899, especially interested in mycology from ca. 1880-1918. (*Van Bambeke*).
+Van Bambeke, Charles Eugène Marie (1829-1918), Belgian physician and botanist; Dr. med. Univ. Gent 1857; practicing physician in Gent 1857, also physician for the poor 1857-1863 and surgeon at various hospitals until 1880; assistant for comparative anatomy at the University, e.o. professor 1871-1876; regular professor at the Faculty of medicine 1876-1899, especially interested in mycology from ca. 1880-1918. 
+**Abbreviated name**: *Van Bambeke*
 
 #### Herbarium and types
 

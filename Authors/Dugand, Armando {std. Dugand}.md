@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103835#page/161/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33260139) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dugand, Armando (1906-1971), Colombian botanist and ornithologist, born 23 Jun 1906 at Barranquilla, attended schools in Colombia, France and the United States, director Instituto de Ciencias Naturales at the University of Bogotá 1940-1953, teaching botany from 1945-1953 as professor of systematic botany and 1953-1955 as associate professor at the Instituto de Ciencias Naturales, returned to Barranquilla as director of the Institute of Scientific Research of the University of the Atlantico, died 5 Dec 1971 of heart ailment. (*Dugand*).
+Dugand, Armando (1906-1971), Colombian botanist and ornithologist, born 23 Jun 1906 at Barranquilla, attended schools in Colombia, France and the United States, director Instituto de Ciencias Naturales at the University of Bogotá 1940-1953, teaching botany from 1945-1953 as professor of systematic botany and 1953-1955 as associate professor at the Instituto de Ciencias Naturales, returned to Barranquilla as director of the Institute of Scientific Research of the University of the Atlantico, died 5 Dec 1971 of heart ailment. 
+**Abbreviated name**: *Dugand*
 
 #### Herbarium and types
 

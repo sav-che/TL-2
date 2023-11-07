@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103683#page/379/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tita, Antonius (x-1729), Italian botanist at Padua, travelled and botanised in the southern Alps. (*Tita*).
+Tita, Antonius (x-1729), Italian botanist at Padua, travelled and botanised in the southern Alps. 
+**Abbreviated name**: *Tita*
 
 #### Herbarium and types
 

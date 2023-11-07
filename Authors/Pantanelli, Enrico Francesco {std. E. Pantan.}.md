@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103624#page/59/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pantanelli, Enrico Francesco, (1881-1951), Italian mycologist; son of Dante Pantanelli; Dr. sci. Modena 1902; with Pfeffer at Leipzig 1902-1903; with E. Schulze at Zürich 1903-1904; with L. Kny at Berlin 1904; at the Istituto di Botanica, Roma, 1904-1906; at the Roma Stazione di Patologie vegetale 1906-1913; at Naples 1913-1914; with the Italian Department of Agriculture at Roma 1914-1920; at the Bari Stazione de Agric. sperimentale 1920-1947. (*E. Pantan.*).
+Pantanelli, Enrico Francesco, (1881-1951), Italian mycologist; son of Dante Pantanelli; Dr. sci. Modena 1902; with Pfeffer at Leipzig 1902-1903; with E. Schulze at Zürich 1903-1904; with L. Kny at Berlin 1904; at the Istituto di Botanica, Roma, 1904-1906; at the Roma Stazione di Patologie vegetale 1906-1913; at Naples 1913-1914; with the Italian Department of Agriculture at Roma 1914-1920; at the Bari Stazione de Agric. sperimentale 1920-1947. 
+**Abbreviated name**: *E. Pantan.*
 
 #### Herbarium and types
 

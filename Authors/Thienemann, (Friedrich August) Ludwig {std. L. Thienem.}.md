@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103683#page/272/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33212304) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thienemann, \[Friedrich August\] Ludwig (1793-1858), German (Saxony) ornithologist, physician, librarian and traveller; Dr. med. Leipzig 1820; travelled in Iceland and Norway 1820-1821; lecturer Univ. Leipzig 1822; assistant curator Natural History Cabinet Dresden 1825-1831; librarian in Dresden 1839-1842; from 1842 active as private scientist. (*L. Thienem.*).
+Thienemann, \[Friedrich August\] Ludwig (1793-1858), German (Saxony) ornithologist, physician, librarian and traveller; Dr. med. Leipzig 1820; travelled in Iceland and Norway 1820-1821; lecturer Univ. Leipzig 1822; assistant curator Natural History Cabinet Dresden 1825-1831; librarian in Dresden 1839-1842; from 1842 active as private scientist. 
+**Abbreviated name**: *L. Thienem.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/item/103414#page/995/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/page/33121078) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ginanni, Giuseppe, conte (1692-1753), Italian botanist at Ravenna. (*Ginanni*).
+Ginanni, Giuseppe, conte (1692-1753), Italian botanist at Ravenna. 
+**Abbreviated name**: *Ginanni*
 
 #### Herbarium and types
 

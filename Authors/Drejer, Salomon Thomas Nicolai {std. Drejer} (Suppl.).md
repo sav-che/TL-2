@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103835#page/103/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33260081) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drejer, Salomon Thomas Nicolai {std. Drejer}|first entry]] for this author
 
 ### Author
 
-\* Drejer, Salomon Thomas Nicolai (1813-1842), Danish botanist, born 15 Feb 1813 in Pastorat Eveldrup near Viborg in Jutland, died 21 Apr 1842 from tobacco poisoning, at the University of Copenhagen 1838-1840 for botany with Schouw, "magister examen" 1840, worked mostly on Hornemann's work on the Flora Danica. (*Drejer*).
+\* Drejer, Salomon Thomas Nicolai (1813-1842), Danish botanist, born 15 Feb 1813 in Pastorat Eveldrup near Viborg in Jutland, died 21 Apr 1842 from tobacco poisoning, at the University of Copenhagen 1838-1840 for botany with Schouw, "magister examen" 1840, worked mostly on Hornemann's work on the Flora Danica. 
+**Abbreviated name**: *Drejer*
 
 #### Herbarium and types
 

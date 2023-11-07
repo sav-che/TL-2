@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/item/103624#page/951/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33190408) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roupell, Arabella Elizabeth (née Pigott), (1817-1914), British (English) botanical artist; married Thomas Boone Roupell of the East India Company; travelled at the Cape (S. Africa) 1843-1845; back in England 1858. (*Roupell*).
+Roupell, Arabella Elizabeth (née Pigott), (1817-1914), British (English) botanical artist; married Thomas Boone Roupell of the East India Company; travelled at the Cape (S. Africa) 1843-1845; back in England 1858. 
+**Abbreviated name**: *Roupell*
 
 #### Herbarium and types
 

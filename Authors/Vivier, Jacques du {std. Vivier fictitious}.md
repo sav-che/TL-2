@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/item/103683#page/773/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vivier, Jacques du (1720-1793), fictitious French botanist; said to have taken part in de la Condamine's expedition to South America; sometime professor of botany and mathematics at the College of Lima, returning from Lima to Europe (embarking in Cayenne \[sic\]). 1782. (*==Name in the standard form is not specified==.*).
+Vivier, Jacques du (1720-1793), fictitious French botanist; said to have taken part in de la Condamine's expedition to South America; sometime professor of botany and mathematics at the College of Lima, returning from Lima to Europe (embarking in Cayenne \[sic\]). 1782. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Note
 

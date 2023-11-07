@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/item/103253#page/851/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leichhardt, Friedrich Wilhelm Ludwig (1813-1848), German botanist and explorer; from 1842 in Australia; lost on a mission in 1848. (*Leichh.*).
+Leichhardt, Friedrich Wilhelm Ludwig (1813-1848), German botanist and explorer; from 1842 in Australia; lost on a mission in 1848. 
+**Abbreviated name**: *Leichh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/103835#page/37/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33260015) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dörries, Wilhelm (1886-x), German botanist (Pflanzenphysiologie), scientist Preuss. Landesanstalt für Wasserhygiene at Berlin-Dahlem, born at Ilten (Hannover) 1886, studied at the Georg-August-Universität at Göttingen, Dr. phil. 1910. (*Dörries*).
+Dörries, Wilhelm (1886-x), German botanist (Pflanzenphysiologie), scientist Preuss. Landesanstalt für Wasserhygiene at Berlin-Dahlem, born at Ilten (Hannover) 1886, studied at the Georg-August-Universität at Göttingen, Dr. phil. 1910. 
+**Abbreviated name**: *Dörries*
 
 #### Herbarium and types
 

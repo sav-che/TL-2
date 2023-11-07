@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103834#page/184/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259666) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferraris, Teodoro (1874-1943), Italian mycologist and plant pathologist, born 23 Apr 1874 in Crescentino (Vercelli), attended gymnasium in Chivasso and the lyceum of Ivrea, studied at the Univ. of Rome until 1898, asst., Cattedra de Storia Naturale e Patologia Vegetale, Arellino 1898-1900, Dr. Sci. Nat. 1900, Prof. of botany and plant pathology, Alba (Cueno) 1909, died 30 Jul 1943 in Verrua Savoia (Torino). (*Ferraris*).
+Ferraris, Teodoro (1874-1943), Italian mycologist and plant pathologist, born 23 Apr 1874 in Crescentino (Vercelli), attended gymnasium in Chivasso and the lyceum of Ivrea, studied at the Univ. of Rome until 1898, asst., Cattedra de Storia Naturale e Patologia Vegetale, Arellino 1898-1900, Dr. Sci. Nat. 1900, Prof. of botany and plant pathology, Alba (Cueno) 1909, died 30 Jul 1943 in Verrua Savoia (Torino). 
+**Abbreviated name**: *Ferraris*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103250#page/323/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33066603) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiegmann, Arend \[Joachim\] Friedrich (1770-1853), German (Schleswig) pharmacist; pharmaceutical training in Braunschweig 1784-1788; assistant pharmacist Blankenburg 1788-1789; id. in various other places 1789-1794; in charge of his uncle's pharmacy in Braunschweig 1796-1820; "Privatdozent" for natural sciences at a college in Braunschweig from 1821; Dr. med. h.c. Marburg 1832; professor's title 1832; follower of F. Unger on the origin of life; early plant hybridiser. (*Wiegmann*).
+Wiegmann, Arend \[Joachim\] Friedrich (1770-1853), German (Schleswig) pharmacist; pharmaceutical training in Braunschweig 1784-1788; assistant pharmacist Blankenburg 1788-1789; id. in various other places 1789-1794; in charge of his uncle's pharmacy in Braunschweig 1796-1820; "Privatdozent" for natural sciences at a college in Braunschweig from 1821; Dr. med. h.c. Marburg 1832; professor's title 1832; follower of F. Unger on the origin of life; early plant hybridiser. 
+**Abbreviated name**: *Wiegmann*
 
 #### Herbarium and types
 
@@ -29,7 +30,7 @@ AG 6(2): 1068; Ainsworth p. 154, 315, 348; Barnhart 3: 492; Biol.-Dokum. 19: 100
 
 #### Eponymy
 
-*Wiegmannia* Meyen (1834).
+*Wiegmannia* Meyen (1834) [^1].
 
 #### Note
 
@@ -72,4 +73,7 @@ Not to be confused with his son Arend Friedrich August W. (1802-1841), zoologist
 
 **Notes**
 *Publ*.: 1842 (rd. before 28 Dec 1842 by Flora, rev. ib. 26: 21-35. 1843), p. \[1\]-55. *Copies: *G, NY. – N.B. A Dutch translation, *Over de anorganische bestanddeelen der planten*, Leiden 1843, could, as so often, not be located in the Dutch libraries.
+
+[^1]: "*Wiegmannia* Meyen 1834 (Rubiaceae) \[is dedicated to\] Arend Friedrich August Wiegmann (1802–1841), German zoologist, editor of the *Archiv für Naturgeschichte*, determined many zoological specimens collected by Meyen on his voyage around the world. Dedication by Meyen: “nach unserem verehrten Freunde Herrn Wiegmann d. J.” (for our dear friend Mr. Wiegmann the Younger) (Meyen, 1834: 139). Meyen and Wiegmann Jr. were nearly of the same age"
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

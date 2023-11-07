@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103253#page/235/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33068451) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hinterhuber, Rudolph (1802-1892), Austrian botanist and pharmacist at Bolzano and Mondsee, brother of Julius Hinterhuber. (*R. Hinterh.*).
+Hinterhuber, Rudolph (1802-1892), Austrian botanist and pharmacist at Bolzano and Mondsee, brother of Julius Hinterhuber. 
+**Abbreviated name**: *R. Hinterh.*
 
 #### Herbarium and types
 

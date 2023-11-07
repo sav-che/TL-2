@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/103624#page/201/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33189658) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petagna, Vincenzo (1734-1810), Italian botanist, physician and entomologist; professor of botany and director of the Monteoliveto botanical garden at Napoli. (*Petagna*).
+Petagna, Vincenzo (1734-1810), Italian botanist, physician and entomologist; professor of botany and director of the Monteoliveto botanical garden at Napoli. 
+**Abbreviated name**: *Petagna*
 
 #### Herbarium and types
 

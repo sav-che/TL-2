@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103250#page/84/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33066364) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wakefield, Elsie Maud (1886-1972), British botanist (mycologist); studied at Oxford and München (with Tubeuf); assistant Herbarium, Royal Botanic Gardens Kew 1910; temporarily mycologist at Imp. Dept. Agric. W. Indies, Barbados 1920-1921 while Mary Ewart Travelling Scholar; deputy keeper Kew 1945-1951. (*Wakef.*).
+Wakefield, Elsie Maud (1886-1972), British botanist (mycologist); studied at Oxford and München (with Tubeuf); assistant Herbarium, Royal Botanic Gardens Kew 1910; temporarily mycologist at Imp. Dept. Agric. W. Indies, Barbados 1920-1921 while Mary Ewart Travelling Scholar; deputy keeper Kew 1945-1951. 
+**Abbreviated name**: *Wakef.*
 
 #### Herbarium and types
 

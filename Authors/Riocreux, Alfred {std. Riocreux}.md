@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/item/103624#page/811/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33190268) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Riocreux, Alfred (1820-1912), French botanical artist. (*Riocreux*).
+Riocreux, Alfred (1820-1912), French botanical artist. 
+**Abbreviated name**: *Riocreux*
 
 #### Herbarium and types
 

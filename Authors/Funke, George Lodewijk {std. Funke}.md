@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103832#page/91/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33258557) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Funke, George Lodewijk (1896-1946), Dutch botanist, born 29 Mai 1896 in Amsterdam, attended elementary school and gymnasium in Amsterdam, in 1915 began biology at Utrecht, Ph.D. 1922 Utrecht, teacher at gymnasium in Schiedam 1924, at Bogor (Indonesia) 1927-1928, lecturer 1934, then prof. 1937, Univ. of Ghent, Belgium (but forced by Germans to return to The Netherlands during W.W.-II), died 15 Dec 1946 from complications after an appendectomy. (*Funke*).
+Funke, George Lodewijk (1896-1946), Dutch botanist, born 29 Mai 1896 in Amsterdam, attended elementary school and gymnasium in Amsterdam, in 1915 began biology at Utrecht, Ph.D. 1922 Utrecht, teacher at gymnasium in Schiedam 1924, at Bogor (Indonesia) 1927-1928, lecturer 1934, then prof. 1937, Univ. of Ghent, Belgium (but forced by Germans to return to The Netherlands during W.W.-II), died 15 Dec 1946 from complications after an appendectomy. 
+**Abbreviated name**: *Funke*
 
 #### Herbarium and types
 

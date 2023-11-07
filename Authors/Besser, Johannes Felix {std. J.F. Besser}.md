@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/103859#page/150/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33265337) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Besser, Johannes Felix (1861-?), German (Saxonian) botanist, educated at the Annen-Realschule in Dresden, studied at the Dresden Polytechnic 1879 and the University of Leipzig 1880-1883, teacher at a secondary school in Schneeberg from 1884; Dr. phil. 1886. (*J.F. Besser*).
+Besser, Johannes Felix (1861-?), German (Saxonian) botanist, educated at the Annen-Realschule in Dresden, studied at the Dresden Polytechnic 1879 and the University of Leipzig 1880-1883, teacher at a secondary school in Schneeberg from 1884; Dr. phil. 1886. 
+**Abbreviated name**: *J.F. Besser*
 
 #### Herbarium and types
 

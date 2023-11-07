@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 995](https://www.biodiversitylibrary.org/item/103414#page/1043/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 995](https://www.biodiversitylibrary.org/page/33121126) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grech Delicata, Giovanni Carlo (Johann Karl) (1811-1882), author on the Maltese flora. (*Grech*).
+Grech Delicata, Giovanni Carlo (Johann Karl) (1811-1882), author on the Maltese flora. 
+**Abbreviated name**: *Grech*
 
 #### Herbarium and types
 

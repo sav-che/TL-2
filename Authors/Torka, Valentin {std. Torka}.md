@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103683#page/406/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33212438) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torka, Valentin (1867-1952), German high school teacher and botanist in Schwiebus and Neustadt (Posen-Westpreussen), later in Neustadt-Oberschlesien. (*Torka*).
+Torka, Valentin (1867-1952), German high school teacher and botanist in Schwiebus and Neustadt (Posen-Westpreussen), later in Neustadt-Oberschlesien. 
+**Abbreviated name**: *Torka*
 
 #### Herbarium and types
 

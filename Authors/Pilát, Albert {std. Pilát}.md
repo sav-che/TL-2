@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103624#page/277/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33189734) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pilát, Albert (1903-1974), Czechoslovakian mycologist; Dr. sci. Praha 1926 (with J. Velenovský); from 1930 at the National Museum, Praha, from 1948 as head of the botanical department, from 1965 idem of the mycological department; rad práce (labor medal) CSSR 1969; corr. memb. Czechosl. Acad. Sci. 1959. (*Pilát*).
+Pilát, Albert (1903-1974), Czechoslovakian mycologist; Dr. sci. Praha 1926 (with J. Velenovský); from 1930 at the National Museum, Praha, from 1948 as head of the botanical department, from 1965 idem of the mycological department; rad práce (labor medal) CSSR 1969; corr. memb. Czechosl. Acad. Sci. 1959. 
+**Abbreviated name**: *Pilát*
 
 #### Herbarium and types
 

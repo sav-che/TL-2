@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103253#page/223/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33068439) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hill, \[Sir\] Arthur William (1875-1941), British botanist; demonstrator (1899), later lecturer (1904) at Cambridge; D.Sc. Cantab. 1919; D.Sc. Adelaide 1927; assistant director of the Royal Botanic Gardens, Kew 1907-1922; director 1922-1941; died in a riding accident. (*A. W. Hill*).
+Hill, \[Sir\] Arthur William (1875-1941), British botanist; demonstrator (1899), later lecturer (1904) at Cambridge; D.Sc. Cantab. 1919; D.Sc. Adelaide 1927; assistant director of the Royal Botanic Gardens, Kew 1907-1922; director 1922-1941; died in a riding accident. 
+**Abbreviated name**: *A. W. Hill*
 
 #### Herbarium and types
 

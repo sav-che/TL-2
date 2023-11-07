@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/104137#page/183/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33355254) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loudon, Jane Wells (née Webb) (1807-1858), British botanist and horticulturist; married (1830) John Claudius Loudon. (*J. W. Loud.*).
+Loudon, Jane Wells (née Webb) (1807-1858), British botanist and horticulturist; married (1830) John Claudius Loudon. 
+**Abbreviated name**: *J. W. Loud.*
 
 #### Herbarium and types
 

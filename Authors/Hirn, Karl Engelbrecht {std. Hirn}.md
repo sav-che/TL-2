@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103253#page/237/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33068453) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hirn, Karl Engelbrecht (1872-1907), Finnish algologist, high school teacher at Jyväskylä. (*Hirn*).
+Hirn, Karl Engelbrecht (1872-1907), Finnish algologist, high school teacher at Jyväskylä. 
+**Abbreviated name**: *Hirn*
 
 #### Collections
 

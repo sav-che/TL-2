@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103834#page/245/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fisher, Elmon McLean (1861-1938), American botanist and tradesman, born 19 Aug 1861 in Johnson Co., Indiana, attended Franklin College, Franklin, Indiana, asst. to J.M. Coulter, with whom he also published on new American plants ca. 1892-1896, Ph.D. 1902 Indiana Univ., in later years a businessman at Urmeyville nr. Needham, Indiana, dealing in grain, flour, meal and coal, died 10 \[8?\] Sep 1938 in Needham. (*Fisher*).
+Fisher, Elmon McLean (1861-1938), American botanist and tradesman, born 19 Aug 1861 in Johnson Co., Indiana, attended Franklin College, Franklin, Indiana, asst. to J.M. Coulter, with whom he also published on new American plants ca. 1892-1896, Ph.D. 1902 Indiana Univ., in later years a businessman at Urmeyville nr. Needham, Indiana, dealing in grain, flour, meal and coal, died 10 \[8?\] Sep 1938 in Needham. 
+**Abbreviated name**: *Fisher*
 
 #### Herbarium and types
 

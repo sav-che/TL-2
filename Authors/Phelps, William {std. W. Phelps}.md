@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103624#page/245/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phelps, William (1776-1856), British clergyman, topographer and botanist; B.A. Oxford 1797, rector at Oxcombe 1851. (*W. Phelps*).
+Phelps, William (1776-1856), British clergyman, topographer and botanist; B.A. Oxford 1797, rector at Oxcombe 1851. 
+**Abbreviated name**: *W. Phelps*
 
 #### Herbarium and types
 

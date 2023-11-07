@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103833#page/182/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33259216) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delacroix, Jean (fl. 1923), French pharmacist who got the grade of "Doctor de l'Université" in Strasbourg ("mention pharmacie"). (*J. Delacr.*).
+Delacroix, Jean (fl. 1923), French pharmacist who got the grade of "Doctor de l'Université" in Strasbourg ("mention pharmacie"). 
+**Abbreviated name**: *J. Delacr.*
 
 #### Herbarium and types
 

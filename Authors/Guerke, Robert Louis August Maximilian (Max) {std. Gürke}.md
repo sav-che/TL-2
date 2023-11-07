@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/item/103414#page/1068/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33121151) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gürke (Guerke), Robert Louis August Maximilian (Max) {std. Gürke} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Guerke, Robert Louis August Maximilian (Max) (1854-1911), German botanist at Berlin. (*Guerke*).
+Guerke, Robert Louis August Maximilian (Max) (1854-1911), German botanist at Berlin. 
+**Abbreviated name**: *Guerke*
 
 #### Herbarium and types
 

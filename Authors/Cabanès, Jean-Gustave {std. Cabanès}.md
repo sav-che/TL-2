@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103861#page/302/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33266599) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cabanès, Jean-Gustave (1864-1944), French lichenologist, born at Vergèze, Gard, educated at Congénies, became school-teacher, first position at the École normale primaire at Nîmes, second position (3 years) at Villeneuve-les-Avignon, ultimately at Nîmes, director of the Museé Hist. nat. Nîmes, from 1923 honorary custodian ib. (*Cabanès*).
+Cabanès, Jean-Gustave (1864-1944), French lichenologist, born at Vergèze, Gard, educated at Congénies, became school-teacher, first position at the École normale primaire at Nîmes, second position (3 years) at Villeneuve-les-Avignon, ultimately at Nîmes, director of the Museé Hist. nat. Nîmes, from 1923 honorary custodian ib. 
+**Abbreviated name**: *Cabanès*
 
 #### Herbarium and types
 

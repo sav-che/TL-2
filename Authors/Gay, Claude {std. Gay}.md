@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/item/103414#page/973/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33121056) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gay, Claude (1800-1873), French botanist and traveller. (*Gay*).
+Gay, Claude (1800-1873), French botanist and traveller. 
+**Abbreviated name**: *Gay*
 
 #### Herbarium and types
 

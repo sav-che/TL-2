@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103414#page/282/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33120365) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blum, John Leo (1917-x), American algologist. (*Blum*).
+Blum, John Leo (1917-x), American algologist. 
+**Abbreviated name**: *Blum*
 
 #### Exsiccatae
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/103624#page/323/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33189780) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poellnitz, Karl von (1896-1945), German agriculturist and botanist; studied at Leipzig University; specialist in succulent plants; owner of an estate at Oberlödla nr Altenburg, Thüringen. (*Poelln.*).
+Poellnitz, Karl von (1896-1945), German agriculturist and botanist; studied at Leipzig University; specialist in succulent plants; owner of an estate at Oberlödla nr Altenburg, Thüringen. 
+**Abbreviated name**: *Poelln.*
 
 #### Herbarium and types
 

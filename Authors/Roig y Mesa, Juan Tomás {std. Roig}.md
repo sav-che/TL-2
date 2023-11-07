@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/item/103624#page/880/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33190337) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roig y Mesa, Juan Tomás (1878-?), Cuban botanist; Dr. pharm. Univ. Habana 1910; Dr. Ci. nat. 1912; head of the botany dept. of the Ist. exp. agron. Santiago de las Vegas 1913; teacher natural history at Pinar del Rio 1917-1932; again at Santiago de las Vegas as head of the botany dept. from 1932. (*Roig*).
+Roig y Mesa, Juan Tomás (1878-?), Cuban botanist; Dr. pharm. Univ. Habana 1910; Dr. Ci. nat. 1912; head of the botany dept. of the Ist. exp. agron. Santiago de las Vegas 1913; teacher natural history at Pinar del Rio 1917-1932; again at Santiago de las Vegas as head of the botany dept. from 1932. 
+**Abbreviated name**: *Roig*
 
 #### Herbarium and types
 

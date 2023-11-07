@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103624#page/222/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33189679) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petrescu, Constantin C. (1879-1936), Roumanian botanist at Iasi, published on the flora of the Dobragea (Dobruja) and Moldavia; with the Botanical laboratory, Iasi, from 1911 (preparator), 1914 (assistant), 1920 (head assistant) until 1936. (*Petrescu*).
+Petrescu, Constantin C. (1879-1936), Roumanian botanist at Iasi, published on the flora of the Dobragea (Dobruja) and Moldavia; with the Botanical laboratory, Iasi, from 1911 (preparator), 1914 (assistant), 1920 (head assistant) until 1936. 
+**Abbreviated name**: *Petrescu*
 
 #### Herbarium and types
 

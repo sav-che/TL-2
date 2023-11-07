@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/item/103250#page/609/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33066889) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zohary, (né Schein) Michael (1898-1983), Polish (Galicia)-born Israeli botanist; migrated to Palestine 1920; Dr.phil. Praha 1936; with the Hebrew University 1926-1967; in retirement continuing his botanical work. (*Zoh.*).
+Zohary, (né Schein) Michael (1898-1983), Polish (Galicia)-born Israeli botanist; migrated to Palestine 1920; Dr.phil. Praha 1936; with the Hebrew University 1926-1967; in retirement continuing his botanical work. 
+**Abbreviated name**: *Zoh.*
 
 #### Herbarium and types
 

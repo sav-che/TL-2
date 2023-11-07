@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103832#page/73/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Froehner, Albrecht (fl. 1896-1898), German botanist, born in Dresden, studied *Coffea* under A. Engler at the Berlin Botanical Museum, Dr. thesis at Rostock. (*A. Froehner*).
+Froehner, Albrecht (fl. 1896-1898), German botanist, born in Dresden, studied *Coffea* under A. Engler at the Berlin Botanical Museum, Dr. thesis at Rostock. 
+**Abbreviated name**: *A. Froehner*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103624#page/459/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Purpus, Carl \[Karl\] Albert (1851-1941), German botanical explorer of Mexico and the western United States (1897-1934). (*Purpus*).
+Purpus, Carl \[Karl\] Albert (1851-1941), German botanical explorer of Mexico and the western United States (1897-1934). 
+**Abbreviated name**: *Purpus*
 
 #### Herbarium and types
 

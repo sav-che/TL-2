@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103832#page/436/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33258902) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Groves, James {std. J. Groves}|first entry]] for this author
 
 ### Author
 
-\* Groves, James (1858-1933), British algologist and paleontologist interested in Characeae, born 19 Jan 1858 in London, worked in Army and Navy Stores until retirement in 1918, F.L.S. 1885, died 20 Mar 1933 in Trevarthian (or Freshwater Bay), Isle of Wight. (*J. Groves*).
+\* Groves, James (1858-1933), British algologist and paleontologist interested in Characeae, born 19 Jan 1858 in London, worked in Army and Navy Stores until retirement in 1918, F.L.S. 1885, died 20 Mar 1933 in Trevarthian (or Freshwater Bay), Isle of Wight. 
+**Abbreviated name**: *J. Groves*
 
 #### Note
 

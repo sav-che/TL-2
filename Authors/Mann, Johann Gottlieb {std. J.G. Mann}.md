@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/item/104137#page/295/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33355366) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mann, Johann Gottlieb (*fl*. 1829) German botanist. (*J. G. Mann*).
+Mann, Johann Gottlieb (*fl*. 1829) German botanist. 
+**Abbreviated name**: *J. G. Mann*
 
 #### Herbarium and types
 

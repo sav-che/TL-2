@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/104077#page/64/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33333151) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sargant, Ethel (1836-1918), English plant anatomist; studied at Cambridge 1881-1884; from 1892-1893 at the Jodrell Laboratory, Kew, under D.H. Scott; from 1893-1912 pursuing botanical research privately at her property at Reigate; from 1912-1914 at Cambridge; in war work 1914-1918. (*Sargant*).
+Sargant, Ethel (1836-1918), English plant anatomist; studied at Cambridge 1881-1884; from 1892-1893 at the Jodrell Laboratory, Kew, under D.H. Scott; from 1893-1912 pursuing botanical research privately at her property at Reigate; from 1912-1914 at Cambridge; in war work 1914-1918. 
+**Abbreviated name**: *Sargant*
 
 #### Herbarium and types
 

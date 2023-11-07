@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/item/104137#page/456/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33355527) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meyer, Bernhard (1767-1836), German botanist and ornithologist in the Wetterau; 1791-1796 practicing physician at Hanau; from 1796 pharmacist and dentist at Offenbach. (*B. Mey.*).
+Meyer, Bernhard (1767-1836), German botanist and ornithologist in the Wetterau; 1791-1796 practicing physician at Hanau; from 1796 pharmacist and dentist at Offenbach. 
+**Abbreviated name**: *B. Mey.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/item/103253#page/602/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knieskern, Peter D. (1798-1871), American botanist and physician; resided in eastern New Jersey 1841-1871. (*Kniesk.*).
+Knieskern, Peter D. (1798-1871), American botanist and physician; resided in eastern New Jersey 1841-1871. 
+**Abbreviated name**: *Kniesk.*
 
 #### Herbarium and types
 

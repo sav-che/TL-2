@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103835#page/308/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33260286) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elbert, Johannes \[Eugen Wilhelm\] (1878-1915), German botanist and geologist-geographer, born 1878 at Koppenbrügge near Hameln, visited the Malay archipelago twice, conducted in 1914 a geological expedition to the Cameroons, was interned in Spain after the outbreak of the war, died 13 Oct 1915 at Granada having suffered from sleeping sickness. (*Elbert*).
+Elbert, Johannes \[Eugen Wilhelm\] (1878-1915), German botanist and geologist-geographer, born 1878 at Koppenbrügge near Hameln, visited the Malay archipelago twice, conducted in 1914 a geological expedition to the Cameroons, was interned in Spain after the outbreak of the war, died 13 Oct 1915 at Granada having suffered from sleeping sickness. 
+**Abbreviated name**: *Elbert*
 
 #### Herbarium and types
 

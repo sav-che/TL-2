@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/103253#page/796/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lauvergne, Hubert (*fl*. 1829), French navy physician at Toulon; Dr. med. Montpellier 1829. (*Lauvergne*).
+Lauvergne, Hubert (*fl*. 1829), French navy physician at Toulon; Dr. med. Montpellier 1829. 
+**Abbreviated name**: *Lauvergne*
 
 #### Herbarium and types
 

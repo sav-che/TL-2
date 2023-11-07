@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103624#page/98/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parvela, August Armas (1885-1953), Finnish botanist. (*Parvela*).
+Parvela, August Armas (1885-1953), Finnish botanist. 
+**Abbreviated name**: *Parvela*
 
 #### Herbarium and types
 

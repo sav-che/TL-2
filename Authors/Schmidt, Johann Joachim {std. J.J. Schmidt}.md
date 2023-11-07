@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/104077#page/271/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33333396) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Johann Joachim (*fl*. 1797), German botanist. (*J.J. Schmidt*).
+Schmidt, Johann Joachim (*fl*. 1797), German botanist. 
+**Abbreviated name**: *J.J. Schmidt*
 
 #### Herbarium and types
 

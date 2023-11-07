@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/item/103253#page/609/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knowlton, Frank Hall (1860-1926), American geologist, taxidermist and botanist at Georg Washington \[Columbian\] University, D. C. (1887-1896); from 1894 palaeobotanist in the U.S. Geological Survey; Ph. D. George Washington Univ. 1896, D. Se. 1921. (*Knowlt.*).
+Knowlton, Frank Hall (1860-1926), American geologist, taxidermist and botanist at Georg Washington \[Columbian\] University, D. C. (1887-1896); from 1894 palaeobotanist in the U.S. Geological Survey; Ph. D. George Washington Univ. 1896, D. Se. 1921. 
+**Abbreviated name**: *Knowlt.*
 
 #### Herbarium and types
 

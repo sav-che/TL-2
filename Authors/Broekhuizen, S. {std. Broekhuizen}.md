@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103861#page/124/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33266421) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broekhuizen, S. (fl. 1925-1939), Dutch mycologist and phytopathologist, research assistant with the "Nederlandse Gist- en Spiritusfabriek" at Delft. (*Broekhuizen*).
+Broekhuizen, S. (fl. 1925-1939), Dutch mycologist and phytopathologist, research assistant with the "Nederlandse Gist- en Spiritusfabriek" at Delft. 
+**Abbreviated name**: *Broekhuizen*
 
 #### Herbarium and types
 

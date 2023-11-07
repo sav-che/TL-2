@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103859#page/350/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265537) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Borkhausen, Moriz Balthasar {std. Borkh.}|first entry]] for this author
 
 ### Author
 
-\* Borkhausen (Borckhausen), Moritz Balthazar (1760-1806), German (Giessen born) forester, botanist and entomologist, studied at the University of Giessen, 1781 private teacher id., settled later in Darmstadt, in various positions of the forestry management 1796, "Assessor" with the Forestry "Collegium", 1806 "Kammerrath"; Doctor honoris causa Erlangen 1793. (*Borkh.*).
+\* Borkhausen (Borckhausen), Moritz Balthazar (1760-1806), German (Giessen born) forester, botanist and entomologist, studied at the University of Giessen, 1781 private teacher id., settled later in Darmstadt, in various positions of the forestry management 1796, "Assessor" with the Forestry "Collegium", 1806 "Kammerrath"; Doctor honoris causa Erlangen 1793. 
+**Abbreviated name**: *Borkh.*
 
 #### Herbarium and types
 

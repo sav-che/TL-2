@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1052](https://www.biodiversitylibrary.org/item/103624#page/1066/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1052](https://www.biodiversitylibrary.org/page/33190523) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sageret, Augustin (1763-1851), French land-owner, agriculturist, plant hybridizer and botanist. (*Sageret*).
+Sageret, Augustin (1763-1851), French land-owner, agriculturist, plant hybridizer and botanist. 
+**Abbreviated name**: *Sageret*
 
 #### Herbarium and types
 

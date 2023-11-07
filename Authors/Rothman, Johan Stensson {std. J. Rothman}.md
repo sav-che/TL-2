@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/item/103624#page/940/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33190397) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rothman, Johan Stensson (1684-1763), Swedish physician; high school teacher and botanist; studied at Uppsala; Dr. med. Harderwijk (Netherlands) 1713; regional physician Kronoberg County, S. Sweden from 1714, in addition teacher of logic and physics at Växjö grammar school (with e.g. C. Linnaeus as pupil) 1719-1751; assessor (member of Collegium medicum) 1722. (blind from 1749). (*J. Rothman*).
+Rothman, Johan Stensson (1684-1763), Swedish physician; high school teacher and botanist; studied at Uppsala; Dr. med. Harderwijk (Netherlands) 1713; regional physician Kronoberg County, S. Sweden from 1714, in addition teacher of logic and physics at Växjö grammar school (with e.g. C. Linnaeus as pupil) 1719-1751; assessor (member of Collegium medicum) 1722. (blind from 1749). 
+**Abbreviated name**: *J. Rothman*
 
 #### Herbarium and types
 

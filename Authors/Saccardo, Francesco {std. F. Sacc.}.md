@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/item/103624#page/1038/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33190495) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saccardo, Francesco (1869-1896), Italian botanist; studied at the University of Padova; Mag. sci. nat. 1892; assistant at the school of ecology and viticulture at Avellino 1895-1896; nephew of P.A. Saccardo. (*F. Sacc.*).
+Saccardo, Francesco (1869-1896), Italian botanist; studied at the University of Padova; Mag. sci. nat. 1892; assistant at the school of ecology and viticulture at Avellino 1895-1896; nephew of P.A. Saccardo. 
+**Abbreviated name**: *F. Sacc.*
 
 #### Herbarium and types
 

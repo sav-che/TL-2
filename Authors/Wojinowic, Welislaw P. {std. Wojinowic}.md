@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103250#page/479/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33066759) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wojinowic, Welislaw P. (1864-1892), Serbian botanist; studied mathematics and natural sciences at Belgrado 1882-1887; student of J. Pancic; at the University of Breslau with J. Cohn 1887-1890; Dr. phil. ib. 1890; from 1890-1892 active in floristics and mycology in Serbia; died of tuberculosis. (*Wojinowic*).
+Wojinowic, Welislaw P. (1864-1892), Serbian botanist; studied mathematics and natural sciences at Belgrado 1882-1887; student of J. Pancic; at the University of Breslau with J. Cohn 1887-1890; Dr. phil. ib. 1890; from 1890-1892 active in floristics and mycology in Serbia; died of tuberculosis. 
+**Abbreviated name**: *Wojinowic*
 
 #### Herbarium and types
 

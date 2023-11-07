@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/item/103253#page/564/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kienitz-Gerloff, Johann Heinrich Emil Felix (1851-1914), German botanist; Dr. phil. Berlin 1873; part-time assistant of Pringsheim 1874-1878; 1876-1878 teacher at the Friedrichs Realschule, Berlin; from 1878 teacher, later (1908) director of the Landwirtschaftsschule in Weilburg a.d. Lahn. (*Kien.-Gerl.*).
+Kienitz-Gerloff, Johann Heinrich Emil Felix (1851-1914), German botanist; Dr. phil. Berlin 1873; part-time assistant of Pringsheim 1874-1878; 1876-1878 teacher at the Friedrichs Realschule, Berlin; from 1878 teacher, later (1908) director of the Landwirtschaftsschule in Weilburg a.d. Lahn. 
+**Abbreviated name**: *Kien.-Gerl.*
 
 #### Herbarium and types
 

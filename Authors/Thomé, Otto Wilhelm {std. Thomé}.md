@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103683#page/286/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33212318) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomé, Otto Wilhelm (1840-1925), German (Rheinland/Preussen) botanist and high school teacher; Dr. phil. Bonn 1862; rector of a high school (höhere Bürgerschule) in Köln. (*Thomé*).
+Thomé, Otto Wilhelm (1840-1925), German (Rheinland/Preussen) botanist and high school teacher; Dr. phil. Bonn 1862; rector of a high school (höhere Bürgerschule) in Köln. 
+**Abbreviated name**: *Thomé*
 
 #### Herbarium and types
 

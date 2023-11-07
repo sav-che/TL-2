@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/103414#page/359/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33120442) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brébisson, (Louis) Alphonse de {std. Bréb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brébisson, Louis Alphonse de (1798-1872), French naturalist, archeologist and photographer. (*Bréb.*).
+Brébisson, Louis Alphonse de (1798-1872), French naturalist, archeologist and photographer. 
+**Abbreviated name**: *Bréb.*
 
 #### Herbarium and types
 

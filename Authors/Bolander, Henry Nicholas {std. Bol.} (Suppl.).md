@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103859#page/298/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33265485) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolander, Henry Nicholas {std. Bol.}|first entry]] for this author
 
 ### Author
 
-\* Bolander, Henry Nicholas (1831-1897), German (Hessen, Nassau) botanist who came with his parents to the United States, Columbus, Ohio in 1846, at the Lutheran Seminary of Columbus, teacher at German-English schools, botanist with Lesquereux in Ohio, Pennsylvania, Michigan, Indiana and S. Illinois, removed to California Dec 1861, settled at San Francisco, state botanist for California 1864, with the State Superior Schools 1871-1875, settled in Portland 1883. (*Bol.*).
+\* Bolander, Henry Nicholas (1831-1897), German (Hessen, Nassau) botanist who came with his parents to the United States, Columbus, Ohio in 1846, at the Lutheran Seminary of Columbus, teacher at German-English schools, botanist with Lesquereux in Ohio, Pennsylvania, Michigan, Indiana and S. Illinois, removed to California Dec 1861, settled at San Francisco, state botanist for California 1864, with the State Superior Schools 1871-1875, settled in Portland 1883. 
+**Abbreviated name**: *Bol.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103414#page/471/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33120554) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caflisch, Jakob Friedrich {std. Caflisch} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Caflisch, Jakob Friedrich (1817-1882), German botanist and teacher at Augsburg. (*Caflisch*).
+Caflisch, Jakob Friedrich (1817-1882), German botanist and teacher at Augsburg. 
+**Abbreviated name**: *Caflisch*
 
 #### Herbarium and types
 

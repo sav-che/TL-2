@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103253#page/95/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartweg, Andreas (x-1831), German botanist, director of the Karlsruhe botanical Garden. (*A. Hartw.*).
+Hartweg, Andreas (x-1831), German botanist, director of the Karlsruhe botanical Garden. 
+**Abbreviated name**: *A. Hartw.*
 
 #### Herbarium and types
 

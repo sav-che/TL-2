@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103253#page/73/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hansen, George (1863-1908), German-born American horticulturist and botanist at the Sierra Foothill Experiment Station of UC in California. (*G. Hans.*).
+Hansen, George (1863-1908), German-born American horticulturist and botanist at the Sierra Foothill Experiment Station of UC in California. 
+**Abbreviated name**: *G. Hans.*
 
 #### Herbarium and types
 

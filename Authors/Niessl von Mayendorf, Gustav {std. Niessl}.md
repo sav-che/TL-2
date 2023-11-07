@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/item/104137#page/768/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33355839) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Niessl von Mayendorf, Gustav (1839-1919), Austrian naturalist and botanist; 1857-1865 geometrist at Wien; from 1865-1906 professor of geodesy and astronomy at the University of Brno (Brünn); from 1906 again in Wien. (*Niessl*).
+Niessl von Mayendorf, Gustav (1839-1919), Austrian naturalist and botanist; 1857-1865 geometrist at Wien; from 1865-1906 professor of geodesy and astronomy at the University of Brno (Brünn); from 1906 again in Wien. 
+**Abbreviated name**: *Niessl*
 
 #### Herbarium and types
 

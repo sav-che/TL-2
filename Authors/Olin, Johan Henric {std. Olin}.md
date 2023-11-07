@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/item/104137#page/834/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33355905) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Olin, Johan Henric (1769-1824), Swedish botanist; Dr. phil. Uppsala 1794, Dr. med. ib. 1797; amanuensis at the Uppsala bot. museum, later regional physician in Växjö distr., professor's title 1812. (*Olin*).
+Olin, Johan Henric (1769-1824), Swedish botanist; Dr. phil. Uppsala 1794, Dr. med. ib. 1797; amanuensis at the Uppsala bot. museum, later regional physician in Växjö distr., professor's title 1812. 
+**Abbreviated name**: *Olin*
 
 #### Herbarium and types
 

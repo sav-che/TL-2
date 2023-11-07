@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/item/103414#page/715/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33120798) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dombey, Joseph (1742-1794), French physician, naturalist, ethnographer and explorer of Peru, Chili and Brazil. (*Dombey*).
+Dombey, Joseph (1742-1794), French physician, naturalist, ethnographer and explorer of Peru, Chili and Brazil. 
+**Abbreviated name**: *Dombey*
 
 #### Herbarium and types
 

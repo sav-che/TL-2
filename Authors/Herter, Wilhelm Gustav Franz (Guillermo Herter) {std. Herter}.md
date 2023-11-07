@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103253#page/202/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herter, Wilhelm Gustav Franz (Guillermo Herter) (1884-1958), German botanist; Dr. phil. Berlin 1908, resided in Uruguay 1907, 1909-1910 and 1923-1939; in Germany 1939-1941; at Cracow in Poland 1941-1944; later Uruguayan consul at Bern and Basel; ultimately in Hamburg. (*Herter*).
+Herter, Wilhelm Gustav Franz (Guillermo Herter) (1884-1958), German botanist; Dr. phil. Berlin 1908, resided in Uruguay 1907, 1909-1910 and 1923-1939; in Germany 1939-1941; at Cracow in Poland 1941-1944; later Uruguayan consul at Bern and Basel; ultimately in Hamburg. 
+**Abbreviated name**: *Herter*
 
 #### Herbarium and types
 

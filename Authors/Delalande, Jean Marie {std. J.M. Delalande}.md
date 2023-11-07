@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103833#page/182/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33259216) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delalande, Jean Marie (1807-1851), botanist and priest, professor of natural history, born at Saint-Gildas-des-Bois (Loire-Inférieure) 6 Feb 1807, died at Nantes 21 Nov 1851, teacher at a "petit-séminaire" at Nantes and at the "Collège des Couëts". (*J.M. Delalande*).
+Delalande, Jean Marie (1807-1851), botanist and priest, professor of natural history, born at Saint-Gildas-des-Bois (Loire-Inférieure) 6 Feb 1807, died at Nantes 21 Nov 1851, teacher at a "petit-séminaire" at Nantes and at the "Collège des Couëts". 
+**Abbreviated name**: *J.M. Delalande*
 
 #### Herbarium and types
 

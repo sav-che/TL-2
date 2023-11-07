@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103683#page/292/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33212324) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomson, Anthony Todd (1778-1849), British (Scottish) physician, MD Edinburgh 1799; practicing physician in London 1800; professor of materia medica, University College London 1828-1849, from 1839 onward also of forensic medicine. (*A.T. Thomson*).
+Thomson, Anthony Todd (1778-1849), British (Scottish) physician, MD Edinburgh 1799; practicing physician in London 1800; professor of materia medica, University College London 1828-1849, from 1839 onward also of forensic medicine. 
+**Abbreviated name**: *A.T. Thomson*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103833#page/74/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33259108) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dansereau, Pierre Mackay (1911-x), French botanist and ecologist, born at Montreal, Quebec 5 Oct 1911, A.B. 1931, B.Sc.Agr. 1936, studied in France, Switzerland, England, Germany and Italy 1936-1939, D.Sc. University of Genève 1939, at the Botanical Institute Montreal (Univ.) 1939, lector 1940, some time at Ann Arbor, Univ. Michigan, 1950-1955, director of Service de Biogéographie at Montreal 1955-1961, dean at Faculty of Science of University of Montreal, assistant director at New York 1961-1968, from 1968 in Montreal with the Institut d'Urbanisme (Univ. Montr.), retired in 1980. (*Dans.*).
+Dansereau, Pierre Mackay (1911-x), French botanist and ecologist, born at Montreal, Quebec 5 Oct 1911, A.B. 1931, B.Sc.Agr. 1936, studied in France, Switzerland, England, Germany and Italy 1936-1939, D.Sc. University of Genève 1939, at the Botanical Institute Montreal (Univ.) 1939, lector 1940, some time at Ann Arbor, Univ. Michigan, 1950-1955, director of Service de Biogéographie at Montreal 1955-1961, dean at Faculty of Science of University of Montreal, assistant director at New York 1961-1968, from 1968 in Montreal with the Institut d'Urbanisme (Univ. Montr.), retired in 1980. 
+**Abbreviated name**: *Dans.*
 
 #### Herbarium and types
 

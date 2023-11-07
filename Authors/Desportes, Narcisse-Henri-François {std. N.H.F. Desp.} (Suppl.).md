@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103833#page/243/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259277) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Desportes, Narcisse Henri François {std. N.H.F. Desp.}|first entry]] for this author
 
 ### Author
 
-\* Desportes, Narcisse-Henri-François (1776-1856), French botanist, born at Champroud, Sarthe 1776, died at Le Mans 1856, member of the Soc. Royale d'Agriculture... du Mans, correspondant des Sociétés Linnéennes de Paris et le Normandie. (*N.H.F. Desp.*).
+\* Desportes, Narcisse-Henri-François (1776-1856), French botanist, born at Champroud, Sarthe 1776, died at Le Mans 1856, member of the Soc. Royale d'Agriculture... du Mans, correspondant des Sociétés Linnéennes de Paris et le Normandie. 
+**Abbreviated name**: *N.H.F. Desp.*
 
 #### Herbarium and types
 

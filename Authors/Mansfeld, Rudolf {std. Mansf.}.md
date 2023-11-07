@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/104137#page/297/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33355368) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mansfeld, Rudolf (1901-1960), German botanist; student of A. Engler; Dr. phil. Berlin 1924; from 1926-1943 at Berlin-Dahlem; in war service 1943-1946; from 1946-1960 at the Institut für Kulturpflanzenforschung Gatersleben, DDR. (*Mansf.*).
+Mansfeld, Rudolf (1901-1960), German botanist; student of A. Engler; Dr. phil. Berlin 1924; from 1926-1943 at Berlin-Dahlem; in war service 1943-1946; from 1946-1960 at the Institut für Kulturpflanzenforschung Gatersleben, DDR. 
+**Abbreviated name**: *Mansf.*
 
 #### Herbarium and types
 

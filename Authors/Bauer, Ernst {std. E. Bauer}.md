@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103414#page/192/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33120275) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bauer, Ernst {std. E. Bauer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bauer, Ernst (1860-1942), Czechoslovak bryologist. (*E. Bauer*).
+Bauer, Ernst (1860-1942), Czechoslovak bryologist. 
+**Abbreviated name**: *E. Bauer*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/item/103414#page/662/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33120745) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delastre, Charles Jean Louis {std. Delastre} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Delastre, Charles Jean Louis (1792-1859), French botanist. (*Delastre*).
+Delastre, Charles Jean Louis (1792-1859), French botanist. 
+**Abbreviated name**: *Delastre*
 
 #### Herbarium and types
 

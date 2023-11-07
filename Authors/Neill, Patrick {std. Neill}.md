@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/item/104137#page/734/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33355805) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neill, Patrick (1776-1851), Scottish publisher and botanist at Edinburgh; founder and longtime secretary of the Caledonian Horticultural Society and Wernerian Society. (*Neill*).
+Neill, Patrick (1776-1851), Scottish publisher and botanist at Edinburgh; founder and longtime secretary of the Caledonian Horticultural Society and Wernerian Society. 
+**Abbreviated name**: *Neill*
 
 #### Herbarium and types
 

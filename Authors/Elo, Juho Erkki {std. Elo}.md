@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103835#page/335/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33260313) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elo, Juho Erkki (1905-1941), Finnish botanist, born 24 Sep 1905 at Helsingfors \[Helsinki\], started to study natural sciences in 1927, fil. cand. 1932, Dr. sci. (physiology) in 1937, studied pharmacognosy in Zürich 1929, returned to Finland, died 24 Aug 1941. (*Elo*).
+Elo, Juho Erkki (1905-1941), Finnish botanist, born 24 Sep 1905 at Helsingfors \[Helsinki\], started to study natural sciences in 1927, fil. cand. 1932, Dr. sci. (physiology) in 1937, studied pharmacognosy in Zürich 1929, returned to Finland, died 24 Aug 1941. 
+**Abbreviated name**: *Elo*
 
 #### Herbarium and types
 

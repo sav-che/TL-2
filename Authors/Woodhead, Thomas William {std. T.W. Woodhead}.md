@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/item/103250#page/503/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33066783) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woodhead, Thomas William (1863-1940), British ecologist; Dr. phil. Zürich 1906; lecturer Huddersfield Technical College 1891; later head of the Biological Dept. ib. (*T.W. Woodhead*).
+Woodhead, Thomas William (1863-1940), British ecologist; Dr. phil. Zürich 1906; lecturer Huddersfield Technical College 1891; later head of the Biological Dept. ib. 
+**Abbreviated name**: *T.W. Woodhead*
 
 #### Herbarium and types
 

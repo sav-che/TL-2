@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/item/103253#page/463/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33068679) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jenner, Edward (1803-1872), British algologist. (*Jenner*).
+Jenner, Edward (1803-1872), British algologist. 
+**Abbreviated name**: *Jenner*
 
 #### Herbarium and types
 

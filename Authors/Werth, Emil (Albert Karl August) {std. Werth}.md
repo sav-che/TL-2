@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103250#page/256/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33066536) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Werth, Emil \[Albert Karl August\] (1869-1958), German (Westphalian) explorer, ethnographer and botanist; studied pharmacy in various Westphalian pharmacies; state examination pharmacy 1895; travelled in German and British East Africa 1896-1899; Dr. phil. Bern 1901; with the German Antarctic Expedition in charge of the Kerguelen station 1900 (arr. Kerguelen 1902)-1903; in Australia 1903-1904; with the office of the expedition in Germany 1905-1906; with the German office of the International Bibliography of the Natural Sciences 1906-1908; with the Biologische Reichsanstalt für Land- und Forstwirschaft from 1908, in that capacity e.g. travelling widely and founder of the Phaenologischer Reichsdienst; retired 1934. (*Werth*).
+Werth, Emil \[Albert Karl August\] (1869-1958), German (Westphalian) explorer, ethnographer and botanist; studied pharmacy in various Westphalian pharmacies; state examination pharmacy 1895; travelled in German and British East Africa 1896-1899; Dr. phil. Bern 1901; with the German Antarctic Expedition in charge of the Kerguelen station 1900 (arr. Kerguelen 1902)-1903; in Australia 1903-1904; with the office of the expedition in Germany 1905-1906; with the German office of the International Bibliography of the Natural Sciences 1906-1908; with the Biologische Reichsanstalt für Land- und Forstwirschaft from 1908, in that capacity e.g. travelling widely and founder of the Phaenologischer Reichsdienst; retired 1934. 
+**Abbreviated name**: *Werth*
 
 #### Herbarium and types
 

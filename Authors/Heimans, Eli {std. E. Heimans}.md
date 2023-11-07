@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103253#page/163/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heimans, Eli (1861-1914), Dutch botanist; from 1882 teacher at Amsterdam; leading popularizer of biology; longtime editor of –De Levende Natuur.– (*E. Heimans*).
+Heimans, Eli (1861-1914), Dutch botanist; from 1882 teacher at Amsterdam; leading popularizer of biology; longtime editor of –De Levende Natuur.– 
+**Abbreviated name**: *E. Heimans*
 
 #### Herbarium and types
 

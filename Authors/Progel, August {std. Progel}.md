@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/103624#page/430/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33189887) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Progel, August (1829-1889), German (Bavarian) physician and botanist; Dr. med. München 1855; practicing in various towns of Oberbayern and Schwaben; ultimately regional physician at Waldmünchen 1876-1889. (*Progel*).
+Progel, August (1829-1889), German (Bavarian) physician and botanist; Dr. med. München 1855; practicing in various towns of Oberbayern and Schwaben; ultimately regional physician at Waldmünchen 1876-1889. 
+**Abbreviated name**: *Progel*
 
 #### Herbarium and types
 

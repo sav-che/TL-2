@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103683#page/162/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33212194) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tai, Fung-Ian \[Tai, L.Y.\] (1893-x), Chinese mycologist and phytopathologist; B.S. Cornell Univ. 1918; professor of plant pathology at Nanking (Southeastern Univ.). (*Tai*).
+Tai, Fung-Ian \[Tai, L.Y.\] (1893-x), Chinese mycologist and phytopathologist; B.S. Cornell Univ. 1918; professor of plant pathology at Nanking (Southeastern Univ.). 
+**Abbreviated name**: *Tai*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/item/103859#page/413/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33265600) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boyer, Charles Sumner (1856-1928), American diatomist, at Brown University 1875-1879, A.B. 1879, A.M. 1885, teacher in Philadelphia public schools 1883-1916. (*C.S. Boyer*).
+Boyer, Charles Sumner (1856-1928), American diatomist, at Brown University 1875-1879, A.B. 1879, A.M. 1885, teacher in Philadelphia public schools 1883-1916. 
+**Abbreviated name**: *C.S. Boyer*
 
 #### Herbarium and types
 

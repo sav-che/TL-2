@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103833#page/187/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delchevalerie, Gustav (fl. 1868-1889), Belgian botanist and gardener, born at Vedrin, Namur, Belgium, some time gardener for parks. (*Delchevalerie*).
+Delchevalerie, Gustav (fl. 1868-1889), Belgian botanist and gardener, born at Vedrin, Namur, Belgium, some time gardener for parks. 
+**Abbreviated name**: *Delchevalerie*
 
 #### Herbarium and types
 

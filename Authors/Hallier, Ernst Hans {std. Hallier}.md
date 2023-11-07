@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103253#page/56/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33068272) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hallier, Ernst Hans (1831-1904), German botanist and parasitologist, professor of botany at Jena but mostly living in Münich; nephew and pupil of Schleiden. (*Hallier*).
+Hallier, Ernst Hans (1831-1904), German botanist and parasitologist, professor of botany at Jena but mostly living in Münich; nephew and pupil of Schleiden. 
+**Abbreviated name**: *Hallier*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103250#page/439/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winslow, Andreas Peter \[Pettersson\] (1835-1900), Swedish botanist and teacher; studied at Lund Univ. 1855-1862; Dr. phil. 1862; high school teacher at Göteborg 1865-1900; especially interested in Rosa. (*Winslow*).
+Winslow, Andreas Peter \[Pettersson\] (1835-1900), Swedish botanist and teacher; studied at Lund Univ. 1855-1862; Dr. phil. 1862; high school teacher at Göteborg 1865-1900; especially interested in Rosa. 
+**Abbreviated name**: *Winslow*
 
 #### Herbarium and types
 

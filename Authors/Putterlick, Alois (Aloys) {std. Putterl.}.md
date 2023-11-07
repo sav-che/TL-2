@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103624#page/464/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33189921) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Putterlick, Alois \[Aloys\] (1810-1845), Austrian botanist and physician; custos (adjunct) at the Natural History Museum, Vienna, 1840-1845. (*Putterl.*).
+Putterlick, Alois \[Aloys\] (1810-1845), Austrian botanist and physician; custos (adjunct) at the Natural History Museum, Vienna, 1840-1845. 
+**Abbreviated name**: *Putterl.*
 
 #### Herbarium and types
 

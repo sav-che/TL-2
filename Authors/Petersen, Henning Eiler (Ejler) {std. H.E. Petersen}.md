@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103624#page/210/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33189667) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petersen, Henning Eiler \[Ejler\] (1877-1946), Danish botanist, mainly mycologist and algologist; M.Sc. København 1902; Dr. phil. ib. 1914; lecturer at the Polyteknisk Laereanstalt 1916-1930; lecturer ("docent") at University of Copenhagen 1929-1946. (*H.E. Petersen*).
+Petersen, Henning Eiler \[Ejler\] (1877-1946), Danish botanist, mainly mycologist and algologist; M.Sc. København 1902; Dr. phil. ib. 1914; lecturer at the Polyteknisk Laereanstalt 1916-1930; lecturer ("docent") at University of Copenhagen 1929-1946. 
+**Abbreviated name**: *H.E. Petersen*
 
 #### Herbarium and types
 

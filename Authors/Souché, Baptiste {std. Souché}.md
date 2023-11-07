@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/104077#page/768/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33333893) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Souché, Baptiste (1846-1915), French botanist and school teacher Pamproux (as "adjoint"), Loubigné and Pamproux until 1879; subsequently devoting himself to botany; founder (1888) and president of the Société botanique des Deux-Sèvres. (*Souché*).
+Souché, Baptiste (1846-1915), French botanist and school teacher Pamproux (as "adjoint"), Loubigné and Pamproux until 1879; subsequently devoting himself to botany; founder (1888) and president of the Société botanique des Deux-Sèvres. 
+**Abbreviated name**: *Souché*
 
 #### Herbarium and types
 

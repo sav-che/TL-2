@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/item/103414#page/954/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/page/33121037) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Galeotti, Henri-Guillaume {std. Galeotti} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Galeotti, Henri Guillaume (1814-1858), French born botanist and explorer of Central America who worked later in Belgium. (*Galeotti*).
+Galeotti, Henri Guillaume (1814-1858), French born botanist and explorer of Central America who worked later in Belgium. 
+**Abbreviated name**: *Galeotti*
 
 #### Herbarium and types
 

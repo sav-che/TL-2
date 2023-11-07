@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103860#page/341/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33266008) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cookson, Isabel Clifton (1893-1973), Australian botanist, born in Melbourne, Victoria, educated at the Methodist Ladies College and at the University of Melbourne, B.Sc. 1916, D. Sc. 1932, worked on Nothofagus pollen and Australian botany in general. (*Cookson*).
+Cookson, Isabel Clifton (1893-1973), Australian botanist, born in Melbourne, Victoria, educated at the Methodist Ladies College and at the University of Melbourne, B.Sc. 1916, D. Sc. 1932, worked on Nothofagus pollen and Australian botany in general. 
+**Abbreviated name**: *Cookson*
 
 #### Herbarium and types
 

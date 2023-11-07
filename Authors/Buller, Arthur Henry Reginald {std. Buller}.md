@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103414#page/449/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33120532) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buller, Arthur Henry Reginald {std. Buller} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buller, Arthur Henry Reginald (1879-1944), British born Canadian mycologist. (*Buller*).
+Buller, Arthur Henry Reginald (1879-1944), British born Canadian mycologist. 
+**Abbreviated name**: *Buller*
 
 #### Herbarium and types
 

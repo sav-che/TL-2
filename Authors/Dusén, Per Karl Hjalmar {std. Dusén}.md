@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/item/103414#page/760/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33120843) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dusén, Per Karl Hjalmar {std. Dusén} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dusén, Per Karl Hjalmar (1855-1926), Swedish botanist, palaeobotanist and explorer, originally civil engineer. (*Dusén*).
+Dusén, Per Karl Hjalmar (1855-1926), Swedish botanist, palaeobotanist and explorer, originally civil engineer. 
+**Abbreviated name**: *Dusén*
 
 #### Herbarium, types and collections
 

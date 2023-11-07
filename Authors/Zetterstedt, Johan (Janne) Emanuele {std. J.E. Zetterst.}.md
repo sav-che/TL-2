@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/103250#page/590/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33066870) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zetterstedt, Johan \[Janne\] Emanuele (1828-1880), Swedish botanist; studied at Uppsala (1846), Lund (1848) and Uppsala 1848-1850; Dr. phil. Uppsala 1854, habil. ib. 1855; lecturer in agronomy 1855, in natural history and chemistry at Jönköping's Teacher's College 1863-1880). (*J.E. Zetterst.*).
+Zetterstedt, Johan \[Janne\] Emanuele (1828-1880), Swedish botanist; studied at Uppsala (1846), Lund (1848) and Uppsala 1848-1850; Dr. phil. Uppsala 1854, habil. ib. 1855; lecturer in agronomy 1855, in natural history and chemistry at Jönköping's Teacher's College 1863-1880). 
+**Abbreviated name**: *J.E. Zetterst.*
 
 #### Herbarium and types
 

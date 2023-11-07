@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/103858#page/233/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33264948) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baagøe, Johannes Schønberg (1838-1905), Danish pharmacist and botanist, student in the Kristianshavns pharmacy 1855-1859, id. at Rønne 1859-1862, cand. pharm. 1862, with the Silkeborg pharmacy 1865-1876, id. Naestved 1870-1890, from 1890 active as a mineral water distributor also in Naestved, specialist on Potamogeton. (*Baagøe*).
+Baagøe, Johannes Schønberg (1838-1905), Danish pharmacist and botanist, student in the Kristianshavns pharmacy 1855-1859, id. at Rønne 1859-1862, cand. pharm. 1862, with the Silkeborg pharmacy 1865-1876, id. Naestved 1870-1890, from 1890 active as a mineral water distributor also in Naestved, specialist on Potamogeton. 
+**Abbreviated name**: *Baagøe*
 
 #### Herbarium and types
 

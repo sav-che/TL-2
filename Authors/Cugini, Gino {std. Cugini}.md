@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/item/103860#page/505/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33266172) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cugini, Gino (1852-1907), Italian phytopathologist, plant morphologist and mycologist, born at Bagnone, Massa-Carrara, studied at the University of Bologna, assistant in botany 1880, from 1887 Director at the Stazione agraria at Modena. (*Cugini*).
+Cugini, Gino (1852-1907), Italian phytopathologist, plant morphologist and mycologist, born at Bagnone, Massa-Carrara, studied at the University of Bologna, assistant in botany 1880, from 1887 Director at the Stazione agraria at Modena. 
+**Abbreviated name**: *Cugini*
 
 #### Herbarium and types
 

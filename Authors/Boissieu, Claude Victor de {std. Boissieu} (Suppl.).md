@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103859#page/292/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265479) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boissieu, Claude Victor de {std. Boissieu}|first entry]] for this author
 
 ### Author
 
-\* Boissieu, Claude Victor de (1784-1868), French botanist, artist and engraver at Lyon. (*Boissieu*).
+\* Boissieu, Claude Victor de (1784-1868), French botanist, artist and engraver at Lyon. 
+**Abbreviated name**: *Boissieu*
 
 #### Herbarium and types
 

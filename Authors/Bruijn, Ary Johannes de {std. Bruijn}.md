@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103861#page/166/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33266463) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruijn, Ary Johannes de (1811-1895), Dutch army horse veterinarian and amateur botanist, born at Delft, with the War Department trained to become a military veterinarian, apprentice 1829-1834, veterinarian first class 1834, adjunct 1834-1840 at Tilburg, from 1845 again on active duty. (*Bruijn*).
+Bruijn, Ary Johannes de (1811-1895), Dutch army horse veterinarian and amateur botanist, born at Delft, with the War Department trained to become a military veterinarian, apprentice 1829-1834, veterinarian first class 1834, adjunct 1834-1840 at Tilburg, from 1845 again on active duty. 
+**Abbreviated name**: *Bruijn*
 
 #### Herbarium and types
 

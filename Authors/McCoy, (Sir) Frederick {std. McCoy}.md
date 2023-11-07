@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/104137#page/231/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McCoy, (Sir) Frederick (1817-1899), Irish-born palaeontologist; from 1854 at Melbourne as professor of natural sciences; D. Sc. Cantabr. 1886. (*McCoy*).
+McCoy, (Sir) Frederick (1817-1899), Irish-born palaeontologist; from 1854 at Melbourne as professor of natural sciences; D. Sc. Cantabr. 1886. 
+**Abbreviated name**: *McCoy*
 
 #### Herbarium and types
 

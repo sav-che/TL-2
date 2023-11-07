@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/item/103414#page/860/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33120943) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Falconer, Hugh {std. Falc.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Falconer, Hugh (1808-1865), Scottish botanist and palaeobiologist, superintendent of the Serampore botanical garden (1832-1842), again in India 1848-1855. (*Falc.*).
+Falconer, Hugh (1808-1865), Scottish botanist and palaeobiologist, superintendent of the Serampore botanical garden (1832-1842), again in India 1848-1855. 
+**Abbreviated name**: *Falc.*
 
 #### Herbarium and types
 

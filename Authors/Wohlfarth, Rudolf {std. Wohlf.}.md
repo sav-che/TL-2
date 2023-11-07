@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103250#page/477/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33066757) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wohlfarth, Rudolf (1830-1900), German (Sachsen-Anhalt) botanist; originally insurance agent, later rector of a school in Neu-Weissensee nr. Berlin. (*Wohlf.*).
+Wohlfarth, Rudolf (1830-1900), German (Sachsen-Anhalt) botanist; originally insurance agent, later rector of a school in Neu-Weissensee nr. Berlin. 
+**Abbreviated name**: *Wohlf.*
 
 #### Herbarium and types
 

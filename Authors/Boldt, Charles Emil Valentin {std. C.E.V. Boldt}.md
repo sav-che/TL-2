@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103859#page/300/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33265487) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boldt, Charles Emil Valentin (1866-1922), Finnish botanist, studied at the University of Helsinki subsequently assistant at the Botanical Laboratory, from 1897 giving the laboratory courses until 1922, in between he conducted special prepatory courses in botany 1906-1913. (*C.E.V. Boldt*).
+Boldt, Charles Emil Valentin (1866-1922), Finnish botanist, studied at the University of Helsinki subsequently assistant at the Botanical Laboratory, from 1897 giving the laboratory courses until 1922, in between he conducted special prepatory courses in botany 1906-1913. 
+**Abbreviated name**: *C.E.V. Boldt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103624#page/184/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33189641) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perrier, Alfred (1809-1866), French botanist; Dr. med. Paris 1835; from 1836 practicing physician and amateur naturalist at Caen. (*A. Perrier*).
+Perrier, Alfred (1809-1866), French botanist; Dr. med. Paris 1835; from 1836 practicing physician and amateur naturalist at Caen. 
+**Abbreviated name**: *A. Perrier*
 
 #### Herbarium and types
 

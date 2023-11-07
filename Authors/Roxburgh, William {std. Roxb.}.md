@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/item/103624#page/968/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33190425) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roxburgh, William (1751-1815), British (Scottish) botanist and physician; MD Edinburgh 1876; with the East India Company in the Madras Medical Service 1776-1780; superintendent Samalkot (Samul Cattah) botanic garden 1781-1793; superintendant of the Calcutta botanic garden 1793-1813; in London 1806-1813; travelled to the Cape of Good Hope (1798, 1799, 1813-1814) and St. Helena 1814; died at Edinburgh. (*Roxb.*).
+Roxburgh, William (1751-1815), British (Scottish) botanist and physician; MD Edinburgh 1876; with the East India Company in the Madras Medical Service 1776-1780; superintendent Samalkot (Samul Cattah) botanic garden 1781-1793; superintendant of the Calcutta botanic garden 1793-1813; in London 1806-1813; travelled to the Cape of Good Hope (1798, 1799, 1813-1814) and St. Helena 1814; died at Edinburgh. 
+**Abbreviated name**: *Roxb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/103253#page/287/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33068503) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holmskjold, Theodor, until 1781 Holm, (1732-1794), Danish botanist physician, and administrator. (*Holmsk.*).
+Holmskjold, Theodor, until 1781 Holm, (1732-1794), Danish botanist physician, and administrator. 
+**Abbreviated name**: *Holmsk.*
 
 #### Herbarium and types
 

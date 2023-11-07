@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103683#page/381/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33212413) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Titius \[Tietz\], Johann Daniel (1729-1796), German (West-Prussian) botanist and general natural scientist; Mag. phil. Leipzig 1752; lecturer Univ. Leipzig 1752-1756; professor of mathematics Univ. Wittenberg 1756-1762, from 1762 id. for physics. (*Titius*).
+Titius \[Tietz\], Johann Daniel (1729-1796), German (West-Prussian) botanist and general natural scientist; Mag. phil. Leipzig 1752; lecturer Univ. Leipzig 1752-1756; professor of mathematics Univ. Wittenberg 1756-1762, from 1762 id. for physics. 
+**Abbreviated name**: *Titius*
 
 #### Herbarium and types
 

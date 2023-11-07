@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/103624#page/272/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pierce, Newton Barris (1856-1916), American phytopathologist for the U.S. government for the Pacific coast region 1889-1906; later private collector and breeder of rare plants at Santa Ana, Calif. (*N. Pierce*).
+Pierce, Newton Barris (1856-1916), American phytopathologist for the U.S. government for the Pacific coast region 1889-1906; later private collector and breeder of rare plants at Santa Ana, Calif. 
+**Abbreviated name**: *N. Pierce*
 
 #### Herbarium and types
 

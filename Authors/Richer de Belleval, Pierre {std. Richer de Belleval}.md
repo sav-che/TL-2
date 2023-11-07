@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/103624#page/787/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richer de Belleval, Pierre (1564-1632), French botanist, founder of the Montpellier botanical garden. (*Richer de Belleval*).
+Richer de Belleval, Pierre (1564-1632), French botanist, founder of the Montpellier botanical garden. 
+**Abbreviated name**: *Richer de Belleval*
 
 #### Herbarium and types
 

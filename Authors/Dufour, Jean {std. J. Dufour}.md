@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103835#page/158/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33260136) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dufour, Jean (1860-1903), Swiss botanist, born 6 Sep 1860 at Lausanne, studied literature at Lausanne, "baccalauréat ès lettres" 1878, also "ès sciences" in 1879, studied at the polytechnical school at Zürich 1879-1881, thesis in anatomy 1882, went to Sachs (Würzburg) and de Bary (Strasbourg), left Zürich in 1886 and returned to Lausanne, died 16 Dec 1903. (*J. Dufour*).
+Dufour, Jean (1860-1903), Swiss botanist, born 6 Sep 1860 at Lausanne, studied literature at Lausanne, "baccalauréat ès lettres" 1878, also "ès sciences" in 1879, studied at the polytechnical school at Zürich 1879-1881, thesis in anatomy 1882, went to Sachs (Würzburg) and de Bary (Strasbourg), left Zürich in 1886 and returned to Lausanne, died 16 Dec 1903. 
+**Abbreviated name**: *J. Dufour*
 
 #### Herbarium and types
 

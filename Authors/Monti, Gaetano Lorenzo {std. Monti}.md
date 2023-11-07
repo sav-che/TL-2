@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/item/104137#page/580/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33355651) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Monti, Gaetano Lorenzo (1712-1797), Italian botanist; professor of botany and director (1760-1792) of the botanical garden at Bologna. (*Monti*).
+Monti, Gaetano Lorenzo (1712-1797), Italian botanist; professor of botany and director (1760-1792) of the botanical garden at Bologna. 
+**Abbreviated name**: *Monti*
 
 #### Herbarium and types
 

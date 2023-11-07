@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/item/103414#page/686/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33120769) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-De Ville, Jean Baptiste (*fl*. 1689); De Ville, Nicolas (*fl*. 1707), French publishers. (*De Ville*).
+De Ville, Jean Baptiste (*fl*. 1689); De Ville, Nicolas (*fl*. 1707), French publishers. 
+**Abbreviated name**: *De Ville*
 
 #### Herbarium and types
 

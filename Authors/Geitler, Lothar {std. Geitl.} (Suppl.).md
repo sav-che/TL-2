@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103832#page/181/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33258647) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Geitler, Lothar {std. Geitl.}|first entry]] for this author
 
 ### Author
 
-\* Geitler, Lothar (1899-1990), Austrian algologist and cytologist, born 18 Mai 1899 in Vienna, Ph.D. 1922 Univ. of Vienna (under Richard von Wettstein), prof. 1937 and dir., botanical garden from 1946, both Univ. of Vienna, Corr. member B.S.A., died 1 Mai 1990 in Vienna (false report of death in 1922). (*Geitl.*).
+\* Geitler, Lothar (1899-1990), Austrian algologist and cytologist, born 18 Mai 1899 in Vienna, Ph.D. 1922 Univ. of Vienna (under Richard von Wettstein), prof. 1937 and dir., botanical garden from 1946, both Univ. of Vienna, Corr. member B.S.A., died 1 Mai 1990 in Vienna (false report of death in 1922). 
+**Abbreviated name**: *Geitl.*
 
 #### Herbarium and types
 

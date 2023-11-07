@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/item/104137#page/612/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33355683) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morris, Richard (*fl*. 1820-1830), British surveyor, landscape gardener and planter. (*R. Morris*).
+Morris, Richard (*fl*. 1820-1830), British surveyor, landscape gardener and planter. 
+**Abbreviated name**: *R. Morris*
 
 #### Herbarium and types
 

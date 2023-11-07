@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103835#page/113/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33260091) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Druce, George Claridge {std. Druce}|first entry]] for this author
 
 ### Author
 
-\* Druce, George Claridge (1850-1932), British botanist, born Potter's Pury 23 Mai 1850, died 29 Feb 1932 at Oxford, England, at the age of 15 apprentice to a pharmacist, later running a business of his own at Oxford, 1879 honorary degree M.A. University of Oxford, 1896 curator of the Fielding Herbarium, Botanical Garden, Oxford, elected Mayor of Oxford 1900, from 1903-1932 Secretary of the Botanical Society and Exchange Club of the British Isles. (*Druce*).
+\* Druce, George Claridge (1850-1932), British botanist, born Potter's Pury 23 Mai 1850, died 29 Feb 1932 at Oxford, England, at the age of 15 apprentice to a pharmacist, later running a business of his own at Oxford, 1879 honorary degree M.A. University of Oxford, 1896 curator of the Fielding Herbarium, Botanical Garden, Oxford, elected Mayor of Oxford 1900, from 1903-1932 Secretary of the Botanical Society and Exchange Club of the British Isles. 
+**Abbreviated name**: *Druce*
 
 #### Herbarium and types
 

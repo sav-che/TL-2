@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/item/104077#page/140/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33333265) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schellenberg, Gustav \[August Ludwig David\], (1882-1963), German (Wiesbaden) botanist; Dr. phil. Univ. Zürich 1910 (student of H. Schinz); assistant botanist at Berlin-Dahlem 1911-1912; 1913-1915 editor Wiesbadener Tageblatt; on active service 1915-1919; lecturer ("Privatdozent") Kiel 1919-1925; assistant and lecturer Göttingen 1925; extra-ordinary professor ib. 1926-1934, later publisher of a newspaper in Wiesbaden; in 1954 still editor-in-chief of the Wiesbadener Tageblatt. (*G. Schellenb.*).
+Schellenberg, Gustav \[August Ludwig David\], (1882-1963), German (Wiesbaden) botanist; Dr. phil. Univ. Zürich 1910 (student of H. Schinz); assistant botanist at Berlin-Dahlem 1911-1912; 1913-1915 editor Wiesbadener Tageblatt; on active service 1915-1919; lecturer ("Privatdozent") Kiel 1919-1925; assistant and lecturer Göttingen 1925; extra-ordinary professor ib. 1926-1934, later publisher of a newspaper in Wiesbaden; in 1954 still editor-in-chief of the Wiesbadener Tageblatt. 
+**Abbreviated name**: *G. Schellenb.*
 
 #### Herbarium and types
 

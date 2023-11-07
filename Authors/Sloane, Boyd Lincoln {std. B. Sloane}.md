@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/item/104077#page/658/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33333783) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sloane, Boyd Lincoln (1885-?), South African botanist. (*B. Sloane*).
+Sloane, Boyd Lincoln (1885-?), South African botanist. 
+**Abbreviated name**: *B. Sloane*
 
 #### Herbarium and types
 

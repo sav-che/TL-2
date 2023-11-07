@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/item/103624#page/886/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33190343) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rolle, Friedrich (1827-1887), German (Hesse-Nassau) palaeobotanist; Dr. phil. Tübingen 1851; in Austria at Graz for the geognostic survey of Styria 1853-1859; at the Hofmineralien-Cabinett Wien 1859-1860; from 1860 at Homburg as private scientist, studying the geology and palaeontology of the Homburg von der Höhe region. (*Rolle*).
+Rolle, Friedrich (1827-1887), German (Hesse-Nassau) palaeobotanist; Dr. phil. Tübingen 1851; in Austria at Graz for the geognostic survey of Styria 1853-1859; at the Hofmineralien-Cabinett Wien 1859-1860; from 1860 at Homburg as private scientist, studying the geology and palaeontology of the Homburg von der Höhe region. 
+**Abbreviated name**: *Rolle*
 
 #### Herbarium and types
 

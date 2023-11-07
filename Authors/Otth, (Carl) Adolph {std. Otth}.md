@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/item/104137#page/873/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Otth, \[Carl\] Adolph (1803-1839), Swiss physician and naturalist; pupil of A.-P. de Candolle; collaborator of Seringe; physician at Bern, travelling widely; died of the plague while in Jerusalem. (*Otth*).
+Otth, \[Carl\] Adolph (1803-1839), Swiss physician and naturalist; pupil of A.-P. de Candolle; collaborator of Seringe; physician at Bern, travelling widely; died of the plague while in Jerusalem. 
+**Abbreviated name**: *Otth*
 
 #### Herbarium and types
 

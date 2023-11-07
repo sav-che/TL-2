@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/104137#page/157/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loescher, Eduard (*fl*. 1852), German horticulturist. (*Loescher*).
+Loescher, Eduard (*fl*. 1852), German horticulturist. 
+**Abbreviated name**: *Loescher*
 
 #### Herbarium and types
 

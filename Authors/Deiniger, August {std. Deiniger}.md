@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103833#page/178/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deiniger, August (fl. 1873), German botanist in Berlin. (*Deiniger*).
+Deiniger, August (fl. 1873), German botanist in Berlin. 
+**Abbreviated name**: *Deiniger*
 
 #### Herbarium and types
 

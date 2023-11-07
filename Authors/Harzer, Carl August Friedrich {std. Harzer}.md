@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103253#page/117/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33068333) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harzer, Carl August Friedrich (1784-1846), German naturalist and artist at Dresden; initiator and co-founder of the Dresden society "Isis". (*Harzer*).
+Harzer, Carl August Friedrich (1784-1846), German naturalist and artist at Dresden; initiator and co-founder of the Dresden society "Isis". 
+**Abbreviated name**: *Harzer*
 
 #### Herbarium and types
 

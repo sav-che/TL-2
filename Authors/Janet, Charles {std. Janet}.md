@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103253#page/449/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Janet, Charles (1849-1932), French phycologist. (*Janet*).
+Janet, Charles (1849-1932), French phycologist. 
+**Abbreviated name**: *Janet*
 
 #### Herbarium and types
 

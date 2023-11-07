@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/item/103859#page/130/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33265317) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berthold, Carl \[I\] (1834?-1884), German botanist and highschool teacher at Brilon (Arnsberg, Preussen). (*C. Berthold I*).
+Berthold, Carl \[I\] (1834?-1884), German botanist and highschool teacher at Brilon (Arnsberg, Preussen). 
+**Abbreviated name**: *C. Berthold I*
 
 #### Herbarium and types
 

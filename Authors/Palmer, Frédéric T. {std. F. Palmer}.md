@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103624#page/44/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33189463) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmer, Frédéric T. (*fl*. 1867), French horticulturist (*F. Palmer*).
+Palmer, Frédéric T. (*fl*. 1867), French horticulturist 
+**Abbreviated name**: *F. Palmer*
 
 #### Herbarium and types
 

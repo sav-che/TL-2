@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/103253#page/475/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33068691) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnson, Thomas (1863-1954), British palaeobotanist, demonstrator in science, London 1885-1890, professor of botany, R. Coll. Sci., Dublin 1890-1928, keeper DBN. (*T. Johns.*).
+Johnson, Thomas (1863-1954), British palaeobotanist, demonstrator in science, London 1885-1890, professor of botany, R. Coll. Sci., Dublin 1890-1928, keeper DBN. 
+**Abbreviated name**: *T. Johns.*
 
 #### Herbarium and types
 

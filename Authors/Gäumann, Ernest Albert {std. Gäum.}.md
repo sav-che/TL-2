@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/item/103414#page/951/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33121034) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gäumann, Ernst Albert {std. Gäum.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gäumann, Ernest Albert (1893-1963), Swiss mycologist and plant pathologist at Zürich. (*Gäum.*).
+Gäumann, Ernest Albert (1893-1963), Swiss mycologist and plant pathologist at Zürich. 
+**Abbreviated name**: *Gäum.*
 
 #### Herbarium and types
 

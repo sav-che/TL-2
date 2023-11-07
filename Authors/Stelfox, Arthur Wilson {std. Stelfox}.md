@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/item/104077#page/894/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/page/33334019) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stelfox, Arthur Wilson (1883-1972), Irish architect and naturalist; at the National Museum Dublin 1920-1948. (*Stelfox*).
+Stelfox, Arthur Wilson (1883-1972), Irish architect and naturalist; at the National Museum Dublin 1920-1948. 
+**Abbreviated name**: *Stelfox*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/item/103414#page/990/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/page/33121073) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gilibert, Jean Emmanuel {std. Gilib.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gilibert, Jean Emmanuel (1741-1814), French botanist from Lyon who was for some time professor of botany at Wilna. (*Gilib.*).
+Gilibert, Jean Emmanuel (1741-1814), French botanist from Lyon who was for some time professor of botany at Wilna. 
+**Abbreviated name**: *Gilib.*
 
 #### Herbarium and types
 

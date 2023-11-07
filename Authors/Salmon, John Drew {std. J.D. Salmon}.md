@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/104077#page/25/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33333172) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salmon, John Drew (ca. 1802-1859), British botanist and ornithologist; manager of the Wenham Lake Ice Company; at Thetford 1835-1843; later at Godalming. (*J.D. Salmon*).
+Salmon, John Drew (ca. 1802-1859), British botanist and ornithologist; manager of the Wenham Lake Ice Company; at Thetford 1835-1843; later at Godalming. 
+**Abbreviated name**: *J.D. Salmon*
 
 #### Herbarium and types
 

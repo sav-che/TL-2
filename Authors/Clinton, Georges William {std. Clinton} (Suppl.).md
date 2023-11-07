@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/103860#page/231/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265898) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clinton, George William {std. Clinton}|first entry]] for this author
 
 ### Author
 
-\* Clinton, Georges William (1807-1885), American botanist, born in New York City, studied medicine two or three years and turned to law, resident of Buffalo 1836-1881 devoting himself to the bar, regent of the Buffalo University from 1856, returned to botany 1861 with the establishment of the Buffalo Society of Natural Sciences, from 1881 resident of Albany. (*Clinton*).
+\* Clinton, Georges William (1807-1885), American botanist, born in New York City, studied medicine two or three years and turned to law, resident of Buffalo 1836-1881 devoting himself to the bar, regent of the Buffalo University from 1856, returned to botany 1861 with the establishment of the Buffalo Society of Natural Sciences, from 1881 resident of Albany. 
+**Abbreviated name**: *Clinton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/item/103835#page/307/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33260285) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ekstam, Otto Josef Agaton (1870-1931), Swedish botanist, born 27 Oct 1870 at Stockholm, went to schools at Stockholm and studied from 1894 at Uppsala, fil. kand. 1898, fil. lic. 1899, later director van Kungsholms middelbare school 1914, died 1931. (*Ekstam*).
+Ekstam, Otto Josef Agaton (1870-1931), Swedish botanist, born 27 Oct 1870 at Stockholm, went to schools at Stockholm and studied from 1894 at Uppsala, fil. kand. 1898, fil. lic. 1899, later director van Kungsholms middelbare school 1914, died 1931. 
+**Abbreviated name**: *Ekstam*
 
 #### Herbarium and types
 

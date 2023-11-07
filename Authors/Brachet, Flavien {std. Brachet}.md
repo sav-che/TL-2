@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103861#page/12/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brachet, Flavien (x-1910), French botanist in Rémollon (Hautes-Alpes), teacher and guide on excursions at Gap in the Hautes-Alpes. (*Brachet*).
+Brachet, Flavien (x-1910), French botanist in Rémollon (Hautes-Alpes), teacher and guide on excursions at Gap in the Hautes-Alpes. 
+**Abbreviated name**: *Brachet*
 
 #### Herbarium and types
 

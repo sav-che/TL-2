@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103624#page/159/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33189616) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-P'ei Chien (1903-x), Chinese botanist; AB Stanford 1927; AM ib. 1928, studied in U.S. 1925-1930, later at the Biological Laboratory of the Science Society of China, Nanking. (*P'ei*).
+P'ei Chien (1903-x), Chinese botanist; AB Stanford 1927; AM ib. 1928, studied in U.S. 1925-1930, later at the Biological Laboratory of the Science Society of China, Nanking. 
+**Abbreviated name**: *P'ei*
 
 #### Herbarium and types
 

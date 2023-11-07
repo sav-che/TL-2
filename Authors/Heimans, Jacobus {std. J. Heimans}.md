@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103253#page/164/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33068380) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heimans, Jacobus (1889-1978), Dutch botanist; son of Eli Heimans; specialized on Desmidiaceae, the genus *Mentha* and the phytogeography of the Netherlands. (*J. Heimans*).
+Heimans, Jacobus (1889-1978), Dutch botanist; son of Eli Heimans; specialized on Desmidiaceae, the genus *Mentha* and the phytogeography of the Netherlands. 
+**Abbreviated name**: *J. Heimans*
 
 #### Herbarium and types
 

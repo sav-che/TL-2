@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/104137#page/762/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33355833) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Niebuhr, Carsten (1733-1815), Holstein-born Danish botanist; studied in Göttingen 1757-1761; with Forsskål on a Danish expedition to Arabia 1761-1763, India, Persia and Turkey 1763-1767; in Copenhagen until 1778; subsequently administrator at Ditmarsken, ultimately at Melsdorf. (*Niebuhr*).
+Niebuhr, Carsten (1733-1815), Holstein-born Danish botanist; studied in Göttingen 1757-1761; with Forsskål on a Danish expedition to Arabia 1761-1763, India, Persia and Turkey 1763-1767; in Copenhagen until 1778; subsequently administrator at Ditmarsken, ultimately at Melsdorf. 
+**Abbreviated name**: *Niebuhr*
 
 #### Herbarium and types
 

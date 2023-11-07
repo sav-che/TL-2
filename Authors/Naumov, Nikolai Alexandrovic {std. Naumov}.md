@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/item/104137#page/714/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Naumov, Nikolai Alexandrovic (1888-1959), Russian mycologist; Dr. phil. St. Petersburg 1910; later at the Jaczevski Institute of mycology of Leningrad. (*Naumov*).
+Naumov, Nikolai Alexandrovic (1888-1959), Russian mycologist; Dr. phil. St. Petersburg 1910; later at the Jaczevski Institute of mycology of Leningrad. 
+**Abbreviated name**: *Naumov*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/item/103253#page/547/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kennedy, James Domoné (1898-x), British-born Nigerian forest officer. (*J. D. Kennedy*).
+Kennedy, James Domoné (1898-x), British-born Nigerian forest officer. 
+**Abbreviated name**: *J. D. Kennedy*
 
 #### Herbarium and types
 

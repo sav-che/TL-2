@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/item/103253#page/688/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kramer, Wilhelm Heinrich (x-1765), German-born Austrian botanist and physician at Bruck a. Leitha. (*W. Kram.*).
+Kramer, Wilhelm Heinrich (x-1765), German-born Austrian botanist and physician at Bruck a. Leitha. 
+**Abbreviated name**: *W. Kram.*
 
 #### Herbarium and types
 

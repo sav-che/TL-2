@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/item/104137#page/209/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33355280) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lund, Anders Axel Wilhelm (1839-1925), Swedish botanist; Dr. phil. Uppsala 1863, high school teacher at Västerviks (1863-1905). (*A. Lund*).
+Lund, Anders Axel Wilhelm (1839-1925), Swedish botanist; Dr. phil. Uppsala 1863, high school teacher at Västerviks (1863-1905). 
+**Abbreviated name**: *A. Lund*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/item/103414#page/890/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33120973) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fitzgerald, William Vincent {std. W. Fitzg.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fitzgerald, William Vincent (x-1929), Australian botanist. (*W. Fitzg.*).
+Fitzgerald, William Vincent (x-1929), Australian botanist. 
+**Abbreviated name**: *W. Fitzg.*
 
 #### Herbarium and types
 

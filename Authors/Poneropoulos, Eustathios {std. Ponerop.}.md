@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103624#page/349/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poneropoulos, Eustathios (*fl*. 1880), Greek botanist. (*Ponerop.*).
+Poneropoulos, Eustathios (*fl*. 1880), Greek botanist. 
+**Abbreviated name**: *Ponerop.*
 
 #### Herbarium and types
 

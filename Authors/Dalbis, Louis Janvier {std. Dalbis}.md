@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103833#page/36/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259070) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalbis, Louis Janvier (fl. 1912-1919), French botanist, "Licencié ès Sciences" at the Faculty of Sciences at Paris, student of G. Bonnier, Dr. Fac. Sci. Paris 1921. (*Dalbis*).
+Dalbis, Louis Janvier (fl. 1912-1919), French botanist, "Licencié ès Sciences" at the Faculty of Sciences at Paris, student of G. Bonnier, Dr. Fac. Sci. Paris 1921. 
+**Abbreviated name**: *Dalbis*
 
 #### Herbarium and types
 

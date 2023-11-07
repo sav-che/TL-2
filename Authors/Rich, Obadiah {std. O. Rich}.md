@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/item/103624#page/771/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33190228) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rich, Obadiah (1783(1782?)-1850), American botanist and bibliographer; living in Boston until 1809, in Georgetown, D.C. and travelling 1809-1816; from 1816-1827 U.S. consul in Valencia, Spain; from 1829 in London as book-seller and antiquary. (*O. Rich*).
+Rich, Obadiah (1783(1782?)-1850), American botanist and bibliographer; living in Boston until 1809, in Georgetown, D.C. and travelling 1809-1816; from 1816-1827 U.S. consul in Valencia, Spain; from 1829 in London as book-seller and antiquary. 
+**Abbreviated name**: *O. Rich*
 
 #### Herbarium and types
 

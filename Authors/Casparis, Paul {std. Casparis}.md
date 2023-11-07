@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/103861#page/457/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33266754) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Casparis, Paul (1889-x), Swiss botanist, born in Davos, 18 Sep 1889, educated at the Gymnasium in Schiers, 1909 in the "Goldenen Apotheke" in Basel, later in the Wettsteinapotheke, studied 4 semesters at the University of Basel, "Apotheker" in 1914 with "Staatsexamen als Apotheker", worked in 1916-1917 for his dissertation ("Herbst 1917"). (*Casparis*).
+Casparis, Paul (1889-x), Swiss botanist, born in Davos, 18 Sep 1889, educated at the Gymnasium in Schiers, 1909 in the "Goldenen Apotheke" in Basel, later in the Wettsteinapotheke, studied 4 semesters at the University of Basel, "Apotheker" in 1914 with "Staatsexamen als Apotheker", worked in 1916-1917 for his dissertation ("Herbst 1917"). 
+**Abbreviated name**: *Casparis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103861#page/210/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33266507) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchwald, Niels Fabritius (1898-x), Danish botanist, born at Aalborg, Jutland, studied at the University of Copenhagen, cand. mag. 1924, assistant with the Royal Veterinary and Agricultural College, travelled in Iceland 1925, Copenhagen 1925, Rockefeller-Stipendiat at Cornell, U.S.A. 1930-1931, amanuensis 1935 ib., professor of phytopathology 1944. (*N.F. Buchw.*).
+Buchwald, Niels Fabritius (1898-x), Danish botanist, born at Aalborg, Jutland, studied at the University of Copenhagen, cand. mag. 1924, assistant with the Royal Veterinary and Agricultural College, travelled in Iceland 1925, Copenhagen 1925, Rockefeller-Stipendiat at Cornell, U.S.A. 1930-1931, amanuensis 1935 ib., professor of phytopathology 1944. 
+**Abbreviated name**: *N.F. Buchw.*
 
 #### Herbarium and types
 

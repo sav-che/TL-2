@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/item/103414#page/650/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33120733) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burtt Davy, Joseph {std. Burtt Davy} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Davy, Joseph Burtt (1870-1940), British botanist, founder of the Pretoria National Herbarium, student of the flora of California, agriculturist, sylviculturist and ecologist. (*J. B. Davy*).
+Davy, Joseph Burtt (1870-1940), British botanist, founder of the Pretoria National Herbarium, student of the flora of California, agriculturist, sylviculturist and ecologist. 
+**Abbreviated name**: *J. B. Davy*
 
 #### Herbarium and types
 

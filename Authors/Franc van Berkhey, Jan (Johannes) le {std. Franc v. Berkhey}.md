@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/item/103414#page/916/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33120999) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Franc van Berkhey (or Berkhij), Jan le {std. Franc v. Berkhey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Franc van Berkhey, Jan (Johannes) le (1729-1812), Dutch poet, biologist, political activist, praelector historiae naturalis at Leiden. (*Franc v. Berkhey*).
+Franc van Berkhey, Jan (Johannes) le (1729-1812), Dutch poet, biologist, political activist, praelector historiae naturalis at Leiden. 
+**Abbreviated name**: *Franc v. Berkhey*
 
 #### Herbarium and types
 

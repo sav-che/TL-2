@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103861#page/144/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33266441) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, Forest Buffen Harkness (1873-1954), American botanist, born in Rushville, N.Y., educated at Ypsilanti, Michigan, at the Michigan State Normal College, studied at the University of Michigan 1902, A.B. and M.S. 1903, with the forest survey team at Broken Bow, Oklahoma (Bureau of Forestry, USDA), instructor on the Michigan State Normal College and taught plant anatomy at the botany dept. at Ohio State University, in charge of the botanical garden ib. 1911-1916, Ph.D. Yale University, Fellow at Yale University 1918-1919, botanist at the Bishop Museum, Honolulu 1920. (*F. Br.*).
+Brown, Forest Buffen Harkness (1873-1954), American botanist, born in Rushville, N.Y., educated at Ypsilanti, Michigan, at the Michigan State Normal College, studied at the University of Michigan 1902, A.B. and M.S. 1903, with the forest survey team at Broken Bow, Oklahoma (Bureau of Forestry, USDA), instructor on the Michigan State Normal College and taught plant anatomy at the botany dept. at Ohio State University, in charge of the botanical garden ib. 1911-1916, Ph.D. Yale University, Fellow at Yale University 1918-1919, botanist at the Bishop Museum, Honolulu 1920. 
+**Abbreviated name**: *F. Br.*
 
 #### Herbarium and types
 

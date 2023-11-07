@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103835#page/165/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33260143) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duhamel du Monceau, Henri Louis {std. Duhamel}|first entry]] for this author
 
 ### Author
 
-\* Duhamel du Monceau, Henri Louis (1700-1782), French botanist, agronomist, chemist, and naval technologist, born 1700 at Paris, member of the French academy of sciences, general inspector of the French navy, died 23 Aug 1782. (*Duhamel*).
+\* Duhamel du Monceau, Henri Louis (1700-1782), French botanist, agronomist, chemist, and naval technologist, born 1700 at Paris, member of the French academy of sciences, general inspector of the French navy, died 23 Aug 1782. 
+**Abbreviated name**: *Duhamel*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/104137#page/157/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lösecke, August Georg von (1837-1912), German mycologist and pharmacist. (*Lösecke*).
+Lösecke, August Georg von (1837-1912), German mycologist and pharmacist. 
+**Abbreviated name**: *Lösecke*
 
 #### Herbarium and types
 

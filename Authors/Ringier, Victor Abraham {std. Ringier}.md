@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/item/103624#page/809/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ringier, Victor Abraham (*fl*. 1823), Swiss (Aargau) physician and botanist; Dr. med. Tübingen. (*Ringier*).
+Ringier, Victor Abraham (*fl*. 1823), Swiss (Aargau) physician and botanist; Dr. med. Tübingen. 
+**Abbreviated name**: *Ringier*
 
 #### Herbarium and types
 

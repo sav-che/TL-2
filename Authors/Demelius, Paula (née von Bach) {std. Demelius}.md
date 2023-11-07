@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103833#page/209/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Demelius, Paula (née von Bach) (1862-1923), Austrian, later German botanist (mycologist), born 1862 at Vienna, married to Demelius and moved to Planegg near Munich, died 23 Mai 1923. (*Demelius*).
+Demelius, Paula (née von Bach) (1862-1923), Austrian, later German botanist (mycologist), born 1862 at Vienna, married to Demelius and moved to Planegg near Munich, died 23 Mai 1923. 
+**Abbreviated name**: *Demelius*
 
 #### Herbarium and types
 

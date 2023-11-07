@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/item/104137#page/654/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33355725) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Karl (1881-1955) of Freiburg, German hepaticologist; Dr. phil. Freiburg 1905; from 1905-1921 at the phytopathological station Augustenberg nr. Karlsruhe and as phytopathologist involved in the wine industry; from 1921-1937 director of the Badische Weinbauinstitut; from 1937-1955 working full time on hepaticology. (*K. Müll. frib.*).
+Müller, Karl (1881-1955) of Freiburg, German hepaticologist; Dr. phil. Freiburg 1905; from 1905-1921 at the phytopathological station Augustenberg nr. Karlsruhe and as phytopathologist involved in the wine industry; from 1921-1937 director of the Badische Weinbauinstitut; from 1937-1955 working full time on hepaticology. 
+**Abbreviated name**: *K. Müll. frib.*
 
 #### Herbarium and types
 

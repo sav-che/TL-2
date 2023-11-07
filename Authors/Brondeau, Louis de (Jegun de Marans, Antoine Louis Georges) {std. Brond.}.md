@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103414#page/399/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33120482) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brondeau, Louis de, Antoine-Louis-Georges Jegun de Marans {std. Brond.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brondeau, Louis de \[Jegun de Marans, Antoine Louis Georges\] (1794-1859), French botanist. (*Brond.*).
+Brondeau, Louis de \[Jegun de Marans, Antoine Louis Georges\] (1794-1859), French botanist. 
+**Abbreviated name**: *Brond.*
 
 #### Herbarium and types
 

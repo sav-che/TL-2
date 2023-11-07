@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/item/103414#page/1031/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Graves, Louis (1791-1857), French superintendent of forests. (*L. Graves*).
+Graves, Louis (1791-1857), French superintendent of forests. 
+**Abbreviated name**: *L. Graves*
 
 #### Collections
 

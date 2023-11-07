@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/item/103624#page/600/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33190057) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ratzeburg, Julius Theodor Christian (1801-1871), German forester, forestry-botanist and zoologist; Dr. med. Berlin 1825; habil. Berlin 1828; professor of natural sciences at the forestry college of Neustadt 1840-1868; in retirement in Berlin 1868-1871; founder of forest entomology. (*Ratzeb.*).
+Ratzeburg, Julius Theodor Christian (1801-1871), German forester, forestry-botanist and zoologist; Dr. med. Berlin 1825; habil. Berlin 1828; professor of natural sciences at the forestry college of Neustadt 1840-1868; in retirement in Berlin 1868-1871; founder of forest entomology. 
+**Abbreviated name**: *Ratzeb.*
 
 #### Herbarium and types
 

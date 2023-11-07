@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103861#page/163/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33266460) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brühl, Paul Johannes {std. Brühl}|first entry]] for this author
 
 ### Author
 
-\* Bruehl, Paul Johannes (1855-1935), German botanist, born in Weifa, Sachsen, travelled in Turkey, Asia minor and Armenia 1878-1881, lecturer and professor of natural sciences, Rajshahi College Sibpur 1882-1912, professor of botany at Calcutta 1918-1928. (*Bruehl*).
+\* Bruehl, Paul Johannes (1855-1935), German botanist, born in Weifa, Sachsen, travelled in Turkey, Asia minor and Armenia 1878-1881, lecturer and professor of natural sciences, Rajshahi College Sibpur 1882-1912, professor of botany at Calcutta 1918-1928. 
+**Abbreviated name**: *Bruehl*
 
 #### Herbarium and types
 

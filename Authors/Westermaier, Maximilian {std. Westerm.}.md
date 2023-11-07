@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103250#page/273/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33066553) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Westermaier, Maximilian (1852-1903), German (Bavarian) botanist; assistant with L. Radlkofer 1873-1875; id. with C.W. v. Nägeli 1875-1878; Dr. phil. München 1876; assistant with S. Schwendener in Berlin 1878-1890; habil. Berlin 1879; teacher natural history and chemistry at the Lyceum in Freising 1890-1896; professor of botany at Freiburg (Switzerland) 1896-1903; in Buitenzorg (Bogor) 1898-1899. (*Westerm.*).
+Westermaier, Maximilian (1852-1903), German (Bavarian) botanist; assistant with L. Radlkofer 1873-1875; id. with C.W. v. Nägeli 1875-1878; Dr. phil. München 1876; assistant with S. Schwendener in Berlin 1878-1890; habil. Berlin 1879; teacher natural history and chemistry at the Lyceum in Freising 1890-1896; professor of botany at Freiburg (Switzerland) 1896-1903; in Buitenzorg (Bogor) 1898-1899. 
+**Abbreviated name**: *Westerm.*
 
 #### Herbarium and types
 

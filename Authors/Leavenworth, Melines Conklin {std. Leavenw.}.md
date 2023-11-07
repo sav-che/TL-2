@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/item/103253#page/803/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33069019) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leavenworth, Melines Conklin (1796-1862), United States explorer; studied medicine at Yale (grad. 1817); practiced at Cahawba (Alabama) and Augusta (Georgia); subsequently army surgeon and explorer until 1842; physician at Waterbury (Conn.) 1842-1861; ultimately again army surgeon; sent plants to Torrey. (*Leavenw.*).
+Leavenworth, Melines Conklin (1796-1862), United States explorer; studied medicine at Yale (grad. 1817); practiced at Cahawba (Alabama) and Augusta (Georgia); subsequently army surgeon and explorer until 1842; physician at Waterbury (Conn.) 1842-1861; ultimately again army surgeon; sent plants to Torrey. 
+**Abbreviated name**: *Leavenw.*
 
 #### Herbarium and types
 

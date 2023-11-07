@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103859#page/39/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33265226) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Becker, Carl (1867-?), German pharmacist (Rheinprovinz), born and educated in Viersen; studied at the University of München 1890-1892, pharmaceutical state-examination 1892, studied further at Strassburg and Erlangen, student of Max Rees at Erlangen. (*C. Becker*).
+Becker, Carl (1867-?), German pharmacist (Rheinprovinz), born and educated in Viersen; studied at the University of München 1890-1892, pharmaceutical state-examination 1892, studied further at Strassburg and Erlangen, student of Max Rees at Erlangen. 
+**Abbreviated name**: *C. Becker*
 
 #### Herbarium and types
 

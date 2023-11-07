@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/104137#page/405/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33355476) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mayr, Heinrich (1856-1911), German forester, dendrologist and botanist; Dr. phil. München 1884; from 1887-1891 professor at the University of Tokyo; from 1891-1893 Forstamtsassistent at Wunsiedel; from 1893 professor of forestry at the University of München. (*Mayr*).
+Mayr, Heinrich (1856-1911), German forester, dendrologist and botanist; Dr. phil. München 1884; from 1887-1891 professor at the University of Tokyo; from 1891-1893 Forstamtsassistent at Wunsiedel; from 1893 professor of forestry at the University of München. 
+**Abbreviated name**: *Mayr*
 
 #### Herbarium and types
 

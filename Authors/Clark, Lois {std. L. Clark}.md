@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103860#page/191/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clark, Lois (1884-1967), American botanist, born at Charlotte, Michigan, attended Seattle public schools 1898-1903, studied at Washington University, B.A. 1907, at Yale 1907-1908, M.A. 1910, Ph.D. University of Minnesota 1919, head dept. sci. Stephens Jr. College 1919-1920, asst. prof. bot. at the University of Idaho 1923-1927, later at the University of Washington. (*L. Clark*).
+Clark, Lois (1884-1967), American botanist, born at Charlotte, Michigan, attended Seattle public schools 1898-1903, studied at Washington University, B.A. 1907, at Yale 1907-1908, M.A. 1910, Ph.D. University of Minnesota 1919, head dept. sci. Stephens Jr. College 1919-1920, asst. prof. bot. at the University of Idaho 1923-1927, later at the University of Washington. 
+**Abbreviated name**: *L. Clark*
 
 #### Herbarium and types
 

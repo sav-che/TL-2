@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/104077#page/119/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33333244) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaeffer, Jacob Christian (1718-1790), German (Saxony-born Bavarian) botanist, zoologist and theologist and clergyman; studied theology at Halle; private teacher at Regensburg 1738-1740; pastor and teacher at the protestant seminary at Regensburg 1741; Dr. phil. Wittenberg 1760; Dr. theol. Tübingen 1763; pastor and superintendent of the Regensburg protestant community 1779-1790. (*Schaeff.*).
+Schaeffer, Jacob Christian (1718-1790), German (Saxony-born Bavarian) botanist, zoologist and theologist and clergyman; studied theology at Halle; private teacher at Regensburg 1738-1740; pastor and teacher at the protestant seminary at Regensburg 1741; Dr. phil. Wittenberg 1760; Dr. theol. Tübingen 1763; pastor and superintendent of the Regensburg protestant community 1779-1790. 
+**Abbreviated name**: *Schaeff.*
 
 #### Herbarium and types
 

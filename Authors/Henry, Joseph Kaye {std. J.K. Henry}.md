@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103253#page/187/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33068403) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henry, Joseph Kaye (1866-1930), Canadian botanist, at first high school teacher at Vancouver 1891-1906, at McGill Univ. College, Vancouver 1906-1915, ultimately (from 1915) professor of English at the University of British Columbia. (*J. K. Henry*).
+Henry, Joseph Kaye (1866-1930), Canadian botanist, at first high school teacher at Vancouver 1891-1906, at McGill Univ. College, Vancouver 1906-1915, ultimately (from 1915) professor of English at the University of British Columbia. 
+**Abbreviated name**: *J. K. Henry*
 
 #### Herbarium and types
 

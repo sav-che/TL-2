@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/item/103624#page/583/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rama Rao, Rao Sahib Muttada (1865-?), Indian botanist, conservator of forests, Travancore. (*Rama Rao*).
+Rama Rao, Rao Sahib Muttada (1865-?), Indian botanist, conservator of forests, Travancore. 
+**Abbreviated name**: *Rama Rao*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/item/103250#page/601/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33066881) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zimmermann, Oscar Emil Reinhold (x-1902), German (Saxonian) botanist and high school teacher; at the Chemnitz Realgymnasium; Dr. phil. Jena 1871; professor's title 1893. (*O.E.R. Zimmerm.*).
+Zimmermann, Oscar Emil Reinhold (x-1902), German (Saxonian) botanist and high school teacher; at the Chemnitz Realgymnasium; Dr. phil. Jena 1871; professor's title 1893. 
+**Abbreviated name**: *O.E.R. Zimmerm.*
 
 #### Herbarium and types
 

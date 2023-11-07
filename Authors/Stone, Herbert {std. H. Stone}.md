@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103683#page/33/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33212071) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stone, Herbert (1865-?), British author on timbers and woods; lecturer in forestry at the Wood Research Laboratory, Cambridge until 1924. (*H. Stone*).
+Stone, Herbert (1865-?), British author on timbers and woods; lecturer in forestry at the Wood Research Laboratory, Cambridge until 1924. 
+**Abbreviated name**: *H. Stone*
 
 #### Herbarium and types
 

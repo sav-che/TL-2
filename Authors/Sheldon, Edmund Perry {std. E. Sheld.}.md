@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/104077#page/571/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33333696) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sheldon, Edmund Perry, (1869-1913), American botanist; B.S. University of Minnesota 1894; instructor in botany ib. 1894-1896; botanical explorer and forester in Portland from 1897; studied law later in life; admitted to the bar in California 1910, admitted as attorney in Oregon 1911. (*E. Sheld.*).
+Sheldon, Edmund Perry, (1869-1913), American botanist; B.S. University of Minnesota 1894; instructor in botany ib. 1894-1896; botanical explorer and forester in Portland from 1897; studied law later in life; admitted to the bar in California 1910, admitted as attorney in Oregon 1911. 
+**Abbreviated name**: *E. Sheld.*
 
 #### Herbarium and types
 

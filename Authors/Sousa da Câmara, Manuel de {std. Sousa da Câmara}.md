@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/item/104077#page/772/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33333897) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sousa da Câmara, Manuel de (1871-1955), Portuguese mycologist and phytopathologist; studied at the Instituto Agronómico de Lisboa; with the Instituto Superior de Agronomia e Veterinária, from 1901 and its Laboratorio "Verissimo de Almeida" at Lisboa; vice-director of the Instituto 1912, director 1918 (effective 1919)-1942. (*Sousa da Câmara*).
+Sousa da Câmara, Manuel de (1871-1955), Portuguese mycologist and phytopathologist; studied at the Instituto Agronómico de Lisboa; with the Instituto Superior de Agronomia e Veterinária, from 1901 and its Laboratorio "Verissimo de Almeida" at Lisboa; vice-director of the Instituto 1912, director 1918 (effective 1919)-1942. 
+**Abbreviated name**: *Sousa da Câmara*
 
 #### Herbarium and types
 

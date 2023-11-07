@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/item/103253#page/511/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kain, Charles Henri (x-1913), American teacher and diatomologist in Camden (1864) and Philadelphia (1874). (*Kain*).
+Kain, Charles Henri (x-1913), American teacher and diatomologist in Camden (1864) and Philadelphia (1874). 
+**Abbreviated name**: *Kain*
 
 #### Herbarium and types
 

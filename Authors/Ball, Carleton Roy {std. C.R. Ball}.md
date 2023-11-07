@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103858#page/313/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265028) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ball, Carleton Roy (1873-1958), American (Iowa born) botanist, studied at the Iowa State College, B.S. 1896, M.S. 1899, D.Sc. hon. causa 1920; taught botany at Iowa State College 1896-1898; with the U.S.D.A. Division of Agrostology 1898; initiated pioneer experiments with grain Sorghums and broom corn 1906, introduced, tested, classified and named wheat varieties from 1914, in charge of the Division of Cereal Crops and Diseases U.S.D.A. 1918-1929; specialized on Salix. (*C.R. Ball*).
+Ball, Carleton Roy (1873-1958), American (Iowa born) botanist, studied at the Iowa State College, B.S. 1896, M.S. 1899, D.Sc. hon. causa 1920; taught botany at Iowa State College 1896-1898; with the U.S.D.A. Division of Agrostology 1898; initiated pioneer experiments with grain Sorghums and broom corn 1906, introduced, tested, classified and named wheat varieties from 1914, in charge of the Division of Cereal Crops and Diseases U.S.D.A. 1918-1929; specialized on Salix. 
+**Abbreviated name**: *C.R. Ball*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103835#page/93/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dozy, François {std. Dozy}|first entry]] for this author
 
 ### Author
 
-\* Dozy, François (1807-1856), Dutch physician and botanist, born at Leiden 27 Dec 1807, died 7 Oct 1856, Neuwied, as student in medicine at Leiden, as physician 1831-1833 at Rotterdam, 1833 doctor at Leiden, worked especially in musci 1833-1856. (*Dozy*).
+\* Dozy, François (1807-1856), Dutch physician and botanist, born at Leiden 27 Dec 1807, died 7 Oct 1856, Neuwied, as student in medicine at Leiden, as physician 1831-1833 at Rotterdam, 1833 doctor at Leiden, worked especially in musci 1833-1856. 
+**Abbreviated name**: *Dozy*
 
 #### Herbarium and types
 

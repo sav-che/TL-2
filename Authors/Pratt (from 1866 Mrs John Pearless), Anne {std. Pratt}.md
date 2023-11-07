@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/103624#page/397/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33189854) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pratt (from 1866 Mrs John Pearless), Anne (1806-1893), British author of popular botanical books. (*Pratt*).
+Pratt (from 1866 Mrs John Pearless), Anne (1806-1893), British author of popular botanical books. 
+**Abbreviated name**: *Pratt*
 
 #### Herbarium and types
 

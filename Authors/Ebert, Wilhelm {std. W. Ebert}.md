@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103835#page/260/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33260238) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebert, Wilhelm (fl. 1925-1931), German teacher at Bernburg, sometimes president of the Deutsche Gartenbau Gesellschaft. (*W. Ebert*).
+Ebert, Wilhelm (fl. 1925-1931), German teacher at Bernburg, sometimes president of the Deutsche Gartenbau Gesellschaft. 
+**Abbreviated name**: *W. Ebert*
 
 #### Herbarium and types
 

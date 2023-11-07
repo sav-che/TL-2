@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103835#page/183/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33260161) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Du Petit-Thouars, Louis-Marie Aubert Aubert {std. Thouars}|first entry]] for this author
 
 ### Author
 
-\* Du Petit-Thouars, Louis-Marie Aubert Aubert (1758-1831), French traveller and botanist, born 5 Nov 1758 at the Château de Boumois near Saumur (Anjou), was interested in botany since 1780, was invited to join the scientific society "Collège des Philalèthes" in 1787, was arrested during the French revolution, after his release left France and sailed to Tristan da Cunha and via Cape of Good Hope to Mauritius, stayed for three years (1793-1796) on Mauritius collecting plants, stayed also long-time on Madagascar, returned to France 1802, was appointed director of the Royal Nursery Grounds at Roule (Faubourg St. Honoré) 1807, held that post until 1827, died 12 Mai 1831 at Paris. (*Thouars*).
+\* Du Petit-Thouars, Louis-Marie Aubert Aubert (1758-1831), French traveller and botanist, born 5 Nov 1758 at the Château de Boumois near Saumur (Anjou), was interested in botany since 1780, was invited to join the scientific society "Collège des Philalèthes" in 1787, was arrested during the French revolution, after his release left France and sailed to Tristan da Cunha and via Cape of Good Hope to Mauritius, stayed for three years (1793-1796) on Mauritius collecting plants, stayed also long-time on Madagascar, returned to France 1802, was appointed director of the Royal Nursery Grounds at Roule (Faubourg St. Honoré) 1807, held that post until 1827, died 12 Mai 1831 at Paris. 
+**Abbreviated name**: *Thouars*
 
 #### Herbarium and types
 

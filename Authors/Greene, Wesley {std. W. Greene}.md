@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103832#page/376/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33258842) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Greene, Wesley (1849-1935), American botanist, born 8 Nov 1849 in Yellow Springs, Penn., LL.B. 1875 Iowa State College of Agriculture and Mechanic Arts (now Iowa State Univ.), Ames, secretary, Iowa State Horticultural Society 1898-1919, died 28 Mar 1935 in Cleveland, Ohio. (*W. Greene*).
+Greene, Wesley (1849-1935), American botanist, born 8 Nov 1849 in Yellow Springs, Penn., LL.B. 1875 Iowa State College of Agriculture and Mechanic Arts (now Iowa State Univ.), Ames, secretary, Iowa State Horticultural Society 1898-1919, died 28 Mar 1935 in Cleveland, Ohio. 
+**Abbreviated name**: *W. Greene*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103414#page/505/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33120588) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carpenter, William Benjamin (1813-1885), British physician, naturalist and microscopist. (*W. B. Carpenter*).
+Carpenter, William Benjamin (1813-1885), British physician, naturalist and microscopist. 
+**Abbreviated name**: *W. B. Carpenter*
 
 #### Herbarium and types
 

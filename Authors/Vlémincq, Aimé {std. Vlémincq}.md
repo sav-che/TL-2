@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/item/103683#page/773/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vlémincq, Aimé (*fl*. 1937), Belgian botanist. (*Vlémincq*).
+Vlémincq, Aimé (*fl*. 1937), Belgian botanist. 
+**Abbreviated name**: *Vlémincq*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/item/103624#page/856/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33190313) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roemer, \[Carl\] Ferdinand \[von\] (1818-1891), German (Hildesheim, Niedersachsen, Hannoverian) geologist and explorer; studied law at Göttingen 1836-1839, natural sciences at Berlin 1840-1842; Dr. phil. Berlin 1842; travelled in Germany 1842-1845, in the United States, especially Texas, 1845-1847; habil. Bonn 1848, "Privatdocent" ib. 1848-1855; professor of mineralogy, geology and paleobotany and director of the mineralogical cabinet (later: museum) at the University of Breslau, 1855-1891; brother of Friedrich Adolph Roemer. (*F. Roem.*).
+Roemer, \[Carl\] Ferdinand \[von\] (1818-1891), German (Hildesheim, Niedersachsen, Hannoverian) geologist and explorer; studied law at Göttingen 1836-1839, natural sciences at Berlin 1840-1842; Dr. phil. Berlin 1842; travelled in Germany 1842-1845, in the United States, especially Texas, 1845-1847; habil. Bonn 1848, "Privatdocent" ib. 1848-1855; professor of mineralogy, geology and paleobotany and director of the mineralogical cabinet (later: museum) at the University of Breslau, 1855-1891; brother of Friedrich Adolph Roemer. 
+**Abbreviated name**: *F. Roem.*
 
 #### Herbarium and types
 

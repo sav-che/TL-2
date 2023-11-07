@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/item/103414#page/732/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33120815) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drummond, James (1784-1863), British botanist and plant collector, in Australia 1829-1863, brother of Thomas Drummond. (*J. Drumm.*).
+Drummond, James (1784-1863), British botanist and plant collector, in Australia 1829-1863, brother of Thomas Drummond. 
+**Abbreviated name**: *J. Drumm.*
 
 #### Herbarium and types
 

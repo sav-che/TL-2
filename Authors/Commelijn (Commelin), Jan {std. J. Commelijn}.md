@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/item/103414#page/579/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33120662) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Commelijn \[Commelin\], Jan (1629-1692), Netherlands druggist, merchant and botanist, uncle of Caspar Commelin. (*J. Commelijn*).
+Commelijn \[Commelin\], Jan (1629-1692), Netherlands druggist, merchant and botanist, uncle of Caspar Commelin. 
+**Abbreviated name**: *J. Commelijn*
 
 #### Herbarium and types
 

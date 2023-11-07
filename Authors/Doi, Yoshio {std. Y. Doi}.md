@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103835#page/38/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33260016) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doi, Yoshio (fl. 1926-1944), Japanese botanist, at Kagoshima, Japan (*Y. Doi*).
+Doi, Yoshio (fl. 1926-1944), Japanese botanist, at Kagoshima, Japan 
+**Abbreviated name**: *Y. Doi*
 
 #### Herbarium and types
 

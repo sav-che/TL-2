@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103834#page/197/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259679) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fiek, Emil {std. Fiek}|first entry]] for this author
 
 ### Author
 
-\* Fiek, Emil (1840-1897), German pharmacist and florist, born 23 Aug 1840 in Usch (Posen), attended gymnasium in Landsberg a. d. Warthe, studied pharmacy in Halle a. S. 1855-1859, practiced in several pharmacies 1859-1863, state examination in Berlin 1865, owned a pharmacy in Arnstadt, then in Schweidnitz 1867, in Reichenbach then in Friedland (Bez. Breslau) 1872-1877, sold his pharmacy in 1877 because of poor health and moved to Hirschberg (Schlesien), died 21 Jun 1897 in Cunnersdorf nr. Hirschberg. (*Fiek*).
+\* Fiek, Emil (1840-1897), German pharmacist and florist, born 23 Aug 1840 in Usch (Posen), attended gymnasium in Landsberg a. d. Warthe, studied pharmacy in Halle a. S. 1855-1859, practiced in several pharmacies 1859-1863, state examination in Berlin 1865, owned a pharmacy in Arnstadt, then in Schweidnitz 1867, in Reichenbach then in Friedland (Bez. Breslau) 1872-1877, sold his pharmacy in 1877 because of poor health and moved to Hirschberg (Schlesien), died 21 Jun 1897 in Cunnersdorf nr. Hirschberg. 
+**Abbreviated name**: *Fiek*
 
 #### Herbarium and types
 

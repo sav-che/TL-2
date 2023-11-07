@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103835#page/156/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33260134) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Düggeli, Max (1878-1946), Swiss botanist and bacteriologist, born 29 Jul 1878 Luzern, Dr. and "Dozent", 1907-1946 as professor of "Landwirtschaftliche Bakteriologie", died 14 Aug 1946 at Zürich. (*Düggeli*).
+Düggeli, Max (1878-1946), Swiss botanist and bacteriologist, born 29 Jul 1878 Luzern, Dr. and "Dozent", 1907-1946 as professor of "Landwirtschaftliche Bakteriologie", died 14 Aug 1946 at Zürich. 
+**Abbreviated name**: *Düggeli*
 
 #### Herbarium and types
 

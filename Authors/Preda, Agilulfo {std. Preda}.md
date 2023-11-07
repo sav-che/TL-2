@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103624#page/399/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33189856) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Preda, Agilulfo (1870-1941), Italian botanist; teacher at the Liceo di Teramo of Pisa; director of the botanical garden of Siena 1916-1920. (*Preda*).
+Preda, Agilulfo (1870-1941), Italian botanist; teacher at the Liceo di Teramo of Pisa; director of the botanical garden of Siena 1916-1920. 
+**Abbreviated name**: *Preda*
 
 #### Herbarium and types
 

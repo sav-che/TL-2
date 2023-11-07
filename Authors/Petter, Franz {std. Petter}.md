@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103624#page/225/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33189682) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petter, Franz (1798-1853), Austrian botanist; from 1823 high school teacher (German language) at Spalato (Central Dalmatia). (*Petter*).
+Petter, Franz (1798-1853), Austrian botanist; from 1823 high school teacher (German language) at Spalato (Central Dalmatia). 
+**Abbreviated name**: *Petter*
 
 #### Herbarium and types
 

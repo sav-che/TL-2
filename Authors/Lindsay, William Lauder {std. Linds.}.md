@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/104137#page/79/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33355150) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindsay, William Lauder (1829-1880), Scottish lichenologist and physician; MD Edinburgh 1852; at Murray's Royal Asylum, Perth 1854-1879; collected in Iceland and New Zealand. (*Linds.*).
+Lindsay, William Lauder (1829-1880), Scottish lichenologist and physician; MD Edinburgh 1852; at Murray's Royal Asylum, Perth 1854-1879; collected in Iceland and New Zealand. 
+**Abbreviated name**: *Linds.*
 
 #### Herbarium and types
 

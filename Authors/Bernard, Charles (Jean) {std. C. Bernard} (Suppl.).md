@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103859#page/115/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33265302) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernard, Charles Jean {std. C. Bernard}|first entry]] for this author
 
 ### Author
 
-\* Bernard, Charles \[Jean\] (1876-1967), Swiss botanist, studied biology at the University of Geneva, Dr. phil. 1903, employed at the herbaria at Geneva (1897-1902) and Berlin, custodian at the Leiden Rijksherbarium 1903-1904, chief of the Treub Laboratory at Buitenzorg (Bogor, Java) 1906, director of the Buitenzorg Tea Experiment Station 1907-1928, director of the Department of Agriculture of the Dutch East Indies 1928-1933; from 1933 in retirement in Switzerland 1933-1945; founder of IUCN 1948, ultimately in Amsterdam. (*C. Bernard*).
+\* Bernard, Charles \[Jean\] (1876-1967), Swiss botanist, studied biology at the University of Geneva, Dr. phil. 1903, employed at the herbaria at Geneva (1897-1902) and Berlin, custodian at the Leiden Rijksherbarium 1903-1904, chief of the Treub Laboratory at Buitenzorg (Bogor, Java) 1906, director of the Buitenzorg Tea Experiment Station 1907-1928, director of the Department of Agriculture of the Dutch East Indies 1928-1933; from 1933 in retirement in Switzerland 1933-1945; founder of IUCN 1948, ultimately in Amsterdam. 
+**Abbreviated name**: *C. Bernard*
 
 #### Herbarium and types
 

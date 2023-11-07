@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/item/104137#page/678/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33355749) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murbeck, Svante Samuel (1859-1946), Swedish botanist; Dr. phil. Lund 1891; lecturer in botany at Lund 1891-1892; curator at Riksmuseum Stockholm 1892-1893, teacher at Alnarps agricultural College 1897-1902; professor of botany at Lund 1902-1924; discovered parthenogenesis in *Alchemilla*; botanical explorer of the Mediterranean, specialist on *Verbascum*. (*Murb.*).
+Murbeck, Svante Samuel (1859-1946), Swedish botanist; Dr. phil. Lund 1891; lecturer in botany at Lund 1891-1892; curator at Riksmuseum Stockholm 1892-1893, teacher at Alnarps agricultural College 1897-1902; professor of botany at Lund 1902-1924; discovered parthenogenesis in *Alchemilla*; botanical explorer of the Mediterranean, specialist on *Verbascum*. 
+**Abbreviated name**: *Murb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/item/103250#page/597/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33066877) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zigno, Achille de (1813-1892), Italian private palaeobotanist of ample means mostly residing at or near Padova. (*Zigno*).
+Zigno, Achille de (1813-1892), Italian private palaeobotanist of ample means mostly residing at or near Padova. 
+**Abbreviated name**: *Zigno*
 
 #### Herbarium and types
 

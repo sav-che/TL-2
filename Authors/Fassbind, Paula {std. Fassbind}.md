@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103834#page/81/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33259563) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fassbind, Paula (1903-x), Swiss botanist, born 2 Mai 1903 in Brunnen (Kt. Schwyz), attended primary and secondary schools in Brunnen, "Minerva" inst., Zürich 1923-1925 and the Univ. of Zürich 1925-1930 where she received her Ph.D. (1931). (*Fassbind*).
+Fassbind, Paula (1903-x), Swiss botanist, born 2 Mai 1903 in Brunnen (Kt. Schwyz), attended primary and secondary schools in Brunnen, "Minerva" inst., Zürich 1923-1925 and the Univ. of Zürich 1925-1930 where she received her Ph.D. (1931). 
+**Abbreviated name**: *Fassbind*
 
 #### Herbarium and types
 

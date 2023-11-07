@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/104137#page/257/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33355328) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Magne, Jean Herni (1804-1885), French veterinarian and botanist; high school teacher at Lyon 1824-1842, from 1843 teacher at the Veterinary College of Alfort (Seine). (*Magne*).
+Magne, Jean Herni (1804-1885), French veterinarian and botanist; high school teacher at Lyon 1824-1842, from 1843 teacher at the Veterinary College of Alfort (Seine). 
+**Abbreviated name**: *Magne*
 
 #### Herbarium and types
 

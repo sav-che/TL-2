@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103859#page/45/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265232) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beckhaus, Konrad Friedrich Ludwig {std. Beckh.}|first entry]] for this author
 
 ### Author
 
-\* Beckhaus, Konrad (also "Conrad") Friedrich Ludwig (1821-1890), German (Westfalen) clergyman and botanist, studied natural sciences and theology at Halle, assistant preacher in Höxter 1847, priest ib. 1851, "Superintendent" ib. 1857. (*Beckh.*).
+\* Beckhaus, Konrad (also "Conrad") Friedrich Ludwig (1821-1890), German (Westfalen) clergyman and botanist, studied natural sciences and theology at Halle, assistant preacher in Höxter 1847, priest ib. 1851, "Superintendent" ib. 1857. 
+**Abbreviated name**: *Beckh.*
 
 #### Herbarium and types
 

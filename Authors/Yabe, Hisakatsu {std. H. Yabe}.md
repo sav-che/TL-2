@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/item/103250#page/544/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33066824) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Yabe, Hisakatsu (1878-1969), Japanese geologist and paleontologist; Grad. Tokyo Univ. 1901; at Graduate School Tokyo Imperial University 1901-1906; instructor of geological sciences ib. 1906-1908; studied in Germany, Australia and America 1906-1912; professor of geology at Tôhuku Imperial University 1911-1939. (*H. Yabe*).
+Yabe, Hisakatsu (1878-1969), Japanese geologist and paleontologist; Grad. Tokyo Univ. 1901; at Graduate School Tokyo Imperial University 1901-1906; instructor of geological sciences ib. 1906-1908; studied in Germany, Australia and America 1906-1912; professor of geology at Tôhuku Imperial University 1911-1939. 
+**Abbreviated name**: *H. Yabe*
 
 #### Herbarium and types
 

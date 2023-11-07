@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/104137#page/193/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33355264) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lowe, Ephraim Noble (1864-1933), American geologist and botanist; director of the State Geological Survey of Mississippi (*E. N. Lowe*).
+Lowe, Ephraim Noble (1864-1933), American geologist and botanist; director of the State Geological Survey of Mississippi 
+**Abbreviated name**: *E. N. Lowe*
 
 #### Herbarium and types
 

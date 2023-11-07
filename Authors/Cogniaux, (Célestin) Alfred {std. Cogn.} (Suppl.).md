@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103860#page/258/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33265925) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cogniaux, Célestin Alfred {std. Cogn.}|first entry]] for this author
 
 ### Author
 
-\* Cogniaux, \[Célestin\] Alfred (1841-1916), Belgian botanist, born at Robechies, studied at the École normale de Nivelles, "professeur de l'Enseignement moyen inférieur" 1861, "professeur-agrégé de l'Enseignement moyen du degré supérieur" 1862, teacher at a seconddary school at Visé 1862-1864, id. at Philippeville 1865-1867, at Braine-le-Comte 1868-1869, at Maseyck, and at Bruxelles (Jardin botanique) 1872-1880, turned again to teaching 1880-1901. (*Cogn.*).
+\* Cogniaux, \[Célestin\] Alfred (1841-1916), Belgian botanist, born at Robechies, studied at the École normale de Nivelles, "professeur de l'Enseignement moyen inférieur" 1861, "professeur-agrégé de l'Enseignement moyen du degré supérieur" 1862, teacher at a seconddary school at Visé 1862-1864, id. at Philippeville 1865-1867, at Braine-le-Comte 1868-1869, at Maseyck, and at Bruxelles (Jardin botanique) 1872-1880, turned again to teaching 1880-1901. 
+**Abbreviated name**: *Cogn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103250#page/89/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33066369) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waldenburg, Ilse (1908-x), German (Berlin) botanist; studied natural sciences at Berlin and München; Dr. phil. Berlin 1934. (*Waldenburg*).
+Waldenburg, Ilse (1908-x), German (Berlin) botanist; studied natural sciences at Berlin and München; Dr. phil. Berlin 1934. 
+**Abbreviated name**: *Waldenburg*
 
 #### Herbarium and types
 

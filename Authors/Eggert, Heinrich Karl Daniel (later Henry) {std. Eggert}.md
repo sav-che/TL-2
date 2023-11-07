@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103835#page/278/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33260256) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eggert, Heinrich Karl Daniel (later known as Henry) (1841-1904), German(-American) botanist, born 3 Mar 1841 at Osterwieck, Prussia, educated at a seminary in Halberstadt, became teacher in a public school in Magdeburg, collected plants a.o. in the Harz (material for sale), came to America in 1873 first to New York, later lived in St. Louis, studied the local flora collecting many plants (for sale, Herbarium Americanum), carrying papers as a business for about 20 years, became the first vice-president of the Engelmann Botanical Club, died 18 Apr 1904 at East St. Louis. (*Eggert*).
+Eggert, Heinrich Karl Daniel (later known as Henry) (1841-1904), German(-American) botanist, born 3 Mar 1841 at Osterwieck, Prussia, educated at a seminary in Halberstadt, became teacher in a public school in Magdeburg, collected plants a.o. in the Harz (material for sale), came to America in 1873 first to New York, later lived in St. Louis, studied the local flora collecting many plants (for sale, Herbarium Americanum), carrying papers as a business for about 20 years, became the first vice-president of the Engelmann Botanical Club, died 18 Apr 1904 at East St. Louis. 
+**Abbreviated name**: *Eggert*
 
 #### Herbarium and types
 

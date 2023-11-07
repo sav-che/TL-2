@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/item/103253#page/613/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koch, Erwin (fl. 1895), German botanist; Dr. phil. Erlangen 1895. (*E. Koch*).
+Koch, Erwin (fl. 1895), German botanist; Dr. phil. Erlangen 1895. 
+**Abbreviated name**: *E. Koch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/item/104137#page/391/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33355462) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maublanc, André (1880-1958), French mycologist; from 1902-1912 at the Station de Pathologie végétale; in Brazil 1912-1913; in World-war I 1914-1919; from 1919-1948 at the Institut national agronomique, nr. Paris. (*Maubl.*).
+Maublanc, André (1880-1958), French mycologist; from 1902-1912 at the Station de Pathologie végétale; in Brazil 1912-1913; in World-war I 1914-1919; from 1919-1948 at the Institut national agronomique, nr. Paris. 
+**Abbreviated name**: *Maubl.*
 
 #### Herbarium and types
 

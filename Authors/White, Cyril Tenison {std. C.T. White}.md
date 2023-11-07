@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103250#page/307/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33066587) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, Cyril Tenison (1890-1950), Australian botanist; maternal grandson of Frederick Manson Bailey; assistant to his grandfather 1905; Government Botanist Queensland 1917-1950. (*C. T. White*).
+White, Cyril Tenison (1890-1950), Australian botanist; maternal grandson of Frederick Manson Bailey; assistant to his grandfather 1905; Government Botanist Queensland 1917-1950. 
+**Abbreviated name**: *C. T. White*
 
 #### Herbarium and types
 

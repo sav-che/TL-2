@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/103683#page/700/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33212732) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Veitch, James Herbert (1868-1907), British horticulturist and collector; son of John Gould Veitch (1839-1870), worked in the Chelsea nursery of the Veitch family from 1885; travelled around the world 1891-1893; managing director of James Veitch & Sons Ltd. 1898; sent E.H. Wilson to Tibet and China for plant collecting. (*J.H. Veitch*).
+Veitch, James Herbert (1868-1907), British horticulturist and collector; son of John Gould Veitch (1839-1870), worked in the Chelsea nursery of the Veitch family from 1885; travelled around the world 1891-1893; managing director of James Veitch & Sons Ltd. 1898; sent E.H. Wilson to Tibet and China for plant collecting. 
+**Abbreviated name**: *J.H. Veitch*
 
 #### Herbarium and types
 

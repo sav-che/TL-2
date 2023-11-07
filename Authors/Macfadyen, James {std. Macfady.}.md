@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/104137#page/234/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macfadyen, James (1798-1850), Scottish botanist and physician in Jamaica from 1826 (*Macfady.*).
+Macfadyen, James (1798-1850), Scottish botanist and physician in Jamaica from 1826 
+**Abbreviated name**: *Macfady.*
 
 #### Herbarium and types
 

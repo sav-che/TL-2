@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/item/103253#page/683/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33068899) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kováts von Szent-Lélek, Julius (1815-1873), Hungarian actuo- and palaeobotanist at the Hungarian national Museum at Pest from 1850. (*Kováts*).
+Kováts von Szent-Lélek, Julius (1815-1873), Hungarian actuo- and palaeobotanist at the Hungarian national Museum at Pest from 1850. 
+**Abbreviated name**: *Kováts*
 
 #### Herbarium and types
 

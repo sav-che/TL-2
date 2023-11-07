@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/item/103624#page/651/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33190108) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Regel, \[Johann\] Albert von (1845-1908), Swiss-born Russian physician and botanist at St. Petersburg, explorer of Turkestan and Eastern Asia 1876-1888; oldest son of E.A. von Regel. (*A. Regel*).
+Regel, \[Johann\] Albert von (1845-1908), Swiss-born Russian physician and botanist at St. Petersburg, explorer of Turkestan and Eastern Asia 1876-1888; oldest son of E.A. von Regel. 
+**Abbreviated name**: *A. Regel*
 
 #### Herbarium and types
 

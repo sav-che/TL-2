@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/item/103624#page/594/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33190051) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rapin, Daniel (1799-1882), Swiss botanist and pharmacist; in pharmacies at Fribourg, Strassbourg, Paris, Genève (pharm. Carouge), at Payerne 1832-1838, at Rolle 1838-1853; in retirement at Yverdon 1853-1857, from 1857 at Plainpalais (Genève). (*Rapin*).
+Rapin, Daniel (1799-1882), Swiss botanist and pharmacist; in pharmacies at Fribourg, Strassbourg, Paris, Genève (pharm. Carouge), at Payerne 1832-1838, at Rolle 1838-1853; in retirement at Yverdon 1853-1857, from 1857 at Plainpalais (Genève). 
+**Abbreviated name**: *Rapin*
 
 #### Herbarium and types
 

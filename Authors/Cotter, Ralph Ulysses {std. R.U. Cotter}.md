@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/item/103860#page/417/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33266084) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cotter, Ralph Ulysses (1896-1964), American plant pathologist at U.S. Dept. Agriculture, University farm, St. Paul 1, Minn., born 18 Sep 1896 at Lehi, Utah, B.S. Utah College 1918, M.S.Minnesota 1924, Ph.D. (plant pathology) 1929, associate pathologist 1930-1935, bureau entom. plant quarantine 1935-1940, pathologist 1940-x, Agr. Research serv. 1953-x. (*R.U. Cotter*).
+Cotter, Ralph Ulysses (1896-1964), American plant pathologist at U.S. Dept. Agriculture, University farm, St. Paul 1, Minn., born 18 Sep 1896 at Lehi, Utah, B.S. Utah College 1918, M.S.Minnesota 1924, Ph.D. (plant pathology) 1929, associate pathologist 1930-1935, bureau entom. plant quarantine 1935-1940, pathologist 1940-x, Agr. Research serv. 1953-x. 
+**Abbreviated name**: *R.U. Cotter*
 
 #### Herbarium and types
 

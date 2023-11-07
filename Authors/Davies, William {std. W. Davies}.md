@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/item/103833#page/111/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33259145) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davies, William (1899-1968), British agronomist, born 20 Apr 1899 at London, visited Sloane School, Chelsea, B.Sc. Wales Univ. Coll. 1923, MSc 1925, D.Sc. 1945, at Welsh Plant Breeding Station 1923-1928, plant geneticist at Palmerston North, New Zealand 1929-1931, Head of grassland agronomy, Wales 1933-1938, head of grassland survey of England 1938-1940, director grassland research institute, Hurley 1949-1964, died 28 Jul 1968 at Henley-on-Thames. (*W. Davies*).
+Davies, William (1899-1968), British agronomist, born 20 Apr 1899 at London, visited Sloane School, Chelsea, B.Sc. Wales Univ. Coll. 1923, MSc 1925, D.Sc. 1945, at Welsh Plant Breeding Station 1923-1928, plant geneticist at Palmerston North, New Zealand 1929-1931, Head of grassland agronomy, Wales 1933-1938, head of grassland survey of England 1938-1940, director grassland research institute, Hurley 1949-1964, died 28 Jul 1968 at Henley-on-Thames. 
+**Abbreviated name**: *W. Davies*
 
 #### Herbarium and types
 

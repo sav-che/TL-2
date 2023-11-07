@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103859#page/11/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265198) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beach, Walter Spurgeon (1890-?), American botanist, born in Brownton, Minnesota, studied at the University of Minnesota, B.S. 1914, id. at Michigan Agricultural College, M.S. 1915, Dr. phil. Bot. in the graduate school of the University of Illinois 1918, instructor in plant pathology, Pennsylvania State 1918-1919, asst. professor ib. 1919-1923, assoc. professor 1923-1948, full professor 1948-1955, emeritus professor from 1955. (*Beach*).
+Beach, Walter Spurgeon (1890-?), American botanist, born in Brownton, Minnesota, studied at the University of Minnesota, B.S. 1914, id. at Michigan Agricultural College, M.S. 1915, Dr. phil. Bot. in the graduate school of the University of Illinois 1918, instructor in plant pathology, Pennsylvania State 1918-1919, asst. professor ib. 1919-1923, assoc. professor 1923-1948, full professor 1948-1955, emeritus professor from 1955. 
+**Abbreviated name**: *Beach*
 
 #### Herbarium and types
 

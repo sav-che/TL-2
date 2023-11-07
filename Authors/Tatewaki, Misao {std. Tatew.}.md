@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103683#page/187/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33212219) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tatewaki, Misao (1899-x), Japanese botanist; Dr. phil. Sapporo 1924; connected with Sapporo University; lecturer on forest botany, later professor of botany at the Botanical Institute, Faculty of Agiculture and director of the botanical garden. (*Tatew.*).
+Tatewaki, Misao (1899-x), Japanese botanist; Dr. phil. Sapporo 1924; connected with Sapporo University; lecturer on forest botany, later professor of botany at the Botanical Institute, Faculty of Agiculture and director of the botanical garden. 
+**Abbreviated name**: *Tatew.*
 
 #### Herbarium and types
 

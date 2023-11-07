@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103832#page/177/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33258643) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Geheeb, Adalbert {std. Geh.}|first entry]] for this author
 
 ### Author
 
-\* Geheeb, Adalbert \[Adelbert\] (1842-1909), German bryologist, born 21 Mar 1842 in Geisa (Thüringen), student of Ferdinand Senft at Eisenach, began collecting plants in 1856, first publication in 1861 (19 years old), inherited his father's pharmacy in Geisa 1867, after serious illness he sold the drugstore in 1897 and moved to Breisgau (Baden), died 13 Sep 1909 in Königsfelden (nr. Brugg, Aargau), Switzerland. (*Geheeb*).
+\* Geheeb, Adalbert \[Adelbert\] (1842-1909), German bryologist, born 21 Mar 1842 in Geisa (Thüringen), student of Ferdinand Senft at Eisenach, began collecting plants in 1856, first publication in 1861 (19 years old), inherited his father's pharmacy in Geisa 1867, after serious illness he sold the drugstore in 1897 and moved to Breisgau (Baden), died 13 Sep 1909 in Königsfelden (nr. Brugg, Aargau), Switzerland. 
+**Abbreviated name**: *Geheeb*
 
 #### Note
 

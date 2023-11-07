@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/104137#page/307/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marck, Wilhelm von der (1814-1900), German pharmacist and naturalist at Hamm; from 1866 living as "Privatgelehrter". (*Marck*).
+Marck, Wilhelm von der (1814-1900), German pharmacist and naturalist at Hamm; from 1866 living as "Privatgelehrter". 
+**Abbreviated name**: *Marck*
 
 #### Herbarium and types
 

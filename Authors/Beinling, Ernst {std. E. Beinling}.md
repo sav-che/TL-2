@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103859#page/69/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33265256) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beinling, Ernst (1853-?), German (Schlesien) botanist, educated at the Santa Maria Magdalena Gymnasium Breslau, worked two years at the "Königliches pomologisches Institut" in Proskau, and studied subsequently at the University of Breslau, assistant and teacher at the agricultural institute Francisco-Josephinum and the garden school Elisabethinum in Mödling nr. Vienna 1873-1875, studied at the University of Leipzig 1875-1878, Dr. phil. ib. 1878, student of F. Cohn and H.R. Goeppert. (*E. Beinling*).
+Beinling, Ernst (1853-?), German (Schlesien) botanist, educated at the Santa Maria Magdalena Gymnasium Breslau, worked two years at the "Königliches pomologisches Institut" in Proskau, and studied subsequently at the University of Breslau, assistant and teacher at the agricultural institute Francisco-Josephinum and the garden school Elisabethinum in Mödling nr. Vienna 1873-1875, studied at the University of Leipzig 1875-1878, Dr. phil. ib. 1878, student of F. Cohn and H.R. Goeppert. 
+**Abbreviated name**: *E. Beinling*
 
 #### Herbarium and types
 

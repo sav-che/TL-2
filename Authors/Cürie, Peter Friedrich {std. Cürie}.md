@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/item/103860#page/502/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33266169) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cürie, Peter Friedrich (1777-1855), Swiss born, became Moravian clergyman, mainly active in middle and northern Germany, bishop 1825-1855, friend of Schweinitz, d. Berthelsdorf-bei-Herrnhut in Sachsen. (*Cürie*).
+Cürie, Peter Friedrich (1777-1855), Swiss born, became Moravian clergyman, mainly active in middle and northern Germany, bishop 1825-1855, friend of Schweinitz, d. Berthelsdorf-bei-Herrnhut in Sachsen. 
+**Abbreviated name**: *Cürie*
 
 #### Herbarium and types
 

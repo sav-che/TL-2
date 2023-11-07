@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/item/103624#page/1063/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saelan, \[Anders\] Thiodolf (1834-1921), Finnish physician and botanist; Dr. med. Helsinki 1865; amanuensis at the Botanical Museum ib. 1859-1866; practicing physician 1861-1865; physician (1865) and head-physician at Lappvik hospital 1868-1904; professor's title 1877; Dr. phil. h.c. 1907. (*Saelan*).
+Saelan, \[Anders\] Thiodolf (1834-1921), Finnish physician and botanist; Dr. med. Helsinki 1865; amanuensis at the Botanical Museum ib. 1859-1866; practicing physician 1861-1865; physician (1865) and head-physician at Lappvik hospital 1868-1904; professor's title 1877; Dr. phil. h.c. 1907. 
+**Abbreviated name**: *Saelan*
 
 #### Herbarium and types
 

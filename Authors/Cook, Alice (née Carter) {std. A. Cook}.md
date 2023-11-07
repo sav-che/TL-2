@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103860#page/329/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33265996) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cook, Alice (née Carter) (1868-x), American botanist, born at New York City 8 Apr 1868, married 11 Nov 1892, Huntington, N.Y., Orator Fuller Cook. (*A. Cook*).
+Cook, Alice (née Carter) (1868-x), American botanist, born at New York City 8 Apr 1868, married 11 Nov 1892, Huntington, N.Y., Orator Fuller Cook. 
+**Abbreviated name**: *A. Cook*
 
 #### Herbarium and types
 

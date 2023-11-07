@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103250#page/478/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33066758) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wohltmann, Ferdinand \[Friedrich Wilhelm\] (1857-1919), German (Hannover) botanist and colonial traveller; studied agriculture, natural sciences, law and economy; Dr. phil. Halle 1886; travelled in Europe and W. Africa 1886-1888; for the "Hamburger Kolonialisationsverein" to Dona Franziska in Santa Catharina, Brazil ca. 1890-1891; habil. Halle 1891; e.o. professor at Breslau University 1892-1894; travelled in N. America 1894; professor at Bonn-Poppelsdorf 1894-1905; travelled in Cameroon 1896, German East Africa 1897-1898, Togo and Cameroon 1899-1901, Samoa 1903; from 1905-1917 at the Agricultural Institute, Halle, from 1909 as director. (*Wohltmann*).
+Wohltmann, Ferdinand \[Friedrich Wilhelm\] (1857-1919), German (Hannover) botanist and colonial traveller; studied agriculture, natural sciences, law and economy; Dr. phil. Halle 1886; travelled in Europe and W. Africa 1886-1888; for the "Hamburger Kolonialisationsverein" to Dona Franziska in Santa Catharina, Brazil ca. 1890-1891; habil. Halle 1891; e.o. professor at Breslau University 1892-1894; travelled in N. America 1894; professor at Bonn-Poppelsdorf 1894-1905; travelled in Cameroon 1896, German East Africa 1897-1898, Togo and Cameroon 1899-1901, Samoa 1903; from 1905-1917 at the Agricultural Institute, Halle, from 1909 as director. 
+**Abbreviated name**: *Wohltmann*
 
 #### Herbarium and types
 

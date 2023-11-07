@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/item/104137#page/619/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33355690) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Motelay, Léonce (1830-1917), French shopkeeper and botanist at Bordeaux; active in the Société Linnéenne de Bordeaux. (*Motelay*).
+Motelay, Léonce (1830-1917), French shopkeeper and botanist at Bordeaux; active in the Société Linnéenne de Bordeaux. 
+**Abbreviated name**: *Motelay*
 
 #### Herbarium and types
 

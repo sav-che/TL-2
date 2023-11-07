@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103859#page/106/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33265293) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergsma, Cornelis Adriaan (1798-1859), Dutch (Friesian) botanist, studied at the University of Franeker (Friesland) 1817-1821, id. at the University of Utrecht 1821-1825, Dr. med. Utrecht 1825, practising physician at Hoorn 1825-1826, extraordinary professor of chemistry at the University of Gent 1826-1830, Dr. phil. Gent 1827, transferred to Utrecht 1831 as extraordinary professor of dietetics 1831-1855, succeeding J. Kops as professor of botany and pharmacy and agronomy 1835-1859. (*Bergsma*).
+Bergsma, Cornelis Adriaan (1798-1859), Dutch (Friesian) botanist, studied at the University of Franeker (Friesland) 1817-1821, id. at the University of Utrecht 1821-1825, Dr. med. Utrecht 1825, practising physician at Hoorn 1825-1826, extraordinary professor of chemistry at the University of Gent 1826-1830, Dr. phil. Gent 1827, transferred to Utrecht 1831 as extraordinary professor of dietetics 1831-1855, succeeding J. Kops as professor of botany and pharmacy and agronomy 1835-1859. 
+**Abbreviated name**: *Bergsma*
 
 #### Herbarium and types
 

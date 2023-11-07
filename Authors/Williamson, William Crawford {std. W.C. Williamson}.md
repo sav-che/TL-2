@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/item/103250#page/388/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33066668) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williamson, William Crawford (1816-1895), British surgeon, naturalist and palaeobotanist; curator Museum Manchester Natural History Society 1835-1838; studied medicine at University College, London 1839-1840; MRCS 1840; surgeon at a Manchester dispensary 1841-1868; professor of biology and geology, Owens College, Manchester from 1851, professor of botany 1880-1892. (*W.C. Williamson*).
+Williamson, William Crawford (1816-1895), British surgeon, naturalist and palaeobotanist; curator Museum Manchester Natural History Society 1835-1838; studied medicine at University College, London 1839-1840; MRCS 1840; surgeon at a Manchester dispensary 1841-1868; professor of biology and geology, Owens College, Manchester from 1851, professor of botany 1880-1892. 
+**Abbreviated name**: *W.C. Williamson*
 
 #### Herbarium and types
 

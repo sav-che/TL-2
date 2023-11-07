@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103253#page/131/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33068347) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haworth, Adrian Hardy (1768-1833), British gardener and entomologist, originally at Cottingham nr. Hull, in 1792-1812 at Little Chelsea, London, from 1812-1817 again at Cottingham; from 1817 or 1818 again at Chelsea; died of cholera; leading authority on succulent plants. (*Haw.*).
+Haworth, Adrian Hardy (1768-1833), British gardener and entomologist, originally at Cottingham nr. Hull, in 1792-1812 at Little Chelsea, London, from 1812-1817 again at Cottingham; from 1817 or 1818 again at Chelsea; died of cholera; leading authority on succulent plants. 
+**Abbreviated name**: *Haw.*
 
 #### Herbarium and types
 

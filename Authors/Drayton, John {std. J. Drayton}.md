@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103835#page/100/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33260078) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drayton, John (1767-1822), American botanist, born 22 Jun 1767 at Charleston, South Carolina, studied law, admitted to the bar at twenty-one, practicing as an attorney in Charleston until 1794, member of the state constitutional convention in 1790, for more than thirty years mainly in public service, lieutenant-governor 1800-1802, governor 1803-1808, state senator 1809-1810, again until 1822 judge of the U.S. court S. Carolina, died 27 Nov 1822 at Charleston. (*J. Drayton*).
+Drayton, John (1767-1822), American botanist, born 22 Jun 1767 at Charleston, South Carolina, studied law, admitted to the bar at twenty-one, practicing as an attorney in Charleston until 1794, member of the state constitutional convention in 1790, for more than thirty years mainly in public service, lieutenant-governor 1800-1802, governor 1803-1808, state senator 1809-1810, again until 1822 judge of the U.S. court S. Carolina, died 27 Nov 1822 at Charleston. 
+**Abbreviated name**: *J. Drayton*
 
 #### Herbarium and types
 

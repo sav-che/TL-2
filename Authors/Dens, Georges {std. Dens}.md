@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103833#page/221/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33259255) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dens, Georges (x-1912), Belgian dr. law, "avocat général à Ixelles", magistrat of Nivelles. (*Dens*).
+Dens, Georges (x-1912), Belgian dr. law, "avocat général à Ixelles", magistrat of Nivelles. 
+**Abbreviated name**: *Dens*
 
 #### Herbarium and types
 

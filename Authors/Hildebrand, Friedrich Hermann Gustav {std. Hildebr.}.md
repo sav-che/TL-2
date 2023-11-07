@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103253#page/221/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33068437) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hildebrand, Friedrich Hermann Gustav (1835-1915), German botanist; studied with Caspary and A. Braun, Dr. phil. Berlin 1858; to Bonn 1859 as Privatdocent; to Freiburg im Breisgau (1868-1907) as successor to Julius Sachs. (*Hildebr.*).
+Hildebrand, Friedrich Hermann Gustav (1835-1915), German botanist; studied with Caspary and A. Braun, Dr. phil. Berlin 1858; to Bonn 1859 as Privatdocent; to Freiburg im Breisgau (1868-1907) as successor to Julius Sachs. 
+**Abbreviated name**: *Hildebr.*
 
 #### Herbarium and types
 

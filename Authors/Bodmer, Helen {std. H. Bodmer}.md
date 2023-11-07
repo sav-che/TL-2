@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103859#page/253/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bodmer, Helen (1897-x), German born botanist, with her family in Zürich from 1902, educated at various schools in Zürich, studied natural sciences at the Eidgenössische Technische Hochschule, Zürich, 1917-1919, teacher at Landeserziehungsheim Gaienhofen, Baden 1919-1920, studied with Chodat in Genève 1920-1921, final teacher's examination at the Technische Hochschule 1922, assistant with Jaccard at the plant physiology institute at the Technische Hochschule, Dr. nat. Sci. Zürich 1927, then living in London, England. (*H. Bodmer*).
+Bodmer, Helen (1897-x), German born botanist, with her family in Zürich from 1902, educated at various schools in Zürich, studied natural sciences at the Eidgenössische Technische Hochschule, Zürich, 1917-1919, teacher at Landeserziehungsheim Gaienhofen, Baden 1919-1920, studied with Chodat in Genève 1920-1921, final teacher's examination at the Technische Hochschule 1922, assistant with Jaccard at the plant physiology institute at the Technische Hochschule, Dr. nat. Sci. Zürich 1927, then living in London, England. 
+**Abbreviated name**: *H. Bodmer*
 
 #### Herbarium and types
 

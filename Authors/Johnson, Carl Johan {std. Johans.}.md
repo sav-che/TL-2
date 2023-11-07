@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/item/103253#page/472/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33068688) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnson, Carl Johan (1858-1888), Swedish mycologist; studied at Uppsala (1883 fil. kand., 1886 fil lie). (*Johans.*).
+Johnson, Carl Johan (1858-1888), Swedish mycologist; studied at Uppsala (1883 fil. kand., 1886 fil lie). 
+**Abbreviated name**: *Johans.*
 
 #### Herbarium and types
 

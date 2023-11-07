@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103683#page/38/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33212066) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Storrie, John (1843-1901), British botanist; employed on the Cardiff Western mail; curator Cardiff Museum 1877-1892. (*Storrie*).
+Storrie, John (1843-1901), British botanist; employed on the Cardiff Western mail; curator Cardiff Museum 1877-1892. 
+**Abbreviated name**: *Storrie*
 
 #### Herbarium and types
 

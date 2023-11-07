@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/item/104077#page/884/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33334009) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stefureac, Traian I. (1908-x), Rumanian bryologist; studied and worked at the Faculty of Sciences Cernauti; from 1940 with the faculty of natural sciences of the University of Bucarest (Botanical Institute of the University). (*Stefur.*).
+Stefureac, Traian I. (1908-x), Rumanian bryologist; studied and worked at the Faculty of Sciences Cernauti; from 1940 with the faculty of natural sciences of the University of Bucarest (Botanical Institute of the University). 
+**Abbreviated name**: *Stefur.*
 
 #### Herbarium and types
 

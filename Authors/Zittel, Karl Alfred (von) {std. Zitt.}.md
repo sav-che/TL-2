@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/item/103250#page/606/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33066886) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zittel, Karl Alfred \[von\] (1839-1904), German (Baden) palaeontologist; studied at the University of Heidelberg 1857-1861; at Paris 1861-1862; volunteer with the Geological Survey of Austria 1863; habil. Univ. Vienna 1863; professor of mineralogy at Karlsruhe 1863-1866; professor of palaeontology at München 1866, from 1890 also keeper of the Bavarian State Geological Collection. (*Zitt.*).
+Zittel, Karl Alfred \[von\] (1839-1904), German (Baden) palaeontologist; studied at the University of Heidelberg 1857-1861; at Paris 1861-1862; volunteer with the Geological Survey of Austria 1863; habil. Univ. Vienna 1863; professor of mineralogy at Karlsruhe 1863-1866; professor of palaeontology at München 1866, from 1890 also keeper of the Bavarian State Geological Collection. 
+**Abbreviated name**: *Zitt.*
 
 #### Herbarium and types
 

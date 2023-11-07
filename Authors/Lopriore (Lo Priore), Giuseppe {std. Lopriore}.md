@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/104137#page/171/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lopriore (Lo Priore), Giuseppe (1865-1928), Italian botanist; Dr. agr. Portici 1887; assistant at Portici but often working in Berlin 1887-1895; professor of botany at the enological institute of Catania 1895-1909; director of the agricultural experiment station at Modena 1909-1925; professor of botany at the agricultural university of Portici 1925-1928. (*Lopriore*).
+Lopriore (Lo Priore), Giuseppe (1865-1928), Italian botanist; Dr. agr. Portici 1887; assistant at Portici but often working in Berlin 1887-1895; professor of botany at the enological institute of Catania 1895-1909; director of the agricultural experiment station at Modena 1909-1925; professor of botany at the agricultural university of Portici 1925-1928. 
+**Abbreviated name**: *Lopriore*
 
 #### Herbarium and types
 

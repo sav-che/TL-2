@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/104077#page/430/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33333555) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwägrichen, Christian Friedrich (1775-1853), German (Saxonian) botanist; Dr. med. Leipzig 1799; extra-ordinary professor of natural history at the University of Leipzig 1802, id. of botany 1806, director of the botanical garden 1806-1837; regular professor 1815-1852. (*Schwägr.*).
+Schwägrichen, Christian Friedrich (1775-1853), German (Saxonian) botanist; Dr. med. Leipzig 1799; extra-ordinary professor of natural history at the University of Leipzig 1802, id. of botany 1806, director of the botanical garden 1806-1837; regular professor 1815-1852. 
+**Abbreviated name**: *Schwägr.*
 
 #### Herbarium and types
 

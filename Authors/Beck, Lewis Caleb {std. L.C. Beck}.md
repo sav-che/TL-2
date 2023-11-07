@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103414#page/208/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33120291) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beck, Louis Caleb {std. L.C. Beck} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beck, Lewis Caleb (1798-1853), American physician and naturalist at Albany, New York. (*L. C. Beck*).
+Beck, Lewis Caleb (1798-1853), American physician and naturalist at Albany, New York. 
+**Abbreviated name**: *L. C. Beck*
 
 #### Herbarium and types
 

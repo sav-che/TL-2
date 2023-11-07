@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103414#page/140/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33120223) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bailey, Frederick Manson {std. F.M. Bailey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bailey, Frederick Manson (1827-1915), British born Australian botanist; Colonial Botanist of Queensland. (*F. M. Bailey*).
+Bailey, Frederick Manson (1827-1915), British born Australian botanist; Colonial Botanist of Queensland. 
+**Abbreviated name**: *F. M. Bailey*
 
 #### Herbarium and types
 

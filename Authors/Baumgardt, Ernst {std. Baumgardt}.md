@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103414#page/198/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33120281) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baumgardt, Ernst {std. Baumgardt} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baumgardt, Ernst (fl. 1856), German botanist and teacher at a senior high school at Potsdam. (*Baumgardt*).
+Baumgardt, Ernst (fl. 1856), German botanist and teacher at a senior high school at Potsdam. 
+**Abbreviated name**: *Baumgardt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103624#page/259/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33189716) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phipps, Constantine John, second baron Mulgrave (1744-1792), British captain in the Royal Navy; arctic explorer. (*Phipps*).
+Phipps, Constantine John, second baron Mulgrave (1744-1792), British captain in the Royal Navy; arctic explorer. 
+**Abbreviated name**: *Phipps*
 
 #### Herbarium and types
 

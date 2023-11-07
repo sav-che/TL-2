@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103835#page/96/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33260074) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Draheim, Walter (fl. 1929), German botanist at Königsberg, Preussen. (*Draheim*).
+Draheim, Walter (fl. 1929), German botanist at Königsberg, Preussen. 
+**Abbreviated name**: *Draheim*
 
 #### Herbarium and types
 

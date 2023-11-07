@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103861#page/167/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brumhard, Philipp (1879-?), German, born at Klein-Helmsdorf bei Osterfeld, Thüringen, educated at the "Vorschule" and the "Realgymnasium" at Weimar, studied at the universities of Breslau and Jena, Dr. phil. Breslau 1905. (*Brumh.*).
+Brumhard, Philipp (1879-?), German, born at Klein-Helmsdorf bei Osterfeld, Thüringen, educated at the "Vorschule" and the "Realgymnasium" at Weimar, studied at the universities of Breslau and Jena, Dr. phil. Breslau 1905. 
+**Abbreviated name**: *Brumh.*
 
 #### Herbarium and types
 

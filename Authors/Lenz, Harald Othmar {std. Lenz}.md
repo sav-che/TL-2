@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/item/103253#page/870/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33069086) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lenz, Harald Othmar (1798-1870), German high school teacher and naturalist and historian of science at Thorn (1820-1823), Marienwerder (1823-1824) and from 1824 at Schnepfental, Thüringen. (*Lenz*).
+Lenz, Harald Othmar (1798-1870), German high school teacher and naturalist and historian of science at Thorn (1820-1823), Marienwerder (1823-1824) and from 1824 at Schnepfental, Thüringen. 
+**Abbreviated name**: *Lenz*
 
 #### Herbarium and types
 

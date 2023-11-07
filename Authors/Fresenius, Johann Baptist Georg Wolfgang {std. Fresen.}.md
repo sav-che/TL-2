@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/item/103414#page/923/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33121006) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fresenius, (Johann Baptist) Georg (Wolfgang) {std. Fresen.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fresenius, Johann Baptist Georg Wolfgang (1808-1866), German physician and naturalist in Frankfurt. (*Fresen.*).
+Fresenius, Johann Baptist Georg Wolfgang (1808-1866), German physician and naturalist in Frankfurt. 
+**Abbreviated name**: *Fresen.*
 
 #### Herbarium and types
 

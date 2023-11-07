@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103835#page/79/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33260057) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Douin, Charles Isidore {std. Douin}|first entry]] for this author
 
 ### Author
 
-\* Douin, Charles-Isidore (1858-1944), French botanist (bryologist), born at Bouville (Eure-et-Loir) 28 Feb 1858, on the "École normale du département (Eure-et-Loir)", with "brevet supérieur" 1877, "répétiteur" at the Collège de Dreux, later at Chartres, 1888 "licence ès-sciences naturelles (Lycée Marceau)", died 7 Jun 1944. (*Douin*).
+\* Douin, Charles-Isidore (1858-1944), French botanist (bryologist), born at Bouville (Eure-et-Loir) 28 Feb 1858, on the "École normale du département (Eure-et-Loir)", with "brevet supérieur" 1877, "répétiteur" at the Collège de Dreux, later at Chartres, 1888 "licence ès-sciences naturelles (Lycée Marceau)", died 7 Jun 1944. 
+**Abbreviated name**: *Douin*
 
 #### Herbarium and types
 

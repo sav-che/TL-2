@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/item/103860#page/439/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33266106) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Couverchel, Jean François (fl. 1820-1839), French botanist, probably in Paris. (*Couverchel*).
+Couverchel, Jean François (fl. 1820-1839), French botanist, probably in Paris. 
+**Abbreviated name**: *Couverchel*
 
 #### Herbarium and types
 

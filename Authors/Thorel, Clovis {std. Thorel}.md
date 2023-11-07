@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103683#page/301/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33212333) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thorel, Clovis (1833-1911), French physician, botanist and plant collector; Dr. med. 1861; colonial physician in Indochina 1861; exploring the area 1866-1868; at Paris 1868-1870; Dr. med. Paris 1870; from then on practicing physician in Paris. (*Thorel*).
+Thorel, Clovis (1833-1911), French physician, botanist and plant collector; Dr. med. 1861; colonial physician in Indochina 1861; exploring the area 1866-1868; at Paris 1868-1870; Dr. med. Paris 1870; from then on practicing physician in Paris. 
+**Abbreviated name**: *Thorel*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103861#page/454/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33266751) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Casares-Gil, Antonio {std. Cas.-Gil}|first entry]] for this author
 
 ### Author
 
-\* Casares-Gil, Antonio (1872-1929), Spanish army physician and botanist, born in Galicia, Santiago-de-Compostella, the son of the director of the University, studied medicine and natural sciences, medical officer, took part in the Spanish-American war in Cuba, later stationed at Barcelona and Madrid, Corogne (colonel 1924), médecin-general inspecteur of the medical service in the Spanish north-west 1928. (*Cas.-Gil*).
+\* Casares-Gil, Antonio (1872-1929), Spanish army physician and botanist, born in Galicia, Santiago-de-Compostella, the son of the director of the University, studied medicine and natural sciences, medical officer, took part in the Spanish-American war in Cuba, later stationed at Barcelona and Madrid, Corogne (colonel 1924), médecin-general inspecteur of the medical service in the Spanish north-west 1928. 
+**Abbreviated name**: *Cas.-Gil*
 
 #### Herbarium and types
 

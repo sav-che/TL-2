@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103860#page/461/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33266128) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crawford, Albert Cornelius (1869-1921), American pharmacologist and botanist, born at Baltimore, Md. 10 Jun 1869, M.D. College Phys. Surg. Baltimore 1893, at Hopkins 1888-1890, assistant pharmacologist Detroit 1903, U.S.D.A. 1904-1910, professor of pharmacology at Stanford 1910-1921. (*A.C. Crawford*).
+Crawford, Albert Cornelius (1869-1921), American pharmacologist and botanist, born at Baltimore, Md. 10 Jun 1869, M.D. College Phys. Surg. Baltimore 1893, at Hopkins 1888-1890, assistant pharmacologist Detroit 1903, U.S.D.A. 1904-1910, professor of pharmacology at Stanford 1910-1921. 
+**Abbreviated name**: *A.C. Crawford*
 
 #### Herbarium and types
 

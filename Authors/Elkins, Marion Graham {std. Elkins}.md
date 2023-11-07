@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/item/103835#page/317/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33260295) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elkins, Marion Graham (1856-x), American botanist, born 28 Jan 1886, Amesbury, Mass., B.S., R.I. Col. 1906, Ph.D. Yale 1912, instructor in botany at Randolph-Macon Woman's College 1913-1915, professor at Oxford 1917-1918, field assistant bureau for plant industry U.S.D.A. 1920, biological assistant Boston Floating Hospital 1921. (*Elkins*).
+Elkins, Marion Graham (1856-x), American botanist, born 28 Jan 1886, Amesbury, Mass., B.S., R.I. Col. 1906, Ph.D. Yale 1912, instructor in botany at Randolph-Macon Woman's College 1913-1915, professor at Oxford 1917-1918, field assistant bureau for plant industry U.S.D.A. 1920, biological assistant Boston Floating Hospital 1921. 
+**Abbreviated name**: *Elkins*
 
 #### Herbarium and types
 

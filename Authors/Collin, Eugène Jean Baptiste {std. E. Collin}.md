@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103860#page/280/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265947) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collin, Eugène Jean Baptiste (1845-1919), French pharmacist and botanist, born 22 Jun 1845, Carignan, Ardennes, died 22 Dec 1919, at the École supérieure de Pharmacie de Paris, diplome of first class Jul 1871, "interne lauréat des hôpitaux de Paris". (*E. Collin*).
+Collin, Eugène Jean Baptiste (1845-1919), French pharmacist and botanist, born 22 Jun 1845, Carignan, Ardennes, died 22 Dec 1919, at the École supérieure de Pharmacie de Paris, diplome of first class Jul 1871, "interne lauréat des hôpitaux de Paris". 
+**Abbreviated name**: *E. Collin*
 
 #### Herbarium and types
 

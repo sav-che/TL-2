@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/item/103253#page/457/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33068673) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jàvorka, Sandor A. (1883-1961), Hungarian botanist; Dr. phil. Univ. Budapest 1906; in various functions at the Botany Department of the Hungarian National Museum from 1905-1940; from 1945 active in the Hungarian Academy of Sciences. (*Jáv.*).
+Jàvorka, Sandor A. (1883-1961), Hungarian botanist; Dr. phil. Univ. Budapest 1906; in various functions at the Botany Department of the Hungarian National Museum from 1905-1940; from 1945 active in the Hungarian Academy of Sciences. 
+**Abbreviated name**: *Jáv.*
 
 #### Herbarium and types
 

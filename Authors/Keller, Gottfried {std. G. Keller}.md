@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/item/103253#page/540/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33068756) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keller, Gottfried (1873-1945), Swiss botanist and lawyer at Aarau. (*G. Keller*).
+Keller, Gottfried (1873-1945), Swiss botanist and lawyer at Aarau. 
+**Abbreviated name**: *G. Keller*
 
 #### Herbarium and types
 

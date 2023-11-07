@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103832#page/200/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33258666) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gerbault, Édouard Louis Marie (1866-1923), French botanist and jurist, born 29 Aug 1866 in Mezangers (Mayenne), judge in Mayenne, died 22 Nov 1923 in Fresnay-sur-Sarthe (Sarthe). (*Gerbault*).
+Gerbault, Édouard Louis Marie (1866-1923), French botanist and jurist, born 29 Aug 1866 in Mezangers (Mayenne), judge in Mayenne, died 22 Nov 1923 in Fresnay-sur-Sarthe (Sarthe). 
+**Abbreviated name**: *Gerbault*
 
 #### Herbarium and types
 

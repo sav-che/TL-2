@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/104077#page/250/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33333375) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmid, Günther (1888-1949), German (Braunschweig) botanist and historian of biology; Dr. phil. Jena 1912; assistant at the botanical Institute, Univ. Jena 1909-1913; on active service 1913-1919; first assistant at the Botanical Institute of the University of Halle a.S. 1920-1935; habil. Halle 1921; Privatdozent ib. 1921-1928; extraord. professor 1928-1935; from 1935-1946 active as historian of science; ordinary professor for the history of sciences, Halle 1946-1949. (*G. Schmid*).
+Schmid, Günther (1888-1949), German (Braunschweig) botanist and historian of biology; Dr. phil. Jena 1912; assistant at the botanical Institute, Univ. Jena 1909-1913; on active service 1913-1919; first assistant at the Botanical Institute of the University of Halle a.S. 1920-1935; habil. Halle 1921; Privatdozent ib. 1921-1928; extraord. professor 1928-1935; from 1935-1946 active as historian of science; ordinary professor for the history of sciences, Halle 1946-1949. 
+**Abbreviated name**: *G. Schmid*
 
 #### Herbarium and types
 

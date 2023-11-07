@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103858#page/240/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33264955) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Babington, Churchill (1821-1889), British clergyman, lichenologist and archeologist, cousin of C.C. Babington, educated by his father (Rev. Mathew Drake Babington), St. John's College, Cambridge 1839, graduated 1843, Fellow St. John's College 1856, held the chapelry of Horningsey nr. Cambridge 1848-1861, obtained the living of Cockfield (as rector), Suffolk 1866-1889, D.D. 1879, Hon. fellow St. John's College 1880. (*Church. Bab.*).
+Babington, Churchill (1821-1889), British clergyman, lichenologist and archeologist, cousin of C.C. Babington, educated by his father (Rev. Mathew Drake Babington), St. John's College, Cambridge 1839, graduated 1843, Fellow St. John's College 1856, held the chapelry of Horningsey nr. Cambridge 1848-1861, obtained the living of Cockfield (as rector), Suffolk 1866-1889, D.D. 1879, Hon. fellow St. John's College 1880. 
+**Abbreviated name**: *Church. Bab.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/item/103414#page/275/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33120358) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blake, Sidney Fay {std. S.F. Blake} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blake, Sidney Fay (1892-1959), American botanist and bibliographer. (*S. F. Blake*).
+Blake, Sidney Fay (1892-1959), American botanist and bibliographer. 
+**Abbreviated name**: *S. F. Blake*
 
 #### Herbarium and types
 

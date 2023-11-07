@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/104077#page/731/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soehns, Franz (*fl*. 1897), German botanist. (*Soehns*).
+Soehns, Franz (*fl*. 1897), German botanist. 
+**Abbreviated name**: *Soehns*
 
 #### Herbarium and types
 

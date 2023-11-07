@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103624#page/296/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33189753) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pittoni, Josef Claudius, Ritter von Dannenfeldt (1797-1878), Austrian botanist and administrator ("Truchsess," sheriff). (*Pittoni*).
+Pittoni, Josef Claudius, Ritter von Dannenfeldt (1797-1878), Austrian botanist and administrator ("Truchsess," sheriff). 
+**Abbreviated name**: *Pittoni*
 
 #### Herbarium and types
 

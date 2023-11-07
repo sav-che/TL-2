@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103833#page/95/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33259129) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dassonville, Charles Léon Marguerite (1864-?), French botanist, born 20 Nov 1864 at Poitiers, Vienne, France, studied biology at Paris. (*Dassonv.*).
+Dassonville, Charles Léon Marguerite (1864-?), French botanist, born 20 Nov 1864 at Poitiers, Vienne, France, studied biology at Paris. 
+**Abbreviated name**: *Dassonv.*
 
 #### Herbarium and types
 

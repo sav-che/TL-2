@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103414#page/197/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33120280) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bauhin, Jean (1541-1612), Swiss botanist. (*J. Bauhin*).
+Bauhin, Jean (1541-1612), Swiss botanist. 
+**Abbreviated name**: *J. Bauhin*
 
 #### Herbarium and types
 

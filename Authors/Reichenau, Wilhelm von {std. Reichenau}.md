@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/item/103624#page/679/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33190136) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reichenau, Wilhelm von (1847-after 1913), German botanist and ornithologist from Dillenburg, Nassau, later director of the Natural History Museum at Mainz. (*Reichenau*).
+Reichenau, Wilhelm von (1847-after 1913), German botanist and ornithologist from Dillenburg, Nassau, later director of the Natural History Museum at Mainz. 
+**Abbreviated name**: *Reichenau*
 
 #### Herbarium and types
 

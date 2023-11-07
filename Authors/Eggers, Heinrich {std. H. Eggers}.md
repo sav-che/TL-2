@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103835#page/278/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33260256) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eggers, Heinrich (1848-1915), German botanist, born 25 Jan 1848 at Moitin, Mecklenburg-Schwerin, died 6 Oct 1915 at Eisleben, was teacher in Eisleben. (*H. Eggers*).
+Eggers, Heinrich (1848-1915), German botanist, born 25 Jan 1848 at Moitin, Mecklenburg-Schwerin, died 6 Oct 1915 at Eisleben, was teacher in Eisleben. 
+**Abbreviated name**: *H. Eggers*
 
 #### Herbarium and types
 

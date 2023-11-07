@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/item/103624#page/583/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rambert, Eugène (1810-1886), Swiss literary critic and amateur botanist. (*Rambert*).
+Rambert, Eugène (1810-1886), Swiss literary critic and amateur botanist. 
+**Abbreviated name**: *Rambert*
 
 #### Herbarium and types
 

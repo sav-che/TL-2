@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/item/104077#page/563/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33333688) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shannon, William Cummings (1851-1905), American physician and plant collector; MD Bellevue Medical Coll. 1874; assistant surgeon U.S. army 1875-1895; maj. surgeon 1895-1898; in retirement from 1898. (*Shannon*).
+Shannon, William Cummings (1851-1905), American physician and plant collector; MD Bellevue Medical Coll. 1874; assistant surgeon U.S. army 1875-1895; maj. surgeon 1895-1898; in retirement from 1898. 
+**Abbreviated name**: *Shannon*
 
 #### Herbarium and types
 

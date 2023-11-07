@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/104137#page/869/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oskamp, Dirk Leonard (1768-?), Dutch botanist and physician at Utrecht. (*Oskamp*).
+Oskamp, Dirk Leonard (1768-?), Dutch botanist and physician at Utrecht. 
+**Abbreviated name**: *Oskamp*
 
 #### Herbarium and types
 

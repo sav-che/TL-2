@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/104077#page/425/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33333550) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schuster, C. (1860-1935), German (East-Prussian) botanical bibliographer; educated at Tilsit Gymnasium; with the pomological institute of Proskau 1878-1880; with a tree-nursery at Trier 1880-1882; from 1882 with a commercial horticultural establishment in Strassburg and various private and public parks in Militsch, Kiel and Potsdam; from ca. 1886 with the Berlin Botanical Garden, bookkeeper for the development of the new garden at Dahlem; from 1907-1926 librarian in Engler's new Botanical Museum. (*C. Schust.*).
+Schuster, C. (1860-1935), German (East-Prussian) botanical bibliographer; educated at Tilsit Gymnasium; with the pomological institute of Proskau 1878-1880; with a tree-nursery at Trier 1880-1882; from 1882 with a commercial horticultural establishment in Strassburg and various private and public parks in Militsch, Kiel and Potsdam; from ca. 1886 with the Berlin Botanical Garden, bookkeeper for the development of the new garden at Dahlem; from 1907-1926 librarian in Engler's new Botanical Museum. 
+**Abbreviated name**: *C. Schust.*
 
 #### Herbarium and types
 

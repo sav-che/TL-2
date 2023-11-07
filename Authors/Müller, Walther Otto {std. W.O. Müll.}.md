@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/item/104137#page/667/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Walther Otto (1833-1887), German gardener and cryptogamist at Gera (Thüringen). (*W. O. Müll.*).
+Müller, Walther Otto (1833-1887), German gardener and cryptogamist at Gera (Thüringen). 
+**Abbreviated name**: *W. O. Müll.*
 
 #### Herbarium and types
 

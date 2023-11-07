@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/item/103835#page/145/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33260123) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duché, Jacques (1900-1964), French mycologist and Ingénieur E.P.C.I., head of the dermatological laboratory of the Hôpital Saint-Louis, attached to the Laboratoire de Cryptogamie de Muséum, Paris, specialized in human parasites and soil micromycetes. (*Duché*).
+Duché, Jacques (1900-1964), French mycologist and Ingénieur E.P.C.I., head of the dermatological laboratory of the Hôpital Saint-Louis, attached to the Laboratoire de Cryptogamie de Muséum, Paris, specialized in human parasites and soil micromycetes. 
+**Abbreviated name**: *Duché*
 
 #### Herbarium and types
 

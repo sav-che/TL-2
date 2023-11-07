@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/item/103414#page/891/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33120974) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Flahault, Charles (Henri Marie) {std. Flahault} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Flahault, Charles Henri Marie (1852-1935), French botanist at Montpellier, professor of botany 1881, director botanic garden 1889. (*Flah.*).
+Flahault, Charles Henri Marie (1852-1935), French botanist at Montpellier, professor of botany 1881, director botanic garden 1889. 
+**Abbreviated name**: *Flah.*
 
 #### Herbarium and types
 

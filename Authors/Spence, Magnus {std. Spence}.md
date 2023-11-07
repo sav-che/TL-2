@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/item/104077#page/799/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33333924) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spence, Magnus (1853-1919), British schoolmaster and botanist at Orkney. (*Spence*).
+Spence, Magnus (1853-1919), British schoolmaster and botanist at Orkney. 
+**Abbreviated name**: *Spence*
 
 #### Herbarium and types
 

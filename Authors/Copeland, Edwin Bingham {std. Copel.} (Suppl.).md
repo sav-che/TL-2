@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103860#page/351/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33266018) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Copeland, Edwin Bingham {std. Copel.}|first entry]] for this author
 
 ### Author
 
-\* Copeland, Edwin Bingham (1873-1964), American botanist, physiologist in the early years, subsequently dealing on general botany, from 1905 mainly working on ferns, born in Monroe, Wisconsin, at the University of Wisconsin 1890/91, moved to California studying with D.H. Campbell, B.A. Stanford University 1895, studied 1895-1896 at Leipzig and Halle, Dr. phil. Univ. Halle 1896, research appointment with Univ. Indiana 1897-1899, Chico 1899, Univ. Virginia 1899-1900, at Stanford Univ. 1901-1903, at Bureau of Science, Manila 1903-1908, Dean of the College of Agriculture Univ. Philippines, 1909-1917, later in various positions in U.S.A. and the Philippines, retired 1935, Dr. Law 1949 at the University of the Philippines. (*Copel.*).
+\* Copeland, Edwin Bingham (1873-1964), American botanist, physiologist in the early years, subsequently dealing on general botany, from 1905 mainly working on ferns, born in Monroe, Wisconsin, at the University of Wisconsin 1890/91, moved to California studying with D.H. Campbell, B.A. Stanford University 1895, studied 1895-1896 at Leipzig and Halle, Dr. phil. Univ. Halle 1896, research appointment with Univ. Indiana 1897-1899, Chico 1899, Univ. Virginia 1899-1900, at Stanford Univ. 1901-1903, at Bureau of Science, Manila 1903-1908, Dean of the College of Agriculture Univ. Philippines, 1909-1917, later in various positions in U.S.A. and the Philippines, retired 1935, Dr. Law 1949 at the University of the Philippines. 
+**Abbreviated name**: *Copel.*
 
 #### Herbarium and types
 

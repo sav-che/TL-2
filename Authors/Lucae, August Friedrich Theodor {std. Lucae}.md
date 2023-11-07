@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/item/104137#page/195/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lucae, August Friedrich Theodor (1800-1848), German pharmacist and botanist. (*Lucae*).
+Lucae, August Friedrich Theodor (1800-1848), German pharmacist and botanist. 
+**Abbreviated name**: *Lucae*
 
 #### Herbarium and types
 

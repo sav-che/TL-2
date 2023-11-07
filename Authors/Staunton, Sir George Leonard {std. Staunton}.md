@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/item/104077#page/863/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33333988) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Staunton, Sir George Leonard (1737-1801), English physician and diplomat; practiced in the West-Indies 1762-1770, in Grenada 1772-1779; secretary to Lord Macartney in Madras 1781-1784 and in China 1792-1794; collected plants in China. (*Staunton*).
+Staunton, Sir George Leonard (1737-1801), English physician and diplomat; practiced in the West-Indies 1762-1770, in Grenada 1772-1779; secretary to Lord Macartney in Madras 1781-1784 and in China 1792-1794; collected plants in China. 
+**Abbreviated name**: *Staunton*
 
 #### Herbarium and types
 

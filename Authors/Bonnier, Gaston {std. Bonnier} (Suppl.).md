@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103859#page/328/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265515) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bonnier, Gaston Eugène Marie {std. Bonnier}|first entry]] for this author
 
 ### Author
 
-\* Bonnier, Gaston (1853-1922), French botanist (Paris born), educated at the Lycée Henry IV, studied at the École normale supérieure 1873-1876, teacher at the University 1877-1879, Dr. phil. 1879, Maître de conférences 1879-1887, professor of botany at the Faculté des Sciences 1887-1922. (*Bonnier*).
+\* Bonnier, Gaston (1853-1922), French botanist (Paris born), educated at the Lycée Henry IV, studied at the École normale supérieure 1873-1876, teacher at the University 1877-1879, Dr. phil. 1879, Maître de conférences 1879-1887, professor of botany at the Faculté des Sciences 1887-1922. 
+**Abbreviated name**: *Bonnier*
 
 #### Herbarium and types
 

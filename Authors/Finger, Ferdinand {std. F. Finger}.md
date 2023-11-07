@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103834#page/210/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33259692) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Finger, Ferdinand (1851-x), German botanist, born 18 Mar 1851 in Viersen, attended primary school in Opladen and gymnasium in Neuss until 1869, studied mathematics and natural sciences in Bonn, Dr. Sci. 1873 Univ. of Bonn, moved to Millstadt in Dec 1894. (*F. Finger*).
+Finger, Ferdinand (1851-x), German botanist, born 18 Mar 1851 in Viersen, attended primary school in Opladen and gymnasium in Neuss until 1869, studied mathematics and natural sciences in Bonn, Dr. Sci. 1873 Univ. of Bonn, moved to Millstadt in Dec 1894. 
+**Abbreviated name**: *F. Finger*
 
 #### Herbarium and types
 

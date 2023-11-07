@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103860#page/430/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33266097) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coulter, \[Moses\] Stanley (1853-1943), American biologist and forester, born in Ningpo, China, 2 Jun 1853, died June 1943, Ph.D. 1889, L.L.D. 1908, worked in the 1880-1890's at the Botanical Laboratories in Bonn, Germany, professor Purdue 1887-1926, dean 1905-1926, emeritus dean 1926, died Jun 1943. (*S. Coult.*).
+Coulter, \[Moses\] Stanley (1853-1943), American biologist and forester, born in Ningpo, China, 2 Jun 1853, died June 1943, Ph.D. 1889, L.L.D. 1908, worked in the 1880-1890's at the Botanical Laboratories in Bonn, Germany, professor Purdue 1887-1926, dean 1905-1926, emeritus dean 1926, died Jun 1943. 
+**Abbreviated name**: *S. Coult.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103859#page/199/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33265386) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blackman, Vernon Herbert (1872-1967), British botanist, studied at the St. Bartholomew's Hospital and St. John's College Cambridge, 1892-1895, assistant at the Department of Botany of the British Museum, Natural History 1896-1906, lectured at various London Colleges 1906-1907, professor of botany at the University of Leeds 1907-1911, professor of plant physiology and pathology Royal College of Science, London 1911-1929, full professor of botany ib. 1929-1937, director Research Institute of Plant Physiology, Imperial College 1913-1942. (*V.H. Blackman*).
+Blackman, Vernon Herbert (1872-1967), British botanist, studied at the St. Bartholomew's Hospital and St. John's College Cambridge, 1892-1895, assistant at the Department of Botany of the British Museum, Natural History 1896-1906, lectured at various London Colleges 1906-1907, professor of botany at the University of Leeds 1907-1911, professor of plant physiology and pathology Royal College of Science, London 1911-1929, full professor of botany ib. 1929-1937, director Research Institute of Plant Physiology, Imperial College 1913-1942. 
+**Abbreviated name**: *V.H. Blackman*
 
 #### Herbarium and types
 

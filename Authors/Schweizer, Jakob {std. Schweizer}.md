@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/104077#page/456/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33333581) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schweizer, Jakob (1885-?), Swiss high school teacher and botanist. (*Schweizer*).
+Schweizer, Jakob (1885-?), Swiss high school teacher and botanist. 
+**Abbreviated name**: *Schweizer*
 
 #### Herbarium and types
 

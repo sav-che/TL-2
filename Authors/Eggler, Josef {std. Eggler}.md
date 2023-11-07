@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103835#page/279/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33260257) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eggler, Josef (1896-x), Austrian botanist and phytogeographer born 23 Oct 1896, Eggenberg nr. Graz. (*Eggler*).
+Eggler, Josef (1896-x), Austrian botanist and phytogeographer born 23 Oct 1896, Eggenberg nr. Graz. 
+**Abbreviated name**: *Eggler*
 
 #### Herbarium and types
 

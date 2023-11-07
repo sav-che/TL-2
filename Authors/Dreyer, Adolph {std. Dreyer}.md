@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/103835#page/108/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33260086) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dreyer, Adolph (1868-?), Swiss botanist from St. Gallen, studied in Jena, dissertation at Jena 1892, later assistant in Göttingen. (*Dreyer*).
+Dreyer, Adolph (1868-?), Swiss botanist from St. Gallen, studied in Jena, dissertation at Jena 1892, later assistant in Göttingen. 
+**Abbreviated name**: *Dreyer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103835#page/410/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33260388) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ernst, Alfred (1875-1968), Swiss botanist, born 21 Feb 1875 at Winterthur, studied at the University of Zürich, investigated algae and later especially embryology, Dr. sci. 1902, visited Java in 1905-1906 and 1930-1931, professor in 1909, from 1922 specially interested in the genus Primula, 1928 rector of the University of Zürich, married Marthe Schwarzenbach in 1930, died 17 Sep 1968. (*A. Ernst*).
+Ernst, Alfred (1875-1968), Swiss botanist, born 21 Feb 1875 at Winterthur, studied at the University of Zürich, investigated algae and later especially embryology, Dr. sci. 1902, visited Java in 1905-1906 and 1930-1931, professor in 1909, from 1922 specially interested in the genus Primula, 1928 rector of the University of Zürich, married Marthe Schwarzenbach in 1930, died 17 Sep 1968. 
+**Abbreviated name**: *A. Ernst*
 
 #### Herbarium and types
 

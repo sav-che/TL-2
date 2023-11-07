@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/item/103253#page/165/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33068381) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hein, Theodor (fl. 1874), German high school teacher and bryologist at Troppau. (*T. Hein*).
+Hein, Theodor (fl. 1874), German high school teacher and bryologist at Troppau. 
+**Abbreviated name**: *T. Hein*
 
 *Hein, Theodor (fl. 1874), ctd*.
 

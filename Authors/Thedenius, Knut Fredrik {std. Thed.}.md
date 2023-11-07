@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103683#page/246/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thedenius, Knut Fredrik (1814-1894), Swedish botanist, entomologist, pharmacist and teacher; pharmacist's examination Stockholm 1840; pharmacist ib. 1843-1858, teacher for natural sciences at Stockholm's Gymnasium from 1844 (temporary), 1852 (regular) and as "lektor" 1859-1886; from 1880-1888 lecturer at a state high school in Stockholm. (*Thed.*).
+Thedenius, Knut Fredrik (1814-1894), Swedish botanist, entomologist, pharmacist and teacher; pharmacist's examination Stockholm 1840; pharmacist ib. 1843-1858, teacher for natural sciences at Stockholm's Gymnasium from 1844 (temporary), 1852 (regular) and as "lektor" 1859-1886; from 1880-1888 lecturer at a state high school in Stockholm. 
+**Abbreviated name**: *Thed.*
 
 #### Herbarium and types
 

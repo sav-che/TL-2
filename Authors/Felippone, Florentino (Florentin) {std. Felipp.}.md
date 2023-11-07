@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103834#page/144/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33259626) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Felippone, Florentino \[Florentin\] (1853-1939), Uruguayan physician, chemist and botanist, born 20 Jul 1853 in Paysandú, dir. of the medical faculty at Montevideo and asst. dir. of the Museo de Historia Natural, Montevideo 1922-1937, prof. of chemistry, Univ. of Montevideo. (*Felipp.*).
+Felippone, Florentino \[Florentin\] (1853-1939), Uruguayan physician, chemist and botanist, born 20 Jul 1853 in Paysandú, dir. of the medical faculty at Montevideo and asst. dir. of the Museo de Historia Natural, Montevideo 1922-1937, prof. of chemistry, Univ. of Montevideo. 
+**Abbreviated name**: *Felipp.*
 
 #### Herbarium and types
 

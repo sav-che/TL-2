@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103683#page/188/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33212220) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taube, \[Daniel\] Johann (1727-1799), German (Hanoverian) physician and naturalist at Celle. (*Taube*).
+Taube, \[Daniel\] Johann (1727-1799), German (Hanoverian) physician and naturalist at Celle. 
+**Abbreviated name**: *Taube*
 
 #### Herbarium and types
 

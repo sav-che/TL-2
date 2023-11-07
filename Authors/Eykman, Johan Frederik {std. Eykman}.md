@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/item/103835#page/458/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33260436) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eykman, Johan Frederik (1851-1915), Dutch chemist, born 19 Jan 1851 at Nijkerk, received primary instruction from his father, visited also schools at Zaandam, passed first examen pharmacy in 1869, studied pharmacy at the University of Amsterdam until 1874 and physics in Leiden until 1876, worked in Japan (Nagasaki and Tokyo) 1876-1885, in 1881 professor chemistry and pharmacology, returned to the Netherlands but first visited Dutch East Indies, settled in Amsterdam, refused appointment as professor in Leiden, but went in 1897 as professor to Groningen, died 1 Jul 1915 at Groningen. (*Eykman*).
+Eykman, Johan Frederik (1851-1915), Dutch chemist, born 19 Jan 1851 at Nijkerk, received primary instruction from his father, visited also schools at Zaandam, passed first examen pharmacy in 1869, studied pharmacy at the University of Amsterdam until 1874 and physics in Leiden until 1876, worked in Japan (Nagasaki and Tokyo) 1876-1885, in 1881 professor chemistry and pharmacology, returned to the Netherlands but first visited Dutch East Indies, settled in Amsterdam, refused appointment as professor in Leiden, but went in 1897 as professor to Groningen, died 1 Jul 1915 at Groningen. 
+**Abbreviated name**: *Eykman*
 
 #### Herbarium and types
 

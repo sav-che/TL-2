@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/104077#page/274/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33333399) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Robert (1826-1890), German teacher, meteorologist and botanist at Gera (Thuringia/Reuss). (*Rob. Schmidt*).
+Schmidt, Robert (1826-1890), German teacher, meteorologist and botanist at Gera (Thuringia/Reuss). 
+**Abbreviated name**: *Rob. Schmidt*
 
 #### Herbarium and types
 

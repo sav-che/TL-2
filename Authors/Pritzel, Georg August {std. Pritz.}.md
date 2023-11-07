@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103624#page/423/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pritzel, Georg August (1815-1874), German (Silesian/Prussian) botanist and botanical bibliographer; studied theology and medicine at Breslau (consilium abeundi 1840), continued his medical and botanical studies at Leipzig 1841-1843; from 1844 working at his *Thesaurus*, mainly from Berlin and Leipzig; from 1850 in Berlin, from 1851-1854 employed by the Royal Library as "Hülfsarbeiter"; from 1854-1872 archivist and librarian at the Prussian Academy of Sciences and "custos" at the Royal Library in Berlin; in a psychiatric clinic at Hornheim near Kiel 1872-1874; highly gifted and erudite bibliographer; the man to whose memory "Taxonomic literature" should be dedicated. (*Pritz.*).
+Pritzel, Georg August (1815-1874), German (Silesian/Prussian) botanist and botanical bibliographer; studied theology and medicine at Breslau (consilium abeundi 1840), continued his medical and botanical studies at Leipzig 1841-1843; from 1844 working at his *Thesaurus*, mainly from Berlin and Leipzig; from 1850 in Berlin, from 1851-1854 employed by the Royal Library as "Hülfsarbeiter"; from 1854-1872 archivist and librarian at the Prussian Academy of Sciences and "custos" at the Royal Library in Berlin; in a psychiatric clinic at Hornheim near Kiel 1872-1874; highly gifted and erudite bibliographer; the man to whose memory "Taxonomic literature" should be dedicated. 
+**Abbreviated name**: *Pritz.*
 
 #### Herbarium and types
 

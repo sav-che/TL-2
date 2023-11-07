@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/103832#page/199/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33258665) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gérard, Félix (fl. 1914-1919), French botanist, Dr. ès-sciences 1919 Faculté des Sciences, Paris. (*F. Gérard*).
+Gérard, Félix (fl. 1914-1919), French botanist, Dr. ès-sciences 1919 Faculté des Sciences, Paris. 
+**Abbreviated name**: *F. Gérard*
 
 #### Note
 

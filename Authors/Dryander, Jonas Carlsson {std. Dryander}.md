@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/item/103414#page/734/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33120817) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dryander, Jonas Carlsson (1748-1810), Swedish botanist, librarian to Banks. (*Dryander*).
+Dryander, Jonas Carlsson (1748-1810), Swedish botanist, librarian to Banks. 
+**Abbreviated name**: *Dryander*
 
 #### Types, manuscripts and correspondence
 

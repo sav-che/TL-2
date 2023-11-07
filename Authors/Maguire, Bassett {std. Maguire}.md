@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/104137#page/264/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33355335) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maguire, Bassett (1904-x), American botanist and explorer of the neotropical flora; B. S. Univ. Georgia 1926; Ph. D. Cornell 1938; from 1931-1943 at Utah State Agricultural College; from 1943 at the New York Botanical Garden; from 1971 semi-retired at New York and the Dominican Republic. (*Maguire*).
+Maguire, Bassett (1904-x), American botanist and explorer of the neotropical flora; B. S. Univ. Georgia 1926; Ph. D. Cornell 1938; from 1931-1943 at Utah State Agricultural College; from 1943 at the New York Botanical Garden; from 1971 semi-retired at New York and the Dominican Republic. 
+**Abbreviated name**: *Maguire*
 
 #### Herbarium and types
 

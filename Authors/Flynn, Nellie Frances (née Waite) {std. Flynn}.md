@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/item/103834#page/302/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33259784) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flynn, Nellie Frances (née Waite) (1861-1922), American botanist, born 22 Sep 1861 in Peru, Vermont, married John J. Flynn 9 Dec 1880, collected extensively around her hometown of Burlington, Vermont, and on trips to Calif., Florida, Cuba, Bermuda and Europe, treasurer of the Vermont Botanical Club, Chairman of the Committee for Ed. 3 of the *Flora of Vermont*, died 9 Dec 1922 in Burlington. (*Flynn*).
+Flynn, Nellie Frances (née Waite) (1861-1922), American botanist, born 22 Sep 1861 in Peru, Vermont, married John J. Flynn 9 Dec 1880, collected extensively around her hometown of Burlington, Vermont, and on trips to Calif., Florida, Cuba, Bermuda and Europe, treasurer of the Vermont Botanical Club, Chairman of the Committee for Ed. 3 of the *Flora of Vermont*, died 9 Dec 1922 in Burlington. 
+**Abbreviated name**: *Flynn*
 
 #### Herbarium and types
 

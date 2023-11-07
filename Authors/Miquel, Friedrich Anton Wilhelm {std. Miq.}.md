@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/item/104137#page/524/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33355595) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miquel, Friedrich Anton Wilhelm (1811-1871), Dutch botanist; Dr. med. Groningen 1833; practicing physician and director of the Rotterdam botanical garden 1835-1846; professor of botany and director of the botanical garden Amsterdam 1846-1859; idem at Utrecht 1859-1871, from 1862 also director of the Leiden Rijksherbarium. (*Miq.*).
+Miquel, Friedrich Anton Wilhelm (1811-1871), Dutch botanist; Dr. med. Groningen 1833; practicing physician and director of the Rotterdam botanical garden 1835-1846; professor of botany and director of the botanical garden Amsterdam 1846-1859; idem at Utrecht 1859-1871, from 1862 also director of the Leiden Rijksherbarium. 
+**Abbreviated name**: *Miq.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103833#page/260/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33259294) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[De Toni, Giuseppe {std. G. De Toni}|first entry]] for this author
 
 ### Author
 
-\* De Toni, Giuseppe \[Joseph\] (fl. 1934-1939), Italian algologist, son of Giovanni Battista De Toni. (*G. De Toni*).
+\* De Toni, Giuseppe \[Joseph\] (fl. 1934-1939), Italian algologist, son of Giovanni Battista De Toni. 
+**Abbreviated name**: *G. De Toni*
 
 #### Herbarium and types
 

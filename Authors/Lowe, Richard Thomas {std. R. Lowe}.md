@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/104137#page/194/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33355265) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lowe, Richard Thomas (1802-1874), British clergyman and botanist; chaplain in Madeira 1832-1854; rector of Lea, Lincolnshire, ca. 1854; botanised in Orkney Isl., Canary Isl., Cape Verde Isl., Madeira, Marocco. (*R. Lowe*).
+Lowe, Richard Thomas (1802-1874), British clergyman and botanist; chaplain in Madeira 1832-1854; rector of Lea, Lincolnshire, ca. 1854; botanised in Orkney Isl., Canary Isl., Cape Verde Isl., Madeira, Marocco. 
+**Abbreviated name**: *R. Lowe*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/104137#page/364/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33355435) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Masferrer y Arquimbau, Ramón (1850-1884), Spanish military physician and botanist on the Canary Islands and the Philippines; died of cholera. (*Masf.*).
+Masferrer y Arquimbau, Ramón (1850-1884), Spanish military physician and botanist on the Canary Islands and the Philippines; died of cholera. 
+**Abbreviated name**: *Masf.*
 
 #### Herbarium and types
 

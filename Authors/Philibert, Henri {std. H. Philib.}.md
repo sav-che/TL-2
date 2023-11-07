@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103624#page/245/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Philibert, Henri (1822-1901), French bryologist; educated at the École normale supérieure, Agr. phil. 1846; Dr. lit. 1865; high school teacher at Avignon, Pau, Grenoble, Montpellier, Chaumont, Angoulême 1843-1867; lecturer in philosophy at the Faculté des lettres, Aix-en-Provence 1867-1882; hon. professor, in retirement, from 1883. (*H. Philib.*).
+Philibert, Henri (1822-1901), French bryologist; educated at the École normale supérieure, Agr. phil. 1846; Dr. lit. 1865; high school teacher at Avignon, Pau, Grenoble, Montpellier, Chaumont, Angoulême 1843-1867; lecturer in philosophy at the Faculté des lettres, Aix-en-Provence 1867-1882; hon. professor, in retirement, from 1883. 
+**Abbreviated name**: *H. Philib.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103858#page/392/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33265107) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Batters, Edward Arthur Lionel {std. Batters}|first entry]] for this author
 
 ### Author
 
-\* Batters, Edward Arthur Lionel (1860-1907), British phycologist, educated at King's College School, London and Trinity Hall, Cambridge, B.A. (law) 1882, later L.L.B., called to the Bar at Lincoln's Inn, being of independent means turned to the study of British marine algae. (*Batters*).
+\* Batters, Edward Arthur Lionel (1860-1907), British phycologist, educated at King's College School, London and Trinity Hall, Cambridge, B.A. (law) 1882, later L.L.B., called to the Bar at Lincoln's Inn, being of independent means turned to the study of British marine algae. 
+**Abbreviated name**: *Batters*
 
 #### Herbarium and types
 

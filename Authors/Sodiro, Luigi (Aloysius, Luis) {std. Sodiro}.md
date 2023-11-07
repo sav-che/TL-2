@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/item/104077#page/727/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33333852) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sodiro, Luigi \[Aloysius, Luis\] (1836-1909), Italian-born botanist and clergyman (S.J.); student of Kerner von Marilaun; high school teacher at Ragusa; went to Ecuador 1870 as professor of botany at the Polytechnical college (later University) of Quito; from 1886 also professor of botany at the Agricultural College and charged with the establishment of a botanical garden. (*Sodiro*).
+Sodiro, Luigi \[Aloysius, Luis\] (1836-1909), Italian-born botanist and clergyman (S.J.); student of Kerner von Marilaun; high school teacher at Ragusa; went to Ecuador 1870 as professor of botany at the Polytechnical college (later University) of Quito; from 1886 also professor of botany at the Agricultural College and charged with the establishment of a botanical garden. 
+**Abbreviated name**: *Sodiro*
 
 #### Herbarium and types
 

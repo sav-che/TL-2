@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/104137#page/485/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33355556) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michot, Norbert Louis (1803-1887), Belgian botanist; educated at Thuin and Tournay; abbé at Mons from 1840; almoner of the Carmelites (*Michot*).
+Michot, Norbert Louis (1803-1887), Belgian botanist; educated at Thuin and Tournay; abbé at Mons from 1840; almoner of the Carmelites 
+**Abbreviated name**: *Michot*
 
 #### Herbarium and types
 

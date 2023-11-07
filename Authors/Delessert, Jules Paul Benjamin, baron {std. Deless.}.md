@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/item/103414#page/662/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33120745) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delessert, Jules Paul Benjamin, baron (1773-1847), French industrialist, banker, philanthropist and amateur botanist. (*Deless.*).
+Delessert, Jules Paul Benjamin, baron (1773-1847), French industrialist, banker, philanthropist and amateur botanist. 
+**Abbreviated name**: *Deless.*
 
 #### Herbarium and types
 

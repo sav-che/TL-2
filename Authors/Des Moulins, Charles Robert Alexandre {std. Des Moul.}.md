@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 632](https://www.biodiversitylibrary.org/item/103414#page/680/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 632](https://www.biodiversitylibrary.org/page/33120763) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Des Moulins (Desmoulines), Charles ... de Gaux {std. Des Moul.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Des Moulins, Charles Robert Alexandre (1798-1875), French botanist and malacologist. (*Des Moul.*).
+Des Moulins, Charles Robert Alexandre (1798-1875), French botanist and malacologist. 
+**Abbreviated name**: *Des Moul.*
 
 #### Herbarium and types
 

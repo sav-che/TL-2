@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103683#page/402/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33212434) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tong, Koeyang (1896-x), Chinese botanist in Chichow, Anhuei. (*Tong*).
+Tong, Koeyang (1896-x), Chinese botanist in Chichow, Anhuei. 
+**Abbreviated name**: *Tong*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103860#page/348/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33266015) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooper, James Graham (1830-1902), American surgeon and naturalist, born in New York City, studied medicine, graduating from the College of Physicians and Surgeons in New York 1851, spent 1851-1853 in hospital, in the \[new\] State of Washington as surgeon and naturalist to the northern division of the Pacific Railroad Survey 1853-1855, visited Florida 1859, settled in California, naturalist of the geological survey of the State 1865-1866, from then on again active as physician, died at Hayward, Calif. (Alameda County) 19 Jul 1902. (*J.G. Cooper*).
+Cooper, James Graham (1830-1902), American surgeon and naturalist, born in New York City, studied medicine, graduating from the College of Physicians and Surgeons in New York 1851, spent 1851-1853 in hospital, in the \[new\] State of Washington as surgeon and naturalist to the northern division of the Pacific Railroad Survey 1853-1855, visited Florida 1859, settled in California, naturalist of the geological survey of the State 1865-1866, from then on again active as physician, died at Hayward, Calif. (Alameda County) 19 Jul 1902. 
+**Abbreviated name**: *J.G. Cooper*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103414#page/437/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33120520) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buchenau, Franz (Georg Philipp) {std. Buchenau} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Buchenau, Franz Georg Philipp (1831-1906), German high-school teacher and botanist at Bremen, outstanding morphologist, systematist and phytogeographer. (*Buchenau*).
+Buchenau, Franz Georg Philipp (1831-1906), German high-school teacher and botanist at Bremen, outstanding morphologist, systematist and phytogeographer. 
+**Abbreviated name**: *Buchenau*
 
 #### Herbarium and types
 

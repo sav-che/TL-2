@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/item/103253#page/693/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33068909) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krause, Kurt (1883-1963), German botanist of the Engler school at Berlin. (*K. Krause*).
+Krause, Kurt (1883-1963), German botanist of the Engler school at Berlin. 
+**Abbreviated name**: *K. Krause*
 
 #### Herbarium and types
 

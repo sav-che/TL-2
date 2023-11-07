@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/item/103683#page/612/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33212644) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ungern-Sternberg, Franz (x-1885), Baltic-German (Estonia born) physician and botanist; Dr. med. Dorpat 1866; practicing physician in Torino (Italy). (*Ungern-Sternb.*).
+Ungern-Sternberg, Franz (x-1885), Baltic-German (Estonia born) physician and botanist; Dr. med. Dorpat 1866; practicing physician in Torino (Italy). 
+**Abbreviated name**: *Ungern-Sternb.*
 
 #### Herbarium and types
 

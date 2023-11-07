@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103624#page/227/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33189684) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petunnikov, Alexej Nikolaievic (1842-1919), Russian amateur botanist at Moscow. (*Petunn.*).
+Petunnikov, Alexej Nikolaievic (1842-1919), Russian amateur botanist at Moscow. 
+**Abbreviated name**: *Petunn.*
 
 #### Herbarium and types
 

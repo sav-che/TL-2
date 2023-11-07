@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/103860#page/393/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33266060) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cortés, Santiago (1854-1924), Colombian botanist, published in the Revista médica de Bogotá. (*Cortés*).
+Cortés, Santiago (1854-1924), Colombian botanist, published in the Revista médica de Bogotá. 
+**Abbreviated name**: *Cortés*
 
 #### Herbarium and types
 

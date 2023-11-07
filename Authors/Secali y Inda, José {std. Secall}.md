@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/104077#page/484/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33333609) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Secali y Inda, José (1853-1918), Spanish forester and botanist; professor of botany at the Royal College of Forestry at San Lorenzo del Escoriai. (*Secall*).
+Secali y Inda, José (1853-1918), Spanish forester and botanist; professor of botany at the Royal College of Forestry at San Lorenzo del Escoriai. 
+**Abbreviated name**: *Secall*
 
 #### Herbarium and types
 

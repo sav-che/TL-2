@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103250#page/261/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-West, George Stephen (1876-1919), British phycologist; B.A. Cambridge 1898, D.Sc. Birmingham 1908; professor of Natural Science, R. Agricultural College, Cirencester 1899-1906; lecturer in botany, Birmingham Univ. 1906-1909; Mason professor of botany ib. 1909-1919. (*G.S. West*).
+West, George Stephen (1876-1919), British phycologist; B.A. Cambridge 1898, D.Sc. Birmingham 1908; professor of Natural Science, R. Agricultural College, Cirencester 1899-1906; lecturer in botany, Birmingham Univ. 1906-1909; Mason professor of botany ib. 1909-1919. 
+**Abbreviated name**: *G.S. West*
 
 #### Herbarium and types
 

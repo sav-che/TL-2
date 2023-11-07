@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/103860#page/412/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33266079) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Costerus, Jan Constantijn (1849-1938), Dutch teacher at secondary schools and botanist, born in Sneek (Friesland), teacher and later director of a secondary school at Amsterdam 1874-1914, retired to Hilversum, made study voyage to the Netherlands-Indies 1892, at the Vreemdelingen Laboratorium Buitenzorg 1 Feb-4 Jun 1892. (*Costerus*).
+Costerus, Jan Constantijn (1849-1938), Dutch teacher at secondary schools and botanist, born in Sneek (Friesland), teacher and later director of a secondary school at Amsterdam 1874-1914, retired to Hilversum, made study voyage to the Netherlands-Indies 1892, at the Vreemdelingen Laboratorium Buitenzorg 1 Feb-4 Jun 1892. 
+**Abbreviated name**: *Costerus*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103414#page/163/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33120246) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Banks, George {std. G. Banks} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Banks, George (*fl*. 1823-1832), British silversmith and engraver, amateur botanist at Devonport. (*G. Banks*).
+Banks, George (*fl*. 1823-1832), British silversmith and engraver, amateur botanist at Devonport. 
+**Abbreviated name**: *G. Banks*
 
 #### Herbarium and types
 

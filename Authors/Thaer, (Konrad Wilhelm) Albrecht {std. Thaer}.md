@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103683#page/240/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33212272) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thaer, \[Konrad Wilhelm\] Albrecht (1828-1906), German (Prussian) botanist and agronomist; Dr. phil. Berlin 1851; in England 1851-1853; manager of the estates Rudersdorf and Börnicke 1853-1859; with his father at the estate (1859-1866) and agricultural college at Möglin (1859-1861); habil. Berlin 1861; professor (e.o.) of agronomy at Berlin University 1866-1871; regular professor of agronomy at the agricultural faculty of the Ludwigs-University, Giessen 1871. (*Thaer*).
+Thaer, \[Konrad Wilhelm\] Albrecht (1828-1906), German (Prussian) botanist and agronomist; Dr. phil. Berlin 1851; in England 1851-1853; manager of the estates Rudersdorf and Börnicke 1853-1859; with his father at the estate (1859-1866) and agricultural college at Möglin (1859-1861); habil. Berlin 1861; professor (e.o.) of agronomy at Berlin University 1866-1871; regular professor of agronomy at the agricultural faculty of the Ludwigs-University, Giessen 1871. 
+**Abbreviated name**: *Thaer*
 
 #### Herbarium and types
 

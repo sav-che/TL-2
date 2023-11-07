@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/104137#page/242/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33355313) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McKelvey, Susan Adams (née Delano \[Mrs. Charles Wylie McKelvey, 1907\] (1883-1964), American botanist, horticulturist, and botanical historian. (*McKelv.*).
+McKelvey, Susan Adams (née Delano \[Mrs. Charles Wylie McKelvey, 1907\] (1883-1964), American botanist, horticulturist, and botanical historian. 
+**Abbreviated name**: *McKelv.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103835#page/347/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33260325) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Endert, Frederik Hendrik (1891-1953), Dutch (Java-born) forester, born at Semarang 1891, studied in Wageningen, assistant forester in Dutch East Indies 1915, candidate forester in 1916, forester in 1925, since 1918 connected with the Forest Research Institute at Buitenzorg \[Bogor\], Dr. sci. 1928 at Wageningen (Netherlands), in 1937 appointed Inspector and stationed at Makassar (Celebes) in 1938, since 1941 Secretary of the Committee for Economic Plants, after WW II evacuated to the Netherlands, returned to Indonesia Mai 1949, retired Jul 1952, died 7 Apr 1953 at Bussum (Neth.). (*Endert*).
+Endert, Frederik Hendrik (1891-1953), Dutch (Java-born) forester, born at Semarang 1891, studied in Wageningen, assistant forester in Dutch East Indies 1915, candidate forester in 1916, forester in 1925, since 1918 connected with the Forest Research Institute at Buitenzorg \[Bogor\], Dr. sci. 1928 at Wageningen (Netherlands), in 1937 appointed Inspector and stationed at Makassar (Celebes) in 1938, since 1941 Secretary of the Committee for Economic Plants, after WW II evacuated to the Netherlands, returned to Indonesia Mai 1949, retired Jul 1952, died 7 Apr 1953 at Bussum (Neth.). 
+**Abbreviated name**: *Endert*
 
 #### Herbarium and types
 

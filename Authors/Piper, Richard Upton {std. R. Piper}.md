@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103624#page/286/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piper, Richard Upton (1818-1897), American physician and botanist, MD Dartmouth 1840; practicing physician at Boston and Chicago. (*R. Piper*).
+Piper, Richard Upton (1818-1897), American physician and botanist, MD Dartmouth 1840; practicing physician at Boston and Chicago. 
+**Abbreviated name**: *R. Piper*
 
 #### Herbarium and types
 

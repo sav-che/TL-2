@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103832#page/294/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33258760) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goldie, John (1793-1886), Scottish gardener and traveler, born 21 Mar 1793 in Kirkoswald, (Ayrshire), apprenticed as a gardener, W.J. Hooker who met Goldie at Glasgow Gardens encouraged him to travel, Goldie then visited N. America 1817-1819 and 1833, and Russia 1824 and 1830, and emigrated to Canada in 1844, died 23 Jul 1886 in Ayr, Ontario. (*Goldie*).
+Goldie, John (1793-1886), Scottish gardener and traveler, born 21 Mar 1793 in Kirkoswald, (Ayrshire), apprenticed as a gardener, W.J. Hooker who met Goldie at Glasgow Gardens encouraged him to travel, Goldie then visited N. America 1817-1819 and 1833, and Russia 1824 and 1830, and emigrated to Canada in 1844, died 23 Jul 1886 in Ayr, Ontario. 
+**Abbreviated name**: *Goldie*
 
 #### Note
 

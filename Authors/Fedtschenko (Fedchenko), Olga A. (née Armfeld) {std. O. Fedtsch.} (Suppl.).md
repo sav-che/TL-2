@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/103834#page/120/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259602) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fedchenko, Olga Aleksandrovna (née Armfeld) {std. O. Fedtsch.}|first entry]] for this author
 
 ### Author
 
-\* Fedtschenko \[Fedchenko\], Olga Alexandrovna (née Armfeld) (1845-1921), Russian botanist, born 18 (30 o.s.) Nov 1845 in Moscow, married Alexei Pawlowitsch Fedtschenko 1867, traveled and collected extensively with her husband and later with her son Boris Alexjewitsch (see above) in many parts of the Russian empire, published, often with her son, on the flora of the regions visited, died 29 Apr (o.s. = 5 Mai) 1921 in Leningrad. (*O. Fedtsch.*).
+\* Fedtschenko \[Fedchenko\], Olga Alexandrovna (née Armfeld) (1845-1921), Russian botanist, born 18 (30 o.s.) Nov 1845 in Moscow, married Alexei Pawlowitsch Fedtschenko 1867, traveled and collected extensively with her husband and later with her son Boris Alexjewitsch (see above) in many parts of the Russian empire, published, often with her son, on the flora of the regions visited, died 29 Apr (o.s. = 5 Mai) 1921 in Leningrad. 
+**Abbreviated name**: *O. Fedtsch.*
 
 #### Note
 

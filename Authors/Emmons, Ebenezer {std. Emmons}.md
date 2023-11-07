@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/103414#page/794/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33120877) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emmons, Ebenezer (1799-1863), American physician and botanist at Albany, originator and defender of the Taconic system in North America. (*Emmons*).
+Emmons, Ebenezer (1799-1863), American physician and botanist at Albany, originator and defender of the Taconic system in North America. 
+**Abbreviated name**: *Emmons*
 
 #### Collections
 

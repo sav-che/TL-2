@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/item/103253#page/510/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33068726) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kämpfer, Engelbert \[Kaempfer\] (1651-1716), German physician and traveller; secretary of the Swedish embassy to Russia and Persia; with the Dutch East Indian Company 1685-1693; subsequently physician to the Count of Lippe. (*Kaempf.*).
+Kämpfer, Engelbert \[Kaempfer\] (1651-1716), German physician and traveller; secretary of the Swedish embassy to Russia and Persia; with the Dutch East Indian Company 1685-1693; subsequently physician to the Count of Lippe. 
+**Abbreviated name**: *Kaempf.*
 
 #### Herbarium and types
 

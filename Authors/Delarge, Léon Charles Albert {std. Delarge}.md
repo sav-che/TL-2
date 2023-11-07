@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103833#page/183/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259217) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delarge, Léon Charles Albert (1914-1940), Belgian botanist, born 13 Jun 1914 Liège, died 31 Mai 1940 Gent (Gand), Belgium, Dr. of Sciences in botany at the Institut Botanique of the University at Liège 1939. (*Delarge*).
+Delarge, Léon Charles Albert (1914-1940), Belgian botanist, born 13 Jun 1914 Liège, died 31 Mai 1940 Gent (Gand), Belgium, Dr. of Sciences in botany at the Institut Botanique of the University at Liège 1939. 
+**Abbreviated name**: *Delarge*
 
 #### Herbarium and types
 

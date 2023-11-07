@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103414#page/130/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Azpeitia Moros, Florentino (1859-?), Spanish diatomologist. (*Azpeitia*).
+Azpeitia Moros, Florentino (1859-?), Spanish diatomologist. 
+**Abbreviated name**: *Azpeitia*
 
 #### Herbarium and types
 

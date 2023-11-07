@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/item/104077#page/895/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33334020) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stellati, Vincenzo (1780-1852), Italian (Napoli) botanist and physician; practicing physician at Napoli, also professor of materia medica at the University and director of its botanical garden. (*Stellati*).
+Stellati, Vincenzo (1780-1852), Italian (Napoli) botanist and physician; practicing physician at Napoli, also professor of materia medica at the University and director of its botanical garden. 
+**Abbreviated name**: *Stellati*
 
 #### Herbarium and types
 

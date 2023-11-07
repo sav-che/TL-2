@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/item/103624#page/748/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33190205) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Resvoll-Holmsen, Hanna \[Marie\] (1873-1943), Norwegian botanist; sister of T.R. Resvoll; married 1909 Gunnar Holmsen; lecturer plant geography Oslo 1921-1938. (*Resvoll-Holmsen*).
+Resvoll-Holmsen, Hanna \[Marie\] (1873-1943), Norwegian botanist; sister of T.R. Resvoll; married 1909 Gunnar Holmsen; lecturer plant geography Oslo 1921-1938. 
+**Abbreviated name**: *Resvoll-Holmsen*
 
 #### Herbarium and types
 

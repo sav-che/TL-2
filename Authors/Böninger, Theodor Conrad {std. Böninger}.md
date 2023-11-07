@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103859#page/265/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33265452) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Böninger, Theodor Conrad (fl. 1790), German (Duisburg) physician and botanist. (*Böninger*).
+Böninger, Theodor Conrad (fl. 1790), German (Duisburg) physician and botanist. 
+**Abbreviated name**: *Böninger*
 
 #### Herbarium and types
 

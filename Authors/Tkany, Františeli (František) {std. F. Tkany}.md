@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/item/103683#page/382/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33212414) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tkany, Františeli \[František\] (1851-?), Moravian botanist and high school teacher at Olomouc (Olmütz). (*F. Tkany*).
+Tkany, Františeli \[František\] (1851-?), Moravian botanist and high school teacher at Olomouc (Olmütz). 
+**Abbreviated name**: *F. Tkany*
 
 #### Herbarium and types
 

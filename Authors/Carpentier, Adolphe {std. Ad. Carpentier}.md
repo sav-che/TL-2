@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103861#page/430/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33266727) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carpentier, Adolphe (fl. 1869), French botanist, studied at the École Superieure de Pharmacie,Paris. (*Ad. Carpentier*).
+Carpentier, Adolphe (fl. 1869), French botanist, studied at the École Superieure de Pharmacie,Paris. 
+**Abbreviated name**: *Ad. Carpentier*
 
 #### Herbarium and types
 

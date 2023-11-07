@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103834#page/197/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259679) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fichera, Alfio (fl. 1895-1909?), Italian botanist, prof., technical school, Messina, Sicily. (*Fichera*).
+Fichera, Alfio (fl. 1895-1909?), Italian botanist, prof., technical school, Messina, Sicily. 
+**Abbreviated name**: *Fichera*
 
 #### Bibliography and biography
 

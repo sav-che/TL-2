@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103834#page/313/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259795) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Folgner, Victor \[Viktor\] Alfred Oswald (1861-1927), Austrian botanist, born 19 Feb 1861 in Tillowitz (Upper Silesia), educated at home by private teachers, then at Neisse Realgymnasium until 1881, studied natural sciences, Univ. of Breslau (now Wroclaw, Poland) from 1882, Dr. Sci. 1897, asst., Botanical Inst. of the German Univ. in Prague 1897-1904, asst. 1904-1909 and from 1909 "Adjunkt", "Hochschule für Bodenkultur", Vienna, died 15 Jun 1927 in Vienna. (*Folgner*).
+Folgner, Victor \[Viktor\] Alfred Oswald (1861-1927), Austrian botanist, born 19 Feb 1861 in Tillowitz (Upper Silesia), educated at home by private teachers, then at Neisse Realgymnasium until 1881, studied natural sciences, Univ. of Breslau (now Wroclaw, Poland) from 1882, Dr. Sci. 1897, asst., Botanical Inst. of the German Univ. in Prague 1897-1904, asst. 1904-1909 and from 1909 "Adjunkt", "Hochschule für Bodenkultur", Vienna, died 15 Jun 1927 in Vienna. 
+**Abbreviated name**: *Folgner*
 
 #### Herbarium and types
 

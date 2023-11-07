@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103860#page/301/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33265968) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Compton, Robert Harold (1886-1979), British botanist who settled in South Africa 1919, educated at Cambridge University 1905-1909, demonstrator in botany at id. 1911-1913, in a field expedition to New Caledonia 1914, on active service 1915-1918, moved to South Africa 1919 as director of the National Botanical Gardens of S. Africa at Kirstenbosch ("the Garden of a Nation"), professor of botany at the University of Cape Town 1919-1953, retired and settled in Swaziland, D. Sc. hon. Univ. Cape Town 1968. (*Compton*).
+Compton, Robert Harold (1886-1979), British botanist who settled in South Africa 1919, educated at Cambridge University 1905-1909, demonstrator in botany at id. 1911-1913, in a field expedition to New Caledonia 1914, on active service 1915-1918, moved to South Africa 1919 as director of the National Botanical Gardens of S. Africa at Kirstenbosch ("the Garden of a Nation"), professor of botany at the University of Cape Town 1919-1953, retired and settled in Swaziland, D. Sc. hon. Univ. Cape Town 1968. 
+**Abbreviated name**: *Compton*
 
 #### Herbarium and types
 

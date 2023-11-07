@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103859#page/397/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265584) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bouloumoy, Louis (x-1926), French jesuit priest and during 35 years professor at the French Faculty of Médecine of Beyrouth. (*Boul.*).
+Bouloumoy, Louis (x-1926), French jesuit priest and during 35 years professor at the French Faculty of Médecine of Beyrouth. 
+**Abbreviated name**: *Boul.*
 
 #### Herbarium and types
 

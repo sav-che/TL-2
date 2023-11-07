@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103414#page/300/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33120383) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bogenhard, Carl {std. Bogenh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bogenhard, Carl (1811-1853?), German botanist and pharmacist who settled in North America in 1852. (*Bogenh.*).
+Bogenhard, Carl (1811-1853?), German botanist and pharmacist who settled in North America in 1852. 
+**Abbreviated name**: *Bogenh.*
 
 #### Herbarium and types
 

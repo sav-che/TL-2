@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/item/104077#page/834/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/page/33333959) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spruner, Wilhelm von (1805-1874), German (Bavarian) pharmacist and plant collector; studied in a München pharmacy and at the University of Erlangen; assistant military pharmacist (later in charge of the military pharmacy in Athens) in the Greek army 1834-1843; military pharmacist in the Bavarian army 1844-1858, ultimately as "Oberapotheker ii. Klasse", in retirement in München. (*Sprun.*).
+Spruner, Wilhelm von (1805-1874), German (Bavarian) pharmacist and plant collector; studied in a München pharmacy and at the University of Erlangen; assistant military pharmacist (later in charge of the military pharmacy in Athens) in the Greek army 1834-1843; military pharmacist in the Bavarian army 1844-1858, ultimately as "Oberapotheker ii. Klasse", in retirement in München. 
+**Abbreviated name**: *Sprun.*
 
 #### Herbarium and types
 

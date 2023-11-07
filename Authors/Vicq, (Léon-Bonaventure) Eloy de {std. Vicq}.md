@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/item/103683#page/735/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33212767) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vicq, \[Léon-Bonaventure\] Eloy de (1810-1886), French botanist and musician of private means at Abbeville. (*Vicq*).
+Vicq, \[Léon-Bonaventure\] Eloy de (1810-1886), French botanist and musician of private means at Abbeville. 
+**Abbreviated name**: *Vicq*
 
 #### Herbarium and types
 

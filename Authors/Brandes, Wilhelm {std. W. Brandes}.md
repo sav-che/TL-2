@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103414#page/352/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33120435) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandes, Wilhelm {std. W. Brandes} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brandes, Wilhelm (x-1916), German botanist at Hannover, later in Hermannsburg. (*W. Brandes*).
+Brandes, Wilhelm (x-1916), German botanist at Hannover, later in Hermannsburg. 
+**Abbreviated name**: *W. Brandes*
 
 #### Herbarium and types
 

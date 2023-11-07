@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/103835#page/37/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33260015) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Doerrien, Catherina Helena {std. Doerr.}|first entry]] for this author
 
 ### Author
 
-\* Doerrien, Catharina (Katharina) Helena (1717-1795), German artist and botanist, born 28 Feb 1717 at Hildesheim, made drawings of all plants she found growing in the district of "Oranien-Nassau" and published a flora on this district, she was a member of several scientific societies, died 7/8 Jan 1795. (*Doerr.*).
+\* Doerrien, Catharina (Katharina) Helena (1717-1795), German artist and botanist, born 28 Feb 1717 at Hildesheim, made drawings of all plants she found growing in the district of "Oranien-Nassau" and published a flora on this district, she was a member of several scientific societies, died 7/8 Jan 1795. 
+**Abbreviated name**: *Doerr.*
 
 #### Herbarium and types
 

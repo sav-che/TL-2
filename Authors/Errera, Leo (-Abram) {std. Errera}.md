@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/item/103414#page/847/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33120930) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Errera, Léo(-Abram) {std. Errera} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Errera, Leo \[-Abram\] (1858-1905), Belgian botanist of Italian/German descent, physiologist, evolutionary biologist and philosopher. (*Errera*).
+Errera, Leo \[-Abram\] (1858-1905), Belgian botanist of Italian/German descent, physiologist, evolutionary biologist and philosopher. 
+**Abbreviated name**: *Errera*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103414#page/138/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baglietto, Francesco {std. Bagl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baglietto, Francesco (1826-1916), Italian physician and lichenologist, botanist at the University of Genoa 1856-1899. (*Bagl.*).
+Baglietto, Francesco (1826-1916), Italian physician and lichenologist, botanist at the University of Genoa 1856-1899. 
+**Abbreviated name**: *Bagl.*
 
 #### Herbarium and types
 

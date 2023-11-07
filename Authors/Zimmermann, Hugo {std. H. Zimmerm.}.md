@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/item/103250#page/600/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33066880) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zimmermann, Hugo (1862-1933), Bohemian botanist and high school teacher, later at Dornbirn (Vorarlberg) and Eisgrub (Moravia). (*H. Zimmerm.*).
+Zimmermann, Hugo (1862-1933), Bohemian botanist and high school teacher, later at Dornbirn (Vorarlberg) and Eisgrub (Moravia). 
+**Abbreviated name**: *H. Zimmerm.*
 
 #### Herbarium and types
 

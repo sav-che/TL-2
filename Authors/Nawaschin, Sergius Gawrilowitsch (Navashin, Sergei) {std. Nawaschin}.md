@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/item/104137#page/716/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33355787) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nawaschin, Sergius Gawrilowitsch \[Navashin, Sergei, Gavrilovich\] (1857-1930), Russian botanist (cytologist); lecturer at St. Petersburg 1888-1894; from 1894-1915 director of the botanical garden at Kiew; from 1915-1923 at Tiflis; from 1923 at Moscow as head of the Timiriazev Inst., from 1929 at the Gytological Laboratory of the Academy of Sciences, Detskoje Selo nr. Leningrad. (*Nawaschin*).
+Nawaschin, Sergius Gawrilowitsch \[Navashin, Sergei, Gavrilovich\] (1857-1930), Russian botanist (cytologist); lecturer at St. Petersburg 1888-1894; from 1894-1915 director of the botanical garden at Kiew; from 1915-1923 at Tiflis; from 1923 at Moscow as head of the Timiriazev Inst., from 1929 at the Gytological Laboratory of the Academy of Sciences, Detskoje Selo nr. Leningrad. 
+**Abbreviated name**: *Nawaschin*
 
 #### Herbarium and types
 

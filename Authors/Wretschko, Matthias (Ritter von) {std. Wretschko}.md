@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103250#page/523/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33066803) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wretschko, Matthias \[Ritter von\] (1834-1914), Austrian teacher and naturalist; studied in Graz and Wien, teacher's examination 1857; Dr. phil. Wien 1859; teacher at a Gymnasium in Pesth (Budapest) 1859-1861; idem in Laibach (Ljubljana) 1861-1865; at the Academic Gymnasium in Wien 1865-1869; habil. Wien 1866; regional supervisor for natural sciences and mathematics in the high school system of S.E. Austria at Graz 1869-1877; idem for lower Austria in Wien 1877; ennobled 1883. (*Wretschko*).
+Wretschko, Matthias \[Ritter von\] (1834-1914), Austrian teacher and naturalist; studied in Graz and Wien, teacher's examination 1857; Dr. phil. Wien 1859; teacher at a Gymnasium in Pesth (Budapest) 1859-1861; idem in Laibach (Ljubljana) 1861-1865; at the Academic Gymnasium in Wien 1865-1869; habil. Wien 1866; regional supervisor for natural sciences and mathematics in the high school system of S.E. Austria at Graz 1869-1877; idem for lower Austria in Wien 1877; ennobled 1883. 
+**Abbreviated name**: *Wretschko*
 
 #### Herbarium and types
 

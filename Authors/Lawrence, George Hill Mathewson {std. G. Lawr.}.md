@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/103253#page/799/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lawrence, George Hill Mathewson (1910-1978), American botanist; Ph. D. Ithaca 1939; at the Bailey Hortorium and Cornell University 1937-1943, 1945-1960; director of the Hunt Botanical library from 1960; ultimately at East Greenwich, Rhode Island. (*G. Lawr.*).
+Lawrence, George Hill Mathewson (1910-1978), American botanist; Ph. D. Ithaca 1939; at the Bailey Hortorium and Cornell University 1937-1943, 1945-1960; director of the Hunt Botanical library from 1960; ultimately at East Greenwich, Rhode Island. 
+**Abbreviated name**: *G. Lawr.*
 
 #### Herbarium and types
 

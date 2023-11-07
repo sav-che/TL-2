@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103253#page/59/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33068275) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Halsted, Byron David (1852-1918), American botanist and pioneer phytopathologist; graduate of Michigan Agricultural College; D.Sc. Harvard 1878; amateur baseball pitcher; at Iowa Agricultural College 1885-1889; one of the original members of the Advisory board for the North American Flora; professor of botany at Rutgers College and botanist at the New Jersey Agricultural Experiment Station 1889-1918. (*Halst.*).
+Halsted, Byron David (1852-1918), American botanist and pioneer phytopathologist; graduate of Michigan Agricultural College; D.Sc. Harvard 1878; amateur baseball pitcher; at Iowa Agricultural College 1885-1889; one of the original members of the Advisory board for the North American Flora; professor of botany at Rutgers College and botanist at the New Jersey Agricultural Experiment Station 1889-1918. 
+**Abbreviated name**: *Halst.*
 
 #### Herbarium and types
 

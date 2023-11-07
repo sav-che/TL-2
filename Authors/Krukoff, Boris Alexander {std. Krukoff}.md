@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/item/103253#page/707/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krukoff, Boris Alexander (1898-x), Russian-born American botanical explorer; honorary curator of economic botany at NY 1941-1950, honorary curator 1971-x. (*Krukoff*).
+Krukoff, Boris Alexander (1898-x), Russian-born American botanical explorer; honorary curator of economic botany at NY 1941-1950, honorary curator 1971-x. 
+**Abbreviated name**: *Krukoff*
 
 #### Herbarium and types
 

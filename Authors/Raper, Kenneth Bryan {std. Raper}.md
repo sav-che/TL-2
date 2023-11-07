@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/item/103624#page/593/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raper, Kenneth Bryan (1908-x), American mycologist; studied at Univ. N. Carolina (AB 1929), George Washington Univ. (AM 1931) and Harvard (Dr. phil. 1936); professor of microbiology Univ. of Wisconsin. (*Raper*).
+Raper, Kenneth Bryan (1908-x), American mycologist; studied at Univ. N. Carolina (AB 1929), George Washington Univ. (AM 1931) and Harvard (Dr. phil. 1936); professor of microbiology Univ. of Wisconsin. 
+**Abbreviated name**: *Raper*
 
 #### Herbarium and types
 

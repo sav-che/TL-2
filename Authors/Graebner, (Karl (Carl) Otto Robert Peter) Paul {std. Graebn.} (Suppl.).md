@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103832#page/332/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33258798) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Graebner, Karl Otto Robert Peter Paul {std. Graebn.}|first entry]] for this author
 
 ### Author
 
-\* Graebner, \[Karl (Carl) Otto Robert Peter\] Paul (1871-1933), German botanist, born 29 Jun 1871 in Aplerbeck (nr. Dortmund), studied at the Kolberg Kgl. Dom. Realgymnasium 1882-1888, in military 1888-1889, employed in nurseries in Gardelegen and Steglitz nr. Berlin, at the garden school Wildpark 1890, volunteer asst. at the Berlin Botanic Garden 1891, studied botany at Berlin Univ. at the instigation of F. Pax, asst. to P. Ascherson 1892, Dr. phil. 1895 Univ. of Berlin, from 1895 employed at the Berlin Botanic Garden, from 1903 also employed by the Dahlem horticultural school, prof. 1910, expert on the heather communities in n. Germany, died 6 Feb 1933 in Berlin (buried in Lichterfelde). (*Graebn.*).
+\* Graebner, \[Karl (Carl) Otto Robert Peter\] Paul (1871-1933), German botanist, born 29 Jun 1871 in Aplerbeck (nr. Dortmund), studied at the Kolberg Kgl. Dom. Realgymnasium 1882-1888, in military 1888-1889, employed in nurseries in Gardelegen and Steglitz nr. Berlin, at the garden school Wildpark 1890, volunteer asst. at the Berlin Botanic Garden 1891, studied botany at Berlin Univ. at the instigation of F. Pax, asst. to P. Ascherson 1892, Dr. phil. 1895 Univ. of Berlin, from 1895 employed at the Berlin Botanic Garden, from 1903 also employed by the Dahlem horticultural school, prof. 1910, expert on the heather communities in n. Germany, died 6 Feb 1933 in Berlin (buried in Lichterfelde). 
+**Abbreviated name**: *Graebn.*
 
 #### Note
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/item/104077#page/655/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/page/33333780) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skutch, Alexander Frank (1904-x), American botanist; BA Johns Hopkins 1925, Dr. phil. 1928; assistant botanist ib. 1925-1928; Johnston scholar 1928-1930; Natl. Res. Counc. fellow 1930-1931; collected in Guatemala, Costa Rica and Ecuador. (*Skutch*).
+Skutch, Alexander Frank (1904-x), American botanist; BA Johns Hopkins 1925, Dr. phil. 1928; assistant botanist ib. 1925-1928; Johnston scholar 1928-1930; Natl. Res. Counc. fellow 1930-1931; collected in Guatemala, Costa Rica and Ecuador. 
+**Abbreviated name**: *Skutch*
 
 #### Herbarium and types
 

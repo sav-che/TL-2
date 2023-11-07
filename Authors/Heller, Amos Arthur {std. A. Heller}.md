@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103253#page/172/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33068388) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heller, Amos Arthur (1867-1944), American plant collector; field agent for USDA 1872-1896; at the University of Minnesota 1896-1898, from 1908-1913 at the University of Nevada; from 1913-1938 teacher at Chico high school, Chico, California; founder and publisher of Muhlenbergia. (*A. Heller*).
+Heller, Amos Arthur (1867-1944), American plant collector; field agent for USDA 1872-1896; at the University of Minnesota 1896-1898, from 1908-1913 at the University of Nevada; from 1913-1938 teacher at Chico high school, Chico, California; founder and publisher of Muhlenbergia. 
+**Abbreviated name**: *A. Heller*
 
 #### Herbarium and types
 

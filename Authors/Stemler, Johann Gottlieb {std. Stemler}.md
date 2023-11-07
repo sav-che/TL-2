@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/item/104077#page/896/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33334021) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stemler, Johann Gottlieb (1788-x), Ruthenian-German ("rutheno-variscus") botanist; Dr. phil. Jena 1810, Dr. med. Würzburg 1811; practicing physician (1811), later regional physician in Zeulenroda (Vogtland). (*Stemler*).
+Stemler, Johann Gottlieb (1788-x), Ruthenian-German ("rutheno-variscus") botanist; Dr. phil. Jena 1810, Dr. med. Würzburg 1811; practicing physician (1811), later regional physician in Zeulenroda (Vogtland). 
+**Abbreviated name**: *Stemler*
 
 #### Herbarium and types
 

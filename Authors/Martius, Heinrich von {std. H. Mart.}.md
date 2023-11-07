@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/104137#page/356/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33355427) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martius, Heinrich von (1781-1831), German botanist. (*H. Mart.*).
+Martius, Heinrich von (1781-1831), German botanist. 
+**Abbreviated name**: *H. Mart.*
 
 #### Herbarium and types
 

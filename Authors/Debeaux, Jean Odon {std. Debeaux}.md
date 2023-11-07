@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/item/103414#page/654/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33120737) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Debeaux, (Jean) Odon {std. Debeaux} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Debeaux, Jean Odon (1826-1910), French army pharmacist, botanist and malacologist at Toulouse. (*Debeaux*).
+Debeaux, Jean Odon (1826-1910), French army pharmacist, botanist and malacologist at Toulouse. 
+**Abbreviated name**: *Debeaux*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103834#page/248/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33259730) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fitschen, Jost (1869-1947), German teacher and dendrologist who specialized in conifers, born 1 Jan 1869 in Brest (Kr. Stade), attended the "Volksschule" and from 1886-1889 the seminary in Stade, teacher in Geversdorf 1889-1894, with O. Schmeil taught in Magdeburg 1894-1901, finally teacher and later rector in Hamburg-Altona 1901-1930, from 1930 until his death on 26 Jan 1947 in Hamburg-Altona he could only read or dictate because of a nervous disease. (*Fitschen*).
+Fitschen, Jost (1869-1947), German teacher and dendrologist who specialized in conifers, born 1 Jan 1869 in Brest (Kr. Stade), attended the "Volksschule" and from 1886-1889 the seminary in Stade, teacher in Geversdorf 1889-1894, with O. Schmeil taught in Magdeburg 1894-1901, finally teacher and later rector in Hamburg-Altona 1901-1930, from 1930 until his death on 26 Jan 1947 in Hamburg-Altona he could only read or dictate because of a nervous disease. 
+**Abbreviated name**: *Fitschen*
 
 #### Herbarium and types
 

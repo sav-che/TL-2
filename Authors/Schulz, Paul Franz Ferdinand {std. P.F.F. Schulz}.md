@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/104077#page/403/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, Paul Franz Ferdinand (1872-1919), German (Berlin) botanist; teacher at various Berlin schools; popular writer on cultivated plants. (*P.F.F. Schulz*).
+Schulz, Paul Franz Ferdinand (1872-1919), German (Berlin) botanist; teacher at various Berlin schools; popular writer on cultivated plants. 
+**Abbreviated name**: *P.F.F. Schulz*
 
 #### Herbarium and types
 

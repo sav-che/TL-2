@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/item/104077#page/539/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33333664) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sesler, Lionardo (x-1785), Venetian physician and naturalist and director of a botanical garden at Santa Maria di Sala. (*Sesl.*).
+Sesler, Lionardo (x-1785), Venetian physician and naturalist and director of a botanical garden at Santa Maria di Sala. 
+**Abbreviated name**: *Sesl.*
 
 #### Herbarium and types
 

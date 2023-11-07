@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103253#page/362/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33068578) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Horr, Asa \[Hor\] (1817-1896), American physician and botanist. (*Horr*).
+Horr, Asa \[Hor\] (1817-1896), American physician and botanist. 
+**Abbreviated name**: *Horr*
 
 #### Herbarium and types
 

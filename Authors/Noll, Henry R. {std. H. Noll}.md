@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/item/104137#page/780/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33355851) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noll, Henry R. (fl. 1852), American botanist (*H. Noll*).
+Noll, Henry R. (fl. 1852), American botanist 
+**Abbreviated name**: *H. Noll*
 
 #### Herbarium and types
 

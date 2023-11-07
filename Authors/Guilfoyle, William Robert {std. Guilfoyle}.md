@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103832#page/457/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33258923) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guilfoyle, William Robert (1840-1912), British-born Australian landscape gardener, botanist and civil servant, born 8 Dec 1840 in Chelsea (London), emigrated to Sydney, Australia 1853 with his family where his father, Michael Guilfoyle (1809-1884), established an active nursery business, attended Lyndhurst College, Glebe (Sydney), sailed (as "tourist") aboard H.M.S. *Challenger* in Pacific Ocean Mai-Oct 1868, farmed sugar cane and tobacco, Tweed River, n.e. New South Wales, appointed curator (i.e. Dir.), Royal Botanic Gardens, Melbourne 1873, and concentrated on transforming the gardens rather than on science as did his predecessor F. von Mueller, visited England and Europe 1890-1891 and 1896, retired because of ill health 1909, F.L.S., died 25 Jun 1912 in East Melbourne. (*Guilfoyle*).
+Guilfoyle, William Robert (1840-1912), British-born Australian landscape gardener, botanist and civil servant, born 8 Dec 1840 in Chelsea (London), emigrated to Sydney, Australia 1853 with his family where his father, Michael Guilfoyle (1809-1884), established an active nursery business, attended Lyndhurst College, Glebe (Sydney), sailed (as "tourist") aboard H.M.S. *Challenger* in Pacific Ocean Mai-Oct 1868, farmed sugar cane and tobacco, Tweed River, n.e. New South Wales, appointed curator (i.e. Dir.), Royal Botanic Gardens, Melbourne 1873, and concentrated on transforming the gardens rather than on science as did his predecessor F. von Mueller, visited England and Europe 1890-1891 and 1896, retired because of ill health 1909, F.L.S., died 25 Jun 1912 in East Melbourne. 
+**Abbreviated name**: *Guilfoyle*
 
 #### Herbarium and types
 

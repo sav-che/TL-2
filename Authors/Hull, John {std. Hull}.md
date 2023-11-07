@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103253#page/386/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33068602) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hull, John (1761-1843), British botanist; MD Leiden (1792); later physician at Manchester. (*Hull*).
+Hull, John (1761-1843), British botanist; MD Leiden (1792); later physician at Manchester. 
+**Abbreviated name**: *Hull*
 
 #### Herbarium and types
 

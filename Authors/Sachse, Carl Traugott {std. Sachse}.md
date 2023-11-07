@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/item/103624#page/1058/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/page/33190515) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sachse, Carl Traugott (1815-1863), German (Saxonian) naturalist and high school teacher at Dresden. (*Sachse*).
+Sachse, Carl Traugott (1815-1863), German (Saxonian) naturalist and high school teacher at Dresden. 
+**Abbreviated name**: *Sachse*
 
 #### Herbarium and types
 

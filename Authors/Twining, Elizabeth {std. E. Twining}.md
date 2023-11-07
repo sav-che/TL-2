@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/item/103683#page/569/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33212601) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Twining, Elizabeth (1805-1889), British philanthropist, educator and botanist. (*E. Twining*).
+Twining, Elizabeth (1805-1889), British philanthropist, educator and botanist. 
+**Abbreviated name**: *E. Twining*
 
 #### Herbarium and types
 

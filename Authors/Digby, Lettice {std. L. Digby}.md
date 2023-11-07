@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103833#page/350/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33259384) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Digby, Lettice (fl. 1905-1919), British botanist interested in cytology. (*L. Digby*).
+Digby, Lettice (fl. 1905-1919), British botanist interested in cytology. 
+**Abbreviated name**: *L. Digby*
 
 #### Herbarium and types
 

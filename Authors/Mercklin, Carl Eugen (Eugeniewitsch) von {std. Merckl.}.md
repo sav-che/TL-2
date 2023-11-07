@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/104137#page/437/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33355508) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mercklin, Carl Eugen \[Eugeniewitsch\] von (1821-1904), Livonian (Baltic-German) botanist and paleontologist; studied at Dorpat and Jena, Dr. phil. Jena 1846; from 1848-1855 plant physiologist at St. Petersburg; professor of forestry botany at St. Petersburg 1847-1865; professor of botany at the medical academy of St. Petersburg 1867. (*Merckl.*).
+Mercklin, Carl Eugen \[Eugeniewitsch\] von (1821-1904), Livonian (Baltic-German) botanist and paleontologist; studied at Dorpat and Jena, Dr. phil. Jena 1846; from 1848-1855 plant physiologist at St. Petersburg; professor of forestry botany at St. Petersburg 1847-1865; professor of botany at the medical academy of St. Petersburg 1867. 
+**Abbreviated name**: *Merckl.*
 
 #### Herbarium and types
 

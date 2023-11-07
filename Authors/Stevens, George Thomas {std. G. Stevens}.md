@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/item/104077#page/931/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/page/33334056) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stevens, George Thomas (1832-1921), American physician and botanist; M.D. Castleton (Vt.) Med. Coll. 1857; army surgeon until 1870; at Union University 1870-1875; practicing physician in New York from 1880. (*G. Stevens*).
+Stevens, George Thomas (1832-1921), American physician and botanist; M.D. Castleton (Vt.) Med. Coll. 1857; army surgeon until 1870; at Union University 1870-1875; practicing physician in New York from 1880. 
+**Abbreviated name**: *G. Stevens*
 
 #### Herbarium and types
 

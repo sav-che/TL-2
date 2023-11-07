@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/104137#page/786/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Norén, Carl Otto Gustaf (1876-1914), Swedish botanist; Dr. phil. Uppsala 1907; high school teacher in Stockholm (1910), Karlskrona (1911), and Vänersborg (1914). (*Norén*).
+Norén, Carl Otto Gustaf (1876-1914), Swedish botanist; Dr. phil. Uppsala 1907; high school teacher in Stockholm (1910), Karlskrona (1911), and Vänersborg (1914). 
+**Abbreviated name**: *Norén*
 
 #### Herbarium and types
 

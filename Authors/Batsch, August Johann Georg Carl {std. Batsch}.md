@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/103414#page/188/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33120271) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Batsch, August Johann Georg Carl (Karl) {std. Batsch} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Batsch, August Johann Georg Carl (1761-1802), German botanist at Jena, professor of botany, director of the "Physikalische Gesellschaft." (*Batsch*).
+Batsch, August Johann Georg Carl (1761-1802), German botanist at Jena, professor of botany, director of the "Physikalische Gesellschaft." 
+**Abbreviated name**: *Batsch*
 
 #### Herbarium and types
 

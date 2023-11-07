@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103250#page/222/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weismann, August (1834-1914), German (Hessen) zoologist and geneticist; studied medicine at Göttingen; practiced at Rostock; at the University of Freiburg i.Br. as lecturer 1863, professor 1866, full professor 1873-1912; early student of chromosomes and evolutionary biology and originator of the germplasm theory of heredity. (*Weismann*).
+Weismann, August (1834-1914), German (Hessen) zoologist and geneticist; studied medicine at Göttingen; practiced at Rostock; at the University of Freiburg i.Br. as lecturer 1863, professor 1866, full professor 1873-1912; early student of chromosomes and evolutionary biology and originator of the germplasm theory of heredity. 
+**Abbreviated name**: *Weismann*
 
 #### Herbarium and types
 

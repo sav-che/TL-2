@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/item/103683#page/791/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33212823) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voümann, Franz (1858-1917), German (Bavarian/Swabian) botanist; studied classical languages and natural sciences at the University of München 1877-1881; assistant teacher at the "Gymnasium" of Speyer 1882, id. at the Metten Benedictine monastery 1882; id. at the "Gymnasium" at Regensburg 1886, regular teacher ib. 188; Dr. hist. Erlangen 1890; librarian of the Botanische Gesellschaft Regensburg; professor's title 1898; in a similar position in München 1900-1917, from 1912 as "Studienrat". (*Vollmann*).
+Voümann, Franz (1858-1917), German (Bavarian/Swabian) botanist; studied classical languages and natural sciences at the University of München 1877-1881; assistant teacher at the "Gymnasium" of Speyer 1882, id. at the Metten Benedictine monastery 1882; id. at the "Gymnasium" at Regensburg 1886, regular teacher ib. 188; Dr. hist. Erlangen 1890; librarian of the Botanische Gesellschaft Regensburg; professor's title 1898; in a similar position in München 1900-1917, from 1912 as "Studienrat". 
+**Abbreviated name**: *Vollmann*
 
 #### Herbarium and types
 

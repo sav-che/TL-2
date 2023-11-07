@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/item/103832#page/440/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33258906) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gruner, Leopold Fedorovich (1839-x), Russian-born German field botanist, born 2/14 Oct 1839 in Livland (then a Russian province), collected plants with Eduard Lehmann. (*L. Gruner*).
+Gruner, Leopold Fedorovich (1839-x), Russian-born German field botanist, born 2/14 Oct 1839 in Livland (then a Russian province), collected plants with Eduard Lehmann. 
+**Abbreviated name**: *L. Gruner*
 
 #### Herbarium and types
 

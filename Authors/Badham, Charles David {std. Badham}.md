@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103414#page/137/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33120220) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Badham, Charles David {std. Badham} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Badham, Charles David (1806-1857), British clergyman and mycologist, practised in Rome and Paris, curate of E. Bergholt, 1849-1855. (*==Name in the standard form is not specified==.*).
+Badham, Charles David (1806-1857), British clergyman and mycologist, practised in Rome and Paris, curate of E. Bergholt, 1849-1855. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Herbarium and types
 

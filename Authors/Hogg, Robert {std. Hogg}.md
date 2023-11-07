@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103253#page/277/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33068493) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hogg, Robert (1818-1897), British horticulturist and editor. (*Hogg*).
+Hogg, Robert (1818-1897), British horticulturist and editor. 
+**Abbreviated name**: *Hogg*
 
 #### Herbarium and types
 

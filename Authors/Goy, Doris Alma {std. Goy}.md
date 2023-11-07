@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103832#page/330/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33258796) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goy, Doris Alma (1912-1999), Australian botanist, born in Mount Morgan, Queensland, educated in Mount Morgan state primary and high schools, clerk, Dept. of Agriculture and Stock, Brisbane, Queensland, transfered to Botany Branch (now Queensland Herb.) early 1930s, married botanist Lindsay Stuart Smith (1917-1970) in 1942 and her marriage brought her (then) compulsory retirement, active member Queensland Naturalists' Club and a specialist in Australian ferns, died 9 Oct 1999 in Chernside, Brisbane. (*Goy*).
+Goy, Doris Alma (1912-1999), Australian botanist, born in Mount Morgan, Queensland, educated in Mount Morgan state primary and high schools, clerk, Dept. of Agriculture and Stock, Brisbane, Queensland, transfered to Botany Branch (now Queensland Herb.) early 1930s, married botanist Lindsay Stuart Smith (1917-1970) in 1942 and her marriage brought her (then) compulsory retirement, active member Queensland Naturalists' Club and a specialist in Australian ferns, died 9 Oct 1999 in Chernside, Brisbane. 
+**Abbreviated name**: *Goy*
 
 #### Note
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103250#page/207/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33066487) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wehmeyer, Lewis Edgar (1897-1971), American botanist; Dr. phil. Univ. Michigan 1925; Emma J. Cole Fellowship ib. 1922-1925; Natl. Research Council fellow Harvard Univ. 1925-1928; instructor in botany Univ. Michigan 1928, asst. prof. 1931, assoc. prof. 1937; regular professor 1947-1967; professor emeritus 1967-1971. (*Wehmeyer*).
+Wehmeyer, Lewis Edgar (1897-1971), American botanist; Dr. phil. Univ. Michigan 1925; Emma J. Cole Fellowship ib. 1922-1925; Natl. Research Council fellow Harvard Univ. 1925-1928; instructor in botany Univ. Michigan 1928, asst. prof. 1931, assoc. prof. 1937; regular professor 1947-1967; professor emeritus 1967-1971. 
+**Abbreviated name**: *Wehmeyer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103861#page/123/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33266420) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broeck, Henry van den (1845-1926), Belgian (Antwerpen born) businessman, sometime commercial correspondent for an American firm, in retirement interested in the flora of Belgium and bryology, correspondent of Jules Cardot. (*Broeck*).
+Broeck, Henry van den (1845-1926), Belgian (Antwerpen born) businessman, sometime commercial correspondent for an American firm, in retirement interested in the flora of Belgium and bryology, correspondent of Jules Cardot. 
+**Abbreviated name**: *Broeck*
 
 #### Herbarium and types
 

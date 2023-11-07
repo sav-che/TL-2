@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/104077#page/163/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33333288) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schiffner, Victor Félix (1862-1944), Bohemian-born Austrian botanist; Dr. phil. Praha 1886; assistant with M. Willkomm and R. v. Wettstein at the Botanical Institute of the German University Prag (Praha) 1884-1896, and lecturer in systematic botany ib. 1888-1896; extra-ordinary professor of botany ib. 1896-1902; at Buitenzorg (Bogor, Java) 1893-1894; extra-ord. prof. of systematic botany ib. 1896-1902; in Brazil (with R. v. Wettstein) 1901; extra-ord. prof. of systematic botany at the university of Wien 1902-1904; regular professor 1904-1932; outstanding hepaticologist. (*Schiffn.*).
+Schiffner, Victor Félix (1862-1944), Bohemian-born Austrian botanist; Dr. phil. Praha 1886; assistant with M. Willkomm and R. v. Wettstein at the Botanical Institute of the German University Prag (Praha) 1884-1896, and lecturer in systematic botany ib. 1888-1896; extra-ordinary professor of botany ib. 1896-1902; at Buitenzorg (Bogor, Java) 1893-1894; extra-ord. prof. of systematic botany ib. 1896-1902; in Brazil (with R. v. Wettstein) 1901; extra-ord. prof. of systematic botany at the university of Wien 1902-1904; regular professor 1904-1932; outstanding hepaticologist. 
+**Abbreviated name**: *Schiffn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/item/104137#page/566/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33355637) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Molisch, Hans (1856-1937), Moravian (Austrian) botanist; Dr. phil. Wien 1879; habil. id. 1885; at the Pflanzenphysiol. Inst. Wien 1880-1889; at Graz and Praha 1889-1908; from 1909-1928 director of the Pflanzenphysiol. Inst. Wien. (*Molisch*).
+Molisch, Hans (1856-1937), Moravian (Austrian) botanist; Dr. phil. Wien 1879; habil. id. 1885; at the Pflanzenphysiol. Inst. Wien 1880-1889; at Graz and Praha 1889-1908; from 1909-1928 director of the Pflanzenphysiol. Inst. Wien. 
+**Abbreviated name**: *Molisch*
 
 #### Herbarium and types
 

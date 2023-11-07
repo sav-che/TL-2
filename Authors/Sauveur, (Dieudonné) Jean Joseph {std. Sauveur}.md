@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/item/104077#page/94/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33333219) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sauveur, \[Dieudonné\] Jean Joseph (1797-1862), Belgian administrator and palaeobotanist; professor of legal medicine and hygiene, Univ. Liège, from 1825; later member of the state council for public hygiene and inspector of the sanitary services with the department of the interior; born and died in Liège. (*Sauveur*).
+Sauveur, \[Dieudonné\] Jean Joseph (1797-1862), Belgian administrator and palaeobotanist; professor of legal medicine and hygiene, Univ. Liège, from 1825; later member of the state council for public hygiene and inspector of the sanitary services with the department of the interior; born and died in Liège. 
+**Abbreviated name**: *Sauveur*
 
 #### Herbarium and types
 

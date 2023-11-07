@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/item/103624#page/991/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/page/33190448) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rueling, Johann Philipp (1741-?), German (Niedersachsen) physician in Einbeck and Nordheim; studied medicine at Göttingen. (*Ruel.*).
+Rueling, Johann Philipp (1741-?), German (Niedersachsen) physician in Einbeck and Nordheim; studied medicine at Göttingen. 
+**Abbreviated name**: *Ruel.*
 
 #### Herbarium and types
 

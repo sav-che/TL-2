@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/104077#page/197/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33333322) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schischkin, Boris Konstantinovich (1886-1963), Russian botanist; studied at the medical faculty of the University of Tomsk 1906-1911, on botanical trips in East Kazakhstan 1912-1914; served on the Turkish front in World War I, studying the flora of Armenia; from 1918-1924 botanist at the Herbarium of Georgia, Tiflis; from 1925-1931 professor of botany at Tomsk University; from 1931-1963 at the Botanical Museum (later incorporated in the Komarov Botanical institute), Leningrad; from 1938-1949 as director; professor of botany at Leningrad University 1945-1958; head of the Department of Systematics and Plant Geography of the Komarov Botanical Institute 1945-1963. (*Schischkin*).
+Schischkin, Boris Konstantinovich (1886-1963), Russian botanist; studied at the medical faculty of the University of Tomsk 1906-1911, on botanical trips in East Kazakhstan 1912-1914; served on the Turkish front in World War I, studying the flora of Armenia; from 1918-1924 botanist at the Herbarium of Georgia, Tiflis; from 1925-1931 professor of botany at Tomsk University; from 1931-1963 at the Botanical Museum (later incorporated in the Komarov Botanical institute), Leningrad; from 1938-1949 as director; professor of botany at Leningrad University 1945-1958; head of the Department of Systematics and Plant Geography of the Komarov Botanical Institute 1945-1963. 
+**Abbreviated name**: *Schischkin*
 
 #### Herbarium and types
 

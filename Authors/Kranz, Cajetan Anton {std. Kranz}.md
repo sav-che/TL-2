@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/item/103253#page/688/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kranz, Cajetan Anton (1839?-1886), German botanist at München. (*Kranz*).
+Kranz, Cajetan Anton (1839?-1886), German botanist at München. 
+**Abbreviated name**: *Kranz*
 
 #### Herbarium and types
 

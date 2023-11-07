@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/item/104077#page/834/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/page/33333959) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Squier, Ephraim George (1821-1888), American archeologist, ethnologist, diplomat and editor; journal editor at Albany, Hartford and Chilicothe 1841-1848; chargé d'affaires to the Central American republics 1849, U.S. commissioner in Peru 1863-1865; consul-general of Honduras in New York 1868. (*Squier*).
+Squier, Ephraim George (1821-1888), American archeologist, ethnologist, diplomat and editor; journal editor at Albany, Hartford and Chilicothe 1841-1848; chargé d'affaires to the Central American republics 1849, U.S. commissioner in Peru 1863-1865; consul-general of Honduras in New York 1868. 
+**Abbreviated name**: *Squier*
 
 #### Herbarium and types
 

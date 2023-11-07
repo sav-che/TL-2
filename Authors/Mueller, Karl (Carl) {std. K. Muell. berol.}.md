@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/item/104137#page/654/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33355725) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller, Karl ("Carl") (1817-1870), German botanist; continued the publication of Walpers Annales. (*K. Muell. berol.*).
+Mueller, Karl ("Carl") (1817-1870), German botanist; continued the publication of Walpers Annales. 
+**Abbreviated name**: *K. Muell. berol.*
 
 #### Herbarium and types
 

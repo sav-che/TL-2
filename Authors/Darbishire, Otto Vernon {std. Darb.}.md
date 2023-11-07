@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/103414#page/645/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33120728) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Darbishire, Otto Vernon {std. Darb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Darbishire, Otto Vernon (1870-1934), British lichenologist and algologist. (*Darb.*).
+Darbishire, Otto Vernon (1870-1934), British lichenologist and algologist. 
+**Abbreviated name**: *Darb.*
 
 #### Herbarium and types
 

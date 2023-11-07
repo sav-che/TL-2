@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/item/103414#page/365/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33120448) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bresàdola, Giacomo {std. Bres.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bresadola, Don Giacopo (Giacomo, abate) (1847-1929), Italia (nat his birth in Trient: Austrian) mycologist, "fürstbischoflicher Mensalverwalter" and "Ehrendomherr" in Trient. (*Bres.*).
+Bresadola, Don Giacopo (Giacomo, abate) (1847-1929), Italia (nat his birth in Trient: Austrian) mycologist, "fürstbischoflicher Mensalverwalter" and "Ehrendomherr" in Trient. 
+**Abbreviated name**: *Bres.*
 
 #### Herbarium and types
 

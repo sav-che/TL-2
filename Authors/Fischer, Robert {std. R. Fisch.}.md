@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103834#page/239/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33259721) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Robert (1894-after 1950), Austrian botanist esp. interested in algae (and later in plant diseases), born in Neuhof nr. Auspitz (Mähren), studied at the Univ. of Vienna 1918-1922, Dr. phil. 1922, employed by the "Bundesanstalt" for plant protection in Vienna. (*R. Fisch.*).
+Fischer, Robert (1894-after 1950), Austrian botanist esp. interested in algae (and later in plant diseases), born in Neuhof nr. Auspitz (Mähren), studied at the Univ. of Vienna 1918-1922, Dr. phil. 1922, employed by the "Bundesanstalt" for plant protection in Vienna. 
+**Abbreviated name**: *R. Fisch.*
 
 #### Herbarium and types
 

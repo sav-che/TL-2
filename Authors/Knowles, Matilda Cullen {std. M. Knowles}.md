@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/item/103253#page/609/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knowles, Matilda Cullen (1864-1933), Irish lichenologist at the \[National\] Science and Art Museum in Dublin from 1902. (*M. Knowles*).
+Knowles, Matilda Cullen (1864-1933), Irish lichenologist at the \[National\] Science and Art Museum in Dublin from 1902. 
+**Abbreviated name**: *M. Knowles*
 
 #### Herbarium and types
 

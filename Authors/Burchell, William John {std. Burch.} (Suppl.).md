@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103861#page/236/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33266533) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burchell, William John {std. Burch.}|first entry]] for this author
 
 ### Author
 
-\* Burchell, William John (1781-1863), British gardener, collector, explorer, Kew gardener, elected F.L.S. 1803, with the East India Company, schoolmaster and botanist at St. Helena 1805-1810, undertook private collecting expeditions in South Africa 1811-1815, explored and collected in Brazil, 1825-1826, around Rio de Janeiro, in the interior of Brazil and Argentina 1825-1829, returned to England, heir to R.A. Salisbury. (*Burch.*).
+\* Burchell, William John (1781-1863), British gardener, collector, explorer, Kew gardener, elected F.L.S. 1803, with the East India Company, schoolmaster and botanist at St. Helena 1805-1810, undertook private collecting expeditions in South Africa 1811-1815, explored and collected in Brazil, 1825-1826, around Rio de Janeiro, in the interior of Brazil and Argentina 1825-1829, returned to England, heir to R.A. Salisbury. 
+**Abbreviated name**: *Burch.*
 
 #### Herbarium and types
 

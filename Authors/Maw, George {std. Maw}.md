@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/104137#page/396/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33355467) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maw, George (1832-1912), British manufacturer of encaustic pottery at Brosely, Staffordshire; amateur naturalist, artist, geologist, and botanist; collected in the Near East and North Africa. (*Maw*).
+Maw, George (1832-1912), British manufacturer of encaustic pottery at Brosely, Staffordshire; amateur naturalist, artist, geologist, and botanist; collected in the Near East and North Africa. 
+**Abbreviated name**: *Maw*
 
 #### Herbarium and types
 

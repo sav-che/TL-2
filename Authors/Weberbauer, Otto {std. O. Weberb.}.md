@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103250#page/196/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33066476) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weberbauer, Otto (1846-1881), German (Silesian) mycologist; from 1868 living at Landeck, living on the proceeds of the family brewery. (*O. Weberb.*).
+Weberbauer, Otto (1846-1881), German (Silesian) mycologist; from 1868 living at Landeck, living on the proceeds of the family brewery. 
+**Abbreviated name**: *O. Weberb.*
 
 #### Herbarium and types
 

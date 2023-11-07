@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/item/104137#page/721/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nees von Esenbeck, Christian Gottfried Daniel (1776-1858), German nature-philosopher, physician and botanist; Dr. med. Giessen, 1800; physician at Sickershausen 1802; president of the "Leopoldina" 1818-1858; professor of botany at Erlangen (1818-1819), Bonn (1819-1830) and Breslau (1831-1851), formally dismissed 1851. (*Nees*).
+Nees von Esenbeck, Christian Gottfried Daniel (1776-1858), German nature-philosopher, physician and botanist; Dr. med. Giessen, 1800; physician at Sickershausen 1802; president of the "Leopoldina" 1818-1858; professor of botany at Erlangen (1818-1819), Bonn (1819-1830) and Breslau (1831-1851), formally dismissed 1851. 
+**Abbreviated name**: *Nees*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/item/103624#page/863/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33190320) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roemer, Max Joseph (1791-1849), German (Bavarian) botanist and "Landrichter" in Aub, later private scientist at Würzburg. (*M. Roem.*).
+Roemer, Max Joseph (1791-1849), German (Bavarian) botanist and "Landrichter" in Aub, later private scientist at Würzburg. 
+**Abbreviated name**: *M. Roem.*
 
 #### Herbarium and types
 

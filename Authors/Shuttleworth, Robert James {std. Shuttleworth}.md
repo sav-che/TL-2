@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/item/104077#page/589/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33333714) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shuttleworth, Robert James (1810-1874), British botanist and conchologist; studied medicine in Genève and Edinburgh, 1830-1832; lived in Bern, Switzerland 1833-1866 and Hyères, France 1866-1874, building up an important herbarium. (*Shuttleworth*).
+Shuttleworth, Robert James (1810-1874), British botanist and conchologist; studied medicine in Genève and Edinburgh, 1830-1832; lived in Bern, Switzerland 1833-1866 and Hyères, France 1866-1874, building up an important herbarium. 
+**Abbreviated name**: *Shuttleworth*
 
 #### Herbarium and types
 

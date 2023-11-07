@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103250#page/417/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33066697) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiltshear, Frederick Gilbert (1882-1917), British botanical bibliographer; with the Botanical Department of Botany of the British Museum from 1896 as boy-attendant, from 1905 as librarian; with the King's Royal Rifles on active service in World War I; died "of wounds" in France 1917. (*F. Wiltshear*).
+Wiltshear, Frederick Gilbert (1882-1917), British botanical bibliographer; with the Botanical Department of Botany of the British Museum from 1896 as boy-attendant, from 1905 as librarian; with the King's Royal Rifles on active service in World War I; died "of wounds" in France 1917. 
+**Abbreviated name**: *F. Wiltshear*
 
 #### Herbarium and types
 

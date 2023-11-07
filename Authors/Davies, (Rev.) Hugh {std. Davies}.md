@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/item/103833#page/111/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33259145) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davies, (Rev.) Hugh (1739-1821), British born on Anglesey, educated at Beaumaris Grammar School and Jesus College at Oxford, 1763 M.A. Oxford, 1787-1816 Rector of Aber, F.L.S. 1790. (*Davies*).
+Davies, (Rev.) Hugh (1739-1821), British born on Anglesey, educated at Beaumaris Grammar School and Jesus College at Oxford, 1763 M.A. Oxford, 1787-1816 Rector of Aber, F.L.S. 1790. 
+**Abbreviated name**: *Davies*
 
 #### Herbarium and types
 

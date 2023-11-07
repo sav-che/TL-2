@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/item/104137#page/340/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33355411) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martins, Charles Frédéric (1806-1889), French botanist and geologist; botanical explorer of Spitsbergen and the Mediterranean; from 1851-1879 director of the botanical garden and professor of botany at Montpellier. (*Martins*).
+Martins, Charles Frédéric (1806-1889), French botanist and geologist; botanical explorer of Spitsbergen and the Mediterranean; from 1851-1879 director of the botanical garden and professor of botany at Montpellier. 
+**Abbreviated name**: *Martins*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/item/103624#page/791/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33190248) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richter, Karl (1855-1891), Austrian botanist; Dr. phil. Wien 1877; "Privatgelehrter" in Wien, actively collecting herbarium collections and botanical works; compiler of the first volume of the *Plantae europaeae*. (*K. Richt.*).
+Richter, Karl (1855-1891), Austrian botanist; Dr. phil. Wien 1877; "Privatgelehrter" in Wien, actively collecting herbarium collections and botanical works; compiler of the first volume of the *Plantae europaeae*. 
+**Abbreviated name**: *K. Richt.*
 
 #### Herbarium and types
 

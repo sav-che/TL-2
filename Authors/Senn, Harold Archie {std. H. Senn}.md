@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/104077#page/523/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33333648) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Senn, Harold Archie (1912-x), Canadian botanist; Dr. phil. Univ. Virginia 1937; natural research fellow in botany, Harvard from 1937-1938; Asst., Div. Bot., Dept. Agric. Ottawa 1938-1941, assoc. botanist 1941-1945, senior botanist from 1945. (*H. Senn*).
+Senn, Harold Archie (1912-x), Canadian botanist; Dr. phil. Univ. Virginia 1937; natural research fellow in botany, Harvard from 1937-1938; Asst., Div. Bot., Dept. Agric. Ottawa 1938-1941, assoc. botanist 1941-1945, senior botanist from 1945. 
+**Abbreviated name**: *H. Senn*
 
 #### Herbarium and types
 

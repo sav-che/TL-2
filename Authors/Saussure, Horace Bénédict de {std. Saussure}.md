@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/104077#page/84/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33333209) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saussure, Horace Bénédict de (1740-1799), Swiss (Genève) naturalist; professor of philosophy at Genève 1762-1786; travelled extensively in the Alps and other parts of Central and Southern Europe between 1758 and 1779, especially interested in geology and meteorology; ascended Mont Blanc 1787. (*Saussure*).
+Saussure, Horace Bénédict de (1740-1799), Swiss (Genève) naturalist; professor of philosophy at Genève 1762-1786; travelled extensively in the Alps and other parts of Central and Southern Europe between 1758 and 1779, especially interested in geology and meteorology; ascended Mont Blanc 1787. 
+**Abbreviated name**: *Saussure*
 
 #### Herbarium and types
 

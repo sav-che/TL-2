@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103859#page/138/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33265325) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bertram, Ferdinand Wilhelm Werner (1835-1899), German clergyman and botanist, educated at the Gymnasium in Holzminden 1849-1854, studied theology at the University of Göttingen 1854, theological tentamen 1857, private teacher at Domaine Klus, nr. Gandersheim 1857-1859, teacher at the Preussische landwirtschaftliche Schule at Badersleben (Kreis Aschersleben) 1860, orphanist and seminar inspector at Wolfenbüttel 1866, parson at the St. Katharinenkirche in Braunschweig 1867-1899. (*Bertram*).
+Bertram, Ferdinand Wilhelm Werner (1835-1899), German clergyman and botanist, educated at the Gymnasium in Holzminden 1849-1854, studied theology at the University of Göttingen 1854, theological tentamen 1857, private teacher at Domaine Klus, nr. Gandersheim 1857-1859, teacher at the Preussische landwirtschaftliche Schule at Badersleben (Kreis Aschersleben) 1860, orphanist and seminar inspector at Wolfenbüttel 1866, parson at the St. Katharinenkirche in Braunschweig 1867-1899. 
+**Abbreviated name**: *Bertram*
 
 #### Herbarium and types
 

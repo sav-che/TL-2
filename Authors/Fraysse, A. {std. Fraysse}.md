@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103834#page/417/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33259899) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fraysse, A. (fl. 1905-1912), French botanist, studied parasitic phanerogams, Dr. ès-sciences 1906 Univ. of Paris. (*Fraysse*).
+Fraysse, A. (fl. 1905-1912), French botanist, studied parasitic phanerogams, Dr. ès-sciences 1906 Univ. of Paris. 
+**Abbreviated name**: *Fraysse*
 
 #### Herbarium and types
 

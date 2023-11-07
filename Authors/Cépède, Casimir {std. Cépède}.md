@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103860#page/33/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33265700) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cépède, Casimir (1880 \[?\]-1954), French biologist and bacteriologist. (*Cépède*).
+Cépède, Casimir (1880 \[?\]-1954), French biologist and bacteriologist. 
+**Abbreviated name**: *Cépède*
 
 #### Herbarium and types
 

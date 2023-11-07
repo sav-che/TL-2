@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/item/104077#page/147/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33333272) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schenckel, J. (*fl*. 1847), German botanist, high school teacher at Bad-Ems. (*Schenckel*).
+Schenckel, J. (*fl*. 1847), German botanist, high school teacher at Bad-Ems. 
+**Abbreviated name**: *Schenckel*
 
 #### Herbarium and types
 

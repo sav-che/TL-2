@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103861#page/46/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33266343) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Braun, Waldemar (1883-?), German physician and botanist, Baden-Baden born (18 Jan 1883), educated at the humanistic Gymnasium Rastatt, studied medicine at the universities of Würzburg, Strassburg and Berlin, med. exam. 1916, Dr. med. Berlin 1919, practicing in a gynaecological clinic for three years, military physician on active duty 1916-1919, from 1925 dedicating himself to botanical and cytological studies, Dr. phil. Berlin 1930. (*W. Braun*).
+Braun, Waldemar (1883-?), German physician and botanist, Baden-Baden born (18 Jan 1883), educated at the humanistic Gymnasium Rastatt, studied medicine at the universities of Würzburg, Strassburg and Berlin, med. exam. 1916, Dr. med. Berlin 1919, practicing in a gynaecological clinic for three years, military physician on active duty 1916-1919, from 1925 dedicating himself to botanical and cytological studies, Dr. phil. Berlin 1930. 
+**Abbreviated name**: *W. Braun*
 
 #### Herbarium and types
 

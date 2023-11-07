@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103859#page/62/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33265249) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Behrens, Johannes August (1864-1940), German (Hildesheim) botanist, educated at the Roman Catholic Seminar school and the Gymnasium Josephinum in Hildesheim 1874-1881, studied natural sciences at the University of Göttingen 1881-1885, id. Universität Kiel 1885-1886, Dr. phil. Kiel 1886, teacher's schooling 1886-1888, teacher at Hildesheim 1888-1889, assistant at the Agricultural-Botanical Experiment Station at Karlsruhe 1890-1900, habil. Karlsruhe 1894, extraordinary professor ib. 1898, briefly at the vinicultural experiment station Weinsberg 1900-1901, in charge of the Baden agricultural research station at Augustenberg 1901-1907, director of the Biologische Reichsanstalt Berlin-Dahlem 1907-1920, in retirement in Hildesheim from 1920, active in local floristics and conservation. (*J. Behrens*).
+Behrens, Johannes August (1864-1940), German (Hildesheim) botanist, educated at the Roman Catholic Seminar school and the Gymnasium Josephinum in Hildesheim 1874-1881, studied natural sciences at the University of Göttingen 1881-1885, id. Universität Kiel 1885-1886, Dr. phil. Kiel 1886, teacher's schooling 1886-1888, teacher at Hildesheim 1888-1889, assistant at the Agricultural-Botanical Experiment Station at Karlsruhe 1890-1900, habil. Karlsruhe 1894, extraordinary professor ib. 1898, briefly at the vinicultural experiment station Weinsberg 1900-1901, in charge of the Baden agricultural research station at Augustenberg 1901-1907, director of the Biologische Reichsanstalt Berlin-Dahlem 1907-1920, in retirement in Hildesheim from 1920, active in local floristics and conservation. 
+**Abbreviated name**: *J. Behrens*
 
 #### Herbarium and types
 

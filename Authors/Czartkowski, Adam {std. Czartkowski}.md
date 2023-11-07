@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/103860#page/540/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33266207) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Czartkowski, Adam (fl. 1911), Polish botanist in Warszawa. (*Czartkowski*).
+Czartkowski, Adam (fl. 1911), Polish botanist in Warszawa. 
+**Abbreviated name**: *Czartkowski*
 
 #### Herbarium and types
 

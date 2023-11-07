@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103860#page/397/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cosson, Ernest Saint-Charles {std. Coss.}|first entry]] for this author
 
 ### Author
 
-\* Cosson, Ernest \[Saint-Charles\] (1819-1889), French botanist and explorer, born at Paris, studied medicine at the University of Paris, Dr. med. 1847, however, mainly interested in botany from 1840, collected in Algeria 1840-1844, and worked on the Algerian botany, collecting 60.000 numbers before 1867, Chevalier de la Légion d'honneur 1865, officer id. 1880, member of the "Institut" from 1878. (*Coss.*).
+\* Cosson, Ernest \[Saint-Charles\] (1819-1889), French botanist and explorer, born at Paris, studied medicine at the University of Paris, Dr. med. 1847, however, mainly interested in botany from 1840, collected in Algeria 1840-1844, and worked on the Algerian botany, collecting 60.000 numbers before 1867, Chevalier de la Légion d'honneur 1865, officer id. 1880, member of the "Institut" from 1878. 
+**Abbreviated name**: *Coss.*
 
 #### Herbarium and types
 

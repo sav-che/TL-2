@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/103832#page/334/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33258800) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Graebner, Paul (1900-1978), German botanist, born 4 Feb 1900 in Berlin-Lichterfelde, Ph.D. 1924 Berlin, employed, Westfälisches Provinzial-Museum für Naturkunde, Münster 1931 (at least). (*Graebn. f.*).
+Graebner, Paul (1900-1978), German botanist, born 4 Feb 1900 in Berlin-Lichterfelde, Ph.D. 1924 Berlin, employed, Westfälisches Provinzial-Museum für Naturkunde, Münster 1931 (at least). 
+**Abbreviated name**: *Graebn. f.*
 
 #### Note
 

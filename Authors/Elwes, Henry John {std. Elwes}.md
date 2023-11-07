@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/103414#page/792/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33120875) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elwes, Henry John (1846-1922), British arboriculturist and plant collector. (*Elwes*).
+Elwes, Henry John (1846-1922), British arboriculturist and plant collector. 
+**Abbreviated name**: *Elwes*
 
 #### Herbarium and types
 

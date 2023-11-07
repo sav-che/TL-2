@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/item/103253#page/589/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33068805) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klebs, Georg Albrecht (1857-1918), German botanist, pupil of de Bary, Sachs and Pfeffer; Dr. phil. Strasbourg 1879; at Tübingen 1882; professor of botany at Basel 1887; id. at Halle 1898; id. at Heidelberg 1907. (*Klebs*).
+Klebs, Georg Albrecht (1857-1918), German botanist, pupil of de Bary, Sachs and Pfeffer; Dr. phil. Strasbourg 1879; at Tübingen 1882; professor of botany at Basel 1887; id. at Halle 1898; id. at Heidelberg 1907. 
+**Abbreviated name**: *Klebs*
 
 #### Herbarium and types
 

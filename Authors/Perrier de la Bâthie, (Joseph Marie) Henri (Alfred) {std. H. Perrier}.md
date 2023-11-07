@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103624#page/185/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33189642) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perrier de la Bâthie, \[Joseph Marie\] Henri \[Alfred\] (1873-1958), French botanist; nephew of E. Perrier; soldier in Indochina (Tonkin), from 1896-1933 living in Madagascar (1914-1918 in the French army in Europe), later in Paris. (*H. Perrier*).
+Perrier de la Bâthie, \[Joseph Marie\] Henri \[Alfred\] (1873-1958), French botanist; nephew of E. Perrier; soldier in Indochina (Tonkin), from 1896-1933 living in Madagascar (1914-1918 in the French army in Europe), later in Paris. 
+**Abbreviated name**: *H. Perrier*
 
 #### Herbarium and types
 

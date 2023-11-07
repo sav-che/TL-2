@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/item/103253#page/842/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33069058) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Legget, William Henry (1816-1882), American botanist, B. Sc. Columbia 1837. (*Legg.*).
+Legget, William Henry (1816-1882), American botanist, B. Sc. Columbia 1837. 
+**Abbreviated name**: *Legg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103858#page/218/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33264933) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aubréville, André (1897-1982), French botanist and Africa specialist; Ingenieur de l' École polytechnique 1922, at École des Eaux et Fôrets, à Nancy 1922. 1924, Chef des Services des Eaux rt Forêts, Côte d'Ivoire 1925-1937, Inspecteur général des Services forestieres de la France d'Outre-Mer 1939-1955; director of the Laboratoire de Phanérogamie, Muséum d'Histoire naturelle Paris and professor at this institution 1958-1980. (*Aubréville*).
+Aubréville, André (1897-1982), French botanist and Africa specialist; Ingenieur de l' École polytechnique 1922, at École des Eaux et Fôrets, à Nancy 1922. 1924, Chef des Services des Eaux rt Forêts, Côte d'Ivoire 1925-1937, Inspecteur général des Services forestieres de la France d'Outre-Mer 1939-1955; director of the Laboratoire de Phanérogamie, Muséum d'Histoire naturelle Paris and professor at this institution 1958-1980. 
+**Abbreviated name**: *Aubréville*
 
 #### Herbarium and types
 

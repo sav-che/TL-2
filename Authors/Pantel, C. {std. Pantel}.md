@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103624#page/59/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pantel, C. (*fl*. 1885), French botanist and geographer (*Pantel*).
+Pantel, C. (*fl*. 1885), French botanist and geographer 
+**Abbreviated name**: *Pantel*
 
 #### Herbarium and types
 

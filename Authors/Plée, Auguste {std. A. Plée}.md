@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/103624#page/307/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33189764) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plée, Auguste (1787-1825), French traveller for the Paris Muséum d'Histoire naturelle; from 1820-1825 in the West Indies. (*A. Plée*).
+Plée, Auguste (1787-1825), French traveller for the Paris Muséum d'Histoire naturelle; from 1820-1825 in the West Indies. 
+**Abbreviated name**: *A. Plée*
 
 #### Herbarium and types
 

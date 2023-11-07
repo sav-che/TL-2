@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103624#page/437/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Puel, Timothée (1812-1890), French botanist; practicing physician at Paris; worked mainly on the flora of the dépt. Lot. (*Puel*).
+Puel, Timothée (1812-1890), French botanist; practicing physician at Paris; worked mainly on the flora of the dépt. Lot. 
+**Abbreviated name**: *Puel*
 
 #### Herbarium and types
 

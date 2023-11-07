@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103835#page/240/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33260218) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eames, Arthur Johnson (1881-1969), American botanist, anatomist and phylogenist, born 10 Oct 1881 at Framingham, Mass., AB Harvard 1908, AM in 1910, Sheldon travelling fellow 1910-1911, Ph.D. in botany 1912, assistant in Harvard 1906-1912, instructor Cornell University 1912-1913, New York State Coll. Agric. 1913-1914, asst. prof. 1914-1920, prof. 1920-1948, died 12 Feb 1969, Ithaca, New York. (*A.J. Eames*).
+Eames, Arthur Johnson (1881-1969), American botanist, anatomist and phylogenist, born 10 Oct 1881 at Framingham, Mass., AB Harvard 1908, AM in 1910, Sheldon travelling fellow 1910-1911, Ph.D. in botany 1912, assistant in Harvard 1906-1912, instructor Cornell University 1912-1913, New York State Coll. Agric. 1913-1914, asst. prof. 1914-1920, prof. 1920-1948, died 12 Feb 1969, Ithaca, New York. 
+**Abbreviated name**: *A.J. Eames*
 
 #### Herbarium and types
 

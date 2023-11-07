@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103832#page/195/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33258661) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gepp, Antony {std. A. Gepp}|first entry]] for this author
 
 ### Author
 
-\* Gepp, Antony \[Anthony\] (1862-1955), British cryptogamic botanist, born 9 Mai 1862 in High Easter (Essex), B.A. 1885 Cambridge (St. John's College), hired as asst., BMNH 1886, Ph.D. 1889 Cambridge Univ., married fellow botanist Ethel Sarel Barton (1864-1922) on 9 Jun 1902, retired 1927, member, Committee on Bryological Nomenclature 1929, F.L.S., died 16 Dec 1955. (*A. Gepp*).
+\* Gepp, Antony \[Anthony\] (1862-1955), British cryptogamic botanist, born 9 Mai 1862 in High Easter (Essex), B.A. 1885 Cambridge (St. John's College), hired as asst., BMNH 1886, Ph.D. 1889 Cambridge Univ., married fellow botanist Ethel Sarel Barton (1864-1922) on 9 Jun 1902, retired 1927, member, Committee on Bryological Nomenclature 1929, F.L.S., died 16 Dec 1955. 
+**Abbreviated name**: *A. Gepp*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103835#page/200/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33260178) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durheim, Carl (Karl) Jakob (1780-ca. 1856), Swiss botanist and "Oberzollverwalter" at Bern. (*C.J. Durheim*).
+Durheim, Carl (Karl) Jakob (1780-ca. 1856), Swiss botanist and "Oberzollverwalter" at Bern. 
+**Abbreviated name**: *C.J. Durheim*
 
 #### Herbarium and types
 

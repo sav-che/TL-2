@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103250#page/75/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33066355) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wahl, Carl Georg von (1869-?), Baltic German (Livonian) botanist; studied natural sciences at Dorpat 1890-1893; botany at Berlin 1893-1896, student of A. Engler, K. Schumann, S. Schwendener; Dr. phil. Berlin 1896; later head of the botanical division of the "Badische Staatliche Landwirtschaftliche Versuchsanstalt Augustenberg near Karlsruhe. (*C. Wahl*).
+Wahl, Carl Georg von (1869-?), Baltic German (Livonian) botanist; studied natural sciences at Dorpat 1890-1893; botany at Berlin 1893-1896, student of A. Engler, K. Schumann, S. Schwendener; Dr. phil. Berlin 1896; later head of the botanical division of the "Badische Staatliche Landwirtschaftliche Versuchsanstalt Augustenberg near Karlsruhe. 
+**Abbreviated name**: *C. Wahl*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103860#page/306/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265973) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Conard, Henry Shoemaker {std. Conard}|first entry]] for this author
 
 ### Author
 
-\* Conard, Henry Shoemaker (1874-1971), American botanist, student of the vegetation of Iowa, born in Philadelphia, Pennsylvania, educated at Haverford College, Bachelor of Science 1894, Master of Arts 1895, Harrison Fellow at the University of Pennsylvania 1895-1897, Doctor of Philosophy 1901, teaching and post-doctoral assignment at Westtown Boarding School, University of Pennsylvania and Johns Hopkins University, from 1906-1944 professor of botany at Grinnell College, Iowa, Doctor of Science by Grinnell 1944, id. Haverford College, died at Lake Hamilton, Florida 7 Oct 1971. (*Conard*).
+\* Conard, Henry Shoemaker (1874-1971), American botanist, student of the vegetation of Iowa, born in Philadelphia, Pennsylvania, educated at Haverford College, Bachelor of Science 1894, Master of Arts 1895, Harrison Fellow at the University of Pennsylvania 1895-1897, Doctor of Philosophy 1901, teaching and post-doctoral assignment at Westtown Boarding School, University of Pennsylvania and Johns Hopkins University, from 1906-1944 professor of botany at Grinnell College, Iowa, Doctor of Science by Grinnell 1944, id. Haverford College, died at Lake Hamilton, Florida 7 Oct 1971. 
+**Abbreviated name**: *Conard*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103859#page/192/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33265379) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bivona-Bernardi, Antonino de {std. Biv.}|first entry]] for this author
 
 ### Author
 
-\* Bivona-Bernardi, Antonio (1774-1837), Italian (Sicilian) botanist, son of Andrea Bernardi, adopted by Bar. Antonino Bivona, having been an orphan at an early age, general inspector of the water and forests of Sicilia, died of cholera. (*Biv.*).
+\* Bivona-Bernardi, Antonio (1774-1837), Italian (Sicilian) botanist, son of Andrea Bernardi, adopted by Bar. Antonino Bivona, having been an orphan at an early age, general inspector of the water and forests of Sicilia, died of cholera. 
+**Abbreviated name**: *Biv.*
 
 #### Herbarium and types
 

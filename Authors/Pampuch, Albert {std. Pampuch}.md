@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103624#page/55/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33189474) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pampuch, Albert (*fl*. 1840), German botanist, high school teacher at Tremessen (Trzemessno, now Poland) near Bromberg. (*Pampuch*).
+Pampuch, Albert (*fl*. 1840), German botanist, high school teacher at Tremessen (Trzemessno, now Poland) near Bromberg. 
+**Abbreviated name**: *Pampuch*
 
 #### Herbarium and types
 

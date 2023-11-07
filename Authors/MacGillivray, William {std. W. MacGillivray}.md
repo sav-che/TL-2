@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/104137#page/237/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33355308) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-MacGillivray, William (1796-1852), Scottish botanist and zoologist, MA Aberdeen 1815; at the Surgeons Museum Edinburgh 1831-1841; professor of natural history Aberdeen 1841-1852. (*W. MacGillivray*).
+MacGillivray, William (1796-1852), Scottish botanist and zoologist, MA Aberdeen 1815; at the Surgeons Museum Edinburgh 1831-1841; professor of natural history Aberdeen 1841-1852. 
+**Abbreviated name**: *W. MacGillivray*
 
 #### Herbarium and types
 

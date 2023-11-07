@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/103624#page/749/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Retzius, Anders Jahan (1742-1821), Swedish botanist; studied at Lund; pharmacist's examination Stockholm 1761; Dr. phil. Lund 1766; lecturer chemistry at Lund 1764, id. natural history 1767; "adjunkt" and demonstrator id. 1771; professor's title 1777; regular professor from 1781-1812; later residing in Stockholm; one of the founders of the Royal Physiographical Society at Lund; "a giant of learning" (Krok). (*Retz.*).
+Retzius, Anders Jahan (1742-1821), Swedish botanist; studied at Lund; pharmacist's examination Stockholm 1761; Dr. phil. Lund 1766; lecturer chemistry at Lund 1764, id. natural history 1767; "adjunkt" and demonstrator id. 1771; professor's title 1777; regular professor from 1781-1812; later residing in Stockholm; one of the founders of the Royal Physiographical Society at Lund; "a giant of learning" (Krok). 
+**Abbreviated name**: *Retz.*
 
 #### Herbarium and types
 

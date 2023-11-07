@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103414#page/247/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33120330) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernard, Georges (Eugène) {std. G. Bernard} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bernard, Georges Eugène (x-1925), French mycologist, "pharmacien major de Ire classe à l'hôpital militaire d'Aufrédi." (*G. Bernard*).
+Bernard, Georges Eugène (x-1925), French mycologist, "pharmacien major de Ire classe à l'hôpital militaire d'Aufrédi." 
+**Abbreviated name**: *G. Bernard*
 
 #### Herbarium and types
 

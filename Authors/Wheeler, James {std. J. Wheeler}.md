@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/item/103250#page/298/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33066578) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wheeler, James (*fl*. 1763), British nurseryman at Gloucester. (*J. Wheeler*).
+Wheeler, James (*fl*. 1763), British nurseryman at Gloucester. 
+**Abbreviated name**: *J. Wheeler*
 
 #### Herbarium and types
 

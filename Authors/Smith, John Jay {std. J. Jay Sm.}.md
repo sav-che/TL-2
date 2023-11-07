@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/item/104077#page/715/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33333840) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, John Jay (1798-1881), American writer; librarian of the Philadelphia and Loganian libraries 1829-1851; editor of several journals, serials and of many books. (*J. Jay Sm.*).
+Smith, John Jay (1798-1881), American writer; librarian of the Philadelphia and Loganian libraries 1829-1851; editor of several journals, serials and of many books. 
+**Abbreviated name**: *J. Jay Sm.*
 
 #### Bibliography and biography
 

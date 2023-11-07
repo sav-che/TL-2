@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/item/104077#page/719/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33333844) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, William Wright (1875-1956), British botanist; MA Edinburgh 1896; high school teacher Edinburgh 1896-1902; lecturer in botany, Edinburgh University 1902-1907; keeper herbarium Royal Botanic Garden, Calcutta 1907-1911; deputy keeper, Royal Botanic Garden, Edinburgh 1911-1922; regius keeper and director of the garden ib. 1922-1956; Veitch memorial medal 1929; knighted 1932. (*Wm.W. Sm.*).
+Smith, William Wright (1875-1956), British botanist; MA Edinburgh 1896; high school teacher Edinburgh 1896-1902; lecturer in botany, Edinburgh University 1902-1907; keeper herbarium Royal Botanic Garden, Calcutta 1907-1911; deputy keeper, Royal Botanic Garden, Edinburgh 1911-1922; regius keeper and director of the garden ib. 1922-1956; Veitch memorial medal 1929; knighted 1932. 
+**Abbreviated name**: *Wm.W. Sm.*
 
 #### Herbarium and types
 

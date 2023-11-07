@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/103250#page/382/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33066662) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williams, Robert Orchard (1891-1967), British botanist; Kew gardener 1916; curator Royal Botanic Gardens Port of Spain, Trinidad 1916; director Bot. Gard. St. George's 1919-1921; director Royal bot. Gard. Port of Spain, Trinidad 1922-1934; economic botanist Trinidad 1932, asst. director of agriculture ib. 1934; chief horticultural officer, Palestine 1935; director agriculture, Zanzibar 1945-1948. (*R.O. Williams*).
+Williams, Robert Orchard (1891-1967), British botanist; Kew gardener 1916; curator Royal Botanic Gardens Port of Spain, Trinidad 1916; director Bot. Gard. St. George's 1919-1921; director Royal bot. Gard. Port of Spain, Trinidad 1922-1934; economic botanist Trinidad 1932, asst. director of agriculture ib. 1934; chief horticultural officer, Palestine 1935; director agriculture, Zanzibar 1945-1948. 
+**Abbreviated name**: *R.O. Williams*
 
 #### Herbarium and types
 

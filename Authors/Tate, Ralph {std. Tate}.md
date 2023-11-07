@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103683#page/186/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33212218) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tate, Ralph (1840-1901), British naturalist; science teacher at the Trade and Mining School Belfast; assistant curator of the Geological Society, London 1864-1867; visited Venezuela and Nicaragua 1867 as a mining expert; director of mining schools in Bristol, Darlington and Redcar ca. 1868-1874; Elder professor of Natural Science, Adelaide University 1875-1901; nephew of George Tate (1805-1866). (*Tate*).
+Tate, Ralph (1840-1901), British naturalist; science teacher at the Trade and Mining School Belfast; assistant curator of the Geological Society, London 1864-1867; visited Venezuela and Nicaragua 1867 as a mining expert; director of mining schools in Bristol, Darlington and Redcar ca. 1868-1874; Elder professor of Natural Science, Adelaide University 1875-1901; nephew of George Tate (1805-1866). 
+**Abbreviated name**: *Tate*
 
 #### Herbarium and types
 

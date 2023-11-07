@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/item/103683#page/771/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33212803) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Viviani, Domenico (1772-1840), Italian botanist; Dr. med. Roma; public professor of botany at Genova; professor of botany and natural history at the Atheneum (later: University) ib. 1803-1837; founder of the Genova botanical garden. (*Viv.*).
+Viviani, Domenico (1772-1840), Italian botanist; Dr. med. Roma; public professor of botany at Genova; professor of botany and natural history at the Atheneum (later: University) ib. 1803-1837; founder of the Genova botanical garden. 
+**Abbreviated name**: *Viv.*
 
 #### Herbarium and types
 

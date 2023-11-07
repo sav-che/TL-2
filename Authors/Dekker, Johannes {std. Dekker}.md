@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103833#page/178/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dekker, Johannes (1879-x), Dutch pharmacist, born 6 Jun 1879, educated at Haarlem, studied first at Leiden University, later at Utrecht University, Dr. degree 1902 at Bern with Wilhelm Oswald Alexander Tschirsch (1856-1939), military dispenser in Dutch East Indies 1902-1910, director of the division Commercial Museum of the Colonial Museum at Haarlem (Netherlands) 1910-1916, scientific advisor of the firm of Jurgens 1916-1922, municipal chemist at Rotterdam 1922-1925, from 1929 pharmaceutical chemist Middelburg. (*Dekker*).
+Dekker, Johannes (1879-x), Dutch pharmacist, born 6 Jun 1879, educated at Haarlem, studied first at Leiden University, later at Utrecht University, Dr. degree 1902 at Bern with Wilhelm Oswald Alexander Tschirsch (1856-1939), military dispenser in Dutch East Indies 1902-1910, director of the division Commercial Museum of the Colonial Museum at Haarlem (Netherlands) 1910-1916, scientific advisor of the firm of Jurgens 1916-1922, municipal chemist at Rotterdam 1922-1925, from 1929 pharmaceutical chemist Middelburg. 
+**Abbreviated name**: *Dekker*
 
 #### Herbarium and types
 

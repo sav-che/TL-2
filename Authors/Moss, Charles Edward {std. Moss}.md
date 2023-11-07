@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/item/104137#page/617/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33355688) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moss, Charles Edward (1870-1930), British botanist; studied at Leeds 1895-1900 (B. Sc. 1898); high school teacher at Bruton and Manchester; from 1907-1914 curator of the Cambridge Herbarium (CGE); served in the O.T.C. 1914-1917; from 1917 professor of botany at Witwatersrand University. (*Moss*).
+Moss, Charles Edward (1870-1930), British botanist; studied at Leeds 1895-1900 (B. Sc. 1898); high school teacher at Bruton and Manchester; from 1907-1914 curator of the Cambridge Herbarium (CGE); served in the O.T.C. 1914-1917; from 1917 professor of botany at Witwatersrand University. 
+**Abbreviated name**: *Moss*
 
 #### Herbarium and types
 

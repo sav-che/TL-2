@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/item/103414#page/895/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33120978) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Flörke (Floerke), Heinrich Gustav {std. Flörke} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Floerke, Heinrich Gustav (1764-1835), German lichenologist, professor of botany at Rostock. (*Floerke*).
+Floerke, Heinrich Gustav (1764-1835), German lichenologist, professor of botany at Rostock. 
+**Abbreviated name**: *Floerke*
 
 #### Herbarium and types
 

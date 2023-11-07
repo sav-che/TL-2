@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/item/103253#page/587/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33068803) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klatt, Friedrich Wilhelm (1825-1897), German botanist; from 1842-1897 high school teacher at Hamburg; Dr. phil. Rostock 1864. (*Klatt*).
+Klatt, Friedrich Wilhelm (1825-1897), German botanist; from 1842-1897 high school teacher at Hamburg; Dr. phil. Rostock 1864. 
+**Abbreviated name**: *Klatt*
 
 #### Herbarium and types
 

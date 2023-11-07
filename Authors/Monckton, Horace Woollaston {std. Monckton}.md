@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/item/104137#page/571/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33355642) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Monckton, Horace Woollaston (1857-1931), British barrister, botanist and geologist in Berkshire; treasurer of the Linnean Society 1905-1930. (*Monckton*).
+Monckton, Horace Woollaston (1857-1931), British barrister, botanist and geologist in Berkshire; treasurer of the Linnean Society 1905-1930. 
+**Abbreviated name**: *Monckton*
 
 #### Herbarium and types
 

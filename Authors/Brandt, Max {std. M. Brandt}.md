@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103861#page/26/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandt, Max (1884-1914), German (born at Rüsselsheim am Main), educated at Ditmarschen, the second Lyceum at Hannover and the Gymnasium at Schleswig and id. Lüneburg, matriculation 1904, studied botany and geology at Göttingen, Bonn and Berlin, military service 1904-1905, ult. Lieutenant with the first Garde-Regiment in Potsdam, student, later assistant with Engler at the Botanical Museum, Dr. phil. Berlin 1911, collected in Spain and Morocco 1913, on active service 1914, fell in S. Poland nr. Czczeczow 29 Nov 1914. (*M. Brandt*).
+Brandt, Max (1884-1914), German (born at Rüsselsheim am Main), educated at Ditmarschen, the second Lyceum at Hannover and the Gymnasium at Schleswig and id. Lüneburg, matriculation 1904, studied botany and geology at Göttingen, Bonn and Berlin, military service 1904-1905, ult. Lieutenant with the first Garde-Regiment in Potsdam, student, later assistant with Engler at the Botanical Museum, Dr. phil. Berlin 1911, collected in Spain and Morocco 1913, on active service 1914, fell in S. Poland nr. Czczeczow 29 Nov 1914. 
+**Abbreviated name**: *M. Brandt*
 
 #### Herbarium and types
 

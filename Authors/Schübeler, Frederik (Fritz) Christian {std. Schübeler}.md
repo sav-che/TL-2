@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/104077#page/369/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33333494) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schübeler, Frederik \[Fritz\] Christian (1815-1892), Norwegian botanist; cand.-med. Christiania (Oslo) 1840, practicing at the state hospital in Christiania 1840-1843, subsequently, until 1847, Odalen and Lillesand; travelled in western and central Europe 1848-1851 dedicating himself to botany; lecturer for botany 1851, and, from 1852-1861 curator of the botanical museum of Christiania University; extraordinary professor (1864), and ordinary professor of botany (1866) ib., also director of the University botanical garden 1864-1892. (*Schübeler*).
+Schübeler, Frederik \[Fritz\] Christian (1815-1892), Norwegian botanist; cand.-med. Christiania (Oslo) 1840, practicing at the state hospital in Christiania 1840-1843, subsequently, until 1847, Odalen and Lillesand; travelled in western and central Europe 1848-1851 dedicating himself to botany; lecturer for botany 1851, and, from 1852-1861 curator of the botanical museum of Christiania University; extraordinary professor (1864), and ordinary professor of botany (1866) ib., also director of the University botanical garden 1864-1892. 
+**Abbreviated name**: *Schübeler*
 
 #### Herbarium and types
 

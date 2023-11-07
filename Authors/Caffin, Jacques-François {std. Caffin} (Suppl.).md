@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103861#page/308/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33266605) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caffin, Jacques François {std. Caffin}|first entry]] for this author
 
 ### Author
 
-\* Caffin, Jacques-François (1778-1854), French physician and botanist, born at Saumur, studied medicine at Angers and Paris (1805), practising medicine at Saumur, dedicating himself also to botany, ultimately at Saint Lambert-des-Levées. (*Caffin*).
+\* Caffin, Jacques-François (1778-1854), French physician and botanist, born at Saumur, studied medicine at Angers and Paris (1805), practising medicine at Saumur, dedicating himself also to botany, ultimately at Saint Lambert-des-Levées. 
+**Abbreviated name**: *Caffin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/item/103253#page/499/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33068715) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jungk, Christian Ludwig (fl. 1807), German physician, pupil of K. P. J. Sprengel (*Jungk*).
+Jungk, Christian Ludwig (fl. 1807), German physician, pupil of K. P. J. Sprengel 
+**Abbreviated name**: *Jungk*
 
 #### Herbarium and types
 

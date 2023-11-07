@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/104137#page/334/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33355405) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martersteck, Johann Clemens (*fl*. 1792), German botanist and church administrator at Bonn. (*Martersteck*).
+Martersteck, Johann Clemens (*fl*. 1792), German botanist and church administrator at Bonn. 
+**Abbreviated name**: *Martersteck*
 
 #### Herbarium and types
 

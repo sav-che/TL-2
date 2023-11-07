@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103860#page/14/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33265681) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cedervall, Edvard Vilhelm (1851-1903), Swedish botanist, born in Skåne, studied at a secondary grammarschool in Hälsingborg 1869, at the University of Lund fil. kand. 1874, fil. lic. 1878, fil. dr. 1879, adjunct at a secondary school at Göteborg 1882, lector biology and chemistry ib. 1884. (*Cederv.*).
+Cedervall, Edvard Vilhelm (1851-1903), Swedish botanist, born in Skåne, studied at a secondary grammarschool in Hälsingborg 1869, at the University of Lund fil. kand. 1874, fil. lic. 1878, fil. dr. 1879, adjunct at a secondary school at Göteborg 1882, lector biology and chemistry ib. 1884. 
+**Abbreviated name**: *Cederv.*
 
 #### Herbarium and types
 

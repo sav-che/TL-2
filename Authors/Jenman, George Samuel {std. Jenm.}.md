@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/103253#page/462/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33068678) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jenman, George Samuel (1845-1902), British gardener and botanist, superintendent of Castleton Gardens, Jamaica (1873-1879), superintendent of the botanic gardens and government botanist at Georgetown, British Guiana (1879-1902). (*Jenm.*).
+Jenman, George Samuel (1845-1902), British gardener and botanist, superintendent of Castleton Gardens, Jamaica (1873-1879), superintendent of the botanic gardens and government botanist at Georgetown, British Guiana (1879-1902). 
+**Abbreviated name**: *Jenm.*
 
 #### Herbarium and types
 

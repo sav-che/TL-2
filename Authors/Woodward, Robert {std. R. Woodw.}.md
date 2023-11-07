@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/103250#page/509/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33066789) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woodward, Robert (1877-1915), British barrister and horticulturist; educated at Radley College and Christ Church, Oxford; called to the Bar at the Inner Temple; practiced on the Oxford circuit; lieutenant in the South Wales Borderers. 1914, died in action in Northern France 9 Mai 1915; heir to Arley Castle. (*R. Woodw.*).
+Woodward, Robert (1877-1915), British barrister and horticulturist; educated at Radley College and Christ Church, Oxford; called to the Bar at the Inner Temple; practiced on the Oxford circuit; lieutenant in the South Wales Borderers. 1914, died in action in Northern France 9 Mai 1915; heir to Arley Castle. 
+**Abbreviated name**: *R. Woodw.*
 
 #### Herbarium and types
 

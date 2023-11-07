@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/item/103414#page/670/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33120753) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dennstedt, August Wilhelm {std. Dennst.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dennstedt, August Wilhelm (1776-1826), German physician and botanist, burgomaster of Magdala, director of the Belvedere garden near Weimar. (*Dennst.*).
+Dennstedt, August Wilhelm (1776-1826), German physician and botanist, burgomaster of Magdala, director of the Belvedere garden near Weimar. 
+**Abbreviated name**: *Dennst.*
 
 #### Herbarium and types
 

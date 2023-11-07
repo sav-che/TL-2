@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103832#page/180/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33258646) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Geisenheyner, Franz Adolf Louis {std. Geisenh.}|first entry]] for this author
 
 ### Author
 
-\* Geisenheyner, \[Franz Adolf\] Ludwig \[Louis\] (1841-1926), German botanist, born 8 Mar 1841 in Potsdam, began teaching at Bad Kreuznach gymnasium 1870, retired 1911, died 28 Jan 1926 in Bad Kreuznach. (*Geisenh.*).
+\* Geisenheyner, \[Franz Adolf\] Ludwig \[Louis\] (1841-1926), German botanist, born 8 Mar 1841 in Potsdam, began teaching at Bad Kreuznach gymnasium 1870, retired 1911, died 28 Jan 1926 in Bad Kreuznach. 
+**Abbreviated name**: *Geisenh.*
 
 #### Note
 

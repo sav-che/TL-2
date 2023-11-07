@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/item/104077#page/577/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33333702) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shimek, Bohumil (1861-1937), American botanist; civil engineer and naturalist; instructor Iowa City Acad. 1883-1885, id. High School Iowa City 1885-1888, id. in zoology Univ. Nebraska 1888-1890, instructor at Iowa State University 1890-1893, assistant professor 1893, full professor 1903, id. head of the department of botany and curator of the herbarium from 1914-1932; research professor from 1919-1937; Dr. phil. h.c. Univ. Praha. (*Shimek*).
+Shimek, Bohumil (1861-1937), American botanist; civil engineer and naturalist; instructor Iowa City Acad. 1883-1885, id. High School Iowa City 1885-1888, id. in zoology Univ. Nebraska 1888-1890, instructor at Iowa State University 1890-1893, assistant professor 1893, full professor 1903, id. head of the department of botany and curator of the herbarium from 1914-1932; research professor from 1919-1937; Dr. phil. h.c. Univ. Praha. 
+**Abbreviated name**: *Shimek*
 
 #### Herbarium and types
 

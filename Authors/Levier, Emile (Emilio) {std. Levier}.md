@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/item/103253#page/892/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33069108) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Levier, Emile \[Emilio\] (1839-1911), Swiss-born physician, botanist and plant collector in Firenze; specialist on Ricciaceae. (*Levier*).
+Levier, Emile \[Emilio\] (1839-1911), Swiss-born physician, botanist and plant collector in Firenze; specialist on Ricciaceae. 
+**Abbreviated name**: *Levier*
 
 #### Herbarium and types
 

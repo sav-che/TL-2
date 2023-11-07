@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/item/103860#page/49/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265716) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chalk, Laurence (1895-1979), English botanist, born in Crowborough, Sussex, 7 April 1895, died 6 Mai 1979, served in France in the Royal Berkshire Regiment 1914-1918, from 1918 at Oxford University, bachelor’s degree in Forestry 1921 (MA 1926), lecturer at Oxford in wood anatomy 1924, doctorate 1929, worked with B.J. Rendle also at Oxford, University Reader in wood anatomy and lecturer of University College, retirement 1966. (*Chalk*).
+Chalk, Laurence (1895-1979), English botanist, born in Crowborough, Sussex, 7 April 1895, died 6 Mai 1979, served in France in the Royal Berkshire Regiment 1914-1918, from 1918 at Oxford University, bachelor’s degree in Forestry 1921 (MA 1926), lecturer at Oxford in wood anatomy 1924, doctorate 1929, worked with B.J. Rendle also at Oxford, University Reader in wood anatomy and lecturer of University College, retirement 1966. 
+**Abbreviated name**: *Chalk*
 
 #### Herbarium and types
 

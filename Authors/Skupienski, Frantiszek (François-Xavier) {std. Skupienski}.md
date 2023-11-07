@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/item/104077#page/655/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/page/33333780) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skupienski, Frantiszek \[François-Xavier\] (1888-x), Polish botanist; Dr. phil. Univ. Paris 1920; with the Department of general botany of the Warsaw Polytechnic. (*Skupienski*).
+Skupienski, Frantiszek \[François-Xavier\] (1888-x), Polish botanist; Dr. phil. Univ. Paris 1920; with the Department of general botany of the Warsaw Polytechnic. 
+**Abbreviated name**: *Skupienski*
 
 #### Herbarium and types
 

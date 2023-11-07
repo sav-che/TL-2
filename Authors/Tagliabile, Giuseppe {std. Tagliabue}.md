@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103683#page/161/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tagliabile, Giuseppe (*fl*. 1816), Italian botanist; director of a garden at Litta, Lainate, Lombardy. (*Tagliabue*).
+Tagliabile, Giuseppe (*fl*. 1816), Italian botanist; director of a garden at Litta, Lainate, Lombardy. 
+**Abbreviated name**: *Tagliabue*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103250#page/419/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33066699) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wimmer, \[Christian\] Friedrich \[Heinrich\] (1803-1868), German (Silesian) botanist and high school teacher; studied philology and natural sciences at the University of Breslau 1821-1826; teacher at the Friedrichs-Gymnasium Breslau 1826; professor's title 1835, director 1843-1863; municipal school inspector ("Schulrath") charged with the reform of the Breslau school system 1863-1868; actively interested in plant taxonomy of the classics as well as in the flora of Silesia and the genus Salix; Dr. phil. h.c. Breslau 1853. (*Wimm.*).
+Wimmer, \[Christian\] Friedrich \[Heinrich\] (1803-1868), German (Silesian) botanist and high school teacher; studied philology and natural sciences at the University of Breslau 1821-1826; teacher at the Friedrichs-Gymnasium Breslau 1826; professor's title 1835, director 1843-1863; municipal school inspector ("Schulrath") charged with the reform of the Breslau school system 1863-1868; actively interested in plant taxonomy of the classics as well as in the flora of Silesia and the genus Salix; Dr. phil. h.c. Breslau 1853. 
+**Abbreviated name**: *Wimm.*
 
 #### Herbarium and types
 

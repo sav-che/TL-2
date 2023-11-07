@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103834#page/48/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33259530) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Falconer, Hugh {std. Falc.}|first entry]] for this author
 
 ### Author
 
-\* Falconer, Hugh (1808-1865), Scottish physician, paleontologist, zoologist and botanist, born 29 Feb 1808 in Forres (Morayshire), A.M. 1826 Univ. of Aberdeen, M.D. 1829 Univ. of Edinburgh, to India as asst. surgeon with the East India Co. 1830, superintendent of Saharanpur Botanic Garden 1832-1841, returned to England 1842 to curate Indian fossils at the British Museum, again to India as prof. of botany at the Calcutta Medical College and Superintendent of Calcutta Botanic Garden 1848-1855, retired from India service 1855 and returned to England, Wollaston Medal of Geological Society 1837, F.G.S. 1842, F.L.S. 1844, F.R.S. 1845, died 31 Jan 1865 in London, buried in Kensal Green cemetary. (*Falc.*).
+\* Falconer, Hugh (1808-1865), Scottish physician, paleontologist, zoologist and botanist, born 29 Feb 1808 in Forres (Morayshire), A.M. 1826 Univ. of Aberdeen, M.D. 1829 Univ. of Edinburgh, to India as asst. surgeon with the East India Co. 1830, superintendent of Saharanpur Botanic Garden 1832-1841, returned to England 1842 to curate Indian fossils at the British Museum, again to India as prof. of botany at the Calcutta Medical College and Superintendent of Calcutta Botanic Garden 1848-1855, retired from India service 1855 and returned to England, Wollaston Medal of Geological Society 1837, F.G.S. 1842, F.L.S. 1844, F.R.S. 1845, died 31 Jan 1865 in London, buried in Kensal Green cemetary. 
+**Abbreviated name**: *Falc.*
 
 #### Herbarium and types
 

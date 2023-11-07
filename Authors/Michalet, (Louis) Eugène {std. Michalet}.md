@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/104137#page/471/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33355542) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michalet, \[Louis\] Eugène (1826-1862), French botanist and magistrate at Besançon. (*Michalet*).
+Michalet, \[Louis\] Eugène (1826-1862), French botanist and magistrate at Besançon. 
+**Abbreviated name**: *Michalet*
 
 #### Herbarium and types
 

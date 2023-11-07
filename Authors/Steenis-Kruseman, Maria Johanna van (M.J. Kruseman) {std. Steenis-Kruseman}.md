@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/item/104077#page/876/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33334001) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steenis-Kruseman, Maria Johanna van (until 1927 M.J. Kruseman) (1904-x), Dutch botanical bibliographer and biographer, married C.G.G.J, van Steenis 1927. (*Steenis-Kruseman*).
+Steenis-Kruseman, Maria Johanna van (until 1927 M.J. Kruseman) (1904-x), Dutch botanical bibliographer and biographer, married C.G.G.J, van Steenis 1927. 
+**Abbreviated name**: *Steenis-Kruseman*
 
 #### Herbarium and types
 

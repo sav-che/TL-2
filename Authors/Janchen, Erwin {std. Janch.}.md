@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103253#page/448/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33068664) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Janchen, Erwin (1882-1970), Austrian botanist and nomenclaturist; pupil of Wettstein; Dr. phil. Wien 8Feb 1907; from 1905-1920 at the Botanical Institute; from 1920-1923 at the Bundesanstalt fur Pflanzenschutz; from 1923 at the Botanical Garden and Botanical Institute Wien.(*Janch.*).
+Janchen, Erwin (1882-1970), Austrian botanist and nomenclaturist; pupil of Wettstein; Dr. phil. Wien 8Feb 1907; from 1905-1920 at the Botanical Institute; from 1920-1923 at the Bundesanstalt fur Pflanzenschutz; from 1923 at the Botanical Garden and Botanical Institute Wien.
+**Abbreviated name**: *Janch.*
 
 #### Herbarium and types
 

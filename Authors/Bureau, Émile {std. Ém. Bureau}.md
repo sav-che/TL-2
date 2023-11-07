@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103861#page/241/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33266538) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bureau, Émile (fl. 1896), French bryologist. (*Ém. Bureau*).
+Bureau, Émile (fl. 1896), French bryologist. 
+**Abbreviated name**: *Ém. Bureau*
 
 #### Herbarium and types
 

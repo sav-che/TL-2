@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/item/103861#page/326/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33266623) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Callmé, Herman Alfred (1860-1889), Swedish botanist, born at Pastilled nr. Göteborg, studied at Örebro 1879, fil. kand. in Uppsala 1881-1889 as teacher. (*Callmé*).
+Callmé, Herman Alfred (1860-1889), Swedish botanist, born at Pastilled nr. Göteborg, studied at Örebro 1879, fil. kand. in Uppsala 1881-1889 as teacher. 
+**Abbreviated name**: *Callmé*
 
 #### Herbarium and types
 

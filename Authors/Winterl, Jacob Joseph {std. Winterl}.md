@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103250#page/444/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33066724) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winterl, Jacob Joseph (1739-1809), Austrian botanist, chemist and physician; Dr. med. et phil. Wien 1767; professor of medicine at the University of Tyrnan (W. Slovakia); in charge of the botanic garden of Ofen (Buda/Budapest) from 1771-1809, from 1771 or 1775-1802 ordinary professor of botany at the University of Pesth (Budapest). (*Winterl*).
+Winterl, Jacob Joseph (1739-1809), Austrian botanist, chemist and physician; Dr. med. et phil. Wien 1767; professor of medicine at the University of Tyrnan (W. Slovakia); in charge of the botanic garden of Ofen (Buda/Budapest) from 1771-1809, from 1771 or 1775-1802 ordinary professor of botany at the University of Pesth (Budapest). 
+**Abbreviated name**: *Winterl*
 
 #### Herbarium and types
 

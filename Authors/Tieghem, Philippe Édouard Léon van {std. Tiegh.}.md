@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/item/103683#page/355/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33212387) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tieghem, Philippe Édouard Léon van (1839-1914), French botanist; at the École normale supérieure 1858-1861, aggr. ib. 1861; Dr. sci. nat. Paris 1867; "maître de conférences" in botany at the École normale supérieure 1864, professor of botany at the École des Arts et Métiers, at the Muséum d'Histoire naturelle 1879, at the École supérieure for female teachers; also active at the Agronomical Institute; originator of the stelar concept and of the floral vascular anatomy of the flower. (*Tiegh.*).
+Tieghem, Philippe Édouard Léon van (1839-1914), French botanist; at the École normale supérieure 1858-1861, aggr. ib. 1861; Dr. sci. nat. Paris 1867; "maître de conférences" in botany at the École normale supérieure 1864, professor of botany at the École des Arts et Métiers, at the Muséum d'Histoire naturelle 1879, at the École supérieure for female teachers; also active at the Agronomical Institute; originator of the stelar concept and of the floral vascular anatomy of the flower. 
+**Abbreviated name**: *Tiegh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103250#page/520/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33066800) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wossidlo, Paul (1836-?), German (Posen) high school teacher and botanist; Dr. phil. Breslau 1860; teacher at the Breslau High School (Realschule), from 1870 director of a similar school in Tarnowitz (Upper Silesia). (*Wossidlo*).
+Wossidlo, Paul (1836-?), German (Posen) high school teacher and botanist; Dr. phil. Breslau 1860; teacher at the Breslau High School (Realschule), from 1870 director of a similar school in Tarnowitz (Upper Silesia). 
+**Abbreviated name**: *Wossidlo*
 
 #### Herbarium and types
 

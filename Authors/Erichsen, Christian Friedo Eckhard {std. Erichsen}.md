@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/item/103414#page/846/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33120929) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Erichsen, Christian Friedo Eckhard {std. Erichsen} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Erichsen, Christian Friedo Eckhard (1867-1945), German lichenologist working in Schleswig-Holstein, (*Erichsen*).
+Erichsen, Christian Friedo Eckhard (1867-1945), German lichenologist working in Schleswig-Holstein, 
+**Abbreviated name**: *Erichsen*
 
 #### Herbarium and types
 

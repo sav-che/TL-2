@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103253#page/411/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Inzenga, Giuseppe (1816-1887), Italian mycologist at Palermo. (*Inzenga*).
+Inzenga, Giuseppe (1816-1887), Italian mycologist at Palermo. 
+**Abbreviated name**: *Inzenga*
 
 #### Herbarium and types
 

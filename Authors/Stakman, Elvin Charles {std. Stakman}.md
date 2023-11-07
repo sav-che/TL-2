@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/item/104077#page/844/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33333969) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stakman, Elvin Charles (1885-1979), American mycologist, palynologist and phytopathologist; studied at the University of Minnesota; B.A. ib. 1906; with Minnesota public schools 1906-1909; instructor in plant pathology Univ. Minnesota 1909; Dr. phil. ib. 1913; asst. professor ib. 1913-1916, assoc. professor 1916-1918; regular professor 1918-1953; head of the section of plant pathology, Univ. Minnesota and pathologist at the office of cereal investigations, U.S.D.A. at St. Paul. Minnesota 1940-1953; emeritus professor 1953-1979; specialist on cereal rusts and smuts. (*Stakman*).
+Stakman, Elvin Charles (1885-1979), American mycologist, palynologist and phytopathologist; studied at the University of Minnesota; B.A. ib. 1906; with Minnesota public schools 1906-1909; instructor in plant pathology Univ. Minnesota 1909; Dr. phil. ib. 1913; asst. professor ib. 1913-1916, assoc. professor 1916-1918; regular professor 1918-1953; head of the section of plant pathology, Univ. Minnesota and pathologist at the office of cereal investigations, U.S.D.A. at St. Paul. Minnesota 1940-1953; emeritus professor 1953-1979; specialist on cereal rusts and smuts. 
+**Abbreviated name**: *Stakman*
 
 #### Herbarium and types
 

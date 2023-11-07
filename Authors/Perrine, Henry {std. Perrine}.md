@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103624#page/187/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33189644) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perrine, Henry (1797-1840), American botanist; introduced many tropical plants into the southern U.S.; consul at Campeachy, Yucatan, 1827-1831, 1832-1837, at Key West (Indian Key) from 1937. (*Perrine*).
+Perrine, Henry (1797-1840), American botanist; introduced many tropical plants into the southern U.S.; consul at Campeachy, Yucatan, 1827-1831, 1832-1837, at Key West (Indian Key) from 1937. 
+**Abbreviated name**: *Perrine*
 
 #### Herbarium and types
 

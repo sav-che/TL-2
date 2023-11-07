@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103250#page/456/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33066736) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Witasek, Johanna (1865-1910), Austrian botanist and teacher in Vienna; teacher at a girl's high school from 1891; working also with R. von Wettstein at the Botanical Institute of the University from 1899-1910. (*Witas.*).
+Witasek, Johanna (1865-1910), Austrian botanist and teacher in Vienna; teacher at a girl's high school from 1891; working also with R. von Wettstein at the Botanical Institute of the University from 1899-1910. 
+**Abbreviated name**: *Witas.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/104137#page/546/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33355617) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moe, Nils Green (1812-1892), Norwegian botanist; gardener at the University of Kristiania (Oslo). (*N. Moe*).
+Moe, Nils Green (1812-1892), Norwegian botanist; gardener at the University of Kristiania (Oslo). 
+**Abbreviated name**: *N. Moe*
 
 #### Herbarium and types
 

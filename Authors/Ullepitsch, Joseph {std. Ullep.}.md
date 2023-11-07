@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/103683#page/594/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33212626) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ullepitsch, Joseph (1827-1896), Austrian mining and financial administrator and naturalist at Wiliczka, Szwoszowice, in the Schemnitz region (Rhonitz, Kremnitz, then in Hungary) 1850-1856; Laibach 1856-1857, Klagenfurt 1857-1866; Praha 1866-1867, Linz 1867-1872, and Triest 1873-1880; in retirement at Rohrbach, Poysdorf, Gnezda and, ultimately Wilfersdorf. (*Ullep.*).
+Ullepitsch, Joseph (1827-1896), Austrian mining and financial administrator and naturalist at Wiliczka, Szwoszowice, in the Schemnitz region (Rhonitz, Kremnitz, then in Hungary) 1850-1856; Laibach 1856-1857, Klagenfurt 1857-1866; Praha 1866-1867, Linz 1867-1872, and Triest 1873-1880; in retirement at Rohrbach, Poysdorf, Gnezda and, ultimately Wilfersdorf. 
+**Abbreviated name**: *Ullep.*
 
 #### Herbarium and types
 

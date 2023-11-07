@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/item/103624#page/929/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33190386) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rot von Schreckenstein, Friedrich, Freiherr, zu Immendingen und Bilafingen (1753-1808) "churfürstlich-salzburgischer geheimer Rath" and botanist in Bavaria and Austria. (*Rot von Schr.*).
+Rot von Schreckenstein, Friedrich, Freiherr, zu Immendingen und Bilafingen (1753-1808) "churfürstlich-salzburgischer geheimer Rath" and botanist in Bavaria and Austria. 
+**Abbreviated name**: *Rot von Schr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/item/103253#page/777/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Langkavel, Bernhard August (1825-1902), German teacher in classical languages; zoologist and botanist at the Friedrichwerderschen Gymnasium in Berlin. (*Langk.*).
+Langkavel, Bernhard August (1825-1902), German teacher in classical languages; zoologist and botanist at the Friedrichwerderschen Gymnasium in Berlin. 
+**Abbreviated name**: *Langk.*
 
 #### Herbarium and types
 

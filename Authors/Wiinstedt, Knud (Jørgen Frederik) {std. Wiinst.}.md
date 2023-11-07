@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103250#page/342/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33066622) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiinstedt, Knud \[Jørgen Frederik\] (1878-1964), Danish botanist and artist; art and music teacher from 1901-1908; concert and opera singer 1908-1931; assistant at Copenhagen Botanical Museum 1918-1927, curator 1927-1959; specialist on Hieracium, Taraxacum, Euphrasia, Carex and Festuca ovina. (*Wiinst.*).
+Wiinstedt, Knud \[Jørgen Frederik\] (1878-1964), Danish botanist and artist; art and music teacher from 1901-1908; concert and opera singer 1908-1931; assistant at Copenhagen Botanical Museum 1918-1927, curator 1927-1959; specialist on Hieracium, Taraxacum, Euphrasia, Carex and Festuca ovina. 
+**Abbreviated name**: *Wiinst.*
 
 #### Herbarium and types
 

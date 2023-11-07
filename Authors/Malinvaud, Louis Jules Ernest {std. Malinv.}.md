@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/104137#page/280/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33355351) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malinvaud, Louis Jules Ernest (1836-1913), French botanist; secretary-general of the Société botanique de France 1884-1904; vice-président 1904-1906; président 1906-1908, archivist 1908-1913. (*Malinv.*).
+Malinvaud, Louis Jules Ernest (1836-1913), French botanist; secretary-general of the Société botanique de France 1884-1904; vice-président 1904-1906; président 1906-1908, archivist 1908-1913. 
+**Abbreviated name**: *Malinv.*
 
 #### Herbarium and types
 

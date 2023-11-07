@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103253#page/199/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33068415) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herold, Johann Moritz David (1790-1862), German entomologist at Marburg. (*Herold*).
+Herold, Johann Moritz David (1790-1862), German entomologist at Marburg. 
+**Abbreviated name**: *Herold*
 
 #### Note
 

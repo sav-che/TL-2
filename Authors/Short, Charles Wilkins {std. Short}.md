@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/104077#page/582/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Short, Charles Wilkins (1794-1863), American botanist and physician; Dr. med. Univ. Pennsylvania 1815; practiced at Lexington and Hopkinsville, Kentucky 1816-1825; professor of materia medica and medical botany Transylvania University, Lexington, Kentucky, 1825; dean of the medical dept. ib. 1828-1837; dean of the Louisville Medical Institute, 1838-1849; in retirement at his estate "Hayfield" south of Louisville. (*Short*).
+Short, Charles Wilkins (1794-1863), American botanist and physician; Dr. med. Univ. Pennsylvania 1815; practiced at Lexington and Hopkinsville, Kentucky 1816-1825; professor of materia medica and medical botany Transylvania University, Lexington, Kentucky, 1825; dean of the medical dept. ib. 1828-1837; dean of the Louisville Medical Institute, 1838-1849; in retirement at his estate "Hayfield" south of Louisville. 
+**Abbreviated name**: *Short*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103861#page/346/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266643) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Campbell, Robert Samuel (1904-x), American botanist, born La Harpe, Illinois 15 Aug 1904, B.S. Chicago 1925, M.S. 1929, Ph.D. 1932, U.S. Forest Service Las Cruces N. Mexico 1925-1934, division range research 1934-1937, assistant chief division and in charge of range utilization studies 1937-? (*R.S. Campb.*).
+Campbell, Robert Samuel (1904-x), American botanist, born La Harpe, Illinois 15 Aug 1904, B.S. Chicago 1925, M.S. 1929, Ph.D. 1932, U.S. Forest Service Las Cruces N. Mexico 1925-1934, division range research 1934-1937, assistant chief division and in charge of range utilization studies 1937-? 
+**Abbreviated name**: *R.S. Campb.*
 
 #### Herbarium and types
 

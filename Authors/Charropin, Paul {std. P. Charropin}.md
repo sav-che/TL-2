@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/103860#page/67/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265734) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Charropin, Paul (fl. 1883), French pharmacist, at the École supérieure de pharmacie de Paris. (*P. Charropin*).
+Charropin, Paul (fl. 1883), French pharmacist, at the École supérieure de pharmacie de Paris. 
+**Abbreviated name**: *P. Charropin*
 
 #### Herbarium and types
 

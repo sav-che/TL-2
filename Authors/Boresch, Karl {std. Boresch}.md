@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103859#page/345/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33265532) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boresch, Karl (1886-?), Czech botanist, assistant at the plant physiological institute of the German University in Prague 1910, extraordinary professor for agricultural chemistry at the German Technical University ib. 1922, ordinary professor id. Prague (Tetschen-Liebwerd). (*Boresch*).
+Boresch, Karl (1886-?), Czech botanist, assistant at the plant physiological institute of the German University in Prague 1910, extraordinary professor for agricultural chemistry at the German Technical University ib. 1922, ordinary professor id. Prague (Tetschen-Liebwerd). 
+**Abbreviated name**: *Boresch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103683#page/296/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomson, Spencer (c. 1817-1886), British physician and popular writer on botany and medicine; MD St. Andrews 1840; practicing physician at Burton-on-Trent and Torquay. (*Sp. Thomson*).
+Thomson, Spencer (c. 1817-1886), British physician and popular writer on botany and medicine; MD St. Andrews 1840; practicing physician at Burton-on-Trent and Torquay. 
+**Abbreviated name**: *Sp. Thomson*
 
 #### Herbarium and types
 

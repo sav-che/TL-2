@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/item/103253#page/629/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33068845) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koerber (Körber), Gustav Wilhelm (1817-1885), German-Silesian lichenologist; from 1842 high school teacher at the Elisabeth Gymnasium at Breslau; Dr. phil. berol. 1839, royal professor 1862, extraord. prof. at Breslau University 1873; with Massalongo founder of the "Italian-Silesian" school of lichenology. (*Koerb.*).
+Koerber (Körber), Gustav Wilhelm (1817-1885), German-Silesian lichenologist; from 1842 high school teacher at the Elisabeth Gymnasium at Breslau; Dr. phil. berol. 1839, royal professor 1862, extraord. prof. at Breslau University 1873; with Massalongo founder of the "Italian-Silesian" school of lichenology. 
+**Abbreviated name**: *Koerb.*
 
 #### Herbarium and types
 

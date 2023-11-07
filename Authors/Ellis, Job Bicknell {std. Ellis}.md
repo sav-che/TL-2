@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/item/103414#page/790/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33120873) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ellis, Job Bicknell {std. Ellis} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ellis, Job Bicknell (1829-1905), American mycologist. (*Ellis*).
+Ellis, Job Bicknell (1829-1905), American mycologist. 
+**Abbreviated name**: *Ellis*
 
 #### Herbarium and types
 

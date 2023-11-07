@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/103253#page/63/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33068279) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hampe, Georg Ernst Ludwig (1795-1880), German botanist; pupil of K. P. J. Sprengel; apothecary at Blankenburg (Harz) 1825-1876; Dr. phil. h.c. Goettingen 1875. (*Hampe*).
+Hampe, Georg Ernst Ludwig (1795-1880), German botanist; pupil of K. P. J. Sprengel; apothecary at Blankenburg (Harz) 1825-1876; Dr. phil. h.c. Goettingen 1875. 
+**Abbreviated name**: *Hampe*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103414#page/272/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33120355) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blackwell, Elizabeth (*c*. 1700-1758), Scottish botanist. (*Blackw.*).
+Blackwell, Elizabeth (*c*. 1700-1758), Scottish botanist. 
+**Abbreviated name**: *Blackw.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103624#page/371/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33189828) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Potier de la Varde, Robert André Léopold (1878-1961), French bryologist and soldier; educated at École militaire de Saint-Cyr; in army until 1918; from then on managing his property Lez Eaux (Dept. de la Manche) and dedicating himself to agriculture, social work and bryology. (*P. de la Varde*).
+Potier de la Varde, Robert André Léopold (1878-1961), French bryologist and soldier; educated at École militaire de Saint-Cyr; in army until 1918; from then on managing his property Lez Eaux (Dept. de la Manche) and dedicating himself to agriculture, social work and bryology. 
+**Abbreviated name**: *P. de la Varde*
 
 #### Herbarium and types
 

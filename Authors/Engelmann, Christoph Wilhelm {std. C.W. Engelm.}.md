@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/item/103835#page/355/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33260333) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Engelmann, Christoph Wilhelm (fl. 1844), in Russian imperial service, teacher in mathematics and natural sciences at the gymnasium in Mitau, member of the "Kurländische Oekomenische Gesellschaft". (*C.W. Engelm.*).
+Engelmann, Christoph Wilhelm (fl. 1844), in Russian imperial service, teacher in mathematics and natural sciences at the gymnasium in Mitau, member of the "Kurländische Oekomenische Gesellschaft". 
+**Abbreviated name**: *C.W. Engelm.*
 
 #### Herbarium and types
 

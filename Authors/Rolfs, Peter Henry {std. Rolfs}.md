@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/item/103624#page/884/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33190341) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rolfs, Peter Henry (1865-1944), American botanist and entomologist at Florida Agricultural Experiment Station at Lake City, Florida 1892-1899; professor of botany at Clemson College and botanist at the Agricultural Experiment Station S. Carolina 1899-1906; director of the Station at Lake City, Florida 1906-1921; dean of the Agricultural College 1915-1921; in charge of the Esc. Sup. Agric. Minaes-Geraes, Brazil 1921-1929; technical consultant Minas Geraes 1929-1933. (*Rolfs*).
+Rolfs, Peter Henry (1865-1944), American botanist and entomologist at Florida Agricultural Experiment Station at Lake City, Florida 1892-1899; professor of botany at Clemson College and botanist at the Agricultural Experiment Station S. Carolina 1899-1906; director of the Station at Lake City, Florida 1906-1921; dean of the Agricultural College 1915-1921; in charge of the Esc. Sup. Agric. Minaes-Geraes, Brazil 1921-1929; technical consultant Minas Geraes 1929-1933. 
+**Abbreviated name**: *Rolfs*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/item/104137#page/713/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33355784) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Naumann, Einar Christian Leonard (1891-1934), Swedish limnologist and algologist; Dr. phil. Lund 1917; lecturer (1917) and professor (1919) of limnology at Lund; one of the founders, with A. Thienemann, of the Soc. int. Limnol. (*Naumann*).
+Naumann, Einar Christian Leonard (1891-1934), Swedish limnologist and algologist; Dr. phil. Lund 1917; lecturer (1917) and professor (1919) of limnology at Lund; one of the founders, with A. Thienemann, of the Soc. int. Limnol. 
+**Abbreviated name**: *Naumann*
 
 #### Herbarium and types
 

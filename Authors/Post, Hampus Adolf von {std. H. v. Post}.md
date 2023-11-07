@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/item/103624#page/366/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33189823) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Post, Hampus Adolf von (1822-1911), Swedish botanist, geologist, mycologist, phytogeographer and phytosociologist; Prof. h.c. 1875; Dr. phil. h.c. Uppsala 1877, agricultural and soil chemist at Ultuna Lantbruksinstitut 1848-1851 and 1869-1892; director of a glass factory at Reijmyre 1852-1869. (*H. v. Post*).
+Post, Hampus Adolf von (1822-1911), Swedish botanist, geologist, mycologist, phytogeographer and phytosociologist; Prof. h.c. 1875; Dr. phil. h.c. Uppsala 1877, agricultural and soil chemist at Ultuna Lantbruksinstitut 1848-1851 and 1869-1892; director of a glass factory at Reijmyre 1852-1869. 
+**Abbreviated name**: *H. v. Post*
 
 #### Herbarium and types
 

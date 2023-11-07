@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103833#page/174/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259208) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Degland, Jean Vincent Yves (1773-1841), French botanist, born at Rennes 20 Jan 1773, died at Rennes 19 Feb 1841, professor of botany in Rennes. (*Degl.*).
+Degland, Jean Vincent Yves (1773-1841), French botanist, born at Rennes 20 Jan 1773, died at Rennes 19 Feb 1841, professor of botany in Rennes. 
+**Abbreviated name**: *Degl.*
 
 #### Herbarium and types
 

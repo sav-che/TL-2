@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/item/103250#page/407/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33066687) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willmott, John (1775-1834), British commercial horticulturist at Lewisham nursery. (*J. Willm.*).
+Willmott, John (1775-1834), British commercial horticulturist at Lewisham nursery. 
+**Abbreviated name**: *J. Willm.*
 
 #### Herbarium and types
 

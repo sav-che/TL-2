@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103835#page/348/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33260326) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Endlicher, Stephan Ladislaus {std. Endl.}|first entry]] for this author
 
 ### Author
 
-\* Endlicher, Stephan Ladislaus (István Lászlo) (1804-1849), Austrian-Hungarian botanist born, 24 Jun 1804 at Pressburg (now Bratislava in Slovakia), studied in Budapest and Vienna theology until 1826, but was more interested in botany and oriental languages, secretary of the "Hofbibliothek" 1828, custos of the "Hofherbarium" 1836, professor of botany 1839, med. dr. in 1840, in the revolution of 1848 driven out of Vienna, died 28 Mar 1849. (*Endl.*).
+\* Endlicher, Stephan Ladislaus (István Lászlo) (1804-1849), Austrian-Hungarian botanist born, 24 Jun 1804 at Pressburg (now Bratislava in Slovakia), studied in Budapest and Vienna theology until 1826, but was more interested in botany and oriental languages, secretary of the "Hofbibliothek" 1828, custos of the "Hofherbarium" 1836, professor of botany 1839, med. dr. in 1840, in the revolution of 1848 driven out of Vienna, died 28 Mar 1849. 
+**Abbreviated name**: *Endl.*
 
 #### Herbarium and types
 

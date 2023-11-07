@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103253#page/468/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33068684) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jessen, Karl Friedrich Wilhelm (1821-1889), German botanist, bibliographer, historian of science and friend of Pritzel; Dr. phil. Kiel 1848; 1850 "Privatdozent" in Berlin; 1852-1877 professor of botany at the agricultural College of Eldena and the university of Greifswald; from 1877 in Berlin. (*Jess.*).
+Jessen, Karl Friedrich Wilhelm (1821-1889), German botanist, bibliographer, historian of science and friend of Pritzel; Dr. phil. Kiel 1848; 1850 "Privatdozent" in Berlin; 1852-1877 professor of botany at the agricultural College of Eldena and the university of Greifswald; from 1877 in Berlin. 
+**Abbreviated name**: *Jess.*
 
 #### Herbarium and types
 

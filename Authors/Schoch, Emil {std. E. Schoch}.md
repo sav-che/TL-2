@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/104077#page/299/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schoch, Emil (*fl*. 1903), Swiss (Zürich) botanist; Dr. phil. Zürich 1903; student of Hans Schinz. (*E. Schoch*).
+Schoch, Emil (*fl*. 1903), Swiss (Zürich) botanist; Dr. phil. Zürich 1903; student of Hans Schinz. 
+**Abbreviated name**: *E. Schoch*
 
 #### Herbarium and types
 

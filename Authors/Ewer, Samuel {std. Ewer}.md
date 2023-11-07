@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/item/103835#page/453/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33260431) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ewer, Samuel (1768-1815), British botanist, member of the Linnean Society, living at Hackney, London. (*Ewer*).
+Ewer, Samuel (1768-1815), British botanist, member of the Linnean Society, living at Hackney, London. 
+**Abbreviated name**: *Ewer*
 
 #### Herbarium and types
 

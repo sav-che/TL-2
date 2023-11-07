@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/item/103253#page/875/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33069091) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lesquereux, Charles Léo (1806-1889), Swiss-born palaeobotanist and bryologist; to the United States in 1848 (abolishment by the revolutionary council of the Neuchâtel academy); first with Agassiz at Harvard; from 1849-1873 with Sullivant in Columbus, Ohio; from 1865 also working part time at Harvard. (*Lesq.*).
+Lesquereux, Charles Léo (1806-1889), Swiss-born palaeobotanist and bryologist; to the United States in 1848 (abolishment by the revolutionary council of the Neuchâtel academy); first with Agassiz at Harvard; from 1849-1873 with Sullivant in Columbus, Ohio; from 1865 also working part time at Harvard. 
+**Abbreviated name**: *Lesq.*
 
 #### Herbarium and types
 

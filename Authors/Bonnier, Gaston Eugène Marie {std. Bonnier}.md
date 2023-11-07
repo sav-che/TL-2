@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103414#page/320/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33120403) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bonnier, Gaston {std. Bonnier} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bonnier, Gaston Eugène Marie (1851-1922), French botanist. (*Bonnier*).
+Bonnier, Gaston Eugène Marie (1851-1922), French botanist. 
+**Abbreviated name**: *Bonnier*
 
 #### Herbarium and types
 

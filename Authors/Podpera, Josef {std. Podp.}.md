@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103624#page/319/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33189776) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Podpera, Josef (1878-1954), Czechoslovak (Bohemian) botanist; studied at the Charles University, Praha 1897-1903; Dr. phil. Praha 1903; teacher of classical languages at various colleges 1903-1914, from 1914-1920 prisoner of war in Russia and the Soviet Union, part of the time at the botanical institute of Ufa (n. Tomsk); from 1921 professor of botany at Brno; member Acad. Sci. \[fix\]SR 1953. (*Podp.*).
+Podpera, Josef (1878-1954), Czechoslovak (Bohemian) botanist; studied at the Charles University, Praha 1897-1903; Dr. phil. Praha 1903; teacher of classical languages at various colleges 1903-1914, from 1914-1920 prisoner of war in Russia and the Soviet Union, part of the time at the botanical institute of Ufa (n. Tomsk); from 1921 professor of botany at Brno; member Acad. Sci. \[fix\]SR 1953. 
+**Abbreviated name**: *Podp.*
 
 #### Herbarium and types
 

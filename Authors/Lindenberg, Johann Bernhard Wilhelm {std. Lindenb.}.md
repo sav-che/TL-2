@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/104137#page/62/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33355095) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindenberg, Johann Bernhard Wilhelm (1781-1851) German bryologist, lawyer at Lübeck, later at Hamburg, ultimately Amtsverwalter (administrator) at Bergedorf. (*Lindenb.*).
+Lindenberg, Johann Bernhard Wilhelm (1781-1851) German bryologist, lawyer at Lübeck, later at Hamburg, ultimately Amtsverwalter (administrator) at Bergedorf. 
+**Abbreviated name**: *Lindenb.*
 
 #### Herbarium and types
 

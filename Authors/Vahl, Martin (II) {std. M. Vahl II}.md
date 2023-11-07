@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 631](https://www.biodiversitylibrary.org/item/103683#page/641/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 631](https://www.biodiversitylibrary.org/page/33212673) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vahl, Martin \[II\] (1869-1946), Danish geographer and botanist; cand. theol. 1895; cand. mag. 1900; teacher at Copenhagen gymnasium 1900-1921; professor of geography at the University of Copenhagen 1921-1939; visited Madeira 1901-1902 and 1921-1922. (*M. Vahl II*).
+Vahl, Martin \[II\] (1869-1946), Danish geographer and botanist; cand. theol. 1895; cand. mag. 1900; teacher at Copenhagen gymnasium 1900-1921; professor of geography at the University of Copenhagen 1921-1939; visited Madeira 1901-1902 and 1921-1922. 
+**Abbreviated name**: *M. Vahl II*
 
 #### Herbarium and types
 

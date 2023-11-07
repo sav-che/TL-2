@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103834#page/375/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33259857) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Foucaud, Julien {std. Foucaud}|first entry]] for this author
 
 ### Author
 
-\* Foucaud, Julien (1847-1904), French botanist and school teacher, born 2 Jul 1847 in Saint-Clément (Charente-Inférieure, now Charente-Maritime), attended primary schools nr. his hometown and the lyceum in La Rochelle, taught at Saujon 1867, Ars-en-Ré 1869, Rochefort-sur-Mer (Charente-Maritime), Saint-Vivien 1873, Saint-Pierre-d'Amilly 1875 and finally at Saint-Christophe 1876, re-organized the botanical garden in Rochefort-sur-Mer and became its dir. (1894-1904) while teaching at the "École de médecine navale", died 26 Apr 1904 in Rochefort-sur-Mer. (*Foucaud*).
+\* Foucaud, Julien (1847-1904), French botanist and school teacher, born 2 Jul 1847 in Saint-Clément (Charente-Inférieure, now Charente-Maritime), attended primary schools nr. his hometown and the lyceum in La Rochelle, taught at Saujon 1867, Ars-en-Ré 1869, Rochefort-sur-Mer (Charente-Maritime), Saint-Vivien 1873, Saint-Pierre-d'Amilly 1875 and finally at Saint-Christophe 1876, re-organized the botanical garden in Rochefort-sur-Mer and became its dir. (1894-1904) while teaching at the "École de médecine navale", died 26 Apr 1904 in Rochefort-sur-Mer. 
+**Abbreviated name**: *Foucaud*
 
 #### Herbarium and types
 

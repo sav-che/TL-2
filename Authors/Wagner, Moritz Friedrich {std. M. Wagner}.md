@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103250#page/72/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33066352) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wagner, Moritz Friedrich (1813-1887), German (Bavarian) traveller, botanist and zoologist; travelled in Algeria (1836-1838), in Caucasia, Armenia and Persia (1844, 1850, 1852, 1855); in North and Central America (1853-1854), Panama and Ecuador (1857-1860); professor of geography and ethnography at München from 1862, also curator of the München ethnographic museum. (*M. Wagner*).
+Wagner, Moritz Friedrich (1813-1887), German (Bavarian) traveller, botanist and zoologist; travelled in Algeria (1836-1838), in Caucasia, Armenia and Persia (1844, 1850, 1852, 1855); in North and Central America (1853-1854), Panama and Ecuador (1857-1860); professor of geography and ethnography at München from 1862, also curator of the München ethnographic museum. 
+**Abbreviated name**: *M. Wagner*
 
 #### Herbarium and types
 

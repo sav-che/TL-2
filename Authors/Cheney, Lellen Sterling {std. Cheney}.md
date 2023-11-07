@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/item/103860#page/90/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33265757) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cheney, Lellen Sterling (1858-1938), American botanist, born at Essex, Ohio, studied at the State University of Wisconsin 1889, B.S. ib. 1891, fellow 1891-1892, M.S. 1896, in charge of the herbarium 1891-1903, assistant professor on pharmaceutical botany 1896-1903, associate professor 1896 (*Cheney*).
+Cheney, Lellen Sterling (1858-1938), American botanist, born at Essex, Ohio, studied at the State University of Wisconsin 1889, B.S. ib. 1891, fellow 1891-1892, M.S. 1896, in charge of the herbarium 1891-1903, assistant professor on pharmaceutical botany 1896-1903, associate professor 1896 
+**Abbreviated name**: *Cheney*
 
 #### Herbarium and types
 

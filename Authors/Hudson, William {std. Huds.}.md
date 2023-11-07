@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/item/103253#page/380/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33068596) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hudson, William (1730-1793), British apothecary, horticulturist and botanist in London, early adherent of the Linnaean system, one of the founders of the Linnean Society, praefectus and praelector Chelsea Physic Garden 1765-1771. (*Huds.*).
+Hudson, William (1730-1793), British apothecary, horticulturist and botanist in London, early adherent of the Linnaean system, one of the founders of the Linnean Society, praefectus and praelector Chelsea Physic Garden 1765-1771. 
+**Abbreviated name**: *Huds.*
 
 #### Herbarium and types
 

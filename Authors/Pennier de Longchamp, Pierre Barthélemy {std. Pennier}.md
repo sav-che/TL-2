@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103624#page/169/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33189626) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pennier de Longchamp, Pierre Barthélemy (*fl*. 1766), French mycologist and physician at Avignon (*Pennier*).
+Pennier de Longchamp, Pierre Barthélemy (*fl*. 1766), French mycologist and physician at Avignon 
+**Abbreviated name**: *Pennier*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103414#page/257/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33120340) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bethel, Ellsworth {std. Bethel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bethel, Ellsworth (1863-1925), American mycologist. (*Bethel*).
+Bethel, Ellsworth (1863-1925), American mycologist. 
+**Abbreviated name**: *Bethel*
 
 #### Herbarium and types
 

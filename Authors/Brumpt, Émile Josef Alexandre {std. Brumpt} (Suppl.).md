@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103861#page/167/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brumpt, Émile Josef Alexandre {std. Brumpt}|first entry]] for this author
 
 ### Author
 
-\* Brumpt, Émile Josef Alexandre (1877-1951), French parasitologist, connected with the Paris hospitals, assistant at the Faculté de Médecine, Paris, "Chef des travaux pratiques" at the Colonial medical institute, Paris. (*Brumpt*).
+\* Brumpt, Émile Josef Alexandre (1877-1951), French parasitologist, connected with the Paris hospitals, assistant at the Faculté de Médecine, Paris, "Chef des travaux pratiques" at the Colonial medical institute, Paris. 
+**Abbreviated name**: *Brumpt*
 
 #### Herbarium and types
 

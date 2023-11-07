@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1062](https://www.biodiversitylibrary.org/item/103624#page/1076/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1062](https://www.biodiversitylibrary.org/page/33190533) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-St. Brody, Gustavus A. Ornano (1828-1901), French-born botanist and teacher; Dr. phil. Göttingen, settled in England as a young man; as French teacher at the Crypt Grammar School, Gloucester. (*St. Brody*).
+St. Brody, Gustavus A. Ornano (1828-1901), French-born botanist and teacher; Dr. phil. Göttingen, settled in England as a young man; as French teacher at the Crypt Grammar School, Gloucester. 
+**Abbreviated name**: *St. Brody*
 
 #### Herbarium and types
 

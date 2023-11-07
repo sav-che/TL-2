@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/104137#page/241/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33355312) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mackay, James Townsend (1775-1862), Scottish-born gardener and botanist; went to Dublin 1804; founded the botanical garden of Trinity College, curator id. 1806-1856; LL. D. Univ. Dublin 1850. (*J. Mackay*).
+Mackay, James Townsend (1775-1862), Scottish-born gardener and botanist; went to Dublin 1804; founded the botanical garden of Trinity College, curator id. 1806-1856; LL. D. Univ. Dublin 1850. 
+**Abbreviated name**: *J. Mackay*
 
 #### Herbarium and types
 

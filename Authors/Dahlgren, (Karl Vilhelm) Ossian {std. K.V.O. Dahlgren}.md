@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103833#page/24/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33259058) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dahlgren, \[Karl Vilhelm\] Ossian (1888-?), Swedish botanist, born at Arboga, educated at Västerås h. lärov. 1907, at the University of Uppsala 1907, fil. kand. 1910, fil. mag. 1910 doctor and docent 1916, lector docent in botany 1916, lector id. Uppsala 1921, professor in botany 1932. (*K.V.O. Dahlgren*).
+Dahlgren, \[Karl Vilhelm\] Ossian (1888-?), Swedish botanist, born at Arboga, educated at Västerås h. lärov. 1907, at the University of Uppsala 1907, fil. kand. 1910, fil. mag. 1910 doctor and docent 1916, lector docent in botany 1916, lector id. Uppsala 1921, professor in botany 1932. 
+**Abbreviated name**: *K.V.O. Dahlgren*
 
 #### Herbarium and types
 

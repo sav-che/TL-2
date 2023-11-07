@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/item/103624#page/358/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33189815) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Portenschlag-Ledermayer, Franz \[Edler\] von (1772-1822), Austrian botanist; studied law, abandoned his career as a lawyer to practice botany; botanical explorer of the Austrian empire. (*Portenschl.*).
+Portenschlag-Ledermayer, Franz \[Edler\] von (1772-1822), Austrian botanist; studied law, abandoned his career as a lawyer to practice botany; botanical explorer of the Austrian empire. 
+**Abbreviated name**: *Portenschl.*
 
 #### Herbarium and types
 

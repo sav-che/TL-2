@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103835#page/219/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33260197) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duthie, John Firminger {std. Duthie}|first entry]] for this author
 
 ### Author
 
-Duthie, John Firminger (1845-1922), British botanist, born 12 Mai 1845 Sittingbourne, Kent, died 22 Feb 1922 Worthing, educated at Marlborough College and at Jesus College, Cambridge, graduated B.A. 1867, sometime tutorship in Somerset, travelled in Italy and the Mediterranean islands, 15 Apr 1875 fellow of the Linnean Society, superintendent Saharanpur Garden 1876-1903, Kew Herbarium 1903-1907, collected plants in India primarily in the North-Western parts. (*Duthie*).
+Duthie, John Firminger (1845-1922), British botanist, born 12 Mai 1845 Sittingbourne, Kent, died 22 Feb 1922 Worthing, educated at Marlborough College and at Jesus College, Cambridge, graduated B.A. 1867, sometime tutorship in Somerset, travelled in Italy and the Mediterranean islands, 15 Apr 1875 fellow of the Linnean Society, superintendent Saharanpur Garden 1876-1903, Kew Herbarium 1903-1907, collected plants in India primarily in the North-Western parts. 
+**Abbreviated name**: *Duthie*
 
 #### Herbarium and types
 

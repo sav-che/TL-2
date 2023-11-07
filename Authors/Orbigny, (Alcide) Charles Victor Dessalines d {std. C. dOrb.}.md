@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/item/104137#page/858/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33355929) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Orbigny, \[Alcide\] Charles Victor Dessalines d' (1806-1876), French cryptogamist and encyclopedist. (*C. d'Orb.*).
+Orbigny, \[Alcide\] Charles Victor Dessalines d' (1806-1876), French cryptogamist and encyclopedist. 
+**Abbreviated name**: *C. d'Orb.*
 
 #### Herbarium and types
 

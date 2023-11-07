@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/item/103414#page/926/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Friche-Joset, François (b. François Joset) {std. Friche-Joset} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Friche-Joset, François (1799-1856\[?\]), Swiss horticulturist. (*Friche-Joset*).
+Friche-Joset, François (1799-1856\[?\]), Swiss horticulturist. 
+**Abbreviated name**: *Friche-Joset*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103835#page/93/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doyer, Catharina Magdalena (1898-1979), Dutch botanist born in Zuidbroek, studied at Utrecht, Ph.D. 15 Jun 1925, later at the Centraalbureau voor Schimmelcultures at Baarn (Netherlands), died 24 Nov 1979 at Huizen. (*Doyer*).
+Doyer, Catharina Magdalena (1898-1979), Dutch botanist born in Zuidbroek, studied at Utrecht, Ph.D. 15 Jun 1925, later at the Centraalbureau voor Schimmelcultures at Baarn (Netherlands), died 24 Nov 1979 at Huizen. 
+**Abbreviated name**: *Doyer*
 
 #### Herbarium and types
 

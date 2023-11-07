@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/item/103414#page/674/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33120757) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Descourtilz, Michel Étienne {std. Descourt.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Descourtilz, Michel Étienne (1775-c. 1835), French physician, traveller and naturalist. (*Descourt.*).
+Descourtilz, Michel Étienne (1775-c. 1835), French physician, traveller and naturalist. 
+**Abbreviated name**: *Descourt.*
 
 #### Herbarium and types
 

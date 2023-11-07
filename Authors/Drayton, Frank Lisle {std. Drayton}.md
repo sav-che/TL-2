@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103835#page/100/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33260078) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drayton, Frank Lisle (1892-?), American botanist, born 13 Aug 1892 on Barbados, B.W.I., B.S.A. McGill University 1914, Ph.D. (plant pathology) Cornell 1932, went to the Canadian Dept. of Agriculture, Division of Botany 1914-1918, plant pathologist 1919-1933, princ. plant pathologist 1933-1946, assoc. Dominion Botanist from 1946. (*Drayton*).
+Drayton, Frank Lisle (1892-?), American botanist, born 13 Aug 1892 on Barbados, B.W.I., B.S.A. McGill University 1914, Ph.D. (plant pathology) Cornell 1932, went to the Canadian Dept. of Agriculture, Division of Botany 1914-1918, plant pathologist 1919-1933, princ. plant pathologist 1933-1946, assoc. Dominion Botanist from 1946. 
+**Abbreviated name**: *Drayton*
 
 #### Herbarium and types
 

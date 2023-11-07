@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103683#page/93/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33212125) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suffren, François Palamède, Marquis de (1753-1824), French botanist at Salon, Bouches-du-Rhône. (*Suffren*).
+Suffren, François Palamède, Marquis de (1753-1824), French botanist at Salon, Bouches-du-Rhône. 
+**Abbreviated name**: *Suffren*
 
 #### Herbarium and types
 

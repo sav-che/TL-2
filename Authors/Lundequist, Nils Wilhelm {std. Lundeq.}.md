@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/104137#page/212/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33355283) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lundequist, Nils Wilhelm (1804-1863), Swedish botanist; Dr. phil. Uppsala 1827; bookseller in Stockholm until 1834; from then on in various functions at Uppsala. (*Lundeq.*).
+Lundequist, Nils Wilhelm (1804-1863), Swedish botanist; Dr. phil. Uppsala 1827; bookseller in Stockholm until 1834; from then on in various functions at Uppsala. 
+**Abbreviated name**: *Lundeq.*
 
 #### Herbarium and types
 

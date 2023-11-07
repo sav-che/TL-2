@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103253#page/68/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33068284) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hance, Henry Fletcher (1827-1886), British botanist; vice-consul at Whampoa, Canton and Amoy (1844-1886). (*Hance*).
+Hance, Henry Fletcher (1827-1886), British botanist; vice-consul at Whampoa, Canton and Amoy (1844-1886). 
+**Abbreviated name**: *Hance*
 
 #### Herbarium and types
 

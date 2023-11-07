@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/103835#page/269/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33260247) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edgren, Peter Adolph (1902-1891), Swedish botanist, born 7 Feb 1802 at Åmål, student at Uppsala 1829, med. dr. 1835, in military service 1868-1870, died 3 Jul 1891 at Stockholm. (*Edgren*).
+Edgren, Peter Adolph (1902-1891), Swedish botanist, born 7 Feb 1802 at Åmål, student at Uppsala 1829, med. dr. 1835, in military service 1868-1870, died 3 Jul 1891 at Stockholm. 
+**Abbreviated name**: *Edgren*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/103414#page/342/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33120425) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bourdot, Hubert (Chanoine) {std. Bourdot} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bourdot, abbé Hubert (1861-1937), French mycologist. (*Bourd.*).
+Bourdot, abbé Hubert (1861-1937), French mycologist. 
+**Abbreviated name**: *Bourd.*
 
 #### Herbarium and types
 

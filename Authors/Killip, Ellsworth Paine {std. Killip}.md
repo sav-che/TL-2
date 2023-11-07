@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/item/103253#page/567/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33068783) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Killip, Ellsworth Paine (1890-1968), American botanist at the Smithsonian Institution. (*Killip*).
+Killip, Ellsworth Paine (1890-1968), American botanist at the Smithsonian Institution. 
+**Abbreviated name**: *Killip*
 
 #### Herbarium and types
 

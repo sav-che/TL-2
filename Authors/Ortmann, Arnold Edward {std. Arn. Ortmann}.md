@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/item/104137#page/866/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33355937) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ortmann, Arnold Edward (1863-1927), German-born American invertebrate zoologist and botanist; student of E. Haeckel; Dr. phil. Jena 1886; assistant in botany Jena and Kiel 1882-1886; in palaeontology at Strassburg 1886-1887; at the Zoological Museum, Strassburg 1887-1894; curator invertebrate palaeontology Princeton 1894-1903; idem Carnegie Museum Pittsburgh 1903-1925, also professor of physical geography, Pittsburgh 1910-1925, id. of zoology 1925-1927. (*Arn. Ortmann*).
+Ortmann, Arnold Edward (1863-1927), German-born American invertebrate zoologist and botanist; student of E. Haeckel; Dr. phil. Jena 1886; assistant in botany Jena and Kiel 1882-1886; in palaeontology at Strassburg 1886-1887; at the Zoological Museum, Strassburg 1887-1894; curator invertebrate palaeontology Princeton 1894-1903; idem Carnegie Museum Pittsburgh 1903-1925, also professor of physical geography, Pittsburgh 1910-1925, id. of zoology 1925-1927. 
+**Abbreviated name**: *Arn. Ortmann*
 
 #### Herbarium and types
 

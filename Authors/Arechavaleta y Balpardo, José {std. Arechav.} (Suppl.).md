@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103858#page/164/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33264879) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arechavaleta y Balpardo, José {std. Arechav.}|first entry]] for this author
 
 ### Author
 
-\* Arechavaleta y Balpardo, José (1838-1912), Spanish born botanist, emigrated to Uruguay in 1852, practicing pharmacist at Montevideo 1852-1873, from 1862 titular professor of pharmacy at the University of Montevideo, regular professor at the Faculty of Medicine I.c. 1873, founded an institute of experimental hygiene, assistant director of the Museo nacional of Montevideo from 1890, director of the Natural history museum 1911-1912. (*Arechav.*).
+\* Arechavaleta y Balpardo, José (1838-1912), Spanish born botanist, emigrated to Uruguay in 1852, practicing pharmacist at Montevideo 1852-1873, from 1862 titular professor of pharmacy at the University of Montevideo, regular professor at the Faculty of Medicine I.c. 1873, founded an institute of experimental hygiene, assistant director of the Museo nacional of Montevideo from 1890, director of the Natural history museum 1911-1912. 
+**Abbreviated name**: *Arechav.*
 
 #### Herbarium and types
 

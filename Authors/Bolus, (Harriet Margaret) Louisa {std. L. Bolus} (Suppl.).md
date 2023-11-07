@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/103859#page/309/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265496) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolus, Harriet Margaret Louisa (née Kensit) {std. L. Bolus}|first entry]] for this author
 
 ### Author
 
-\* Bolus, \[Harriet Margaret\] Louisa (1877-1970), South-African botanist, née Kensit, niece of Harry Bolus, educated in Erica School, Port Elizabeth, took a teacher's course 1899, at South African College 1900-1902, B.A. honors degree in Arts 1902, herbarium assistant of the herbarium of Harry Bolus 1903-1911, curator id. 1911-1955, married Frank Bolus (son of Harry Bolus). (*L. Bolus*).
+\* Bolus, \[Harriet Margaret\] Louisa (1877-1970), South-African botanist, née Kensit, niece of Harry Bolus, educated in Erica School, Port Elizabeth, took a teacher's course 1899, at South African College 1900-1902, B.A. honors degree in Arts 1902, herbarium assistant of the herbarium of Harry Bolus 1903-1911, curator id. 1911-1955, married Frank Bolus (son of Harry Bolus). 
+**Abbreviated name**: *L. Bolus*
 
 #### Herbarium and types
 

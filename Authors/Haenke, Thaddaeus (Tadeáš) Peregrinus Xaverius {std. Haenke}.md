@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103253#page/32/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haenke, Thaddaeus (Tadeáš) Peregrinus Xaverius (1761-1816), Czech botanist and explorer on the Malaspina expedition. (*Haenke*).
+Haenke, Thaddaeus (Tadeáš) Peregrinus Xaverius (1761-1816), Czech botanist and explorer on the Malaspina expedition. 
+**Abbreviated name**: *Haenke*
 
 #### Herbarium and types
 

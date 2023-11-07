@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103834#page/311/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259793) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Förster, Johann B. (1843/4-1907), Austrian bryologist, "Chemiker", resided in Rabenstein (Niederösterreich), died 5 Jun 1907 in Rabenstein. (*J.B. Först.*).
+Förster, Johann B. (1843/4-1907), Austrian bryologist, "Chemiker", resided in Rabenstein (Niederösterreich), died 5 Jun 1907 in Rabenstein. 
+**Abbreviated name**: *J.B. Först.*
 
 #### Herbarium and types
 

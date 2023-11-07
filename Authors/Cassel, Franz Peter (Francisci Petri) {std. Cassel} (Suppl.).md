@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103861#page/463/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266760) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cassel, Franz Peter {std. Cassel}|first entry]] for this author
 
 ### Author
 
-\* Cassel, Franz Peter \[Francisci Petri\] (1784-1821), German botanist born in Köln, studied at the Universities of Göttingen and Paris, teacher at the Gymnasium in Köln, from 1817 professor at the University of Gent, ib. 1818-1819 Rektor, also director of the botanical garden in Gent. (*Cassel*).
+\* Cassel, Franz Peter \[Francisci Petri\] (1784-1821), German botanist born in Köln, studied at the Universities of Göttingen and Paris, teacher at the Gymnasium in Köln, from 1817 professor at the University of Gent, ib. 1818-1819 Rektor, also director of the botanical garden in Gent. 
+**Abbreviated name**: *Cassel*
 
 #### Herbarium and types
 

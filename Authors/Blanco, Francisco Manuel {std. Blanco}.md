@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/103414#page/277/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33120360) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blanco, Francisco Manuel (1778-1845), Spanish clergyman, explorer and botanist. (*Blanco*).
+Blanco, Francisco Manuel (1778-1845), Spanish clergyman, explorer and botanist. 
+**Abbreviated name**: *Blanco*
 
 #### Herbarium and types
 

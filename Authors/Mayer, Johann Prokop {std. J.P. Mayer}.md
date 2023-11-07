@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/104137#page/404/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mayer, Johann Prokop (1737-1804), Bohemian horticulturist and botanist; later at Würzburg. (*J. P. Mayer*).
+Mayer, Johann Prokop (1737-1804), Bohemian horticulturist and botanist; later at Würzburg. 
+**Abbreviated name**: *J. P. Mayer*
 
 #### Herbarium and types
 

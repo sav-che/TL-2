@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/104077#page/396/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33333521) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultze, Maximilian Johann Siegmund \[Max Sigmund\] (1825-1874), German (Baden) diatomologist, microscopist and zoologist; studied in Greifswald and Berlin; Dr. med. Greifswald 1849 (1850); lecturer ("Privatdozent") Greifswald and prosektor 1825-1845; extraordinary professor of zoology at Halle 1845-1859; professor of anatomy at the University of Bonn 1859-1872. (*M. Schultze*).
+Schultze, Maximilian Johann Siegmund \[Max Sigmund\] (1825-1874), German (Baden) diatomologist, microscopist and zoologist; studied in Greifswald and Berlin; Dr. med. Greifswald 1849 (1850); lecturer ("Privatdozent") Greifswald and prosektor 1825-1845; extraordinary professor of zoology at Halle 1845-1859; professor of anatomy at the University of Bonn 1859-1872. 
+**Abbreviated name**: *M. Schultze*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/item/103253#page/459/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33068675) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jeanpert, Henri Édouard (1861-1921), French botanist; originally in private business; from 1907 connected with the Muséum d'histoire naturelle, Paris, in charge of the Cosson herbarium. (*Jeanp.*).
+Jeanpert, Henri Édouard (1861-1921), French botanist; originally in private business; from 1907 connected with the Muséum d'histoire naturelle, Paris, in charge of the Cosson herbarium. 
+**Abbreviated name**: *Jeanp.*
 
 #### Herbarium and types
 

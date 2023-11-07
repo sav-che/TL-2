@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103250#page/227/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33066507) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weiss, Friedrich Wilhelm (1744-1826), German (Hannoverian) physician and botanist; Dr. med. Göttingen 1769; lecturer in medicine at Göttingen University 1769-1784; Fürstlich-Rotenburgischer Hofrat and personal physician to the Landgraf of Hessen-Rotenburg from 1784. (*F.W. Weiss*).
+Weiss, Friedrich Wilhelm (1744-1826), German (Hannoverian) physician and botanist; Dr. med. Göttingen 1769; lecturer in medicine at Göttingen University 1769-1784; Fürstlich-Rotenburgischer Hofrat and personal physician to the Landgraf of Hessen-Rotenburg from 1784. 
+**Abbreviated name**: *F.W. Weiss*
 
 #### Herbarium and types
 

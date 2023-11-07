@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/103683#page/388/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33212420) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tocl, Karel (1870-1910), Bohemian botanist at the National Museum, Praha 1897-1902, subsequently high school teacher. (*Tocl*).
+Tocl, Karel (1870-1910), Bohemian botanist at the National Museum, Praha 1897-1902, subsequently high school teacher. 
+**Abbreviated name**: *Tocl*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/item/104077#page/692/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33333817) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, James Edward (1759-1828), British botanist; studied medicine in Edinburgh and Leiden; purchased the Linnaean herbarium in 1784; Dr. med. Leiden 1786; founded the Linnean Society 1788 (president 1788-1828), knighted 1814. (*Sm.*).
+Smith, James Edward (1759-1828), British botanist; studied medicine in Edinburgh and Leiden; purchased the Linnaean herbarium in 1784; Dr. med. Leiden 1786; founded the Linnean Society 1788 (president 1788-1828), knighted 1814. 
+**Abbreviated name**: *Sm.*
 
 #### Herbarium and types
 

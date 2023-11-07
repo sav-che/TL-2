@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/item/103624#page/120/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33189577) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Patterson, Paul Morrison (1902-x), American bryologist; A.M. Univ. N. Carolina 1927; asst. prof. botany Davidson Coll. 1927-1928; assoc. prof. S. Carolina Univ. 1930-1933; Dr. phil. Hopkins Univ. 1933; from 1934-1966 prof. biology Hollins College, Va. (*P. Patt.*).
+Patterson, Paul Morrison (1902-x), American bryologist; A.M. Univ. N. Carolina 1927; asst. prof. botany Davidson Coll. 1927-1928; assoc. prof. S. Carolina Univ. 1930-1933; Dr. phil. Hopkins Univ. 1933; from 1934-1966 prof. biology Hollins College, Va. 
+**Abbreviated name**: *P. Patt.*
 
 #### Herbarium and types
 

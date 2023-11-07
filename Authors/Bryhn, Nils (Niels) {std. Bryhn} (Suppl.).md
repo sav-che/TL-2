@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103861#page/179/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bryhn, Nils {std. Bryhn}|first entry]] for this author
 
 ### Author
 
-\* Bryhn, Nils \[Niels\] (1854-1916), Norwegian privately practicing physician, deputy curator at the Botanical Museum of the University of Christiania (Oslo), 1877-1878, cand. med. Christiania 1880, assistant physician at Eger and Ringerike, general physician at Tjømø 1883-1887, from 1887 privately practicing at Hønefoss. (*Bryhn*).
+\* Bryhn, Nils \[Niels\] (1854-1916), Norwegian privately practicing physician, deputy curator at the Botanical Museum of the University of Christiania (Oslo), 1877-1878, cand. med. Christiania 1880, assistant physician at Eger and Ringerike, general physician at Tjømø 1883-1887, from 1887 privately practicing at Hønefoss. 
+**Abbreviated name**: *Bryhn*
 
 #### Herbarium and types
 

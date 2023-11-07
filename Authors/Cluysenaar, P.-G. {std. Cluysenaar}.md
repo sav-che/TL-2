@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103860#page/240/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265907) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cluysenaar, P.-G. (fl. 1890), Belgian professor of science at the "Section normale de Huy". (*Cluysenaar*).
+Cluysenaar, P.-G. (fl. 1890), Belgian professor of science at the "Section normale de Huy". 
+**Abbreviated name**: *Cluysenaar*
 
 #### Herbarium and types
 

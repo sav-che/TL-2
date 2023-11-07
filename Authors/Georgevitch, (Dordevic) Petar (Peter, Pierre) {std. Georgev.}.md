@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103832#page/194/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33258660) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Georgevitch, \[Dordevic\] Petar \[Peter, Pierre\] (1874-1947), Serbian botanist specializing in cryptogams (diatoms and fungi), born in Krusevac. (*Georgev.*).
+Georgevitch, \[Dordevic\] Petar \[Peter, Pierre\] (1874-1947), Serbian botanist specializing in cryptogams (diatoms and fungi), born in Krusevac. 
+**Abbreviated name**: *Georgev.*
 
 #### Herbarium and types
 

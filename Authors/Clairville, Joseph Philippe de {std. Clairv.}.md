@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/item/103414#page/553/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33120636) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clairville, Joseph Philippe de (1742-1830), French born Swiss botanist, co-founder of the Schweizer naturforschenden Gesellschaft. (*Clairv.*).
+Clairville, Joseph Philippe de (1742-1830), French born Swiss botanist, co-founder of the Schweizer naturforschenden Gesellschaft. 
+**Abbreviated name**: *Clairv.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/item/103683#page/775/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33212807) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voeltzkow, Alfred (1860-?), German zoologist and traveller; in Madagascar and East Africa 1889-1895, 1903-1905. (*Voeltzk.*).
+Voeltzkow, Alfred (1860-?), German zoologist and traveller; in Madagascar and East Africa 1889-1895, 1903-1905. 
+**Abbreviated name**: *Voeltzk.*
 
 #### Herbarium and types
 

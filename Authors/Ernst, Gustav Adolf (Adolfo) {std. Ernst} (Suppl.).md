@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/item/103835#page/416/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33260394) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ernst, Adolf (Adolfo) {std. Ernst}|first entry]] for this author
 
 ### Author
 
-\* Ernst, Gustav Adolf (Adolfo) (1832-1899), German botanist, born 6 Oct 1832 at Primkenau (Silesia), visited the lyceum in his home-town, studied natural sciences at the University of Berlin, moved to Hamburg 1858-1859 and went to Venezuela in 1861, founded in 1867 the "Sociedad de Ciencias fisicas y naturales" in Caracas and collected for the government the natural products of Venezuela, became professor in natural sciences and German language at the university in 1874 as well as director of the national museum and university library in Caracas, died 12 Aug 1899. (*Ernst*).
+\* Ernst, Gustav Adolf (Adolfo) (1832-1899), German botanist, born 6 Oct 1832 at Primkenau (Silesia), visited the lyceum in his home-town, studied natural sciences at the University of Berlin, moved to Hamburg 1858-1859 and went to Venezuela in 1861, founded in 1867 the "Sociedad de Ciencias fisicas y naturales" in Caracas and collected for the government the natural products of Venezuela, became professor in natural sciences and German language at the university in 1874 as well as director of the national museum and university library in Caracas, died 12 Aug 1899. 
+**Abbreviated name**: *Ernst*
 
 #### Herbarium and types
 

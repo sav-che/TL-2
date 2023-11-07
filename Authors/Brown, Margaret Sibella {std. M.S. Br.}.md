@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103861#page/146/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, Margaret Sibella (1866-1961), Australian (born Sydney Mines, N.S.) bryologist, educated at private schools at Halifax, N.S., Stuttgart, Württemberg, and London. (*M.S. Br.*).
+Brown, Margaret Sibella (1866-1961), Australian (born Sydney Mines, N.S.) bryologist, educated at private schools at Halifax, N.S., Stuttgart, Württemberg, and London. 
+**Abbreviated name**: *M.S. Br.*
 
 #### Herbarium and types
 

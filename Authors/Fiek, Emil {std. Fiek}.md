@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/103414#page/876/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33120959) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fiek, Emil {std. Fiek} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fiek, Emil (1840-1897), German botanist, traveller and apothecary, later civil servant (Amtsvorsteher) in Kunnersdorf nr. Hischberg in German Silesia. (*Fiek*).
+Fiek, Emil (1840-1897), German botanist, traveller and apothecary, later civil servant (Amtsvorsteher) in Kunnersdorf nr. Hischberg in German Silesia. 
+**Abbreviated name**: *Fiek*
 
 #### Herbarium and types
 

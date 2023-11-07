@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/104077#page/132/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33333257) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schatz, \[Jakob\] Wilhelm (1802-1867), German (Prussian/Brandenburg) botanist; Dr. phil. Halle 1824; high school teacher at Magdeburg 1824-1834; at Halberstadt 1834-1867. (*W. Schatz*).
+Schatz, \[Jakob\] Wilhelm (1802-1867), German (Prussian/Brandenburg) botanist; Dr. phil. Halle 1824; high school teacher at Magdeburg 1824-1834; at Halberstadt 1834-1867. 
+**Abbreviated name**: *W. Schatz*
 
 #### Herbarium and types
 

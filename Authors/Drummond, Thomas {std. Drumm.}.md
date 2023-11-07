@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/item/103414#page/733/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33120816) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drummond, Thomas (1780-1835), Scottish collector and botanist, in N. America 1831-1835, brother of James Drummond. (*Drumm.*).
+Drummond, Thomas (1780-1835), Scottish collector and botanist, in N. America 1831-1835, brother of James Drummond. 
+**Abbreviated name**: *Drumm.*
 
 #### Herbarium and types
 

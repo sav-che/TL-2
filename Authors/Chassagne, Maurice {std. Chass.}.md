@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103860#page/70/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265737) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chassagne, Maurice (fl. 1904-1957), French botanist at Lezoux, Puy-de-Dôme, issued an Herbarium Salicum. (*Chass.*).
+Chassagne, Maurice (fl. 1904-1957), French botanist at Lezoux, Puy-de-Dôme, issued an Herbarium Salicum. 
+**Abbreviated name**: *Chass.*
 
 #### Herbarium and types
 

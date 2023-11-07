@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/item/104077#page/770/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soulié, Jean André (1858-1900), French roman catholic priest and missionary; to Tibet in the mission at Ta-tsien-lu 1885, in 1891 at Yar-gong (Yerka-lo); enthusiastic botanical and zoological collector; murdered 1905. (*Jean Soulié*).
+Soulié, Jean André (1858-1900), French roman catholic priest and missionary; to Tibet in the mission at Ta-tsien-lu 1885, in 1891 at Yar-gong (Yerka-lo); enthusiastic botanical and zoological collector; murdered 1905. 
+**Abbreviated name**: *Jean Soulié*
 
 #### Herbarium and types
 

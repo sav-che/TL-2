@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/item/103859#page/391/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33265578) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bouisson, A. Gustave (fl. 1878), French professor of botany and zoology at the Medical-pharmaceutical school at Marseille, chief physician of the Marseille hospitals. (*Bouisson*).
+Bouisson, A. Gustave (fl. 1878), French professor of botany and zoology at the Medical-pharmaceutical school at Marseille, chief physician of the Marseille hospitals. 
+**Abbreviated name**: *Bouisson*
 
 #### Herbarium and types
 

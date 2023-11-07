@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103832#page/365/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33258831) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Green, J\[oseph\]. Reynolds (1848-1914), English botanist, born 2 Dec 1848 in Stowmarket (Suffolk), B.Sc. 1880 Univ. of London, Prof. of Botany, Pharmaceutical Society of Great Britain 1887-1907, Joddrell Lab., Kew 1892, M.A. 1888 and D.Sc. 1894 Cambridge, lecturer in vegetable physiology, Univ. of Liverpool 1907, Fellow and Lecturer, Downing College, Cambridge, F.L.S. 1889, F.R.S. 1895, died 3 Jun 1914 in Cambridge. (*J.R. Green*).
+Green, J\[oseph\]. Reynolds (1848-1914), English botanist, born 2 Dec 1848 in Stowmarket (Suffolk), B.Sc. 1880 Univ. of London, Prof. of Botany, Pharmaceutical Society of Great Britain 1887-1907, Joddrell Lab., Kew 1892, M.A. 1888 and D.Sc. 1894 Cambridge, lecturer in vegetable physiology, Univ. of Liverpool 1907, Fellow and Lecturer, Downing College, Cambridge, F.L.S. 1889, F.R.S. 1895, died 3 Jun 1914 in Cambridge. 
+**Abbreviated name**: *J.R. Green*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/104137#page/137/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Litschauer, Viktor (1879-1939), Austrian mycologist; studied at Vienna under v. Höhnel 1899-1903; lecturer at the Vienna "Gewerbemuseum" 1903-1908; from 1908-1936 professor of natural history at the "Handelsakademie", Innsbruck. (*Litsch.*).
+Litschauer, Viktor (1879-1939), Austrian mycologist; studied at Vienna under v. Höhnel 1899-1903; lecturer at the Vienna "Gewerbemuseum" 1903-1908; from 1908-1936 professor of natural history at the "Handelsakademie", Innsbruck. 
+**Abbreviated name**: *Litsch.*
 
 #### Herbarium and types
 

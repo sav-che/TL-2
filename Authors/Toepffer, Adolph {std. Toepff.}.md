@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/103683#page/392/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33212424) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Toepffer, Adolph (1853-1931), German (Prussian/Brandenburg) botanist; originally in charge of a family mill; subsequently travelling in Europe and distributing exsiccatae ca. 1881-1886; in charge of a pharmacy in Schwerin 1887-1902; in retirement because of invalidity in München, fully dedicating himself to botany as volunteer in the (then) Royal Botanical Museum. (*Toepff.*).
+Toepffer, Adolph (1853-1931), German (Prussian/Brandenburg) botanist; originally in charge of a family mill; subsequently travelling in Europe and distributing exsiccatae ca. 1881-1886; in charge of a pharmacy in Schwerin 1887-1902; in retirement because of invalidity in München, fully dedicating himself to botany as volunteer in the (then) Royal Botanical Museum. 
+**Abbreviated name**: *Toepff.*
 
 #### Herbarium and types
 

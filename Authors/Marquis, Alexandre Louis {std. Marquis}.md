@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/104137#page/319/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marquis, Alexandre Louis (1777-1828), French professor of botany; Dr. med. 1810; professor of botany at Rouen 1811-1828. (*Marquis*).
+Marquis, Alexandre Louis (1777-1828), French professor of botany; Dr. med. 1810; professor of botany at Rouen 1811-1828. 
+**Abbreviated name**: *Marquis*
 
 #### Herbarium and types
 

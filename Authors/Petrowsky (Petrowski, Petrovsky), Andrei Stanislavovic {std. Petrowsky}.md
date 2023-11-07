@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103624#page/225/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33189682) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petrowsky \[Petrowski, Petrovsky\], Andrei \[Andreas\] Stanislavovic (1832-1882), Russian botanist; high school teacher at Jaroslaw. (*Petrowsky*).
+Petrowsky \[Petrowski, Petrovsky\], Andrei \[Andreas\] Stanislavovic (1832-1882), Russian botanist; high school teacher at Jaroslaw. 
+**Abbreviated name**: *Petrowsky*
 
 #### Herbarium and types
 

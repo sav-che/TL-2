@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103835#page/85/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33260063) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Douin, Robert Charles Victor (1892-x), French botanist, "Docteur ès Sciences, Agrégé des Sciences naturelles", Doyen of the Faculty of Sciences, Lyon, professor of general botany, director of the Jardin Botanique and of the "Service" of the cultures of the town of Lyon. (*R.C.V. Douin*).
+Douin, Robert Charles Victor (1892-x), French botanist, "Docteur ès Sciences, Agrégé des Sciences naturelles", Doyen of the Faculty of Sciences, Lyon, professor of general botany, director of the Jardin Botanique and of the "Service" of the cultures of the town of Lyon. 
+**Abbreviated name**: *R.C.V. Douin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/item/103253#page/600/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kneiff, Friedrich Gotthard (1785-1832), Alsatian botanist and pharmacist (1817-1832) at Strasbourg. (*Kneiff*).
+Kneiff, Friedrich Gotthard (1785-1832), Alsatian botanist and pharmacist (1817-1832) at Strasbourg. 
+**Abbreviated name**: *Kneiff*
 
 #### Herbarium and types
 

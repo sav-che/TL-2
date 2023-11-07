@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/item/103833#page/328/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33259362) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diemont, Willem Herbert (1907-1972), Dutch botanist, born 27 Sep 1907 at Bogor (Buitenzorg), died 13 Jul 1972 at Maastricht (Neth.), studied from 1931, went to Germany 1934, published on vegetation in the province of Hannover, later assistant with J. Braun-Blanquet at Montpellier, with "Staatsbosbeheer" in the Netherlands 1936-1937 in Friesland, Dr. (cum laude) 1938, appointed assistant-forester, id. 1942 at Sittard and from Mar 1947 at Maastricht. (*Diemont*).
+Diemont, Willem Herbert (1907-1972), Dutch botanist, born 27 Sep 1907 at Bogor (Buitenzorg), died 13 Jul 1972 at Maastricht (Neth.), studied from 1931, went to Germany 1934, published on vegetation in the province of Hannover, later assistant with J. Braun-Blanquet at Montpellier, with "Staatsbosbeheer" in the Netherlands 1936-1937 in Friesland, Dr. (cum laude) 1938, appointed assistant-forester, id. 1942 at Sittard and from Mar 1947 at Maastricht. 
+**Abbreviated name**: *Diemont*
 
 #### Herbarium and types
 

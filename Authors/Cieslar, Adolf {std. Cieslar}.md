@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103860#page/183/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265850) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cieslar, Adolf (1858-1934), Austrian botanist, born in Vienna, soil scientist, from 1905 regular professor at the college "Hochschule für Bodenkultur" at Vienna ("forstliche Produktionslehre").(*Cieslar*).
+Cieslar, Adolf (1858-1934), Austrian botanist, born in Vienna, soil scientist, from 1905 regular professor at the college "Hochschule für Bodenkultur" at Vienna ("forstliche Produktionslehre").
+**Abbreviated name**: *Cieslar*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/item/103250#page/464/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33066744) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wittmack, \[Marx Carl\] Ludwig (1839-1929), German (Hamburg) botanist; studied natural sciences at Jena 1864-1865, and Berlin 1865-1867; Dr. phil. Göttingen 1867; in charge of the setting up of a new Agricultural Museum in Berlin 1867-1871, curator of this museum 1871; assistant teacher at the Berlin Agricultural Institute 1874; extraordinary professor at Berlin University 1880-1913; ordinary professor at the new Agricultural University 1881-1913; scientific director of the botany dept. of the Agricultural Museum 1881; rector of the Agricultural University 1889-1891; Geh. Regierungsrat 1891. (*Wittm.*).
+Wittmack, \[Marx Carl\] Ludwig (1839-1929), German (Hamburg) botanist; studied natural sciences at Jena 1864-1865, and Berlin 1865-1867; Dr. phil. Göttingen 1867; in charge of the setting up of a new Agricultural Museum in Berlin 1867-1871, curator of this museum 1871; assistant teacher at the Berlin Agricultural Institute 1874; extraordinary professor at Berlin University 1880-1913; ordinary professor at the new Agricultural University 1881-1913; scientific director of the botany dept. of the Agricultural Museum 1881; rector of the Agricultural University 1889-1891; Geh. Regierungsrat 1891. 
+**Abbreviated name**: *Wittm.*
 
 #### Herbarium and types
 

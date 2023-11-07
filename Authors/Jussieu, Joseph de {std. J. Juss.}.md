@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/item/103253#page/506/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33068722) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jussieu, Joseph de (1704-1779), French botanist and explorer, brother of Antoine and Bernard de Jussieu. (*J. Juss.*).
+Jussieu, Joseph de (1704-1779), French botanist and explorer, brother of Antoine and Bernard de Jussieu. 
+**Abbreviated name**: *J. Juss.*
 
 #### Herbarium and types
 

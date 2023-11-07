@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/item/103253#page/686/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kräusel, Richard (1890-1966), German palaebotanist; Dr. phil. Breslau 1913 (with F. A. Pax); high school teacher at Frankfurt from 1920; professor of palaeobotany 1928; from 1939 director of the palaebotanical department of the Senckenberg Musuem; Dr. h.c. Durham 1963; student of the Devonian and the Central European mesozoic flora. (*Kräus.*).
+Kräusel, Richard (1890-1966), German palaebotanist; Dr. phil. Breslau 1913 (with F. A. Pax); high school teacher at Frankfurt from 1920; professor of palaeobotany 1928; from 1939 director of the palaebotanical department of the Senckenberg Musuem; Dr. h.c. Durham 1963; student of the Devonian and the Central European mesozoic flora. 
+**Abbreviated name**: *Kräus.*
 
 #### Herbarium and types
 

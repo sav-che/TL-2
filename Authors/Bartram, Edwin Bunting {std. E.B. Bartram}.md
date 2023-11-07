@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/item/103414#page/179/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33120262) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartram, Edwin Bunting {std. E.B. Bartram} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bartram, Edwin Bunting (1878-1964), American bryologist. (*E. B. Bartram*).
+Bartram, Edwin Bunting (1878-1964), American bryologist. 
+**Abbreviated name**: *E. B. Bartram*
 
 #### Herbarium and types
 

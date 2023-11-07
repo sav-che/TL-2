@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103835#page/88/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33260066) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doûmet-Adanson, Paul-Napoléon (1834-1897), French botanist, born Guéret (Creuse) 1834, died Baleine (Manche) 31 Mai 1897, worked in the province of Constantine 1874, in 1884 in South Tunisia. (*Doûmet-Adanson*).
+Doûmet-Adanson, Paul-Napoléon (1834-1897), French botanist, born Guéret (Creuse) 1834, died Baleine (Manche) 31 Mai 1897, worked in the province of Constantine 1874, in 1884 in South Tunisia. 
+**Abbreviated name**: *Doûmet-Adanson*
 
 #### Herbarium and types
 

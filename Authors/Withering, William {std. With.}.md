@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103250#page/458/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33066738) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Withering, William (1741-1799), British physician, botanist and mineralogist; studied at the University of Edinburgh, M.D 1766; practicing physician at Stafford 1767-1775; idem at Birmingham 1775-1799. (*With.*).
+Withering, William (1741-1799), British physician, botanist and mineralogist; studied at the University of Edinburgh, M.D 1766; practicing physician at Stafford 1767-1775; idem at Birmingham 1775-1799. 
+**Abbreviated name**: *With.*
 
 #### Herbarium and types
 

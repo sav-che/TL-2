@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103624#page/86/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parmentier, Joseph Julien Ghislain (1755-1852), Belgian landscape gardener, botanist; maire and burgomaster of Enghien. (*J. Parm.*).
+Parmentier, Joseph Julien Ghislain (1755-1852), Belgian landscape gardener, botanist; maire and burgomaster of Enghien. 
+**Abbreviated name**: *J. Parm.*
 
 #### Herbarium and types
 

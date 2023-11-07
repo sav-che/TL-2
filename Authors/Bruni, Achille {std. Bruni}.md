@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103861#page/172/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33266469) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruni, Achille (1817-1881), Italian agriculturist, born at Barletta, director of the Orto agrario di Giovinazzo 1851 as well as the botanical garden at Avellino, professor of agriculture at the University of Napoli 1865-1868, professor of agronomy at the Provincial technical Istituto at Bari 1873-1875, from 1875 at Napoli. (*Bruni*).
+Bruni, Achille (1817-1881), Italian agriculturist, born at Barletta, director of the Orto agrario di Giovinazzo 1851 as well as the botanical garden at Avellino, professor of agriculture at the University of Napoli 1865-1868, professor of agronomy at the Provincial technical Istituto at Bari 1873-1875, from 1875 at Napoli. 
+**Abbreviated name**: *Bruni*
 
 #### Herbarium and types
 

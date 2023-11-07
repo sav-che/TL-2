@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/104077#page/204/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlayer, Philipp (*fl*. 1837), German (Württemberg) botanist; Dr. med. Tübingen 1837. (*Schlayer*).
+Schlayer, Philipp (*fl*. 1837), German (Württemberg) botanist; Dr. med. Tübingen 1837. 
+**Abbreviated name**: *Schlayer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/item/104137#page/555/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33355626) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moesz, Gusztáv (Gustav von) (1873-1946), Hungarian botanist; high school teacher at Brassó, from 1906 id. at Budapest and specializing mainly on mycology; from 1910 curator, later director of BP. (*Moesz*).
+Moesz, Gusztáv (Gustav von) (1873-1946), Hungarian botanist; high school teacher at Brassó, from 1906 id. at Budapest and specializing mainly on mycology; from 1910 curator, later director of BP. 
+**Abbreviated name**: *Moesz*
 
 #### Herbarium and types
 

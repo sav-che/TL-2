@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103683#page/305/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33212337) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thorold, Charles Aubrey (1906-x), British mycologist; MA Oxford (Trinity) 1934; mycologist with the Kenya Department of Agriculture from 1930, later stationed at Trinidad. (*Thorold*).
+Thorold, Charles Aubrey (1906-x), British mycologist; MA Oxford (Trinity) 1934; mycologist with the Kenya Department of Agriculture from 1930, later stationed at Trinidad. 
+**Abbreviated name**: *Thorold*
 
 #### Herbarium and types
 

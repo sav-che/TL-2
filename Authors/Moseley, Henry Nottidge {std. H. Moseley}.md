@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/item/104137#page/616/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33355687) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moseley, Henry Nottidge (1844-1890), British naturalist on the Challenger expedition 1873-1876; travelled in the American Northwest in 1877; ultimately Linacre professor of human and comparative anatomy at Oxford (1881-1887). (*H. Moseley*).
+Moseley, Henry Nottidge (1844-1890), British naturalist on the Challenger expedition 1873-1876; travelled in the American Northwest in 1877; ultimately Linacre professor of human and comparative anatomy at Oxford (1881-1887). 
+**Abbreviated name**: *H. Moseley*
 
 #### Herbarium and types
 

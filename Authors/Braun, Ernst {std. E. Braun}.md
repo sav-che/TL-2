@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103861#page/43/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33266340) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Braun, Ernst (fl. 1933), German (Schömberg, Württemberg) pharmacist, studied at the University of Basel, Dr. phil. ib. 1933 (*E. Braun*).
+Braun, Ernst (fl. 1933), German (Schömberg, Württemberg) pharmacist, studied at the University of Basel, Dr. phil. ib. 1933 
+**Abbreviated name**: *E. Braun*
 
 #### Note
 

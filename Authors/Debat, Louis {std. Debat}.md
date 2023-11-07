@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/item/103414#page/653/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33120736) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Debat, Louis {std. Debat} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Debat, Louis (1822-1906), French bryologist at Lyon, "chef de service au Crédit Lyonnais, " one of the founders of the *Société botanique de Lyon*. (*Debat*).
+Debat, Louis (1822-1906), French bryologist at Lyon, "chef de service au Crédit Lyonnais, " one of the founders of the *Société botanique de Lyon*. 
+**Abbreviated name**: *Debat*
 
 #### Herbarium and types
 

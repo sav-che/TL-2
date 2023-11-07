@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/item/103253#page/593/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33068809) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klinggräff, Hugo Erich Meyer von (1820-1902), German bryologist; brother of C. J. M. von Klinggräff; educated in Croatia (Zmrock, 1826-1842); on the family estate of Paleschken 1842-1846; Dr. phil. Königsberg 1846; in Croatia 1846-1848; from 1848 active in various parts of Prussia, mainly at Marienwerder. (*H. Klinggr.*).
+Klinggräff, Hugo Erich Meyer von (1820-1902), German bryologist; brother of C. J. M. von Klinggräff; educated in Croatia (Zmrock, 1826-1842); on the family estate of Paleschken 1842-1846; Dr. phil. Königsberg 1846; in Croatia 1846-1848; from 1848 active in various parts of Prussia, mainly at Marienwerder. 
+**Abbreviated name**: *H. Klinggr.*
 
 #### Herbarium and types
 

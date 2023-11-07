@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103624#page/117/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33189574) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Patraw, Pauline Mead (*fl*. 1936), American botanist (*Patraw*).
+Patraw, Pauline Mead (*fl*. 1936), American botanist 
+**Abbreviated name**: *Patraw*
 
 #### Herbarium and types
 

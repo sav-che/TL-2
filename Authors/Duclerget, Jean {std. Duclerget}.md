@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103835#page/151/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33260129) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duclerget, Jean (1891-x), French pharmacist and "ancien préparateur" at the Faculty of Pharmacy in Nancy, born at Bourmont (Haute-Marne) 1 Sep 1891, Ph.D. at the University of Nancy. (*Duclerget*).
+Duclerget, Jean (1891-x), French pharmacist and "ancien préparateur" at the Faculty of Pharmacy in Nancy, born at Bourmont (Haute-Marne) 1 Sep 1891, Ph.D. at the University of Nancy. 
+**Abbreviated name**: *Duclerget*
 
 #### Herbarium and types
 

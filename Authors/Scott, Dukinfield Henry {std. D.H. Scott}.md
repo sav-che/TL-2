@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/104077#page/471/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33333596) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scott, Dukinfield Henry (1854-1934), British palaeobotanist; BA Oxford 1876; Dr. phil. Würzburg 1881 (with J. Sachs); lecturer University College London 1882-1884; assistant professor of botany Royal College of Science, London 1885-1892; hon. keeper Jodrell Laboratory, Kew 1892-1906; in retirement at Oakley nr Basingstoke; FRS 1894; Royal medal 1906, Darwin medal 1926, gold medal Linnean Soc. 1928. (*D.H. Scott*).
+Scott, Dukinfield Henry (1854-1934), British palaeobotanist; BA Oxford 1876; Dr. phil. Würzburg 1881 (with J. Sachs); lecturer University College London 1882-1884; assistant professor of botany Royal College of Science, London 1885-1892; hon. keeper Jodrell Laboratory, Kew 1892-1906; in retirement at Oakley nr Basingstoke; FRS 1894; Royal medal 1906, Darwin medal 1926, gold medal Linnean Soc. 1928. 
+**Abbreviated name**: *D.H. Scott*
 
 #### Herbarium and types
 

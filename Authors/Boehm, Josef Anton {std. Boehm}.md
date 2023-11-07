@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103859#page/262/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33265449) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boehm, Josef Anton (1831-1893), Austrian botanist, born in Gross-Gerungs (Nied. Österr.), came to Vienna 1850, studied medicine and botany (with Fenzl and Unger), Dr. phil. 1856, habil. Univ. Wien 1857 for "demonstrative Botanik", sometime private teacher as medical doctor, teacher at the "Wiener Handelsakademie" 1858-1862, id. at the University of Vienna 1862-1874, extraord. professor of botany from 1874, professor at the k.k. Forstakademie Mariabrunn which moved 1875 to Vienna. (*Boehm*).
+Boehm, Josef Anton (1831-1893), Austrian botanist, born in Gross-Gerungs (Nied. Österr.), came to Vienna 1850, studied medicine and botany (with Fenzl and Unger), Dr. phil. 1856, habil. Univ. Wien 1857 for "demonstrative Botanik", sometime private teacher as medical doctor, teacher at the "Wiener Handelsakademie" 1858-1862, id. at the University of Vienna 1862-1874, extraord. professor of botany from 1874, professor at the k.k. Forstakademie Mariabrunn which moved 1875 to Vienna. 
+**Abbreviated name**: *Boehm*
 
 #### Herbarium and types
 

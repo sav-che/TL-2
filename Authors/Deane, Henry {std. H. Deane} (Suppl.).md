@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103833#page/133/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33259167) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deane, Henry {std. H. Deane}|first entry]] for this author
 
 ### Author
 
-\* Deane, Henry (1847-1924), British botanist, born at Clapham, London, degree of M.A. at Queen's University, Galway, B.A. 1865, engineer on the Metropolitan and Metropolitan Districts Railway, London, on the East Hungarian railways Transsylvania, moved to Australia 1879 appointed surveyor in the Railway Construction Branch N.S.W., appt. Engineer-in-Chief 1890, retired from the State Government 1906, from 1906 with the Commonwealth Oil Corporation, engineer-in-chief to the Commonwealth railways 1912-1914, interested in botany and palaeobotany. (*H. Deane*).
+\* Deane, Henry (1847-1924), British botanist, born at Clapham, London, degree of M.A. at Queen's University, Galway, B.A. 1865, engineer on the Metropolitan and Metropolitan Districts Railway, London, on the East Hungarian railways Transsylvania, moved to Australia 1879 appointed surveyor in the Railway Construction Branch N.S.W., appt. Engineer-in-Chief 1890, retired from the State Government 1906, from 1906 with the Commonwealth Oil Corporation, engineer-in-chief to the Commonwealth railways 1912-1914, interested in botany and palaeobotany. 
+**Abbreviated name**: *H. Deane*
 
 #### Herbarium and types
 

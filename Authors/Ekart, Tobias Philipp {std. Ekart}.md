@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/103414#page/787/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33120870) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ekart, Tobias Philipp (1799-1877), German cryptogamist. (*Ekart*).
+Ekart, Tobias Philipp (1799-1877), German cryptogamist. 
+**Abbreviated name**: *Ekart*
 
 #### Herbarium and types
 

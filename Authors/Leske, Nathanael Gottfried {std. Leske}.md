@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/item/103253#page/874/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33069090) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leske, Nathanael Gottfried (1751-1786), German botanist, professor of agricultural economy at Leipzig (1775), ultimately at Marburg (1786). (*Leske*).
+Leske, Nathanael Gottfried (1751-1786), German botanist, professor of agricultural economy at Leipzig (1775), ultimately at Marburg (1786). 
+**Abbreviated name**: *Leske*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/item/104077#page/836/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33333961) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Staby, Ludwig \[Hermann Friedrich Wilhelm\] (1861-?), German (Westphalian/Prussian) botanist; studied natural sciences in Jena, 1881-1883, and Berlin 1883-1885; student of Schwendener. (*Staby*).
+Staby, Ludwig \[Hermann Friedrich Wilhelm\] (1861-?), German (Westphalian/Prussian) botanist; studied natural sciences in Jena, 1881-1883, and Berlin 1883-1885; student of Schwendener. 
+**Abbreviated name**: *Staby*
 
 #### Herbarium and types
 

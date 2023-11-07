@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/item/103253#page/807/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leclercq, Suzanne Céline Marie (1901-x), Belgian palaeobotanist, specialized in palaeozoic botany and palynology. (*Leclercq*).
+Leclercq, Suzanne Céline Marie (1901-x), Belgian palaeobotanist, specialized in palaeozoic botany and palynology. 
+**Abbreviated name**: *Leclercq*
 
 #### Herbarium and types
 

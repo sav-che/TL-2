@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/item/104137#page/676/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33355747) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Munro, Sir William (1818-1880), British botanist in the Indian colonial army; collected in Barbados (1870-1875), Crimea and India (*Munro*).
+Munro, Sir William (1818-1880), British botanist in the Indian colonial army; collected in Barbados (1870-1875), Crimea and India 
+**Abbreviated name**: *Munro*
 
 #### Herbarium and types
 

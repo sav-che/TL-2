@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/item/103253#page/888/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33069104) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leunis, Johannis (1802-1873), German clergyman and botanist; ordained Paderborn 1826; teacher at the Hildesheim Josephinum 1824-1873; Dr. phil. h.c. Göttingen 1855. (*Leunis*).
+Leunis, Johannis (1802-1873), German clergyman and botanist; ordained Paderborn 1826; teacher at the Hildesheim Josephinum 1824-1873; Dr. phil. h.c. Göttingen 1855. 
+**Abbreviated name**: *Leunis*
 
 #### Herbarium and types
 

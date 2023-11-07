@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103859#page/104/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33265291) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergman, Ernest (1851-1902), French horticulturist, born at Neuilly-sur-Marne, studied at the Lycée Louis-le-Grand, Paris, from 1878 at the Château de Ferrières, from 1878 active member of the Société d'Horticulture, secretary of the Société 1885-1902, organizer of the Paris International Horticultural Congress of 1885 and further annual congresses until 1902 and involved with the Exposition universelle of 1900. (*E. Bergman*).
+Bergman, Ernest (1851-1902), French horticulturist, born at Neuilly-sur-Marne, studied at the Lycée Louis-le-Grand, Paris, from 1878 at the Château de Ferrières, from 1878 active member of the Société d'Horticulture, secretary of the Société 1885-1902, organizer of the Paris International Horticultural Congress of 1885 and further annual congresses until 1902 and involved with the Exposition universelle of 1900. 
+**Abbreviated name**: *E. Bergman*
 
 #### Herbarium and types
 

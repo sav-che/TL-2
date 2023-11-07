@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/103253#page/764/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lambotte, Jean Baptiste Émile (1832-1905), Belgian physician and mycologist; teacher at the state teachers college of Verviers. (*Lambotte*).
+Lambotte, Jean Baptiste Émile (1832-1905), Belgian physician and mycologist; teacher at the state teachers college of Verviers. 
+**Abbreviated name**: *Lambotte*
 
 #### Herbarium and types
 

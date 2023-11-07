@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/104137#page/179/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33355250) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lorinser, Gustav (1811-1863), Bohemian physician and botanist; Dr. med. Praha 1838; practicing physician at Mimon (Niemes) 1838-1850; high school teacher at Eg(g)er 1850-1852, at Bratislava 1852-1863. (*G. Lorinser*).
+Lorinser, Gustav (1811-1863), Bohemian physician and botanist; Dr. med. Praha 1838; practicing physician at Mimon (Niemes) 1838-1850; high school teacher at Eg(g)er 1850-1852, at Bratislava 1852-1863. 
+**Abbreviated name**: *G. Lorinser*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103250#page/118/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33066398) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wann, Frank Burkett (1892-1954), American botanist; A.B. Wabash Col. 1914; Dr. phil. Cornell 1920; teaching fellow Shaw School Bot. 1914-1915; instructor in botany Cornell 1915-1923, nat. research fellow in biology 1923-1926; associate professor of botany, Utah State Agr. Coll., Logan, Utah 1926-1946; professor of botany and (from 1952) head of the Department of botany and plant pathology 1946-1954. (*Wann*).
+Wann, Frank Burkett (1892-1954), American botanist; A.B. Wabash Col. 1914; Dr. phil. Cornell 1920; teaching fellow Shaw School Bot. 1914-1915; instructor in botany Cornell 1915-1923, nat. research fellow in biology 1923-1926; associate professor of botany, Utah State Agr. Coll., Logan, Utah 1926-1946; professor of botany and (from 1952) head of the Department of botany and plant pathology 1946-1954. 
+**Abbreviated name**: *Wann*
 
 #### Herbarium and types
 

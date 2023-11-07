@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103253#page/190/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hentig, H. (*fl*. 1881), German botanist. (*Hentig*).
+Hentig, H. (*fl*. 1881), German botanist. 
+**Abbreviated name**: *Hentig*
 
 #### Herbarium and types
 

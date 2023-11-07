@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/item/103253#page/872/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leonhardi, Peter Carl Pius Gustav Hermann, Freiherr von \[Hermann von L.\] (1809-1875), German botanist and philosopher; at München 1831-1849; from 1849 professor of philosophy at Praha University. (*Leonhardi*).
+Leonhardi, Peter Carl Pius Gustav Hermann, Freiherr von \[Hermann von L.\] (1809-1875), German botanist and philosopher; at München 1831-1849; from 1849 professor of philosophy at Praha University. 
+**Abbreviated name**: *Leonhardi*
 
 #### Herbarium and types
 

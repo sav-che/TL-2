@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/104137#page/789/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Norrlin, Johan Petter \[Peter\] (1842-1917), Finnish botanist; Dr. phil. Helsinki 1879, lecturer (1871) and professor (1879) of botany at Helsinki University until 1903; in Algeria 1877-1878; taxonomist (*Hieracium*; lichens) and phytogeographer ("father of Finnish phytogeography"). (*Norrl.*).
+Norrlin, Johan Petter \[Peter\] (1842-1917), Finnish botanist; Dr. phil. Helsinki 1879, lecturer (1871) and professor (1879) of botany at Helsinki University until 1903; in Algeria 1877-1878; taxonomist (*Hieracium*; lichens) and phytogeographer ("father of Finnish phytogeography"). 
+**Abbreviated name**: *Norrl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/item/103414#page/1072/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33121155) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gunnerns, Johan Ernst (1718-1773), Norwegian botanist and clergyman. (*Gunn.*).
+Gunnerns, Johan Ernst (1718-1773), Norwegian botanist and clergyman. 
+**Abbreviated name**: *Gunn.*
 
 #### Herbarium and types
 

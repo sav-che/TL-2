@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103683#page/265/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Therry, Jean Joseph \[né Terri\] (1833-1888), French merchant and banker, self-taught botanist at Lyon; one of the founders of the Société botanique de Lyon. (*Therry*).
+Therry, Jean Joseph \[né Terri\] (1833-1888), French merchant and banker, self-taught botanist at Lyon; one of the founders of the Société botanique de Lyon. 
+**Abbreviated name**: *Therry*
 
 #### Herbarium and types
 

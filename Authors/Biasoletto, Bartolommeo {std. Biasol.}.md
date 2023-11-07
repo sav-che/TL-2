@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103414#page/259/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33120342) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Biasoletto, Bartolomeo (Amadeo) {std. Biasol.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Biasoletto, Bartolommeo (1793-1858), Italian apothecary and botanist at Triest. (*Biasol.*).
+Biasoletto, Bartolommeo (1793-1858), Italian apothecary and botanist at Triest. 
+**Abbreviated name**: *Biasol.*
 
 #### Herbarium and types
 

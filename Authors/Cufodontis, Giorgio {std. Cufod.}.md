@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/item/103860#page/503/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33266170) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cufodontis, Giorgio (1896-1974), Austrian botanist, born at Trieste, his father was "cultura greca", his mother Italian, studied at the University of Vienna 1915 and 1921, "Privatgelehrter" Dr. phil. Vienna 21 Dec 1921, from 1927 with the Naturhistorisches Museum, Vienna, collected in Costa Rica 1930, from 1949 also at the Institute of Botany of the University of Vienna, professor of botany at the University 1954. (*Cufod.*).
+Cufodontis, Giorgio (1896-1974), Austrian botanist, born at Trieste, his father was "cultura greca", his mother Italian, studied at the University of Vienna 1915 and 1921, "Privatgelehrter" Dr. phil. Vienna 21 Dec 1921, from 1927 with the Naturhistorisches Museum, Vienna, collected in Costa Rica 1930, from 1949 also at the Institute of Botany of the University of Vienna, professor of botany at the University 1954. 
+**Abbreviated name**: *Cufod.*
 
 #### Herbarium and types
 

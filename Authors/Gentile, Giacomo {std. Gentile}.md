@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103832#page/192/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33258658) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gentile, Giacomo (1835-1906), Italian botanist and pharmacist, born 22 Jul 1835 in Genoa (Kingdom of Sardenia), prof. of natural history, Technical Inst. in Porto Maurizio, died 12 Apr 1906 in Porto Maurizio. (*Gentile*).
+Gentile, Giacomo (1835-1906), Italian botanist and pharmacist, born 22 Jul 1835 in Genoa (Kingdom of Sardenia), prof. of natural history, Technical Inst. in Porto Maurizio, died 12 Apr 1906 in Porto Maurizio. 
+**Abbreviated name**: *Gentile*
 
 #### Herbarium and types
 

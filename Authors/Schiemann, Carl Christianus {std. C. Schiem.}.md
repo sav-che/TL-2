@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/104077#page/161/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33333286) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schiemann, Carl Christianus (1763-1835), German (Kurland) physician; studied medicine at Göttingen 1782-1786; Dr. med. ib. 1786; travelled in Holland and England 1786-1787; practicing physician in Mitau (Kurland) from 1787. (*C. Schiem.*).
+Schiemann, Carl Christianus (1763-1835), German (Kurland) physician; studied medicine at Göttingen 1782-1786; Dr. med. ib. 1786; travelled in Holland and England 1786-1787; practicing physician in Mitau (Kurland) from 1787. 
+**Abbreviated name**: *C. Schiem.*
 
 #### Herbarium and types
 

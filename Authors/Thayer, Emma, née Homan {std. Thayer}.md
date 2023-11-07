@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103683#page/246/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thayer, Emma, née Homan (1842-1908), American artist, educated at Rutgers University and the National Academy of Design; in Colorado from 1882; married George A. Graves 1860 (d. 1864), Elmer A. Thayer 1877. (*Thayer*).
+Thayer, Emma, née Homan (1842-1908), American artist, educated at Rutgers University and the National Academy of Design; in Colorado from 1882; married George A. Graves 1860 (d. 1864), Elmer A. Thayer 1877. 
+**Abbreviated name**: *Thayer*
 
 #### Herbarium and types
 

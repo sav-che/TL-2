@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/item/103624#page/873/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33190330) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rogers, Richard Sanders (1862-1942), Australian physician and botanist (orchidologist) at Adelaide; B.S. Univ. Adelaide 1883; Master of Surgery Edinburgh 1891; practicing physician at Adelaide from 1891; D.Sc. h.c. Adelaide 1936. (*R.S. Rogers*).
+Rogers, Richard Sanders (1862-1942), Australian physician and botanist (orchidologist) at Adelaide; B.S. Univ. Adelaide 1883; Master of Surgery Edinburgh 1891; practicing physician at Adelaide from 1891; D.Sc. h.c. Adelaide 1936. 
+**Abbreviated name**: *R.S. Rogers*
 
 #### Herbarium and types
 

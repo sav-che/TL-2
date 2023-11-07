@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/103250#page/281/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33066561) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wettstein von Westersheim, Richard (1863-1931), Austrian botanist; studied at Vienna University with J. von Wiesner and A. Kerner 1881-1884; Dr. phil. ib. 1884; assistant with Kerner 1884-1888; "Habilitation" and private lecturer at the university 1886; "Adjunkt" (head assistant) 1888-1892; professor of botany and curator of the botanical garden of the German University Prague, succeeding M. Willkomm 1892-1899; id. Vienna University, succeeding Kerner 1899-1931; "Hofrat" 1911; travelled in Brazil 1901, United States 1926, in South-West Africa, South Africa, Moçambique and East Africa 1929-1930; with J. von Wiesner co-president International Botanical Congress Vienna, 1905. (*Wettst.*).
+Wettstein von Westersheim, Richard (1863-1931), Austrian botanist; studied at Vienna University with J. von Wiesner and A. Kerner 1881-1884; Dr. phil. ib. 1884; assistant with Kerner 1884-1888; "Habilitation" and private lecturer at the university 1886; "Adjunkt" (head assistant) 1888-1892; professor of botany and curator of the botanical garden of the German University Prague, succeeding M. Willkomm 1892-1899; id. Vienna University, succeeding Kerner 1899-1931; "Hofrat" 1911; travelled in Brazil 1901, United States 1926, in South-West Africa, South Africa, Moçambique and East Africa 1929-1930; with J. von Wiesner co-president International Botanical Congress Vienna, 1905. 
+**Abbreviated name**: *Wettst.*
 
 #### Herbarium and types
 

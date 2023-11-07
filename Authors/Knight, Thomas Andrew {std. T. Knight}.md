@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/item/103253#page/603/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33068819) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knight, Thomas Andrew (1759-1839), British horticulturist; president of the \[Royal\] Horticultural Society 1811-1838. (*T. Knight*).
+Knight, Thomas Andrew (1759-1839), British horticulturist; president of the \[Royal\] Horticultural Society 1811-1838. 
+**Abbreviated name**: *T. Knight*
 
 #### Herbarium and types
 

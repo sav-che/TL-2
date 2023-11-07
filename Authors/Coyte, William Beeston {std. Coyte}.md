@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/item/103860#page/449/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33266116) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coyte, William Beeston (1741-1810), British physician, clergyman and botanist, studied at the University of Cambridge, MA Cantab. 1763, practised medicine at Ipswich. (*Coyte*).
+Coyte, William Beeston (1741-1810), British physician, clergyman and botanist, studied at the University of Cambridge, MA Cantab. 1763, practised medicine at Ipswich. 
+**Abbreviated name**: *Coyte*
 
 #### Herbarium and types
 

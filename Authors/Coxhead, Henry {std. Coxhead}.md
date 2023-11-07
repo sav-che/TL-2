@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/item/103860#page/448/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33266115) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coxhead, Henry (fl. 1842), British botanist. (*Coxhead*).
+Coxhead, Henry (fl. 1842), British botanist. 
+**Abbreviated name**: *Coxhead*
 
 #### Herbarium and types
 

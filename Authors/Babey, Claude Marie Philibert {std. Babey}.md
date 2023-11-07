@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103414#page/131/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33120214) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Babey, Claude Marie Philibert {std. Babey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Babey, Claude Marie Philibert (1786-1848), French botanist. (*Babey*).
+Babey, Claude Marie Philibert (1786-1848), French botanist. 
+**Abbreviated name**: *Babey*
 
 #### Herbarium and types
 

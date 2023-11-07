@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1072](https://www.biodiversitylibrary.org/item/103624#page/1086/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1072](https://www.biodiversitylibrary.org/page/33190543) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-St. John, Harold (1892-x), American botanist; Dr. phil. Harvard 1920; assistant, later associate professor of botany at the State College of Washington 1920-1929; professor of botany at the University of Hawaii 1929-1958; Whitney visiting professor at Chatham College, Pittsburgh, Pa. 1958-1959; teaching at Saigon 1959-1960; continuing botanical research in retirement in Hawaii. (*St. John*).
+St. John, Harold (1892-x), American botanist; Dr. phil. Harvard 1920; assistant, later associate professor of botany at the State College of Washington 1920-1929; professor of botany at the University of Hawaii 1929-1958; Whitney visiting professor at Chatham College, Pittsburgh, Pa. 1958-1959; teaching at Saigon 1959-1960; continuing botanical research in retirement in Hawaii. 
+**Abbreviated name**: *St. John*
 
 #### Herbarium and types
 

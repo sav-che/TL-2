@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103253#page/200/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33068416) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herpell, Gustav Jacob (1828-1912), German cryptogamist from the Rhine valley near St. Goar. (*Herp.*).
+Herpell, Gustav Jacob (1828-1912), German cryptogamist from the Rhine valley near St. Goar. 
+**Abbreviated name**: *Herp.*
 
 #### Herbarium and types
 

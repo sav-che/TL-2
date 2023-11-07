@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103861#page/301/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33266598) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caballero y Segarés, Arturo (1877-1950), Spanish botanist, born in Cenicero, educated at the Colegio de Santo Tomás at Logroño, studied at the Faculty of Sciences of the University of Madrid, Lic. 1898 (botany), with the Herbarium of the Jardin Botánico Madrid from 1905, Dr. 1911 at Madrid University, dedicating himself to the flora of Spain. (*Caball.*).
+Caballero y Segarés, Arturo (1877-1950), Spanish botanist, born in Cenicero, educated at the Colegio de Santo Tomás at Logroño, studied at the Faculty of Sciences of the University of Madrid, Lic. 1898 (botany), with the Herbarium of the Jardin Botánico Madrid from 1905, Dr. 1911 at Madrid University, dedicating himself to the flora of Spain. 
+**Abbreviated name**: *Caball.*
 
 #### Herbarium and types
 

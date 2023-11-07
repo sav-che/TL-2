@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103860#page/166/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Christ, Karl (fl. 1887), German botanist from Langenschwalbach, at the University of Marburg, Dr. phil. 1887. (*K. Christ*).
+Christ, Karl (fl. 1887), German botanist from Langenschwalbach, at the University of Marburg, Dr. phil. 1887. 
+**Abbreviated name**: *K. Christ*
 
 #### Herbarium and types
 

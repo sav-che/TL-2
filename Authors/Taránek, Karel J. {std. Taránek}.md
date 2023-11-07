@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103683#page/175/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33212207) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taránek, Karel J. (1855-1888), Bohemian high school steacher and diatomologist; Dr. phil. Praha 1883. (*Taránek*).
+Taránek, Karel J. (1855-1888), Bohemian high school steacher and diatomologist; Dr. phil. Praha 1883. 
+**Abbreviated name**: *Taránek*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/item/103253#page/856/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33069072) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lejeune, Alexandre Louis Simon (1779-1858), Belgian physician and botanist; health officer in the French army 1801-1804, from then on physician at Verviers; Dr. med. Liège 1820. (*Lej.*).
+Lejeune, Alexandre Louis Simon (1779-1858), Belgian physician and botanist; health officer in the French army 1801-1804, from then on physician at Verviers; Dr. med. Liège 1820. 
+**Abbreviated name**: *Lej.*
 
 #### Herbarium and types
 

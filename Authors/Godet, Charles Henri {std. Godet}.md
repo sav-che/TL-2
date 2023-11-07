@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 959](https://www.biodiversitylibrary.org/item/103414#page/1007/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 959](https://www.biodiversitylibrary.org/page/33121090) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Godet, Charles Henri {std. Godet} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Godet, Charles Henri (1797-1879). Swiss botanist at Neuchâtel. (*Godet*).
+Godet, Charles Henri (1797-1879). Swiss botanist at Neuchâtel. 
+**Abbreviated name**: *Godet*
 
 #### Herbarium and types
 

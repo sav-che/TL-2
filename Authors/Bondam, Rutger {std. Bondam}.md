@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103414#page/318/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33120401) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bondam, Rutger {std. Bondam} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bondam, Rutger (1817-1896), Dutch botanist at Kampen. (*Bondam*).
+Bondam, Rutger (1817-1896), Dutch botanist at Kampen. 
+**Abbreviated name**: *Bondam*
 
 #### Herbarium and types
 

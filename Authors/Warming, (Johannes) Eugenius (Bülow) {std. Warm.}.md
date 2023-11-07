@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103250#page/131/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warming, \[Johannes\] Eugenius \[Bülow\] (1841-1924), Danish botanist (taxonomist, morphologist, ecological plant geographer); studied natural sciences; secretary with P.W. Lund in Lagoa Santa, Brazil 1863-1866; Mag. Bot. 1869; Dr. Phil. Copenhagen 1871; studied in München and Bonn; lecturer in botany at Copenhagen University 1874-1882; professor of botany at Stockholm Högskola 1882; on expeditions to Greenland, 1884, and Lapmark (Norway) 1885; professor of botany and director of the botanical garden at Copenhagen 1885-1911. (*Warm.*).
+Warming, \[Johannes\] Eugenius \[Bülow\] (1841-1924), Danish botanist (taxonomist, morphologist, ecological plant geographer); studied natural sciences; secretary with P.W. Lund in Lagoa Santa, Brazil 1863-1866; Mag. Bot. 1869; Dr. Phil. Copenhagen 1871; studied in München and Bonn; lecturer in botany at Copenhagen University 1874-1882; professor of botany at Stockholm Högskola 1882; on expeditions to Greenland, 1884, and Lapmark (Norway) 1885; professor of botany and director of the botanical garden at Copenhagen 1885-1911. 
+**Abbreviated name**: *Warm.*
 
 #### Herbarium and types
 

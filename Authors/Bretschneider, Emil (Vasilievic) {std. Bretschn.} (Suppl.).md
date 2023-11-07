@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103861#page/80/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33266377) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bretschneider, Emil (Vasilievic) {std. Bretschn.}|first entry]] for this author
 
 ### Author
 
-\* Bretschneider, Emil \[Vasilievic\] (1833-1901), Latvian sinologist and botanist, born in Riga, studied medicine, physician to the Russian Embassy at Teheran 1862-1865, id. at Peking 1865-1884. (*Bretschn.*).
+\* Bretschneider, Emil \[Vasilievic\] (1833-1901), Latvian sinologist and botanist, born in Riga, studied medicine, physician to the Russian Embassy at Teheran 1862-1865, id. at Peking 1865-1884. 
+**Abbreviated name**: *Bretschn.*
 
 #### Herbarium and types
 

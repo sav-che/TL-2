@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103683#page/219/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33212251) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teng, Shu-ch'ün (1902-x), Chinese mycologist at the Institute of applied mycology, Peking, China. (*S. Teng*).
+Teng, Shu-ch'ün (1902-x), Chinese mycologist at the Institute of applied mycology, Peking, China. 
+**Abbreviated name**: *S. Teng*
 
 #### Herbarium and types
 

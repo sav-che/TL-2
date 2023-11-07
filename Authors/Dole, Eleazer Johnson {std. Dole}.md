@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103835#page/41/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33260019) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dole, Eleazer Johnson (1888-x), American botanist, born 4 Jul 1888, professor of botany at the University of Vermont, assistant for botany Vermont Agric. Exper. Station, Burlington, editor of a committee of the Vermont Botanical Club, Burlington, Vt., Dr. phil. Univ. Vermont in 1923. (*Dole*).
+Dole, Eleazer Johnson (1888-x), American botanist, born 4 Jul 1888, professor of botany at the University of Vermont, assistant for botany Vermont Agric. Exper. Station, Burlington, editor of a committee of the Vermont Botanical Club, Burlington, Vt., Dr. phil. Univ. Vermont in 1923. 
+**Abbreviated name**: *Dole*
 
 #### Herbarium and types
 

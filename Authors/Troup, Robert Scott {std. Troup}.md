@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/item/103683#page/520/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33212552) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Troup, Robert Scott (1874-1939), British silviculturist and botanist; B.Sci. Aberdeen; at Cooper's Hill College as probationer for the Indian Forest service 1894; with the Forest Department Burma 1897; forest economist at the Forest Research Institute, Dehra Dun 1905; assistant inspector general of forests 1917-1919; controller of timber supplies 1917-1918; professor of forestry at Oxford 1920-1939. (*Troup*).
+Troup, Robert Scott (1874-1939), British silviculturist and botanist; B.Sci. Aberdeen; at Cooper's Hill College as probationer for the Indian Forest service 1894; with the Forest Department Burma 1897; forest economist at the Forest Research Institute, Dehra Dun 1905; assistant inspector general of forests 1917-1919; controller of timber supplies 1917-1918; professor of forestry at Oxford 1920-1939. 
+**Abbreviated name**: *Troup*
 
 #### Herbarium and types
 

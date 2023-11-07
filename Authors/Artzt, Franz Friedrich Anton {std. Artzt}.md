@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103858#page/192/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33264907) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Artzt, Franz Friedrich Anton (1844-1922), German (Sachsen) botanist and engineer (Königlicher sächsischer Vermessungsingenieur, Plauen i.V.). (*Artzt*).
+Artzt, Franz Friedrich Anton (1844-1922), German (Sachsen) botanist and engineer (Königlicher sächsischer Vermessungsingenieur, Plauen i.V.). 
+**Abbreviated name**: *Artzt*
 
 #### Herbarium and types
 

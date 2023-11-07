@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103832#page/467/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33258933) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guilliermond, \[Marie Antoine\] Alexandre (1876-1945), French mycologist (specializing in yeasts) and cytologist, born 19 Aug 1876 in Lyon, doctorate 1902 Lyon, Faculty of Sciences, Lyon, then from 1921 in Paris where he became prof., Faculty of Sciences at the Sorbonne, Académie des Sciences 1935, president, Société Botanique de France, died 1 Apr 1945 in Lyon. (*Guillierm.*).
+Guilliermond, \[Marie Antoine\] Alexandre (1876-1945), French mycologist (specializing in yeasts) and cytologist, born 19 Aug 1876 in Lyon, doctorate 1902 Lyon, Faculty of Sciences, Lyon, then from 1921 in Paris where he became prof., Faculty of Sciences at the Sorbonne, Académie des Sciences 1935, president, Société Botanique de France, died 1 Apr 1945 in Lyon. 
+**Abbreviated name**: *Guillierm.*
 
 #### Herbarium and types
 

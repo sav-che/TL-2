@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103835#page/235/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33260213) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duyster, Marinus (1886-x), Dutch pharmacist, born at Leiden 24 Oct 1886, visited secondary school at Leiden and studied pharmacy at Leiden University, Dr. sci. nat. in 1923, dipl. pharmacist 1911, military pharmacist serving in Dutch East Indies from 1913-1934, retired in 1934 as colonel, specialist in toxicology. (*Duyster*).
+Duyster, Marinus (1886-x), Dutch pharmacist, born at Leiden 24 Oct 1886, visited secondary school at Leiden and studied pharmacy at Leiden University, Dr. sci. nat. in 1923, dipl. pharmacist 1911, military pharmacist serving in Dutch East Indies from 1913-1934, retired in 1934 as colonel, specialist in toxicology. 
+**Abbreviated name**: *Duyster*
 
 #### Herbarium and types
 

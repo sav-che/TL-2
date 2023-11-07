@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/item/103624#page/824/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robert, Gaspard Nicolas (1776-1857), French botanist, gardener and pharmacist; "jardinier"-botaniste du port de Toulon" 1794; Dr. pharm. Paris 1801; pharmacist and botanist and director of the botanical garden "du port de Toulon" 1801-1847; reafforested the "Faron" region nr. Toulon. (*G.N. Robert*).
+Robert, Gaspard Nicolas (1776-1857), French botanist, gardener and pharmacist; "jardinier"-botaniste du port de Toulon" 1794; Dr. pharm. Paris 1801; pharmacist and botanist and director of the botanical garden "du port de Toulon" 1801-1847; reafforested the "Faron" region nr. Toulon. 
+**Abbreviated name**: *G.N. Robert*
 
 #### Herbarium and types
 

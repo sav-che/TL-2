@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103858#page/243/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33264958) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bachinger, Augustin (fl. 1887-1904), Austrian highschool teacher and botanist, some time (ca. 1887-1904) teacher at the Landes-Real- und Obergymnasium Horn (Nieder-Österreich). (*Bachinger*).
+Bachinger, Augustin (fl. 1887-1904), Austrian highschool teacher and botanist, some time (ca. 1887-1904) teacher at the Landes-Real- und Obergymnasium Horn (Nieder-Österreich). 
+**Abbreviated name**: *Bachinger*
 
 #### Herbarium and types
 

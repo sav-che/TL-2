@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/item/103624#page/835/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33190292) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roche, François de la (1782-1814), Paris-born Swiss botanist; son of D. de la Roche; collaborator of A.P. de Candolle and P. J. Redouté; practicing physician at Paris. (*F. Roche*).
+Roche, François de la (1782-1814), Paris-born Swiss botanist; son of D. de la Roche; collaborator of A.P. de Candolle and P. J. Redouté; practicing physician at Paris. 
+**Abbreviated name**: *F. Roche*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103834#page/282/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33259764) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Floderus, Björn Gustaf Oscar (1867-1941), Swedish physician esp. interested in the genus *Salix*, born 14 Aug 1867 in Uppsala, studied medicine at the Univ. of Uppsala from 1885, med. cand. 1889, docent in surgery at Uppsala 1897, Dr. med. 1898 in Stockholm where he resided from 1899 and where he died on 12 Mai 1941. (*Flod.*).
+Floderus, Björn Gustaf Oscar (1867-1941), Swedish physician esp. interested in the genus *Salix*, born 14 Aug 1867 in Uppsala, studied medicine at the Univ. of Uppsala from 1885, med. cand. 1889, docent in surgery at Uppsala 1897, Dr. med. 1898 in Stockholm where he resided from 1899 and where he died on 12 Mai 1941. 
+**Abbreviated name**: *Flod.*
 
 #### Note
 

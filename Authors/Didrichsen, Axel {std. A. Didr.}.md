@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103833#page/303/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Didrichsen, Axel (fl. 1894-1905), Danish botanist, born at Copenhagen, mag. sc. bot. 1895, assistant at the "Statsanstalten Dansk Frøkontrol" from Nov 1904. (*A. Didr.*).
+Didrichsen, Axel (fl. 1894-1905), Danish botanist, born at Copenhagen, mag. sc. bot. 1895, assistant at the "Statsanstalten Dansk Frøkontrol" from Nov 1904. 
+**Abbreviated name**: *A. Didr.*
 
 #### Herbarium and types
 

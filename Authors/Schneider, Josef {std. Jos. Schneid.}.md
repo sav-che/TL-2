@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/104077#page/289/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33333414) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, Josef (x-1885), Austrian botanist; assistant at the botanical museum and garden of the University of Wien. (*Jos. Schneid.*).
+Schneider, Josef (x-1885), Austrian botanist; assistant at the botanical museum and garden of the University of Wien. 
+**Abbreviated name**: *Jos. Schneid.*
 
 #### Herbarium and types
 

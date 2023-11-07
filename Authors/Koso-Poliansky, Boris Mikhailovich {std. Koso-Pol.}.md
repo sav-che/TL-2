@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/item/103253#page/678/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33068894) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koso-Poliansky, Boris Mikhailovich (1890-1957), Russian botanist. (*Koso-Pol.*).
+Koso-Poliansky, Boris Mikhailovich (1890-1957), Russian botanist. 
+**Abbreviated name**: *Koso-Pol.*
 
 #### Herbarium and types
 

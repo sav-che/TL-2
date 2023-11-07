@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103859#page/281/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265468) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bötticher, Friedrich Robert Wilhelm \["Willy"\] (1869-?), German pharmacist, born at Spremberg in Limburg as son of a pharmacist, educated at the Königliche Gymnasium in Dresden-Neustadt 1879-1886, pharmaceutical primary education 1886-1892, studied at the University of Erlangen 1892-1894, Dr. phil. Friedrich-Alexanders-Universität Erlangen 1895. (*Bötticher*).
+Bötticher, Friedrich Robert Wilhelm \["Willy"\] (1869-?), German pharmacist, born at Spremberg in Limburg as son of a pharmacist, educated at the Königliche Gymnasium in Dresden-Neustadt 1879-1886, pharmaceutical primary education 1886-1892, studied at the University of Erlangen 1892-1894, Dr. phil. Friedrich-Alexanders-Universität Erlangen 1895. 
+**Abbreviated name**: *Bötticher*
 
 #### Herbarium and types
 

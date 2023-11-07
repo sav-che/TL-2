@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/103858#page/334/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265049) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bárcena, Mariano \[de la\] (1842-1899), Mexican botanist, plant collector, studied at the escuela especial de ingenieros de México, later professor of paleontologica y geologia Museo Nacional, México, and Director of the Observatorio meteorólogico central, México. (*Bárcena*).
+Bárcena, Mariano \[de la\] (1842-1899), Mexican botanist, plant collector, studied at the escuela especial de ingenieros de México, later professor of paleontologica y geologia Museo Nacional, México, and Director of the Observatorio meteorólogico central, México. 
+**Abbreviated name**: *Bárcena*
 
 #### Herbarium and types
 

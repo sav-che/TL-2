@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/103624#page/867/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33190324) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rösler, Carl August (1770-1858), German (Württemberg) botanist and "Hüttenamts-Buchhalter" in Ludwigsthal (iron-works administrator). (*Rösler*).
+Rösler, Carl August (1770-1858), German (Württemberg) botanist and "Hüttenamts-Buchhalter" in Ludwigsthal (iron-works administrator). 
+**Abbreviated name**: *Rösler*
 
 #### Herbarium and types
 

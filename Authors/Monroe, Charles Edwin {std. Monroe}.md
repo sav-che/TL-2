@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/104137#page/573/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33355644) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Monroe, Charles Edwin (1857-1931), American botanist, LL.B. Univ. Mich. 1880; lawyer at Elyria (1880-1881), Washington, D.C. 1881-1884 and Madison, Wisconsin 1884-1930; at Oberlin 1930-1931. (*Monroe*).
+Monroe, Charles Edwin (1857-1931), American botanist, LL.B. Univ. Mich. 1880; lawyer at Elyria (1880-1881), Washington, D.C. 1881-1884 and Madison, Wisconsin 1884-1930; at Oberlin 1930-1931. 
+**Abbreviated name**: *Monroe*
 
 #### Herbarium and types
 

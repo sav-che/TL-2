@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103624#page/261/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33189718) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Picard, François (1879-1939), French entomologist and mycologist; professor of zoology at the École nationale d'Agriculture, Montpellier 1909-1921; at the Paris Laboratoire d'évolution des êtres organisés 1921-1939. (*F. Picard*).
+Picard, François (1879-1939), French entomologist and mycologist; professor of zoology at the École nationale d'Agriculture, Montpellier 1909-1921; at the Paris Laboratoire d'évolution des êtres organisés 1921-1939. 
+**Abbreviated name**: *F. Picard*
 
 #### Herbarium and types
 

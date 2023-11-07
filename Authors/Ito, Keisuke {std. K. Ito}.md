@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/103253#page/416/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33068632) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ito, Keisuke (1803-1901), Japanese herbalist. (*K. Ito*).
+Ito, Keisuke (1803-1901), Japanese herbalist. 
+**Abbreviated name**: *K. Ito*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103860#page/229/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265896) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clifford, Montagu Howard (fl. 1933-1940), British palaeobotanist, studied at Cambridge (Downing), B.A. 1933, M.A. 1937. (*M.H. Clifford*).
+Clifford, Montagu Howard (fl. 1933-1940), British palaeobotanist, studied at Cambridge (Downing), B.A. 1933, M.A. 1937. 
+**Abbreviated name**: *M.H. Clifford*
 
 #### Herbarium and types
 

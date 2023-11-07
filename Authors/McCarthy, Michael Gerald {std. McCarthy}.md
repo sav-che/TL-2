@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/104137#page/228/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McCarthy, Michael Gerald (1858-1915), American botanist; at North Carolina Agricultural Experiment Station 1888-1897; on North Carolina Board of Agriculture 1897-1907; D.Sc.h.c. Gallaudet Coll. 1904 (*McCarthy*).
+McCarthy, Michael Gerald (1858-1915), American botanist; at North Carolina Agricultural Experiment Station 1888-1897; on North Carolina Board of Agriculture 1897-1907; D.Sc.h.c. Gallaudet Coll. 1904 
+**Abbreviated name**: *McCarthy*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/item/103683#page/811/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33212843) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vuillemin, \[Jean\] Paul (1861-1933), French mycologist; studied at the University of Nancy; Dr. méd. Nancy 1884; Lic.-ès-Sci. ib. 1889; Dr. sci. Sorbonne 1892; professor of natural history at the medical faculty Nancy 1895-1932. (*Vuill.*).
+Vuillemin, \[Jean\] Paul (1861-1933), French mycologist; studied at the University of Nancy; Dr. méd. Nancy 1884; Lic.-ès-Sci. ib. 1889; Dr. sci. Sorbonne 1892; professor of natural history at the medical faculty Nancy 1895-1932. 
+**Abbreviated name**: *Vuill.*
 
 #### Herbarium and types
 

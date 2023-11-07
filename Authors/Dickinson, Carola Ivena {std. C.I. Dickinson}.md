@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103833#page/299/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dickinson, Carola Ivena (fl. 1934), English botanist, lichenologist, at Newham MA 1925, worked at the Herbarium, Royal Botanic Gardens, Kew. (*C.I. Dickinson*).
+Dickinson, Carola Ivena (fl. 1934), English botanist, lichenologist, at Newham MA 1925, worked at the Herbarium, Royal Botanic Gardens, Kew. 
+**Abbreviated name**: *C.I. Dickinson*
 
 #### Herbarium and types
 

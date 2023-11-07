@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/item/103414#page/641/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33120724) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dalzell, Nicol (Nicholas) Alexander {std. Dalzell} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dalzell, Nicol(Nicholas)Alexander (1817-1878), Scottish botanist and forester, conservator of forests at Bombay 1841-1870. (*Dalzell*).
+Dalzell, Nicol(Nicholas)Alexander (1817-1878), Scottish botanist and forester, conservator of forests at Bombay 1841-1870. 
+**Abbreviated name**: *Dalzell*
 
 #### Herbarium and types
 

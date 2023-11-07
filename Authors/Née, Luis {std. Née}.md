@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/item/104137#page/721/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Née, Luis (17..-18..), French botanist, later naturalized Spaniard; on the Malaspina expedition in La Descubierta and La Atrevida, 1789-1794 (*Née*).
+Née, Luis (17..-18..), French botanist, later naturalized Spaniard; on the Malaspina expedition in La Descubierta and La Atrevida, 1789-1794 
+**Abbreviated name**: *Née*
 
 #### Herbarium and types
 

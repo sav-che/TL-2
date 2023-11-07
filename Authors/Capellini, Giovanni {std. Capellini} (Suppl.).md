@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103861#page/404/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33266701) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Capellini, Giovanni {std. Capellini}|first entry]] for this author
 
 ### Author
 
-\* Capellini, Giovanni (1833-1922), Italian geologist and palaeontologist, studied at Spezia and at the University of Pisa, studied some time at Paris in the École des Mines and the Jardin des Plantes, professor of natural history at the Collegio Nazionale de Genova 1859, from 1861 at the University of Bologna. (*Capellini*).
+\* Capellini, Giovanni (1833-1922), Italian geologist and palaeontologist, studied at Spezia and at the University of Pisa, studied some time at Paris in the École des Mines and the Jardin des Plantes, professor of natural history at the Collegio Nazionale de Genova 1859, from 1861 at the University of Bologna. 
+**Abbreviated name**: *Capellini*
 
 #### Herbarium and types
 

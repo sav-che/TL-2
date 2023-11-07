@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103861#page/178/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33266475) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruz, Ladislai \[Ludwig\] (fl. 1775), Transsylvanian ("Ambrosiopolitano") physician, Dr. phil. Vienna 1775. (*Bruz*).
+Bruz, Ladislai \[Ludwig\] (fl. 1775), Transsylvanian ("Ambrosiopolitano") physician, Dr. phil. Vienna 1775. 
+**Abbreviated name**: *Bruz*
 
 #### Herbarium and types
 

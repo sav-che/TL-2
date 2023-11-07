@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103835#page/422/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33260400) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Espenscheid, Eduard jr. (fl. 1902), German collector of Desmids, living at Elberfeld. (*Espenscheid*).
+Espenscheid, Eduard jr. (fl. 1902), German collector of Desmids, living at Elberfeld. 
+**Abbreviated name**: *Espenscheid*
 
 #### Herbarium and types
 

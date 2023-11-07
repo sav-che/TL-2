@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103832#page/388/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33258854) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grész, János \[Joannes, Johann, John, Jean\] (1813-1885), Hungarian botanist, died 19 Feb 1885 in Csáktornya. (*Grész*).
+Grész, János \[Joannes, Johann, John, Jean\] (1813-1885), Hungarian botanist, died 19 Feb 1885 in Csáktornya. 
+**Abbreviated name**: *Grész*
 
 #### Herbarium and types
 

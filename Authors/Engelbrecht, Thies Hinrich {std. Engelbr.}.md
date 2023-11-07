@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103835#page/351/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33260329) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Engelbrecht, Thies Hinrich (fl. 1899-1933), German author on historical subjects, and agriculture. (*Engelbr.*).
+Engelbrecht, Thies Hinrich (fl. 1899-1933), German author on historical subjects, and agriculture. 
+**Abbreviated name**: *Engelbr.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/item/103860#page/322/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265989) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Conwentz, Hugo Wilhelm {std. Conw.}|first entry]] for this author
 
 ### Author
 
-\* Conwentz, Hugo Wilhelm (1855-1922), German botanist, born in Danzig, at the Realschule I. Ordnung, later Realgymnasium at St. Johann in Danzig 1862-1873, studied natural sciences in Breslau 1873-1876, sometime at Göttingen, assistant with Göppert at Breslau 1876-1879, Dr. phil. 1876, Director of the Westpreussischen Provinzialmuseum 1880-1910, from 1910 at Berlin. (*Conw.*).
+\* Conwentz, Hugo Wilhelm (1855-1922), German botanist, born in Danzig, at the Realschule I. Ordnung, later Realgymnasium at St. Johann in Danzig 1862-1873, studied natural sciences in Breslau 1873-1876, sometime at Göttingen, assistant with Göppert at Breslau 1876-1879, Dr. phil. 1876, Director of the Westpreussischen Provinzialmuseum 1880-1910, from 1910 at Berlin. 
+**Abbreviated name**: *Conw.*
 
 #### Herbarium and types
 

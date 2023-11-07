@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/item/103683#page/383/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33212415) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tkany, Wilhelm (1792-1863), Moravian botanist; governmental administrator ("Hofconcipist") in Wien 1822-1830, in Brünn (Gubernialsecretär) 1830-1839, Hofsecretär Wien 1839, Moravian-Silesian "Gubernialrath" Brünn 1840-1850; supervisor of the school system in Moravia and Silesia 1850-1855; from 1830 active as amateur botanist. (*Tkany*).
+Tkany, Wilhelm (1792-1863), Moravian botanist; governmental administrator ("Hofconcipist") in Wien 1822-1830, in Brünn (Gubernialsecretär) 1830-1839, Hofsecretär Wien 1839, Moravian-Silesian "Gubernialrath" Brünn 1840-1850; supervisor of the school system in Moravia and Silesia 1850-1855; from 1830 active as amateur botanist. 
+**Abbreviated name**: *Tkany*
 
 #### Herbarium and types
 

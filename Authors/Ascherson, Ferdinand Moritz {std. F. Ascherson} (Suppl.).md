@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103858#page/197/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33264912) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ascherson, Ferdinand Moritz {std. F. Ascherson}|first entry]] for this author
 
 ### Author
 
-\* Ascherson, Ferdinand Moritz (1798-1879), German physician and mycologist, father of P.F.A. Ascherson, born in Fürth nr. Nürnberg (Middle Franconia), assisted his father in his jewelry shop; studied medicine in Berlin 1824-1828, practising physician ib. 1829-1879, next to his practice actively carrying on botanical-physiological studies. (*F. Aschers.*).
+\* Ascherson, Ferdinand Moritz (1798-1879), German physician and mycologist, father of P.F.A. Ascherson, born in Fürth nr. Nürnberg (Middle Franconia), assisted his father in his jewelry shop; studied medicine in Berlin 1824-1828, practising physician ib. 1829-1879, next to his practice actively carrying on botanical-physiological studies. 
+**Abbreviated name**: *F. Aschers.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103834#page/147/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33259629) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fellman, Nils Isak {std. N.I. Fellm.}|first entry]] for this author
 
 ### Author
 
-\* Fellman, Nils Isak (1841-1919), Finnish botanist, born 10 Sep 1841 in Lappajärvi, studied at Helsinki Univ. from 1859, fil. kand. 1862, fil. mag. 1864, traveled in Russian Lapland (Kola) 1861 and 1863, cand. jur. 1871, president of court of justice in Vaasa, senator 1887, died 28 Oct 1919 in Helsinki. (*N.I. Fellm.*).
+\* Fellman, Nils Isak (1841-1919), Finnish botanist, born 10 Sep 1841 in Lappajärvi, studied at Helsinki Univ. from 1859, fil. kand. 1862, fil. mag. 1864, traveled in Russian Lapland (Kola) 1861 and 1863, cand. jur. 1871, president of court of justice in Vaasa, senator 1887, died 28 Oct 1919 in Helsinki. 
+**Abbreviated name**: *N.I. Fellm.*
 
 #### Note
 

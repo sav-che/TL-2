@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/item/103683#page/570/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33212602) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tyas, Robert (1811-1879), British clergyman and botanist; BA Cambr. 1848; vicar at East Tilbury 1812, author of several wild flower books and other popular books on natural history. (*Tyas*).
+Tyas, Robert (1811-1879), British clergyman and botanist; BA Cambr. 1848; vicar at East Tilbury 1812, author of several wild flower books and other popular books on natural history. 
+**Abbreviated name**: *Tyas*
 
 #### Herbarium and types
 

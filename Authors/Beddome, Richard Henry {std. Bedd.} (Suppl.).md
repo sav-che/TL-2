@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/item/103859#page/48/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33265235) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beddome, Richard Henry {std. Bedd.}|first entry]] for this author
 
 ### Author
 
-\* Beddome, Richard Henry (1830-1911), British colonial army officer and forestry botanist; entered the Indian army 1848, ultimately quartermaster and interpreter to the 42nd Madras Infantry 1848-1856, assistant, later conservator with the Forestry Department, Madras 1857-1860, head of the Forestry Department S. India 1860-1882, retired to England 1883, continuing his interest in Indian ferns, freely associated with Kew and the British Museum. (*Bedd.*).
+\* Beddome, Richard Henry (1830-1911), British colonial army officer and forestry botanist; entered the Indian army 1848, ultimately quartermaster and interpreter to the 42nd Madras Infantry 1848-1856, assistant, later conservator with the Forestry Department, Madras 1857-1860, head of the Forestry Department S. India 1860-1882, retired to England 1883, continuing his interest in Indian ferns, freely associated with Kew and the British Museum. 
+**Abbreviated name**: *Bedd.*
 
 #### Herbarium and types
 

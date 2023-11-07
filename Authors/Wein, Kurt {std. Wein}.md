@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103250#page/215/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33066495) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wein, Kurt (1883-1968), German (Prussian) school teacher, botanist and historian of botany; teacher at the Volksschule in Rehmsdorf 1906, Merseburg 1907, Helbra 1909, and finally in Nordhausen 1913-1946; released from his position 1946; collaborator Institut für Kulturpflanzenforschung (Gatersleben) from 1952; Foreign member Linnean Society 1962; Dr. phil. h.c. Halle 1963. (*Wein*).
+Wein, Kurt (1883-1968), German (Prussian) school teacher, botanist and historian of botany; teacher at the Volksschule in Rehmsdorf 1906, Merseburg 1907, Helbra 1909, and finally in Nordhausen 1913-1946; released from his position 1946; collaborator Institut für Kulturpflanzenforschung (Gatersleben) from 1952; Foreign member Linnean Society 1962; Dr. phil. h.c. Halle 1963. 
+**Abbreviated name**: *Wein*
 
 #### Herbarium and types
 

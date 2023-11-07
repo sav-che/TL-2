@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103832#page/230/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33258696) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gill, Lake Shore (1900-1969), American forest pathologist, born 25 Apr 1900 in San Francisco, Calif., A.B. 1923 and A.M. 1932 Stanford Univ., Palo Alto, Calif., Ph.D 1934 Yale Univ., New Haven, Conn., Forest Pathologist, U.S.D.A. 1923-1960, visited Tanganyika (now Tanzania) to investigate forest diseases ca. 1963, died 5 Jul 1969. (*L.S. Gill*).
+Gill, Lake Shore (1900-1969), American forest pathologist, born 25 Apr 1900 in San Francisco, Calif., A.B. 1923 and A.M. 1932 Stanford Univ., Palo Alto, Calif., Ph.D 1934 Yale Univ., New Haven, Conn., Forest Pathologist, U.S.D.A. 1923-1960, visited Tanganyika (now Tanzania) to investigate forest diseases ca. 1963, died 5 Jul 1969. 
+**Abbreviated name**: *L.S. Gill*
 
 #### Note
 

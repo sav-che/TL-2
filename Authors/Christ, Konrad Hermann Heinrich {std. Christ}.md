@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/103414#page/548/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33120631) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Christ(-Socin), (Konrad) Hermann (Heinrich) {std. Christ} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Christ, Konrad Hermann Heinrich (1833-1933), Swiss pteridologist and plant geographer, professor of botany at Basel. (*Christ*).
+Christ, Konrad Hermann Heinrich (1833-1933), Swiss pteridologist and plant geographer, professor of botany at Basel. 
+**Abbreviated name**: *Christ*
 
 #### Herbarium and types
 

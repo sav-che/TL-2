@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103683#page/428/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33212460) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tovey, James Richard (1873-1922), Australian botanist; assistant at the National Herbarium, South Yarra, Melbourne 1889-1922. (*Tovey*).
+Tovey, James Richard (1873-1922), Australian botanist; assistant at the National Herbarium, South Yarra, Melbourne 1889-1922. 
+**Abbreviated name**: *Tovey*
 
 #### Herbarium and types
 

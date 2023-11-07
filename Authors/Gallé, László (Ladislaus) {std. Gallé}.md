@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103832#page/119/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33258585) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gallé, László \[Ladislaus\] (1908-1980), Hungarian lichenologist, born 15 Feb 1908 in Zenta, Austro-Hungarian Empire (now Senta, Serbia), studied at Univ. of Belgrade and Academy of Sciences, Univ. of Szeged, Hungary 1925-1931, teaching dipl. 1930, teaching asst., teacher and administrator (asst. principal, principal and superintendent) at various high schools, collaborator in botany, Móra Ferenc Museum 1963, died 4 Mar 1980 in Szeged. (*Gallé*).
+Gallé, László \[Ladislaus\] (1908-1980), Hungarian lichenologist, born 15 Feb 1908 in Zenta, Austro-Hungarian Empire (now Senta, Serbia), studied at Univ. of Belgrade and Academy of Sciences, Univ. of Szeged, Hungary 1925-1931, teaching dipl. 1930, teaching asst., teacher and administrator (asst. principal, principal and superintendent) at various high schools, collaborator in botany, Móra Ferenc Museum 1963, died 4 Mar 1980 in Szeged. 
+**Abbreviated name**: *Gallé*
 
 #### Note
 

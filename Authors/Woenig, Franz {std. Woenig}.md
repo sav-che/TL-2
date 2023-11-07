@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/103250#page/476/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33066756) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woenig, Franz (1851-1899), German (Saxonian) author, poet and high school teacher; studied pedagogics and natural sciences at the University of Leipzig 1874-1877; teacher at Aken a.d. Elbe 1871-1874 and Leipzig 1877-1899. (*Woenig*).
+Woenig, Franz (1851-1899), German (Saxonian) author, poet and high school teacher; studied pedagogics and natural sciences at the University of Leipzig 1874-1877; teacher at Aken a.d. Elbe 1871-1874 and Leipzig 1877-1899. 
+**Abbreviated name**: *Woenig*
 
 #### Herbarium and types
 

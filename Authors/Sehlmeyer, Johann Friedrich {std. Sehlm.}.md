@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/item/104077#page/503/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33333628) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sehlmeyer, Johann Friedrich (1788-1856), German (Hannover) botanist and pharmacist; from circa 1821 until 1852 in charge of the "Hofapothek" in Köln. (*Sehlm.*).
+Sehlmeyer, Johann Friedrich (1788-1856), German (Hannover) botanist and pharmacist; from circa 1821 until 1852 in charge of the "Hofapothek" in Köln. 
+**Abbreviated name**: *Sehlm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/item/103624#page/918/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33190375) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rossi, Pietro (1738-1804), Italian botanist and entomologist at Pisa. (*P. Rossi*).
+Rossi, Pietro (1738-1804), Italian botanist and entomologist at Pisa. 
+**Abbreviated name**: *P. Rossi*
 
 #### Herbarium and types
 

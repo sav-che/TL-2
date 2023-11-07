@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103860#page/294/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265961) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Comelli, Franceso (1793-1852), Italian botanist, pharmacist, plant collector at Udine, Italy, born 1 Sep 1793 and died 23 Nov 1852 at Udine. (*Comelli*).
+Comelli, Franceso (1793-1852), Italian botanist, pharmacist, plant collector at Udine, Italy, born 1 Sep 1793 and died 23 Nov 1852 at Udine. 
+**Abbreviated name**: *Comelli*
 
 #### Herbarium and types
 

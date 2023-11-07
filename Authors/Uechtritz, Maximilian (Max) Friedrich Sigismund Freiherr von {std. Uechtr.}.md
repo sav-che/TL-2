@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/item/103683#page/572/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uechtritz, Maximilian \[Max\] Friedrich Sigismund Freiherr von (1785-1851), German (Silesian) soldier and "Privatgelehrter" especially interested in botany and entomology; sometime cavalry captain ("Rittmeister") in the Austrian army; stationed in Moravia ca. 1805; resident in Breslau; (father of Rudolf von Uechtritz). (*Uechtr.*).
+Uechtritz, Maximilian \[Max\] Friedrich Sigismund Freiherr von (1785-1851), German (Silesian) soldier and "Privatgelehrter" especially interested in botany and entomology; sometime cavalry captain ("Rittmeister") in the Austrian army; stationed in Moravia ca. 1805; resident in Breslau; (father of Rudolf von Uechtritz). 
+**Abbreviated name**: *Uechtr.*
 
 #### Herbarium and types
 

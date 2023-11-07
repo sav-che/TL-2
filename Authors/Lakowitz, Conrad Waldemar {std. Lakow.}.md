@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/item/103253#page/754/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lakowitz, Conrad Waldemar (1859-1945), German algologist, palaeobotanist, and high school teacher at the royal gymnasium at Danzig (now Gdansk); educated at Breslau university (Dr. phil. 1881). (*Lakow.*).
+Lakowitz, Conrad Waldemar (1859-1945), German algologist, palaeobotanist, and high school teacher at the royal gymnasium at Danzig (now Gdansk); educated at Breslau university (Dr. phil. 1881). 
+**Abbreviated name**: *Lakow.*
 
 #### Herbarium and types
 

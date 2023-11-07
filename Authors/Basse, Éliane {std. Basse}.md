@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/item/103858#page/378/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33265093) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Basse, Éliane (fl. 1934), French botanist, collected plants on Madagascar, studied at the Université of Paris, Dr. ès sci. nat. 1934 at the Faculté des Sciences de Paris. (*Basse*).
+Basse, Éliane (fl. 1934), French botanist, collected plants on Madagascar, studied at the Université of Paris, Dr. ès sci. nat. 1934 at the Faculté des Sciences de Paris. 
+**Abbreviated name**: *Basse*
 
 #### Herbarium and types
 

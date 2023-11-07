@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/104137#page/431/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Menge, Franz Anton (1808-1880), German high school teacher, palaeontologist, arachnologist and botanist; studied at Bonn 1828-1832; high school teacher at Graudenz 1833-1836, and at the Petrischule, Danzig 1836-1877; specialist on amber fossils. (*Menge*).
+Menge, Franz Anton (1808-1880), German high school teacher, palaeontologist, arachnologist and botanist; studied at Bonn 1828-1832; high school teacher at Graudenz 1833-1836, and at the Petrischule, Danzig 1836-1877; specialist on amber fossils. 
+**Abbreviated name**: *Menge*
 
 #### Herbarium and types
 

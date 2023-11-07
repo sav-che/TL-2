@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/item/103624#page/826/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robin, Claude C. (1750-?), French clergyman, explorer and botanist; travelled in Louisiana, Florida, Martinique and Ste. Domingo 1802-1806. (*C.C. Robin*).
+Robin, Claude C. (1750-?), French clergyman, explorer and botanist; travelled in Louisiana, Florida, Martinique and Ste. Domingo 1802-1806. 
+**Abbreviated name**: *C.C. Robin*
 
 #### Herbarium and types
 

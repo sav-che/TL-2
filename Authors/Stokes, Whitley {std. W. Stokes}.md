@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103683#page/26/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33212078) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stokes, Whitley (1763-1845), Irish physician and botanist (bryologist), MD Dublin 1793; lecturer in natural history, Dublin, Trinity College 1814 (1816?); professor of medicine, Dublin 1830-1843. friend of Dawson Turner. (*W. Stokes*).
+Stokes, Whitley (1763-1845), Irish physician and botanist (bryologist), MD Dublin 1793; lecturer in natural history, Dublin, Trinity College 1814 (1816?); professor of medicine, Dublin 1830-1843. friend of Dawson Turner. 
+**Abbreviated name**: *W. Stokes*
 
 #### Herbarium and types
 

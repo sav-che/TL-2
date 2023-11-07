@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103683#page/153/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33212185) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Szatala, Odön (1889-1958), Hungarian botanist (lichenologist); Dr. phil. Budapest 1916; assistant at the Botanical Institute of the University of Budapest 1913-1914; from 1914-1952 at the Hungarian Seed-testing Station, from 1945-1952 as director; from 1952-1965 collaborator at the Botanical Section of the National Hungarian Museum. (*Szat.*).
+Szatala, Odön (1889-1958), Hungarian botanist (lichenologist); Dr. phil. Budapest 1916; assistant at the Botanical Institute of the University of Budapest 1913-1914; from 1914-1952 at the Hungarian Seed-testing Station, from 1945-1952 as director; from 1952-1965 collaborator at the Botanical Section of the National Hungarian Museum. 
+**Abbreviated name**: *Szat.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/item/103253#page/881/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33069097) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lestiboudois, Jean Baptiste (1715-1804), French botanist; professor of botany at Lille (1770-1804). (*J. Lestib.*).
+Lestiboudois, Jean Baptiste (1715-1804), French botanist; professor of botany at Lille (1770-1804). 
+**Abbreviated name**: *J. Lestib.*
 
 #### Herbarium and types
 

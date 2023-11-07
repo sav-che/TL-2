@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103834#page/193/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259675) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fiala, Franz \[Franjo\] (1861-1898), Austro-Hungarian botanist and paleobotanist, born 14 Apr 1861 in Brünn (Brno), 1896 became curator ("custos") of the Bosnian-Herzegovinan Museum in Sarajevo, died 28 Jan 1898 in Sarajevo only 36 years of age. (*Fiala*).
+Fiala, Franz \[Franjo\] (1861-1898), Austro-Hungarian botanist and paleobotanist, born 14 Apr 1861 in Brünn (Brno), 1896 became curator ("custos") of the Bosnian-Herzegovinan Museum in Sarajevo, died 28 Jan 1898 in Sarajevo only 36 years of age. 
+**Abbreviated name**: *Fiala*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103859#page/331/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265518) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonte, Ludwig (x-1935), German police inspector, amateur botanist interested in adventitious plants especially from the Rheinisch-Westfalen industrial area. (*Bonte*).
+Bonte, Ludwig (x-1935), German police inspector, amateur botanist interested in adventitious plants especially from the Rheinisch-Westfalen industrial area. 
+**Abbreviated name**: *Bonte*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103683#page/249/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Theel, Jakob Gustaf Gösta (1846-1885), Swedish botanist; Dr. phil. Uppsala 1872; ultimately at the Swedish state archives. (*Theel*).
+Theel, Jakob Gustaf Gösta (1846-1885), Swedish botanist; Dr. phil. Uppsala 1872; ultimately at the Swedish state archives. 
+**Abbreviated name**: *Theel*
 
 #### Herbarium and types
 

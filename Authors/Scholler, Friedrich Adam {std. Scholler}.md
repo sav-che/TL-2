@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/104077#page/308/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scholler, Friedrich Adam (1718-1795), German (Bayreuth) botanist; teacher at the community of Moravian Brethern at Barby (Prussian Saxony). (*Scholler*).
+Scholler, Friedrich Adam (1718-1795), German (Bayreuth) botanist; teacher at the community of Moravian Brethern at Barby (Prussian Saxony). 
+**Abbreviated name**: *Scholler*
 
 #### Herbarium and types
 

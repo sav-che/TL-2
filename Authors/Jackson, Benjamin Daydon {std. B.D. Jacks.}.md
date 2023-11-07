@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103253#page/422/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33068638) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jackson, Benjamin Daydon (1846-1927), British botanist and botanical bibliographer; original compiler and editor of the Kew Index; Linnaean scholar; botanical secretary Linnaean Society (1880-1902); general secretary id. (1902-1926). (*B. D. Jacks.*).
+Jackson, Benjamin Daydon (1846-1927), British botanist and botanical bibliographer; original compiler and editor of the Kew Index; Linnaean scholar; botanical secretary Linnaean Society (1880-1902); general secretary id. (1902-1926). 
+**Abbreviated name**: *B. D. Jacks.*
 
 #### Herbarium and types
 

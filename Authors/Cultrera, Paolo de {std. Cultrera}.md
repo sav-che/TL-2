@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/103860#page/510/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33266177) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cultrera, Paolo de (1805-1884), Italian clergyman, naturalist and plant collector, born 8 Feb 1805 at Palermo, died 20 Aug 1884 at Palermo, professor ord. stoc. eccles. of the University of Palermo. (*Cultrera*).
+Cultrera, Paolo de (1805-1884), Italian clergyman, naturalist and plant collector, born 8 Feb 1805 at Palermo, died 20 Aug 1884 at Palermo, professor ord. stoc. eccles. of the University of Palermo. 
+**Abbreviated name**: *Cultrera*
 
 #### Herbarium and types
 

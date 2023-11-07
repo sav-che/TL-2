@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/item/103253#page/576/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33068792) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirilow, Iwan Petrovic ("Johann"), (1821-1842,, Russian botanist. (*Kir.*).
+Kirilow, Iwan Petrovic ("Johann"), (1821-1842,, Russian botanist. 
+**Abbreviated name**: *Kir.*
 
 #### Herbarium and types
 

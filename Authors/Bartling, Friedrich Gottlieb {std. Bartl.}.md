@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/item/103414#page/174/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33120257) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartling, Friedrich (Theophilus) Gottlieb {std. Bartl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bartling, Friedrich Gottlieb (1798-1875), German botanist. (*Bartl.*).
+Bartling, Friedrich Gottlieb (1798-1875), German botanist. 
+**Abbreviated name**: *Bartl.*
 
 #### Herbarium and types
 

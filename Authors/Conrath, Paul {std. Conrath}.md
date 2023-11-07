@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103860#page/316/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265983) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conrath, Paul (1861-1931), Bohemian botanist and chemist, born in Steinschönau 3 Sep 1861, where he followed the primary school, at the secondary school ("Realschule") in Böhmisch-Leipa, studied German technique in Prague, assistant at the "k.k. deutschen technischen Hochschule" in Prague 1885-1887, working in a copper-mine in Bosnia 1887-1890, employed by A.G. Dynamit-Nobel 1890-1901 in South Africa, from 1901-1914 in Dynamit-Nobel in Pressburg \[h.t. Bratislava\], settled in Graz, 1914, died 14 Mar 1931. (*Conrath*).
+Conrath, Paul (1861-1931), Bohemian botanist and chemist, born in Steinschönau 3 Sep 1861, where he followed the primary school, at the secondary school ("Realschule") in Böhmisch-Leipa, studied German technique in Prague, assistant at the "k.k. deutschen technischen Hochschule" in Prague 1885-1887, working in a copper-mine in Bosnia 1887-1890, employed by A.G. Dynamit-Nobel 1890-1901 in South Africa, from 1901-1914 in Dynamit-Nobel in Pressburg \[h.t. Bratislava\], settled in Graz, 1914, died 14 Mar 1931. 
+**Abbreviated name**: *Conrath*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103683#page/161/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tagg, Harry Frank (1874 (1873?)-1933), British botanist at the Royal Botanic Garden, Edinburgh from 1894 in charge of its museum; specialist on Rhododendron. (*Tagg*).
+Tagg, Harry Frank (1874 (1873?)-1933), British botanist at the Royal Botanic Garden, Edinburgh from 1894 in charge of its museum; specialist on Rhododendron. 
+**Abbreviated name**: *Tagg*
 
 #### Herbarium and types
 

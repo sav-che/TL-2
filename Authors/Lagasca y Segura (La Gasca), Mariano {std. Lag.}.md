@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/item/103253#page/746/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33068962) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lagasca y Segura \[La Gasca\], Mariano (1776-1839), Spanish botanist at the Madrid botanical garden; in exile to England 1822; in Jersey 1831-1834; back to Spain 1834-1839. (*Lag.*).
+Lagasca y Segura \[La Gasca\], Mariano (1776-1839), Spanish botanist at the Madrid botanical garden; in exile to England 1822; in Jersey 1831-1834; back to Spain 1834-1839. 
+**Abbreviated name**: *Lag.*
 
 #### Herbarium and types
 

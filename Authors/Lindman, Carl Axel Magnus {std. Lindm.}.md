@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/104137#page/76/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33355147) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindman, Carl Axel Magnus (1856-1928), Swedish botanist and traveller; Dr. phil. Uppsala 1886; teacher at Stockholm 1887-1904; from 1905 at the Natural History Museum at Stockholm; travelled widely in Europe and North Africa; in Brazil 1892-1894. (*Lindm.*).
+Lindman, Carl Axel Magnus (1856-1928), Swedish botanist and traveller; Dr. phil. Uppsala 1886; teacher at Stockholm 1887-1904; from 1905 at the Natural History Museum at Stockholm; travelled widely in Europe and North Africa; in Brazil 1892-1894. 
+**Abbreviated name**: *Lindm.*
 
 #### Herbarium and types
 

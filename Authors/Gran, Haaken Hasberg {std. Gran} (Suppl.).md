@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103832#page/339/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33258805) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gran, Haaken Hasberg {std. Gran}|first entry]] for this author
 
 ### Author
 
-\* Gran, Haaken Hasberg (1870-1955), Norwegian algologist, born 17 Apr 1870 in Tønsberg, cand. real. 1894 Univ. of Bergen, asst., botany lab., Univ. of Bergen 1894, studied plant physiology with Wilhelm Pfeffer in Leipzig 1896-1897 and bacteriology with Martinius Beijerinck in Delft and Texel, Ph.D. 1902, Prof. of Botany, Oslo Univ. 1905-1940, traveled to Seattle 1928, died 2 Jun 1955 in Oslo. (*Gran*).
+\* Gran, Haaken Hasberg (1870-1955), Norwegian algologist, born 17 Apr 1870 in Tønsberg, cand. real. 1894 Univ. of Bergen, asst., botany lab., Univ. of Bergen 1894, studied plant physiology with Wilhelm Pfeffer in Leipzig 1896-1897 and bacteriology with Martinius Beijerinck in Delft and Texel, Ph.D. 1902, Prof. of Botany, Oslo Univ. 1905-1940, traveled to Seattle 1928, died 2 Jun 1955 in Oslo. 
+**Abbreviated name**: *Gran*
 
 #### Note
 

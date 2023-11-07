@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/item/104137#page/828/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33355899) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Østrup, Ernst Vilhelm (1845-1917), Danish algologist. (*Østrup*).
+Østrup, Ernst Vilhelm (1845-1917), Danish algologist. 
+**Abbreviated name**: *Østrup*
 
 #### Herbarium and types
 

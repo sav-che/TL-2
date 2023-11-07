@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/item/103253#page/692/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33068908) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krause, Johann Wilhelm (1764-1842), German clergyman and botanist in Taupadel (Sachsen-Weimar). (*J. Krause*).
+Krause, Johann Wilhelm (1764-1842), German clergyman and botanist in Taupadel (Sachsen-Weimar). 
+**Abbreviated name**: *J. Krause*
 
 #### Herbarium and types
 

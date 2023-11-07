@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103860#page/65/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33265732) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Charles, Vera K. (1877-1954), American, Pennsylvania born (Erie, Pa.) mycologist, at Mt. Holyoke College, subsequently at Cornell University (A.B. 1903), employed by the Bureau of Plant Industry, Washington D.C., 1903-1942, continued as a collaborator of the USDA, div. mycology and disease survey. (*Charles*).
+Charles, Vera K. (1877-1954), American, Pennsylvania born (Erie, Pa.) mycologist, at Mt. Holyoke College, subsequently at Cornell University (A.B. 1903), employed by the Bureau of Plant Industry, Washington D.C., 1903-1942, continued as a collaborator of the USDA, div. mycology and disease survey. 
+**Abbreviated name**: *Charles*
 
 #### Herbarium and types
 

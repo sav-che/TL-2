@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 891](https://www.biodiversitylibrary.org/item/103414#page/939/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 891](https://www.biodiversitylibrary.org/page/33121022) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fritsch, Felix Eugen(e) {std. F.E. Fritsch} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fritsch, Felix Eugen (1879-1954), British algologist. (*F. E. Fritsch*).
+Fritsch, Felix Eugen (1879-1954), British algologist. 
+**Abbreviated name**: *F. E. Fritsch*
 
 #### Collections of algae
 

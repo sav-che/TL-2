@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103832#page/91/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33258557) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Furrer, Ernst (1888-1976), Swiss botanist (plant geographer), born 29 Nov 1888 in Elsau (Kt. Zürich), visited Bormio 1910-1911, Dr. Sci. 1914 Zürich (under Prof. H. Schinz), studied the phytogeography of the Abruzzes in Italy and advocated protection of nature in Switzerland, worked in Zurich where he died on 6 Sep 1976. (*Furrer*).
+Furrer, Ernst (1888-1976), Swiss botanist (plant geographer), born 29 Nov 1888 in Elsau (Kt. Zürich), visited Bormio 1910-1911, Dr. Sci. 1914 Zürich (under Prof. H. Schinz), studied the phytogeography of the Abruzzes in Italy and advocated protection of nature in Switzerland, worked in Zurich where he died on 6 Sep 1976. 
+**Abbreviated name**: *Furrer*
 
 #### Herbarium and types
 

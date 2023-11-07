@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103250#page/511/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33066791) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woolsey, Theodore Salisbury, Jr. (1880-1933), United States forester and botanist; AB Yale Univ. 1901, Master of Forestry Yale 1903; with the United States Forestry Service 1908-1915; lecturer in forestry Yale ca. 1912, 1916-1917; on active service in Europe 1917-1919; from 1919 consulting forester in New Haven. (*Woolsey*).
+Woolsey, Theodore Salisbury, Jr. (1880-1933), United States forester and botanist; AB Yale Univ. 1901, Master of Forestry Yale 1903; with the United States Forestry Service 1908-1915; lecturer in forestry Yale ca. 1912, 1916-1917; on active service in Europe 1917-1919; from 1919 consulting forester in New Haven. 
+**Abbreviated name**: *Woolsey*
 
 #### Herbarium and types
 

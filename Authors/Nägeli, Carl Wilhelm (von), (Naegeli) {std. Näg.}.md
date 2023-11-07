@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/item/104137#page/697/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nägeli, Carl Wilhelm \[von\], \[Naegeli\] (1817-1891), Swiss-born botanist; Dr. phil. Zürich 1840; Dr. med. h.c. Freiburg 1854; habil. 1842; professor of botany at Zürich 1848-1852; at Freiburg i.Br. 1852-1855; at the ETH Zürich 1855-1857; at München 1857-1891. (*Näg.*).
+Nägeli, Carl Wilhelm \[von\], \[Naegeli\] (1817-1891), Swiss-born botanist; Dr. phil. Zürich 1840; Dr. med. h.c. Freiburg 1854; habil. 1842; professor of botany at Zürich 1848-1852; at Freiburg i.Br. 1852-1855; at the ETH Zürich 1855-1857; at München 1857-1891. 
+**Abbreviated name**: *Näg.*
 
 #### Herbarium and types
 

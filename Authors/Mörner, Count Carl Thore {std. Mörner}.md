@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/item/104137#page/554/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33355625) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mörner, Count Carl Thore (1864-1940), Swedish botanist; Dr. phil. Uppsala 1892; professor of medicine and physiological chemistry Uppsala 1894, ord. professor 1909. (*Mörner*).
+Mörner, Count Carl Thore (1864-1940), Swedish botanist; Dr. phil. Uppsala 1892; professor of medicine and physiological chemistry Uppsala 1894, ord. professor 1909. 
+**Abbreviated name**: *Mörner*
 
 #### Herbarium and types
 

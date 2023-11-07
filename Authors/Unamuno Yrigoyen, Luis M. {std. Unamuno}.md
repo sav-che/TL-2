@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/item/103683#page/596/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33212628) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Unamuno Yrigoyen, Luis M. (1873-1943), Spanish clergyman (O.S.A.) and botanist; Dr. phil. Madrid 1906; professor of natural history at the college of the PP. Augustinos de Lianes, Oviedo; from 1927 in Madrid ultimately as director of the Mycological laboratory of the Jardin botanico, and professor of botany. (*Unamuno*).
+Unamuno Yrigoyen, Luis M. (1873-1943), Spanish clergyman (O.S.A.) and botanist; Dr. phil. Madrid 1906; professor of natural history at the college of the PP. Augustinos de Lianes, Oviedo; from 1927 in Madrid ultimately as director of the Mycological laboratory of the Jardin botanico, and professor of botany. 
+**Abbreviated name**: *Unamuno*
 
 #### Herbarium and types
 

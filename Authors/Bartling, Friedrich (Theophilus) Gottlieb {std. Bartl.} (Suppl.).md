@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/item/103858#page/359/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33265074) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartling, Friedrich Gottlieb {std. Bartl.}|first entry]] for this author
 
 ### Author
 
-\* Bartling, Friedrich \[Theophilus\] Gottlieb (1798-1875), German (Hannover) botanist, Dr. phil. Goet. 1820, Privat-Docent at the University of Göttingen 1821-1831, extraordinary professor 1831-1837, regular professor of botany ib. 1837-1875; director of the Göttingen botanical Garden; in 1848 in charge of the University volunteer company, founder of the Göttingen herbarium. (*Bartl.*).
+\* Bartling, Friedrich \[Theophilus\] Gottlieb (1798-1875), German (Hannover) botanist, Dr. phil. Goet. 1820, Privat-Docent at the University of Göttingen 1821-1831, extraordinary professor 1831-1837, regular professor of botany ib. 1837-1875; director of the Göttingen botanical Garden; in 1848 in charge of the University volunteer company, founder of the Göttingen herbarium. 
+**Abbreviated name**: *Bartl.*
 
 #### Herbarium and types
 

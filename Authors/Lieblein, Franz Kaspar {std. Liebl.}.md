@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/104137#page/28/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33355115) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lieblein, Franz Kaspar (1744-1810), German botanist and high school teacher at Fulda," Hochfürstlich-Fuldischen Hofkammerrath und Hofapotheker". (*Liebl.*).
+Lieblein, Franz Kaspar (1744-1810), German botanist and high school teacher at Fulda," Hochfürstlich-Fuldischen Hofkammerrath und Hofapotheker". 
+**Abbreviated name**: *Liebl.*
 
 #### Herbarium and types
 

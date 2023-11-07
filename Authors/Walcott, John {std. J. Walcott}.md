@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103250#page/88/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33066368) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walcott, John (1754-1831), British (Irish-born) naturalist at Bath and Highnam Court. (*J. Walcott*).
+Walcott, John (1754-1831), British (Irish-born) naturalist at Bath and Highnam Court. 
+**Abbreviated name**: *J. Walcott*
 
 #### Herbarium and types
 

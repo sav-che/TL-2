@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103861#page/19/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33266316) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brand, Donald (1915-x), Botanist, born 6 Mar 1915 in Chiclayo, Peru, at the University of Texas, Department of Geography, collected in Northwest Chihuahua and in Sonora (Mexico) 1929-1931 and 1934-1936. (*Don. Brand*).
+Brand, Donald (1915-x), Botanist, born 6 Mar 1915 in Chiclayo, Peru, at the University of Texas, Department of Geography, collected in Northwest Chihuahua and in Sonora (Mexico) 1929-1931 and 1934-1936. 
+**Abbreviated name**: *Don. Brand*
 
 #### Herbarium and types
 

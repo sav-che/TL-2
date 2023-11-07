@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103250#page/228/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33066508) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weiss, \[Joseph Gustav\] Adolf (1837-1894), Austrian-Silesian botanist; educated at the Gymnasium of Troppau 1847-1855 and the University of Vienna 1855-1858; Dr. phil. ib. 1858; habil. ib. 1860; assistant at the k.k. Hof-Mineralienkabinett 1860-1862; regular professor of botany Lemberg 1862-1871 ("der jüngste Ordinarius Oesterreichs" Skofitz); id. Univ. Prague 1872, founding the first plant physiological institute in the Austrian-Hungarian Empire. (*G.A. Weiss*).
+Weiss, \[Joseph Gustav\] Adolf (1837-1894), Austrian-Silesian botanist; educated at the Gymnasium of Troppau 1847-1855 and the University of Vienna 1855-1858; Dr. phil. ib. 1858; habil. ib. 1860; assistant at the k.k. Hof-Mineralienkabinett 1860-1862; regular professor of botany Lemberg 1862-1871 ("der jüngste Ordinarius Oesterreichs" Skofitz); id. Univ. Prague 1872, founding the first plant physiological institute in the Austrian-Hungarian Empire. 
+**Abbreviated name**: *G.A. Weiss*
 
 #### Herbarium and types
 

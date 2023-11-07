@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103250#page/155/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waterfall, Umaldy Theodore (1910-1971), American botanist; MS Univ. Oklahoma 1942; Dr. phil. ib. 1956; high school teacher in Oklahoma City 1934-1944; range ecologist Soil Conservation Service 1944-1946; instructor in botany Univ. Oklahoma 1946-1949; professor of botany at Oklahoma State University 1949-1971. (*Waterf.*).
+Waterfall, Umaldy Theodore (1910-1971), American botanist; MS Univ. Oklahoma 1942; Dr. phil. ib. 1956; high school teacher in Oklahoma City 1934-1944; range ecologist Soil Conservation Service 1944-1946; instructor in botany Univ. Oklahoma 1946-1949; professor of botany at Oklahoma State University 1949-1971. 
+**Abbreviated name**: *Waterf.*
 
 #### Herbarium and types
 

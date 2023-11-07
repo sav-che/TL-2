@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/item/103253#page/625/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33068841) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koelpin, Alexander Bernhard (1739-1801), German physician, botanist and teacher at the academic gymnasium at Stettin. (*Koelp.*).
+Koelpin, Alexander Bernhard (1739-1801), German physician, botanist and teacher at the academic gymnasium at Stettin. 
+**Abbreviated name**: *Koelp.*
 
 #### Herbarium and types
 

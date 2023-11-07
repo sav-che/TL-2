@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103624#page/436/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33189893) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Puccinelli, Benedetto Luigi (1808-1850), Italian botanist; professor of botany at Lucca, director of the botanical garden of the University 1833-1850. (*Puccin.*).
+Puccinelli, Benedetto Luigi (1808-1850), Italian botanist; professor of botany at Lucca, director of the botanical garden of the University 1833-1850. 
+**Abbreviated name**: *Puccin.*
 
 #### Herbarium and types
 

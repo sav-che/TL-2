@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103624#page/129/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pavillard, Jules (1868-1961), French diatomologist, protistologist and phytogeographer; Lic. sci. nat. Bordeaux 1890; Dr. sci. Paris 1905; high school teacher at Montpellier 1895-1912; maître de conférences (1908), professeur adjoint (1909), professeur de cryptogamie et de cytologie (1924) and from 1927-1937, professor of botany and director of the botanical garden at the University of Montpellier, succeeding Ch. Flahault. (*Jul. Pavillard*).
+Pavillard, Jules (1868-1961), French diatomologist, protistologist and phytogeographer; Lic. sci. nat. Bordeaux 1890; Dr. sci. Paris 1905; high school teacher at Montpellier 1895-1912; maître de conférences (1908), professeur adjoint (1909), professeur de cryptogamie et de cytologie (1924) and from 1927-1937, professor of botany and director of the botanical garden at the University of Montpellier, succeeding Ch. Flahault. 
+**Abbreviated name**: *Jul. Pavillard*
 
 #### Herbarium and types
 

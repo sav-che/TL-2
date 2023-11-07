@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/item/103624#page/944/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rottbøll, Christen Friis (1727-1797), Danish botanist; Dr. med. Kjøbenhavn 1755; professor of medicine ("designatus") ib. 1756; studied botany with Linnaeus 1756-1757; travelled in Holland and France; director of the Copenhagen botanical garden 1770-1797; ord. professor of medicine 1776-1797. (*Rottb.*).
+Rottbøll, Christen Friis (1727-1797), Danish botanist; Dr. med. Kjøbenhavn 1755; professor of medicine ("designatus") ib. 1756; studied botany with Linnaeus 1756-1757; travelled in Holland and France; director of the Copenhagen botanical garden 1770-1797; ord. professor of medicine 1776-1797. 
+**Abbreviated name**: *Rottb.*
 
 #### Herbarium and types
 

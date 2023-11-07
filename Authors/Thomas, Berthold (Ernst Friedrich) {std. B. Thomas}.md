@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103683#page/280/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33212312) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas, Berthold \[Ernst Friedrich\] (1910-x), German (Berlin) botanist. (*B. Thomas*).
+Thomas, Berthold \[Ernst Friedrich\] (1910-x), German (Berlin) botanist. 
+**Abbreviated name**: *B. Thomas*
 
 #### Herbarium and types
 

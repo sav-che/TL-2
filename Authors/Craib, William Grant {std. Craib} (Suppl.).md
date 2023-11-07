@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/item/103860#page/449/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33266116) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Craib, William Grant {std. Craib}|first entry]] for this author
 
 ### Author
 
-\* Craib, William Grant (1882-1933), Scottish botanist, born at Kirkside, Banff, early education at the Banff and Fordyce Academies, at Aberdeen University, graduated in arts 1907, with special distinction in botany, MA Aberdeen 1907, acting curator of the herbarium of the Royal Botanical Gardens at Calcutta 1908, herbarium assistant at Kew 1909-1915, lecturer in forest botany Edinburgh 1915-1920, regius professor of botany at Aberdeen 1920-1933. (*Craib*).
+\* Craib, William Grant (1882-1933), Scottish botanist, born at Kirkside, Banff, early education at the Banff and Fordyce Academies, at Aberdeen University, graduated in arts 1907, with special distinction in botany, MA Aberdeen 1907, acting curator of the herbarium of the Royal Botanical Gardens at Calcutta 1908, herbarium assistant at Kew 1909-1915, lecturer in forest botany Edinburgh 1915-1920, regius professor of botany at Aberdeen 1920-1933. 
+**Abbreviated name**: *Craib*
 
 #### Herbarium and types
 

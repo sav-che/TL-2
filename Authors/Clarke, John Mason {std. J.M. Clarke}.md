@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/item/103414#page/556/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clarke, John Mason (1857-1925), American palaeobotanist in the geological survey of New York. (*J. M. Clarke*).
+Clarke, John Mason (1857-1925), American palaeobotanist in the geological survey of New York. 
+**Abbreviated name**: *J. M. Clarke*
 
 #### Collections
 

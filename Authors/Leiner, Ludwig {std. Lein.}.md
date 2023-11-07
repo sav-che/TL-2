@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/103253#page/854/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33069070) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leiner, Ludwig (1830-1901), German pharmacist and naturalist at Konstanz. (*Lein.*).
+Leiner, Ludwig (1830-1901), German pharmacist and naturalist at Konstanz. 
+**Abbreviated name**: *Lein.*
 
 #### Herbarium and types
 

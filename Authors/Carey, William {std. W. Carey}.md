@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103414#page/503/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33120586) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carey, William {std. W. Carey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Carey, William (1761-1834), British baptist missionary and orientalist. (*W. Carey*).
+Carey, William (1761-1834), British baptist missionary and orientalist. 
+**Abbreviated name**: *W. Carey*
 
 #### Herbarium and types
 

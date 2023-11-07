@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/item/103250#page/559/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33066839) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zacharias \[Emil\] Otto (1846-1916), German (Saxonian) zoologist and hydrobiologist; autodidactical scientist of private means, ultimately associated with the Hydrobiological Station of Plön. (*O. Zacharias*).
+Zacharias \[Emil\] Otto (1846-1916), German (Saxonian) zoologist and hydrobiologist; autodidactical scientist of private means, ultimately associated with the Hydrobiological Station of Plön. 
+**Abbreviated name**: *O. Zacharias*
 
 #### Herbarium and types
 

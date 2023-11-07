@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/103253#page/799/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lawson, George (1827-1895), Scottish botanist; originally at Edinburgh; moved to Canada 1858; professor of nat. hist. Queen's Univ., Kingston 1858-1863; professor of chemistry at Dalhousie College, Halifax, Nova Scotia, 1863-1895. (*G. Laws.*).
+Lawson, George (1827-1895), Scottish botanist; originally at Edinburgh; moved to Canada 1858; professor of nat. hist. Queen's Univ., Kingston 1858-1863; professor of chemistry at Dalhousie College, Halifax, Nova Scotia, 1863-1895. 
+**Abbreviated name**: *G. Laws.*
 
 #### Herbarium and types
 

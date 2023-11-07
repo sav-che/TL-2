@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103624#page/400/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33189857) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Preiss, Balthazar (Preis) (1765-1850), German military physician and botanist; Dr. chir. Wien 1792; "Regimentsarzt" at Salzburg 1792-1793; on active duty at various military stations of the "Regensburger Reichstag" 1793-1800; from 1800-1806 again in military and civil practice at Salzburg; from 1806-1830 in Austrian military service at Kuttenberg (Bohemia) and Praha (id.) and at various war stations; from 1830-1833 at Peterwardein, Slavonia; in retirement at Praha 1833-1850. (*B. Preiss*).
+Preiss, Balthazar (Preis) (1765-1850), German military physician and botanist; Dr. chir. Wien 1792; "Regimentsarzt" at Salzburg 1792-1793; on active duty at various military stations of the "Regensburger Reichstag" 1793-1800; from 1800-1806 again in military and civil practice at Salzburg; from 1806-1830 in Austrian military service at Kuttenberg (Bohemia) and Praha (id.) and at various war stations; from 1830-1833 at Peterwardein, Slavonia; in retirement at Praha 1833-1850. 
+**Abbreviated name**: *B. Preiss*
 
 #### Herbarium and types
 

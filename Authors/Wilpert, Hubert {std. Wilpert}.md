@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/103250#page/408/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33066688) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilpert, Hubert (1901-x), German (Silesian) botanist and pharmacist; studied at the University of Breslau; pharm. state exam. 1927; Dr. phil. Breslau 1928; assistant at the Pharmaceutical Institute, Breslau from 1928. (*Wilpert*).
+Wilpert, Hubert (1901-x), German (Silesian) botanist and pharmacist; studied at the University of Breslau; pharm. state exam. 1927; Dr. phil. Breslau 1928; assistant at the Pharmaceutical Institute, Breslau from 1928. 
+**Abbreviated name**: *Wilpert*
 
 #### Herbarium and types
 

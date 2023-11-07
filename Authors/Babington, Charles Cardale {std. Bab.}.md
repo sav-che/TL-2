@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103414#page/131/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33120214) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Babington, Charles Cardale {std. Bab.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Babington, Charles Cardale (1808-1895), British botanist, professor of botany at Cambridge. (*Bab.*).
+Babington, Charles Cardale (1808-1895), British botanist, professor of botany at Cambridge. 
+**Abbreviated name**: *Bab.*
 
 #### Herbarium and types
 

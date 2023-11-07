@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103253#page/72/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hansen, Emil Christian (1842-1909), Danish microbiologist and mycologist; Dr. phil. Copenhagen 1879; director of the physiological department of the Carlsberg laboratories; Dr. med. h.c. Uppsala 1907. (*E. Hans.*).
+Hansen, Emil Christian (1842-1909), Danish microbiologist and mycologist; Dr. phil. Copenhagen 1879; director of the physiological department of the Carlsberg laboratories; Dr. med. h.c. Uppsala 1907. 
+**Abbreviated name**: *E. Hans.*
 
 #### Herbarium and types
 

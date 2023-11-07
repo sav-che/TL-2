@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103250#page/217/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33066497) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weinhart, Max (1824-1905), German (Allgäu) botanist and high school teacher (1842-1884) at Augsburg. (*Weinhart*).
+Weinhart, Max (1824-1905), German (Allgäu) botanist and high school teacher (1842-1884) at Augsburg. 
+**Abbreviated name**: *Weinhart*
 
 #### Herbarium and types
 

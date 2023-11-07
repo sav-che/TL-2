@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/104137#page/291/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Manganotti, Antonio (1810-1892), Italian botanist; professor of natural history, chemistry and pharmacology at the Lyceum in Verona (*Manganotti*).
+Manganotti, Antonio (1810-1892), Italian botanist; professor of natural history, chemistry and pharmacology at the Lyceum in Verona 
+**Abbreviated name**: *Manganotti*
 
 #### Herbarium and types
 

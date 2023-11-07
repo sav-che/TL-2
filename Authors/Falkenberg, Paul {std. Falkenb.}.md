@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/item/103414#page/860/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33120943) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Falkenberg, Paul {std. Falkenb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Falkenberg, Paul (*fl*. 1900), German algologist. (*Falkenb.*).
+Falkenberg, Paul (*fl*. 1900), German algologist. 
+**Abbreviated name**: *Falkenb.*
 
 #### Herbarium and types
 

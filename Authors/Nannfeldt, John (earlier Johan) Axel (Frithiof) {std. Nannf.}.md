@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/item/104137#page/705/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33355776) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nannfeldt, John \[earlier Johan\] Axel \[Frithiof\] (1904-x), Swedish botanist; Dr. phil. Uppsala 1932; from 1939-1970 director of the Botanical Museum at Uppsala. (*Nannf.*).
+Nannfeldt, John \[earlier Johan\] Axel \[Frithiof\] (1904-x), Swedish botanist; Dr. phil. Uppsala 1932; from 1939-1970 director of the Botanical Museum at Uppsala. 
+**Abbreviated name**: *Nannf.*
 
 #### Herbarium and types
 

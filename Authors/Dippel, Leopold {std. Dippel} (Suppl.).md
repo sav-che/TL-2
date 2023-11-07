@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103833#page/361/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33259395) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dippel, Leopold {std. Dippel}|first entry]] for this author
 
 ### Author
 
-\* Dippel, Leopold (1827-1914), German dendrologist, histologist and microscopist, born at Lauterecken in the Rheinpfalz 4 Aug 1827, studied at the forestry institutions at Aschaffenburg, Karlsruhe and München 1845-1848, from 1848-1850 with M. Schleiden at the University of Jena, teacher at a private school in Birkenfeld 1880-1884, teacher examination for mathematics and natural sciences at Oldenburg 1854, teacher at Idar 1856, Dr. phil. h.c. Bonn 1865, ordinary professor of botany at Darmstadt 1865-1896, from 1896 in retirement, died 4 Mar 1914, Darmstadt. (*Dippel*).
+\* Dippel, Leopold (1827-1914), German dendrologist, histologist and microscopist, born at Lauterecken in the Rheinpfalz 4 Aug 1827, studied at the forestry institutions at Aschaffenburg, Karlsruhe and München 1845-1848, from 1848-1850 with M. Schleiden at the University of Jena, teacher at a private school in Birkenfeld 1880-1884, teacher examination for mathematics and natural sciences at Oldenburg 1854, teacher at Idar 1856, Dr. phil. h.c. Bonn 1865, ordinary professor of botany at Darmstadt 1865-1896, from 1896 in retirement, died 4 Mar 1914, Darmstadt. 
+**Abbreviated name**: *Dippel*
 
 #### Herbarium and types
 

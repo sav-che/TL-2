@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/item/104077#page/780/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33333905) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spach, Édouard (1801-1879), French (Alsatian) botanist; studied natural sciences at Strasbourg; to Paris 1824; "aide naturaliste" at the Paris Muséum d'Histoire naturelle 1829; curator for botany ib. 1854. (*Spach*).
+Spach, Édouard (1801-1879), French (Alsatian) botanist; studied natural sciences at Strasbourg; to Paris 1824; "aide naturaliste" at the Paris Muséum d'Histoire naturelle 1829; curator for botany ib. 1854. 
+**Abbreviated name**: *Spach*
 
 #### Herbarium and types
 

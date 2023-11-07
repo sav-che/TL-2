@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/item/103253#page/834/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33069050) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ledermüller, Martin Frobenius (1719-1769), German "Justizrath" and naturalist at Bayreuth and Nürnberg. (*Lederm.*).
+Ledermüller, Martin Frobenius (1719-1769), German "Justizrath" and naturalist at Bayreuth and Nürnberg. 
+**Abbreviated name**: *Lederm.*
 
 #### Herbarium and types
 

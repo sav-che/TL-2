@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103834#page/380/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33259862) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fournier, Eugène Pierre Nicolas {std. E. Fourn.}|first entry]] for this author
 
 ### Author
 
-\* Fournier, Eugène Pierre Nicolas \[Pierre Nicolas Eugène\] (1834-1884), French physician and botanist, born 15 Feb 1834 in Paris, Dr. en médecine 1861 Paris, Dr. ès-sciences 1865 Paris, from 1855 a member (and also secretary) of the Société Botanique de France, awarded Prix Desmazières 1875, seriously ill in later years, died 20 Jun 1884 in Auteuil (Paris). (*E. Fourn.*).
+\* Fournier, Eugène Pierre Nicolas \[Pierre Nicolas Eugène\] (1834-1884), French physician and botanist, born 15 Feb 1834 in Paris, Dr. en médecine 1861 Paris, Dr. ès-sciences 1865 Paris, from 1855 a member (and also secretary) of the Société Botanique de France, awarded Prix Desmazières 1875, seriously ill in later years, died 20 Jun 1884 in Auteuil (Paris). 
+**Abbreviated name**: *E. Fourn.*
 
 #### Herbarium and types
 

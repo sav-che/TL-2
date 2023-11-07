@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/item/103624#page/1027/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ryan, Elling (1849-1905), Norwegian botanist and pharmacist; pharmac. exam. 1871; later manager of a chemical factory at Graesvik nr Frederikstad; amateur bryologist. (*Ryan*).
+Ryan, Elling (1849-1905), Norwegian botanist and pharmacist; pharmac. exam. 1871; later manager of a chemical factory at Graesvik nr Frederikstad; amateur bryologist. 
+**Abbreviated name**: *Ryan*
 
 #### Herbarium and types
 

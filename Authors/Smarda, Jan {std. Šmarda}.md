@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/item/104077#page/671/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smarda, Jan (1904-1968), Moravian bryologist; Dr. sci. nat. Brno 1938; lecturer (1946) and professor of systematic botany (1954) at the University of Brno; from 1962 working in the Geographical Institute of the Academy of Sciences of CSR. (*Šmarda*).
+Smarda, Jan (1904-1968), Moravian bryologist; Dr. sci. nat. Brno 1938; lecturer (1946) and professor of systematic botany (1954) at the University of Brno; from 1962 working in the Geographical Institute of the Academy of Sciences of CSR. 
+**Abbreviated name**: *Šmarda*
 
 #### Herbarium and types
 

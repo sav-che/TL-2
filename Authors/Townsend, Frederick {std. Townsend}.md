@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103683#page/429/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33212461) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Townsend, Frederick (1822-1905), British landowner and county squire, M.A. Trinity Coll., Cambridge 1855; actively engaged in floristic botany associated with C.C. Babington and W.W. Newbould, resided in Wickham, Hampshire 1865-1874; from 1874 on the family residence, Honington Hall, Warwickshire. (*Townsend*).
+Townsend, Frederick (1822-1905), British landowner and county squire, M.A. Trinity Coll., Cambridge 1855; actively engaged in floristic botany associated with C.C. Babington and W.W. Newbould, resided in Wickham, Hampshire 1865-1874; from 1874 on the family residence, Honington Hall, Warwickshire. 
+**Abbreviated name**: *Townsend*
 
 #### Herbarium and types
 

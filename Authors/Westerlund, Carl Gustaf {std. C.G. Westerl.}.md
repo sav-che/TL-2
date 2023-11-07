@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103250#page/272/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33066552) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Westerlund, Carl Gustaf (1864-1914), Swedish botanist and high school teacher; fil. lic. Uppsala 1894; teacher at Norrköplngs h. läroverk from 1906; son of C.A. Westerlund. (*C.G. Westerl.*).
+Westerlund, Carl Gustaf (1864-1914), Swedish botanist and high school teacher; fil. lic. Uppsala 1894; teacher at Norrköplngs h. läroverk from 1906; son of C.A. Westerlund. 
+**Abbreviated name**: *C.G. Westerl.*
 
 #### Herbarium and types
 

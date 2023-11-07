@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103414#page/189/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33120272) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Battandier, Jules-Aimé {std. Battand.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Battandier, Jules Aimé (1848-1922), French botanist and explorer of Algeria, professor at the medical school of Alger. (*Battand.*).
+Battandier, Jules Aimé (1848-1922), French botanist and explorer of Algeria, professor at the medical school of Alger. 
+**Abbreviated name**: *Battand.*
 
 #### Herbarium and types
 

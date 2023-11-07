@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/104137#page/600/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morini, Fausto (1858-1927), Italian mycologist; originally at Bologna; director of the botanical garden and professor of botany at Sassari 1888-1892; idem at Messina 1892-1897; professor of botany and director of the R. Istituto ed Orto Botanico at Bologna, succeeding Mattirolo, 1897-1927. (*Morini*).
+Morini, Fausto (1858-1927), Italian mycologist; originally at Bologna; director of the botanical garden and professor of botany at Sassari 1888-1892; idem at Messina 1892-1897; professor of botany and director of the R. Istituto ed Orto Botanico at Bologna, succeeding Mattirolo, 1897-1927. 
+**Abbreviated name**: *Morini*
 
 #### Herbarium and types
 

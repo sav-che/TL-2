@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/104137#page/288/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33355359) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mancini, Vincenzo (1853-?), Italian mycologist and ethnologist at Conegliano and Arellino. (*Mancini*).
+Mancini, Vincenzo (1853-?), Italian mycologist and ethnologist at Conegliano and Arellino. 
+**Abbreviated name**: *Mancini*
 
 #### Herbarium and types
 

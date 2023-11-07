@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103253#page/233/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hind, William Marsden (1815-1894), British botanist and clergyman; ultimately rector of Honington, Suffolk. (*Hind*).
+Hind, William Marsden (1815-1894), British botanist and clergyman; ultimately rector of Honington, Suffolk. 
+**Abbreviated name**: *Hind*
 
 #### Herbarium and types
 

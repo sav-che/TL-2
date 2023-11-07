@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/item/104137#page/855/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33355926) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Opatowski, Wilhelm (1810-1838), German physician and botanist at Saarfeld; Dr. med. Berlin 1836. (*Opat.*).
+Opatowski, Wilhelm (1810-1838), German physician and botanist at Saarfeld; Dr. med. Berlin 1836. 
+**Abbreviated name**: *Opat.*
 
 #### Herbarium and types
 

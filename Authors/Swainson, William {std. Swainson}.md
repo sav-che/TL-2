@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103683#page/121/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33212153) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swainson, William (1789-1855), British naturalist and explorer; with the British colonial army in Malta and Sicily 1807-1815; from 1815 on privately active; in Brazil with Henry Koster 1816-1819; working on his – mainly zoologial – collections in England 1818-1840; emigrated to New Zealand 1840; engaged by the Tasmanian and Victorian administrations to report on timber trees 1851-1853. (*Swainson*).
+Swainson, William (1789-1855), British naturalist and explorer; with the British colonial army in Malta and Sicily 1807-1815; from 1815 on privately active; in Brazil with Henry Koster 1816-1819; working on his – mainly zoologial – collections in England 1818-1840; emigrated to New Zealand 1840; engaged by the Tasmanian and Victorian administrations to report on timber trees 1851-1853. 
+**Abbreviated name**: *Swainson*
 
 #### Herbarium and types
 

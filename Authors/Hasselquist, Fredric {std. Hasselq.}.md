@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103253#page/119/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33068335) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hasselquist, Fredric (1722-1752), Swedish explorer of the Levant, pupil of Linnaeus at Uppsala 1741-1749, travelled in the Orient 1749-1752, died at Smyrna. (*Hasselq.*).
+Hasselquist, Fredric (1722-1752), Swedish explorer of the Levant, pupil of Linnaeus at Uppsala 1741-1749, travelled in the Orient 1749-1752, died at Smyrna. 
+**Abbreviated name**: *Hasselq.*
 
 #### Herbarium and types
 

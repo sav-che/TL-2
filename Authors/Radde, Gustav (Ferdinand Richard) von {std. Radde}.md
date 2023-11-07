@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/item/103624#page/548/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33190005) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Radde, Gustav \[Ferdinand Richard\] von (1831-1903), German (Danzig)-born botanist and explorer, later naturalized Russian; in the Crimea 1852-1855; on the Russian Baikal expedition 1855-1860; curator at the St. Petersburg Academy of Sciences 1860-1863; from 1863 at Tiflis, exploring the Caucasus; founder and from 1871 onward director of the Caucasian Museum and travelling further in Caucasia, Armenia, Siberia, the Asiatic tropics and Algeria; Dr. phil. h.c. Dorpat. (*Radde*).
+Radde, Gustav \[Ferdinand Richard\] von (1831-1903), German (Danzig)-born botanist and explorer, later naturalized Russian; in the Crimea 1852-1855; on the Russian Baikal expedition 1855-1860; curator at the St. Petersburg Academy of Sciences 1860-1863; from 1863 at Tiflis, exploring the Caucasus; founder and from 1871 onward director of the Caucasian Museum and travelling further in Caucasia, Armenia, Siberia, the Asiatic tropics and Algeria; Dr. phil. h.c. Dorpat. 
+**Abbreviated name**: *Radde*
 
 #### Herbarium and types
 

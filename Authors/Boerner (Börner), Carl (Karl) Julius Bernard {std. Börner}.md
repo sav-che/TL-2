@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103414#page/300/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33120383) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Börner, Carl Julius Bernhard {std. Börner} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boerner \[Börner\], Carl \[Karl\] Julius Bernard (1880-x), German botanist and entomologist. (*Boerner*).
+Boerner \[Börner\], Carl \[Karl\] Julius Bernard (1880-x), German botanist and entomologist. 
+**Abbreviated name**: *Boerner*
 
 #### Herbarium and types
 

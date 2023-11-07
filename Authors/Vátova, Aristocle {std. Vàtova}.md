@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/item/103683#page/690/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33212722) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vátova, Aristocle (1897-x), Italian botanist; Dr. phil. Torino 1924, later at the Institute for marine biology at Rovigno d'Istria. (*Vàtova*).
+Vátova, Aristocle (1897-x), Italian botanist; Dr. phil. Torino 1924, later at the Institute for marine biology at Rovigno d'Istria. 
+**Abbreviated name**: *Vàtova*
 
 #### Herbarium and types
 

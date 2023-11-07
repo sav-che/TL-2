@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/104137#page/770/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nilsson, Lars Albert (called himself Albert) (1860-1906), Swedish botanist; Dr. phil. Uppsala 1888; curator of the Brazilian collections at S 1889-1890; lecturer at the Stockholm Skogsinstitut (forestry institute) 1890-1906. (*A. Nilsson*).
+Nilsson, Lars Albert (called himself Albert) (1860-1906), Swedish botanist; Dr. phil. Uppsala 1888; curator of the Brazilian collections at S 1889-1890; lecturer at the Stockholm Skogsinstitut (forestry institute) 1890-1906. 
+**Abbreviated name**: *A. Nilsson*
 
 #### Herbarium and types
 

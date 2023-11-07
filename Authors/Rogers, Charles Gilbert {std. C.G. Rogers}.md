@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/item/103624#page/871/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33190328) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rogers, Charles Gilbert (1864-1937), British (English) forester and botanist; in the Indian Forest Service as assistant conservator, Bengal 1888-1890; instructor Indian forestry school, Dehra Dun 1890-1906; conservator Central Provinces 1906-1910, chief conservator Burma 1913-1919; collected in India, Burma and East Africa. (*C.G. Rogers*).
+Rogers, Charles Gilbert (1864-1937), British (English) forester and botanist; in the Indian Forest Service as assistant conservator, Bengal 1888-1890; instructor Indian forestry school, Dehra Dun 1890-1906; conservator Central Provinces 1906-1910, chief conservator Burma 1913-1919; collected in India, Burma and East Africa. 
+**Abbreviated name**: *C.G. Rogers*
 
 #### Herbarium and types
 

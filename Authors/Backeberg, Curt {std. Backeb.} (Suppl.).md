@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/103858#page/249/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33264964) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Backeberg, Curt {std. Backeb.}|first entry]] for this author
 
 ### Author
 
-\* Backeberg, Curt (1894-1966), German author on succulent plants, educated in Lüneburg, merchant with various firms 1919-1924, from 1925 running an export firm oriented towards South America, amateur collector of cacti, travelled widely in Mexico and South America from 1930 publishing extensively on cacti, curator of the botanical garden of J. Marnier-Lapostolle, Les Cèdres, 1951-1955. (*Backeb.*).
+\* Backeberg, Curt (1894-1966), German author on succulent plants, educated in Lüneburg, merchant with various firms 1919-1924, from 1925 running an export firm oriented towards South America, amateur collector of cacti, travelled widely in Mexico and South America from 1930 publishing extensively on cacti, curator of the botanical garden of J. Marnier-Lapostolle, Les Cèdres, 1951-1955. 
+**Abbreviated name**: *Backeb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/item/103253#page/731/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kunze, Karl Sebastian Heinrich (1774-1820), German teacher and botanist at Flensburg. (*K. Kunze*).
+Kunze, Karl Sebastian Heinrich (1774-1820), German teacher and botanist at Flensburg. 
+**Abbreviated name**: *K. Kunze*
 
 #### Herbarium and types
 

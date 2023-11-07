@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/item/104077#page/688/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33333813) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Hamilton Lanphere (1819-1903), American educator, physicist, astronomer, diatomologist and microscopist; A.M. Yale 1839; professor of astronomy and natural philosophy, Kenyon Coll. 1849-1867; professor of physics and astronomy at Hobart College, N.Y. 1867-1900; in retirement 1900-1903 at Yonkers, N.Y. and New London; LL.D. Trinity 1871. (*H.L. Sm.*).
+Smith, Hamilton Lanphere (1819-1903), American educator, physicist, astronomer, diatomologist and microscopist; A.M. Yale 1839; professor of astronomy and natural philosophy, Kenyon Coll. 1849-1867; professor of physics and astronomy at Hobart College, N.Y. 1867-1900; in retirement 1900-1903 at Yonkers, N.Y. and New London; LL.D. Trinity 1871. 
+**Abbreviated name**: *H.L. Sm.*
 
 #### Herbarium and types
 

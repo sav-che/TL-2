@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103253#page/402/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33068618) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hustedt, Friedrich (1886-1968), German diatomologist at Bremen. (*Hust.*).
+Hustedt, Friedrich (1886-1968), German diatomologist at Bremen. 
+**Abbreviated name**: *Hust.*
 
 #### Herbarium and types
 

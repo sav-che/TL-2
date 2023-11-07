@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/104137#page/331/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33355402) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martens, Georg Matthias von (1788-1872), German botanist; government official; studied law at Tübingen 1807-1810; from 1811-1855 secretary of the "Oberjustizkollegium", from 1836 with the title "Kanzleirat", at Stuttgart; Dr. phil. h.c. Tübingen 1863. (*G. Martens*).
+Martens, Georg Matthias von (1788-1872), German botanist; government official; studied law at Tübingen 1807-1810; from 1811-1855 secretary of the "Oberjustizkollegium", from 1836 with the title "Kanzleirat", at Stuttgart; Dr. phil. h.c. Tübingen 1863. 
+**Abbreviated name**: *G. Martens*
 
 #### Herbarium and types
 

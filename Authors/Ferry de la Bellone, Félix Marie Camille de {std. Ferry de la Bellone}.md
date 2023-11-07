@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103834#page/189/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33259671) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferry de la Bellone, Félix Marie Camille de (1839-1895), French physician and mycologist, born 19 Nov 1839 in Saint-Saturnin-lès-Apt (Vaucluse), studied medicine in Paris, president of the Medical Society of Vaucluse, vice-president of the hygienic council of the arrondissement d'Apt, member of the Société Mycologique de France 1886-1895, Légion d'honneur, died 10 Dec 1895 in Apt (Vaucluse). (*Ferry de la Bellone*).
+Ferry de la Bellone, Félix Marie Camille de (1839-1895), French physician and mycologist, born 19 Nov 1839 in Saint-Saturnin-lès-Apt (Vaucluse), studied medicine in Paris, president of the Medical Society of Vaucluse, vice-president of the hygienic council of the arrondissement d'Apt, member of the Société Mycologique de France 1886-1895, Légion d'honneur, died 10 Dec 1895 in Apt (Vaucluse). 
+**Abbreviated name**: *Ferry de la Bellone*
 
 #### Herbarium and types
 

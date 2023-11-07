@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103250#page/296/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33066576) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weyl, Carl Friedrich (1792-1872), German (East-Prussian) botanist and high school teacher; at the Friedrichs-Kolleg in Königsberg i. Pr. 1814, at the Rastenburger Gymnasium from 1817-1858. (*Weyl*).
+Weyl, Carl Friedrich (1792-1872), German (East-Prussian) botanist and high school teacher; at the Friedrichs-Kolleg in Königsberg i. Pr. 1814, at the Rastenburger Gymnasium from 1817-1858. 
+**Abbreviated name**: *Weyl*
 
 #### Herbarium and types
 

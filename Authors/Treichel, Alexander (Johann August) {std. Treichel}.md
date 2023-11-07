@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103683#page/467/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33212499) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Treichel, Alexander \[Johann August\] (1837-1901), German (Prussian) landed proprietor and botanist; studied law and economics at Berlin University from 1859; associated with P. Ascherson, A. Braun, L. Kny and other Berlin botanists; secretary of the Botanische Verein der Provinz Brandenburg 1870-1876; in charge of the family estate Hoch-Paleschken nr. Alt-Kischau, Westpreussen from 1876. (*Treichel*).
+Treichel, Alexander \[Johann August\] (1837-1901), German (Prussian) landed proprietor and botanist; studied law and economics at Berlin University from 1859; associated with P. Ascherson, A. Braun, L. Kny and other Berlin botanists; secretary of the Botanische Verein der Provinz Brandenburg 1870-1876; in charge of the family estate Hoch-Paleschken nr. Alt-Kischau, Westpreussen from 1876. 
+**Abbreviated name**: *Treichel*
 
 #### Herbarium and types
 

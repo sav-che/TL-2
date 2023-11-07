@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/item/103860#page/344/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33266011) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooley, Grace Emily (1857-1916), American botanist, born 26 Jul 1857, East Hartford, Conn., died 27 Jan 1916, Newark, N.Y., at Wellesley 1881-1883 non-grad, MA 1895, Zürich Ph.D., instructor in botany 1883-1896, associate professor 1896-1903, head assistant E. Side High School, Newark, N.Y. (*G.E. Cooley*).
+Cooley, Grace Emily (1857-1916), American botanist, born 26 Jul 1857, East Hartford, Conn., died 27 Jan 1916, Newark, N.Y., at Wellesley 1881-1883 non-grad, MA 1895, Zürich Ph.D., instructor in botany 1883-1896, associate professor 1896-1903, head assistant E. Side High School, Newark, N.Y. 
+**Abbreviated name**: *G.E. Cooley*
 
 #### Herbarium and types
 

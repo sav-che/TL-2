@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/item/103253#page/769/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33068985) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lamy de la Chapelle, Pierre Marie Édouard (1804 \[not 1803\]-1886), French cryptogamist and banker at Limoges. (*Lamy*).
+Lamy de la Chapelle, Pierre Marie Édouard (1804 \[not 1803\]-1886), French cryptogamist and banker at Limoges. 
+**Abbreviated name**: *Lamy*
 
 #### Herbarium and types
 

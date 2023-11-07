@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/item/103624#page/926/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33190383) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rostovzev, Semen Ivanovich (ca. 1862-1916); Russian botanist. (*Rostovzev*).
+Rostovzev, Semen Ivanovich (ca. 1862-1916); Russian botanist. 
+**Abbreviated name**: *Rostovzev*
 
 #### Herbarium and types
 

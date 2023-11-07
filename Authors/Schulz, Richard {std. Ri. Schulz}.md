@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/104077#page/403/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, Richard (*fl*. 1904), German (Silesian) botanist; Dr. phil. Zürich (student of H. Schinz and F.A. Pax) 1904. (*Ri. Schulz*).
+Schulz, Richard (*fl*. 1904), German (Silesian) botanist; Dr. phil. Zürich (student of H. Schinz and F.A. Pax) 1904. 
+**Abbreviated name**: *Ri. Schulz*
 
 #### Herbarium and types
 

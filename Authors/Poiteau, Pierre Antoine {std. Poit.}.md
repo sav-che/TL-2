@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103624#page/337/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33189794) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poiteau, Pierre Antoine (1766-1854), French botanist and botanical artist; gardener at the Jardin des Plantes, Paris 1790; from 1796-1801 at Haiti; subsequently at the botanical garden of the École de médecine and (1855) Chef des Pépinières (Versailles); from 1819-1822 in French Guiana; 1820 professor at an agricultural college in Fromont; ultimately active as editor for the Société d'Horticulture. (*Poit.*).
+Poiteau, Pierre Antoine (1766-1854), French botanist and botanical artist; gardener at the Jardin des Plantes, Paris 1790; from 1796-1801 at Haiti; subsequently at the botanical garden of the École de médecine and (1855) Chef des Pépinières (Versailles); from 1819-1822 in French Guiana; 1820 professor at an agricultural college in Fromont; ultimately active as editor for the Société d'Horticulture. 
+**Abbreviated name**: *Poit.*
 
 #### Herbarium and types
 

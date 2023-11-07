@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103250#page/250/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33066530) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Werdermann, Erich (1892-1959), German (Prussian \[Berlin\]) botanist; studied at the University of Berlin; on active service 1914-1919; Dr. phil. Berlin (student of G.J.F. Haberlandt) 1919; anatomist and plant physiologist Biol. Reichsanstalt Berlin-Dahlem 1919-1920; pharmacognosist at the Reichsgesundheitsamt Berlin 1920-1921; from 1921-1959 with the Botanical Museum and Herbarium Berlin-Dahlem, assistant 1921-1927, curator 1927-1933, professor 1933, interim director 1951-1955, director 1955-1958; professor of botany at the Freie Universität 1955; plant geographer and student of the Cactaceae; travelled in Chile and Bolivia 1923-1927, Brazil 1932, Mexico 1933, Greece 1937, South Africa 1958-1959. (*Werderm.*).
+Werdermann, Erich (1892-1959), German (Prussian \[Berlin\]) botanist; studied at the University of Berlin; on active service 1914-1919; Dr. phil. Berlin (student of G.J.F. Haberlandt) 1919; anatomist and plant physiologist Biol. Reichsanstalt Berlin-Dahlem 1919-1920; pharmacognosist at the Reichsgesundheitsamt Berlin 1920-1921; from 1921-1959 with the Botanical Museum and Herbarium Berlin-Dahlem, assistant 1921-1927, curator 1927-1933, professor 1933, interim director 1951-1955, director 1955-1958; professor of botany at the Freie Universität 1955; plant geographer and student of the Cactaceae; travelled in Chile and Bolivia 1923-1927, Brazil 1932, Mexico 1933, Greece 1937, South Africa 1958-1959. 
+**Abbreviated name**: *Werderm.*
 
 #### Herbarium and types
 

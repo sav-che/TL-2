@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/item/103253#page/595/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33068811) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klotzsch, Johann Friedrich (1805-1860), German botanist at Berlin; curator of the herbarium (1833-1860); outstanding mycologist. (*Klotzsch*).
+Klotzsch, Johann Friedrich (1805-1860), German botanist at Berlin; curator of the herbarium (1833-1860); outstanding mycologist. 
+**Abbreviated name**: *Klotzsch*
 
 #### Herbarium and types
 

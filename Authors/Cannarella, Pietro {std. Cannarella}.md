@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103861#page/401/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33266698) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cannarella, Pietro (fl. 1899-1910), Italian botanist, assistant at the botanical garden at Catania. (*Cannarella*).
+Cannarella, Pietro (fl. 1899-1910), Italian botanist, assistant at the botanical garden at Catania. 
+**Abbreviated name**: *Cannarella*
 
 #### Herbarium and types
 

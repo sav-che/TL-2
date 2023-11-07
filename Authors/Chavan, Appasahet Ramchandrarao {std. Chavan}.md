@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103860#page/79/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265746) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chavan, Appasahet Ramchandrarao (fl. 1930-1970), Indian botanist, studied at Baroda College of the University of Bombay, B.Sc. ib. 1931, studied further at the University of Nebraska, Ph.D. 1937, later at the University of Baroda. (*Chavan*).
+Chavan, Appasahet Ramchandrarao (fl. 1930-1970), Indian botanist, studied at Baroda College of the University of Bombay, B.Sc. ib. 1931, studied further at the University of Nebraska, Ph.D. 1937, later at the University of Baroda. 
+**Abbreviated name**: *Chavan*
 
 #### Herbarium and types
 

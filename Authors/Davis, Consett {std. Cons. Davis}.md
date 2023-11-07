@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103833#page/117/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33259151) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davis, Consett (fl. 1936), Australian botanist in New South Wales, with the Botany department of Sydney University. (*Cons. Davis*).
+Davis, Consett (fl. 1936), Australian botanist in New South Wales, with the Botany department of Sydney University. 
+**Abbreviated name**: *Cons. Davis*
 
 #### Note
 

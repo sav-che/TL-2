@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/item/103683#page/724/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33212756) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Verschaffelt, Ambroise Golette Alexandre (1825-1886), Belgian horticulturist at Gent \[Gand\]; from 1850 in charge of the horticultural firm founded by his grandfather Pierre Antoine and his father Alexandre Jacques Verschaffelt; sold his firm to Jean Linden 1869, remaining active as private and consulting horticulturist. (*Verschaff.*).
+Verschaffelt, Ambroise Golette Alexandre (1825-1886), Belgian horticulturist at Gent \[Gand\]; from 1850 in charge of the horticultural firm founded by his grandfather Pierre Antoine and his father Alexandre Jacques Verschaffelt; sold his firm to Jean Linden 1869, remaining active as private and consulting horticulturist. 
+**Abbreviated name**: *Verschaff.*
 
 #### Herbarium and types
 

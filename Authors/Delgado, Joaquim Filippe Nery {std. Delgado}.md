@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/item/103414#page/664/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delgado, Joaquim Filippe Nery (1835-1908), Portuguese palaeobotanist. (*Delgado*).
+Delgado, Joaquim Filippe Nery (1835-1908), Portuguese palaeobotanist. 
+**Abbreviated name**: *Delgado*
 
 #### Collections
 

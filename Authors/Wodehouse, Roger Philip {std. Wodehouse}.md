@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103250#page/474/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33066754) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wodehouse, Roger Philip (1889-1978), Canadian botanist, palynologist and allergist; A.B. Univ. Toronto 1913, A.M. Harvard 1916; Dr. phil. Columbia 1927; came to the U.S.A. 1930; naturalized U.S. citizen 1942; protein chemist with J.L. Goodale in Boston 1915-1916; botanist on hayfever and asthma P.B. Brigham Hosp., Boston 1916-1917; director Hayfever Lab., Arlington Chem. Co. Yonkers, N.Y. 1911-1944; id. Lederle Laboratories, Pearl River 1944-1957; on active service in Royal Air Force in World War I. (*Wodehouse*).
+Wodehouse, Roger Philip (1889-1978), Canadian botanist, palynologist and allergist; A.B. Univ. Toronto 1913, A.M. Harvard 1916; Dr. phil. Columbia 1927; came to the U.S.A. 1930; naturalized U.S. citizen 1942; protein chemist with J.L. Goodale in Boston 1915-1916; botanist on hayfever and asthma P.B. Brigham Hosp., Boston 1916-1917; director Hayfever Lab., Arlington Chem. Co. Yonkers, N.Y. 1911-1944; id. Lederle Laboratories, Pearl River 1944-1957; on active service in Royal Air Force in World War I. 
+**Abbreviated name**: *Wodehouse*
 
 #### Herbarium and types
 

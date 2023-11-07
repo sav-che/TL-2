@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/item/103253#page/565/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33068781) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kihlman, Alfred Oswald \[after 1906: Kairamo\] (1858-1938), Finnish botanist at Helsinki and Hattula (*Kihlm.*).
+Kihlman, Alfred Oswald \[after 1906: Kairamo\] (1858-1938), Finnish botanist at Helsinki and Hattula 
+**Abbreviated name**: *Kihlm.*
 
 #### Herbarium and types
 

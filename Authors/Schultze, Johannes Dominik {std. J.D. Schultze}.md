@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/104077#page/396/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33333521) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultze, Johannes Dominik (1752-1790), German (Hamburg) physician; studied at Göttingen 1772-1775; Dr. med. 1775; practicing physician in Hamburg 1776. (*J.D. Schultze*).
+Schultze, Johannes Dominik (1752-1790), German (Hamburg) physician; studied at Göttingen 1772-1775; Dr. med. 1775; practicing physician in Hamburg 1776. 
+**Abbreviated name**: *J.D. Schultze*
 
 #### Herbarium and types
 

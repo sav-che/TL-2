@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103414#page/139/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33120222) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bagnall, James Eustace {std. Bagn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bagnall, James Eustace (1830-1918), British bryologist. (*Bagn.*).
+Bagnall, James Eustace (1830-1918), British bryologist. 
+**Abbreviated name**: *Bagn.*
 
 #### Herbarium and types
 

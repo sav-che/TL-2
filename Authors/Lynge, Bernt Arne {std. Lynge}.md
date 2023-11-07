@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/104137#page/217/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33355288) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lynge, Bernt Arne (1884-1942), Norwegian lichenologist; Dr. phil. Oslo 1917; lecturer (1918) and professor (1935) of botany at Oslo University. (*Lynge*).
+Lynge, Bernt Arne (1884-1942), Norwegian lichenologist; Dr. phil. Oslo 1917; lecturer (1918) and professor (1935) of botany at Oslo University. 
+**Abbreviated name**: *Lynge*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103253#page/168/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heldreich, Theodor von (1822-1902), German-born botanist; in Greece from 1843-1849 and 1851-1902; plant collector and director of the Athens botanical garden and natural history museum. (*Heldr.*).
+Heldreich, Theodor von (1822-1902), German-born botanist; in Greece from 1843-1849 and 1851-1902; plant collector and director of the Athens botanical garden and natural history museum. 
+**Abbreviated name**: *Heldr.*
 
 #### Herbarium and types
 

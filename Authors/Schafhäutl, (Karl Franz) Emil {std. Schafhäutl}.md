@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/104077#page/128/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schafhäutl, \[Karl Franz\] Emil (1803-1890), German (Bavarian) self-made polyhistor and palaeontologist; Dr. phil. Dublin 1835, Dr. med. ib. 1838; curator (1842) of the State geological collections at München; professor of geology ib. 1843. (*Schafhäutl*).
+Schafhäutl, \[Karl Franz\] Emil (1803-1890), German (Bavarian) self-made polyhistor and palaeontologist; Dr. phil. Dublin 1835, Dr. med. ib. 1838; curator (1842) of the State geological collections at München; professor of geology ib. 1843. 
+**Abbreviated name**: *Schafhäutl*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103253#page/243/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hjelt, Albert Hjalmar (1851-1925), Finnish botanist and high school teacher; Dr. phil. Helsinki 1892; high school teacher at Helsinki 1877-1878, lecturer at Nykarleby 1878-1879, from 1879-1909 idem at the lyceum of Vasa; from 1911-1917 school inspector. (*Hjelt*).
+Hjelt, Albert Hjalmar (1851-1925), Finnish botanist and high school teacher; Dr. phil. Helsinki 1892; high school teacher at Helsinki 1877-1878, lecturer at Nykarleby 1878-1879, from 1879-1909 idem at the lyceum of Vasa; from 1911-1917 school inspector. 
+**Abbreviated name**: *Hjelt*
 
 #### Herbarium and types
 

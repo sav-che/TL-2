@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103624#page/104/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33189561) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pasquale, Fortunato (1856-1917), Italian botanist and agronomist at Napoli; son of Giuseppe Antonio Pasquale; connected with the R. Istituto Tecnico di Napoli. (*F. Pasq.*).
+Pasquale, Fortunato (1856-1917), Italian botanist and agronomist at Napoli; son of Giuseppe Antonio Pasquale; connected with the R. Istituto Tecnico di Napoli. 
+**Abbreviated name**: *F. Pasq.*
 
 #### Herbarium and types
 

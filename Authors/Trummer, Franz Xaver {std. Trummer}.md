@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/103683#page/523/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trummer, Franz Xaver (x-1858), Austrian gardener at the agricultural experiment garden at Graz, specialized in fruit-growing and wine-making. (*Trummer*).
+Trummer, Franz Xaver (x-1858), Austrian gardener at the agricultural experiment garden at Graz, specialized in fruit-growing and wine-making. 
+**Abbreviated name**: *Trummer*
 
 #### Herbarium and types
 

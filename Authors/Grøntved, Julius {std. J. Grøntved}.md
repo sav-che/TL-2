@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103832#page/421/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33258887) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grøntved, Julius (1899-1967), Danish algologist interested in diatoms and phytoplankton, Mag. scient., Univ. Planteanatomiske Laboratorium, Copenhagen 1931 (at least), Plankton-Laboratoriet, Copenhagen 1945 (at least). (*J. Grøntved*).
+Grøntved, Julius (1899-1967), Danish algologist interested in diatoms and phytoplankton, Mag. scient., Univ. Planteanatomiske Laboratorium, Copenhagen 1931 (at least), Plankton-Laboratoriet, Copenhagen 1945 (at least). 
+**Abbreviated name**: *J. Grøntved*
 
 #### Note
 

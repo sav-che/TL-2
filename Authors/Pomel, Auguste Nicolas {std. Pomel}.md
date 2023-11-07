@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103624#page/347/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33189804) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pomel, Auguste Nicolas (1821-1898), French botanist and geologist; deported to Algeria 1852; in various administrative functions 1856-1870; in various political posts in Algeria and Paris 1870-1880; in the "Service" of the geological mapping of Algeria 1882, director 1885-1895. (*Pomel*).
+Pomel, Auguste Nicolas (1821-1898), French botanist and geologist; deported to Algeria 1852; in various administrative functions 1856-1870; in various political posts in Algeria and Paris 1870-1880; in the "Service" of the geological mapping of Algeria 1882, director 1885-1895. 
+**Abbreviated name**: *Pomel*
 
 #### Herbarium and types
 

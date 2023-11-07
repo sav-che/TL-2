@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/item/103414#page/504/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33120587) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cariot, Antoine {std. Cariot} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cariot, Antoine, Abbé (1820-1883), French clergyman and botanist at Sainte-Foy-les-Lyon. (*Cariot*).
+Cariot, Antoine, Abbé (1820-1883), French clergyman and botanist at Sainte-Foy-les-Lyon. 
+**Abbreviated name**: *Cariot*
 
 #### Herbarium and types
 

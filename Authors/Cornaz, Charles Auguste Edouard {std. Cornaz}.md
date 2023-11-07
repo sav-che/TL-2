@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/103860#page/371/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33266038) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cornaz, Charles Auguste Edouard (1825-1911), French-Swiss physician and botanist, born Marseille 29 Sep 1825, died 1911, Neuchâtel, Suisse, Dr. méd., physician at Neuchâtel, Suisse. (*Cornaz*).
+Cornaz, Charles Auguste Edouard (1825-1911), French-Swiss physician and botanist, born Marseille 29 Sep 1825, died 1911, Neuchâtel, Suisse, Dr. méd., physician at Neuchâtel, Suisse. 
+**Abbreviated name**: *Cornaz*
 
 #### Herbarium and types
 

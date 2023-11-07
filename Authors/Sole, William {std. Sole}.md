@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/item/104077#page/737/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33333862) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sole, William (1741-1802), British apothecary and botanist at Bath. (*Sole*).
+Sole, William (1741-1802), British apothecary and botanist at Bath. 
+**Abbreviated name**: *Sole*
 
 #### Herbarium and types
 

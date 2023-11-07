@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/104137#page/22/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33355121) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Li, Hui-Lin (1911-x), Chinese botanist, MS Yenching University; Ph. D. Harvard 1942; at Univ. of Pennsylvania 1943-1946; professor of botany at Soochow Univ., China, 1946-1947; id. at National Taiwan University 1947-1950; from 1952 in various functions at the University of Pennsylvania, from 1974 John Bartram professor of botany; naturalized U.S. citizen 1962. (*Li*).
+Li, Hui-Lin (1911-x), Chinese botanist, MS Yenching University; Ph. D. Harvard 1942; at Univ. of Pennsylvania 1943-1946; professor of botany at Soochow Univ., China, 1946-1947; id. at National Taiwan University 1947-1950; from 1952 in various functions at the University of Pennsylvania, from 1974 John Bartram professor of botany; naturalized U.S. citizen 1962. 
+**Abbreviated name**: *Li*
 
 #### Herbarium and types
 

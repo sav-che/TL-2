@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103858#page/230/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33264945) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Axell, Johan Severin (1843-1892), Swedish botanist, studied at Uppsala University 1861-1869, Dr. phil. ib. 1869, lecturer in botany 1869-1870, ultimately wholesale dealer 1870-1891, died 1892 at Wiesbaden. (*Axell*).
+Axell, Johan Severin (1843-1892), Swedish botanist, studied at Uppsala University 1861-1869, Dr. phil. ib. 1869, lecturer in botany 1869-1870, ultimately wholesale dealer 1870-1891, died 1892 at Wiesbaden. 
+**Abbreviated name**: *Axell*
 
 #### Herbarium and types
 

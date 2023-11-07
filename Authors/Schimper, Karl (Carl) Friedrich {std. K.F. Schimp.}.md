@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/104077#page/179/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33333304) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schimper, Karl \["Carl"\] Friedrich (1803-1867), German naturalist, philosopher, poet, botanist and morphologist; originator of the theory of the ice-ages; brother of G.H.W. Schimper; cousin of W.P. Schimper; Dr. phil. München 1829; in München until 1841, later in Zweibrücken and Mannheim; from 1849 in Schwetzingen except for a stay in Jena 1854-1855. (*K.F. Schimp.*).
+Schimper, Karl \["Carl"\] Friedrich (1803-1867), German naturalist, philosopher, poet, botanist and morphologist; originator of the theory of the ice-ages; brother of G.H.W. Schimper; cousin of W.P. Schimper; Dr. phil. München 1829; in München until 1841, later in Zweibrücken and Mannheim; from 1849 in Schwetzingen except for a stay in Jena 1854-1855. 
+**Abbreviated name**: *K.F. Schimp.*
 
 #### Herbarium and types
 

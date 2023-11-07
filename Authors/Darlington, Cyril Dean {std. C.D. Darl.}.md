@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103833#page/82/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33259116) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darlington, Cyril Dean (1903-x), British geneticist and cytologist, born at Chorley, England 19 Dec 1903, studied at the University of London, B.Sc.Agr. 1923, at the John Innes Horticultural Institution, Merton (London), from 1 October 1939 director. (*C.D. Darl.*).
+Darlington, Cyril Dean (1903-x), British geneticist and cytologist, born at Chorley, England 19 Dec 1903, studied at the University of London, B.Sc.Agr. 1923, at the John Innes Horticultural Institution, Merton (London), from 1 October 1939 director. 
+**Abbreviated name**: *C.D. Darl.*
 
 #### Herbarium and types
 

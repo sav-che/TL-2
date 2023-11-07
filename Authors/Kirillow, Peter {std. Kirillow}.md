@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/item/103253#page/575/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33068791) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirillow, Peter (*fl*. 1849), Russian botanist and physician at Charkow. (*Kirillow*).
+Kirillow, Peter (*fl*. 1849), Russian botanist and physician at Charkow. 
+**Abbreviated name**: *Kirillow*
 
 #### Herbarium and types
 

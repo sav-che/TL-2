@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103832#page/301/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33258767) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gomes, Bernardino António (filius) (1806-1877), Portuguese physician and botanist, born 22 Sep 1806 in Lisbon, bachelor degree in mathematics, Univ. of Coimbra, Dr. en médecine Paris, dir., Naval Hospital, doctor of the Real Câmara, president, Society of Medical Sciences of Lisbon, founder and editor, *Gazeta Médica*, died 8 Apr 1877 in Lisbon. (*Gomes f.*).
+Gomes, Bernardino António (filius) (1806-1877), Portuguese physician and botanist, born 22 Sep 1806 in Lisbon, bachelor degree in mathematics, Univ. of Coimbra, Dr. en médecine Paris, dir., Naval Hospital, doctor of the Real Câmara, president, Society of Medical Sciences of Lisbon, founder and editor, *Gazeta Médica*, died 8 Apr 1877 in Lisbon. 
+**Abbreviated name**: *Gomes f.*
 
 #### Note
 

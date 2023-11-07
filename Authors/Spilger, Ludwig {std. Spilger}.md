@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/item/104077#page/805/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spilger, Ludwig (1881-1941), German (Hessen) botanist and historian of botany; Dr. phil. Giessen 1903; teacher at the Bentheim teacher's college 1909-1927; "Oberstudienrat" at the Pädagogische Akademie, Technische Hochschule Darmstadt, 1927. (*Spilger*).
+Spilger, Ludwig (1881-1941), German (Hessen) botanist and historian of botany; Dr. phil. Giessen 1903; teacher at the Bentheim teacher's college 1909-1927; "Oberstudienrat" at the Pädagogische Akademie, Technische Hochschule Darmstadt, 1927. 
+**Abbreviated name**: *Spilger*
 
 #### Herbarium and types
 

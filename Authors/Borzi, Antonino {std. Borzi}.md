@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103414#page/335/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33120418) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Borzi, Antonino {std. Borzi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Borzi, Antonino (1852-1921), Italian botanist at Messina and Palermo. (*Borzi*).
+Borzi, Antonino (1852-1921), Italian botanist at Messina and Palermo. 
+**Abbreviated name**: *Borzi*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103414#page/209/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33120292) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Becker, Johannes {std. Becker} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Becker, Johannes (1769-1833), German botanist, "Stifts-botanikus" of the Senckenberg Institute at Frankfurt a.M. (*Becker*).
+Becker, Johannes (1769-1833), German botanist, "Stifts-botanikus" of the Senckenberg Institute at Frankfurt a.M. 
+**Abbreviated name**: *Becker*
 
 #### Herbarium and types
 

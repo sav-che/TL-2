@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103624#page/116/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33189573) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Patout, Marie Rose (*fl*. 1864), French herbalist and midwife at Toulon (*Patout*).
+Patout, Marie Rose (*fl*. 1864), French herbalist and midwife at Toulon 
+**Abbreviated name**: *Patout*
 
 #### Herbarium and types
 

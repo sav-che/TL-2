@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103683#page/210/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33212242) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teichmeyer, Hermann Friedrich (1685-1744), German (Hannoverian) physician, physicist and botanist; professor of experimental physics Jena 1717; extraordinary professor of medicine 1719, from 1727 in ordinary professor of botany, surgery and anatomy; physician in ordinary, Weimar. (*Teichmeyer*).
+Teichmeyer, Hermann Friedrich (1685-1744), German (Hannoverian) physician, physicist and botanist; professor of experimental physics Jena 1717; extraordinary professor of medicine 1719, from 1727 in ordinary professor of botany, surgery and anatomy; physician in ordinary, Weimar. 
+**Abbreviated name**: *Teichmeyer*
 
 #### Herbarium and types
 

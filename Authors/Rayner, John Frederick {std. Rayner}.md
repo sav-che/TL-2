@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/103624#page/624/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33190081) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rayner, John Frederick (1854-1947), British florist and naturalist at Swaythling, Southampton. (*Rayner*).
+Rayner, John Frederick (1854-1947), British florist and naturalist at Swaythling, Southampton. 
+**Abbreviated name**: *Rayner*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103860#page/120/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33265787) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chipman, Ruth Harriet (née Hayes) (1895-x), American botanist, educated at Wesley, Ill., B.S. 1917, at University of Michigan A.M. 1921, Ph.D. 1923, Instructor Ill. Wesleyan 1917-1920, assistant professor 1922-1924. (*R.H. Chipman*).
+Chipman, Ruth Harriet (née Hayes) (1895-x), American botanist, educated at Wesley, Ill., B.S. 1917, at University of Michigan A.M. 1921, Ph.D. 1923, Instructor Ill. Wesleyan 1917-1920, assistant professor 1922-1924. 
+**Abbreviated name**: *R.H. Chipman*
 
 #### Herbarium and types
 

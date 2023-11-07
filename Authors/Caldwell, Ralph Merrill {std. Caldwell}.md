@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/103861#page/321/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33266618) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caldwell, Ralph Merrill (1903-x), American botanist and phytopathologist at the Division of Cereal Crops and Diseases, Bureau of Plant Industry, USDA. (*Caldwell*).
+Caldwell, Ralph Merrill (1903-x), American botanist and phytopathologist at the Division of Cereal Crops and Diseases, Bureau of Plant Industry, USDA. 
+**Abbreviated name**: *Caldwell*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103414#page/238/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33120321) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergius, Peter Jonas (1730-1790), Swedish physician and botanist, pupil of Linnaeus, professor of natural history and pharmacy at the Collegium medicum in Stockholm (1766-1790). (*Bergius*).
+Bergius, Peter Jonas (1730-1790), Swedish physician and botanist, pupil of Linnaeus, professor of natural history and pharmacy at the Collegium medicum in Stockholm (1766-1790). 
+**Abbreviated name**: *Bergius*
 
 #### Herbarium and types
 

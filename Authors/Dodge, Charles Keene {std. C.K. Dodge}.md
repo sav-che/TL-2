@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103835#page/27/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33260005) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dodge, Charles Keene (1844-1918), American botanist, born at Blackman, Jackson Co. (Michigan) 26 Apr 1844, died 22 Mar 1918, Ann Arbor (Michigan), attended county and city school and went in 1865 to Ann Arbor, entering Univ. Ann Arbor 1866, graduated 1870, studied law, to the bar 1875, practiced law until 1893, Deputy U.S. Customs Inspector 1893-1918. (*C.K. Dodge*).
+Dodge, Charles Keene (1844-1918), American botanist, born at Blackman, Jackson Co. (Michigan) 26 Apr 1844, died 22 Mar 1918, Ann Arbor (Michigan), attended county and city school and went in 1865 to Ann Arbor, entering Univ. Ann Arbor 1866, graduated 1870, studied law, to the bar 1875, practiced law until 1893, Deputy U.S. Customs Inspector 1893-1918. 
+**Abbreviated name**: *C.K. Dodge*
 
 #### Herbarium and types
 

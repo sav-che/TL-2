@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103859#page/402/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33265589) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bourguignat, Jules-René (1829-1892), French palaeontologist, botanist and malacologist, associated with the Museum of Saint Germain-en-Laye. (*Bourguignat*).
+Bourguignat, Jules-René (1829-1892), French palaeontologist, botanist and malacologist, associated with the Museum of Saint Germain-en-Laye. 
+**Abbreviated name**: *Bourguignat*
 
 #### Herbarium and types
 

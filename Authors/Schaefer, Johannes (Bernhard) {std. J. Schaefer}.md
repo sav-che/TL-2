@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/104077#page/117/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaefer, Johannes \[Bernhard\] (1864-?), German (Prussian-Saxony) botanist; Dr. phil. Marburg 1889; high school teacher at Altkirch. (*J. Schaefer*).
+Schaefer, Johannes \[Bernhard\] (1864-?), German (Prussian-Saxony) botanist; Dr. phil. Marburg 1889; high school teacher at Altkirch. 
+**Abbreviated name**: *J. Schaefer*
 
 #### Herbarium and types
 

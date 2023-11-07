@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103860#page/57/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chancerel, Lucien (1858-x), French botanist, born 1858, at Paris. (*Chanc.*).
+Chancerel, Lucien (1858-x), French botanist, born 1858, at Paris. 
+**Abbreviated name**: *Chanc.*
 
 #### Herbarium and types
 

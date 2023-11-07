@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/item/103624#page/1025/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruttner, Franz (1882-1961), Sudeten-German (Bohemia-born) limnologist, hydrobiologist and botanist; studied with H. Molisch at Praha (Karls-Universität); Dr. phil. ib. 1906; assistant at the Biological Station of Lunz am See, Austria, 1906-1908; director ib. 1908– 1957; habil. University of Vienna 1924; professor of hydrobiology 1927; with A. Thienemann on the Deutsche limnologische Sunda-Expedition 1928-1929; Einar Naumann medal 1942. (*Ruttner*).
+Ruttner, Franz (1882-1961), Sudeten-German (Bohemia-born) limnologist, hydrobiologist and botanist; studied with H. Molisch at Praha (Karls-Universität); Dr. phil. ib. 1906; assistant at the Biological Station of Lunz am See, Austria, 1906-1908; director ib. 1908– 1957; habil. University of Vienna 1924; professor of hydrobiology 1927; with A. Thienemann on the Deutsche limnologische Sunda-Expedition 1928-1929; Einar Naumann medal 1942. 
+**Abbreviated name**: *Ruttner*
 
 #### Herbarium and types
 

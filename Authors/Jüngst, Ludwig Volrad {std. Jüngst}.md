@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/item/103253#page/492/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33068708) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jüngst, Ludwig Volrad (1804-1880), German botanist at Bielefeld. (*Jüngst*).
+Jüngst, Ludwig Volrad (1804-1880), German botanist at Bielefeld. 
+**Abbreviated name**: *Jüngst*
 
 #### Herbarium and types
 

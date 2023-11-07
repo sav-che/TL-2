@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103683#page/267/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33212299) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thiébaut, Jean (x-1953), French botanist; student of the flora of Lebanon and Syria. (*Thiébaut*).
+Thiébaut, Jean (x-1953), French botanist; student of the flora of Lebanon and Syria. 
+**Abbreviated name**: *Thiébaut*
 
 #### Herbarium and types
 

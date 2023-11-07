@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/item/103414#page/880/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fiori, Adriano {std. Fiori} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fiori, Adriano (1865-1950), Italian botanist. (*Fiori*).
+Fiori, Adriano (1865-1950), Italian botanist. 
+**Abbreviated name**: *Fiori*
 
 #### Herbarium and types
 

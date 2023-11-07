@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103414#page/368/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33120451) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bretschneider, Emil (Vasilievic) {std. Bretschn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bretschneider, Emil (Vasilievic) (1833-1901), Esthonian botanist who worked in St. Petersburg. (*Bretschneider*).
+Bretschneider, Emil (Vasilievic) (1833-1901), Esthonian botanist who worked in St. Petersburg. 
+**Abbreviated name**: *Bretschneider*
 
 #### Herbarium and types
 

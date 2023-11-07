@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103414#page/248/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernoulli, Karl (Carl) Gustav {std. Bernoulli} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bernoulli, Carl Gustav (1834-1878), Swiss naturalist, resident in Guatemala 1858-1878. (*Bernouilli*).
+Bernoulli, Carl Gustav (1834-1878), Swiss naturalist, resident in Guatemala 1858-1878. 
+**Abbreviated name**: *Bernouilli*
 
 #### Herbarium and types
 

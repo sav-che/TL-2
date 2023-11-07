@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/item/103624#page/386/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33189843) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Praeger, Robert Lloyd (1865-1953), Irish botanist; BA Belfast 1885; practicing engineer 1886-1893; assistant librarian National Library of Ireland 1893, chief librarian 1920-1924; in retirement dedicating himself fully to his floristic studies. (*Praeger*).
+Praeger, Robert Lloyd (1865-1953), Irish botanist; BA Belfast 1885; practicing engineer 1886-1893; assistant librarian National Library of Ireland 1893, chief librarian 1920-1924; in retirement dedicating himself fully to his floristic studies. 
+**Abbreviated name**: *Praeger*
 
 #### Herbarium and types
 

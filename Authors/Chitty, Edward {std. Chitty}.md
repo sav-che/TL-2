@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103860#page/122/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33265789) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chitty, Edward (1804-1863), British legal reporter, barrister 1829 in London, from 1839 living in Jamaica, having a garden. (*Chitty*).
+Chitty, Edward (1804-1863), British legal reporter, barrister 1829 in London, from 1839 living in Jamaica, having a garden. 
+**Abbreviated name**: *Chitty*
 
 #### Herbarium and types
 

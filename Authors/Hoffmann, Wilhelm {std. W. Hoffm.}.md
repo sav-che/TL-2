@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103253#page/271/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33068487) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoffmann, Wilhelm (1856-x), German diatomologist; educated at Marburg, Berlin and Heidelberg; from 1882 high school teacher at the gymnasia of Siegen and Bielefeld. (*W. Hoffm.*).
+Hoffmann, Wilhelm (1856-x), German diatomologist; educated at Marburg, Berlin and Heidelberg; from 1882 high school teacher at the gymnasia of Siegen and Bielefeld. 
+**Abbreviated name**: *W. Hoffm.*
 
 #### Herbarium and types
 

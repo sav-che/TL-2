@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103832#page/475/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33258941) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gussone, Giovanni {std. Guss.}|first entry]] for this author
 
 ### Author
 
-\* Gussone, Giovanni (1787-1866), Italian botanist, born 18 Feb 1787 in Villamina (Avellino), studied medicine, Univ. of Naples 1811, began collaborating with Michele Tenore in 1810 while still a student, dir., botanical gardens in Boccadifalco nr. Palermo and Caserta nr. Naples, succeeded Tenore as dir., botanical gardens in Naples 1861, died 14 Jan 1866 in Naples. (*Guss.*).
+\* Gussone, Giovanni (1787-1866), Italian botanist, born 18 Feb 1787 in Villamina (Avellino), studied medicine, Univ. of Naples 1811, began collaborating with Michele Tenore in 1810 while still a student, dir., botanical gardens in Boccadifalco nr. Palermo and Caserta nr. Naples, succeeded Tenore as dir., botanical gardens in Naples 1861, died 14 Jan 1866 in Naples. 
+**Abbreviated name**: *Guss.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103860#page/361/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33266028) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Corbett, Lee Cleveland (1867-?), American horticulturist, born at Watkins, N.Y., 21 Oct 1867, B.S. Cornell 1890, M.S. 1896, professor horticulturist Cornell 1891-1893, id. at S. Dakota College 1893-1895, id. West Virginia 1895-1901, U.S.D.A. 1901-1913 asst. chief Bureau Plant Industry, 1913-1914 senior horticulturist, 1915-1930, prim. horticulturist crops and diseases 1930-x. (*Corbett*).
+Corbett, Lee Cleveland (1867-?), American horticulturist, born at Watkins, N.Y., 21 Oct 1867, B.S. Cornell 1890, M.S. 1896, professor horticulturist Cornell 1891-1893, id. at S. Dakota College 1893-1895, id. West Virginia 1895-1901, U.S.D.A. 1901-1913 asst. chief Bureau Plant Industry, 1913-1914 senior horticulturist, 1915-1930, prim. horticulturist crops and diseases 1930-x. 
+**Abbreviated name**: *Corbett*
 
 #### Herbarium and types
 

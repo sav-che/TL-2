@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103859#page/345/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33265532) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borg, Väinö Gabriel \[after 1906: K.G. Kivilinna\] (1875-1950), Finnish botanist. (*V. Borg*).
+Borg, Väinö Gabriel \[after 1906: K.G. Kivilinna\] (1875-1950), Finnish botanist. 
+**Abbreviated name**: *V. Borg*
 
 #### Herbarium and types
 

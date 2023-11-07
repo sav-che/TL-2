@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/104077#page/81/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33333206) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saunders, James (1839-1925), English botanist and geologist, and straw-hat and bonnet manufacturer at Luton. (*J. Saunders*).
+Saunders, James (1839-1925), English botanist and geologist, and straw-hat and bonnet manufacturer at Luton. 
+**Abbreviated name**: *J. Saunders*
 
 #### Herbarium and types
 

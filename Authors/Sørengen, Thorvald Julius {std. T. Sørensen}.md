@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/104077#page/733/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sørengen, Thorvald Julius (1902-1973), Danish botanist; Mag. Sci. Copenhagen 1929; Dr. phil. 1941; scientific assistant at the Botanical Museum ib. 1935-1943; id. at the Agricultural College 1943, lecturer 1948, professor of botany 1953; professor of botany at Copenhagen University, and director of the Botanical Garden and Museum 1955-1972. (*T. Sørensen*).
+Sørengen, Thorvald Julius (1902-1973), Danish botanist; Mag. Sci. Copenhagen 1929; Dr. phil. 1941; scientific assistant at the Botanical Museum ib. 1935-1943; id. at the Agricultural College 1943, lecturer 1948, professor of botany 1953; professor of botany at Copenhagen University, and director of the Botanical Garden and Museum 1955-1972. 
+**Abbreviated name**: *T. Sørensen*
 
 #### Herbarium and types
 

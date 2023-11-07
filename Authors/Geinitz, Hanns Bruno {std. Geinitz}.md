@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/item/103414#page/977/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geinitz, Hanns Bruno (1814-1900), German mineralogist, geologist and palaeontologist at Dresden. (*Geinitz*).
+Geinitz, Hanns Bruno (1814-1900), German mineralogist, geologist and palaeontologist at Dresden. 
+**Abbreviated name**: *Geinitz*
 
 #### Collections
 

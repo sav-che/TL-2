@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/103833#page/142/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33259176) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Debold, Rudolf (fl. 1892), German pharmacist, born at Offenburg (Baden), studied at the University of Munich with Radlkofer and Solereder. (*Debold*).
+Debold, Rudolf (fl. 1892), German pharmacist, born at Offenburg (Baden), studied at the University of Munich with Radlkofer and Solereder. 
+**Abbreviated name**: *Debold*
 
 #### Herbarium and types
 

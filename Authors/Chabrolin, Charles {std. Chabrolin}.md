@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103860#page/46/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265713) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chabrolin, Charles (fl. 1938), French mycologist. (*Chabrolin*).
+Chabrolin, Charles (fl. 1938), French mycologist. 
+**Abbreviated name**: *Chabrolin*
 
 #### Herbarium and types
 

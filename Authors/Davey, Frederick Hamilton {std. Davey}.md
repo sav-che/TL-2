@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/item/103414#page/649/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Davey, Frederick Hamilton {std. Davey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Davey, Frederick Hamilton (1868-1915), British botanist in Cornwall. (*Davey*).
+Davey, Frederick Hamilton (1868-1915), British botanist in Cornwall. 
+**Abbreviated name**: *Davey*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103861#page/173/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33266470) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunner, C. fils (fl. 1846), Swiss student at the University of Genève, student of Alphonse de Candolle. (*C. Brunner fils*).
+Brunner, C. fils (fl. 1846), Swiss student at the University of Genève, student of Alphonse de Candolle. 
+**Abbreviated name**: *C. Brunner fils*
 
 #### Herbarium and types
 

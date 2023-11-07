@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103832#page/96/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33258562) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fyson, Philip Furley (1877-1947), Japanese-born British teacher and sometime botanist, born 17 Apr 1877 in Niigata, Japan of missionary parents, educated in Scotland, attended Cambridge, succeeded Alfred Gibbs Bourne (1859-1940) as prof. of biology 1904-1912 and then prof. of botany 1912-1920, Presidency College, Madras, India, inspector of schools for Vishakapatnam and Ganjam 1920-1925, returned to the Presidency College as principal 1925-1932, F.L.S., retired 1932 and settled in England, died 26 Dec 1947 in Rushwick (Worcs.) after being struck by a car while bicycling. (*Fyson*).
+Fyson, Philip Furley (1877-1947), Japanese-born British teacher and sometime botanist, born 17 Apr 1877 in Niigata, Japan of missionary parents, educated in Scotland, attended Cambridge, succeeded Alfred Gibbs Bourne (1859-1940) as prof. of biology 1904-1912 and then prof. of botany 1912-1920, Presidency College, Madras, India, inspector of schools for Vishakapatnam and Ganjam 1920-1925, returned to the Presidency College as principal 1925-1932, F.L.S., retired 1932 and settled in England, died 26 Dec 1947 in Rushwick (Worcs.) after being struck by a car while bicycling. 
+**Abbreviated name**: *Fyson*
 
 #### Herbarium and types
 

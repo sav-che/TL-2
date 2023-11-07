@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103414#page/301/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bohnstedt, Alexander Reinhold {std. Bohnst.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bohnstedt, Alexander Reinhold (1839-1903), German highschool teacher and botanist at Luckau. (*Bohnstedt*).
+Bohnstedt, Alexander Reinhold (1839-1903), German highschool teacher and botanist at Luckau. 
+**Abbreviated name**: *Bohnstedt*
 
 #### Herbarium and types
 

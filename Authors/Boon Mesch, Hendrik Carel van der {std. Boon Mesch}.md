@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103859#page/335/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265522) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boon Mesch, Hendrik Carel van der (1795-1831), Dutch physician, Dr. phil. Leiden 1820, Dr. med. id. 1821, professor at the Athenaeum of Amsterdam 1823-1831. (*Boon Mesch*).
+Boon Mesch, Hendrik Carel van der (1795-1831), Dutch physician, Dr. phil. Leiden 1820, Dr. med. id. 1821, professor at the Athenaeum of Amsterdam 1823-1831. 
+**Abbreviated name**: *Boon Mesch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103832#page/74/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33258540) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Froelich, Carl Fr. (fl. 1850-1857), Swiss artist and botanist living in Teufen. (*C. Froel.*).
+Froelich, Carl Fr. (fl. 1850-1857), Swiss artist and botanist living in Teufen. 
+**Abbreviated name**: *C. Froel.*
 
 #### Herbarium and types
 

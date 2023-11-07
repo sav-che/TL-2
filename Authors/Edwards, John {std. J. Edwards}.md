@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/item/103414#page/771/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33120854) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edwards, John (*fl*. 1763-1806), British flower-painter. (*J. Edwards*).
+Edwards, John (*fl*. 1763-1806), British flower-painter. 
+**Abbreviated name**: *J. Edwards*
 
 #### Original manuscripts and drawings
 

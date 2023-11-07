@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103860#page/193/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265860) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clarke, Alfred Ernest (1903-?), American botanist born 10 Mai 1903 at Victoria (B.C.), B.A. Alberta 1925, M.Sci. 1927, Ph.D. Wisconsin 1931, assistant in genetics Alberta 1925-1927, National Research Council of Canada 1927-1928, lecturer field crops Alberta 1928-1929, assistant genetics Wisconsin 1929-1931, research fellow biology, California 1931-1933, associate in genetics 1933-1936, bureau of plant industry U.S.D.A. from 1936. (*A.E. Clarke*).
+Clarke, Alfred Ernest (1903-?), American botanist born 10 Mai 1903 at Victoria (B.C.), B.A. Alberta 1925, M.Sci. 1927, Ph.D. Wisconsin 1931, assistant in genetics Alberta 1925-1927, National Research Council of Canada 1927-1928, lecturer field crops Alberta 1928-1929, assistant genetics Wisconsin 1929-1931, research fellow biology, California 1931-1933, associate in genetics 1933-1936, bureau of plant industry U.S.D.A. from 1936. 
+**Abbreviated name**: *A.E. Clarke*
 
 #### Herbarium and types
 

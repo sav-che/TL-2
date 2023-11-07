@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/item/104137#page/294/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33355365) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mann, Horace Jr. (1844-1868), German-American botanist; assistant at the Gray Herbarium; B. Sc. Harvard 1867; curator of botany at the Boston Society of natural history. (*H. Mann*).
+Mann, Horace Jr. (1844-1868), German-American botanist; assistant at the Gray Herbarium; B. Sc. Harvard 1867; curator of botany at the Boston Society of natural history. 
+**Abbreviated name**: *H. Mann*
 
 #### Herbarium and types
 

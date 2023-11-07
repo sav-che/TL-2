@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103833#page/211/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33259245) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Denaiffe, Clément (1835-1911), French agriculturist. (*Denaiffe*).
+Denaiffe, Clément (1835-1911), French agriculturist. 
+**Abbreviated name**: *Denaiffe*
 
 #### Herbarium and types
 

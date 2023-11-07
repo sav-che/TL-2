@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103861#page/42/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33266339) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Braun, Carl Friedrich Wilhelm {std. Braun}|first entry]] for this author
 
 ### Author
 
-\* Braun, Carl \[Karl\] Friedrich Wilhelm (1800-1864), German (Bayreuth-born) palaeobotanist, at pharmacy in Regensburg 1814 \[sic\]-1819, employed with a pharmacy in Salzburg 1819-1821, turned to botany with Hoppe, worked with Sternberg in Praha 1821, studied physiology and natural history at Erfurt 1821-1823, pharmacist at Regensburg in his father's pharmacy 1823-1831, teacher at Bayreuth at an agricultural college 1833 as well as continuing his palaeontological activity. (*Braun*).
+\* Braun, Carl \[Karl\] Friedrich Wilhelm (1800-1864), German (Bayreuth-born) palaeobotanist, at pharmacy in Regensburg 1814 \[sic\]-1819, employed with a pharmacy in Salzburg 1819-1821, turned to botany with Hoppe, worked with Sternberg in Praha 1821, studied physiology and natural history at Erfurt 1821-1823, pharmacist at Regensburg in his father's pharmacy 1823-1831, teacher at Bayreuth at an agricultural college 1833 as well as continuing his palaeontological activity. 
+**Abbreviated name**: *Braun*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/104137#page/276/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33355347) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maiwald, Vincenz Fridolin (1862-?), Czech historian of botany; high school teacher at Braunau, Bohemia (*Maiwald*).
+Maiwald, Vincenz Fridolin (1862-?), Czech historian of botany; high school teacher at Braunau, Bohemia 
+**Abbreviated name**: *Maiwald*
 
 #### Herbarium and types
 

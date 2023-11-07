@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103683#page/351/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33212383) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thwaites, George Henry Kendrick (1812-1882), British botanist; accountant in the city of Bristol while training himself to become a botanist; lecturer in botany at the School of Pharmacy and the Medical school in Bristol 1847; superintendant Royal Botanic Gardens at Peradeniya, Ceylon 1849-1880 (from 1857 as director); established the algal nature of diatoms (1847), started Cinchona plantations in Ceylon; Dr. phil. Leopold. 1864. (*Thwaites*).
+Thwaites, George Henry Kendrick (1812-1882), British botanist; accountant in the city of Bristol while training himself to become a botanist; lecturer in botany at the School of Pharmacy and the Medical school in Bristol 1847; superintendant Royal Botanic Gardens at Peradeniya, Ceylon 1849-1880 (from 1857 as director); established the algal nature of diatoms (1847), started Cinchona plantations in Ceylon; Dr. phil. Leopold. 1864. 
+**Abbreviated name**: *Thwaites*
 
 #### Herbarium and types
 

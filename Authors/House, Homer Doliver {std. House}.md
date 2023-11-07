@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/item/103253#page/368/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33068584) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-House, Homer Doliver (1878-1949), American botanist, educated at Syracuse and Columbia Universities; Ph. D. Columbia 1908; lecturer at Biltmore Forest School, Asheville, N.C. '1908-1913; at Albany, N.Y. as assistant State botanist 1913-1914 and as State botanist of New York 1914-1949. (*House*).
+House, Homer Doliver (1878-1949), American botanist, educated at Syracuse and Columbia Universities; Ph. D. Columbia 1908; lecturer at Biltmore Forest School, Asheville, N.C. '1908-1913; at Albany, N.Y. as assistant State botanist 1913-1914 and as State botanist of New York 1914-1949. 
+**Abbreviated name**: *House*
 
 #### Herbarium and types
 

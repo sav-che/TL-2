@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/item/104137#page/739/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33355810) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nelson, David (x-1789), British gardener, collector and explorer on the voyage of the "Resolution" and the "Discovery" 1776-1780 (Capt. Cook's third voyage); from 1780-1787 gardener at Kew; on the "Bounty" 1787-1789; escaped with Bligh from the mutiny but died on Timor. (*D. Nels.*).
+Nelson, David (x-1789), British gardener, collector and explorer on the voyage of the "Resolution" and the "Discovery" 1776-1780 (Capt. Cook's third voyage); from 1780-1787 gardener at Kew; on the "Bounty" 1787-1789; escaped with Bligh from the mutiny but died on Timor. 
+**Abbreviated name**: *D. Nels.*
 
 #### Herbarium and types
 

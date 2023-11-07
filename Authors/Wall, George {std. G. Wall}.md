@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103250#page/93/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33066373) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wall, George (1821-1894), British merchant, planter, newspaper editor and pteridologist; in Ceylon from 1846-1894; friend of G.H.K. Thwaites. (*G. Wall*).
+Wall, George (1821-1894), British merchant, planter, newspaper editor and pteridologist; in Ceylon from 1846-1894; friend of G.H.K. Thwaites. 
+**Abbreviated name**: *G. Wall*
 
 #### Herbarium and types
 

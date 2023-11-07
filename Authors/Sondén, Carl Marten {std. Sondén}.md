@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/item/104077#page/755/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sondén, Carl Marten (1846-1913), Swedish physician and botanist; Dr. med. Uppsala 1874; professor at a school for midwives in Stockholm 1896-1911. (*Sondén*).
+Sondén, Carl Marten (1846-1913), Swedish physician and botanist; Dr. med. Uppsala 1874; professor at a school for midwives in Stockholm 1896-1911. 
+**Abbreviated name**: *Sondén*
 
 #### Herbarium and types
 

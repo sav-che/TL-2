@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 971](https://www.biodiversitylibrary.org/item/103624#page/985/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 971](https://www.biodiversitylibrary.org/page/33190442) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudge, Edward (1763-1846), British (English) botanist and antiquary, living on the Abbey estate at Evesham. (*Rudge*).
+Rudge, Edward (1763-1846), British (English) botanist and antiquary, living on the Abbey estate at Evesham. 
+**Abbreviated name**: *Rudge*
 
 #### Herbarium and types
 

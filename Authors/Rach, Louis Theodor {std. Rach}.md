@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/item/103624#page/487/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rach, Louis Theodor (1821-1859), German-born botanist and gardener; studied at the horticultural school of Schöneberg 1836-1840; at Berlin-Dahlem 1847-1850, 1852-1856; curator at the St. Petersburg botanical garden, in charge of the carpological and dendrological collections, 1856-1859. (*Rach*).
+Rach, Louis Theodor (1821-1859), German-born botanist and gardener; studied at the horticultural school of Schöneberg 1836-1840; at Berlin-Dahlem 1847-1850, 1852-1856; curator at the St. Petersburg botanical garden, in charge of the carpological and dendrological collections, 1856-1859. 
+**Abbreviated name**: *Rach*
 
 #### Herbarium and types
 

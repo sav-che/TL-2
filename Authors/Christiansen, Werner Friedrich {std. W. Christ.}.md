@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103860#page/174/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265841) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Christiansen, Werner Friedrich (1900-?), German bacteriologist and florist, sometime volunteer at the bacteriological institute of the "Institut der Preuss. Versuchs- und Forschungsanstalt für Milchwirtschaft" at Kiel, from 1925 bacteriologist with the Firma C. Bolle, Berlin (*W. Christ.*).
+Christiansen, Werner Friedrich (1900-?), German bacteriologist and florist, sometime volunteer at the bacteriological institute of the "Institut der Preuss. Versuchs- und Forschungsanstalt für Milchwirtschaft" at Kiel, from 1925 bacteriologist with the Firma C. Bolle, Berlin 
+**Abbreviated name**: *W. Christ.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103861#page/463/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266760) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Castagne, Jean Louis Martin {std. Castagne}|first entry]] for this author
 
 ### Author
 
-\* Castagne, Jean-Louis-Martin (1785-1858), French botanist and merchant, born at Marseille, went to Constantinople \[Istambul\] settled (ca. 1820-1830) with a business house, at first with the help of the French embassy, later idem with the Dutch embassy until 1833, settled at Miramar dedicating himself to botany. (*Castagne*).
+\* Castagne, Jean-Louis-Martin (1785-1858), French botanist and merchant, born at Marseille, went to Constantinople \[Istambul\] settled (ca. 1820-1830) with a business house, at first with the help of the French embassy, later idem with the Dutch embassy until 1833, settled at Miramar dedicating himself to botany. 
+**Abbreviated name**: *Castagne*
 
 #### Herbarium and types
 

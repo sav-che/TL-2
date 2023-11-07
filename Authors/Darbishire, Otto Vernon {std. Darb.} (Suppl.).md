@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103833#page/76/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259110) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Darbishire, Otto Vernon {std. Darb.}|first entry]] for this author
 
 ### Author
 
-\* Darbishire, Otto Vernon (1870-1934), English botanist, born at Conway (N. Wales) 16 Mar 1870, at schools in Dresden and Florence, some time at University College, Bangor and at Oxford (at Balliol under Jowett), B.A. with honours in botany, some years at Kiel, student, "assistant" (with Reinke), Ph.D. Kiel 1898, lecturer in botany at Manchester University 1898-1909, at Armstrong College, Newcastle-upon-Tyne 1919, lecturer 1911 at Botany Dept. Bristol University, 1919 Melville Wills Chair botany until 1934. (*Darb.*).
+\* Darbishire, Otto Vernon (1870-1934), English botanist, born at Conway (N. Wales) 16 Mar 1870, at schools in Dresden and Florence, some time at University College, Bangor and at Oxford (at Balliol under Jowett), B.A. with honours in botany, some years at Kiel, student, "assistant" (with Reinke), Ph.D. Kiel 1898, lecturer in botany at Manchester University 1898-1909, at Armstrong College, Newcastle-upon-Tyne 1919, lecturer 1911 at Botany Dept. Bristol University, 1919 Melville Wills Chair botany until 1934. 
+**Abbreviated name**: *Darb.*
 
 #### Herbarium and types
 

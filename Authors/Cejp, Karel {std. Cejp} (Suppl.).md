@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/item/103860#page/15/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33265682) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cejp, Karel {std. Cejp}|first entry]] for this author
 
 ### Author
 
-\* Cejp, Karel (1900-1979), Czech mycologist and botanical bibliographer, born at Rokycany, W. Bohemia, educated at the main school of Rokycany, enrolled 1919 at the Science Faculty of the Charles University, Prague, Dr. phil. 1923, assistant to J. Velenovský, docent at this faculty 1933, appointed associate professor 1947, subsequently full professor and emeritus professor of cryptogamic botany at the Charles University. (*Cejp*).
+\* Cejp, Karel (1900-1979), Czech mycologist and botanical bibliographer, born at Rokycany, W. Bohemia, educated at the main school of Rokycany, enrolled 1919 at the Science Faculty of the Charles University, Prague, Dr. phil. 1923, assistant to J. Velenovský, docent at this faculty 1933, appointed associate professor 1947, subsequently full professor and emeritus professor of cryptogamic botany at the Charles University. 
+**Abbreviated name**: *Cejp*
 
 #### Herbarium and types
 

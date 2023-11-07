@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103414#page/478/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33120561) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Camper, Peter (Petrus) (1722-1789), Dutch naturalist and palaeobiologist at Franeker and Groningen. (*Camper*).
+Camper, Peter (Petrus) (1722-1789), Dutch naturalist and palaeobiologist at Franeker and Groningen. 
+**Abbreviated name**: *Camper*
 
 #### Herbarium and types
 

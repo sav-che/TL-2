@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/item/103250#page/501/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33066781) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wood, Thomas Fanning (1841-1892), American physician and botanist; assistant surgeon in the American civil war; afterwards practicing physician in Wilmington, N.C.; Dr. med. h.c. Univ. of Maryland 1868. (*T.F. Wood*).
+Wood, Thomas Fanning (1841-1892), American physician and botanist; assistant surgeon in the American civil war; afterwards practicing physician in Wilmington, N.C.; Dr. med. h.c. Univ. of Maryland 1868. 
+**Abbreviated name**: *T.F. Wood*
 
 #### Herbarium and types
 

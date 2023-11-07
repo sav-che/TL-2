@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/item/103414#page/750/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dunker, Wilhelm Bernhard Rudolph Hadrian (1809-1885), German palaeontologist. (*Dunker*).
+Dunker, Wilhelm Bernhard Rudolph Hadrian (1809-1885), German palaeontologist. 
+**Abbreviated name**: *Dunker*
 
 #### Collections
 

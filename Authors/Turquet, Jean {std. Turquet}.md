@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/item/103683#page/561/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33212593) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turquet, Jean (*fl*. 1910), French botanist; Dr. phil. Paris 1910; Dr. med. Paris; on the staff of the colonial laboratory of the Muséum d'Histoire naturelle, Paris; member of the French antarctic expedition (Mission Charcot). (*Turquet*).
+Turquet, Jean (*fl*. 1910), French botanist; Dr. phil. Paris 1910; Dr. med. Paris; on the staff of the colonial laboratory of the Muséum d'Histoire naturelle, Paris; member of the French antarctic expedition (Mission Charcot). 
+**Abbreviated name**: *Turquet*
 
 #### Herbarium and types
 

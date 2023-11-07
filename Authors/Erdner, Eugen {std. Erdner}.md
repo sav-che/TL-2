@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/item/103414#page/845/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33120928) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Erdner, Eugen (1869-1927), German botanist and clergyman in Neuburg a.D., later in Donauwörth. (*Erdner*).
+Erdner, Eugen (1869-1927), German botanist and clergyman in Neuburg a.D., later in Donauwörth. 
+**Abbreviated name**: *Erdner*
 
 #### Herbarium and types
 

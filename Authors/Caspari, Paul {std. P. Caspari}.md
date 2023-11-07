@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/item/103861#page/456/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33266753) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caspari, Paul (x-1902), German teacher and botanist at the Höheren Bürgerschule zu Oberlahnstein. (*P. Caspari*).
+Caspari, Paul (x-1902), German teacher and botanist at the Höheren Bürgerschule zu Oberlahnstein. 
+**Abbreviated name**: *P. Caspari*
 
 #### Herbarium and types
 

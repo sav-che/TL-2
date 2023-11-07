@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/item/104077#page/841/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33333966) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stahl, Augustin (1842-1917), Puerto Rican botanist, of German-Dutch parents; studied medicine at Würzburg 1861-1864; Dr. med. id. 1864; Puerto Rican government physician 1864-1865; practicing physician at Bayamón, P.R. from 1865, dedicating himself to botany in his spare time. (*A. Stahl*).
+Stahl, Augustin (1842-1917), Puerto Rican botanist, of German-Dutch parents; studied medicine at Würzburg 1861-1864; Dr. med. id. 1864; Puerto Rican government physician 1864-1865; practicing physician at Bayamón, P.R. from 1865, dedicating himself to botany in his spare time. 
+**Abbreviated name**: *A. Stahl*
 
 #### Herbarium and types
 

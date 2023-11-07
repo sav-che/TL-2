@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103833#page/175/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33259209) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Déhérain, Pierre Paul (1830-1902), French botanist, chemist and agronomist, born at Paris 19 Apr 1830, Dr.-Sci. Paris 1860, also Collège Chaptal (for chemistry professor) 1860, at the Scholae agronomicae Grignoniensis \[Grignon Paris\] 1865-1902, founded an agronomic station for experiments at Grignon 1875, assistant of Muséum hist. nat. Paris 1872, professor of phytophysiology 1880-1902. (*Déhérain*).
+Déhérain, Pierre Paul (1830-1902), French botanist, chemist and agronomist, born at Paris 19 Apr 1830, Dr.-Sci. Paris 1860, also Collège Chaptal (for chemistry professor) 1860, at the Scholae agronomicae Grignoniensis \[Grignon Paris\] 1865-1902, founded an agronomic station for experiments at Grignon 1875, assistant of Muséum hist. nat. Paris 1872, professor of phytophysiology 1880-1902. 
+**Abbreviated name**: *Déhérain*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/item/103832#page/17/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33258521) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Freyhold, \[Ferdinand\] Edmund \[Joseph Karl (Carl)\] von (1845-x), German botanist (morphologist), born 26 Dec 1845 in Sommerfeld (Frankfurt an der Oder), taught at secondary school in Eupen, Dr. ès-sciences naturelles 1875 Strassburg, prof. at Freiburg in Breisgau 1884 \[listed at Pforzheim in 1886, 1887 and 1891\]. (*Freyhold*).
+Freyhold, \[Ferdinand\] Edmund \[Joseph Karl (Carl)\] von (1845-x), German botanist (morphologist), born 26 Dec 1845 in Sommerfeld (Frankfurt an der Oder), taught at secondary school in Eupen, Dr. ès-sciences naturelles 1875 Strassburg, prof. at Freiburg in Breisgau 1884 \[listed at Pforzheim in 1886, 1887 and 1891\]. 
+**Abbreviated name**: *Freyhold*
 
 #### Herbarium and types
 

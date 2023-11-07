@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103832#page/407/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33258873) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grimwade, \[Wilfrid\] Russell (Sir) (1879-1955), Australian businessman, philanthropist and botanist, born 15 Oct 1879 in Caulfield, Victoria, B.Sc. 1901 Univ. of Melbourne, joined the family firm of Felton, Grimwade & Co. 1903, became a partner in the firm 1907, which merged with Duerdins and Sainsbury in 1929 and later became Drug Houses of Australia Pty. Ltd., established Russell Grimwade Prize for "scientific forestry" 1929, C.B.E. 1935, botanical advisor to the Army Dept. during W.W.-II, sponsored the Russell Grimwade Exped. to W. Australia Aug-Sep 1947, knighted 1950, a generous philanthropist he also purchased Capt. J. Cook's cottage in Yorkshire (for £800), had it dismantled and shipped to Melbourne, died 2 Nov 1955 in Melbourne. (*R. Grimwade*).
+Grimwade, \[Wilfrid\] Russell (Sir) (1879-1955), Australian businessman, philanthropist and botanist, born 15 Oct 1879 in Caulfield, Victoria, B.Sc. 1901 Univ. of Melbourne, joined the family firm of Felton, Grimwade & Co. 1903, became a partner in the firm 1907, which merged with Duerdins and Sainsbury in 1929 and later became Drug Houses of Australia Pty. Ltd., established Russell Grimwade Prize for "scientific forestry" 1929, C.B.E. 1935, botanical advisor to the Army Dept. during W.W.-II, sponsored the Russell Grimwade Exped. to W. Australia Aug-Sep 1947, knighted 1950, a generous philanthropist he also purchased Capt. J. Cook's cottage in Yorkshire (for £800), had it dismantled and shipped to Melbourne, died 2 Nov 1955 in Melbourne. 
+**Abbreviated name**: *R. Grimwade*
 
 #### Herbarium and types
 

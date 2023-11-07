@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103414#page/250/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berthelot, Sabin {std. Berthel.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Berthelot, Sabin (1794-1880), French consul at S. Cruz de Teneriffe, explorer of the flora of the Canary Islands. (*Berthel.*).
+Berthelot, Sabin (1794-1880), French consul at S. Cruz de Teneriffe, explorer of the flora of the Canary Islands. 
+**Abbreviated name**: *Berthel.*
 
 #### Herbarium and types
 

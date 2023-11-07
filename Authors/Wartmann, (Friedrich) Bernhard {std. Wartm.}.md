@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103250#page/153/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33066433) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wartmann, \[Friedrich\] Bernhard (1830-1902), Swiss naturalist and museum director at St. Gallen; son of Jakob Wartmann; studied Univ. Zürich 1849-1852; with C. v. Nägeli at Freiburg i.B. 1852-1854; Dr. phil. ib. 1854; with Nägeli to Zürich 1855; habil. ib. 1856; professor of natural history at the "Kantonschule" St. Gallen 1856, rector 1863-1877; president of the St. Gallen naturwissenschaftliche Gesellschaft 1868-1902. (*Wartm.*).
+Wartmann, \[Friedrich\] Bernhard (1830-1902), Swiss naturalist and museum director at St. Gallen; son of Jakob Wartmann; studied Univ. Zürich 1849-1852; with C. v. Nägeli at Freiburg i.B. 1852-1854; Dr. phil. ib. 1854; with Nägeli to Zürich 1855; habil. ib. 1856; professor of natural history at the "Kantonschule" St. Gallen 1856, rector 1863-1877; president of the St. Gallen naturwissenschaftliche Gesellschaft 1868-1902. 
+**Abbreviated name**: *Wartm.*
 
 #### Herbarium and types
 

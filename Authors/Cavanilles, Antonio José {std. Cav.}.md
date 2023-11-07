@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/item/103414#page/519/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33120602) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cavanilles, Antonio José {std. Cav.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cavanilles, Antonio José (1745-1804), Spanish clergyman and botanist, at Paris 1777-1781, later at Madrid, from 1801 onward director of the Madrid botanical garden. (*Cav.*).
+Cavanilles, Antonio José (1745-1804), Spanish clergyman and botanist, at Paris 1777-1781, later at Madrid, from 1801 onward director of the Madrid botanical garden. 
+**Abbreviated name**: *Cav.*
 
 #### Herbarium and types
 
@@ -102,21 +103,21 @@ Anales Inst. bot. Cavanilles 10(1): 123-126. 1951; Candollea 28: 433-434. 1973.
 
 **Notes**
 
-|vol. & part	|pages	|*plates*	|dates|
-|---	|---	|---	|---	|
-|1(1)	|\[i-iv\], \[1\]-32	|1-40	|16 Feb 1791|
-|(2)	|33-52	|41-71	|Nov 1791|
-|(3)	|53-67, \[4, ind.\]	|72-100	|Dec 1791|
-|2(1)	|\[i-iv\], \[1\]-32	|101-139	|Apr-Nov 1793|
-|(2)	|33-?	|140-170	|Apr-Nov 1793|
-|(3)	|?-79, \[5, ind.\]	|171-200	|Dec 1793 or Jan 1794|
-|3(1)	|\[i\*\], \[i\]-x, \[1\]-30	|201-260	|Apr 1795|
-|(2)	|31-52, \[2, add.\], \[4, ind.\]	|261-300	|Dec 1795 v. 1-12 Jan 1796|
-|4(1)	|\[i-iii\], 1-36	|301-360	|Sep-Dec 1797|
-|(2)	|37-82	|361-400	|14 Mai 1798|
-|5(1)	|\[i\*\], \[i\]-iv, \[1\]-74	|401-500bis	|Apr 1799|
-|6(1)	|\[i-iii\], 1-40	|501-560	|1800|
-|(2)	|41-97	|561-600	|Jan-Mai 1801|
+|vol. |& part	|pages	|*plates*	|dates|
+|---	|---	|---	|---	|---	|
+|1|(1)	|\[i-iv\], \[1\]-32	|1-40	|16 Feb 1791|
+| |(2)	|33-52	|41-71	|Nov 1791|
+| |(3)	|53-67, \[4, ind.\]	|72-100	|Dec 1791|
+|2|(1)	|\[i-iv\], \[1\]-32	|101-139	|Apr-Nov 1793|
+| |(2)	|33-?	|140-170	|Apr-Nov 1793|
+| |(3)	|?-79, \[5, ind.\]	|171-200	|Dec 1793 or Jan 1794|
+|3|(1)	|\[i\*\], \[i\]-x, \[1\]-30	|201-260	|Apr 1795|
+| |(2)	|31-52, \[2, add.\], \[4, ind.\]	|261-300	|Dec 1795 v. 1-12 Jan 1796|
+|4|(1)	|\[i-iii\], 1-36	|301-360	|Sep-Dec 1797|
+| |(2)	|37-82	|361-400	|14 Mai 1798|
+|5|(1)	|\[i\*\], \[i\]-iv, \[1\]-74	|401-500bis	|Apr 1799|
+|6|(1)	|\[i-iii\], 1-40	|501-560	|1800|
+| |(2)	|41-97	|561-600	|Jan-Mai 1801|
 
 The plates are by Cavanilles himself, "stiff mechanical engravings" (Blunt).
 *Facsimile ed*.: Lehre (J. Cramer) 1965, Historiae naturalis classica vol. 42. *Copy*: FAS.

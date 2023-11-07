@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/item/103414#page/732/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33120815) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drummond, James Lawson (1783-1853), British physician and naturalist in Belfast. (*J. L. Drumm.*).
+Drummond, James Lawson (1783-1853), British physician and naturalist in Belfast. 
+**Abbreviated name**: *J. L. Drumm.*
 
 #### Herbarium and types
 

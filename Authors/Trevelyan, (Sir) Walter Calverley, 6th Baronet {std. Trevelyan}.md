@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103683#page/484/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trevelyan, \[Sir\] Walter Calverley, 6th Baronet (1797-1879), British botanist, geologist and antiquarian; M.A. Univ. Coll. Oxford 1822; landlord, agriculturist and private scientist; travelled frequently in southern Europe. (*Trevelyan*).
+Trevelyan, \[Sir\] Walter Calverley, 6th Baronet (1797-1879), British botanist, geologist and antiquarian; M.A. Univ. Coll. Oxford 1822; landlord, agriculturist and private scientist; travelled frequently in southern Europe. 
+**Abbreviated name**: *Trevelyan*
 
 #### Herbarium and types
 

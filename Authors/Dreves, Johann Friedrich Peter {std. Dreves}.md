@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103835#page/105/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33260083) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dreves, Johann Friedrich Peter (1772-1816), German botanist, born 28 Feb 1772 at Mecklenburg, died 6 Aug 1816 Selters am Rhein. (*Dreves*).
+Dreves, Johann Friedrich Peter (1772-1816), German botanist, born 28 Feb 1772 at Mecklenburg, died 6 Aug 1816 Selters am Rhein. 
+**Abbreviated name**: *Dreves*
 
 #### Herbarium and types
 

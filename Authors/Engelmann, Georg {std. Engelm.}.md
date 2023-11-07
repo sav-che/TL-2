@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/103414#page/802/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33120885) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Engelmann, George (Georg) {std. Engelm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Engelmann, Georg (1809-1884), American physician and botanist of German birth who settled at St. Louis, Missouri. (*Engelm.*).
+Engelmann, Georg (1809-1884), American physician and botanist of German birth who settled at St. Louis, Missouri. 
+**Abbreviated name**: *Engelm.*
 
 #### Herbarium and types
 

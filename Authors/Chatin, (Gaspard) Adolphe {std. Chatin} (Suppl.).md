@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103860#page/74/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265741) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chatin, Gaspard Adolphe {std. Chatin}|first entry]] for this author
 
 ### Author
 
-\* Chatin, \[Gaspard\] Adolphe (1813-1901), French botanist, born at Ile-Marianne-de-Saint-Quentin, Isère, studied at Paris, "interne des hôpitaux" 1835, Dr. sci. nat. and pharm. I. Cl. 1840, Dr. med. 1844, at the École supérieure de Pharmacie de Paris 1842, prof. titul. 1848, teaching botany until 1886, directeur ib. 1873-1886, membre de l'Académie de Médecine from 1853, Acad. Sci. from 1874, died at Essarts-le-Roi, Seine-et-Oise. (*Chatin*).
+\* Chatin, \[Gaspard\] Adolphe (1813-1901), French botanist, born at Ile-Marianne-de-Saint-Quentin, Isère, studied at Paris, "interne des hôpitaux" 1835, Dr. sci. nat. and pharm. I. Cl. 1840, Dr. med. 1844, at the École supérieure de Pharmacie de Paris 1842, prof. titul. 1848, teaching botany until 1886, directeur ib. 1873-1886, membre de l'Académie de Médecine from 1853, Acad. Sci. from 1874, died at Essarts-le-Roi, Seine-et-Oise. 
+**Abbreviated name**: *Chatin*
 
 #### Herbarium and types
 

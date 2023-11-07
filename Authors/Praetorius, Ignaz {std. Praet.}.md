@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/item/103624#page/388/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33189845) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Praetorius, Ignaz (1836-1908), German (West Prussian) botanist; high school teacher at Conitz; Dr. phil. Breslau 1863; habil. ib. 1863; teacher at the Kön. pedag. Seminar and the Mathiasgymnasium 1863-1864; id. at the Lyceum Hosianum at Braunsberg from 1864-1868, id. at Konitz 1868, with professor's title from 1880; ultimately at Graudenz. (*Praet.*).
+Praetorius, Ignaz (1836-1908), German (West Prussian) botanist; high school teacher at Conitz; Dr. phil. Breslau 1863; habil. ib. 1863; teacher at the Kön. pedag. Seminar and the Mathiasgymnasium 1863-1864; id. at the Lyceum Hosianum at Braunsberg from 1864-1868, id. at Konitz 1868, with professor's title from 1880; ultimately at Graudenz. 
+**Abbreviated name**: *Praet.*
 
 #### Herbarium and types
 

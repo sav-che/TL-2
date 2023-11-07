@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103683#page/270/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33212302) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thiele, Friedrich-Leopold (x-1841), German (prob. Prussian) botanist; assistant at the Berlin herbarium 1838-1841. (*Thiele*).
+Thiele, Friedrich-Leopold (x-1841), German (prob. Prussian) botanist; assistant at the Berlin herbarium 1838-1841. 
+**Abbreviated name**: *Thiele*
 
 #### Herbarium and types
 

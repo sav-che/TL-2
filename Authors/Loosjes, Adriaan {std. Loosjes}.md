@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/104137#page/171/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loosjes, Adriaan (1761-1818), Dutch botanist, poet, novelist and bookseller; studied at Amsterdam, at Haarlem from 1782. (*Loosjes*).
+Loosjes, Adriaan (1761-1818), Dutch botanist, poet, novelist and bookseller; studied at Amsterdam, at Haarlem from 1782. 
+**Abbreviated name**: *Loosjes*
 
 #### Herbarium and types
 

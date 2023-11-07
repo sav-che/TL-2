@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/item/103414#page/583/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33120666) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cook, James (1728-1779), British explorer and circumnavigator. (*J. Cook*).
+Cook, James (1728-1779), British explorer and circumnavigator. 
+**Abbreviated name**: *J. Cook*
 
 #### Collections
 

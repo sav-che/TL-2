@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/103835#page/457/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33260435) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Exo, Arthur (1885-x), German pharmacist and botanist, born 7 Apr 1885 at Hurl (Kreis Rees am Rhein), visited the gymnasium at Duisburg until 1905, worked in a pharmacy until 1908, studied from 1909 until 1911 pharmacy in Bonn and later natural sciences, botany from 1913, in WW I pharmacist in the army, Dr. sci. in Bonn 1916. (*Exo*).
+Exo, Arthur (1885-x), German pharmacist and botanist, born 7 Apr 1885 at Hurl (Kreis Rees am Rhein), visited the gymnasium at Duisburg until 1905, worked in a pharmacy until 1908, studied from 1909 until 1911 pharmacy in Bonn and later natural sciences, botany from 1913, in WW I pharmacist in the army, Dr. sci. in Bonn 1916. 
+**Abbreviated name**: *Exo*
 
 #### Herbarium and types
 

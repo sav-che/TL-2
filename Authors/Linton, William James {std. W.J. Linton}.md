@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/104137#page/130/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33355201) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linton, William James (1812-1898), British engraver, botanist and political reformer; to United States, at Appledore nr. New Haven, Conn. from 1866 as private printer and publisher. (*W. J. Linton*).
+Linton, William James (1812-1898), British engraver, botanist and political reformer; to United States, at Appledore nr. New Haven, Conn. from 1866 as private printer and publisher. 
+**Abbreviated name**: *W. J. Linton*
 
 #### Herbarium and types
 

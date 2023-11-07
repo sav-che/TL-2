@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/item/103859#page/276/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33265463) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boerlage, Jacob Gijsbert {std. Boerl.}|first entry]] for this author
 
 ### Author
 
-\* Boerlage, Jacob Gijsbert (1849-1900), Dutch botanist, born and educated at Uithoorn, studied natural sciences at the University of Leiden 1867, Dr. phil. ib. 1875, natural history teacher 1876-1880 at the Teacher's seminary in Amsterdam and, subsequently at secondary schools in Dordrecht, curator and private lecturer at the Rijksherbarium Leiden 1881-1894, assistant director id. 1894-1896, travelled to Java 1888; assistant director of the herbarium of the Buitenzorg (Bogor) gardens 1896, died on a trip to the Moluccas 1900. (*Boerl.*).
+\* Boerlage, Jacob Gijsbert (1849-1900), Dutch botanist, born and educated at Uithoorn, studied natural sciences at the University of Leiden 1867, Dr. phil. ib. 1875, natural history teacher 1876-1880 at the Teacher's seminary in Amsterdam and, subsequently at secondary schools in Dordrecht, curator and private lecturer at the Rijksherbarium Leiden 1881-1894, assistant director id. 1894-1896, travelled to Java 1888; assistant director of the herbarium of the Buitenzorg (Bogor) gardens 1896, died on a trip to the Moluccas 1900. 
+**Abbreviated name**: *Boerl.*
 
 #### Herbarium and types
 

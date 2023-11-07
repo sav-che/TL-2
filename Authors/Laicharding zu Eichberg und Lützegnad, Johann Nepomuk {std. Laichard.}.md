@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/item/103253#page/752/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33068968) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laicharding (Laicharting) zu Eichberg und Lützegnad, Johann Nepomuk (1754-1797), Austrian botanist and entomologist; professor of natural history ("Gubernialsekretär") at Innsbruck University. (*Laichard.*).
+Laicharding (Laicharting) zu Eichberg und Lützegnad, Johann Nepomuk (1754-1797), Austrian botanist and entomologist; professor of natural history ("Gubernialsekretär") at Innsbruck University. 
+**Abbreviated name**: *Laichard.*
 
 #### Herbarium and types
 

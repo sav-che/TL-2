@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/103860#page/77/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33265744) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chatton, Édouard \[Pierre Léon\] (1883-1947), French "all-round researcher in the field of protistology sensu lato", long associated with the University of Strasbourg, later at Montpellier and the Sorbonne, director of marine biological stations at Sète, Banyuls-sur-Mer, and Villefranche-sur-Mer. (*Chatton*).
+Chatton, Édouard \[Pierre Léon\] (1883-1947), French "all-round researcher in the field of protistology sensu lato", long associated with the University of Strasbourg, later at Montpellier and the Sorbonne, director of marine biological stations at Sète, Banyuls-sur-Mer, and Villefranche-sur-Mer. 
+**Abbreviated name**: *Chatton*
 
 #### Herbarium and types
 

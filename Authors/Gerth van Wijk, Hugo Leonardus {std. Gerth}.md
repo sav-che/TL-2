@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/item/103414#page/984/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gerth van Wijk, Hugo Leonardus (1849-1921), Dutch biologist, teacher and lexicographer. (*Gerth*).
+Gerth van Wijk, Hugo Leonardus (1849-1921), Dutch biologist, teacher and lexicographer. 
+**Abbreviated name**: *Gerth*
 
 #### Herbarium and types
 

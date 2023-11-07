@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/item/103624#page/748/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33190205) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Resvoll, Thekla \[Susanne\] Ragnhild (1871-1948), Norwegian botanist; cand. paedag. Oslo 1899; amanuensis at the botanical laboratory of Christiania (Oslo) University from 1901, lecturer at Oslo Univ. 1903-1936; on Java 1923-1924. (*Resvoll*).
+Resvoll, Thekla \[Susanne\] Ragnhild (1871-1948), Norwegian botanist; cand. paedag. Oslo 1899; amanuensis at the botanical laboratory of Christiania (Oslo) University from 1901, lecturer at Oslo Univ. 1903-1936; on Java 1923-1924. 
+**Abbreviated name**: *Resvoll*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103861#page/30/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33266327) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brannon, Melvin Amos (1865-1950), American botanist and educator, born at Lowell, Indiana, died 26 Mar 1950 in Gainesville, Florida, Wabash College A.B. 1889, A.M. 1890, studied at Marine Biology College, Woods Hole, Mass. 1891-1894, Ph.D. Chicago 1912, dean of the School of Medicine 1899-1911, id. Liberal Arts 1911-1914 at University of Notre Dame, president University of Idaho 1914-1917, president Beloit Coll., Wisc. 1917-1923, Chancellor Montana 1923-1933. (*Brannon*).
+Brannon, Melvin Amos (1865-1950), American botanist and educator, born at Lowell, Indiana, died 26 Mar 1950 in Gainesville, Florida, Wabash College A.B. 1889, A.M. 1890, studied at Marine Biology College, Woods Hole, Mass. 1891-1894, Ph.D. Chicago 1912, dean of the School of Medicine 1899-1911, id. Liberal Arts 1911-1914 at University of Notre Dame, president University of Idaho 1914-1917, president Beloit Coll., Wisc. 1917-1923, Chancellor Montana 1923-1933. 
+**Abbreviated name**: *Brannon*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/104137#page/463/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33355534) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meyer, Georg Friedrich Wilhelm (1782-1856), German botanist in Göttingen; from 1820 physiographer of the Kingdom of Hanover. (*G. Mey.*).
+Meyer, Georg Friedrich Wilhelm (1782-1856), German botanist in Göttingen; from 1820 physiographer of the Kingdom of Hanover. 
+**Abbreviated name**: *G. Mey.*
 
 #### Herbarium and types
 

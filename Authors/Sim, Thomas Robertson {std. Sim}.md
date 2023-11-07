@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/item/104077#page/616/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sim, Thomas Robertson (1856-1938), Scottish botanist; gardener in the Royal Horticultural Society's garden at Chiswick 1874, at the Royal Gardens Kew 1878; worked in the Harvard botanical garden, Cambridge, Mass. 1879-1880 and in a garden at Milton, Mass. 1880-1881; fruit grower at Inchmark, Scotland 1884-1888; to South Africa 1889; curator of the King William's Town botanical garden 1889-1894; government forester in the Cape Forestry Department 1894-1902; organised a forest department for Natai 1902; conservator of forests Natal 1903-1907; nurseryman in Pietermaritzburg 1908; D.Sc. h.c. Univ. S. Afr. 1919. (*Sim*).
+Sim, Thomas Robertson (1856-1938), Scottish botanist; gardener in the Royal Horticultural Society's garden at Chiswick 1874, at the Royal Gardens Kew 1878; worked in the Harvard botanical garden, Cambridge, Mass. 1879-1880 and in a garden at Milton, Mass. 1880-1881; fruit grower at Inchmark, Scotland 1884-1888; to South Africa 1889; curator of the King William's Town botanical garden 1889-1894; government forester in the Cape Forestry Department 1894-1902; organised a forest department for Natai 1902; conservator of forests Natal 1903-1907; nurseryman in Pietermaritzburg 1908; D.Sc. h.c. Univ. S. Afr. 1919. 
+**Abbreviated name**: *Sim*
 
 #### Herbarium and types
 

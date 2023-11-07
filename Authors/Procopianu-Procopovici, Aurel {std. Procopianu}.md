@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/103624#page/429/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Procopianu-Procopovici, Aurel (*fl*. 1890-1900), Roumanian botanist; inspector at the botanical garden, Bucarest (1896). (*Procopianu*).
+Procopianu-Procopovici, Aurel (*fl*. 1890-1900), Roumanian botanist; inspector at the botanical garden, Bucarest (1896). 
+**Abbreviated name**: *Procopianu*
 
 #### Herbarium and types
 

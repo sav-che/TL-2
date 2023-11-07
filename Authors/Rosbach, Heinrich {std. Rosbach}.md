@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/item/103624#page/896/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33190353) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosbach, Heinrich (*fl*. 1880), German (Prussian) botanist; regional physician at Trier ("Königl. preuss. Kreisphysicus und Sanitätsrath"). (*Rosbach*).
+Rosbach, Heinrich (*fl*. 1880), German (Prussian) botanist; regional physician at Trier ("Königl. preuss. Kreisphysicus und Sanitätsrath"). 
+**Abbreviated name**: *Rosbach*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/103624#page/327/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33189784) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poeverlein, Hermann (1874-1957), German administrator and botanist; Dr. jur. Erlangen 1898; in the judiciary and administration at Ludwigshafen (1904, assistant judge), Kemnath (1916) and Speyer (1919, Regierungsrat; 1932 Regierungsdirektor); from 1934 in semi-retirement at Augsburg; from 1941 retired, from 1945/6 at Karxheimzell and later at Ludwigshafen; specialist on Uredinales. (*Poeverl.*).
+Poeverlein, Hermann (1874-1957), German administrator and botanist; Dr. jur. Erlangen 1898; in the judiciary and administration at Ludwigshafen (1904, assistant judge), Kemnath (1916) and Speyer (1919, Regierungsrat; 1932 Regierungsdirektor); from 1934 in semi-retirement at Augsburg; from 1941 retired, from 1945/6 at Karxheimzell and later at Ludwigshafen; specialist on Uredinales. 
+**Abbreviated name**: *Poeverl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/item/104077#page/802/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33333927) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sperry, Omer Edison (1902-1975), American botanist; Dr. phil. St. Tea Coll., Peru, Nebraska 1934; botanist at St. Tea College 1925-1927; id. at University of Nebraska 1927-1928; high school teacher at Concordia, Kansas 1928-1930; instructor in botany at the University of Nebraska 1930-1935; head department of biology at Sul Ross State College, Alpine, Texas (later Texas A. & M. Univ.) 1935; from 1936-1967 professor at the Range Science Department, Texas A. & M. (*Sperry*).
+Sperry, Omer Edison (1902-1975), American botanist; Dr. phil. St. Tea Coll., Peru, Nebraska 1934; botanist at St. Tea College 1925-1927; id. at University of Nebraska 1927-1928; high school teacher at Concordia, Kansas 1928-1930; instructor in botany at the University of Nebraska 1930-1935; head department of biology at Sul Ross State College, Alpine, Texas (later Texas A. & M. Univ.) 1935; from 1936-1967 professor at the Range Science Department, Texas A. & M. 
+**Abbreviated name**: *Sperry*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/item/104077#page/526/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sennholz, Gustav (1850-1895), German (Frankfurt) botanist and gardener; educated at the Kassel gymnasium; student gardener at Wilhelmshöhe i.d. Lehre and Kassel; gardener at Potsdam 1869-1870; in Franco-Prussian war 1870-1871; again in Potsdam and Kassel 1871-1874; with Gebr. Siesmayer in Bockenheim nr. Frankfurt a. M. 1874-1884; city-gardener of Wien 1884-1895; also active as a floristic botanist. (*Sennholz*).
+Sennholz, Gustav (1850-1895), German (Frankfurt) botanist and gardener; educated at the Kassel gymnasium; student gardener at Wilhelmshöhe i.d. Lehre and Kassel; gardener at Potsdam 1869-1870; in Franco-Prussian war 1870-1871; again in Potsdam and Kassel 1871-1874; with Gebr. Siesmayer in Bockenheim nr. Frankfurt a. M. 1874-1884; city-gardener of Wien 1884-1895; also active as a floristic botanist. 
+**Abbreviated name**: *Sennholz*
 
 #### Herbarium and types
 

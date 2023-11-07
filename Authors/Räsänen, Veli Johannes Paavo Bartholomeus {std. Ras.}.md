@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/item/103624#page/560/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33190017) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Räsänen, Veli Johannes Paavo Bartholomeus (1888-1953), Finnish botanist; Mag. phil. Helsinki 1914; Dr. phil. ib. 1927; teacher at Kemi 1913-1914, at Lapua 1918-1921; lecturer at the agricultural college of Kurkijoki 1921-1940; from 1940-1953 id. at the college of animal husbandry at Kuopio; student of E.A. Vainio. (*Ras.*).
+Räsänen, Veli Johannes Paavo Bartholomeus (1888-1953), Finnish botanist; Mag. phil. Helsinki 1914; Dr. phil. ib. 1927; teacher at Kemi 1913-1914, at Lapua 1918-1921; lecturer at the agricultural college of Kurkijoki 1921-1940; from 1940-1953 id. at the college of animal husbandry at Kuopio; student of E.A. Vainio. 
+**Abbreviated name**: *Ras.*
 
 #### Herbarium and types
 

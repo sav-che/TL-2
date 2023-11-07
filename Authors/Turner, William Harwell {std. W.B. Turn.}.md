@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/103683#page/558/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33212590) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turner, William Harwell (1845-1917), British brewer and amateur phycologist (desmidiologist), in breweries at Plymouth, Watlington, Bruton, Staffordshire, Woodlesford; in Leeds as manager of the Brunswick Brewery 1877-1884; independent consulting brewer and analytical chemist from 1891. (*W.B. Turn.*).
+Turner, William Harwell (1845-1917), British brewer and amateur phycologist (desmidiologist), in breweries at Plymouth, Watlington, Bruton, Staffordshire, Woodlesford; in Leeds as manager of the Brunswick Brewery 1877-1884; independent consulting brewer and analytical chemist from 1891. 
+**Abbreviated name**: *W.B. Turn.*
 
 #### Herbarium and types
 

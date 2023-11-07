@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103835#page/161/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33260139) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dufrené, Hector (1836-x), French civil engineer living in Paris, author of several other books on the history of industry and commerce. (*Dufrené*).
+Dufrené, Hector (1836-x), French civil engineer living in Paris, author of several other books on the history of industry and commerce. 
+**Abbreviated name**: *Dufrené*
 
 #### Herbarium and types
 

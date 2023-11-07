@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103683#page/176/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33212208) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tardieu-Blot, Marie-Laure (1902-x), French botanist (pteridologist); originally trained as a pharmacist (Faculté de Paris 1926); Dr. sci. 1933; Dr. méd. 1934; high school teacher in Tonkin 1926; director of the laboratory for biological analyses Hanoi hospital, 1928; with the Laboratoire de Phanérogamie, Muséum d'Histoire naturelle, Paris from 1932; assistant 1933, sous-directeur 1942; director Laboratoire de Botanique phanérogamique tropicale, École des Hautes Études, Paris 1967; hon. director 1971. (*Tardieu-Blot*).
+Tardieu-Blot, Marie-Laure (1902-x), French botanist (pteridologist); originally trained as a pharmacist (Faculté de Paris 1926); Dr. sci. 1933; Dr. méd. 1934; high school teacher in Tonkin 1926; director of the laboratory for biological analyses Hanoi hospital, 1928; with the Laboratoire de Phanérogamie, Muséum d'Histoire naturelle, Paris from 1932; assistant 1933, sous-directeur 1942; director Laboratoire de Botanique phanérogamique tropicale, École des Hautes Études, Paris 1967; hon. director 1971. 
+**Abbreviated name**: *Tardieu-Blot*
 
 #### Herbarium and types
 

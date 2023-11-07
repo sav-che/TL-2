@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/item/103683#page/571/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33212603) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tyson, William (1851-1920), Jamaica-born (British parents) South African teacher and plant collector; studied at Leeds; to S. Africa ca. 1874, teacher at various schools in S. Africa 1874-1888; with the South African Department of forestry, Kimberley, 1888-1893; librarian and editor with the Agricultural Department 1893-1904; ultimately, in retirement at Port Alfred. (*Tyson*).
+Tyson, William (1851-1920), Jamaica-born (British parents) South African teacher and plant collector; studied at Leeds; to S. Africa ca. 1874, teacher at various schools in S. Africa 1874-1888; with the South African Department of forestry, Kimberley, 1888-1893; librarian and editor with the Agricultural Department 1893-1904; ultimately, in retirement at Port Alfred. 
+**Abbreviated name**: *Tyson*
 
 #### Herbarium and types
 

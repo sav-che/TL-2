@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103835#page/38/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33260016) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Doidge, Ethel Mary {std. Doidge}|first entry]] for this author
 
 ### Author
 
-\* Doidge, Ethel Mary (1887-1965), English botanist, born 31 Mai 1887, Nottingham, England, died 22 Sep 1965, Anderley, South Coast, Natal, educated at Epworth High School, Pietermaritzburg and Huguenot College Wellington, C.P. grad. 1907 at Transvaal Dept. of Agriculture, 1908 asistant with Pole Evans, Univ. Cape of Good Hope M.A. Degree 1909, Dr. sci. ib. 1914, appointed Principal Plant Pathologist from 1929 until retirement in 1942. (*Doidge*).
+\* Doidge, Ethel Mary (1887-1965), English botanist, born 31 Mai 1887, Nottingham, England, died 22 Sep 1965, Anderley, South Coast, Natal, educated at Epworth High School, Pietermaritzburg and Huguenot College Wellington, C.P. grad. 1907 at Transvaal Dept. of Agriculture, 1908 asistant with Pole Evans, Univ. Cape of Good Hope M.A. Degree 1909, Dr. sci. ib. 1914, appointed Principal Plant Pathologist from 1929 until retirement in 1942. 
+**Abbreviated name**: *Doidge*
 
 #### Herbarium and types
 

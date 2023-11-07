@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103860#page/113/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33265780) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ching, Ren-Chang {std. Ching}|first entry]] for this author
 
 ### Author
 
-\* Ching, Ren-Chang (1889-1986), Chinese botanist, born in Wujing County, Kiangsu Prov., studied at Kingling University, Nanking, 1925, lectured at Dept. Biology, S.E. University, Nanking 1925-1927, head of the Botany Section of the Metropolitan Museum, Nanking, 1927-1932, head of the herbarium of the Fan Memorial Institute of Biology 1932-1945, from then on in education and forestry and setting up the Academia Sinica, director Phytotaxonomy Dept. Botanical Institute in Beijing, at last advisor of the institute until 1986. (*Ching*).
+\* Ching, Ren-Chang (1889-1986), Chinese botanist, born in Wujing County, Kiangsu Prov., studied at Kingling University, Nanking, 1925, lectured at Dept. Biology, S.E. University, Nanking 1925-1927, head of the Botany Section of the Metropolitan Museum, Nanking, 1927-1932, head of the herbarium of the Fan Memorial Institute of Biology 1932-1945, from then on in education and forestry and setting up the Academia Sinica, director Phytotaxonomy Dept. Botanical Institute in Beijing, at last advisor of the institute until 1986. 
+**Abbreviated name**: *Ching*
 
 #### Herbarium and types
 

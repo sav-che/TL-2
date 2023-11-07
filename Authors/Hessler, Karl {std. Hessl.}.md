@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103253#page/208/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33068424) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hessler, Karl (*fl*. 1822), German botanist; Dr. phil. Göttingen 1822. (*Hessl.*).
+Hessler, Karl (*fl*. 1822), German botanist; Dr. phil. Göttingen 1822. 
+**Abbreviated name**: *Hessl.*
 
 #### Herbarium and types
 

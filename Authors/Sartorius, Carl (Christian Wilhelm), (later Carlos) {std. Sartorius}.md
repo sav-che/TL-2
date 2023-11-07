@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/104077#page/72/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33333197) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sartorius, Carl \[Christian Wilhelm\], (later: Carlos\] (1796-1872), German (Hessen) farmer and botanist; emigrated to Mexico circa 1825; from 1830 running a farm and distillery at Mirador near Huatusco, Vera Cruz; plant collector and gracious host to many travellers in Mexico; from 1846-1852 in Darmstadt. (*Sartorius*).
+Sartorius, Carl \[Christian Wilhelm\], (later: Carlos\] (1796-1872), German (Hessen) farmer and botanist; emigrated to Mexico circa 1825; from 1830 running a farm and distillery at Mirador near Huatusco, Vera Cruz; plant collector and gracious host to many travellers in Mexico; from 1846-1852 in Darmstadt. 
+**Abbreviated name**: *Sartorius*
 
 #### Herbarium and types
 

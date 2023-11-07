@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103833#page/228/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259262) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Descourtilz, Michel Étienne {std. Descourt.}|first entry]] for this author
 
 ### Author
 
-\* Descourtilz, Michel Étienne (1775-1836), French botanist and physician at the "Faculté de Paris", born 25 Nov 1775, died 1836. (*Descourt.*).
+\* Descourtilz, Michel Étienne (1775-1836), French botanist and physician at the "Faculté de Paris", born 25 Nov 1775, died 1836. 
+**Abbreviated name**: *Descourt.*
 
 #### Herbarium and types
 

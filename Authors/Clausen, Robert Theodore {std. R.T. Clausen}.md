@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103860#page/205/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265872) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clausen, Robert Theodore (1911-1981), American botanist, born in New York City, graduated from high school in Passaic, New Jersey 1929, at Cornell University 1929-1981 \[sic\], B.A. 1933, worked with Karl M. Wiegand, M.A. 1934, Dr. phil. 1937 with his "Monograph of the Ophioglossaceae", assistant in botany 1933-1934, research assistant with L.H. Bailey Hortorium 1935-1937, instructor 1937-1939, asst. professor of botany 1939-1944, associate professor 1944, professor 1949, curator of the Wiegand Herbarium 1954-1977 (retirement), continued an "emeritus status", died 31 Dec 1981. (*R.T. Clausen*).
+Clausen, Robert Theodore (1911-1981), American botanist, born in New York City, graduated from high school in Passaic, New Jersey 1929, at Cornell University 1929-1981 \[sic\], B.A. 1933, worked with Karl M. Wiegand, M.A. 1934, Dr. phil. 1937 with his "Monograph of the Ophioglossaceae", assistant in botany 1933-1934, research assistant with L.H. Bailey Hortorium 1935-1937, instructor 1937-1939, asst. professor of botany 1939-1944, associate professor 1944, professor 1949, curator of the Wiegand Herbarium 1954-1977 (retirement), continued an "emeritus status", died 31 Dec 1981. 
+**Abbreviated name**: *R.T. Clausen*
 
 #### Herbarium and types
 

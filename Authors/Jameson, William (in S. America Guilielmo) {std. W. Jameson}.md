@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103253#page/447/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33068663) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jameson, William (in S. America: Guilielmo) (1796-1873), Scottish physician and botanist; MD Edinburgh 1818; to Greenland 1818; to South America 1802; at Quito from 1826.(*W. Jameson*).
+Jameson, William (in S. America: Guilielmo) (1796-1873), Scottish physician and botanist; MD Edinburgh 1818; to Greenland 1818; to South America 1802; at Quito from 1826.
+**Abbreviated name**: *W. Jameson*
 
 #### Herbarium and types
 

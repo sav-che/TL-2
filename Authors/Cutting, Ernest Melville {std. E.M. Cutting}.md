@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/item/103860#page/536/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33266203) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cutting, Ernest Melville (1882-?), British botanist, studied at the University of Cambridge, M.A. Cambridge, lecturer, later senior lecturer in botany at the University College London, worked mainly on morphology, cryptogams and cytology, F.L.S. (*E.M. Cutting*).
+Cutting, Ernest Melville (1882-?), British botanist, studied at the University of Cambridge, M.A. Cambridge, lecturer, later senior lecturer in botany at the University College London, worked mainly on morphology, cryptogams and cytology, F.L.S. 
+**Abbreviated name**: *E.M. Cutting*
 
 #### Herbarium and types
 

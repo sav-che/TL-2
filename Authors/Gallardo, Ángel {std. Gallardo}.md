@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103832#page/119/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33258585) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gallardo, Ángel (1867-1934), Argentinean botanist, naturalist and diplomat, born 19 Nov 1867 in Buenos Aires, civil engineering degree 1894 Faculty of Physical Sciences and Mathematics, visited Europe several times and took courses at the Sorbonne (Paris), Dr. Sci. Nat. 1902 Buenos Aires, dir., Natural History Museum 1911-1916, President, Consejo Nacional de Educación, 1916-x, ambassador to Rome until 1921, Minister of External Affairs and Culture 1922-1928, rector, Univ. of Buenos Aires 1932-1934, received many honors from Argentinean and foreign societies, Dr. h.c., Univ. of Padua, died 13 Mai 1934 in Buenos Aires. (*Gallardo*).
+Gallardo, Ángel (1867-1934), Argentinean botanist, naturalist and diplomat, born 19 Nov 1867 in Buenos Aires, civil engineering degree 1894 Faculty of Physical Sciences and Mathematics, visited Europe several times and took courses at the Sorbonne (Paris), Dr. Sci. Nat. 1902 Buenos Aires, dir., Natural History Museum 1911-1916, President, Consejo Nacional de Educación, 1916-x, ambassador to Rome until 1921, Minister of External Affairs and Culture 1922-1928, rector, Univ. of Buenos Aires 1932-1934, received many honors from Argentinean and foreign societies, Dr. h.c., Univ. of Padua, died 13 Mai 1934 in Buenos Aires. 
+**Abbreviated name**: *Gallardo*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103834#page/310/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33259792) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Förster, Hans (1896-1971), German florist and ornithologist, born 6 Nov 1896 in Liebstadt (Saxony), primary school in Papstdorf 1903-1909, then the seminarat in Pirna until 1916, after military service in W.W.-I he taught in Papstdorf until 1951 (also served in W.W.-II), dir. of Polytechnic School, Bad Schandau 1951-1961, died 3 Sep 1971. (*H. Förster*).
+Förster, Hans (1896-1971), German florist and ornithologist, born 6 Nov 1896 in Liebstadt (Saxony), primary school in Papstdorf 1903-1909, then the seminarat in Pirna until 1916, after military service in W.W.-I he taught in Papstdorf until 1951 (also served in W.W.-II), dir. of Polytechnic School, Bad Schandau 1951-1961, died 3 Sep 1971. 
+**Abbreviated name**: *H. Förster*
 
 #### Note
 

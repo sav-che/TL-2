@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103860#page/370/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33266037) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Core, Earl Lemley (1902-1984), American botanist, born at Morgantown, West Virginia, educated at Morgantown High School until 1920, taught in rural schools 1920-1923, at West Virginia University 1923-1926, A.B. 1926, M.A. 1928, Ph.D. Columbia University 1936, teacher from 1928 at West Virginia University until 1972, Chairman Dept. of Biol. 1948-1966, botanist of the Colombian Cinchona Mission at Bogotá 1943-1945, after retirement wrote the history of Monongalia Country, West Virginia. (*Core*).
+Core, Earl Lemley (1902-1984), American botanist, born at Morgantown, West Virginia, educated at Morgantown High School until 1920, taught in rural schools 1920-1923, at West Virginia University 1923-1926, A.B. 1926, M.A. 1928, Ph.D. Columbia University 1936, teacher from 1928 at West Virginia University until 1972, Chairman Dept. of Biol. 1948-1966, botanist of the Colombian Cinchona Mission at Bogotá 1943-1945, after retirement wrote the history of Monongalia Country, West Virginia. 
+**Abbreviated name**: *Core*
 
 #### Herbarium and types
 

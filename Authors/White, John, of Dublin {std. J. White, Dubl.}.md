@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103250#page/313/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33066593) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, John, of Dublin (c. 1760-1837), Irish horticulturist and field botanist; gardener in the Glasnevin Botanic Gardens c. 1797-1833. (*J. White, Dubl.*).
+White, John, of Dublin (c. 1760-1837), Irish horticulturist and field botanist; gardener in the Glasnevin Botanic Gardens c. 1797-1833. 
+**Abbreviated name**: *J. White, Dubl.*
 
 #### Herbarium and types
 

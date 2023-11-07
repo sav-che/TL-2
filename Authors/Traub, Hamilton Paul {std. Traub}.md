@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103683#page/452/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Traub, Hamilton Paul (1890-1983), American botanist and plant breeder of German descent; on active service in World War I 1917-1919; Dr. phil. Univ. Minnesota 1927; chief division of horticulture, Texas Agr. Exp. Station at Bryan, Texas 1928-1930, at Austin, Texas 1930-1931; horticulturist at Gainesville, Florida 1932; with USDA at Orlando, Florida 1933-1940, with USDA Beltsville 1940-1952; in retirement at Arcadia and La Jolla, California continuing his work on Amaryllidaceae until 1983; founder of the American Amaryllis Society and American Plant Life Society. (*Traub*).
+Traub, Hamilton Paul (1890-1983), American botanist and plant breeder of German descent; on active service in World War I 1917-1919; Dr. phil. Univ. Minnesota 1927; chief division of horticulture, Texas Agr. Exp. Station at Bryan, Texas 1928-1930, at Austin, Texas 1930-1931; horticulturist at Gainesville, Florida 1932; with USDA at Orlando, Florida 1933-1940, with USDA Beltsville 1940-1952; in retirement at Arcadia and La Jolla, California continuing his work on Amaryllidaceae until 1983; founder of the American Amaryllis Society and American Plant Life Society. 
+**Abbreviated name**: *Traub*
 
 #### Herbarium and types
 

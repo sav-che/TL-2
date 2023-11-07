@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/item/104137#page/362/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marzari-Pencati, Giuseppe, Conte (1779-1836), Italian botanist. (*Marzari-Pencati*).
+Marzari-Pencati, Giuseppe, Conte (1779-1836), Italian botanist. 
+**Abbreviated name**: *Marzari-Pencati*
 
 #### Herbarium and types
 

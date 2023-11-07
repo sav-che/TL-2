@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103253#page/27/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33068243) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haberle, Karl Konstantin Christian (1764-1832), German botanist; first at Jena; from 1813 at Budapest. (*Haberle*).
+Haberle, Karl Konstantin Christian (1764-1832), German botanist; first at Jena; from 1813 at Budapest. 
+**Abbreviated name**: *Haberle*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103860#page/336/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33266003) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cook, Phyllis Lucy (1908-x), British botanist born in Sussex, England, had high school training at Pittsburgh Academy, Pittsburgh, Pennsylvania 1920, degree BS 1934 and MS 1936 from the University of Pittsburgh, assistant ib. in botany 1934-1935, taught biology and horticulture at Pennsylvania College for Women 1935-1937, taught biology at Winchester Prep. School Pittsburgh 1937, fellowship in botany at the University of Illinois 1937-1939; Ph.D. University of Illinois 1939. (*P.L. Cook*).
+Cook, Phyllis Lucy (1908-x), British botanist born in Sussex, England, had high school training at Pittsburgh Academy, Pittsburgh, Pennsylvania 1920, degree BS 1934 and MS 1936 from the University of Pittsburgh, assistant ib. in botany 1934-1935, taught biology and horticulture at Pennsylvania College for Women 1935-1937, taught biology at Winchester Prep. School Pittsburgh 1937, fellowship in botany at the University of Illinois 1937-1939; Ph.D. University of Illinois 1939. 
+**Abbreviated name**: *P.L. Cook*
 
 #### Herbarium and types
 

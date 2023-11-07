@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/item/103414#page/941/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33121024) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fromentel, Louis Édouard Gourdan de (1824-x), French zoologist. (*Fromentel*).
+Fromentel, Louis Édouard Gourdan de (1824-x), French zoologist. 
+**Abbreviated name**: *Fromentel*
 
 #### Collections
 

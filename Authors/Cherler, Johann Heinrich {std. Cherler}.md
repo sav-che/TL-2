@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/item/103414#page/540/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cherler, Johann Heinrich (1570-1610), Swiss physician and botanist, son-in-law of Johann Bauhin. (*Cherler*).
+Cherler, Johann Heinrich (1570-1610), Swiss physician and botanist, son-in-law of Johann Bauhin. 
+**Abbreviated name**: *Cherler*
 
 #### Herbarium and types
 

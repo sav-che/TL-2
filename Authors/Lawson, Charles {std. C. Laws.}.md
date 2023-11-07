@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/103253#page/799/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lawson, Charles (1794-1873), Scottish botanist; son of the Edinburgh nurseryman Peter Lawson; succeeded his father 1821. (*C. Laws.*).
+Lawson, Charles (1794-1873), Scottish botanist; son of the Edinburgh nurseryman Peter Lawson; succeeded his father 1821. 
+**Abbreviated name**: *C. Laws.*
 
 #### Herbarium and types
 

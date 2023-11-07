@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103858#page/400/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33265115) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baumgardt, Ernst {std. Baumgardt}|first entry]] for this author
 
 ### Author
 
-\* Baumgardt, Ernst (fl. 1845-1856), German botanist and highschool teacher, ca. 1845 teacher at Putbus, ca. 1856 director of the senior highschool at Potsdam. (*Baumgardt*).
+\* Baumgardt, Ernst (fl. 1845-1856), German botanist and highschool teacher, ca. 1845 teacher at Putbus, ca. 1856 director of the senior highschool at Potsdam. 
+**Abbreviated name**: *Baumgardt*
 
 #### Herbarium and types
 

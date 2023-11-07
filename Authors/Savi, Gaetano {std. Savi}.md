@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/104077#page/98/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33333223) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savi, Gaetano (1769-1844), Italian botanist and physician; studied in Pisa; curator of the Pisa botanical garden and museum 1791 ; professor of botany 1810; director the botanical garden 1814-1843. (*Savi*).
+Savi, Gaetano (1769-1844), Italian botanist and physician; studied in Pisa; curator of the Pisa botanical garden and museum 1791 ; professor of botany 1810; director the botanical garden 1814-1843. 
+**Abbreviated name**: *Savi*
 
 #### Herbarium and types
 

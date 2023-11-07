@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/103683#page/380/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33212412) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Titford, William Jowit (Jowett\] (1784-1823/7?), Jamaica-born British accountant of London and Master in Chancery, Jamaica; in Jamaica 1805-1807; travelled in North America and the West Indies 1807-1809; studied with D. Hosack at Columbia College, New York 1809-1810; returned to England 1810, publishing his Hortus 1810-1812; in Jamaica 1813-1815; in London 1815-1822, ultimately again in Jamaica. (*Titford*).
+Titford, William Jowit (Jowett\] (1784-1823/7?), Jamaica-born British accountant of London and Master in Chancery, Jamaica; in Jamaica 1805-1807; travelled in North America and the West Indies 1807-1809; studied with D. Hosack at Columbia College, New York 1809-1810; returned to England 1810, publishing his Hortus 1810-1812; in Jamaica 1813-1815; in London 1815-1822, ultimately again in Jamaica. 
+**Abbreviated name**: *Titford*
 
 #### Herbarium and types
 

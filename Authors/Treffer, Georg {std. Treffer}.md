@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103683#page/467/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33212499) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Treffer, Georg (1847-1902), Austrian botanist, plant collector and mountain guide at Luttach, Tirol. (*Treffer*).
+Treffer, Georg (1847-1902), Austrian botanist, plant collector and mountain guide at Luttach, Tirol. 
+**Abbreviated name**: *Treffer*
 
 #### Herbarium and types
 

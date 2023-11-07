@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/item/104077#page/481/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33333606) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sebastiani, \[Francesco\] Antonio (1782-1821), Italian botanist and physician; professor of botany and director of the Rome botanical garden 1813-1820. (*Sebast.*).
+Sebastiani, \[Francesco\] Antonio (1782-1821), Italian botanist and physician; professor of botany and director of the Rome botanical garden 1813-1820. 
+**Abbreviated name**: *Sebast.*
 
 #### Herbarium and types
 

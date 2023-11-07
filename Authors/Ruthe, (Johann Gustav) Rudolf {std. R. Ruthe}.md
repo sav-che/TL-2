@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/item/103624#page/1023/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/page/33190480) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruthe, \[Johann Gustav\] Rudolf (1823-1905), German (Prussian) veterinary surgeon; son of Johann Friedrich Ruthe; amateur bryologist and coleopterologist; studied at the Berlin veterinary college; practicing veterinarian at Bärwalde (Brandenburg) 1849-1882; regional veterinary surgeon ("Kreistierarzt") Usedom-Wollin in Swinemünde (Pomerania) 1882-1904. (*R. Ruthe*).
+Ruthe, \[Johann Gustav\] Rudolf (1823-1905), German (Prussian) veterinary surgeon; son of Johann Friedrich Ruthe; amateur bryologist and coleopterologist; studied at the Berlin veterinary college; practicing veterinarian at Bärwalde (Brandenburg) 1849-1882; regional veterinary surgeon ("Kreistierarzt") Usedom-Wollin in Swinemünde (Pomerania) 1882-1904. 
+**Abbreviated name**: *R. Ruthe*
 
 #### Herbarium and types
 

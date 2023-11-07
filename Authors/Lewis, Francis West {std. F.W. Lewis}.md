@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/item/103253#page/894/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33069110) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lewis, Francis West (1825-1902), American diatomologist at Philadelphia. (*F. W. Lewis*).
+Lewis, Francis West (1825-1902), American diatomologist at Philadelphia. 
+**Abbreviated name**: *F. W. Lewis*
 
 #### Herbarium and types
 

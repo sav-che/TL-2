@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/item/104137#page/559/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mohr, Charles Theodore (baptized Karl Theodor) (1824-1901), German-born American botanist who studied at Stuttgart; collected in Suriname 1845-1846; emigrated to the United States 1848, joined the "forty-niners" in the gold-rush of 1859; spent a year in gold-mining in the Sacramento valley (Calif,); two years farming in Indiana; then at Louisville, Ala., and in Mexico; from 1857-1899 druggist at Mobile, Ala., 1899-1901 at Asheville, N. C. (*C. Mohr*).
+Mohr, Charles Theodore (baptized Karl Theodor) (1824-1901), German-born American botanist who studied at Stuttgart; collected in Suriname 1845-1846; emigrated to the United States 1848, joined the "forty-niners" in the gold-rush of 1859; spent a year in gold-mining in the Sacramento valley (Calif,); two years farming in Indiana; then at Louisville, Ala., and in Mexico; from 1857-1899 druggist at Mobile, Ala., 1899-1901 at Asheville, N. C. 
+**Abbreviated name**: *C. Mohr*
 
 #### Herbarium and types
 

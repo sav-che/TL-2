@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103253#page/281/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33068497) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holle, Georg Karl Hans Dietrich (1825-1893), German land-owner and botanist. (*Holle*).
+Holle, Georg Karl Hans Dietrich (1825-1893), German land-owner and botanist. 
+**Abbreviated name**: *Holle*
 
 #### Herbarium and types
 

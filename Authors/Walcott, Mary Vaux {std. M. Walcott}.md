@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103250#page/88/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33066368) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walcott, Mary Vaux (1860-1940), American botanical artist; married Charles Doolittle Walcott 30 Jun 1914. (*M. Walcott*).
+Walcott, Mary Vaux (1860-1940), American botanical artist; married Charles Doolittle Walcott 30 Jun 1914. 
+**Abbreviated name**: *M. Walcott*
 
 #### Herbarium and types
 

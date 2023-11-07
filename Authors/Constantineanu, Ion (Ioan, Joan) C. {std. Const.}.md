@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103860#page/318/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265985) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Constantineanu, Ion \[Ioan, Joan\] C. (1860-1931), Romanian mycologist at the Intstitutul de Botanicǎ sistematicǎ, Muzeu şi grǎdina botanicǎ Universitatea"Regele Ferdinand I" at Bucarest, Dr. phil. Halle 1907. (*Const.*).
+Constantineanu, Ion \[Ioan, Joan\] C. (1860-1931), Romanian mycologist at the Intstitutul de Botanicǎ sistematicǎ, Muzeu şi grǎdina botanicǎ Universitatea"Regele Ferdinand I" at Bucarest, Dr. phil. Halle 1907. 
+**Abbreviated name**: *Const.*
 
 #### Herbarium and types
 

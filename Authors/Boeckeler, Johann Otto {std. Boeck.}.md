@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103414#page/294/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33120377) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Böckeler (Boeckeler), (Johann) Otto {std. Boeck.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boeckeler, Johann Otto (1803-1899); German apothecary at Varel in Oldenburg. (*Boeck.*).
+Boeckeler, Johann Otto (1803-1899); German apothecary at Varel in Oldenburg. 
+**Abbreviated name**: *Boeck.*
 
 #### Herbarium and types
 

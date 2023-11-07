@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/item/104077#page/683/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33333808) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Erwin Frink (1854-1927), American phytopathologist, mycologist and specialist on bacterial plant diseases; Dr. phil. Univ. Mich. 1889; with USDA, Washington D.C. 1886-1927 (pathologist Bureau of plant industry 1901; pathologist in charge ib. 1902-1927). (*E.F. Sm.*).
+Smith, Erwin Frink (1854-1927), American phytopathologist, mycologist and specialist on bacterial plant diseases; Dr. phil. Univ. Mich. 1889; with USDA, Washington D.C. 1886-1927 (pathologist Bureau of plant industry 1901; pathologist in charge ib. 1902-1927). 
+**Abbreviated name**: *E.F. Sm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/item/103624#page/981/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/page/33190438) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rubel, Franz (*fl*. 1778), Moravian physician and botanist at Sternberg; Dr. med. Wien 1778. (*Rubel*).
+Rubel, Franz (*fl*. 1778), Moravian physician and botanist at Sternberg; Dr. med. Wien 1778. 
+**Abbreviated name**: *Rubel*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103834#page/291/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33259773) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Florschütz, Frans (1887-1965), Dutch lawyer and botanist interested in palynology, born 13 Jun 1887 in Hasselt (Overijssel), studied law, Leiden Univ. 1916 but turned to biology at Utrecht Univ., M.A. 1930, studied with Franz Firbas (see above), Secretary to the Board of Directors, Agricultural School (now Univ.), Wageningen, Dr. h.c. 1947, extraord. Prof. 1949, Leiden, retired 1959, in retirement Prof. of Palynology, Catholic Univ. (now Radboud Univ.), Nijmegen, moved to Spain after his 70th birthday, died 21 Jul 1965 in Velp, The Netherlands. (*F. Florsch.*).
+Florschütz, Frans (1887-1965), Dutch lawyer and botanist interested in palynology, born 13 Jun 1887 in Hasselt (Overijssel), studied law, Leiden Univ. 1916 but turned to biology at Utrecht Univ., M.A. 1930, studied with Franz Firbas (see above), Secretary to the Board of Directors, Agricultural School (now Univ.), Wageningen, Dr. h.c. 1947, extraord. Prof. 1949, Leiden, retired 1959, in retirement Prof. of Palynology, Catholic Univ. (now Radboud Univ.), Nijmegen, moved to Spain after his 70th birthday, died 21 Jul 1965 in Velp, The Netherlands. 
+**Abbreviated name**: *F. Florsch.*
 
 #### Herbarium and types
 

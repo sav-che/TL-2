@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/item/103624#page/888/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Romano, Girolamo (Gerolamo) (1765-1841), Italian botanist and clergyman at Gorgo nr Padua. (*Romano*).
+Romano, Girolamo (Gerolamo) (1765-1841), Italian botanist and clergyman at Gorgo nr Padua. 
+**Abbreviated name**: *Romano*
 
 #### Herbarium and types
 

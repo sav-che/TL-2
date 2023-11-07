@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103253#page/470/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jirasek, Jan \[Johann\] (1754-1797), Austrian botanist and engineer, "Ober-Wald-Commissar" in Salzburg. (*J. Jiras.*).
+Jirasek, Jan \[Johann\] (1754-1797), Austrian botanist and engineer, "Ober-Wald-Commissar" in Salzburg. 
+**Abbreviated name**: *J. Jiras.*
 
 #### Herbarium and types
 

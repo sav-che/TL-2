@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/104137#page/309/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33355380) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marie-Victorin, Frère \[Joseph Louis Conrad Kirouac\] (1885-1944), Canadian clergyman and botanist; Dr. sci. Montréal 1922; high school teacher until 1920; at the Faculty of Sciences of the Université de Montréal 1920-1944. (*Marie-Vict.*).
+Marie-Victorin, Frère \[Joseph Louis Conrad Kirouac\] (1885-1944), Canadian clergyman and botanist; Dr. sci. Montréal 1922; high school teacher until 1920; at the Faculty of Sciences of the Université de Montréal 1920-1944. 
+**Abbreviated name**: *Marie-Vict.*
 
 #### Herbarium and types
 

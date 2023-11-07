@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103683#page/13/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33212091) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stirton, James (1833-1917), Scottish physician and cryptogamist; MD Edinburgh 1858; lecturer on gynecology Royal Infirmary; Glasgow 1879-1889; professor of gynecology Glasgow 1889-ca. 1904. (*Stirt.*).
+Stirton, James (1833-1917), Scottish physician and cryptogamist; MD Edinburgh 1858; lecturer on gynecology Royal Infirmary; Glasgow 1879-1889; professor of gynecology Glasgow 1889-ca. 1904. 
+**Abbreviated name**: *Stirt.*
 
 #### Herbarium and types
 

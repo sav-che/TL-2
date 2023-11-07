@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/item/103832#page/143/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33258609) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Garsault, François Alexandre Pierre de {std. Garsault}|first entry]] for this author
 
 ### Author
 
-\* Garsault, François Alexandre \[Pierre\] de (1691/1693-1778), French writer, botanical artist and naturalist with interests in poisonous plants, also a leading French horse-breeder, entered royal administration and trained horses for the military as "Capitaine des Haras", Académie des sciences. (*Garsault*).
+\* Garsault, François Alexandre \[Pierre\] de (1691/1693-1778), French writer, botanical artist and naturalist with interests in poisonous plants, also a leading French horse-breeder, entered royal administration and trained horses for the military as "Capitaine des Haras", Académie des sciences. 
+**Abbreviated name**: *Garsault*
 
 #### Herbarium and types
 

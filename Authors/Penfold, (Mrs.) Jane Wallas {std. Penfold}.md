@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103624#page/165/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33189622) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Penfold, \[Mrs.\] Jane Wallas (*fl*. 1820-1850), British botanical artist and naturalist; lived in Madeira. (*Penfold*).
+Penfold, \[Mrs.\] Jane Wallas (*fl*. 1820-1850), British botanical artist and naturalist; lived in Madeira. 
+**Abbreviated name**: *Penfold*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103858#page/338/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33265053) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barker, Henry D. (1893-?), American botanist, B.S. Clemson College 1915, M.S. University of Wisconsin 1917, Ph.D. University of Minnesota 1923. (*H.D. Barker*).
+Barker, Henry D. (1893-?), American botanist, B.S. Clemson College 1915, M.S. University of Wisconsin 1917, Ph.D. University of Minnesota 1923. 
+**Abbreviated name**: *H.D. Barker*
 
 #### Herbarium and types
 

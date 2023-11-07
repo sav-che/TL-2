@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103859#page/299/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265486) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boldingh, Isaac {std. Bold.}|first entry]] for this author
 
 ### Author
 
-\* Boldingh, Isaäc (1879-1938), Dutch botanist, studied botany at the University of Utrecht, visited the Dutch West Indies 1906, Dr. phil. Utrecht 1909, assistant and custodian for botany at Utrecht 1908-1914, botanist at the Buitenzorg \[Bogor\] herbarium and acting chief of the institute 1914-1917, with the General Experiment Station for Agriculture at Buitenzorg 1917-1932, specialized in the selection of maize, in retirement at Amersfoort (prov. Utrecht, Netherlands) 1932; worked on the Dutch West Indies flora in his period at Utrecht. (*Bold.*).
+\* Boldingh, Isaäc (1879-1938), Dutch botanist, studied botany at the University of Utrecht, visited the Dutch West Indies 1906, Dr. phil. Utrecht 1909, assistant and custodian for botany at Utrecht 1908-1914, botanist at the Buitenzorg \[Bogor\] herbarium and acting chief of the institute 1914-1917, with the General Experiment Station for Agriculture at Buitenzorg 1917-1932, specialized in the selection of maize, in retirement at Amersfoort (prov. Utrecht, Netherlands) 1932; worked on the Dutch West Indies flora in his period at Utrecht. 
+**Abbreviated name**: *Bold.*
 
 #### Herbarium and types
 

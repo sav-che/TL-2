@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103832#page/406/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33258872) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grimm, Julius (1889-x), German botanist, born in Frankfurt am Main, moved to Limburg a. d. Lahn, studied in Freiburg, Munich and Bonn (doctorate in 1912). (*J. Grimm*).
+Grimm, Julius (1889-x), German botanist, born in Frankfurt am Main, moved to Limburg a. d. Lahn, studied in Freiburg, Munich and Bonn (doctorate in 1912). 
+**Abbreviated name**: *J. Grimm*
 
 #### Note
 

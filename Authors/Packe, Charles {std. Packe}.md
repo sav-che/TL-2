@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103624#page/18/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33189511) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Packe, Charles (1826-1896), British naturalist and mountaineer of independent means in Leicestershire; B.A. Oxford 1849; explorer of the Alps, Pyrenees and the Sierra Nevada. (*Packe*).
+Packe, Charles (1826-1896), British naturalist and mountaineer of independent means in Leicestershire; B.A. Oxford 1849; explorer of the Alps, Pyrenees and the Sierra Nevada. 
+**Abbreviated name**: *Packe*
 
 #### Herbarium and types
 

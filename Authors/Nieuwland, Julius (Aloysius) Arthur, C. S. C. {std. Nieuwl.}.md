@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/item/104137#page/769/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33355840) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nieuwland, Julius \[Aloysius\] Arthur, C. S. C. (1878-1936), Belgian-born American botanist, chemist and roman catholic priest; studied at Notre Dame and Catholic University (Washington), (Dr. phil. 1904); ordained 1903 (congr. Holy Cross), Dr. Sci. Notre Dame 1911; teaching at that University from 1904-1920. (*Nieuwl.*).
+Nieuwland, Julius \[Aloysius\] Arthur, C. S. C. (1878-1936), Belgian-born American botanist, chemist and roman catholic priest; studied at Notre Dame and Catholic University (Washington), (Dr. phil. 1904); ordained 1903 (congr. Holy Cross), Dr. Sci. Notre Dame 1911; teaching at that University from 1904-1920. 
+**Abbreviated name**: *Nieuwl.*
 
 #### Herbarium and types
 

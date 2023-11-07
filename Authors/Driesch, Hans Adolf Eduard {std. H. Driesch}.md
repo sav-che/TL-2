@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/103835#page/108/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33260086) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Driesch, Hans Adolf Eduard (1867-1941), German biologist (zoologist) born 28 Oct 1867 at Kreuznach, visited the gymnasium in Hamburg, studied in Freiburg and Jena, Ph.D. in Jena (zoology), at the University of Aberdeen 1907-1908, later in Heidelberg, professor in Cologne 1919, 1921 to Leipzig, died 16 Apr 1941 at Leipzig. (*H. Driesch*).
+Driesch, Hans Adolf Eduard (1867-1941), German biologist (zoologist) born 28 Oct 1867 at Kreuznach, visited the gymnasium in Hamburg, studied in Freiburg and Jena, Ph.D. in Jena (zoology), at the University of Aberdeen 1907-1908, later in Heidelberg, professor in Cologne 1919, 1921 to Leipzig, died 16 Apr 1941 at Leipzig. 
+**Abbreviated name**: *H. Driesch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103624#page/79/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33189536) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parks, Harris Bradley (1879-?), American botanist, insect ecologist and agriculturist; B.S. Blackburn, Col. 1900; teacher at Sitka, Alaska 1905-1911, at Palmer College 1912-1917; entomologist at Texas A. and M. 1918-1920; agriculturist id. from 1922. (*Har. B. Parks*).
+Parks, Harris Bradley (1879-?), American botanist, insect ecologist and agriculturist; B.S. Blackburn, Col. 1900; teacher at Sitka, Alaska 1905-1911, at Palmer College 1912-1917; entomologist at Texas A. and M. 1918-1920; agriculturist id. from 1922. 
+**Abbreviated name**: *Har. B. Parks*
 
 #### Herbarium and types
 

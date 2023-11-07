@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103859#page/306/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bolle, Johann \[Giovanni\] (1850-?), Triest born viniculturist and agriculturist at the Experiment Station for viniculture at Gorizia (Görz, Goritz) in Slovenia. (*G. Bolle*).
+Bolle, Johann \[Giovanni\] (1850-?), Triest born viniculturist and agriculturist at the Experiment Station for viniculture at Gorizia (Görz, Goritz) in Slovenia. 
+**Abbreviated name**: *G. Bolle*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/item/104077#page/518/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33333643) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Senebier, Jean (1742-1809), Swiss linguist, bibliographer, meteorologist, physiologist, botanist, philosopher and clergyman; pastor at Genève (1765) and Chancy 1769-1773; librarian of the city of Genève 1773-1809; in temporary retirement at Rolle, Vaud during the Genève revolution (1793). (*Seneb.*).
+Senebier, Jean (1742-1809), Swiss linguist, bibliographer, meteorologist, physiologist, botanist, philosopher and clergyman; pastor at Genève (1765) and Chancy 1769-1773; librarian of the city of Genève 1773-1809; in temporary retirement at Rolle, Vaud during the Genève revolution (1793). 
+**Abbreviated name**: *Seneb.*
 
 #### Herbarium and types
 

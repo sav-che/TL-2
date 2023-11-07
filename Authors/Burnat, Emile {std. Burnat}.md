@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103414#page/465/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33120548) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burnat, Émile {std. Burnat} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Burnat, Emile (1828-1920), Swiss engineer, industrialist, magistrate and amateur botanist. (*Burnat*).
+Burnat, Emile (1828-1920), Swiss engineer, industrialist, magistrate and amateur botanist. 
+**Abbreviated name**: *Burnat*
 
 #### Herbarium and types
 

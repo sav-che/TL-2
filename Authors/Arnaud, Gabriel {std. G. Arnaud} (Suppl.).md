@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103858#page/172/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33264887) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arnaud, Gabriel {std. G. Arnaud}|first entry]] for this author
 
 ### Author
 
-\* Arnaud, Gabriel (1882-1957), French phytopathologist, Ing. agr., École natl. Agric. Montpellier 1902, assistant ib. 1902-1913, chef des travaux pratiques Station Pathologie végétale de Versailles 1913-1947 (1919 assistant director, 1923 director), Dr. Sci. Paris 1918, also professor of phytopathology École natl. Hort. Versailles 1937-1947. (*G. Arnaud*).
+\* Arnaud, Gabriel (1882-1957), French phytopathologist, Ing. agr., École natl. Agric. Montpellier 1902, assistant ib. 1902-1913, chef des travaux pratiques Station Pathologie végétale de Versailles 1913-1947 (1919 assistant director, 1923 director), Dr. Sci. Paris 1918, also professor of phytopathology École natl. Hort. Versailles 1937-1947. 
+**Abbreviated name**: *G. Arnaud*
 
 #### Herbarium and types
 

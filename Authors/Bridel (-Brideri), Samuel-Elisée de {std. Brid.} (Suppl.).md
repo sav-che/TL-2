@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/item/103861#page/83/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33266380) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bridel (-Brideri), Samuel-Elisée de {std. Brid.}|first entry]] for this author
 
 ### Author
 
-\* Bridel(-Brideri), Samuel-Elisée de (1761-1828), Swiss bryologist, born Crassier, Vaud, Switzerland, studied at the University of Lausanne, called to Gotha as teacher of the princes August and Friedrich von Sachsen-Gotha, subsequently private secretary and librarian to the prince-hereditary, visited Paris and Rome, ultimately "Geheimer Legationsrath", received letters of nobility ("de Bridel"), after his marriage added his wife's name Brideri. (*Brid.*).
+\* Bridel(-Brideri), Samuel-Elisée de (1761-1828), Swiss bryologist, born Crassier, Vaud, Switzerland, studied at the University of Lausanne, called to Gotha as teacher of the princes August and Friedrich von Sachsen-Gotha, subsequently private secretary and librarian to the prince-hereditary, visited Paris and Rome, ultimately "Geheimer Legationsrath", received letters of nobility ("de Bridel"), after his marriage added his wife's name Brideri. 
+**Abbreviated name**: *Brid.*
 
 #### Herbarium and types
 

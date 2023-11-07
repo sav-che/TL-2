@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/item/103624#page/629/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33190086) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rebentisch, Johann Friedrich (1772-1810), German (Prussian) botanist, active in the Brandenburger Neumark. (*Rebent.*).
+Rebentisch, Johann Friedrich (1772-1810), German (Prussian) botanist, active in the Brandenburger Neumark. 
+**Abbreviated name**: *Rebent.*
 
 #### Herbarium and types
 

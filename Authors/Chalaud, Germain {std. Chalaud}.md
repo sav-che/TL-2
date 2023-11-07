@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103860#page/46/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265713) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chalaud, Germain (1889-1967), French bryologist, born at Le Lonzac (Corrèze), educated at the École normale Tulle until 1907, teacher at Treignac and at Tulle from 1907-1919 with active duty in 1914-1919, idem at the Lycée de Bourg 1919-1921, idem at the Lycée de Toulouse 1921, licence ès sciences 1925, diplôme d'étude supérieures de botanique 1925, Dr. sci. 1929 at the Faculté des Sciences de Toulouse, had the Chaire de Botanique agricole and at the École nationale supérieure agronomique until 1955, in retirement in Toulouse and Ax-les-Thermes. (*Chalaud*).
+Chalaud, Germain (1889-1967), French bryologist, born at Le Lonzac (Corrèze), educated at the École normale Tulle until 1907, teacher at Treignac and at Tulle from 1907-1919 with active duty in 1914-1919, idem at the Lycée de Bourg 1919-1921, idem at the Lycée de Toulouse 1921, licence ès sciences 1925, diplôme d'étude supérieures de botanique 1925, Dr. sci. 1929 at the Faculté des Sciences de Toulouse, had the Chaire de Botanique agricole and at the École nationale supérieure agronomique until 1955, in retirement in Toulouse and Ax-les-Thermes. 
+**Abbreviated name**: *Chalaud*
 
 #### Herbarium and types
 

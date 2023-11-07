@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/103683#page/446/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33212478) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trattinnick, Leopold (1764-1849), Austrian botanist of private means in Wien, dedicating himself almost exclusively to natural-history; Austrian "Landschafts-Phytograph" (title), curator of the united k.k. Hof-Naturaliencabinete 1809-1835. (*Tratt.*).
+Trattinnick, Leopold (1764-1849), Austrian botanist of private means in Wien, dedicating himself almost exclusively to natural-history; Austrian "Landschafts-Phytograph" (title), curator of the united k.k. Hof-Naturaliencabinete 1809-1835. 
+**Abbreviated name**: *Tratt.*
 
 #### Herbarium and types
 

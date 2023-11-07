@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103683#page/286/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33212318) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas, William Sturgis (1871-1941), American physician and mycologist; Dr. med. Wash. Univ. 1892; medical officer in the U.S. navy during the Spanish-American and World War I; from 1920 specialized in allergy at St. Luke's Hospital, New York. (*W.S. Thomas*).
+Thomas, William Sturgis (1871-1941), American physician and mycologist; Dr. med. Wash. Univ. 1892; medical officer in the U.S. navy during the Spanish-American and World War I; from 1920 specialized in allergy at St. Luke's Hospital, New York. 
+**Abbreviated name**: *W.S. Thomas*
 
 #### Herbarium and types
 

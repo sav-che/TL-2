@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/104077#page/306/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33333431) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schöpf, Johann David (1752-1800), German (Bavarian) botanist and physician; Dr. med. Erlangen 1776; army physician with Ansbach ("Hessian") troups in the English army during the American War of Liberation 1777-1783; travelled through Pennsylvania, Maryland, the Carolina's and the Bahamas; court and military surgeon in Bayreuth 1784; president of the medical council of Ansbach 1795, id. of Bayreuth 1797. (*Schöpf*).
+Schöpf, Johann David (1752-1800), German (Bavarian) botanist and physician; Dr. med. Erlangen 1776; army physician with Ansbach ("Hessian") troups in the English army during the American War of Liberation 1777-1783; travelled through Pennsylvania, Maryland, the Carolina's and the Bahamas; court and military surgeon in Bayreuth 1784; president of the medical council of Ansbach 1795, id. of Bayreuth 1797. 
+**Abbreviated name**: *Schöpf*
 
 #### Herbarium and types
 

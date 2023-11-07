@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/item/103414#page/542/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33120625) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chevallier, François Fulgis {std. Chevall.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Chevallier, François Fulgis (1796-1840), French botanist. (*Chev.*).
+Chevallier, François Fulgis (1796-1840), French botanist. 
+**Abbreviated name**: *Chev.*
 
 #### Herbarium and types
 

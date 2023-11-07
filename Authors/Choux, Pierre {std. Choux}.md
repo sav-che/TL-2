@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103860#page/148/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33265815) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Choux, Pierre (1890-1983), French botanist, prix Coincy 1915, "préparateur de botanique à la Faculté des Sciences de Marseille" ca. 1924, director of the Jardin Botanique de la Ville de Caen 1932-1936. (*Choux*).
+Choux, Pierre (1890-1983), French botanist, prix Coincy 1915, "préparateur de botanique à la Faculté des Sciences de Marseille" ca. 1924, director of the Jardin Botanique de la Ville de Caen 1932-1936. 
+**Abbreviated name**: *Choux*
 
 #### Herbarium and types
 

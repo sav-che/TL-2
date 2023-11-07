@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103414#page/501/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cannart d'Hamale, Frédéric (1804-1888), Belgian politician and horticulturist. (*Cannart*).
+Cannart d'Hamale, Frédéric (1804-1888), Belgian politician and horticulturist. 
+**Abbreviated name**: *Cannart*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/103683#page/510/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trochain, Jean Louis (1903-1976), French botanist, Lic. sci. Toulouse; assistant at the Faculté des Sciences ib. 1924-1929; assistant Muséum d'Histoire naturelle, Paris 1929-1943; Maître de conférences Faculté des Sciences, Montpellier 1943-1948, prof. ib. 1948-1961; from 1961-1975 professor of tropical botany at Toulouse; founder and director of the Institut d'Études Africaines, Brazzaville 1947-1961. (*Troch.*).
+Trochain, Jean Louis (1903-1976), French botanist, Lic. sci. Toulouse; assistant at the Faculté des Sciences ib. 1924-1929; assistant Muséum d'Histoire naturelle, Paris 1929-1943; Maître de conférences Faculté des Sciences, Montpellier 1943-1948, prof. ib. 1948-1961; from 1961-1975 professor of tropical botany at Toulouse; founder and director of the Institut d'Études Africaines, Brazzaville 1947-1961. 
+**Abbreviated name**: *Troch.*
 
 #### Herbarium and types
 

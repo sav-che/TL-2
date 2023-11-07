@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/item/104077#page/640/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33333765) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skepper, Edmund (1825-1867), British botanist and druggist at Harwich and Bury St. Edmunds. (*Skepper*).
+Skepper, Edmund (1825-1867), British botanist and druggist at Harwich and Bury St. Edmunds. 
+**Abbreviated name**: *Skepper*
 
 #### Herbarium and types
 

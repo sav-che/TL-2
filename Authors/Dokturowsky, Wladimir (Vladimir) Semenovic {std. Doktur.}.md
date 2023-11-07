@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103835#page/40/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33260018) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dokturowsky, Wladimir (Vladimir) Semenovic (1884-1935), Russian botanist, born 6 Nov 1884, Nikolaev (Kherson govt.), died 20 Mar 1935 at Moscow, studied at University of Moscow until 1907, teacher of Natural Sciences at Odessa, 1908 at Botanical Garden of St. Petersburg, 1912-1918 in Minsk, from 1918 at Moscow. (*Doktur.*).
+Dokturowsky, Wladimir (Vladimir) Semenovic (1884-1935), Russian botanist, born 6 Nov 1884, Nikolaev (Kherson govt.), died 20 Mar 1935 at Moscow, studied at University of Moscow until 1907, teacher of Natural Sciences at Odessa, 1908 at Botanical Garden of St. Petersburg, 1912-1918 in Minsk, from 1918 at Moscow. 
+**Abbreviated name**: *Doktur.*
 
 #### Herbarium and types
 

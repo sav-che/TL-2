@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/103414#page/409/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33120492) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broun, Alfred Forbes (1858-x), British botanist who worked some time in the Sudan. (*Broun*).
+Broun, Alfred Forbes (1858-x), British botanist who worked some time in the Sudan. 
+**Abbreviated name**: *Broun*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/103624#page/272/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pierre, Jean Baptiste Louis (1833-1905), French botanist, born on Réunion; studied in Paris 1851, in 1855 at Strasbourg; from 1861-1865 at the Calcutta botanical garden; from 1865-1877 director at the Saigon botanical garden, exploring Cambodja, Cochinchina and S. Siam; back to France 1877, living near or in Paris. (*Pierre*).
+Pierre, Jean Baptiste Louis (1833-1905), French botanist, born on Réunion; studied in Paris 1851, in 1855 at Strasbourg; from 1861-1865 at the Calcutta botanical garden; from 1865-1877 director at the Saigon botanical garden, exploring Cambodja, Cochinchina and S. Siam; back to France 1877, living near or in Paris. 
+**Abbreviated name**: *Pierre*
 
 #### Herbarium and types
 

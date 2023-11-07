@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103624#page/208/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33189665) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peters, Karl \[Carl\] (1865-1925), German (Prussian) botanist and gardener at Berlin and Berlin-Dahlem; from 1886-1925, subsequently as Reviergehilfe, Öbergärtner (1894), Garteninspektor (1907), and Oberinspektor (1913). (*K. Peters*).
+Peters, Karl \[Carl\] (1865-1925), German (Prussian) botanist and gardener at Berlin and Berlin-Dahlem; from 1886-1925, subsequently as Reviergehilfe, Öbergärtner (1894), Garteninspektor (1907), and Oberinspektor (1913). 
+**Abbreviated name**: *K. Peters*
 
 #### Herbarium and types
 

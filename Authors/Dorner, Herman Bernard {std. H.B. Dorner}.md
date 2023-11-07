@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103835#page/70/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33260048) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dorner, Herman Bernard (1878-x), American botanist born 10 Apr 1878 at Lafayette (Indiana), at Purdue B.S. 1900, M.S. 1901, assistant in botany at Indiana Agric. Experim. Station, Purdue University 1901-1902, Wabash College 1906-1908 floricul., Illinois 1908-1911, assistant professor 1911-1918, professor from 1918, specialized in scientific and commercial floriculture. (*H.B. Dorner*).
+Dorner, Herman Bernard (1878-x), American botanist born 10 Apr 1878 at Lafayette (Indiana), at Purdue B.S. 1900, M.S. 1901, assistant in botany at Indiana Agric. Experim. Station, Purdue University 1901-1902, Wabash College 1906-1908 floricul., Illinois 1908-1911, assistant professor 1911-1918, professor from 1918, specialized in scientific and commercial floriculture. 
+**Abbreviated name**: *H.B. Dorner*
 
 #### Herbarium and types
 

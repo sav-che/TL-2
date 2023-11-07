@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103860#page/110/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33265777) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chickering, John White, Jr. (1831-1913), American botanist, born at Bolton, Mass., A.B. Bowdoin 1852, id. A.M. 1855, Theological Seminary Bangor 1859-1860, teacher 1852-1856, principal Seneca College Inst. 1857-1858, pastor 1860-1870, professor of natural sciences Gallaudet 1870-1900, lector at Gallaudet and Howard from 1900 (*Chick.*).
+Chickering, John White, Jr. (1831-1913), American botanist, born at Bolton, Mass., A.B. Bowdoin 1852, id. A.M. 1855, Theological Seminary Bangor 1859-1860, teacher 1852-1856, principal Seneca College Inst. 1857-1858, pastor 1860-1870, professor of natural sciences Gallaudet 1870-1900, lector at Gallaudet and Howard from 1900 
+**Abbreviated name**: *Chick.*
 
 #### Herbarium and types
 

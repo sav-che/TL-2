@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103624#page/433/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33189890) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Provancher, Léon (1820-1892), Canadian clergyman, botanist, entomologist and conchologist; ord. Québec 1844; minister at various Québec parishes 1844-1854, at St.-Joachim 1854-1862; from 1862-1871 at Portneuf; in retirement at Cap-Rouge nr. Québec from 1871; founder of le Naturaliste canadien. (*Prov.*).
+Provancher, Léon (1820-1892), Canadian clergyman, botanist, entomologist and conchologist; ord. Québec 1844; minister at various Québec parishes 1844-1854, at St.-Joachim 1854-1862; from 1862-1871 at Portneuf; in retirement at Cap-Rouge nr. Québec from 1871; founder of le Naturaliste canadien. 
+**Abbreviated name**: *Prov.*
 
 #### Herbarium and types
 

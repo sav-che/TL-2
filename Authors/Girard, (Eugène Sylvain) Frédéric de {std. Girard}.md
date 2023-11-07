@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103832#page/242/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33258708) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Girard, \[Eugène Sylvain\] Frédéric de (1809-1850), French botanist, born 28 Jul 1809 in Agde (Hérault), studied with Aug. St.-Hilaire and helped him publish on the flora of Brazil, died 21 Oct 1850 in Montpellier. (*Girard*).
+Girard, \[Eugène Sylvain\] Frédéric de (1809-1850), French botanist, born 28 Jul 1809 in Agde (Hérault), studied with Aug. St.-Hilaire and helped him publish on the flora of Brazil, died 21 Oct 1850 in Montpellier. 
+**Abbreviated name**: *Girard*
 
 #### Herbarium and types
 

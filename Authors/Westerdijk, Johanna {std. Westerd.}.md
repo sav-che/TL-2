@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103250#page/270/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33066550) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Westerdijk, Johanna (1883-1961), Dutch phytopathologist; studied botany at Amsterdam University with Hugo de Vries 1900-1904; with K. Goebel in München 1904-1906; Dr. phil. Zürich 1906 with H. Schinz; director of the Laboratorium Willie Commelin Scholten Amsterdam 1906-1920 and Baarn 1920-1952; professor of phytopa thology at Utrecht University 1917, idem Amsterdam 1930. (*Westerd.*).
+Westerdijk, Johanna (1883-1961), Dutch phytopathologist; studied botany at Amsterdam University with Hugo de Vries 1900-1904; with K. Goebel in München 1904-1906; Dr. phil. Zürich 1906 with H. Schinz; director of the Laboratorium Willie Commelin Scholten Amsterdam 1906-1920 and Baarn 1920-1952; professor of phytopa thology at Utrecht University 1917, idem Amsterdam 1930. 
+**Abbreviated name**: *Westerd.*
 
 #### Herbarium and types
 

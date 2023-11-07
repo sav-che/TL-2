@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/104077#page/406/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33333531) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulze, Georg \[Martin\] (1909-x), German (Prussian-Saxony) botanist; Dr. phil. Univ. Berlin 1934; from 1933-1952 assistant (in various ranks) at the Botanical Garden and Museum, Berlin-Dahlem, curator 1952, in charge of the division of phanerogams 1960; "wissenschaftlicher Oberrat" 1966, 1969 director; from 1971-1974 also professor of botany at the Free University of Berlin; from 1959-1968 lecturer at the horticultural college Berlin-Dahlem; from 1974 in retirement; specialist on Balsaminaceae; member of the editorial committee for the International Code of Botanical Nomenclature 1954-1972. (*G.M. Schulze*).
+Schulze, Georg \[Martin\] (1909-x), German (Prussian-Saxony) botanist; Dr. phil. Univ. Berlin 1934; from 1933-1952 assistant (in various ranks) at the Botanical Garden and Museum, Berlin-Dahlem, curator 1952, in charge of the division of phanerogams 1960; "wissenschaftlicher Oberrat" 1966, 1969 director; from 1971-1974 also professor of botany at the Free University of Berlin; from 1959-1968 lecturer at the horticultural college Berlin-Dahlem; from 1974 in retirement; specialist on Balsaminaceae; member of the editorial committee for the International Code of Botanical Nomenclature 1954-1972. 
+**Abbreviated name**: *G.M. Schulze*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103250#page/259/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33066539) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wesmael, Alfred (1832-1905), Belgian botanist and horticulturist; professor of botany at the École d'horticulture de Vilvorde. (*Wesm.*).
+Wesmael, Alfred (1832-1905), Belgian botanist and horticulturist; professor of botany at the École d'horticulture de Vilvorde. 
+**Abbreviated name**: *Wesm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103835#page/251/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33260229) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eaton, Alvah Augustus (1865-1908), American botanist, mainly pteridologist, born 20 Nov 1865 Seabrook, New Hampshire, where he spent his youth as well as at Salisbury, Mass., graduated from the Putnam School, Newburyport, Mass., teacher for several years, most of the time in California, because of ill health, took up business as a florist at Seabrook, connected with the Ames Botanical Laboratory at North Easton (Mass.) for the last six years of his life, died 29 Sep 1908 at North Easton. (*A.A. Eaton*).
+Eaton, Alvah Augustus (1865-1908), American botanist, mainly pteridologist, born 20 Nov 1865 Seabrook, New Hampshire, where he spent his youth as well as at Salisbury, Mass., graduated from the Putnam School, Newburyport, Mass., teacher for several years, most of the time in California, because of ill health, took up business as a florist at Seabrook, connected with the Ames Botanical Laboratory at North Easton (Mass.) for the last six years of his life, died 29 Sep 1908 at North Easton. 
+**Abbreviated name**: *A.A. Eaton*
 
 #### Herbarium and types
 

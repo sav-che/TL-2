@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103861#page/153/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33266450) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, William Henry (1884-1939), American botanist, studied at Richmond College and at Johns Hopkins University, Dr. phil. 1910, at Michigan Exp. Station 1910-1911, from 1911 employed with the Bureau of Science at Manila, Philippine Islands, director id. 1924-1933, also professor of botany at the University of the Philippines, in retirement at Manila 1933-1937, in charge of the Botanical Laboratory and the Botanical Garden at Johns Hopkins University, Baltimore, from Feb 1938. (*W.H. Br.*).
+Brown, William Henry (1884-1939), American botanist, studied at Richmond College and at Johns Hopkins University, Dr. phil. 1910, at Michigan Exp. Station 1910-1911, from 1911 employed with the Bureau of Science at Manila, Philippine Islands, director id. 1924-1933, also professor of botany at the University of the Philippines, in retirement at Manila 1933-1937, in charge of the Botanical Laboratory and the Botanical Garden at Johns Hopkins University, Baltimore, from Feb 1938. 
+**Abbreviated name**: *W.H. Br.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103250#page/182/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33066462) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Webber, Herbert John (1865-1946), American botanist; A.M. Univ. Nebraska 1890; Dr. phil. Washington Univ. 1901; instructor in botany Univ. Nebraska 1889-1890; id. Shaw School Botany St. Louis 1891-1892; USDA investigator orange diseases Florida 1893-1897; in charge of plant breeding USDA 1899-1907; professor exptl. plant biology Cornell Univ. 1907-1908, acting director 1909-1910; professor of plant breeding 1910-1912 N.Y. State College Agric; director Citrus Experiment Station, Riverside and prof. plant breeding Univ. Calif. 1913-1920; professor of subtropical horticulture ib. Berkeley 192 1-1936. (*Webber*).
+Webber, Herbert John (1865-1946), American botanist; A.M. Univ. Nebraska 1890; Dr. phil. Washington Univ. 1901; instructor in botany Univ. Nebraska 1889-1890; id. Shaw School Botany St. Louis 1891-1892; USDA investigator orange diseases Florida 1893-1897; in charge of plant breeding USDA 1899-1907; professor exptl. plant biology Cornell Univ. 1907-1908, acting director 1909-1910; professor of plant breeding 1910-1912 N.Y. State College Agric; director Citrus Experiment Station, Riverside and prof. plant breeding Univ. Calif. 1913-1920; professor of subtropical horticulture ib. Berkeley 192 1-1936. 
+**Abbreviated name**: *Webber*
 
 #### Herbarium and types
 

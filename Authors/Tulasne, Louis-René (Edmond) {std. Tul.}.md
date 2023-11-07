@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/103683#page/540/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33212572) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tulasne, Louis-René \["Edmond"\] (1815-1885), French botanist; studied law, Lic. jur. 1885, public notary ib. 1835-1839; settled in Paris 1839-1965 as a private scientist dedicating himself to botany (from 1842-1865 research associate "aide-naturaliste" at the Muséum d'Histoire naturelle), charity and the Christian religion; in retirement in Hyères, S. France 1865-1885. (*Tul.*).
+Tulasne, Louis-René \["Edmond"\] (1815-1885), French botanist; studied law, Lic. jur. 1885, public notary ib. 1835-1839; settled in Paris 1839-1965 as a private scientist dedicating himself to botany (from 1842-1865 research associate "aide-naturaliste" at the Muséum d'Histoire naturelle), charity and the Christian religion; in retirement in Hyères, S. France 1865-1885. 
+**Abbreviated name**: *Tul.*
 
 #### Herbarium and types
 

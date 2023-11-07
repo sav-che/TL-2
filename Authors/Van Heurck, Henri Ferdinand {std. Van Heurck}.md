@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/item/103683#page/676/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33212708) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van Heurck, Henri Ferdinand (1838-1909), Belgian botanist, microscopist and industrialist at Antwerp; autodidactic botanist, in charge of his family's colour-factory and chemical firm 1869-1896; "director-professor" of the Antwerp botanical garden 1877-1909. (*Van Heurck*).
+Van Heurck, Henri Ferdinand (1838-1909), Belgian botanist, microscopist and industrialist at Antwerp; autodidactic botanist, in charge of his family's colour-factory and chemical firm 1869-1896; "director-professor" of the Antwerp botanical garden 1877-1909. 
+**Abbreviated name**: *Van Heurck*
 
 #### Herbarium and types
 

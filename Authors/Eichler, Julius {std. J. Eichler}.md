@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103835#page/292/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33260270) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichler, Julius (1859-1929), German botanist, born in Eschwege near Kassel 1859, died in Stuttgart 1929, came to Stuttgart 1883, conservator botanic department, 1892 with title of professor of floristics. (*J. Eichler*).
+Eichler, Julius (1859-1929), German botanist, born in Eschwege near Kassel 1859, died in Stuttgart 1929, came to Stuttgart 1883, conservator botanic department, 1892 with title of professor of floristics. 
+**Abbreviated name**: *J. Eichler*
 
 #### Herbarium and types
 

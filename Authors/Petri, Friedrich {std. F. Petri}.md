@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103624#page/222/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33189679) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petri, Friedrich (1837-1896), German (Berlin) botanist; Dr. phil. Berlin 1863; pupil of A. Braun; from 1864-1896 teacher at the high school (Realschule) of Luisenstadt (Berlin; 1865 ordentlicher Lehrer, 1875 Oberlehrer, 1884 Professor); in his later years especially active in chemical technology and hygienics. (*F. Petri*).
+Petri, Friedrich (1837-1896), German (Berlin) botanist; Dr. phil. Berlin 1863; pupil of A. Braun; from 1864-1896 teacher at the high school (Realschule) of Luisenstadt (Berlin; 1865 ordentlicher Lehrer, 1875 Oberlehrer, 1884 Professor); in his later years especially active in chemical technology and hygienics. 
+**Abbreviated name**: *F. Petri*
 
 #### Herbarium and types
 

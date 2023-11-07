@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103859#page/185/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33265372) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bisceglie, Vito (fl. 1809), Italian clergyman, canon cantor at the church of Terlizzi, prov. Bari, Apulia and botanist. (*Bisceglie*).
+Bisceglie, Vito (fl. 1809), Italian clergyman, canon cantor at the church of Terlizzi, prov. Bari, Apulia and botanist. 
+**Abbreviated name**: *Bisceglie*
 
 #### Herbarium and types
 

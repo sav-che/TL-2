@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103861#page/407/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33266704) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Capra, Giuseppe (fl. 1905), Italian abbé and doctor, member of the Société de la flore Valdotaine, Aosta. (*G. Capra*).
+Capra, Giuseppe (fl. 1905), Italian abbé and doctor, member of the Société de la flore Valdotaine, Aosta. 
+**Abbreviated name**: *G. Capra*
 
 #### Herbarium and types
 

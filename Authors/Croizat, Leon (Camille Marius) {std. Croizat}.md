@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/item/103860#page/481/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33266148) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Croizat, Leon \[Camille Marius\] (1894-1982), Italian-French botanist (French parents from Lyon, Chambery and Geneva), studied at the University of Turin, in the Italian Army 1914-1919, law degree at Turin 1920, moved to the U.S.A. 1923, achieved success in selling his water colour paintings, moved to Paris after the Wall Street Crash of 1929-1930, American Citizen 1 Jan 1929, returned to the U.S.A., employed as technical assistant at the Arnold Arboretum with E.D. Merrill 1938-1947, moved to Caracas, Venezuela 1947-1952, from 1953 on Publishing on his own, died of a heart attack 1982: "Knowledge has always been my goal". (*Croizat*).
+Croizat, Leon \[Camille Marius\] (1894-1982), Italian-French botanist (French parents from Lyon, Chambery and Geneva), studied at the University of Turin, in the Italian Army 1914-1919, law degree at Turin 1920, moved to the U.S.A. 1923, achieved success in selling his water colour paintings, moved to Paris after the Wall Street Crash of 1929-1930, American Citizen 1 Jan 1929, returned to the U.S.A., employed as technical assistant at the Arnold Arboretum with E.D. Merrill 1938-1947, moved to Caracas, Venezuela 1947-1952, from 1953 on Publishing on his own, died of a heart attack 1982: "Knowledge has always been my goal". 
+**Abbreviated name**: *Croizat*
 
 #### Herbarium and types
 

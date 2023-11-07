@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/104077#page/536/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33333661) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Serres, Jean Jacques (1790-1858), French botanist and soldier; with the Napoleonic Army in the Russian campaign; in charge of a gun factory at Toulouse, ultimately in retirement at Roche-des-Arnauds, nr Gap, France, dedicating himself entirely to botany. (*J. Serres*).
+Serres, Jean Jacques (1790-1858), French botanist and soldier; with the Napoleonic Army in the Russian campaign; in charge of a gun factory at Toulouse, ultimately in retirement at Roche-des-Arnauds, nr Gap, France, dedicating himself entirely to botany. 
+**Abbreviated name**: *J. Serres*
 
 #### Herbarium and types
 

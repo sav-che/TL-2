@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/item/103414#page/615/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33120698) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cretzoiu, Paul {std. Cretz.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cretzoiu, Paul (1909-1946), Roumanian botanist and conservator of forests. (*Cretz.*).
+Cretzoiu, Paul (1909-1946), Roumanian botanist and conservator of forests. 
+**Abbreviated name**: *Cretz.*
 
 #### Herbarium and types
 

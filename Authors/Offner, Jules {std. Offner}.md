@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/item/104137#page/829/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Offner, Jules (1873-1957), French botanist at Grenoble; Lic. sci. nat. (Lyc. Champollion) 1895, Dr. méd. Grenoble 1901; in various functions at the University of Grenoble 1895-1937; mainly specialized as mycologist, toxicologist, pharmacologist. (*Offner*).
+Offner, Jules (1873-1957), French botanist at Grenoble; Lic. sci. nat. (Lyc. Champollion) 1895, Dr. méd. Grenoble 1901; in various functions at the University of Grenoble 1895-1937; mainly specialized as mycologist, toxicologist, pharmacologist. 
+**Abbreviated name**: *Offner*
 
 #### Herbarium and types
 

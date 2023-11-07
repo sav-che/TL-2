@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/item/103861#page/483/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33266780) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cave, George H. (c. 1870-1965), British gardener, Kew gardener 1894, assistant at the Botanic Gardens Calcutta 1896, at the Goverment Cinchona Plantations, Mungpoo 1900, Lloyd Botanic Garden, Darjeeling, 1904, collected in Tibet, Nepal and Sikkim. (*G. Cave*).
+Cave, George H. (c. 1870-1965), British gardener, Kew gardener 1894, assistant at the Botanic Gardens Calcutta 1896, at the Goverment Cinchona Plantations, Mungpoo 1900, Lloyd Botanic Garden, Darjeeling, 1904, collected in Tibet, Nepal and Sikkim. 
+**Abbreviated name**: *G. Cave*
 
 #### Herbarium and types
 

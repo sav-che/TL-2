@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103414#page/446/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33120529) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buddle, Rev. Adam (*c*. 1660-1715), English botanist, M. A. Cambridge 1685, rector of North Fambridge, Essex. (*Buddle*).
+Buddle, Rev. Adam (*c*. 1660-1715), English botanist, M. A. Cambridge 1685, rector of North Fambridge, Essex. 
+**Abbreviated name**: *Buddle*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/item/103414#page/544/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33120627) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chiovenda, Emilio {std. Chiov.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Chiovenda, Emilio (1871-1940), Italian botanist. (*Chiov.*).
+Chiovenda, Emilio (1871-1940), Italian botanist. 
+**Abbreviated name**: *Chiov.*
 
 #### Herbarium and types
 

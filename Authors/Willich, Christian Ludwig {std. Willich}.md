@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103250#page/391/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33066671) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willich, Christian Ludwig (1718-1773), German (Rügen/Pommerian) botanist and physician; Dr. phil. Göttingen 1747; physician at Nordheim. (*Willich*).
+Willich, Christian Ludwig (1718-1773), German (Rügen/Pommerian) botanist and physician; Dr. phil. Göttingen 1747; physician at Nordheim. 
+**Abbreviated name**: *Willich*
 
 #### Herbarium and types
 

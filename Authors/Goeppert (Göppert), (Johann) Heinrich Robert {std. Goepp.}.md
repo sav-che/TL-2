@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/item/103414#page/1012/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/page/33121095) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Goeppert (Göppert), (Johann) Heinrich (Robert) {std. Goepp.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Goeppert \[Göppert\], \[Johann\] Heinrich Robert (1800-1884), German physician and palaeobotanist, professor of botany and director of the botanic garden in Breslau, the "Bernstein-Goeppert". (*Goepp.*).
+Goeppert \[Göppert\], \[Johann\] Heinrich Robert (1800-1884), German physician and palaeobotanist, professor of botany and director of the botanic garden in Breslau, the "Bernstein-Goeppert". 
+**Abbreviated name**: *Goepp.*
 
 #### Collections
 

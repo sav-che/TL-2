@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103858#page/243/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33264958) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bachlechner, Gregor {std. Bachlechner}|first entry]] for this author
 
 ### Author
 
-\* Bachlechner, Gregor (1808-1873), Austrian botanist and teacher; canon at the Augustine convent nr. Brixen, director of the k.k. Stiftgymnasium \[convent gymn.\] in Brixen. (*Bachlechner*).
+\* Bachlechner, Gregor (1808-1873), Austrian botanist and teacher; canon at the Augustine convent nr. Brixen, director of the k.k. Stiftgymnasium \[convent gymn.\] in Brixen. 
+**Abbreviated name**: *Bachlechner*
 
 #### Herbarium and types
 

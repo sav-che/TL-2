@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/item/104077#page/475/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33333600) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scott, John (1838-1880), Scottish botanist and gardener; trained at Edinburgh; curator of the botanic garden Calcutta 1865-ca. 1879. (*Jo. Scott*).
+Scott, John (1838-1880), Scottish botanist and gardener; trained at Edinburgh; curator of the botanic garden Calcutta 1865-ca. 1879. 
+**Abbreviated name**: *Jo. Scott*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/103253#page/796/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lauterer, Joseph (1848-1911), German physician; surgeon in the Franco-Prussian war; botanist and phytochemist; originally at Freiburg i.B., from Mar 1885 in Australia at Brisbane. (*Lauterer*).
+Lauterer, Joseph (1848-1911), German physician; surgeon in the Franco-Prussian war; botanist and phytochemist; originally at Freiburg i.B., from Mar 1885 in Australia at Brisbane. 
+**Abbreviated name**: *Lauterer*
 
 #### Herbarium and types
 

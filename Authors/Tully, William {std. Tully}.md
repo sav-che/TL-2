@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/item/103683#page/545/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33212577) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tully, William (1785-1859), American botanist and philosopher; studied at Yale and Philadelphia; practicing physician in Enfield, Conn. 1811; Dr. med. Yale 1819; associated with Thomas Minor at Middleton, Conn. 1819-1824; president of the Vermont Medical College, Castleton 1824-1830; in private practice at Albany New York 1826-1829 continuing his lectures at Castleton; professor of materia medica and therapeutics Yale 1829-1841; in retirement at Springfield, Mass. (*Tully*).
+Tully, William (1785-1859), American botanist and philosopher; studied at Yale and Philadelphia; practicing physician in Enfield, Conn. 1811; Dr. med. Yale 1819; associated with Thomas Minor at Middleton, Conn. 1819-1824; president of the Vermont Medical College, Castleton 1824-1830; in private practice at Albany New York 1826-1829 continuing his lectures at Castleton; professor of materia medica and therapeutics Yale 1829-1841; in retirement at Springfield, Mass. 
+**Abbreviated name**: *Tully*
 
 #### Herbarium and types
 

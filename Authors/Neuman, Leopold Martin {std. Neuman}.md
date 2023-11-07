@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/item/104137#page/747/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33355818) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neuman, Leopold Martin (1852-1922), Swedish botanist, Dr. phil. Lund 1881; teacher at Sundsvall high school 1883; rector at Ystad high school 1889-1918; at Österhalm, Stockholm 1904. (*Neuman*).
+Neuman, Leopold Martin (1852-1922), Swedish botanist, Dr. phil. Lund 1881; teacher at Sundsvall high school 1883; rector at Ystad high school 1889-1918; at Österhalm, Stockholm 1904. 
+**Abbreviated name**: *Neuman*
 
 #### Herbarium and types
 

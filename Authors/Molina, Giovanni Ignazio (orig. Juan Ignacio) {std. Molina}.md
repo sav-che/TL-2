@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/104137#page/564/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33355635) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Molina, Giovanni Ignazio (orig. Juan Ignacio) (1737-1829), Chilean jesuit priest, missionary, botanist and plant collector; to Italy 1768; professor of natural sciences Bologna 1774. (*Molina*).
+Molina, Giovanni Ignazio (orig. Juan Ignacio) (1737-1829), Chilean jesuit priest, missionary, botanist and plant collector; to Italy 1768; professor of natural sciences Bologna 1774. 
+**Abbreviated name**: *Molina*
 
 #### Herbarium and types
 

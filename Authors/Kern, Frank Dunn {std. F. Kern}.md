@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/item/103253#page/550/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33068766) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kern, Frank Dunn (1883-1973), American mycologist and phytopathologist; Ph. D. Columbia 1911; specialist on Uredinales; associate botanist at Purdue University (1905-1910); instructor at Purdue 1910-1913; from 1913-1950 at Pennsylvania State University. (*F. Kern*).
+Kern, Frank Dunn (1883-1973), American mycologist and phytopathologist; Ph. D. Columbia 1911; specialist on Uredinales; associate botanist at Purdue University (1905-1910); instructor at Purdue 1910-1913; from 1913-1950 at Pennsylvania State University. 
+**Abbreviated name**: *F. Kern*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103859#page/13/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33265200) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beaurieux, R. (fl. 1914), Belgian botanist at the Institut Bot. Univ. Liège. (*Beaurieux*).
+Beaurieux, R. (fl. 1914), Belgian botanist at the Institut Bot. Univ. Liège. 
+**Abbreviated name**: *Beaurieux*
 
 #### Herbarium and types
 

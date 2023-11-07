@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103250#page/221/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33066501) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weir, James Robert (1882-1943), American botanist; studied at Purdue, Freiburg, Indiana, Harvard and München; Dr. phil. München 1911; assistant forest expert U.S. Forest Service 1905-1907; director science laboratories, Culver Mil. Acad. 1907-1909; forest pathologist U.S.D.A. 1911-1921; pathologist ib. 1921-1927; Rubber Research Institute, Malaya 1927-1929; with Goodyear Rubber Plantation Co. 1929-1933; agriculturist Ford Motor Co., Dearborn and Companhïa Ford Industr. do Brazil from 1933. (*Weir*).
+Weir, James Robert (1882-1943), American botanist; studied at Purdue, Freiburg, Indiana, Harvard and München; Dr. phil. München 1911; assistant forest expert U.S. Forest Service 1905-1907; director science laboratories, Culver Mil. Acad. 1907-1909; forest pathologist U.S.D.A. 1911-1921; pathologist ib. 1921-1927; Rubber Research Institute, Malaya 1927-1929; with Goodyear Rubber Plantation Co. 1929-1933; agriculturist Ford Motor Co., Dearborn and Companhïa Ford Industr. do Brazil from 1933. 
+**Abbreviated name**: *Weir*
 
 #### Herbarium and types
 

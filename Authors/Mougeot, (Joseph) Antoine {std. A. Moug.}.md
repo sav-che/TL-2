@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/item/104137#page/621/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33355692) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mougeot, (Joseph) Antoine (1815-1889), French physician and botanist at Bruyères; son of Jean Baptiste Mougeot; studied medicine at Strasbourg (M. D. 1837); mayor of Bruyères 1854-1855, 1861-1868, 1871-1876; member and president of the Conseil général des Vosges (1859-1879). (*A. Moug.*).
+Mougeot, (Joseph) Antoine (1815-1889), French physician and botanist at Bruyères; son of Jean Baptiste Mougeot; studied medicine at Strasbourg (M. D. 1837); mayor of Bruyères 1854-1855, 1861-1868, 1871-1876; member and president of the Conseil général des Vosges (1859-1879). 
+**Abbreviated name**: *A. Moug.*
 
 #### Herbarium and types
 

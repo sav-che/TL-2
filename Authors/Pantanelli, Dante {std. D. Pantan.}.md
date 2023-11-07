@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103624#page/59/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pantanelli, Dante (1844-1913), Italian palaeontologist and geologist; Dr. math. phys. Pisa 1865; from 1882-1913 professor of mineralogy and geology at the University of Modena; student of Meneghini. (*D. Pantan.*).
+Pantanelli, Dante (1844-1913), Italian palaeontologist and geologist; Dr. math. phys. Pisa 1865; from 1882-1913 professor of mineralogy and geology at the University of Modena; student of Meneghini. 
+**Abbreviated name**: *D. Pantan.*
 
 #### Herbarium and types
 

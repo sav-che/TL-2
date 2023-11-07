@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/item/103414#page/854/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Evans, Alexander William {std. A. Evans} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Evans, Alexander William (1868-1959), American bryologist and lichenologist at Yale. (*A. Evans*).
+Evans, Alexander William (1868-1959), American bryologist and lichenologist at Yale. 
+**Abbreviated name**: *A. Evans*
 
 #### Herbarium and types
 

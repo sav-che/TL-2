@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103253#page/476/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnson, William (1844-1919), British lichenologist, Primitive Methodist minister in Yorkshire (1864-1908). (*W. Johns.*).
+Johnson, William (1844-1919), British lichenologist, Primitive Methodist minister in Yorkshire (1864-1908). 
+**Abbreviated name**: *W. Johns.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/104077#page/41/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33333128) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sandberger, Karl \[Carl\] Ludwig Fridolin von (1826-1898), German (Nassau-Dillenburg) palaeontologist; Dr. phil. Giessen 1846; secr. Nassau. Ver. Naturk. 1849-1852; head of the Wiesbaden Natural History Museum 1852-1855; professor of geology at the Karlsruhe Polytechnic 1855-1863; professor of mineralogy and geology Würzburg 1863-1896; in retirement in München. (*K. Sandberger*).
+Sandberger, Karl \[Carl\] Ludwig Fridolin von (1826-1898), German (Nassau-Dillenburg) palaeontologist; Dr. phil. Giessen 1846; secr. Nassau. Ver. Naturk. 1849-1852; head of the Wiesbaden Natural History Museum 1852-1855; professor of geology at the Karlsruhe Polytechnic 1855-1863; professor of mineralogy and geology Würzburg 1863-1896; in retirement in München. 
+**Abbreviated name**: *K. Sandberger*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103835#page/158/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33260136) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dufft, Adolf {std. Dufft}|first entry]] for this author
 
 ### Author
 
-\* Dufft, Adolf (1800-1875), German factory owner in Potsdam, born 30 Nov 1800, interested in and publishing on lichens especially Cladonia, died 24 Sep 1875 at Potsdam. (*Dufft*).
+\* Dufft, Adolf (1800-1875), German factory owner in Potsdam, born 30 Nov 1800, interested in and publishing on lichens especially Cladonia, died 24 Sep 1875 at Potsdam. 
+**Abbreviated name**: *Dufft*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103253#page/91/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33068307) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartman, Carl Johan (1790-1849), Swedish physician and botanist, pupil of Thunberg at Uppsala, ultimately government physician in Gästrikland. (*Hartm.*).
+Hartman, Carl Johan (1790-1849), Swedish physician and botanist, pupil of Thunberg at Uppsala, ultimately government physician in Gästrikland. 
+**Abbreviated name**: *Hartm.*
 
 #### Herbarium and types
 

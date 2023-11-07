@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/item/104137#page/419/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meinshausen, Karl \[Friedrich\] (1819-1899), Riga (Livonia)-born Baltic-German/Russian botanist at St. Petersburg; travelling for the botanical garden 1839-1844, curator of the garden herbarium until 1851; from 1851-1896 curator at the botanical museum of the Academy of Sciences (*Meinsh.*).
+Meinshausen, Karl \[Friedrich\] (1819-1899), Riga (Livonia)-born Baltic-German/Russian botanist at St. Petersburg; travelling for the botanical garden 1839-1844, curator of the garden herbarium until 1851; from 1851-1896 curator at the botanical museum of the Academy of Sciences 
+**Abbreviated name**: *Meinsh.*
 
 #### Herbarium and types
 

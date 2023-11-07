@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/item/103414#page/183/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33120266) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bary, (Heinrich) Anton de {std. de Bary} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bary, Heinrich Anton de (1831-1888), German botanist, "The founder of modern mycology" (Ainsworth and Bisby). (*de Bary*).
+Bary, Heinrich Anton de (1831-1888), German botanist, "The founder of modern mycology" (Ainsworth and Bisby). 
+**Abbreviated name**: *de Bary*
 
 #### Collections
 

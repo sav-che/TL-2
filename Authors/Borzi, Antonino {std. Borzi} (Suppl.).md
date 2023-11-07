@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103859#page/375/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33265562) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Borzi, Antonino {std. Borzi}|first entry]] for this author
 
 ### Author
 
-\* Borzi, Antonino (1852-1921), Italian botanist, extraordinary professor of botany at Messina 1879, regular professor and director of the Botanical Garden in Messina 1886-1893, appointed professor of botany and director of the botanical garden at Palermo 1893-1921. (*Borzi*).
+\* Borzi, Antonino (1852-1921), Italian botanist, extraordinary professor of botany at Messina 1879, regular professor and director of the Botanical Garden in Messina 1886-1893, appointed professor of botany and director of the botanical garden at Palermo 1893-1921. 
+**Abbreviated name**: *Borzi*
 
 #### Herbarium and types
 

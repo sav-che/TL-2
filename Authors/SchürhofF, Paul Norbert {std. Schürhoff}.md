@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/104077#page/376/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-SchürhofF, Paul Norbert (1878-1939), German (Westphalian) botanist (cytologist) and entomologist; Dr. phil. Bonn 1905; lecturer ("Privat-Docent") in botany at the University of Berlin from 1924. (*Schürhoff*).
+SchürhofF, Paul Norbert (1878-1939), German (Westphalian) botanist (cytologist) and entomologist; Dr. phil. Bonn 1905; lecturer ("Privat-Docent") in botany at the University of Berlin from 1924. 
+**Abbreviated name**: *Schürhoff*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/item/103253#page/684/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33068900) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krabbe, Gustav \[Heinrich\] (1855-1895), German botanist; Dr. phil. Berlin 1882; from 1890 at Berlin University with Schwendener. (*Krabbe*).
+Krabbe, Gustav \[Heinrich\] (1855-1895), German botanist; Dr. phil. Berlin 1882; from 1890 at Berlin University with Schwendener. 
+**Abbreviated name**: *Krabbe*
 
 #### Herbarium and types
 

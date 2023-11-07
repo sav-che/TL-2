@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103833#page/159/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33259193) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deflers, Albert (1841-1921), French officer and forester, some time with the École forestière until 1880, explorer and traveller in Egypt, Arabia and Yemen (1887-1889), long time living in Cairo, ultimately in Nancy, France, member of the Société botanique de France from 1883. (*Deflers*).
+Deflers, Albert (1841-1921), French officer and forester, some time with the École forestière until 1880, explorer and traveller in Egypt, Arabia and Yemen (1887-1889), long time living in Cairo, ultimately in Nancy, France, member of the Société botanique de France from 1883. 
+**Abbreviated name**: *Deflers*
 
 #### Herbarium and types
 

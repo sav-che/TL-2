@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103683#page/345/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33212377) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thurén, Alfred Fredrik Abraham (1840-?), Finnish botanist. (*Thurén*).
+Thurén, Alfred Fredrik Abraham (1840-?), Finnish botanist. 
+**Abbreviated name**: *Thurén*
 
 #### Herbarium and types
 

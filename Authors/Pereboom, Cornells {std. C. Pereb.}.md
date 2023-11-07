@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103624#page/176/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33189633) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pereboom, Cornells (*fl*. 1788), Dutch physician and botanist at Amsterdam. (*C. Pereb.*).
+Pereboom, Cornells (*fl*. 1788), Dutch physician and botanist at Amsterdam. 
+**Abbreviated name**: *C. Pereb.*
 
 #### Herbarium and types
 

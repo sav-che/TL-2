@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103859#page/71/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bélanger, Charles Paulus {std. Bél.}|first entry]] for this author
 
 ### Author
 
-\* Bélanger, Charles Paulus (1805-1881), French (born in Paris) botanical explorer, instructed to go by land to Pondichéry and to set up a botanical garden, moved to Pegu and Java 1827, returned to France 1828 via Mauritius, Réunion, Cape of the Good Hope and St. Helena, arriving in Paris Jul 1829; director of the botanical garden at Saint Pierre on Martinique 1853-1881. (*Bél.*).
+\* Bélanger, Charles Paulus (1805-1881), French (born in Paris) botanical explorer, instructed to go by land to Pondichéry and to set up a botanical garden, moved to Pegu and Java 1827, returned to France 1828 via Mauritius, Réunion, Cape of the Good Hope and St. Helena, arriving in Paris Jul 1829; director of the botanical garden at Saint Pierre on Martinique 1853-1881. 
+**Abbreviated name**: *Bél.*
 
 #### Herbarium and types
 

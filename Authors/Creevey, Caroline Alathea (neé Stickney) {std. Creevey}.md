@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103860#page/463/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266130) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Creevey, Caroline Alathea (neé Stickney) (1843-1920), American botanist, born Union City, Michigan, married John Kennedy Creevey 20 Aug 1866, died Feb 1920 in Florida, childhood in Rockville, Conn., A.B. Wheaton Sem., Norton, Mass. 1863. (*Creevey*).
+Creevey, Caroline Alathea (neé Stickney) (1843-1920), American botanist, born Union City, Michigan, married John Kennedy Creevey 20 Aug 1866, died Feb 1920 in Florida, childhood in Rockville, Conn., A.B. Wheaton Sem., Norton, Mass. 1863. 
+**Abbreviated name**: *Creevey*
 
 #### Herbarium and types
 

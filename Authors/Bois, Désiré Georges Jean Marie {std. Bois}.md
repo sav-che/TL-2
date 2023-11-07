@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103414#page/302/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33120385) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bois, Désiré (Georges Jean Marie) {std. Bois} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bois, Désiré Georges Jean Marie (1856-1946), French horticulturist at the Muséum d'Histoire naturelle. (*D. Bois*).
+Bois, Désiré Georges Jean Marie (1856-1946), French horticulturist at the Muséum d'Histoire naturelle. 
+**Abbreviated name**: *D. Bois*
 
 #### Herbarium and types
 

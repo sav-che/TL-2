@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103859#page/264/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265451) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boelman, Hensem Adriaan Cornelis (fl. 1936), Dutch pharmacist, studied at the University of Utrecht, Dr. phil. ib. 1936. (*Boelman*).
+Boelman, Hensem Adriaan Cornelis (fl. 1936), Dutch pharmacist, studied at the University of Utrecht, Dr. phil. ib. 1936. 
+**Abbreviated name**: *Boelman*
 
 #### Herbarium and types
 

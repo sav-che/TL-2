@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103832#page/214/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33258680) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gibson, George Stacey (1818-1883), British banker and amateur botanist, born 20 Jul 1818 in Saffron Walden (Essex), his Quaker family's fortune was founded on malting and brewing and then banking (the family bank merged with others in 1863 to become Barclays), mayor of Saffron Walden 1877-1878 and later alderman and Justice of the Peace for the borough, F.L.S. 1847, died 5 Apr 1883 "at the Temperance House, Bishopsgate", London. (*Gibson*).
+Gibson, George Stacey (1818-1883), British banker and amateur botanist, born 20 Jul 1818 in Saffron Walden (Essex), his Quaker family's fortune was founded on malting and brewing and then banking (the family bank merged with others in 1863 to become Barclays), mayor of Saffron Walden 1877-1878 and later alderman and Justice of the Peace for the borough, F.L.S. 1847, died 5 Apr 1883 "at the Temperance House, Bishopsgate", London. 
+**Abbreviated name**: *Gibson*
 
 #### Herbarium and types
 

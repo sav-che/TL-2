@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103835#page/30/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33260008) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Döderlein, Ludwig Heinrich Philipp (1855-1936), born 3 Mar 1855, Bergzabern, chiefly zoologist, university professor and director zool. museum at Munich, died 23 Mar 1936, Munich. (*Döderlein*).
+Döderlein, Ludwig Heinrich Philipp (1855-1936), born 3 Mar 1855, Bergzabern, chiefly zoologist, university professor and director zool. museum at Munich, died 23 Mar 1936, Munich. 
+**Abbreviated name**: *Döderlein*
 
 #### Herbarium and types
 

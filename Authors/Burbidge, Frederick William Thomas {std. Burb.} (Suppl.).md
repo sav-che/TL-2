@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103861#page/233/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33266530) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burbidge, Frederick William Thomas {std. Burb.}|first entry]] for this author
 
 ### Author
 
-\* Burbidge, Frederick William Thomas (1847-1905), English botanist, born at Wymeswold, Leicestershire, gardener in the gardens of the Royal Horticultural Society at Chiswick, gardener at Kew 1868-1870, on the staff of "The Garden" 1873-1877, collected living plants for Messrs. James Veitch & Sons in North Borneo, Sulu Archipelago, Philipp. Isl. 1877-1879, curator of the Botanic Garden of Trinity College, Dublin 1879-1905, master of arts honoris causa of Dublin University 1889. (*Burb.*).
+\* Burbidge, Frederick William Thomas (1847-1905), English botanist, born at Wymeswold, Leicestershire, gardener in the gardens of the Royal Horticultural Society at Chiswick, gardener at Kew 1868-1870, on the staff of "The Garden" 1873-1877, collected living plants for Messrs. James Veitch & Sons in North Borneo, Sulu Archipelago, Philipp. Isl. 1877-1879, curator of the Botanic Garden of Trinity College, Dublin 1879-1905, master of arts honoris causa of Dublin University 1889. 
+**Abbreviated name**: *Burb.*
 
 #### Herbarium and types
 

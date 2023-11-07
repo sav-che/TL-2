@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/103624#page/317/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33189774) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pluskal (Pluska-Moravicanský), Franiscek Sal. (1811-1901), Moravian botanist; practicing physician at Lomnitz 1839-1857; later in Welechrad. (*Pluskal*).
+Pluskal (Pluska-Moravicanský), Franiscek Sal. (1811-1901), Moravian botanist; practicing physician at Lomnitz 1839-1857; later in Welechrad. 
+**Abbreviated name**: *Pluskal*
 
 #### Herbarium and types
 

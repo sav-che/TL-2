@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/item/103835#page/458/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33260436) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eyferth, Bruno (1826-1897), German mining inspector, born 28 Jun 1826 at Holzminden, much interested in microscopical organisms (freshwater plants and animals), was one of the founders of the natural history society at Braunschweig in 1862, died 17 Jun 1897 at Braunschweig. (*Eyferth*).
+Eyferth, Bruno (1826-1897), German mining inspector, born 28 Jun 1826 at Holzminden, much interested in microscopical organisms (freshwater plants and animals), was one of the founders of the natural history society at Braunschweig in 1862, died 17 Jun 1897 at Braunschweig. 
+**Abbreviated name**: *Eyferth*
 
 #### Herbarium and types
 

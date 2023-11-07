@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/104137#page/78/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33355149) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindroth \[later: Liro\], Johan Ivar (1872-1943), Finnish botanist; 1921-1928 at Turku; later director of the phytopathological institute at Helsinki. (*Lindr.*).
+Lindroth \[later: Liro\], Johan Ivar (1872-1943), Finnish botanist; 1921-1928 at Turku; later director of the phytopathological institute at Helsinki. 
+**Abbreviated name**: *Lindr.*
 
 #### Herbarium and types
 

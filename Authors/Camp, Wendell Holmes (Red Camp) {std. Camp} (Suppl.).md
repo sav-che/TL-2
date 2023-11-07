@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103861#page/335/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33266632) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Camp, Wendel Holmes {std. Camp}|first entry]] for this author
 
 ### Author
 
-\* Camp, Wendell Holmes \["Red Camp"\] (1904-1963), American botanist, born at Dayton, Ohio, studied at Ohio State University at Columbus, Ohio, with John Henry Schaffner, at the New York Botanical Garden 1936-1949, interested in economic botany and botanical nomenclature, collected in Ohio as a student, Virginia, Kentucky, Tennessee (S. Appalachians) 1936, Mexico 1936-1937, Central America 1943, on a United States mission searching for native Cinchona in Ecuador 1943-1945, left the New York Botanical Garden in 1949 travelling in North America for the industry as well as for Acad. nat. Sci. Philadelphia, at the same time curator of experimental botany, head of the department of botany at the University of Connecticut 1952-1963. (*Camp*).
+\* Camp, Wendell Holmes \["Red Camp"\] (1904-1963), American botanist, born at Dayton, Ohio, studied at Ohio State University at Columbus, Ohio, with John Henry Schaffner, at the New York Botanical Garden 1936-1949, interested in economic botany and botanical nomenclature, collected in Ohio as a student, Virginia, Kentucky, Tennessee (S. Appalachians) 1936, Mexico 1936-1937, Central America 1943, on a United States mission searching for native Cinchona in Ecuador 1943-1945, left the New York Botanical Garden in 1949 travelling in North America for the industry as well as for Acad. nat. Sci. Philadelphia, at the same time curator of experimental botany, head of the department of botany at the University of Connecticut 1952-1963. 
+**Abbreviated name**: *Camp*
 
 #### Herbarium and types
 

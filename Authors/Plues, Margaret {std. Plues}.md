@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103624#page/312/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33189769) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plues, Margaret (c. 1840-c. 1903), British botanist; entered a roman catholic convent at Weybridge in middle-age, ultimately mother superior; in her youth a popular writer on botany. (*Plues*).
+Plues, Margaret (c. 1840-c. 1903), British botanist; entered a roman catholic convent at Weybridge in middle-age, ultimately mother superior; in her youth a popular writer on botany. 
+**Abbreviated name**: *Plues*
 
 #### Herbarium and types
 

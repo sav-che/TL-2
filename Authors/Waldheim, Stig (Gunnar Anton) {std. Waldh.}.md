@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103250#page/89/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33066369) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waldheim, Stig \[Gunnar Anton\] (1911-1976), Swedish bryologist, and plant ecologist, demonstrator of plant ecology at Lund University 1948-1962; Dr. phil. Lund 1948. (*Waldh.*).
+Waldheim, Stig \[Gunnar Anton\] (1911-1976), Swedish bryologist, and plant ecologist, demonstrator of plant ecology at Lund University 1948-1962; Dr. phil. Lund 1948. 
+**Abbreviated name**: *Waldh.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/item/103414#page/621/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Curtis, Moses Ashley {std. M.A. Curtis} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Curtis, Moses Ashley (1808-1872), American mycologist in the Carolinas. (*M. A. Curtis*).
+Curtis, Moses Ashley (1808-1872), American mycologist in the Carolinas. 
+**Abbreviated name**: *M. A. Curtis*
 
 #### Herbarium and types
 

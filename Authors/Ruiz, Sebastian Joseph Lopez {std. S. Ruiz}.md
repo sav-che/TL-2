@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/item/103624#page/1000/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/page/33190457) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruiz, Sebastian Joseph Lopez, (*fl*. 1802), Spanish botanist. (*S. Ruiz*).
+Ruiz, Sebastian Joseph Lopez, (*fl*. 1802), Spanish botanist. 
+**Abbreviated name**: *S. Ruiz*
 
 #### Herbarium and types
 

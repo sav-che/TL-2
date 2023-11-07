@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/103253#page/496/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Junghans, Philipp Kaspar (1738-1797), German botanist at Halle. (*Junghans*).
+Junghans, Philipp Kaspar (1738-1797), German botanist at Halle. 
+**Abbreviated name**: *Junghans*
 
 #### Herbarium and types
 

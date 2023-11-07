@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103414#page/295/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33120378) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boedijn, Karel Bernard {std. Boedijn} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boedijn, Karel Bernard (1893-1964), Dutch mycologist who worked in Indonesia from 1926-1958. (*Boedijn*).
+Boedijn, Karel Bernard (1893-1964), Dutch mycologist who worked in Indonesia from 1926-1958. 
+**Abbreviated name**: *Boedijn*
 
 #### Herbarium and types
 

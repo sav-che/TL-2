@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/item/103414#page/1067/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33121150) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guépin, Jean Pierre (1779-1858), French physician and botanist at Angers. (*Guépin*).
+Guépin, Jean Pierre (1779-1858), French physician and botanist at Angers. 
+**Abbreviated name**: *Guépin*
 
 #### Herbarium and types
 

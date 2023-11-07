@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103624#page/50/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33189469) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pammel, Louis Hermann (1862-1931), American botanist and conservationist; M.S. Univ. Wisc. 1889; Dr. phil. St. Louis 1896; assistant to W.G. Farlow 1885-1886; assistant Shaw school of Botany, St. Louis, 1886-1889; from 1889 at Ames, Iowa, as professor of botany; Dr. Sci. Univ. Wisc. 1925. (*Pammel*).
+Pammel, Louis Hermann (1862-1931), American botanist and conservationist; M.S. Univ. Wisc. 1889; Dr. phil. St. Louis 1896; assistant to W.G. Farlow 1885-1886; assistant Shaw school of Botany, St. Louis, 1886-1889; from 1889 at Ames, Iowa, as professor of botany; Dr. Sci. Univ. Wisc. 1925. 
+**Abbreviated name**: *Pammel*
 
 #### Herbarium and types
 

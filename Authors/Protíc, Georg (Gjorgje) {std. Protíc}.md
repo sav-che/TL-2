@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103624#page/432/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Protíc, Georg (Gjorgje) (1864-?), Bosnian cryptogamist (algologist); Dr. phil. Wien 1891. (*Protíc*).
+Protíc, Georg (Gjorgje) (1864-?), Bosnian cryptogamist (algologist); Dr. phil. Wien 1891. 
+**Abbreviated name**: *Protíc*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103859#page/343/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33265530) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bordiga, Benedetto (fl. 1791), Italian engraver in Milano. (*Bordiga*).
+Bordiga, Benedetto (fl. 1791), Italian engraver in Milano. 
+**Abbreviated name**: *Bordiga*
 
 #### Herbarium and types
 

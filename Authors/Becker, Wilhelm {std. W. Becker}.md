@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103414#page/209/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33120292) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Becker, Wilhelm {std. W. Becker} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Becker, Wilhelm (1874-1928), German teacher and botanist. (*W. Becker*).
+Becker, Wilhelm (1874-1928), German teacher and botanist. 
+**Abbreviated name**: *W. Becker*
 
 #### Herbarium and types
 

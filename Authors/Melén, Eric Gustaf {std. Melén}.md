@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/104137#page/425/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33355496) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Melén, Eric Gustaf (1801-1828), Swedish physician and botanist; student of C. P. Thunberg; Dr. med. Upsal. 1826; hospital physician at Kalmar 1826-1828 (*Melén*).
+Melén, Eric Gustaf (1801-1828), Swedish physician and botanist; student of C. P. Thunberg; Dr. med. Upsal. 1826; hospital physician at Kalmar 1826-1828 
+**Abbreviated name**: *Melén*
 
 #### Herbarium and types
 

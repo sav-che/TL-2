@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/103859#page/76/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33265263) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bender, Christoph Bernhard (fl. 1787), German (Kochendorf-Ottenwald) physician, Dr. med. Erlangen 1787. (*C.B. Bender*).
+Bender, Christoph Bernhard (fl. 1787), German (Kochendorf-Ottenwald) physician, Dr. med. Erlangen 1787. 
+**Abbreviated name**: *C.B. Bender*
 
 #### Herbarium and types
 

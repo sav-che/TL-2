@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/item/104077#page/777/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33333902) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sowerby, John Edward (1825-1870), British botanical artist and publisher; grandson of James Sowerby. (*J.E. Sowerby*).
+Sowerby, John Edward (1825-1870), British botanical artist and publisher; grandson of James Sowerby. 
+**Abbreviated name**: *J.E. Sowerby*
 
 #### Herbarium and types
 

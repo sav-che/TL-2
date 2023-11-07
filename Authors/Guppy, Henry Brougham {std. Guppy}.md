@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/item/103832#page/473/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33258939) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guppy, Henry Brougham (1854-1926), English geologist interested in isls. and seed and plant dispersal by water, born 23 Dec 1854 in Falmouth (Cornwall), educated at King's School, Sherborne, Queen's College, Birmingham, Medical School of St. Bartholomew's Hospital, M.B. 1876 and C.M., Edinburgh Univ., surgeon in Royal Navy 1876-1885, served on the China Station 1877-1880 and on the Australian Station 1881-1884, F.R.S.E. 1888, F.L.S. (Gold Medal) and F.R.S. 1918, died 23 Apr 1926 on board *El Kantara* in Martinique (remains interred at Seaton). (*Guppy*).
+Guppy, Henry Brougham (1854-1926), English geologist interested in isls. and seed and plant dispersal by water, born 23 Dec 1854 in Falmouth (Cornwall), educated at King's School, Sherborne, Queen's College, Birmingham, Medical School of St. Bartholomew's Hospital, M.B. 1876 and C.M., Edinburgh Univ., surgeon in Royal Navy 1876-1885, served on the China Station 1877-1880 and on the Australian Station 1881-1884, F.R.S.E. 1888, F.L.S. (Gold Medal) and F.R.S. 1918, died 23 Apr 1926 on board *El Kantara* in Martinique (remains interred at Seaton). 
+**Abbreviated name**: *Guppy*
 
 #### Note
 

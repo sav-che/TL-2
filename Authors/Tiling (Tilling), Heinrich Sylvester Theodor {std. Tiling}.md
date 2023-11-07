@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/item/103683#page/364/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33212396) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tiling \[Tilling\], Heinrich Sylvester Theodor (1818-1871), Livonian physician and botanist; in the service of the Russian-American company of the Ajan factory 1845-1851; returned to St. Petersburg via Kamtschatka, Sitka, Hawaii and Cape Horn 1851-1852; practicing physician in Livonia 1852-1866; again in the service of the Russian-American company as hospital physician in Sitka 1866-1868; collecting in California and Nevada for various botanical gardens 1868-1871. (*Tiling*).
+Tiling \[Tilling\], Heinrich Sylvester Theodor (1818-1871), Livonian physician and botanist; in the service of the Russian-American company of the Ajan factory 1845-1851; returned to St. Petersburg via Kamtschatka, Sitka, Hawaii and Cape Horn 1851-1852; practicing physician in Livonia 1852-1866; again in the service of the Russian-American company as hospital physician in Sitka 1866-1868; collecting in California and Nevada for various botanical gardens 1868-1871. 
+**Abbreviated name**: *Tiling*
 
 #### Herbarium and types
 

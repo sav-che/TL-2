@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/103624#page/784/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33190241) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richardson, Sir John (1787-1865), British (Scottish) arctic explorer and naturalist in the Royal Navy; M.D. Edinburgh 1816; surgeon and naturalist to John Franklin's expeditions of 1819-1822 and 1825-1827; physician to the Royal naval hospital of Haslar 1838; medical inspector of hospitals and fleets 1840-1855; on a search expedition for Franklin 1847-1849; knighted 1846; living in retirement from 1855 at Lancrigg nr Grasmore, Westmoreland. (*Richardson*).
+Richardson, Sir John (1787-1865), British (Scottish) arctic explorer and naturalist in the Royal Navy; M.D. Edinburgh 1816; surgeon and naturalist to John Franklin's expeditions of 1819-1822 and 1825-1827; physician to the Royal naval hospital of Haslar 1838; medical inspector of hospitals and fleets 1840-1855; on a search expedition for Franklin 1847-1849; knighted 1846; living in retirement from 1855 at Lancrigg nr Grasmore, Westmoreland. 
+**Abbreviated name**: *Richardson*
 
 #### Herbarium and types
 

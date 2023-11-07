@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/item/103253#page/785/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Larbalestier, Charles Du Bois (1838-1911), Jersey lichenologist, studied at St. John's College, Cambridge (BA 1863), resided as tutor in Connemara, later again at Cambridge and St. Aubin's, Jersey, ultimately at St. Helier. (*Larbal.*).
+Larbalestier, Charles Du Bois (1838-1911), Jersey lichenologist, studied at St. John's College, Cambridge (BA 1863), resided as tutor in Connemara, later again at Cambridge and St. Aubin's, Jersey, ultimately at St. Helier. 
+**Abbreviated name**: *Larbal.*
 
 #### Herbarium and types
 

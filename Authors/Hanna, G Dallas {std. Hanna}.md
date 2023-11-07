@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103253#page/71/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hanna, G Dallas (1887-1970), American palaeobotanist; Ph. D. George Washington University 1918; curator of paleontology (later geology) at the California Academy of Sciences 1919-1970; Dr. sci. h.c. Univ. Alaska 1970. (*Hanna*).
+Hanna, G Dallas (1887-1970), American palaeobotanist; Ph. D. George Washington University 1918; curator of paleontology (later geology) at the California Academy of Sciences 1919-1970; Dr. sci. h.c. Univ. Alaska 1970. 
+**Abbreviated name**: *Hanna*
 
 #### Herbarium and types
 

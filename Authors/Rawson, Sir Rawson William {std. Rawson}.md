@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/item/103624#page/617/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rawson, Sir Rawson William (1812-1899), British colonial administrator and pteridologist; clerk Board of Trade 1829; Government secretary Canada 1842; treasurer and paymaster-general Mauritius 1844; colonial secretary Cape of Good Hope (1854-1864); governor Bahamas 1864, id. Jamaica 1865, id. Windward Islands (1869-1875). (*Rawson*).
+Rawson, Sir Rawson William (1812-1899), British colonial administrator and pteridologist; clerk Board of Trade 1829; Government secretary Canada 1842; treasurer and paymaster-general Mauritius 1844; colonial secretary Cape of Good Hope (1854-1864); governor Bahamas 1864, id. Jamaica 1865, id. Windward Islands (1869-1875). 
+**Abbreviated name**: *Rawson*
 
 #### Herbarium and types
 

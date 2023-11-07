@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/item/103683#page/792/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33212824) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voorhelm, George (1711/12-1787), Dutch florist at Haarlem. (*Voorhelm*).
+Voorhelm, George (1711/12-1787), Dutch florist at Haarlem. 
+**Abbreviated name**: *Voorhelm*
 
 #### Herbarium and types
 

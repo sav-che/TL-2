@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/item/104077#page/851/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33333976) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stange, Johann Carl Thomas (1792-1854), German (Prussian-Saxony) botanist and high school teacher; studied theology and philology at Halle a. S.; teacher at the Friedrichs Gymnasium, Frankfurt a. Oder. (*Stange*).
+Stange, Johann Carl Thomas (1792-1854), German (Prussian-Saxony) botanist and high school teacher; studied theology and philology at Halle a. S.; teacher at the Friedrichs Gymnasium, Frankfurt a. Oder. 
+**Abbreviated name**: *Stange*
 
 #### Herbarium and types
 

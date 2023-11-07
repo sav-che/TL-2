@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103414#page/271/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33120354) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bivona-Bernardi, Antonio {std. Biv.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bivona-Bernardi, Antonino de (1774-1837), Sicilian botanist. (*Biv.-Bern.*).
+Bivona-Bernardi, Antonino de (1774-1837), Sicilian botanist. 
+**Abbreviated name**: *Biv.-Bern.*
 
 #### Herbarium and types
 

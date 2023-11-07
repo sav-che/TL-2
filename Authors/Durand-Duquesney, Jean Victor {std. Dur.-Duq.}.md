@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103835#page/198/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33260176) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durand-Duquesney, Jean Victor (1785-1862), French botanist, born 4 Nov 1785 at Basseneville near Troarn (Calvados) as J.V. Durand, went into the army in 1806, left the army wounded and lived in Lisieux, added Duquesney to his name after his marriage in 1819, started with botany in later years, died 27 Apr 1862 at Caen. (*Dur.-Duq.*).
+Durand-Duquesney, Jean Victor (1785-1862), French botanist, born 4 Nov 1785 at Basseneville near Troarn (Calvados) as J.V. Durand, went into the army in 1806, left the army wounded and lived in Lisieux, added Duquesney to his name after his marriage in 1819, started with botany in later years, died 27 Apr 1862 at Caen. 
+**Abbreviated name**: *Dur.-Duq.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103683#page/30/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33212074) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stolz, Friedrich (1878-1899), Austrian botanist; studied natural sciences in Innsbrück and München; active collector of Tirol cryptogams. (*F. Stolz*).
+Stolz, Friedrich (1878-1899), Austrian botanist; studied natural sciences in Innsbrück and München; active collector of Tirol cryptogams. 
+**Abbreviated name**: *F. Stolz*
 
 #### Herbarium and types
 

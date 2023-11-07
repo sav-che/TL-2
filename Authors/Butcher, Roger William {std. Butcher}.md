@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103861#page/294/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33266591) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Butcher, Roger William (1897-1971), British botanist and botanical artist, born at Ashbourne, Derbyshire 1897, studied at the University of London, B.S. 1922, Ph. D. 1931, assistant in the Kew Herbarium, assistant naturalist at Cambridge, Ministry of Agriculture 1925, from ca. 1939-1953 at Bramcote, Notts. with the Trent River Authority, at Fisheries Laboratory, Burnham nr. Crouch 1953-1963, from 1963 in retirement, died at Weymouth, Dorset 13 Oct 1971. (*Butcher*).
+Butcher, Roger William (1897-1971), British botanist and botanical artist, born at Ashbourne, Derbyshire 1897, studied at the University of London, B.S. 1922, Ph. D. 1931, assistant in the Kew Herbarium, assistant naturalist at Cambridge, Ministry of Agriculture 1925, from ca. 1939-1953 at Bramcote, Notts. with the Trent River Authority, at Fisheries Laboratory, Burnham nr. Crouch 1953-1963, from 1963 in retirement, died at Weymouth, Dorset 13 Oct 1971. 
+**Abbreviated name**: *Butcher*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/item/104137#page/653/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33355724) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller, Joseph M. (1802-1870), German botanist and high school teacher at Aachen (Aix-la-Chapelle). (*Jos. Muell.*).
+Mueller, Joseph M. (1802-1870), German botanist and high school teacher at Aachen (Aix-la-Chapelle). 
+**Abbreviated name**: *Jos. Muell.*
 
 #### Herbarium and types
 

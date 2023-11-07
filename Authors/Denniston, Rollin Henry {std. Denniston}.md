@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103833#page/218/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33259252) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Denniston, Rollin Henry (1874-x), American botanist, born 21 Mar 1874, Oakfield, Ph.G. Wisconsin, 1897, B.S. 1899, fellow 1899-1900, Ph.D. 1904, assistant instruction botany 1900-1903, instructor 1903-1907, assistant professor 1907-x, Wisconsin Academy. (*Denniston*).
+Denniston, Rollin Henry (1874-x), American botanist, born 21 Mar 1874, Oakfield, Ph.G. Wisconsin, 1897, B.S. 1899, fellow 1899-1900, Ph.D. 1904, assistant instruction botany 1900-1903, instructor 1903-1907, assistant professor 1907-x, Wisconsin Academy. 
+**Abbreviated name**: *Denniston*
 
 #### Herbarium and types
 

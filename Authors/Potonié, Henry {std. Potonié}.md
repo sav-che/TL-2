@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103624#page/372/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33189829) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Potonié, Henry (1857-1913), German palaeo– and actuo-botanist of French origin; studied botany in Berlin 1878-1881; assistant to Eichler 1880-1883; Dr. phil. Freiburg i.B. 1884; lecturer on palaeobotany at the royal mining institute 1891; district geologist 1898; professor's title 1900; habil. Berlin 1901, Königl. Landesgeologe 1901, Geheimer Bergrat 1913. (*Potonié*).
+Potonié, Henry (1857-1913), German palaeo– and actuo-botanist of French origin; studied botany in Berlin 1878-1881; assistant to Eichler 1880-1883; Dr. phil. Freiburg i.B. 1884; lecturer on palaeobotany at the royal mining institute 1891; district geologist 1898; professor's title 1900; habil. Berlin 1901, Königl. Landesgeologe 1901, Geheimer Bergrat 1913. 
+**Abbreviated name**: *Potonié*
 
 #### Herbarium and types
 

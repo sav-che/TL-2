@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/103858#page/196/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33264911) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Asahina, Yasuhiko {std. Asah.}|first entry]] for this author
 
 ### Author
 
-\* Asahina, Yasuhiko (1881-1975), Japanese lichenologist, studied chemistry and pharmacy at the University of Tokyo, ca. 1907 assistant at the University for Pharmacognosy Tokyo, studied at the Technical University of Zürich 1909-1912, and one semester with Emil Fischer in Berlin, professor at the University of Tokyo 1912-1941, specialized in lichen-chemistry, in retirement sometime director of reseach at the Institute of natural Resources and the Iatrochemical Research Institute at Tokyo (Tsumara laboratory). (*Asah.*).
+\* Asahina, Yasuhiko (1881-1975), Japanese lichenologist, studied chemistry and pharmacy at the University of Tokyo, ca. 1907 assistant at the University for Pharmacognosy Tokyo, studied at the Technical University of Zürich 1909-1912, and one semester with Emil Fischer in Berlin, professor at the University of Tokyo 1912-1941, specialized in lichen-chemistry, in retirement sometime director of reseach at the Institute of natural Resources and the Iatrochemical Research Institute at Tokyo (Tsumara laboratory). 
+**Abbreviated name**: *Asah.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/item/103414#page/772/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33120855) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edwards, Sydenham Teast (1769(?)-1819), British botanical artist. (*Edwards*).
+Edwards, Sydenham Teast (1769(?)-1819), British botanical artist. 
+**Abbreviated name**: *Edwards*
 
 #### Original drawings
 

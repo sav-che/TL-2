@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/item/103414#page/888/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fitch, Walter Hood (1817-1892), Scottish botanical artist, illustrator of many of the publications by the Hookers, of the Botanical Magazine 1834-1877. (*W. Fitch*).
+Fitch, Walter Hood (1817-1892), Scottish botanical artist, illustrator of many of the publications by the Hookers, of the Botanical Magazine 1834-1877. 
+**Abbreviated name**: *W. Fitch*
 
 #### Original drawings
 

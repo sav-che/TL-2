@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103861#page/347/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Camus, Aimée Antoinette {std. A. Camus}|first entry]] for this author
 
 ### Author
 
-\* Camus, Aimée (Antoinette) (1879-1965), French botanist, daughter of E.G. Camus, student in botany with her father, studied with Gaston Bonnier at the Sorbonne, at the Muséum d'Histoire naturelle, associated and working with van Tieghem, "Lauréat de l'Institut" 1930, "Chevalier de la Légion d'honneur" 1936. (*A. Camus*).
+\* Camus, Aimée (Antoinette) (1879-1965), French botanist, daughter of E.G. Camus, student in botany with her father, studied with Gaston Bonnier at the Sorbonne, at the Muséum d'Histoire naturelle, associated and working with van Tieghem, "Lauréat de l'Institut" 1930, "Chevalier de la Légion d'honneur" 1936. 
+**Abbreviated name**: *A. Camus*
 
 #### Herbarium and types
 

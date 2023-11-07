@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103835#page/158/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33260136) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dufour, Édouard (1828-1882), French geologist, born 1828, died 25 Oct 1882 at Nantes, was director of the natural history museum at Nantes. (*É. Dufour*).
+Dufour, Édouard (1828-1882), French geologist, born 1828, died 25 Oct 1882 at Nantes, was director of the natural history museum at Nantes. 
+**Abbreviated name**: *É. Dufour*
 
 #### Herbarium and types
 

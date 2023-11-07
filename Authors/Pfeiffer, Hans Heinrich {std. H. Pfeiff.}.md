@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/103624#page/234/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33189691) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pfeiffer, Hans Heinrich (1896-x), German biosystematic botanist; Dr. phil. Washington, D.C.; specialist on Cyperaceae; ultimately at Bremen. (*H. Pfeiff.*).
+Pfeiffer, Hans Heinrich (1896-x), German biosystematic botanist; Dr. phil. Washington, D.C.; specialist on Cyperaceae; ultimately at Bremen. 
+**Abbreviated name**: *H. Pfeiff.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/104077#page/187/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33333312) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schindler, Hans (*fl*. 1917-1925), Austrian botanist, assistant, later head inspector at the Vienna Seed-testing Station, later "Bundesanstalt für Pflanzenbau und Samenprüfung". (*H. Schindl.*).
+Schindler, Hans (*fl*. 1917-1925), Austrian botanist, assistant, later head inspector at the Vienna Seed-testing Station, later "Bundesanstalt für Pflanzenbau und Samenprüfung". 
+**Abbreviated name**: *H. Schindl.*
 
 #### Herbarium and types
 

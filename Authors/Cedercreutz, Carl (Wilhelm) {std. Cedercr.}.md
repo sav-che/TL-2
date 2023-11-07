@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103860#page/11/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265678) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cedercreutz, Carl \[Wilhelm\] (1893-1968), Finnish phycologist at the Botanical Museum Helsinki, collected in Finland from 1916, and on the Azores 1938, Dr. phil. University of Helsinki 1927. (*Cedercr.*).
+Cedercreutz, Carl \[Wilhelm\] (1893-1968), Finnish phycologist at the Botanical Museum Helsinki, collected in Finland from 1916, and on the Azores 1938, Dr. phil. University of Helsinki 1927. 
+**Abbreviated name**: *Cedercr.*
 
 #### Herbarium and types
 

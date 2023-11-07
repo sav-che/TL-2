@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103832#page/424/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33258890) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Groom, Percy (1865-1931), English botanist, born 12 Sep 1865 in Wellington (Shropshire), B.A. 1887 Cambridge, prof. of botany and arboriculture, Imperial College, Whampoa (now Huangpu), China 1889-1892, lecturer in botany at various colleges in Great Britain 1892-1908, ultimately asst. prof. of botany and then prof. of technology of woods and fibres, Imperial College of Science & Technology (London) 1908-1931, F.R.S. 1924, M.A., D.Sc. Oxford, F.L.S., died 16 Sep 1931 in Gerrards Cross (Bucks.). (*P. Groom*).
+Groom, Percy (1865-1931), English botanist, born 12 Sep 1865 in Wellington (Shropshire), B.A. 1887 Cambridge, prof. of botany and arboriculture, Imperial College, Whampoa (now Huangpu), China 1889-1892, lecturer in botany at various colleges in Great Britain 1892-1908, ultimately asst. prof. of botany and then prof. of technology of woods and fibres, Imperial College of Science & Technology (London) 1908-1931, F.R.S. 1924, M.A., D.Sc. Oxford, F.L.S., died 16 Sep 1931 in Gerrards Cross (Bucks.). 
+**Abbreviated name**: *P. Groom*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 694](https://www.biodiversitylibrary.org/item/103624#page/708/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 694](https://www.biodiversitylibrary.org/page/33190165) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reichgelt, Theodoras Johannes (1903-1966), Dutch botanist; school teacher at Wychen and Nijmegen until 1954; at the Rijksherbarium, Leiden working on the Flora neerlandica 1954-1966. (*Reichgelt*).
+Reichgelt, Theodoras Johannes (1903-1966), Dutch botanist; school teacher at Wychen and Nijmegen until 1954; at the Rijksherbarium, Leiden working on the Flora neerlandica 1954-1966. 
+**Abbreviated name**: *Reichgelt*
 
 #### Herbarium and types
 

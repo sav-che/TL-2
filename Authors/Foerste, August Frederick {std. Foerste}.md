@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/item/103414#page/898/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Foerste, August Frederick (1862-1936), American palaeobiologist. (*Foerste*).
+Foerste, August Frederick (1862-1936), American palaeobiologist. 
+**Abbreviated name**: *Foerste*
 
 #### Collections
 

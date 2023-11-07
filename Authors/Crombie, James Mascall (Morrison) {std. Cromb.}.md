@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/103414#page/616/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33120699) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crombie, James Morrison {std. Cromb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Crombie, James Mascall (Morrison) (1831-1906), British lichenologist. (*Cromb.*).
+Crombie, James Mascall (Morrison) (1831-1906), British lichenologist. 
+**Abbreviated name**: *Cromb.*
 
 #### Herbarium and types
 

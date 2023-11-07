@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/104137#page/39/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33355072) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lind, Jens Wilhelm August (1874-1939), Danish pharmacist and mycologist; assistant at the state phytopathological service 1913-1917; pharmacist at Østbirk 1919-1926, from then on id. at Viborg. (*Lind*).
+Lind, Jens Wilhelm August (1874-1939), Danish pharmacist and mycologist; assistant at the state phytopathological service 1913-1917; pharmacist at Østbirk 1919-1926, from then on id. at Viborg. 
+**Abbreviated name**: *Lind*
 
 #### Herbarium and types
 

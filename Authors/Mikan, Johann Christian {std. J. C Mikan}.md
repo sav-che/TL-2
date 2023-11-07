@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/104137#page/497/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33355568) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mikan, Johann Christian (1769-1844), Bohemian (Czech) botanist and entomologist; Dr. med. Praha 1793; professor of natural history Praha 1800-1831; travelled in Brazil with Pohl 1817-1819. (*J. C Mikan*).
+Mikan, Johann Christian (1769-1844), Bohemian (Czech) botanist and entomologist; Dr. med. Praha 1793; professor of natural history Praha 1800-1831; travelled in Brazil with Pohl 1817-1819. 
+**Abbreviated name**: *J. C Mikan*
 
 #### Herbarium and types
 

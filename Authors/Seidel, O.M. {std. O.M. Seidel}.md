@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/104077#page/505/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seidel, O.M. (1841-1917), German (Saxonian) botanist and high school teacher. (*O.M. Seidel*).
+Seidel, O.M. (1841-1917), German (Saxonian) botanist and high school teacher. 
+**Abbreviated name**: *O.M. Seidel*
 
 #### Herbarium and types
 

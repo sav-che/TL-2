@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/item/103253#page/710/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kützing, Friedrich Traugott (Kuetzing) (1807-1893), German algologist; Dr. phil. Marburg 1837; teacher at Nordhausen (1835-1883). (*Kütz.*).
+Kützing, Friedrich Traugott (Kuetzing) (1807-1893), German algologist; Dr. phil. Marburg 1837; teacher at Nordhausen (1835-1883). 
+**Abbreviated name**: *Kütz.*
 
 #### Herbarium and types
 

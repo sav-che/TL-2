@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103414#page/350/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33120433) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brand, August {std. Brand} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brand, August (1863-1930), German highschool teacher at Frankfurt a.O. and botanist. (*A. Brand*).
+Brand, August (1863-1930), German highschool teacher at Frankfurt a.O. and botanist. 
+**Abbreviated name**: *A. Brand*
 
 #### Herbarium and types
 

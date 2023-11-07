@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/104077#page/436/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33333561) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwantes, Gustav (1891-1960), German (Hannover) botanist and archeologist; Dr. phil. Univ. Hamburg 1923; professor of prehistory Univ. Kiel 1929-1946; specialist on Mesembryanthemaceae. (*Schwant.*).
+Schwantes, Gustav (1891-1960), German (Hannover) botanist and archeologist; Dr. phil. Univ. Hamburg 1923; professor of prehistory Univ. Kiel 1929-1946; specialist on Mesembryanthemaceae. 
+**Abbreviated name**: *Schwant.*
 
 #### Herbarium and types
 

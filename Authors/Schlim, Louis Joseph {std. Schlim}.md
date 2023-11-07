@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/104077#page/238/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33333363) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlim, Louis Joseph (*fl*. 1845), Belgian plant collector; half brother of J.J. Linden; collected in South and Central America 1841-1852. (*Schlim*).
+Schlim, Louis Joseph (*fl*. 1845), Belgian plant collector; half brother of J.J. Linden; collected in South and Central America 1841-1852. 
+**Abbreviated name**: *Schlim*
 
 #### Herbarium and types
 

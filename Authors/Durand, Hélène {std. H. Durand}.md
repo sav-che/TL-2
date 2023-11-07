@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/item/103414#page/756/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33120839) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durand, Hélène (1883-1934), Belgian botanical artist, daughter of Théophile Alexis Durand. (*H. Durand*).
+Durand, Hélène (1883-1934), Belgian botanical artist, daughter of Théophile Alexis Durand. 
+**Abbreviated name**: *H. Durand*
 
 #### Original drawings
 

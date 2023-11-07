@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103414#page/336/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33120419) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bosch, Roelof Benjamin van den {std. Bosch} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bosch, Roelof Benjamin van den (1810-1862), Dutch botanist at Goes. (*Bosch*).
+Bosch, Roelof Benjamin van den (1810-1862), Dutch botanist at Goes. 
+**Abbreviated name**: *Bosch*
 
 #### Herbarium and types
 

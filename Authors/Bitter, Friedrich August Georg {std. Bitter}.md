@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103414#page/270/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33120353) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bitter, (Friedrich August) Georg {std. Bitter} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bitter, Friedrich August Georg (1873-1927), German botanist at Münster, Bremen and Göttingen. (*Bitter*).
+Bitter, Friedrich August Georg (1873-1927), German botanist at Münster, Bremen and Göttingen. 
+**Abbreviated name**: *Bitter*
 
 #### Herbarium and types
 

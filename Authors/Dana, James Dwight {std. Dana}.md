@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/item/103414#page/643/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33120726) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dana, James Dwight (1813-1895), American mineralogist and palaeontologist at New Haven, naturalist on the U.S. Exploring Expedition. (*Dana*).
+Dana, James Dwight (1813-1895), American mineralogist and palaeontologist at New Haven, naturalist on the U.S. Exploring Expedition. 
+**Abbreviated name**: *Dana*
 
 #### Collections
 

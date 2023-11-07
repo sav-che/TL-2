@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/104137#page/208/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lunan, John (*fl*. 1814), British plant collector at Jamaica. (*Lunan*).
+Lunan, John (*fl*. 1814), British plant collector at Jamaica. 
+**Abbreviated name**: *Lunan*
 
 #### Herbarium and types
 

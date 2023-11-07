@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/item/103253#page/219/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33068435) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hieronymus, Georg Hans Emmo (Emo) Wolfgang (1846-1921), German botanist and plant collector; Dr. phil. Halle 1872; at Cordoba, Argentina, 1874-1883; from 1883-1892 Privatgelehrter at Breslau; at Berlin-Dahlem from 1892. (*Hieron.*).
+Hieronymus, Georg Hans Emmo (Emo) Wolfgang (1846-1921), German botanist and plant collector; Dr. phil. Halle 1872; at Cordoba, Argentina, 1874-1883; from 1883-1892 Privatgelehrter at Breslau; at Berlin-Dahlem from 1892. 
+**Abbreviated name**: *Hieron.*
 
 #### Herbarium and types
 

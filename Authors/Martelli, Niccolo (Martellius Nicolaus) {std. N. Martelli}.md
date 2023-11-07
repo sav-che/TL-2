@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/104137#page/329/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33355400) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martelli, Niccolo \[Martellius Nicolaus\] (x-1829), Italian professor of botany at Rome. (*N. Martelli*).
+Martelli, Niccolo \[Martellius Nicolaus\] (x-1829), Italian professor of botany at Rome. 
+**Abbreviated name**: *N. Martelli*
 
 #### Herbarium and types
 

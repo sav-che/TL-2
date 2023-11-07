@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/item/103683#page/755/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33212787) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vilmorin, \[Auguste Louis\] Maurice \[Levêque\] de (1849-1918), French botanist, dendrologist and sylviculturist; son of Louis de Vilmorin; founder of the *Fruticetum vilmorinianum* at the estate of Barres (Loiret). (*M. Vilm.*).
+Vilmorin, \[Auguste Louis\] Maurice \[Levêque\] de (1849-1918), French botanist, dendrologist and sylviculturist; son of Louis de Vilmorin; founder of the *Fruticetum vilmorinianum* at the estate of Barres (Loiret). 
+**Abbreviated name**: *M. Vilm.*
 
 #### Herbarium and types
 

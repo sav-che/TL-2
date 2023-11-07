@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/104137#page/320/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33355391) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marret, Léon (*fl*. 1900-1929), Swiss botanist. (*Marret*).
+Marret, Léon (*fl*. 1900-1929), Swiss botanist. 
+**Abbreviated name**: *Marret*
 
 #### Herbarium and types
 

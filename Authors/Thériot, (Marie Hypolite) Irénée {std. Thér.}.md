@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103683#page/259/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33212291) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thériot, \[Marie Hypolite\] Irénée (1859-1947), French bryologist and schoolteacher; École normale sup. St. Cloud exam. 1883; teacher in the Dépt. Sarthe 1883-1888; director of the "école primaire supérieure" at Le Havre 1888-1920; in retirement at Fontaine-la-Mallet 1920-1947. (*Thér.*).
+Thériot, \[Marie Hypolite\] Irénée (1859-1947), French bryologist and schoolteacher; École normale sup. St. Cloud exam. 1883; teacher in the Dépt. Sarthe 1883-1888; director of the "école primaire supérieure" at Le Havre 1888-1920; in retirement at Fontaine-la-Mallet 1920-1947. 
+**Abbreviated name**: *Thér.*
 
 #### Herbarium and types
 

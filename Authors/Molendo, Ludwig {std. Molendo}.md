@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/item/104137#page/563/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33355634) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Molendo, Ludwig (1833-1902), German bryologist and journalist, editor of the Bayreuther Zeitung (1866-1868), Passauer Zeitung (1868-1875), Oberpfälzer Kurier (Regensburg) 1875-1877; from 1877 of various journals in Bayreuth (1877-1878) and München. (*Molendo*).
+Molendo, Ludwig (1833-1902), German bryologist and journalist, editor of the Bayreuther Zeitung (1866-1868), Passauer Zeitung (1868-1875), Oberpfälzer Kurier (Regensburg) 1875-1877; from 1877 of various journals in Bayreuth (1877-1878) and München. 
+**Abbreviated name**: *Molendo*
 
 #### Herbarium and types
 

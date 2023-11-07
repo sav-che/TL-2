@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/item/104137#page/363/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33355434) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Masamune, Genkei (1899-x) Japanese botanist working on Asiatic Orchidaceae and the flora of the Ryukyu Archipelago. (*Masam.*).
+Masamune, Genkei (1899-x) Japanese botanist working on Asiatic Orchidaceae and the flora of the Ryukyu Archipelago. 
+**Abbreviated name**: *Masam.*
 
 #### Herbarium and types
 

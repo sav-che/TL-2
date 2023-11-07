@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/item/103861#page/472/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Catalano, Giuseppe (1888-x), Italian botanist (morphology, physiology), director of the botanical institute and botanical garden of the agricultural faculty at Portici (Naples), chief interest in the morphology of leaves. (*Catal.*).
+Catalano, Giuseppe (1888-x), Italian botanist (morphology, physiology), director of the botanical institute and botanical garden of the agricultural faculty at Portici (Naples), chief interest in the morphology of leaves. 
+**Abbreviated name**: *Catal.*
 
 #### Herbarium and types
 

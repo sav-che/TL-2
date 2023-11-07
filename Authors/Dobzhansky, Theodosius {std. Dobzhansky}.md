@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103835#page/12/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33259990) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dobzhansky, Theodosius (1900-1975), American botanist (geneticist), from Russian origin, born 25 Jan 1900 in Nemirov (Russia), dipl. Kiev 1921, fellow Russian Academy 1926, assistant in zoology at Kiev 1921-1924, lecturer in genetics Leningrad 1924-1927, left Russia in 1927 and became assist. professor genetics Calif. Inst. Technology 1929-1936, professor 1936-1940, at Columbia University from 1940, honorary D.Sc. College of Wooster 1945 and São Paulo 1947, died 18 Dec 1975. (*Dobzhansky*).
+Dobzhansky, Theodosius (1900-1975), American botanist (geneticist), from Russian origin, born 25 Jan 1900 in Nemirov (Russia), dipl. Kiev 1921, fellow Russian Academy 1926, assistant in zoology at Kiev 1921-1924, lecturer in genetics Leningrad 1924-1927, left Russia in 1927 and became assist. professor genetics Calif. Inst. Technology 1929-1936, professor 1936-1940, at Columbia University from 1940, honorary D.Sc. College of Wooster 1945 and São Paulo 1947, died 18 Dec 1975. 
+**Abbreviated name**: *Dobzhansky*
 
 #### Herbarium and types
 

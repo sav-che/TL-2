@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103250#page/517/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33066797) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Worsdell, Wilson Crosfield (1867-1957), American-born British horticulturist and botanist; studied horticulture in Holland and England; sometime demonstrator in botany at University College of London and working at the Jodrell Laboratory; acting professor of botany S. African College, Cape Town 1909-1910; lecturer in botany Victoria College, Stellenbosch 1912-1913; subsequently working at the Jodrell Laboratory and the Royal Botanic Gardens Kew. (*Worsdell*).
+Worsdell, Wilson Crosfield (1867-1957), American-born British horticulturist and botanist; studied horticulture in Holland and England; sometime demonstrator in botany at University College of London and working at the Jodrell Laboratory; acting professor of botany S. African College, Cape Town 1909-1910; lecturer in botany Victoria College, Stellenbosch 1912-1913; subsequently working at the Jodrell Laboratory and the Royal Botanic Gardens Kew. 
+**Abbreviated name**: *Worsdell*
 
 #### Herbarium and types
 

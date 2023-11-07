@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/item/103250#page/434/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33066714) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winkler, Hubert \[J.P.\] (1875-1941), German (Prussian/Brandenburg) botanist; studied at Breslau University 1895, at first theology, later botany; Dr.phil. Breslau 1905 with F.A. Pax; assistant with the "Landwirtschaftskammer" Breslau 1900-1901; assistant at the Botanical Garden and Museum Breslau 1901-1902; with the Botanical Museum Berlin 1902-1904; regional botanist Botanical Garden, Victoria, Cameroon 1904-1906; habil. Breslau 1906; with the Breslau Botanical Museum from 1906, assistant and lecturer 1906-1912, titular professor 1912; travelled in Borneo, Java, Malaysian Peninsula and Singapore 1908, in East Africa 1910; on active service in World-War I 1914-1919; extraordinary professor of plant geography 1921, from 1927 ordinary prof. also for systematic botany. (*Hu. Winkl.*).
+Winkler, Hubert \[J.P.\] (1875-1941), German (Prussian/Brandenburg) botanist; studied at Breslau University 1895, at first theology, later botany; Dr.phil. Breslau 1905 with F.A. Pax; assistant with the "Landwirtschaftskammer" Breslau 1900-1901; assistant at the Botanical Garden and Museum Breslau 1901-1902; with the Botanical Museum Berlin 1902-1904; regional botanist Botanical Garden, Victoria, Cameroon 1904-1906; habil. Breslau 1906; with the Breslau Botanical Museum from 1906, assistant and lecturer 1906-1912, titular professor 1912; travelled in Borneo, Java, Malaysian Peninsula and Singapore 1908, in East Africa 1910; on active service in World-War I 1914-1919; extraordinary professor of plant geography 1921, from 1927 ordinary prof. also for systematic botany. 
+**Abbreviated name**: *Hu. Winkl.*
 
 #### Herbarium and types
 

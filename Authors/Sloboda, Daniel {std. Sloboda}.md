@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/item/104077#page/661/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/page/33333786) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sloboda, Daniel (1809-1888), Slovak botanist and clergyman, priest at Rottalovitz (Moravia), floristically active in Moravia. (*Sloboda*).
+Sloboda, Daniel (1809-1888), Slovak botanist and clergyman, priest at Rottalovitz (Moravia), floristically active in Moravia. 
+**Abbreviated name**: *Sloboda*
 
 #### Herbarium and types
 

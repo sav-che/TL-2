@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/item/104077#page/852/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33333977) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stanger, William (1811-1854), British physician, geologist and surveyor; M.D. Edinburgh; practicing physician in London; on the Niger Expedition of H. Trotter 1841; in South Africa 1843-1854; surveyor general in Natal from 1845-1854. (*Stanger*).
+Stanger, William (1811-1854), British physician, geologist and surveyor; M.D. Edinburgh; practicing physician in London; on the Niger Expedition of H. Trotter 1841; in South Africa 1843-1854; surveyor general in Natal from 1845-1854. 
+**Abbreviated name**: *Stanger*
 
 #### Herbarium and types
 

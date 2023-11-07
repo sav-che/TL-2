@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/item/103414#page/865/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33120948) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fedde, Friedrich Karl Georg {std. Fedde} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fedde, Friedrich Karl Georg (1873-1942), German botanist, editor and publisher. (*Fedde*).
+Fedde, Friedrich Karl Georg (1873-1942), German botanist, editor and publisher. 
+**Abbreviated name**: *Fedde*
 
 #### Herbarium and types
 

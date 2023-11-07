@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/item/104077#page/28/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33333169) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salter, John Henry (1862-1942), English botanist and ornithologist; Bsc. London; with Strasburger 1896; teacher at various schools 1881-1888; professor of botany Univ. Coll. Aberystwyth 1891-1908; in the Canary Isl. and S. France 1908-1916; ultimately in Great Britain, from 1928 in the Aberystwyth area. (*Salter*).
+Salter, John Henry (1862-1942), English botanist and ornithologist; Bsc. London; with Strasburger 1896; teacher at various schools 1881-1888; professor of botany Univ. Coll. Aberystwyth 1891-1908; in the Canary Isl. and S. France 1908-1916; ultimately in Great Britain, from 1928 in the Aberystwyth area. 
+**Abbreviated name**: *Salter*
 
 #### Herbarium and types
 

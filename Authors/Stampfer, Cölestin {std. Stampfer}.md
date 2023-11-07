@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/item/104077#page/845/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33333970) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stampfer, Cölestin (1823-1895), Austrian botanist; Benedictine clergyman and high school teacher at the Gymnasium of Meran (Merano). (*Stampfer*).
+Stampfer, Cölestin (1823-1895), Austrian botanist; Benedictine clergyman and high school teacher at the Gymnasium of Meran (Merano). 
+**Abbreviated name**: *Stampfer*
 
 #### Herbarium and types
 

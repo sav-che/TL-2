@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103861#page/87/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33266384) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brill, Otto (1885-x), German forester, born 23 Mai 1885 in Ebersgöns (Kreis Wetzlar) at the four-year Volksschule at Ebersgöns 1895-1901, at the Grossherzogliche Realschule zu Butbach (Hessen) 1901-1903, in 1903 at the University Marburg, 1905 Sommer-Semester at Bonn, 1905-1906 again in Marburg,Dr. 1908. (*O. Brill*).
+Brill, Otto (1885-x), German forester, born 23 Mai 1885 in Ebersgöns (Kreis Wetzlar) at the four-year Volksschule at Ebersgöns 1895-1901, at the Grossherzogliche Realschule zu Butbach (Hessen) 1901-1903, in 1903 at the University Marburg, 1905 Sommer-Semester at Bonn, 1905-1906 again in Marburg,Dr. 1908. 
+**Abbreviated name**: *O. Brill*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/item/103414#page/583/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33120666) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Conzatti, Cassiano {std. Conz.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Conzatti, Cassiano (1862-1951), Mexican botanist. (*Conzatti*).
+Conzatti, Cassiano (1862-1951), Mexican botanist. 
+**Abbreviated name**: *Conzatti*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/104137#page/173/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33355244) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lorentz, Paul (Pablo) Günther (1835-1881), German botanist: in Germany until 1869; professor of botany at Cordoba, Argentina until 1874; later high school teacher at Concepción, Uruguay. (*Lorentz*).
+Lorentz, Paul (Pablo) Günther (1835-1881), German botanist: in Germany until 1869; professor of botany at Cordoba, Argentina until 1874; later high school teacher at Concepción, Uruguay. 
+**Abbreviated name**: *Lorentz*
 
 #### Herbarium and types
 

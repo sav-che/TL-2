@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/item/104137#page/694/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33355765) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Myrin, Claës Gustaf (1803-1835), Swedish botanist and agricultural economist at Uppsala. (*Myrin*).
+Myrin, Claës Gustaf (1803-1835), Swedish botanist and agricultural economist at Uppsala. 
+**Abbreviated name**: *Myrin*
 
 #### Herbarium and types
 

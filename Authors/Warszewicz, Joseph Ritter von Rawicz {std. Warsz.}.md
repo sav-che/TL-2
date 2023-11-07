@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103250#page/152/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33066432) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warszewicz, Joseph Ritter von Rawicz (1812-1866), Lithuanian-born (of Polish extraction) gardener and plant collector; with the Berlin Botanical Garden 1840-1844; employed by Messrs Van Houtte, Gent, to collect in St. Thomas and Guatemala 1845; independent collector ib. from 1846, specialicing on living orchids, collecting in Central America; 1850-1851 working with H.G. Reichenbach in Berlin; collecting in South America 1851-1853; from 1854-1866 head curator of the Cracow botanical garden. (*Warsz.*).
+Warszewicz, Joseph Ritter von Rawicz (1812-1866), Lithuanian-born (of Polish extraction) gardener and plant collector; with the Berlin Botanical Garden 1840-1844; employed by Messrs Van Houtte, Gent, to collect in St. Thomas and Guatemala 1845; independent collector ib. from 1846, specialicing on living orchids, collecting in Central America; 1850-1851 working with H.G. Reichenbach in Berlin; collecting in South America 1851-1853; from 1854-1866 head curator of the Cracow botanical garden. 
+**Abbreviated name**: *Warsz.*
 
 #### Herbarium and types
 

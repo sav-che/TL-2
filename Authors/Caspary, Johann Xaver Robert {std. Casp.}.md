@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/103414#page/512/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33120595) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caspary, (Johann Xaver) Robert {std. Casp.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Caspary, Johann Xaver Robert (1818-1887), German botanist, hydrobiologist, nenupharologist and paleontologist at Berlin (1852-1857), Bonn (1857-1859) and Königsberg (1859-1887), versatile scientist. (*Casp.*).
+Caspary, Johann Xaver Robert (1818-1887), German botanist, hydrobiologist, nenupharologist and paleontologist at Berlin (1852-1857), Bonn (1857-1859) and Königsberg (1859-1887), versatile scientist. 
+**Abbreviated name**: *Casp.*
 
 #### Herbarium and types
 

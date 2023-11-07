@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/item/104077#page/870/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33333995) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stebler, Friedrich Gottlieb (1852-1935), Swiss (Bern) agronomist, botanist and folklore student; Dr. phil. Halle 1876; head of the Swiss Seed testing institute in Zürich. (*Stebler*).
+Stebler, Friedrich Gottlieb (1852-1935), Swiss (Bern) agronomist, botanist and folklore student; Dr. phil. Halle 1876; head of the Swiss Seed testing institute in Zürich. 
+**Abbreviated name**: *Stebler*
 
 #### Herbarium and types
 

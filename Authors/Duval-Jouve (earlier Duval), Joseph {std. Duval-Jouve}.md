@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/item/103414#page/763/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33120846) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duval-Jouve, Joseph {std. Duval-Jouve} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Duval-Jouve \[earlier: Duval\], Joseph (1810-1883), French botanist and palaeobiologist; inspector of the Academy at Strassbourg (PR), later at Montpellier. (*Duval-Jouve*).
+Duval-Jouve \[earlier: Duval\], Joseph (1810-1883), French botanist and palaeobiologist; inspector of the Academy at Strassbourg (PR), later at Montpellier. 
+**Abbreviated name**: *Duval-Jouve*
 
 #### Herbarium and types
 

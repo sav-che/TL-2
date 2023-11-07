@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103414#page/325/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33120408) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boott, Francis {std. Boott} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boott, Francis M. B. (1792-1863), American born physician and botanist who settled in England. (*Boott*).
+Boott, Francis M. B. (1792-1863), American born physician and botanist who settled in England. 
+**Abbreviated name**: *Boott*
 
 #### Herbarium, types and drawings
 

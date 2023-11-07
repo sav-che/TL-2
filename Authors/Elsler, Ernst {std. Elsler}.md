@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103835#page/336/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33260314) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elsler, Ernst (fl. 1907), Austrian botanist working as demonstrator at the botanical institute of the University of Innsbruck. (*Elsler*).
+Elsler, Ernst (fl. 1907), Austrian botanist working as demonstrator at the botanical institute of the University of Innsbruck. 
+**Abbreviated name**: *Elsler*
 
 #### Herbarium and types
 

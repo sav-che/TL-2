@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103832#page/185/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33258651) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Géneau de Lamarlière, \[Jean Baptiste\] Léon \[Isidore\] (1865-1903), French botanist, born 4 Apr 1865 in Tardinhem (Pas de Calais), Dr. ès-sciences 1893 Univ. of Paris, placed in charge of courses at the School of Medicine and Pharmacy, Reims 1896, published some 80 papers on a wide range of botanical subjects, won two prizes and unexpectedly died 25 Sep 1903 in Reims. (*Géneau*).
+Géneau de Lamarlière, \[Jean Baptiste\] Léon \[Isidore\] (1865-1903), French botanist, born 4 Apr 1865 in Tardinhem (Pas de Calais), Dr. ès-sciences 1893 Univ. of Paris, placed in charge of courses at the School of Medicine and Pharmacy, Reims 1896, published some 80 papers on a wide range of botanical subjects, won two prizes and unexpectedly died 25 Sep 1903 in Reims. 
+**Abbreviated name**: *Géneau*
 
 #### Herbarium and types
 

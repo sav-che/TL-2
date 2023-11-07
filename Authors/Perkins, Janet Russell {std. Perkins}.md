@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103624#page/180/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33189637) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perkins, Janet Russell (1853-1933), American botanist; studied at the Univ. of Wisconsin 1867-1871; private teacher in Hildesheim and studying music and languages at Paris 1871-1874; from 1875-1895 private teacher at Chicago and (for three years) travelling in Europe California, Açores and Hawaii; to Berlin, studying botany e.g. with Engler, Gilg, and Kny 1895-1898; at Heidelberg 1898; again at Berlin as voluntary associate of Engler from 1898; Dr. phil. Heidelberg 1900. (*Perkins*).
+Perkins, Janet Russell (1853-1933), American botanist; studied at the Univ. of Wisconsin 1867-1871; private teacher in Hildesheim and studying music and languages at Paris 1871-1874; from 1875-1895 private teacher at Chicago and (for three years) travelling in Europe California, Açores and Hawaii; to Berlin, studying botany e.g. with Engler, Gilg, and Kny 1895-1898; at Heidelberg 1898; again at Berlin as voluntary associate of Engler from 1898; Dr. phil. Heidelberg 1900. 
+**Abbreviated name**: *Perkins*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/item/103253#page/522/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kanjilal, Upendranath N. (1859-1928), Indian botanist; extra deputy conservator of forests, Assam, lecturer at Dehra Dun. (*Kanjilal*).
+Kanjilal, Upendranath N. (1859-1928), Indian botanist; extra deputy conservator of forests, Assam, lecturer at Dehra Dun. 
+**Abbreviated name**: *Kanjilal*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/item/103859#page/413/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33265600) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boye, P. (fl. 1896-1912), Norwegian phycologist of Stavanger. (*Boye*).
+Boye, P. (fl. 1896-1912), Norwegian phycologist of Stavanger. 
+**Abbreviated name**: *Boye*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/item/104137#page/615/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moruzi, Constance (1899-x), Roumanian mycologist and lichenologist; Dr. Sci. Paris 1932; active at the University, the Agronomical Institute and the Pedagogical Institute in Bucarest. (*Moruzi*).
+Moruzi, Constance (1899-x), Roumanian mycologist and lichenologist; Dr. Sci. Paris 1932; active at the University, the Agronomical Institute and the Pedagogical Institute in Bucarest. 
+**Abbreviated name**: *Moruzi*
 
 #### Herbarium and types
 

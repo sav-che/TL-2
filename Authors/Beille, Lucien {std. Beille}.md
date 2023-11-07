@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/103859#page/67/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265254) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beille, Lucien (1862-1946), French (Aurillac) pharmacist, physician and botanist at Bordeaux, studied at the University of Bordeaux, professor of materia medica ib. 1908, director of the Jardin botanique de la ville de Bordeaux from 1901; Dr. sci. nat. Bordeaux 1902. (*Beille*).
+Beille, Lucien (1862-1946), French (Aurillac) pharmacist, physician and botanist at Bordeaux, studied at the University of Bordeaux, professor of materia medica ib. 1908, director of the Jardin botanique de la ville de Bordeaux from 1901; Dr. sci. nat. Bordeaux 1902. 
+**Abbreviated name**: *Beille*
 
 #### Herbarium and types
 

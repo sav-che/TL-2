@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103858#page/211/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33264926) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Atchley, Shirles Clifford (c. 1871-1936), British botanist, longtime translator with the local rank of a First Secretary at the British Legation, Athens, Greece. (*Atchley*).
+Atchley, Shirles Clifford (c. 1871-1936), British botanist, longtime translator with the local rank of a First Secretary at the British Legation, Athens, Greece. 
+**Abbreviated name**: *Atchley*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103834#page/360/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33259842) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fosberg, Francis Raymond ('Ray') (1908-1993), American botanist and ecologist, born 20 Mai 1908 nr. Spokane, Washington, B.A. 1930 Pomona College, Claremont, Calif., asst. in charge of the herb., Los Angeles County Museum 1930-1932, asst. in botany, Univ. of Hawaii and on Mangarevan Exped. 1934 (M.Sc. 1935), fellow in botany, Morris Arboretum and at Univ. of Penn., Philadelphia 1937-1939 (Ph.D. 1939), U.S.D.A Bureau of Plant Industry from 1935 and during W.W.-II (1942) head of plant exploration for *Cinchona* (quinine) in S. America, U.S. Geological Survey (Pacific Vegetation Project) 1951-1965, Natl. Museum of Natural History (Smithsonian Institution) as special advisor for tropical botany 1966-1978, emeritus 1978, died 25 Sep 1993 at home in Falls Church, Virginia. (*Fosberg*).
+Fosberg, Francis Raymond ('Ray') (1908-1993), American botanist and ecologist, born 20 Mai 1908 nr. Spokane, Washington, B.A. 1930 Pomona College, Claremont, Calif., asst. in charge of the herb., Los Angeles County Museum 1930-1932, asst. in botany, Univ. of Hawaii and on Mangarevan Exped. 1934 (M.Sc. 1935), fellow in botany, Morris Arboretum and at Univ. of Penn., Philadelphia 1937-1939 (Ph.D. 1939), U.S.D.A Bureau of Plant Industry from 1935 and during W.W.-II (1942) head of plant exploration for *Cinchona* (quinine) in S. America, U.S. Geological Survey (Pacific Vegetation Project) 1951-1965, Natl. Museum of Natural History (Smithsonian Institution) as special advisor for tropical botany 1966-1978, emeritus 1978, died 25 Sep 1993 at home in Falls Church, Virginia. 
+**Abbreviated name**: *Fosberg*
 
 #### Herbarium and types
 

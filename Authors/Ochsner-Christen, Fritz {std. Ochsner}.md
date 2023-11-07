@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/item/104137#page/819/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ochsner-Christen, Fritz (1899-x), Swiss bryologist and geobotanist at Muri, Aargau; Dr. phil. Zürich 1926; later high school teacher in Winterthur and Muri, Aargau. (*Ochsner*).
+Ochsner-Christen, Fritz (1899-x), Swiss bryologist and geobotanist at Muri, Aargau; Dr. phil. Zürich 1926; later high school teacher in Winterthur and Muri, Aargau. 
+**Abbreviated name**: *Ochsner*
 
 #### Herbarium and types
 

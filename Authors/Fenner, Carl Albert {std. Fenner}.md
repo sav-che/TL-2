@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/103834#page/152/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33259634) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fenner, Carl Albert (1874-x), Swiss secondary school teacher, born 7 \[14?\] Jun 1874, Dr. phil. 1904 Univ. of Zurich, prof. in a Zurich Gymnasium until retirement in 1934. (*Fenner*).
+Fenner, Carl Albert (1874-x), Swiss secondary school teacher, born 7 \[14?\] Jun 1874, Dr. phil. 1904 Univ. of Zurich, prof. in a Zurich Gymnasium until retirement in 1934. 
+**Abbreviated name**: *Fenner*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/item/104137#page/818/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-O'Brien, Charlotte Grace (1845-1909), Irish botanist of Foynes, Limerick. (*C. O'brien*).
+O'Brien, Charlotte Grace (1845-1909), Irish botanist of Foynes, Limerick. 
+**Abbreviated name**: *C. O'brien*
 
 #### Herbarium and types
 

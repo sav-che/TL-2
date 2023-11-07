@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103832#page/166/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33258632) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gavaudan, Pierre (1905-1985), French cytologist and hepaticologist, born 25 Jul 1905 in Montpellier, Dr. ès-sciences 1930 Paris, Prof. 1949-1975, Faculty of Science, Poitiers (Vienne), died 10 Jan 1985 in Songues (Vaucluse). (*Gavaudan*).
+Gavaudan, Pierre (1905-1985), French cytologist and hepaticologist, born 25 Jul 1905 in Montpellier, Dr. ès-sciences 1930 Paris, Prof. 1949-1975, Faculty of Science, Poitiers (Vienne), died 10 Jan 1985 in Songues (Vaucluse). 
+**Abbreviated name**: *Gavaudan*
 
 #### Herbarium and types
 

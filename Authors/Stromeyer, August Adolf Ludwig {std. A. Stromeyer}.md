@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103683#page/62/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33212056) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stromeyer, August Adolf Ludwig (*fl*. 1829), German (Hannover) physician. (*A. Stromeyer*).
+Stromeyer, August Adolf Ludwig (*fl*. 1829), German (Hannover) physician. 
+**Abbreviated name**: *A. Stromeyer*
 
 #### Herbarium and types
 

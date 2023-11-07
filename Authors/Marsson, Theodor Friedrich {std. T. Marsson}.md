@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/item/104137#page/328/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33355399) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marsson, Theodor Friedrich (1816-1892), German pharmacist, botanist and palaeontologist; pharmacist at Wolgast 1842-1867; Dr. phil. h.c. Greifswald 1856; from 1867 at Greifswald working as a private scientist. (*T. Marsson*).
+Marsson, Theodor Friedrich (1816-1892), German pharmacist, botanist and palaeontologist; pharmacist at Wolgast 1842-1867; Dr. phil. h.c. Greifswald 1856; from 1867 at Greifswald working as a private scientist. 
+**Abbreviated name**: *T. Marsson*
 
 #### Herbarium and types
 

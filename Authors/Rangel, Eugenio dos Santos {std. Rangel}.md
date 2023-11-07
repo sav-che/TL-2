@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/item/103624#page/591/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33190048) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rangel, Eugenio dos Santos (*fl*. 1931), Brazilian agronomist and phytopathologist; head of the serviço de phytopathologia of the Instituto biologico de defessa agricola. (*Rangel*).
+Rangel, Eugenio dos Santos (*fl*. 1931), Brazilian agronomist and phytopathologist; head of the serviço de phytopathologia of the Instituto biologico de defessa agricola. 
+**Abbreviated name**: *Rangel*
 
 #### Herbarium and types
 

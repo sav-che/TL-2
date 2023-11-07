@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103859#page/240/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265427) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blumer, Jacob Corwin (1872-1948), Swiss born American botanist and collector, migrated to the United States with his parents ca. 1881, settling in Davis County, Iowa, studied at Iowa State College 1901-1902, B.S.A. ib. 1902 and at the University of Michigan 1904-1906, seasonal employee of the U.S. Forest Service during the summer of 1901-1905, collected in Arizona 1906-1907, assistant at the Desert Laboratory, Tuscon, Arizona 1907-1908, further collecting in Arizona 1909-1912, assistant forester with the Commission of Conservation of Canada 1913-1916, collected again in Arizona 1917, turned ultimately to farming and landscape gardening, lived during the 1930s and 1940s near Clinton, Minnesota. (*Blumer*).
+Blumer, Jacob Corwin (1872-1948), Swiss born American botanist and collector, migrated to the United States with his parents ca. 1881, settling in Davis County, Iowa, studied at Iowa State College 1901-1902, B.S.A. ib. 1902 and at the University of Michigan 1904-1906, seasonal employee of the U.S. Forest Service during the summer of 1901-1905, collected in Arizona 1906-1907, assistant at the Desert Laboratory, Tuscon, Arizona 1907-1908, further collecting in Arizona 1909-1912, assistant forester with the Commission of Conservation of Canada 1913-1916, collected again in Arizona 1917, turned ultimately to farming and landscape gardening, lived during the 1930s and 1940s near Clinton, Minnesota. 
+**Abbreviated name**: *Blumer*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103835#page/272/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33260250) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eeden, Frederik Willem van {std. Eeden}|first entry]] for this author
 
 ### Author
 
-\* Eeden, Frederik Willem van (1829-1901), Dutch botanist, born at Haarlem 26 Oct 1829, studied especially the flora of the Dutch coastal areas publishing in "Album der Natuur", became director of the Koloniaal Museum at Haarlem (now the "Koninklijk Instituut voor de Tropen" at Amsterdam), died 4 Mai 1901 at Haarlem. (*Eeden*).
+\* Eeden, Frederik Willem van (1829-1901), Dutch botanist, born at Haarlem 26 Oct 1829, studied especially the flora of the Dutch coastal areas publishing in "Album der Natuur", became director of the Koloniaal Museum at Haarlem (now the "Koninklijk Instituut voor de Tropen" at Amsterdam), died 4 Mai 1901 at Haarlem. 
+**Abbreviated name**: *Eeden*
 
 #### Herbarium and types
 

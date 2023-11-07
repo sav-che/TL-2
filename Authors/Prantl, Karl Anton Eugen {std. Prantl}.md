@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103624#page/393/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33189850) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prantl, Karl Anton Eugen (1849-1893), German (Bavaria-born) botanist; Dr. phil. München 1870; studied with von Naegeli and Radlkofer; 1871-1876 at Würzburg with Sachs; habil. Würzburg 1873; 1876-1889 professor of botany at the forestry college of Aschaffenburg; id. at Breslau 1889-1893; founder, with Adolf Engler, of *Die natürlichen Pflanzenfamilien*. (*Prantl*).
+Prantl, Karl Anton Eugen (1849-1893), German (Bavaria-born) botanist; Dr. phil. München 1870; studied with von Naegeli and Radlkofer; 1871-1876 at Würzburg with Sachs; habil. Würzburg 1873; 1876-1889 professor of botany at the forestry college of Aschaffenburg; id. at Breslau 1889-1893; founder, with Adolf Engler, of *Die natürlichen Pflanzenfamilien*. 
+**Abbreviated name**: *Prantl*
 
 #### Herbarium and types
 

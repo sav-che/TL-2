@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/item/104137#page/419/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meins, Claus (1806-1873), German theologist and botanist; high school teacher at the Glückstadt gymnasium 1848-1865; from 1865 clergyman at St. Margarethen. (*Meins*).
+Meins, Claus (1806-1873), German theologist and botanist; high school teacher at the Glückstadt gymnasium 1848-1865; from 1865 clergyman at St. Margarethen. 
+**Abbreviated name**: *Meins*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/103414#page/152/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33120235) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baker, John Gilbert {std. Baker} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baker, John Gilbert (1834-1920), British botanist, keeper of the herbarium of the Royal Botanic Gardens, Kew. (*Baker*).
+Baker, John Gilbert (1834-1920), British botanist, keeper of the herbarium of the Royal Botanic Gardens, Kew. 
+**Abbreviated name**: *Baker*
 
 #### Herbarium and types
 

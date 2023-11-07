@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/103253#page/475/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33068691) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnson, Charles Pierpont (x-1893), British botanist, son of Charles Johnson. (*C. P. Johns.*).
+Johnson, Charles Pierpont (x-1893), British botanist, son of Charles Johnson. 
+**Abbreviated name**: *C. P. Johns.*
 
 #### Herbarium and types
 

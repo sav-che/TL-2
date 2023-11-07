@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/103253#page/592/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33068808) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klinge, Johannes Christoph (1851-1902), Estonian botanist; Dr. phil. Dorpat (Tartu) 1893; at the Dorpat botanical garden 1879-1895; from 1895 librarian and botanist at the St. Petersburg botanical garden. (*Klinge*).
+Klinge, Johannes Christoph (1851-1902), Estonian botanist; Dr. phil. Dorpat (Tartu) 1893; at the Dorpat botanical garden 1879-1895; from 1895 librarian and botanist at the St. Petersburg botanical garden. 
+**Abbreviated name**: *Klinge*
 
 #### Herbarium and types
 

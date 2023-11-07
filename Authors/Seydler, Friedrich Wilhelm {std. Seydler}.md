@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/item/104077#page/557/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33333682) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seydler, Friedrich Wilhelm (1811-1897), German (East-Prussian) botanist; at the teacher's college of Klein Dexen 1829-1831; teacher at schools in Gr.-Kuhren and Heiligenbeil 1831, from 1861 inspector at the "Seeligerschen Erziehungsanstalt" Braunsberg; one of the founders of the Preuss. bot. Verein. (*Seydler*).
+Seydler, Friedrich Wilhelm (1811-1897), German (East-Prussian) botanist; at the teacher's college of Klein Dexen 1829-1831; teacher at schools in Gr.-Kuhren and Heiligenbeil 1831, from 1861 inspector at the "Seeligerschen Erziehungsanstalt" Braunsberg; one of the founders of the Preuss. bot. Verein. 
+**Abbreviated name**: *Seydler*
 
 #### Herbarium and types
 

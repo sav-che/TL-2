@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/item/103624#page/763/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33190220) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reyes y Prosper, Eduardo (1860-1921), Spanish (Valencia-born) botanist; studied at Cordoba, Valencia and Madrid; Dr. Ci. Madrid. (*Reyes y Prosper*).
+Reyes y Prosper, Eduardo (1860-1921), Spanish (Valencia-born) botanist; studied at Cordoba, Valencia and Madrid; Dr. Ci. Madrid. 
+**Abbreviated name**: *Reyes y Prosper*
 
 #### Herbarium and types
 

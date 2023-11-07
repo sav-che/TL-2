@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/item/103250#page/161/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33066441) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watson, John Forbes (1827-1892), Scottish physician and economic botanist; M.D. Aberdeen 1847; assistant surgeon Bombay medical service 1850; lecturer in physiology at Grant medical college; on sick leave to England 1853; reporter on economic products of India, keeper of the India office Museum 1858-1879. (*J.F. Wats.*).
+Watson, John Forbes (1827-1892), Scottish physician and economic botanist; M.D. Aberdeen 1847; assistant surgeon Bombay medical service 1850; lecturer in physiology at Grant medical college; on sick leave to England 1853; reporter on economic products of India, keeper of the India office Museum 1858-1879. 
+**Abbreviated name**: *J.F. Wats.*
 
 #### Herbarium and types
 

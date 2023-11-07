@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/item/103414#page/921/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frauenfeld, Georg \[Ritter von\] (1807-1873), Austrian zoologist, curator of the Vienna Zoological Museum, participated in the voyage of the Novarra. (*Frauenfeld*).
+Frauenfeld, Georg \[Ritter von\] (1807-1873), Austrian zoologist, curator of the Vienna Zoological Museum, participated in the voyage of the Novarra. 
+**Abbreviated name**: *Frauenfeld*
 
 #### Herbarium and types
 

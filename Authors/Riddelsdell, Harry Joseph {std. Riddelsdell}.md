@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/item/103624#page/799/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33190256) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Riddelsdell, Harry Joseph (1866-1941), British clergyman and botanist (batologist); subwarden St. Michael's Theological College, Llandoff, Aberdare, 1897-1914; rector, Wigginton, Oxford 1914-1918; Bloxham, Oxford 1918-1936. (*Riddelsdell*).
+Riddelsdell, Harry Joseph (1866-1941), British clergyman and botanist (batologist); subwarden St. Michael's Theological College, Llandoff, Aberdare, 1897-1914; rector, Wigginton, Oxford 1914-1918; Bloxham, Oxford 1918-1936. 
+**Abbreviated name**: *Riddelsdell*
 
 #### Herbarium and types
 

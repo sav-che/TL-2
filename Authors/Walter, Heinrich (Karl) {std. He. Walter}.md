@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103250#page/109/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33066389) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walter, Heinrich \[Karl\] (1898-x), German (Odessa-born) botanist; studied at Jena; assistant, lecturer and professor of botany Heidelberg Univ. 1920-1932; director of the Botanical Institute of the Stuttgart Technical Univ. 1932-1941; director of the Institute of general botany Posen Univ. 1941-1945; director of the Botanical Institute Stuttgart-Hohenheim from 1945; travelled widely in Africa, Australia, and New Zealand; outstanding plant geographer. (*He. Walter*).
+Walter, Heinrich \[Karl\] (1898-x), German (Odessa-born) botanist; studied at Jena; assistant, lecturer and professor of botany Heidelberg Univ. 1920-1932; director of the Botanical Institute of the Stuttgart Technical Univ. 1932-1941; director of the Institute of general botany Posen Univ. 1941-1945; director of the Botanical Institute Stuttgart-Hohenheim from 1945; travelled widely in Africa, Australia, and New Zealand; outstanding plant geographer. 
+**Abbreviated name**: *He. Walter*
 
 #### Herbarium and types
 

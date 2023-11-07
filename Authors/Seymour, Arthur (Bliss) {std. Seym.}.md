@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/item/104077#page/557/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33333682) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seymour, Arthur \[Bliss\] (1859-1933), American botanist; MS Univ. Illinois 1886; assistant to W.G. Farlow at Harvard 1883-1885; at the University of Wisconson 1885-1886; permanently appointed to the staff of the Cryptogamic Herbarium, Harvard 1886, especially engaged on the Harvard mycological indexes. (*Seym.*).
+Seymour, Arthur \[Bliss\] (1859-1933), American botanist; MS Univ. Illinois 1886; assistant to W.G. Farlow at Harvard 1883-1885; at the University of Wisconson 1885-1886; permanently appointed to the staff of the Cryptogamic Herbarium, Harvard 1886, especially engaged on the Harvard mycological indexes. 
+**Abbreviated name**: *Seym.*
 
 #### Herbarium and types
 

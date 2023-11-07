@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/item/103253#page/125/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33068341) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hattori, Hirotarô (1875-1965), Japanese botanist. (*Hatt.*).
+Hattori, Hirotarô (1875-1965), Japanese botanist. 
+**Abbreviated name**: *Hatt.*
 
 #### Herbarium and types
 

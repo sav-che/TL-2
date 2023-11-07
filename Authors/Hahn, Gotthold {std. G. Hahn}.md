@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/item/103253#page/40/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33068256) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hahn, Gotthold (*fl*. 1875-1911), German cryptogamist at Gera. (*G. Hahn*).
+Hahn, Gotthold (*fl*. 1875-1911), German cryptogamist at Gera. 
+**Abbreviated name**: *G. Hahn*
 
 #### Herbarium and types
 

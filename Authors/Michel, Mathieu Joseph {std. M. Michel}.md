@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/104137#page/480/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33355551) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michel, Mathieu Joseph (1825-1890), Belgian self-taught botanist and workman at Fraipont; founder, 1876, of the "Société de Botanique de Fraipont et de Nessonvaux" consisting of workmen only. (*M. Michel*).
+Michel, Mathieu Joseph (1825-1890), Belgian self-taught botanist and workman at Fraipont; founder, 1876, of the "Société de Botanique de Fraipont et de Nessonvaux" consisting of workmen only. 
+**Abbreviated name**: *M. Michel*
 
 #### Herbarium and types
 

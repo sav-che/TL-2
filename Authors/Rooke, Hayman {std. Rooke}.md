@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/item/103624#page/892/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33190349) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rooke, Hayman (c. 1722-1806), British (English) botanical artist and soldier, of Whitehaven, Cumberland. (*Rooke*).
+Rooke, Hayman (c. 1722-1806), British (English) botanical artist and soldier, of Whitehaven, Cumberland. 
+**Abbreviated name**: *Rooke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/104137#page/176/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33355247) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lorenz, B. (*fl*. 1894), German botanist; high school teacher at Zittau. (*B. Lorenz*).
+Lorenz, B. (*fl*. 1894), German botanist; high school teacher at Zittau. 
+**Abbreviated name**: *B. Lorenz*
 
 #### Herbarium and types
 

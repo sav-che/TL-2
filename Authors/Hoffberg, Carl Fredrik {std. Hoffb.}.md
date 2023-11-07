@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/item/103253#page/261/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoffberg, Carl Fredrik (1729-1790), Swedish physician and botanist, ultimately court-physician (1762-1788) at Stockholm. (*Hoffb.*).
+Hoffberg, Carl Fredrik (1729-1790), Swedish physician and botanist, ultimately court-physician (1762-1788) at Stockholm. 
+**Abbreviated name**: *Hoffb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103833#page/209/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Demerson, L. (17..-18..), French botanist with L. Demerson being a pseudonym or a later name of L(ouis) Hanin \[TL-2/2: 45\], born in Metz, "chevalier de l'ordre royal de la Légion-d'Honneur". (*Demerson*).
+Demerson, L. (17..-18..), French botanist with L. Demerson being a pseudonym or a later name of L(ouis) Hanin \[TL-2/2: 45\], born in Metz, "chevalier de l'ordre royal de la Légion-d'Honneur". 
+**Abbreviated name**: *Demerson*
 
 #### Herbarium and types
 

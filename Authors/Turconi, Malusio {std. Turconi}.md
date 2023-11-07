@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/item/103683#page/547/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33212579) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turconi, Malusio (1879-1929), Italian mycologist at the Laboratorio crittogamico di Pavia from 1899. (*Turconi*).
+Turconi, Malusio (1879-1929), Italian mycologist at the Laboratorio crittogamico di Pavia from 1899. 
+**Abbreviated name**: *Turconi*
 
 #### Herbarium and types
 

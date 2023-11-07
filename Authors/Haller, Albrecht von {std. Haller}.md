@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103253#page/50/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33068266) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haller, Albrecht von (1708-1777), Swiss naturalist, poet and novelist; studied medicine at Tübingen (1723-725), Leiden (with Boerhaave, 1725-1727), London and Paris; practicing physician at Bern (1729-1736) and Goettingen (1736-1753); "Ammann" at Bern 1753-1756; supervisor Salt Industry Bex (1756-1764); at Bern 1764-1777. (*Haller*).
+Haller, Albrecht von (1708-1777), Swiss naturalist, poet and novelist; studied medicine at Tübingen (1723-725), Leiden (with Boerhaave, 1725-1727), London and Paris; practicing physician at Bern (1729-1736) and Goettingen (1736-1753); "Ammann" at Bern 1753-1756; supervisor Salt Industry Bex (1756-1764); at Bern 1764-1777. 
+**Abbreviated name**: *Haller*
 
 #### Herbarium and types
 

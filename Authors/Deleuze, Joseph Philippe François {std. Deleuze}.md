@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103833#page/187/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deleuze, Joseph Philippe François (1753-1835), French author and naturalist, born Sisteron, Provence Mar 1753, died 29 Oct 1835 in Paris, had a short military career, moved to natural sciences with de L'Héritier, Adr. de Jussieu and A.P. de Candolle, librarian of the Muséum d'Histoire naturelle at Paris. (*Deleuze*).
+Deleuze, Joseph Philippe François (1753-1835), French author and naturalist, born Sisteron, Provence Mar 1753, died 29 Oct 1835 in Paris, had a short military career, moved to natural sciences with de L'Héritier, Adr. de Jussieu and A.P. de Candolle, librarian of the Muséum d'Histoire naturelle at Paris. 
+**Abbreviated name**: *Deleuze*
 
 #### Herbarium and types
 

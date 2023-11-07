@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/item/103414#page/670/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33120753) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[De Notaris, Giuseppe {std. De Not.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-De Notaris, Giuseppe (1805-1877), Italian botanist. (*De Not.*).
+De Notaris, Giuseppe (1805-1877), Italian botanist. 
+**Abbreviated name**: *De Not.*
 
 #### Herbarium and types
 

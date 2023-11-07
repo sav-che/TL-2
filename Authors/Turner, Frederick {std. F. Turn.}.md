@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/item/103683#page/557/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33212589) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turner, Frederick (1852-1939), British-born Australian botanist; curator, Queensland Acclimatisation Society's gardens, 1874-1890; economic botanist, Dept. Agriculture N.S.W. 1890. (*F. Turn.*).
+Turner, Frederick (1852-1939), British-born Australian botanist; curator, Queensland Acclimatisation Society's gardens, 1874-1890; economic botanist, Dept. Agriculture N.S.W. 1890. 
+**Abbreviated name**: *F. Turn.*
 
 #### Herbarium and types
 

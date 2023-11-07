@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103253#page/41/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hahn, Otto (1828-1904), German lawyer and mineralogist at Reutlingen. (*O. Hahn*).
+Hahn, Otto (1828-1904), German lawyer and mineralogist at Reutlingen. 
+**Abbreviated name**: *O. Hahn*
 
 #### Herbarium and types
 

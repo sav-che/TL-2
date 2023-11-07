@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/103624#page/243/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33189700) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pfund, Johann Daniel Christian (1813-1876), German botanist; born in Hamburg; practicing physician in Prague, from 1842-1845 also custos at PR; later physician in Alexandria, Egypt; collected in the Nile valley; died on a trip to Nubia, Kordofan and Darfur 1874-1876. (*Pfund*).
+Pfund, Johann Daniel Christian (1813-1876), German botanist; born in Hamburg; practicing physician in Prague, from 1842-1845 also custos at PR; later physician in Alexandria, Egypt; collected in the Nile valley; died on a trip to Nubia, Kordofan and Darfur 1874-1876. 
+**Abbreviated name**: *Pfund*
 
 #### Herbarium and types
 

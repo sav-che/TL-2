@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/104077#page/483/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33333608) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seboth, Joseph (1816-1883), Austrian botanical artist; educated at the Vienna Academy for fine arts; with Th. Kotschy in Asia minor 1859; artist for *Flora brasiliensis* and for Schott's works on Aroids. (*Seboth*).
+Seboth, Joseph (1816-1883), Austrian botanical artist; educated at the Vienna Academy for fine arts; with Th. Kotschy in Asia minor 1859; artist for *Flora brasiliensis* and for Schott's works on Aroids. 
+**Abbreviated name**: *Seboth*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/item/103683#page/15/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33212089) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stizenberger, Ernst (1827-1895), German (Baden) physician and lichenologist; studied medicine at Freiburg i. Br. and Zürich, state exam. med. 1850; Dr. med. Freiburg 1851; practicing phycisian at Konstanz 1851-1895; from 1852 also inspector of the pharmacies in S. Baden; active politician and musician. (*Stizenb.*).
+Stizenberger, Ernst (1827-1895), German (Baden) physician and lichenologist; studied medicine at Freiburg i. Br. and Zürich, state exam. med. 1850; Dr. med. Freiburg 1851; practicing phycisian at Konstanz 1851-1895; from 1852 also inspector of the pharmacies in S. Baden; active politician and musician. 
+**Abbreviated name**: *Stizenb.*
 
 #### Herbarium and types
 

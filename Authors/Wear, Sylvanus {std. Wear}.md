@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/103250#page/173/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33066453) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wear, Sylvanus (1858-1920), British field naturalist and flour miller; in Belfast from 1904. (*Wear*).
+Wear, Sylvanus (1858-1920), British field naturalist and flour miller; in Belfast from 1904. 
+**Abbreviated name**: *Wear*
 
 #### Herbarium and types
 

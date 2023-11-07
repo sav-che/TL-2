@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/item/103414#page/905/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33120988) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forster, Johann Georg (b. George) Adam {std. G. Forster} (Suppl.)|second entry]] for Forsters
 
 ### Author
 
-Forster, Johann Georg Adam (1754-1794), German explorer and botanist, son of J. R. Forster whom he accompanied to England, Russia and on Cook's second voyage. (*G. Forster*).
+Forster, Johann Georg Adam (1754-1794), German explorer and botanist, son of J. R. Forster whom he accompanied to England, Russia and on Cook's second voyage. 
+**Abbreviated name**: *G. Forster*
 
 #### Herbarium and types
 

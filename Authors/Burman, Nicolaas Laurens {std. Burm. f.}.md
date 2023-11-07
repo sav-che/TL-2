@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/103414#page/464/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33120547) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burman, Nicolaas Laurens {std. Burm. f.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Burman, Nicolaas Laurens (1773-1793). Dutch physician and botanist at Amsterdam, son of Johannes Burman, correspondent of Linnaeus, professor of botany at the Amsterdam *Athenaeum illustre* 1769-1793. (*N. L. Burm.*).
+Burman, Nicolaas Laurens (1773-1793). Dutch physician and botanist at Amsterdam, son of Johannes Burman, correspondent of Linnaeus, professor of botany at the Amsterdam *Athenaeum illustre* 1769-1793. 
+**Abbreviated name**: *N. L. Burm.*
 
 #### Herbarium and types
 

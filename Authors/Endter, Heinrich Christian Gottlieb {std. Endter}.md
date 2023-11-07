@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103835#page/350/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33260328) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Endter, Heinrich Christian Gottlieb (fl. 1789), German physician, born in Bremen, studied in Göttingen. (*Endter*).
+Endter, Heinrich Christian Gottlieb (fl. 1789), German physician, born in Bremen, studied in Göttingen. 
+**Abbreviated name**: *Endter*
 
 #### Herbarium and types
 

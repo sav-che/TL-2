@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103624#page/203/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33189660) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peter, \[Gustav\] Albert (1853-1937), German (Prussian) botanist; Dr. phil. Königsberg 1874; private tutor at München 1874-1884 and working with Nägeli on Hieracium; habil. München 1884; "Custos" at the botanical garden, München 1884-1888; professor of botany and director of the botanical garden Göttingen 1888-1923; in retirement working at a Flora von Deutsch-Ostafrika. (*Peter*).
+Peter, \[Gustav\] Albert (1853-1937), German (Prussian) botanist; Dr. phil. Königsberg 1874; private tutor at München 1874-1884 and working with Nägeli on Hieracium; habil. München 1884; "Custos" at the botanical garden, München 1884-1888; professor of botany and director of the botanical garden Göttingen 1888-1923; in retirement working at a Flora von Deutsch-Ostafrika. 
+**Abbreviated name**: *Peter*
 
 #### Herbarium and types
 

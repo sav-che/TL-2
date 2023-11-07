@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103858#page/335/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265050) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barckhausen, Gottlieb {std. Barckhausen}|first entry]] for this author
 
 ### Author
 
-\* Barckhausen, Justus Christian Gottlieb Willibald (1748-1783), German (Westphalia) physician and botanist, Dr. med. Göttingen 1775, practicing at Detmold from 1777. (*Barckhausen*).
+\* Barckhausen, Justus Christian Gottlieb Willibald (1748-1783), German (Westphalia) physician and botanist, Dr. med. Göttingen 1775, practicing at Detmold from 1777. 
+**Abbreviated name**: *Barckhausen*
 
 #### Herbarium and types
 

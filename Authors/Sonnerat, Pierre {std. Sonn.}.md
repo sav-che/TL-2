@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/104077#page/758/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33333883) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sonnerat, Pierre (1749-1814), French colonial administrator, explorer and naturalist; in the colonial and marine department of the French government; visited the Cape of Good Hope, Reunion and Mauritius (ca. 1768), the Moluccas, New Guinea, the Philippines, Ceylon, Malayan peninsula, China; later in command of a French settlement at Yanam, India, and at Pondichery. (*Sonn.*).
+Sonnerat, Pierre (1749-1814), French colonial administrator, explorer and naturalist; in the colonial and marine department of the French government; visited the Cape of Good Hope, Reunion and Mauritius (ca. 1768), the Moluccas, New Guinea, the Philippines, Ceylon, Malayan peninsula, China; later in command of a French settlement at Yanam, India, and at Pondichery. 
+**Abbreviated name**: *Sonn.*
 
 #### Herbarium and types
 

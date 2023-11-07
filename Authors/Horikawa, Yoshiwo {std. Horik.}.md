@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103253#page/359/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33068575) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Horikawa, Yoshiwo (1902-1976), Japanese botanist at Hiroshima University and Yasuda Women's College. (*Horik.*).
+Horikawa, Yoshiwo (1902-1976), Japanese botanist at Hiroshima University and Yasuda Women's College. 
+**Abbreviated name**: *Horik.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103253#page/481/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33068697) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jones, Herbert Lyon (1866-1898), American botanist; Harvard AB 1892, instructor in botany Harvard 1895-1897; professor of botany at Oberlin College 1897-1898. (*H. L. Jones*).
+Jones, Herbert Lyon (1866-1898), American botanist; Harvard AB 1892, instructor in botany Harvard 1895-1897; professor of botany at Oberlin College 1897-1898. 
+**Abbreviated name**: *H. L. Jones*
 
 #### Herbarium and types
 

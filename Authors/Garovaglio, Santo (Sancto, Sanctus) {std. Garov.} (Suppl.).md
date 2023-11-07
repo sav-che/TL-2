@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/103832#page/141/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33258607) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Garovaglio, Santo {std. Garov.}|first entry]] for this author
 
 ### Author
 
-\* Garovaglio, Santo \[Sancto, Sanctus\] (1805-1882), Italian cryptogamic botanist, born 28 Jan 1805 in Como, enrolled, Faculty of Medicine, Univ. of Pavia 1821, asst. in botany to G. Moretti 1833 and prof. of natural history 1839-1852, both Univ. of Pavia, doctorate 1840 Vienna, full prof. of botany from 1852 (succeeding Moretti), dir. of Botanic Garden 1853-1882, and founder of the "Laboratorio Crittogamico" 1871, all in Pavia, died 20 \[18?\] Mar 1882 in Pavia. (*Garov.*).
+\* Garovaglio, Santo \[Sancto, Sanctus\] (1805-1882), Italian cryptogamic botanist, born 28 Jan 1805 in Como, enrolled, Faculty of Medicine, Univ. of Pavia 1821, asst. in botany to G. Moretti 1833 and prof. of natural history 1839-1852, both Univ. of Pavia, doctorate 1840 Vienna, full prof. of botany from 1852 (succeeding Moretti), dir. of Botanic Garden 1853-1882, and founder of the "Laboratorio Crittogamico" 1871, all in Pavia, died 20 \[18?\] Mar 1882 in Pavia. 
+**Abbreviated name**: *Garov.*
 
 #### Herbarium and types
 

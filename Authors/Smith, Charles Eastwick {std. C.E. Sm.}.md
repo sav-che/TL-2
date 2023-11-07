@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/item/104077#page/680/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33333805) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Charles Eastwick (1820-1900), American engineer, industrial executive and amateur botanist at Philadelphia; chief organizer of the American Iron and Steel Association; president of the Philadelphia and Reading Railroad Company 1861-1869; collected widely in the N.E. United States 1862-1882. (*C.E. Sm.*).
+Smith, Charles Eastwick (1820-1900), American engineer, industrial executive and amateur botanist at Philadelphia; chief organizer of the American Iron and Steel Association; president of the Philadelphia and Reading Railroad Company 1861-1869; collected widely in the N.E. United States 1862-1882. 
+**Abbreviated name**: *C.E. Sm.*
 
 #### Herbarium and types
 

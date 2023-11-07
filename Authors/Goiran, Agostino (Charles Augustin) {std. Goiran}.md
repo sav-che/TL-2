@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/item/103832#page/290/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33258756) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goiran, Agostino \[Charles Augustin\] (1835-1909), Italian botanist, born 24 Sep 1835 in Nizza (Kingdom of Sardinia) (from 1860 Nice, France), botany prof. in Verona for 35 years, retired 1904, died 29 Oct 1909 in Nice. (*Goiran*).
+Goiran, Agostino \[Charles Augustin\] (1835-1909), Italian botanist, born 24 Sep 1835 in Nizza (Kingdom of Sardinia) (from 1860 Nice, France), botany prof. in Verona for 35 years, retired 1904, died 29 Oct 1909 in Nice. 
+**Abbreviated name**: *Goiran*
 
 #### Herbarium and types
 

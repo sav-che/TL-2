@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/item/103253#page/750/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33068966) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lagerstedt, Nils Gerhard Wilhelm (1847-1925), Swedish high school teacher, librarian and botanist at Stockholm (Östermalm); Dr. phil. Uppsala 1869. (*Lagerst.*).
+Lagerstedt, Nils Gerhard Wilhelm (1847-1925), Swedish high school teacher, librarian and botanist at Stockholm (Östermalm); Dr. phil. Uppsala 1869. 
+**Abbreviated name**: *Lagerst.*
 
 #### Herbarium and types
 

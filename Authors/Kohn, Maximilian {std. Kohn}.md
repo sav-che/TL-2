@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/item/103253#page/633/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33068849) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kohn, Maximilian (*fl*. 1846), Austrian botanist; Dr. med. Wien 1846. (*Kohn*).
+Kohn, Maximilian (*fl*. 1846), Austrian botanist; Dr. med. Wien 1846. 
+**Abbreviated name**: *Kohn*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/103414#page/322/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33120405) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonorden, Hermann Friedrich (1801-1884), German physician and mycologist, "Regimentsarzt in Köln a. Rh." (*Bonord.*).
+Bonorden, Hermann Friedrich (1801-1884), German physician and mycologist, "Regimentsarzt in Köln a. Rh." 
+**Abbreviated name**: *Bonord.*
 
 #### Herbarium and types
 

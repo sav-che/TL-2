@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/item/104137#page/608/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33355679) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morren, Charles Jacques Édouard (1833-1886), Belgian botanist; professor of botany and director of the botanical garden at Liège 1857-1886; Dr. sci. Liège 1855; Dr. spéc. sci. bot. Gent 1858; son of C. F. A. Morren; specialist on Bromeliaceae. (*E. Morr.*).
+Morren, Charles Jacques Édouard (1833-1886), Belgian botanist; professor of botany and director of the botanical garden at Liège 1857-1886; Dr. sci. Liège 1855; Dr. spéc. sci. bot. Gent 1858; son of C. F. A. Morren; specialist on Bromeliaceae. 
+**Abbreviated name**: *E. Morr.*
 
 #### Herbarium and types
 

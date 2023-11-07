@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103860#page/440/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33266107) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coventry, E. M. (fl. 1906), British deputy conservator of forests in Indiana. (*E.M. Coventry*).
+Coventry, E. M. (fl. 1906), British deputy conservator of forests in Indiana. 
+**Abbreviated name**: *E.M. Coventry*
 
 #### Herbarium and types
 

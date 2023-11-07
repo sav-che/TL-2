@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/item/103683#page/740/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33212772) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Viennot-Bourgin, Georges (1906-x), French mycologist at the École national d'Agriculture de Grignon. (*Vien.-Bourg.*).
+Viennot-Bourgin, Georges (1906-x), French mycologist at the École national d'Agriculture de Grignon. 
+**Abbreviated name**: *Vien.-Bourg.*
 
 #### Herbarium and types
 

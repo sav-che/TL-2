@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103858#page/238/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33264953) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Babington, Charles Cardale {std. Bab.}|first entry]] for this author
 
 ### Author
 
-\* Babington, Charles Cardale (1808-1895), British botanist, professor of botany at Cambridge, studied at the University of Cambridge (St. John's College) 1826, B.A. 1830, M.A. 1833, stayed with the University of Cambridge, professor of botany ib. 1861-1895. (*Bab.*).
+\* Babington, Charles Cardale (1808-1895), British botanist, professor of botany at Cambridge, studied at the University of Cambridge (St. John's College) 1826, B.A. 1830, M.A. 1833, stayed with the University of Cambridge, professor of botany ib. 1861-1895. 
+**Abbreviated name**: *Bab.*
 
 #### Herbarium and types
 

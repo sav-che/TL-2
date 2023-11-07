@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103250#page/481/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33066761) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolf, Nathaniel Matthaeus von (1724-1784), German (West-Prussian, Danzig) physician, astronomer and botanist; studied at the Universities of Leipzig, Halle and Erfurt; practicing physician at Warsaw, Posen and Konitz; ca. 1769-1772 in Dirschau and, from 1772, in Danzig. (*Wolf*).
+Wolf, Nathaniel Matthaeus von (1724-1784), German (West-Prussian, Danzig) physician, astronomer and botanist; studied at the Universities of Leipzig, Halle and Erfurt; practicing physician at Warsaw, Posen and Konitz; ca. 1769-1772 in Dirschau and, from 1772, in Danzig. 
+**Abbreviated name**: *Wolf*
 
 #### Herbarium and types
 

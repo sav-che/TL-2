@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103860#page/365/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266032) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Corda, August Karl Joseph {std. Corda}|first entry]] for this author
 
 ### Author
 
-\* Corda, August Karl Joseph (1809-1849), Czech taxonomist, mycologist, palaeontologist, and traveller, born 22 October 1809 at Liberec (Reichenberg) in Bohemia, custos of the zoological collections of the national museum of Bohemia, travelled for a year in Texas, payed for by Fürst Colloredo, left Europe 15 October 1848 from Bremen, left New Orleans 25 Aug 1849 to return to Europe but died on the Caribbean Sea at circa 16 September 1849, was some time custos of the zoological collections at the National Museum. (*Corda*).
+\* Corda, August Karl Joseph (1809-1849), Czech taxonomist, mycologist, palaeontologist, and traveller, born 22 October 1809 at Liberec (Reichenberg) in Bohemia, custos of the zoological collections of the national museum of Bohemia, travelled for a year in Texas, payed for by Fürst Colloredo, left Europe 15 October 1848 from Bremen, left New Orleans 25 Aug 1849 to return to Europe but died on the Caribbean Sea at circa 16 September 1849, was some time custos of the zoological collections at the National Museum. 
+**Abbreviated name**: *Corda*
 
 #### Herbarium and types
 

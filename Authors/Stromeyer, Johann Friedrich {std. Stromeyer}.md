@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103683#page/63/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33212057) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stromeyer, Johann Friedrich (1750-1830), German (Hannover) physician and botanist; Dr. med. Göttingen 1772. (*Stromeyer*).
+Stromeyer, Johann Friedrich (1750-1830), German (Hannover) physician and botanist; Dr. med. Göttingen 1772. 
+**Abbreviated name**: *Stromeyer*
 
 #### Herbarium and types
 

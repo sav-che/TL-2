@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103835#page/337/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33260315) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eltinge, Ethel Taber (1899-x), American botanist (bacteriologist), born 1 Jun 1899 at Syracuse (N.Y.), studied at Syracuse University, AB 1921, MA 1922, Ph.D. Washington University (St. Louis) 1928, instructor botany Albion College 1922-1923, Lindenwood College 1923-1926, Mount Holyoke College 1928-1932, asst. prof. 1932-1942, associate professor from 1942. (*Eltinge*).
+Eltinge, Ethel Taber (1899-x), American botanist (bacteriologist), born 1 Jun 1899 at Syracuse (N.Y.), studied at Syracuse University, AB 1921, MA 1922, Ph.D. Washington University (St. Louis) 1928, instructor botany Albion College 1922-1923, Lindenwood College 1923-1926, Mount Holyoke College 1928-1932, asst. prof. 1932-1942, associate professor from 1942. 
+**Abbreviated name**: *Eltinge*
 
 #### Herbarium and types
 

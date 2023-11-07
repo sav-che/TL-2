@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/item/103414#page/937/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fries, (Klas) Robert Elias {std. R.E. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fries, Klas Robert Elias (1876-1966), Swedish botanist, son of Theodor Magnus Fries, grandson of Elias Magnus Fries. (*R. E. Fr.*).
+Fries, Klas Robert Elias (1876-1966), Swedish botanist, son of Theodor Magnus Fries, grandson of Elias Magnus Fries. 
+**Abbreviated name**: *R. E. Fr.*
 
 #### Herbarium and types
 

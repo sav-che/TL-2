@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/item/104137#page/616/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33355687) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mosén, Carl Wilhelm Hjalmar (1841-1887), Swedish botanist; Dr. phil. Uppsala 1875; collector on Regnell's expedition (1873-1876), curator of the Brazilian collections of the Stockholm Riksmuseum 1872-1873, 1876-1883. (*Mosén*).
+Mosén, Carl Wilhelm Hjalmar (1841-1887), Swedish botanist; Dr. phil. Uppsala 1875; collector on Regnell's expedition (1873-1876), curator of the Brazilian collections of the Stockholm Riksmuseum 1872-1873, 1876-1883. 
+**Abbreviated name**: *Mosén*
 
 #### Herbarium and types
 

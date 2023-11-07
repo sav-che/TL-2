@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/item/103683#page/675/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Geert, Auguste van {std. Van Geert} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Van Geert, Auguste \[August\] (1888-1938), Belgian horticulturist at Gent, specialist on Azaleas. (*Van Geert*).
+Van Geert, Auguste \[August\] (1888-1938), Belgian horticulturist at Gent, specialist on Azaleas. 
+**Abbreviated name**: *Van Geert*
 
 #### Herbarium and types
 

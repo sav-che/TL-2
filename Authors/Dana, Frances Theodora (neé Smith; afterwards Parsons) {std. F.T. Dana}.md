@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103833#page/55/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33259089) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dana, Frances Theodora (neé Smith; afterwards Parsons) (1861-x), American botanist, born 5 Dec 1861, New York City, NY, married (1) 20 Mai 1884 with William Starr Dana (who died 1 Jan 1890, Paris, France), married (2) 8 Feb 1896 with James Russell Parsons, Jr. (*F.T. Dana*).
+Dana, Frances Theodora (neé Smith; afterwards Parsons) (1861-x), American botanist, born 5 Dec 1861, New York City, NY, married (1) 20 Mai 1884 with William Starr Dana (who died 1 Jan 1890, Paris, France), married (2) 8 Feb 1896 with James Russell Parsons, Jr. 
+**Abbreviated name**: *F.T. Dana*
 
 #### Herbarium and types
 

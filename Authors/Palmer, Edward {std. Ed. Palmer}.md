@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103624#page/42/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33189461) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmer, Edward (1831-1911), English-born American surgeon and botanist; professional collector of botanical, archeological and ethnological materials; emigrated to the U.S. 1849; from then on travelling and collecting mainly in the American West and in Mexico. (*Ed. Palmer*).
+Palmer, Edward (1831-1911), English-born American surgeon and botanist; professional collector of botanical, archeological and ethnological materials; emigrated to the U.S. 1849; from then on travelling and collecting mainly in the American West and in Mexico. 
+**Abbreviated name**: *Ed. Palmer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/item/103624#page/594/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33190051) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rapp, Arthur Roman (1854-after 1894), Latvian (Livonian) physician and botanist; at the State Gymnasium of Dorpat (Jurjew) 1864-1872; studied medicine at Dorpat, Wien and Berlin; practicing physician at Laudohn 1882-1884, Kosenhof, Wainsel; and ultimately in Lemsal 1887-1892; retired to Dorpat 1892 because of ill-health. (*Rapp*).
+Rapp, Arthur Roman (1854-after 1894), Latvian (Livonian) physician and botanist; at the State Gymnasium of Dorpat (Jurjew) 1864-1872; studied medicine at Dorpat, Wien and Berlin; practicing physician at Laudohn 1882-1884, Kosenhof, Wainsel; and ultimately in Lemsal 1887-1892; retired to Dorpat 1892 because of ill-health. 
+**Abbreviated name**: *Rapp*
 
 #### Herbarium and types
 

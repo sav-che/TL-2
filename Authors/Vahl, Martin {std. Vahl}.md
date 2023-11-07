@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/item/103683#page/638/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33212670) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vahl, Martin (1749-1804), Norwegian-born Danish botanist; studied botany at Copenhagen under Zoëga 1766-1767; in Norway 1767-1769; studied in Uppsala under Linnaeus 1769-1774; from 1774 in Copenhagen, associated with the Botanical Garden, lecturer 1779-1782; travelled in Europe 1783-1785; professor of botany 1786; travelled in Norway 1786, 1787-1788, in the Netherlands and France 1799-1800; full professor at Copenhagen University 1801-1804. (*Vahl*).
+Vahl, Martin (1749-1804), Norwegian-born Danish botanist; studied botany at Copenhagen under Zoëga 1766-1767; in Norway 1767-1769; studied in Uppsala under Linnaeus 1769-1774; from 1774 in Copenhagen, associated with the Botanical Garden, lecturer 1779-1782; travelled in Europe 1783-1785; professor of botany 1786; travelled in Norway 1786, 1787-1788, in the Netherlands and France 1799-1800; full professor at Copenhagen University 1801-1804. 
+**Abbreviated name**: *Vahl*
 
 #### Herbarium and types
 

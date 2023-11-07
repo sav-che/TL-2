@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/103834#page/90/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33259572) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Faure, Alphonse (1865-1958), French teacher and botanist, born 7 Mar 1865 in Monêtier-les-Briançon (now Monnétier-les-Bains) (Hautes-Alpes), teacher in Briançon, later in Gap and finally in Téus 1900, returned to Gap but was sent to Oran, Algeria in 1903 as departmental teacher, worked with C. Arvet-Touvet on *Hieracium* of the Alps, made extensive collections in Algeria and Morocco, awarded Prix de Coincy 1950, died 28 Jan 1958 in Oran. (*Faure*).
+Faure, Alphonse (1865-1958), French teacher and botanist, born 7 Mar 1865 in Monêtier-les-Briançon (now Monnétier-les-Bains) (Hautes-Alpes), teacher in Briançon, later in Gap and finally in Téus 1900, returned to Gap but was sent to Oran, Algeria in 1903 as departmental teacher, worked with C. Arvet-Touvet on *Hieracium* of the Alps, made extensive collections in Algeria and Morocco, awarded Prix de Coincy 1950, died 28 Jan 1958 in Oran. 
+**Abbreviated name**: *Faure*
 
 #### Herbarium and types
 

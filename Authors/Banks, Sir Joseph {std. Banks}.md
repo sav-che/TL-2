@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103414#page/163/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33120246) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Banks, Sir Joseph (1743-1820), British naturalist, traveller, philanthropist and scientist, President of the Royal Society (1778-1820). (*Banks*).
+Banks, Sir Joseph (1743-1820), British naturalist, traveller, philanthropist and scientist, President of the Royal Society (1778-1820). 
+**Abbreviated name**: *Banks*
 
 #### Collections
 

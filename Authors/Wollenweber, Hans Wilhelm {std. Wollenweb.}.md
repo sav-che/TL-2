@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103250#page/486/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33066766) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wollenweber, Hans Wilhelm (1879-1949), German (Westphalen) mycologist and parasitologist; trained as a gardener at the horticultural school Wildpark, Potsdam; garden-technician in Hannover 1902-1903; studied at the Universities of Göttingen and Berlin 1906-1909; Dr. phil. Berlin 1909; collaborator in the phytopathological laboratory of the Biologische Reichsanstalt, Berlin-Dahlem 1909, from 1919 in charge of the mycological laboratory ib. (*Wollenweb.*).
+Wollenweber, Hans Wilhelm (1879-1949), German (Westphalen) mycologist and parasitologist; trained as a gardener at the horticultural school Wildpark, Potsdam; garden-technician in Hannover 1902-1903; studied at the Universities of Göttingen and Berlin 1906-1909; Dr. phil. Berlin 1909; collaborator in the phytopathological laboratory of the Biologische Reichsanstalt, Berlin-Dahlem 1909, from 1919 in charge of the mycological laboratory ib. 
+**Abbreviated name**: *Wollenweb.*
 
 #### Herbarium and types
 

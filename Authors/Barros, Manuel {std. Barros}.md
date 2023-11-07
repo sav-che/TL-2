@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103858#page/352/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265067) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barros, Manuel (1880-1973), Argentine botanist and physician, honorary collaborator with the Museo Ciencias naturales Buenos Aires, Bot. (*Barros*).
+Barros, Manuel (1880-1973), Argentine botanist and physician, honorary collaborator with the Museo Ciencias naturales Buenos Aires, Bot. 
+**Abbreviated name**: *Barros*
 
 #### Herbarium and types
 

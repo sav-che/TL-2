@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/item/103624#page/990/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rüggeberg, Hermann Karl August (1886-?), German lichenologist; studied natural sciences at Göttingen (1906-1908) and München 1908; Dr. phil. Göttingen 1910; assistant at the Bromberg Kaiser-Wilhelm-Institut für Landwirthschaft 1910-1911; id. at Botanical Garden Göttingen 1911-1912; teacher at Hameln (1912), Nienburg (1913) and from 1914 at Celle; in forced retirement 1939-1945; retired 1952. (*Rüggeberg*).
+Rüggeberg, Hermann Karl August (1886-?), German lichenologist; studied natural sciences at Göttingen (1906-1908) and München 1908; Dr. phil. Göttingen 1910; assistant at the Bromberg Kaiser-Wilhelm-Institut für Landwirthschaft 1910-1911; id. at Botanical Garden Göttingen 1911-1912; teacher at Hameln (1912), Nienburg (1913) and from 1914 at Celle; in forced retirement 1939-1945; retired 1952. 
+**Abbreviated name**: *Rüggeberg*
 
 #### Herbarium and types
 

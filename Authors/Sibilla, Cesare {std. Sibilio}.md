@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/item/104077#page/590/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33333715) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sibilla, Cesare (1895-x), Italian mycologist; professor of vegetable physiology at Florence Univ. 1938-1948, from 1948 director of the Stazione di Patologia vegetale, Roma; Dr. phil. Roma 1926. (*Sibilio*).
+Sibilla, Cesare (1895-x), Italian mycologist; professor of vegetable physiology at Florence Univ. 1938-1948, from 1948 director of the Stazione di Patologia vegetale, Roma; Dr. phil. Roma 1926. 
+**Abbreviated name**: *Sibilio*
 
 #### Herbarium and types
 

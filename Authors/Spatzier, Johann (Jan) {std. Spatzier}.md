@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/item/104077#page/790/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33333915) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spatzier, Johann \[Jan\] (1806-1883), Austrian-Silesian (Moravian) naturalist and pharmacist at Jägerndorf (Krnov) 1835-1883. (*Spatzier*).
+Spatzier, Johann \[Jan\] (1806-1883), Austrian-Silesian (Moravian) naturalist and pharmacist at Jägerndorf (Krnov) 1835-1883. 
+**Abbreviated name**: *Spatzier*
 
 #### Herbarium and types
 

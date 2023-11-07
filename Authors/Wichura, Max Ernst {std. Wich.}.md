@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103250#page/317/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33066597) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wichura, Max Ernst (1817-1866), German magistrate, traveller and botanist; studied law at Breslau 1836-1839; stages at Breslau, Berlin and Ratibor; municipal judge at Breslau 1851; from 1858 municipal administrator, from 1859 "Regierungsrath", travelled in Lapponia 1856; participated in the Prussian Eastern Asiatic Expedition 1859-1863; from 1865-1866 working at the Botanical Museum in Berlin. (*Wich.*).
+Wichura, Max Ernst (1817-1866), German magistrate, traveller and botanist; studied law at Breslau 1836-1839; stages at Breslau, Berlin and Ratibor; municipal judge at Breslau 1851; from 1858 municipal administrator, from 1859 "Regierungsrath", travelled in Lapponia 1856; participated in the Prussian Eastern Asiatic Expedition 1859-1863; from 1865-1866 working at the Botanical Museum in Berlin. 
+**Abbreviated name**: *Wich.*
 
 #### Herbarium and types
 

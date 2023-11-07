@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1059](https://www.biodiversitylibrary.org/item/103624#page/1073/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1059](https://www.biodiversitylibrary.org/page/33190530) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sahni, Birbal (1891-1949), Indian palaeobotanist; MA Cantab. 1918; D.Sc. Univ. London 1929; at Emmanuel College Cambridge 1911-1914; with A.C. Seward at the Botany School ib. 1914-1919; professor of botany at Lucknow University 1921-1949; D.Sc. Cambr. 1929; FRS 1936. (*Sahni*).
+Sahni, Birbal (1891-1949), Indian palaeobotanist; MA Cantab. 1918; D.Sc. Univ. London 1929; at Emmanuel College Cambridge 1911-1914; with A.C. Seward at the Botany School ib. 1914-1919; professor of botany at Lucknow University 1921-1949; D.Sc. Cambr. 1929; FRS 1936. 
+**Abbreviated name**: *Sahni*
 
 #### Herbarium and types
 

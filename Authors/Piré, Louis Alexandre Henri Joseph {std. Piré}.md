@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103624#page/286/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piré, Louis Alexandre Henri Joseph (1827-1887), Belgian botanist; high school teacher at the Bruxelles Athenaeum 1854-1883; in retirement at Spa (1884-1887). (*Piré*).
+Piré, Louis Alexandre Henri Joseph (1827-1887), Belgian botanist; high school teacher at the Bruxelles Athenaeum 1854-1883; in retirement at Spa (1884-1887). 
+**Abbreviated name**: *Piré*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103253#page/62/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hammar, Olaf Niklas (1821-1875), Swedish botanist; Dr. phil. Lund 1847, lecturer ib. 1849-1859; later "telegrafkommissarie" at Ronneby. (*Hammar*).
+Hammar, Olaf Niklas (1821-1875), Swedish botanist; Dr. phil. Lund 1847, lecturer ib. 1849-1859; later "telegrafkommissarie" at Ronneby. 
+**Abbreviated name**: *Hammar*
 
 #### Herbarium and types
 

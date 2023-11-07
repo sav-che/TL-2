@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/103860#page/380/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33266047) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Correia \[Correa\] de Méllo, Joaquim (1816-1877), Brazilian botanist, born 10 Apr 1816 at São Paulo, studied law at the University of São Paulo, later pharmacy at Rio de Janeiro 1834-1836, received his diploma "optime cum laude", investigated the flora around São Paulo, collected many plants that were sent to England and Paris, e.g. Bignoniaceae to Bureau, died 20 Dec 1877. (*Corr. Méllo*).
+Correia \[Correa\] de Méllo, Joaquim (1816-1877), Brazilian botanist, born 10 Apr 1816 at São Paulo, studied law at the University of São Paulo, later pharmacy at Rio de Janeiro 1834-1836, received his diploma "optime cum laude", investigated the flora around São Paulo, collected many plants that were sent to England and Paris, e.g. Bignoniaceae to Bureau, died 20 Dec 1877. 
+**Abbreviated name**: *Corr. Méllo*
 
 #### Herbarium and types
 

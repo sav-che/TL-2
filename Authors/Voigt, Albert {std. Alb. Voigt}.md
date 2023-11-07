@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/item/103683#page/784/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voigt, Albert (1858-?), German (Hannover) botanist; Dr. phil. Göttingen 1885; high school teacher at Hannover. (*Alb. Voigt*).
+Voigt, Albert (1858-?), German (Hannover) botanist; Dr. phil. Göttingen 1885; high school teacher at Hannover. 
+**Abbreviated name**: *Alb. Voigt*
 
 #### Herbarium and types
 

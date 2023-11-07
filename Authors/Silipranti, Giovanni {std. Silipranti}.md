@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/104077#page/611/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Silipranti, Giovanni (*fl*. 1887), Italian botanist; science teacher at the Technical college of Udine; later at Foggia. (*Silipranti*).
+Silipranti, Giovanni (*fl*. 1887), Italian botanist; science teacher at the Technical college of Udine; later at Foggia. 
+**Abbreviated name**: *Silipranti*
 
 #### Herbarium and types
 

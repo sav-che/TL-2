@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103683#page/126/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33212158) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swartz, Olof \[Peter\] (1760-1818), Swedish botanist; Dr. med. Uppsala 1785; curator and professor at the "Bergianska trädgårdsskolan 1791; curator of the natural history cabinet of the Swedish Academy of Sciences 1806; permanent secretary of the Swedish Academy of Sciences 1811-1818; professor of botany at the "Chirurgiska skolan" (now Karol. Inst.) Stockholm 1813; travelled in Sweden 1779-1783, 1800, 1807; visited Boston 1783, travelled in the West Indies and N.E. South America 1784-1786; worked in London 1786-1787; F.M.L.S. 1791; in charge of the Hortus botanicus bergianus 1791-1818. (*Sw.*).
+Swartz, Olof \[Peter\] (1760-1818), Swedish botanist; Dr. med. Uppsala 1785; curator and professor at the "Bergianska trädgårdsskolan 1791; curator of the natural history cabinet of the Swedish Academy of Sciences 1806; permanent secretary of the Swedish Academy of Sciences 1811-1818; professor of botany at the "Chirurgiska skolan" (now Karol. Inst.) Stockholm 1813; travelled in Sweden 1779-1783, 1800, 1807; visited Boston 1783, travelled in the West Indies and N.E. South America 1784-1786; worked in London 1786-1787; F.M.L.S. 1791; in charge of the Hortus botanicus bergianus 1791-1818. 
+**Abbreviated name**: *Sw.*
 
 #### Herbarium and types
 

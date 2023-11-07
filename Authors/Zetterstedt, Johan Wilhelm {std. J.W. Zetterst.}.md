@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/item/103250#page/593/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33066873) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zetterstedt, Johan Wilhelm (1785-1874), Swedish entomologist and botanist; studied at Lund 1805-1808; Dr. fil. ib. 1808, Dr. med. h.c. ib. 1868; botanical lecturer ib. 1810, botanical demonstrator 1812, professor's title 1822; secretary of the University of Lund 1828-1836; professor of botany and agronomy ib. 1839-1853. (*J.W. Zetterst.*).
+Zetterstedt, Johan Wilhelm (1785-1874), Swedish entomologist and botanist; studied at Lund 1805-1808; Dr. fil. ib. 1808, Dr. med. h.c. ib. 1868; botanical lecturer ib. 1810, botanical demonstrator 1812, professor's title 1822; secretary of the University of Lund 1828-1836; professor of botany and agronomy ib. 1839-1853. 
+**Abbreviated name**: *J.W. Zetterst.*
 
 #### Herbarium and types
 

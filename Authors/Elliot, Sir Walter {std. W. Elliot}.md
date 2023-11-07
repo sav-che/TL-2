@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/item/103414#page/788/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elliot, Sir Walter (1803-1887), Scottish born Indian civil servant and botanist. (*W. Elliot*).
+Elliot, Sir Walter (1803-1887), Scottish born Indian civil servant and botanist. 
+**Abbreviated name**: *W. Elliot*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/104137#page/265/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33355336) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maheu, Jacques Marie Albert (1873-1937), French pharmacist and lichenologist at Paris. (*Maheu*).
+Maheu, Jacques Marie Albert (1873-1937), French pharmacist and lichenologist at Paris. 
+**Abbreviated name**: *Maheu*
 
 #### Herbarium and types
 

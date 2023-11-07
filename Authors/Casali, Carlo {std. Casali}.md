@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/item/103861#page/453/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33266750) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Casali, Carlo (1865-?), Italian botanist and phytopathologist, born at Reggio nell' Emilia, Dr. Sci. nat., sometime at the Botanical Institute Roma from 1894, from 1908 at the University of Parma, professor of natural sciences and zootechnic, later at Reggio nell' Emilia. (*Casali*).
+Casali, Carlo (1865-?), Italian botanist and phytopathologist, born at Reggio nell' Emilia, Dr. Sci. nat., sometime at the Botanical Institute Roma from 1894, from 1908 at the University of Parma, professor of natural sciences and zootechnic, later at Reggio nell' Emilia. 
+**Abbreviated name**: *Casali*
 
 #### Herbarium and types
 

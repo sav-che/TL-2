@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103832#page/55/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33258483) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frisch, Alban Immanuel (1856-1934), German journalist and amateur botanist, born 21 Oct 1856 in Dresden, attended schools there and later the Gymnasium Albertinum in Freiberg and the Leipzig Gymnasium until 1877, studied law and politics in Leipzig but became a journalist and studied the local flora around his home in Annaberg, died 28 Mar 1934 in Dresden. (*A.I. Frisch*).
+Frisch, Alban Immanuel (1856-1934), German journalist and amateur botanist, born 21 Oct 1856 in Dresden, attended schools there and later the Gymnasium Albertinum in Freiberg and the Leipzig Gymnasium until 1877, studied law and politics in Leipzig but became a journalist and studied the local flora around his home in Annaberg, died 28 Mar 1934 in Dresden. 
+**Abbreviated name**: *A.I. Frisch*
 
 #### Herbarium and types
 

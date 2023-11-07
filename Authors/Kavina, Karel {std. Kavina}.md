@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/103253#page/535/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33068751) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kavina, Karel (1890-1948), Czechoslovakian botanist and mycologist at Praha; pupil of J. Velenovsky. (*Kavina*).
+Kavina, Karel (1890-1948), Czechoslovakian botanist and mycologist at Praha; pupil of J. Velenovsky. 
+**Abbreviated name**: *Kavina*
 
 #### Herbarium and types
 

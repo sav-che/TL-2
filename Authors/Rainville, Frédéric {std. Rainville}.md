@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/103624#page/580/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33190037) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rainville, Frédéric (x-1779), French-born botanist, private teacher and translator at Rotterdam; student of grasses. (*Rainville*).
+Rainville, Frédéric (x-1779), French-born botanist, private teacher and translator at Rotterdam; student of grasses. 
+**Abbreviated name**: *Rainville*
 
 #### Herbarium and types
 

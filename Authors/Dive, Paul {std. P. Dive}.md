@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103833#page/371/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33259405) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dive, Paul (fl. 1872), French pharmacist who studied at the École supèrieure de Pharmacie de Paris, born at Mont de Marsan. (*P. Dive*).
+Dive, Paul (fl. 1872), French pharmacist who studied at the École supèrieure de Pharmacie de Paris, born at Mont de Marsan. 
+**Abbreviated name**: *P. Dive*
 
 #### Herbarium and types
 

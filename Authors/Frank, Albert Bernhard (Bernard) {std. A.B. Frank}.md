@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103834#page/408/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33259890) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frank, Albert Bernhard \[Bernard\] (1839-1900), German botanist (physiologist and phytopathologist), born 17 Jan 1839 in Dresden where he attended Realschule and gymnasium, studied medicine and natural sciences (esp. botany) in Leipzig, Dr. Sci. Nat. 1865 Leipzig, curator ("custos") at the Univ., docent for botany, asst. prof. 1878 and prof. of plant physiology 1881 at agricultural high school in Berlin, died 27 Sep 1900 in Berlin. (*A.B. Frank*).
+Frank, Albert Bernhard \[Bernard\] (1839-1900), German botanist (physiologist and phytopathologist), born 17 Jan 1839 in Dresden where he attended Realschule and gymnasium, studied medicine and natural sciences (esp. botany) in Leipzig, Dr. Sci. Nat. 1865 Leipzig, curator ("custos") at the Univ., docent for botany, asst. prof. 1878 and prof. of plant physiology 1881 at agricultural high school in Berlin, died 27 Sep 1900 in Berlin. 
+**Abbreviated name**: *A.B. Frank*
 
 #### Note
 

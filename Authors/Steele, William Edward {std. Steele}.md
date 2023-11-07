@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/item/104077#page/872/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33333997) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steele, William Edward (1816-1883), Irish botanist and physician; MD Dublin 1837; director of the Science and Art Museum Dublin. (*Steele*).
+Steele, William Edward (1816-1883), Irish botanist and physician; MD Dublin 1837; director of the Science and Art Museum Dublin. 
+**Abbreviated name**: *Steele*
 
 #### Herbarium and types
 

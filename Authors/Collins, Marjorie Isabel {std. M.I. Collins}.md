@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103860#page/287/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265954) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collins, Marjorie Isabel (fl. 1918-1921), Australian botanist, B.Sc., Sydney, Demonstrator in Botany at the University of Adelaide. (*M.I. Collins*).
+Collins, Marjorie Isabel (fl. 1918-1921), Australian botanist, B.Sc., Sydney, Demonstrator in Botany at the University of Adelaide. 
+**Abbreviated name**: *M.I. Collins*
 
 #### Herbarium and types
 

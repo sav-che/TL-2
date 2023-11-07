@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103250#page/277/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33066557) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weston, William Henry (1890-1978), American mycologist and plant pathologist; Dr. phil. Harvard 1915; instructor in botany, Western Reserve 1915-1916, path. inspector USDA 1916-1917, pathologist USDA, Bureau of Plant Industry 1918-1921; assistant professor of botany Harvard 1921-1927, assoc. prof. 1927-1928, professor of cryptogamic botany 1928-1958, emeritus professor from 1958. (*W. Weston*).
+Weston, William Henry (1890-1978), American mycologist and plant pathologist; Dr. phil. Harvard 1915; instructor in botany, Western Reserve 1915-1916, path. inspector USDA 1916-1917, pathologist USDA, Bureau of Plant Industry 1918-1921; assistant professor of botany Harvard 1921-1927, assoc. prof. 1927-1928, professor of cryptogamic botany 1928-1958, emeritus professor from 1958. 
+**Abbreviated name**: *W. Weston*
 
 #### Herbarium and types
 

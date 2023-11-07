@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103861#page/154/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33266451) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Browne, \[Lady\] Isabel Mary Peyronnet (1881-1947), British botanist, studied at University College, London, from then on private researcher with F.W. Oliver at University College. (*I. Browne*).
+Browne, \[Lady\] Isabel Mary Peyronnet (1881-1947), British botanist, studied at University College, London, from then on private researcher with F.W. Oliver at University College. 
+**Abbreviated name**: *I. Browne*
 
 #### Herbarium and types
 

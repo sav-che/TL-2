@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103833#page/208/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33259242) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dematra,... (1742-1824), Swiss clergyman and botanist, whose specialities were Rosa and the flora of the Canton of Fribourg. (*Dematra*).
+Dematra,... (1742-1824), Swiss clergyman and botanist, whose specialities were Rosa and the flora of the Canton of Fribourg. 
+**Abbreviated name**: *Dematra*
 
 #### Herbarium and types
 

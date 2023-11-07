@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103861#page/212/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33266509) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buckley, Samuel Botsford {std. Buckley}|first entry]] for this author
 
 ### Author
 
-\* Buckley, Samuel Botsford (1809-1884), American naturalist born Torrey Township, West Dresden, Yates County, N.Y., studied at Wesleyan University, Middletown, Connecticut, 1833-1836, collected plants in Illinois and Missouri, 1837, the Virginias (including what is now West Virginia), Kentucky, Illinois, and Alabama, 1838, teacher in Alabama, 1839-1840, travelled widely in the mountains of North Carolina, South Carolina, Tennessee, and Georgia, 1842, studied at College of Physicians and Surgeons, N.Y., 1842-1843, collected plants in Florida Territory, 1843, farmer, upstate N.Y., 1843-1855, bookstore employee, Yellow Springs, Ohio, 1855-1856, determined mountain elevations in North Carolina and Tennessee, 1858, assistant geologist and naturalist, Texas Geological Survey, 1860-1861, U.S. Sanitary Commission, 1862-1865, state geologist of Texas, 1866-1867, 1874-1877, Ph.D. Waco University, 1872. (*Buckley*).
+\* Buckley, Samuel Botsford (1809-1884), American naturalist born Torrey Township, West Dresden, Yates County, N.Y., studied at Wesleyan University, Middletown, Connecticut, 1833-1836, collected plants in Illinois and Missouri, 1837, the Virginias (including what is now West Virginia), Kentucky, Illinois, and Alabama, 1838, teacher in Alabama, 1839-1840, travelled widely in the mountains of North Carolina, South Carolina, Tennessee, and Georgia, 1842, studied at College of Physicians and Surgeons, N.Y., 1842-1843, collected plants in Florida Territory, 1843, farmer, upstate N.Y., 1843-1855, bookstore employee, Yellow Springs, Ohio, 1855-1856, determined mountain elevations in North Carolina and Tennessee, 1858, assistant geologist and naturalist, Texas Geological Survey, 1860-1861, U.S. Sanitary Commission, 1862-1865, state geologist of Texas, 1866-1867, 1874-1877, Ph.D. Waco University, 1872. 
+**Abbreviated name**: *Buckley*
 
 #### Herbarium and types
 

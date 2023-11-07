@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103683#page/70/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stuntz, Stephen Conrad (1875-1918), American botanist and bibliographer; B.S. Wisconsin 1899; assistant to library and herbarium Univ. Wisconsin 1895-1902; cataloger Library of Congress 1902-1908; bibliographer Bureau of Soils, U.S.D.A. 1908-1910; botanist, Office of Foreign Seed and Plant Introduction ib. 1910-1918. (*Stuntz*).
+Stuntz, Stephen Conrad (1875-1918), American botanist and bibliographer; B.S. Wisconsin 1899; assistant to library and herbarium Univ. Wisconsin 1895-1902; cataloger Library of Congress 1902-1908; bibliographer Bureau of Soils, U.S.D.A. 1908-1910; botanist, Office of Foreign Seed and Plant Introduction ib. 1910-1918. 
+**Abbreviated name**: *Stuntz*
 
 #### Herbarium and types
 

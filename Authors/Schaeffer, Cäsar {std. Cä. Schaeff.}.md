@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/104077#page/118/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaeffer, Cäsar (1867-1944), German botanist and entomologist; Dr. phil. Freiburg i. Br. 1889; teacher's examination Göttingen 1890; teacher at various schools in Hamburg from 1890; ultimately at the grammar school "auf der Uhlenhorst"; scientific assistant (part time) at the Hamburg Natural History Museum 1891-1900. (*Cä. Schaeff.*).
+Schaeffer, Cäsar (1867-1944), German botanist and entomologist; Dr. phil. Freiburg i. Br. 1889; teacher's examination Göttingen 1890; teacher at various schools in Hamburg from 1890; ultimately at the grammar school "auf der Uhlenhorst"; scientific assistant (part time) at the Hamburg Natural History Museum 1891-1900. 
+**Abbreviated name**: *Cä. Schaeff.*
 
 #### Herbarium and types
 

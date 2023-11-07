@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103253#page/175/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Helmrich, Carl (1833-1868), German botanist from Silesia, practicing physician at Berlin. (*Helmr.*).
+Helmrich, Carl (1833-1868), German botanist from Silesia, practicing physician at Berlin. 
+**Abbreviated name**: *Helmr.*
 
 #### Herbarium and types
 

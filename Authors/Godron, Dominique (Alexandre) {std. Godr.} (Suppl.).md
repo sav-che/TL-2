@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103832#page/266/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33258732) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Godron, Dominique Alexandre {std. Godr.}|first entry]] for this author
 
 ### Author
 
-\* Godron, Dominique \[Alexandre\] (1807-1880), French botanist, naturalist and physician, born 25 Mar 1807 in Hayange nr. Thionville (Meurthe-et-Moselle), studied classics in Paris ca. 1819, removed to Strasbourg to work with C.G. Nestler 1827, Dr. en-médecine 1833, prof., natural history and materia medica, School of Medicine, Nancy 1835, adjunct prof. of botany, Jardin des plantes 1837, Dr. ès-sciences 1844 Strasbourg, briefly in Vesoul and Montpellier but returned to Nancy where he became prof. of natural history, Faculty of Science 1854 and Dir. of the botanical garden, retired in 1871, received many honors, incl. Légion d'honneur 1852, corr., Académie des Sciences 1877, died 16 Aug 1880 in Nancy. (*Godr.*).
+\* Godron, Dominique \[Alexandre\] (1807-1880), French botanist, naturalist and physician, born 25 Mar 1807 in Hayange nr. Thionville (Meurthe-et-Moselle), studied classics in Paris ca. 1819, removed to Strasbourg to work with C.G. Nestler 1827, Dr. en-médecine 1833, prof., natural history and materia medica, School of Medicine, Nancy 1835, adjunct prof. of botany, Jardin des plantes 1837, Dr. ès-sciences 1844 Strasbourg, briefly in Vesoul and Montpellier but returned to Nancy where he became prof. of natural history, Faculty of Science 1854 and Dir. of the botanical garden, retired in 1871, received many honors, incl. Légion d'honneur 1852, corr., Académie des Sciences 1877, died 16 Aug 1880 in Nancy. 
+**Abbreviated name**: *Godr.*
 
 #### Herbarium and types
 

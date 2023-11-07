@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/item/103414#page/785/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33120868) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichwald, Karl Edouard Ivanovich \[von\] (1794-1876), Russian biologist, geologist, and palaeobiologist at Leningrad. (*Eichw.*).
+Eichwald, Karl Edouard Ivanovich \[von\] (1794-1876), Russian biologist, geologist, and palaeobiologist at Leningrad. 
+**Abbreviated name**: *Eichw.*
 
 #### Collections
 

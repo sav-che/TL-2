@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103859#page/175/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265362) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Billing, Otto (1867-?), German (Sachsen – Weimar) pharmacist, educated at the Jena Gymnasium, training for pharmacist from 1886, first pharmaceutic examination in Metz, stages at pharmacies in Lunden, Lichtenfels and Kaltenkirchen, active military service 1889-1890, studied pharmacy in München 1893-1894 and Kiel 1894-1896, final state pharmaceutical examination 1895, working on a botanical thesis at Kiel 1895-1897, student with Johannes Reinke, Dr. phil. Kiel 1897. (*Billing*).
+Billing, Otto (1867-?), German (Sachsen – Weimar) pharmacist, educated at the Jena Gymnasium, training for pharmacist from 1886, first pharmaceutic examination in Metz, stages at pharmacies in Lunden, Lichtenfels and Kaltenkirchen, active military service 1889-1890, studied pharmacy in München 1893-1894 and Kiel 1894-1896, final state pharmaceutical examination 1895, working on a botanical thesis at Kiel 1895-1897, student with Johannes Reinke, Dr. phil. Kiel 1897. 
+**Abbreviated name**: *Billing*
 
 #### Herbarium and types
 

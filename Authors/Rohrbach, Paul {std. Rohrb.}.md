@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/item/103624#page/879/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33190336) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rohrbach, Paul (1847-1871), German (Prussian; Berlin) botanist; studied natural sciences in Göttingen with A. Grisebach, in Berlin with A. Braun; Dr. phil. Berlin 1868; curator of the Göttingen University Herbarium. (*Rohrb.*).
+Rohrbach, Paul (1847-1871), German (Prussian; Berlin) botanist; studied natural sciences in Göttingen with A. Grisebach, in Berlin with A. Braun; Dr. phil. Berlin 1868; curator of the Göttingen University Herbarium. 
+**Abbreviated name**: *Rohrb.*
 
 #### Herbarium and types
 

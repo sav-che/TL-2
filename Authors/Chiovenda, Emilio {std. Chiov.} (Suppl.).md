@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/103860#page/114/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265781) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chiovenda, Emilio {std. Chiov.}|first entry]] for this author
 
 ### Author
 
-\* Chiovenda, Emilio (1871-1941), Italian botanist, born in Rome 18 Mai 1871, studied with the Padres Rosminiani di Stresa e Domodossola, "laurea" natural science at R. Università Roma 1896, assistant curator at the Botanical Institute in Rome from 1897, Aiuto-Conservatore at the Museo Coloniale di Roma 1904, curator of the Rome herbarium and the beginning of the Italian colonial herbarium from 1905, docent at the University of Rome 1909, at the colonial herbarium at Firenze 1915, collected in Eritrea and Abyssinia (Ethiopia), professor of botany at the University of Catania 1916-1929, id. at Modena 1929-1935, ultimately at the University of Bologna 1935-1941, died 19 Feb 1941. (*Chiov.*).
+\* Chiovenda, Emilio (1871-1941), Italian botanist, born in Rome 18 Mai 1871, studied with the Padres Rosminiani di Stresa e Domodossola, "laurea" natural science at R. Università Roma 1896, assistant curator at the Botanical Institute in Rome from 1897, Aiuto-Conservatore at the Museo Coloniale di Roma 1904, curator of the Rome herbarium and the beginning of the Italian colonial herbarium from 1905, docent at the University of Rome 1909, at the colonial herbarium at Firenze 1915, collected in Eritrea and Abyssinia (Ethiopia), professor of botany at the University of Catania 1916-1929, id. at Modena 1929-1935, ultimately at the University of Bologna 1935-1941, died 19 Feb 1941. 
+**Abbreviated name**: *Chiov.*
 
 #### Herbarium and types
 

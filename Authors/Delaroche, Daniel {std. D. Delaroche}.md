@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/item/103414#page/661/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33120744) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delaroche, Daniel (1743-1812), Swiss botanist and physician. (*D. Delaroche*).
+Delaroche, Daniel (1743-1812), Swiss botanist and physician. 
+**Abbreviated name**: *D. Delaroche*
 
 #### Herbarium and types
 

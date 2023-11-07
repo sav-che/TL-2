@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103834#page/165/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33259647) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fergusson, John (1834-1907), Scottish clergyman who studied bryophytes, born in Kerrow, Glen Shee, Perthshire, student, Univ. of St. Andrews, minister at Glen Prosen, Forfarshire 1867-1868, at New Pitsligo, Aberdeenshire 1869 and at Fearn \[or Fern\], Forfarshire 1875, LL.D. 1896 Univ. of St. Andrews, died 6 Aug 1907 in Edinburgh. (*Fergusson*).
+Fergusson, John (1834-1907), Scottish clergyman who studied bryophytes, born in Kerrow, Glen Shee, Perthshire, student, Univ. of St. Andrews, minister at Glen Prosen, Forfarshire 1867-1868, at New Pitsligo, Aberdeenshire 1869 and at Fearn \[or Fern\], Forfarshire 1875, LL.D. 1896 Univ. of St. Andrews, died 6 Aug 1907 in Edinburgh. 
+**Abbreviated name**: *Fergusson*
 
 #### Herbarium and types
 

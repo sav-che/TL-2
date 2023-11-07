@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103833#page/172/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33259206) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Degener, Otto (1899-1988), American botanist, specialist of the flora of Hawaii, born at Orange, New Jersey 13 Mai 1899, at Massachusetts Agricultural College, laboratorium botanist 1919-1922, BS 1922, MS University of Hawaii 1923, graduate assistant 1923-1924, at Woods Hole 1924, botany instructor at the University of Hawaii 1925-1927, later naturalist at Hawaii, National Park, collaborator from 1935 of the New York Botanical Gardens, on the Archbold expedition to Melanesia 1940. (*O. Deg.*).
+Degener, Otto (1899-1988), American botanist, specialist of the flora of Hawaii, born at Orange, New Jersey 13 Mai 1899, at Massachusetts Agricultural College, laboratorium botanist 1919-1922, BS 1922, MS University of Hawaii 1923, graduate assistant 1923-1924, at Woods Hole 1924, botany instructor at the University of Hawaii 1925-1927, later naturalist at Hawaii, National Park, collaborator from 1935 of the New York Botanical Gardens, on the Archbold expedition to Melanesia 1940. 
+**Abbreviated name**: *O. Deg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/104137#page/137/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Little, Elbert Luther, Jr. (1907-x) American botanist; dendrologist at Washington, D. C. (*Little*).
+Little, Elbert Luther, Jr. (1907-x) American botanist; dendrologist at Washington, D. C. 
+**Abbreviated name**: *Little*
 
 #### Herbarium and types
 

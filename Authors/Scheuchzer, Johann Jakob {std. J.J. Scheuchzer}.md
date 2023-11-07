@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/104077#page/156/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33333281) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheuchzer, Johann Jakob (1672-1733), Swiss naturalist, physician and historian; studied at Altdorf 1692; Dr. med. Univ. Utrecht 1694; second town physician at Zürich 1704; professor of mathematics at the Zürich Carolinum 1710 (? 1716), first town physician 1733; explorer of the Alps and founder of palaeobotany and palaeontology. (*J.J. Scheuchzer*).
+Scheuchzer, Johann Jakob (1672-1733), Swiss naturalist, physician and historian; studied at Altdorf 1692; Dr. med. Univ. Utrecht 1694; second town physician at Zürich 1704; professor of mathematics at the Zürich Carolinum 1710 (? 1716), first town physician 1733; explorer of the Alps and founder of palaeobotany and palaeontology. 
+**Abbreviated name**: *J.J. Scheuchzer*
 
 #### Herbarium and types
 

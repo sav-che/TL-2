@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/103861#page/469/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33266766) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Castle, R. Lewis (1854-1922), English gardener and horticulturist, born at Chelsea (London), worked at Edgeware, later with his father at his nursery at Clapham, Kew gardener 1874-1877, idem sometime at the gardens at Holmbury (Surrey), accepted a position with the Journal of Horticulture for twelve years, later some time at gardens at Tunbridge Wells, from 1894 manager of the Experimental Fruit Farm at Woburn of the Duke of Bedford for some time. (*L. Castle*).
+Castle, R. Lewis (1854-1922), English gardener and horticulturist, born at Chelsea (London), worked at Edgeware, later with his father at his nursery at Clapham, Kew gardener 1874-1877, idem sometime at the gardens at Holmbury (Surrey), accepted a position with the Journal of Horticulture for twelve years, later some time at gardens at Tunbridge Wells, from 1894 manager of the Experimental Fruit Farm at Woburn of the Duke of Bedford for some time. 
+**Abbreviated name**: *L. Castle*
 
 #### Herbarium and types
 

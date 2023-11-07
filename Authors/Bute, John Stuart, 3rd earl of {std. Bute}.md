@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103414#page/469/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33120552) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bute, John Stuart, 3rd earl of (1713-1792), British statesman, patron of literature and amateur botanist. (*Bute*).
+Bute, John Stuart, 3rd earl of (1713-1792), British statesman, patron of literature and amateur botanist. 
+**Abbreviated name**: *Bute*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/item/103253#page/513/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33068729) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kalm, Pehr (1716-1779), Finnish-born botanist and traveller; pupil of Linnaeus; in North-America (1748-1751); from 1747 lecturer, later professor of economy and natural history at Abo (Turku). (*Kalm*).
+Kalm, Pehr (1716-1779), Finnish-born botanist and traveller; pupil of Linnaeus; in North-America (1748-1751); from 1747 lecturer, later professor of economy and natural history at Abo (Turku). 
+**Abbreviated name**: *Kalm*
 
 #### Herbarium and types
 

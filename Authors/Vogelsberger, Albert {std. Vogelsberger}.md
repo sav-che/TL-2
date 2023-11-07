@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/item/103683#page/779/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33212811) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogelsberger, Albert (*fl*. 1893), German (Nassau) pharmacist and botanist; Dr. phil. Erlangen 1893. (*Vogelsberger*).
+Vogelsberger, Albert (*fl*. 1893), German (Nassau) pharmacist and botanist; Dr. phil. Erlangen 1893. 
+**Abbreviated name**: *Vogelsberger*
 
 #### Herbarium and types
 

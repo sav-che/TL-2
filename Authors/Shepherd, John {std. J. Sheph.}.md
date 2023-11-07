@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/item/104077#page/572/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33333697) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shepherd, John (1764-1836), British botanist; first curator of the Liverpool Botanic Garden 1802-1836. (*J. Sheph.*).
+Shepherd, John (1764-1836), British botanist; first curator of the Liverpool Botanic Garden 1802-1836. 
+**Abbreviated name**: *J. Sheph.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/103253#page/745/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laestadius, Lars Levi (1800-1861), Swedish clergyman and botanist; born in Arjepluog (Lapland); clergyman at Karesuando (1825-1848) and Pajala (Norrbotten) (1848-1861); pupil of Wahlenberg. (*Laest.*).
+Laestadius, Lars Levi (1800-1861), Swedish clergyman and botanist; born in Arjepluog (Lapland); clergyman at Karesuando (1825-1848) and Pajala (Norrbotten) (1848-1861); pupil of Wahlenberg. 
+**Abbreviated name**: *Laest.*
 
 #### Herbarium and types
 

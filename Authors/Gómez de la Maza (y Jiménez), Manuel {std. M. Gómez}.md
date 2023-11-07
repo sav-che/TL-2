@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103832#page/303/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33258769) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gómez de la Maza \[y Jiménez\], Manuel (1867-1916), Cuban botanist and physician, born 10 Mai 1867 in Havana, Doctorate in Medicine and Natural Sciences 1887 Univ. of Havana, prof. of botany and phytogeography, Univ. of Havana, died 26 Jan 1916 in Havana, "... era un botánico de gabinete" who on his death left numerous unpublished mss. (*M. Gómez*).
+Gómez de la Maza \[y Jiménez\], Manuel (1867-1916), Cuban botanist and physician, born 10 Mai 1867 in Havana, Doctorate in Medicine and Natural Sciences 1887 Univ. of Havana, prof. of botany and phytogeography, Univ. of Havana, died 26 Jan 1916 in Havana, "... era un botánico de gabinete" who on his death left numerous unpublished mss. 
+**Abbreviated name**: *M. Gómez*
 
 #### Note
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/104137#page/336/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33355407) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martin, William (1886-1975), New Zealand botanist and high school teacher, B. Sc. Otago Univ. 1911. (*W. Martin*).
+Martin, William (1886-1975), New Zealand botanist and high school teacher, B. Sc. Otago Univ. 1911. 
+**Abbreviated name**: *W. Martin*
 
 #### Herbarium and types
 

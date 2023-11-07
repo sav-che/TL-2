@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/item/103624#page/1078/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/page/33190535) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saint-Hilaire, Auguste François César Prouvençal de (1779-1853), French explorer, botanist and entomologist; self-taught naturalist of independent means; in Hamburg during the revolution; in Orléans in the early years of the century; later at Paris associated with A.L. de Jussieu; in Brazil and Uruguay 1816-1822; back in France dedicating himself to the publication of the results of his Brazilian journeys; member of the Institut de France (Académie des Sciences from 1830). (*St. Hil.*).
+Saint-Hilaire, Auguste François César Prouvençal de (1779-1853), French explorer, botanist and entomologist; self-taught naturalist of independent means; in Hamburg during the revolution; in Orléans in the early years of the century; later at Paris associated with A.L. de Jussieu; in Brazil and Uruguay 1816-1822; back in France dedicating himself to the publication of the results of his Brazilian journeys; member of the Institut de France (Académie des Sciences from 1830). 
+**Abbreviated name**: *St. Hil.*
 
 #### Herbarium and types
 

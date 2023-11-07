@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103253#page/154/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33068370) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hegetschweiler-Bodmer, Johannes (1789-1839), Swiss botanist; Dr. med. Zürich 1813. (*Hegetschw.*).
+Hegetschweiler-Bodmer, Johannes (1789-1839), Swiss botanist; Dr. med. Zürich 1813. 
+**Abbreviated name**: *Hegetschw.*
 
 #### Herbarium and types
 

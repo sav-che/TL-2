@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103414#page/203/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beauverd, Gustave {std. Beauverd} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beauverd, Gustave (1867-1942), Swiss botanist, curator of the Boissier herbarium at Genève. (*Beauverd*).
+Beauverd, Gustave (1867-1942), Swiss botanist, curator of the Boissier herbarium at Genève. 
+**Abbreviated name**: *Beauverd*
 
 #### Herbarium and types
 

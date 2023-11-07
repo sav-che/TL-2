@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/item/103624#page/19/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33189510) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paget, Sir James (1814-1899), British surgeon and botanist, baronet 1871 LL.D. Cambridge 1874. (*Paget*).
+Paget, Sir James (1814-1899), British surgeon and botanist, baronet 1871 LL.D. Cambridge 1874. 
+**Abbreviated name**: *Paget*
 
 #### Herbarium and types
 

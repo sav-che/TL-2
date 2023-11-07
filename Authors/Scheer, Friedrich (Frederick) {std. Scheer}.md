@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/104077#page/136/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33333261) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheer, Friedrich (Frederick) (1792-1868), German (Swedish-Pommeranian born, from the island of Rügen) merchant and botanist; settled in England as city merchant in London, living for many years on Kew Green, ultimately at Northfleet, Kent; active supporter of the continuation of Kew Gardens in 1839/1840. (*Scheer*).
+Scheer, Friedrich (Frederick) (1792-1868), German (Swedish-Pommeranian born, from the island of Rügen) merchant and botanist; settled in England as city merchant in London, living for many years on Kew Green, ultimately at Northfleet, Kent; active supporter of the continuation of Kew Gardens in 1839/1840. 
+**Abbreviated name**: *Scheer*
 
 #### Herbarium and types
 

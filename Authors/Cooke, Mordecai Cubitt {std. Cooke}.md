@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/item/103414#page/584/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33120667) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cooke, Mordecai Cubitt {std. Cooke} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cooke, Mordecai Cubitt (1825-1914), British mycologist and algologist, at India Museum 1861-1880, at Kew 1880-1892. (*Cooke*).
+Cooke, Mordecai Cubitt (1825-1914), British mycologist and algologist, at India Museum 1861-1880, at Kew 1880-1892. 
+**Abbreviated name**: *Cooke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/item/103253#page/431/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33068647) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jacquin, Joseph Franz, \[after 1806\] Baron von (1766-1839), Austrian botanist, son of N. J. von Jacquin. (*J. Jacq.*).
+Jacquin, Joseph Franz, \[after 1806\] Baron von (1766-1839), Austrian botanist, son of N. J. von Jacquin. 
+**Abbreviated name**: *J. Jacq.*
 
 #### Herbarium and types
 

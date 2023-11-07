@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/item/103683#page/753/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33212785) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vilmorin, Jacques Levêque de (1882-1933), French botanist, geneticist and plant breeder; son of Maurice de Vilmorin; in charge of "Vilmorin-Andrieux et Cie" 1917-1933; Dr. ès Sci. Univ. Paris 1923. (*J. Vilm.*).
+Vilmorin, Jacques Levêque de (1882-1933), French botanist, geneticist and plant breeder; son of Maurice de Vilmorin; in charge of "Vilmorin-Andrieux et Cie" 1917-1933; Dr. ès Sci. Univ. Paris 1923. 
+**Abbreviated name**: *J. Vilm.*
 
 #### Herbarium and types
 

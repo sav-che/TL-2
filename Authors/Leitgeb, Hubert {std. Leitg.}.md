@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/item/103253#page/855/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33069071) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leitgeb, Hubert (1835-1888), Austrian hepaticologist; Dr. phil. Graz; high school teacher at Cilli (1855-1857), Görz (1857-1864), Linz (1865), Graz (1866); lecturer (1867) and professor of botany (1868-1888) at the University of Graz. (*Leitg.*).
+Leitgeb, Hubert (1835-1888), Austrian hepaticologist; Dr. phil. Graz; high school teacher at Cilli (1855-1857), Görz (1857-1864), Linz (1865), Graz (1866); lecturer (1867) and professor of botany (1868-1888) at the University of Graz. 
+**Abbreviated name**: *Leitg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/103253#page/496/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Junge, Paul (1881-1919), German botanist, at Hamburg. (*Junge*).
+Junge, Paul (1881-1919), German botanist, at Hamburg. 
+**Abbreviated name**: *Junge*
 
 #### Herbarium and types
 

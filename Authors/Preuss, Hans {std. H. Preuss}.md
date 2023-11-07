@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103624#page/411/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33189868) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Preuss, Hans (1879-1935), German (Prussian) botanist; high school teacher in Westpreussen and Danzig, later Senator and Stadtschulrat (municipal counsel for education) at Osnabrück. (*H. Preuss*).
+Preuss, Hans (1879-1935), German (Prussian) botanist; high school teacher in Westpreussen and Danzig, later Senator and Stadtschulrat (municipal counsel for education) at Osnabrück. 
+**Abbreviated name**: *H. Preuss*
 
 #### Herbarium and types
 

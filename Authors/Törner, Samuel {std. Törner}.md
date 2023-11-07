@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103683#page/394/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Törner, Samuel (1762-?), Swedish naturalist and librarian; studied in Uppsala with P. Thunberg; Dr. phil. ib., asst. to J. Dryander in Sir Joseph Banks's library 1792-1797. (*Törner*).
+Törner, Samuel (1762-?), Swedish naturalist and librarian; studied in Uppsala with P. Thunberg; Dr. phil. ib., asst. to J. Dryander in Sir Joseph Banks's library 1792-1797. 
+**Abbreviated name**: *Törner*
 
 #### Herbarium and types
 

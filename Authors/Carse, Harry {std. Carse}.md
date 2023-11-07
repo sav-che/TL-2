@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103861#page/440/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33266737) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carse, Harry (1857-1930), British teacher and amateur botanist, England born, moved to Auckland, N.Z., collected plants in Auckland, especially interested in Filices and Cyperaceae. (*Carse*).
+Carse, Harry (1857-1930), British teacher and amateur botanist, England born, moved to Auckland, N.Z., collected plants in Auckland, especially interested in Filices and Cyperaceae. 
+**Abbreviated name**: *Carse*
 
 #### Herbarium and types
 

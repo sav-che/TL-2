@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/item/103624#page/1037/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/page/33190494) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saccardo, Domenico (1872-1952), Italian botanist; lecturer (assistant) in botany at the University of Bologna 1899; assistant plant pathologist at the viticultural college Conegliano 1900; assistant at the phytopathological station of Roma 1902; free lecturer at the University of Roma; collected in Ethiopia between 1936 and 1939; son of P.A. Saccardo. (*D. Sacc*).
+Saccardo, Domenico (1872-1952), Italian botanist; lecturer (assistant) in botany at the University of Bologna 1899; assistant plant pathologist at the viticultural college Conegliano 1900; assistant at the phytopathological station of Roma 1902; free lecturer at the University of Roma; collected in Ethiopia between 1936 and 1939; son of P.A. Saccardo. 
+**Abbreviated name**: *D. Sacc*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/item/103624#page/796/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33190253) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ricker, Percy Leroy (1878-1973), American botanist; M.S. Univ. Maine 1901; assistant in biology University of Maine until 1901, from then on with USDA. (*Richer*).
+Ricker, Percy Leroy (1878-1973), American botanist; M.S. Univ. Maine 1901; assistant in biology University of Maine until 1901, from then on with USDA. 
+**Abbreviated name**: *Richer*
 
 #### Herbarium and types
 

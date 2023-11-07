@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103860#page/208/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33265875) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clavaud, Armand (1828-1890), French botanist at Bordeaux, born 10 Apr 1828 at Blanzac, active in the Société Linnéenne de Bordeaux, also active with Durieu de Maisonneuve, whom he succeeded as "Professeur de botanique municipal" from 1878, author of the "Flore de la Gironde", died 1 Dec 1890 at Bordeaux. (*Clavaud*).
+Clavaud, Armand (1828-1890), French botanist at Bordeaux, born 10 Apr 1828 at Blanzac, active in the Société Linnéenne de Bordeaux, also active with Durieu de Maisonneuve, whom he succeeded as "Professeur de botanique municipal" from 1878, author of the "Flore de la Gironde", died 1 Dec 1890 at Bordeaux. 
+**Abbreviated name**: *Clavaud*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 982](https://www.biodiversitylibrary.org/item/103414#page/1030/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 982](https://www.biodiversitylibrary.org/page/33121113) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Graves, George (1784-1839), British botanical artist. (*G. Graves*).
+Graves, George (1784-1839), British botanical artist. 
+**Abbreviated name**: *G. Graves*
 
 #### Herbarium and types
 

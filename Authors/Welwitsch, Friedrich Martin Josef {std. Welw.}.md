@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103250#page/234/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33066514) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Welwitsch, Friedrich Martin Josef (1806-1872), Austrian botanist; Dr. med. Wien 1836; commissioned by the Unio Itineraria (Württemb. bot. Reiseverein) to collect in Portugal 1839; demonstrator and curator at the Lisboa Polytechnic; sent out by the Portuguese Government to collect plants in Angola 1853-1861, collecting also in other parts of S.W. Africa; working on his collection in Portugal 1861-1863, from 1863-1872 in London. (*Welw.*).
+Welwitsch, Friedrich Martin Josef (1806-1872), Austrian botanist; Dr. med. Wien 1836; commissioned by the Unio Itineraria (Württemb. bot. Reiseverein) to collect in Portugal 1839; demonstrator and curator at the Lisboa Polytechnic; sent out by the Portuguese Government to collect plants in Angola 1853-1861, collecting also in other parts of S.W. Africa; working on his collection in Portugal 1861-1863, from 1863-1872 in London. 
+**Abbreviated name**: *Welw.*
 
 #### Herbarium and types
 

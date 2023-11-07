@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/103860#page/309/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265976) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Condit, Ira Judson (1883-?), American botanist, born at Jersey, Ohio, studied at Ohio State University, B.S. 1905, at University of California M.S. 1928, Ph.D. Stanford 1931, florist Ohio State 1905-1906, with U.S.D.A 1906-1909, id. Calif. Polytech. 1907-1912, California Citriculture 1913-1916, asst. professor 1916-1919, horticulturist and director Fresno 1919-1920, California Peach and Fig Growers 1920-1924, subtropical hortus Los Angeles 1925-1930, assoc. prof. 1931-1934, ultimately at Citrus Experiment Station, California from 1935. (*I.J. Condit*).
+Condit, Ira Judson (1883-?), American botanist, born at Jersey, Ohio, studied at Ohio State University, B.S. 1905, at University of California M.S. 1928, Ph.D. Stanford 1931, florist Ohio State 1905-1906, with U.S.D.A 1906-1909, id. Calif. Polytech. 1907-1912, California Citriculture 1913-1916, asst. professor 1916-1919, horticulturist and director Fresno 1919-1920, California Peach and Fig Growers 1920-1924, subtropical hortus Los Angeles 1925-1930, assoc. prof. 1931-1934, ultimately at Citrus Experiment Station, California from 1935. 
+**Abbreviated name**: *I.J. Condit*
 
 #### Herbarium and types
 

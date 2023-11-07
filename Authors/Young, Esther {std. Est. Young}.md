@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/item/103250#page/552/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33066832) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Young, Esther (1893-x), American mycologist; married Leighton J. True, Indianapolis Ind. (*Est. Young*).
+Young, Esther (1893-x), American mycologist; married Leighton J. True, Indianapolis Ind. 
+**Abbreviated name**: *Est. Young*
 
 #### Herbarium and types
 

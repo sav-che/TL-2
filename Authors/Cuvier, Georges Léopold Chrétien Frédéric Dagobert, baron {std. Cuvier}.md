@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/item/103414#page/633/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33120716) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cuvier, Georges Léopold Chrétien Frédéric Dagobert, baron (1769-1832) No description provided. (*Cuvier*).
+Cuvier, Georges Léopold Chrétien Frédéric Dagobert, baron (1769-1832) No description provided. 
+**Abbreviated name**: *Cuvier*
 
 #### Collections
 

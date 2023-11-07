@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103859#page/316/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265503) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonar, Lee (1891-1977), American mycologist, born in Belleville, West Virginia, teacher at a preparatory school at Marshall College, West Virginia ca. 1911-1914, at the University of Michigan 1916-1922 (on active duty 1918-1919), M.A. Michigan 1920, field assistant with U.S.D.A. 1920, Cole Fellow in botany at the University of Michigan 1920-1922, Ph.D. 1922, instructor at the University of California, Berkeley 1922, later professor of botany until 1958. (*Bonar*).
+Bonar, Lee (1891-1977), American mycologist, born in Belleville, West Virginia, teacher at a preparatory school at Marshall College, West Virginia ca. 1911-1914, at the University of Michigan 1916-1922 (on active duty 1918-1919), M.A. Michigan 1920, field assistant with U.S.D.A. 1920, Cole Fellow in botany at the University of Michigan 1920-1922, Ph.D. 1922, instructor at the University of California, Berkeley 1922, later professor of botany until 1958. 
+**Abbreviated name**: *Bonar*
 
 #### Herbarium and types
 

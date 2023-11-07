@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103859#page/18/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33265205) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beauvisage, Georges Eugène Charles (1852-1925), French medical botanist; employed with the "Caisses des Dépôts et Consignations" 1869-1875, Paris, Dr. med. Paris 1881, lecturer at the Medical and Pharmaceutical Faculty at Lyon 1883, teaching botany; set up a botanical garden 1887, professor h.c. at this faculty 1903; alderman at Lyon from 1895, member of the senate of the Dépt. du Rhône. (*Beauvis.*).
+Beauvisage, Georges Eugène Charles (1852-1925), French medical botanist; employed with the "Caisses des Dépôts et Consignations" 1869-1875, Paris, Dr. med. Paris 1881, lecturer at the Medical and Pharmaceutical Faculty at Lyon 1883, teaching botany; set up a botanical garden 1887, professor h.c. at this faculty 1903; alderman at Lyon from 1895, member of the senate of the Dépt. du Rhône. 
+**Abbreviated name**: *Beauvis.*
 
 #### Herbarium and types
 

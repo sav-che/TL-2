@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/item/104077#page/39/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33333126) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Samzelius, Abraham (1723-1773), Swedish clergyman and botanist; studied at Uppsala 1745; ordained 1752; stationed at Örebro and Bodarne, Närke. (*Samzelius*).
+Samzelius, Abraham (1723-1773), Swedish clergyman and botanist; studied at Uppsala 1745; ordained 1752; stationed at Örebro and Bodarne, Närke. 
+**Abbreviated name**: *Samzelius*
 
 #### Herbarium and types
 

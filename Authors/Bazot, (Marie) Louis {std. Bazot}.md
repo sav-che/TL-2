@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103858#page/410/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bazot, \[Marie\] Louis (1825-1910), French botanist at Dijon, professor at the University of Dijon, "officier de l'instruction publique". (*Bazot*).
+Bazot, \[Marie\] Louis (1825-1910), French botanist at Dijon, professor at the University of Dijon, "officier de l'instruction publique". 
+**Abbreviated name**: *Bazot*
 
 #### Herbarium and types
 

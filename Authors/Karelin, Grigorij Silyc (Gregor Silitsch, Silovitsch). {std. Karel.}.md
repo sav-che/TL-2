@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/item/103253#page/523/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33068739) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Karelin, Grigorij Silyc (Gregor Silitsch, Silovitsch). (1801-1872), Russian botanist, explorer of Siberia. (*Karel.*).
+Karelin, Grigorij Silyc (Gregor Silitsch, Silovitsch). (1801-1872), Russian botanist, explorer of Siberia. 
+**Abbreviated name**: *Karel.*
 
 #### Herbarium and types
 

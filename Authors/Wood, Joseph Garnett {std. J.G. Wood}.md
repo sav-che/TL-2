@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/item/103250#page/500/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33066780) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wood, Joseph Garnett (1900-1959), Australian botanist; studied at Adelaide and Cambridge (U.K.); Dr. phil. 1932; assistant (demonstrator) Univ. Adelaide 1922-1927, lecturer in botany, Adelaide Univ. 1927-1934, professor in botany ib. 1935-1959. (*J.G. Wood*).
+Wood, Joseph Garnett (1900-1959), Australian botanist; studied at Adelaide and Cambridge (U.K.); Dr. phil. 1932; assistant (demonstrator) Univ. Adelaide 1922-1927, lecturer in botany, Adelaide Univ. 1927-1934, professor in botany ib. 1935-1959. 
+**Abbreviated name**: *J.G. Wood*
 
 #### Herbarium and types
 

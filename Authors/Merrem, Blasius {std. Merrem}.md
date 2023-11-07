@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/104137#page/441/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Merrem, Blasius (1761-1824), German botanist, mathematician and physicist; lecturer at Göttingen 1781-1784; professor of physics and political economy at Duisburg 1784-1804; from 1804-1821, professor of political economy and botany at Marburg. (*Merrem*).
+Merrem, Blasius (1761-1824), German botanist, mathematician and physicist; lecturer at Göttingen 1781-1784; professor of physics and political economy at Duisburg 1784-1804; from 1804-1821, professor of political economy and botany at Marburg. 
+**Abbreviated name**: *Merrem*
 
 #### Herbarium and types
 

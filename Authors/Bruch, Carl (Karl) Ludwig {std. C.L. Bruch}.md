@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103861#page/158/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33266455) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruch, Carl \[Karl\] Ludwig (fl. 1758), German physician from Bergzabern, Pfalz, studied at the University of Strasbourg, Dr. med. ib. 22 Mai 1758. (*C.L. Bruch*).
+Bruch, Carl \[Karl\] Ludwig (fl. 1758), German physician from Bergzabern, Pfalz, studied at the University of Strasbourg, Dr. med. ib. 22 Mai 1758. 
+**Abbreviated name**: *C.L. Bruch*
 
 #### Herbarium and types
 

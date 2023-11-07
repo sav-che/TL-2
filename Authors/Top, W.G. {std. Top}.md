@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103683#page/403/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33212435) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Top, W.G. (1824-1896), Dutch botanist. (*Top*).
+Top, W.G. (1824-1896), Dutch botanist. 
+**Abbreviated name**: *Top*
 
 #### Herbarium and types
 

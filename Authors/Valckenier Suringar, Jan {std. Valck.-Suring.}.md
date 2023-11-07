@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/item/103683#page/653/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33212685) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Valckenier Suringar, Jan (1864-1932), Dutch botanist (plant systematist, dendrologist, nomenclaturist); son of W.F.R. Suringar; Dr. phil. Leiden 1898; unofficial caretaker-director of the Leiden Rijksherbarum 1896-1899; teacher at the State agricultural, horticultural and forestry school at Wageningen 1899; from 1900 also director of the Wageningen botanical garden; from 1918, with the foundation of the Agricultural University (Landbouwhogeschool) at Wageningen, professor of dendrology until 1924; in retirement still actively publishing on dendrology and botanical nomenclature. (*Valck.-Suring.*).
+Valckenier Suringar, Jan (1864-1932), Dutch botanist (plant systematist, dendrologist, nomenclaturist); son of W.F.R. Suringar; Dr. phil. Leiden 1898; unofficial caretaker-director of the Leiden Rijksherbarum 1896-1899; teacher at the State agricultural, horticultural and forestry school at Wageningen 1899; from 1900 also director of the Wageningen botanical garden; from 1918, with the foundation of the Agricultural University (Landbouwhogeschool) at Wageningen, professor of dendrology until 1924; in retirement still actively publishing on dendrology and botanical nomenclature. 
+**Abbreviated name**: *Valck.-Suring.*
 
 #### Herbarium and types
 

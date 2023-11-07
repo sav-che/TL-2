@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103860#page/293/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33265960) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Combs, Robert (1872-1899), American botanist, born 12 Feb 1872, Lyon County, Kansas, died 11 Apr 1899, Phoenix, Arizona, Ph.D. University Kansas 1892, collected in Cuba 1895-1896, assistant at the Iowa Agricultural Experiment Station and 1898 field agent of U.S. Div. Agrostology. (*Combs*).
+Combs, Robert (1872-1899), American botanist, born 12 Feb 1872, Lyon County, Kansas, died 11 Apr 1899, Phoenix, Arizona, Ph.D. University Kansas 1892, collected in Cuba 1895-1896, assistant at the Iowa Agricultural Experiment Station and 1898 field agent of U.S. Div. Agrostology. 
+**Abbreviated name**: *Combs*
 
 #### Herbarium and types
 

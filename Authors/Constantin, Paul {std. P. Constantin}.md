@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103860#page/318/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265985) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Constantin, Paul (fl. 1895-1901), French botanist and \[ancien\] "élève de l'école normale supérieure, agrégé des sciences naturelles, professeur au Lycée de Rennes... and Lycée Michelet, Paris Vauves id.". (*P. Constantin*).
+Constantin, Paul (fl. 1895-1901), French botanist and \[ancien\] "élève de l'école normale supérieure, agrégé des sciences naturelles, professeur au Lycée de Rennes... and Lycée Michelet, Paris Vauves id.". 
+**Abbreviated name**: *P. Constantin*
 
 #### Herbarium and types
 

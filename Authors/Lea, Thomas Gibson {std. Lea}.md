@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/item/103253#page/802/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33069018) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lea, Thomas Gibson (1785-1844), American botanist at Cincinnati, Ohio (*Lea*).
+Lea, Thomas Gibson (1785-1844), American botanist at Cincinnati, Ohio 
+**Abbreviated name**: *Lea*
 
 #### Herbarium and types
 

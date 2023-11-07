@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/item/103624#page/864/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33190321) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roeper, Johannes August Christian (1801-1885), German (Mecklenburg) botanist; studied at the University of Rostock 1817-1819, Berlin 1819-1822, and Göttingen 1822-1824; Dr. med. Göttingen 1823; travelled and studied in Paris 1824-1825 and Genève 1825-1826; extraord. prof. botany Basel 1826-1829; idem ord. prof. 1829-1836; ordinary prof. botany Rostock from 1836, from 1846 also University librarian; Dr. phil. h.c. Basel 1836; Dr. sci. nat. h.c. Tübingen 1873; first author to use flower diagrams. (*Roep.*).
+Roeper, Johannes August Christian (1801-1885), German (Mecklenburg) botanist; studied at the University of Rostock 1817-1819, Berlin 1819-1822, and Göttingen 1822-1824; Dr. med. Göttingen 1823; travelled and studied in Paris 1824-1825 and Genève 1825-1826; extraord. prof. botany Basel 1826-1829; idem ord. prof. 1829-1836; ordinary prof. botany Rostock from 1836, from 1846 also University librarian; Dr. phil. h.c. Basel 1836; Dr. sci. nat. h.c. Tübingen 1873; first author to use flower diagrams. 
+**Abbreviated name**: *Roep.*
 
 #### Herbarium and types
 

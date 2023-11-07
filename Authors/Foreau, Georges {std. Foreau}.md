@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/item/103414#page/902/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Foreau, Georges (S.J.) (b. Eugène Armand Foreau) {std. Foreau} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Foreau, Georges (1882-1967), French clergyman and plant collector. (*Foreau*).
+Foreau, Georges (1882-1967), French clergyman and plant collector. 
+**Abbreviated name**: *Foreau*
 
 #### Herbarium and types
 

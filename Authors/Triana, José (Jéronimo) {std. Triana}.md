@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/item/103683#page/496/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33212528) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Triana, José \[Jéronimo\] (1834-1890), Columbian botanist; after studying medicine and being active as a journalist connected as botanist, from 1850-1855, with the Colombian chorographic commission (Comisión Corográfica) exploring the region between Bogota and the Venezuelan border; working on a Flora colombiana, from 1857 in France, at first with J.E. Planchon in Montpellier, later in Paris. (*Triana*).
+Triana, José \[Jéronimo\] (1834-1890), Columbian botanist; after studying medicine and being active as a journalist connected as botanist, from 1850-1855, with the Colombian chorographic commission (Comisión Corográfica) exploring the region between Bogota and the Venezuelan border; working on a Flora colombiana, from 1857 in France, at first with J.E. Planchon in Montpellier, later in Paris. 
+**Abbreviated name**: *Triana*
 
 #### Herbarium and types
 

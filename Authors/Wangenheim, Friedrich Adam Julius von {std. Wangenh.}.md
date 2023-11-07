@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103250#page/116/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33066396) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wangenheim, Friedrich Adam Julius von (1749-1800), German (Sachsen-Gotha) soldier and forester; joined the army corps of the Duke of Hessen-Kassel in 1776; with this corps in the United States 1777-1783 as first lieutenant, from 1779 as staff captain; with the Hessian forest service 1784-1787; forester in Prussian Lithuania 1787, from 1788 as Prussian "Oberforstmeister" (forester-in-charge) of the Lithuanian directorate general at Gumbinnen of the Lithuanian "Kriegs-und Domänenkammer" (Prussian military territorial administration); also in charge of the re-afforestation of the Polish provinces of Bialystock and Plock 1799-1800. (*Wangenh.*).
+Wangenheim, Friedrich Adam Julius von (1749-1800), German (Sachsen-Gotha) soldier and forester; joined the army corps of the Duke of Hessen-Kassel in 1776; with this corps in the United States 1777-1783 as first lieutenant, from 1779 as staff captain; with the Hessian forest service 1784-1787; forester in Prussian Lithuania 1787, from 1788 as Prussian "Oberforstmeister" (forester-in-charge) of the Lithuanian directorate general at Gumbinnen of the Lithuanian "Kriegs-und Domänenkammer" (Prussian military territorial administration); also in charge of the re-afforestation of the Polish provinces of Bialystock and Plock 1799-1800. 
+**Abbreviated name**: *Wangenh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103860#page/64/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33265731) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Charguéraud, Charles Gilbert André (1860-x), French botanist at Paris, born 28 Apr 1860, later professor of arboriculture of the city of Paris, writer on ornamental trees. (*Charguéraud*).
+Charguéraud, Charles Gilbert André (1860-x), French botanist at Paris, born 28 Apr 1860, later professor of arboriculture of the city of Paris, writer on ornamental trees. 
+**Abbreviated name**: *Charguéraud*
 
 #### Herbarium and types
 

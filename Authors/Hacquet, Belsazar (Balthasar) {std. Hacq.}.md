@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103253#page/29/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33068245) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hacquet, Belsazar (Balthasar) (1739-1815), Bretagne (Brittany) born French-Austrian physician, botanist and geologist; born at Conquet (Bretagne); high school teacher at Laibach (Ljubljana); 1788 prof. natural history at Lemberg (Lwow); later mining counsel at Vienna; explorer of Croatia and the Carpathians. (*Hacq.*).
+Hacquet, Belsazar (Balthasar) (1739-1815), Bretagne (Brittany) born French-Austrian physician, botanist and geologist; born at Conquet (Bretagne); high school teacher at Laibach (Ljubljana); 1788 prof. natural history at Lemberg (Lwow); later mining counsel at Vienna; explorer of Croatia and the Carpathians. 
+**Abbreviated name**: *Hacq.*
 
 #### Herbarium and types
 

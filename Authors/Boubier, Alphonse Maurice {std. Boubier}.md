@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/item/103859#page/384/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33265571) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boubier, Alphonse Maurice (1874-?), Swiss (Genève) botanist associated with Robert Chodat, Dr. phil. Univ. de Genève 1816. (*Boubier*).
+Boubier, Alphonse Maurice (1874-?), Swiss (Genève) botanist associated with Robert Chodat, Dr. phil. Univ. de Genève 1816. 
+**Abbreviated name**: *Boubier*
 
 #### Herbarium and types
 

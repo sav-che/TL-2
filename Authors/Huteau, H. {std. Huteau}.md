@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103253#page/405/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33068621) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Huteau, H. (*fl*. 1894), French botanist, teacher at the teacher's college of Bourg. (*Huteau*).
+Huteau, H. (*fl*. 1894), French botanist, teacher at the teacher's college of Bourg. 
+**Abbreviated name**: *Huteau*
 
 #### Herbarium and types
 

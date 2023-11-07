@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103834#page/261/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259743) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flageolet, Joseph (Abbé) (fl. 1889-1919), French clergyman and mycologist, led field trips in 1889, member of the French Mycological Society from 1892, priest (Abbé) in Rigny-sur-Arroux (Saône-et-Loire). (*Flageolet*).
+Flageolet, Joseph (Abbé) (fl. 1889-1919), French clergyman and mycologist, led field trips in 1889, member of the French Mycological Society from 1892, priest (Abbé) in Rigny-sur-Arroux (Saône-et-Loire). 
+**Abbreviated name**: *Flageolet*
 
 #### Herbarium and types
 

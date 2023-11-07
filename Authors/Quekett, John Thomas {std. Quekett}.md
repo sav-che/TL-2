@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103624#page/466/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quekett, John Thomas (1815-1861), British surgeon, microscopist and histologist; assistant conservator Hunterian museum 1843, conservator 1852-1861; professor of histology, Royal College of Surgeons 1852; secretary of the Royal microscopical Society, London, 1841-1860. (*Quekett*).
+Quekett, John Thomas (1815-1861), British surgeon, microscopist and histologist; assistant conservator Hunterian museum 1843, conservator 1852-1861; professor of histology, Royal College of Surgeons 1852; secretary of the Royal microscopical Society, London, 1841-1860. 
+**Abbreviated name**: *Quekett*
 
 #### Herbarium and types
 

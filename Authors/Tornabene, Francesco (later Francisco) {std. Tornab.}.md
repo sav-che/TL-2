@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103683#page/407/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33212439) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tornabene, Francesco \[later: Francisco\] (1813-1897), Italian (Sicilian) Benedictine monk (from Montecassino) and botanist; founder and director of the Botanical Garden at Catania 1847 \[1858\]-1892; from 1850 also professor of botany at Catania University. (*Tornab.*).
+Tornabene, Francesco \[later: Francisco\] (1813-1897), Italian (Sicilian) Benedictine monk (from Montecassino) and botanist; founder and director of the Botanical Garden at Catania 1847 \[1858\]-1892; from 1850 also professor of botany at Catania University. 
+**Abbreviated name**: *Tornab.*
 
 #### Herbarium and types
 

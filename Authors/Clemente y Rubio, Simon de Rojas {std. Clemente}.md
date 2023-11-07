@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/item/103414#page/558/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33120641) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clemente y Rubio, Simón de Roxas {std. Clemente} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Clemente y Rubio, Simon de Rojas (1777-1827), Spanish botanist. (*Clemente*).
+Clemente y Rubio, Simon de Rojas (1777-1827), Spanish botanist. 
+**Abbreviated name**: *Clemente*
 
 #### Herbarium and types
 

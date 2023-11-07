@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/item/104137#page/795/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33355866) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Novák, František Antonín (1892-1964), Czechoslovak botanist at the Charles University of Praha, specialist on the phanerogamic flora of C. Europe and the Balkan Peninsula. (*Novák*).
+Novák, František Antonín (1892-1964), Czechoslovak botanist at the Charles University of Praha, specialist on the phanerogamic flora of C. Europe and the Balkan Peninsula. 
+**Abbreviated name**: *Novák*
 
 #### Herbarium and types
 

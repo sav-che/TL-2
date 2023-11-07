@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103832#page/166/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33258632) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gave, Pierre (Abbé) (1846-1916), French Redemptorist priest and botanist, born 6 Dec 1846 in Saint-André-sur-Boëge (Haute Savoie), Kingdom of Sardinia, entered novitiate in Saint-Nicolas-de-Port (now Dépt. Meurthe-et-Moselle) 1862, took his vows 1863, instructor of natural sciences at various secondary schools 1873-1884, later chaplain ("aumônier") for various convents, died 15 Mar 1916 in Uvrier nr. Sion (Valais), France. (*Gave*).
+Gave, Pierre (Abbé) (1846-1916), French Redemptorist priest and botanist, born 6 Dec 1846 in Saint-André-sur-Boëge (Haute Savoie), Kingdom of Sardinia, entered novitiate in Saint-Nicolas-de-Port (now Dépt. Meurthe-et-Moselle) 1862, took his vows 1863, instructor of natural sciences at various secondary schools 1873-1884, later chaplain ("aumônier") for various convents, died 15 Mar 1916 in Uvrier nr. Sion (Valais), France. 
+**Abbreviated name**: *Gave*
 
 #### Herbarium and types
 

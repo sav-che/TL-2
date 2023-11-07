@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/item/103253#page/674/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33068890) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koorders-Schumacher, Anna (1870-1934), German-born Dutch botanist; married to S. H. Koorders. (*Koord.-Schum.*).
+Koorders-Schumacher, Anna (1870-1934), German-born Dutch botanist; married to S. H. Koorders. 
+**Abbreviated name**: *Koord.-Schum.*
 
 #### Types
 

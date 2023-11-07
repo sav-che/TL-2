@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103833#page/44/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33259078) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalmer, Moritz (fl. 1880-1897), German botanist at Jena. (*Dalmer*).
+Dalmer, Moritz (fl. 1880-1897), German botanist at Jena. 
+**Abbreviated name**: *Dalmer*
 
 #### Herbarium and types
 

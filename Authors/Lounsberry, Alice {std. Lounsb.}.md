@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/104137#page/189/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lounsberry, Alice (1872-1949), American dendrologist at New York. (*Lounsb.*).
+Lounsberry, Alice (1872-1949), American dendrologist at New York. 
+**Abbreviated name**: *Lounsb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/item/104077#page/913/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33334038) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sternberg, Kaspar \[Caspar\] Maria (Graf) von (1761-1838), Bohemian botanist; studied theology privately and in Rome; Theologus absolutus 1782; prebendary, from 1788 canon at the court of the prince-bishop of Regensburg and, from 1791, also canon at the court at Freising 1791-1810; from 1810 head of the family estate at Radnice devoting himself to management, botany and to the promotion of the natural sciences in Bohemia; co-founder of the Bohemian Natural Museum, president of the museum 1822-1838; outstanding palaeobotanist. (*Sternb.*).
+Sternberg, Kaspar \[Caspar\] Maria (Graf) von (1761-1838), Bohemian botanist; studied theology privately and in Rome; Theologus absolutus 1782; prebendary, from 1788 canon at the court of the prince-bishop of Regensburg and, from 1791, also canon at the court at Freising 1791-1810; from 1810 head of the family estate at Radnice devoting himself to management, botany and to the promotion of the natural sciences in Bohemia; co-founder of the Bohemian Natural Museum, president of the museum 1822-1838; outstanding palaeobotanist. 
+**Abbreviated name**: *Sternb.*
 
 #### Herbarium and types
 

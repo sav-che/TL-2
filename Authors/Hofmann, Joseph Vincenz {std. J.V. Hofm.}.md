@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103253#page/275/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33068491) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hofmann, Joseph Vincenz (1800-1863), Austrian clergyman ("Consistorialrath") and botanist at Brixen. (*J. V. Hofm.*).
+Hofmann, Joseph Vincenz (1800-1863), Austrian clergyman ("Consistorialrath") and botanist at Brixen. 
+**Abbreviated name**: *J. V. Hofm.*
 
 #### Herbarium and types
 

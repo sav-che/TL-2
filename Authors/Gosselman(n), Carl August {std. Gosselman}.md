@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/103832#page/323/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33258789) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gosselman(n), Carl August (1831-1893), Swedish botanist, born 18 Aug 1831 in Karlskrona, student in Lund 1849, Ph.D. 1853 Lund, teacher in Karlskrona from 1865, died 15 Apr 1893 in Elestrop (Skåne). (*Gosselman*).
+Gosselman(n), Carl August (1831-1893), Swedish botanist, born 18 Aug 1831 in Karlskrona, student in Lund 1849, Ph.D. 1853 Lund, teacher in Karlskrona from 1865, died 15 Apr 1893 in Elestrop (Skåne). 
+**Abbreviated name**: *Gosselman*
 
 #### Note
 

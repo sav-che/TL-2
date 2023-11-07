@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103861#page/424/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33266721) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cariot, Antoine, Abbé {std. Cariot}|first entry]] for this author
 
 ### Author
 
-\* Cariot, Antoine (1820-1883), French clergyman and botanist, born at Écully nr. Lyon, son of a gardener, educated at the "petit séminaire de sainte-Foy-l'Argentière" (with abbé and botanist Ludovic Chirat), with the Congrégation des missionaires diocésains at Chartreux studying theology, teacher at Saint-Alban, vicar at Croix Rousse, botanical trip to Corsica 1849, vicar at Sainte-Foy-lès-Lyon 1850, rector at Tassin 1862-1872, in charge of Sainte-Foy 1872. (*Cariot*).
+\* Cariot, Antoine (1820-1883), French clergyman and botanist, born at Écully nr. Lyon, son of a gardener, educated at the "petit séminaire de sainte-Foy-l'Argentière" (with abbé and botanist Ludovic Chirat), with the Congrégation des missionaires diocésains at Chartreux studying theology, teacher at Saint-Alban, vicar at Croix Rousse, botanical trip to Corsica 1849, vicar at Sainte-Foy-lès-Lyon 1850, rector at Tassin 1862-1872, in charge of Sainte-Foy 1872. 
+**Abbreviated name**: *Cariot*
 
 #### Herbarium and types
 

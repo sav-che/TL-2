@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/item/103253#page/707/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kruse, Friedrich (x-1890), German botanist; professor at the K. Wilhelms-Gymnasium in Berlin. (*Kruse*).
+Kruse, Friedrich (x-1890), German botanist; professor at the K. Wilhelms-Gymnasium in Berlin. 
+**Abbreviated name**: *Kruse*
 
 #### Herbarium and types
 

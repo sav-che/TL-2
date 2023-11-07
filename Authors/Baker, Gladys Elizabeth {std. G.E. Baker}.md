@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103858#page/289/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baker, Gladys Elizabeth (1908-x), American (Iowa-born) botanist, studied at the University of Iowa, B.A. 1930, M.S. 1923, at Washington, St. Louis, scholar in botany 1930-1931, staff artist 1932-1933, fellow in botany 1933-1935, research assistant in botany 1935-1936, instructor in biology from 1936. Dr. phil. Washington University, Jun 1935 (*G.E. Baker*).
+Baker, Gladys Elizabeth (1908-x), American (Iowa-born) botanist, studied at the University of Iowa, B.A. 1930, M.S. 1923, at Washington, St. Louis, scholar in botany 1930-1931, staff artist 1932-1933, fellow in botany 1933-1935, research assistant in botany 1935-1936, instructor in biology from 1936. Dr. phil. Washington University, Jun 1935 
+**Abbreviated name**: *G.E. Baker*
 
 #### Herbarium and types
 

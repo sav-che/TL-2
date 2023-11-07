@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103414#page/109/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33120192) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Areschoug, Fredric Wilhelm Christian {std. F. Areschoug} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Areschoug, Fredric Wilhelm Christian (1830-1908), Swedish botanist at Lund. (*F. Areschoug*).
+Areschoug, Fredric Wilhelm Christian (1830-1908), Swedish botanist at Lund. 
+**Abbreviated name**: *F. Areschoug*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/item/103624#page/1038/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33190495) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saccardo, Pier Andrea (1845-1920), Italian botanist (mycologist); Dr. phil. Padua 1867; assistant to R. de Visiani at Padua University 1866-1872; professor of natural sciences at the Padua Technical Institute 1869-1879; professor of botany and director of the botanical garden of the University of Padua 1879-1915. (*Sacc.*).
+Saccardo, Pier Andrea (1845-1920), Italian botanist (mycologist); Dr. phil. Padua 1867; assistant to R. de Visiani at Padua University 1866-1872; professor of natural sciences at the Padua Technical Institute 1869-1879; professor of botany and director of the botanical garden of the University of Padua 1879-1915. 
+**Abbreviated name**: *Sacc.*
 
 #### Herbarium and types
 

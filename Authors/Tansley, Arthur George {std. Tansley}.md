@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103683#page/173/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33212205) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tansley, Arthur George (1871-1955), British botanist and ecologist; studied at Cambridge; lecturer University College, London 1893-1906; lecturer in botany, Cambridge 1906-1923; Sherardian professor of botany, Oxford 1927-1937; founder of the British Ecological Society; knighted 1950. (*Tansley*).
+Tansley, Arthur George (1871-1955), British botanist and ecologist; studied at Cambridge; lecturer University College, London 1893-1906; lecturer in botany, Cambridge 1906-1923; Sherardian professor of botany, Oxford 1927-1937; founder of the British Ecological Society; knighted 1950. 
+**Abbreviated name**: *Tansley*
 
 #### Herbarium and types
 

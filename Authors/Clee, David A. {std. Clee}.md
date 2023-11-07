@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103860#page/209/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33265876) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clee, David A. (fl. 1936-1943), British botanist and ecologist on Bryophyta, B.Sc. at the Department of Biology, University College of Swansea ca. 1937, lecturer in biology at the Medway Technical College, Rochester, Kent. (*Clee*).
+Clee, David A. (fl. 1936-1943), British botanist and ecologist on Bryophyta, B.Sc. at the Department of Biology, University College of Swansea ca. 1937, lecturer in biology at the Medway Technical College, Rochester, Kent. 
+**Abbreviated name**: *Clee*
 
 #### Herbarium and types
 

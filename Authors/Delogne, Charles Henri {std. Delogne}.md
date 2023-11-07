@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/item/103414#page/666/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33120749) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delogne, Charles-Henri {std. Delogne} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Delogne, Charles Henri (1834-1901), Belgian algologist. (*Delogne*).
+Delogne, Charles Henri (1834-1901), Belgian algologist. 
+**Abbreviated name**: *Delogne*
 
 #### Herbarium and types
 

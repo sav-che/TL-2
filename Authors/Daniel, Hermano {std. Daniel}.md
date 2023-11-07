@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103833#page/64/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259098) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daniel, Hermano (fl. 1933-1949), Colombian priest, director of the herbario del Colegio de San José at Medellin. (*Daniel*).
+Daniel, Hermano (fl. 1933-1949), Colombian priest, director of the herbario del Colegio de San José at Medellin. 
+**Abbreviated name**: *Daniel*
 
 #### Herbarium and types
 

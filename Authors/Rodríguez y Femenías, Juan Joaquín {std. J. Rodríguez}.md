@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/item/103624#page/846/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33190303) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rodríguez y Femenías, Juan Joaquín (1839-1905), Spanish (Menorca) botanist, banker and politician and newspaper owner at Mago (Mahon), Menorca. (*J. Rodríguez*).
+Rodríguez y Femenías, Juan Joaquín (1839-1905), Spanish (Menorca) botanist, banker and politician and newspaper owner at Mago (Mahon), Menorca. 
+**Abbreviated name**: *J. Rodríguez*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103835#page/168/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dumas, Isidore (fl. 1844), French botanist studying at Montpellier with Dunal. (*Dumas*).
+Dumas, Isidore (fl. 1844), French botanist studying at Montpellier with Dunal. 
+**Abbreviated name**: *Dumas*
 
 #### Herbarium and types
 

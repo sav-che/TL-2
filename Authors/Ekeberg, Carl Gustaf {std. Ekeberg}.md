@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103835#page/300/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33260278) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ekeberg, Carl Gustaf (1716-1784), Swedish physician, pharmacist, botanist, traveller, and ship's captain, born 10 Jun 1716 at Djursholm, studied natural history at Åbo from 1736 while employed as a chemist's assistant, learned navigation as a ship's doctor on two journeys to the Mediterranean, made 10 journeys to India and China from 1742 to 1778, died 4 Apr 1784 at Altontagard (Uppland). (*Ekeberg*).
+Ekeberg, Carl Gustaf (1716-1784), Swedish physician, pharmacist, botanist, traveller, and ship's captain, born 10 Jun 1716 at Djursholm, studied natural history at Åbo from 1736 while employed as a chemist's assistant, learned navigation as a ship's doctor on two journeys to the Mediterranean, made 10 journeys to India and China from 1742 to 1778, died 4 Apr 1784 at Altontagard (Uppland). 
+**Abbreviated name**: *Ekeberg*
 
 #### Herbarium and types
 

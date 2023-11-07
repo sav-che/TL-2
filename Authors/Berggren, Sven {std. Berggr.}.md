@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103414#page/238/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33120321) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berggren, Sven {std. Berggr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Berggren, Sven (1837-1917), Swedish botanist at Lund, travelled to and collected in Spitsbergen (1868), Greenland (1870), N. Zealand, California 1874-1875. (*Berggr.*).
+Berggren, Sven (1837-1917), Swedish botanist at Lund, travelled to and collected in Spitsbergen (1868), Greenland (1870), N. Zealand, California 1874-1875. 
+**Abbreviated name**: *Berggr.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103859#page/343/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33265530) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boreau, Alexandre {std. Boreau}|first entry]] for this author
 
 ### Author
 
-\* Boreau, Alexandre (1803-1875), French botanist and pharmacist, studied pharmacy at Angers 1823-1824, collected plants with Desvaux, in Paris 1825-1827, following the courses of Adrien de Jussieu and Jacques Clarion, pharmacien at Névers 1828-1838, director of the Jardin botanique d'Angers from 1838, subsequently also professor at the École supérieure. (*Boreau*).
+\* Boreau, Alexandre (1803-1875), French botanist and pharmacist, studied pharmacy at Angers 1823-1824, collected plants with Desvaux, in Paris 1825-1827, following the courses of Adrien de Jussieu and Jacques Clarion, pharmacien at Névers 1828-1838, director of the Jardin botanique d'Angers from 1838, subsequently also professor at the École supérieure. 
+**Abbreviated name**: *Boreau*
 
 #### Herbarium and types
 

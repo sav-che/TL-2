@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103859#page/118/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33265305) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bernátzsky, Jenö Emlékezette (1873-1945), Hungarian botanist, Dr. phil. 1899, at the Botanical Department of the Hungarian national Museum 1896, at the Hungarian vine experiment station from 1910. (*Bernátzky*).
+Bernátzsky, Jenö Emlékezette (1873-1945), Hungarian botanist, Dr. phil. 1899, at the Botanical Department of the Hungarian national Museum 1896, at the Hungarian vine experiment station from 1910. 
+**Abbreviated name**: *Bernátzky*
 
 #### Herbarium and types
 

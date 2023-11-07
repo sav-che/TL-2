@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/item/104077#page/382/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33333507) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultes, Julius Hermann (1820-1887), German (Bavarian) botanist; son of J.A. Schultes (the second named Julius Hermann sic); Dr. med. Landshut 1843; assistant at the Rijksherbarium Leiden with Blume 1843-1852; assistant with C.F.P. von Martius 1852, active as assistant physician in München 1854; assistant at the Royal Herbarium München 1854-1887. (*J.H. Schult. II*).
+Schultes, Julius Hermann (1820-1887), German (Bavarian) botanist; son of J.A. Schultes (the second named Julius Hermann sic); Dr. med. Landshut 1843; assistant at the Rijksherbarium Leiden with Blume 1843-1852; assistant with C.F.P. von Martius 1852, active as assistant physician in München 1854; assistant at the Royal Herbarium München 1854-1887. 
+**Abbreviated name**: *J.H. Schult. II*
 
 #### Note
 

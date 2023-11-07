@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103835#page/299/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33260277) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eisenach, Paul Heinrich Otto {std. Eisenach}|first entry]] for this author
 
 ### Author
 
-\* Eisenach, Paul Heinrich Otto (1847-1917), German physician and botanist, born 27 Jun 1847 at Rotenburg a. d. Fulda, magistrate in that town, died 14 Jan 1917 at Hanau. (*Eisenach*).
+\* Eisenach, Paul Heinrich Otto (1847-1917), German physician and botanist, born 27 Jun 1847 at Rotenburg a. d. Fulda, magistrate in that town, died 14 Jan 1917 at Hanau. 
+**Abbreviated name**: *Eisenach*
 
 #### Herbarium and types
 

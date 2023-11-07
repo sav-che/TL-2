@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/item/103624#page/763/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33190220) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reyger, Gottfried (1704-1788), German (Danzig) naturalist. (*Reyger*).
+Reyger, Gottfried (1704-1788), German (Danzig) naturalist. 
+**Abbreviated name**: *Reyger*
 
 #### Herbarium and types
 

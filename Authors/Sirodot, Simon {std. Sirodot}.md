@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/item/104077#page/636/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33333761) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sirodot, Simon (1825-1903), French botanist; studied at Dijon and Paris; École normale supérieure 1852; high school teacher at Toulouse, Strasbourg, Le Mans, Cahors, Limoges; professor of botany and zoology at the Faculty of Sciences, Rennes 1860 (regular: 1867)-1895. (*Sirodot*).
+Sirodot, Simon (1825-1903), French botanist; studied at Dijon and Paris; École normale supérieure 1852; high school teacher at Toulouse, Strasbourg, Le Mans, Cahors, Limoges; professor of botany and zoology at the Faculty of Sciences, Rennes 1860 (regular: 1867)-1895. 
+**Abbreviated name**: *Sirodot*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103834#page/246/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33259728) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fisher, Henry Smith (1831-1881), British botanist, active member and one of founders of the Liverpool Naturalists' Field Club, died 18 Mar 1881 in Liverpool. (*H.S. Fisher*).
+Fisher, Henry Smith (1831-1881), British botanist, active member and one of founders of the Liverpool Naturalists' Field Club, died 18 Mar 1881 in Liverpool. 
+**Abbreviated name**: *H.S. Fisher*
 
 #### Herbarium and types
 

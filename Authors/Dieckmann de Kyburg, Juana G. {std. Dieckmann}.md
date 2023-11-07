@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/103833#page/306/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33259340) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dieckmann de Kyburg, Juana G. (fl. 1916), Argentine botanist. (*Dieckmann*).
+Dieckmann de Kyburg, Juana G. (fl. 1916), Argentine botanist. 
+**Abbreviated name**: *Dieckmann*
 
 #### Herbarium and types
 

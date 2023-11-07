@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103858#page/252/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33264967) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Backer, Gerard (fl. 1829), Dutch physician, Dr. med. Groningen 1829. (*G. Backer*).
+Backer, Gerard (fl. 1829), Dutch physician, Dr. med. Groningen 1829. 
+**Abbreviated name**: *G. Backer*
 
 #### Herbarium and types
 

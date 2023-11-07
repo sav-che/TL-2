@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/104137#page/627/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33355698) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moyen, J. (*fl*. 1889), French clergyman and botanist; spent some time in Canada; later "Prêtre de Saint-Sulpice, Professeur d'Histoire naturelle à la Maison d'Alix" (Lyon). (*Moyen*).
+Moyen, J. (*fl*. 1889), French clergyman and botanist; spent some time in Canada; later "Prêtre de Saint-Sulpice, Professeur d'Histoire naturelle à la Maison d'Alix" (Lyon). 
+**Abbreviated name**: *Moyen*
 
 #### Herbarium and types
 

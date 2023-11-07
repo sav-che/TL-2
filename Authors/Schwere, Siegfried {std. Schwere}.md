@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/item/104077#page/462/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33333587) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwere, Siegfried (*fl*. 1896), Swiss botanist; Dr. phil. Zürich 1896. (*Schwere*).
+Schwere, Siegfried (*fl*. 1896), Swiss botanist; Dr. phil. Zürich 1896. 
+**Abbreviated name**: *Schwere*
 
 #### Herbarium and types
 

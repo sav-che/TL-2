@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103859#page/285/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265472) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bohnstedt, Alexander Reinhold {std. Bohnst.}|first entry]] for this author
 
 ### Author
 
-\* Bohnstedt, Alexander Reinhold (1839-1903), German (Bitterfeld, Saxony-Anhalt born) botanist and highschool teacher, studied mathematics and natural sciences at the University of Halle, private teacher, assistant teacher at Landsberg-Warthe 1864-1871, on active service 1870-1871, teacher at the gymnasium of Luckau, Brandenburg 1871-1903, associate of Paul Ascherson in botanizing in Brandenburg, 1889 senior teacher ("Oberlehrer") with the title of professor. (*Bohnst.*).
+\* Bohnstedt, Alexander Reinhold (1839-1903), German (Bitterfeld, Saxony-Anhalt born) botanist and highschool teacher, studied mathematics and natural sciences at the University of Halle, private teacher, assistant teacher at Landsberg-Warthe 1864-1871, on active service 1870-1871, teacher at the gymnasium of Luckau, Brandenburg 1871-1903, associate of Paul Ascherson in botanizing in Brandenburg, 1889 senior teacher ("Oberlehrer") with the title of professor. 
+**Abbreviated name**: *Bohnst.*
 
 #### Herbarium and types
 

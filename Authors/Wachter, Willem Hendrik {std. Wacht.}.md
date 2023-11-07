@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103250#page/61/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wachter, Willem Hendrik (1882-1946), Dutch botanist and high school teacher; studied at the teacher's college of Rotterdam (teacher's exam. 1901); teacher at various schools in Rotterdam 1901-1936; active floristic botanist and bryologist; Dr. h.c. Utrecht 1946. (*Wacht.*).
+Wachter, Willem Hendrik (1882-1946), Dutch botanist and high school teacher; studied at the teacher's college of Rotterdam (teacher's exam. 1901); teacher at various schools in Rotterdam 1901-1936; active floristic botanist and bryologist; Dr. h.c. Utrecht 1946. 
+**Abbreviated name**: *Wacht.*
 
 #### Herbarium and types
 

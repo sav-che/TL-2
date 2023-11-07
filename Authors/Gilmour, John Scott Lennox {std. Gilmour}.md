@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103832#page/238/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33258704) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gilmour, John Scott Lennox (1906-1986), English plant taxonomist and horticulturist, born 28 Sep 1906 in London, educated at Downs School nr. Uppingham, Uppingham School and Clare College, Cambridge, curator of the Cambridge herb. and the Botanical Museum 1930-1931, asst. dir., Kew 1931-1946 (except during W.W.-II when he served with Ministry of Fuel and Power 1940-1944), dir., R.H.S. Garden, Wisley 1946-1951, dir., Botanical Gardens, Cambridge 1951-1973 (retirement), chairman, Intl. Commission on Horticultural Taxonomy 1952-1966, secretary (later chair), Intl. Commission on the Nomencl. of Cult. Plants 1956-1965, R.H.S. Victoria Medal of Honour 1957, died 3 Jun 1986 in Cambridge. (*Gilmour*).
+Gilmour, John Scott Lennox (1906-1986), English plant taxonomist and horticulturist, born 28 Sep 1906 in London, educated at Downs School nr. Uppingham, Uppingham School and Clare College, Cambridge, curator of the Cambridge herb. and the Botanical Museum 1930-1931, asst. dir., Kew 1931-1946 (except during W.W.-II when he served with Ministry of Fuel and Power 1940-1944), dir., R.H.S. Garden, Wisley 1946-1951, dir., Botanical Gardens, Cambridge 1951-1973 (retirement), chairman, Intl. Commission on Horticultural Taxonomy 1952-1966, secretary (later chair), Intl. Commission on the Nomencl. of Cult. Plants 1956-1965, R.H.S. Victoria Medal of Honour 1957, died 3 Jun 1986 in Cambridge. 
+**Abbreviated name**: *Gilmour*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/104137#page/317/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33355388) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maron, Charles (1851 -1926), French horticulturist; from ± 1900 conducting a nursery at Brunoy, Seine-et-Oise. (*Maron*).
+Maron, Charles (1851 -1926), French horticulturist; from ± 1900 conducting a nursery at Brunoy, Seine-et-Oise. 
+**Abbreviated name**: *Maron*
 
 #### Herbarium and types
 

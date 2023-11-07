@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103861#page/206/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33266503) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bucholtz \[Buchholz\], Fedor \[Vladimirovič\] (1872-1924), Polish born botanist and zoologist, from 1876 in Riga, educated at the Riga Gymnasium 1883-1891, studied botany in Moscow 1891-1895, stages at the University of Moscow 1895-1897, studied in Bern with Ed. Fischer 1896-1897, id. in München with Hartig and Tubeuf 1897, lecturer in botany and zoology at the Polytechnicum in Riga 1897-1903, Mag. bot. Moscow 1903, adjunct professor in Riga 1903-1907, professor of botany ib. (deputy) 1907-1912, full professor ib. 1912-1919, professor of botany and director of the botanical gardens in Dorpat \[Tartu\], Estonia, 1919-1924. (*Buchholz*). (sic).
+Bucholtz \[Buchholz\], Fedor \[Vladimirovič\] (1872-1924), Polish born botanist and zoologist, from 1876 in Riga, educated at the Riga Gymnasium 1883-1891, studied botany in Moscow 1891-1895, stages at the University of Moscow 1895-1897, studied in Bern with Ed. Fischer 1896-1897, id. in München with Hartig and Tubeuf 1897, lecturer in botany and zoology at the Polytechnicum in Riga 1897-1903, Mag. bot. Moscow 1903, adjunct professor in Riga 1903-1907, professor of botany ib. (deputy) 1907-1912, full professor ib. 1912-1919, professor of botany and director of the botanical gardens in Dorpat \[Tartu\], Estonia, 1919-1924. 
+**Abbreviated name**: *Buchholz*
 
 #### Herbarium and types
 

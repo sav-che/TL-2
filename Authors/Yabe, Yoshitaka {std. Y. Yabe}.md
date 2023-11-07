@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/item/103250#page/545/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33066825) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Yabe, Yoshitaka (1876-1931), Japanese botanist; professor of botany at the Tokyo College of Arts and Sciences. (*Y. Yabe*).
+Yabe, Yoshitaka (1876-1931), Japanese botanist; professor of botany at the Tokyo College of Arts and Sciences. 
+**Abbreviated name**: *Y. Yabe*
 
 #### Herbarium and types
 

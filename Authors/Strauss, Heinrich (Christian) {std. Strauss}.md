@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103683#page/53/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33212047) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strauss, Heinrich \[Christian\] (1850-1922), German (Hannoverian) gardener and bibliographer; worked in nurseries in Hamburg and Berlin 1865-1873; gardener at the Berlin Botanical Garden 1873-1921, ultimately as "Obergartenmeister". (*Strauss*).
+Strauss, Heinrich \[Christian\] (1850-1922), German (Hannoverian) gardener and bibliographer; worked in nurseries in Hamburg and Berlin 1865-1873; gardener at the Berlin Botanical Garden 1873-1921, ultimately as "Obergartenmeister". 
+**Abbreviated name**: *Strauss*
 
 #### Herbarium and types
 

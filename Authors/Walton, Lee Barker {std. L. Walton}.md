@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103250#page/114/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33066394) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walton, Lee Barker (1871-1937), American entomologist and botanist; studied at Cornell University and the University of Bonn; Dr. phil. Cornell 1902; professor of biology, Kenyon College, Gambier, Ohio from 1902. (*L. Walton*).
+Walton, Lee Barker (1871-1937), American entomologist and botanist; studied at Cornell University and the University of Bonn; Dr. phil. Cornell 1902; professor of biology, Kenyon College, Gambier, Ohio from 1902. 
+**Abbreviated name**: *L. Walton*
 
 #### Herbarium and types
 

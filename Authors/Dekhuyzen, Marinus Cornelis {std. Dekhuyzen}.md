@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103833#page/178/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dekhuyzen, Marinus Cornelis (1859-1924), Dutch veterinarian, Dr. sci. Leiden 1884, professor at Utrecht (veterinary sciences), died 9 Oct 1924. (*Dekhuyzen*).
+Dekhuyzen, Marinus Cornelis (1859-1924), Dutch veterinarian, Dr. sci. Leiden 1884, professor at Utrecht (veterinary sciences), died 9 Oct 1924. 
+**Abbreviated name**: *Dekhuyzen*
 
 #### Herbarium and types
 

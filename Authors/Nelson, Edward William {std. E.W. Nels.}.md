@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/item/104137#page/740/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33355811) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nelson, Edward William (1855-1934), American naturalist; explorer of Alaska, the Arctic and Mexico; with the USDA 1890-1929; Dr. phil. l.c. George Washington Univ. 1920. (*E. W. Nels.*).
+Nelson, Edward William (1855-1934), American naturalist; explorer of Alaska, the Arctic and Mexico; with the USDA 1890-1929; Dr. phil. l.c. George Washington Univ. 1920. 
+**Abbreviated name**: *E. W. Nels.*
 
 #### Herbarium and types
 

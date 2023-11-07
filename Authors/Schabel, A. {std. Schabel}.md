@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/104077#page/112/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schabel, A. (1792-1836), German botanist and high school teacher at the "Gymnasium" at Ellwangen. (*Schabel*).
+Schabel, A. (1792-1836), German botanist and high school teacher at the "Gymnasium" at Ellwangen. 
+**Abbreviated name**: *Schabel*
 
 #### Herbarium and types
 

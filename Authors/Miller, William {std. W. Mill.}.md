@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/104137#page/516/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33355587) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miller, William (c. 1831-1898), British botanist and school-master. (*W. Mill.*).
+Miller, William (c. 1831-1898), British botanist and school-master. 
+**Abbreviated name**: *W. Mill.*
 
 #### Herbarium and types
 

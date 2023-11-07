@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103833#page/95/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33259129) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dassen, Michiel \[Michael\] (1809-1852), Dutch physician and botanist, born at Zwolle, studied medicine at the University of Groningen, travelled after his thesis, physician at Groningen, Hoogeveen and ultimately at Zwolle, Dr. "wis- en natuurkunde" 1850. (*Dassen*).
+Dassen, Michiel \[Michael\] (1809-1852), Dutch physician and botanist, born at Zwolle, studied medicine at the University of Groningen, travelled after his thesis, physician at Groningen, Hoogeveen and ultimately at Zwolle, Dr. "wis- en natuurkunde" 1850. 
+**Abbreviated name**: *Dassen*
 
 #### Herbarium and types
 

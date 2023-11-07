@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103414#page/274/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33120357) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bladh, Peter Johan (1746-1816), Finnish employee of the Swedish East India Company who collected in the East, mainly around Hongkong, Macao and Canton. (*Bladh.*).
+Bladh, Peter Johan (1746-1816), Finnish employee of the Swedish East India Company who collected in the East, mainly around Hongkong, Macao and Canton. 
+**Abbreviated name**: *Bladh.*
 
 #### Herbarium and types
 

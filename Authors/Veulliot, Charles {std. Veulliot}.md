@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/item/103683#page/730/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33212762) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Veulliot, Charles (1829-1890), French tax inspector and amateur mycologist in Pointde-Vaux, from 1873 in Lyon. (*Veulliot*).
+Veulliot, Charles (1829-1890), French tax inspector and amateur mycologist in Pointde-Vaux, from 1873 in Lyon. 
+**Abbreviated name**: *Veulliot*
 
 #### Herbarium and types
 

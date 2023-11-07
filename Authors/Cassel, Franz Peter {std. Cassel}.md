@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103414#page/513/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33120596) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cassel, Franz Peter (Francisci Petri) {std. Cassel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cassel, Franz Peter (1784-1821), German botanist, later in life professor of botany in Gent. (*Cassel*).
+Cassel, Franz Peter (1784-1821), German botanist, later in life professor of botany in Gent. 
+**Abbreviated name**: *Cassel*
 
 #### Herbarium and types
 

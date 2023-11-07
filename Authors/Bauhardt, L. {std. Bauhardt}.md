@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103858#page/397/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33265112) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bauhardt, L. (fl. 1823), German pharmacist and botanist. (*Bauhardt*).
+Bauhardt, L. (fl. 1823), German pharmacist and botanist. 
+**Abbreviated name**: *Bauhardt*
 
 #### Herbarium and types
 

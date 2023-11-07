@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/item/104137#page/691/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33355762) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mutel, (Pierre) Auguste (Victor) (1795-1847), French botanist and soldier, sometime military administrator at Le Hâvre. (*Mutel*).
+Mutel, (Pierre) Auguste (Victor) (1795-1847), French botanist and soldier, sometime military administrator at Le Hâvre. 
+**Abbreviated name**: *Mutel*
 
 #### Herbarium and types
 

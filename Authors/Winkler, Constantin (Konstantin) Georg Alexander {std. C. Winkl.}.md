@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/item/103250#page/428/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33066708) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winkler, Constantin \[Konstantin\] Georg Alexander (1848-1900), Russian botanist of Baltic German origin; studied botany at Dorpat 1871-1874; assistant botanical garden Dorpat 1874-1879; curator of the herbarium of the St. Petersburg botanical garden 1879-1897; head botanist ib. 1897-1899; from 1899-1900 in Wesenberg. (*C. Winkl.*).
+Winkler, Constantin \[Konstantin\] Georg Alexander (1848-1900), Russian botanist of Baltic German origin; studied botany at Dorpat 1871-1874; assistant botanical garden Dorpat 1874-1879; curator of the herbarium of the St. Petersburg botanical garden 1879-1897; head botanist ib. 1897-1899; from 1899-1900 in Wesenberg. 
+**Abbreviated name**: *C. Winkl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103250#page/255/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33066535) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wernham, Herbert Fuller (1879-1941), British botanist; worked in the General Post Office, London 1903-1909; B.Sc. Univ. London 1908; succeeded James Britten as assistant in the Department of Botany of the British Museum (Natural History) 1909; retired because of ill health 1921; specialist on Rubiaceae. (*Wernham*).
+Wernham, Herbert Fuller (1879-1941), British botanist; worked in the General Post Office, London 1903-1909; B.Sc. Univ. London 1908; succeeded James Britten as assistant in the Department of Botany of the British Museum (Natural History) 1909; retired because of ill health 1921; specialist on Rubiaceae. 
+**Abbreviated name**: *Wernham*
 
 #### Herbarium and types
 

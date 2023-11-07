@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103861#page/119/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brockmann, Christoph (1878-1962), German teacher and diatomist in Lehe, born at Schneverdingen (Lüneburger Heide), teacher at Turmstedt (Kreis Stade), from then on interested in the ecology and plant systematics of recent, inter- and postglacial diatoms, Dr. phil. h.c. Kiel 1937. (*C. Brockmann*).
+Brockmann, Christoph (1878-1962), German teacher and diatomist in Lehe, born at Schneverdingen (Lüneburger Heide), teacher at Turmstedt (Kreis Stade), from then on interested in the ecology and plant systematics of recent, inter- and postglacial diatoms, Dr. phil. h.c. Kiel 1937. 
+**Abbreviated name**: *C. Brockmann*
 
 #### Herbarium and types
 

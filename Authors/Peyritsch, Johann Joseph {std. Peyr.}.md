@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103624#page/230/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33189687) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peyritsch, Johann Joseph (1835-1889), Austrian botanist, especially plant teratologist; Dr. med. Wien 1864; naval physician at Pola 1864-1866; from 1866-1871 connected with the Vienna general hospital; from 1871-1878 at the Natural History museum ("2. custos"); habil. Univ. Wien 1874; professor of botany at Innsbruck (successor to A. Kerner) 1878-1889; especially interested in plant teratology and Laboulbeniales. (*Peyr.*).
+Peyritsch, Johann Joseph (1835-1889), Austrian botanist, especially plant teratologist; Dr. med. Wien 1864; naval physician at Pola 1864-1866; from 1866-1871 connected with the Vienna general hospital; from 1871-1878 at the Natural History museum ("2. custos"); habil. Univ. Wien 1874; professor of botany at Innsbruck (successor to A. Kerner) 1878-1889; especially interested in plant teratology and Laboulbeniales. 
+**Abbreviated name**: *Peyr.*
 
 #### Herbarium and types
 

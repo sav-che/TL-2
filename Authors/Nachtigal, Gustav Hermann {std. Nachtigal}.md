@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/item/104137#page/696/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33355767) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nachtigal, Gustav Hermann (1834-1885), German collector and explorer of Africa; military physician; from 1861 in Algeria, from 1863 in Tunisia; travelling in northern Africa 1868-1875; from 1882-1884 German consul at Tunis; first colonizer of Togo and Cameroon (1884-1885); died at sea when returning to Germany. (*Nachtigal*).
+Nachtigal, Gustav Hermann (1834-1885), German collector and explorer of Africa; military physician; from 1861 in Algeria, from 1863 in Tunisia; travelling in northern Africa 1868-1875; from 1882-1884 German consul at Tunis; first colonizer of Togo and Cameroon (1884-1885); died at sea when returning to Germany. 
+**Abbreviated name**: *Nachtigal*
 
 #### Herbarium and types
 

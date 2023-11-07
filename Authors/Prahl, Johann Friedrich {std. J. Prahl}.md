@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/item/103624#page/388/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33189845) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prahl, Johann Friedrich (*fl*. 1837), German botanist; teacher at the gymnasium of Güstrow (Mecklenburg-Schwerin), later clergyman at Hehen-Horn (Lauenburg). (*J. Prahl*).
+Prahl, Johann Friedrich (*fl*. 1837), German botanist; teacher at the gymnasium of Güstrow (Mecklenburg-Schwerin), later clergyman at Hehen-Horn (Lauenburg). 
+**Abbreviated name**: *J. Prahl*
 
 #### Herbarium and types
 

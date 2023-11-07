@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/103624#page/323/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33189780) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pöll, Josef (1874-1940), Austrian hieraciologist; high school teacher at Bludenz and Innsbruck; later professor at the Innsbruck teacher's college. (*Pöll*).
+Pöll, Josef (1874-1940), Austrian hieraciologist; high school teacher at Bludenz and Innsbruck; later professor at the Innsbruck teacher's college. 
+**Abbreviated name**: *Pöll*
 
 #### Herbarium and types
 

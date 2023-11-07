@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103860#page/63/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33265730) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chardón Palacios, Carlos Eugenio {std. Chardón}|first entry]] for this author
 
 ### Author
 
-\* Chardón\[-Palacios\], Carlos Eugenio (1897-1965), Puerto-Rico born mycologist and plant pathologist, born in Ponce, Puerto-Rico, educated at the College of Agriculture and Mechanic Arts, Mayaguez, Puerto-Rico 1915-1918, at Cornell University 1918-1921, master's degree 1921, D.C. Dartmouth College 1935, Ll.D. University of Puerto-Rico 1953, plant pathologist in the Insular Agricultural Experiment Station, Rio Piedras 1921-1923, commissioner of agriculture San Juan 1927-1930, chancellor of the University of Puerto-Rico 1931-1936, administrator of the Puerto Rican Reconstruction Administration 1936, further with Cotton Project, Ministry of Agriculture, with the Land Authority of Puerto Rico, director of the Institute of Tropical Agriculture 1943-1946. (*Chardón*).
+\* Chardón\[-Palacios\], Carlos Eugenio (1897-1965), Puerto-Rico born mycologist and plant pathologist, born in Ponce, Puerto-Rico, educated at the College of Agriculture and Mechanic Arts, Mayaguez, Puerto-Rico 1915-1918, at Cornell University 1918-1921, master's degree 1921, D.C. Dartmouth College 1935, Ll.D. University of Puerto-Rico 1953, plant pathologist in the Insular Agricultural Experiment Station, Rio Piedras 1921-1923, commissioner of agriculture San Juan 1927-1930, chancellor of the University of Puerto-Rico 1931-1936, administrator of the Puerto Rican Reconstruction Administration 1936, further with Cotton Project, Ministry of Agriculture, with the Land Authority of Puerto Rico, director of the Institute of Tropical Agriculture 1943-1946. 
+**Abbreviated name**: *Chardón*
 
 #### Herbarium and types
 

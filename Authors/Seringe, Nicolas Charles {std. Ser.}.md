@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/104077#page/527/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seringe, Nicolas Charles (1776-1858), French botanist; studied medicine at the Faculté de Paris; army-surgeon 1796-1801; teacher (French language) in Bern 1801-1820, in Genève 1820-1830; professor of botany and director of the botanical garden at Lyon 1830-1858. (*Ser.*).
+Seringe, Nicolas Charles (1776-1858), French botanist; studied medicine at the Faculté de Paris; army-surgeon 1796-1801; teacher (French language) in Bern 1801-1820, in Genève 1820-1830; professor of botany and director of the botanical garden at Lyon 1830-1858. 
+**Abbreviated name**: *Ser.*
 
 #### Herbarium and types
 

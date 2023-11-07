@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/item/103624#page/52/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33189471) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pampanini, Renato (1875-1949), Italian botanist; studied at Fribourg, Lausanne and Genève (with R.H. Chodat); Dr. phil. Fribourg 1902; from 1904-1933 at the Istituto botanico di Firenze, from 1912 as assistant; professor of botany at Cagliari 1933-1948, ultimately at Torino. (*Pamp.*).
+Pampanini, Renato (1875-1949), Italian botanist; studied at Fribourg, Lausanne and Genève (with R.H. Chodat); Dr. phil. Fribourg 1902; from 1904-1933 at the Istituto botanico di Firenze, from 1912 as assistant; professor of botany at Cagliari 1933-1948, ultimately at Torino. 
+**Abbreviated name**: *Pamp.*
 
 #### Herbarium and types
 

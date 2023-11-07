@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103624#page/465/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quaintance, Altus Lacy (1870-1958), American phytopathologist and economic entomologist; B.S. Florida Agric. Coll. \[Univ. Florida\] 1893; M.S. Alabama Polytechnic Institute 1894; Dr. Sci. ib. 1915; instructor in biology and professor of entomology at the University of Florida, 1894-1898; biologist at the Georgia Agricultural Experiment Station 1899-1901; State Entomologist of Maryland 1901-1903; in Division of Entomology, U.S.D.A. 1903-1930. (*Quaintance*).
+Quaintance, Altus Lacy (1870-1958), American phytopathologist and economic entomologist; B.S. Florida Agric. Coll. \[Univ. Florida\] 1893; M.S. Alabama Polytechnic Institute 1894; Dr. Sci. ib. 1915; instructor in biology and professor of entomology at the University of Florida, 1894-1898; biologist at the Georgia Agricultural Experiment Station 1899-1901; State Entomologist of Maryland 1901-1903; in Division of Entomology, U.S.D.A. 1903-1930. 
+**Abbreviated name**: *Quaintance*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/item/103414#page/849/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33120932) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Esper, Eugen Johann Christoph (1742-1810). German zoologist and phycologist. (*Esper*).
+Esper, Eugen Johann Christoph (1742-1810). German zoologist and phycologist. 
+**Abbreviated name**: *Esper*
 
 #### Herbarium and types
 

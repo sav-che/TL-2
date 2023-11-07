@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/item/103624#page/893/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33190350) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roper, Ida Margaret (1865-1935), British (English) botanist at Bristol; long time secretary and editor of the Bristol Naturalist's Society, president id. 1913-1916. (*I. Roper*).
+Roper, Ida Margaret (1865-1935), British (English) botanist at Bristol; long time secretary and editor of the Bristol Naturalist's Society, president id. 1913-1916. 
+**Abbreviated name**: *I. Roper*
 
 #### Herbarium and types
 

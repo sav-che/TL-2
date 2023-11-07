@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/item/104077#page/881/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33334006) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stefanoff, \[Stefanov\] Boris (1894-1979), Bulgarian botanist; Dr. phil. Univ. Sofia 1919; curator of the University of Sofia herbarium 1928; botanical assistant at the Institute for agricultural botany of Sofia University 1930 (later College of Agriculture "Georgi Dimitroff"); lecturer in botany at the Forestry Faculty 1936, e.o. professor 1931, regular professor 1945; rector of the Faculty of Forestry, Sofia, 1953; director of the Institute of Forestry Science of the Academy of Sciences 1954-1967. (*Stef.*).
+Stefanoff, \[Stefanov\] Boris (1894-1979), Bulgarian botanist; Dr. phil. Univ. Sofia 1919; curator of the University of Sofia herbarium 1928; botanical assistant at the Institute for agricultural botany of Sofia University 1930 (later College of Agriculture "Georgi Dimitroff"); lecturer in botany at the Forestry Faculty 1936, e.o. professor 1931, regular professor 1945; rector of the Faculty of Forestry, Sofia, 1953; director of the Institute of Forestry Science of the Academy of Sciences 1954-1967. 
+**Abbreviated name**: *Stef.*
 
 #### Herbarium and types
 

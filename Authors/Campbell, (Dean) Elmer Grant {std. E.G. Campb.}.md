@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103861#page/346/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266643) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Campbell, \[Dean\] Elmer Grant (1876-?), American botanist and ecologist, born at Fairburn, Georgia 11 Feb 1876, A.B. Hiram College 1905, M.S. Purdue 1914 as instructor for biology at Texas A.M. College 1915-1918, at Purdue in charge of agricultural botany 1918-1927, professor of biology at Transylvania College 1927-1929, president 1928-1931, idem at Oglethorpe 1932-1933, head of Univ. Center Atlanta, Univ. Georgia 1933. (*E.G. Campb.*).
+Campbell, \[Dean\] Elmer Grant (1876-?), American botanist and ecologist, born at Fairburn, Georgia 11 Feb 1876, A.B. Hiram College 1905, M.S. Purdue 1914 as instructor for biology at Texas A.M. College 1915-1918, at Purdue in charge of agricultural botany 1918-1927, professor of biology at Transylvania College 1927-1929, president 1928-1931, idem at Oglethorpe 1932-1933, head of Univ. Center Atlanta, Univ. Georgia 1933. 
+**Abbreviated name**: *E.G. Campb.*
 
 #### Herbarium and types
 

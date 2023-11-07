@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103861#page/53/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33266350) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bray, William L. (1865-1953), American botanist, born at Burnside, Ill., studied at Cornell University 1889-1891, A.B. Indiana State University, Lake Forest 1893-1895, M.A. 1894, at the University of Berlin 1896-1897, at the University of Chicago, obtaining Ph.D. 1896, instructor in botany at the University of Texas 1897-1898, adj. professor 1898-1901, assoc. professor 1902-1905, professor 1905-1907, finally professor in botany at Syracuse University 1907. (*W.L. Bray*).
+Bray, William L. (1865-1953), American botanist, born at Burnside, Ill., studied at Cornell University 1889-1891, A.B. Indiana State University, Lake Forest 1893-1895, M.A. 1894, at the University of Berlin 1896-1897, at the University of Chicago, obtaining Ph.D. 1896, instructor in botany at the University of Texas 1897-1898, adj. professor 1898-1901, assoc. professor 1902-1905, professor 1905-1907, finally professor in botany at Syracuse University 1907. 
+**Abbreviated name**: *W.L. Bray*
 
 #### Herbarium and types
 

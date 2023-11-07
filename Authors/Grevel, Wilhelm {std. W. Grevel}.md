@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103832#page/388/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33258854) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grevel, Wilhelm (1869-\[after 1930\]), German botanist, born 8 Apr 1869 in Steele an der Ruhr (Rheinland), doctorate 1897 Heidelberg. (*W. Grevel*).
+Grevel, Wilhelm (1869-\[after 1930\]), German botanist, born 8 Apr 1869 in Steele an der Ruhr (Rheinland), doctorate 1897 Heidelberg. 
+**Abbreviated name**: *W. Grevel*
 
 #### Herbarium and types
 

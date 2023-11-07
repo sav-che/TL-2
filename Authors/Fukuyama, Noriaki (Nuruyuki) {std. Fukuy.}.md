@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103832#page/88/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33258554) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fukuyama, Noriaki \[Nuruyuki\] (1912-1946), Japanese botanist, student of G. Masamune, specialized in the orchids of Taiwan, the Ryukyus and Micronesia, died in Taiwan. (*Fukuy.*).
+Fukuyama, Noriaki \[Nuruyuki\] (1912-1946), Japanese botanist, student of G. Masamune, specialized in the orchids of Taiwan, the Ryukyus and Micronesia, died in Taiwan. 
+**Abbreviated name**: *Fukuy.*
 
 #### Herbarium and types
 

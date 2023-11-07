@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103835#page/343/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33260321) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emerson, George Barrell (1797-1881), American educator and botanist, born 12 Sep 1797 in Kennebunk (Maine), graduated from Harvard 1817, in charge of an academy in Lancaster (Mass.), tutor in mathematics and natural philosophy in Harvard 1819-1821, in 1821 declined a professorship of mathematics in Harvard, headed a Boston private school 1823-1855, helped to organize the American Institute of Instruction, died 14 Mar 1881 at Newton (Mass.). (*G.B. Emers.*).
+Emerson, George Barrell (1797-1881), American educator and botanist, born 12 Sep 1797 in Kennebunk (Maine), graduated from Harvard 1817, in charge of an academy in Lancaster (Mass.), tutor in mathematics and natural philosophy in Harvard 1819-1821, in 1821 declined a professorship of mathematics in Harvard, headed a Boston private school 1823-1855, helped to organize the American Institute of Instruction, died 14 Mar 1881 at Newton (Mass.). 
+**Abbreviated name**: *G.B. Emers.*
 
 #### Herbarium and types
 

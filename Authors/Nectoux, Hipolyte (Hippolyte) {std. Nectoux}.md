@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/item/104137#page/720/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33355791) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nectoux, Hipolyte (Hippolyte) (17..-18..), French botanist who accompanied Napoleon to Egypt. (*Nectoux*).
+Nectoux, Hipolyte (Hippolyte) (17..-18..), French botanist who accompanied Napoleon to Egypt. 
+**Abbreviated name**: *Nectoux*
 
 #### Herbarium and types
 

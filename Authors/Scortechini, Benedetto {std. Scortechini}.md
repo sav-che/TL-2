@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/item/104077#page/470/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33333595) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scortechini, Benedetto (1845-1886), Italian clergyman and botanist; in Queensland, Australia 1871-1884 as parish priest in Brisbane, Stanthorpe, Gympie and Roma; later resident in the Logan District; from 1884-1886 Government botanist of Perak, conducting a botanical survey of the Straits Settlements, Malay Peninsula. (*Scortechini*).
+Scortechini, Benedetto (1845-1886), Italian clergyman and botanist; in Queensland, Australia 1871-1884 as parish priest in Brisbane, Stanthorpe, Gympie and Roma; later resident in the Logan District; from 1884-1886 Government botanist of Perak, conducting a botanical survey of the Straits Settlements, Malay Peninsula. 
+**Abbreviated name**: *Scortechini*
 
 #### Herbarium and types
 

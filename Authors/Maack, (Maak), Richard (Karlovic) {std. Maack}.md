@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/104137#page/222/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33355293) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maack, \[Maak\], Richard (Karlovic) (1825-1886), Estonian-born Russian botanist of Baltic-German origin at St. Petersburg; collected in Siberia. (*Maack*).
+Maack, \[Maak\], Richard (Karlovic) (1825-1886), Estonian-born Russian botanist of Baltic-German origin at St. Petersburg; collected in Siberia. 
+**Abbreviated name**: *Maack*
 
 #### Herbarium and types
 

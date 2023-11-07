@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103858#page/266/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33264981) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bail, Carl Adolph Emmo Theodor {std. Bail}|first entry]] for this author
 
 ### Author
 
-\* Bail, \[Carl Adolph Emmo\] Theodor (1833-1922), German (Silezian) botanist, educated at Breslau, Dr. phil. ib. 1857, highschool teacher at Breslau at the Realschule zum heiligen Geiste, travelled in Austria, collecting fungi with R.F.K. von Uechtritz 1858, later that year called as teacher to Posen, id. to Danzig, again as highschool teacher at the Realgymnasium zu St. Johann, Danzig, until 1900, in retirement living in Danzig. (*Bail*).
+\* Bail, \[Carl Adolph Emmo\] Theodor (1833-1922), German (Silezian) botanist, educated at Breslau, Dr. phil. ib. 1857, highschool teacher at Breslau at the Realschule zum heiligen Geiste, travelled in Austria, collecting fungi with R.F.K. von Uechtritz 1858, later that year called as teacher to Posen, id. to Danzig, again as highschool teacher at the Realgymnasium zu St. Johann, Danzig, until 1900, in retirement living in Danzig. 
+**Abbreviated name**: *Bail*
 
 #### Herbarium and types
 

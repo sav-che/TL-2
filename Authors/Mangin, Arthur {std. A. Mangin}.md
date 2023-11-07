@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/104137#page/291/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mangin, Arthur (1824-1887), French botanist and historian of science. (*A. Mangin*).
+Mangin, Arthur (1824-1887), French botanist and historian of science. 
+**Abbreviated name**: *A. Mangin*
 
 #### Herbarium and types
 

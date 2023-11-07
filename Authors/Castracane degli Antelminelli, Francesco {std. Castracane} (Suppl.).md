@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103861#page/470/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33266767) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Castracane degli Antelminelli, Francesco Saverio, Conte {std. Castracane}|first entry]] for this author
 
 ### Author
 
-\* Castracane degli Antelminelli, Francesco (1817-1899), Italian phycologist (diatomist), born at S. Cristoforo di Fano, count and abbot, interested in diatoms from 1865, member of the Accademia pontif. Nuovo Lincei. (*Castracane*).
+\* Castracane degli Antelminelli, Francesco (1817-1899), Italian phycologist (diatomist), born at S. Cristoforo di Fano, count and abbot, interested in diatoms from 1865, member of the Accademia pontif. Nuovo Lincei. 
+**Abbreviated name**: *Castracane*
 
 #### Herbarium and types
 

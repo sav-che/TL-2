@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/item/104077#page/938/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33334063) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stewart, Samuel Alexander (1826-1910), American-born Irish botanist; to Belfast, Ireland 1836; "working-man naturalist"; curator Museum of the Belfast Natural History and Philosophy Society 1891-1907. (*S. Stewart*).
+Stewart, Samuel Alexander (1826-1910), American-born Irish botanist; to Belfast, Ireland 1836; "working-man naturalist"; curator Museum of the Belfast Natural History and Philosophy Society 1891-1907. 
+**Abbreviated name**: *S. Stewart*
 
 #### Herbarium and types
 

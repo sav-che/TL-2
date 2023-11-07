@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103250#page/336/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33066616) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiggins, Ira Loren (1899-x), American botanist; A.B. phil. 1922 Occidental College, Calif.; M.A. bot. Stanford 1925; teacher at Durham Union High School 1923-1924; instructor in botany Occidental Coll. 1925-1927, asst. professor 1927-1929; assistant professor of botany at Stanford 1929-1936, assoc. prof. 1936-1940, professor of biology 1940-1964; emeritus professor 1965; explorer of the Sonoran desert 1929-1955; travelled e.g. in Ecuador 1944-1945, Alaska 1949, Mexico 1955. (*Wiggins*).
+Wiggins, Ira Loren (1899-x), American botanist; A.B. phil. 1922 Occidental College, Calif.; M.A. bot. Stanford 1925; teacher at Durham Union High School 1923-1924; instructor in botany Occidental Coll. 1925-1927, asst. professor 1927-1929; assistant professor of botany at Stanford 1929-1936, assoc. prof. 1936-1940, professor of biology 1940-1964; emeritus professor 1965; explorer of the Sonoran desert 1929-1955; travelled e.g. in Ecuador 1944-1945, Alaska 1949, Mexico 1955. 
+**Abbreviated name**: *Wiggins*
 
 #### Herbarium and types
 

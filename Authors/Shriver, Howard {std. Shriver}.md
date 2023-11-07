@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/item/104077#page/586/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33333711) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shriver, Howard (1824-1901), American botanist. (*Shriver*).
+Shriver, Howard (1824-1901), American botanist. 
+**Abbreviated name**: *Shriver*
 
 #### Herbarium and types
 

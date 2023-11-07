@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/item/103414#page/538/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chauvin, François Joseph (1797-1859), French algologist. (*Chauv.*).
+Chauvin, François Joseph (1797-1859), French algologist. 
+**Abbreviated name**: *Chauv.*
 
 #### Herbarium and types
 

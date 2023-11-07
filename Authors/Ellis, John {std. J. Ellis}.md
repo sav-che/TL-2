@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/item/103414#page/791/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33120874) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ellis, John {std. J. Ellis} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ellis, John (1711-1776), Irish-born merchant in London, "agent for the Island of Dominica". (*J. Ellis*).
+Ellis, John (1711-1776), Irish-born merchant in London, "agent for the Island of Dominica". 
+**Abbreviated name**: *J. Ellis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/item/103624#page/884/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33190341) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rolland, Eugène (1846-1909), French folklorist who published on French folk names of animals and plants, folk songs, proverbs and superstitions. (*E. Rolland*).
+Rolland, Eugène (1846-1909), French folklorist who published on French folk names of animals and plants, folk songs, proverbs and superstitions. 
+**Abbreviated name**: *E. Rolland*
 
 #### Herbarium and types
 

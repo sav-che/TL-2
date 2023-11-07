@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/item/103253#page/706/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krüger, Ernst (1860-1942), German bryologist at Eisenach; high school teacher at Sunnabei Vacha 1880-1897; at Eisenach 1897-1924. (*E. Krüger*).
+Krüger, Ernst (1860-1942), German bryologist at Eisenach; high school teacher at Sunnabei Vacha 1880-1897; at Eisenach 1897-1924. 
+**Abbreviated name**: *E. Krüger*
 
 #### Herbarium and types
 

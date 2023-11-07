@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103253#page/328/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hope, John (1725-1786), Scottish botanist; professor of botany and regius keeper at Edinburgh (1761); founder of the Edinburgh botanic garden. (*J. Hope*).
+Hope, John (1725-1786), Scottish botanist; professor of botany and regius keeper at Edinburgh (1761); founder of the Edinburgh botanic garden. 
+**Abbreviated name**: *J. Hope*
 
 #### Herbarium and types
 

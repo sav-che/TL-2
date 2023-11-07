@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103253#page/377/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howitt, Godfrey (1800-1873), British physician (M. D. Edinburgh) at Leicester and Nottingham; to Australia 1839, practicing at Melbourne until 1869. (*Howitt*).
+Howitt, Godfrey (1800-1873), British physician (M. D. Edinburgh) at Leicester and Nottingham; to Australia 1839, practicing at Melbourne until 1869. 
+**Abbreviated name**: *Howitt*
 
 #### Herbarium and types
 

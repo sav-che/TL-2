@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/item/103624#page/805/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33190262) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rigaud, Antoine (*fl*. 1877), French botanist. (*Rigaud*).
+Rigaud, Antoine (*fl*. 1877), French botanist. 
+**Abbreviated name**: *Rigaud*
 
 #### Herbarium and types
 

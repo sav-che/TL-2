@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103253#page/216/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33068432) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hick, Thomas (1840-1896), British botanist who studied and lectured (1861-1876) at the Lancasterian School at Leeds; from 1876-1886 science master at Pannall College, Harrogate, 1886-1896 lecturer at Owens College, Manchester. (*Hick*).
+Hick, Thomas (1840-1896), British botanist who studied and lectured (1861-1876) at the Lancasterian School at Leeds; from 1876-1886 science master at Pannall College, Harrogate, 1886-1896 lecturer at Owens College, Manchester. 
+**Abbreviated name**: *Hick*
 
 #### Herbarium and types
 

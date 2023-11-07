@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/item/103414#page/708/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33120791) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dixon, Hugh Neville {std. Dixon} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dixon, Hugh Neville (1861-1944), British bryologist. (*Dix.*).
+Dixon, Hugh Neville (1861-1944), British bryologist. 
+**Abbreviated name**: *Dix.*
 
 #### Herbarium and types
 

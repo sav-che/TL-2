@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/104077#page/336/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schramm, Otto Christoph (1791-1863), German (Prussian) agronomist and botanist; in the Prussian army 1813-1815; from 1820 government employee for agronomy in Pommerania 1820-1844, ultimately as "Oekonomie-Kommissionsrat", in early retirement because of ill-health in Brandenburg a.d. Havel from 1845. (*O.C. Schramm*).
+Schramm, Otto Christoph (1791-1863), German (Prussian) agronomist and botanist; in the Prussian army 1813-1815; from 1820 government employee for agronomy in Pommerania 1820-1844, ultimately as "Oekonomie-Kommissionsrat", in early retirement because of ill-health in Brandenburg a.d. Havel from 1845. 
+**Abbreviated name**: *O.C. Schramm*
 
 #### Herbarium and types
 

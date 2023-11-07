@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/item/103414#page/554/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33120637) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clarke, Charles Baron {std. C.B. Clarke} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Clarke, Charles Baron (1832-1906), British botanist, nephew of Benjamin Clarke, in India 1865-1887. (*C. B. Clarke*).
+Clarke, Charles Baron (1832-1906), British botanist, nephew of Benjamin Clarke, in India 1865-1887. 
+**Abbreviated name**: *C. B. Clarke*
 
 #### Herbarium and types
 

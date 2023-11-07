@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103860#page/216/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33265883) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clements, née Schwartz, Edith Gertrude \[Edith Schwartz\] (1877-1971), American botanist, ecologist, botanical artist, born 5 Oct 1877, Albany, N.Y., A.B. at Univ. Nebraska 1898, Ph.D. 1904 ib., instructor at Minnesota University 1909, married Frederic Edward Clements in Lincoln, Nebraska 1899, later at Carnegie Institution of Washington and Santa Barbara, Calif. and Alpine Laboratory Manitou, Colo. (*E.G. Clem.*).
+Clements, née Schwartz, Edith Gertrude \[Edith Schwartz\] (1877-1971), American botanist, ecologist, botanical artist, born 5 Oct 1877, Albany, N.Y., A.B. at Univ. Nebraska 1898, Ph.D. 1904 ib., instructor at Minnesota University 1909, married Frederic Edward Clements in Lincoln, Nebraska 1899, later at Carnegie Institution of Washington and Santa Barbara, Calif. and Alpine Laboratory Manitou, Colo. 
+**Abbreviated name**: *E.G. Clem.*
 
 #### Herbarium and types
 

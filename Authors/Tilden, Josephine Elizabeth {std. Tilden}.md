@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103683#page/361/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33212393) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tilden, Josephine Elizabeth (1869?-1957), American phycologist; M.S. Univ. Minnesota 1897; Dr. phil. Univ. Michigan 1904; instructor in botany at Univ. Minnesota 1898-1902, asst. prof. 1902-1910, prof. 1910-1937; in retirement at Lake Wales, Florida. (*Tilden*).
+Tilden, Josephine Elizabeth (1869?-1957), American phycologist; M.S. Univ. Minnesota 1897; Dr. phil. Univ. Michigan 1904; instructor in botany at Univ. Minnesota 1898-1902, asst. prof. 1902-1910, prof. 1910-1937; in retirement at Lake Wales, Florida. 
+**Abbreviated name**: *Tilden*
 
 #### Herbarium and types
 

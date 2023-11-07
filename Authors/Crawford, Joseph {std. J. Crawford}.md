@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103860#page/462/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33266129) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crawford, Joseph (1858-1936), American botanist and pharmacist, born 20 Dec 1858, Audubon, Montgomery Co., Pa., died 24 Oct 1936, pharmacist in Philadelphia, one of the original founders of the Philadelphia Botanical Club, served as its president 1898-1909, further work until 1936. (*J. Crawford*).
+Crawford, Joseph (1858-1936), American botanist and pharmacist, born 20 Dec 1858, Audubon, Montgomery Co., Pa., died 24 Oct 1936, pharmacist in Philadelphia, one of the original founders of the Philadelphia Botanical Club, served as its president 1898-1909, further work until 1936. 
+**Abbreviated name**: *J. Crawford*
 
 #### Herbarium and types
 

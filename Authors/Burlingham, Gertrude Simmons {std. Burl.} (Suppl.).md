@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103861#page/261/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33266558) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burlingham, Gertrude Simmons {std. Burl.}|first entry]] for this author
 
 ### Author
 
-Burlingham, Gertrude Simmons (1872-1952), American botanist and biology teacher, born 21 Apr 1872, Mexico, N.Y., died 11 Jan 1952, at Syracuse University AB 1896, preceptress Ovid Union School, N.Y. 1896-1898, Winter Park, Florida, teacher biol. sci. Binghamton H.S., N.Y. 1898-1905, Columbia University Ph.D. 1908, teacher of biology in High School, Brooklyn 1908-1934, later at Winter Park, Florida. (*Burl.*).
+Burlingham, Gertrude Simmons (1872-1952), American botanist and biology teacher, born 21 Apr 1872, Mexico, N.Y., died 11 Jan 1952, at Syracuse University AB 1896, preceptress Ovid Union School, N.Y. 1896-1898, Winter Park, Florida, teacher biol. sci. Binghamton H.S., N.Y. 1898-1905, Columbia University Ph.D. 1908, teacher of biology in High School, Brooklyn 1908-1934, later at Winter Park, Florida. 
+**Abbreviated name**: *Burl.*
 
 #### Herbarium and types
 

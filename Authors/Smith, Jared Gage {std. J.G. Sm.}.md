@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/item/104077#page/705/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33333830) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Jared Gage (1866-1925), American botanist and agriculturist; A.M. Univ. Nebraska 1892; asst. agriculturist Nebraska Agr. Exp. Sta. Lincoln 1888-1890; in Europe, Australia and Mexico 1890-1892; assoc. botanist Shaw School of Botany 1892-1893; bot. asst. Missouri Bot. Gard. 1893-1895; with USDA 1895-1908; in charge of its Hawaii Agr. Exp. Sta. from 1901-1908; with the Kona Tobacco Co. 1908-1913; on editorial staff Pacific Commercial Advertiser 1913-1919; professor of agriculture Univ. Hawaii 1916; tobacco planter from 1917. (*J.G. Sm.*).
+Smith, Jared Gage (1866-1925), American botanist and agriculturist; A.M. Univ. Nebraska 1892; asst. agriculturist Nebraska Agr. Exp. Sta. Lincoln 1888-1890; in Europe, Australia and Mexico 1890-1892; assoc. botanist Shaw School of Botany 1892-1893; bot. asst. Missouri Bot. Gard. 1893-1895; with USDA 1895-1908; in charge of its Hawaii Agr. Exp. Sta. from 1901-1908; with the Kona Tobacco Co. 1908-1913; on editorial staff Pacific Commercial Advertiser 1913-1919; professor of agriculture Univ. Hawaii 1916; tobacco planter from 1917. 
+**Abbreviated name**: *J.G. Sm.*
 
 #### Herbarium and types
 

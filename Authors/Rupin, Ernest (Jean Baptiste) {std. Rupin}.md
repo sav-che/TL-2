@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 990](https://www.biodiversitylibrary.org/item/103624#page/1004/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 990](https://www.biodiversitylibrary.org/page/33190461) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rupin, Ernest (Jean Baptiste) (1845-1909), French botanist, archeologist and artist; in the French civil service until 1873; founder and first curator of the Musée E. Rupin, Brive (Corrèze). (*Rupin*).
+Rupin, Ernest (Jean Baptiste) (1845-1909), French botanist, archeologist and artist; in the French civil service until 1873; founder and first curator of the Musée E. Rupin, Brive (Corrèze). 
+**Abbreviated name**: *Rupin*
 
 #### Herbarium and types
 

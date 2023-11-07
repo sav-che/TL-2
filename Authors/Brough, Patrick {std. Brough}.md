@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/item/103861#page/141/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33266438) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brough, Patrick (1885-?), Scottish botanist, studied at the University of Glasgow, M.A. 1907, B. Sci. Agric. 1909, B. Sci. 1914, D. Sci. Univ. Sydney 1933, Science Master Airdrie, Scotland 1907-1910, explor. chem. Ministry Munitions U.K. 1915-1918, Inspector in agriculture, Scotland 1918, lecturer in botany Univ. Sydney from 1919. (*Brough*).
+Brough, Patrick (1885-?), Scottish botanist, studied at the University of Glasgow, M.A. 1907, B. Sci. Agric. 1909, B. Sci. 1914, D. Sci. Univ. Sydney 1933, Science Master Airdrie, Scotland 1907-1910, explor. chem. Ministry Munitions U.K. 1915-1918, Inspector in agriculture, Scotland 1918, lecturer in botany Univ. Sydney from 1919. 
+**Abbreviated name**: *Brough*
 
 #### Herbarium and types
 

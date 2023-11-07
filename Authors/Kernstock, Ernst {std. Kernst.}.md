@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/item/103253#page/557/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kernstock, Ernst (1852-1900), Austrian botanist and high school teacher at Bozen and Klagenfurt. (*Kernst.*).
+Kernstock, Ernst (1852-1900), Austrian botanist and high school teacher at Bozen and Klagenfurt. 
+**Abbreviated name**: *Kernst.*
 
 #### Herbarium and types
 

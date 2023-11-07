@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103253#page/72/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hannon, Joseph Desiré (1822-1870), Belgian botanist and zoologist; Dr. sci. Liège 1845; from 1849 at the Université de Bruxelles. (*Hannon*).
+Hannon, Joseph Desiré (1822-1870), Belgian botanist and zoologist; Dr. sci. Liège 1845; from 1849 at the Université de Bruxelles. 
+**Abbreviated name**: *Hannon*
 
 #### Herbarium and types
 

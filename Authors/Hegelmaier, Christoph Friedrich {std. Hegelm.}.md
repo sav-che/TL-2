@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103253#page/153/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33068369) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hegelmaier, Christoph Friedrich (1833-1906), German physician and botanist; Dr. med. Tübingen 1857; until 1862 military physician at Ulm; from 1862-1863 with A. Braun at Berlin; habil. Tübingen 1864, later professor of botany at Tübingen (extraordinary 1866; honorary 1902). (*Hegelm.*).
+Hegelmaier, Christoph Friedrich (1833-1906), German physician and botanist; Dr. med. Tübingen 1857; until 1862 military physician at Ulm; from 1862-1863 with A. Braun at Berlin; habil. Tübingen 1864, later professor of botany at Tübingen (extraordinary 1866; honorary 1902). 
+**Abbreviated name**: *Hegelm.*
 
 #### Herbarium and types
 

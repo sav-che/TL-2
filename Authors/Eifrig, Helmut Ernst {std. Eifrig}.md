@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103835#page/294/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eifrig, Helmut Ernst (1911-x), German botanist, born 24 Apr 1911 at Rasberg near Zeitz (Sachsen), visited schools at Zeitz 1917-1922 and 1922-1931, studied natural sciences at Jena 1931-1936. (*Eifrig*).
+Eifrig, Helmut Ernst (1911-x), German botanist, born 24 Apr 1911 at Rasberg near Zeitz (Sachsen), visited schools at Zeitz 1917-1922 and 1922-1931, studied natural sciences at Jena 1931-1936. 
+**Abbreviated name**: *Eifrig*
 
 #### Herbarium and types
 

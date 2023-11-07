@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103859#page/301/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33265488) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boll, Ernst Friedrich August {std. Boll}|first entry]] for this author
 
 ### Author
 
-\* Boll, Ernst Friedrich August (1817-1868), German (Neubrandenburg) botanist and geologist and historian of Mecklenburg, founder of the Naturforschende Gesellschaft in Mecklenburg, editor of the Archiv Verein Freunde Naturgeschichte Mecklenburg 1847-1868. (*Boll*).
+\* Boll, Ernst Friedrich August (1817-1868), German (Neubrandenburg) botanist and geologist and historian of Mecklenburg, founder of the Naturforschende Gesellschaft in Mecklenburg, editor of the Archiv Verein Freunde Naturgeschichte Mecklenburg 1847-1868. 
+**Abbreviated name**: *Boll*
 
 #### Herbarium and types
 

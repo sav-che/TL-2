@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103833#page/146/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33259180) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Decaisne, Joseph {std. Decne.}|first entry]] for this author
 
 ### Author
 
-\* Decaisne, Joseph (1807-1882), Belgian botanist, born at Brussels, moved early to Paris, 1824 becoming gardener in the Jardin des Plantes, in 1832 Chef des Semis du Muséum, in the herbarium 1833, Dr.-ès-Sci. 1837, Membre de l'Institut 1847, professor of culture at the Museum 1851, later also president of the Académie des Sciences. (*Decne.*).
+\* Decaisne, Joseph (1807-1882), Belgian botanist, born at Brussels, moved early to Paris, 1824 becoming gardener in the Jardin des Plantes, in 1832 Chef des Semis du Muséum, in the herbarium 1833, Dr.-ès-Sci. 1837, Membre de l'Institut 1847, professor of culture at the Museum 1851, later also president of the Académie des Sciences. 
+**Abbreviated name**: *Decne.*
 
 #### Herbarium and types
 

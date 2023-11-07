@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103861#page/31/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33266328) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Branscheidt, Paul (1893-x), German botanist, born 28 Aug 1893 in Derschlag, Rheinland, "Volksschule" also in Derschlag, secondary school in Bergneustadt (Rheinland) 1904, "Oberrealschule" in Gummersbach 1908-1912, at the University of Göttingen 1912-1914, again at Göttingen 1916, Dr. phil. Göttingen 1917, "Dozent" at the University of Würzburg 1936, as professor 1939 and also as director of the "Institut für angewandte Botanik". (*Branscheidt*).
+Branscheidt, Paul (1893-x), German botanist, born 28 Aug 1893 in Derschlag, Rheinland, "Volksschule" also in Derschlag, secondary school in Bergneustadt (Rheinland) 1904, "Oberrealschule" in Gummersbach 1908-1912, at the University of Göttingen 1912-1914, again at Göttingen 1916, Dr. phil. Göttingen 1917, "Dozent" at the University of Würzburg 1936, as professor 1939 and also as director of the "Institut für angewandte Botanik". 
+**Abbreviated name**: *Branscheidt*
 
 #### Herbarium and types
 

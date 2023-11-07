@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103861#page/61/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33266358) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breitfeld, Alexander (1858-?), German botanist, born in Döbeln, Sachsen, educated at the Kön. Realschule I. Ordnung (i.e. Gymnasium) in Rawitsch, Posen, final examination 1878, studied at the universities of Berlin and Breslau (natural sciences), scientific state examination 1884, teaching at the gymnasium of Reichenbach, Schlesien 1884-1885, full teacher at the Royal Gymnasium at Königshütte O./S., Dr. phil. Univ. Breslau 15 Feb 1888. (*A. Breitf.*).
+Breitfeld, Alexander (1858-?), German botanist, born in Döbeln, Sachsen, educated at the Kön. Realschule I. Ordnung (i.e. Gymnasium) in Rawitsch, Posen, final examination 1878, studied at the universities of Berlin and Breslau (natural sciences), scientific state examination 1884, teaching at the gymnasium of Reichenbach, Schlesien 1884-1885, full teacher at the Royal Gymnasium at Königshütte O./S., Dr. phil. Univ. Breslau 15 Feb 1888. 
+**Abbreviated name**: *A. Breitf.*
 
 #### Herbarium and types
 

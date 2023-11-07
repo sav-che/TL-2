@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103860#page/285/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265952) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collins, James Franklin (1863-1940), American botanist, born in North Anson, Maine, moved 1873 with his family to Providence, R.I., educated at graduate and high school there, became a silver worker, designer and embosser at the Gorham Manufacturing Company in Providence 1879-1898, curator of the Olney Herbarium at Brown University 1894-1911, from 1899 instructor in botany, assistant professor 1905, head of department 1906-1911, Ph.B. hon. Brown Univ. 1911 (*J.F. Collins*).
+Collins, James Franklin (1863-1940), American botanist, born in North Anson, Maine, moved 1873 with his family to Providence, R.I., educated at graduate and high school there, became a silver worker, designer and embosser at the Gorham Manufacturing Company in Providence 1879-1898, curator of the Olney Herbarium at Brown University 1894-1911, from 1899 instructor in botany, assistant professor 1905, head of department 1906-1911, Ph.B. hon. Brown Univ. 1911 
+**Abbreviated name**: *J.F. Collins*
 
 #### Herbarium and types
 

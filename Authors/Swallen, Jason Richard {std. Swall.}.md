@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103683#page/122/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33212154) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swallen, Jason Richard (1903-x), American botanist; M.S. Kansas State Agr. Coll. 1925; assistant in botany Kansas State College 1924-1925; with USDA Bureau of Plant Industry 1925-1936 (junior bot.), 1936-1943 (assoc. bot.), 1943-1945 (agr. prod. officer), 1945-1946 (botanist); associate curator Smithsonian Inst. 1946-1947, curator div. Grasses 1947-1950, head dept. bot. 1950-1964, retired in Florida. (*Swall.*).
+Swallen, Jason Richard (1903-x), American botanist; M.S. Kansas State Agr. Coll. 1925; assistant in botany Kansas State College 1924-1925; with USDA Bureau of Plant Industry 1925-1936 (junior bot.), 1936-1943 (assoc. bot.), 1943-1945 (agr. prod. officer), 1945-1946 (botanist); associate curator Smithsonian Inst. 1946-1947, curator div. Grasses 1947-1950, head dept. bot. 1950-1964, retired in Florida. 
+**Abbreviated name**: *Swall.*
 
 #### Herbarium and types
 

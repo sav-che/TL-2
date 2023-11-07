@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/item/104077#page/886/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33334011) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steiger, Rudolf (1823-1908), Moravian botanist and administrator at Klobouk and Brünn (Brno). (*R. Steiger*).
+Steiger, Rudolf (1823-1908), Moravian botanist and administrator at Klobouk and Brünn (Brno). 
+**Abbreviated name**: *R. Steiger*
 
 #### Herbarium and types
 

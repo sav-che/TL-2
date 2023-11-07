@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103835#page/244/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33260222) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-East, Edward Murray (1879-1938), American botanist, morphologist and geneticist, born 4 Oct 1879, Du Quoin, Ill., B.S. University of Illinois 1900, M.S. 1904 and PhD. 1907, asst. chemist Illinois Experiment Station 1900-1903, agronomist Connecticut Experiment Station 1905-1909, asst. prof. experimental plant morphology Harvard 1909-1914, prof. 1914-1926, prof. in genetics from 1926, died 9 Nov 1938 at Boston, Mass. (*East*).
+East, Edward Murray (1879-1938), American botanist, morphologist and geneticist, born 4 Oct 1879, Du Quoin, Ill., B.S. University of Illinois 1900, M.S. 1904 and PhD. 1907, asst. chemist Illinois Experiment Station 1900-1903, agronomist Connecticut Experiment Station 1905-1909, asst. prof. experimental plant morphology Harvard 1909-1914, prof. 1914-1926, prof. in genetics from 1926, died 9 Nov 1938 at Boston, Mass. 
+**Abbreviated name**: *East*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/103253#page/439/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33068655) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaczewski, Arthur Louis Arthurovic de (1863-1932), Russian mycologist and phytopathologist at St. Petersburg, Petrograd and Leningrad. (*Jacz.*).
+Jaczewski, Arthur Louis Arthurovic de (1863-1932), Russian mycologist and phytopathologist at St. Petersburg, Petrograd and Leningrad. 
+**Abbreviated name**: *Jacz.*
 
 #### Herbarium and types
 

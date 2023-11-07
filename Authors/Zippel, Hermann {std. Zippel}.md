@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/item/103250#page/605/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33066885) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zippel, Hermann (*fl*. 1879-1885), German high school teacher and botanist at Gera. (*Zippel*).
+Zippel, Hermann (*fl*. 1879-1885), German high school teacher and botanist at Gera. 
+**Abbreviated name**: *Zippel*
 
 #### Herbarium and types
 

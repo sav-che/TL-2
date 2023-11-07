@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103858#page/337/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bargagli-Petrucci, Gino (1878-?), Italian botanist, acting director of the Giardino dei Semplici, Firenze 1919-1922. (*Bargagli-Petrucci*).
+Bargagli-Petrucci, Gino (1878-?), Italian botanist, acting director of the Giardino dei Semplici, Firenze 1919-1922. 
+**Abbreviated name**: *Bargagli-Petrucci*
 
 #### Herbarium and types
 

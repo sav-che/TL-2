@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/item/103414#page/649/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davall, Edmund (1763-1798), English botanist who settled in Switzerland and became an inspector of forests. Entertained correspondence with J. E. Smith. (*Davall*).
+Davall, Edmund (1763-1798), English botanist who settled in Switzerland and became an inspector of forests. Entertained correspondence with J. E. Smith. 
+**Abbreviated name**: *Davall*
 
 #### Herbarium and types
 

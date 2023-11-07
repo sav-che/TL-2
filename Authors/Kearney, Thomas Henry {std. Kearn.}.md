@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/item/103253#page/536/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kearney, Thomas Henry (1874-1956), American botanist at the Bureau for Plant Industry; in various functions at USDA 1894-1914; cotton breeder; explorer; from 1944 at CAS. (*Kearn.*).
+Kearney, Thomas Henry (1874-1956), American botanist at the Bureau for Plant Industry; in various functions at USDA 1894-1914; cotton breeder; explorer; from 1944 at CAS. 
+**Abbreviated name**: *Kearn.*
 
 #### Herbarium and types
 

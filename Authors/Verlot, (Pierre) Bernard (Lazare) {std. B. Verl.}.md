@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/item/103683#page/721/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33212753) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Verlot, \[Pierre\] Bernard \[Lazare\] (1836-1897), French horticulturist, gardener at the Jardin botanique d'Orléans 1853; at the École de botanique du Muséum d'Histoire naturelle, Paris 1855; later in charge of the horticultural establishment of Vilmorin-Andrieux at Verrières-de-Buisson with H. de Vilmorin; sometime lecturer in floriculture at the École nationale d'Horticulture, Versailles. (*B. Verl.*).
+Verlot, \[Pierre\] Bernard \[Lazare\] (1836-1897), French horticulturist, gardener at the Jardin botanique d'Orléans 1853; at the École de botanique du Muséum d'Histoire naturelle, Paris 1855; later in charge of the horticultural establishment of Vilmorin-Andrieux at Verrières-de-Buisson with H. de Vilmorin; sometime lecturer in floriculture at the École nationale d'Horticulture, Versailles. 
+**Abbreviated name**: *B. Verl.*
 
 #### Herbarium and types
 

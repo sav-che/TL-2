@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/104137#page/317/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33355388) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marnac, Émile (1853-1929), French botanist (*Marnac*).
+Marnac, Émile (1853-1929), French botanist 
+**Abbreviated name**: *Marnac*
 
 #### Herbarium and types
 

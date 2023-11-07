@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/item/104077#page/521/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Senft, \[Philipp\] Emanuel (1870-1922), Austrian (Bohemia-born) botanist (lichenologist) and pharmacist; army pharmacist 1896; military pharmacist at the Josefinum, Wien, 1908; "Oberinspector" of the "k.k. landwirtschaftlich-chemischen Versuchsstation", Wien, from 1913. (*E. Senft*).
+Senft, \[Philipp\] Emanuel (1870-1922), Austrian (Bohemia-born) botanist (lichenologist) and pharmacist; army pharmacist 1896; military pharmacist at the Josefinum, Wien, 1908; "Oberinspector" of the "k.k. landwirtschaftlich-chemischen Versuchsstation", Wien, from 1913. 
+**Abbreviated name**: *E. Senft*
 
 #### Herbarium and types
 

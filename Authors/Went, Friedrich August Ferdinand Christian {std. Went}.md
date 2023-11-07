@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103250#page/245/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33066525) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Went, Friedrich August Ferdinand Christian (1863-1935), Dutch botanist; studied at the University of Amsterdam with Hugo de Vries; Dr. phil. 1886; high school teacher at Dordrecht (1888) and 's Gravenhage 1889-1891, also visiting the Naples Zoological Station (1888) and Land's Plantentuin at Buitenzorg (Bogor); director of the Sugar Experiment Station Western Java at Kagok near Tegel 1891-1896; professor of botany and director of the botanical garden at the University of Utrecht 1896-1934; extraordinary professor of botany at Leiden 1934-1935; founder of the Utrecht Botanical School; travelled in Suriname 1901-1902, 1923, and Curaçao (1901). (*Went*).
+Went, Friedrich August Ferdinand Christian (1863-1935), Dutch botanist; studied at the University of Amsterdam with Hugo de Vries; Dr. phil. 1886; high school teacher at Dordrecht (1888) and 's Gravenhage 1889-1891, also visiting the Naples Zoological Station (1888) and Land's Plantentuin at Buitenzorg (Bogor); director of the Sugar Experiment Station Western Java at Kagok near Tegel 1891-1896; professor of botany and director of the botanical garden at the University of Utrecht 1896-1934; extraordinary professor of botany at Leiden 1934-1935; founder of the Utrecht Botanical School; travelled in Suriname 1901-1902, 1923, and Curaçao (1901). 
+**Abbreviated name**: *Went*
 
 #### Herbarium and types
 

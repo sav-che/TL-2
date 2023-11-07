@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/item/103414#page/685/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33120768) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[De Toni, Giovanni Batista {std. De Toni} (Suppl.)|second entry]] for this author
 
 ### Author
 
-De Toni, Giovanni Batista (1864-1924), Italian phycologist. (*De Toni*).
+De Toni, Giovanni Batista (1864-1924), Italian phycologist. 
+**Abbreviated name**: *De Toni*
 
 #### Herbarium and types
 

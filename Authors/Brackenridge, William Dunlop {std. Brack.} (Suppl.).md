@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103861#page/12/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brackenridge, William Dunlop {std. Brack.}|first entry]] for this author
 
 ### Author
 
-\* Brackenridge, William Dunlop (1810-1893), Scottish born horticulturist and botanist, settled in America ca. 1837, joined the Wilkes U.S. Exploring Expedition 1838-1842, charged with the living plants collected by the expedition, 1842-1854 at Washington D.C. (until 1852 horticulturist at the U.S. Bot. Garden), settled in Baltimore 1855 as floriculturist and garden architect. (*Brack.*).
+\* Brackenridge, William Dunlop (1810-1893), Scottish born horticulturist and botanist, settled in America ca. 1837, joined the Wilkes U.S. Exploring Expedition 1838-1842, charged with the living plants collected by the expedition, 1842-1854 at Washington D.C. (until 1852 horticulturist at the U.S. Bot. Garden), settled in Baltimore 1855 as floriculturist and garden architect. 
+**Abbreviated name**: *Brack.*
 
 #### Herbarium and types
 

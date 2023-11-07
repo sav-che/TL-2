@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/item/104137#page/615/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moseley, Edwin Lincoln (1865-1948), American botanist and teacher at Sandusky high school, Ohio. (*E. Moseley*).
+Moseley, Edwin Lincoln (1865-1948), American botanist and teacher at Sandusky high school, Ohio. 
+**Abbreviated name**: *E. Moseley*
 
 #### Herbarium and types
 

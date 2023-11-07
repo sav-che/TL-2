@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103414#page/262/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33120345) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bigsby, John Jeremiah {std. Bigsby} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bigsby, John Jeremiah (1792-1881), British military physician and palaeobotanist who worked in Canada. (*Bigsby*).
+Bigsby, John Jeremiah (1792-1881), British military physician and palaeobotanist who worked in Canada. 
+**Abbreviated name**: *Bigsby*
 
 #### Collections
 

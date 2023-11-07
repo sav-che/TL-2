@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/item/103253#page/677/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33068893) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Korshinsky \[Koržinskij\], Sergei Iwanowitsch (1861-1900), Russian botanist; Dr. Phil. Kasan 1888, professor of botany at Tomsk 1888-1892, botanist at the botanical garden in St. Petersburg 1892-1900; traveller in Siberia and Turkestan; outstanding plant geographer. (*Korshinsky*).
+Korshinsky \[Koržinskij\], Sergei Iwanowitsch (1861-1900), Russian botanist; Dr. Phil. Kasan 1888, professor of botany at Tomsk 1888-1892, botanist at the botanical garden in St. Petersburg 1892-1900; traveller in Siberia and Turkestan; outstanding plant geographer. 
+**Abbreviated name**: *Korshinsky*
 
 #### Herbarium and types
 

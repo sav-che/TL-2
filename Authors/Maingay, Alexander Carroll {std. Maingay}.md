@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/104137#page/272/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33355343) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maingay, Alexander Carroll (1836-1869), British physician and botanist in the Indian medical service; died at Rangoon, 14 Nov 1869, in an attempt to stop a prison mutiny. (*Maingay*).
+Maingay, Alexander Carroll (1836-1869), British physician and botanist in the Indian medical service; died at Rangoon, 14 Nov 1869, in an attempt to stop a prison mutiny. 
+**Abbreviated name**: *Maingay*
 
 #### Herbarium and types
 

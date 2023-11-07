@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/103683#page/756/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33212788) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vilmorin, \[Joseph Marie\] Philippe \[Levêque\] de (1872-1917), French botanist, geneticist and horticulturist; son of Henry de Vilmorin, fifth head of "Vilmorin-Andrieux et Cie". 1899-1917. (*Ph. Vilm.*).
+Vilmorin, \[Joseph Marie\] Philippe \[Levêque\] de (1872-1917), French botanist, geneticist and horticulturist; son of Henry de Vilmorin, fifth head of "Vilmorin-Andrieux et Cie". 1899-1917. 
+**Abbreviated name**: *Ph. Vilm.*
 
 #### Herbarium and types
 

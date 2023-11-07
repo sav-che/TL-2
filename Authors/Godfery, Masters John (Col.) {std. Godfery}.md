@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/103832#page/264/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33258730) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Godfery, Masters John (Col.) (1856-1945), British soldier and botanist (authority on British and European orchids), R.A.S.C., F.L.S. 1915, died 8 Apr 1945 in Torquay (Devon.). (*Godfery*).
+Godfery, Masters John (Col.) (1856-1945), British soldier and botanist (authority on British and European orchids), R.A.S.C., F.L.S. 1915, died 8 Apr 1945 in Torquay (Devon.). 
+**Abbreviated name**: *Godfery*
 
 #### Note
 

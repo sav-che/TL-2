@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/item/103414#page/1022/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33121105) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gottsche, Carl (Karl) Moritz {std. Gottsche} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gottsche, Carl Moritz (1808-1892), German bryologist, physician at Altona. (*Gottsche*).
+Gottsche, Carl Moritz (1808-1892), German bryologist, physician at Altona. 
+**Abbreviated name**: *Gottsche*
 
 #### Herbarium and types
 

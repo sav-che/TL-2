@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103253#page/42/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33068258) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Halácsy, Eugen von \[Eugène de\] (1842-1913), Austrian botanist of Hungarian descent, from 1859 in Wien; Dr. med. Wien 1865; practising physician 1865-1896; from 1896 part time medical consultant for an insurance company; Dr. phil. h.c. Athens 1912; 1899 Kaiserlicher Rat, 1913 Regierungsrat; explorer of the Greek flora. (*Halácsy*).
+Halácsy, Eugen von \[Eugène de\] (1842-1913), Austrian botanist of Hungarian descent, from 1859 in Wien; Dr. med. Wien 1865; practising physician 1865-1896; from 1896 part time medical consultant for an insurance company; Dr. phil. h.c. Athens 1912; 1899 Kaiserlicher Rat, 1913 Regierungsrat; explorer of the Greek flora. 
+**Abbreviated name**: *Halácsy*
 
 #### Herbarium and types
 

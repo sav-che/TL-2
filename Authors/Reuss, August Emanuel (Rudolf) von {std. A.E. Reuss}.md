@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/103624#page/753/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33190210) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reuss, August Emanuel \[Rudolf\] von (1811-1873), Bohemian physician, botanist, mineralogist and palaeontologist; Dr. med. Praha 1833; physician at Bilin 1834-1849; professor of mineralogy and geology at Praha 1849-1863; professor of mineralogy at the University, Wien 1863-1873. (*A.E. Reuss*).
+Reuss, August Emanuel \[Rudolf\] von (1811-1873), Bohemian physician, botanist, mineralogist and palaeontologist; Dr. med. Praha 1833; physician at Bilin 1834-1849; professor of mineralogy and geology at Praha 1849-1863; professor of mineralogy at the University, Wien 1863-1873. 
+**Abbreviated name**: *A.E. Reuss*
 
 #### Herbarium and types
 

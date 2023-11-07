@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103253#page/449/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Janczewski, Eduard von Glinka (1846-1918), Polish-Austrian botanist. (*Jancz.*).
+Janczewski, Eduard von Glinka (1846-1918), Polish-Austrian botanist. 
+**Abbreviated name**: *Jancz.*
 
 #### Herbarium and types
 

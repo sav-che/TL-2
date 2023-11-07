@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/item/103414#page/902/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forrest, George (1873-1932), British traveller and plant collector in China (1904-1952). (*Forrest*).
+Forrest, George (1873-1932), British traveller and plant collector in China (1904-1952). 
+**Abbreviated name**: *Forrest*
 
 #### Herbarium and types
 

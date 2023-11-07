@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103833#page/21/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33259055) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dahl, Ove \[Christian\] (1862-1940), Norwegian botanist, born at Orkdalsøra, in the Orkedal, studied at the University of Kristiania (Oslo) 1880, cand. mag. 1886, at Trondheim Botanical Museum of the University, later at Oslo as curator. (*O.C. Dahl*).
+Dahl, Ove \[Christian\] (1862-1940), Norwegian botanist, born at Orkdalsøra, in the Orkedal, studied at the University of Kristiania (Oslo) 1880, cand. mag. 1886, at Trondheim Botanical Museum of the University, later at Oslo as curator. 
+**Abbreviated name**: *O.C. Dahl*
 
 #### Herbarium and types
 

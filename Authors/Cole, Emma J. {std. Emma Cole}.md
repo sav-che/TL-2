@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103860#page/273/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33265940) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cole, Emma J. (1845-1910), American botanist and teacher, born in Milan, Ohio, soon moved to Michigan, attending schools in the Grand Rapids area, at Cornell University 1876-1879, studied botany under F.S. Burgess at Martha's Vineyard and W.W. Rowlee, teacher 1881-1907 at Central High School. (*Emma Cole*).
+Cole, Emma J. (1845-1910), American botanist and teacher, born in Milan, Ohio, soon moved to Michigan, attending schools in the Grand Rapids area, at Cornell University 1876-1879, studied botany under F.S. Burgess at Martha's Vineyard and W.W. Rowlee, teacher 1881-1907 at Central High School. 
+**Abbreviated name**: *Emma Cole*
 
 #### Herbarium and types
 

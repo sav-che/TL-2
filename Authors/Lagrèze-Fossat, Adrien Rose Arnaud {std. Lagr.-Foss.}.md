@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/item/103253#page/750/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33068966) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lagrèze-Fossat, Adrien Rose Arnaud (1814-1874), French lawyer and botanist at Moissac. (*Lagr.-Foss.*).
+Lagrèze-Fossat, Adrien Rose Arnaud (1814-1874), French lawyer and botanist at Moissac. 
+**Abbreviated name**: *Lagr.-Foss.*
 
 #### Herbarium and types
 

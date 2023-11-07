@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103624#page/459/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Purdie, William (c. 1817-1857), Scottish gardener and plant collector; originally with Roy. Bot. Gard. Edinburgh; from 1846-1857 superintendent, Botanic Gardens, Trinidad. (*Purdie*).
+Purdie, William (c. 1817-1857), Scottish gardener and plant collector; originally with Roy. Bot. Gard. Edinburgh; from 1846-1857 superintendent, Botanic Gardens, Trinidad. 
+**Abbreviated name**: *Purdie*
 
 #### Herbarium and types
 

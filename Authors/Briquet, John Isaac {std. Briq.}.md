@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103414#page/375/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33120458) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Briquet, John Isaac {std. Briq.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Briquet, John Isaac (1870-1931), Swiss botanist at Genève, rapporteur-général for botanical nomenclature 1900-1931. (*Briq.*).
+Briquet, John Isaac (1870-1931), Swiss botanist at Genève, rapporteur-général for botanical nomenclature 1900-1931. 
+**Abbreviated name**: *Briq.*
 
 #### Herbarium and types
 

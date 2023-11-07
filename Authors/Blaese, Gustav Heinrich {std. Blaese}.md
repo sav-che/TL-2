@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103859#page/200/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265387) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blaese, Gustav Heinrich (fl. 1868), Latvian botanist, highschool teacher at Mitau ca. 1861, later privy cancellor in Riga. (*Blaese*).
+Blaese, Gustav Heinrich (fl. 1868), Latvian botanist, highschool teacher at Mitau ca. 1861, later privy cancellor in Riga. 
+**Abbreviated name**: *Blaese*
 
 #### Herbarium and types
 

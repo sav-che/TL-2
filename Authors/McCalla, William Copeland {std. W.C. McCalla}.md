@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/104137#page/228/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McCalla, William Copeland (1872-1962), Canadian teacher, botanist and farmer; from 1922-1925 librarian at Edmonton Normal School; from 1925-1938 teaching natural history at the Normal School of Calgary; LL. D. h.c. Univ. Alberta 1956. (*W. C. McCalla*).
+McCalla, William Copeland (1872-1962), Canadian teacher, botanist and farmer; from 1922-1925 librarian at Edmonton Normal School; from 1925-1938 teaching natural history at the Normal School of Calgary; LL. D. h.c. Univ. Alberta 1956. 
+**Abbreviated name**: *W. C. McCalla*
 
 #### Herbarium and types
 

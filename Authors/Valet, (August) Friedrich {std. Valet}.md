@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/item/103683#page/658/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33212690) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Valet, \[August\] Friedrich (1811-1889), German (Swabian) pharmacist and botanist; studied pharmacy in the Gmelin pharmacy in Ulm (Langenau), pharm. state exam. Tübingen 1837; in charge of several Swabian pharmacies; ultimately owner of the Schussenried pharmacy 1845-1876. (*Valet*).
+Valet, \[August\] Friedrich (1811-1889), German (Swabian) pharmacist and botanist; studied pharmacy in the Gmelin pharmacy in Ulm (Langenau), pharm. state exam. Tübingen 1837; in charge of several Swabian pharmacies; ultimately owner of the Schussenried pharmacy 1845-1876. 
+**Abbreviated name**: *Valet*
 
 #### Herbarium and types
 

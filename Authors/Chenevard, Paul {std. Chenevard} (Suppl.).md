@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103860#page/88/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chenevard, Paul {std. Chenevard}|first entry]] for this author
 
 ### Author
 
-\* Chenevard, Paul (1839-1919), Swiss (Genève born) botanist and businessman, educated at the Collège classique de Genève, from 1861-1901 in charge of a small ware shop (haberdashery) succeeding his parents as such, travelled for his shop combined with his botanical interests from 1868 especially in Ticino and in general in the Alps. (*Chenevard*).
+\* Chenevard, Paul (1839-1919), Swiss (Genève born) botanist and businessman, educated at the Collège classique de Genève, from 1861-1901 in charge of a small ware shop (haberdashery) succeeding his parents as such, travelled for his shop combined with his botanical interests from 1868 especially in Ticino and in general in the Alps. 
+**Abbreviated name**: *Chenevard*
 
 #### Herbarium and types
 

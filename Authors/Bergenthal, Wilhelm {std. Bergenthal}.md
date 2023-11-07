@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/item/103859#page/98/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33265285) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergenthal, Wilhelm (1907-x), German forestry scientist, born in Stralsund (21 Jun), educated at the Hindenburg-Realgymnasium, Trier, studied at the Universities of Freiburg i. Br. and Munich 1927-1928, practical apprenticeship at the Forestry School at Hannover-Münden 1929-1930, "Staatsforstreferendar" 1932 in Berlin, Dr. forestry science at Hann.-Münden 22 Jun 1933. (*Bergenthal*).
+Bergenthal, Wilhelm (1907-x), German forestry scientist, born in Stralsund (21 Jun), educated at the Hindenburg-Realgymnasium, Trier, studied at the Universities of Freiburg i. Br. and Munich 1927-1928, practical apprenticeship at the Forestry School at Hannover-Münden 1929-1930, "Staatsforstreferendar" 1932 in Berlin, Dr. forestry science at Hann.-Münden 22 Jun 1933. 
+**Abbreviated name**: *Bergenthal*
 
 #### Herbarium and types
 

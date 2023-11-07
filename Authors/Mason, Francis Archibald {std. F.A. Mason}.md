@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/104137#page/365/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mason, Francis Archibald (1878-1936), British professional chemist and naturalist; director of the biological laboratories of Murphy and Co., Headingley, Leeds. (*F. Mason*).
+Mason, Francis Archibald (1878-1936), British professional chemist and naturalist; director of the biological laboratories of Murphy and Co., Headingley, Leeds. 
+**Abbreviated name**: *F. Mason*
 
 #### Herbarium and types
 

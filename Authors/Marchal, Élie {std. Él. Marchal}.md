@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/104137#page/303/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33355374) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marchal, Élie (1839-1923), Belgian botanist; middle school teacher at Virton, Ath and Visé, and Maeseyck, 1861-1871; at the Jardin botanique de Bruxelles 1871-1879; from 1872-1899 in addition lecturer at various horticultural and teacher's colleges; retired at Gembloux from 1899 to co-operate with his son Émile. (*Él. Marchal*).
+Marchal, Élie (1839-1923), Belgian botanist; middle school teacher at Virton, Ath and Visé, and Maeseyck, 1861-1871; at the Jardin botanique de Bruxelles 1871-1879; from 1872-1899 in addition lecturer at various horticultural and teacher's colleges; retired at Gembloux from 1899 to co-operate with his son Émile. 
+**Abbreviated name**: *Él. Marchal*
 
 #### Herbarium and types
 

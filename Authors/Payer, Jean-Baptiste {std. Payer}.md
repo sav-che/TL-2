@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103624#page/139/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33189596) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Payer, Jean-Baptiste (1818-1860), French botanist; Dr. sci. nat. Paris 1840, Dr. med. Paris 1852; teacher at the École normale, and, from 1852, at the Faculté de Médecine, Paris; in politics and administration 1848-1851. (*Payer*).
+Payer, Jean-Baptiste (1818-1860), French botanist; Dr. sci. nat. Paris 1840, Dr. med. Paris 1852; teacher at the École normale, and, from 1852, at the Faculté de Médecine, Paris; in politics and administration 1848-1851. 
+**Abbreviated name**: *Payer*
 
 #### Herbarium and types
 

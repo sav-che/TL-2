@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/item/104077#page/689/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Henry (*fl*. 1857), Superintendent of the Government Press, Madras. (*He. Sm., Madras*).
+Smith, Henry (*fl*. 1857), Superintendent of the Government Press, Madras. 
+**Abbreviated name**: *He. Sm., Madras*
 
 #### Herbarium and types
 

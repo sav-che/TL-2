@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103859#page/390/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33265577) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bouillat, Maurice E. (fl. 1928), French military pharmacist active in the Paris hospitals and lieutenant of the French Colonial forces. (*Bouillat*).
+Bouillat, Maurice E. (fl. 1928), French military pharmacist active in the Paris hospitals and lieutenant of the French Colonial forces. 
+**Abbreviated name**: *Bouillat*
 
 #### Herbarium and types
 

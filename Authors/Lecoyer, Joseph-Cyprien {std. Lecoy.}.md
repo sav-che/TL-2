@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/item/103253#page/831/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33069047) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lecoyer, Joseph-Cyprien (1835-1899), Belgian botanist; high school teacher at Neufchâteau, Wavre and Ath; retired at Beauwelz. (*Lecoy.*).
+Lecoyer, Joseph-Cyprien (1835-1899), Belgian botanist; high school teacher at Neufchâteau, Wavre and Ath; retired at Beauwelz. 
+**Abbreviated name**: *Lecoy.*
 
 #### Herbarium and types
 

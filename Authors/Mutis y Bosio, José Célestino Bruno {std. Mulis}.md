@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/item/104137#page/692/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33355763) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mutis y Bosio, José Célestino Bruno (1732-1808), Spanish physician and botanist at Madrid; went to New Granada in 1750, discovered *Cinchona*; director of the *Expedición botánica* and its flora; founder of the first astronomical observatory in South America; subsequently professor of mathematics at Santa-Fé de Bogota; founder of a botanic garden and ultimately clergyman at Santa Fé. (*Mulis*).
+Mutis y Bosio, José Célestino Bruno (1732-1808), Spanish physician and botanist at Madrid; went to New Granada in 1750, discovered *Cinchona*; director of the *Expedición botánica* and its flora; founder of the first astronomical observatory in South America; subsequently professor of mathematics at Santa-Fé de Bogota; founder of a botanic garden and ultimately clergyman at Santa Fé. 
+**Abbreviated name**: *Mulis*
 
 #### Herbarium and types
 

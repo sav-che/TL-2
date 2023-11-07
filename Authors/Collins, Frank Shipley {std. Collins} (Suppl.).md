@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103860#page/281/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265948) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Collins, Frank Shipley {std. Collins}|first entry]] for this author
 
 ### Author
 
-\* Collins, Frank Shipley (1848-1920), American businessman and algologist, born in Boston, Massachusetts, graduated from high school 1863, followed a business career 1864-1913 at Malden, Massachusetts. (*Collins*).
+\* Collins, Frank Shipley (1848-1920), American businessman and algologist, born in Boston, Massachusetts, graduated from high school 1863, followed a business career 1864-1913 at Malden, Massachusetts. 
+**Abbreviated name**: *Collins*
 
 #### Herbarium and types
 

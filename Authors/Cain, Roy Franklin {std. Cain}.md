@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103414#page/472/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cain, Roy Franklin {std. Cain} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cain, Roy Franklin (1906-x), Canadian mycologist, educated at Toronto. (*Cain*).
+Cain, Roy Franklin (1906-x), Canadian mycologist, educated at Toronto. 
+**Abbreviated name**: *Cain*
 
 #### Herbarium and types
 

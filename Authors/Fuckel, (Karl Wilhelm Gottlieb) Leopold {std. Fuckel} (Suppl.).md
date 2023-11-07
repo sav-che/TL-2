@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103832#page/83/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33258549) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fuckel, Karl Wilhelm Gottlieb Leopold {std. Fuckel}|first entry]] for this author
 
 ### Author
 
-\* Fuckel, \[Karl Wilhelm Gottlieb\] Leopold (1821-1876), German pharmacist and mycologist, born 3 Feb 1821 in Reichelsheim (Hessen-Nassau), owned a pharmacy in Oestrich (Rheingau), died 8 Mai \[Mar?\] 1876 in Vienna of typhus on his way back from a trip to Italy. (*Fuckel*).
+\* Fuckel, \[Karl Wilhelm Gottlieb\] Leopold (1821-1876), German pharmacist and mycologist, born 3 Feb 1821 in Reichelsheim (Hessen-Nassau), owned a pharmacy in Oestrich (Rheingau), died 8 Mai \[Mar?\] 1876 in Vienna of typhus on his way back from a trip to Italy. 
+**Abbreviated name**: *Fuckel*
 
 #### Herbarium and types
 

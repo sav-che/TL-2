@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103253#page/252/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33068468) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Höeg, Ove Arbo (1898-x), Norwegian palaeo- and ethno-botanist, at Trondhjems Museum (1926-1947); professor of botany at Oslo (1947-1968); specialist on the fossil floras of the Arctic and in general on palaeozoic floras. (*Höeg*).
+Höeg, Ove Arbo (1898-x), Norwegian palaeo- and ethno-botanist, at Trondhjems Museum (1926-1947); professor of botany at Oslo (1947-1968); specialist on the fossil floras of the Arctic and in general on palaeozoic floras. 
+**Abbreviated name**: *Höeg*
 
 #### Herbarium and types
 

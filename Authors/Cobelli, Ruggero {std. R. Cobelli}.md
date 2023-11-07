@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103860#page/241/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265908) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cobelli, Ruggero (1838-1921), Italian physician and mycologist, born and died at Rovereto as town-physician, sometime assistant of physiology at the University of Padova, his alma mater. (*R. Cobelli*).
+Cobelli, Ruggero (1838-1921), Italian physician and mycologist, born and died at Rovereto as town-physician, sometime assistant of physiology at the University of Padova, his alma mater. 
+**Abbreviated name**: *R. Cobelli*
 
 #### Herbarium and types
 

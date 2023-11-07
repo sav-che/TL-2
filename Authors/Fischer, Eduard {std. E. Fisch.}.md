@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/item/103414#page/882/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33120965) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fischer, Eduard {std. E. Fisch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fischer, Eduard (1861-1939), Swiss mycologist and phytopathologist, pupil of de Bary. (*E. Fisch.*).
+Fischer, Eduard (1861-1939), Swiss mycologist and phytopathologist, pupil of de Bary. 
+**Abbreviated name**: *E. Fisch.*
 
 #### Herbarium and types
 

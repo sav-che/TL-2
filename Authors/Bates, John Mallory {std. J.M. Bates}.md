@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/item/103858#page/386/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33265101) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bates, John Mallory (1846-1930), American episcopal clergyman, botanist and ornithologist, Trinity College Hartford A.B. 1872, A.M. 1875, graduated at Berkeley Divinity School, Middletown, Conn. 1875; principal highschool Middletown 1873-1874; clergyman from 1876, chaplain and head master Bethany College, Topeka Kansas 1883-1886, later in Nebraska, collecting there ca. 1890-1916. (*J.M. Bates*).
+Bates, John Mallory (1846-1930), American episcopal clergyman, botanist and ornithologist, Trinity College Hartford A.B. 1872, A.M. 1875, graduated at Berkeley Divinity School, Middletown, Conn. 1875; principal highschool Middletown 1873-1874; clergyman from 1876, chaplain and head master Bethany College, Topeka Kansas 1883-1886, later in Nebraska, collecting there ca. 1890-1916. 
+**Abbreviated name**: *J.M. Bates*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/item/103860#page/189/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Claessens, Mlle B. (fl. 1934-1935), Belgian botanist, Docteur en Sciences, collected in the Belgian Congo. (*Claess.*).
+Claessens, Mlle B. (fl. 1934-1935), Belgian botanist, Docteur en Sciences, collected in the Belgian Congo. 
+**Abbreviated name**: *Claess.*
 
 #### Herbarium and types
 

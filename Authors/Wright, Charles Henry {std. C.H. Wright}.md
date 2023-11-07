@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/item/103250#page/526/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33066806) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wright, Charles Henry (1864-1941), British botanist; studied at Oxford University; assistant Kew Herbarium 1884-1908, asst. keeper ib. 1908-1929; asst. examiner in botany, S. Kensington 1899-1901; lecturer in botany 1905-1929. (*C.H. Wright*).
+Wright, Charles Henry (1864-1941), British botanist; studied at Oxford University; assistant Kew Herbarium 1884-1908, asst. keeper ib. 1908-1929; asst. examiner in botany, S. Kensington 1899-1901; lecturer in botany 1905-1929. 
+**Abbreviated name**: *C.H. Wright*
 
 #### Herbarium and types
 

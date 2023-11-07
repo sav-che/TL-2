@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/item/104077#page/835/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33333960) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Squinabol, Senofonte \[Xenofonte\] (1861-?), Italian palaeobotanist; lecturer in palaeobotany and professor of natural history at the technical college of Foggia, later idem at the University of Pavia. (*Squinab.*).
+Squinabol, Senofonte \[Xenofonte\] (1861-?), Italian palaeobotanist; lecturer in palaeobotany and professor of natural history at the technical college of Foggia, later idem at the University of Pavia. 
+**Abbreviated name**: *Squinab.*
 
 #### Herbarium and types
 

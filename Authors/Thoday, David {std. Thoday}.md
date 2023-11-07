@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103683#page/277/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33212309) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thoday, David (1883-1964), British botanist; studied at Cambridge; demonstrator in botany ib. 1909-1911; lecturer in plant physiology, Manchester Univ. 1911-1918; professor of botany, Cape Town (Bolus chair of botany) 1918-1922; id. Bangor 1923-1949; professor of plant physiology Alexandria Univ. 1950-1954; visiting professor Univ. Leeds 1951-1952. (*Thoday*).
+Thoday, David (1883-1964), British botanist; studied at Cambridge; demonstrator in botany ib. 1909-1911; lecturer in plant physiology, Manchester Univ. 1911-1918; professor of botany, Cape Town (Bolus chair of botany) 1918-1922; id. Bangor 1923-1949; professor of plant physiology Alexandria Univ. 1950-1954; visiting professor Univ. Leeds 1951-1952. 
+**Abbreviated name**: *Thoday*
 
 #### Herbarium and types
 

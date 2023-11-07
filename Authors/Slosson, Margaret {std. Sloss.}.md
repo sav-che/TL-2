@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/104077#page/663/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33333788) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Slosson, Margaret (1872-?), American botanist; assistant at The New York Botanical Garden 1911. (*Sloss.*).
+Slosson, Margaret (1872-?), American botanist; assistant at The New York Botanical Garden 1911. 
+**Abbreviated name**: *Sloss.*
 
 #### Herbarium and types
 

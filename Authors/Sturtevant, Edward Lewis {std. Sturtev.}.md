@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/item/103683#page/84/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33212116) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sturtevant, Edward Lewis (1842-1898), American agriculturist and botanist, M.D. Harvard 1866; running an experimental farm with his brother Thomas 1867-1882, breeding Ayrshire cattle; director of the New York State Agricultural Experiment Station at Geneva, N.Y. 1882-1887; private scientist at South Framingham 1887-1898. (*Sturtev.*).
+Sturtevant, Edward Lewis (1842-1898), American agriculturist and botanist, M.D. Harvard 1866; running an experimental farm with his brother Thomas 1867-1882, breeding Ayrshire cattle; director of the New York State Agricultural Experiment Station at Geneva, N.Y. 1882-1887; private scientist at South Framingham 1887-1898. 
+**Abbreviated name**: *Sturtev.*
 
 #### Herbarium and types
 

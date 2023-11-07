@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103834#page/421/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33259903) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Freeman-Mitford, Algernon Bertram ('Bertie') (né Mitford) (1837-1916), English diplomat, writer and garden-lover, born 24 Feb 1837 in London, studied at Eton 1846-1854, afterwards at Oxford (Christ Church), entered the Foreign Office 1858, sent to St. Petersburg, later to Peking (now Beijing) 1865 and Yokohama 1866, retired from diplomatic service 1873, secretary, H.M. Office of Works 1874-1886, inherited a fortune and the name Freeman from a cousin 1886, as well as Batsford Park in the Cotwolds (Gloucs.), thenceforth known as Lord Redesdale, the 1st Baron Redesdale (Northumberland), M.P. 1892-1895, F.L.S. 1896, Victoria Medal of Honour 1904, died 17 Aug 1916 at Batsford Park, he was also a cousin of Algernon Charles Swinburne (1837-1909) and grandfather of the Mitford sisters. (*Mitford*).
+Freeman-Mitford, Algernon Bertram ('Bertie') (né Mitford) (1837-1916), English diplomat, writer and garden-lover, born 24 Feb 1837 in London, studied at Eton 1846-1854, afterwards at Oxford (Christ Church), entered the Foreign Office 1858, sent to St. Petersburg, later to Peking (now Beijing) 1865 and Yokohama 1866, retired from diplomatic service 1873, secretary, H.M. Office of Works 1874-1886, inherited a fortune and the name Freeman from a cousin 1886, as well as Batsford Park in the Cotwolds (Gloucs.), thenceforth known as Lord Redesdale, the 1st Baron Redesdale (Northumberland), M.P. 1892-1895, F.L.S. 1896, Victoria Medal of Honour 1904, died 17 Aug 1916 at Batsford Park, he was also a cousin of Algernon Charles Swinburne (1837-1909) and grandfather of the Mitford sisters. 
+**Abbreviated name**: *Mitford*
 
 #### Herbarium and types
 

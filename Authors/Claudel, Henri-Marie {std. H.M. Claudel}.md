@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103860#page/198/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33265865) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Claudel, Henri-Marie (1865-1909), French industrial and especially paper-manufacturer, born at Docelles (Vosges), lichenologist and archivist of the Département des Vosges and of the mayoralty. (*H.M. Claudel*).
+Claudel, Henri-Marie (1865-1909), French industrial and especially paper-manufacturer, born at Docelles (Vosges), lichenologist and archivist of the Département des Vosges and of the mayoralty. 
+**Abbreviated name**: *H.M. Claudel*
 
 #### Herbarium and types
 

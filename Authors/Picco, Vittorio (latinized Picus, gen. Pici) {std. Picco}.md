@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103624#page/264/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33189721) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Picco, Vittorio (latinized: *Picus*, gen. *Pici*) (*fl*. 1788), Italian botanist and physician at Torino. (*Picco*).
+Picco, Vittorio (latinized: *Picus*, gen. *Pici*) (*fl*. 1788), Italian botanist and physician at Torino. 
+**Abbreviated name**: *Picco*
 
 #### Herbarium and types
 

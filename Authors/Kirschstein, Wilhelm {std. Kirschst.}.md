@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/item/103253#page/580/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33068796) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirschstein, Wilhelm (1863-1946), German mycologist; high school teacher at Rathenow (Havel), later at Berlin-Pankov. (*Kirschst.*).
+Kirschstein, Wilhelm (1863-1946), German mycologist; high school teacher at Rathenow (Havel), later at Berlin-Pankov. 
+**Abbreviated name**: *Kirschst.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103833#page/347/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33259381) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dietrich, Friedrich Gottlieb {std. F. Dietr.}|first entry]] for this author
 
 ### Author
 
-\* Dietrich, Friedrich Gottlieb (1765-1850), German botanist, born 9 Mar in Ziegenhain nr. Jena, accompanied as a youngster Goethe on a trip from Weimar to Karlsbad (1785), who introduced him to Duke Karl August of Weimar who enabled him to study in Jena and to travel to England, became ducal gardener 1792-1801, entitled "Hofgärtner" from 1794, moved to Eisenach in 1807, became "Grosherz. Rath" acquired the degree of Dr. Phil. and was appointed professor of botany, died 2 Jan 1850 at Eisenach. (*F. Dietr.*).
+\* Dietrich, Friedrich Gottlieb (1765-1850), German botanist, born 9 Mar in Ziegenhain nr. Jena, accompanied as a youngster Goethe on a trip from Weimar to Karlsbad (1785), who introduced him to Duke Karl August of Weimar who enabled him to study in Jena and to travel to England, became ducal gardener 1792-1801, entitled "Hofgärtner" from 1794, moved to Eisenach in 1807, became "Grosherz. Rath" acquired the degree of Dr. Phil. and was appointed professor of botany, died 2 Jan 1850 at Eisenach. 
+**Abbreviated name**: *F. Dietr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/103683#page/194/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33212226) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tauscher, Gyula \[Julius August\] (1832-1882), Hungarian physician and plant collector; practicing physician at Ercs and (from 1873) regional physician for the Comitat Alba. (*Tauscher*).
+Tauscher, Gyula \[Julius August\] (1832-1882), Hungarian physician and plant collector; practicing physician at Ercs and (from 1873) regional physician for the Comitat Alba. 
+**Abbreviated name**: *Tauscher*
 
 #### Herbarium and types
 

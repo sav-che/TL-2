@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1003](https://www.biodiversitylibrary.org/item/103624#page/1017/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1003](https://www.biodiversitylibrary.org/page/33190474) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Russell, Anna (née Worsley) (1807-1876), British (English) mycologist at Kenilworth; married Frederick Russell. (*An. Russell*).
+Russell, Anna (née Worsley) (1807-1876), British (English) mycologist at Kenilworth; married Frederick Russell. 
+**Abbreviated name**: *An. Russell*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/item/103414#page/977/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geinitz, Franz Eugen (1854-1925), German geologist, mineralogist and palaeobiologist at Rostock. (*F. E. Geinitz*).
+Geinitz, Franz Eugen (1854-1925), German geologist, mineralogist and palaeobiologist at Rostock. 
+**Abbreviated name**: *F. E. Geinitz*
 
 #### Collections
 

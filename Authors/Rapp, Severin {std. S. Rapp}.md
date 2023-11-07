@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/item/103624#page/595/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33190052) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rapp, Severin (1853-1941), German (Württemberg) shoemaker; emigrated to the United States in 1883; settled at Sanford, Florida 1884; from 1907 interested in botany and an active bryological collector who contributed to exsiccatae issued by A. J. Grout and F. Verdoorn; died in an automobile accident. (*S. Rapp*).
+Rapp, Severin (1853-1941), German (Württemberg) shoemaker; emigrated to the United States in 1883; settled at Sanford, Florida 1884; from 1907 interested in botany and an active bryological collector who contributed to exsiccatae issued by A. J. Grout and F. Verdoorn; died in an automobile accident. 
+**Abbreviated name**: *S. Rapp*
 
 #### Herbarium and types
 

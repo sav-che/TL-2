@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/104077#page/466/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scoffern, John (1814-1882), British physician, botanist and chemist; professor of chemistry at Aldersgate st. college 1840; involved in the Franco-Prussian war 1870-1871; author on chemistry, explosives, sugar-technology, botany and folklore. (*Scoffern*).
+Scoffern, John (1814-1882), British physician, botanist and chemist; professor of chemistry at Aldersgate st. college 1840; involved in the Franco-Prussian war 1870-1871; author on chemistry, explosives, sugar-technology, botany and folklore. 
+**Abbreviated name**: *Scoffern*
 
 #### Herbarium and types
 

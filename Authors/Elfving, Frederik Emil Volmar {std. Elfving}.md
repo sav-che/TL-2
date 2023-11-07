@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/item/103414#page/788/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Elfving, Frederik Emil Volmar {std. Elfving} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Elfving, Frederik Emil Volmar (1854-1942), Finnish botanist. (*Elfving*).
+Elfving, Frederik Emil Volmar (1854-1942), Finnish botanist. 
+**Abbreviated name**: *Elfving*
 
 #### Herbarium and types
 

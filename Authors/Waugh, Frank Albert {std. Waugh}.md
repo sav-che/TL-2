@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103250#page/171/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33066451) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waugh, Frank Albert (1869-1947), American horticulturist; B.S. Kansas State Coll. 1891, B.S. 1893; assistant horticulturist Kansas State College 1891; professor of horticulture Oklahoma Agr. Mech. College 1893-1895; id. Vermont 1895-1902; at Massachusetts State College as professor of horticulture and landscape gardening 1902-1939; emeritus professor id. 1939-1947. (*Waugh*).
+Waugh, Frank Albert (1869-1947), American horticulturist; B.S. Kansas State Coll. 1891, B.S. 1893; assistant horticulturist Kansas State College 1891; professor of horticulture Oklahoma Agr. Mech. College 1893-1895; id. Vermont 1895-1902; at Massachusetts State College as professor of horticulture and landscape gardening 1902-1939; emeritus professor id. 1939-1947. 
+**Abbreviated name**: *Waugh*
 
 #### Herbarium and types
 

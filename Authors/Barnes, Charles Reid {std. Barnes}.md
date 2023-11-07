@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103414#page/171/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barnes, Charles Reid {std. Barnes} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Barnes, Charles Reid (1858-1910), American bryologist. (*Barnes*).
+Barnes, Charles Reid (1858-1910), American bryologist. 
+**Abbreviated name**: *Barnes*
 
 #### Herbarium and types
 

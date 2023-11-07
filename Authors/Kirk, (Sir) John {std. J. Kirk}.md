@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/item/103253#page/576/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33068792) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirk, \[Sir\] John (1832-1922), Scottish colonial administrator, explorer and botanist; mainly active in eastern Africa; M. D. Edinburgh 1854; physician and naturalist on Livingstone's second Zambesi expedition (1858-1863); in Zanzibar 1866-1881, 1883-1887; thence onward in England. (*J. Kirk*).
+Kirk, \[Sir\] John (1832-1922), Scottish colonial administrator, explorer and botanist; mainly active in eastern Africa; M. D. Edinburgh 1854; physician and naturalist on Livingstone's second Zambesi expedition (1858-1863); in Zanzibar 1866-1881, 1883-1887; thence onward in England. 
+**Abbreviated name**: *J. Kirk*
 
 #### Herbarium and types
 

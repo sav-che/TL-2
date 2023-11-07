@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103860#page/232/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33265899) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clokey, Ira Waddell (1878-1950), American botanist, born in Illinois, studied at the Universities of Illinois and Harvard, graduated majoring in mining engineering 1903, mining in Mexico 1903-1915, in Colorado 1915-1920, studied botany at the University of Iowa 1920, master of sciences in plant pathology 1921, active in S. Nevada 1935-1942, died 13 Jan 1950 at his home in South Pasadena. (*Clokey*).
+Clokey, Ira Waddell (1878-1950), American botanist, born in Illinois, studied at the Universities of Illinois and Harvard, graduated majoring in mining engineering 1903, mining in Mexico 1903-1915, in Colorado 1915-1920, studied botany at the University of Iowa 1920, master of sciences in plant pathology 1921, active in S. Nevada 1935-1942, died 13 Jan 1950 at his home in South Pasadena. 
+**Abbreviated name**: *Clokey*
 
 #### Herbarium and types
 

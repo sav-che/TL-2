@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103834#page/210/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33259692) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fink, Bruce {std. Fink}|first entry]] for this author
 
 ### Author
 
-\* Fink, Bruce (1861-1927), American lichenologist who also studied fungi, born 22 Dec 1861 in Blackberry (Kane Co.), Illinois, B.A. 1887 and M.S. 1894 Univ. of Illinois (under T.J. Burrill), A.M. 1896 Harvard Univ., Cambridge, Mass. (under W.G. Farlow), Ph.D. 1899 Univ. of Minnesota, Prof. of Biology, Upper Iowa Univ., Fayette 1892-1903, Prof. of Botany, Grinnell College, Grinnell, Iowa 1903-1906 and Miami Univ., Oxford, Ohio from 1906 until his death, President, Iowa Acad. Sci. 1904 and Ohio Acad. Sci. 1912, died working at his desk on 10 Jul 1927 in Oxford, Ohio. (*Fink*).
+\* Fink, Bruce (1861-1927), American lichenologist who also studied fungi, born 22 Dec 1861 in Blackberry (Kane Co.), Illinois, B.A. 1887 and M.S. 1894 Univ. of Illinois (under T.J. Burrill), A.M. 1896 Harvard Univ., Cambridge, Mass. (under W.G. Farlow), Ph.D. 1899 Univ. of Minnesota, Prof. of Biology, Upper Iowa Univ., Fayette 1892-1903, Prof. of Botany, Grinnell College, Grinnell, Iowa 1903-1906 and Miami Univ., Oxford, Ohio from 1906 until his death, President, Iowa Acad. Sci. 1904 and Ohio Acad. Sci. 1912, died working at his desk on 10 Jul 1927 in Oxford, Ohio. 
+**Abbreviated name**: *Fink*
 
 #### Herbarium and types
 

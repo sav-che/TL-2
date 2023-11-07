@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 632](https://www.biodiversitylibrary.org/item/103683#page/642/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 632](https://www.biodiversitylibrary.org/page/33212674) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vail, Anna Murray (1863-1955), American botanist; received private instruction in Europe, student under N.L. Britton, librarian New York Botanical Garden 1900-1907; living in Paris 1951. (*Vail*).
+Vail, Anna Murray (1863-1955), American botanist; received private instruction in Europe, student under N.L. Britton, librarian New York Botanical Garden 1900-1907; living in Paris 1951. 
+**Abbreviated name**: *Vail*
 
 #### Herbarium and types
 

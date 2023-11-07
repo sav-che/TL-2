@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103253#page/70/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33068286) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Handschuch, Karl Friedrich Gottfried Albert (*fl*. 1832), German physician and botanist. (*Handsch.*).
+Handschuch, Karl Friedrich Gottfried Albert (*fl*. 1832), German physician and botanist. 
+**Abbreviated name**: *Handsch.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103858#page/349/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33265064) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baroni, Eugenio {std. Baroni}|first entry]] for this author
 
 ### Author
 
-\* Baroni, Eugenio (1865-1943), Italian botanist, habil. R. Istituto di Studi superiori, Firenze 1894, acting director Giardino dei Semplici, Firenze 1896-1897, "libero docente" in botany at the Ist. Studi sup., later assistant at the Botanical Garden Firenze (ca. 1905), director of the Istituto ed Orto Botanico dell'Univerità, Ferrara 1922-1930. (*Baroni*).
+\* Baroni, Eugenio (1865-1943), Italian botanist, habil. R. Istituto di Studi superiori, Firenze 1894, acting director Giardino dei Semplici, Firenze 1896-1897, "libero docente" in botany at the Ist. Studi sup., later assistant at the Botanical Garden Firenze (ca. 1905), director of the Istituto ed Orto Botanico dell'Univerità, Ferrara 1922-1930. 
+**Abbreviated name**: *Baroni*
 
 #### Herbarium and types
 

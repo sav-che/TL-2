@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103859#page/110/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33265297) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berkovec \[Berkovcová\], Anna (fl. 1905), Czech botanist at the Insitute of plant physiology of the University of Praha. (*Berkovec*).
+Berkovec \[Berkovcová\], Anna (fl. 1905), Czech botanist at the Insitute of plant physiology of the University of Praha. 
+**Abbreviated name**: *Berkovec*
 
 #### Herbarium and types
 

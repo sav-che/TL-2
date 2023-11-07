@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/item/103253#page/600/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knebel, Gottfried (1908-x), German algologist, Dr. phil. Berlin 1935. (*Knebel*).
+Knebel, Gottfried (1908-x), German algologist, Dr. phil. Berlin 1935. 
+**Abbreviated name**: *Knebel*
 
 #### Herbarium and types
 

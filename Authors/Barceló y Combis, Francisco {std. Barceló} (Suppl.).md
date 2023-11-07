@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/103858#page/334/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265049) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barceló y Combis, Francisco {std. Barceló}|first entry]] for this author
 
 ### Author
 
-\* Barceló y Combis, Francisco (1820-1889), Spanish zoologist and botanist; studied medicine, physics and chemistry, "catedrático" in physics and chemistry at the Instituto Balear. (Palma). (*Barceló*).
+\* Barceló y Combis, Francisco (1820-1889), Spanish zoologist and botanist; studied medicine, physics and chemistry, "catedrático" in physics and chemistry at the Instituto Balear. (Palma). 
+**Abbreviated name**: *Barceló*
 
 #### Herbarium and types
 

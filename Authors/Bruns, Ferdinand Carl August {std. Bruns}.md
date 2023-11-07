@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103861#page/176/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33266473) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bruns, Ferdinand Carl August (1869-?), German (Hamburg born) botanist and teacher, studied at the Hamburg teachers college until 1890, teacher at general schools and the secondary school at the Holstentor, Hamburg, teacher at the German school in Teheran 1908, studied at the University of Hamburg 1921-1928 (botany, zoology and geography), teacher at the Wilhelm-Gymnasium Hamburg 1927, Dr. phil. Hamburg 1929. (*Bruns*).
+Bruns, Ferdinand Carl August (1869-?), German (Hamburg born) botanist and teacher, studied at the Hamburg teachers college until 1890, teacher at general schools and the secondary school at the Holstentor, Hamburg, teacher at the German school in Teheran 1908, studied at the University of Hamburg 1921-1928 (botany, zoology and geography), teacher at the Wilhelm-Gymnasium Hamburg 1927, Dr. phil. Hamburg 1929. 
+**Abbreviated name**: *Bruns*
 
 #### Herbarium and types
 

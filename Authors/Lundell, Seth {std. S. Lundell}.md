@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/104137#page/211/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33355282) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lundell, Seth (1892-1966), Swedish mycologist. (*S. Lundell*).
+Lundell, Seth (1892-1966), Swedish mycologist. 
+**Abbreviated name**: *S. Lundell*
 
 #### Herbarium and types
 

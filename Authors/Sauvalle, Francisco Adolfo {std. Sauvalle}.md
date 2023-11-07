@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/104077#page/93/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33333218) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sauvalle, Francisco Adolfo (1807-1879), United States-born botanist and malacologist of French descent who settled in Cuba 1824 as merchant and industrialist. (*Sauvalle*).
+Sauvalle, Francisco Adolfo (1807-1879), United States-born botanist and malacologist of French descent who settled in Cuba 1824 as merchant and industrialist. 
+**Abbreviated name**: *Sauvalle*
 
 #### Herbarium and types
 

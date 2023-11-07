@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/104137#page/300/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33355371) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mappus, Marcus, fil. (1666-1736), Alsatian botanist at Strasbourg; Dr. med. Strasbourg 1694; son of the botanist Marc (Marcus) Mappus (1632-1701). (*Mappus*).
+Mappus, Marcus, fil. (1666-1736), Alsatian botanist at Strasbourg; Dr. med. Strasbourg 1694; son of the botanist Marc (Marcus) Mappus (1632-1701). 
+**Abbreviated name**: *Mappus*
 
 #### Herbarium and types
 

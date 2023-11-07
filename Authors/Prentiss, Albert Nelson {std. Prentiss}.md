@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103624#page/402/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33189859) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prentiss, Albert Nelson (1836-1896), American botanist; M.S. Lansing, Mich. 1864; associate principal Kalamazoo, Mich, high school 1862-1863; instructor in botany 1863-1864; professor of botany and horticulture from 1865-1868; id. Cornell Univ. 1868-1896. (*Prentiss*).
+Prentiss, Albert Nelson (1836-1896), American botanist; M.S. Lansing, Mich. 1864; associate principal Kalamazoo, Mich, high school 1862-1863; instructor in botany 1863-1864; professor of botany and horticulture from 1865-1868; id. Cornell Univ. 1868-1896. 
+**Abbreviated name**: *Prentiss*
 
 #### Herbarium and types
 

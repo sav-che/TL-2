@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103624#page/25/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33189504) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palanza, Alfonso (1851-1899), Italian botanist and plant collector; sometime private teacher at Napoli; from 1894 high school teacher at the Liceo di Bitonto. (*Palanza*).
+Palanza, Alfonso (1851-1899), Italian botanist and plant collector; sometime private teacher at Napoli; from 1894 high school teacher at the Liceo di Bitonto. 
+**Abbreviated name**: *Palanza*
 
 #### Herbarium and types
 

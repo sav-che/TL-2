@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/item/103414#page/1002/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33121085) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gmelin, Carl (Karl) Christian {std. C.C. Gmelin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gmelin, Carl \[Karl\] Christian (1762-1837), German physician and botanist, professor of natural sciences and director of the botanical garden at Karlsruhe. (*C. C. Gmelin*).
+Gmelin, Carl \[Karl\] Christian (1762-1837), German physician and botanist, professor of natural sciences and director of the botanical garden at Karlsruhe. 
+**Abbreviated name**: *C. C. Gmelin*
 
 #### Herbarium and types
 

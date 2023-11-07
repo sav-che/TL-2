@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103683#page/298/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33212330) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thornier, Franz (1863-1928), Austrian botanist; studied natural sciences in Vienna and Berlin; scientist of private means in Dresden 1887-1902, in Vienna 1903-1920, in Prague (Smichov) 1920-1928; travelled in the Belgian Congo 1896 and 1909. (*Thonner*).
+Thornier, Franz (1863-1928), Austrian botanist; studied natural sciences in Vienna and Berlin; scientist of private means in Dresden 1887-1902, in Vienna 1903-1920, in Prague (Smichov) 1920-1928; travelled in the Belgian Congo 1896 and 1909. 
+**Abbreviated name**: *Thonner*
 
 #### Herbarium and types
 

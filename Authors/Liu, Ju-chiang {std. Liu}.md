@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/104137#page/138/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33355209) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Liu, Ju-ch'iang (1895-x), Chinese botanist (*Liu*).
+Liu, Ju-ch'iang (1895-x), Chinese botanist 
+**Abbreviated name**: *Liu*
 
 #### Herbarium and types
 

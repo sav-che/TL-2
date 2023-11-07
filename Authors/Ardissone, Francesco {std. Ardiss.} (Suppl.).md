@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103858#page/161/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33264876) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ardissone, Francesco {std. Ardiss.}|first entry]] for this author
 
 ### Author
 
-\* Ardissone, Francesco (1837-1910), Italian botanist, science teacher at the R. Scuola Technica di Acireale 1862, from 1863 id. at the Licea di Fano, from 1870 (or 1871)-1910 professor of botany at the Scuola superiore di Agricoltura di Milano as well as director of the Botanical Garden at Brera (Hortus braidensis). (*Ardiss.*).
+\* Ardissone, Francesco (1837-1910), Italian botanist, science teacher at the R. Scuola Technica di Acireale 1862, from 1863 id. at the Licea di Fano, from 1870 (or 1871)-1910 professor of botany at the Scuola superiore di Agricoltura di Milano as well as director of the Botanical Garden at Brera (Hortus braidensis). 
+**Abbreviated name**: *Ardiss.*
 
 #### Herbarium and types
 

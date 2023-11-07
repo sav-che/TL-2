@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103858#page/240/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33264955) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baccarini, Pasquale (1858-1919), Italian botanist, studied at the University of Roma and was assistant at the Botanical Institute, subsequently at Pavia, Avellina, Catania (1891, habil., 1892 director botanical garden), professor of botany at the R. Scuola di viticoltura, ultimately professor of botany and director of the botanical garden in Firenze (*Bacc.*).
+Baccarini, Pasquale (1858-1919), Italian botanist, studied at the University of Roma and was assistant at the Botanical Institute, subsequently at Pavia, Avellina, Catania (1891, habil., 1892 director botanical garden), professor of botany at the R. Scuola di viticoltura, ultimately professor of botany and director of the botanical garden in Firenze 
+**Abbreviated name**: *Bacc.*
 
 #### Herbarium and types
 

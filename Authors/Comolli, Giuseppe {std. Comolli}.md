@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/item/103414#page/581/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33120664) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Comolli, Giuseppe {std. Comolli} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Comolli, Giuseppe (1780-1849), Italian botanist and agronomist at Pavia. (*Comolli*).
+Comolli, Giuseppe (1780-1849), Italian botanist and agronomist at Pavia. 
+**Abbreviated name**: *Comolli*
 
 #### Herbarium and types
 

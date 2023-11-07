@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/104077#page/329/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33333454) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schrader, Christian Friedrich (174.-1816), German (Prussian) botanist and clergyman; at a teacher's college in Halle, pastor at Burg; ultimately first pastor and inspector of schools and churches at Burg in the Jerichow district nr Magdeburg. (*C. Schrad.*).
+Schrader, Christian Friedrich (174.-1816), German (Prussian) botanist and clergyman; at a teacher's college in Halle, pastor at Burg; ultimately first pastor and inspector of schools and churches at Burg in the Jerichow district nr Magdeburg. 
+**Abbreviated name**: *C. Schrad.*
 
 #### Herbarium and types
 

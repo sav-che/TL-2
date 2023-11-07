@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/item/103414#page/862/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33120945) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fassett, Norman Carter {std. Fassett} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fassett, Norman Carter (1900-1954), American botanist at Madison, Wisconsin. (*Fassett*).
+Fassett, Norman Carter (1900-1954), American botanist at Madison, Wisconsin. 
+**Abbreviated name**: *Fassett*
 
 #### Herbarium and types
 

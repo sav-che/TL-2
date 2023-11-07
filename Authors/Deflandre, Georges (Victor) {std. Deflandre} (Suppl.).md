@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103833#page/156/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33259190) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deflandre, Georges (-Victor) {std. Deflandre}|first entry]] for this author
 
 ### Author
 
-\* Deflandre, Georges \[Victor\] (1897-1973), French palaeontologist and algologist at the Museum of Natural History in Paris, born 18 Mar 1897 at Dizy-Magenta near Reims, started studying palaeoprotistology at the University of Paris 1920, 1926 doctor and professor, at Laboratoire de Micropaléontologie École prat. Hautes Études, Paris, died 17 Jun 1973. (*Deflandre*).
+\* Deflandre, Georges \[Victor\] (1897-1973), French palaeontologist and algologist at the Museum of Natural History in Paris, born 18 Mar 1897 at Dizy-Magenta near Reims, started studying palaeoprotistology at the University of Paris 1920, 1926 doctor and professor, at Laboratoire de Micropaléontologie École prat. Hautes Études, Paris, died 17 Jun 1973. 
+**Abbreviated name**: *Deflandre*
 
 #### Collections
 

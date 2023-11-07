@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/item/103861#page/472/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Catcheside, David Guthrie (1907-x), British botanist, studied at the University of London, B.Sc. 1928, M.Sc. 1930, sometime professor of genetics in Adelaide, Australia, later professor in Birmingham, England. (*Catcheside*).
+Catcheside, David Guthrie (1907-x), British botanist, studied at the University of London, B.Sc. 1928, M.Sc. 1930, sometime professor of genetics in Adelaide, Australia, later professor in Birmingham, England. 
+**Abbreviated name**: *Catcheside*
 
 #### Herbarium and types
 

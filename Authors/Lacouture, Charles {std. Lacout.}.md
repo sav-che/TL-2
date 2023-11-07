@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/103253#page/743/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lacouture, Charles (1832-1908), French botanist; teacher of natural sciences at the Collège Saint-Clément de Metz until 1872; later at Dijon. (*Lacout.*).
+Lacouture, Charles (1832-1908), French botanist; teacher of natural sciences at the Collège Saint-Clément de Metz until 1872; later at Dijon. 
+**Abbreviated name**: *Lacout.*
 
 #### Herbarium and types
 

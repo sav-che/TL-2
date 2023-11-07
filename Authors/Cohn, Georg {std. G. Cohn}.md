@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/103860#page/268/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33265935) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cohn, Georg (1873-?), German botanist, "mosaischer Confession", born at Wirsitz, at the Realgymnasium at Bromberg, studied pharmacy at Breslau, botany at the University of Berlin 1896-1899, id. at Erlangen 1899-1901 as student of H. Solederer. (*G. Cohn*).
+Cohn, Georg (1873-?), German botanist, "mosaischer Confession", born at Wirsitz, at the Realgymnasium at Bromberg, studied pharmacy at Breslau, botany at the University of Berlin 1896-1899, id. at Erlangen 1899-1901 as student of H. Solederer. 
+**Abbreviated name**: *G. Cohn*
 
 #### Herbarium and types
 

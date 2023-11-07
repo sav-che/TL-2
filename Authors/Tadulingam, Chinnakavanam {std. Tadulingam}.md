@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103683#page/156/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33212188) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tadulingam, Chinnakavanam (*fl*. 1932), Indian botanist. (*Tadulingam*).
+Tadulingam, Chinnakavanam (*fl*. 1932), Indian botanist. 
+**Abbreviated name**: *Tadulingam*
 
 #### Herbarium and types
 

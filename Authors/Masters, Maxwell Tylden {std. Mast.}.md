@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/item/104137#page/379/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33355450) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Masters, Maxwell Tylden (1833-1907), British physician and botanist; MD. St. Andrews 1862; lecturer, St. George's Hospital, 1855-1868; editor of Gardnener's Chronicle 1865-1907. (*Mast.*).
+Masters, Maxwell Tylden (1833-1907), British physician and botanist; MD. St. Andrews 1862; lecturer, St. George's Hospital, 1855-1868; editor of Gardnener's Chronicle 1865-1907. 
+**Abbreviated name**: *Mast.*
 
 #### Herbarium and types
 

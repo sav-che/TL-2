@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103860#page/521/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Currey, Frederick {std. Curr.}|first entry]] for this author
 
 ### Author
 
-\* Currey, Frederick (1819-1881), British botanist (mycologist), born at Norwood, Surrey, educated at Eton and the Trintity College at Cambridge, B.A. Cambridge 1841, published from 1854 on mycology, F.L.S. 1856, F.R.S. 1858, secretary of the Linnean Society ca. 1860 until 1880, died at Blackheath. (*Curr.*).
+\* Currey, Frederick (1819-1881), British botanist (mycologist), born at Norwood, Surrey, educated at Eton and the Trintity College at Cambridge, B.A. Cambridge 1841, published from 1854 on mycology, F.L.S. 1856, F.R.S. 1858, secretary of the Linnean Society ca. 1860 until 1880, died at Blackheath. 
+**Abbreviated name**: *Curr.*
 
 #### Herbarium and types
 

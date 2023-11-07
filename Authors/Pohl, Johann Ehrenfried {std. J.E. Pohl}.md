@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/item/103624#page/331/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pohl, Johann Ehrenfried (1746-1800), German (Saxonian) physician and botanist; professor of botany at Leipzig; from 1788 royal physician at Dresden. (*J.E. Pohl*).
+Pohl, Johann Ehrenfried (1746-1800), German (Saxonian) physician and botanist; professor of botany at Leipzig; from 1788 royal physician at Dresden. 
+**Abbreviated name**: *J.E. Pohl*
 
 #### Herbarium and types
 

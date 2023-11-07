@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/104077#page/195/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33333320) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schinz, Salomon (1734-1784), Swiss physician and botanist at Zürich; student of Johannes Gessner; Dr. med. Leiden 1756; professor of natural sciences at the Zürich Carolinum; practicing physician and physician to the orphanage; secretary of the Naturforschende Gesellschaft, Zürich 1759-1778. (*S. Schinz*).
+Schinz, Salomon (1734-1784), Swiss physician and botanist at Zürich; student of Johannes Gessner; Dr. med. Leiden 1756; professor of natural sciences at the Zürich Carolinum; practicing physician and physician to the orphanage; secretary of the Naturforschende Gesellschaft, Zürich 1759-1778. 
+**Abbreviated name**: *S. Schinz*
 
 #### Herbarium and types
 

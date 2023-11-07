@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103835#page/343/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33260321) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emerson, Julia Titus (1877-1962), American botanist, born 6 Apr 1877 at New York City, visited College of pharmacy Columbia University 1898, Teachers Coll. ib. 1898-1899, at Woods Hole 1899-1904, also Briarcliff Manor Agric. School 1901 and New York Botanical Garden 1902-1904, 1903-1904 as laboratory assistant, private tutor in botany in 1906, died 1962. (*Emers.*).
+Emerson, Julia Titus (1877-1962), American botanist, born 6 Apr 1877 at New York City, visited College of pharmacy Columbia University 1898, Teachers Coll. ib. 1898-1899, at Woods Hole 1899-1904, also Briarcliff Manor Agric. School 1901 and New York Botanical Garden 1902-1904, 1903-1904 as laboratory assistant, private tutor in botany in 1906, died 1962. 
+**Abbreviated name**: *Emers.*
 
 #### Herbarium and types
 

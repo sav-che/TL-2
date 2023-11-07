@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103414#page/467/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33120550) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bury, Priscilla Susan (Mrs. Edward) (née Falkner) (*fl*. 1831-1837), British botanical artist. (*Bury*).
+Bury, Priscilla Susan (Mrs. Edward) (née Falkner) (*fl*. 1831-1837), British botanical artist. 
+**Abbreviated name**: *Bury*
 
 #### Herbarium and types
 

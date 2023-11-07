@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103833#page/214/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33259248) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deniker, Joseph (1852-1918), Frenchman, born in Astrakan, went to France at an early age, studied natural sciences at the Muséum national d'Histoire naturelle and the Sorbonne, especially interested in anthropology, was appointed librarian at the Muséum because of his knowledge of languages, died 18 Mar 1918, Paris. (*Deniker*).
+Deniker, Joseph (1852-1918), Frenchman, born in Astrakan, went to France at an early age, studied natural sciences at the Muséum national d'Histoire naturelle and the Sorbonne, especially interested in anthropology, was appointed librarian at the Muséum because of his knowledge of languages, died 18 Mar 1918, Paris. 
+**Abbreviated name**: *Deniker*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103835#page/155/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33260133) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Düben, Magnus Wilhelm von (1814-1845), Swedish botanist, born 12 Feb 1814 at Vegeholm i Strövelstorps, Skåne, studied at Lund 1828, fil. doctor 1835, docent in botany 1838, teacher at the Göteborgs gymnasium 1839-1841, adjunkt at the zoology museum at Lund 1843-1845, died 9 Aug 1845 at Lund. (*Düben*).
+Düben, Magnus Wilhelm von (1814-1845), Swedish botanist, born 12 Feb 1814 at Vegeholm i Strövelstorps, Skåne, studied at Lund 1828, fil. doctor 1835, docent in botany 1838, teacher at the Göteborgs gymnasium 1839-1841, adjunkt at the zoology museum at Lund 1843-1845, died 9 Aug 1845 at Lund. 
+**Abbreviated name**: *Düben*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/104137#page/319/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marquart, Friedrich (*fl*. 1842), Moravian surgeon, veterinarian and mycologist, professor of pathology and veterinary control at the University of Olmütz. (*F. Marquart*).
+Marquart, Friedrich (*fl*. 1842), Moravian surgeon, veterinarian and mycologist, professor of pathology and veterinary control at the University of Olmütz. 
+**Abbreviated name**: *F. Marquart*
 
 #### Herbarium and types
 

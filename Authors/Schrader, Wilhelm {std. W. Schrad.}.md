@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/104077#page/335/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33333460) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schrader, Wilhelm (1818-1895), German (Prussian-Saxony) mathematician, botanist and high school teacher; Dr. phil. Halle, teacher at Halle and Erfurt. (*W. Schrad.*).
+Schrader, Wilhelm (1818-1895), German (Prussian-Saxony) mathematician, botanist and high school teacher; Dr. phil. Halle, teacher at Halle and Erfurt. 
+**Abbreviated name**: *W. Schrad.*
 
 #### Herbarium and types
 

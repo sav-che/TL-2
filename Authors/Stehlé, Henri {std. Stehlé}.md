@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/item/104077#page/884/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33334009) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stehlé, Henri (1909-1983), French botanist and agricultural engineer in various functions with the Agricultural Services of Guadeloupe 1934-1940; professor of colonial agronomy and applied botany at the Ecole antillaise d'Agriculture 1940-1946. (*Stehlé*).
+Stehlé, Henri (1909-1983), French botanist and agricultural engineer in various functions with the Agricultural Services of Guadeloupe 1934-1940; professor of colonial agronomy and applied botany at the Ecole antillaise d'Agriculture 1940-1946. 
+**Abbreviated name**: *Stehlé*
 
 #### Herbarium and types
 

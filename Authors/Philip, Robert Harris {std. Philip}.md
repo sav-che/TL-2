@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/103624#page/247/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33189704) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Philip, Robert Harris (1852-1912), British diatomist at Hull. (*Philip*).
+Philip, Robert Harris (1852-1912), British diatomist at Hull. 
+**Abbreviated name**: *Philip*
 
 #### Herbarium and types
 

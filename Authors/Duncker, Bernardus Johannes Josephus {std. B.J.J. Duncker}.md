@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103835#page/180/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33260158) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duncker, Bernardus Johannes Josephus (fl. 1935), born at Amsterdam, studied at Utrecht with F.A.F.C. Went, Dr. in 1935. (*B.J.J. Duncker*).
+Duncker, Bernardus Johannes Josephus (fl. 1935), born at Amsterdam, studied at Utrecht with F.A.F.C. Went, Dr. in 1935. 
+**Abbreviated name**: *B.J.J. Duncker*
 
 #### Herbarium and types
 

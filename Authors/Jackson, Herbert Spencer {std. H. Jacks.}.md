@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103253#page/425/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33068641) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jackson, Herbert Spencer (1833-1951), American mycologist and phytopathologist; at Delaware Experiment Station (1905-1908); Harvard (1908-1909), Corvallis, Oregon (1909-1915); Lafayette, Ind. (1915-1928); Toronto (1928-1951); Ph. D. Madison 1929. (*H. Jacks.*).
+Jackson, Herbert Spencer (1833-1951), American mycologist and phytopathologist; at Delaware Experiment Station (1905-1908); Harvard (1908-1909), Corvallis, Oregon (1909-1915); Lafayette, Ind. (1915-1928); Toronto (1928-1951); Ph. D. Madison 1929. 
+**Abbreviated name**: *H. Jacks.*
 
 #### Herbarium and types
 

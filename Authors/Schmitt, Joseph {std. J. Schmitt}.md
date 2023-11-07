@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/104077#page/276/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33333401) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmitt, Joseph (1862-1915), French physician and botanist; Dr. phil. Paris 1904, professor at the Faculté de Médecine, Nancy. (*J. Schmitt*).
+Schmitt, Joseph (1862-1915), French physician and botanist; Dr. phil. Paris 1904, professor at the Faculté de Médecine, Nancy. 
+**Abbreviated name**: *J. Schmitt*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103833#page/210/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33259244) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[De Moor, V. P. G. {std. De Moor}|first entry]] for this author
 
 ### Author
 
-\* De Moor, V.P.G. (1827-1895), Belgian government veterinarian living at Alost (E. Flandria), studying especially the Belgian grasses, born at Alost 25 Jul 1827, died ib. 25 Jan 1895. (*De Moor*).
+\* De Moor, V.P.G. (1827-1895), Belgian government veterinarian living at Alost (E. Flandria), studying especially the Belgian grasses, born at Alost 25 Jul 1827, died ib. 25 Jan 1895. 
+**Abbreviated name**: *De Moor*
 
 #### Herbarium and types
 

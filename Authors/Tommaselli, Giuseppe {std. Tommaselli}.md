@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103683#page/399/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tommaselli, Giuseppe (1733-1818), Italian naturalist at Verona. (*Tommaselli*).
+Tommaselli, Giuseppe (1733-1818), Italian naturalist at Verona. 
+**Abbreviated name**: *Tommaselli*
 
 #### Herbarium and types
 

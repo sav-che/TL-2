@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/item/103860#page/538/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33266205) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Czapek, Friedrich Johan Franz (1868-1921), Tschech botanist born at Prag-Karolinenthal, started his herbarium at the age of 9 years (1877), at the German Grabengymnasium Prag-Neustadt 1878, studied medicine at the German University in Prag, 1891 assistant at the pharmacol.-pharmacogn. Institute of Franz Hofmeister, Dr. med. 1892, with W. Pfeffer at Leipzig 1892, to Vienna with Julius v. Wesner, Dr. phil. 1894, professor at the Technical University at Prag 1896, full professor id. 1902, id. to Czernowitz 1906, id. to German University of Prag, in the army 1915-1918, again full professor at Prag 1918-1921. (*Czapek*).
+Czapek, Friedrich Johan Franz (1868-1921), Tschech botanist born at Prag-Karolinenthal, started his herbarium at the age of 9 years (1877), at the German Grabengymnasium Prag-Neustadt 1878, studied medicine at the German University in Prag, 1891 assistant at the pharmacol.-pharmacogn. Institute of Franz Hofmeister, Dr. med. 1892, with W. Pfeffer at Leipzig 1892, to Vienna with Julius v. Wesner, Dr. phil. 1894, professor at the Technical University at Prag 1896, full professor id. 1902, id. to Czernowitz 1906, id. to German University of Prag, in the army 1915-1918, again full professor at Prag 1918-1921. 
+**Abbreviated name**: *Czapek*
 
 #### Herbarium and types
 

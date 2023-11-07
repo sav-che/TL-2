@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103250#page/336/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33066616) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiggers, \[Heinrich\] August \[Ludwig\] (1803-1880), German (Hannoverian) pharmacist; studied pharmacy, chemistry and botany at Göttingen 1827-1835; Dr. phil. 1835; private lecturer for pharmacognosy Göttingen 1837, assistant to F. Wöhler ib. 1836-1848; e.o. professor of pharmacy 1848; general inspector of the pharmacies of the Kingdom Hannover 1850; Medicinalrath 1864. (*A. Wigg.*).
+Wiggers, \[Heinrich\] August \[Ludwig\] (1803-1880), German (Hannoverian) pharmacist; studied pharmacy, chemistry and botany at Göttingen 1827-1835; Dr. phil. 1835; private lecturer for pharmacognosy Göttingen 1837, assistant to F. Wöhler ib. 1836-1848; e.o. professor of pharmacy 1848; general inspector of the pharmacies of the Kingdom Hannover 1850; Medicinalrath 1864. 
+**Abbreviated name**: *A. Wigg.*
 
 #### Herbarium and types
 

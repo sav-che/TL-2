@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103250#page/349/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33066629) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilczek, Ernst (1867-1948), Swiss botanist; Dr. phil. Zürich 1892; extraordinary professor of systematic and pharmaceutical botany at Lausanne University 1892, ordinary professor 1902-1934; travelled in the Argentine Andes 1897, in Morocco 1928. (*E. Wilcz.*).
+Wilczek, Ernst (1867-1948), Swiss botanist; Dr. phil. Zürich 1892; extraordinary professor of systematic and pharmaceutical botany at Lausanne University 1892, ordinary professor 1902-1934; travelled in the Argentine Andes 1897, in Morocco 1928. 
+**Abbreviated name**: *E. Wilcz.*
 
 #### Herbarium and types
 

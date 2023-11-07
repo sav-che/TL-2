@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/item/104077#page/919/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33334044) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sterner, \[Karl\] Rikard (1891-1956), Swedish botanist; Dr. phil. Uppsala 1923; teacher at various high schools from 1923, at Vänersborg from 1926, at Göteborg from 1930. (*Sterner*).
+Sterner, \[Karl\] Rikard (1891-1956), Swedish botanist; Dr. phil. Uppsala 1923; teacher at various high schools from 1923, at Vänersborg from 1926, at Göteborg from 1930. 
+**Abbreviated name**: *Sterner*
 
 #### Herbarium and types
 

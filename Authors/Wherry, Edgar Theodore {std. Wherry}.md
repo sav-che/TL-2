@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103250#page/303/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33066583) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wherry, Edgar Theodore (1885-1982), American mineralogist, chemist and botanist; Dr. phil. Univ. Pennsylvania 1909; instructor in mineralogy, Lehigh Univ. 1908-1910; assistant professor ib. 1910-1913; assistant curator mineralogy U.S. Natl. Museum 1913-1917; crystallographer, U.S. Bur. Chemistry, Washington 1917-1923; chemist in charge of crop chemistry 1923-1930; associate professor of botany, Univ. Pennsylvania 1930-1941, regular prof. 1941-1955. (*Wherry*).
+Wherry, Edgar Theodore (1885-1982), American mineralogist, chemist and botanist; Dr. phil. Univ. Pennsylvania 1909; instructor in mineralogy, Lehigh Univ. 1908-1910; assistant professor ib. 1910-1913; assistant curator mineralogy U.S. Natl. Museum 1913-1917; crystallographer, U.S. Bur. Chemistry, Washington 1917-1923; chemist in charge of crop chemistry 1923-1930; associate professor of botany, Univ. Pennsylvania 1930-1941, regular prof. 1941-1955. 
+**Abbreviated name**: *Wherry*
 
 #### Herbarium and types
 

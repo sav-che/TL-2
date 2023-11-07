@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103859#page/282/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33265469) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bogenhard, Carl {std. Bogenh.}|first entry]] for this author
 
 ### Author
 
-\* Bogenhard, Carl (1811-1853\[?\]), German botanist and pharmacist, born at Magdala nr. Jena, Thüringen, pharmacist in Sobernheim ca. 1840, lived in Jena and Rudolfstadt 1844-1852, emigrated to the United States 1852, died in New York City 1853\[?\]. (*Bogenh.*).
+\* Bogenhard, Carl (1811-1853\[?\]), German botanist and pharmacist, born at Magdala nr. Jena, Thüringen, pharmacist in Sobernheim ca. 1840, lived in Jena and Rudolfstadt 1844-1852, emigrated to the United States 1852, died in New York City 1853\[?\]. 
+**Abbreviated name**: *Bogenh.*
 
 #### Herbarium and types
 

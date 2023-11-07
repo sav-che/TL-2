@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/item/103253#page/887/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leuba, Fritz (1848-1910) Swiss pharmacist and mycologist at Corcelles near Neuchâtel. (*Leuba*).
+Leuba, Fritz (1848-1910) Swiss pharmacist and mycologist at Corcelles near Neuchâtel. 
+**Abbreviated name**: *Leuba*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103683#page/374/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33212406) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tinant, François Auguste (1803-1853), Luxemburg botanist and administrator; customs officer 1828-1839, subsequently inspector-general of forests. (*Tinant*).
+Tinant, François Auguste (1803-1853), Luxemburg botanist and administrator; customs officer 1828-1839, subsequently inspector-general of forests. 
+**Abbreviated name**: *Tinant*
 
 #### Herbarium and types
 

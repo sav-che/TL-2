@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/item/103253#page/804/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33069020) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lebel, Jacques Eugène (1801-1878), French physician and botanist at Valognes, Manche. (*Lebel*).
+Lebel, Jacques Eugène (1801-1878), French physician and botanist at Valognes, Manche. 
+**Abbreviated name**: *Lebel*
 
 #### Herbarium and types
 

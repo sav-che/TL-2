@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/item/104137#page/630/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33355701) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Muehlenbeck, Heinrich Gustav (1798-1845), Alsatian botanist and physician; Dr. med. Paris; practicing physician in Gebweiler 1822-1833; from then on at Mulhouse (Mühlhausen); friend of W. P. Schimper. (*Muehlenbeck*).
+Muehlenbeck, Heinrich Gustav (1798-1845), Alsatian botanist and physician; Dr. med. Paris; practicing physician in Gebweiler 1822-1833; from then on at Mulhouse (Mühlhausen); friend of W. P. Schimper. 
+**Abbreviated name**: *Muehlenbeck*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103859#page/175/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265362) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Billings, Frederick Horatio (1869-?), American (Chicago born) botanist, assistant professor of natural science at Pomona College 1891-1893, studied at Stanford University, A.B. 1896, id. Harvard University, A.M. 1897, Dr. phil. München 1901, professor of botany Louisiana 1901-1907, associate professor Kansas 1907-1913, professor of bacteriology id. 1913-1917, idem at Redlands from 1921. (*F.H. Billings*).
+Billings, Frederick Horatio (1869-?), American (Chicago born) botanist, assistant professor of natural science at Pomona College 1891-1893, studied at Stanford University, A.B. 1896, id. Harvard University, A.M. 1897, Dr. phil. München 1901, professor of botany Louisiana 1901-1907, associate professor Kansas 1907-1913, professor of bacteriology id. 1913-1917, idem at Redlands from 1921. 
+**Abbreviated name**: *F.H. Billings*
 
 #### Herbarium and types
 

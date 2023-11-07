@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/103253#page/489/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Joshua, William (1828-1898), British lichenologist and algologist. (*Joshua*).
+Joshua, William (1828-1898), British lichenologist and algologist. 
+**Abbreviated name**: *Joshua*
 
 #### Herbarium and types
 

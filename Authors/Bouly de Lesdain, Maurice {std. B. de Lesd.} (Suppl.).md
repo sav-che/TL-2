@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103859#page/397/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265584) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bouly de Lesdain, Maurice {std. B. de Lesd.}|first entry]] for this author
 
 ### Author
 
-\* Bouly de Lesdain, Maurice (1869-1965), French physician and lichenologist, born at Dunkerque, educated at the Jesuit college at Boulogne-sur-Mer, studied medicine in Paris, Dr. med. 1894, studied also natural history at the Sorbonne until 1896, Dr. sci. nat. 1910, from 1896 at Dunkerque as physician-ophtalmologist; herbarium and library destroyed at Dunkerque in 1940, retired first to Paris, from ca. 1945 at Lille, published again on lichenology 1947-1960. (*de Lesd.*).
+\* Bouly de Lesdain, Maurice (1869-1965), French physician and lichenologist, born at Dunkerque, educated at the Jesuit college at Boulogne-sur-Mer, studied medicine in Paris, Dr. med. 1894, studied also natural history at the Sorbonne until 1896, Dr. sci. nat. 1910, from 1896 at Dunkerque as physician-ophtalmologist; herbarium and library destroyed at Dunkerque in 1940, retired first to Paris, from ca. 1945 at Lille, published again on lichenology 1947-1960. 
+**Abbreviated name**: *de Lesd.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/103683#page/50/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33212044) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strasser, Pius (1843-1927), Austrian priest and botanist (lichenologist, mycologist); chaplain at St. Peter in der Au 1867-1868; id. Markt Aschbach 1869-1873; professor at the gymnasium of the Stift Seitenstetten 1873-1885; priest at Waidhofen a.d. Ybbs 1885-1919; in retirement at Seitenstetten 1919-1927. (*Strass.*).
+Strasser, Pius (1843-1927), Austrian priest and botanist (lichenologist, mycologist); chaplain at St. Peter in der Au 1867-1868; id. Markt Aschbach 1869-1873; professor at the gymnasium of the Stift Seitenstetten 1873-1885; priest at Waidhofen a.d. Ybbs 1885-1919; in retirement at Seitenstetten 1919-1927. 
+**Abbreviated name**: *Strass.*
 
 #### Herbarium and types
 

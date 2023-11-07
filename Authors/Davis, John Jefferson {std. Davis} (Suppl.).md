@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/item/103833#page/118/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33259152) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Davis, John Jefferson {std. Davis}|first entry]] for this author
 
 ### Author
 
-\* Davis, John Jefferson (1852-1937), American physician and botanist (mycologist), born at Davis, Illinois, B.S. University of Illinois 1872, M.D. Hahneman School of Medicine 1875, practiced medicine in Racine Wisconsin 1875-1911, retired 1911 and accepted curatorship of the Herbarium of University of Wisconsin 1911-1937. (*Davis*).
+\* Davis, John Jefferson (1852-1937), American physician and botanist (mycologist), born at Davis, Illinois, B.S. University of Illinois 1872, M.D. Hahneman School of Medicine 1875, practiced medicine in Racine Wisconsin 1875-1911, retired 1911 and accepted curatorship of the Herbarium of University of Wisconsin 1911-1937. 
+**Abbreviated name**: *Davis*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103861#page/270/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33266567) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burret, Karl Ewald Maximilian {std. Burret}|first entry]] for this author
 
 ### Author
 
-\* Burret, Karl Ewald Maximilian (1883-1964), German (Rheinprovinz) botanist, educated at the Gymnasium of Andernach and id. at Koblenz (final examination 1903), studied law at the University of Lausanne 1903, id. University of München 1903-1904, id. Berlin 1904-1905, studied at the Landwirtschaftlichen Hochschule in Berlin 1905-1906, from 1906-1909 at the University of Berlin, with e.g. Ascherson, Engler, Pilger, Potonié and Schwendener, Dr. phil. ib. 16 Feb 1910, aid-assistant at the Botanical Museum, Dahlem 1910-1911, assistant at the Botanical Institute of the Agricultural University, Berlin 1911-1921, military interpreter 1917-1918, again with the Agricultural University 1918-1921, second director of the Botanical Garden and Museum, Berlin-Dahlem 1922-1953, "Kustos und Professor" 1 Jan 1928, specialist in Tiliaceae, Moraceae and especially Palmae. (*Burret*).
+\* Burret, Karl Ewald Maximilian (1883-1964), German (Rheinprovinz) botanist, educated at the Gymnasium of Andernach and id. at Koblenz (final examination 1903), studied law at the University of Lausanne 1903, id. University of München 1903-1904, id. Berlin 1904-1905, studied at the Landwirtschaftlichen Hochschule in Berlin 1905-1906, from 1906-1909 at the University of Berlin, with e.g. Ascherson, Engler, Pilger, Potonié and Schwendener, Dr. phil. ib. 16 Feb 1910, aid-assistant at the Botanical Museum, Dahlem 1910-1911, assistant at the Botanical Institute of the Agricultural University, Berlin 1911-1921, military interpreter 1917-1918, again with the Agricultural University 1918-1921, second director of the Botanical Garden and Museum, Berlin-Dahlem 1922-1953, "Kustos und Professor" 1 Jan 1928, specialist in Tiliaceae, Moraceae and especially Palmae. 
+**Abbreviated name**: *Burret*
 
 #### Herbarium and types
 

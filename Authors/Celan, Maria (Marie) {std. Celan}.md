@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/103860#page/29/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265696) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Celan, Maria \[Marie\] (fl. 1935-1938), Roumanian algologist, Lic. Sci. nat., "chef de la travaux au Laboratoire de l’Université Mihǎileanǎ de Jaşi",worked on systematics, ecology and cytology of algae. (*Celan*).
+Celan, Maria \[Marie\] (fl. 1935-1938), Roumanian algologist, Lic. Sci. nat., "chef de la travaux au Laboratoire de l’Université Mihǎileanǎ de Jaşi",worked on systematics, ecology and cytology of algae. 
+**Abbreviated name**: *Celan*
 
 #### Herbarium and types
 

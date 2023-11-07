@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/item/104137#page/540/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33355611) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mitchell, Sir Thomas Livingstone (1792-1855), Scottish-born soldier, explorer and botanist; deputy surveyor general New South Wales 1827, surveyor general 1828. (*T. Mitch.*).
+Mitchell, Sir Thomas Livingstone (1792-1855), Scottish-born soldier, explorer and botanist; deputy surveyor general New South Wales 1827, surveyor general 1828. 
+**Abbreviated name**: *T. Mitch.*
 
 #### Collection
 

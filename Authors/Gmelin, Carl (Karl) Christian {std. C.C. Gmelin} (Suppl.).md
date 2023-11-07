@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103832#page/258/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33258724) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gmelin, Carl (Karl) Christian {std. C.C. Gmelin}|first entry]] for this author
 
 ### Author
 
-\* Gmelin, Carl \[Karl\] Christian (1762-1837), German physician and naturalist, born 18 Mar 1762 in Badenweiler nr. Freiburg, studied, Univ. of Strassburg, Dr. of medicine 1784 Friedrich-Alexander-Univ., Erlangen, prof. of natural sciences and dir. from 1786 of the botanical garden at Karlsruhe, died 26 Jun 1837 in Karlsruhe (Baden-Württemberg). (*C.C. Gmel.*).
+\* Gmelin, Carl \[Karl\] Christian (1762-1837), German physician and naturalist, born 18 Mar 1762 in Badenweiler nr. Freiburg, studied, Univ. of Strassburg, Dr. of medicine 1784 Friedrich-Alexander-Univ., Erlangen, prof. of natural sciences and dir. from 1786 of the botanical garden at Karlsruhe, died 26 Jun 1837 in Karlsruhe (Baden-Württemberg). 
+**Abbreviated name**: *C.C. Gmel.*
 
 #### Herbarium and types
 

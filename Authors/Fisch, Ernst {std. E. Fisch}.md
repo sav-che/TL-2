@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103834#page/222/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33259704) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fisch, Ernst (1875-1899), Swiss botanist, born 19 Jan 1875 in Zihlschlacht (Thurgau), attended elementary school in Frauenfeld and studied natural history in Zürich 1893-1897, suffered from tuberculosis and for health reasons wintered in Cairo (Egypt) 1897-1898, where he studied the floral biology of desert plants, died 1 Aug 1899 in Zürich shortly after presentation of his thesis. (*E. Fisch*).
+Fisch, Ernst (1875-1899), Swiss botanist, born 19 Jan 1875 in Zihlschlacht (Thurgau), attended elementary school in Frauenfeld and studied natural history in Zürich 1893-1897, suffered from tuberculosis and for health reasons wintered in Cairo (Egypt) 1897-1898, where he studied the floral biology of desert plants, died 1 Aug 1899 in Zürich shortly after presentation of his thesis. 
+**Abbreviated name**: *E. Fisch*
 
 #### Herbarium and types
 

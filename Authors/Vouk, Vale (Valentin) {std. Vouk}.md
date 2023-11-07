@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/item/103683#page/797/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33212829) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vouk, Vale \[Valentin\] (1886-1962), Croatian botanist; student of R. v. Wettstein 1905-1908; Dr. phil. Wien 1908; demonstrator at Institute for plant physiology Wien 1910-1912; Habil. Zagreb (Agram) 1913; extraordinary professor of botany ib. 1915-1918, ord. professor 1918, head professor from 1928-1959. (*Vouk*).
+Vouk, Vale \[Valentin\] (1886-1962), Croatian botanist; student of R. v. Wettstein 1905-1908; Dr. phil. Wien 1908; demonstrator at Institute for plant physiology Wien 1910-1912; Habil. Zagreb (Agram) 1913; extraordinary professor of botany ib. 1915-1918, ord. professor 1918, head professor from 1928-1959. 
+**Abbreviated name**: *Vouk*
 
 #### Herbarium and types
 

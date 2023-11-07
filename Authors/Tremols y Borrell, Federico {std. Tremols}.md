@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103683#page/478/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33212510) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tremols y Borrell, Federico (1831-1900), Spanish (Catalonian) botanist and pharmaceutical chemist; professor of inorganic chemistry at Granada, later prof. of the history of pharmacy at Barcelona. (*Tremols*).
+Tremols y Borrell, Federico (1831-1900), Spanish (Catalonian) botanist and pharmaceutical chemist; professor of inorganic chemistry at Granada, later prof. of the history of pharmacy at Barcelona. 
+**Abbreviated name**: *Tremols*
 
 #### Herbarium and types
 

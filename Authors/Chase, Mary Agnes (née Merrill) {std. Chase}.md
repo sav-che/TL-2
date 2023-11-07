@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/item/103414#page/535/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33120618) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chase, Mary Agnes (née Merrill) {std. Chase} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Chase, Mary Agnes (née Merrill) (1869-1963), American agrostologist. (*Chase*).
+Chase, Mary Agnes (née Merrill) (1869-1963), American agrostologist. 
+**Abbreviated name**: *Chase*
 
 #### Herbarium and types
 

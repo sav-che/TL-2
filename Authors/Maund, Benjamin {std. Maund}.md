@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/item/104137#page/393/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33355464) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maund, Benjamin (1790-1864), British pharmacist, botanist and bookseller; at Bromsgrove, Worcs. (*Maund*).
+Maund, Benjamin (1790-1864), British pharmacist, botanist and bookseller; at Bromsgrove, Worcs. 
+**Abbreviated name**: *Maund*
 
 #### Herbarium and types
 

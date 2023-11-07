@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103414#page/237/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33120320) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergeret, Jean (1751-1813), Southern French botanist. (*Bergeret*).
+Bergeret, Jean (1751-1813), Southern French botanist. 
+**Abbreviated name**: *Bergeret*
 
 #### Herbarium and types
 

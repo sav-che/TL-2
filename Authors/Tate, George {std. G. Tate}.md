@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103683#page/184/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33212216) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tate, George (1805-1871), British linen draper, postmaster, paleobotanist and geologist at Alnwick; longtime secretary of the Alnwick mechanic's scientific institution and of the Berwickshire naturalist's club. (*G. Tate*).
+Tate, George (1805-1871), British linen draper, postmaster, paleobotanist and geologist at Alnwick; longtime secretary of the Alnwick mechanic's scientific institution and of the Berwickshire naturalist's club. 
+**Abbreviated name**: *G. Tate*
 
 #### Herbarium and types
 

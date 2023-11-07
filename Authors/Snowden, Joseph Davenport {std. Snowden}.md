@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/item/104077#page/726/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Snowden, Joseph Davenport (1886-1973), British botanist; gardener at Kew 1909-1911; assistant agricultural officer in the Agricultural Department of Uganda 1911, district agricultural officer ib. 1918, senior district agricultural officer 1928, economic botanist 1930-1931; in retirement at Chiswick and Barton-on-Sea. (*Snowden*).
+Snowden, Joseph Davenport (1886-1973), British botanist; gardener at Kew 1909-1911; assistant agricultural officer in the Agricultural Department of Uganda 1911, district agricultural officer ib. 1918, senior district agricultural officer 1928, economic botanist 1930-1931; in retirement at Chiswick and Barton-on-Sea. 
+**Abbreviated name**: *Snowden*
 
 #### Herbarium and types
 

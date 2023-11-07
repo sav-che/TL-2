@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103833#page/246/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33259280) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Destruge, Alcides (fl. 1864), botanist at Guayaquil. (*Destruge*).
+Destruge, Alcides (fl. 1864), botanist at Guayaquil. 
+**Abbreviated name**: *Destruge*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/103861#page/67/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33266364) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brenckle, Jacob Frederic(k) {std. Brenckle}|first entry]] for this author
 
 ### Author
 
-\* Brenckle, Jacob Frederic\[k\] (1875-1958), American physician and mycologist, studied at Milwaukee Medical College, M.D. 1897, practicing physician at Kulm, North Dakota 1899-1923, served in the U.S. army in W.W. I, at Northville, S. Dakota 1923-1937, ultimately at Millette, S. Dakota. (*Brenckle*).
+\* Brenckle, Jacob Frederic\[k\] (1875-1958), American physician and mycologist, studied at Milwaukee Medical College, M.D. 1897, practicing physician at Kulm, North Dakota 1899-1923, served in the U.S. army in W.W. I, at Northville, S. Dakota 1923-1937, ultimately at Millette, S. Dakota. 
+**Abbreviated name**: *Brenckle*
 
 #### Herbarium and types
 

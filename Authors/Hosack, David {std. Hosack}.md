@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103253#page/363/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33068579) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hosack, David (1769-1835), American physician; Dr. med. Pennsylvania Medical College 1791; from 1796-1797 botanist at Columbia College; practicing physician at New York almost until his death. (*Hosack*).
+Hosack, David (1769-1835), American physician; Dr. med. Pennsylvania Medical College 1791; from 1796-1797 botanist at Columbia College; practicing physician at New York almost until his death. 
+**Abbreviated name**: *Hosack*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103250#page/261/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wessén, Carl Johan (1812-1843), Swedish botanist; Dr. phil. Uppsala 1836; library assistant ib. 1839. (*Wessén*).
+Wessén, Carl Johan (1812-1843), Swedish botanist; Dr. phil. Uppsala 1836; library assistant ib. 1839. 
+**Abbreviated name**: *Wessén*
 
 #### Herbarium and types
 

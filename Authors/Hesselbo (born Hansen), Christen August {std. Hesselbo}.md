@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103253#page/208/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33068424) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hesselbo \[born Hansen\], Christen August (1874-1952), Danish bryologist. (*Hesselbo*).
+Hesselbo \[born Hansen\], Christen August (1874-1952), Danish bryologist. 
+**Abbreviated name**: *Hesselbo*
 
 #### Herbarium and types
 

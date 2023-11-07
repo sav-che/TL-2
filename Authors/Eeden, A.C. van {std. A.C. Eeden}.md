@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103835#page/272/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33260250) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eeden, A.C. van (fl. 1871-1882), Dutch horticulturist, director of the firm A.C. van Eeden & Co., living in Haarlem. (*A.C. Eeden*).
+Eeden, A.C. van (fl. 1871-1882), Dutch horticulturist, director of the firm A.C. van Eeden & Co., living in Haarlem. 
+**Abbreviated name**: *A.C. Eeden*
 
 #### Herbarium and types
 

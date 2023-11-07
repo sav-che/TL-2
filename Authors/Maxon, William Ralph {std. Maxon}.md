@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/104137#page/401/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33355472) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maxon, William Ralph (1877-1948), American pteridologist; Ph. B. Syracuse Univ. 1898; D. Sc. h.c. id. 1922; from 1899 at the Smithsonian Institution. (*Maxon*).
+Maxon, William Ralph (1877-1948), American pteridologist; Ph. B. Syracuse Univ. 1898; D. Sc. h.c. id. 1922; from 1899 at the Smithsonian Institution. 
+**Abbreviated name**: *Maxon*
 
 #### Herbarium and types
 

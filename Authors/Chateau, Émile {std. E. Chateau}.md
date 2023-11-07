@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103860#page/72/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33265739) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chateau, Émile (1866-1952), French botanist, Instituteur, Bourg-le-Comte par Marcingy. (*E. Chateau*).
+Chateau, Émile (1866-1952), French botanist, Instituteur, Bourg-le-Comte par Marcingy. 
+**Abbreviated name**: *E. Chateau*
 
 #### Herbarium and types
 

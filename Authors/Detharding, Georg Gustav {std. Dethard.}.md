@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/item/103414#page/684/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Detharding, Georg Gustav {std. Dethard.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Detharding, Georg Gustav (1765-1838), German botanist at Rostock. (*Dethard.*).
+Detharding, Georg Gustav (1765-1838), German botanist at Rostock. 
+**Abbreviated name**: *Dethard.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103859#page/227/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33265414) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blocki, Bronislaw (1854-1919), Polish (Galician) botanist, adjunct lecturer at the Agronomy and Forestry College at Lemberg 1881, later professor at the same college, prolific writer on the flora of Galicia. (*Blocki*).
+Blocki, Bronislaw (1854-1919), Polish (Galician) botanist, adjunct lecturer at the Agronomy and Forestry College at Lemberg 1881, later professor at the same college, prolific writer on the flora of Galicia. 
+**Abbreviated name**: *Blocki*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/item/103860#page/344/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33266011) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooley, Jacquelin Smith (1883-1965), American plant pathologist, born at Middletown, Va., with the U.S.D.A. for 37 years, studying storage diseases of apples and peaches a.o., later studied (breeding), A.B. at Randolph-Macon College, M.S. at Virginia Polytechnic Inst., and Ph.D. at Washington University St. Louis in 1913, working on breeding of Hemerocallis, Narcissus, and Iris, died 8 Jul 1965. (*J.C. Cooley*).
+Cooley, Jacquelin Smith (1883-1965), American plant pathologist, born at Middletown, Va., with the U.S.D.A. for 37 years, studying storage diseases of apples and peaches a.o., later studied (breeding), A.B. at Randolph-Macon College, M.S. at Virginia Polytechnic Inst., and Ph.D. at Washington University St. Louis in 1913, working on breeding of Hemerocallis, Narcissus, and Iris, died 8 Jul 1965. 
+**Abbreviated name**: *J.C. Cooley*
 
 #### Herbarium and types
 

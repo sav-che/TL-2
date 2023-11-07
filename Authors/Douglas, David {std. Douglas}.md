@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/item/103414#page/722/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33120805) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Douglas, David {std. Douglas} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Douglas, David (1798-1834), Scottish botanical explorer of North America and China, who imported many ornamental plants into Europe. (*Douglas*).
+Douglas, David (1798-1834), Scottish botanical explorer of North America and China, who imported many ornamental plants into Europe. 
+**Abbreviated name**: *Douglas*
 
 #### Herbarium and types
 

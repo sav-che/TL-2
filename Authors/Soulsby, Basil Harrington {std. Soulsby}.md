@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/item/104077#page/771/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33333896) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soulsby, Basil Harrington (1864-1933), New Zealand-born, British bibliographer and libarian; BA Oxford 1897; with the Library of the British Museum, Bloomsbury, 1892-1909; with that of the British Museum (Nat. Hist.) 1909-1933, from 1921 as librarian. (*Soulsby*).
+Soulsby, Basil Harrington (1864-1933), New Zealand-born, British bibliographer and libarian; BA Oxford 1897; with the Library of the British Museum, Bloomsbury, 1892-1909; with that of the British Museum (Nat. Hist.) 1909-1933, from 1921 as librarian. 
+**Abbreviated name**: *Soulsby*
 
 #### Herbarium and types
 

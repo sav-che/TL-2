@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/103859#page/332/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265519) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Booberg, Karl Gunnar (1892-1944), Swedish botanist, peat expert and plant geographer, Dr. phil. Uppsala 1930, assistant with the Swedish Geological Service, Stockholm 1924-1925, employed by the Java Sugar Experiment Station, Pasoeroean, group-adviser, Modjokerto 1925-1926, Field Service inspector 1926-1928, assistant director agricultural dept. 1928-1934, director id. 1934-1941, in retirement at Djoenggo, Poenten, E. Java 1941. (*Booberg*).
+Booberg, Karl Gunnar (1892-1944), Swedish botanist, peat expert and plant geographer, Dr. phil. Uppsala 1930, assistant with the Swedish Geological Service, Stockholm 1924-1925, employed by the Java Sugar Experiment Station, Pasoeroean, group-adviser, Modjokerto 1925-1926, Field Service inspector 1926-1928, assistant director agricultural dept. 1928-1934, director id. 1934-1941, in retirement at Djoenggo, Poenten, E. Java 1941. 
+**Abbreviated name**: *Booberg*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103861#page/16/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33266313) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brainerd, Ezra (1844-1924), American clergyman and botanist, trained for the ministry at Andover Theological Seminary, cand. minister 1868, professor at Middlebury College, Vermont 1868, idem professor in rhetoric, English literature, mathematics and physics 1880, president of Middlebury College 1885-1908, student of the flora of Vermont, especially interested in Viola. (*Brainerd*).
+Brainerd, Ezra (1844-1924), American clergyman and botanist, trained for the ministry at Andover Theological Seminary, cand. minister 1868, professor at Middlebury College, Vermont 1868, idem professor in rhetoric, English literature, mathematics and physics 1880, president of Middlebury College 1885-1908, student of the flora of Vermont, especially interested in Viola. 
+**Abbreviated name**: *Brainerd*
 
 #### Herbarium and types
 

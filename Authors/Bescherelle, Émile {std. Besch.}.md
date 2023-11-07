@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103414#page/254/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33120337) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bescherelle, Émil {std. Besch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bescherelle, Émile (1828-1903), French administrator and bryologist. (*Besch.*).
+Bescherelle, Émile (1828-1903), French administrator and bryologist. 
+**Abbreviated name**: *Besch.*
 
 #### Herbarium and types
 

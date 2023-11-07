@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/item/103683#page/733/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33212765) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Viborg, Erik (1759-1822), Danish botanist; student of M. Vahl; lecturer at the Botanical Garden of Copenhagen 1783-1801, lecturer at the Veterinary School 1783, from 1790 professor ib.; travelled in Western Europe 1787-1790; Dr. med. Univ. Kiel 1797; professor of botany at the University of Copenhagen 1797-1801; director of the botanical garden 1798-1801; director and professor at the Veterinary School from 1801. (*Viborg*).
+Viborg, Erik (1759-1822), Danish botanist; student of M. Vahl; lecturer at the Botanical Garden of Copenhagen 1783-1801, lecturer at the Veterinary School 1783, from 1790 professor ib.; travelled in Western Europe 1787-1790; Dr. med. Univ. Kiel 1797; professor of botany at the University of Copenhagen 1797-1801; director of the botanical garden 1798-1801; director and professor at the Veterinary School from 1801. 
+**Abbreviated name**: *Viborg*
 
 #### Herbarium and types
 

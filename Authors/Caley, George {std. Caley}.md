@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103414#page/473/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33120556) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caley, George (1770?-1829), British botanist in New South Wales (1799-1810), curator of the St. Vincent (W.I.) Botanic Garden (1816-1822). (*Caley*).
+Caley, George (1770?-1829), British botanist in New South Wales (1799-1810), curator of the St. Vincent (W.I.) Botanic Garden (1816-1822). 
+**Abbreviated name**: *Caley*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/103624#page/842/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rodgers, Andrew Denny, III (1900-1981), American botanical historian; descendent of William Starling Sullivant; LLB Ohio State University 1925; practiced law at Columbus, Ohio 1926-1933; from 1933 independent author. (*A.D. Rodgers*).
+Rodgers, Andrew Denny, III (1900-1981), American botanical historian; descendent of William Starling Sullivant; LLB Ohio State University 1925; practiced law at Columbus, Ohio 1926-1933; from 1933 independent author. 
+**Abbreviated name**: *A.D. Rodgers*
 
 #### Archives
 

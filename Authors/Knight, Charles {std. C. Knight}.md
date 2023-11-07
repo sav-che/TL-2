@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/item/103253#page/602/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knight, Charles (1818-1891/92), British administrator and botanist (lichenologist) in New Zealand, ultimately auditor general. (*C. Knight*).
+Knight, Charles (1818-1891/92), British administrator and botanist (lichenologist) in New Zealand, ultimately auditor general. 
+**Abbreviated name**: *C. Knight*
 
 #### Herbarium and types
 

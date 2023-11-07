@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/item/103250#page/598/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zigra, Johannes Hermann (1775-1857), German (Lübeck) botanist and horticulturist at Riga. (*Zigra*).
+Zigra, Johannes Hermann (1775-1857), German (Lübeck) botanist and horticulturist at Riga. 
+**Abbreviated name**: *Zigra*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/103858#page/395/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33265110) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bauer, Ferdinand Lukas {std. F.L. Bauer}|first entry]] for this author
 
 ### Author
 
-\* Bauer, Ferdinand Lucas (1760-1826), Austrian botanical, zoological and landscape painter, born in Feldsberg (then Niederösterreich, from 1919 Valtice, Czechoslovakia), painting for J.C. Brund (court appointed painter), botanical instruction and assistance from N.J. von Jacquin, accompanied J. Sibthorp as botanical artist on a trip to the eastern mediterranean area, worked for Sibthorp in Oxford, with R. Brown on the Flinders expedition to Australia, returned to Vienna in 1812, continuing his work for Jacquin. (*F.L. Bauer*).
+\* Bauer, Ferdinand Lucas (1760-1826), Austrian botanical, zoological and landscape painter, born in Feldsberg (then Niederösterreich, from 1919 Valtice, Czechoslovakia), painting for J.C. Brund (court appointed painter), botanical instruction and assistance from N.J. von Jacquin, accompanied J. Sibthorp as botanical artist on a trip to the eastern mediterranean area, worked for Sibthorp in Oxford, with R. Brown on the Flinders expedition to Australia, returned to Vienna in 1812, continuing his work for Jacquin. 
+**Abbreviated name**: *F.L. Bauer*
 
 #### Herbarium and types
 

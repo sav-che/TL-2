@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/item/103624#page/902/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33190359) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosén, Nils (from 1762 knighted Rosén von Rosenstein) (1706-1773), Swedish botanist; studied at Lund; Dr. med. Harderwijk (Netherlands) 1730; professor of medicine (incl. botany) at Uppsala 1740-1742, preceding C. Linnaeus; professor of practical medicine Uppsala 1742; arkiater (royal physician) 1746; librarian Uppsala univ. library 1756-1757; brother of Eberhard Rosén. (*N. Rosén*).
+Rosén, Nils (from 1762 knighted Rosén von Rosenstein) (1706-1773), Swedish botanist; studied at Lund; Dr. med. Harderwijk (Netherlands) 1730; professor of medicine (incl. botany) at Uppsala 1740-1742, preceding C. Linnaeus; professor of practical medicine Uppsala 1742; arkiater (royal physician) 1746; librarian Uppsala univ. library 1756-1757; brother of Eberhard Rosén. 
+**Abbreviated name**: *N. Rosén*
 
 #### Herbarium and types
 

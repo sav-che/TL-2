@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/104137#page/138/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33355209) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Llanos, Antonio (1806-1881), Philippine botanist; calceate Augustinian friar at Manila. (*Llanos*).
+Llanos, Antonio (1806-1881), Philippine botanist; calceate Augustinian friar at Manila. 
+**Abbreviated name**: *Llanos*
 
 #### Herbarium and types
 

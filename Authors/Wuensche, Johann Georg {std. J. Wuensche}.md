@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/103250#page/530/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33066810) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wuensche, Johann Georg (*fl*. 1804), German (Prussian-Saxony) physician and botanist at Wittenberg. (*J. Wuensche*).
+Wuensche, Johann Georg (*fl*. 1804), German (Prussian-Saxony) physician and botanist at Wittenberg. 
+**Abbreviated name**: *J. Wuensche*
 
 #### Herbarium and types
 

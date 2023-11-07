@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/103250#page/354/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33066634) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilhelm, Karl \[Carl\] \[Adolf\] (1848-1933), Moravian-born Austrian botanist; Dr. phil. Strassburg 1877; assistant at the forestry institute München until 1881; "Privat-Dozent" at the k.k. Hochschule für Bodenkultur Wien 1881, extraordinary (1889) and ordinary professor of botany (Naturgeschichte der Forstgewächse) (1896) ib. until 1920. (*K. Wilh.*).
+Wilhelm, Karl \[Carl\] \[Adolf\] (1848-1933), Moravian-born Austrian botanist; Dr. phil. Strassburg 1877; assistant at the forestry institute München until 1881; "Privat-Dozent" at the k.k. Hochschule für Bodenkultur Wien 1881, extraordinary (1889) and ordinary professor of botany (Naturgeschichte der Forstgewächse) (1896) ib. until 1920. 
+**Abbreviated name**: *K. Wilh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103253#page/330/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33068546) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoppe, David Heinrich (1760-1846), German botanist, physician and pharmacist, for many years (1802-1807, 1818-1842) the driving force behind *Flora*, high school teacher and director of the botanic garden at Regensburg (founded 1790). (*Hoppe*).
+Hoppe, David Heinrich (1760-1846), German botanist, physician and pharmacist, for many years (1802-1807, 1818-1842) the driving force behind *Flora*, high school teacher and director of the botanic garden at Regensburg (founded 1790). 
+**Abbreviated name**: *Hoppe*
 
 #### Herbarium and types
 

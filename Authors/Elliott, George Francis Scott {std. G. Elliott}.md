@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/item/103414#page/788/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elliott, George Francis Scott (1862-1934), Indian born British botanist. (*G. Elliott*).
+Elliott, George Francis Scott (1862-1934), Indian born British botanist. 
+**Abbreviated name**: *G. Elliott*
 
 #### Herbarium and types
 

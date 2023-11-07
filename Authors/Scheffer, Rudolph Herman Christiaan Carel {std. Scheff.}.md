@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/104077#page/137/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33333262) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheffer, Rudolph Herman Christiaan Carel (1844-1880), Dutch botanist; student of F.A.W. Miquel; Dr. phil. Utrecht 1867; director of the Botanic Gardens Buitenzorg (Bogor) 1868-1880; founder of the Economic Garden and the Agricultural School at Buitenzorg; id. of the mountain garden at Tjibodas. (*Scheff.*).
+Scheffer, Rudolph Herman Christiaan Carel (1844-1880), Dutch botanist; student of F.A.W. Miquel; Dr. phil. Utrecht 1867; director of the Botanic Gardens Buitenzorg (Bogor) 1868-1880; founder of the Economic Garden and the Agricultural School at Buitenzorg; id. of the mountain garden at Tjibodas. 
+**Abbreviated name**: *Scheff.*
 
 #### Herbarium and types
 

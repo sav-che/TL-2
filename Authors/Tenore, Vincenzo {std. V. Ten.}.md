@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103683#page/228/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33212260) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tenore, Vincenzo (1825-1886), Italian botanist, nephew of M. Tenore; professor of botany at the veterinary school of Naples; honorary lecturer in botany at the University ib. (*V. Ten.*).
+Tenore, Vincenzo (1825-1886), Italian botanist, nephew of M. Tenore; professor of botany at the veterinary school of Naples; honorary lecturer in botany at the University ib. 
+**Abbreviated name**: *V. Ten.*
 
 #### Herbarium and types
 

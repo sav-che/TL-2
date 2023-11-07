@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/item/103414#page/1055/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33121138) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grindon, Leopold Hartley (1818-1904), British naturalist. (*Grindon*).
+Grindon, Leopold Hartley (1818-1904), British naturalist. 
+**Abbreviated name**: *Grindon*
 
 #### Herbarium and types
 

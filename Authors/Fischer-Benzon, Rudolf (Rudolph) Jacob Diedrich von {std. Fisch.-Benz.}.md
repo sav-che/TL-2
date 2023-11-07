@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/103834#page/242/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33259724) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer-Benzon, Rudolf \[Rudolph\] Jacob Diedrich von (1839-1911), German botanist and librarian, born 2 Feb 1839 in Westermühlen (Kreis Rendsburg), attended gymnasium in Schleswig 1852-1857, studied mathematics and natural sciences in Kiel, Dr. phil. 1865, taught at several gymnasia for 23 years, prof. 1889, appointed provincial librarian in 1895, died 18 Jul 1911 in Wyk on the isl. of Föhr. (*Fisch.-Benz.*).
+Fischer-Benzon, Rudolf \[Rudolph\] Jacob Diedrich von (1839-1911), German botanist and librarian, born 2 Feb 1839 in Westermühlen (Kreis Rendsburg), attended gymnasium in Schleswig 1852-1857, studied mathematics and natural sciences in Kiel, Dr. phil. 1865, taught at several gymnasia for 23 years, prof. 1889, appointed provincial librarian in 1895, died 18 Jul 1911 in Wyk on the isl. of Föhr. 
+**Abbreviated name**: *Fisch.-Benz.*
 
 #### Herbarium and types
 

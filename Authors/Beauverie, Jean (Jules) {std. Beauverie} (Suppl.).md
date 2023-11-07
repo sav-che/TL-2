@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/103859#page/16/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33265203) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beauverie, Jean Jules {std. Beauverie}|first entry]] for this author
 
 ### Author
 
-\* Beauverie, Jean \[Jules\] (1874-1938), French (Lyonnais) botanist (mycologist, bacteriologist, cytologist), "préparateur" at the Faculté des Sciences de Lyon 1894, maître de conférences at the Faculté des Sciences de Nancy 1912, professor at the Faculté des Sciences de Clermont-Ferrand 1919, id. at Lyon 1923-1938. (*Beauverie*).
+\* Beauverie, Jean \[Jules\] (1874-1938), French (Lyonnais) botanist (mycologist, bacteriologist, cytologist), "préparateur" at the Faculté des Sciences de Lyon 1894, maître de conférences at the Faculté des Sciences de Nancy 1912, professor at the Faculté des Sciences de Clermont-Ferrand 1919, id. at Lyon 1923-1938. 
+**Abbreviated name**: *Beauverie*
 
 #### Herbarium and types
 

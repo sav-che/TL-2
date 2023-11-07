@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/103859#page/295/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33265482) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boistel, Alphonse \[Barthélemy Martin\] (1836-1908), French jurist, lichenologist and geologist, born in Paris, studied law at the Collège Rolin, University of Paris, Dr. jur. 1864, professor at the Law Faculty of Grenoble 1865-1870, idem Paris 1870-1907, died at Saint-Philibert-sur-Risle, Eure. (*Boistel*).
+Boistel, Alphonse \[Barthélemy Martin\] (1836-1908), French jurist, lichenologist and geologist, born in Paris, studied law at the Collège Rolin, University of Paris, Dr. jur. 1864, professor at the Law Faculty of Grenoble 1865-1870, idem Paris 1870-1907, died at Saint-Philibert-sur-Risle, Eure. 
+**Abbreviated name**: *Boistel*
 
 #### Herbarium and types
 

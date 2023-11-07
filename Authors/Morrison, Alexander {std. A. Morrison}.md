@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/item/104137#page/612/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33355683) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morrison, Alexander (1849-1913), Scottish physician and botanist; to Australia 1877; practiced in Melbourne, travelled in the New Hebrides 1892; West Australian Government botanist in the Bureau of Agriculture 1897-1906. (*A. Morrison*).
+Morrison, Alexander (1849-1913), Scottish physician and botanist; to Australia 1877; practiced in Melbourne, travelled in the New Hebrides 1892; West Australian Government botanist in the Bureau of Agriculture 1897-1906. 
+**Abbreviated name**: *A. Morrison*
 
 #### Herbarium and types
 

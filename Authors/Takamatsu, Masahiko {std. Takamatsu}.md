@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103683#page/162/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33212194) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Takamatsu, Masahiko (1899-x), Japanese botanist (algologist) at the Department of Biology, Faculty of Science and Literature, Hirosaki University. (*Takamatsu*).
+Takamatsu, Masahiko (1899-x), Japanese botanist (algologist) at the Department of Biology, Faculty of Science and Literature, Hirosaki University. 
+**Abbreviated name**: *Takamatsu*
 
 #### Herbarium and types
 

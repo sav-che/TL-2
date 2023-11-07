@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/item/103253#page/792/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33069008) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lauche, \[Friedrich\] Wilhelm \[Georg\] (1827-1883), German dendrologist and gardener at the horticultural school at Wildpark near Potsdam; obtained fern-hybirds. (*Lauche*).
+Lauche, \[Friedrich\] Wilhelm \[Georg\] (1827-1883), German dendrologist and gardener at the horticultural school at Wildpark near Potsdam; obtained fern-hybirds. 
+**Abbreviated name**: *Lauche*
 
 #### Herbarium and types
 

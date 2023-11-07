@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103250#page/143/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33066423) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warnstorf, Carl \[Friedrich E.\] (1837-1921), German (Prussian (Lausitz)) teacher and botanist; studied at the teacher's college of Neustadt 1855-1858; teacher at a primary school at Arnswalde 1859-1867; head-teacher at the boy's school ("Knabenmittelschule") of Neuruppin 1861-1899; in retirement fully dedicating himself to botany, from 1906 in Berlin; professor's title 1917. (*Warnst.*).
+Warnstorf, Carl \[Friedrich E.\] (1837-1921), German (Prussian (Lausitz)) teacher and botanist; studied at the teacher's college of Neustadt 1855-1858; teacher at a primary school at Arnswalde 1859-1867; head-teacher at the boy's school ("Knabenmittelschule") of Neuruppin 1861-1899; in retirement fully dedicating himself to botany, from 1906 in Berlin; professor's title 1917. 
+**Abbreviated name**: *Warnst.*
 
 #### Herbarium and types
 

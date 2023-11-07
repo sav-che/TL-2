@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/item/104137#page/55/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33355088) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindblom, Alexis Edvard (1807-1853), Swedish botanist; founder and first editor of Botaniska Notiser; Dr. phil. Lund 1826, lecturer at Lund 1831-1851; travelled in Norway 1826, 1837, 1839. (*Lindblom*).
+Lindblom, Alexis Edvard (1807-1853), Swedish botanist; founder and first editor of Botaniska Notiser; Dr. phil. Lund 1826, lecturer at Lund 1831-1851; travelled in Norway 1826, 1837, 1839. 
+**Abbreviated name**: *Lindblom*
 
 #### Herbarium and types
 

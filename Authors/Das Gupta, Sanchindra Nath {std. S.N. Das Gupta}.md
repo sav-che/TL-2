@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103833#page/94/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33259128) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Das Gupta, Sanchindra Nath (1902-x), Indian botanist, at University of Calcutta, M.Sc., University London Ph.D. 1929, worked in mycology and plant-pathology, Indian phytopathologist, working at Dept. of botany, University of Lucknow. (*S.N. Das Gupta*).
+Das Gupta, Sanchindra Nath (1902-x), Indian botanist, at University of Calcutta, M.Sc., University London Ph.D. 1929, worked in mycology and plant-pathology, Indian phytopathologist, working at Dept. of botany, University of Lucknow. 
+**Abbreviated name**: *S.N. Das Gupta*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/item/103860#page/141/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33265808) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Choisy, Jacques Denis {std. Choisy}|first entry]] for this author
 
 ### Author
 
-\* Choisy, Jacques-Denis (1799-1859), Swiss botanist, theologist, philosopher and teacher, born at Jussy, Genève, at the Auditoire de Théologie 1817-1821, ministre du Saint Evangile 1821, in Paris 1822-1823 working with the Paris botanists, teacher of philosophy at the Scottish school during 25 years until 1846 when his public work had to be stopped by the "Constituante". (*Choisy*).
+\* Choisy, Jacques-Denis (1799-1859), Swiss botanist, theologist, philosopher and teacher, born at Jussy, Genève, at the Auditoire de Théologie 1817-1821, ministre du Saint Evangile 1821, in Paris 1822-1823 working with the Paris botanists, teacher of philosophy at the Scottish school during 25 years until 1846 when his public work had to be stopped by the "Constituante". 
+**Abbreviated name**: *Choisy*
 
 #### Herbarium and types
 

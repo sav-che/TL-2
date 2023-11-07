@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103860#page/312/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265979) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conn, Harold Joel (1886-1952), American botanist, specialist in biological stains, born 29 Mai 1886, Middletown, Conn., Ph.B. Wesleyan 1908, Ph.D. Cornell 1911, assistant soil technologist at Exper. Station Cornell 1908-1911, at New York Exper. Station Geneva 1911-1920, chief research soil bacteriology 1920-1952. (*H.J. Conn*).
+Conn, Harold Joel (1886-1952), American botanist, specialist in biological stains, born 29 Mai 1886, Middletown, Conn., Ph.B. Wesleyan 1908, Ph.D. Cornell 1911, assistant soil technologist at Exper. Station Cornell 1908-1911, at New York Exper. Station Geneva 1911-1920, chief research soil bacteriology 1920-1952. 
+**Abbreviated name**: *H.J. Conn*
 
 #### Herbarium and types
 

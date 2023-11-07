@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103624#page/364/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33189821) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pospíšil, Valentin (1913-x), Czechoslovak (Moravian) botanist (bryologist, geobotanist) at the Moravian museum at Brno. (*Pospíšil*).
+Pospíšil, Valentin (1913-x), Czechoslovak (Moravian) botanist (bryologist, geobotanist) at the Moravian museum at Brno. 
+**Abbreviated name**: *Pospíšil*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103861#page/404/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33266701) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Capitaine, Louis (1883-1923), French geographer and botanist, born in Paris, studied natural sciences at the Faculté des sciences of Paris, worked in the laboratory of Gaston Bonnier, Dr. phil. 1912, collaborator with L. Marret for *Icones florae alpinae plantarum*, employed by the Paris Laboratoire d'Agronomie coloniale 1912. (*Capitaine*).
+Capitaine, Louis (1883-1923), French geographer and botanist, born in Paris, studied natural sciences at the Faculté des sciences of Paris, worked in the laboratory of Gaston Bonnier, Dr. phil. 1912, collaborator with L. Marret for *Icones florae alpinae plantarum*, employed by the Paris Laboratoire d'Agronomie coloniale 1912. 
+**Abbreviated name**: *Capitaine*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/item/103683#page/746/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33212778) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Viguier, L.G. Alexandre (1790-1867), French physician; Dr. med. Montpellier 1814. (*Vig.*).
+Viguier, L.G. Alexandre (1790-1867), French physician; Dr. med. Montpellier 1814. 
+**Abbreviated name**: *Vig.*
 
 #### Herbarium and types
 

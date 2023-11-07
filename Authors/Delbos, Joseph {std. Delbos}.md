@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103833#page/186/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33259220) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delbos, Joseph (1824-1882), French botanist, born 2 Jul 1824 Bordeaux, died 2 Jun 1882, professor in Mülhausen, from 1870 in Nancy, student of tertiary of Southern France. (*Delbos*).
+Delbos, Joseph (1824-1882), French botanist, born 2 Jul 1824 Bordeaux, died 2 Jun 1882, professor in Mülhausen, from 1870 in Nancy, student of tertiary of Southern France. 
+**Abbreviated name**: *Delbos*
 
 #### Herbarium and types
 

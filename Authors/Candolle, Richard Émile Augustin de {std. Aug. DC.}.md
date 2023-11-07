@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103414#page/500/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33120583) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Candolle, (Richard-Émile-) Augustin de {std. Aug. DC.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Candolle, Richard Émile Augustin de (1868-1920), Swiss botanist, son of Casimir de Candolle. (*Aug. DC*).
+Candolle, Richard Émile Augustin de (1868-1920), Swiss botanist, son of Casimir de Candolle. 
+**Abbreviated name**: *Aug. DC*
 
 #### Herbarium and types
 

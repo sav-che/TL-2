@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103859#page/86/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265273) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Benson, Gilbert Thereon (1896-1928), American botanist and librarian at the Dudley Herbarium, Stanford University. (*G.T. Benson*).
+Benson, Gilbert Thereon (1896-1928), American botanist and librarian at the Dudley Herbarium, Stanford University. 
+**Abbreviated name**: *G.T. Benson*
 
 #### Herbarium and types
 

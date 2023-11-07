@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/item/103253#page/615/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33068831) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koch, Karl \[Carl\] Heinrich Emil (1809-1879), German botanist; traveller in the Orient; dendrologist; horticulturist; at Würzburg 1831-1833; Dr. med. Würzburg 1833; at Jena 1835; travelled in the Kaukasus and Central Asia 1837-1838 and 1843-1844; from 1847 botanist ("Adjunkt") at the Berlin Botanical Garden. (*K. Koch*).
+Koch, Karl \[Carl\] Heinrich Emil (1809-1879), German botanist; traveller in the Orient; dendrologist; horticulturist; at Würzburg 1831-1833; Dr. med. Würzburg 1833; at Jena 1835; travelled in the Kaukasus and Central Asia 1837-1838 and 1843-1844; from 1847 botanist ("Adjunkt") at the Berlin Botanical Garden. 
+**Abbreviated name**: *K. Koch*
 
 #### Herbarium and types
 

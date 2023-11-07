@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/103414#page/507/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33120590) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carr, Cedric Errol (Erroll) (1892-1936), New Zealand botanist. (*Carr*).
+Carr, Cedric Errol (Erroll) (1892-1936), New Zealand botanist. 
+**Abbreviated name**: *Carr*
 
 #### Herbarium and types
 

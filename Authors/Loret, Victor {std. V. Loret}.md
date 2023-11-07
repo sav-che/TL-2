@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/104137#page/177/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33355248) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loret, Victor (1859-?), French archeologist and botanist. (*V. Loret*).
+Loret, Victor (1859-?), French archeologist and botanist. 
+**Abbreviated name**: *V. Loret*
 
 #### Herbarium and types
 

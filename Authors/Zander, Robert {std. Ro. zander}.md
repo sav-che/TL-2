@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 518](https://www.biodiversitylibrary.org/item/103250#page/578/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 518](https://www.biodiversitylibrary.org/page/33066858) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zander, Robert (1892-1969), German (Prussian) horticulturist and botanist; on active service in World War I; Dr. phil. Halle 1923; assistant at the Halle Botanical Institute 1923-1926; with the Reichsverband des deutschen Gartenbaues, Berlin, in charge of library and documentation and working on the nomenclature of plants of horticultural importance; lecturer in the history of horticulture at the Berlin-Dahlem Forschungsanstalt für Gartenbau; creator of the Library of German Horticulture, from 1936. (*Ro. zander*).
+Zander, Robert (1892-1969), German (Prussian) horticulturist and botanist; on active service in World War I; Dr. phil. Halle 1923; assistant at the Halle Botanical Institute 1923-1926; with the Reichsverband des deutschen Gartenbaues, Berlin, in charge of library and documentation and working on the nomenclature of plants of horticultural importance; lecturer in the history of horticulture at the Berlin-Dahlem Forschungsanstalt für Gartenbau; creator of the Library of German Horticulture, from 1936. 
+**Abbreviated name**: *Ro. Zander*
 
 #### Herbarium and types
 

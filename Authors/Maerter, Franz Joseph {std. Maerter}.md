@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/104137#page/256/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33355327) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maerter, Franz Joseph (1753-1827), Austrian botanist, in tropical America 1783-1788. (*Maerter*).
+Maerter, Franz Joseph (1753-1827), Austrian botanist, in tropical America 1783-1788. 
+**Abbreviated name**: *Maerter*
 
 #### Herbarium and types
 

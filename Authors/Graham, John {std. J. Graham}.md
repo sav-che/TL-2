@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/item/103414#page/1026/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33121109) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Graham, John (1805-1839), British botanist, superintendent botanical garden at Bombay (1828-1839). (*J. Graham*).
+Graham, John (1805-1839), British botanist, superintendent botanical garden at Bombay (1828-1839). 
+**Abbreviated name**: *J. Graham*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103835#page/131/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33260109) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dubois, François (1802-1868), Belgian physician, born 4 Jul 1802 at Leuze, physician at the faculty of medicine at Liège, died 28 Nov 1868 at Tournai. (*F. Dubois*).
+Dubois, François (1802-1868), Belgian physician, born 4 Jul 1802 at Leuze, physician at the faculty of medicine at Liège, died 28 Nov 1868 at Tournai. 
+**Abbreviated name**: *F. Dubois*
 
 #### Herbarium and types
 

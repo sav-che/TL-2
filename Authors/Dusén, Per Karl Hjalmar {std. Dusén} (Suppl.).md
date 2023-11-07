@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103835#page/211/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33260189) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dusén, Per Karl Hjalmar {std. Dusén}|first entry]] for this author
 
 ### Author
 
-\* Dusén, Per Karl Hjalmar (1855-1926), Swedish botanist, born 4 Aug 1855 at Vimmerby (Småland), went to the Technical University (Stockholm) until 1878, as engineer in Karlstad until 1880, turned to natural history and mathematics and was teacher at an adult education centre 1880-1898, influenced by his cousin Karl Fredrik Dusén (see above) he devoted himself to the study of mosses, went to Cameroun 1890, to Patagonia in 1895, Chile 1896-1897, Rio de Janeiro 1901-1904, Patagonia 1904-1905, Paraná 1908-1916, returned to Sweden, died 22 Jan 1926 at Tranås. (*Dusén*).
+\* Dusén, Per Karl Hjalmar (1855-1926), Swedish botanist, born 4 Aug 1855 at Vimmerby (Småland), went to the Technical University (Stockholm) until 1878, as engineer in Karlstad until 1880, turned to natural history and mathematics and was teacher at an adult education centre 1880-1898, influenced by his cousin Karl Fredrik Dusén (see above) he devoted himself to the study of mosses, went to Cameroun 1890, to Patagonia in 1895, Chile 1896-1897, Rio de Janeiro 1901-1904, Patagonia 1904-1905, Paraná 1908-1916, returned to Sweden, died 22 Jan 1926 at Tranås. 
+**Abbreviated name**: *Dusén*
 
 #### Herbarium and types
 

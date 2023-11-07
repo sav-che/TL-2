@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103832#page/335/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33258801) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Graff, Paul Weidemeyer (1880-1969), American mycologist, born 10 Oct 1880 in Indianapolis, Indiana, B.S. 1907 Conn. Agric. College, Storrs, Conn. (now Univ. of Conn.), Austin Teaching Fellow, Harvard Univ., Cambridge, Mass. 1907-1909, mycologist, Bureau of Science, Manila, Philippines 1911-1914 and botanist, Univ. of Philippines 1912-1914, New York Botanical Garden and Columbia Univ., New York, New York 1915-1916, M.A. 1916 and Ph.D. 1932 Columbia Univ., Botany Instructor, Univ. of Montana, Missoula, 1916-ca. 1920, in New York 1920s, from 1931 consulting mycologist, also taught at Mountain Lake Biol. Station, Univ. of Virginia, Charlottesville 1945 and Furman Univ., Greenville, South Carolina 1945, died Oct 1969. (*P.W. Graff*).
+Graff, Paul Weidemeyer (1880-1969), American mycologist, born 10 Oct 1880 in Indianapolis, Indiana, B.S. 1907 Conn. Agric. College, Storrs, Conn. (now Univ. of Conn.), Austin Teaching Fellow, Harvard Univ., Cambridge, Mass. 1907-1909, mycologist, Bureau of Science, Manila, Philippines 1911-1914 and botanist, Univ. of Philippines 1912-1914, New York Botanical Garden and Columbia Univ., New York, New York 1915-1916, M.A. 1916 and Ph.D. 1932 Columbia Univ., Botany Instructor, Univ. of Montana, Missoula, 1916-ca. 1920, in New York 1920s, from 1931 consulting mycologist, also taught at Mountain Lake Biol. Station, Univ. of Virginia, Charlottesville 1945 and Furman Univ., Greenville, South Carolina 1945, died Oct 1969. 
+**Abbreviated name**: *P.W. Graff*
 
 #### Herbarium and types
 

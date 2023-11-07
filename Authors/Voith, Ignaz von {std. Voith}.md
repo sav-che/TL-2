@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/item/103683#page/787/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33212819) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voith, Ignaz von (1759-1848), German (Oberpfalz/Bavarian) mining engineer, industrialist and naturalist; in charge of various mines in Upper Bavaria, from 1803 also in charge of a gun factory at Amberg; general inspector of the mining industry in the Oberpfalz 1807; from 1808-1820 "Oberst-Bergrat" at the central office for the mining industry in München; from 1820-1829 again in Amberg; in retirement actively pursuing his naturalist interests. (*Voith*).
+Voith, Ignaz von (1759-1848), German (Oberpfalz/Bavarian) mining engineer, industrialist and naturalist; in charge of various mines in Upper Bavaria, from 1803 also in charge of a gun factory at Amberg; general inspector of the mining industry in the Oberpfalz 1807; from 1808-1820 "Oberst-Bergrat" at the central office for the mining industry in München; from 1820-1829 again in Amberg; in retirement actively pursuing his naturalist interests. 
+**Abbreviated name**: *Voith*
 
 #### Herbarium and types
 

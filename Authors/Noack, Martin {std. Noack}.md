@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/item/104137#page/773/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33355844) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noack, Martin (1888-1927), German botanist at the Biologische Reichsanstalt, Berlin-Dahlem. (*Noack*).
+Noack, Martin (1888-1927), German botanist at the Biologische Reichsanstalt, Berlin-Dahlem. 
+**Abbreviated name**: *Noack*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/item/103414#page/576/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33120659) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collinson, Peter (1694-1768), British "woollen-draper," botanist and horticulturist, who introduced many North American plants into Europe, "amicus botanicorum." (*Collinson*).
+Collinson, Peter (1694-1768), British "woollen-draper," botanist and horticulturist, who introduced many North American plants into Europe, "amicus botanicorum." 
+**Abbreviated name**: *Collinson*
 
 #### Herbarium and types
 

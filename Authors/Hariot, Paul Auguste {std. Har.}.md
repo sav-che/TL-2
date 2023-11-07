@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103253#page/78/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hariot, Paul Auguste (1854-1917), French naturalist; pupil of Bornet; from 1882 active at the cryptogamic department of the Muséum d'histoire naturelle, Paris; botanist on the Mission to Cape Horn on "la Romanche", 1883. (*Har.*).
+Hariot, Paul Auguste (1854-1917), French naturalist; pupil of Bornet; from 1882 active at the cryptogamic department of the Muséum d'histoire naturelle, Paris; botanist on the Mission to Cape Horn on "la Romanche", 1883. 
+**Abbreviated name**: *Har.*
 
 #### Herbarium and types
 

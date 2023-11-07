@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1010](https://www.biodiversitylibrary.org/item/103624#page/1024/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1010](https://www.biodiversitylibrary.org/page/33190481) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rutström, Carl Birger (1758-1826), Swedish botanist; Dr. phil. Uppsala 1772; Dr. med. Harderwijk 1793; botanical demonstrator in Åbo 1794-1798; in various administrative positions at Stockholm from 1799. (*Rutstr.*).
+Rutström, Carl Birger (1758-1826), Swedish botanist; Dr. phil. Uppsala 1772; Dr. med. Harderwijk 1793; botanical demonstrator in Åbo 1794-1798; in various administrative positions at Stockholm from 1799. 
+**Abbreviated name**: *Rutstr.*
 
 #### Herbarium and types
 

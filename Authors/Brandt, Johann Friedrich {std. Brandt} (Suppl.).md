@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103861#page/26/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandt, Johann Friedrich (von) {std. Brandt}|first entry]] for this author
 
 ### Author
 
-\* Brandt, Johann Friedrich (1802-1879), German (Jüterborgh, Brandenburg) botanist and zoologist, educated at the Gymnasium of Jüterborgh and the Lyceum at Wittenberg, studied classics at the University of Berlin 1821, later zoology and botany ib., M.D., surgeon and accoucheur 1826, worked with Ratzeburg 1826-1831 e.g. on the plants of the Prussian Pharmacopoeia, assistant, later director of the zoological Museum, St. Petersburg from 1831. (*Brandt*).
+\* Brandt, Johann Friedrich (1802-1879), German (Jüterborgh, Brandenburg) botanist and zoologist, educated at the Gymnasium of Jüterborgh and the Lyceum at Wittenberg, studied classics at the University of Berlin 1821, later zoology and botany ib., M.D., surgeon and accoucheur 1826, worked with Ratzeburg 1826-1831 e.g. on the plants of the Prussian Pharmacopoeia, assistant, later director of the zoological Museum, St. Petersburg from 1831. 
+**Abbreviated name**: *Brandt*
 
 #### Herbarium and types
 

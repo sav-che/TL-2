@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103414#page/159/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33120242) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balfour, Isaac Bayley {std. I.B. Balf.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Balfour, \[Sir\] Isaac Bayley (1853-1922), Scottish botanist, professor of botany in the University of Edinburgh. 1888-1921, Queens' botanist in Scotland, son of John Hutton Balfour. (*I. B. Balf.*).
+Balfour, \[Sir\] Isaac Bayley (1853-1922), Scottish botanist, professor of botany in the University of Edinburgh. 1888-1921, Queens' botanist in Scotland, son of John Hutton Balfour. 
+**Abbreviated name**: *I. B. Balf.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103858#page/212/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33264927) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Athanasius, Eustathius (fl. 1794), Greek physician who studied at the University of Halle, Dr. med. ib. 1794. (*Athanasius*).
+Athanasius, Eustathius (fl. 1794), Greek physician who studied at the University of Halle, Dr. med. ib. 1794. 
+**Abbreviated name**: *Athanasius*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 732](https://www.biodiversitylibrary.org/item/103624#page/746/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 732](https://www.biodiversitylibrary.org/page/33190203) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rennie, Robert (x-1820), British (Scottish) clergyman and botanist, minister of Kilsyth, Stirlingshire. (*Rennie*).
+Rennie, Robert (x-1820), British (Scottish) clergyman and botanist, minister of Kilsyth, Stirlingshire. 
+**Abbreviated name**: *Rennie*
 
 #### Herbarium and types
 

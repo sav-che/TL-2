@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/item/104077#page/581/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33333706) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shockley, William Hillman (1855-1925), American mining engineer and plant collector; Mass. Inst. Technol. grad. 1875; in the Nevada silver fields at Candelaria Nevada 1880-1893; travelled widely; retirement to California in 1913. (*Shockley*).
+Shockley, William Hillman (1855-1925), American mining engineer and plant collector; Mass. Inst. Technol. grad. 1875; in the Nevada silver fields at Candelaria Nevada 1880-1893; travelled widely; retirement to California in 1913. 
+**Abbreviated name**: *Shockley*
 
 #### Herbarium and types
 

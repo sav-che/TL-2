@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/104137#page/392/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33355463) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mauksch, Johann Daniel Thomas (1748-1831), Hungarian clergyman and botanist, living in Schlagendorf und Kesmark (Kežmarok), botanical explorer of the Tatra; collaborator of Kitaibel, Dr. med. Tyrnau 1776. (*Mauksch*).
+Mauksch, Johann Daniel Thomas (1748-1831), Hungarian clergyman and botanist, living in Schlagendorf und Kesmark (Kežmarok), botanical explorer of the Tatra; collaborator of Kitaibel, Dr. med. Tyrnau 1776. 
+**Abbreviated name**: *Mauksch*
 
 #### Herbarium and types
 

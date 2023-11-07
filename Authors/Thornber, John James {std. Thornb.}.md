@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103683#page/302/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33212334) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thornber, John James (1872-1962), American botanist; AM Univ. Nebraska 1901; from 1901-1943 professor of botany at the University of Arizona, Tucson; botanist (1901-1921) and director of the Univ. Arizona Experiment Station 1921-1928; from 1928 botanist ib. (*Thornb.*).
+Thornber, John James (1872-1962), American botanist; AM Univ. Nebraska 1901; from 1901-1943 professor of botany at the University of Arizona, Tucson; botanist (1901-1921) and director of the Univ. Arizona Experiment Station 1921-1928; from 1928 botanist ib. 
+**Abbreviated name**: *Thornb.*
 
 #### Herbarium and types
 

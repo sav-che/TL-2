@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103833#page/144/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259178) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deby, Julien Marc {std. Deby}|first entry]] for this author
 
 ### Author
 
-\* Deby, Julien Marc (1826-1895), Belgian botanist, microscopist, diatomist, studied at the University of Liège, ingénieur 1848, in Brussels 1848-1854, travelled in Central America as a young man, lived in Georgia 1854-1859, commissioner of the Belgian Government to the centennial Exposition at Philadelphia 1876, from then on settled in England. (*Deby*).
+\* Deby, Julien Marc (1826-1895), Belgian botanist, microscopist, diatomist, studied at the University of Liège, ingénieur 1848, in Brussels 1848-1854, travelled in Central America as a young man, lived in Georgia 1854-1859, commissioner of the Belgian Government to the centennial Exposition at Philadelphia 1876, from then on settled in England. 
+**Abbreviated name**: *Deby*
 
 #### Herbarium and types
 

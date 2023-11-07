@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/item/104137#page/776/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33355847) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noë, Friedrich Wilhelm (18..-1858), German botanist and pharmacist in Fiume (1831-1844); director of the botanical garden in Constantinople; participated in the boundary Commission of Turkey and Persia. (*Noë*).
+Noë, Friedrich Wilhelm (18..-1858), German botanist and pharmacist in Fiume (1831-1844); director of the botanical garden in Constantinople; participated in the boundary Commission of Turkey and Persia. 
+**Abbreviated name**: *Noë*
 
 #### Herbarium and types
 

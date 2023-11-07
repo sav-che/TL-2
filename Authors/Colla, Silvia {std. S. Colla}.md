@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103860#page/278/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33265945) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Colla, Silvia (1902-x), Italian botanist, mentor of the Soc. Bot. Ital. 1926, Dr. Sc. Torino, studied 1938 in Argentina and the U.S.A. (*S. Colla*).
+Colla, Silvia (1902-x), Italian botanist, mentor of the Soc. Bot. Ital. 1926, Dr. Sc. Torino, studied 1938 in Argentina and the U.S.A. 
+**Abbreviated name**: *S. Colla*
 
 #### Herbarium and types
 

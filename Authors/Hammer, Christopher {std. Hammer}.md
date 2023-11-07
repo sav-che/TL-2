@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103253#page/62/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hammer, Christopher (1720-1804), Norwegian botanist and administrator; studied theology and law at Copenhagen; from 1752 "General-Konduktor for Landet og Kjøbstaederne i Aggerhus Stift", from 1758 "Kancelliraad"; from 1778 "Justitsraad". (*Hammer*).
+Hammer, Christopher (1720-1804), Norwegian botanist and administrator; studied theology and law at Copenhagen; from 1752 "General-Konduktor for Landet og Kjøbstaederne i Aggerhus Stift", from 1758 "Kancelliraad"; from 1778 "Justitsraad". 
+**Abbreviated name**: *Hammer*
 
 #### Herbarium and types
 

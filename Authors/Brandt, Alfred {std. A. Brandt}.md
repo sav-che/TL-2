@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103861#page/25/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33266322) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandt, Alfred (1911-x), Finnish botanist. (*A. Brandt*).
+Brandt, Alfred (1911-x), Finnish botanist. 
+**Abbreviated name**: *A. Brandt*
 
 #### Herbarium and types
 

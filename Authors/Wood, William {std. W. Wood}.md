@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/item/103250#page/501/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33066781) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wood, William (1745-1808), British clergyman (nonconformist minister) at Debenham (Suffolk), Stamford (Lincolnshire) and Ipswich (Suffolk, 1770-1772), and Mill Hill Chapel, Leeds (1773-1808). (*W. Wood*).
+Wood, William (1745-1808), British clergyman (nonconformist minister) at Debenham (Suffolk), Stamford (Lincolnshire) and Ipswich (Suffolk, 1770-1772), and Mill Hill Chapel, Leeds (1773-1808). 
+**Abbreviated name**: *W. Wood*
 
 #### Herbarium and types
 

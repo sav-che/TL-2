@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103414#page/254/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33120337) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berwald, Johann Gottfried (*fl*. 1778), German musician and naturalist. (*Berwald*).
+Berwald, Johann Gottfried (*fl*. 1778), German musician and naturalist. 
+**Abbreviated name**: *Berwald*
 
 #### Herbarium and types
 

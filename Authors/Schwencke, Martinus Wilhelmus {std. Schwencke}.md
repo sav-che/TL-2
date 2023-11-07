@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/104077#page/456/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33333581) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwencke, Martinus Wilhelmus (1 707-1 785), Dutch botanist and physician; practicing in 's Gravenhage \[The Hague\]; kept a "hortus medicus" and gave botany courses to surgeons and pharmacists. (*Schwencke*).
+Schwencke, Martinus Wilhelmus (1 707-1 785), Dutch botanist and physician; practicing in 's Gravenhage \[The Hague\]; kept a "hortus medicus" and gave botany courses to surgeons and pharmacists. 
+**Abbreviated name**: *Schwencke*
 
 #### Herbarium and types
 

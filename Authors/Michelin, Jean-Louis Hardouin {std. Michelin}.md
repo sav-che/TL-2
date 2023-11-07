@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/104137#page/484/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michelin, Jean-Louis Hardouin (1786-1867), French administrator; magistrate, palaeontologist and algologist; one of the founders of the Société géologique de France. (*Michelin*).
+Michelin, Jean-Louis Hardouin (1786-1867), French administrator; magistrate, palaeontologist and algologist; one of the founders of the Société géologique de France. 
+**Abbreviated name**: *Michelin*
 
 #### Herbarium and types
 

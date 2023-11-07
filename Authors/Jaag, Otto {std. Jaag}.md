@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103253#page/418/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33068634) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaag, Otto (1900-x), Swiss botanist and teacher at Beringen (Kanton Schaffhausen) (1921-1924), who studied with R. Chodat at Genève 1924-1929; subsequently at Zürich. (*Jaag*).
+Jaag, Otto (1900-x), Swiss botanist and teacher at Beringen (Kanton Schaffhausen) (1921-1924), who studied with R. Chodat at Genève 1924-1929; subsequently at Zürich. 
+**Abbreviated name**: *Jaag*
 
 #### Herbarium and types
 

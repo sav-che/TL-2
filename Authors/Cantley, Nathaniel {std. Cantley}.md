@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103861#page/402/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33266699) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cantley, Nathaniel (x-1888), British (Thurso, Scotland, Caithness born) gardener, Kew gardener 1869-1872, assistant director Mauritius Botanic Garden 1873, superintendent Singapore Botanic Gardens 1880-1888. (*Cantley*).
+Cantley, Nathaniel (x-1888), British (Thurso, Scotland, Caithness born) gardener, Kew gardener 1869-1872, assistant director Mauritius Botanic Garden 1873, superintendent Singapore Botanic Gardens 1880-1888. 
+**Abbreviated name**: *Cantley*
 
 #### Herbarium and types
 

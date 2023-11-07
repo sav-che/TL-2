@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/item/103624#page/589/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rand, Eduard Sprague (1834-1897), American horticulturist at Glen Ridge near Boston. (*E.S. Rand*).
+Rand, Eduard Sprague (1834-1897), American horticulturist at Glen Ridge near Boston. 
+**Abbreviated name**: *E.S. Rand*
 
 #### Herbarium and types
 

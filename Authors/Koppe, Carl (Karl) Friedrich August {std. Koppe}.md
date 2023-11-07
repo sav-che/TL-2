@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/103253#page/675/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koppe, Carl \[Karl\] Friedrich August (1803-1874), German botanist and high school teacher at Soest. (*Koppe*).
+Koppe, Carl \[Karl\] Friedrich August (1803-1874), German botanist and high school teacher at Soest. 
+**Abbreviated name**: *Koppe*
 
 #### Herbarium and types
 

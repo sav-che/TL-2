@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103624#page/412/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33189869) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prévost, Jean Louis (*fl*. 1760-1810), French flower and landscape painter. (*Prévost*).
+Prévost, Jean Louis (*fl*. 1760-1810), French flower and landscape painter. 
+**Abbreviated name**: *Prévost*
 
 #### Original drawings
 

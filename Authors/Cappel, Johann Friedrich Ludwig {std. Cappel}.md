@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103861#page/406/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266703) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cappel, Johann Friedrich Ludwig (1759-1799), German physician and botanist, born at Helmstedt, ultimately government physician at Wolodomir. (*Cappel*).
+Cappel, Johann Friedrich Ludwig (1759-1799), German physician and botanist, born at Helmstedt, ultimately government physician at Wolodomir. 
+**Abbreviated name**: *Cappel*
 
 #### Herbarium and types
 

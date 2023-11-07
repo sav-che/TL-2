@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103250#page/310/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33066590) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, Francis Buchanan \[White\] (1842-1894), British naturalist; MD Edinburgh 1864; founder of the Scottish Naturalist 1871; lived and worked at Perth, being independent devoting himself entirely to botany and entomology. (*F.B. White*).
+White, Francis Buchanan \[White\] (1842-1894), British naturalist; MD Edinburgh 1864; founder of the Scottish Naturalist 1871; lived and worked at Perth, being independent devoting himself entirely to botany and entomology. 
+**Abbreviated name**: *F.B. White*
 
 #### Herbarium and types
 

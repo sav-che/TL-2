@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/item/103683#page/442/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33212474) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Transeau, Edgar Nelson (1875-1960), American botanist (phycologist); B.A. Franklin and Marshall College, Lancaster, Pa. 1897; Dr. phil. Univ. Michigan 1904; professor of biology, Alma College 1904-1906; with Carnegie Inst. Exp. Sta. Cold Spring Harbor, Long Island 1906-1907; professor of botany East Illinois Teachers Coll., Charleston, Ill. 1907-1915; professor of plant physiology and ecology Ohio State Univ., Columbus, Ohio 1915-1946; professor emeritus ib. 1946. (*Transeau*).
+Transeau, Edgar Nelson (1875-1960), American botanist (phycologist); B.A. Franklin and Marshall College, Lancaster, Pa. 1897; Dr. phil. Univ. Michigan 1904; professor of biology, Alma College 1904-1906; with Carnegie Inst. Exp. Sta. Cold Spring Harbor, Long Island 1906-1907; professor of botany East Illinois Teachers Coll., Charleston, Ill. 1907-1915; professor of plant physiology and ecology Ohio State Univ., Columbus, Ohio 1915-1946; professor emeritus ib. 1946. 
+**Abbreviated name**: *Transeau*
 
 #### Herbarium and types
 

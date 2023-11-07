@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/item/104077#page/628/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33333753) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sinclair, Isabella, née McHutchison (1842-1900), British-born botanist; to New Zealand with her family 1862; married Francis Sinclair 1866; at Christchurch 1863-1864, at Blenheim N.Z. 1865-1866, from 1866 living in Hawaii (Niihau); died in San José, California. (*I. Sinclair*).
+Sinclair, Isabella, née McHutchison (1842-1900), British-born botanist; to New Zealand with her family 1862; married Francis Sinclair 1866; at Christchurch 1863-1864, at Blenheim N.Z. 1865-1866, from 1866 living in Hawaii (Niihau); died in San José, California. 
+**Abbreviated name**: *I. Sinclair*
 
 #### Herbarium and types
 

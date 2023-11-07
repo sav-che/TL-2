@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103859#page/176/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33265363) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Billington, Cecil (1876-1950), American botanist, honorary curator at the Herbarium of the University of Michigan and assistant botanist at the Cranbrook Institute of Science, born and died at Detroit, Michigan, sometime living at Birmingham, Michigan. (*Billington*).
+Billington, Cecil (1876-1950), American botanist, honorary curator at the Herbarium of the University of Michigan and assistant botanist at the Cranbrook Institute of Science, born and died at Detroit, Michigan, sometime living at Birmingham, Michigan. 
+**Abbreviated name**: *Billington*
 
 #### Herbarium and types
 

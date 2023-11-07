@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/104137#page/156/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33355227) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lönnrot, Elias (1802-1884), Finnish botanist. (*Lönnrot*).
+Lönnrot, Elias (1802-1884), Finnish botanist. 
+**Abbreviated name**: *Lönnrot*
 
 #### Herbarium and types
 

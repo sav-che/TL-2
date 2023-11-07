@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103860#page/216/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33265883) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clements, Frederic Edward {std. Clem.}|first entry]] for this author
 
 ### Author
 
-\* Clements, Frederic Edward (1874-1945), American ecologist, mycologist, climatologist and neo-lamarckian philosopher, born at Lincoln, Nebraska, B.Sc. University of Nebraska 1894, A.M. 1896, Ph.D. 1898, married Edith Schwartz in Lincoln, Nebraska 1899, instructor and associate professor of botany and professor of plant physiology 1903-1906, professor 1906-1907, professor of botany at Univ. Minnesota 1907-1917, ecologist with the Carnegie Institution from 1917-1945. (*Clem.*).
+\* Clements, Frederic Edward (1874-1945), American ecologist, mycologist, climatologist and neo-lamarckian philosopher, born at Lincoln, Nebraska, B.Sc. University of Nebraska 1894, A.M. 1896, Ph.D. 1898, married Edith Schwartz in Lincoln, Nebraska 1899, instructor and associate professor of botany and professor of plant physiology 1903-1906, professor 1906-1907, professor of botany at Univ. Minnesota 1907-1917, ecologist with the Carnegie Institution from 1917-1945. 
+**Abbreviated name**: *Clem.*
 
 #### Herbarium and types
 

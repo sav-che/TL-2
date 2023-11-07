@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/item/103683#page/453/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33212485) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trautvetter, Ernst Rudolf von (1809-1889), Courland-born Baltic-Russian botanist; studied medicine 1825-1829 and natural sciences 1829-1831 at Dorpat Univ., botanized in Livonia 1829-1830; private teacher at Mitau 1831-1833; Cand. phil. Dorpat 1833; assistant Bot. Gard. ib. 1833-1835; habil. ib. 1833, lecturer 1834-1835; Dr. phil. Univ. Königsberg 1835; assistant at Bot. Gard. St. Petersburg 1835-1838; professor of botany and director of the Bot. Gard. Kiew 1838-1859 (1847-1859 rector of the university); director of the Agricultural Institute at Gory-Gorki \[Gorigoretzki\] (Mogilev) 1860-1864, administrator (1865-1867) and director of the botanical garden in St. Petersburg 1867-1875; from 1875-1889 in retirement in St. Petersburg. (*Trautv.*).
+Trautvetter, Ernst Rudolf von (1809-1889), Courland-born Baltic-Russian botanist; studied medicine 1825-1829 and natural sciences 1829-1831 at Dorpat Univ., botanized in Livonia 1829-1830; private teacher at Mitau 1831-1833; Cand. phil. Dorpat 1833; assistant Bot. Gard. ib. 1833-1835; habil. ib. 1833, lecturer 1834-1835; Dr. phil. Univ. Königsberg 1835; assistant at Bot. Gard. St. Petersburg 1835-1838; professor of botany and director of the Bot. Gard. Kiew 1838-1859 (1847-1859 rector of the university); director of the Agricultural Institute at Gory-Gorki \[Gorigoretzki\] (Mogilev) 1860-1864, administrator (1865-1867) and director of the botanical garden in St. Petersburg 1867-1875; from 1875-1889 in retirement in St. Petersburg. 
+**Abbreviated name**: *Trautv.*
 
 #### Herbarium and types
 

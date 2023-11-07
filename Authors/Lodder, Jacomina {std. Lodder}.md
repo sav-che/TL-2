@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/104137#page/148/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33355219) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lodder, Jacomina (1905-x), Dutch mycologist at Delft; specialist on yeasts. (*Lodder*).
+Lodder, Jacomina (1905-x), Dutch mycologist at Delft; specialist on yeasts. 
+**Abbreviated name**: *Lodder*
 
 #### Herbarium and types
 

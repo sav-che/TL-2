@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103860#page/435/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266102) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cousturier, Paul (1849-1921), French botanist, born 14 Apr 1849 at Montereau, Seine-et-Marne, died 27 Jul 1921, Saint-Raphaël, Aix-en-Provence, in the French colonial administration 1885 as "Chef Sécrétariat du Gouvernement des Établissements, Golfe de Guinée", 1886 "Chef de l'Ouest-Africain", 1887-1904 in the direction of the interior of Gabon-Congo and Conakry, "Gouverneur Rivières du Sud Guinée française"; returned to France Nov 1905, lived at Saint Raphaël. (*Coustur.*).
+Cousturier, Paul (1849-1921), French botanist, born 14 Apr 1849 at Montereau, Seine-et-Marne, died 27 Jul 1921, Saint-Raphaël, Aix-en-Provence, in the French colonial administration 1885 as "Chef Sécrétariat du Gouvernement des Établissements, Golfe de Guinée", 1886 "Chef de l'Ouest-Africain", 1887-1904 in the direction of the interior of Gabon-Congo and Conakry, "Gouverneur Rivières du Sud Guinée française"; returned to France Nov 1905, lived at Saint Raphaël. 
+**Abbreviated name**: *Coustur.*
 
 #### Herbarium and types
 

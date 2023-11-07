@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/item/103253#page/684/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33068900) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kraenzlin, Friedrich (Fritz) Wilhelm Ludwig (1847-1934), German orchidologist. (*Kraenzl.*).
+Kraenzlin, Friedrich (Fritz) Wilhelm Ludwig (1847-1934), German orchidologist. 
+**Abbreviated name**: *Kraenzl.*
 
 #### Herbarium and types
 

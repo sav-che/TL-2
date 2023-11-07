@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/103253#page/473/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33068689) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johansson, Karl (1856-1928), Swedish botanist. (*Johanss.*).
+Johansson, Karl (1856-1928), Swedish botanist. 
+**Abbreviated name**: *Johanss.*
 
 #### Herbarium and types
 

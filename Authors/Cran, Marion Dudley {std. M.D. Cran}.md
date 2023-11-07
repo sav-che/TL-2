@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/103860#page/457/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33266124) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cran, Marion Dudley (1879-1942), South-African author on gardens and travelling. (*M.D. Cran*).
+Cran, Marion Dudley (1879-1942), South-African author on gardens and travelling. 
+**Abbreviated name**: *M.D. Cran*
 
 #### Herbarium and types
 

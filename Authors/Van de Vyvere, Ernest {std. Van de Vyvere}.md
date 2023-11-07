@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/item/103683#page/673/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33212705) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van de Vyvere, Ernest (1811-1853), Belgian pharmacist and botanist at Brugge (Bruges). (*Van de Vyvere*).
+Van de Vyvere, Ernest (1811-1853), Belgian pharmacist and botanist at Brugge (Bruges). 
+**Abbreviated name**: *Van de Vyvere*
 
 #### Herbarium and types
 

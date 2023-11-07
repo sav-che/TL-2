@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103253#page/238/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33068454) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hitchcock, Albert Spear (né Jennings) (1865-1935), American botanist, leading agrostologist, at Ames (1885-1889), St. Louis (1889-1891), Manhattan, Kansas (1892-1901), USDA Washington 1901-1935; "eager explorer, far-seeing botanist, and wise promoter of scientific research in America" (Jepson, Fl. Calif. 1925, in copy presented to Hitchcock). (*Hitchc*).
+Hitchcock, Albert Spear (né Jennings) (1865-1935), American botanist, leading agrostologist, at Ames (1885-1889), St. Louis (1889-1891), Manhattan, Kansas (1892-1901), USDA Washington 1901-1935; "eager explorer, far-seeing botanist, and wise promoter of scientific research in America" (Jepson, Fl. Calif. 1925, in copy presented to Hitchcock). 
+**Abbreviated name**: *Hitchc*
 
 #### Herbarium and types
 

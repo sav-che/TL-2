@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/104137#page/143/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33355214) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lloyd, George N. (1804-1889), British botanist at Edinburgh. (*G. N. Lloyd*).
+Lloyd, George N. (1804-1889), British botanist at Edinburgh. 
+**Abbreviated name**: *G. N. Lloyd*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/item/103835#page/127/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33260105) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drummond, Andrew Thomas (1843-?), Canadian botanist, born 18 Jul 1843 at Kingston (Ontario), especially studying Canadian forestry and plant geography, still alive in 1908. (*A.T. Drumm.*).
+Drummond, Andrew Thomas (1843-?), Canadian botanist, born 18 Jul 1843 at Kingston (Ontario), especially studying Canadian forestry and plant geography, still alive in 1908. 
+**Abbreviated name**: *A.T. Drumm.*
 
 #### Herbarium and types
 

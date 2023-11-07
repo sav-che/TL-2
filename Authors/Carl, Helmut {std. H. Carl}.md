@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103861#page/424/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33266721) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carl, Helmut (fl. 1931-1933), German botanist at Eisenach and Jena. (*H. Carl*).
+Carl, Helmut (fl. 1931-1933), German botanist at Eisenach and Jena. 
+**Abbreviated name**: *H. Carl*
 
 #### Herbarium and types
 

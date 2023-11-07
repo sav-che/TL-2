@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103859#page/210/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265397) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blanche, \[Charles\] Isidore (1823-1887), French plant collector in Tanger 1850-1851, subsequently consul at Tripoli and Beirut, also collecting plants in Syria. (*C.I. Blanche*).
+Blanche, \[Charles\] Isidore (1823-1887), French plant collector in Tanger 1850-1851, subsequently consul at Tripoli and Beirut, also collecting plants in Syria. 
+**Abbreviated name**: *C.I. Blanche*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103860#page/389/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33266056) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Correvon, \[Louis\] Henri (1854-1939), Swiss horticulturist and botanist, born at Yverdon, set up in 1885 the Jardin Alpin d' acclimatation in Genève, had also a garden at Chêne-Bourg 1902, was director of "La Linnaea" above Bourg-Saint-Pierre at 1694 m 1889-1915, Hon. Dr. Sci. 1931, Univ. Genève, died at Hèrisau, Appenzell. (*Correvon*).
+Correvon, \[Louis\] Henri (1854-1939), Swiss horticulturist and botanist, born at Yverdon, set up in 1885 the Jardin Alpin d' acclimatation in Genève, had also a garden at Chêne-Bourg 1902, was director of "La Linnaea" above Bourg-Saint-Pierre at 1694 m 1889-1915, Hon. Dr. Sci. 1931, Univ. Genève, died at Hèrisau, Appenzell. 
+**Abbreviated name**: *Correvon*
 
 #### Herbarium and types
 

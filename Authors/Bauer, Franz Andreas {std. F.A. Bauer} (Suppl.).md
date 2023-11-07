@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103858#page/396/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33265111) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bauer, Franz Andreas {std. F.A. Bauer}|first entry]] for this author
 
 ### Author
 
-\* Bauer, Franz Andreas (1758-1840), Austrian botanical artist, born in Feldsberg (from 1919 Valtice, Czechoslovakia), first training in drawing and painting by his mother, worked with N.J. and J.F. von Jacquin, travelled with the latter in W. Europe, visiting Joseph Banks, 1788, stayed in England as botanical draughtsman for Banks working for Kew, as (unauthorized) "Botanical painter to His Majesty", de facto paid by Banks. (*F.A. Bauer*).
+\* Bauer, Franz Andreas (1758-1840), Austrian botanical artist, born in Feldsberg (from 1919 Valtice, Czechoslovakia), first training in drawing and painting by his mother, worked with N.J. and J.F. von Jacquin, travelled with the latter in W. Europe, visiting Joseph Banks, 1788, stayed in England as botanical draughtsman for Banks working for Kew, as (unauthorized) "Botanical painter to His Majesty", de facto paid by Banks. 
+**Abbreviated name**: *F.A. Bauer*
 
 #### Original drawings
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/104077#page/254/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33333379) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidle, Wilhelm (1860-1951), German (Baden) algologist and geologist; studied at Freiburg i. Br. and Berlin 1879-1883; high school teacher at Mannheim; from 1902-1907 director of the Baden teachers college at Meersburg on the Bodensee; at Karlsruhe 1907-1908; director of the Zeppelin-Oberrealschule, Konstanz 1909-1924; at the Schloss-Schule, Salem 1924-1930; from 1931 in retirement at Freiburg i. Br.; Dr. h.c. Univ. Freiburg i.Br. 1920 (*Schmidle*).
+Schmidle, Wilhelm (1860-1951), German (Baden) algologist and geologist; studied at Freiburg i. Br. and Berlin 1879-1883; high school teacher at Mannheim; from 1902-1907 director of the Baden teachers college at Meersburg on the Bodensee; at Karlsruhe 1907-1908; director of the Zeppelin-Oberrealschule, Konstanz 1909-1924; at the Schloss-Schule, Salem 1924-1930; from 1931 in retirement at Freiburg i. Br.; Dr. h.c. Univ. Freiburg i.Br. 1920 
+**Abbreviated name**: *Schmidle*
 
 #### Herbarium and types
 

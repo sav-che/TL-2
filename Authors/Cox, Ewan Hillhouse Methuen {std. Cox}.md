@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/item/103860#page/447/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33266114) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cox, Ewan Hillhouse Methuen (1893-1977), British rock gardener, plant hunter in China. (*Cox*).
+Cox, Ewan Hillhouse Methuen (1893-1977), British rock gardener, plant hunter in China. 
+**Abbreviated name**: *Cox*
 
 #### Herbarium and types
 

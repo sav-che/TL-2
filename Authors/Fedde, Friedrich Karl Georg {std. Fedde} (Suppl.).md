@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/item/103834#page/102/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33259584) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fedde, Friedrich Karl Georg {std. Fedde}|first entry]] for this author
 
 ### Author
 
-\* Fedde, Friedrich Karl Georg (1873-1942), German botanist, editor and publisher, born 30 Jun 1873 in Breslau (now Wroclaw, Poland), attended the "pre-Gymnasium" and Gymnasium in Breslau 1879-1892, studied natural sciences at the Univ. of Breslau 1892-1896, Dr. phil. 1896 Univ. of Breslau (under F.A. Pax), teacher in Breslau and Tarnowitz, to schools in Berlin in 1901, also worked full time at the Botanical Museum Berlin-Dahlem from 1924, died 14 Mar 1942 in Berlin-Dahlem. (*Fedde*).
+\* Fedde, Friedrich Karl Georg (1873-1942), German botanist, editor and publisher, born 30 Jun 1873 in Breslau (now Wroclaw, Poland), attended the "pre-Gymnasium" and Gymnasium in Breslau 1879-1892, studied natural sciences at the Univ. of Breslau 1892-1896, Dr. phil. 1896 Univ. of Breslau (under F.A. Pax), teacher in Breslau and Tarnowitz, to schools in Berlin in 1901, also worked full time at the Botanical Museum Berlin-Dahlem from 1924, died 14 Mar 1942 in Berlin-Dahlem. 
+**Abbreviated name**: *Fedde*
 
 #### Herbarium and types
 

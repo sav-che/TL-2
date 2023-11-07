@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/104137#page/327/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marsson, \[Karl\] Maximilian (1845-1909), German algologist; son of Theodor Friedrich M.; from 1874-1893 pharmacist at Kreuznach, Düsseldorf and Leipzig; from 1893 devoting himself entirely to cryptogamy; from 1898-1909 in Berlin acting as expert on water pollution. (*M. Marsson*).
+Marsson, \[Karl\] Maximilian (1845-1909), German algologist; son of Theodor Friedrich M.; from 1874-1893 pharmacist at Kreuznach, Düsseldorf and Leipzig; from 1893 devoting himself entirely to cryptogamy; from 1898-1909 in Berlin acting as expert on water pollution. 
+**Abbreviated name**: *M. Marsson*
 
 #### Herbarium and types
 

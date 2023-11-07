@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103832#page/376/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33258842) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Greenman, Jesse More {std. Greenm.}|first entry]] for this author
 
 ### Author
 
-\* Greenman, Jesse More (1867-1951), American botanist, born 27 Dec 1867 in North East (Erie Co.), Penn., B.S. 1893 Univ. of Penn., Philadelphia where he served as asst. and instructor in botany 1890-1892, M.Sc. 1899 Harvard Univ., Cambridge, Mass., where he was asst. in the Gray Herb. 1894-1899, Ph.D. 1901 Univ. of Berlin (under A. Engler), again asst. in Botany, Harvard 1902-1905, asst. curator, Field Columbian Museum, Chicago 1905-1913 and asst. prof., Univ. of Chicago 1905-1913, curator, Missouri Botanical Garden 1913-1948 and prof., Shaw School of Botany, Washington Univ., St. Louis, specialist in *Senecio* and on the Mexican and Central Amer. flora, president, A.S.P.T. 1938, died 20 Jan 1951 in St. Louis, Missouri. (*Greenm.*).
+\* Greenman, Jesse More (1867-1951), American botanist, born 27 Dec 1867 in North East (Erie Co.), Penn., B.S. 1893 Univ. of Penn., Philadelphia where he served as asst. and instructor in botany 1890-1892, M.Sc. 1899 Harvard Univ., Cambridge, Mass., where he was asst. in the Gray Herb. 1894-1899, Ph.D. 1901 Univ. of Berlin (under A. Engler), again asst. in Botany, Harvard 1902-1905, asst. curator, Field Columbian Museum, Chicago 1905-1913 and asst. prof., Univ. of Chicago 1905-1913, curator, Missouri Botanical Garden 1913-1948 and prof., Shaw School of Botany, Washington Univ., St. Louis, specialist in *Senecio* and on the Mexican and Central Amer. flora, president, A.S.P.T. 1938, died 20 Jan 1951 in St. Louis, Missouri. 
+**Abbreviated name**: *Greenm.*
 
 #### Herbarium and types
 

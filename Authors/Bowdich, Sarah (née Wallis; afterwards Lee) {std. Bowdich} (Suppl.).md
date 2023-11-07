@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103859#page/407/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265594) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bowdich, Sarah (née Wallis; afterwards Lee) {std. Bowdich}|first entry]] for this author
 
 ### Author
 
-\* Bowdich, Sarah (née Wallis; afterwards Lee) (1791-1856), British botanist, collected plants in tropical West Africa, with her husband T.E. Bowdich (1791-1824) in West Africa 1814, 1815 and 1823, married Robert Lee in 1829 (*Bowdich*).
+\* Bowdich, Sarah (née Wallis; afterwards Lee) (1791-1856), British botanist, collected plants in tropical West Africa, with her husband T.E. Bowdich (1791-1824) in West Africa 1814, 1815 and 1823, married Robert Lee in 1829 
+**Abbreviated name**: *Bowdich*
 
 #### Herbarium and types
 

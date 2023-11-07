@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103250#page/196/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33066476) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Webster, Angus Duncan (*fl*. 1890-1920), British (Scottish) horticulturist; manager of private woodlands; from 1896-1920 park superintendent Regents Park, London. (*Webst.*).
+Webster, Angus Duncan (*fl*. 1890-1920), British (Scottish) horticulturist; manager of private woodlands; from 1896-1920 park superintendent Regents Park, London. 
+**Abbreviated name**: *Webst.*
 
 #### Herbarium and types
 

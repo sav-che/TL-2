@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/item/103253#page/680/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33068896) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koster, Joséphine Thérèse (1902-x), Dutch botanist at the Rijksherbarium, Leiden 1930-1967; Ph.D. Leiden 1935; worked on Malaysian Compositae, Cyanophyta and marine algae. (*J. Kost.*).
+Koster, Joséphine Thérèse (1902-x), Dutch botanist at the Rijksherbarium, Leiden 1930-1967; Ph.D. Leiden 1935; worked on Malaysian Compositae, Cyanophyta and marine algae. 
+**Abbreviated name**: *J. Kost.*
 
 #### Herbarium and types
 

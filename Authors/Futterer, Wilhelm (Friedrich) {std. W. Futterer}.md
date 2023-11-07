@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103832#page/95/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33258561) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Futterer, Wilhelm \[Friedrich\] (1871-x), German pharmacist, born 19 Jan 1871 in Stockach (Kreis Constanz), attended Gymnasium in Heidelberg, studied pharmacy and passed the state examination for pharmacist 1895, Dr. Sci. 1896 Heidelberg, asst., Botanical Inst., Marburg Univ. (*W. Futterer*).
+Futterer, Wilhelm \[Friedrich\] (1871-x), German pharmacist, born 19 Jan 1871 in Stockach (Kreis Constanz), attended Gymnasium in Heidelberg, studied pharmacy and passed the state examination for pharmacist 1895, Dr. Sci. 1896 Heidelberg, asst., Botanical Inst., Marburg Univ. 
+**Abbreviated name**: *W. Futterer*
 
 #### Herbarium and types
 

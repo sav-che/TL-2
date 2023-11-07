@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/104137#page/158/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33355229) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loesener, Ludwig Eduard Theodor (1865-1941), German botanist of the Engler school; Dr. phil. Berlin 1890; from 1896-1920 at the Botanical Museum, Berlin-Dahlem. (*Loes.*).
+Loesener, Ludwig Eduard Theodor (1865-1941), German botanist of the Engler school; Dr. phil. Berlin 1890; from 1896-1920 at the Botanical Museum, Berlin-Dahlem. 
+**Abbreviated name**: *Loes.*
 
 #### Herbarium and types
 

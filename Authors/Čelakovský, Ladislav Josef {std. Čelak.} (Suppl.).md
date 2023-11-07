@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103860#page/18/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33265685) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Čelakovský, Ladislav Josef {std. Čelak.}|first entry]] for this author
 
 ### Author
 
-\* Čelakovský, Ladislav Josef (1834-1902), Czech botanist at Praha, leader of the Bohemian morphological school bridging typological and evolutionary morphology; born in Prague 1834, educated at the catholic gymnasium of Breslau 1842-1849, moved back to Prague, "supplent" at the Obergymnasium in Komotau 1858-1859, curator at the regional museum in Praha 1860, Dr. phil. 1863, Praha, 1866 habil. for botany at the Technical University, 1871 extraord. professor, 1880 full professor, moved 1882 to the Bohemian University, director of the Botanical Gardens and of the Botanical Institute 1898 (with R.v. Wettstein). (*Čelak.*).
+\* Čelakovský, Ladislav Josef (1834-1902), Czech botanist at Praha, leader of the Bohemian morphological school bridging typological and evolutionary morphology; born in Prague 1834, educated at the catholic gymnasium of Breslau 1842-1849, moved back to Prague, "supplent" at the Obergymnasium in Komotau 1858-1859, curator at the regional museum in Praha 1860, Dr. phil. 1863, Praha, 1866 habil. for botany at the Technical University, 1871 extraord. professor, 1880 full professor, moved 1882 to the Bohemian University, director of the Botanical Gardens and of the Botanical Institute 1898 (with R.v. Wettstein). 
+**Abbreviated name**: *Čelak.*
 
 #### Herbarium and types
 

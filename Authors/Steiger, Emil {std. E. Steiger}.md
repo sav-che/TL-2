@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/item/104077#page/885/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33334010) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steiger, Emil (1861-1927), Swiss botanist and pharmacist at Basel; Dr. phil. h.c. Basel 1919. (*E. Steiger*).
+Steiger, Emil (1861-1927), Swiss botanist and pharmacist at Basel; Dr. phil. h.c. Basel 1919. 
+**Abbreviated name**: *E. Steiger*
 
 #### Herbarium and types
 

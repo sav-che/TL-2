@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103624#page/179/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33189636) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perkins, Mrs. E.E. (*fl*. 1830-1840), British botanist at Chelsea; "professor of botanical flower painting" (t.p. Elem. bot.). (*E. Perkins*).
+Perkins, Mrs. E.E. (*fl*. 1830-1840), British botanist at Chelsea; "professor of botanical flower painting" (t.p. Elem. bot.). 
+**Abbreviated name**: *E. Perkins*
 
 #### Herbarium and types
 

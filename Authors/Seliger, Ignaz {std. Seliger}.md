@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/item/104077#page/512/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seliger, Ignaz (1752-1812), German (Silesian) clergyman and botanist at Wölfeisdorf; early student of Silesian cryptogams. (*Seliger*).
+Seliger, Ignaz (1752-1812), German (Silesian) clergyman and botanist at Wölfeisdorf; early student of Silesian cryptogams. 
+**Abbreviated name**: *Seliger*
 
 #### Herbarium and types
 

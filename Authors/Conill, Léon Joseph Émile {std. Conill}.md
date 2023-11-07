@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103860#page/310/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33265977) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conill, Léon Joseph Émile (fl. 1909-1938), French botanist, teacher in Sorède (Pyrénées-Orientales), student of the flora of the Pyrenées. (*Conill*).
+Conill, Léon Joseph Émile (fl. 1909-1938), French botanist, teacher in Sorède (Pyrénées-Orientales), student of the flora of the Pyrenées. 
+**Abbreviated name**: *Conill*
 
 #### Herbarium and types
 

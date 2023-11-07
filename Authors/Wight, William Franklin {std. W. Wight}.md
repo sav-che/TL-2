@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103250#page/342/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33066622) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wight, William Franklin (1874-1954), American botanist; B.S. Mich. Agric. Coll. 1894; A.M. Stanford 1900; assistant for systematic botany Stanford 1899-1900; with USDA from 1900 working on agricultural exploration, fruit breeding, systematic pomology and the flora of Alaska. (*W. Wight*).
+Wight, William Franklin (1874-1954), American botanist; B.S. Mich. Agric. Coll. 1894; A.M. Stanford 1900; assistant for systematic botany Stanford 1899-1900; with USDA from 1900 working on agricultural exploration, fruit breeding, systematic pomology and the flora of Alaska. 
+**Abbreviated name**: *W. Wight*
 
 #### Herbarium and types
 

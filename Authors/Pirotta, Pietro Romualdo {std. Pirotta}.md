@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/103624#page/288/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33189745) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pirotta, Pietro Romualdo (1853-1936), Italian botanist (educated in Pavia); director of the botanic garden at Modena 1880-1883, professor of botany at the University of Roma 1883 (extraord.), 1888. (ord.) and director of the botanic garden until 1928. (*Pirotta*).
+Pirotta, Pietro Romualdo (1853-1936), Italian botanist (educated in Pavia); director of the botanic garden at Modena 1880-1883, professor of botany at the University of Roma 1883 (extraord.), 1888. (ord.) and director of the botanic garden until 1928. 
+**Abbreviated name**: *Pirotta*
 
 #### Herbarium and types
 

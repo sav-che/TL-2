@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/103253#page/574/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33068790) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirchner, \[Emil Otto\] Oskar (1851-1925), German botanist and flower-biologist; Dr. phil. Breslau 1874; from 1873-1877 at Breslau; from 1877-1917 assistant, from 1881 professor of botany at the Landwirtschaftliche Akademie, Hohenheim; from 1917-1925 living at München. (*Kirchn.*).
+Kirchner, \[Emil Otto\] Oskar (1851-1925), German botanist and flower-biologist; Dr. phil. Breslau 1874; from 1873-1877 at Breslau; from 1877-1917 assistant, from 1881 professor of botany at the Landwirtschaftliche Akademie, Hohenheim; from 1917-1925 living at München. 
+**Abbreviated name**: *Kirchn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/item/104077#page/610/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33333735) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sievers, Wilhelm (1860-1921), German (Hamburg), geographer and explorer; Dr. phil. Göttingen 1882; lecturer for geography Univ. Würzburg 1887, e.o. prof. id. 1890; ordinary professor of geography Univ. Giessen 1903-1921. (*W. Sievers*).
+Sievers, Wilhelm (1860-1921), German (Hamburg), geographer and explorer; Dr. phil. Göttingen 1882; lecturer for geography Univ. Würzburg 1887, e.o. prof. id. 1890; ordinary professor of geography Univ. Giessen 1903-1921. 
+**Abbreviated name**: *W. Sievers*
 
 #### Herbarium and types
 

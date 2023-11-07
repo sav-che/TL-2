@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/item/104137#page/777/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noël, Paul (*fl*. 1910), French mycologist and phytopathologist; director of the regional laboratory of agricultural entomology of the dept. Seine-Inférieure. (*P. Noël*).
+Noël, Paul (*fl*. 1910), French mycologist and phytopathologist; director of the regional laboratory of agricultural entomology of the dept. Seine-Inférieure. 
+**Abbreviated name**: *P. Noël*
 
 #### Herbarium and types
 

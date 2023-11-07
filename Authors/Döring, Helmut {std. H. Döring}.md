@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103835#page/36/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33260014) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Döring, Helmut (1909-1942), German botanist, born 3 Jan 1909 at Nowawes, Mark Brandenburg, 1915-1924 at a "Vorschule" and "Realgymnasium" of the Althoff-Schule, 1924-1927 at an "Oberrealschule", studied natural sciences in Berlin, Munich, and Kiel, doctor's degree received at the Hohe Philosophische Fakultät of the Christian-Albrechts-Universität at Kiel 1932, died 2 Aug 1942 as officer in the army in Russia. (*H. Döring*).
+Döring, Helmut (1909-1942), German botanist, born 3 Jan 1909 at Nowawes, Mark Brandenburg, 1915-1924 at a "Vorschule" and "Realgymnasium" of the Althoff-Schule, 1924-1927 at an "Oberrealschule", studied natural sciences in Berlin, Munich, and Kiel, doctor's degree received at the Hohe Philosophische Fakultät of the Christian-Albrechts-Universität at Kiel 1932, died 2 Aug 1942 as officer in the army in Russia. 
+**Abbreviated name**: *H. Döring*
 
 #### Herbarium and types
 

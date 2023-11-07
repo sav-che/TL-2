@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/104137#page/410/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33355481) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Medikus, Friedrich Kasimir (1736-1808) \[Medicus, Friedrich Casimir\], German botanist; in charge of the Mannheim botanic garden from 1766; at Schwetzingen and Mannheim. (*Medik.*).
+Medikus, Friedrich Kasimir (1736-1808) \[Medicus, Friedrich Casimir\], German botanist; in charge of the Mannheim botanic garden from 1766; at Schwetzingen and Mannheim. 
+**Abbreviated name**: *Medik.*
 
 #### Herbarium and types
 

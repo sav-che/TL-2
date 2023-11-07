@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/item/103414#page/684/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-De Toni, Ettore (Hector) (1858-?), Italian botanist. (*E. De Toni*).
+De Toni, Ettore (Hector) (1858-?), Italian botanist. 
+**Abbreviated name**: *E. De Toni*
 
 #### Herbarium and types
 

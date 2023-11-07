@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103832#page/25/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33258513) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Friebel, Heinz (1909-x), German botanist, born 29 Apr 1909 in Braunschweig, attended gymnasium in Burgsteinfurt, studied natural history in Innsbruck, Münster, Freiburg (Breisgau) and Berlin. (*Friebel*).
+Friebel, Heinz (1909-x), German botanist, born 29 Apr 1909 in Braunschweig, attended gymnasium in Burgsteinfurt, studied natural history in Innsbruck, Münster, Freiburg (Breisgau) and Berlin. 
+**Abbreviated name**: *Friebel*
 
 #### Herbarium and types
 

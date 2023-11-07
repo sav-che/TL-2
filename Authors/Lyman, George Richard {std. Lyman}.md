@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/104137#page/216/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33355287) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lyman, George Richard (1871-1926), American phytopathologist and mycologist; Ph. D. Harvard 1906, instructor in botany at Radcliffe College 1900-1901; id. at Dartmouth College 1901-1915; with USDA 1915-1923; with the Agricultural Experiment Station, West Virginia 1923-1926. (*Lyman*).
+Lyman, George Richard (1871-1926), American phytopathologist and mycologist; Ph. D. Harvard 1906, instructor in botany at Radcliffe College 1900-1901; id. at Dartmouth College 1901-1915; with USDA 1915-1923; with the Agricultural Experiment Station, West Virginia 1923-1926. 
+**Abbreviated name**: *Lyman*
 
 #### Herbarium and types
 

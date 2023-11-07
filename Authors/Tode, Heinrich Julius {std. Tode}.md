@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/103683#page/392/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33212424) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tode, Heinrich Julius (1733-1797), German (Mecklenburg) botanist and clergyman; "Consistorialrath", "Hof- und Domprediger" at Schwerin. (*Tode*).
+Tode, Heinrich Julius (1733-1797), German (Mecklenburg) botanist and clergyman; "Consistorialrath", "Hof- und Domprediger" at Schwerin. 
+**Abbreviated name**: *Tode*
 
 #### Herbarium and types
 

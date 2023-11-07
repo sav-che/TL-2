@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103253#page/221/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33068437) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hiitonen, Henrik Ilmari Augustus (up till 1932 Hidén) (1898-x), Finnish botanist. (*Hiit.*).
+Hiitonen, Henrik Ilmari Augustus (up till 1932 Hidén) (1898-x), Finnish botanist. 
+**Abbreviated name**: *Hiit.*
 
 #### Herbarium and types
 

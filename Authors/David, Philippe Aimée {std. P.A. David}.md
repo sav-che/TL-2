@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103833#page/108/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33259142) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-David, Philippe Aimée (fl. 1878), French physician and botanist, Chevalier de la Légion-d'Honneur. (*P.A. David*).
+David, Philippe Aimée (fl. 1878), French physician and botanist, Chevalier de la Légion-d'Honneur. 
+**Abbreviated name**: *P.A. David*
 
 #### Herbarium and types
 

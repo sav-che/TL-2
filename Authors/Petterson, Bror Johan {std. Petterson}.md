@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103624#page/226/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33189683) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petterson, Bror Johan (1895-x), Finnish botanist, curator at the Botanical Museum, University of Helsinki 1959-1965; travelled in the Canary Islands 1947, 1949, 1951 and Sudan & Egypt 1962. (*Petterson*).
+Petterson, Bror Johan (1895-x), Finnish botanist, curator at the Botanical Museum, University of Helsinki 1959-1965; travelled in the Canary Islands 1947, 1949, 1951 and Sudan & Egypt 1962. 
+**Abbreviated name**: *Petterson*
 
 #### Herbarium and types
 

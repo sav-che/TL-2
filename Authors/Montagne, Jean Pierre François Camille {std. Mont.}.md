@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/104137#page/573/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33355644) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Montagne, Jean Pierre François Camille (1784-1866), French crytogamist; military physician 1815-1830; afterwards private scientist at Paris. (*Mont.*).
+Montagne, Jean Pierre François Camille (1784-1866), French crytogamist; military physician 1815-1830; afterwards private scientist at Paris. 
+**Abbreviated name**: *Mont.*
 
 #### Harbarium and types
 

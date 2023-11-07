@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103253#page/181/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33068397) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henkel, Johann Baptist (1815/1825-1871), German pharmacist at Würzburg 1851-1855; from 1860 lecturer and professor of pharmaceutical botany at Tübingen. (*Henkel*).
+Henkel, Johann Baptist (1815/1825-1871), German pharmacist at Würzburg 1851-1855; from 1860 lecturer and professor of pharmaceutical botany at Tübingen. 
+**Abbreviated name**: *Henkel*
 
 #### Herbarium and types
 

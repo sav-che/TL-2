@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/item/104137#page/883/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Owen, Maria Louisa (née Tallant) (1825-1913), American botanist at Springfield, Mass. (*Owen*).
+Owen, Maria Louisa (née Tallant) (1825-1913), American botanist at Springfield, Mass. 
+**Abbreviated name**: *Owen*
 
 #### Herbarium and types
 

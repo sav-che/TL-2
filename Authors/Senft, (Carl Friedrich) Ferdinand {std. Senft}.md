@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/item/104077#page/521/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Senft, \[Carl Friedrich\] Ferdinand (1810-1893), German (Thuringian) botanist, geologist and mineralogist; studied theology and natural sciences at Göttingen; cand. theol. ib. 1834; lecturer, later professor (1850) for natural sciences at the Forestry College of Eisenach 1834-1890; also high school teacher at the Eisenach Gymnasium 1843-1875; Geh. Hofrath 1890. (*Senft*).
+Senft, \[Carl Friedrich\] Ferdinand (1810-1893), German (Thuringian) botanist, geologist and mineralogist; studied theology and natural sciences at Göttingen; cand. theol. ib. 1834; lecturer, later professor (1850) for natural sciences at the Forestry College of Eisenach 1834-1890; also high school teacher at the Eisenach Gymnasium 1843-1875; Geh. Hofrath 1890. 
+**Abbreviated name**: *Senft*
 
 #### Herbarium and types
 

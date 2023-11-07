@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/item/103861#page/324/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33266621) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Callier, Alfons (1866-1927), German botanist and pharmacist, born in the Niederlausitz, (Spremberg), studied pharmacy at the University of Breslau, pharmacist in Caroluth, ultimately in Bunzlau, travelled in the Crimea and the Caucasus ca. 1895-1896. (*Callier*).
+Callier, Alfons (1866-1927), German botanist and pharmacist, born in the Niederlausitz, (Spremberg), studied pharmacy at the University of Breslau, pharmacist in Caroluth, ultimately in Bunzlau, travelled in the Crimea and the Caucasus ca. 1895-1896. 
+**Abbreviated name**: *Callier*
 
 #### Herbarium and types
 

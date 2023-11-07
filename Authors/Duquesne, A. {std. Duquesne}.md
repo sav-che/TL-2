@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103835#page/188/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33260166) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duquesne, A. (fl. 1884), French botanist from Normandie, probably living at Rouen, member of the Société Linnéenne de Normandie and of the Science Society of Rouen. (*Duquesne*).
+Duquesne, A. (fl. 1884), French botanist from Normandie, probably living at Rouen, member of the Société Linnéenne de Normandie and of the Science Society of Rouen. 
+**Abbreviated name**: *Duquesne*
 
 #### Herbarium and types
 

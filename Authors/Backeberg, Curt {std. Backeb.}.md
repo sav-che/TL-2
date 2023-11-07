@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103414#page/134/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33120217) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Backeberg, Curt {std. Backeb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Backeberg, Curt (1894-1966), German author on succulent plants. (*Backeb.*).
+Backeberg, Curt (1894-1966), German author on succulent plants. 
+**Abbreviated name**: *Backeb.*
 
 #### Herbarium and types
 

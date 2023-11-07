@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103253#page/175/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Helwing, Georg Andreas (1668-1748), German clergyman at Angerburg in Preussen. (*Helw.*).
+Helwing, Georg Andreas (1668-1748), German clergyman at Angerburg in Preussen. 
+**Abbreviated name**: *Helw.*
 
 #### Herbarium and types
 

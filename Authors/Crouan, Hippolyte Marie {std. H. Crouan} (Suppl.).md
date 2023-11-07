@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/item/103860#page/489/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33266156) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crouan, Hippolyte Marie {std. H. Crouan}|first entry]] for this author
 
 ### Author
 
-\* Crouan, Hippolyte Marie (1802-1871), French botanist and pharmacist, younger brother of P.L. Crouan, born at Brest, Finistère, on probation pharmacist at Louviers (Eure) as well as with his brother at Rouen, became pharmacist at Paris 1829, ca. 1830 idem with his brother at Brest until 1860. (*H. Crouan*).
+\* Crouan, Hippolyte Marie (1802-1871), French botanist and pharmacist, younger brother of P.L. Crouan, born at Brest, Finistère, on probation pharmacist at Louviers (Eure) as well as with his brother at Rouen, became pharmacist at Paris 1829, ca. 1830 idem with his brother at Brest until 1860. 
+**Abbreviated name**: *H. Crouan*
 
 #### Herbarium and types
 

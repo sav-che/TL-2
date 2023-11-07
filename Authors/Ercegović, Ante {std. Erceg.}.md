@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/item/103835#page/393/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33260371) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ercegović, Ante (1895-1969), Yugoslavian botanist (algologist), born 25 Oct 1895 at Jesenice (at that time Austria), studied at the lyceum at Split and the faculty of theology there, later at the faculty of natural sciences at Ljubljana and Zagreb where he received his doctor's degree in 1924, left Zagreb for Split working for almost 40 years at the oceanographic institute founded at Split in 1930, died 25 Apr 1969. (*Erceg.*).
+Ercegović, Ante (1895-1969), Yugoslavian botanist (algologist), born 25 Oct 1895 at Jesenice (at that time Austria), studied at the lyceum at Split and the faculty of theology there, later at the faculty of natural sciences at Ljubljana and Zagreb where he received his doctor's degree in 1924, left Zagreb for Split working for almost 40 years at the oceanographic institute founded at Split in 1930, died 25 Apr 1969. 
+**Abbreviated name**: *Erceg.*
 
 #### Herbarium and types
 

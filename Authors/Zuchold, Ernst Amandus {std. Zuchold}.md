@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/item/103250#page/622/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zuchold, Ernst Amandus (x-1867), German (Saxonian) bibliographer, bookseller and antiquarian at Leipzig. (*Zuchold*).
+Zuchold, Ernst Amandus (x-1867), German (Saxonian) bibliographer, bookseller and antiquarian at Leipzig. 
+**Abbreviated name**: *Zuchold*
 
 #### Herbarium and types
 

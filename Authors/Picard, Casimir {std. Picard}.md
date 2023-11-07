@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103624#page/261/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33189718) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Picard, Casimir (1806-1841), French botanist and physician; studied medicine at Amiens; practicing physician at Abbeville 1828-1841; "administrateur" of the museum of Abbeville; founder of the Société Linnéenne du Nord de la France, 1838. (*Picard*).
+Picard, Casimir (1806-1841), French botanist and physician; studied medicine at Amiens; practicing physician at Abbeville 1828-1841; "administrateur" of the museum of Abbeville; founder of the Société Linnéenne du Nord de la France, 1838. 
+**Abbreviated name**: *Picard*
 
 #### Herbarium and types
 

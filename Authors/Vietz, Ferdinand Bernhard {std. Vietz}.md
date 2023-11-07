@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/103683#page/745/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33212777) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vietz, Ferdinand Bernhard (1772-1815), Austrian physician; Dr. med. Wien 1799; extra-ordinary professor of forensic medicine Univ. Wien 1801, regular professor id. 1805; from 1812-1815 director of the Veterinary School of the University. (*Vietz*).
+Vietz, Ferdinand Bernhard (1772-1815), Austrian physician; Dr. med. Wien 1799; extra-ordinary professor of forensic medicine Univ. Wien 1801, regular professor id. 1805; from 1812-1815 director of the Veterinary School of the University. 
+**Abbreviated name**: *Vietz*
 
 #### Herbarium and types
 

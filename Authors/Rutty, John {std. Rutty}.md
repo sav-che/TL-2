@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/item/103624#page/1025/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rutty, John (1697-1775), British (English) physician; MD Leiden 1723; physician at Dublin 1724-1775. (*Rutty*).
+Rutty, John (1697-1775), British (English) physician; MD Leiden 1723; physician at Dublin 1724-1775. 
+**Abbreviated name**: *Rutty*
 
 #### Herbarium and types
 

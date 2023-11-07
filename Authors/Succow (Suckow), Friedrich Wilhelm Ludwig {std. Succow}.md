@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103683#page/85/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Succow \[Suckow\], Friedrich Wilhelm Ludwig (1770-1838), German (Baden) physician and naturalist; director of the Baden Natural History Museum at Mannheim. (*Succow*).
+Succow \[Suckow\], Friedrich Wilhelm Ludwig (1770-1838), German (Baden) physician and naturalist; director of the Baden Natural History Museum at Mannheim. 
+**Abbreviated name**: *Succow*
 
 #### Herbarium and types
 

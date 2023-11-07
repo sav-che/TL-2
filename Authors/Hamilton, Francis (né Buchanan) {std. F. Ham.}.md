@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103253#page/61/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33068277) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hamilton, Francis (né Buchanan) (1762-1829), Scottish physician and botanist in the Bengal medical service 1795-1815; superintendent Botanic Garden Calcutta 1814-1815. (*F. Ham.*).
+Hamilton, Francis (né Buchanan) (1762-1829), Scottish physician and botanist in the Bengal medical service 1795-1815; superintendent Botanic Garden Calcutta 1814-1815. 
+**Abbreviated name**: *F. Ham.*
 
 #### Herbarium and types
 

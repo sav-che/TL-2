@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103832#page/331/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33258797) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gradmann, Robert Julius Wilhelm (1865-1950), German floristic botanist, geographer and priest, born 18 Jul 1865 in Lauffen am Neckar, Lutheran priest in Forchtenberg am Kocher, Dr. phil. 1898 Univ. of Tübingen, library dir., Univ. of Tübingen 1901-1919, habilitated 1909, prof., Univ. of Erlangen, retired 1934, died 16 Sep 1950 in Sindelfingen nr. Stuttgart. (*R. Gradmann*).
+Gradmann, Robert Julius Wilhelm (1865-1950), German floristic botanist, geographer and priest, born 18 Jul 1865 in Lauffen am Neckar, Lutheran priest in Forchtenberg am Kocher, Dr. phil. 1898 Univ. of Tübingen, library dir., Univ. of Tübingen 1901-1919, habilitated 1909, prof., Univ. of Erlangen, retired 1934, died 16 Sep 1950 in Sindelfingen nr. Stuttgart. 
+**Abbreviated name**: *R. Gradmann*
 
 #### Herbarium and types
 

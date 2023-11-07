@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/103624#page/416/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33189873) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pringsheim, Nathanael \[Nathan\] (1823-1894), German (Silesian) botanist; Dr. phil. Berlin 1848; Dr. phil. h.c. Jena 1858; habil. Berlin 1850; lecturing in Leipzig and Berlin 1850-1864; professor of botany and director of the botanic garden at Jena 1864-1868; working as Privatgelehrter at Berlin from 1868; one of the founders of the Deutsche botanische Gesellschaft, president 1882-1894; Geheimrath 1888. (*Pringsh.*).
+Pringsheim, Nathanael \[Nathan\] (1823-1894), German (Silesian) botanist; Dr. phil. Berlin 1848; Dr. phil. h.c. Jena 1858; habil. Berlin 1850; lecturing in Leipzig and Berlin 1850-1864; professor of botany and director of the botanic garden at Jena 1864-1868; working as Privatgelehrter at Berlin from 1868; one of the founders of the Deutsche botanische Gesellschaft, president 1882-1894; Geheimrath 1888. 
+**Abbreviated name**: *Pringsh.*
 
 #### Herbarium and types
 

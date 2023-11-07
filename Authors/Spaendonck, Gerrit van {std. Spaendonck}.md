@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/104077#page/784/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33333909) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spaendonck, Gerrit van (1746-1822), Dutch botanical artist who worked at the Muséum d'Histoire naturelle, Paris; teacher of P.J. Redouté. (*Spaendonck*).
+Spaendonck, Gerrit van (1746-1822), Dutch botanical artist who worked at the Muséum d'Histoire naturelle, Paris; teacher of P.J. Redouté. 
+**Abbreviated name**: *Spaendonck*
 
 #### Original drawings
 

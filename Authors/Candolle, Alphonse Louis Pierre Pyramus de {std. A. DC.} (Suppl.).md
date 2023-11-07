@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/item/103861#page/366/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33266663) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Candolle, Alphonse Louis Pierre Pyramus de {std. A. DC.}|first entry]] for this author
 
 ### Author
 
-Candolle, Alphonse Louis Pierre Pyramus de (1806-1893), Swiss botanist, son of A.P. de Candolle and Fanny née Forras, born at Paris, at Montpellier 1808-1816, at Geneva from 1816, Bachelier-ès lettres at the University of Geneva 1825, studied law, 'docteur en droit' 1829, professor at the Académie de Genève 1829-1835, succeeded his father as the director of the Botanical Garden of Genève1835-1850, from 1850 working privately. (*A.DC.*).
+Candolle, Alphonse Louis Pierre Pyramus de (1806-1893), Swiss botanist, son of A.P. de Candolle and Fanny née Forras, born at Paris, at Montpellier 1808-1816, at Geneva from 1816, Bachelier-ès lettres at the University of Geneva 1825, studied law, 'docteur en droit' 1829, professor at the Académie de Genève 1829-1835, succeeded his father as the director of the Botanical Garden of Genève1835-1850, from 1850 working privately. 
+**Abbreviated name**: *A. DC.*
 
 #### Herbarium and types
 

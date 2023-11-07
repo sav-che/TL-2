@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103624#page/23/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33189506) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Painter, William Hunt (1835-1910), British clergyman (entered Church of England 1861) and botanist at Barbon, High Wycombe, Edgbaston, Derby and Bristol; rector of Stinchley 1894-1901; died in Shrewbury. (*Painter*).
+Painter, William Hunt (1835-1910), British clergyman (entered Church of England 1861) and botanist at Barbon, High Wycombe, Edgbaston, Derby and Bristol; rector of Stinchley 1894-1901; died in Shrewbury. 
+**Abbreviated name**: *Painter*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/103624#page/582/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ralph, Thomas Shearman (1813-1891), British physician and botanist; emigrated to Australia 1851, to New Zealand 1852-1859; practicing medicine at Melbourne from 1859. (*Ralph*).
+Ralph, Thomas Shearman (1813-1891), British physician and botanist; emigrated to Australia 1851, to New Zealand 1852-1859; practicing medicine at Melbourne from 1859. 
+**Abbreviated name**: *Ralph*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103835#page/181/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33260159) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dunn, Stephen Troyte {std. Dunn}|first entry]] for this author
 
 ### Author
 
-\* Dunn, Stephen Troyte (1868-1938), British botanist, born 26 Aug 1868, BA Oxford from Merton College (classics), FLS 1895, private secretary to Sir W. Thiselton-Dyer at Kew 1898-1901, assistant Kew Herbarium 1901-1903, superintendent botany and forest department Hongkong 1903-1910, from 1913-1915 and 1919-1928 again at Kew, collected plants in China, Korea, Taiwan, Japan, and Hongkong. (*Dunn*).
+\* Dunn, Stephen Troyte (1868-1938), British botanist, born 26 Aug 1868, BA Oxford from Merton College (classics), FLS 1895, private secretary to Sir W. Thiselton-Dyer at Kew 1898-1901, assistant Kew Herbarium 1901-1903, superintendent botany and forest department Hongkong 1903-1910, from 1913-1915 and 1919-1928 again at Kew, collected plants in China, Korea, Taiwan, Japan, and Hongkong. 
+**Abbreviated name**: *Dunn*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103250#page/174/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33066454) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weatherby, Charles Alfred (1875-1949), American botanist (pteridologist) living at Hartford 1899-1929; A.B. Harvard 1897, A.M. 1898; voluntary assistant Gray Herbarium 1908, 1909, 1911, 1915; part time assistant ib. 1917-1929; ; full time assistant ib. 1929-1935; assistant curator 1931-1937, senior curator 1937-1940; in retirement research associate Gray Herbarium 1940-1949. (*Weath.*).
+Weatherby, Charles Alfred (1875-1949), American botanist (pteridologist) living at Hartford 1899-1929; A.B. Harvard 1897, A.M. 1898; voluntary assistant Gray Herbarium 1908, 1909, 1911, 1915; part time assistant ib. 1917-1929; ; full time assistant ib. 1929-1935; assistant curator 1931-1937, senior curator 1937-1940; in retirement research associate Gray Herbarium 1940-1949. 
+**Abbreviated name**: *Weath.*
 
 #### Herbarium and types
 

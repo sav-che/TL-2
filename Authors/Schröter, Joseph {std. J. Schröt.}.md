@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/104077#page/362/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33333487) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schröter, Joseph (1837-1894), German (Silesian) physician and botanist (especially mycologist); Dr. med. Berlin 1859; military physician with the Prussian army in Saarlouis, Jülich, Aachen and, from 1865-1870, with the Garde-Grenadier-Regiment Königin Elisabeth in Breslau; associated with F. Cohn at the plant physiological institute; on active duty in the Franco-Prussian war 1870-1871, involved in the battle of Sedan; from 1871-1874 at Rastatt; from 1874 again stationed in Breslau; habil. Breslau (mycology and bacteriology) 1886; from 1890 with the professor's title; retired from the army in 1892. (*J. Schröt.*).
+Schröter, Joseph (1837-1894), German (Silesian) physician and botanist (especially mycologist); Dr. med. Berlin 1859; military physician with the Prussian army in Saarlouis, Jülich, Aachen and, from 1865-1870, with the Garde-Grenadier-Regiment Königin Elisabeth in Breslau; associated with F. Cohn at the plant physiological institute; on active duty in the Franco-Prussian war 1870-1871, involved in the battle of Sedan; from 1871-1874 at Rastatt; from 1874 again stationed in Breslau; habil. Breslau (mycology and bacteriology) 1886; from 1890 with the professor's title; retired from the army in 1892. 
+**Abbreviated name**: *J. Schröt.*
 
 #### Herbarium and types
 

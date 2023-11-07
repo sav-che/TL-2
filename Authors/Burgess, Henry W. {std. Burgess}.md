@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103414#page/460/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burgess, Henry W. (*fl*. 1827-1833), British landscape painter to William IV. (*Burgess*).
+Burgess, Henry W. (*fl*. 1827-1833), British landscape painter to William IV. 
+**Abbreviated name**: *Burgess*
 
 #### Herbarium and types
 

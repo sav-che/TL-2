@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/item/104137#page/857/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33355928) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oppenheimer, Hillel \[Heinz\] Reinhard (1900-x), Israeli botanist; studied at Vienna with Hans Molisch; Dr. phil. 1922; with the Spaeth nurseries nr. Berlin 1924-1925; to Palestine 1925; associated with the Aaronsohn family 1926-1931; from 1931-1933 with the Department of botany of Hebrew University; from 1933-1942 physiologist and citriculturist at the Agricultural Research Station, Rehovot; from 1942 Head of the Division of Citriculture, Hebrew Univ., Rehovot, later professor of horticulture (1952) and plant physiology (1957). (*Oppenheimer*).
+Oppenheimer, Hillel \[Heinz\] Reinhard (1900-x), Israeli botanist; studied at Vienna with Hans Molisch; Dr. phil. 1922; with the Spaeth nurseries nr. Berlin 1924-1925; to Palestine 1925; associated with the Aaronsohn family 1926-1931; from 1931-1933 with the Department of botany of Hebrew University; from 1933-1942 physiologist and citriculturist at the Agricultural Research Station, Rehovot; from 1942 Head of the Division of Citriculture, Hebrew Univ., Rehovot, later professor of horticulture (1952) and plant physiology (1957). 
+**Abbreviated name**: *Oppenheimer*
 
 #### Herbarium and types
 

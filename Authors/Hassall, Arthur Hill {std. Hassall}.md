@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103253#page/118/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33068334) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hassall, Arthur Hill (1817-1894), British public analyst, sanitary specialist, and phycologist; from 1877 at San Remo. (*Hassall*).
+Hassall, Arthur Hill (1817-1894), British public analyst, sanitary specialist, and phycologist; from 1877 at San Remo. 
+**Abbreviated name**: *Hassall*
 
 #### Herbarium and types
 

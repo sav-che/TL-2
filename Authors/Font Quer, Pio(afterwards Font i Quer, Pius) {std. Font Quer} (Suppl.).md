@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103834#page/322/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33259804) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Font i Quer, Pio (Font Quer, Pius) {std. Font Quer}|first entry]] for this author
 
 ### Author
 
-\* Font Quer, Pio\[afterwards Font i Quer, Pius\] (1888-1964), Spanish (Catalan) chemist, pharmacist and botanist, born 9 Apr 1888 in Lleida (Lérida), attended school in Manresa until 1905, studied chemistry in Barcelona, Lic. en Ciencias Químicas 1908, asst., Inst. Catalana d'Historia Natural studying pharmacy 1909, botanical exploration in Morocco (Protectorate of Rif and Ifni) 1912-1913, Dr. Sci. 1914 Facultad de Farmacia, Madrid, military pharmacist 1914-1915, extraord. prof. 1917, Univ. of Barcelona, full prof. 1918, founder and dir., Natural Science Museum, Barcelona 1916-1939, following the Spanish Civil War imprisoned 1939-1940, Dr. h.c. 1959 Univ. of Montpellier, died 2 Jan 1964 in Barcelona. (*Font Quer*).
+\* Font Quer, Pio\[afterwards Font i Quer, Pius\] (1888-1964), Spanish (Catalan) chemist, pharmacist and botanist, born 9 Apr 1888 in Lleida (Lérida), attended school in Manresa until 1905, studied chemistry in Barcelona, Lic. en Ciencias Químicas 1908, asst., Inst. Catalana d'Historia Natural studying pharmacy 1909, botanical exploration in Morocco (Protectorate of Rif and Ifni) 1912-1913, Dr. Sci. 1914 Facultad de Farmacia, Madrid, military pharmacist 1914-1915, extraord. prof. 1917, Univ. of Barcelona, full prof. 1918, founder and dir., Natural Science Museum, Barcelona 1916-1939, following the Spanish Civil War imprisoned 1939-1940, Dr. h.c. 1959 Univ. of Montpellier, died 2 Jan 1964 in Barcelona. 
+**Abbreviated name**: *Font Quer*
 
 #### Herbarium and types
 

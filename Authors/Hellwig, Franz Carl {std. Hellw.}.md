@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103253#page/174/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33068390) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hellwig, Franz Carl (1861-1889), German botanist; Dr. phil. Breslau (now Wroclaw) 1886; at Karlsruhe with Just 1886-1887; to German New Guinea 1888 as botanist of the New Guinea Company and head of Kelaua Station. (*Hellw.*).
+Hellwig, Franz Carl (1861-1889), German botanist; Dr. phil. Breslau (now Wroclaw) 1886; at Karlsruhe with Just 1886-1887; to German New Guinea 1888 as botanist of the New Guinea Company and head of Kelaua Station. 
+**Abbreviated name**: *Hellw.*
 
 #### Herbarium and types
 

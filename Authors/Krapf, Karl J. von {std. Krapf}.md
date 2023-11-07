@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/item/103253#page/688/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krapf, Karl J. von (*fl*. 1782), Austrian botanist, "kaiserlich-königlicher Hofrath und Leibarzt." (*Krapf*).
+Krapf, Karl J. von (*fl*. 1782), Austrian botanist, "kaiserlich-königlicher Hofrath und Leibarzt." 
+**Abbreviated name**: *Krapf*
 
 #### Herbarium and types
 

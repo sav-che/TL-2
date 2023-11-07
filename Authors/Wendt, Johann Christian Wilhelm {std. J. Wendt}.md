@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/103250#page/244/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33066524) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wendt, Johann Christian Wilhelm (1778-1838), Danish physician and botanist; med. exam. 1804; teacher at the Copenhagen Veterinary College 1802-1806; subsequently military physician; chief physician in the Copenhagen general hospital 1814-1838. (*J. Wendt*).
+Wendt, Johann Christian Wilhelm (1778-1838), Danish physician and botanist; med. exam. 1804; teacher at the Copenhagen Veterinary College 1802-1806; subsequently military physician; chief physician in the Copenhagen general hospital 1814-1838. 
+**Abbreviated name**: *J. Wendt*
 
 #### Herbarium and types
 

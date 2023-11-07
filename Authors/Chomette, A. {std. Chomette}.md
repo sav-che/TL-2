@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103860#page/146/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33265813) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chomette, A. (fl. 1906), (no further information). (*Chomette*).
+Chomette, A. (fl. 1906), (no further information). 
+**Abbreviated name**: *Chomette*
 
 ### Publications
 

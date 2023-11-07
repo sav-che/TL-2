@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/item/103860#page/35/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33265702) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Černohorský, Zdeněk (1910-ca.1970), Czech lichenologist and morphologist, educated at the secondary school at Pardubice until 1928, at the Charles University in Prague 1928-1934, Dr. rer. nat. 1934, lecturer at the Technical University at Prague 1947, professor of botany at the Charles University from 1949. (*Čern.*).
+Černohorský, Zdeněk (1910-ca.1970), Czech lichenologist and morphologist, educated at the secondary school at Pardubice until 1928, at the Charles University in Prague 1928-1934, Dr. rer. nat. 1934, lecturer at the Technical University at Prague 1947, professor of botany at the Charles University from 1949. 
+**Abbreviated name**: *Čern.*
 
 #### Herbarium and types
 

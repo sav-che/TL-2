@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103833#page/84/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259118) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darlington, Hayward Radcliffe (c. 1863-1946), Englishman, rose-grower and president of the National Rose Society. (*H.R. Darl.*).
+Darlington, Hayward Radcliffe (c. 1863-1946), Englishman, rose-grower and president of the National Rose Society. 
+**Abbreviated name**: *H.R. Darl.*
 
 #### Herbarium and types
 

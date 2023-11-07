@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/104077#page/246/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33333371) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmeil, \[Franz\] Otto (1860-1943), German (Saxonian) botanist; high school teacher at Zörbig, Halle, Magdeburg, Marburg, Wiesbaden and, from 1893, in Heidelberg; reformer of the German high school biology curricula. (*Schmeil*).
+Schmeil, \[Franz\] Otto (1860-1943), German (Saxonian) botanist; high school teacher at Zörbig, Halle, Magdeburg, Marburg, Wiesbaden and, from 1893, in Heidelberg; reformer of the German high school biology curricula. 
+**Abbreviated name**: *Schmeil*
 
 #### Herbarium and types
 

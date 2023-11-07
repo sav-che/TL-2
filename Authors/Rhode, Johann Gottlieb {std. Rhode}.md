@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/item/103624#page/769/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rhode, Johann Gottlieb (1762-1827), German (Prussian Saxony) palaeobotanist; Dr. phil. Breslau 1821; private teacher in Braunschweig, "Hofmeister" in Esthland, later in Berlin, theater director in Breslau, ultimately professor of geography and German language at the military school of Breslau. (*Rhode*).
+Rhode, Johann Gottlieb (1762-1827), German (Prussian Saxony) palaeobotanist; Dr. phil. Breslau 1821; private teacher in Braunschweig, "Hofmeister" in Esthland, later in Berlin, theater director in Breslau, ultimately professor of geography and German language at the military school of Breslau. 
+**Abbreviated name**: *Rhode*
 
 #### Herbarium and types
 

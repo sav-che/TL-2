@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/item/103253#page/878/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33069094) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lessing, Christian Friedrich (1809-1862), German botanist, born in Polish Wartenburg, grand son of the poet, studied in Berlin, Dr. phil. 1832; travelled in Norway and in European and Asiatic Russia, settled ultimately at Krasnoyarsk in Siberia. (*Less.*).
+Lessing, Christian Friedrich (1809-1862), German botanist, born in Polish Wartenburg, grand son of the poet, studied in Berlin, Dr. phil. 1832; travelled in Norway and in European and Asiatic Russia, settled ultimately at Krasnoyarsk in Siberia. 
+**Abbreviated name**: *Less.*
 
 #### Herbarium and types
 

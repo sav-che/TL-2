@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/item/104077#page/526/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Senni, Lorenzo (1879-1954), Italian forester and botanist who conducted forestry explorations and made botanical collections in Eritrea 1905-1907, 1929, 1937, and Somalia 1937; consul in the "Fascist forest militia" during the Mussolini era. (*Senni*).
+Senni, Lorenzo (1879-1954), Italian forester and botanist who conducted forestry explorations and made botanical collections in Eritrea 1905-1907, 1929, 1937, and Somalia 1937; consul in the "Fascist forest militia" during the Mussolini era. 
+**Abbreviated name**: *Senni*
 
 #### Herbarium and types
 

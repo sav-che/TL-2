@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/item/103860#page/497/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33266164) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cruz, Daniel da (1880-x), Portuguese born 1 Mar 1880, Braga grad. 1901, Sevilla AB 1905, Cath. Univ. Amer. D.Sc. 1915. (*D. Cruz*).
+Cruz, Daniel da (1880-x), Portuguese born 1 Mar 1880, Braga grad. 1901, Sevilla AB 1905, Cath. Univ. Amer. D.Sc. 1915. 
+**Abbreviated name**: *D. Cruz*
 
 #### Herbarium and types
 

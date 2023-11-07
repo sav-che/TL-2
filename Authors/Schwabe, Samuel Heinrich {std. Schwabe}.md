@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/104077#page/429/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33333554) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwabe, Samuel Heinrich (1789-1875), German (Anhalt-Dessau) astronomer and botanist; trained as pharmacist; practicing pharmacist at Dessau 1812-1829; from then on active as botanical and astronomical "Privatgelehrter". (*Schwabe*).
+Schwabe, Samuel Heinrich (1789-1875), German (Anhalt-Dessau) astronomer and botanist; trained as pharmacist; practicing pharmacist at Dessau 1812-1829; from then on active as botanical and astronomical "Privatgelehrter". 
+**Abbreviated name**: *Schwabe*
 
 #### Herbarium and types
 

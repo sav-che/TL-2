@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103858#page/256/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33264971) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baehni, Charles {std. Baehni}|first entry]] for this author
 
 ### Author
 
-\* Baehni, Charles (1906-1964), Swiss (Genève) botanist, studied at the University of Genève, Lic. Sci. 1928, teaching natural sciences in Germany 1928-1930, Dr. Sci. Genève 1932 (with R. Chodat), assistant at the Conservatoire et Jardin botaniques 1933, studied in Chicago, mainly with J.F. Macbride 1934-1935; director of the Conservatoire et Jardin botaniques succeeding B.F.G. Hochreutiner, 1943, also professor of systematic botany at the University of Genève; first president of the International Association for Plant Taxonomy (I.A.P.T.) 1950-1954, full professor of botany 1964. (*Baehni*).
+\* Baehni, Charles (1906-1964), Swiss (Genève) botanist, studied at the University of Genève, Lic. Sci. 1928, teaching natural sciences in Germany 1928-1930, Dr. Sci. Genève 1932 (with R. Chodat), assistant at the Conservatoire et Jardin botaniques 1933, studied in Chicago, mainly with J.F. Macbride 1934-1935; director of the Conservatoire et Jardin botaniques succeeding B.F.G. Hochreutiner, 1943, also professor of systematic botany at the University of Genève; first president of the International Association for Plant Taxonomy (I.A.P.T.) 1950-1954, full professor of botany 1964. 
+**Abbreviated name**: *Baehni*
 
 #### Herbarium and types
 

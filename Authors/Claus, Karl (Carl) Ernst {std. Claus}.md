@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103860#page/199/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33265866) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Claus, Karl \[Carl\] Ernst (1796-1864), Russian botanist, born at Dorpat, educated in a "Kreisschule" in Dorpat, in St. Petersburg apprentice in a pharmacy in 1810 (sic), took the pharmaceutic examination in Dorpat 1815, in a pharmacy at St. Petersburg 1816, provisor in Saratow 1817, pharmacist at Kasan 1826, starting his botanical interests, travelled in the Ural-Wolga area, assistant at the Chemical cabinet of the University of Dorpat ca. 1830, Magister phil. Dorpat 1837, Dr. phil. 1839 at Kasan, professor of pharmacy and director of the Dorpat pharmaceutic institute 1852, travelled in Germany 1863-1864. (*Claus*).
+Claus, Karl \[Carl\] Ernst (1796-1864), Russian botanist, born at Dorpat, educated in a "Kreisschule" in Dorpat, in St. Petersburg apprentice in a pharmacy in 1810 (sic), took the pharmaceutic examination in Dorpat 1815, in a pharmacy at St. Petersburg 1816, provisor in Saratow 1817, pharmacist at Kasan 1826, starting his botanical interests, travelled in the Ural-Wolga area, assistant at the Chemical cabinet of the University of Dorpat ca. 1830, Magister phil. Dorpat 1837, Dr. phil. 1839 at Kasan, professor of pharmacy and director of the Dorpat pharmaceutic institute 1852, travelled in Germany 1863-1864. 
+**Abbreviated name**: *Claus*
 
 #### Herbarium and types
 

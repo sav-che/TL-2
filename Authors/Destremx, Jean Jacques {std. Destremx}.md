@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/103833#page/245/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Destremx, Jean Jacques (1771-1826), French botanist, died in Alais 1826. (*Destremx*).
+Destremx, Jean Jacques (1771-1826), French botanist, died in Alais 1826. 
+**Abbreviated name**: *Destremx*
 
 #### Herbarium and types
 

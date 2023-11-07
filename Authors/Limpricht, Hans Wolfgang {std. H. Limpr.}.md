@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/104137#page/36/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33355107) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Limpricht, Hans Wolfgang (1877-x), German botanist, Dr. phil. Breslau 1902; traveller in China and Japan; son of Karl Gustav L. (*H. Limpr.*).
+Limpricht, Hans Wolfgang (1877-x), German botanist, Dr. phil. Breslau 1902; traveller in China and Japan; son of Karl Gustav L. 
+**Abbreviated name**: *H. Limpr.*
 
 #### Herbarium and types
 

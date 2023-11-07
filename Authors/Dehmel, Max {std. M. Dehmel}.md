@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103833#page/176/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33259210) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dehmel, Max (fl. 1889), German botanist, born in Quaritz, studied at the University of Erlangen, Dr. phil. ib. 1889. (*M. Dehmel*).
+Dehmel, Max (fl. 1889), German botanist, born in Quaritz, studied at the University of Erlangen, Dr. phil. ib. 1889. 
+**Abbreviated name**: *M. Dehmel*
 
 #### Herbarium and types
 

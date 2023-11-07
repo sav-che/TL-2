@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/item/103858#page/385/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33265100) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Batchelder, Frederick William (1838-1911), American (New Hampshire born) physician, musician, ornithologist and botanist, studied at the Boston Latin School and at the medical school of Harvard, settled at Manchester, N.H. (*Batchelder*).
+Batchelder, Frederick William (1838-1911), American (New Hampshire born) physician, musician, ornithologist and botanist, studied at the Boston Latin School and at the medical school of Harvard, settled at Manchester, N.H. 
+**Abbreviated name**: *Batchelder*
 
 #### Herbarium and types
 

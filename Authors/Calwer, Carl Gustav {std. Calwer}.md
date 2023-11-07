@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103414#page/474/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Calwer, Carl Gustav {std. Calwer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Calwer, Carl Gustav (1821-1873), German naturalist. (*Calwer*).
+Calwer, Carl Gustav (1821-1873), German naturalist. 
+**Abbreviated name**: *Calwer*
 
 #### Herbarium and types
 

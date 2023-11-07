@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/item/103414#page/411/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33120494) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brown, Addison {std. A. Br.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brown, Addison (1830-1913), American botanist, president of the New York Botanical Garden. (*A. Brown*).
+Brown, Addison (1830-1913), American botanist, president of the New York Botanical Garden. 
+**Abbreviated name**: *A. Brown*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103414#page/419/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33120502) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Browne, Patrick {std. P. Browne} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Browne, Patrick (1720-1790), Irish naturalist and physician, explorer of Jamaica. (*P. Br.*).
+Browne, Patrick (1720-1790), Irish naturalist and physician, explorer of Jamaica. 
+**Abbreviated name**: *P. Br.*
 
 #### Herbarium and types
 

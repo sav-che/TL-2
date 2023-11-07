@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/103624#page/217/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33189674) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petiver, James (1658-1718), British botanist, entomologist and apothecary to the Charterhouse; demonstrator at Chelsea (1709), owner of an important natural history cabinet. (*Petiver*).
+Petiver, James (1658-1718), British botanist, entomologist and apothecary to the Charterhouse; demonstrator at Chelsea (1709), owner of an important natural history cabinet. 
+**Abbreviated name**: *Petiver*
 
 #### Herbarium and types
 

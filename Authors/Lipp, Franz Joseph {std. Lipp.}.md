@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/104137#page/131/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33355202) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lipp, Franz Joseph (1731-1775), German botanist at Freiburg im Breisgau, "Protomedikus von Vorderösterreich." (*Lipp.*).
+Lipp, Franz Joseph (1731-1775), German botanist at Freiburg im Breisgau, "Protomedikus von Vorderösterreich." 
+**Abbreviated name**: *Lipp.*
 
 #### Herbarium and types
 

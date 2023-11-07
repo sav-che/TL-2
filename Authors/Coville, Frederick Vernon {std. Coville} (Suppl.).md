@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103860#page/440/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33266107) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coville, Frederick Vernon {std. Coville}|first entry]] for this author
 
 ### Author
 
-\* Coville, Frederick Vernon (1867-1937), American botanist, born at Preston, New York, studied at Cornell University, A.B. 1887, assistant with the Arkansas Geological Survey 1887, instructor in botany at Cornell 1887-1888, assistant botanist at U.S.D.A. 1888-1893, id. botanist 1893-1937, on the Death Valley expedition 1890-1891, advisor Carnegie Institution 1902-1905, acting director of the National Arboretum 1929-1937. (*Coville*).
+\* Coville, Frederick Vernon (1867-1937), American botanist, born at Preston, New York, studied at Cornell University, A.B. 1887, assistant with the Arkansas Geological Survey 1887, instructor in botany at Cornell 1887-1888, assistant botanist at U.S.D.A. 1888-1893, id. botanist 1893-1937, on the Death Valley expedition 1890-1891, advisor Carnegie Institution 1902-1905, acting director of the National Arboretum 1929-1937. 
+**Abbreviated name**: *Coville*
 
 #### Herbarium and types
 

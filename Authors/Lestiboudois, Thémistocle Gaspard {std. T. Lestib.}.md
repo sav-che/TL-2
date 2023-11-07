@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/item/103253#page/881/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33069097) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lestiboudois, Thémistocle Gaspard (1797-1876), northern French botanist, son of François Joseph Lestiboudois. (*T. Lestib.*).
+Lestiboudois, Thémistocle Gaspard (1797-1876), northern French botanist, son of François Joseph Lestiboudois. 
+**Abbreviated name**: *T. Lestib.*
 
 #### Herbarium and types
 

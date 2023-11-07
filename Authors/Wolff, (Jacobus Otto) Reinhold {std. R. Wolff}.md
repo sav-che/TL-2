@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103250#page/484/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33066764) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolff, \[Jacobus Otto\] Reinhold (1845-?), German (Silesian), agriculturist and mycologist; Dr. phil. Halle 1874; habil. Halle 1875; attended agricultural schools in Würlitz nr Kreuzburg (Schles.) and Proskau (Schles.); studied at Halle with e.g. Knoblauch, de Bary, Solms-Laubach; ultimately teacher at the Polytechnical School of Riga, Latvia. (*R. Wolff*).
+Wolff, \[Jacobus Otto\] Reinhold (1845-?), German (Silesian), agriculturist and mycologist; Dr. phil. Halle 1874; habil. Halle 1875; attended agricultural schools in Würlitz nr Kreuzburg (Schles.) and Proskau (Schles.); studied at Halle with e.g. Knoblauch, de Bary, Solms-Laubach; ultimately teacher at the Polytechnical School of Riga, Latvia. 
+**Abbreviated name**: *R. Wolff*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/item/104077#page/20/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33333177) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salisbury, William (x-1823), British nurseryman in London; gardener to J. Symmons at Paddington 1797, also associated with William Curtis' garden at Fulham Road which he continued after the latter's death in 1799; later owner of a garden at Cadogan Place, Sloane Street; founded the London Botanic Garden, 1807. (*W. Salisb.*).
+Salisbury, William (x-1823), British nurseryman in London; gardener to J. Symmons at Paddington 1797, also associated with William Curtis' garden at Fulham Road which he continued after the latter's death in 1799; later owner of a garden at Cadogan Place, Sloane Street; founded the London Botanic Garden, 1807. 
+**Abbreviated name**: *W. Salisb.*
 
 #### Herbarium and types
 

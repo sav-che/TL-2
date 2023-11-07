@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103858#page/167/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33264882) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Areschoug, Fredric Wilhelm Christian {std. F. Areschoug}|first entry]] for this author
 
 ### Author
 
-\* Areschoug, Fredric Wilhelm Christian (1830-1908), Swedish botanist, studied at the University of Lund 1847, fil. kand. 1852, Dr. phil. 1853, lecturer at Lund 1854, "adjunkt" for botany ib. 1858-1879, ordinary professor of botany and director of the University Botanical Garden, Lund 1879-1896. (*F. Areschoug*).
+\* Areschoug, Fredric Wilhelm Christian (1830-1908), Swedish botanist, studied at the University of Lund 1847, fil. kand. 1852, Dr. phil. 1853, lecturer at Lund 1854, "adjunkt" for botany ib. 1858-1879, ordinary professor of botany and director of the University Botanical Garden, Lund 1879-1896. 
+**Abbreviated name**: *F. Areschoug*
 
 #### Herbarium and types
 

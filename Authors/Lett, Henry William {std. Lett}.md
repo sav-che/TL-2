@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/item/103253#page/884/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lett, Henry William (1836-1920), British botanist and clergyman, rector of Aghaderg, Co. Down, later canon of Dromore. (*Lett*).
+Lett, Henry William (1836-1920), British botanist and clergyman, rector of Aghaderg, Co. Down, later canon of Dromore. 
+**Abbreviated name**: *Lett*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/item/103253#page/578/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33068794) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirschleger, Frédéric (1804-1869), Alsatian botanist; M.D. Paris 1829; 1829-1834 physician at Munster; from 1834-1845 at the Strasbourg École de Pharmacie; from 1845 at the Faculté de médécine; Dr. Sc. Strasbourg 1846. (*Kirschl.*).
+Kirschleger, Frédéric (1804-1869), Alsatian botanist; M.D. Paris 1829; 1829-1834 physician at Munster; from 1834-1845 at the Strasbourg École de Pharmacie; from 1845 at the Faculté de médécine; Dr. Sc. Strasbourg 1846. 
+**Abbreviated name**: *Kirschl.*
 
 #### Herbarium and types
 

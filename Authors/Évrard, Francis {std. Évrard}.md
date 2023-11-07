@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/103835#page/445/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33260423) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Évrard, Francis (1885-1957), French botanist, born 11 Mai 1885 at Paris, studied in Paris, assistant at the faculty of sciences from 1906, Dr.Sci. in 1915, after his military service during WW I went to Indo-China from 1920 till 1930 while being collaborator at the Muséum d'Histoire naturelle, professor at the faculty of sciences in Paris, in 1937 and 1946 vice-president of the Société botanique de France, died 1957 at Paris. (*Évrard*).
+Évrard, Francis (1885-1957), French botanist, born 11 Mai 1885 at Paris, studied in Paris, assistant at the faculty of sciences from 1906, Dr.Sci. in 1915, after his military service during WW I went to Indo-China from 1920 till 1930 while being collaborator at the Muséum d'Histoire naturelle, professor at the faculty of sciences in Paris, in 1937 and 1946 vice-president of the Société botanique de France, died 1957 at Paris. 
+**Abbreviated name**: *Évrard*
 
 #### Herbarium and types
 

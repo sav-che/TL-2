@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103835#page/179/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33260157) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duncan, Andrew {std. A. Duncan}|first entry]] for this author
 
 ### Author
 
-\* Duncan, Andrew (the younger) (1773-1832), Scottish botanist and physician, born 10 Aug 1773 at Edinburgh, M.A. Edinburgh 1793, MD 1794, professor of medical jurisprudence Edinburgh 1807-1819, professor materia medica 1821-1832, died at Edinburgh 13 Mai 1832. (*A. Duncan*).
+\* Duncan, Andrew (the younger) (1773-1832), Scottish botanist and physician, born 10 Aug 1773 at Edinburgh, M.A. Edinburgh 1793, MD 1794, professor of medical jurisprudence Edinburgh 1807-1819, professor materia medica 1821-1832, died at Edinburgh 13 Mai 1832. 
+**Abbreviated name**: *A. Duncan*
 
 #### Herbarium and types
 

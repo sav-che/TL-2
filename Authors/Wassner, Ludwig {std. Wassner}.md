@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103250#page/154/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33066434) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wassner, Ludwig (1861-1929), German (Bavarian) high school professor and botanist; studied natural sciences in Regensburg and classical philology in München; teacher at Freising until 1890; from then onward teacher at the Humanistic Gymnasium at Passau, as assistant 1890-1892, teacher 1892-1904 and professor 1904-1924. (*Wassner*).
+Wassner, Ludwig (1861-1929), German (Bavarian) high school professor and botanist; studied natural sciences in Regensburg and classical philology in München; teacher at Freising until 1890; from then onward teacher at the Humanistic Gymnasium at Passau, as assistant 1890-1892, teacher 1892-1904 and professor 1904-1924. 
+**Abbreviated name**: *Wassner*
 
 #### Herbarium and types
 

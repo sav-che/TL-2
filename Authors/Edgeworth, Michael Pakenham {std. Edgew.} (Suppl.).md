@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/103835#page/268/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33260246) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Edgeworth, Michael Pakenham {std. Edgew.}|first entry]] for this author
 
 ### Author
 
-\* Edgeworth, Michael Pakenham (1812-1881), Irish botanist, born Edgeworthtown, Longford, Ireland 24 Mai 1812, in Bengal Civil service 1831-1881, collected plants at Aden 1846, in India and Ceylon, died 30 Jul 1881 on Eigg, Invernessshire. (*Edgew.*).
+\* Edgeworth, Michael Pakenham (1812-1881), Irish botanist, born Edgeworthtown, Longford, Ireland 24 Mai 1812, in Bengal Civil service 1831-1881, collected plants at Aden 1846, in India and Ceylon, died 30 Jul 1881 on Eigg, Invernessshire. 
+**Abbreviated name**: *Edgew.*
 
 #### Herbarium and types
 

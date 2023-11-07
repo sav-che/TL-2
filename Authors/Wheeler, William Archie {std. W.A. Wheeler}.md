@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103250#page/300/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33066580) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wheeler, William Archie (1876-1968), American agriculturist, marketing specialist and botanist; M.S. Univ. Minnesota 1901; instructor in botany ib. 1898-1903; professor of botany and head of the department, South Dakota State College 1903-1907; with Dakota Improved Seed Co., Mitchell 1907-1916; in charge of seed marketing, Bureau of Markets USDA 1916-1919, in charge of marketing information ib. 1920-1922; chief hay, feed and seed division Bureau Agr. Economics 1922-1939; in charge of seed supplies Lend-Lease adm. World War II 1941-1946; director of agricultural research Field Seed Inst. N.A. from 1946. (*W.A. Wheeler*).
+Wheeler, William Archie (1876-1968), American agriculturist, marketing specialist and botanist; M.S. Univ. Minnesota 1901; instructor in botany ib. 1898-1903; professor of botany and head of the department, South Dakota State College 1903-1907; with Dakota Improved Seed Co., Mitchell 1907-1916; in charge of seed marketing, Bureau of Markets USDA 1916-1919, in charge of marketing information ib. 1920-1922; chief hay, feed and seed division Bureau Agr. Economics 1922-1939; in charge of seed supplies Lend-Lease adm. World War II 1941-1946; director of agricultural research Field Seed Inst. N.A. from 1946. 
+**Abbreviated name**: *W.A. Wheeler*
 
 #### Herbarium and types
 

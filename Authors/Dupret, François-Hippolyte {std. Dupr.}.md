@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103835#page/187/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33260165) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dupret, François-Hippolyte (1853-1932), French priest, born 14 Feb 1853 at Athen-les-Paludes, Vaucluse, studied at Avignon and Paris, professor in the Holy Scripture and the "Grand Séminaire" at Dijon 1877, went to Canada in 1878 to the "Séminaire de Philosophie" at Montreal, devoted much of his time to bryology, died 21 Nov 1932. (*Dupr.*).
+Dupret, François-Hippolyte (1853-1932), French priest, born 14 Feb 1853 at Athen-les-Paludes, Vaucluse, studied at Avignon and Paris, professor in the Holy Scripture and the "Grand Séminaire" at Dijon 1877, went to Canada in 1878 to the "Séminaire de Philosophie" at Montreal, devoted much of his time to bryology, died 21 Nov 1932. 
+**Abbreviated name**: *Dupr.*
 
 #### Herbarium and types
 

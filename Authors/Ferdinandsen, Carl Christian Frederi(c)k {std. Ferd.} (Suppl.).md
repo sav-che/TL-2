@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103834#page/159/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33259641) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ferdinandsen, Carl Christian Frederic(k) {std. Ferd.}|first entry]] for this author
 
 ### Author
 
-\* Ferdinandsen, Carl Christian Frederi\[c\]k (1879-1944), Danish mycologist, born 18 \[not 8\] Feb 1879 in Valsølille, Sorø, attended gymnasium and later the Univ. \[Copenhagen?\], asst. at the Botanical Museum 1906-1916, Mag. scient. (bot.) 1909, botanist at the Inst. for Plant Pathology 1917-1919, Dr. phil. 1918, Prof. Plant Pathology 1920, died 28 Mar 1944 in Copenhagen. (*Ferd.*).
+\* Ferdinandsen, Carl Christian Frederi\[c\]k (1879-1944), Danish mycologist, born 18 \[not 8\] Feb 1879 in Valsølille, Sorø, attended gymnasium and later the Univ. \[Copenhagen?\], asst. at the Botanical Museum 1906-1916, Mag. scient. (bot.) 1909, botanist at the Inst. for Plant Pathology 1917-1919, Dr. phil. 1918, Prof. Plant Pathology 1920, died 28 Mar 1944 in Copenhagen. 
+**Abbreviated name**: *Ferd.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/item/103624#page/843/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33190300) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barbosa Rodrigues, João {std. Barb. Rodr.}|first]] and [[Barbosa Rodrigues, João {std. Barb. Rodr.} (Suppl.)|third]] entries for this author
 
 ### Author
 
-Rodrigues, João Barbosa (1842-1909), Brazilian botanist and traveller, collected widely in Brazil between 1868 and 1897; teacher at the Imperial College Pedro II; associated with F. Freire Allemão 1868-1876; in charge of a chemical factory 1876-1883; director of the Manaos botanical museum 1883-1889; from 1889-1909 director of the botanical garden of Rio de Janeiro. (*Barb. Rodr.*).
+Rodrigues, João Barbosa (1842-1909), Brazilian botanist and traveller, collected widely in Brazil between 1868 and 1897; teacher at the Imperial College Pedro II; associated with F. Freire Allemão 1868-1876; in charge of a chemical factory 1876-1883; director of the Manaos botanical museum 1883-1889; from 1889-1909 director of the botanical garden of Rio de Janeiro. 
+**Abbreviated name**: *Barb. Rodr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/item/103253#page/882/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33069098) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leszczyc-Suminsky, Michael Hieronim (1820-1898), Polish botanist and painter. (*Leszc.-Sum.*).
+Leszczyc-Suminsky, Michael Hieronim (1820-1898), Polish botanist and painter. 
+**Abbreviated name**: *Leszc.-Sum.*
 
 #### Herbarium and types
 

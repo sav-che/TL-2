@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/104077#page/55/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33333142) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sántha, László (Ladislaus) (1886-1954), Hungarian lichenologist; Dr. phil. Budapest 1909; assistant at the Botanical Institute of the University of Budapest 1909; at the Viticultural Institute 1910; in charge of the department of pathology of the Institute for Plant Protection 1932; professor at the Horticultural and Agricultural College 1942; director of the Viticultural Institute 1942-1946. (*Sántha*).
+Sántha, László (Ladislaus) (1886-1954), Hungarian lichenologist; Dr. phil. Budapest 1909; assistant at the Botanical Institute of the University of Budapest 1909; at the Viticultural Institute 1910; in charge of the department of pathology of the Institute for Plant Protection 1932; professor at the Horticultural and Agricultural College 1942; director of the Viticultural Institute 1942-1946. 
+**Abbreviated name**: *Sántha*
 
 #### Herbarium and types
 

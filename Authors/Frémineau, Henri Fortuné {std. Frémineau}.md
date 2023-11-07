@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103834#page/423/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33259905) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frémineau, Henri Fortuné (1828-ca. 1901), French physician, born 20 Mai 1828 in Paris, Lic. ès-sciences naturelles 1868, Dr. en médecine 1856 and surgery 1862 Paris, Dr. ès-sciences 1868 Paris, pharmacist first class 1869 Paris, member, Société Botanique de France. (*Frémineau*).
+Frémineau, Henri Fortuné (1828-ca. 1901), French physician, born 20 Mai 1828 in Paris, Lic. ès-sciences naturelles 1868, Dr. en médecine 1856 and surgery 1862 Paris, Dr. ès-sciences 1868 Paris, pharmacist first class 1869 Paris, member, Société Botanique de France. 
+**Abbreviated name**: *Frémineau*
 
 #### Herbarium and types
 

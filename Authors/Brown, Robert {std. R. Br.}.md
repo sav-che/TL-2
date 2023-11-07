@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103414#page/412/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33120495) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brown, Robert {std. R. Br.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brown, Robert (1773-1858), British botanist, who travelled with Flinders to Australia, was librarian to Banks and to the Linnean Society of London, and Keeper of botany at the British Museum; one of the most versatile botanists of the first half of the nineteenth century. (*R. Br.*).
+Brown, Robert (1773-1858), British botanist, who travelled with Flinders to Australia, was librarian to Banks and to the Linnean Society of London, and Keeper of botany at the British Museum; one of the most versatile botanists of the first half of the nineteenth century. 
+**Abbreviated name**: *R. Br.*
 
 #### Herbarium and types
 

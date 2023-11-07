@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/item/103414#page/989/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/page/33121072) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Giesenhagen, Karl (Carl) Friedrich Georg {std. Giesenh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Giesenhagen, Karl Friedrich Georg (1860-1928), German botanist, curator of the cryptogamic collections at München (M). (*Giesenh.*).
+Giesenhagen, Karl Friedrich Georg (1860-1928), German botanist, curator of the cryptogamic collections at München (M). 
+**Abbreviated name**: *Giesenh.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/item/103683#page/792/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33212824) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[De Vos, Cornelis {std. De Vos} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Vos, André \[Pascal Alexandre\] de \[De Vos\] (1834-?), Belgian high school teacher and botanist at Aarschot, Namur and Liège; curator at the Musée scolaire de l'Etat, Bruxelles. (*De Vos*).
+Vos, André \[Pascal Alexandre\] de \[De Vos\] (1834-?), Belgian high school teacher and botanist at Aarschot, Namur and Liège; curator at the Musée scolaire de l'Etat, Bruxelles. 
+**Abbreviated name**: *De Vos*
 
 #### Herbarium and types
 

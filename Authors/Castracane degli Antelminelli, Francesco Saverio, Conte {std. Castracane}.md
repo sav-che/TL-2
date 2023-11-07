@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/item/103414#page/517/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Castracane degli Antelminelli, Francesco {std. Castracane} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Castracane degli Antelminelli, Francesco Saverio, Conte (1817-1899), Italian algologist. (*Castracane*).
+Castracane degli Antelminelli, Francesco Saverio, Conte (1817-1899), Italian algologist. 
+**Abbreviated name**: *Castracane*
 
 #### Herbarium and types
 

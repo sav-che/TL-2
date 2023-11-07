@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103414#page/267/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33120350) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bisby, Guy Richard {std. Bisby} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bisby, Guy Richard (1889-1958), British-Canadian mycologist, plant pathologist at Winnipeg 1919-1936, mycologist at CMI 1936-1954. (*Bisby*).
+Bisby, Guy Richard (1889-1958), British-Canadian mycologist, plant pathologist at Winnipeg 1919-1936, mycologist at CMI 1936-1954. 
+**Abbreviated name**: *Bisby*
 
 #### Herbarium and types
 

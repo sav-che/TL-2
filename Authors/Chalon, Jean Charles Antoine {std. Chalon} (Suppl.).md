@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/item/103860#page/49/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265716) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chalon, Jean Charles Antoine {std. Chalon}|first entry]] for this author
 
 ### Author
 
-\* Chalon, Jean Charles Antoine (1846-1921), Belgian botanist, born at Namur (Namen), educated at the Athénée Royal de Namur, studied at the university of Louvain, Dr. sci. nat. 1866, lectured physics, chemistry and natural history at the École normale of St.-Servais-lezé Namur 1879, teaching at the École industrielle of Namur 1894, id. at the Institut des Hautes études at Bruxelles from 1894. (*Chalon*).
+\* Chalon, Jean Charles Antoine (1846-1921), Belgian botanist, born at Namur (Namen), educated at the Athénée Royal de Namur, studied at the university of Louvain, Dr. sci. nat. 1866, lectured physics, chemistry and natural history at the École normale of St.-Servais-lezé Namur 1879, teaching at the École industrielle of Namur 1894, id. at the Institut des Hautes études at Bruxelles from 1894. 
+**Abbreviated name**: *Chalon*
 
 #### Herbarium and types
 

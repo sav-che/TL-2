@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/item/103414#page/866/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33120949) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fée, Antoine Laurent Apollinaire {std. Fée} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fée, Antoine Laurent Apollinaire (1789-1874), French pteridologist, professor of botany at Strasbourg. (*Fée*).
+Fée, Antoine Laurent Apollinaire (1789-1874), French pteridologist, professor of botany at Strasbourg. 
+**Abbreviated name**: *Fée*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/104077#page/407/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33333532) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulze, Johann Heinrich (1687-1744), German (Prussian) botanist; Dr. med. Halle 1717; professor of medicine at Halle 1720 and, concurrently, professor of Greek and Arab languages at Altorf 1729; professor of medicine, eloquence and archeology at Halle from 1732-1744. (*J.H. Schulze*).
+Schulze, Johann Heinrich (1687-1744), German (Prussian) botanist; Dr. med. Halle 1717; professor of medicine at Halle 1720 and, concurrently, professor of Greek and Arab languages at Altorf 1729; professor of medicine, eloquence and archeology at Halle from 1732-1744. 
+**Abbreviated name**: *J.H. Schulze*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103253#page/450/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33068666) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jansen, Pieter (1882-1955), Dutch agrostologist and high school teacher at Rotterdam (1900-1912), at the teachers college of Amsterdam 1912-1952. (*Jans.*).
+Jansen, Pieter (1882-1955), Dutch agrostologist and high school teacher at Rotterdam (1900-1912), at the teachers college of Amsterdam 1912-1952. 
+**Abbreviated name**: *Jans.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103859#page/200/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265387) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blainville, Henri Marie Ducrotay de {std. Blainv.}|first entry]] for this author
 
 ### Author
 
-\* Blainville, Henri Marie Ducrotay de (1778-1850), French biologist, studied with Cuvier, Dr. méd., professor of natural history at the Collège de France and at the Muséum d'Histoire naturelle, professor of anatony and zoology at the Faculté des Sciences 1812, professor of conchyology at the Muséum 1830, id. of comparative anatomy thus succeeding Cuvier. (*Blainv.*).
+\* Blainville, Henri Marie Ducrotay de (1778-1850), French biologist, studied with Cuvier, Dr. méd., professor of natural history at the Collège de France and at the Muséum d'Histoire naturelle, professor of anatony and zoology at the Faculté des Sciences 1812, professor of conchyology at the Muséum 1830, id. of comparative anatomy thus succeeding Cuvier. 
+**Abbreviated name**: *Blainv.*
 
 #### Herbarium and types
 

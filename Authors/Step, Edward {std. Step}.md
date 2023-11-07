@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/item/104077#page/902/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33334027) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Step, Edward (1855-1931), British naturalist; popular writer on botany, entomology and conchology; employee of various publishing firms. (*Step*).
+Step, Edward (1855-1931), British naturalist; popular writer on botany, entomology and conchology; employee of various publishing firms. 
+**Abbreviated name**: *Step*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103834#page/258/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33259740) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flacourt, Étienne de (Chevalier) (1607-1660), French colonial administrator and soldier, born 2 Feb 1607 in Orléans, studied chemistry, medicine and botany in Germany and Holland, apothecary in Paris after 1636, appointed by the Société de l'Orient as Dir.-gén. of their possessions in the East 1648 and as replacement for Jacques de Pronis (1619-1655) in Madagascar, resided in and served as Cdt.-gén. of the French colony of Fort Dauphin, Madagascar from 4 Dec 1648 to 12 Feb 1655, in France 1655-1660 while the Société was reorganized, reappointed Dir.-gén. 1660 and sailed (20 Mai 1660) from Dieppe, France for Madagascar but died 10 Jun 1660 at sea off the coast of Portugal when his ship was attacked and sunk by Barbary pirates. (*Flacourt*).
+Flacourt, Étienne de (Chevalier) (1607-1660), French colonial administrator and soldier, born 2 Feb 1607 in Orléans, studied chemistry, medicine and botany in Germany and Holland, apothecary in Paris after 1636, appointed by the Société de l'Orient as Dir.-gén. of their possessions in the East 1648 and as replacement for Jacques de Pronis (1619-1655) in Madagascar, resided in and served as Cdt.-gén. of the French colony of Fort Dauphin, Madagascar from 4 Dec 1648 to 12 Feb 1655, in France 1655-1660 while the Société was reorganized, reappointed Dir.-gén. 1660 and sailed (20 Mai 1660) from Dieppe, France for Madagascar but died 10 Jun 1660 at sea off the coast of Portugal when his ship was attacked and sunk by Barbary pirates. 
+**Abbreviated name**: *Flacourt*
 
 #### Herbarium and types
 

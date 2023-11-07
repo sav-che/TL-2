@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/item/103414#page/1001/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Głowacki, Julius (Julij) {std. Glow.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Glowacki, Julius (1846-1915), Austrian botanist. (*Glow.*).
+Glowacki, Julius (1846-1915), Austrian botanist. 
+**Abbreviated name**: *Glow.*
 
 #### Herbarium and types
 

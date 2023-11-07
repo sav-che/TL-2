@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/item/103624#page/280/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33189737) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pillans, Neville Stuart (1884-1964), South African botanist; studied at Cambridge; at the Bolus Herbarium 1918-1953. (*Pillans*).
+Pillans, Neville Stuart (1884-1964), South African botanist; studied at Cambridge; at the Bolus Herbarium 1918-1953. 
+**Abbreviated name**: *Pillans*
 
 #### Herbarium and types
 

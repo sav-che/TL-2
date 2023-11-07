@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/item/103832#page/451/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33258917) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Güssow \[Gussow\], Hans Theodor (1879-1961), German-born Canadian mycologist and plant pathologist, born 24 Aug 1879 in Breslau, studied applied botany and subsequently plant pathology and bacteriology in Breslau, Leipzig and Berlin, worked in England from 1901-1909 and as asst. to William Carruthers from 1903 to 1909, Dominion Botanist and head of the Botany Division of the Experimental Farms Branch, Ottawa, Canada 1909-1944, Assoc. Dir., Science Service of the Dept. of Agriculture 1938-x, LL.D. 1931 Queen's Univ., Kingston, Ontario, Fellow, Royal Society of Canada 1931, died 15 Jun 1961 in Victoria, British Columbia, Canada. (*Güssow*).
+Güssow \[Gussow\], Hans Theodor (1879-1961), German-born Canadian mycologist and plant pathologist, born 24 Aug 1879 in Breslau, studied applied botany and subsequently plant pathology and bacteriology in Breslau, Leipzig and Berlin, worked in England from 1901-1909 and as asst. to William Carruthers from 1903 to 1909, Dominion Botanist and head of the Botany Division of the Experimental Farms Branch, Ottawa, Canada 1909-1944, Assoc. Dir., Science Service of the Dept. of Agriculture 1938-x, LL.D. 1931 Queen's Univ., Kingston, Ontario, Fellow, Royal Society of Canada 1931, died 15 Jun 1961 in Victoria, British Columbia, Canada. 
+**Abbreviated name**: *Güssow*
 
 #### Herbarium and types
 

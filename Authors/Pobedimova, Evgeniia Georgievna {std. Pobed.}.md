@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103624#page/318/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pobedimova, Evgeniia Georgievna (1898-1973), Russian botanist at the Komarov Botanical Institute; travelled in Central Asia (1932), Mongolia (1930, 1931), Caucasia (1946, 1949), Altai (1953) and Crimea (1947, 1949). (*Pobed.*).
+Pobedimova, Evgeniia Georgievna (1898-1973), Russian botanist at the Komarov Botanical Institute; travelled in Central Asia (1932), Mongolia (1930, 1931), Caucasia (1946, 1949), Altai (1953) and Crimea (1947, 1949). 
+**Abbreviated name**: *Pobed.*
 
 #### Herbarium and types
 

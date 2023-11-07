@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/104077#page/218/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlechtendal, Diederich Friedrich Carl von (1767-1842), German (Kleve/Prussian) botanist; father of D.F.L. von Schlechtendal; judicial magistrate at Kleve until 1798; "Stadtgerichtsdirector" (municipal judiciary) in Berlin 1798-1814; subsequently in charge of the law courts at Minden, and, ultimately, Oberlandesgerichts-Präsident at Paderborn; Dr. phil. h.c. Berlin 1838. (*D.F.C. Schlechtend.*).
+Schlechtendal, Diederich Friedrich Carl von (1767-1842), German (Kleve/Prussian) botanist; father of D.F.L. von Schlechtendal; judicial magistrate at Kleve until 1798; "Stadtgerichtsdirector" (municipal judiciary) in Berlin 1798-1814; subsequently in charge of the law courts at Minden, and, ultimately, Oberlandesgerichts-Präsident at Paderborn; Dr. phil. h.c. Berlin 1838. 
+**Abbreviated name**: *D.F.C. Schlechtend.*
 
 #### Herbarium and types
 

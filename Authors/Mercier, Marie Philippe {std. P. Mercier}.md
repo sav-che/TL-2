@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/104137#page/437/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33355508) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mercier, Marie Philippe (1781-1831), French botanist, born on Martinique; soldier, police officer, salesman, refugee in Genève 1822-1831 working with A. P. de Candolle. (*P. Mercier*).
+Mercier, Marie Philippe (1781-1831), French botanist, born on Martinique; soldier, police officer, salesman, refugee in Genève 1822-1831 working with A. P. de Candolle. 
+**Abbreviated name**: *P. Mercier*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/item/103250#page/549/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33066829) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Yates, Lorenzo Gordin (1837-1909), British-born American naturalist (botanist, paleontologist, conchologist); to U.S. 1853; studied medicine and dentistry; settled in Centerville, California 1864 as practicing dentist; in various ways associated with the geological and botanical survey of California, ultimately (1905-1906) Horticultural Commissioner, Santa Barbara. (*L. Yates*).
+Yates, Lorenzo Gordin (1837-1909), British-born American naturalist (botanist, paleontologist, conchologist); to U.S. 1853; studied medicine and dentistry; settled in Centerville, California 1864 as practicing dentist; in various ways associated with the geological and botanical survey of California, ultimately (1905-1906) Horticultural Commissioner, Santa Barbara. 
+**Abbreviated name**: *L. Yates*
 
 #### Herbarium and types
 

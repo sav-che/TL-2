@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103861#page/235/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33266532) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burchard, Oscar (c. 1864-1949), German botanist at Hamburg, scientist with the botanical laboratory of the "Samen-Prüfungsanstalt" in Hamburg, collected in Northern Norway ca. 1888-1889, later widely in the Canary Islands. (*Burchard*).
+Burchard, Oscar (c. 1864-1949), German botanist at Hamburg, scientist with the botanical laboratory of the "Samen-Prüfungsanstalt" in Hamburg, collected in Northern Norway ca. 1888-1889, later widely in the Canary Islands. 
+**Abbreviated name**: *Burchard*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103860#page/30/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33265697) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cels, Jean François (1810-1888), French horticulturist, son of François Cels, continued his father’s establishment. (*J.F. Cels*).
+Cels, Jean François (1810-1888), French horticulturist, son of François Cels, continued his father’s establishment. 
+**Abbreviated name**: *J.F. Cels*
 
 #### Herbarium and types
 

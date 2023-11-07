@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/item/103683#page/689/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33212721) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vatke, \[George Carl\] Wilhelm (1849-1889), German (Berlin) botanist; studied at the University of Berlin as student of A. Braun; assistant at the Berlin Botanical Garden 1876-1879; from 1879 privately active, exclusively with botany, visiting various European herbaria, assembling a considerable herbarium and library; mostly working at Berlin. (*Vatke*).
+Vatke, \[George Carl\] Wilhelm (1849-1889), German (Berlin) botanist; studied at the University of Berlin as student of A. Braun; assistant at the Berlin Botanical Garden 1876-1879; from 1879 privately active, exclusively with botany, visiting various European herbaria, assembling a considerable herbarium and library; mostly working at Berlin. 
+**Abbreviated name**: *Vatke*
 
 #### Herbarium and types
 

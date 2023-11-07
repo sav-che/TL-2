@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/103624#page/579/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33190036) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rainer, Moriz (Moritz) von und zu Haarbach (1793-1847), Austrian botanist; for eighteen years banker in Milano; ultimately at Graz. (*Rainer*).
+Rainer, Moriz (Moritz) von und zu Haarbach (1793-1847), Austrian botanist; for eighteen years banker in Milano; ultimately at Graz. 
+**Abbreviated name**: *Rainer*
 
 #### Herbarium and types
 

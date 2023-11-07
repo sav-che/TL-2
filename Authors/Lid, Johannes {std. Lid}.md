@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/104137#page/26/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33355117) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lid, Johannes (1886-1971), Norwegian botanist; curator of the Botanical Museum of Oslo University from 1919-1956. (*Lid*).
+Lid, Johannes (1886-1971), Norwegian botanist; curator of the Botanical Museum of Oslo University from 1919-1956. 
+**Abbreviated name**: *Lid*
 
 #### Herbarium and types
 

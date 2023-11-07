@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/item/104077#page/836/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33333961) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stabler, George (1839-1910), British bryologist; schoolfellow of Richard Spruce; village schoolmaster at Levens, Westmoreland. (*Stabler*).
+Stabler, George (1839-1910), British bryologist; schoolfellow of Richard Spruce; village schoolmaster at Levens, Westmoreland. 
+**Abbreviated name**: *Stabler*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/103683#page/50/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33212044) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stratingh, Gozewinus Acker (1804-1876), Dutch geologist, archeologist and botanist; Dr. med. Groningen 1828; Dr. phil. h.c. ib. 1850; dedicated himself (after a brief period as practicing physician) entirely to the natural sciences, working as a private scientist. (*Stratingh*).
+Stratingh, Gozewinus Acker (1804-1876), Dutch geologist, archeologist and botanist; Dr. med. Groningen 1828; Dr. phil. h.c. ib. 1850; dedicated himself (after a brief period as practicing physician) entirely to the natural sciences, working as a private scientist. 
+**Abbreviated name**: *Stratingh*
 
 #### Herbarium and types
 

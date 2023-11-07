@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103253#page/440/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33068656) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaeger, August (1842-1877), Swiss bryologist. (*A. Jaeg.*).
+Jaeger, August (1842-1877), Swiss bryologist. 
+**Abbreviated name**: *A. Jaeg.*
 
 #### Herbarium and types
 

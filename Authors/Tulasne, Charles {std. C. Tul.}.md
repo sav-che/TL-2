@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/item/103683#page/539/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33212571) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tulasne, Charles (1816-1884), French botanist and physician; studied medicine in Paris 1840, practicing ib. until 1865; from then with his brother L.R. Tulasne at Hyères, S. France 1865-1884; assisted his brother with botanizing and especially with the illustration of the latter's works. (*C. Tul.*).
+Tulasne, Charles (1816-1884), French botanist and physician; studied medicine in Paris 1840, practicing ib. until 1865; from then with his brother L.R. Tulasne at Hyères, S. France 1865-1884; assisted his brother with botanizing and especially with the illustration of the latter's works. 
+**Abbreviated name**: *C. Tul.*
 
 #### Herbarium and types
 

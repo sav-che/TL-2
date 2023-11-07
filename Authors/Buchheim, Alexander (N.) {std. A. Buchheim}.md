@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103861#page/205/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33266502) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchheim, Alexander \[N.\] (1886-?), Russian botanist (Rostow at Don) who studied at the University of Bern, Dr. phil. Bern 26 Feb 1915. (*A. Buchheim*).
+Buchheim, Alexander \[N.\] (1886-?), Russian botanist (Rostow at Don) who studied at the University of Bern, Dr. phil. Bern 26 Feb 1915. 
+**Abbreviated name**: *A. Buchheim*
 
 #### Herbarium and types
 

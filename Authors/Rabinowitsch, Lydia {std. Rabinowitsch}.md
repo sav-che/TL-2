@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/item/103624#page/487/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rabinowitsch, Lydia (1871-1935), Russian-born mycologist and bacteriologist; Dr. phil. Bern 1894; married the bacteriologist W. Kempner 1898; professor and director of the Bacteriological Institute of the Moabit Hospital, Berlin-Lichtenfeld. (*Rabinowitsch*).
+Rabinowitsch, Lydia (1871-1935), Russian-born mycologist and bacteriologist; Dr. phil. Bern 1894; married the bacteriologist W. Kempner 1898; professor and director of the Bacteriological Institute of the Moabit Hospital, Berlin-Lichtenfeld. 
+**Abbreviated name**: *Rabinowitsch*
 
 #### Herbarium and types
 

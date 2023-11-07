@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103860#page/367/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33266034) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-\* Cordemoy, Hubert Louis Philippe Eugène Jacob de (1866-1927), French physician and botanist, born at Réunion, teacher at the "École de plein exercice de médecine et de pharmacie" and "chef des travaux pratiques de botanique à la Faculté des Sciences de Marseille". (*H.L. Cordem.*).
+\* Cordemoy, Hubert Louis Philippe Eugène Jacob de (1866-1927), French physician and botanist, born at Réunion, teacher at the "École de plein exercice de médecine et de pharmacie" and "chef des travaux pratiques de botanique à la Faculté des Sciences de Marseille". 
+**Abbreviated name**: *H.L. Cordem.*
 
 #### Herbarium and types
 

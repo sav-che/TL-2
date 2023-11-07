@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/item/104077#page/809/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33333934) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Splitgerber, Frederik Louis (1801-1845), Dutch botanist and botanical traveller; private scientist at Amsterdam; in Italy and Sicily 1833, in Suriname 1837-1838. (*Splitg.*).
+Splitgerber, Frederik Louis (1801-1845), Dutch botanist and botanical traveller; private scientist at Amsterdam; in Italy and Sicily 1833, in Suriname 1837-1838. 
+**Abbreviated name**: *Splitg.*
 
 #### Herbarium and types
 

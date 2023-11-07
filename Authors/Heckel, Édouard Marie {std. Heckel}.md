@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103253#page/142/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33068358) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heckel, Édouard Marie (1843-1916), French naval apothecary and botanist; Dr. sci. nat. Montpellier 1875; from 1877 professor of botany and (founder and) director of the botanic garden at Marseille. (*Heckel*).
+Heckel, Édouard Marie (1843-1916), French naval apothecary and botanist; Dr. sci. nat. Montpellier 1875; from 1877 professor of botany and (founder and) director of the botanic garden at Marseille. 
+**Abbreviated name**: *Heckel*
 
 #### Herbarium and types
 

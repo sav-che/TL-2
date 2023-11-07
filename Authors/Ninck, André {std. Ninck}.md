@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/item/104137#page/771/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ninck, André (1872-1950), French amateur bryologist and palaeontologist; studied at the École Polytechnique, Paris; later Inspecteur-général des Ponts-et-Chaussées. (*Ninck*).
+Ninck, André (1872-1950), French amateur bryologist and palaeontologist; studied at the École Polytechnique, Paris; later Inspecteur-général des Ponts-et-Chaussées. 
+**Abbreviated name**: *Ninck*
 
 #### Herbarium and types
 

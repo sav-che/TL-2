@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/item/103683#page/769/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33212801) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vitman, Fulgenzio (1728-1806), Italian botanist and clergyman; professor of botany and director of the Pavia botanical garden 1763-1773; professor of botany at the Lyceum of Brera, Milano 1774; founder of the botanical garden of the Lyceum 1781. (*Vitm.*).
+Vitman, Fulgenzio (1728-1806), Italian botanist and clergyman; professor of botany and director of the Pavia botanical garden 1763-1773; professor of botany at the Lyceum of Brera, Milano 1774; founder of the botanical garden of the Lyceum 1781. 
+**Abbreviated name**: *Vitm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103683#page/404/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33212436) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torell, Otto Martin (1828-1900), Swedish zoologist and geologist; Dr. phil. 1853; assistant at the Zoological Museum, Lund from 1860; extraordinary professor of zoology and geology ib. 1866; in charge of the Swedish geological survey Stockholm 1871-1897. (*Torell*).
+Torell, Otto Martin (1828-1900), Swedish zoologist and geologist; Dr. phil. 1853; assistant at the Zoological Museum, Lund from 1860; extraordinary professor of zoology and geology ib. 1866; in charge of the Swedish geological survey Stockholm 1871-1897. 
+**Abbreviated name**: *Torell*
 
 #### Herbarium and types
 

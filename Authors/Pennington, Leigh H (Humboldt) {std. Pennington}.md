@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103624#page/169/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33189626) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pennington, Leigh H \[Humboldt\] (1877-1929), American phytopathologist and mycologist; B.A. Univ. Mich. 1907, Dr. phil. 1909; from 1910 at Syracuse University as professor of botany, from 1914-1929 as head of the dept. of forest botany. (*Pennington*).
+Pennington, Leigh H \[Humboldt\] (1877-1929), American phytopathologist and mycologist; B.A. Univ. Mich. 1907, Dr. phil. 1909; from 1910 at Syracuse University as professor of botany, from 1914-1929 as head of the dept. of forest botany. 
+**Abbreviated name**: *Pennington*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/103859#page/194/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33265381) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Björklund, Karin (Dorthe Johanna Katarina) (1908-x), Finnish botanist. (*K. Björklund*).
+Björklund, Karin (Dorthe Johanna Katarina) (1908-x), Finnish botanist. 
+**Abbreviated name**: *K. Björklund*
 
 #### Herbarium and types
 

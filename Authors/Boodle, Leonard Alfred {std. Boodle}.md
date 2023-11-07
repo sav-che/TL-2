@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103859#page/333/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265520) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boodle, Leonard Alfred (1865-1941), British (London born) botanist, demonstrator at the Royal College of Science with D.H. Scott, assistant 1904, from 1909-1930, assistant keeper of the Jodrell Laboratory at Kew. (*Boodle*).
+Boodle, Leonard Alfred (1865-1941), British (London born) botanist, demonstrator at the Royal College of Science with D.H. Scott, assistant 1904, from 1909-1930, assistant keeper of the Jodrell Laboratory at Kew. 
+**Abbreviated name**: *Boodle*
 
 #### Herbarium and types
 

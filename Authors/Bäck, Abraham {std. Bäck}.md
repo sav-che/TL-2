@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103414#page/137/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33120220) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bäck, Abraham (1713-1795), Swedish amateur botanist, friend of Linnaeus and chief-physician to the king of Sweden who pronounced the funeral oration on Linnaeus at the Swedish Academy of Sciences (*Bäck*).
+Bäck, Abraham (1713-1795), Swedish amateur botanist, friend of Linnaeus and chief-physician to the king of Sweden who pronounced the funeral oration on Linnaeus at the Swedish Academy of Sciences 
+**Abbreviated name**: *Bäck*
 
 #### Herbarium and types
 

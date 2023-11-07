@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/104137#page/446/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33355517) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mertens, Franz Karl (Carl) (1764-1831), German botanist, director of a business school in Bremen. (*Mert.*).
+Mertens, Franz Karl (Carl) (1764-1831), German botanist, director of a business school in Bremen. 
+**Abbreviated name**: *Mert.*
 
 #### Herbarium and types
 

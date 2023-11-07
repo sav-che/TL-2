@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103624#page/263/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33189720) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piccioli, Ludovico (1867-?), Italian botanist and forester; forestry inspector in the province of Siena; habil. Univ. Siena 1905; director of the experimental arboreta of Vallombrosa 1913-1922; later professor of silviculture at the Facoltà Agraria e Forestale della R. Università, Firenze. (*L. Piccioli*).
+Piccioli, Ludovico (1867-?), Italian botanist and forester; forestry inspector in the province of Siena; habil. Univ. Siena 1905; director of the experimental arboreta of Vallombrosa 1913-1922; later professor of silviculture at the Facoltà Agraria e Forestale della R. Università, Firenze. 
+**Abbreviated name**: *L. Piccioli*
 
 #### Herbarium and types
 

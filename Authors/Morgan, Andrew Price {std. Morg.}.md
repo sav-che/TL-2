@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/item/104137#page/595/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33355666) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morgan, Andrew Price (1836-1907), American mycologist who introduced C. G. Lloyd to mycology; high school teacher at Dayton, Ohio. (*Morg.*).
+Morgan, Andrew Price (1836-1907), American mycologist who introduced C. G. Lloyd to mycology; high school teacher at Dayton, Ohio. 
+**Abbreviated name**: *Morg.*
 
 #### Herbarium and types
 

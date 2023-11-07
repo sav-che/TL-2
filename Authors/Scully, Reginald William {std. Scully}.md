@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/104077#page/478/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scully, Reginald William (1858-1935), Irish botanist; studied medicine but never practiced, dedicating himself to botany. (*Scully*).
+Scully, Reginald William (1858-1935), Irish botanist; studied medicine but never practiced, dedicating himself to botany. 
+**Abbreviated name**: *Scully*
 
 #### Herbarium and types
 

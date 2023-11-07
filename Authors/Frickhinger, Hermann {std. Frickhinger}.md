@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/item/103414#page/926/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frickhinger, Hermann (*fl*. 1911), German apothecary and botanist at Nördlingen. (*Frickhinger*).
+Frickhinger, Hermann (*fl*. 1911), German apothecary and botanist at Nördlingen. 
+**Abbreviated name**: *Frickhinger*
 
 #### Herbarium and types
 

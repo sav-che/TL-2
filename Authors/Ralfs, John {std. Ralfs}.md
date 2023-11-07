@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/103624#page/580/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33190037) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ralfs, John (1807-1890), British botanist; studied medicine in Guy's Hospital, London; med. exam. Apothecaries Hall 1830, College of Surgeons 1832; praticed as a surgeon 1832-1837; settled in Penzance 1837 for health reasons, devoting himself to botany, especially phycology. (*Ralfs*).
+Ralfs, John (1807-1890), British botanist; studied medicine in Guy's Hospital, London; med. exam. Apothecaries Hall 1830, College of Surgeons 1832; praticed as a surgeon 1832-1837; settled in Penzance 1837 for health reasons, devoting himself to botany, especially phycology. 
+**Abbreviated name**: *Ralfs*
 
 #### Herbarium and types
 

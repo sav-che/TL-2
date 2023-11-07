@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103250#page/157/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33066437) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beatson, Alexander {std. Beatson}|first entry]] for this author
 
 ### Author
 
-Watson \[recte: Beatson\], Alexander (1759-1833), Scottish soldier, governor of St. Helena 1808-1813. (*Beatson*).
+Watson \[recte: Beatson\], Alexander (1759-1833), Scottish soldier, governor of St. Helena 1808-1813. 
+**Abbreviated name**: *Beatson*
 
 #### Herbarium and types
 

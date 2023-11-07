@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103832#page/155/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33258621) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gatin, Charles Louis (1877-1916), French agricultural engineer and botanist, born 6 Dec 1877 in Rambouillet, graduated from the Agronomy Inst., Paris 1898, internship, experimental garden in Tunis, Tunisia "préparateur", lab. of botany, École supérieure des sciences, Algiers, Algeria 1901, Dr. ès-sciences 1906 Paris, dir. of research, École des hautes études, Muséum natl. d'Histoire naturelle, Paris 1913, mobilized in 1914 for military service in W.W.-I and wounded the same year in Alsace, after recuperating he was again sent to the front and killed in action 26 Feb 1916 at Douaumont nr. Verdun, Chevalier de la Légion d'Honneur, Croix de Guerre. (*Gatin*).
+Gatin, Charles Louis (1877-1916), French agricultural engineer and botanist, born 6 Dec 1877 in Rambouillet, graduated from the Agronomy Inst., Paris 1898, internship, experimental garden in Tunis, Tunisia "préparateur", lab. of botany, École supérieure des sciences, Algiers, Algeria 1901, Dr. ès-sciences 1906 Paris, dir. of research, École des hautes études, Muséum natl. d'Histoire naturelle, Paris 1913, mobilized in 1914 for military service in W.W.-I and wounded the same year in Alsace, after recuperating he was again sent to the front and killed in action 26 Feb 1916 at Douaumont nr. Verdun, Chevalier de la Légion d'Honneur, Croix de Guerre. 
+**Abbreviated name**: *Gatin*
 
 #### Note
 

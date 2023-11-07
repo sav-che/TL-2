@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103835#page/311/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33260289) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Elfving, Frederik Emil Volmar {std. Elfving}|first entry]] for this author
 
 ### Author
 
-\* Elfving, Frederik Emil Volmar (1854-1942), Finnish botanist (physiologist), born 9 Dec 1854 at Ekenäs in S. Finland, visited school at Abo (Turku), studied at the University of Helsingfors from 1870, mag. phil. 1874, dr. phil. 1880, 1881 docent, 1892-1926 professor of botany (physiology) at the University of Helsingfors (Helsinki), died 21 Jun 1942 at Helsinki. (*Elfving*).
+\* Elfving, Frederik Emil Volmar (1854-1942), Finnish botanist (physiologist), born 9 Dec 1854 at Ekenäs in S. Finland, visited school at Abo (Turku), studied at the University of Helsingfors from 1870, mag. phil. 1874, dr. phil. 1880, 1881 docent, 1892-1926 professor of botany (physiology) at the University of Helsingfors (Helsinki), died 21 Jun 1942 at Helsinki. 
+**Abbreviated name**: *Elfving*
 
 #### Herbarium and types
 

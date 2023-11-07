@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103683#page/398/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33212430) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Des Tombe, Frans Andries {std. Tombe} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Tombe, Frans Andries des (1884-1926), Dutch botanist; studied biology at Utrecht 1904; worked at a plant nursery at Velp ca. 1904-1909; mycological assistant at the Rijksherbarium Leiden 1909-1912; with the Seed-Testing Station at Wageningen 1912-1914; in Rotterdam 1916-1926. (*Tombe*).
+Tombe, Frans Andries des (1884-1926), Dutch botanist; studied biology at Utrecht 1904; worked at a plant nursery at Velp ca. 1904-1909; mycological assistant at the Rijksherbarium Leiden 1909-1912; with the Seed-Testing Station at Wageningen 1912-1914; in Rotterdam 1916-1926. 
+**Abbreviated name**: *Tombe*
 
 #### Herbarium and types
 

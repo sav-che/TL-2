@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103253#page/421/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33068637) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jack, William (1795-1822), British botanist; educated at Aberdeen; surgeon in the Bengal medical service (1813); to Sumatra with Raffles (1818); died at sea near S. Sumatra. (*W. Jack*).
+Jack, William (1795-1822), British botanist; educated at Aberdeen; surgeon in the Bengal medical service (1813); to Sumatra with Raffles (1818); died at sea near S. Sumatra. 
+**Abbreviated name**: *W. Jack*
 
 #### Herbarium and types
 

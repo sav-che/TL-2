@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103414#page/129/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33120212) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Austin, Coe Finch {std. Aust.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Austin, Coe Finch (1831-1880), American bryologist. (*Aust.*).
+Austin, Coe Finch (1831-1880), American bryologist. 
+**Abbreviated name**: *Aust.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103832#page/454/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33258920) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Guettard, Jean Étienne {std. Guett.}|first entry]] for this author
 
 ### Author
 
-\* Guettard, Jean-Étienne (1715-1786), French physician, geologist and naturalist, born 22 Sep 1715 in Étampes (Île de France), studied botany under Bernard de Jussieu, Faculty of Medicine, Paris 1742, from 1747 "médecin botaniste" to and keeper of the Duc d'Orléans's natural history collection, he was the first to survey and geologically map France and to observe the exposed bedrock of the Paris Basin, died 6 \[7?\] Jan 1786 in Paris. (*Guett.*).
+\* Guettard, Jean-Étienne (1715-1786), French physician, geologist and naturalist, born 22 Sep 1715 in Étampes (Île de France), studied botany under Bernard de Jussieu, Faculty of Medicine, Paris 1742, from 1747 "médecin botaniste" to and keeper of the Duc d'Orléans's natural history collection, he was the first to survey and geologically map France and to observe the exposed bedrock of the Paris Basin, died 6 \[7?\] Jan 1786 in Paris. 
+**Abbreviated name**: *Guett.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/item/104137#page/853/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-O'Meara, Eugene (c. 1815-1880), Irish clergyman and botanist (diatomologist) at Dublin; M. A. Dublin 1858. (*O'Meara*).
+O'Meara, Eugene (c. 1815-1880), Irish clergyman and botanist (diatomologist) at Dublin; M. A. Dublin 1858. 
+**Abbreviated name**: *O'Meara*
 
 #### Herbarium and types
 

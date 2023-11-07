@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103414#page/291/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33120374) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bock, Hieronymus (Tragus) (1498-1554), German physician, botanist, teacher, and prefect of the Zweibrücken gardens. (*Bock*).
+Bock, Hieronymus (Tragus) (1498-1554), German physician, botanist, teacher, and prefect of the Zweibrücken gardens. 
+**Abbreviated name**: *Bock*
 
 #### Bibliography and biography
 

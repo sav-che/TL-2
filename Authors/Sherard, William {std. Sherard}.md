@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/item/104077#page/573/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33333698) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sherard, William (1659-1728), British botanist; studied law at Oxford (St. John's College, B.C.L. 1683), botany in Paris (under J.P. Tournefort, 1686-1688) and Leiden (with P. Hermann 1688-1689); in Ireland 1690-1694; D. C.L. Oxford 1694; consul at Smyrna 1702-1716; collecting in Greece and Asia minor; founded a chair of botany at Oxford of which J.J. Dillenius was the first occupant. (*Sherard*).
+Sherard, William (1659-1728), British botanist; studied law at Oxford (St. John's College, B.C.L. 1683), botany in Paris (under J.P. Tournefort, 1686-1688) and Leiden (with P. Hermann 1688-1689); in Ireland 1690-1694; D. C.L. Oxford 1694; consul at Smyrna 1702-1716; collecting in Greece and Asia minor; founded a chair of botany at Oxford of which J.J. Dillenius was the first occupant. 
+**Abbreviated name**: *Sherard*
 
 #### Herbarium and types
 

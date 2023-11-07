@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103683#page/28/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33212076) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stolley, Ernst (1869-?), German (Schleswig-Holstein) botanist and palaeontologist; Dr. phil. München 1891; assistant at the Mineral. Mus. Kiel 1891-1901; habil. 1894; professor of geology and mineralogy at the Technische Hochschule, Braunschweig from 1891. (*Stolley*).
+Stolley, Ernst (1869-?), German (Schleswig-Holstein) botanist and palaeontologist; Dr. phil. München 1891; assistant at the Mineral. Mus. Kiel 1891-1901; habil. 1894; professor of geology and mineralogy at the Technische Hochschule, Braunschweig from 1891. 
+**Abbreviated name**: *Stolley*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/104137#page/148/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33355219) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Locke, John (1792-1856), American geologist, botanist, physician, inventor; M. D. Yale 1819; from 1823 living at Cincinnati (Ohio), leading a preparatory school from 1823; professor of chemistry in the Medical College of Ohio from 1835; collaborator in the geological survey of Ohio. (*Locke*).
+Locke, John (1792-1856), American geologist, botanist, physician, inventor; M. D. Yale 1819; from 1823 living at Cincinnati (Ohio), leading a preparatory school from 1823; professor of chemistry in the Medical College of Ohio from 1835; collaborator in the geological survey of Ohio. 
+**Abbreviated name**: *Locke*
 
 #### Herbarium and types
 

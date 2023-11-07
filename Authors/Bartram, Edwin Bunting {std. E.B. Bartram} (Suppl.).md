@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/item/103858#page/364/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33265079) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartram, Edwin Bunting {std. E.B. Bartram}|first entry]] for this author
 
 ### Author
 
-\* Bartram, Edwin Bunting (1878-1964), American bryologist, after school engaged in various business activities until 1917; amateur botanist, after 1917 dedicating himself almost entirely to bryology, president of the American Bryological Society 1931-1933, longtime associate editor of the Bryologist. (*E.B. Bartram*).
+\* Bartram, Edwin Bunting (1878-1964), American bryologist, after school engaged in various business activities until 1917; amateur botanist, after 1917 dedicating himself almost entirely to bryology, president of the American Bryological Society 1931-1933, longtime associate editor of the Bryologist. 
+**Abbreviated name**: *E.B. Bartram*
 
 #### Herbarium and types
 

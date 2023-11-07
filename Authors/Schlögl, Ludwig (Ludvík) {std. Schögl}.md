@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/104077#page/238/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33333363) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlögl, Ludwig \[Ludvík\] (1846-1899), Moravian botanist and high school teacher at Ungarisch Hradisch (Uherské Hradište). (*Schögl*).
+Schlögl, Ludwig \[Ludvík\] (1846-1899), Moravian botanist and high school teacher at Ungarisch Hradisch (Uherské Hradište). 
+**Abbreviated name**: *Schögl*
 
 #### Herbarium and types
 

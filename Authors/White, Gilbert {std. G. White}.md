@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103250#page/311/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33066591) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, Gilbert (1720-1793), British curate and naturalist; B.A. Oxford 1743, MA 1746; curate at Swarraton 1746-1751, at Selborne 1751; proctor of Oxford University 1752, curate at Selborne from ca. 1758. (*G. White*).
+White, Gilbert (1720-1793), British curate and naturalist; B.A. Oxford 1743, MA 1746; curate at Swarraton 1746-1751, at Selborne 1751; proctor of Oxford University 1752, curate at Selborne from ca. 1758. 
+**Abbreviated name**: *G. White*
 
 #### Herbarium and types
 

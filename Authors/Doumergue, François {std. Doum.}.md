@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103835#page/87/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33260065) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doumergue, François (1858?-1938), French/Algerian botanist, teacher at Lycée (d'Oran) from September 1886, studied extensively the botany of the surroundings of Oran. (*Doum.*).
+Doumergue, François (1858?-1938), French/Algerian botanist, teacher at Lycée (d'Oran) from September 1886, studied extensively the botany of the surroundings of Oran. 
+**Abbreviated name**: *Doum.*
 
 #### Herbarium and types
 

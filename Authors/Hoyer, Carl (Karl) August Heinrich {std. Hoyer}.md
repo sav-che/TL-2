@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/item/103253#page/378/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33068594) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoyer, Carl \[Karl\] August Heinrich (*fl*. 1838), German botanist and pharmacist at Rinteln. (*Hoyer*).
+Hoyer, Carl \[Karl\] August Heinrich (*fl*. 1838), German botanist and pharmacist at Rinteln. 
+**Abbreviated name**: *Hoyer*
 
 #### Herbarium and types
 

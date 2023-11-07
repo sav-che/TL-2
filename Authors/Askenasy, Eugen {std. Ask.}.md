@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103414#page/125/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33120208) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Askenasy, Eugen {std. Ask.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Askenasy, Eugen (1845-1903), Russian-German algologist, after 1881 at Heidelberg. (*Ask.*).
+Askenasy, Eugen (1845-1903), Russian-German algologist, after 1881 at Heidelberg. 
+**Abbreviated name**: *Ask.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/103414#page/738/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dufft, Adolf {std. Dufft} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dufft, Adolf (1803-1875), German industrialist and lichenologist. (*Dufft*).
+Dufft, Adolf (1803-1875), German industrialist and lichenologist. 
+**Abbreviated name**: *Dufft*
 
 #### Herbarium and types
 

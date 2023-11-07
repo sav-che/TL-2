@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/item/104137#page/615/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morton, Friedrich \[von\] (1890-1969), Austrian botanist; Dr. phil. Wien 1916; high school teacher at Wien; from 1925 curator at the Botanical Station of Hallstatt. (*F. Morton*).
+Morton, Friedrich \[von\] (1890-1969), Austrian botanist; Dr. phil. Wien 1916; high school teacher at Wien; from 1925 curator at the Botanical Station of Hallstatt. 
+**Abbreviated name**: *F. Morton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/item/103253#page/797/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laval, Edouard (1871-x), French botanist. (*Laval*).
+Laval, Edouard (1871-x), French botanist. 
+**Abbreviated name**: *Laval*
 
 #### Herbarium and types
 

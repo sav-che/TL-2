@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/item/103414#page/1029/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33121112) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grantzow, Carl \[Karl\] (x-1894), German highschool teacher and botanist at Hindenburg near Prenzlau. (*Grantzow*).
+Grantzow, Carl \[Karl\] (x-1894), German highschool teacher and botanist at Hindenburg near Prenzlau. 
+**Abbreviated name**: *Grantzow*
 
 #### Herbarium and types
 

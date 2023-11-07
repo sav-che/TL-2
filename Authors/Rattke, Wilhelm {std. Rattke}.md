@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/item/103624#page/599/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33190056) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rattke, Wilhelm (*fl*. 1884), German botanist. (*Rattke*).
+Rattke, Wilhelm (*fl*. 1884), German botanist. 
+**Abbreviated name**: *Rattke*
 
 #### Herbarium and types
 

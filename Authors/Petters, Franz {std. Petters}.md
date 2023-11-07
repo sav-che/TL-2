@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103624#page/226/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33189683) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petters, Franz (1784-1866), Bohemian botanist and clergyman; ordin. 1807; in various clergical positions at Schönwalde and Kratzau (Kragau); correspondent of Opiz. (*Petters*).
+Petters, Franz (1784-1866), Bohemian botanist and clergyman; ordin. 1807; in various clergical positions at Schönwalde and Kratzau (Kragau); correspondent of Opiz. 
+**Abbreviated name**: *Petters*
 
 #### Herbarium and types
 

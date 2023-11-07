@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103250#page/582/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33066862) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zederbauer, Emmerich (1877-1950), Austrian botanist; Dr. phil. Wien 1903; botanical demonstrator Bot. Inst. Univ. Wien 1901-1902, assistant ib. 1903-1905; assistant at the Forestry Station Maria-Brunn 1905, adjunct ib. 1906, inspector 1913, "Oberinspektor" 1919; Habil. Hochschule für Bodenkultur Wien 1912; e.o. professor of botany ib. 1921, ordinary professor from 1924-1938. (*Zederb*).
+Zederbauer, Emmerich (1877-1950), Austrian botanist; Dr. phil. Wien 1903; botanical demonstrator Bot. Inst. Univ. Wien 1901-1902, assistant ib. 1903-1905; assistant at the Forestry Station Maria-Brunn 1905, adjunct ib. 1906, inspector 1913, "Oberinspektor" 1919; Habil. Hochschule für Bodenkultur Wien 1912; e.o. professor of botany ib. 1921, ordinary professor from 1924-1938. 
+**Abbreviated name**: *Zederb*
 
 #### Herbarium and types
 

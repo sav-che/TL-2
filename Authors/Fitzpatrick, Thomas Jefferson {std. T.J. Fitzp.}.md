@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103834#page/256/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33259738) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fitzpatrick, Thomas Jefferson (1868-1952), American botanist, ecologist, historian of science and "bibliomaniac", born 2 Apr 1868 in Centerville, Iowa, said to be a direct descendent of Thomas Jefferson (3rd president of U.S.A.), B.S. 1893 and M.S. 1895 State Univ. of Iowa (now Univ. of Iowa), Iowa City, prof. and librarian, Graceland College, Lamoni, Iowa 1895-1898 and 1908-1912, field collector, Iowa State Historical Society 1903-1907, prof., Cotner College, Lincoln, Nebraska 1913, fellow in Botany, then Prof. of Botany and Mathematics, both Univ. of Nebraska, Lincoln from 1918 until retirement, died 28 Mar 1952 in Lincoln, Nebraska (sometimes erroneously stated as Iowa City, Iowa). (*T.J. Fitzp.*).
+Fitzpatrick, Thomas Jefferson (1868-1952), American botanist, ecologist, historian of science and "bibliomaniac", born 2 Apr 1868 in Centerville, Iowa, said to be a direct descendent of Thomas Jefferson (3rd president of U.S.A.), B.S. 1893 and M.S. 1895 State Univ. of Iowa (now Univ. of Iowa), Iowa City, prof. and librarian, Graceland College, Lamoni, Iowa 1895-1898 and 1908-1912, field collector, Iowa State Historical Society 1903-1907, prof., Cotner College, Lincoln, Nebraska 1913, fellow in Botany, then Prof. of Botany and Mathematics, both Univ. of Nebraska, Lincoln from 1918 until retirement, died 28 Mar 1952 in Lincoln, Nebraska (sometimes erroneously stated as Iowa City, Iowa). 
+**Abbreviated name**: *T.J. Fitzp.*
 
 #### Note
 

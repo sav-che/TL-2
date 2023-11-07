@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/item/103683#page/680/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33212712) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van Hoorebeke, Charles Joseph (1790-1821), Belgian pharmacist and botanist at Gent (Gand). (*Van Hoorebeke*).
+Van Hoorebeke, Charles Joseph (1790-1821), Belgian pharmacist and botanist at Gent (Gand). 
+**Abbreviated name**: *Van Hoorebeke*
 
 #### Herbarium and types
 

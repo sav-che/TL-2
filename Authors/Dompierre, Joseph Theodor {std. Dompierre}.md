@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103835#page/57/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33260035) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dompierre, Joseph Theodor (1800-1881), German physician and botanist, born at Vilseck 8 Oct 1800, visited Gymnasium at Amberg, later at Bamberg, 1822 to University Würzburg studying medicine, Ph.D. 26 Mai 1826, 1827 military physician at Landau, later in other towns, was since his boyhood interested in botany, died 4 Mar 1881. (*Dompierre*).
+Dompierre, Joseph Theodor (1800-1881), German physician and botanist, born at Vilseck 8 Oct 1800, visited Gymnasium at Amberg, later at Bamberg, 1822 to University Würzburg studying medicine, Ph.D. 26 Mai 1826, 1827 military physician at Landau, later in other towns, was since his boyhood interested in botany, died 4 Mar 1881. 
+**Abbreviated name**: *Dompierre*
 
 #### Herbarium and types
 

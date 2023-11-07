@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/103414#page/105/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33120188) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arcangeli, Giovanni {std. Arcang.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arcangeli, Giovanni (1840-1921), Italian botanist, professor of botany and director of the botanic garden of Pisa. (*Arcang.*).
+Arcangeli, Giovanni (1840-1921), Italian botanist, professor of botany and director of the botanic garden of Pisa. 
+**Abbreviated name**: *Arcang.*
 
 #### Herbarium and types
 

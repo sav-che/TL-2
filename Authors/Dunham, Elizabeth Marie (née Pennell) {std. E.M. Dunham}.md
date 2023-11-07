@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103835#page/180/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33260158) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dunham, Elizabeth Marie \[née Pennell\] (1872-1966), American bryologist, born Portland, Maine, 22 Aug 1872, lived at Portland until 1892, Jamaica Plain 1892-1898, Auburndale (Mass.) 1898-1912, Waben (Mass.) 1912-1922, Wellesley (Mass.) 1922-1966, died Nov 1966. (*E.M. Dunham*).
+Dunham, Elizabeth Marie \[née Pennell\] (1872-1966), American bryologist, born Portland, Maine, 22 Aug 1872, lived at Portland until 1892, Jamaica Plain 1892-1898, Auburndale (Mass.) 1898-1912, Waben (Mass.) 1912-1922, Wellesley (Mass.) 1922-1966, died Nov 1966. 
+**Abbreviated name**: *E.M. Dunham*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103250#page/387/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33066667) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williamson, John (1839-1884), British-born self-taught botanist and etcher, settled in Louisville, Ky 1867 as a wood carver, later in a foundry for ornamental brass-work. (*J. Williamson*).
+Williamson, John (1839-1884), British-born self-taught botanist and etcher, settled in Louisville, Ky 1867 as a wood carver, later in a foundry for ornamental brass-work. 
+**Abbreviated name**: *J. Williamson*
 
 #### Herbarium and types
 

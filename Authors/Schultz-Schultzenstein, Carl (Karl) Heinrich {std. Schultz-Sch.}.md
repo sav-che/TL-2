@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/item/104077#page/388/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33333513) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultz-Schultzenstein, Carl \[Karl\] Heinrich (1798-1871), German (Prussian) botanist at Berlin; habil. Berlin 1822; with the University of Berlin as lecturer ("Privatdozent") 1822, later as professor of botany. (*Schultz-Sch.*).
+Schultz-Schultzenstein, Carl \[Karl\] Heinrich (1798-1871), German (Prussian) botanist at Berlin; habil. Berlin 1822; with the University of Berlin as lecturer ("Privatdozent") 1822, later as professor of botany. 
+**Abbreviated name**: *Schultz-Sch.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/item/104137#page/544/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33355615) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miyoshi, Manabu (1861-1939), Japanese botanist; studied with Pfeffer 1891-1895; Dr. Sc. Tokyo 1895; professor of botany at Tokyo University from 1895; director of the Botanic gardens of Tokyo Univ. 1922-1924. (*Miyoshi*).
+Miyoshi, Manabu (1861-1939), Japanese botanist; studied with Pfeffer 1891-1895; Dr. Sc. Tokyo 1895; professor of botany at Tokyo University from 1895; director of the Botanic gardens of Tokyo Univ. 1922-1924. 
+**Abbreviated name**: *Miyoshi*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103835#page/173/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33260151) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dumortier, Barthélemy Charles Joseph (Count) {std. Dumort.}|first entry]] for this author
 
 ### Author
 
-\* Dumortier, Barthélemy Charles Joseph (also named du Mortier or Du Mortier) (1797-1878), Belgian botanist and politician, born 3 Apr 1797 at Tournai, followed schools at Tournai and later at Paris, returned to Tournai 1813, collected extensively in Hainaut and Flandres between 1816 and 1820, visited the Eifel with Michel in 1822 and the valley of the Maas and surroundings in 1823, in 1824 they botanized in Zeeland and Brabant, and in 1825 in Utrecht, Gelderland and Overijssel, published on the Belgian flora and fauna but also on politics, one of the founders of the "Jardin botanique de l'État", died 9 Jul 1878 at Tournai. (*Dumort.*).
+\* Dumortier, Barthélemy Charles Joseph (also named du Mortier or Du Mortier) (1797-1878), Belgian botanist and politician, born 3 Apr 1797 at Tournai, followed schools at Tournai and later at Paris, returned to Tournai 1813, collected extensively in Hainaut and Flandres between 1816 and 1820, visited the Eifel with Michel in 1822 and the valley of the Maas and surroundings in 1823, in 1824 they botanized in Zeeland and Brabant, and in 1825 in Utrecht, Gelderland and Overijssel, published on the Belgian flora and fauna but also on politics, one of the founders of the "Jardin botanique de l'État", died 9 Jul 1878 at Tournai. 
+**Abbreviated name**: *Dumort.*
 
 #### Herbarium and types
 

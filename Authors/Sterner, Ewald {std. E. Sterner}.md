@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/item/104077#page/918/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33334043) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sterner, Ewald (1890-1940), Swedish hotanist; studied at the University of Lund with B. Lidforss; assistant at the Botanical Institute ib. from 1912-1913; later at Eksjö; published on technology, inventors, etc. (*E. Sterner*).
+Sterner, Ewald (1890-1940), Swedish hotanist; studied at the University of Lund with B. Lidforss; assistant at the Botanical Institute ib. from 1912-1913; later at Eksjö; published on technology, inventors, etc. 
+**Abbreviated name**: *E. Sterner*
 
 #### Herbarium and types
 

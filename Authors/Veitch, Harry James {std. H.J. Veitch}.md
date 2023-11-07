@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/item/103683#page/698/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/page/33212730) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Veitch, Harry James (1840-1924), British horticulturist; second son of James Veitch (1815-1869), from 1858 with the Chelsea nurseries of James Veitch, main promoter of the Chelsea flower shows; leading spirit and most enterprising member of the Veitch family in the firm "James Veitch & Sons"; knighted 1912. (*H.J. Veitch*).
+Veitch, Harry James (1840-1924), British horticulturist; second son of James Veitch (1815-1869), from 1858 with the Chelsea nurseries of James Veitch, main promoter of the Chelsea flower shows; leading spirit and most enterprising member of the Veitch family in the firm "James Veitch & Sons"; knighted 1912. 
+**Abbreviated name**: *H.J. Veitch*
 
 #### Herbarium and types
 
@@ -34,9 +35,9 @@ AG 3: 909; Barnhart 3: 429 (b. 29 Jun 1840, d. 6 Jul 1924); BB p. 310; BM 5: 219
 
 #### Eponymy
 
-*Veitchia* Lindley (1861, *nom. rej.*); *Veitchia* H. Wendland (1868, *nom. cons.*) commemorate James Veitch (1815-1869).
+*Veitchia* Lindley (1861, *nom. rej.*) [^1]; *Veitchia* H. Wendland (1868, *nom. cons.*) commemorate James Veitch (1815-1869).
 
-#### The house of veitch
+#### The house of Veitch
 
 John Veitch (1752-1839) was the original founder of the Veitch firm: he started a nursery at Budlake which was in existence in 1800. John and his son James (1792-1863) purchased land at Mount Radford in Exeter and thus founded the Exeter nursery of which James took charge in 1837. James was joined in the firm by his son James junior (1815-1869) and James Veitch & Son became a widely known establishment. A nursery in Chelsea was purchased in 1853; James Sr. remained in Exeter and James Jr. took charge of the Chelsea (London) nursery. The two nurseries became different firms in 1863 on the death of James Sr. The Exeter firm came in the hands of Robert Toswill Veitch (1823-1885), younger brother of James Jr.; the latter took charge of the Chelsea firm with the assistance of his three sons and traded as James Veitch & Sons. John Gould Veitch (1839-1870), well-known for his collecting in the Far East, and Harry James Veitch (1840-1906) were admitted to partnership in 1865; the third son, Arthur Veitch (1844-1880) was, apparently, less active in the firm. Harry James and John Gould took charge of the firm on their father's death in 1869; John Gould died 1870 and Harry James V. continued alone. His two nephews James Herbert Veitch and John Gould Veitch II (sons of John Gould I) were taken in the business. The firm closed down (as a family enterprise) with the retirement of H.J. Veitch in 1914. Harry James Veitch can be regarded as the leading spirit from 1865 onwards and we therefore treat books issued by "James Veitch and Sons" under his name. For a concise and informative history see K.A.P. Fuller and J.M. Langdon (1973); see also James H. Veitch, *Hortus Veitchii* (1906), treated below.
 
@@ -76,4 +77,7 @@ John Veitch (1752-1839) was the original founder of the Veitch firm: he started 
 *Copies*: B, BR, G, HH, MO, NY, PH. – The numbers of plates per fascicle vary in the copies seen by us; the numbers listed above are those of the NY copy.
 *Facsimile ed*.: Amsterdam (A. Asher & Co.) 1963, ISBN 90-6123-180-9. – Reprinted 1981.
 *French transl*. of the treatments of *Cypridium* and *Dendrobium* appeared in *Orchidophile* 1891-1893, see MW p. 513.
+
+[^1]: "*Veitchia* Lindl. 1861 (Pinaceae) \[is dedicated to\] John Gould Veitch (18391870), English gardener of the Veitch-Dynasty, plant collector in Japan, China, Pacific Islands, discoverer of the plant (Lindley, 1861: 265)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

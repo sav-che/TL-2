@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/item/103414#page/716/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33120799) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Don, David {std. D. Don} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Don, David (1799-1841), British botanist, librarian to Lambert and The Linnean Society. (*D. Don*).
+Don, David (1799-1841), British botanist, librarian to Lambert and The Linnean Society. 
+**Abbreviated name**: *D. Don*
 
 #### Herbarium and types
 

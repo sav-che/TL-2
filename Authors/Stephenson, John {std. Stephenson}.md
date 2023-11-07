@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/item/104077#page/910/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/page/33334035) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stephenson, John (*fl*. 1820-1830), British physician and botanist; MD Edinburgh. (*Stephenson*).
+Stephenson, John (*fl*. 1820-1830), British physician and botanist; MD Edinburgh. 
+**Abbreviated name**: *Stephenson*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103833#page/104/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33259138) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davenport, Charles Benedict (1866-1944), American botanist and zoologist at the Station for experimental evolution (Carnegie Institution of Washington), at Cold Spring Harbor, Long Island, New York. (*C.B. Davenp.*).
+Davenport, Charles Benedict (1866-1944), American botanist and zoologist at the Station for experimental evolution (Carnegie Institution of Washington), at Cold Spring Harbor, Long Island, New York. 
+**Abbreviated name**: *C.B. Davenp.*
 
 #### Herbarium and types
 

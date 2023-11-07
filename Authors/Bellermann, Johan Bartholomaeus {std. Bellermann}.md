@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103859#page/74/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265261) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bellermann, Johan Bartholomaeus (1756-1833), German merchant and painter. (*Bellermann*).
+Bellermann, Johan Bartholomaeus (1756-1833), German merchant and painter. 
+**Abbreviated name**: *Bellermann*
 
 #### Herbarium and types
 

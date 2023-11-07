@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/item/103250#page/596/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33066876) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zickendrath, Ernst (1846-1903), German (Hessen-Nassau) botanist, later active in Russia; Dr. phil. Würzburg 1875. (*Zick.*).
+Zickendrath, Ernst (1846-1903), German (Hessen-Nassau) botanist, later active in Russia; Dr. phil. Würzburg 1875. 
+**Abbreviated name**: *Zick.*
 
 #### Herbarium and types
 

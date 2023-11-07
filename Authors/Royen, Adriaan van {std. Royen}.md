@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/item/103624#page/972/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33190429) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Royen, Adriaan van (1704-1779), Dutch botanist; Dr. med. Leiden 1728; lecturer in botany and medicine Leiden 1729; director of the botanic garden 1730-1754; regular professor of botany and medicine 1732-1754 (for botany) 1732-1775 (for medicine); associated with C. Linnaeus during the latter's years in Holland; correspondent of A. v. Haller. (*Royen*).
+Royen, Adriaan van (1704-1779), Dutch botanist; Dr. med. Leiden 1728; lecturer in botany and medicine Leiden 1729; director of the botanic garden 1730-1754; regular professor of botany and medicine 1732-1754 (for botany) 1732-1775 (for medicine); associated with C. Linnaeus during the latter's years in Holland; correspondent of A. v. Haller. 
+**Abbreviated name**: *Royen*
 
 #### Herbarium and types
 

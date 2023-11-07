@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/item/103414#page/532/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33120615) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Champion, John George (1815-1854), British soldier and botanist, in Ceylon (1838-1847), in Hong Kong (1847-1850). (*Champ.*).
+Champion, John George (1815-1854), British soldier and botanist, in Ceylon (1838-1847), in Hong Kong (1847-1850). 
+**Abbreviated name**: *Champ.*
 
 #### Herbarium and types
 

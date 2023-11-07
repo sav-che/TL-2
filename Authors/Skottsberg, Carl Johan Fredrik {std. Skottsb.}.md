@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/item/104077#page/641/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33333766) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skottsberg, Carl Johan Fredrik (1880-1963), Swedish botanist and botanical explorer; Dr. phil. Uppsala 1907; lecturer ib. 1907, curator at the Botanical Museum 1909-1914, in charge of the construction of the new botanical garden at Göteborg 1915; director of this garden 1919-1948 and professor of botany at Göteborg 1919-1947; travelled widely with special emphasis on the Antarctic, South America and the Pacific Islands. (*Skottsb.*).
+Skottsberg, Carl Johan Fredrik (1880-1963), Swedish botanist and botanical explorer; Dr. phil. Uppsala 1907; lecturer ib. 1907, curator at the Botanical Museum 1909-1914, in charge of the construction of the new botanical garden at Göteborg 1915; director of this garden 1919-1948 and professor of botany at Göteborg 1919-1947; travelled widely with special emphasis on the Antarctic, South America and the Pacific Islands. 
+**Abbreviated name**: *Skottsb.*
 
 #### Herbarium and types
 

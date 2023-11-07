@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/item/103860#page/516/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33266183) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cunningham, Gordon Herriot {std. G. Cunn.}|first entry]] for this author
 
 ### Author
 
-\* Cunningham, Gordon Herriot (1892-1962), New Zealand mycologist (Gasteromycetes), born at Moa Flat, Otago, New Zealand, member Linnean Society NSW from 1925, University of New Zealand M.Sc. 1926, Ph.D. 1927, at the FNZ Institution 1928, herbarium at Auckland, Dept. Sci. Industr. Research. (*G. Cunn.*).
+\* Cunningham, Gordon Herriot (1892-1962), New Zealand mycologist (Gasteromycetes), born at Moa Flat, Otago, New Zealand, member Linnean Society NSW from 1925, University of New Zealand M.Sc. 1926, Ph.D. 1927, at the FNZ Institution 1928, herbarium at Auckland, Dept. Sci. Industr. Research. 
+**Abbreviated name**: *G. Cunn.*
 
 #### Herbarium and types
 

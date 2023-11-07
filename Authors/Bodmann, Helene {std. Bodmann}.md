@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103859#page/253/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bodmann, Helene (fl. 1937), Austrian botanist at Vienna. (*Bodmann*).
+Bodmann, Helene (fl. 1937), Austrian botanist at Vienna. 
+**Abbreviated name**: *Bodmann*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/item/103414#page/761/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33120844) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duss, (Rèverend-Père) Antoine {std. Duss} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Duss, \[Père\] Antoine (1840-1924), Swiss clergyman and botanist in the West Indies. (*Duss*).
+Duss, \[Père\] Antoine (1840-1924), Swiss clergyman and botanist in the West Indies. 
+**Abbreviated name**: *Duss*
 
 #### Herbarium and types
 

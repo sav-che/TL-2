@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103833#page/227/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33259261) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Descole, Horacio R. (1910-x), Argentinian botanist, Doctor in biology, "director technico" of the Instituto Miguel Lillo, Director of the periodical Lilloa, professor of botany at the University of Tucuman, worked on genera and species of Argentinian plants. (*Descole*).
+Descole, Horacio R. (1910-x), Argentinian botanist, Doctor in biology, "director technico" of the Instituto Miguel Lillo, Director of the periodical Lilloa, professor of botany at the University of Tucuman, worked on genera and species of Argentinian plants. 
+**Abbreviated name**: *Descole*
 
 #### Herbarium and types
 

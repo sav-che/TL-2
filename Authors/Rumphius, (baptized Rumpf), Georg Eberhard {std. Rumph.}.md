@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/item/103624#page/1000/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/page/33190457) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rumphius, (baptized Rumpf), Georg Eberhard (1628-1702), German-born Dutch naturalist; enlisted with the Dutch West Indian Company for Brazil 1846 (but taken prisoner by the Portuguese); enlisted with the Dutch East Indian Company 1652, in Java 1652, to the Moluccas in the military service of the Company; commissioned officer 1655; in civil service as merchant to Ambon 1657 (Larike), from 1660 at Hitoe; first merchant at Amboina 1666 (appointment not ratified); blind from 1670; staying in Ambon mainly dedicating himself to the writing of his publications. (*Rumph.*).
+Rumphius, (baptized Rumpf), Georg Eberhard (1628-1702), German-born Dutch naturalist; enlisted with the Dutch West Indian Company for Brazil 1846 (but taken prisoner by the Portuguese); enlisted with the Dutch East Indian Company 1652, in Java 1652, to the Moluccas in the military service of the Company; commissioned officer 1655; in civil service as merchant to Ambon 1657 (Larike), from 1660 at Hitoe; first merchant at Amboina 1666 (appointment not ratified); blind from 1670; staying in Ambon mainly dedicating himself to the writing of his publications. 
+**Abbreviated name**: *Rumph.*
 
 #### Herbarium and types
 

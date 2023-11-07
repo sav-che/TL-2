@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103250#page/63/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wade, Arthur Edward (1895-x), British botanist; on active service World War I; at the National Museum of Wales, Cardiff 1920-1961; in retirement in Rotorua, New Zealand; M.Sc. Univ. Wales 1958 (h.c). (*A. Wade*).
+Wade, Arthur Edward (1895-x), British botanist; on active service World War I; at the National Museum of Wales, Cardiff 1920-1961; in retirement in Rotorua, New Zealand; M.Sc. Univ. Wales 1958 (h.c). 
+**Abbreviated name**: *A. Wade*
 
 #### Herbarium and types
 

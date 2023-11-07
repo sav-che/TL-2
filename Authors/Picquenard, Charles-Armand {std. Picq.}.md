@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103624#page/270/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33189727) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Picquenard, Charles-Armand (1872-1940), French botanist; Dr. med. Paris 1900; pupil of Nylander at Paris; settled at Quimper 1900 as practicing physician, ardent amateur naturalist and boy scout leader. (*Picq.*).
+Picquenard, Charles-Armand (1872-1940), French botanist; Dr. med. Paris 1900; pupil of Nylander at Paris; settled at Quimper 1900 as practicing physician, ardent amateur naturalist and boy scout leader. 
+**Abbreviated name**: *Picq.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/104137#page/374/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33355445) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Massara, Giuseppe Filippo (1792-1839), Italian physician and botanist at Sondrio (Valtellina). (*Massara*).
+Massara, Giuseppe Filippo (1792-1839), Italian physician and botanist at Sondrio (Valtellina). 
+**Abbreviated name**: *Massara*
 
 #### Herbarium and types
 

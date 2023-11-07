@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103250#page/103/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33066383) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wallroth, \[Carl\] Friedrich Wilhelm (1792-1857), German (Prussian Saxony) botanist; studied medicine at Halle (with K.P.J. Sprengel); Dr. med. Göttingen 1815; physician in the Hannover army 1815; practicing physician in Heringen 1816; regional physician 1822, from 1825 in Nordhausen. (*Wallr.*).
+Wallroth, \[Carl\] Friedrich Wilhelm (1792-1857), German (Prussian Saxony) botanist; studied medicine at Halle (with K.P.J. Sprengel); Dr. med. Göttingen 1815; physician in the Hannover army 1815; practicing physician in Heringen 1816; regional physician 1822, from 1825 in Nordhausen. 
+**Abbreviated name**: *Wallr.*
 
 #### Herbarium and types
 

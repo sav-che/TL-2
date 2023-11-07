@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/104137#page/279/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33355350) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malacarne, Claro Giuseppe (fl. 1810), Italian physician and botanist; professor of natural history, botany, chemistry and agriculture at the "Lyceum" in Brescia (*Malacarne*).
+Malacarne, Claro Giuseppe (fl. 1810), Italian physician and botanist; professor of natural history, botany, chemistry and agriculture at the "Lyceum" in Brescia 
+**Abbreviated name**: *Malacarne*
 
 #### Herbarium and types
 

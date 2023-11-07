@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/item/103250#page/154/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33066434) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wartmann, Jakob (1803-1873), Swiss high school teacher and botanist in St. Gallen; at the St. Gallen Gymnasium 1834-1854; town librarian 1855-1873; founder of the St. Gallen natural history museum (*J. Wartm.*).
+Wartmann, Jakob (1803-1873), Swiss high school teacher and botanist in St. Gallen; at the St. Gallen Gymnasium 1834-1854; town librarian 1855-1873; founder of the St. Gallen natural history museum 
+**Abbreviated name**: *J. Wartm.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/103414#page/783/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33120866) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eichler, August Wilhelm {std. Eichler} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Eichler, August Wilhelm (1839-1887), German botanist, one of the driving forces behind the *Flora brasiliensis*, expert morphologist. (*Eichler*).
+Eichler, August Wilhelm (1839-1887), German botanist, one of the driving forces behind the *Flora brasiliensis*, expert morphologist. 
+**Abbreviated name**: *Eichler*
 
 #### Herbarium and types
 

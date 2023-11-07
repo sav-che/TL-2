@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103414#page/166/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33120249) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baranetzky, Joseph (Osip, Iosif) Wasiljewitsch {std. Baranetzky} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baranetzky, Joseph \[Osip\] Wasiljewitsch (1843-1905), Russian botanist. (*Baranetzky*).
+Baranetzky, Joseph \[Osip\] Wasiljewitsch (1843-1905), Russian botanist. 
+**Abbreviated name**: *Baranetzky*
 
 #### Herbarium and types
 

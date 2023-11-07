@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103835#page/256/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33260234) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebeling, \[Rudolf\] Max (1860-?), German botanist, born 9 Feb 1860 at Rathenow, stayed six years at the "Döbbelin'schen höheren Knabenschule" at Berlin, later at the gymnasium ("Realgymnasium") until 1880, on military service 1880-1881, studied chemistry and other natural sciences until 1884 at the Berlin University. (*Ebeling*).
+Ebeling, \[Rudolf\] Max (1860-?), German botanist, born 9 Feb 1860 at Rathenow, stayed six years at the "Döbbelin'schen höheren Knabenschule" at Berlin, later at the gymnasium ("Realgymnasium") until 1880, on military service 1880-1881, studied chemistry and other natural sciences until 1884 at the Berlin University. 
+**Abbreviated name**: *Ebeling*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/104137#page/735/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33355806) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neilreich, August (1803-1871), Austrian botanist; in various positions with Vienna law courts from 1828-1856, ultimately as Civilgerichtsrath; from 1857 (retirement because of tuberculosis) devoting himself entirely to botany; Dr. phil. h.c. Wien 1865. (*Neilr.*).
+Neilreich, August (1803-1871), Austrian botanist; in various positions with Vienna law courts from 1828-1856, ultimately as Civilgerichtsrath; from 1857 (retirement because of tuberculosis) devoting himself entirely to botany; Dr. phil. h.c. Wien 1865. 
+**Abbreviated name**: *Neilr.*
 
 #### Herbarium and types
 

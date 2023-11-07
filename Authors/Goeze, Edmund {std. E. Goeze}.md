@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/103832#page/286/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33258752) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goeze, Edmund (1838-1929?), German horticulturalist and garden administrator, born 13 Feb 1838 in Itzehoe (Holstein), worked at Kew Herb., dir., Botanical Museum in Coimbra, Portugal 1866-1876, then Lisbon and finally garden inspector in Greifswald \[where he died?\]. (*E. Goeze*).
+Goeze, Edmund (1838-1929?), German horticulturalist and garden administrator, born 13 Feb 1838 in Itzehoe (Holstein), worked at Kew Herb., dir., Botanical Museum in Coimbra, Portugal 1866-1876, then Lisbon and finally garden inspector in Greifswald \[where he died?\]. 
+**Abbreviated name**: *E. Goeze*
 
 #### Note
 

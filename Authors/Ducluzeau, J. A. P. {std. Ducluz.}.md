@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/103414#page/738/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ducluzeau, J. A. P. (*fl*. 1805), French botanist. (*Ducluz.*).
+Ducluzeau, J. A. P. (*fl*. 1805), French botanist. 
+**Abbreviated name**: *Ducluz.*
 
 #### Herbarium and types
 

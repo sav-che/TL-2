@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103683#page/484/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Treumann, Karl (*fl*. 1880), Baltic-German botanist; Mag. pharm. Dorpat 1880, later at St. Petersburg. (*Treumann*).
+Treumann, Karl (*fl*. 1880), Baltic-German botanist; Mag. pharm. Dorpat 1880, later at St. Petersburg. 
+**Abbreviated name**: *Treumann*
 
 #### Herbarium and types
 

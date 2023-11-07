@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/item/103250#page/67/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33066309) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wager, Horace Athelstan (1876-1951), English botanist; went to South Africa 1903; professor of botany and zoology Transvaal University College (later Pretoria University). (*Wager*).
+Wager, Horace Athelstan (1876-1951), English botanist; went to South Africa 1903; professor of botany and zoology Transvaal University College (later Pretoria University). 
+**Abbreviated name**: *Wager*
 
 #### Herbarium and types
 

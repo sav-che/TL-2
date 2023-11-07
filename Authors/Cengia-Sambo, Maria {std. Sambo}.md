@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103860#page/30/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33265697) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cengia-Sambo, Maria (1888-1939), Italian lichenologist, born in Este 23 Oct 1888, studied at the University of Padova, later at Vicenza and Pavia, doctor in mathematics, lecturer at the Botanical Institute of the University of Urbino 1920-1924, moved then to Prato and worked at the botanical Institute of Firenze under Pampanini and Chiovenda, later also with Negri, died at Prato (*Sambo*).
+Cengia-Sambo, Maria (1888-1939), Italian lichenologist, born in Este 23 Oct 1888, studied at the University of Padova, later at Vicenza and Pavia, doctor in mathematics, lecturer at the Botanical Institute of the University of Urbino 1920-1924, moved then to Prato and worked at the botanical Institute of Firenze under Pampanini and Chiovenda, later also with Negri, died at Prato 
+**Abbreviated name**: *Sambo*
 
 #### Herbarium and types
 

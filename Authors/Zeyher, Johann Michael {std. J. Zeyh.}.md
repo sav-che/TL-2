@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/item/103250#page/595/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33066875) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zeyher, Johann Michael (1770-1843), German (Bavarian) botanist and horticulturist; educated at Ansbach (Bavaria), spent some time in Basel; head-gardener at the garden of the grand-duke of Baden at Schwetzingen 1804, director ib. 1806-1843. (*J. Zeyh.*).
+Zeyher, Johann Michael (1770-1843), German (Bavarian) botanist and horticulturist; educated at Ansbach (Bavaria), spent some time in Basel; head-gardener at the garden of the grand-duke of Baden at Schwetzingen 1804, director ib. 1806-1843. 
+**Abbreviated name**: *J. Zeyh.*
 
 #### Herbarium and types
 

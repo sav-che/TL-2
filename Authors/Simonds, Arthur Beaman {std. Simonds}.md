@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/item/104077#page/623/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simonds, Arthur Beaman (1867-x), American botanist; AB Harvard 1891; AM Univ. Calif. 1893. (*Simonds*).
+Simonds, Arthur Beaman (1867-x), American botanist; AB Harvard 1891; AM Univ. Calif. 1893. 
+**Abbreviated name**: *Simonds*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/item/103253#page/465/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33068681) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jensen, Christian Erasmus Otterstrøm (1859-1941), Danish bryologist. (*C. Jens.*).
+Jensen, Christian Erasmus Otterstrøm (1859-1941), Danish bryologist. 
+**Abbreviated name**: *C. Jens.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103250#page/218/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33066498) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weinmann, Johannes Anton (1782-1858), German-born (Franconian) Russian botanist and gardener; from 1804-1813 in Dorpat, from 1813 inspector of the garden of the Empress Marie Feodorowna at Gattschina and Pawlosk nr. St. Petersburg. (*Weinm.*).
+Weinmann, Johannes Anton (1782-1858), German-born (Franconian) Russian botanist and gardener; from 1804-1813 in Dorpat, from 1813 inspector of the garden of the Empress Marie Feodorowna at Gattschina and Pawlosk nr. St. Petersburg. 
+**Abbreviated name**: *Weinm.*
 
 #### Herbarium and types
 

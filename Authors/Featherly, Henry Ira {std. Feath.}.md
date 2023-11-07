@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103834#page/100/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33259582) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Featherly, Henry Ira (1893-1978), American botanist, born 27 Feb 1893 in Iuka, Illinois, taught high school in Illinois 1920-1922, B.Sc. 1924, M.Sc. 1925 and Ph.D. 1937 Iowa State College of Agric. & Mechanic Arts (now Iowa State Univ.), Ames, Iowa, asst. prof., then prof. of botany and plant pathology, Oklahoma Agric. & Mechanical College (now Oklahoma State Univ.), Stillwater, Oklahoma 1925, Bureau of Plant Industry, U.S.D.A. 1934, president Oklahoma Academy of Science 1942. (*Feath.*).
+Featherly, Henry Ira (1893-1978), American botanist, born 27 Feb 1893 in Iuka, Illinois, taught high school in Illinois 1920-1922, B.Sc. 1924, M.Sc. 1925 and Ph.D. 1937 Iowa State College of Agric. & Mechanic Arts (now Iowa State Univ.), Ames, Iowa, asst. prof., then prof. of botany and plant pathology, Oklahoma Agric. & Mechanical College (now Oklahoma State Univ.), Stillwater, Oklahoma 1925, Bureau of Plant Industry, U.S.D.A. 1934, president Oklahoma Academy of Science 1942. 
+**Abbreviated name**: *Feath.*
 
 #### Herbarium and types
 

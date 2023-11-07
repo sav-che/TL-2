@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/104137#page/63/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33355096) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linder, David Hunt (1899-1946), American mycologist; Ph. D. Harvard 1926; author on fungi imperfecti; at the Shaw School of Botany, Washington, Univ., and the Missouri botanical Garden, St. Louis 1926-1931; curator of the Farlow herbarium (1932-1946). (*Linder*).
+Linder, David Hunt (1899-1946), American mycologist; Ph. D. Harvard 1926; author on fungi imperfecti; at the Shaw School of Botany, Washington, Univ., and the Missouri botanical Garden, St. Louis 1926-1931; curator of the Farlow herbarium (1932-1946). 
+**Abbreviated name**: *Linder*
 
 #### Herbarium and types
 

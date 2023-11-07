@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103832#page/208/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33258674) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Giardelli de Bracco, María Luisa (?-1983), Argentinean botanist, began collecting plants in 1935, taught at the Instituto Superior del Profesorado Secundario and in the Colegio Nacional de Buenos Aires 1956-1966, specialist in Lemnaceae, died 14 Jan 1983. (*Giardelli*).
+Giardelli de Bracco, María Luisa (?-1983), Argentinean botanist, began collecting plants in 1935, taught at the Instituto Superior del Profesorado Secundario and in the Colegio Nacional de Buenos Aires 1956-1966, specialist in Lemnaceae, died 14 Jan 1983. 
+**Abbreviated name**: *Giardelli*
 
 #### Note
 

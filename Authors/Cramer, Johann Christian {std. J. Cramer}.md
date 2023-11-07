@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/item/103414#page/611/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33120694) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cramer, Johann Christian (*fl*. 1803), German physician and botanist at Bierstadt near Wiesbaden. (*J. Cramer*).
+Cramer, Johann Christian (*fl*. 1803), German physician and botanist at Bierstadt near Wiesbaden. 
+**Abbreviated name**: *J. Cramer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/item/103624#page/926/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33190383) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rostrup, \[Frederik Georg\] Emil (1831-1907), Danish botanist (phytopathologist, mycologist); teacher of science and mathematics at Skaarup (Funen) 1858-1883; "Docent" (1883) lecturer (1889) and professor (1902) Royal Veterinary and Agricultural College, Copenhagen until 1907; Dr. phil. h.c. Copenhagen 1893. (*Rostr.*).
+Rostrup, \[Frederik Georg\] Emil (1831-1907), Danish botanist (phytopathologist, mycologist); teacher of science and mathematics at Skaarup (Funen) 1858-1883; "Docent" (1883) lecturer (1889) and professor (1902) Royal Veterinary and Agricultural College, Copenhagen until 1907; Dr. phil. h.c. Copenhagen 1893. 
+**Abbreviated name**: *Rostr.*
 
 #### Herbarium and types
 

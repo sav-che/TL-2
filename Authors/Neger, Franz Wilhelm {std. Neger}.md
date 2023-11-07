@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/item/104137#page/731/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33355802) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neger, Franz Wilhelm (1868-1923), German forest botanist and mycologist; Dr. phil. München 1892; high school teacher at Weihenstephan 1892-1893; with the Chilean boundary commission 1893-1897; curator of the herbarium at München 1894-1902; professor of botany at the forestry college of Eisenach 1902-1905, id. at Tharandt nr. Dresden 1905-1920; director of the botanical institute and botanical garden of the Technisch Hochschule, Dresden 1920-1923. (*Neger*).
+Neger, Franz Wilhelm (1868-1923), German forest botanist and mycologist; Dr. phil. München 1892; high school teacher at Weihenstephan 1892-1893; with the Chilean boundary commission 1893-1897; curator of the herbarium at München 1894-1902; professor of botany at the forestry college of Eisenach 1902-1905, id. at Tharandt nr. Dresden 1905-1920; director of the botanical institute and botanical garden of the Technisch Hochschule, Dresden 1920-1923. 
+**Abbreviated name**: *Neger*
 
 #### Herbarium and types
 

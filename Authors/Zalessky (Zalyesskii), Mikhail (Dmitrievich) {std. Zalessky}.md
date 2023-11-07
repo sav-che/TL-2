@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/item/103250#page/574/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33066854) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zalessky \[Zalyesskii\], Mikhail \[Dmitrievich\] (1877-1946), Russian palaeobotanist, born in Orel; studied at St. Petersburg University (grad. 1900); taught at the High School of Mining at Dniepropetrovsk, from 1918-1943 in Oral, employed by the Geological Committee of the U.S.S.R.; from 1943-1945 prisoner in Berlin; to Moscow 1945, to Leningrad 1946; Dr. geol. 1934. (*Zalessky*).
+Zalessky \[Zalyesskii\], Mikhail \[Dmitrievich\] (1877-1946), Russian palaeobotanist, born in Orel; studied at St. Petersburg University (grad. 1900); taught at the High School of Mining at Dniepropetrovsk, from 1918-1943 in Oral, employed by the Geological Committee of the U.S.S.R.; from 1943-1945 prisoner in Berlin; to Moscow 1945, to Leningrad 1946; Dr. geol. 1934. 
+**Abbreviated name**: *Zalessky*
 
 #### Herbarium and types
 

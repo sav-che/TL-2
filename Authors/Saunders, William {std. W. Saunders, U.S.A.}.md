@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/item/104077#page/81/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33333206) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saunders, William (1822-1900), Scottish horticulturist; Kew gardener; to the U.S.A. 1848; partner of T. Meehan 1854; naturalized U.S. citizen 1857; botanist and superintendent of horticulture USDA, Washington 1862; planned Fairmount Park, Philadelphia; introduced the seedless (navel) orange into the United States. (*W. Saunders, U.S.A.*).
+Saunders, William (1822-1900), Scottish horticulturist; Kew gardener; to the U.S.A. 1848; partner of T. Meehan 1854; naturalized U.S. citizen 1857; botanist and superintendent of horticulture USDA, Washington 1862; planned Fairmount Park, Philadelphia; introduced the seedless (navel) orange into the United States. 
+**Abbreviated name**: *W. Saunders, U.S.A.*
 
 #### Herbarium and types
 

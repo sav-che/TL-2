@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103861#page/250/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33266547) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burgess, James John (1863-1934), Scottish botanist and headmaster, Dyke School, Morayshire. (*J.J. Burgess*).
+Burgess, James John (1863-1934), Scottish botanist and headmaster, Dyke School, Morayshire. 
+**Abbreviated name**: *J.J. Burgess*
 
 #### Herbarium and types
 

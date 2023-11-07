@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/item/103414#page/506/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33120589) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carpentier, Alfred {std. Carpentier} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Carpentier, Alfred, abbé (1878-1952), French clergyman and palaeobotanist. (*Carpentier*).
+Carpentier, Alfred, abbé (1878-1952), French clergyman and palaeobotanist. 
+**Abbreviated name**: *Carpentier*
 
 #### Collections
 

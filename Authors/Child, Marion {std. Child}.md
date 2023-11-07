@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103860#page/112/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33265779) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Child, Marion (fl. 1929-1932), American botanist, married H. Vincent Moss, AB Oberlin, MS Washington University 1929. (*Child*).
+Child, Marion (fl. 1929-1932), American botanist, married H. Vincent Moss, AB Oberlin, MS Washington University 1929. 
+**Abbreviated name**: *Child*
 
 #### Herbarium and types
 

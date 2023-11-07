@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/item/104077#page/929/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33334054) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stevens, Frank Lincoln (1871-1934), American mycologist and phytopathologist; B.S. Rutgers Coll. 1893; M.S. ib. 1897; Dr. phil. Univ. Chicago 1900; high school teacher in Columbus, Ohio 1895-1897; instructor in biology, subsequently professor of botany and plant pathology, North Carolina College of Agriculture 1901-1912; dean of agriculture, University of Puerto Rico 1912-1914; professor of plant pathology, Univ. of Illinois 1914-1934; Charles Fuller Baker memorial prof. Univ. Philippines 1930-1931; D.Sc. Lima 1924; L.L.D. Glasgow 1928. (*F. Stevens*).
+Stevens, Frank Lincoln (1871-1934), American mycologist and phytopathologist; B.S. Rutgers Coll. 1893; M.S. ib. 1897; Dr. phil. Univ. Chicago 1900; high school teacher in Columbus, Ohio 1895-1897; instructor in biology, subsequently professor of botany and plant pathology, North Carolina College of Agriculture 1901-1912; dean of agriculture, University of Puerto Rico 1912-1914; professor of plant pathology, Univ. of Illinois 1914-1934; Charles Fuller Baker memorial prof. Univ. Philippines 1930-1931; D.Sc. Lima 1924; L.L.D. Glasgow 1928. 
+**Abbreviated name**: *F. Stevens*
 
 #### Herbarium and types
 

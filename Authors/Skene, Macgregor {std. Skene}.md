@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/item/104077#page/639/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33333764) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skene, Macgregor (1889-1973), British (Scottish) botanist; Dr. phil. Aberdeen 1906; continued his studies at Berlin, Strassburg and Montpellier; lecturer in plant physiology, Univ. Aberdeen; senior lecturer on botany 1925-1934; director of the botanic garden 1934-1955 and Melville Wills professor of botany in the University of Bristol 1935-1955. (*Skene*).
+Skene, Macgregor (1889-1973), British (Scottish) botanist; Dr. phil. Aberdeen 1906; continued his studies at Berlin, Strassburg and Montpellier; lecturer in plant physiology, Univ. Aberdeen; senior lecturer on botany 1925-1934; director of the botanic garden 1934-1955 and Melville Wills professor of botany in the University of Bristol 1935-1955. 
+**Abbreviated name**: *Skene*
 
 #### Herbarium and types
 

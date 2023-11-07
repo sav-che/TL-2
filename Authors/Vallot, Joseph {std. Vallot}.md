@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/item/103683#page/662/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33212694) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vallot, Joseph (1854-1925), French botanist, ichthyologist, astronomer and geologist; founder and first director of the Observatoire du Mont-Blanc, Chamonix; also active in the Société botanique de France. (*Vallot*).
+Vallot, Joseph (1854-1925), French botanist, ichthyologist, astronomer and geologist; founder and first director of the Observatoire du Mont-Blanc, Chamonix; also active in the Société botanique de France. 
+**Abbreviated name**: *Vallot*
 
 #### Herbarium and types
 

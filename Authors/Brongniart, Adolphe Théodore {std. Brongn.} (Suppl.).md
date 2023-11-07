@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103861#page/126/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33266423) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brongniart, Adolphe Théodore {std. Brongn.}|first entry]] for this author
 
 ### Author
 
-\* Brongniart, Adolphe Théodore (1801-1876), French botanist and palaeobotanist, son of Alexandre Brongniart, trained by his father, studied medicine at the University of Paris, graduating 1816, idem botany 1819, dedicating himself to the general theory of plant sexuality and taxonomic botany, professor at the Muséum d'Histoire naturelle 1833, succeeding Desfontaines, member of the Académie des Sciences, Paris 1834, leading French plant taxonomist of the 19-th century. (*Brongn.*).
+\* Brongniart, Adolphe Théodore (1801-1876), French botanist and palaeobotanist, son of Alexandre Brongniart, trained by his father, studied medicine at the University of Paris, graduating 1816, idem botany 1819, dedicating himself to the general theory of plant sexuality and taxonomic botany, professor at the Muséum d'Histoire naturelle 1833, succeeding Desfontaines, member of the Académie des Sciences, Paris 1834, leading French plant taxonomist of the 19-th century. 
+**Abbreviated name**: *Brongn.*
 
 #### Herbarium and types
 

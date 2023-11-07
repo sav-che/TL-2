@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/103683#page/231/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33212263) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tepper, Johann Gottlieb Otto (1841-1923), German (Prussian/Posen)-born Australian entomologist, botanist and numismatist; to Adelaide, S. Australia 1847; worked as a shearer and teacher until 1883; natural history collector Adelaide Museum (S. Austral. Mus.) 1883; entomologist ib. 1888-1910; ultimately Government Entomologist. (*Tepper*).
+Tepper, Johann Gottlieb Otto (1841-1923), German (Prussian/Posen)-born Australian entomologist, botanist and numismatist; to Adelaide, S. Australia 1847; worked as a shearer and teacher until 1883; natural history collector Adelaide Museum (S. Austral. Mus.) 1883; entomologist ib. 1888-1910; ultimately Government Entomologist. 
+**Abbreviated name**: *Tepper*
 
 #### Herbarium and types
 

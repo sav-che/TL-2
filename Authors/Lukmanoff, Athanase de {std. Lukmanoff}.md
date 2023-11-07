@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/104137#page/208/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lukmanoff, Athanase de (*fl*. 1889), French botanist. (*Lukmanoff*).
+Lukmanoff, Athanase de (*fl*. 1889), French botanist. 
+**Abbreviated name**: *Lukmanoff*
 
 #### Herbarium and types
 

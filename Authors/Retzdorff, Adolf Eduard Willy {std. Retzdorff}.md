@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/103624#page/749/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Retzdorff, Adolf Eduard Willy (1856-1910), German (Prussian) amateur botanist; worked for Caspary in E. Prussia 1876 and with L. Wittmack at the Berlin agricultural museum 1876-1877; trained to be a civil servant 1878-1880; law court clerk 1880-1889; from 1889 provincial tax revenue officer ("Steuersekretär); from 1890 treasurer of the Bot. Ver. Brandenburg. (*Retzdorff*).
+Retzdorff, Adolf Eduard Willy (1856-1910), German (Prussian) amateur botanist; worked for Caspary in E. Prussia 1876 and with L. Wittmack at the Berlin agricultural museum 1876-1877; trained to be a civil servant 1878-1880; law court clerk 1880-1889; from 1889 provincial tax revenue officer ("Steuersekretär); from 1890 treasurer of the Bot. Ver. Brandenburg. 
+**Abbreviated name**: *Retzdorff*
 
 #### Herbarium and types
 

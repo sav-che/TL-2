@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/item/103253#page/541/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33068757) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keller, Ida Augusta (1866-1932), German-born American botanist and high school teacher; Dr. phil. Zürich 1890; lecturer at Bryn Mawr College, Philadelphia 1891-1892; from 1893at the Girl's High School ib. (*I. Keller*).
+Keller, Ida Augusta (1866-1932), German-born American botanist and high school teacher; Dr. phil. Zürich 1890; lecturer at Bryn Mawr College, Philadelphia 1891-1892; from 1893at the Girl's High School ib. 
+**Abbreviated name**: *I. Keller*
 
 #### Herbarium and types
 

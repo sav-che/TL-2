@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103859#page/20/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33265207) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beccari, Odoardo {std. Becc.}|first entry]] for this author
 
 ### Author
 
-\* Beccari, Odoardo (1843-1920), Italian botanist, botanical explorer and palm specialist; born in Florence, educated at the Collegio Fernando and the Lyceum Machiavelli in Lucca 1853-1861, studied natural sciences at the University of Pisa 1861, assistant ib. 1863, Dr. phil. Univ. Bologna 1 Jul 1864 with Antonio Bertoloni, worked at the British Museum and Kew Gardens 1865, travelled in S.E. Asia, especially in Borneo, 1865-1868; settled in Florence, collected in Ethiopia 1870, Malesian archipelago and New Guinea 1872-1876, from then on working mainly as a private scientist in Florence, collected in Ethiopia 1879-1880. (*Becc.*).
+\* Beccari, Odoardo (1843-1920), Italian botanist, botanical explorer and palm specialist; born in Florence, educated at the Collegio Fernando and the Lyceum Machiavelli in Lucca 1853-1861, studied natural sciences at the University of Pisa 1861, assistant ib. 1863, Dr. phil. Univ. Bologna 1 Jul 1864 with Antonio Bertoloni, worked at the British Museum and Kew Gardens 1865, travelled in S.E. Asia, especially in Borneo, 1865-1868; settled in Florence, collected in Ethiopia 1870, Malesian archipelago and New Guinea 1872-1876, from then on working mainly as a private scientist in Florence, collected in Ethiopia 1879-1880. 
+**Abbreviated name**: *Becc.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/item/103683#page/761/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33212793) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Virey, Jules-Joseph (1775-1846), French naturalist and pharmacist; military pharmacist 1794-1813; from 1804-1813 as acting chief pharmacist at the Val-de-Grâce hospital, Paris; M.D. Paris 1814; lecturer at the Athenée de Paris 1814-1815; sometime representative for the Haute-Marne in the Chambre des Députés. (*Virey*).
+Virey, Jules-Joseph (1775-1846), French naturalist and pharmacist; military pharmacist 1794-1813; from 1804-1813 as acting chief pharmacist at the Val-de-Grâce hospital, Paris; M.D. Paris 1814; lecturer at the Athenée de Paris 1814-1815; sometime representative for the Haute-Marne in the Chambre des Députés. 
+**Abbreviated name**: *Virey*
 
 #### Herbarium and types
 

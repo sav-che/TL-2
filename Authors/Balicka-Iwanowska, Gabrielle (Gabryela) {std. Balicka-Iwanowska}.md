@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103858#page/313/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265028) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Balicka-Iwanowska, Gabrielle \[Gabryela\] (1869-?), Polish botanist, studied at the University of Genève 1889-1893, worked at the laboratory of systematic botany with R. Chodat 1893-1895, Dr. ès. sci. 1893; married Sigismond Balicki (1858-1916), polish politician and socialist, emigrant in Genève 1891; worked with K. Goebel in München 1896-1898; living in Krakow from 1898, working on plant physiology until 1905; living in Warsaw from 1918; member of the first constituante of Poland 1922-1937. (*Balicka-Iwanowska*).
+Balicka-Iwanowska, Gabrielle \[Gabryela\] (1869-?), Polish botanist, studied at the University of Genève 1889-1893, worked at the laboratory of systematic botany with R. Chodat 1893-1895, Dr. ès. sci. 1893; married Sigismond Balicki (1858-1916), polish politician and socialist, emigrant in Genève 1891; worked with K. Goebel in München 1896-1898; living in Krakow from 1898, working on plant physiology until 1905; living in Warsaw from 1918; member of the first constituante of Poland 1922-1937. 
+**Abbreviated name**: *Balicka-Iwanowska*
 
 #### Herbarium and types
 

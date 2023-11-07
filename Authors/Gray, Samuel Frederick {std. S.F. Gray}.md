@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/item/103414#page/1042/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/page/33121125) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gray, Samuel Frederick (1766-1828), British naturalist, lecturer on botany and pharmacy. (*S. F. Gray*).
+Gray, Samuel Frederick (1766-1828), British naturalist, lecturer on botany and pharmacy. 
+**Abbreviated name**: *S. F. Gray*
 
 #### Herbarium and types
 

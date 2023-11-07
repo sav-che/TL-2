@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103858#page/185/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33264900) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Artari, Alexander Petrowitsch (1858-1919), Russian botanist (algologist), studied at Basel, Dr. phil. ib. 1892, worked with W.E.P. Pfeffer in Leipzig 1899, mainly in Moscow. (*Artari*).
+Artari, Alexander Petrowitsch (1858-1919), Russian botanist (algologist), studied at Basel, Dr. phil. ib. 1892, worked with W.E.P. Pfeffer in Leipzig 1899, mainly in Moscow. 
+**Abbreviated name**: *Artari*
 
 #### Herbarium and types
 

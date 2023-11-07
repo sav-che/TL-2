@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/103835#page/247/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33260225) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eastman, Helen (1863-?), American botanist, born 22 Mar 1863, South Newbury, Vermont. (*Eastman*).
+Eastman, Helen (1863-?), American botanist, born 22 Mar 1863, South Newbury, Vermont. 
+**Abbreviated name**: *Eastman*
 
 #### Herbarium and types
 

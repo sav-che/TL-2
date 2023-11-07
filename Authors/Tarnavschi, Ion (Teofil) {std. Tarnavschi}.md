@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103683#page/181/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33212213) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tarnavschi, Ion \[Teofil\] (1904-x), Roumanian botanist and palynologist; studied at Cernauti (Czernowitz) with M. Gusuleac 1924-1928; technician at the Cernauti Botanical Institute 1928-1939; studied at Grenoble 1932-1933 with R. de Litardière; Dr. phil. Cernauti 1935; assistant at the Botanical Institute, Bucarest 1939, subsequently as professor of botany; director of the botanical garden 1952-1975. (*Tarnavschi*).
+Tarnavschi, Ion \[Teofil\] (1904-x), Roumanian botanist and palynologist; studied at Cernauti (Czernowitz) with M. Gusuleac 1924-1928; technician at the Cernauti Botanical Institute 1928-1939; studied at Grenoble 1932-1933 with R. de Litardière; Dr. phil. Cernauti 1935; assistant at the Botanical Institute, Bucarest 1939, subsequently as professor of botany; director of the botanical garden 1952-1975. 
+**Abbreviated name**: *Tarnavschi*
 
 #### Herbarium and types
 

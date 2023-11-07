@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103835#page/360/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33260338) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Engler, Heinrich Gustav Adolf {std. Engl.}|first entry]] for this author
 
 ### Author
 
-\* Engler, Heinrich Gustav Adolf (1844-1930), German botanist, born 25 Mar 1844 at Sagan (Silesia), moved to Breslau, visited schools in that city and studied at the University of Breslau, became teacher at the Breslauer Magdalenen-Gymnasium, was appointed custos of the botanical collection in Munich 1871, was professor in botany at the University of Kiel from 1878, from 1884 at the University of Breslau, was called to Berlin in 1889 and stayed there until his retirement in 1921, leader of the Berlin school of plant taxonomy and plant geography, died 10 Oct 1930. (*Engl.*).
+\* Engler, Heinrich Gustav Adolf (1844-1930), German botanist, born 25 Mar 1844 at Sagan (Silesia), moved to Breslau, visited schools in that city and studied at the University of Breslau, became teacher at the Breslauer Magdalenen-Gymnasium, was appointed custos of the botanical collection in Munich 1871, was professor in botany at the University of Kiel from 1878, from 1884 at the University of Breslau, was called to Berlin in 1889 and stayed there until his retirement in 1921, leader of the Berlin school of plant taxonomy and plant geography, died 10 Oct 1930. 
+**Abbreviated name**: *Engl.*
 
 #### Herbarium and types
 

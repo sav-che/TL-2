@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/103834#page/255/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259737) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fitzpatrick, Hugh Maurice (1902-1994), Irish dendrologist, forester and civil servant, born 23 Sep 1902 in Clontarf, Dublin, trained as a forester, subsequently studied at the Royal College of Science, Dublin (under Prof. Augustine Henry, 1857-1930), B.Agr.Sc. 1927, National Univ. of Ireland (Univ. College), Dublin, joined the Irish Forestry Service in early 1930s, rose to rank of Inspector, retired in 1943, died 30 Apr 1994. (*H.M. Fitzp.*).
+Fitzpatrick, Hugh Maurice (1902-1994), Irish dendrologist, forester and civil servant, born 23 Sep 1902 in Clontarf, Dublin, trained as a forester, subsequently studied at the Royal College of Science, Dublin (under Prof. Augustine Henry, 1857-1930), B.Agr.Sc. 1927, National Univ. of Ireland (Univ. College), Dublin, joined the Irish Forestry Service in early 1930s, rose to rank of Inspector, retired in 1943, died 30 Apr 1994. 
+**Abbreviated name**: *H.M. Fitzp.*
 
 #### Herbarium and types
 

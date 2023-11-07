@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/104077#page/289/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33333414) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, Joseph \[Josef\] (*fl*. 1890), German (Bavarian) botanist and high school teacher at Traunstein, later at Passau. (*Jos. Schneid. Traunst.*).
+Schneider, Joseph \[Josef\] (*fl*. 1890), German (Bavarian) botanist and high school teacher at Traunstein, later at Passau. 
+**Abbreviated name**: *Jos. Schneid. Traunst.*
 
 #### Herbarium and types
 

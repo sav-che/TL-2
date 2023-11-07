@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/item/104077#page/71/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sarnthein, Ludwig (Graf) *von* (1861-1914), Transsilvania-born Austrian botanist; government administrator in Brixen, Triest (1892), Innsbruck (1905) and Ampezzo (S.Tirol) (1906), ultimately as "Bezirkshauptman" (district governor). (*Sarnth.*).
+Sarnthein, Ludwig (Graf) *von* (1861-1914), Transsilvania-born Austrian botanist; government administrator in Brixen, Triest (1892), Innsbruck (1905) and Ampezzo (S.Tirol) (1906), ultimately as "Bezirkshauptman" (district governor). 
+**Abbreviated name**: *Sarnth.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/103624#page/234/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33189691) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pfeiffer, Johan Philip (1888-1947), Dutch chemical engineer, botanist and forester; Dr. phil. 1917; wood technologist at Semarang, Java 1912-1920; manager of an oil factory at Kediri, Java, 1920-1922; lecturer and professor at Delft technical College 1922-1929; from 1929 with the Batavian Oil Company at Amsterdam. (*J. Pfeiff.*).
+Pfeiffer, Johan Philip (1888-1947), Dutch chemical engineer, botanist and forester; Dr. phil. 1917; wood technologist at Semarang, Java 1912-1920; manager of an oil factory at Kediri, Java, 1920-1922; lecturer and professor at Delft technical College 1922-1929; from 1929 with the Batavian Oil Company at Amsterdam. 
+**Abbreviated name**: *J. Pfeiff.*
 
 #### Herbarium and types
 

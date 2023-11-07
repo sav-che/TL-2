@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/item/103414#page/541/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33120624) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chevalier, Auguste Jean Baptiste {std. A. Chev.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Chevalier, Auguste Jean Baptiste (1873-1956), French botanist, explorer and bio-historian. (*A. Chev.*).
+Chevalier, Auguste Jean Baptiste (1873-1956), French botanist, explorer and bio-historian. 
+**Abbreviated name**: *A. Chev.*
 
 #### Herbarium and types
 

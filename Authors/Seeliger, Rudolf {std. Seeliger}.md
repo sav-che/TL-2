@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/item/104077#page/487/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33333612) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seeliger, Rudolf (1889-1943), German (Posen-born) botanist, phytopathologist and geneticist; Dr. phil. Göttingen 1911; assistant at the "Biologische Anstalt für Land- und Forstwirtschaft" Berlin-Dahlem 1911-1920 (on active service 1914-1918) at the Naumburg/Saale branch office of the "Biologische Anstalt" 1920-1924; from 1924-1940 director of the laboratory for wine- and apple culture; again on active service 1940; fell at Stalingrad 1943. (*Seeliger*).
+Seeliger, Rudolf (1889-1943), German (Posen-born) botanist, phytopathologist and geneticist; Dr. phil. Göttingen 1911; assistant at the "Biologische Anstalt für Land- und Forstwirtschaft" Berlin-Dahlem 1911-1920 (on active service 1914-1918) at the Naumburg/Saale branch office of the "Biologische Anstalt" 1920-1924; from 1924-1940 director of the laboratory for wine- and apple culture; again on active service 1940; fell at Stalingrad 1943. 
+**Abbreviated name**: *Seeliger*
 
 #### Herbarium and types
 

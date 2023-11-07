@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/item/103414#page/887/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33120970) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fischer von Waldheim, Alexander A. {std. A.A. Fisch. Waldh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fischer von Waldheim, Alexander Alexandrovitch (1839-1920), Russian botanist, grandson of G. Fischer von Waldheim. (*A. Fisch. v. Waldh.*).
+Fischer von Waldheim, Alexander Alexandrovitch (1839-1920), Russian botanist, grandson of G. Fischer von Waldheim. 
+**Abbreviated name**: *A. Fisch. v. Waldh.*
 
 #### Herbarium and types
 

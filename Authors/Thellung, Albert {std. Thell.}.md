@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/item/103683#page/252/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33212284) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thellumg, Albert (1881-1928), Swiss botanist; assistant at the Botanical Museum of the University of Zürich 1904-1905; Dr. phil. ib. 1905; at Montpellier with Ch. Flahault in 1904 and 1906; habil. Univ. Zürich 1909; again assistant in Zürich 1906-1928, from 1921 with the professor's title. (*Thell.*).
+Thellumg, Albert (1881-1928), Swiss botanist; assistant at the Botanical Museum of the University of Zürich 1904-1905; Dr. phil. ib. 1905; at Montpellier with Ch. Flahault in 1904 and 1906; habil. Univ. Zürich 1909; again assistant in Zürich 1906-1928, from 1921 with the professor's title. 
+**Abbreviated name**: *Thell.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/item/103624#page/792/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33190249) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richter, Oswald (1878-1955), Praha-born Austrian botanist; studied at the Deutsche Universität of Praha; habil. ib. 1907; habil. Techn. Hochschule ib. 1909; assistant at the institute for plant physiology of the Deutsche Univ. 1907-1910; id. at the Universität Wien 1910; Adjunkt ib. 1911; extraordinary prof. of botany Wien 1912-1920; ordinary prof. of botany at the Deutsche Techn. Hochschule, Brünn (Brno) 1920. (*O. Richt.*).
+Richter, Oswald (1878-1955), Praha-born Austrian botanist; studied at the Deutsche Universität of Praha; habil. ib. 1907; habil. Techn. Hochschule ib. 1909; assistant at the institute for plant physiology of the Deutsche Univ. 1907-1910; id. at the Universität Wien 1910; Adjunkt ib. 1911; extraordinary prof. of botany Wien 1912-1920; ordinary prof. of botany at the Deutsche Techn. Hochschule, Brünn (Brno) 1920. 
+**Abbreviated name**: *O. Richt.*
 
 #### Herbarium and types
 

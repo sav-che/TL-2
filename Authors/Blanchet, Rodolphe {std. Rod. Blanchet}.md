@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103859#page/212/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33265399) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blanchet, Rodolphe (1807-1860), Swiss botanist, from 1845 curator of the "Musée botanique" at Lausanne. (*Rod. Blanchet*).
+Blanchet, Rodolphe (1807-1860), Swiss botanist, from 1845 curator of the "Musée botanique" at Lausanne. 
+**Abbreviated name**: *Rod. Blanchet*
 
 #### Herbarium and types
 

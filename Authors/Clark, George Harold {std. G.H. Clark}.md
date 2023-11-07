@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103860#page/190/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33265857) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clark, George Harold (1871-?), Canadian botanist and agriculturist, born at Brantford, Ontario. (*G.H. Clark*).
+Clark, George Harold (1871-?), Canadian botanist and agriculturist, born at Brantford, Ontario. 
+**Abbreviated name**: *G.H. Clark*
 
 #### Herbarium and types
 

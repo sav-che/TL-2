@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103414#page/447/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33120530) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buek, Johannes Nicolaus \[II\] (1779-1856), German pharmacist and horticulturist, uncle of Heinrich Wilhelm Buek (q.v.), "kommissarisch Medizinalassessor and Revisor der Apotheken des Frankfurter Regierungsbezirks". (*==Name in the standard form is not specified==.*).
+Buek, Johannes Nicolaus \[II\] (1779-1856), German pharmacist and horticulturist, uncle of Heinrich Wilhelm Buek (q.v.), "kommissarisch Medizinalassessor and Revisor der Apotheken des Frankfurter Regierungsbezirks". 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Herbarium and types
 

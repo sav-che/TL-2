@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103835#page/75/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33260053) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doubleday, Neltje (De Graff) ("Neltje Blanchan") (1865-1918), American botanist, born 23 Oct 1865, Chicago, Ill., married 9 Jun 1886 (Frank Nelson Doubleday), died 21 Feb 1918, Canton, China, studied N. Amer. Indians and their handicrafts and the relation of wild flowers to insects. (*N. Doubleday*).
+Doubleday, Neltje (De Graff) ("Neltje Blanchan") (1865-1918), American botanist, born 23 Oct 1865, Chicago, Ill., married 9 Jun 1886 (Frank Nelson Doubleday), died 21 Feb 1918, Canton, China, studied N. Amer. Indians and their handicrafts and the relation of wild flowers to insects. 
+**Abbreviated name**: *N. Doubleday*
 
 #### Herbarium and types
 

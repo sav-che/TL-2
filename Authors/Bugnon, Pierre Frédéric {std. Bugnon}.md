@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103861#page/222/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33266519) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bugnon, Pierre Frédéric (1886-1957), French botanist, born at Grand-Charmont (Doubs) 14 Jan 1886, 1901-1904 at the École normale de Besançon, id. at Nancy and at the Faculté des Sciences of Besançon 1907, id. professor in 1909, with O. Lignier at Caen from 1910-1928, Dr. phil. Paris 1921, later until 1929 as professor of botany at Dijon, died at Dijon 11 Mai 1957. (*Bugnon*).
+Bugnon, Pierre Frédéric (1886-1957), French botanist, born at Grand-Charmont (Doubs) 14 Jan 1886, 1901-1904 at the École normale de Besançon, id. at Nancy and at the Faculté des Sciences of Besançon 1907, id. professor in 1909, with O. Lignier at Caen from 1910-1928, Dr. phil. Paris 1921, later until 1929 as professor of botany at Dijon, died at Dijon 11 Mai 1957. 
+**Abbreviated name**: *Bugnon*
 
 #### Herbarium and types
 

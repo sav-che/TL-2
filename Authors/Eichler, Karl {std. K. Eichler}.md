@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103835#page/293/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33260271) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichler, Karl (fl. 1906), Austrian botanist, working in Vienna. (*K. Eichler*).
+Eichler, Karl (fl. 1906), Austrian botanist, working in Vienna. 
+**Abbreviated name**: *K. Eichler*
 
 #### Herbarium and types
 

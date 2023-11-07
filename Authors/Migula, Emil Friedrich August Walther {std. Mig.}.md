@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/104137#page/490/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33355561) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Migula, Emil Friedrich August Walther (1863-1938), German botanist; Dr. phil. Breslau 1888; lecturer, from 1893 professor of botany at the Technical University of Karlsruhe (1888-1904) and at the Forestry School of Eisenach (1904-1915). (*Mig.*).
+Migula, Emil Friedrich August Walther (1863-1938), German botanist; Dr. phil. Breslau 1888; lecturer, from 1893 professor of botany at the Technical University of Karlsruhe (1888-1904) and at the Forestry School of Eisenach (1904-1915). 
+**Abbreviated name**: *Mig.*
 
 #### Herbarium and types
 

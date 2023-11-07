@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 642](https://www.biodiversitylibrary.org/item/103683#page/652/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 642](https://www.biodiversitylibrary.org/page/33212684) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaizey, John Reynolds (1862-1889), British bryologist. (*Vaiz.*).
+Vaizey, John Reynolds (1862-1889), British bryologist. 
+**Abbreviated name**: *Vaiz.*
 
 #### Herbarium and types
 

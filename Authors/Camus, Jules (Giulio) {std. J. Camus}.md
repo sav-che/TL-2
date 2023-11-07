@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103861#page/363/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33266660) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Camus, Jules \[Giulio\] (1847-1917), French biologist, born Magny-en-Vexin (Seine-et-Oise), moved to Italy 1873, director of the agricultural station in Modena 1881, moved as teacher (1884), later professor (1889) in french language and literature to the royal military school in Torino, died 25 Jan 1917. (*J. Camus*).
+Camus, Jules \[Giulio\] (1847-1917), French biologist, born Magny-en-Vexin (Seine-et-Oise), moved to Italy 1873, director of the agricultural station in Modena 1881, moved as teacher (1884), later professor (1889) in french language and literature to the royal military school in Torino, died 25 Jan 1917. 
+**Abbreviated name**: *J. Camus*
 
 #### Herbarium and types
 

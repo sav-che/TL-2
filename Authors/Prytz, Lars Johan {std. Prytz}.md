@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103624#page/435/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33189892) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prytz, Lars Johan (1789-1823), Finnish botanist. (*Prytz*).
+Prytz, Lars Johan (1789-1823), Finnish botanist. 
+**Abbreviated name**: *Prytz*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/item/103414#page/894/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33120977) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flinders, Matthew (1774-1814), British explorer. (*Flinders*).
+Flinders, Matthew (1774-1814), British explorer. 
+**Abbreviated name**: *Flinders*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/item/103624#page/728/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33190185) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Remy, Esprit Alexandre (*fl*. 1858), French botanist and physician at Mareuil-le-Port (Marne). (*Remy*).
+Remy, Esprit Alexandre (*fl*. 1858), French botanist and physician at Mareuil-le-Port (Marne). 
+**Abbreviated name**: *Remy*
 
 #### Herbarium and types
 

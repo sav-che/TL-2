@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/item/103624#page/584/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33190041) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramée, Stanislas Henri de la (1747-1803), fictitious French naturalist, said to have studied in Paris under Buffon, and to have travelled in the West Indies and Central and South America. (*Ramée*).
+Ramée, Stanislas Henri de la (1747-1803), fictitious French naturalist, said to have studied in Paris under Buffon, and to have travelled in the West Indies and Central and South America. 
+**Abbreviated name**: *Ramée*
 
 #### Note
 

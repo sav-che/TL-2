@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/103683#page/284/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33212316) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas, Hugh Hamshaw (1885-1962), British botanist; BA Cambridge 1907; curator of the Botany Museum, Cambridge 1909-1923; lecturer 1923-1937; reader in plant morphology 1937-1950. (*H.H. Thomas*).
+Thomas, Hugh Hamshaw (1885-1962), British botanist; BA Cambridge 1907; curator of the Botany Museum, Cambridge 1909-1923; lecturer 1923-1937; reader in plant morphology 1937-1950. 
+**Abbreviated name**: *H.H. Thomas*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/item/103414#page/618/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33120701) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crozals, André de {std. Croz.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Crozals, André de (1861-1932), French lichenologist, mycologist and wine-merchant. (*Croz.*).
+Crozals, André de (1861-1932), French lichenologist, mycologist and wine-merchant. 
+**Abbreviated name**: *Croz.*
 
 #### Herbarium and types
 

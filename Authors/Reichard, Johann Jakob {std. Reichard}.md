@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/item/103624#page/671/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33190128) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reichard, Johann Jakob (1743-1782), German (Frankfurt a.M.) botanist and physician; studied at Cöttingen 1764-1768; Dr. med. ib. 1768; practicing physician Frankfurt a.M. 1768-1773; "Stiftungsarzt" of the Senckenberg Foundation, supervisor of its botanical garden and library, 1773-1782; from 1779 also practicing at the civilian hospital. (*Reichard*).
+Reichard, Johann Jakob (1743-1782), German (Frankfurt a.M.) botanist and physician; studied at Cöttingen 1764-1768; Dr. med. ib. 1768; practicing physician Frankfurt a.M. 1768-1773; "Stiftungsarzt" of the Senckenberg Foundation, supervisor of its botanical garden and library, 1773-1782; from 1779 also practicing at the civilian hospital. 
+**Abbreviated name**: *Reichard*
 
 #### Herbarium and types
 

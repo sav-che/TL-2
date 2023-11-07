@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103859#page/86/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265273) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bensemann, Hermann {std. Bensemann}|first entry]] for this author
 
 ### Author
 
-\* Bensemann, Hermann (1858-?), German teacher and botanist born at Köslin (Pommern), active at the Herzogliches Ludwigs-Gymnasium in Cöthen (Pommern) around 1896-1908. (*Bensemann*).
+\* Bensemann, Hermann (1858-?), German teacher and botanist born at Köslin (Pommern), active at the Herzogliches Ludwigs-Gymnasium in Cöthen (Pommern) around 1896-1908. 
+**Abbreviated name**: *Bensemann*
 
 #### Herbarium and types
 

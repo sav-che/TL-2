@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103253#page/189/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33068405) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henslow, John Stevens (1796-1861), British clergyman, botanist and mineralogist at Cambridge (1822, 1825); vicar of Cholsey, Berks. (1832), then rector of Hitcham (1837). (*J. Hensl.*).
+Henslow, John Stevens (1796-1861), British clergyman, botanist and mineralogist at Cambridge (1822, 1825); vicar of Cholsey, Berks. (1832), then rector of Hitcham (1837). 
+**Abbreviated name**: *J. Hensl.*
 
 #### Herbarium and types
 

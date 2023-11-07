@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/104137#page/280/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33355351) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malherbe, Alfred (1804-1866), French naturalist; studied law at Paris; "juge auditeur" at Sedan 1827; substitute judge at Briey 1830; from 1832 judge at Metz. (*Malherbe*).
+Malherbe, Alfred (1804-1866), French naturalist; studied law at Paris; "juge auditeur" at Sedan 1827; substitute judge at Briey 1830; from 1832 judge at Metz. 
+**Abbreviated name**: *Malherbe*
 
 #### Herbarium and types
 

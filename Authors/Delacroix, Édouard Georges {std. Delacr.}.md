@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103833#page/180/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33259214) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delacroix, Édouard Georges (1858-1907), French botanist and pathologist (vegetable), born 24 Jan 1858, Montrouge, Seine, died 1 Nov 1907, Paris, 1886 with the Laboratoire de Pathologie végétale de l'Institut National agronomique (Paris), 1888 Chef des Travaux Pathologie végétale, 1895 maître de conférences de botanique descriptive, 1898 maître de conférences de Pathologie végétale, 1899 Directeur de la Station de Pathologie végétale. (*Delacr.*).
+Delacroix, Édouard Georges (1858-1907), French botanist and pathologist (vegetable), born 24 Jan 1858, Montrouge, Seine, died 1 Nov 1907, Paris, 1886 with the Laboratoire de Pathologie végétale de l'Institut National agronomique (Paris), 1888 Chef des Travaux Pathologie végétale, 1895 maître de conférences de botanique descriptive, 1898 maître de conférences de Pathologie végétale, 1899 Directeur de la Station de Pathologie végétale. 
+**Abbreviated name**: *Delacr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1003](https://www.biodiversitylibrary.org/item/103624#page/1017/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1003](https://www.biodiversitylibrary.org/page/33190474) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Russell, John sixth duke of Bedford (1766-1839), British nobleman and maecenas residing at Woburn Abbey, Bedfordshire; succeeded to the dukedom 1802; lord-lieutenant of Ireland 1806-1807; patron of George Gardner (1812-1849); published the Woburn Abbey series of botanical works. (*J. Russell*).
+Russell, John sixth duke of Bedford (1766-1839), British nobleman and maecenas residing at Woburn Abbey, Bedfordshire; succeeded to the dukedom 1802; lord-lieutenant of Ireland 1806-1807; patron of George Gardner (1812-1849); published the Woburn Abbey series of botanical works. 
+**Abbreviated name**: *J. Russell*
 
 #### Herbarium and types
 

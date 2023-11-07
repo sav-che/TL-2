@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103683#page/280/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33212312) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomann, Anton (*fl*. 1859), Austrian high school teacher and botanist at the Gymnasium of Krems. (*Thomann*).
+Thomann, Anton (*fl*. 1859), Austrian high school teacher and botanist at the Gymnasium of Krems. 
+**Abbreviated name**: *Thomann*
 
 #### Herbarium and types
 

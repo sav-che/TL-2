@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/103834#page/295/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33259777) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Flowers, Seville {std. Flow.}|first entry]] for this author
 
 ### Author
 
-\* Flowers, Seville \[b. Bradnum, 'Bill' to his friends, 'Doc' to his students\] (1900-1968), American botanist (bryologist and phycologist), born 14 Jan 1900 in Salt Lake City, Utah, spent boyhood in Los Angeles, studied at the Univ. of Utah, Salt Lake City, A.B. 1925 and M.A. 1926 Brigham Young Univ., Provo, Utah, Ph.D. 1932 Univ. of Chicago, high school teacher, Price, Utah, then instructor and assoc. prof. 1936, and finally full prof. of Botany 1941-1968, Univ. of Utah, president, Amer. Bryological Society 1966-1967, died 29 Apr 1968 in Salt Lake City. (*Flow.*).
+\* Flowers, Seville \[b. Bradnum, 'Bill' to his friends, 'Doc' to his students\] (1900-1968), American botanist (bryologist and phycologist), born 14 Jan 1900 in Salt Lake City, Utah, spent boyhood in Los Angeles, studied at the Univ. of Utah, Salt Lake City, A.B. 1925 and M.A. 1926 Brigham Young Univ., Provo, Utah, Ph.D. 1932 Univ. of Chicago, high school teacher, Price, Utah, then instructor and assoc. prof. 1936, and finally full prof. of Botany 1941-1968, Univ. of Utah, president, Amer. Bryological Society 1966-1967, died 29 Apr 1968 in Salt Lake City. 
+**Abbreviated name**: *Flow.*
 
 #### Herbarium and types
 

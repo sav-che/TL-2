@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/item/103683#page/788/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33212820) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Volkart, Albert (1873-1951), Swiss botanist; Dr. phil. Zürich 1899; assistant Federal Seed Control Station Zürich 1894-1899; assistant, later adjunct and head of the Federal Agricultural Research Institute Zürich-Oerlikon (Institute for seed control and agricultural chemistry) 1898-1929; lecturer 1924-1925, professor of applied botany at the Technical University, Zürich 1924-1943. (*Volkart*).
+Volkart, Albert (1873-1951), Swiss botanist; Dr. phil. Zürich 1899; assistant Federal Seed Control Station Zürich 1894-1899; assistant, later adjunct and head of the Federal Agricultural Research Institute Zürich-Oerlikon (Institute for seed control and agricultural chemistry) 1898-1929; lecturer 1924-1925, professor of applied botany at the Technical University, Zürich 1924-1943. 
+**Abbreviated name**: *Volkart*
 
 #### Herbarium and types
 

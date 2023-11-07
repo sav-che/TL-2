@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103858#page/157/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33264872) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Archbold, Andrea B. (1829-1881), American born physician and botanist, studied medicine and natural sciences at Paris, later some time at Porto Rico, ultimately in Italy (Florence). (*Archbold*).
+Archbold, Andrea B. (1829-1881), American born physician and botanist, studied medicine and natural sciences at Paris, later some time at Porto Rico, ultimately in Italy (Florence). 
+**Abbreviated name**: *Archbold*
 
 #### Herbarium and types
 

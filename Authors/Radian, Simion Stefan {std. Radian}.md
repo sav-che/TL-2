@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/item/103624#page/554/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33190011) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Radian, Simion Stefan (1871-1958), Rumanian botanist at the University of Bucarest; director of the Bucarest University Botanical Garden 1937. (*Radian*).
+Radian, Simion Stefan (1871-1958), Rumanian botanist at the University of Bucarest; director of the Bucarest University Botanical Garden 1937. 
+**Abbreviated name**: *Radian*
 
 #### Herbarium and types
 

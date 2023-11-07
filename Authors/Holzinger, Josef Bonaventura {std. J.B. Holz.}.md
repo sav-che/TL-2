@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/103253#page/290/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33068506) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holzinger, Josef Bonaventura (1835-1912), Austrian lawyer and lichenologist; student of witchcraft and sorcery. (*J. B. Holz.*).
+Holzinger, Josef Bonaventura (1835-1912), Austrian lawyer and lichenologist; student of witchcraft and sorcery. 
+**Abbreviated name**: *J. B. Holz.*
 
 #### Herbarium and types
 

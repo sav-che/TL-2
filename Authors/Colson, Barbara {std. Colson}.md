@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/103860#page/291/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33265958) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Colson, Barbara (fl. 1925-1937), British botanist, studied at the University of London, B.Sc. 1927, Ph.D. 1934, ca. 1934 assistant lecturer in botany, the University of Manchester, ca. 1938 with the Barker cryptogamic research laboratory, University of Manchester. (*Colson*).
+Colson, Barbara (fl. 1925-1937), British botanist, studied at the University of London, B.Sc. 1927, Ph.D. 1934, ca. 1934 assistant lecturer in botany, the University of Manchester, ca. 1938 with the Barker cryptogamic research laboratory, University of Manchester. 
+**Abbreviated name**: *Colson*
 
 #### Herbarium and types
 

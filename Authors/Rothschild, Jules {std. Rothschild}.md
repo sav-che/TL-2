@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/item/103624#page/944/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rothschild, Jules (1838-?), French publisher and horticulturist. (*Rothschild*).
+Rothschild, Jules (1838-?), French publisher and horticulturist. 
+**Abbreviated name**: *Rothschild*
 
 #### Herbarium and types
 

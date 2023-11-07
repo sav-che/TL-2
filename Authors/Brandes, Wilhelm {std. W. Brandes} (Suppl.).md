@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103861#page/22/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33266319) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandes, Wilhelm {std. W. Brandes}|first entry]] for this author
 
 ### Author
 
-\* Brandes, Wilhelm (1834-1916), German (born in Hildesheim) pharmacist and botanist, educated at the Gymnasium Andreanum in Hildesheim, sometime with his father in the Löwenapotheke, studied at the University of Göttingen, state pharmacist examination in Hannover 1858, further studies at the University of Heidelberg, assumed the direction of his father's pharmacy 1860, "Revisor" of the pharmacies in the Hildesheim area 1867, assuming as well the Hannover Andreae & Co. pharmacy until 1892, Medizinal-Rat 1900, Dr. h.c. Göttingen 1914. (*W. Brandes*).
+\* Brandes, Wilhelm (1834-1916), German (born in Hildesheim) pharmacist and botanist, educated at the Gymnasium Andreanum in Hildesheim, sometime with his father in the Löwenapotheke, studied at the University of Göttingen, state pharmacist examination in Hannover 1858, further studies at the University of Heidelberg, assumed the direction of his father's pharmacy 1860, "Revisor" of the pharmacies in the Hildesheim area 1867, assuming as well the Hannover Andreae & Co. pharmacy until 1892, Medizinal-Rat 1900, Dr. h.c. Göttingen 1914. 
+**Abbreviated name**: *W. Brandes*
 
 #### Herbarium and types
 

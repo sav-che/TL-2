@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103250#page/242/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33066522) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wendland, Johann Christoph (1755-1828), German (Pfalz) botanist and gardener; studied horticulture at Karlsruhe 1772-1776, Kassel 1776-1778 and Herrenhausen 1778-1780; gardener at Herrenhausen 1780-1795; chief gardener ib. 1795-1817; garden inspector 1817-1828. (*J.C. Wendl.*).
+Wendland, Johann Christoph (1755-1828), German (Pfalz) botanist and gardener; studied horticulture at Karlsruhe 1772-1776, Kassel 1776-1778 and Herrenhausen 1778-1780; gardener at Herrenhausen 1780-1795; chief gardener ib. 1795-1817; garden inspector 1817-1828. 
+**Abbreviated name**: *J.C. Wendl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/item/103253#page/568/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33068784) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kimball, James Putnam (1836-1913), American palaeobotanist, consulting geologist in New York City. (*Kimball*).
+Kimball, James Putnam (1836-1913), American palaeobotanist, consulting geologist in New York City. 
+**Abbreviated name**: *Kimball*
 
 #### Herbarium and types
 

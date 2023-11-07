@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/item/103683#page/363/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33212395) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tilesius von Tilenau, Wilhelm Gottlieb (1769-1857), German (Thuringian) naturalist and traveller, with J.C. von Hoffmannsegg in Portugal 1796; lecturer Univ. Leipzig 1801; with A.J. v. Krusenstern on a voyage of circumnavigation as surgeon and naturalist 1803-1808; from 1808 practicing medicine but also active as a private scientist in Leipzig, Göttingen, Mühlhausen and Dresden, ultimately private teacher at Mühlhausen. (*Tilesius*).
+Tilesius von Tilenau, Wilhelm Gottlieb (1769-1857), German (Thuringian) naturalist and traveller, with J.C. von Hoffmannsegg in Portugal 1796; lecturer Univ. Leipzig 1801; with A.J. v. Krusenstern on a voyage of circumnavigation as surgeon and naturalist 1803-1808; from 1808 practicing medicine but also active as a private scientist in Leipzig, Göttingen, Mühlhausen and Dresden, ultimately private teacher at Mühlhausen. 
+**Abbreviated name**: *Tilesius*
 
 #### Herbarium and types
 

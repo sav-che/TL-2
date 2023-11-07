@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/item/103253#page/696/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krebs, F. L. (*fl*. 1827-1835), German forestry botanist; "herzoglich Braunschweiger Forstschreiber." (*F. Krebs*).
+Krebs, F. L. (*fl*. 1827-1835), German forestry botanist; "herzoglich Braunschweiger Forstschreiber." 
+**Abbreviated name**: *F. Krebs*
 
 #### Herbarium and types
 

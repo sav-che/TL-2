@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103861#page/427/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33266724) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carlier, Leon (1821-1901), Belgian botanist at Brussels. (*Carlier*).
+Carlier, Leon (1821-1901), Belgian botanist at Brussels. 
+**Abbreviated name**: *Carlier*
 
 #### Herbarium and types
 

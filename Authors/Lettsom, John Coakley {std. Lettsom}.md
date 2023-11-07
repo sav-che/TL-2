@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/item/103253#page/885/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lettsom, John Coakley (1744-1815), British botanist; had a botanic garden at Camberwell; Dr. med. Leiden 1769. (*Lettsom*).
+Lettsom, John Coakley (1744-1815), British botanist; had a botanic garden at Camberwell; Dr. med. Leiden 1769. 
+**Abbreviated name**: *Lettsom*
 
 #### Herbarium and types
 

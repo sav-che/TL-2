@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103860#page/374/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33266041) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cornevin, Charles Ernest (1846-1897), French veterinary surgeon, also interested in botany and zoology, born at Is-en-Bassigny, educated at the small "Séminaire de Langres", entered the École Vétérinaire at Lyon on 7 Oct 1864, promoted 9 October 1868, settled in Montigny-le-Roi as veterinarian, Chef de Service at the École vétérinaire of Lyon, professor ib. 1876, died of typhoid at Lyon. (*Cornevin*).
+Cornevin, Charles Ernest (1846-1897), French veterinary surgeon, also interested in botany and zoology, born at Is-en-Bassigny, educated at the small "Séminaire de Langres", entered the École Vétérinaire at Lyon on 7 Oct 1864, promoted 9 October 1868, settled in Montigny-le-Roi as veterinarian, Chef de Service at the École vétérinaire of Lyon, professor ib. 1876, died of typhoid at Lyon. 
+**Abbreviated name**: *Cornevin*
 
 #### Herbarium and types
 

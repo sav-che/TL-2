@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103861#page/218/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33266515) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bürkle, Richard (1875-?), German botanist, born 3 Feb 1875 at Weinsberg, at the Gymnasium at Heilbronn a. Neckar, studied pharmacy at the Kgl. Technische Hochschule, Stuttgart, also three "Semester" at the Kgl. Universität Erlangen with H. Solereder, Dr. phil. Erlangen 1901. (*Bürkle*).
+Bürkle, Richard (1875-?), German botanist, born 3 Feb 1875 at Weinsberg, at the Gymnasium at Heilbronn a. Neckar, studied pharmacy at the Kgl. Technische Hochschule, Stuttgart, also three "Semester" at the Kgl. Universität Erlangen with H. Solereder, Dr. phil. Erlangen 1901. 
+**Abbreviated name**: *Bürkle*
 
 #### Herbarium and types
 

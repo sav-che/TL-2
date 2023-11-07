@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/103834#page/225/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33259707) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fischer, Cecil Ernest Claude {std. C.E.C. Fischer}|first entry]] for this author
 
 ### Author
 
-\* Fischer, Cecil Ernest Claude (1874-1950), British botanist, born 9 Jul 1874 in Bombay (now Mumbai), India, studied forestry at Cooper's Hill College nr. London 1892-1895, forest botanist in Madras (India) 1895-1926, Asst. for India at Royal Botanic Gardens, Kew (England) 1926-1940, died 19 \[24?\] Oct 1950. (*C.E.C. Fischer*).
+\* Fischer, Cecil Ernest Claude (1874-1950), British botanist, born 9 Jul 1874 in Bombay (now Mumbai), India, studied forestry at Cooper's Hill College nr. London 1892-1895, forest botanist in Madras (India) 1895-1926, Asst. for India at Royal Botanic Gardens, Kew (England) 1926-1940, died 19 \[24?\] Oct 1950. 
+**Abbreviated name**: *C.E.C. Fischer*
 
 #### Herbarium and types
 

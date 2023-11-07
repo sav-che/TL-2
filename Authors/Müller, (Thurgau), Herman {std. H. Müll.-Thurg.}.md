@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/item/104137#page/644/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, (Thurgau), Herman (1850-1927), Swiss botanist; director of the plant-physiological experiment station of the Kgl. Anstalt für Obst- und Weinbau, Geisenheim; involved in the improvement and phytopathology of grape cultivars; from 1891 director of the Versuchsstation und Schule für Obst-, Wein- und Gartenbau at Wädenswyl nr Zürich. (*H. Müll.-Thurg.*).
+Müller, (Thurgau), Herman (1850-1927), Swiss botanist; director of the plant-physiological experiment station of the Kgl. Anstalt für Obst- und Weinbau, Geisenheim; involved in the improvement and phytopathology of grape cultivars; from 1891 director of the Versuchsstation und Schule für Obst-, Wein- und Gartenbau at Wädenswyl nr Zürich. 
+**Abbreviated name**: *H. Müll.-Thurg.*
 
 #### Herbarium and types
 

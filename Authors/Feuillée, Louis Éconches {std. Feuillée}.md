@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/item/103414#page/874/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Feuillée, Louis Éconches (Père) {std. Feuillée} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Feuillée, Louis Éconches (1660-1732), French clergyman (order of the Minimi), explorer, astronomer and botanist. (*Feuillée*).
+Feuillée, Louis Éconches (1660-1732), French clergyman (order of the Minimi), explorer, astronomer and botanist. 
+**Abbreviated name**: *Feuillée*
 
 #### Herbarium and types
 

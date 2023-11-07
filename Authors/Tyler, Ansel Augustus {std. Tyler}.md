@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/item/103683#page/571/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33212603) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tyler, Ansel Augustus (1869-1922), American botanist; AB Lafayette 1892; Dr. phil. Columbia Univ. 1897; assistant in biology Lafayette Univ. 1894-1897; graduate student Columbia 1894-1897; instructor in biology Union College 1897-1898, id. Syracuse Univ. 1898-1899; associate professor of biology Univ. Arizona 1899-1900; professor science, Bellevue College, Omaha 1900-1916 (from 1911 as dean); head of the department of biology at Millikin University, Deca- tur 1916-1922. (*Tyler*).
+Tyler, Ansel Augustus (1869-1922), American botanist; AB Lafayette 1892; Dr. phil. Columbia Univ. 1897; assistant in biology Lafayette Univ. 1894-1897; graduate student Columbia 1894-1897; instructor in biology Union College 1897-1898, id. Syracuse Univ. 1898-1899; associate professor of biology Univ. Arizona 1899-1900; professor science, Bellevue College, Omaha 1900-1916 (from 1911 as dean); head of the department of biology at Millikin University, Deca- tur 1916-1922. 
+**Abbreviated name**: *Tyler*
 
 #### Herbarium and types
 

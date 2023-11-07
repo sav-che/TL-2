@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103683#page/86/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33212118) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suckow, Georg Adolph (1751-1813), German (Thüringian of Mecklenburg parentage) botanist and physician; Dr. med. Jena 1772; professor of natural sciences and political economy ("Kameralwissenschaften") at the "Hohe Kameralschule", University of Heidelberg 1774; from 1781 at the College of Lautern; son of Lorenz Johann Daniel Suckow (1722-1801). (*Suckow*).
+Suckow, Georg Adolph (1751-1813), German (Thüringian of Mecklenburg parentage) botanist and physician; Dr. med. Jena 1772; professor of natural sciences and political economy ("Kameralwissenschaften") at the "Hohe Kameralschule", University of Heidelberg 1774; from 1781 at the College of Lautern; son of Lorenz Johann Daniel Suckow (1722-1801). 
+**Abbreviated name**: *Suckow*
 
 #### Herbarium and types
 

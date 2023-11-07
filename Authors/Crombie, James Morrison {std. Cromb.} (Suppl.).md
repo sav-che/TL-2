@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/item/103860#page/483/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33266150) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crombie, James Mascall (Morrison) {std. Cromb.}|first entry]] for this author
 
 ### Author
 
-\* Crombie, James Morrison (1830-1906), Scottish minister, botanist (lichenologist), born at Aberdeen, entered the Marischal College, Aberdeen at the age of fifteen, licensed 1858 in Edinburgh in the Established Church of Scotland, ordained minister 1862, settled in London 1866 with John Cumming, later minister of the Presbyterian Church until 1879, Lecturer at St. Mary's Hospital 1879-1891 and clerk to the Scottish Synod 1879-1903, had visited many times the Dept. of Botany of the British Museum (N.H.). (*Cromb.*).
+\* Crombie, James Morrison (1830-1906), Scottish minister, botanist (lichenologist), born at Aberdeen, entered the Marischal College, Aberdeen at the age of fifteen, licensed 1858 in Edinburgh in the Established Church of Scotland, ordained minister 1862, settled in London 1866 with John Cumming, later minister of the Presbyterian Church until 1879, Lecturer at St. Mary's Hospital 1879-1891 and clerk to the Scottish Synod 1879-1903, had visited many times the Dept. of Botany of the British Museum (N.H.). 
+**Abbreviated name**: *Cromb.*
 
 #### Herbarium and types
 

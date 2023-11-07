@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/item/103253#page/800/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33069016) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lawson, Marmaduke Alexander (1840-1896), British botanist, professor of botany at Oxford 1868-1882; director Botany Dept. Ootacamund (India) 1882; government botanist and director of Cinchona plantations, Nilgiris 1885. (*M. A. Laws.*).
+Lawson, Marmaduke Alexander (1840-1896), British botanist, professor of botany at Oxford 1868-1882; director Botany Dept. Ootacamund (India) 1882; government botanist and director of Cinchona plantations, Nilgiris 1885. 
+**Abbreviated name**: *M. A. Laws.*
 
 #### Herbarium and types
 

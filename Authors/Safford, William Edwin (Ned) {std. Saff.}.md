@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1051](https://www.biodiversitylibrary.org/item/103624#page/1065/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1051](https://www.biodiversitylibrary.org/page/33190522) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Safford, William Edwin ("Ned") (1859-1926), American botanist and conchologist; United States Naval Academy grad. 1880; from 1880-1902 in the U.S. Navy, 1899-1900 as lieutenant governor of Guam; with the Office of Economic and Systematic Botany of the Bureau of Plant Industry (USDA) of the United States 1902-1926. (*Saff.*).
+Safford, William Edwin ("Ned") (1859-1926), American botanist and conchologist; United States Naval Academy grad. 1880; from 1880-1902 in the U.S. Navy, 1899-1900 as lieutenant governor of Guam; with the Office of Economic and Systematic Botany of the Bureau of Plant Industry (USDA) of the United States 1902-1926. 
+**Abbreviated name**: *Saff.*
 
 #### Herbarium and types
 

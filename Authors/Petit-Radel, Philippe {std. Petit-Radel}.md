@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103624#page/216/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33189673) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petit-Radel, Philippe (1749-1815), French botanist. (*Petit-Radel*).
+Petit-Radel, Philippe (1749-1815), French botanist. 
+**Abbreviated name**: *Petit-Radel*
 
 #### Herbarium and types
 

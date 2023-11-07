@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/103253#page/130/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33068346) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Havaas (Havås), Johan Jonson (1864-1956), Norwegian farmer and lichenologist at Bergen. (*Hav.*).
+Havaas (Havås), Johan Jonson (1864-1956), Norwegian farmer and lichenologist at Bergen. 
+**Abbreviated name**: *Hav.*
 
 #### Herbarium and types
 

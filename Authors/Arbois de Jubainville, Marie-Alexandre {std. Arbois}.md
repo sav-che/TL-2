@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103858#page/155/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33264870) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Arbois de Jubainville, Marie-Alexandre (1835-1916), French (Lorraine) botanist and phytopathologist, studied at the École forestière, Nancy 1855-1857, at Épinal 1857-1858 for training purposes, "Garde général" at Vaucouleurs, "inspecteur adjoint" at Neufchateau 1879-1886, "conservateur" at Niort 1886-1892; prolific writer on phytopathology. (*Arbois*).
+Arbois de Jubainville, Marie-Alexandre (1835-1916), French (Lorraine) botanist and phytopathologist, studied at the École forestière, Nancy 1855-1857, at Épinal 1857-1858 for training purposes, "Garde général" at Vaucouleurs, "inspecteur adjoint" at Neufchateau 1879-1886, "conservateur" at Niort 1886-1892; prolific writer on phytopathology. 
+**Abbreviated name**: *Arbois*
 
 #### Herbarium and types
 

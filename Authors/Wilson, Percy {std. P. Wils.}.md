@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103250#page/415/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33066695) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilson, Percy (1879-1944), American botanist; at the New York Botanical Garden from 1899-1944; as assistant 1899, briefly stationed on Cuba in 1904; administrative assistant 1907, docent 1910, assistant curator and docent 1911, assistant curator 1912-1913, associate curator 1914-1939, research associate 1940-1944; assistant to N.L. Britton, collected widely in the West Indies. (*P. Wils.*).
+Wilson, Percy (1879-1944), American botanist; at the New York Botanical Garden from 1899-1944; as assistant 1899, briefly stationed on Cuba in 1904; administrative assistant 1907, docent 1910, assistant curator and docent 1911, assistant curator 1912-1913, associate curator 1914-1939, research associate 1940-1944; assistant to N.L. Britton, collected widely in the West Indies. 
+**Abbreviated name**: *P. Wils.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/item/103414#page/952/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33121035) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gahn, Henric (1747-1816), Swedish physician, pupil of Linnaeus, ultimately teacher at the army academy at Karlberg. (*Gahn*).
+Gahn, Henric (1747-1816), Swedish physician, pupil of Linnaeus, ultimately teacher at the army academy at Karlberg. 
+**Abbreviated name**: *Gahn*
 
 #### Herbarium and types
 

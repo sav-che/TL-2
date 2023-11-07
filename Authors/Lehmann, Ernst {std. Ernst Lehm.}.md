@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/item/103253#page/845/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lehmann, Ernst (1880-1957), German botanist and geneticist at Tübingen, working with *Veronica (*Ernst Lehm.*).
+Lehmann, Ernst (1880-1957), German botanist and geneticist at Tübingen, working with *Veronica 
+**Abbreviated name**: *Ernst Lehm.*
 
 #### Herbarium and types
 

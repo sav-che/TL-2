@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/103250#page/462/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33066742) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Witte, Eduard Theodoor (1865-1936), Dutch gardener, curator at the Leiden Botanical Garden 1898-1930; editor of the Maandschrift der Nederlandsche Maatschappij voor Tuinbouw en Plantkunde; son of Heinrich Witte. (*E. Witte*).
+Witte, Eduard Theodoor (1865-1936), Dutch gardener, curator at the Leiden Botanical Garden 1898-1930; editor of the Maandschrift der Nederlandsche Maatschappij voor Tuinbouw en Plantkunde; son of Heinrich Witte. 
+**Abbreviated name**: *E. Witte*
 
 #### Herbarium and types
 

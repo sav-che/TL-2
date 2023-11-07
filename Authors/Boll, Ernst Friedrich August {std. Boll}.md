@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103414#page/311/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33120394) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boll, Ernst Friedrich August {std. Boll} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boll, Ernst Friedrich August (1817-1868) (sic, not 1867), German botanist at Neubrandenburg (Mecklenburg). (*Boll*).
+Boll, Ernst Friedrich August (1817-1868) (sic, not 1867), German botanist at Neubrandenburg (Mecklenburg). 
+**Abbreviated name**: *Boll*
 
 #### Herbarium and types
 

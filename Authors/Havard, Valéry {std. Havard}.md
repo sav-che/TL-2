@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103253#page/131/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33068347) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Havard, Valéry (1846-1927), French-born American physician and botanist; at Manhattan College, New York 1865; at San Francisco 1869; surgeon U.S. Army 1871; president of the Army Medical School 1906-1910. (*Havard*).
+Havard, Valéry (1846-1927), French-born American physician and botanist; at Manhattan College, New York 1865; at San Francisco 1869; surgeon U.S. Army 1871; president of the Army Medical School 1906-1910. 
+**Abbreviated name**: *Havard*
 
 #### Herbarium and types
 

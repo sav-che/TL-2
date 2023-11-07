@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/item/103253#page/562/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33068778) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kidston, Robert (1852-1924), Scottish palaeobotanist; from early boyhood living at Stirling, his private means enabling him to give his time wholly to science; LL.D. Glasgow 1908; D. Sc. h.c. Manchester 1921. (*Kidst.*).
+Kidston, Robert (1852-1924), Scottish palaeobotanist; from early boyhood living at Stirling, his private means enabling him to give his time wholly to science; LL.D. Glasgow 1908; D. Sc. h.c. Manchester 1921. 
+**Abbreviated name**: *Kidst.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103835#page/273/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33260251) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Egeland, John (1871-1928), Norwegian botanist (mycologist) working in Christiania (now Oslo), specialist in Hymenomycetes. (*Egeland*).
+Egeland, John (1871-1928), Norwegian botanist (mycologist) working in Christiania (now Oslo), specialist in Hymenomycetes. 
+**Abbreviated name**: *Egeland*
 
 #### Herbarium and types
 

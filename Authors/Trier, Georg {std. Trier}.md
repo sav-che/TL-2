@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/item/103683#page/499/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33212531) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trier, Georg (1884-1944), Bohemian-German phytochemist; Dr. techn. Wiss. ETH Zürich 1910; industrial chemist as well as lecturer at the Eidg. Technische Hochschule Zürich. (*Trier*).
+Trier, Georg (1884-1944), Bohemian-German phytochemist; Dr. techn. Wiss. ETH Zürich 1910; industrial chemist as well as lecturer at the Eidg. Technische Hochschule Zürich. 
+**Abbreviated name**: *Trier*
 
 #### Herbarium and types
 

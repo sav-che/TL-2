@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/item/103624#page/606/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33190063) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raup, Hugh Miller (1901-x), American botanist; Dr. phil. Univ. Pittsburgh 1928; A.M. h.c. Harvard Univ 1945; Dr. sci. h.c. Wittenberg Univ. 1968; instructor in biology Wittenberg College 1923-1925; asst. prof. 1925-1932; research assistant Arnold Arboretum, Harvard University 1932-1934, research associate 1934-1938; asst. prof. plant ecology Harvard 1938-1945; assoc. prof. 1945-1949; prof. bot. 1949-1960; prof. forestry 1960-1967; director Harvard forest 1946-1947; worked extensively in the Mackenzie drainage basin 1926-1939, along the Alaska highway 1943-1948; in N. Greenland 1956-1964. (*Raup*).
+Raup, Hugh Miller (1901-x), American botanist; Dr. phil. Univ. Pittsburgh 1928; A.M. h.c. Harvard Univ 1945; Dr. sci. h.c. Wittenberg Univ. 1968; instructor in biology Wittenberg College 1923-1925; asst. prof. 1925-1932; research assistant Arnold Arboretum, Harvard University 1932-1934, research associate 1934-1938; asst. prof. plant ecology Harvard 1938-1945; assoc. prof. 1945-1949; prof. bot. 1949-1960; prof. forestry 1960-1967; director Harvard forest 1946-1947; worked extensively in the Mackenzie drainage basin 1926-1939, along the Alaska highway 1943-1948; in N. Greenland 1956-1964. 
+**Abbreviated name**: *Raup*
 
 #### Herbarium and types
 

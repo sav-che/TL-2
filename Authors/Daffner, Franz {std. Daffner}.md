@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/item/103833#page/17/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33259051) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daffner, Franz (1844-1933), German physician and botanist, born at Hannesreut. (*Daffner*).
+Daffner, Franz (1844-1933), German physician and botanist, born at Hannesreut. 
+**Abbreviated name**: *Daffner*
 
 #### Herbarium and types
 

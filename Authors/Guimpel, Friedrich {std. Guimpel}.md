@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/item/103414#page/1071/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/page/33121154) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guimpel, Friedrich (1774-1839), German botanical artist and engraver, professor at the Academy of Arts in Berlin. (*Guimpel*).
+Guimpel, Friedrich (1774-1839), German botanical artist and engraver, professor at the Academy of Arts in Berlin. 
+**Abbreviated name**: *Guimpel*
 
 #### Originals
 

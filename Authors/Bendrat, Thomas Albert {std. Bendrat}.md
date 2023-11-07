@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/103859#page/76/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33265263) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bendrat, Thomas Albert (1878-?), German (Danzig) botanist and geologist, at the Real Gymnasium, Danzig 1894, B.D. Theological Seminary at Kropp, Germany 1898, moved to the United States, M.S. New Mexico 1900, Chicago 1904-1906, at Hamburg 1916-1917, Dr. phil. Berlin 1930, instructor in geology and mining North Carolina 1912, head department geology Phillips 1920-1921, at Stetson 1921-1924, consulting geologist 1924-1928, head Dept. Science, Potomac State Junior College W. Virginia 1927-1928, in Europe 1929-1930, Venezuela 1930-1931, at Armstrong College W. Virginia 1932-1934, ultimately at Beckley College from 1934. (*Bendrat*).
+Bendrat, Thomas Albert (1878-?), German (Danzig) botanist and geologist, at the Real Gymnasium, Danzig 1894, B.D. Theological Seminary at Kropp, Germany 1898, moved to the United States, M.S. New Mexico 1900, Chicago 1904-1906, at Hamburg 1916-1917, Dr. phil. Berlin 1930, instructor in geology and mining North Carolina 1912, head department geology Phillips 1920-1921, at Stetson 1921-1924, consulting geologist 1924-1928, head Dept. Science, Potomac State Junior College W. Virginia 1927-1928, in Europe 1929-1930, Venezuela 1930-1931, at Armstrong College W. Virginia 1932-1934, ultimately at Beckley College from 1934. 
+**Abbreviated name**: *Bendrat*
 
 #### Herbarium and types
 

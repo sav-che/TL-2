@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/item/104077#page/891/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33334016) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steinheil, Adolph \[Adolphe\] (1810-1839), Alsatian botanist; studied pharmacy, chemistry and botany at Strasbourg and Paris; military pharmacist and surgeon in various places in France; id. in Algeria 1830-1834; id. in Strasbourg 1835-1838; traveller for the Muséum d'Histoire naturelle 1839; died at sea between Martinique and Venezuela. (*Steinh.*).
+Steinheil, Adolph \[Adolphe\] (1810-1839), Alsatian botanist; studied pharmacy, chemistry and botany at Strasbourg and Paris; military pharmacist and surgeon in various places in France; id. in Algeria 1830-1834; id. in Strasbourg 1835-1838; traveller for the Muséum d'Histoire naturelle 1839; died at sea between Martinique and Venezuela. 
+**Abbreviated name**: *Steinh.*
 
 #### Herbarium and types
 

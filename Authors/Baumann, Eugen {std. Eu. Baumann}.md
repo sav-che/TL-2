@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103858#page/399/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265114) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baumann, Eugen (1868-1933), Swiss (Zürich, Bonstetten) botanist, educated in Bonstetten and Zürich, matric. 1888 (Kantonschule), studied at the Technical University of Zürich 1888-1910, Dr. phil. ib. 1910. (*Eu. Baumann*).
+Baumann, Eugen (1868-1933), Swiss (Zürich, Bonstetten) botanist, educated in Bonstetten and Zürich, matric. 1888 (Kantonschule), studied at the Technical University of Zürich 1888-1910, Dr. phil. ib. 1910. 
+**Abbreviated name**: *Eu. Baumann*
 
 #### Herbarium and types
 

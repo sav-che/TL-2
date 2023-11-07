@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103835#page/87/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33260065) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doumenjou, Jean-Bazile (?-1856), French botanist, birth date unknown to us, died 9 Mar 1856 at Villemagne (Aude), studied the flora of the Montagne-Noire. (*Doumenjou*).
+Doumenjou, Jean-Bazile (?-1856), French botanist, birth date unknown to us, died 9 Mar 1856 at Villemagne (Aude), studied the flora of the Montagne-Noire. 
+**Abbreviated name**: *Doumenjou*
 
 #### Herbarium and types
 

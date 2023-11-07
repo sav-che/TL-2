@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/item/103624#page/808/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/page/33190265) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Riley, John (x-1846), British pteridologist of Papplewick, Nottinghamshire. (*J. Riley*).
+Riley, John (x-1846), British pteridologist of Papplewick, Nottinghamshire. 
+**Abbreviated name**: *J. Riley*
 
 #### Herbarium and types
 

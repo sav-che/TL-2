@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/item/104077#page/476/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33333601) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scouler, John (1804-1871), Scottish geologist and botanist; surgeon and naturalist on the voyage to Columbia River (American Northwest) 1824-1825 with David Douglas; travelled to Calcutta via the Cape 1826; professor of geology Glasgow 1829-1833; professor of geology, zoology and botany to the Royal Dublin Society 1833-1854. (*Scouler*).
+Scouler, John (1804-1871), Scottish geologist and botanist; surgeon and naturalist on the voyage to Columbia River (American Northwest) 1824-1825 with David Douglas; travelled to Calcutta via the Cape 1826; professor of geology Glasgow 1829-1833; professor of geology, zoology and botany to the Royal Dublin Society 1833-1854. 
+**Abbreviated name**: *Scouler*
 
 #### Herbarium and types
 

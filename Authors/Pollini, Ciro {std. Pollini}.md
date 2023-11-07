@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103624#page/345/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33189802) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pollini, Ciro (1782-1833), Italian botanist and physician; curator of the Verona botanical garden; teacher at the Verona Lyceum. (*Pollini*).
+Pollini, Ciro (1782-1833), Italian botanist and physician; curator of the Verona botanical garden; teacher at the Verona Lyceum. 
+**Abbreviated name**: *Pollini*
 
 #### Herbarium and types
 

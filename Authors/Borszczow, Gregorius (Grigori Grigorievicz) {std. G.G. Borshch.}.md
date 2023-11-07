@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103859#page/372/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33265559) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borszczow, Gregorius (Grigori Grigorievicz) (fl. 1857), Russian botanist, brother of Elias Borszczow. (*G.G. Borshch.*).
+Borszczow, Gregorius (Grigori Grigorievicz) (fl. 1857), Russian botanist, brother of Elias Borszczow. 
+**Abbreviated name**: *G.G. Borshch.*
 
 #### Herbarium and types
 

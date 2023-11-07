@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/item/103253#page/715/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33068931) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kufferath, Hubert (1882-1957), Belgian algologist and bacteriologist; Dr. sci. Bruxelles 1910; from 1904-1920 at the Institut Pasteur du Brabant; from 1920-1947 director of the Institut Meurice-Chimie in Bruxelles. (*Kuff.*).
+Kufferath, Hubert (1882-1957), Belgian algologist and bacteriologist; Dr. sci. Bruxelles 1910; from 1904-1920 at the Institut Pasteur du Brabant; from 1920-1947 director of the Institut Meurice-Chimie in Bruxelles. 
+**Abbreviated name**: *Kuff.*
 
 #### Herbarium and types
 

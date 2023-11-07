@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103624#page/203/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33189660) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pételot, \[Paul\] Alfred (1885-post 1940), French botanist; assistant at the Faculté des sciences, Nancy, 1908-1918; teacher at the Hanoi high school (lycée) 1918-1922; director of the entomological station of Cho-gangh 1922-1924; professor of botany at the Indochina University from 1924. (*Pételot*).
+Pételot, \[Paul\] Alfred (1885-post 1940), French botanist; assistant at the Faculté des sciences, Nancy, 1908-1918; teacher at the Hanoi high school (lycée) 1918-1922; director of the entomological station of Cho-gangh 1922-1924; professor of botany at the Indochina University from 1924. 
+**Abbreviated name**: *Pételot*
 
 #### Herbarium and types
 

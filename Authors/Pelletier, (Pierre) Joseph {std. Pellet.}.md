@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103624#page/162/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33189619) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pelletier, \[Pierre\] Joseph (1788-1842), French botanist and pharmacist at Paris; Dr. Sci. Paris 1812, active at the École de pharmacie at Paris from 1814. (*Pellet.*).
+Pelletier, \[Pierre\] Joseph (1788-1842), French botanist and pharmacist at Paris; Dr. Sci. Paris 1812, active at the École de pharmacie at Paris from 1814. 
+**Abbreviated name**: *Pellet.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103861#page/280/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33266577) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burtin, François Xavier de (1743-1818), Belgian naturalist, born at Maastricht (Netherlands) December 1743, wrote "Oryctographie de Bruxelles 1784", worked on Glossopetren, Proboscidea, phytopalaeontology, died 9 August 1819 in Bruxelles. (*Burtin*).
+Burtin, François Xavier de (1743-1818), Belgian naturalist, born at Maastricht (Netherlands) December 1743, wrote "Oryctographie de Bruxelles 1784", worked on Glossopetren, Proboscidea, phytopalaeontology, died 9 August 1819 in Bruxelles. 
+**Abbreviated name**: *Burtin*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/item/103414#page/338/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33120421) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boudier, (Jean-Louis) Emile {std. Boud.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boudier, Jean Louis Émile (1828-1920), French mycologist. (*Boud.*).
+Boudier, Jean Louis Émile (1828-1920), French mycologist. 
+**Abbreviated name**: *Boud.*
 
 #### Herbarium and types
 

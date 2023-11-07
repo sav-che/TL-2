@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103683#page/221/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33212253) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tennent, James Emerson (1804-1869), British (Belfast-born) politician and administrator; educated at Trinity College Dublin; called to the Bar (never practiced) at Lincoln's Inn 1831; M.P. for Belfast 1832, 1835, 1837, 1842-1845, for Lisburn 1851-1852; secretary to the India Board 1841-1845, civil secretary to the government of Ceylon 1845-1850; secretary to the Poor-Law Board 1850-1852, knighted 1867. (*Tennent*).
+Tennent, James Emerson (1804-1869), British (Belfast-born) politician and administrator; educated at Trinity College Dublin; called to the Bar (never practiced) at Lincoln's Inn 1831; M.P. for Belfast 1832, 1835, 1837, 1842-1845, for Lisburn 1851-1852; secretary to the India Board 1841-1845, civil secretary to the government of Ceylon 1845-1850; secretary to the Poor-Law Board 1850-1852, knighted 1867. 
+**Abbreviated name**: *Tennent*
 
 #### Herbarium and types
 

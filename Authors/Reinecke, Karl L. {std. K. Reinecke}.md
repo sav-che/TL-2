@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/item/103624#page/714/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinecke, Karl L. (1854-1934), German (Saxonian) botanist and high school teacher at Erfurt; teacher's examination 1874; connected with the Erfurt schools until 1917. (*K. Reinecke*).
+Reinecke, Karl L. (1854-1934), German (Saxonian) botanist and high school teacher at Erfurt; teacher's examination 1874; connected with the Erfurt schools until 1917. 
+**Abbreviated name**: *K. Reinecke*
 
 #### Herbarium and types
 

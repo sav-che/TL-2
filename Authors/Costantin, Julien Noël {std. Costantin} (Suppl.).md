@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103860#page/406/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266073) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Costantin, Julien Noël {std. Costantin}|first entry]] for this author
 
 ### Author
 
-\* Costantin, Julien Noël (1857-1936), French botanist and pharmacist, born at Paris, educated at the École normale supérieure, Paris, Dr. Sei. 1883, after a short time at the Faculté des Sciences at Bordeaux, aide-naturaliste at the Muséum d'Histoire naturelle 1884 in botany and botanical pathology, "maître de conférences"at the École normale 1891, professor at the "Muséum" 1901, from 1908 with the "Institut de Nogent". (*Costantin*).
+\* Costantin, Julien Noël (1857-1936), French botanist and pharmacist, born at Paris, educated at the École normale supérieure, Paris, Dr. Sei. 1883, after a short time at the Faculté des Sciences at Bordeaux, aide-naturaliste at the Muséum d'Histoire naturelle 1884 in botany and botanical pathology, "maître de conférences"at the École normale 1891, professor at the "Muséum" 1901, from 1908 with the "Institut de Nogent". 
+**Abbreviated name**: *Costantin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/item/104077#page/537/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33333662) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Servais, Gaspard Joseph de (1735-1807), Belgian (Austrian Netherlands) botanist, arboriculturist and bibliographer at Mechelen. (*Servais*).
+Servais, Gaspard Joseph de (1735-1807), Belgian (Austrian Netherlands) botanist, arboriculturist and bibliographer at Mechelen. 
+**Abbreviated name**: *Servais*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/104077#page/731/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Söderberg, Daniel Henric (1750-1781), Swedish physician and botanist; student in Uppsala (1767, with Linnaeus) and Lund (1772); Dr. med. Lund 1778; physician at Eskilstuna. (*Söderberg*).
+Söderberg, Daniel Henric (1750-1781), Swedish physician and botanist; student in Uppsala (1767, with Linnaeus) and Lund (1772); Dr. med. Lund 1778; physician at Eskilstuna. 
+**Abbreviated name**: *Söderberg*
 
 #### Herbarium and types
 

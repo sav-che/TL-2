@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/104077#page/96/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33333221) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savage, Spencer (1886-1966), English librarian and botanist; clerk with the Linnean Society of London from 1911, librarian and assistant secretary 1929-1951. (*S.Savage*).
+Savage, Spencer (1886-1966), English librarian and botanist; clerk with the Linnean Society of London from 1911, librarian and assistant secretary 1929-1951. 
+**Abbreviated name**: *S.Savage*
 
 #### Herbarium and types
 

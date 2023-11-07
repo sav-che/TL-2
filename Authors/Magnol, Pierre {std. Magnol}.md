@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/104137#page/259/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33355330) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Magnol, Pierre (1638-1715), French physician and botanist at Montpellier. (*Magnol*).
+Magnol, Pierre (1638-1715), French physician and botanist at Montpellier. 
+**Abbreviated name**: *Magnol*
 
 #### Herbarium and types
 

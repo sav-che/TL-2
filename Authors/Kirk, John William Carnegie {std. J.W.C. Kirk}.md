@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/item/103253#page/577/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33068793) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirk, John William Carnegie (1878-1962), British soldier (retired 1921) and amateur botanist; son of Sir John Kirk. (*J. W. C. Kirk*).
+Kirk, John William Carnegie (1878-1962), British soldier (retired 1921) and amateur botanist; son of Sir John Kirk. 
+**Abbreviated name**: *J. W. C. Kirk*
 
 #### Herbarium and types
 

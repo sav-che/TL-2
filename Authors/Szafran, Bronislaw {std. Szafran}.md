@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103683#page/153/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33212185) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Szafran, Bronislaw (1897-1968), Polish botanist (bryologist) at the Agricultural Station, Lwów. (*Szafran*).
+Szafran, Bronislaw (1897-1968), Polish botanist (bryologist) at the Agricultural Station, Lwów. 
+**Abbreviated name**: *Szafran*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103833#page/133/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33259167) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dean, Richard (1830-1905), English botanist, born at Southampton, Hants., Victoria Medal of Honour 1897, Secretary National Floricultural Society, secretary National Chrysanthemum Society 1890. (*Dean*).
+Dean, Richard (1830-1905), English botanist, born at Southampton, Hants., Victoria Medal of Honour 1897, Secretary National Floricultural Society, secretary National Chrysanthemum Society 1890. 
+**Abbreviated name**: *Dean*
 
 #### Herbarium and types
 

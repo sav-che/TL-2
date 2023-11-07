@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103683#page/192/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33212224) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taupenot, J.M. (*fl*. 1851), French high school teacher and botanist at Chaumont. (*Taupenot*).
+Taupenot, J.M. (*fl*. 1851), French high school teacher and botanist at Chaumont. 
+**Abbreviated name**: *Taupenot*
 
 #### Herbarium and types
 

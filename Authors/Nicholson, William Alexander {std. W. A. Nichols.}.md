@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/item/104137#page/758/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33355829) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicholson, William Alexander (1858-1935), British bank clerk, botanist, secretary and editor of the Norfolk and Norwich Naturalists Society 1891-1912. (*W. A. Nichols.*).
+Nicholson, William Alexander (1858-1935), British bank clerk, botanist, secretary and editor of the Norfolk and Norwich Naturalists Society 1891-1912. 
+**Abbreviated name**: *W. A. Nichols.*
 
 #### Herbarium and types
 

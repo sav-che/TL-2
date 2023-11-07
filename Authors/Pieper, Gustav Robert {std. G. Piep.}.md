@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103624#page/271/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pieper, Gustav Robert (*fl*. 1908), German botanist. (*G. Piep.*).
+Pieper, Gustav Robert (*fl*. 1908), German botanist. 
+**Abbreviated name**: *G. Piep.*
 
 #### Herbarium and types
 

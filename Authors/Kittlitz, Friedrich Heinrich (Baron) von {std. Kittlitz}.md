@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/item/103253#page/584/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kittlitz, Friedrich Heinrich \[Baron\] von (1799-1871), German soldier (1813 sic-1825) and ornithologist, on the Senjavin expedition (1826-1829); at Köln 1832-1845; later at Berlin and Wiesbaden as "Privatgelehrter." (*Kittlitz*).
+Kittlitz, Friedrich Heinrich \[Baron\] von (1799-1871), German soldier (1813 sic-1825) and ornithologist, on the Senjavin expedition (1826-1829); at Köln 1832-1845; later at Berlin and Wiesbaden as "Privatgelehrter." 
+**Abbreviated name**: *Kittlitz*
 
 #### Herbarium and types
 

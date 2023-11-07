@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103861#page/249/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33266546) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burgess, Edward Sandford (1855-1928), American botanist, born in Little Valley, N.Y., spent boyhood in Panama, Chautauqua County (N.Y.) at the state normal school of Fredonia, subsequently at Hamilton College, N.Y., grad. 1879, Dr. of philosophy Columbia University 1899, Dr. Sci. from Hamilton, professor of natural science at Hunter College 1882-1915, also teaching in Washington D.C. and at the Martha's Vineyard Summer Institute. (*E.S. Burgess*).
+Burgess, Edward Sandford (1855-1928), American botanist, born in Little Valley, N.Y., spent boyhood in Panama, Chautauqua County (N.Y.) at the state normal school of Fredonia, subsequently at Hamilton College, N.Y., grad. 1879, Dr. of philosophy Columbia University 1899, Dr. Sci. from Hamilton, professor of natural science at Hunter College 1882-1915, also teaching in Washington D.C. and at the Martha's Vineyard Summer Institute. 
+**Abbreviated name**: *E.S. Burgess*
 
 #### Herbarium and types
 

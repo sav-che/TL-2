@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103250#page/76/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33066356) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wahlberg, Pehr Fredrik (1800-1877), Swedish botanist, physician and pharmacist; Dr. phil. Uppsala 1824 with C.P. Thunberg, Dr. med. ib. 1827; associate professor of materia medica and natural history at the Karolinska Institut, Stockholm 1827-1836; regular professor of materia medica 1836-1865; secretary of the Swedish Academy of Sciences 1848-1866; travelled widely in Scandinavia between 1819 and 1857 and in S. Europe 1828-1830. (*Wahlb.*).
+Wahlberg, Pehr Fredrik (1800-1877), Swedish botanist, physician and pharmacist; Dr. phil. Uppsala 1824 with C.P. Thunberg, Dr. med. ib. 1827; associate professor of materia medica and natural history at the Karolinska Institut, Stockholm 1827-1836; regular professor of materia medica 1836-1865; secretary of the Swedish Academy of Sciences 1848-1866; travelled widely in Scandinavia between 1819 and 1857 and in S. Europe 1828-1830. 
+**Abbreviated name**: *Wahlb.*
 
 #### Herbarium and types
 

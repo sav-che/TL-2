@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103834#page/322/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33259804) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fontell, Carl Wilhelm (1873-1936), Finnish botanist, born 25 Oct 1873 in Jakobstad, attended the Swedish Normalyceum in Helsingfors (Helsinki), studied natural history from 1894, traveled to Lapland 1899, fil. cand. and teacher 1901 in Kuopio, teacher in Åbo (Turku) 1903, Dr. Sci. 1909, lecturer in natural history and geography in Åbo at the "Klassika" Lyceum 1913 and at the Swedish Lyceum from 1926, died 7 Sep 1936 in Åbo. (*Fontell*).
+Fontell, Carl Wilhelm (1873-1936), Finnish botanist, born 25 Oct 1873 in Jakobstad, attended the Swedish Normalyceum in Helsingfors (Helsinki), studied natural history from 1894, traveled to Lapland 1899, fil. cand. and teacher 1901 in Kuopio, teacher in Åbo (Turku) 1903, Dr. Sci. 1909, lecturer in natural history and geography in Åbo at the "Klassika" Lyceum 1913 and at the Swedish Lyceum from 1926, died 7 Sep 1936 in Åbo. 
+**Abbreviated name**: *Fontell*
 
 #### Note
 

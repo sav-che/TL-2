@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103860#page/34/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33265701) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Černjavski, Paule (1892-1969), Yugoslavian botanist at the "Musej srpske zemlje", Beograd, working on plant geography and palaeobotany in Serbia and Slovenia. (*Černjavski*).
+Černjavski, Paule (1892-1969), Yugoslavian botanist at the "Musej srpske zemlje", Beograd, working on plant geography and palaeobotany in Serbia and Slovenia. 
+**Abbreviated name**: *Černjavski*
 
 #### Herbarium and types
 

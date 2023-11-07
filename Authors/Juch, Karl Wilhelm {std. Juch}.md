@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103253#page/491/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33068707) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Juch, Karl Wilhelm (1774-1821), German botanist at Altdorf. (*Juch*).
+Juch, Karl Wilhelm (1774-1821), German botanist at Altdorf. 
+**Abbreviated name**: *Juch*
 
 #### Herbarium and types
 

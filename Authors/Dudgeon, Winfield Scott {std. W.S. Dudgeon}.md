@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103835#page/153/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33260131) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dudgeon, Winfield Scott (1886-1932), American botanist and ecologist, born 10 Apr 1886 near Hedrick, Iowa, B.S. Iowa Coll. 1907, at Yale University asst. biol. 1909-1910, fellow at Chicago 1915-1917, Ph.D. 1917, assistant in botany at Iowa Coll. 1905-1908, lecturer Allahabad University (India) from 1923, first president of the Indian Botanical Society 1920-1922, worked on the ecology of the Upper Gangetic Plain and the outer Himalayas. (*W.S. Dudgeon*).
+Dudgeon, Winfield Scott (1886-1932), American botanist and ecologist, born 10 Apr 1886 near Hedrick, Iowa, B.S. Iowa Coll. 1907, at Yale University asst. biol. 1909-1910, fellow at Chicago 1915-1917, Ph.D. 1917, assistant in botany at Iowa Coll. 1905-1908, lecturer Allahabad University (India) from 1923, first president of the Indian Botanical Society 1920-1922, worked on the ecology of the Upper Gangetic Plain and the outer Himalayas. 
+**Abbreviated name**: *W.S. Dudgeon*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103834#page/67/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Farmar, Leopold ('Leo') (1878-1907), British botanist, born 20 Feb 1878, gardener in Manchester, student apprentice, Royal Botanic Gardens, Glasnevin, Dublin, Ireland 1900-1901, gardener, Royal Botanic Gardens, Kew from Mar 1903 and then in Kew Herb. 1903-1906, Liverpool Univ. W. Afr. Exped. 1906, died 6 Apr 1907 by suicide at Southsea (Hants.). (*Farmar*).
+Farmar, Leopold ('Leo') (1878-1907), British botanist, born 20 Feb 1878, gardener in Manchester, student apprentice, Royal Botanic Gardens, Glasnevin, Dublin, Ireland 1900-1901, gardener, Royal Botanic Gardens, Kew from Mar 1903 and then in Kew Herb. 1903-1906, Liverpool Univ. W. Afr. Exped. 1906, died 6 Apr 1907 by suicide at Southsea (Hants.). 
+**Abbreviated name**: *Farmar*
 
 #### Herbarium and types
 

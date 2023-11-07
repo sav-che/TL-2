@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/104077#page/731/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sönnerberg, Jacob (1770-1847), Swedish physician and botanist; Dr. phil. Lund 1796; Dr. med. ib. 1800; lecturer in anatomy at Lund 1798, adjunct in "economy" 1805-1810; ultimately professor in practical medicine 1818. (*Sönnerberg*).
+Sönnerberg, Jacob (1770-1847), Swedish physician and botanist; Dr. phil. Lund 1796; Dr. med. ib. 1800; lecturer in anatomy at Lund 1798, adjunct in "economy" 1805-1810; ultimately professor in practical medicine 1818. 
+**Abbreviated name**: *Sönnerberg*
 
 #### Herbarium and types
 

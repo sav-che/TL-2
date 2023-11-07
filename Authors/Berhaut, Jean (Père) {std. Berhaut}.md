@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103859#page/107/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berhaut, Jean \[Père\] (1902-1977), French clergyman, botanist and entomologist, sometime teacher at the apostolic schools at Bois-noir (Valais, Switzerland), Fribourg and Bouveret, vicar at Thiès, Sénégal, 1937; botanized in Sénégal 1937-1962, later working out his floras in Paris, based on the Museum d'Histoire naturelle. (*Berhaut*).
+Berhaut, Jean \[Père\] (1902-1977), French clergyman, botanist and entomologist, sometime teacher at the apostolic schools at Bois-noir (Valais, Switzerland), Fribourg and Bouveret, vicar at Thiès, Sénégal, 1937; botanized in Sénégal 1937-1962, later working out his floras in Paris, based on the Museum d'Histoire naturelle. 
+**Abbreviated name**: *Berhaut*
 
 #### Herbarium and types
 

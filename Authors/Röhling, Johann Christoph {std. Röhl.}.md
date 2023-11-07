@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/item/103624#page/850/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33190307) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Röhling, Johann Christoph (1757-1813), German (Hessen) botanist; studied theology at Giessen; private teacher at Frankfurt a.M.; protestant clergyman at Braubach 1792; at Breckenheim 1800, at Massenheim (Hessen) 1802-1813. (*Röhl.*).
+Röhling, Johann Christoph (1757-1813), German (Hessen) botanist; studied theology at Giessen; private teacher at Frankfurt a.M.; protestant clergyman at Braubach 1792; at Breckenheim 1800, at Massenheim (Hessen) 1802-1813. 
+**Abbreviated name**: *Röhl.*
 
 #### Herbarium and types
 

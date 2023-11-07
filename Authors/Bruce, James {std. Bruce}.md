@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/item/103414#page/420/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33120503) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bruce, James {std. Bruce} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bruce, James (1730-1794), Scottish traveller in Africa. (*Bruce*).
+Bruce, James (1730-1794), Scottish traveller in Africa. 
+**Abbreviated name**: *Bruce*
 
 #### Herbarium and types
 

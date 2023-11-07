@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103835#page/89/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33260067) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dowden, Richard (1794-1861), British (Irish) merchant and botanist, born 12 Apr 1794 at Bandon (County Cork, Ireland), was president of the Cuvierian Society of Cork, died 5 Aug 1861 at Cork. (*Dowden*).
+Dowden, Richard (1794-1861), British (Irish) merchant and botanist, born 12 Apr 1794 at Bandon (County Cork, Ireland), was president of the Cuvierian Society of Cork, died 5 Aug 1861 at Cork. 
+**Abbreviated name**: *Dowden*
 
 #### Herbarium and types
 

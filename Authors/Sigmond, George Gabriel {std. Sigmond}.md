@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/104077#page/611/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sigmond, George Gabriel (*fl*. 1840), English pharmacist, professor of materia medica to the Royal medico-botanical Society of London. (*Sigmond*).
+Sigmond, George Gabriel (*fl*. 1840), English pharmacist, professor of materia medica to the Royal medico-botanical Society of London. 
+**Abbreviated name**: *Sigmond*
 
 #### Herbarium and types
 

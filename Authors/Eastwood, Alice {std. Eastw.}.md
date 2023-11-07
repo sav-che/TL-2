@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/item/103414#page/764/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33120847) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eastwood, Alice {std. Eastw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Eastwood, Alice (1859-1953), American botanist mainly working on the flora of California, curator of the herbarium at the California Academy of Sciences 1894-1949. (*Eastw.*).
+Eastwood, Alice (1859-1953), American botanist mainly working on the flora of California, curator of the herbarium at the California Academy of Sciences 1894-1949. 
+**Abbreviated name**: *Eastw.*
 
 #### Herbarium and types
 

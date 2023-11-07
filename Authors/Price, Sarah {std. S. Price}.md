@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103624#page/413/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33189870) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Price, Sarah (*fl*. 1864), British botanical illustrator. (*S. Price*).
+Price, Sarah (*fl*. 1864), British botanical illustrator. 
+**Abbreviated name**: *S. Price*
 
 #### Herbarium and types
 

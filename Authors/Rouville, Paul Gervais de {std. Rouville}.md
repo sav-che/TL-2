@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/item/103624#page/958/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33190415) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rouville, Paul Gervais de (1823-1907), French geologist, palaeontologist and botanist; Dr. sci. Montpellier 1853; professor of geology and mineralogy at the University of Monpellier 1862-1894. (*Rouville*).
+Rouville, Paul Gervais de (1823-1907), French geologist, palaeontologist and botanist; Dr. sci. Montpellier 1853; professor of geology and mineralogy at the University of Monpellier 1862-1894. 
+**Abbreviated name**: *Rouville*
 
 #### Herbarium and types
 

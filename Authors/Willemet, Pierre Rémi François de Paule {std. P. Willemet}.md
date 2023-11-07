@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/103250#page/373/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33066653) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willemet, Pierre Rémi François de Paule (1762-1790), French botanist and physician; Dr. phil. Paris 1783; from 1784-1788 studying at military hospitals in Strasbourg; habil. Collège de médecine Nancy 1788; to Mysore in 1789 (physician to Tippo Saib); died at Seringapatnum 1790; son of P.R. Willemet; uncle of Soyer-Willemet. (*P. Willemet*).
+Willemet, Pierre Rémi François de Paule (1762-1790), French botanist and physician; Dr. phil. Paris 1783; from 1784-1788 studying at military hospitals in Strasbourg; habil. Collège de médecine Nancy 1788; to Mysore in 1789 (physician to Tippo Saib); died at Seringapatnum 1790; son of P.R. Willemet; uncle of Soyer-Willemet. 
+**Abbreviated name**: *P. Willemet*
 
 #### Herbarium and types
 

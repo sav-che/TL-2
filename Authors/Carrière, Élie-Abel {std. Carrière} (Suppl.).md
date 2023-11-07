@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103861#page/432/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33266729) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carrière, Élie Abel {std. Carrière}|first entry]] for this author
 
 ### Author
 
-\* Carrière, Élie-Abel (1818-1896), French horticulturist at Paris, born at May-en-Multien (Seine-et-Marne), educated at a primary school at May-en-Multien, market-gardener at Aunet, gardener at the Muséum nationale d'histoire naturelle, soon "chef de culture" of the living plants until 1869, "chef" of the Revue horticole for 30 years. (*Carrière*).
+\* Carrière, Élie-Abel (1818-1896), French horticulturist at Paris, born at May-en-Multien (Seine-et-Marne), educated at a primary school at May-en-Multien, market-gardener at Aunet, gardener at the Muséum nationale d'histoire naturelle, soon "chef de culture" of the living plants until 1869, "chef" of the Revue horticole for 30 years. 
+**Abbreviated name**: *Carrière*
 
 #### Herbarium and types
 

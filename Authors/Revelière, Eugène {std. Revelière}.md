@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/103624#page/760/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Revelière, Eugène (1822-1892), French botanist and entomologist at Saumur; collected in Corsica 1854 and 1856-1858, later also in Algeria; ultimately living in Corsica. (*Revelière*).
+Revelière, Eugène (1822-1892), French botanist and entomologist at Saumur; collected in Corsica 1854 and 1856-1858, later also in Algeria; ultimately living in Corsica. 
+**Abbreviated name**: *Revelière*
 
 #### Herbarium and types
 

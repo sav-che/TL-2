@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103859#page/381/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33265568) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bosshard, Walter (fl. 1927-1928), German explorer on the German Central Asian Expedition of 1927-1928. (*Bossh.*).
+Bosshard, Walter (fl. 1927-1928), German explorer on the German Central Asian Expedition of 1927-1928. 
+**Abbreviated name**: *Bossh.*
 
 #### Herbarium and types
 

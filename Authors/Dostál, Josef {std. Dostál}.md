@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103835#page/72/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33260050) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dostál, Josef (1903-x), Czech (Bohemian) botanist, born 20 Dec 1903 at Praha, assistant botanist at the University Karlovy 1928-1955, from 1963 at the University of Palackého v Olomouci. (*Dostál*).
+Dostál, Josef (1903-x), Czech (Bohemian) botanist, born 20 Dec 1903 at Praha, assistant botanist at the University Karlovy 1928-1955, from 1963 at the University of Palackého v Olomouci. 
+**Abbreviated name**: *Dostál*
 
 #### Herbarium and types
 

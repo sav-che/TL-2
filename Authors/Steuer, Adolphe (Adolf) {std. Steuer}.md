@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/item/104077#page/925/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/page/33334050) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steuer, Adolphe \[Adolf\] (1871-?), Bohemian-born Austrian, marine biologist, later professor of zoology at the University of Innsbrück. (*Steuer*).
+Steuer, Adolphe \[Adolf\] (1871-?), Bohemian-born Austrian, marine biologist, later professor of zoology at the University of Innsbrück. 
+**Abbreviated name**: *Steuer*
 
 #### Herbarium and types
 

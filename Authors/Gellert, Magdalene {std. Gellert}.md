@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103832#page/183/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33258649) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gellert, Magdalene (fl. 1922-1923), German botanist, studied plant physiology at the Univ. of Berlin. (*Gellert*).
+Gellert, Magdalene (fl. 1922-1923), German botanist, studied plant physiology at the Univ. of Berlin. 
+**Abbreviated name**: *Gellert*
 
 #### Herbarium and types
 

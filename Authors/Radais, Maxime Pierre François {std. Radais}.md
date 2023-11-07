@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/item/103624#page/547/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33190004) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Radais, Maxime Pierre François (1861-?), French botanist; from 1887 connected with the "École de Pharmacie", Paris, ultimately as professor of cryptogamy; Dr. sci. nat. Paris 1894. (*Radais*).
+Radais, Maxime Pierre François (1861-?), French botanist; from 1887 connected with the "École de Pharmacie", Paris, ultimately as professor of cryptogamy; Dr. sci. nat. Paris 1894. 
+**Abbreviated name**: *Radais*
 
 #### Herbarium and types
 

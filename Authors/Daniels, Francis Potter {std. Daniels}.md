@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/103414#page/645/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33120728) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Daniels, Francis Potter {std. Daniels} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Daniels, Francis Potter (1869-1947), American botanist. (*F. P. Daniels*).
+Daniels, Francis Potter (1869-1947), American botanist. 
+**Abbreviated name**: *F. P. Daniels*
 
 #### Herbarium and types
 

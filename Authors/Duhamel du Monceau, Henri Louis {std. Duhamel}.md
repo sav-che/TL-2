@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/item/103414#page/740/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33120823) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duhamel du Monceau, Henri Louis {std. Duhamel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Duhamel du Monceau, Henri Louis (1700-1782), French agronomist, naval technologist, forester and botanist; "inspecteur général de la Marine." (*Duhamel*).
+Duhamel du Monceau, Henri Louis (1700-1782), French agronomist, naval technologist, forester and botanist; "inspecteur général de la Marine." 
+**Abbreviated name**: *Duhamel*
 
 #### Herbarium and types
 

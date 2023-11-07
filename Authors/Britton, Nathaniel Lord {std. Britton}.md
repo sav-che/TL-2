@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103414#page/380/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33120463) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Britton, Nathaniel Lord {std. Britton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Britton, Nathaniel Lord (1859-1934), American botanist, founder and first director of The New York Botanical Garden, husband of Elizabeth Gertrude Britton. (*Britton*).
+Britton, Nathaniel Lord (1859-1934), American botanist, founder and first director of The New York Botanical Garden, husband of Elizabeth Gertrude Britton. 
+**Abbreviated name**: *Britton*
 
 #### Herbarium and types
 

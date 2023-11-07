@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103624#page/27/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palhinha, Ruy Telles (1871-1957), Azores-born Portugese botanist; high school teacher at Lisbon, later at the Botanical Institute of the University of Lisbon (director 1921-1941). (*Palhinha*).
+Palhinha, Ruy Telles (1871-1957), Azores-born Portugese botanist; high school teacher at Lisbon, later at the Botanical Institute of the University of Lisbon (director 1921-1941). 
+**Abbreviated name**: *Palhinha*
 
 #### Herbarium and types
 

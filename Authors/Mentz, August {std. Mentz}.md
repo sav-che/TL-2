@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/104137#page/432/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mentz, August (1867-1944), Danish botanist; Dr. phil. 1912; professor of botany at an agricultural college at Copenhagen from 1923-1931. (*Mentz*).
+Mentz, August (1867-1944), Danish botanist; Dr. phil. 1912; professor of botany at an agricultural college at Copenhagen from 1923-1931. 
+**Abbreviated name**: *Mentz*
 
 #### Herbarium and types
 

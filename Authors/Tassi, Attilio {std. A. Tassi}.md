@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103683#page/183/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33212215) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tassi, Attilio (1820-1905), Italian (Tuscany) botanist; studied at Pisa; assistant with the chair of natural history (G. Savi) at Pisa 1839-1850; Laur. Sci. nat. Pisa 1842; director of the Botanical Garden Lucia 1850-1860; director of the Botanical Garden and professor of botany at the University of Siena 1860-1905; took part, on the Tuscan side, in the battle of Curtatone and Montanara 1848. (*A. Tassi*).
+Tassi, Attilio (1820-1905), Italian (Tuscany) botanist; studied at Pisa; assistant with the chair of natural history (G. Savi) at Pisa 1839-1850; Laur. Sci. nat. Pisa 1842; director of the Botanical Garden Lucia 1850-1860; director of the Botanical Garden and professor of botany at the University of Siena 1860-1905; took part, on the Tuscan side, in the battle of Curtatone and Montanara 1848. 
+**Abbreviated name**: *A. Tassi*
 
 #### Herbarium and types
 

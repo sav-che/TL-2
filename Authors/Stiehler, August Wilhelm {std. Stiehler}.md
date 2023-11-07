@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103683#page/11/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stiehler, August Wilhelm (1797-1878), German (Prussian-Saxony) lawyer and paleobotanist; magistrate at Wernigerode, later in Quedlinburg. (*Stiehler*).
+Stiehler, August Wilhelm (1797-1878), German (Prussian-Saxony) lawyer and paleobotanist; magistrate at Wernigerode, later in Quedlinburg. 
+**Abbreviated name**: *Stiehler*
 
 #### Herbarium and types
 

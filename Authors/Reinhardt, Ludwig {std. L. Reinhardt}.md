@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/item/103624#page/715/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinhardt, Ludwig (*fl*. 1910), Swiss or German botanist at Basel. (*L. Reinhardt*).
+Reinhardt, Ludwig (*fl*. 1910), Swiss or German botanist at Basel. 
+**Abbreviated name**: *L. Reinhardt*
 
 #### Herbarium and types
 

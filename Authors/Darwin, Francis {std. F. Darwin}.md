@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103833#page/91/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33259125) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darwin, Francis (1848-1925), British botanist, third son of Charles and Emma Darwin, educated at home and at Clapham Grammar School, 1866-1869 at Trinity Cambridge BA Cantab. 1870, 1869-1874 at the Brown Institute, MB 1875, with Sachs at Würzburg 1874-1876, from then on living at Down, at Cambridge University Lecturer 1884-1888, later University Reader 1888-1904, deputy to Charles Babington 1892-1895, died 19 Sep 1925 at Cambridge. (*F. Darwin*).
+Darwin, Francis (1848-1925), British botanist, third son of Charles and Emma Darwin, educated at home and at Clapham Grammar School, 1866-1869 at Trinity Cambridge BA Cantab. 1870, 1869-1874 at the Brown Institute, MB 1875, with Sachs at Würzburg 1874-1876, from then on living at Down, at Cambridge University Lecturer 1884-1888, later University Reader 1888-1904, deputy to Charles Babington 1892-1895, died 19 Sep 1925 at Cambridge. 
+**Abbreviated name**: *F. Darwin*
 
 #### Herbarium and types
 

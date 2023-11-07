@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/item/104077#page/508/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33333633) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seits, Tobias Anton (1772-1833), Austrian botanist and clergyman; priest at Mondsee in Upper Austria. (*Seits*).
+Seits, Tobias Anton (1772-1833), Austrian botanist and clergyman; priest at Mondsee in Upper Austria. 
+**Abbreviated name**: *Seits*
 
 #### Herbarium and types
 

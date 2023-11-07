@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/item/103414#page/955/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33121038) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Galzin, Amédée (1853-1925), French military veterinary surgeon and mycologist. (*Galzin*).
+Galzin, Amédée (1853-1925), French military veterinary surgeon and mycologist. 
+**Abbreviated name**: *Galzin*
 
 #### Herbarium and types
 

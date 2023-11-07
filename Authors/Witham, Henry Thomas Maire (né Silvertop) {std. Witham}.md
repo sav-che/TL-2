@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103250#page/457/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33066737) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Witham, Henry Thomas Maire (né Silvertop) (1779-1844), British geologist and palaeobotanist; married Eliza Witham of Headlam 1800; sheriff of County Durham; from 1801-1826 living at Larbington, subsequently living in Edinburgh; founder, 1829, of the Natural History Society of Northumberland. (*Witham*).
+Witham, Henry Thomas Maire (né Silvertop) (1779-1844), British geologist and palaeobotanist; married Eliza Witham of Headlam 1800; sheriff of County Durham; from 1801-1826 living at Larbington, subsequently living in Edinburgh; founder, 1829, of the Natural History Society of Northumberland. 
+**Abbreviated name**: *Witham*
 
 #### Herbarium and types
 

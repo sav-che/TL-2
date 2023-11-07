@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103253#page/234/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33068450) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hinds, Richard Brinsley (1812-1847), British naval surgeon; attached as surgeon naturalist to HMS Sulphur (1836-1842). (*Hinds*).
+Hinds, Richard Brinsley (1812-1847), British naval surgeon; attached as surgeon naturalist to HMS Sulphur (1836-1842). 
+**Abbreviated name**: *Hinds*
 
 #### Herbarium and types
 

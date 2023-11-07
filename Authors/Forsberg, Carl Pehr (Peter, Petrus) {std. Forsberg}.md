@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103834#page/343/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259825) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forsberg, Carl Pehr \[Peter, Petrus\] (1793-1832), Swedish botanist and physician, born 1 Feb 1793 in Jönköping, son of C.P. Thunberg's half-brother (later adopted by Thunberg and his wife), studied at Uppsala, amanuensis at the botanical garden and museum 1814, Dr. med. 1817 and demonstrator in botany at Uppsala Univ., moved to Karlsborg 1832, died 20 Apr 1832 in Vanäs (Väster Götland). (*Forsberg*).
+Forsberg, Carl Pehr \[Peter, Petrus\] (1793-1832), Swedish botanist and physician, born 1 Feb 1793 in Jönköping, son of C.P. Thunberg's half-brother (later adopted by Thunberg and his wife), studied at Uppsala, amanuensis at the botanical garden and museum 1814, Dr. med. 1817 and demonstrator in botany at Uppsala Univ., moved to Karlsborg 1832, died 20 Apr 1832 in Vanäs (Väster Götland). 
+**Abbreviated name**: *Forsberg*
 
 #### Herbarium and types
 

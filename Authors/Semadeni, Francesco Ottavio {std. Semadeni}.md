@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/item/104077#page/516/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Semadeni, Francesco Ottavio (*fl*. 1904), Swiss mycologist; Dr. phil. Bern 1904. (*Semadeni*).
+Semadeni, Francesco Ottavio (*fl*. 1904), Swiss mycologist; Dr. phil. Bern 1904. 
+**Abbreviated name**: *Semadeni*
 
 #### Herbarium and types
 

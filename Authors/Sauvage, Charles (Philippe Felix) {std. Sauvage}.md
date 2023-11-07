@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/104077#page/89/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33333214) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sauvage, Charles \[Philippe Felix\] (1909-1980), French botanist; studied at the École normale supérieure and the Faculté des Sciences, Paris; assistant for botany at the École normale supérieure 1935-1938; head of the Laboratory for phanerogamy of the Institut scientifiqiue chérifien, Rabat, Marocco, 1939-1962; director ib. 1960-1962; professor of botany (titular) at the Université des Sciences du Languedoc, Montpellier, 1962-1965; director of the Institut de botanique Montpellier 1965-1969; director of the Centre d'études phytosociologiques ib. 1969-1974. (*Sauvage*).
+Sauvage, Charles \[Philippe Felix\] (1909-1980), French botanist; studied at the École normale supérieure and the Faculté des Sciences, Paris; assistant for botany at the École normale supérieure 1935-1938; head of the Laboratory for phanerogamy of the Institut scientifiqiue chérifien, Rabat, Marocco, 1939-1962; director ib. 1960-1962; professor of botany (titular) at the Université des Sciences du Languedoc, Montpellier, 1962-1965; director of the Institut de botanique Montpellier 1965-1969; director of the Centre d'études phytosociologiques ib. 1969-1974. 
+**Abbreviated name**: *Sauvage*
 
 #### Herbarium and types
 

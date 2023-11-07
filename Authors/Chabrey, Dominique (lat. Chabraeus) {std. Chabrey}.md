@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/103414#page/529/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chabrey, Dominique (lat. Chabraeus) (1610-1669), Swiss physician and botanist at Genève, Montbéliard and Yverdon. (*Chabrey*).
+Chabrey, Dominique (lat. Chabraeus) (1610-1669), Swiss physician and botanist at Genève, Montbéliard and Yverdon. 
+**Abbreviated name**: *Chabrey*
 
 #### Herbarium and types
 

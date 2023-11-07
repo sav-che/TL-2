@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103683#page/185/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33212217) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tate, George Ralph (1835-1874), British physician and botanist; MD Edinburgh; assistant surgeon Royal Artillery; collected in China 1862-1864; son of George Tate (1805-1871). (*G.R. Tate*).
+Tate, George Ralph (1835-1874), British physician and botanist; MD Edinburgh; assistant surgeon Royal Artillery; collected in China 1862-1864; son of George Tate (1805-1871). 
+**Abbreviated name**: *G.R. Tate*
 
 #### Herbarium and types
 

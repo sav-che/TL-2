@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/item/103253#page/545/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33068761) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kellogg, Albert (1813-1887), American physician and botanist in California; one of the seven founders of the California Academy of Sciences (4 Apr 1853); first resident botanist in California (1849). (*Kellogg*).
+Kellogg, Albert (1813-1887), American physician and botanist in California; one of the seven founders of the California Academy of Sciences (4 Apr 1853); first resident botanist in California (1849). 
+**Abbreviated name**: *Kellogg*
 
 #### Herbarium and types
 

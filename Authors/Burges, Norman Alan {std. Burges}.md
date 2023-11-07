@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/item/103861#page/248/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33266545) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burges, Norman Alan (1911-x), English bryologist and mycologist, at the Botany Department of the University of Liverpool. (*Burges*).
+Burges, Norman Alan (1911-x), English bryologist and mycologist, at the Botany Department of the University of Liverpool. 
+**Abbreviated name**: *Burges*
 
 #### Herbarium and types
 

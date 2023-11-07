@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/item/104137#page/133/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33355204) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lisa, Domenico (1801-1867) Italian botanist in Piemonte, head gardner at the Torino botanical garden. (*Lisa*).
+Lisa, Domenico (1801-1867) Italian botanist in Piemonte, head gardner at the Torino botanical garden. 
+**Abbreviated name**: *Lisa*
 
 #### Herbarium and types
 

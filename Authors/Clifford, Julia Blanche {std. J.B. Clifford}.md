@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103860#page/228/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33265895) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clifford, Julia Blanche (1864-1918), American botanist, born 1864, died 18 Apr 1918, Pasadena, California, studied and worked at the University of Michigan 1894-1896 (non-grad.). (*J.B. Clifford*).
+Clifford, Julia Blanche (1864-1918), American botanist, born 1864, died 18 Apr 1918, Pasadena, California, studied and worked at the University of Michigan 1894-1896 (non-grad.). 
+**Abbreviated name**: *J.B. Clifford*
 
 #### Herbarium and types
 

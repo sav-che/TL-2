@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/item/103683#page/701/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33212733) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Velenovský, Josef (1858-1949), Bohemian botanist (taxonomist, morphologist, palaeobotanist, bryologist and mycologist); extraordinary prof. of phytopathology at the Charles University, Praha 1892; ordinary prof. of phytopathology and plant systematics ib. 1898-1927; director of the botanical garden of Charles University 1900-1927. (*Velen.*).
+Velenovský, Josef (1858-1949), Bohemian botanist (taxonomist, morphologist, palaeobotanist, bryologist and mycologist); extraordinary prof. of phytopathology at the Charles University, Praha 1892; ordinary prof. of phytopathology and plant systematics ib. 1898-1927; director of the botanical garden of Charles University 1900-1927. 
+**Abbreviated name**: *Velen.*
 
 #### Herbarium and types
 

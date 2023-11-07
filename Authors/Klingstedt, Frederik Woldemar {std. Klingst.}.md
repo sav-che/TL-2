@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/103253#page/594/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33068810) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klingstedt, Frederik Woldemar (1881-1964), Finnish botanist and chemist at Turku. (*Klingst.*).
+Klingstedt, Frederik Woldemar (1881-1964), Finnish botanist and chemist at Turku. 
+**Abbreviated name**: *Klingst.*
 
 #### Herbarium and types
 

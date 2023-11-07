@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/item/103683#page/569/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33212601) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tweedy, Frank (1854-1937), American topographic engineer and botanical collector; collected chiefly in Montana, Yellowstone and the Pacific West while on the North Transcontinental Survey 1882-1883 and with the U.S. Geological Service 1884-1915. (*Tweedy*).
+Tweedy, Frank (1854-1937), American topographic engineer and botanical collector; collected chiefly in Montana, Yellowstone and the Pacific West while on the North Transcontinental Survey 1882-1883 and with the U.S. Geological Service 1884-1915. 
+**Abbreviated name**: *Tweedy*
 
 #### Herbarium and types
 

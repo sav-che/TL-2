@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103861#page/246/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33266543) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burgerstein, Alfred (1850-1929), Austrian botanist and teacher, born and died in Vienna, Dr. phil. University of Vienna, lecturer at this university in anatomy and physiology 1894, professor of natural history at the Leopoldst. Realgymnasium 1875, extraordinary professor at the University 1903, next to his gymnasium teaching, extraordinary professor of physiology and anatomy of plants at the University of Vienna 1908, "Regierungsrat" 1909. (*Burgerstein*).
+Burgerstein, Alfred (1850-1929), Austrian botanist and teacher, born and died in Vienna, Dr. phil. University of Vienna, lecturer at this university in anatomy and physiology 1894, professor of natural history at the Leopoldst. Realgymnasium 1875, extraordinary professor at the University 1903, next to his gymnasium teaching, extraordinary professor of physiology and anatomy of plants at the University of Vienna 1908, "Regierungsrat" 1909. 
+**Abbreviated name**: *Burgerstein*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103253#page/419/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33068635) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaap, Otto (1864-1922), German botanist and entomologist; from 1884-1887 high school teacher at Triglitz, from 1887-1912 at Hamburg. (*Jaap*).
+Jaap, Otto (1864-1922), German botanist and entomologist; from 1884-1887 high school teacher at Triglitz, from 1887-1912 at Hamburg. 
+**Abbreviated name**: *Jaap*
 
 #### Herbarium and types
 

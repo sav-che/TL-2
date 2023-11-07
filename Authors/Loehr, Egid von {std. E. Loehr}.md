@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/item/104137#page/155/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33355226) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loehr, Egid von (*fl. 1848*), German botanist. (*E. Loehr*).
+Loehr, Egid von (*fl. 1848*), German botanist. 
+**Abbreviated name**: *E. Loehr*
 
 #### Herbarium and types
 

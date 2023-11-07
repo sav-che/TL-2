@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/103414#page/342/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33120425) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boulger, George (Edward) Simmonds {std. Boulger} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boulger, George Edward Simmonds (1853-1922), British botanist at Cirencester and London. (*Boulger*).
+Boulger, George Edward Simmonds (1853-1922), British botanist at Cirencester and London. 
+**Abbreviated name**: *Boulger*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103250#page/352/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33066632) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wildt, Albin (1845-1927), Moravian mining engineer; studied at Brünn (Brno) and Leoben; with mines in Stanz (Steiermark), from 1868 with the Austrian railroads, from 1869-1882 as such in Roschitza and Quina in the Banat; in Kladno 1882-1889; from 1889-1892 in Oravica, Banat; with various mines in Zöptau, Keltschau and Gaya from 1892-1901; in retirement living in Brünn. (*A. Wildt*).
+Wildt, Albin (1845-1927), Moravian mining engineer; studied at Brünn (Brno) and Leoben; with mines in Stanz (Steiermark), from 1868 with the Austrian railroads, from 1869-1882 as such in Roschitza and Quina in the Banat; in Kladno 1882-1889; from 1889-1892 in Oravica, Banat; with various mines in Zöptau, Keltschau and Gaya from 1892-1901; in retirement living in Brünn. 
+**Abbreviated name**: *A. Wildt*
 
 #### Herbarium and types
 

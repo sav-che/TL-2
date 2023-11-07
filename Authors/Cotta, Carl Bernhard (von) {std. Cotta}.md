@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/103414#page/605/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33120688) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cotta, Carl Bernhard \[von\] (1808-1879), German geologist, professor at the mining academy of Freiberg (Sachsen). (*Cotta*).
+Cotta, Carl Bernhard \[von\] (1808-1879), German geologist, professor at the mining academy of Freiberg (Sachsen). 
+**Abbreviated name**: *Cotta*
 
 #### Collections
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/item/104137#page/617/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33355688) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moser, Heinrich Christoph (*fl*. 1794), German botanist (*Moser*).
+Moser, Heinrich Christoph (*fl*. 1794), German botanist 
+**Abbreviated name**: *Moser*
 
 #### Herbarium and types
 

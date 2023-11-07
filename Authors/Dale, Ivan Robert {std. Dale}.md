@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/item/103833#page/37/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33259071) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dale, Ivan Robert (1904-1963), British botanist and forester, born 1904, B.A. Oxford 1928, in forest department Kenya 1928-1938, in Uganda 1938-1952, settled in Kenya 1952, died 9 Dec 1963 Johannesburg. (*Dale*).
+Dale, Ivan Robert (1904-1963), British botanist and forester, born 1904, B.A. Oxford 1928, in forest department Kenya 1928-1938, in Uganda 1938-1952, settled in Kenya 1952, died 9 Dec 1963 Johannesburg. 
+**Abbreviated name**: *Dale*
 
 #### Herbarium and types
 

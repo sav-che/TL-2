@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103860#page/57/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chambray, Marquis Georges de (1783-1849), French botanist born in Paris, died in Breteuil, Eure. (*Chambray*).
+Chambray, Marquis Georges de (1783-1849), French botanist born in Paris, died in Breteuil, Eure. 
+**Abbreviated name**: *Chambray*
 
 #### Herbarium and types
 

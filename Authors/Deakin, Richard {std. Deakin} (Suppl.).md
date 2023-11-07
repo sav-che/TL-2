@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103833#page/130/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33259164) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deakin, Richard {std. Deakin}|first entry]] for this author
 
 ### Author
 
-\* Deakin, Richard (1808/09-1873), British physician and botanist, MD. Pisa 1838, practised at Sheffield, died at Tunbridge Wells. (*Deakin*).
+\* Deakin, Richard (1808/09-1873), British physician and botanist, MD. Pisa 1838, practised at Sheffield, died at Tunbridge Wells. 
+**Abbreviated name**: *Deakin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103834#page/278/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259760) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flett, John Bakkie (1857-1942), Scottish-born American botanist who specialized in the flora of Washington state, born 11 Mai 1857 in Orkney Islands, Scotland, graduated Hamilton College, Clinton, New York 1885, teacher and school principal, New York state 1885-1892, Vermont 1892-1893 and Tacoma, Washington 1893-1913, U.S. Natl. Park Service 1913-1921, superintendent of a private park in Bremerton, Washington from 1923, died in Zenith, Washington. (*Flett*).
+Flett, John Bakkie (1857-1942), Scottish-born American botanist who specialized in the flora of Washington state, born 11 Mai 1857 in Orkney Islands, Scotland, graduated Hamilton College, Clinton, New York 1885, teacher and school principal, New York state 1885-1892, Vermont 1892-1893 and Tacoma, Washington 1893-1913, U.S. Natl. Park Service 1913-1921, superintendent of a private park in Bremerton, Washington from 1923, died in Zenith, Washington. 
+**Abbreviated name**: *Flett*
 
 #### Herbarium and types
 

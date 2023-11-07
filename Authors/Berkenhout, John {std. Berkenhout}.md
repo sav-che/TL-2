@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103414#page/243/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33120326) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berkenhout, John (1730-1791), British botanist. (*Berkenhout*).
+Berkenhout, John (1730-1791), British botanist. 
+**Abbreviated name**: *Berkenhout*
 
 #### Herbarium and types
 

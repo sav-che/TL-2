@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/104137#page/139/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33355210) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Llenas y Fernández, Manuel (fl. 1900) Spanish lichenologist; originally at Madrid; later at Barcelona. (*Llenas*).
+Llenas y Fernández, Manuel (fl. 1900) Spanish lichenologist; originally at Madrid; later at Barcelona. 
+**Abbreviated name**: *Llenas*
 
 #### Herbarium and types
 

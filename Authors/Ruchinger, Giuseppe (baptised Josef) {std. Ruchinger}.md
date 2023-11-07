@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/item/103624#page/981/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/page/33190438) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruchinger, Giuseppe \[baptised: Josef\] (1761-1847), German (Bavarian) gardener and botanist; from 1798-1815 in Triest; head gardener of the Botanical Garden of S. Giobbe in Venezia. (*Ruchinger*).
+Ruchinger, Giuseppe \[baptised: Josef\] (1761-1847), German (Bavarian) gardener and botanist; from 1798-1815 in Triest; head gardener of the Botanical Garden of S. Giobbe in Venezia. 
+**Abbreviated name**: *Ruchinger*
 
 #### Herbarium and types
 

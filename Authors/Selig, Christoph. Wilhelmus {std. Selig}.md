@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/item/104077#page/512/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Selig, Christoph. Wilhelmus (*fl*. 1802), German (Bavarian) physician and botanist (*Selig*).
+Selig, Christoph. Wilhelmus (*fl*. 1802), German (Bavarian) physician and botanist 
+**Abbreviated name**: *Selig*
 
 #### Herbarium and types
 

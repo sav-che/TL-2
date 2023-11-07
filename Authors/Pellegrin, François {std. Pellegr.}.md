@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103624#page/161/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33189618) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pellegrin, François (1881-1965), French botanist; from 1912 at the Museum d'Histoire naturelle, Paris; Dr. Sci. Paris 1908; Croix de Guerre 1914-1918. (*Pellegr.*).
+Pellegrin, François (1881-1965), French botanist; from 1912 at the Museum d'Histoire naturelle, Paris; Dr. Sci. Paris 1908; Croix de Guerre 1914-1918. 
+**Abbreviated name**: *Pellegr.*
 
 #### Herbarium and types
 

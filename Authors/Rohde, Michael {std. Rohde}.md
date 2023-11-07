@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/item/103624#page/875/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33190332) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rohde, Michael (1782-1812), German (Bremen) botanist and physician; Dr. med. Göttingen 1804; continued his medical studies at various universities in Germany, Austria and France 1804-1808; practicing physician and active amateur botanist at Bremen 1809-1812; state examination med. Bremen 1809. (*Rohde*).
+Rohde, Michael (1782-1812), German (Bremen) botanist and physician; Dr. med. Göttingen 1804; continued his medical studies at various universities in Germany, Austria and France 1804-1808; practicing physician and active amateur botanist at Bremen 1809-1812; state examination med. Bremen 1809. 
+**Abbreviated name**: *Rohde*
 
 #### Herbarium and types
 

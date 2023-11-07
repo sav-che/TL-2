@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103683#page/302/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33212334) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thorenaar, Adriaan (1894-1977), Dutch forest officer, silviculturist and soil scientist; entered the Dutch East Indies Forest Service 1919; in E. Java 1919-1920; 1920-1925 at Palembang; at Buitenzorg 1925-1937, from 1934 as teacher at the Buitenzorg \[Bogor\] Agricultural School; from 1937 at Poerworedja; ultimately at Voorburg nr The Hague; Dr. phil. Wageningen 1926. (*Thorenaar*).
+Thorenaar, Adriaan (1894-1977), Dutch forest officer, silviculturist and soil scientist; entered the Dutch East Indies Forest Service 1919; in E. Java 1919-1920; 1920-1925 at Palembang; at Buitenzorg 1925-1937, from 1934 as teacher at the Buitenzorg \[Bogor\] Agricultural School; from 1937 at Poerworedja; ultimately at Voorburg nr The Hague; Dr. phil. Wageningen 1926. 
+**Abbreviated name**: *Thorenaar*
 
 #### Herbarium and types
 

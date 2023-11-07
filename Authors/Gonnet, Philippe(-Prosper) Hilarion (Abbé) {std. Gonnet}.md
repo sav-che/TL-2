@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103832#page/307/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33258773) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gonnet, Philippe\[-Prosper ?\] Hilarion (Abbé) (1796-1861), French cleric and botanist, born 12 Oct 1796 in Baucet (Vaucluse), ordained 1820 and held various posts in Gard from 1840 until his death 10 Feb 1861 in Tresques. (*Gonnet*).
+Gonnet, Philippe\[-Prosper ?\] Hilarion (Abbé) (1796-1861), French cleric and botanist, born 12 Oct 1796 in Baucet (Vaucluse), ordained 1820 and held various posts in Gard from 1840 until his death 10 Feb 1861 in Tresques. 
+**Abbreviated name**: *Gonnet*
 
 #### Herbarium and types
 

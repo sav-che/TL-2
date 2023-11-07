@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/item/103414#page/959/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/page/33121042) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Garcia de Orta (*fl*. 1490-1570), Portuguese colonial administrator, explorer and botanist. (*Garcia de Orta*).
+Garcia de Orta (*fl*. 1490-1570), Portuguese colonial administrator, explorer and botanist. 
+**Abbreviated name**: *Garcia de Orta*
 
 #### Herbarium and types
 

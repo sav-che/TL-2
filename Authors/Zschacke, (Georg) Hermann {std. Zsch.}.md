@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/item/103250#page/618/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33066898) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zschacke, \[Georg\] Hermann (1867-1937), German botanist and high school teacher; studied at the Teachers College of Köthen; teacher's exam. Dessau 1889; junior high school teacher's exam. Magdeburg 1892; at Zerbst 1887-1892, at Hecklingen 1892-1898; from 1898-1924 at a Girl's high school in Bernburg; in captivity 1914-1916; in Davos 1916-1917. (*Zsch.*).
+Zschacke, \[Georg\] Hermann (1867-1937), German botanist and high school teacher; studied at the Teachers College of Köthen; teacher's exam. Dessau 1889; junior high school teacher's exam. Magdeburg 1892; at Zerbst 1887-1892, at Hecklingen 1892-1898; from 1898-1924 at a Girl's high school in Bernburg; in captivity 1914-1916; in Davos 1916-1917. 
+**Abbreviated name**: *Zsch.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/item/104137#page/741/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33355812) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nelson, Elias Emanuel (1876-?), Swedish-born American botanist; pupil of Aven Nelson at Laramie, Wyoming; scientific aid USDA 1900; assistant in horticulture Univ. Wyoming 1901-1905; superintendent experimental farm Bend, Oregon 1905. (*E. E. Nels.*).
+Nelson, Elias Emanuel (1876-?), Swedish-born American botanist; pupil of Aven Nelson at Laramie, Wyoming; scientific aid USDA 1900; assistant in horticulture Univ. Wyoming 1901-1905; superintendent experimental farm Bend, Oregon 1905. 
+**Abbreviated name**: *E. E. Nels.*
 
 #### Herbarium and types
 

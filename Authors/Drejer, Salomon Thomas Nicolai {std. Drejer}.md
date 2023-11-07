@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/item/103414#page/729/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33120812) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drejer, Salomon Thomas Nicolai {std. Drejer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Drejer, Salomon Thomas Nicolai (1813-1842), Danish botanist at the veterinary school at Copenhagen, editor of *Flora danica* 1841-1842, died of snuff poisoning. (*Drejer*).
+Drejer, Salomon Thomas Nicolai (1813-1842), Danish botanist at the veterinary school at Copenhagen, editor of *Flora danica* 1841-1842, died of snuff poisoning. 
+**Abbreviated name**: *Drejer*
 
 #### Herbarium and types
 

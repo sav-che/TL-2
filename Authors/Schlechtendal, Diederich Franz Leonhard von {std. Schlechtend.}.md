@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/104077#page/204/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlechtendal, Diederich Franz Leonhard von (1794-1866), German (Cleve-born, Prussian) botanist; studied medicine and natural sciences at the Friedrich-Wilhelm-University of Berlin 1813-1819; Dr. med. ib. 1819; curator at the Royal Herbarium, Berlin 1819-1833, from 1822 in close association with A. von Chamisso; Dr. phil. h.c. Univ. Bonn 1823; habil. Berlin 1826, extraord. prof. of. botany 1827; successor to Kurt Sprengel as professor of botany and director of the botanical garden of Halle university 1833-1866; editor of Linnaea 1826-1866 and co-editor with H. Mohl of the Botanische Zeitung 1843-1866. (*Schlechtend.*).
+Schlechtendal, Diederich Franz Leonhard von (1794-1866), German (Cleve-born, Prussian) botanist; studied medicine and natural sciences at the Friedrich-Wilhelm-University of Berlin 1813-1819; Dr. med. ib. 1819; curator at the Royal Herbarium, Berlin 1819-1833, from 1822 in close association with A. von Chamisso; Dr. phil. h.c. Univ. Bonn 1823; habil. Berlin 1826, extraord. prof. of. botany 1827; successor to Kurt Sprengel as professor of botany and director of the botanical garden of Halle university 1833-1866; editor of Linnaea 1826-1866 and co-editor with H. Mohl of the Botanische Zeitung 1843-1866. 
+**Abbreviated name**: *Schlechtend.*
 
 #### Herbarium and types
 

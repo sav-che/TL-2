@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103832#page/84/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33258550) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fünfstück, Leberecht Moritz {std. Fünfstück}|first entry]] for this author
 
 ### Author
 
-\* Fünfstück \[Fuenfstueck\], \[Leberecht\] Moritz (1856-1925), German botanist (lichenologist), born 23 Mar 1856 in Dittelsdorf (Saxony), attended Johanneum at Zittau until 1875, studied mathematics and natural history (esp. botany) at the universities of Leipzig, Würzburg, Tübingen and Berlin, Dr. sci. 1884, at the Technische Hochschule in Stuttgart 1885, extraord. prof. 1895 and prof. of botany and pharmacognosy 1900, died 18 Feb 1925 in Stuttgart. (*Fünfstück*).
+\* Fünfstück \[Fuenfstueck\], \[Leberecht\] Moritz (1856-1925), German botanist (lichenologist), born 23 Mar 1856 in Dittelsdorf (Saxony), attended Johanneum at Zittau until 1875, studied mathematics and natural history (esp. botany) at the universities of Leipzig, Würzburg, Tübingen and Berlin, Dr. sci. 1884, at the Technische Hochschule in Stuttgart 1885, extraord. prof. 1895 and prof. of botany and pharmacognosy 1900, died 18 Feb 1925 in Stuttgart. 
+**Abbreviated name**: *Fünfstück*
 
 #### Herbarium and types
 

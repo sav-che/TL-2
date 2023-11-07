@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/103860#page/530/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33266197) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Curzi, Mario (1898-1944), Italian botanist and mycologist at Pavia. (*Curzi*).
+Curzi, Mario (1898-1944), Italian botanist and mycologist at Pavia. 
+**Abbreviated name**: *Curzi*
 
 #### Herbarium and types
 

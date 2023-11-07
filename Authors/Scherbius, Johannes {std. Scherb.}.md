@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/item/104077#page/153/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33333278) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scherbius, Johannes (1769-1813), German (Frankfurt a.M.) botanist and physician; Dr. med. Jena 1790, later practicing physician at Frankfurt a.M. and associated with the Senckenberg Institute. (*Scherb.*).
+Scherbius, Johannes (1769-1813), German (Frankfurt a.M.) botanist and physician; Dr. med. Jena 1790, later practicing physician at Frankfurt a.M. and associated with the Senckenberg Institute. 
+**Abbreviated name**: *Scherb.*
 
 #### Herbarium and types
 

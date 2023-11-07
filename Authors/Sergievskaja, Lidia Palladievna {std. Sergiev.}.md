@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/104077#page/527/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sergievskaja, Lidia Palladievna (1897-1970), Russian botanist at the P.N. Krilov Herbarium of the V.V. Kuibyshev State University of Tomsk. (*Sergiev.*).
+Sergievskaja, Lidia Palladievna (1897-1970), Russian botanist at the P.N. Krilov Herbarium of the V.V. Kuibyshev State University of Tomsk. 
+**Abbreviated name**: *Sergiev.*
 
 #### Herbarium and types
 

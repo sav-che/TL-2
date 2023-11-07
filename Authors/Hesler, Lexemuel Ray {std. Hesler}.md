@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103253#page/207/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33068423) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hesler, Lexemuel Ray (1888-1977), American mycologist, born in Indiana, graduate of Wabash College, phytopathologist at Cornell University 1912-1919, at University of Tennessee, Knoxville, Tenn. 1919-x. (*Hesler*).
+Hesler, Lexemuel Ray (1888-1977), American mycologist, born in Indiana, graduate of Wabash College, phytopathologist at Cornell University 1912-1919, at University of Tennessee, Knoxville, Tenn. 1919-x. 
+**Abbreviated name**: *Hesler*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/item/104077#page/873/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33333998) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steenis, Cornells Gijsbert Gerrit Jan van (1901-x). Dutch botanist; Dr. phil. Utrecht 1927; botanist Buitenzorg (Bogor) 1927-1946; repatriated 1946; director and general editor of the Flora Malesiana Foundation 1950; professor of tropical botany Amsterdam 1951, id. of floristics of the Malesian flora, Leiden 1953; director of the Leiden Rijksherbarium 1962-1972; in retirement ib. 1971 ; chief moving spirit of the Flora malesiana. (*Steenis*).
+Steenis, Cornells Gijsbert Gerrit Jan van (1901-x). Dutch botanist; Dr. phil. Utrecht 1927; botanist Buitenzorg (Bogor) 1927-1946; repatriated 1946; director and general editor of the Flora Malesiana Foundation 1950; professor of tropical botany Amsterdam 1951, id. of floristics of the Malesian flora, Leiden 1953; director of the Leiden Rijksherbarium 1962-1972; in retirement ib. 1971 ; chief moving spirit of the Flora malesiana. 
+**Abbreviated name**: *Steenis*
 
 #### Herbarium and types
 

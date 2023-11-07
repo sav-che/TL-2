@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/104137#page/221/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33355292) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lyttkens, August (1845-1925), Swedish botanist and agriculturist; at Nydala near Halmstad 1876-1913. (*Lyttkens*).
+Lyttkens, August (1845-1925), Swedish botanist and agriculturist; at Nydala near Halmstad 1876-1913. 
+**Abbreviated name**: *Lyttkens*
 
 #### Herbarium and types
 

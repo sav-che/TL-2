@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/item/104077#page/921/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33334046) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steudel, Ernst Gottlieb \[von\] (1783-1856), German (Württemberg) botanist and physician; studied medicine at Tübingen University; Dr. med. ib. 1805; from 1806 practicing physician at Esslingen, from 1826 as Königlich Würtembergischer Ober-Amts-Physikus; founder, with C.F. Hochstetter, of the "Botanischer Reiseverein", Esslingen 1825. (*Steud.*).
+Steudel, Ernst Gottlieb \[von\] (1783-1856), German (Württemberg) botanist and physician; studied medicine at Tübingen University; Dr. med. ib. 1805; from 1806 practicing physician at Esslingen, from 1826 as Königlich Würtembergischer Ober-Amts-Physikus; founder, with C.F. Hochstetter, of the "Botanischer Reiseverein", Esslingen 1825. 
+**Abbreviated name**: *Steud.*
 
 #### Herbarium and types
 

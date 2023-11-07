@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/item/103250#page/489/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33066769) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woloszcak, Eustach (1835-1918), Galician (Polish) botanist; studied law at the University of Budapest; id. medicine and natural sciences at the University of Vienna; Dr. phil. ib.; volunteer assistant with Eduard Fenzl at the Vienna Natural History Museum, later botanical assistant at the University; assistant with A. Kerner in the Vienna Botanical Institute; professor of botany at the Lemberg Polytechnic 1884 (incl. zoology from 1891) from 1900 as ordinary professor; after his retirement living in Vienna. (*Woloszack*).
+Woloszcak, Eustach (1835-1918), Galician (Polish) botanist; studied law at the University of Budapest; id. medicine and natural sciences at the University of Vienna; Dr. phil. ib.; volunteer assistant with Eduard Fenzl at the Vienna Natural History Museum, later botanical assistant at the University; assistant with A. Kerner in the Vienna Botanical Institute; professor of botany at the Lemberg Polytechnic 1884 (incl. zoology from 1891) from 1900 as ordinary professor; after his retirement living in Vienna. 
+**Abbreviated name**: *Woloszack*
 
 #### Herbarium and types
 

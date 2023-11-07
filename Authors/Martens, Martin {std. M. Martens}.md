@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/item/104137#page/333/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33355404) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martens, Martin (1797-1863), Belgian botanist at Leuven and Brussels; born in Maastricht, Netherlands; studied medicine at Liège; from 1823-1835 practicing physician at Maastricht; professor of chemistry and botany at Louvain (Leuven) 1835-1863. (*M. Martens*).
+Martens, Martin (1797-1863), Belgian botanist at Leuven and Brussels; born in Maastricht, Netherlands; studied medicine at Liège; from 1823-1835 practicing physician at Maastricht; professor of chemistry and botany at Louvain (Leuven) 1835-1863. 
+**Abbreviated name**: *M. Martens*
 
 #### Herbarium and types
 

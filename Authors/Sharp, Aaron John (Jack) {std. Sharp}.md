@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/item/104077#page/565/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33333690) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sharp, Aaron John \["Jack"\] (1904-x), American botanist; MS Univ. Oklahoma 1929; Dr. phil. Ohio State Univ. 1938; instructor in botany, University of Tennessee 1929-1937; professor of botany ib. 1937-1965; alumni distinguished service professor 1965-x; curator of the herbarium 1949-1967. (*Sharp*).
+Sharp, Aaron John \["Jack"\] (1904-x), American botanist; MS Univ. Oklahoma 1929; Dr. phil. Ohio State Univ. 1938; instructor in botany, University of Tennessee 1929-1937; professor of botany ib. 1937-1965; alumni distinguished service professor 1965-x; curator of the herbarium 1949-1967. 
+**Abbreviated name**: *Sharp*
 
 #### Herbarium and types
 

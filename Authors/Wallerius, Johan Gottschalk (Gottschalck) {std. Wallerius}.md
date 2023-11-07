@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103250#page/96/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33066376) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wallerius, Johan Gottschalk (Gottschalck) (1709-1785), Swedish agricultural chemist, mineralogist and botanist; Dr. phil. Uppsala 1731, Dr. med. ib. Lund 1735; assistant professor of medecine Lund 1732; lecturer at Uppsala 1736; practicing physician, from 1737 superintendent at Dannemarks ("Helsobrunn") nr Uppsala; assistant professor of medicine Uppsala 1741; professor of chemistry ib. 1750-1767. (*Wallerius*).
+Wallerius, Johan Gottschalk (Gottschalck) (1709-1785), Swedish agricultural chemist, mineralogist and botanist; Dr. phil. Uppsala 1731, Dr. med. ib. Lund 1735; assistant professor of medecine Lund 1732; lecturer at Uppsala 1736; practicing physician, from 1737 superintendent at Dannemarks ("Helsobrunn") nr Uppsala; assistant professor of medicine Uppsala 1741; professor of chemistry ib. 1750-1767. 
+**Abbreviated name**: *Wallerius*
 
 #### Herbarium and types
 

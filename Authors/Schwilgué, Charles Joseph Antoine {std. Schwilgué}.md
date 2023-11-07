@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/104077#page/465/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33333590) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwilgué, Charles Joseph Antoine (1774-1808), French botanist and physician; studied medicine at Strasbourg and Paris; Dr. med. Paris 1801; professor of materia medica at the "École de médecine", Paris. (*Schwilgué*).
+Schwilgué, Charles Joseph Antoine (1774-1808), French botanist and physician; studied medicine at Strasbourg and Paris; Dr. med. Paris 1801; professor of materia medica at the "École de médecine", Paris. 
+**Abbreviated name**: *Schwilgué*
 
 #### Herbarium and types
 

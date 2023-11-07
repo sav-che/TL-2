@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/item/104137#page/653/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33355724) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, J. P. (*fl*. 1878), German botanist; high school teacher at Remscheid; later at the German school in Antwerpen. (*J. P. Müll.*).
+Müller, J. P. (*fl*. 1878), German botanist; high school teacher at Remscheid; later at the German school in Antwerpen. 
+**Abbreviated name**: *J. P. Müll.*
 
 #### Herbarium and types
 

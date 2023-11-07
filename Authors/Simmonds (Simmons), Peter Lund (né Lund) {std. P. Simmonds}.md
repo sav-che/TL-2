@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/item/104077#page/620/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33333745) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simmonds (Simmons), Peter Lund (né Lund) (1814-1897), Danish-born British author, journalist, publisher, editor and exhibition commissioner in London. (*P. Simmonds*).
+Simmonds (Simmons), Peter Lund (né Lund) (1814-1897), Danish-born British author, journalist, publisher, editor and exhibition commissioner in London. 
+**Abbreviated name**: *P. Simmonds*
 
 #### Herbarium and types
 

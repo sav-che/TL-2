@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/item/103624#page/592/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33190049) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raoul, Édouard Fiacre Louis (1815-1852), French naval surgeon and botanist; for the Nanto-Bordelaise Company at Akaroa, New Zealand, to serve on l'Allier (1840-1842) and l'Aube (1842-Jan 1843); collected on Banks Peninsula, N.Z., between voyages; later on west coast of Africa; from 1849-1852 teaching medicine at Brest. (*Raoul*).
+Raoul, Édouard Fiacre Louis (1815-1852), French naval surgeon and botanist; for the Nanto-Bordelaise Company at Akaroa, New Zealand, to serve on l'Allier (1840-1842) and l'Aube (1842-Jan 1843); collected on Banks Peninsula, N.Z., between voyages; later on west coast of Africa; from 1849-1852 teaching medicine at Brest. 
+**Abbreviated name**: *Raoul*
 
 #### Herbarium and types
 

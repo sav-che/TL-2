@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/103414#page/359/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33120442) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Braune, Franz Anton Alexander von (1766-1853), Austrian botanist and *Regierungssekretär* in Salzburg. (*F. Braune*).
+Braune, Franz Anton Alexander von (1766-1853), Austrian botanist and *Regierungssekretär* in Salzburg. 
+**Abbreviated name**: *F. Braune*
 
 #### Herbarium and types
 

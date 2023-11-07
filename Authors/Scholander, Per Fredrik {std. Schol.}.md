@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/104077#page/307/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scholander, Per Fredrik (1905-1980), Norwegian botanist and zoologist; Dr. phil. Oslo 1934; research fellow physiology, Univ. Oslo 1934-1939; Rockefeller fellow U.S.A. 1939-1943; research associate at Swarthmore College 1939-1949; at Harvard medical school 1949-1951; Woods Hole 1952-1955; professor of zoophysiology Oslo 1953-1958; professor of physiology, Scripps Inst. Oceanogr. 1958. (*Schol.*).
+Scholander, Per Fredrik (1905-1980), Norwegian botanist and zoologist; Dr. phil. Oslo 1934; research fellow physiology, Univ. Oslo 1934-1939; Rockefeller fellow U.S.A. 1939-1943; research associate at Swarthmore College 1939-1949; at Harvard medical school 1949-1951; Woods Hole 1952-1955; professor of zoophysiology Oslo 1953-1958; professor of physiology, Scripps Inst. Oceanogr. 1958. 
+**Abbreviated name**: *Schol.*
 
 #### Herbarium and types
 

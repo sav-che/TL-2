@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/item/103414#page/636/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33120719) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dahlberg, Carl Gustav (*fl*. 1753), Swedish soldier in Suriname, collector for Linnaeus. (*Dahlberg*).
+Dahlberg, Carl Gustav (*fl*. 1753), Swedish soldier in Suriname, collector for Linnaeus. 
+**Abbreviated name**: *Dahlberg*
 
 #### Herbarium and types
 

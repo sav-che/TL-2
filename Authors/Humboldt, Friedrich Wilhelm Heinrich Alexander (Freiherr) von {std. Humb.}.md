@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103253#page/388/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Humboldt, Friedrich Wilhelm Heinrich Alexander \[Freiherr\] von (1769-1859), German naturalist and traveller; in tropical America with Bonpland 1799-1804; eminent geographer, biologist and cosmic scientist. (*Humb.*).
+Humboldt, Friedrich Wilhelm Heinrich Alexander \[Freiherr\] von (1769-1859), German naturalist and traveller; in tropical America with Bonpland 1799-1804; eminent geographer, biologist and cosmic scientist. 
+**Abbreviated name**: *Humb.*
 
 #### Collections
 

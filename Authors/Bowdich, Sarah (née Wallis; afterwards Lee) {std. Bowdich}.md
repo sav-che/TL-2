@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103414#page/344/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33120427) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bowdich, Sarah (née Wallis; afterwards Lee) {std. Bowdich} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bowdich, Sarah (née Wallis; afterwards Lee) (1791-1856), British botanist. (*Bowdich*).
+Bowdich, Sarah (née Wallis; afterwards Lee) (1791-1856), British botanist. 
+**Abbreviated name**: *Bowdich*
 
 #### Herbarium and types
 

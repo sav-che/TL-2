@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103833#page/371/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33259405) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Divers, W.H. (c. 1854-1942), British gardener to the Duke of Rutland at Belvoir Castle, lecturer on horticulture, Surrey County Council, born Wierton Place near Maidstone, died at Surbiton, Surrey 5 Jul 1924. (*Divers*).
+Divers, W.H. (c. 1854-1942), British gardener to the Duke of Rutland at Belvoir Castle, lecturer on horticulture, Surrey County Council, born Wierton Place near Maidstone, died at Surbiton, Surrey 5 Jul 1924. 
+**Abbreviated name**: *Divers*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103250#page/232/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33066512) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weitenweber, Wilhelm Rudolph (1804-1870), Bohemian physician and botanist in Prague; Dr. med. ib. 1830; town physican in Ellbogen 1830-1833/4; practicing physician and active publicist in Prague until 1870. (*Weitenw.*).
+Weitenweber, Wilhelm Rudolph (1804-1870), Bohemian physician and botanist in Prague; Dr. med. ib. 1830; town physican in Ellbogen 1830-1833/4; practicing physician and active publicist in Prague until 1870. 
+**Abbreviated name**: *Weitenw.*
 
 #### Herbarium and types
 

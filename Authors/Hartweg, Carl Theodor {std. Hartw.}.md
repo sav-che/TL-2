@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103253#page/96/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33068312) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hartweg, Carl Theodor (1812-1871), German botanist; son of Andreas Hartweg; botanical collector for the Horticultural Society of London in North, Central and South America 1836-1843 and 1845-1847; afterwards inspector of the ducal gardens at Schwetzingen (Baden). (*Hartw.*).
+Hartweg, Carl Theodor (1812-1871), German botanist; son of Andreas Hartweg; botanical collector for the Horticultural Society of London in North, Central and South America 1836-1843 and 1845-1847; afterwards inspector of the ducal gardens at Schwetzingen (Baden). 
+**Abbreviated name**: *Hartw.*
 
 #### Herbarium and types
 

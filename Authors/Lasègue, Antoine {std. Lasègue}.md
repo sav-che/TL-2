@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/item/103253#page/788/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33069004) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lasègue, Antoine (1793-1873), French librarian to Benjamin Delessert. (*Lasègue*).
+Lasègue, Antoine (1793-1873), French librarian to Benjamin Delessert. 
+**Abbreviated name**: *Lasègue*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103414#page/186/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33120269) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bateman, James {std. Bateman} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bateman, James (1811-1897), English horticulturist and orchidologist. (*Bateman*).
+Bateman, James (1811-1897), English horticulturist and orchidologist. 
+**Abbreviated name**: *Bateman*
 
 #### Herbarium and types
 

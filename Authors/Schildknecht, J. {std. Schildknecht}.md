@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/104077#page/172/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schildknecht, J. (*fl*. 1863), German botanist; high school teacher at Freiburg i. Br. (*Schildknecht*).
+Schildknecht, J. (*fl*. 1863), German botanist; high school teacher at Freiburg i. Br. 
+**Abbreviated name**: *Schildknecht*
 
 #### Herbarium and types
 

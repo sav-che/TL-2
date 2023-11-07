@@ -1,10 +1,11 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103858#page/361/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33265076) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
+> [!example] See also [[Gepp, Ethel Sarel (née Barton) {std. E. Gepp}|first entry]] for this author
 ### Author
 
-Barton, Ethel Sarel (1864-1922), British algologist, worked at BM and K, married 9 Jun 1902, Chelsea, Anthony Gepp. (*E. Barton*).
-
+Barton, Ethel Sarel (1864-1922), British algologist, worked at BM and K, married 9 Jun 1902, Chelsea, Anthony Gepp. 
+**Abbreviated name**: *E. Barton*
 **Alternate abbreviation:** (*E. Gepp*)
 
 #### Herbarium and types

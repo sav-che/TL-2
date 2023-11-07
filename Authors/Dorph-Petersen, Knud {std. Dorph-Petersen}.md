@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103835#page/71/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33260049) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dorph-Petersen, Knud (1872-1937), Danish veterinarian and agriculturist, born 8 Mai 1872, Barfridshöj (nr. Taastrup), Denmark, died 26 Sep 1937, secretary to the State Committee on Research in Plant Culture 1898-1902, director of the Danish State Seed Testing Station from 1903-1937. (*Dorph-Petersen*).
+Dorph-Petersen, Knud (1872-1937), Danish veterinarian and agriculturist, born 8 Mai 1872, Barfridshöj (nr. Taastrup), Denmark, died 26 Sep 1937, secretary to the State Committee on Research in Plant Culture 1898-1902, director of the Danish State Seed Testing Station from 1903-1937. 
+**Abbreviated name**: *Dorph-Petersen*
 
 #### Herbarium and types
 

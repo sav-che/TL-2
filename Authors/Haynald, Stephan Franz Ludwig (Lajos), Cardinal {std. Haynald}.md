@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103253#page/137/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33068353) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haynald, Stephan Franz Ludwig \[Lajos\], Cardinal (1816-1891), Hungarian botanist and clergyman, coadjutor, later bishop, of Siebenbürgen (1851-1867); from 1867 archbishop of Kalocsa; cardinal from 1879. (*Haynald*).
+Haynald, Stephan Franz Ludwig \[Lajos\], Cardinal (1816-1891), Hungarian botanist and clergyman, coadjutor, later bishop, of Siebenbürgen (1851-1867); from 1867 archbishop of Kalocsa; cardinal from 1879. 
+**Abbreviated name**: *Haynald*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103832#page/47/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33258475) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fries, Thore Christian Elias {std. T.C.E. Fr.}|first entry]] for this author
 
 ### Author
 
-\* Fries, Thore Christian Elias (1886-1930), Swedish botanist, born 2 Nov 1886 in Uppsala, fil. kand. 1908, fil. lic. 1912, D.Phil. 1913 and docent, all Uppsala Univ., collected with his brother R.E. Fries in E. Africa (Mount Kenya and the Aberdares) 1921-1922, appointed prof. of botany and dir., Bot. Museum, Univ. of Lund 1927, organized an exped. to S. Africa and Rhodesia with N.T. Norlindh and A.H. Weimarck 1930-1931, but died 31 Dec 1930 in Umtali (now Mutare), S. Rhodesia (now Zimbabwe) of pneumonia. (*T.C.E. Fr.*).
+\* Fries, Thore Christian Elias (1886-1930), Swedish botanist, born 2 Nov 1886 in Uppsala, fil. kand. 1908, fil. lic. 1912, D.Phil. 1913 and docent, all Uppsala Univ., collected with his brother R.E. Fries in E. Africa (Mount Kenya and the Aberdares) 1921-1922, appointed prof. of botany and dir., Bot. Museum, Univ. of Lund 1927, organized an exped. to S. Africa and Rhodesia with N.T. Norlindh and A.H. Weimarck 1930-1931, but died 31 Dec 1930 in Umtali (now Mutare), S. Rhodesia (now Zimbabwe) of pneumonia. 
+**Abbreviated name**: *T.C.E. Fr.*
 
 #### Note
 

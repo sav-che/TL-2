@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103624#page/379/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pouchet, Albert Maxime (1880-1965), French amateur mycologist at Lyon; originally a shoemaker; later shop assistant; long time president of the Société linnéenne de Lyon, "homme-champignon" (*A. Pouchet*).
+Pouchet, Albert Maxime (1880-1965), French amateur mycologist at Lyon; originally a shoemaker; later shop assistant; long time president of the Société linnéenne de Lyon, "homme-champignon" 
+**Abbreviated name**: *A. Pouchet*
 
 #### Herbarium and types
 

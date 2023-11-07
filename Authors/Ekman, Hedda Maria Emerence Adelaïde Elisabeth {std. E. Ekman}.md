@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103835#page/302/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33260280) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ekman, Hedda Maria Emerence Adelaïde Elisabeth (1862-1936), Swedish botanist, born 18 Dec 1862 at the Dylta bruk in Närke under her maiden-name Åkerhielm, married Otto Ekman (lawyer) in 1891, died 25 Mai 1936. (*E. Ekman*).
+Ekman, Hedda Maria Emerence Adelaïde Elisabeth (1862-1936), Swedish botanist, born 18 Dec 1862 at the Dylta bruk in Närke under her maiden-name Åkerhielm, married Otto Ekman (lawyer) in 1891, died 25 Mai 1936. 
+**Abbreviated name**: *E. Ekman*
 
 #### Herbarium and types
 

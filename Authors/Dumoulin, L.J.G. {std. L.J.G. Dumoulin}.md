@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103835#page/177/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33260155) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dumoulin, L.J.G. (fl. 1868), Belgian "ex-pharmacien", professor of botany and chemistry at the pharmacy school at Maastricht, secretary of the "commission médicale" in the region of Maastricht. (*L.J.G. Dumoulin*).
+Dumoulin, L.J.G. (fl. 1868), Belgian "ex-pharmacien", professor of botany and chemistry at the pharmacy school at Maastricht, secretary of the "commission médicale" in the region of Maastricht. 
+**Abbreviated name**: *L.J.G. Dumoulin*
 
 #### Herbarium and types
 

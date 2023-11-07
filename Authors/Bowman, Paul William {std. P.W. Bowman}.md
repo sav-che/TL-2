@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/103859#page/412/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33265599) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bowman, Paul William (1897-?), American botanist, born at Reading, Pennsylvania, A.B. Univ. Pennsylvania 1924, A.M. at Georg Washington 1928, PH.D. (biol.) Virginia 1930, instructor in botany at George Washington 1924-1929, fellow in biology in Virginia, 1929-1930, assistant professor in botany at George Washington, 1930-1934, id. in biology 1934-1937, assoc. professor 1937-1945, professor 1945-1962, emer. professor 1962. (*P.W. Bowman*).
+Bowman, Paul William (1897-?), American botanist, born at Reading, Pennsylvania, A.B. Univ. Pennsylvania 1924, A.M. at Georg Washington 1928, PH.D. (biol.) Virginia 1930, instructor in botany at George Washington 1924-1929, fellow in biology in Virginia, 1929-1930, assistant professor in botany at George Washington, 1930-1934, id. in biology 1934-1937, assoc. professor 1937-1945, professor 1945-1962, emer. professor 1962. 
+**Abbreviated name**: *P.W. Bowman*
 
 #### Herbarium and types
 

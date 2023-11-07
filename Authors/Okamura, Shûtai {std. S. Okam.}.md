@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/item/104137#page/831/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33355902) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Okamura, Shûtai (1877-1947), Japanese bryologist. (*S. Okam.*).
+Okamura, Shûtai (1877-1947), Japanese bryologist. 
+**Abbreviated name**: *S. Okam.*
 
 #### Herbarium and types
 

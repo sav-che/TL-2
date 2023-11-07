@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/103860#page/284/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33265951) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collins, Guy N. (1872-1938), American botanist, born in Mertensia, N.Y., long-time employed at the United States Department of Agriculture, travelled widely in Africa, Costa Rica, Guatemala, Mexico and Puerto Rico. (*G.N. Collins*).
+Collins, Guy N. (1872-1938), American botanist, born in Mertensia, N.Y., long-time employed at the United States Department of Agriculture, travelled widely in Africa, Costa Rica, Guatemala, Mexico and Puerto Rico. 
+**Abbreviated name**: *G.N. Collins*
 
 #### Herbarium and types
 

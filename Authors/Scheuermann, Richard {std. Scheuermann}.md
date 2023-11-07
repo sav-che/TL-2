@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/104077#page/157/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33333282) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheuermann, Richard (x-1949), German botanist at Hannover, Dortmund and Nordhausen. (*Scheuermann*).
+Scheuermann, Richard (x-1949), German botanist at Hannover, Dortmund and Nordhausen. 
+**Abbreviated name**: *Scheuermann*
 
 #### Herbarium and types
 

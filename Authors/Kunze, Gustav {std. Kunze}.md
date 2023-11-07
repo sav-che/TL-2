@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/item/103253#page/728/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33068944) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kunze, Gustav (1793-1851), German botanist; Dr. med. Leipzig 1819; from 1837-1851 director of the Leipzig botanical garden; professor of botany at Leipzig University (1835); induced his pupil Willkomm to go to Spain. (*Kunze*).
+Kunze, Gustav (1793-1851), German botanist; Dr. med. Leipzig 1819; from 1837-1851 director of the Leipzig botanical garden; professor of botany at Leipzig University (1835); induced his pupil Willkomm to go to Spain. 
+**Abbreviated name**: *Kunze*
 
 #### Herbarium and types
 

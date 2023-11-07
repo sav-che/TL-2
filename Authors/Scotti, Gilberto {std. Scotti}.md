@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/item/104077#page/476/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33333601) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scotti, Gilberto (1818-1880), Italian botanist. (*Scotti*).
+Scotti, Gilberto (1818-1880), Italian botanist. 
+**Abbreviated name**: *Scotti*
 
 #### Herbarium and types
 

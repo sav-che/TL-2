@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/104077#page/404/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33333529) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz-Danzig, Paul (*fl*. 1926-1935), German phycologist from Danzig. (*Schulz-Danz.*).
+Schulz-Danzig, Paul (*fl*. 1926-1935), German phycologist from Danzig. 
+**Abbreviated name**: *Schulz-Danz.*
 
 #### Herbarium and types
 

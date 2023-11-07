@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103253#page/471/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jörlin, Engelbert (1733-1810), Swedish botanist; pupil of Linnaeus; docent in natural history at Lund (1769); adjunct ib. (1781); ultimately rector of a school in Göteborg (1784). (*Jörl*).
+Jörlin, Engelbert (1733-1810), Swedish botanist; pupil of Linnaeus; docent in natural history at Lund (1769); adjunct ib. (1781); ultimately rector of a school in Göteborg (1784). 
+**Abbreviated name**: *Jörl*
 
 #### Herbarium and types
 

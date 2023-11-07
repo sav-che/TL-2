@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103833#page/174/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259208) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Degrully, Leon (fl. 1887-1907), French agronomist at Montpellier. (*Degrully*).
+Degrully, Leon (fl. 1887-1907), French agronomist at Montpellier. 
+**Abbreviated name**: *Degrully*
 
 #### Herbarium and types
 

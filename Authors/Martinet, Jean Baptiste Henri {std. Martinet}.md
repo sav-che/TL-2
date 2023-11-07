@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/104137#page/338/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33355409) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martinet, Jean Baptiste Henri (1840-?), French botanist and clergyman who worked in Peru; professor of botany at the medical school of Lima; later again in Paris. (*Martinet*).
+Martinet, Jean Baptiste Henri (1840-?), French botanist and clergyman who worked in Peru; professor of botany at the medical school of Lima; later again in Paris. 
+**Abbreviated name**: *Martinet*
 
 #### Herbarium and types
 

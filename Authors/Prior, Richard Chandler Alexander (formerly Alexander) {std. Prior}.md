@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/item/103624#page/421/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33189878) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prior, Richard Chandler Alexander (formerly Alexander) (1809-1902), British botanist; educated at Charterhouse, Oxford; B.A. 1830; Fellow Royal College of physicians 1840; from 1841 devoting himself to botany, residing at Graz (Austria) 1841-1844, from 1846-1848 in South Africa; 1849-1850 to Canada, U.S.A. and Jamaica; after 1850 living in London and from 1859 on his estate near Taunton. (*Prior*).
+Prior, Richard Chandler Alexander (formerly Alexander) (1809-1902), British botanist; educated at Charterhouse, Oxford; B.A. 1830; Fellow Royal College of physicians 1840; from 1841 devoting himself to botany, residing at Graz (Austria) 1841-1844, from 1846-1848 in South Africa; 1849-1850 to Canada, U.S.A. and Jamaica; after 1850 living in London and from 1859 on his estate near Taunton. 
+**Abbreviated name**: *Prior*
 
 #### Herbarium and types
 

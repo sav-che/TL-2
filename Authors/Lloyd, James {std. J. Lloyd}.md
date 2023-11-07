@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/104137#page/143/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33355214) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lloyd, James (1810-1896), British-born botanist educated and living at Thouaré and Nantes in France. (*J. Lloyd*).
+Lloyd, James (1810-1896), British-born botanist educated and living at Thouaré and Nantes in France. 
+**Abbreviated name**: *J. Lloyd*
 
 #### Herbarium and types
 

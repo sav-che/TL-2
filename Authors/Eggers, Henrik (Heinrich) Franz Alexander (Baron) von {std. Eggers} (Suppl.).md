@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/item/103835#page/276/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33260254) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eggers, Henrik (Heinrich) Franz Alexander Baron von {std. Eggers}|first entry]] for this author
 
 ### Author
 
-\* Eggers, Henrik (Heinrich) Franz Alexander \[Baron\] von (1844-1903), Danish officer and botanist, born 4 Dec 1844 in Schleswig, visited the gymnasium in Odense 1858-1863, studied in Copenhagen, in the Danish Army 1864, went to Mexico 1865, prisoner of war in 1866, released in 1867, travelled in S. Mexico, stayed in the Danish West Indies, 1869-1872 and 1873-1874 St. Croix, 1872-1873 and 1874-1885 St. Thomas, returned to Denmark 1887, to Venezuela in 1891 and to Ecuador 1891-1892 and 1893-1897, died 14 Mai 1903 in Leipzig. (*Eggers*).
+\* Eggers, Henrik (Heinrich) Franz Alexander \[Baron\] von (1844-1903), Danish officer and botanist, born 4 Dec 1844 in Schleswig, visited the gymnasium in Odense 1858-1863, studied in Copenhagen, in the Danish Army 1864, went to Mexico 1865, prisoner of war in 1866, released in 1867, travelled in S. Mexico, stayed in the Danish West Indies, 1869-1872 and 1873-1874 St. Croix, 1872-1873 and 1874-1885 St. Thomas, returned to Denmark 1887, to Venezuela in 1891 and to Ecuador 1891-1892 and 1893-1897, died 14 Mai 1903 in Leipzig. 
+**Abbreviated name**: *Eggers*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/103253#page/592/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33068808) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klinggräff, Carl Julius Meyer von (1809-1879), German physician and botanist; Dr. med. Königsberg 1832; at first physician at Marienwerder; from 1836 landowner at Paleschken bei Stuhm in Prussia. (*C. Klinggr.*).
+Klinggräff, Carl Julius Meyer von (1809-1879), German physician and botanist; Dr. med. Königsberg 1832; at first physician at Marienwerder; from 1836 landowner at Paleschken bei Stuhm in Prussia. 
+**Abbreviated name**: *C. Klinggr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/item/103253#page/369/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33068585) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Houttuyn, Maarten (1720-1798), Dutch naturalist and physician at Amsterdam. (*Houtt.*).
+Houttuyn, Maarten (1720-1798), Dutch naturalist and physician at Amsterdam. 
+**Abbreviated name**: *Houtt.*
 
 #### Herbarium and types
 

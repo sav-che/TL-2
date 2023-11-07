@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/item/103414#page/726/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33120809) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drake del Castillo, Emmanuel {std. Drake} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Drake del Castillo, Emmanuel (1855-1904), French botanist of British-Cuban-French ancestry. (*Drake*).
+Drake del Castillo, Emmanuel (1855-1904), French botanist of British-Cuban-French ancestry. 
+**Abbreviated name**: *Drake*
 
 #### Herbarium and types
 

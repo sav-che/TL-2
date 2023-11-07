@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/104137#page/321/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33355392) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marschall von Bieberstein, Friedrich August, Freiherr (1768-1826), German explorer and author on the Russian flora. (*M.-Bieb.*).
+Marschall von Bieberstein, Friedrich August, Freiherr (1768-1826), German explorer and author on the Russian flora. 
+**Abbreviated name**: *M.-Bieb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103859#page/142/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265329) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bertsch, Karl (1878-1965), German (Württemberg) primary school teacher in Mengen, highschool teacher at Ravensburg, 1927, Dr. phil. h.c. Tübingen, specialized on the flora and vegetation of Württemberg. (*Bertsch*).
+Bertsch, Karl (1878-1965), German (Württemberg) primary school teacher in Mengen, highschool teacher at Ravensburg, 1927, Dr. phil. h.c. Tübingen, specialized on the flora and vegetation of Württemberg. 
+**Abbreviated name**: *Bertsch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/103253#page/780/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lanzi, Matteo (1824-1907), Italian physician, mycologist, and diatomologist; lecturer in mycology at Rome University. ((*Lanzi*).
+Lanzi, Matteo (1824-1907), Italian physician, mycologist, and diatomologist; lecturer in mycology at Rome University. (
+**Abbreviated name**: *Lanzi*
 
 #### Herbarium and types
 

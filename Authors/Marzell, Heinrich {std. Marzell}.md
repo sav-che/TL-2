@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/item/104137#page/362/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marzell, Heinrich (1885-1970), German botanist, classicist and linguist; Dr. phil. München 1911; from 1918-1950 high school teacher at the Realschule Gunzenhausen; Leibnitz Medaille 1954. (*Marzell*).
+Marzell, Heinrich (1885-1970), German botanist, classicist and linguist; Dr. phil. München 1911; from 1918-1950 high school teacher at the Realschule Gunzenhausen; Leibnitz Medaille 1954. 
+**Abbreviated name**: *Marzell*
 
 #### Herbarium and types
 

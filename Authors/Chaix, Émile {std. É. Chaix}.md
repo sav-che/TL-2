@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103860#page/46/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265713) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chaix, Émile (1855-1929), Swiss botanist at Genève, professor at the University of Genève. (*É. Chaix*).
+Chaix, Émile (1855-1929), Swiss botanist at Genève, professor at the University of Genève. 
+**Abbreviated name**: *É. Chaix*
 
 #### Herbarium and types
 

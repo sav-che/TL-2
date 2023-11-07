@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/104077#page/505/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seidel, Traugott \[Jakob Hermann\] (1833-1896) German (Saxonian) horticulturist at Dresden and Striessen; owner of a firm growing Azalea, Rhododendron and Camellia. (*T. Seidel*).
+Seidel, Traugott \[Jakob Hermann\] (1833-1896) German (Saxonian) horticulturist at Dresden and Striessen; owner of a firm growing Azalea, Rhododendron and Camellia. 
+**Abbreviated name**: *T. Seidel*
 
 #### Herbarium and types
 

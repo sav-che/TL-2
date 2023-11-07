@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/103834#page/344/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33259826) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forssell, Karl Bror Jacob {std. Forssell}|first entry]] for this author
 
 ### Author
 
-\* Forssell, Karl \[Carl\] Bror Jakob (1856-1898), Swedish lichenologist, born 26 Feb 1856 in Skara, student at Uppsala 1875, fil. cand. 1879, fil. lic. 1882, Dr. Sci. 1883, docent botany 1883-1886, lector in natural history and chemistry at Karlstad 1887, died 12 Feb 1898 in Karlstad. (*Forssell*).
+\* Forssell, Karl \[Carl\] Bror Jakob (1856-1898), Swedish lichenologist, born 26 Feb 1856 in Skara, student at Uppsala 1875, fil. cand. 1879, fil. lic. 1882, Dr. Sci. 1883, docent botany 1883-1886, lector in natural history and chemistry at Karlstad 1887, died 12 Feb 1898 in Karlstad. 
+**Abbreviated name**: *Forssell*
 
 #### Note
 

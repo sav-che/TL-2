@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103858#page/220/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33264935) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Audas, James Wales \[Clarendon\] (1872-1959), Australian (Victoria) botanist, educated at Grenville College, Ballarat, clerical assistant in the Titles Office, Melbourne 1890, met Ferdinand von Mueller and became interested in botany, herbarium assistant in the Departement of the Chief Secretary Public Service 1897, from 1923-1927 senior botanist at the National Herbarium, Melbourne, collected widely in Victoria, Tasmania and Queensland 1908, Western Australia 1926, New South Wales 1932, New Zealand 1937. (*Audas*).
+Audas, James Wales \[Clarendon\] (1872-1959), Australian (Victoria) botanist, educated at Grenville College, Ballarat, clerical assistant in the Titles Office, Melbourne 1890, met Ferdinand von Mueller and became interested in botany, herbarium assistant in the Departement of the Chief Secretary Public Service 1897, from 1923-1927 senior botanist at the National Herbarium, Melbourne, collected widely in Victoria, Tasmania and Queensland 1908, Western Australia 1926, New South Wales 1932, New Zealand 1937. 
+**Abbreviated name**: *Audas*
 
 #### Herbarium and types
 

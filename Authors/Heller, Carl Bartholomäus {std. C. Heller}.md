@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103253#page/173/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33068389) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heller, Carl Bartholomäus (1824-1880), Moravia-born Austrian traveller and naturalist; in Mexico 1845-1848. (*C. Heller*).
+Heller, Carl Bartholomäus (1824-1880), Moravia-born Austrian traveller and naturalist; in Mexico 1845-1848. 
+**Abbreviated name**: *C. Heller*
 
 #### Herbarium and types
 

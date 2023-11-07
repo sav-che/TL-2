@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103860#page/85/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33265752) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cheesman, Ernest Entwisle (1888-?), British botanist, B.Sc. at the University of London, M.Sc. 1928, professor of botany and genetics at the Imperial College Tropical Agriculture, Trinidad. (*Cheesman*).
+Cheesman, Ernest Entwisle (1888-?), British botanist, B.Sc. at the University of London, M.Sc. 1928, professor of botany and genetics at the Imperial College Tropical Agriculture, Trinidad. 
+**Abbreviated name**: *Cheesman*
 
 #### Herbarium and types
 

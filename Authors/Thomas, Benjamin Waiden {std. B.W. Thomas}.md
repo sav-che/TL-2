@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103683#page/280/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33212312) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas, Benjamin Waiden (*fl*. 1886), U.S. diatomologist and zoologist (Foraminifera). (*B.W. Thomas*).
+Thomas, Benjamin Waiden (*fl*. 1886), U.S. diatomologist and zoologist (Foraminifera). 
+**Abbreviated name**: *B.W. Thomas*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/103683#page/578/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33212610) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uittien, Hendrik (1898-1944), Dutch botanist; studied biology in Utrecht; assistant for systematic botany at the University of Utrecht 1921-1923, curator 1923-1926; Dr. phil. ib. 1929 (student of F.A.F.W. Went); lecturer at the College of Colonial Agriculture (Middelbare Koloniale Landbouwschool) Deventer 1926-1933 and 1937-1941; assistant again in Utrecht 1933-1937, from 1936-1937 lecturer (privaat-docent) in the history of botany; from 1941-1944 actively engaged in the underground movement against the German occupation; executed 1944. (*Uittien*).
+Uittien, Hendrik (1898-1944), Dutch botanist; studied biology in Utrecht; assistant for systematic botany at the University of Utrecht 1921-1923, curator 1923-1926; Dr. phil. ib. 1929 (student of F.A.F.W. Went); lecturer at the College of Colonial Agriculture (Middelbare Koloniale Landbouwschool) Deventer 1926-1933 and 1937-1941; assistant again in Utrecht 1933-1937, from 1936-1937 lecturer (privaat-docent) in the history of botany; from 1941-1944 actively engaged in the underground movement against the German occupation; executed 1944. 
+**Abbreviated name**: *Uittien*
 
 #### Herbarium and types
 

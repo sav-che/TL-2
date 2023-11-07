@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103414#page/316/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33120399) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Destrée, Caroline Élisa {std. E. Bommer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bommer, \[Mme\] Elisa Caroline, née Destrée (x-1910), Belgian botanist, wife of J. E. Bommer. (*E. Bommer*).
+Bommer, \[Mme\] Elisa Caroline, née Destrée (x-1910), Belgian botanist, wife of J. E. Bommer. 
+**Abbreviated name**: *E. Bommer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103861#page/209/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33266506) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchwald, Johannes (1869-1927), German botanist, born in Berlin, educated at the Königsstädtische Gymnasium of Berlin, studied at the University of Berlin, Dr. phil. ib. 31 Oct 1894, with A. Engler in East Africa, in charge of the establishment of the Usambara research institute 1895, returned to Berlin, with the imperial State health office in Berlin, assistant with Wittmack at the Landwirtschaftliche Hochschule Berlin, from 1913 director of the Versuchsanstalt für Getreideverwertung, died on a visit to North America. (*Buchw.*).
+Buchwald, Johannes (1869-1927), German botanist, born in Berlin, educated at the Königsstädtische Gymnasium of Berlin, studied at the University of Berlin, Dr. phil. ib. 31 Oct 1894, with A. Engler in East Africa, in charge of the establishment of the Usambara research institute 1895, returned to Berlin, with the imperial State health office in Berlin, assistant with Wittmack at the Landwirtschaftliche Hochschule Berlin, from 1913 director of the Versuchsanstalt für Getreideverwertung, died on a visit to North America. 
+**Abbreviated name**: *Buchw.*
 
 #### Herbarium and types
 

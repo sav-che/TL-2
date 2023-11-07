@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103858#page/333/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barbosa Rodrigues, João {std. Barb. Rodr.}|first]] and [[Rodrigues, João Barbosa {std. Barb. Rodr.}|second]] entries for this author
 
 ### Author
 
-\* Barbosa Rodrigues, João (1842-1909), Brazilian botanist and traveller. (*Barb. Rodr.*).
+\* Barbosa Rodrigues, João (1842-1909), Brazilian botanist and traveller. 
+**Abbreviated name**: *Barb. Rodr.*
 
 #### Note
 

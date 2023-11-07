@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103253#page/88/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33068304) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harting, Pieter (1812-1885), Dutch biologist, and microscopist; Dr. med. Utrecht 1835; practicing physician at Oudewater 1835-1841, from 1841-1843 at Franeker; from 1843 professor of natural philosophy, later of zoology at Utrecht University. (*Harting*).
+Harting, Pieter (1812-1885), Dutch biologist, and microscopist; Dr. med. Utrecht 1835; practicing physician at Oudewater 1835-1841, from 1841-1843 at Franeker; from 1843 professor of natural philosophy, later of zoology at Utrecht University. 
+**Abbreviated name**: *Harting*
 
 #### Herbarium and types
 

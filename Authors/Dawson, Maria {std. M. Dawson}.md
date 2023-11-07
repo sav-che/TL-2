@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103833#page/127/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259161) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dawson, Maria (fl. 1899/1900), British botanist, B.Sc. London and Wales. (*M. Dawson*).
+Dawson, Maria (fl. 1899/1900), British botanist, B.Sc. London and Wales. 
+**Abbreviated name**: *M. Dawson*
 
 #### Herbarium and types
 

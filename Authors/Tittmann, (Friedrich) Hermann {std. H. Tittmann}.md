@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103683#page/381/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33212413) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tittmann, \[Friedrich\] Hermann (1863-?), German (Saxonian) school-inspector and botanist at Leipzig; Dr. phil. Leipzig 1897, student of W.F.P. Pfeffer. (*H. Tittmann*).
+Tittmann, \[Friedrich\] Hermann (1863-?), German (Saxonian) school-inspector and botanist at Leipzig; Dr. phil. Leipzig 1897, student of W.F.P. Pfeffer. 
+**Abbreviated name**: *H. Tittmann*
 
 #### Herbarium and types
 

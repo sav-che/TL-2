@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103859#page/314/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265501) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonamy \[Bonami\], François (1710-1786), French physician and botanist at Nantes, lecturer in botany at the University of Nantes. (*Bonamy*).
+Bonamy \[Bonami\], François (1710-1786), French physician and botanist at Nantes, lecturer in botany at the University of Nantes. 
+**Abbreviated name**: *Bonamy*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103624#page/471/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33189928) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Queva, Charles (*fl*. 1894), French botanist; studied at Lille; from 1902 professor of botany at Dijon. (*Queva*).
+Queva, Charles (*fl*. 1894), French botanist; studied at Lille; from 1902 professor of botany at Dijon. 
+**Abbreviated name**: *Queva*
 
 #### Herbarium and types
 

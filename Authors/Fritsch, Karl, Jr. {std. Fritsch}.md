@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 892](https://www.biodiversitylibrary.org/item/103414#page/940/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 892](https://www.biodiversitylibrary.org/page/33121023) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fritsch, Karl (Carl) {std. Fritsch} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fritsch, Karl, Jr. (1864-1934), Austrian botanist, professor of botany at Graz. (*Fritsch*).
+Fritsch, Karl, Jr. (1864-1934), Austrian botanist, professor of botany at Graz. 
+**Abbreviated name**: *Fritsch*
 
 #### Herbarium and types
 

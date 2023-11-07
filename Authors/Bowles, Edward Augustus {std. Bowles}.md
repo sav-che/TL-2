@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103859#page/411/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33265598) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bowles, Edward Augustus (1865-1954), English horticulturist and entomologist, educated at home until 1884, went to Jesus College, Cambridge, degree in theology 1887, (never ordained) gentleman of private means from 1887 dedicating himself to social work and natural history at his family home Myddelton House, Enfield, Middlesex. (*Bowles*).
+Bowles, Edward Augustus (1865-1954), English horticulturist and entomologist, educated at home until 1884, went to Jesus College, Cambridge, degree in theology 1887, (never ordained) gentleman of private means from 1887 dedicating himself to social work and natural history at his family home Myddelton House, Enfield, Middlesex. 
+**Abbreviated name**: *Bowles*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103683#page/70/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stupper, Carl \[Karl\] (1808-1874), Austrian physician, pharmacist and botanist at Vienna; Mag. pharm. chem. 1834; Dr. med. Wien 1842. (*Stupper*).
+Stupper, Carl \[Karl\] (1808-1874), Austrian physician, pharmacist and botanist at Vienna; Mag. pharm. chem. 1834; Dr. med. Wien 1842. 
+**Abbreviated name**: *Stupper*
 
 #### Herbarium and types
 

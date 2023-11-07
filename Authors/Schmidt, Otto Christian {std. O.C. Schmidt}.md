@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/104077#page/273/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33333398) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Otto Christian (1900-1951), German (Berlin) botanist; Dr. phil. Berlin 1922; assistant at the Botanical Museum Berlin-Dahlem 1922-1939; lecturer (1931); extraordinary professor of pharmacognosy Univ. Berlin (1938); at the Institut für Pflanzenernährungslehre of the University of Berlin 1943-1949; at the University of Münster 1949-1951. (*O.C. Schmidt*).
+Schmidt, Otto Christian (1900-1951), German (Berlin) botanist; Dr. phil. Berlin 1922; assistant at the Botanical Museum Berlin-Dahlem 1922-1939; lecturer (1931); extraordinary professor of pharmacognosy Univ. Berlin (1938); at the Institut für Pflanzenernährungslehre of the University of Berlin 1943-1949; at the University of Münster 1949-1951. 
+**Abbreviated name**: *O.C. Schmidt*
 
 #### Herbarium and types
 

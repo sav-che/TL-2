@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103253#page/223/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33068439) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hill, Ellsworth Jerome (1833-1917), American botanist; presbyterian clergyman in Illinois (1863-1869); high school teacher at Kankakee, Ill. (1870-1874); at Chicago 1874-1888; from then on working almost entirely as a botanist. (*E. J. Hill*).
+Hill, Ellsworth Jerome (1833-1917), American botanist; presbyterian clergyman in Illinois (1863-1869); high school teacher at Kankakee, Ill. (1870-1874); at Chicago 1874-1888; from then on working almost entirely as a botanist. 
+**Abbreviated name**: *E. J. Hill*
 
 #### Herbarium and types
 

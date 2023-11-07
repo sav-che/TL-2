@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/item/103414#page/655/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Decaisne, Joseph {std. Decne.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Decaisne, Joseph (1807-1882), Belgian botanist attached to the Paris Muséum national d'Histoire naturelle. (*Decne.*).
+Decaisne, Joseph (1807-1882), Belgian botanist attached to the Paris Muséum national d'Histoire naturelle. 
+**Abbreviated name**: *Decne.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103414#page/234/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33120317) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berger, Alwin {std. A. Berger} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Berger, Alwin (1871-1931), German botanist, specialist on Cactaceae. (*A. Berger*).
+Berger, Alwin (1871-1931), German botanist, specialist on Cactaceae. 
+**Abbreviated name**: *A. Berger*
 
 #### Herbarium and types
 

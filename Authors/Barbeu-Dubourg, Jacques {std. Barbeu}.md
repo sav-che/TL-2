@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/item/103858#page/329/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33265044) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barbeu-Dubourg, Jacques (1709-1779), French botanist and physician at Paris. (*Barbeu*).
+Barbeu-Dubourg, Jacques (1709-1779), French botanist and physician at Paris. 
+**Abbreviated name**: *Barbeu*
 
 #### Herbarium and types
 

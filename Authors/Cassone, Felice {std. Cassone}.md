@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/item/103414#page/515/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33120598) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cassone, Felice (1815-1854), Italian botanist. (*Cassone*).
+Cassone, Felice (1815-1854), Italian botanist. 
+**Abbreviated name**: *Cassone*
 
 #### Herbarium and types
 

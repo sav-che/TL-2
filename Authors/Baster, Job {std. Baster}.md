@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103414#page/185/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33120268) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baster, Job {std. Baster} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baster, Job (1711-1775), Dutch physician and biologist. (*Baster*).
+Baster, Job (1711-1775), Dutch physician and biologist. 
+**Abbreviated name**: *Baster*
 
 #### Herbarium and types
 

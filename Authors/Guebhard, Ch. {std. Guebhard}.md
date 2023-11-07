@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/103832#page/448/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33258914) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guebhard, Ch. (fl. 1829-1850), Romanian botanist. (*Guebhard*).
+Guebhard, Ch. (fl. 1829-1850), Romanian botanist. 
+**Abbreviated name**: *Guebhard*
 
 #### Herbarium and types
 

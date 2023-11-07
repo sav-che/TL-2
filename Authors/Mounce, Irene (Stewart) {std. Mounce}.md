@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/item/104137#page/625/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33355696) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mounce, Irene (Stewart) (1894-x), Canadian mycologist and phytopathologist; M. S. Univ. Manitoba 1922, Ph. D. Toronto 1929; at Ottawa 1924-1938, at Saanichton, D. C. 1938-1945- (*Mounce*).
+Mounce, Irene (Stewart) (1894-x), Canadian mycologist and phytopathologist; M. S. Univ. Manitoba 1922, Ph. D. Toronto 1929; at Ottawa 1924-1938, at Saanichton, D. C. 1938-1945- 
+**Abbreviated name**: *Mounce*
 
 #### Herbarium and types
 

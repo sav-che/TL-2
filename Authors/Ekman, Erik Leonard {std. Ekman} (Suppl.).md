@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/103835#page/304/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33260282) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ekman, Erik Leonard {std. Ekman}|first entry]] for this author
 
 ### Author
 
-\* Ekman, Erik Leonard (1883-1931), Swedish botanist, born 14 Oct 1883 at Stockholm, studied at the University of Lund, Ph.D. 1914, collected plants in Argentina 1907-1908, on Santo Domingo in 1913, went to Cuba 1914, to Haiti in 1917, came back to Cuba exploring the botany of that island intensively, decided to return to Santo Domingo in 1924 where he died 15 Jan 1931. (*Ekman*).
+\* Ekman, Erik Leonard (1883-1931), Swedish botanist, born 14 Oct 1883 at Stockholm, studied at the University of Lund, Ph.D. 1914, collected plants in Argentina 1907-1908, on Santo Domingo in 1913, went to Cuba 1914, to Haiti in 1917, came back to Cuba exploring the botany of that island intensively, decided to return to Santo Domingo in 1924 where he died 15 Jan 1931. 
+**Abbreviated name**: *Ekman*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103250#page/502/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33066782) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woodhead, Norman (1903-1978), British botanist; demonstrator, later lecturer of botany at the University College of North Wales, Bangor. (*Woodhead*).
+Woodhead, Norman (1903-1978), British botanist; demonstrator, later lecturer of botany at the University College of North Wales, Bangor. 
+**Abbreviated name**: *Woodhead*
 
 #### Herbarium and types
 

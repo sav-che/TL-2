@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/item/103414#page/355/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33120438) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Braun, Alexander (Carl Heinrich) {std. A. Braun} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Braun, Alexander Carl Heinrich (1805-1877), German botanist, outstanding morphologist, professor of botany at Karlsruhe, Freiburg, Giessen and Berlin. (*A. Braun*).
+Braun, Alexander Carl Heinrich (1805-1877), German botanist, outstanding morphologist, professor of botany at Karlsruhe, Freiburg, Giessen and Berlin. 
+**Abbreviated name**: *A. Braun*
 
 #### Herbarium and types
 

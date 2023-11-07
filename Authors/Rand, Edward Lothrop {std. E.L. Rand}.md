@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/item/103624#page/589/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rand, Edward Lothrop (1859-1924), American botanist and lawyer; BA Harvard College 1881; LL.B and A.M. 1884; admitted to the Massachusetts bar at Boston 1885; one of the founders of the New England Botanical Club and its first corresponding secretary 1895-1921. (*E.L. Rand*).
+Rand, Edward Lothrop (1859-1924), American botanist and lawyer; BA Harvard College 1881; LL.B and A.M. 1884; admitted to the Massachusetts bar at Boston 1885; one of the founders of the New England Botanical Club and its first corresponding secretary 1895-1921. 
+**Abbreviated name**: *E.L. Rand*
 
 #### Herbarium and types
 

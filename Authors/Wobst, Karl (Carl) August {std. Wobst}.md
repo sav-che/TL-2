@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/103250#page/473/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33066753) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wobst, Karl \[Carl\] August (1842-1914), German (Saxonian) high school teacher at the Annenschule in Dresden. (*Wobst*).
+Wobst, Karl \[Carl\] August (1842-1914), German (Saxonian) high school teacher at the Annenschule in Dresden. 
+**Abbreviated name**: *Wobst*
 
 #### Herbarium and types
 

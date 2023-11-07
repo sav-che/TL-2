@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/item/103253#page/690/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kraus, Gregor Konrad Michael (1841-1915), German physiological botanist; Dr. phil. Würzburg 1866; from 1866-1867 at Bonn as pupil of J. Sachs; 1867-1869 "Privatdozent" at Würzburg; 1868-1869 at Leipzig; 1869-1873 professor of botany at Erlangen; 1872-1898 idem at Halle succeeding de Bary; from 1898-1914 idem at Würzburg succeeding Julius Sachs. (*Kraus*).
+Kraus, Gregor Konrad Michael (1841-1915), German physiological botanist; Dr. phil. Würzburg 1866; from 1866-1867 at Bonn as pupil of J. Sachs; 1867-1869 "Privatdozent" at Würzburg; 1868-1869 at Leipzig; 1869-1873 professor of botany at Erlangen; 1872-1898 idem at Halle succeeding de Bary; from 1898-1914 idem at Würzburg succeeding Julius Sachs. 
+**Abbreviated name**: *Kraus*
 
 #### Herbarium and types
 

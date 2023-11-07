@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103860#page/193/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265860) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clarke, Charles Baron {std. C.B. Clarke}|first entry]] for this author
 
 ### Author
 
-\* Clarke, Charles Baron (1832-1906), British botanist, born 17 Jun 1832 at Andover, Hampshire, educated at King's College School, London, studied at the University of Cambridge (Trinity), B.A. Cantab. 1856, M.A. id. 1859, lecturer in mathematics 1857-1865, at the Presidency College, Calcutta, 1865, superintendent Calcutta Botanical Gardens 1869-1871, inspector of schools at Calcutta, at the Northern Division of Bengal 1875, retired from service of the Government of India 1887, working at Kew until 1906, died 25 Aug 1906. (*C.B. Clarke*).
+\* Clarke, Charles Baron (1832-1906), British botanist, born 17 Jun 1832 at Andover, Hampshire, educated at King's College School, London, studied at the University of Cambridge (Trinity), B.A. Cantab. 1856, M.A. id. 1859, lecturer in mathematics 1857-1865, at the Presidency College, Calcutta, 1865, superintendent Calcutta Botanical Gardens 1869-1871, inspector of schools at Calcutta, at the Northern Division of Bengal 1875, retired from service of the Government of India 1887, working at Kew until 1906, died 25 Aug 1906. 
+**Abbreviated name**: *C.B. Clarke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/item/103253#page/518/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kampmann, Frédéric-Edouard fils ("Fritz") (1830-1914), Alsatian pharmacist at Colmar, after 1872 at Genève, from 1907-1914 at Vallorbe, enthusiastic amateur botanist (son of Frédéric-Edouard K. 1797-1873). (*Kampm.*).
+Kampmann, Frédéric-Edouard fils ("Fritz") (1830-1914), Alsatian pharmacist at Colmar, after 1872 at Genève, from 1907-1914 at Vallorbe, enthusiastic amateur botanist (son of Frédéric-Edouard K. 1797-1873). 
+**Abbreviated name**: *Kampm.*
 
 #### Herbarium and types
 

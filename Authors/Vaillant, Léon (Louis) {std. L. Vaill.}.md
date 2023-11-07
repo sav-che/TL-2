@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 634](https://www.biodiversitylibrary.org/item/103683#page/644/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 634](https://www.biodiversitylibrary.org/page/33212676) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaillant, Léon \[Louis\] (1834-1914), French zoologist; M.D. Paris 1861; aggr. hist. nat. 1863; Dr. sci. 1865, Prix Savigny 1867; lecturer in Montpellier 1867; with the zoological laboratory of the École des Hautes-Études, Paris 1869; professor of herpetology and ichthyology at the Muséum d'Histoire naturelle, Paris 1874-1910. (*L. Vaill.*).
+Vaillant, Léon \[Louis\] (1834-1914), French zoologist; M.D. Paris 1861; aggr. hist. nat. 1863; Dr. sci. 1865, Prix Savigny 1867; lecturer in Montpellier 1867; with the zoological laboratory of the École des Hautes-Études, Paris 1869; professor of herpetology and ichthyology at the Muséum d'Histoire naturelle, Paris 1874-1910. 
+**Abbreviated name**: *L. Vaill.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/item/103414#page/637/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dahlstedt, Gustav Adolf Hugo {std. Dahlst.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dahlstedt, Gustav Adolf Hugo (1856-1934), Swedish botanist specialized in *Hieracium *and *Taraxacum*. (*Dahlst.*).
+Dahlstedt, Gustav Adolf Hugo (1856-1934), Swedish botanist specialized in *Hieracium *and *Taraxacum*. 
+**Abbreviated name**: *Dahlst.*
 
 #### Herbarium and types
 

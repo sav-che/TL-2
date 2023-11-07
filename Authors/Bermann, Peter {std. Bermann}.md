@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103859#page/115/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33265302) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bermann, Peter (fl. 1905), Latvian teacher and botanist at Riga. (*Bermann*).
+Bermann, Peter (fl. 1905), Latvian teacher and botanist at Riga. 
+**Abbreviated name**: *Bermann*
 
 #### Herbarium and types
 

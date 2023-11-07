@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103834#page/420/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33259902) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Freeman, William George (1874-x), British botanist and agriculturalist, born 9 Jan 1874 in Falmouth (Cornwall), B.Sc. 1898 Univ. of London, asst., botanic garden Ceylon (now Sri Lanka) 1896-1897, demonstrator in botany, Royal College of Science 1897-1900, inspector Dept. of Agriculture West Indies 1900-1903, superintendent, botanic garden Trinidad 1911-1922, dir. of agriculture 1917-1929, Imperial Inst., London 1929, F.L.S. (*W.G. Freeman*).
+Freeman, William George (1874-x), British botanist and agriculturalist, born 9 Jan 1874 in Falmouth (Cornwall), B.Sc. 1898 Univ. of London, asst., botanic garden Ceylon (now Sri Lanka) 1896-1897, demonstrator in botany, Royal College of Science 1897-1900, inspector Dept. of Agriculture West Indies 1900-1903, superintendent, botanic garden Trinidad 1911-1922, dir. of agriculture 1917-1929, Imperial Inst., London 1929, F.L.S. 
+**Abbreviated name**: *W.G. Freeman*
 
 #### Herbarium and types
 

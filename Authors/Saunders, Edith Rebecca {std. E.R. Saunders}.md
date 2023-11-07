@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/104077#page/80/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33333205) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saunders, Edith Rebecca (1865-1945), English botanist (floral anatomist and geneticist), lecturer and research botanist at Newnham College, Cambridge 1889-1925, director of Balfour Laboratory, Newnham College. (*E.R. Saunders*).
+Saunders, Edith Rebecca (1865-1945), English botanist (floral anatomist and geneticist), lecturer and research botanist at Newnham College, Cambridge 1889-1925, director of Balfour Laboratory, Newnham College. 
+**Abbreviated name**: *E.R. Saunders*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/item/103860#page/189/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clapp, Asahel (1792-1862), American botanist of New Albany, Indiana. (*A. Clapp*).
+Clapp, Asahel (1792-1862), American botanist of New Albany, Indiana. 
+**Abbreviated name**: *A. Clapp*
 
 #### Herbarium and types
 

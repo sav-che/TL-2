@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/103414#page/418/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33120501) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Browne, Daniel Jay (1804-1867), American author. (*D. J. Browne*).
+Browne, Daniel Jay (1804-1867), American author. 
+**Abbreviated name**: *D. J. Browne*
 
 #### Herbarium and types
 

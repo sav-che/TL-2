@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/item/103624#page/818/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33190275) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rivas Mateos, Marcelo (1875-1931), Spanish botanist; professor of botany at the Fac. de Farmacia, Barcelona and Madrid. (*Riv. Mat.*).
+Rivas Mateos, Marcelo (1875-1931), Spanish botanist; professor of botany at the Fac. de Farmacia, Barcelona and Madrid. 
+**Abbreviated name**: *Riv. Mat.*
 
 #### Herbarium and types
 

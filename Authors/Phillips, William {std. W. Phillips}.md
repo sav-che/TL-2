@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103624#page/258/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33189715) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phillips, William (1822-1905), British botanist, mycologist and antiquary at Shrewsbury. (*W. Phillips*).
+Phillips, William (1822-1905), British botanist, mycologist and antiquary at Shrewsbury. 
+**Abbreviated name**: *W. Phillips*
 
 #### Herbarium and types
 

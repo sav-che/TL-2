@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103858#page/173/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33264888) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arnaud, Jean André Michel {std. J. Arnaud}|first entry]] for this author
 
 ### Author
 
-\* Arnaud, Jean André Michel (1760-1831), French physician and botanist, educated at the Collège du Bay; studied at the Faculté de Médecine, Montpellier, Dr. med. 1782, physician at Le Puy from 1782, later in charge of the hospital of Puy. (*J. Arnaud*).
+\* Arnaud, Jean André Michel (1760-1831), French physician and botanist, educated at the Collège du Bay; studied at the Faculté de Médecine, Montpellier, Dr. med. 1782, physician at Le Puy from 1782, later in charge of the hospital of Puy. 
+**Abbreviated name**: *J. Arnaud*
 
 #### Herbarium and types
 

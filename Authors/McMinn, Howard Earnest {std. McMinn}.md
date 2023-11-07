@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/104137#page/247/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33355318) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McMinn, Howard Earnest (1891-1963), American botanist, dendrologist and horticulturist; professor of botany in Mills College, Oakland, Calif. (*McMinn*).
+McMinn, Howard Earnest (1891-1963), American botanist, dendrologist and horticulturist; professor of botany in Mills College, Oakland, Calif. 
+**Abbreviated name**: *McMinn*
 
 #### Herbarium and types
 

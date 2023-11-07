@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103835#page/210/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33260188) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dusén, Karl Fredrik (1849-1919), Swedish botanist, born 4 Jul 1849 at Sund, Östergötland, went to school at Eksjö 1859-1864 and at Linköping 1864-1868, studied at Uppsala from 1868, fil. cand. 14 Dec 1877, fil. lic. 30 Mai 1882, Dr. fil. in 1887, amanuensis at the botanical garden Uppsala 1878-1888, docent in botany 1887-1888, lecturer in natural history and chemistry at Kalmar from 1888, died 14 Jul 1919. (*K.F. Dusén*).
+Dusén, Karl Fredrik (1849-1919), Swedish botanist, born 4 Jul 1849 at Sund, Östergötland, went to school at Eksjö 1859-1864 and at Linköping 1864-1868, studied at Uppsala from 1868, fil. cand. 14 Dec 1877, fil. lic. 30 Mai 1882, Dr. fil. in 1887, amanuensis at the botanical garden Uppsala 1878-1888, docent in botany 1887-1888, lecturer in natural history and chemistry at Kalmar from 1888, died 14 Jul 1919. 
+**Abbreviated name**: *K.F. Dusén*
 
 #### Herbarium and types
 

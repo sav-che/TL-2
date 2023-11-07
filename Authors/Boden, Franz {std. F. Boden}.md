@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103859#page/253/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boden, Franz (fl. 1899), German forester at Hameln (prov. Hannover). (*F. Boden*).
+Boden, Franz (fl. 1899), German forester at Hameln (prov. Hannover). 
+**Abbreviated name**: *F. Boden*
 
 #### Herbarium and types
 

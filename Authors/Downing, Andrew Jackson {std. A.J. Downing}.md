@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103835#page/92/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33260070) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Downing, Andrew Jackson (1815-1852), American horticulturist, nurseryman and landscape architect, born 30 Oct 1815, Newburgh, N.Y., d. 28 Jul 1852 near Yonkers, N.Y. (*A.J. Downing*).
+Downing, Andrew Jackson (1815-1852), American horticulturist, nurseryman and landscape architect, born 30 Oct 1815, Newburgh, N.Y., d. 28 Jul 1852 near Yonkers, N.Y. 
+**Abbreviated name**: *A.J. Downing*
 
 #### Herbarium and types
 

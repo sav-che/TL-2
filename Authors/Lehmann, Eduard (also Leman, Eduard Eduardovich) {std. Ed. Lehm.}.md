@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/item/103253#page/844/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33069060) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lehmann, Eduard (also: Leman, Eduard Eduardovich) (1841-1902), Baltic-German (born at Riga) botanist and physician; studied at Dorpat 1860-1865; from 1866-1874 practicing physican); from 1874-1902 at Witebsk. (*Ed. Lehm.*).
+Lehmann, Eduard (also: Leman, Eduard Eduardovich) (1841-1902), Baltic-German (born at Riga) botanist and physician; studied at Dorpat 1860-1865; from 1866-1874 practicing physican); from 1874-1902 at Witebsk. 
+**Abbreviated name**: *Ed. Lehm.*
 
 #### Herbarium and types
 

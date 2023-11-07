@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103861#page/56/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33266353) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brebner, George (1855-1904), British botanist (cytologist, algologist), Aberdeen born, educated at Aberdeen and Stuttgart, attended the Royal College of Science, London, studied under D.H. Scott ib. 1888, subsequently lecturer on botany at University College, Bristol until 1904, active in the Bristol Naturalists' Society. (*Brebner*).
+Brebner, George (1855-1904), British botanist (cytologist, algologist), Aberdeen born, educated at Aberdeen and Stuttgart, attended the Royal College of Science, London, studied under D.H. Scott ib. 1888, subsequently lecturer on botany at University College, Bristol until 1904, active in the Bristol Naturalists' Society. 
+**Abbreviated name**: *Brebner*
 
 #### Herbarium and types
 

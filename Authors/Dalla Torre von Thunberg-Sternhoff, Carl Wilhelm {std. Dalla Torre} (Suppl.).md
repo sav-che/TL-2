@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103833#page/40/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259074) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dalla Torre von Thurnberg-Sternhoff, Karl Wilhelm von {std. Dalla Torre}|first entry]] for this author
 
 ### Author
 
-\* Dalla Torre von Thunberg-Sternhoff, Carl \[Karl\] Wilhelm (1850-1928), Austrian botanist and zoologist, born at Kitzbühel, Tirol, died at Innsbruck, studied at Innsbruck, Dr. phil. ib., professor at secondary schools and other educational establishments 1872-1895 and 1921-1923, from 1893 e.o. professor of botany at the University of Innsbruck, professor of zoology at the University of Innsbruck 1895-1921. (*Dalla Torre*).
+\* Dalla Torre von Thunberg-Sternhoff, Carl \[Karl\] Wilhelm (1850-1928), Austrian botanist and zoologist, born at Kitzbühel, Tirol, died at Innsbruck, studied at Innsbruck, Dr. phil. ib., professor at secondary schools and other educational establishments 1872-1895 and 1921-1923, from 1893 e.o. professor of botany at the University of Innsbruck, professor of zoology at the University of Innsbruck 1895-1921. 
+**Abbreviated name**: *Dalla Torre*
 
 #### Herbarium and types
 

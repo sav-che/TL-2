@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/item/104077#page/671/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smarods, Julius (1884-?), Latvian phytopathologist and mycologist at the Institute of plant protection, Riga. (*Smarods*).
+Smarods, Julius (1884-?), Latvian phytopathologist and mycologist at the Institute of plant protection, Riga. 
+**Abbreviated name**: *Smarods*
 
 #### Herbarium and types
 

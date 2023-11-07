@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103624#page/474/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rabanus, Adolf (1890-?), German (Prussian) botanist. (*Rabanus*).
+Rabanus, Adolf (1890-?), German (Prussian) botanist. 
+**Abbreviated name**: *Rabanus*
 
 #### Herbarium and types
 

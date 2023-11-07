@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103683#page/208/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33212240) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Techet, Karl \[Carl\] (1877-1919), Austrian botanist and high school teacher; student with R. Wettstein in Wien 1899-1903; botanical assistant at the Triest Zoological Station 1903-1905; later teacher at Triest, Kufstein and Prossnitz; from 1914 in Wien. (*Techet*).
+Techet, Karl \[Carl\] (1877-1919), Austrian botanist and high school teacher; student with R. Wettstein in Wien 1899-1903; botanical assistant at the Triest Zoological Station 1903-1905; later teacher at Triest, Kufstein and Prossnitz; from 1914 in Wien. 
+**Abbreviated name**: *Techet*
 
 #### Herbarium and types
 

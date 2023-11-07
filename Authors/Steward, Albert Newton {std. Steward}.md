@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/item/104077#page/934/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33334059) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steward, Albert Newton (1897-1959), American botanist; B.S. Oregon State 1921; botanist at Nanking University 1921-1926; assistant Harvard Univ.; Dr. phil. Harvard 1930; professor of botany at Nanking University 1930-1950; at the Arnold Arboretum 1950-1951; curator of the Oregon State College herbarium 1951-1959. (*Steward*).
+Steward, Albert Newton (1897-1959), American botanist; B.S. Oregon State 1921; botanist at Nanking University 1921-1926; assistant Harvard Univ.; Dr. phil. Harvard 1930; professor of botany at Nanking University 1930-1950; at the Arnold Arboretum 1950-1951; curator of the Oregon State College herbarium 1951-1959. 
+**Abbreviated name**: *Steward*
 
 #### Herbarium and types
 

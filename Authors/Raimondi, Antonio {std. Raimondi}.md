@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/item/103624#page/578/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33190035) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raimondi, Antonio (1826-1890), Italian-born botanist; studied at Milano; lived in Peru 1850-1890 devoting himself to scientific work, at first as professor of botany in Lima, later as state geologist. (*Raimondi*).
+Raimondi, Antonio (1826-1890), Italian-born botanist; studied at Milano; lived in Peru 1850-1890 devoting himself to scientific work, at first as professor of botany in Lima, later as state geologist. 
+**Abbreviated name**: *Raimondi*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103414#page/151/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33120234) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baker, Edmund Gilbert {std. E.G. Baker} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baker, Edmund Gilbert (1864-1949), British botanist. (*E. G. Baker*).
+Baker, Edmund Gilbert (1864-1949), British botanist. 
+**Abbreviated name**: *E. G. Baker*
 
 #### Herbarium and types
 

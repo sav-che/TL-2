@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103253#page/140/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hazslinszky von Hazslin, Friedrich August (Frigyes Ágost) (1818-1896), Hungarian cryptogamic botanist; high school teacher at Eperies. (*Hazsl.*).
+Hazslinszky von Hazslin, Friedrich August (Frigyes Ágost) (1818-1896), Hungarian cryptogamic botanist; high school teacher at Eperies. 
+**Abbreviated name**: *Hazsl.*
 
 #### Herbarium and types
 

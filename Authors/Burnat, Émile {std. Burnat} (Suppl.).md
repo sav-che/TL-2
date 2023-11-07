@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103861#page/264/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burnat, Emile {std. Burnat}|first entry]] for this author
 
 ### Author
 
-\* Burnat, Émile (1828-1920), Swiss engineer, industrialist, magistrate and botanist, born at Vevey 21 Oct 1828, educated at the Institut Sillig, Bellerive 1836-1842, at the Collège de Vevey 1842-1845, in this period already botanizing, at Genève 1845-1847 with Emmaniel Ferrière (minister), studying mathematics and, with Alphonse de Candolle, botany, also with G.F. Reuter, Ch. Fauconnet and Edmond Boissier, stage at the École centrale de Paris 1847-1851 as ingénieur-métallurgiste, employed with Dollfus-Mieg at Mulhouse as ingénieur 1851-1872, retired at his estate at Nant nr. Vevey 1870 (until 1872 still with Dollfus), dedicating himself to botany, botanized with E. Boissier, L. de Valence and W. Barbey in Spain (incl. Baleares), building up a herbarium and a botanical library (now at G), Dr. phil. hon. causa 1909 at the University of Lausanne. (*Burnat*).
+\* Burnat, Émile (1828-1920), Swiss engineer, industrialist, magistrate and botanist, born at Vevey 21 Oct 1828, educated at the Institut Sillig, Bellerive 1836-1842, at the Collège de Vevey 1842-1845, in this period already botanizing, at Genève 1845-1847 with Emmaniel Ferrière (minister), studying mathematics and, with Alphonse de Candolle, botany, also with G.F. Reuter, Ch. Fauconnet and Edmond Boissier, stage at the École centrale de Paris 1847-1851 as ingénieur-métallurgiste, employed with Dollfus-Mieg at Mulhouse as ingénieur 1851-1872, retired at his estate at Nant nr. Vevey 1870 (until 1872 still with Dollfus), dedicating himself to botany, botanized with E. Boissier, L. de Valence and W. Barbey in Spain (incl. Baleares), building up a herbarium and a botanical library (now at G), Dr. phil. hon. causa 1909 at the University of Lausanne. 
+**Abbreviated name**: *Burnat*
 
 #### Herbarium and types
 

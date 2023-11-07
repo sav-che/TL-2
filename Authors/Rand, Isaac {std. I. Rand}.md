@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/item/103624#page/590/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33190047) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rand, Isaac (x-1743), British apothecary, gardener and botanist; F.R.S. 1719; curator ("praefectus") of the Chelsea Physick Garden 1724-1743. (*I. Rand*).
+Rand, Isaac (x-1743), British apothecary, gardener and botanist; F.R.S. 1719; curator ("praefectus") of the Chelsea Physick Garden 1724-1743. 
+**Abbreviated name**: *I. Rand*
 
 #### Herbarium and types
 

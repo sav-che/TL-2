@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103624#page/315/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33189772) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plumier, Charles (1646-1704), French missionary, explorer and botanist; travelled in the West Indies 1689, 1693 and 1695. (*Plum.*).
+Plumier, Charles (1646-1704), French missionary, explorer and botanist; travelled in the West Indies 1689, 1693 and 1695. 
+**Abbreviated name**: *Plum.*
 
 #### Herbarium
 

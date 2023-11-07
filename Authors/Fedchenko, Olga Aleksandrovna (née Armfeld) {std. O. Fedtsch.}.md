@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/item/103414#page/865/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33120948) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fedtschenko (Fedchenko), Olga A. (née Armfeld) {std. O. Fedtsch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fedchenko, Olga Aleksandrovna (née Armfeld) (1845-1921), Russian botanist, explorer of Central Asia, wife of A. P. Fedchenko. (*O. Fedch.*).
+Fedchenko, Olga Aleksandrovna (née Armfeld) (1845-1921), Russian botanist, explorer of Central Asia, wife of A. P. Fedchenko. 
+**Abbreviated name**: *O. Fedch.*
 
 #### Herbarium and types
 

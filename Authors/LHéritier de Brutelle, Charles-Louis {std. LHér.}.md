@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/104137#page/17/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33355126) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-L'Héritier de Brutelle, Charles-Louis (1746-1800), French magistrate and amateur botanist, at Paris; from 1775-1789 counsellor at the" Cour des Aides"; after the revolution at the Department of Justice; died by murder in unclarified circumstances. (*L'Hér.*).
+L'Héritier de Brutelle, Charles-Louis (1746-1800), French magistrate and amateur botanist, at Paris; from 1775-1789 counsellor at the" Cour des Aides"; after the revolution at the Department of Justice; died by murder in unclarified circumstances. 
+**Abbreviated name**: *L'Hér.*
 
 #### Herbarium and types
 

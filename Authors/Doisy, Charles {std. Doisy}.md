@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103835#page/39/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33260017) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doisy, Charles (fl. 1835), French botanist interested in the natural history of the "Département de la Meuse". (*Doisy*).
+Doisy, Charles (fl. 1835), French botanist interested in the natural history of the "Département de la Meuse". 
+**Abbreviated name**: *Doisy*
 
 #### Herbarium and types
 

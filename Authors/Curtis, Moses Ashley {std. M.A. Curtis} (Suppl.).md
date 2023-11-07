@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/item/103860#page/525/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Curtis, Moses Ashley {std. M.A. Curtis}|first entry]] for this author
 
 ### Author
 
-\* Curtis, Moses Ashley (1808-1872), American botanist, teacher and priest, born at Stockbridge, Mass., educated at Williams College until 1827, ordaine in the Episcopal Church in 1834, as missionary to Lincolnton, North Carolina as well as a collector as a mycologist. (*M.A. Curtis*).
+\* Curtis, Moses Ashley (1808-1872), American botanist, teacher and priest, born at Stockbridge, Mass., educated at Williams College until 1827, ordaine in the Episcopal Church in 1834, as missionary to Lincolnton, North Carolina as well as a collector as a mycologist. 
+**Abbreviated name**: *M.A. Curtis*
 
 #### Herbarium and types
 

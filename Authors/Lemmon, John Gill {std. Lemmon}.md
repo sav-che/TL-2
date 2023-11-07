@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/item/103253#page/866/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33069082) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lemmon, John Gill (1832-1908), American botanist and plant collector; born in Michigan; involved in the civil war; from 1866 in California, first in Sierra Valley, later at Oakland; on Calif. State Board of Forestry 1888-1892; married to Sara Allen Plummer (1836-1929), who accompanied him on many of his collecting trips. (*Lemmon*).
+Lemmon, John Gill (1832-1908), American botanist and plant collector; born in Michigan; involved in the civil war; from 1866 in California, first in Sierra Valley, later at Oakland; on Calif. State Board of Forestry 1888-1892; married to Sara Allen Plummer (1836-1929), who accompanied him on many of his collecting trips. 
+**Abbreviated name**: *Lemmon*
 
 #### Herbarium and types
 

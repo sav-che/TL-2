@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/104137#page/481/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33355552) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Micheli, Marc (1844-1902), Swiss botanist and landowner at Geneva; pupil of Hofmeister and Sachs; later collaborator of Alphonse de Candolle; burgomaster of Jussy; owner of the *Jardin du Crest*(Jussy), maintained as a private botanical garden for plant introduction and agricultural experiments. (*M. Mich.*).
+Micheli, Marc (1844-1902), Swiss botanist and landowner at Geneva; pupil of Hofmeister and Sachs; later collaborator of Alphonse de Candolle; burgomaster of Jussy; owner of the *Jardin du Crest*(Jussy), maintained as a private botanical garden for plant introduction and agricultural experiments. 
+**Abbreviated name**: *M. Mich.*
 
 #### Herbarium and types
 

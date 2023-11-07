@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/item/103624#page/634/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33190091) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Record, Samuel James (1881-1945), *American dendrologist and wood technologist*; B.A. Wabash 1903, M.A. 1906; M.F. Yale Univ. School of Forestry 1905; Dr. Sci. h.c. 1930; with Division of Forestry, U.S.D.A. 1906-1910; instructor at the Forest School, Yale, 1910; asst. professor of forest products 1911, professor 1917-1939; dean school of forestry and Pinchot Professor of forestry 1939-1945; co-founder (1930) and first secretary-treasurer of the International Association of Wood Anatomists. (*Record*).
+Record, Samuel James (1881-1945), *American dendrologist and wood technologist*; B.A. Wabash 1903, M.A. 1906; M.F. Yale Univ. School of Forestry 1905; Dr. Sci. h.c. 1930; with Division of Forestry, U.S.D.A. 1906-1910; instructor at the Forest School, Yale, 1910; asst. professor of forest products 1911, professor 1917-1939; dean school of forestry and Pinchot Professor of forestry 1939-1945; co-founder (1930) and first secretary-treasurer of the International Association of Wood Anatomists. 
+**Abbreviated name**: *Record*
 
 #### Herbarium and types
 

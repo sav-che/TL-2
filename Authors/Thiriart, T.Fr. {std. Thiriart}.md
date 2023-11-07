@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/103683#page/274/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33212306) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thiriart, T.Fr. (*fl*. 1806), German printer and supervisor of the secondary school system in Köln during the Napoleonic occupation. (*Thiriart*).
+Thiriart, T.Fr. (*fl*. 1806), German printer and supervisor of the secondary school system in Köln during the Napoleonic occupation. 
+**Abbreviated name**: *Thiriart*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/item/104077#page/882/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33334007) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stefánsson, Stefán \[Johann\] (1863-1921), Icelandic botanist; student of E. Warming; high school teacher at Mödruvellir 1887-1901, Akureyri 1901-1921, principal 1908-1921; member of the Althing, elected 1901-1907, appointed by the King 1909-1915. (*Stefánsson*).
+Stefánsson, Stefán \[Johann\] (1863-1921), Icelandic botanist; student of E. Warming; high school teacher at Mödruvellir 1887-1901, Akureyri 1901-1921, principal 1908-1921; member of the Althing, elected 1901-1907, appointed by the King 1909-1915. 
+**Abbreviated name**: *Stefánsson*
 
 #### Herbarium and types
 

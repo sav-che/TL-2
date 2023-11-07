@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/item/103624#page/609/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33190066) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rauwolff, Leonhart \[Leonhard Rauwolf\] (1535-1596), German botanist, physician and traveller; M.D. Valence 1562; practiced medicine at Augsburg, Aich and Kempten 1563-1570; city physician Augsburg 1570-1573; travelled in the Near East 1573-1576; again at Augsburg 1576-1588; city physician at Linz 1588-1596; died in Hungary when on a campaign against the Turks. (*Rauwolff*).
+Rauwolff, Leonhart \[Leonhard Rauwolf\] (1535-1596), German botanist, physician and traveller; M.D. Valence 1562; practiced medicine at Augsburg, Aich and Kempten 1563-1570; city physician Augsburg 1570-1573; travelled in the Near East 1573-1576; again at Augsburg 1576-1588; city physician at Linz 1588-1596; died in Hungary when on a campaign against the Turks. 
+**Abbreviated name**: *Rauwolff*
 
 #### Herbarium and types
 

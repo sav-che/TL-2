@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/item/103624#page/1027/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruysch \[Ruijsch\], Frederik (1638-1731), Dutch physician and anatomist; M.D. Leiden 1664; practicing physician in the Hague and Amsterdam; praelector of anatomy for the Amsterdam surgeon's guild 1666-1731; in addition professor of botany at the Amsterdam Athenaeum illustre and superintendent of its botanical garden 1685. (*Ruysch*).
+Ruysch \[Ruijsch\], Frederik (1638-1731), Dutch physician and anatomist; M.D. Leiden 1664; practicing physician in the Hague and Amsterdam; praelector of anatomy for the Amsterdam surgeon's guild 1666-1731; in addition professor of botany at the Amsterdam Athenaeum illustre and superintendent of its botanical garden 1685. 
+**Abbreviated name**: *Ruysch*
 
 #### Herbarium and types
 

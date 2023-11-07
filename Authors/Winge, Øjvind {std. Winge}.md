@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103250#page/425/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33066705) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winge, Øjvind (1886-1964), Danish botanist; Mag. sci. (bot.) 1910; assistant at the physiological department of the Carlsberg laboratories, Copenhagen. 1911-1921; Dr. phil. Copenhagen 1917; professor of genetics at the Agricultural College 1921-1933; lectured in genetics at Copenhagen University 1929-1935; professor at the Carlsberg laboratories and director of the physiological department 1933-1956; interested in mycological systematics, cytology, genetics and hybridization. (*Winge*).
+Winge, Øjvind (1886-1964), Danish botanist; Mag. sci. (bot.) 1910; assistant at the physiological department of the Carlsberg laboratories, Copenhagen. 1911-1921; Dr. phil. Copenhagen 1917; professor of genetics at the Agricultural College 1921-1933; lectured in genetics at Copenhagen University 1929-1935; professor at the Carlsberg laboratories and director of the physiological department 1933-1956; interested in mycological systematics, cytology, genetics and hybridization. 
+**Abbreviated name**: *Winge*
 
 #### Herbarium and types
 

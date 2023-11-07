@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103683#page/54/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33212048) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strecker, Wilhelm (1858-1934), German (Prussian) agriculturist; Dr. phil. Göttingen 1884; lecturer ib. 1884-1888; in charge of the "Landeskultur-Spezialkommission" in Witzenhausen 1890-1895; professor of agricultural technique Leipzig 1895-1927. (*Strecker*).
+Strecker, Wilhelm (1858-1934), German (Prussian) agriculturist; Dr. phil. Göttingen 1884; lecturer ib. 1884-1888; in charge of the "Landeskultur-Spezialkommission" in Witzenhausen 1890-1895; professor of agricultural technique Leipzig 1895-1927. 
+**Abbreviated name**: *Strecker*
 
 #### Herbarium and types
 

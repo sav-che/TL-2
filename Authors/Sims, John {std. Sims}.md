@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/item/104077#page/626/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33333751) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sims, John (1749-1831), British physician and botanist; MD Edinburgh 1774; studied at Leiden University 1773-1774; practicing physician in London from 1779. (*Sims*).
+Sims, John (1749-1831), British physician and botanist; MD Edinburgh 1774; studied at Leiden University 1773-1774; practicing physician in London from 1779. 
+**Abbreviated name**: *Sims*
 
 #### Herbarium and types
 

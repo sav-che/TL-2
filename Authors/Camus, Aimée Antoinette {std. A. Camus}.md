@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103414#page/478/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33120561) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Camus, Aimée (Antoinette) {std. A. Camus} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Camus, Aimée Antoinette (1879-1965), French botanist. (*A. Camus*).
+Camus, Aimée Antoinette (1879-1965), French botanist. 
+**Abbreviated name**: *A. Camus*
 
 #### Herbarium and types
 

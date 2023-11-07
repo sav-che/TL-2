@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/103834#page/315/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33259797) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Folsom, Donald (1891-1973), American botanist (phytopathologist), born 23 Oct 1891 in Henderson, Iowa, B.A. 1912 Univ. of Nebraska, Lincoln, M.A. 1914 and Ph.D. 1917 Univ. of Minnesota, Minneapolis, asst. in botany, Univ. of Minnesota, instructor in botany and plant pathology, North Carolina State College (now Univ.), Raleigh 1917-1918, asst. plant pathologist, Orono, Maine 1918-1920, then assoc. 1920-1923 and chief plant pathologist from 1923, died 17 Nov 1973. (*D. Folsom*).
+Folsom, Donald (1891-1973), American botanist (phytopathologist), born 23 Oct 1891 in Henderson, Iowa, B.A. 1912 Univ. of Nebraska, Lincoln, M.A. 1914 and Ph.D. 1917 Univ. of Minnesota, Minneapolis, asst. in botany, Univ. of Minnesota, instructor in botany and plant pathology, North Carolina State College (now Univ.), Raleigh 1917-1918, asst. plant pathologist, Orono, Maine 1918-1920, then assoc. 1920-1923 and chief plant pathologist from 1923, died 17 Nov 1973. 
+**Abbreviated name**: *D. Folsom*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103253#page/365/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33068581) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Host, Nicolaus Thomas (1761-1834), Austrian imperial physician to Franz I and botanist at Vienna. (*Host*).
+Host, Nicolaus Thomas (1761-1834), Austrian imperial physician to Franz I and botanist at Vienna. 
+**Abbreviated name**: *Host*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/item/103832#page/375/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33258841) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Greene, Henry Campbell (1904-1967), American mycologist, born 13 Dec 1904 in Fort Wayne, Indiana, attended elementary and secondary school in Fort Wayne, then attended Wabash College, Crawfordsville, Indiana for two years, B.A. 1928 and M.A. 1929 Univ. of Washington, Seattle, Ph.D. 1933 Univ. of Wisconsin, Madison, instructor from 1937 and Curator of the Cryptogamic Herb. from 1941, both Univ. of Wisconsin, Madison, died 27 Apr 1967 in Tucson, Arizona. (*H.C. Greene*).
+Greene, Henry Campbell (1904-1967), American mycologist, born 13 Dec 1904 in Fort Wayne, Indiana, attended elementary and secondary school in Fort Wayne, then attended Wabash College, Crawfordsville, Indiana for two years, B.A. 1928 and M.A. 1929 Univ. of Washington, Seattle, Ph.D. 1933 Univ. of Wisconsin, Madison, instructor from 1937 and Curator of the Cryptogamic Herb. from 1941, both Univ. of Wisconsin, Madison, died 27 Apr 1967 in Tucson, Arizona. 
+**Abbreviated name**: *H.C. Greene*
 
 #### Herbarium and types
 

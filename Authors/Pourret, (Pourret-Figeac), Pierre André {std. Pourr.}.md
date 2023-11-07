@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/item/103624#page/382/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33189839) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pourret, \[Pourret-Figeac\], Pierre André (1754-1818), French clergyman and botanist; explorer of the flora of the Pyrenees; originally at Narbonne, in charge of the collections of the brothers Loménie de Brienne; in exile in Spain from 1789 as director of the botanic garden and professor of botany in Barcelona; subsequently at Madrid and Canon of the cathedral at Orense \[Galicia\], for some time in hiding at Vieïro; ultimately Canon at Santiago. (*Pourr.*).
+Pourret, \[Pourret-Figeac\], Pierre André (1754-1818), French clergyman and botanist; explorer of the flora of the Pyrenees; originally at Narbonne, in charge of the collections of the brothers Loménie de Brienne; in exile in Spain from 1789 as director of the botanic garden and professor of botany in Barcelona; subsequently at Madrid and Canon of the cathedral at Orense \[Galicia\], for some time in hiding at Vieïro; ultimately Canon at Santiago. 
+**Abbreviated name**: *Pourr.*
 
 #### Herbarium and types
 

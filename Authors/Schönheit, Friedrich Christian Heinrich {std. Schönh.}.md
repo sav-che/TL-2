@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/104077#page/301/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33333426) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schönheit, Friedrich Christian Heinrich (1789-1870), German (Thüringian) botanist and clergyman in Teichröda 1815-1826, and Singen 1826-1870. (*Schönh.*).
+Schönheit, Friedrich Christian Heinrich (1789-1870), German (Thüringian) botanist and clergyman in Teichröda 1815-1826, and Singen 1826-1870. 
+**Abbreviated name**: *Schönh.*
 
 #### Herbarium and types
 

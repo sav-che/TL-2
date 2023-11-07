@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/item/104137#page/781/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33355852) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nordenskiöld, \[Nils\] Adolph Erik \[von\] (1832-1901), Finnish-born Swedish explorer, geographer and geologist; e.g. leader of the Vega-Expedition (1878-1880) which discovered the Northeastern passage around N. Asia (*Nordenskiöld*).
+Nordenskiöld, \[Nils\] Adolph Erik \[von\] (1832-1901), Finnish-born Swedish explorer, geographer and geologist; e.g. leader of the Vega-Expedition (1878-1880) which discovered the Northeastern passage around N. Asia 
+**Abbreviated name**: *Nordenskiöld*
 
 #### Herbarium and types
 

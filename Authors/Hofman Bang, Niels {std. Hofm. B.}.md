@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103253#page/274/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hofman Bang, Niels (1776-1855), Danish botanist, pupil of Vahl, landowner (Hofmannsgave) and agronomist. (*Hofm. B.*).
+Hofman Bang, Niels (1776-1855), Danish botanist, pupil of Vahl, landowner (Hofmannsgave) and agronomist. 
+**Abbreviated name**: *Hofm. B.*
 
 #### Herbarium and types
 

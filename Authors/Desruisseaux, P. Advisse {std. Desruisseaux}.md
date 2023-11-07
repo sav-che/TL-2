@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103833#page/244/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33259278) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Desruisseaux, P. Advisse (fl. 1908-1911), French agricultural engineer at Paris. (*Desruisseaux*).
+Desruisseaux, P. Advisse (fl. 1908-1911), French agricultural engineer at Paris. 
+**Abbreviated name**: *Desruisseaux*
 
 #### Herbarium and types
 

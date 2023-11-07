@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103859#page/82/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33265269) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bennett, Arthur (1843-1929), British builder, house decorator and amateur botanist at Croydon, educated at Mr. Twentyman's Academy, at Fairfield House, afterwards in his father's business until 1929, specialist on *Potamogeton*, active in the British Exchange Club. (*A. Benn.*).
+Bennett, Arthur (1843-1929), British builder, house decorator and amateur botanist at Croydon, educated at Mr. Twentyman's Academy, at Fairfield House, afterwards in his father's business until 1929, specialist on *Potamogeton*, active in the British Exchange Club. 
+**Abbreviated name**: *A. Benn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103835#page/255/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33260233) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebbinghaus, Julius (fl. 1863-1878), German botanist (mycologist) in Leipzig. (*Ebbinghaus*).
+Ebbinghaus, Julius (fl. 1863-1878), German botanist (mycologist) in Leipzig. 
+**Abbreviated name**: *Ebbinghaus*
 
 #### Herbarium and types
 

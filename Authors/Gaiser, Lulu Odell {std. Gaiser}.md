@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103832#page/117/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33258583) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gaiser, Lulu Odell (1896-1965), Canadian plant cytologist and taxonomist, born 1 Jun 1896 in Crediton, Ontario, A.B. 1916 Univ. of Western Ontario, London, Ontario, A.M. 1921 and Ph.D. 1927 Columbia Univ., New York, New York, asst., Dept. of Botany, Barnard College, New York, New York 1921-1923, Junior Pathologist, U.S.D.A., Washington, D.C. 1924-1925, lecturer then Prof. of Biology, McMaster Univ., Hamilton, Ontario 1925-1949, Gray Herb., Harvard Univ., Cambridge, Mass. 1949-1954, died 7 Apr 1965 in Crediton. (*Gaiser*).
+Gaiser, Lulu Odell (1896-1965), Canadian plant cytologist and taxonomist, born 1 Jun 1896 in Crediton, Ontario, A.B. 1916 Univ. of Western Ontario, London, Ontario, A.M. 1921 and Ph.D. 1927 Columbia Univ., New York, New York, asst., Dept. of Botany, Barnard College, New York, New York 1921-1923, Junior Pathologist, U.S.D.A., Washington, D.C. 1924-1925, lecturer then Prof. of Biology, McMaster Univ., Hamilton, Ontario 1925-1949, Gray Herb., Harvard Univ., Cambridge, Mass. 1949-1954, died 7 Apr 1965 in Crediton. 
+**Abbreviated name**: *Gaiser*
 
 #### Herbarium and types
 

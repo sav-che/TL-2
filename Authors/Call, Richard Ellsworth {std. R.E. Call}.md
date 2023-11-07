@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/103861#page/323/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33266620) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Call, Richard Ellsworth (1856-1917), American naturalist, born 13 Mai 1856 in Brooklyn, New York, graduated 1875 from Calenovia Seminary, attended Syracuse University, A.B. Indiana 1890, A.M. 1891, M.D. Hosp. Col. Med. Louisville, Ky. 1893, Ph.D. Ohio (Athens) 1895, US. Geol. Survey 1884-1885, high school Moline Ill. 1885-1887, asst. professor of zoology Missouri 1887-1888, teacher Des Moines 1888-1892, Louisville Ky. 1892-1895, Lawrenceburg, Ind. 1895-1898, Brooklyn Inst. Arts Science 1899-1905, died 14 Mar 1917, New York City. (*R.E. Call*).
+Call, Richard Ellsworth (1856-1917), American naturalist, born 13 Mai 1856 in Brooklyn, New York, graduated 1875 from Calenovia Seminary, attended Syracuse University, A.B. Indiana 1890, A.M. 1891, M.D. Hosp. Col. Med. Louisville, Ky. 1893, Ph.D. Ohio (Athens) 1895, US. Geol. Survey 1884-1885, high school Moline Ill. 1885-1887, asst. professor of zoology Missouri 1887-1888, teacher Des Moines 1888-1892, Louisville Ky. 1892-1895, Lawrenceburg, Ind. 1895-1898, Brooklyn Inst. Arts Science 1899-1905, died 14 Mar 1917, New York City. 
+**Abbreviated name**: *R.E. Call*
 
 #### Herbarium and types
 

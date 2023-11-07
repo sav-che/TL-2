@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103861#page/462/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33266759) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cassebeer, Johann Heinrich {std. Casseb.}|first entry]] for this author
 
 ### Author
 
-\* Cassebeer, Johann Heinrich (1784-1850), German pharmacist and bryologist, educated by his father, a pharmacist, to become also pharmacist, studied in pharmacies in Mainz, Salzwedel, Berlin, and Gandersheim, in charge of his father's pharmacy in Gelnhausen 1806, sold his pharmacy 1834, settled in Bieber. (*Casseb.*).
+\* Cassebeer, Johann Heinrich (1784-1850), German pharmacist and bryologist, educated by his father, a pharmacist, to become also pharmacist, studied in pharmacies in Mainz, Salzwedel, Berlin, and Gandersheim, in charge of his father's pharmacy in Gelnhausen 1806, sold his pharmacy 1834, settled in Bieber. 
+**Abbreviated name**: *Casseb.*
 
 #### Herbarium and types
 

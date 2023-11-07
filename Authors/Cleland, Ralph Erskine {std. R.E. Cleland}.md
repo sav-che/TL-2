@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/103860#page/213/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265880) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cleland, Ralph Erskine (1892-1971), American botanist, plant geneticist, born in LeClair, Iowa, at the University of Pennsylvania, A.B. 1915, M.S. 1916, Ph.D. 1919 in botany, instructor at Goucher College, Baltimore 1919, later professor and departmental chairman, chairman botany at Indiana University 1938-1958, dean of the graduate school 1952-1958, distinguished service professor 1958-1963, distinguished service professor emeritus 1963-1971. (*R.E. Cleland*).
+Cleland, Ralph Erskine (1892-1971), American botanist, plant geneticist, born in LeClair, Iowa, at the University of Pennsylvania, A.B. 1915, M.S. 1916, Ph.D. 1919 in botany, instructor at Goucher College, Baltimore 1919, later professor and departmental chairman, chairman botany at Indiana University 1938-1958, dean of the graduate school 1952-1958, distinguished service professor 1958-1963, distinguished service professor emeritus 1963-1971. 
+**Abbreviated name**: *R.E. Cleland*
 
 #### Herbarium and types
 

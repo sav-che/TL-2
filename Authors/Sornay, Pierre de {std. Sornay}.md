@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/item/104077#page/766/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sornay, Pierre de (*fl*. 1913), French chemist and botanist at the Station agronomique at Mauritius, later director of the laboratory of agricultural research of the Mauritius "Compagnie du Colonial Engrais Chimiques. (*Sornay*).
+Sornay, Pierre de (*fl*. 1913), French chemist and botanist at the Station agronomique at Mauritius, later director of the laboratory of agricultural research of the Mauritius "Compagnie du Colonial Engrais Chimiques. 
+**Abbreviated name**: *Sornay*
 
 #### Herbarium and types
 

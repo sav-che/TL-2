@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/104077#page/287/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33333412) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, Georg (1888-x), German (Hessen-Nassau) botanist; studied in Göttingen and Münster; Dr. phil. Münster 1912. (*Geo. Schneid.*).
+Schneider, Georg (1888-x), German (Hessen-Nassau) botanist; studied in Göttingen and Münster; Dr. phil. Münster 1912. 
+**Abbreviated name**: *Geo. Schneid.*
 
 #### Herbarium and types
 

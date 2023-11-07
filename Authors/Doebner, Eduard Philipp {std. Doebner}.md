@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103835#page/30/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33260008) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doebner, Eduard Philipp (1810-x), German pharmacist and botanist, born 16 Nov 1810 at Meiningen, pharmacist at Munich, later (1839) teacher in natural history at the technical gymnasium in Augsburg, Dr. honoris causa in 1838, at last in 1844 professor in chemistry, physics and natural history at Aschaffenburg, stayed for some time in Salzburg (Austria). (*Doebner*).
+Doebner, Eduard Philipp (1810-x), German pharmacist and botanist, born 16 Nov 1810 at Meiningen, pharmacist at Munich, later (1839) teacher in natural history at the technical gymnasium in Augsburg, Dr. honoris causa in 1838, at last in 1844 professor in chemistry, physics and natural history at Aschaffenburg, stayed for some time in Salzburg (Austria). 
+**Abbreviated name**: *Doebner*
 
 #### Herbarium and types
 

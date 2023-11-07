@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/item/103253#page/793/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laurent, Jules (1860-1918), French botanist. (*J. Laurent*).
+Laurent, Jules (1860-1918), French botanist. 
+**Abbreviated name**: *J. Laurent*
 
 #### Herbarium and types
 

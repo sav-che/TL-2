@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/item/103833#page/19/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33259053) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dahl, Andreas {std. Dahl}|first entry]] for this author
 
 ### Author
 
-\* Dahl, Andreas (1751-1789), Swedish physician and botanist, born at Warnhelm, Västergötland, studied at Uppsala 1770, "med. filos. kand." 1776, at Kiel 1786, "demonstrator"and medical adjunct at Åbo (Turku) 1787-1789. (*Dahl*).
+\* Dahl, Andreas (1751-1789), Swedish physician and botanist, born at Warnhelm, Västergötland, studied at Uppsala 1770, "med. filos. kand." 1776, at Kiel 1786, "demonstrator"and medical adjunct at Åbo (Turku) 1787-1789. 
+**Abbreviated name**: *Dahl*
 
 #### Herbarium and types
 

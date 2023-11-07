@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103832#page/383/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33258849) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grenier, Jean Charles Marie {std. Gren.}|first entry]] for this author
 
 ### Author
 
-\* Grenier, \[Jean\] Charles \[Marie\] (1808-1875), French botanist and zoologist, born 4 Nov 1808 in Besançon (Doubs), Dr. en-médecine 1836 Univ. of Strasbourg, prof. of natural history, medical school, Besançon, 1843, Dr. ès-sciences 1845 Univ. of Strasbourg, died 9 Nov 1875 in Besançon. (*Gren.*).
+\* Grenier, \[Jean\] Charles \[Marie\] (1808-1875), French botanist and zoologist, born 4 Nov 1808 in Besançon (Doubs), Dr. en-médecine 1836 Univ. of Strasbourg, prof. of natural history, medical school, Besançon, 1843, Dr. ès-sciences 1845 Univ. of Strasbourg, died 9 Nov 1875 in Besançon. 
+**Abbreviated name**: *Gren.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103414#page/250/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berthold, Gottfried Dietrich Wilhelm {std. Berthold} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Berthold, Gottfried Dietrich Wilhelm (1854-1937), German algologist. (*Berthold*).
+Berthold, Gottfried Dietrich Wilhelm (1854-1937), German algologist. 
+**Abbreviated name**: *Berthold*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/item/103624#page/874/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33190331) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rogers, Walter E (1890-1951), American botanist, ecologist and ornithologist; M.S. Iowa 1916; technician St. Louis biol. lab. 1913-1914; asst. bot. Iowa 1914-1917; professor of biology Westminster Coll., Pa., 1917-1919; professor of biology and botany at Lawrence College 1919-1951. (*W.E Rogers*).
+Rogers, Walter E (1890-1951), American botanist, ecologist and ornithologist; M.S. Iowa 1916; technician St. Louis biol. lab. 1913-1914; asst. bot. Iowa 1914-1917; professor of biology Westminster Coll., Pa., 1917-1919; professor of biology and botany at Lawrence College 1919-1951. 
+**Abbreviated name**: *W.E Rogers*
 
 #### Herbarium and types
 

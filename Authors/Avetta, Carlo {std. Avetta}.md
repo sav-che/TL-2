@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103858#page/229/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33264944) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Avetta, Carlo (1861-1941), Italian botanist, born in Torino, studied at the University of Roma (with P.R. Pirotta), habil. Bot. Univ. Roma 1890, assistant at the Botanical Institute, Roma ca. 1890-1893, director of the botanical garden and professor of botany at the University of Parma 1893-1935, in retirement in Torino, "gentiuomo del vecchio stampo". (*Avetta*).
+Avetta, Carlo (1861-1941), Italian botanist, born in Torino, studied at the University of Roma (with P.R. Pirotta), habil. Bot. Univ. Roma 1890, assistant at the Botanical Institute, Roma ca. 1890-1893, director of the botanical garden and professor of botany at the University of Parma 1893-1935, in retirement in Torino, "gentiuomo del vecchio stampo". 
+**Abbreviated name**: *Avetta*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103624#page/385/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33189842) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Powell, Thomas (1809-1887), British missionary and naturalist; at Upolu, Samoa 1860-1865, also working in the Gilbert and Ellice Islands and other parts of Oceania. (*T. Powell*).
+Powell, Thomas (1809-1887), British missionary and naturalist; at Upolu, Samoa 1860-1865, also working in the Gilbert and Ellice Islands and other parts of Oceania. 
+**Abbreviated name**: *T. Powell*
 
 #### Herbarium and types
 

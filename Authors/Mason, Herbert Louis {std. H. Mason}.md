@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/104137#page/365/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mason, Herbert Louis (1896-x), American botanist; B.A. Stanford 1922; Ph.D. Berkeley 1932; Mills. coll. 1923-1925; Univ. of Calif. Berkeley, in various functions from 1925. (*H. Mason*).
+Mason, Herbert Louis (1896-x), American botanist; B.A. Stanford 1922; Ph.D. Berkeley 1932; Mills. coll. 1923-1925; Univ. of Calif. Berkeley, in various functions from 1925. 
+**Abbreviated name**: *H. Mason*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103253#page/282/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33068498) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holler, August (1835-1904), German (Bavarian) bryologist and physician; studied at München, Praha and Berlin; regional physician at Mering nr. Augsburg (1862), from 1880 idem at Memmingen, from 1899 as "Kgl. Medizinalrath." (*Holler*).
+Holler, August (1835-1904), German (Bavarian) bryologist and physician; studied at München, Praha and Berlin; regional physician at Mering nr. Augsburg (1862), from 1880 idem at Memmingen, from 1899 as "Kgl. Medizinalrath." 
+**Abbreviated name**: *Holler*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103832#page/456/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33258922) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gugelberg von Moos, Maria \[Marie\] (Barbara Flandrina) (1836-1918), Swiss bryologist and hepaticologist, born 6 Feb 1836 in Schloss Salenegg bei Maienfeld (Kt. Graubünden), studied in Maienfeld and Neuchâtel, evidently also collaborated with Christian Gregor Brügger, died 29 Oct 1918 in Maienfeld. (*Gugelb.*).
+Gugelberg von Moos, Maria \[Marie\] (Barbara Flandrina) (1836-1918), Swiss bryologist and hepaticologist, born 6 Feb 1836 in Schloss Salenegg bei Maienfeld (Kt. Graubünden), studied in Maienfeld and Neuchâtel, evidently also collaborated with Christian Gregor Brügger, died 29 Oct 1918 in Maienfeld. 
+**Abbreviated name**: *Gugelb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/item/104137#page/804/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33355875) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nygaard, Gunnar (1903-x), Danish algologist and limnologist; cand. mag. 1929; high school teacher at Sønderborg (1935), Ordrup (1954), Frederiksborg (1952). (*Nygaard*).
+Nygaard, Gunnar (1903-x), Danish algologist and limnologist; cand. mag. 1929; high school teacher at Sønderborg (1935), Ordrup (1954), Frederiksborg (1952). 
+**Abbreviated name**: *Nygaard*
 
 #### Herbarium and types
 

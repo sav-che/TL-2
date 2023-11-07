@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/item/104077#page/761/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33333886) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sóo \[von Bere\], \[Károly\] Rezsö (1903-1980), Hungarian botanist, high school education at Kolozsvár (Cluj) 1913-1921; studied at Budapest University 1921-1925; Dr. phil. ib. 1925; at Berlin-Dahlem 1925-1927; at the Tihany biological institute 1927-1929; e.o. professor of botany at the University of Debrecen 1929-1935; Ordinarius and director of the botanical institute ib. 1925-1940; idem at the Museum Transilvanicum Kolozvár (Cluj) 1940-1944; again at Debrecen 1940-1955; director of the institute of systematic botany and geobotany of the University of Budapest 1953-1969; Dr. h.c. Debrecen 1973. (*Sóo*).
+Sóo \[von Bere\], \[Károly\] Rezsö (1903-1980), Hungarian botanist, high school education at Kolozsvár (Cluj) 1913-1921; studied at Budapest University 1921-1925; Dr. phil. ib. 1925; at Berlin-Dahlem 1925-1927; at the Tihany biological institute 1927-1929; e.o. professor of botany at the University of Debrecen 1929-1935; Ordinarius and director of the botanical institute ib. 1925-1940; idem at the Museum Transilvanicum Kolozvár (Cluj) 1940-1944; again at Debrecen 1940-1955; director of the institute of systematic botany and geobotany of the University of Budapest 1953-1969; Dr. h.c. Debrecen 1973. 
+**Abbreviated name**: *Sóo*
 
 #### Herbarium and types
 

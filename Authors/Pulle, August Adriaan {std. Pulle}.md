@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103624#page/439/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pulle, August Adriaan (1878-1955), Netherlands botanist; Dr. phil. Utrecht 1906; from 1906-1914 lecturer, from 1914-1949 professor of systematic botany at the University of Utrecht; botanical explorer of Suriname; founder of the Utrecht school of systematic botany and long-time editor of the Flora of Suriname. (*Pulle*).
+Pulle, August Adriaan (1878-1955), Netherlands botanist; Dr. phil. Utrecht 1906; from 1906-1914 lecturer, from 1914-1949 professor of systematic botany at the University of Utrecht; botanical explorer of Suriname; founder of the Utrecht school of systematic botany and long-time editor of the Flora of Suriname. 
+**Abbreviated name**: *Pulle*
 
 #### Herbarium and types
 

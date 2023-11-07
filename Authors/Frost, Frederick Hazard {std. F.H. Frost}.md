@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103832#page/76/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33258542) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frost, Frederick Hazard (1902-1973), American paleobotanist and paper-industry scientist, born 11 Jan 1902 in Hanover, New Hampshire, B.S. (Geology) 1923 Univ. of Chicago, Ph.D. 1927 Univ. of Calif., Natl. Research Council Fellow, Harvard Univ., Cambridge, Mass. 1927-1929, vice-president and dir. of research, S.D. Warren Co. (a paper company), Portland, Maine 1929-ca. 1966, vice-president 1953, Techn. Assn. Pulp & Paper Industries in Maine, died 20 Aug 1973 in Portland, Maine. (*F.H. Frost*).
+Frost, Frederick Hazard (1902-1973), American paleobotanist and paper-industry scientist, born 11 Jan 1902 in Hanover, New Hampshire, B.S. (Geology) 1923 Univ. of Chicago, Ph.D. 1927 Univ. of Calif., Natl. Research Council Fellow, Harvard Univ., Cambridge, Mass. 1927-1929, vice-president and dir. of research, S.D. Warren Co. (a paper company), Portland, Maine 1929-ca. 1966, vice-president 1953, Techn. Assn. Pulp & Paper Industries in Maine, died 20 Aug 1973 in Portland, Maine. 
+**Abbreviated name**: *F.H. Frost*
 
 #### Note
 

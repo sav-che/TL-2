@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/item/104137#page/771/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nissole, Guillaume \[Nissolle\] (1647-1735), French botanist and physician at Montpellier. (*Nissole*).
+Nissole, Guillaume \[Nissolle\] (1647-1735), French botanist and physician at Montpellier. 
+**Abbreviated name**: *Nissole*
 
 #### Herbarium and types
 

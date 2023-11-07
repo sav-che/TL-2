@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/item/103832#page/328/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33258794) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gouan, Antoine {std. Gouan}|first entry]] for this author
 
 ### Author
 
-\* Gouan, Antoine (1733-1821), French botanist and naturalist, born 15 Nov \[not Dec\] 1733 in Montpellier, studied in Toulouse then Montpellier, doctorate 1752 (at 19 years of age!), student of F.-B. Sauvages whom he succeeded as dir. of the Jardin des Plantes, Montpellier 1767, died 1 Sep 1821 in Montpellier. (*Gouan*).
+\* Gouan, Antoine (1733-1821), French botanist and naturalist, born 15 Nov \[not Dec\] 1733 in Montpellier, studied in Toulouse then Montpellier, doctorate 1752 (at 19 years of age!), student of F.-B. Sauvages whom he succeeded as dir. of the Jardin des Plantes, Montpellier 1767, died 1 Sep 1821 in Montpellier. 
+**Abbreviated name**: *Gouan*
 
 #### Herbarium and types
 

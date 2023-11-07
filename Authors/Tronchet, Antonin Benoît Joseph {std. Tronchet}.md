@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/item/103683#page/516/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33212548) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tronchet, Antonin Benoît Joseph (1902-x), French botanist; Dr. sci. nat. Univ. Lyon 1930; professor of botany at the Faculté des Sciences, Besançon. (*Tronchet*).
+Tronchet, Antonin Benoît Joseph (1902-x), French botanist; Dr. sci. nat. Univ. Lyon 1930; professor of botany at the Faculté des Sciences, Besançon. 
+**Abbreviated name**: *Tronchet*
 
 #### Herbarium and types
 

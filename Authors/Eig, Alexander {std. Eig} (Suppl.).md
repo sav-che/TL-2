@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/103835#page/295/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33260273) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eig, Alexander {std. Eig}|first entry]] for this author
 
 ### Author
 
-\* Eig, Alexander (1894(1895?)-1938), Russian born Palestinian botanist, came to Palestine at the age of 14 to study at the agricultural school of Mikveh, joined the jewish legion during the war, assistant to Prof. O. Warburg in 1925, Dr. Sci. at Montpellier in 1931, travelled in Syria, Turkey and Iraq 1931-1933, founder of the botanical society of Palestine and the "Palestine journal of botany", died 30 Jul 1938 at Jerusalem. (*Eig*).
+\* Eig, Alexander (1894(1895?)-1938), Russian born Palestinian botanist, came to Palestine at the age of 14 to study at the agricultural school of Mikveh, joined the jewish legion during the war, assistant to Prof. O. Warburg in 1925, Dr. Sci. at Montpellier in 1931, travelled in Syria, Turkey and Iraq 1931-1933, founder of the botanical society of Palestine and the "Palestine journal of botany", died 30 Jul 1938 at Jerusalem. 
+**Abbreviated name**: *Eig*
 
 #### Herbarium and types
 

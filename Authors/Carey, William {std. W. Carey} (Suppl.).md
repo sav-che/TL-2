@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/item/103861#page/423/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33266720) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carey, William {std. W. Carey}|first entry]] for this author
 
 ### Author
 
-\* Carey, William (1761-1834), British baptist missionary, orientalist and botanist, born at Paulerspury, Northants., as Baptist missionary to Serampore 1799, professor of Sanskrit at Fort William College 1801, founded the Botanic Garden at Serampore. (*W. Carey*).
+\* Carey, William (1761-1834), British baptist missionary, orientalist and botanist, born at Paulerspury, Northants., as Baptist missionary to Serampore 1799, professor of Sanskrit at Fort William College 1801, founded the Botanic Garden at Serampore. 
+**Abbreviated name**: *W. Carey*
 
 #### Herbarium and types
 

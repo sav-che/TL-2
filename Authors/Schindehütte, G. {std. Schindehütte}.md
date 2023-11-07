@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/104077#page/186/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33333311) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schindehütte, G. (*fl*. 1907), German paleobotanist. (*Schindehütte*).
+Schindehütte, G. (*fl*. 1907), German paleobotanist. 
+**Abbreviated name**: *Schindehütte*
 
 #### Herbarium and types
 

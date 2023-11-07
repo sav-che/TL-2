@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103253#page/271/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33068487) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoffmannsegg, Johann Centurius, Graf von (1766-1849), German botanist, entomologist and ornithologist; travelled in Hungary (1793-1794) and Portugal (1797-1801). (*Hoffmanns.*).
+Hoffmannsegg, Johann Centurius, Graf von (1766-1849), German botanist, entomologist and ornithologist; travelled in Hungary (1793-1794) and Portugal (1797-1801). 
+**Abbreviated name**: *Hoffmanns.*
 
 #### Herbarium and types
 

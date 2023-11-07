@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103414#page/220/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33120303) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bennett, John Joseph {std. Benn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bennett, John Joseph (1801-1876), British botanist. (*Benn.*).
+Bennett, John Joseph (1801-1876), British botanist. 
+**Abbreviated name**: *Benn.*
 
 #### Types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103253#page/136/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33068352) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hayek, August (Edler) von (1871-1928), Austrian botanist and physician; dr. med. Wien 1895; dr. phil. Wien 1905, from 1912 at the Universität Wien. (*Hayek*).
+Hayek, August (Edler) von (1871-1928), Austrian botanist and physician; dr. med. Wien 1895; dr. phil. Wien 1905, from 1912 at the Universität Wien. 
+**Abbreviated name**: *Hayek*
 
 #### Herbarium and types
 

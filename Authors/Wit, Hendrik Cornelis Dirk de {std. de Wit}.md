@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103250#page/455/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33066735) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wit, Hendrik Cornelis Dirk de (1909-x), Dutch botanist; studied at the University of Amsterdam 1931-1937 and at Pretoria, M.Sc. 1938, Dr. phil. 1941; agricultural research officer, Dept. Agriculture, Pretoria 1938-1940; botanist at the Botanical Garden Buitenzorg (Bogor) 1941-1946; botanist with the Flora malesiana foundation 1946-1953; also high school teacher at Bussum and Amsterdam 1951-1953; lecturer at the University of Leiden 1953-1959; lecturer at the Agricultural University Wageningen 1953-1959, ordinary professor of plant taxonomy and plant geography of the tropics and subtropics ib. 1959; also director of the laboratory of plant taxonomy and plant geography from 1969-1980. (*de Wit*).
+Wit, Hendrik Cornelis Dirk de (1909-x), Dutch botanist; studied at the University of Amsterdam 1931-1937 and at Pretoria, M.Sc. 1938, Dr. phil. 1941; agricultural research officer, Dept. Agriculture, Pretoria 1938-1940; botanist at the Botanical Garden Buitenzorg (Bogor) 1941-1946; botanist with the Flora malesiana foundation 1946-1953; also high school teacher at Bussum and Amsterdam 1951-1953; lecturer at the University of Leiden 1953-1959; lecturer at the Agricultural University Wageningen 1953-1959, ordinary professor of plant taxonomy and plant geography of the tropics and subtropics ib. 1959; also director of the laboratory of plant taxonomy and plant geography from 1969-1980. 
+**Abbreviated name**: *de Wit*
 
 #### Herbarium and types
 

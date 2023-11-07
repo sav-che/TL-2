@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/104077#page/121/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33333246) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schäffer, Julius (1882-1944), German mycologist; studied at the evangelical-theological seminary at Tübingen 1900-1904; teacher at the "Landerziehungsheim" Ilsenburg am Hartz; studied natural sciences at Dresden, teacher's examination 1910; high school teacher at Potsdam 1912-1939; from 1939-1944 in Diessen am Ammersee. (*Jul. Schäff.*).
+Schäffer, Julius (1882-1944), German mycologist; studied at the evangelical-theological seminary at Tübingen 1900-1904; teacher at the "Landerziehungsheim" Ilsenburg am Hartz; studied natural sciences at Dresden, teacher's examination 1910; high school teacher at Potsdam 1912-1939; from 1939-1944 in Diessen am Ammersee. 
+**Abbreviated name**: *Jul. Schäff.*
 
 #### Herbarium and types
 

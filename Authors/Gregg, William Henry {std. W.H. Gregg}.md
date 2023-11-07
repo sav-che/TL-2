@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103832#page/381/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33258847) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gregg, William Henry (1845-1913), British soldier and botanist, M.B. (Bachelor of Medicine), asst. surgeon, 4th native infantry, Bengal Medical Dept. 1869, later Surgeon-gen. in Bengal Army and lecturer in Botany at Hugli Government College (sic?), Calcutta (now Kolkata). (*W.H. Gregg*).
+Gregg, William Henry (1845-1913), British soldier and botanist, M.B. (Bachelor of Medicine), asst. surgeon, 4th native infantry, Bengal Medical Dept. 1869, later Surgeon-gen. in Bengal Army and lecturer in Botany at Hugli Government College (sic?), Calcutta (now Kolkata). 
+**Abbreviated name**: *W.H. Gregg*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/item/103414#page/556/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clausen, Peter (*fl*. 1834-1843), Danish collector in Brazil. (*Clausen*).
+Clausen, Peter (*fl*. 1834-1843), Danish collector in Brazil. 
+**Abbreviated name**: *Clausen*
 
 #### Herbarium and types
 

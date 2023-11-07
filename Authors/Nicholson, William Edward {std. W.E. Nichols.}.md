@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/item/104137#page/758/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33355829) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicholson, William Edward (1866-1945), British lawyer and bryologist at Lewes, Sussex. (*W. E. Nichols.*).
+Nicholson, William Edward (1866-1945), British lawyer and bryologist at Lewes, Sussex. 
+**Abbreviated name**: *W. E. Nichols.*
 
 #### Herbarium and types
 

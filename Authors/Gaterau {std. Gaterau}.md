@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/item/103414#page/968/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33121051) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gaterau, Jean-Pierre {std. Gaterau} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gaterau (*fl*. 1789), French botanist. (*Gaterau*).
+Gaterau (*fl*. 1789), French botanist. 
+**Abbreviated name**: *Gaterau*
 
 #### Herbarium and types
 

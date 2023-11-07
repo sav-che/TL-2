@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/item/104137#page/745/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33355816) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Netto, Ladislau de Souza Mello e (1837-?), Brazilian botanist; director of the botanical section óf the Rio de Janeiro National Museum 1866-1875; director of the entire museum from 1875-1893. (*Netto*).
+Netto, Ladislau de Souza Mello e (1837-?), Brazilian botanist; director of the botanical section óf the Rio de Janeiro National Museum 1866-1875; director of the entire museum from 1875-1893. 
+**Abbreviated name**: *Netto*
 
 #### Herbarium and types
 

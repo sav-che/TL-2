@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/item/104137#page/876/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33355947) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oudemans, Corneille Antoine Jean Abram (1825-1906), Dutch physician and botanist; Dr. med. Leiden 1847; practicing physician and lecturer at the Rotterdam medical school 1848-1859; professor of medicine and botany at the Amsterdam Athenaeum 1859-1877; professor of botany and pharmacognosy at Amsterdam University 1877-1896; general secretary of the Royal Netherlands Academy of Sciences 1879-1895; in retirement at Arnhem from 1896. (*Oudem.*).
+Oudemans, Corneille Antoine Jean Abram (1825-1906), Dutch physician and botanist; Dr. med. Leiden 1847; practicing physician and lecturer at the Rotterdam medical school 1848-1859; professor of medicine and botany at the Amsterdam Athenaeum 1859-1877; professor of botany and pharmacognosy at Amsterdam University 1877-1896; general secretary of the Royal Netherlands Academy of Sciences 1879-1895; in retirement at Arnhem from 1896. 
+**Abbreviated name**: *Oudem.*
 
 #### Herbarium and types
 

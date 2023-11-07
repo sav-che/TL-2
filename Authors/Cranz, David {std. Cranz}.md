@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103860#page/460/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33266127) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cranz, David (1723-1777), Moravian missionary of the Moravian brethren, born at Neugarten in Pommern, in Greenland 1761-1762, from 1766 preacher in Rixdorf near Berlin, 1771 in Gnadenfrei. (*Cranz*).
+Cranz, David (1723-1777), Moravian missionary of the Moravian brethren, born at Neugarten in Pommern, in Greenland 1761-1762, from 1766 preacher in Rixdorf near Berlin, 1771 in Gnadenfrei. 
+**Abbreviated name**: *Cranz*
 
 #### Herbarium and types
 

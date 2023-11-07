@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103833#page/352/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dillenius, Johann Baptist(a) Joseph (1755-1838), German botanist, physician, philosopher, serving the "Kurfürstlich Mainzischen Diensten", studied medicine, mathematics, and philosophy in Mainz, born Mainz 2 Feb 1755, died 20 Dec 1838, ib., Dr. med. Univ. Mainz, stadtphysician 1789, teacher at the "Mainzer Hochschule". (*Dill.*).
+Dillenius, Johann Baptist(a) Joseph (1755-1838), German botanist, physician, philosopher, serving the "Kurfürstlich Mainzischen Diensten", studied medicine, mathematics, and philosophy in Mainz, born Mainz 2 Feb 1755, died 20 Dec 1838, ib., Dr. med. Univ. Mainz, stadtphysician 1789, teacher at the "Mainzer Hochschule". 
+**Abbreviated name**: *Dill.*
 
 #### Herbarium and types
 

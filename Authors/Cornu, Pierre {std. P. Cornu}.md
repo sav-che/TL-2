@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/item/103860#page/378/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33266045) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cornu, Pierre (fl. 1939), Swiss botanist (algologist) at the University of Lausanne. (*P. Cornu*).
+Cornu, Pierre (fl. 1939), Swiss botanist (algologist) at the University of Lausanne. 
+**Abbreviated name**: *P. Cornu*
 
 #### Herbarium and types
 

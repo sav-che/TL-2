@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103834#page/246/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33259728) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fisher, Robert (Rev.) (1848-1933), British vicar, born 22 Jun 1818 in St. Bees (Cumb.), B.A. 1870 Cambridge, ordained 1871, vicar in Sewerby 1877-1898 and in Beverly 1898-1905, rector in Stokesley 1905-1925, Canon of York 1913, died 11 Mai 1933 in Whitby (Yorks.). (*R. Fisher*).
+Fisher, Robert (Rev.) (1848-1933), British vicar, born 22 Jun 1818 in St. Bees (Cumb.), B.A. 1870 Cambridge, ordained 1871, vicar in Sewerby 1877-1898 and in Beverly 1898-1905, rector in Stokesley 1905-1925, Canon of York 1913, died 11 Mai 1933 in Whitby (Yorks.). 
+**Abbreviated name**: *R. Fisher*
 
 #### Herbarium and types
 

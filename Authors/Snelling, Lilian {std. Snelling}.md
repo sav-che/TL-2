@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/item/104077#page/725/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Snelling, Lilian (1879-1972), British botanical artist; at the Royal Botanic Garden, Edinburgh 1916-1921; artist and lithographer at the Royal Botanic Gardens, Kew 1922-1952, illustrated e.g. the Botanical Magazine. (*Snelling*).
+Snelling, Lilian (1879-1972), British botanical artist; at the Royal Botanic Garden, Edinburgh 1916-1921; artist and lithographer at the Royal Botanic Gardens, Kew 1922-1952, illustrated e.g. the Botanical Magazine. 
+**Abbreviated name**: *Snelling*
 
 #### Herbarium and types
 

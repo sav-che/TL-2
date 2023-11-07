@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/item/103253#page/589/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33068805) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klebahn, Heinrich (1859-1942), German mycologist and phytopathologist; Dr. phil. Jena 1884; high school teacher (linguistics) at Bremen 1885-1894, at Hamburg 1894-1899; from 1899-1905 at the Hamburg botanical Garden; from 1905-1930 at the agricultural institute of Bromberg; teaching at Hamburg University 1921-1934. (*Kleb.*).
+Klebahn, Heinrich (1859-1942), German mycologist and phytopathologist; Dr. phil. Jena 1884; high school teacher (linguistics) at Bremen 1885-1894, at Hamburg 1894-1899; from 1899-1905 at the Hamburg botanical Garden; from 1905-1930 at the agricultural institute of Bromberg; teaching at Hamburg University 1921-1934. 
+**Abbreviated name**: *Kleb.*
 
 #### Herbarium and types
 

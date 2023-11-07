@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/item/103683#page/635/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33212667) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaccari, Lino (1873-1951), Italian botanist; director of the alpine garden Chanousia (Piccolo S. Bernardo), 1909-1951, also associated as lecturer in botany with the University of Firenze and "libero docente di botanica", Ministerio Educazione nationale, Roma. (*Vacc.*).
+Vaccari, Lino (1873-1951), Italian botanist; director of the alpine garden Chanousia (Piccolo S. Bernardo), 1909-1951, also associated as lecturer in botany with the University of Firenze and "libero docente di botanica", Ministerio Educazione nationale, Roma. 
+**Abbreviated name**: *Vacc.*
 
 #### Herbarium and types
 

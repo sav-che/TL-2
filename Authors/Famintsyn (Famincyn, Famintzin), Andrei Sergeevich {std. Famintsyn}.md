@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103834#page/54/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33259536) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Famintsyn \[Famincyn, Famintzin, Famintzuin\], Andrei \[André, Andrej, Andrey\] Sergeevich \[Sergejewitsch\] (1835-1918), Russian cryptogamic botanist who specialized in anatomy and physiology, born 17/29 Jun 1835 in the Sokolniki District, Moscow, descendent of a 16th century Scottish immigrant (Famintsyn is Russian for Thompson), studied in St. Petersburg, Heidelberg and Freiburg where he briefl y worked in the lab. of A. de Bary 1858, Dr. Bot. 1884, Prof., St. Petersburg 1908 and member of the Imperial Academy of Science, founder of plant physiology as an academic discipline in Russia, proponent of the symbiogenesis theory of evolution in which he independently but simultaneously with Constantin Sergeevich Merezhokowsky (1855-1921) argued that mitochondria originated as bacteria, first biologist to demonstrate photosynthesis in artificial light, died 8/21 Dec 1918. (*Famintsyn*).
+Famintsyn \[Famincyn, Famintzin, Famintzuin\], Andrei \[André, Andrej, Andrey\] Sergeevich \[Sergejewitsch\] (1835-1918), Russian cryptogamic botanist who specialized in anatomy and physiology, born 17/29 Jun 1835 in the Sokolniki District, Moscow, descendent of a 16th century Scottish immigrant (Famintsyn is Russian for Thompson), studied in St. Petersburg, Heidelberg and Freiburg where he briefl y worked in the lab. of A. de Bary 1858, Dr. Bot. 1884, Prof., St. Petersburg 1908 and member of the Imperial Academy of Science, founder of plant physiology as an academic discipline in Russia, proponent of the symbiogenesis theory of evolution in which he independently but simultaneously with Constantin Sergeevich Merezhokowsky (1855-1921) argued that mitochondria originated as bacteria, first biologist to demonstrate photosynthesis in artificial light, died 8/21 Dec 1918. 
+**Abbreviated name**: *Famintsyn*
 
 #### Herbarium and types
 

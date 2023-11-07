@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/104137#page/614/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33355685) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mortier, Edouard Louis (1801-1852), fictitious French naturalist said to have been a botanical explorer of South America. (*==Name in the standard form is not specified==.*).
+Mortier, Edouard Louis (1801-1852), fictitious French naturalist said to have been a botanical explorer of South America. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Note
 

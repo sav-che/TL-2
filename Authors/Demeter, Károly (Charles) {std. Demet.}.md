@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103833#page/209/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Demeter, Károly \[Charles\] (1852-1890), Hungarian botanist (bryologist) at Maros-Vásárhely in Transsylvania (Siebenbürgen) as professor of the college there. (*Demet.*).
+Demeter, Károly \[Charles\] (1852-1890), Hungarian botanist (bryologist) at Maros-Vásárhely in Transsylvania (Siebenbürgen) as professor of the college there. 
+**Abbreviated name**: *Demet.*
 
 #### Herbarium and types
 

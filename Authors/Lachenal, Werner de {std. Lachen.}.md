@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/item/103253#page/740/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lachenal, Werner de (1736-1800), Swiss botanist; Dr. med. Basel 1759; professor of anatomy and botany at Basel (1776-1800) (*Lachen.*).
+Lachenal, Werner de (1736-1800), Swiss botanist; Dr. med. Basel 1759; professor of anatomy and botany at Basel (1776-1800) 
+**Abbreviated name**: *Lachen.*
 
 #### Herbarium and types
 

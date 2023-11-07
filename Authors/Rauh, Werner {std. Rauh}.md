@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/item/103624#page/603/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33190060) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rauh, Werner (1913-x), German botanist; Dr. phil. Halle 1937; from 1939 at Heidelberg; from 1947 lecturer, from 1957 extraordinary professor, from 1960 regular professor and director of the Institute of Systematic Botany and of the Botanical Garden; traveller in S. America, Africa and Madagascar; specialist in succulent plants and Bromeliaceae; student of W. Troll. (*Rauh*).
+Rauh, Werner (1913-x), German botanist; Dr. phil. Halle 1937; from 1939 at Heidelberg; from 1947 lecturer, from 1957 extraordinary professor, from 1960 regular professor and director of the Institute of Systematic Botany and of the Botanical Garden; traveller in S. America, Africa and Madagascar; specialist in succulent plants and Bromeliaceae; student of W. Troll. 
+**Abbreviated name**: *Rauh*
 
 #### Herbarium and types
 

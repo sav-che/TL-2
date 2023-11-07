@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103834#page/44/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259526) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fairman, Charles Edward {std. Fairm.}|first entry]] for this author
 
 ### Author
 
-\* Fairman, Charles Edward (1856-1934), American mycologist, born 28 Dec 1856 in Yates Center (Orleans Co.), New York, moved to Alton, Illinois, studied at Shurtleff College, Alton, until 1873, A.B. 1874 and \[hon.?\] M.A 1877 Univ. of Rochester, Rochester, New York, M.D. 1877 St. Louis Medical School (now Washington Univ.), practiced medicine in Lyndonville nr. his birthplace, began to study fungi (esp. Pyrenomycetes) ca. 1886, studied fungi at New York Botanical Garden 1910, died 27 Dec 1934 in Lyndonville, New York. (*Fairm.*).
+\* Fairman, Charles Edward (1856-1934), American mycologist, born 28 Dec 1856 in Yates Center (Orleans Co.), New York, moved to Alton, Illinois, studied at Shurtleff College, Alton, until 1873, A.B. 1874 and \[hon.?\] M.A 1877 Univ. of Rochester, Rochester, New York, M.D. 1877 St. Louis Medical School (now Washington Univ.), practiced medicine in Lyndonville nr. his birthplace, began to study fungi (esp. Pyrenomycetes) ca. 1886, studied fungi at New York Botanical Garden 1910, died 27 Dec 1934 in Lyndonville, New York. 
+**Abbreviated name**: *Fairm.*
 
 #### Herbarium and types
 

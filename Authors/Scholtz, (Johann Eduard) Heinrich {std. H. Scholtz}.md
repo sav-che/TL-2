@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/104077#page/308/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scholtz, \[Johann Eduard\] Heinrich (1812-1859), German (Silesian) botanist and zoologist; practicing physician at Breslau; Dr. med. Breslau 1836. (*H. Scholtz*).
+Scholtz, \[Johann Eduard\] Heinrich (1812-1859), German (Silesian) botanist and zoologist; practicing physician at Breslau; Dr. med. Breslau 1836. 
+**Abbreviated name**: *H. Scholtz*
 
 #### Herbarium and types
 

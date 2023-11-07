@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/item/103253#page/455/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33068671) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaume Saint-Hilaire, Jean Henri (1772-1845), French botanist. (*Jaume St.-Hil.*).
+Jaume Saint-Hilaire, Jean Henri (1772-1845), French botanist. 
+**Abbreviated name**: *Jaume St.-Hil.*
 
 #### Herbarium and types
 

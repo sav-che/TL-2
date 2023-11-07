@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/item/103414#page/980/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Georgi, Johann Gottlieb (1729-1802), Russian natural scientist of German birth, later at St. Petersburg. (*Georgi*).
+Georgi, Johann Gottlieb (1729-1802), Russian natural scientist of German birth, later at St. Petersburg. 
+**Abbreviated name**: *Georgi*
 
 #### Herbarium and types
 

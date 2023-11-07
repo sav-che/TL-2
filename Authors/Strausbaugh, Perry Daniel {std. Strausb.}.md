@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103683#page/52/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strausbaugh, Perry Daniel (1886-1965), American botanist; Dr. phil. Univ. Chicago 1920 as student of J.M. Coulter; school teacher in Danville, Ohio 1909-1910, at Wooster College 1911-1913 (prep. school), instructor in biology ib. 1913-1915, asst. prof. 1915-1918, 1920-1921, professor of botany 1921-1923; head of department of botany West Virginia University 1923-1948 (1942-1945 in the armed services); emeritus prof. ib. 1948-1965. (*Strausb.*).
+Strausbaugh, Perry Daniel (1886-1965), American botanist; Dr. phil. Univ. Chicago 1920 as student of J.M. Coulter; school teacher in Danville, Ohio 1909-1910, at Wooster College 1911-1913 (prep. school), instructor in biology ib. 1913-1915, asst. prof. 1915-1918, 1920-1921, professor of botany 1921-1923; head of department of botany West Virginia University 1923-1948 (1942-1945 in the armed services); emeritus prof. ib. 1948-1965. 
+**Abbreviated name**: *Strausb.*
 
 #### Herbarium and types
 

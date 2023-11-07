@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/item/104137#page/628/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33355699) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moyer, Isaac Shoemaker (1838-1898), American physician and botanist; studied at Pennsylvania Medical College, grad. 1859; practiced in Quakertown, Pennsylvania. (*Moyer*).
+Moyer, Isaac Shoemaker (1838-1898), American physician and botanist; studied at Pennsylvania Medical College, grad. 1859; practiced in Quakertown, Pennsylvania. 
+**Abbreviated name**: *Moyer*
 
 #### Herbarium and types
 

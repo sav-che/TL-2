@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/104137#page/610/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morris, (Sir) Daniel (1844-1933), British botanist, administrator and tropical agriculturist; D. Sc. Dublin; at the Botanic Gardens, Peredeniya, Ceylon 1877-1879; dir. public gardens Jamaica 1879-1886; assistant director Kew 1886-1898; imperial commissioner of agriculture, West Indies 1898-1908. (*D. Morris*).
+Morris, (Sir) Daniel (1844-1933), British botanist, administrator and tropical agriculturist; D. Sc. Dublin; at the Botanic Gardens, Peredeniya, Ceylon 1877-1879; dir. public gardens Jamaica 1879-1886; assistant director Kew 1886-1898; imperial commissioner of agriculture, West Indies 1898-1908. 
+**Abbreviated name**: *D. Morris*
 
 #### Herbarium and types
 

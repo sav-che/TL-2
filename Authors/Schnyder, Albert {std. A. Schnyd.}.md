@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/104077#page/298/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33333423) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schnyder, Albert (1856-1938), Swiss (Zürich) botanist and railway employee. (*A. Schnyd.*).
+Schnyder, Albert (1856-1938), Swiss (Zürich) botanist and railway employee. 
+**Abbreviated name**: *A. Schnyd.*
 
 #### Herbarium and types
 

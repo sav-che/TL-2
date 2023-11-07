@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/item/103414#page/565/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33120648) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cogniaux, (Célestin) Alfred {std. Cogn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cogniaux, Célestin Alfred (1841-1916), Belgian botanist. (*Cogn.*).
+Cogniaux, Célestin Alfred (1841-1916), Belgian botanist. 
+**Abbreviated name**: *Cogn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/104137#page/261/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33355332) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Magnus, Paul Wilhelm (1844-1914), German botanist; Dr. phil. Berlin 1870; habil. Berlin 1875; lecturer and (1880) professor of botany at the University of Berlin, 1875-1914; Geh.-Regierungsrat 1911. (*Magnus*).
+Magnus, Paul Wilhelm (1844-1914), German botanist; Dr. phil. Berlin 1870; habil. Berlin 1875; lecturer and (1880) professor of botany at the University of Berlin, 1875-1914; Geh.-Regierungsrat 1911. 
+**Abbreviated name**: *Magnus*
 
 #### Herbarium and types
 

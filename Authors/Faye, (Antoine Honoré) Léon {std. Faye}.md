@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103834#page/99/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33259581) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Faye, \[Antoine Honoré\] Léon (1810-1855), French botanist and historian, born 27 Oct 1810 in Rochefort, councilor ("consiller"), Court of Appeals, Angers (Maine-et-Loire) until 1852, died 20 Oct 1855 in Poitiers (Vienne). (*Faye*).
+Faye, \[Antoine Honoré\] Léon (1810-1855), French botanist and historian, born 27 Oct 1810 in Rochefort, councilor ("consiller"), Court of Appeals, Angers (Maine-et-Loire) until 1852, died 20 Oct 1855 in Poitiers (Vienne). 
+**Abbreviated name**: *Faye*
 
 #### Herbarium and types
 

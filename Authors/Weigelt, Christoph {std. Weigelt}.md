@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103250#page/210/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33066490) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weigelt, Christoph (x-1828), German (Saxonian) physician (cand. med. Dresden) and plant collector; sent to Suriname 1827 to make botanical collections. (*Weigelt*).
+Weigelt, Christoph (x-1828), German (Saxonian) physician (cand. med. Dresden) and plant collector; sent to Suriname 1827 to make botanical collections. 
+**Abbreviated name**: *Weigelt*
 
 #### Herbarium and types
 

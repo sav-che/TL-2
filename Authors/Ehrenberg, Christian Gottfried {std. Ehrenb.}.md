@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/103414#page/775/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33120858) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ehrenberg, Christian Gottfried {std. Ehrenb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ehrenberg, Christian Gottfried (1795-1876), German biologist, professor of natural sciences at the University of Berlin. (*Ehrenb.*).
+Ehrenberg, Christian Gottfried (1795-1876), German biologist, professor of natural sciences at the University of Berlin. 
+**Abbreviated name**: *Ehrenb.*
 
 #### Herbarium and types
 

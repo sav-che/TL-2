@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/item/104137#page/601/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33355672) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moris, Giuseppe Giacinto Joseph Hyacinthe) (1796-1869), Italian botanist; from 1822-1829 at the University of Cagliari; from 1829 professor of botany at Torino; director botanical garden ib. 1831-1869. (*Moris*).
+Moris, Giuseppe Giacinto Joseph Hyacinthe) (1796-1869), Italian botanist; from 1822-1829 at the University of Cagliari; from 1829 professor of botany at Torino; director botanical garden ib. 1831-1869. 
+**Abbreviated name**: *Moris*
 
 #### Herbarium and types
 

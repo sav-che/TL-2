@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103835#page/266/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33260244) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eckstein, Karl (1859-1939), German botanist and zoologist at the Forst-Hochschule Eberswalde, born 28 Dec 1859 in Grünberg (Oberhessen), died 22 Apr 1939 on a study tour in Ragusa. (*Eckstein*).
+Eckstein, Karl (1859-1939), German botanist and zoologist at the Forst-Hochschule Eberswalde, born 28 Dec 1859 in Grünberg (Oberhessen), died 22 Apr 1939 on a study tour in Ragusa. 
+**Abbreviated name**: *Eckstein*
 
 #### Herbarium and types
 

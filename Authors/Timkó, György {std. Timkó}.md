@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/103683#page/371/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Timkó, György (1881-1945), Hungarian lichenologist; in charge of the lichen collections of the Botanical Department of the Museum of Natural Sciences, Budapest. (*Timkó*).
+Timkó, György (1881-1945), Hungarian lichenologist; in charge of the lichen collections of the Botanical Department of the Museum of Natural Sciences, Budapest. 
+**Abbreviated name**: *Timkó*
 
 #### Herbarium and types
 

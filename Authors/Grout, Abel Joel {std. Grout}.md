@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/item/103414#page/1061/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33121144) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grout, Abel Joel {std. Grout} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Grout, Abel Joel (1867-1947), American bryologist. (*==Name in the standard form is not specified==.*).
+Grout, Abel Joel (1867-1947), American bryologist. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Herbarium and types
 

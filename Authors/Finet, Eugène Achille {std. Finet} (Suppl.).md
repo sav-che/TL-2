@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103834#page/205/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33259687) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Finet, Eugène Achille {std. Finet}|first entry]] for this author
 
 ### Author
 
-\* Finet, Eugène Achille (1863-1913), French botanist, born 14 Oct 1863 in Argenteuil (Seine-et-Oise), attended lyceum in Versailles until 1877, Bacc. ès-lettres 1881 Sainte-Barbe, "preparateur" for chemistry in several laboratories from 1882, switched to the Lab. of Phanerogams, Museum natl. d'Histoire naturelle, Paris Apr 1898 and specialized in orchids, a family for which his father Frédéric Finet (1827-1903) ran a well-known nursery, also collected in s.e. Asia and Java with H. Lecomte 1911-1912, died 30 Jan 1913 in Paris. (*Finet*).
+\* Finet, Eugène Achille (1863-1913), French botanist, born 14 Oct 1863 in Argenteuil (Seine-et-Oise), attended lyceum in Versailles until 1877, Bacc. ès-lettres 1881 Sainte-Barbe, "preparateur" for chemistry in several laboratories from 1882, switched to the Lab. of Phanerogams, Museum natl. d'Histoire naturelle, Paris Apr 1898 and specialized in orchids, a family for which his father Frédéric Finet (1827-1903) ran a well-known nursery, also collected in s.e. Asia and Java with H. Lecomte 1911-1912, died 30 Jan 1913 in Paris. 
+**Abbreviated name**: *Finet*
 
 #### Herbarium and types
 

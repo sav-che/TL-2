@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103860#page/395/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33266062) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Corti, Benedetto (1866-1907), Italian botanist, born and died at Como, studied Foraminiferae and Diatomaceae. (*B. Corti*).
+Corti, Benedetto (1866-1907), Italian botanist, born and died at Como, studied Foraminiferae and Diatomaceae. 
+**Abbreviated name**: *B. Corti*
 
 #### Herbarium and types
 

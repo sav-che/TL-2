@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/104077#page/336/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schramm, Alphons (1823-1875), French (Alsatian) government official and botanist in French Guiana and, from 1848-1873 in Guadeloupe. (*Schramm*).
+Schramm, Alphons (1823-1875), French (Alsatian) government official and botanist in French Guiana and, from 1848-1873 in Guadeloupe. 
+**Abbreviated name**: *Schramm*
 
 #### Herbarium and types
 

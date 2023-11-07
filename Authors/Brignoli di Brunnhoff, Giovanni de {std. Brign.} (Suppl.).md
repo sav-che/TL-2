@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103861#page/86/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33266383) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brignoli di Brunnhoff, Giovanni de {std. Brign.}|first entry]] for this author
 
 ### Author
 
-\* Brignoli di Brunnhoff, Giovanni de (1774-1857), Italian botanist, born in Gradisca (Friuli-Venecia Giulia), professor of botany and agriculture at the Convict-Collegium at Urbino 1808, id. at the University of Modena 1817-1855. (*Brign.*).
+\* Brignoli di Brunnhoff, Giovanni de (1774-1857), Italian botanist, born in Gradisca (Friuli-Venecia Giulia), professor of botany and agriculture at the Convict-Collegium at Urbino 1808, id. at the University of Modena 1817-1855. 
+**Abbreviated name**: *Brign.*
 
 #### Herbarium and types
 

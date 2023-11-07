@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103253#page/116/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harz, Carl \[Karl\] Otto (1842-1906), German pharmacist, seminologist and mycologist; at München with Nägeli (1871); lecturer (1873) and professor (1880) of botany and zoology at the Vetinary College and the Technical University of München. (*C. Harz*).
+Harz, Carl \[Karl\] Otto (1842-1906), German pharmacist, seminologist and mycologist; at München with Nägeli (1871); lecturer (1873) and professor (1880) of botany and zoology at the Vetinary College and the Technical University of München. 
+**Abbreviated name**: *C. Harz*
 
 #### Herbarium and types
 

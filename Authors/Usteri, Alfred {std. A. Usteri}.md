@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/item/103683#page/632/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33212664) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Usteri, Alfred (1869-?), Swiss botanist and horticulturist in Zürich and Dornach (Reinach); in the Philippines 1903-1904; Dr. phil. Basel 1905; sometime (ca. 1906) professor at the São Paulo Polytechnic; author of a number of anthropological publications; ultimately at Reinach nr. Basel. (*A. Usteri*).
+Usteri, Alfred (1869-?), Swiss botanist and horticulturist in Zürich and Dornach (Reinach); in the Philippines 1903-1904; Dr. phil. Basel 1905; sometime (ca. 1906) professor at the São Paulo Polytechnic; author of a number of anthropological publications; ultimately at Reinach nr. Basel. 
+**Abbreviated name**: *A. Usteri*
 
 #### Herbarium and types
 

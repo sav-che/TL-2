@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/item/103414#page/967/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33121050) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gasparrini, Guglielmo {std. Gasp.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gasparrini, Gulielmo (1804-1866), Italian botanist at Naples. (*Gasp.*).
+Gasparrini, Gulielmo (1804-1866), Italian botanist at Naples. 
+**Abbreviated name**: *Gasp.*
 
 #### Herbarium and types
 

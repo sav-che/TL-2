@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103835#page/91/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33260069) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dowling, Alfred E.P. Raymund (fl. 1900), Englishman, B.A., before 1900 working at St. John's college, Oxford. (*Dowling*).
+Dowling, Alfred E.P. Raymund (fl. 1900), Englishman, B.A., before 1900 working at St. John's college, Oxford. 
+**Abbreviated name**: *Dowling*
 
 #### Herbarium and types
 

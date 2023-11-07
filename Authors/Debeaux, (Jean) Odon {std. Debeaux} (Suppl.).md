@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/item/103833#page/136/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259170) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Debeaux, Jean Odon {std. Debeaux}|first entry]] for this author
 
 ### Author
 
-\* Debeaux, \[Jean\] Odon (1826-1910), French pharmacologist, born at Agen (Lot-et-Garonne), died 20 Feb 1910 Toulouse, studied pharmacy 1855, "Pharmacien Aide-major" at the École du Val de Grâce à Paris, sent to Alger in a military hospital, travelled in Italy and Chine 1859, returned to France 1862 (Chevalier Légion d'Honneur), from 1862-1870 at Bastia, "Pharmacien major" at the hospital for invalids in Paris 1871, id. at Perpignan 1872, chef pharmacy at the military hospital of Oran, in retirement at Toulouse. (*Debeaux*).
+\* Debeaux, \[Jean\] Odon (1826-1910), French pharmacologist, born at Agen (Lot-et-Garonne), died 20 Feb 1910 Toulouse, studied pharmacy 1855, "Pharmacien Aide-major" at the École du Val de Grâce à Paris, sent to Alger in a military hospital, travelled in Italy and Chine 1859, returned to France 1862 (Chevalier Légion d'Honneur), from 1862-1870 at Bastia, "Pharmacien major" at the hospital for invalids in Paris 1871, id. at Perpignan 1872, chef pharmacy at the military hospital of Oran, in retirement at Toulouse. 
+**Abbreviated name**: *Debeaux*
 
 #### Herbarium and types
 

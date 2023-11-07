@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/item/103624#page/995/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruhmer, Gustav \[Gustaf\] Ferdinand (1853-1883), German (Oberschlesien) botanist; "Hilfsarbeiter" at the Botanical Museum Berlin-Dahlem 1877-1883; collected in Lybia 1882-1883; studied the flora of Brandenburg and Thüringen. (*Ruhmer*).
+Ruhmer, Gustav \[Gustaf\] Ferdinand (1853-1883), German (Oberschlesien) botanist; "Hilfsarbeiter" at the Botanical Museum Berlin-Dahlem 1877-1883; collected in Lybia 1882-1883; studied the flora of Brandenburg and Thüringen. 
+**Abbreviated name**: *Ruhmer*
 
 #### Herbarium and types
 

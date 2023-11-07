@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/item/103624#page/380/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33189837) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poulsen, Viggo Albert (1855-1919), Danish botanist; high school teacher 1876-1909; student of and assistant with E. Warming; Dr. phil. Copenhagen 1888; from 1893 lecturer, from 1902 professor of botany at the Copenhagen pharmaceutical school; worked at Bogor, Java 1894-1895. (*Poulsen*).
+Poulsen, Viggo Albert (1855-1919), Danish botanist; high school teacher 1876-1909; student of and assistant with E. Warming; Dr. phil. Copenhagen 1888; from 1893 lecturer, from 1902 professor of botany at the Copenhagen pharmaceutical school; worked at Bogor, Java 1894-1895. 
+**Abbreviated name**: *Poulsen*
 
 #### Herbarium and types
 

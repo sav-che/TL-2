@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103832#page/28/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33258510) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fries, Elias Magnus {std. Fr.}|first entry]] for this author
 
 ### Author
 
-\* Fries, Elias Magnus (1794-1878), Swedish botanist (a founder of taxonomic mycology), born 15 Aug 1794 in Femsjö (Småland), the first botanist of a family of renowned Swedish botanists (see the *Fries family* above), attended school at Växjö, went to Lund 1811 and studied under E. Acharius, docent and Ph.D. 1814 Lund (20 years old!), adjunct in botany 1819, royal prof. 1824, prof. agricultural economics, Uppsala 1834, prof. of botany and agricultural economics and head of the Botanical Garden 1851-1859, Commander of the North Star 1856, retired as prof. 1859 and as garden dir. 1863, died 8 Feb 1878 in Uppsala. (*Fr.*).
+\* Fries, Elias Magnus (1794-1878), Swedish botanist (a founder of taxonomic mycology), born 15 Aug 1794 in Femsjö (Småland), the first botanist of a family of renowned Swedish botanists (see the *Fries family* above), attended school at Växjö, went to Lund 1811 and studied under E. Acharius, docent and Ph.D. 1814 Lund (20 years old!), adjunct in botany 1819, royal prof. 1824, prof. agricultural economics, Uppsala 1834, prof. of botany and agricultural economics and head of the Botanical Garden 1851-1859, Commander of the North Star 1856, retired as prof. 1859 and as garden dir. 1863, died 8 Feb 1878 in Uppsala. 
+**Abbreviated name**: *Fr.*
 
 #### Herbarium and types
 

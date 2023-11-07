@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103861#page/406/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266703) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cappelletti, Carlo (1900-x), Italian botanist, born in Verona, studied at the University of Torino, studied with Mattirolo, graduate 1921, assistant at the University of Padua, lecturer 1927, professor of botany at the University of Torino 1932, id. at Padua 1948-1970. (*Cappelletti*).
+Cappelletti, Carlo (1900-x), Italian botanist, born in Verona, studied at the University of Torino, studied with Mattirolo, graduate 1921, assistant at the University of Padua, lecturer 1927, professor of botany at the University of Torino 1932, id. at Padua 1948-1970. 
+**Abbreviated name**: *Cappelletti*
 
 #### Herbarium and types
 

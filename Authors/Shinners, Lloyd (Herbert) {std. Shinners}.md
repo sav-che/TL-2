@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/104077#page/579/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shinners, Lloyd \[Herbert\] (1918-1971), Canadian born American botanist from 1912 in the United States; Dr. phil. Univ. Wisconsin 1943; botanist with the Milwaukee County Park Board 1944-1945; research assistant at Southern Methodist University; director of the herbarium ib., full professor from 1960; specialist on N. American Compositae. (*Shinners*).
+Shinners, Lloyd \[Herbert\] (1918-1971), Canadian born American botanist from 1912 in the United States; Dr. phil. Univ. Wisconsin 1943; botanist with the Milwaukee County Park Board 1944-1945; research assistant at Southern Methodist University; director of the herbarium ib., full professor from 1960; specialist on N. American Compositae. 
+**Abbreviated name**: *Shinners*
 
 #### Herbarium and types
 

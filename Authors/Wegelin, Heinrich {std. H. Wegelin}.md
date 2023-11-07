@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103250#page/205/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33066485) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wegelin, Heinrich (1853-1940), Swiss botanist; professor of botany at the Kantonschule of Thurgau in Frauenfeld and director of its botanical garden 1890-1920. (*H. Wegelin*).
+Wegelin, Heinrich (1853-1940), Swiss botanist; professor of botany at the Kantonschule of Thurgau in Frauenfeld and director of its botanical garden 1890-1920. 
+**Abbreviated name**: *H. Wegelin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103250#page/264/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33066544) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-West, Tuffen (1823-1891), British botanical artist; studied at York; settled in London as illustrator of "microscope books". (*T. West*).
+West, Tuffen (1823-1891), British botanical artist; studied at York; settled in London as illustrator of "microscope books". 
+**Abbreviated name**: *T. West*
 
 #### Herbarium and types
 

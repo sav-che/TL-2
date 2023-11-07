@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/item/103624#page/734/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33190191) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Renault, Bernard (1836-1904), French botanist and palaeontologist at Autun and Paris; Dr. sci. phys. Paris 1867; Dr. sci. nat. Paris 1879; teacher at a teacher's college at Cluny 1867-1872; from then on at the Muséum d'Histoire naturelle, Paris (préparateur 1872-1876; assistant naturalist 1876-1904); founder and first president of the Société d'Histoire naturelle d'Autun. (*Renault*).
+Renault, Bernard (1836-1904), French botanist and palaeontologist at Autun and Paris; Dr. sci. phys. Paris 1867; Dr. sci. nat. Paris 1879; teacher at a teacher's college at Cluny 1867-1872; from then on at the Muséum d'Histoire naturelle, Paris (préparateur 1872-1876; assistant naturalist 1876-1904); founder and first president of the Société d'Histoire naturelle d'Autun. 
+**Abbreviated name**: *Renault*
 
 #### Herbarium and types
 

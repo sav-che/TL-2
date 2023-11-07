@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103250#page/155/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watelet, (Jean-François\] Adolphe (1811-1879), French teacher, palaeobotanist and mineralogist at Soissons. (*Watelet*).
+Watelet, (Jean-François\] Adolphe (1811-1879), French teacher, palaeobotanist and mineralogist at Soissons. 
+**Abbreviated name**: *Watelet*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103414#page/180/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33120263) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartram, William {std. W. Bartram} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bartram, William (1739-1823), American botanist at Philadelphia, son of John Bartram. (*W. Bartram*).
+Bartram, William (1739-1823), American botanist at Philadelphia, son of John Bartram. 
+**Abbreviated name**: *W. Bartram*
 
 #### Herbarium and types
 

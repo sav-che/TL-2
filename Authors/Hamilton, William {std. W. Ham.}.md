@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103253#page/61/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33068277) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hamilton, William (1783-1856), British physician and traveller. (*W. Ham.*).
+Hamilton, William (1783-1856), British physician and traveller. 
+**Abbreviated name**: *W. Ham.*
 
 #### Herbarium and types
 

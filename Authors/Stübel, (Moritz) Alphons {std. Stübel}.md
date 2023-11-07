@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103683#page/68/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33212062) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stübel, \[Moritz\] Alphons (1835-1904), German (Saxonian) explorer, geologist and plant collector; studied natural sciences at Leipzig University 1854-1855; for health reasons to Egypt 1855-1858, in Italy 1858-1859; continued his studies in Heidelberg 1859-1860; Dr. phil. ib. 1860; travelled in Scotland 1862, in Madeira 1862-1863, Cape Verde Isl. 1863; Madeira 1863-1865 making volcanological studies, e.g. on Santorin 1866, in the Colombian Andes 1868, until 1877 exploring S. and C. America; settled in Dresden 1877, continuing his studies on shorter voyages. (*Stübel*).
+Stübel, \[Moritz\] Alphons (1835-1904), German (Saxonian) explorer, geologist and plant collector; studied natural sciences at Leipzig University 1854-1855; for health reasons to Egypt 1855-1858, in Italy 1858-1859; continued his studies in Heidelberg 1859-1860; Dr. phil. ib. 1860; travelled in Scotland 1862, in Madeira 1862-1863, Cape Verde Isl. 1863; Madeira 1863-1865 making volcanological studies, e.g. on Santorin 1866, in the Colombian Andes 1868, until 1877 exploring S. and C. America; settled in Dresden 1877, continuing his studies on shorter voyages. 
+**Abbreviated name**: *Stübel*
 
 #### Herbarium and types
 

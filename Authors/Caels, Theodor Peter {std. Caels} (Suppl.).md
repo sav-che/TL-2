@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/item/103861#page/307/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33266604) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caels, Theodor Peter {std. Caels}|first entry]] for this author
 
 ### Author
 
-\* Caels, Theodor Peter (1739-1819), Belgian physician and botanist, born at Louvain \[Leuven\], Dr. med. Bruxelles 1774. (*Caels*).
+\* Caels, Theodor Peter (1739-1819), Belgian physician and botanist, born at Louvain \[Leuven\], Dr. med. Bruxelles 1774. 
+**Abbreviated name**: *Caels*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/104077#page/105/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33333230) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savulescu, Trajan (1889-1963), Roumanian botanist, mycologist and phytopathologist; professor of systematic botany and phytopathology at the agricultural college of Herastrau-Bucarest 1922. (*Savul.*).
+Savulescu, Trajan (1889-1963), Roumanian botanist, mycologist and phytopathologist; professor of systematic botany and phytopathology at the agricultural college of Herastrau-Bucarest 1922. 
+**Abbreviated name**: *Savul.*
 
 #### Herbarium and types
 

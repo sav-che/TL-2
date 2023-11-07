@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/item/103253#page/883/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33069099) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Letacq, Arthur Louis, abbé (1855-1923), French clergyman and botanist; ordained 7 Jun 1879; vicar at Ecouché; parish priest at Saint-Germaine-d'Aunai (1883), of Ticheville (1885); from 1890 almoner at the "Asile des Soeurs des pauvres" at Alençon. (*Letacq*).
+Letacq, Arthur Louis, abbé (1855-1923), French clergyman and botanist; ordained 7 Jun 1879; vicar at Ecouché; parish priest at Saint-Germaine-d'Aunai (1883), of Ticheville (1885); from 1890 almoner at the "Asile des Soeurs des pauvres" at Alençon. 
+**Abbreviated name**: *Letacq*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103834#page/407/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33259889) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-François de Neufchâteau, Nicolas Louis (Comte de l'Empire) (1750-1828), French poet, politician and agronomist, born 17 Apr 1750 in Saffais (Meurthe-et-Moselle), studied law in Paris and Reims, purchased the position of prosecutor in Saint-Domingue (now Haiti) 1783-1787, retired to Vicherey (Vosges), during the Revolution elected to represent Dépt. Vosges in the National Assembly 1791-1792 and briefly served as president of same, Interior Minister 1797, elected member of the Executive Directory 9 Sep 1797-19 Mai 1798, again Interior Minister 1798-1799, president of the Senate during the Empire 1804-1811, later devoted himself to agron., member of the Institut natl., died 10 Jan 1828 in Paris. (*François de Neufch.*).
+François de Neufchâteau, Nicolas Louis (Comte de l'Empire) (1750-1828), French poet, politician and agronomist, born 17 Apr 1750 in Saffais (Meurthe-et-Moselle), studied law in Paris and Reims, purchased the position of prosecutor in Saint-Domingue (now Haiti) 1783-1787, retired to Vicherey (Vosges), during the Revolution elected to represent Dépt. Vosges in the National Assembly 1791-1792 and briefly served as president of same, Interior Minister 1797, elected member of the Executive Directory 9 Sep 1797-19 Mai 1798, again Interior Minister 1798-1799, president of the Senate during the Empire 1804-1811, later devoted himself to agron., member of the Institut natl., died 10 Jan 1828 in Paris. 
+**Abbreviated name**: *François de Neufch.*
 
 #### Herbarium and types
 

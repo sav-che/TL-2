@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103414#page/296/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33120379) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boenninghausen, Clemens Maria Friedrich von {std. Boenn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boenninghausen, Clemens Maria Friedrich von (1785-1864), German physician and botanist at Münster. (*Boenn.*).
+Boenninghausen, Clemens Maria Friedrich von (1785-1864), German physician and botanist at Münster. 
+**Abbreviated name**: *Boenn.*
 
 #### Herbarium and types
 

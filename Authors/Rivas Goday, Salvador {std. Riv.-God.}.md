@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/item/103624#page/818/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33190275) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rivas Goday, Salvador (1905-1981), Spanish botanist; Dr. pharm. Madrid 1926: botanical assistant faculty of pharmacy, Madrid 1929, assoc. prof. mat. farm. veg. ib. 1930-1938; ass. professor of descriptive botany ib. 1939-1942; regular professor of pharmacy Granada 1942-1943; idem Madrid 1943-1975 director of the Inst. bot. Cavanilles 1951-1975 (*Riv.-God.*).
+Rivas Goday, Salvador (1905-1981), Spanish botanist; Dr. pharm. Madrid 1926: botanical assistant faculty of pharmacy, Madrid 1929, assoc. prof. mat. farm. veg. ib. 1930-1938; ass. professor of descriptive botany ib. 1939-1942; regular professor of pharmacy Granada 1942-1943; idem Madrid 1943-1975 director of the Inst. bot. Cavanilles 1951-1975 
+**Abbreviated name**: *Riv.-God.*
 
 #### Herbarium and types
 

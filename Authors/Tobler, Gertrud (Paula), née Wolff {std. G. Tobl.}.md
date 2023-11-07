@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/item/103683#page/387/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33212419) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tobler, Gertrud \[Paula\], née Wolff (1877-1948), German (Berlin) botanist; studied botany at the University of Berlin under Schwendener, Engler, Magnus, Kolkwitz, Lindau; Dr. phil. Berlin 1905 (with Schwendener); worked with E. Strasburger in Bonn as a botanical technician 1905-1907; married F. Tobler 1907 (obtaining Swiss nationality); worked with her husband at Münster, East Africa, Sorau, Dresden and St. Gallen. (*G. Tobl.*).
+Tobler, Gertrud \[Paula\], née Wolff (1877-1948), German (Berlin) botanist; studied botany at the University of Berlin under Schwendener, Engler, Magnus, Kolkwitz, Lindau; Dr. phil. Berlin 1905 (with Schwendener); worked with E. Strasburger in Bonn as a botanical technician 1905-1907; married F. Tobler 1907 (obtaining Swiss nationality); worked with her husband at Münster, East Africa, Sorau, Dresden and St. Gallen. 
+**Abbreviated name**: *G. Tobl.*
 
 #### Herbarium and types
 

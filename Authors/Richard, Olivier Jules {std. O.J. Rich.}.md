@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/item/103624#page/781/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33190238) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richard, Olivier Jules (1836-1896), French lichenologist; studied law in Paris; stationed as magistrate in various towns in Western France; "procureur de la république" at Marennes 1873-1876, at La Roche-sur-Yon 1876-1885, at Poitiers from 1885-1891; outspoken adversary of the Schwendener theory of lichenisation. (*O.J. Rich.*).
+Richard, Olivier Jules (1836-1896), French lichenologist; studied law in Paris; stationed as magistrate in various towns in Western France; "procureur de la république" at Marennes 1873-1876, at La Roche-sur-Yon 1876-1885, at Poitiers from 1885-1891; outspoken adversary of the Schwendener theory of lichenisation. 
+**Abbreviated name**: *O.J. Rich.*
 
 #### Herbarium and types
 

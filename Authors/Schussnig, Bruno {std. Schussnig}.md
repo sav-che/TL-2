@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/104077#page/424/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33333549) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schussnig, Bruno (1892-?), Austrian botanist; Dr. phil. Graz 1917; assistant at the Triest botanical Station 1914-1919, but stationed as assistant at the botanical institute of the University of Vienna 1915-1916; id. at the Maltepe biological station, Constantinople 1918; with the Josephinian Academy at Wien 1918-1920; from 1920 regular assistant with the botanical institute Vienna; habil. ib. 1923; later extraordinary professor of botany ib.; ultimately at the "Laboratorium für Protophytenkunde". Jena. (*Schussnig*).
+Schussnig, Bruno (1892-?), Austrian botanist; Dr. phil. Graz 1917; assistant at the Triest botanical Station 1914-1919, but stationed as assistant at the botanical institute of the University of Vienna 1915-1916; id. at the Maltepe biological station, Constantinople 1918; with the Josephinian Academy at Wien 1918-1920; from 1920 regular assistant with the botanical institute Vienna; habil. ib. 1923; later extraordinary professor of botany ib.; ultimately at the "Laboratorium für Protophytenkunde". Jena. 
+**Abbreviated name**: *Schussnig*
 
 #### Herbarium and types
 

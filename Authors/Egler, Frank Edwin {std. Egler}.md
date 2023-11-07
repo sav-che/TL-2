@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103835#page/281/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33260259) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Egler, Frank Edwin (1911-x), American botanist, born 26 Apr 1911 at New York, studied at the University of Chicago, B.S. 1932, M.S. 1934 from University of Michigan, Ph.D. Yale University 1936, Yale Fellow at Bishop Museum Honolulu 1936-1937, asst. professor for botany at New York State College for Forestry from 1937. (*Egler*).
+Egler, Frank Edwin (1911-x), American botanist, born 26 Apr 1911 at New York, studied at the University of Chicago, B.S. 1932, M.S. 1934 from University of Michigan, Ph.D. Yale University 1936, Yale Fellow at Bishop Museum Honolulu 1936-1937, asst. professor for botany at New York State College for Forestry from 1937. 
+**Abbreviated name**: *Egler*
 
 #### Herbarium and types
 

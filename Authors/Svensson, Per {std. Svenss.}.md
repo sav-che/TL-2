@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103683#page/121/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33212153) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Svensson, Per (1839-1917), Swedish botanist; fil. kand. Lund 1875; high school teacher at Härnösand 1881-1908. (*Svenss.*).
+Svensson, Per (1839-1917), Swedish botanist; fil. kand. Lund 1875; high school teacher at Härnösand 1881-1908. 
+**Abbreviated name**: *Svenss.*
 
 #### Herbarium and types
 

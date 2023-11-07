@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/item/103414#page/953/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33121036) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gaillard, Albert {std. Gaillard} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gaillard, Albert (1858-1903), French mycologist, curator of the Lloyd herbarium. (*Gaillard*).
+Gaillard, Albert (1858-1903), French mycologist, curator of the Lloyd herbarium. 
+**Abbreviated name**: *Gaillard*
 
 #### Herbarium and types
 

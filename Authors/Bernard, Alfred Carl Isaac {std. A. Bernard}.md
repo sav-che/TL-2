@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103859#page/115/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33265302) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bernard, Alfred Carl Isaac (1853-?), German (Berlin) botanist, educated at schools in Vevey (Switzerland) and Berlin, studied at the University of Berlin, Dr. phil. Halle-Wittenberg 1877. (*A. Bernard*).
+Bernard, Alfred Carl Isaac (1853-?), German (Berlin) botanist, educated at schools in Vevey (Switzerland) and Berlin, studied at the University of Berlin, Dr. phil. Halle-Wittenberg 1877. 
+**Abbreviated name**: *A. Bernard*
 
 #### Herbarium and types
 

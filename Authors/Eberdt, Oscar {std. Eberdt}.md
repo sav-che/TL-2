@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103835#page/256/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33260234) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eberdt, Oscar (fl. 1887), German botanist at Freiburg i. Br., Ph.D. 1887, "Bibliothekar" at Berlin for the "Kgl. Geologische Landesanstalt" and the "Bergakademie". (*Eberdt*).
+Eberdt, Oscar (fl. 1887), German botanist at Freiburg i. Br., Ph.D. 1887, "Bibliothekar" at Berlin for the "Kgl. Geologische Landesanstalt" and the "Bergakademie". 
+**Abbreviated name**: *Eberdt*
 
 #### Herbarium and types
 

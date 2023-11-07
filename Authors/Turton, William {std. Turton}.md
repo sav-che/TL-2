@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/item/103683#page/563/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/page/33212595) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turton, William (1762-1835), British physician and naturalist (especially conchologist); practicing physician in Swansea, Dublin, Torquay and Bideford. (*Turton*).
+Turton, William (1762-1835), British physician and naturalist (especially conchologist); practicing physician in Swansea, Dublin, Torquay and Bideford. 
+**Abbreviated name**: *Turton*
 
 #### Herbarium and types
 

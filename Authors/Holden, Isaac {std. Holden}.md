@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103253#page/280/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33068496) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holden, Isaac (1832-1903), American algologist; graduate of Dartmouth College, Conn. (1852); high school teacher 1852-1872; in private business (1872), at Bridgeport, Conn. 1878-1903. (*Holden*).
+Holden, Isaac (1832-1903), American algologist; graduate of Dartmouth College, Conn. (1852); high school teacher 1852-1872; in private business (1872), at Bridgeport, Conn. 1878-1903. 
+**Abbreviated name**: *Holden*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103624#page/191/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33189648) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perry, Lily May (1895-x), Canadian-born American botanist; Dr. phil. Wash. Univ., St. Louis 1932; at Gray Herbarium 1925-1932, University of Georgia 1932-1934, Sweet Briar College 1934-1935; later at Arnold Arboretum (*L.M. Perry*).
+Perry, Lily May (1895-x), Canadian-born American botanist; Dr. phil. Wash. Univ., St. Louis 1932; at Gray Herbarium 1925-1932, University of Georgia 1932-1934, Sweet Briar College 1934-1935; later at Arnold Arboretum 
+**Abbreviated name**: *L.M. Perry*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/item/103683#page/784/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voigt, \[Julius\] Alfred (1864-1935), German (Hamburg) botanist; Dr. phil. Hamb. 1889; assistant at the Hamburg Botanical Institute; professor of botany ib. and head of the department of applied botany 1905; regular professor of botany and head of the Hamburg Institute for applied botany 1919. (*Alf. Voigt*).
+Voigt, \[Julius\] Alfred (1864-1935), German (Hamburg) botanist; Dr. phil. Hamb. 1889; assistant at the Hamburg Botanical Institute; professor of botany ib. and head of the department of applied botany 1905; regular professor of botany and head of the Hamburg Institute for applied botany 1919. 
+**Abbreviated name**: *Alf. Voigt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/104077#page/243/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33333368) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlümbach, Friedrich Alexander von (*fl*. 1809-1811), German (Bavarian) forestry botanist at Nürnberg. (*Schlümbach*).
+Schlümbach, Friedrich Alexander von (*fl*. 1809-1811), German (Bavarian) forestry botanist at Nürnberg. 
+**Abbreviated name**: *Schlümbach*
 
 #### Herbarium and types
 

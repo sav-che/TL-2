@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103860#page/367/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33266034) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cordemoy, Mlle I. de (fl. 1907), botanist who had "Le grade de docteur ès sciences naturelles... I. de Cordemoy." (*I. Cordem.*).
+Cordemoy, Mlle I. de (fl. 1907), botanist who had "Le grade de docteur ès sciences naturelles... I. de Cordemoy." 
+**Abbreviated name**: *I. Cordem.*
 
 #### Herbarium and types
 

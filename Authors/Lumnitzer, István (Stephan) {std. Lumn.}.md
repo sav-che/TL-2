@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/104137#page/208/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lumnitzer, István (Stephan) (1747-1806), Hungarian botanist and physician at Pressburg (Bratislava, now Czechoslovakia). (*Lumn.*).
+Lumnitzer, István (Stephan) (1747-1806), Hungarian botanist and physician at Pressburg (Bratislava, now Czechoslovakia). 
+**Abbreviated name**: *Lumn.*
 
 #### Herbarium and types
 

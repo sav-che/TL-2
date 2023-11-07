@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103250#page/260/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33066540) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wessel, A.W. (*fl*. 1858), German (East-Frisian) botanist and high school teacher at Aurich. (*A.Wessel*).
+Wessel, A.W. (*fl*. 1858), German (East-Frisian) botanist and high school teacher at Aurich. 
+**Abbreviated name**: *A.Wessel*
 
 #### Herbarium and types
 

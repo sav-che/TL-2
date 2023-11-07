@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103414#page/559/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cleve, Per Theodor {std. Cleve} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cleve, Per Theodor (1840-1905), Swedish algologist. (*Cleve*).
+Cleve, Per Theodor (1840-1905), Swedish algologist. 
+**Abbreviated name**: *Cleve*
 
 #### Herbarium and types
 

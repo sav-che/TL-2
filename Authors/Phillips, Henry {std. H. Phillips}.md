@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103624#page/255/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33189712) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phillips, Henry (1779-1840), British botanist and horticultural writer; banker at Worthing, later living in London and Brighton. (*H. Phillips*).
+Phillips, Henry (1779-1840), British botanist and horticultural writer; banker at Worthing, later living in London and Brighton. 
+**Abbreviated name**: *H. Phillips*
 
 #### Herbarium and types
 

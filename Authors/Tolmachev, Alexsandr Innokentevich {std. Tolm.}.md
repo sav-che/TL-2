@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103683#page/396/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33212428) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tolmachev, Alexsandr Innokent'evich (1903-1979), Russian botanist; with the Botanical Institute of the Academy of Sciences, Leningrad 1925; director of the Bureau for the Exploration of the Northern regions at Archangelsk 1934-1942; in Dushaube (Tadzhik branch of the Academy) 1942-1947; id. Sakhalin Branch 1947-1955, from 1955 again in Leningrad at the Komarov Botanical Institute; specialist on arctic-alpine research. (*Tolm.*).
+Tolmachev, Alexsandr Innokent'evich (1903-1979), Russian botanist; with the Botanical Institute of the Academy of Sciences, Leningrad 1925; director of the Bureau for the Exploration of the Northern regions at Archangelsk 1934-1942; in Dushaube (Tadzhik branch of the Academy) 1942-1947; id. Sakhalin Branch 1947-1955, from 1955 again in Leningrad at the Komarov Botanical Institute; specialist on arctic-alpine research. 
+**Abbreviated name**: *Tolm.*
 
 #### Herbarium and types
 

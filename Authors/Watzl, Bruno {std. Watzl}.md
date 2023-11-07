@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103250#page/170/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33066450) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watzl, Bruno (1886-x), Austrian botanist; Dr. phil. Wien 1909 (student of Richard Wettstein); professor at the Bundesgymnasium Wien XIX. (*Watzl*).
+Watzl, Bruno (1886-x), Austrian botanist; Dr. phil. Wien 1909 (student of Richard Wettstein); professor at the Bundesgymnasium Wien XIX. 
+**Abbreviated name**: *Watzl*
 
 #### Herbarium and types
 

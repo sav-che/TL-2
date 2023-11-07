@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103833#page/374/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33259408) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dixon, Henry Horatio (1869-1953), Irish botanist, born Dublin 19 Mai 1869, died ib. 20 Dec 1953, B.Sc. Dublin 1892, assistant, Botany Dept. Trinity College Dublin 1887-1904, professor of botany 1904-1950, also director of Trinity College Botanic Garden 1906-1951. (*H.H. Dixon*).
+Dixon, Henry Horatio (1869-1953), Irish botanist, born Dublin 19 Mai 1869, died ib. 20 Dec 1953, B.Sc. Dublin 1892, assistant, Botany Dept. Trinity College Dublin 1887-1904, professor of botany 1904-1950, also director of Trinity College Botanic Garden 1906-1951. 
+**Abbreviated name**: *H.H. Dixon*
 
 #### Herbarium and types
 

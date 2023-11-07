@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103835#page/261/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33260239) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eckardt, \[Gustav\] Theo \[Peter Hans\] (1910-1977), German botanist, born 16 Oct 1910 at Treuchtlingen, left Altes Gymnasium at Nürnberg 1930, studied in München 1930-1932, later in Halle/Saale until 1935, Dr. Sci. nat. Halle 1937, worked 1935-1937 with W. Troll at Halle, habil. Pr. doz. 1940, 1940-1944 on military service, 1944-1949 prisoner of war in Russia, in 1950 in Potsdam, Brandenburgische Landeshochschule, 1953 at the Freie Universität Berlin from 1955 as professor, at Bot. Museum Berlin 1956-1964 as Kustos, later director 1964-1976, died 20 Jan 1977 at Berlin. (*Eckardt*).
+Eckardt, \[Gustav\] Theo \[Peter Hans\] (1910-1977), German botanist, born 16 Oct 1910 at Treuchtlingen, left Altes Gymnasium at Nürnberg 1930, studied in München 1930-1932, later in Halle/Saale until 1935, Dr. Sci. nat. Halle 1937, worked 1935-1937 with W. Troll at Halle, habil. Pr. doz. 1940, 1940-1944 on military service, 1944-1949 prisoner of war in Russia, in 1950 in Potsdam, Brandenburgische Landeshochschule, 1953 at the Freie Universität Berlin from 1955 as professor, at Bot. Museum Berlin 1956-1964 as Kustos, later director 1964-1976, died 20 Jan 1977 at Berlin. 
+**Abbreviated name**: *Eckardt*
 
 #### Herbarium and types
 

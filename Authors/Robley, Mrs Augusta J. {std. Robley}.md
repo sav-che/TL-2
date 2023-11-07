@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/item/103624#page/832/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33190289) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robley, Mrs Augusta J. (*fl*. 1840), British botanical artist, daughter of Mrs. Jane Wallas Penfold (*Robley*).
+Robley, Mrs Augusta J. (*fl*. 1840), British botanical artist, daughter of Mrs. Jane Wallas Penfold 
+**Abbreviated name**: *Robley*
 
 #### Herbarium and types
 

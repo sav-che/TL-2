@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103858#page/294/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265009) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baker, Richard Thomas (1854-1941), British born Australian economic botanist; arrived in Australia Sep 1879, science and art master at the Newington College, Sydney 1880-1888; with the Sydney Technological Museum from 1888, curator and economic botanist ib., succeeding as such Joseph Henry Maiden, 1901-1921; lecturer in forestry at the University of Sydney 1913-1924; specialist on Eucalyptus, Pinus and Melaleuca. (*R.T. Baker*).
+Baker, Richard Thomas (1854-1941), British born Australian economic botanist; arrived in Australia Sep 1879, science and art master at the Newington College, Sydney 1880-1888; with the Sydney Technological Museum from 1888, curator and economic botanist ib., succeeding as such Joseph Henry Maiden, 1901-1921; lecturer in forestry at the University of Sydney 1913-1924; specialist on Eucalyptus, Pinus and Melaleuca. 
+**Abbreviated name**: *R.T. Baker*
 
 #### Herbarium and types
 

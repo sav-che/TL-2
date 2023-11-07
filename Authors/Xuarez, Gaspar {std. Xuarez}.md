@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/103250#page/543/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33066823) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Xuarez, Gaspar (1731-1804), Argentine botanist and clergyman; studied at the Colegio Monserrat, Cordoba; entered the Society of Jesus 1748; banned from Argentina by Carlos III 1767; in Faenza, Italy 1767-1773; after the discontinuation of the Jesuit order in Rome 1773-1804, head of the Giardino vaticano-indico. (*Xuarez*).
+Xuarez, Gaspar (1731-1804), Argentine botanist and clergyman; studied at the Colegio Monserrat, Cordoba; entered the Society of Jesus 1748; banned from Argentina by Carlos III 1767; in Faenza, Italy 1767-1773; after the discontinuation of the Jesuit order in Rome 1773-1804, head of the Giardino vaticano-indico. 
+**Abbreviated name**: *Xuarez*
 
 #### Herbarium and types
 

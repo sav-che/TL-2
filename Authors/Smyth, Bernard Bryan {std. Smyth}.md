@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/item/104077#page/722/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33333847) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smyth, Bernard Bryan (1843-1913), Irish-born American botanist, geologist and mathematician, to the United States 1853; professor of botany Kansas Medical College 1890-1895; curator Kansas State Museum Herbarium 1895. (*Smyth*).
+Smyth, Bernard Bryan (1843-1913), Irish-born American botanist, geologist and mathematician, to the United States 1853; professor of botany Kansas Medical College 1890-1895; curator Kansas State Museum Herbarium 1895. 
+**Abbreviated name**: *Smyth*
 
 #### Herbarium and types
 

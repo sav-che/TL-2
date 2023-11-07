@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103834#page/282/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33259764) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Floderus, Ali (1826-1877), Swedish botanist and theologian, born 15 Oct 1826 in Funbo (Uppland), student in Uppsala 1843, phil. dr. 1848, minister 1850, cand. theol. 1857, teacher of natural history 1857 at Uppsala Cathedral School, lecturer 1860 in theology, philosophy, Greek and Hebrew in Falum, Färlöf and Strö 1874, died 28 Nov 1877 in Färlöf (Skåne). (*A. Flod.*).
+Floderus, Ali (1826-1877), Swedish botanist and theologian, born 15 Oct 1826 in Funbo (Uppland), student in Uppsala 1843, phil. dr. 1848, minister 1850, cand. theol. 1857, teacher of natural history 1857 at Uppsala Cathedral School, lecturer 1860 in theology, philosophy, Greek and Hebrew in Falum, Färlöf and Strö 1874, died 28 Nov 1877 in Färlöf (Skåne). 
+**Abbreviated name**: *A. Flod.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/item/103624#page/805/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33190262) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rigg, George Burton (1872-1961), American botanist; B.Sc. Iowa 1896; M.A. Univ. Washington 1909; Dr. phil. Chicago 1914; high school teacher in Iowa 1896-1907; botany and zoology teacher at Lincoln High School, Seattle, Washington 1907; Botany instructor, Univ. of Washington 1909, full professor of botany ib. 1928-1947, head of the botany department 1940-1942; student of the peat resources of the state of Washington. (*Rigg*).
+Rigg, George Burton (1872-1961), American botanist; B.Sc. Iowa 1896; M.A. Univ. Washington 1909; Dr. phil. Chicago 1914; high school teacher in Iowa 1896-1907; botany and zoology teacher at Lincoln High School, Seattle, Washington 1907; Botany instructor, Univ. of Washington 1909, full professor of botany ib. 1928-1947, head of the botany department 1940-1942; student of the peat resources of the state of Washington. 
+**Abbreviated name**: *Rigg*
 
 #### Herbarium and types
 

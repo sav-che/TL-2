@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/item/103253#page/830/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33069046) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lecoq, Henri (1802-1871), French botanist; professor of natural history and director of the botanic garden at Clemont-Ferrand from 1826, until 1854 as municipal professor, from then on as professor of natural history at the Faculté des Sciences, later University. (*Lecoq*).
+Lecoq, Henri (1802-1871), French botanist; professor of natural history and director of the botanic garden at Clemont-Ferrand from 1826, until 1854 as municipal professor, from then on as professor of natural history at the Faculté des Sciences, later University. 
+**Abbreviated name**: *Lecoq*
 
 #### Herbarium and types
 

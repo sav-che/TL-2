@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/item/103414#page/599/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33120682) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Corti, Bonaventura, abate (1729-1813), Italian naturalist at Reggio and Modena. (*Corti*).
+Corti, Bonaventura, abate (1729-1813), Italian naturalist at Reggio and Modena. 
+**Abbreviated name**: *Corti*
 
 #### Herbarium and types
 

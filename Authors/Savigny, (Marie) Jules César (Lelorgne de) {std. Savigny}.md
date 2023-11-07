@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/104077#page/104/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33333229) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savigny, \[Marie\] Jules César \[Lelorgne de\] (1777-1851), French botanist and zoologist; participated in Napoléon's visit to Egypt 1798-1802. (*Savigny*).
+Savigny, \[Marie\] Jules César \[Lelorgne de\] (1777-1851), French botanist and zoologist; participated in Napoléon's visit to Egypt 1798-1802. 
+**Abbreviated name**: *Savigny*
 
 #### Herbarium and types
 

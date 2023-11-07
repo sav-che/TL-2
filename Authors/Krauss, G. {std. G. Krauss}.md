@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/item/103253#page/695/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krauss, G. (*fl*. 1812), German gardener at Würzburg. (*G. Krauss*).
+Krauss, G. (*fl*. 1812), German gardener at Würzburg. 
+**Abbreviated name**: *G. Krauss*
 
 #### Herbarium and types
 

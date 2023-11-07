@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103835#page/168/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dulfer, Hans (1900-1975), Dutch botanist, born 18 Nov 1900 at Amsterdam, went to school in Haarlem, later in The Hague and Apeldoorn until 1919, to Free University in Amsterdam studying natural sciences 1919-1926, Ph.D. 21 Jun 1926, assistant at Hortus Botanicus in Amsterdam 1926-1928, teacher in The Hague from 1928 and Hoorn from 1930, moved to Wilhelmsburg (Austria) in 1940, died 14 Mar 1975. (*Dulfer*).
+Dulfer, Hans (1900-1975), Dutch botanist, born 18 Nov 1900 at Amsterdam, went to school in Haarlem, later in The Hague and Apeldoorn until 1919, to Free University in Amsterdam studying natural sciences 1919-1926, Ph.D. 21 Jun 1926, assistant at Hortus Botanicus in Amsterdam 1926-1928, teacher in The Hague from 1928 and Hoorn from 1930, moved to Wilhelmsburg (Austria) in 1940, died 14 Mar 1975. 
+**Abbreviated name**: *Dulfer*
 
 #### Herbarium and types
 

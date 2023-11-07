@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103624#page/399/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33189856) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Preble, Edward Alexander (1871-1957), American conservationist, botanist, orand \[fix\]1 on the staff of the U.S. Biological Survey from 1892, on that of the American Nature Association from 1895.(*Preble*).
+Preble, Edward Alexander (1871-1957), American conservationist, botanist, orand \[fix\]1 on the staff of the U.S. Biological Survey from 1892, on that of the American Nature Association from 1895.
+**Abbreviated name**: *Preble*
 
 #### Herbarium and types
 

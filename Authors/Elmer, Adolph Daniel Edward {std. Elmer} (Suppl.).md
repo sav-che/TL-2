@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/103835#page/325/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33260303) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Elmer, Adolph Daniel Edward {std. Elmer}|first entry]] for this author
 
 ### Author
 
-\* Elmer, Adolph Daniel Edward (1870-1942), American botanist, born 14 Jun 1870, Vandyne (Wisc.), educated at Washington Agricultural College, MA. Leland Stanford Jr. University 1903, collected in Western United States 1896-1903, went to the Philippines 1904 and collected extensively there and in many areas of the Far East, originally (1904-1905) employed by the Bureau of Sciences, editor of the Leaflets of Philippine Botany, died in a concentration camp in the Philippines 17 Apr 1942. (*Elmer*).
+\* Elmer, Adolph Daniel Edward (1870-1942), American botanist, born 14 Jun 1870, Vandyne (Wisc.), educated at Washington Agricultural College, MA. Leland Stanford Jr. University 1903, collected in Western United States 1896-1903, went to the Philippines 1904 and collected extensively there and in many areas of the Far East, originally (1904-1905) employed by the Bureau of Sciences, editor of the Leaflets of Philippine Botany, died in a concentration camp in the Philippines 17 Apr 1942. 
+**Abbreviated name**: *Elmer*
 
 #### Herbarium and types
 

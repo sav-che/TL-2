@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103835#page/147/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33260125) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ducke, Adolpho {std. Ducke}|first entry]] for this author
 
 ### Author
 
-\* Ducke, Adolpho (Adolfo) (1876-1959), Austrian entomologist and botanist, born 19 Oct 1876, Triest, then Austria, died 5 Jan 1959, Fortaleza, Brazil, became the experienced collector in the Amazon forest community, at the Museu paraense Emilio Goeldi at Belém, Para, Brazil, collected in Amazonas, Para, Ceará (Braz.), Colombia, and Peru. (*Ducke*).
+\* Ducke, Adolpho (Adolfo) (1876-1959), Austrian entomologist and botanist, born 19 Oct 1876, Triest, then Austria, died 5 Jan 1959, Fortaleza, Brazil, became the experienced collector in the Amazon forest community, at the Museu paraense Emilio Goeldi at Belém, Para, Brazil, collected in Amazonas, Para, Ceará (Braz.), Colombia, and Peru. 
+**Abbreviated name**: *Ducke*
 
 #### Herbarium and types
 

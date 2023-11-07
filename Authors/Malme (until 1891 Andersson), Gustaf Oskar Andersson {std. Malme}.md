@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/item/104137#page/281/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33355352) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malme \[until 1891: Andersson\], Gustaf Oskar Andersson (1864-1937), Swedish botanist; Dr. phil. Uppsala 1892; curator of botany at the Stockholm Riksmuseum 1895-1901, 1903-1905; travelled in S. America 1892-1894, 1901-1903; lecturer in biology and chemistry at Norrmalm, Stockholm 1905-1911; id. at a Stockholm teachers college from 1911. (*Malme*).
+Malme \[until 1891: Andersson\], Gustaf Oskar Andersson (1864-1937), Swedish botanist; Dr. phil. Uppsala 1892; curator of botany at the Stockholm Riksmuseum 1895-1901, 1903-1905; travelled in S. America 1892-1894, 1901-1903; lecturer in biology and chemistry at Norrmalm, Stockholm 1905-1911; id. at a Stockholm teachers college from 1911. 
+**Abbreviated name**: *Malme*
 
 #### Herbarium and types
 

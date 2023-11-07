@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/104137#page/398/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33355469) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maximowicz, Carl Johann (Ivanovic) (1827-1891), Russian botanist and explorer, at St. Petersburg from 1852; travelled in Eastern Asia 1853-1857 and in China and Japan 1859-1864; curator of the St. Petersburg herbaria (Bot. Gard. and Academy). (*Maxim.*).
+Maximowicz, Carl Johann (Ivanovic) (1827-1891), Russian botanist and explorer, at St. Petersburg from 1852; travelled in Eastern Asia 1853-1857 and in China and Japan 1859-1864; curator of the St. Petersburg herbaria (Bot. Gard. and Academy). 
+**Abbreviated name**: *Maxim.*
 
 #### Herbarium and types
 

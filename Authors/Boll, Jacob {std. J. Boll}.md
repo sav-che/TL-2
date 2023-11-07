@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103859#page/302/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33265489) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boll, Jacob (1828-1880), Swiss botanist, entomologist, geologist, and pharmacist, born at Bremgarten, Canton Aargau, attended a gymnasium, studied at the University of Jena 1851-1853 (without degree), settled as apothecary at Bremgarten, dedicated himself to botany, teacher of natural history at Bremgarten 1853-1869, collaborator on the geological map of Switzerland, visited the United States 1869-1870, collected for Louis Agassiz at the Harvard Museum, returned to Cambridge, Mass. Dec 1870 acting unofficially as curator with Agassiz until Spring 1871, finally settled in the United States 1874 at Dallas, Texas, continued his field trips, died on such a trip in Wilbarger County, Texas. (*J. Boll*).
+Boll, Jacob (1828-1880), Swiss botanist, entomologist, geologist, and pharmacist, born at Bremgarten, Canton Aargau, attended a gymnasium, studied at the University of Jena 1851-1853 (without degree), settled as apothecary at Bremgarten, dedicated himself to botany, teacher of natural history at Bremgarten 1853-1869, collaborator on the geological map of Switzerland, visited the United States 1869-1870, collected for Louis Agassiz at the Harvard Museum, returned to Cambridge, Mass. Dec 1870 acting unofficially as curator with Agassiz until Spring 1871, finally settled in the United States 1874 at Dallas, Texas, continued his field trips, died on such a trip in Wilbarger County, Texas. 
+**Abbreviated name**: *J. Boll*
 
 #### Herbarium and types
 

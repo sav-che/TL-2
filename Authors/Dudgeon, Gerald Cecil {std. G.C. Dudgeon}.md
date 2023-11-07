@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103835#page/153/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33260131) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dudgeon, Gerald Cecil (1867-1930), British agriculturist and entomologist, born 18 Oct 1867 at London, educated at the All Souls Grammar School and King's College, joined the staff of a London Bank 1884-1886, sent to India to study tropical agriculture, manager of plantations in Bengal and Punjab, superintendent of Agriculture in British West Africa, died 4 Mai 1930. (*G.C. Dudgeon*).
+Dudgeon, Gerald Cecil (1867-1930), British agriculturist and entomologist, born 18 Oct 1867 at London, educated at the All Souls Grammar School and King's College, joined the staff of a London Bank 1884-1886, sent to India to study tropical agriculture, manager of plantations in Bengal and Punjab, superintendent of Agriculture in British West Africa, died 4 Mai 1930. 
+**Abbreviated name**: *G.C. Dudgeon*
 
 #### Herbarium and types
 

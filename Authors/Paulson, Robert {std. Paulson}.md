@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103624#page/128/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33189585) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paulson, Robert (1857-1935), British school teacher, mycologist and lichenologist in London. (*Paulson*).
+Paulson, Robert (1857-1935), British school teacher, mycologist and lichenologist in London. 
+**Abbreviated name**: *Paulson*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103835#page/63/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33260041) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dondé Ibarra, Joaquim (1827-1875), Mexican pharmacist, chemist and naturalist, born 6 Jul 1827 at Campeche, studied pharmacy at Puebla, died 1 Nov 1875 at Merida, Yucatan. (*Dondé*).
+Dondé Ibarra, Joaquim (1827-1875), Mexican pharmacist, chemist and naturalist, born 6 Jul 1827 at Campeche, studied pharmacy at Puebla, died 1 Nov 1875 at Merida, Yucatan. 
+**Abbreviated name**: *Dondé*
 
 #### Herbarium and types
 

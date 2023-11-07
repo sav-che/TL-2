@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103834#page/310/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33259792) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Foerster \[Förster\], Friedrich (1865-1918), German botanist and collector, born in Kehl, died 2 Dec 1918 in Oberkirch (Braunschweig). (*F. Foerst.*).
+Foerster \[Förster\], Friedrich (1865-1918), German botanist and collector, born in Kehl, died 2 Dec 1918 in Oberkirch (Braunschweig). 
+**Abbreviated name**: *F. Foerst.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/item/103624#page/759/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33190216) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Revel, Joseph (1811-1883), French botanist and clergyman; school principal at Villefranche-de-Rouergue (Institution Saint-Joseph). (*Revel*).
+Revel, Joseph (1811-1883), French botanist and clergyman; school principal at Villefranche-de-Rouergue (Institution Saint-Joseph). 
+**Abbreviated name**: *Revel*
 
 #### Herbarium and types
 

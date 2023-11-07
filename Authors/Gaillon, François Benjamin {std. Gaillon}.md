@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/item/103414#page/953/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33121036) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gaillon, François Benjamin (1782-1839), French algologist. (*Gaillon*).
+Gaillon, François Benjamin (1782-1839), French algologist. 
+**Abbreviated name**: *Gaillon*
 
 #### Herbarium and types
 

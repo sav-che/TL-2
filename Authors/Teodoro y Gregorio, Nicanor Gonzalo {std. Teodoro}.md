@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/103683#page/230/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33212262) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teodoro y Gregorio, Nicanor Gonzalo (1890-x), Philippine botanist; M.S. Univ. Wisconsin 1920; Dr. phil. ib. 1923; scientific assistant Bureau Agriculture Phil. Isl. 1917-1923, plant pathologist 1923-1924, acting chief plant pests control 1924-1927; chief plant disease section 1927-1932; with Los Banos Bot. Gard. 1932-1941; professor of botany Manila 1946-1949, dean 1948-1951. (*Teodoro*).
+Teodoro y Gregorio, Nicanor Gonzalo (1890-x), Philippine botanist; M.S. Univ. Wisconsin 1920; Dr. phil. ib. 1923; scientific assistant Bureau Agriculture Phil. Isl. 1917-1923, plant pathologist 1923-1924, acting chief plant pests control 1924-1927; chief plant disease section 1927-1932; with Los Banos Bot. Gard. 1932-1941; professor of botany Manila 1946-1949, dean 1948-1951. 
+**Abbreviated name**: *Teodoro*
 
 #### Herbarium and types
 

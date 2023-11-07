@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103861#page/436/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266733) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carron, Gustave (1838-1895), Belgian botanist, born 24 Jun 1838 at Bruxelles, died 3 Feb 1895, author on the Belgian flora. (*G. Carron*).
+Carron, Gustave (1838-1895), Belgian botanist, born 24 Jun 1838 at Bruxelles, died 3 Feb 1895, author on the Belgian flora. 
+**Abbreviated name**: *G. Carron*
 
 #### Herbarium and types
 

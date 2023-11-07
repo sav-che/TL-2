@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/item/103253#page/611/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33068827) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knuth, Reinhard \[Gustav Paul\] (1874-1957), German botanist; pupil of Engler; Dr. phil. Berlin 1902; high school teacher at Breslau 1900-1905; at Berlin 1905-1937; research associate at the Botanischem Museum, Berlin-Dahlem. (*R. Knuth*).
+Knuth, Reinhard \[Gustav Paul\] (1874-1957), German botanist; pupil of Engler; Dr. phil. Berlin 1902; high school teacher at Breslau 1900-1905; at Berlin 1905-1937; research associate at the Botanischem Museum, Berlin-Dahlem. 
+**Abbreviated name**: *R. Knuth*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/item/104077#page/507/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seidl, Wenzel Benno (1773-1842), Bohemian botanist and administrator ("Staatsbuchhaltungsbeamter") at Praha. (*Seidl*).
+Seidl, Wenzel Benno (1773-1842), Bohemian botanist and administrator ("Staatsbuchhaltungsbeamter") at Praha. 
+**Abbreviated name**: *Seidl*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/104137#page/439/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33355510) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mereschkowski, Konstantin Sergejewicz \[Mérejkovski, Constantin Sergeevic; pseudonym in Switzerland: Kuno Mower\] (1854 \[1855?\]-1921), Russian algologist and lichenologist from Kasan; later (from 1925) in exile in Switzerland. (*Mereschk.*).
+Mereschkowski, Konstantin Sergejewicz \[Mérejkovski, Constantin Sergeevic; pseudonym in Switzerland: Kuno Mower\] (1854 \[1855?\]-1921), Russian algologist and lichenologist from Kasan; later (from 1925) in exile in Switzerland. 
+**Abbreviated name**: *Mereschk.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103859#page/91/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265278) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Benze, Wilhelm (fl. 1887), German (Sachsen) botanist, educated at gymnasia at Gardelegen and Halberstadt, studied modern languages at Strassburg, Freiburg and Berlin, ultimately at the philosophical faculty of the Friedrich-Wilhelms-Universität in Berlin, student of S. Schwendener and A.W. Eichler. (*Benze*).
+Benze, Wilhelm (fl. 1887), German (Sachsen) botanist, educated at gymnasia at Gardelegen and Halberstadt, studied modern languages at Strassburg, Freiburg and Berlin, ultimately at the philosophical faculty of the Friedrich-Wilhelms-Universität in Berlin, student of S. Schwendener and A.W. Eichler. 
+**Abbreviated name**: *Benze*
 
 #### Herbarium and types
 

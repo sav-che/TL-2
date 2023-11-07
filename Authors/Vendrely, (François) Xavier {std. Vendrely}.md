@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/item/103683#page/709/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33212741) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vendrely, \[François\] Xavier (1837-1908), French botanist and pharmacist; studied at the École de Pharmacie, Strasbourg 1856-1857; military service 1858-1859; continued his pharmaceutical studies in Besançon 1860-1861; state exam. pharm. ib. 1861; practicing pharmacist in Champagney 1861-1901. (*Vendrely*).
+Vendrely, \[François\] Xavier (1837-1908), French botanist and pharmacist; studied at the École de Pharmacie, Strasbourg 1856-1857; military service 1858-1859; continued his pharmaceutical studies in Besançon 1860-1861; state exam. pharm. ib. 1861; practicing pharmacist in Champagney 1861-1901. 
+**Abbreviated name**: *Vendrely*
 
 #### Herbarium and types
 

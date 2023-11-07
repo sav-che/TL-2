@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/103833#page/104/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33259138) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davenport, George Edward (1833-1907), American botanist (pteridologist) and plant collector, born at Boston, Mass., 3 Aug 1833, 1892 member of the Massachusetts Horticultural Society, worked mainly on Pteridophyta, died 29 Nov 1907 at Medford (Mass.). (*Davenp.*).
+Davenport, George Edward (1833-1907), American botanist (pteridologist) and plant collector, born at Boston, Mass., 3 Aug 1833, 1892 member of the Massachusetts Horticultural Society, worked mainly on Pteridophyta, died 29 Nov 1907 at Medford (Mass.). 
+**Abbreviated name**: *Davenp.*
 
 #### Herbarium and types
 

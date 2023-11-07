@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/item/104137#page/391/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33355462) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mattuschka, Heinrich Gottfried, Graf von (1734-1779), Silesian landowner and naturalist near Breslau. (*Mattuschka*).
+Mattuschka, Heinrich Gottfried, Graf von (1734-1779), Silesian landowner and naturalist near Breslau. 
+**Abbreviated name**: *Mattuschka*
 
 #### Herbarium and types
 

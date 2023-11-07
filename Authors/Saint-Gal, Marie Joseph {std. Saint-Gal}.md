@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/item/103624#page/1077/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saint-Gal, Marie Joseph (1841-1932); French botanist and assistant professor of botany and forestry at the Agricultural College at Grand-Jouan, Loire-Inférieure 1864-1869; id. at Grignon 1869-1870; on active service with the Armée de la Loire 1870; regular professor again at Grand-Jouan 1870-1895; transferred with the college to Rennes 1895-1901; in retirement at Fougères (Rennes). (*Saint-Gal*).
+Saint-Gal, Marie Joseph (1841-1932); French botanist and assistant professor of botany and forestry at the Agricultural College at Grand-Jouan, Loire-Inférieure 1864-1869; id. at Grignon 1869-1870; on active service with the Armée de la Loire 1870; regular professor again at Grand-Jouan 1870-1895; transferred with the college to Rennes 1895-1901; in retirement at Fougères (Rennes). 
+**Abbreviated name**: *Saint-Gal*
 
 #### Herbarium and types
 

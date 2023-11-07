@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/item/104137#page/830/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ohwi, Jisaburo (1905-1977), Japanese botanist; Ph.D. Kyoto Univ. 1930; lecturer at Kyoto 1936-1943; at Buitenzorg 1943-1945; from 1946 at the Science Museum, Tokyo. (*Ohwi*).
+Ohwi, Jisaburo (1905-1977), Japanese botanist; Ph.D. Kyoto Univ. 1930; lecturer at Kyoto 1936-1943; at Buitenzorg 1943-1945; from 1946 at the Science Museum, Tokyo. 
+**Abbreviated name**: *Ohwi*
 
 #### Herbarium and types
 

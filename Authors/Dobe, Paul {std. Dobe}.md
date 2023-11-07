@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103835#page/11/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259989) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dobe, Paul (fl. 1929), German artist, born 13 Oct 1880 at Magdeburg, living at Weimar, studied art at Berlin and Munich, drawings of plants in musea at Erfurt, Magdeburg and Weimar. (*Dobe*).
+Dobe, Paul (fl. 1929), German artist, born 13 Oct 1880 at Magdeburg, living at Weimar, studied art at Berlin and Munich, drawings of plants in musea at Erfurt, Magdeburg and Weimar. 
+**Abbreviated name**: *Dobe*
 
 #### Herbarium and types
 

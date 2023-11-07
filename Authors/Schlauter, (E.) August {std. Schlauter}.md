@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/104077#page/204/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlauter, \[E.\] August (1803-1849), German (Hannover) gardener and botanist at Hildesheim nr. Celle; in the Hannoverian army 1824-1828; Dr. h.c. Bonn 1835; active as gardener in the family firm at Hildesheim 1828-1836; curator of the botanical garden at Erfurt 1836-1837, subsequently again at Hildesheim. (*Schlauter*).
+Schlauter, \[E.\] August (1803-1849), German (Hannover) gardener and botanist at Hildesheim nr. Celle; in the Hannoverian army 1824-1828; Dr. h.c. Bonn 1835; active as gardener in the family firm at Hildesheim 1828-1836; curator of the botanical garden at Erfurt 1836-1837, subsequently again at Hildesheim. 
+**Abbreviated name**: *Schlauter*
 
 #### Herbarium and types
 

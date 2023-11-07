@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/item/104137#page/448/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33355519) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Metcalfe, Charles Russell (1904-x), British botanist, especially plant anatomist. (*Metcalfe*).
+Metcalfe, Charles Russell (1904-x), British botanist, especially plant anatomist. 
+**Abbreviated name**: *Metcalfe*
 
 #### Herbarium and types
 

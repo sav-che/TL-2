@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/item/103624#page/831/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33190288) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robinson, John (1846-1925), American botanist; educated at Salem, Mass. and Harvard Univ., trustee of Peabody Museum at Salem. (*J. Robinson*).
+Robinson, John (1846-1925), American botanist; educated at Salem, Mass. and Harvard Univ., trustee of Peabody Museum at Salem. 
+**Abbreviated name**: *J. Robinson*
 
 #### Herbarium and types
 

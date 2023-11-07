@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103250#page/225/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33066505) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weiss, Emanuel (1837-1870), Bohemian-born Austrian naval physician and botanist; Dr. med. Wien; physician on board the "Huszar" 1864-1865 cruising in the Adriatic; in the Levant with the "Velebic" 1866-1867; stationed at Pola 1868; on the Austrian Eastern Asiatic expedition on the "Erzherzog Friedrich" 1868-1870. (*Em. Weiss*).
+Weiss, Emanuel (1837-1870), Bohemian-born Austrian naval physician and botanist; Dr. med. Wien; physician on board the "Huszar" 1864-1865 cruising in the Adriatic; in the Levant with the "Velebic" 1866-1867; stationed at Pola 1868; on the Austrian Eastern Asiatic expedition on the "Erzherzog Friedrich" 1868-1870. 
+**Abbreviated name**: *Em. Weiss*
 
 #### Herbarium and types
 

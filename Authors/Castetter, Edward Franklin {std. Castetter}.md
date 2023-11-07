@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103861#page/467/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33266764) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Castetter, Edward Franklin (1896-1978), American ethnobotanist and collector of plants, professor at the University of New Mexico since 1928, collected mainly in New Mexico. (*Castetter*).
+Castetter, Edward Franklin (1896-1978), American ethnobotanist and collector of plants, professor at the University of New Mexico since 1928, collected mainly in New Mexico. 
+**Abbreviated name**: *Castetter*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103861#page/46/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33266343) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Braun-Blanquet, Josias {std. Braun-Blanq.}|first entry]] for this author
 
 ### Author
 
-\* Braun-Blanquet, Josias (until 1915 Josias Braun) (1884-1980), Swiss geobotanist, born in Chur, student at Zürich, originally following a business career, from 1905-1912 also following geobotanic instructions from Schröter, Brockmann-Jerosch and Rübel, from then on fully dedicated to geobotany and plant-sociology, studied at Montpellier 1913-1915, Dr. phil. ib. 1915, habil. Zürich 1923, assistant with Rübel 1915-1922, lecturer 1922-1926, moved to Montpellier 1926, in charge of the International station for alpine and mediterranean geobotany (SIGMA) 1927-1980; founder of the French-Swiss school of phytosociology. (*Braun-Blanq.*).
+\* Braun-Blanquet, Josias (until 1915 Josias Braun) (1884-1980), Swiss geobotanist, born in Chur, student at Zürich, originally following a business career, from 1905-1912 also following geobotanic instructions from Schröter, Brockmann-Jerosch and Rübel, from then on fully dedicated to geobotany and plant-sociology, studied at Montpellier 1913-1915, Dr. phil. ib. 1915, habil. Zürich 1923, assistant with Rübel 1915-1922, lecturer 1922-1926, moved to Montpellier 1926, in charge of the International station for alpine and mediterranean geobotany (SIGMA) 1927-1980; founder of the French-Swiss school of phytosociology. 
+**Abbreviated name**: *Braun-Blanq.*
 
 #### Herbarium and types
 

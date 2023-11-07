@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/item/103683#page/634/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33212666) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaarama, \[Otto\] Antero (1912-1975), Finnish botanist (bryologist); studied biology at the University of Helsinki; Dr. phil. ib. 1938; teacher of natural sciences and plant conservation at the Horticultural College of Lepaa 1939-1945; chief assistant at the State Horticultural Institution Piikkiö 1945-1955; professor of botany at the University of Turku 1955-1975; pioneer of bryophyte cytology. (*Vaar.*).
+Vaarama, \[Otto\] Antero (1912-1975), Finnish botanist (bryologist); studied biology at the University of Helsinki; Dr. phil. ib. 1938; teacher of natural sciences and plant conservation at the Horticultural College of Lepaa 1939-1945; chief assistant at the State Horticultural Institution Piikkiö 1945-1955; professor of botany at the University of Turku 1955-1975; pioneer of bryophyte cytology. 
+**Abbreviated name**: *Vaar.*
 
 #### Herbarium and types
 

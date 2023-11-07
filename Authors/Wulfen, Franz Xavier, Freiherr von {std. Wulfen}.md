@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103250#page/534/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wulfen, Franz Xavier, Freiherr von (1728-1805), Austrian Jesuit, teacher and botanist; noviciate at Vienna and Raab 1745-1749; studied philosophy and mathematics at Vienna University; teacher at Görz 1755, Vienna 1756, Laibach 1762; monastic vows 1763; teacher of physics and mathematics at Klagenfurt 1764-1768; from 1769 onward dedicating himself to natural sciences and philantropic work at Klagenfurt. (*Wulfen*).
+Wulfen, Franz Xavier, Freiherr von (1728-1805), Austrian Jesuit, teacher and botanist; noviciate at Vienna and Raab 1745-1749; studied philosophy and mathematics at Vienna University; teacher at Görz 1755, Vienna 1756, Laibach 1762; monastic vows 1763; teacher of physics and mathematics at Klagenfurt 1764-1768; from 1769 onward dedicating himself to natural sciences and philantropic work at Klagenfurt. 
+**Abbreviated name**: *Wulfen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/104077#page/401/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33333526) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, Franz (*fl*. 1869), German gardener and botanist at Berlin. (*F. Schultz.*).
+Schulz, Franz (*fl*. 1869), German gardener and botanist at Berlin. 
+**Abbreviated name**: *F. Schultz.*
 
 #### Herbarium and types
 

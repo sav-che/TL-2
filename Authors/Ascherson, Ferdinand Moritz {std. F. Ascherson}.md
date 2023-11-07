@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103414#page/120/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ascherson, Ferdinand Moritz {std. F. Ascherson} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ascherson, Ferdinand Moritz (1798-1879), German physician and mycologist, father of P. F. A. Ascherson. (*F. Ascherson*).
+Ascherson, Ferdinand Moritz (1798-1879), German physician and mycologist, father of P. F. A. Ascherson. 
+**Abbreviated name**: *F. Ascherson*
 
 #### Herbarium and types
 

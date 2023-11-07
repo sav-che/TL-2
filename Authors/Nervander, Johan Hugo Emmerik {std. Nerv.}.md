@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/104137#page/743/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33355814) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nervander, Johan Hugo Emmerik (1827-1909), Swedish-born botanist; studied in Helsinki, fil. mag. 1853; high school teacher in Viborg 1857-1901. (*Nerv.*).
+Nervander, Johan Hugo Emmerik (1827-1909), Swedish-born botanist; studied in Helsinki, fil. mag. 1853; high school teacher in Viborg 1857-1901. 
+**Abbreviated name**: *Nerv.*
 
 #### Herbarium and types
 

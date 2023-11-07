@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103833#page/184/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33259218) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delaunay, (Parfait-Gervais) dit Jules (1806-1872), French botanist and chemist, born at Tours 19 April 1806, died 10 November 1872, Tours, studied at the Collège de Vendôme, as his father started a pharmacy at Châteaurenault, he choose this profession and went to a pharmacy at Tours, with M. Pally he founded the "Usine de Portillon" 1830 as chemist until 1862, later lived at Tours 1862-1872. (*J. Delaunay*).
+Delaunay, (Parfait-Gervais) dit Jules (1806-1872), French botanist and chemist, born at Tours 19 April 1806, died 10 November 1872, Tours, studied at the Collège de Vendôme, as his father started a pharmacy at Châteaurenault, he choose this profession and went to a pharmacy at Tours, with M. Pally he founded the "Usine de Portillon" 1830 as chemist until 1862, later lived at Tours 1862-1872. 
+**Abbreviated name**: *J. Delaunay*
 
 #### Herbarium and types
 

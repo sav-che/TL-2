@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/item/103860#page/490/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33266157) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crouan, Pierre Louis {std. P. Crouan}|first entry]] for this author
 
 ### Author
 
-\* Crouan, Pierre-Louis (1789-1871), French botanist and pharmacist, older brother of H.M. Crouan, born at Brest, Finistère, on probation pharmacist at Rouen, ca. 1830 pharmacist with his brother at Brest until 1860. (*P. Crouan*).
+\* Crouan, Pierre-Louis (1789-1871), French botanist and pharmacist, older brother of H.M. Crouan, born at Brest, Finistère, on probation pharmacist at Rouen, ca. 1830 pharmacist with his brother at Brest until 1860. 
+**Abbreviated name**: *P. Crouan*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/item/103624#page/547/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33190004) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Racine, Rudolf (*fl*. 1889), German botanist; Dr. phil. Rostock 1889. (*Racine*).
+Racine, Rudolf (*fl*. 1889), German botanist; Dr. phil. Rostock 1889. 
+**Abbreviated name**: *Racine*
 
 #### Herbarium and types
 

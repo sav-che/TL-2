@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103832#page/179/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33258645) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gehrmann, Karl \[Carl\] Anton (1885-1925), German botanist, born 21 Nov 1885 in Rössel (then East Prussia), attended school and gymnasium in Braunsberg, then Univ. of Königsberg until 1906, Ph.D. 1908 Univ. of Breslau, joined the German colonial service and went to Samoa 1909 where he published on diseases of cacao and other crops, first dir., Rabaul Botanic Gardens, New Britain (Bismarck Archipelago) 1911-1914, on exped. in New Guinea 1913, traveled widely 1914-1919, settled in Königsberg where he died. (*K. Gehrmann*).
+Gehrmann, Karl \[Carl\] Anton (1885-1925), German botanist, born 21 Nov 1885 in Rössel (then East Prussia), attended school and gymnasium in Braunsberg, then Univ. of Königsberg until 1906, Ph.D. 1908 Univ. of Breslau, joined the German colonial service and went to Samoa 1909 where he published on diseases of cacao and other crops, first dir., Rabaul Botanic Gardens, New Britain (Bismarck Archipelago) 1911-1914, on exped. in New Guinea 1913, traveled widely 1914-1919, settled in Königsberg where he died. 
+**Abbreviated name**: *K. Gehrmann*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/item/103253#page/779/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33068995) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Langstedt, Friedrich Ludwig (1750-1804), German botanist. (*Langst.*).
+Langstedt, Friedrich Ludwig (1750-1804), German botanist. 
+**Abbreviated name**: *Langst.*
 
 #### Herbarium and types
 

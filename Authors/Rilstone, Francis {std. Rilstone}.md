@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/item/103624#page/809/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rilstone, Francis (1881-1953), British (Cornish) botanist; headmaster Polperro primary school (batologist); educated at Westminster College, London; teacher at Truro, later at Polperro, headmaster of the County Primary School at Polperro, Cornwall, 1914-1934; in retirement at Perranzabuloe 1934-1953. (*Rilstone*).
+Rilstone, Francis (1881-1953), British (Cornish) botanist; headmaster Polperro primary school (batologist); educated at Westminster College, London; teacher at Truro, later at Polperro, headmaster of the County Primary School at Polperro, Cornwall, 1914-1934; in retirement at Perranzabuloe 1934-1953. 
+**Abbreviated name**: *Rilstone*
 
 #### Herbarium and types
 

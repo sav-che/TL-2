@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/104077#page/196/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schiøtz, Ludvig Theodor (1821-1900), Danish pharmacist and amateur botanist; cand. pharm. 1844; high school teacher at Rödding 1851-1859; brewer at Odense 1859-1900. (*Schiötz*).
+Schiøtz, Ludvig Theodor (1821-1900), Danish pharmacist and amateur botanist; cand. pharm. 1844; high school teacher at Rödding 1851-1859; brewer at Odense 1859-1900. 
+**Abbreviated name**: *Schiötz*
 
 #### Herbarium and types
 

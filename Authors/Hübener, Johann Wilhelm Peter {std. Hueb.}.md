@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103253#page/383/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33068599) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hübener, Johann Wilhelm Peter (1807-1847), German bryologist; collected in Norway (1828) for the Esslingen Reiseverein, from then on "Privatgelehrter" in Hamburg. (*Hueb.*).
+Hübener, Johann Wilhelm Peter (1807-1847), German bryologist; collected in Norway (1828) for the Esslingen Reiseverein, from then on "Privatgelehrter" in Hamburg. 
+**Abbreviated name**: *Hueb.*
 
 #### Herbarium and types
 

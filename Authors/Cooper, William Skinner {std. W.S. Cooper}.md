@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103860#page/349/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33266016) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooper, William Skinner (1884-1978), American botanist, ecologist, geomorphologist, born in Detroit, Mich., studied at the University of Chicago, Ph.D. 1911, professor at the University of Minnesota, Minneapolis, Minn. (*W.S. Cooper*).
+Cooper, William Skinner (1884-1978), American botanist, ecologist, geomorphologist, born in Detroit, Mich., studied at the University of Chicago, Ph.D. 1911, professor at the University of Minnesota, Minneapolis, Minn. 
+**Abbreviated name**: *W.S. Cooper*
 
 #### Herbarium and types
 

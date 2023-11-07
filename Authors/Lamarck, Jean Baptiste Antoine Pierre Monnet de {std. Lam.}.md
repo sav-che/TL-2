@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/item/103253#page/756/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33068972) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lamarck, Jean Baptiste Antoine Pierre Monnet de (1744-1829), French biologist; founder of the theory of evolution; 1761-1768 in French army; 1768-1778 bank employee in Paris; 1778-1793 botanist at the Jardin des Plantes; 1793-1829 professor of zoology at the Museum d'histoire naturelle (*Lam.*).
+Lamarck, Jean Baptiste Antoine Pierre Monnet de (1744-1829), French biologist; founder of the theory of evolution; 1761-1768 in French army; 1768-1778 bank employee in Paris; 1778-1793 botanist at the Jardin des Plantes; 1793-1829 professor of zoology at the Museum d'histoire naturelle 
+**Abbreviated name**: *Lam.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/item/104137#page/421/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33355492) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meisner, Carl Friedrich (1800-1874), Swiss botanist; Dr. med. Goettingen 1824; at Genève with A. P. de Candolle 1825-1828; professor of physiology Basel 1828-1836, professor of botany 1836-1867. (*Meisn.*).
+Meisner, Carl Friedrich (1800-1874), Swiss botanist; Dr. med. Goettingen 1824; at Genève with A. P. de Candolle 1825-1828; professor of physiology Basel 1828-1836, professor of botany 1836-1867. 
+**Abbreviated name**: *Meisn.*
 
 #### Herbarium and types
 

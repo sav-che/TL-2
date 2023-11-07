@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/104137#page/600/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morin, François Malat Marie (1856-1900(?)), French clergyman and botanist; Dr. Sci. Rennes 1893; high school teacher at Dinan; from 1895-1897 professor of botany at the free University of Lyon. (*F. Morin*).
+Morin, François Malat Marie (1856-1900(?)), French clergyman and botanist; Dr. Sci. Rennes 1893; high school teacher at Dinan; from 1895-1897 professor of botany at the free University of Lyon. 
+**Abbreviated name**: *F. Morin*
 
 #### Herbarium and types
 

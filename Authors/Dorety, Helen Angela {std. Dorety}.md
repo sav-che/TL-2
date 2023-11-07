@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103835#page/69/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33260047) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dorety, Helen Angela (1870-?), American botanist ("Sister Helen Angela") born 4 Mai 1870 Kaolin (South Carolina), AB College of St. Elizabeth 1903, AM Chicago 1907, Ph.D. 1909, professor of botany and head of department College of St. Elizabeth from 1909, specialized in plant anatomy and physiology, anatomy of cycads. (*Dorety*).
+Dorety, Helen Angela (1870-?), American botanist ("Sister Helen Angela") born 4 Mai 1870 Kaolin (South Carolina), AB College of St. Elizabeth 1903, AM Chicago 1907, Ph.D. 1909, professor of botany and head of department College of St. Elizabeth from 1909, specialized in plant anatomy and physiology, anatomy of cycads. 
+**Abbreviated name**: *Dorety*
 
 #### Herbarium and types
 

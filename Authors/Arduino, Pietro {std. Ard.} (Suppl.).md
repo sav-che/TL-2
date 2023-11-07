@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103858#page/163/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33264878) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arduino, Pietro {std. Ard.}|first entry]] for this author
 
 ### Author
 
-\* Arduino, Pietro (1728-1805), Italian botanist and agriculturist, custos and ad interim (1757-1760) director of the Padova Botanical Garden, main occupation professor of agriculture (appointed 1763) and, from 1776 founder and director of the agrarian garden of Padova University. (*Ard.*).
+\* Arduino, Pietro (1728-1805), Italian botanist and agriculturist, custos and ad interim (1757-1760) director of the Padova Botanical Garden, main occupation professor of agriculture (appointed 1763) and, from 1776 founder and director of the agrarian garden of Padova University. 
+**Abbreviated name**: *Ard.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/item/103624#page/841/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33190298) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rodati, Aloysius (Luigi) (1762-1832), Italian botanist at Bologna; director of the Bologna botanical garden 1792-1802. (*Rodati*).
+Rodati, Aloysius (Luigi) (1762-1832), Italian botanist at Bologna; director of the Bologna botanical garden 1792-1802. 
+**Abbreviated name**: *Rodati*
 
 #### Herbarium and types
 

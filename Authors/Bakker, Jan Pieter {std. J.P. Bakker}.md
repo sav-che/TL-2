@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103858#page/298/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265013) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bakker, Jan Pieter (fl. 1833), Dutch physician, born in Haarlem, Dr. med. Utrecht 1833. (*J.P. Bakker*).
+Bakker, Jan Pieter (fl. 1833), Dutch physician, born in Haarlem, Dr. med. Utrecht 1833. 
+**Abbreviated name**: *J.P. Bakker*
 
 #### Herbarium and types
 

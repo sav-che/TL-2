@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/item/103253#page/595/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33068811) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kloos, Abraham Willem, Jr. (1880-1952), Dutch botanist; Dr. phil. h.c. Leiden 1946; civil engineer; high school teacher at Schiermonnikoog (1904-1905), Goes (1905-1911) and Dordrecht (1911-1945); student of the adventitious flora of the Netherlands. (*Kloos*).
+Kloos, Abraham Willem, Jr. (1880-1952), Dutch botanist; Dr. phil. h.c. Leiden 1946; civil engineer; high school teacher at Schiermonnikoog (1904-1905), Goes (1905-1911) and Dordrecht (1911-1945); student of the adventitious flora of the Netherlands. 
+**Abbreviated name**: *Kloos*
 
 #### Herbarium and types
 

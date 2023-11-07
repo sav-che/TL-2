@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103834#page/91/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259573) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fautrey, François Gabriel (1833-1905), French cryptogamic botanist, born 27 Sep 1833 in Courbevoie (now Hauts-de-Seine), teacher in Noidan nr. Pont-Royal (Côte-d'Or), later lived in Corrombles nr. Époisses (Côte-d'Or), died 4 Aug 1905 in Corrombles. (*Fautrey*).
+Fautrey, François Gabriel (1833-1905), French cryptogamic botanist, born 27 Sep 1833 in Courbevoie (now Hauts-de-Seine), teacher in Noidan nr. Pont-Royal (Côte-d'Or), later lived in Corrombles nr. Époisses (Côte-d'Or), died 4 Aug 1905 in Corrombles. 
+**Abbreviated name**: *Fautrey*
 
 #### Herbarium and types
 

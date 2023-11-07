@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103834#page/67/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Farmer, John Bretland (Sir) (1865-1944), British botanist, born 5 Apr 1865 in Atherstone (Warks.), attended Queen Elizabeth Grammar School in Atherstone but, owing to ill-health, after five years was educated privately, M.A. 1883 Oxon., demonstrator in natural sciences 1883-1887, demonstrator in botany 1887-1892, Asst. Prof. of Botany, Royal College of Science (now Imperial College), London 1892-1895, then Prof. 1895-1929, F.R.S. 1900, visited Ceylon (now Sri Lanka) ca. 1905, knighted 1926, died 26 Jan 1944 in Exmouth (Devon). (*J.B. Farmer*).
+Farmer, John Bretland (Sir) (1865-1944), British botanist, born 5 Apr 1865 in Atherstone (Warks.), attended Queen Elizabeth Grammar School in Atherstone but, owing to ill-health, after five years was educated privately, M.A. 1883 Oxon., demonstrator in natural sciences 1883-1887, demonstrator in botany 1887-1892, Asst. Prof. of Botany, Royal College of Science (now Imperial College), London 1892-1895, then Prof. 1895-1929, F.R.S. 1900, visited Ceylon (now Sri Lanka) ca. 1905, knighted 1926, died 26 Jan 1944 in Exmouth (Devon). 
+**Abbreviated name**: *J.B. Farmer*
 
 #### Herbarium and types
 

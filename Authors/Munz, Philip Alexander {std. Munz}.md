@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/item/104137#page/678/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33355749) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Munz, Philip Alexander (1892-1974), American botanist in Southern California, longtime director of the Santa Ana Botanic Garden; Dr. phil. Cornell 1917; professor of botany at Pomona College 1917-1944; id. Cornell University 1944-1946; botanist and director of the Rancho Santa Ana Botanic Garden from 1946 (*Munz*).
+Munz, Philip Alexander (1892-1974), American botanist in Southern California, longtime director of the Santa Ana Botanic Garden; Dr. phil. Cornell 1917; professor of botany at Pomona College 1917-1944; id. Cornell University 1944-1946; botanist and director of the Rancho Santa Ana Botanic Garden from 1946 
+**Abbreviated name**: *Munz*
 
 #### Herbarium and types
 

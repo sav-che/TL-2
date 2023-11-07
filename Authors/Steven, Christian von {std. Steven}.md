@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/item/104077#page/925/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/page/33334050) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steven, Christian von (1781-1863), Finnish botanist; studied at Turku, St. Petersburg 1795-1797, Jena 1797-1798; Dr. med. St. Petersburg 1798; inspector of silk production in the Caucasus with headquarters in Kislar 1800-1805; in Finland 1805-1806; assistant inspector for Southern Russia with Marschall von Bieberstein 1806-1826, at Simferopol (living there until his death), travelling extensively in Southern Russia; established the Nikita Botanical Garden in the Crimea 1812; travelled in Central Europe 1820-1821; retired from the directorship of the Botanical Garden in 1827; general inspector of the silk industry for the whole of Russia 1826-1841; general inspector for S. Russian agriculture 1841-1850. (*Steven*).
+Steven, Christian von (1781-1863), Finnish botanist; studied at Turku, St. Petersburg 1795-1797, Jena 1797-1798; Dr. med. St. Petersburg 1798; inspector of silk production in the Caucasus with headquarters in Kislar 1800-1805; in Finland 1805-1806; assistant inspector for Southern Russia with Marschall von Bieberstein 1806-1826, at Simferopol (living there until his death), travelling extensively in Southern Russia; established the Nikita Botanical Garden in the Crimea 1812; travelled in Central Europe 1820-1821; retired from the directorship of the Botanical Garden in 1827; general inspector of the silk industry for the whole of Russia 1826-1841; general inspector for S. Russian agriculture 1841-1850. 
+**Abbreviated name**: *Steven*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103624#page/18/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33189511) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paczoski (Patschosky, Patschotsky), Joseph Conradovich (1864-1941) Ukranian-born Polish botanist; assistant at the Dept. Botany, Univ. Kiew 1888-1894, id. at the botanical garden St. Petersburg 1894-1895, at Dublany 1895-1897; director of the Natural History Museum, Cherson 1897-1920 and professor at the Polytechnic ib. 1918-1922; director of the Steppe Reserve at Ascania Nova 1922-1923; repatriated to Poland 1923; director National Park Bialowieza 1923-1928; professor of phytosociology at the University of Poznan 1925-1931; Dr. phil. h.c. Poznan 1932; from 1931 active as a private scientist; early phytosociologist and ecologist. (*Pacz.*).
+Paczoski (Patschosky, Patschotsky), Joseph Conradovich (1864-1941) Ukranian-born Polish botanist; assistant at the Dept. Botany, Univ. Kiew 1888-1894, id. at the botanical garden St. Petersburg 1894-1895, at Dublany 1895-1897; director of the Natural History Museum, Cherson 1897-1920 and professor at the Polytechnic ib. 1918-1922; director of the Steppe Reserve at Ascania Nova 1922-1923; repatriated to Poland 1923; director National Park Bialowieza 1923-1928; professor of phytosociology at the University of Poznan 1925-1931; Dr. phil. h.c. Poznan 1932; from 1931 active as a private scientist; early phytosociologist and ecologist. 
+**Abbreviated name**: *Pacz.*
 
 #### Herbarium and types
 

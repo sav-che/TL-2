@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103832#page/53/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33258481) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frimmel, Franz von (a.k.a. Frimmel von Traisenau and Frimmel-Traisenau) (1888-1957), Austrian botanist and plant breeder, born 6 Apr 1888 in Vienna, Dr. phil. 1912 Univ. of Vienna, demonstrator of botany, Univ. of Vienna 1911-1913, asst. "Fürst-Liechtenstein-Pflanzenzüchtungs-Institut", Eisgrub 1914-1918 and dir. from 1918, docent at the German technical school in Brünn (i.e. Brno, Czechoslovakia) 1926-1928 and prof. from 1928, died 19 Nov 1957 in Olomouc (now Czech Republic). (*Frimmel*).
+Frimmel, Franz von (a.k.a. Frimmel von Traisenau and Frimmel-Traisenau) (1888-1957), Austrian botanist and plant breeder, born 6 Apr 1888 in Vienna, Dr. phil. 1912 Univ. of Vienna, demonstrator of botany, Univ. of Vienna 1911-1913, asst. "Fürst-Liechtenstein-Pflanzenzüchtungs-Institut", Eisgrub 1914-1918 and dir. from 1918, docent at the German technical school in Brünn (i.e. Brno, Czechoslovakia) 1926-1928 and prof. from 1928, died 19 Nov 1957 in Olomouc (now Czech Republic). 
+**Abbreviated name**: *Frimmel*
 
 #### Herbarium and types
 

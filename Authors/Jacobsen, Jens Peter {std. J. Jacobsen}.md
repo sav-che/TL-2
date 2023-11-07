@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/103253#page/428/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jacobsen, Jens Peter (1847-1885), Danish poet and phycologist at Copenhagen (*J. Jacobsen*).
+Jacobsen, Jens Peter (1847-1885), Danish poet and phycologist at Copenhagen 
+**Abbreviated name**: *J. Jacobsen*
 
 #### Herbarium and types
 

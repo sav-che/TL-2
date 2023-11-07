@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/item/103833#page/359/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33259393) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dinter, Kurt {std. Dinter}|first entry]] for this author
 
 ### Author
 
-\* Dinter, Moritz Kurt (1868-1945), German botanist, phytogeographer in the "Kaiserlichen Gouvernement Deutsch-Südwest-Africa", born at Bautzen in Sachsen 10 Jun 1868, died Neukirch, Sachsen 16 Dec 1945, studied botany in Strassburg and Dresden, curator in the botanical garden of Thomas Hanbury in La Mortola, went later for sometime to Kew Gardens, botanized in Southwest Africa, was appointed government botanist there 1900, returned to Germany in 1905, visited Southwest Africa again in 1922, 1923-1925, 1933-1935, moved to Nieder-Neukirch (Lausitz) 1935. (*Dinter*).
+\* Dinter, Moritz Kurt (1868-1945), German botanist, phytogeographer in the "Kaiserlichen Gouvernement Deutsch-Südwest-Africa", born at Bautzen in Sachsen 10 Jun 1868, died Neukirch, Sachsen 16 Dec 1945, studied botany in Strassburg and Dresden, curator in the botanical garden of Thomas Hanbury in La Mortola, went later for sometime to Kew Gardens, botanized in Southwest Africa, was appointed government botanist there 1900, returned to Germany in 1905, visited Southwest Africa again in 1922, 1923-1925, 1933-1935, moved to Nieder-Neukirch (Lausitz) 1935. 
+**Abbreviated name**: *Dinter*
 
 #### Herbarium and types
 

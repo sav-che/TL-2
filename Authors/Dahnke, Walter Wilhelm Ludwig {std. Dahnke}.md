@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103833#page/33/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33259067) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dahnke, Walter Wilhelm Ludwig (1890-1972), German (Mecklenburg) teacher and botanist (florist and mycologist), born 23 Mar 1890 at Parchim, at the "Mittelschule" (secondary school) of Parchim i. M. 1896-1905, followed a "Präparandum" at Schwerin 1905-1908, and the "Landeslehrer-Seminar" at Neukloster 1908-1910, teacher at Grabow 1910-1911, ultimately teacher at Parchim 1911-1956, died 24 Jan 1972. (*Dahnke*).
+Dahnke, Walter Wilhelm Ludwig (1890-1972), German (Mecklenburg) teacher and botanist (florist and mycologist), born 23 Mar 1890 at Parchim, at the "Mittelschule" (secondary school) of Parchim i. M. 1896-1905, followed a "Präparandum" at Schwerin 1905-1908, and the "Landeslehrer-Seminar" at Neukloster 1908-1910, teacher at Grabow 1910-1911, ultimately teacher at Parchim 1911-1956, died 24 Jan 1972. 
+**Abbreviated name**: *Dahnke*
 
 #### Herbarium and types
 

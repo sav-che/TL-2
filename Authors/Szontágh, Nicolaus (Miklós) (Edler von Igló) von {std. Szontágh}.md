@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103683#page/154/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Szontágh, Nicolaus \[Miklós\] (Edler von Igló) von (1843-1899), Hungarian botanist and physician; Dr. med. Wien; practicing physician in Pesth \[Budapest\]. (*Szontágh*).
+Szontágh, Nicolaus \[Miklós\] (Edler von Igló) von (1843-1899), Hungarian botanist and physician; Dr. med. Wien; practicing physician in Pesth \[Budapest\]. 
+**Abbreviated name**: *Szontágh*
 
 #### Herbarium and types
 

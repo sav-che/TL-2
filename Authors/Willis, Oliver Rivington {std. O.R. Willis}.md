@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103250#page/395/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33066675) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willis, Oliver Rivington (1815-1902), American school teacher and botanist; some time residing in New Jersey, later in the New York area, ultimately instructor in botany, physics, and chemistry in the New York Military Academy. (*O.R. Willis*).
+Willis, Oliver Rivington (1815-1902), American school teacher and botanist; some time residing in New Jersey, later in the New York area, ultimately instructor in botany, physics, and chemistry in the New York Military Academy. 
+**Abbreviated name**: *O.R. Willis*
 
 #### Herbarium and types
 

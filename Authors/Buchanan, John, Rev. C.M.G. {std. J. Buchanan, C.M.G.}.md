@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103861#page/196/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33266493) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchanan, John, Rev. C.M.G. (1855-1896), British (Scottish) missionary born at Perth, came to Nyasaland in service of the Free Church of Scotland Mission 1861, founded Mission Station at Zomba 1876, appointed Vice-Consul, Zomba 1877-1891, started a coffee plantation in Nyasaland 1881, 1890's pioneered with tobacco in Nyasaland, died at Chinde in the Zambezi valley (*J. Buchanan, C.M.G.*).
+Buchanan, John, Rev. C.M.G. (1855-1896), British (Scottish) missionary born at Perth, came to Nyasaland in service of the Free Church of Scotland Mission 1861, founded Mission Station at Zomba 1876, appointed Vice-Consul, Zomba 1877-1891, started a coffee plantation in Nyasaland 1881, 1890's pioneered with tobacco in Nyasaland, died at Chinde in the Zambezi valley 
+**Abbreviated name**: *J. Buchanan, C.M.G.*
 
 #### Herbarium and types
 

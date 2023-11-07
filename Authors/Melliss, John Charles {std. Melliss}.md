@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/104137#page/426/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Melliss, John Charles (fl. 1863-1872), British botanist and commissioner of Crown property, surveyor on St. Helena ca. 1860-1891. (*Melliss*).
+Melliss, John Charles (fl. 1863-1872), British botanist and commissioner of Crown property, surveyor on St. Helena ca. 1860-1891. 
+**Abbreviated name**: *Melliss*
 
 #### Herbarium and types
 

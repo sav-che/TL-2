@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/item/104077#page/806/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33333931) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spin, Marquis de (Marquese di Spigno) (*fl*. 1809), Italian botanist and soldier. (*Spin*).
+Spin, Marquis de (Marquese di Spigno) (*fl*. 1809), Italian botanist and soldier. 
+**Abbreviated name**: *Spin*
 
 #### Herbarium and types
 

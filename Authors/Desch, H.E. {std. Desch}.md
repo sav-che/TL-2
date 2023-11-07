@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103833#page/226/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Desch, H.E. (fl. 1936-1954), British wood technologist, B.Sc., M.A. (Oxford), working in Kepong (Malaya) on timbers, especially Dipterocarpaceae. (*Desch*).
+Desch, H.E. (fl. 1936-1954), British wood technologist, B.Sc., M.A. (Oxford), working in Kepong (Malaya) on timbers, especially Dipterocarpaceae. 
+**Abbreviated name**: *Desch*
 
 #### Herbarium and types
 

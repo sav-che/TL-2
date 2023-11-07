@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/item/103414#page/604/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33120687) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coste, (Abbé) Hippolyte Jacques {std. H.J. Coste} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Coste, \[Abbé\] Hippolyte Jacques (1858-1924), French clergyman and botanist. (*Coste*).
+Coste, \[Abbé\] Hippolyte Jacques (1858-1924), French clergyman and botanist. 
+**Abbreviated name**: *Coste*
 
 #### Herbarium and types
 

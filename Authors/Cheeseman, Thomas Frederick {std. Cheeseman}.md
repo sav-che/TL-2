@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/103414#page/539/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33120622) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cheeseman, Thomas Frederick {std. Cheeseman} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cheeseman, Thomas Frederick (1846-1923), British born New Zealand botanist (to N. Z. 1854). (*Cheeseman*).
+Cheeseman, Thomas Frederick (1846-1923), British born New Zealand botanist (to N. Z. 1854). 
+**Abbreviated name**: *Cheeseman*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/104137#page/427/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33355498) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Memminger, Edward Read (1856-?), American botanist in North Carolina (*Memminger*).
+Memminger, Edward Read (1856-?), American botanist in North Carolina 
+**Abbreviated name**: *Memminger*
 
 #### Herbarium and types
 

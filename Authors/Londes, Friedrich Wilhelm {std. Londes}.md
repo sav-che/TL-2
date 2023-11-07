@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/104137#page/168/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33355239) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Londes, Friedrich Wilhelm (1780-1807), German botanist at Goettingen. (*Londes*).
+Londes, Friedrich Wilhelm (1780-1807), German botanist at Goettingen. 
+**Abbreviated name**: *Londes*
 
 #### Herbarium and types
 

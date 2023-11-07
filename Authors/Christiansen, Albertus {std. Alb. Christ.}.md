@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103860#page/173/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33265840) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Christiansen, Albertus (1875-1917), German botanist and highschool teacher at Kiel, died on active duty in world-war I in a hospital at Lille. (*Alb. Christ.*).
+Christiansen, Albertus (1875-1917), German botanist and highschool teacher at Kiel, died on active duty in world-war I in a hospital at Lille. 
+**Abbreviated name**: *Alb. Christ.*
 
 #### Herbarium and types
 

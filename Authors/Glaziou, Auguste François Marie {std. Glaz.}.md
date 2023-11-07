@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 950](https://www.biodiversitylibrary.org/item/103414#page/998/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 950](https://www.biodiversitylibrary.org/page/33121081) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Glaziou, Auguste François Marie (1828-1906), French botanical traveller who collected in Brazil between 1861 and 1895, director of the Paseo publico, Rio de Janeiro. (*Glaz.*).
+Glaziou, Auguste François Marie (1828-1906), French botanical traveller who collected in Brazil between 1861 and 1895, director of the Paseo publico, Rio de Janeiro. 
+**Abbreviated name**: *Glaz.*
 
 #### Herbarium and types
 

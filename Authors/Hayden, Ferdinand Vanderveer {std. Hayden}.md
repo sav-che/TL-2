@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103253#page/135/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33068351) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hayden, Ferdinand Vanderveer (1829-1887), American geologist and explorer; leader of the "Hayden Survey" of the U.S. Geological Survey in the Rocky Mountains, and of the Western U.S. Expedition (1871-1873); professor of mineralogy Univ. Pennsylvania 1856-1872; L.L.D. h.c. Univ. Rochester 1876, id. h.c. Univ. Penn. 1886, "the-man-who-picks-up-stones-running" (Sioux name). (*Hayden*).
+Hayden, Ferdinand Vanderveer (1829-1887), American geologist and explorer; leader of the "Hayden Survey" of the U.S. Geological Survey in the Rocky Mountains, and of the Western U.S. Expedition (1871-1873); professor of mineralogy Univ. Pennsylvania 1856-1872; L.L.D. h.c. Univ. Rochester 1876, id. h.c. Univ. Penn. 1886, "the-man-who-picks-up-stones-running" (Sioux name). 
+**Abbreviated name**: *Hayden*
 
 #### Herbarium and types
 

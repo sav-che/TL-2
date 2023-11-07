@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103861#page/192/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33266489) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buch, Hans Robert Viktor {std. H. Buch}|first entry]] for this author
 
 ### Author
 
-\* Buch, Hans Robert Viktor (1883-1964), Finnish bryologist (especially Hepatics), studied at the University of Helsingfors, cand. phil. 1907, Dr. phil. 1912, amanuensis in the Botanical Museum Helsingfors 1910, Dr. phil. Univ. Helsingfors 1911, biology teacher at the Lyceum at Grankulla 1913-1915, id. at Helsingfors 1917-1930, docent at Helsingfors University 1922, curator at the Botanical Museum 1949, professor h.c. Univ. Helsingfors 1953. (*H. Buch*).
+\* Buch, Hans Robert Viktor (1883-1964), Finnish bryologist (especially Hepatics), studied at the University of Helsingfors, cand. phil. 1907, Dr. phil. 1912, amanuensis in the Botanical Museum Helsingfors 1910, Dr. phil. Univ. Helsingfors 1911, biology teacher at the Lyceum at Grankulla 1913-1915, id. at Helsingfors 1917-1930, docent at Helsingfors University 1922, curator at the Botanical Museum 1949, professor h.c. Univ. Helsingfors 1953. 
+**Abbreviated name**: *H. Buch*
 
 #### Herbarium and types
 

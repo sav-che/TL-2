@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103683#page/12/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33212092) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stillingfleet, Benjamin (1702-1771), British botanist, private tutor and author; B.A. Trinity Coll., Oxford 1723. (*Stillingfleet*).
+Stillingfleet, Benjamin (1702-1771), British botanist, private tutor and author; B.A. Trinity Coll., Oxford 1723. 
+**Abbreviated name**: *Stillingfleet*
 
 #### Herbarium and types
 

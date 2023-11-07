@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103253#page/222/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33068438) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hildt, Johann Adolph (x-1805), German botanist. (*Hildt*).
+Hildt, Johann Adolph (x-1805), German botanist. 
+**Abbreviated name**: *Hildt*
 
 #### Herbarium and types
 

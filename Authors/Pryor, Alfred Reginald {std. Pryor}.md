@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103624#page/434/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33189891) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pryor, Alfred Reginald (1839-1881), British botanist; BA Oxon 1862; landed gentleman dedicating himself fully to the flora of Hertfordshire. (*Pryor*).
+Pryor, Alfred Reginald (1839-1881), British botanist; BA Oxon 1862; landed gentleman dedicating himself fully to the flora of Hertfordshire. 
+**Abbreviated name**: *Pryor*
 
 #### Herbarium and types
 

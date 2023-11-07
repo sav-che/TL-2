@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/item/103414#page/707/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33120790) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dinter, Moritz Kurt {std. Dinter} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dinter, Kurt (1868-1945), German government botanist in Southwest Africa. (*Dinter*).
+Dinter, Kurt (1868-1945), German government botanist in Southwest Africa. 
+**Abbreviated name**: *Dinter*
 
 #### Herbarium and types
 

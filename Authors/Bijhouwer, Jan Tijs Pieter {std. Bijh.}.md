@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103859#page/174/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265361) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bijhouwer, Jan Tijs Pieter (1898-1938), Dutch agriculturist, studied at the Agricultural College, Wageningen, Dr. agr. 1926, Rockefeller fellow at the Arnold Arboretum 1927-1928, landscape architect from 1928, again in Massachussets 1928-1929, living in Rotterdam 1930-1933. (*Bijh.*).
+Bijhouwer, Jan Tijs Pieter (1898-1938), Dutch agriculturist, studied at the Agricultural College, Wageningen, Dr. agr. 1926, Rockefeller fellow at the Arnold Arboretum 1927-1928, landscape architect from 1928, again in Massachussets 1928-1929, living in Rotterdam 1930-1933. 
+**Abbreviated name**: *Bijh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/item/103253#page/695/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krebs, (Georg) Ludwig Englehard (1792-1844), German naturalist; at the Cape 1817-1844. (*L. Krebs*).
+Krebs, (Georg) Ludwig Englehard (1792-1844), German naturalist; at the Cape 1817-1844. 
+**Abbreviated name**: *L. Krebs*
 
 #### Herbarium and types
 

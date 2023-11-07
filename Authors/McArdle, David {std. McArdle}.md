@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/104137#page/224/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33355295) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McArdle, David (1849-1934), Irish plant collector and clerk at the Botanic Gardens Glasnevin 1869-1923 (*McArdle*).
+McArdle, David (1849-1934), Irish plant collector and clerk at the Botanic Gardens Glasnevin 1869-1923 
+**Abbreviated name**: *McArdle*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103832#page/77/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33258543) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Frye, Theodore Christian {std. Frye}|first entry]] for this author
 
 ### Author
 
-\* Frye, Theodore Christian (1869-1962), American cryptogamic botanist, born 15 Sep 1869 on a farm nr. Washington, Illinois, B.S. 1891 Univ. of Illinois, taught school for seven years in Illinois, Ph.D. 1902 Univ. of Chicago (under John M. Coulter), prof. of biology, Morningside College, Sioux City, Iowa 1902-1903, prof. and chair, Botany Dept. 1903-1941, and dir., Puget Sound Biological Station (forerunner of Friday Harbor Laboratories) 1914-1930, Univ. of Washington in Seattle 1903-1950, died 5 Apr 1962 in Seattle. (*Frye*).
+\* Frye, Theodore Christian (1869-1962), American cryptogamic botanist, born 15 Sep 1869 on a farm nr. Washington, Illinois, B.S. 1891 Univ. of Illinois, taught school for seven years in Illinois, Ph.D. 1902 Univ. of Chicago (under John M. Coulter), prof. of biology, Morningside College, Sioux City, Iowa 1902-1903, prof. and chair, Botany Dept. 1903-1941, and dir., Puget Sound Biological Station (forerunner of Friday Harbor Laboratories) 1914-1930, Univ. of Washington in Seattle 1903-1950, died 5 Apr 1962 in Seattle. 
+**Abbreviated name**: *Frye*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103860#page/147/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33265814) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chouard, Pierre (1903-1983), French botanist, born in Paris, 20 Oct 1903, studied at the University of Paris, "licencié Sciences physiques" 1922, id. natural sciences 1924, at the E.N.S. 1924, agrég. 1927, "doctorat d'État" 1930, professor at the École nationale d'Horticulture de Versailles 1932-1935, id. at the Conservatoire National des Arts et Métiers Agriculture 1938-1955, also Maître de Conférence at the Science Faculty of Bordeaux 1935-1937, one of the editors of the Revue horticule 1934-1950, membre de l'Académie de France 1952, president 1978, from 1953 professeur titulaire for botanical physiology at the Sorbonne, died 11 Dec 1983. (*Chouard*).
+Chouard, Pierre (1903-1983), French botanist, born in Paris, 20 Oct 1903, studied at the University of Paris, "licencié Sciences physiques" 1922, id. natural sciences 1924, at the E.N.S. 1924, agrég. 1927, "doctorat d'État" 1930, professor at the École nationale d'Horticulture de Versailles 1932-1935, id. at the Conservatoire National des Arts et Métiers Agriculture 1938-1955, also Maître de Conférence at the Science Faculty of Bordeaux 1935-1937, one of the editors of the Revue horticule 1934-1950, membre de l'Académie de France 1952, president 1978, from 1953 professeur titulaire for botanical physiology at the Sorbonne, died 11 Dec 1983. 
+**Abbreviated name**: *Chouard*
 
 #### Herbarium and types
 

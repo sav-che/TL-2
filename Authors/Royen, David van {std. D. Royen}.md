@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 960](https://www.biodiversitylibrary.org/item/103624#page/974/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 960](https://www.biodiversitylibrary.org/page/33190431) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Royen, David van (1727-1799), Dutch botanist and physician; succeeded his uncle Adriaan van Royen as professor of botany at the University of Leiden and director of its botanical garden 1754 (official appointment 1756)-1786. (*D. Royen*).
+Royen, David van (1727-1799), Dutch botanist and physician; succeeded his uncle Adriaan van Royen as professor of botany at the University of Leiden and director of its botanical garden 1754 (official appointment 1756)-1786. 
+**Abbreviated name**: *D. Royen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/item/103253#page/863/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33069079) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Léman, Dominique Sébastien (1781-1829), French cryptogamist. (*Léman*).
+Léman, Dominique Sébastien (1781-1829), French cryptogamist. 
+**Abbreviated name**: *Léman*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/item/103250#page/177/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33066457) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Webb, David Allardice (1912-x), Irish botanist; studied at Trinity College, Cambridge 1931-1935; lecturer with H.H. Dixon at Trinity College Dublin 1939-1949; professor of botany ib. 1949-1966; transferred to a personal chair of systematic botany ib. 1966; Sc.D. Trinity, Cambridge, 1951; Boyle medal 1981. (*D. Webb*).
+Webb, David Allardice (1912-x), Irish botanist; studied at Trinity College, Cambridge 1931-1935; lecturer with H.H. Dixon at Trinity College Dublin 1939-1949; professor of botany ib. 1949-1966; transferred to a personal chair of systematic botany ib. 1966; Sc.D. Trinity, Cambridge, 1951; Boyle medal 1981. 
+**Abbreviated name**: *D. Webb*
 
 #### Herbarium and types
 

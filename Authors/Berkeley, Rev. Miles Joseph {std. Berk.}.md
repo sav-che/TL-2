@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/103414#page/240/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33120323) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berkeley, Rev. Miles Joseph {std. Berk.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Berkeley, Rev. Miles Joseph (1803-1889), British clergyman and cryptogamist. (*Berk.*).
+Berkeley, Rev. Miles Joseph (1803-1889), British clergyman and cryptogamist. 
+**Abbreviated name**: *Berk.*
 
 #### Herbarium and types
 

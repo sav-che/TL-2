@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103832#page/316/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33258782) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goodenough, Samuel (Rev. Dr.) (1743-1827), clergyman and student of British plants, born 29 Apr 1743 in Kimpton (Hants.), B.A. 1764, M.A. 1767, Dr. Civil Law (LL.D.) 1772 Oxford, one of the three founders of the Linnean Society 1788 and its first treasurer, F.R.S. 1789, Bishop of Carlisle 1808, died 12 August 1827 in Worthing (Sussex) (buried in Westminster Abbey). (*Gooden.*).
+Goodenough, Samuel (Rev. Dr.) (1743-1827), clergyman and student of British plants, born 29 Apr 1743 in Kimpton (Hants.), B.A. 1764, M.A. 1767, Dr. Civil Law (LL.D.) 1772 Oxford, one of the three founders of the Linnean Society 1788 and its first treasurer, F.R.S. 1789, Bishop of Carlisle 1808, died 12 August 1827 in Worthing (Sussex) (buried in Westminster Abbey). 
+**Abbreviated name**: *Gooden.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/item/103253#page/787/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33069003) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lasch, Wilhelm Gottfried (1787-1863), German pharmacist, mycologist, and hieraciologist at Driesen (Driessen) (Neumark); from 1814-1824 practicing pharmacist; from 1824 Privatgelehrter. (*Lasch*).
+Lasch, Wilhelm Gottfried (1787-1863), German pharmacist, mycologist, and hieraciologist at Driesen (Driessen) (Neumark); from 1814-1824 practicing pharmacist; from 1824 Privatgelehrter. 
+**Abbreviated name**: *Lasch*
 
 #### Herbarium and types
 

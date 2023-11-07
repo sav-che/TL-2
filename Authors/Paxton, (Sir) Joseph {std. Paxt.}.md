@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103624#page/136/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33189593) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paxton, \[Sir\] Joseph (1803-1865), British horticulturist, editor, landscape gardener, railroad promotor and speculator, builder of glass structures (Crystal Palace), architect, civil engineer, and politician; knighted 1851. (*Paxt.*).
+Paxton, \[Sir\] Joseph (1803-1865), British horticulturist, editor, landscape gardener, railroad promotor and speculator, builder of glass structures (Crystal Palace), architect, civil engineer, and politician; knighted 1851. 
+**Abbreviated name**: *Paxt.*
 
 #### Herbarium and types
 

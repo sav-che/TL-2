@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103250#page/571/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33066851) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zahn, Karl Hermann (1865-1940), German (Baden) botanist (specialist on Hieracium); studied at a teachers college in Karlsruhe 1884-1885; from 1891 high school teacher in Heidelberg, Freiburg and Donaueschingen; from 1923 professor of geometry, chemistry and building material technology at the Karlsruhe Technical College; from 1931 in retirement, from 1934 in Haigerloch (Hohenzollern). (*Zahn*).
+Zahn, Karl Hermann (1865-1940), German (Baden) botanist (specialist on Hieracium); studied at a teachers college in Karlsruhe 1884-1885; from 1891 high school teacher in Heidelberg, Freiburg and Donaueschingen; from 1923 professor of geometry, chemistry and building material technology at the Karlsruhe Technical College; from 1931 in retirement, from 1934 in Haigerloch (Hohenzollern). 
+**Abbreviated name**: *Zahn*
 
 #### Herbarium and types
 

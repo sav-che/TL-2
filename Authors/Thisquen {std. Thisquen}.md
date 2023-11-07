@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103683#page/277/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33212309) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thisquen (*fl*. 1853-1876), German botanist and high school teacher at the Gymnasium of Miinstereifel. (*Thisquen*).
+Thisquen (*fl*. 1853-1876), German botanist and high school teacher at the Gymnasium of Miinstereifel. 
+**Abbreviated name**: *Thisquen*
 
 #### Herbarium and types
 

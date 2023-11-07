@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/item/103250#page/546/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33066826) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-yamada, Yukio (1900-1975), Japanese algologist; Grad. Tokyo Univ. 1924; studied at European and American institutions 1928-1930; Dr. phil. Tokyo 1931; assistant professor (1930) and regular professor at The Faculty of Science, Hokkaido University 1931-1964, from 1931 also director of the Muroran seaside Institute of Algological Research, Hokkaido University. (*Yamada*).
+Yamada, Yukio (1900-1975), Japanese algologist; Grad. Tokyo Univ. 1924; studied at European and American institutions 1928-1930; Dr. phil. Tokyo 1931; assistant professor (1930) and regular professor at The Faculty of Science, Hokkaido University 1931-1964, from 1931 also director of the Muroran seaside Institute of Algological Research, Hokkaido University. 
+**Abbreviated name**: *Yamada*
 
 #### Herbarium and types
 

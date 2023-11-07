@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103832#page/229/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33258695) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gilkinet, \[Charles\] Alfred (1845-1926), Belgian mycologist and paleobotanist, born 21 Mai 1845 in Ensival, Dr. en sciences naturelles, prof. of pharmacy, Liége Univ. 1884, died 30 Sep 1926. (*Gilkinet*).
+Gilkinet, \[Charles\] Alfred (1845-1926), Belgian mycologist and paleobotanist, born 21 Mai 1845 in Ensival, Dr. en sciences naturelles, prof. of pharmacy, Liége Univ. 1884, died 30 Sep 1926. 
+**Abbreviated name**: *Gilkinet*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103624#page/364/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33189821) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Post, Ernst Jacob Lennart von (1884-1951), Swedish phytogeographer and geologist, one of the founders of pollen analysis and; Fil. lic. Uppsala 1904; State geologist 1910 (1914); Dr. h.c. Stockholm 1927; professor of geology at Stockholm 1929. (*L. Post*).
+Post, Ernst Jacob Lennart von (1884-1951), Swedish phytogeographer and geologist, one of the founders of pollen analysis and; Fil. lic. Uppsala 1904; State geologist 1910 (1914); Dr. h.c. Stockholm 1927; professor of geology at Stockholm 1929. 
+**Abbreviated name**: *L. Post*
 
 #### Herbarium and types
 

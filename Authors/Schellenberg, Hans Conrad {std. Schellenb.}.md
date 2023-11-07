@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/104077#page/141/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33333266) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schellenberg, Hans Conrad (1872-1923), Swiss botanist; studied agronomy at the ETH, Zürich; with S. Schwendener in Berlin; Dr. phil. Univ. Zürich 1896; assistant at the national Swiss seed-control station; teacher at the agricultural college "im Strickhof'; habil. ETH Zürich 1901; lecturer ib. in plant pathology and viticulture 1903; extraordinary professor 1907; professor of agriculture ib. 1908. (*Schellenb.*).
+Schellenberg, Hans Conrad (1872-1923), Swiss botanist; studied agronomy at the ETH, Zürich; with S. Schwendener in Berlin; Dr. phil. Univ. Zürich 1896; assistant at the national Swiss seed-control station; teacher at the agricultural college "im Strickhof'; habil. ETH Zürich 1901; lecturer ib. in plant pathology and viticulture 1903; extraordinary professor 1907; professor of agriculture ib. 1908. 
+**Abbreviated name**: *Schellenb.*
 
 #### Herbarium and types
 

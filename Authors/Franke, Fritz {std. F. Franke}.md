@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103834#page/410/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33259892) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Franke, Fritz (1890-1945), German paleobotanist, born 15 Sep 1890 in Neusalz an der Oder (now Nowa Sól, Poland), moved to Luckenwalde (Brandenburg) where he attended gymnasium, studied at Jena 1909 and then Berlin (with H. Potonié and W. Gothan), Dr. Nat. Sci. 1912 Berlin, died 2 Aug 1945 in a prisoner of war camp in Woldenberg nr. Landsberg an der Warthe (now Gorzów Wielkopolski, Poland). (*F. Franke*).
+Franke, Fritz (1890-1945), German paleobotanist, born 15 Sep 1890 in Neusalz an der Oder (now Nowa Sól, Poland), moved to Luckenwalde (Brandenburg) where he attended gymnasium, studied at Jena 1909 and then Berlin (with H. Potonié and W. Gothan), Dr. Nat. Sci. 1912 Berlin, died 2 Aug 1945 in a prisoner of war camp in Woldenberg nr. Landsberg an der Warthe (now Gorzów Wielkopolski, Poland). 
+**Abbreviated name**: *F. Franke*
 
 #### Herbarium and types
 

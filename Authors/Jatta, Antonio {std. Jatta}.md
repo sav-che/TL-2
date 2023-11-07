@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103253#page/452/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jatta, Antonio (1852-1912), Italian lichenologist. (*Jatta*).
+Jatta, Antonio (1852-1912), Italian lichenologist. 
+**Abbreviated name**: *Jatta*
 
 #### Herbarium and types
 

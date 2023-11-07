@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/item/103683#page/597/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33212629) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Underwood, Lucien Marcus (1853-1907), American botanist; Dr. phil. Syracuse Univ. 1879 (LL.D. 1906), instructor in biology and geology, Syracuse University 1883-1886; professor id. 1886-1891; professor of botany De Pauw Univ. 1891-1895; professor of biology Alabama Polytechnic Institute 1895-1896; professor of botany at Columbia College 1896-1907; chairman of the board of scientific directors New York Botanical Garden 1901-1907. (*Underw.*).
+Underwood, Lucien Marcus (1853-1907), American botanist; Dr. phil. Syracuse Univ. 1879 (LL.D. 1906), instructor in biology and geology, Syracuse University 1883-1886; professor id. 1886-1891; professor of botany De Pauw Univ. 1891-1895; professor of biology Alabama Polytechnic Institute 1895-1896; professor of botany at Columbia College 1896-1907; chairman of the board of scientific directors New York Botanical Garden 1901-1907. 
+**Abbreviated name**: *Underw.*
 
 #### Herbarium and types
 

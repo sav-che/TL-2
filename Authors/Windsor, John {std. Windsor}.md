@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103250#page/424/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33066704) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Windsor, John (1787-1868), British surgeon and botanist; born at Settle, York; surgeon, Manchester from 1815. (*Windsor*).
+Windsor, John (1787-1868), British surgeon and botanist; born at Settle, York; surgeon, Manchester from 1815. 
+**Abbreviated name**: *Windsor*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103861#page/69/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33266366) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brenner, Mårten \[Magnus Wilhelm\] (1843-1930), Finnish botanist, Fil. kand 1869, Mag. phil. Univ. Helsinki 1869, teacher at the Swedish secondary school in Helsinki 1873-1896, id. at the "Reallyceum" Helsinki 1896-1897. (*Brenner*).
+Brenner, Mårten \[Magnus Wilhelm\] (1843-1930), Finnish botanist, Fil. kand 1869, Mag. phil. Univ. Helsinki 1869, teacher at the Swedish secondary school in Helsinki 1873-1896, id. at the "Reallyceum" Helsinki 1896-1897. 
+**Abbreviated name**: *Brenner*
 
 #### Herbarium and types
 

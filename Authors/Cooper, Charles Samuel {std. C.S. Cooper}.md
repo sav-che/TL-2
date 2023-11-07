@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103860#page/346/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266013) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooper, Charles Samuel (fl. 1909), British author who published on trees and shrubs of the British Isles. (*C.S. Cooper*).
+Cooper, Charles Samuel (fl. 1909), British author who published on trees and shrubs of the British Isles. 
+**Abbreviated name**: *C.S. Cooper*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103250#page/183/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33066463) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weber, Carl Albert (1856-1931), German (Prussian) botanist; student of Alexander Braun, Berlin and, from 1876, of Julius Sachs, Würzburg; assistant to Sachs 1877; Dr. phil. Würzburg 1879; with de Bary in Strassburg 1879-1881; teacher's examination Berlin 1881; teacher at the Agricultural Institute, Hohenwestedt, Holstein 1884-1894; botanist at the Preussische Moorversuchs-Station Bremen 1894-1924; professor's title 1909; in retirement still active in peat-bog investigations. (*C.A. Weber*).
+Weber, Carl Albert (1856-1931), German (Prussian) botanist; student of Alexander Braun, Berlin and, from 1876, of Julius Sachs, Würzburg; assistant to Sachs 1877; Dr. phil. Würzburg 1879; with de Bary in Strassburg 1879-1881; teacher's examination Berlin 1881; teacher at the Agricultural Institute, Hohenwestedt, Holstein 1884-1894; botanist at the Preussische Moorversuchs-Station Bremen 1894-1924; professor's title 1909; in retirement still active in peat-bog investigations. 
+**Abbreviated name**: *C.A. Weber*
 
 #### Herbarium and types
 

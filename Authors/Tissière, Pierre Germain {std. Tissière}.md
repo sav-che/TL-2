@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103683#page/379/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tissière, Pierre Germain (1828-1868), Swiss roman-catholic priest and amateur botanist; at the Grand St. Bernard monastery 1843-1856 (ordained 1852); vicar of Vouvry 1857, at Sembrancher 1857-1868; driving force in the Société Murithienne. (*Tissière*).
+Tissière, Pierre Germain (1828-1868), Swiss roman-catholic priest and amateur botanist; at the Grand St. Bernard monastery 1843-1856 (ordained 1852); vicar of Vouvry 1857, at Sembrancher 1857-1868; driving force in the Société Murithienne. 
+**Abbreviated name**: *Tissière*
 
 #### Herbarium and types
 

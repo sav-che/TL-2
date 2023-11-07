@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103861#page/318/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33266615) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cajander (Kalela), Olawi (Eino Antero Olawi) (fl. 1934), Finnish botanist. (*O. Cajander*).
+Cajander (Kalela), Olawi (Eino Antero Olawi) (fl. 1934), Finnish botanist. 
+**Abbreviated name**: *O. Cajander*
 
 #### Bibliography and biography
 

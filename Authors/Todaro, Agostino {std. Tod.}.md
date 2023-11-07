@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/103683#page/388/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33212420) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Todaro, Agostino (1818-1892), Italian (Sicilian) botanist; studied law and natural sciences at the University of Palermo; assistant at the Palermo botanical garden 1848-1856; director id. 1856 (officially 1860)-1892. (*Tod.*).
+Todaro, Agostino (1818-1892), Italian (Sicilian) botanist; studied law and natural sciences at the University of Palermo; assistant at the Palermo botanical garden 1848-1856; director id. 1856 (officially 1860)-1892. 
+**Abbreviated name**: *Tod.*
 
 #### Herbarium and types
 

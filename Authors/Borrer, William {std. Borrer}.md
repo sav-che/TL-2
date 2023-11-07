@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103859#page/370/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33265557) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borrer, William (1781-1862), British botanist and horticulturist, born at Henfield in Sussex, educated by private tutors, self-made botanist, "with ample leisure and an adequate income", associated with W.J. Hooker and D. Turner, travelled extensively throughout Britain, later closely associated with C.C. Babington. (*Borrer*).
+Borrer, William (1781-1862), British botanist and horticulturist, born at Henfield in Sussex, educated by private tutors, self-made botanist, "with ample leisure and an adequate income", associated with W.J. Hooker and D. Turner, travelled extensively throughout Britain, later closely associated with C.C. Babington. 
+**Abbreviated name**: *Borrer*
 
 #### Herbarium and types
 

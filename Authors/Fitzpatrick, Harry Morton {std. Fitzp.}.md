@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/item/103414#page/890/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33120973) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fitzpatrick, Harry Morton {std. Fitzp.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fitzpatrick, Harry Morton (1886-1949), American mycologist and plant pathologist. (*Fitzp.*).
+Fitzpatrick, Harry Morton (1886-1949), American mycologist and plant pathologist. 
+**Abbreviated name**: *Fitzp.*
 
 #### Herbarium and types
 

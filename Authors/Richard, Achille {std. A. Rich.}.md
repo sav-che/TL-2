@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/item/103624#page/772/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33190229) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richard, Achille (1794-1852), French botanist at Paris; Dr. med. Paris 1820; son of L.C.M. Richard; aide-démonstrateur (1817-1821) and aide-naturaliste (1821-1831) at the Muséum d'Histoire naturelle; professor of botany at the Paris Faculté de médecine in 1831; member Acad. Sci. from 1834. (*A. Rich.*).
+Richard, Achille (1794-1852), French botanist at Paris; Dr. med. Paris 1820; son of L.C.M. Richard; aide-démonstrateur (1817-1821) and aide-naturaliste (1821-1831) at the Muséum d'Histoire naturelle; professor of botany at the Paris Faculté de médecine in 1831; member Acad. Sci. from 1834. 
+**Abbreviated name**: *A. Rich.*
 
 #### Herbarium and types
 

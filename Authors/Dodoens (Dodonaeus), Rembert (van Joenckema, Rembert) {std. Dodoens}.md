@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/103414#page/709/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33120792) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dodoens \[Dodonaeus\], Rembert \[van Joenckema, Rembert\] (1518-1585), Netherlands physician and botanist. (*Dodoens*).
+Dodoens \[Dodonaeus\], Rembert \[van Joenckema, Rembert\] (1518-1585), Netherlands physician and botanist. 
+**Abbreviated name**: *Dodoens*
 
 #### Herbarium and types
 

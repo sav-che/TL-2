@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/item/103414#page/915/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33120998) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fraas, Carl (Karl) Nikolaus (Nicol) {std. Fraas} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fraas, Carl Nicolaus (1810-1875), German historian of botany, in Greece from 1835-1842, later director of a veterinary school at München. (*Fraas*).
+Fraas, Carl Nicolaus (1810-1875), German historian of botany, in Greece from 1835-1842, later director of a veterinary school at München. 
+**Abbreviated name**: *Fraas*
 
 #### Herbarium and types
 

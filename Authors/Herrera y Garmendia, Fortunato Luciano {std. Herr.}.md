@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103253#page/201/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33068417) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herrera y Garmendia, Fortunato Luciano (1875-1945), Peruvian botanist, professor at the University of Cuzco from 1910. (*Herr.*).
+Herrera y Garmendia, Fortunato Luciano (1875-1945), Peruvian botanist, professor at the University of Cuzco from 1910. 
+**Abbreviated name**: *Herr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103859#page/46/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265233) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beckmann, Johann (1739-1811), German (Hoya, Hannover) agricultural scientist and technologist; educated at the Gymnasium of Stade 1754-1759; studied theology, natural sciences and administration at the University of Göttingen 1759-1762; travelled in Brunswick and Holland 1762-1763; teacher at the German Gymnasium in St. Petersburg 1763-1765, travelled in Sweden and Denmark 1765-1766; extraordinary professor at Göttingen 1766-1770, id. ordinary professor 1770-1811. (*Beckm.*).
+Beckmann, Johann (1739-1811), German (Hoya, Hannover) agricultural scientist and technologist; educated at the Gymnasium of Stade 1754-1759; studied theology, natural sciences and administration at the University of Göttingen 1759-1762; travelled in Brunswick and Holland 1762-1763; teacher at the German Gymnasium in St. Petersburg 1763-1765, travelled in Sweden and Denmark 1765-1766; extraordinary professor at Göttingen 1766-1770, id. ordinary professor 1770-1811. 
+**Abbreviated name**: *Beckm.*
 
 #### Herbarium and types
 

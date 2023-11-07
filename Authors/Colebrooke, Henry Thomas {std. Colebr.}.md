@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/item/103414#page/570/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33120653) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Colebrook (Colebrooke), Henry Thomas {std. Colebr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Colebrooke, Henry Thomas (1765-1837), British colonial magistrate, Sanskrit scholar and amateur botanist. (*Colebr.*).
+Colebrooke, Henry Thomas (1765-1837), British colonial magistrate, Sanskrit scholar and amateur botanist. 
+**Abbreviated name**: *Colebr.*
 
 #### Herbarium and types
 

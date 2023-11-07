@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/103253#page/764/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lambert, Wilhelm (1827-1860), German physician and botanist at Iserlohn; Dr. med. Berlin 1849. (*W. Lamb.*).
+Lambert, Wilhelm (1827-1860), German physician and botanist at Iserlohn; Dr. med. Berlin 1849. 
+**Abbreviated name**: *W. Lamb.*
 
 #### Herbarium and types
 

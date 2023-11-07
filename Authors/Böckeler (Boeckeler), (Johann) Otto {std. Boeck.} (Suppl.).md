@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103859#page/255/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33265442) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boeckeler, Johann Otto {std. Boeck.}|first entry]] for this author
 
 ### Author
 
-\* Böckeler \[Boeckeler\], \[Johann\] Otto (1803-1899), German (Hannover) botanist and pharmacist, educated at the Lyceum of Hannover, with the Löwenapotheke at Hildesheim to be trained as a pharmacist, in addition studying the flora of the Hildesheim surroundings, with a pharmacy at Altona for further training, studied pharmacy at the University of Göttingen until 1826, "provisor" at a pharmacy in Bremen 1826-1827, pharmacist at Varel (Oldenburg) 1827-1857, dedicating himself to botany (Cyperaceae) 1857-1899. (*Boeck.*).
+\* Böckeler \[Boeckeler\], \[Johann\] Otto (1803-1899), German (Hannover) botanist and pharmacist, educated at the Lyceum of Hannover, with the Löwenapotheke at Hildesheim to be trained as a pharmacist, in addition studying the flora of the Hildesheim surroundings, with a pharmacy at Altona for further training, studied pharmacy at the University of Göttingen until 1826, "provisor" at a pharmacy in Bremen 1826-1827, pharmacist at Varel (Oldenburg) 1827-1857, dedicating himself to botany (Cyperaceae) 1857-1899. 
+**Abbreviated name**: *Boeck.*
 
 #### Herbarium and types
 

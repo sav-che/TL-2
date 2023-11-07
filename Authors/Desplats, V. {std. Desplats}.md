@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103833#page/242/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33259276) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Desplats, V. (fl. 1879-1894), French professor at the faculty for medicine at Paris. (*Desplats*).
+Desplats, V. (fl. 1879-1894), French professor at the faculty for medicine at Paris. 
+**Abbreviated name**: *Desplats*
 
 #### Herbarium and types
 

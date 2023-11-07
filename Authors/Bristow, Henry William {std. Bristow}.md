@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/item/103414#page/378/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33120461) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bristow, Henry William (1817-1889), British geologist and palaeobiologist. (*Bristow*).
+Bristow, Henry William (1817-1889), British geologist and palaeobiologist. 
+**Abbreviated name**: *Bristow*
 
 #### Collections
 

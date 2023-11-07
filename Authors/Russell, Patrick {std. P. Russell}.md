@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/item/103624#page/1018/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33190475) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Russell, Patrick (1727-1805), British (Scottish) physician and naturalist; MD Edinburgh; physician at the English factory at Aleppo 1753-1772; succeeding his half-brother Alexander; botanist to the East India Company at Madras 1785-1789; in London 1772-1785, 1789-1805. (*P. Russell*).
+Russell, Patrick (1727-1805), British (Scottish) physician and naturalist; MD Edinburgh; physician at the English factory at Aleppo 1753-1772; succeeding his half-brother Alexander; botanist to the East India Company at Madras 1785-1789; in London 1772-1785, 1789-1805. 
+**Abbreviated name**: *P. Russell*
 
 #### Herbarium and types
 

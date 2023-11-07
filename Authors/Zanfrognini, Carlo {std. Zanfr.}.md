@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/item/103250#page/579/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33066859) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zanfrognini, Carlo (1866-?), Italian physician and lichenologist in Modena, sometime assistant at the botanical garden of Modena. (*Zanfr.*).
+Zanfrognini, Carlo (1866-?), Italian physician and lichenologist in Modena, sometime assistant at the botanical garden of Modena. 
+**Abbreviated name**: *Zanfr.*
 
 #### Herbarium and types
 

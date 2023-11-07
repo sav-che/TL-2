@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/item/103861#page/289/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33266586) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bush, Benjamin Franklin ("Frank") (1858-1937), American botanist, ornithologist, collector, born in Columbus, Indiana, conducted a general store, (at the same time postmaster) at Courtney near Kansas City for forty years, correspondent of Asa Gray and George Engelmann, collected with C.S. Sargent of Harvard 1898-1899, employed to assist the specimens of wood for the Columbian Exposition at Chicago, collected sets of plants for botanical institutions (HH, NY, US), ultimately at Independence, Mo. (*Bush*).
+Bush, Benjamin Franklin ("Frank") (1858-1937), American botanist, ornithologist, collector, born in Columbus, Indiana, conducted a general store, (at the same time postmaster) at Courtney near Kansas City for forty years, correspondent of Asa Gray and George Engelmann, collected with C.S. Sargent of Harvard 1898-1899, employed to assist the specimens of wood for the Columbian Exposition at Chicago, collected sets of plants for botanical institutions (HH, NY, US), ultimately at Independence, Mo. 
+**Abbreviated name**: *Bush*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103624#page/351/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pope, Willis Thomas (1873-1961), American botanist and horticulturist; M.S. Univ. Calif., D. Sci. Univ. Hawaii; horticulturist at USDA Hawaii Experiment Station. (*Pope*).
+Pope, Willis Thomas (1873-1961), American botanist and horticulturist; M.S. Univ. Calif., D. Sci. Univ. Hawaii; horticulturist at USDA Hawaii Experiment Station. 
+**Abbreviated name**: *Pope*
 
 #### Herbarium and types
 

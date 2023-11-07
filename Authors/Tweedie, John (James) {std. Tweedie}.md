@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/item/103683#page/568/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33212600) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tweedie, John \["James"\] (1775-1862), British (Scottish) gardener at Eglinton Castle, Ayrshire and Royal Botanic Garden, Edinburgh; to Buenos Aires, Argentina 1825, travelled and collected up the Uruguay river in Argentina, Uruguay, Rio Grande do Sul, Santa Catharina, Rio de Janeiro (1832), in the Tucuman region (1835) at the Serra de Tandil (1837). (*Tweedie*).
+Tweedie, John \["James"\] (1775-1862), British (Scottish) gardener at Eglinton Castle, Ayrshire and Royal Botanic Garden, Edinburgh; to Buenos Aires, Argentina 1825, travelled and collected up the Uruguay river in Argentina, Uruguay, Rio Grande do Sul, Santa Catharina, Rio de Janeiro (1832), in the Tucuman region (1835) at the Serra de Tandil (1837). 
+**Abbreviated name**: *Tweedie*
 
 #### Herbarium and types
 

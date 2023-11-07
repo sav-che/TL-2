@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103833#page/216/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33259250) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Denise, Louis (fl. 1903), French writer on historic bibiliography and iconography of the Jardin des Plantes in Paris. (*L. Denise*).
+Denise, Louis (fl. 1903), French writer on historic bibiliography and iconography of the Jardin des Plantes in Paris. 
+**Abbreviated name**: *L. Denise*
 
 #### Herbarium and types
 

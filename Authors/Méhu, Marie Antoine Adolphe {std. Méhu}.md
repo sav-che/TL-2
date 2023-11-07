@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/104137#page/416/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Méhu, Marie Antoine Adolphe (1840-1881), French botanist; Dr. pharm. Montpellier 1867, from 1867-1881 pharmacist at Villefranehe-sur-Saône, Rhône, from 1871 also professor of botany at the École normale. (*Méhu*).
+Méhu, Marie Antoine Adolphe (1840-1881), French botanist; Dr. pharm. Montpellier 1867, from 1867-1881 pharmacist at Villefranehe-sur-Saône, Rhône, from 1871 also professor of botany at the École normale. 
+**Abbreviated name**: *Méhu*
 
 #### Herbarium and types
 

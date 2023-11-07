@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103861#page/452/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266749) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carus, Carl Gustav {std. Carus}|first entry]] for this author
 
 ### Author
 
-\* Carus, Carl Gustav (1789-1869), German physician and biologist, born at Leipzig 3 Jan 1789, studied at the University of Leipzig, Dr. phil. ib. 20 Dec 1814, professor at the medical academy at Dresden 1815-1827, physician in ordinary with the King of Saxony 1827-1869, ultimately also president of the Leopoldina 1863-1869. (*Carus*).
+\* Carus, Carl Gustav (1789-1869), German physician and biologist, born at Leipzig 3 Jan 1789, studied at the University of Leipzig, Dr. phil. ib. 20 Dec 1814, professor at the medical academy at Dresden 1815-1827, physician in ordinary with the King of Saxony 1827-1869, ultimately also president of the Leopoldina 1863-1869. 
+**Abbreviated name**: *Carus*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/104137#page/39/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33355072) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindau, Gustav (1866-1923), German lichenologist; student of Schwendener; Dr. phil. Berlin 1888; 1888-1890 at Münster with Brefeld; from 1892-1923 (after 1899 "Kustos", 1902 professor) at Berlin-Dahlem. (*Lindau*).
+Lindau, Gustav (1866-1923), German lichenologist; student of Schwendener; Dr. phil. Berlin 1888; 1888-1890 at Münster with Brefeld; from 1892-1923 (after 1899 "Kustos", 1902 professor) at Berlin-Dahlem. 
+**Abbreviated name**: *Lindau*
 
 #### Herbarium and types
 

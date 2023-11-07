@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/item/104077#page/679/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33333804) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, \[Mrs\] Anna Maria (*fl*. 1878), Austrian(?) botanist, active in and around Fiume. (*A.M. Sm.*).
+Smith, \[Mrs\] Anna Maria (*fl*. 1878), Austrian(?) botanist, active in and around Fiume. 
+**Abbreviated name**: *A.M. Sm.*
 
 #### Herbarium and types
 

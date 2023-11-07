@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/item/103683#page/507/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tristan, Jules Marie Claude, Comte de (1776-1861), French landed gentleman at Orléans and Cléry St. André (Château de l'Emérillon); longtime in charge of the Orléans botanical garden; encyclopaedic erudite and naturalist. (*Tristan*).
+Tristan, Jules Marie Claude, Comte de (1776-1861), French landed gentleman at Orléans and Cléry St. André (Château de l'Emérillon); longtime in charge of the Orléans botanical garden; encyclopaedic erudite and naturalist. 
+**Abbreviated name**: *Tristan*
 
 #### Herbarium and types
 

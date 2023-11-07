@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/item/104077#page/900/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stenzel, \[Karl\] Gustav \[Wilhelm\] (1826-1905), German (Silesian) botanist; Dr. phil. Breslau 1850; habil. ib. 1854; high school teacher at Küstrin 1854-1857; idem Breslau 1857-1891; student of C.G. Nees von Esenbeck and J.H.R. Göppert. (*Stenzel*).
+Stenzel, \[Karl\] Gustav \[Wilhelm\] (1826-1905), German (Silesian) botanist; Dr. phil. Breslau 1850; habil. ib. 1854; high school teacher at Küstrin 1854-1857; idem Breslau 1857-1891; student of C.G. Nees von Esenbeck and J.H.R. Göppert. 
+**Abbreviated name**: *Stenzel*
 
 #### Herbarium and types
 

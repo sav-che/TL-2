@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103834#page/284/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33259766) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Floerke, Heinrich Gustav {std. Flörke}|first entry]] for this author
 
 ### Author
 
-\* Flörke \[Floerke\], Heinrich Gustav (1764-1835), German theologian and botanist (lichenologist), born 24 Dec 1764 in Altenkalden \[Alt-Kalen\] (Mecklenburg), studied theology at the Univ. of Bützow, teacher in Göttingen, rector in Kittendorf 1794, studied medicine from 1797 in Jena, prof. of zoology, botany and natural history, Rostock Univ. 1816, died 6 Nov 1835 in Rostock. (*Flörke*).
+\* Flörke \[Floerke\], Heinrich Gustav (1764-1835), German theologian and botanist (lichenologist), born 24 Dec 1764 in Altenkalden \[Alt-Kalen\] (Mecklenburg), studied theology at the Univ. of Bützow, teacher in Göttingen, rector in Kittendorf 1794, studied medicine from 1797 in Jena, prof. of zoology, botany and natural history, Rostock Univ. 1816, died 6 Nov 1835 in Rostock. 
+**Abbreviated name**: *Flörke*
 
 #### Herbarium and types
 

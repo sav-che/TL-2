@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103858#page/391/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33265106) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Battarra, Giovanni Antonio {std. Battarra}|first entry]] for this author
 
 ### Author
 
-\* Battarra, \[Giovanni\] Antonio (1714-1789), Italian clergyman, physician and mycologist ordained 1738, professor of philosophy at the seminary of Savignano di Romagna 1741, id. Rimini 1748-1754; botanically active 1754-1757, again professor of philosophy from 1757. (*Battarra*).
+\* Battarra, \[Giovanni\] Antonio (1714-1789), Italian clergyman, physician and mycologist ordained 1738, professor of philosophy at the seminary of Savignano di Romagna 1741, id. Rimini 1748-1754; botanically active 1754-1757, again professor of philosophy from 1757. 
+**Abbreviated name**: *Battarra*
 
 #### Herbarium and types
 

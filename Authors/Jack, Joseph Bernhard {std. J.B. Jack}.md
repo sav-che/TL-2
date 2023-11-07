@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103253#page/420/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33068636) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jack, Joseph Bernhard (1818-1901), German pharmacist at Salem in Baden (1848-1874); later retired at Konstanz; Dr. h.c. Freiburg 1898. (*J. B. Jack*).
+Jack, Joseph Bernhard (1818-1901), German pharmacist at Salem in Baden (1848-1874); later retired at Konstanz; Dr. h.c. Freiburg 1898. 
+**Abbreviated name**: *J. B. Jack*
 
 #### Herbarium and types
 

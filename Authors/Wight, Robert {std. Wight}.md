@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103250#page/337/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33066617) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wight, Robert (1796-1872), British surgeon and botanist; MD Edinburgh 1818; assistant-surgeon East India Company in Madras 1819; superintendent Botanic Garden Madras 1826-1828; garrison surgeon Negapatam 1828-1831; in Scotland 1831-1834; military surgeon in India 1834-1836; with the Revenue Dept. 1836-1842; director of the Coimbatore Cotton Expt. Station 1842-1850; from 1853 in England (Grazeley Lodge near Reading). (*Wight*).
+Wight, Robert (1796-1872), British surgeon and botanist; MD Edinburgh 1818; assistant-surgeon East India Company in Madras 1819; superintendent Botanic Garden Madras 1826-1828; garrison surgeon Negapatam 1828-1831; in Scotland 1831-1834; military surgeon in India 1834-1836; with the Revenue Dept. 1836-1842; director of the Coimbatore Cotton Expt. Station 1842-1850; from 1853 in England (Grazeley Lodge near Reading). 
+**Abbreviated name**: *Wight*
 
 #### Herbarium and types
 

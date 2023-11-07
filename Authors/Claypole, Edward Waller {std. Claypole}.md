@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/103414#page/557/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Claypole, Edward Waller (1835-1901), American geologist and palaeobotanist in Ohio (1883-1898) and in California (Pasadena) (1898-1901). (*Claypole*).
+Claypole, Edward Waller (1835-1901), American geologist and palaeobotanist in Ohio (1883-1898) and in California (Pasadena) (1898-1901). 
+**Abbreviated name**: *Claypole*
 
 #### Collections
 

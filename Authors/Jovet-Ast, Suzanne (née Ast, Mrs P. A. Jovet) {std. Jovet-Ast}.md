@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/103253#page/490/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jovet-Ast, Suzanne (née Ast, Mrs P. A. Jovet) (1914-x), French bryologist at the Muséum d'histoire naturelle. (*Jovet-Ast*).
+Jovet-Ast, Suzanne (née Ast, Mrs P. A. Jovet) (1914-x), French bryologist at the Muséum d'histoire naturelle. 
+**Abbreviated name**: *Jovet-Ast*
 
 #### Herbarium and types
 

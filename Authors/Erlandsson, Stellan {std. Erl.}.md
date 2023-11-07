@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103835#page/407/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33260385) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Erlandsson, Stellan (1902-x), Swedish botanist, cytologist and diatomist, born 1902, Ph.D. at Uppsala in 1936. (*Erl.*).
+Erlandsson, Stellan (1902-x), Swedish botanist, cytologist and diatomist, born 1902, Ph.D. at Uppsala in 1936. 
+**Abbreviated name**: *Erl.*
 
 #### Herbarium and types
 

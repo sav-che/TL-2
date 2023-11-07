@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103833#page/231/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33259265) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Des Étangs, \[Nicolas\] Stanislas \[Chaãles\] (1801-1876), French botanist and justice of the peace at Bar-sur-Aube, born 23 trim. an x (14 Dec 1801) at Andelot, died 10 Dec 1876, Paris. (*Des Étangs*).
+Des Étangs, \[Nicolas\] Stanislas \[Chaãles\] (1801-1876), French botanist and justice of the peace at Bar-sur-Aube, born 23 trim. an x (14 Dec 1801) at Andelot, died 10 Dec 1876, Paris. 
+**Abbreviated name**: *Des Étangs*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/104137#page/222/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33355293) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maatsch, Richard Franz Theodor (1904-x), German horticulturist; studied at the Berlin-Dahlem Horticultural College 1928-1931; manager of the floricultural experiment station of this college 1931-1946; at the Humboldt University 1946-1949; from 1949-1973 professor of floriculture and director of the Floricultural Institute of the Technical University at Hannover (*Maatsch*).
+Maatsch, Richard Franz Theodor (1904-x), German horticulturist; studied at the Berlin-Dahlem Horticultural College 1928-1931; manager of the floricultural experiment station of this college 1931-1946; at the Humboldt University 1946-1949; from 1949-1973 professor of floriculture and director of the Floricultural Institute of the Technical University at Hannover 
+**Abbreviated name**: *Maatsch*
 
 #### Herbarium and types
 

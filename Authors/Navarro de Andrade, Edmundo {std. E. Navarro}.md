@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/item/104137#page/714/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Navarro de Andrade, Edmundo (1881-1941), Brazilian entomologist, botanist and forester at São Paulo. (*E. Navarro*).
+Navarro de Andrade, Edmundo (1881-1941), Brazilian entomologist, botanist and forester at São Paulo. 
+**Abbreviated name**: *E. Navarro*
 
 #### Herbarium and types
 

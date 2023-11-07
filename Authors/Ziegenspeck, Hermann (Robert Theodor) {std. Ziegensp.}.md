@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/item/103250#page/596/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33066876) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ziegenspeck, Hermann \[Robert Theodor\] (1891-1959), German (Bavarian) botanist and pharmacist; studied at Jena; Dr. phil. 1916; Pharmac. State Exam. 1919; Habil. Königsberg 1925; lecturer and assistant with C. Mez at the Botanical Institute of the University of Königsberg i. Pr. 1924-1932; pharmacist at Augsburg 1932-1944, in Kötzting 1944-1949; from 1949 again at Augsburg. (*Ziegensp.*).
+Ziegenspeck, Hermann \[Robert Theodor\] (1891-1959), German (Bavarian) botanist and pharmacist; studied at Jena; Dr. phil. 1916; Pharmac. State Exam. 1919; Habil. Königsberg 1925; lecturer and assistant with C. Mez at the Botanical Institute of the University of Königsberg i. Pr. 1924-1932; pharmacist at Augsburg 1932-1944, in Kötzting 1944-1949; from 1949 again at Augsburg. 
+**Abbreviated name**: *Ziegensp.*
 
 #### Herbarium and types
 

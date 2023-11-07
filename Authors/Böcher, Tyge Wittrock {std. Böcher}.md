@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103859#page/253/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Böcher, Tyge Wittrock (1909-1983), Danish botanist, studied botany at the University of Copenhagen 1928-1934, Mag. sci., Bot. 1934, Dr. phil. ib. 1938, assistant at the genetics laboratory of the Agricultural University 1934-1936, id. at the Institute of Plant Anatomy of the University 1936, lector in plant anatomy and cytology 1946, professor 1954, travelled in Greenland 1946 and 1958, Argentina 1955, specialized on arctic botany and on cytology. (*Böcher*).
+Böcher, Tyge Wittrock (1909-1983), Danish botanist, studied botany at the University of Copenhagen 1928-1934, Mag. sci., Bot. 1934, Dr. phil. ib. 1938, assistant at the genetics laboratory of the Agricultural University 1934-1936, id. at the Institute of Plant Anatomy of the University 1936, lector in plant anatomy and cytology 1946, professor 1954, travelled in Greenland 1946 and 1958, Argentina 1955, specialized on arctic botany and on cytology. 
+**Abbreviated name**: *Böcher*
 
 #### Herbarium and types
 

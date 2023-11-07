@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/104077#page/57/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33333144) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sapetza, Josef (1829-1868), Moravian botanist; ultimately high school teacher at Rakovac nr. Karlstadt (Karlovac, Károlyváros) in Croatia (then a free royal city of Hungary). (*Sapetza*).
+Sapetza, Josef (1829-1868), Moravian botanist; ultimately high school teacher at Rakovac nr. Karlstadt (Karlovac, Károlyváros) in Croatia (then a free royal city of Hungary). 
+**Abbreviated name**: *Sapetza*
 
 #### Herbarium and types
 

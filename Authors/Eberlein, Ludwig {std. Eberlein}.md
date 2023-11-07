@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103835#page/258/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33260236) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eberlein, Ludwig (1878-?), German pharmacist and botanist, born 24 Jan 1878 at Markt Oberdorf (Bavaria), visited the Ludwigsgymnasium at Munich, studied pharmacy at Munich and Erlangen, later natural history at the Alexanders-Universität at Erlangen, Dr. sci. 1904. (*Eberlein*).
+Eberlein, Ludwig (1878-?), German pharmacist and botanist, born 24 Jan 1878 at Markt Oberdorf (Bavaria), visited the Ludwigsgymnasium at Munich, studied pharmacy at Munich and Erlangen, later natural history at the Alexanders-Universität at Erlangen, Dr. sci. 1904. 
+**Abbreviated name**: *Eberlein*
 
 #### Herbarium and types
 

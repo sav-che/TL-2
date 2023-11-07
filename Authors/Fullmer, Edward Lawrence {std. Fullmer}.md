@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/item/103832#page/90/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33258556) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fullmer, Edward Lawrence (1870-x), American mycologist, born 30 Jul 1870 in Defiance (Defiance Co.), Ohio, B.S. 1897 and M.S. 1898 Ohio State Univ., Columbus, Prof. of Biology 1903-1940, Baldwin-Wallace College, Berea (Cuyahoga Co.), Ohio, member, Ohio Academy of Science. (*Fullmer*).
+Fullmer, Edward Lawrence (1870-x), American mycologist, born 30 Jul 1870 in Defiance (Defiance Co.), Ohio, B.S. 1897 and M.S. 1898 Ohio State Univ., Columbus, Prof. of Biology 1903-1940, Baldwin-Wallace College, Berea (Cuyahoga Co.), Ohio, member, Ohio Academy of Science. 
+**Abbreviated name**: *Fullmer*
 
 #### Herbarium and types
 

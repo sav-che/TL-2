@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103858#page/230/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33264945) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Axelson \[later Linnaniemi\], Walter Mikael (1876-1953), Finnish botanist. (*Axelson*).
+Axelson \[later Linnaniemi\], Walter Mikael (1876-1953), Finnish botanist. 
+**Abbreviated name**: *Axelson*
 
 #### Herbarium and types
 

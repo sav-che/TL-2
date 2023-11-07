@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103414#page/501/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Capellini, Giovanni {std. Capellini} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Capellini, Giovanni (1833-1922), Italian geologist and palaeobiologist at Bologna. (*Capellini*).
+Capellini, Giovanni (1833-1922), Italian geologist and palaeobiologist at Bologna. 
+**Abbreviated name**: *Capellini*
 
 #### Collections
 

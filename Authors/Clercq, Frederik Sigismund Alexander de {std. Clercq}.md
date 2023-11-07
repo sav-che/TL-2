@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103860#page/221/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265888) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clercq, Frederik Sigismund Alexander de (1842-1906), Dutch resident and botanist, born in Zutphen, Netherlands, resident in the Dutch East Indies at Ternate and Riau Archipelago (*Clercq*).
+Clercq, Frederik Sigismund Alexander de (1842-1906), Dutch resident and botanist, born in Zutphen, Netherlands, resident in the Dutch East Indies at Ternate and Riau Archipelago 
+**Abbreviated name**: *Clercq*
 
 #### Herbarium and types
 

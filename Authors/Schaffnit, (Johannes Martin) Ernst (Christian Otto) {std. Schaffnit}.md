@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/104077#page/127/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33333252) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaffnit, \[Johannes Martin\] Ernst \[Christian Otto\] (1878-?), German (Hessen) botanist; head of the Phytopathological Institute of the Agricultural College Poppelsdorf-Bonn from 1914-1937. (*Schaffnit*).
+Schaffnit, \[Johannes Martin\] Ernst \[Christian Otto\] (1878-?), German (Hessen) botanist; head of the Phytopathological Institute of the Agricultural College Poppelsdorf-Bonn from 1914-1937. 
+**Abbreviated name**: *Schaffnit*
 
 #### Herbarium and types
 

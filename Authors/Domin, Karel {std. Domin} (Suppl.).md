@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103835#page/43/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33260021) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Domin, Karel {std. Domin}|first entry]] for this author
 
 ### Author
 
-\* Domin, Karel (1882-1953), Czech botanist, born 4 Mai 1882, Kuttenberg (Kutná Hora), Bohemia, died in Prague (Praha) 10 Jun 1953, career mainly as professor of botany at Prague University, visited Australia 1909-1910 collecting in Queensland and New South Wales. (*Domin*).
+\* Domin, Karel (1882-1953), Czech botanist, born 4 Mai 1882, Kuttenberg (Kutná Hora), Bohemia, died in Prague (Praha) 10 Jun 1953, career mainly as professor of botany at Prague University, visited Australia 1909-1910 collecting in Queensland and New South Wales. 
+**Abbreviated name**: *Domin*
 
 #### Herbarium and types
 

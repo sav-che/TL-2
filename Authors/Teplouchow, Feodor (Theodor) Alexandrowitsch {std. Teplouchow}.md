@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/103683#page/231/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33212263) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teplouchow, Feodor \[Theodor\] Alexandrowitsch (1845-1905), Russian botanist; studied forestry at Tharandt 1863-1866, and Petrowskoje-Rasumovskoje 1866-1872; administrator of the Stroganoff forests at Illünskoyé (Iljinskoje), Perm ca. 1884. (*Teplouchow*).
+Teplouchow, Feodor \[Theodor\] Alexandrowitsch (1845-1905), Russian botanist; studied forestry at Tharandt 1863-1866, and Petrowskoje-Rasumovskoje 1866-1872; administrator of the Stroganoff forests at Illünskoyé (Iljinskoje), Perm ca. 1884. 
+**Abbreviated name**: *Teplouchow*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/item/103414#page/565/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33120648) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coemans, Eugène-Henri-Lucien Gaëtan {std. Coem.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Coemans, Abbé Henri Eugène Lucien Gaëtan (1825-1871), Belgian clergyman and botanist. (*Coem.*).
+Coemans, Abbé Henri Eugène Lucien Gaëtan (1825-1871), Belgian clergyman and botanist. 
+**Abbreviated name**: *Coem.*
 
 #### Herbarium and types
 

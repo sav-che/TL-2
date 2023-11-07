@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103860#page/411/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266078) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coster, David Jacob (1828-1892), Dutch physician, pharmacist and botanist, born 12 Dec 1828 Amsterdam, died 21 Feb 1892 ib., studied in Amsterdam, doctorate 28 Mai 1851 at Utrecht as physician, active as physician in Amsterdam until 1890 and working on botany and pharmacy. (*D.J. Coster*).
+Coster, David Jacob (1828-1892), Dutch physician, pharmacist and botanist, born 12 Dec 1828 Amsterdam, died 21 Feb 1892 ib., studied in Amsterdam, doctorate 28 Mai 1851 at Utrecht as physician, active as physician in Amsterdam until 1890 and working on botany and pharmacy. 
+**Abbreviated name**: *D.J. Coster*
 
 #### Herbarium and types
 

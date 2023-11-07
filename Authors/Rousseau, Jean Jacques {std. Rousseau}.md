@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/item/103624#page/952/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rousseau, Jean Jacques (1712-1778); French writer and philosopher. (*Rousseau*).
+Rousseau, Jean Jacques (1712-1778); French writer and philosopher. 
+**Abbreviated name**: *Rousseau*
 
 #### Herbarium and types
 

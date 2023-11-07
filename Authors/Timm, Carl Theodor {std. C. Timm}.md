@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/103683#page/371/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Timm, Carl Theodor (1824-1907), German (Hamburg) teacher and botanist; head teacher of the Hessische Privatschule, Hamburg 1857-1872, with the Volksschuldienst Hamburg 1872-1887; active amateur floristic botanist, with special interest in bryophytes and lichens. (*C. Timm*).
+Timm, Carl Theodor (1824-1907), German (Hamburg) teacher and botanist; head teacher of the Hessische Privatschule, Hamburg 1857-1872, with the Volksschuldienst Hamburg 1872-1887; active amateur floristic botanist, with special interest in bryophytes and lichens. 
+**Abbreviated name**: *C. Timm*
 
 #### Herbarium and types
 
@@ -22,7 +23,7 @@ Biol.-Dokum. 18: 9290; BM 5: 2116; Christiansen p. 320 \[index\]; CSP 11: 609, 1
 
 #### Eponymy
 
-*Timmia* J.F. Gmelin (1791, *nom. rej.*); *Timmia* J. Hedwig (1801, *nom. cons.*); *Timmiella* (De Notaris) Limpricht (1888).
+*Timmia* J.F. Gmelin (1791, *nom. rej.*); *Timmia* J. Hedwig (1801, *nom. cons.*) [^1]; *Timmiella* (De Notaris) Limpricht (1888).
 
 ### Publications
 
@@ -35,4 +36,9 @@ Biol.-Dokum. 18: 9290; BM 5: 2116; Christiansen p. 320 \[index\]; CSP 11: 609, 1
 **Notes**
 *Co-author*: Theodor Wahnschaff.
 *Publ*.: 1891 (Bot. Zeit. 29 Jan 1892; Rev. bryol. Jan 1892; Nat. Nov. Oct(2) 1891), p. \[1\]-50. *Copies*: B(2), BR, NY, USDA. – Issued as Abh. Geb. Naturw. Hamburg 11(3), no. 2. 1891.
+
+[^1]: "*Timmia* Hedw. 1801 (Timmiaceae) \[is dedicated to\] Joachim Christian Timm (1734–1805) German botanist, bryologist, pharmacist (“Ratsapotheker”), mayor in Malchin/Mecklenburg-Vorpommern, wrote 1788 a Flora of Mecklenburg. He was also in contact with J. Hedwig. In his *Species muscorum* Hedwig (1801: 176) gives no dedication, but the discovery site of Timmia megapolitana is given: “... prope Malchin ducatus Megapolitani ...” (near Malchin/Mecklenburg). 
+*Note*. – *Timmia* J.F.Gmel. 1791 (Amaryllidaceae) No derivation found, but Carl Theodor Timm (1824–1907) was not born, when the genus was named in 1791; and: 
+*Timmiella* (De Not.) Limpr. 1888 (Pottiaceae) \[is dedicated to\] Joachim Christian Timm (1734–1805), German botanist, bryologist, pharmacist (“Ratsapotheker”), mayor in Malchin/ Mecklenburg-Vorpommern, wrote 1788 a Flora of Mecklenburg. He was also in contact with J. Hedwig (Limpricht, 1888: 590)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

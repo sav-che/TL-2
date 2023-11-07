@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103859#page/137/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33265324) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bertoni, Moisés Santiago (1857-1929), Swiss botanist and publisher, studied at the University of Genève 1875-1876, id. at the University of Zürich 1876-1877, in the Swiss army 1877-1878, continued his studies at Genève 1878-1881, publisher of the Rivista Scientifica Svizzera 1882-1884, emigrated to Argentina 1884, had a "colonia" at Santa Ana 1884-1887, moved to Paraguay 1887, Yaguarazapá on the Rio Paraná as colonizer 1887-1894, idem at the "Colonia Guillermo Tell" (Puerto Bertoni) 1894-1896, founder and director of the Escuela nacional de Agricultura at Ascunción 1896-1906, retired to Puerto Bertoni 1907. (*Bertoni*).
+Bertoni, Moisés Santiago (1857-1929), Swiss botanist and publisher, studied at the University of Genève 1875-1876, id. at the University of Zürich 1876-1877, in the Swiss army 1877-1878, continued his studies at Genève 1878-1881, publisher of the Rivista Scientifica Svizzera 1882-1884, emigrated to Argentina 1884, had a "colonia" at Santa Ana 1884-1887, moved to Paraguay 1887, Yaguarazapá on the Rio Paraná as colonizer 1887-1894, idem at the "Colonia Guillermo Tell" (Puerto Bertoni) 1894-1896, founder and director of the Escuela nacional de Agricultura at Ascunción 1896-1906, retired to Puerto Bertoni 1907. 
+**Abbreviated name**: *Bertoni*
 
 #### Herbarium and types
 

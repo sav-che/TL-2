@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/item/104077#page/841/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33333966) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stahel, Gerold (1887-1955), Swiss botanist; Dr. phil. Basel 1911, student of Alfr. Fischer; assistant at the botanical institute Basel 1910-1914; botanist at the Agricultural Experiment Station at Paramaribo 1914-1948, ultimately as director. (*Stahel*).
+Stahel, Gerold (1887-1955), Swiss botanist; Dr. phil. Basel 1911, student of Alfr. Fischer; assistant at the botanical institute Basel 1910-1914; botanist at the Agricultural Experiment Station at Paramaribo 1914-1948, ultimately as director. 
+**Abbreviated name**: *Stahel*
 
 #### Herbarium and types
 

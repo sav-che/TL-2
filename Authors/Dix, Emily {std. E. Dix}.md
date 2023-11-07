@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103833#page/372/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33259406) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dix, Emily (fl. 1934), Britsh botanist who worked on the flora of the Upper Carboniferous. (*E. Dix*).
+Dix, Emily (fl. 1934), Britsh botanist who worked on the flora of the Upper Carboniferous. 
+**Abbreviated name**: *E. Dix*
 
 #### Herbarium and types
 

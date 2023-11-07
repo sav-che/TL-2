@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103834#page/130/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259612) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Feistmantel, Carl \[Karl, Karel\] (1819-1885), Czech geologist and plant paleontologist, born 14 Feb 1819 in Prague, attended the gymnasium and technical inst. there, from 1838 employed by several forges in Bohemia, studied coal layers in central Bohemia, lived in Prague after being pensioned in 1878, died 29 Sep 1885 in Smichow nr. Prague. (*C. Feistm.*).
+Feistmantel, Carl \[Karl, Karel\] (1819-1885), Czech geologist and plant paleontologist, born 14 Feb 1819 in Prague, attended the gymnasium and technical inst. there, from 1838 employed by several forges in Bohemia, studied coal layers in central Bohemia, lived in Prague after being pensioned in 1878, died 29 Sep 1885 in Smichow nr. Prague. 
+**Abbreviated name**: *C. Feistm.*
 
 #### Note
 

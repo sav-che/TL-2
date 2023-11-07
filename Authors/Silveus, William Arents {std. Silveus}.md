@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/item/104077#page/616/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Silveus, William Arents (1875-1953), Texas botanist and attorney; BA Waynesburg Coll. 1901; LLB Univ. Texas 1906; attorney in San Antonio, Texas 1906-1927; from then on in retirement dedicating himself e.g. to agrostological research. (*Silveus*).
+Silveus, William Arents (1875-1953), Texas botanist and attorney; BA Waynesburg Coll. 1901; LLB Univ. Texas 1906; attorney in San Antonio, Texas 1906-1927; from then on in retirement dedicating himself e.g. to agrostological research. 
+**Abbreviated name**: *Silveus*
 
 #### Herbarium and types
 

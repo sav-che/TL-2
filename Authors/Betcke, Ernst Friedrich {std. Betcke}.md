@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103414#page/257/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33120340) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Betcke, Ernst Friedrich {std. Betcke} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Betcke, Ernst Friedrich (x-1865), German physician and botanist in Pentzlin, Mecklenburg. (*Betcke*).
+Betcke, Ernst Friedrich (x-1865), German physician and botanist in Pentzlin, Mecklenburg. 
+**Abbreviated name**: *Betcke*
 
 #### Herbarium and types
 

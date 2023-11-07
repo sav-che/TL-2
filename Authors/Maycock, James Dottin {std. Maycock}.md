@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/104137#page/402/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33355473) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maycock, James Dottin (x-1837), West Indian physician and naturalist. (*Maycock*).
+Maycock, James Dottin (x-1837), West Indian physician and naturalist. 
+**Abbreviated name**: *Maycock*
 
 #### Herbarium and types
 

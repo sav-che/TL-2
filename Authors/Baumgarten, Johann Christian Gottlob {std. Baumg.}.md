@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103414#page/198/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33120281) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baumgarten, Johann Christian Gottlob {std. Baumg.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baumgarten, Johann Christian Gottlob (1765-1843), German botanist later active in Transsylvania. (*Baumg.*).
+Baumgarten, Johann Christian Gottlob (1765-1843), German botanist later active in Transsylvania. 
+**Abbreviated name**: *Baumg.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103683#page/238/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teschner, Hans (1894-x), German (Schleswig-Holstein) botanist; educated in Breslau and Berlin; on active service 1915-1916; studied natural sciences at the Friedrich-Wilhelms-Universität, Berlin; Dr. phil. ib. 1931. (*Teschner*).
+Teschner, Hans (1894-x), German (Schleswig-Holstein) botanist; educated in Breslau and Berlin; on active service 1915-1916; studied natural sciences at the Friedrich-Wilhelms-Universität, Berlin; Dr. phil. ib. 1931. 
+**Abbreviated name**: *Teschner*
 
 #### Herbarium and types
 

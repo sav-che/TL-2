@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103859#page/151/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33265338) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bessey, Charles Edwin (1845-1915), American botanist and educator, entered Michigan Agricultural College 1866 (studied with e.g. A.N. Prentiss and W.J. Beal), graduated B. Sc. 1869, M. Sc. 1872, professor of botany at Iowa Agricultural College at Ames 1870-1884, in between engaged in graduate work at Harvard 1872-1873 and 1875-1876, Ph.D. Univ. Iowa 1879, L.L.D. Iowa College 1898; professor of botany at the University of Nebraska 1884-1915, pioneer in botanical laboratory instruction. (*Bessey*).
+Bessey, Charles Edwin (1845-1915), American botanist and educator, entered Michigan Agricultural College 1866 (studied with e.g. A.N. Prentiss and W.J. Beal), graduated B. Sc. 1869, M. Sc. 1872, professor of botany at Iowa Agricultural College at Ames 1870-1884, in between engaged in graduate work at Harvard 1872-1873 and 1875-1876, Ph.D. Univ. Iowa 1879, L.L.D. Iowa College 1898; professor of botany at the University of Nebraska 1884-1915, pioneer in botanical laboratory instruction. 
+**Abbreviated name**: *Bessey*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103250#page/296/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33066576) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weyland, Hermann \[Gerhard\] (1888-1974), German (Rheinland) paleobotanist; studied pharmacy 1906-1909; at the University of Jena 1909-1912; Dr. phil. ib. (with E. Stahl) 1912; assistant at Leipzig University with W. Pfeffer 1912-1913; id. Jena with L. Knorr 1913-1914; chemist with Farbenfabr. Bayer, Wuppertal-Elberfeld 1915-1952, from 1924 as head of the physiological laboratory; interim director Bot. Inst. Köln Univ. 1945-1948. (*Weyl.*).
+Weyland, Hermann \[Gerhard\] (1888-1974), German (Rheinland) paleobotanist; studied pharmacy 1906-1909; at the University of Jena 1909-1912; Dr. phil. ib. (with E. Stahl) 1912; assistant at Leipzig University with W. Pfeffer 1912-1913; id. Jena with L. Knorr 1913-1914; chemist with Farbenfabr. Bayer, Wuppertal-Elberfeld 1915-1952, from 1924 as head of the physiological laboratory; interim director Bot. Inst. Köln Univ. 1945-1948. 
+**Abbreviated name**: *Weyl.*
 
 #### Herbarium and types
 

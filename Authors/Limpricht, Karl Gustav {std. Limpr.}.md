@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/104137#page/36/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33355107) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Limpricht, Karl Gustav (1834-1902), German (Silesian) bryologist; high school teacher at a girl's College at Bunzlau (1858-1869); idem at the evangelical high school Breslau (1869-1902), from 1895 as principal ("Oberlehrer"). (*Limpr.*).
+Limpricht, Karl Gustav (1834-1902), German (Silesian) bryologist; high school teacher at a girl's College at Bunzlau (1858-1869); idem at the evangelical high school Breslau (1869-1902), from 1895 as principal ("Oberlehrer"). 
+**Abbreviated name**: *Limpr.*
 
 #### Herbarium and types
 

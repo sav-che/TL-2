@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/104077#page/236/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33333361) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlickum, Julius (1804-1884), German (Prussian) pharmacist and botanist at Winningen a.d. Mösel. (*J. Schlickum*).
+Schlickum, Julius (1804-1884), German (Prussian) pharmacist and botanist at Winningen a.d. Mösel. 
+**Abbreviated name**: *J. Schlickum*
 
 #### Herbarium and types
 

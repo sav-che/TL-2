@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103253#page/327/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33068543) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hooper, John (1802-1869), British born American algologist at Brooklyn, New York. (*Hooper*).
+Hooper, John (1802-1869), British born American algologist at Brooklyn, New York. 
+**Abbreviated name**: *Hooper*
 
 #### Herbarium and types
 

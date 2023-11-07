@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/103683#page/558/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33212590) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turner, Wilhelm (1860-?), German (Bremen) botanist; studied in Göttingen and Freiburg i. Br. 1882-1885; Dr. phil. Göttingen 1885. (*W. Turn.*).
+Turner, Wilhelm (1860-?), German (Bremen) botanist; studied in Göttingen and Freiburg i. Br. 1882-1885; Dr. phil. Göttingen 1885. 
+**Abbreviated name**: *W. Turn.*
 
 #### Herbarium and types
 

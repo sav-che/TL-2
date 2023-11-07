@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/104077#page/46/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33333133) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sanderson, John (1820/21-1881), Scottish journalist, trader, botanical collector and horticulturist; to Durban, S. Afr., 1850; active in the Horticultural Society of Natal; secretary of the "Natal Times" Company 1851. (*J. Sanderson*).
+Sanderson, John (1820/21-1881), Scottish journalist, trader, botanical collector and horticulturist; to Durban, S. Afr., 1850; active in the Horticultural Society of Natal; secretary of the "Natal Times" Company 1851. 
+**Abbreviated name**: *J. Sanderson*
 
 #### Herbarium and types
 

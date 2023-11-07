@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103624#page/458/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33189915) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Purchas, William Henry (1823-1903), British botanist and clergyman; B.A. Durham 1857; ord. Church of England 1857; serving at Tickenhall (S. Leicestershire) 1857-1865, Lydney (Gloucestershire) 1865, Gloucester (1866-1870), Alstonfield (N. Staffordshire) 1870-1903; ardent amateur botanist, especially interested in Rubus, Rosa and Hieracium. (*Purchas*).
+Purchas, William Henry (1823-1903), British botanist and clergyman; B.A. Durham 1857; ord. Church of England 1857; serving at Tickenhall (S. Leicestershire) 1857-1865, Lydney (Gloucestershire) 1865, Gloucester (1866-1870), Alstonfield (N. Staffordshire) 1870-1903; ardent amateur botanist, especially interested in Rubus, Rosa and Hieracium. 
+**Abbreviated name**: *Purchas*
 
 #### Herbarium and types
 

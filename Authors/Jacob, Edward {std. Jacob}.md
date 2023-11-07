@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103253#page/427/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jacob, Edward (c. 1710-1788), British surgeon and botanist at Faversham. (*Jacob*).
+Jacob, Edward (c. 1710-1788), British surgeon and botanist at Faversham. 
+**Abbreviated name**: *Jacob*
 
 #### Herbarium and types
 

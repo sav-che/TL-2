@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/103624#page/562/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33190019) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raeuschel \[Räuschel\], Ernst Adolf (*fl*. 1772-1797), German botanist. (*Raeusch.*).
+Raeuschel \[Räuschel\], Ernst Adolf (*fl*. 1772-1797), German botanist. 
+**Abbreviated name**: *Raeusch.*
 
 #### Herbarium and types
 

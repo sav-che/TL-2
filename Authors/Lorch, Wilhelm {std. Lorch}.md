@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/104137#page/171/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lorch, Wilhelm (1867-1954), German botanist; studied at München; high school teacher at Berlin. (*Lorch*).
+Lorch, Wilhelm (1867-1954), German botanist; studied at München; high school teacher at Berlin. 
+**Abbreviated name**: *Lorch*
 
 #### Herbarium and types
 

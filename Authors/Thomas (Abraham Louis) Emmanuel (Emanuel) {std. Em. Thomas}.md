@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103683#page/281/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33212313) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas \[Abraham Louis\] Emmanuel \[Emanuel\] (1788-1859), Swiss plant collector, plant dealer and forester at Bex \[Vaud\]. (*Em. Thomas*).
+Thomas \[Abraham Louis\] Emmanuel \[Emanuel\] (1788-1859), Swiss plant collector, plant dealer and forester at Bex \[Vaud\]. 
+**Abbreviated name**: *Em. Thomas*
 
 #### Herbarium and types
 
@@ -40,7 +41,7 @@ Emmanuel Thomas used both the spelling Emanuel and Emmanuel on the catalogues.
 
 #### Eponymy
 
-*Thomasia* J. Gay (1821) honors Pierre Thomas, 18th century amateur Swiss botanist and his son Abram Thomas (1740-1822), Swiss botanist.
+*Thomasia* J. Gay (1821) [^1] honors Pierre Thomas, 18th century amateur Swiss botanist and his son Abram Thomas (1740-1822), Swiss botanist.
 
 ### Publications
 
@@ -72,4 +73,7 @@ Emmanuel Thomas used both the spelling Emanuel and Emmanuel on the catalogues.
 *1841 ed*.: 1841, p. \[1\]-4. *Copies*: G(2).
 *Supplément*: 1842, p. \[1\]. *Copies*: G(2).
 *Supplément*: 1853, p. \[1\]. *Copy*: G.
+
+[^1]: "*Thomasia* J.Gay 1821 (Malvaceae) \[is dedicated to\] Peter (Pierre) Thomas (1708 –1781) **and** his son Abraham Thomas (1740 –1822/24), Swiss plant collectors for A. v. Haller **and** his grandsons Philippe (?–1831), Louis (1784–1823), and Emmanuel (1788–1859), gardeners, botanists as well (Gay, 1821: 450)."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

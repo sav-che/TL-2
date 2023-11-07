@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/item/104137#page/567/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33355638) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Molkenboer, Julianus Hendrik (1816-1854), Dutch botanist; Dr. med. Leiden 1840; practicing physician at Leiden 1840-1854. (*Molk.*).
+Molkenboer, Julianus Hendrik (1816-1854), Dutch botanist; Dr. med. Leiden 1840; practicing physician at Leiden 1840-1854. 
+**Abbreviated name**: *Molk.*
 
 #### Herbarium and types
 

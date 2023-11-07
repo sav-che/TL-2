@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/item/103253#page/840/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33069056) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lefèvre, Édouard (1839-1894), French botanist and entomologist; born at Chartres; to Indo-China 1856-1858 as civil engineer; from 1858 in the central administration of French public works. (*Lefèv.*).
+Lefèvre, Édouard (1839-1894), French botanist and entomologist; born at Chartres; to Indo-China 1856-1858 as civil engineer; from 1858 in the central administration of French public works. 
+**Abbreviated name**: *Lefèv.*
 
 #### Herbarium and types
 

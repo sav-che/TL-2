@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103860#page/368/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33266035) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cordero, Luis (1833-1912), Ecuadorian botanist, born at Surampalti, Déleg, Prov. Aznay, 6 Apr 1833, died at Cuenca 30 Jan 1912, politician, writer and interested in natural sciences. (*L. Cordero*).
+Cordero, Luis (1833-1912), Ecuadorian botanist, born at Surampalti, Déleg, Prov. Aznay, 6 Apr 1833, died at Cuenca 30 Jan 1912, politician, writer and interested in natural sciences. 
+**Abbreviated name**: *L. Cordero*
 
 #### Herbarium and types
 

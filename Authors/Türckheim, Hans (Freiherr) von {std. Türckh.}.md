@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/103683#page/537/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33212569) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Türckheim, Hans \[Freiherr\] von (1853-1920), German (Baden) plant collector and traveller; studied law at Strassburg and Berlin; state examinator 1876; for a short time administrator in Ellrich a. Harz and Delitzsch, shortly afterwards to Guatemala in charge of a coffee plantation ca. 1878-1908; in retirement at Karlsruhe from 1908; collected in Santo Domingo 1909-1910. (*Türckh.*).
+Türckheim, Hans \[Freiherr\] von (1853-1920), German (Baden) plant collector and traveller; studied law at Strassburg and Berlin; state examinator 1876; for a short time administrator in Ellrich a. Harz and Delitzsch, shortly afterwards to Guatemala in charge of a coffee plantation ca. 1878-1908; in retirement at Karlsruhe from 1908; collected in Santo Domingo 1909-1910. 
+**Abbreviated name**: *Türckh.*
 
 #### Herbarium and types
 

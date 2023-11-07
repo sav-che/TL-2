@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103832#page/121/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33258587) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Galløe, Olaf {std. Galløe}|first entry]] for this author
 
 ### Author
 
-\* Galløe, Olaf (1881-1965), Danish lichenologist, born 22 Jun 1881 in Copenhagen, Mag. scient. 1907 and Dr. phil. 1913 Univ. of Copenhagen, grammar school teacher, "Øster Borgerdydskole", Copenhagen, 1909-1948, died 24 Dec 1965 in Lyngby nr. Copenhagen. (*Galløe*).
+\* Galløe, Olaf (1881-1965), Danish lichenologist, born 22 Jun 1881 in Copenhagen, Mag. scient. 1907 and Dr. phil. 1913 Univ. of Copenhagen, grammar school teacher, "Øster Borgerdydskole", Copenhagen, 1909-1948, died 24 Dec 1965 in Lyngby nr. Copenhagen. 
+**Abbreviated name**: *Galløe*
 
 #### Herbarium and types
 

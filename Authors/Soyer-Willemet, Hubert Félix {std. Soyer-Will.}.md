@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/item/104077#page/779/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33333904) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soyer-Willemet, Hubert Félix (1791-1867), French librarian, pharmacist and botanist at Nancy; pharm. exam. Nancy 1811; in charge of the pharmacy of his grandfather P.R. Willemet 1811-1824; from 1824 head-librarian of the public library of Nancy, head of the municipal natural history cabinet and archivist of the Société royale des Sciences, Lettres et Arts, Nancy; Légion d'Honneur 1847; collaborator of D.A. Godron. (*Soyer-Will.*).
+Soyer-Willemet, Hubert Félix (1791-1867), French librarian, pharmacist and botanist at Nancy; pharm. exam. Nancy 1811; in charge of the pharmacy of his grandfather P.R. Willemet 1811-1824; from 1824 head-librarian of the public library of Nancy, head of the municipal natural history cabinet and archivist of the Société royale des Sciences, Lettres et Arts, Nancy; Légion d'Honneur 1847; collaborator of D.A. Godron. 
+**Abbreviated name**: *Soyer-Will.*
 
 #### Herbarium and types
 

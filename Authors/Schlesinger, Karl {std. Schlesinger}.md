@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/104077#page/235/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33333360) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlesinger, Karl (1869-?), German (Silezian) pharmacist and botanist; Dr. phil. Erlangen 1895; pharmacist at Breslau. (*Schlesinger*).
+Schlesinger, Karl (1869-?), German (Silezian) pharmacist and botanist; Dr. phil. Erlangen 1895; pharmacist at Breslau. 
+**Abbreviated name**: *Schlesinger*
 
 #### Herbarium and types
 

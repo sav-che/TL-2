@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103834#page/87/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33259569) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Faull, Joseph Horace (1870-1961), American mycologist and plant pathologist, born 3 Mai 1870 in L'Anse, Michigan and raised on the Canadian shore of Lake Ontario, B.S. 1898 Univ. of Toronto, mathematics instructor, Albert College, Belleville, Ontario 1898-1900, Austin Fellow, Harvard Univ., Cambridge, Mass. 1901-1903, Ph.D. 1904 Harvard Univ., Prof. of Botany, Univ. of Toronto 1904-1928, with sabbatical at Univ. of Munich 1909-1910, President Royal Soc. Canada 1920, Prof. of forest pathology, Harvard Univ. 1928-1940, died 30 Jun 1961 in Cambridge, Mass. (*Faull*).
+Faull, Joseph Horace (1870-1961), American mycologist and plant pathologist, born 3 Mai 1870 in L'Anse, Michigan and raised on the Canadian shore of Lake Ontario, B.S. 1898 Univ. of Toronto, mathematics instructor, Albert College, Belleville, Ontario 1898-1900, Austin Fellow, Harvard Univ., Cambridge, Mass. 1901-1903, Ph.D. 1904 Harvard Univ., Prof. of Botany, Univ. of Toronto 1904-1928, with sabbatical at Univ. of Munich 1909-1910, President Royal Soc. Canada 1920, Prof. of forest pathology, Harvard Univ. 1928-1940, died 30 Jun 1961 in Cambridge, Mass. 
+**Abbreviated name**: *Faull*
 
 #### Note
 

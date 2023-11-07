@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/item/103414#page/523/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33120606) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cavolini, Filippo (lat. Caulinus) (1756-1810), Italian botanist at Napoli. (*Cavolini*).
+Cavolini, Filippo (lat. Caulinus) (1756-1810), Italian botanist at Napoli. 
+**Abbreviated name**: *Cavolini*
 
 #### Herbarium and types
 

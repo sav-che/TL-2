@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/item/103835#page/145/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33260123) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duchesne, Edouard Adolphe (1804-1869), French botanist, born at Paris, died at Cannes. (*E.A. Duchesne*).
+Duchesne, Edouard Adolphe (1804-1869), French botanist, born at Paris, died at Cannes. 
+**Abbreviated name**: *E.A. Duchesne*
 
 #### Herbarium and types
 

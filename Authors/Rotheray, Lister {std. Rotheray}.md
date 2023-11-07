@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/item/103624#page/937/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rotheray, Lister (*fl*. 1900), British author of a flora of Skipton (West Yorkshire). (*Rotheray*).
+Rotheray, Lister (*fl*. 1900), British author of a flora of Skipton (West Yorkshire). 
+**Abbreviated name**: *Rotheray*
 
 #### Herbarium and types
 

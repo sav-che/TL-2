@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103859#page/211/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33265398) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blanche, Emmanuel-Louis (1824-1908), French botanist and physician, Dr. méd. Paris 1849, physician at the Hôpital de Rouen, professor at the medical and pharmaceutic school in Rouen. (*Blanche*).
+Blanche, Emmanuel-Louis (1824-1908), French botanist and physician, Dr. méd. Paris 1849, physician at the Hôpital de Rouen, professor at the medical and pharmaceutic school in Rouen. 
+**Abbreviated name**: *Blanche*
 
 #### Herbarium and types
 

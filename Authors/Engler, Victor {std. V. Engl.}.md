@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/103835#page/388/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33260366) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Engler, Victor (1885-1917), German botanist, born 3 Jun 1885 at Thorn, visited the gymnasium of his home town until 1904, studied natural sciences at Breslau, thesis under Ferdinand Albin Pax at Breslau in 1909, in active service as officer in WW I, killed 14 Mai 1917 near Kanatlacci in Macedonia. (*V. Engl.*).
+Engler, Victor (1885-1917), German botanist, born 3 Jun 1885 at Thorn, visited the gymnasium of his home town until 1904, studied natural sciences at Breslau, thesis under Ferdinand Albin Pax at Breslau in 1909, in active service as officer in WW I, killed 14 Mai 1917 near Kanatlacci in Macedonia. 
+**Abbreviated name**: *V. Engl.*
 
 #### Herbarium and types
 

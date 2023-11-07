@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103250#page/114/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33066394) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walton, John (1895-1971), British botanist; studied at Cambridge 1915-1921; botanist on the first Oxford expedition to Spitzbergen 1921; demonstrator of botany Cambridge 1922-1923; lecturer in botany at Manchester Univ.; successor to P.O. Bower as Regius professor of botany at Glasgow 1930-1962. (*J. Walton*).
+Walton, John (1895-1971), British botanist; studied at Cambridge 1915-1921; botanist on the first Oxford expedition to Spitzbergen 1921; demonstrator of botany Cambridge 1922-1923; lecturer in botany at Manchester Univ.; successor to P.O. Bower as Regius professor of botany at Glasgow 1930-1962. 
+**Abbreviated name**: *J. Walton*
 
 #### Herbarium and types
 

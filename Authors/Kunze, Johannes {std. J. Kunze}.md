@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/item/103253#page/731/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kunze, Johannes (x-1881), German mycologist at Eisleben. (*J. Kunze*).
+Kunze, Johannes (x-1881), German mycologist at Eisleben. 
+**Abbreviated name**: *J. Kunze*
 
 #### Herbarium and types
 

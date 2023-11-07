@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103859#page/163/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33265350) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beyrich, Heinrich Karl {std. Beyr.}|first entry]] for this author
 
 ### Author
 
-\* Beyrich, Heinrich Karl (1796-1834), German (Wernigerode, Preussen-born) gardener and botanical explorer, studied briefly botany in Göttingen, gardener at the imperial gardens in Wien, travelled in the Alps and N. Italy, visited Kew Gardens, sent to Brazil by the Prussian government to collect in Brazil material for the gardens nr. Potsdam (incl. Pfaueninsel) 1822-1823, director of the Neu-Schöneberg Botanical Garden 1823-1833, travelled in the USA 1833-1834, died at Fort Gibson, Arkansas. (*Beyr.*).
+\* Beyrich, Heinrich Karl (1796-1834), German (Wernigerode, Preussen-born) gardener and botanical explorer, studied briefly botany in Göttingen, gardener at the imperial gardens in Wien, travelled in the Alps and N. Italy, visited Kew Gardens, sent to Brazil by the Prussian government to collect in Brazil material for the gardens nr. Potsdam (incl. Pfaueninsel) 1822-1823, director of the Neu-Schöneberg Botanical Garden 1823-1833, travelled in the USA 1833-1834, died at Fort Gibson, Arkansas. 
+**Abbreviated name**: *Beyr.*
 
 #### Herbarium and types
 

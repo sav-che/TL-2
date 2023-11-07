@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103835#page/318/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33260296) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elliott, John Asbury (1887-1923), American botanist, born 1 Dec 1887 Ness City, Kansas, died of pneumonia 18 Jan 1923 Washington, D.C., prof. plant pathology University of Arkansas and pathologist in the Arkansas Agricultural Experiment Station. (*J.A. Elliott*).
+Elliott, John Asbury (1887-1923), American botanist, born 1 Dec 1887 Ness City, Kansas, died of pneumonia 18 Jan 1923 Washington, D.C., prof. plant pathology University of Arkansas and pathologist in the Arkansas Agricultural Experiment Station. 
+**Abbreviated name**: *J.A. Elliott*
 
 #### Herbarium and types
 

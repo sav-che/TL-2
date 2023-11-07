@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/item/104077#page/368/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33333493) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schuchardt, \[Conrad Gideon\] Theodor (1829-1892), German (Silesian) botanist; Dr. phil. Göttingen 1853; high school teacher at Dresden 1856-1857; idem at the agricultural college of Regenwalde (Hinterpommern) 1857-1858; lecturer in botany and director of the botanical garden of the agricultural college of Waldau nr Königsberg 1858-1859; later at Görlitz as founder and owner of a chemical phamaceutical factory. (*Schuchardt*).
+Schuchardt, \[Conrad Gideon\] Theodor (1829-1892), German (Silesian) botanist; Dr. phil. Göttingen 1853; high school teacher at Dresden 1856-1857; idem at the agricultural college of Regenwalde (Hinterpommern) 1857-1858; lecturer in botany and director of the botanical garden of the agricultural college of Waldau nr Königsberg 1858-1859; later at Görlitz as founder and owner of a chemical phamaceutical factory. 
+**Abbreviated name**: *Schuchardt*
 
 #### Herbarium and types
 

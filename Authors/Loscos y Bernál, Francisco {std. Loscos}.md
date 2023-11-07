@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/104137#page/180/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loscos y Bernál, Francisco (1823-1886), Spanish pharmacist and botanist at Chiprana in Castelseras. (*Loscos*).
+Loscos y Bernál, Francisco (1823-1886), Spanish pharmacist and botanist at Chiprana in Castelseras. 
+**Abbreviated name**: *Loscos*
 
 #### Herbarium and types
 

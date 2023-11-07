@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/item/103683#page/728/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33212760) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vestergren, \[Jacob\] Tycho \[Conrad\] (1875-1930), Swedish high school teacher and botanist; fil. lic. Stockholm 1909; amanuensis at the Stockholm University Botanical Institute 1901-1908; editor of "Svensk botanisk Tidskrift" 1908-1917; teacher for biology and chemistry at Jakobs (from 1926 Vasa) middle school in Stockholm 1911; Regnellian amanuensis at the Riksmuseum, Stockholm 1926-1927. (*Vestergr.*).
+Vestergren, \[Jacob\] Tycho \[Conrad\] (1875-1930), Swedish high school teacher and botanist; fil. lic. Stockholm 1909; amanuensis at the Stockholm University Botanical Institute 1901-1908; editor of "Svensk botanisk Tidskrift" 1908-1917; teacher for biology and chemistry at Jakobs (from 1926 Vasa) middle school in Stockholm 1911; Regnellian amanuensis at the Riksmuseum, Stockholm 1926-1927. 
+**Abbreviated name**: *Vestergr.*
 
 #### Herbarium and types
 

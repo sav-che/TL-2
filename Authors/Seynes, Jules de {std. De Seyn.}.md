@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/item/104077#page/559/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33333684) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seynes, Jules de (1833-1912), French botanist (mycologist); Dr. méd. Montpellier 1860; Dr. sci. nat. Paris 1863; aggr. Paris 1865; from then on connected with the Faculté de médicine, Paris. (*De Seyn.*).
+Seynes, Jules de (1833-1912), French botanist (mycologist); Dr. méd. Montpellier 1860; Dr. sci. nat. Paris 1863; aggr. Paris 1865; from then on connected with the Faculté de médicine, Paris. 
+**Abbreviated name**: *De Seyn.*
 
 #### Herbarium and types
 

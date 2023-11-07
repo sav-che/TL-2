@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/item/103624#page/868/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33190325) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roezl, Benedict (1824-1885), Bohemian horticulturist and seedsman; gardener in various Central European gardens, with VanHoutte at Gent, "chef de culture" at the Belgian school of horticulture; collecting in the United States, Mexico, Cuba and South America between 1854 and 1875; in retirement at Smichov, Praha; one of the most active collectors of living orchids. (*Roezl*).
+Roezl, Benedict (1824-1885), Bohemian horticulturist and seedsman; gardener in various Central European gardens, with VanHoutte at Gent, "chef de culture" at the Belgian school of horticulture; collecting in the United States, Mexico, Cuba and South America between 1854 and 1875; in retirement at Smichov, Praha; one of the most active collectors of living orchids. 
+**Abbreviated name**: *Roezl*
 
 #### Herbarium and types
 

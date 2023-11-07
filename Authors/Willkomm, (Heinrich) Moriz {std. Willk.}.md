@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103250#page/396/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33066676) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willkomm, \[Heinrich\] Moriz (1821-1895), German (Saxonian) botanist and explorer; studied medicine at the University of Leipzig; Bacc. med. 1844; travelled in Spain and Portugal 1844-1845; studied natural sciences at Leipzig; Dr. phil. 1850; again to Spain 1850-1851; habil. Leipzig 1852; professor and custos of the Leipzig University herbarium 1855; professor of natural history at Tharandt 1855-1868; professor of botany and director of the botanical garden of the University of Dorpat 1868-1873; to Spain and the Balearic Islands 1873-1874; professor of botany and director of the botanical garden of the University of Prague 1874-1892; in retirement continuing his botanical work in Prague. (*Willk.*).
+Willkomm, \[Heinrich\] Moriz (1821-1895), German (Saxonian) botanist and explorer; studied medicine at the University of Leipzig; Bacc. med. 1844; travelled in Spain and Portugal 1844-1845; studied natural sciences at Leipzig; Dr. phil. 1850; again to Spain 1850-1851; habil. Leipzig 1852; professor and custos of the Leipzig University herbarium 1855; professor of natural history at Tharandt 1855-1868; professor of botany and director of the botanical garden of the University of Dorpat 1868-1873; to Spain and the Balearic Islands 1873-1874; professor of botany and director of the botanical garden of the University of Prague 1874-1892; in retirement continuing his botanical work in Prague. 
+**Abbreviated name**: *Willk.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103253#page/426/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33068642) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jackson, Vincent Wilson (1876-x), Canadian botanist. (*V. Jacks.*).
+Jackson, Vincent Wilson (1876-x), Canadian botanist. 
+**Abbreviated name**: *V. Jacks.*
 
 #### Herbarium and types
 

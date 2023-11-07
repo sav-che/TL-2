@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/item/104077#page/863/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33333988) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Staude, Friedrich (x-1861), German (Coburg) physician and botanist; town-physician and asst. director of the natural history cabinet at Coburg. (*Staude*).
+Staude, Friedrich (x-1861), German (Coburg) physician and botanist; town-physician and asst. director of the natural history cabinet at Coburg. 
+**Abbreviated name**: *Staude*
 
 #### Herbarium and types
 

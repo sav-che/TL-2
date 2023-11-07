@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/103683#page/671/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33212703) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van Dersal, William Richard (1907-x), American botanist and conservationist; B.A. Reed Coll. Portland Ore., 1929; MS Univ. Pittsburgh 1931, ib. Dr. phil. 1936; graduate assistant in botany Pittsburgh 1929-1934; with the U.S. Soil Conservation Service as forester 1938, biologist 1936-1942, principal admin, officer from 1942-1948; chief operations Pacific 1948-1953, administrator for management 1954-1972, consultant 1972-1974; dean Management College, Nat. grad. Univ. from 1974. (*Van Dersal*).
+Van Dersal, William Richard (1907-x), American botanist and conservationist; B.A. Reed Coll. Portland Ore., 1929; MS Univ. Pittsburgh 1931, ib. Dr. phil. 1936; graduate assistant in botany Pittsburgh 1929-1934; with the U.S. Soil Conservation Service as forester 1938, biologist 1936-1942, principal admin, officer from 1942-1948; chief operations Pacific 1948-1953, administrator for management 1954-1972, consultant 1972-1974; dean Management College, Nat. grad. Univ. from 1974. 
+**Abbreviated name**: *Van Dersal*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/104077#page/479/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33333604) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seaver, Fred Jay (1877-1970), American mycologist; MS State Univ. Iowa 1904; assistant Biology Dept. Iowa City 1904-1905; instructor of biology Iowa Wesleyan Univ. 1905-1906; at the New York Botanical Garden 1906-1907; assistant professor of biology Fargo, North Dakota and mycologist to the Fargo Experiment Station 1907-1908; again at the New York botanical Garden from 1908; Dr. phil. Iowa 1912; director of laboratories at NY 1908-1911; curator 1912-1943, head curator 1943-1948, from 1948-1970 curator emeritus; Dr. Sci. h.c. Sioux City, Iowa 1931. (*Seaver*).
+Seaver, Fred Jay (1877-1970), American mycologist; MS State Univ. Iowa 1904; assistant Biology Dept. Iowa City 1904-1905; instructor of biology Iowa Wesleyan Univ. 1905-1906; at the New York Botanical Garden 1906-1907; assistant professor of biology Fargo, North Dakota and mycologist to the Fargo Experiment Station 1907-1908; again at the New York botanical Garden from 1908; Dr. phil. Iowa 1912; director of laboratories at NY 1908-1911; curator 1912-1943, head curator 1943-1948, from 1948-1970 curator emeritus; Dr. Sci. h.c. Sioux City, Iowa 1931. 
+**Abbreviated name**: *Seaver*
 
 #### Herbarium and types
 

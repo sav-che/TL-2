@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103250#page/348/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33066628) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilcke, Samuel Gustav (x-1791), German naturalist and clergyman at Greifswald. (*S. Wilcke*).
+Wilcke, Samuel Gustav (x-1791), German naturalist and clergyman at Greifswald. 
+**Abbreviated name**: *S. Wilcke*
 
 #### Herbarium and types
 

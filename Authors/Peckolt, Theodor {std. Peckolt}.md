@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103624#page/157/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33189614) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peckolt, Theodor (1822-1912), German (Niederlausitz) botanist; trained as a pharmacist in Triebel, 1837-1841; settled in Brazil 1847; practicing pharmacist in Rio de Janeiro 1848; exploring the province of Rio de Janeiro 1848-1850; pharmacist at Cantagallo 1851-1867; id. again in Rio de Janeiro from 1868 ("pharmacia e drugeria Peckolt"). (*Peckolt*).
+Peckolt, Theodor (1822-1912), German (Niederlausitz) botanist; trained as a pharmacist in Triebel, 1837-1841; settled in Brazil 1847; practicing pharmacist in Rio de Janeiro 1848; exploring the province of Rio de Janeiro 1848-1850; pharmacist at Cantagallo 1851-1867; id. again in Rio de Janeiro from 1868 ("pharmacia e drugeria Peckolt"). 
+**Abbreviated name**: *Peckolt*
 
 #### Herbarium and types
 

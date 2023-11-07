@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/item/103250#page/372/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33066652) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willemet, \[Pierre\] Remi (1735-1807), French (Lorraine) botanist, pharmacist, professor of natural history at the medical college and director of the botanical garden at Nancy. (*Willemet*).
+Willemet, \[Pierre\] Remi (1735-1807), French (Lorraine) botanist, pharmacist, professor of natural history at the medical college and director of the botanical garden at Nancy. 
+**Abbreviated name**: *Willemet*
 
 #### Herbarium and types
 
@@ -37,7 +38,7 @@ AG 2(1): 559, 5(1): 164; Backer p. 664; Barnhart 3: 497 (b. 13 Sep 1735, d. 21 J
 
 #### Eponymy
 
-*Willemetia* Maerklin (1801). *Note*: *Willemetia* Brongniart (1827) honors H. Soyer-Willemet, *q.v.*
+*Willemetia* Maerklin (1801) [^1]. *Note*: *Willemetia* Brongniart (1827) honors H. Soyer-Willemet, *q.v.*
 
 ### Publications
 
@@ -73,4 +74,8 @@ AG 2(1): 559, 5(1): 164; Backer p. 664; Barnhart 3: 497 (b. 13 Sep 1735, d. 21 J
 *Copies*: BR, G, NY.
 *Reissue*: 1808, as 1805 ed., with different t.p.: *Phytographie encyclopédique*, ou flore économique, contenant les lois fondamentales de la botanique, les caractères essentiels des genres et espèces... 3 vols. Paris (Brunot-Labbe...) 1808. Oct. *Copies*: BR, NY, USDA.
 *Note* by Kirschleger (1857): "Cette Flore est somptueusement imprimée; mais le fond ou le texte est extrèmement lourd, rempli d'erreurs grossières. Ce livre es plutôt l'oeuvre d'un médecin-herboriste que d'un botaniste proprement dit".
+
+[^1]: "*Willemetia* Maerkl. 1801 (Amaranthaceae) \[is dedicated to\] Pierre Rémi François de Paule Willemet (1762–1790), French physician, voyaged to India as physician to a legation, died in India, he was a friend to Maerklin. Pierre Rémi François de Paule Willemet was (Pierre) Rémi Willemet’s son (Maerklin, 1801: 329). 
+*Note*. – *Willemetia* Neck. 1777–78 (Asteraceae) Very likely \[is dedicated to\] (Pierre) Rémi Willemet (1735–1807), French botanist, professor of natural history, director of the Botanic Garden Nancy."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103861#page/119/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broadhurst, Jean Alice (1873-1954), American teacher of biology and botanist, born at Stockton, New Jersey, at the New Jersey State Normal School, Trenton 1892, B.S. Teachers College Columbia University 1903, A.M. 1908, at New York Botanical Garden 1901-1902, assistant at Barnard College 1902-1903, instructor in biology at New Jersey State Normal School 1903-1906, id. at Teachers College 1906, at id. as professor of biology 1914. (*Broadh.*).
+Broadhurst, Jean Alice (1873-1954), American teacher of biology and botanist, born at Stockton, New Jersey, at the New Jersey State Normal School, Trenton 1892, B.S. Teachers College Columbia University 1903, A.M. 1908, at New York Botanical Garden 1901-1902, assistant at Barnard College 1902-1903, instructor in biology at New Jersey State Normal School 1903-1906, id. at Teachers College 1906, at id. as professor of biology 1914. 
+**Abbreviated name**: *Broadh.*
 
 #### Herbarium and types
 

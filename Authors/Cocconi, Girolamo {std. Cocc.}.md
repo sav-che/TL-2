@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103860#page/242/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265909) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cocconi, Girolamo (1822-1904), Italian mycologist, hygienist and dealing with materia medica and veterinaria at the University of Bologna. (*Cocc.*).
+Cocconi, Girolamo (1822-1904), Italian mycologist, hygienist and dealing with materia medica and veterinaria at the University of Bologna. 
+**Abbreviated name**: *Cocc.*
 
 #### Herbarium and types
 

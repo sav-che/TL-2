@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103683#page/462/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33212494) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trautwein, Johannes \[Carl\] (1858-?), German (Saxonian) botanist; studied at the Universities of Leipzig, Halle and Tübingen; Dr. phil. Halle 1885. (*Trautwein*).
+Trautwein, Johannes \[Carl\] (1858-?), German (Saxonian) botanist; studied at the Universities of Leipzig, Halle and Tübingen; Dr. phil. Halle 1885. 
+**Abbreviated name**: *Trautwein*
 
 #### Herbarium and types
 

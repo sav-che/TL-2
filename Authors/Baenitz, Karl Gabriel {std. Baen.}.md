@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103414#page/138/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baenitz, Carl (Karl) Gabriel {std. Baen.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baenitz, Karl Gabriel (1837-1913), German botanist, mainly active in Silesia. (*Baen.*).
+Baenitz, Karl Gabriel (1837-1913), German botanist, mainly active in Silesia. 
+**Abbreviated name**: *Baen.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103253#page/193/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33068409) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herder, Ferdinand Gottfried Maximilian Theobald von (1828-1896), German botanist who studied law at Erlangen but who was denied admittance to the bar on political grounds; to St. Petersburgh 1856 in various functions (ultimately librarian) at the herbarium. of the imperial botanical garden; Dr. phil. Leopoldina 1863; returned to Germany (Grünstadt) 1892, "Vermittler zwischen den russischen und deutschen Botanikern." (*Herder*).
+Herder, Ferdinand Gottfried Maximilian Theobald von (1828-1896), German botanist who studied law at Erlangen but who was denied admittance to the bar on political grounds; to St. Petersburgh 1856 in various functions (ultimately librarian) at the herbarium. of the imperial botanical garden; Dr. phil. Leopoldina 1863; returned to Germany (Grünstadt) 1892, "Vermittler zwischen den russischen und deutschen Botanikern." 
+**Abbreviated name**: *Herder*
 
 #### Herbarium and types
 

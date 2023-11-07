@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/item/104077#page/921/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33334046) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sterzing, J. (*fl*. 1860), German mycologist and high school teacher at Sondershausen. (*Sterzing*).
+Sterzing, J. (*fl*. 1860), German mycologist and high school teacher at Sondershausen. 
+**Abbreviated name**: *Sterzing*
 
 #### Herbarium and types
 

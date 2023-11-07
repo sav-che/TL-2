@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103859#page/119/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33265306) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berner, L. (fl. 1931), French phycologist at Marseille, prix Joseph Laurent 1903-1926 awarded 1930 by the Académie de Marseille. (*Berner*).
+Berner, L. (fl. 1931), French phycologist at Marseille, prix Joseph Laurent 1903-1926 awarded 1930 by the Académie de Marseille. 
+**Abbreviated name**: *Berner*
 
 #### Herbarium and types
 

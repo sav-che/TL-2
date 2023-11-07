@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103859#page/177/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265364) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Binnendijk, Simon {std. Binn.}|first entry]] for this author
 
 ### Author
 
-\* Binnendijk, Simon (1821-1883), Dutch gardener, trained in the Leiden Hortus botanicus by de Vriese, assistant curator in the Botanic garden at Buitenzorg (Bogor) 1850-1869, curator ib. 1869-1883, collected in Java, Borneo, and the Moluccas, published with J.E. Teijsmann. (*Binn.*).
+\* Binnendijk, Simon (1821-1883), Dutch gardener, trained in the Leiden Hortus botanicus by de Vriese, assistant curator in the Botanic garden at Buitenzorg (Bogor) 1850-1869, curator ib. 1869-1883, collected in Java, Borneo, and the Moluccas, published with J.E. Teijsmann. 
+**Abbreviated name**: *Binn.*
 
 #### Herbarium and types
 

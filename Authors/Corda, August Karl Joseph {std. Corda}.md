@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/item/103414#page/594/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33120677) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Corda, August Karl Joseph {std. Corda} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Corda, August Karl Joseph (1809-1849), Czech mycologist and traveller. (*Corda*).
+Corda, August Karl Joseph (1809-1849), Czech mycologist and traveller. 
+**Abbreviated name**: *Corda*
 
 #### Herbarium and types
 

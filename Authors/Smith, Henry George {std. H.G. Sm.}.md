@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/item/104077#page/690/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33333815) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Henry George (1852-1924), British phytochemist; to New South Wales 1883; employment at the Sydney Technological Museum 1883; laboratory assistant ib. 1891, collaborating with J.H. Maiden on the chemistry of Australian plants, especially on the essential oils of the Eucalypts; from 1899-1921 assistant curator and economic chemist at the museum; from 1921-1924 associated with the Dept. of Organic Chemistry, Univ. Sydney. (*H.G. Sm.*).
+Smith, Henry George (1852-1924), British phytochemist; to New South Wales 1883; employment at the Sydney Technological Museum 1883; laboratory assistant ib. 1891, collaborating with J.H. Maiden on the chemistry of Australian plants, especially on the essential oils of the Eucalypts; from 1899-1921 assistant curator and economic chemist at the museum; from 1921-1924 associated with the Dept. of Organic Chemistry, Univ. Sydney. 
+**Abbreviated name**: *H.G. Sm.*
 
 #### Herbarium and types
 

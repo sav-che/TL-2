@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/item/103414#page/715/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33120798) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Domin, Karel {std. Domin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Domin, Karel (1882-1953), Czech botanist. (*Domin*).
+Domin, Karel (1882-1953), Czech botanist. 
+**Abbreviated name**: *Domin*
 
 #### Herbarium and types
 

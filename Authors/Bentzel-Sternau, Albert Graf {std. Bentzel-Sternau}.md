@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/item/103859#page/90/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33265277) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bentzel-Sternau, Albert Graf (1806-1878), Austrian Rittmeister in Dürnkrut, from 1863 retired in Innsbruck. (*Bentzel-Sternau*).
+Bentzel-Sternau, Albert Graf (1806-1878), Austrian Rittmeister in Dürnkrut, from 1863 retired in Innsbruck. 
+**Abbreviated name**: *Bentzel-Sternau*
 
 #### Herbarium and types
 

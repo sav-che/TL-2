@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/103683#page/575/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33212607) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ugolini, Ugolino (1856-1942), Italian botanist; studied natural sciences at Padova University; habil. ib. 1881; private teacher and journalist at Milano 1882-1883; professor of natural history at the Istituto Tecnico provinciale, Padova 1883-1894; id. R. Istituto Tecnico, Brescia 1894-1918; id. at Bologna and Padova 1918-1919; finally again at Brescia. (*Ugolini*).
+Ugolini, Ugolino (1856-1942), Italian botanist; studied natural sciences at Padova University; habil. ib. 1881; private teacher and journalist at Milano 1882-1883; professor of natural history at the Istituto Tecnico provinciale, Padova 1883-1894; id. R. Istituto Tecnico, Brescia 1894-1918; id. at Bologna and Padova 1918-1919; finally again at Brescia. 
+**Abbreviated name**: *Ugolini*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/103253#page/675/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kops, Jan (1765-1849), Dutch agronomist and botanist, professor of botanyat Utrecht.(*Kops*).
+Kops, Jan (1765-1849), Dutch agronomist and botanist, professor of botanyat Utrecht.
+**Abbreviated name**: *Kops*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103414#page/428/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33120511) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brugmans, Sebald Justinus (1763-1819), Dutch botanist, professor of botany at Franeker and Leiden. (*Brugmans*).
+Brugmans, Sebald Justinus (1763-1819), Dutch botanist, professor of botany at Franeker and Leiden. 
+**Abbreviated name**: *Brugmans*
 
 #### Herbarium and types
 

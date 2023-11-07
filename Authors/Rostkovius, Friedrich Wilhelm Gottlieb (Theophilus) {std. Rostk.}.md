@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/item/103624#page/924/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rostkovius, Friedrich Wilhelm Gottlieb \[Theophilus\] (1770-1848), German (Brandenburg/Prussian) botanist; student of Willdenow; Dr. phil. Halle 1801; physician in Stettin. (*Rostk.*).
+Rostkovius, Friedrich Wilhelm Gottlieb \[Theophilus\] (1770-1848), German (Brandenburg/Prussian) botanist; student of Willdenow; Dr. phil. Halle 1801; physician in Stettin. 
+**Abbreviated name**: *Rostk.*
 
 #### Herbarium and types
 

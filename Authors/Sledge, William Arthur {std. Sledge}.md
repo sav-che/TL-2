@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/item/104077#page/657/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sledge, William Arthur (1904-x), British botanist at the Department of Botany, the University, Leeds until 1968; travelled in New Zealand 1929. (*Sledge*).
+Sledge, William Arthur (1904-x), British botanist at the Department of Botany, the University, Leeds until 1968; travelled in New Zealand 1929. 
+**Abbreviated name**: *Sledge*
 
 #### Herbarium and types
 

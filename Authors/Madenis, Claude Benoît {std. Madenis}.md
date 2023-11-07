@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/104137#page/255/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33355326) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Madenis, Claude Benoît (1798-1863), French clergyman and botanist at Lyon. (*Madenis*).
+Madenis, Claude Benoît (1798-1863), French clergyman and botanist at Lyon. 
+**Abbreviated name**: *Madenis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/item/104077#page/722/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33333847) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smuts, Jan Christiaan (1870-1950), South-African statesman, soldier, philosopher and amateur botanist; studied literature and science at the University of Cape of Good Hope and law at Christ's College, Cambridge; lawyer at Cape Town 1895-1897; state attorney of the Transvaal 1898; later in the South African army, in politics and prime minister of S. Africa 1919-1924, deputy prime minister 1933-1939, prime minister 1939-1948. (*Smuts*).
+Smuts, Jan Christiaan (1870-1950), South-African statesman, soldier, philosopher and amateur botanist; studied literature and science at the University of Cape of Good Hope and law at Christ's College, Cambridge; lawyer at Cape Town 1895-1897; state attorney of the Transvaal 1898; later in the South African army, in politics and prime minister of S. Africa 1919-1924, deputy prime minister 1933-1939, prime minister 1939-1948. 
+**Abbreviated name**: *Smuts*
 
 #### Herbarium and types
 

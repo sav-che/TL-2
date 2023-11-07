@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103859#page/163/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33265350) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beyse, Gustav Hermann (1854-1917), German (Aschersleben) botanist, studied in Halle, Leipzig and Göttingen, D. Sc. Göttingen 1881, secondary school teacher at Bochum. (*Beyse*).
+Beyse, Gustav Hermann (1854-1917), German (Aschersleben) botanist, studied in Halle, Leipzig and Göttingen, D. Sc. Göttingen 1881, secondary school teacher at Bochum. 
+**Abbreviated name**: *Beyse*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/item/103624#page/342/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33189799) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Polívka, Frantisek (1860-1923), Czech botanist; high school teacher at Olomouc (Olmütz). (*Polívka*).
+Polívka, Frantisek (1860-1923), Czech botanist; high school teacher at Olomouc (Olmütz). 
+**Abbreviated name**: *Polívka*
 
 #### Herbarium and types
 

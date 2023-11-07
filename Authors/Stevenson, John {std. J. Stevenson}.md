@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/item/104077#page/933/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33334058) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stevenson, John (1836-1903), Scottish clergyman and mycologist; studied at the University of St. Andrews; preacher in the Established Church of Scotland 1859; minister of Glamis 1873-1903; D.D. h.c. St. Andrews 1888. (*J. Stevenson*).
+Stevenson, John (1836-1903), Scottish clergyman and mycologist; studied at the University of St. Andrews; preacher in the Established Church of Scotland 1859; minister of Glamis 1873-1903; D.D. h.c. St. Andrews 1888. 
+**Abbreviated name**: *J. Stevenson*
 
 #### Herbarium and types
 

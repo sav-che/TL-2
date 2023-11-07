@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103414#page/244/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33120327) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berlandier, Jean Louis (1805-1851), Belgian explorer in North America and Mexico, traveller for A. P. de Candolle and Moricand. (*Berland.*).
+Berlandier, Jean Louis (1805-1851), Belgian explorer in North America and Mexico, traveller for A. P. de Candolle and Moricand. 
+**Abbreviated name**: *Berland.*
 
 #### Herbarium and types
 

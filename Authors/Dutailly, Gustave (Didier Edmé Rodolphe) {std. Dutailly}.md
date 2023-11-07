@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103835#page/215/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33260193) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dutailly, Gustave \[Didier Edmé Rodolphe\] (1846-1906), French politician and botanist, born 2 Aug 1846 at Meuvy (Haute-Marne), MA 1878, Dr.Sci. 1879, 1880-1881 professor of botany at the faculty of sciences and director of the botanical garden at Lyon, 1881-1902 "Deputé" at Paris for Haute-Marne, died 4 Feb 1906 at Paris. (*Dutailly*).
+Dutailly, Gustave \[Didier Edmé Rodolphe\] (1846-1906), French politician and botanist, born 2 Aug 1846 at Meuvy (Haute-Marne), MA 1878, Dr.Sci. 1879, 1880-1881 professor of botany at the faculty of sciences and director of the botanical garden at Lyon, 1881-1902 "Deputé" at Paris for Haute-Marne, died 4 Feb 1906 at Paris. 
+**Abbreviated name**: *Dutailly*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/104137#page/297/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33355368) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Manoury, Charles Ambroise (*fl*. 1869), French algologist. (*Manoury*).
+Manoury, Charles Ambroise (*fl*. 1869), French algologist. 
+**Abbreviated name**: *Manoury*
 
 #### Herbarium and types
 

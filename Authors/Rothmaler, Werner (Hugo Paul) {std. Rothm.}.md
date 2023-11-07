@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/item/103624#page/938/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33190395) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rothmaler, Werner \[Hugo Paul\] (1908-1963), German botanist; studied at Jena; from 1933-1940 in Spain and Portugal; at the Berlin Kaiser-Wilhelm Institut (with F. v. Wettstein) 1940-1944; Dr. phil. Univ. Berlin 1943; at the Institut für Kulturpflanzenforschung, Wien, Gatersleben 1943-1950; habil. Univ. Halle, 1947, professor of botany Halle 1950-1953; director of the Institut für Agrobiologie and professor of systematic botany and agricultural biology at the Ernst-Moritz-Arndt-Universität, Greifswald (D.D.R.) 1953-1962. (*Rothm.*).
+Rothmaler, Werner \[Hugo Paul\] (1908-1963), German botanist; studied at Jena; from 1933-1940 in Spain and Portugal; at the Berlin Kaiser-Wilhelm Institut (with F. v. Wettstein) 1940-1944; Dr. phil. Univ. Berlin 1943; at the Institut für Kulturpflanzenforschung, Wien, Gatersleben 1943-1950; habil. Univ. Halle, 1947, professor of botany Halle 1950-1953; director of the Institut für Agrobiologie and professor of systematic botany and agricultural biology at the Ernst-Moritz-Arndt-Universität, Greifswald (D.D.R.) 1953-1962. 
+**Abbreviated name**: *Rothm.*
 
 #### Herbarium and types
 

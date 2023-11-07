@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/item/103861#page/237/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33266534) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burck, William (1848-1910), Dutch botanist, born in Monnikendam near Amsterdam, studied at Leiden University, Ph.D., 1874, teacher at secondary schools at Leiden, Apeldoorn and at the School of Agriculture at Buitenzorg (Bogor), assistant director at the Botanic Gardens Buitenzorg in charge of the Herbarium 1881, scientific adviser for the government coffee culture 1893, retired 1902. (*Burck*).
+Burck, William (1848-1910), Dutch botanist, born in Monnikendam near Amsterdam, studied at Leiden University, Ph.D., 1874, teacher at secondary schools at Leiden, Apeldoorn and at the School of Agriculture at Buitenzorg (Bogor), assistant director at the Botanic Gardens Buitenzorg in charge of the Herbarium 1881, scientific adviser for the government coffee culture 1893, retired 1902. 
+**Abbreviated name**: *Burck*
 
 #### Herbarium and types
 

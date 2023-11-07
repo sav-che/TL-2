@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/104137#page/416/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meigen, Johann Wilhelm (1764-1845), German dipterologist and botanist; private teacher at Aachen 1784-1786, organist and teacher at Solingen 1786-1792, again at Aachen 1792-1796; teacher (French, geography, history, music) at a private school at Stolberg nr Aachen 1796-1810; secretary of the Stolberg chamber of commerce during the French occupation; variously employed, e.g. drawing geographical maps 1812-1825, finally organist of the Stolberg protestant church. (*Meigen*).
+Meigen, Johann Wilhelm (1764-1845), German dipterologist and botanist; private teacher at Aachen 1784-1786, organist and teacher at Solingen 1786-1792, again at Aachen 1792-1796; teacher (French, geography, history, music) at a private school at Stolberg nr Aachen 1796-1810; secretary of the Stolberg chamber of commerce during the French occupation; variously employed, e.g. drawing geographical maps 1812-1825, finally organist of the Stolberg protestant church. 
+**Abbreviated name**: *Meigen*
 
 #### Herbarium and types
 

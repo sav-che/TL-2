@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/item/103414#page/779/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33120862) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ehrhart, Jakob Friedrich (1742-1795), German botanist of Swiss origin, pupil of Linnaeus, government botanist of Hannover at Herrenhausen 1780-1795. (*Ehrh.*).
+Ehrhart, Jakob Friedrich (1742-1795), German botanist of Swiss origin, pupil of Linnaeus, government botanist of Hannover at Herrenhausen 1780-1795. 
+**Abbreviated name**: *Ehrh.*
 
 #### Herbarium and types
 

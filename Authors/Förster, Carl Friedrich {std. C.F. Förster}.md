@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/item/103414#page/898/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Förster, Carl Friedrich (*fl*. 1846), German botanist.(*C. F. Förster*).
+Förster, Carl Friedrich (*fl*. 1846), German botanist.
+**Abbreviated name**: *C. F. Förster*
 
 #### Herbarium and types
 

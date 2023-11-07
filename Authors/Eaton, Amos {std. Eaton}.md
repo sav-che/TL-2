@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/103414#page/765/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33120848) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eaton, Amos (1776-1842), American botanist, lecturer and writer; great popularizer of botanical science. (*Eaton*).
+Eaton, Amos (1776-1842), American botanist, lecturer and writer; great popularizer of botanical science. 
+**Abbreviated name**: *Eaton*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103414#page/184/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33120267) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bassi, Ferdinando {std. Bassi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bassi, Ferdinando (1710-1774), Italian botanist, prefect of the Bologna botanical garden. (*Bassi*).
+Bassi, Ferdinando (1710-1774), Italian botanist, prefect of the Bologna botanical garden. 
+**Abbreviated name**: *Bassi*
 
 #### Herbarium and types
 

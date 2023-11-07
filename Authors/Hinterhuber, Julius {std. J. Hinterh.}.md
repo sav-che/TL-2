@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103253#page/234/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33068450) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hinterhuber, Julius (1810-1880), Austrian botanist and pharmacist, brother of Rudolf Hinterhuber. (*J. Hinterh.*).
+Hinterhuber, Julius (1810-1880), Austrian botanist and pharmacist, brother of Rudolf Hinterhuber. 
+**Abbreviated name**: *J. Hinterh.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103859#page/320/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bongard, August Gustav Heinrich {std. Bong.}|first entry]] for this author
 
 ### Author
 
-\* Bongard, August Gustav Heinrich (1786-1839), German botanist and physician, born at Bonn, moved to St. Petersburg, originally as a practicing physician with the St. Petersburg nobility, later botanist with the Academy of Sciences ib. (*Bong.*).
+\* Bongard, August Gustav Heinrich (1786-1839), German botanist and physician, born at Bonn, moved to St. Petersburg, originally as a practicing physician with the St. Petersburg nobility, later botanist with the Academy of Sciences ib. 
+**Abbreviated name**: *Bong.*
 
 #### Herbarium and types
 

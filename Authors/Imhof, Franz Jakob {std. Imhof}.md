@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103253#page/410/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Imhof, Franz Jakob (*fl*. 1784), Swiss physician; Dr. med. Strassbourg 1784. (*Imhof*).
+Imhof, Franz Jakob (*fl*. 1784), Swiss physician; Dr. med. Strassbourg 1784. 
+**Abbreviated name**: *Imhof*
 
 #### Herbarium and types
 

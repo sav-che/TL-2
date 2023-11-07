@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/item/103253#page/630/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33068846) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Körnicke, Friedrich August (1828-1908), German botanist; 1849 assistant curator at the Berlin herbarium; 1856 at St. Petersburg; Dr. phil. berol. 1856; 1859-1867 lecturer, later professor, at Waldau agricultural college near Königsberg; 1867-1898 at the agricultural college at Poppelsdorf near Bonn as successor to Julius Sachs. (*Körn.*).
+Körnicke, Friedrich August (1828-1908), German botanist; 1849 assistant curator at the Berlin herbarium; 1856 at St. Petersburg; Dr. phil. berol. 1856; 1859-1867 lecturer, later professor, at Waldau agricultural college near Königsberg; 1867-1898 at the agricultural college at Poppelsdorf near Bonn as successor to Julius Sachs. 
+**Abbreviated name**: *Körn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103683#page/381/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33212413) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Titius, Pius \[Pio\] Vendei (1801-1884), Hungaran botanist and clergyman; Franciscan priest from Arad; teacher at Löcse (Levoca) 1828, later in Kézdivásárhely; from 1838-1852 army chaplain; from 1860 living in Pirano (Istria); collected algae in the Adriatic. (*P. Titius*).
+Titius, Pius \[Pio\] Vendei (1801-1884), Hungaran botanist and clergyman; Franciscan priest from Arad; teacher at Löcse (Levoca) 1828, later in Kézdivásárhely; from 1838-1852 army chaplain; from 1860 living in Pirano (Istria); collected algae in the Adriatic. 
+**Abbreviated name**: *P. Titius*
 
 #### Herbarium and types
 

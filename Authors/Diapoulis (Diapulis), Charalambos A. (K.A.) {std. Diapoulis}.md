@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103833#page/296/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33259330) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diapoulis \[Diapulis\], Charalambos A. \["K.A."\] (fl. 1933-1958), Greek professor of systematic botany at the University of Athens. (*Diapoulis*).
+Diapoulis \[Diapulis\], Charalambos A. \["K.A."\] (fl. 1933-1958), Greek professor of systematic botany at the University of Athens. 
+**Abbreviated name**: *Diapoulis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/item/103683#page/710/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33212742) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ventenat, Étienne Pierre (1757-1808), French clergyman (canonicus of St. Géneviève), librarian and botanist; librarian of his congregation and also lecturing on botany; remained in charge of this library after its nationalization during the French revolution, becoming the library of the Panthéon. (*Venten.*).
+Ventenat, Étienne Pierre (1757-1808), French clergyman (canonicus of St. Géneviève), librarian and botanist; librarian of his congregation and also lecturing on botany; remained in charge of this library after its nationalization during the French revolution, becoming the library of the Panthéon. 
+**Abbreviated name**: *Venten.*
 
 #### Herbarium and types
 

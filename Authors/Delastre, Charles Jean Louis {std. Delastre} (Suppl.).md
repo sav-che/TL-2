@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103833#page/184/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33259218) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delastre, Charles Jean Louis {std. Delastre}|first entry]] for this author
 
 ### Author
 
-\* Delastre, Charles Jean Louis (1792-1859), French "sous-préfet" and botanist, born at Paris 17 Nov 1792, died Poitiers 17 Aug 1859, studied at the Faculté de Droit at Poitiers, "Maire" at St.-Benoît 1828, "sous-préfet" Loudun 14 Sep 1830, id. Gien 1841, Melle 1845, démissionaire 1848, moved to Chiré-en-Montrueil (Vienne) from 15 Aug 1843. (*Delastre*).
+\* Delastre, Charles Jean Louis (1792-1859), French "sous-préfet" and botanist, born at Paris 17 Nov 1792, died Poitiers 17 Aug 1859, studied at the Faculté de Droit at Poitiers, "Maire" at St.-Benoît 1828, "sous-préfet" Loudun 14 Sep 1830, id. Gien 1841, Melle 1845, démissionaire 1848, moved to Chiré-en-Montrueil (Vienne) from 15 Aug 1843. 
+**Abbreviated name**: *Delastre*
 
 #### Herbarium and types
 

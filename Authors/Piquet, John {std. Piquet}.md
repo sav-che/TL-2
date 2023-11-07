@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103624#page/286/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piquet, John (1825-1912), British pharmaceutical chemist and botanist at St. Hélier, Jersey. (*Piquet*).
+Piquet, John (1825-1912), British pharmaceutical chemist and botanist at St. Hélier, Jersey. 
+**Abbreviated name**: *Piquet*
 
 #### Herbarium and types
 

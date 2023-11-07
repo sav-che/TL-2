@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/item/103834#page/385/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33259867) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fowler, James (Rev.) (1829-1923), Canadian minister and botanist, born 16 Jul 1829 in Bartibog, New Brunswick, attended grammar school in Chatham, New Brunswick, studied at Halifax, Nova Scotia 1850, ordained in Black River, New Brunswick 1857, moved to Bass River, New Brunswick 1862, resigned ministry owing to chronic laryngitis 1876, Science Master at Prov. Normal School, Fredericton, New Brunswick 1878, lecturer in natural sciences, Queens Univ., Kingston, Ontario 1880-1891, Prof. of Bot. 1894-1908, LL.D., Fellow of the Royal Society of Canada, died 11 Jan 1923. (*J. Fowler*).
+Fowler, James (Rev.) (1829-1923), Canadian minister and botanist, born 16 Jul 1829 in Bartibog, New Brunswick, attended grammar school in Chatham, New Brunswick, studied at Halifax, Nova Scotia 1850, ordained in Black River, New Brunswick 1857, moved to Bass River, New Brunswick 1862, resigned ministry owing to chronic laryngitis 1876, Science Master at Prov. Normal School, Fredericton, New Brunswick 1878, lecturer in natural sciences, Queens Univ., Kingston, Ontario 1880-1891, Prof. of Bot. 1894-1908, LL.D., Fellow of the Royal Society of Canada, died 11 Jan 1923. 
+**Abbreviated name**: *J. Fowler*
 
 #### Herbarium and types
 

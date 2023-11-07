@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/103835#page/323/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33260301) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ellis, John {std. J. Ellis}|first entry]] for this author
 
 ### Author
 
-\* Ellis, John (± 1705-1776), Irish-born merchant in London, agent for West Florida 1764, for Dominica 1770, imported many American seeds and was particularly interested in the transportation of plants and seeds, corresponded with Linnaeus, died 15 Oct 1776 in London. (*J. Ellis*).
+\* Ellis, John (± 1705-1776), Irish-born merchant in London, agent for West Florida 1764, for Dominica 1770, imported many American seeds and was particularly interested in the transportation of plants and seeds, corresponded with Linnaeus, died 15 Oct 1776 in London. 
+**Abbreviated name**: *J. Ellis*
 
 #### Herbarium and types
 

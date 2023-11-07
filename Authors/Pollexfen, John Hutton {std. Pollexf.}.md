@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/item/103624#page/344/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33189801) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pollexfen, John Hutton (1813-1899), British physician and algologist; MD Edinburgh 1835, B.A. Cantab. 1843; ordained 1844, from then on clergyman at Colchester, East Wetton and from 1874-1899 vicar at the parish of Middleton Tyas. (*Pollexf.*).
+Pollexfen, John Hutton (1813-1899), British physician and algologist; MD Edinburgh 1835, B.A. Cantab. 1843; ordained 1844, from then on clergyman at Colchester, East Wetton and from 1874-1899 vicar at the parish of Middleton Tyas. 
+**Abbreviated name**: *Pollexf.*
 
 #### Herbarium and types
 

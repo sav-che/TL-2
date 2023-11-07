@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103859#page/351/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265538) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Born, Amandus Albert Oswald (1861-1920), German (Brandenburg, Pritzwald born), educated at the Herbst'sche Schule in Berlin and the Luisenstädtische Gewerbeschule, studied at the University of Berlin 1881-1886, Dr. phil. 1886 (with Schwendener), teacher at the Luisenstädtische Oberrealschule from 1892. (*A. Born*).
+Born, Amandus Albert Oswald (1861-1920), German (Brandenburg, Pritzwald born), educated at the Herbst'sche Schule in Berlin and the Luisenstädtische Gewerbeschule, studied at the University of Berlin 1881-1886, Dr. phil. 1886 (with Schwendener), teacher at the Luisenstädtische Oberrealschule from 1892. 
+**Abbreviated name**: *A. Born*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103624#page/431/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33189888) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prokhanov, Yaroslav Ivanovich (1902-1965), Russian botanist; Dr. phil. Leningrad 1924; assistant at the Leningrad botanical garden 1925-1929; on botanical expedition to Mongolia 1926; assistant at the Institute of plant industry 1929. (*Prokh.*).
+Prokhanov, Yaroslav Ivanovich (1902-1965), Russian botanist; Dr. phil. Leningrad 1924; assistant at the Leningrad botanical garden 1925-1929; on botanical expedition to Mongolia 1926; assistant at the Institute of plant industry 1929. 
+**Abbreviated name**: *Prokh.*
 
 #### Herbarium and types
 

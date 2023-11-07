@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/103683#page/780/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33212812) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogl, Balthasar (*fl*. 1888), Austrian botanist and high school teacher at Salzburg. (*B. Vogl*).
+Vogl, Balthasar (*fl*. 1888), Austrian botanist and high school teacher at Salzburg. 
+**Abbreviated name**: *B. Vogl*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103832#page/146/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33258612) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gassner, \[Johann\] Gustav (1881-1955), German botanist esp. interested in plant pathology, born 17 Jan 1881 in Berlin, Ph.D. 1906 Berlin, prof. of botany and plant pathology, Agricultural Univ. of Montevideo, Uruguay 1907, returned to Germany 1910, Univ. of Kiel 1911, assoc. prof., Univ. of Rostock 1915, prof. of Botany, Univ. of Braunschweig 1918, dir., "Türkischen Pflanzenschutzdienst" in Ankara, Turkey 1934-1939, rector, Univ. of Braunschweig 1945, dr. h.c. Univ. of Göttingen, died 5 Feb 1955 in Lüneburg (Lower Saxony). (*Gassner*).
+Gassner, \[Johann\] Gustav (1881-1955), German botanist esp. interested in plant pathology, born 17 Jan 1881 in Berlin, Ph.D. 1906 Berlin, prof. of botany and plant pathology, Agricultural Univ. of Montevideo, Uruguay 1907, returned to Germany 1910, Univ. of Kiel 1911, assoc. prof., Univ. of Rostock 1915, prof. of Botany, Univ. of Braunschweig 1918, dir., "Türkischen Pflanzenschutzdienst" in Ankara, Turkey 1934-1939, rector, Univ. of Braunschweig 1945, dr. h.c. Univ. of Göttingen, died 5 Feb 1955 in Lüneburg (Lower Saxony). 
+**Abbreviated name**: *Gassner*
 
 #### Herbarium and types
 

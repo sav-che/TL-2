@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103624#page/58/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33189477) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pandé, S.K. (1899-1960), Indian bryologist; D. Sc. Lucknow 1936; from 1899-1959, demonstrator, professor of botany at Lucknow and chairman of the Department of Botany of Saugar University. (*Pandé*).
+Pandé, S.K. (1899-1960), Indian bryologist; D. Sc. Lucknow 1936; from 1899-1959, demonstrator, professor of botany at Lucknow and chairman of the Department of Botany of Saugar University. 
+**Abbreviated name**: *Pandé*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103683#page/209/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33212241) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tehon, Leo Roy (1895-1954), American phytopathologist and botanist; M.A. Univ. Illinois 1920; Dr. phil. id. 1934; student of F.L. Stevenson; assistant in botany, Univ. of Wyoming 1915-1916; id. Univ. Illiniois 1916-1917, 1924-1925; botany teacher Arsenal Technical School Indianapolis, Indiana 1917-1918; asst. plant pathologist USDA 1919-1920, 1921-1922; with Mount Arbor Nurseries, Shenandoa, Iowa 1920-1921; botanist in charge of the Botanical Section, Illinois State Natural History Survey 1921-1954; research professor in plant pathology Univ. Illinois 1947-1954. (*Tehon*).
+Tehon, Leo Roy (1895-1954), American phytopathologist and botanist; M.A. Univ. Illinois 1920; Dr. phil. id. 1934; student of F.L. Stevenson; assistant in botany, Univ. of Wyoming 1915-1916; id. Univ. Illiniois 1916-1917, 1924-1925; botany teacher Arsenal Technical School Indianapolis, Indiana 1917-1918; asst. plant pathologist USDA 1919-1920, 1921-1922; with Mount Arbor Nurseries, Shenandoa, Iowa 1920-1921; botanist in charge of the Botanical Section, Illinois State Natural History Survey 1921-1954; research professor in plant pathology Univ. Illinois 1947-1954. 
+**Abbreviated name**: *Tehon*
 
 #### Herbarium and types
 

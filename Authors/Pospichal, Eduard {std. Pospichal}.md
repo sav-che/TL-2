@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103624#page/363/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33189820) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pospichal, Eduard (1838-1905), Bohemian-born Austrian botanist, sometime teacher at Litomyšl and, longtime at Triest. (*Pospichal*).
+Pospichal, Eduard (1838-1905), Bohemian-born Austrian botanist, sometime teacher at Litomyšl and, longtime at Triest. 
+**Abbreviated name**: *Pospichal*
 
 #### Herbarium and types
 

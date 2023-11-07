@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/103683#page/745/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33212777) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vigneux, A. (*fl*. 1812), French botanical artist. (*Vigneux*).
+Vigneux, A. (*fl*. 1812), French botanical artist. 
+**Abbreviated name**: *Vigneux*
 
 #### Herbarium and types
 

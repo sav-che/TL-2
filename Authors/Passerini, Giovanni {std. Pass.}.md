@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103624#page/105/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33189562) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Passerini, Giovanni (1816-1893), Italian botanist; Dr. med. Parma 1836; at Milano 1843-1844; from 1844-1849 and 1853-1893 professor of botany and director of the botanical garden at Parma. (*Pass.*).
+Passerini, Giovanni (1816-1893), Italian botanist; Dr. med. Parma 1836; at Milano 1843-1844; from 1844-1849 and 1853-1893 professor of botany and director of the botanical garden at Parma. 
+**Abbreviated name**: *Pass.*
 
 #### Herbarium and types
 

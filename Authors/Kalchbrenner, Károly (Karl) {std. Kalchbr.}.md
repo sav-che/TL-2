@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/item/103253#page/511/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kalchbrenner, Károly (Karl) (1807-1886), Austro-Hungarian clergyman and mycologist; studied at Halle; later clergyman at Szepes-Olaszi (Zips, Wallendorf). (*Kalchbr.*).
+Kalchbrenner, Károly (Karl) (1807-1886), Austro-Hungarian clergyman and mycologist; studied at Halle; later clergyman at Szepes-Olaszi (Zips, Wallendorf). 
+**Abbreviated name**: *Kalchbr.*
 
 #### Herbarium and types
 

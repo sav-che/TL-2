@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/103414#page/361/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33120444) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breda, Jacob Gijsbert Samuel van (1788-1867), Dutch palaeontologist and botanist. (*Breda*).
+Breda, Jacob Gijsbert Samuel van (1788-1867), Dutch palaeontologist and botanist. 
+**Abbreviated name**: *Breda*
 
 #### Herbarium and types
 

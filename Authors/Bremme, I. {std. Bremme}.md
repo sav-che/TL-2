@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103861#page/66/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33266363) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bremme, I. (fl. 1886), German teacher at the Grossherzoglichen Realschule in Oppenheim am Rhein, Hessen, subsequently teacher at the State Gymnasium ib. and active with the archives of Darmstadt and Oppenheim. (*Bremme*).
+Bremme, I. (fl. 1886), German teacher at the Grossherzoglichen Realschule in Oppenheim am Rhein, Hessen, subsequently teacher at the State Gymnasium ib. and active with the archives of Darmstadt and Oppenheim. 
+**Abbreviated name**: *Bremme*
 
 #### Herbarium and types
 

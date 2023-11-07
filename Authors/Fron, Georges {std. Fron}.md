@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103832#page/74/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33258540) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fron, Georges (1870-1957), French agronomist and mycologist, born 20 Feb 1870 in Paris, agron. engineer 1891, at the Jardin colonial in Nogent-sur-Marne, Dr. ès-sciences 1899 Paris, served in W.W.-I, and after demobilization returned to the Paris Inst. Agronomique 1921, prof. of plant pathology, then of applied botany, president of the Société Botanique de France and the Société Mycologique de France, died 15 Dec 1957 in Paris. (*Fron*).
+Fron, Georges (1870-1957), French agronomist and mycologist, born 20 Feb 1870 in Paris, agron. engineer 1891, at the Jardin colonial in Nogent-sur-Marne, Dr. ès-sciences 1899 Paris, served in W.W.-I, and after demobilization returned to the Paris Inst. Agronomique 1921, prof. of plant pathology, then of applied botany, president of the Société Botanique de France and the Société Mycologique de France, died 15 Dec 1957 in Paris. 
+**Abbreviated name**: *Fron*
 
 #### Herbarium and types
 

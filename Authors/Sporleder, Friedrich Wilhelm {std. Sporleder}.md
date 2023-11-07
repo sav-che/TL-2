@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/item/104077#page/810/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33333935) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sporleder, Friedrich Wilhelm (1787-1875), German (Prussian-Saxony) botanist; studied law and botany at Göttingen; government administrator at Wernigerode from 1815. (*Sporleder*).
+Sporleder, Friedrich Wilhelm (1787-1875), German (Prussian-Saxony) botanist; studied law and botany at Göttingen; government administrator at Wernigerode from 1815. 
+**Abbreviated name**: *Sporleder*
 
 #### Herbarium and types
 

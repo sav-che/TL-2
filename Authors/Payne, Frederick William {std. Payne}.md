@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/item/103624#page/140/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33189597) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Payne, Frederick William (1852-1927), British diatomist; schoolmaster at the Brighton Grammar School 1873-1876; at the City of London School, 1876-1919; BA London 1871. (*Payne*).
+Payne, Frederick William (1852-1927), British diatomist; schoolmaster at the Brighton Grammar School 1873-1876; at the City of London School, 1876-1919; BA London 1871. 
+**Abbreviated name**: *Payne*
 
 #### Herbarium and types
 

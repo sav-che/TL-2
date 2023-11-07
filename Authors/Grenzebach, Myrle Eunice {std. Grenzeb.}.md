@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/item/103832#page/386/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33258852) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grenzebach, Myrle Eunice (1902-1986), American botanist, born 20 Jun 1902, A.B. 1924 Oberlin College, Oberlin, Ohio, M.Sc. 1925 Washington Univ., St. Louis, Missouri (under J.M. Greenman), married Lawrence Dewey Sherod (1898-1984) and became a housewife in Ohio, died Oct 1986 in Ohio. (*Grenzeb.*).
+Grenzebach, Myrle Eunice (1902-1986), American botanist, born 20 Jun 1902, A.B. 1924 Oberlin College, Oberlin, Ohio, M.Sc. 1925 Washington Univ., St. Louis, Missouri (under J.M. Greenman), married Lawrence Dewey Sherod (1898-1984) and became a housewife in Ohio, died Oct 1986 in Ohio. 
+**Abbreviated name**: *Grenzeb.*
 
 #### Herbarium and types
 

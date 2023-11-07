@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103861#page/287/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33266584) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buser, Robert {std. Buser}|first entry]] for this author
 
 ### Author
 
-\* Buser, Robert (1857-1931), Swiss (from the Aargau) botanist, educated at the Gymnasium of Aarau, studied at the University of Genève (with Jean Müller Arg.), Zürich (with Oswald Heer) and at Strassbourg (with A. de Bary), curator of the herbarium of de Candolle. (*Buser*).
+\* Buser, Robert (1857-1931), Swiss (from the Aargau) botanist, educated at the Gymnasium of Aarau, studied at the University of Genève (with Jean Müller Arg.), Zürich (with Oswald Heer) and at Strassbourg (with A. de Bary), curator of the herbarium of de Candolle. 
+**Abbreviated name**: *Buser*
 
 #### Herbarium and types
 

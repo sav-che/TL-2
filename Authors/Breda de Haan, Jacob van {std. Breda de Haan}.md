@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103861#page/56/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33266353) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breda de Haan, Jacob van (1866-1917), Dutch agriculturist, studied at the University of Leiden, Dr. phil. ib. 1891, employed by the Sugar Experiment Station at Kagok-Tegal, Semarang 1892, later agricultural inspector in Java, stationed at Buitenzorg (Bogor). (*Breda de Haan*).
+Breda de Haan, Jacob van (1866-1917), Dutch agriculturist, studied at the University of Leiden, Dr. phil. ib. 1891, employed by the Sugar Experiment Station at Kagok-Tegal, Semarang 1892, later agricultural inspector in Java, stationed at Buitenzorg (Bogor). 
+**Abbreviated name**: *Breda de Haan*
 
 #### Herbarium and types
 

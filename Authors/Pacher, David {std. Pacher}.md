@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103624#page/16/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33189513) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pacher, David (1816-1902), Austrian clergyman and botanist; ord. 29 Jul 1840; in various clergical ranks in Carinthia 1841-1902, at Leoben ober Gmünd 1840-1843, Glödnitz and St. Lorenzen 1843-1845, at Sagritz 1845-1851, at Tröppolach 1851-1861, at Tiffen 1861-1875, from 1875-1902 dean at Obervellach. (*Pacher*).
+Pacher, David (1816-1902), Austrian clergyman and botanist; ord. 29 Jul 1840; in various clergical ranks in Carinthia 1841-1902, at Leoben ober Gmünd 1840-1843, Glödnitz and St. Lorenzen 1843-1845, at Sagritz 1845-1851, at Tröppolach 1851-1861, at Tiffen 1861-1875, from 1875-1902 dean at Obervellach. 
+**Abbreviated name**: *Pacher*
 
 #### Herbarium and types
 

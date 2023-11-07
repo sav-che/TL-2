@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103835#page/193/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33260171) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durand, Herbert (1858-1944), American journalist and botanist, born 1 Jul 1858, Malone, New York, at Union College non-grad, worked for many news papers, New York Times 1880, Louisville Commercial 1880-1881, Louisville Courier-Journal 1881-1883, St. Louis Globe Democrat 1883-1885, Wabash RR 1885-1896, editor for commercial printing house in St. Louis, returned to New York, contributions to magazines, e.g. House & Garden, died 30 Dec 1944 at Bronxville, New York. (*Herb. Durand*).
+Durand, Herbert (1858-1944), American journalist and botanist, born 1 Jul 1858, Malone, New York, at Union College non-grad, worked for many news papers, New York Times 1880, Louisville Commercial 1880-1881, Louisville Courier-Journal 1881-1883, St. Louis Globe Democrat 1883-1885, Wabash RR 1885-1896, editor for commercial printing house in St. Louis, returned to New York, contributions to magazines, e.g. House & Garden, died 30 Dec 1944 at Bronxville, New York. 
+**Abbreviated name**: *Herb. Durand*
 
 #### Herbarium and types
 

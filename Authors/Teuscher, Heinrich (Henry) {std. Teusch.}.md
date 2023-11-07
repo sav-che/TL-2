@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/103683#page/239/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33212271) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teuscher, Heinrich \[Henry\] (1891-1984), German gardener and botanist (dendrologist, orchidologist); student gardener at Berlin-Dahlem until 1914; on active service 1914-1918; landscape architect Hamburg 1918; gardener Berlin-Dahlem 1919-1921; to the United States 1922 (naturalized U.S. citizen 1932); with the Arnold Arboretum 1922-1923; botanist in charge Morton Arboretum 1923-1926; with Boyce Thompson Arboretum 1926-1932; with New York Botanical Garden 1932-1936; curator Botanical Garden Montreal 1936-1972. (*Teusch.*).
+Teuscher, Heinrich \[Henry\] (1891-1984), German gardener and botanist (dendrologist, orchidologist); student gardener at Berlin-Dahlem until 1914; on active service 1914-1918; landscape architect Hamburg 1918; gardener Berlin-Dahlem 1919-1921; to the United States 1922 (naturalized U.S. citizen 1932); with the Arnold Arboretum 1922-1923; botanist in charge Morton Arboretum 1923-1926; with Boyce Thompson Arboretum 1926-1932; with New York Botanical Garden 1932-1936; curator Botanical Garden Montreal 1936-1972. 
+**Abbreviated name**: *Teusch.*
 
 #### Herbarium and types
 

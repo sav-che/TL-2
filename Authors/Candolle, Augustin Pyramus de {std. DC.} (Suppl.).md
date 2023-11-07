@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/103861#page/388/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33266685) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Candolle, Augustin Pyramus de {std. DC.}|first entry]] for this author
 
 ### Author
 
-\* Candolle, Augustin Pyramus de (1778-1841), Swiss (Genève) botanist, born at Genève of a family of origin from the Provence, studied at the Genève Académie 1792, student of Vaucher, in Paris meeting the Paris botanists 1796-1808, professor of botany at Montpellier 1808-1816 at the school of medicine and the Science Faculty, from 1816 at Genève "professeur honoraire" at the Académie de Genève, created a botanical garden at the "Bastions", independent scientist, active in politics and in the "Corps représentatif du pays" from 1816-1841. (*DC.*).
+\* Candolle, Augustin Pyramus de (1778-1841), Swiss (Genève) botanist, born at Genève of a family of origin from the Provence, studied at the Genève Académie 1792, student of Vaucher, in Paris meeting the Paris botanists 1796-1808, professor of botany at Montpellier 1808-1816 at the school of medicine and the Science Faculty, from 1816 at Genève "professeur honoraire" at the Académie de Genève, created a botanical garden at the "Bastions", independent scientist, active in politics and in the "Corps représentatif du pays" from 1816-1841. 
+**Abbreviated name**: *DC.*
 
 #### Herbarium and types
 

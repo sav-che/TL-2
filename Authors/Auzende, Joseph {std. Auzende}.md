@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103858#page/228/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33264943) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Auzende, Joseph (1802-1876), French botanist at Toulon, at first gardener at the Botanical Garden of the Navy, Toulon; director of the municipial garden at Toulon from ca. 1840, also active in the reforestation of the Faron. (*Auzende*).
+Auzende, Joseph (1802-1876), French botanist at Toulon, at first gardener at the Botanical Garden of the Navy, Toulon; director of the municipial garden at Toulon from ca. 1840, also active in the reforestation of the Faron. 
+**Abbreviated name**: *Auzende*
 
 #### Herbarium and types
 

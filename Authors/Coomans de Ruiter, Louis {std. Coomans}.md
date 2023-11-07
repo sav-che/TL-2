@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103860#page/345/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33266012) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coomans de Ruiter, Louis (1898-1972), Dutch civil public servant, ornithologist and botanist, born 22 Mar 1898 at Makassar (Celebes), studied at Leiden University, went to Dutch East Indies in 1921, interned during Japanese occupation 1942-1945, returned to the Netherlands 1946, died at Hilversum 30 Jan 1972. (*Coomans*).
+Coomans de Ruiter, Louis (1898-1972), Dutch civil public servant, ornithologist and botanist, born 22 Mar 1898 at Makassar (Celebes), studied at Leiden University, went to Dutch East Indies in 1921, interned during Japanese occupation 1942-1945, returned to the Netherlands 1946, died at Hilversum 30 Jan 1972. 
+**Abbreviated name**: *Coomans*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103861#page/329/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33266626) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cambage, Richard Hind (1859-1928), Australian mining surveyor and botanist, born at Milton, N.S.W., started out as a teacher but qualified as a licensed surveyor with the Department of Lands 1882-1885, mining surveyor 1902-1916, chief mining surveyor 1916-1924, ultimately under the Dept. of Lands (Mines), in addition surveying at the Sydney Technical College 1909-1915, in botany mainly interested in Eucalyptus and Acacia. (*Cambage*).
+Cambage, Richard Hind (1859-1928), Australian mining surveyor and botanist, born at Milton, N.S.W., started out as a teacher but qualified as a licensed surveyor with the Department of Lands 1882-1885, mining surveyor 1902-1916, chief mining surveyor 1916-1924, ultimately under the Dept. of Lands (Mines), in addition surveying at the Sydney Technical College 1909-1915, in botany mainly interested in Eucalyptus and Acacia. 
+**Abbreviated name**: *Cambage*
 
 #### Herbarium and types
 

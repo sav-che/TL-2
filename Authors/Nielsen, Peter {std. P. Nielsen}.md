@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/item/104137#page/766/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33355837) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nielsen, Peter (1829-1897), Danish botanist, school master at Ørslev 1859-1888; in charge of the state experiments in plant culture 1877-1898; government consulting agriculturist from 1885. (*P. Nielsen*).
+Nielsen, Peter (1829-1897), Danish botanist, school master at Ørslev 1859-1888; in charge of the state experiments in plant culture 1877-1898; government consulting agriculturist from 1885. 
+**Abbreviated name**: *P. Nielsen*
 
 #### Herbarium and types
 

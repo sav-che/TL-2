@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103835#page/350/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33260328) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Endriss, W. (fl. 1902), German botanist born at Göppingen. (*Endriss*).
+Endriss, W. (fl. 1902), German botanist born at Göppingen. 
+**Abbreviated name**: *Endriss*
 
 #### Herbarium and types
 

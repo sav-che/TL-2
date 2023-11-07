@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103861#page/196/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33266493) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchanan, John (1819-1898), English botanist and geologist active in New Zealand from 1859, botanist to the Geological Survey of Otago, draughtsman and botanist with the Geological Survey of New Zealand 1866 at Wellington (*Buchanan*).
+Buchanan, John (1819-1898), English botanist and geologist active in New Zealand from 1859, botanist to the Geological Survey of Otago, draughtsman and botanist with the Geological Survey of New Zealand 1866 at Wellington 
+**Abbreviated name**: *Buchanan*
 
 #### Herbarium and types
 

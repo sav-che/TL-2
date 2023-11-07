@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103683#page/218/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33212250) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Temple, Augusta A. (*fl*. 1907), British author on the flowers of Palestine. (*A. Temple*).
+Temple, Augusta A. (*fl*. 1907), British author on the flowers of Palestine. 
+**Abbreviated name**: *A. Temple*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/item/104137#page/630/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33355701) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mühlenbach, Viktor (1898-x), Latvian bacteriologist, physician and botanist; Dr. Med. Riga of Dorpat 1933; habil. Riga 1936; emigrated to the U.S.A 1951; from 1953 associated with the Missouri Botanical Garden and actively interested in the adventive flora of St. Louis. (*Mühlenbach*).
+Mühlenbach, Viktor (1898-x), Latvian bacteriologist, physician and botanist; Dr. Med. Riga of Dorpat 1933; habil. Riga 1936; emigrated to the U.S.A 1951; from 1953 associated with the Missouri Botanical Garden and actively interested in the adventive flora of St. Louis. 
+**Abbreviated name**: *Mühlenbach*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/item/103253#page/855/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33069071) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leitner, Edward Frederick \[baptized: Frederick August Ludwig\] (1812-1838), German physician and botanist who studied at Tübingen and who left for the United States 1831 to settle at Charleston, S. C.; died from shotwounds on a military expedition to Florida. (*Leitn.*).
+Leitner, Edward Frederick \[baptized: Frederick August Ludwig\] (1812-1838), German physician and botanist who studied at Tübingen and who left for the United States 1831 to settle at Charleston, S. C.; died from shotwounds on a military expedition to Florida. 
+**Abbreviated name**: *Leitn.*
 
 #### Herbarium and types
 

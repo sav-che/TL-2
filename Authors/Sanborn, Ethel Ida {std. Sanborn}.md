@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/item/104077#page/39/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33333126) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sanborn, Ethel Ida (1883-1952), American botanist; born at Goodwin, S. Dakota; A.M. S. Dakota 1907; Dr. phil. Stanford 1928; high school teacher in S. Dakota 1904-1906, in Minnesota 1907-1909; curator herbarium University of Oregon 1914-1917; instructor in botany ib. 1918-1927; assist. professor 1928-1932; at Oregon State College \[University\] 1932-1933; assoc. professor 1933-1948. (*Sanborn*).
+Sanborn, Ethel Ida (1883-1952), American botanist; born at Goodwin, S. Dakota; A.M. S. Dakota 1907; Dr. phil. Stanford 1928; high school teacher in S. Dakota 1904-1906, in Minnesota 1907-1909; curator herbarium University of Oregon 1914-1917; instructor in botany ib. 1918-1927; assist. professor 1928-1932; at Oregon State College \[University\] 1932-1933; assoc. professor 1933-1948. 
+**Abbreviated name**: *Sanborn*
 
 #### Herbarium and types
 

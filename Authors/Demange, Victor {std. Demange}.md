@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103833#page/206/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33259240) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Demange, Victor (active 1900-1928), French mycologist, lichenologist and bryologist, collected in Indochina 1903-1912, in China 1913-1914. (*Demange*).
+Demange, Victor (active 1900-1928), French mycologist, lichenologist and bryologist, collected in Indochina 1903-1912, in China 1913-1914. 
+**Abbreviated name**: *Demange*
 
 #### Herbarium and types
 

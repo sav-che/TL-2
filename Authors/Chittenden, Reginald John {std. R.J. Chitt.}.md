@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103860#page/122/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33265789) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chittenden, Reginald John (1901-x), British botanist, studied at the University of London, B.Sc. 1912, D.Sc. 1925. (*R.J. Chitt.*).
+Chittenden, Reginald John (1901-x), British botanist, studied at the University of London, B.Sc. 1912, D.Sc. 1925. 
+**Abbreviated name**: *R.J. Chitt.*
 
 #### Herbarium and types
 

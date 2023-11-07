@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/104137#page/273/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maire, René Charles Joseph Ernest (1878-1949), French botanist; Dr. Sci. Paris 1902; originally at Dijon; "préparateur" at Nancy (1898-1908); "maître de conférences" at Caen (1908-1911); from 1911 professor of botany at the University of Algeria; Dr. med. Alger 1930, Dr. h.c. Athens 1936 (*Maire*).
+Maire, René Charles Joseph Ernest (1878-1949), French botanist; Dr. Sci. Paris 1902; originally at Dijon; "préparateur" at Nancy (1898-1908); "maître de conférences" at Caen (1908-1911); from 1911 professor of botany at the University of Algeria; Dr. med. Alger 1930, Dr. h.c. Athens 1936 
+**Abbreviated name**: *Maire*
 
 #### Herbarium and types
 

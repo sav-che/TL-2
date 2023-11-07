@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103833#page/154/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33259188) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-De Crespigny, Eyre Champion (1821-1895), Swiss botanist, born at Vevey, Switzerland 5 Mai 1821, died at Beckenham, Kent 15 Feb 1895, M.D. at Heidelberg, in India 1845-1862, Conservator of Forests and Supt. Bot. Gard. Dapsorie, Poona 1859. (*De Crespigny*).
+De Crespigny, Eyre Champion (1821-1895), Swiss botanist, born at Vevey, Switzerland 5 Mai 1821, died at Beckenham, Kent 15 Feb 1895, M.D. at Heidelberg, in India 1845-1862, Conservator of Forests and Supt. Bot. Gard. Dapsorie, Poona 1859. 
+**Abbreviated name**: *De Crespigny*
 
 #### Herbarium and types
 

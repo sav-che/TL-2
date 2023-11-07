@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103835#page/259/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebermaier, Johann Erdwin Christoph (1768-1825), German pharmacist and physician, father of Carl Heinrich Ebermaier (see above), born 19 Apr 1768 at Melle near Osnabrück, studied pharmacy in Bremen and medicine in Göttingen, Dr. med. Göttingen 1797, "Hofrat" in Rheda, lived in Göttingen, Dortmund, Cleve and Düsseldorf, died 21 Feb 1825 at Düsseldorf. (*Eberm.*).
+Ebermaier, Johann Erdwin Christoph (1768-1825), German pharmacist and physician, father of Carl Heinrich Ebermaier (see above), born 19 Apr 1768 at Melle near Osnabrück, studied pharmacy in Bremen and medicine in Göttingen, Dr. med. Göttingen 1797, "Hofrat" in Rheda, lived in Göttingen, Dortmund, Cleve and Düsseldorf, died 21 Feb 1825 at Düsseldorf. 
+**Abbreviated name**: *Eberm.*
 
 #### Herbarium and types
 

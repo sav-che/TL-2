@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103624#page/67/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33189486) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pappe, Karl \[Carl\] Wilhelm Ludwig (1803-1862), German-born (Hamburg) South African botanist; Dr. med. Leipzig 1827; to South Africa 1835 as practicing physician; colonial botanist from 1848. (*Pappe*).
+Pappe, Karl \[Carl\] Wilhelm Ludwig (1803-1862), German-born (Hamburg) South African botanist; Dr. med. Leipzig 1827; to South Africa 1835 as practicing physician; colonial botanist from 1848. 
+**Abbreviated name**: *Pappe*
 
 #### Herbarium and types
 

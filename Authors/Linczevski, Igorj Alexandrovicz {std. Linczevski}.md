@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/104137#page/38/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33355105) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linczevski, Igorj Alexandrovicz (1908-x), Russian botanist and botanical explorer, collected in central Asia 1925-1950 and south-west China (1955-1956); co-author of the Flora URSS; specialist on botanical nomenelature. (*Linczevski*).
+Linczevski, Igorj Alexandrovicz (1908-x), Russian botanist and botanical explorer, collected in central Asia 1925-1950 and south-west China (1955-1956); co-author of the Flora URSS; specialist on botanical nomenelature. 
+**Abbreviated name**: *Linczevski*
 
 #### Herbarium and types
 

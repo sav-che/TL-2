@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/104137#page/173/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33355244) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lorente y Asensi, Vicente Alfonso (1758-1813), Spanish botanist; professor of botany and director of the botanical garden at Valencia (1804-1813). (*Lorente*).
+Lorente y Asensi, Vicente Alfonso (1758-1813), Spanish botanist; professor of botany and director of the botanical garden at Valencia (1804-1813). 
+**Abbreviated name**: *Lorente*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/item/103253#page/751/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laguna y Villanueva, Máximo (1826-1902), Spanish botanist and silviculturist, director of the Escuela de Ingenieros de Montes at El Escorial. (*Laguna*).
+Laguna y Villanueva, Máximo (1826-1902), Spanish botanist and silviculturist, director of the Escuela de Ingenieros de Montes at El Escorial. 
+**Abbreviated name**: *Laguna*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/104137#page/665/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33355736) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, \[Georg Ferdinand\] Otto \["Otto"\] (1837-1917), German diatomologist; book publisher in Berlin 1862-1901; Dr. h.c. Berlin 1897. (*O. Müll.*).
+Müller, \[Georg Ferdinand\] Otto \["Otto"\] (1837-1917), German diatomologist; book publisher in Berlin 1862-1901; Dr. h.c. Berlin 1897. 
+**Abbreviated name**: *O. Müll.*
 
 #### Herbarium and types
 

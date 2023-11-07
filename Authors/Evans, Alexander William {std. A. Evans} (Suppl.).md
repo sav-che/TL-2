@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103835#page/432/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33260410) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Evans, Alexander William {std. A. Evans}|first entry]] for this author
 
 ### Author
 
-\* Evans, Alexander William (1868-1959), American botanist (hepaticologist, lichenologist and bryologist), born 17 Mai 1868 in Buffalo, N.Y., educated at the Sheffield Scientific School at Yale until 1890, M.D. from Yale Medical School 1892, never practised medicine, turned to botany, visited Germany (Berlin) in 1894-1895 for botanical studies, was instructor in botany at Yale 1895-1901, Ph.D. in 1899, assistant professor 1901-1906, Daniel Cady Eaton professor 1906-1936, professor emeritus 1936-1859, died 6 Dec 1959 at New Haven, Conn. (*A. Evans*).
+\* Evans, Alexander William (1868-1959), American botanist (hepaticologist, lichenologist and bryologist), born 17 Mai 1868 in Buffalo, N.Y., educated at the Sheffield Scientific School at Yale until 1890, M.D. from Yale Medical School 1892, never practised medicine, turned to botany, visited Germany (Berlin) in 1894-1895 for botanical studies, was instructor in botany at Yale 1895-1901, Ph.D. in 1899, assistant professor 1901-1906, Daniel Cady Eaton professor 1906-1936, professor emeritus 1936-1859, died 6 Dec 1959 at New Haven, Conn. 
+**Abbreviated name**: *A. Evans*
 
 #### Herbarium and types
 

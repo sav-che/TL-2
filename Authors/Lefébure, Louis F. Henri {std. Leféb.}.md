@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/item/103253#page/839/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33069055) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lefébure, Louis F. Henri (1754-1839), French botanist; sous-préfet at Verdun until 1814. (*Leféb.*).
+Lefébure, Louis F. Henri (1754-1839), French botanist; sous-préfet at Verdun until 1814. 
+**Abbreviated name**: *Leféb.*
 
 #### Herbarium and types
 

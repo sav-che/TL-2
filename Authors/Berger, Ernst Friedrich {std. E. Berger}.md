@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/103414#page/235/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33120318) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berger, Ernst Friedrich (1814-1853), German commercial plant collector and distributor at Kitzingen am Main. (*E. Berger*).
+Berger, Ernst Friedrich (1814-1853), German commercial plant collector and distributor at Kitzingen am Main. 
+**Abbreviated name**: *E. Berger*
 
 #### Herbarium and types
 

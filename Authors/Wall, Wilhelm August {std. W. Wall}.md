@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103250#page/93/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33066373) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wall, Wilhelm August (1813-1861), Swedish teacher and botanist; Dr. phil. Uppsala 1839; teacher at Västerås gymnasium 1840-1850, from 1847 "Gymnasium adjunct". (*W. Wall*).
+Wall, Wilhelm August (1813-1861), Swedish teacher and botanist; Dr. phil. Uppsala 1839; teacher at Västerås gymnasium 1840-1850, from 1847 "Gymnasium adjunct". 
+**Abbreviated name**: *W. Wall*
 
 #### Herbarium and types
 

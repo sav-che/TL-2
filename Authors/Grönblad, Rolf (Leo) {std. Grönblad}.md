@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/item/103832#page/415/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33258881) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grönblad, Rolf \[Leo\] (1895-1962), Finnish dentist and desmidologist, born 24 Sep 1895 in Vaasa, graduated Helsinki Finnish Normal Lyceum 1914, visited Eastern Carelia (Russia) as a member of a military exped. 1918, Candidate 1920 and Licentiate of Odontology 1922 Univ. of Helsinki, practiced dentistry in s. Finland, member, Intl. Committee Nomencl. Alg., Dr. h.c. 1950 Univ. of Helsinki, died 20 Apr 1962 in Tammisaari. (*Grönblad*).
+Grönblad, Rolf \[Leo\] (1895-1962), Finnish dentist and desmidologist, born 24 Sep 1895 in Vaasa, graduated Helsinki Finnish Normal Lyceum 1914, visited Eastern Carelia (Russia) as a member of a military exped. 1918, Candidate 1920 and Licentiate of Odontology 1922 Univ. of Helsinki, practiced dentistry in s. Finland, member, Intl. Committee Nomencl. Alg., Dr. h.c. 1950 Univ. of Helsinki, died 20 Apr 1962 in Tammisaari. 
+**Abbreviated name**: *Grönblad*
 
 #### Herbarium and types
 

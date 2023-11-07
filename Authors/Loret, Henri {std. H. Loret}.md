@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/104137#page/176/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33355247) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loret, Henri (1811-1888), French botanist; originally from Charente-Inférieure; at Montpellier from 1860 in charge of the botanic garden and herbaria of the Université de Montpellier. (*H. Loret*).
+Loret, Henri (1811-1888), French botanist; originally from Charente-Inférieure; at Montpellier from 1860 in charge of the botanic garden and herbaria of the Université de Montpellier. 
+**Abbreviated name**: *H. Loret*
 
 #### Herbarium and types
 

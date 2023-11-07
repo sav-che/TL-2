@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/item/103683#page/572/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uechtritz, Rudolf \[Karl\] \[Carl\] Friedrich von (1838-1886), German (Silesian) botanist at Breslau; studied at the Magdalenaeum (1849-1857), Matthias-Gymnasium (1858) and University of Breslau (1858-1863); student of Goeppert, Cohn and Koerber; "Privatgelehrter", especially dedicated to systematic botany and the floristics of Silesia; travelled frequently in Central Europe between 1855-1861; founder of the Schlesische botanische Tausch-Verein; curator of the botanical collections of the Schlesische Gesellschaft für vaterländische Cultur. (*R. Uechtr.*).
+Uechtritz, Rudolf \[Karl\] \[Carl\] Friedrich von (1838-1886), German (Silesian) botanist at Breslau; studied at the Magdalenaeum (1849-1857), Matthias-Gymnasium (1858) and University of Breslau (1858-1863); student of Goeppert, Cohn and Koerber; "Privatgelehrter", especially dedicated to systematic botany and the floristics of Silesia; travelled frequently in Central Europe between 1855-1861; founder of the Schlesische botanische Tausch-Verein; curator of the botanical collections of the Schlesische Gesellschaft für vaterländische Cultur. 
+**Abbreviated name**: *R. Uechtr.*
 
 #### Herbarium and types
 

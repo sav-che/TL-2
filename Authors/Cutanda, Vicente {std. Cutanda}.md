@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/103414#page/632/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33120715) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cutanda, Vicente (1804-1866), Spanish botanist, professor of botany in Madrid. (*Cutanda*).
+Cutanda, Vicente (1804-1866), Spanish botanist, professor of botany in Madrid. 
+**Abbreviated name**: *Cutanda*
 
 #### Herbarium and types
 

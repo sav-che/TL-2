@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/103835#page/129/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33260107) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dubard, Marcel Marie Maurice (1873-1914), French botanist, studied at the Faculté des Sciences de Paris, théses 1912, professor "titulaire" of botany at the Faculté des Sciences de l'Université de Clermont-Ferrand 1912-1914. (*Dubard*).
+Dubard, Marcel Marie Maurice (1873-1914), French botanist, studied at the Faculté des Sciences de Paris, théses 1912, professor "titulaire" of botany at the Faculté des Sciences de l'Université de Clermont-Ferrand 1912-1914. 
+**Abbreviated name**: *Dubard*
 
 #### Herbarium and types
 

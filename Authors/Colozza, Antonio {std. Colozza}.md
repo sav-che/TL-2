@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/103860#page/291/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33265958) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Colozza, Antonio (fl. 1898-1900), Italian medical doctor and botanist in Roma. (*Colozza*).
+Colozza, Antonio (fl. 1898-1900), Italian medical doctor and botanist in Roma. 
+**Abbreviated name**: *Colozza*
 
 #### Herbarium and types
 

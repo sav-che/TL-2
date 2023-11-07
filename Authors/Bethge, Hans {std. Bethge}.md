@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103859#page/156/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bethge, Hans (1885-1955), German limnologist and phycologist, employed by the Bundesanstalt für Wasser-, Boden- und Lufthygiene, Berlin-Dahlem. (*Bethge*).
+Bethge, Hans (1885-1955), German limnologist and phycologist, employed by the Bundesanstalt für Wasser-, Boden- und Lufthygiene, Berlin-Dahlem. 
+**Abbreviated name**: *Bethge*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103835#page/70/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33260048) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dorn, Friedrich Otto (1888-?), German botanist born 2 Sep 1888 in Werdau i. S., "Bürgerschule" 1899, at the "Ernst-Realgymnasium" at Altenburg, studied at Universities of Jena and Leipzig until 1913, teacher at Realgymnasium at Meissen 1914, inaugural-dissertation 1916. (*F.O. Dorn*).
+Dorn, Friedrich Otto (1888-?), German botanist born 2 Sep 1888 in Werdau i. S., "Bürgerschule" 1899, at the "Ernst-Realgymnasium" at Altenburg, studied at Universities of Jena and Leipzig until 1913, teacher at Realgymnasium at Meissen 1914, inaugural-dissertation 1916. 
+**Abbreviated name**: *F.O. Dorn*
 
 #### Herbarium and types
 

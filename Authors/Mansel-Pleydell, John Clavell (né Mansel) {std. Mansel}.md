@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/104137#page/297/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33355368) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mansel-Pleydell, John Clavell \[né Mansel\] (1817-1902), British soldier, "country gentleman," and naturalist in Dorsetshire; B.A. Cantabr. 1839. (*Mansel*).
+Mansel-Pleydell, John Clavell \[né Mansel\] (1817-1902), British soldier, "country gentleman," and naturalist in Dorsetshire; B.A. Cantabr. 1839. 
+**Abbreviated name**: *Mansel*
 
 #### Herbarium and types
 

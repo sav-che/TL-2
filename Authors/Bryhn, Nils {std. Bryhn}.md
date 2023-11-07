@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103414#page/434/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33120517) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bryhn, Nils (Niels) {std. Bryhn} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bryhn, Nils (1854-1916), Norwegian physician and botanist. (*Bryhn*).
+Bryhn, Nils (1854-1916), Norwegian physician and botanist. 
+**Abbreviated name**: *Bryhn*
 
 #### Herbarium and types
 

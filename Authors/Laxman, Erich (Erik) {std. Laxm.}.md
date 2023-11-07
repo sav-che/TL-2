@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/item/103253#page/800/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33069016) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laxman, Erich \[Erik\] (1737-1796), Finnish botanist and traveller, later at Kolywan, St. Petersburg and Nertschinsk. (*Laxm.*).
+Laxman, Erich \[Erik\] (1737-1796), Finnish botanist and traveller, later at Kolywan, St. Petersburg and Nertschinsk. 
+**Abbreviated name**: *Laxm.*
 
 #### Herbarium and types
 

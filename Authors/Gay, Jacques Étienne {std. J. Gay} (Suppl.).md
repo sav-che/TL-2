@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103832#page/168/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33258634) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gay, Jacques Étienne {std. J. Gay}|first entry]] for this author
 
 ### Author
 
-\* Gay, Jacques Étienne (1786-1864), Swiss-born French botanist, born 11 Oct 1786 in Nyon (Ct. Vaud), student of Jean Gaudin in Nyon, educated at Univ. of Laussane, went to Paris 1811 where he was appointed to the offices of the Senate and the Comité des Pétitions, awarded Légion d'honneur 1824, served as an officer from the founding of the Société Botanique de France in 1854, died 16 Jan 1864 in Paris. (*J. Gay*).
+\* Gay, Jacques Étienne (1786-1864), Swiss-born French botanist, born 11 Oct 1786 in Nyon (Ct. Vaud), student of Jean Gaudin in Nyon, educated at Univ. of Laussane, went to Paris 1811 where he was appointed to the offices of the Senate and the Comité des Pétitions, awarded Légion d'honneur 1824, served as an officer from the founding of the Société Botanique de France in 1854, died 16 Jan 1864 in Paris. 
+**Abbreviated name**: *J. Gay*
 
 #### Herbarium and types
 

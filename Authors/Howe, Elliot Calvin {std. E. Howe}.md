@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/item/103253#page/373/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33068589) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howe, Elliot Calvin (1829-1899), American botanist, physician and musican, practiced at Charlotteville (N.Y), Yonkers (N.Y.) and Lansingburg (N.Y.). (*E. Howe*).
+Howe, Elliot Calvin (1829-1899), American botanist, physician and musican, practiced at Charlotteville (N.Y), Yonkers (N.Y.) and Lansingburg (N.Y.). 
+**Abbreviated name**: *E. Howe*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103835#page/424/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33260402) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Etlinger, Andreas Ernst (fl. 1777), German physician and botanist, Ph.D. at Erlangen. (*Etl.*).
+Etlinger, Andreas Ernst (fl. 1777), German physician and botanist, Ph.D. at Erlangen. 
+**Abbreviated name**: *Etl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/103683#page/202/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33212234) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, Thomas Mayne Cunninghame (1904-1983), South African-born botanist; M.S. Univ. Wisconsin 1927; Dr. phil. Univ. Toronto 1930; on the staff of the Department of botany, University of Toronto 1927-1946; professor of botany at the University of British Columbia 1946-1968; after 1968 living near Victoria. (*T.M.C. Tayl.*).
+Taylor, Thomas Mayne Cunninghame (1904-1983), South African-born botanist; M.S. Univ. Wisconsin 1927; Dr. phil. Univ. Toronto 1930; on the staff of the Department of botany, University of Toronto 1927-1946; professor of botany at the University of British Columbia 1946-1968; after 1968 living near Victoria. 
+**Abbreviated name**: *T.M.C. Tayl.*
 
 #### Herbarium and types
 

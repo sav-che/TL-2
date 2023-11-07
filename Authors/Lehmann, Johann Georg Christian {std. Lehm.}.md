@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/item/103253#page/845/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lehmann, Johann Georg Christian (1792-1860), German botanist at Hamburg; town librarian and professor of natural history at the Hamburg Johanneum (Gymnasium academicum); director of the Hamburg botanical garden. (*Lehm.*).
+Lehmann, Johann Georg Christian (1792-1860), German botanist at Hamburg; town librarian and professor of natural history at the Hamburg Johanneum (Gymnasium academicum); director of the Hamburg botanical garden. 
+**Abbreviated name**: *Lehm.*
 
 #### Herbarium and types
 

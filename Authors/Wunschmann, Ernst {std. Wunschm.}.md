@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/item/103250#page/540/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33066820) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wunschmann, Ernst (1848-?), German (Berlin) botanist and high school teacher; studied natural sciences at the Friedrich Wilhelms-Universität, Berlin 1868-1872; Dr. phil. ib. 1872; teacher at the Charlottenschule, Friedenau nr Berlin; professor's title 1895. (*Wunschm.*).
+Wunschmann, Ernst (1848-?), German (Berlin) botanist and high school teacher; studied natural sciences at the Friedrich Wilhelms-Universität, Berlin 1868-1872; Dr. phil. ib. 1872; teacher at the Charlottenschule, Friedenau nr Berlin; professor's title 1895. 
+**Abbreviated name**: *Wunschm.*
 
 #### Herbarium and types
 

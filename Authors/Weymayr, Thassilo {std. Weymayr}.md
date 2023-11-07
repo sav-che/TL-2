@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/103250#page/297/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33066577) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weymayr, Thassilo (*fl*. 1867), Austrian botanist and high school teacher at Graz, member of the Stift Admont. (*Weymayr*).
+Weymayr, Thassilo (*fl*. 1867), Austrian botanist and high school teacher at Graz, member of the Stift Admont. 
+**Abbreviated name**: *Weymayr*
 
 #### Herbarium and types
 

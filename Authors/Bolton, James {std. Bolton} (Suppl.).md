@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103859#page/306/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolton, James {std. Bolton}|first entry]] for this author
 
 ### Author
 
-\* Bolton, James (ca. 1758-1799), British (Halifax, Yorkshire) self-taught botanist, acting in the weaving trade, at Halifax, Yorkshire, especially interested in mycology, also artist and engraver for his own publications. (*Bolton*).
+\* Bolton, James (ca. 1758-1799), British (Halifax, Yorkshire) self-taught botanist, acting in the weaving trade, at Halifax, Yorkshire, especially interested in mycology, also artist and engraver for his own publications. 
+**Abbreviated name**: *Bolton*
 
 #### Herbarium and types
 

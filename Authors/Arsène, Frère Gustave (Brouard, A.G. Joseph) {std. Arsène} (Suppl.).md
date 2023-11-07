@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103858#page/184/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33264899) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arsène, Frère Gustave (also Gerfroy) (Brouard, A.G. Joseph) {std. Arsène}|first entry]] for this author
 
 ### Author
 
-\* Arsène, Frère Gustave \[also as "Gerfroy"\] (secular name: Brouard, Arsène Gustave Joseph) (1867-1938), French clergyman and botanist, collected plants in Haute-Vienne and Cantal, France in 1877 (sic), sent to Mexico 1906 at the schools of the Christian brothers at Puebla and Morelia, later (ca. 1926) teacher in the sacred Heart Training College, Las Vegas, New Mexico, U.S.A., travelling and collecting widely in New Mexico, Louisiana and Maryland. (*Arsène*).
+\* Arsène, Frère Gustave \[also as "Gerfroy"\] (secular name: Brouard, Arsène Gustave Joseph) (1867-1938), French clergyman and botanist, collected plants in Haute-Vienne and Cantal, France in 1877 (sic), sent to Mexico 1906 at the schools of the Christian brothers at Puebla and Morelia, later (ca. 1926) teacher in the sacred Heart Training College, Las Vegas, New Mexico, U.S.A., travelling and collecting widely in New Mexico, Louisiana and Maryland. 
+**Abbreviated name**: *Arsène*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/item/103253#page/614/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koch, Karl (*fl*. 1934), German high school teacher and botanist at Osnabrück. (*K. Koch Osnabr.*).
+Koch, Karl (*fl*. 1934), German high school teacher and botanist at Osnabrück. 
+**Abbreviated name**: *K. Koch Osnabr.*
 
 #### Herbarium and types
 

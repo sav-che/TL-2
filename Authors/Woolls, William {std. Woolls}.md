@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103250#page/510/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33066790) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woolls, William (1814-1893), British-born Australian school teacher, journalist and botanist; Dr. phil. Göttingen 1870 (in absentia, not h.c); emigrated to Australia 1832; assistant master at The King's School, Parramatta 1832-1836, journalist and private teacher at Sydney 1836; classical master at Sydney College, later in charge of a private school at Parramatta until 1865; took holy orders in the Church of England 1873; episcopal minister, later dean at Richmond 1873-1883; retirement at Sydney. (*Woolls*).
+Woolls, William (1814-1893), British-born Australian school teacher, journalist and botanist; Dr. phil. Göttingen 1870 (in absentia, not h.c); emigrated to Australia 1832; assistant master at The King's School, Parramatta 1832-1836, journalist and private teacher at Sydney 1836; classical master at Sydney College, later in charge of a private school at Parramatta until 1865; took holy orders in the Church of England 1873; episcopal minister, later dean at Richmond 1873-1883; retirement at Sydney. 
+**Abbreviated name**: *Woolls*
 
 #### Herbarium and types
 

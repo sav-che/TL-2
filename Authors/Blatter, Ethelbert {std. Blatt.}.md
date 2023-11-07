@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103414#page/280/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33120363) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blatter, Ethelbert, S.J. {std. Blatt.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blatter, Ethelbert (1877-1934), Indian botanist. (*Blatt.*).
+Blatter, Ethelbert (1877-1934), Indian botanist. 
+**Abbreviated name**: *Blatt.*
 
 #### Herbarium and types
 

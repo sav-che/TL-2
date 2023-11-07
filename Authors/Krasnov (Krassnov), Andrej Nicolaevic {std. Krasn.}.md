@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/item/103253#page/689/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33068905) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krasnov \[Krassnov\], Andrej Nicolaevic (1862-1914), Russian scientist at Kharkov. (*Krasn.*).
+Krasnov \[Krassnov\], Andrej Nicolaevic (1862-1914), Russian scientist at Kharkov. 
+**Abbreviated name**: *Krasn.*
 
 #### Herbarium and types
 

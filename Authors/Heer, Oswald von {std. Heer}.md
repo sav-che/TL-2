@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103253#page/149/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33068365) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heer, Oswald von (1809-1883), Swiss palaeobotanist, entomologist and theologist; from 1834 connected with the University of Zürich; from 1855 also with the ETH, professor of botany and director of the botanical garden. (*Heer*).
+Heer, Oswald von (1809-1883), Swiss palaeobotanist, entomologist and theologist; from 1834 connected with the University of Zürich; from 1855 also with the ETH, professor of botany and director of the botanical garden. 
+**Abbreviated name**: *Heer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/104137#page/197/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ludwig, Christian Friedrich (1757-1823), physician and botanist; professor of natural history and pathology at the University of Leipzig 1782-1823. (*C. F. Ludw.*).
+Ludwig, Christian Friedrich (1757-1823), physician and botanist; professor of natural history and pathology at the University of Leipzig 1782-1823. 
+**Abbreviated name**: *C. F. Ludw.*
 
 #### Herbarium and types
 

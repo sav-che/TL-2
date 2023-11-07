@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103624#page/437/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Puerta y Ródenas, Gabriel de la (*fl*. 1891), Spanish botanist, professor of botany at the Universidad Central, Madrid. (*Puerta*).
+Puerta y Ródenas, Gabriel de la (*fl*. 1891), Spanish botanist, professor of botany at the Universidad Central, Madrid. 
+**Abbreviated name**: *Puerta*
 
 #### Herbarium and types
 

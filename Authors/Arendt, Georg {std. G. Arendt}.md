@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103858#page/165/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33264880) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Arendt, Georg (1888-?), German (Silesian) pharmacist and botanist, educated at the Gymnasium at Sagan (Schles.), studied at various Silesian pharmacies (e.g. 1909-1914 in Breslau), State examination pharmacy Breslau 1914, on active Service 1914-1918, practicing pharmacist 1918-1923, studied at the University of Berlin 1923-1926, Dr. phil 1926 with L. Diels. (*G. Arendt*).
+Arendt, Georg (1888-?), German (Silesian) pharmacist and botanist, educated at the Gymnasium at Sagan (Schles.), studied at various Silesian pharmacies (e.g. 1909-1914 in Breslau), State examination pharmacy Breslau 1914, on active Service 1914-1918, practicing pharmacist 1918-1923, studied at the University of Berlin 1923-1926, Dr. phil 1926 with L. Diels. 
+**Abbreviated name**: *G. Arendt*
 
 #### Herbarium and types
 

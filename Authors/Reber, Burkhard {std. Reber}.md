@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/item/103624#page/629/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33190086) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reber, Burkhard (1848-1926), Swiss (Aargau-born) pharmacist and botanist; chief pharmacist at the departmental hospital at Genève 1879-1885; later lecturer for Swiss archeology at the University of Genève. (*Reber*).
+Reber, Burkhard (1848-1926), Swiss (Aargau-born) pharmacist and botanist; chief pharmacist at the departmental hospital at Genève 1879-1885; later lecturer for Swiss archeology at the University of Genève. 
+**Abbreviated name**: *Reber*
 
 #### Herbarium and types
 

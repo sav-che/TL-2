@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/item/103860#page/535/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33266202) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cutler, Hugh Carson (1912-?), American botanist, born Milwaukee, Wisc., 8 Sep 1912, studied at the Univ. of Wisconsin, BA 1935, MA 1936, later resident of St. Louis, Missouri, associated with Bot. Mus. Harvard 1941-1947, field technician Rubber Development Corp. in Brazil 1943-1945, curator of economic botany, Chicago Nat. Hist. Mus. 1947, later in Missouri Bot. Garden, St. Louis. (*H.C. Cutler*).
+Cutler, Hugh Carson (1912-?), American botanist, born Milwaukee, Wisc., 8 Sep 1912, studied at the Univ. of Wisconsin, BA 1935, MA 1936, later resident of St. Louis, Missouri, associated with Bot. Mus. Harvard 1941-1947, field technician Rubber Development Corp. in Brazil 1943-1945, curator of economic botany, Chicago Nat. Hist. Mus. 1947, later in Missouri Bot. Garden, St. Louis. 
+**Abbreviated name**: *H.C. Cutler*
 
 #### Herbarium and types
 

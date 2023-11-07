@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/item/104137#page/487/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33355558) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miers, John (1789-1879), British botanist and metallurgist; travelled in South America 1819-1838; later in London as private scientist. (*Miers*).
+Miers, John (1789-1879), British botanist and metallurgist; travelled in South America 1819-1838; later in London as private scientist. 
+**Abbreviated name**: *Miers*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103861#page/205/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33266502) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buchholz, John Theodore (1888-1951), American botanist, born Polk Co., Nebraska 14 Jul 1888, Bachelor of Science from Iowa Wesleyan College 1909 and Bachelor of Arts from State University of Iowa 1909, graduate study at University Chicago, fellow ib. in botany 1916-1917, Dr. philosophy 1917, instructor in biology at Arkansas State Normal School, Conway 1909-1911, head 1911-1918, dept. botany University Arkansas 1919-1926, professsor botany University Texas 1926-1929, at University Illinois 1929-1942. (*J. Buchholz*).
+Buchholz, John Theodore (1888-1951), American botanist, born Polk Co., Nebraska 14 Jul 1888, Bachelor of Science from Iowa Wesleyan College 1909 and Bachelor of Arts from State University of Iowa 1909, graduate study at University Chicago, fellow ib. in botany 1916-1917, Dr. philosophy 1917, instructor in biology at Arkansas State Normal School, Conway 1909-1911, head 1911-1918, dept. botany University Arkansas 1919-1926, professsor botany University Texas 1926-1929, at University Illinois 1929-1942. 
+**Abbreviated name**: *J. Buchholz*
 
 #### Herbarium and types
 

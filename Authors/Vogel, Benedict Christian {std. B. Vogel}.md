@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/item/103683#page/776/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33212808) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogel, Benedict Christian (1745-1825), German (Bavarian) physician and botanist; professor at the University of Altorf nr. Nüremberg. (*B. Vogel*).
+Vogel, Benedict Christian (1745-1825), German (Bavarian) physician and botanist; professor at the University of Altorf nr. Nüremberg. 
+**Abbreviated name**: *B. Vogel*
 
 #### Herbarium and types
 

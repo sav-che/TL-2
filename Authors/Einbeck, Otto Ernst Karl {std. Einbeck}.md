@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103835#page/298/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33260276) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Einbeck, Otto Ernst Karl (1892-x), German botanist and ecologist, born 18 Feb 1892 at Burg (Kreis Jerichow), from 1898 visiting the elementary school and the Victoria-Gymnasium at Burg until 1910, studied at Halle and Königsberg, received 13 Mai 1916 his teacher's diploma, teacher in Eisleben from 1920, thesis in 1929. (*Einbeck*).
+Einbeck, Otto Ernst Karl (1892-x), German botanist and ecologist, born 18 Feb 1892 at Burg (Kreis Jerichow), from 1898 visiting the elementary school and the Victoria-Gymnasium at Burg until 1910, studied at Halle and Königsberg, received 13 Mai 1916 his teacher's diploma, teacher in Eisleben from 1920, thesis in 1929. 
+**Abbreviated name**: *Einbeck*
 
 #### Herbarium and types
 

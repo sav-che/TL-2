@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/item/103832#page/446/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33258912) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gubb, Alfred Samuel (M.D.) (1857-x), British doctor (gynecologist and/or obstetrician) and amateur botanist, resided in London (1889) and then Paris (1892), at least, doctorate 1893 Faculty of Medicine, Paris. (*Gubb*).
+Gubb, Alfred Samuel (M.D.) (1857-x), British doctor (gynecologist and/or obstetrician) and amateur botanist, resided in London (1889) and then Paris (1892), at least, doctorate 1893 Faculty of Medicine, Paris. 
+**Abbreviated name**: *Gubb*
 
 #### Herbarium and types
 

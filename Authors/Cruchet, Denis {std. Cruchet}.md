@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/item/103860#page/494/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33266161) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cruchet, Denis (1847-1926), Swiss minister, born at Pailly (Vaud) 2 Mai 1847, died 22 Dec 1926 at Montagny sur Yverdon, studied at the Collège de Lausanne, 1872 at Lonay, later Pomy, 1873 minister at Montpreveyres, 1888 as "retraite", 1923 at the parish of Montagny sur Yverdon. (*Cruchet*).
+Cruchet, Denis (1847-1926), Swiss minister, born at Pailly (Vaud) 2 Mai 1847, died 22 Dec 1926 at Montagny sur Yverdon, studied at the Collège de Lausanne, 1872 at Lonay, later Pomy, 1873 minister at Montpreveyres, 1888 as "retraite", 1923 at the parish of Montagny sur Yverdon. 
+**Abbreviated name**: *Cruchet*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/103253#page/546/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kelsey, Francis Duncan (1849-1905), American congregational clergyman and botanist; D. Sc. College of Montana 1890; minister at Helena, Mont. until 1893; professor of botany at Oberlin College 1893-1897; pastor Central Congregational Church, Toledo Ohio 1897-1905. (*Kelsey*).
+Kelsey, Francis Duncan (1849-1905), American congregational clergyman and botanist; D. Sc. College of Montana 1890; minister at Helena, Mont. until 1893; professor of botany at Oberlin College 1893-1897; pastor Central Congregational Church, Toledo Ohio 1897-1905. 
+**Abbreviated name**: *Kelsey*
 
 #### Herbarium and types
 

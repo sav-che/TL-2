@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103253#page/358/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33068574) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Horaninov (Ghoryaninov, Gorianinov), Paul Fedorowitsch (1796-1865), Russian botanist. (*Horan.*).
+Horaninov (Ghoryaninov, Gorianinov), Paul Fedorowitsch (1796-1865), Russian botanist. 
+**Abbreviated name**: *Horan.*
 
 #### Herbarium and types
 

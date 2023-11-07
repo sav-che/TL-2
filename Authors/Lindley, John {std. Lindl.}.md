@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/104137#page/65/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33355098) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindley, John (1799-1865), British botanist; Dr. phil. München 1832; professor of botany at University College London 1829-1860. (*Lindl.*).
+Lindley, John (1799-1865), British botanist; Dr. phil. München 1832; professor of botany at University College London 1829-1860. 
+**Abbreviated name**: *Lindl.*
 
 #### Herbarium and types
 

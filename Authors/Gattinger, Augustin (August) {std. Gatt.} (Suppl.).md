@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103832#page/157/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33258623) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gattinger, Augustin {std. Gatt.}|first entry]] for this author
 
 ### Author
 
-\* Gattinger, Augustin ('August') (1825-1903), German-born American botanist and surgeon, born 2 Feb 1825 in Munich, medical student who, for political reasons, emigrated to Tenn. 1849, resident physician to the Ducktown Copper Mines in s.e. Tenn., surgeon for U.S. Army in Nashville, Tenn. during Civil War, Tenn. State Librarian for a 5-year period after the war, died 18 Jul 1903 in Nashville. (*Gattinger*).
+\* Gattinger, Augustin ('August') (1825-1903), German-born American botanist and surgeon, born 2 Feb 1825 in Munich, medical student who, for political reasons, emigrated to Tenn. 1849, resident physician to the Ducktown Copper Mines in s.e. Tenn., surgeon for U.S. Army in Nashville, Tenn. during Civil War, Tenn. State Librarian for a 5-year period after the war, died 18 Jul 1903 in Nashville. 
+**Abbreviated name**: *Gattinger*
 
 #### Herbarium and types
 

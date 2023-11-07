@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/104077#page/315/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33333440) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schopf, James \[Morton\] (1911-1978), American palaeobotanist; Dr. phil. Univ. Illinois 1937; assistant bot. dept. Univ. Illinois 1930-1933; with the Illinois State Geological Survey 1934; assistant geologist ib. 1935-1943; with the U.S. Bureau of Mines, Pittsburgh 1943-1947; with the U.S. Geological Survey, Washington 1947-1949, id. Coal Geology Lab., Columbus Ohio 1949-1976; member of the Editorial Committee of the International Code of botanical Nomenclature 1969-1978; member, later chairman, of the International Committee on the Nomenclature of fossil plants 1950-1978. (*Schopf*).
+Schopf, James \[Morton\] (1911-1978), American palaeobotanist; Dr. phil. Univ. Illinois 1937; assistant bot. dept. Univ. Illinois 1930-1933; with the Illinois State Geological Survey 1934; assistant geologist ib. 1935-1943; with the U.S. Bureau of Mines, Pittsburgh 1943-1947; with the U.S. Geological Survey, Washington 1947-1949, id. Coal Geology Lab., Columbus Ohio 1949-1976; member of the Editorial Committee of the International Code of botanical Nomenclature 1969-1978; member, later chairman, of the International Committee on the Nomenclature of fossil plants 1950-1978. 
+**Abbreviated name**: *Schopf*
 
 #### Herbarium and types
 

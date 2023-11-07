@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/item/103253#page/671/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/page/33068887) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koorders, Sijfert Hendrik (1863-1919), Dutch-Indonesian forester and botanist at Buitenzorg (Bogor); Dr. phil. Bonn 1897; in the Dutch East Indian Forest Service from 1885 stationed in Java; from 1892-1903 and 1910-1919 working at BO. (*Koord.*).
+Koorders, Sijfert Hendrik (1863-1919), Dutch-Indonesian forester and botanist at Buitenzorg (Bogor); Dr. phil. Bonn 1897; in the Dutch East Indian Forest Service from 1885 stationed in Java; from 1892-1903 and 1910-1919 working at BO. 
+**Abbreviated name**: *Koord.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/104137#page/755/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33355826) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neygenfind, Friedrich Wilhelm (*fl*. 1821), German physician and botanist at Schmiedeberg in Liegnitz. (*Neygenf.*).
+Neygenfind, Friedrich Wilhelm (*fl*. 1821), German physician and botanist at Schmiedeberg in Liegnitz. 
+**Abbreviated name**: *Neygenf.*
 
 #### Herbarium and types
 

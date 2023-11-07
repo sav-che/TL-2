@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103833#page/371/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33259405) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dittweiler, Wilhelm (fl. 1847), German veterinarian, teacher at the veterinary school in Karlsruhe. (*Dittw.*).
+Dittweiler, Wilhelm (fl. 1847), German veterinarian, teacher at the veterinary school in Karlsruhe. 
+**Abbreviated name**: *Dittw.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/item/103860#page/527/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33266194) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Curtis, William {std. Curtis}|first entry]] for this author
 
 ### Author
 
-\* Curtis, William (1746-1799), British botanist, on leaving school apprenticed to his grandfather, a surgeon-apothecary at Alton, ca. 1766 apprenticed to George Vaux, an apothecary in Pudding Lane in the City of London, 1772-1777 in charge of Chelsea garden, founded the Botanical Gardens at Lambeth and Brompton, had a nursery at Queen’s Elm, Brompton 1789, at Sloane Street Chelsea. (*Curtis*).
+\* Curtis, William (1746-1799), British botanist, on leaving school apprenticed to his grandfather, a surgeon-apothecary at Alton, ca. 1766 apprenticed to George Vaux, an apothecary in Pudding Lane in the City of London, 1772-1777 in charge of Chelsea garden, founded the Botanical Gardens at Lambeth and Brompton, had a nursery at Queen’s Elm, Brompton 1789, at Sloane Street Chelsea. 
+**Abbreviated name**: *Curtis*
 
 #### Herbarium and types
 

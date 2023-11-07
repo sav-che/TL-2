@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/item/103253#page/872/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lepechin, Ivan Ivanovich (1737-1802), Russian botanist; director of the St. Petersburg botanical garden. (*Lepech.*).
+Lepechin, Ivan Ivanovich (1737-1802), Russian botanist; director of the St. Petersburg botanical garden. 
+**Abbreviated name**: *Lepech.*
 
 #### Herbarium and types
 

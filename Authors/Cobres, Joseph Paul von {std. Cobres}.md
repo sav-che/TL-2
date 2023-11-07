@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/item/103414#page/563/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33120646) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cobres, Joseph Paul von (1747-1823), German bibliophile. (*Cobres*).
+Cobres, Joseph Paul von (1747-1823), German bibliophile. 
+**Abbreviated name**: *Cobres*
 
 #### Collections
 

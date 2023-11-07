@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103832#page/33/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fries, Elias Petrus {std. E.P. Fr.}|first entry]] for this author
 
 ### Author
 
-\* Fries, Elias Petrus (1834-1858), Swedish botanist, born 14 Oct 1834 in Femsjö (Småland), student at Uppsala 1853, Dr. 1857, died 17 Dec 1858 in Uppsala. (*E.P. Fr.*).
+\* Fries, Elias Petrus (1834-1858), Swedish botanist, born 14 Oct 1834 in Femsjö (Småland), student at Uppsala 1853, Dr. 1857, died 17 Dec 1858 in Uppsala. 
+**Abbreviated name**: *E.P. Fr.*
 
 #### Note
 

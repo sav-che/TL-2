@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/103683#page/604/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33212636) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ungar, Karl (1869-?), Transylvanian botanist and physician; Dr. med. 1894, hospital physician at Nagyszeben and Avrig. (*Ungar*).
+Ungar, Karl (1869-?), Transylvanian botanist and physician; Dr. med. 1894, hospital physician at Nagyszeben and Avrig. 
+**Abbreviated name**: *Ungar*
 
 #### Herbarium and types
 

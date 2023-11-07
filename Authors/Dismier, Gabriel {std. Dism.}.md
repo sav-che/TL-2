@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/item/103414#page/708/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33120791) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dismier, Gabriel {std. Dism.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dismier, Gabriel (1856-1942), French bryologist. (*Dism.*).
+Dismier, Gabriel (1856-1942), French bryologist. 
+**Abbreviated name**: *Dism.*
 
 #### Herbarium and types
 

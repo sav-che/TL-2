@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/item/103683#page/784/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voigt, W.E. Alwin (1852-ca. 1927), German (Saxonian) zoologist; assistant teacher at Gablonz a.N. and Dresden 1872-1877; studied natural sciences at the University of Leipzig 1877-1879; Dr. phil. ib. 1877; high school teacher at Leipzig from 1871; later mainly active in zoology. (*Alw. Voigt*).
+Voigt, W.E. Alwin (1852-ca. 1927), German (Saxonian) zoologist; assistant teacher at Gablonz a.N. and Dresden 1872-1877; studied natural sciences at the University of Leipzig 1877-1879; Dr. phil. ib. 1877; high school teacher at Leipzig from 1871; later mainly active in zoology. 
+**Abbreviated name**: *Alw. Voigt*
 
 #### Herbarium and types
 

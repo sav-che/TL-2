@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/103860#page/78/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33265745) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chauveaud, \[Louis\] Gustave (1859-1933), French botanist and physician, born at Aigre (Charente) 1859, studied at the Paris Faculté de Sciences, lic. ès. sci. nat. 1885, id. physique, agrégé sci. nat. 1888, doctor sci. 1891, doctor méd. 1892, chef de travaux mat. bot. at Faculté des Sciences, Paris 1895-1925, maître de conférences (honoraire) at the Sorbonne from 1892 (*Chauveaud*).
+Chauveaud, \[Louis\] Gustave (1859-1933), French botanist and physician, born at Aigre (Charente) 1859, studied at the Paris Faculté de Sciences, lic. ès. sci. nat. 1885, id. physique, agrégé sci. nat. 1888, doctor sci. 1891, doctor méd. 1892, chef de travaux mat. bot. at Faculté des Sciences, Paris 1895-1925, maître de conférences (honoraire) at the Sorbonne from 1892 
+**Abbreviated name**: *Chauveaud*
 
 #### Herbarium and types
 

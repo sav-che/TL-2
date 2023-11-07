@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103683#page/372/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33212404) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Timm, Joachim Christian (1734-1805), German (Pommern) pharmacist and botanist; from 1760 pharmacist (later also burgomaster) at Malchin (Mecklenburg); associated with J. Hedwig. (*Timm*).
+Timm, Joachim Christian (1734-1805), German (Pommern) pharmacist and botanist; from 1760 pharmacist (later also burgomaster) at Malchin (Mecklenburg); associated with J. Hedwig. 
+**Abbreviated name**: *Timm*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103834#page/345/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33259827) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forssell, Nils Edvard (1821-1883), Swedish veterinarian and naturalist, born 31 Aug 1821 in Brandbo (Västmanland), visited Portugal and Brazil 1846-1847, veterinary dipl. 1847 Stockholm, adjunct at veterinary inst., Skara 1848, then "lector" 1856, "rector" 1858 and prof. regius 1880, dr. h.c. (medicine) Uppsala 1877, died 5 Jun 1883 in Karlsbad, Austrian Empire (now Karlovy Vary, Czech Republic). (*N.E. Forssell*).
+Forssell, Nils Edvard (1821-1883), Swedish veterinarian and naturalist, born 31 Aug 1821 in Brandbo (Västmanland), visited Portugal and Brazil 1846-1847, veterinary dipl. 1847 Stockholm, adjunct at veterinary inst., Skara 1848, then "lector" 1856, "rector" 1858 and prof. regius 1880, dr. h.c. (medicine) Uppsala 1877, died 5 Jun 1883 in Karlsbad, Austrian Empire (now Karlovy Vary, Czech Republic). 
+**Abbreviated name**: *N.E. Forssell*
 
 #### Note
 

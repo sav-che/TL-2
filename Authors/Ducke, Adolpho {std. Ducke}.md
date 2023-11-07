@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/item/103414#page/738/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ducke, Adolpho (Adolfo) {std. Ducke} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ducke, Adolpho (1876-1959), Brazilian botanist and explorer of the Amazone region. (*Ducke*).
+Ducke, Adolpho (1876-1959), Brazilian botanist and explorer of the Amazone region. 
+**Abbreviated name**: *Ducke*
 
 #### Herbarium and types
 

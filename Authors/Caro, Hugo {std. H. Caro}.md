@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103861#page/429/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33266726) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caro, Hugo (1875-x), German botanist, born 13 Jan 1875 at Nakel (Prov. Posen), of jewish religion, educated in the Kgl. Gymnasium in Nakel and the Askanian Gymnasium in Berlin, studied pharmacy in Berlin, "Staatsprüfung" 1900, further studies in natural sciences in Heidelberg until 1902, "Inaugural-Dissertation" at the Ruprecht-Karls-Universität at Heidelberg. (*H. Caro*).
+Caro, Hugo (1875-x), German botanist, born 13 Jan 1875 at Nakel (Prov. Posen), of jewish religion, educated in the Kgl. Gymnasium in Nakel and the Askanian Gymnasium in Berlin, studied pharmacy in Berlin, "Staatsprüfung" 1900, further studies in natural sciences in Heidelberg until 1902, "Inaugural-Dissertation" at the Ruprecht-Karls-Universität at Heidelberg. 
+**Abbreviated name**: *H. Caro*
 
 #### Herbarium and types
 

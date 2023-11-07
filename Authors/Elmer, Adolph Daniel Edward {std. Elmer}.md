@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/103414#page/792/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33120875) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Elmer, Adolph Daniel Edward {std. Elmer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Elmer, Adolph Daniel Edward (1870-1942), American botanist who collected exclusively in Washington, California, Borneo and the Philippines. (*Elmer*).
+Elmer, Adolph Daniel Edward (1870-1942), American botanist who collected exclusively in Washington, California, Borneo and the Philippines. 
+**Abbreviated name**: *Elmer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/item/103253#page/707/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kuckuck, Ernst Herman Paul (1866-1918), German algologist; Dr. phil. Kiel 1891; with Reinke at Kiel 1888-1892; at the Helgoland biological station 1892-1914; from 1914-1918 at Berlin as a guest at the Dahlem Botanical Museum. (*Kuck.*).
+Kuckuck, Ernst Herman Paul (1866-1918), German algologist; Dr. phil. Kiel 1891; with Reinke at Kiel 1888-1892; at the Helgoland biological station 1892-1914; from 1914-1918 at Berlin as a guest at the Dahlem Botanical Museum. 
+**Abbreviated name**: *Kuck.*
 
 #### Herbarium and types
 

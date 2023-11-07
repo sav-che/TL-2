@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103860#page/233/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265900) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clos, Dominique {std. Clos}|first entry]] for this author
 
 ### Author
 
-\* Clos, Dominique (1821-1908), French born botanist, born and died at Sorèze, Tarn, educated at the lyceum of Toulouse, studied medicine and natural sciences at the University of Paris, Dr. med. 1845, Dr. ès sciences 1848, succeeded Moquin Tandon as professor of botany at the Faculté des Sciences of Toulouse 1853-1889. (*Clos*).
+\* Clos, Dominique (1821-1908), French born botanist, born and died at Sorèze, Tarn, educated at the lyceum of Toulouse, studied medicine and natural sciences at the University of Paris, Dr. med. 1845, Dr. ès sciences 1848, succeeded Moquin Tandon as professor of botany at the Faculté des Sciences of Toulouse 1853-1889. 
+**Abbreviated name**: *Clos*
 
 #### Herbarium and types
 

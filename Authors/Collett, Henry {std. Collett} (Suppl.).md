@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103860#page/279/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33265946) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Collett, (Sir) Henry {std. Collett}|first entry]] for this author
 
 ### Author
 
-\* Collett, Henry (1836-1901), British colonial army officer, botanist and collector, born at Thetford, Norfolk, early training at Tonbridge School (W. Kent), entered the Bengal Army 1855, in the Indian Mutiny 1857, with the Sittana Expedition on the N.W. Frontier 1858, in the Janitea war 1862-1863, id. in Abyssinian war 1867-1868, took up botany in 1877, retired from the Bengal Army 1893, worked on his Flora simlensis (issued 1902), died at Kew, Surrey, 21 Dec 1901. (*Collett*).
+\* Collett, Henry (1836-1901), British colonial army officer, botanist and collector, born at Thetford, Norfolk, early training at Tonbridge School (W. Kent), entered the Bengal Army 1855, in the Indian Mutiny 1857, with the Sittana Expedition on the N.W. Frontier 1858, in the Janitea war 1862-1863, id. in Abyssinian war 1867-1868, took up botany in 1877, retired from the Bengal Army 1893, worked on his Flora simlensis (issued 1902), died at Kew, Surrey, 21 Dec 1901. 
+**Abbreviated name**: *Collett*
 
 #### Herbarium and types
 

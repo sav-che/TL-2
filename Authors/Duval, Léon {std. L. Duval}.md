@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103835#page/225/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duval, Léon (1844-1907), French nurseryman living at Versailles near Paris, vice-president of the French National Horticultural Society, the Horticultural Society of Seine-et-Oise, and the French Chrysanthemum Society. (*L. Duval*).
+Duval, Léon (1844-1907), French nurseryman living at Versailles near Paris, vice-president of the French National Horticultural Society, the Horticultural Society of Seine-et-Oise, and the French Chrysanthemum Society. 
+**Abbreviated name**: *L. Duval*
 
 #### Herbarium and types
 

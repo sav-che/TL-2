@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103414#page/324/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33120407) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonstedt, Carl (1866-x), German gardener. (*Bonstedt*).
+Bonstedt, Carl (1866-x), German gardener. 
+**Abbreviated name**: *Bonstedt*
 
 #### Herbarium and types
 

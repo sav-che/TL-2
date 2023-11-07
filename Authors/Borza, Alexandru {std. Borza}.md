@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103414#page/334/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33120417) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Borza, Alexandru {std. Borza} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Borza, Alexandru (1887-1971), Romanian botanist, director botanical garden Cluj (Klausenburg). (*Borza*).
+Borza, Alexandru (1887-1971), Romanian botanist, director botanical garden Cluj (Klausenburg). 
+**Abbreviated name**: *Borza*
 
 #### Herbarium and types
 

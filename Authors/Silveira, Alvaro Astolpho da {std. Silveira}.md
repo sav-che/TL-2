@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/item/104077#page/614/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33333739) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Silveira, Alvaro Astolpho da (1867-1945), Brazilian botanist, civil and mining engineer; geologist on the Commissão geographica e geologica do Estado de Minas Geraes 1894, chief engineer id. 1895. (*Silveira*).
+Silveira, Alvaro Astolpho da (1867-1945), Brazilian botanist, civil and mining engineer; geologist on the Commissão geographica e geologica do Estado de Minas Geraes 1894, chief engineer id. 1895. 
+**Abbreviated name**: *Silveira*
 
 #### Herbarium and types
 

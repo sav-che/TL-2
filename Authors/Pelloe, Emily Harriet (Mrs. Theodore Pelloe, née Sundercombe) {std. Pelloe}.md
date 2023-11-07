@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103624#page/163/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pelloe, Emily Harriet (Mrs. Theodore Pelloe, née Sundercombe) (1878-1941), Australian botanist and artist, living mainly in Western Australia from 1901. (*Pelloe*).
+Pelloe, Emily Harriet (Mrs. Theodore Pelloe, née Sundercombe) (1878-1941), Australian botanist and artist, living mainly in Western Australia from 1901. 
+**Abbreviated name**: *Pelloe*
 
 #### Herbarium and types
 

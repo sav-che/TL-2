@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/item/104137#page/611/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33355682) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morris, George Edward (1853-1916), British-born American mycologist; drawing-master in the public schools of Waltham, Mass. (*G. Morris*).
+Morris, George Edward (1853-1916), British-born American mycologist; drawing-master in the public schools of Waltham, Mass. 
+**Abbreviated name**: *G. Morris*
 
 #### Herbarium and types
 

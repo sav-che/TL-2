@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/item/103860#page/542/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33266209) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Czyrsnicówna, Marja (fl. 1939), Polish botanist. (*Czyrsnic.*).
+Czyrsnicówna, Marja (fl. 1939), Polish botanist. 
+**Abbreviated name**: *Czyrsnic.*
 
 #### Herbarium and types
 

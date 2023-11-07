@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/item/103250#page/166/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33066446) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watson, William (of Kew) (1858-1925), British gardener and botanist; Kew gardens 1879, asst. curator 1886; curator of the Royal Botanic Gardens Kew 1901-1922. (*Wm. Wats.* (*Kew*)).
+Watson, William (of Kew) (1858-1925), British gardener and botanist; Kew gardens 1879, asst. curator 1886; curator of the Royal Botanic Gardens Kew 1901-1922.
+**Abbreviated name**: *Wm. Wats.* (*Kew*)
 
 #### Herbarium and types
 

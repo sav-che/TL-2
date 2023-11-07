@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103833#page/362/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33259396) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dippenaar, Barend Jacobus (1902-x), South-African mycologist and plant pathologist, born 14 Apr 1902 Malmesbury distr. (Cape Province), at the Stellenbosch University 1924-1929, B.Sc. Agr., 1927, M.Sc. Agric. 1929, id. at University of Wisconsin 1931-1933, later D.C. Agric. 1933 Stellenbosch, lecturer plant pathology 1928-1944, professor of plant pathology, Pretoria University 1944-1959, chief of Div. Commodity Service 1959-1967, retired 1967. (*Dippen.*).
+Dippenaar, Barend Jacobus (1902-x), South-African mycologist and plant pathologist, born 14 Apr 1902 Malmesbury distr. (Cape Province), at the Stellenbosch University 1924-1929, B.Sc. Agr., 1927, M.Sc. Agric. 1929, id. at University of Wisconsin 1931-1933, later D.C. Agric. 1933 Stellenbosch, lecturer plant pathology 1928-1944, professor of plant pathology, Pretoria University 1944-1959, chief of Div. Commodity Service 1959-1967, retired 1967. 
+**Abbreviated name**: *Dippen.*
 
 #### Herbarium and types
 

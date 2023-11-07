@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103624#page/242/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33189699) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pfuhl, Fritz C.A. (1853-1913), German (Pommeranian/Prussian) botanist and high school teacher at the Marien Gymnasium at Posen (now Poznan, Poland). (*Pfuhl*).
+Pfuhl, Fritz C.A. (1853-1913), German (Pommeranian/Prussian) botanist and high school teacher at the Marien Gymnasium at Posen (now Poznan, Poland). 
+**Abbreviated name**: *Pfuhl*
 
 #### Herbarium and types
 

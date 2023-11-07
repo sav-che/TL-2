@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/item/104137#page/207/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33355278) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Luisier, Alphonse (1872-1957), Swiss-born priest (entered S. J. in Portugal 1891) and bryologist; from 1932 at the Instituto Nun d'Alvres Caldas da Saude, Portugal. (*Luis.*).
+Luisier, Alphonse (1872-1957), Swiss-born priest (entered S. J. in Portugal 1891) and bryologist; from 1932 at the Instituto Nun d'Alvres Caldas da Saude, Portugal. 
+**Abbreviated name**: *Luis.*
 
 #### Herbarium and types
 

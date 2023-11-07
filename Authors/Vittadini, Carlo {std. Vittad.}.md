@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/item/103683#page/770/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33212802) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vittadini, Carlo (1800-1865), Italian physician and mycologist; practicing physician in Milano; Dr. med. Torino 1826. (*Vittad.*).
+Vittadini, Carlo (1800-1865), Italian physician and mycologist; practicing physician in Milano; Dr. med. Torino 1826. 
+**Abbreviated name**: *Vittad.*
 
 #### Herbarium and types
 

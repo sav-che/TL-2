@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/103253#page/745/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lagarde, Joannes Joseph (1866-?), Strassburg mycologist; Dr. sci. nat. Paris 1906. (*Lagarde*).
+Lagarde, Joannes Joseph (1866-?), Strassburg mycologist; Dr. sci. nat. Paris 1906. 
+**Abbreviated name**: *Lagarde*
 
 #### Herbarium and types
 

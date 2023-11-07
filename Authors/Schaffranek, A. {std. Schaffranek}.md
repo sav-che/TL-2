@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/104077#page/128/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaffranek, A. (*fl*. 1883-1894), American botanist at Palatka, Florida 1883-1894; later at St. Charles, Missouri. (*Schaffranek*).
+Schaffranek, A. (*fl*. 1883-1894), American botanist at Palatka, Florida 1883-1894; later at St. Charles, Missouri. 
+**Abbreviated name**: *Schaffranek*
 
 #### Herbarium and types
 

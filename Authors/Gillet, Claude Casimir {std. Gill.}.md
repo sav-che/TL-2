@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/item/103414#page/992/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33121075) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gillet, Claude (Casimir) {std. Gill.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gillet, Claude Casimir (1806-1896), French mycologist and veterinary surgeon at Alençon. (*Gill.*).
+Gillet, Claude Casimir (1806-1896), French mycologist and veterinary surgeon at Alençon. 
+**Abbreviated name**: *Gill.*
 
 #### Herbarium and types
 

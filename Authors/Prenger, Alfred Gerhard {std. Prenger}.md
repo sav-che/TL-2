@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103624#page/401/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33189858) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prenger, Alfred Gerhard (1860-?), German botanist and pharmacist; Dr. phil. Erlangen 1901; student of H. Solederer. (*Prenger*).
+Prenger, Alfred Gerhard (1860-?), German botanist and pharmacist; Dr. phil. Erlangen 1901; student of H. Solederer. 
+**Abbreviated name**: *Prenger*
 
 #### Herbarium and types
 

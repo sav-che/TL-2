@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/103861#page/309/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33266606) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cahn, Jakob (1898-x), Riga born 23 Oct 1898, at the "Ober-Realschule" until 1915, studied agriculture at the Riga "Polytechnikum" 1915-1918, at the "Technische Baltische Hochschule" at Riga 1918-1919, id. at Albertus-Universität at Königsberg, studied "zwei Semester" botany 1921. (*J. Cahn*).
+Cahn, Jakob (1898-x), Riga born 23 Oct 1898, at the "Ober-Realschule" until 1915, studied agriculture at the Riga "Polytechnikum" 1915-1918, at the "Technische Baltische Hochschule" at Riga 1918-1919, id. at Albertus-Universität at Königsberg, studied "zwei Semester" botany 1921. 
+**Abbreviated name**: *J. Cahn*
 
 #### Herbarium and types
 

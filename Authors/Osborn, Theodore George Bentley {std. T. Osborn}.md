@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/104137#page/869/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Osborn, Theodore George Bentley (1887-1973), British botanist; MSc. Manchester 1911, D. Sc. ib. 1920; lecturer Manchester 1908-1912; professor of botany Adelaide 1912-1927; id. Sydney 1928-1937; id. Oxford 1937-1953; returned to Adelaide 1953. (*T. Osborn*).
+Osborn, Theodore George Bentley (1887-1973), British botanist; MSc. Manchester 1911, D. Sc. ib. 1920; lecturer Manchester 1908-1912; professor of botany Adelaide 1912-1927; id. Sydney 1928-1937; id. Oxford 1937-1953; returned to Adelaide 1953. 
+**Abbreviated name**: *T. Osborn*
 
 #### Herbarium and types
 

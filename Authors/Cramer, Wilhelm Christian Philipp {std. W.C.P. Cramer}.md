@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/item/103860#page/456/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33266123) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cramer, Wilhelm Christian Philipp (ca. 1755-?), German born in Ansbach, practicing physician, studied in Erlangen, Dr. med. 1780, practicing in Ansbach, 1786 "Medicinalrat". (*W.C.P. Cramer*).
+Cramer, Wilhelm Christian Philipp (ca. 1755-?), German born in Ansbach, practicing physician, studied in Erlangen, Dr. med. 1780, practicing in Ansbach, 1786 "Medicinalrat". 
+**Abbreviated name**: *W.C.P. Cramer*
 
 #### Herbarium and types
 

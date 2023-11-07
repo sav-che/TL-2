@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/item/103414#page/924/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33121007) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Frey (-Stauffer), Eduard (Édouard) {std. Frey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Frey, Eduard \[-Stauffer\] (1888-x), Swiss lichenologist. (*Frey*).
+Frey, Eduard \[-Stauffer\] (1888-x), Swiss lichenologist. 
+**Abbreviated name**: *Frey*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/104137#page/291/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mangin, Louis Alexandre (1852-1937), French cryptogamist; Dr. Sc. Paris 1882; high school teacher at Nancy and Paris 1873-1904; from 1904-1931 at the Muséum d'Histoire naturelle; first director of the Laboratoire de Cryptogamie (PC); Director of the Muséum 1920-1932. (*L. Mangin*).
+Mangin, Louis Alexandre (1852-1937), French cryptogamist; Dr. Sc. Paris 1882; high school teacher at Nancy and Paris 1873-1904; from 1904-1931 at the Muséum d'Histoire naturelle; first director of the Laboratoire de Cryptogamie (PC); Director of the Muséum 1920-1932. 
+**Abbreviated name**: *L. Mangin*
 
 #### Herbarium and types
 

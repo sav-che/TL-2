@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/item/103250#page/610/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33066890) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zollikofer, Caspar Tobias (1774-1843), Swiss physician, botanist and entomologist; studied medicine in Zürich, Halle a.S. and Edinburgh; Dr. med. Halle 1794; administrator in St. Gallen 1797-1802; practicing physician and pharmacist ib. from 1802. (*Zollik.*).
+Zollikofer, Caspar Tobias (1774-1843), Swiss physician, botanist and entomologist; studied medicine in Zürich, Halle a.S. and Edinburgh; Dr. med. Halle 1794; administrator in St. Gallen 1797-1802; practicing physician and pharmacist ib. from 1802. 
+**Abbreviated name**: *Zollik.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/item/103624#page/946/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33190403) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rottenbach, Heinrich (1835-1917), German (Thuringian) botanist; high school teacher at Meiningen 1871-1895 (from 1877 with professor's title); in retirement in Berlin 1895-1915; ultimately at Einhausen nr Meiningen. (*Rottenbach*).
+Rottenbach, Heinrich (1835-1917), German (Thuringian) botanist; high school teacher at Meiningen 1871-1895 (from 1877 with professor's title); in retirement in Berlin 1895-1915; ultimately at Einhausen nr Meiningen. 
+**Abbreviated name**: *Rottenbach*
 
 #### Herbarium and types
 

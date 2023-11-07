@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103859#page/346/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265533) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borge, Oscar Fredrik (1862-1938) \[until 28 Mar 1891 Andersson\], Swedish botanist (algologist), educated at the Latin School of Stockholm 1883, fil. kand. University of Uppsala 1888, fil. lic. ib. 1893, Dr. phil. ib. 1895, sometime botanist at Stockholm University, in charge of the archives of the Swedish labour movement. (*Borge*).
+Borge, Oscar Fredrik (1862-1938) \[until 28 Mar 1891 Andersson\], Swedish botanist (algologist), educated at the Latin School of Stockholm 1883, fil. kand. University of Uppsala 1888, fil. lic. ib. 1893, Dr. phil. ib. 1895, sometime botanist at Stockholm University, in charge of the archives of the Swedish labour movement. 
+**Abbreviated name**: *Borge*
 
 #### Note
 

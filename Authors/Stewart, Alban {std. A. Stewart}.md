@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 921](https://www.biodiversitylibrary.org/item/104077#page/935/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 921](https://www.biodiversitylibrary.org/page/33334060) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stewart, Alban (1875-?), American botanist; Dr. phil. Harvard 1911; instructor in botany New Hampshire College 1909; id. at the Dept. of Botany, University of Wisconsin, 1911-1916; professor of botany, Florida State College for Women, Tallahassee 1916; collected in the Galapagos archipelago 1905-1906. (*A. Stewart*).
+Stewart, Alban (1875-?), American botanist; Dr. phil. Harvard 1911; instructor in botany New Hampshire College 1909; id. at the Dept. of Botany, University of Wisconsin, 1911-1916; professor of botany, Florida State College for Women, Tallahassee 1916; collected in the Galapagos archipelago 1905-1906. 
+**Abbreviated name**: *A. Stewart*
 
 #### Herbarium and types
 

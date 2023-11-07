@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103833#page/176/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33259210) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dehnecke, Heinrich Martin Carl (1857-?), German botanist, born at Düren, at the "Evangelischen höheren Bürgerschule" 1870-1876, studied at the University of Bonn 1876-1877, in Berlin id. 1877-1878, again in Bonn 1878-1880, Dr. at Bonn 7 Aug 1880. (*Dehnecke*).
+Dehnecke, Heinrich Martin Carl (1857-?), German botanist, born at Düren, at the "Evangelischen höheren Bürgerschule" 1870-1876, studied at the University of Bonn 1876-1877, in Berlin id. 1877-1878, again in Bonn 1878-1880, Dr. at Bonn 7 Aug 1880. 
+**Abbreviated name**: *Dehnecke*
 
 #### Herbarium and types
 

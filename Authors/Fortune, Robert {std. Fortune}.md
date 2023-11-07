@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/item/103414#page/910/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33120993) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fortune, Robert (1812-1880), British gardener, plant collector in China. (*Fortune*).
+Fortune, Robert (1812-1880), British gardener, plant collector in China. 
+**Abbreviated name**: *Fortune*
 
 #### Herbarium and types
 

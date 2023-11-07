@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/item/103414#page/717/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33120800) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Don, George {std. G. Don} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Don, George (1798-1856), British plant collector and nurseryman, brother of David Don. (*G. Don*).
+Don, George (1798-1856), British plant collector and nurseryman, brother of David Don. 
+**Abbreviated name**: *G. Don*
 
 #### Herbarium and types
 

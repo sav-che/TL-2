@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103624#page/45/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmér, Johan Ernst (1863-1946), Swedish farmer and botanist at Tånga (Bohuslän), later at Ör (Dalsland). (*J.E. Palmér*).
+Palmér, Johan Ernst (1863-1946), Swedish farmer and botanist at Tånga (Bohuslän), later at Ör (Dalsland). 
+**Abbreviated name**: *J.E. Palmér*
 
 #### Herbarium and types
 

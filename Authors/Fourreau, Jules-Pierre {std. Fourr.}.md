@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/item/103414#page/915/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33120998) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fourreau, Pierre-Jules (a.k.a. Jules or Jules-Pierre) {std. Fourr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fourreau, Jules-Pierre (1844-1871), French botanist at Lyon, collaborator of Alexis Jordan. (*Fourr.*).
+Fourreau, Jules-Pierre (1844-1871), French botanist at Lyon, collaborator of Alexis Jordan. 
+**Abbreviated name**: *Fourr.*
 
 #### Herbarium and types
 

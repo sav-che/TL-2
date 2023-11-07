@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/item/103861#page/444/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33266741) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caruel, Théodore (Teodoro) {std. Caruel}|first entry]] for this author
 
 ### Author
 
-\* Caruel, Théodore (Teodoro) (1830-1898), son of a French father and an English mother, born at Chandernagor (Bengal, nr. Calcutta), moved with his parents to Firenze 1844, from 1850 botanizing with Targioni-Tozzetti et al., studied at the University of Pisa, assistant with Filippo Parlatore 1858-1862 in Firenze, director of the old botanical garden at Firenze 1867, professor of botany and director of the Botanical Garden at the University of Pisa 1871, id. at the Institute of higher study at Firenze 1880-1895, id. director Orto botanico dell' Università 1880-1896, paralysed 1895-1898. (*Caruel*).
+\* Caruel, Théodore (Teodoro) (1830-1898), son of a French father and an English mother, born at Chandernagor (Bengal, nr. Calcutta), moved with his parents to Firenze 1844, from 1850 botanizing with Targioni-Tozzetti et al., studied at the University of Pisa, assistant with Filippo Parlatore 1858-1862 in Firenze, director of the old botanical garden at Firenze 1867, professor of botany and director of the Botanical Garden at the University of Pisa 1871, id. at the Institute of higher study at Firenze 1880-1895, id. director Orto botanico dell' Università 1880-1896, paralysed 1895-1898. 
+**Abbreviated name**: *Caruel*
 
 #### Herbarium and types
 

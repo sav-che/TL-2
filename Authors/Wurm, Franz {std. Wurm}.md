@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/item/103250#page/540/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33066820) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wurm, Franz (1845-1922), Bohemian naturalist, Piarist clergyman and school teacher; studied at the Piarist college in Leipnick (Moravia); teacher's examination for biology and physics 1873; teacher at various schools in Moravia; professor at the municipal high school of Böhmisch Leipa 1874; ultimately teacher in Prague. (*Wurm*).
+Wurm, Franz (1845-1922), Bohemian naturalist, Piarist clergyman and school teacher; studied at the Piarist college in Leipnick (Moravia); teacher's examination for biology and physics 1873; teacher at various schools in Moravia; professor at the municipal high school of Böhmisch Leipa 1874; ultimately teacher in Prague. 
+**Abbreviated name**: *Wurm*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/103861#page/474/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33266771) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caum, Edward \[Leonard\] (1893-x), American botanist, born at Philadelphia, Pa., A.B. Swarthmore College 1914, A.M. 1924, assistant pathologist at the Experiment Station Hawaiian Sugar Planters', Honolulu 1916-1922, assistant plant inspector Territorical Board Agriculture and Forestry 1922-1926, associate botanist at the Experiment Station Honolulu from 1826, B.P. Bishop Museum Honolulu from 1923. (*Caum*).
+Caum, Edward \[Leonard\] (1893-x), American botanist, born at Philadelphia, Pa., A.B. Swarthmore College 1914, A.M. 1924, assistant pathologist at the Experiment Station Hawaiian Sugar Planters', Honolulu 1916-1922, assistant plant inspector Territorical Board Agriculture and Forestry 1922-1926, associate botanist at the Experiment Station Honolulu from 1826, B.P. Bishop Museum Honolulu from 1923. 
+**Abbreviated name**: *Caum*
 
 #### Herbarium and types
 

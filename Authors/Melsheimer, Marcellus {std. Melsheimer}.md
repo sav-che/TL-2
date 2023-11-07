@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/104137#page/426/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Melsheimer, Marcellus (1827-1920), German botanist and forester; studied at the Eisenach forestry college 1852-1854; from 1856-1896 Oberförster at Linz a. Rhein; in retirement ibid, until 1920. (*Melsheimer*).
+Melsheimer, Marcellus (1827-1920), German botanist and forester; studied at the Eisenach forestry college 1852-1854; from 1856-1896 Oberförster at Linz a. Rhein; in retirement ibid, until 1920. 
+**Abbreviated name**: *Melsheimer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/item/103624#page/256/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33189713) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phillips, John (1800-1874), British geologist and palaeobotanist; curator of the York Museum 1824-1840; professor of geology, Trinity Coll., Dublin 1844-1853; keeper Ashmolean museum, Oxford 1854-1870. (*J. Phillips*).
+Phillips, John (1800-1874), British geologist and palaeobotanist; curator of the York Museum 1824-1840; professor of geology, Trinity Coll., Dublin 1844-1853; keeper Ashmolean museum, Oxford 1854-1870. 
+**Abbreviated name**: *J. Phillips*
 
 #### Collections and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103253#page/377/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howie, Charles (1811-1899), Scottish bryologist, nurseryman and seedsman, of St. Andrews. (*Howie*).
+Howie, Charles (1811-1899), Scottish bryologist, nurseryman and seedsman, of St. Andrews. 
+**Abbreviated name**: *Howie*
 
 #### Herbarium and types
 

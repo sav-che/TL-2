@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/item/103861#page/145/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33266442) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, Harry Philip (1887-x), American forest botanist and wood technologist, born at West Winfield, N.Y., A.B. Cornell 1909, A.M. 1910, Ph.D. 1914, xylotomist US Forest Service 1911, instructor in botany at Cornell 1912-1914, assistant professor of botany at the N.Y. State College of Forestry, Syracuse 1915-1917, professor of wood technology at Syracuse from 1918, temporary wood technologist at the Forest Institute, Dehra Dun, India 1922-1923. (*H.P. Br.*).
+Brown, Harry Philip (1887-x), American forest botanist and wood technologist, born at West Winfield, N.Y., A.B. Cornell 1909, A.M. 1910, Ph.D. 1914, xylotomist US Forest Service 1911, instructor in botany at Cornell 1912-1914, assistant professor of botany at the N.Y. State College of Forestry, Syracuse 1915-1917, professor of wood technology at Syracuse from 1918, temporary wood technologist at the Forest Institute, Dehra Dun, India 1922-1923. 
+**Abbreviated name**: *H.P. Br.*
 
 #### Herbarium and types
 

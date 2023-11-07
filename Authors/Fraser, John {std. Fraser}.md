@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/item/103414#page/921/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fraser, John {std. Fraser} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fraser, John (1750-1811), Scottish hosier, later plant collector and traveller in North America who established a nursery at Chelsea 1795. (*Fraser*).
+Fraser, John (1750-1811), Scottish hosier, later plant collector and traveller in North America who established a nursery at Chelsea 1795. 
+**Abbreviated name**: *Fraser*
 
 #### Herbarium and types
 

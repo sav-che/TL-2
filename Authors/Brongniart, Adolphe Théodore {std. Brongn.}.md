@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/item/103414#page/400/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33120483) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brongniart, Adolphe Théodore {std. Brongn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brongniart, Adolphe Théodore (1801-1876), French botanist and palaeobiologist; leading French taxonomist of the 19th century; son of Alexandre Brongniart. (*Brongn.*).
+Brongniart, Adolphe Théodore (1801-1876), French botanist and palaeobiologist; leading French taxonomist of the 19th century; son of Alexandre Brongniart. 
+**Abbreviated name**: *Brongn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/item/103414#page/896/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flotow, Julius Christian Gottlieb Ulrich Gustav Georg Adam Ernst Friedrich von (1788-1856), German botanist and "Königlicher Preussischer Major," lived from 1824 onward in Hirschberg, Riesengebirge. (*Flot.*).
+Flotow, Julius Christian Gottlieb Ulrich Gustav Georg Adam Ernst Friedrich von (1788-1856), German botanist and "Königlicher Preussischer Major," lived from 1824 onward in Hirschberg, Riesengebirge. 
+**Abbreviated name**: *Flot.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103250#page/276/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33066556) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weston, Richard (1733-1806), British agricultural writer and thread-hosier of Leicester; secretary of the Leicester Agricultural Society. (*Weston*).
+Weston, Richard (1733-1806), British agricultural writer and thread-hosier of Leicester; secretary of the Leicester Agricultural Society. 
+**Abbreviated name**: *Weston*
 
 #### Herbarium and types
 

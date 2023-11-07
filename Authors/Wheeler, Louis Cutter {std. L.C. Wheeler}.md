@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103250#page/299/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33066579) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wheeler, Louis Cutter (1910-1980), American botanist; A.B. Univ. Calif, Los Angeles 1933; M.A. Claremont 1934; Dr. phil. Harvard 1939; instructor in botany, Univ. Missouri 1939-1940; id. The American University, Washington, D.C. 1940-1941; id. University Pennsylvania 1941-1942; asst. technologist Guayule Rubber project 1943-1944; research assistant Cal. Tech. 1945; with University of Southern California, asst. prof. botany 1945-1947, assoc. id. 1947-1956, head Dept. Bot. 1945-1953; ultimately regular professor of botany; specialist on Euphorbiaceae. (*L.C. Wheeler*).
+Wheeler, Louis Cutter (1910-1980), American botanist; A.B. Univ. Calif, Los Angeles 1933; M.A. Claremont 1934; Dr. phil. Harvard 1939; instructor in botany, Univ. Missouri 1939-1940; id. The American University, Washington, D.C. 1940-1941; id. University Pennsylvania 1941-1942; asst. technologist Guayule Rubber project 1943-1944; research assistant Cal. Tech. 1945; with University of Southern California, asst. prof. botany 1945-1947, assoc. id. 1947-1956, head Dept. Bot. 1945-1953; ultimately regular professor of botany; specialist on Euphorbiaceae. 
+**Abbreviated name**: *L.C. Wheeler*
 
 #### Herbarium and types
 

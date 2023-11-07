@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103835#page/260/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33260238) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Echeandía, Pedro Gregorio (1749-1817), Spanish botanist, born 4 Jan 1746 Pamplona, pharmacist at Zaragoza, died 18 Jul 1817, Zaragoza. (*Echeandía*).
+Echeandía, Pedro Gregorio (1749-1817), Spanish botanist, born 4 Jan 1746 Pamplona, pharmacist at Zaragoza, died 18 Jul 1817, Zaragoza. 
+**Abbreviated name**: *Echeandía*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/item/103414#page/879/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33120962) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Filet, G.J. {std. Filet} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Filet, G. J. (1825-1891), Dutch army physician in the Netherlands East Indies. (*Filet*).
+Filet, G. J. (1825-1891), Dutch army physician in the Netherlands East Indies. 
+**Abbreviated name**: *Filet*
 
 #### Herbarium and types
 

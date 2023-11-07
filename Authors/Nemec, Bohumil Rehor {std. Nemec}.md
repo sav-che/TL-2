@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/item/104137#page/741/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33355812) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nemec, Bohumil Rehor (1873-1966), Bohemian (Czechoslovakian) botanist; Dr. phil. Praha 1896; mycologist and physiologist; professor of plant anatomy and physiology at the Charles University at Praha from 1904. (*Nemec*).
+Nemec, Bohumil Rehor (1873-1966), Bohemian (Czechoslovakian) botanist; Dr. phil. Praha 1896; mycologist and physiologist; professor of plant anatomy and physiology at the Charles University at Praha from 1904. 
+**Abbreviated name**: *Nemec*
 
 #### Herbarium and types
 

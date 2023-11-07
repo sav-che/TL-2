@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/item/104077#page/577/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33333702) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shibata, Keita (1878-1949), Japanese botanist and biochemist; Dr. phil. Tokyo 1899; Dr. Sci. 1904; professor of botany at Hokkaido University, Sapporo, 1908-1910; studied with Pfeffer at Leipzig 1910-1911; lecturer in plant-biochemistry and physiology at Tokyo University 1910, e.o. professor of botany ib. 1912; ord. professor 1918-1938; director of the Iwata Institute for Plant biochemistry 1938-1949. (*Shib.*).
+Shibata, Keita (1878-1949), Japanese botanist and biochemist; Dr. phil. Tokyo 1899; Dr. Sci. 1904; professor of botany at Hokkaido University, Sapporo, 1908-1910; studied with Pfeffer at Leipzig 1910-1911; lecturer in plant-biochemistry and physiology at Tokyo University 1910, e.o. professor of botany ib. 1912; ord. professor 1918-1938; director of the Iwata Institute for Plant biochemistry 1938-1949. 
+**Abbreviated name**: *Shib.*
 
 #### Herbarium and types
 

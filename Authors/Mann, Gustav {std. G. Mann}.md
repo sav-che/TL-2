@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/104137#page/293/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33355364) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mann, Gustav (1836-1916), German botanist; Kew gardener and collector; on Baikie's Niger Expedition (1859-1862); Indian Forest Service (1863-1891); later living in München. (*G. Mann*).
+Mann, Gustav (1836-1916), German botanist; Kew gardener and collector; on Baikie's Niger Expedition (1859-1862); Indian Forest Service (1863-1891); later living in München. 
+**Abbreviated name**: *G. Mann*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103835#page/107/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33260085) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drewitt, Frederic George Dawtrey (1848-1942), British botanist, born 29 Feb 1848 in Burpham (Surrey), educated in Oxford (medicine and natural sciences), surgeon at St. George's hospital, London, 1876, and other hospitals in London until 1902, died 29 Jul 1942, Kensington (London), represented the college of Physicians on the Managing Committee of the Chelsea Physic Garden. (*Drewitt*).
+Drewitt, Frederic George Dawtrey (1848-1942), British botanist, born 29 Feb 1848 in Burpham (Surrey), educated in Oxford (medicine and natural sciences), surgeon at St. George's hospital, London, 1876, and other hospitals in London until 1902, died 29 Jul 1942, Kensington (London), represented the college of Physicians on the Managing Committee of the Chelsea Physic Garden. 
+**Abbreviated name**: *Drewitt*
 
 #### Herbarium and types
 

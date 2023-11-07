@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/103833#page/141/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33259175) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Debey, Matthias Dominikus Hubert Maria {std. Debey}|first entry]] for this author
 
 ### Author
 
-\* Debey, Matthias \[Dominikus\] Humbert \[Maria\] (1817-1884), German palaeobotanist and physician, born 23 Aug 1817 and died 19 Mar 1884 at Aachen, educated at the Aachen Gymnasium ("Münstereifel"), studied medicine in Bonn and Berlin, Dr. med. Berlin 1840, studied medicine in Paris also, from 1841 physician in Aachen. (*Debey*).
+\* Debey, Matthias \[Dominikus\] Humbert \[Maria\] (1817-1884), German palaeobotanist and physician, born 23 Aug 1817 and died 19 Mar 1884 at Aachen, educated at the Aachen Gymnasium ("Münstereifel"), studied medicine in Bonn and Berlin, Dr. med. Berlin 1840, studied medicine in Paris also, from 1841 physician in Aachen. 
+**Abbreviated name**: *Debey*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/item/104137#page/766/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33355837) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Niel, Pierre Eugène (1836-1905), French banker, philanthropist and amateur botanist at Rouen. (*Niel*).
+Niel, Pierre Eugène (1836-1905), French banker, philanthropist and amateur botanist at Rouen. 
+**Abbreviated name**: *Niel*
 
 #### Herbarium and types
 

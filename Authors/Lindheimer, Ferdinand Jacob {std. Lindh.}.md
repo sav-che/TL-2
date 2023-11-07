@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/104137#page/64/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33355097) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindheimer, Ferdinand Jacob (1801-1879), German botanist; in 1834 as political refugee to the United States; settled in 1840 at New-Braunfels, Texas, in which state he collected extensively. (*Lindh.*).
+Lindheimer, Ferdinand Jacob (1801-1879), German botanist; in 1834 as political refugee to the United States; settled in 1840 at New-Braunfels, Texas, in which state he collected extensively. 
+**Abbreviated name**: *Lindh.*
 
 #### Herbarium and types
 

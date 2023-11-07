@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/item/103683#page/679/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33212711) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vanhöffen, Ernst (1858-1918), German (East-Prussian) zoologist, botanist (algologist) and explorer of Greenland; studied at the University of Königsberg 1878-1886; state teacher's examination ib. 1886; assistant at the Zoological Institute, Königsberg 1886-1890 (in Naples 1889-1890); Dr. phil. ib. 1888; professor of zoology at the University of Kiel 1890-1906. (*Vanhöffen*).
+Vanhöffen, Ernst (1858-1918), German (East-Prussian) zoologist, botanist (algologist) and explorer of Greenland; studied at the University of Königsberg 1878-1886; state teacher's examination ib. 1886; assistant at the Zoological Institute, Königsberg 1886-1890 (in Naples 1889-1890); Dr. phil. ib. 1888; professor of zoology at the University of Kiel 1890-1906. 
+**Abbreviated name**: *Vanhöffen*
 
 #### Herbarium and types
 

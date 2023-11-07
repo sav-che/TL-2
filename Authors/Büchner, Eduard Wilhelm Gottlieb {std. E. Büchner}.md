@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103861#page/216/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33266513) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Büchner, Eduard Wilhelm Gottlieb (1805-1867), German professor and teacher of mathematics and natural science at the Herzogl. Gymnasium at Hildburghausen. (*E. Büchner*).
+Büchner, Eduard Wilhelm Gottlieb (1805-1867), German professor and teacher of mathematics and natural science at the Herzogl. Gymnasium at Hildburghausen. 
+**Abbreviated name**: *E. Büchner*
 
 #### Herbarium and types
 

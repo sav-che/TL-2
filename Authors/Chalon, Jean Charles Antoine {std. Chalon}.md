@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/103414#page/529/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chalon, Jean Charles Antoine {std. Chalon} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Chalon, Jean Charles Antoine (1846-1921), Belgian botanist. (*Chalon*).
+Chalon, Jean Charles Antoine (1846-1921), Belgian botanist. 
+**Abbreviated name**: *Chalon*
 
 #### Herbarium and types
 

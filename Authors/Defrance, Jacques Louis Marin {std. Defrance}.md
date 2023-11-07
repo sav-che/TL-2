@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/103414#page/658/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Defrance, Jacques Louis Marin (1758-1850), French palaeontologist who described a number of fossil organisms as animals now believed to be plants. (*Defrance*).
+Defrance, Jacques Louis Marin (1758-1850), French palaeontologist who described a number of fossil organisms as animals now believed to be plants. 
+**Abbreviated name**: *Defrance*
 
 #### Collections
 

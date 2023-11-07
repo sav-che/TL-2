@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103835#page/11/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259989) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Doassans, \[Jacques-\]Emíle (1852-1908), French "docteur en médecine" and "préparateur" at the Muséum d'Histoire naturelle and at the Faculté de Médecine at the Paris hospital, born 1852, died 23 Apr 1908, Nay, Basses-Pyrénées. (*Doass.*).
+Doassans, \[Jacques-\]Emíle (1852-1908), French "docteur en médecine" and "préparateur" at the Muséum d'Histoire naturelle and at the Faculté de Médecine at the Paris hospital, born 1852, died 23 Apr 1908, Nay, Basses-Pyrénées. 
+**Abbreviated name**: *Doass.*
 
 #### Herbarium and types
 

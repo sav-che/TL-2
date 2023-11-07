@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103860#page/422/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266089) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Couffinhal, M. (fl. 1928), Forester in Cochinchina at Saigon. (*Couffinhal*).
+Couffinhal, M. (fl. 1928), Forester in Cochinchina at Saigon. 
+**Abbreviated name**: *Couffinhal*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/item/103832#page/341/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33258807) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[GrandEury, François Cyrille {std. GrandEury}|first entry]] for this author
 
 ### Author
 
-\* Grand'Eury, François Cyrille (1839-1917), French mining engineer and paleontologist, born 9 Mar 1839 in Houdreville-sous Vézelise (Meurthe-et-Moselle), studied at the École Loritz, Nancy, then at the School of Mines, St.-Étienne (Loire), tutor ("répétiteur") from 1863, then prof. of mathematics 1883-1899, also at the School of Mines, corr., Académie des Sciences 1885, Légion d' honneur and many other academic prizes, died 22 Jul 1917 in Malzéville-sous-Nancy (Meurthe-et-Moselle). (*Grand'Eury*).
+\* Grand'Eury, François Cyrille (1839-1917), French mining engineer and paleontologist, born 9 Mar 1839 in Houdreville-sous Vézelise (Meurthe-et-Moselle), studied at the École Loritz, Nancy, then at the School of Mines, St.-Étienne (Loire), tutor ("répétiteur") from 1863, then prof. of mathematics 1883-1899, also at the School of Mines, corr., Académie des Sciences 1885, Légion d' honneur and many other academic prizes, died 22 Jul 1917 in Malzéville-sous-Nancy (Meurthe-et-Moselle). 
+**Abbreviated name**: *Grand'Eury*
 
 #### Herbarium and types
 

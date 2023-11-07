@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103250#page/351/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33066631) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilczek, Rudolf (1903-1984), Polish botanist; studied at the University of Lwów 1925; assistant at the Institute of plant systematics 1925; assistant at the Institute of culture and protection of plants Lwów 1927; from 1928-1932 connected with the Peat research institute; Dr. phil. Lwów 1931; teacher at a high school in Myslowice 1932; on a trip to Greenland 1937; prisoner of war in Germany 1939-1945; stationed at the Centre polonais des Hautes Études in Belgium 1945-1947; with the I.N.E.A.C. in Brussels 1948-1962; stationed at the Jardin botanique de l'État at Brussels 1962-1968; in retirement working at that same institution 1968-1984. (*R. Wilcz.*).
+Wilczek, Rudolf (1903-1984), Polish botanist; studied at the University of Lwów 1925; assistant at the Institute of plant systematics 1925; assistant at the Institute of culture and protection of plants Lwów 1927; from 1928-1932 connected with the Peat research institute; Dr. phil. Lwów 1931; teacher at a high school in Myslowice 1932; on a trip to Greenland 1937; prisoner of war in Germany 1939-1945; stationed at the Centre polonais des Hautes Études in Belgium 1945-1947; with the I.N.E.A.C. in Brussels 1948-1962; stationed at the Jardin botanique de l'État at Brussels 1962-1968; in retirement working at that same institution 1968-1984. 
+**Abbreviated name**: *R. Wilcz.*
 
 #### Herbarium and types
 

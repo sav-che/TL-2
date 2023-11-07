@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103414#page/318/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33120401) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonelli, Giorgio (1724-1782), Italian botanist. (*Bonelli*).
+Bonelli, Giorgio (1724-1782), Italian botanist. 
+**Abbreviated name**: *Bonelli*
 
 #### Herbarium and types
 

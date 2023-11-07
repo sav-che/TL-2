@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103861#page/142/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33266439) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broun, Maurice (1906-x), American ornithologist, born 27 Aug 1906, New York, NY, assistant ornithologist 1927-1928 at Massachusetts Department of Agriculture at Pleasant Valley Sanct Lenox, Mass., supt. 1929-1931, research associate Austin Ornith. Res. Station Cape Cod 1931-1934, Long Trail Lodge Vermont 1934. (*M. Broun*).
+Broun, Maurice (1906-x), American ornithologist, born 27 Aug 1906, New York, NY, assistant ornithologist 1927-1928 at Massachusetts Department of Agriculture at Pleasant Valley Sanct Lenox, Mass., supt. 1929-1931, research associate Austin Ornith. Res. Station Cape Cod 1931-1934, Long Trail Lodge Vermont 1934. 
+**Abbreviated name**: *M. Broun*
 
 #### Herbarium and types
 

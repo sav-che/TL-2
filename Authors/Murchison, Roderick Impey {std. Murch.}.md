@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/item/104137#page/681/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33355752) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murchison, Roderick Impey (1792-1871), British palaeontologist; director of the British geological survey. (*Murch.*).
+Murchison, Roderick Impey (1792-1871), British palaeontologist; director of the British geological survey. 
+**Abbreviated name**: *Murch.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103861#page/100/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33266397) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Britten, James {std. Britten}|first entry]] for this author
 
 ### Author
 
-\* Britten, James (1846-1924), English (Chelsea born) botanist, educated privately, assistant at Kew Gardens 1869-1871, member of the Linnean Society 1870, assistant at the Botany Departement British Museum 1871-1909, Knight of St. Gregory 1897, Knight Commander 1917, ultimately living at Brentford. (*Britten*).
+\* Britten, James (1846-1924), English (Chelsea born) botanist, educated privately, assistant at Kew Gardens 1869-1871, member of the Linnean Society 1870, assistant at the Botany Departement British Museum 1871-1909, Knight of St. Gregory 1897, Knight Commander 1917, ultimately living at Brentford. 
+**Abbreviated name**: *Britten*
 
 #### Herbarium and types
 

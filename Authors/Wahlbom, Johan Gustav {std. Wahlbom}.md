@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103250#page/77/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33066357) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wahlbom, Johan Gustav (1724-1808), Swedish botanist and physician; student of C. Linnaeus; Dr. med. Uppsala 1751; regional physician in Kalmar 1754-1794; appointed botanical demonstrator h.c. Stockholm 1794, but stayed in Kalmar. (*Wahlbom*).
+Wahlbom, Johan Gustav (1724-1808), Swedish botanist and physician; student of C. Linnaeus; Dr. med. Uppsala 1751; regional physician in Kalmar 1754-1794; appointed botanical demonstrator h.c. Stockholm 1794, but stayed in Kalmar. 
+**Abbreviated name**: *Wahlbom*
 
 #### Herbarium and types
 

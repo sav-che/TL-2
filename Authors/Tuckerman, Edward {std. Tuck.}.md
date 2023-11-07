@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/item/103683#page/533/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33212565) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tuckerman, Edward (1817-1886), American botanist, B.A. Union Coll. 1837; LL.D. Harvard College 1839; travelled in Europe 1841-1842; B.A. Harvard 1847; in Harvard Divinity School 1847-1852; lecturer in history at Amherst College 1854-1855; professor of oriental history 1855-1858; professor of botany ib. 1858-1886 (also lecturing in history 1858-1873); outstanding lichenologist. (*Tuck.*).
+Tuckerman, Edward (1817-1886), American botanist, B.A. Union Coll. 1837; LL.D. Harvard College 1839; travelled in Europe 1841-1842; B.A. Harvard 1847; in Harvard Divinity School 1847-1852; lecturer in history at Amherst College 1854-1855; professor of oriental history 1855-1858; professor of botany ib. 1858-1886 (also lecturing in history 1858-1873); outstanding lichenologist. 
+**Abbreviated name**: *Tuck.*
 
 #### Herbarium and types
 

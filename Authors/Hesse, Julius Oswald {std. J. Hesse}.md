@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103253#page/207/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33068423) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hesse, Julius Oswald (1835-1917), German industrial chemist and lichenologist; with the Jobst firm in Stuttgart, later at Feuerbach as director of the Vereinigte Chininfabriken Zimmer & Co.; honorary citizen of the town of Feuerbach. (*J. Hesse*).
+Hesse, Julius Oswald (1835-1917), German industrial chemist and lichenologist; with the Jobst firm in Stuttgart, later at Feuerbach as director of the Vereinigte Chininfabriken Zimmer & Co.; honorary citizen of the town of Feuerbach. 
+**Abbreviated name**: *J. Hesse*
 
 #### Herbarium and types
 

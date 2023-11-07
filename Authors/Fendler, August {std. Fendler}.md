@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/item/103414#page/870/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fendler, August (1813-1883), German born explorer and collector in North and South America. (*Fendler*).
+Fendler, August (1813-1883), German born explorer and collector in North and South America. 
+**Abbreviated name**: *Fendler*
 
 #### Herbarium and types
 

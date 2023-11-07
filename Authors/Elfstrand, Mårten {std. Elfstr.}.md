@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103835#page/310/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33260288) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elfstrand, Mårten (1859-1929), Swedish pharmacognist and botanist, born 20 Mai 1859 in Undersåker (Jämtland), visited school at Östersund, to Uppsala University 1883, med. cand. 1887, med. lic. 1893, med. dr. and docent in pharmacognosy 1895, prof. in 1898. (*Elfstr.*).
+Elfstrand, Mårten (1859-1929), Swedish pharmacognist and botanist, born 20 Mai 1859 in Undersåker (Jämtland), visited school at Östersund, to Uppsala University 1883, med. cand. 1887, med. lic. 1893, med. dr. and docent in pharmacognosy 1895, prof. in 1898. 
+**Abbreviated name**: *Elfstr.*
 
 #### Herbarium and types
 

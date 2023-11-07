@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103624#page/335/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33189792) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poisson, Henri \[-Louis\] (1877-1963), French botanist; in Madagascar 1916-1954 as veterinary surgeon and inspector (1921-1934) and amateur botanist; Dr. sci. nat. Paris 1912. (*Poiss.*).
+Poisson, Henri \[-Louis\] (1877-1963), French botanist; in Madagascar 1916-1954 as veterinary surgeon and inspector (1921-1934) and amateur botanist; Dr. sci. nat. Paris 1912. 
+**Abbreviated name**: *Poiss.*
 
 #### Herbarium and types
 

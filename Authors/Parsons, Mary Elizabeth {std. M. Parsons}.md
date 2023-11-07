@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103624#page/97/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parsons, Mary Elizabeth (1859-1947), American popular writer on wild plants, born in Chicago; to California as a young girl, first at San Rafael and later at Kentfield. (*M. Parsons*).
+Parsons, Mary Elizabeth (1859-1947), American popular writer on wild plants, born in Chicago; to California as a young girl, first at San Rafael and later at Kentfield. 
+**Abbreviated name**: *M. Parsons*
 
 #### Herbarium and types
 

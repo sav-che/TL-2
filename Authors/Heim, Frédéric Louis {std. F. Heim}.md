@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103253#page/162/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33068378) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heim, Frédéric Louis (1869-x), French botanist; Dr. sci. Paris 1892. (*F. Heim*).
+Heim, Frédéric Louis (1869-x), French botanist; Dr. sci. Paris 1892. 
+**Abbreviated name**: *F. Heim*
 
 #### Herbarium and types
 

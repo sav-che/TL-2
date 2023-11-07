@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103859#page/157/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33265344) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bettelini, Arnoldo (1876-?), Swiss (Caslano, Lugano-born) botanist, Dr. phil. Univ. Zürich 1904. (*Bettelini*).
+Bettelini, Arnoldo (1876-?), Swiss (Caslano, Lugano-born) botanist, Dr. phil. Univ. Zürich 1904. 
+**Abbreviated name**: *Bettelini*
 
 #### Herbarium and types
 

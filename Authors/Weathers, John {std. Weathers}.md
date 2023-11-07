@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103250#page/176/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33066456) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weathers, John (1867-1928), British horticulturist and gardener; sometime Kew gardener; assistant secretary Royal Horticultural Society, later market gardener at Isleworth. (*Weathers*).
+Weathers, John (1867-1928), British horticulturist and gardener; sometime Kew gardener; assistant secretary Royal Horticultural Society, later market gardener at Isleworth. 
+**Abbreviated name**: *Weathers*
 
 #### Herbarium and types
 

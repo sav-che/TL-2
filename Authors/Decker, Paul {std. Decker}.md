@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103833#page/153/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259187) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Decker, Paul (1867-x), German schoolteacher born 13 Nov 1867 in Griesel (Kreis Krossen), educated at the seminar at Neuzelle, teaching at the gymnasium at Forst (Lausitz). (*Decker*).
+Decker, Paul (1867-x), German schoolteacher born 13 Nov 1867 in Griesel (Kreis Krossen), educated at the seminar at Neuzelle, teaching at the gymnasium at Forst (Lausitz). 
+**Abbreviated name**: *Decker*
 
 #### Herbarium and types
 

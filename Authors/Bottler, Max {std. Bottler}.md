@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103414#page/337/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33120420) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bottler, Max (*fl*. 1882), German highschool teacher and botanist at Kissingen. (*Bottler*).
+Bottler, Max (*fl*. 1882), German highschool teacher and botanist at Kissingen. 
+**Abbreviated name**: *Bottler*
 
 #### Herbarium and types
 

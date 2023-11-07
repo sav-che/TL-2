@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/103683#page/309/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33212341) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thouvenin, Maurice \[-François\] (1857-?), French pharmacist and botanist; pharmacist Ist class Nancy 1884; Aggr. Ecol. sup. Pharmacie Paris 1884; Dr. Sci. nat. Paris 1890; chef des travaux pratiques École supérieure de pharmacie Nancy ca. 1884; teaching at the École de médecine et de pharmacie Besançon ca. 1890. (*Thouvenin*).
+Thouvenin, Maurice \[-François\] (1857-?), French pharmacist and botanist; pharmacist Ist class Nancy 1884; Aggr. Ecol. sup. Pharmacie Paris 1884; Dr. Sci. nat. Paris 1890; chef des travaux pratiques École supérieure de pharmacie Nancy ca. 1884; teaching at the École de médecine et de pharmacie Besançon ca. 1890. 
+**Abbreviated name**: *Thouvenin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/item/103253#page/679/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33068895) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koster, Henry (1793-1820), British botanist of Portuguese descent; in Brazil 1809-1815 and 1820. (*H. Kost.*).
+Koster, Henry (1793-1820), British botanist of Portuguese descent; in Brazil 1809-1815 and 1820. 
+**Abbreviated name**: *H. Kost.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/103414#page/430/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33120513) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunfels, Otto (1488-1534), German botanist, physician and theologian. (*Brunfels*).
+Brunfels, Otto (1488-1534), German botanist, physician and theologian. 
+**Abbreviated name**: *Brunfels*
 
 #### Herbarium and types
 

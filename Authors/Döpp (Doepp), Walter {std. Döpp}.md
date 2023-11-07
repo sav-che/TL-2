@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103835#page/32/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33260010) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Döpp \[Doepp\], Walter (1901-1963), German botanist, born 19 Feb 1901, Weidenau, near Siegen, studied natural history at Marburg and Jena, 1920 scientist at institute for water and air hygiene at Berlin-Dahlem, 1927 assistant bot. inst. University of Marburg, docent in 1932, 1943-1945 prof. at TH Dresden, from 1954 again at Marburg, 1958-1960 teacher in Iran, died 1 Jul 1963 at Marburg. (*Döpp*).
+Döpp \[Doepp\], Walter (1901-1963), German botanist, born 19 Feb 1901, Weidenau, near Siegen, studied natural history at Marburg and Jena, 1920 scientist at institute for water and air hygiene at Berlin-Dahlem, 1927 assistant bot. inst. University of Marburg, docent in 1932, 1943-1945 prof. at TH Dresden, from 1954 again at Marburg, 1958-1960 teacher in Iran, died 1 Jul 1963 at Marburg. 
+**Abbreviated name**: *Döpp*
 
 #### Herbarium and types
 

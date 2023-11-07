@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103833#page/194/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259228) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dellien, Friedrich (fl. 1892), German botanist, born at Lübeck, studied at the Kgl. bayer. Friedrich-Alexanders-Universität zu Erlangen. (*Dellien*).
+Dellien, Friedrich (fl. 1892), German botanist, born at Lübeck, studied at the Kgl. bayer. Friedrich-Alexanders-Universität zu Erlangen. 
+**Abbreviated name**: *Dellien*
 
 #### Herbarium and types
 

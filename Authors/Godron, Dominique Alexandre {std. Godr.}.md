@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/item/103414#page/1009/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33121092) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Godron, Dominique (Alexandre) {std. Godr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Godron, Dominique Alexandre (1807-1880), French botanist at Nancy. (*Godr.*).
+Godron, Dominique Alexandre (1807-1880), French botanist at Nancy. 
+**Abbreviated name**: *Godr.*
 
 #### Herbarium and types
 

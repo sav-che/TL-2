@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103253#page/38/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33068254) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hagena, Karl (1806-1882), German botanist; studied theology at Rinteln; high school teacher at Oldenburg 1829-1879. (*Hagena*).
+Hagena, Karl (1806-1882), German botanist; studied theology at Rinteln; high school teacher at Oldenburg 1829-1879. 
+**Abbreviated name**: *Hagena*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103833#page/35/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33259069) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalbey, Nora Elizabeth (1888-1932), American botanist at the University of Kansas, AB 1913, AM 1914 at Lawrence, Kansas. (*Dalbey*).
+Dalbey, Nora Elizabeth (1888-1932), American botanist at the University of Kansas, AB 1913, AM 1914 at Lawrence, Kansas. 
+**Abbreviated name**: *Dalbey*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/item/103414#page/796/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33120879) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Enander, Sven Johan {std. Enander} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Enander, Sven Johan (1847-1928), Swedish clergyman, botanist and traveller, "King of Salix." (*Enander*).
+Enander, Sven Johan (1847-1928), Swedish clergyman, botanist and traveller, "King of Salix." 
+**Abbreviated name**: *Enander*
 
 #### Herbarium and types
 

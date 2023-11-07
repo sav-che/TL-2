@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103683#page/31/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33212073) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stolz \[Stoltz\], Jean-Chrétien \[Johann Christian\] (1764-1828), Alsatian botanist; high school teacher at Strasbourg ca. 1798-1828. (*J.-C. Stolz*).
+Stolz \[Stoltz\], Jean-Chrétien \[Johann Christian\] (1764-1828), Alsatian botanist; high school teacher at Strasbourg ca. 1798-1828. 
+**Abbreviated name**: *J.-C. Stolz*
 
 #### Herbarium and types
 

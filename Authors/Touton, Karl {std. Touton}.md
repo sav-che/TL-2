@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/103683#page/427/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33212459) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Touton, Karl (1858-1934), German (Rheinhessen) physician and botanist; Dr. med. Freiburg i.B. 1881; practicing dermatologist at Wiesbaden. (*Touton*).
+Touton, Karl (1858-1934), German (Rheinhessen) physician and botanist; Dr. med. Freiburg i.B. 1881; practicing dermatologist at Wiesbaden. 
+**Abbreviated name**: *Touton*
 
 #### Herbarium and types
 

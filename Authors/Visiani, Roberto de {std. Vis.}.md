@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/103683#page/764/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33212796) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Visiani, Roberto de (1800-1878), Italian (Dalmatia-born) botanist and physician; Dr. med. 1822, assistant with G.A. Bonato at Padua 1822-1826; physician at Cattaro 1829, Demis 1830, and Budua 1835; assistant professor at Padua; regular professor and director of the botanical garden ib. 1837-1877; explorer of and writer on the floras of Dalmatia and Venice. (*Vis.*).
+Visiani, Roberto de (1800-1878), Italian (Dalmatia-born) botanist and physician; Dr. med. 1822, assistant with G.A. Bonato at Padua 1822-1826; physician at Cattaro 1829, Demis 1830, and Budua 1835; assistant professor at Padua; regular professor and director of the botanical garden ib. 1837-1877; explorer of and writer on the floras of Dalmatia and Venice. 
+**Abbreviated name**: *Vis.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103835#page/99/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33260077) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drar, Mohammed (1894-1964), Egyptian botanist, born 15 Mar 1894, started professional life as a gardener, directed the Zohria, Orman and Qubba botanical gardens and organized, in part, the botanical section, garden library, and herbarium of the Agricultural Museum at Cairo. (*Drar*).
+Drar, Mohammed (1894-1964), Egyptian botanist, born 15 Mar 1894, started professional life as a gardener, directed the Zohria, Orman and Qubba botanical gardens and organized, in part, the botanical section, garden library, and herbarium of the Agricultural Museum at Cairo. 
+**Abbreviated name**: *Drar*
 
 #### Herbarium and types
 

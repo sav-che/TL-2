@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/103414#page/561/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33120644) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clusius, Carolus \[Charles de l’Escluse\] (1526-1609), Dutch botanist. (*Clus.*).
+Clusius, Carolus \[Charles de l’Escluse\] (1526-1609), Dutch botanist. 
+**Abbreviated name**: *Clus.*
 
 #### Herbarium and types
 

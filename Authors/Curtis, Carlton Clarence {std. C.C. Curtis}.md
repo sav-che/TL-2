@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/103860#page/523/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33266190) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Curtis, Carlton Clarence (1864-1945), American botanist, born at Syracuse, N.Y., early training at Syracuse University, N.Y., Bachelor degree 1889, at Columbia University 1889-1892, Master's degree 1892, at Syracuse 1892-1893, Dr. phil. Syracuse 1893, studied some time at Cambridge, England 1893, assistant at Columbia University (associate professor 1908), 1893-1934 in the Department of botany. (*C.C. Curtis*).
+Curtis, Carlton Clarence (1864-1945), American botanist, born at Syracuse, N.Y., early training at Syracuse University, N.Y., Bachelor degree 1889, at Columbia University 1889-1892, Master's degree 1892, at Syracuse 1892-1893, Dr. phil. Syracuse 1893, studied some time at Cambridge, England 1893, assistant at Columbia University (associate professor 1908), 1893-1934 in the Department of botany. 
+**Abbreviated name**: *C.C. Curtis*
 
 #### Herbarium and types
 

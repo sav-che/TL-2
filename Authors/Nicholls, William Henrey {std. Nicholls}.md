@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/104137#page/755/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33355826) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicholls, William Henrey (1885-1951), Australian bookbinder, orchidologist, propagator and gardener at the Footscray (Melbourne) municipal gardens. (*Nicholls*).
+Nicholls, William Henrey (1885-1951), Australian bookbinder, orchidologist, propagator and gardener at the Footscray (Melbourne) municipal gardens. 
+**Abbreviated name**: *Nicholls*
 
 #### Herbarium and types
 

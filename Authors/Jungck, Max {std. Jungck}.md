@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/103253#page/496/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jungck, Max (1849-?), German high school teacher and botanist at Gleiwitz. (*Jungck*).
+Jungck, Max (1849-?), German high school teacher and botanist at Gleiwitz. 
+**Abbreviated name**: *Jungck*
 
 #### Herbarium and types
 

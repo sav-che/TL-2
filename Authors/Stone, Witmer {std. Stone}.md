@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103683#page/34/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33212070) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stone, Witmer (1866-1939), American naturalist (ornithologist and botanist); B.A. Univ. Pennsylvania 1887, MA 1891, Dr. Sci. h.c. 1913; conservator of the ornithological section of the Academy of natural sciences, Philadelphia 1891, executive curator of its Museum 1918-1925 and director 1925-1928; from 1928 emeritus director; collected widely in N. and S. America; co-founder of the Philadelphia Botanical Club, 1891. (*Stone*).
+Stone, Witmer (1866-1939), American naturalist (ornithologist and botanist); B.A. Univ. Pennsylvania 1887, MA 1891, Dr. Sci. h.c. 1913; conservator of the ornithological section of the Academy of natural sciences, Philadelphia 1891, executive curator of its Museum 1918-1925 and director 1925-1928; from 1928 emeritus director; collected widely in N. and S. America; co-founder of the Philadelphia Botanical Club, 1891. 
+**Abbreviated name**: *Stone*
 
 #### Herbarium and types
 

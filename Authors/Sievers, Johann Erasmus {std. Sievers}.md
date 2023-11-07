@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/item/104077#page/610/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33333735) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sievers, Johann Erasmus (x-1795), German (Hannover) pharmacist, botanist and explorer; traveller in Southern Siberia and Mongolia 1790-1795. (*Sievers*).
+Sievers, Johann Erasmus (x-1795), German (Hannover) pharmacist, botanist and explorer; traveller in Southern Siberia and Mongolia 1790-1795. 
+**Abbreviated name**: *Sievers*
 
 #### Herbarium and types
 

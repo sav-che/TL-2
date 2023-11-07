@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 960](https://www.biodiversitylibrary.org/item/103414#page/1008/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 960](https://www.biodiversitylibrary.org/page/33121091) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Godman, Frederick Du Cane (Ducane) (1834-1919), British naturalist and explorer, editor of Biologia Centrali-Americana. (*Godm.*).
+Godman, Frederick Du Cane (Ducane) (1834-1919), British naturalist and explorer, editor of Biologia Centrali-Americana. 
+**Abbreviated name**: *Godm.*
 
 #### Herbarium and types
 

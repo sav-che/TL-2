@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103253#page/211/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33068427) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heukels, Hendrik (1854-1936), Dutch botanist and high school teacher at Almelo, Nijmegen and Amsterdam. (*Heukels*).
+Heukels, Hendrik (1854-1936), Dutch botanist and high school teacher at Almelo, Nijmegen and Amsterdam. 
+**Abbreviated name**: *Heukels*
 
 #### Herbarium and types
 

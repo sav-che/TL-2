@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/item/104077#page/659/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/page/33333784) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sloane, Sir Hans (1660-1753), British physician and naturalist; studied in London, Paris, Montpellier; Dr. phys. Orange 1683; Fellow Royal College of Physicians 1687; accompanied Christopher Monck to Jamaica as physician 1687-1689; maintained a medical "praxis aurea" in London; physician to Queen Anne 1712; knighted 1716, president Royal College of Physicians 1719; president of the Royal Society 1727-1740; brought together a rich library and herbarium which became the nucleus of the British Museum. (*Sloane*).
+Sloane, Sir Hans (1660-1753), British physician and naturalist; studied in London, Paris, Montpellier; Dr. phys. Orange 1683; Fellow Royal College of Physicians 1687; accompanied Christopher Monck to Jamaica as physician 1687-1689; maintained a medical "praxis aurea" in London; physician to Queen Anne 1712; knighted 1716, president Royal College of Physicians 1719; president of the Royal Society 1727-1740; brought together a rich library and herbarium which became the nucleus of the British Museum. 
+**Abbreviated name**: *Sloane*
 
 #### Herbarium and types
 

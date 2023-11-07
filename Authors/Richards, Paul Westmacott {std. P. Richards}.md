@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/item/103624#page/783/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33190240) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richards, Paul Westmacott (1908-x), British botanist, bryologist and forest ecologist; studied at Univ. College London 1925-1927; at Trinity College Cambridge 1927-1933, fellow 1933-1937; Dr. phil. ibid. 1936; Dr. Sci. ib. 1954; demonstrator in botany Cambridge 1938-1945; lecturer 1945-1949; professor of botany University College of North Wales, Bangor 1949-1976; Gold medal Linnean Soc. London 1979. (*P. Richards*).
+Richards, Paul Westmacott (1908-x), British botanist, bryologist and forest ecologist; studied at Univ. College London 1925-1927; at Trinity College Cambridge 1927-1933, fellow 1933-1937; Dr. phil. ibid. 1936; Dr. Sci. ib. 1954; demonstrator in botany Cambridge 1938-1945; lecturer 1945-1949; professor of botany University College of North Wales, Bangor 1949-1976; Gold medal Linnean Soc. London 1979. 
+**Abbreviated name**: *P. Richards*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/item/103683#page/290/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33212322) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thompson, Harold Stuart (1870-1940), British floristic botanist of private means; secretary of the Watson Botanical Exchange Club 1900-1904, 1920-1934. (*H.S. Thomps.*).
+Thompson, Harold Stuart (1870-1940), British floristic botanist of private means; secretary of the Watson Botanical Exchange Club 1900-1904, 1920-1934. 
+**Abbreviated name**: *H.S. Thomps.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/item/103860#page/309/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265976) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Concina, Nicoleto \[Nicoló\] (fl. 1802), see Soulsby, Cat. works of Linnaeus \[no further details\]. (*Concina*).
+Concina, Nicoleto \[Nicoló\] (fl. 1802), see Soulsby, Cat. works of Linnaeus \[no further details\]. 
+**Abbreviated name**: *Concina*
 
 ### Publications
 

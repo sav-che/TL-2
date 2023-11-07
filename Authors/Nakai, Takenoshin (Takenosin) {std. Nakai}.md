@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/item/104137#page/702/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33355773) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nakai, Takenoshin \[Takenosin\] (1882-1952), Japanese botanist; Ph. D. Tokyo Univ. 1907; Dr. Sci. Tokyo 1914; from 1908-1947 assistant, lecturer (1917), assistant professor (1922) and professor of botany (1927) at the University of Tokyo; from 1943-1945 director of the Buitenzorg (now Bogor) Botanical Gardens in occupied Java; from 1947 director of the National Science Museum. (*Nakai*).
+Nakai, Takenoshin \[Takenosin\] (1882-1952), Japanese botanist; Ph. D. Tokyo Univ. 1907; Dr. Sci. Tokyo 1914; from 1908-1947 assistant, lecturer (1917), assistant professor (1922) and professor of botany (1927) at the University of Tokyo; from 1943-1945 director of the Buitenzorg (now Bogor) Botanical Gardens in occupied Java; from 1947 director of the National Science Museum. 
+**Abbreviated name**: *Nakai*
 
 #### Herbarium and types
 

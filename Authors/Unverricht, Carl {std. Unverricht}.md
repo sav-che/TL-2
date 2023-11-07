@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/item/103683#page/613/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33212645) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Unverricht, Carl (1809-1883), German (Silesian) teacher and botanist; studied at the Evangelical teacher's seminary at Breslau 1830-1833, assistant teacher at Böhmischdorf nr. Brieg 1833-1834; teacher at Königshütte (Upper Silesia) 1834-1835; studied at the University of Breslau 1835-1836; teacher at Fürstenstein 1836-1842; teacher at the commercial college Bonn 1843, studied again in Breslau 1846, teacher in Hermannstadt 1847-1848, 1851; director of the evangelical school in Broos (Sachsenstadt, Szásváros in Siebenbürgen) 1881, private teacher ib. 1854; active as "Privatgelehrter" in Laurahütte (Preuss. Oberschles.) from 1861. (*Unverricht*).
+Unverricht, Carl (1809-1883), German (Silesian) teacher and botanist; studied at the Evangelical teacher's seminary at Breslau 1830-1833, assistant teacher at Böhmischdorf nr. Brieg 1833-1834; teacher at Königshütte (Upper Silesia) 1834-1835; studied at the University of Breslau 1835-1836; teacher at Fürstenstein 1836-1842; teacher at the commercial college Bonn 1843, studied again in Breslau 1846, teacher in Hermannstadt 1847-1848, 1851; director of the evangelical school in Broos (Sachsenstadt, Szásváros in Siebenbürgen) 1881, private teacher ib. 1854; active as "Privatgelehrter" in Laurahütte (Preuss. Oberschles.) from 1861. 
+**Abbreviated name**: *Unverricht*
 
 #### Herbarium and types
 

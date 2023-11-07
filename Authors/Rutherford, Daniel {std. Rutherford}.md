@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/item/103624#page/1023/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/page/33190480) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rutherford, Daniel (1749-1819), British (Scottish) botanist, chemist and physician; MD Edinburgh 1772; practicing physician at Edinburgh 1775-1786; professor of botany and regius keeper, Royal Botanic Garden, Edinburgh 1786-1819 (*Rutherford*).
+Rutherford, Daniel (1749-1819), British (Scottish) botanist, chemist and physician; MD Edinburgh 1772; practicing physician at Edinburgh 1775-1786; professor of botany and regius keeper, Royal Botanic Garden, Edinburgh 1786-1819 
+**Abbreviated name**: *Rutherford*
 
 #### Herbarium and types
 

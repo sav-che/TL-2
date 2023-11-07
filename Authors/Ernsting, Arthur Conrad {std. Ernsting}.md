@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/item/103414#page/847/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33120930) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ernsting, Arthur Conrad (1709-1768), German physician and botanist. (*Ernsting*).
+Ernsting, Arthur Conrad (1709-1768), German physician and botanist. 
+**Abbreviated name**: *Ernsting*
 
 #### Herbarium and types
 

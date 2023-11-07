@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/item/104137#page/815/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nyman, Erik Olof August (1866-1900), Swedish botanist; Dr. phil. Uppsala 1896; travelled in Java and New Guinea, 1897-1900. (*E. Nym.*).
+Nyman, Erik Olof August (1866-1900), Swedish botanist; Dr. phil. Uppsala 1896; travelled in Java and New Guinea, 1897-1900. 
+**Abbreviated name**: *E. Nym.*
 
 #### Herbarium and types
 

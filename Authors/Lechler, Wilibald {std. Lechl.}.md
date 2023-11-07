@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/item/103253#page/806/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33069022) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lechler, Wilibald (1814-1856), German pharmacist, botanist and explorer; studied pharmacy at Reutlingen; pharmaceutical assistant at Augsburg, Genève, Vevey, Basel (1831-1836); pharmacist at Stuttgart (1839-1849); to Chile 1850-1855; Dr. sc. nat. Tubingen 1856; died at sea near Ecuador on his return to Peru where he had accepted a position as physician at Arequiba. (*Lechl.*).
+Lechler, Wilibald (1814-1856), German pharmacist, botanist and explorer; studied pharmacy at Reutlingen; pharmaceutical assistant at Augsburg, Genève, Vevey, Basel (1831-1836); pharmacist at Stuttgart (1839-1849); to Chile 1850-1855; Dr. sc. nat. Tubingen 1856; died at sea near Ecuador on his return to Peru where he had accepted a position as physician at Arequiba. 
+**Abbreviated name**: *Lechl.*
 
 #### Herbarium and types
 

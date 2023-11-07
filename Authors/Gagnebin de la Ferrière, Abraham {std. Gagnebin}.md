@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/item/103414#page/952/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33121035) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gagnebin de la Ferrière, Abraham (1707-1800), Swiss physician and botanist. (*Gagnebin*).
+Gagnebin de la Ferrière, Abraham (1707-1800), Swiss physician and botanist. 
+**Abbreviated name**: *Gagnebin*
 
 #### Herbarium and types
 

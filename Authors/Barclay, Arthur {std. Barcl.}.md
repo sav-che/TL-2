@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103858#page/335/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265050) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barclay, Arthur (1852-1891), British (Scottish) botanist and physician, studied medicine at Edinburgh and Glasgow, Gold Medal for botany Glasgow 1871; M.B.C.M. (final medical exam.) Glasgow 1874; additional schooling in Würzburg; entered the Indian Medical Service 1875, later Civil Surgeon at Jessore, professor of physiology at the Medical College, Calcutta, ultimately secretary to the Surgeon-General and Sanitary Commissioner, Govt. India and surgeon-major in the Bengal Medical Service; also served in the Afghan war 1879-1880. (*Barcl.*).
+Barclay, Arthur (1852-1891), British (Scottish) botanist and physician, studied medicine at Edinburgh and Glasgow, Gold Medal for botany Glasgow 1871; M.B.C.M. (final medical exam.) Glasgow 1874; additional schooling in Würzburg; entered the Indian Medical Service 1875, later Civil Surgeon at Jessore, professor of physiology at the Medical College, Calcutta, ultimately secretary to the Surgeon-General and Sanitary Commissioner, Govt. India and surgeon-major in the Bengal Medical Service; also served in the Afghan war 1879-1880. 
+**Abbreviated name**: *Barcl.*
 
 #### Herbarium and types
 

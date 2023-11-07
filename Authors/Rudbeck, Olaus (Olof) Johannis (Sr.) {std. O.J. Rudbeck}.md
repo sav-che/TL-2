@@ -1,10 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/item/103624#page/982/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33190439) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudbeck, Olaus \[Olof\] Johannis \[Sr.\] (1630-1702), Swedish physician, polyhistorian and botanist, "adjunkt" (1655) and assistant professor of anatomy and botany at the University of Uppsala 1658, full professor of medicine ib. 1660-1691; founder and director of the Uppsala University botanical garden (now Hortus linnaeanus) 1655-1691. (*O.J. Rudbeck*).
-
+Rudbeck, Olaus \[Olof\] Johannis \[Sr.\] (1630-1702), Swedish physician, polyhistorian and botanist, "adjunkt" (1655) and assistant professor of anatomy and botany at the University of Uppsala 1658, full professor of medicine ib. 1660-1691; founder and director of the Uppsala University botanical garden (now Hortus linnaeanus) 1655-1691. 
+**Abbreviated name**: *O.J. Rudbeck*
 **Alternate abbreviation:** (*Rudbeck Sr.*)
 
 #### Herbarium and types

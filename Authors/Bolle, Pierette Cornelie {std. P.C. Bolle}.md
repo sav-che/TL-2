@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103859#page/306/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bolle, Pierette Cornelie (1893-1945), Dutch phytopathologist, studied at the University of Utrecht, Dr. phil. ib. 1924, assistant at the Centraalbureau voor Schimmelcultures, Baarn, Netherlands 1924-1925, scientist with the Java Sugar Experiment Station at Cheribon 1925-1930, id. with the Java Sugar Experiment Station at Pasuruan, E. Java 1930-ca. 1943, died in a concentration camp at Semarang, Java 1945. (*P.C. Bolle*).
+Bolle, Pierette Cornelie (1893-1945), Dutch phytopathologist, studied at the University of Utrecht, Dr. phil. ib. 1924, assistant at the Centraalbureau voor Schimmelcultures, Baarn, Netherlands 1924-1925, scientist with the Java Sugar Experiment Station at Cheribon 1925-1930, id. with the Java Sugar Experiment Station at Pasuruan, E. Java 1930-ca. 1943, died in a concentration camp at Semarang, Java 1945. 
+**Abbreviated name**: *P.C. Bolle*
 
 #### Herbarium and types
 

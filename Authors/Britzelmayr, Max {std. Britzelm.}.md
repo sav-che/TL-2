@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/103414#page/396/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33120479) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Britzelmayr, Max {std. Britzelm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Britzelmayr, Max (1839-1909), German lichenologist and mycologist in Bavaria, school inspector 1873-1899. (*Britzelm.*).
+Britzelmayr, Max (1839-1909), German lichenologist and mycologist in Bavaria, school inspector 1873-1899. 
+**Abbreviated name**: *Britzelm.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/103859#page/139/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33265326) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bertrand, Charles Eugène {std. C.E. Bertrand}|first entry]] for this author
 
 ### Author
 
-\* Bertrand, Charles Eugène (1851-1917), French palaeobotanist, studied at the Sorbonne, Paris 1871-1874 with Decaisne and Duchârtre, Dr. phil. ib. 1874, worked at the Sorbonne and the Muséum d'Histoire naturelle 1874-1878, lecturer in botany at the Faculté des Sciences, Lille 1878, ib. professor of botany from 1881-1917. (*C.E. Bertrand*).
+\* Bertrand, Charles Eugène (1851-1917), French palaeobotanist, studied at the Sorbonne, Paris 1871-1874 with Decaisne and Duchârtre, Dr. phil. ib. 1874, worked at the Sorbonne and the Muséum d'Histoire naturelle 1874-1878, lecturer in botany at the Faculté des Sciences, Lille 1878, ib. professor of botany from 1881-1917. 
+**Abbreviated name**: *C.E. Bertrand*
 
 #### Collections
 

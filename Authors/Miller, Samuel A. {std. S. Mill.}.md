@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/104137#page/516/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33355587) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miller, Samuel A. (1837-1897), American politician and lawyer at Cincinnati; amateur geolist and palaeontologist. (*S. Mill.*).
+Miller, Samuel A. (1837-1897), American politician and lawyer at Cincinnati; amateur geolist and palaeontologist. 
+**Abbreviated name**: *S. Mill.*
 
 #### Herbarium and types
 

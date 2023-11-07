@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103859#page/312/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265499) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bommer, Charles \[Borromée Joseph Paul\] (1866-1938), Belgian botanist, son of J.É. Bommer, educated at the Bruxelles Atheneum, subsequently at the University of Brussels, Dr. sci. nat. ib., at the Jardin botanique as lecturer and aide-naturaliste from 1899, curator ib. and full professor at the University 1902, also in charge of the Arboretum of Tervueren from 1902 as well as from 1903 in charge of the Forestry Museum of the Jardin botanique, retired 1930. (*C. Bommer*).
+Bommer, Charles \[Borromée Joseph Paul\] (1866-1938), Belgian botanist, son of J.É. Bommer, educated at the Bruxelles Atheneum, subsequently at the University of Brussels, Dr. sci. nat. ib., at the Jardin botanique as lecturer and aide-naturaliste from 1899, curator ib. and full professor at the University 1902, also in charge of the Arboretum of Tervueren from 1902 as well as from 1903 in charge of the Forestry Museum of the Jardin botanique, retired 1930. 
+**Abbreviated name**: *C. Bommer*
 
 #### Herbarium and types
 

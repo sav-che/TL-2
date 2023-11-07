@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103859#page/135/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33265322) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bertoloni, Antonio Jr. (1843-?), Italian botanist, grandson of Antonio Bertoloni (1775-1869). (*A. Bertol., Jr.*).
+Bertoloni, Antonio Jr. (1843-?), Italian botanist, grandson of Antonio Bertoloni (1775-1869). 
+**Abbreviated name**: *A. Bertol., Jr.*
 
 #### Herbarium and types
 

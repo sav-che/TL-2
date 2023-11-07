@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103683#page/255/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33212287) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thenen, Salvator (*fl*. 1911), Austrian botanist, sometime connected with the Botanical Institute of the University of Vienna. (*Thenen*).
+Thenen, Salvator (*fl*. 1911), Austrian botanist, sometime connected with the Botanical Institute of the University of Vienna. 
+**Abbreviated name**: *Thenen*
 
 #### Herbarium and types
 

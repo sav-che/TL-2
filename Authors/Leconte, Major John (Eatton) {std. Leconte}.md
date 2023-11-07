@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/item/103253#page/808/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33069024) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leconte, Major John \[Eatton\] (1784-1860), American topographical engineer, soldier, botanical and entomological collector, author and artist. (*Leconte*).
+Leconte, Major John \[Eatton\] (1784-1860), American topographical engineer, soldier, botanical and entomological collector, author and artist. 
+**Abbreviated name**: *Leconte*
 
 #### Herbarium and types
 

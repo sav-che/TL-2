@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103835#page/210/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33260188) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durrell, Laurence Wood (1888-x), American botanist and plant pathologist, born 16 Feb 1888 at Lincoln, Nebraska, B.S.A. Ohio State Univ. 1914, fellow Iowa Coll. 1915-1917, M.S. 1917, Ph.D. Iowa State College 1923, assistant pathologist Iowa Exper. Station 1921-1924, professor of botany and plant pathology at the State Agricultural College, Fort Collins from 1924, interested in physiology of fungi and poisonous plants. (*Durrell*).
+Durrell, Laurence Wood (1888-x), American botanist and plant pathologist, born 16 Feb 1888 at Lincoln, Nebraska, B.S.A. Ohio State Univ. 1914, fellow Iowa Coll. 1915-1917, M.S. 1917, Ph.D. Iowa State College 1923, assistant pathologist Iowa Exper. Station 1921-1924, professor of botany and plant pathology at the State Agricultural College, Fort Collins from 1924, interested in physiology of fungi and poisonous plants. 
+**Abbreviated name**: *Durrell*
 
 #### Herbarium and types
 

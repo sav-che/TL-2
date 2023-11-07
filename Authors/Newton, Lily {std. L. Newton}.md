@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/104137#page/755/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33355826) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Batten, Lily {std. L. Newton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Newton, Lily (née Batten), British botanist, married William Charles Frank Newton 1925; Ph. D. Bristol 1925. (*L. Newton*).
+Newton, Lily (née Batten), British botanist, married William Charles Frank Newton 1925; Ph. D. Bristol 1925. 
+**Abbreviated name**: *L. Newton*
 
 #### Herbarium and types
 

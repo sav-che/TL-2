@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/103414#page/658/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deecke, Johannes Ernst Wilhelm (1862-1934), German geologist and palaeobiologist at Freiburg i. Br. (*Deecke*).
+Deecke, Johannes Ernst Wilhelm (1862-1934), German geologist and palaeobiologist at Freiburg i. Br. 
+**Abbreviated name**: *Deecke*
 
 #### Collections
 

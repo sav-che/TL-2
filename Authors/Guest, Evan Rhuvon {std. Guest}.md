@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/item/103832#page/453/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33258919) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guest, Evan Rhuvon (1902-1992), British agronomist and botanist, born 24 Jan 1902 in London, educated at Eton, B.Sc. 1924 Imperial College, London, Southeastern Agricultural College, Wye (Kent) ca. 1925, Imperial College of Tropical Agriculture, Trinidad ca. 1926, followed by two years in the Anglo-Egyptian Sudan, held various agricultural postings in Iraq through 1933, agricultural advisor, I.C.I. (Malaya) in London 1934-1937, botanist, Rubber Inst., Kuala Lumpur 1937-1940, B.B.C. Foreign Service in London and Cairo during W.W.-II, again in Iraq 1953-1958, returned to London and worked at Kew on the *Flora of Iraq* until 1987, died 4 Mar 1992. (*Guest*).
+Guest, Evan Rhuvon (1902-1992), British agronomist and botanist, born 24 Jan 1902 in London, educated at Eton, B.Sc. 1924 Imperial College, London, Southeastern Agricultural College, Wye (Kent) ca. 1925, Imperial College of Tropical Agriculture, Trinidad ca. 1926, followed by two years in the Anglo-Egyptian Sudan, held various agricultural postings in Iraq through 1933, agricultural advisor, I.C.I. (Malaya) in London 1934-1937, botanist, Rubber Inst., Kuala Lumpur 1937-1940, B.B.C. Foreign Service in London and Cairo during W.W.-II, again in Iraq 1953-1958, returned to London and worked at Kew on the *Flora of Iraq* until 1987, died 4 Mar 1992. 
+**Abbreviated name**: *Guest*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/item/103833#page/132/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33259166) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dean, Aletta Friscone (fl. 1903-1914), American botanist, at the University of Wisconsin, Ph.B. 1903, Ph.M. 1904, active at Madison, Wisconsin. (*A.F. Dean*).
+Dean, Aletta Friscone (fl. 1903-1914), American botanist, at the University of Wisconsin, Ph.B. 1903, Ph.M. 1904, active at Madison, Wisconsin. 
+**Abbreviated name**: *A.F. Dean*
 
 #### Herbarium and types
 

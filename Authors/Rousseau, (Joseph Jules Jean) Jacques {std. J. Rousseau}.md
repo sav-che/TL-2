@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/item/103624#page/955/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/page/33190412) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rousseau, \[Joseph Jules Jean\] Jacques (1905-1970), Canadian botanist; student of Marie-Victorin; Dr. phil. Univ. Montréal 1934; demonstrator of botany Univ. Montreal 1926-1928; assistant, later associate professor of botany ib. 1928-1944; director of the Montreal botanical garden 1944-1957; director of human history branch, Natl. Mus. Canada Ottawa 1957-1959; professor at the Musée de l'Homme, Paris 1959-1962; professor at the Centre d'Études nordiques, Université Laval, Québec City 1962-1970; member of the editorial committee for botanical nomenclature 1954-1964. (*J. Rousseau*).
+Rousseau, \[Joseph Jules Jean\] Jacques (1905-1970), Canadian botanist; student of Marie-Victorin; Dr. phil. Univ. Montréal 1934; demonstrator of botany Univ. Montreal 1926-1928; assistant, later associate professor of botany ib. 1928-1944; director of the Montreal botanical garden 1944-1957; director of human history branch, Natl. Mus. Canada Ottawa 1957-1959; professor at the Musée de l'Homme, Paris 1959-1962; professor at the Centre d'Études nordiques, Université Laval, Québec City 1962-1970; member of the editorial committee for botanical nomenclature 1954-1964. 
+**Abbreviated name**: *J. Rousseau*
 
 #### Herbarium and types
 

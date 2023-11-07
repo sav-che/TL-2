@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/item/103414#page/796/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33120879) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Endlicher, Stephan Ladislaus (István Lászlo) {std. Endl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Endlicher, Stephan Ladislaus (1804-1849), Austrian botanist and sinologist. (*Endl.*).
+Endlicher, Stephan Ladislaus (1804-1849), Austrian botanist and sinologist. 
+**Abbreviated name**: *Endl.*
 
 #### Herbarium and types
 

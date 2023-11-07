@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103858#page/261/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33264976) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bäsecke, \[Karl Heinrich Johannes\] Paul (1877-1929), German (Braunschweig) pharmacist, educated at the municipial highschool 1883-1887, at the "Herzogliches neues Gymnasium" 1887-1896, volunteer "one year soldier" 1896-1897, stage at the "Hofapothek" of Meiningen, assistant pharmacist 1897, further practice at pharmacies of Bad Harzburg, Braunschweig and Bingerbrück 1897-1901, from 10 Mai 1902 studying pharmacy at the University of Marburg, state examination pharmacy 5 Nov 1903, research on food products at the Marburg Botanical Institute 1904-1906 working on his thesis, final examination ("Examen rigorosum") 12 Jun 1907, Dr. phil. Marburg 1908, from then on with the family pharmacy in Braunschweig 1908-1929. (*Bäsecke*).
+Bäsecke, \[Karl Heinrich Johannes\] Paul (1877-1929), German (Braunschweig) pharmacist, educated at the municipial highschool 1883-1887, at the "Herzogliches neues Gymnasium" 1887-1896, volunteer "one year soldier" 1896-1897, stage at the "Hofapothek" of Meiningen, assistant pharmacist 1897, further practice at pharmacies of Bad Harzburg, Braunschweig and Bingerbrück 1897-1901, from 10 Mai 1902 studying pharmacy at the University of Marburg, state examination pharmacy 5 Nov 1903, research on food products at the Marburg Botanical Institute 1904-1906 working on his thesis, final examination ("Examen rigorosum") 12 Jun 1907, Dr. phil. Marburg 1908, from then on with the family pharmacy in Braunschweig 1908-1929. 
+**Abbreviated name**: *Bäsecke*
 
 #### Herbarium and types
 

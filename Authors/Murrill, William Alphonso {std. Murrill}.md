@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/item/104137#page/688/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33355759) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murrill, William Alphonso (1869-1957), American mycologist; M. A. Randolph Macon Coll. 1891; Dr. phil. Cornell Univ. 1900; ass. curator New York Bot. Garden 1905, ass. director 1908, supervisor publ. instr. 1919; retired to Gainesville, Florida 1924. (*Murrill*).
+Murrill, William Alphonso (1869-1957), American mycologist; M. A. Randolph Macon Coll. 1891; Dr. phil. Cornell Univ. 1900; ass. curator New York Bot. Garden 1905, ass. director 1908, supervisor publ. instr. 1919; retired to Gainesville, Florida 1924. 
+**Abbreviated name**: *Murrill*
 
 #### Herbarium and types
 

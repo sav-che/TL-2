@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/item/103835#page/338/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33260316) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elvers, Ivar (1910-x), Swedish botanist, born 1910, studied at the University of Stockholm, working extensively on the use of electron microscopy in cytology, from 1944 docent at the University of Stockholm. (*Elvers*).
+Elvers, Ivar (1910-x), Swedish botanist, born 1910, studied at the University of Stockholm, working extensively on the use of electron microscopy in cytology, from 1944 docent at the University of Stockholm. 
+**Abbreviated name**: *Elvers*
 
 #### Herbarium and types
 

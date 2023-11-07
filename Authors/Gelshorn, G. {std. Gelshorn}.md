@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103832#page/185/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33258651) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gelshorn, G. (fl. 1875), Alsatian school teacher and botanist, "Oberlehrer", Gymnasium in Zabern ca. 1874-1875. (*Gelshorn*).
+Gelshorn, G. (fl. 1875), Alsatian school teacher and botanist, "Oberlehrer", Gymnasium in Zabern ca. 1874-1875. 
+**Abbreviated name**: *Gelshorn*
 
 #### Herbarium and types
 

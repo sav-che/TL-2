@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/item/103624#page/1035/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33190492) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sabine, \[Sir\] Edward (1788-1883), British (Dublin-born) astronomer, geophysicist, zoologist and explorer; brother of Joseph Sabine; astronomer to arctic expeditions led by J. Ross (1818) and W.E. Parry 1819-1820; collected plants in Melville Island and Greenland; president Royal Society 1861-1871. (*E. Sabine*).
+Sabine, \[Sir\] Edward (1788-1883), British (Dublin-born) astronomer, geophysicist, zoologist and explorer; brother of Joseph Sabine; astronomer to arctic expeditions led by J. Ross (1818) and W.E. Parry 1819-1820; collected plants in Melville Island and Greenland; president Royal Society 1861-1871. 
+**Abbreviated name**: *E. Sabine*
 
 #### Herbarium and types
 

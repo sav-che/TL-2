@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103861#page/297/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33266594) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Butters, Frederick King (1878-1945), American botanist, attended the Central High School at Minneapolis until June 1895, entered the College of Science, Literature and the Arts of the University of Minnesota ("Scientific course") 1895-1899 (with Conway Macmillan) at the Departement of Botany, at Harvard University 1899-1900, A.B. spring 1900, Ph. D. Harvard 1917, instructor for botany and pharmacy at the University of Minnesota 1901-1910, asst. professor for botany 1910-1919, assoc. professor 1919-1934, from 1934 professor. (*Butters*).
+Butters, Frederick King (1878-1945), American botanist, attended the Central High School at Minneapolis until June 1895, entered the College of Science, Literature and the Arts of the University of Minnesota ("Scientific course") 1895-1899 (with Conway Macmillan) at the Departement of Botany, at Harvard University 1899-1900, A.B. spring 1900, Ph. D. Harvard 1917, instructor for botany and pharmacy at the University of Minnesota 1901-1910, asst. professor for botany 1910-1919, assoc. professor 1919-1934, from 1934 professor. 
+**Abbreviated name**: *Butters*
 
 #### Herbarium and types
 

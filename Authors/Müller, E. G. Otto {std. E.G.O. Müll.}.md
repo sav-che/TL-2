@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/item/104137#page/631/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33355702) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, E. G. Otto (1857-?), German botanist; Dr. phil. Breslau 1886; contributed to "Engler and Prantl." (*E. G. O. Müll.*).
+Müller, E. G. Otto (1857-?), German botanist; Dr. phil. Breslau 1886; contributed to "Engler and Prantl." 
+**Abbreviated name**: *E. G. O. Müll.*
 
 #### Herbarium and types
 

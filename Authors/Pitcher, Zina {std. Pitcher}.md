@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/item/103624#page/292/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33189749) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pitcher, Zina (1797-1872), American physician and botanist, MD Middlebury College, Vermont 1822; in service on the frontier 1822-1836; later in Michigan; 1837-1852 regent and professor at the University of Michigan; 1840-1843 mayor of Detroit. (*Pitcher*).
+Pitcher, Zina (1797-1872), American physician and botanist, MD Middlebury College, Vermont 1822; in service on the frontier 1822-1836; later in Michigan; 1837-1852 regent and professor at the University of Michigan; 1840-1843 mayor of Detroit. 
+**Abbreviated name**: *Pitcher*
 
 #### Herbarium and types
 

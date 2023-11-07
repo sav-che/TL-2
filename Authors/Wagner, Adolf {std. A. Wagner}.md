@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103250#page/68/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33066310) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wagner, Adolf (1869-1940), Austrian botanist; Dr. phil. Innsbruck 1893; assistant at the Innsbruck botanical institute 1900-1906; Habil. Innsbruck 1901; extraordinary professor of botany Innsbruck 1909; ord. professor ib. 1918-1936. (*A. Wagner*).
+Wagner, Adolf (1869-1940), Austrian botanist; Dr. phil. Innsbruck 1893; assistant at the Innsbruck botanical institute 1900-1906; Habil. Innsbruck 1901; extraordinary professor of botany Innsbruck 1909; ord. professor ib. 1918-1936. 
+**Abbreviated name**: *A. Wagner*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103683#page/31/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33212073) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stomps, Theodoor Jan (1885-1973), Dutch botanist (cytologist and geneticist); Dr. phil. Amsterdam 1910; student of Hugo de Vries; extraordinary professor of cytology 1910, idem cytology and systematics 1913; ordinary professor of botany 1919-1946; director of the Amsterdam Botanical Garden 1923-1946; from 1946 in retirement. (*Stomps*).
+Stomps, Theodoor Jan (1885-1973), Dutch botanist (cytologist and geneticist); Dr. phil. Amsterdam 1910; student of Hugo de Vries; extraordinary professor of cytology 1910, idem cytology and systematics 1913; ordinary professor of botany 1919-1946; director of the Amsterdam Botanical Garden 1923-1946; from 1946 in retirement. 
+**Abbreviated name**: *Stomps*
 
 #### Herbarium and types
 

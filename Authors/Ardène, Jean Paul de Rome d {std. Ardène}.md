@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103858#page/160/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33264875) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ardène, Jean Paul de Rome d' (1689-1769), French clergyman and botanist, "prêtre de l'Oratoire de France" and "supérieur" of his college, in retirement from ca. 1750 for health reasons, at the Château d'Ardène near Sistéron, dedicating himself to botany. (*Ardène*).
+Ardène, Jean Paul de Rome d' (1689-1769), French clergyman and botanist, "prêtre de l'Oratoire de France" and "supérieur" of his college, in retirement from ca. 1750 for health reasons, at the Château d'Ardène near Sistéron, dedicating himself to botany. 
+**Abbreviated name**: *Ardène*
 
 #### Herbarium and types
 

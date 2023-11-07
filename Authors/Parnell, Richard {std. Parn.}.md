@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/item/103624#page/88/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33189545) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parnell, Richard (1810-1882), British ink manufacturer, ichthyologist and botanist, born at Bramford Speke, Devon; studied medicine at Edinburgh, Paris and London; died in Edinburgh; co-founder (1836) of the Edinburgh botanical Society. (*Parn.*).
+Parnell, Richard (1810-1882), British ink manufacturer, ichthyologist and botanist, born at Bramford Speke, Devon; studied medicine at Edinburgh, Paris and London; died in Edinburgh; co-founder (1836) of the Edinburgh botanical Society. 
+**Abbreviated name**: *Parn.*
 
 #### Herbarium and types
 

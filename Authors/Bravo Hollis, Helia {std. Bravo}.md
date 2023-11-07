@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103861#page/52/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33266349) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bravo Hollis, Helia (1905-x), Mexican botanist, born 30 Sep 1905, taxonomist (Maestra) at the Instituto de Biologia, Universidad Nacional Autónoma, D.F. Mexico. (*Bravo*).
+Bravo Hollis, Helia (1905-x), Mexican botanist, born 30 Sep 1905, taxonomist (Maestra) at the Instituto de Biologia, Universidad Nacional Autónoma, D.F. Mexico. 
+**Abbreviated name**: *Bravo*
 
 #### Herbarium and types
 

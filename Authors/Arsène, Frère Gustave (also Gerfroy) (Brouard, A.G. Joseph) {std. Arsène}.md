@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103414#page/118/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33120201) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arsène, Frère Gustave (Brouard, A.G. Joseph) {std. Arsène} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arsène, Frère Gustave \[also "Gerfroy"\] (Brouard, Arsène Gustave Joseph) (1867-1938), French clergyman who collected in France and Central America. (*Arsène*).
+Arsène, Frère Gustave \[also "Gerfroy"\] (Brouard, Arsène Gustave Joseph) (1867-1938), French clergyman who collected in France and Central America. 
+**Abbreviated name**: *Arsène*
 
 #### Herbarium and types
 

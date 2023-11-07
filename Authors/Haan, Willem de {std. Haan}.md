@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103253#page/27/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33068243) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haan, Willem de (1801-1855), Dutch biologist at Leiden. (*Haan*).
+Haan, Willem de (1801-1855), Dutch biologist at Leiden. 
+**Abbreviated name**: *Haan*
 
 #### Collections
 

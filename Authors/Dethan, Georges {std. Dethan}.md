@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/103833#page/248/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33259282) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dethan, Georges (1868-x), French pharmacist, born at Paris 3 Oct 1868, working at the pharmaceutical school at Paris where he received the "Prix Ménier" in 1895. (*Dethan*).
+Dethan, Georges (1868-x), French pharmacist, born at Paris 3 Oct 1868, working at the pharmaceutical school at Paris where he received the "Prix Ménier" in 1895. 
+**Abbreviated name**: *Dethan*
 
 #### Herbarium and types
 

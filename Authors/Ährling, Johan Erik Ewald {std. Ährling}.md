@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103858#page/43/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33264720) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ährling, Johan Erik Ewald (1837-1888), Swedish (Södermanland) botanist, educated at Maria School and Gymnasium, Stockholm, studied at Uppsala University 1856, fil. kand. ib. 1867, dr. phil. ib. 1872, amanuensis at the Uppsala botanical institute 1863-1867, teacher at a state grammar school Arboga 1868-1888. (*Ährling*).
+Ährling, Johan Erik Ewald (1837-1888), Swedish (Södermanland) botanist, educated at Maria School and Gymnasium, Stockholm, studied at Uppsala University 1856, fil. kand. ib. 1867, dr. phil. ib. 1872, amanuensis at the Uppsala botanical institute 1863-1867, teacher at a state grammar school Arboga 1868-1888. 
+**Abbreviated name**: *Ährling*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/104077#page/787/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spanoghe, Johan Baptist (1798-1838), Dutch civil servant of Belgian parentage in the East Indies 1816-1837; collected plants (in part with C.L. Blume) on Java and Timor, resided in Timor 1831-1836. (*Spanoghe*).
+Spanoghe, Johan Baptist (1798-1838), Dutch civil servant of Belgian parentage in the East Indies 1816-1837; collected plants (in part with C.L. Blume) on Java and Timor, resided in Timor 1831-1836. 
+**Abbreviated name**: *Spanoghe*
 
 #### Herbarium and types
 

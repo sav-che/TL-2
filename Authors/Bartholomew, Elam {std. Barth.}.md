@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103414#page/173/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33120256) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartholomew, Elam {std. Barth.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bartholomew, Elam (1852-1934), American farmer, school-teacher, stock-raiser, mycologist, and plant collector at Stockton, Kansas. (*Barth.*).
+Bartholomew, Elam (1852-1934), American farmer, school-teacher, stock-raiser, mycologist, and plant collector at Stockton, Kansas. 
+**Abbreviated name**: *Barth.*
 
 #### Herbarium and types
 

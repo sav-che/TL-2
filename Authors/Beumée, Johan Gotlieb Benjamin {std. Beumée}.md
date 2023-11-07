@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103859#page/158/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33265345) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beumée, Johan Gotlieb Benjamin (1888-1966), Dutch forester and botanist, studied at the college of agriculture, horticulture and forestry at Wageningen, final forestry examination 1911, employed by the forestry service in Netherlands East Indies 1913-1922, stationed at the forestry experiment station at Buitenzorg \[Bogor\] 1913-1921, European leave of absence Aug 1921-Jul 1922, Dr. phil. Wageningen 1922, botanist at the Buitenzorg herbarium 1922-1924, keeper 1924-1931, employed at the General Agricultural Experiment Station Buitenzorg 1931-1938, from 1934 as its director, returned to the Netherlands, private scientist living in Bennekom nr. Wageningen from 1938-1966, reader in plant taxonomy at the Agricultural College of Wageningen 1947-1953. (*Beumée*).
+Beumée, Johan Gotlieb Benjamin (1888-1966), Dutch forester and botanist, studied at the college of agriculture, horticulture and forestry at Wageningen, final forestry examination 1911, employed by the forestry service in Netherlands East Indies 1913-1922, stationed at the forestry experiment station at Buitenzorg \[Bogor\] 1913-1921, European leave of absence Aug 1921-Jul 1922, Dr. phil. Wageningen 1922, botanist at the Buitenzorg herbarium 1922-1924, keeper 1924-1931, employed at the General Agricultural Experiment Station Buitenzorg 1931-1938, from 1934 as its director, returned to the Netherlands, private scientist living in Bennekom nr. Wageningen from 1938-1966, reader in plant taxonomy at the Agricultural College of Wageningen 1947-1953. 
+**Abbreviated name**: *Beumée*
 
 #### Herbarium and types
 

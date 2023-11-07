@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/item/103860#page/529/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33266196) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Curtiss, Allen Hiram (1845-1907), American botanist and collector of plants for distribution, born at Central Square, Oswego Co. state New York, moved with his parents to Virginia 1862, started botanical collecting 1863 near Alexandria, settled in Florida 1875 for the remainder of his life, professional collector (associated with U.S.D.A.); his pre-1875 herbarium sold to G-BOIS, brought together a large herbarium for the University of Virginia, collected widely in Florida, the Key-Isles, publisher of the Florida Farmer and Fruitgrower, later only worked on botanical collections, died at Jacksonville, Florida. (*Curtiss*).
+Curtiss, Allen Hiram (1845-1907), American botanist and collector of plants for distribution, born at Central Square, Oswego Co. state New York, moved with his parents to Virginia 1862, started botanical collecting 1863 near Alexandria, settled in Florida 1875 for the remainder of his life, professional collector (associated with U.S.D.A.); his pre-1875 herbarium sold to G-BOIS, brought together a large herbarium for the University of Virginia, collected widely in Florida, the Key-Isles, publisher of the Florida Farmer and Fruitgrower, later only worked on botanical collections, died at Jacksonville, Florida. 
+**Abbreviated name**: *Curtiss*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103834#page/198/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33259680) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Field, Barron (Justice) (1786-1846), English jurist, literary critic and poet, born 23 Oct 1786 in London, a direct descendent of Oliver Cromwell, called to the bar 23 Jun 1814 by the Honourable Society of the Inner Temple, appointed (Mai 1816) judge of the Supreme Court of Civil Judicature in New South Wales and arrived in Australia 1817, privately printed the first book of poetry ever published in Australia 1819, President, Agricultural and Horticultural Society of New South Wales 1823-1824, left (Feb 1824) Australia to return to England, F.L.S. 1825, resumed his legal practice in Liverpool 1827, accepted a judgeship in Gibraltar 1829 from which he retired in 1841, died 11 Apr 1846 in Torquay (Devon). (*B. Field*).
+Field, Barron (Justice) (1786-1846), English jurist, literary critic and poet, born 23 Oct 1786 in London, a direct descendent of Oliver Cromwell, called to the bar 23 Jun 1814 by the Honourable Society of the Inner Temple, appointed (Mai 1816) judge of the Supreme Court of Civil Judicature in New South Wales and arrived in Australia 1817, privately printed the first book of poetry ever published in Australia 1819, President, Agricultural and Horticultural Society of New South Wales 1823-1824, left (Feb 1824) Australia to return to England, F.L.S. 1825, resumed his legal practice in Liverpool 1827, accepted a judgeship in Gibraltar 1829 from which he retired in 1841, died 11 Apr 1846 in Torquay (Devon). 
+**Abbreviated name**: *B. Field*
 
 #### Herbarium and types
 

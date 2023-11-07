@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/103253#page/610/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33068826) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knuth, Paul Erich Otto Wilhelm (1854-1899). German botanist educated at Greifswald; Dr. phil. 1876; high school teacher at Iserlohn 1876, from 1881 at Kiel; author of a Handbuch der Blütenbiologie. (*P. Knuth*).
+Knuth, Paul Erich Otto Wilhelm (1854-1899). German botanist educated at Greifswald; Dr. phil. 1876; high school teacher at Iserlohn 1876, from 1881 at Kiel; author of a Handbuch der Blütenbiologie. 
+**Abbreviated name**: *P. Knuth*
 
 #### Herbarium and types
 

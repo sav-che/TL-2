@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/item/103414#page/1031/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gravet, Pierre Joseph Frédéric (1827-1907), Belgian bryologist. (*Grav.*).
+Gravet, Pierre Joseph Frédéric (1827-1907), Belgian bryologist. 
+**Abbreviated name**: *Grav.*
 
 #### Herbarium and types
 

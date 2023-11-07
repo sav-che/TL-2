@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103253#page/232/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hillhouse, William (1850-1910), British botanist; curator at Cambridge 1878-1882; professor of botany at Birmingham 1882-1909. (*Hillh.*).
+Hillhouse, William (1850-1910), British botanist; curator at Cambridge 1878-1882; professor of botany at Birmingham 1882-1909. 
+**Abbreviated name**: *Hillh.*
 
 #### Herbarium and types
 

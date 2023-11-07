@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/item/104077#page/720/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33333845) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Worthington George (1835-1917), British mycologist, antiquarian and botanical artist; artist for the Gardener's Chronicle 1869-1910 and of the Floral Magazine 1870-1876; Veitch Memorial Medal 1907. (*W.G. Sm.*).
+Smith, Worthington George (1835-1917), British mycologist, antiquarian and botanical artist; artist for the Gardener's Chronicle 1869-1910 and of the Floral Magazine 1870-1876; Veitch Memorial Medal 1907. 
+**Abbreviated name**: *W.G. Sm.*
 
 #### Herbarium and types
 

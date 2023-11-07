@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103414#page/319/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33120402) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonnemaison, Théophile (1773-1829), French pharmacist and naturalist. (*Bonnem.*).
+Bonnemaison, Théophile (1773-1829), French pharmacist and naturalist. 
+**Abbreviated name**: *Bonnem.*
 
 #### Herbarium and types
 

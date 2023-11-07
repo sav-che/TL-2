@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/item/104077#page/596/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33333721) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sieber, Franz Wilhelm (1789-1844), Bohemian botanist, traveller and plant collector; travelled in Austria and Italy 1811-1812; studied medicine in Praha 1814-1816; travelled to Crete, Egypt and Palestine 1817-1818; travelled around the world 1822-1825, collecting especially in S. Africa, Mauritius and Australia 1822-1824; from 1830-1844 in a psychiatric asylum in Praha. (*Sieber*).
+Sieber, Franz Wilhelm (1789-1844), Bohemian botanist, traveller and plant collector; travelled in Austria and Italy 1811-1812; studied medicine in Praha 1814-1816; travelled to Crete, Egypt and Palestine 1817-1818; travelled around the world 1822-1825, collecting especially in S. Africa, Mauritius and Australia 1822-1824; from 1830-1844 in a psychiatric asylum in Praha. 
+**Abbreviated name**: *Sieber*
 
 #### Herbarium and types
 

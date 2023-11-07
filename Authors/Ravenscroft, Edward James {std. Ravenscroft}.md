@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/103624#page/612/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33190069) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ravenscroft, Edward James (1816-1890), British printer and publisher at Edinburgh, later associated with his brother in the management of a London Bank. (*Ravenscroft*).
+Ravenscroft, Edward James (1816-1890), British printer and publisher at Edinburgh, later associated with his brother in the management of a London Bank. 
+**Abbreviated name**: *Ravenscroft*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/103859#page/323/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33265510) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonnet, Charles (1720-1793), Swiss (Genève) philosopher and naturalist, studied law and philosophy at the Geneva auditorium 1736-1743, Dr. jur. 1743, turned to zoology and botany, member of the Conseil des Deux-Cents 1752-1768. (*Ch. Bonnet*).
+Bonnet, Charles (1720-1793), Swiss (Genève) philosopher and naturalist, studied law and philosophy at the Geneva auditorium 1736-1743, Dr. jur. 1743, turned to zoology and botany, member of the Conseil des Deux-Cents 1752-1768. 
+**Abbreviated name**: *Ch. Bonnet*
 
 #### Herbarium and types
 

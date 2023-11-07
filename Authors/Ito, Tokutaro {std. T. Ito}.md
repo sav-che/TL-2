@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103253#page/417/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33068633) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ito, Tokutaro (1868-1941), Japanese botanist, grandson of Keisuke Ito. (*T. Ito*).
+Ito, Tokutaro (1868-1941), Japanese botanist, grandson of Keisuke Ito. 
+**Abbreviated name**: *T. Ito*
 
 #### Herbarium and types
 

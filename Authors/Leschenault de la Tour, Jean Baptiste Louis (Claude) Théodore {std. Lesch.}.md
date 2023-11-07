@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/item/103253#page/874/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33069090) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leschenault de la Tour, Jean Baptiste Louis \[Claude\] Théodore (1773-1826), French botanical explorer, e.g. on Le Naturaliste and Le Géographe (1801-1804) with Baudin; in India 1816-1821, Brazil 1823-1824. (*Lesch.*).
+Leschenault de la Tour, Jean Baptiste Louis \[Claude\] Théodore (1773-1826), French botanical explorer, e.g. on Le Naturaliste and Le Géographe (1801-1804) with Baudin; in India 1816-1821, Brazil 1823-1824. 
+**Abbreviated name**: *Lesch.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/103835#page/459/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33260437) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eyles, Frederick (1864-1937), British botanist and plant collector, born 1864 in Bristol, worked for the Department of Agriculture in Rhodesia collecting plants in that country from 1900 until his death on 28 Mai 1937 at Salisbury. (*Eyles*).
+Eyles, Frederick (1864-1937), British botanist and plant collector, born 1864 in Bristol, worked for the Department of Agriculture in Rhodesia collecting plants in that country from 1900 until his death on 28 Mai 1937 at Salisbury. 
+**Abbreviated name**: *Eyles*
 
 #### Herbarium and types
 

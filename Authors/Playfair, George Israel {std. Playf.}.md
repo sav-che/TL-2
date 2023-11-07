@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103624#page/305/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33189762) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Playfair, George Israel (1871-1922), Australian algologist; honorary curator of freshwater algae at the National Herbarium, Sydney, Australia. (*Playf.*).
+Playfair, George Israel (1871-1922), Australian algologist; honorary curator of freshwater algae at the National Herbarium, Sydney, Australia. 
+**Abbreviated name**: *Playf.*
 
 #### Herbarium and types
 

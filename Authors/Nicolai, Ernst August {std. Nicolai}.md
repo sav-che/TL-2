@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/item/104137#page/759/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33355830) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicolai, Ernst August (1800-1874), German botanist and practicing physician at Arnstadt (nr. Erfurt, Thüringen) (*Nicolai*).
+Nicolai, Ernst August (1800-1874), German botanist and practicing physician at Arnstadt (nr. Erfurt, Thüringen) 
+**Abbreviated name**: *Nicolai*
 
 #### Herbarium and types
 

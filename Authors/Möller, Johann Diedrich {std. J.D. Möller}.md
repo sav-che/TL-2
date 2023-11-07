@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/item/104137#page/551/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33355622) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Möller, Johann Diedrich (1844-1907), German (Holstein) botanical technician at Wedel, Holst., collaborator of P. T. Cleve. (*J. D. Möller*).
+Möller, Johann Diedrich (1844-1907), German (Holstein) botanical technician at Wedel, Holst., collaborator of P. T. Cleve. 
+**Abbreviated name**: *J. D. Möller*
 
 #### Herbarium and types
 

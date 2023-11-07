@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103624#page/158/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33189615) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pedicino, Nicola Antonio (1839-1883), Italian diatomologist; teacher at a technical college at Napoli; from 1872-1877 at the agricultural college and director of its botanical garden at Portici nr. Napoli; from 1877-1883 professor of botany and director of the botanical garden at Roma, succeeding De Notaris. (*Pedicino*).
+Pedicino, Nicola Antonio (1839-1883), Italian diatomologist; teacher at a technical college at Napoli; from 1872-1877 at the agricultural college and director of its botanical garden at Portici nr. Napoli; from 1877-1883 professor of botany and director of the botanical garden at Roma, succeeding De Notaris. 
+**Abbreviated name**: *Pedicino*
 
 #### Herbarium and types
 

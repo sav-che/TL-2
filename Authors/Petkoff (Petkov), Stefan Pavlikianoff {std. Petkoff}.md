@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103624#page/218/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33189675) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petkoff \[Petkov\], Stefan Pavlikianoff (1866-1956), Bulgarian botanist; habil. Sofia 1901; from 1906 professor of botany and director of the botanical garden of Sofia, ord. prof. 1911-1936. (*Petkoff*).
+Petkoff \[Petkov\], Stefan Pavlikianoff (1866-1956), Bulgarian botanist; habil. Sofia 1901; from 1906 professor of botany and director of the botanical garden of Sofia, ord. prof. 1911-1936. 
+**Abbreviated name**: *Petkoff*
 
 #### Herbarium and types
 

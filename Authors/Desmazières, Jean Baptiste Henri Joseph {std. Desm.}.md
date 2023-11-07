@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/item/103414#page/678/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/page/33120761) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Desmazières, Jean Baptiste Henri Joseph {std. Desm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Desmazières, Jean Baptiste Henri Joseph (1786-1862), French merchant and amateur botanist and horticulturist. (*Desmaz.*).
+Desmazières, Jean Baptiste Henri Joseph (1786-1862), French merchant and amateur botanist and horticulturist. 
+**Abbreviated name**: *Desmaz.*
 
 #### Herbarium and types
 

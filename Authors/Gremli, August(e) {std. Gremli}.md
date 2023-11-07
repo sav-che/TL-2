@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 997](https://www.biodiversitylibrary.org/item/103414#page/1045/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 997](https://www.biodiversitylibrary.org/page/33121128) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gremli, August(e) (1833-1899), Swiss botanist, (*Gremli*).
+Gremli, August(e) (1833-1899), Swiss botanist, 
+**Abbreviated name**: *Gremli*
 
 #### Herbarium and types
 

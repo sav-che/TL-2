@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/item/103414#page/648/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Darwin, Charles Robert {std. Darwin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Darwin, Charles Robert (1809-1882), British evolutionary biologist. (*Darwin*).
+Darwin, Charles Robert (1809-1882), British evolutionary biologist. 
+**Abbreviated name**: *Darwin*
 
 #### Herbarium and types
 

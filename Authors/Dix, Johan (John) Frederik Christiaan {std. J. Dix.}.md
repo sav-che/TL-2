@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103833#page/372/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33259406) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dix, Johan \[John\] Frederik Christiaan (1881-1988), Dutch gardener, born 20 Jul 1881 in Maartensdijk (nr. Utrecht), was already at an early age interested in horticulture, appointed at the botanical garden of Utrecht for some time, later stayed in Germany for a year and in England (Kew) in 1904, after his return to Holland he became one of the best known plant breeders (especially bulbs), published for many years on his work, after W.W. II stopped working at an age of 65 but published until 1981, died 27 Dec 1988 at the age of 107. (*J. Dix.*).
+Dix, Johan \[John\] Frederik Christiaan (1881-1988), Dutch gardener, born 20 Jul 1881 in Maartensdijk (nr. Utrecht), was already at an early age interested in horticulture, appointed at the botanical garden of Utrecht for some time, later stayed in Germany for a year and in England (Kew) in 1904, after his return to Holland he became one of the best known plant breeders (especially bulbs), published for many years on his work, after W.W. II stopped working at an age of 65 but published until 1981, died 27 Dec 1988 at the age of 107. 
+**Abbreviated name**: *J. Dix.*
 
 #### Herbarium and types
 

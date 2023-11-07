@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103624#page/200/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33189657) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pescott, Edward Edgar (1872-1954), Australian botanist, pomologist and historian; principal of a school of horticulture at Burley, Victoria 1909-1916; from 1917-1937 government pomologist and seed-tester in the victorian Department of Agriculture. (*Pescott*).
+Pescott, Edward Edgar (1872-1954), Australian botanist, pomologist and historian; principal of a school of horticulture at Burley, Victoria 1909-1916; from 1917-1937 government pomologist and seed-tester in the victorian Department of Agriculture. 
+**Abbreviated name**: *Pescott*
 
 #### Herbarium and types
 

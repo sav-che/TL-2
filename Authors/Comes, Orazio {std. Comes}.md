@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103860#page/296/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265963) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Comes, Orazio (1848-1923), Italian botanist, born at Monopoli, Bari, professor of botany at the Scuola super. agric. Portici, also professor at the University of Napoli, ultimately director of the Scuola super. agric. Portici, director of the Botanical Garden of the University of Napoli 1877-1917. (*Comes*).
+Comes, Orazio (1848-1923), Italian botanist, born at Monopoli, Bari, professor of botany at the Scuola super. agric. Portici, also professor at the University of Napoli, ultimately director of the Scuola super. agric. Portici, director of the Botanical Garden of the University of Napoli 1877-1917. 
+**Abbreviated name**: *Comes*
 
 #### Herbarium and types
 

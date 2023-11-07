@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/103859#page/296/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265483) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boivin, Louis Hyacinthe {std. Boivin}|first entry]] for this author
 
 ### Author
 
-\* Boivin, Louis Hyacinthe (1808-1852), French botanist and plant collector, born at Compiègne (Oise), studied medicine but turned to botany, student of Desfontaines and Adrien de Jussieu in Paris, ca. 1830 active at Mende (Lozère) with Mougeot, through Gaudichaud sent to the Indian Ocean (mainly Madagascar, Mauritius and Réunion), also collecting on the coasts of Africa 1846-1852, died on the journey back to France in the hospital at Brest. (*Boivin*).
+\* Boivin, Louis Hyacinthe (1808-1852), French botanist and plant collector, born at Compiègne (Oise), studied medicine but turned to botany, student of Desfontaines and Adrien de Jussieu in Paris, ca. 1830 active at Mende (Lozère) with Mougeot, through Gaudichaud sent to the Indian Ocean (mainly Madagascar, Mauritius and Réunion), also collecting on the coasts of Africa 1846-1852, died on the journey back to France in the hospital at Brest. 
+**Abbreviated name**: *Boivin*
 
 #### Herbarium and types
 

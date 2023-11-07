@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/item/103624#page/472/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33189929) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quintanilha, Aurélio Pereira da Silva (1892-x), Portuguese botanist; Dr. phil. Coimbra 1926; at the Botanical Institute of Coimbra. (*Quintanilha*).
+Quintanilha, Aurélio Pereira da Silva (1892-x), Portuguese botanist; Dr. phil. Coimbra 1926; at the Botanical Institute of Coimbra. 
+**Abbreviated name**: *Quintanilha*
 
 #### Herbarium and types
 

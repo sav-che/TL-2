@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/104077#page/505/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seidenfaden, Gunnar (1908-x), Danish explorer, politician, diplomat and botanist; travelled in the Arctic 1928-1934, to Spitsbergen 1938 ; economic counsellor at the Danish embassy at Washington 1940-1945, ambassador in S.E. Asia 1955-1959, in Moscow 1959-1961; stationed in Denmark from 1961; specialist on Thailand Orchidaceae. (*Seidenf.*).
+Seidenfaden, Gunnar (1908-x), Danish explorer, politician, diplomat and botanist; travelled in the Arctic 1928-1934, to Spitsbergen 1938 ; economic counsellor at the Danish embassy at Washington 1940-1945, ambassador in S.E. Asia 1955-1959, in Moscow 1959-1961; stationed in Denmark from 1961; specialist on Thailand Orchidaceae. 
+**Abbreviated name**: *Seidenf.*
 
 #### Herbarium and types
 

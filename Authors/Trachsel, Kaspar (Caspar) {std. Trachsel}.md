@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103683#page/434/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33212466) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trachsel, Kaspar \[Caspar\] (1788-1832), Swiss botanist and physician at Rüggisberg (Riggisberg) nr Bern; Dr. med. Univ. Bern. (*Trachsel*).
+Trachsel, Kaspar \[Caspar\] (1788-1832), Swiss botanist and physician at Rüggisberg (Riggisberg) nr Bern; Dr. med. Univ. Bern. 
+**Abbreviated name**: *Trachsel*
 
 #### Herbarium and types
 

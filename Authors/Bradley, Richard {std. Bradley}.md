@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103414#page/348/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33120431) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bradley, Richard (1688-1732), English botanist, professor of botany at Cambridge. (*Bradley*).
+Bradley, Richard (1688-1732), English botanist, professor of botany at Cambridge. 
+**Abbreviated name**: *Bradley*
 
 #### Herbarium and types
 

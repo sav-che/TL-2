@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103861#page/81/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33266378) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brez, Jacques (1771-1798), Dutch clergyman and botanist, born at Middelburg, sometime at Utrecht, died at Middelburg. (*Brez*).
+Brez, Jacques (1771-1798), Dutch clergyman and botanist, born at Middelburg, sometime at Utrecht, died at Middelburg. 
+**Abbreviated name**: *Brez*
 
 #### Herbarium and types
 

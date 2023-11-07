@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/103861#page/426/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33266723) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carleton, Mark Alfred {std. Carleton}|first entry]] for this author
 
 ### Author
 
-\* Carleton, Mark Alfred (1866-1925), American botanist, mycologist and phytopathologist, born at Jerusalem, Ohio, took part in the Garfield University at Wichita (Kansas) expedition 1889, later as botanist at the Experiment Station of the Kansas State Agricultural College at Manhattan until 1894, assistant at the division of vegetable pathology at USDA 1894-1918, went to Russia in 1898 for draught-resistant varieties of wheat for USDA. (*Carleton*).
+\* Carleton, Mark Alfred (1866-1925), American botanist, mycologist and phytopathologist, born at Jerusalem, Ohio, took part in the Garfield University at Wichita (Kansas) expedition 1889, later as botanist at the Experiment Station of the Kansas State Agricultural College at Manhattan until 1894, assistant at the division of vegetable pathology at USDA 1894-1918, went to Russia in 1898 for draught-resistant varieties of wheat for USDA. 
+**Abbreviated name**: *Carleton*
 
 #### Herbarium and types
 

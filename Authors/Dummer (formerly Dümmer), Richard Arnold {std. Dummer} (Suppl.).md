@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103835#page/170/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33260148) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dümmer, Richard Arnold {std. Dummer}|first entry]] for this author
 
 ### Author
 
-Dummer (formerly Dümmer), Richard Arnold (1887-1922), South African horticulturalist and botanist, born 1887 in Cape Town, died 2 Dec 1922 in Uganda through a motor accident, employed in the Cape Town municipal gardens, visiting Kew Gardens 1910-1911, left Kew and worked in Cambridge 1912-1914, Kampala, Uganda 1914-1922. (*Dummer*).
+Dummer (formerly Dümmer), Richard Arnold (1887-1922), South African horticulturalist and botanist, born 1887 in Cape Town, died 2 Dec 1922 in Uganda through a motor accident, employed in the Cape Town municipal gardens, visiting Kew Gardens 1910-1911, left Kew and worked in Cambridge 1912-1914, Kampala, Uganda 1914-1922. 
+**Abbreviated name**: *Dummer*
 
 #### Herbarium and types
 

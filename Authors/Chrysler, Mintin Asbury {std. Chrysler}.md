@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103860#page/177/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265844) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chrysler, Mintin Asbury (1871-1963), Canadian born American botanist, sometime on Harvard University, 1907 professor at the Agricultural College of S. Dakota, 1912 professor at the University of Maine at Orono, Dr. phil. University of Chicago 1923, professor of botany at Rutgers University, New Brunswick 1923-1942. (*Chrysler*).
+Chrysler, Mintin Asbury (1871-1963), Canadian born American botanist, sometime on Harvard University, 1907 professor at the Agricultural College of S. Dakota, 1912 professor at the University of Maine at Orono, Dr. phil. University of Chicago 1923, professor of botany at Rutgers University, New Brunswick 1923-1942. 
+**Abbreviated name**: *Chrysler*
 
 #### Herbarium and types
 

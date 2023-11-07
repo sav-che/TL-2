@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/104077#page/97/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33333222) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savatier, Paul Amadée Ludovic (1830-1891), French botanist and marine medical officer; educated at the Naval medical school, Rochefort; on a mission to Japan 1866-1876; from 1877-1879 head physician on the circumnavigation by the Magicienne; retired as "médecin en chef de la marine". (*Sav.*).
+Savatier, Paul Amadée Ludovic (1830-1891), French botanist and marine medical officer; educated at the Naval medical school, Rochefort; on a mission to Japan 1866-1876; from 1877-1879 head physician on the circumnavigation by the Magicienne; retired as "médecin en chef de la marine". 
+**Abbreviated name**: *Sav.*
 
 #### Herbarium and types
 

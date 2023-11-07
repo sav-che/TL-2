@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/item/103253#page/852/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33069068) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leidy, Joseph (1823-1891), American anatomist, parasitologist and paleontologist at Philadelphia; founder of American vertebrate paleontology; one of the last of the great naturalists; Dr. med. Philadelphia 1844. (*Leidy*).
+Leidy, Joseph (1823-1891), American anatomist, parasitologist and paleontologist at Philadelphia; founder of American vertebrate paleontology; one of the last of the great naturalists; Dr. med. Philadelphia 1844. 
+**Abbreviated name**: *Leidy*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103858#page/234/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33264949) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baas, Josef (1908-x), German (Offenbach a. M. born) botanist, educated at the Oberrealschule am Stadthaus at Offenbach a. M., studied natural sciences at the University of Frankfurt a. M. 1926-1932. (*J. Baas*).
+Baas, Josef (1908-x), German (Offenbach a. M. born) botanist, educated at the Oberrealschule am Stadthaus at Offenbach a. M., studied natural sciences at the University of Frankfurt a. M. 1926-1932. 
+**Abbreviated name**: *J. Baas*
 
 #### Herbarium and types
 

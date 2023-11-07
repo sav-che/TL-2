@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103253#page/202/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herrmann, Johan (Jean) (1738-1800), German-Alsatian botanist at Strassburg. (*Herrm.*).
+Herrmann, Johan (Jean) (1738-1800), German-Alsatian botanist at Strassburg. 
+**Abbreviated name**: *Herrm.*
 
 #### Herbarium and types
 

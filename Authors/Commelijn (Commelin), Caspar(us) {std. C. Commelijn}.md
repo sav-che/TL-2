@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/103414#page/578/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33120661) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Commelijn \[Commelin\], Caspar\[us\] (1667/1668-1731), Netherlands physician, botanist and professor at the Amsterdam Athenaeum, nephew of Jan Commelin. (*C. Commelijn*).
+Commelijn \[Commelin\], Caspar\[us\] (1667/1668-1731), Netherlands physician, botanist and professor at the Amsterdam Athenaeum, nephew of Jan Commelin. 
+**Abbreviated name**: *C. Commelijn*
 
 #### Herbarium and types
 

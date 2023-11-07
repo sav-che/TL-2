@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103250#page/112/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33066392) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walther, Friedrich Ludwig (1759-1824), German (Franken) botanist and agriculturist; studied medicine at Erlangen; private teacher until 1789; lecturer (1789) and professor (1790) in the natural sciences faculty of the University of Giessen. (*F. Walther*).
+Walther, Friedrich Ludwig (1759-1824), German (Franken) botanist and agriculturist; studied medicine at Erlangen; private teacher until 1789; lecturer (1789) and professor (1790) in the natural sciences faculty of the University of Giessen. 
+**Abbreviated name**: *F. Walther*
 
 #### Herbarium and types
 

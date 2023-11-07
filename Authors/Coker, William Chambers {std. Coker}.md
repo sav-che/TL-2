@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/item/103414#page/569/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33120652) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coker, William Chambers {std. Coker} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Coker, William Chambers (1872-1953), American mycologist. (*Coker*).
+Coker, William Chambers (1872-1953), American mycologist. 
+**Abbreviated name**: *Coker*
 
 #### Herbarium and types
 

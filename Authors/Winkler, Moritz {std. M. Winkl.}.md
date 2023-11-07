@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/103250#page/438/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33066718) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winkler, Moritz (1812-1889), German (Silesian) land steward and factory manager at Giessmanndorf nr Neisse in Silesia; active amateur floristic botanist; brother of \[K.G.\] A. Winkler; travelled and collected in Central and Southern Europe; assembled a large and rich European herbarium. (*M. Winkl.*).
+Winkler, Moritz (1812-1889), German (Silesian) land steward and factory manager at Giessmanndorf nr Neisse in Silesia; active amateur floristic botanist; brother of \[K.G.\] A. Winkler; travelled and collected in Central and Southern Europe; assembled a large and rich European herbarium. 
+**Abbreviated name**: *M. Winkl.*
 
 #### Herbarium and types
 

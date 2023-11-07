@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103683#page/419/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33212451) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Totten, Henry Roland (1892-1974), American botanist; A.B. Univ. N. Carol. 1913, M.A. ib. 1914, Dr. phil. ib. 1923; from 1913-1963 with the Dept. of Botany, Univ. N. Carol., Chapel Hill, ultimately as professor of botany; from 1963 emeritus professor of botany ib., LL.D. Atlantic Christian College 1957. (*Totten*).
+Totten, Henry Roland (1892-1974), American botanist; A.B. Univ. N. Carol. 1913, M.A. ib. 1914, Dr. phil. ib. 1923; from 1913-1963 with the Dept. of Botany, Univ. N. Carol., Chapel Hill, ultimately as professor of botany; from 1963 emeritus professor of botany ib., LL.D. Atlantic Christian College 1957. 
+**Abbreviated name**: *Totten*
 
 #### Herbarium and types
 

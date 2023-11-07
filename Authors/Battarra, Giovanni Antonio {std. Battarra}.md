@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103414#page/191/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33120274) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Battarra, (Giovanni) Antonio {std. Battarra} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Battarra, Giovanni Antonio (1714-1789), Italian clergyman, physician and mycologist. (*Battarra*).
+Battarra, Giovanni Antonio (1714-1789), Italian clergyman, physician and mycologist. 
+**Abbreviated name**: *Battarra*
 
 #### Herbarium and types
 

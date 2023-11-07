@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/item/103624#page/811/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33190268) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rion, Alphonse (1809-1856), Swiss (Valais) clergyman and botanist; teacher at the Lyceum of Sitten; ord. 1832; priest at Zenegyen nr Viège 1834-1835; from 1835 at Sion, ultimately as canon and teacher. (*Rion*).
+Rion, Alphonse (1809-1856), Swiss (Valais) clergyman and botanist; teacher at the Lyceum of Sitten; ord. 1832; priest at Zenegyen nr Viège 1834-1835; from 1835 at Sion, ultimately as canon and teacher. 
+**Abbreviated name**: *Rion*
 
 #### Herbarium and types
 

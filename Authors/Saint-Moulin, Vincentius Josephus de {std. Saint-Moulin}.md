@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/item/103624#page/1092/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/page/33190549) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saint-Moulin, Vincentius Josephus de (1804-1837), Belgian (Hainaut) botanist; studied at the University of Gent; Dr. med. Univ. Liège 1831; practicing physician at Houdeng-Aimeries 1831-1837. (*Saint-Moulin*).
+Saint-Moulin, Vincentius Josephus de (1804-1837), Belgian (Hainaut) botanist; studied at the University of Gent; Dr. med. Univ. Liège 1831; practicing physician at Houdeng-Aimeries 1831-1837. 
+**Abbreviated name**: *Saint-Moulin*
 
 #### Herbarium and types
 

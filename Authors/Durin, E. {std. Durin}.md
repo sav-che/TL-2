@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103835#page/209/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33260187) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durin, E. (fl. 1913), French botanist, professor at the colonial college at Pondichéry. (*Durin*).
+Durin, E. (fl. 1913), French botanist, professor at the colonial college at Pondichéry. 
+**Abbreviated name**: *Durin*
 
 #### Herbarium and types
 

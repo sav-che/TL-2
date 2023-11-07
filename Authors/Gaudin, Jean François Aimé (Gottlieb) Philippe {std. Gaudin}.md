@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/item/103414#page/971/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33121054) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gaudin, Jean François Aimé \[Gottlieb\] Philippe (1766-1833), Swiss clergyman and botanist at Nyon, honorary professor of botany at Lausanne. (*Gaudin*).
+Gaudin, Jean François Aimé \[Gottlieb\] Philippe (1766-1833), Swiss clergyman and botanist at Nyon, honorary professor of botany at Lausanne. 
+**Abbreviated name**: *Gaudin*
 
 #### Herbarium and types
 

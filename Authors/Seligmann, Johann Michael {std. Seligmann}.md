@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/item/104077#page/512/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seligmann, Johann Michael (1720-1762), German botanical and zoological artist and engraver at Nürnberg. (*Seligmann*).
+Seligmann, Johann Michael (1720-1762), German botanical and zoological artist and engraver at Nürnberg. 
+**Abbreviated name**: *Seligmann*
 
 #### Herbarium and types
 

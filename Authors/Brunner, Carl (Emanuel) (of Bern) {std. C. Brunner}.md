@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103861#page/173/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33266470) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunner, Carl \[Emanuel\] (of Bern) (1796-1867), Swiss (Bernois) botanist, brother of Samuel Brunner (1790-1844, African explorer). (*C. Brunner*).
+Brunner, Carl \[Emanuel\] (of Bern) (1796-1867), Swiss (Bernois) botanist, brother of Samuel Brunner (1790-1844, African explorer). 
+**Abbreviated name**: *C. Brunner*
 
 #### Herbarium and types
 

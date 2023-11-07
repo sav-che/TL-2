@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/item/103414#page/758/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33120841) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Durando, Gaetano Leone {std. Durando} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Durando, Gaetano Leone (1811-1892), French botanist in Algeria. (*Durando*).
+Durando, Gaetano Leone (1811-1892), French botanist in Algeria. 
+**Abbreviated name**: *Durando*
 
 #### Herbarium and types
 

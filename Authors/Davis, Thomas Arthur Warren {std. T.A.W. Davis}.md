@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103833#page/120/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davis, Thomas Arthur Warren (1899-1980), British botanist, born 12 April 1899 at Trewarren, St. Ishmail's, Dyfed, died 1980, second lieutenant Indian Army from 1917-1919, in the Colonial Service 1919-1925, visited British Guyana 1929. (*T.A.W. Davis*).
+Davis, Thomas Arthur Warren (1899-1980), British botanist, born 12 April 1899 at Trewarren, St. Ishmail's, Dyfed, died 1980, second lieutenant Indian Army from 1917-1919, in the Colonial Service 1919-1925, visited British Guyana 1929. 
+**Abbreviated name**: *T.A.W. Davis*
 
 #### Herbarium and types
 

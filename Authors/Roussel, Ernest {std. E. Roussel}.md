@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/item/103624#page/957/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roussel, Ernest (*fl*. 1860), French pharmacist and mycologist at Évreux; studied at the École de médecine et de pharmacie de Rouen (thesis 1860). (*E. Roussel*).
+Roussel, Ernest (*fl*. 1860), French pharmacist and mycologist at Évreux; studied at the École de médecine et de pharmacie de Rouen (thesis 1860). 
+**Abbreviated name**: *E. Roussel*
 
 #### Herbarium and types
 

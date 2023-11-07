@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/item/103414#page/854/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Everhart, Benjamin Matlack (1818-1904), American mycologist. (*Everh.*).
+Everhart, Benjamin Matlack (1818-1904), American mycologist. 
+**Abbreviated name**: *Everh.*
 
 #### Herbarium and types
 

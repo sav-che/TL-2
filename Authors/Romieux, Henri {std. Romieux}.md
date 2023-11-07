@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/item/103624#page/891/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Romieux, Henri (1857-1937), Swiss (Genevese) botanist and administrator; bank employee at Genève 1878-1887; with the federal finance department at Bern 1887-1892; industrial consultant at Genève 1892-1900; member of the "Conseil d'État" (de Genève) from 1900 as head of the public works department; collected extensively in Switzerland as well as in Algeria (1904) and Tunesia (1906). (*Romieux*).
+Romieux, Henri (1857-1937), Swiss (Genevese) botanist and administrator; bank employee at Genève 1878-1887; with the federal finance department at Bern 1887-1892; industrial consultant at Genève 1892-1900; member of the "Conseil d'État" (de Genève) from 1900 as head of the public works department; collected extensively in Switzerland as well as in Algeria (1904) and Tunesia (1906). 
+**Abbreviated name**: *Romieux*
 
 #### Herbarium and types
 

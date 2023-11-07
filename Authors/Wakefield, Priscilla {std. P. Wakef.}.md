@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/item/103250#page/85/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33066365) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wakefield, Priscilla (née Bell)(1751-1832), British author and philanthropist; early promoter of savings banks; writer of children's books and popular books on science and travel. (*P. Wakef.*).
+Wakefield, Priscilla (née Bell)(1751-1832), British author and philanthropist; early promoter of savings banks; writer of children's books and popular books on science and travel. 
+**Abbreviated name**: *P. Wakef.*
 
 #### Herbarium and types
 

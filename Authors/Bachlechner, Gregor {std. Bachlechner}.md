@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/item/103414#page/133/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33120216) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bachlechner, Gregor {std. Bachlechner} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bachlechner, Gregor (1808-1873), Austrian botanist and highschool teacher at Brixen. (*Bachlechner*).
+Bachlechner, Gregor (1808-1873), Austrian botanist and highschool teacher at Brixen. 
+**Abbreviated name**: *Bachlechner*
 
 #### Herbarium and types
 

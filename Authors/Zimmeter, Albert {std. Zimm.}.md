@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/item/103250#page/603/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33066883) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zimmeter, Albert (1848-1897), Austrian high school teacher and botanist at Steyer, later at Innsbruck. (*Zimm.*).
+Zimmeter, Albert (1848-1897), Austrian high school teacher and botanist at Steyer, later at Innsbruck. 
+**Abbreviated name**: *Zimm.*
 
 #### Herbarium and types
 

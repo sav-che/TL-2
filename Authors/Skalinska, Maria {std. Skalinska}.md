@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/item/104077#page/638/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33333763) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Skalinska, Maria (1890-1977), Polish botanist and geneticist; Dr. sci. nat. Bern 1912; lecturer in genetics and plant embryology Horticultural College, Warsaw 1916-1923; associated with the Department of Genetics, College of Agriculture Warsaw from 1920; professor of botany and genetics Free University of Poland, Warsaw 1924-1938; habil. Jagellonian Univ. Cracow 1938; in Great Britain 1939-1946; professor of plant anatomy and cytology Jagellonian Univ., 1946-1963; in retirement continuing her work in Cracow. (*Skalinska*).
+Skalinska, Maria (1890-1977), Polish botanist and geneticist; Dr. sci. nat. Bern 1912; lecturer in genetics and plant embryology Horticultural College, Warsaw 1916-1923; associated with the Department of Genetics, College of Agriculture Warsaw from 1920; professor of botany and genetics Free University of Poland, Warsaw 1924-1938; habil. Jagellonian Univ. Cracow 1938; in Great Britain 1939-1946; professor of plant anatomy and cytology Jagellonian Univ., 1946-1963; in retirement continuing her work in Cracow. 
+**Abbreviated name**: *Skalinska*
 
 #### Herbarium and types
 

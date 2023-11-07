@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103834#page/373/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259855) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Foster, Adriance Sherwood (1901-1973), American plant anatomist, born 6 Aug 1901 in Poughkeepsie, New York, B.Sc. 1923 Cornell Univ., Ithaca, New York, M.Sc. 1925 and D.Sc. 1926 Harvard Univ., Cambridge, Mass., Natl. Research Council Fellowship, Univ. of Leeds, England 1926-1928, Univ. of Oklahoma, Norman 1928-1934, Prof. of Botany (Plant Anatomy), Dept. of Botany, Univ. of Calif. at Berkeley 1934-1968, dept. chair 1955-1960, Guggenheim Fellowship 1945, president, B.S.A. 1955, president, Intl. Association Plant Morphologists, died 1 Mai 1973 in Berkeley. (*A.S. Foster*).
+Foster, Adriance Sherwood (1901-1973), American plant anatomist, born 6 Aug 1901 in Poughkeepsie, New York, B.Sc. 1923 Cornell Univ., Ithaca, New York, M.Sc. 1925 and D.Sc. 1926 Harvard Univ., Cambridge, Mass., Natl. Research Council Fellowship, Univ. of Leeds, England 1926-1928, Univ. of Oklahoma, Norman 1928-1934, Prof. of Botany (Plant Anatomy), Dept. of Botany, Univ. of Calif. at Berkeley 1934-1968, dept. chair 1955-1960, Guggenheim Fellowship 1945, president, B.S.A. 1955, president, Intl. Association Plant Morphologists, died 1 Mai 1973 in Berkeley. 
+**Abbreviated name**: *A.S. Foster*
 
 #### Herbarium and types
 

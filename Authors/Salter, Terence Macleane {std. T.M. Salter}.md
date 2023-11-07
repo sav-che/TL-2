@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/104077#page/29/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salter, Terence Macleane (1883-1969), English amateur botanist; Royal navy paymaster 1904 (commander 1922) until 1931 (retired as paymaster captain); settled in Cape Town, S. Africa 1935, devoting himself to the study of the Cape flora; Honorary Reader in systematic botany, Bolus Herbarium 1930-1960; Dr. sci. h.c. Univ. Cape Town 1955; Bolus medal 1965; specialist on *Oxalis*. (*T.M. Salter*).
+Salter, Terence Macleane (1883-1969), English amateur botanist; Royal navy paymaster 1904 (commander 1922) until 1931 (retired as paymaster captain); settled in Cape Town, S. Africa 1935, devoting himself to the study of the Cape flora; Honorary Reader in systematic botany, Bolus Herbarium 1930-1960; Dr. sci. h.c. Univ. Cape Town 1955; Bolus medal 1965; specialist on *Oxalis*. 
+**Abbreviated name**: *T.M. Salter*
 
 #### Herbarium and types
 

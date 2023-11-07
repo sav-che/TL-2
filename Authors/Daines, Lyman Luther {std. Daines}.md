@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103833#page/34/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259068) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daines, Lyman Luther (fl. 1912-1913), American botanist at California, studied botany at Berkeley, University of California, Ph.D. 1912. (*Daines*).
+Daines, Lyman Luther (fl. 1912-1913), American botanist at California, studied botany at Berkeley, University of California, Ph.D. 1912. 
+**Abbreviated name**: *Daines*
 
 #### Herbarium and types
 

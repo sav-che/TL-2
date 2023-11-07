@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/item/103624#page/847/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33190304) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rodschied, Ernst Karl (x-1796), German (Hanau) physician and botanist; some time practicing in the "Dutch colony Rio Essequibo" (now Guyana). (*Rodschied*).
+Rodschied, Ernst Karl (x-1796), German (Hanau) physician and botanist; some time practicing in the "Dutch colony Rio Essequibo" (now Guyana). 
+**Abbreviated name**: *Rodschied*
 
 #### Herbarium and types
 

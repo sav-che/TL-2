@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103860#page/294/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265961) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Comère, Joseph (1854-1932), French pharmacist and algologist, born at Toulouse, studied at the Faculté de Bordeaux, "diplôme de pharmacien de 1re classe" 1881, interested in algology from 1880, especially working on diatoms 1897-1920, from 1899 publishing in Toulouse, died in Colomiers-Las planes (Haute-Garonne). (*Comère*).
+Comère, Joseph (1854-1932), French pharmacist and algologist, born at Toulouse, studied at the Faculté de Bordeaux, "diplôme de pharmacien de 1re classe" 1881, interested in algology from 1880, especially working on diatoms 1897-1920, from 1899 publishing in Toulouse, died in Colomiers-Las planes (Haute-Garonne). 
+**Abbreviated name**: *Comère*
 
 #### Herbarium and types
 

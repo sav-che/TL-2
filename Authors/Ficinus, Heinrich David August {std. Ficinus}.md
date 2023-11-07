@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/item/103414#page/875/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33120958) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ficinus, Heinrich David August (1782-1857), German botanist at the medical academy at Dresden. (*Ficinus*).
+Ficinus, Heinrich David August (1782-1857), German botanist at the medical academy at Dresden. 
+**Abbreviated name**: *Ficinus*
 
 #### Herbarium and types
 

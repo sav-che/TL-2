@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/item/103624#page/890/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33190347) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Romell, Lars (1854-1927), Swedish mycologist; Fil. kand. Uppsala 1855; teacher at Stockholm 1886-1890; patent attorney ibid. 1890-1927; Regnellian curator at the botany department of the Naturh. Riksmuseum ib. 1915-1920; Dr. phil. h.c. Uppsala 1927. (*Romell*).
+Romell, Lars (1854-1927), Swedish mycologist; Fil. kand. Uppsala 1855; teacher at Stockholm 1886-1890; patent attorney ibid. 1890-1927; Regnellian curator at the botany department of the Naturh. Riksmuseum ib. 1915-1920; Dr. phil. h.c. Uppsala 1927. 
+**Abbreviated name**: *Romell*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/item/103414#page/526/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33120609) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cesati, Vincenzo barone de {std. Ces.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cesati, Vincenzo barone de (1806-1883), Italian botanist and biohistorian, professor and director of the Naples botanical garden from 1868-1883. (*Ces.*).
+Cesati, Vincenzo barone de (1806-1883), Italian botanist and biohistorian, professor and director of the Naples botanical garden from 1868-1883. 
+**Abbreviated name**: *Ces.*
 
 #### Herbarium and types
 

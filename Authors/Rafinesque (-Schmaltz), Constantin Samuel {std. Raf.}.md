@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/item/103624#page/563/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33190020) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rafinesque \[-Schmaltz\], Constantin Samuel (1783-1840), Constantinople-born (French father, Greek mother of German extraction) naturalist and author; in Italy 1795-1802, in the United States 1802-1804(?), in Sicily 1804-1815; settling in the United States in 1815. (*Raf.*).
+Rafinesque \[-Schmaltz\], Constantin Samuel (1783-1840), Constantinople-born (French father, Greek mother of German extraction) naturalist and author; in Italy 1795-1802, in the United States 1802-1804(?), in Sicily 1804-1815; settling in the United States in 1815. 
+**Abbreviated name**: *Raf.*
 
 #### Herbarium and types
 

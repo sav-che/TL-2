@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103683#page/25/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33212079) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stokes, Jonathan (1755-1831), British physician and botanist; born at Chesterfield, Derbyshire; M.D. Edinburgh 1782 as a student of John Hope; practicing physician at Stourbridge, Worcestershire, Kidderminster (ca. 1792-1794) and Chesterfield (ca. 1796-1830). (*Stokes*).
+Stokes, Jonathan (1755-1831), British physician and botanist; born at Chesterfield, Derbyshire; M.D. Edinburgh 1782 as a student of John Hope; practicing physician at Stourbridge, Worcestershire, Kidderminster (ca. 1792-1794) and Chesterfield (ca. 1796-1830). 
+**Abbreviated name**: *Stokes*
 
 #### Herbarium and types
 

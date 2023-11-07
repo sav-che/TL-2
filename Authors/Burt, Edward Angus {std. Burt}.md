@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103861#page/278/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33266575) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burt, Edward Angus (1859-1939), American (Athens, Pa. born) mycologist, grew up on a dairy farm near Middle Grove, Saratoga County, N.Y., educated at the State Normal School at Albany (N.Y.) in winters, teaching penmanship, bookkeeping and english at the Albany Academy 1880, teaching natural history at the State Normal School at Albany 1885-1890, entered the junior class at Harvard University 1891 studying with Roland Thaxter and William G. Farlow, AM 1894, Dr. phil. 1895, professor of natural history at Middlebury College (with Ezra Brainerd) 1895-1913, librarian and mycologist at the Henry Shaw School of Botany of Washington University, St. Louis 1913-1933. (*Burt*).
+Burt, Edward Angus (1859-1939), American (Athens, Pa. born) mycologist, grew up on a dairy farm near Middle Grove, Saratoga County, N.Y., educated at the State Normal School at Albany (N.Y.) in winters, teaching penmanship, bookkeeping and english at the Albany Academy 1880, teaching natural history at the State Normal School at Albany 1885-1890, entered the junior class at Harvard University 1891 studying with Roland Thaxter and William G. Farlow, AM 1894, Dr. phil. 1895, professor of natural history at Middlebury College (with Ezra Brainerd) 1895-1913, librarian and mycologist at the Henry Shaw School of Botany of Washington University, St. Louis 1913-1933. 
+**Abbreviated name**: *Burt*
 
 #### Herbarium and types
 

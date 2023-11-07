@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103624#page/413/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33189870) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prillieux, Édouard Ernest (1829-1915), French agronomist and botanist, especially mycologist and phytopathologist; studied at the Institut agronomique, Versailles, 1849-1855; in various functions at the Sorbonne and the Museum d'Histoire naturelle 1855-1874; lecturer École centr. Arts Manuf. 1874-1876; professor at the Institut agronomique, Versailles 1876; from 1883 inspector general of agricultural teaching, from 1886 director of the Station de pathologie végétale. (*Prill.*).
+Prillieux, Édouard Ernest (1829-1915), French agronomist and botanist, especially mycologist and phytopathologist; studied at the Institut agronomique, Versailles, 1849-1855; in various functions at the Sorbonne and the Museum d'Histoire naturelle 1855-1874; lecturer École centr. Arts Manuf. 1874-1876; professor at the Institut agronomique, Versailles 1876; from 1883 inspector general of agricultural teaching, from 1886 director of the Station de pathologie végétale. 
+**Abbreviated name**: *Prill.*
 
 #### Herbarium and types
 

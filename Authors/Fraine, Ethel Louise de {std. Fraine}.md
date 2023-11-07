@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/item/103834#page/389/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33259871) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fraine, Ethel Louise de (1879-1918), English botanist, born 2 Nov 1879 in Aylesbury (Bucks.), B.Sc. Whitelands College, Chelsea, science lecturer, Norwich Training College 1902-1903, D.Sc. 1910 Univ. College (London), affiliated, Whitelands College 1911-1913, F.L.S. 1912, asst. lecturer in botany, Battersea Polytechnic 1910-1913 and Univ. College, Aberystwyth 1913-1914, resident lecturer in botany, Westfield College from 1915, died 25 \[23?\] Mar 1918 in Falmouth (Cornwall). (*Fraine*).
+Fraine, Ethel Louise de (1879-1918), English botanist, born 2 Nov 1879 in Aylesbury (Bucks.), B.Sc. Whitelands College, Chelsea, science lecturer, Norwich Training College 1902-1903, D.Sc. 1910 Univ. College (London), affiliated, Whitelands College 1911-1913, F.L.S. 1912, asst. lecturer in botany, Battersea Polytechnic 1910-1913 and Univ. College, Aberystwyth 1913-1914, resident lecturer in botany, Westfield College from 1915, died 25 \[23?\] Mar 1918 in Falmouth (Cornwall). 
+**Abbreviated name**: *Fraine*
 
 #### Herbarium and types
 

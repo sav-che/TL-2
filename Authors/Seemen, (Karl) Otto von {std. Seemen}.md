@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/104077#page/495/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33333620) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seemen, \[Karl\] Otto von (1838-1910), German (East-Prussian) botanist and soldier; officer in the Prussian army, at Münchengrätz and Königgrätz 1866, in the Franco-Prussian war 1870-1871; from then on in semi-retirement ("Rittmeister a.D.") in Berlin; professor's title 1909; Rother Adlerorden iv. Kl. 1910; active floristic botanist; specialist on *Salix*; longtime honorary collaborator at the Botanical Museum, Berlin. (*Seemen*).
+Seemen, \[Karl\] Otto von (1838-1910), German (East-Prussian) botanist and soldier; officer in the Prussian army, at Münchengrätz and Königgrätz 1866, in the Franco-Prussian war 1870-1871; from then on in semi-retirement ("Rittmeister a.D.") in Berlin; professor's title 1909; Rother Adlerorden iv. Kl. 1910; active floristic botanist; specialist on *Salix*; longtime honorary collaborator at the Botanical Museum, Berlin. 
+**Abbreviated name**: *Seemen*
 
 #### Herbarium and types
 

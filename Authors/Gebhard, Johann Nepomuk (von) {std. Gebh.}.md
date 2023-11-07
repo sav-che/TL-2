@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/item/103414#page/975/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/page/33121058) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gebhard, Johann Nepomuk \[von\] (1764/1774-1827), Austrian naturalist, originally mining engineer. (*Gebh.*).
+Gebhard, Johann Nepomuk \[von\] (1764/1774-1827), Austrian naturalist, originally mining engineer. 
+**Abbreviated name**: *Gebh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/104137#page/404/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mayor, Eugène (1877-1976), Swiss physician and botanist at Neuchâtel, travelled in Colombia (1910-1911). (*Mayor*).
+Mayor, Eugène (1877-1976), Swiss physician and botanist at Neuchâtel, travelled in Colombia (1910-1911). 
+**Abbreviated name**: *Mayor*
 
 #### Herbarium and types
 

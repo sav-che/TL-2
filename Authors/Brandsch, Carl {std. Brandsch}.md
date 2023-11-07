@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/item/103861#page/24/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33266321) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandsch, Carl (fl. 1854), Conrector at the Gymnasium of Mediasch (Medwisch, Hung.: Szász Megyes), Transylvania (Siebenbürgen). (*Brandsch*).
+Brandsch, Carl (fl. 1854), Conrector at the Gymnasium of Mediasch (Medwisch, Hung.: Szász Megyes), Transylvania (Siebenbürgen). 
+**Abbreviated name**: *Brandsch*
 
 #### Herbarium and types
 

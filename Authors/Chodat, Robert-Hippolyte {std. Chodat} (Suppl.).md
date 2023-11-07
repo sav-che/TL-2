@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103860#page/124/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33265791) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chodat, Robert Hippolyte {std. Chodat}|first entry]] for this author
 
 ### Author
 
-\* Chodat, Robert-Hippolyte (1865-1934), Swiss botanist, born 6 Apr 1865 in Moutier-Grand-Val, Berner Jura, educated at the gymnasium at Biel, final examination 1881, studied pharmacy at the University of Genève, Dr. phil. 1887 ib., in charge of a pharmacy in Genève 1887-1893, extraord. professor at the University 1889, full professor for systematics and pharmaceutic botany 1891-1934, Dr. phil. ETH Zürich h.c. 1930. (*Chodat*).
+\* Chodat, Robert-Hippolyte (1865-1934), Swiss botanist, born 6 Apr 1865 in Moutier-Grand-Val, Berner Jura, educated at the gymnasium at Biel, final examination 1881, studied pharmacy at the University of Genève, Dr. phil. 1887 ib., in charge of a pharmacy in Genève 1887-1893, extraord. professor at the University 1889, full professor for systematics and pharmaceutic botany 1891-1934, Dr. phil. ETH Zürich h.c. 1930. 
+**Abbreviated name**: *Chodat*
 
 #### Herbarium and types
 

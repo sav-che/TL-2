@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/104137#page/403/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33355474) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mayer, Anton (1867-1951), German algologist and specialist on *Rubus* and *Salix* at Regensburg; studied at the teachers college of Altdorf; teacher at Eschenfeld 1887-1888. from 1888-1932 at various schools in Regensburg, from 1900 at the Müllersche Töchterschule (girls Gymnasium). (*An. Mayer*).
+Mayer, Anton (1867-1951), German algologist and specialist on *Rubus* and *Salix* at Regensburg; studied at the teachers college of Altdorf; teacher at Eschenfeld 1887-1888. from 1888-1932 at various schools in Regensburg, from 1900 at the Müllersche Töchterschule (girls Gymnasium). 
+**Abbreviated name**: *An. Mayer*
 
 #### Herbarium and types
 

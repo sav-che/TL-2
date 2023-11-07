@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103835#page/60/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33260038) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Donaldson, Noble Clark (fl. 1916), American agriculturist at the Judith Basin Substation, Moccasin, Montana. (*N.C. Donaldson*).
+Donaldson, Noble Clark (fl. 1916), American agriculturist at the Judith Basin Substation, Moccasin, Montana. 
+**Abbreviated name**: *N.C. Donaldson*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/item/104077#page/537/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33333662) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Serrurier, Lindor (1846-1901), Dutch sinologist; Dr. jur. Leiden 1877; curator of the Leiden Japanese Museum (later Ethnographic Museum) 1877; from 1881-1896 director; high school teacher of geography and ethnography in Batavia 1896-1901. (*Serrurier*).
+Serrurier, Lindor (1846-1901), Dutch sinologist; Dr. jur. Leiden 1877; curator of the Leiden Japanese Museum (later Ethnographic Museum) 1877; from 1881-1896 director; high school teacher of geography and ethnography in Batavia 1896-1901. 
+**Abbreviated name**: *Serrurier*
 
 #### Herbarium and types
 

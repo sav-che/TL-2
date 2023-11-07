@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/104137#page/436/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33355507) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mercier de Coppet, Elysée (1802-1863), Swiss botanist. (*Mercier*).
+Mercier de Coppet, Elysée (1802-1863), Swiss botanist. 
+**Abbreviated name**: *Mercier*
 
 #### Herbarium and types
 

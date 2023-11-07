@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/item/104077#page/504/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seidel, Christoph Friedrich (*fl*. 1869), German (Saxonian) botanist at Dresden. (*C.F. Seidel*).
+Seidel, Christoph Friedrich (*fl*. 1869), German (Saxonian) botanist at Dresden. 
+**Abbreviated name**: *C.F. Seidel*
 
 #### Herbarium and types
 

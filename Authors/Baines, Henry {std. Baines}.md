@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103414#page/150/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33120233) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baines, Henry (1794-1878), British botanist in Yorkshire, employed by James Backhouse Sr. (*Baines*).
+Baines, Henry (1794-1878), British botanist in Yorkshire, employed by James Backhouse Sr. 
+**Abbreviated name**: *Baines*
 
 #### Herbarium and types
 

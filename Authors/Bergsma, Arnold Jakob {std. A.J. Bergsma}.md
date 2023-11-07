@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103859#page/106/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33265293) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergsma, Arnold Jakob (fl. 1857), Dutch botanist, Dr. phil. Utrecht 1857. (*A.J. Bergsma*).
+Bergsma, Arnold Jakob (fl. 1857), Dutch botanist, Dr. phil. Utrecht 1857. 
+**Abbreviated name**: *A.J. Bergsma*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103835#page/298/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33260276) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eiselen, Johannes (1862-?), German botanist, born at Guben 3 Jul 1862, at the gymnasium in Halle from 1872, studied later at the University of Halle and also for some time in Berlin. (*Eiselen*).
+Eiselen, Johannes (1862-?), German botanist, born at Guben 3 Jul 1862, at the gymnasium in Halle from 1872, studied later at the University of Halle and also for some time in Berlin. 
+**Abbreviated name**: *Eiselen*
 
 #### Herbarium and types
 

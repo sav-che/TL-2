@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/103414#page/450/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33120533) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bulliard, Jean Baptiste François, called Pierre (1752-1793), French botanist who studied at Clairvaux but settled in Paris and turned to the natural sciences. (*Bull.*).
+Bulliard, Jean Baptiste François, called Pierre (1752-1793), French botanist who studied at Clairvaux but settled in Paris and turned to the natural sciences. 
+**Abbreviated name**: *Bull.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103859#page/66/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33265253) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beijerinck, Willem {std. W. Beij.}|first entry]] for this author
 
 ### Author
 
-\* Beijerinck, Willem (1891-1960), Dutch botanist, assistant at the microbiological department of the Technical College Delft 1917-1918, studied at the Agricultural College at Wageningen, Dr. phil. ib. 1927, assistant with the plant physiology institute at Wageningen 1926; founder and director of the Biological Station at Wijster 1926-1953; from 1953-1957 idem when the station had become a department of the Wageningen College. (*W. Beij.*).
+\* Beijerinck, Willem (1891-1960), Dutch botanist, assistant at the microbiological department of the Technical College Delft 1917-1918, studied at the Agricultural College at Wageningen, Dr. phil. ib. 1927, assistant with the plant physiology institute at Wageningen 1926; founder and director of the Biological Station at Wijster 1926-1953; from 1953-1957 idem when the station had become a department of the Wageningen College. 
+**Abbreviated name**: *W. Beij.*
 
 #### Herbarium and types
 

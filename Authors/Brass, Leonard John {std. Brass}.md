@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103861#page/33/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33266330) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brass, Leonard John (1900-1971), Australian botanist, assistant in the Queensland Herbarium 1918-1919, for some years engaged in cattle ranching activities in N. Queensland and the Northern Territory of Australia, on expedition to Papua for Arnold Arb. 1932-1933, id. British Solomon Islands, with the Archbold expedition of the American Museum of Natural History 1933, in 1946 for the New York Botanical Garden on the Vernay expedition to Nyasaland. (*Brass*).
+Brass, Leonard John (1900-1971), Australian botanist, assistant in the Queensland Herbarium 1918-1919, for some years engaged in cattle ranching activities in N. Queensland and the Northern Territory of Australia, on expedition to Papua for Arnold Arb. 1932-1933, id. British Solomon Islands, with the Archbold expedition of the American Museum of Natural History 1933, in 1946 for the New York Botanical Garden on the Vernay expedition to Nyasaland. 
+**Abbreviated name**: *Brass*
 
 #### Herbarium and types
 

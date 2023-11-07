@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103250#page/446/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33066726) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wirtgen, Philipp Wilhelm (1806-1870), German (Prussian/Rheinland) teacher and botanist; trained as a primary school teacher at Neuwied's teachers college; teacher at Remagen 1824, idem at Winningen 1824-1831; idem at Koblenz 1831-1835 ("evangelische Elementarschule"), 1835-1870 at the "evangelische höhere Stadtschule"; student of the flora of Rheinland; Dr. phil. h.c. Bonn 1853. (*Wirtg.*).
+Wirtgen, Philipp Wilhelm (1806-1870), German (Prussian/Rheinland) teacher and botanist; trained as a primary school teacher at Neuwied's teachers college; teacher at Remagen 1824, idem at Winningen 1824-1831; idem at Koblenz 1831-1835 ("evangelische Elementarschule"), 1835-1870 at the "evangelische höhere Stadtschule"; student of the flora of Rheinland; Dr. phil. h.c. Bonn 1853. 
+**Abbreviated name**: *Wirtg.*
 
 #### Herbarium and types
 

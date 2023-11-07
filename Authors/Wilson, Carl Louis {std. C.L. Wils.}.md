@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103250#page/409/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33066689) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilson, Carl Louis (1897-x), American botanist; Dr. phil. Cornell Univ. 1923; instructor, later professor of botany at Dartmouth College, Hanover N.H. (*C.L. Wils.*).
+Wilson, Carl Louis (1897-x), American botanist; Dr. phil. Cornell Univ. 1923; instructor, later professor of botany at Dartmouth College, Hanover N.H. 
+**Abbreviated name**: *C.L. Wils.*
 
 #### Herbarium and types
 

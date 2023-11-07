@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103834#page/57/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259539) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fankhauser, Johannes (1847-1893), Swiss teacher and botanist, born 10 Mai 1847 in Beurbrunnen nr. Signau (Emmental) (Kt. Bern), attended primary school in Signau, secondary school in Langnau, teacher in Iflis nr. Langnau 1868, studied at the Univ. of Bern and the Polytechnikum in Zürich, also with J. von Sachs at Würzburg, teacher of natural history at Gymnasium of Bern 1873, also docent at the Univ. 1885, died 17 Mai 1893 of pneumonia in Trub (Kt. Bern). (*Fankh.*).
+Fankhauser, Johannes (1847-1893), Swiss teacher and botanist, born 10 Mai 1847 in Beurbrunnen nr. Signau (Emmental) (Kt. Bern), attended primary school in Signau, secondary school in Langnau, teacher in Iflis nr. Langnau 1868, studied at the Univ. of Bern and the Polytechnikum in Zürich, also with J. von Sachs at Würzburg, teacher of natural history at Gymnasium of Bern 1873, also docent at the Univ. 1885, died 17 Mai 1893 of pneumonia in Trub (Kt. Bern). 
+**Abbreviated name**: *Fankh.*
 
 #### Herbarium and types
 

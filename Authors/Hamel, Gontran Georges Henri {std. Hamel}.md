@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/item/103253#page/60/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33068276) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hamel, Gontran Georges Henri (1883-1944), French algologist; studied at Lille (lic.sc. 1912); connected with the oceanographic stations of the Muséum d'Histoire naturelle from 1918, from 1927 at its Laboratoire de Cryptogamie, Paris; died while trying to reach Paris by bicycle just before its liberation in August 1944. (*Hamel*).
+Hamel, Gontran Georges Henri (1883-1944), French algologist; studied at Lille (lic.sc. 1912); connected with the oceanographic stations of the Muséum d'Histoire naturelle from 1918, from 1927 at its Laboratoire de Cryptogamie, Paris; died while trying to reach Paris by bicycle just before its liberation in August 1944. 
+**Abbreviated name**: *Hamel*
 
 #### Herbarium and types
 

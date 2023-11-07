@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/104077#page/101/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33333226) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savi, Pietro (1811-1871), Italian botanist; son of Gaetano Savi; professor of botany and director of the botanical garden of the University of Pisa 1842-1871. (*Pi. Savi*).
+Savi, Pietro (1811-1871), Italian botanist; son of Gaetano Savi; professor of botany and director of the botanical garden of the University of Pisa 1842-1871. 
+**Abbreviated name**: *Pi. Savi*
 
 #### Herbarium and types
 

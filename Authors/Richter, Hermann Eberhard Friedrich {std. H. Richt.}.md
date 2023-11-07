@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/item/103624#page/790/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33190247) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richter, Hermann Eberhard Friedrich (1808-1876), German (Saxonian) botanist and physician; Dr. med. Leipzig 1834. (*H. Richt.*).
+Richter, Hermann Eberhard Friedrich (1808-1876), German (Saxonian) botanist and physician; Dr. med. Leipzig 1834. 
+**Abbreviated name**: *H. Richt.*
 
 #### Herbarium and types
 

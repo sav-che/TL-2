@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103860#page/210/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265877) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cleghorn, Hugh Francis Clarke (1820-1895), British medical practitioner and botanist, born at Madras, M.D. Edinburgh 1841, in the Madras medical service 1842, professor of botany at Madras 1852, first conservator of forests 1856, inspector-general 1867, settled in Scotland 1869, sometime professor of botany at the University of Edinburgh, died at Strathbithie, Fife 1895. (*Cleghorn*).
+Cleghorn, Hugh Francis Clarke (1820-1895), British medical practitioner and botanist, born at Madras, M.D. Edinburgh 1841, in the Madras medical service 1842, professor of botany at Madras 1852, first conservator of forests 1856, inspector-general 1867, settled in Scotland 1869, sometime professor of botany at the University of Edinburgh, died at Strathbithie, Fife 1895. 
+**Abbreviated name**: *Cleghorn*
 
 #### Herbarium and types
 

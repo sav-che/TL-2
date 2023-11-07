@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103860#page/411/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266078) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coster, Charles (1895-1943/45), Dutch forest ecologist (incl. plant physiology), studied at the Agricultural College (now University) at Wageningen, Netherlands, employed in the Dutch East Indies in the Dutch East Indian forest Service 1918, at the Forest Research Institute Bogor ("Buitenzorg") 1923, acting Chief Treub laboratory 1925-1927, Ph. degree at Amsterdam 1928, Chief section Forest hydrology 1931, executed by the Japanese between 1943-1945. (*Ch. Coster*).
+Coster, Charles (1895-1943/45), Dutch forest ecologist (incl. plant physiology), studied at the Agricultural College (now University) at Wageningen, Netherlands, employed in the Dutch East Indies in the Dutch East Indian forest Service 1918, at the Forest Research Institute Bogor ("Buitenzorg") 1923, acting Chief Treub laboratory 1925-1927, Ph. degree at Amsterdam 1928, Chief section Forest hydrology 1931, executed by the Japanese between 1943-1945. 
+**Abbreviated name**: *Ch. Coster*
 
 #### Herbarium and types
 

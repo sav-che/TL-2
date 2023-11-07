@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/item/103833#page/354/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33259388) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dingler, Hermann (1846-1935), German botanist, born at Zweibrücken 23 Mai 1846, died Aschaffenburg 30 Dec 1935, at the "Volksschule" and the "humanistisches Gymnasium" in Zweibrücken, at the University of Zürich with Oswald Heer et al. 1867, in Erlangen 1868, München 1869, in 1870 Doct. med., in the 1870/71 war, in Vienna 1871, München 1872, in "Constantinopel" 1873-1874, with Engler 1876 at Kiel, later at Leipzig 1882, as professor in forestry in Aschaffenburg 1889-1910, emeritus 1910-1935. (*Dingler*).
+Dingler, Hermann (1846-1935), German botanist, born at Zweibrücken 23 Mai 1846, died Aschaffenburg 30 Dec 1935, at the "Volksschule" and the "humanistisches Gymnasium" in Zweibrücken, at the University of Zürich with Oswald Heer et al. 1867, in Erlangen 1868, München 1869, in 1870 Doct. med., in the 1870/71 war, in Vienna 1871, München 1872, in "Constantinopel" 1873-1874, with Engler 1876 at Kiel, later at Leipzig 1882, as professor in forestry in Aschaffenburg 1889-1910, emeritus 1910-1935. 
+**Abbreviated name**: *Dingler*
 
 #### Herbarium and types
 

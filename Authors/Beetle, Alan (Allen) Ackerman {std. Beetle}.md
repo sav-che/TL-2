@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103859#page/52/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265239) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beetle, Alan \[Allen\] Ackerman (1913-x), American botanist and collector; Dr. phil. Berkeley (Calif.) 1941; agrostologist in the College of Agriculture of the University of Wyoming. (*Beetle*).
+Beetle, Alan \[Allen\] Ackerman (1913-x), American botanist and collector; Dr. phil. Berkeley (Calif.) 1941; agrostologist in the College of Agriculture of the University of Wyoming. 
+**Abbreviated name**: *Beetle*
 
 #### Herbarium and types
 

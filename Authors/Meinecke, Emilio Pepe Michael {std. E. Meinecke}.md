@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/104137#page/418/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33355489) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meinecke, Emilio Pepe Michael (1869-1957), California-born American botanist and phytopathologist of German descent; Ph. D. Heidelberg 1893; until 1907 at Heidelberg, Copenhagen and München; from 1907-1909 at La Plata, Argentina; U.S. Forest Service pathologist in California 1910-1928; id. in National Park Service 1928-1939. (*E. Meinecke*).
+Meinecke, Emilio Pepe Michael (1869-1957), California-born American botanist and phytopathologist of German descent; Ph. D. Heidelberg 1893; until 1907 at Heidelberg, Copenhagen and München; from 1907-1909 at La Plata, Argentina; U.S. Forest Service pathologist in California 1910-1928; id. in National Park Service 1928-1939. 
+**Abbreviated name**: *E. Meinecke*
 
 #### Herbarium and types
 

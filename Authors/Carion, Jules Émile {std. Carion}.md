@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103414#page/503/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33120586) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carion, Jules Émile (1796-1863), French physician and botanist at Autun. (*Carion*).
+Carion, Jules Émile (1796-1863), French physician and botanist at Autun. 
+**Abbreviated name**: *Carion*
 
 #### Herbarium and types
 

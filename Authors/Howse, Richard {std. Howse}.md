@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103253#page/377/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howse, Richard (1821-1901), British palaeontologist; high school teacher at South Shields; curator of the Hancock Museum at Newcastle-upon-Tyne. (*Howse*).
+Howse, Richard (1821-1901), British palaeontologist; high school teacher at South Shields; curator of the Hancock Museum at Newcastle-upon-Tyne. 
+**Abbreviated name**: *Howse*
 
 #### Herbarium and types
 

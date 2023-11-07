@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103835#page/297/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33260275) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eigsti, Orie Jacob (1908-x), American botanist, born 23 Jul 1908, Morton (Ill.), studied at Bradley Polytechnic Institute, Peoria (Ill.) 1927, in 1929 to Goshen College (Ind.), BA 1931, MA 1933 at University of Illinois, assistant in botany there 1932-1935, Ph.D. 1935, University Service Fellow 1934-1935, Carnegie Institute (Cold Spring Harbor) assistant in genetics from 1935. (*Eigsti*).
+Eigsti, Orie Jacob (1908-x), American botanist, born 23 Jul 1908, Morton (Ill.), studied at Bradley Polytechnic Institute, Peoria (Ill.) 1927, in 1929 to Goshen College (Ind.), BA 1931, MA 1933 at University of Illinois, assistant in botany there 1932-1935, Ph.D. 1935, University Service Fellow 1934-1935, Carnegie Institute (Cold Spring Harbor) assistant in genetics from 1935. 
+**Abbreviated name**: *Eigsti*
 
 #### Herbarium and types
 

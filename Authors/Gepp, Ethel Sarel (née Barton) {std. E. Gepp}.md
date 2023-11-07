@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/item/103414#page/981/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33121064) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
-> [!example] See also [[Gepp, Ethel Sarel {std. E. Gepp} (Suppl.)|second entry]] for this author
+> [!example] See also [[Barton, Ethel Sarel {std. E. Barton}|second entry]] for this author
 
 ### Author
 
-Gepp, Ethel Sarel (née Barton) (1864-1922), British botanist, wife of Anthony Gepp. (*E. Gepp*).
+Gepp, Ethel Sarel (née Barton) (1864-1922), British botanist, wife of Anthony Gepp. 
+**Abbreviated name**: *E. Gepp*
 
 #### Herbarium and types
 

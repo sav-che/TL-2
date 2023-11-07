@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103835#page/335/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33260313) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-El-Nayal, A.A. (fl. 1932-1937), Egyptian botanist working on algae at the Egyptian University in Cairo. (*El-Nayal*).
+El-Nayal, A.A. (fl. 1932-1937), Egyptian botanist working on algae at the Egyptian University in Cairo. 
+**Abbreviated name**: *El-Nayal*
 
 #### Herbarium and types
 

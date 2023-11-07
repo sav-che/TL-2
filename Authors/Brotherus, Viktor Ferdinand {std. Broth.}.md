@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103414#page/407/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33120490) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brotherus, Victor Ferdinand {std. Broth.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brotherus, Viktor Ferdinand (1849-1929), Finnish bryologist, highschool teacher at Helsinki. (*Broth.*).
+Brotherus, Viktor Ferdinand (1849-1929), Finnish bryologist, highschool teacher at Helsinki. 
+**Abbreviated name**: *Broth.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103683#page/148/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33212180) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Symington, Colin Fraser (1905-1943), British forest botanist; in the Malayan Forestry Service 1927-1942, assistant to F.W. Foxworthy, Forest Research Institute 1929-1933, as Forest botanist 1933-1942; Forest botanist S. Nigeria 1942-1943. (*Symington*).
+Symington, Colin Fraser (1905-1943), British forest botanist; in the Malayan Forestry Service 1927-1942, assistant to F.W. Foxworthy, Forest Research Institute 1929-1933, as Forest botanist 1933-1942; Forest botanist S. Nigeria 1942-1943. 
+**Abbreviated name**: *Symington*
 
 #### Herbarium and types
 

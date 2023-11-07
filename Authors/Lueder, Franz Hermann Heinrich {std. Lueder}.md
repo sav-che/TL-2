@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/104137#page/201/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lueder, Franz Hermann Heinrich (x-1791), German horticulturist, "superintendent" at Dannenberg (Lüneburg). (*Lueder*).
+Lueder, Franz Hermann Heinrich (x-1791), German horticulturist, "superintendent" at Dannenberg (Lüneburg). 
+**Abbreviated name**: *Lueder*
 
 #### Herbarium and types
 

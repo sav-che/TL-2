@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103624#page/400/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33189857) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Preiss, \[Johann August\] Ludwig (1811-1883), German plant collector; Dr. phil.; in Western Australia 1838-1842; "Privatgelehrter der Botanik und Gutsbesitzer zu Hattorf ... im Harz". (*L. Preiss*).
+Preiss, \[Johann August\] Ludwig (1811-1883), German plant collector; Dr. phil.; in Western Australia 1838-1842; "Privatgelehrter der Botanik und Gutsbesitzer zu Hattorf ... im Harz". 
+**Abbreviated name**: *L. Preiss*
 
 #### Herbarium and types
 

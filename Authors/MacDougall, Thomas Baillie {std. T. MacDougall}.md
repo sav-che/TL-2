@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/104137#page/233/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33355304) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-MacDougall, Thomas Baillie (1895-1973), Scottish-born American plant collector, explorer and anthropologist (*T. MacDougall*).
+MacDougall, Thomas Baillie (1895-1973), Scottish-born American plant collector, explorer and anthropologist 
+**Abbreviated name**: *T. MacDougall*
 
 #### Herbarium and types
 

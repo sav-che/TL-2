@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/item/104077#page/559/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33333684) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seymour, Frank Conkling (1895-x), American botanist; son of A.B. Seymour. (*F. Seym.*).
+Seymour, Frank Conkling (1895-x), American botanist; son of A.B. Seymour. 
+**Abbreviated name**: *F. Seym.*
 
 #### Herbarium and types
 

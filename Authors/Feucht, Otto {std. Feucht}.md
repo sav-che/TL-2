@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103834#page/190/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33259672) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Feucht, Otto (1879-1971), German forester, botanist and conservationist, born 19 Feb 1879 in Stuttgart, studied forestry at Tübingen, employed at Teinach 1919-1926 and Forstamt Solitude 1926-1948, Dr. h.c., died 25 Jul 1971 in Stuttgart. (*Feucht*).
+Feucht, Otto (1879-1971), German forester, botanist and conservationist, born 19 Feb 1879 in Stuttgart, studied forestry at Tübingen, employed at Teinach 1919-1926 and Forstamt Solitude 1926-1948, Dr. h.c., died 25 Jul 1971 in Stuttgart. 
+**Abbreviated name**: *Feucht*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/103414#page/642/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33120725) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dammer, Carl (Karl) Lebrecht Udo {std. Dammer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dammer, Carl Lebrecht Udo (1860-1920), German botanist at the Berlin Botanical Museum 1889-1919. (*Dammer*).
+Dammer, Carl Lebrecht Udo (1860-1920), German botanist at the Berlin Botanical Museum 1889-1919. 
+**Abbreviated name**: *Dammer*
 
 #### Herbarium and types
 

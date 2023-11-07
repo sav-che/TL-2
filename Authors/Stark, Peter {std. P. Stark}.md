@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/item/104077#page/860/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33333985) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stark, Peter (1888-1932), German (Baden) botanist; Dr. phil. Freiburg i. Br. 1911; assistant botanist ib. 1912-1913 (with Oltmanns); with L. Jost in Strassburg 1914; with W. Pfeffer in Leipzig 1915-1921; habil. Leipzig 1917; extraordinary professor of forest botany Freiburg i. Br. 1921-1926; successor to F. Pax as professor of botany at Breslau, specially dedicating himself to palaeobotanical and palynological studies 1926-1928; successor to M. Möbius at Frankfurt a.M. 1928-1932. (*P. Stark*).
+Stark, Peter (1888-1932), German (Baden) botanist; Dr. phil. Freiburg i. Br. 1911; assistant botanist ib. 1912-1913 (with Oltmanns); with L. Jost in Strassburg 1914; with W. Pfeffer in Leipzig 1915-1921; habil. Leipzig 1917; extraordinary professor of forest botany Freiburg i. Br. 1921-1926; successor to F. Pax as professor of botany at Breslau, specially dedicating himself to palaeobotanical and palynological studies 1926-1928; successor to M. Möbius at Frankfurt a.M. 1928-1932. 
+**Abbreviated name**: *P. Stark*
 
 #### Herbarium and types
 

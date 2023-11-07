@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/item/103624#page/761/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33190218) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reverchon, P. (*fl*. 1878-1892), French botanist at Alençon and Angers. (*P. Reverchon*).
+Reverchon, P. (*fl*. 1878-1892), French botanist at Alençon and Angers. 
+**Abbreviated name**: *P. Reverchon*
 
 #### Herbarium and types
 

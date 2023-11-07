@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103832#page/283/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33258749) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Görz, Rudolf (1879-1935), German salicologist, born 19 Nov 1879 in Rathanow, middle school teacher in Brandenburg (on the Havel), where he died 10 Mai 1935. (*Görz*).
+Görz, Rudolf (1879-1935), German salicologist, born 19 Nov 1879 in Rathanow, middle school teacher in Brandenburg (on the Havel), where he died 10 Mai 1935. 
+**Abbreviated name**: *Görz*
 
 #### Herbarium and types
 

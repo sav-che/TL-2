@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/item/103414#page/362/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33120445) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brefeld, Julius Oscar {std. Bref.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brefeld, Julius Oscar (1839-1925), German mycologist, professor of botany at Münster (1882-1889), id. Breslau (1889-1907), later Geheimer Regierungsrat, Berlin. (*Bref.*).
+Brefeld, Julius Oscar (1839-1925), German mycologist, professor of botany at Münster (1882-1889), id. Breslau (1889-1907), later Geheimer Regierungsrat, Berlin. 
+**Abbreviated name**: *Bref.*
 
 #### Herbarium and types
 

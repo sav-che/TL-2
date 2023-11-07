@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/104077#page/110/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33333235) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sbarbaro, Camillo (1888-1967), Italian botanist (lichenologist) and high school teacher for classical languages at Genova. (*Sbarbaro*).
+Sbarbaro, Camillo (1888-1967), Italian botanist (lichenologist) and high school teacher for classical languages at Genova. 
+**Abbreviated name**: *Sbarbaro*
 
 #### Herbarium and types
 

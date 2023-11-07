@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/103414#page/312/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33120395) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolton, James {std. Bolton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bolton, James (x-1799), British botanist at Halifax. (*Bolton*).
+Bolton, James (x-1799), British botanist at Halifax. 
+**Abbreviated name**: *Bolton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/104137#page/743/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33355814) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nemoto, Kwanji (1860-1936), Japanese botanist. (*Nemoto*).
+Nemoto, Kwanji (1860-1936), Japanese botanist. 
+**Abbreviated name**: *Nemoto*
 
 #### Herbarium and types
 

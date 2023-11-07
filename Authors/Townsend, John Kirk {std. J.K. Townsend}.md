@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103683#page/430/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33212462) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Townsend, John Kirk (1809-1851), American naturalist, especially interested in ornithology; collected plants on a journey with Th. Nuttall west of the Mississippi river; travelled also in the Sandwich Islands and South America; in charge of the Ornithological Department of the Smithsonian Institution and a member of the Philadelphia Academy of Sciences. (*J.K. Townsend*).
+Townsend, John Kirk (1809-1851), American naturalist, especially interested in ornithology; collected plants on a journey with Th. Nuttall west of the Mississippi river; travelled also in the Sandwich Islands and South America; in charge of the Ornithological Department of the Smithsonian Institution and a member of the Philadelphia Academy of Sciences. 
+**Abbreviated name**: *J.K. Townsend*
 
 #### Herbarium and types
 

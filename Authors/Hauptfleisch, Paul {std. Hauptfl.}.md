@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103253#page/128/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33068344) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hauptfleisch, Paul (1861-1906), German botanist; Dr. phil. Greifswald 1888; lecturer at the Technische Hochschule, Stuttgart. (*Hauptfl.*).
+Hauptfleisch, Paul (1861-1906), German botanist; Dr. phil. Greifswald 1888; lecturer at the Technische Hochschule, Stuttgart. 
+**Abbreviated name**: *Hauptfl.*
 
 #### Herbarium and types
 

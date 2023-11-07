@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/104077#page/534/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33333659) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seraander, \[Johan\] Rutger (1866-1944), Swedish botanist; Dr. phil. Uppsala 1894; lecturer in plant geography and general botany Uppsala 1899; acting professor of plant biology 1908, ordinary professor 1909; outstanding plant ecologist and quarternary botanist, founder of the Uppsala School of phytosociology. (*Sern.*).
+Seraander, \[Johan\] Rutger (1866-1944), Swedish botanist; Dr. phil. Uppsala 1894; lecturer in plant geography and general botany Uppsala 1899; acting professor of plant biology 1908, ordinary professor 1909; outstanding plant ecologist and quarternary botanist, founder of the Uppsala School of phytosociology. 
+**Abbreviated name**: *Sern.*
 
 #### Herbarium and types
 

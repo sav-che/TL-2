@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/104137#page/256/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33355327) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maerklin, Georg Friedrich (1761-1823), German pharmacist and botanist at Wiesloch. (*Maerkl.*).
+Maerklin, Georg Friedrich (1761-1823), German pharmacist and botanist at Wiesloch. 
+**Abbreviated name**: *Maerkl.*
 
 #### Herbarium and types
 

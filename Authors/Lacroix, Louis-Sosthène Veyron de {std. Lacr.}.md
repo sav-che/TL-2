@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/item/103253#page/744/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33068960) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lacroix, Louis-Sosthène Veyron de (1818-1864), French clergyman and botanist at Montmorillon, Saint-Romain-sur-Vienne, ultimately "Aumônier des Petites Soeurs des Pauvres" at Poitiers. (*Lacr.*).
+Lacroix, Louis-Sosthène Veyron de (1818-1864), French clergyman and botanist at Montmorillon, Saint-Romain-sur-Vienne, ultimately "Aumônier des Petites Soeurs des Pauvres" at Poitiers. 
+**Abbreviated name**: *Lacr.*
 
 #### Herbarium and types
 

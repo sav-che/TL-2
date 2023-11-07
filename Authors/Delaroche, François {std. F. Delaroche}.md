@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/item/103414#page/661/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33120744) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delaroche, François (1780-1813), French physician and botanist, son of Daniel Delaroche. (*F. Delaroche*).
+Delaroche, François (1780-1813), French physician and botanist, son of Daniel Delaroche. 
+**Abbreviated name**: *F. Delaroche*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103624#page/90/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33189547) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parodi, Lorenzo Raimundo (1895-1966), Argentinian botanist (esp. agrostologist); studied with L. Hauman at the Univ. of Buenos Aires, Ir. agron. ib. 1918; professor of botany at the Faculties of Agronomy in Buenos Aires (1926-1966) and La Plata (1922-1947) and at the Museo de La Plata (1934-1947). (*Parodi*).
+Parodi, Lorenzo Raimundo (1895-1966), Argentinian botanist (esp. agrostologist); studied with L. Hauman at the Univ. of Buenos Aires, Ir. agron. ib. 1918; professor of botany at the Faculties of Agronomy in Buenos Aires (1926-1966) and La Plata (1922-1947) and at the Museo de La Plata (1934-1947). 
+**Abbreviated name**: *Parodi*
 
 #### Herbarium and types
 

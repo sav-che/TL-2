@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/item/104137#page/556/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33355627) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moffatt, Will (William) Sayer (1847-1941), American mycologist; MD Chicago 1868; practiced medicine at Wheaton, Ill., and Sycamore, Ill.; to Los Angeles 1926. (*Moffatt*).
+Moffatt, Will (William) Sayer (1847-1941), American mycologist; MD Chicago 1868; practiced medicine at Wheaton, Ill., and Sycamore, Ill.; to Los Angeles 1926. 
+**Abbreviated name**: *Moffatt*
 
 #### Herbarium and types
 

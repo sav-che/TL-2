@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103835#page/137/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33260115) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duchartre, Henri (fl. 1889-1892), French botanist, licencié ès sciences naturelles, as well as "répétiteur" of botany at the Faculté des Sciences de Paris, worked with Ch. Flahault. (*H. Duch.*).
+Duchartre, Henri (fl. 1889-1892), French botanist, licencié ès sciences naturelles, as well as "répétiteur" of botany at the Faculté des Sciences de Paris, worked with Ch. Flahault. 
+**Abbreviated name**: *H. Duch.*
 
 #### Herbarium and types
 

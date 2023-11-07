@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/item/103624#page/596/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33190053) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raspail, François Vincent (1791-1878), French physician and botanist; chemist and popular writer; practiced medicine in Paris, propagated camphor as a medicine (e.g. camphor cigarettes), published on veterinary sciences and meteorology; active political agitator (J. Bot.). (*Raspail*).
+Raspail, François Vincent (1791-1878), French physician and botanist; chemist and popular writer; practiced medicine in Paris, propagated camphor as a medicine (e.g. camphor cigarettes), published on veterinary sciences and meteorology; active political agitator (J. Bot.). 
+**Abbreviated name**: *Raspail*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/103624#page/144/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33189601) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pearsall, William Harrison (1860-1936), British schoolmaster and botanist at Dalton-in-Furness until 1925; retired to Kent; secretary of the Botanical Society of the British Isles 1931-1936. (*Pearsall*).
+Pearsall, William Harrison (1860-1936), British schoolmaster and botanist at Dalton-in-Furness until 1925; retired to Kent; secretary of the Botanical Society of the British Isles 1931-1936. 
+**Abbreviated name**: *Pearsall*
 
 #### Herbarium and types
 

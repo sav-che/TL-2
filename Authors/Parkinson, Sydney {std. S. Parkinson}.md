@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103624#page/77/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33189534) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parkinson, Sydney (1745-1771), British woollen draper; employed by Joseph Banks to work on the latter's collections, 1767; sent out with Cook on the Endeavour; died at Batavia. (*S. Parkinson*).
+Parkinson, Sydney (1745-1771), British woollen draper; employed by Joseph Banks to work on the latter's collections, 1767; sent out with Cook on the Endeavour; died at Batavia. 
+**Abbreviated name**: *S. Parkinson*
 
 #### Drawings
 

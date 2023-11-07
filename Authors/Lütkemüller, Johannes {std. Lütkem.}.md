@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/104137#page/206/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33355277) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lütkemüller, Johannes (1850-1913), German-born Austrian physician and algologist; Dr. med. Wien 1875; practiced medicine in various functions, ultimately (1882-1904) in the Wiedner hospital (*Lütkem.*).
+Lütkemüller, Johannes (1850-1913), German-born Austrian physician and algologist; Dr. med. Wien 1875; practiced medicine in various functions, ultimately (1882-1904) in the Wiedner hospital 
+**Abbreviated name**: *Lütkem.*
 
 #### Herbarium and types
 

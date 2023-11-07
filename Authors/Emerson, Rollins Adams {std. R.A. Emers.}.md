@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/item/103835#page/344/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33260322) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emerson, Rollins Adams (1873-1947), American plant geneticist, born 5 Mai 1873 at Pillar Point, N.Y., moved to Kearney County (Nebraska) where he visited schools, at College of Agriculture University of Nebraska in Lincoln, B.S. 1897, to Washington with the USDA for two years, returned to Lincoln as asst. professor 1899, D.Sci. at Harvard 1913, from 1914 until his retirement in 1942 head of the Department of Plant Breeding of Cornell University, died 8 Dec 1947, Ithaca, N.Y. (*R.A. Emers.*).
+Emerson, Rollins Adams (1873-1947), American plant geneticist, born 5 Mai 1873 at Pillar Point, N.Y., moved to Kearney County (Nebraska) where he visited schools, at College of Agriculture University of Nebraska in Lincoln, B.S. 1897, to Washington with the USDA for two years, returned to Lincoln as asst. professor 1899, D.Sci. at Harvard 1913, from 1914 until his retirement in 1942 head of the Department of Plant Breeding of Cornell University, died 8 Dec 1947, Ithaca, N.Y. 
+**Abbreviated name**: *R.A. Emers.*
 
 #### Herbarium and types
 

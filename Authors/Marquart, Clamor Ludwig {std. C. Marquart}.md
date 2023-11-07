@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/104137#page/318/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33355389) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marquart, Clamor Ludwig (1804-1881), German pharmacist and botanist; Dr. phil. Heidelberg 1835; from 1837 director of the Keller Pharmacy at Bonn; from 1839 in addition in charge of a pharmaceutical college; one of the founders of the Naturh. Verein der pr. Rheinlande und Westfalen in 1843; in charge of a chemical factory from 1846. (*C. Marquart*).
+Marquart, Clamor Ludwig (1804-1881), German pharmacist and botanist; Dr. phil. Heidelberg 1835; from 1837 director of the Keller Pharmacy at Bonn; from 1839 in addition in charge of a pharmaceutical college; one of the founders of the Naturh. Verein der pr. Rheinlande und Westfalen in 1843; in charge of a chemical factory from 1846. 
+**Abbreviated name**: *C. Marquart*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/104077#page/336/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schramm, \[Johannes\] Augustin (1773-1849), German (Silesian) botanist and high school teacher at the royal roman-catholic gymnasium of Leobschütz. (*Aug. Schramm*).
+Schramm, \[Johannes\] Augustin (1773-1849), German (Silesian) botanist and high school teacher at the royal roman-catholic gymnasium of Leobschütz. 
+**Abbreviated name**: *Aug. Schramm*
 
 #### Herbarium and types
 

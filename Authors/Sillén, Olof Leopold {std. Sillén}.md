@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/104077#page/612/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33333737) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sillén, Olof Leopold (1813-1894), Swedish pharmacist and bryologist; pharmacist in Gävle 1849-1866. (*Sillén*).
+Sillén, Olof Leopold (1813-1894), Swedish pharmacist and bryologist; pharmacist in Gävle 1849-1866. 
+**Abbreviated name**: *Sillén*
 
 #### Herbarium and types
 

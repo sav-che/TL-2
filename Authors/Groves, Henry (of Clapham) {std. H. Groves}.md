@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1015](https://www.biodiversitylibrary.org/item/103414#page/1063/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1015](https://www.biodiversitylibrary.org/page/33121146) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Groves, Henry {std. H. Groves} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Groves, Henry \[of Clapham\] (1855-1912), British algologist. (*H. Groves*).
+Groves, Henry \[of Clapham\] (1855-1912), British algologist. 
+**Abbreviated name**: *H. Groves*
 
 #### Herbarium and types
 

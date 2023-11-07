@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/item/103250#page/295/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33066575) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weyhe, \[M.\] F. (1775-1846), German (Rheinland) gardener and botanist at Düsseldorf. (*Weyhe*).
+Weyhe, \[M.\] F. (1775-1846), German (Rheinland) gardener and botanist at Düsseldorf. 
+**Abbreviated name**: *Weyhe*
 
 #### Herbarium and types
 

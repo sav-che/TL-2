@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103861#page/254/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33266551) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burkill, Isaac Henry {std. Burkill}|first entry]] for this author
 
 ### Author
 
-\* Burkill, Isaac Henri (1870-1965), British botanist, born at Leeds, Yorkshire, studied at the University of Cambridge, BA Cantab. 1891, MA 1895, assistant curator at the Cambridge herbarium (CGE) 1891-1896, assistant curator at the Kew herbarium 1897-1899, principal assistant in the Director's office (Kew) 1899-1901, assistant at the Indian Museum Calcutta and employed in the Botanic Garden Calcutta 1901-1912, director of the Botanic Gardens Singapore 1912-1925, from 1925 in retirement at Kew continuing his work on tropical botany. (*Burkill*).
+\* Burkill, Isaac Henri (1870-1965), British botanist, born at Leeds, Yorkshire, studied at the University of Cambridge, BA Cantab. 1891, MA 1895, assistant curator at the Cambridge herbarium (CGE) 1891-1896, assistant curator at the Kew herbarium 1897-1899, principal assistant in the Director's office (Kew) 1899-1901, assistant at the Indian Museum Calcutta and employed in the Botanic Garden Calcutta 1901-1912, director of the Botanic Gardens Singapore 1912-1925, from 1925 in retirement at Kew continuing his work on tropical botany. 
+**Abbreviated name**: *Burkill*
 
 #### Herbarium and types
 

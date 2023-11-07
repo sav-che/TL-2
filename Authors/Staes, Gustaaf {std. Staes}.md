@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/item/104077#page/840/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33333965) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Staes, Gustaaf (1863-1918), Belgian botanist (phytopathologist), assistant ("surveillant") at the state college for horticulture at Gent 1887; technical curator at the department of botany of the University of Gent 1888 (technical curator first class from 1890). (*Staes*).
+Staes, Gustaaf (1863-1918), Belgian botanist (phytopathologist), assistant ("surveillant") at the state college for horticulture at Gent 1887; technical curator at the department of botany of the University of Gent 1888 (technical curator first class from 1890). 
+**Abbreviated name**: *Staes*
 
 #### Herbarium and types
 

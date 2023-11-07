@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/item/104137#page/631/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33355702) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller, Sir Ferdinand Jacob Heinrich ("Baron") von (1825-1896), Australian botanist of German birth; studied pharmacy at Kiel; to Australia for health purposes 1847; assistant pharmacist at Adelaide 1847-1853; from 1857-1896 Government botanist of Victoria; 1857-1873 director of the Melbourne botanical garden; title of Freiherr (Baron) from the king of Württemberg; leading Australian botanist and botanical explorer. (*F. v. Muell.*).
+Mueller, Sir Ferdinand Jacob Heinrich ("Baron") von (1825-1896), Australian botanist of German birth; studied pharmacy at Kiel; to Australia for health purposes 1847; assistant pharmacist at Adelaide 1847-1853; from 1857-1896 Government botanist of Victoria; 1857-1873 director of the Melbourne botanical garden; title of Freiherr (Baron) from the king of Württemberg; leading Australian botanist and botanical explorer. 
+**Abbreviated name**: *F. v. Muell.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/item/103414#page/912/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Foucaud, Julien {std. Foucaud} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Foucaud, Julien (1847-1904), French botanist, director of the jardin botanique de la marine at Rochefort-sur-Mer. (*Foucaud*).
+Foucaud, Julien (1847-1904), French botanist, director of the jardin botanique de la marine at Rochefort-sur-Mer. 
+**Abbreviated name**: *Foucaud*
 
 #### Herbarium and types
 

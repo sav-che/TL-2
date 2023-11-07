@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103414#page/203/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beauverie, Jean (Jules) {std. Beauverie} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beauverie, Jean Jules (1874-1938), French botanist at Lyon. (*Beauverie*).
+Beauverie, Jean Jules (1874-1938), French botanist at Lyon. 
+**Abbreviated name**: *Beauverie*
 
 #### Herbarium and types
 

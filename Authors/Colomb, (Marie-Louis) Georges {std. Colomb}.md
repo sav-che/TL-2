@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/item/103860#page/290/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33265957) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Colomb, \[Marie-Louis\] Georges (1856-?), French botanist, born at Lure, Haute-Saône, educated at the École normale supérieure, préparateur de botanique à la Faculté des Sciences de Paris, Dr. Sci. nat. 1887. (*Colomb*).
+Colomb, \[Marie-Louis\] Georges (1856-?), French botanist, born at Lure, Haute-Saône, educated at the École normale supérieure, préparateur de botanique à la Faculté des Sciences de Paris, Dr. Sci. nat. 1887. 
+**Abbreviated name**: *Colomb*
 
 #### Herbarium and types
 

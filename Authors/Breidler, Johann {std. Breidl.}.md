@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/103414#page/363/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Breidler, Johann {std. Breidl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Breidler, Johann (1828-1913), Austrian architect and botanist at Vienna. (*Breidl.*).
+Breidler, Johann (1828-1913), Austrian architect and botanist at Vienna. 
+**Abbreviated name**: *Breidl.*
 
 #### Herbarium and types
 

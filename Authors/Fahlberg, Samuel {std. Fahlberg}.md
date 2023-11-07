@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/item/103414#page/859/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fahlberg, Samuel (1758-1834), Swedish government official in the West Indies (St. Barthélemy 1784\[1786\]-1810). (*Fahlberg*).
+Fahlberg, Samuel (1758-1834), Swedish government official in the West Indies (St. Barthélemy 1784\[1786\]-1810). 
+**Abbreviated name**: *Fahlberg*
 
 #### Herbarium and types
 

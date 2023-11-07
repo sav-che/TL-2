@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/item/103861#page/318/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33266615) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cake, Wallace Ellwood (fl. 1922), American botanist and chemist, at the Laboratory of Plant Chemistry of the Department of Botany, University of Michigan, Ann Arbor. (*Cake*).
+Cake, Wallace Ellwood (fl. 1922), American botanist and chemist, at the Laboratory of Plant Chemistry of the Department of Botany, University of Michigan, Ann Arbor. 
+**Abbreviated name**: *Cake*
 
 #### Herbarium and types
 

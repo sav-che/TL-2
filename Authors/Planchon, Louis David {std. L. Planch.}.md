@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103624#page/302/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33189759) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Planchon, Louis David (1858-1915), French botanist at Montpellier; Dr. méd. Montpellier 1883; Pharm. sup. 1891, Dr. sci. 1900; from 1882-1894 at the Faculté de médecine; aggr. pharm. Paris 1894; associated with the École Supérieure de pharmacie, Montpellier 1883-1915; from 1901 as professor of matera medica; son of J.E. Planchon. (*L. Planch.*).
+Planchon, Louis David (1858-1915), French botanist at Montpellier; Dr. méd. Montpellier 1883; Pharm. sup. 1891, Dr. sci. 1900; from 1882-1894 at the Faculté de médecine; aggr. pharm. Paris 1894; associated with the École Supérieure de pharmacie, Montpellier 1883-1915; from 1901 as professor of matera medica; son of J.E. Planchon. 
+**Abbreviated name**: *L. Planch.*
 
 #### Herbarium and types
 

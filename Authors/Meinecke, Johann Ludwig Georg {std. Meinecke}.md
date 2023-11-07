@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/item/104137#page/419/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meinecke, Johann Ludwig Georg (1721-1823), German physicist and biologist; high school teacher at Halle 1805-1811; idem at Kassel 1811-1814; professor of technology at Halle 1814-1823 (*Meinecke*).
+Meinecke, Johann Ludwig Georg (1721-1823), German physicist and biologist; high school teacher at Halle 1805-1811; idem at Kassel 1811-1814; professor of technology at Halle 1814-1823 
+**Abbreviated name**: *Meinecke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103624#page/262/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33189719) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piccioli, Elvira (fl. 1932), Italian bryologist and high school teacher at Vittoria Veneto. (*E. Piccioli*).
+Piccioli, Elvira (fl. 1932), Italian bryologist and high school teacher at Vittoria Veneto. 
+**Abbreviated name**: *E. Piccioli*
 
 #### Herbarium and types
 

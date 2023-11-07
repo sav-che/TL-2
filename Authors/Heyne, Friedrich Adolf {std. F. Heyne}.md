@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103253#page/214/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33068430) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heyne, Friedrich Adolf (1760-1826), German botanist, "Coburgischer Rath." (*F. Heyne*).
+Heyne, Friedrich Adolf (1760-1826), German botanist, "Coburgischer Rath." 
+**Abbreviated name**: *F. Heyne*
 
 #### Herbarium and types
 

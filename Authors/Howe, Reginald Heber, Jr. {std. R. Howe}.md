@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/103253#page/374/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33068590) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howe, Reginald Heber, Jr. (1875-1932), American cryptogamist, high school teacher at Middlesex School, Concord, Mass., headmaster of the Belmont Hillschool (1923), curator of the Thoreau Museum of Natural History. (*R. Howe*).
+Howe, Reginald Heber, Jr. (1875-1932), American cryptogamist, high school teacher at Middlesex School, Concord, Mass., headmaster of the Belmont Hillschool (1923), curator of the Thoreau Museum of Natural History. 
+**Abbreviated name**: *R. Howe*
 
 #### Herbarium and types
 

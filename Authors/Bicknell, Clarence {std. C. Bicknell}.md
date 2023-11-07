@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103414#page/259/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33120342) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bicknell, Clarence {std. C. Bicknell} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bicknell, Clarence (1842-1918), English born physician, after 1879 in Bordighera, worker on the flora of Liguria. (*C. Bicknell*).
+Bicknell, Clarence (1842-1918), English born physician, after 1879 in Bordighera, worker on the flora of Liguria. 
+**Abbreviated name**: *C. Bicknell*
 
 #### Herbarium and types
 

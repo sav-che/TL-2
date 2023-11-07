@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/103624#page/143/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33189600) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pearl, Raymond (1879-1940), American botanist, entomologist, student of human populations, teacher and editor; Ph.D. Univ. Mich. 1902; instructor in zoology Univ. Michigan 1902-1905, in London 1905-1906, at Univ. Pennsylvania 1906-1907; head dept. biol. Maine Agric. Exp. Station 1907-1918; professor of biometry and vital statistics Johns Hopkins, Baltimore 1918-1925; director Institute of Biological Research ib. 1925-1930; professor of biology ib. 1930-1940; D.Sc. Dartmouth 1919. (*Pearl*).
+Pearl, Raymond (1879-1940), American botanist, entomologist, student of human populations, teacher and editor; Ph.D. Univ. Mich. 1902; instructor in zoology Univ. Michigan 1902-1905, in London 1905-1906, at Univ. Pennsylvania 1906-1907; head dept. biol. Maine Agric. Exp. Station 1907-1918; professor of biometry and vital statistics Johns Hopkins, Baltimore 1918-1925; director Institute of Biological Research ib. 1925-1930; professor of biology ib. 1930-1940; D.Sc. Dartmouth 1919. 
+**Abbreviated name**: *Pearl*
 
 #### Herbarium and types
 

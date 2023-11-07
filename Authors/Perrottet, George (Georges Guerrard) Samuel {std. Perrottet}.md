@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103624#page/189/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33189646) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perrottet, George (Georges Guerrard) Samuel (1793-1870), Swiss-born French gardener, sericiculturist, agronomical botanist, traveller and director of tropical cultures; in the "Rhône" around the world 1819-1821; Sénégal 1824-1829; in Pondichéry 1834-1839 and, ultimately, as government botanist from 1843-1870. (*Perrottet*).
+Perrottet, George (Georges Guerrard) Samuel (1793-1870), Swiss-born French gardener, sericiculturist, agronomical botanist, traveller and director of tropical cultures; in the "Rhône" around the world 1819-1821; Sénégal 1824-1829; in Pondichéry 1834-1839 and, ultimately, as government botanist from 1843-1870. 
+**Abbreviated name**: *Perrottet*
 
 #### Herbarium and types
 

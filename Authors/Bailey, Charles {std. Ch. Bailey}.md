@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103858#page/268/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33264983) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bailey, Charles (1838-1924), British botanist, entered the business of Ralli Brothers, East India Merchants, Manchester, stayed with his firm fifty-five years, ardent wealthy amateur botanist in close connection with W.C. Williamson at MANCH, M. Sc. h.c. Univ. Manchester 1902. (*Ch. Bailey*).
+Bailey, Charles (1838-1924), British botanist, entered the business of Ralli Brothers, East India Merchants, Manchester, stayed with his firm fifty-five years, ardent wealthy amateur botanist in close connection with W.C. Williamson at MANCH, M. Sc. h.c. Univ. Manchester 1902. 
+**Abbreviated name**: *Ch. Bailey*
 
 #### Herbarium and types
 

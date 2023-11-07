@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/item/103624#page/991/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/page/33190448) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rümpler, Theodor (1817-1891), German botanist, specialist on succulent plants, horticulturist and popular author on gardening. (*Rümpler*).
+Rümpler, Theodor (1817-1891), German botanist, specialist on succulent plants, horticulturist and popular author on gardening. 
+**Abbreviated name**: *Rümpler*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103683#page/348/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33212380) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thurn, Everard Ferdinand Im (1852-1932), British colonial administrator and collector; MA Oxford, curator of the Museum at Georgetown, British Guiana 1877-1882; magistrate at Pomeroon 1882-1891, government agent, N.W. District 1891-1899; colonial secretary in Ceylon 1901; governor of the Fiji Islands 1904-1910; first to make an ascent of Mt. Roraima (1884); LL.D. Edinburgh Univ. 1911. (*Thurn*).
+Thurn, Everard Ferdinand Im (1852-1932), British colonial administrator and collector; MA Oxford, curator of the Museum at Georgetown, British Guiana 1877-1882; magistrate at Pomeroon 1882-1891, government agent, N.W. District 1891-1899; colonial secretary in Ceylon 1901; governor of the Fiji Islands 1904-1910; first to make an ascent of Mt. Roraima (1884); LL.D. Edinburgh Univ. 1911. 
+**Abbreviated name**: *Thurn*
 
 #### Herbarium and types
 

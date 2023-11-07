@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/item/104077#page/837/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/page/33333962) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stache, \[Karl Heinrich Hector\] Guido (1833-1921), German (Silesian) geologist and palaeontologist; Dr. phil. Breslau 1855; from 1857-1902 with the Geologische Reichsanstalt, Wien, from 1892 as director. (*Stache*).
+Stache, \[Karl Heinrich Hector\] Guido (1833-1921), German (Silesian) geologist and palaeontologist; Dr. phil. Breslau 1855; from 1857-1902 with the Geologische Reichsanstalt, Wien, from 1892 as director. 
+**Abbreviated name**: *Stache*
 
 #### Herbarium and types
 

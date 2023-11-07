@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103834#page/97/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33259579) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fawcett, William {std. Fawc.}|first entry]] for this author
 
 ### Author
 
-\* Fawcett, William (1851-1926), Irish-born British botanist and agronomist, born 13 Feb 1851 in Arklow (Co. Wicklow), educated at Dulwich College and taught in Kent, England, B.Sc. 1879 King's College, London Univ., asst., Dept. of Botany, BMNH 1880-1886, F.L.S. 1881, dir. of Public Gardens & Plantations, Jamaica 1886-1908, collected extensively in Cayman Isls. 1888, in retirement returned to the BMNH and worked with A.B. Rendle on the *Flora of Jamaica*, died 14 Aug 1926 in Blackheath nr. London. (*Fawc.*).
+\* Fawcett, William (1851-1926), Irish-born British botanist and agronomist, born 13 Feb 1851 in Arklow (Co. Wicklow), educated at Dulwich College and taught in Kent, England, B.Sc. 1879 King's College, London Univ., asst., Dept. of Botany, BMNH 1880-1886, F.L.S. 1881, dir. of Public Gardens & Plantations, Jamaica 1886-1908, collected extensively in Cayman Isls. 1888, in retirement returned to the BMNH and worked with A.B. Rendle on the *Flora of Jamaica*, died 14 Aug 1926 in Blackheath nr. London. 
+**Abbreviated name**: *Fawc.*
 
 #### Herbarium and types
 

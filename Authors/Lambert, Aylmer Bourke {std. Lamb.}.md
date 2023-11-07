@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/103253#page/761/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33068977) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lambert, Aylmer Bourke (1761-1842), British botanist; studied at St. Mary Hall, Oxford; visited Ireland 1798; gentleman of leisure; assembled an important herbarium and library. (*Lamb.*).
+Lambert, Aylmer Bourke (1761-1842), British botanist; studied at St. Mary Hall, Oxford; visited Ireland 1798; gentleman of leisure; assembled an important herbarium and library. 
+**Abbreviated name**: *Lamb.*
 
 #### Herbarium and types
 

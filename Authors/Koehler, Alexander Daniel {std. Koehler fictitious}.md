@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/103253#page/620/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33068836) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koehler, Alexander Daniel (1762-1828), \[fictitious\] German botanist stated to have worked with Mutis in Colombia and to have travelled in Brazil, Peru and Chile. (*==Name in the standard form is not specified==.*).
+Koehler, Alexander Daniel (1762-1828), \[fictitious\] German botanist stated to have worked with Mutis in Colombia and to have travelled in Brazil, Peru and Chile. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Note
 

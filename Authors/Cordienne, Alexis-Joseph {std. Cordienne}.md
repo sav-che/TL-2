@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103860#page/368/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33266035) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cordienne, Alexis-Joseph (1796-1826), French botanist and physician, born at Jussey (Haute-Saône) 1796, studied at first for lawyer, later medicine, studied botany with Thouin, de Jussieu and Desfontaines at Paris 1809 and 1813, settled at Dôle (Jura), died by accident at Sens (Yonne). (*Cordienne*).
+Cordienne, Alexis-Joseph (1796-1826), French botanist and physician, born at Jussey (Haute-Saône) 1796, studied at first for lawyer, later medicine, studied botany with Thouin, de Jussieu and Desfontaines at Paris 1809 and 1813, settled at Dôle (Jura), died by accident at Sens (Yonne). 
+**Abbreviated name**: *Cordienne*
 
 #### Herbarium and types
 

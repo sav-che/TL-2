@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/item/103860#page/362/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33266029) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Corbière, Louis {std. Corb.}|first entry]] for this author
 
 ### Author
 
-\* Corbière, \[François Matthieu\] Louis (1850-1941), French botanist and teacher at gymnasia, born at Champsecret (Orne), at the École normale d'Instituteurs d'Alengon and from 1869 at the Collège d'Argentan, studied for the licence in natural sciences at the Faculté des Sciences at Caen, from 1884 professor at the Lyceum \[Collège\] de Cherbourg until his retirement. (*Corb.*).
+\* Corbière, \[François Matthieu\] Louis (1850-1941), French botanist and teacher at gymnasia, born at Champsecret (Orne), at the École normale d'Instituteurs d'Alengon and from 1869 at the Collège d'Argentan, studied for the licence in natural sciences at the Faculté des Sciences at Caen, from 1884 professor at the Lyceum \[Collège\] de Cherbourg until his retirement. 
+**Abbreviated name**: *Corb.*
 
 #### Herbarium and types
 

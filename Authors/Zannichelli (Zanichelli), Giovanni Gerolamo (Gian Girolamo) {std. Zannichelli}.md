@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/103250#page/580/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33066860) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zannichelli \[Zanichelli\], Giovanni Gerolamo \[Gian Girolamo\] (1662-1729), Italian physician, pharmacist and botanist in the republic of Venice. (*Zannichelli*).
+Zannichelli \[Zanichelli\], Giovanni Gerolamo \[Gian Girolamo\] (1662-1729), Italian physician, pharmacist and botanist in the republic of Venice. 
+**Abbreviated name**: *Zannichelli*
 
 #### Herbarium and types
 

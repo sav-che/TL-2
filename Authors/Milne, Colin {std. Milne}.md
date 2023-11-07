@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/item/104137#page/519/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33355590) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Milne, Colin (1743?-1815), British clergyman and botanist; rector of North Chapel, Petworth, Sussex; LL. D. h. c. Aberdeen (*Milne*).
+Milne, Colin (1743?-1815), British clergyman and botanist; rector of North Chapel, Petworth, Sussex; LL. D. h. c. Aberdeen 
+**Abbreviated name**: *Milne*
 
 #### Herbarium and types
 

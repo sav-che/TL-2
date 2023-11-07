@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103859#page/74/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265261) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Belli, Saverio Carlo (1852-1919), Italian botanist, born at Domodossola, habil. Univ. Torino 1894, director of the Botanical Garden, Torino University 1898-1900, extraordinary professsor of botany and director of the botanical garden at Cagliari 1901- ca. 1908. (*Belli*).
+Belli, Saverio Carlo (1852-1919), Italian botanist, born at Domodossola, habil. Univ. Torino 1894, director of the Botanical Garden, Torino University 1898-1900, extraordinary professsor of botany and director of the botanical garden at Cagliari 1901- ca. 1908. 
+**Abbreviated name**: *Belli*
 
 #### Herbarium and types
 

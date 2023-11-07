@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103859#page/220/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33265407) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blau, \[Ernst\] Otto \[Friedrich Hermann\] (1828-1879), German (Nordhausen) diplomat and botanist, studied oriental languages at the University of Halle and Leipzig 1848-1851, entered the foreign service of Prussia 1852, Dr. phil. Halle 1855, stationed at the Constantinople embassy, later at consulates in Trapezunt and Sarajevo, travelled in Turkey and Northern Persia, collected plants 1868-1872, consul at Sarajevo for Bosnia and Herzegowina 1864-1870, 1870-1872 first consul, from 1872 consul at Odessa. (*O. Blau*).
+Blau, \[Ernst\] Otto \[Friedrich Hermann\] (1828-1879), German (Nordhausen) diplomat and botanist, studied oriental languages at the University of Halle and Leipzig 1848-1851, entered the foreign service of Prussia 1852, Dr. phil. Halle 1855, stationed at the Constantinople embassy, later at consulates in Trapezunt and Sarajevo, travelled in Turkey and Northern Persia, collected plants 1868-1872, consul at Sarajevo for Bosnia and Herzegowina 1864-1870, 1870-1872 first consul, from 1872 consul at Odessa. 
+**Abbreviated name**: *O. Blau*
 
 #### Herbarium and types
 

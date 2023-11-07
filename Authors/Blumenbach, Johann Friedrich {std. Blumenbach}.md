@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/103859#page/239/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33265426) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blumenbach, Johann Friedrich (1752-1840), German (Gotha born) biologist, physician and anthropologist, studied medicine at the universities of Jena and Göttingen, Dr. med. Göttingen 1775, curator of the natural history collection and extraordinary professor at Göttingen 1776, full professor of medicine 1778, professor primarius Faculty of Medicine 1816. (*Blumenbach*).
+Blumenbach, Johann Friedrich (1752-1840), German (Gotha born) biologist, physician and anthropologist, studied medicine at the universities of Jena and Göttingen, Dr. med. Göttingen 1775, curator of the natural history collection and extraordinary professor at Göttingen 1776, full professor of medicine 1778, professor primarius Faculty of Medicine 1816. 
+**Abbreviated name**: *Blumenbach*
 
 #### Herbarium and types
 

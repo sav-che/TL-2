@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/item/103832#page/441/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33258907) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grunov, Albert {std. Grunow}|first entry]] for this author
 
 ### Author
 
-\* Grunow \[Grunov\], Albert (1826-1914), German chemist and amateur but important diatomologist, born 3 Nov 1826 in Berlin, removed to Berndorf, Austria in 1857 where he worked, died 19 \[17?\] Mar 1914 in Berndorf. (*Grunow*).
+\* Grunow \[Grunov\], Albert (1826-1914), German chemist and amateur but important diatomologist, born 3 Nov 1826 in Berlin, removed to Berndorf, Austria in 1857 where he worked, died 19 \[17?\] Mar 1914 in Berndorf. 
+**Abbreviated name**: *Grunow*
 
 #### Note
 

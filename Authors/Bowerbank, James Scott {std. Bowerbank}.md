@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103414#page/346/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33120429) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bowerbank, James Scott (1797-1877), British industrialist and naturalist at London. (*Bowerbank*).
+Bowerbank, James Scott (1797-1877), British industrialist and naturalist at London. 
+**Abbreviated name**: *Bowerbank*
 
 #### Collections
 

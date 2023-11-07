@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/item/103683#page/311/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33212343) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thümen \[-Gräfendorf\], Felix \[Karl Albert Ernst Joachim baron\] von (1839-1892), German (Saxonian) mycologist and phytopathologist; for a short time officer in the Prussian army, subsequently administrating his property Gräfendorf nr Jüterborg, Silesia, but turning more and more to botany as a full time occupation; from 1876 "Adjunct" at the Klosterneuburg (Niederösterreich) Experiment Station for viniculture and fruit-growing nr. Wien. (*Thuem.*).
+Thümen \[-Gräfendorf\], Felix \[Karl Albert Ernst Joachim baron\] von (1839-1892), German (Saxonian) mycologist and phytopathologist; for a short time officer in the Prussian army, subsequently administrating his property Gräfendorf nr Jüterborg, Silesia, but turning more and more to botany as a full time occupation; from 1876 "Adjunct" at the Klosterneuburg (Niederösterreich) Experiment Station for viniculture and fruit-growing nr. Wien. 
+**Abbreviated name**: *Thuem.*
 
 #### Herbarium and types
 

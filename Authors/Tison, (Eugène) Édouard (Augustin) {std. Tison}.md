@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103683#page/379/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tison, \[Eugène\] Édouard \[Augustin\] (1842-?), French botanist and physician; studied medicine at Paris; Dr. med. ib. 1873; lic. sci. nat. 1874, Dr. sci. nat. 1876; professor of botany at the Université catholique de Paris 1876-1881; in charge of the Saint-Joseph hospital 1884. (*Tison*).
+Tison, \[Eugène\] Édouard \[Augustin\] (1842-?), French botanist and physician; studied medicine at Paris; Dr. med. ib. 1873; lic. sci. nat. 1874, Dr. sci. nat. 1876; professor of botany at the Université catholique de Paris 1876-1881; in charge of the Saint-Joseph hospital 1884. 
+**Abbreviated name**: *Tison*
 
 #### Herbarium and types
 

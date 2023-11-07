@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/item/104077#page/634/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33333759) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sirjaev, Grigorii (Gregory) Ivanovich (1882-1954), Russian (Ukranian) botanist; assistant at the Charkov botanical institute 1907-1914; from 1922 connected with the Botanical Institute of Masaryk University, Brno; Dr. Sci. ib. 1927, from 1935 as professor of botany at Masaryk University, Brünn (Brno); from 1951 in the United States. (*Širj.*).
+Sirjaev, Grigorii (Gregory) Ivanovich (1882-1954), Russian (Ukranian) botanist; assistant at the Charkov botanical institute 1907-1914; from 1922 connected with the Botanical Institute of Masaryk University, Brno; Dr. Sci. ib. 1927, from 1935 as professor of botany at Masaryk University, Brünn (Brno); from 1951 in the United States. 
+**Abbreviated name**: *Širj.*
 
 #### Herbarium and types
 

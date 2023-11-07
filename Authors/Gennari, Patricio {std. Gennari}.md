@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 931](https://www.biodiversitylibrary.org/item/103414#page/979/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 931](https://www.biodiversitylibrary.org/page/33121062) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gennari, Patrizio {std. Gennari} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gennari, Patricio (1820-1897), Italian botanist at Cagliari. (*Gennari*).
+Gennari, Patricio (1820-1897), Italian botanist at Cagliari. 
+**Abbreviated name**: *Gennari*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103861#page/125/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33266422) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brondeau, Louis de (Jegun de Marans, Antoine Louis Georges) {std. Brond.}|first entry]] for this author
 
 ### Author
 
-\* Brondeau, Louis de \[scientific name\], Antoine-Louis-Georges Jegun de Marans (official name), (1794-1859), French cryptogamist, born at Agen (Lot-et-Garonne), classical education at Agen, being of independent means dedicating himself to cryptogamy at Agen, later at Raignac, kept up narrow contact with Saint-Amans, Persoon, etc. (*Brond.*).
+\* Brondeau, Louis de \[scientific name\], Antoine-Louis-Georges Jegun de Marans (official name), (1794-1859), French cryptogamist, born at Agen (Lot-et-Garonne), classical education at Agen, being of independent means dedicating himself to cryptogamy at Agen, later at Raignac, kept up narrow contact with Saint-Amans, Persoon, etc. 
+**Abbreviated name**: *Brond.*
 
 #### Herbarium and types
 

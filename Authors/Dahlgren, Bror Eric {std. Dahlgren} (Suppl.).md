@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103833#page/22/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33259056) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dahlgren, Bror Eric {std. Dahlgren}|first entry]] for this author
 
 ### Author
 
-\* Dahlgren, Bror Eric (1877-1961), Swedish born American botanist, studied at the University of Minnesota and subsequently at Cornell and Columbia Universities, volunteer at the American Museum of Natural History ca. 1900, curator in the Departement of Preparation and Installation at this Museum 1904-1909, moved to the Field Museum in Chicago in 1909, at first as Head, Division of Modeling at the Dept. of Botany, Assistant Curator of Economic Botany 1911, Associate Curator of the same, Acting Curator of Botany 1924, regular Curator id. 1935. (*Dahlgren*).
+\* Dahlgren, Bror Eric (1877-1961), Swedish born American botanist, studied at the University of Minnesota and subsequently at Cornell and Columbia Universities, volunteer at the American Museum of Natural History ca. 1900, curator in the Departement of Preparation and Installation at this Museum 1904-1909, moved to the Field Museum in Chicago in 1909, at first as Head, Division of Modeling at the Dept. of Botany, Assistant Curator of Economic Botany 1911, Associate Curator of the same, Acting Curator of Botany 1924, regular Curator id. 1935. 
+**Abbreviated name**: *Dahlgren*
 
 #### Herbarium and types
 

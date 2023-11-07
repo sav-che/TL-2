@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103250#page/355/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilhelm, Rudolph (1857-?), German (West-Prussian) architect and botanist; studied at Berlin, München and Königsberg; Dr. phil. Königsberg 1885. (*R. With.*).
+Wilhelm, Rudolph (1857-?), German (West-Prussian) architect and botanist; studied at Berlin, München and Königsberg; Dr. phil. Königsberg 1885. 
+**Abbreviated name**: *R. With.*
 
 #### Herbarium and types
 

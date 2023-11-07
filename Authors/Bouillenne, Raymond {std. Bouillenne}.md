@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/item/103859#page/390/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33265577) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bouillenne, Raymond (1897-1972), Belgian botanist, from 1927 director of the Institute and the Botanical Garden of Liège, travelled in the Lower Amazone region 1922-1923, stayed at the Foreigner's Laboratory at Buitenzorg \[Bogor\] on Java, 1931. (*Bouillenne*).
+Bouillenne, Raymond (1897-1972), Belgian botanist, from 1927 director of the Institute and the Botanical Garden of Liège, travelled in the Lower Amazone region 1922-1923, stayed at the Foreigner's Laboratory at Buitenzorg \[Bogor\] on Java, 1931. 
+**Abbreviated name**: *Bouillenne*
 
 #### Herbarium and types
 

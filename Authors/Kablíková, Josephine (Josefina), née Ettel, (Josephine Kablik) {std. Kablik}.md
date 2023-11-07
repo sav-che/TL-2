@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/item/103253#page/508/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kablíková, Josephine \[Josefina\], née Ettel, \[Josephine Kablik\], (1787-1863), Czech lichenologist, married to the pharmacist and zoologist Adalbert Kablík. (*Kablik*).
+Kablíková, Josephine \[Josefina\], née Ettel, \[Josephine Kablik\], (1787-1863), Czech lichenologist, married to the pharmacist and zoologist Adalbert Kablík. 
+**Abbreviated name**: *Kablik*
 
 #### Herbarium and types
 

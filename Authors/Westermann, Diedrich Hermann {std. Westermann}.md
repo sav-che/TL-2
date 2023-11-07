@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103250#page/275/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33066555) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Westermann, Diedrich Hermann (1875-1956), German (Hannover) ethnologist, linguist and explorer of Africa at Berlin University Institut für Landforschung from 1921. (*Westermann*).
+Westermann, Diedrich Hermann (1875-1956), German (Hannover) ethnologist, linguist and explorer of Africa at Berlin University Institut für Landforschung from 1921. 
+**Abbreviated name**: *Westermann*
 
 #### Herbarium and types
 

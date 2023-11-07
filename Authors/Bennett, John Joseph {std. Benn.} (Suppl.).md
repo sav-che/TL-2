@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/item/103859#page/84/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33265271) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bennett, John Joseph {std. Benn.}|first entry]] for this author
 
 ### Author
 
-\* Bennett, John Joseph (1801-1876), British botanist, studied medicine at the Middlesex Hospital, Member of the College of Surgeons 1825, assistant-keeper to Robert Brown at the British Museum 1827, keeper to the Botanical Dept. 1857-1870, secretary of the Linnean Society 1840-1860, retired 1870 to Maresfield, Sussex. (*Benn.*).
+\* Bennett, John Joseph (1801-1876), British botanist, studied medicine at the Middlesex Hospital, Member of the College of Surgeons 1825, assistant-keeper to Robert Brown at the British Museum 1827, keeper to the Botanical Dept. 1857-1870, secretary of the Linnean Society 1840-1860, retired 1870 to Maresfield, Sussex. 
+**Abbreviated name**: *Benn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/item/104137#page/721/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Née, Isidore Charles Sigismond (1784-1837), fictitious botanist said to have explored South America. (*==Name in the standard form is not specified==.*).
+Née, Isidore Charles Sigismond (1784-1837), fictitious botanist said to have explored South America. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Note
 

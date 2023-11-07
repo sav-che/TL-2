@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103860#page/66/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33265733) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Charlier, Carl Vilhelm Ludvig (1862-?), Swedish astronomer and statistical botanist, born at Östersund, studied at Östersund high school 1880, in Uppsala 1881, Dr. phil. Univ. Uppsala 1887, ultimately professor of astronomy at Lund from 1897. (*Charlier*).
+Charlier, Carl Vilhelm Ludvig (1862-?), Swedish astronomer and statistical botanist, born at Östersund, studied at Östersund high school 1880, in Uppsala 1881, Dr. phil. Univ. Uppsala 1887, ultimately professor of astronomy at Lund from 1897. 
+**Abbreviated name**: *Charlier*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/item/104137#page/447/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33355518) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meschinelli, Aloysius (Luigi) (1865-?), Italian palaeomycologist; assistant in geology and palaeontology Univ. Napoli 1889-1890, president of the Comizio agrario di Vicenza 1904. (*Mesch.*).
+Meschinelli, Aloysius (Luigi) (1865-?), Italian palaeomycologist; assistant in geology and palaeontology Univ. Napoli 1889-1890, president of the Comizio agrario di Vicenza 1904. 
+**Abbreviated name**: *Mesch.*
 
 #### Herbarium and types
 

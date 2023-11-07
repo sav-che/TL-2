@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/item/103253#page/785/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laporte, Louis Jacques (*fl*. 1930), French algologist. (*Laporte*).
+Laporte, Louis Jacques (*fl*. 1930), French algologist. 
+**Abbreviated name**: *Laporte*
 
 #### Herbarium and types
 

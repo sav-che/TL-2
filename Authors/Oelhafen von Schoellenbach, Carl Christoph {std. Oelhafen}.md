@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/item/104137#page/823/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33355894) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oelhafen von Schoellenbach, Carl Christoph (1709-1783), German botanist and royal forestry agent (Wald-Amtmann) at Nürnberg. (*Oelhafen*).
+Oelhafen von Schoellenbach, Carl Christoph (1709-1783), German botanist and royal forestry agent (Wald-Amtmann) at Nürnberg. 
+**Abbreviated name**: *Oelhafen*
 
 #### Herbarium and types
 

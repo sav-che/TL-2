@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/item/103624#page/875/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33190332) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rohlena, Joseph (1874-1944), Czech (Bohemian) botanist at Praha; teacher at elementary schools in Lysa nad Labem and Starych Benatky 1893-1895, id. in Praha from 1895-1931; in retirement in Praha; travelled widely in the Balkan peninsula, especially in Montenegro; co-founder of the Czech botanical society in 1912. (*Rohlena*).
+Rohlena, Joseph (1874-1944), Czech (Bohemian) botanist at Praha; teacher at elementary schools in Lysa nad Labem and Starych Benatky 1893-1895, id. in Praha from 1895-1931; in retirement in Praha; travelled widely in the Balkan peninsula, especially in Montenegro; co-founder of the Czech botanical society in 1912. 
+**Abbreviated name**: *Rohlena*
 
 #### Herbarium and types
 

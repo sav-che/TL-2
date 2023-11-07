@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/item/103414#page/865/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33120948) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fedtschenko (Fedchenko), Boris (Bos) A. {std. B. Fedtsch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fedchenko \[Fedtschenko\], Boris Alexsevič (1873-1947), Russian botanist at Leningrad, explorer of Pamir, son of Olga Fedchenko. (*Fedch.*).
+Fedchenko \[Fedtschenko\], Boris Alexsevič (1873-1947), Russian botanist at Leningrad, explorer of Pamir, son of Olga Fedchenko. 
+**Abbreviated name**: *Fedch.*
 
 #### Herbarium and types
 

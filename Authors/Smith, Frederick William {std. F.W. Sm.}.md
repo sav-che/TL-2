@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/item/104077#page/685/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Frederick William (1797-1835), British botanical artist. (*F.W. Sm.*).
+Smith, Frederick William (1797-1835), British botanical artist. 
+**Abbreviated name**: *F.W. Sm.*
 
 #### Herbarium and types
 

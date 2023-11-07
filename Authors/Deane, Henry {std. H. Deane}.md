@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/item/103414#page/653/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33120736) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deane, Henry {std. H. Deane} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Deane, Henry (1847-1924), British born Australian railway engineer, palaeobotanist and botanist in New South Wales (from 1880). (*H. Deane*).
+Deane, Henry (1847-1924), British born Australian railway engineer, palaeobotanist and botanist in New South Wales (from 1880). 
+**Abbreviated name**: *H. Deane*
 
 #### Herbarium and types
 

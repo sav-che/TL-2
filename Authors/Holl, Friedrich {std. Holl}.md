@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103253#page/281/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33068497) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holl, Friedrich (*fl*. 1840-1850), German botanist and pharmacist at Dresden. (*Holl*).
+Holl, Friedrich (*fl*. 1840-1850), German botanist and pharmacist at Dresden. 
+**Abbreviated name**: *Holl*
 
 #### Herbarium and types
 

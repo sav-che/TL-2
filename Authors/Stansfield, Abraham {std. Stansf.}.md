@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/item/104077#page/853/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33333978) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stansfield, Abraham (1802-1880), British nurseryman at Ecclesholme and Vale Gardens, Todmorden. (*Stansf.*).
+Stansfield, Abraham (1802-1880), British nurseryman at Ecclesholme and Vale Gardens, Todmorden. 
+**Abbreviated name**: *Stansf.*
 
 #### Herbarium and types
 

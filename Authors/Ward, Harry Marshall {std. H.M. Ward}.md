@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103250#page/125/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33066405) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ward, Harry Marshall (1854-1906), British botanist; B.A. Christ's College Cambridge 1879; cryptogamic botanist to the Ceylon Government (coffee leaf disease) 1880-1882; assistant lecturer Owens College, Manchester 1883-1885; professor of botany, Royal Indian Engineering College, Coopers Hill 1885-1895; professor of botany, Univ. Cambridge 1895-1906. (*H.M. Ward*).
+Ward, Harry Marshall (1854-1906), British botanist; B.A. Christ's College Cambridge 1879; cryptogamic botanist to the Ceylon Government (coffee leaf disease) 1880-1882; assistant lecturer Owens College, Manchester 1883-1885; professor of botany, Royal Indian Engineering College, Coopers Hill 1885-1895; professor of botany, Univ. Cambridge 1895-1906. 
+**Abbreviated name**: *H.M. Ward*
 
 #### Herbarium and types
 

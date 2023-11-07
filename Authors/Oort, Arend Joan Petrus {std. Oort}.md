@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/item/104137#page/853/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oort, Arend Joan Petrus (1903-x), Dutch mycologist; Dr. phil. Utrecht 1930; from 1929-1933 at the Laboratory for plant physiology, Wageningen; 1933-1949 scientist at the Laboratory of mycology, id; 1948-1968 prof. of phytopathology and director of the Laboratory of plant physiology of the Agricultural University of Wageningen; Dr. h.c. Gent 1963. (*Oort*).
+Oort, Arend Joan Petrus (1903-x), Dutch mycologist; Dr. phil. Utrecht 1930; from 1929-1933 at the Laboratory for plant physiology, Wageningen; 1933-1949 scientist at the Laboratory of mycology, id; 1948-1968 prof. of phytopathology and director of the Laboratory of plant physiology of the Agricultural University of Wageningen; Dr. h.c. Gent 1963. 
+**Abbreviated name**: *Oort*
 
 #### Herbarium and types
 

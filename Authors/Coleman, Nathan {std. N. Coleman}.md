@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/103860#page/274/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coleman, Nathan (1825-1887), American school teacher, later professor, born 13 Aug 1825, Cheshire, Mass., died 21 Jun 1897, Marshall, Texas, lived 1873-1875 Grand Rapids as school teacher. (*N. Coleman*).
+Coleman, Nathan (1825-1887), American school teacher, later professor, born 13 Aug 1825, Cheshire, Mass., died 21 Jun 1897, Marshall, Texas, lived 1873-1875 Grand Rapids as school teacher. 
+**Abbreviated name**: *N. Coleman*
 
 #### Herbarium and types
 

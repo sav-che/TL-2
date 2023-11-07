@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103860#page/250/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33265917) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cockerell, Theodor Dru Alison {std. Cockerell}|first entry]] for this author
 
 ### Author
 
-\* Cockerell, Theodore Dru Alison (1866-1948), British born naturalist, plant geneticist, entomologist and palaeontologist, born at Norwood, England, attended Saturday lectures with J.G. Baker at Chelsea 1883, employed in a London firm of flower factors, sailed to America (Colorado) 1887 in Wet Mountain Valley ("Briton's Paradise"), again in London 1890-1891, working at the British Museum, at Jamaica 1891-1892, at New Mexico agricultural College 1892, docent 1894-1895 and professor of zoology at the University of Colorado 1906-1934. (*Cockerell*).
+\* Cockerell, Theodore Dru Alison (1866-1948), British born naturalist, plant geneticist, entomologist and palaeontologist, born at Norwood, England, attended Saturday lectures with J.G. Baker at Chelsea 1883, employed in a London firm of flower factors, sailed to America (Colorado) 1887 in Wet Mountain Valley ("Briton's Paradise"), again in London 1890-1891, working at the British Museum, at Jamaica 1891-1892, at New Mexico agricultural College 1892, docent 1894-1895 and professor of zoology at the University of Colorado 1906-1934. 
+**Abbreviated name**: *Cockerell*
 
 #### Herbarium and types
 

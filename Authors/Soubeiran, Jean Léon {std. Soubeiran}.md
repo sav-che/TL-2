@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/item/104077#page/767/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33333892) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soubeiran, Jean Léon (1827-1892), French botanist and pharmacist; pharmacien Ire classe 1853; at the École supérieure de Pharmacie, Paris (agrégé hist. nat.) 1854; Dr. med. Paris 1855; Dr. sci. nat. ib. 1858; professor at the École supérieure de Pharmacie, Montpellier 1874-1892. (*Soubeiran*).
+Soubeiran, Jean Léon (1827-1892), French botanist and pharmacist; pharmacien Ire classe 1853; at the École supérieure de Pharmacie, Paris (agrégé hist. nat.) 1854; Dr. med. Paris 1855; Dr. sci. nat. ib. 1858; professor at the École supérieure de Pharmacie, Montpellier 1874-1892. 
+**Abbreviated name**: *Soubeiran*
 
 #### Herbarium and types
 

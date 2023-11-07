@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103414#page/408/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33120491) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broughton, Arthur (x-1796), British botanist and physician at Bristol and from 1783 in Jamaica. (*Broughton*).
+Broughton, Arthur (x-1796), British botanist and physician at Bristol and from 1783 in Jamaica. 
+**Abbreviated name**: *Broughton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/item/104077#page/807/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/page/33333932) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spitzel, Anton von (1807-1853), German (Bavarian) botanist, plant collector and forester in Loser (1832-1835), Grubhof (1835-1836) and München. (*Spitzel*).
+Spitzel, Anton von (1807-1853), German (Bavarian) botanist, plant collector and forester in Loser (1832-1835), Grubhof (1835-1836) and München. 
+**Abbreviated name**: *Spitzel*
 
 #### Herbarium and types
 

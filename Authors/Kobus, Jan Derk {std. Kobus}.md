@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/item/103253#page/613/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kobus, Jan Derk (1858-1910), Dutch botanist, at the Eastern Java Sugar Experiment Station, Pasuruan, Java. (*Kobus*).
+Kobus, Jan Derk (1858-1910), Dutch botanist, at the Eastern Java Sugar Experiment Station, Pasuruan, Java. 
+**Abbreviated name**: *Kobus*
 
 #### Herbarium and types
 

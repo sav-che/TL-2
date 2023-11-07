@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/104077#page/135/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33333260) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheele, \[Georg Heinrich\] Adolf (1808-1864), German (Hannover) botanist and clergyman; from 1826 at Göttingen studying theology and botany; private teacher 1831-1834; from 1834-1842 in Hannover in the seminary, vicar at the church of St.-Egidius, and assistant pastor at Gross-Munzel; from 1842-1864 pastor at Heersum nr. Hildesheim. (*Scheele*).
+Scheele, \[Georg Heinrich\] Adolf (1808-1864), German (Hannover) botanist and clergyman; from 1826 at Göttingen studying theology and botany; private teacher 1831-1834; from 1834-1842 in Hannover in the seminary, vicar at the church of St.-Egidius, and assistant pastor at Gross-Munzel; from 1842-1864 pastor at Heersum nr. Hildesheim. 
+**Abbreviated name**: *Scheele*
 
 #### Herbarium and types
 

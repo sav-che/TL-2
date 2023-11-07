@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/103624#page/758/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33190215) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Réveil, \[Pierre\] Oscar (1821-1865), French botanist and physician at Paris; head pharmacist of the Paris hospitals; professor at the "Faculté de médecine" and at the "École supérieure de pharmacie de Paris", specialist in phytochemistry. (*Réveil*).
+Réveil, \[Pierre\] Oscar (1821-1865), French botanist and physician at Paris; head pharmacist of the Paris hospitals; professor at the "Faculté de médecine" and at the "École supérieure de pharmacie de Paris", specialist in phytochemistry. 
+**Abbreviated name**: *Réveil*
 
 #### Herbarium and types
 

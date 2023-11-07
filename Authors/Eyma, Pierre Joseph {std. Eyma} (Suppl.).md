@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103835#page/460/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33260438) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eyma, Pierre Joseph {std. Eyma}|first entry]] for this author
 
 ### Author
 
-\* Eyma, Pierre Joseph (1903-1945), Dutch botanist, born 30 Sep 1903 at Maarssen, visited the gymnasium at Utrecht and entered the university in that town in 1922, Dr. sci. in 1932, from 1939 assistant for botany until 1937 mainly revising families for the Flora of Surinam, went to the Dutch East Indies in 1937 for exploration of the flora in several selected areas, was prisoner of war on Java and Sumatra during WW II, died in camp on 25 Jul 1945. (*Eyma*).
+\* Eyma, Pierre Joseph (1903-1945), Dutch botanist, born 30 Sep 1903 at Maarssen, visited the gymnasium at Utrecht and entered the university in that town in 1922, Dr. sci. in 1932, from 1939 assistant for botany until 1937 mainly revising families for the Flora of Surinam, went to the Dutch East Indies in 1937 for exploration of the flora in several selected areas, was prisoner of war on Java and Sumatra during WW II, died in camp on 25 Jul 1945. 
+**Abbreviated name**: *Eyma*
 
 #### Herbarium and types
 

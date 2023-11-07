@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/103683#page/729/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33212761) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vesterlund, \[Per\] Otto (1857-1953), Swedish botanist and forester; ultimately in Alvdalen, prov. Dalarna (Dalecalia). (*Vesterlund*).
+Vesterlund, \[Per\] Otto (1857-1953), Swedish botanist and forester; ultimately in Alvdalen, prov. Dalarna (Dalecalia). 
+**Abbreviated name**: *Vesterlund*
 
 #### Herbarium and types
 

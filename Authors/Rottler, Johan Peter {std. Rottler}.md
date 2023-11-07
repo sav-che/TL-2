@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/item/103624#page/947/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33190404) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rottler, Johan Peter (1749-1836), Strassburg (Alsatia) born Danish missionary, traveller, orientalist and botanist; Dr. phil. Wien 1795; at Tranquebar (South of Madras on Coromandel Coast) 1776-1806; subsequently with English missionaries at Madras, travelling in the Ganges region and Ceylon (1788, 1795). (*Rottler*).
+Rottler, Johan Peter (1749-1836), Strassburg (Alsatia) born Danish missionary, traveller, orientalist and botanist; Dr. phil. Wien 1795; at Tranquebar (South of Madras on Coromandel Coast) 1776-1806; subsequently with English missionaries at Madras, travelling in the Ganges region and Ceylon (1788, 1795). 
+**Abbreviated name**: *Rottler*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103414#page/169/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33120252) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barham, Henry {std. Barham} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Barham, Henry (1670-1726), British surgeon who settled in Jamaica. (*Barham*).
+Barham, Henry (1670-1726), British surgeon who settled in Jamaica. 
+**Abbreviated name**: *Barham*
 
 #### Herbarium and types
 

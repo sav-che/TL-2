@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/item/103624#page/918/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33190375) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rossi, Stefano (1851-1898), Italian botanist; high school teacher at Domodossola. (*S. Rossi*).
+Rossi, Stefano (1851-1898), Italian botanist; high school teacher at Domodossola. 
+**Abbreviated name**: *S. Rossi*
 
 #### Herbarium and types
 

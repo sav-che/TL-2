@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/item/103683#page/714/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33212746) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Venturi, Santiago (*fl*. 1910), Argentine naturalist at Mocovi. (*S. Venturi*).
+Venturi, Santiago (*fl*. 1910), Argentine naturalist at Mocovi. 
+**Abbreviated name**: *S. Venturi*
 
 #### Herbarium and types
 

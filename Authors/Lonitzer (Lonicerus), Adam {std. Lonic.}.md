@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/104137#page/170/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33355241) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lonitzer \[Lonicerus\], Adam (1528-1586), German physician and botanist at Frankfurt and Mainz (1545-1553), Marburg (1553-1554) and Frankfurt a. M. (1555-1586). (*Lonitzer*) (*Lonic.*).
+Lonitzer \[Lonicerus\], Adam (1528-1586), German physician and botanist at Frankfurt and Mainz (1545-1553), Marburg (1553-1554) and Frankfurt a. M. (1555-1586). (*Lonitzer*) 
+**Abbreviated name**: *Lonic.*
 
 #### Herbarium and types
 

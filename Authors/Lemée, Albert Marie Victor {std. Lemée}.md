@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/item/103253#page/865/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33069081) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lemée, Albert Marie Victor (1872-19..), French colonial botanist, later at Rennes. (*Lemée*).
+Lemée, Albert Marie Victor (1872-19..), French colonial botanist, later at Rennes. 
+**Abbreviated name**: *Lemée*
 
 #### Herbarium and types
 

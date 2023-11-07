@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/item/103414#page/944/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/page/33121027) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fuckel, (Karl Wilhelm Gottlieb) Leopold {std. Fuckel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fuckel, Karl Wilhelm Gottlieb Leopold (1821-1876), German mycologist. (*Fuckel*).
+Fuckel, Karl Wilhelm Gottlieb Leopold (1821-1876), German mycologist. 
+**Abbreviated name**: *Fuckel*
 
 #### Herbarium and types
 

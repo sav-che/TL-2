@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/item/103861#page/476/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33266773) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cavanilles, Antonio José {std. Cav.}|first entry]] for this author
 
 ### Author
 
-\* Cavanilles, Antonio José (1745-1804), Spanish clergyman and botanist, educated with the Jesuits at the Valencia Gymnasium and the University of Valencia, studying philosophy and related sciences, tutor to the son of the Duque del Infantada, with his pupil to Paris 1777-1781, studying with Thouin at the Paris botanical garden, subsequently with de Jussieu from1779 and later also with Desfontaines, returned to Madrid 1789, worked in the Madrid botanical garden, joined with the Malaspina expedition, from 1801 in charge of the Madrid botanical garden. (*Cav.*).
+\* Cavanilles, Antonio José (1745-1804), Spanish clergyman and botanist, educated with the Jesuits at the Valencia Gymnasium and the University of Valencia, studying philosophy and related sciences, tutor to the son of the Duque del Infantada, with his pupil to Paris 1777-1781, studying with Thouin at the Paris botanical garden, subsequently with de Jussieu from1779 and later also with Desfontaines, returned to Madrid 1789, worked in the Madrid botanical garden, joined with the Malaspina expedition, from 1801 in charge of the Madrid botanical garden. 
+**Abbreviated name**: *Cav.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/item/103624#page/812/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33190269) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Risso, Joseph Antoine (1777-1845), French pharmacist, botanist and high school teacher at Nice; pioneer botanist of the Alpes maritimes (*Risso*).
+Risso, Joseph Antoine (1777-1845), French pharmacist, botanist and high school teacher at Nice; pioneer botanist of the Alpes maritimes 
+**Abbreviated name**: *Risso*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/103253#page/216/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33068432) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hicken, Cristóbal Maria (1875-1933), Argentine botanist; founder (1911) of the Instituto botanico Darwinion at San Martin, later at San Isidro; Dr. sci. Buenos Aires, 1906; Lecturer at the Collegio militar (1899-1928) and simultaneously at various other schools in Buenos Aires. (*Hicken*).
+Hicken, Cristóbal Maria (1875-1933), Argentine botanist; founder (1911) of the Instituto botanico Darwinion at San Martin, later at San Isidro; Dr. sci. Buenos Aires, 1906; Lecturer at the Collegio militar (1899-1928) and simultaneously at various other schools in Buenos Aires. 
+**Abbreviated name**: *Hicken*
 
 #### Herbarium and types
 

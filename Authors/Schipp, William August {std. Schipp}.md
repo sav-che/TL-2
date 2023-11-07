@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/104077#page/196/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schipp, William August (1891-1967), Australian-born explorer and plant collector; collected in N. Australia, New Guinea and Java; via San Francisco to British Honduras 1929; collected in British Honduras 1929-1935; returned to Australia because of failing health, living ultimately in New South Wales. (*Schipp*).
+Schipp, William August (1891-1967), Australian-born explorer and plant collector; collected in N. Australia, New Guinea and Java; via San Francisco to British Honduras 1929; collected in British Honduras 1929-1935; returned to Australia because of failing health, living ultimately in New South Wales. 
+**Abbreviated name**: *Schipp*
 
 #### Herbarium and types
 

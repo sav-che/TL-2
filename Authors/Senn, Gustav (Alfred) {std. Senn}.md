@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/item/104077#page/521/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Senn, Gustav \[Alfred\] (1875-1945), Swiss botanist; Dr. phil. Basel 1899; habil. Univ. Basel 1901; lecturer 1901-1908; extraordinary professor of botany 1908-1912; ordinary professor of botany and director of the Basel botanical garden 1912-1945; visited S.E. Asia 1910-1911. (*Senn*).
+Senn, Gustav \[Alfred\] (1875-1945), Swiss botanist; Dr. phil. Basel 1899; habil. Univ. Basel 1901; lecturer 1901-1908; extraordinary professor of botany 1908-1912; ordinary professor of botany and director of the Basel botanical garden 1912-1945; visited S.E. Asia 1910-1911. 
+**Abbreviated name**: *Senn*
 
 #### Herbarium and types
 

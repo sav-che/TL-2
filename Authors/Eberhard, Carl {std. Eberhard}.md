@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103835#page/257/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33260235) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eberhard, Carl (1873-x), German botanist, born 20 August 1873 at Hannover, visited the Leibniz-Realgymnasium at Hannover, in 1895 to the Georg-Augusts-Universität at Göttingen to study natural sciences, in 1896 at Berlin but returned to Göttingen in 1897. (*Eberhard*).
+Eberhard, Carl (1873-x), German botanist, born 20 August 1873 at Hannover, visited the Leibniz-Realgymnasium at Hannover, in 1895 to the Georg-Augusts-Universität at Göttingen to study natural sciences, in 1896 at Berlin but returned to Göttingen in 1897. 
+**Abbreviated name**: *Eberhard*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103253#page/138/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33068354) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hayne, Friedrich Gottlob (1763-1832), German botanist and pharmacist at Berlin. (*Hayne*).
+Hayne, Friedrich Gottlob (1763-1832), German botanist and pharmacist at Berlin. 
+**Abbreviated name**: *Hayne*
 
 #### Herbarium and types
 

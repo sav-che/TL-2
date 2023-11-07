@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/item/103624#page/603/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33190060) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raulin, Victor Félix (1815-1905), French botanist; Dr. sci. 1848; geological curator at the Museum d'Histoire naturelle, Paris 1838-1846; subsequently professor of geology at the Faculty of Sciences, Bordeaux. (*Raulin*).
+Raulin, Victor Félix (1815-1905), French botanist; Dr. sci. 1848; geological curator at the Museum d'Histoire naturelle, Paris 1838-1846; subsequently professor of geology at the Faculty of Sciences, Bordeaux. 
+**Abbreviated name**: *Raulin*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/item/103414#page/525/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33120608) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Čelakovský, Ladislav Franz {std. L.F. Čelak.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Čelakovský, Ladislav Franz (1864-1916), Czeck botanist at Praha, son of L. J. Celakovský. (*L. F. Čelak.*).
+Čelakovský, Ladislav Franz (1864-1916), Czeck botanist at Praha, son of L. J. Celakovský. 
+**Abbreviated name**: *L. F. Čelak.*
 
 #### Herbarium and types
 

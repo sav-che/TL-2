@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103832#page/210/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33258676) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gibbs, Lilian Suzette {std. Gibbs}|first entry]] for this author
 
 ### Author
 
-\* Gibbs, Lilian Suzette \[Susette\] (1870-1925), British botanist, born 10 Sep 1870 in London, attended Swanley Horticultural College 1899-1901, enrolled in the Dept. of Botany, Royal College of Science (now Imperial College, London) 1901 where J.B. Farmer was her prof., collected plants in the Alps, s. Rhodesia (now Zimbabwe) 1905, Fiji and New Zealand 1907, Mt. Kinabalu 1910 (and was the first woman to ascend to its summit), Iceland 1912, and the Arfak Mts. of New Guinea, Australia and Tasmania 1913, F.L.S. 1905, R.G.S. 1919, died 30 Jan 1925 in Santa Cruz, Teneriffe. (*Gibbs*).
+\* Gibbs, Lilian Suzette \[Susette\] (1870-1925), British botanist, born 10 Sep 1870 in London, attended Swanley Horticultural College 1899-1901, enrolled in the Dept. of Botany, Royal College of Science (now Imperial College, London) 1901 where J.B. Farmer was her prof., collected plants in the Alps, s. Rhodesia (now Zimbabwe) 1905, Fiji and New Zealand 1907, Mt. Kinabalu 1910 (and was the first woman to ascend to its summit), Iceland 1912, and the Arfak Mts. of New Guinea, Australia and Tasmania 1913, F.L.S. 1905, R.G.S. 1919, died 30 Jan 1925 in Santa Cruz, Teneriffe. 
+**Abbreviated name**: *Gibbs*
 
 #### Herbarium and types
 

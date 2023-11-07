@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/104137#page/581/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33355652) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Montrouzier, Rev. Père Xavier (1820-1897), French botanist and apostolical missionary of the Society of Mary; "Christianae fidei inter paganus oceaniae (Nova Caledonia etc.) interpres" 1846-1897 (Wittrock). (*Montrouz.*).
+Montrouzier, Rev. Père Xavier (1820-1897), French botanist and apostolical missionary of the Society of Mary; "Christianae fidei inter paganus oceaniae (Nova Caledonia etc.) interpres" 1846-1897 (Wittrock). 
+**Abbreviated name**: *Montrouz.*
 
 #### Herbarium and types
 

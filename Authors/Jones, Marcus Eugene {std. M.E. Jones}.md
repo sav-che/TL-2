@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/item/103253#page/482/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33068698) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jones, Marcus Eugene (1852-1934), America professional plant collector, botanist, explorer and mining consultant in California (*M. E. Jones*).
+Jones, Marcus Eugene (1852-1934), America professional plant collector, botanist, explorer and mining consultant in California 
+**Abbreviated name**: *M. E. Jones*
 
 #### Herbarium and types
 

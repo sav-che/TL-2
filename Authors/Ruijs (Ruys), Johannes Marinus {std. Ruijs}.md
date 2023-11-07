@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/item/103624#page/995/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruijs (Ruys), Johannes Marinus (*fl*. 1884), Dutch botanist and zoologist; participated in the Dutch Polar Expedition of 1882-1883; Dr. phil. Amsterdam 1884. (*Ruijs*).
+Ruijs (Ruys), Johannes Marinus (*fl*. 1884), Dutch botanist and zoologist; participated in the Dutch Polar Expedition of 1882-1883; Dr. phil. Amsterdam 1884. 
+**Abbreviated name**: *Ruijs*
 
 #### Herbarium and types
 

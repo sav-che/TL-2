@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/item/103253#page/573/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33068789) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kinney, Abbot (1850-1920), American popular writer on botany (*Kinney*).
+Kinney, Abbot (1850-1920), American popular writer on botany 
+**Abbreviated name**: *Kinney*
 
 #### Herbarium and types
 

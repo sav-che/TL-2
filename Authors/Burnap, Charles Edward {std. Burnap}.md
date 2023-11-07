@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103861#page/264/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burnap, Charles Edward (x-1912), American botanist, Harvard SB 1892. (*Burnap*).
+Burnap, Charles Edward (x-1912), American botanist, Harvard SB 1892. 
+**Abbreviated name**: *Burnap*
 
 #### Herbarium and types
 

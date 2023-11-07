@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/104077#page/300/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33333425) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schoene, \[Friedrich\] Kurt (1880-?), German (Saxonian) botanist; studied at Leipzig, Dresden and, from 1902, at Jena; Dr. phil. Jena 1905. (*Schoene*).
+Schoene, \[Friedrich\] Kurt (1880-?), German (Saxonian) botanist; studied at Leipzig, Dresden and, from 1902, at Jena; Dr. phil. Jena 1905. 
+**Abbreviated name**: *Schoene*
 
 #### Herbarium and types
 

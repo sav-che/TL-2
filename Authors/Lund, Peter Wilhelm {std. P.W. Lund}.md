@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/104137#page/210/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lund, Peter Wilhelm (1801-1880), Danish botanist, zoologist and paleontologist; travelled in Brazil 1825-1829 and 1833-1835; lived at *Lagoa Santa* from 1835-1880. (*P. W. Lund*).
+Lund, Peter Wilhelm (1801-1880), Danish botanist, zoologist and paleontologist; travelled in Brazil 1825-1829 and 1833-1835; lived at *Lagoa Santa* from 1835-1880. 
+**Abbreviated name**: *P. W. Lund*
 
 #### Herbarium and types
 

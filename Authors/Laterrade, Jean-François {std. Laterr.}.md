@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/item/103253#page/789/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laterrade, Jean-François (1784-1858), French botanist; at first high school teacher; founded the Société Linnéenne de Bordeaux on 25 Jun 1818; director of the Bordeaux botanical garden 1842. (*Laterr.*).
+Laterrade, Jean-François (1784-1858), French botanist; at first high school teacher; founded the Société Linnéenne de Bordeaux on 25 Jun 1818; director of the Bordeaux botanical garden 1842. 
+**Abbreviated name**: *Laterr.*
 
 #### Herbarium and types
 

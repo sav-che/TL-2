@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103250#page/327/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33066607) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wierzbicki, Peter \[baptised Petrus Paulus Wirzbicki\] (0000-0000), Galician surgeon, botanist and entomologist; studied pharmacy and surgery in Hungary; surgeon's and pharmacist's diploma Pest 1828; assistant professor for botany and chemistry at Keszthely ca. 1820; regional physician in Orawiza in the mining industry in the Austrian Crownland Banat from ca. 1830; active plant collector and floristic botanist. (*Wierzb.*).
+Wierzbicki, Peter \[baptised Petrus Paulus Wirzbicki\] (0000-0000), Galician surgeon, botanist and entomologist; studied pharmacy and surgery in Hungary; surgeon's and pharmacist's diploma Pest 1828; assistant professor for botany and chemistry at Keszthely ca. 1820; regional physician in Orawiza in the mining industry in the Austrian Crownland Banat from ca. 1830; active plant collector and floristic botanist. 
+**Abbreviated name**: *Wierzb.*
 
 #### Herbarium and types
 

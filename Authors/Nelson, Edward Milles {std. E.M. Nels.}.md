@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/item/104137#page/740/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33355811) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nelson, Edward Milles (1851-1938), British microscopist and diatomologist. (*E. M. Nels.*).
+Nelson, Edward Milles (1851-1938), British microscopist and diatomologist. 
+**Abbreviated name**: *E. M. Nels.*
 
 #### Herbarium and types
 

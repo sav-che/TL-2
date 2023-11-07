@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/item/103414#page/509/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33120592) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caruel, Théodore (Teodoro) {std. Caruel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Caruel, Théodore (Teodoro) (1830-1898), French born Italian botanist at Milano, Pisa and Firenze. (*Caruel*).
+Caruel, Théodore (Teodoro) (1830-1898), French born Italian botanist at Milano, Pisa and Firenze. 
+**Abbreviated name**: *Caruel*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/103683#page/113/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33212145) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sutherland, William (1832-1920), British gardener, at Kew 1856-1860, later at Minto, Roxburghshire. (*W. Sutherland*).
+Sutherland, William (1832-1920), British gardener, at Kew 1856-1860, later at Minto, Roxburghshire. 
+**Abbreviated name**: *W. Sutherland*
 
 #### Herbarium and types
 

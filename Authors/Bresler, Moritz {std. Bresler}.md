@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103414#page/367/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33120450) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bresler, Moritz (1802-C.1851), German physician. (*Bresler*).
+Bresler, Moritz (1802-C.1851), German physician. 
+**Abbreviated name**: *Bresler*
 
 #### Herbarium and types
 

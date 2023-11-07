@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/103624#page/760/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reverchon, Elisée (1835-1914), French plant collector, living at Bollème (Vaucluse) and later in Lyon; collected in S.E. France (1867-1877), Corsica (1878-1880), Sardinia (1881-1882), Crete (1883), Spain (1887-1906) and Algeria 1896-1898. (*Reverchon*).
+Reverchon, Elisée (1835-1914), French plant collector, living at Bollème (Vaucluse) and later in Lyon; collected in S.E. France (1867-1877), Corsica (1878-1880), Sardinia (1881-1882), Crete (1883), Spain (1887-1906) and Algeria 1896-1898. 
+**Abbreviated name**: *Reverchon*
 
 #### Herbarium and types
 

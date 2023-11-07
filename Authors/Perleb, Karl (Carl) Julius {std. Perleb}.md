@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103624#page/182/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33189639) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perleb, Karl \[Carl\] Julius (1794-1845), German botanist and physician; professor of natural history at the university of Freiburg in Breisgau 1818-1845; director of the botanical garden ibid. 1828-1845. (*Perleb*).
+Perleb, Karl \[Carl\] Julius (1794-1845), German botanist and physician; professor of natural history at the university of Freiburg in Breisgau 1818-1845; director of the botanical garden ibid. 1828-1845. 
+**Abbreviated name**: *Perleb*
 
 #### Herbarium and types
 

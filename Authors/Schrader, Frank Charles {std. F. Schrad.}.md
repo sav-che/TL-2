@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/104077#page/329/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33333454) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schrader, Frank Charles (1860-1940), American geologist and botanist; A.M. Harvard 1893; assistant entomologist Kansas 1889-1891; with Massachusetts Board of Agric. 1893-1894; teacher geology Harvard 1895-1896; assistant geologist and geologist U.S. Geol. Survey from 1896; as such on Capt. Abercrombie's Military Exploring Expedition in Alaska 1898-1902. (*F. Schrad.*).
+Schrader, Frank Charles (1860-1940), American geologist and botanist; A.M. Harvard 1893; assistant entomologist Kansas 1889-1891; with Massachusetts Board of Agric. 1893-1894; teacher geology Harvard 1895-1896; assistant geologist and geologist U.S. Geol. Survey from 1896; as such on Capt. Abercrombie's Military Exploring Expedition in Alaska 1898-1902. 
+**Abbreviated name**: *F. Schrad.*
 
 #### Herbarium and types
 

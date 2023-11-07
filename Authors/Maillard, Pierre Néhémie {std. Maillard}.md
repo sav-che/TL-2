@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/104137#page/271/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33355342) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maillard, Pierre Néhémie (1813-1883), French botanist; clergyman at la Mothe-St.-Héray (Deux-Sèvres) 1842-1883. (*Maillard*).
+Maillard, Pierre Néhémie (1813-1883), French botanist; clergyman at la Mothe-St.-Héray (Deux-Sèvres) 1842-1883. 
+**Abbreviated name**: *Maillard*
 
 #### Herbarium and types
 

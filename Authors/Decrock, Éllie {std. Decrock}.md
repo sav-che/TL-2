@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103833#page/154/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33259188) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Decrock, Éllie (fl. 1896-1938), French botanist, from 1914 professor of agricultural botany at the faculty of science in Marseille, from 1936 director of the botanical garden in that town. (*Decrock*).
+Decrock, Éllie (fl. 1896-1938), French botanist, from 1914 professor of agricultural botany at the faculty of science in Marseille, from 1936 director of the botanical garden in that town. 
+**Abbreviated name**: *Decrock*
 
 #### Herbarium and types
 

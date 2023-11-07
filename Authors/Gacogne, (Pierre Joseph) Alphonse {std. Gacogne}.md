@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/item/103832#page/97/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33258563) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gacogne, \[Pierre Joseph\] Alphonse (1814-1879), French teacher, entomologist and botanist, born 3 Jan 1814 in Senlis, prof. of literature and history in Paris, and then in Lyon, died 26 Dec 1879 in Lyon. (*Gacogne*).
+Gacogne, \[Pierre Joseph\] Alphonse (1814-1879), French teacher, entomologist and botanist, born 3 Jan 1814 in Senlis, prof. of literature and history in Paris, and then in Lyon, died 26 Dec 1879 in Lyon. 
+**Abbreviated name**: *Gacogne*
 
 #### Herbarium and types
 

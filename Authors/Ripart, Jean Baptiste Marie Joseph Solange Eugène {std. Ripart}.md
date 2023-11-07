@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/item/103624#page/812/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33190269) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ripart, Jean Baptiste Marie Joseph Solange Eugène (1814-1878), French physician and botanist at Bourges. (*Ripart*).
+Ripart, Jean Baptiste Marie Joseph Solange Eugène (1814-1878), French physician and botanist at Bourges. 
+**Abbreviated name**: *Ripart*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103414#page/150/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33120233) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bainier, Georges Marcellin {std. Bainier} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bainier, Georges (x-1920), French pharmacist and mycologist. (*Bainier*).
+Bainier, Georges (x-1920), French pharmacist and mycologist. 
+**Abbreviated name**: *Bainier*
 
 #### Herbarium and types
 

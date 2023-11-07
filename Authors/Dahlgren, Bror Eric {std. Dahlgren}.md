@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/item/103414#page/637/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dahlgren, Bror Eric {std. Dahlgren} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dahlgren, Bror Eric (1877-1961), Swedish born American botanist (*Dahlgren*).
+Dahlgren, Bror Eric (1877-1961), Swedish born American botanist 
+**Abbreviated name**: *Dahlgren*
 
 #### Herbarium and types
 

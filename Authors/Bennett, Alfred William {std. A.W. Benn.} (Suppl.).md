@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103859#page/80/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33265267) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bennett, Alfred William {std. A.W. Benn.}|first entry]] for this author
 
 ### Author
 
-\* Bennett, Alfred William (1833-1902), British bookseller, publisher 1858-1866, M.A. London University ca. 1856; turned to botany 1868, from then on longtime lecturer in botany at St. Thomas' Hospital and Bedford College. (*A.W. Benn.*).
+\* Bennett, Alfred William (1833-1902), British bookseller, publisher 1858-1866, M.A. London University ca. 1856; turned to botany 1868, from then on longtime lecturer in botany at St. Thomas' Hospital and Bedford College. 
+**Abbreviated name**: *A.W. Benn.*
 
 #### Herbarium and types
 

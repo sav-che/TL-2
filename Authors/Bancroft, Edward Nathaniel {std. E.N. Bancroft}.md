@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103858#page/322/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265037) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bancroft, Edward Nathaniel (1772-1842), British botanist and physician, studied medicine in Cambridge, M.B. 1794, M.D. 1804, military physician at the Windward Islands, Portugal and Egypt; settled in Kingston (Jamaica) 1811-1842, ultimately general inspector of the local military installations; son of Edward Bancroft. (*E.N. Bancroft*).
+Bancroft, Edward Nathaniel (1772-1842), British botanist and physician, studied medicine in Cambridge, M.B. 1794, M.D. 1804, military physician at the Windward Islands, Portugal and Egypt; settled in Kingston (Jamaica) 1811-1842, ultimately general inspector of the local military installations; son of Edward Bancroft. 
+**Abbreviated name**: *E.N. Bancroft*
 
 #### Herbarium and types
 

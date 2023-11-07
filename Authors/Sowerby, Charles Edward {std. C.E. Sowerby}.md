@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/item/104077#page/772/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33333897) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sowerby, Charles Edward (1795-1842), British artist who assisted his father James Sowerby and his brother James de Carle Sowerby with their publications. (*C.E. Sowerby*).
+Sowerby, Charles Edward (1795-1842), British artist who assisted his father James Sowerby and his brother James de Carle Sowerby with their publications. 
+**Abbreviated name**: *C.E. Sowerby*
 
 #### Herbarium and types
 

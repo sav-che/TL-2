@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/103835#page/29/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dodge, Raynal (1844-1918), American studying ferns and fern allies, born 9 Sep 1844 in Newburyport, Mass., visited the local high school, enlisted in the army and served in the Civil War, later worked as a machinist in a comb factory at Newburyport, was life-long interested in natural history, died 20 Oct 1918 at Newburyport. (*R. Dodge*).
+Dodge, Raynal (1844-1918), American studying ferns and fern allies, born 9 Sep 1844 in Newburyport, Mass., visited the local high school, enlisted in the army and served in the Civil War, later worked as a machinist in a comb factory at Newburyport, was life-long interested in natural history, died 20 Oct 1918 at Newburyport. 
+**Abbreviated name**: *R. Dodge*
 
 #### Herbarium and types
 

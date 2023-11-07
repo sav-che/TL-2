@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/104077#page/867/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33333992) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stearns, Elmer (*fl*. 1912), American(?), botanist at the College of Agriculture, Ciudad Juárez, Mexico; collected in Texas, New Mexico and Mexico. (*Stearns*).
+Stearns, Elmer (*fl*. 1912), American(?), botanist at the College of Agriculture, Ciudad Juárez, Mexico; collected in Texas, New Mexico and Mexico. 
+**Abbreviated name**: *Stearns*
 
 #### Herbarium and types
 

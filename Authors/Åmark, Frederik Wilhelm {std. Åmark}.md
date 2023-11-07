@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103858#page/107/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33264822) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Åmark, Frederik Wilhelm (1843-1916), Swedish classicist, studied at the University of Uppsala 1863, Dr. phil. ib. 1872, highschool teacher at Enköping 1871, rector ib. 1889-1909. (*Åmark*).
+Åmark, Frederik Wilhelm (1843-1916), Swedish classicist, studied at the University of Uppsala 1863, Dr. phil. ib. 1872, highschool teacher at Enköping 1871, rector ib. 1889-1909. 
+**Abbreviated name**: *Åmark*
 
 #### Herbarium and types
 

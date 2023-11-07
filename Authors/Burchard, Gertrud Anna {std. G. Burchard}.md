@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103861#page/235/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33266532) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burchard, Gertrud Anna (1906-x), German botanist and teacher, born in Kiel, moving to Hamburg 1907, privately educated, 1913 at the Lyceum of F. Henckel, Hamburg, 1913-1922, at an "Oberrealschule" 1922-1923 ib., privately working at her "Abitur" 1923-1925, examination at the Oberrealschule at Eppendorf, 1925-1926 teacher of the German language at Bedales School, Petersfield, England, at the University of Hamburg 1926-1929, Dr. phil. ib. 1929. (*G. Burchard*).
+Burchard, Gertrud Anna (1906-x), German botanist and teacher, born in Kiel, moving to Hamburg 1907, privately educated, 1913 at the Lyceum of F. Henckel, Hamburg, 1913-1922, at an "Oberrealschule" 1922-1923 ib., privately working at her "Abitur" 1923-1925, examination at the Oberrealschule at Eppendorf, 1925-1926 teacher of the German language at Bedales School, Petersfield, England, at the University of Hamburg 1926-1929, Dr. phil. ib. 1929. 
+**Abbreviated name**: *G. Burchard*
 
 #### Herbarium and types
 

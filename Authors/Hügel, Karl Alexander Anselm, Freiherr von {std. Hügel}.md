@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103253#page/384/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33068600) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hügel, Karl Alexander Anselm, Freiherr von (1794/1796-1870), German born Austrian soldier, statesman, horticulturist, and traveller; from 1830-1837 collecting in Australasia; 1837-1849 in Vienna; ambassador in Florence 1849-1859; in Brussels 1860-1869. (*Hügel*).
+Hügel, Karl Alexander Anselm, Freiherr von (1794/1796-1870), German born Austrian soldier, statesman, horticulturist, and traveller; from 1830-1837 collecting in Australasia; 1837-1849 in Vienna; ambassador in Florence 1849-1859; in Brussels 1860-1869. 
+**Abbreviated name**: *Hügel*
 
 #### Herbarium
 

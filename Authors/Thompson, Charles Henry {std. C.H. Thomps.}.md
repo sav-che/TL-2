@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/item/103683#page/289/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33212321) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thompson, Charles Henry (1870-1931), American botanist; M.S. Univ. Kansas 1898; instructor in botany, Shaw School of Botany, St. Louis 1893-1895; bot. asst. Missouri Botanical Garden 1895-1896; instructor at the University of Missouri 1896-1897; in charge of the department of succulent plants Missouri Botanical Garden from 1904; from 1915 assistant botanist, assistant professor of horticulture and professor of horticulture at Massachusetts College. (*C.H. Thomps.*).
+Thompson, Charles Henry (1870-1931), American botanist; M.S. Univ. Kansas 1898; instructor in botany, Shaw School of Botany, St. Louis 1893-1895; bot. asst. Missouri Botanical Garden 1895-1896; instructor at the University of Missouri 1896-1897; in charge of the department of succulent plants Missouri Botanical Garden from 1904; from 1915 assistant botanist, assistant professor of horticulture and professor of horticulture at Massachusetts College. 
+**Abbreviated name**: *C.H. Thomps.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/item/104077#page/496/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33333621) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seenus, Joseph Freiherr von (*fl*. 1805), Austro-Hungarian botanist; travelled in Istria and Dalmatia ca. 1798-1802. (*Seenus*).
+Seenus, Joseph Freiherr von (*fl*. 1805), Austro-Hungarian botanist; travelled in Istria and Dalmatia ca. 1798-1802. 
+**Abbreviated name**: *Seenus*
 
 #### Herbarium and types
 

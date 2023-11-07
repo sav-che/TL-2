@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103414#page/272/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33120355) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bizzozero, Giacomo {std. Bizz.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bizzozero, Giacomo (1852-1885), Italian botanist at the botanical garden of Padua University. (*Bizz.*).
+Bizzozero, Giacomo (1852-1885), Italian botanist at the botanical garden of Padua University. 
+**Abbreviated name**: *Bizz.*
 
 #### Herbarium and types
 

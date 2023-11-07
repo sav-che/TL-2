@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103859#page/117/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33265304) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bernard, Georges Eugène {std. G. Bernard}|first entry]] for this author
 
 ### Author
 
-\* Bernard, Georges \[Eugène\] (1835-1925), French pharmacist and mycologist, employed as "pharmacien major" at the Military Hospital d'Aufrédi, collaborator of L. Quélet, president of the Société des Sciences naturelles de Charente-Inférieure 1899-1919. (*G. Bernard*).
+\* Bernard, Georges \[Eugène\] (1835-1925), French pharmacist and mycologist, employed as "pharmacien major" at the Military Hospital d'Aufrédi, collaborator of L. Quélet, president of the Société des Sciences naturelles de Charente-Inférieure 1899-1919. 
+**Abbreviated name**: *G. Bernard*
 
 #### Herbarium and types
 

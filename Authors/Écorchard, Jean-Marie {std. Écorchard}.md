@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103835#page/266/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33260244) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Écorchard, Jean-Marie (1809-1882), French botanist, physician, and horticulturist, born 7 Feb 1809 in Nantes, France, died 17 Dec 1882, was professor in Nantes. (*Écorchard*).
+Écorchard, Jean-Marie (1809-1882), French botanist, physician, and horticulturist, born 7 Feb 1809 in Nantes, France, died 17 Dec 1882, was professor in Nantes. 
+**Abbreviated name**: *Écorchard*
 
 #### Herbarium and types
 

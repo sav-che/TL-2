@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103834#page/43/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33259525) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fairchild, Thomas (1667-1729), English gardener and "clothworker", born ca. Mai 1667 in Aldbourne (Wilts.), had a nursery at Hoxton where he "conducted experiments which helped to establish the existence of sex in plants" and was the "first to produce scientifically an artificial 'hybrid'" (DNB), he also received American seeds and plants from Mark Catesby, died 10 Oct 1729 in Hoxton, London. (*T. Fairchild*).
+Fairchild, Thomas (1667-1729), English gardener and "clothworker", born ca. Mai 1667 in Aldbourne (Wilts.), had a nursery at Hoxton where he "conducted experiments which helped to establish the existence of sex in plants" and was the "first to produce scientifically an artificial 'hybrid'" (DNB), he also received American seeds and plants from Mark Catesby, died 10 Oct 1729 in Hoxton, London. 
+**Abbreviated name**: *T. Fairchild*
 
 #### Herbarium and types
 

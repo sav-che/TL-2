@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103859#page/195/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bjørnström, Fredrik Johan (1833-1889), Swedish (Stockholm-born) botanist, studied at Uppsala University 1851, fil. kand. theology 1856, Dr. phil. ib. 1857, physician at Uppsala 1864, ultimately at the Stockholm "hospital", extraordinary professor in psychiatry at the Karolingska Inst. 1884, died at Konradsberg nr. Stockholm 1889. (*Bjørnstr.*).
+Bjørnström, Fredrik Johan (1833-1889), Swedish (Stockholm-born) botanist, studied at Uppsala University 1851, fil. kand. theology 1856, Dr. phil. ib. 1857, physician at Uppsala 1864, ultimately at the Stockholm "hospital", extraordinary professor in psychiatry at the Karolingska Inst. 1884, died at Konradsberg nr. Stockholm 1889. 
+**Abbreviated name**: *Bjørnstr.*
 
 #### Herbarium and types
 

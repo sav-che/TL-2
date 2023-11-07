@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103861#page/157/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33266454) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bruce, James {std. Bruce}|first entry]] for this author
 
 ### Author
 
-\* Bruce, James (1730-1794), Scottish traveller, born at Kinnaird nr. Stirling, Laird of Kinnaird 1758, of independent means, educated at Harrow, engaged in the Portuguese wine trade 1753, visited Spain and Portugal 1754, studied antiquities in Italy, travelled in the mediterranean area visiting Palmyra and Baalbec, in Egypt 1768, sailed up the Nile to Assuan, crossed over land to the Red Sea, at Masuah 1770, explored the sources of the Blue Nile, went to Sennar (Nubia) and Assuan 1772, returned to England 1774, died of a fall down his front steps. (*Bruce*).
+\* Bruce, James (1730-1794), Scottish traveller, born at Kinnaird nr. Stirling, Laird of Kinnaird 1758, of independent means, educated at Harrow, engaged in the Portuguese wine trade 1753, visited Spain and Portugal 1754, studied antiquities in Italy, travelled in the mediterranean area visiting Palmyra and Baalbec, in Egypt 1768, sailed up the Nile to Assuan, crossed over land to the Red Sea, at Masuah 1770, explored the sources of the Blue Nile, went to Sennar (Nubia) and Assuan 1772, returned to England 1774, died of a fall down his front steps. 
+**Abbreviated name**: *Bruce*
 
 #### Herbarium and types
 

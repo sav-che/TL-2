@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/item/103683#page/378/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33212410) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tiselius, Gustaf \[August\] (1833-1904), Swedish botanist and high school teacher; Dr. phil. Uppsala 1869; with a high school in Stockholm 1868-1903; also teacher at Ultuna agricultural college 1868-1892; specialist on Potamogeton. (*Tiselius*).
+Tiselius, Gustaf \[August\] (1833-1904), Swedish botanist and high school teacher; Dr. phil. Uppsala 1869; with a high school in Stockholm 1868-1903; also teacher at Ultuna agricultural college 1868-1892; specialist on Potamogeton. 
+**Abbreviated name**: *Tiselius*
 
 #### Herbarium and types
 

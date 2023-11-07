@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/103860#page/420/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33266087) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cotton, Joseph Gustav Stanislas (fl. 1868), French botanist, Dr. phil. Paris 1868. (*J.G.S. Cotton*).
+Cotton, Joseph Gustav Stanislas (fl. 1868), French botanist, Dr. phil. Paris 1868. 
+**Abbreviated name**: *J.G.S. Cotton*
 
 #### Herbarium and types
 

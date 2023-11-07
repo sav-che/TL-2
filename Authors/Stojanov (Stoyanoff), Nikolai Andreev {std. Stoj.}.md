@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103683#page/23/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33212081) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stojanov \[Stoyanoff\], Nikolai Andreev (1883-1968), White Russian-born Bulgarian botanist; studied at Kiew and Sofia; Dr. phil. München; professor of applied botany at the Institute of agricultural botany of the Agricultural Faculty at Sofia 1923-1936; professor of systematic botany and plant geography at the University of Sofia 1936-1961; later also director of the Botanical Institute of the Bulgarian Academy of Sciences. (*Stoj.*).
+Stojanov \[Stoyanoff\], Nikolai Andreev (1883-1968), White Russian-born Bulgarian botanist; studied at Kiew and Sofia; Dr. phil. München; professor of applied botany at the Institute of agricultural botany of the Agricultural Faculty at Sofia 1923-1936; professor of systematic botany and plant geography at the University of Sofia 1936-1961; later also director of the Botanical Institute of the Bulgarian Academy of Sciences. 
+**Abbreviated name**: *Stoj.*
 
 #### Herbarium and types
 

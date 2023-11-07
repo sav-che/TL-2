@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103861#page/61/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33266358) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breindl, Max (fl. 1934), German botanist from Lindenberg i. Allgäu, studied at the Ludwig-Maximilians-Universität zu München, Dr. phil. ib. 1934, student of M. Hirmer. (*Breindl*).
+Breindl, Max (fl. 1934), German botanist from Lindenberg i. Allgäu, studied at the Ludwig-Maximilians-Universität zu München, Dr. phil. ib. 1934, student of M. Hirmer. 
+**Abbreviated name**: *Breindl*
 
 #### Herbarium and types
 

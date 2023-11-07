@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103861#page/79/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33266376) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breton, André le (fl. 1876-1892), French mycologist at Rouen, one of the founders of the Société mycologique de France. (*A. Breton*).
+Breton, André le (fl. 1876-1892), French mycologist at Rouen, one of the founders of the Société mycologique de France. 
+**Abbreviated name**: *A. Breton*
 
 #### Herbarium and types
 

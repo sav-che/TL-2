@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103834#page/393/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33259875) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Francey, Pierre (1910-1944), Swiss botanist, born in Lausanne, studied at the Univ. of Lausanne, "lauré de l'Université" 1933, successor to Florian Cosandey (1897-1982) at Ste.-Croix (Vaud) 1934, worked on *Cestrum* in Berlin-Dahlem, returned to Lausanne in 1939, died 13 Jan 1944. (*Francey*).
+Francey, Pierre (1910-1944), Swiss botanist, born in Lausanne, studied at the Univ. of Lausanne, "lauré de l'Université" 1933, successor to Florian Cosandey (1897-1982) at Ste.-Croix (Vaud) 1934, worked on *Cestrum* in Berlin-Dahlem, returned to Lausanne in 1939, died 13 Jan 1944. 
+**Abbreviated name**: *Francey*
 
 #### Herbarium and types
 

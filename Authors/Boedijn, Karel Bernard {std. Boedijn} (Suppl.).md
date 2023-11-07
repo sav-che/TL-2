@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103859#page/256/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33265443) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boedijn, Karel Bernard {std. Boedijn}|first entry]] for this author
 
 ### Author
 
-\* Boedijn, Karel Bernard (1893-1964), Dutch (Amsterdam born) mycologist, studied biology at the University of Amsterdam 1915, assistant with Hugo de Vries 1916-1918, id. with T.J. Stomps 1918-1925, teacher's examination 1920, Dr. phil. biol. Amsterdam 1925, botanist at the A.V.R.O.S. general experiment station at Medan, Deli, Sumatra 1926-1927, mycologist at the Buitenzorg (Bogor) Herbarium 1928-1941, also extraordinary professor of botany at the Faculty of Medicine at Batavia (Djakarta) 1933-1941, with the Bogor herbarium and professor of botany at the Faculty of Bogor 1945-1958, returned to the Netherlands 1958 living at The Hague and frequently working at the Leiden Rijksherbarium. (*Boedijn*).
+\* Boedijn, Karel Bernard (1893-1964), Dutch (Amsterdam born) mycologist, studied biology at the University of Amsterdam 1915, assistant with Hugo de Vries 1916-1918, id. with T.J. Stomps 1918-1925, teacher's examination 1920, Dr. phil. biol. Amsterdam 1925, botanist at the A.V.R.O.S. general experiment station at Medan, Deli, Sumatra 1926-1927, mycologist at the Buitenzorg (Bogor) Herbarium 1928-1941, also extraordinary professor of botany at the Faculty of Medicine at Batavia (Djakarta) 1933-1941, with the Bogor herbarium and professor of botany at the Faculty of Bogor 1945-1958, returned to the Netherlands 1958 living at The Hague and frequently working at the Leiden Rijksherbarium. 
+**Abbreviated name**: *Boedijn*
 
 #### Herbarium and types
 

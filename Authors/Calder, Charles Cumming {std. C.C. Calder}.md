@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/103861#page/319/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33266616) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Calder, Charles Cumming (1884-1962), Scottish botanist, born at Edinkillie, Morayshire, studied at the University of Aberdeen, B.Sc. 1908, FLL 1912, assistant ib. with J.H.W. Trail 1908-1912, curator of the Herbarium Calcutta Botanic Gardens 1912-1923, director of the Botanical Survey of India 1923-1937, also superintendent of Cinchona cultivation in Bengal. (*C.C. Calder*).
+Calder, Charles Cumming (1884-1962), Scottish botanist, born at Edinkillie, Morayshire, studied at the University of Aberdeen, B.Sc. 1908, FLL 1912, assistant ib. with J.H.W. Trail 1908-1912, curator of the Herbarium Calcutta Botanic Gardens 1912-1923, director of the Botanical Survey of India 1923-1937, also superintendent of Cinchona cultivation in Bengal. 
+**Abbreviated name**: *C.C. Calder*
 
 #### Herbarium and types
 

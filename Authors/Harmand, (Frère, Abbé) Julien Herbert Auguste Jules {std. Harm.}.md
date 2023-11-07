@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103253#page/80/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33068296) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harmand, (Frère, Abbé) Julien Herbert Auguste Jules (1844-1915), French clergyman and lichenologist; ordin. Nancy 1868; teacher at the Collège de la Malgrange near Nancy and chaplain at the Institution des Sourds-Muets 1868-1901; in retirement at Docelles 1901-1915. (*Harm.*).
+Harmand, (Frère, Abbé) Julien Herbert Auguste Jules (1844-1915), French clergyman and lichenologist; ordin. Nancy 1868; teacher at the Collège de la Malgrange near Nancy and chaplain at the Institution des Sourds-Muets 1868-1901; in retirement at Docelles 1901-1915. 
+**Abbreviated name**: *Harm.*
 
 #### Herbarium and types
 

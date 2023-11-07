@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/item/103861#page/322/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33266619) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Calkins, Col. William Wirt {std. Calk.}|first entry]] for this author
 
 ### Author
 
-\* Calkins, William Wirt (1842-1914), American amateur mycologist, bryologist and lichenologist, born in Farm Ridge, La Salle County, Illinois, served in the civil war, entered business and law. (*Calk.*).
+\* Calkins, William Wirt (1842-1914), American amateur mycologist, bryologist and lichenologist, born in Farm Ridge, La Salle County, Illinois, served in the civil war, entered business and law. 
+**Abbreviated name**: *Calk.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103624#page/428/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33189885) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Probst, Rudolf (1885-1940), Swiss botanist and physician, studied medicine at Bern 1875-1881; practicing physician at Schaffhausen 1881-1900; from 1900 id. at Solothurn. (*Probst*).
+Probst, Rudolf (1885-1940), Swiss botanist and physician, studied medicine at Bern 1875-1881; practicing physician at Schaffhausen 1881-1900; from 1900 id. at Solothurn. 
+**Abbreviated name**: *Probst*
 
 #### Herbarium and types
 

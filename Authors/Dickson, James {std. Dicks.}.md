@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/item/103414#page/692/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33120775) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dickson, James {std. Dicks.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dickson, James (1738-1822), British nurseryman. (*Dickson*).
+Dickson, James (1738-1822), British nurseryman. 
+**Abbreviated name**: *Dickson*
 
 #### Herbarium and types
 

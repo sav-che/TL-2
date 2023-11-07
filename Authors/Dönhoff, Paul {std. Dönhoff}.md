@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103835#page/32/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33260010) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dönhoff, Paul (1901-x), German "Diplomlandwirt" at Alme in Westfalen, born 7 Jul 1901 ib., visited gymnasium at Brilon, Westf., Evang. Pädagogium at Godesberg, Rheinland and at the Realgymnasium at Witten, Ruhr, 1908-1919 as "Freiwilliger" in Posen and Schlesien, 1919-1921 at the Realgymnasium Witten, some time at Warburg, Westf., and University of Gießen, 1921-1923 at the agricultural highschool at Berlin, further working at the University of Halle until 1925, Dr. Naturwiss. Fak. University of Halle-Wittenberg. (*Dönhoff*).
+Dönhoff, Paul (1901-x), German "Diplomlandwirt" at Alme in Westfalen, born 7 Jul 1901 ib., visited gymnasium at Brilon, Westf., Evang. Pädagogium at Godesberg, Rheinland and at the Realgymnasium at Witten, Ruhr, 1908-1919 as "Freiwilliger" in Posen and Schlesien, 1919-1921 at the Realgymnasium Witten, some time at Warburg, Westf., and University of Gießen, 1921-1923 at the agricultural highschool at Berlin, further working at the University of Halle until 1925, Dr. Naturwiss. Fak. University of Halle-Wittenberg. 
+**Abbreviated name**: *Dönhoff*
 
 #### Herbarium and types
 

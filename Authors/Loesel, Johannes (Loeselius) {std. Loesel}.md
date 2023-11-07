@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/104137#page/157/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loesel, Johannes \[Loeselius\] (1607-1655), German botanist and physician; Dr. phil. Königsberg 1632; Dr. med. Leiden 1639, professor of medicine at Königsberg University 1639-1655. (*Loesel*).
+Loesel, Johannes \[Loeselius\] (1607-1655), German botanist and physician; Dr. phil. Königsberg 1632; Dr. med. Leiden 1639, professor of medicine at Königsberg University 1639-1655. 
+**Abbreviated name**: *Loesel*
 
 #### Herbarium and types
 

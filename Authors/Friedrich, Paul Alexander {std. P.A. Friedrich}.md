@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103832#page/25/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33258513) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Friedrich, Paul Alexander (1856-1918), German paleobotanist, born 4 Jun 1856 in Kreipa bei Halle, attended gymnasium in Halle and Eisenach, studied mathematics and natural sciences in Halle from 1875, Dr. phil. 1878 Halle, went to Berlin to study tertiary plants of Saxony, then to Lübeck as teacher at the Katharineum 1882, died 3 Feb 1918 in Lübeck. (*P.A. Friedrich*).
+Friedrich, Paul Alexander (1856-1918), German paleobotanist, born 4 Jun 1856 in Kreipa bei Halle, attended gymnasium in Halle and Eisenach, studied mathematics and natural sciences in Halle from 1875, Dr. phil. 1878 Halle, went to Berlin to study tertiary plants of Saxony, then to Lübeck as teacher at the Katharineum 1882, died 3 Feb 1918 in Lübeck. 
+**Abbreviated name**: *P.A. Friedrich*
 
 #### Note
 

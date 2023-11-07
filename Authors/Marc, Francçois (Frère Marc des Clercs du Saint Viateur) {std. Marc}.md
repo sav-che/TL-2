@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/104137#page/301/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33355372) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marc, Francçois \[Frère Marc des Clercs du Saint Viateur\] (1862-1912), French clergyman, lichenologist and bryologist. (*Marc*).
+Marc, Francçois \[Frère Marc des Clercs du Saint Viateur\] (1862-1912), French clergyman, lichenologist and bryologist. 
+**Abbreviated name**: *Marc*
 
 #### Herbarium and types
 

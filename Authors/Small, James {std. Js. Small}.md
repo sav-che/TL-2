@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/104077#page/663/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33333788) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Small, James (1889-1955), British botanist; B.Sc. London 1913; M.Sc. ib. 1916; lecturer at Armstrong College; on active service 1914-1916; lecturer in botany, Bedford College, London 1916-1920; Dr. sci. London Univ. 1919; professor of botany Queen's Univ., Belfast 1920-1954. (*Js. Small*).
+Small, James (1889-1955), British botanist; B.Sc. London 1913; M.Sc. ib. 1916; lecturer at Armstrong College; on active service 1914-1916; lecturer in botany, Bedford College, London 1916-1920; Dr. sci. London Univ. 1919; professor of botany Queen's Univ., Belfast 1920-1954. 
+**Abbreviated name**: *Js. Small*
 
 #### Herbarium and types
 

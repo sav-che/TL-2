@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/item/103833#page/101/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33259135) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daveau, Jules Alexandre (1852-1929), French botanist, plant collector and working in botanical gardens, from 1868 at the garden of the Muséum Histoire naturelle, sent to Cyrenaica for collecting 1875, some time also at the botanical garden of Lissabon, from 1893-1929 curator of the botanical garden of Montpellier, in the latter mainly working at the adventitious plants. (*Daveau*).
+Daveau, Jules Alexandre (1852-1929), French botanist, plant collector and working in botanical gardens, from 1868 at the garden of the Muséum Histoire naturelle, sent to Cyrenaica for collecting 1875, some time also at the botanical garden of Lissabon, from 1893-1929 curator of the botanical garden of Montpellier, in the latter mainly working at the adventitious plants. 
+**Abbreviated name**: *Daveau*
 
 #### Herbarium and types
 

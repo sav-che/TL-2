@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/item/103624#page/669/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33190126) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rehmann, Anton (1840-1917), Austrian botanist and geographer at Krakau (until 1882); Dr. phil. Krakau 1864; collected and travelled in Southern Russia (1868) and in Natal and Transvaal (1875-1877, 1879-1880); professor of geography at Lemberg (Lwow) from 1882. (*Rehmann*).
+Rehmann, Anton (1840-1917), Austrian botanist and geographer at Krakau (until 1882); Dr. phil. Krakau 1864; collected and travelled in Southern Russia (1868) and in Natal and Transvaal (1875-1877, 1879-1880); professor of geography at Lemberg (Lwow) from 1882. 
+**Abbreviated name**: *Rehmann*
 
 #### Herbarium and types
 

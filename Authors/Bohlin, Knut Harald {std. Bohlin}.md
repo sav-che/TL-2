@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103414#page/301/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bohlin, Knut Harald {std. Bohlin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bohlin, Knut Harald (1869-x), Swedish highschool teacher and algologist. (*Bohlin*).
+Bohlin, Knut Harald (1869-x), Swedish highschool teacher and algologist. 
+**Abbreviated name**: *Bohlin*
 
 #### Herbarium and types
 

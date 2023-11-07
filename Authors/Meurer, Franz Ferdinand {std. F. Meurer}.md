@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/104137#page/452/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meurer, Franz Ferdinand (1809-1882), German lawyer, administrator, Regierungsrat, entomologist and botanist at Rudolstadt. (*F. Meurer*).
+Meurer, Franz Ferdinand (1809-1882), German lawyer, administrator, Regierungsrat, entomologist and botanist at Rudolstadt. 
+**Abbreviated name**: *F. Meurer*
 
 #### Herbarium and types
 

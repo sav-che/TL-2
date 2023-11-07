@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/104137#page/770/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nilsson, Gunnar Bror Fritiof (from 1932: Nilsson-Degelius, G. B. F., from 1933 Degelius, G. B. F.) (1903-x), Swedish botanist; Dr. phil. Uppsala 1935; physiologist and lichenologist at the plant physiological institute of Uppsala University. (*G. Nilsson, Degel.*).
+Nilsson, Gunnar Bror Fritiof (from 1932: Nilsson-Degelius, G. B. F., from 1933 Degelius, G. B. F.) (1903-x), Swedish botanist; Dr. phil. Uppsala 1935; physiologist and lichenologist at the plant physiological institute of Uppsala University. 
+**Abbreviated name**: *G. Nilsson*, *Degel.*
 
 #### Herbarium and types
 

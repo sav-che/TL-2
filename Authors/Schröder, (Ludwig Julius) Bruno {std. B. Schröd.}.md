@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/104077#page/351/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33333476) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schröder, \[Ludwig Julius\] Bruno (1867-1928), German (Silesian) phycologist and general hydrobiologist at Breslau. (*B. Schröd.*).
+Schröder, \[Ludwig Julius\] Bruno (1867-1928), German (Silesian) phycologist and general hydrobiologist at Breslau. 
+**Abbreviated name**: *B. Schröd.*
 
 #### Herbarium and types
 

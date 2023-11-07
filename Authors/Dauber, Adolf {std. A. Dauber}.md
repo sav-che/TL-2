@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103833#page/98/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dauber, Adolf (fl. 1892), German teacher, professor at the Gymnasium at Helmstedt. (*A. Dauber*).
+Dauber, Adolf (fl. 1892), German teacher, professor at the Gymnasium at Helmstedt. 
+**Abbreviated name**: *A. Dauber*
 
 #### Herbarium and types
 

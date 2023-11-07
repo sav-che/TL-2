@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103414#page/213/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33120296) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Béhéré, Jean Baptiste Joseph {std. Béhéré} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Béhéré, Jean Baptiste Joseph (1763-1840), French teacher and naturalist at Rouen. (*Béhéré*).
+Béhéré, Jean Baptiste Joseph (1763-1840), French teacher and naturalist at Rouen. 
+**Abbreviated name**: *Béhéré*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/item/103253#page/551/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33068767) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kerner von Marilaun, Anton Joseph, Ritter (1831-1898); Austrian botanist, Dr. med. Wien 1854; high school teacher at Budapest 1855-1858, at the Polytechnic 1858-1860; director of the Innsbruck (1860-1878), and of the Vienna botanical garden (1878-1898); outstanding floristic botanist, plant geographer and popular writer. (*A. Kern*).
+Kerner von Marilaun, Anton Joseph, Ritter (1831-1898); Austrian botanist, Dr. med. Wien 1854; high school teacher at Budapest 1855-1858, at the Polytechnic 1858-1860; director of the Innsbruck (1860-1878), and of the Vienna botanical garden (1878-1898); outstanding floristic botanist, plant geographer and popular writer. 
+**Abbreviated name**: *A. Kern*
 
 #### Herbarium and types
 

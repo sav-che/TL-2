@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103414#page/215/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beijerinck, Willem {std. W. Beij.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Beijerinck, Willem (1891-1960), Dutch botanist, founder of the Biological Station at Wijster (Drente). (*W. Beijerinck*).
+Beijerinck, Willem (1891-1960), Dutch botanist, founder of the Biological Station at Wijster (Drente). 
+**Abbreviated name**: *W. Beijerinck*
 
 #### Types
 

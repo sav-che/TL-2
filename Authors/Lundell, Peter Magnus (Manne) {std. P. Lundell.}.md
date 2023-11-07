@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/104137#page/211/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33355282) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lundell, Peter Magnus \[Manne\] (1841-1930), Swedish botanist (algologist); Fil. kand. Uppsala 1872; teacher at Jakobs I. läroverket (1882) 1883-1908, Stockholm. (*P. Lundell.*).
+Lundell, Peter Magnus \[Manne\] (1841-1930), Swedish botanist (algologist); Fil. kand. Uppsala 1872; teacher at Jakobs I. läroverket (1882) 1883-1908, Stockholm. 
+**Abbreviated name**: *P. Lundell.*
 
 #### Herbarium and types
 

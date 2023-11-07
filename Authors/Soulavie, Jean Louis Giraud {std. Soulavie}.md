@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/item/104077#page/770/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soulavie, Jean Louis Giraud (1752-1813), French naturalist diplomate, historian, and clergyman; before the French revolution Roman catholic priest at Nîmes, later vicar at Châlons and deputy for the clergy in the États-généraux; later in Geneva as French resident minister for the Jacobines. (*Soulavie*).
+Soulavie, Jean Louis Giraud (1752-1813), French naturalist diplomate, historian, and clergyman; before the French revolution Roman catholic priest at Nîmes, later vicar at Châlons and deputy for the clergy in the États-généraux; later in Geneva as French resident minister for the Jacobines. 
+**Abbreviated name**: *Soulavie*
 
 #### Herbarium and types
 

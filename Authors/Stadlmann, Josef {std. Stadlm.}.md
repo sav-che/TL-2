@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/item/104077#page/840/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33333965) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stadlmann, Josef (1881-x), Austrian botanist and high school teacher; Dr. phil. Wien 1907, Student of Richard Wettstein; later director of the Bundes-Gymnasium, Wien xii. (*Stadlm.*).
+Stadlmann, Josef (1881-x), Austrian botanist and high school teacher; Dr. phil. Wien 1907, Student of Richard Wettstein; later director of the Bundes-Gymnasium, Wien xii. 
+**Abbreviated name**: *Stadlm.*
 
 #### Herbarium and types
 

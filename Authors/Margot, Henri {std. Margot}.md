@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/104137#page/309/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33355380) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Margot, Henri (1807-1894), Swiss teacher and botanist, pupil of A. P. de Candolle; B.Sc. Genève 1829; teacher with count Messala at Zante (Ionian isles) 1834-1837; from 1837-1839 at Valleyres; from 1839-1855 high school teacher at Vevey; from 1855-1873 id. at the Collège cantonal of Lausanne. (*Margot*).
+Margot, Henri (1807-1894), Swiss teacher and botanist, pupil of A. P. de Candolle; B.Sc. Genève 1829; teacher with count Messala at Zante (Ionian isles) 1834-1837; from 1837-1839 at Valleyres; from 1839-1855 high school teacher at Vevey; from 1855-1873 id. at the Collège cantonal of Lausanne. 
+**Abbreviated name**: *Margot*
 
 #### Herbarium and types
 

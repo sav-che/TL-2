@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/item/103859#page/289/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33265476) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boissier, Pierre Edmond {std. Boiss.}|first entry]] for this author
 
 ### Author
 
-\* Boissier, Pierre-Edmond (1810-1885), Swiss botanist and traveller, Geneva born, educated at home with a private teacher (J.L. Vallette), studied at the Académie \[University\] de Genève, student with Auguste-Pyramus de Candolle, studied in Paris 1831-1832 with J. Gay and Ph.-Barker Webb, travelled and botanized in Italy 1833, idem in Spain 1837, in S.E. Europe 1842, in Egypt, Arabia petraea, Palestine and Syria 1846, in Algeria 1849, in Norway 1861, built up a large herbarium, later called Herbier Boissier. (*Boiss.*).
+\* Boissier, Pierre-Edmond (1810-1885), Swiss botanist and traveller, Geneva born, educated at home with a private teacher (J.L. Vallette), studied at the Académie \[University\] de Genève, student with Auguste-Pyramus de Candolle, studied in Paris 1831-1832 with J. Gay and Ph.-Barker Webb, travelled and botanized in Italy 1833, idem in Spain 1837, in S.E. Europe 1842, in Egypt, Arabia petraea, Palestine and Syria 1846, in Algeria 1849, in Norway 1861, built up a large herbarium, later called Herbier Boissier. 
+**Abbreviated name**: *Boiss.*
 
 #### Herbarium and types
 

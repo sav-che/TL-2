@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103414#page/267/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33120350) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bischoff, Gottlieb Wilhelm {std. Bisch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bischoff, Gottlieb Wilhelm (1797-1854), German botanist, lexicographer and glossographer at Heidelberg. (*Bisch.*).
+Bischoff, Gottlieb Wilhelm (1797-1854), German botanist, lexicographer and glossographer at Heidelberg. 
+**Abbreviated name**: *Bisch.*
 
 #### Herbarium and types
 

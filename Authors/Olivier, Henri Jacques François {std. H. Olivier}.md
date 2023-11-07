@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/item/104137#page/847/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33355918) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Olivier, Henri Jacques François (1849-1923), French clergyman and lichenologist; ord. 1874; stationed at Bazoches-en-Houlme, Autheuil, Bivilliers; from 1892 retired at Bazoches. (*H. Olivier*).
+Olivier, Henri Jacques François (1849-1923), French clergyman and lichenologist; ord. 1874; stationed at Bazoches-en-Houlme, Autheuil, Bivilliers; from 1892 retired at Bazoches. 
+**Abbreviated name**: *H. Olivier*
 
 #### Herbarium and types
 

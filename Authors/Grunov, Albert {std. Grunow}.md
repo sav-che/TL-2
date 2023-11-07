@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/item/103414#page/1065/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/page/33121148) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grunow (Grunov), Albert {std. Grunow} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Grunov, Albert (1826-1914), German chemist working in Austria, amateur diatomologist. (*Grunov*).
+Grunov, Albert (1826-1914), German chemist working in Austria, amateur diatomologist. 
+**Abbreviated name**: *Grunov*
 
 #### Herbarium and types
 

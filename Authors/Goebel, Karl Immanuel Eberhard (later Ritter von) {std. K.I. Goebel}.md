@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 963](https://www.biodiversitylibrary.org/item/103414#page/1011/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 963](https://www.biodiversitylibrary.org/page/33121094) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Goebel, Karl (Immanuel Eberhard) (later Ritter von) {std. K.I. Goebel} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Goebel, Karl Immanuel Eberhard (later: Ritter von) (1855-1932), German morphologist. (*K. I. Goebel*).
+Goebel, Karl Immanuel Eberhard (later: Ritter von) (1855-1932), German morphologist. 
+**Abbreviated name**: *K. I. Goebel*
 
 #### Herbarium and types
 

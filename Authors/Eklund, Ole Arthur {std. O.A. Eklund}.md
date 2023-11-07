@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103835#page/301/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33260279) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eklund, Ole Arthur (1899-1946), Finnish botanist, born 11 Mar 1899, Korppoo, died 2 Nov 1946, Helsinki, student 1916, Mag. phil. 1925, promotion 1931, 1933-1946 docent at the University of Helsinki. (*O.A. Eklund*).
+Eklund, Ole Arthur (1899-1946), Finnish botanist, born 11 Mar 1899, Korppoo, died 2 Nov 1946, Helsinki, student 1916, Mag. phil. 1925, promotion 1931, 1933-1946 docent at the University of Helsinki. 
+**Abbreviated name**: *O.A. Eklund*
 
 #### Herbarium and types
 

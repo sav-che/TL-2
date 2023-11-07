@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/item/103414#page/917/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33121000) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Franchet, Adrien René {std. Franch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Franchet, Adrien René (1834-1900), French botanist working at the Museum d'Histoire naturelle at Paris. (*Franch.*).
+Franchet, Adrien René (1834-1900), French botanist working at the Museum d'Histoire naturelle at Paris. 
+**Abbreviated name**: *Franch.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103858#page/163/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33264878) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Arduino, Luigi (1759-1834), Italian botanist at Padova, son of Pietro Arduino. (*L. Ard.*).
+Arduino, Luigi (1759-1834), Italian botanist at Padova, son of Pietro Arduino. 
+**Abbreviated name**: *L. Ard.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103832#page/396/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33258862) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grier, Norman MacDowell \[McDowell\] (1890-1951), American biologist, malacologist and psychologist, born 13 Jun 1890 in Pittsburgh, Penn., B.S. 1911, A.M. 1912 and Ph.D. 1919 Univ. of Pittsburgh, Asst., Carnegie Museum, Pittsburgh 1914-1916, Prof. of Biology or Evolution at several colleges and research institutes 1920s-1930s, incl. Washington & Jefferson College, Washington, Penn., Dartmouth College, Hanover, New Hampshire, Cold Spring Harbor, New York, Elizabethtown College, Elizabethtown, Penn. and Wagner College, Staten Island, New York, State Social Security Board (Penn.) from1937, died 26 Dec 1951 in Lebanon, Penn. (*N.M. Grier*).
+Grier, Norman MacDowell \[McDowell\] (1890-1951), American biologist, malacologist and psychologist, born 13 Jun 1890 in Pittsburgh, Penn., B.S. 1911, A.M. 1912 and Ph.D. 1919 Univ. of Pittsburgh, Asst., Carnegie Museum, Pittsburgh 1914-1916, Prof. of Biology or Evolution at several colleges and research institutes 1920s-1930s, incl. Washington & Jefferson College, Washington, Penn., Dartmouth College, Hanover, New Hampshire, Cold Spring Harbor, New York, Elizabethtown College, Elizabethtown, Penn. and Wagner College, Staten Island, New York, State Social Security Board (Penn.) from1937, died 26 Dec 1951 in Lebanon, Penn. 
+**Abbreviated name**: *N.M. Grier*
 
 #### Herbarium and types
 

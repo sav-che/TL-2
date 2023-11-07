@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/item/103832#page/364/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33258830) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Green, C\[onrad\]. Theodore (1863-1940), English physician and amateur botanist, born 18 Nov 1863 in Helme (Yorks.), M.B. 1887 London, Member Royal College of Surgeons, F.L.S. 1901, president, Liverpool Bot. Soc. 1934, died 17 Apr 1940 in Birkenhead (Cheshire.). (*C.T. Green*).
+Green, C\[onrad\]. Theodore (1863-1940), English physician and amateur botanist, born 18 Nov 1863 in Helme (Yorks.), M.B. 1887 London, Member Royal College of Surgeons, F.L.S. 1901, president, Liverpool Bot. Soc. 1934, died 17 Apr 1940 in Birkenhead (Cheshire.). 
+**Abbreviated name**: *C.T. Green*
 
 #### Herbarium and types
 

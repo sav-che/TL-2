@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103833#page/66/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33259100) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daniell, William Freeman (1818-1865), British pharmacist and botanist, born at Liverpool, England, surgeon in the army on the coast of W. Africa 1841-1853, also in West India and China in 1860, died 26 Jun 1865 at Southampton. (*Daniell*).
+Daniell, William Freeman (1818-1865), British pharmacist and botanist, born at Liverpool, England, surgeon in the army on the coast of W. Africa 1841-1853, also in West India and China in 1860, died 26 Jun 1865 at Southampton. 
+**Abbreviated name**: *Daniell*
 
 #### Herbarium and types
 

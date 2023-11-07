@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103624#page/183/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33189640) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perreymond, Jean Honoré (1794-1843), French botanist, school inspector and music composer at Fréjus. (*Perreymond*).
+Perreymond, Jean Honoré (1794-1843), French botanist, school inspector and music composer at Fréjus. 
+**Abbreviated name**: *Perreymond*
 
 #### Herbarium and types
 

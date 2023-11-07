@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/item/103835#page/98/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33260076) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drake-Brockman, Ralph Evelyn (1875-x), British physician, specialized in tropical diseases, served as medical officer colonel in Somaliland 1904-1915, after the world war physician in London, collected extensively plants during his stay in Somaliland and Ethiopia. (*Drake-Brockman*).
+Drake-Brockman, Ralph Evelyn (1875-x), British physician, specialized in tropical diseases, served as medical officer colonel in Somaliland 1904-1915, after the world war physician in London, collected extensively plants during his stay in Somaliland and Ethiopia. 
+**Abbreviated name**: *Drake-Brockman*
 
 #### Herbarium and types
 

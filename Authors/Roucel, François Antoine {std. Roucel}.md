@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/item/103624#page/947/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33190404) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roucel, François Antoine (1736-1831), Belgian (Baden-born) botanist; town physician of Aalst (Flanders, Belgium) from 1777. (*Roucel*).
+Roucel, François Antoine (1736-1831), Belgian (Baden-born) botanist; town physician of Aalst (Flanders, Belgium) from 1777. 
+**Abbreviated name**: *Roucel*
 
 #### Herbarium and types
 

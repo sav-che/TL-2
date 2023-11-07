@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/item/103414#page/705/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33120788) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dillwyn, Lewis Weston {std. Dillwyn} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dillwyn, Lewis Weston (1778-1855), British naturalist, porcelain manufacturer and county magistrate. (*Dillwyn*).
+Dillwyn, Lewis Weston (1778-1855), British naturalist, porcelain manufacturer and county magistrate. 
+**Abbreviated name**: *Dillwyn*
 
 #### Herbarium and types
 

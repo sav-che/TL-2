@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103834#page/273/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259755) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flemwell, George Jackson (1865-1928), English artist and amateur botanist, born 29 Mai 1865 in Mitcham (Surrey), studied painting in England, Belgium and Germany, exhibited regularly at the Royal Academy but moved to Switzerland where he devoted himself to the flora of the Swiss Alps, died 6 Mar 1928 in Lugano, Switzerland. (*Flemwell*).
+Flemwell, George Jackson (1865-1928), English artist and amateur botanist, born 29 Mai 1865 in Mitcham (Surrey), studied painting in England, Belgium and Germany, exhibited regularly at the Royal Academy but moved to Switzerland where he devoted himself to the flora of the Swiss Alps, died 6 Mar 1928 in Lugano, Switzerland. 
+**Abbreviated name**: *Flemwell*
 
 #### Herbarium and types
 

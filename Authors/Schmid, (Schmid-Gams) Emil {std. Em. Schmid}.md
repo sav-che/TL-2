@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/item/104077#page/249/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmid, \[Schmid-Gams\] Emil (1891-x), German (Württemberg) botanist; Dr. phil. Zürich 1923; curator at the Botanical Museum, Univ. Zürich; professor of botany at the University of Zürich 1936-1961. (*Em. Schmid*).
+Schmid, \[Schmid-Gams\] Emil (1891-x), German (Württemberg) botanist; Dr. phil. Zürich 1923; curator at the Botanical Museum, Univ. Zürich; professor of botany at the University of Zürich 1936-1961. 
+**Abbreviated name**: *Em. Schmid*
 
 #### Herbarium and types
 

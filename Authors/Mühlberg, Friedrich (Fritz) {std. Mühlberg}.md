@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/item/104137#page/629/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33355700) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mühlberg, Friedrich ("Fritz") (1840-1915), Swiss botanist and geologist; studied at Zürich; high school teacher at Zug (Aargau) 1862-1865; from 1865-1911 id. in Aarau; Dr. phil. h.c. Basel 1888. (*Mühlberg*).
+Mühlberg, Friedrich ("Fritz") (1840-1915), Swiss botanist and geologist; studied at Zürich; high school teacher at Zug (Aargau) 1862-1865; from 1865-1911 id. in Aarau; Dr. phil. h.c. Basel 1888. 
+**Abbreviated name**: *Mühlberg*
 
 #### Herbarium and types
 

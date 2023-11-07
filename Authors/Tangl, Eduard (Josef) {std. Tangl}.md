@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103683#page/172/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33212204) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tangl, Eduard \[Josef\] (1848-1905), Austrian botanist; Dr. phil. Lemberg \[Lwow\] 1870; habil. ib. 1871; with the Agricultural College at Dublany nr Lemberg 1871; extraordinary professor of botany at the Franz Joseph University of Czernowitz (Bukowina) 1876, ordinary professor ib. 1881. (*Tangl*).
+Tangl, Eduard \[Josef\] (1848-1905), Austrian botanist; Dr. phil. Lemberg \[Lwow\] 1870; habil. ib. 1871; with the Agricultural College at Dublany nr Lemberg 1871; extraordinary professor of botany at the Franz Joseph University of Czernowitz (Bukowina) 1876, ordinary professor ib. 1881. 
+**Abbreviated name**: *Tangl*
 
 #### Herbarium and types
 

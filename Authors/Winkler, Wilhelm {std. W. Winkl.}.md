@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/item/103250#page/438/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33066718) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winkler, Wilhelm (1842-1927), German (Silesian) teacher and botanist; teacher at Schreiberhau (Siles.) 1861-1903; in retirement at Görlitz; student of the flora of Sudetenland, of folklore and history of Silesia, and reformer of the local schoolsystem. (*W. Winkl.*).
+Winkler, Wilhelm (1842-1927), German (Silesian) teacher and botanist; teacher at Schreiberhau (Siles.) 1861-1903; in retirement at Görlitz; student of the flora of Sudetenland, of folklore and history of Silesia, and reformer of the local schoolsystem. 
+**Abbreviated name**: *W. Winkl.*
 
 #### Herbarium and types
 

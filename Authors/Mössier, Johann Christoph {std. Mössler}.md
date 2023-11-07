@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/item/104137#page/554/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33355625) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mössier, Johann Christoph (*fl*. 1815), German teacher and botanist; in Hamburg 1804-1806. (*Mössler*).
+Mössier, Johann Christoph (*fl*. 1815), German teacher and botanist; in Hamburg 1804-1806. 
+**Abbreviated name**: *Mössler*
 
 #### Herbarium and types
 

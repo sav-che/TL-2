@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/item/103250#page/418/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33066698) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wimmer, Franz Elfried (1881-1961), Austrian botanist and roman-catholic clergyman; studied theology and natural sciences at the Universities of Vienna and Graz; ordained priest 1907; professor of natural history at St. George's College, Istanbul 1905-1918; priest at several localities in and around Vienna 1918-1958, also unofficial research associate of the Vienna Natural History Museum, ultimately "correspondent" of that institution. (*F.E. Wimm.*).
+Wimmer, Franz Elfried (1881-1961), Austrian botanist and roman-catholic clergyman; studied theology and natural sciences at the Universities of Vienna and Graz; ordained priest 1907; professor of natural history at St. George's College, Istanbul 1905-1918; priest at several localities in and around Vienna 1918-1958, also unofficial research associate of the Vienna Natural History Museum, ultimately "correspondent" of that institution. 
+**Abbreviated name**: *F.E. Wimm.*
 
 #### Herbarium and types
 

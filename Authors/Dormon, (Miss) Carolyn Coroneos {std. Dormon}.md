@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103835#page/70/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33260048) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dormon, \[Miss\] Carolyn Coroneos (1889-?), American botanist, botanical artist and horticulturist, lived in Baton Rouge and Garden City, N.Y. (*Dormon*).
+Dormon, \[Miss\] Carolyn Coroneos (1889-?), American botanist, botanical artist and horticulturist, lived in Baton Rouge and Garden City, N.Y. 
+**Abbreviated name**: *Dormon*
 
 #### Herbarium and types
 

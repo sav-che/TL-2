@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103859#page/232/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33265419) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blomqvist, Anton Gabriel (1836-1904), Finnish forester and botanist, studied at the University of Helsinki 1852, Dr. phil. h.c. ib. 1897, with the Finnish forestry institute at Evois 1861-1903. (*A.G. Blomq.*).
+Blomqvist, Anton Gabriel (1836-1904), Finnish forester and botanist, studied at the University of Helsinki 1852, Dr. phil. h.c. ib. 1897, with the Finnish forestry institute at Evois 1861-1903. 
+**Abbreviated name**: *A.G. Blomq.*
 
 #### Herbarium and types
 

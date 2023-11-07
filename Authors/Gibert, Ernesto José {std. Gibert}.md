@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103832#page/213/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33258679) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gibert, Ernesto José (1818-1886), French republican, botanist and photographer, born 3 Apr 1818 in Nogent-le-Rotrou (and almost certainly as "Ernest Joseph"), studied in Amiens, then Paris, worked as a newspaper editor but his political beliefs compelled him to flee France after the Jun 1848 uprising that ultimately led to the Second Empire (1852-1870), exiled first in the U.S.A. (Calif.) and then in Chile where he began to study natural history, after joining an exped. to study the flora of Paraguay he settled in Montevideo, Uruguay 1851, collected plants in Uruguay, neighboring Brazil and Paraguay, died 8 Mar 1886 in Montevideo. (*Gibert*).
+Gibert, Ernesto José (1818-1886), French republican, botanist and photographer, born 3 Apr 1818 in Nogent-le-Rotrou (and almost certainly as "Ernest Joseph"), studied in Amiens, then Paris, worked as a newspaper editor but his political beliefs compelled him to flee France after the Jun 1848 uprising that ultimately led to the Second Empire (1852-1870), exiled first in the U.S.A. (Calif.) and then in Chile where he began to study natural history, after joining an exped. to study the flora of Paraguay he settled in Montevideo, Uruguay 1851, collected plants in Uruguay, neighboring Brazil and Paraguay, died 8 Mar 1886 in Montevideo. 
+**Abbreviated name**: *Gibert*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/item/104137#page/557/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33355628) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mohl, Hugo von (1805-1872), German botanist; Dr. phil. Tübingen 1827; 1828-1831 physician at München; 1832 professor of physiology at Bern; 1835 professor of history at the University of Tübingen; outstanding plant anatomist and physiologist. (*Mohl*).
+Mohl, Hugo von (1805-1872), German botanist; Dr. phil. Tübingen 1827; 1828-1831 physician at München; 1832 professor of physiology at Bern; 1835 professor of history at the University of Tübingen; outstanding plant anatomist and physiologist. 
+**Abbreviated name**: *Mohl*
 
 #### Herbarium and types
 

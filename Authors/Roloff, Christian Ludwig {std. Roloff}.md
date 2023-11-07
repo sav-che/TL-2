@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/item/103624#page/888/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roloff, Christian Ludwig (1726-1800), German (Prussian) botanist at Berlin. (*Roloff*).
+Roloff, Christian Ludwig (1726-1800), German (Prussian) botanist at Berlin. 
+**Abbreviated name**: *Roloff*
 
 #### Herbarium and types
 

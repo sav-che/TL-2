@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/item/103833#page/96/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33259130) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daubenmire, Rexford F. (1909-x), American botanist, born at Coldwater, Ohio, studied at Butler University 1930 B.S., M.C. 1932 at University of Colorado, Ph.D. (botany) 1935 University of Minnesota, acting assistant at Idaho University 1935, associate professor at Washington State University 1936, 1950 full professor. (*Daubenmire*).
+Daubenmire, Rexford F. (1909-x), American botanist, born at Coldwater, Ohio, studied at Butler University 1930 B.S., M.C. 1932 at University of Colorado, Ph.D. (botany) 1935 University of Minnesota, acting assistant at Idaho University 1935, associate professor at Washington State University 1936, 1950 full professor. 
+**Abbreviated name**: *Daubenmire*
 
 #### Herbarium and types
 

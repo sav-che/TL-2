@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/item/103414#page/877/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33120960) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fielding, Henry Barron (1805-1851), British botanist who assembled an important herbarium. (*Fielding*).
+Fielding, Henry Barron (1805-1851), British botanist who assembled an important herbarium. 
+**Abbreviated name**: *Fielding*
 
 #### Herbarium and types
 

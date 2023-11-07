@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103858#page/371/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33265086) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bartsch, Eugen (1857-?), German (Cracow-born) botanist moved to Breslau (Wroclaw) 1861, educated at the Realschule I. Ordnung "zum heiligen Geist", Breslau 1863-1877, studied botany at the University of Breslau, especially with F. Cohn, Dr. phil. Breslau 1882. (*E. Bartsch*).
+Bartsch, Eugen (1857-?), German (Cracow-born) botanist moved to Breslau (Wroclaw) 1861, educated at the Realschule I. Ordnung "zum heiligen Geist", Breslau 1863-1877, studied botany at the University of Breslau, especially with F. Cohn, Dr. phil. Breslau 1882. 
+**Abbreviated name**: *E. Bartsch*
 
 #### Herbarium and types
 

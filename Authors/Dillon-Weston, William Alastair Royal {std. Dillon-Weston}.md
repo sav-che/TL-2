@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/103833#page/352/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dillon-Weston, William Alastair Royal (1899-1953), British botanist, born at Bristol 28 Jun 1899, died Suffolk 20 Aug 1953, studied at Cambridge School of Agriculture, M.A. Cantab. 1928, Ph.D. 1929, mycologist at the School of Agriculture 1923-1946, plant pathologist, Eastern Province, Ministry of Agriculture 1946-1953. (*Dillon-Weston*).
+Dillon-Weston, William Alastair Royal (1899-1953), British botanist, born at Bristol 28 Jun 1899, died Suffolk 20 Aug 1953, studied at Cambridge School of Agriculture, M.A. Cantab. 1928, Ph.D. 1929, mycologist at the School of Agriculture 1923-1946, plant pathologist, Eastern Province, Ministry of Agriculture 1946-1953. 
+**Abbreviated name**: *Dillon-Weston*
 
 #### Herbarium and types
 

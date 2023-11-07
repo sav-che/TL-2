@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103859#page/185/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33265372) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bischoff, Gottlieb Wilhelm {std. Bisch.}|first entry]] for this author
 
 ### Author
 
-\* Bischoff, Gottlieb Wilhelm (1797-1854), German (Pfalz) botanist and pharmacist, educated at the Gymnasium zu Dürkheim an der Haardt 1805-1812, with his uncle F.D. Rettig in Kaiserslautern 1812-1826, studied pharmacy with his father 1816-1819, studied at the Academie der bildenden Künste in München 1819, assistant in his father's pharmacy 1819-1821, studied pharmacy at the University of Erlangen 1821, idem at München 1822-1823, also in contact with C.Ph. Martius and F. Nees von Esenbeck, pharmaceutical examination in München 1823, Dr. pharm. Erlangen in absentia 1823, teacher at a secondary school in Heidelberg 1823-1825, lecturer at Heidelberg University 1825-1833, id. extraordinary professor 1833, full professor 1839, also director of the botanical garden 1847. (*Bisch.*).
+\* Bischoff, Gottlieb Wilhelm (1797-1854), German (Pfalz) botanist and pharmacist, educated at the Gymnasium zu Dürkheim an der Haardt 1805-1812, with his uncle F.D. Rettig in Kaiserslautern 1812-1826, studied pharmacy with his father 1816-1819, studied at the Academie der bildenden Künste in München 1819, assistant in his father's pharmacy 1819-1821, studied pharmacy at the University of Erlangen 1821, idem at München 1822-1823, also in contact with C.Ph. Martius and F. Nees von Esenbeck, pharmaceutical examination in München 1823, Dr. pharm. Erlangen in absentia 1823, teacher at a secondary school in Heidelberg 1823-1825, lecturer at Heidelberg University 1825-1833, id. extraordinary professor 1833, full professor 1839, also director of the botanical garden 1847. 
+**Abbreviated name**: *Bisch.*
 
 #### Herbarium and types
 

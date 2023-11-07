@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/item/103683#page/734/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33212766) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vicat, Philippe Rodolphe (1720-1783), Swiss physician and botanist at Lausanne. (*Vicat*).
+Vicat, Philippe Rodolphe (1720-1783), Swiss physician and botanist at Lausanne. 
+**Abbreviated name**: *Vicat*
 
 #### Herbarium and types
 

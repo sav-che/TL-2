@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/item/103414#page/329/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33120412) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bornet, (Jean-Baptiste-) Édouard {std. Bornet} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bornet, Jean-Baptiste Édouard (1828-1911), French botanist. (*Born.*).
+Bornet, Jean-Baptiste Édouard (1828-1911), French botanist. 
+**Abbreviated name**: *Born.*
 
 #### Herbarium and types
 

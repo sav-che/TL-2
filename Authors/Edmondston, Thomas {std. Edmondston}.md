@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/item/103414#page/771/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33120854) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edmondston, Thomas (1825-1846), Scottish botanist, naturalist to H. M. S. Herald 1845/1846. (*Edmondston*).
+Edmondston, Thomas (1825-1846), Scottish botanist, naturalist to H. M. S. Herald 1845/1846. 
+**Abbreviated name**: *Edmondston*
 
 #### Herbarium and types
 

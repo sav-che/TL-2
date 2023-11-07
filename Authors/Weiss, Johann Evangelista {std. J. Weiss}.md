@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103250#page/229/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33066509) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weiss, Johann Evangelista (1850-1918), German (Bavarian) high school teacher and botanist; Dr. phil. 1876; Hattingen (Westfalen) 1877-1881; from 1883 lecturer (Privat-Dozent) at the University of München; assistant at the München herbarium 1888; connected with Bavarian station for phytopathology in Weinstephan and teacher at Freising from 1896. (*J. Weiss*).
+Weiss, Johann Evangelista (1850-1918), German (Bavarian) high school teacher and botanist; Dr. phil. 1876; Hattingen (Westfalen) 1877-1881; from 1883 lecturer (Privat-Dozent) at the University of München; assistant at the München herbarium 1888; connected with Bavarian station for phytopathology in Weinstephan and teacher at Freising from 1896. 
+**Abbreviated name**: *J. Weiss*
 
 #### Herbarium and types
 

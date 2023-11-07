@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/104137#page/215/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Luxford, George (1807-1854), British botanist, printer, editor and journalist in London; lecturer on botany at St. Thomas Hospital, 1846-1851. (*Luxf.*).
+Luxford, George (1807-1854), British botanist, printer, editor and journalist in London; lecturer on botany at St. Thomas Hospital, 1846-1851. 
+**Abbreviated name**: *Luxf.*
 
 #### Herbarium and types
 

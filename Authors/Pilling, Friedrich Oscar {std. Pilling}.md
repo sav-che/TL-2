@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103624#page/281/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pilling, Friedrich Oscar (1824-1897), German botanist and pomologist; high school teacher at Altenburg. (*Pilling*).
+Pilling, Friedrich Oscar (1824-1897), German botanist and pomologist; high school teacher at Altenburg. 
+**Abbreviated name**: *Pilling*
 
 #### Herbarium and types
 

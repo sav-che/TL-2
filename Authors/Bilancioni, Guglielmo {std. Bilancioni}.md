@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103859#page/174/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265361) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bilancioni, Guglielmo (1881-1935), Italian botanist. (*Bilancioni*).
+Bilancioni, Guglielmo (1881-1935), Italian botanist. 
+**Abbreviated name**: *Bilancioni*
 
 #### Herbarium and types
 

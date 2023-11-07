@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/item/103683#page/592/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33212624) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uline, Edwin Burton (1867-1933), American teacher and botanist; studied at Wabash College 1888-1891, at Indiana Univ. 1891-1893, AM 1893, instructor ib. 1892-1893; instructor in botany Lake Forest Univ. 1893-1895; at the University of Leipzig 1895, at Berlin Univ. 1896-1898; Dr. phil. Berlin 1897, student of A. Engler; assistant curator Field Museum 1899; id. Gray Herbarium 1900; superintendent of schools Mankato, Minn. 1899-1904, High School of Commerce, New York 1904-1906, principal of public schools in Brooklyn 1906-1930. (*Uline*).
+Uline, Edwin Burton (1867-1933), American teacher and botanist; studied at Wabash College 1888-1891, at Indiana Univ. 1891-1893, AM 1893, instructor ib. 1892-1893; instructor in botany Lake Forest Univ. 1893-1895; at the University of Leipzig 1895, at Berlin Univ. 1896-1898; Dr. phil. Berlin 1897, student of A. Engler; assistant curator Field Museum 1899; id. Gray Herbarium 1900; superintendent of schools Mankato, Minn. 1899-1904, High School of Commerce, New York 1904-1906, principal of public schools in Brooklyn 1906-1930. 
+**Abbreviated name**: *Uline*
 
 #### Herbarium and types
 

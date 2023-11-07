@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103834#page/227/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33259709) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fischer, Eduard {std. E. Fisch.}|first entry]] for this author
 
 ### Author
 
-\* Fischer, Eduard (1861-1939), Swiss mycologist, born 16 Jun 1861 in Bern, studied natural sciences at the universities of Bern and Strassburg, Dr. ès-sciences 1883 Strassburg, post-graduate study, Univ. of Berlin 1884-1885, extraord. prof. 1893 (succeeding his father Ludwig Fischer, 1828-1907), then prof. and dir. 1897-1933, all Institut et Jardin Botaniques, Univ. of Bern, elected rector 1910, Dr. h.c. 1931 Univ. of Geneva and 1939 Univ. of Basel, and numerous other honors, his many students also made contributions to systematic mycology, died 18 Nov 1939 in Bern. (*Ed. Fischer*).
+\* Fischer, Eduard (1861-1939), Swiss mycologist, born 16 Jun 1861 in Bern, studied natural sciences at the universities of Bern and Strassburg, Dr. ès-sciences 1883 Strassburg, post-graduate study, Univ. of Berlin 1884-1885, extraord. prof. 1893 (succeeding his father Ludwig Fischer, 1828-1907), then prof. and dir. 1897-1933, all Institut et Jardin Botaniques, Univ. of Bern, elected rector 1910, Dr. h.c. 1931 Univ. of Geneva and 1939 Univ. of Basel, and numerous other honors, his many students also made contributions to systematic mycology, died 18 Nov 1939 in Bern. 
+**Abbreviated name**: *Ed. Fischer*
 
 #### Herbarium and types
 

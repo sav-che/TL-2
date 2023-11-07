@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/item/103834#page/146/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259628) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fellman, Jacob \[Jaakko, Jakob\] Esaiaksenpoika (Rev.) (1795-1875), Finnish priest, ethnologist and naturalist, born 25 Mar 1795 in Rovaniemi, traveled in Lapland in his capacity as vicar of Utsjoki 1819-1832, in Lappajärvi 1832-1875, died 8 Mar 1875. (*J. Fellm.*).
+Fellman, Jacob \[Jaakko, Jakob\] Esaiaksenpoika (Rev.) (1795-1875), Finnish priest, ethnologist and naturalist, born 25 Mar 1795 in Rovaniemi, traveled in Lapland in his capacity as vicar of Utsjoki 1819-1832, in Lappajärvi 1832-1875, died 8 Mar 1875. 
+**Abbreviated name**: *J. Fellm.*
 
 #### Note
 

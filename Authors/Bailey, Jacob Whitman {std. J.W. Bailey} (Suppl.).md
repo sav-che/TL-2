@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/103858#page/276/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33264991) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bailey, Jacob Whitman {std. J.W. Bailey}|first entry]] for this author
 
 ### Author
 
-\* Bailey, Jacob Whitman (1811-1857), American teacher, cadet at West Point 1828, assistant professor of chemistry at West Point, 1834-1857, amateur botanist mainly interested in diatoms. (*J.W. Bailey*).
+\* Bailey, Jacob Whitman (1811-1857), American teacher, cadet at West Point 1828, assistant professor of chemistry at West Point, 1834-1857, amateur botanist mainly interested in diatoms. 
+**Abbreviated name**: *J.W. Bailey*
 
 #### Herbarium and types
 

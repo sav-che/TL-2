@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/item/104077#page/622/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33333747) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simon, Eugène \[Ernest\] (1871-1967). French botanist; studied law; governmental financial administrator at Rochefort 1890-1894, Pont-de-Salars, Aveyron 1894-1898, Vouneuil, Vienne 1898-1904, Gacé, Orne 1904-1906, Charroux, Vienne 1906-1908, Airvault, Deux-Sèvres 1908-1915, Montmorillon 1915-1926 and Tours 1926-1934; active amateur botanist, plant collector and archeologist. (*E. Simon*).
+Simon, Eugène \[Ernest\] (1871-1967). French botanist; studied law; governmental financial administrator at Rochefort 1890-1894, Pont-de-Salars, Aveyron 1894-1898, Vouneuil, Vienne 1898-1904, Gacé, Orne 1904-1906, Charroux, Vienne 1906-1908, Airvault, Deux-Sèvres 1908-1915, Montmorillon 1915-1926 and Tours 1926-1934; active amateur botanist, plant collector and archeologist. 
+**Abbreviated name**: *E. Simon*
 
 #### Herbarium and types
 

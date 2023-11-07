@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/item/104077#page/895/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33334020) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steller \[Stöller\], Georg Wilhelm (1709-1746), German (Franconian) explorer, geographer and biologist; studied medicine in Halle 1731-1734; physician in the Russian army 1734, assistant to Johann Amman at the Academy of Sciences, St. Petersburg 1737; on the second Bering Expedition 1738-1742, with V. Bering in Kamchatka 1740, and on the St. Peter to Alaska 1741 ; worked in Petropavlovsk 1742-1744, died on the journey back to St. Petersburg. (*Steiler*).
+Steller \[Stöller\], Georg Wilhelm (1709-1746), German (Franconian) explorer, geographer and biologist; studied medicine in Halle 1731-1734; physician in the Russian army 1734, assistant to Johann Amman at the Academy of Sciences, St. Petersburg 1737; on the second Bering Expedition 1738-1742, with V. Bering in Kamchatka 1740, and on the St. Peter to Alaska 1741 ; worked in Petropavlovsk 1742-1744, died on the journey back to St. Petersburg. 
+**Abbreviated name**: *Steiler*
 
 #### Herbarium and types
 

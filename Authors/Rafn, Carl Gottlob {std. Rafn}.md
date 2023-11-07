@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/item/103624#page/577/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33190034) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rafn, Carl Gottlob (1769-1808), Danish botanist; studied medicine, botany and veterinary sciences at Copenhagen; school teacher and administrator, ultimately in charge of the royal alcohol factory. (*Rafn*).
+Rafn, Carl Gottlob (1769-1808), Danish botanist; studied medicine, botany and veterinary sciences at Copenhagen; school teacher and administrator, ultimately in charge of the royal alcohol factory. 
+**Abbreviated name**: *Rafn*
 
 #### Herbarium and types
 

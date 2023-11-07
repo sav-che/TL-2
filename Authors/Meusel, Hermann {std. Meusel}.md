@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/item/104137#page/453/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meusel, Hermann (1909-x), German botanist at Halle; Dr. phil. Halle 1935 (student of W. Troll); assistant Bot. Inst. Halle 1935-1947; professor of botany ib. 1947 (ord. 1952); Nationalpreis DDR 1966; specially interested in the chorology of the eurasiatic flora. (*Meusel*).
+Meusel, Hermann (1909-x), German botanist at Halle; Dr. phil. Halle 1935 (student of W. Troll); assistant Bot. Inst. Halle 1935-1947; professor of botany ib. 1947 (ord. 1952); Nationalpreis DDR 1966; specially interested in the chorology of the eurasiatic flora. 
+**Abbreviated name**: *Meusel*
 
 #### Herbarium and types
 

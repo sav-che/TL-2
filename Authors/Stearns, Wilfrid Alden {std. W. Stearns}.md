@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/104077#page/867/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33333992) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stearns, Wilfrid Alden (1852-1909), American botanist. (*W. Stearns*).
+Stearns, Wilfrid Alden (1852-1909), American botanist. 
+**Abbreviated name**: *W. Stearns*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/item/103414#page/801/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33120884) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Engelhardt, Hermann {std. Engelh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Engelhardt, Hermann (1839-1918), German teacher, palaeontologist and geologist at Dresden. (*Engelhardt*).
+Engelhardt, Hermann (1839-1918), German teacher, palaeontologist and geologist at Dresden. 
+**Abbreviated name**: *Engelhardt*
 
 #### Collections
 

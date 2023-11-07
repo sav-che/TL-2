@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103414#page/229/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33120312) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bentley, Robert {std. Bentley} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bentley, Robert (1821-1893), British botanist at London Hospital and King's College. (*Bentley*).
+Bentley, Robert (1821-1893), British botanist at London Hospital and King's College. 
+**Abbreviated name**: *Bentley*
 
 #### Herbarium and types
 

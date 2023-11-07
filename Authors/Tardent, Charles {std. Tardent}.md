@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103683#page/175/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33212207) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tardent, Charles (*fl*. 1841), Swiss naturalist. (*Tardent*).
+Tardent, Charles (*fl*. 1841), Swiss naturalist. 
+**Abbreviated name**: *Tardent*
 
 #### Herbarium and types
 

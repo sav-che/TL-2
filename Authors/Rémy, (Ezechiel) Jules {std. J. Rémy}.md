@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/item/103624#page/728/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33190185) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rémy, \[Ezechiel\] Jules (1826-1893), French botanist and traveller; high school teacher at Paris 1848-1851; from 1851-ca. 1861 travelling widely around the world; later living at Louvency (Marne). (*J. Rémy*).
+Rémy, \[Ezechiel\] Jules (1826-1893), French botanist and traveller; high school teacher at Paris 1848-1851; from 1851-ca. 1861 travelling widely around the world; later living at Louvency (Marne). 
+**Abbreviated name**: *J. Rémy*
 
 #### Herbarium and types
 

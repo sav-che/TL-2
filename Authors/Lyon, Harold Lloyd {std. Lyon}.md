@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/104137#page/219/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33355290) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lyon, Harold Lloyd (1879-1957), American botanist and phytopathologist originally at the University of Minnesota, later at the Experiment Station, Hawaiian Sugar Planters' Association; botanist and director of the Foster Botanical Gardens, Honolulu (*Lyon*).
+Lyon, Harold Lloyd (1879-1957), American botanist and phytopathologist originally at the University of Minnesota, later at the Experiment Station, Hawaiian Sugar Planters' Association; botanist and director of the Foster Botanical Gardens, Honolulu 
+**Abbreviated name**: *Lyon*
 
 #### Herbarium and types
 

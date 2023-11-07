@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103253#page/446/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jameson, Hampden Curney (1852-1939), British clergyman and botanist; curacies at Norlands, Lincoln and Castbourne; vicar at Eastbourne 1896-1917; from 1917-1939 in retirement at Leatherhead. (*H. Jameson*).
+Jameson, Hampden Curney (1852-1939), British clergyman and botanist; curacies at Norlands, Lincoln and Castbourne; vicar at Eastbourne 1896-1917; from 1917-1939 in retirement at Leatherhead. 
+**Abbreviated name**: *H. Jameson*
 
 #### Herbarium and types
 

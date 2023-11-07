@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/item/104077#page/619/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33333744) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simmler, Gudrun (1884-?), Austrian botanist; Dr. phil. 1909; worked at the Botanical Institute of the University of Graz. (*Simmler*).
+Simmler, Gudrun (1884-?), Austrian botanist; Dr. phil. 1909; worked at the Botanical Institute of the University of Graz. 
+**Abbreviated name**: *Simmler*
 
 #### Herbarium and types
 

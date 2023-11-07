@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103861#page/312/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33266609) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caius, Jean Ferdinand (1877-?), French botanist and professor at the Collège Saint François-Xavier de Bombay. (*Caius*).
+Caius, Jean Ferdinand (1877-?), French botanist and professor at the Collège Saint François-Xavier de Bombay. 
+**Abbreviated name**: *Caius*
 
 #### Herbarium and types
 

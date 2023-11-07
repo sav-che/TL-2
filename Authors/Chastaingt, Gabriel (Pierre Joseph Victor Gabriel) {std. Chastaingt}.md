@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103860#page/72/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33265739) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chastaingt, Gabriel (Pierre Joseph Victor Gabriel) (1831-1892), French botanist, born 11 Dec 1883, Limoges, Haute-Vienne, France, died 31 Mar 1892, Tours, "conducteur des Ponts et Chaussées, l'Indre, l'Aveyron et l'Indre-et-Loire", explorer of l'Indre in the vicinity of la Châtre 1857-1873, in l'Aveyron d'Aubin 1873-1877, and in Indre-et-Loire in the arrondissement of Tours 1877-1892. (*Chastaingt*).
+Chastaingt, Gabriel (Pierre Joseph Victor Gabriel) (1831-1892), French botanist, born 11 Dec 1883, Limoges, Haute-Vienne, France, died 31 Mar 1892, Tours, "conducteur des Ponts et Chaussées, l'Indre, l'Aveyron et l'Indre-et-Loire", explorer of l'Indre in the vicinity of la Châtre 1857-1873, in l'Aveyron d'Aubin 1873-1877, and in Indre-et-Loire in the arrondissement of Tours 1877-1892. 
+**Abbreviated name**: *Chastaingt*
 
 #### Herbarium and types
 

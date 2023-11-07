@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103833#page/23/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33259057) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dahlgren, John Adolph Ebbeson (1744-1797), Swedish physician, born at Norrköping, student at Uppsala 1764, med. dr. Ups. 1775, physician in Stockholm 1775-1785, from 1785 at Uleåborg, "stadsphysicus" from 1787, assessors title 1789, died at Uleåborg. (*J.A. Dahlgren*).
+Dahlgren, John Adolph Ebbeson (1744-1797), Swedish physician, born at Norrköping, student at Uppsala 1764, med. dr. Ups. 1775, physician in Stockholm 1775-1785, from 1785 at Uleåborg, "stadsphysicus" from 1787, assessors title 1789, died at Uleåborg. 
+**Abbreviated name**: *J.A. Dahlgren*
 
 #### Herbarium and types
 

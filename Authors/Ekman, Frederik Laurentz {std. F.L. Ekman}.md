@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103835#page/306/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33260284) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ekman, Frederik Laurentz (1830-1890), Swedish chemist and botanist, born 3 Oct 1830 at Göteborg, chemist at the technological institute at Stockholm, studied at Uppsala from 1848, Ph.D. at Uppsala 1857, professor in chemistry at Stockholm 1870, died 1 Jan 1890 at Stockholm. (*F.L. Ekman*).
+Ekman, Frederik Laurentz (1830-1890), Swedish chemist and botanist, born 3 Oct 1830 at Göteborg, chemist at the technological institute at Stockholm, studied at Uppsala from 1848, Ph.D. at Uppsala 1857, professor in chemistry at Stockholm 1870, died 1 Jan 1890 at Stockholm. 
+**Abbreviated name**: *F.L. Ekman*
 
 #### Herbarium and types
 

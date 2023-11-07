@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/item/103414#page/1066/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gueldenstaedt, Johann Anton \[von\] (1745-1781), Latvian botanist at St. Petersburg, accompanied S. G. Gmelin on his travels in S.E. Russia. (*Gueldenst.*).
+Gueldenstaedt, Johann Anton \[von\] (1745-1781), Latvian botanist at St. Petersburg, accompanied S. G. Gmelin on his travels in S.E. Russia. 
+**Abbreviated name**: *Gueldenst.*
 
 #### Herbarium and types
 

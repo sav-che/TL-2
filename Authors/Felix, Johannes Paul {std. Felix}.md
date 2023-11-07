@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/item/103414#page/869/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33120952) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Felix, Johannes Paul {std. Felix} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Felix, Johannes Paul (1859-1941), German palaeobotanist from Leipzig. (*Felix*).
+Felix, Johannes Paul (1859-1941), German palaeobotanist from Leipzig. 
+**Abbreviated name**: *Felix*
 
 #### Collections
 

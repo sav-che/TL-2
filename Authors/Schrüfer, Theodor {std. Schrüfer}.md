@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/104077#page/363/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33333488) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schrüfer, Theodor (1836-1908), German (Bavarian) priest and palaeobotanist; high school teacher ("Lyceal-Professor") for chemistry and natural history at Bamberg 1865-1904. (*Schrüfer*).
+Schrüfer, Theodor (1836-1908), German (Bavarian) priest and palaeobotanist; high school teacher ("Lyceal-Professor") for chemistry and natural history at Bamberg 1865-1904. 
+**Abbreviated name**: *Schrüfer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103832#page/287/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33258753) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goffart, Jules \[Léopold Auguste\] (1864-1955), Belgian botanist, born 17 Apr 1864 in Fosses, Dr. ès-sciences naturelles 1903, prof. at Huy, then Liège in 1915, died 26 Jan 1955 in Liège. (*Goffart*).
+Goffart, Jules \[Léopold Auguste\] (1864-1955), Belgian botanist, born 17 Apr 1864 in Fosses, Dr. ès-sciences naturelles 1903, prof. at Huy, then Liège in 1915, died 26 Jan 1955 in Liège. 
+**Abbreviated name**: *Goffart*
 
 #### Herbarium and types
 

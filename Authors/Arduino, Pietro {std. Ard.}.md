@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103414#page/108/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33120191) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arduino, Pietro {std. Ard.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arduino, Pietro (1728-1805), Italian botanist and agriculturist, curator of the Padua botanic garden. (*Ard.*).
+Arduino, Pietro (1728-1805), Italian botanist and agriculturist, curator of the Padua botanic garden. 
+**Abbreviated name**: *Ard.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/104137#page/335/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33355406) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martin, Émile (1810-1895), French botanist and judge at Romorantin (Loir-et-Cher). (*E. Martin*).
+Martin, Émile (1810-1895), French botanist and judge at Romorantin (Loir-et-Cher). 
+**Abbreviated name**: *E. Martin*
 
 #### Herbarium and types
 

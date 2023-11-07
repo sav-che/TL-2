@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/item/104077#page/725/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Snooke, William Drew (1787-1857), British naturalist. (*Snooke*).
+Snooke, William Drew (1787-1857), British naturalist. 
+**Abbreviated name**: *Snooke*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/103414#page/786/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33120869) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eisenach, Paul Heinrich Otto {std. Eisenach} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Eisenach, Paul Heinrich Otto (1847-1917), German physician, magistrate and botanist at Rotenburg. (*Eisenach*).
+Eisenach, Paul Heinrich Otto (1847-1917), German physician, magistrate and botanist at Rotenburg. 
+**Abbreviated name**: *Eisenach*
 
 #### Herbarium and types
 

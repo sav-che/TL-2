@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103834#page/203/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259685) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Filarszky, Nandor {std. Fil.}|first entry]] for this author
 
 ### Author
 
-\* Filarszky, Nándor (a.k.a. Ferdinand) (1858-1941), Hungarian botanist, born 18 Oct 1858 in Késmárk, Dr. Sci. and docent 1884, Asst. 1887, then curator ("custos") of the Botanical Dept. of the Hungarian National Museum in 1901, Dir. 1913, retired 1 Jul 1929, died 23 Jun 1941 in Budapest. (*Fil.*).
+\* Filarszky, Nándor (a.k.a. Ferdinand) (1858-1941), Hungarian botanist, born 18 Oct 1858 in Késmárk, Dr. Sci. and docent 1884, Asst. 1887, then curator ("custos") of the Botanical Dept. of the Hungarian National Museum in 1901, Dir. 1913, retired 1 Jul 1929, died 23 Jun 1941 in Budapest. 
+**Abbreviated name**: *Fil.*
 
 #### Herbarium and types
 

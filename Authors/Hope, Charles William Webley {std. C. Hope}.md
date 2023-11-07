@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103253#page/328/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hope, Charles William Webley (1832-1904), British civil engineer and botanist; in India 1859-1896; collected in Kumaon, Simla and the Western Himalayas. (*C. Hope*).
+Hope, Charles William Webley (1832-1904), British civil engineer and botanist; in India 1859-1896; collected in Kumaon, Simla and the Western Himalayas. 
+**Abbreviated name**: *C. Hope*
 
 #### Herbarium and types
 

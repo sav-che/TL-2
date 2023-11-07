@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/103683#page/197/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33212229) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, Frederick Beatson (1851-1931), British diatomist; studied at King's College, Cambridge 1871-1874; in the Indian Civil Service in Bengal until 1901; in retirement at Lyndhurst, New Forest 1901-1915 and Bournemouth 1915-1931. (*F. Tayl.*).
+Taylor, Frederick Beatson (1851-1931), British diatomist; studied at King's College, Cambridge 1871-1874; in the Indian Civil Service in Bengal until 1901; in retirement at Lyndhurst, New Forest 1901-1915 and Bournemouth 1915-1931. 
+**Abbreviated name**: *F. Tayl.*
 
 #### Herbarium and types
 

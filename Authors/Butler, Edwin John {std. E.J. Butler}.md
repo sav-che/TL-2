@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/103861#page/295/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33266592) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Butler, Edwin John (1874-1943), British botanist (mycologist), born in County Clare, Eire, educated at Queens College, Cork, senior scholar 1896, studied medicine, M.B. hons. at the Royal University Ireland 1898 (never practised), travelled to Paris, Freiburg, Antibes and Kew 1899-1900, appointed to the post of cryptogamic botanist to the Government of India, arrived in Calcutta 1901, transferred to Dehra Dunn 1902, idem to Pusa as Imperial mycologist at the new Agricultural Research Institute 1905-1920, returned to England, director of the \[then\] Imperial Bureau of Mycology 1920-1935, secretary to the Agricultural Research Council 1935-1941, knighted 1939. (*E.J. Butler*).
+Butler, Edwin John (1874-1943), British botanist (mycologist), born in County Clare, Eire, educated at Queens College, Cork, senior scholar 1896, studied medicine, M.B. hons. at the Royal University Ireland 1898 (never practised), travelled to Paris, Freiburg, Antibes and Kew 1899-1900, appointed to the post of cryptogamic botanist to the Government of India, arrived in Calcutta 1901, transferred to Dehra Dunn 1902, idem to Pusa as Imperial mycologist at the new Agricultural Research Institute 1905-1920, returned to England, director of the \[then\] Imperial Bureau of Mycology 1920-1935, secretary to the Agricultural Research Council 1935-1941, knighted 1939. 
+**Abbreviated name**: *E.J. Butler*
 
 #### Herbarium and types
 

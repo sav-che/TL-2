@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103859#page/212/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33265399) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blanchet, Jacques Samuel {std. Blanchet}|first entry]] for this author
 
 ### Author
 
-\* Blanchet, Jacques Samuel (1807-1875), Swiss (Vaud) botanist and collector, grew up in Vevey, sometime commercial traveller for a wine-store ib., commission-agent at Bahia for a Swiss export firm 1828-1856, also collecting plants and animals from the State of Bahia, in part grown in a garden in Bahia, also distributing material collected in the state by others, returned to Switzerland 1856, settling at Vevey. (*Blanchet*).
+\* Blanchet, Jacques Samuel (1807-1875), Swiss (Vaud) botanist and collector, grew up in Vevey, sometime commercial traveller for a wine-store ib., commission-agent at Bahia for a Swiss export firm 1828-1856, also collecting plants and animals from the State of Bahia, in part grown in a garden in Bahia, also distributing material collected in the state by others, returned to Switzerland 1856, settling at Vevey. 
+**Abbreviated name**: *Blanchet*
 
 #### Herbarium and types
 

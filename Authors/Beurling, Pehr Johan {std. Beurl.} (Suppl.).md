@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/item/103859#page/159/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33265346) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beurling, Pehr Johan {std. Beurl.}|first entry]] for this author
 
 ### Author
 
-\* Beurling, Pehr Johan (1800-1866), Swedish botanist and magistrate, studied at Uppsala 1813-1821 with Thunberg, first botanical examination 1817, Dr. phil. ib. 1821, Dr. jur. 1822, ultimately magistrate in Stockholm 1847. (*Beurl.*).
+\* Beurling, Pehr Johan (1800-1866), Swedish botanist and magistrate, studied at Uppsala 1813-1821 with Thunberg, first botanical examination 1817, Dr. phil. ib. 1821, Dr. jur. 1822, ultimately magistrate in Stockholm 1847. 
+**Abbreviated name**: *Beurl.*
 
 #### Herbarium and types
 

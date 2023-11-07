@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103858#page/317/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33265032) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bally, Peter René Oscar (1895-1980), Swiss botanist, educated in Mannheim, studied chemistry in Switzerland, employed at the secretariat of the League of Nations, Genève, travelled in Albania 1924 and India, sent to Tanganyika to collect new medical plants 1929-1930, salesman with Mobil Oil in Mombassa, later especially interested in native medical plants, later at the Coryndon Memorial Museum, Nairobi, Kenya 1938-1958, collecting widely in Eastern Africa 1933-1957, at the Conservatoire botanique, Genève 1958-1962, ultimately again in Nairobi, Dr. h.c. Basel 1973. (*P. Bally*).
+Bally, Peter René Oscar (1895-1980), Swiss botanist, educated in Mannheim, studied chemistry in Switzerland, employed at the secretariat of the League of Nations, Genève, travelled in Albania 1924 and India, sent to Tanganyika to collect new medical plants 1929-1930, salesman with Mobil Oil in Mombassa, later especially interested in native medical plants, later at the Coryndon Memorial Museum, Nairobi, Kenya 1938-1958, collecting widely in Eastern Africa 1933-1957, at the Conservatoire botanique, Genève 1958-1962, ultimately again in Nairobi, Dr. h.c. Basel 1973. 
+**Abbreviated name**: *P. Bally*
 
 #### Herbarium and types
 

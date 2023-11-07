@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103835#page/337/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33260315) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Elst, Paulus von der (1883-x), Dutch botanist, born 1883 at Schiedam, studied at the University of Utrecht, Ph.D. 1909. (*Elst*).
+Elst, Paulus von der (1883-x), Dutch botanist, born 1883 at Schiedam, studied at the University of Utrecht, Ph.D. 1909. 
+**Abbreviated name**: *Elst*
 
 #### Herbarium and types
 

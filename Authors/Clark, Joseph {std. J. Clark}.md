@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103860#page/191/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clark, Joseph (1782-1858), British botanist, born in Scotland, original herbarium destroyed by fire (Stuckey), died 1 Jul 1858 in Cincinnati, Ohio. (*J. Clark*).
+Clark, Joseph (1782-1858), British botanist, born in Scotland, original herbarium destroyed by fire (Stuckey), died 1 Jul 1858 in Cincinnati, Ohio. 
+**Abbreviated name**: *J. Clark*
 
 #### Herbarium and types
 

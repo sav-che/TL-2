@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/item/104077#page/266/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Hermann Rudolph (1814-1867), German (Prussian) high school teacher, botanist and entomologist at the St. Johannisschule in Danzig. (*H.R. Schmidt*).
+Schmidt, Hermann Rudolph (1814-1867), German (Prussian) high school teacher, botanist and entomologist at the St. Johannisschule in Danzig. 
+**Abbreviated name**: *H.R. Schmidt*
 
 #### Herbarium and types
 

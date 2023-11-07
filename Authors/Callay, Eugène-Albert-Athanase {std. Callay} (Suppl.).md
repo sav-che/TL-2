@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/item/103861#page/324/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33266621) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Callay, Eugène Albert-Athanase {std. Callay}|first entry]] for this author
 
 ### Author
 
-\* Callay, Eugène-Albert-Athanase (1822-1896), French botanist, pharmacist at Le Chesne, Ardennes, born at Montcornet, (Aisne), educated at home and in the "pension" of the abbé Poidevin, studied pharmacy in Reims, later in Paris with the Garden of the École de Pharmacie au Musèum national d'Histoire naturelle, settled as pharmacist at Le Chesne 1848-1896. (*Callay*).
+\* Callay, Eugène-Albert-Athanase (1822-1896), French botanist, pharmacist at Le Chesne, Ardennes, born at Montcornet, (Aisne), educated at home and in the "pension" of the abbé Poidevin, studied pharmacy in Reims, later in Paris with the Garden of the École de Pharmacie au Musèum national d'Histoire naturelle, settled as pharmacist at Le Chesne 1848-1896. 
+**Abbreviated name**: *Callay*
 
 #### Herbarium and types
 

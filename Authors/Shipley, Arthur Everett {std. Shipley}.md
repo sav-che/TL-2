@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/104077#page/579/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shipley, Arthur Everett (1861-1927), British phytopathologist and entomologist; studied at Christ's College, Cambridge, fellow 1887, master 1910-1927; demonstrator comparative anatomy Univ. Cambridge 1886; lecturer 1894, reader in zoology 1908-1920. (*Shipley*).
+Shipley, Arthur Everett (1861-1927), British phytopathologist and entomologist; studied at Christ's College, Cambridge, fellow 1887, master 1910-1927; demonstrator comparative anatomy Univ. Cambridge 1886; lecturer 1894, reader in zoology 1908-1920. 
+**Abbreviated name**: *Shipley*
 
 #### Herbarium and types
 

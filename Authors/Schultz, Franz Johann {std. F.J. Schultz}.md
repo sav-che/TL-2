@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/item/104077#page/389/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33333514) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultz, Franz Johann (*fl*. 1785-1847), Austrian botanist and artist. (*F.J. Schultz*).
+Schultz, Franz Johann (*fl*. 1785-1847), Austrian botanist and artist. 
+**Abbreviated name**: *F.J. Schultz*
 
 #### Herbarium and types
 

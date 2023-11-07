@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103860#page/434/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33266101) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Courtin, Albert (fl. 1850-1864), German horticulturist, "Hofgärtner" at Ludwigsburg, from 1864 with the Prince of Würtemberg as gardener with the Villa in Cannstadt near Stuttgart. (*Courtin*).
+Courtin, Albert (fl. 1850-1864), German horticulturist, "Hofgärtner" at Ludwigsburg, from 1864 with the Prince of Würtemberg as gardener with the Villa in Cannstadt near Stuttgart. 
+**Abbreviated name**: *Courtin*
 
 #### Herbarium and types
 

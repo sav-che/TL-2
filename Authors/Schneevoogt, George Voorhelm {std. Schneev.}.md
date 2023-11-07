@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/104077#page/281/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33333406) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneevoogt, George Voorhelm (1775-1850), Dutch gardener and botanist. (*Schneev.*).
+Schneevoogt, George Voorhelm (1775-1850), Dutch gardener and botanist. 
+**Abbreviated name**: *Schneev.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103683#page/435/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33212467) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tracy, Samuel Mills (1847-1920), American botanist and agronomist; MS Mich. Agric. Coll. 1873; professor of botany, Missouri State Univ. 1877-1887; associated with USDA in various functions; director of the USDA Experimental Station, Starkville, Miss., 1887-1897; special agent 1897-1914; agronomist from 1914. (*Tracy*).
+Tracy, Samuel Mills (1847-1920), American botanist and agronomist; MS Mich. Agric. Coll. 1873; professor of botany, Missouri State Univ. 1877-1887; associated with USDA in various functions; director of the USDA Experimental Station, Starkville, Miss., 1887-1897; special agent 1897-1914; agronomist from 1914. 
+**Abbreviated name**: *Tracy*
 
 #### Herbarium and types
 

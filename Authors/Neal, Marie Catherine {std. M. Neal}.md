@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/item/104137#page/717/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neal, Marie Catherine (1889-1965), American botanist; B. A. Smith Coll. 1912; M. Sc. Yale 1925; from 1920 at B. P. Bishop Museum, Honolulu; after 1930 in charge of the herbarium. (*M. Neal*).
+Neal, Marie Catherine (1889-1965), American botanist; B. A. Smith Coll. 1912; M. Sc. Yale 1925; from 1920 at B. P. Bishop Museum, Honolulu; after 1930 in charge of the herbarium. 
+**Abbreviated name**: *M. Neal*
 
 #### Herbarium and types
 

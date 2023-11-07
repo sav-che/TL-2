@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/item/103253#page/571/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33068787) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-King, \[Sir\] George (1840-1909), British botanist; MB Aberdeen 1865; superintendent of the Calcutta Botanic Gardens and of the Cinchona cultivation in Bengal 1871-1898; director Botanical Survey of India 1891-1898. (*King*).
+King, \[Sir\] George (1840-1909), British botanist; MB Aberdeen 1865; superintendent of the Calcutta Botanic Gardens and of the Cinchona cultivation in Bengal 1871-1898; director Botanical Survey of India 1891-1898. 
+**Abbreviated name**: *King*
 
 #### Herbarium and types
 

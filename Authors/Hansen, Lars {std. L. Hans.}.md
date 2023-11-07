@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103253#page/73/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hansen, Lars (1788-1876), German teacher, musician and botanist at Husby in Angeln. (*L. Hans.*).
+Hansen, Lars (1788-1876), German teacher, musician and botanist at Husby in Angeln. 
+**Abbreviated name**: *L. Hans.*
 
 #### Herbarium and types
 

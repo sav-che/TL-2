@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/item/103683#page/695/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33212727) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vautier, Simone (1908-1971), Swiss botanist; assistant in a private laboratory for medical analyses 1930-1940; studied botany at Genève 1940-1943 with Chodat, Hochreutiner and Becherer; scientist at the Conservatoire botanique 1943-1970; Dr. sci. nat. Genève 1949. (*Vautier*).
+Vautier, Simone (1908-1971), Swiss botanist; assistant in a private laboratory for medical analyses 1930-1940; studied botany at Genève 1940-1943 with Chodat, Hochreutiner and Becherer; scientist at the Conservatoire botanique 1943-1970; Dr. sci. nat. Genève 1949. 
+**Abbreviated name**: *Vautier*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/103250#page/158/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33066438) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watson, Hewett Cottrell (1804-1881), British botanist and phrenologist of independent means; studied medicine at Edinburgh 1828-1832 without taking a degree; from 1833 living at Thames Ditton near London; collected in the Azores in 1843; published on phrenology and on evolution in plants; from 1859 mainly dedicating himself to the distribution of British plants. (*H. Wats.*).
+Watson, Hewett Cottrell (1804-1881), British botanist and phrenologist of independent means; studied medicine at Edinburgh 1828-1832 without taking a degree; from 1833 living at Thames Ditton near London; collected in the Azores in 1843; published on phrenology and on evolution in plants; from 1859 mainly dedicating himself to the distribution of British plants. 
+**Abbreviated name**: *H. Wats.*
 
 #### Herbarium and types
 

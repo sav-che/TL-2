@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103250#page/113/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33066393) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walther, Kurt Herbert (1910-x), German (Thüringian) botanist; studied biology, mathematics, geology and anthroposociology at the University of Jena; Dr. phil. Jena 1934; later in Hamburg. (*K. Walther*).
+Walther, Kurt Herbert (1910-x), German (Thüringian) botanist; studied biology, mathematics, geology and anthroposociology at the University of Jena; Dr. phil. Jena 1934; later in Hamburg. 
+**Abbreviated name**: *K. Walther*
 
 #### Herbarium and types
 

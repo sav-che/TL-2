@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103832#page/289/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33258755) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goidanich \[Goidànich\], Gabriele (1912-1999), Italian mycologist and univ. administrator, born 30 Aug 1912 in Sarre (Valle d'Aosta), agronomy degree 1933 Univ. of Bologna, asst. to V. Peglion, employed, "R. Stazione di patologia vegetale", Rome, returned to Rome after W.W.-II, visiting prof., Univ. of Calif., prof., plant pathology, Univ. of Bologna 1949 (succeeding V. Peglion), later dir., Faculty of Agriculture and other administrative posts, president, Unione Micologica Italiana, prof. emeritus 1988, died 9 Feb 1999 in Bologna. (*Goid.*).
+Goidanich \[Goidànich\], Gabriele (1912-1999), Italian mycologist and univ. administrator, born 30 Aug 1912 in Sarre (Valle d'Aosta), agronomy degree 1933 Univ. of Bologna, asst. to V. Peglion, employed, "R. Stazione di patologia vegetale", Rome, returned to Rome after W.W.-II, visiting prof., Univ. of Calif., prof., plant pathology, Univ. of Bologna 1949 (succeeding V. Peglion), later dir., Faculty of Agriculture and other administrative posts, president, Unione Micologica Italiana, prof. emeritus 1988, died 9 Feb 1999 in Bologna. 
+**Abbreviated name**: *Goid.*
 
 #### Herbarium and types
 

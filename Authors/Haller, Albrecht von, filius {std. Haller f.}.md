@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103253#page/55/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33068271) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haller, Albrecht von, filius (1758-1823), Swiss botanist at Bern; son of A. von Haller; studied at Bern; followed a political and administrative career at Bern (temporarily at Interlaken) paralleling a scientific career as professor of botany at the Bern medical institute (1798) and director of the Bern botanical garden (1806). (*Haller f.*).
+Haller, Albrecht von, filius (1758-1823), Swiss botanist at Bern; son of A. von Haller; studied at Bern; followed a political and administrative career at Bern (temporarily at Interlaken) paralleling a scientific career as professor of botany at the Bern medical institute (1798) and director of the Bern botanical garden (1806). 
+**Abbreviated name**: *Haller f.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/item/103250#page/391/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33066671) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willis, John Christopher (1868-1958), British botanist; studied at University College, Liverpool and at Gonville and Caius College (M.A.), Cambridge; Frank Smart Student for Botanical Research 1890-1893; senior asistant in botany and lecturer in botany at Queen Margaret's College, Glasgow University 1894-1896; director Royal Botanical Gardens, Ceylon 1896-1911; director Botanic Garden, Rio de Janeiro 1912-1915; in retirement working at Cambridge and, later, at Montreux, Switzerland. (*Willis*).
+Willis, John Christopher (1868-1958), British botanist; studied at University College, Liverpool and at Gonville and Caius College (M.A.), Cambridge; Frank Smart Student for Botanical Research 1890-1893; senior asistant in botany and lecturer in botany at Queen Margaret's College, Glasgow University 1894-1896; director Royal Botanical Gardens, Ceylon 1896-1911; director Botanic Garden, Rio de Janeiro 1912-1915; in retirement working at Cambridge and, later, at Montreux, Switzerland. 
+**Abbreviated name**: *Willis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103253#page/363/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33068579) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Horwood, Arthur Reginald (1879-1937), British lichenologist and palaeobotanist; from 1902-1922 at the Leicester City Museum, from 1924-1937 at Kew. (*Horw.*).
+Horwood, Arthur Reginald (1879-1937), British lichenologist and palaeobotanist; from 1902-1922 at the Leicester City Museum, from 1924-1937 at Kew. 
+**Abbreviated name**: *Horw.*
 
 #### Herbarium and types
 

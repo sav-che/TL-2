@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/item/103860#page/512/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33266179) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cummins, George Baker (1904-x), American mycologist and plant-pathologist, worked on the Uredinales especially, born at Tecumseh, Nebraska, educated at Montana State College BS 1927, University of Michigan 1929, at Purdue University, Agricultural Experiment Station at Lafayette, Indiana. (*Cummins*).
+Cummins, George Baker (1904-x), American mycologist and plant-pathologist, worked on the Uredinales especially, born at Tecumseh, Nebraska, educated at Montana State College BS 1927, University of Michigan 1929, at Purdue University, Agricultural Experiment Station at Lafayette, Indiana. 
+**Abbreviated name**: *Cummins*
 
 #### Herbarium and types
 

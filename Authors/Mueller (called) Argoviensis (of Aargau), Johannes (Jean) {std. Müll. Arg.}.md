@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/item/104137#page/644/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mueller \[called\] Argoviensis \[of Aargau\], Johannes \[Jean\] (1828-1896), Swiss botanist; studied at Zürich (Dr. phil., 1857); curator of the Candolle herbarium 1851-1869, of the Delessert herbarium (at Genève) 1869-1896; director of the Genève botanic garden 1870-1874; professor of botany 1871-1889. (*Müll. Arg.*).
+Mueller \[called\] Argoviensis \[of Aargau\], Johannes \[Jean\] (1828-1896), Swiss botanist; studied at Zürich (Dr. phil., 1857); curator of the Candolle herbarium 1851-1869, of the Delessert herbarium (at Genève) 1869-1896; director of the Genève botanic garden 1870-1874; professor of botany 1871-1889. 
+**Abbreviated name**: *Müll. Arg.*
 
 #### Herbarium and types
 

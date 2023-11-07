@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103861#page/484/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33266781) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cavers, Francis (1876-1936), British biologist, born at Hawick, Roxburgh, with A.R.C.S. (Bot.) 1897-1900, B.Sc. 1901, Dr. Sci. University of London 1904, demonstrator at Owens College, Manchester 1900-1901, lecturer in biology Leeds 1901-1903, lecturer in biology, Plymouth Technical College 1903-1904, professor of botany at Southampton 1904-1911, reader in botany Goldsmith College, London 1911-1915, in medical practice, Highbury 1918-1925. (*Cavers*).
+Cavers, Francis (1876-1936), British biologist, born at Hawick, Roxburgh, with A.R.C.S. (Bot.) 1897-1900, B.Sc. 1901, Dr. Sci. University of London 1904, demonstrator at Owens College, Manchester 1900-1901, lecturer in biology Leeds 1901-1903, lecturer in biology, Plymouth Technical College 1903-1904, professor of botany at Southampton 1904-1911, reader in botany Goldsmith College, London 1911-1915, in medical practice, Highbury 1918-1925. 
+**Abbreviated name**: *Cavers*
 
 #### Herbarium and types
 

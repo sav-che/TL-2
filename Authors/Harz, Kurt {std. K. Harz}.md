@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103253#page/117/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33068333) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harz, Kurt (*fl*. 1914), German botanist, high school teacher at Bamberg and München. (*K. Harz*).
+Harz, Kurt (*fl*. 1914), German botanist, high school teacher at Bamberg and München. 
+**Abbreviated name**: *K. Harz*
 
 #### Herbarium and types
 

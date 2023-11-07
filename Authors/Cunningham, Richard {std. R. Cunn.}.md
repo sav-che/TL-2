@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/item/103414#page/621/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cunningham, Richard {std. R. Cunn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cunningham, Richard (1793-1835), British gardener, Kew collector in Australia, colonial botanist in New South Wales 1833-1835, brother of Allan Cunningham. (*R. Cunn.*).
+Cunningham, Richard (1793-1835), British gardener, Kew collector in Australia, colonial botanist in New South Wales 1833-1835, brother of Allan Cunningham. 
+**Abbreviated name**: *R. Cunn.*
 
 #### Herbarium and types
 

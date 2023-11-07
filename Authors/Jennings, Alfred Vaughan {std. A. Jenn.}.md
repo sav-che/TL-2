@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/item/103253#page/463/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33068679) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jennings, Alfred Vaughan (1864-1903), British botanist and geologist; demonstrator in botany at Dublin; collected in New Zealand. (*A. Jenn.*).
+Jennings, Alfred Vaughan (1864-1903), British botanist and geologist; demonstrator in botany at Dublin; collected in New Zealand. 
+**Abbreviated name**: *A. Jenn.*
 
 #### Herbarium and types
 

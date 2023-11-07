@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/104137#page/226/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33355297) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macbride, James Francis (1892-1976), American botanist; A. B. Univ. Wyoming 1914; later at the Gray Herbarium and the Field Museum; worker on the flora of Peru. (*Macbr.*).
+Macbride, James Francis (1892-1976), American botanist; A. B. Univ. Wyoming 1914; later at the Gray Herbarium and the Field Museum; worker on the flora of Peru. 
+**Abbreviated name**: *Macbr.*
 
 #### Herbarium and types
 

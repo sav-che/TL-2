@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/103624#page/275/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33189732) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pietsch, Friedrich Maximilian (1856-?), German (Saxonian) botanist; Dr. phil. Halle 1893; high school teacher at Gera. (*Pietsch*).
+Pietsch, Friedrich Maximilian (1856-?), German (Saxonian) botanist; Dr. phil. Halle 1893; high school teacher at Gera. 
+**Abbreviated name**: *Pietsch*
 
 #### Herbarium and types
 

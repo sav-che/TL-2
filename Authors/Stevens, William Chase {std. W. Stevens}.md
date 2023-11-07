@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/item/104077#page/932/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/page/33334057) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stevens, William Chase (1861-post 1948), American botanist; B.S. Univ. Kansas 1885, M.S. ibid. 1893; teacher Emporia High School 1885-1889; at University of Kansas as assistant for natural history 1889-1893, assoc. professor of botany 1893-1899, full professor of botany 1899. (*W. Stevens*).
+Stevens, William Chase (1861-post 1948), American botanist; B.S. Univ. Kansas 1885, M.S. ibid. 1893; teacher Emporia High School 1885-1889; at University of Kansas as assistant for natural history 1889-1893, assoc. professor of botany 1893-1899, full professor of botany 1899. 
+**Abbreviated name**: *W. Stevens*
 
 #### Herbarium and types
 

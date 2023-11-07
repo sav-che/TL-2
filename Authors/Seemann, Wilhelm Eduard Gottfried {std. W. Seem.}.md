@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/104077#page/495/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33333620) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seemann, Wilhelm Eduard Gottfried (x-1868), German (Hannover) botanist, geologist and editor; brother of B.C. Seemann. (*W. Seem.*).
+Seemann, Wilhelm Eduard Gottfried (x-1868), German (Hannover) botanist, geologist and editor; brother of B.C. Seemann. 
+**Abbreviated name**: *W. Seem.*
 
 #### Herbarium and types
 

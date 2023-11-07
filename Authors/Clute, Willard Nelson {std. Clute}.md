@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103860#page/238/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33265905) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clute, Willard Nelson (1869-1950), American botanist (pteridologist), education informal especially with private study, longtime with Butler University at Indianapolis, Indiana, later director of Holliday Park Botanical Garden, Indianapolis, editor and founder of the American Botanist and the Fern Bulletin, collected widely especially in the Navajo Reservation of N.E. Arizona. (*Clute*).
+Clute, Willard Nelson (1869-1950), American botanist (pteridologist), education informal especially with private study, longtime with Butler University at Indianapolis, Indiana, later director of Holliday Park Botanical Garden, Indianapolis, editor and founder of the American Botanist and the Fern Bulletin, collected widely especially in the Navajo Reservation of N.E. Arizona. 
+**Abbreviated name**: *Clute*
 
 #### Herbarium and types
 

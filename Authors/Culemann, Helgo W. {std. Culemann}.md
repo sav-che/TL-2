@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/item/103860#page/506/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33266173) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Culemann, Helgo W. (1905-x), German botanist, born in Rüstringen, lived in Helgoland 1906-1914, in Wilhelmshaven July 1914, at the "Oberrealschule" until 1925 ("Abiturienten-examen"), student of natural sciences at the University of Heidelberg, also at the University of Freiburg i. Br. for medicine, Dr. phil. Philosophischen Facultät der Friedrich-Wilhelms-Universität of Berlin 1931. (*Culemann*).
+Culemann, Helgo W. (1905-x), German botanist, born in Rüstringen, lived in Helgoland 1906-1914, in Wilhelmshaven July 1914, at the "Oberrealschule" until 1925 ("Abiturienten-examen"), student of natural sciences at the University of Heidelberg, also at the University of Freiburg i. Br. for medicine, Dr. phil. Philosophischen Facultät der Friedrich-Wilhelms-Universität of Berlin 1931. 
+**Abbreviated name**: *Culemann*
 
 #### Herbarium and types
 

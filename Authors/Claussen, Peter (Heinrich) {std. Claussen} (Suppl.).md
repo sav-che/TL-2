@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103860#page/205/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265872) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Claussen, Peter {std. Claussen}|first entry]] for this author
 
 ### Author
 
-\* Claussen, Peter \[Heinrich\] (1877-1959), German (Schleswig-Holstein) botanist, born in Sahrensdorf, educated at the Gymnasium in Plön, at the University of Freiburg 1897, studying medicine, studied sometime (1898-1899) with A. Engler, Dr. phil. with Schwendener 1901, assistant for pharmacognosy in Freiburg, "Habilitation" with Oltmanns 1904, again in Berlin 1907 with A. Kny and G. Haberlandt, professor ib. 1911, with the Biologische Reichsanstalt 1912-1920, at the Forstakademie in Hannoversch Münden 1920-1921 and bot. garden Erlangen, director of the botanical garden of Marburg 1922-1946. (*Claussen*).
+\* Claussen, Peter \[Heinrich\] (1877-1959), German (Schleswig-Holstein) botanist, born in Sahrensdorf, educated at the Gymnasium in Plön, at the University of Freiburg 1897, studying medicine, studied sometime (1898-1899) with A. Engler, Dr. phil. with Schwendener 1901, assistant for pharmacognosy in Freiburg, "Habilitation" with Oltmanns 1904, again in Berlin 1907 with A. Kny and G. Haberlandt, professor ib. 1911, with the Biologische Reichsanstalt 1912-1920, at the Forstakademie in Hannoversch Münden 1920-1921 and bot. garden Erlangen, director of the botanical garden of Marburg 1922-1946. 
+**Abbreviated name**: *Claussen*
 
 #### Herbarium and types
 

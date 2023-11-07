@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103253#page/364/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33068580) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hosius, August (1825-1896), German geologist and palaeontologist; Dr. phil. Bonn 1850; at Münster, 1862-1896. (*Hosius*).
+Hosius, August (1825-1896), German geologist and palaeontologist; Dr. phil. Bonn 1850; at Münster, 1862-1896. 
+**Abbreviated name**: *Hosius*
 
 #### Collections
 

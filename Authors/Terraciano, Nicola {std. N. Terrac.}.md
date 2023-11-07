@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103683#page/236/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33212268) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Terraciano, Nicola (1837-1921), Italian botanist; father\[?\] of A. Terraciano; professor of natural history at the Technical College and director of the Royal Garden at Caserta 1896-1908; later professor in Bagnoli (Napoli). (*N. Terrac.*).
+Terraciano, Nicola (1837-1921), Italian botanist; father\[?\] of A. Terraciano; professor of natural history at the Technical College and director of the Royal Garden at Caserta 1896-1908; later professor in Bagnoli (Napoli). 
+**Abbreviated name**: *N. Terrac.*
 
 #### Herbarium and types
 

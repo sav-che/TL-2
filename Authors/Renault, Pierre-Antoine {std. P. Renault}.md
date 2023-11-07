@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/103624#page/741/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Renault, Pierre-Antoine (1750-1835), French botanist at Rouen and Alençon; from 1795 professor of natural history at the École centrale de l'Orne at Alençon, establishing a botanical garden and a natural history museum. (*P. Renault*).
+Renault, Pierre-Antoine (1750-1835), French botanist at Rouen and Alençon; from 1795 professor of natural history at the École centrale de l'Orne at Alençon, establishing a botanical garden and a natural history museum. 
+**Abbreviated name**: *P. Renault*
 
 #### Herbarium and types
 

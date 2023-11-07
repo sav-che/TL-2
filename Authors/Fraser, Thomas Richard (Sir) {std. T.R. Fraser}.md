@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103834#page/416/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33259898) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fraser, Thomas Richard (Sir) (1841-1920), Indian-born Scottish pharmacologist, born 5 Feb 1841 in Calcutta, attended public schools in Scotland and Edinburgh Univ., physician, Edinburgh Royal Infirmary 1869-1874, prof. of materia medica and clinical medicine, Edinburgh 1877-1917, member of many medical societies, F.R.S. 1877, knighted 1902, died 4 Jan 1920 in Edinburgh. (*T.R. Fraser*).
+Fraser, Thomas Richard (Sir) (1841-1920), Indian-born Scottish pharmacologist, born 5 Feb 1841 in Calcutta, attended public schools in Scotland and Edinburgh Univ., physician, Edinburgh Royal Infirmary 1869-1874, prof. of materia medica and clinical medicine, Edinburgh 1877-1917, member of many medical societies, F.R.S. 1877, knighted 1902, died 4 Jan 1920 in Edinburgh. 
+**Abbreviated name**: *T.R. Fraser*
 
 #### Herbarium and types
 

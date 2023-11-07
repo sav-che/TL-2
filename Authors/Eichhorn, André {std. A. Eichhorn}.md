@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103835#page/285/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33260263) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichhorn, André (1902-1972), French botanist, born 17 Feb 1902 at Paris, moved to Sedan (Ardennes), studied at the Sorbonne (Paris) natural sciences with Alexandre Guilliermond, became "Maître de Conférences à la Faculté des Sciences de Nancy" in 1938, enlisted in the army in WW II, demobilized in 1940, returned to Nancy, professor at the Sorbonne 1961, was editor of several scientific journals, died 1 Mai 1972. (*A. Eichhorn*).
+Eichhorn, André (1902-1972), French botanist, born 17 Feb 1902 at Paris, moved to Sedan (Ardennes), studied at the Sorbonne (Paris) natural sciences with Alexandre Guilliermond, became "Maître de Conférences à la Faculté des Sciences de Nancy" in 1938, enlisted in the army in WW II, demobilized in 1940, returned to Nancy, professor at the Sorbonne 1961, was editor of several scientific journals, died 1 Mai 1972. 
+**Abbreviated name**: *A. Eichhorn*
 
 #### Herbarium and types
 

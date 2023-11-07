@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103414#page/272/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33120355) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Black, John McConnell {std. J.M. Black} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Black, John McConnell (1855-1951), South Australian botanist. (*J. M. Black*).
+Black, John McConnell (1855-1951), South Australian botanist. 
+**Abbreviated name**: *J. M. Black*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/item/103833#page/193/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259227) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delise, Dominic François {std. Delise}|first entry]] for this author
 
 ### Author
 
-\* Delise, Dominique-Françoise (1780-1841), French Officer and botanist (lichenologist) as well as "Chef de Bataillon" at Vire, pupil of Bory de Saint-Vincent, cryptogamist in Normandy, died at Vire (Calvados) on 16 Nov 1841. (*Delise*).
+\* Delise, Dominique-Françoise (1780-1841), French Officer and botanist (lichenologist) as well as "Chef de Bataillon" at Vire, pupil of Bory de Saint-Vincent, cryptogamist in Normandy, died at Vire (Calvados) on 16 Nov 1841. 
+**Abbreviated name**: *Delise*
 
 #### Herbarium and types
 

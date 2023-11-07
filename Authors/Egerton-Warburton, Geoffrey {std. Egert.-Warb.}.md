@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/item/103835#page/275/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33260253) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Egerton-Warburton, Geoffrey (fl. 1889), British botanist, B.A. (*Egert.-Warb.*).
+Egerton-Warburton, Geoffrey (fl. 1889), British botanist, B.A. 
+**Abbreviated name**: *Egert.-Warb.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103859#page/144/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33265331) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bescherelle, Émile {std. Besch.}|first entry]] for this author
 
 ### Author
 
-\* Bescherelle, Émil (1828-1903), French administrator and botanist, from 1858 at the Department of Agriculture, Commerce and Public Works, amateur botanist especially interested in cryptogams, correspondent of the Muséum d'Histoire naturelle and long-time connected with the Société botanique de France, in 1885 its president, described over a thousand of new species of mosses. (*Besch.*).
+\* Bescherelle, Émil (1828-1903), French administrator and botanist, from 1858 at the Department of Agriculture, Commerce and Public Works, amateur botanist especially interested in cryptogams, correspondent of the Muséum d'Histoire naturelle and long-time connected with the Société botanique de France, in 1885 its president, described over a thousand of new species of mosses. 
+**Abbreviated name**: *Besch.*
 
 #### Herbarium and types
 

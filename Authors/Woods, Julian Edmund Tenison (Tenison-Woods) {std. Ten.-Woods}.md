@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103250#page/505/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33066785) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woods, Julian Edmund Tenison \[Tenison-Woods\] (1832-1889), British clergyman, naturalist and botanist; studied at Oxford; to Tasmania 1854 as a lay chaplain; to Australia 1855, working as a journalist and completing his theological studies; ordained priest Rom. Cath. Church 1857; parish priest of Penola, S. Australia 1857-1867; director of Catholic education for Australia 1867-1871; missionary in New South Wales and Queensland 1872-1883, from 1883 dedicating himself fully to natural history; pioneer Australian geologist. (*Ten.-Woods*).
+Woods, Julian Edmund Tenison \[Tenison-Woods\] (1832-1889), British clergyman, naturalist and botanist; studied at Oxford; to Tasmania 1854 as a lay chaplain; to Australia 1855, working as a journalist and completing his theological studies; ordained priest Rom. Cath. Church 1857; parish priest of Penola, S. Australia 1857-1867; director of Catholic education for Australia 1867-1871; missionary in New South Wales and Queensland 1872-1883, from 1883 dedicating himself fully to natural history; pioneer Australian geologist. 
+**Abbreviated name**: *Ten.-Woods*
 
 #### Herbarium and types
 

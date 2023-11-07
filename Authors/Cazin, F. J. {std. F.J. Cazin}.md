@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/item/103861#page/488/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33266785) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cazin, F. J. (fl. 1850), French physician at Boulogne-sur-Mer. (*F.J. Cazin*).
+Cazin, F. J. (fl. 1850), French physician at Boulogne-sur-Mer. 
+**Abbreviated name**: *F.J. Cazin*
 
 #### Herbarium and types
 

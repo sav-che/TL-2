@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/item/103624#page/470/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33189927) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quer y Martinez, José (1695-1764), Spanish botanist. (*Quer*).
+Quer y Martinez, José (1695-1764), Spanish botanist. 
+**Abbreviated name**: *Quer*
 
 #### Herbarium and types
 

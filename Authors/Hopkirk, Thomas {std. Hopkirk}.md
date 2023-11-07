@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/103253#page/329/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33068545) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hopkirk, Thomas (1785-1841), Scottish botanist at Glasgow. (*Hopkirk*).
+Hopkirk, Thomas (1785-1841), Scottish botanist at Glasgow. 
+**Abbreviated name**: *Hopkirk*
 
 #### Herbarium and types
 

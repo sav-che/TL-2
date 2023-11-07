@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/104137#page/395/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33355466) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maurizio, Adam (1862-1941), Rhaetian (Bündner, Swiss) botanist, born in Cracow; Dr. phil. Bern 1894; assistant at the Schule für Wein- Obst- und Gartenbau Wädensweil 1896; at the Versuchsstation für Müllerei der Landwirthschaftlichen Hochschule, Berlin 1899 (with L. Wittmack); at the Landwirthschaftliche Versuchsstation Zürich 1900; habil. Zürich E.T.H. 1903; professor of botany at the Technische Hochschule, Lemberg \[Lwow\] 1907; ordinary professor ib. 1911-1923; at Bromberg (Bydgoszcz) 1923-1927; at the Faculty of Pharmacy, Warsaw 1927-1935; from 1935-1941 back in Switzerland (*Maurizio*).
+Maurizio, Adam (1862-1941), Rhaetian (Bündner, Swiss) botanist, born in Cracow; Dr. phil. Bern 1894; assistant at the Schule für Wein- Obst- und Gartenbau Wädensweil 1896; at the Versuchsstation für Müllerei der Landwirthschaftlichen Hochschule, Berlin 1899 (with L. Wittmack); at the Landwirthschaftliche Versuchsstation Zürich 1900; habil. Zürich E.T.H. 1903; professor of botany at the Technische Hochschule, Lemberg \[Lwow\] 1907; ordinary professor ib. 1911-1923; at Bromberg (Bydgoszcz) 1923-1927; at the Faculty of Pharmacy, Warsaw 1927-1935; from 1935-1941 back in Switzerland 
+**Abbreviated name**: *Maurizio*
 
 #### Herbarium and types
 

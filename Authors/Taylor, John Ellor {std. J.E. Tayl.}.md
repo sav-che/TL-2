@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103683#page/198/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33212230) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, John Ellor (1837-1895), British geologist, editor and botanist; sub-editor Norwich Mercury 1863; editor Hardwicke's Science Gossip 1872-1893; curator Ipswich Museum 1872-1893; lectured in Australia 1885. (*J.E. Tayl.*).
+Taylor, John Ellor (1837-1895), British geologist, editor and botanist; sub-editor Norwich Mercury 1863; editor Hardwicke's Science Gossip 1872-1893; curator Ipswich Museum 1872-1893; lectured in Australia 1885. 
+**Abbreviated name**: *J.E. Tayl.*
 
 #### Herbarium and types
 

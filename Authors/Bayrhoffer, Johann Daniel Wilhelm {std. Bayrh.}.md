@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103414#page/202/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33120285) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bayrhoffer, Johann Daniel Wilhelm {std. Bayrh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bayrhoffer, Johann Daniel Wilhelm (1793-1868), German cryptogamist. (*Bayrh.*).
+Bayrhoffer, Johann Daniel Wilhelm (1793-1868), German cryptogamist. 
+**Abbreviated name**: *Bayrh.*
 
 #### Herbarium and types
 

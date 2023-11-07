@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103835#page/180/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33260158) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dunk, Kurt von der (1897-1985), German botanist (bryologist) from Elberfeld, Dr. ph. Frankfurt am Main 1921. (*Dunk*).
+Dunk, Kurt von der (1897-1985), German botanist (bryologist) from Elberfeld, Dr. ph. Frankfurt am Main 1921. 
+**Abbreviated name**: *Dunk*
 
 #### Herbarium and types
 

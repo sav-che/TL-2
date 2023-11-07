@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/104137#page/33/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33355110) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Liljeblad, Samuel (1761-1815), Swedish botanist and rural economist; Dr. phil. Uppsala 1788; Dr. med. ib. 1793; amanuensis at the Uppsala nat. hist. museum 1789; "Borgströmiansk adjunkt" 1790; keeper of the library and collections of the Uppsala Vetenskapssocietet (1793-1802); from 1802 professor Borgströmianus. (*Liljebl.*).
+Liljeblad, Samuel (1761-1815), Swedish botanist and rural economist; Dr. phil. Uppsala 1788; Dr. med. ib. 1793; amanuensis at the Uppsala nat. hist. museum 1789; "Borgströmiansk adjunkt" 1790; keeper of the library and collections of the Uppsala Vetenskapssocietet (1793-1802); from 1802 professor Borgströmianus. 
+**Abbreviated name**: *Liljebl.*
 
 #### Herbarium and types
 

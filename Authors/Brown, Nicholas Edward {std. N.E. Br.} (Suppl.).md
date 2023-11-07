@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103861#page/146/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brown, Nicholas Edward {std. N.E. Br.}|first entry]] for this author
 
 ### Author
 
-\* Brown, Nicholas Edward (1849-1934), British botanist, born at Redhill, Surrey, educated at the Grammar School of Reigate, curator of the private museum of William Wilson Saunders (1809-1879), assistant in the Herbarium at Kew 1873, in 1874 in addition commencing lecturing on geographical botany, participated in the compiling of various Kew Series, e.g. Flora capensis, assistant keeper of the Herbarium 1909-1914, Dr. Sci. hon. Witwatersrand 1932. (*N.E. Br.*).
+\* Brown, Nicholas Edward (1849-1934), British botanist, born at Redhill, Surrey, educated at the Grammar School of Reigate, curator of the private museum of William Wilson Saunders (1809-1879), assistant in the Herbarium at Kew 1873, in 1874 in addition commencing lecturing on geographical botany, participated in the compiling of various Kew Series, e.g. Flora capensis, assistant keeper of the Herbarium 1909-1914, Dr. Sci. hon. Witwatersrand 1932. 
+**Abbreviated name**: *N.E. Br.*
 
 #### Herbarium and types
 

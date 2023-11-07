@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103414#page/218/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33120301) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bello y Espinosa, Domingo (1817-1884), Spanish lawyer and botanist, born in Teneriffe, lived in Puerto-Rico 1848-1878. (*Bello*).
+Bello y Espinosa, Domingo (1817-1884), Spanish lawyer and botanist, born in Teneriffe, lived in Puerto-Rico 1848-1878. 
+**Abbreviated name**: *Bello*
 
 #### Herbarium and types
 

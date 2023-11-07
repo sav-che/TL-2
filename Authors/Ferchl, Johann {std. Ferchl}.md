@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/item/103834#page/158/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33259640) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferchl, Johann (1810-1878), German forester ("k. b. Forstmeister a. D."), lived in Reichenhall. (*Ferchl*).
+Ferchl, Johann (1810-1878), German forester ("k. b. Forstmeister a. D."), lived in Reichenhall. 
+**Abbreviated name**: *Ferchl*
 
 #### Herbarium and types
 

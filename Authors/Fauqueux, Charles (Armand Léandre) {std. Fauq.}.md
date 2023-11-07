@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/103834#page/90/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33259572) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fauqueux, Charles \[Armand Léandre\] (1879-1968), French botanist and educator, born 27 Mar 1879 in Saint-André-Farivillers (Oise), dir. of a school at Fayel (Oise). (*Fauq.*).
+Fauqueux, Charles \[Armand Léandre\] (1879-1968), French botanist and educator, born 27 Mar 1879 in Saint-André-Farivillers (Oise), dir. of a school at Fayel (Oise). 
+**Abbreviated name**: *Fauq.*
 
 #### Herbarium and types
 

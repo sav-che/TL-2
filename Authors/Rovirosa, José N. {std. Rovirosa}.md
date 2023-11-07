@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 951](https://www.biodiversitylibrary.org/item/103624#page/965/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 951](https://www.biodiversitylibrary.org/page/33190422) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rovirosa, José N. (1849-1901), Mexican botanist. (*Rovirosa*).
+Rovirosa, José N. (1849-1901), Mexican botanist. 
+**Abbreviated name**: *Rovirosa*
 
 #### Herbarium and types
 

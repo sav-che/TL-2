@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103834#page/50/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Falk, Otto Martin (1836-1878), Swedish clergyman and botanist, born 11 Oct 1836 in Alsheda (Småland), studied at Uppsala Univ. 1859, Dr. phil. 1869, asst. minister at Tryserum nr. Kalmar, died 16 Mai 1878. (*O.M. Falk*).
+Falk, Otto Martin (1836-1878), Swedish clergyman and botanist, born 11 Oct 1836 in Alsheda (Småland), studied at Uppsala Univ. 1859, Dr. phil. 1869, asst. minister at Tryserum nr. Kalmar, died 16 Mai 1878. 
+**Abbreviated name**: *O.M. Falk*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103683#page/41/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33212035) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strasburger, Eduard Adolf (1844-1912), Polish-born (of German descent) German botanist; studied at Paris 1861-1862, Warsaw 1862-1864, Bonn 1864, Jena (with N. Pringsheim) 1864-1866; Dr. phil. Jena 1866; habil. Warsaw 1867; lecturer ib. 1867-1869; extraordinary professor of botany at Jena 1869-1871, full professor 1871-1880; professor of botany at Bonn 1880-1912; founder of modern plant cytology. (*Strasb.*).
+Strasburger, Eduard Adolf (1844-1912), Polish-born (of German descent) German botanist; studied at Paris 1861-1862, Warsaw 1862-1864, Bonn 1864, Jena (with N. Pringsheim) 1864-1866; Dr. phil. Jena 1866; habil. Warsaw 1867; lecturer ib. 1867-1869; extraordinary professor of botany at Jena 1869-1871, full professor 1871-1880; professor of botany at Bonn 1880-1912; founder of modern plant cytology. 
+**Abbreviated name**: *Strasb.*
 
 #### Herbarium and types
 

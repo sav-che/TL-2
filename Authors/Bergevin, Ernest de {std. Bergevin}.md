@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103859#page/100/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33265287) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bergevin, Ernest de (1859-1933), French entomologist and botanist, travelled in Algeria and Tunisia 1897-1898. (*Bergevin*).
+Bergevin, Ernest de (1859-1933), French entomologist and botanist, travelled in Algeria and Tunisia 1897-1898. 
+**Abbreviated name**: *Bergevin*
 
 #### Herbarium and types
 

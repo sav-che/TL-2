@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103624#page/318/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pluszczewski, Emile (1855-?), French pharmacist and botanist; curator at the Paris École supérieure de Pharmacie; Pharm, prem. cl. 1885. (*Plusz.*).
+Pluszczewski, Emile (1855-?), French pharmacist and botanist; curator at the Paris École supérieure de Pharmacie; Pharm, prem. cl. 1885. 
+**Abbreviated name**: *Plusz.*
 
 #### Herbarium and types
 

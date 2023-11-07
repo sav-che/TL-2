@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/item/103253#page/628/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33068844) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Köpff, Friedrich (*fl*. 1892), German botanist; Dr. phil. Erlangen 1892. (*Köpff*).
+Köpff, Friedrich (*fl*. 1892), German botanist; Dr. phil. Erlangen 1892. 
+**Abbreviated name**: *Köpff*
 
 #### Herbarium and types
 

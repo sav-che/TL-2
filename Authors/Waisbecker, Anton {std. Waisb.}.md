@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103250#page/83/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33066363) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waisbecker, Anton (1835-1916), Hungarian botanist; practicing physician, later also regional physician in Güns (Köszeg). (*Waisb.*).
+Waisbecker, Anton (1835-1916), Hungarian botanist; practicing physician, later also regional physician in Güns (Köszeg). 
+**Abbreviated name**: *Waisb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/item/103253#page/30/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33068246) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haeckel, Ernst Heinrich Philipp August (1834-1919), German evolutionary zoologist and popularizer of biology. (*Haeckel*).
+Haeckel, Ernst Heinrich Philipp August (1834-1919), German evolutionary zoologist and popularizer of biology. 
+**Abbreviated name**: *Haeckel*
 
 #### Herbarium and types
 

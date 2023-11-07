@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/item/103624#page/987/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33190444) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudolph, Ludwig (ca. 1813-1896), German (Prussian) high school teacher and botanist in Berlin. (*L. Rudolph*).
+Rudolph, Ludwig (ca. 1813-1896), German (Prussian) high school teacher and botanist in Berlin. 
+**Abbreviated name**: *L. Rudolph*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/103253#page/745/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laffon, J. C. (*fl*. 1848), Swiss botanist at Schaffhausen. (*Laffon*).
+Laffon, J. C. (*fl*. 1848), Swiss botanist at Schaffhausen. 
+**Abbreviated name**: *Laffon*
 
 #### Herbarium and types
 

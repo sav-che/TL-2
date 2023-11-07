@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/104077#page/497/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Segerstedt, Per Simeon Julius (1866-ca. 1930), Swedish high school teacher and botanist; Dr. phil. Uppsala 1894; teacher of biology and chemistry at various high schools, ultimately headmaster at Västervik. (*Segerstedt*).
+Segerstedt, Per Simeon Julius (1866-ca. 1930), Swedish high school teacher and botanist; Dr. phil. Uppsala 1894; teacher of biology and chemistry at various high schools, ultimately headmaster at Västervik. 
+**Abbreviated name**: *Segerstedt*
 
 #### Herbarium and types
 

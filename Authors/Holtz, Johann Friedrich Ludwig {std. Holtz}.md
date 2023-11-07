@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103253#page/289/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33068505) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holtz, Johann Friedrich Ludwig (1824-1907), German cryptogamist; landowner and estate steward at Barth, Stralsund; from 1875 onward botanist at Greifswald. (*Holtz*).
+Holtz, Johann Friedrich Ludwig (1824-1907), German cryptogamist; landowner and estate steward at Barth, Stralsund; from 1875 onward botanist at Greifswald. 
+**Abbreviated name**: *Holtz*
 
 #### Herbarium and types
 

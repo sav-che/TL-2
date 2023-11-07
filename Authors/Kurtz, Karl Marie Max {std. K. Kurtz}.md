@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/item/103253#page/733/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33068949) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kurtz, Karl Marie Max (1846-1910), German botanist, high school teacher and botanist at Ellwangen 1876-1906. (*K. Kurtz*).
+Kurtz, Karl Marie Max (1846-1910), German botanist, high school teacher and botanist at Ellwangen 1876-1906. 
+**Abbreviated name**: *K. Kurtz*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/104137#page/786/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Norlindh, Nils Tycho (1906-x), Swedish botanist at the Botanical Museum, Lund, (*Norl.*).
+Norlindh, Nils Tycho (1906-x), Swedish botanist at the Botanical Museum, Lund, 
+**Abbreviated name**: *Norl.*
 
 #### Herbarium and types
 

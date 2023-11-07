@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/item/103414#page/514/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33120597) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cassini, Alexandre-Henri Gabriel, de (1781-1832), French botanist. (*Cass.*).
+Cassini, Alexandre-Henri Gabriel, de (1781-1832), French botanist. 
+**Abbreviated name**: *Cass.*
 
 #### Herbarium and types
 

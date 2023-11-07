@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103859#page/132/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33265319) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berthoumieu, G. Victor (1840-1916), French clergyman and botanist. (*Berthoum.*).
+Berthoumieu, G. Victor (1840-1916), French clergyman and botanist. 
+**Abbreviated name**: *Berthoum.*
 
 #### Herbarium and types
 

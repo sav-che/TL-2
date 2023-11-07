@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/item/104077#page/898/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33334023) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stenroos, Karl Emil (after 1906: Kivirikko, Kaalo Eemeli) (1870-1947), Finnish botanist, zoologist and high school teacher in Helsinki; Dr. phil. Helsinki 1898; professor h.c. 1930. (*Stenroos*).
+Stenroos, Karl Emil (after 1906: Kivirikko, Kaalo Eemeli) (1870-1947), Finnish botanist, zoologist and high school teacher in Helsinki; Dr. phil. Helsinki 1898; professor h.c. 1930. 
+**Abbreviated name**: *Stenroos*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103624#page/155/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33189612) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peck, Morton Eaton (1871-1959), American botanist; B.A. Cornell College, Iowa, 1895; at Willamette University, Salem, Oregon 1908-1941, ultimately as chairman of the Department of Biology; botanical explorer of British Honduras and, for over fifty years, of Oregon; D. Sc. Cornell 1940, LL.D. Willamette 1955. (*M. Peck*).
+Peck, Morton Eaton (1871-1959), American botanist; B.A. Cornell College, Iowa, 1895; at Willamette University, Salem, Oregon 1908-1941, ultimately as chairman of the Department of Biology; botanical explorer of British Honduras and, for over fifty years, of Oregon; D. Sc. Cornell 1940, LL.D. Willamette 1955. 
+**Abbreviated name**: *M. Peck*
 
 #### Herbarium and types
 

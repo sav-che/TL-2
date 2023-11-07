@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/104137#page/298/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33355369) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mansion, Arthur (1863-1905), Belgian bryologist; Dr. sei. Liège; high school teacher at Huy and, from 1902, at Namur. (*Mansion*).
+Mansion, Arthur (1863-1905), Belgian bryologist; Dr. sei. Liège; high school teacher at Huy and, from 1902, at Namur. 
+**Abbreviated name**: *Mansion*
 
 #### Herbarium and types
 

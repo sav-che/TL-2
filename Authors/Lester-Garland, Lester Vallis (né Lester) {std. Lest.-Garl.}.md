@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/item/103253#page/880/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lester-Garland, Lester Vallis (né Lester) (1860-1944), British botanist; educated at Oxford; lecturer St. John's College, Oxford, 1886-1896; principal, Victoria College, Jersey (1896-1911). (*Lest.-Garl.*).
+Lester-Garland, Lester Vallis (né Lester) (1860-1944), British botanist; educated at Oxford; lecturer St. John's College, Oxford, 1886-1896; principal, Victoria College, Jersey (1896-1911). 
+**Abbreviated name**: *Lest.-Garl.*
 
 #### Herbarium and types
 

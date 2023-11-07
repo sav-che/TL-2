@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/item/103250#page/508/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33066788) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woodville, William (1752-1805), British physician and botanist; studied at Edinburgh Univ., M.D. 1775; practicing physician at Papcastle and Denbigh, Scotland; from 1782 in London as physician to the Middlesex dispensary; physician to the smallpox and inoculation hospitals at St. Pancras 1791-1805. (*Woodv.*).
+Woodville, William (1752-1805), British physician and botanist; studied at Edinburgh Univ., M.D. 1775; practicing physician at Papcastle and Denbigh, Scotland; from 1782 in London as physician to the Middlesex dispensary; physician to the smallpox and inoculation hospitals at St. Pancras 1791-1805. 
+**Abbreviated name**: *Woodv.*
 
 #### Herbarium and types
 

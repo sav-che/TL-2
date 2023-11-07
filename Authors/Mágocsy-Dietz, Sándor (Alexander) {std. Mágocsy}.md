@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/104137#page/264/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33355335) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mágocsy-Dietz, Sándor \[Alexander\] (1855-1945), Hungarian botanist; high school teacher at the Budapest girls college (1888); extraord. prof. bot. Budapest 1897; full professor of botany Univ. Budapest 1901-1928. (*Mágocsy*).
+Mágocsy-Dietz, Sándor \[Alexander\] (1855-1945), Hungarian botanist; high school teacher at the Budapest girls college (1888); extraord. prof. bot. Budapest 1897; full professor of botany Univ. Budapest 1901-1928. 
+**Abbreviated name**: *Mágocsy*
 
 #### Herbarium and types
 

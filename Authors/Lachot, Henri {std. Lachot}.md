@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/item/103253#page/741/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33068957) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lachot, Henri (1850-?), French botanist and high school teacher at Magny-la-Ville, Semur (Côte-d'Or). (*Lachot*).
+Lachot, Henri (1850-?), French botanist and high school teacher at Magny-la-Ville, Semur (Côte-d'Or). 
+**Abbreviated name**: *Lachot*
 
 #### Herbarium and types
 

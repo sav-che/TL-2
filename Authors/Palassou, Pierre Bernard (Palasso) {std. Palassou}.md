@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103624#page/25/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33189504) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palassou, Pierre Bernard (Palasso) (1745-1830), French clergyman; naturalist and explorer of the Pyrenees. (*Palassou*).
+Palassou, Pierre Bernard (Palasso) (1745-1830), French clergyman; naturalist and explorer of the Pyrenees. 
+**Abbreviated name**: *Palassou*
 
 #### Herbarium and types
 

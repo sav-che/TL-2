@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103860#page/475/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33266142) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cretzoiu, Paul {std. Cretz.}|first entry]] for this author
 
 ### Author
 
-\* Cretzoiu, Paul (1909-1946), Rumanian botanist, born at Bucureşt, followed secondary school in Bucureşt, worked in 1926 at a chemical and pharmaceutical industrial company at Vienna, returned to Bucureşt 1930 and became curator at the Herbarium of the Botanical Laboratory at the Faculty of silviculture, collected in the Orient, Persia and China. (*Cretz.*).
+\* Cretzoiu, Paul (1909-1946), Rumanian botanist, born at Bucureşt, followed secondary school in Bucureşt, worked in 1926 at a chemical and pharmaceutical industrial company at Vienna, returned to Bucureşt 1930 and became curator at the Herbarium of the Botanical Laboratory at the Faculty of silviculture, collected in the Orient, Persia and China. 
+**Abbreviated name**: *Cretz.*
 
 #### Herbarium and types
 

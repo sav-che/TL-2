@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/item/103624#page/995/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruiz Lopez, Hipólito (1754-1815), Spanish botanist and explorer; studied natural sciences at Madrid under C.G. Ortega and A. Palau; leader of the Spanish *Expedición botánica* of 1777-1788 to the vice-kingdom of Peru (now Peru & Chile). (*Ruiz*).
+Ruiz Lopez, Hipólito (1754-1815), Spanish botanist and explorer; studied natural sciences at Madrid under C.G. Ortega and A. Palau; leader of the Spanish *Expedición botánica* of 1777-1788 to the vice-kingdom of Peru (now Peru & Chile). 
+**Abbreviated name**: *Ruiz*
 
 #### Herbarium and types
 

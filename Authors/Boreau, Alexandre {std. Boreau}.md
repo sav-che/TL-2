@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/item/103414#page/327/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33120410) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boreau, Alexandre {std. Boreau} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boreau, Alexandre (1801-1875), French botanist, director of the botanical garden of Angers. (*Boreau*).
+Boreau, Alexandre (1801-1875), French botanist, director of the botanical garden of Angers. 
+**Abbreviated name**: *Boreau*
 
 #### Herbarium and types
 

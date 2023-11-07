@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103833#page/112/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33259146) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davin, Vincent (fl. 1879-1900), French botanist serving the botanical garden of Marseille. (*Davin*).
+Davin, Vincent (fl. 1879-1900), French botanist serving the botanical garden of Marseille. 
+**Abbreviated name**: *Davin*
 
 #### Herbarium and types
 

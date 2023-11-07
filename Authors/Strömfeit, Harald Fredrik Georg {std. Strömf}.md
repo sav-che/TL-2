@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103683#page/60/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33212054) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strömfeit, Harald Fredrik Georg (1861-1890), Swedish botanist; Dr. phil. Uppsala 1887; lecturer in botany at Uppsala Univ. and Regnellian amanuensis at the Stockholm Riksmuseum 1887-1890; travelled in Iceland 1883. (*Strömf*).
+Strömfeit, Harald Fredrik Georg (1861-1890), Swedish botanist; Dr. phil. Uppsala 1887; lecturer in botany at Uppsala Univ. and Regnellian amanuensis at the Stockholm Riksmuseum 1887-1890; travelled in Iceland 1883. 
+**Abbreviated name**: *Strömf*
 
 #### Herbarium and types
 

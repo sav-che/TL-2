@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103859#page/182/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265369) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Birkenhead, John (1847-1925), British nurseryman, owner, with his brother William of the Fern nurseries at Sale, Manchester from 1875-1908, later active as a stationer, corn dealer and ironmonger as well as a partner in the Fern nursery. (*Birkenhead*).
+Birkenhead, John (1847-1925), British nurseryman, owner, with his brother William of the Fern nurseries at Sale, Manchester from 1875-1908, later active as a stationer, corn dealer and ironmonger as well as a partner in the Fern nursery. 
+**Abbreviated name**: *Birkenhead*
 
 #### Herbarium and types
 

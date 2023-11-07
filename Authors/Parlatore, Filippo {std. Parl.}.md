@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/103624#page/80/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33189537) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parlatore, Filippo (1816-1877), Italian botanist; Dr. med. Palermo 1837; prosector and professor of anatomy at the University of Palermo; from 1842-1877 professor of botany and director of the botanic garden in Florence; founder of the herbarium of the botanical museum at Florence. (*Parl.*).
+Parlatore, Filippo (1816-1877), Italian botanist; Dr. med. Palermo 1837; prosector and professor of anatomy at the University of Palermo; from 1842-1877 professor of botany and director of the botanic garden in Florence; founder of the herbarium of the botanical museum at Florence. 
+**Abbreviated name**: *Parl.*
 
 #### Herbarium and types
 

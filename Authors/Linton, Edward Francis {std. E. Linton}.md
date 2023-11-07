@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/104137#page/129/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33355200) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linton, Edward Francis (1848-1928), English botanist of independent means; Univ. College Oxford D. A. 1871, M. A. 1874; 1871-1875 curate at St. Paul's, Preston; 1875-1878 rector at St. George's-in-the-Fields; 1878-1888 vicar at Sprowston, Norfolk; 1888-1901 retired at Bournemouth; 1901-1920 rector at Edmondsham, Dorset; ultimately at Southbourne, Hampshire. (*E. Linton*).
+Linton, Edward Francis (1848-1928), English botanist of independent means; Univ. College Oxford D. A. 1871, M. A. 1874; 1871-1875 curate at St. Paul's, Preston; 1875-1878 rector at St. George's-in-the-Fields; 1878-1888 vicar at Sprowston, Norfolk; 1888-1901 retired at Bournemouth; 1901-1920 rector at Edmondsham, Dorset; ultimately at Southbourne, Hampshire. 
+**Abbreviated name**: *E. Linton*
 
 #### Herbarium and types
 

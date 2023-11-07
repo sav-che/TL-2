@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103624#page/132/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33189589) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pawlowski, Bogumil (1898-1971), Polish botanist; Dr. phil. Craców 1922; at the Botanical Institute of the Polish Academy of Sciences, Craców; specialist on the floras of Poland and the Balkan peninsula. (*Pawl.*).
+Pawlowski, Bogumil (1898-1971), Polish botanist; Dr. phil. Craców 1922; at the Botanical Institute of the Polish Academy of Sciences, Craców; specialist on the floras of Poland and the Balkan peninsula. 
+**Abbreviated name**: *Pawl.*
 
 #### Herbarium and types
 

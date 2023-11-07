@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/103624#page/598/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33190055) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rattan, Volney (1840-1915), American school teacher and botanist; in California from 1861, settling in Placerville; at Santa Cruz high school 1873-1876; at girl's high school San Francisco 1876-1889; at San José normal school 1889-1906; in retirement living at Berkeley. (*Rattan*).
+Rattan, Volney (1840-1915), American school teacher and botanist; in California from 1861, settling in Placerville; at Santa Cruz high school 1873-1876; at girl's high school San Francisco 1876-1889; at San José normal school 1889-1906; in retirement living at Berkeley. 
+**Abbreviated name**: *Rattan*
 
 #### Herbarium and types
 

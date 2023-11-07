@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/104137#page/582/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33355653) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moore, Albert Hanford (1883-?), American botanist; AM Harvard 1906; worked at the Arnold Arboretum, Smithsonian Institution, USDA and with the United Fruit Co. (*A. H. Moore*).
+Moore, Albert Hanford (1883-?), American botanist; AM Harvard 1906; worked at the Arnold Arboretum, Smithsonian Institution, USDA and with the United Fruit Co. 
+**Abbreviated name**: *A. H. Moore*
 
 #### Herbarium and types
 

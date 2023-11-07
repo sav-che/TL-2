@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103624#page/428/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33189885) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Procházka, Jan Svatopluk (1891-1933), Czech botanist at the geological-palaeontological department of the National Museum of Prague; Dr. phil. Praha 1915. (*Proch.*).
+Procházka, Jan Svatopluk (1891-1933), Czech botanist at the geological-palaeontological department of the National Museum of Prague; Dr. phil. Praha 1915. 
+**Abbreviated name**: *Proch.*
 
 #### Herbarium and types
 

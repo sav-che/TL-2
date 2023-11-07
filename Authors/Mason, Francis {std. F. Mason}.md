@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/104137#page/364/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33355435) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mason, Francis (1799-1874), British missionary and botanist; in the United States 1818-1830; in Burma from 1830. (*F. Mason*).
+Mason, Francis (1799-1874), British missionary and botanist; in the United States 1818-1830; in Burma from 1830. 
+**Abbreviated name**: *F. Mason*
 
 #### Herbarium and types
 

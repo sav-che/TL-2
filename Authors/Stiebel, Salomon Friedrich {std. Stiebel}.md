@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103683#page/11/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stiebel, Salomon Friedrich (1792-1868), German (Hessen-Nassau) physician, zoologist and botanist; from 1855 hospital physician in Frankfurt; member of the Collegium medicum 1828; from 1845 physician at a children's hospital; zoological director of the Senckenbergische Naturforschende Gesellschaft. (*Stiebel*).
+Stiebel, Salomon Friedrich (1792-1868), German (Hessen-Nassau) physician, zoologist and botanist; from 1855 hospital physician in Frankfurt; member of the Collegium medicum 1828; from 1845 physician at a children's hospital; zoological director of the Senckenbergische Naturforschende Gesellschaft. 
+**Abbreviated name**: *Stiebel*
 
 #### Herbarium and types
 

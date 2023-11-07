@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/item/104077#page/106/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33333231) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sawada, Kaneyoshi (Kenkichi) (*fl*. 1920), Japanese botanist. (*Sawada*).
+Sawada, Kaneyoshi (Kenkichi) (*fl*. 1920), Japanese botanist. 
+**Abbreviated name**: *Sawada*
 
 #### Herbarium and types
 

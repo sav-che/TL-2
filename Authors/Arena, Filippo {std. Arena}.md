@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103858#page/165/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33264880) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Arena, Filippo (1708-1789), Italian (Sicily) jesuit, mathematician and botanist, teacher of mathematics at various Jesuit Colleges: at Viterbo, and as professor of mathematics at the Jesuit College in Malta, later at the Collegio imperial di Palermo, from 1773 in retirement in Rome. (*Arena*).
+Arena, Filippo (1708-1789), Italian (Sicily) jesuit, mathematician and botanist, teacher of mathematics at various Jesuit Colleges: at Viterbo, and as professor of mathematics at the Jesuit College in Malta, later at the Collegio imperial di Palermo, from 1773 in retirement in Rome. 
+**Abbreviated name**: *Arena*
 
 #### Herbarium and types
 

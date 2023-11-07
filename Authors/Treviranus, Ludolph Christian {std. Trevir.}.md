@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/item/103683#page/485/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33212517) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Treviranus, Ludolph Christian (1779-1864), German(Bremen) botanist; studied medicine and natural sciences at Jena; Dr. med. ib. 1801; practicing physician at Bremen but dedicating himself mainly to botany 1801-1807; third professor of medicine at the Bremen Lyceum (Gymnasium illustre) 1807-1812; ordinary professor of natural history and practicing physician in Rostock 1812-1816; professor of natural history at Breslau 1816-1830; professor of botany Bonn from 1830. (*Trevir.*).
+Treviranus, Ludolph Christian (1779-1864), German(Bremen) botanist; studied medicine and natural sciences at Jena; Dr. med. ib. 1801; practicing physician at Bremen but dedicating himself mainly to botany 1801-1807; third professor of medicine at the Bremen Lyceum (Gymnasium illustre) 1807-1812; ordinary professor of natural history and practicing physician in Rostock 1812-1816; professor of natural history at Breslau 1816-1830; professor of botany Bonn from 1830. 
+**Abbreviated name**: *Trevir.*
 
 #### Herbarium and types
 

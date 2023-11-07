@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103858#page/409/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265124) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bayer, Johann Nepomuk (1802-1870), Austrian botanist, born in Gross-Krosse/Velká Kras, in former Austrian Silesia \[now Czechoslovakia\], general railroad inspector in the Austrian-Hungarian Empire, mainly stationed in Vienna, sometime in Pest \[Budapest\] 1852 \[- ca. 1855\]; collected and published on the flora of Lower Austria, Moravia, Bohemia and Austrian Silesia (*J.N. Bayer*).
+Bayer, Johann Nepomuk (1802-1870), Austrian botanist, born in Gross-Krosse/Velká Kras, in former Austrian Silesia \[now Czechoslovakia\], general railroad inspector in the Austrian-Hungarian Empire, mainly stationed in Vienna, sometime in Pest \[Budapest\] 1852 \[- ca. 1855\]; collected and published on the flora of Lower Austria, Moravia, Bohemia and Austrian Silesia 
+**Abbreviated name**: *J.N. Bayer*
 
 #### Herbarium and types
 

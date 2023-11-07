@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/104137#page/460/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33355531) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meyer, Ernst Heinrich Friedrich (1791-1858), Prussian botanist; Dr. med. Göttingen 1819; lecturer Göttingen 1819-1826; from 1826 professor of botany and director of the botanical garden in Königsberg; Dr. phil.h.c. Königsberg 1829. (*E. Mey.*).
+Meyer, Ernst Heinrich Friedrich (1791-1858), Prussian botanist; Dr. med. Göttingen 1819; lecturer Göttingen 1819-1826; from 1826 professor of botany and director of the botanical garden in Königsberg; Dr. phil.h.c. Königsberg 1829. 
+**Abbreviated name**: *E. Mey.*
 
 #### Herbarium and types
 

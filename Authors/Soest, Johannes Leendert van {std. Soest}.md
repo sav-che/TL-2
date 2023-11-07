@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/item/104077#page/733/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soest, Johannes Leendert van (1898-1983), Dutch electro-technical engineer and amateur botanist; Ir. Delft 1925; engineer with the Physics laboratories of the Department of defense and the Dutch Postal and Telephone Services 1927-1964; extraordinary professor in electro-technical engineering Delft from 1949; active floristic botanist and plant geographer, especially interested in Taraxacum; Dr. h.c. Utrecht 1958. (*Soest*).
+Soest, Johannes Leendert van (1898-1983), Dutch electro-technical engineer and amateur botanist; Ir. Delft 1925; engineer with the Physics laboratories of the Department of defense and the Dutch Postal and Telephone Services 1927-1964; extraordinary professor in electro-technical engineering Delft from 1949; active floristic botanist and plant geographer, especially interested in Taraxacum; Dr. h.c. Utrecht 1958. 
+**Abbreviated name**: *Soest*
 
 #### Herbarium and types
 

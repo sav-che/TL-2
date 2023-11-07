@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/item/103624#page/1075/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/page/33190532) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saint-Amans, Jean Florimond Boudon de (1748-1831), French botanist and soldier; from 1768-1773 with a French expeditionary force in the French Antilles; from 1773 private scientist at Agen, sometime professor of natural history at the École centrale of Lot-et-Garonne; from 1800-1831 president of the conseil-général of the département Lot-et-Garonne, also devoting himself to archeology and numismatics. (*Saint-Amans*).
+Saint-Amans, Jean Florimond Boudon de (1748-1831), French botanist and soldier; from 1768-1773 with a French expeditionary force in the French Antilles; from 1773 private scientist at Agen, sometime professor of natural history at the École centrale of Lot-et-Garonne; from 1800-1831 president of the conseil-général of the département Lot-et-Garonne, also devoting himself to archeology and numismatics. 
+**Abbreviated name**: *Saint-Amans*
 
 #### Herbarium and types
 

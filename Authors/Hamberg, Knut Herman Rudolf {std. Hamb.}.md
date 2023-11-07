@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103253#page/59/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33068275) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hamberg, Knut Herman Rudolf (1873-1920), Swedish insurance inspector and botanist in Stockholm. (*Hamb.*).
+Hamberg, Knut Herman Rudolf (1873-1920), Swedish insurance inspector and botanist in Stockholm. 
+**Abbreviated name**: *Hamb.*
 
 #### Herbarium and types
 

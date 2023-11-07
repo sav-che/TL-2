@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1026](https://www.biodiversitylibrary.org/item/103414#page/1074/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1026](https://www.biodiversitylibrary.org/page/33121157) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Guşuleac, Mihail (Michail) {std. Gusul.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gusuleac, Mihail (1887-1960), Roumanian botanist. (*Gusul.*).
+Gusuleac, Mihail (1887-1960), Roumanian botanist. 
+**Abbreviated name**: *Gusul.*
 
 #### Herbarium and types
 

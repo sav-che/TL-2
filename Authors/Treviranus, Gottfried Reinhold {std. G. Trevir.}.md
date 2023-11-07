@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/item/103683#page/485/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33212517) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Treviranus, Gottfried Reinhold (1776-1837), German (Bremen) biologist, brother of Ludolph Christian Treviranus; studied medicine at Göttingen 1793-1796; Dr. med. ib. 1796; professor of mathematics and medicine at the Bremen Lyceum ("gymnasium illustre") and practicing physician in Bremen 1797-1837; introduced the notion of biology as the science of life in Germany (1802) almost simultaneously with Lamarck in France. (*G. Trevir.*).
+Treviranus, Gottfried Reinhold (1776-1837), German (Bremen) biologist, brother of Ludolph Christian Treviranus; studied medicine at Göttingen 1793-1796; Dr. med. ib. 1796; professor of mathematics and medicine at the Bremen Lyceum ("gymnasium illustre") and practicing physician in Bremen 1797-1837; introduced the notion of biology as the science of life in Germany (1802) almost simultaneously with Lamarck in France. 
+**Abbreviated name**: *G. Trevir.*
 
 #### Herbarium and types
 

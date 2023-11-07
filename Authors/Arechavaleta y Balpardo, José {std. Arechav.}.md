@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/item/103414#page/108/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33120191) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Arechavaleta y Balpardo, José {std. Arechav.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Arechavaleta y Balpardo, José (1838-1912), Uruguayan botanist (*Arechav.*).
+Arechavaleta y Balpardo, José (1838-1912), Uruguayan botanist 
+**Abbreviated name**: *Arechav.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103859#page/233/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265420) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bloomfield, Rev. Edwin Newson (1827-1914), British rector, botanist and entomologist born at Great Glenham, Suffolk, studied at the University of Cambridge, B.A. Cantab. 1850, rector at Guestling from 1862, worked on the botany of Suffolk, died at Guestling, Sussex. (*Bloomfield*).
+Bloomfield, Rev. Edwin Newson (1827-1914), British rector, botanist and entomologist born at Great Glenham, Suffolk, studied at the University of Cambridge, B.A. Cantab. 1850, rector at Guestling from 1862, worked on the botany of Suffolk, died at Guestling, Sussex. 
+**Abbreviated name**: *Bloomfield*
 
 #### Herbarium and types
 

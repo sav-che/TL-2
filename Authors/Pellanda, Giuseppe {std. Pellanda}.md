@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103624#page/161/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33189618) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pellanda, Giuseppe (*fl*. 1904), Italian botanist. (*Pellanda*).
+Pellanda, Giuseppe (*fl*. 1904), Italian botanist. 
+**Abbreviated name**: *Pellanda*
 
 #### Herbarium and types
 

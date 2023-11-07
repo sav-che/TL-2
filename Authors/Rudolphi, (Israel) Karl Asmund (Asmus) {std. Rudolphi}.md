@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/item/103624#page/988/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudolphi, \[Israel\] Karl Asmund \[Asmus\] (1771-1832), Swedish-born German (Jewish) naturalist, physician, and numismatologist; studied in Greifswald; Dr. phil. 1793; Dr. med. 1794; lecturer ("Privatdozent") Greifswald 1793-1798; prosector ib. 1798; professor of medicine 1808; professor of medicine and anatomy at the University of Berlin 1810; Geh. Medicinalrath 1817. (*Rudolphi*).
+Rudolphi, \[Israel\] Karl Asmund \[Asmus\] (1771-1832), Swedish-born German (Jewish) naturalist, physician, and numismatologist; studied in Greifswald; Dr. phil. 1793; Dr. med. 1794; lecturer ("Privatdozent") Greifswald 1793-1798; prosector ib. 1798; professor of medicine 1808; professor of medicine and anatomy at the University of Berlin 1810; Geh. Medicinalrath 1817. 
+**Abbreviated name**: *Rudolphi*
 
 #### Herbarium and types
 

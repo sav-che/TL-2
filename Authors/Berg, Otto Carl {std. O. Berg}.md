@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103414#page/233/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33120316) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berg, Otto Carl {std. O. Berg} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Berg, Otto Carl (1815-1866), German botanist, professor of pharmaceutical botany at Berlin University. (*O. Berg*).
+Berg, Otto Carl (1815-1866), German botanist, professor of pharmaceutical botany at Berlin University. 
+**Abbreviated name**: *O. Berg*
 
 #### Herbarium and types
 

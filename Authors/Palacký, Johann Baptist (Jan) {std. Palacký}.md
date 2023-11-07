@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103624#page/24/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33189505) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palacký, Johann Baptist \[Jan\] (1830-1908), Bohemian politician, geographer, botanist and ichthyologist; Dr. phil. Praha 1850; lecturer in geography, later also in botany at Praha 1856-1866; 1878-1885; extraordinary professor 1885-1902; travelled widely mainly in Europe. (*Palacký*).
+Palacký, Johann Baptist \[Jan\] (1830-1908), Bohemian politician, geographer, botanist and ichthyologist; Dr. phil. Praha 1850; lecturer in geography, later also in botany at Praha 1856-1866; 1878-1885; extraordinary professor 1885-1902; travelled widely mainly in Europe. 
+**Abbreviated name**: *Palacký*
 
 #### Herbarium and types
 

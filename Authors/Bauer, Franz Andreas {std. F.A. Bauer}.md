@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/103414#page/194/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33120277) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bauer, Franz Andreas {std. F.A. Bauer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bauer, Franz Andreas (1758-1840), Austrian botanical artist who lived and worked in England from 1788 until his death. "Botanick painter to His Majesty," "der grösste Pflanzenmahler" (PR), brother of Ferdinand Lukas Bauer. (*F. A. Bauer*).
+Bauer, Franz Andreas (1758-1840), Austrian botanical artist who lived and worked in England from 1788 until his death. "Botanick painter to His Majesty," "der grösste Pflanzenmahler" (PR), brother of Ferdinand Lukas Bauer. 
+**Abbreviated name**: *F. A. Bauer*
 
 #### Original drawings
 

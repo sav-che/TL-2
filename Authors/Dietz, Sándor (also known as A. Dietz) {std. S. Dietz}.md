@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103833#page/349/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33259383) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dietz, Sándor (also known as A. Dietz) (fl. 1887), Hungarian botanist, assistant at the chair of botany of the university. (*S. Dietz*).
+Dietz, Sándor (also known as A. Dietz) (fl. 1887), Hungarian botanist, assistant at the chair of botany of the university. 
+**Abbreviated name**: *S. Dietz*
 
 #### Herbarium and types
 

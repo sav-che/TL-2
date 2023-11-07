@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/item/103861#page/469/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33266766) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Castle, Thomas (c. 1804- c. 1840), British physician and botanist, Fellow of the Linnean Society 1827, studied at Cambridge, Trinity College 1831-1832, apprenticed to a surgeon at Hyth, studied at Guy's Hospital 1826, resident in Brighton, "styled himself M.D. in 1838" (fide DNB). (*Th. Castle*).
+Castle, Thomas (c. 1804- c. 1840), British physician and botanist, Fellow of the Linnean Society 1827, studied at Cambridge, Trinity College 1831-1832, apprenticed to a surgeon at Hyth, studied at Guy's Hospital 1826, resident in Brighton, "styled himself M.D. in 1838" (fide DNB). 
+**Abbreviated name**: *Th. Castle*
 
 #### Herbarium and types
 

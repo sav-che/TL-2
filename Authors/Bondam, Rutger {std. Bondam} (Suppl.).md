@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103859#page/320/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bondam, Rutger {std. Bondam}|first entry]] for this author
 
 ### Author
 
-\* Bondam, Rutger (1817-1896), Dutch floristic botanist, living subsequently in Kampen, Harderwijk, Amersfoort and 's Gravenhage. (*Bondam*).
+\* Bondam, Rutger (1817-1896), Dutch floristic botanist, living subsequently in Kampen, Harderwijk, Amersfoort and 's Gravenhage. 
+**Abbreviated name**: *Bondam*
 
 #### Herbarium and types
 

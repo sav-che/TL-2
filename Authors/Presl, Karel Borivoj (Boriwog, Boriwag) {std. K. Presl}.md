@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/103624#page/404/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33189861) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Presl, Karel Borivoj \[Boriwog, Boriwag\] (1794-1852), Czech botanist; curator at the Prague national Museum; professor of botany at Prague university 1833-1852. (*K. Presl*).
+Presl, Karel Borivoj \[Boriwog, Boriwag\] (1794-1852), Czech botanist; curator at the Prague national Museum; professor of botany at Prague university 1833-1852. 
+**Abbreviated name**: *K. Presl*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103858#page/195/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33264910) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Arwidsson, Thorsten (1904-1948), Swedish botanist. (*Arwidss.*).
+Arwidsson, Thorsten (1904-1948), Swedish botanist. 
+**Abbreviated name**: *Arwidss.*
 
 #### Herbarium and types
 

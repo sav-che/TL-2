@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103833#page/186/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33259220) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delbrouck, Conrad (1851-1876), German botanist, born at Bonn 23 March 1851, died 4 April 1876 Bonn, at the "Rektoratsschule" in Hünshoven, Kreis Geilenkirchen, later following three years in the Gymnasium at Neuss am Rhein, studied at the Universities of Bonn and Strasbourg, thesis at the Philosophische Facultät of the Rheinische Friedrich-Wilhelms-Universität at Bonn, had worked with Hanstein. (*Delbrouck*).
+Delbrouck, Conrad (1851-1876), German botanist, born at Bonn 23 March 1851, died 4 April 1876 Bonn, at the "Rektoratsschule" in Hünshoven, Kreis Geilenkirchen, later following three years in the Gymnasium at Neuss am Rhein, studied at the Universities of Bonn and Strasbourg, thesis at the Philosophische Facultät of the Rheinische Friedrich-Wilhelms-Universität at Bonn, had worked with Hanstein. 
+**Abbreviated name**: *Delbrouck*
 
 #### Herbarium and types
 

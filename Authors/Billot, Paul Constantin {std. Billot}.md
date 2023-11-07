@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103414#page/263/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Billot, Paul Constantin {std. Billot} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Billot, Paul Constantin (1796-1863), Alsatian botanist at Hagenau. (*Billot*).
+Billot, Paul Constantin (1796-1863), Alsatian botanist at Hagenau. 
+**Abbreviated name**: *Billot*
 
 #### Herbarium and types
 

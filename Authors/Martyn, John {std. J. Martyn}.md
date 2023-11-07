@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/104137#page/357/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33355428) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martyn, John (1699-1768), British physician and botanist at London and Cambridge. (*J. Martyn*).
+Martyn, John (1699-1768), British physician and botanist at London and Cambridge. 
+**Abbreviated name**: *J. Martyn*
 
 #### Herbarium and types
 

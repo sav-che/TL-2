@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/item/103253#page/841/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Legendre, Charles Valentin Alexandre (1841-1935), French botanist; founder (1889) of Société botanique du Limousin; founder and editor of *Le règne végétal* (1890-1892) ctd. as *Revue scientifique du Limousin* (1893-1909). (*Legendre*).
+Legendre, Charles Valentin Alexandre (1841-1935), French botanist; founder (1889) of Société botanique du Limousin; founder and editor of *Le règne végétal* (1890-1892) ctd. as *Revue scientifique du Limousin* (1893-1909). 
+**Abbreviated name**: *Legendre*
 
 #### Herbarium and types
 

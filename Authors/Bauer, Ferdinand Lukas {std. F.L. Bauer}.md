@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103414#page/193/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33120276) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bauer, Ferdinand Lucas {std. F.L. Bauer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bauer, Ferdinand Lukas (1760-1826), Austrian botanical artist who accompanied Sibthorp to Greece (1784) and Robert Brown on Flinders' Expedition (1801-1805). (*F. L. Bauer*).
+Bauer, Ferdinand Lukas (1760-1826), Austrian botanical artist who accompanied Sibthorp to Greece (1784) and Robert Brown on Flinders' Expedition (1801-1805). 
+**Abbreviated name**: *F. L. Bauer*
 
 #### Original drawings
 

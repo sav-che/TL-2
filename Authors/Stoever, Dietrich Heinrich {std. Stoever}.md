@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103683#page/23/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33212081) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stoever, Dietrich Heinrich (1767-1822), German (Hamburg) author on Linnaeus. (*Stoever*).
+Stoever, Dietrich Heinrich (1767-1822), German (Hamburg) author on Linnaeus. 
+**Abbreviated name**: *Stoever*
 
 #### Herbarium and types
 

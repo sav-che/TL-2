@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103833#page/330/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33259364) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diercke, Carl (1842-?), geographer and botanist, some time at Riga, born 15 Sep 1842 Kyritz, seminar director Stade, later "Regierungs- und Schulrath" at Osnabrück. (*Diercke*).
+Diercke, Carl (1842-?), geographer and botanist, some time at Riga, born 15 Sep 1842 Kyritz, seminar director Stade, later "Regierungs- und Schulrath" at Osnabrück. 
+**Abbreviated name**: *Diercke*
 
 #### Herbarium and types
 

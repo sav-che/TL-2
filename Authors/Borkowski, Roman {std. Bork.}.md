@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103859#page/351/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265538) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borkowski, Roman (1882-?), Russian (?) botanist, who studied at the University of Neuchâtel, Switzerland, Dr. phil. ib. 1913. (*Bork.*).
+Borkowski, Roman (1882-?), Russian (?) botanist, who studied at the University of Neuchâtel, Switzerland, Dr. phil. ib. 1913. 
+**Abbreviated name**: *Bork.*
 
 #### Herbarium and types
 

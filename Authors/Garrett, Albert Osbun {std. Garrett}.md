@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/item/103414#page/966/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/page/33121049) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Garrett, Albert Osbun (1870-1948), American high-school teacher and amateur mycologist at Salt Lake City, Utah. (*Garrett*).
+Garrett, Albert Osbun (1870-1948), American high-school teacher and amateur mycologist at Salt Lake City, Utah. 
+**Abbreviated name**: *Garrett*
 
 #### Herbarium and types
 

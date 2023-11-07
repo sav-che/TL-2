@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103858#page/269/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33264984) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bailey, Frederick Manson {std. F.M. Bailey}|first entry]] for this author
 
 ### Author
 
-\* Bailey, Frederick Manson (1827-1915), British born Australian botanist, emigrated with his family to South Australia 1839, working with his father in a vegetable garden for the immigrants, and later again with his father in a commercial nursery, some time participating in the gold rush to Victoria, to New Zealand 1858, to Brisbane, Queensland in 1862 opening a seedstore; botanist with the Queensland government 1875, acting-curator at the Queensland Museum 1880-1882, colonial botanist of Queensland 1889-1915. (*F.M. Bailey*).
+\* Bailey, Frederick Manson (1827-1915), British born Australian botanist, emigrated with his family to South Australia 1839, working with his father in a vegetable garden for the immigrants, and later again with his father in a commercial nursery, some time participating in the gold rush to Victoria, to New Zealand 1858, to Brisbane, Queensland in 1862 opening a seedstore; botanist with the Queensland government 1875, acting-curator at the Queensland Museum 1880-1882, colonial botanist of Queensland 1889-1915. 
+**Abbreviated name**: *F.M. Bailey*
 
 #### Herbarium and types
 

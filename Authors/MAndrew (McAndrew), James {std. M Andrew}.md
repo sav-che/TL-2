@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/104137#page/224/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33355295) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-M'Andrew \[McAndrew\], James (1836-1917), British school-teacher and botanist. (*M' Andrew*).
+M'Andrew \[McAndrew\], James (1836-1917), British school-teacher and botanist. 
+**Abbreviated name**: *M' Andrew*
 
 #### Herbarium and types
 

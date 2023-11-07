@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/103253#page/546/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kelly, Howard Atwood (1858-1943), American physician, mycologist and bibliophile at Baltimore. (*H. Kelly*).
+Kelly, Howard Atwood (1858-1943), American physician, mycologist and bibliophile at Baltimore. 
+**Abbreviated name**: *H. Kelly*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/item/103624#page/958/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33190415) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roux, Honoré (1812-1892), French stevedore and naturalist at Marseille. (*Roux*).
+Roux, Honoré (1812-1892), French stevedore and naturalist at Marseille. 
+**Abbreviated name**: *Roux*
 
 #### Herbarium and types
 

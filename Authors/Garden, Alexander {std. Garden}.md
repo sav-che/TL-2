@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 914](https://www.biodiversitylibrary.org/item/103414#page/962/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 914](https://www.biodiversitylibrary.org/page/33121045) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Garden, Alexander (1730-1791), American physician and botanist, correspondent of Collinson, Ellis and Linnaeus. (*Garden*).
+Garden, Alexander (1730-1791), American physician and botanist, correspondent of Collinson, Ellis and Linnaeus. 
+**Abbreviated name**: *Garden*
 
 #### Herbarium and types
 

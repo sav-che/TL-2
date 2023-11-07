@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103834#page/205/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33259687) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Filhol, \[Jean Pierre\] Édouard \[Bernard\] (1814-1883), French pharmacist and chemist, born 7 Oct 1814 in Toulouse, employed by an apothecary 1831-1834, removed to Paris where he continued to study pharmacy, chief pharmacist, Beaujon Hospital 1838, returned to Toulouse as prof., School of Medicine 1841, did thesis in Paris 18 Nov 1842 (on copal) and second thesis 21 Oct 1844, then Prof. of Chemistry, Faculty of Sciences 1854 and dir., School of Medicine 1858, also served as mayor of Toulouse and inspector of pharmacies for the Haute-Garonne, Légion d'honneur 1856, died 25 Jun 1883 (in Toulouse?). (*E. Filhol*).
+Filhol, \[Jean Pierre\] Édouard \[Bernard\] (1814-1883), French pharmacist and chemist, born 7 Oct 1814 in Toulouse, employed by an apothecary 1831-1834, removed to Paris where he continued to study pharmacy, chief pharmacist, Beaujon Hospital 1838, returned to Toulouse as prof., School of Medicine 1841, did thesis in Paris 18 Nov 1842 (on copal) and second thesis 21 Oct 1844, then Prof. of Chemistry, Faculty of Sciences 1854 and dir., School of Medicine 1858, also served as mayor of Toulouse and inspector of pharmacies for the Haute-Garonne, Légion d'honneur 1856, died 25 Jun 1883 (in Toulouse?). 
+**Abbreviated name**: *E. Filhol*
 
 #### Note
 

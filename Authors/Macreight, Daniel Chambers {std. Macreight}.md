@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/104137#page/252/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33355323) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macreight, Daniel Chambers (1799-1868), Irish physician and botanist; BA Dublin 1820, MD 1827; lecturer at Middlesex Hospital, 1837 (*Macreight*).
+Macreight, Daniel Chambers (1799-1868), Irish physician and botanist; BA Dublin 1820, MD 1827; lecturer at Middlesex Hospital, 1837 
+**Abbreviated name**: *Macreight*
 
 #### Herbarium and types
 

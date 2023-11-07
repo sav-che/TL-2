@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/item/103250#page/406/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33066686) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willmott, Ellen Ann (1858-1934), British horticulturist, had gardens at Warley Place, Essex, Aix-les-Bains and on the Riviera. (*E. Willm.*).
+Willmott, Ellen Ann (1858-1934), British horticulturist, had gardens at Warley Place, Essex, Aix-les-Bains and on the Riviera. 
+**Abbreviated name**: *E. Willm.*
 
 #### Herbarium and types
 

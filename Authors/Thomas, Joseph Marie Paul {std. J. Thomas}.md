@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103683#page/285/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33212317) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas, Joseph Marie Paul (1872-?), French physician and botanist; Dr. sci. nat. Paris 1900. (*J. Thomas*).
+Thomas, Joseph Marie Paul (1872-?), French physician and botanist; Dr. sci. nat. Paris 1900. 
+**Abbreviated name**: *J. Thomas*
 
 #### Herbarium and types
 

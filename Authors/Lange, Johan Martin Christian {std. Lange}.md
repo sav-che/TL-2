@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/103253#page/772/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33068988) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lange, Johan Martin Christian (1818-1898), Danish botanist at Copenhagen; 1842-1848 teacher; 1851-1858 librarian at the botanical garden (1856-1876 part-time director); 1858-1893 lecturer in botany at the agricultural and veterinary college; from 1860 professor of botany at the polytechnical university; Dr. phil. h.c. 1877 Uppsala. (*Lange*).
+Lange, Johan Martin Christian (1818-1898), Danish botanist at Copenhagen; 1842-1848 teacher; 1851-1858 librarian at the botanical garden (1856-1876 part-time director); 1858-1893 lecturer in botany at the agricultural and veterinary college; from 1860 professor of botany at the polytechnical university; Dr. phil. h.c. 1877 Uppsala. 
+**Abbreviated name**: *Lange*
 
 #### Herbarium and types
 

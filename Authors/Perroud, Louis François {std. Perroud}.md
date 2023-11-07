@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103624#page/191/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33189648) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perroud, Louis François (1833-1889), French botanist; Dr. med. Paris 1858; connected with the Faculté de Médecine and hospital physician at Lyon from 1860-1889. (*Perroud*).
+Perroud, Louis François (1833-1889), French botanist; Dr. med. Paris 1858; connected with the Faculté de Médecine and hospital physician at Lyon from 1860-1889. 
+**Abbreviated name**: *Perroud*
 
 #### Herbarium and types
 

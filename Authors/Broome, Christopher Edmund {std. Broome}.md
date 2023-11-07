@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103414#page/405/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33120488) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Broome, Christoph Edmund {std. Broome} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Broome, Christopher Edmund (1812-1886), British mycologist, collaborated with M.J. Berkeley. (*Broome*).
+Broome, Christopher Edmund (1812-1886), British mycologist, collaborated with M.J. Berkeley. 
+**Abbreviated name**: *Broome*
 
 #### Herbarium and types
 

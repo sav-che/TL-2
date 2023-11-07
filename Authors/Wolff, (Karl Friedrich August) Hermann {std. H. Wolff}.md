@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103250#page/483/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33066763) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolff, \[Karl Friedrich August\] Hermann (1866-1929), German (Braunschweig, Brunswick) veterinarian and botanist; studied veterinary medicine in Berlin 1885-1890; municipal veterinarian in Berlin from 1894; Dr. phil. Berlin 1925; travelled widely in S.E. Europe and the Near East; student of the Umbelliferae. (*H. Wolff*).
+Wolff, \[Karl Friedrich August\] Hermann (1866-1929), German (Braunschweig, Brunswick) veterinarian and botanist; studied veterinary medicine in Berlin 1885-1890; municipal veterinarian in Berlin from 1894; Dr. phil. Berlin 1925; travelled widely in S.E. Europe and the Near East; student of the Umbelliferae. 
+**Abbreviated name**: *H. Wolff*
 
 #### Herbarium and types
 

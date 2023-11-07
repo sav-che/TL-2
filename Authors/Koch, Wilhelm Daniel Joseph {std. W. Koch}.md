@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/item/103253#page/617/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33068833) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koch, Wilhelm Daniel Joseph (1771-1849), German physician and botanist; Dr. med. Giessen 1794; practiced at Kaiserslautern from 1797 until 1824, then professor of botany at Erlangen. (*W. Koch*).
+Koch, Wilhelm Daniel Joseph (1771-1849), German physician and botanist; Dr. med. Giessen 1794; practiced at Kaiserslautern from 1797 until 1824, then professor of botany at Erlangen. 
+**Abbreviated name**: *W. Koch*
 
 #### Herbarium and types
 

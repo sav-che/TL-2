@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103860#page/312/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265979) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conn, Herbert William (1859-1917), American algologist and dairy bacteriologist, born Fitchburg, Mass., 10 Jan 1859, A.B. Boston 1881, A.M. 1882, Ph.D. Hopkins 1884, instructor in biology at the Wesleyan 1884-1886, assistant professor 1886-1888, director at Cold Spring Harbor 1889-1897, bacteriologist Storrs Exper. Station Conn. Col. 1890-1905, lecturer dairy bacteriology 1901-1905, full professor 1898-1917, bacteriologist at Connecticut State Laboratory 1905-1917. (*Conn*).
+Conn, Herbert William (1859-1917), American algologist and dairy bacteriologist, born Fitchburg, Mass., 10 Jan 1859, A.B. Boston 1881, A.M. 1882, Ph.D. Hopkins 1884, instructor in biology at the Wesleyan 1884-1886, assistant professor 1886-1888, director at Cold Spring Harbor 1889-1897, bacteriologist Storrs Exper. Station Conn. Col. 1890-1905, lecturer dairy bacteriology 1901-1905, full professor 1898-1917, bacteriologist at Connecticut State Laboratory 1905-1917. 
+**Abbreviated name**: *Conn*
 
 #### Herbarium and types
 

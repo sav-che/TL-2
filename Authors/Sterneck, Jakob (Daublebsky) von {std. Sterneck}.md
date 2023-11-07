@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/item/104077#page/917/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33334042) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sterneck, Jakob \[Daublebsky\] von (1864-1941), Bohemian botanist and entomologist; with R. v. Wettstein in Prague 1892-1895; district commissioner in Eger (Cheb), Trautenau, and, ultimately at Drahowitz nr Karlsbad. (*Sterneck*).
+Sterneck, Jakob \[Daublebsky\] von (1864-1941), Bohemian botanist and entomologist; with R. v. Wettstein in Prague 1892-1895; district commissioner in Eger (Cheb), Trautenau, and, ultimately at Drahowitz nr Karlsbad. 
+**Abbreviated name**: *Sterneck*
 
 #### Herbarium and types
 

@@ -1,4 +1,4 @@
-This is a list of abbreviations recognized as collection codes, either matched automatically to current Index Herbariorum (IH) or manually resolved where possible. Erroneous abbreviations with typographic errors are also listed. In most cases they were fixed by comparison with printed editions of "Index Herbariorum. Part II. Collectors" (IH-Collectors) [at BHL](https://www.biodiversitylibrary.org/bibliography/200637). "Part I. The herbaria of the world" is cited below as IH-Herbaria. Extended table of edits, including acronyms with OCR errors that were initially parsed as separate herbaria, can be found [at GitHub](https://github.com/sav-che/TL-2/tree/main/Maintenance/raw_files) (`tl2-collections`).
+This is a list of abbreviations recognized as collection codes, either matched automatically to current Index Herbariorum (IH) or manually resolved where possible. Erroneous abbreviations with typographic errors are also listed. In most cases they were fixed by comparison with printed editions of "Index Herbariorum. Part II. Collectors" (IH-Collectors) [at BHL](https://www.biodiversitylibrary.org/bibliography/200637). "Part I. The herbaria of the world" is cited below as IH-Herbaria.
 
 ___
 
@@ -11,7 +11,7 @@ ___
 |AAU<br/>[[Collection AAU\|AAU]]	|IH-matched	|Aarhus University	|Aarhus, Denmark	|Active	|
 |ABD<br/>[[Collection ABD\|ABD]]	|IH-matched	|University of Aberdeen	|Aberdeen, Scotland, United Kingdom	|Active	|
 |ABFM<br/>[[Collection ABFM\|ABFM]]	|GRSciColl has a record. Only a 404 [link to IH](http://sweetgum.nybg.org/science/ih/herbarium-details/?irn=126143). Made a page manually	|Barnes Arboretum at St. Joseph's University	|Merion, Pennsylvania, U.S.A.	|Active?	|
-|AHFM<br/>[[Collection ABFM\|ABFM]]	|Typo or alternative spelling. Should be ABFM	|	|	|	|
+|AHFM<br/>[[Collection ABFM\|ABFM]]	|Typo. Should be ABFM	|	|	|	|
 |ABI<br/>[[Collection ABI\|ABI]]	|IH-matched	|Centre ORSTOM d'Adiopodoume	|Abidjan, Ivory Coast	|Inactive	|
 |ABS<br/>[[Collection ABS\|ABS]]	|IH-matched	|Aberystwyth University	|Aberystwyth, Wales, U.K.	|Active	|
 |ABSH<br/>[[Collection ABSH\|ABSH]]	|IH-matched	|Southern Illinois University	|Carbondale, Illinois, U.S.A.	|Inactive	|
@@ -19,7 +19,7 @@ ___
 |AC<br/>[[Collection AC\|AC]]	|IH-matched 	|Amherst College	|Amherst, Massachusetts, U.S.A.	|Inactive	|
 |ACA<br/>[[Collection ACA\|ACA]]	|IH-matched	|Agricultural University of Athens	|Athens, Greece	|Active	|
 |ACAD<br/>[[Collection ACAD\|ACAD]]	|IH-matched	|Acadia University	|Wolfville, Nova Scotia, Canada	|Active	|
-|AKAD<br/>[[Collection ACAD\|ACAD]]	|Typo or alternative spelling. Should be ACAD	|	|	|	|
+|AKAD<br/>[[Collection ACAD\|ACAD]]	|Typo. Should be ACAD	|	|	|	|
 |AD<br/>[[Collection AD\|AD]]	|IH-matched	|State Herbarium of South Australia	|Adelaide, South Australia, Australia	|Active	|
 |ADMONT<br/>[[Collection ADMONT\|ADMONT]]	|IH-matched	|Benediktinerstift Admont	|Admont, Austria	|Active	|
 |ADU<br/>[[Collection ADU\|ADU]]	|IH-matched	|University of Adelaide	|Adelaide, South Australia, Australia	|Inactive	|
@@ -53,7 +53,7 @@ ___
 |AUT<br/>[[Collection AUT\|AUT]]	|IH-matched	|Muséum d'Histoire Naturelle	|Autun, France	|Active	|
 |AV<br/>[[Collection AV\|AV]]	|IH-matched	|Muséum Requien	|Avignon, France	|Active	|
 |AWH<br/>[[Collection AWH\|AWH]]	|IH-matched	|Dr. Henri Van Heurck Museum	|Antwerpen, Belgium	|Permanently closed	|
-|AWM<br/>[[Collection AWH\|AWH]]	|Typo or alternative spelling. Should be AWH	|	|	|	|
+|AWM<br/>[[Collection AWH\|AWH]]	|Typo. Should be AWH	|	|	|	|
 |AZ<br/>[[Collection AZ\|AZ]]	|IH-matched	|Museu Carlos Machado	|Ponta Delgada, Azores, Portugal	|Active	|
 |B<br/>[[Collection B\|B]]	|IH-matched	|ZE Botanischer Garten und Botanisches Museum, Freie Universität Berlin	|Berlin, Berlin, Germany	|Active	|
 |BA<br/>[[Collection BA\|BA]]	|IH-matched	|"Museo Argentino de Ciencias Naturales ""Bernardino Rivadavia"""	|Buenos Aires, Buenos Aires, Argentina	|Active	|
@@ -82,7 +82,7 @@ ___
 |BCW<br/>[[Collection BCW\|BCW]]	|IH-matched	|Bedford College, University of London	|Egham, England, U.K.	|Permanently closed	|
 |BDI<br/>[[Collection BDI\|BDI]]	|IH-matched	|Putnam Museum of History and Natural Science	|Davenport, Iowa, U.S.A.	|Active	|
 |BDK<br/>[[Collection BDK\|BDK]]	|IH-matched	|North Hertfordshire Museums Service	|Hitchin, Hertfordshire, England, U.K.	|Active	|
-|BE<br/>[[Collection BE\|BE]]	|In Burgerbibliothek Bern. Not BERN! No IH or grscicoll record	|	|	|	|
+|BE<br/>[[Collection BE\|BE]]	|In Burgerbibliothek Bern. Not BERN! No IH or GRSciColl record	|	|	|	|
 |BEI<br/>[[Collection BEI\|BEI]]	|IH-matched	|American University of Beirut	|Beirut, Lebanon	|Active	|
 |BEL<br/>[[Collection BEL\|BEL]]	|IH-matched	|National Museums Northern Ireland (Ulster Museum)	|Cultra, Holywood, Northern Ireland, U.K.	|Active	|
 |BERN<br/>[[Collection BERN\|BERN]]	|IH-matched	|University of Bern	|Bern, Switzerland	|Active	|
@@ -113,7 +113,7 @@ ___
 |BM<br/>[[Collection BM\|BM]]	|IH-matched	|The Natural History Museum	|London, England, U.K.	|Active	|
 |BMH<br/>[[Collection BMH\|BMH]]	|IH-matched	|Museum	|Bournemouth, England, U.K.	|Active	|
 |BMNH<br/>[[Collection BMNH\|BMNH]]	|Library of British Museum (Natural History) London	|	|	|	|
-|BMU<br/>[[Collection BMU\|BMU]]	|Not an OCR error. Not in IH8. BM? Suggestion added in text	|	|	|	|
+|BMU<br/>[[Collection BMU\|BMU]]	|Not an OCR error. Not in IH-Herbaria. BM? Suggestion added in text	|	|	|	|
 |BNS<br/>[[Collection BNS\|BNS]]	|IH-matched	|Bristol Museum and Art Gallery	|Bristol, England, U.K.	|Inactive	|
 |BO<br/>[[Collection BO\|BO]]	|IH-matched	|Research Centre for Biology	|Cibinong, Indonesia	|Active	|
 |BOG<br/>[[Collection BOG\|BOG]]	|IH-matched	|Universidad de La Salle	|Bogotá, D.C., Colombia	|Active	|
@@ -136,8 +136,8 @@ ___
 |BRI<br/>[[Collection BRI\|BRI]]	|IH-matched	|Queensland Herbarium & Biodiversity Science	|Brisbane, Queensland, Australia	|Active	|
 |BRIST<br/>[[Collection BRIST\|BRIST]]	|IH-matched	|University of Bristol	|Bristol, England, U.K.	|Inactive	|
 |BRISTM<br/>[[Collection BRISTM\|BRISTM]]	|IH-matched	|Bristol Museum and Art Gallery	|Bristol, England, U.K.	|Active	|
-|BRSITM<br/>[[Collection BRISTM\|BRISTM]]	|Typo or alternative spelling. Should be BRISTM	|	|	|	|
-|BRSTM<br/>[[Collection BRISTM\|BRISTM]]	|Typo or alternative spelling. Should be BRISTM	|	|	|	|
+|BRSITM<br/>[[Collection BRISTM\|BRISTM]]	|Typo. Should be BRISTM	|	|	|	|
+|BRSTM<br/>[[Collection BRISTM\|BRISTM]]	|Typo. Should be BRISTM	|	|	|	|
 |BRISTOL<br/>[[Collection BRISTM\|BRISTOL]]	|TL-2 has BRIST and BRISTM. Currently the former is fused with the latter.	|	|	|	|
 |BRIT<br/>[[Collection BRIT\|BRIT]]	|IH-matched	|Botanical Research Institute of Texas	|Fort Worth, Texas, U.S.A.	|Active	|
 |BRL<br/>[[Collection BRL\|BRL]]	|IH-matched	|Bristol City Library	|Bristol, England, U.K.	|Active	|
@@ -192,8 +192,8 @@ ___
 |CFMR<br/>[[Collection CFMR\|CFMR]]	|IH-matched	|U.S. Forest Service, NRS, Center for Forest Mycology Research	|Madison, Wisconsin, U.S.A.	|Active	|
 |CFN<br/>[[Collection CFN\|CFN]]	|IH-matched	|Clifton College	|Bristol, England, U.K.	|Inactive	|
 |CGE<br/>[[Collection CGE\|CGE]]	|IH-matched	|Cambridge University Herbarium	|Cambridge, England, U.K.	|Active	|
-|CGI<br/>[[Collection CGE\|CGE]]	|Typo or alternative spelling. Should be CGE	|	|	|	|
-|CSE<br/>[[Collection CGE\|CGE]]	|Typo or alternative spelling. Should be CGE	|	|	|	|
+|CGI<br/>[[Collection CGE\|CGE]]	|Typo. Should be CGE	|	|	|	|
+|CSE<br/>[[Collection CGE\|CGE]]	|Typo. Should be CGE	|	|	|	|
 |CH<br/>[[Collection CH\|CH]]	|IH-matched	|El Colegio de la Frontera Sur	|San Cristóbal de las Casas, Chiapas, Mexico	|Active	|
 |CHARL<br/>[[Collection CHARL\|CHARL]]	|IH-matched	|Charleston Museum	|Charleston, South Carolina, U.S.A.	|Active	|
 |CHE<br/>[[Collection CHE\|CHE]]	|IH-matched	|Société Nationale des Sciences Naturelles et Mathématiques de Cherbourg	|Cherbourg, France	|Active	|
@@ -204,7 +204,7 @@ ___
 |CHUR<br/>[[Collection CHUR\|CHUR]]	|IH-matched	|Bündner Naturmuseum	|Chur, Switzerland	|Active	|
 |CI<br/>[[Collection CI\|CI]]	|IH-matched	|Carnegie Institution of Washington	|Stanford, California, U.S.A.	|Inactive	|
 |CINC<br/>[[Collection CINC\|CINC]]	|IH-matched	|University of Cincinnati	|Cincinnati, Ohio, U.S.A.	|Active	|
-|CINN<br/>[[Collection CINC\|CINC]]	|Typo or alternative spelling. Should be CINC	|	|	|	|
+|CINN<br/>[[Collection CINC\|CINC]]	|Typo. Should be CINC	|	|	|	|
 |CL<br/>[[Collection CL\|CL]]	|IH-matched	|Babes-Bolyai University	|Cluj-Napoca, Romania	|Active	|
 |CLA<br/>[[Collection CLA\|CLA]]	|IH-matched	|Universitatea de Stiinte Agricole si Medicina Veterinara	|Cluj-Napoca, Romania	|Active	|
 |CLCB<br/>[[Collection CLCB\|CLCB]]	|IH-matched	|Laboratorul de Ecologie	|Cluj-Napoca, Romania	|Inactive	|
@@ -230,7 +230,7 @@ ___
 |CSAT<br/>[[Collection CSAT\|CSAT]]	|IH-matched	|Colegio de Postgraduados, Campus Tabasco	|Cárdenas, Tabasco, Mexico	|Active	|
 |CT<br/>[[Collection CT\|CT]]	|IH-matched	|University of Cape Town	|Cape Town, Western Cape Province, Republic of South Africa	|Inactive	|
 |CU<br/>[[Collection CU\|CU]]	|IH-matched	|Cornell University	|Ithaca, New York, U.S.A.	|Inactive	|
-|CUB<br/>[[Collection CUP\|CUP]]	|Typo or alternative spelling. Should be CUP	|	|	|	|
+|CUB<br/>[[Collection CUP\|CUP]]	|Typo. Should be CUP	|	|	|	|
 |CUP<br/>[[Collection CUP\|CUP]]	|IH-matched	|Cornell University	|Ithaca, New York, U.S.A.	|Active	|
 |CV<br/>[[Collection CV\|CV]]	|Not an OCR error. Same in IH-Collectors	|	|	|	|
 |CWU<br/>[[Collection CWU\|CWU]]	|IH-matched	|V. N. Karazin National University	|Kharkiv, Ukraine	|Active	|
@@ -246,7 +246,7 @@ ___
 |DAV<br/>[[Collection DAV\|DAV]]	|IH-matched	|University of California, Davis	|Davis, California, U.S.A.	|Active	|
 |DBM<br/>[[Collection DBM\|DBM]]	|Not an OCR error. Not in IH-Collectors. DBN? Suggestion added in text	|	|	|	|
 |DBN<br/>[[Collection DBN\|DBN]]	|IH-matched	|National Botanic Gardens of Ireland	|Dublin, Ireland	|Active	|
-|DNB<br/>[[Collection DBN\|DBN]]	|Typo or alternative spelling. Should be DBN	|	|	|	|
+|DNB<br/>[[Collection DBN\|DBN]]	|Typo. Should be DBN	|	|	|	|
 |DBV<br/>[[Collection DBV\|DBV]]	|Not an OCR error. Not in IH-Collectors. Hungary? Dubrovnik? DBY?	|	|	|	|
 |DBY<br/>[[Collection DBY\|DBY]]	|IH-matched	|Derby Museum and Art Gallery	|Derby, England, U.K.	|Active	|
 |DD<br/>[[Collection DD\|DD]]	|IH-matched	|Forest Research Institute, Indian Council of Forestry Research and Education	|Dehra Dun, Uttar Pradesh, India	|Active	|
@@ -267,7 +267,7 @@ ___
 |DOMO<br/>[[Collection DOMO\|DOMO]]	|IH-matched	|Collegio Mellerio Rosmini	|Domodossola, Italy	|Active	|
 |DOR<br/>[[Collection DOR\|DOR]]	|IH-matched	|Dorset County Museum	|Dorchester, England, U.K.	|Active	|
 |DOV<br/>[[Collection DOV\|DOV]]	|IH-matched	|Delaware State University	|Dover, Delaware, U.S.A.	|Active	|
-|DPH<br/>[[Collection DPU\|DPU]]	|Typo or alternative spelling. Should be DPU	|	|	|	|
+|DPH<br/>[[Collection DPU\|DPU]]	|Typo. Should be DPU	|	|	|	|
 |DPU<br/>[[Collection DPU\|DPU]]	|IH-matched	|DePauw University	|Greencastle, Indiana, U.S.A.	|Inactive	|
 |DR<br/>[[Collection DR\|DR]]	|IH-matched	|Technische Universität Dresden	|Dresden, Germany	|Active	|
 |DS<br/>[[Collection DS\|DS]]	|IH-matched	|California Academy of Sciences	|San Francisco, California, U.S.A.	|Inactive	|
@@ -284,7 +284,7 @@ ___
 |DWL<br/>[[Collection DWL\|DWL]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |DZS<br/>[[Collection DZS\|DZS]]	|IH-matched	|Wiltshire Museum	|Devizes, England, U.K.	|Active	|
 |E<br/>[[Collection E\|E]]	|IH-matched	|Royal Botanic Garden Edinburgh	|Edinburgh, Scotland, U.K.	|Active	|
-|CA<br/>[[Collection EA\|EA]]	|Typo or alternative spelling. Should be EA	|	|	|	|
+|CA<br/>[[Collection EA\|EA]]	|Typo. Should be EA	|	|	|	|
 |EA<br/>[[Collection EA\|EA]]	|IH-matched	|National Museums of Kenya	|Nairobi, Kenya	|Active	|
 |EAA<br/>[[Collection EAA\|EAA]]	|IH-matched	|Estonian University of Life Sciences	|Tartu, Estonia	|Active	|
 |EAC<br/>[[Collection EAC\|EAC]]	|IH-matched	|Universidade Federal do Ceará	|Fortaleza, Ceará, Brazil	|Active	|
@@ -293,7 +293,7 @@ ___
 |EBH<br/>[[Collection EBH\|EBH]]	|IH-matched	|Botanical Society of Edinburgh	|Edinburgh, Scotland, U.K.	|Inactive	|
 |ECH<br/>[[Collection ECH\|ECH]]	|IH-matched	|Elmira College	|Elmira, New York, U.S.A.	|Active	|
 |ECON<br/>[[Collection ECON\|ECON]]	|IH-matched	|Harvard University	|Cambridge, Massachusetts, U.S.A.	|Active	|
-|EGBH<br/>[[Collection EGHB\|EGHB]]	|Typo or alternative spelling. Should be EGHB	|	|	|	|
+|EGBH<br/>[[Collection EGHB\|EGHB]]	|Typo. Should be EGHB	|	|	|	|
 |EGHB<br/>[[Collection EGHB\|EGHB]]	|IH-matched	|University of Edinburgh	|Edinburgh, Scotland, U.K.	|Permanently closed	|
 |EGR<br/>[[Collection EGR\|EGR]]	|IH-matched	|Eszterhazy Karoly University of Applied Sciences	|Eger, Hungary	|Active	|
 |EM<br/>[[Collection EM\|EM]]	|IH-matched	|Universidade Federal de Ouro Prêto	|Ouro Prêto, Minas Gerais, Brazil	|Inactive	|
@@ -301,7 +301,7 @@ ___
 |ENAG<br/>[[Collection ENAG\|ENAG]]	|IH-matched	|Universidad Nacional Agraria	|Managua, Nicaragua	|Active	|
 |ENT<br/>[[Collection ENT\|ENT]]	|IH-matched	|Ministry of Natural Resources	|Entebbe, Uganda	|Active	|
 |EPM<br/>[[Collection EPM\|EPM]]	|IH-matched	|Epsom College Museum	|Epsom, England, U.K.	|Inactive	|
-|EL<br/>[[Collection ER\|ER]]	|Typo or alternative spelling. Should be ER	|	|	|	|
+|EL<br/>[[Collection ER\|ER]]	|Typo. Should be ER	|	|	|	|
 |ER<br/>[[Collection ER\|ER]]	|IH-matched	|Universität Erlangen-Nürnberg	|Erlangen, Germany	|Active	|
 |ERE<br/>[[Collection ERE\|ERE]]	|IH-matched	|Institute of Botany of the National Academy of Sciences of Armenia	|Yerevan, Armenia	|Active	|
 |ERN<br/>[[Collection ERN\|ERN]]	|Not an OCR error. Not in IH-Collectors. CERN? Suggestion added in text	|	|	|	|
@@ -319,12 +319,12 @@ ___
 |FCME<br/>[[Collection FCME\|FCME]]	|IH-matched	|Universidad Nacional Autónoma de México, Ciudad Universitaria	|Mexico City, Distrito Federal, Mexico	|Active	|
 |FDG<br/>[[Collection FDG\|FDG]]	|IH-matched	|Guyana Forestry Commission	|Georgetown, Guyana	|Active	|
 |FH<br/>[[Collection FH\|FH]]	|IH-matched	|Harvard University	|Cambridge, Massachusetts, U.S.A.	|Active	|
-|FN<br/>[[Collection FH\|FH]]	|Typo or alternative spelling. Should be FH	|	|	|	|
+|FN<br/>[[Collection FH\|FH]]	|Typo. Should be FH	|	|	|	|
 |FHI<br/>[[Collection FHI\|FHI]]	|IH-matched	|Forestry Research Institute of Nigeria	|Ibadan, Oyo, Nigeria	|Active	|
 |FHKSC<br/>[[Collection FHKSC\|FHKSC]]	|IH-matched	|Fort Hays State University	|Hays, Kansas, U.S.A.	|Active	|
 |FHO<br/>[[Collection FHO\|FHO]]	|IH-matched	|University of Oxford	|Oxford, England, U.K.	|Active	|
 |FI<br/>[[Collection FI\|FI]]	|IH-matched	|Natural History Museum	|Firenze, Italy	|Active	|
-|FJ<br/>[[Collection FI\|FI]]	|Typo or alternative spelling. Should be FI	|	|	|	|
+|FJ<br/>[[Collection FI\|FI]]	|Typo. Should be FI	|	|	|	|
 |FIAF<br/>[[Collection FIAF\|FIAF]]	|IH-matched	|Università degli Studi di Firenze	|Firenze, Italy	|Active	|
 |FIPF<br/>[[Collection FIPF\|FIPF]]	|IH-matched	|Università di Firenze	|Firenze, Italy	|Active	|
 |FLA<br/>[[Collection FLA\|FLA]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
@@ -376,13 +376,13 @@ ___
 |GRA<br/>[[Collection GRA\|GRA]]	|IH-matched	|Albany Museum	|Grahamstown, Eastern Cape Province, Republic of South Africa	|Active	|
 |GRI<br/>[[Collection GRI\|GRI]]	|IH-matched	|Grinnell College	|Grinnell, Iowa, U.S.A.	|Active	|
 |GRM<br/>[[Collection GRM\|GRM]]	|IH-matched	|Muséum d'Histoire Naturelle de Grenoble	|Grenoble, France	|Active	|
-|GRD<br/>[[Collection GRO\|GRO]]	|Typo or alternative spelling. Should be GRO	|	|	|	|
+|GRD<br/>[[Collection GRO\|GRO]]	|Typo. Should be GRO	|	|	|	|
 |GRO<br/>[[Collection GRO\|GRO]]	|IH-matched	|State University of Groningen	|Haren, Netherlands	|Permanently closed	|
 |GRON<br/>[[Collection GRO\|GRON]]	|Clearly resolved within TL-2	|	|	|	|
 |GU<br/>[[Collection GU\|GU]]	|IH-matched	|Gotland University	|Visby, Sweden	|Active	|
 |GUA<br/>[[Collection GUA\|GUA]]	|IH-matched	|DIVEA, DEP, FEEMA	|Rio de Janeiro, Rio de Janeiro, Brazil	|Permanently closed	|
 |GW<br/>[[Collection GW\|GW]]	|IH-matched	|West of Scotland College of Agriculture	|Auchincruive, Scotland, U.K.	|Inactive	|
-|GZA<br/>[[Collection GZU\|GZU]]	|Typo or alternative spelling. Should be GZU	|	|	|	|
+|GZA<br/>[[Collection GZU\|GZU]]	|Typo. Should be GZU	|	|	|	|
 |GZU<br/>[[Collection GZU\|GZU]]	|IH-matched	|Karl-Franzens-Universität Graz	|Graz, Austria	|Active	|
 |H<br/>[[Collection H\|H]]	|IH-matched	|University of Helsinki	|Helsinki, Finland	|Active	|
 |HAB<br/>[[Collection HAB (sensu TL-2)\|HAB]]	|Should be the same as HABA. New page made for HAB, linked to [[Collection HAC\|HAC]] in turn.	|	|	|	|
@@ -441,7 +441,7 @@ ___
 |IAV<br/>[[Collection IAV\|IAV]]	|IH-matched	|Institut Agronomique et Vétérinaire Hassan II	|Rabat, Morocco	|Active	|
 |IB<br/>[[Collection IB\|IB]]	|IH-matched	|Universität Innsbruck	|, Austria	|Active	|
 |IBF<br/>[[Collection IBF\|IBF]]	|IH-matched	|Tiroler Landesmuseum	|Hall in Tirol, Austria	|Active	|
-|IBT<br/>[[Collection IBF\|IBF]]	|Typo or alternative spelling. Should be IBF	|	|	|	|
+|IBT<br/>[[Collection IBF\|IBF]]	|Typo. Should be IBF	|	|	|	|
 |IBI<br/>[[Collection IBI\|IBI]]	|IH-matched	|Instituto Biológico	|São Paulo, São Paulo, Brazil	|Active	|
 |IBIR<br/>[[Collection IBIR\|IBIR]]	|IH-matched	|Institutul Agronomic	|Iasi, Romania	|Active	|
 |IBK<br/>[[Collection IBK\|IBK]]	|IH-matched	|Guangxi Institute of Botany	|Guilin, Guangxi Zhuang Autonomous Region, People's Republic of China	|Active	|
@@ -449,7 +449,7 @@ ___
 |IBN<br/>[[Collection IBN\|IBN]]	|Not an OCR error. Not in IH-Collectors. Probably in Ireland	|	|	|	|
 |IBS<br/>[[Collection IBS\|IBS]]	|IH-matched	|Irish Biogeographical Society	|Bray, Co. Wicklow, Ireland	|Inactive	|
 |IBSC<br/>[[Collection IBSC\|IBSC]]	|IH-matched	|South China Botanical Garden	|Guangzhou, Guangdong, People's Republic of China	|Active	|
-|JBSC<br/>[[Collection IBSC\|IBSC]]	|Typo or alternative spelling. Should be IBSC	|	|	|	|
+|JBSC<br/>[[Collection IBSC\|IBSC]]	|Typo. Should be IBSC	|	|	|	|
 |IC<br/>[[Collection IC\|IC]]	|Not an OCR error. Only in IH-Collectors	|	|	|	|
 |ICD<br/>[[Collection ICD\|ICD]]	|Not an OCR error. Not in IH-Herbaria or IH-Collectors	|	|	|	|
 |ICEL<br/>[[Collection ICEL\|ICEL]]	|IH-matched	|Icelandic Institute of Natural History	|Garðabær, Iceland	|Active	|
@@ -458,7 +458,7 @@ ___
 |IFGP<br/>[[Collection IFGP\|IFGP]]	|IH-matched	|Institute of Forest Genetics, Pacific Southwest Research Station, USDA Forest Service	|Placerville, California, U.S.A.	|Active	|
 |IJ<br/>[[Collection IJ\|IJ]]	|IH-matched	|Natural History Museum of Jamaica (NHMJ)	|Kingston, Jamaica	|Active	|
 |ILH<br/>[[Collection ILH\|ILH]]	|IH-matched	|Iowa Lakeside Laboratory	|Milford, Iowa, U.S.A.	|Active	|
-|ILC<br/>[[Collection ILL\|ILL]]	|Typo. Fixed to what is in IH6-authors	|	|	|	|
+|ILC<br/>[[Collection ILL\|ILL]]	|Typo. Should be ILL	|	|	|	|
 |ILL<br/>[[Collection ILL\|ILL]]	|IH-matched	|University of Illinois at Urbana-Champaign	|Champaign, Illinois, U.S.A.	|Active	|
 |ILLS<br/>[[Collection ILLS\|ILLS]]	|IH-matched	|Illinois Natural History Survey, Illinois Department of Natural Resources	|Champaign, Illinois, U.S.A.	|Active	|
 |CMI<br/>[[Collection IMI\|CMI]]	|Clearly resolved within TL-2	|	|	|	|
@@ -480,7 +480,7 @@ ___
 |JAM<br/>[[Collection JAM\|JAM]]	|Made a page manually with IH6 information	|	|	|	|
 |JBVN<br/>[[Collection JBVN\|JBVN]]	|IH-matched	|Jardin Botanique de la Ville de Nice	|Nice, France	|Active	|
 |JE<br/>[[Collection JE\|JE]]	|IH-matched	|Friedrich Schiller University Jena	|Jena, Germany	|Active	|
-|JF<br/>[[Collection JE\|JE]]	|Typo or alternative spelling. Should be JE	|	|	|	|
+|JF<br/>[[Collection JE\|JE]]	|Typo. Should be JE	|	|	|	|
 |JEPS<br/>[[Collection JEPS\|JEPS]]	|IH-matched	|University of California	|Berkeley, California, U.S.A.	|Active	|
 |JF<br/>[[Collection JF\|JF]]	|IH-matched	|Jonkershoek Forestry Research Centre	|Stellenbosch, Western Cape Province, Republic of South Africa	|Inactive	|
 |JHU	|–	|Doesn’t need a link, explained in text	|	|	|	|
@@ -514,11 +514,11 @@ ___
 |KR<br/>[[Collection KR\|KR]]	|IH-matched	|Staatliches Museum für Naturkunde Karlsruhe	|Karlsruhe, Germany	|Active	|
 |KRA<br/>[[Collection KRA\|KRA]]	|IH-matched	|Jagiellonian University	|Kraków, Poland	|Active	|
 |KRAM<br/>[[Collection KRAM\|KRAM]]	|IH-matched	|W. Szafer Institute of Botany, Polish Academy of Sciences	|Kraków, Poland	|Active	|
-|KRAN<br/>[[Collection KRAM\|KRAM]]	|Typo or alternative spelling. Should be KRAM	|	|	|	|
+|KRAN<br/>[[Collection KRAM\|KRAM]]	|Typo. Should be KRAM	|	|	|	|
 |KRU<br/>[[Collection KRU\|KRU]]	|Can be resolved. “see G.A. Fryxell, Beih. Nova Hedwigia 53, 1975”	|	|	|	|
 |KSA<br/>[[Collection KSA\|KSA]]	|IH-matched	|Sejong National Arboretum	|Yeongi-myeon, Sejong-si, Republic of Korea	|Active	|
 |KSC<br/>[[Collection KSC\|KSC]]	|IH-matched	|Kansas State University	|Manhattan, Kansas, U.S.A.	|Active	|
-|KSG<br/>[[Collection KSC\|KSC]]	|Typo or alternative spelling. Should be KSC	|	|	|	|
+|KSG<br/>[[Collection KSC\|KSC]]	|Typo. Should be KSC	|	|	|	|
 |KSO<br/>[[Collection KSO\|KSO]]	|IH-matched	|Tweedside Physical and Antiquarian Society Museum	|Kelso, Scotland, U.K.	|Inactive	|
 |KSU<br/>[[Collection KSU\|KSU]]	|IH-matched	|King Saud University	|Riyadh, Saudi Arabia	|Active	|
 |KU<br/>[[Collection KU\|KU]]	|IH-matched	|Kwangsi University	|Wuzhou, Guangxi Zhuangzu, People's Republic of China	|Inactive	|
@@ -589,7 +589,7 @@ ___
 |LW<br/>[[Collection LW\|LW]]	|IH-matched	|Ivan Franko National University of Lviv	|Lviv, Ukraine	|Active	|
 |LWD<br/>[[Collection LWD\|LWD]]	|IH-matched	|Museum Dzieduszyckich	|Lviv, Ukraine	|Inactive	|
 |LWU<br/>[[Collection LWU\|LWU]]	|IH-matched	|University of Lucknow	|Lucknow, Uttar Pradesh, India	|Active	|
-|HLY<br/>[[Collection LY\|LY]]	|Typo or alternative spelling. Should be LY	|	|	|	|
+|HLY<br/>[[Collection LY\|LY]]	|Typo. Should be LY	|	|	|	|
 |LY<br/>[[Collection LY\|LY]]	|IH-matched	|Université Claude Bernard Lyon 1	|Lyon, France	|Active	|
 |LYJB<br/>[[Collection LYJB\|LYJB]]	|IH-matched	|Jardin botanique de la ville de Lyon	|Lyon, France	|Active	|
 |LZ<br/>[[Collection LZ\|LZ]]	|IH-matched	|University of  Leipzig	|Leipzig, Germany	|Active	|
@@ -602,13 +602,13 @@ ___
 |MAINE<br/>[[Collection MAINE\|MAINE]]	|IH-matched	|University of Maine	|Orono, Maine, U.S.A.	|Active	|
 |MAK<br/>[[Collection MAK\|MAK]]	|IH-matched	|Tokyo Metropolitan University	|Tokyo, Tokyo, Japan	|Active	|
 |MAN<br/>[[Collection MAN\|MAN]]	|IH-matched	|Universitas Papua	|Manokwari, Indonesia	|Active	|
-|MANCA<br/>[[Collection MANCA\|MANCA]]	|Typo or alternative spelling. Should be MANCH? Suggestion added in text	|	|	|	|
+|MANCA<br/>[[Collection MANCA\|MANCA]]	|Typo? Should be MANCH? Suggestion added in text	|	|	|	|
 |MANCH<br/>[[Collection MANCH\|MANCH]]	|IH-matched	|University of Manchester	|Manchester, England, U.K.	|Active	|
 |MARS<br/>[[Collection MARS\|MARS]]	|IH-matched	|Aix-Marseille Université	|Marseille, France	|Active	|
 |MARY<br/>[[Collection MARY\|MARY]]	|IH-matched	|University of Maryland	|College Park, Maryland, U.S.A.	|Active	|
 |MASS<br/>[[Collection MASS\|MASS]]	|IH-matched	|University of Massachusetts	|Amherst, Massachusetts, U.S.A.	|Active	|
 |MB<br/>[[Collection MB\|MB]]	|IH-matched	|Philipps University Marburg	|Marburg, Germany	|Active	|
-|MBG<br/>[[Collection MBG\|MBG]]	|Typo or alternative spelling. Should be MO? Suggestion added in text	|	|	|	|
+|MBG<br/>[[Collection MBG\|MBG]]	|Alternative spelling? Should be MO? Suggestion added in text	|	|	|	|
 |MBH<br/>[[Collection MBH\|MBH]]	|IH-matched	|Marlborough College	|Marlborough, England, U.K.	|Inactive	|
 |MCJ<br/>[[Collection MCJ\|MCJ]]	|IH-matched	|Missouri Southern State College	|Joplin, Missouri, U.S.A.	|Active	|
 |MCP<br/>[[Collection MCP\|MCP]]	|IH-matched	|Massachusetts College of Pharmacy and Allied Health Sciences	|Boston, Massachusetts, U.S.A.	|Permanently closed	|
@@ -629,7 +629,7 @@ ___
 |MIL<br/>[[Collection MIL\|MIL]]	|IH-matched	|Milwaukee Public Museum	|Milwaukee, Wisconsin, U.S.A.	|Active	|
 |MIN<br/>[[Collection MIN\|MIN]]	|IH-matched	|University of Minnesota	|St. Paul, Minnesota, U.S.A.	|Active	|
 |MINN<br/>[[Collection MIN\|MIN]]	|Alternative to MIN	|	|	|	|
-|MIPU<br/>[[Collection MIPV\|MIPV]]	|Typo or alternative spelling. Should be MIPV	|	|	|	|
+|MIPU<br/>[[Collection MIPV\|MIPV]]	|Typo. Should be MIPV	|	|	|	|
 |MIPV<br/>[[Collection MIPV\|MIPV]]	|IH-matched	|Università degli Studi di Milano	|Milano, Italy	|Active	|
 |MISS<br/>[[Collection MISS\|MISS]]	|IH-matched	|University of Mississippi	|University, Mississippi, U.S.A.	|Active	|
 |MISSA<br/>[[Collection MISSA\|MISSA]]	|IH-matched	|Mississippi State University	|Mississippi State, Mississippi, U.S.A.	|Active	|
@@ -653,7 +653,7 @@ ___
 |MPU<br/>[[Collection MPU\|MPU]]	|IH-matched	|Université de Montpellier	|Montpellier, France	|Active	|
 |MS<br/>[[Collection MS\|MS]]	|IH-matched	|Università di Messina	|Messina, Italy	|Active	|
 |MSC<br/>[[Collection MSC\|MSC]]	|IH-matched	|Michigan State University	|East Lansing, Michigan, U.S.A.	|Active	|
-|NSC<br/>[[Collection MSC\|MSC]]	|Typo or alternative spelling. Should be MSC	|	|	|	|
+|NSC<br/>[[Collection MSC\|MSC]]	|Typo. Should be MSC	|	|	|	|
 |MSE<br/>[[Collection MSE\|MSE]]	|IH-matched	|ANGUSalive Museums	|Montrose, Scotland, U.K.	|Active	|
 |MSI<br/>[[Collection MSI\|MSI]]	|IH-matched	|Marine Science Institute, University of the Philippines	|Quezon City, Philippines	|Active	|
 |MSK<br/>[[Collection MSK\|MSK]]	|IH-matched	|National Academy of Sciences of Belarus	|Minsk, Belarus	|Active	|
@@ -661,12 +661,12 @@ ___
 |MT<br/>[[Collection MT\|MT]]	|IH-matched	|Université de Montréal	|Montréal, Québec, Canada	|Active	|
 |MTJB<br/>[[Collection MTJB\|MTJB]]	|IH-matched	|Jardin botanique de Montréal	|Montréal, Québec, Canada	|Inactive	|
 |MTMG<br/>[[Collection MTMG\|MTMG]]	|IH-matched	|McGill University, Macdonald Campus	|Montréal, Québec, Canada	|Active	|
-|NTMG<br/>[[Collection MTMG\|MTMG]]	|Typo or alternative spelling. Should be MTMG	|	|	|	|
+|NTMG<br/>[[Collection MTMG\|MTMG]]	|Typo. Should be MTMG	|	|	|	|
 |MU<br/>[[Collection MU\|MU]]	|IH-matched	|Miami University	|Oxford, OH, United States	|Active	|
 |MVFA<br/>[[Collection MVFA\|MVFA]]	|IH-matched	|Universidad de la República	|Montevideo, Uruguay	|Active	|
 |MVFQ<br/>[[Collection MVFQ\|MVFQ]]	|IH-matched	|Universidad de la República	|Montevideo, Uruguay	|Active	|
-|MVH<br/>[[Collection MVH\|MVH]]	|Not an OCR error. Not in IH-Herbaria of IH, only in Collector's Index. Multiple occurrences. MVM? Suggestion added in text	|	|	|	|
-|MUM<br/>[[Collection MVM\|MVM]]	|Typo or alternative spelling. Should be MVM	|	|	|	|
+|MVH<br/>[[Collection MVH\|MVH]]	|Not an OCR error. Not in IH-Herbaria, only in Collector's Index. Multiple occurrences. MVM? Suggestion added in text	|	|	|	|
+|MUM<br/>[[Collection MVM\|MVM]]	|Typo. Should be MVM	|	|	|	|
 |MVM<br/>[[Collection MVM\|MVM]]	|IH-matched	|Museo Nacional de Historia Natural	|Montevideo, Uruguay	|Active	|
 |MVSC<br/>[[Collection MVSC\|MVSC]]	|IH-matched	|Millersville University	|Millersville, Pennsylvania, U.S.A.	|Active	|
 |MW<br/>[[Collection MW\|MW]]	|IH-matched	|Moscow State University	|Moscow, Russia	|Active	|
@@ -683,15 +683,15 @@ ___
 |NBV<br/>[[Collection NBV\|NBV]]	|IH-matched	|Koninklijke Nederlandse Botanische Vereniging	|Leiden, Netherlands	|Inactive	|
 |NCBS<br/>[[Collection NCBS\|NCBS]]	|IH-matched	|Connecticut Botanical Society	|New Haven, Connecticut, U.S.A.	|Active	|
 |NCU<br/>[[Collection NCU\|NCU]]	|IH-matched	|University of North Carolina at Chapel Hill	|Chapel Hill, North Carolina, U.S.A.	|Active	|
-|NCV<br/>[[Collection NCU\|NCU]]	|Typo or alternative spelling. Should be NCU	|	|	|	|
-|NANCY<br/>[[Collection NCY\|NANCY]]	|Only one collection in Nancy	|	|	|	|
+|NCV<br/>[[Collection NCU\|NCU]]	|Typo. Should be NCU	|	|	|	|
+|NANCY<br/>[[Collection NCY\|NANCY]]	|Alternative spelling. Only one collection in Nancy	|	|	|	|
 |NCY<br/>[[Collection NCY\|NCY]]	|IH-matched	|Conservatoire et Jardins Botaniques de Nancy, Université de Nancy I	|Nancy, France	|Active	|
 |ND<br/>[[Collection ND\|ND]]	|IH-matched	|University of Notre Dame	|Notre Dame, Indiana, U.S.A.	|Active	|
 |NDA<br/>[[Collection NDA\|NDA]]	|IH-matched	|North Dakota State University	|Fargo, North Dakota, U.S.A.	|Active	|
 |NDB<br/>[[Collection NDB\|NDB]]	|NBV? Suggestion added in text	|	|	|	|
 |NDG<br/>[[Collection NDG\|NDG]]	|IH-matched	|University of Notre Dame	|Notre Dame, Indiana, U.S.A.	|Active	|
 |NEB<br/>[[Collection NEB\|NEB]]	|IH-matched	|University of Nebraska State Museum, Lincoln NE	|Lincoln, Nebraska, U.S.A.	|Active	|
-|NEAC<br/>[[Collection NEBC\|NEBC]]	|Typo or alternative spelling. Should be NEBC	|	|	|	|
+|NEAC<br/>[[Collection NEBC\|NEBC]]	|Typo. Should be NEBC	|	|	|	|
 |NEBC<br/>[[Collection NEBC\|NEBC]]	|IH-matched	|New England Botanical Club	|Cambridge, Massachusetts, U.S.A.	|Active	|
 |NESH<br/>[[Collection NESH\|NESH]]	|IH-matched	|University of Nevada	|Reno, Nevada, U.S.A.	|Inactive	|
 |NEU<br/>[[Collection NEU\|NEU]]	|IH-matched	|Université de Neuchâtel	|Neuchâtel, Neuchâtel, Switzerland	|Active	|
@@ -717,11 +717,11 @@ ___
 |NSPM<br/>[[Collection NSPM\|NSPM]]	|IH-matched	|The Nova Scotia Museum of Natural History, Collections	|Halifax, Nova Scotia, Canada	|Active	|
 |NSW<br/>[[Collection NSW\|NSW]]	|IH-matched	|Royal Botanic Gardens & Domain Trust	|Mount Annan, New South Wales, Australia	|Active	|
 |NT<br/>[[Collection NT\|NT]]	|IH-matched	|Department of Environment, Parks and Water Security	|Alice Springs, Northern Territory, Australia	|Active	|
-|NMT<br/>[[Collection NTM\|NTM]]	|Typo or alternative spelling. Should be NTM	|	|	|	|
+|NMT<br/>[[Collection NTM\|NTM]]	|Typo. Should be NTM	|	|	|	|
 |NTM<br/>[[Collection NTM\|NTM]]	|IH-matched	|Muséum d'Histoire Naturelle de Nantes	|Nantes, France	|Active	|
 |NTN<br/>[[Collection NTN\|NTN]]	|IH-matched	|Central Museum and Art Gallery	|Northampton, England, U.K.	|Active	|
 |NTSC<br/>[[Collection NTSC\|NTSC]]	|IH-matched	|University of North Texas	|Denton, Texas, U.S.A.	|Active	|
-|NTSG<br/>[[Collection NTSC\|NTSC]]	|Typo or alternative spelling. Should be NTSC	|	|	|	|
+|NTSG<br/>[[Collection NTSC\|NTSC]]	|Typo. Should be NTSC	|	|	|	|
 |NU<br/>[[Collection NU\|NU]]	|IH-matched	|Bews Herbarium, University of KwaZulu-Natal, Pietermaritzburg campus	|Pietermaritzburg, KwaZulu-Natal Province, Republic of South Africa	|Active	|
 |NWH<br/>[[Collection NWH\|NWH]]	|IH-matched	|Norfolk Museums Service	|Norwich, England, U.K.	|Active	|
 |NWU<br/>[[Collection NWU\|NWU]]	|IH-matched	|Northwestern University	|Evanston, Illinois, U.S.A.	|Inactive	|
@@ -751,7 +751,7 @@ ___
 |–<br/>[[Collection OTF\|OTF]]	|See OTB	|	|	|	|
 |OULU<br/>[[Collection OULU\|OULU]]	|IH-matched	|University of Oulu	|Oulu, Finland	|Active	|
 |OXF<br/>[[Collection OXF\|OXF]]	|IH-matched	|University of Oxford	|Oxford, England, U.K.	|Active	|
-|OXP<br/>[[Collection OXF\|OXF]]	|Typo or alternative spelling. Should be OXF	|	|	|	|
+|OXP<br/>[[Collection OXF\|OXF]]	|Typo. Should be OXF	|	|	|	|
 |CHEV<br/>[[Collection P\|CHEV]]	|Most liklely P-CHEV	|	|	|	|
 |P<br/>[[Collection P\|P]]	|IH-matched	|Muséum National d'Histoire Naturelle	|Paris, France	|Active	|
 |PA<br/>[[Collection PA\|PA]]	|IH-matched	|Universidade Federal do Oeste do Pará	|Santarém, Pará, Brazil	|Inactive	|
@@ -784,7 +784,7 @@ ___
 |PHA<br/>[[Collection PHA\|PHA]]	|IH-matched	|Pharmaceutical Society of Great Britain	|London, England, U.K.	|Inactive	|
 |PHIL<br/>[[Collection PHIL\|PHIL]]	|IH-matched	|University of the Sciences	|Philadelphia, Pennsylvania, U.S.A.	|Active	|
 |PI<br/>[[Collection PI\|PI]]	|IH-matched	|Università di Pisa (Italy)	|Pisa, Italy	|Active	|
-|QI<br/>[[Collection PI\|PI]]	|Typo or alternative spelling. Should be PI	|	|	|	|
+|QI<br/>[[Collection PI\|PI]]	|Typo. Should be PI	|	|	|	|
 |PICH<br/>[[Collection PICH\|PICH]]	|Not an OCR error. Not in IH-Collectors	|	|	|	|
 |PKDC<br/>[[Collection PKDC\|PKDC]]	|IH-matched	|Divisão de Museu de História Natural	|Curitiba, Paraná, Brazil	|Inactive	|
 |PKM<br/>[[Collection PKM\|PKM]]	|IH-matched	|Penza State University	|Penza, Russia	|Active	|
@@ -804,7 +804,7 @@ ___
 |PRIV	|–	|Private? Link deleted	|	|	|	|
 |PRM<br/>[[Collection PRM\|PRM]]	|IH-matched	|National Museum	|Praha, Czech Republic	|Active	|
 |PRU<br/>[[Collection PRU\|PRU]]	|IH-matched	|University of Pretoria	|Hatfield, Pretoria, Republic of South Africa	|Active	|
-|PSCB<br/>[[Collection PSGB\|PSGB]]	|Typo or alternative spelling. Should be PSGB	|	|	|	|
+|PSCB<br/>[[Collection PSGB\|PSGB]]	|Typo. Should be PSGB	|	|	|	|
 |PSGB<br/>[[Collection PSGB\|PSGB]]	|IH-matched	|University of Bradford	|Bradford, England, U.K.	|Inactive	|
 |PSO<br/>[[Collection PSO\|PSO]]	|IH-matched	|Universidad de Nariño	|Pasto, Nariño, Colombia	|Active	|
 |PTH<br/>[[Collection PTH\|PTH]]	|IH-matched	|Perth Museum and Art Gallery	|Perth, Scotland, U.K.	|Active	|
@@ -840,7 +840,7 @@ ___
 |RM<br/>[[Collection RM\|RM]]	|IH-matched	|University of Wyoming	|Laramie, Wyoming, U.S.A.	|Active	|
 |RMS<br/>[[Collection RMS\|RMS]]	|IH-matched	|University of Wyoming	|Laramie, Wyoming, U.S.A.	|Active	|
 |SOLH<br/>[[Collection RMS\|SOLH]]	|Multiple occurrences, not in IH-Collectors. Solheim Mycological herbarium, [[Collection RMS\|RMS]]	|	|	|	|
-|SOLM<br/>[[Collection RMS\|SOLH]]	|Typo or alternative spelling. Should be SOLH, now [[Collection RMS\|RMS]]	|	|	|	|
+|SOLM<br/>[[Collection RMS\|SOLH]]	|Typo. Should be SOLH, now [[Collection RMS\|RMS]]	|	|	|	|
 |RNG<br/>[[Collection RNG\|RNG]]	|IH-matched	|University of Reading	|Reading, England, U.K.	|Active	|
 |RNMUT<br/>[[Collection RNMUT\|RNMUT]]	|IH-matched	|Republic Nature Museum of Uzbekistan	|Tashkent, Uzbekistan	|Inactive	|
 |RO<br/>[[Collection RO\|RO]]	|IH-matched	|Università degli Studi di Roma La Sapienza	|Roma, Italy	|Active	|
@@ -915,11 +915,11 @@ ___
 |SPH<br/>[[Collection SPH\|SPH]]	|IH-matched	|Fox Research Forest, New Hampshire Department of Resources and Economic Development	|Hillsboro, New Hampshire, U.S.A.	|Active	|
 |SPL<br/>[[Collection SPL\|SPL]]	|IH-matched	|Palynological Laboratory	|Stockholm, Sweden	|Inactive	|
 |SPR<br/>[[Collection SPR\|SPR]]	|IH-matched	|Springfield Science Museum	|Springfield, Massachusetts, U.S.A.	|Active	|
-|SPAWH<br/>[[Collection SPWH\|SPWH]]	|Typo or alternative spelling. Should be SPWH	|	|	|	|
+|SPAWH<br/>[[Collection SPWH\|SPWH]]	|Typo. Should be SPWH	|	|	|	|
 |SPWH<br/>[[Collection SPWH\|SPWH]]	|IH-matched	|Woods Hole Oceanographic Institution	|Woods Hole, Massachusetts, U.S.A.	|Active	|
 |SRD<br/>[[Collection SRD\|SRD]]	|IH-matched	|Passmore Edwards Museum	|London, England, U.K.	|Status unknown	|
 |SRGH<br/>[[Collection SRGH\|SRGH]]	|IH-matched	|Botanic Garden	|Harare, Zimbabwe	|Active	|
-|SRGM<br/>[[Collection SRGH\|SRGH]]	|Typo or alternative spelling. Should be SRGH	|	|	|	|
+|SRGM<br/>[[Collection SRGH\|SRGH]]	|Typo. Should be SRGH	|	|	|	|
 |SRSC<br/>[[Collection SRSC\|SRSC]]	|IH-matched	|Sul Ross State University	|Alpine, Texas, U.S.A.	|Active	|
 |SS<br/>[[Collection SS\|SS]]	|IH-matched	|Università di Sassari	|Sassari, Italy	|Active	|
 |ST<br/>[[Collection ST\|ST]]	|IH-matched	|Suzhou Teachers College	|Suzhou, Anhui, People's Republic of China	|Active	|
@@ -952,7 +952,7 @@ ___
 |TAC<br/>[[Collection TAC\|TAC]]	|IH-matched	|Tarleton State University	|Stephenville, Texas, U.S.A.	|Active	|
 |TAD<br/>[[Collection TAD\|TAD]]	|IH-matched	|Botanical Institute of the Tajikistan Academy of Sciences	|Dushanbe, Tajikistan	|Inactive	|
 |TAES<br/>[[Collection TAES\|TAES]]	|IH-matched	|Texas A&M University	|College Station, Texas, U.S.A.	|Active	|
-|TAEX<br/>[[Collection TAES\|TAES]]	|Typo or alternative spelling. Should be TAES	|	|	|	|
+|TAEX<br/>[[Collection TAES\|TAES]]	|Typo. Should be TAES	|	|	|	|
 |TAI<br/>[[Collection TAI\|TAI]]	|IH-matched	|National Taiwan University	|Taipei, Taiwan, Taiwan	|Active	|
 |TAIM<br/>[[Collection TAIM\|TAIM]]	|IH-matched	|Taiwan Museum	|Taipei, Taiwan, Taiwan	|Active	|
 |TAK<br/>[[Collection TAK\|TAK]]	|IH-matched	|Lenin State University	|Tashkent, Uzbekistan	|Inactive	|
@@ -966,7 +966,7 @@ ___
 |TBI<br/>[[Collection TBI\|TBI]]	|IH-matched	|Institute of Botany, Ilia State University	|Tbilisi, Georgia	|Active	|
 |TC<br/>[[Collection TC\|TC]]	|IH-matched	|National Botanical Garden of Türkiye	|ANKARA, Çankaya, Turkey	|Active	|
 |TCD<br/>[[Collection TCD\|TCD]]	|IH-matched	|Trinity College	|Dublin, Ireland	|Active	|
-|TCI<br/>[[Collection TCD\|TCD]]	|Typo or alternative spelling. Should be TCD	|	|	|	|
+|TCI<br/>[[Collection TCD\|TCD]]	|Typo. Should be TCD	|	|	|	|
 |TDN<br/>[[Collection TDN\|TDN]]	|IH-matched	|Todmorden Botanical Society	|Todmorden, England, U.K.	|Inactive	|
 |TECLA<br/>[[Collection TECLA\|TECLA]]	|IH-matched	|Centro Nacional de Tecnologia Agropecuaria	|Ciudad Arce, La Libertad, El Salvador	|Active	|
 |TELA<br/>[[Collection TELA\|TELA]]	|IH-matched	|Tel Aviv University	|Tel Aviv, Israel	|Active	|
@@ -999,7 +999,7 @@ ___
 |TRM<br/>[[Collection TRM\|TRM]]	|IH-matched	|Vlastivedné muzeum Trutnov	|Trutnov, Czech Republic	|Inactive	|
 |TROM<br/>[[Collection TROM\|TROM]]	|IH-matched	|UiT The Arctic University of Norway​	|Tromsø, Troms, Norway	|Active	|
 |TRT<br/>[[Collection TRT\|TRT]]	|IH-matched	|Royal Ontario Museum	|Toronto, Ontario, Canada	|Active	|
-|TRIC<br/>[[Collection TRTC\|TRTC]]	|Typo or alternative spelling. Should be TRTC	|	|	|	|
+|TRIC<br/>[[Collection TRTC\|TRTC]]	|Typo. Should be TRTC	|	|	|	|
 |TRTC<br/>[[Collection TRTC\|TRTC]]	|IH-matched	|Royal Ontario Museum	|Toronto, Ontario, Canada	|Active	|
 |TRU<br/>[[Collection TRU\|TRU]]	|IH-matched	|Royal Cornwall Museum	|Truro, England, U.K.	|Active	|
 |TSM<br/>[[Collection TSM\|TSM]]	|IH-matched	|Museo Civico di Storia Naturale	|Trieste, Italy	|Active	|
@@ -1016,7 +1016,7 @@ ___
 |UARK<br/>[[Collection UARK\|UARK]]	|IH-matched	|University of Arkansas	|Fayetteville, Arkansas, U.S.A.	|Active	|
 |UBC<br/>[[Collection UBC\|UBC]]	|IH-matched	|University of British Columbia	|Vancouver, British Columbia, Canada	|Active	|
 |UC<br/>[[Collection UC\|UC]]	|IH-matched	|University of California	|Berkeley, California, U.S.A.	|Active	|
-|WC<br/>[[Collection UC\|UC]]	|Typo or alternative spelling. Should be UC	|	|	|	|
+|WC<br/>[[Collection UC\|UC]]	|Typo. Should be UC	|	|	|	|
 |UCA<br/>[[Collection UCA\|UCA]]	|Not an OCR error. Not in IH-Collectors 	|	|	|	|
 |UCNW<br/>[[Collection UCNW\|UCNW]]	|IH-matched	|University of Wales	|Bangor, Wales, U.K.	|Active	|
 |UCR<br/>[[Collection UCR\|UCR]]	|IH-matched	|University of California	|Riverside, California, U.S.A.	|Active	|
@@ -1029,7 +1029,7 @@ ___
 |UNL<br/>[[Collection UNL\|UNL]]	|IH-matched	|Universidad Autónoma de Nuevo León	|Monterrey, Nuevo León, Mexico	|Active	|
 |UOS<br/>[[Collection UOS\|UOS]]	|IH-matched	|University of the South	|Sewanee, Tennessee, U.S.A.	|Active	|
 |UPP<br/>[[Collection UPP\|UPP]]	|IH-matched	|Uppingham School Museum	|Uppingham, England, U.K.	|Inactive	|
-|PS<br/>[[Collection UPS\|UPS]]	|Typo or alternative spelling. Should be UPS	|	|	|	|
+|PS<br/>[[Collection UPS\|UPS]]	|Typo. Should be UPS	|	|	|	|
 |UP<br/>[[Collection UPS\|UPS]]	|Part of split UPS	|	|	|	|
 |UPS<br/>[[Collection UPS\|UPS]]	|IH-matched	|Museum of Evolution	|Uppsala, Sweden	|Active	|
 |UPSV<br/>[[Collection UPSV\|UPSV]]	|IH-matched	|Uppsala University	|, Sweden	|Inactive	|
@@ -1038,7 +1038,7 @@ ___
 |URTPP<br/>[[Collection URTPP\|URTPP]]	|Not an OCR error. Same in IH-Collectors. Shouldn’t start from U	|	|	|	|
 |URV<br/>[[Collection URV\|URV]]	|IH-matched	|University of Richmond	|Richmond, Virginia, U.S.A.	|Active	|
 |US<br/>[[Collection US\|US]]	|IH-matched	|Smithsonian Institution	|Washington, District of Columbia, U.S.A.	|Active	|
-|USA<br/>[[Collection US\|US]]	|Typo or alternative spelling. Should be US	|	|	|	|
+|USA<br/>[[Collection US\|US]]	|Typo. Should be US	|	|	|	|
 |USC<br/>[[Collection USC\|USC]]	|IH-matched	|University of Southern California	|Los Angeles, California, U.S.A.	|Inactive	|
 |USDA<br/>[[Collection USDA\|USDA]]	|Made a page manually	|	|	|	|
 |USFS<br/>[[Collection USFS\|USFS]]	|IH-matched	|Rocky Mountain Forest and Range Experiment Station	|Fort Collins, Colorado, U.S.A.	|Inactive	|
@@ -1073,7 +1073,7 @@ ___
 |WA<br/>[[Collection WA\|WA]]	|IH-matched	|University of Warsaw	|Warszawa, Poland	|Active	|
 |WAB<br/>[[Collection WAB\|WAB]]	|IH-matched	|Wabash College	|Crawfordsville, Indiana, U.S.A.	|Inactive	|
 |WAG<br/>[[Collection WAG\|WAG]]	|IH-matched	|Naturalis Biodiversity Center	|Leiden, The Netherlands	|Permanently closed	|
-|WAS<br/>[[Collection WAG\|WAG]]	|Typo or alternative spelling. Should be WAG	|	|	|	|
+|WAS<br/>[[Collection WAG\|WAG]]	|Typo. Should be WAG	|	|	|	|
 |WAR<br/>[[Collection WAR\|WAR]]	|IH-matched	|Warwickshire Museum	|Warwick, England, U.K.	|Inactive	|
 |WARMS<br/>[[Collection WARMS\|WARMS]]	|IH-matched	|Warwickshire Museum	|Warwick, England, U.K.	|Active	|
 |WAVI<br/>[[Collection WAVI\|WAVI]]	|IH-matched	|Colby College	|Waterville, Maine, U.S.A.	|Active	|
@@ -1083,7 +1083,7 @@ ___
 |WCW<br/>[[Collection WCW\|WCW]]	|IH-matched	|Whitman College	|Walla Walla, Washington, U.S.A.	|Active	|
 |WEBB<br/>[[Collection WEBB\|WEBB]]	|Not an OCR error. Not in IH-Collectors. FI-W?	|	|	|	|
 |WECO<br/>[[Collection WECO\|WECO]]	|IH-matched	|Wesleyan University	|Middletown, Connecticut, U.S.A.	|Inactive	|
-|WEIC<br/>[[Collection WELC\|WELC]]	|Typo or alternative spelling. Should be WELC	|	|	|	|
+|WEIC<br/>[[Collection WELC\|WELC]]	|Typo. Should be WELC	|	|	|	|
 |WELC<br/>[[Collection WELC\|WELC]]	|IH-matched	|Wellesley College	|Wellesley, Massachusetts, U.S.A.	|Inactive	|
 |WELT<br/>[[Collection WELT\|WELT]]	|IH-matched	|Museum of New Zealand Te Papa Tongarewa	|Te Aro, Wellington, Wellington, New Zealand	|Active	|
 |WELTU<br/>[[Collection WELTU\|WELTU]]	|IH-matched	|Victoria University of Wellington	|Wellington, New Zealand	|Inactive	|
@@ -1109,8 +1109,8 @@ ___
 |WSP<br/>[[Collection WSP\|WSP]]	|IH-matched	|Washington State University	|Pullman, Washington, U.S.A.	|Active	|
 |WTO<br/>[[Collection WTO\|WTO]]	|WTU? Suggestion added in text	|	|	|	|
 |WTR<br/>[[Collection WTR\|WTR]]	|IH-matched	|Winchester College	|Winchester, England, U.K.	|Active	|
-|WTC<br/>[[Collection WTU\|WTU]]	|Typo or alternative spelling. Should be WTU	|	|	|	|
-|WTL<br/>[[Collection WTU\|WTU]]	|Typo or alternative spelling. Should be WTU	|	|	|	|
+|WTC<br/>[[Collection WTU\|WTU]]	|Typo. Should be WTU	|	|	|	|
+|WTL<br/>[[Collection WTU\|WTU]]	|Typo. Should be WTU	|	|	|	|
 |WTU<br/>[[Collection WTU\|WTU]]	|IH-matched	|University of Washington	|Seattle, Washington, U.S.A.	|Active	|
 |WU<br/>[[Collection WU\|WU]]	|IH-matched	|Universität Wien	|Wien, Austria	|Active	|
 |WVA<br/>[[Collection WVA\|WVA]]	|IH-matched	|West Virginia University	|Morgantown, West Virginia, U.S.A.	|Active	|

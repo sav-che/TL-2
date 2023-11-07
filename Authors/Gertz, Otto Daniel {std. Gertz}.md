@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/item/103832#page/203/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33258669) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gertz, Otto Daniel (1878-1948), Swedish geologist and botanist, born 20 Mai 1878 in Malmö, fil. kand. 1900, fil. lic. 1905 and Ph.D. 1906 Lund Univ., docent at Lund to 1915, also published on Linnaeus and O. Celsius, the Elder, died 15 Feb 1948. (*Gertz*).
+Gertz, Otto Daniel (1878-1948), Swedish geologist and botanist, born 20 Mai 1878 in Malmö, fil. kand. 1900, fil. lic. 1905 and Ph.D. 1906 Lund Univ., docent at Lund to 1915, also published on Linnaeus and O. Celsius, the Elder, died 15 Feb 1948. 
+**Abbreviated name**: *Gertz*
 
 #### Herbarium and types
 

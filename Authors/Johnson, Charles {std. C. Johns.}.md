@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/item/103253#page/474/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33068690) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnson, Charles (1791-1880), British physician and botanist, lecturer St. John's Hospital 1830-1873, father of Charles Pierpont Johnson. (*C. Johns.*).
+Johnson, Charles (1791-1880), British physician and botanist, lecturer St. John's Hospital 1830-1873, father of Charles Pierpont Johnson. 
+**Abbreviated name**: *C. Johns.*
 
 #### Herbarium and types
 

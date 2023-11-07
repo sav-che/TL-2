@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/item/103858#page/233/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33264948) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baar, Paul (1880-1946), Belgian (Liège) mycologist and mining engineer active at the plant systematic laboratory of the University of Liège and with the Société mycologique de France. (*Baar*).
+Baar, Paul (1880-1946), Belgian (Liège) mycologist and mining engineer active at the plant systematic laboratory of the University of Liège and with the Société mycologique de France. 
+**Abbreviated name**: *Baar*
 
 #### Herbarium and types
 

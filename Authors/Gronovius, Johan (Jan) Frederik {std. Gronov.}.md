@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/item/103414#page/1060/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/page/33121143) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gronovius, Johan (Jan) Frederik {std. Gronov.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gronovius, Johan \[Jan\] Frederik (1686-1762), Dutch botanist at Leiden. (*Gronov.*).
+Gronovius, Johan \[Jan\] Frederik (1686-1762), Dutch botanist at Leiden. 
+**Abbreviated name**: *Gronov.*
 
 #### Herbarium and types
 

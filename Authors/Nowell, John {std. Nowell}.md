@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/item/104137#page/795/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33355866) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nowell, John (1802-1867), British handloom weaver and bryologist at Todmorden, Yorkshire. (*Nowell*).
+Nowell, John (1802-1867), British handloom weaver and bryologist at Todmorden, Yorkshire. 
+**Abbreviated name**: *Nowell*
 
 #### Herbarium and types
 

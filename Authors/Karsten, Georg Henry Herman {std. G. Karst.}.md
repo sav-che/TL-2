@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/item/103253#page/525/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33068741) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Karsten, Georg Henry Herman (1863-1937), German botanist; Dr. phil. Rostock 1885; habit. Leipzig 1892; at Bonn 1899-1909; at Halle 1909-1928; travelled in Indonesia (1888-1890) and Mexico (1894). (*G. Karst.*).
+Karsten, Georg Henry Herman (1863-1937), German botanist; Dr. phil. Rostock 1885; habit. Leipzig 1892; at Bonn 1899-1909; at Halle 1909-1928; travelled in Indonesia (1888-1890) and Mexico (1894). 
+**Abbreviated name**: *G. Karst.*
 
 #### Herbarium and types
 

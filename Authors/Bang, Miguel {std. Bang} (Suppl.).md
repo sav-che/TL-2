@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/item/103858#page/323/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33265038) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bang, Miguel {std. Bang}|first entry]] for this author
 
 ### Author
 
-\* Bang, Miguel (1853-1936), Danish-born botanical collector, educated in gardening at the Royal Botanical Gardens Kew, to Bolivia 1883 to collect living orchids, also sets of herbarium specimens 1889-1894, later active as a gardener, collecting again, with M. Cardenas, on the Mulford Biological Exploration of the Amazon basin. (*Bang*).
+\* Bang, Miguel (1853-1936), Danish-born botanical collector, educated in gardening at the Royal Botanical Gardens Kew, to Bolivia 1883 to collect living orchids, also sets of herbarium specimens 1889-1894, later active as a gardener, collecting again, with M. Cardenas, on the Mulford Biological Exploration of the Amazon basin. 
+**Abbreviated name**: *Bang*
 
 #### Herbarium and types
 

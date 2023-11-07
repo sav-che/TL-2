@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103253#page/188/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henschel, August Wilhelm Eduard Theodor (1790-1856), German physician, botanist and historian of the life sciences at Breslau (Wroclaw). (*Hensch.*).
+Henschel, August Wilhelm Eduard Theodor (1790-1856), German physician, botanist and historian of the life sciences at Breslau (Wroclaw). 
+**Abbreviated name**: *Hensch.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/item/103253#page/573/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33068789) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kingdon-Ward, Francis (Frank) (1885-1958), British plant collector in China, Burma, Tibet and Thailand (1909-1956), introduced e.g. *Meconopsis betonicifolia* into cultivation; prolific author on "plant hunting." (*Kingdon-Ward*).
+Kingdon-Ward, Francis (Frank) (1885-1958), British plant collector in China, Burma, Tibet and Thailand (1909-1956), introduced e.g. *Meconopsis betonicifolia* into cultivation; prolific author on "plant hunting." 
+**Abbreviated name**: *Kingdon-Ward*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103832#page/22/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33258516) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frickhinger, Ernst Christoph (1876-1940), German botanist and pharmacist, born 3 Oct 1876 in Nördlingen, doctorate 1904 Erlangen, died 10 Oct 1940 in Nördlingen. (*E. Frickh.*).
+Frickhinger, Ernst Christoph (1876-1940), German botanist and pharmacist, born 3 Oct 1876 in Nördlingen, doctorate 1904 Erlangen, died 10 Oct 1940 in Nördlingen. 
+**Abbreviated name**: *E. Frickh.*
 
 #### Note
 

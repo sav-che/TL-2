@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/103860#page/421/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33266088) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Couderc, Georges (1850-1928), French botanist, vine hybridist, phytopathologist and lichenologist, born at Aubenas, Ardéche, in Charge of family domain (wine, chestnut). (*Couderc*).
+Couderc, Georges (1850-1928), French botanist, vine hybridist, phytopathologist and lichenologist, born at Aubenas, Ardéche, in Charge of family domain (wine, chestnut). 
+**Abbreviated name**: *Couderc*
 
 #### Herbarium and types
 

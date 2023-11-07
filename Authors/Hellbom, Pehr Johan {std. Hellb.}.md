@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/103253#page/170/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33068386) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hellbom, Pehr Johan (1827-1903), Swedish lichenologist, high school teacher at Örebro; Dr. phil. Uppsala 1851. (*Hellb.*).
+Hellbom, Pehr Johan (1827-1903), Swedish lichenologist, high school teacher at Örebro; Dr. phil. Uppsala 1851. 
+**Abbreviated name**: *Hellb.*
 
 #### Herbarium and types
 

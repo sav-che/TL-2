@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103253#page/141/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33068357) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hebenstreit, Johann Christian (1720-1795), German botanist; educated at Leipzig; from 1749-1751, 1755-1761 at St. Petersburg; from 1751-1754 in the Ukraine; from 1761 at Leipzig. (*Hebenstr.*).
+Hebenstreit, Johann Christian (1720-1795), German botanist; educated at Leipzig; from 1749-1751, 1755-1761 at St. Petersburg; from 1751-1754 in the Ukraine; from 1761 at Leipzig. 
+**Abbreviated name**: *Hebenstr.*
 
 #### Herbarium and types
 

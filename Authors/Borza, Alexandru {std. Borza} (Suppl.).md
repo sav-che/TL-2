@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/103859#page/374/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33265561) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Borza, Alexandru {std. Borza}|first entry]] for this author
 
 ### Author
 
-\* Borza, Alexandru (1887-1971), Roumanian botanist, born at Alba Julia, studied at the University of Budapest 1911, teacher at the Roumanian lyceum at Blaj, Dr. phil. Budapest 1913, studied in Germany 1913-1914 with F. Pax in Breslau and A. Engler, Berlin, again teaching at secondary schools 1914-1919, professor of systematic botany and director of the Garden and Botanical Museum at Cluj 1919-1947. (*Borza*).
+\* Borza, Alexandru (1887-1971), Roumanian botanist, born at Alba Julia, studied at the University of Budapest 1911, teacher at the Roumanian lyceum at Blaj, Dr. phil. Budapest 1913, studied in Germany 1913-1914 with F. Pax in Breslau and A. Engler, Berlin, again teaching at secondary schools 1914-1919, professor of systematic botany and director of the Garden and Botanical Museum at Cluj 1919-1947. 
+**Abbreviated name**: *Borza*
 
 #### Herbarium and types
 

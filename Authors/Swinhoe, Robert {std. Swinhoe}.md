@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/103683#page/139/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33212171) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swinhoe, Robert (1836-1877), British botanist, plant collector and ornithologist; in the consular service at Hongkong 1854, to Amoy 1855, vice-consul Taiwan 1860-1862, consul Amoy 1865-1871; visited Hainan 1868; consul at Ningpo 1871-1873. (*Swinhoe*).
+Swinhoe, Robert (1836-1877), British botanist, plant collector and ornithologist; in the consular service at Hongkong 1854, to Amoy 1855, vice-consul Taiwan 1860-1862, consul Amoy 1865-1871; visited Hainan 1868; consul at Ningpo 1871-1873. 
+**Abbreviated name**: *Swinhoe*
 
 #### Herbarium and types
 

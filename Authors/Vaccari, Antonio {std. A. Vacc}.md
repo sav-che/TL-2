@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/item/103683#page/635/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33212667) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaccari, Antonio (1867-?), Italian botanist and naval physician; ultimately at Modena. (*A. Vacc*).
+Vaccari, Antonio (1867-?), Italian botanist and naval physician; ultimately at Modena. 
+**Abbreviated name**: *A. Vacc*
 
 #### Herbarium and types
 

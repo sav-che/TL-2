@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103624#page/240/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33189697) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pfitzer, Ernst Hugo Heinrich (1846-1906), German (Prussian) botanist; Dr. phil. Königsberg 1867; habil. Bonn 1868; from 1868-1872 at Bonn; from 1872-1906 professor of botany and director of the botanical garden at Heidelberg; outstanding orchidologist. (*Pfitz.*).
+Pfitzer, Ernst Hugo Heinrich (1846-1906), German (Prussian) botanist; Dr. phil. Königsberg 1867; habil. Bonn 1868; from 1868-1872 at Bonn; from 1872-1906 professor of botany and director of the botanical garden at Heidelberg; outstanding orchidologist. 
+**Abbreviated name**: *Pfitz.*
 
 #### Herbarium and types
 

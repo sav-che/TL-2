@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103859#page/80/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33265267) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Benner, Ernst (1883-?), German (Schlesien) botanist, educated at the Gymnasium of Wohlau (Schlesien), id. Rawitsch 1896-1891; studied at the University of Breslau 1901-1905 mainly with Pax, Dr. phil. Breslau 1905. (*E. Benner*).
+Benner, Ernst (1883-?), German (Schlesien) botanist, educated at the Gymnasium of Wohlau (Schlesien), id. Rawitsch 1896-1891; studied at the University of Breslau 1901-1905 mainly with Pax, Dr. phil. Breslau 1905. 
+**Abbreviated name**: *E. Benner*
 
 #### Herbarium and types
 

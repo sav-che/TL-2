@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103835#page/96/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33260074) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Draghetti, A. (fl. 1925-1930), Italian botanist, at Forli, R. Stazione Agraria. (*Draghetti*).
+Draghetti, A. (fl. 1925-1930), Italian botanist, at Forli, R. Stazione Agraria. 
+**Abbreviated name**: *Draghetti*
 
 #### Herbarium and types
 

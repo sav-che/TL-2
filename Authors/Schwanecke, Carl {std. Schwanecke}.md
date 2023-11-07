@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/104077#page/434/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33333559) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwanecke, Carl (1821-1916), German (Prussian-Saxony) botanist and gardener; travelled in the West Indies, St. Thomas, Puertorico and Sto. Domingo 1846-1850; owner of a commercial nursery at Oschersleben 1852, growing pansies. (*Schwanecke*).
+Schwanecke, Carl (1821-1916), German (Prussian-Saxony) botanist and gardener; travelled in the West Indies, St. Thomas, Puertorico and Sto. Domingo 1846-1850; owner of a commercial nursery at Oschersleben 1852, growing pansies. 
+**Abbreviated name**: *Schwanecke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/item/103683#page/814/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33212846) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vuyck, Laurens (1862-1931), Dutch botanist and teacher; studied natural sciences at Leiden University; Dr. phil. ib. 1898 with W.F.R. Suringar; high school teacher at Leiden, Wageningen and Deventer; ultimately teacher and from 1926-1930 director of the College for Tropical Agriculture (Koloniale Landbouwschool) at Deventer; active floristic botanist, from 1889-1911 active in the Nederlandsche Botanische Vereeniging, later in the Nederlandsche Mycologische Vereeniging. (*Vuyck*).
+Vuyck, Laurens (1862-1931), Dutch botanist and teacher; studied natural sciences at Leiden University; Dr. phil. ib. 1898 with W.F.R. Suringar; high school teacher at Leiden, Wageningen and Deventer; ultimately teacher and from 1926-1930 director of the College for Tropical Agriculture (Koloniale Landbouwschool) at Deventer; active floristic botanist, from 1889-1911 active in the Nederlandsche Botanische Vereeniging, later in the Nederlandsche Mycologische Vereeniging. 
+**Abbreviated name**: *Vuyck*
 
 #### Herbarium and types
 

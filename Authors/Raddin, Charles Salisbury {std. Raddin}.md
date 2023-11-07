@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/item/103624#page/553/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raddin, Charles Salisbury (1863-1930), American botanist and mineralogist; MS Northwestern Univ. 1888; vice-president and trustee of the Chicago natural history survey. (*Raddin*).
+Raddin, Charles Salisbury (1863-1930), American botanist and mineralogist; MS Northwestern Univ. 1888; vice-president and trustee of the Chicago natural history survey. 
+**Abbreviated name**: *Raddin*
 
 #### Herbarium and types
 

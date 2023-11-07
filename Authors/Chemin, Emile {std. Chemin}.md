@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103860#page/86/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265753) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chemin, Emile (1876-1945), French botanist, born at Gorron, Mayenne, studied at the University of Paris, "agrégé des sciences naturelles, professeur au Lycée de Caen", Dr. sci. nat. Univ. Paris 1920, subsequently teacher at the Lycée Buffon, Paris. (*Chemin*).
+Chemin, Emile (1876-1945), French botanist, born at Gorron, Mayenne, studied at the University of Paris, "agrégé des sciences naturelles, professeur au Lycée de Caen", Dr. sci. nat. Univ. Paris 1920, subsequently teacher at the Lycée Buffon, Paris. 
+**Abbreviated name**: *Chemin*
 
 #### Herbarium and types
 

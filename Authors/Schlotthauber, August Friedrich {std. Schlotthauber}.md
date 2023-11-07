@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/104077#page/243/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33333368) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlotthauber, August Friedrich (x-1872), German botanist, zoologist and high school teacher in Hamburg, later in Göttingen; Dr. phil. h.c. Jena 1860. (*Schlotthauber*).
+Schlotthauber, August Friedrich (x-1872), German botanist, zoologist and high school teacher in Hamburg, later in Göttingen; Dr. phil. h.c. Jena 1860. 
+**Abbreviated name**: *Schlotthauber*
 
 #### Herbarium and types
 

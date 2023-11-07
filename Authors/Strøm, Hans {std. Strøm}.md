@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103683#page/58/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33212052) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strøm, Hans (1726-1797), Norwegian botanist, entomologist and clergyman; cand. theol. 1745; stationed at Borgund 1750, at Volda 1764 and at Eger 1778; prof. theol. extraord. 1780; Dr. theol. 1790. (*Strøm*).
+Strøm, Hans (1726-1797), Norwegian botanist, entomologist and clergyman; cand. theol. 1745; stationed at Borgund 1750, at Volda 1764 and at Eger 1778; prof. theol. extraord. 1780; Dr. theol. 1790. 
+**Abbreviated name**: *Strøm*
 
 #### Herbarium and types
 

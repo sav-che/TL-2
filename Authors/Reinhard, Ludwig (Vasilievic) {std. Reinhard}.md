@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/item/103624#page/715/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinhard, Ludwig (Vasilievic) (1846-1922), Ukrainian algologist; director of the Museum and Garden and extraord. prof. of botany at Odessa University; from 1885/6-1903 director of the botanical garden and morphological department of the Botanical Institute of Charkow Univerity; from 1903 continuing as professor of botany. (*Reinhard*).
+Reinhard, Ludwig (Vasilievic) (1846-1922), Ukrainian algologist; director of the Museum and Garden and extraord. prof. of botany at Odessa University; from 1885/6-1903 director of the botanical garden and morphological department of the Botanical Institute of Charkow Univerity; from 1903 continuing as professor of botany. 
+**Abbreviated name**: *Reinhard*
 
 #### Herbarium and types
 

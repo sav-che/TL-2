@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103834#page/132/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33259614) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Feistmantel, Ottokar \[Otakar\] (1848-1891), Czech paleontologist, born 20 Nov 1848 in Althütten (Bohemia), studied medicine in Prague until 1872, M.D., concurrently from 1868 asst., Paleontological Dept., National Museum, Prague, then asst. for mineralogy in Breslau (now Wroclaw, Poland) where he studied H.R.J. Goeppert's collections, paleontologist, Geological Survey of India (Calcutta) 1876-1885 (1883 was the beginning of a furlough during which he resigned in 1885 without returning to India), ultimately prof. of mineralogy and geology, Polytechnicum, Prague, died 10 Feb 1891 in Prague (only 43 years old!). (*Feistm.*).
+Feistmantel, Ottokar \[Otakar\] (1848-1891), Czech paleontologist, born 20 Nov 1848 in Althütten (Bohemia), studied medicine in Prague until 1872, M.D., concurrently from 1868 asst., Paleontological Dept., National Museum, Prague, then asst. for mineralogy in Breslau (now Wroclaw, Poland) where he studied H.R.J. Goeppert's collections, paleontologist, Geological Survey of India (Calcutta) 1876-1885 (1883 was the beginning of a furlough during which he resigned in 1885 without returning to India), ultimately prof. of mineralogy and geology, Polytechnicum, Prague, died 10 Feb 1891 in Prague (only 43 years old!). 
+**Abbreviated name**: *Feistm.*
 
 #### Note
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103624#page/119/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33189576) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Patterson, Harry Norton (1853-1919), American printer, botanist and explorer, editor proprietor of the Oquawka \[Ill.\]. Spectator 1884-1908 (*H. Patt.*).
+Patterson, Harry Norton (1853-1919), American printer, botanist and explorer, editor proprietor of the Oquawka \[Ill.\]. Spectator 1884-1908 
+**Abbreviated name**: *H. Patt.*
 
 #### Herbarium and types
 

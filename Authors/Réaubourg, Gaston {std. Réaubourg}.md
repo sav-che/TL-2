@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/item/103624#page/628/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33190085) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Réaubourg, Gaston (*fl*. 1906), French pharmacist; Dr. pharm. Paris 1906. (*Réaubourg*).
+Réaubourg, Gaston (*fl*. 1906), French pharmacist; Dr. pharm. Paris 1906. 
+**Abbreviated name**: *Réaubourg*
 
 #### Herbarium and types
 

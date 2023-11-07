@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/104137#page/265/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33355336) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maiden, Joseph Henri (1859-1925), British-born Australian botanist; to Australia 1880; curator Technological Museum of NSW 1881-1896; director of the Sydney botanical garden and goverment botanist 1896-1924; founder of the NSW herbarium. (*Maiden*).
+Maiden, Joseph Henri (1859-1925), British-born Australian botanist; to Australia 1880; curator Technological Museum of NSW 1881-1896; director of the Sydney botanical garden and goverment botanist 1896-1924; founder of the NSW herbarium. 
+**Abbreviated name**: *Maiden*
 
 #### Herbarium and types
 

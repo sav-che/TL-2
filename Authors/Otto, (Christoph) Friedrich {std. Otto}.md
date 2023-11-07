@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/item/104137#page/874/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33355945) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Otto, \[Christoph\] Friedrich (1783-1856), German botanist and gardener; at the Berlin botanical garden 1801-1843; director of the Schöneberg horticultural school 1823-1843. (*Otto*).
+Otto, \[Christoph\] Friedrich (1783-1856), German botanist and gardener; at the Berlin botanical garden 1801-1843; director of the Schöneberg horticultural school 1823-1843. 
+**Abbreviated name**: *Otto*
 
 #### Herbarium and types
 

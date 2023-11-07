@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103624#page/178/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33189635) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pérez Lara, José María (1841-1918), Spanish botanist, studied at Sevilla; B.A. 1862; expelled from the University 1863; henceforth living on his ample private means at Jerez. (*Pérez Lara*).
+Pérez Lara, José María (1841-1918), Spanish botanist, studied at Sevilla; B.A. 1862; expelled from the University 1863; henceforth living on his ample private means at Jerez. 
+**Abbreviated name**: *Pérez Lara*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103858#page/253/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33264968) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Backhouse, James {std. Backhouse}|first entry]] for this author
 
 ### Author
 
-\* Backhouse, James Sr. (1794-1869), British nurseryman, missionary, traveller and botanist; purchased a nursery at York 1815, active Quaker minister from 1824; sent out as a missionary to Australia September 1831, arriving in Hobart, February 1832, travelled 1832-1838 in Tasmania, New South Wales, South and Western Australia; to Mauritius and South Africa 1838-1840, back in England 1841, again in charge of his nursery, visited Norway 1851, 1853, 1860. (*Backhouse*).
+\* Backhouse, James Sr. (1794-1869), British nurseryman, missionary, traveller and botanist; purchased a nursery at York 1815, active Quaker minister from 1824; sent out as a missionary to Australia September 1831, arriving in Hobart, February 1832, travelled 1832-1838 in Tasmania, New South Wales, South and Western Australia; to Mauritius and South Africa 1838-1840, back in England 1841, again in charge of his nursery, visited Norway 1851, 1853, 1860. 
+**Abbreviated name**: *Backhouse*
 
 #### Herbarium and types
 

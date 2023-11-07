@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103250#page/351/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33066631) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilde, Earle Irving (1888-1949), American horticulturist; B.S. Mass. College 1912; M.S. Pennsylvania State College 1917; Dr. phil. Cornell 1929; professor of ornamental horticulture at Pennsylvania State College from 1912. (*E. Wilde*).
+Wilde, Earle Irving (1888-1949), American horticulturist; B.S. Mass. College 1912; M.S. Pennsylvania State College 1917; Dr. phil. Cornell 1929; professor of ornamental horticulture at Pennsylvania State College from 1912. 
+**Abbreviated name**: *E. Wilde*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103834#page/309/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259791) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Foerster, Arnold {std. A. Foerster}|first entry]] for this author
 
 ### Author
 
-\* Foerster \[later Förster\], Arnold (1810-1884), German teacher, botanist and entomologist (Hymenopterist), born 20 Jan 1810 in Aachen (Aix-la-Chapelle), studied medicine and then natural history in Bonn 1832-1838, taught high school in Aachen, Dr. h.c. 1853 Bonn, died 12 Aug 1884 in Aachen. (*A. Foerster*).
+\* Foerster \[later Förster\], Arnold (1810-1884), German teacher, botanist and entomologist (Hymenopterist), born 20 Jan 1810 in Aachen (Aix-la-Chapelle), studied medicine and then natural history in Bonn 1832-1838, taught high school in Aachen, Dr. h.c. 1853 Bonn, died 12 Aug 1884 in Aachen. 
+**Abbreviated name**: *A. Foerster*
 
 #### Herbarium and types
 

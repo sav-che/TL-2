@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/item/103414#page/988/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/page/33121071) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gibson, William Hamilton (1850-1896), American mycologist. (*W. Gibson*).
+Gibson, William Hamilton (1850-1896), American mycologist. 
+**Abbreviated name**: *W. Gibson*
 
 #### Herbarium and types
 

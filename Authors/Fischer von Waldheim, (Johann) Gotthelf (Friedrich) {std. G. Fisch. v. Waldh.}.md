@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/item/103414#page/888/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer von Waldheim, \[Johann\] Gotthelf \[Friedrich\] (1771-1853), German palaeobiologist active in Russia, founder (1805) of the Société imperiale des Naturalistes de Moscou. (*G. Fisch. v. Waldh.*).
+Fischer von Waldheim, \[Johann\] Gotthelf \[Friedrich\] (1771-1853), German palaeobiologist active in Russia, founder (1805) of the Société imperiale des Naturalistes de Moscou. 
+**Abbreviated name**: *G. Fisch. v. Waldh.*
 
 #### Collections
 

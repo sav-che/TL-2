@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/item/104137#page/382/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33355453) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mathieu, Charles Marie Joseph (1791-1873), Belgian pharmacist and botanist at Namur, later at Bruxelles (1857), and at Leur, Netherlands (1863). (*Mathieu*).
+Mathieu, Charles Marie Joseph (1791-1873), Belgian pharmacist and botanist at Namur, later at Bruxelles (1857), and at Leur, Netherlands (1863). 
+**Abbreviated name**: *Mathieu*
 
 #### Herbarium and types
 

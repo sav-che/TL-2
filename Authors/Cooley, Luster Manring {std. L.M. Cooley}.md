@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/item/103860#page/345/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33266012) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooley, Luster Manring (fl. 1934), American plant pathologist, some time at Dept. Botany of University of Tennessee, Knoxville, later associate in research in plant pathology, New York State Agriculture Experiment Station, Genova, New York. (*L.M. Cooley*).
+Cooley, Luster Manring (fl. 1934), American plant pathologist, some time at Dept. Botany of University of Tennessee, Knoxville, later associate in research in plant pathology, New York State Agriculture Experiment Station, Genova, New York. 
+**Abbreviated name**: *L.M. Cooley*
 
 #### Herbarium and types
 

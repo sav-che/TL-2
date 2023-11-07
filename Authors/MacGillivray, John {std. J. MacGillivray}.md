@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/104137#page/236/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-MacGillivray, John (1822-1867), Scottish naturalist and explorer on various voyages to the Pacific and Malesian regions (Fly and Bramble 1842-1846, Herald 1852-1861, Rattlesnake 1846-1850); son of William MacGillivray (1796- 1852); a "man of intemperate habits" (Seemann). (*J. MacGillivray*).
+MacGillivray, John (1822-1867), Scottish naturalist and explorer on various voyages to the Pacific and Malesian regions (Fly and Bramble 1842-1846, Herald 1852-1861, Rattlesnake 1846-1850); son of William MacGillivray (1796- 1852); a "man of intemperate habits" (Seemann). 
+**Abbreviated name**: *J. MacGillivray*
 
 #### Herbarium and types
 

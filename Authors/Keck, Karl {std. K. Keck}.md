@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/item/103253#page/538/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33068754) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keck, Karl (1825-1894), Austrian owner of a printing office, botanist and physician at Aistersheim. (*K. Keck*).
+Keck, Karl (1825-1894), Austrian owner of a printing office, botanist and physician at Aistersheim. 
+**Abbreviated name**: *K. Keck*
 
 #### Herbarium and types
 

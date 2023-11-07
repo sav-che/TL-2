@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103683#page/55/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strehler, Ludwig F. (*fl*. 1841), German (Bavarian) botanist and high school teacher at the "Landwirthschafts- und Gewerbs-Schule" at Ingolstadt. (*Strehler*).
+Strehler, Ludwig F. (*fl*. 1841), German (Bavarian) botanist and high school teacher at the "Landwirthschafts- und Gewerbs-Schule" at Ingolstadt. 
+**Abbreviated name**: *Strehler*
 
 #### Herbarium and types
 

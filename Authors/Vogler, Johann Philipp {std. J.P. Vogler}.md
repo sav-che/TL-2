@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/item/103683#page/781/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogler, Johann Philipp (1746-1816), German (Hessen) physician and botanist; practicing physician at Weilburg; Dr. med. Giessen 1773. (*J.P. Vogler*).
+Vogler, Johann Philipp (1746-1816), German (Hessen) physician and botanist; practicing physician at Weilburg; Dr. med. Giessen 1773. 
+**Abbreviated name**: *J.P. Vogler*
 
 #### Herbarium and types
 

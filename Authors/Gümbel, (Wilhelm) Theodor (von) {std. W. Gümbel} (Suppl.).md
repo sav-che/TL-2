@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/103832#page/448/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33258914) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gümbel, Wilhelm Theodor {std. W. Gümbel}|first entry]] for this author
 
 ### Author
 
-\* Gümbel, \[Wilhelm\] Theodor (von) (1812-1858), German bryologist, born 19 Mar 1812 in Dannenfels (Palatinate), older brother of Carl Wilhelm Gümbel (1823-1898, who became a geologist and also studied mosses), dir. of a secondary school in Landau (Palatinate), died 10 Feb 1858 in Landau. (*W. Gümbel*).
+\* Gümbel, \[Wilhelm\] Theodor (von) (1812-1858), German bryologist, born 19 Mar 1812 in Dannenfels (Palatinate), older brother of Carl Wilhelm Gümbel (1823-1898, who became a geologist and also studied mosses), dir. of a secondary school in Landau (Palatinate), died 10 Feb 1858 in Landau. 
+**Abbreviated name**: *W. Gümbel*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103834#page/244/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33259726) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fischer-Ooster, Carl von {std. Fisch.-Oost.}|first entry]] for this author
 
 ### Author
 
-\* Fischer-Ooster, Carl (von) (1807-1875), Swiss botanist and paleontologist, born 27 Feb 1807 in Sacconex nr. Geneva, attended school in Hofwyl nr. Bern and studied in Geneva, later in Paris 1827, in Karlsruhe 1830 and also St. Petersburg, served as private secretary to Peter von Wittgenstein (1769-1843) in Lithuania, returned to Switzerland (Thun) 1842, moved to Bern 1852, died 24 Sep 1875. (*Fisch.-Oost.*).
+\* Fischer-Ooster, Carl (von) (1807-1875), Swiss botanist and paleontologist, born 27 Feb 1807 in Sacconex nr. Geneva, attended school in Hofwyl nr. Bern and studied in Geneva, later in Paris 1827, in Karlsruhe 1830 and also St. Petersburg, served as private secretary to Peter von Wittgenstein (1769-1843) in Lithuania, returned to Switzerland (Thun) 1842, moved to Bern 1852, died 24 Sep 1875. 
+**Abbreviated name**: *Fisch.-Oost.*
 
 #### Herbarium and types
 

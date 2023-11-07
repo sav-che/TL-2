@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/item/103250#page/427/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33066707) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winkler, \[Karl Gustaf\] Adolf (1810-1893), German (Silesian) military administrator and botanist, pseudonym A. Carex; studied law and military administration in Berlin; "Intendantur-Assessor" \[assistant military administrator\] at Koblenz 1840-1843, Frankfurt a.O. 1843-1844; in Berlin id. 1844-1848, administrator 1848-1857, senior administrator ("ältester Rat") Breslau 1857-1860; from 1860 in Berlin; administrator of the third Prussian army corps in the Franco-Prussian war 1870-1871; from 1871 in retirement as "Geheimer Kriegsrat"; brother of Moritz Winkler; treasurer of the Botanischc Verein der Provinz Brandenburg 1870-1890. (*A. Winkl.*).
+Winkler, \[Karl Gustaf\] Adolf (1810-1893), German (Silesian) military administrator and botanist, pseudonym A. Carex; studied law and military administration in Berlin; "Intendantur-Assessor" \[assistant military administrator\] at Koblenz 1840-1843, Frankfurt a.O. 1843-1844; in Berlin id. 1844-1848, administrator 1848-1857, senior administrator ("ältester Rat") Breslau 1857-1860; from 1860 in Berlin; administrator of the third Prussian army corps in the Franco-Prussian war 1870-1871; from 1871 in retirement as "Geheimer Kriegsrat"; brother of Moritz Winkler; treasurer of the Botanischc Verein der Provinz Brandenburg 1870-1890. 
+**Abbreviated name**: *A. Winkl.*
 
 #### Herbarium and types
 

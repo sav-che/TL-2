@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/item/104137#page/604/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33355675) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moritz, Johann Wilhelm Karl (1797-1866), German botanical explorer of the West Indies (1831-1835); lived in Venezuela 1835-1837, 1840-1866. (*Moritz*).
+Moritz, Johann Wilhelm Karl (1797-1866), German botanical explorer of the West Indies (1831-1835); lived in Venezuela 1835-1837, 1840-1866. 
+**Abbreviated name**: *Moritz*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103624#page/365/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33189822) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Post, George Edward (1838-1909), American physician, missionary and botanist; educated at New York Free Academy (City College), Univ. of New York medical dept., and at Union Theological Seminary; Dr. med. New York 1860; professor of surgery in the Syrian protestant College, Beirut and surgeon to the Johanniter Hospital, Beirut 1868-1909. (*Post*).
+Post, George Edward (1838-1909), American physician, missionary and botanist; educated at New York Free Academy (City College), Univ. of New York medical dept., and at Union Theological Seminary; Dr. med. New York 1860; professor of surgery in the Syrian protestant College, Beirut and surgeon to the Johanniter Hospital, Beirut 1868-1909. 
+**Abbreviated name**: *Post*
 
 #### Herbarium and types
 

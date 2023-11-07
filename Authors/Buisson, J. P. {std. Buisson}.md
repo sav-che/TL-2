@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103414#page/449/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33120532) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buisson, J. P. (*fl*. 1779), French botanist, "démonstrateur d'histoire naturelle phytologique" at the Collège de Pharmacie, Paris. (*Buisson*).
+Buisson, J. P. (*fl*. 1779), French botanist, "démonstrateur d'histoire naturelle phytologique" at the Collège de Pharmacie, Paris. 
+**Abbreviated name**: *Buisson*
 
 #### Herbarium and types
 

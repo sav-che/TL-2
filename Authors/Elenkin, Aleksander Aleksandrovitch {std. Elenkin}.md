@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/item/103414#page/788/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Elenkin, Alexander Alexandrowitsch {std. Elenkin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Elenkin, Aleksander Aleksandrovitch (1873-1942), Russian botanist. (*Elenkin*).
+Elenkin, Aleksander Aleksandrovitch (1873-1942), Russian botanist. 
+**Abbreviated name**: *Elenkin*
 
 #### Herbarium and types
 

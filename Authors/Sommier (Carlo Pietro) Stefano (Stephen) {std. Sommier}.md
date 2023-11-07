@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/item/104077#page/751/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33333876) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sommier \[Carlo Pietro\] Stefano \[Stephen\] (1848-1922), Italian botanist and plant collector; son of French parents living at Firenze, chose Italian citizenship 1869; travelled widely in Europe and the Caucasus; Dr. med. h.c. Uppsala 1907. (*Sommier*).
+Sommier \[Carlo Pietro\] Stefano \[Stephen\] (1848-1922), Italian botanist and plant collector; son of French parents living at Firenze, chose Italian citizenship 1869; travelled widely in Europe and the Caucasus; Dr. med. h.c. Uppsala 1907. 
+**Abbreviated name**: *Sommier*
 
 #### Herbarium and types
 

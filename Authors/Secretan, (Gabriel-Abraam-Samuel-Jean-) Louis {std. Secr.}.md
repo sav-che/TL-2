@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 472](https://www.biodiversitylibrary.org/item/104077#page/486/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 472](https://www.biodiversitylibrary.org/page/33333611) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Secretan, \[Gabriel-Abraam-Samuel-Jean-\] Louis (1758-1839), Swiss botanist, lawyer and statesman; Dr. jur. Tübingen 1780; lawyer at Lausanne; served in various political functions from 1798. (*Secr.*).
+Secretan, \[Gabriel-Abraam-Samuel-Jean-\] Louis (1758-1839), Swiss botanist, lawyer and statesman; Dr. jur. Tübingen 1780; lawyer at Lausanne; served in various political functions from 1798. 
+**Abbreviated name**: *Secr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103683#page/282/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33212314) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas, Eugen A. (1912-x), Swiss cryptogamist; Dr. phil. Zürich 1939; biologist at the Chemical laboratory of the Canton Zürich 1939, later in charge of the limnological department of this Laboratory; lecturer at Zürich University 1956. (*E.A. Thomas*).
+Thomas, Eugen A. (1912-x), Swiss cryptogamist; Dr. phil. Zürich 1939; biologist at the Chemical laboratory of the Canton Zürich 1939, later in charge of the limnological department of this Laboratory; lecturer at Zürich University 1956. 
+**Abbreviated name**: *E.A. Thomas*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103683#page/310/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33212342) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Threlkeld, Caleb (1676-1728), British clergyman (dissenting minister) and botanist; studied at the University of Glasgow 1696; minister at Kirk Oswald, Cumberland 1698-1712, MD Edinburgh (1713); settled in Dublin 1713 as practicing physician. (*Threlkeld*).
+Threlkeld, Caleb (1676-1728), British clergyman (dissenting minister) and botanist; studied at the University of Glasgow 1696; minister at Kirk Oswald, Cumberland 1698-1712, MD Edinburgh (1713); settled in Dublin 1713 as practicing physician. 
+**Abbreviated name**: *Threlkeld*
 
 #### Herbarium and types
 

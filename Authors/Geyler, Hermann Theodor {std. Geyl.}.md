@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/item/103414#page/987/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Geyler, Hermann Theodor {std. Geyl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Geyler, Hermann Theodor (1834-1889), German palaeobiologist at the Senckenberg institute and director of the botanic garden in Frankfurt a.M. (*Geyl.*).
+Geyler, Hermann Theodor (1834-1889), German palaeobiologist at the Senckenberg institute and director of the botanic garden in Frankfurt a.M. 
+**Abbreviated name**: *Geyl.*
 
 #### Collections
 

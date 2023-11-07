@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/item/103414#page/526/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33120609) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cesalpino, Andrea (lat. Caesalpinus) (1519-1603), Italian botanist, "the first orthodox systematist" (L.), professor of medicine and botany at Pisa 1555, Roma 1592. (*Cesalpino*).
+Cesalpino, Andrea (lat. Caesalpinus) (1519-1603), Italian botanist, "the first orthodox systematist" (L.), professor of medicine and botany at Pisa 1555, Roma 1592. 
+**Abbreviated name**: *Cesalpino*
 
 #### Herbarium and types
 

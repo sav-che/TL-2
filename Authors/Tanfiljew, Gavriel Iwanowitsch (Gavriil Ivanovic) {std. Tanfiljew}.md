@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103683#page/171/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33212203) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tanfiljew, Gavriel Iwanowitsch \[Gavriil Ivanovic\] (1857-1928), Estonia-born Russian botanist; Dr. phil. St. Petersburg 1912; botanist at the Imperial Garden at St. Petersburg 1899; travelled in Siberia 1901, S. Russia 1902; professor of geobotany and soil science at the Agricultural Institute, Odessa. (*Tanfiljew*).
+Tanfiljew, Gavriel Iwanowitsch \[Gavriil Ivanovic\] (1857-1928), Estonia-born Russian botanist; Dr. phil. St. Petersburg 1912; botanist at the Imperial Garden at St. Petersburg 1899; travelled in Siberia 1901, S. Russia 1902; professor of geobotany and soil science at the Agricultural Institute, Odessa. 
+**Abbreviated name**: *Tanfiljew*
 
 #### Herbarium and types
 

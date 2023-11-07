@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103624#page/456/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33189913) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pulteney, Richard (1730-1801), British physician, naturalist and historian of science; MD Edinburgh 1764, FRS 1762; surgeon at Leicester and (from 1865) at Blandford. (*Pult.*).
+Pulteney, Richard (1730-1801), British physician, naturalist and historian of science; MD Edinburgh 1764, FRS 1762; surgeon at Leicester and (from 1865) at Blandford. 
+**Abbreviated name**: *Pult.*
 
 #### Herbarium and types
 

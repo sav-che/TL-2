@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/item/103253#page/285/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holm, Jørgen Tyche (Georg Tycho) (1726-1759), Danish botanist, pupil of Linnaeus (1750-1751, 1754-1757), Dr. med. Uppsala 1757. (*J. Holm*).
+Holm, Jørgen Tyche (Georg Tycho) (1726-1759), Danish botanist, pupil of Linnaeus (1750-1751, 1754-1757), Dr. med. Uppsala 1757. 
+**Abbreviated name**: *J. Holm*
 
 #### Herbarium and types
 

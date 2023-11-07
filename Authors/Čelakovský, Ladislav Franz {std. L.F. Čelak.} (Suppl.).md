@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103860#page/18/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33265685) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Čelakovský, Ladislav Franz {std. L.F. Čelak.}|first entry]] for this author
 
 ### Author
 
-\* Čelakovský, Ladislav Franz (1864-1916), Czech botanist, son of L.J. Čelakovský, honor. docent at the Bohemian technical University 1897, subsequently full professor at the same university. (*L.F. Čelak.*).
+\* Čelakovský, Ladislav Franz (1864-1916), Czech botanist, son of L.J. Čelakovský, honor. docent at the Bohemian technical University 1897, subsequently full professor at the same university. 
+**Abbreviated name**: *L.F. Čelak.*
 
 #### Herbarium and types
 

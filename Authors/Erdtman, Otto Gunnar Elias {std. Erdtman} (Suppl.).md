@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103835#page/394/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33260372) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Erdtman, Otto Gunnar Elias {std. Erdtman}|first entry]] for this author
 
 ### Author
 
-\* Erdtman, Otto Gunnar Elias (1897-1973), Swedish botanist and palynologist, born 18 Nov 1877 at Bjurvik in Småland, came to Stockholm in 1903, visited schools there and studied at the Stockholm University from 1915, received his doctor's degree in 1920, carried out pollen analytical research in different European countries from 1923 till 1930, visited W. Canada and U.S.A. 1930-1931 with a Rockefeller scholarship, taught in different Swedish high schools after his return, director of the Swedish Natural Science Research Council 1948, professor in 1954, visited India 1956-1957, South America 1958-1959, U.S.A. and Canada 1962, Australia and Mauritius 1966, died 18 Feb 1973. (*Erdtman*).
+\* Erdtman, Otto Gunnar Elias (1897-1973), Swedish botanist and palynologist, born 18 Nov 1877 at Bjurvik in Småland, came to Stockholm in 1903, visited schools there and studied at the Stockholm University from 1915, received his doctor's degree in 1920, carried out pollen analytical research in different European countries from 1923 till 1930, visited W. Canada and U.S.A. 1930-1931 with a Rockefeller scholarship, taught in different Swedish high schools after his return, director of the Swedish Natural Science Research Council 1948, professor in 1954, visited India 1956-1957, South America 1958-1959, U.S.A. and Canada 1962, Australia and Mauritius 1966, died 18 Feb 1973. 
+**Abbreviated name**: *Erdtman*
 
 #### Herbarium and types
 

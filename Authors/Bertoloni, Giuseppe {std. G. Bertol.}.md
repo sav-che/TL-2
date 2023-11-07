@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/item/103859#page/136/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33265323) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bertoloni, Giuseppe (1804-1878), Italian botanist and entomologist, son of Antonio Bertoloni, professor of botany and 1869-1878 also director of the botanical garden of the University of Bologna. (*G. Bertol.*).
+Bertoloni, Giuseppe (1804-1878), Italian botanist and entomologist, son of Antonio Bertoloni, professor of botany and 1869-1878 also director of the botanical garden of the University of Bologna. 
+**Abbreviated name**: *G. Bertol.*
 
 #### Herbarium and types
 

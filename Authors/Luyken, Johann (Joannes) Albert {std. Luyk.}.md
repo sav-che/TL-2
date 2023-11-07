@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/104137#page/215/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Luyken, Johann (Joannes) Albert (1785-1867), German-Dutch physician and lichenologist, born at Wessel, ultimately at Landfort nr. Gendringen (Arnhem region) (*Luyk.*).
+Luyken, Johann (Joannes) Albert (1785-1867), German-Dutch physician and lichenologist, born at Wessel, ultimately at Landfort nr. Gendringen (Arnhem region) 
+**Abbreviated name**: *Luyk.*
 
 #### Herbarium and types
 

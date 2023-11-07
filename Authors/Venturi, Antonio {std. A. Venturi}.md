@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/item/103683#page/713/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33212745) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Venturi, Antonio (1805-1864), Italian landed gentleman, mycologist and musicologist at Brescia. (*A. Venturi*).
+Venturi, Antonio (1805-1864), Italian landed gentleman, mycologist and musicologist at Brescia. 
+**Abbreviated name**: *A. Venturi*
 
 #### Herbarium and types
 

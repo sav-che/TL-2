@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103250#page/454/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33066734) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiström, Johan Alfred (1830-1896), Swedish botanist, entomologist and high school teacher; Dr. phil. Uppsala 1857; teacher at Hudiksvall's high school 1859-1896; habil. Uppsala 1867. (*Wiström*).
+Wiström, Johan Alfred (1830-1896), Swedish botanist, entomologist and high school teacher; Dr. phil. Uppsala 1857; teacher at Hudiksvall's high school 1859-1896; habil. Uppsala 1867. 
+**Abbreviated name**: *Wiström*
 
 #### Herbarium and types
 

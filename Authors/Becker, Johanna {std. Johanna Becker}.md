@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103859#page/41/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33265228) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Becker, Johanna (1898-x), German (Bremen) mycologist, educated at the Bremen Lyzeum 1904-1914, id. Gymnasium 1915-1918, studied at the Wirtschaftliche Frauenschule Löbichau (Sachsen-Altenburg) 1919-1920 (Maidenexamen), followed a veterinary stage in Mecklenburg 1921-1922, id. Pommern 1922-1923; at the University of Halle 1923-1928, Dr. phil. ib. 1928 (*Johanna Becker*).
+Becker, Johanna (1898-x), German (Bremen) mycologist, educated at the Bremen Lyzeum 1904-1914, id. Gymnasium 1915-1918, studied at the Wirtschaftliche Frauenschule Löbichau (Sachsen-Altenburg) 1919-1920 (Maidenexamen), followed a veterinary stage in Mecklenburg 1921-1922, id. Pommern 1922-1923; at the University of Halle 1923-1928, Dr. phil. ib. 1928 
+**Abbreviated name**: *Johanna Becker*
 
 #### Herbarium and types
 

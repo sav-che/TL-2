@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/item/103624#page/770/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33190227) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ricasoli, Vincenzo, barone (1814-1891), Italian (Tuscany) soldier and amateur horticulturist and botanist at Firenze; fought in the Crimea and played an important role in the Italian "risorgimento"; had a botanical garden on Monte Argentario (Port' Ercole). (*Ricasoli*).
+Ricasoli, Vincenzo, barone (1814-1891), Italian (Tuscany) soldier and amateur horticulturist and botanist at Firenze; fought in the Crimea and played an important role in the Italian "risorgimento"; had a botanical garden on Monte Argentario (Port' Ercole). 
+**Abbreviated name**: *Ricasoli*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/item/103253#page/291/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33068507) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Homann, Georg Gotthilf Jacob (*fl*. 1828-1835), German clergyman and botanist at Budow near Stolp in Pommerania. (*Homann*).
+Homann, Georg Gotthilf Jacob (*fl*. 1828-1835), German clergyman and botanist at Budow near Stolp in Pommerania. 
+**Abbreviated name**: *Homann*
 
 #### Herbarium and types
 

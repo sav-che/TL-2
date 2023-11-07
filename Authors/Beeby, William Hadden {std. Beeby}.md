@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/item/103859#page/48/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33265235) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beeby, William Hadden (1849-1910), British botanist, self-made bank clerk, served under the Union Discount Company of London, afterwards cashier in the Bank of Tarapaca and London, retired Jun 1909; student of the flora of Surrey and of Shetland; critical opponent of the nomenclature changes leading to the Vienna Code. (*Beeby*).
+Beeby, William Hadden (1849-1910), British botanist, self-made bank clerk, served under the Union Discount Company of London, afterwards cashier in the Bank of Tarapaca and London, retired Jun 1909; student of the flora of Surrey and of Shetland; critical opponent of the nomenclature changes leading to the Vienna Code. 
+**Abbreviated name**: *Beeby*
 
 #### Herbarium and types
 

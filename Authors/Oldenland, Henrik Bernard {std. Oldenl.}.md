@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/item/104137#page/833/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33355904) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oldenland, Henrik Bernard (x-1699), Danish physician and botanist; studied under Paul Hermann at Leiden and went to the Cape around 1695; superintendent of the Dutch East Indian Company's Garden at Cape Town. (*==Name in the standard form is not specified==.*).
+Oldenland, Henrik Bernard (x-1699), Danish physician and botanist; studied under Paul Hermann at Leiden and went to the Cape around 1695; superintendent of the Dutch East Indian Company's Garden at Cape Town. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103858#page/371/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33265086) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baruch, Maximilian Paul (fl. 1891-1909), German "Sanitätsrat" and botanist at Paderborn. (*Baruch*).
+Baruch, Maximilian Paul (fl. 1891-1909), German "Sanitätsrat" and botanist at Paderborn. 
+**Abbreviated name**: *Baruch*
 
 #### Herbarium and types
 

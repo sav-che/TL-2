@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103683#page/25/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33212079) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stokes, Alfred Cheatham (*fl*. 1893), American physician and algologist at Trenton, N.J. (*A. Stokes*).
+Stokes, Alfred Cheatham (*fl*. 1893), American physician and algologist at Trenton, N.J. 
+**Abbreviated name**: *A. Stokes*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/103860#page/271/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33265938) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coker, William Chambers {std. Coker}|first entry]] for this author
 
 ### Author
 
-\* Coker, William Chambers (1872-1953), American mycologist, born at Hartsville, South Carolina, studied at the University of North Carolina 1894, graduate work at Johns Hopkins University 1894, worked three years as a banker, Ph.D. Johns Hopkins 1897, associate professor of botany at the University of N. Carolina 1902, full professor ib. 1908 until his retirement 1945, died at Chapel Hill, N.C., 1953. (*Coker*).
+\* Coker, William Chambers (1872-1953), American mycologist, born at Hartsville, South Carolina, studied at the University of North Carolina 1894, graduate work at Johns Hopkins University 1894, worked three years as a banker, Ph.D. Johns Hopkins 1897, associate professor of botany at the University of N. Carolina 1902, full professor ib. 1908 until his retirement 1945, died at Chapel Hill, N.C., 1953. 
+**Abbreviated name**: *Coker*
 
 #### Herbarium and types
 

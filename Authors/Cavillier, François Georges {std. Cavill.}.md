@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/item/103414#page/523/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33120606) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cavillier, François (-Georges) {std. Cavill.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cavillier, François Georges (1868-1953), Swiss botanist at the Burnat herbarium 1890-1920, and the Conservatoire botanique de Genève. (*Cavill.*).
+Cavillier, François Georges (1868-1953), Swiss botanist at the Burnat herbarium 1890-1920, and the Conservatoire botanique de Genève. 
+**Abbreviated name**: *Cavill.*
 
 #### Herbarium and types
 

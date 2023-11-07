@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/item/103253#page/634/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kol, Erszébet \[Elizabet\] (1897-x), Hungarian botanist at the Budapest Museum of Narural History; interested in cryobiology; Dr. phil. Szeged 1925. (*Kol*).
+Kol, Erszébet \[Elizabet\] (1897-x), Hungarian botanist at the Budapest Museum of Narural History; interested in cryobiology; Dr. phil. Szeged 1925. 
+**Abbreviated name**: *Kol*
 
 #### Herbarium and types
 

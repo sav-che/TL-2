@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/103835#page/76/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33260054) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Douglas, David {std. Douglas}|first entry]] for this author
 
 ### Author
 
-\* Douglas, David (1799-1834), Scottish botanist and plant collector, born 25 Jun 1799 at Scone, Perthshire, Scotland, died in the Hawaiian Islands 12 Jul 1834, employed with the Botanic Garden Univ. Glasgow (1820), teacher William Hooker, botanical collector in the U.S.A. for the Horticultural Society of London, traversing 1827 the continent from Vancouver to Hudson Bay, a second visit to Columbia river 1827, went to Hawaiian Islands where he was killed, imported ornamental plants from N. America and China. (*Douglas*).
+\* Douglas, David (1799-1834), Scottish botanist and plant collector, born 25 Jun 1799 at Scone, Perthshire, Scotland, died in the Hawaiian Islands 12 Jul 1834, employed with the Botanic Garden Univ. Glasgow (1820), teacher William Hooker, botanical collector in the U.S.A. for the Horticultural Society of London, traversing 1827 the continent from Vancouver to Hudson Bay, a second visit to Columbia river 1827, went to Hawaiian Islands where he was killed, imported ornamental plants from N. America and China. 
+**Abbreviated name**: *Douglas*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/item/103624#page/799/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33190256) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Riddle, Lincoln Ware (1880-1921), American botanist (mycologist, lichenologist), A.B. Harvard 1902; Dr. phil. Harvard 1906; instructor in botany at Wellesley College 1906-1909; professor of botany ib. 1909-1919; assistant professor of cryptogamic botany at Harvard Univ. 1919-1921. (*Riddle*).
+Riddle, Lincoln Ware (1880-1921), American botanist (mycologist, lichenologist), A.B. Harvard 1902; Dr. phil. Harvard 1906; instructor in botany at Wellesley College 1906-1909; professor of botany ib. 1909-1919; assistant professor of cryptogamic botany at Harvard Univ. 1919-1921. 
+**Abbreviated name**: *Riddle*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/item/103861#page/54/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33266351) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breakwell, Ernest (1884-?), Australian botanist at the Royal Botanical Gardens Sydney, N.S.W. (*Breakwell*).
+Breakwell, Ernest (1884-?), Australian botanist at the Royal Botanical Gardens Sydney, N.S.W. 
+**Abbreviated name**: *Breakwell*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/item/103250#page/498/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wood, John Bland (1813-1890), British physician and bryologist; studied at Dublin, Edinburgh and London; practicing physician at Broughton nr Manchester; ultimately in retirement at Withington. (*J.B. Wood*).
+Wood, John Bland (1813-1890), British physician and bryologist; studied at Dublin, Edinburgh and London; practicing physician at Broughton nr Manchester; ultimately in retirement at Withington. 
+**Abbreviated name**: *J.B. Wood*
 
 #### Herbarium and types
 

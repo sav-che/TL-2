@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/item/103683#page/39/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stout, Arlow Burdette (1876-1957), American botanist; A.B. Univ. Wisconsin 1909; instructor in botany ib. 1909-1911; Dr. phil. Columbia Univ. 1913; director of laboratories, New York Botanical Garden 1911-1937; curator of education and laboratories ib. 1938-1947; curator emeritus 1948-1957. (*Stout*).
+Stout, Arlow Burdette (1876-1957), American botanist; A.B. Univ. Wisconsin 1909; instructor in botany ib. 1909-1911; Dr. phil. Columbia Univ. 1913; director of laboratories, New York Botanical Garden 1911-1937; curator of education and laboratories ib. 1938-1947; curator emeritus 1948-1957. 
+**Abbreviated name**: *Stout*
 
 #### Herbarium and types
 

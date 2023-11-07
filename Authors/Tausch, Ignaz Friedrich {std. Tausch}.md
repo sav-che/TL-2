@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103683#page/192/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33212224) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tausch, Ignaz Friedrich (1793-1848), Bohemian botanist; studied philosophy, natural sciences and medicine at the University of Prague; extraordinary professor of economic and technical botany 1816, associated with the garden of Joseph von Canal. (*Tausch*).
+Tausch, Ignaz Friedrich (1793-1848), Bohemian botanist; studied philosophy, natural sciences and medicine at the University of Prague; extraordinary professor of economic and technical botany 1816, associated with the garden of Joseph von Canal. 
+**Abbreviated name**: *Tausch*
 
 #### Herbarium and types
 

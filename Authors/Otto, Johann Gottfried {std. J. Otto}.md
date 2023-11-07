@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/item/104137#page/876/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33355947) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Otto, Johann Gottfried (1761-1832), German botanist; Dr. med. Jena 1784. (*J. Otto*).
+Otto, Johann Gottfried (1761-1832), German botanist; Dr. med. Jena 1784. 
+**Abbreviated name**: *J. Otto*
 
 #### Herbarium and types
 

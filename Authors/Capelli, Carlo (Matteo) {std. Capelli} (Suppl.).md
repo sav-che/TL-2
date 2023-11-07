@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103861#page/404/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33266701) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Capelli, Carlo Matteo {std. Capelli}|first entry]] for this author
 
 ### Author
 
-\* Capelli, Carlo \[Matteo\] (1763-1831), Italian mathematician, pharmacist and botanist, born at Scarnafiggi (Cuneo), professor of botany and medical material at the University of Torino 1817-1829. (*Capelli*).
+\* Capelli, Carlo \[Matteo\] (1763-1831), Italian mathematician, pharmacist and botanist, born at Scarnafiggi (Cuneo), professor of botany and medical material at the University of Torino 1817-1829. 
+**Abbreviated name**: *Capelli*
 
 #### Herbarium and types
 

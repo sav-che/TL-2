@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/item/103414#page/1042/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/page/33121125) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grecescu, Dimitrie (Demetrius) {std. Grecescu} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Grecescu, Dimitrie (1841-1910), Roumanian botanist. (*Grecescu*).
+Grecescu, Dimitrie (1841-1910), Roumanian botanist. 
+**Abbreviated name**: *Grecescu*
 
 #### Herbarium and types
 

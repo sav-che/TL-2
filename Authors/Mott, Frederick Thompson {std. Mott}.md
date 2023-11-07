@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/item/104137#page/620/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33355691) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mott, Frederick Thompson (1825-1908), British botanist; wine merchant at Leicester. (*Mott*).
+Mott, Frederick Thompson (1825-1908), British botanist; wine merchant at Leicester. 
+**Abbreviated name**: *Mott*
 
 #### Herbarium and types
 

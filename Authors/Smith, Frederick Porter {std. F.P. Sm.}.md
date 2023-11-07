@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/item/104077#page/685/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Frederick Porter (1833-1888), British medical missionary in Central China; MB Univ. London 1855; after his return to England medical practitioner at Shepton Mallett. (*F.P. Sm.*).
+Smith, Frederick Porter (1833-1888), British medical missionary in Central China; MB Univ. London 1855; after his return to England medical practitioner at Shepton Mallett. 
+**Abbreviated name**: *F.P. Sm.*
 
 #### Herbarium and types
 

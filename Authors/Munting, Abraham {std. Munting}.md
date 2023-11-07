@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/104137#page/677/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33355748) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Munting, Abraham (1626-1683), Dutch botanist, professor of medicine at Groningen, 1658-1683. (*Munting*).
+Munting, Abraham (1626-1683), Dutch botanist, professor of medicine at Groningen, 1658-1683. 
+**Abbreviated name**: *Munting*
 
 #### Herbarium and types
 

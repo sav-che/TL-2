@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103861#page/32/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33266329) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bras, Antoine (1803\[1802?\]-1883), French physician and botanist, sometime maire of Villefranche de Rouergue. (*A. Bras*).
+Bras, Antoine (1803\[1802?\]-1883), French physician and botanist, sometime maire of Villefranche de Rouergue. 
+**Abbreviated name**: *A. Bras*
 
 #### Herbarium and types
 

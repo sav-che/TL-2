@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/item/103414#page/692/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33120775) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dickinson, Joseph {std. Dickinson} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dickinson, Joseph (1805?-1865), British botanist, lecturer at the Liverpool School of Medicine. (*Dickinson*).
+Dickinson, Joseph (1805?-1865), British botanist, lecturer at the Liverpool School of Medicine. 
+**Abbreviated name**: *Dickinson*
 
 #### Herbarium and types
 

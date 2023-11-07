@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103858#page/225/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33264940) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Austin, Coe Finch {std. Aust.}|first entry]] for this author
 
 ### Author
 
-\* Austin, Coe Finch (1831-1880), American bryologist, grew up in Greenville, N.Y. and Brookfield (State Hill, Ornage County, N.Y.), at a classical school in Sussex, N.Y. ca. 1850, school teacher at Tappan, N.Y. 1857, at the Columbia College Herbarium 1861-1863, teacher at Demarest, N.Y. 1865-1866 and subsequently at various other schools turning more to botanizing. (*Aust.*).
+\* Austin, Coe Finch (1831-1880), American bryologist, grew up in Greenville, N.Y. and Brookfield (State Hill, Ornage County, N.Y.), at a classical school in Sussex, N.Y. ca. 1850, school teacher at Tappan, N.Y. 1857, at the Columbia College Herbarium 1861-1863, teacher at Demarest, N.Y. 1865-1866 and subsequently at various other schools turning more to botanizing. 
+**Abbreviated name**: *Aust.*
 
 #### Herbarium and types
 

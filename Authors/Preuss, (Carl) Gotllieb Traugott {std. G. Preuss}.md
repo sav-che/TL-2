@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103624#page/410/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33189867) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Preuss, \[Carl\] Gotllieb Traugott (x-1855), German (Silesian) mycologist and pharmacist at Hoyerswerda from 1834-1855. (*G. Preuss*).
+Preuss, \[Carl\] Gotllieb Traugott (x-1855), German (Silesian) mycologist and pharmacist at Hoyerswerda from 1834-1855. 
+**Abbreviated name**: *G. Preuss*
 
 #### Herbarium and types
 

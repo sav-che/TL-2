@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103253#page/414/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33068630) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Irvine, Alexander (1793-1873), Scottish schoolmaster; educated at Aberdeen University; from 1851 at Chelsea. (*Irvine*).
+Irvine, Alexander (1793-1873), Scottish schoolmaster; educated at Aberdeen University; from 1851 at Chelsea. 
+**Abbreviated name**: *Irvine*
 
 #### Herbarium and types
 

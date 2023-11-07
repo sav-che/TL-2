@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103859#page/394/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33265581) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boulenger, Georges Albert (1858-1937), Belgian botanist and zoologist, Brussels born, studied at the Université Libre de Bruxelles, Aide-naturaliste at the Musée Royal d'Histoire naturelle de Belgique 1880, assistant first class at the British Museum as herpetologist and ichthyologist 1877-1920, also active as botanist (esp. rhodology) from 1907. (*Boulenger*).
+Boulenger, Georges Albert (1858-1937), Belgian botanist and zoologist, Brussels born, studied at the Université Libre de Bruxelles, Aide-naturaliste at the Musée Royal d'Histoire naturelle de Belgique 1880, assistant first class at the British Museum as herpetologist and ichthyologist 1877-1920, also active as botanist (esp. rhodology) from 1907. 
+**Abbreviated name**: *Boulenger*
 
 #### Herbarium and types
 

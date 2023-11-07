@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/104077#page/188/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schinne, Isaac Evert Cornells van (1741-1819) Dutch botanist at Rotterdam. (*Schinne*).
+Schinne, Isaac Evert Cornells van (1741-1819) Dutch botanist at Rotterdam. 
+**Abbreviated name**: *Schinne*
 
 #### Herbarium and types
 

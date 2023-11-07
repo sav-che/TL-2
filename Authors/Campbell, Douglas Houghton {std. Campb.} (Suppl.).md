@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103861#page/337/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33266634) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Campbell, Douglas Houghton {std. Campb.}|first entry]] for this author
 
 ### Author
 
-\* Campbell, Douglas Houghton (1859-1953), American botanist, born in Detroit, studied at the University of Michigan at Ann Arbor 1878, with, as main teacher, Volney Spalding, graduated 1882, tought zoology and botany at Detroit High School 1882-1886, Ph.D. 1883, to Germany, 1886 with Strasburger in Bonn and Pfeffer in Tübingen, in Berlin with L. Kny 1887-1888, returned to USA to teach at the University of Indiana (Bloomington, Ind.) late 1888-1891, at Stanford University with David Starr Jordan 1891-1925, in the Dutch East-Indies (Buitenzorg) Mar-Jun 1906, 1912-1913, and 1914, in retirement still active at Stanford University. (*Campb.*).
+\* Campbell, Douglas Houghton (1859-1953), American botanist, born in Detroit, studied at the University of Michigan at Ann Arbor 1878, with, as main teacher, Volney Spalding, graduated 1882, tought zoology and botany at Detroit High School 1882-1886, Ph.D. 1883, to Germany, 1886 with Strasburger in Bonn and Pfeffer in Tübingen, in Berlin with L. Kny 1887-1888, returned to USA to teach at the University of Indiana (Bloomington, Ind.) late 1888-1891, at Stanford University with David Starr Jordan 1891-1925, in the Dutch East-Indies (Buitenzorg) Mar-Jun 1906, 1912-1913, and 1914, in retirement still active at Stanford University. 
+**Abbreviated name**: *Campb.*
 
 #### Herbarium and types
 

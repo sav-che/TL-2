@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/item/103624#page/827/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33190284) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robinson, Benjamin Lincoln (1864-1935), American botanist; Dr. phil. Strassburg 1889 with H. Solms Laubach; from 1890-1892 assistant to Sereno Watson at the Gray Herbarium, Cambridge, Mass.; curator from 1892-1935; Asa Gray professor of systematic botany 1899-1935. (*B.L. Robinson*).
+Robinson, Benjamin Lincoln (1864-1935), American botanist; Dr. phil. Strassburg 1889 with H. Solms Laubach; from 1890-1892 assistant to Sereno Watson at the Gray Herbarium, Cambridge, Mass.; curator from 1892-1935; Asa Gray professor of systematic botany 1899-1935. 
+**Abbreviated name**: *B.L. Robinson*
 
 #### Herbarium and types
 

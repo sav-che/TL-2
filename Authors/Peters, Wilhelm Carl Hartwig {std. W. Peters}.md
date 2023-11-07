@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/item/103624#page/208/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33189665) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Peters, Wilhelm Carl Hartwig (1815-1883), German (Schleswig) zoologist, physician and traveller; 1842-1848 in S. and E. Africa and India; professor of medicine Berlin 1851; professor of zoology ibid. 1856. (*W. Peters*).
+Peters, Wilhelm Carl Hartwig (1815-1883), German (Schleswig) zoologist, physician and traveller; 1842-1848 in S. and E. Africa and India; professor of medicine Berlin 1851; professor of zoology ibid. 1856. 
+**Abbreviated name**: *W. Peters*
 
 #### Herbarium and types
 

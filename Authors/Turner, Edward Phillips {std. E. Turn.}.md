@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/item/103683#page/556/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33212588) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Turner, Edward Phillips (1865-1937), British-born New Zealand botanist; came to New Zealand 1870, later at school in Tasmania and studying in England; again in New Zealand 1884; surveyor 1887; surveying Tasmanian silver fields 1891, with the Government Survey Dept. Auckland, N.Z. 1894-1907; inspector of scenic reserves N.Y. 1907, secretary of the R. Commission on Forestry 1913; in charge of the forest branch of the Lands Dept. 1918; Director of Forestry 1920-1931; in retirement at Hamilton (*E. Turn.*).
+Turner, Edward Phillips (1865-1937), British-born New Zealand botanist; came to New Zealand 1870, later at school in Tasmania and studying in England; again in New Zealand 1884; surveyor 1887; surveying Tasmanian silver fields 1891, with the Government Survey Dept. Auckland, N.Z. 1894-1907; inspector of scenic reserves N.Y. 1907, secretary of the R. Commission on Forestry 1913; in charge of the forest branch of the Lands Dept. 1918; Director of Forestry 1920-1931; in retirement at Hamilton 
+**Abbreviated name**: *E. Turn.*
 
 #### Herbarium and types
 

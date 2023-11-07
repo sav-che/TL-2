@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103683#page/419/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33212451) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torssell, Gustaf (1811-1849), Swedish printer and botanist; studied in Uppsala from 1827. (*Torss.*).
+Torssell, Gustaf (1811-1849), Swedish printer and botanist; studied in Uppsala from 1827. 
+**Abbreviated name**: *Torss.*
 
 #### Herbarium and types
 

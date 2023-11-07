@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/item/104137#page/738/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33355809) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nelmes, Ernest (1895-1959), British botanist; associated with Kew as gardener, herbarium assistant and librarian from 1921-1958; specialist on *Carex*. (*Nelmes*).
+Nelmes, Ernest (1895-1959), British botanist; associated with Kew as gardener, herbarium assistant and librarian from 1921-1958; specialist on *Carex*. 
+**Abbreviated name**: *Nelmes*
 
 #### Herbarium and types
 

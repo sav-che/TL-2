@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103832#page/146/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33258612) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gaterau {std. Gaterau}|first entry]] for this author
 
 ### Author
 
-\* Gaterau, Jean-Pierre (1763-1794), French botanist, born 6 Sep 1763 in Montauban (now Dépt. Tarn-et-Garonne), Dr. en médecine 1786 Montpellier, worked at the hospital in Montauban, also a student of Antoine Gouan, died 2 Vend. an III \[i.e. 28 Sep 1794\]. (*Gaterau*).
+\* Gaterau, Jean-Pierre (1763-1794), French botanist, born 6 Sep 1763 in Montauban (now Dépt. Tarn-et-Garonne), Dr. en médecine 1786 Montpellier, worked at the hospital in Montauban, also a student of Antoine Gouan, died 2 Vend. an III \[i.e. 28 Sep 1794\]. 
+**Abbreviated name**: *Gaterau*
 
 #### Herbarium and types
 

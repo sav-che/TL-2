@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/item/104137#page/850/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33355921) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Olney, Stephen Thayer (1812-1878), American botanist at Brown University, Providence, RI; specialist on algae and *Carex*. (*Olney*).
+Olney, Stephen Thayer (1812-1878), American botanist at Brown University, Providence, RI; specialist on algae and *Carex*. 
+**Abbreviated name**: *Olney*
 
 #### Herbarium and types
 

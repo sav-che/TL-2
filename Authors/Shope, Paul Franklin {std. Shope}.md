@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/104077#page/582/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shope, Paul Franklin (1894-x), American mycologist; MS Univ. Colorado 1925; Dr. phil. Washington Univ. 1931; instructor, subsequently professor of botany at the University of Colorado 1923-1943. (*Shope*).
+Shope, Paul Franklin (1894-x), American mycologist; MS Univ. Colorado 1925; Dr. phil. Washington Univ. 1931; instructor, subsequently professor of botany at the University of Colorado 1923-1943. 
+**Abbreviated name**: *Shope*
 
 #### Herbarium and types
 

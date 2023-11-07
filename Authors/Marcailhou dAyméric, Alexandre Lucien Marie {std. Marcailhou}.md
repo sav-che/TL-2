@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/104137#page/301/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33355372) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marcailhou d'Ayméric, Alexandre Lucien Marie (1839-1897), French clergyman (ordin. 1865) and botanist; vicar at Foix, 1865-1869, and Miglos, 1869-1872; from 1871 "aumônier du couvent des Dominicaines" at Ax-les-Thermes. (*Marcailhou*).
+Marcailhou d'Ayméric, Alexandre Lucien Marie (1839-1897), French clergyman (ordin. 1865) and botanist; vicar at Foix, 1865-1869, and Miglos, 1869-1872; from 1871 "aumônier du couvent des Dominicaines" at Ax-les-Thermes. 
+**Abbreviated name**: *Marcailhou*
 
 #### Herbarium and types
 

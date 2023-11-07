@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103250#page/141/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33066421) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warner, Richard (1711 \[1713?\]-1775), British classicist and botanist; B.A. Wadham Coll. Oxford 1734; "possessed of an ample fortune" living at Woodford Green dedicating himself to botany, classical and Shakespearean studies; correspondent of Linnaeus. (*Ri. Warner*).
+Warner, Richard (1711 \[1713?\]-1775), British classicist and botanist; B.A. Wadham Coll. Oxford 1734; "possessed of an ample fortune" living at Woodford Green dedicating himself to botany, classical and Shakespearean studies; correspondent of Linnaeus. 
+**Abbreviated name**: *Ri. Warner*
 
 #### Herbarium and types
 

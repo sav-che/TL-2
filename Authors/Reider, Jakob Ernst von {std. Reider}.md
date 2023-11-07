@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/item/103624#page/709/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33190166) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reider, Jakob Ernst von (x-1853), German (Bavarian) horticultural author and judicial magistrate in Bavaria. (*Reider*).
+Reider, Jakob Ernst von (x-1853), German (Bavarian) horticultural author and judicial magistrate in Bavaria. 
+**Abbreviated name**: *Reider*
 
 #### Herbarium and types
 

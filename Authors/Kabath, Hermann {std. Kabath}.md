@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/item/103253#page/508/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kabath, Hermann (1816-1888), German clergyman and botanist; "fürstbischöflicher Registratur-Assistent in Breslau", "auch ich danke dem kenntnissreichen, wenn auch wunderlichen Manne, werthvolles Material" (Ascherson, AG). (*Kabath*).
+Kabath, Hermann (1816-1888), German clergyman and botanist; "fürstbischöflicher Registratur-Assistent in Breslau", "auch ich danke dem kenntnissreichen, wenn auch wunderlichen Manne, werthvolles Material" (Ascherson, AG). 
+**Abbreviated name**: *Kabath*
 
 #### Herbarium and types
 

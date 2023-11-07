@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/104137#page/289/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33355360) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Manetti, Giuseppe (*fl*. 1831-1858), Italian botanist; head gardener of the royal garden at Monza nr. Milano (ca. 1844-1858). (*G. Manetti*).
+Manetti, Giuseppe (*fl*. 1831-1858), Italian botanist; head gardener of the royal garden at Monza nr. Milano (ca. 1844-1858). 
+**Abbreviated name**: *G. Manetti*
 
 #### Herbarium and types
 

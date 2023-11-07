@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/item/103414#page/549/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/page/33120632) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Christensen, Carl Frederik Albert {std. C. Chr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Christensen, Carl Frederik Albert (1872-1942) Danish botanist. (*C. Chr.*).
+Christensen, Carl Frederik Albert (1872-1942) Danish botanist. 
+**Abbreviated name**: *C. Chr.*
 
 #### Herbarium and types
 

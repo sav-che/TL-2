@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103832#page/175/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33258641) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gee, N\[athaniel\]. Gist (1876-1937), American naturalist and educator, born 20 Apr 1876 in Union, South Carolina, graduated 1896 Wofford College, Spartanburg, South Carolina, principal, Jordan Academy, Jordan, South Carolina 1896-1898, Prof. of Natural Science, Columbia Female College, Columbia, South Carolina 1898-1901, Prof. of Natural Science 1901-1915 and Prof. and Head, Dept. of Biology 1915-1920, both Dongwu Univ., Suzhou, China, superintendent of public schools, Summerton, South Carolina 1920-1921, returned to China and mostly involved in medical education for the Rockefeller Foundation 1922-1928, vice-president, Yanjing Univ. (now part of Beijing Univ.), but stationed in Manhattan, New York 1932-1935, head, Biology Dept., Lander College (now Univ.), Greenwood, South Carolina 1935-1937, LL.D. Wofford College, died 18 Dec 1937 in Greenwood, South Carolina of influenza. (*N.G. Gee*).
+Gee, N\[athaniel\]. Gist (1876-1937), American naturalist and educator, born 20 Apr 1876 in Union, South Carolina, graduated 1896 Wofford College, Spartanburg, South Carolina, principal, Jordan Academy, Jordan, South Carolina 1896-1898, Prof. of Natural Science, Columbia Female College, Columbia, South Carolina 1898-1901, Prof. of Natural Science 1901-1915 and Prof. and Head, Dept. of Biology 1915-1920, both Dongwu Univ., Suzhou, China, superintendent of public schools, Summerton, South Carolina 1920-1921, returned to China and mostly involved in medical education for the Rockefeller Foundation 1922-1928, vice-president, Yanjing Univ. (now part of Beijing Univ.), but stationed in Manhattan, New York 1932-1935, head, Biology Dept., Lander College (now Univ.), Greenwood, South Carolina 1935-1937, LL.D. Wofford College, died 18 Dec 1937 in Greenwood, South Carolina of influenza. 
+**Abbreviated name**: *N.G. Gee*
 
 #### Note
 

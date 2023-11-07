@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103624#page/27/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palézieux, Philippe de (1871-1957), Swiss botanist at Genève; student of L. Radlkofer; Dr. sci. nat. münchen 1899; from 1900-1939 as "Privatgelehrter" in Germany, often at Berlin-Dahlem, and traveling widely; returned to Genève 1939; curator of the Herbier Boissier 1943-1952. (*Paléz.*).
+Palézieux, Philippe de (1871-1957), Swiss botanist at Genève; student of L. Radlkofer; Dr. sci. nat. münchen 1899; from 1900-1939 as "Privatgelehrter" in Germany, often at Berlin-Dahlem, and traveling widely; returned to Genève 1939; curator of the Herbier Boissier 1943-1952. 
+**Abbreviated name**: *Paléz.*
 
 #### Herbarium and types
 

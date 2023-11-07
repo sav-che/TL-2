@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 892](https://www.biodiversitylibrary.org/item/103624#page/906/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 892](https://www.biodiversitylibrary.org/page/33190363) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosendahl, Friedrich (1881-1942), German (Prussian) lichenologist; studied at Göttingen, München, Münster i.w.; Dr. phil. Münster i.w. 1907; high school teachers exam. Münster 1906; student of W. Zopf and G. Bitter; high school teacher at Münster (1906), Soest (1907), Iserlohn (1907), "studienrat" at the Soest Gymnasium 1908-1926; "Oberstudienrat" Gronau 1926. (*F. Rosend.*).
+Rosendahl, Friedrich (1881-1942), German (Prussian) lichenologist; studied at Göttingen, München, Münster i.w.; Dr. phil. Münster i.w. 1907; high school teachers exam. Münster 1906; student of W. Zopf and G. Bitter; high school teacher at Münster (1906), Soest (1907), Iserlohn (1907), "studienrat" at the Soest Gymnasium 1908-1926; "Oberstudienrat" Gronau 1926. 
+**Abbreviated name**: *F. Rosend.*
 
 #### Herbarium and types
 

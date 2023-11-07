@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/item/103414#page/925/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33121008) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Freycinet, Henri Louis Claude de Saulces de (1779-1840), French naval explorer. (*Freyc.*).
+Freycinet, Henri Louis Claude de Saulces de (1779-1840), French naval explorer. 
+**Abbreviated name**: *Freyc.*
 
 #### Herbarium and types
 

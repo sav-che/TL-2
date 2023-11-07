@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/item/104137#page/759/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33355830) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicolas, \[Léon Marie Joseph\] Gustave (1879-1955), French biologist, mainly working on physiology, genetics, mycology, and bryology; Dr. phil. Paris 1909; in academic functions in Algeria (1910-1919) and Nancy (1919-1920); professor of general botany at Toulouse (1920-1927), id. of applied botany 1927-1945. (*Nicolas*).
+Nicolas, \[Léon Marie Joseph\] Gustave (1879-1955), French biologist, mainly working on physiology, genetics, mycology, and bryology; Dr. phil. Paris 1909; in academic functions in Algeria (1910-1919) and Nancy (1919-1920); professor of general botany at Toulouse (1920-1927), id. of applied botany 1927-1945. 
+**Abbreviated name**: *Nicolas*
 
 #### Herbarium and types
 

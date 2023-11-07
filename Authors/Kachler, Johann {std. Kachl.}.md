@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/103253#page/509/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33068725) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kachler, Johann (1782-1863, or later), Austrian botanist, seed-merchant in Wien. (*Kachl.*).
+Kachler, Johann (1782-1863, or later), Austrian botanist, seed-merchant in Wien. 
+**Abbreviated name**: *Kachl.*
 
 #### Herbarium and types
 

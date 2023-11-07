@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/103861#page/107/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33266404) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Britton, Nathaniel Lord {std. Britton}|first entry]] for this author
 
 ### Author
 
-\* Britton, Nathaniel Lord (1859-1934), American botanist, born at New Dorp, Staten Island, sent to the School of Mines College but interested in botany from an early age, joined the Torrey botanical Club 1877, graduated from the School of Mines 1879, assistant in geology at Columbia College 1879, also served as botanist on the Geological Survey of Jersey 1881-1887, instructor in botany and geology at Columbia University 1887, adjunct professor of botany 1890, professor of botany 1891, director-in-chief New York Botanical Garden 1896-1930, married Elizabeth Knight 1885, especially interested in the flora of the West Indies from 1898, D.Sc. Columbia University 1904, L.L.D. University Pittsburgh 1912, leading the American nomenclatural movement ("American Code"). (*Britton*).
+\* Britton, Nathaniel Lord (1859-1934), American botanist, born at New Dorp, Staten Island, sent to the School of Mines College but interested in botany from an early age, joined the Torrey botanical Club 1877, graduated from the School of Mines 1879, assistant in geology at Columbia College 1879, also served as botanist on the Geological Survey of Jersey 1881-1887, instructor in botany and geology at Columbia University 1887, adjunct professor of botany 1890, professor of botany 1891, director-in-chief New York Botanical Garden 1896-1930, married Elizabeth Knight 1885, especially interested in the flora of the West Indies from 1898, D.Sc. Columbia University 1904, L.L.D. University Pittsburgh 1912, leading the American nomenclatural movement ("American Code"). 
+**Abbreviated name**: *Britton*
 
 #### Herbarium and types
 

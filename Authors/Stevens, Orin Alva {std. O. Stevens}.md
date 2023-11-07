@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/item/104077#page/932/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/page/33334057) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stevens, Orin Alva (1885-1979), American botanist and entomologist; B.S. Kansas State College 1906; M.S. NDSU 1923; assistant professor, subseq. full professor, North Dakota State University, Fargo 1909-1951; with the North Dakota Institute for regional studies, State College Station, Fargo 1951-1971; emeritus professor of botany 1956-1979; in retirement at Fargo 1976-1977, at Sacramento, Calif. 1977-1979. (*O. Stevens*).
+Stevens, Orin Alva (1885-1979), American botanist and entomologist; B.S. Kansas State College 1906; M.S. NDSU 1923; assistant professor, subseq. full professor, North Dakota State University, Fargo 1909-1951; with the North Dakota Institute for regional studies, State College Station, Fargo 1951-1971; emeritus professor of botany 1956-1979; in retirement at Fargo 1976-1977, at Sacramento, Calif. 1977-1979. 
+**Abbreviated name**: *O. Stevens*
 
 #### Herbarium and types
 

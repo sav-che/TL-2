@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103832#page/404/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33258870) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Griggs, Robert Fiske (1881-1962), American botanist and plant ecologist, born 22 Aug 1881 in Brooklyn (Windham Co.), Conn., B.S. 1903 Ohio State Univ., Columbus, Prof. of Biology, Fargo College, Fargo, North Dakota 1903-1906, M.S. 1906 Univ. of Minnesota, Minneapolis, Prof. of Biology, Ohio State Univ. 1906-1921, Ph.D. 1911 Harvard Univ., Cambridge, Mass. (earned while on leave from Ohio State Univ.), led six expeds. to Alaska (Katmai Distr.) 1915-1919, Prof. of Botany (first), George Washington Univ., Washington, D.C. 1921-1947, Chair, Division of Biology and Agric., Natl. Research Council (N.S.F) 1940-1947, President, Ecological Soc. Amer. 1944, Prof. of Biology, Univ. of Pittsburgh, 1947-1952, died 8 Jun 1962 in Kensington, Maryland. (*R.F. Griggs*).
+Griggs, Robert Fiske (1881-1962), American botanist and plant ecologist, born 22 Aug 1881 in Brooklyn (Windham Co.), Conn., B.S. 1903 Ohio State Univ., Columbus, Prof. of Biology, Fargo College, Fargo, North Dakota 1903-1906, M.S. 1906 Univ. of Minnesota, Minneapolis, Prof. of Biology, Ohio State Univ. 1906-1921, Ph.D. 1911 Harvard Univ., Cambridge, Mass. (earned while on leave from Ohio State Univ.), led six expeds. to Alaska (Katmai Distr.) 1915-1919, Prof. of Botany (first), George Washington Univ., Washington, D.C. 1921-1947, Chair, Division of Biology and Agric., Natl. Research Council (N.S.F) 1940-1947, President, Ecological Soc. Amer. 1944, Prof. of Biology, Univ. of Pittsburgh, 1947-1952, died 8 Jun 1962 in Kensington, Maryland. 
+**Abbreviated name**: *R.F. Griggs*
 
 #### Herbarium and types
 

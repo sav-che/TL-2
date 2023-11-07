@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/item/104077#page/608/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33333733) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siegmund, Wilhelm (1821-1897), Bohemian botanist, factory-owner and "Stadtrat" in Reichenberg (Bohemia). (*Siegm.*).
+Siegmund, Wilhelm (1821-1897), Bohemian botanist, factory-owner and "Stadtrat" in Reichenberg (Bohemia). 
+**Abbreviated name**: *Siegm.*
 
 #### Herbarium and types
 

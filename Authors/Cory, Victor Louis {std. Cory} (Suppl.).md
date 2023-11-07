@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103860#page/396/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33266063) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cory, Victor Louis {std. Cory}|first entry]] for this author
 
 ### Author
 
-\* Cory, Victor Louis (1880-1964), American botanist and collector of Texas plants, born at Albia, Iowa, studied at Kansas State College, BS 1904, at University of Minnesota MS 1923, with the Dallas, Texas SMU herbarium Sep 1945-Jul 1952, died 1 Mai 1964. (*Cory*).
+\* Cory, Victor Louis (1880-1964), American botanist and collector of Texas plants, born at Albia, Iowa, studied at Kansas State College, BS 1904, at University of Minnesota MS 1923, with the Dallas, Texas SMU herbarium Sep 1945-Jul 1952, died 1 Mai 1964. 
+**Abbreviated name**: *Cory*
 
 #### Herbarium and types
 

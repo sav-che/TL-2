@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/item/104137#page/549/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33355620) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Møller, Birgitte Christina (1857-1934), Danish botanist. (*B. Møller*).
+Møller, Birgitte Christina (1857-1934), Danish botanist. 
+**Abbreviated name**: *B. Møller*
 
 #### Herbarium and types
 

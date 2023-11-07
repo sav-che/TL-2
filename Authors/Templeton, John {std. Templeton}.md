@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/item/103683#page/218/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33212250) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Templeton, John (1766-1825), Irish naturalist of private means at Belfast. (*Templeton*).
+Templeton, John (1766-1825), Irish naturalist of private means at Belfast. 
+**Abbreviated name**: *Templeton*
 
 #### Herbarium and types
 

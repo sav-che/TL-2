@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/item/104137#page/683/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33355754) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murray, Andrew (1812-1878), Scottish entomologist and botanist; trained to be a lawyer and practicing at Edinburgh until 1860; from 1861-1864 assistant-secretary to the Royal Horticultural Society in London. (*Andr. Murray*).
+Murray, Andrew (1812-1878), Scottish entomologist and botanist; trained to be a lawyer and practicing at Edinburgh until 1860; from 1861-1864 assistant-secretary to the Royal Horticultural Society in London. 
+**Abbreviated name**: *Andr. Murray*
 
 #### Herbarium and types
 

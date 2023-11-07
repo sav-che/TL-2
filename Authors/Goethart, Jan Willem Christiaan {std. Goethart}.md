@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103832#page/284/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33258750) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goethart, Jan Willem Christiaan (1866-1938), Indonesian-born Dutch botanist, born 21 Jul 1866 in Semarang, Java, studied at Landwirtschaftlichen Hochschule, Wageningen, Ph.D. 1890 Univ. of Göttingen, asst. to Hugo de Vries in Amsterdam, reader (Lektor) in systematic botany, Rijksuniversität, Leiden, appointed to Rijksherbarium, Leiden 1897, dir. 1910-1932, died 3 Feb 1938 in Leiden, "Dr Goethart war ein Idealist" (*fide* Goddijn, 1938: 4). (*Goethart*).
+Goethart, Jan Willem Christiaan (1866-1938), Indonesian-born Dutch botanist, born 21 Jul 1866 in Semarang, Java, studied at Landwirtschaftlichen Hochschule, Wageningen, Ph.D. 1890 Univ. of Göttingen, asst. to Hugo de Vries in Amsterdam, reader (Lektor) in systematic botany, Rijksuniversität, Leiden, appointed to Rijksherbarium, Leiden 1897, dir. 1910-1932, died 3 Feb 1938 in Leiden, "Dr Goethart war ein Idealist" (*fide* Goddijn, 1938: 4). 
+**Abbreviated name**: *Goethart*
 
 #### Herbarium and types
 

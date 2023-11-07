@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/104077#page/254/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33333379) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidely, Auguste Isaac Samuel (1838-1918), Swiss bank employee at Genève, active amateur floristic botanist. (*Schmidely*).
+Schmidely, Auguste Isaac Samuel (1838-1918), Swiss bank employee at Genève, active amateur floristic botanist. 
+**Abbreviated name**: *Schmidely*
 
 #### Herbarium and types
 

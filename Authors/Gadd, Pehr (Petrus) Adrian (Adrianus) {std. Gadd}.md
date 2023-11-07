@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103832#page/98/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33258564) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gadd, Pehr \[Petrus\] Adrian \[Adrianus\] (1727-1797), Finnish chemist, economist and naturalist, born 12 Apr 1727 in Birkkala, student 1742 and later Prof. of Chemistry, Univ. of Åbo (Turku) 1761, died 11 Aug 1797 in Åbo. (*Gadd*).
+Gadd, Pehr \[Petrus\] Adrian \[Adrianus\] (1727-1797), Finnish chemist, economist and naturalist, born 12 Apr 1727 in Birkkala, student 1742 and later Prof. of Chemistry, Univ. of Åbo (Turku) 1761, died 11 Aug 1797 in Åbo. 
+**Abbreviated name**: *Gadd*
 
 #### Herbarium and types
 

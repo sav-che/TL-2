@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/item/103253#page/835/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33069051) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lee, James (1715-1795), British nurseryman; partner with J. Kennedy at Vineyard nursery at Hammersmith; introduced plants from America and the Cape (introduced e.g. *Fuchsia coccinea*); correspondent of Linnaeus. (*J. Lee*).
+Lee, James (1715-1795), British nurseryman; partner with J. Kennedy at Vineyard nursery at Hammersmith; introduced plants from America and the Cape (introduced e.g. *Fuchsia coccinea*); correspondent of Linnaeus. 
+**Abbreviated name**: *J. Lee*
 
 #### Herbarium and types
 

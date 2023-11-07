@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/item/103253#page/689/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33068905) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krasser, Fridolin (1863-1922), Austrian botanist and palaeobotanist; Dr. phil. Wien 1887; from 1887 in various functions in Wien, e.g. assistant at the Naturh. Museum 1896-1902; 1901-1906 at the ?nologisch-pomologischen Lehranstalt in Klosterneuburg; from 1906-1922 professor of botany at the technical university of Praha. (*Krasser*).
+Krasser, Fridolin (1863-1922), Austrian botanist and palaeobotanist; Dr. phil. Wien 1887; from 1887 in various functions in Wien, e.g. assistant at the Naturh. Museum 1896-1902; 1901-1906 at the ?nologisch-pomologischen Lehranstalt in Klosterneuburg; from 1906-1922 professor of botany at the technical university of Praha. 
+**Abbreviated name**: *Krasser*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/item/104137#page/862/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Orphanides, Theodoros Georgios (1817-1886), Greek botanist and poet; studied in Paris; from 1848 professor of botany in Athens. (*Orph.*).
+Orphanides, Theodoros Georgios (1817-1886), Greek botanist and poet; studied in Paris; from 1848 professor of botany in Athens. 
+**Abbreviated name**: *Orph.*
 
 #### Herbarium and types
 

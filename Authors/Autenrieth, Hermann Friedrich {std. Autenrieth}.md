@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103858#page/226/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33264941) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Autenrieth, Hermann Friedrich (1799-1874), German (Würtemberg-Hohenzollern) physician and botanist in Tübingen. (*Autenrieth*).
+Autenrieth, Hermann Friedrich (1799-1874), German (Würtemberg-Hohenzollern) physician and botanist in Tübingen. 
+**Abbreviated name**: *Autenrieth*
 
 #### Herbarium and types
 

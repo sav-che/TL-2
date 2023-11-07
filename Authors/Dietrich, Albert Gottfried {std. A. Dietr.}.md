@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/item/103414#page/697/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dietrich, Albert Gottfried {std. A. Dietr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dietrich, Albert Gottfried (1795-1856), German gardener, curator of the Berlin botanical garden, editor (with Otto) of the Allgemeine Gartenzeitung. (*A. Dietr.*).
+Dietrich, Albert Gottfried (1795-1856), German gardener, curator of the Berlin botanical garden, editor (with Otto) of the Allgemeine Gartenzeitung. 
+**Abbreviated name**: *A. Dietr.*
 
 #### Herbarium and types
 

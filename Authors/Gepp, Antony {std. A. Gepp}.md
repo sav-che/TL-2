@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/item/103414#page/980/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gepp, Antony (Anthony) {std. A. Gepp} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gepp, Antony (1862-1955), British botanist. (*A. Gepp*).
+Gepp, Antony (1862-1955), British botanist. 
+**Abbreviated name**: *A. Gepp*
 
 #### Herbarium and types
 

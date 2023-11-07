@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103834#page/94/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259576) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Favre \[-Bulle\], Jules (1882-1959), Swiss paleontologist and mycologist, born 6 Nov 1882 in Le Locle (Ct. Neuchâtel), studied botany then geology, Académie de Neuchâtel, asst. for paleontology, Natural History Museum, Geneva 1907, Dr. ès sciences 1911 Univ. of Geneva, Dr. h.c. 1952 Univ. of Neuchâtel, received many awards incl. Prix Huber of the Société Géographique, Paris, Prix Desmazières of the Académie (Paris) 1956 and the Prix de la ville de Gèneve 1959, died 22 Jan 1959 in Geneva. (*J. Favre*).
+Favre \[-Bulle\], Jules (1882-1959), Swiss paleontologist and mycologist, born 6 Nov 1882 in Le Locle (Ct. Neuchâtel), studied botany then geology, Académie de Neuchâtel, asst. for paleontology, Natural History Museum, Geneva 1907, Dr. ès sciences 1911 Univ. of Geneva, Dr. h.c. 1952 Univ. of Neuchâtel, received many awards incl. Prix Huber of the Société Géographique, Paris, Prix Desmazières of the Académie (Paris) 1956 and the Prix de la ville de Gèneve 1959, died 22 Jan 1959 in Geneva. 
+**Abbreviated name**: *J. Favre*
 
 #### Herbarium and types
 

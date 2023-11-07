@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/item/103253#page/627/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33068843) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Koenig, Karl (*fl*. 1841), German clergyman and botanist at Dürkheim an der Haardt. (*K. Koenig*).
+Koenig, Karl (*fl*. 1841), German clergyman and botanist at Dürkheim an der Haardt. 
+**Abbreviated name**: *K. Koenig*
 
 #### Herbarium and types
 

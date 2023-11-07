@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103833#page/262/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33259296) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Devaux, Henri Edgar (1862-1956), French botanist, born 6 Jul 1862 at Étaules-Inférieure, died 14 Mar 1956, professor in botanical physiology at the Faculty of Bordeaux from 1907, member of the Académie des Sciences 1946. (*Devaux*).
+Devaux, Henri Edgar (1862-1956), French botanist, born 6 Jul 1862 at Étaules-Inférieure, died 14 Mar 1956, professor in botanical physiology at the Faculty of Bordeaux from 1907, member of the Académie des Sciences 1946. 
+**Abbreviated name**: *Devaux*
 
 #### Herbarium and types
 

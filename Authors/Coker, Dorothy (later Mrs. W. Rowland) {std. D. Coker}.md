@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/item/103860#page/271/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33265938) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coker, Dorothy (later Mrs. W. Rowland) (1894-x), American bryologist, studied at Columbia University, New York, Dr. phil. ib. 1918. (*D. Coker*).
+Coker, Dorothy (later Mrs. W. Rowland) (1894-x), American bryologist, studied at Columbia University, New York, Dr. phil. ib. 1918. 
+**Abbreviated name**: *D. Coker*
 
 #### Herbarium and types
 

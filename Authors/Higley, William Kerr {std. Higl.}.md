@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103253#page/221/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33068437) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Higley, William Kerr (1860-1908), American botanist, studied at the University of Michigan, later connected with the Chicago Academy of Sciences and editor of *Birds* and *Nature*. (*Higl.*).
+Higley, William Kerr (1860-1908), American botanist, studied at the University of Michigan, later connected with the Chicago Academy of Sciences and editor of *Birds* and *Nature*. 
+**Abbreviated name**: *Higl.*
 
 #### Herbarium and types
 

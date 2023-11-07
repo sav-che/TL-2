@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/item/103414#page/128/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33120211) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Aucher-Éloy, Pierre Martin Rémi {std. Aucher} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Aucher-Éloy, Pierre Martin Rémi (1793-1838), French explorer of the Orient. (*Aucher*).
+Aucher-Éloy, Pierre Martin Rémi (1793-1838), French explorer of the Orient. 
+**Abbreviated name**: *Aucher*
 
 #### Herbarium and types
 

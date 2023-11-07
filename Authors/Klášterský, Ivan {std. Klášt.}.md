@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/item/103253#page/587/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33068803) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klášterský, Ivan (1901-197.), Czechoslovak botanist, especially rhodologist, curator of PR 1925-1955, later working at the Geobotanical laboratory of the Ceskosl. Akad. ved., Pruhonice. (*Klášt.*).
+Klášterský, Ivan (1901-197.), Czechoslovak botanist, especially rhodologist, curator of PR 1925-1955, later working at the Geobotanical laboratory of the Ceskosl. Akad. ved., Pruhonice. 
+**Abbreviated name**: *Klášt.*
 
 #### Herbarium and types
 

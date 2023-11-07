@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/item/103414#page/982/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/page/33121065) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gérard, Louis (1733-1819), French physician and botanist at Cotignac in the French Provence. (*Gérard*).
+Gérard, Louis (1733-1819), French physician and botanist at Cotignac in the French Provence. 
+**Abbreviated name**: *Gérard*
 
 #### Herbarium and types
 

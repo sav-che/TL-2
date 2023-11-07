@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/item/103624#page/871/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33190328) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rogers, Donald Philip (1908-x), American botanist (mycologist); B.A. Oberlin Coll. 1929; Dr. phil. Univ. Nebraska 1935, asst. botanist Univ. Nebraska 1929-1930; id. Univ. Iowa 1931-1935 (in Iowa Lakerside Laboratory 1932-1934); instructor botany Oregon State College 1936-1940; idem Brown Univ. 1941-1942; assoc. professor of biology, Amer. International College 1942-1945; asst. professor of botany, Univ. Hawaii 1945-1947; curator of cryptogamic botany, New York Botanical Garden 1947-1957; professor of botany and curator of mycological collections Univ. Illinois 1957-1976; emeritus professor ib. 1976-x; secretary of the Special Committee for Fungi and Lichens of the International Botanical Congresses 1950-1969, taxonomist, nomenclaturist and historian of mycology. (*D.P. Rogers*).
+Rogers, Donald Philip (1908-x), American botanist (mycologist); B.A. Oberlin Coll. 1929; Dr. phil. Univ. Nebraska 1935, asst. botanist Univ. Nebraska 1929-1930; id. Univ. Iowa 1931-1935 (in Iowa Lakerside Laboratory 1932-1934); instructor botany Oregon State College 1936-1940; idem Brown Univ. 1941-1942; assoc. professor of biology, Amer. International College 1942-1945; asst. professor of botany, Univ. Hawaii 1945-1947; curator of cryptogamic botany, New York Botanical Garden 1947-1957; professor of botany and curator of mycological collections Univ. Illinois 1957-1976; emeritus professor ib. 1976-x; secretary of the Special Committee for Fungi and Lichens of the International Botanical Congresses 1950-1969, taxonomist, nomenclaturist and historian of mycology. 
+**Abbreviated name**: *D.P. Rogers*
 
 #### Herbarium and types
 

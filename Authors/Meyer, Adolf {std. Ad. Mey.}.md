@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/item/104137#page/456/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33355527) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meyer, Adolf (1868-?), German botanist and pharmacist; Dr. phil. Heidelberg 1897. (*Ad. Mey.*).
+Meyer, Adolf (1868-?), German botanist and pharmacist; Dr. phil. Heidelberg 1897. 
+**Abbreviated name**: *Ad. Mey.*
 
 #### Herbarium and types
 

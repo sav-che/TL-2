@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/104077#page/17/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33333180) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salisbury, Richard Anthony (né Markham) (1761-1829), British botanist, gardener and botanical artist; educated at Edinburgh Univ.; had a garden at Chapel Allerton, Yorkshire; later owner of P. Collinson's garden at Mill Hill, London; secretary Hort. Soc. London 1805-1816. (*Salisb.*).
+Salisbury, Richard Anthony (né Markham) (1761-1829), British botanist, gardener and botanical artist; educated at Edinburgh Univ.; had a garden at Chapel Allerton, Yorkshire; later owner of P. Collinson's garden at Mill Hill, London; secretary Hort. Soc. London 1805-1816. 
+**Abbreviated name**: *Salisb.*
 
 #### Herbarium and types
 

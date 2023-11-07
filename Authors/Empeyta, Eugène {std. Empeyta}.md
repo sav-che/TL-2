@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103835#page/346/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33260324) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Empeyta, Eugène (1840-1889), Swiss business-man and botanist, born 27 Mai 1840 at Genève, visited school in his home town, became business-man, had several public functions in Genève, municipal councillor 1868-1874 and 1886-1889, administrative councillor 1874-1878, president of the "Conseil administratif" 1882-1886, was very interested in botany and member of the Swiss botanical society from 1877, died 26 Jul 1889. (*Empeyta*).
+Empeyta, Eugène (1840-1889), Swiss business-man and botanist, born 27 Mai 1840 at Genève, visited school in his home town, became business-man, had several public functions in Genève, municipal councillor 1868-1874 and 1886-1889, administrative councillor 1874-1878, president of the "Conseil administratif" 1882-1886, was very interested in botany and member of the Swiss botanical society from 1877, died 26 Jul 1889. 
+**Abbreviated name**: *Empeyta*
 
 #### Herbarium and types
 

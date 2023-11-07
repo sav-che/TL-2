@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103253#page/236/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hiratsuka, Naohide (1903-x), Japanese botanist, studied at Hokkaido University, professor botany and phytopathology at Tottori Agricultural College (1929), later at the Faculty of agriculture, Tokyo University of Education. (*Hiratsuka*).
+Hiratsuka, Naohide (1903-x), Japanese botanist, studied at Hokkaido University, professor botany and phytopathology at Tottori Agricultural College (1929), later at the Faculty of agriculture, Tokyo University of Education. 
+**Abbreviated name**: *Hiratsuka*
 
 #### Herbarium and types
 

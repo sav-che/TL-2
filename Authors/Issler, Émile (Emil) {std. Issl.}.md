@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103253#page/415/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Issler, Émile (Emil) (1872-1952), Alsatian botanist at Colmar. (*Issl.*).
+Issler, Émile (Emil) (1872-1952), Alsatian botanist at Colmar. 
+**Abbreviated name**: *Issl.*
 
 #### Herbarium and types
 

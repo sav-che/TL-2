@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103860#page/58/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chaney, Ralph Works (1890-\[fl. 1955\]), American geologist and paleobotanist, born 24 Aug 1890 at Chicago, Illinois, B.S. Chicago, 1912, Ph.D. 1919, research associate Carnegie Institution of Washington and University of California, Berkeley, California 1922-1931, worked further on tertiary paleobotany (Miocene, Pliocene and Eocene floras of Oregon). (*R.W. Chaney*).
+Chaney, Ralph Works (1890-\[fl. 1955\]), American geologist and paleobotanist, born 24 Aug 1890 at Chicago, Illinois, B.S. Chicago, 1912, Ph.D. 1919, research associate Carnegie Institution of Washington and University of California, Berkeley, California 1922-1931, worked further on tertiary paleobotany (Miocene, Pliocene and Eocene floras of Oregon). 
+**Abbreviated name**: *R.W. Chaney*
 
 #### Herbarium and types
 

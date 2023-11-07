@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103624#page/260/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33189717) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phoebus, Philipp (1804-1880), German botanist; Dr. med. chir. Berlin 1827; from 1828 practicing physician at Berlin; 1831 prosector at the Charité; 1832 lecturer at the University of Berlin; practicing in the Harz 1835-1843, professor of medicine and pharmacology at Giessen from 1843-1865; Dr. phil. h.c. Giessen 1849; Geh. Medizinalrath 1865. (*Phoebus*).
+Phoebus, Philipp (1804-1880), German botanist; Dr. med. chir. Berlin 1827; from 1828 practicing physician at Berlin; 1831 prosector at the Charité; 1832 lecturer at the University of Berlin; practicing in the Harz 1835-1843, professor of medicine and pharmacology at Giessen from 1843-1865; Dr. phil. h.c. Giessen 1849; Geh. Medizinalrath 1865. 
+**Abbreviated name**: *Phoebus*
 
 #### Herbarium and types
 

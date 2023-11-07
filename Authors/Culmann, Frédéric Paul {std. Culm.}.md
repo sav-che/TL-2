@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/item/103860#page/506/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33266173) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Culmann, Frédéric Paul (1860-1936), Swiss bryologist, born in Zürich, educated at schools in Zürich until 1878, at the Polytechnicum at Zürich 1878-1882, at the University of Berlin 1882-1885, Dr. phil. Berlin 1885, teacher at the Technicum of Wintherthur 1885-1898, in Paris working for the Jena "Maison Carl Zeiss", also studying bryology. (*Culm.*).
+Culmann, Frédéric Paul (1860-1936), Swiss bryologist, born in Zürich, educated at schools in Zürich until 1878, at the Polytechnicum at Zürich 1878-1882, at the University of Berlin 1882-1885, Dr. phil. Berlin 1885, teacher at the Technicum of Wintherthur 1885-1898, in Paris working for the Jena "Maison Carl Zeiss", also studying bryology. 
+**Abbreviated name**: *Culm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103860#page/180/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33265847) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Church, Arthur Henry \[Harry\] (1865-1937), British botanist, born at Plymouth, studied at the University College Aberystwyth 1885-1889, B.Sc. London 1889, scholarship Jesus College, Oxford, 1889-1903, 1st class honours 1903 B.A., subsequently M.A., D.Sc. London 1904, demonstrator in botany, Oxford, 1903-1910, Research Fellow Jesus College, Oxford, 1908-1912, lecturer in botany at the University of Oxford, 1910-1933, F.R.S. 1921. (*Church*).
+Church, Arthur Henry \[Harry\] (1865-1937), British botanist, born at Plymouth, studied at the University College Aberystwyth 1885-1889, B.Sc. London 1889, scholarship Jesus College, Oxford, 1889-1903, 1st class honours 1903 B.A., subsequently M.A., D.Sc. London 1904, demonstrator in botany, Oxford, 1903-1910, Research Fellow Jesus College, Oxford, 1908-1912, lecturer in botany at the University of Oxford, 1910-1933, F.R.S. 1921. 
+**Abbreviated name**: *Church*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103835#page/260/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33260238) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eberwein, Richard (fl. 1904), Austrian botanist, professor in Staab (Bohemia), specialist in moorland investigation. (*Eberwein*).
+Eberwein, Richard (fl. 1904), Austrian botanist, professor in Staab (Bohemia), specialist in moorland investigation. 
+**Abbreviated name**: *Eberwein*
 
 #### Herbarium and types
 

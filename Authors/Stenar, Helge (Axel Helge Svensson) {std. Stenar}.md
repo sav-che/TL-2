@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/item/104077#page/897/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33334022) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stenar, Helge \[Axel Helge Svensson\] (1896-1971), Swedish botanist; Dr. phil. Uppsala 1925; high school teacher at Östersund 1929-1946, at Södertäle 1946-1962. (*Stenar*).
+Stenar, Helge \[Axel Helge Svensson\] (1896-1971), Swedish botanist; Dr. phil. Uppsala 1925; high school teacher at Östersund 1929-1946, at Södertäle 1946-1962. 
+**Abbreviated name**: *Stenar*
 
 #### Herbarium and types
 

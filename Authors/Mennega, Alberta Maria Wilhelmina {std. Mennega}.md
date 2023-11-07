@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/104137#page/432/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mennega, Alberta Maria Wilhelmina (1912-x), Dutch wood anatomist and plant systematist at the University of Utrecht; Dr. phil. Utrecht 1938. (*Mennega*).
+Mennega, Alberta Maria Wilhelmina (1912-x), Dutch wood anatomist and plant systematist at the University of Utrecht; Dr. phil. Utrecht 1938. 
+**Abbreviated name**: *Mennega*
 
 #### Herbarium and types
 

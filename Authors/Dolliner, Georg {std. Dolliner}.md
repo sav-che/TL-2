@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103835#page/42/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33260020) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dolliner, Georg (1794-1872), Austrian physician and botanist, born at Ratschach near Steinbrück 11 Apr 1794, for studies to Vienna 1818, as a physician in a general hospital until 1842, went to Adelsberg 1842, and to Idria 1846, Dr. sci. in Vienna in 1851, died in Idria 16 Apr 1872. (*Dolliner*).
+Dolliner, Georg (1794-1872), Austrian physician and botanist, born at Ratschach near Steinbrück 11 Apr 1794, for studies to Vienna 1818, as a physician in a general hospital until 1842, went to Adelsberg 1842, and to Idria 1846, Dr. sci. in Vienna in 1851, died in Idria 16 Apr 1872. 
+**Abbreviated name**: *Dolliner*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103253#page/196/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33068412) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hering, Constantijn J. (1800-1880), Dutch agronomist and meteorologist, active in Suriname. (*Hering*).
+Hering, Constantijn J. (1800-1880), Dutch agronomist and meteorologist, active in Suriname. 
+**Abbreviated name**: *Hering*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103250#page/112/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33066392) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walther, \[Edward\] Eric (1892-1959), German (Saxonian), later American horticulturist; student of the Crassulaceae; to the United States 1909; connected with Golden Gate Park, San Francisco from 1918-1957; ultimately first director of the Strybing Arboretum. (*E. Walther*).
+Walther, \[Edward\] Eric (1892-1959), German (Saxonian), later American horticulturist; student of the Crassulaceae; to the United States 1909; connected with Golden Gate Park, San Francisco from 1918-1957; ultimately first director of the Strybing Arboretum. 
+**Abbreviated name**: *E. Walther*
 
 #### Herbarium and types
 

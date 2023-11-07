@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/item/104077#page/624/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33333749) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simonkai, Lajos (né Ludwig Philipp Simkovics) (1851-1910), Hungarian botanist; state teachers examination 1874; Dr. phil. Univ. Budapest 1874; professor of natural history of the Grosswardein (Nagyvárad) high school 1875-1880; id. at Pancsova 1880, id. Arad 1881-1891 ; working in Wien with Kerner and Wiesner 1883-1884; at the gymnasium Budapest (7. Distr.) 1891-1908; habil. Budapest 1892. (*Simonk.*).
+Simonkai, Lajos (né Ludwig Philipp Simkovics) (1851-1910), Hungarian botanist; state teachers examination 1874; Dr. phil. Univ. Budapest 1874; professor of natural history of the Grosswardein (Nagyvárad) high school 1875-1880; id. at Pancsova 1880, id. Arad 1881-1891 ; working in Wien with Kerner and Wiesner 1883-1884; at the gymnasium Budapest (7. Distr.) 1891-1908; habil. Budapest 1892. 
+**Abbreviated name**: *Simonk.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103859#page/217/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blasquez, Pedro (fl. 1865), Mexican botanist. (*P. Blasquez*).
+Blasquez, Pedro (fl. 1865), Mexican botanist. 
+**Abbreviated name**: *P. Blasquez*
 
 #### Herbarium and types
 

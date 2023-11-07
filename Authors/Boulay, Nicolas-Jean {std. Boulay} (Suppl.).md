@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/103859#page/392/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265579) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boulay, Abbé Jean Nicolas {std. Boulay}|first entry]] for this author
 
 ### Author
 
-\* Boulay, Nicolas-Jean (1837-1905), French clergyman and botanist (ecologist, systematist, specialized in bryophytes), ordained priest 1861, vicar at Rambervillers, later professor at the Petit Séminaire de Saint-Dié, professor of natural philosophy at the Collège ecclésiastique de l'Assomption à Nîmes 1872, at the École Belzunce at Marseille 1874, Lic. Sci. 1874, Dr. phil. Caen 1876, professor of botany at the Catholic Science faculty at the University of Lille 1876-1905. (*Boulay*).
+\* Boulay, Nicolas-Jean (1837-1905), French clergyman and botanist (ecologist, systematist, specialized in bryophytes), ordained priest 1861, vicar at Rambervillers, later professor at the Petit Séminaire de Saint-Dié, professor of natural philosophy at the Collège ecclésiastique de l'Assomption à Nîmes 1872, at the École Belzunce at Marseille 1874, Lic. Sci. 1874, Dr. phil. Caen 1876, professor of botany at the Catholic Science faculty at the University of Lille 1876-1905. 
+**Abbreviated name**: *Boulay*
 
 #### Herbarium and types
 

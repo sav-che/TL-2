@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/item/103414#page/652/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33120735) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deam, Charles Clemon {std. Deam} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Deam, Charles Clemon (1865-1953), American botanist. (*Deam*).
+Deam, Charles Clemon (1865-1953), American botanist. 
+**Abbreviated name**: *Deam*
 
 #### Herbarium and types
 

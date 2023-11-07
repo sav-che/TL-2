@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/item/104077#page/672/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smiley, Frank Jason (1880-?), American botanist; A.B. Stanford 1913; Dr. phil. Harvard 1917; assistant for botany Stanford 1913-1914, id. Gray Herbarium, Harvard 1915; instructor in botany Univ. California, Berkeley 1915-1916; asst. prof. economic botany ib. 1919-1920; also asst. prof. botany at Occidental College 1916-1919, regular prof. 1920-1945. (*Smiley*).
+Smiley, Frank Jason (1880-?), American botanist; A.B. Stanford 1913; Dr. phil. Harvard 1917; assistant for botany Stanford 1913-1914, id. Gray Herbarium, Harvard 1915; instructor in botany Univ. California, Berkeley 1915-1916; asst. prof. economic botany ib. 1919-1920; also asst. prof. botany at Occidental College 1916-1919, regular prof. 1920-1945. 
+**Abbreviated name**: *Smiley*
 
 #### Herbarium and types
 

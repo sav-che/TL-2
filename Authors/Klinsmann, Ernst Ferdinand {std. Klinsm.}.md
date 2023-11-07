@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/103253#page/594/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33068810) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klinsmann, Ernst Ferdinand (1794-1865), Danzig botanist and physician; studied at Berlin under F. G. Hayne; Dr. med. Berlin 1823; practiced medicine in Danzig 1824-1865; curator of the botanical collections of the Naturforschende Gesellschaft in Danzig. (*Klinsm.*).
+Klinsmann, Ernst Ferdinand (1794-1865), Danzig botanist and physician; studied at Berlin under F. G. Hayne; Dr. med. Berlin 1823; practiced medicine in Danzig 1824-1865; curator of the botanical collections of the Naturforschende Gesellschaft in Danzig. 
+**Abbreviated name**: *Klinsm.*
 
 #### Herbarium and types
 

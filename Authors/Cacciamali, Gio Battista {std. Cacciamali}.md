@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103861#page/306/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33266603) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cacciamali, Gio Battista (1856-1934), Italian professor of natural history, especially stratigraphy,at the Liceo di Brescia. (*Cacciamali*).
+Cacciamali, Gio Battista (1856-1934), Italian professor of natural history, especially stratigraphy,at the Liceo di Brescia. 
+**Abbreviated name**: *Cacciamali*
 
 #### Herbarium and types
 

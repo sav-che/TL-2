@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103414#page/130/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Autran, Eugène (John Benjamin) {std. Autran} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Autran, Eugène John Benjamin (1855-1912), Swiss botanist, curator of the Boissier herbarium, later in Argentina (1901-1912). (*Autran*).
+Autran, Eugène John Benjamin (1855-1912), Swiss botanist, curator of the Boissier herbarium, later in Argentina (1901-1912). 
+**Abbreviated name**: *Autran*
 
 #### Herbarium and types
 

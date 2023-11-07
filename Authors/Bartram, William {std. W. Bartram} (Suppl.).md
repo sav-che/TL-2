@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/item/103858#page/369/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33265084) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bartram, William {std. W. Bartram}|first entry]] for this author
 
 ### Author
 
-\* Bartram, William (1739-1823), American botanist and ornithologist, son of John Bartram, studied at the Academy of Philadelphia 1752-1756, apprentice with a merchant 1757-1761, had a trading store at Cape Fear, N. Carolina 1761-1765; to Florida 1765, 1771, in South Carolina, Georgia and Florida 1773-1777, from 1778 at Kingsessing Pa. at his father's farm, taking care of the garden, writing his *Travels* and devoting himself to botany and ornithology. (*W. Bartram*).
+\* Bartram, William (1739-1823), American botanist and ornithologist, son of John Bartram, studied at the Academy of Philadelphia 1752-1756, apprentice with a merchant 1757-1761, had a trading store at Cape Fear, N. Carolina 1761-1765; to Florida 1765, 1771, in South Carolina, Georgia and Florida 1773-1777, from 1778 at Kingsessing Pa. at his father's farm, taking care of the garden, writing his *Travels* and devoting himself to botany and ornithology. 
+**Abbreviated name**: *W. Bartram*
 
 #### Herbarium and types
 

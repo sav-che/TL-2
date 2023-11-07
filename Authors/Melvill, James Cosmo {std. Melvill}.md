@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/104137#page/426/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Melvill, James Cosmo (1845-1929), British businessman and naturalist at Manchester; B. A. Cantab. 1868; D. Sc. Manchester 1908. (*Melvill*).
+Melvill, James Cosmo (1845-1929), British businessman and naturalist at Manchester; B. A. Cantab. 1868; D. Sc. Manchester 1908. 
+**Abbreviated name**: *Melvill*
 
 #### Herbarium and types
 

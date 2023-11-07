@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/item/104137#page/815/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oakes, William (1799-1848), American lawyer and botanist; Harvard College BA 1820; practicing law at Ipswich, Mass. 1824-1827; from then on devoting himself to natural history. (*Oakes*).
+Oakes, William (1799-1848), American lawyer and botanist; Harvard College BA 1820; practicing law at Ipswich, Mass. 1824-1827; from then on devoting himself to natural history. 
+**Abbreviated name**: *Oakes*
 
 #### Herbarium and types
 

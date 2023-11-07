@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/104077#page/413/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33333538) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schumann, Julius \[Heinrich Karl\] (1810-1868), German (Prussian) diatomologist, geologist and high school teacher; studied mathematics at the University of Königsberg i.Pr., teacher's examination 1840; teacher at the Realschule, Elbing 1841-1844; id. at the Altstädtisches Gymnasium 1840-1841, 1844-1868. (*J. Schum.*).
+Schumann, Julius \[Heinrich Karl\] (1810-1868), German (Prussian) diatomologist, geologist and high school teacher; studied mathematics at the University of Königsberg i.Pr., teacher's examination 1840; teacher at the Realschule, Elbing 1841-1844; id. at the Altstädtisches Gymnasium 1840-1841, 1844-1868. 
+**Abbreviated name**: *J. Schum.*
 
 #### Herbarium and types
 

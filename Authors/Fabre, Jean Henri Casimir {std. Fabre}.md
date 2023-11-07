@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/item/103414#page/857/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33120940) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fabre, Jean-Henri (Casimir) {std. Fabre} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fabre, Jean Henri Casimir (1823-1915), French entomologist and mycologist. (*Fabre*).
+Fabre, Jean Henri Casimir (1823-1915), French entomologist and mycologist. 
+**Abbreviated name**: *Fabre*
 
 #### Herbarium and types
 

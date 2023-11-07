@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103250#page/431/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33066711) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winkler, Hans Karl Albert (1877-1945), German (Sachsen) botanist; studied at Kiel 1895; Leipzig 1895-1898; Dr. phil. ib. 1898; hon. lecturer botany Tübingen 1901-1905; travelled to Ceylon, Java, New Guinea, New Zealand, Samoa and North America 1903-1904; extra-ordinary professor of forest botany Tübingen 1905-1912; head of the scientific division of the Hamburg botanical institutes and professor of botany 1912-1945 (director Inst. Allg. Bot. Univ. Hamb. from 1919); in Central Borneo 1924-1925; died in Dresden. (*Ha. Winkl.*).
+Winkler, Hans Karl Albert (1877-1945), German (Sachsen) botanist; studied at Kiel 1895; Leipzig 1895-1898; Dr. phil. ib. 1898; hon. lecturer botany Tübingen 1901-1905; travelled to Ceylon, Java, New Guinea, New Zealand, Samoa and North America 1903-1904; extra-ordinary professor of forest botany Tübingen 1905-1912; head of the scientific division of the Hamburg botanical institutes and professor of botany 1912-1945 (director Inst. Allg. Bot. Univ. Hamb. from 1919); in Central Borneo 1924-1925; died in Dresden. 
+**Abbreviated name**: *Ha. Winkl.*
 
 #### Herbarium and types
 
@@ -43,7 +44,7 @@ Irmscher, E., ed., *Festschrift für Hans Winkler*, Mitt. Inst. allg. Bot., Hamb
 
 #### Eponymy
 
-*Winklerella* Engler (1905). *Note*: The etymology could not be determined for *Winklera* Regel (1886) and *Winkleria* H.G.L. Reichenbach (1841).
+*Winklerella* Engler (1905) [^1]. *Note*: The etymology could not be determined for *Winklera* Regel (1886) and *Winkleria* H.G.L. Reichenbach (1841).
 
 ### Publications
 
@@ -199,4 +200,7 @@ BR, FH, G, H, MO, NY. – Also issued in Progressus rei bot. 2: 293-454. 1908.
 
 **Notes**
 *Publ*.: 1932, cover-t.p., p. \[163\]-189. *Copy*: B. – Reprinted and to be cited from Biol. Zentralbl. 52(3) 163-189. 1932. – See also his *Die Konversion der Gene*, Jena 1930, 186 P.
+
+[^1]: "*Winklerella* Engl. 1905 (Podostemaceae) \[is dedicated to\] Hubert J.P. Winkler (1875–1941), was assistant to Engler at the Botanical Garden Berlin, for two years botanist at the botanical garden in Victoria/Cameroon (ETH Zürich, 2014) and collected this plant in Cameroon near the Edea-Falls (Engler, 1905: 98). Later he was Professor of Botany in Breslau (today Wrocław/Poland). He also collected in France, Indonesia, Malaysia and Singapore."
+Burkhardt, L. (2016). About some eponyms in Taxonomic literature (TL-2). _Taxon_, _65_(1), 137–145. [https://doi.org/10.12705/651.9](https://doi.org/10.12705/651.9)
 

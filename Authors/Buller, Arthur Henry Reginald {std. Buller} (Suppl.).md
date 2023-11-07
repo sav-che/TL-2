@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103861#page/227/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33266524) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buller, Arthur Henry Reginald {std. Buller}|first entry]] for this author
 
 ### Author
 
-\* Buller, Arthur Henry Reginald (1874-1944), British-born mycologist, educated at Queen's college, Taunton, Mason College Birmingham, B.Sc. London 1896, worked with W.F.P. Pfeffer at Leipzig 1897-1899, Ph.D. Leipzig 1899, with H.J.A.R. Hartig at München 1899-1901, summers of 1900 and 1901 at the Marine Biological Station at Naples, lecturer and demonstrator at Birmingham University 1901-1904, D.Sc. Birmingham, professor of botany at the University of Manitoba, Canada 1904-1936. (*Buller*).
+\* Buller, Arthur Henry Reginald (1874-1944), British-born mycologist, educated at Queen's college, Taunton, Mason College Birmingham, B.Sc. London 1896, worked with W.F.P. Pfeffer at Leipzig 1897-1899, Ph.D. Leipzig 1899, with H.J.A.R. Hartig at München 1899-1901, summers of 1900 and 1901 at the Marine Biological Station at Naples, lecturer and demonstrator at Birmingham University 1901-1904, D.Sc. Birmingham, professor of botany at the University of Manitoba, Canada 1904-1936. 
+**Abbreviated name**: *Buller*
 
 #### Herbarium and types
 

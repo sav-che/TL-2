@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/item/103414#page/620/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33120703) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cunningham, David Douglas {std. D.D. Cunn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cunningham, David Douglas (1843-1914), British pathologist and physician in the Indian medical service. (*D. D. Cunn.*).
+Cunningham, David Douglas (1843-1914), British pathologist and physician in the Indian medical service. 
+**Abbreviated name**: *D. D. Cunn.*
 
 #### Herbarium and types
 

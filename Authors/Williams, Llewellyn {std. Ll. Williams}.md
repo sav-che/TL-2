@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103250#page/380/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33066660) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williams, Llewellyn (1901-1980), British-born American botanist and explorer; B.S. Univ. Wales 1923; assistant wood technologist Field Museum, Chicago 1926-1930, assistant curator economic botany 1930-1935, curator from 1935-1938, 1940-1941; on the Field Museum's Peruvian-Brazilian expedition 1929-1930; active as explorer in various capacities in Venezuela 1939-1940, 1941-1942; from 1942-1945 as field technician in the Rubber Development Corporation in the Orinoco-Casiquiare basin; with the L.A. Dreyfus Company in tropical America, Africa and Asia 1945; consultant with Wm. Wrigley, Jr. Co. 1956-1960; from 1961 economic botanist U.S.D.A., Beltsville; ultimately in retirement at Randolph, Wisconsin. (*Ll. Williams*).
+Williams, Llewellyn (1901-1980), British-born American botanist and explorer; B.S. Univ. Wales 1923; assistant wood technologist Field Museum, Chicago 1926-1930, assistant curator economic botany 1930-1935, curator from 1935-1938, 1940-1941; on the Field Museum's Peruvian-Brazilian expedition 1929-1930; active as explorer in various capacities in Venezuela 1939-1940, 1941-1942; from 1942-1945 as field technician in the Rubber Development Corporation in the Orinoco-Casiquiare basin; with the L.A. Dreyfus Company in tropical America, Africa and Asia 1945; consultant with Wm. Wrigley, Jr. Co. 1956-1960; from 1961 economic botanist U.S.D.A., Beltsville; ultimately in retirement at Randolph, Wisconsin. 
+**Abbreviated name**: *Ll. Williams*
 
 #### Herbarium and types
 

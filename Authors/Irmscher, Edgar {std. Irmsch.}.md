@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103253#page/413/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33068629) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Irmscher, Edgar (1887-1968), German botanist; specialist on *Begonia*; studied plant physiology at Leipzig; from 1912-1919 with Engler in Berlin; curator (1919), later professor of botany at Hamburg until 1942; subsequently worked as emeritus professor at the Hohenheim agricultural college 1942-1968. (*Irmsch.*).
+Irmscher, Edgar (1887-1968), German botanist; specialist on *Begonia*; studied plant physiology at Leipzig; from 1912-1919 with Engler in Berlin; curator (1919), later professor of botany at Hamburg until 1942; subsequently worked as emeritus professor at the Hohenheim agricultural college 1942-1968. 
+**Abbreviated name**: *Irmsch.*
 
 #### Herbarium and types
 

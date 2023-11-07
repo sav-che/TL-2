@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103858#page/318/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265033) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bally, Walter Friedrich Eugen (1882-1959), Swiss (Aarau) botanist, educated at the Aarau Gymnasium, at the University of Genève 1902 (with Chodat), at the Polytechnic University of Zürich 1902, Dipl. 1906, Dr. phil. Zürich 1907, habil. Bonn 1911, first assistant Bonn 1912, habil. Basel 1915, at the University of Basel 1916, botanical assistant at the Central Java Experiment Station at Salatiga 1919, director 1920-1921, botanist at the Malang Experiment Station, Eastern Java 1921-1931, from 1931 head of the division of tropical and subtropical cultures at the International Institute of Agriculture in Rome, from 1950 in retirement in Genève. (*W. Bally*).
+Bally, Walter Friedrich Eugen (1882-1959), Swiss (Aarau) botanist, educated at the Aarau Gymnasium, at the University of Genève 1902 (with Chodat), at the Polytechnic University of Zürich 1902, Dipl. 1906, Dr. phil. Zürich 1907, habil. Bonn 1911, first assistant Bonn 1912, habil. Basel 1915, at the University of Basel 1916, botanical assistant at the Central Java Experiment Station at Salatiga 1919, director 1920-1921, botanist at the Malang Experiment Station, Eastern Java 1921-1931, from 1931 head of the division of tropical and subtropical cultures at the International Institute of Agriculture in Rome, from 1950 in retirement in Genève. 
+**Abbreviated name**: *W. Bally*
 
 #### Herbarium and types
 

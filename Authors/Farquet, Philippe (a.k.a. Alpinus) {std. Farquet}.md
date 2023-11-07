@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103834#page/71/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33259553) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Farquet, Philippe (a.k.a. Alpinus) (1883-1945), Swiss monk, naturalist and historian, born 5 Sep 1883 in Martigny (Ct. Valais), worked in his family's grocery, entered the order of the Grand-Saint-Bernard 1922, served in the Hospice du Grand-Saint-Bernard 1922-1928, then in the house of the Martigny congregation, died 6 Jun 1945 in Martigny. (*Farquet*).
+Farquet, Philippe (a.k.a. Alpinus) (1883-1945), Swiss monk, naturalist and historian, born 5 Sep 1883 in Martigny (Ct. Valais), worked in his family's grocery, entered the order of the Grand-Saint-Bernard 1922, served in the Hospice du Grand-Saint-Bernard 1922-1928, then in the house of the Martigny congregation, died 6 Jun 1945 in Martigny. 
+**Abbreviated name**: *Farquet*
 
 #### Herbarium and types
 

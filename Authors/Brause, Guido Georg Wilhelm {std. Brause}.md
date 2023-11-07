@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103861#page/51/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33266348) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brause, Guido Georg Wilhelm (1847-1922), German (Silesian) soldier and botanist, educated at the gymnasium at Neisse (Silesia), later at Oppeln, joined the Prussian army, officer in the German-French war, fought at Metz, Vionville Le Mans 1870-1871, subsequently stationed at Brandenburg a.H. and Potsdam, amateur botanist, after his retirement 1905 in connection with the Botanical Garden and Museum in Berlin as well as with the Botanical Verein der Provinz Brandenburg, mainly interested in Pteridophyta. (*Brause*).
+Brause, Guido Georg Wilhelm (1847-1922), German (Silesian) soldier and botanist, educated at the gymnasium at Neisse (Silesia), later at Oppeln, joined the Prussian army, officer in the German-French war, fought at Metz, Vionville Le Mans 1870-1871, subsequently stationed at Brandenburg a.H. and Potsdam, amateur botanist, after his retirement 1905 in connection with the Botanical Garden and Museum in Berlin as well as with the Botanical Verein der Provinz Brandenburg, mainly interested in Pteridophyta. 
+**Abbreviated name**: *Brause*
 
 #### Herbarium and types
 

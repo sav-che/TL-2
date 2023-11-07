@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103834#page/71/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33259553) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Farr, Clifford Harrison (1888-1928), American botanist, born 24 Jul 1888 in New Hampton, Iowa, B.A. 1911 and M.A. 1912 State Univ. of Iowa (now Univ. of Iowa), Iowa City, Iowa, then asst. in botany at State Univ. of Iowa 1912-1914, W.B. Cutting Traveling Fellow, Columbia Univ., New York City 1915-1916, Ph.D. 1916 Columbia Univ., Asst. Prof. of Biology, Agric. & Mech. College (now Texas A&M Univ.), College Station, Texas 1916-1918, asst. microscopist U.S.D.A 1918-1919, Asst. Prof. of Botany, State Univ. of Iowa 1915-1925, Assoc. Prof. of Botany, Washington Univ., St. Louis 1925-1928, died "suddenly of pneumonia" on 11 Feb 1928 in St. Louis. (*C.H. Farr*).
+Farr, Clifford Harrison (1888-1928), American botanist, born 24 Jul 1888 in New Hampton, Iowa, B.A. 1911 and M.A. 1912 State Univ. of Iowa (now Univ. of Iowa), Iowa City, Iowa, then asst. in botany at State Univ. of Iowa 1912-1914, W.B. Cutting Traveling Fellow, Columbia Univ., New York City 1915-1916, Ph.D. 1916 Columbia Univ., Asst. Prof. of Biology, Agric. & Mech. College (now Texas A&M Univ.), College Station, Texas 1916-1918, asst. microscopist U.S.D.A 1918-1919, Asst. Prof. of Botany, State Univ. of Iowa 1915-1925, Assoc. Prof. of Botany, Washington Univ., St. Louis 1925-1928, died "suddenly of pneumonia" on 11 Feb 1928 in St. Louis. 
+**Abbreviated name**: *C.H. Farr*
 
 #### Note
 

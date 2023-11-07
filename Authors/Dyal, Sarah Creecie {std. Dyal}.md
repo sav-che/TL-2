@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103835#page/235/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33260213) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dyal, Sarah Creecie (1907-x), American botanist, born 21 Mai 1907 at Grassy Cove, Tennessee, AB at Cornell University 1931, MA in 1933, scientific assistant in botany at Cornell from 1931 (married later to Nielsen). (*Dyal*).
+Dyal, Sarah Creecie (1907-x), American botanist, born 21 Mai 1907 at Grassy Cove, Tennessee, AB at Cornell University 1931, MA in 1933, scientific assistant in botany at Cornell from 1931 (married later to Nielsen). 
+**Abbreviated name**: *Dyal*
 
 #### Herbarium and types
 

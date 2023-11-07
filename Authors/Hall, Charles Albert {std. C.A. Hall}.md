@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103253#page/43/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33068259) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hall, Charles Albert (1872-1965), English clergyman who held pastorates at Hull, Bristol, Paisley, Southport and London (1896-1935); popular writer on British wild flowers. (*C. A. Hall*).
+Hall, Charles Albert (1872-1965), English clergyman who held pastorates at Hull, Bristol, Paisley, Southport and London (1896-1935); popular writer on British wild flowers. 
+**Abbreviated name**: *C. A. Hall*
 
 #### Herbarium and types
 

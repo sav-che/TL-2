@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/103861#page/421/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33266718) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carena, Giacinto (1778-1859), Italian botanist, born in Carmagnola, professor of biology at Torino, also secretary of the physic-mathematical division of the Torino Academy of Sciences. (*Carena*).
+Carena, Giacinto (1778-1859), Italian botanist, born in Carmagnola, professor of biology at Torino, also secretary of the physic-mathematical division of the Torino Academy of Sciences. 
+**Abbreviated name**: *Carena*
 
 #### Herbarium and types
 

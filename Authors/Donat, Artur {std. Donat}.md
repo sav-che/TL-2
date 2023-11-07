@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103835#page/61/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33260039) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Donat, Artur (1893-1937), German botanist, born 26 Dec 1893 at Brück, Prov. Brandenburg, at the Victoria-Gymnasium at Potsdam, 1912-1914 at the Landwirtschaftliche Hochschule at Berlin, as "Kriegsfreiwilliger" in the Garde-Pionierbataillon at Berlin, some time at the Berlin Victoria-Gymnasium 1916-1918, in french captivity 1918-1920, at Berlin University studying natural sciences, Staatsexamen 1923, Dr. 1925, in 1928 to Argentina until 1937. (*Donat*).
+Donat, Artur (1893-1937), German botanist, born 26 Dec 1893 at Brück, Prov. Brandenburg, at the Victoria-Gymnasium at Potsdam, 1912-1914 at the Landwirtschaftliche Hochschule at Berlin, as "Kriegsfreiwilliger" in the Garde-Pionierbataillon at Berlin, some time at the Berlin Victoria-Gymnasium 1916-1918, in french captivity 1918-1920, at Berlin University studying natural sciences, Staatsexamen 1923, Dr. 1925, in 1928 to Argentina until 1937. 
+**Abbreviated name**: *Donat*
 
 #### Herbarium and types
 

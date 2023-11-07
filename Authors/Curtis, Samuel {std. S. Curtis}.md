@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/item/103414#page/622/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33120705) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Curtis, Samuel (1779-1860), British florist at Walworth, Notts., proprietor of the *Botanical Magazine* 1801-1846, cousin of William Curtis. (*S. Curtis*).
+Curtis, Samuel (1779-1860), British florist at Walworth, Notts., proprietor of the *Botanical Magazine* 1801-1846, cousin of William Curtis. 
+**Abbreviated name**: *S. Curtis*
 
 #### Herbarium and types
 

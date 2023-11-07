@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/item/104137#page/245/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macloskie, Rev. George (1834-1919), Irish-born botanist and clergyman; LL.D. London 1871, D.Sc. Belfast 1874, minister at Ballygoney 1861-1874; professor of natural history, Princeton, New Jersey 1874-1906. (*Macloskie*).
+Macloskie, Rev. George (1834-1919), Irish-born botanist and clergyman; LL.D. London 1871, D.Sc. Belfast 1874, minister at Ballygoney 1861-1874; professor of natural history, Princeton, New Jersey 1874-1906. 
+**Abbreviated name**: *Macloskie*
 
 #### Herbarium and types
 

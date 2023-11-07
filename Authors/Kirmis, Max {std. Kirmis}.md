@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/item/103253#page/578/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33068794) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kirmis, Max (x-1926), German high school teacher, archeologist, numismatist and botanist; from 1880 at the Neumünster Progymnasium. (*Kirmis*).
+Kirmis, Max (x-1926), German high school teacher, archeologist, numismatist and botanist; from 1880 at the Neumünster Progymnasium. 
+**Abbreviated name**: *Kirmis*
 
 #### Herbarium and types
 

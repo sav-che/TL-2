@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/104137#page/305/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33355376) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marchesetti, Carl(o) de \[Carl von\] (1850-1926), Austro-Italian botanist at Trieste; Dr. med. Wien 1874; travelled in the East 1875-1876 and 1880-1881; director of the Trieste museum 1876; also director of the Trieste botanical garden, 1904. (*Marches.*).
+Marchesetti, Carl(o) de \[Carl von\] (1850-1926), Austro-Italian botanist at Trieste; Dr. med. Wien 1874; travelled in the East 1875-1876 and 1880-1881; director of the Trieste museum 1876; also director of the Trieste botanical garden, 1904. 
+**Abbreviated name**: *Marches.*
 
 #### Herbarium and types
 

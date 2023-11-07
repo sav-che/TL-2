@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/item/103253#page/677/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33068893) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Korthals, Pieter Willem (1807-1892), Dutch botanist and traveller in the East Indies, member of the "Natuurkundige Commissie voor Nederlandsch-Indie" Mai 1831-Feb 1836. (*Korth.*).
+Korthals, Pieter Willem (1807-1892), Dutch botanist and traveller in the East Indies, member of the "Natuurkundige Commissie voor Nederlandsch-Indie" Mai 1831-Feb 1836. 
+**Abbreviated name**: *Korth.*
 
 #### Herbarium and types
 

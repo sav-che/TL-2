@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/item/103253#page/561/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33068777) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kickx, Jean Jacques (1842-1887), Belgian botanist at Gent; son of Jean Kickx, Jr. (1803-1864); Dr. sci. Gent 1864; lecturer 1864, and professor of botany (1867, 1871) at the University of Gent. (*J. J. Kickx*).
+Kickx, Jean Jacques (1842-1887), Belgian botanist at Gent; son of Jean Kickx, Jr. (1803-1864); Dr. sci. Gent 1864; lecturer 1864, and professor of botany (1867, 1871) at the University of Gent. 
+**Abbreviated name**: *J. J. Kickx*
 
 #### Herbarium and types
 

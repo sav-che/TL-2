@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103250#page/309/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33066589) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White \[Charles\] David (1862-1935), American geologist and palaeobotanist; B.Sc. Cornell Univ.; assistant palaeontologist U.S. Geological Survey 1886-1894, assistant geologist 1896-1900, geologist 1900-1912, chief geologist 1912-1922; active in retirement as curator palaeobotany U.S. Natl. Mus. and in various administrative functions. (*D. White*).
+White \[Charles\] David (1862-1935), American geologist and palaeobotanist; B.Sc. Cornell Univ.; assistant palaeontologist U.S. Geological Survey 1886-1894, assistant geologist 1896-1900, geologist 1900-1912, chief geologist 1912-1922; active in retirement as curator palaeobotany U.S. Natl. Mus. and in various administrative functions. 
+**Abbreviated name**: *D. White*
 
 #### Herbarium and types
 

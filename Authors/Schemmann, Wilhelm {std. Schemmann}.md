@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/104077#page/143/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33333268) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schemmann, Wilhelm (1845-ca. 1920), German (Prussian) botanist and school-teacher at Annen nr Witten; conducted a bryological exchange club. (*Schemmann*).
+Schemmann, Wilhelm (1845-ca. 1920), German (Prussian) botanist and school-teacher at Annen nr Witten; conducted a bryological exchange club. 
+**Abbreviated name**: *Schemmann*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/item/103624#page/348/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33189805) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ponce de Leon y Aimé, Antonio (1887-1961), Cuban botanist; Dr. Sci. Habana 1906; high school teacher until 1934, then professor of botany at Habana University; founder of the Sociedad Cubána de botánica (1945). (*A. Ponce de Leon*).
+Ponce de Leon y Aimé, Antonio (1887-1961), Cuban botanist; Dr. Sci. Habana 1906; high school teacher until 1934, then professor of botany at Habana University; founder of the Sociedad Cubána de botánica (1945). 
+**Abbreviated name**: *A. Ponce de Leon*
 
 #### Herbarium and types
 

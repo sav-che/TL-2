@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103861#page/174/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33266471) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brunnthaler, Josef {std. Brunnth.}|first entry]] for this author
 
 ### Author
 
-\* Brunnthaler, Josef (1871-1914), Austrian botanist, educated at a "Volksschule" and a business school in Vienna, bank employee with Voelcker & Co., Vienna 1887-1904, interested in cryptogams, founder of the "Wiener Kryptogamen-Tauschanstalt" 1897-1903, active in the Vienna "zoologische und botanische Gesellschaft", employed with the "Biologischen Versuchsanstalt" 1904, delegated 1907 to the "k.k. zoologische Station" at Triest, curator at the Botanical Institute of the University of Vienna 1908-1914, travelled in German East Africa, the Cape and Natal 1909, in Egypt 1913, and stayed some time in 1914 at the Naples zoological station. (*Brunnth.*).
+\* Brunnthaler, Josef (1871-1914), Austrian botanist, educated at a "Volksschule" and a business school in Vienna, bank employee with Voelcker & Co., Vienna 1887-1904, interested in cryptogams, founder of the "Wiener Kryptogamen-Tauschanstalt" 1897-1903, active in the Vienna "zoologische und botanische Gesellschaft", employed with the "Biologischen Versuchsanstalt" 1904, delegated 1907 to the "k.k. zoologische Station" at Triest, curator at the Botanical Institute of the University of Vienna 1908-1914, travelled in German East Africa, the Cape and Natal 1909, in Egypt 1913, and stayed some time in 1914 at the Naples zoological station. 
+**Abbreviated name**: *Brunnth.*
 
 #### Herbarium and types
 

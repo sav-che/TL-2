@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/103253#page/387/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hultén, Eric Oskar Gunnar (1894-x), Swedish explorer and botanist; specialist on the flora of N. E. Asia and on the distribution of arctic and boreal plants; explorer of Alaska, Yukon and N. E. Asia. (*Hultén*).
+Hultén, Eric Oskar Gunnar (1894-x), Swedish explorer and botanist; specialist on the flora of N. E. Asia and on the distribution of arctic and boreal plants; explorer of Alaska, Yukon and N. E. Asia. 
+**Abbreviated name**: *Hultén*
 
 #### Herbarium and types
 

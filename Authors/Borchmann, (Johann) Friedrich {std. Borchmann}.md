@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/item/103859#page/342/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265529) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borchmann, \[Johann\] Friedrich (1827-1907), German botanist and school teacher, educated at the Gymnasium in the city of his birth, Glückstadt, and the teacher's college at Segeberg, private teacher at Gross-Wessek nr. Oldenburg 1848-1850, and in Lütjenburg and Hohwacht Holstein, teacher at Witzhave nr. Trittau 1866-1891. (*Borchmann*).
+Borchmann, \[Johann\] Friedrich (1827-1907), German botanist and school teacher, educated at the Gymnasium in the city of his birth, Glückstadt, and the teacher's college at Segeberg, private teacher at Gross-Wessek nr. Oldenburg 1848-1850, and in Lütjenburg and Hohwacht Holstein, teacher at Witzhave nr. Trittau 1866-1891. 
+**Abbreviated name**: *Borchmann*
 
 #### Herbarium and types
 

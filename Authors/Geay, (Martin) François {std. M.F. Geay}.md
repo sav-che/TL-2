@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/103832#page/174/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33258640) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geay, \[Martin\] François (1859-1910), French pharmacist, botanist and natural history collector, born in the Cour d'Arcenay, Canton de Précy-sous-Thil (Côte d'Or), studied at the Lycée in Dijon, then at the Sorbonne and the School of Pharmacy in Paris, also studied natural history under Alphonse Milne-Edwards, pharmacist, Compagnie du Canal de Panama 1886-1887, briefly returned to Paris 1887, "voyager-naturalist" for the Muséum natl. d'Histoire naturelle, Paris in the Darien (now Panama) and Venezuela 1888-1895, returned to Paris 1895, to British Guiana and the contested French-Brazilian territory 1897-1899, to Madagascar several times from 1904-1907, died 15/16 Mai 1910 in Melbourne, Australia. (*M.F. Geay*).
+Geay, \[Martin\] François (1859-1910), French pharmacist, botanist and natural history collector, born in the Cour d'Arcenay, Canton de Précy-sous-Thil (Côte d'Or), studied at the Lycée in Dijon, then at the Sorbonne and the School of Pharmacy in Paris, also studied natural history under Alphonse Milne-Edwards, pharmacist, Compagnie du Canal de Panama 1886-1887, briefly returned to Paris 1887, "voyager-naturalist" for the Muséum natl. d'Histoire naturelle, Paris in the Darien (now Panama) and Venezuela 1888-1895, returned to Paris 1895, to British Guiana and the contested French-Brazilian territory 1897-1899, to Madagascar several times from 1904-1907, died 15/16 Mai 1910 in Melbourne, Australia. 
+**Abbreviated name**: *M.F. Geay*
 
 #### Herbarium and types
 

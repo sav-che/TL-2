@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/item/104137#page/596/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33355667) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morgan, Robert (1863-1900), British artist and lithographer; contributed plates to e.g. J. Bot. 1882-1900; illustrated Fryer's *Potamogeton*. (*R. Morgan*).
+Morgan, Robert (1863-1900), British artist and lithographer; contributed plates to e.g. J. Bot. 1882-1900; illustrated Fryer's *Potamogeton*. 
+**Abbreviated name**: *R. Morgan*
 
 #### Herbarium and types
 

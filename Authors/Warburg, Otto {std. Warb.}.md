@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103250#page/119/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33066399) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warburg, Otto (1859-1938), German (Hamburg) botanist; studied at Bonn, Berlin and Hamburg; Dr. phil. Strassburg (with A. de Bary) 1883; worked at Univ. München 1883-1884 and Tübingen 1884-1885; travelled in S.E. Asia, Oceania and Australia 1885-1889; lecturer ("Privatdocent") Berlin Univ. 1891; lecturer at the Oriental seminary ib. 1894, from 1898 as professor; director of the Agricultural Research Station of the Zionist Organisation in Palestine 1921; from 1925 professor of botany and director of the Institute of Natural History of Palestine, Hebrew Univ., Jerusalem, maintaining a residence in Berlin; member of the Zionist Executive from 1905, president World Zionist Organisation 1911-1920. (*Warb.*).
+Warburg, Otto (1859-1938), German (Hamburg) botanist; studied at Bonn, Berlin and Hamburg; Dr. phil. Strassburg (with A. de Bary) 1883; worked at Univ. München 1883-1884 and Tübingen 1884-1885; travelled in S.E. Asia, Oceania and Australia 1885-1889; lecturer ("Privatdocent") Berlin Univ. 1891; lecturer at the Oriental seminary ib. 1894, from 1898 as professor; director of the Agricultural Research Station of the Zionist Organisation in Palestine 1921; from 1925 professor of botany and director of the Institute of Natural History of Palestine, Hebrew Univ., Jerusalem, maintaining a residence in Berlin; member of the Zionist Executive from 1905, president World Zionist Organisation 1911-1920. 
+**Abbreviated name**: *Warb.*
 
 #### Herbarium and types
 

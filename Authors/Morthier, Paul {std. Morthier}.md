@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/item/104137#page/613/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33355684) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morthier, Paul (1823-1886), Swiss botanist at Neuchâtel (Corcelles), director of the Société helvétique pour l'échange des plantes. (*Morthier*).
+Morthier, Paul (1823-1886), Swiss botanist at Neuchâtel (Corcelles), director of the Société helvétique pour l'échange des plantes. 
+**Abbreviated name**: *Morthier*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/item/103861#page/487/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33266784) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caylus, Anne Claude Philippe de Tubière de Grimoard de Pestels de Levi, Comte \[Jr.\], (fl. 1806), son of A.C.P. Caylus, above. (*A.C.P. Caylus, Jr.*).
+Caylus, Anne Claude Philippe de Tubière de Grimoard de Pestels de Levi, Comte \[Jr.\], (fl. 1806), son of A.C.P. Caylus, above. 
+**Abbreviated name**: *A.C.P. Caylus, Jr.*
 
 #### Herbarium and types
 

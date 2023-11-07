@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/item/103414#page/535/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33120618) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chastenay, Victorine de (1770-±1830), French botanist. (*Chastenay*).
+Chastenay, Victorine de (1770-±1830), French botanist. 
+**Abbreviated name**: *Chastenay*
 
 #### Herbarium and types
 

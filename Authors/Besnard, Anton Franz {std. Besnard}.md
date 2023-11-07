@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103859#page/148/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33265335) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Besnard, Anton Franz (1814-1885), German (Bavarian) physician and botanist, educated at the München gymnasium, studied at the University of München, Dr. phil. ib. 1835, Dr. med. ib. 1836, assistant physician at the München general hospital 1836-1838, military physician with the Royal Bavarian army 1838-1875. (*Besnard*).
+Besnard, Anton Franz (1814-1885), German (Bavarian) physician and botanist, educated at the München gymnasium, studied at the University of München, Dr. phil. ib. 1835, Dr. med. ib. 1836, assistant physician at the München general hospital 1836-1838, military physician with the Royal Bavarian army 1838-1875. 
+**Abbreviated name**: *Besnard*
 
 #### Herbarium and types
 

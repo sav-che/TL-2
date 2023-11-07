@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/item/103683#page/202/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33212234) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, William Randolph (1895-x), American algologist; Dr. phil. Univ. Pennsylvania 1920; at Woods Hole Laboratory 1917-1920; instructor of botany at the University of Pennsylvania 1920-1930; professor of botany at the University of Michigan 1930-1966; professor emeritus 1966. (*W.R. Tayl.*).
+Taylor, William Randolph (1895-x), American algologist; Dr. phil. Univ. Pennsylvania 1920; at Woods Hole Laboratory 1917-1920; instructor of botany at the University of Pennsylvania 1920-1930; professor of botany at the University of Michigan 1930-1966; professor emeritus 1966. 
+**Abbreviated name**: *W.R. Tayl.*
 
 #### Herbarium and types
 

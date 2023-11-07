@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/item/104077#page/623/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simon, Siegfried Veit (1877-1934), German (Berlin) botanist, especially plant physiologist; student gardener in Berlin, Bonn and Wiesbaden 1895-1899; studied botany at Berlin (with Kny) and Leipzig (with W. Pfeffer); Dr. phil. Leipzig 1903; assistant at Leipzig 1906-1908; habil. Göttingen 1909; to Ceylon and Java 1910-1911; in active service 1914-1920; extra-ordinary professor of botany at Göttingen 1920; ordinary professor id. at Bonn 1922-1934. (*S. Simon*).
+Simon, Siegfried Veit (1877-1934), German (Berlin) botanist, especially plant physiologist; student gardener in Berlin, Bonn and Wiesbaden 1895-1899; studied botany at Berlin (with Kny) and Leipzig (with W. Pfeffer); Dr. phil. Leipzig 1903; assistant at Leipzig 1906-1908; habil. Göttingen 1909; to Ceylon and Java 1910-1911; in active service 1914-1920; extra-ordinary professor of botany at Göttingen 1920; ordinary professor id. at Bonn 1922-1934. 
+**Abbreviated name**: *S. Simon*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103624#page/259/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33189716) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phinney, Arthur John (1850-1942), American botanist; MD Pulte Med. Coll. 1877; in the Indiana Geological Survey 1881-1886; with the U.S. Geological Survey from 1890; practicing physician at Indianapolis. (*Phinney*).
+Phinney, Arthur John (1850-1942), American botanist; MD Pulte Med. Coll. 1877; in the Indiana Geological Survey 1881-1886; with the U.S. Geological Survey from 1890; practicing physician at Indianapolis. 
+**Abbreviated name**: *Phinney*
 
 #### Herbarium and types
 

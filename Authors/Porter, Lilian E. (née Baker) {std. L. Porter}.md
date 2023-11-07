@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/item/103624#page/360/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33189817) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Porter, Lilian E. (née Baker) (1885-1973), Irish lichenologist, daughter of John Gilbert Baker (1834-1920); M.Sc. Liverpool 1911; lecturer Bangor 1913-1916; demonstrator biol. Cork 1916-1919; examiner Nat. Univ. Ireland 1921-1945. (*L. Porter*).
+Porter, Lilian E. (née Baker) (1885-1973), Irish lichenologist, daughter of John Gilbert Baker (1834-1920); M.Sc. Liverpool 1911; lecturer Bangor 1913-1916; demonstrator biol. Cork 1916-1919; examiner Nat. Univ. Ireland 1921-1945. 
+**Abbreviated name**: *L. Porter*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/item/103860#page/444/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33266111) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cowan, John Macqueen (1892-1960), Scottish botanist, born Banchory, Kincardineshire, studied at the University of Edinburgh, MA ib., BA Oxon 1931, in the Indian forest Service 1914, Superintendent of the Royal Botanic Gardens, Calcutta 1926-1928, collected in Sikkim, Bengal and Burma, asst. regius keeper Royal Botanic Garden, Edinburgh 1930-1954. (*Cowan*).
+Cowan, John Macqueen (1892-1960), Scottish botanist, born Banchory, Kincardineshire, studied at the University of Edinburgh, MA ib., BA Oxon 1931, in the Indian forest Service 1914, Superintendent of the Royal Botanic Gardens, Calcutta 1926-1928, collected in Sikkim, Bengal and Burma, asst. regius keeper Royal Botanic Garden, Edinburgh 1930-1954. 
+**Abbreviated name**: *Cowan*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/item/103624#page/755/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33190212) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reuss, Gustáv (1818-1861), Slovak botanist and physician. (*G. Reuss*).
+Reuss, Gustáv (1818-1861), Slovak botanist and physician. 
+**Abbreviated name**: *G. Reuss*
 
 #### Herbarium and types
 

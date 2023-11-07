@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103253#page/197/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33068413) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hermann, Paul (1646-1695), Dutch botanist and explorer of German birth, travelled in Africa, India and Ceylon, professor of botany at Leiden 1680-1695. (*P. Herm.*).
+Hermann, Paul (1646-1695), Dutch botanist and explorer of German birth, travelled in Africa, India and Ceylon, professor of botany at Leiden 1680-1695. 
+**Abbreviated name**: *P. Herm.*
 
 #### Herbarium
 

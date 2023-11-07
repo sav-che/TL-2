@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103414#page/160/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33120243) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balfour, John Hutton {std. Balf.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Balfour, John Hutton (1808-1884), British botanist at Glasgow 1841-1845, King's botanist in Scotland, professor of botany in Edinburgh 1845-1879, father of I. B. Balfour. (*Balf.*).
+Balfour, John Hutton (1808-1884), British botanist at Glasgow 1841-1845, King's botanist in Scotland, professor of botany in Edinburgh 1845-1879, father of I. B. Balfour. 
+**Abbreviated name**: *Balf.*
 
 #### Herbarium and types
 

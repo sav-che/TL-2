@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103683#page/238/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tessmann, Günther (*fl*. 1904-1926), German explorer, ethnographer and plant collector; in western-tropical Africa 1904-1909, 1910-1913, in Peru 1923-1926. (*Tessmann*).
+Tessmann, Günther (*fl*. 1904-1926), German explorer, ethnographer and plant collector; in western-tropical Africa 1904-1909, 1910-1913, in Peru 1923-1926. 
+**Abbreviated name**: *Tessmann*
 
 #### Herbarium and types
 

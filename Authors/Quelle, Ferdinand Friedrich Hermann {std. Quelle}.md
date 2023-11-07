@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103624#page/469/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33189926) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quelle, Ferdinand Friedrich Hermann (1876-1963), German botanist (bryologist) and entomologist; Dr. phil. Göttingen 1902; assistant Botanical Museum Göttingen 1904-1906; from 1908-1939 active as high school teacher (Studienrat). (*Quelle*).
+Quelle, Ferdinand Friedrich Hermann (1876-1963), German botanist (bryologist) and entomologist; Dr. phil. Göttingen 1902; assistant Botanical Museum Göttingen 1904-1906; from 1908-1939 active as high school teacher (Studienrat). 
+**Abbreviated name**: *Quelle*
 
 #### Herbarium and types
 

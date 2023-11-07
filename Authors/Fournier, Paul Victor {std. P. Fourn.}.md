@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/item/103414#page/914/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33120997) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fournier, Paul-Victor (Abbé) {std. P. Fourn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fournier, Paul Victor (1877-1964), French clergyman and botanist. (*P. Fourn.*).
+Fournier, Paul Victor (1877-1964), French clergyman and botanist. 
+**Abbreviated name**: *P. Fourn.*
 
 #### Herbarium and types
 

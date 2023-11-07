@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/item/103414#page/739/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33120822) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dufresne, Pierre (1786-1836), French physician at Geneva. (*Dufr.*).
+Dufresne, Pierre (1786-1836), French physician at Geneva. 
+**Abbreviated name**: *Dufr.*
 
 #### Herbarium and types
 

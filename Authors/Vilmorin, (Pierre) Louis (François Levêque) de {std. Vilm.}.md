@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/item/103683#page/753/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33212785) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vilmorin, \[Pierre\] Louis \[François Levêque\] de (1816-1860), French botanist, geneticist and plant breeder, son of P.P. André L. de Vilmorin; head of *Vilmorin-Andrieux et Cie*, 1843-1860; set up experimental farm at Verrières-le-Buisson. (*Vilm.*).
+Vilmorin, \[Pierre\] Louis \[François Levêque\] de (1816-1860), French botanist, geneticist and plant breeder, son of P.P. André L. de Vilmorin; head of *Vilmorin-Andrieux et Cie*, 1843-1860; set up experimental farm at Verrières-le-Buisson. 
+**Abbreviated name**: *Vilm.*
 
 #### Herbarium and types
 

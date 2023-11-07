@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/104137#page/484/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michelis, Friedrich Bernard Ferdinand (1818-1886), German clergyman and botanist; priest at Albachten 1855-1864; subsequently professor of philosophy at the Braunsberg Lyceum. (*Michelis*).
+Michelis, Friedrich Bernard Ferdinand (1818-1886), German clergyman and botanist; priest at Albachten 1855-1864; subsequently professor of philosophy at the Braunsberg Lyceum. 
+**Abbreviated name**: *Michelis*
 
 #### Herbarium and types
 

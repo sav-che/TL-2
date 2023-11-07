@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/104077#page/411/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33333536) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schumacher, \[Heinrich\] Christian Friederich (1757-1830), Danish (Holstein) botanist and physician; Dr. med. Copenhagen 1817; surgeon at Rendsborg 1773; prosector Univ. Copenhagen 1778; private anatomy teacher 1781, ship's surgeon 1784, lecturer in chemistry at the Copenhagen medical school 1785; military surgeon 1792, hospital physician and professor of surgery 1795-1813; in retirement 1813-1816; practicing again in Copenhagen 1816; ordinary professor of anatomy 1819. (*Schumach.*).
+Schumacher, \[Heinrich\] Christian Friederich (1757-1830), Danish (Holstein) botanist and physician; Dr. med. Copenhagen 1817; surgeon at Rendsborg 1773; prosector Univ. Copenhagen 1778; private anatomy teacher 1781, ship's surgeon 1784, lecturer in chemistry at the Copenhagen medical school 1785; military surgeon 1792, hospital physician and professor of surgery 1795-1813; in retirement 1813-1816; practicing again in Copenhagen 1816; ordinary professor of anatomy 1819. 
+**Abbreviated name**: *Schumach.*
 
 #### Herbarium and types
 

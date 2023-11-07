@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103860#page/52/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265719) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chamberlain, Charles Joseph (1863-1943), American botanist, born at Sullivan, Ohio, studied at Oberlin College, Oberlin, Ohio, graduated 1888, taught in public schools of Ohio and Minnesota, principal of the high school in Crookston, Minnesota, master's degree from Oberlin 1894, matriculated at the University of Chicago 1893 (sic), Dr. sci. ib. 1897, studied at Bonn with Eduard Strasburger 1901-1902, at Chicago 1893-1901 and 1902-1943, professor of morphology and cytology 1915-1929, emeritus from 1929. (*Chamb.*).
+Chamberlain, Charles Joseph (1863-1943), American botanist, born at Sullivan, Ohio, studied at Oberlin College, Oberlin, Ohio, graduated 1888, taught in public schools of Ohio and Minnesota, principal of the high school in Crookston, Minnesota, master's degree from Oberlin 1894, matriculated at the University of Chicago 1893 (sic), Dr. sci. ib. 1897, studied at Bonn with Eduard Strasburger 1901-1902, at Chicago 1893-1901 and 1902-1943, professor of morphology and cytology 1915-1929, emeritus from 1929. 
+**Abbreviated name**: *Chamb.*
 
 #### Herbarium and types
 

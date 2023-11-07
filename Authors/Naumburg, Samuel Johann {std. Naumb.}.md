@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/item/104137#page/713/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33355784) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Naumburg, Samuel Johann (1768-1799), German botanist; professor of botany at Erfurt (*Naumb.*).
+Naumburg, Samuel Johann (1768-1799), German botanist; professor of botany at Erfurt 
+**Abbreviated name**: *Naumb.*
 
 #### Herbarium and types
 

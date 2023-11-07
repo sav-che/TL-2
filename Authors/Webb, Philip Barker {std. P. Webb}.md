@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/item/103250#page/178/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33066458) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Webb, Philip Barker (1793-1854), British naturalist, traveller and geologist of private means; B.A. Oxford 1815; travelled widely in the Mediterranean area, Portugal (1826-1828), Madeira and the Canary Islands (with S. Berthelot 1828-1830), settled at Paris, assembling a rich herbarium and library. (*P. Webb*).
+Webb, Philip Barker (1793-1854), British naturalist, traveller and geologist of private means; B.A. Oxford 1815; travelled widely in the Mediterranean area, Portugal (1826-1828), Madeira and the Canary Islands (with S. Berthelot 1828-1830), settled at Paris, assembling a rich herbarium and library. 
+**Abbreviated name**: *P. Webb*
 
 #### Herbarium and types
 

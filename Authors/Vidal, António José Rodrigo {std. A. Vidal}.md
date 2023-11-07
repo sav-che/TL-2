@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/item/103683#page/736/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33212768) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vidal, António José Rodrigo (1808-1879), Portuguese botanist; took an active part in the Portuguese liberty campaign 1828; Dr. phil. Coimbra 1837; from 1838 with the botany department and botanical garden of the University of Coimbra, from 1855 as professor of botany and director. (*A. Vidal*).
+Vidal, António José Rodrigo (1808-1879), Portuguese botanist; took an active part in the Portuguese liberty campaign 1828; Dr. phil. Coimbra 1837; from 1838 with the botany department and botanical garden of the University of Coimbra, from 1855 as professor of botany and director. 
+**Abbreviated name**: *A. Vidal*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103624#page/257/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33189714) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phillips, Reginald William (1854-1926), British botanist; B.A. Cambr. 1884; Dr. sci. 1898; head Dept. Biol. Bangor 1884; professor of botany ib. until 1922. (*R.W. Phillips*).
+Phillips, Reginald William (1854-1926), British botanist; B.A. Cambr. 1884; Dr. sci. 1898; head Dept. Biol. Bangor 1884; professor of botany ib. until 1922. 
+**Abbreviated name**: *R.W. Phillips*
 
 #### Herbarium and types
 

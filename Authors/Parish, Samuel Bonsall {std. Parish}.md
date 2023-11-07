@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103624#page/73/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33189530) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parish, Samuel Bonsall (1838-1928), American botanist; B.A. New York Univ. 1858; collected extensively in Southern California; settled as fruit grower in the San Bernardino Valley, Calif. 1872; from 1920 hon. curator of the herbarium and lecturer in Californian botany at Stanford University. (*Parish*).
+Parish, Samuel Bonsall (1838-1928), American botanist; B.A. New York Univ. 1858; collected extensively in Southern California; settled as fruit grower in the San Bernardino Valley, Calif. 1872; from 1920 hon. curator of the herbarium and lecturer in Californian botany at Stanford University. 
+**Abbreviated name**: *Parish*
 
 #### Herbarium and types
 

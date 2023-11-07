@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/item/104137#page/715/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33355786) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Naveau, \[Georges\] Raymond \[Léonard\] ( 1889-1932), Belgian bryologist; director of the botanic garden and of the natural history museum at Antwerp; teacher at the Belvers agricultural college. (*Naveau*).
+Naveau, \[Georges\] Raymond \[Léonard\] ( 1889-1932), Belgian bryologist; director of the botanic garden and of the natural history museum at Antwerp; teacher at the Belvers agricultural college. 
+**Abbreviated name**: *Naveau*
 
 #### Herbarium and types
 

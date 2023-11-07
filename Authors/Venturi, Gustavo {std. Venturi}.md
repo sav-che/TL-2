@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/item/103683#page/713/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33212745) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Venturi, Gustavo (1830-1898), Italian lawyer and bryologist at Trento \[Trient\]. (*Venturi*).
+Venturi, Gustavo (1830-1898), Italian lawyer and bryologist at Trento \[Trient\]. 
+**Abbreviated name**: *Venturi*
 
 #### Herbarium and types
 

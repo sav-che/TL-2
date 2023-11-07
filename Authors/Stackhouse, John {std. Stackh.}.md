@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/item/104077#page/838/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33333963) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stackhouse, John (1742-1819), British botanist and botanical artist; gentleman of private means dedicating himself mainly to botany on his Pendarves estates 1763-1804; from 1804 in retirement at Bath. (*Stackh.*).
+Stackhouse, John (1742-1819), British botanist and botanical artist; gentleman of private means dedicating himself mainly to botany on his Pendarves estates 1763-1804; from 1804 in retirement at Bath. 
+**Abbreviated name**: *Stackh.*
 
 #### Herbarium and types
 

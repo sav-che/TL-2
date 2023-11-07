@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/item/103860#page/417/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33266084) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cottet, Michel (1825-1896), Swiss canon and vicar in Gruyères, Canton Freiburg, from 1850 idem in Romont. (*Cottet*).
+Cottet, Michel (1825-1896), Swiss canon and vicar in Gruyères, Canton Freiburg, from 1850 idem in Romont. 
+**Abbreviated name**: *Cottet*
 
 #### Herbarium and types
 

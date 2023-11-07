@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/104077#page/467/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33333592) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scopoli, Joannes Antonius \[Giovanni Antonio\] (1723-1788), Austrian-Italian (Tirolborn) physician, chemist and botanist; educated at Trento (Trient) and Innsbruck; studied medicine at the Innsbruck medical college; Dr. med. 1743; practicing medicine in Cavalese, Trento and Venice; from 1751-1753 in Graz and Seckau; state doctor's examination Wien 1754; state physician at Idria (Krain, Carniola, now part of Slovenia) 1754-1767; professor of mineralogy and metallurgy at Schemnitz (Banska Štiavnica, now Czechoslovakia) 1767-1776; professor of chemistry and botany at Pavia 1776-1788. (*Scop.*).
+Scopoli, Joannes Antonius \[Giovanni Antonio\] (1723-1788), Austrian-Italian (Tirolborn) physician, chemist and botanist; educated at Trento (Trient) and Innsbruck; studied medicine at the Innsbruck medical college; Dr. med. 1743; practicing medicine in Cavalese, Trento and Venice; from 1751-1753 in Graz and Seckau; state doctor's examination Wien 1754; state physician at Idria (Krain, Carniola, now part of Slovenia) 1754-1767; professor of mineralogy and metallurgy at Schemnitz (Banska Štiavnica, now Czechoslovakia) 1767-1776; professor of chemistry and botany at Pavia 1776-1788. 
+**Abbreviated name**: *Scop.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/104077#page/111/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33333236) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scannagatta, Josue (1773-1823), Italian botanist, student of G. Marsili at Padova; curator of the botanical garden of the University of Pavia 1774-1802; founder and director of the botanical garden and professor of botany at the University of Bologna 1802-1815. (*Scannagatta*).
+Scannagatta, Josue (1773-1823), Italian botanist, student of G. Marsili at Padova; curator of the botanical garden of the University of Pavia 1774-1802; founder and director of the botanical garden and professor of botany at the University of Bologna 1802-1815. 
+**Abbreviated name**: *Scannagatta*
 
 #### Herbarium and types
 

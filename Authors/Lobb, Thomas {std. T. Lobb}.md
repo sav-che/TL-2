@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/104137#page/145/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33355216) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lobb, Thomas (1820-1894), British plant collector and explorer for Veitch and Son (1843-1860) who collected in India and the Malesian area. (*T. Lobb*).
+Lobb, Thomas (1820-1894), British plant collector and explorer for Veitch and Son (1843-1860) who collected in India and the Malesian area. 
+**Abbreviated name**: *T. Lobb*
 
 #### Herbarium and types
 

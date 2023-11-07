@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/104137#page/480/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33355551) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michel, Etienne (*fl*. 1816), French publisher and (in part) editor of the "Nouveau Duhamel" (*Michel*).
+Michel, Etienne (*fl*. 1816), French publisher and (in part) editor of the "Nouveau Duhamel" 
+**Abbreviated name**: *Michel*
 
 #### Herbarium and types
 

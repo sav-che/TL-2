@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/item/103834#page/351/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33259833) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forsyth, William (1864-1910), Scottish-born Australian bryologist, born 5 Oct 1864 in Crieff (Perthshire), apprentice gardener, Drummond Castle, Perthshire, immigrated to Australia, gardener, Royal Botanic Gardens, Sydney and promoted ca. 1891 to Overseer of Centennial Park, a post held for 19 years, B.A. 1910 Univ. of Sydney, died 14 Sep 1910 in Sydney. (*Wm. Forsyth*).
+Forsyth, William (1864-1910), Scottish-born Australian bryologist, born 5 Oct 1864 in Crieff (Perthshire), apprentice gardener, Drummond Castle, Perthshire, immigrated to Australia, gardener, Royal Botanic Gardens, Sydney and promoted ca. 1891 to Overseer of Centennial Park, a post held for 19 years, B.A. 1910 Univ. of Sydney, died 14 Sep 1910 in Sydney. 
+**Abbreviated name**: *Wm. Forsyth*
 
 #### Note
 

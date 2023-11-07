@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/item/104137#page/330/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33355401) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martens, Eduard (Karl) von (1831-1904), German zoologist and botanist, son of Georg Matthias Martens; Dr. med. Tübingen 1855; assistant at the Zoological Museum of the University of Berlin 1856, from 1859 custos; zoologist and botanist on the Prussian expedition on the Thétis (1860-1862); from 1862-1864 travelling in Indonesia; professor of zoology at the University of Berlin 1874, interim and later second director of the Zoological Museum from 1883; Geheimrath 1898. (*E. Martens*).
+Martens, Eduard (Karl) von (1831-1904), German zoologist and botanist, son of Georg Matthias Martens; Dr. med. Tübingen 1855; assistant at the Zoological Museum of the University of Berlin 1856, from 1859 custos; zoologist and botanist on the Prussian expedition on the Thétis (1860-1862); from 1862-1864 travelling in Indonesia; professor of zoology at the University of Berlin 1874, interim and later second director of the Zoological Museum from 1883; Geheimrath 1898. 
+**Abbreviated name**: *E. Martens*
 
 #### Herbarium and types
 

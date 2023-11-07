@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/103683#page/97/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33212129) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sullivant, William Starling (1803-1873), American businessman and botanist (bryologist); studied at Yale University, M.A. 1823; afterwards in charge of the family property in Ohio; active as a surveyor and administrator as well as a private scientist. (*Sull.*).
+Sullivant, William Starling (1803-1873), American businessman and botanist (bryologist); studied at Yale University, M.A. 1823; afterwards in charge of the family property in Ohio; active as a surveyor and administrator as well as a private scientist. 
+**Abbreviated name**: *Sull.*
 
 #### Herbarium and types
 

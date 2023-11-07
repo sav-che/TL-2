@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/item/103624#page/360/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33189817) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Porter, Cedric Lambert (1905-x), American botanist; Dr. phil. Univ. Washington 1937; instructor in botany Univ. Wyoming 1929-1932, professor of botany ib. 1932-1968. (*C.L. Porter*).
+Porter, Cedric Lambert (1905-x), American botanist; Dr. phil. Univ. Washington 1937; instructor in botany Univ. Wyoming 1929-1932, professor of botany ib. 1932-1968. 
+**Abbreviated name**: *C.L. Porter*
 
 #### Herbarium and types
 

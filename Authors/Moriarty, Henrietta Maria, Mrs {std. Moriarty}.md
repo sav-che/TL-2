@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/item/104137#page/598/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33355669) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moriarty, Henrietta Maria, Mrs, (*fl*. 1806, *d*. 1843?), British novelist. (*Moriarty*).
+Moriarty, Henrietta Maria, Mrs, (*fl*. 1806, *d*. 1843?), British novelist. 
+**Abbreviated name**: *Moriarty*
 
 #### Herbarium and types
 

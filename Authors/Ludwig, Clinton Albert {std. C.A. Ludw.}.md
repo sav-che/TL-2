@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/104137#page/200/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33355271) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ludwig, Clinton Albert (1886-1941), American mycologist and phytopathologist; studied at Purdue University (M. Sc. 1914); Dr. phil. Univ. Mich. 1917; plant pathologist at the South Carolina Experiment Station, Clemson College until 1928; from then on plant pathologist with USDA, Washington, D. C. (*C. A. Ludw.*).
+Ludwig, Clinton Albert (1886-1941), American mycologist and phytopathologist; studied at Purdue University (M. Sc. 1914); Dr. phil. Univ. Mich. 1917; plant pathologist at the South Carolina Experiment Station, Clemson College until 1928; from then on plant pathologist with USDA, Washington, D. C. 
+**Abbreviated name**: *C. A. Ludw.*
 
 #### Herbarium and types
 

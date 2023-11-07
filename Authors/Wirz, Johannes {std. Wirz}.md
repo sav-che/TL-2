@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103250#page/449/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33066729) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wirz, Johannes (1850-1915), Swiss botanist and high school teacher; studied at Basel and Lausanne; teacher in Donnersberg, Pfalz, Schiers and, from 1881-1912, at Schwanden. (*Wirz*).
+Wirz, Johannes (1850-1915), Swiss botanist and high school teacher; studied at Basel and Lausanne; teacher in Donnersberg, Pfalz, Schiers and, from 1881-1912, at Schwanden. 
+**Abbreviated name**: *Wirz*
 
 #### Herbarium and types
 

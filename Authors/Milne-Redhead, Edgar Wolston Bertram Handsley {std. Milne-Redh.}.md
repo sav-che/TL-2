@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/item/104137#page/521/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33355592) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Milne-Redhead, Edgar Wolston Bertram Handsley (1906-x), British botanist; B. A. Cantab. 1928; at Kew (1929-1971). (*Milne-Redh.*).
+Milne-Redhead, Edgar Wolston Bertram Handsley (1906-x), British botanist; B. A. Cantab. 1928; at Kew (1929-1971). 
+**Abbreviated name**: *Milne-Redh.*
 
 #### Herbarium and types
 

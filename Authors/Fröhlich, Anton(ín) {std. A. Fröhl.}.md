@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103832#page/73/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fröhlich, Anton\[ín\] (1882-1969), Czech botanist, born 1 Jun 1882 in Hradišti (Moravia) where he attended gymnasium and studied natural sciences, Dr. fil. 1911, prof. in gymnasium in Mikulově 1920-1944, died 18 Feb 1969 in Znojmo (Moravia). (*A. Fröhl.*).
+Fröhlich, Anton\[ín\] (1882-1969), Czech botanist, born 1 Jun 1882 in Hradišti (Moravia) where he attended gymnasium and studied natural sciences, Dr. fil. 1911, prof. in gymnasium in Mikulově 1920-1944, died 18 Feb 1969 in Znojmo (Moravia). 
+**Abbreviated name**: *A. Fröhl.*
 
 #### Herbarium and types
 

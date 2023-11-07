@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1050](https://www.biodiversitylibrary.org/item/103624#page/1064/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1050](https://www.biodiversitylibrary.org/page/33190521) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Säve, Carl \[Fredrik\] (1812-1876), Swedish linguist and botanist; Dr. phil. Uppsala 1848; lecturer (1849) and professor of Scandinavian languages at Uppsala 1859-1876. (*Säve*).
+Säve, Carl \[Fredrik\] (1812-1876), Swedish linguist and botanist; Dr. phil. Uppsala 1848; lecturer (1849) and professor of Scandinavian languages at Uppsala 1859-1876. 
+**Abbreviated name**: *Säve*
 
 #### Herbarium and types
 

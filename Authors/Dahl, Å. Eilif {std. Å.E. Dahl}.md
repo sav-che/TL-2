@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103833#page/20/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33259054) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dahl, Å. Eilif (1916-1993), Norwegian botanist (lichenologist), studied at the University of Oslo, cand.-real 1943, in Sweden and England 1943-1945, Univ.-Stipend. Univ. Oslo 1946-1951, at the Landbruksskole in Vollebekk 1953-1959, Dr. phil. Oslo 1957, docent in Vollebekk 1959, ib. Prof. 1966. (*Å.E. Dahl*).
+Dahl, Å. Eilif (1916-1993), Norwegian botanist (lichenologist), studied at the University of Oslo, cand.-real 1943, in Sweden and England 1943-1945, Univ.-Stipend. Univ. Oslo 1946-1951, at the Landbruksskole in Vollebekk 1953-1959, Dr. phil. Oslo 1957, docent in Vollebekk 1959, ib. Prof. 1966. 
+**Abbreviated name**: *Å.E. Dahl*
 
 #### Herbarium and types
 

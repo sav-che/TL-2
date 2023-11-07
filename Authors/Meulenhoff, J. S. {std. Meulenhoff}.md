@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/104137#page/452/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meulenhoff, J. S. (1867-1936), Dutch mycologist; president of the Nederlandse mycologische Vereniging 1919-1933 (*Meulenhoff*).
+Meulenhoff, J. S. (1867-1936), Dutch mycologist; president of the Nederlandse mycologische Vereniging 1919-1933 
+**Abbreviated name**: *Meulenhoff*
 
 #### Herbarium and types
 

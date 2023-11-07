@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/item/103414#page/976/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/page/33121059) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geer van Jutphaas, Jan Lodewijk Willem, \[Baron\] de (1784-1857), Dutch magistrate and naturalist living at Jutphaas near Utrecht. (*Geer*).
+Geer van Jutphaas, Jan Lodewijk Willem, \[Baron\] de (1784-1857), Dutch magistrate and naturalist living at Jutphaas near Utrecht. 
+**Abbreviated name**: *Geer*
 
 #### Herbarium and types
 

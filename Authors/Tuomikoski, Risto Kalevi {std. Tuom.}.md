@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/item/103683#page/546/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33212578) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tuomikoski, Risto Kalevi (1911-x), Finnish botanist and entomologist; associate professor of botany at Helsinki University 1947-1961; professor of biotaxonomy 1961-1974. (*Tuom.*).
+Tuomikoski, Risto Kalevi (1911-x), Finnish botanist and entomologist; associate professor of botany at Helsinki University 1947-1961; professor of biotaxonomy 1961-1974. 
+**Abbreviated name**: *Tuom.*
 
 #### Herbarium and types
 

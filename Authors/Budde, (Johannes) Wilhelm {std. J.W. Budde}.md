@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103861#page/214/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Budde, \[Johannes\] Wilhelm (1844-?), German botanist, born at Köln on 28 Apr 1844, educated at the Friedrich Wilhelm Gymnasium ibid., studied at the Friedrich Wilhelm University of Köln 1861-1865, Dr. phil. ib. 1865 (*J.W. Budde*).
+Budde, \[Johannes\] Wilhelm (1844-?), German botanist, born at Köln on 28 Apr 1844, educated at the Friedrich Wilhelm Gymnasium ibid., studied at the Friedrich Wilhelm University of Köln 1861-1865, Dr. phil. ib. 1865 
+**Abbreviated name**: *J.W. Budde*
 
 #### Herbarium and types
 

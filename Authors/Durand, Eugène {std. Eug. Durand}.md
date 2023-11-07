@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103835#page/192/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33260170) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durand, Eugène (x-1921/2), French botanist and agriculturist, honorary professor at the national agricultural school at Montpellier, conservator of forests, since 1872 member of the Société botanique de France, assistant of the Académie internationale de Géographie botanique, died around new year of 1922. (*Eug. Durand*).
+Durand, Eugène (x-1921/2), French botanist and agriculturist, honorary professor at the national agricultural school at Montpellier, conservator of forests, since 1872 member of the Société botanique de France, assistant of the Académie internationale de Géographie botanique, died around new year of 1922. 
+**Abbreviated name**: *Eug. Durand*
 
 #### Herbarium and types
 

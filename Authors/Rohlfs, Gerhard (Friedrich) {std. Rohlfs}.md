@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/item/103624#page/877/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33190334) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rohlfs, Gerhard \[Friedrich\] (1831-1896), German (Bremen) traveller and collector in North Africa; studied medicine in Heidelberg, Würzburg and Göttingen; physician in the French colonial army 1855-1860, later exploring Northern Africa. (*Rohlfs*).
+Rohlfs, Gerhard \[Friedrich\] (1831-1896), German (Bremen) traveller and collector in North Africa; studied medicine in Heidelberg, Würzburg and Göttingen; physician in the French colonial army 1855-1860, later exploring Northern Africa. 
+**Abbreviated name**: *Rohlfs*
 
 #### Herbarium and types
 

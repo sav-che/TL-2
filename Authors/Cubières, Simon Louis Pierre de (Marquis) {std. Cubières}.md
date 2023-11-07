@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/item/103860#page/499/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33266166) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cubières, Simon Louis Pierre de (Marquis) (1747-1821), French botanist, born at Roquemaure (Gard), died in Paris. (*Cubières*).
+Cubières, Simon Louis Pierre de (Marquis) (1747-1821), French botanist, born at Roquemaure (Gard), died in Paris. 
+**Abbreviated name**: *Cubières*
 
 #### Herbarium and types
 

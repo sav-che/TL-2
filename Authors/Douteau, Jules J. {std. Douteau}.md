@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103835#page/89/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33260067) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Douteau, Jules J. (1861-?), French pharmacist and botanist, born 10 Apr 1861 St.-Mars-des-Prés (Vendée), professor at the École de Médecine de Nantes, Licencié ès Sciences, Pharmacien 1-re classe. (*Douteau*).
+Douteau, Jules J. (1861-?), French pharmacist and botanist, born 10 Apr 1861 St.-Mars-des-Prés (Vendée), professor at the École de Médecine de Nantes, Licencié ès Sciences, Pharmacien 1-re classe. 
+**Abbreviated name**: *Douteau*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103860#page/85/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33265752) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cheesman, William Norwood (1847-1925), British businessman, naturalist and mycologist, born at Winterton, Lincs, draper of Selby, one of the founders of the British Mycological Society, mainly interested in Mycetozoa, Vice-President Brit. Mycol. Soc. 1923-1924, president 1925 id. (*W.N. Cheesman*).
+Cheesman, William Norwood (1847-1925), British businessman, naturalist and mycologist, born at Winterton, Lincs, draper of Selby, one of the founders of the British Mycological Society, mainly interested in Mycetozoa, Vice-President Brit. Mycol. Soc. 1923-1924, president 1925 id. 
+**Abbreviated name**: *W.N. Cheesman*
 
 #### Herbarium and types
 

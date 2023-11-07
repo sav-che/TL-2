@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/104137#page/355/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33355426) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martius, Ernst Wilhelm (1756-1849), German pharmacist and botanist at Erlangen; father of C. F. P. von Martius; founder, with Hoppe, of the Regensburgische botanische Gesellschaft. (*E. Mart.*).
+Martius, Ernst Wilhelm (1756-1849), German pharmacist and botanist at Erlangen; father of C. F. P. von Martius; founder, with Hoppe, of the Regensburgische botanische Gesellschaft. 
+**Abbreviated name**: *E. Mart.*
 
 #### Herbarium and types
 

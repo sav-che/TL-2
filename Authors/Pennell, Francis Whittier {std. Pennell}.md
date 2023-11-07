@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103624#page/168/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33189625) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pennell, Francis Whittier (1886-1952), American botanist; travelled and collected widely in the Americas; president of the Philadelphia botanical Club 1942-1952; Ph.D. Univ. Pennsylvania 1913; associate curator at NY 1914-1921; from 1921 Curator of botany at PH; eminent authority on Scrophulariaceae, botanical historian and bibliographer. (*Pennell*).
+Pennell, Francis Whittier (1886-1952), American botanist; travelled and collected widely in the Americas; president of the Philadelphia botanical Club 1942-1952; Ph.D. Univ. Pennsylvania 1913; associate curator at NY 1914-1921; from 1921 Curator of botany at PH; eminent authority on Scrophulariaceae, botanical historian and bibliographer. 
+**Abbreviated name**: *Pennell*
 
 #### Herbarium and types
 

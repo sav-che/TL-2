@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103832#page/243/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33258709) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Glatfelter, Noah Miller (1837-1911), American physician and salicologist, born 28 Nov 1837 in York, Penn., M.D. 1864 Univ. of Penn. (thesis on hospital gangrene), commissioned as Asst. Surgeon U.S. Volunteers and served in the Dakota Territories until 1867 when he settled in St. Louis at which time he began collecting and paying attention to *Salix*, and then later to Hymenomycetes, died 2 Apr 1911 in St. Louis. (*Glatf.*).
+Glatfelter, Noah Miller (1837-1911), American physician and salicologist, born 28 Nov 1837 in York, Penn., M.D. 1864 Univ. of Penn. (thesis on hospital gangrene), commissioned as Asst. Surgeon U.S. Volunteers and served in the Dakota Territories until 1867 when he settled in St. Louis at which time he began collecting and paying attention to *Salix*, and then later to Hymenomycetes, died 2 Apr 1911 in St. Louis. 
+**Abbreviated name**: *Glatf.*
 
 #### Herbarium and types
 

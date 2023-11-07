@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103832#page/296/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33258762) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goldschmidt, Moritz (1863-1916), German botanist, born 12 Oct 1863 in Bischhausen bei Eschwege (Hesse), longtime teacher in Geisa (Thuringia), student and colleague of Adalbert Geheeb, died of diabetes 7 Sep 1916 in Geisa. (*M. Goldschm.*).
+Goldschmidt, Moritz (1863-1916), German botanist, born 12 Oct 1863 in Bischhausen bei Eschwege (Hesse), longtime teacher in Geisa (Thuringia), student and colleague of Adalbert Geheeb, died of diabetes 7 Sep 1916 in Geisa. 
+**Abbreviated name**: *M. Goldschm.*
 
 #### Note
 

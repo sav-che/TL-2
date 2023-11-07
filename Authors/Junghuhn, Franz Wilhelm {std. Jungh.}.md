@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/item/103253#page/497/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33068713) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Junghuhn, Franz Wilhelm (1809-1864), German botanist and traveller. (*Jungh.*).
+Junghuhn, Franz Wilhelm (1809-1864), German botanist and traveller. 
+**Abbreviated name**: *Jungh.*
 
 #### Herbarium and types
 

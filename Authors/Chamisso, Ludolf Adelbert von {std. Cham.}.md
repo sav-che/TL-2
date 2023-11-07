@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/item/103414#page/530/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33120613) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chamisso, Ludolf Adelbert von (Chamisseau de Boncourt, Louis Charles Adelaïde) (1781-1838), French born German poet, author, explorer and naturalist, creator of Peter Schlemihl. (*Cham.*).
+Chamisso, Ludolf Adelbert von (Chamisseau de Boncourt, Louis Charles Adelaïde) (1781-1838), French born German poet, author, explorer and naturalist, creator of Peter Schlemihl. 
+**Abbreviated name**: *Cham.*
 
 #### Herbarium and types
 

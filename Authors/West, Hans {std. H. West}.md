@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/103250#page/263/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33066543) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-West, Hans (1758-1811), Danish botanist, art collector, philologist and administrator; studied modern languages at Odense; headmaster at Christiansted on St. Croix 1788-1800, later public notary; consul in the Netherlands 1802-1805; collected on St. Croix, St. Thomas, Vieques (Crab Island), Puertorico and Martinique. (*H. West*).
+West, Hans (1758-1811), Danish botanist, art collector, philologist and administrator; studied modern languages at Odense; headmaster at Christiansted on St. Croix 1788-1800, later public notary; consul in the Netherlands 1802-1805; collected on St. Croix, St. Thomas, Vieques (Crab Island), Puertorico and Martinique. 
+**Abbreviated name**: *H. West*
 
 #### Herbarium and types
 

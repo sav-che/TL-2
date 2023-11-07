@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/item/103835#page/234/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33260212) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duvigneaud, Paul Auguste (1913-x), Belgian botanist, Dr. en Sci. Bot., professor of botany at the "Université libre de Bruxelles", director of the laboratory of systematic botany and phytogeography. (*P.A. Duvign.*).
+Duvigneaud, Paul Auguste (1913-x), Belgian botanist, Dr. en Sci. Bot., professor of botany at the "Université libre de Bruxelles", director of the laboratory of systematic botany and phytogeography. 
+**Abbreviated name**: *P.A. Duvign.*
 
 #### Herbarium and types
 

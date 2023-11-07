@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103832#page/408/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33258874) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grinţescu \[Grintzescu\], Gheorghe \[Georges P.\] (1878-1956), Romanian pharmacist and botanist, born in the village of Petreicami (Neamt Distr.), Doctor in Pharmacy and Pharmacist-General 1934, died 8 Sep 1956 in Bucharest. (*Grinţ.*).
+Grinţescu \[Grintzescu\], Gheorghe \[Georges P.\] (1878-1956), Romanian pharmacist and botanist, born in the village of Petreicami (Neamt Distr.), Doctor in Pharmacy and Pharmacist-General 1934, died 8 Sep 1956 in Bucharest. 
+**Abbreviated name**: *Grinţ.*
 
 #### Herbarium and types
 

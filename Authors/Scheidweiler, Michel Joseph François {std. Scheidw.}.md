@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/item/104077#page/138/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33333263) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheidweiler, Michel Joseph François (1799-1861), German-born (Rheinland) Belgium botanist and horticulturist; at first active as pharmacist and industrial chemist at Siegsburg, Köln and Aachen; settled in Belgium 1830, at first in Liège, later in Brussels; teacher at the Bruxelles École de médecine vétérinaire et d'agriculture de la Belgique 1836, teacher at the horticultural college at Gentbrugge 1851. (*Scheidw.*).
+Scheidweiler, Michel Joseph François (1799-1861), German-born (Rheinland) Belgium botanist and horticulturist; at first active as pharmacist and industrial chemist at Siegsburg, Köln and Aachen; settled in Belgium 1830, at first in Liège, later in Brussels; teacher at the Bruxelles École de médecine vétérinaire et d'agriculture de la Belgique 1836, teacher at the horticultural college at Gentbrugge 1851. 
+**Abbreviated name**: *Scheidw.*
 
 #### Herbarium and types
 

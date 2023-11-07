@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/103253#page/284/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33068500) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Holm, Herman Theodor (1854-1932), Danish born botanist; pupil of Warming; on the Denmark North Polar Expedition (1882-1884); settled in the U.S.A. in 1888; at the U.S. National Museum 1888-1893; pathologist in the U.S.D.A. 1893-1897; later associated with the Catholic University (LCU). (*Holm*).
+Holm, Herman Theodor (1854-1932), Danish born botanist; pupil of Warming; on the Denmark North Polar Expedition (1882-1884); settled in the U.S.A. in 1888; at the U.S. National Museum 1888-1893; pathologist in the U.S.D.A. 1893-1897; later associated with the Catholic University (LCU). 
+**Abbreviated name**: *Holm*
 
 #### Herbarium and types
 

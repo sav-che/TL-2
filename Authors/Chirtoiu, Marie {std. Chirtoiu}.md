@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103860#page/121/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265788) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chirtoiu, Marie (1892-x), Swiss botanist, studied with R. Chodat at Genève, Dr. ès. Sci. nat. 1917, married Henry Guyot. (*Chirtoiu*).
+Chirtoiu, Marie (1892-x), Swiss botanist, studied with R. Chodat at Genève, Dr. ès. Sci. nat. 1917, married Henry Guyot. 
+**Abbreviated name**: *Chirtoiu*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/item/104077#page/595/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33333720) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sidebotham, Joseph (1822-1884), British botanist, entomologist, astronomer and calico printer; co-founder of the Manchester Field Naturalist's Society; partner of the firm of the Strines Printing Company, Manchester, 1849-1876. (*Sideboth.*).
+Sidebotham, Joseph (1822-1884), British botanist, entomologist, astronomer and calico printer; co-founder of the Manchester Field Naturalist's Society; partner of the firm of the Strines Printing Company, Manchester, 1849-1876. 
+**Abbreviated name**: *Sideboth.*
 
 #### Herbarium and types
 

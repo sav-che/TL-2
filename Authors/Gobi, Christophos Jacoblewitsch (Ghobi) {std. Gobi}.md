@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 959](https://www.biodiversitylibrary.org/item/103414#page/1007/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 959](https://www.biodiversitylibrary.org/page/33121090) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gobi (Ghobi), Christoph Iakovlevich {std. Gobi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gobi, Christophos Jacoblewitsch (Ghobi) (1847-1919), Russian algologist. (*Gobi*).
+Gobi, Christophos Jacoblewitsch (Ghobi) (1847-1919), Russian algologist. 
+**Abbreviated name**: *Gobi*
 
 #### Herbarium and types
 

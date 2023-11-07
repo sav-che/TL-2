@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/item/103835#page/275/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33260253) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Egenter, Joseph (fl. 1862), German botanist and physician, born in Waldsee and studying with Hugo von Mohl in Tübingen. (*Egenter*).
+Egenter, Joseph (fl. 1862), German botanist and physician, born in Waldsee and studying with Hugo von Mohl in Tübingen. 
+**Abbreviated name**: *Egenter*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103624#page/213/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33189670) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petif \[de la Gautrois\], Johann Friedrich Carl Ludwig Corentin (1764-1845), German (Württemberg) botanist; Dr. med. Stuttgart; private tutor in Graubünden 1787-1789; municipal physician at Tuttlingen 1789-1802; director of a madder factory at Mussbach bei Neustadt (Pfalz) 1802-ca. 1834; from 1834-1839 at Haardt (ib.); from 1839-1845 with his daughter at Zeist (Netherlands). (*Petif*).
+Petif \[de la Gautrois\], Johann Friedrich Carl Ludwig Corentin (1764-1845), German (Württemberg) botanist; Dr. med. Stuttgart; private tutor in Graubünden 1787-1789; municipal physician at Tuttlingen 1789-1802; director of a madder factory at Mussbach bei Neustadt (Pfalz) 1802-ca. 1834; from 1834-1839 at Haardt (ib.); from 1839-1845 with his daughter at Zeist (Netherlands). 
+**Abbreviated name**: *Petif*
 
 #### Herbarium and types
 

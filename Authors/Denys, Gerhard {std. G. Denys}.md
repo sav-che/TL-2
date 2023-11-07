@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103833#page/222/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33259256) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Denys, Gerhard (fl. 1909), German botanist at the Hamburgischen Wissenschaftlichen Anstalten, working with Prof. Reinke at Hamburg. (*G. Denys*).
+Denys, Gerhard (fl. 1909), German botanist at the Hamburgischen Wissenschaftlichen Anstalten, working with Prof. Reinke at Hamburg. 
+**Abbreviated name**: *G. Denys*
 
 #### Herbarium and types
 

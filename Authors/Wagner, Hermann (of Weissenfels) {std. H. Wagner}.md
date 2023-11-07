@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103250#page/69/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33066311) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wagner, Hermann (of Weissenfels) (1824-1879), German (Saxonian) high school teacher and botanist; teacher at Weissenfels 1846; assistant teacher at the girls school of the Frankische Stiftung, Halle 1850; teacher at the higher girls school Bielefeld 1851-1857; from 1857-1863 in charge of a department of the Verlagsbuchhandlung Spamer in Reudnitz near Leipzig and later living from the sale of his herbaria in Neuschönfeld; retired from teaching because of loss of hearing. (*H. Wagner*).
+Wagner, Hermann (of Weissenfels) (1824-1879), German (Saxonian) high school teacher and botanist; teacher at Weissenfels 1846; assistant teacher at the girls school of the Frankische Stiftung, Halle 1850; teacher at the higher girls school Bielefeld 1851-1857; from 1857-1863 in charge of a department of the Verlagsbuchhandlung Spamer in Reudnitz near Leipzig and later living from the sale of his herbaria in Neuschönfeld; retired from teaching because of loss of hearing. 
+**Abbreviated name**: *H. Wagner*
 
 #### Herbarium and types
 

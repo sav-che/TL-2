@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/item/104137#page/865/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33355936) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ortloff, Fr. (x-1896), German bryologist at Coburg. (*Ortloff*).
+Ortloff, Fr. (x-1896), German bryologist at Coburg. 
+**Abbreviated name**: *Ortloff*
 
 #### Herbarium and types
 

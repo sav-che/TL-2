@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/item/103624#page/188/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33189645) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perrot, Émile Constant (1867-1951), French pharmacist, anatomist and botanist; Dr. sci. Paris 1899; succeeded G. Planchon as professor of materia medica at the École de Pharmacie, Paris, 1899, (aggrégé; prof. tit. 1902)-1937; Dr. h.c. Univ. Utrecht 1945. (*Perrot*).
+Perrot, Émile Constant (1867-1951), French pharmacist, anatomist and botanist; Dr. sci. Paris 1899; succeeded G. Planchon as professor of materia medica at the École de Pharmacie, Paris, 1899, (aggrégé; prof. tit. 1902)-1937; Dr. h.c. Univ. Utrecht 1945. 
+**Abbreviated name**: *Perrot*
 
 #### Herbarium and types
 

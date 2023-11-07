@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/item/103253#page/598/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33068814) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knapp, John Leonard (1767-1845), British botanist and soldier, served in the Hereford and Northampton Militia; later residing at Powick near Worcester. (*J. L. Knapp*).
+Knapp, John Leonard (1767-1845), British botanist and soldier, served in the Hereford and Northampton Militia; later residing at Powick near Worcester. 
+**Abbreviated name**: *J. L. Knapp*
 
 #### Herbarium and types
 

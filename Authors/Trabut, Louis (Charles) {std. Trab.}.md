@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103683#page/431/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33212463) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trabut, Louis \[Charles\] (1853-1929), French botanist (Savoie-born, then part of Sardinia and Piedmont); studied medicine at the Faculté de Médecine, Algiers 1873; Dr. med. ib. 1878, Lic. Sci. nat. ib. 1879; practicing physician at Algiers 1879-1880; professor of natural history at the École de Médecine et de Pharmacie, 1880-1923 and physician at the Mustapha hospital 1880-1905; collaborated with J.A. Battandier on the flora of Algeria 1876-1922; from 1892 also director of the Service botanique of Algeria working on applied botany. (*Trab.*).
+Trabut, Louis \[Charles\] (1853-1929), French botanist (Savoie-born, then part of Sardinia and Piedmont); studied medicine at the Faculté de Médecine, Algiers 1873; Dr. med. ib. 1878, Lic. Sci. nat. ib. 1879; practicing physician at Algiers 1879-1880; professor of natural history at the École de Médecine et de Pharmacie, 1880-1923 and physician at the Mustapha hospital 1880-1905; collaborated with J.A. Battandier on the flora of Algeria 1876-1922; from 1892 also director of the Service botanique of Algeria working on applied botany. 
+**Abbreviated name**: *Trab.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103834#page/235/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259717) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fischer, Georg (fl. 1896), German pharmacist and botanist, born 10 Jun (no year given in his vita \[sic\]) in Gieboldehausen, attended elementary school in his hometown and gymnasium in Duderstadt, studied pharmacy in Erlangen, Ph.D. 1896. (*G. Fisch., Gieboldeh.*).
+Fischer, Georg (fl. 1896), German pharmacist and botanist, born 10 Jun (no year given in his vita \[sic\]) in Gieboldehausen, attended elementary school in his hometown and gymnasium in Duderstadt, studied pharmacy in Erlangen, Ph.D. 1896. 
+**Abbreviated name**: *G. Fisch., Gieboldeh.*
 
 #### Herbarium and types
 

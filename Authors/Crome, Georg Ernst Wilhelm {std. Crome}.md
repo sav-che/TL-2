@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/item/103414#page/617/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33120700) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crome, Georg Ernst Wilhelm (1781-1813), German botanist and pharmacist, professor at the Mögelin Agricultural College, provisor at Schwerin, Mecklenburg. (*Crome*).
+Crome, Georg Ernst Wilhelm (1781-1813), German botanist and pharmacist, professor at the Mögelin Agricultural College, provisor at Schwerin, Mecklenburg. 
+**Abbreviated name**: *Crome*
 
 #### Herbarium and types
 

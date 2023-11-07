@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103834#page/245/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fisher, Eileen Elizabeth (1909-x), Australian mycologist and plant pathologist, born 14 Jun 1909 in Melbourne, B.Sc. 1930 and M.Sc. 1931 Univ. of Melbourne, Ph.D. ca. 1940 Cambridge, England, senior demonstrator in botany, teacher at Botany School, Univ. of Melbourne 1932. (*E.E. Fisher*).
+Fisher, Eileen Elizabeth (1909-x), Australian mycologist and plant pathologist, born 14 Jun 1909 in Melbourne, B.Sc. 1930 and M.Sc. 1931 Univ. of Melbourne, Ph.D. ca. 1940 Cambridge, England, senior demonstrator in botany, teacher at Botany School, Univ. of Melbourne 1932. 
+**Abbreviated name**: *E.E. Fisher*
 
 #### Herbarium and types
 

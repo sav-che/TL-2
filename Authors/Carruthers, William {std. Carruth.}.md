@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103414#page/508/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33120591) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carruthers, William {std. Carruth.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Carruthers, William (1830-1922), British botanist and palaeobiologist. (*Carruth.*).
+Carruthers, William (1830-1922), British botanist and palaeobiologist. 
+**Abbreviated name**: *Carruth.*
 
 #### Collections
 

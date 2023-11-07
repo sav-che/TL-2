@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/item/103414#page/580/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33120663) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Commerson, Philibert (1727-1773), French naturalist, explorer and circumnavigator with Bougainville on *La Boudeuse* and *L'Étoile* (1766-1769) (*Commerson*).
+Commerson, Philibert (1727-1773), French naturalist, explorer and circumnavigator with Bougainville on *La Boudeuse* and *L'Étoile* (1766-1769) 
+**Abbreviated name**: *Commerson*
 
 #### Herbarium and types
 

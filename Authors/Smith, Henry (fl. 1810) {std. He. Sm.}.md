@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/item/104077#page/689/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Henry (*fl*. 1810), British physician and botanist at Salisbury infirmary. (*He. Sm.*).
+Smith, Henry (*fl*. 1810), British physician and botanist at Salisbury infirmary. 
+**Abbreviated name**: *He. Sm.*
 
 #### Herbarium and types
 

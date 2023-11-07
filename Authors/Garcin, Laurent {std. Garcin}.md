@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/item/103414#page/960/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33121043) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Garcin, Laurent (1683-1752), Dutch army physician who travelled in Flanders, Spain and Portugal and made three trips to the East Indies, India, Ceylon, Arabia and Persia between 1720 and 1729. (*Garcin*).
+Garcin, Laurent (1683-1752), Dutch army physician who travelled in Flanders, Spain and Portugal and made three trips to the East Indies, India, Ceylon, Arabia and Persia between 1720 and 1729. 
+**Abbreviated name**: *Garcin*
 
 #### Herbarium and types
 

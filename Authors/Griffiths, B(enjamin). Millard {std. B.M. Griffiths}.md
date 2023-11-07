@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103832#page/400/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33258866) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Griffiths, B\[enjamin\]. Millard (1886-1942), British botanist interested in the taxonomy and ecology of freshwater algae, born in Kidderminster (Worcs.), B.Sc. 1908, M.Sc. 1909 and D.Sc. 1923 Univ. of Birmingham, Demonstrator in Botany, Queen's Univ., Belfast, Ireland 1914, Lecturer in Botany, Reading Univ. 1920, Lecturer in Botany, Armstrong College, Newcastle-on-Tyne 1921, F.L.S. 1922, Head, Botany Dept., Univ. of Durham 1924-1939, died 25 Mar 1942 in Durham. (*B.M. Griffiths*).
+Griffiths, B\[enjamin\]. Millard (1886-1942), British botanist interested in the taxonomy and ecology of freshwater algae, born in Kidderminster (Worcs.), B.Sc. 1908, M.Sc. 1909 and D.Sc. 1923 Univ. of Birmingham, Demonstrator in Botany, Queen's Univ., Belfast, Ireland 1914, Lecturer in Botany, Reading Univ. 1920, Lecturer in Botany, Armstrong College, Newcastle-on-Tyne 1921, F.L.S. 1922, Head, Botany Dept., Univ. of Durham 1924-1939, died 25 Mar 1942 in Durham. 
+**Abbreviated name**: *B.M. Griffiths*
 
 #### Herbarium and types
 

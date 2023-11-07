@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103414#page/501/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Capelli, Carlo (Matteo) {std. Capelli} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Capelli, Carlo Matteo (1763-1831), Italian botanist, professor of botany and director of the botanic garden at Torino 1817-1829. (*Capelli*).
+Capelli, Carlo Matteo (1763-1831), Italian botanist, professor of botany and director of the botanic garden at Torino 1817-1829. 
+**Abbreviated name**: *Capelli*
 
 #### Herbarium and types
 

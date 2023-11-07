@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103859#page/235/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33265422) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bluff, Mathias Joseph {std. Bluff}|first entry]] for this author
 
 ### Author
 
-\* Bluff, Mathias Joseph (1805-1837), German (Köln-born) physician and botanist, studied medicine at Köln, Dr. med. ib. 1829, practicing physician at Aachen. (*Bluff*).
+\* Bluff, Mathias Joseph (1805-1837), German (Köln-born) physician and botanist, studied medicine at Köln, Dr. med. ib. 1829, practicing physician at Aachen. 
+**Abbreviated name**: *Bluff*
 
 #### Herbarium and types
 

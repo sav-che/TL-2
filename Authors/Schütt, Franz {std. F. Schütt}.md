@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/104077#page/376/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schütt, Franz (1859-1921), German (Mecklenburg) botanist; habil. Univ. Kiel 1887; extra-ordinary professor of botany ib. 1894; regular professor of botany and director of the botanic garden Greifswald 1895. (*F. Schütt*).
+Schütt, Franz (1859-1921), German (Mecklenburg) botanist; habil. Univ. Kiel 1887; extra-ordinary professor of botany ib. 1894; regular professor of botany and director of the botanic garden Greifswald 1895. 
+**Abbreviated name**: *F. Schütt*
 
 #### Herbarium and types
 

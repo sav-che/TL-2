@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/103253#page/507/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33068723) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kaalaas, Baard Bastian Larsen (1851-1918), Norwegian bryologist and high school teacher at Oslo. (*Kaal.*).
+Kaalaas, Baard Bastian Larsen (1851-1918), Norwegian bryologist and high school teacher at Oslo. 
+**Abbreviated name**: *Kaal.*
 
 #### Herbarium and types
 

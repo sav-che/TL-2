@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103861#page/281/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33266578) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burtt, Arthur H. (fl. 1899), English botanist from Darlington, studied at the Eberhard-Karls-Universität in Tübingen, Dr. Phil. ib. 1899. (*A.H. Burtt*).
+Burtt, Arthur H. (fl. 1899), English botanist from Darlington, studied at the Eberhard-Karls-Universität in Tübingen, Dr. Phil. ib. 1899. 
+**Abbreviated name**: *A.H. Burtt*
 
 #### Herbarium and types
 

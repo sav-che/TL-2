@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/item/104077#page/861/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33333986) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Starmach, Karol (1900-x), Polish algologist, assistant at the Labor. Bot. Jancziewskianum U.J., later Botanical Institue of the Polish Academy of Sciences, Cracow; student of Cyanophyceae and freshwater Florideae. (*Starmach*).
+Starmach, Karol (1900-x), Polish algologist, assistant at the Labor. Bot. Jancziewskianum U.J., later Botanical Institue of the Polish Academy of Sciences, Cracow; student of Cyanophyceae and freshwater Florideae. 
+**Abbreviated name**: *Starmach*
 
 #### Herbarium and types
 

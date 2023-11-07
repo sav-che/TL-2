@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103860#page/121/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265788) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chirat du Vernay, Ludovic Charles Antoine (1805-1856), French botanist and teacher ("professeur d'histoire naturelle"), born at Lyon, died Rochefort, Puy-de-Dôme (*Chirat*).
+Chirat du Vernay, Ludovic Charles Antoine (1805-1856), French botanist and teacher ("professeur d'histoire naturelle"), born at Lyon, died Rochefort, Puy-de-Dôme 
+**Abbreviated name**: *Chirat*
 
 #### Herbarium and types
 

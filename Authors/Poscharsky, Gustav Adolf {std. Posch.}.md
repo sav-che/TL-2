@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/item/103624#page/362/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33189819) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poscharsky, Gustav Adolf (1832-1915), German gardener, botanist and plant collector; royal Saxonian garden inspector at the Dresden botanical garden 1866; ultimately living at Magyar Ovár (Ungarisch Altenberg). (*Posch.*).
+Poscharsky, Gustav Adolf (1832-1915), German gardener, botanist and plant collector; royal Saxonian garden inspector at the Dresden botanical garden 1866; ultimately living at Magyar Ovár (Ungarisch Altenberg). 
+**Abbreviated name**: *Posch.*
 
 #### Herbarium and types
 

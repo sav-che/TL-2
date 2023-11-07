@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/item/103414#page/855/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33120938) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eversmann, Eduard Friedrich \[von\] (1794-1860), German botanist at Kazan. (*Eversm.*).
+Eversmann, Eduard Friedrich \[von\] (1794-1860), German botanist at Kazan. 
+**Abbreviated name**: *Eversm.*
 
 #### Herbarium and types
 

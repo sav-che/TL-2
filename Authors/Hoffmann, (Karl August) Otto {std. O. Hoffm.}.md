@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103253#page/270/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoffmann, \[Karl August\] Otto (1853-1909), German synantherologist of the Engler School, studied at Berlin and Göttingen, from 1877 high school teacher at the Friedrichs-Werdersche Gymnasium at Berlin. (*O. Hoffm.*).
+Hoffmann, \[Karl August\] Otto (1853-1909), German synantherologist of the Engler School, studied at Berlin and Göttingen, from 1877 high school teacher at the Friedrichs-Werdersche Gymnasium at Berlin. 
+**Abbreviated name**: *O. Hoffm.*
 
 #### Herbarium and types
 

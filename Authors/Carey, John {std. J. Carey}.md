@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103414#page/503/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33120586) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carey, John {std. J. Carey} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Carey, John (1797-1880), British trader and botanist who travelled and collected in the United States (1830-1852). (*J. Carey*).
+Carey, John (1797-1880), British trader and botanist who travelled and collected in the United States (1830-1852). 
+**Abbreviated name**: *J. Carey*
 
 #### Herbarium and types
 

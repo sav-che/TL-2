@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/item/103414#page/756/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33120839) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Durand, Théophile-Alexis {std. T. Durand} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Durand, Théophile Alexis (1855-1912), Belgian botanist. (*Th. Durand*).
+Durand, Théophile Alexis (1855-1912), Belgian botanist. 
+**Abbreviated name**: *Th. Durand*
 
 #### Herbarium and types
 

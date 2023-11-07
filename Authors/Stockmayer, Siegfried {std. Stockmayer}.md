@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/103683#page/20/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33212084) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stockmayer, Siegfried (1868-1933), Austrian physician and botanist (algologist); Dr. med. Wien 1892; district physician in Frankenfels and subsequently municipal physician in Unter-Waltersdorf 1893-1909; from 1913 practicing physician at Stammersdorf nr. Wien. (*Stockmayer*).
+Stockmayer, Siegfried (1868-1933), Austrian physician and botanist (algologist); Dr. med. Wien 1892; district physician in Frankenfels and subsequently municipal physician in Unter-Waltersdorf 1893-1909; from 1913 practicing physician at Stammersdorf nr. Wien. 
+**Abbreviated name**: *Stockmayer*
 
 #### Herbarium and types
 

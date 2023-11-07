@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/item/103624#page/64/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33189483) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paoletti, Giulio (1865-1941), Italian botanist; 1890-1897 assistant at the Padova botanical garden; professor of natural history at the technical college of Melfi 1897. (*Pool.*).
+Paoletti, Giulio (1865-1941), Italian botanist; 1890-1897 assistant at the Padova botanical garden; professor of natural history at the technical college of Melfi 1897. 
+**Abbreviated name**: *Pool.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/item/103624#page/767/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rhind, William (*fl*. 1830-1860), British (Scottish) botanist; lecturer in botany, Marischal College, Aberdeen. (*Rhind*).
+Rhind, William (*fl*. 1830-1860), British (Scottish) botanist; lecturer in botany, Marischal College, Aberdeen. 
+**Abbreviated name**: *Rhind*
 
 #### Herbarium and types
 

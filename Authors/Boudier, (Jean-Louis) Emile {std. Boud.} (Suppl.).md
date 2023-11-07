@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103859#page/386/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boudier, Jean Louis Émile {std. Boud.}|first entry]] for this author
 
 ### Author
 
-\* Boudier, \[Jean-Louis\] Emile (1828-1920), French pharmacist and botanist, followed his father who was pharmacist at Montmorency, studied at the École supérieure de pharmacie de Paris, intern pharmacist in the Paris hospitals 1849, Pharmacien 1-re classe 1852, had a dispensary at Enghien 1853, shortly later in charge of his father's pharmacy until 1878, from then on dedicating himself to his scientific work. (*Boud.*).
+\* Boudier, \[Jean-Louis\] Emile (1828-1920), French pharmacist and botanist, followed his father who was pharmacist at Montmorency, studied at the École supérieure de pharmacie de Paris, intern pharmacist in the Paris hospitals 1849, Pharmacien 1-re classe 1852, had a dispensary at Enghien 1853, shortly later in charge of his father's pharmacy until 1878, from then on dedicating himself to his scientific work. 
+**Abbreviated name**: *Boud.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/103414#page/775/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33120858) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ehrenberg, Carl August (1801-1849), German merchant and plant collector in the West Indies and Mexico, brother of C. G. Ehrenberg. (*C. Ehrenb.*).
+Ehrenberg, Carl August (1801-1849), German merchant and plant collector in the West Indies and Mexico, brother of C. G. Ehrenberg. 
+**Abbreviated name**: *C. Ehrenb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/item/103250#page/299/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33066579) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wheeler, James Lowe (*fl*. 1830-1870), British botanist; demonstrator at the Chelsea Physic Garden 1821-1834. (*J.L. Wheeler*).
+Wheeler, James Lowe (*fl*. 1830-1870), British botanist; demonstrator at the Chelsea Physic Garden 1821-1834. 
+**Abbreviated name**: *J.L. Wheeler*
 
 #### Herbarium and types
 

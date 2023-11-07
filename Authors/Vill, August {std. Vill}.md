@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/103683#page/748/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33212780) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vill, August (1851-1930), German (Bavarian) botanist (cryptogamist) and veterinarian, district veterinarian at Bischofsheim in der Rhön 1881, id. Hammelburg 1886; subsequently in Hassfurt, Bamberg and Gerolzhofen; retired 1916; from 1919 in Windsbach. (*Vill*).
+Vill, August (1851-1930), German (Bavarian) botanist (cryptogamist) and veterinarian, district veterinarian at Bischofsheim in der Rhön 1881, id. Hammelburg 1886; subsequently in Hassfurt, Bamberg and Gerolzhofen; retired 1916; from 1919 in Windsbach. 
+**Abbreviated name**: *Vill*
 
 #### Herbarium and types
 

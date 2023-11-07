@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103861#page/161/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33266458) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brückner, Gerhard (1902-x), German botanist, Berlin-Lichterfelde born 4 Jan 1902, educated at the Schillergymnasium at Berlin-Lichterfelde, studied at the Friedrich-Wilhelms-Universität at Berlin 26 Apr 1920-1925, with e.g. L. Diels, A. Engler, K.O.P.R.R. Graebner, and R.K.F. Pilger, from Mai 1925 employed by the Preussische Versuchs- und Forschungsanstalt für Getreideverarbeitung und Veredelung in Berlin, Dr. phil. Berlin 1926. (*G. Brückn.*).
+Brückner, Gerhard (1902-x), German botanist, Berlin-Lichterfelde born 4 Jan 1902, educated at the Schillergymnasium at Berlin-Lichterfelde, studied at the Friedrich-Wilhelms-Universität at Berlin 26 Apr 1920-1925, with e.g. L. Diels, A. Engler, K.O.P.R.R. Graebner, and R.K.F. Pilger, from Mai 1925 employed by the Preussische Versuchs- und Forschungsanstalt für Getreideverarbeitung und Veredelung in Berlin, Dr. phil. Berlin 1926. 
+**Abbreviated name**: *G. Brückn.*
 
 #### Herbarium and types
 

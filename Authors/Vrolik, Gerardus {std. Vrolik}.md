@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/item/103683#page/809/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33212841) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vrolik, Gerardus (1775-1859), Dutch physician and botanist; Dr. phil. Leiden 1796; professor of botany at the Amsterdam Athenaeum 1796, from 1798 also temporarily in charge of the teaching of obstetrics. (*Vrolik*).
+Vrolik, Gerardus (1775-1859), Dutch physician and botanist; Dr. phil. Leiden 1796; professor of botany at the Amsterdam Athenaeum 1796, from 1798 also temporarily in charge of the teaching of obstetrics. 
+**Abbreviated name**: *Vrolik*
 
 #### Herbarium and types
 

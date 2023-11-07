@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/103253#page/441/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33068657) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaeger, Edmund Carroll (1877-x), American naturalist, from 1921-1952 head of the Zoology Department of the Riverside Municipal Museum. (*E. Jaeg.*).
+Jaeger, Edmund Carroll (1877-x), American naturalist, from 1921-1952 head of the Zoology Department of the Riverside Municipal Museum. 
+**Abbreviated name**: *E. Jaeg.*
 
 #### Herbarium and types
 

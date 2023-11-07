@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103624#page/15/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33189514) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pabst. Gustav (x-1911), German (Thuringian) botanist, artist and surveyor at Gera. (*G. Pabst*).
+Pabst. Gustav (x-1911), German (Thuringian) botanist, artist and surveyor at Gera. 
+**Abbreviated name**: *G. Pabst*
 
 #### Herbarium and types
 

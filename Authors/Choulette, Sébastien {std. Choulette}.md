@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/item/103414#page/547/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33120630) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Choulette, Sébastien (1803-?), French botanist. (*Choulette*).
+Choulette, Sébastien (1803-?), French botanist. 
+**Abbreviated name**: *Choulette*
 
 #### Herbarium and types
 

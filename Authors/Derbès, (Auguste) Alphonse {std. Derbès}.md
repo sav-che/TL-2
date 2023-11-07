@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103833#page/223/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33259257) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Derbès, \[Auguste\] Alphonse (1818-1894), French botanist, at Marseille, at the Faculté des Sciences de Marseille, born at Marseille 8 Mai 1818, died 6 Mai 1894 also at Marseille. (*Derbès*).
+Derbès, \[Auguste\] Alphonse (1818-1894), French botanist, at Marseille, at the Faculté des Sciences de Marseille, born at Marseille 8 Mai 1818, died 6 Mai 1894 also at Marseille. 
+**Abbreviated name**: *Derbès*
 
 #### Herbarium and types
 

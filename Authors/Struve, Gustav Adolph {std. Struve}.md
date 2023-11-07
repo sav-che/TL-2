@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/item/103683#page/65/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33212059) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Struve, Gustav Adolph (1811-1889), German (Saxonian) chemist; Dr. phil. Berlin 1835; from 1840 pharmacist and owner of an enterprise for artificial mineral water at Dresden. (*Struve*).
+Struve, Gustav Adolph (1811-1889), German (Saxonian) chemist; Dr. phil. Berlin 1835; from 1840 pharmacist and owner of an enterprise for artificial mineral water at Dresden. 
+**Abbreviated name**: *Struve*
 
 #### Herbarium and types
 

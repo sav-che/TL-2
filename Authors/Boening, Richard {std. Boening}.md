@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103859#page/265/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33265452) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boening, Richard (1859-?), German (East-Prussian) botanist from Ginthieden, Kreis Königsberg, b. 5 Aug 1859, educated at a scondary school at Königsberg, studied at the Albertus-Universität ib. 1880-1885, Dr. phil. ib. 1885. (*Boening*).
+Boening, Richard (1859-?), German (East-Prussian) botanist from Ginthieden, Kreis Königsberg, b. 5 Aug 1859, educated at a scondary school at Königsberg, studied at the Albertus-Universität ib. 1880-1885, Dr. phil. ib. 1885. 
+**Abbreviated name**: *Boening*
 
 #### Herbarium and types
 

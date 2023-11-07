@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103253#page/444/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33068660) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jahn, Eduard Adolf Wilhelm (1871-1942), German teacher in Berlin; later at the Botanical Institute of the Forestry College at Hannover-Münden; pupil of Schwendener; specialist on myxomycetes. (*E. Jahn*).
+Jahn, Eduard Adolf Wilhelm (1871-1942), German teacher in Berlin; later at the Botanical Institute of the Forestry College at Hannover-Münden; pupil of Schwendener; specialist on myxomycetes. 
+**Abbreviated name**: *E. Jahn*
 
 #### Herbarium and types
 

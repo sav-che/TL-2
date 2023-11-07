@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103683#page/214/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33212246) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Teiling, Einar \[Johan Sigurd\] (1888-1974), Swedish botanist (algologist) and high school teacher; fil. lic. Stockholm 1917; Dr. phil. h.c. Lund 1950; biology (1908) and geography teacher in Stockholm 1912-1919; head teacher in biology and geography at Strängnäs Normal School 1919, id. at Växjö (Training College) 1931, Linköping (id.) 1937; from 1960 in retirement in Lund. (*Teiling*).
+Teiling, Einar \[Johan Sigurd\] (1888-1974), Swedish botanist (algologist) and high school teacher; fil. lic. Stockholm 1917; Dr. phil. h.c. Lund 1950; biology (1908) and geography teacher in Stockholm 1912-1919; head teacher in biology and geography at Strängnäs Normal School 1919, id. at Växjö (Training College) 1931, Linköping (id.) 1937; from 1960 in retirement in Lund. 
+**Abbreviated name**: *Teiling*
 
 #### Herbarium and types
 

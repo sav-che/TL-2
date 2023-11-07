@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/item/104137#page/472/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33355543) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Michaux, André (1746-1803), French botanist and explorer of Iran (1782-1785), North America (1785-1796); later on a French exploring expedition (1800-1805) under Capt. Baudin as far as Madagascar, where he died. (*Michx.*).
+Michaux, André (1746-1803), French botanist and explorer of Iran (1782-1785), North America (1785-1796); later on a French exploring expedition (1800-1805) under Capt. Baudin as far as Madagascar, where he died. 
+**Abbreviated name**: *Michx.*
 
 #### Herbarium and types
 

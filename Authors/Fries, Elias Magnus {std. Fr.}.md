@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/item/103414#page/926/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fries, Elias Magnus {std. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fries, Elias Magnus (1794-1878), Swedish botanist at Uppsala, one of the founders of taxonomic mycology. (*Fr.*).
+Fries, Elias Magnus (1794-1878), Swedish botanist at Uppsala, one of the founders of taxonomic mycology. 
+**Abbreviated name**: *Fr.*
 
 #### Herbarium and types
 

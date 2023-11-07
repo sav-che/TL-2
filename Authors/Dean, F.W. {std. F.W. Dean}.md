@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/item/103833#page/132/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33259166) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dean, F.W. (fl. 1937), American forester, at Ohio State University and the Ohio Agricultural Experiment Station, Columbus, Ohio. (*F.W. Dean*).
+Dean, F.W. (fl. 1937), American forester, at Ohio State University and the Ohio Agricultural Experiment Station, Columbus, Ohio. 
+**Abbreviated name**: *F.W. Dean*
 
 #### Herbarium and types
 

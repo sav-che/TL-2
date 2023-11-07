@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/103858#page/215/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33264930) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aubert, Samuel (fl. 1900), Swiss highschool teacher and botanist, Dr. phil. Zürich 1901, student of C.J. Schröter, science teacher at the Collège industrial, Le Sentier. (*S. Aubert*).
+Aubert, Samuel (fl. 1900), Swiss highschool teacher and botanist, Dr. phil. Zürich 1901, student of C.J. Schröter, science teacher at the Collège industrial, Le Sentier. 
+**Abbreviated name**: *S. Aubert*
 
 #### Herbarium and types
 

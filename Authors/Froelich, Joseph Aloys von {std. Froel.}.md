@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/item/103414#page/941/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33121024) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Froelich, Joseph Aloys von (1766-1841), German physician, "Medizinalrath" and botanist at Ellwangen, Württemberg. (*Froel.*).
+Froelich, Joseph Aloys von (1766-1841), German physician, "Medizinalrath" and botanist at Ellwangen, Württemberg. 
+**Abbreviated name**: *Froel.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103624#page/124/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33189581) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paulet, Jean Jacques (1740-1826), French physician and mycologist. Studied medicine at Montpellier; Dr. med. ib. 1764; practicing physician in Paris 1764-1802; in retirement at Fontainebleau. (*Paul*).
+Paulet, Jean Jacques (1740-1826), French physician and mycologist. Studied medicine at Montpellier; Dr. med. ib. 1764; practicing physician in Paris 1764-1802; in retirement at Fontainebleau. 
+**Abbreviated name**: *Paul*
 
 #### Herbarium and types
 

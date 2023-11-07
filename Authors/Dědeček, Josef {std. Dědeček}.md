@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/103833#page/155/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33259189) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dědeček, Josef (1843-1915), Czech botanist, born at Chlomek u Turnova, died 15 Mai 1915, professor at a secondary school in Karolinenthal, later idem at Praha-Karliné. (*Dědeček*).
+Dědeček, Josef (1843-1915), Czech botanist, born at Chlomek u Turnova, died 15 Mai 1915, professor at a secondary school in Karolinenthal, later idem at Praha-Karliné. 
+**Abbreviated name**: *Dědeček*
 
 #### Herbarium and types
 

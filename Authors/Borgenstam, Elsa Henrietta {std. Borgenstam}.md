@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103859#page/349/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33265536) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Borgenstam, Elsa Henrietta (1896-x), Swedish botanist, born in Skara, married 21 Mai 1922, at Stockholm, Carl Rudolf Florin. (*Borgenstam*).
+Borgenstam, Elsa Henrietta (1896-x), Swedish botanist, born in Skara, married 21 Mai 1922, at Stockholm, Carl Rudolf Florin. 
+**Abbreviated name**: *Borgenstam*
 
 #### Herbarium and types
 

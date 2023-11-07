@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103859#page/176/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33265363) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Billings, William Dwight (1910-x), American botanist, studied at Butler University, A.B. 1933, at Duke University A.M. 1935 and Ph.D. 1936, instructor in botany at the University of Tennessee 1937-1938, at the University of Nevada as an instructor in biology 1938, id. head of the Dept. of Botany 1949-1952, at the Duke University, Durham N.C. as professor of botany 1952. (*W.D. Billings*).
+Billings, William Dwight (1910-x), American botanist, studied at Butler University, A.B. 1933, at Duke University A.M. 1935 and Ph.D. 1936, instructor in botany at the University of Tennessee 1937-1938, at the University of Nevada as an instructor in biology 1938, id. head of the Dept. of Botany 1949-1952, at the Duke University, Durham N.C. as professor of botany 1952. 
+**Abbreviated name**: *W.D. Billings*
 
 #### Herbarium and types
 

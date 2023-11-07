@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103832#page/177/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33258643) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geerts, Antonius Johannes Cornelius (1843-1883), Dutch chemist and encyclopaedist, prof. of chemistry, School of Military Medicine, Utrecht, prof. of natural science, Medical School, Nagasaki 1868-1873, advisor, Dept. of Hygiene and Public Health, Tokyo and later Yokohama 1877-1883, also charged with establishing a chemical lab. in Kyoto, Order of the Rising Sun, died 30 Aug 1883 in Yokohama. (*A.J.C. Geerts*).
+Geerts, Antonius Johannes Cornelius (1843-1883), Dutch chemist and encyclopaedist, prof. of chemistry, School of Military Medicine, Utrecht, prof. of natural science, Medical School, Nagasaki 1868-1873, advisor, Dept. of Hygiene and Public Health, Tokyo and later Yokohama 1877-1883, also charged with establishing a chemical lab. in Kyoto, Order of the Rising Sun, died 30 Aug 1883 in Yokohama. 
+**Abbreviated name**: *A.J.C. Geerts*
 
 #### Herbarium and types
 

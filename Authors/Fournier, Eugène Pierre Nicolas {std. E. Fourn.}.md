@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/item/103414#page/913/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33120996) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fournier, Eugène Pierre Nicolas {std. E. Fourn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fournier, Eugène Pierre Nicolas (1834-1884), French botanist. (*E. Fourn.*).
+Fournier, Eugène Pierre Nicolas (1834-1884), French botanist. 
+**Abbreviated name**: *E. Fourn.*
 
 #### Herbarium and types
 

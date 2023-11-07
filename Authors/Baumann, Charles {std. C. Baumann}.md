@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/item/103858#page/399/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265114) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baumann, Charles (fl. 1828-1835), French-German horticulturist at Bollweiler, (Haut-Rhin), specialized in Rosa, Begonia, Camellia and ornamental trees and shrubs. (*C. Baumann*).
+Baumann, Charles (fl. 1828-1835), French-German horticulturist at Bollweiler, (Haut-Rhin), specialized in Rosa, Begonia, Camellia and ornamental trees and shrubs. 
+**Abbreviated name**: *C. Baumann*
 
 #### Herbarium and types
 

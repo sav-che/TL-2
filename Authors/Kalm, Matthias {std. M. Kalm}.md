@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/item/103253#page/512/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33068728) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kalm, Matthias (1793-1833), Finnish botanist. (*M. Kalm*).
+Kalm, Matthias (1793-1833), Finnish botanist. 
+**Abbreviated name**: *M. Kalm*
 
 #### Herbarium and types
 

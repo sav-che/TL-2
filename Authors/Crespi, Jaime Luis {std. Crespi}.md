@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/item/103860#page/475/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33266142) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crespi, Jaime Luis (b. 1889), Spanish botanist, studied at the Agricultural University of Madrid, later professor at this same University. (*Crespi*).
+Crespi, Jaime Luis (b. 1889), Spanish botanist, studied at the Agricultural University of Madrid, later professor at this same University. 
+**Abbreviated name**: *Crespi*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/104137#page/81/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linhart, Gyögy (Georg) (1844-1925), Hungarian mycologist. (*Linh.*).
+Linhart, Gyögy (Georg) (1844-1925), Hungarian mycologist. 
+**Abbreviated name**: *Linh.*
 
 #### Herbarium and types
 

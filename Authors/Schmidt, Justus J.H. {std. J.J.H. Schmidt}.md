@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/item/104077#page/272/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33333397) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Justus J.H. (1851-1930), German (Holstein) botanist; at the Segeberg teacher's college 1871-1874; teacher at the school of the St. Johannis monastery at Hamburg 1874-1916. (*J.J.H. Schmidt*).
+Schmidt, Justus J.H. (1851-1930), German (Holstein) botanist; at the Segeberg teacher's college 1871-1874; teacher at the school of the St. Johannis monastery at Hamburg 1874-1916. 
+**Abbreviated name**: *J.J.H. Schmidt*
 
 #### Herbarium and types
 

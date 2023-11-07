@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103861#page/403/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33266700) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cap, Paul-Antoine, called Gratacap (1788-1877), French pharmacist and botanist, born at Mâcon, at Lyon from 1817-1829, at Paris from 1829-1877. (*Cap*).
+Cap, Paul-Antoine, called Gratacap (1788-1877), French pharmacist and botanist, born at Mâcon, at Lyon from 1817-1829, at Paris from 1829-1877. 
+**Abbreviated name**: *Cap*
 
 #### Herbarium and types
 

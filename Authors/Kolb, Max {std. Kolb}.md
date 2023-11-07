@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/item/103253#page/634/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kolb, Max (1829-1915), German gardener, worked in botanical gardens in Berlin and Paris; from 1859 "Kön. Oberinspecktor am botanischen Garten in München." (*Kolb*).
+Kolb, Max (1829-1915), German gardener, worked in botanical gardens in Berlin and Paris; from 1859 "Kön. Oberinspecktor am botanischen Garten in München." 
+**Abbreviated name**: *Kolb*
 
 #### Herbarium and types
 

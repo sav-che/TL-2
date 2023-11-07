@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103250#page/445/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33066725) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Winterschmidt, Johann Samuel (1760-1824 \[1824-1829?\]), German (Bavarian) botanical artist at Nürnberg. (*Winterschmidt*).
+Winterschmidt, Johann Samuel (1760-1824 \[1824-1829?\]), German (Bavarian) botanical artist at Nürnberg. 
+**Abbreviated name**: *Winterschmidt*
 
 #### Herbarium and types
 

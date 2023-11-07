@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/item/103253#page/778/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33068994) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Langsdorff, Georg Heinrich, Baron von (1774-1852), German explorer; surgeon naturalist on the Krusenstern expedition (1803-1806); later Russian consul in Brazil and plant collector with Riedel. (*Langsd.*).
+Langsdorff, Georg Heinrich, Baron von (1774-1852), German explorer; surgeon naturalist on the Krusenstern expedition (1803-1806); later Russian consul in Brazil and plant collector with Riedel. 
+**Abbreviated name**: *Langsd.*
 
 #### Herbarium and types
 

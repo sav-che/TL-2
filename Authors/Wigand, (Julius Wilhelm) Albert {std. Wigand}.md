@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/103250#page/332/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33066612) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wigand, \[Julius Wilhelm\] Albert (1821-1886), German (Hessen) botanist at Marburg; studied at the University of Marburg 1840-1844; state teachers exam. 1844; studied botany and zoology in München and Berlin 1844-1845 and botany with M. Schleiden in Jena 1845-1846; Dr. phil. and habil. Marburg 1846; e.o. professor of botany 1851; director of the Marburg pharmacognostic institute 1854; ord. prof. of botany and director of the botanical garden 1861 (succeeding Wenderoth); Geheimrat 1885. (*Wigand*).
+Wigand, \[Julius Wilhelm\] Albert (1821-1886), German (Hessen) botanist at Marburg; studied at the University of Marburg 1840-1844; state teachers exam. 1844; studied botany and zoology in München and Berlin 1844-1845 and botany with M. Schleiden in Jena 1845-1846; Dr. phil. and habil. Marburg 1846; e.o. professor of botany 1851; director of the Marburg pharmacognostic institute 1854; ord. prof. of botany and director of the botanical garden 1861 (succeeding Wenderoth); Geheimrat 1885. 
+**Abbreviated name**: *Wigand*
 
 #### Herbarium and types
 

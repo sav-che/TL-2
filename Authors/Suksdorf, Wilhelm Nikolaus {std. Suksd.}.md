@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/item/103683#page/95/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suksdorf, Wilhelm Nikolaus (1850-1932), German (Holstein) born American botanist and plant collector; to the U.S.A. 1858; in Iowa 1858-1874; at the University of California 1874-1876; from 1876-1932 at Bingen (White Salmon), Klickitat Co., Washington; worked with Asa Gray at Harvard 1886-1888; sold exsiccatae and seeds. (*Suksd.*).
+Suksdorf, Wilhelm Nikolaus (1850-1932), German (Holstein) born American botanist and plant collector; to the U.S.A. 1858; in Iowa 1858-1874; at the University of California 1874-1876; from 1876-1932 at Bingen (White Salmon), Klickitat Co., Washington; worked with Asa Gray at Harvard 1886-1888; sold exsiccatae and seeds. 
+**Abbreviated name**: *Suksd.*
 
 #### Herbarium and types
 

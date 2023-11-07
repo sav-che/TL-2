@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/item/104077#page/595/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33333720) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sickmann, Johann Rudolph (1779-1849), German (Osnabrück)/Hannover) botanist; ultimately assistant at the Botanical Garden, Hamburg. (*Sickmann*).
+Sickmann, Johann Rudolph (1779-1849), German (Osnabrück)/Hannover) botanist; ultimately assistant at the Botanical Garden, Hamburg. 
+**Abbreviated name**: *Sickmann*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103834#page/25/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259507) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fabre, Esprit (1791-1866), French gardener, born 12 Jun 1791 in Agde (Hérault), lived in Agde and published on the culture of vegetables and plants found in the vicinity of his home, died 21 Jun 1866 in Agde. (*E. Fabre*).
+Fabre, Esprit (1791-1866), French gardener, born 12 Jun 1791 in Agde (Hérault), lived in Agde and published on the culture of vegetables and plants found in the vicinity of his home, died 21 Jun 1866 in Agde. 
+**Abbreviated name**: *E. Fabre*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/item/103624#page/888/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Romagnesi, Henri Charles Louis (1912-x), French mycologist, associated with the Laboratoire de Cryptogamie du Muséum d'Histoire naturelle, Paris. (*Romagnesi*).
+Romagnesi, Henri Charles Louis (1912-x), French mycologist, associated with the Laboratoire de Cryptogamie du Muséum d'Histoire naturelle, Paris. 
+**Abbreviated name**: *Romagnesi*
 
 #### Herbarium and types
 

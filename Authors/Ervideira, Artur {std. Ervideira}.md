@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/103835#page/421/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33260399) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ervideira, Artur (fl. 1917-1927), Portuguese botanist (cryptogamist) working at the botanical institute of the University of Lisbon. (*Ervideira*).
+Ervideira, Artur (fl. 1917-1927), Portuguese botanist (cryptogamist) working at the botanical institute of the University of Lisbon. 
+**Abbreviated name**: *Ervideira*
 
 #### Herbarium and types
 

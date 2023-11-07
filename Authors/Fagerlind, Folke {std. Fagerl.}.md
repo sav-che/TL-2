@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103834#page/34/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33259516) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fagerlind, Folke (1907-1996), Swedish botanist, cytologist and embryologist, born 2 Mar 1907 in Stockholm, fil. mag. 1933, fil. lic. 1934, Dr. Sci. and docent 1937, all Stockholm Univ., then prof. 1949 Stockholm Univ., collected plants in Cuba 1952, Ecuador, incl. the Galapagos 1952-1953, Hawaii, Java 1960 and Sri Lanka. (*Fagerl.*).
+Fagerlind, Folke (1907-1996), Swedish botanist, cytologist and embryologist, born 2 Mar 1907 in Stockholm, fil. mag. 1933, fil. lic. 1934, Dr. Sci. and docent 1937, all Stockholm Univ., then prof. 1949 Stockholm Univ., collected plants in Cuba 1952, Ecuador, incl. the Galapagos 1952-1953, Hawaii, Java 1960 and Sri Lanka. 
+**Abbreviated name**: *Fagerl.*
 
 #### Herbarium and types
 

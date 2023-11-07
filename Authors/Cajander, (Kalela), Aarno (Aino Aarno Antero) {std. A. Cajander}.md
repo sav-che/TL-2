@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103861#page/314/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33266611) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cajander, (Kalela), Aarno (Aino Aarno Antero), Finnish botanist after 1935 Aarno Kalela (1908-1977). (*A. Cajander*).
+Cajander, (Kalela), Aarno (Aino Aarno Antero), Finnish botanist after 1935 Aarno Kalela (1908-1977). 
+**Abbreviated name**: *A. Cajander*
 
 #### Herbarium and types
 

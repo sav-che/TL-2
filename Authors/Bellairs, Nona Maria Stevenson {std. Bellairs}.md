@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103859#page/73/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bellairs, Nona Maria Stevenson (x-1897), British botanist at Bournemouth. (*Bellairs*).
+Bellairs, Nona Maria Stevenson (x-1897), British botanist at Bournemouth. 
+**Abbreviated name**: *Bellairs*
 
 #### Herbarium and types
 

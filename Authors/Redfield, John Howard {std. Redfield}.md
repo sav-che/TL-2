@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/item/103624#page/635/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33190092) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Redfield, John Howard (1815-1895), American businessman, botanist, zoologist and palaeontologist; member of a car-wheel manufacturing firm in Philadelphia; after retirement (1885) devoting himself to building up the herbarium of the Academy of Natural Sciences, Philadelphia. (*Redfield*).
+Redfield, John Howard (1815-1895), American businessman, botanist, zoologist and palaeontologist; member of a car-wheel manufacturing firm in Philadelphia; after retirement (1885) devoting himself to building up the herbarium of the Academy of Natural Sciences, Philadelphia. 
+**Abbreviated name**: *Redfield*
 
 #### Herbarium and types
 

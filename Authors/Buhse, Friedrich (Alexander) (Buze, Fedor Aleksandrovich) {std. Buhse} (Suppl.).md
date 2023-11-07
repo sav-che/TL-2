@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103861#page/224/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33266521) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Buhse, Friedrich Alexander (Buze, Fedor Aleksandrovich) {std. Buhse}|first entry]] for this author
 
 ### Author
 
-\* Buhse, Friedrich \[Alexander\] (Buze, Fedor Aleksandrovich) (1821-1898), Latvian botanist, explorer and meteorologist, born at Riga, studied botany in Dorpat 1840-1842, studied in Berlin and Heidelberg 1842, Dr. phil. Heidelberg 1843, travelled in Dalmatia 1843, some time in St. Petersburg, in Armenia, Azerbaydzhan and Persia with Boissier 1847-1849, in Bersemünde, Livonia, 1857-1862, at Friedrichshof near Riga 1865-1888, later in Riga. (*Buhse*).
+\* Buhse, Friedrich \[Alexander\] (Buze, Fedor Aleksandrovich) (1821-1898), Latvian botanist, explorer and meteorologist, born at Riga, studied botany in Dorpat 1840-1842, studied in Berlin and Heidelberg 1842, Dr. phil. Heidelberg 1843, travelled in Dalmatia 1843, some time in St. Petersburg, in Armenia, Azerbaydzhan and Persia with Boissier 1847-1849, in Bersemünde, Livonia, 1857-1862, at Friedrichshof near Riga 1865-1888, later in Riga. 
+**Abbreviated name**: *Buhse*
 
 #### Herbarium and types
 

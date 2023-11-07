@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/item/104137#page/572/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33355643) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Monnet, Paul-Louis (x-1915), French botanist, consul-general of France in San Francisco 1912; died on the battle fields of France in World War I. (*Monnet*).
+Monnet, Paul-Louis (x-1915), French botanist, consul-general of France in San Francisco 1912; died on the battle fields of France in World War I. 
+**Abbreviated name**: *Monnet*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103253#page/411/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Irénée-Marie, Frère (Thomas Joseph Caron) (1898-x), Canadian botanist and clergyman; with the Frères de l'Instruction chrétienne at La Pointe-du-Lac and Laprairie, Québec. (*Irénée-Marie*).
+Irénée-Marie, Frère (Thomas Joseph Caron) (1898-x), Canadian botanist and clergyman; with the Frères de l'Instruction chrétienne at La Pointe-du-Lac and Laprairie, Québec. 
+**Abbreviated name**: *Irénée-Marie*
 
 #### Herbarium and types
 

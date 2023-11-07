@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/item/104077#page/894/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/page/33334019) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steinvorth, Heinrich (1817-1905), German (Hannoverian) botanist and high school teacher at the Johanneum, Lüneburg; later in retirement at Hannover. (*Steinvorth*).
+Steinvorth, Heinrich (1817-1905), German (Hannoverian) botanist and high school teacher at the Johanneum, Lüneburg; later in retirement at Hannover. 
+**Abbreviated name**: *Steinvorth*
 
 #### Herbarium and types
 

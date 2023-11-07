@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/item/103835#page/167/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33260145) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dujarric de la Rivière, René (1885-1969), French physician and botanist, born at Excideuil 19 Apr 1885, studied medicine at Bordeaux, later at Lyon and Paris, worked at the Hôpital Pasteur 1910, "thèse de médecine" 1913, studied also at the Sorbonne, Dr. sci. 1929, secretary general at Institut Pasteur 1941, after the war as sub-director, retired in 1959. (*Dujarric*).
+Dujarric de la Rivière, René (1885-1969), French physician and botanist, born at Excideuil 19 Apr 1885, studied medicine at Bordeaux, later at Lyon and Paris, worked at the Hôpital Pasteur 1910, "thèse de médecine" 1913, studied also at the Sorbonne, Dr. sci. 1929, secretary general at Institut Pasteur 1941, after the war as sub-director, retired in 1959. 
+**Abbreviated name**: *Dujarric*
 
 #### Herbarium and types
 

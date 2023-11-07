@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103835#page/157/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33260135) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dürken, Bernhard Heinrich (1881-?), German biologist, mainly zoologist, born 20 Sep 1881 at Geeste an der Ems, working in Göttingen. (*Dürken*).
+Dürken, Bernhard Heinrich (1881-?), German biologist, mainly zoologist, born 20 Sep 1881 at Geeste an der Ems, working in Göttingen. 
+**Abbreviated name**: *Dürken*
 
 #### Herbarium and types
 

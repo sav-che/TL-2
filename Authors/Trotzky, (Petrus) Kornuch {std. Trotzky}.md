@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/103683#page/519/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33212551) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trotzky, \[Petrus\] Kornuch (1803-1877), Russian botanist; Dr. phil. Dorpat 1832, student of C.F. v. Ledebour. (*Trotzky*).
+Trotzky, \[Petrus\] Kornuch (1803-1877), Russian botanist; Dr. phil. Dorpat 1832, student of C.F. v. Ledebour. 
+**Abbreviated name**: *Trotzky*
 
 #### Herbarium and types
 

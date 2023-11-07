@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103835#page/221/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33260199) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dutoit, Daniel (fl. 1924-1937), Swiss botanist, Dr. ès Sciences in 1924, since 1923 at Lausanne as assistant at the botanical laboratory, collected plants in Switzerland, Tunisia, Morocco, and Algeria, a.o. with J. Briquet. (*D. Dutoit*).
+Dutoit, Daniel (fl. 1924-1937), Swiss botanist, Dr. ès Sciences in 1924, since 1923 at Lausanne as assistant at the botanical laboratory, collected plants in Switzerland, Tunisia, Morocco, and Algeria, a.o. with J. Briquet. 
+**Abbreviated name**: *D. Dutoit*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/103860#page/108/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33265775) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chevallier, Louis Pierre Désiré (1852-1938), French clergyman and botanist, born at Précigné, Sarthe, explorer and botanical collector of the Algerian Sahara, teacher at the Petit Séminaire d'Autun. (*L. Chevall.*).
+Chevallier, Louis Pierre Désiré (1852-1938), French clergyman and botanist, born at Précigné, Sarthe, explorer and botanical collector of the Algerian Sahara, teacher at the Petit Séminaire d'Autun. 
+**Abbreviated name**: *L. Chevall.*
 
 #### Herbarium and types
 

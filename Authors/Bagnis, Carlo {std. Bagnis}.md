@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103858#page/265/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33264980) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bagnis, Carlo (1854-1879), Italian mycologist, educated at Torino, studied medicine in Roma 1871, Dr. med. ib. 1877, turned to mycology under the influence of G. de Notaris, Prix Des Mazière 1875, died as the result of an infection obtained at a botanical excursion in the Roman Campagna. (*Bagnis*).
+Bagnis, Carlo (1854-1879), Italian mycologist, educated at Torino, studied medicine in Roma 1871, Dr. med. ib. 1877, turned to mycology under the influence of G. de Notaris, Prix Des Mazière 1875, died as the result of an infection obtained at a botanical excursion in the Roman Campagna. 
+**Abbreviated name**: *Bagnis*
 
 #### Herbarium and types
 

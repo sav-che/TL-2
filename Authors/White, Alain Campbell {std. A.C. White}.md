@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103250#page/306/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33066586) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-White, Alain Campbell (1880-?), American botanist; AB Harvard 1902; AM Columbia Univ. 1904. (*A.C. White*).
+White, Alain Campbell (1880-?), American botanist; AB Harvard 1902; AM Columbia Univ. 1904. 
+**Abbreviated name**: *A.C. White*
 
 #### Herbarium and types
 

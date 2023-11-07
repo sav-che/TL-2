@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103859#page/205/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265392) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blake, Stanley Thatcher (1911-1973), Australian botanist, born at Brisbane, Queensland on 3 September 1911, educated at the University of Queensland, M. Sc. 1934 (D. Sc. same university 1956), travelled 1935-1937 in W. Queensland, worked on potential rubber-production plants 1936-1946, from 1946-1973 at the Brisbane Queensland Herbarium. (*S.T. Blake*).
+Blake, Stanley Thatcher (1911-1973), Australian botanist, born at Brisbane, Queensland on 3 September 1911, educated at the University of Queensland, M. Sc. 1934 (D. Sc. same university 1956), travelled 1935-1937 in W. Queensland, worked on potential rubber-production plants 1936-1946, from 1946-1973 at the Brisbane Queensland Herbarium. 
+**Abbreviated name**: *S.T. Blake*
 
 #### Herbarium and types
 

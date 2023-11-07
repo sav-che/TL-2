@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103861#page/408/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33266705) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cara, Alberto (1847-?), Italian naturalist and archeologist at the botanical garden of Cagliari. (*Cara*).
+Cara, Alberto (1847-?), Italian naturalist and archeologist at the botanical garden of Cagliari. 
+**Abbreviated name**: *Cara*
 
 #### Herbarium and types
 

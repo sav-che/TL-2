@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/item/103833#page/136/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259170) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Debat, Louis {std. Debat}|first entry]] for this author
 
 ### Author
 
-\* Debat, Louis (1822-1906), French bryologist and lichenologist, born at Lyon, "Chef de service au Crédit Lyonnais", one of the founders of the Société botanique de Lyon, "doyen des bryologues lyonnais et jurassiens", explored the region around Lyon and Switzerland. (*Debat*).
+\* Debat, Louis (1822-1906), French bryologist and lichenologist, born at Lyon, "Chef de service au Crédit Lyonnais", one of the founders of the Société botanique de Lyon, "doyen des bryologues lyonnais et jurassiens", explored the region around Lyon and Switzerland. 
+**Abbreviated name**: *Debat*
 
 #### Herbarium and types
 

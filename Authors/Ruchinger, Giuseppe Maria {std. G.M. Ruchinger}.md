@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/item/103624#page/981/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/page/33190438) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruchinger, Giuseppe Maria (1809-1879), Italian gardener and botanist at the botanical garden of Venetia; succeeding his father Giuseppe \[Josef\] Ruchinger (1761-1847) as director of this garden. (*G.M. Ruchinger*).
+Ruchinger, Giuseppe Maria (1809-1879), Italian gardener and botanist at the botanical garden of Venetia; succeeding his father Giuseppe \[Josef\] Ruchinger (1761-1847) as director of this garden. 
+**Abbreviated name**: *G.M. Ruchinger*
 
 #### Herbarium and types
 

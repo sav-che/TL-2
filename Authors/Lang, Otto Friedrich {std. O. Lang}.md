@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/item/103253#page/771/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lang, Otto Friedrich (1817-1847), German botanist at Verden an der Aller in the former province of Hannover. (*O. Lang*).
+Lang, Otto Friedrich (1817-1847), German botanist at Verden an der Aller in the former province of Hannover. 
+**Abbreviated name**: *O. Lang*
 
 #### Herbarium and types
 

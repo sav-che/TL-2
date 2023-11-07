@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/103253#page/145/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33068361) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hedrick, Joyce (Mrs Volney Kurt Jones) (1897-x), American lichenologist at Ann Arbor. (*J. Hedrick*).
+Hedrick, Joyce (Mrs Volney Kurt Jones) (1897-x), American lichenologist at Ann Arbor. 
+**Abbreviated name**: *J. Hedrick*
 
 #### Herbarium and types
 

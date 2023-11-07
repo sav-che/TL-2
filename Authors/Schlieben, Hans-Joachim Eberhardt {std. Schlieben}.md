@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/104077#page/237/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33333362) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlieben, Hans-Joachim Eberhardt (1902-1975), German (Saxonian) botanist and plant collector; studied horticulture at Geisenheim a. Rhein; collected for Berlin-Dahlem in Tanganyika Territory (Tanzania) 1930-1935; in Germany until 1955 (part of the time at the Forestry Institute, Hamburg/Reinbek); emigrated to South Africa 1955; technical officer at the National Herbarium of South Africa 1956-1973; died in Germany. (*Schlieben*).
+Schlieben, Hans-Joachim Eberhardt (1902-1975), German (Saxonian) botanist and plant collector; studied horticulture at Geisenheim a. Rhein; collected for Berlin-Dahlem in Tanganyika Territory (Tanzania) 1930-1935; in Germany until 1955 (part of the time at the Forestry Institute, Hamburg/Reinbek); emigrated to South Africa 1955; technical officer at the National Herbarium of South Africa 1956-1973; died in Germany. 
+**Abbreviated name**: *Schlieben*
 
 #### Herbarium and types
 

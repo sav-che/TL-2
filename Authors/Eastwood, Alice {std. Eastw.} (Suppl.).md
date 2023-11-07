@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/item/103835#page/247/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33260225) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eastwood, Alice {std. Eastw.}|first entry]] for this author
 
 ### Author
 
-\* Eastwood, Alice (1859-1953), Canadian later American botanist, born 19 Jan 1859 in Toronto, Canada, moved to Denver, Colorado in 1880, taught at the East Denver High School after graduation, came as tourist to California in 1891, returned to Colorado, but came back to California in 1892 and stayed for 60 years, died 30 Oct 1953 at San Francisco. (*Eastw.*).
+\* Eastwood, Alice (1859-1953), Canadian later American botanist, born 19 Jan 1859 in Toronto, Canada, moved to Denver, Colorado in 1880, taught at the East Denver High School after graduation, came as tourist to California in 1891, returned to Colorado, but came back to California in 1892 and stayed for 60 years, died 30 Oct 1953 at San Francisco. 
+**Abbreviated name**: *Eastw.*
 
 #### Herbarium and types
 

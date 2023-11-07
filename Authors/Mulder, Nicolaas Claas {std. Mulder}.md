@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/item/104137#page/674/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33355745) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mulder, Nicolaas "Claas" (1796-1867), Dutch botanist; Dr. med. Leiden 1818; practicing physician at Makkum 1818-1822; professor of botany, chemistry and pharmacy at the Franeker Athenaeum 1822-1841; professor of chemistry at Groningen 1841-1852, id. natural history 1852-1866. (*Mulder*).
+Mulder, Nicolaas "Claas" (1796-1867), Dutch botanist; Dr. med. Leiden 1818; practicing physician at Makkum 1818-1822; professor of botany, chemistry and pharmacy at the Franeker Athenaeum 1822-1841; professor of chemistry at Groningen 1841-1852, id. natural history 1852-1866. 
+**Abbreviated name**: *Mulder*
 
 #### Herbarium and types
 

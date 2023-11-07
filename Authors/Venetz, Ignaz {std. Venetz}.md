@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/item/103683#page/709/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33212741) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Venetz, Ignaz (1788-1859), Swiss (Valais) botanist and geologist; military engineer with the French corps impérial des Ponts-et-Chaussées, and the Austrian forces after the Napoleonic occupation; civil engineer with the canton de Valais 1836-1858. (*Venetz*).
+Venetz, Ignaz (1788-1859), Swiss (Valais) botanist and geologist; military engineer with the French corps impérial des Ponts-et-Chaussées, and the Austrian forces after the Napoleonic occupation; civil engineer with the canton de Valais 1836-1858. 
+**Abbreviated name**: *Venetz*
 
 #### Herbarium and types
 

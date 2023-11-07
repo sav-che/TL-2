@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/item/103859#page/63/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33265250) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Behrens, \[Georg\] Wilhelm Julius (1854-1903), German (Braunschweig) botanist and teacher, educated at the Collegium Carolinum (Braunschweig) mainly interested in botany and chemistry; studied at the University of Göttingen, mainly with Johannes Reinke, Dr. phil. ib. 1875, studied with J. Sachs, Würzburg 1875-1876; highschool teacher at the technical school in Elberfeld, from ca. 1877-1878 active as a private scientist at Göttingen, author of various botanical handbooks and editor of the Zeitschrift für wissenschaftliche Mikroskopie. (*W.J. Behrens*).
+Behrens, \[Georg\] Wilhelm Julius (1854-1903), German (Braunschweig) botanist and teacher, educated at the Collegium Carolinum (Braunschweig) mainly interested in botany and chemistry; studied at the University of Göttingen, mainly with Johannes Reinke, Dr. phil. ib. 1875, studied with J. Sachs, Würzburg 1875-1876; highschool teacher at the technical school in Elberfeld, from ca. 1877-1878 active as a private scientist at Göttingen, author of various botanical handbooks and editor of the Zeitschrift für wissenschaftliche Mikroskopie. 
+**Abbreviated name**: *W.J. Behrens*
 
 #### Herbarium and types
 

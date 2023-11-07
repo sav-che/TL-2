@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/item/103624#page/993/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33190450) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruge, Georg (*fl*. 1893), German (Hannoverian) botanist; Dr. phil. München 1893. (*Ruge*).
+Ruge, Georg (*fl*. 1893), German (Hannoverian) botanist; Dr. phil. München 1893. 
+**Abbreviated name**: *Ruge*
 
 #### Herbarium and types
 

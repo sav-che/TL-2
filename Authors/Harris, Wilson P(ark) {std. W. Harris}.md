@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103253#page/85/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33068301) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harris, Wilson P(ark?) (fl. 1904), American cryptogamist; forester; resident of Brooklyn, N.Y.; collected in Western Montana. (*W. Harris*).
+Harris, Wilson P(ark?) (fl. 1904), American cryptogamist; forester; resident of Brooklyn, N.Y.; collected in Western Montana. 
+**Abbreviated name**: *W. Harris*
 
 #### Herbarium and types
 

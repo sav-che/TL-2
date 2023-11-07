@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/104137#page/284/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33355355) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malmgren, Anders Johan (1834-1897), Finnish zoologist and botanist; Dr. phil. Helsinki 1864; professor of zoology Helsinki 1869; inspector of fisheries 1874; governor of Uleåborg (Ostrobotnia) 1889. (*Malmgren*).
+Malmgren, Anders Johan (1834-1897), Finnish zoologist and botanist; Dr. phil. Helsinki 1864; professor of zoology Helsinki 1869; inspector of fisheries 1874; governor of Uleåborg (Ostrobotnia) 1889. 
+**Abbreviated name**: *Malmgren*
 
 #### Herbarium and types
 

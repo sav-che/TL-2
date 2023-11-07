@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/item/103253#page/896/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33069112) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leysser, Friedrich Wilhelm von (1731-1815), German administrator and botanist; "Preussischer Kriegs- und Domänenrat" at Halle a. Saalc. (*Leyss.*).
+Leysser, Friedrich Wilhelm von (1731-1815), German administrator and botanist; "Preussischer Kriegs- und Domänenrat" at Halle a. Saalc. 
+**Abbreviated name**: *Leyss.*
 
 #### Herbarium and types
 

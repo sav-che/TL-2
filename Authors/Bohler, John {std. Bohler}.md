@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103414#page/301/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bohler, John {std. Bohler} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bohler, John (1797-1872), British lichenologist. (*Bohler*).
+Bohler, John (1797-1872), British lichenologist. 
+**Abbreviated name**: *Bohler*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103858#page/234/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33264949) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baas Becking, Laurens \[Lourens\] Gerhard Marinus (1895-1963), Dutch botanist, studied briefly at the Technical University of Delft, from 1919 studying biology at the University of Utrecht, assistant at the Department of general botany with F.A.F.C. Went 1918, first doctoral examination 1919, studied with T.H. Morgan in California 1919-1921, Dr. phil. Utrecht 1921, professor of botany at Stanford University 1921-1927, lecturing in the Netherlands 1927-1928, director of the Jacques Loeb Marine Laboratory in Pacific Grove 1928-1930, professor of general botany at the University of Leiden 1930-1940, travelled in Australia 1936, director of the Buitenzorg Botanical Garden 1946-1948, with the United Nations South Pacific Commission in Noumea (New Caledonia), ultimately living in Australia. (*Baas Becking*).
+Baas Becking, Laurens \[Lourens\] Gerhard Marinus (1895-1963), Dutch botanist, studied briefly at the Technical University of Delft, from 1919 studying biology at the University of Utrecht, assistant at the Department of general botany with F.A.F.C. Went 1918, first doctoral examination 1919, studied with T.H. Morgan in California 1919-1921, Dr. phil. Utrecht 1921, professor of botany at Stanford University 1921-1927, lecturing in the Netherlands 1927-1928, director of the Jacques Loeb Marine Laboratory in Pacific Grove 1928-1930, professor of general botany at the University of Leiden 1930-1940, travelled in Australia 1936, director of the Buitenzorg Botanical Garden 1946-1948, with the United Nations South Pacific Commission in Noumea (New Caledonia), ultimately living in Australia. 
+**Abbreviated name**: *Baas Becking*
 
 #### Herbarium and types
 

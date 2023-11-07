@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103253#page/47/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33068263) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hall, Herman van (1830-1890), Dutch botanist and botanical lexicographer; son of H. C. van Hall; curator at the Rijksherbarium; from 1866 high school teacher at Middelburg. (*H. Hall*).
+Hall, Herman van (1830-1890), Dutch botanist and botanical lexicographer; son of H. C. van Hall; curator at the Rijksherbarium; from 1866 high school teacher at Middelburg. 
+**Abbreviated name**: *H. Hall*
 
 #### Herbarium and types
 

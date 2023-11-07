@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/104077#page/378/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schuette, Joachim Heinrich (1821-1908), German (Hanoverian) teacher; went to the United States in 1874; edited a newspaper at Green Bay, Wisconsin until 1884; enthusiastic plant collector, especially interested in native roses. (*J. Schuette*).
+Schuette, Joachim Heinrich (1821-1908), German (Hanoverian) teacher; went to the United States in 1874; edited a newspaper at Green Bay, Wisconsin until 1884; enthusiastic plant collector, especially interested in native roses. 
+**Abbreviated name**: *J. Schuette*
 
 #### Herbarium and types
 

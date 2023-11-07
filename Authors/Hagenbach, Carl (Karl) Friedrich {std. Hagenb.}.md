@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/103253#page/38/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33068254) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hagenbach, Carl \[Karl\] Friedrich (1771-1849), Swiss botanist; from 1795 practicing physician at Basel; from 1802-1820 professor of anatomy and botany at Basel University. (*Hagenb.*).
+Hagenbach, Carl \[Karl\] Friedrich (1771-1849), Swiss botanist; from 1795 practicing physician at Basel; from 1802-1820 professor of anatomy and botany at Basel University. 
+**Abbreviated name**: *Hagenb.*
 
 #### Herbarium and types
 

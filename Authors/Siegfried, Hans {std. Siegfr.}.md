@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/item/104077#page/607/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33333732) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siegfried, Hans (1837-1903), Swiss botanist and business man in Zofingen, id. from 1874-1881 in Zürich; dedicating himself to botany in Winterthur 1884-1896; in retirement at Bülach nr Zürich; specialist on *Potentilla*. (*Siegfr.*).
+Siegfried, Hans (1837-1903), Swiss botanist and business man in Zofingen, id. from 1874-1881 in Zürich; dedicating himself to botany in Winterthur 1884-1896; in retirement at Bülach nr Zürich; specialist on *Potentilla*. 
+**Abbreviated name**: *Siegfr.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 951](https://www.biodiversitylibrary.org/item/103414#page/999/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 951](https://www.biodiversitylibrary.org/page/33121082) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gleditsch, Johann Gottlieb {std. Gled.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gleditsch, Johann Gottlieb (1714-1786), German botanist and sylviculturist at Berlin. (*Gled.*).
+Gleditsch, Johann Gottlieb (1714-1786), German botanist and sylviculturist at Berlin. 
+**Abbreviated name**: *Gled.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/item/103835#page/454/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33260432) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ewing, Peter (1849-1913), British amateur botanist, born 13 Jul 1849 at Kinross, had a very poor early training, attended evening classes at Glasgow on a later age, appointed with the Phoenix Fire Insurance Association until his retirement in 1913, became member of the Glasgow Natural History Society in 1879, was president from 1902 to 1905, published on the plants around Glasgow, died 3 Aug 1913. (*Ewing*).
+Ewing, Peter (1849-1913), British amateur botanist, born 13 Jul 1849 at Kinross, had a very poor early training, attended evening classes at Glasgow on a later age, appointed with the Phoenix Fire Insurance Association until his retirement in 1913, became member of the Glasgow Natural History Society in 1879, was president from 1902 to 1905, published on the plants around Glasgow, died 3 Aug 1913. 
+**Abbreviated name**: *Ewing*
 
 #### Herbarium and types
 

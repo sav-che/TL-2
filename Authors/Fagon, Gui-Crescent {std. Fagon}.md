@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/item/103414#page/859/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fagon, Gui-Crescent (1638-1718), first body-physician of Louis XIV (1693), professor of botany at the Paris *Jardin du Roi* (1671-1708), director id. (1699-1718), honorary member of the Académie des Sciences 1699. Was instrumental in sending collectors abroad (e.g. Tournefort, Antoine de Jussieu) and attracted Tournefort, Vaillant and Antoine de Jussieu to the *Jardin du Roi*. (*Fagon*).
+Fagon, Gui-Crescent (1638-1718), first body-physician of Louis XIV (1693), professor of botany at the Paris *Jardin du Roi* (1671-1708), director id. (1699-1718), honorary member of the Académie des Sciences 1699. Was instrumental in sending collectors abroad (e.g. Tournefort, Antoine de Jussieu) and attracted Tournefort, Vaillant and Antoine de Jussieu to the *Jardin du Roi*. 
+**Abbreviated name**: *Fagon*
 
 #### Herbarium and types
 

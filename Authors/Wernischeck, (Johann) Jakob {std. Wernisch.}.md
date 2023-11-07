@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/item/103250#page/255/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33066535) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wernischeck, \[Johann\] Jakob (1743-1804), Hungarian-born Austrian physician and botanist; studied and practiced in Vienna. (*Wernisch.*).
+Wernischeck, \[Johann\] Jakob (1743-1804), Hungarian-born Austrian physician and botanist; studied and practiced in Vienna. 
+**Abbreviated name**: *Wernisch.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103861#page/433/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33266730) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carrington, Benjamin {std. Carrington}|first entry]] for this author
 
 ### Author
 
-\* Carrington, Benjamin (1827-1893), British physician and bryologist, born at Lincoln, studied at Liverpool and at the University of Edinburgh, apprenticed at Liverpool, graduated M.R.C.S. Eng. 1850 and M.D. Edinburgh 1851, practised at Radcliffe near Manchester and subsequently at Lincoln, Yeadon, Southport and Eccles, Medical officer of Health 1871-1891, ultimately at Brighton. (*Carrington*).
+\* Carrington, Benjamin (1827-1893), British physician and bryologist, born at Lincoln, studied at Liverpool and at the University of Edinburgh, apprenticed at Liverpool, graduated M.R.C.S. Eng. 1850 and M.D. Edinburgh 1851, practised at Radcliffe near Manchester and subsequently at Lincoln, Yeadon, Southport and Eccles, Medical officer of Health 1871-1891, ultimately at Brighton. 
+**Abbreviated name**: *Carrington*
 
 #### Herbarium and types
 

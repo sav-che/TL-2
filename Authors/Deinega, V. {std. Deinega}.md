@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103833#page/177/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259211) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deinega, V. (fl. 1898), Russian botanist, assistant at the Botanical Institute of the Imperial University in Moscow. (*Deinega*).
+Deinega, V. (fl. 1898), Russian botanist, assistant at the Botanical Institute of the Imperial University in Moscow. 
+**Abbreviated name**: *Deinega*
 
 #### Herbarium and types
 

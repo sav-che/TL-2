@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103683#page/232/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33212264) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Terletzki, Paul (1863-?), German (Prussian) botanist; studied in Königsberg and Strassburg; student of R. Caspary; Dr. phil. Königsberg 1884. (*Terletzki*).
+Terletzki, Paul (1863-?), German (Prussian) botanist; studied in Königsberg and Strassburg; student of R. Caspary; Dr. phil. Königsberg 1884. 
+**Abbreviated name**: *Terletzki*
 
 #### Herbarium and types
 

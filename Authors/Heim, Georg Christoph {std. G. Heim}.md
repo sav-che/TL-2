@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/item/103253#page/163/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heim, Georg Christoph (1743-1807), German clergyman and botanist at Gumpelstadt. (*G. Heim*).
+Heim, Georg Christoph (1743-1807), German clergyman and botanist at Gumpelstadt. 
+**Abbreviated name**: *G. Heim*
 
 #### Herbarium and types
 

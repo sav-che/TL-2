@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103835#page/183/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33260161) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dupain, Victor Augustin (1857-1940), French pharmacist, born 11 Sep 1857 at Mothe Saint-Héray (Deux-Sèvres), studied at the École supérieure at Paris, pharmacist first class 27 Dec 1884, had a pharmacy on his home-town, was interested and published on fungi, died shortly before 4 Mar 1940. (*Dupain*).
+Dupain, Victor Augustin (1857-1940), French pharmacist, born 11 Sep 1857 at Mothe Saint-Héray (Deux-Sèvres), studied at the École supérieure at Paris, pharmacist first class 27 Dec 1884, had a pharmacy on his home-town, was interested and published on fungi, died shortly before 4 Mar 1940. 
+**Abbreviated name**: *Dupain*
 
 #### Herbarium and types
 

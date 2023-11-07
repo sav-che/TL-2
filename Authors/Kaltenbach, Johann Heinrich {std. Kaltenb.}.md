@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/103253#page/517/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33068733) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kaltenbach, Johann Heinrich (1807-1876), German botanist and entomologist; high school teacher at Hastenrieth (1815-1817), at Aachen (Aix-la-Chapelle) (1817-1876). (*Kaltenb.*).
+Kaltenbach, Johann Heinrich (1807-1876), German botanist and entomologist; high school teacher at Hastenrieth (1815-1817), at Aachen (Aix-la-Chapelle) (1817-1876). 
+**Abbreviated name**: *Kaltenb.*
 
 #### Herbarium and types
 

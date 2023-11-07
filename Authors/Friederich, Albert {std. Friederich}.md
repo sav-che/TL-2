@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103832#page/25/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33258513) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Friederich, Albert (1879-1961), German botanist (lichenologist), born 30 Jul 1879 in Cannstatt a. Neckar (Württemberg), attended Hochschule in Stuttgart and then the Univ. of Würzburg. (*Friederich*).
+Friederich, Albert (1879-1961), German botanist (lichenologist), born 30 Jul 1879 in Cannstatt a. Neckar (Württemberg), attended Hochschule in Stuttgart and then the Univ. of Würzburg. 
+**Abbreviated name**: *Friederich*
 
 #### Herbarium and types
 

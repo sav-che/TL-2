@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/item/103683#page/781/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogler, Johann Andreas (*fl*. 1781), German (Hessen) physician; Dr. med. Giessen 1781, later physician at Ems; brother of J.P. Vogler. (*J.A. Vogler*).
+Vogler, Johann Andreas (*fl*. 1781), German (Hessen) physician; Dr. med. Giessen 1781, later physician at Ems; brother of J.P. Vogler. 
+**Abbreviated name**: *J.A. Vogler*
 
 #### Herbarium and types
 

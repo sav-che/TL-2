@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/item/103253#page/259/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Höppner, Hans (1873-post 1934). German botanist. (*Hóppner*).
+Höppner, Hans (1873-post 1934). German botanist. 
+**Abbreviated name**: *Hóppner*
 
 #### Herbarium and types
 

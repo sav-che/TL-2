@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/103859#page/228/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33265415) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blodig, Carl. H. (1817-?), Moravian-born professor of medicine and pharmacy at the University of Graz, Dr. med. Wien 1843. (*Blodig*).
+Blodig, Carl. H. (1817-?), Moravian-born professor of medicine and pharmacy at the University of Graz, Dr. med. Wien 1843. 
+**Abbreviated name**: *Blodig*
 
 #### Herbarium and types
 

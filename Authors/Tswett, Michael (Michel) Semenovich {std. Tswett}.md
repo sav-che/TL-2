@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/item/103683#page/530/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33212562) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tswett, Michael \[Michel\] Semenovich (1872-1919), Russian (Italy-born) botanist; studied at Lausanne and Genève; Lic. sci. nat. Genève 1896 as student of M. Thury; assistant (1901-1902), lecturer (1902-1907) at the University of Warsaw; professor of botany and agronomy at the Veterinary Institute of Warsaw 1907; professor of botany and microbiology at the Polytechnic Institute ib. 1908-1915; professor of botany at Dorpat 1917; specially interested in botanical chromatography. (*Tswett*).
+Tswett, Michael \[Michel\] Semenovich (1872-1919), Russian (Italy-born) botanist; studied at Lausanne and Genève; Lic. sci. nat. Genève 1896 as student of M. Thury; assistant (1901-1902), lecturer (1902-1907) at the University of Warsaw; professor of botany and agronomy at the Veterinary Institute of Warsaw 1907; professor of botany and microbiology at the Polytechnic Institute ib. 1908-1915; professor of botany at Dorpat 1917; specially interested in botanical chromatography. 
+**Abbreviated name**: *Tswett*
 
 #### Herbarium and types
 

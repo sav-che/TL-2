@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103250#page/212/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33066492) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weimarck, \[August\] Hennig (1903-1980), Swedish botanist; studied at the University of Lund 1924-1928; assistant Botanical Museum, Lund 1928; travelled in Africa 1930-1931; Dr. phil. Lund 1935; lecturer in botany ib. 1935, curator of the Botanical Museum 1945, director of the botanical garden Gothenburg 1949; professor of systematic botany, Univ. Lund 1950-1969. (*Weim.*).
+Weimarck, \[August\] Hennig (1903-1980), Swedish botanist; studied at the University of Lund 1924-1928; assistant Botanical Museum, Lund 1928; travelled in Africa 1930-1931; Dr. phil. Lund 1935; lecturer in botany ib. 1935, curator of the Botanical Museum 1945, director of the botanical garden Gothenburg 1949; professor of systematic botany, Univ. Lund 1950-1969. 
+**Abbreviated name**: *Weim.*
 
 #### Herbarium and types
 

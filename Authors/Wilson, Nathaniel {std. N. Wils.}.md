@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103250#page/415/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33066695) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilson, Nathaniel (1809-1874), British (Scottish) gardener, trained at Kew; botanist on Jamaica 1846-1867. (*N. Wils.*).
+Wilson, Nathaniel (1809-1874), British (Scottish) gardener, trained at Kew; botanist on Jamaica 1846-1867. 
+**Abbreviated name**: *N. Wils.*
 
 #### Herbarium and types
 

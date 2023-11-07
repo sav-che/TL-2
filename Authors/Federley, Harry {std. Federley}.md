@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/item/103834#page/107/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33259589) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Federley, Harry (1879-1951), Finnish zoologist and geneticist, born 22 Mar 1879 in Viborg, moved to Helsinki 1885, natural sciences fil. kand. 1900, Dr. 1907 Univ. of Helsinki, named docent in zoology 1909, then genetics 1915 and finally Prof. of Genetics 1923, all Univ. of Helsinki, retired ca. 1948, died 13 Nov 1951. (*Federley*).
+Federley, Harry (1879-1951), Finnish zoologist and geneticist, born 22 Mar 1879 in Viborg, moved to Helsinki 1885, natural sciences fil. kand. 1900, Dr. 1907 Univ. of Helsinki, named docent in zoology 1909, then genetics 1915 and finally Prof. of Genetics 1923, all Univ. of Helsinki, retired ca. 1948, died 13 Nov 1951. 
+**Abbreviated name**: *Federley*
 
 #### Herbarium and types
 

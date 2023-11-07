@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103860#page/110/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33265777) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chibber, Hormasji Maneckji (1894-x), Agriculturist and botanist, some time with John Innes Institute and at agricultural College, Poona, India. (*Chibber*).
+Chibber, Hormasji Maneckji (1894-x), Agriculturist and botanist, some time with John Innes Institute and at agricultural College, Poona, India. 
+**Abbreviated name**: *Chibber*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/item/103859#page/334/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33265521) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boom, Boudewijn Karel (1903-1980), Dutch (Gorinchem born) botanist, specialized in cultivated plants, educated at the Gymnasium and the Instituut Wullings, studied at the Landbouwhogeschool at Wageningen 1922-1930, Dr. phil. ib. 1930, teacher at the state horticultural school at Boskoop 1930-1941, id. at Nijmegen 1941-1944, charged with the writing of a flora of the cultivated plants of the Netherlands by the Department of Agriculture from 1944. (*Boom*).
+Boom, Boudewijn Karel (1903-1980), Dutch (Gorinchem born) botanist, specialized in cultivated plants, educated at the Gymnasium and the Instituut Wullings, studied at the Landbouwhogeschool at Wageningen 1922-1930, Dr. phil. ib. 1930, teacher at the state horticultural school at Boskoop 1930-1941, id. at Nijmegen 1941-1944, charged with the writing of a flora of the cultivated plants of the Netherlands by the Department of Agriculture from 1944. 
+**Abbreviated name**: *Boom*
 
 #### Herbarium and types
 

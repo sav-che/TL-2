@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/item/104137#page/855/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33355926) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Opiz, Philipp Maximilian (1787-1858), Czech self-taught botanist and administrator; "Cameral Beamter" in Czaslau, 1805, in Pardubitz 1807, "Kanzelist" \[civil servant\] in Praha 1814, ultimately "k.k. Cameral-Forstconcipist." (*Opiz*).
+Opiz, Philipp Maximilian (1787-1858), Czech self-taught botanist and administrator; "Cameral Beamter" in Czaslau, 1805, in Pardubitz 1807, "Kanzelist" \[civil servant\] in Praha 1814, ultimately "k.k. Cameral-Forstconcipist." 
+**Abbreviated name**: *Opiz*
 
 #### Herbarium and types
 

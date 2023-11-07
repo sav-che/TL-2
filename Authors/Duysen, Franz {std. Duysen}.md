@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103835#page/235/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33260213) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duysen, Franz (1861-1924), German botanist, born 15 Feb 1861 at Flensburg, educated at the gymnasium at Flensburg ("Christianeum") and a humanistic gymnasium at Altona, studied natural sciences at Berlin, dissertation with Engler and Lindau 26 Oct 1906, in Oct 1908 at the "Landwirtschaftliche Hochschule", 1914 provisional director of the botanical institute, died 10 Nov 1924 at Berlin by carbon monoxide poisoning. (*Duysen*).
+Duysen, Franz (1861-1924), German botanist, born 15 Feb 1861 at Flensburg, educated at the gymnasium at Flensburg ("Christianeum") and a humanistic gymnasium at Altona, studied natural sciences at Berlin, dissertation with Engler and Lindau 26 Oct 1906, in Oct 1908 at the "Landwirtschaftliche Hochschule", 1914 provisional director of the botanical institute, died 10 Nov 1924 at Berlin by carbon monoxide poisoning. 
+**Abbreviated name**: *Duysen*
 
 #### Herbarium and types
 

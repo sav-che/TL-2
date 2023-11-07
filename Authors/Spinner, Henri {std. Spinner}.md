@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/item/104077#page/806/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33333931) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spinner, Henri (1875-1962), Swiss botanist; Dr. phil. Zürich 1902; lecturer (1902) and professor of botany at the Académie de Neuchâtel, later Université de Neuchâtel 1908-1946, also teacher at the Neuchâtel "Collège latin" 1902-1941. (*Spinner*).
+Spinner, Henri (1875-1962), Swiss botanist; Dr. phil. Zürich 1902; lecturer (1902) and professor of botany at the Académie de Neuchâtel, later Université de Neuchâtel 1908-1946, also teacher at the Neuchâtel "Collège latin" 1902-1941. 
+**Abbreviated name**: *Spinner*
 
 #### Herbarium and types
 

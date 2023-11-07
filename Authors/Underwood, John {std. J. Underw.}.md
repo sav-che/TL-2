@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/item/103683#page/597/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33212629) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Underwood, John (x-1834), British gardener; superintendent of the Botanic Garden, Glasnevin, Dublin 1798-1833. (*J. Underw.*).
+Underwood, John (x-1834), British gardener; superintendent of the Botanic Garden, Glasnevin, Dublin 1798-1833. 
+**Abbreviated name**: *J. Underw.*
 
 #### Herbarium and types
 

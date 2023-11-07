@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/104137#page/220/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33355291) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lyons, Albert Brown (1841-1926), American botanist. (*A. Lyons*).
+Lyons, Albert Brown (1841-1926), American botanist. 
+**Abbreviated name**: *A. Lyons*
 
 #### Herbarium and types
 

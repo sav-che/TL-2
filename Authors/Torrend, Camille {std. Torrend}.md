@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103683#page/409/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33212441) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torrend, Camille (1875-1961), French clergyman (S.J.) and mycologist; active in France, Portugal and Ireland; from 1910 in Brazil (Bahia), ultimately as professor of botany and phytopathology in the Escola agricola da Baia \[Bahia\]. (*Torrend*).
+Torrend, Camille (1875-1961), French clergyman (S.J.) and mycologist; active in France, Portugal and Ireland; from 1910 in Brazil (Bahia), ultimately as professor of botany and phytopathology in the Escola agricola da Baia \[Bahia\]. 
+**Abbreviated name**: *Torrend*
 
 #### Herbarium and types
 

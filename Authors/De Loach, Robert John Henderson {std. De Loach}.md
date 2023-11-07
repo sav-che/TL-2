@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103833#page/194/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259228) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-De Loach, Robert John Henderson (1873-?), American botanist at Georgia Experiment Station, involved in cotton breeding, born at Statesboro, Georgia 21 Dec 1873, A.B. Georgia 1904, fellow 1904-1905, A.M. 1905, botanist Georgia Agr. Exper. Sta. 1905-1908, prof. cotton industr., Georgia 1908-x. (*De Loach*).
+De Loach, Robert John Henderson (1873-?), American botanist at Georgia Experiment Station, involved in cotton breeding, born at Statesboro, Georgia 21 Dec 1873, A.B. Georgia 1904, fellow 1904-1905, A.M. 1905, botanist Georgia Agr. Exper. Sta. 1905-1908, prof. cotton industr., Georgia 1908-x. 
+**Abbreviated name**: *De Loach*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103414#page/473/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33120556) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caldesi, Lodovico {std. Caldesi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Caldesi, Lodovico (Ludovico) (1822-1884), Italian politician and botanist at Faenza. (*Caldesi*).
+Caldesi, Lodovico (Ludovico) (1822-1884), Italian politician and botanist at Faenza. 
+**Abbreviated name**: *Caldesi*
 
 #### Herbarium and types
 

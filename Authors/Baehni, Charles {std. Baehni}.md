@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103414#page/138/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baehni, Charles {std. Baehni} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baehni, Charles (1906-1964), Swiss botanist at Genève, first president of I.A.P.T. (*Baehni*).
+Baehni, Charles (1906-1964), Swiss botanist at Genève, first president of I.A.P.T. 
+**Abbreviated name**: *Baehni*
 
 #### Herbarium and types
 

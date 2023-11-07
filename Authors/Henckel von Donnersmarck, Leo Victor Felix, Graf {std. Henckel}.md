@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/103253#page/179/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33068395) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Henckel von Donnersmarck, Leo Victor Felix, Graf (1785-1861), German administrator, amateur botanist, and "treuer Mitarbeiter am Thesaurus literaturae botanicae." (Pritzel). (*Henckel*).
+Henckel von Donnersmarck, Leo Victor Felix, Graf (1785-1861), German administrator, amateur botanist, and "treuer Mitarbeiter am Thesaurus literaturae botanicae." (Pritzel). 
+**Abbreviated name**: *Henckel*
 
 #### Herbarium and types
 

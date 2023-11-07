@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/item/103624#page/722/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33190179) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinwardt, Caspar Georg Carl (1773-1854), German (Prussian)-born Dutch botanist; to Amsterdam in 1787; studied at the Amsterdam Athenaeum; professor of natural history Harderwijk 1800-1808; Dr. h.c. Harderwijk 1800; director of Louis Napoleon's "Jardin du Roi"; 1808-1810; id. of "Cabinet d'histoire naturelle" 1810-1814" and of 's Lands Kabinet van Natuurlijke Historie" 1814-1820; professor of natural history at the Amsterdam Athenaeum 1810-1815; director of agriculture Java 1816-1822, founding (18 Mai 1817) the Buitenzorg (Bogor) botanical garden; from 1823 (appointed 1820)-1845 professor of natural history at Leiden. (*Reinw.*).
+Reinwardt, Caspar Georg Carl (1773-1854), German (Prussian)-born Dutch botanist; to Amsterdam in 1787; studied at the Amsterdam Athenaeum; professor of natural history Harderwijk 1800-1808; Dr. h.c. Harderwijk 1800; director of Louis Napoleon's "Jardin du Roi"; 1808-1810; id. of "Cabinet d'histoire naturelle" 1810-1814" and of 's Lands Kabinet van Natuurlijke Historie" 1814-1820; professor of natural history at the Amsterdam Athenaeum 1810-1815; director of agriculture Java 1816-1822, founding (18 Mai 1817) the Buitenzorg (Bogor) botanical garden; from 1823 (appointed 1820)-1845 professor of natural history at Leiden. 
+**Abbreviated name**: *Reinw.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103414#page/299/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33120382) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boerlage, Jacob Gijsbert {std. Boerl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boerlage, Jacob Gijsbert (1849-1900), Dutch botanist at Leiden and Bogor. (*Boerl.*).
+Boerlage, Jacob Gijsbert (1849-1900), Dutch botanist at Leiden and Bogor. 
+**Abbreviated name**: *Boerl.*
 
 #### Herbarium and types
 

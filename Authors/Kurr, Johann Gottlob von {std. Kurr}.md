@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/item/103253#page/731/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kurr, Johann Gottlob von (1798-1870), German botanist and pharmacist; Dr. mod. Tübingen 1832; from 1812-1825 at various pharmacies, from 1832-1870 teacher at the "Gewerbeschule" at Stuttgart which became the polytechnical school in 1841; collected for the Esslingen Reiseverein. (*Kurr*).
+Kurr, Johann Gottlob von (1798-1870), German botanist and pharmacist; Dr. mod. Tübingen 1832; from 1812-1825 at various pharmacies, from 1832-1870 teacher at the "Gewerbeschule" at Stuttgart which became the polytechnical school in 1841; collected for the Esslingen Reiseverein. 
+**Abbreviated name**: *Kurr*
 
 #### Herbarium and types
 

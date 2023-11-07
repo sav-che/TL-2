@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103858#page/179/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33264894) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Arnoldi, Wladimir Mitrofanowitsch (1871-1924), Russian botanist (morphologist, algologist), educated at the first Moscow Gymnasium, studied at Moscow University 1889-1893, assistant ib. 1893-1901, from 1900-1901 also as unsalaried lecturer, at the Agricultural Institute of Novo-Alexandria 1901-1903, professor of botany and director of the Botanical Garden at the University of Charkow 1903-1919, to Java, Indonesia (10 Jan – 5 Jun 1909 at Buitenzorg/Bogor) 1908-1909, from 1909 also working on algae, founded the Biological Station in the Northern Donetz; working in the field in the Caucasus 1919-1921, at Moscow lecturing on hydrobiology at the university 1921-1924. (*Arnoldi*).
+Arnoldi, Wladimir Mitrofanowitsch (1871-1924), Russian botanist (morphologist, algologist), educated at the first Moscow Gymnasium, studied at Moscow University 1889-1893, assistant ib. 1893-1901, from 1900-1901 also as unsalaried lecturer, at the Agricultural Institute of Novo-Alexandria 1901-1903, professor of botany and director of the Botanical Garden at the University of Charkow 1903-1919, to Java, Indonesia (10 Jan – 5 Jun 1909 at Buitenzorg/Bogor) 1908-1909, from 1909 also working on algae, founded the Biological Station in the Northern Donetz; working in the field in the Caucasus 1919-1921, at Moscow lecturing on hydrobiology at the university 1921-1924. 
+**Abbreviated name**: *Arnoldi*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/item/104137#page/296/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33355367) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mann, Robert James (1817-1886), British physician (MD St. Andrews 1854) and botanist at Norwich and Buxton; in Natal 1857-1864. (*R. Mann*).
+Mann, Robert James (1817-1886), British physician (MD St. Andrews 1854) and botanist at Norwich and Buxton; in Natal 1857-1864. 
+**Abbreviated name**: *R. Mann*
 
 #### Herbarium and types
 

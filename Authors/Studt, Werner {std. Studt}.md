@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103683#page/66/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33212060) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Studt, Werner (1894-x), German (Hamburg) botanist; studied at Göttingen; on active duty 1915; continued his studies in Kiel; state teacher's examination Hamburg 1922; Dr. phil. Hamburg 1926. (*Studt*).
+Studt, Werner (1894-x), German (Hamburg) botanist; studied at Göttingen; on active duty 1915; continued his studies in Kiel; state teacher's examination Hamburg 1922; Dr. phil. Hamburg 1926. 
+**Abbreviated name**: *Studt*
 
 #### Herbarium and types
 

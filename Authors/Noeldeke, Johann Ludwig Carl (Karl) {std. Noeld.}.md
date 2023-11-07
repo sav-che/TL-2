@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/item/104137#page/777/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noeldeke, Johann Ludwig Carl (Karl) (1815-1898), German botanist and magistrate at Goslar 1852; at Nienburg 1857; from 1865 counsel of the court of appeals at Celle; Dr. jur. 1852. (*Noeld.*).
+Noeldeke, Johann Ludwig Carl (Karl) (1815-1898), German botanist and magistrate at Goslar 1852; at Nienburg 1857; from 1865 counsel of the court of appeals at Celle; Dr. jur. 1852. 
+**Abbreviated name**: *Noeld.*
 
 #### Herbarium and types
 

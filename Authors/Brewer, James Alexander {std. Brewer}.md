@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103414#page/369/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33120452) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brewer, James Alexander {std. Brewer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brewer, James Alexander (1818-1886), British botanist who settled in Australia. (*Brewer*).
+Brewer, James Alexander (1818-1886), British botanist who settled in Australia. 
+**Abbreviated name**: *Brewer*
 
 #### Herbarium and types
 

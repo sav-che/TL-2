@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/item/104077#page/515/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 501](https://www.biodiversitylibrary.org/page/33333640) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sélys-Longchamps, Michel Edmond Baron de (1813-1900), Belgian zoologist, botanist and politician, member of the Belgian House of Representatives 1848-1855, of the Senate 1855-1898; living on his property of Longchamps near Liège. (*Sélys-Longch.*).
+Sélys-Longchamps, Michel Edmond Baron de (1813-1900), Belgian zoologist, botanist and politician, member of the Belgian House of Representatives 1848-1855, of the Senate 1855-1898; living on his property of Longchamps near Liège. 
+**Abbreviated name**: *Sélys-Longch.*
 
 #### Herbarium and types
 

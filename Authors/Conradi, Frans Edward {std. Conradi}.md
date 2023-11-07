@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103860#page/316/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265983) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conradi, Frans Edward (fl. 1890-1907), Norwegian botanist at Trondheim. (*Conradi*).
+Conradi, Frans Edward (fl. 1890-1907), Norwegian botanist at Trondheim. 
+**Abbreviated name**: *Conradi*
 
 #### Herbarium and types
 

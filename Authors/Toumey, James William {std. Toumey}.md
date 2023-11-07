@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/103683#page/420/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33212452) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Toumey, James William (1865-1932), United States forestry botanist; studied at Michigan Agricultural College; B.A. 1889, M.S. 1896; Dr. Sci. Syracuse 1920; instructor in botany Mich. Agr. Coll. 1890-1891; curator of botany State College and Experiment Station, Tucson, Arizona 1891-1898; superintendent of tree planting U.S.D.A. 1899-1900; asst. prof. forestry Yale 1901-1903, professor and director of the Marsh Botanical Garden, Yale 1903-1910; Moris K. Jesup professor of silviculture Forest School, Yale 1910-1932. (*Toumey*).
+Toumey, James William (1865-1932), United States forestry botanist; studied at Michigan Agricultural College; B.A. 1889, M.S. 1896; Dr. Sci. Syracuse 1920; instructor in botany Mich. Agr. Coll. 1890-1891; curator of botany State College and Experiment Station, Tucson, Arizona 1891-1898; superintendent of tree planting U.S.D.A. 1899-1900; asst. prof. forestry Yale 1901-1903, professor and director of the Marsh Botanical Garden, Yale 1903-1910; Moris K. Jesup professor of silviculture Forest School, Yale 1910-1932. 
+**Abbreviated name**: *Toumey*
 
 #### Herbarium and types
 

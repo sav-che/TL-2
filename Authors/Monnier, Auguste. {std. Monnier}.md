@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/item/104137#page/572/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33355643) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Monnier, Auguste. (1800-?), French botanist at Nancy. (*Monnier*).
+Monnier, Auguste. (1800-?), French botanist at Nancy. 
+**Abbreviated name**: *Monnier*
 
 #### Herbarium and types
 

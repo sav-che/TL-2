@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/item/103414#page/714/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33120797) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Doidge, Ethel Mary {std. Doidge} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Doidge, Ethel Mary (1887-1965), South African mycologist. (*Doidge*).
+Doidge, Ethel Mary (1887-1965), South African mycologist. 
+**Abbreviated name**: *Doidge*
 
 #### Herbarium and types
 

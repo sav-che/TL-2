@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 646](https://www.biodiversitylibrary.org/item/103414#page/694/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 646](https://www.biodiversitylibrary.org/page/33120777) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Diels, Friedrich Ludwig Emil {std. Diels} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Diels, Friedrich Ludwig Emil (1874-1945), German botanist at Berlin. (*Diels*).
+Diels, Friedrich Ludwig Emil (1874-1945), German botanist at Berlin. 
+**Abbreviated name**: *Diels*
 
 #### Herbarium and types
 

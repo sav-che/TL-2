@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/item/104077#page/820/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33333945) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sprengel, Kurt \[Polycarp Joachim\] (1766-1833), German (Prussian) botanist and physician; studied medicine at Halle 1785-1787; Dr. med. ib. 1787; lecturer in forensic medicine and history of medicine at Halle, also practicing medicine 1787; extraordinary professor of medicine 1787-1795; ordinary professor id. 1795-17975 professor of botany 1797-1833. (*Spreng.*).
+Sprengel, Kurt \[Polycarp Joachim\] (1766-1833), German (Prussian) botanist and physician; studied medicine at Halle 1785-1787; Dr. med. ib. 1787; lecturer in forensic medicine and history of medicine at Halle, also practicing medicine 1787; extraordinary professor of medicine 1787-1795; ordinary professor id. 1795-17975 professor of botany 1797-1833. 
+**Abbreviated name**: *Spreng.*
 
 #### Herbarium and types
 

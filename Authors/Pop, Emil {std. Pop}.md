@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103624#page/350/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33189807) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pop, Emil (1897-1974), Roumanian botanist; Dr. phil. Cluj 1928; habil. ib. 1932; connected with the chair of systematic botany, Cluj from 1920 (assistant 1922, professor 1939). (*Pop*).
+Pop, Emil (1897-1974), Roumanian botanist; Dr. phil. Cluj 1928; habil. ib. 1932; connected with the chair of systematic botany, Cluj from 1920 (assistant 1922, professor 1939). 
+**Abbreviated name**: *Pop*
 
 #### Herbarium and types
 

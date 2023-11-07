@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103624#page/142/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33189599) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Payson, Edwin Blake (1893-1927), American botanist; Dr. phil. Univ. Washington 1921; BA Univ. Wyoming 1917; professor of botany Univ. Wyoming 1921-1927. (*Payson*).
+Payson, Edwin Blake (1893-1927), American botanist; Dr. phil. Univ. Washington 1921; BA Univ. Wyoming 1917; professor of botany Univ. Wyoming 1921-1927. 
+**Abbreviated name**: *Payson*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/item/104137#page/169/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33355240) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Longo, Biagio (1872-1950), Italian botanist; assistant at the botanical institute in Rome 1896, professor of botany at Siena 1907-1915; director of the botanical garden of Pisa 1915-1929; professor of botany at Napoli 1929-1942. (*Longo*).
+Longo, Biagio (1872-1950), Italian botanist; assistant at the botanical institute in Rome 1896, professor of botany at Siena 1907-1915; director of the botanical garden of Pisa 1915-1929; professor of botany at Napoli 1929-1942. 
+**Abbreviated name**: *Longo*
 
 #### Herbarium and types
 

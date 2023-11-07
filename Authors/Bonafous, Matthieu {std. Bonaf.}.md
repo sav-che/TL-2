@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/item/103859#page/314/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265501) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonafous, Matthieu (1793-1852), French agronomist and botanist, active on various agricultural establishments in France, sometime director of the Agronomic Institute in Torino, ultimately again France, dealt especially with the improvement of varieties of mulberry and maize (Indian corn). (*Bonaf.*).
+Bonafous, Matthieu (1793-1852), French agronomist and botanist, active on various agricultural establishments in France, sometime director of the Agronomic Institute in Torino, ultimately again France, dealt especially with the improvement of varieties of mulberry and maize (Indian corn). 
+**Abbreviated name**: *Bonaf.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/item/103250#page/253/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33066533) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wernekinck, Franz (1764-1839), German (Westphalian) botanist and physician; studied in Göttingen; practicing physician and professor of botany in Münster (Wstf.). (*Wernekinck*).
+Wernekinck, Franz (1764-1839), German (Westphalian) botanist and physician; studied in Göttingen; practicing physician and professor of botany in Münster (Wstf.). 
+**Abbreviated name**: *Wernekinck*
 
 #### Herbarium and types
 

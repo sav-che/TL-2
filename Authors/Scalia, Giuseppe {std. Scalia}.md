@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/104077#page/110/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33333235) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scalia, Giuseppe (1876-?), Italian mycologist; assistant at the college for viticulture at Catania, Sicilia. (*Scalia*).
+Scalia, Giuseppe (1876-?), Italian mycologist; assistant at the college for viticulture at Catania, Sicilia. 
+**Abbreviated name**: *Scalia*
 
 #### Herbarium and types
 

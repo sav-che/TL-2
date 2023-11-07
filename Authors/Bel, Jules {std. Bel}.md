@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/item/103859#page/71/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bel, Jules (fl. 1880-1900), French botanist and highschool teacher at the Pensionat Stanislas Saint Sulpice, Tarn (S.W. France). (*Bel*).
+Bel, Jules (fl. 1880-1900), French botanist and highschool teacher at the Pensionat Stanislas Saint Sulpice, Tarn (S.W. France). 
+**Abbreviated name**: *Bel*
 
 #### Herbarium and types
 

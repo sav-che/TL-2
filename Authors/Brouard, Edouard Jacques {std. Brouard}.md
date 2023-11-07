@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103414#page/408/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33120491) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brouard, Edouard Jacques (*fl*. 1820), French physician and botanist at Évreux. (*Brouard*).
+Brouard, Edouard Jacques (*fl*. 1820), French physician and botanist at Évreux. 
+**Abbreviated name**: *Brouard*
 
 #### Herbarium and types
 

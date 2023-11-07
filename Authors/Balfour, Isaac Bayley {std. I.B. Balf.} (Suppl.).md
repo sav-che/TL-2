@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103858#page/308/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265023) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balfour, (Sir) Isaac Bayley {std. I.B. Balf.}|first entry]] for this author
 
 ### Author
 
-\* Balfour, Isaac Bayley (1853-1922), British (Scottish) botanist, studied at the University of Edinburgh, B.S. 1873, Dr. Sci. 1875, B.M. 1877, specializing in botany at Würzburg and Strassburg; with the transit of Venus exp. Rodriguez Islands 1874, collected on Socotra 1879-1880, professor of botany University of Glasgow 1879-1884, Sherardian professor of botany at Oxford 1884, professor of botany Edinburgh and queen's botanist in Scotland 1888-1922, son of J.H. Balfour. (*I.B. Balf.*).
+\* Balfour, Isaac Bayley (1853-1922), British (Scottish) botanist, studied at the University of Edinburgh, B.S. 1873, Dr. Sci. 1875, B.M. 1877, specializing in botany at Würzburg and Strassburg; with the transit of Venus exp. Rodriguez Islands 1874, collected on Socotra 1879-1880, professor of botany University of Glasgow 1879-1884, Sherardian professor of botany at Oxford 1884, professor of botany Edinburgh and queen's botanist in Scotland 1888-1922, son of J.H. Balfour. 
+**Abbreviated name**: *I.B. Balf.*
 
 #### Herbarium and types
 

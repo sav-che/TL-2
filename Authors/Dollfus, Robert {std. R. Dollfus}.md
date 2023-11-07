@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/item/103835#page/42/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33260020) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dollfus, Robert (fl. 1919), French botanist with the Association des Naturalistes de Nice et des Alpes-Maritimes. (*R. Dollfus*).
+Dollfus, Robert (fl. 1919), French botanist with the Association des Naturalistes de Nice et des Alpes-Maritimes. 
+**Abbreviated name**: *R. Dollfus*
 
 #### Herbarium and types
 

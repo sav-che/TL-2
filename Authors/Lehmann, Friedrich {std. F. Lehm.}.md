@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/item/103253#page/845/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lehmann, Friedrich (*fl*. 1886), German mycologist at Münster. (*F. Lehm.*).
+Lehmann, Friedrich (*fl*. 1886), German mycologist at Münster. 
+**Abbreviated name**: *F. Lehm.*
 
 #### Herbarium and types
 

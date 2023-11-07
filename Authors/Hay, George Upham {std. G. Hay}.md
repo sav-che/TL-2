@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103253#page/133/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33068349) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hay, George Upham (1844-1913), Canadian algologist and high school teacher at St. John, New Brunswick. (*G. Hay*).
+Hay, George Upham (1844-1913), Canadian algologist and high school teacher at St. John, New Brunswick. 
+**Abbreviated name**: *G. Hay*
 
 #### Herbarium and types
 

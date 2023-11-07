@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103835#page/238/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33260216) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dykes, William Rickatson (1877-1925), British schoolmaster and botanist, born 4 Nov 1877, educated at the City of London School, went to Wadham College, Oxford, B.A. 1900, at the Sorbonne in Paris for a year, received the L.-ès-Lettres, modern languages, master at Charterhouse School 1903-1919, secretary Roy. Hort. Soc. 1920-1925, worked on Iris and Tulipa, died 1 Dec 1925 as a result of a motor accident, recieved a week before his death the Victoria Medal of Honour of the Royal Horticultural Society. (*Dykes*).
+Dykes, William Rickatson (1877-1925), British schoolmaster and botanist, born 4 Nov 1877, educated at the City of London School, went to Wadham College, Oxford, B.A. 1900, at the Sorbonne in Paris for a year, received the L.-ès-Lettres, modern languages, master at Charterhouse School 1903-1919, secretary Roy. Hort. Soc. 1920-1925, worked on Iris and Tulipa, died 1 Dec 1925 as a result of a motor accident, recieved a week before his death the Victoria Medal of Honour of the Royal Horticultural Society. 
+**Abbreviated name**: *Dykes*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103250#page/170/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33066450) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Watzel, Kajetán \[Cajetan\] (1812-1885), Bohemian physician and botanist at Böhmisch Leipa (Lípa). (*Watzel*).
+Watzel, Kajetán \[Cajetan\] (1812-1885), Bohemian physician and botanist at Böhmisch Leipa (Lípa). 
+**Abbreviated name**: *Watzel*
 
 #### Herbarium and types
 

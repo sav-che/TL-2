@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/item/103250#page/598/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zillig, Hermann (1893-1952), German (Franconian) botanist and phytopathologist; studied at the University of Würzburg 1912-1915; on active service 1915-1918; studying meteorology 1919-1920; assistant at the Botanical Institute of Würzburg 1920-1921; Dr. phil. 1920; with the Biologische Reichsanstalt für Land- und Forstwirtschaft at Trier 1921-1926, at Bernkastel-Kues 1926-1952. (*H. Zillig*).
+Zillig, Hermann (1893-1952), German (Franconian) botanist and phytopathologist; studied at the University of Würzburg 1912-1915; on active service 1915-1918; studying meteorology 1919-1920; assistant at the Botanical Institute of Würzburg 1920-1921; Dr. phil. 1920; with the Biologische Reichsanstalt für Land- und Forstwirtschaft at Trier 1921-1926, at Bernkastel-Kues 1926-1952. 
+**Abbreviated name**: *H. Zillig*
 
 #### Herbarium and types
 

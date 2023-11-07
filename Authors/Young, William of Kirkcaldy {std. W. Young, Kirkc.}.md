@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/item/103250#page/554/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33066834) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Young, William of Kirkcaldy (1865-1947), British botanist; sometime member of the staff of the Royal Botanic Garden, Edinburgh. (*W. Young, Kirkc.*).
+Young, William of Kirkcaldy (1865-1947), British botanist; sometime member of the staff of the Royal Botanic Garden, Edinburgh. 
+**Abbreviated name**: *W. Young, Kirkc.*
 
 #### Herbarium and types
 

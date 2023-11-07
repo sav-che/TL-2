@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/item/103833#page/225/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33259259) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Derks, Karsje (1868-1929), Dutch female botanist, born 25 Mai 1868 at Havelte, Drente, Netherlands, died 25 Sep 1925, at Klosters, Switzerland, where she had a pharmacy. (*Derks*).
+Derks, Karsje (1868-1929), Dutch female botanist, born 25 Mai 1868 at Havelte, Drente, Netherlands, died 25 Sep 1925, at Klosters, Switzerland, where she had a pharmacy. 
+**Abbreviated name**: *Derks*
 
 #### Herbarium and types
 

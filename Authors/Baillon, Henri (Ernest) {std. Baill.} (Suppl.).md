@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103858#page/282/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33264997) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baillon, Henri Ernest {std. Baill.}|first entry]] for this author
 
 ### Author
 
-\* Baillon, Henri \[Ernest\] (1827-1895), French botanist, born in Calais, studied at the Lycée de Versailles and studied medicine in Paris, intern at Hôpital de la Pitié, Paris, 1854, Dr. med. 1855, Dr. sci. nat. 1858, connected with the École de Médecine from 1858, succeeded Moquin-Tandon 1863 as professor of botany at the École de Médecine 1863-1895, Foreign member Linnean Society 1875, id. Royal Society 1894, encyclopedic plant taxonomist. (*Baill.*).
+\* Baillon, Henri \[Ernest\] (1827-1895), French botanist, born in Calais, studied at the Lycée de Versailles and studied medicine in Paris, intern at Hôpital de la Pitié, Paris, 1854, Dr. med. 1855, Dr. sci. nat. 1858, connected with the École de Médecine from 1858, succeeded Moquin-Tandon 1863 as professor of botany at the École de Médecine 1863-1895, Foreign member Linnean Society 1875, id. Royal Society 1894, encyclopedic plant taxonomist. 
+**Abbreviated name**: *Baill.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103833#page/153/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259187) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Decker, \[João\] Siegfried (fl. 1932-1936), German botanist working in Brazil. (*S. Decker*).
+Decker, \[João\] Siegfried (fl. 1932-1936), German botanist working in Brazil. 
+**Abbreviated name**: *S. Decker*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103835#page/259/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebert, Felix (fl. 1907), Swiss pharmacologist working at "Pharmazeutisches Institut des Eidgenössischen Polytechnikums" in Zürich, Ph.D. 1907 also in Zürich. (*F. Ebert*).
+Ebert, Felix (fl. 1907), Swiss pharmacologist working at "Pharmazeutisches Institut des Eidgenössischen Polytechnikums" in Zürich, Ph.D. 1907 also in Zürich. 
+**Abbreviated name**: *F. Ebert*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103832#page/401/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33258867) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Griffiths, David {std. D. Griffiths}|first entry]] for this author
 
 ### Author
 
-\* Griffiths, David (1867-1935), Welsh-born American mycologist, agrostologist and horticulturist, born 16 Aug 1867 in Aberystwyth but grew up in South Dakota, B.S. 1892 and M.S. 1893 South Dakota Agric. College (now South Dakota State Univ.), Brookings, Ph.D. 1900 Columbia Univ., New York, New York, Prof. of Botany, Univ. of Arizona, Tucson 1900-1901 where he became interested in cacti and xerophytic plants of s.w. U.S.A. and Mexico, asst. agrostologist 1901, agriculturist 1907 and horticulturist 1918 until retirement, all Bureau of Plant Industry, U.S.D.A., died 19 Mar 1935 in Washington (Takoma Park), D.C. (*D. Griffiths*).
+\* Griffiths, David (1867-1935), Welsh-born American mycologist, agrostologist and horticulturist, born 16 Aug 1867 in Aberystwyth but grew up in South Dakota, B.S. 1892 and M.S. 1893 South Dakota Agric. College (now South Dakota State Univ.), Brookings, Ph.D. 1900 Columbia Univ., New York, New York, Prof. of Botany, Univ. of Arizona, Tucson 1900-1901 where he became interested in cacti and xerophytic plants of s.w. U.S.A. and Mexico, asst. agrostologist 1901, agriculturist 1907 and horticulturist 1918 until retirement, all Bureau of Plant Industry, U.S.D.A., died 19 Mar 1935 in Washington (Takoma Park), D.C. 
+**Abbreviated name**: *D. Griffiths*
 
 #### Herbarium and types
 

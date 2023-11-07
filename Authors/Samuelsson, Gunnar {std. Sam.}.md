@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/104077#page/37/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33333160) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Samuelsson, Gunnar (1885-1944), Swedish botanist; Dr. phil. Uppsala 1913; lecturer Uppsala 1913; curator Bot. Mus., Univ. Uppsala 1914-1919; professor and director of the botany department of the Stockholm Riksmuseum from 1924-1944. (*Sam.*).
+Samuelsson, Gunnar (1885-1944), Swedish botanist; Dr. phil. Uppsala 1913; lecturer Uppsala 1913; curator Bot. Mus., Univ. Uppsala 1914-1919; professor and director of the botany department of the Stockholm Riksmuseum from 1924-1944. 
+**Abbreviated name**: *Sam.*
 
 #### Herbarium and types
 

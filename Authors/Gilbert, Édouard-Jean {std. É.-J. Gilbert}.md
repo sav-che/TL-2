@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103832#page/217/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33258683) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gilbert, Édouard-Jean (1888-1954), French mycologist, born 13 Oct 1888 in Molles (Allier), Dr. (pharmacy) 1918 Paris, subsquently devoted himself to mycology, died 20 Mar 1954 in Paris. (*É.-J. Gilbert*).
+Gilbert, Édouard-Jean (1888-1954), French mycologist, born 13 Oct 1888 in Molles (Allier), Dr. (pharmacy) 1918 Paris, subsquently devoted himself to mycology, died 20 Mar 1954 in Paris. 
+**Abbreviated name**: *É.-J. Gilbert*
 
 #### Herbarium and types
 

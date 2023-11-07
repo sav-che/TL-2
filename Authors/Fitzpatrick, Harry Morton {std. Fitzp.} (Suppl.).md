@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/103834#page/253/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259735) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fitzpatrick, Harry Morton {std. Fitzp.}|first entry]] for this author
 
 ### Author
 
-\* Fitzpatrick, Harry Morton (1886-1949), American mycologist, born 27 Jun 1886 in Greenwood, Indiana, moved to Illinois and in 1897 to Crawfordsville, Indiana, where he studied at Wabash College from 1905, subsequently went to Cornell Univ., Ithaca, New York in 1907, A.B. 1908, instructor in mycology 1911, Ph.D. 1913 and asst. prof. of plant pathology, later (1922) prof. of mycology, all at Cornell Univ., one of the founders of the Mycological Society of America in 1931, committed suicide 8 Dec 1949 in Ithaca. (*Fitzp.*).
+\* Fitzpatrick, Harry Morton (1886-1949), American mycologist, born 27 Jun 1886 in Greenwood, Indiana, moved to Illinois and in 1897 to Crawfordsville, Indiana, where he studied at Wabash College from 1905, subsequently went to Cornell Univ., Ithaca, New York in 1907, A.B. 1908, instructor in mycology 1911, Ph.D. 1913 and asst. prof. of plant pathology, later (1922) prof. of mycology, all at Cornell Univ., one of the founders of the Mycological Society of America in 1931, committed suicide 8 Dec 1949 in Ithaca. 
+**Abbreviated name**: *Fitzp.*
 
 #### Herbarium and types
 

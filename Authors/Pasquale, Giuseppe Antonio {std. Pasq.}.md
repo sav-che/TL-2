@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103624#page/104/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33189561) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pasquale, Giuseppe Antonio (1820-1893), Italian botanist, Dr. med. Napoli 1842; assistant to Tenore at Napoli 1840-1848; practicing physician 1848-1860; from 1860 professor of botany at the R. Collegio medico; succeeded Cesati as professor of botany and director of the botanical garden of the University 1883; disabled from 1884. (*Pasq.*).
+Pasquale, Giuseppe Antonio (1820-1893), Italian botanist, Dr. med. Napoli 1842; assistant to Tenore at Napoli 1840-1848; practicing physician 1848-1860; from 1860 professor of botany at the R. Collegio medico; succeeded Cesati as professor of botany and director of the botanical garden of the University 1883; disabled from 1884. 
+**Abbreviated name**: *Pasq.*
 
 #### Herbarium and types
 

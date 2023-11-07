@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/item/103250#page/208/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33066488) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weidmann, Antonín (1850-1915), Bohemian botanist and teacher in various towns in Bohemia, ultimately in Trebon (Wittingau). (*Weidmann*).
+Weidmann, Antonín (1850-1915), Bohemian botanist and teacher in various towns in Bohemia, ultimately in Trebon (Wittingau). 
+**Abbreviated name**: *Weidmann*
 
 #### Herbarium and types
 

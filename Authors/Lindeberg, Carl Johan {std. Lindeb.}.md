@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/104137#page/56/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33355089) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindeberg, Carl Johan (1815-1900), Swedish botanist and high school teacher at Göteborg 1859-1889. (*Lindeb.*).
+Lindeberg, Carl Johan (1815-1900), Swedish botanist and high school teacher at Göteborg 1859-1889. 
+**Abbreviated name**: *Lindeb.*
 
 #### Herbarium and types
 

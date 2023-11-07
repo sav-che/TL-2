@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/item/103250#page/353/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33066633) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wiley, Farida Anna (1887-?), American naturalist; to New York City 1917; with the American Museum of Natural History from 1923, director of field and laboratory courses in natural science. (*Wiley*).
+Wiley, Farida Anna (1887-?), American naturalist; to New York City 1917; with the American Museum of Natural History from 1923, director of field and laboratory courses in natural science. 
+**Abbreviated name**: *Wiley*
 
 #### Herbarium and types
 

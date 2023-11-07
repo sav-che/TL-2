@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/item/104137#page/338/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33355409) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martindale, Joseph Anthony (1837-1914), British headmaster at Staveley 1859-1902; lichenologist, naturalist, archeologist and linguist. (*J. A. Martindale*).
+Martindale, Joseph Anthony (1837-1914), British headmaster at Staveley 1859-1902; lichenologist, naturalist, archeologist and linguist. 
+**Abbreviated name**: *J. A. Martindale*
 
 #### Herbarium and types
 

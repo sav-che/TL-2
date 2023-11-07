@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/item/104077#page/766/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sorokin, Nikolai Vasilevich (1846-1909), Russian botanist; professor of botany and director of the botanical garden of the University of Kazan. (*Sorokin*).
+Sorokin, Nikolai Vasilevich (1846-1909), Russian botanist; professor of botany and director of the botanical garden of the University of Kazan. 
+**Abbreviated name**: *Sorokin*
 
 #### Herbarium and types
 

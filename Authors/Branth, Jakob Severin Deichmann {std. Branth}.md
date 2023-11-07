@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/item/103861#page/31/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33266328) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Deichmann Branth, Jakob Severin {std. Branth} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Branth, Jakob Severin Deichmann (1831-1917), Danish botanist (lichenologist), studied theology and botany at Copenhagen University, cand. Theol. 1857, travelled and worked in Germany, Switzerland and Italy 1857, private teacher at Bregentved until 1861; in charge of a highschool in Tønder 1861-1864, catechist at Selskør 1866, vicar at Elling-Tolne 1871-1880, at Ovsted-Taaning 1880-1908, in retirement living at Kolding. (*Branth*).
+Branth, Jakob Severin Deichmann (1831-1917), Danish botanist (lichenologist), studied theology and botany at Copenhagen University, cand. Theol. 1857, travelled and worked in Germany, Switzerland and Italy 1857, private teacher at Bregentved until 1861; in charge of a highschool in Tønder 1861-1864, catechist at Selskør 1866, vicar at Elling-Tolne 1871-1880, at Ovsted-Taaning 1880-1908, in retirement living at Kolding. 
+**Abbreviated name**: *Branth*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/103835#page/325/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33260303) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ellrodt, Theodor Christian (1767-1804), German priest, born 28 Mar 1767 at Bayreuth, for some time librarian of the royal library in that town, from 1800 priest at St. Johannis near Bayreuth, from 1803 back to Bayreuth as sub-deacon and again as librarian, much interested in mycology, died 2 Aug 1804. (*Ellr.*).
+Ellrodt, Theodor Christian (1767-1804), German priest, born 28 Mar 1767 at Bayreuth, for some time librarian of the royal library in that town, from 1800 priest at St. Johannis near Bayreuth, from 1803 back to Bayreuth as sub-deacon and again as librarian, much interested in mycology, died 2 Aug 1804. 
+**Abbreviated name**: *Ellr.*
 
 #### Herbarium and types
 

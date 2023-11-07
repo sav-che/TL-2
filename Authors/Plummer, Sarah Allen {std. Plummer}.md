@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/103624#page/317/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33189774) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plummer, Sarah Allen (1836-1923), American botanist and plant collector, active in California; married John Gill Lemmon in 1880. (*Plummer*).
+Plummer, Sarah Allen (1836-1923), American botanist and plant collector, active in California; married John Gill Lemmon in 1880. 
+**Abbreviated name**: *Plummer*
 
 #### Herbarium and types
 

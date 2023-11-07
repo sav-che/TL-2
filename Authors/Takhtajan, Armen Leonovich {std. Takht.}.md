@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103683#page/165/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33212197) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Takhtajan, Armen Leonovich (1910-x), Soviet (Armenian) botanist; graduated Tbilisi 1932; professor at Erevan Univ. 1938-1948; director of the Botanical Institute of the Armenian Academy of Sciences 1944-1948; professor at Leningrad University 1949-1961; Dept. head Komarov Botanical Institute from 1954; president of the International Association for Plant Taxonomy 1975-1981. (*Takht.*).
+Takhtajan, Armen Leonovich (1910-x), Soviet (Armenian) botanist; graduated Tbilisi 1932; professor at Erevan Univ. 1938-1948; director of the Botanical Institute of the Armenian Academy of Sciences 1944-1948; professor at Leningrad University 1949-1961; Dept. head Komarov Botanical Institute from 1954; president of the International Association for Plant Taxonomy 1975-1981. 
+**Abbreviated name**: *Takht.*
 
 #### Herbarium and types
 

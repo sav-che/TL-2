@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103414#page/296/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33120379) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Børgesen (Boerg., Börg.), Frederik Christian Emil {std. Børgesen} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Boergesen (Børgesen), Frederik Christian Emil (1866-1956), Danish cryptogamist who collected in the Danish West Indies. (*Boerg.*).
+Boergesen (Børgesen), Frederik Christian Emil (1866-1956), Danish cryptogamist who collected in the Danish West Indies. 
+**Abbreviated name**: *Boerg.*
 
 #### Herbarium and types
 

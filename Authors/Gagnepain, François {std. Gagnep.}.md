@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/item/103414#page/952/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33121035) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gagnepain, François {std. Gagnep.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gagnepain, François (1866-1952), French botanist at Paris, specialist on the flora of south-eastern Asia (*Gagnep.*).
+Gagnepain, François (1866-1952), French botanist at Paris, specialist on the flora of south-eastern Asia 
+**Abbreviated name**: *Gagnep.*
 
 #### Herbarium and types
 

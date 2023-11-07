@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/item/103624#page/712/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33190169) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reinecke, Franz (1866-?), German (Silesian) botanist; studied at Breslau; teacher's examination 1888; at Heidelberg 1890-1892 as student of Pfitzer; Dr. phil. Heidelberg 1893; travelled in Samoa 1893-1895; later in Breslau. (*Reinecke*).
+Reinecke, Franz (1866-?), German (Silesian) botanist; studied at Breslau; teacher's examination 1888; at Heidelberg 1890-1892 as student of Pfitzer; Dr. phil. Heidelberg 1893; travelled in Samoa 1893-1895; later in Breslau. 
+**Abbreviated name**: *Reinecke*
 
 #### Herbarium and types
 

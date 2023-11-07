@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103859#page/401/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265588) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bourdon, Raoul (fl. 1882), French marine pharmacist. (*R. Bourdon*).
+Bourdon, Raoul (fl. 1882), French marine pharmacist. 
+**Abbreviated name**: *R. Bourdon*
 
 #### Herbarium and types
 

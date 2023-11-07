@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103683#page/265/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thesleff, Arthur (1871-1920), Finnish mycologist; sometime amanuensis with the Helsinki University library; leader of a Finnish immigrant colony in Argentina; ultimately in Stockholm. (*Thesleff*).
+Thesleff, Arthur (1871-1920), Finnish mycologist; sometime amanuensis with the Helsinki University library; leader of a Finnish immigrant colony in Argentina; ultimately in Stockholm. 
+**Abbreviated name**: *Thesleff*
 
 #### Herbarium and types
 

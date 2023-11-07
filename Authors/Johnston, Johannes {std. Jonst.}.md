@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/item/103253#page/486/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnston, Johannes (1603-1675), German physician and botanist. (*Jonst.*).
+Johnston, Johannes (1603-1675), German physician and botanist. 
+**Abbreviated name**: *Jonst.*
 
 #### Herbarium and types
 

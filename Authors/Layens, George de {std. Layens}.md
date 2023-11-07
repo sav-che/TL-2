@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/item/103253#page/801/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33069017) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Layens, George de (1834-1897), French botanist. (*Layens*).
+Layens, George de (1834-1897), French botanist. 
+**Abbreviated name**: *Layens*
 
 #### Herbarium and types
 

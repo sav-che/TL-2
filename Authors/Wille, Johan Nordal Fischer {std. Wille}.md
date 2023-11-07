@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103250#page/365/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33066645) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wille, Johan Nordal Fischer (1858-1924), Norwegian botanist, especially phycologist; studied botany and geology at the University of Kristiania (Oslo) 1875, phycology with V.B. Wittrock in Uppsala 1878, plant anatomy and embryology with E. Warming in Copenhagen 1881 and S. Schwendener in Berlin 1882; Regnellian curator at the Stockholm Natural History Museum 1883; Dr. phil. Kristiania 1885; professor of botany at Stockholm University 1886; botany teacher at the Agricultural School in Aas, Norway 1889; professor of botany Univ. Kristiania 1893-1924. (*Wille*).
+Wille, Johan Nordal Fischer (1858-1924), Norwegian botanist, especially phycologist; studied botany and geology at the University of Kristiania (Oslo) 1875, phycology with V.B. Wittrock in Uppsala 1878, plant anatomy and embryology with E. Warming in Copenhagen 1881 and S. Schwendener in Berlin 1882; Regnellian curator at the Stockholm Natural History Museum 1883; Dr. phil. Kristiania 1885; professor of botany at Stockholm University 1886; botany teacher at the Agricultural School in Aas, Norway 1889; professor of botany Univ. Kristiania 1893-1924. 
+**Abbreviated name**: *Wille*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103859#page/73/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bell, Hugh Philip (1889-x), Canadian (Halifax N.S.-born) botanist. (*H.P. Bell*).
+Bell, Hugh Philip (1889-x), Canadian (Halifax N.S.-born) botanist. 
+**Abbreviated name**: *H.P. Bell*
 
 #### Herbarium and types
 

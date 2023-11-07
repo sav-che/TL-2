@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103624#page/248/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Philippe, Xavier (earlier: Philippe Xavier Camus) (1802-1866), French naturalist, municipal librarian and plant salesman living at Bagnères-de-Bigorre. (*Philippe*).
+Philippe, Xavier (earlier: Philippe Xavier Camus) (1802-1866), French naturalist, municipal librarian and plant salesman living at Bagnères-de-Bigorre. 
+**Abbreviated name**: *Philippe*
 
 #### Herbarium and types
 

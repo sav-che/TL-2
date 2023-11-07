@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103624#page/257/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33189714) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Phillips, Robert Albert (1866-1945), Irish botanist in Cork. (*R.A. Phillips*).
+Phillips, Robert Albert (1866-1945), Irish botanist in Cork. 
+**Abbreviated name**: *R.A. Phillips*
 
 #### Herbarium and types
 

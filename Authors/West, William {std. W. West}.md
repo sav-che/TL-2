@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103250#page/264/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33066544) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-West, William (1848-1914), British phycologist; studied pharmacy, registered 1870; from 1874-1886 practicing pharmacist in Bradford; lecturer on botany and materia medica, Technical College Bradford 1886. (*W. West*).
+West, William (1848-1914), British phycologist; studied pharmacy, registered 1870; from 1874-1886 practicing pharmacist in Bradford; lecturer on botany and materia medica, Technical College Bradford 1886. 
+**Abbreviated name**: *W. West*
 
 #### Herbarium and types
 

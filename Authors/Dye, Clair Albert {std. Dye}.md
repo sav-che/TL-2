@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103835#page/236/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33260214) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dye, Clair Albert (fl. 1899-1901), American born botanist who studied at the pharmaceutical institute at Bern, Switzerland. (*Dye*).
+Dye, Clair Albert (fl. 1899-1901), American born botanist who studied at the pharmaceutical institute at Bern, Switzerland. 
+**Abbreviated name**: *Dye*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 693](https://www.biodiversitylibrary.org/item/103624#page/707/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 693](https://www.biodiversitylibrary.org/page/33190164) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reichert, Israel (1891-1975), Polish-born Israeli botanist, studied at the University of Berlin 1913-1919, student of A. Engler; in 1920-1921 with Biologische Reichsanstalt, Berlin and the Ist. patologia vegetale, Firenze; Dr. phil. Berlin 1921; from 1921 at the Agricultural Research Station Rehovoth, from 1949-1959 professor at the faculty of agriculture of Hebrew University, Jerusalem; from 1959-1975 in retirement; Israel State Prize 1955; ardent zionist. (*Reichert*).
+Reichert, Israel (1891-1975), Polish-born Israeli botanist, studied at the University of Berlin 1913-1919, student of A. Engler; in 1920-1921 with Biologische Reichsanstalt, Berlin and the Ist. patologia vegetale, Firenze; Dr. phil. Berlin 1921; from 1921 at the Agricultural Research Station Rehovoth, from 1949-1959 professor at the faculty of agriculture of Hebrew University, Jerusalem; from 1959-1975 in retirement; Israel State Prize 1955; ardent zionist. 
+**Abbreviated name**: *Reichert*
 
 #### Herbarium and types
 

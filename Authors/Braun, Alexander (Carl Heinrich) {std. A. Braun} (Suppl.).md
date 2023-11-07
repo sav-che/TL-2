@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/item/103861#page/33/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33266330) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Braun, Alexander Carl Heinrich {std. A. Braun}|first entry]] for this author
 
 ### Author
 
-\* Braun, Alexander \[Carl Heinrich\] (1805-1877), German botanist, born in Regensburg, at the Lyceum of Karlsruhe 1816, started collecting plants 1816, published in "Flora" 1821, at the University of Heidelberg 1824-1827 studying medicine and botany with Louis Agassiz and Carl Friedrich Schimper who also studied botany, at the University of Tübingen 1827-1829, Dr. phil. ib. 1829, professor of botany and zoology at the Polytechnic School in Karlsruhe 1832-1846, at the same time also assistant, later director of the Karlsruhe natural history museum, professor of botany at the University of Freiburg i. Breisgau 1846-1850, id. in Giessen 1850, ultimately professor of botany at the University of Berlin and director of the Berlin Botanical Garden 1851. (*A. Braun*).
+\* Braun, Alexander \[Carl Heinrich\] (1805-1877), German botanist, born in Regensburg, at the Lyceum of Karlsruhe 1816, started collecting plants 1816, published in "Flora" 1821, at the University of Heidelberg 1824-1827 studying medicine and botany with Louis Agassiz and Carl Friedrich Schimper who also studied botany, at the University of Tübingen 1827-1829, Dr. phil. ib. 1829, professor of botany and zoology at the Polytechnic School in Karlsruhe 1832-1846, at the same time also assistant, later director of the Karlsruhe natural history museum, professor of botany at the University of Freiburg i. Breisgau 1846-1850, id. in Giessen 1850, ultimately professor of botany at the University of Berlin and director of the Berlin Botanical Garden 1851. 
+**Abbreviated name**: *A. Braun*
 
 #### Herbarium and types
 

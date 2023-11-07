@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103253#page/293/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33068509) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hooker, Joseph Dalton (1817-1911), British botanist and explorer; pioneer plant geographer; son of William Jackson Hooker; graduated from Glasgow 1839; to Antarctic 1839-1843 on Ross's expedition; contact with Darwin 1843; botanist to Geological Survey 1846; assistant director Kew 1855; director id. 1865; president Royal Society 1873-1878; retirement from directorship Kew 1885; last publ. (Bot. Mag. pl. 8396) 1911. (*J. D. Hook.*).
+Hooker, Joseph Dalton (1817-1911), British botanist and explorer; pioneer plant geographer; son of William Jackson Hooker; graduated from Glasgow 1839; to Antarctic 1839-1843 on Ross's expedition; contact with Darwin 1843; botanist to Geological Survey 1846; assistant director Kew 1855; director id. 1865; president Royal Society 1873-1878; retirement from directorship Kew 1885; last publ. (Bot. Mag. pl. 8396) 1911. 
+**Abbreviated name**: *J. D. Hook.*
 
 #### Herbarium and types
 

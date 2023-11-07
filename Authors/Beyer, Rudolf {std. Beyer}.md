@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103859#page/161/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33265348) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beyer, Rudolf (1852-1932), German (Silezian, Wohlau) botanist and secondary school teacher at the Andreas-Realgymnasium in Berlin, died in Berlin-Tempelhof. (*Beyer*).
+Beyer, Rudolf (1852-1932), German (Silezian, Wohlau) botanist and secondary school teacher at the Andreas-Realgymnasium in Berlin, died in Berlin-Tempelhof. 
+**Abbreviated name**: *Beyer*
 
 #### Herbarium and types
 

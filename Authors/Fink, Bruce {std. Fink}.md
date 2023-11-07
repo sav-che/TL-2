@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/item/103414#page/880/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fink, Bruce {std. Fink} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fink, Bruce (1861-1927), American lichenologist. (*Fink*).
+Fink, Bruce (1861-1927), American lichenologist. 
+**Abbreviated name**: *Fink*
 
 #### Herbarium and types
 

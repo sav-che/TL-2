@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/104137#page/130/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33355201) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linton, Rev. William Richardson (1850-1908), English botanist; ultimately vicar of Shirley (1886); brother of E. F. Linton. (*W. R. Linton*).
+Linton, Rev. William Richardson (1850-1908), English botanist; ultimately vicar of Shirley (1886); brother of E. F. Linton. 
+**Abbreviated name**: *W. R. Linton*
 
 #### Herbarium and types
 

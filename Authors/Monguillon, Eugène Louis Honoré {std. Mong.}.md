@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/item/104137#page/571/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33355642) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Monguillon, Eugène Louis Honoré (1865-1940), French teacher and cryptogamist; at various schools in the département Sarthe; after 1923 retired at Mans. (*Mong.*).
+Monguillon, Eugène Louis Honoré (1865-1940), French teacher and cryptogamist; at various schools in the département Sarthe; after 1923 retired at Mans. 
+**Abbreviated name**: *Mong.*
 
 #### Herbarium and types
 

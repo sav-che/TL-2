@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103859#page/13/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33265200) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beauverd, Gustave {std. Beauverd}|first entry]] for this author
 
 ### Author
 
-\* Beauverd, Gustave (1867-1942), Swiss (Genève) botanist and artist, educated at the collège industriel; engraver with the lithographic firm of Bauknecht, also in Genève, studied at the École des Beaux-Arts; draughtsman at the Atelier Sadag 1897; from Apr 1900 curator of the Herbier Boissier until 1918; after the transfer of the herbarium to the University of Genève in 1918 curator at the University herbarium until 1940. (*Beauverd*).
+\* Beauverd, Gustave (1867-1942), Swiss (Genève) botanist and artist, educated at the collège industriel; engraver with the lithographic firm of Bauknecht, also in Genève, studied at the École des Beaux-Arts; draughtsman at the Atelier Sadag 1897; from Apr 1900 curator of the Herbier Boissier until 1918; after the transfer of the herbarium to the University of Genève in 1918 curator at the University herbarium until 1940. 
+**Abbreviated name**: *Beauverd*
 
 #### Herbarium and types
 

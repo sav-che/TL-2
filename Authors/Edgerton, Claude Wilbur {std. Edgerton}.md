@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103835#page/267/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edgerton, Claude Wilbur (1880-1965), American botanist, born 9 Mar 1880 at Woodbine, Iowa, B.S. 1903 from Nebraska, Ph.D. at Cornell 1908, at the Louisiana Experiment Station as plant pathologist 1908-1924, became professor of botany and plant pathology at Louisiana University 1924-190, died 6 Apr 1965 at Baton Rouge. (*Edgerton*).
+Edgerton, Claude Wilbur (1880-1965), American botanist, born 9 Mar 1880 at Woodbine, Iowa, B.S. 1903 from Nebraska, Ph.D. at Cornell 1908, at the Louisiana Experiment Station as plant pathologist 1908-1924, became professor of botany and plant pathology at Louisiana University 1924-190, died 6 Apr 1965 at Baton Rouge. 
+**Abbreviated name**: *Edgerton*
 
 #### Herbarium and types
 

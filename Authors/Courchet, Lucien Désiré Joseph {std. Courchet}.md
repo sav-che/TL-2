@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103860#page/432/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33266099) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Courchet, Lucien Désiré Joseph (1851 -1924), French botanist at Montpellier, professor of botany at the École de pharmacie at Montpellier 1889. (*Courchet*).
+Courchet, Lucien Désiré Joseph (1851 -1924), French botanist at Montpellier, professor of botany at the École de pharmacie at Montpellier 1889. 
+**Abbreviated name**: *Courchet*
 
 #### Herbarium and types
 

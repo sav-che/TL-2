@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/item/103253#page/557/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kessel, Stephen Lackey (1897-x), Australian forester, conservator of forests W. Australia 1921-1941. (*Kessel*).
+Kessel, Stephen Lackey (1897-x), Australian forester, conservator of forests W. Australia 1921-1941. 
+**Abbreviated name**: *Kessel*
 
 #### Herbarium and types
 

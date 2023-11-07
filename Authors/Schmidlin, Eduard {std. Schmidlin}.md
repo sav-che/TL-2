@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/104077#page/255/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33333380) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidlin, Eduard (1808?-1890), German (Württemberg) botanist. (*Schmidlin*).
+Schmidlin, Eduard (1808?-1890), German (Württemberg) botanist. 
+**Abbreviated name**: *Schmidlin*
 
 #### Herbarium and types
 

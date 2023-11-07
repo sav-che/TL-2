@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/item/103683#page/13/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33212091) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stirling, James (1852-1909), Australian geologist and botanist; land officer at Omeo, Victoria 1878; died in Riverside, California. (*J. Stirling*).
+Stirling, James (1852-1909), Australian geologist and botanist; land officer at Omeo, Victoria 1878; died in Riverside, California. 
+**Abbreviated name**: *J. Stirling*
 
 #### Herbarium and types
 

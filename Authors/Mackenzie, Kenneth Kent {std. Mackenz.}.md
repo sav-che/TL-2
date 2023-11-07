@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/item/104137#page/243/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33355314) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mackenzie, Kenneth Kent (1877-1934), American attorney, bibliophile, and botanist; LL.B. Kansas City Law School 1889, id. Columbia Univ. 1906; from 1906 practicing in New York City; specialist on *Carex*. (*Mackenz.*).
+Mackenzie, Kenneth Kent (1877-1934), American attorney, bibliophile, and botanist; LL.B. Kansas City Law School 1889, id. Columbia Univ. 1906; from 1906 practicing in New York City; specialist on *Carex*. 
+**Abbreviated name**: *Mackenz.*
 
 #### Herbarium and types
 

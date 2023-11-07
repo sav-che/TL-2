@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/104137#page/337/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martindale, Isaac Comly (1842-1893), American quaker, botanist, entomologist, and bank-clerk of Camden, New Jersey. (*I. C. Martindale*).
+Martindale, Isaac Comly (1842-1893), American quaker, botanist, entomologist, and bank-clerk of Camden, New Jersey. 
+**Abbreviated name**: *I. C. Martindale*
 
 #### Herbarium and types
 

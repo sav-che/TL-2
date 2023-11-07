@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/item/103835#page/193/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33260171) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Durand, Philippe \[l'abbé\] (fl. 1795-1815), French priest and botanist, born at Revel, Dép. Haute-Garonne, died near Montpellier, doctor in medicine (1808), collected in Morocco 1798 and 1807, visited Tanger, Tétouan etc. (*P. Durand*).
+Durand, Philippe \[l'abbé\] (fl. 1795-1815), French priest and botanist, born at Revel, Dép. Haute-Garonne, died near Montpellier, doctor in medicine (1808), collected in Morocco 1798 and 1807, visited Tanger, Tétouan etc. 
+**Abbreviated name**: *P. Durand*
 
 #### Herbarium and types
 

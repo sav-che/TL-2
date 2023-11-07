@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103624#page/228/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33189685) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petzi, Franz von Sales (1851-1928), German (Bavarian) botanist; studied mathematics and physics at München; high school teacher at the Regensburg Gymnasium; editor and curator of the herbarium of the Regensburgische botanische Gesellschaft. (*Petzi*).
+Petzi, Franz von Sales (1851-1928), German (Bavarian) botanist; studied mathematics and physics at München; high school teacher at the Regensburg Gymnasium; editor and curator of the herbarium of the Regensburgische botanische Gesellschaft. 
+**Abbreviated name**: *Petzi*
 
 #### Herbarium and types
 

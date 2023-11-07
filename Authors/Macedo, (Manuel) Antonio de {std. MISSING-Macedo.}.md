@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/104137#page/234/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Macedo, \[Manuel?\] Antonio de (*fl*. 1867), French (?) botanist. (*MISSING-Macedo.*).
+Macedo, \[Manuel?\] Antonio de (*fl*. 1867), French (?) botanist. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Herbarium and types
 

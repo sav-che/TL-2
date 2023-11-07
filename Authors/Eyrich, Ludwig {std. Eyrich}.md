@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103835#page/460/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33260438) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eyrich, Ludwig (1841-1892), German zoologist and botanist, born 6 Mar 1841 at Mannheim, visited schools in that town and went 1857 to the polytechnical high-school in Karlsruhe, in 1859 to the University of Heidelberg, Sr. sci. in 1863, teacher in natural sciences in Mannheim, died from heart troubles 26 Jun 1892. (*Eyrich*).
+Eyrich, Ludwig (1841-1892), German zoologist and botanist, born 6 Mar 1841 at Mannheim, visited schools in that town and went 1857 to the polytechnical high-school in Karlsruhe, in 1859 to the University of Heidelberg, Sr. sci. in 1863, teacher in natural sciences in Mannheim, died from heart troubles 26 Jun 1892. 
+**Abbreviated name**: *Eyrich*
 
 #### Herbarium and types
 

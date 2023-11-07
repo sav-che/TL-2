@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103833#page/36/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259070) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dale, Elizabeth (fl. 1899-1914), British botanist at the University of Cambridge, Pfeiffer student, Girton College (1901), later Garden Steward of Girton College (ca. 1912). (*E. Dale*).
+Dale, Elizabeth (fl. 1899-1914), British botanist at the University of Cambridge, Pfeiffer student, Girton College (1901), later Garden Steward of Girton College (ca. 1912). 
+**Abbreviated name**: *E. Dale*
 
 #### Herbarium and types
 

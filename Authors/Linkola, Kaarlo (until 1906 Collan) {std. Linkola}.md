@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/104137#page/86/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33355157) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linkola, Kaarlo (until 1906 Collan) (1888-1942), Finnish botanist; Dr. phil. Helsinki 1919; assistant at the Botanical Institute of the agricultural section of Helsinki Univ. 1913-1922, from 1917 also working at the Tammisto experiment station; professor of botany at Turku Univ. 1923-1925, id. at Helsinki 1925-1942. (*Linkola*).
+Linkola, Kaarlo (until 1906 Collan) (1888-1942), Finnish botanist; Dr. phil. Helsinki 1919; assistant at the Botanical Institute of the agricultural section of Helsinki Univ. 1913-1922, from 1917 also working at the Tammisto experiment station; professor of botany at Turku Univ. 1923-1925, id. at Helsinki 1925-1942. 
+**Abbreviated name**: *Linkola*
 
 #### Herbarium and types
 

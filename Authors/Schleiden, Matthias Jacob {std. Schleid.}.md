@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/104077#page/228/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33333353) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schleiden, Matthias Jacob (1804-1881), German (Hamburg) botanist; Dr. jur. Heidelberg 1827; lawyer at Hamburg; Dr. phil. Jena 1839; Dr. med. h.c. Tübingen 1843; studied botany in Göttingen and Berlin, student of Johann Horkel, collaborating with Johannes Müller and Theodor Schwann; from 1839 in Jena, from 1840 as professor of botany, from 1851-1862 also as director of the Jena Botanical Garden; professor of anthropology in Dorpat 1863-1864, in St. Petersburg 1864-1865; in retirement as "Privatgelehrter" at Dresden, Wiesbaden and, ultimately, in Frankfurt am Main; founder of the German school of developmental morphology; forceful proponent of inductive and experimental research; promoted T. Schwann's "cell theory". (*Schleid.*).
+Schleiden, Matthias Jacob (1804-1881), German (Hamburg) botanist; Dr. jur. Heidelberg 1827; lawyer at Hamburg; Dr. phil. Jena 1839; Dr. med. h.c. Tübingen 1843; studied botany in Göttingen and Berlin, student of Johann Horkel, collaborating with Johannes Müller and Theodor Schwann; from 1839 in Jena, from 1840 as professor of botany, from 1851-1862 also as director of the Jena Botanical Garden; professor of anthropology in Dorpat 1863-1864, in St. Petersburg 1864-1865; in retirement as "Privatgelehrter" at Dresden, Wiesbaden and, ultimately, in Frankfurt am Main; founder of the German school of developmental morphology; forceful proponent of inductive and experimental research; promoted T. Schwann's "cell theory". 
+**Abbreviated name**: *Schleid.*
 
 #### Herbarium and types
 

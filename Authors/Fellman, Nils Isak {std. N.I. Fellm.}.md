@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/item/103414#page/870/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fellman, Nils Isak {std. N.I. Fellm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fellman, Nils Isak (1841-1919), Finnish magistrate and botanist. (*Fellman*).
+Fellman, Nils Isak (1841-1919), Finnish magistrate and botanist. 
+**Abbreviated name**: *Fellman*
 
 #### Herbarium and types
 

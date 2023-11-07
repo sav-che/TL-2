@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103859#page/227/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33265414) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blodgett, Frederick Harvey (1872-1926), American (Illinois born) botanist, B.S. Rutgers College 1897, M.S. idem 1899, student and aid New York Botanical Garden 1900-1901, assistant curator for botany at the Field Columbian Museum, Chicago 1901, assistant State pathologist, Maryland Agricultural College 1901-1906, graduate student and botanical assistant at Johns Hopkins University 1906-1910, Ph.D. 1910, ultimately at the biological department of Washington Square College, New York University. (*Blodgett*).
+Blodgett, Frederick Harvey (1872-1926), American (Illinois born) botanist, B.S. Rutgers College 1897, M.S. idem 1899, student and aid New York Botanical Garden 1900-1901, assistant curator for botany at the Field Columbian Museum, Chicago 1901, assistant State pathologist, Maryland Agricultural College 1901-1906, graduate student and botanical assistant at Johns Hopkins University 1906-1910, Ph.D. 1910, ultimately at the biological department of Washington Square College, New York University. 
+**Abbreviated name**: *Blodgett*
 
 #### Herbarium and types
 

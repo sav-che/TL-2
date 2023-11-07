@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/item/103683#page/255/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33212287) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Theobald, Gottfried Ludwig (1810-1869), German (Hessen) botanist, geologist and teacher; studied theology in Marburg and Halle 1927-1931; pastor at Hanau 1831-1839, private teacher at Montpellier 1839-1843; high school teacher for natural sciences and geography at Hanau 1843-1850; suspended for political reasons 1850 (dismissed 1854), teacher at Genève 1852-1854 and pastor of its German protestant community; from 1854 natural history teacher at the county school at Chur, Graubünden. (*Theobald*).
+Theobald, Gottfried Ludwig (1810-1869), German (Hessen) botanist, geologist and teacher; studied theology in Marburg and Halle 1927-1931; pastor at Hanau 1831-1839, private teacher at Montpellier 1839-1843; high school teacher for natural sciences and geography at Hanau 1843-1850; suspended for political reasons 1850 (dismissed 1854), teacher at Genève 1852-1854 and pastor of its German protestant community; from 1854 natural history teacher at the county school at Chur, Graubünden. 
+**Abbreviated name**: *Theobald*
 
 #### Herbarium and types
 

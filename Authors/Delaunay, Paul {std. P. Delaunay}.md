@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103833#page/185/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33259219) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delaunay, Paul (1878-x), French botanist and pharmacist, doctor of pharmacy, licensié-ès-sciences, pharmacist at Paris, assistant in laboratory, giving a course on chemical minerals at the Faculty of Pharmacy and ex-interne pharmacist in the hospitals of Paris. (*P. Delaunay*).
+Delaunay, Paul (1878-x), French botanist and pharmacist, doctor of pharmacy, licensié-ès-sciences, pharmacist at Paris, assistant in laboratory, giving a course on chemical minerals at the Faculty of Pharmacy and ex-interne pharmacist in the hospitals of Paris. 
+**Abbreviated name**: *P. Delaunay*
 
 #### Herbarium and types
 

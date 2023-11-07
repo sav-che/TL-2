@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103624#page/65/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Papenfuss, George Frederick \[Frederik\] (1903-1981), South African-born American algologist; came to U.S. 1926, naturalized 1945; Dr. phil. Johns Hopkins 1933; assistant and lecturer Johns Hopkins 1929-1934; at Univ. of Cape Town 1935-1939; at University of Lund 1939-1940; at Univ. of Hawaii 1940-1942, with Univ. of California, Berkeley, from 1942-1971, from 1953-1971 as full professor. (*Papenfuss*).
+Papenfuss, George Frederick \[Frederik\] (1903-1981), South African-born American algologist; came to U.S. 1926, naturalized 1945; Dr. phil. Johns Hopkins 1933; assistant and lecturer Johns Hopkins 1929-1934; at Univ. of Cape Town 1935-1939; at University of Lund 1939-1940; at Univ. of Hawaii 1940-1942, with Univ. of California, Berkeley, from 1942-1971, from 1953-1971 as full professor. 
+**Abbreviated name**: *Papenfuss*
 
 #### Herbarium and types
 

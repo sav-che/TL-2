@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/103253#page/166/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heineck, Otto (1860-?), German botanist; Dr. phil. Giessen 1890. (*Heineck*).
+Heineck, Otto (1860-?), German botanist; Dr. phil. Giessen 1890. 
+**Abbreviated name**: *Heineck*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/item/103860#page/458/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33266125) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crane, Morley Benjamin (1890-x), British horticulturist, gardener, pomologist, with John Innes Horticulture Institute. (*M.B. Crane*).
+Crane, Morley Benjamin (1890-x), British horticulturist, gardener, pomologist, with John Innes Horticulture Institute. 
+**Abbreviated name**: *M.B. Crane*
 
 #### Herbarium and types
 

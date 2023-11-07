@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/item/103624#page/767/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rhein, G.F. (1858-?), German botanist; Dr. phil. Kiel 1888. (*Rhein*).
+Rhein, G.F. (1858-?), German botanist; Dr. phil. Kiel 1888. 
+**Abbreviated name**: *Rhein*
 
 #### Herbarium and types
 

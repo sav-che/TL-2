@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/item/103253#page/838/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33069054) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lees, Edwin (1800-1887), British printer and stationer at Worcester who gave up business at an early stage and devoted himself exclusively to the natural history of the English Midlands. (*E. Lees*).
+Lees, Edwin (1800-1887), British printer and stationer at Worcester who gave up business at an early stage and devoted himself exclusively to the natural history of the English Midlands. 
+**Abbreviated name**: *E. Lees*
 
 #### Herbarium and types
 

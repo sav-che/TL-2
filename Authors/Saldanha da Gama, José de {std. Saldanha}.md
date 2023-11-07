@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/104077#page/15/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33333182) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saldanha da Gama, José de (1839-1905), Brazilian botanist; Dr. Sci. Rio de Janeiro 1860; at the Rio de Janeiro "Central School", later called "Polytechnic School" from 1861 as teacher ("repetitor"), professor of botany and director successively; sometime consul general for Brazil in Belgium; Brazilian representative at the World Exhibits of 1867, 1873 and 1876; collected in Rio de Janeiro province 1866-1884. (*Saldanha*).
+Saldanha da Gama, José de (1839-1905), Brazilian botanist; Dr. Sci. Rio de Janeiro 1860; at the Rio de Janeiro "Central School", later called "Polytechnic School" from 1861 as teacher ("repetitor"), professor of botany and director successively; sometime consul general for Brazil in Belgium; Brazilian representative at the World Exhibits of 1867, 1873 and 1876; collected in Rio de Janeiro province 1866-1884. 
+**Abbreviated name**: *Saldanha*
 
 #### Herbarium and types
 

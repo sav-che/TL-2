@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/item/103683#page/686/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33212718) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vareschi, Volkmar (1906-x), Austrian botanist; Dr. phil. Innsbruck 1931; assistant at the Geobot. Forschungsinst. Rübel, Zürich 1931-1935; in 1936 with the Arbeitsgemeinschaft für Raumforschung, München; assistant 1937, lecturer for botany 1939 at the University of München; with the Sven Hedin Institut 1940-1941; with a Seed Station at Radstadt, Salzburg 1945-1946; lecturer Innsbruck 1947-1949; emigrated to Venezuela 1950; with the Universidad Central de Caracas from 1951, professor 1953; nationalized Venezuelan citizen 1956; explored the Venezuelan Amazonas 1958-1973. (*Vareschi*).
+Vareschi, Volkmar (1906-x), Austrian botanist; Dr. phil. Innsbruck 1931; assistant at the Geobot. Forschungsinst. Rübel, Zürich 1931-1935; in 1936 with the Arbeitsgemeinschaft für Raumforschung, München; assistant 1937, lecturer for botany 1939 at the University of München; with the Sven Hedin Institut 1940-1941; with a Seed Station at Radstadt, Salzburg 1945-1946; lecturer Innsbruck 1947-1949; emigrated to Venezuela 1950; with the Universidad Central de Caracas from 1951, professor 1953; nationalized Venezuelan citizen 1956; explored the Venezuelan Amazonas 1958-1973. 
+**Abbreviated name**: *Vareschi*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/item/103861#page/11/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33266308) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Braarud, Trygave (1903-1985), Norwegian marine botanist, studied with H.H. Gran at the University of Oslo, cand. real 1927, Dr. phil. 1936, "amanensis" and lecturer in General Botany 1936-1947, held the Chair of Marine Botany at Oslo 1947-1973, specialized in biological oceanography and marine ecology, founder of the Norwegian Institute of Seaweed Research (1950) and the Norwegian Institute of Water Research (1958), one of the "founding fathers" of the International Phycological Society. (*Braarud*).
+Braarud, Trygave (1903-1985), Norwegian marine botanist, studied with H.H. Gran at the University of Oslo, cand. real 1927, Dr. phil. 1936, "amanensis" and lecturer in General Botany 1936-1947, held the Chair of Marine Botany at Oslo 1947-1973, specialized in biological oceanography and marine ecology, founder of the Norwegian Institute of Seaweed Research (1950) and the Norwegian Institute of Water Research (1958), one of the "founding fathers" of the International Phycological Society. 
+**Abbreviated name**: *Braarud*
 
 #### Herbarium and types
 

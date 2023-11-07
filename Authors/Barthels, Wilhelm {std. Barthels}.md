@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/item/103858#page/355/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33265070) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barthels, Wilhelm (1897-?), German botanist, born at Altona/Elbe, educated at the Oberrealschule Eimsbüttel and the Heinrich Hertz Realgymnasium, Hamburg, sometime insurance agent 1914, in military service 1916-1919, studied at the University of Hamburg 1920, mainly dedicating himself to botany with Alfred Voigt (1864-1955). (*Barthels*).
+Barthels, Wilhelm (1897-?), German botanist, born at Altona/Elbe, educated at the Oberrealschule Eimsbüttel and the Heinrich Hertz Realgymnasium, Hamburg, sometime insurance agent 1914, in military service 1916-1919, studied at the University of Hamburg 1920, mainly dedicating himself to botany with Alfred Voigt (1864-1955). 
+**Abbreviated name**: *Barthels*
 
 #### Herbarium and types
 

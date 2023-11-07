@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103834#page/422/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33259904) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frege, Christian August (1759-1834), German priest, born 15 Sep 1759 in Zwochau nr. Delitzsch, priest in Laas nr. Schutz 1788, in Streignitz nr. Lommatsch 1800 and back in Zwochau 1805, died 23 Sep 1834 in Zwochau. (*Frege*).
+Frege, Christian August (1759-1834), German priest, born 15 Sep 1759 in Zwochau nr. Delitzsch, priest in Laas nr. Schutz 1788, in Streignitz nr. Lommatsch 1800 and back in Zwochau 1805, died 23 Sep 1834 in Zwochau. 
+**Abbreviated name**: *Frege*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103833#page/48/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259082) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dame, Lorin Low (1838-1903), American botanist, born at Newmarket, N.H. 12 Mar 1838, entered Tufts College 1856, graduating in 1860, head principal at High School at Braintree 1860-1863, commissioned second Lieutenant in Tennessee, first lieutenant 1865, principal of Lexington High School 1865-1868, at Nantucket High School 1868-1870, Stone High School 1870-1876, Medford High School 1876-1903. (*Dame*).
+Dame, Lorin Low (1838-1903), American botanist, born at Newmarket, N.H. 12 Mar 1838, entered Tufts College 1856, graduating in 1860, head principal at High School at Braintree 1860-1863, commissioned second Lieutenant in Tennessee, first lieutenant 1865, principal of Lexington High School 1865-1868, at Nantucket High School 1868-1870, Stone High School 1870-1876, Medford High School 1876-1903. 
+**Abbreviated name**: *Dame*
 
 #### Herbarium and types
 

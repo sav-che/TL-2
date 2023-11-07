@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103414#page/346/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33120429) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boyer, Léon (*fl*. 1890), French mycologist. (*Boyer*).
+Boyer, Léon (*fl*. 1890), French mycologist. 
+**Abbreviated name**: *Boyer*
 
 #### Herbarium and types
 

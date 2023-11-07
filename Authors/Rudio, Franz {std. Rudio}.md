@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/item/103624#page/986/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rudio, Franz (1811-1877), German (Hessen) botanist and pharmacist; Dr. phil. Giessen; emigrated to Brazil 1858, collected plants near Rio de Janeiro in 1859; settled in the colony of Porto do Cachoeiro, Espirito Santo. (*Rudio*).
+Rudio, Franz (1811-1877), German (Hessen) botanist and pharmacist; Dr. phil. Giessen; emigrated to Brazil 1858, collected plants near Rio de Janeiro in 1859; settled in the colony of Porto do Cachoeiro, Espirito Santo. 
+**Abbreviated name**: *Rudio*
 
 #### Herbarium and types
 

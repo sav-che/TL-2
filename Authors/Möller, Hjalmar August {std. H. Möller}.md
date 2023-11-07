@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/item/104137#page/550/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33355621) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Möller, Hjalmar August (1866-1941), Swedish botanist; lecturer at a teachers college at Kalmar; from 1917 at the Riksmuseum, Stockholm. (*H. Möller*).
+Möller, Hjalmar August (1866-1941), Swedish botanist; lecturer at a teachers college at Kalmar; from 1917 at the Riksmuseum, Stockholm. 
+**Abbreviated name**: *H. Möller*
 
 #### Herbarium and types
 

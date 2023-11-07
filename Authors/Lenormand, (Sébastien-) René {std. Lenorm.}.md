@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/item/103253#page/869/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33069085) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lenormand, \[Sébastien-\] René (1796-1871), French botanist in Normandy; admitted as lawyer 1820; practiced in Vire until 1835; retired to his property at Lénaudières devoting himself exclusively to botany; compiled a considerable herbarium. (*Lenorm.*).
+Lenormand, \[Sébastien-\] René (1796-1871), French botanist in Normandy; admitted as lawyer 1820; practiced in Vire until 1835; retired to his property at Lénaudières devoting himself exclusively to botany; compiled a considerable herbarium. 
+**Abbreviated name**: *Lenorm.*
 
 #### Herbarium and types
 

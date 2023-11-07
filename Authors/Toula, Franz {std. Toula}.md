@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/103683#page/420/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33212452) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Toula, Franz (1845-1920), Austrian mineralogist and geologist; studied at the Technische Hochschule, Wien, as well as at the University; assistant with C.G.F. von Hochstetter 1869-1872; teacher at the Gumpendorfer Realschule 1872; Dr. phil. Univ. Rostock 1873; habil. Techn. Univ. Wien 1877; lecturer in palaeontology ib. 1877-1880, in geology of Austria and Hungary 1880-1881; extraordinary (1881) and ordinary (1884) professor of mineralogy and geology until 1917. (*Toula*).
+Toula, Franz (1845-1920), Austrian mineralogist and geologist; studied at the Technische Hochschule, Wien, as well as at the University; assistant with C.G.F. von Hochstetter 1869-1872; teacher at the Gumpendorfer Realschule 1872; Dr. phil. Univ. Rostock 1873; habil. Techn. Univ. Wien 1877; lecturer in palaeontology ib. 1877-1880, in geology of Austria and Hungary 1880-1881; extraordinary (1881) and ordinary (1884) professor of mineralogy and geology until 1917. 
+**Abbreviated name**: *Toula*
 
 #### Herbarium and types
 

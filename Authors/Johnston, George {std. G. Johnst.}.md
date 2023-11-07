@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103253#page/476/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnston, George (1797-1855), British physician and naturalist; MD Edinburgh 1819; surgeon at Berwick from 1819. (*G. Johnst.*).
+Johnston, George (1797-1855), British physician and naturalist; MD Edinburgh 1819; surgeon at Berwick from 1819. 
+**Abbreviated name**: *G. Johnst.*
 
 #### Herbarium
 

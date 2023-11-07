@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/item/103414#page/364/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33120447) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brereton, John Andrew (1787-1839) American navy, later army, physician and botanist. (*Brereton*).
+Brereton, John Andrew (1787-1839) American navy, later army, physician and botanist. 
+**Abbreviated name**: *Brereton*
 
 #### Herbarium and types
 

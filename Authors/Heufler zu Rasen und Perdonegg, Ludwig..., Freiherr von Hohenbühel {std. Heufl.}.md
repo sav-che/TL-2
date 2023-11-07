@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/103253#page/210/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33068426) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heufler zu Rasen und Perdonegg, Ludwig Samuel Joseph David Alexander, (later, 1865) Freiherr von Hohenbühel (1817-1885), Austrian cryptogamist and state official (k.k. wirklicher Kämmerer 1853, Ministerialrath 1864). (*Heufl.*).
+Heufler zu Rasen und Perdonegg, Ludwig Samuel Joseph David Alexander, (later, 1865) Freiherr von Hohenbühel (1817-1885), Austrian cryptogamist and state official (k.k. wirklicher Kämmerer 1853, Ministerialrath 1864). 
+**Abbreviated name**: *Heufl.*
 
 #### Herbarium and types
 

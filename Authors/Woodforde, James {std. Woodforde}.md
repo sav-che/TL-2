@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103250#page/502/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33066782) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woodforde, James (1771-1837), British physician and botanist; MD Edinburgh 1825. (*Woodforde*).
+Woodforde, James (1771-1837), British physician and botanist; MD Edinburgh 1825. 
+**Abbreviated name**: *Woodforde*
 
 #### Herbarium and types
 

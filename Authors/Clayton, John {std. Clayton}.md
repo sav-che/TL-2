@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/103414#page/557/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clayton, John (1686-1773), British physician in Virginia, correspondent of Gronovius. (*Clayton*).
+Clayton, John (1686-1773), British physician in Virginia, correspondent of Gronovius. 
+**Abbreviated name**: *Clayton*
 
 #### Herbarium and types
 

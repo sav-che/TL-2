@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/item/103253#page/600/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knauth, Christoph(orus) (1638-1694), German botanist and physician at Halle. (*Knauth*).
+Knauth, Christoph(orus) (1638-1694), German botanist and physician at Halle. 
+**Abbreviated name**: *Knauth*
 
 #### Herbarium and types
 

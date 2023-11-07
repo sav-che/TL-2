@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/104077#page/86/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33333211) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saussure, Nicolas Théodore de (1767-1845), Swiss (Genève) botanist and chemist, son of Horace Bénédict de Saussure; scientist of independent means dedicating himself entirely to his research. (*N.T. Saussure*).
+Saussure, Nicolas Théodore de (1767-1845), Swiss (Genève) botanist and chemist, son of Horace Bénédict de Saussure; scientist of independent means dedicating himself entirely to his research. 
+**Abbreviated name**: *N.T. Saussure*
 
 #### Herbarium and types
 

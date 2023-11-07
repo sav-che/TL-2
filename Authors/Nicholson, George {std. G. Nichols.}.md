@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/item/104137#page/756/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33355827) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicholson, George (1847-1908), British gardener at Kew 1873-1886, curator id. 1886-1901; Veitch medal R. H. S. 1894. (*G. Nichols.*).
+Nicholson, George (1847-1908), British gardener at Kew 1873-1886, curator id. 1886-1901; Veitch medal R. H. S. 1894. 
+**Abbreviated name**: *G. Nichols.*
 
 #### Herbarium and types
 

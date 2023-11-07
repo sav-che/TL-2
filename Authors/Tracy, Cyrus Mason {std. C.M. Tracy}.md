@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103683#page/435/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33212467) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tracy, Cyrus Mason (1824-1891), American botanist and civil engineer; some time professor of materia medica Massachusetts College of Pharmacy; writer on the flora of Essex Co., Mass., father of the composer Georg Lowell Tracy. (*C.M. Tracy*).
+Tracy, Cyrus Mason (1824-1891), American botanist and civil engineer; some time professor of materia medica Massachusetts College of Pharmacy; writer on the flora of Essex Co., Mass., father of the composer Georg Lowell Tracy. 
+**Abbreviated name**: *C.M. Tracy*
 
 #### Herbarium and types
 

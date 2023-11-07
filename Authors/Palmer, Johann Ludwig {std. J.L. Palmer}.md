@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103624#page/45/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmer, Johann Ludwig (1784-1836), German physician at Marbach; Dr. med. Tübingen 1817. (*J.L. Palmer*).
+Palmer, Johann Ludwig (1784-1836), German physician at Marbach; Dr. med. Tübingen 1817. 
+**Abbreviated name**: *J.L. Palmer*
 
 #### Herbarium and types
 

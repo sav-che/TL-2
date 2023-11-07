@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/item/103414#page/981/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33121064) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gerard (e), John (1545-1612), British physician ("barber surgeon") and gardener. (*J. Gerard*).
+Gerard (e), John (1545-1612), British physician ("barber surgeon") and gardener. 
+**Abbreviated name**: *J. Gerard*
 
 #### Herbarium
 

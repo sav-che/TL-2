@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/item/103860#page/372/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33266039) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Corner, Edred John Henry (1906-x), British botanist, born in London, at University of Cambridge res. grad. 1927-1929, MA 1930, assistant director at the Singapore Botanical Garden 1929-1945, Principal Field Scientific Officer in Latin America (Unesco program) 1947-1948, lecturer in botany at Cambridge University 1949-1959, id. as reader in plant taxonomy 1959-1965, professor of botany 1966-1973. (*Corner*).
+Corner, Edred John Henry (1906-x), British botanist, born in London, at University of Cambridge res. grad. 1927-1929, MA 1930, assistant director at the Singapore Botanical Garden 1929-1945, Principal Field Scientific Officer in Latin America (Unesco program) 1947-1948, lecturer in botany at Cambridge University 1949-1959, id. as reader in plant taxonomy 1959-1965, professor of botany 1966-1973. 
+**Abbreviated name**: *Corner*
 
 #### Herbarium and types
 

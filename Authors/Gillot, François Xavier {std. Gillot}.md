@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/item/103414#page/995/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/page/33121078) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gillot, (François-) Xavier {std. Gillot} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gillot, François Xavier (1842-1910), French mycologist, physician at Autun. (*Gillot*).
+Gillot, François Xavier (1842-1910), French mycologist, physician at Autun. 
+**Abbreviated name**: *Gillot*
 
 #### Herbarium and types
 

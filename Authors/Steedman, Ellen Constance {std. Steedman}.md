@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/item/104077#page/872/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33333997) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steedman, Ellen Constance (1859-1949), British botanist at Bulawayo, Rhodesia). (*Steedman*).
+Steedman, Ellen Constance (1859-1949), British botanist at Bulawayo, Rhodesia). 
+**Abbreviated name**: *Steedman*
 
 #### Herbarium and types
 

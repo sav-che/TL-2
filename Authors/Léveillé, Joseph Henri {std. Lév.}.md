@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/item/103253#page/891/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33069107) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Léveillé, Joseph Henri (1796-1870), French physician and mycologist at Paris; Dr. med. Paris 1824; one of the discoverers of the basidium. (*Lév.*).
+Léveillé, Joseph Henri (1796-1870), French physician and mycologist at Paris; Dr. med. Paris 1824; one of the discoverers of the basidium. 
+**Abbreviated name**: *Lév.*
 
 #### Herbarium and types
 

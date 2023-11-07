@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/item/103250#page/357/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33066637) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilkie, David (x-1961), British horticulturist; assistant curator, Royal Botanical Garden, Edinburgh. (*Wilkie*).
+Wilkie, David (x-1961), British horticulturist; assistant curator, Royal Botanical Garden, Edinburgh. 
+**Abbreviated name**: *Wilkie*
 
 #### Herbarium and types
 

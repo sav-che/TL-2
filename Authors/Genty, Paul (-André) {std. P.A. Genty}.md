@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103832#page/192/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33258658) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Genty, Paul \[-André\] (1861-1955), French botanist, born 20 Oct 1861 in Dijon (Côte d'Or), member of the Société Botanique de France from 1881, co-founder, Société bourguignonne d'histoire naturelle et de préhistoire, dir., Dijon Botanic Garden 1898-1955 (served 57 years!), died 10 Mai 1955 in the house where he was born. (*P.A. Genty*).
+Genty, Paul \[-André\] (1861-1955), French botanist, born 20 Oct 1861 in Dijon (Côte d'Or), member of the Société Botanique de France from 1881, co-founder, Société bourguignonne d'histoire naturelle et de préhistoire, dir., Dijon Botanic Garden 1898-1955 (served 57 years!), died 10 Mai 1955 in the house where he was born. 
+**Abbreviated name**: *P.A. Genty*
 
 #### Herbarium and types
 

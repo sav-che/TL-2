@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103253#page/190/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hepp, Johann Adam Philipp (1797-1867), German physician, lichenologist and political activist who lived in exile in Switzerland 1851-1867. (*Hepp*).
+Hepp, Johann Adam Philipp (1797-1867), German physician, lichenologist and political activist who lived in exile in Switzerland 1851-1867. 
+**Abbreviated name**: *Hepp*
 
 #### Herbarium and types
 

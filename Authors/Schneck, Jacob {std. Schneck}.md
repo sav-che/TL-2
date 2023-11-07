@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/104077#page/281/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33333406) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneck, Jacob (1843-1906), American botanist; Dr. med. Chicago 1871; practicing physician in Mt. Carmel, Illinois. (*Schneck*).
+Schneck, Jacob (1843-1906), American botanist; Dr. med. Chicago 1871; practicing physician in Mt. Carmel, Illinois. 
+**Abbreviated name**: *Schneck*
 
 #### Herbarium and types
 

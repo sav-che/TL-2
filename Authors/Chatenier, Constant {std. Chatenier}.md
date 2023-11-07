@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103860#page/73/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265740) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chatenier, Constant (1849-1926), French botanist at Lus-la-Croix Haute. (*Chatenier*).
+Chatenier, Constant (1849-1926), French botanist at Lus-la-Croix Haute. 
+**Abbreviated name**: *Chatenier*
 
 #### Herbarium and types
 

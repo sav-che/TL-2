@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103858#page/262/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33264977) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bäumler, Johann Andreas (1847-1926), Slovakian \[Bratislava/Presburg, h.t. Hungarian, Pozsony\] cryptogamist, "Selchermeister" (pork-butcher) and real-estate owner, self-made botanist, especially mycologist. (*Bäuml.*).
+Bäumler, Johann Andreas (1847-1926), Slovakian \[Bratislava/Presburg, h.t. Hungarian, Pozsony\] cryptogamist, "Selchermeister" (pork-butcher) and real-estate owner, self-made botanist, especially mycologist. 
+**Abbreviated name**: *Bäuml.*
 
 #### Herbarium and types
 

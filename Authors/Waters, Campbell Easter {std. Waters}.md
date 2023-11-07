@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/item/103250#page/156/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33066436) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waters, Campbell Easter (1872-1955), American botanist and chemist; A.B. Hopkins Univ. 1895; Dr. phil. 1899; professor of chemistry and physics Connecticut Agricultural College 1901; assistant in chemistry, Johns Hopkins 1901-1904; chemist with the United States National Bureau of Standards 1904-1942, from 1937-1942 as assistant chief of its Division of chemistry. (*Waters*).
+Waters, Campbell Easter (1872-1955), American botanist and chemist; A.B. Hopkins Univ. 1895; Dr. phil. 1899; professor of chemistry and physics Connecticut Agricultural College 1901; assistant in chemistry, Johns Hopkins 1901-1904; chemist with the United States National Bureau of Standards 1904-1942, from 1937-1942 as assistant chief of its Division of chemistry. 
+**Abbreviated name**: *Waters*
 
 #### Herbarium and types
 

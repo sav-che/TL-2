@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/item/103414#page/609/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33120692) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coville, Frederick Vernon {std. Coville} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Coville, Frederick Vernon (1867-1937), American botanist. (*Coville*).
+Coville, Frederick Vernon (1867-1937), American botanist. 
+**Abbreviated name**: *Coville*
 
 #### Herbarium and types
 

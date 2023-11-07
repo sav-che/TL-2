@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103861#page/157/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33266454) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brož, Otto (fl. 1914), Austrian phytopathologist at the k.k. landwirtschaftlich-bakteriologischen und Pflanzenschutzstation in Wien. (*Brož*).
+Brož, Otto (fl. 1914), Austrian phytopathologist at the k.k. landwirtschaftlich-bakteriologischen und Pflanzenschutzstation in Wien. 
+**Abbreviated name**: *Brož*
 
 #### Herbarium and types
 

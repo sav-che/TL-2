@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103253#page/126/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hauck, Ferdinand (1845-1889), Austrian algologist (born at Brünn, Brno); post office official stationed at Trieste 1866-1889; Dr. phil. h.c. Zürich 1883. (*Hauck*).
+Hauck, Ferdinand (1845-1889), Austrian algologist (born at Brünn, Brno); post office official stationed at Trieste 1866-1889; Dr. phil. h.c. Zürich 1883. 
+**Abbreviated name**: *Hauck*
 
 #### Herbarium and types
 

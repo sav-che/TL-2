@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/item/103250#page/608/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33066888) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zodda, Giuseppe (1877-1968), Italian botanist; studied at the University of Messina; assistant for botany ib. 1900-1908; at Catania 1909; teacher at the Technical School of Messina 1909; subsequently at Portici, Potenza, Mantova, Napoli, Siracusa, Bari, finally president of the Istituto Tecnico at Teramo 1932-1947. (*Zodda*).
+Zodda, Giuseppe (1877-1968), Italian botanist; studied at the University of Messina; assistant for botany ib. 1900-1908; at Catania 1909; teacher at the Technical School of Messina 1909; subsequently at Portici, Potenza, Mantova, Napoli, Siracusa, Bari, finally president of the Istituto Tecnico at Teramo 1932-1947. 
+**Abbreviated name**: *Zodda*
 
 #### Herbarium and types
 

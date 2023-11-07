@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/item/103860#page/190/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33265857) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clark, Galen (fl. 1907), American botanist in California. (*G. Clark*).
+Clark, Galen (fl. 1907), American botanist in California. 
+**Abbreviated name**: *G. Clark*
 
 #### Herbarium and types
 

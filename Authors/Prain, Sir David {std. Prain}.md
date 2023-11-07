@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/item/103624#page/390/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prain, Sir David (1857-1944), British botanist; MB Edinburgh 1882; Indian Medical Service 1884-1887; curator herb. Royal Botanic Garden, Calcutta 1887-1898; superintendent id. 1898-1905; professor of botany Calcutta Medical College 1898-1905; director R.B.G. Kew 1905-1922. (*Prain*).
+Prain, Sir David (1857-1944), British botanist; MB Edinburgh 1882; Indian Medical Service 1884-1887; curator herb. Royal Botanic Garden, Calcutta 1887-1898; superintendent id. 1898-1905; professor of botany Calcutta Medical College 1898-1905; director R.B.G. Kew 1905-1922. 
+**Abbreviated name**: *Prain*
 
 #### Herbarium and types
 

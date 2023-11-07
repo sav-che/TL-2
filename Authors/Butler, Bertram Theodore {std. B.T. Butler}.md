@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/item/103861#page/295/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33266592) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Butler, Bertram Theodore (1872-x), American botanist and geologist, born at Nashua, Iowa, Ph. D. University of New York 1933, professor of science in the Montana Wesleyan University, Helena 1903-1906, city supt. of schools and taught in Glendive High School 1906-1907, and College of city in New York 1909-x. (*B.T. Butler*).
+Butler, Bertram Theodore (1872-x), American botanist and geologist, born at Nashua, Iowa, Ph. D. University of New York 1933, professor of science in the Montana Wesleyan University, Helena 1903-1906, city supt. of schools and taught in Glendive High School 1906-1907, and College of city in New York 1909-x. 
+**Abbreviated name**: *B.T. Butler*
 
 #### Herbarium and types
 

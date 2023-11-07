@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/item/103414#page/172/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33120255) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baroni, Eugenio {std. Baroni} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baroni, Eugenio (1865-1943), Italian botanist at Firenze. (*Baroni*).
+Baroni, Eugenio (1865-1943), Italian botanist at Firenze. 
+**Abbreviated name**: *Baroni*
 
 #### Herbarium and types
 

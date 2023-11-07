@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/item/103683#page/353/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33212385) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thyssen, Paul (1891-1974), German (Preuss.-Rheinland) horticulturist and bryologist; studied at the Berlin-Dahlem Gartenbauhochschule; on active service in World War I, assistant horticulturist at Köln 1922, "Gartendirector" ib. 1931. (*Thyssen*).
+Thyssen, Paul (1891-1974), German (Preuss.-Rheinland) horticulturist and bryologist; studied at the Berlin-Dahlem Gartenbauhochschule; on active service in World War I, assistant horticulturist at Köln 1922, "Gartendirector" ib. 1931. 
+**Abbreviated name**: *Thyssen*
 
 #### Herbarium and types
 

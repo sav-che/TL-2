@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/item/103624#page/803/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33190260) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Riedel, Ludwig (1790-1861), German (Prussian) plant collector and traveller; served in the Prussian army 1813-1815; collected in S. France 1816-1817; from 1820-1836 in Brazil as collector for St. Petersburg; from 1821-1822 in Bahia, 1822-1824 in Rio de Janeiro, 1824-1825 in Minas Geraes; 1825-1829 S. Paulo, Matto Grosso, Alto Amazonas, Para, 1830-1831 back in St. Petersburgh; 1830-1833 Rio de Janeiro; 1833-1835 S. Paulo, Goyaz, Minas Geraes; from 1835 in Rio de Janeiro; from 1836-1838 director of the Rio de Janeiro "Passeio publico" of the national herbarium; director of the botanical section of the Museu nacional 1842-1861. (*Riedel*).
+Riedel, Ludwig (1790-1861), German (Prussian) plant collector and traveller; served in the Prussian army 1813-1815; collected in S. France 1816-1817; from 1820-1836 in Brazil as collector for St. Petersburg; from 1821-1822 in Bahia, 1822-1824 in Rio de Janeiro, 1824-1825 in Minas Geraes; 1825-1829 S. Paulo, Matto Grosso, Alto Amazonas, Para, 1830-1831 back in St. Petersburgh; 1830-1833 Rio de Janeiro; 1833-1835 S. Paulo, Goyaz, Minas Geraes; from 1835 in Rio de Janeiro; from 1836-1838 director of the Rio de Janeiro "Passeio publico" of the national herbarium; director of the botanical section of the Museu nacional 1842-1861. 
+**Abbreviated name**: *Riedel*
 
 #### Herbarium and types
 

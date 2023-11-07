@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103835#page/240/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33260218) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dyring, Johan Peder Michael (1849-1930), Norwegian botanist, born 24 Jan 1849 at Porsgrund (Norway), studied in Kristiania (now Oslo) from 1866 until 1874, teacher at Holmestrands Laererskole from 1877, died 1930. (*Dyring*).
+Dyring, Johan Peder Michael (1849-1930), Norwegian botanist, born 24 Jan 1849 at Porsgrund (Norway), studied in Kristiania (now Oslo) from 1866 until 1874, teacher at Holmestrands Laererskole from 1877, died 1930. 
+**Abbreviated name**: *Dyring*
 
 #### Herbarium and types
 

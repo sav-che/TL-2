@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103859#page/335/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265522) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boorsma, Willem Gerbrand (1867-1937), Dutch pharmacist, studied at the University of Utrecht, Dr. pharm. ib. 1891, went to the Dutch East Indies 1891 as Military dispenser, in charge of the Pharmacological Laboratory at the Buitenzorg (Bogor) Botanic Gardens 1892-1917, also, from 1904 teacher at the School of Agriculture at Buitenzorg, from 1914-1924 director of this school, editor of Teysmannia 1911-1912. (*Boorsma*).
+Boorsma, Willem Gerbrand (1867-1937), Dutch pharmacist, studied at the University of Utrecht, Dr. pharm. ib. 1891, went to the Dutch East Indies 1891 as Military dispenser, in charge of the Pharmacological Laboratory at the Buitenzorg (Bogor) Botanic Gardens 1892-1917, also, from 1904 teacher at the School of Agriculture at Buitenzorg, from 1914-1924 director of this school, editor of Teysmannia 1911-1912. 
+**Abbreviated name**: *Boorsma*
 
 #### Herbarium and types
 

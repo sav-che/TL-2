@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/103683#page/285/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33212317) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomas, Mason Blanchard (1866-1912), American botanist; B.S. Cornell Univ. 1890; professor of biology at Wabash College, Crawfordsville, Indiana, succeeding John M. Coulter, 1891-1895; professor of botany ib. 1895-1912; dean of the Faculty 1904-1912. (*M.B. Thomas*).
+Thomas, Mason Blanchard (1866-1912), American botanist; B.S. Cornell Univ. 1890; professor of biology at Wabash College, Crawfordsville, Indiana, succeeding John M. Coulter, 1891-1895; professor of botany ib. 1895-1912; dean of the Faculty 1904-1912. 
+**Abbreviated name**: *M.B. Thomas*
 
 #### Herbarium and types
 

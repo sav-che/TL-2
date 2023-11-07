@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103833#page/45/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33259079) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalmon, Jules (fl. 1877), French botanist and horticulturist at Paris, member of the Société botanique de France. (*Dalmon*).
+Dalmon, Jules (fl. 1877), French botanist and horticulturist at Paris, member of the Société botanique de France. 
+**Abbreviated name**: *Dalmon*
 
 #### Herbarium and types
 

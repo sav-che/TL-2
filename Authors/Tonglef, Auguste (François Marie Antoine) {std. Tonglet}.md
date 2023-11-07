@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103683#page/402/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33212434) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tonglef, Auguste \[François Marie Antoine\] (1864-1936), Belgian provincial administrator and lichenologist at Namur until 1929. (*Tonglet*).
+Tonglef, Auguste \[François Marie Antoine\] (1864-1936), Belgian provincial administrator and lichenologist at Namur until 1929. 
+**Abbreviated name**: *Tonglet*
 
 #### Herbarium and types
 

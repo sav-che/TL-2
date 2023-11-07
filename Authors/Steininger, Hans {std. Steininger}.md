@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/item/104077#page/892/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33334017) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steininger, Hans (1856-1891), Austrian botanist and school teacher from Garsten nr Steyr; teacher at Unterlaussa and Reichraming. (*Steininger*).
+Steininger, Hans (1856-1891), Austrian botanist and school teacher from Garsten nr Steyr; teacher at Unterlaussa and Reichraming. 
+**Abbreviated name**: *Steininger*
 
 #### Herbarium and types
 

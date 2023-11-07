@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/item/103253#page/765/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33068981) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lammersdorff, Johann Anton (*fl*. 1781), German botanist, born at Hannover; Dr. med. Gotting. 1781. (*Lammersd.*).
+Lammersdorff, Johann Anton (*fl*. 1781), German botanist, born at Hannover; Dr. med. Gotting. 1781. 
+**Abbreviated name**: *Lammersd.*
 
 #### Herbarium and types
 

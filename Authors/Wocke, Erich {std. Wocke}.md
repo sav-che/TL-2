@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/item/103250#page/474/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33066754) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wocke, Erich (1863-1941), German (Silesian) gardener at Berlin, Zürich and ultimately at Oliva near Danzig; specialist in alpine plants; builder of the alpine garden in the Botanical Garden, Berlin. (*Wocke*).
+Wocke, Erich (1863-1941), German (Silesian) gardener at Berlin, Zürich and ultimately at Oliva near Danzig; specialist in alpine plants; builder of the alpine garden in the Botanical Garden, Berlin. 
+**Abbreviated name**: *Wocke*
 
 #### Herbarium and types
 

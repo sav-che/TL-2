@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/item/103858#page/354/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265069) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barthel,... (fl. 1869), German teacher at the royal catholic Gymnasium at Neustadt (Westpreussen). (*Barthel*).
+Barthel,... (fl. 1869), German teacher at the royal catholic Gymnasium at Neustadt (Westpreussen). 
+**Abbreviated name**: *Barthel*
 
 #### Note
 

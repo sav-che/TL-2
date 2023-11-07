@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103859#page/19/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33265206) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bebb, Michael Schuck (1833-1895), American botanist, born at Hamilton, Ohio, specialist on willows, had a Salicetum at his home in Illinois, moved with his family to Hamilton 1838, attended a private school, moved to Winnebago, Ill. 1850, attended Beloit College, Beloit, Wisconsin, later at Knoxville, Tennesee and sometime at Washington D.C. (in the Patent Office), subsequently in Fountaindale, ultimately at Rockford, Ill. (*Bebb*).
+Bebb, Michael Schuck (1833-1895), American botanist, born at Hamilton, Ohio, specialist on willows, had a Salicetum at his home in Illinois, moved with his family to Hamilton 1838, attended a private school, moved to Winnebago, Ill. 1850, attended Beloit College, Beloit, Wisconsin, later at Knoxville, Tennesee and sometime at Washington D.C. (in the Patent Office), subsequently in Fountaindale, ultimately at Rockford, Ill. 
+**Abbreviated name**: *Bebb*
 
 #### Herbarium and types
 

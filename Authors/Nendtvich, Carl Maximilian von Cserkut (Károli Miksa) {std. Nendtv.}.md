@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/104137#page/743/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33355814) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nendtvich, Carl Maximilian von Cserkut (Károli Miksa) (1811-1892), Hungarian botanist, Dr. med. Budapest 1836; connected from 1839(?) with the Joseps-Industrieschule (later: the Budapest Polytechnic) from 1850 as professor; also connected with Budapest University. (*Nendtv.*).
+Nendtvich, Carl Maximilian von Cserkut (Károli Miksa) (1811-1892), Hungarian botanist, Dr. med. Budapest 1836; connected from 1839(?) with the Joseps-Industrieschule (later: the Budapest Polytechnic) from 1850 as professor; also connected with Budapest University. 
+**Abbreviated name**: *Nendtv.*
 
 #### Herbarium and types
 

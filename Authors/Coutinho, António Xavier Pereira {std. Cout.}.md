@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/item/103414#page/609/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33120692) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coutinho, António Xavier Pereira {std. Cout.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Coutinho, António Xavier Pereira (1851-1939), Portuguese botanist. (*Cout.*).
+Coutinho, António Xavier Pereira (1851-1939), Portuguese botanist. 
+**Abbreviated name**: *Cout.*
 
 #### Herbarium and types
 

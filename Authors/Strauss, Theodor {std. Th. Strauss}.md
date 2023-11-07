@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103683#page/53/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33212047) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strauss, Theodor (1859-1911), German (Thuringian) merchant and plant collector; representative of an English export firm in Iran ca. 1881-1911, ultimately also vice-consul for England in Sultanabad. (*Th. Strauss*).
+Strauss, Theodor (1859-1911), German (Thuringian) merchant and plant collector; representative of an English export firm in Iran ca. 1881-1911, ultimately also vice-consul for England in Sultanabad. 
+**Abbreviated name**: *Th. Strauss*
 
 #### Herbarium and types
 

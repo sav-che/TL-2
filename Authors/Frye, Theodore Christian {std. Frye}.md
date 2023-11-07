@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/item/103414#page/942/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Frye, Theodore Christian {std. Frye} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Frye, Theodore Christian (1869-1962), American cryptogamist. (*Frye*).
+Frye, Theodore Christian (1869-1962), American cryptogamist. 
+**Abbreviated name**: *Frye*
 
 #### Herbarium and types
 

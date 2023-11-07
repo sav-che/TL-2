@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103859#page/320/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bondar, Gregório (1881-1959), Brazilian entomologist and botanist, "Consultor Técnico do Instituto Central de Fomento econômico da Baía". (*Bondar*).
+Bondar, Gregório (1881-1959), Brazilian entomologist and botanist, "Consultor Técnico do Instituto Central de Fomento econômico da Baía". 
+**Abbreviated name**: *Bondar*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103683#page/359/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33212391) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tiesenhausen, Manfred von (1875-?), Austrian botanist; studied at Genève 1907-1908; Dr. phil. Bern 1912; later with the Institute of general botany at Cluj, Roumania. (*Tiesenhausen*).
+Tiesenhausen, Manfred von (1875-?), Austrian botanist; studied at Genève 1907-1908; Dr. phil. Bern 1912; later with the Institute of general botany at Cluj, Roumania. 
+**Abbreviated name**: *Tiesenhausen*
 
 #### Herbarium and types
 

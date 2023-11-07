@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/item/104137#page/388/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33355459) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mattirolo, Oreste (1856-1947), Italian botanist; at Bologna 1894-1898, extra-ord. prof. 1894, ord. prof. bot. 1895; at Firenze as prof. bot. and director of the botanical garden 1898-1900; idem at Torino 1900-1937. (*Mattir.*).
+Mattirolo, Oreste (1856-1947), Italian botanist; at Bologna 1894-1898, extra-ord. prof. 1894, ord. prof. bot. 1895; at Firenze as prof. bot. and director of the botanical garden 1898-1900; idem at Torino 1900-1937. 
+**Abbreviated name**: *Mattir.*
 
 #### Herbarium and types
 

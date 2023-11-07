@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/item/103832#page/483/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33258949) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fraser, Helen Charlotte Isabella {std. H.C.I. Gwynne-Vaughan} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gwynne-Vaughan, Helen Charlotte Isabelle (Dame) (née Fraser) (1879-1967), English cytologist and mycologist, born 21 Jan 1879 in London, B.Sc. 1904 and D.Sc. 1907 Univ. of London, lecturer in botany, Royal Holloway College, head, Dept. of Botany 1909-1917 and Prof. of Botany 1921-1939, 1941-1944, Birbeck College (Univ. of London), Queen Mary's Army Auxiliary Corps (W.W.-I) in France 1917, president British Mycological Society 1928, Commandant Women's Royal Air Force (W.W.-II) 1939-1941, on 7 Dec 1911 married David Thomas Gwynne-Vaughan (1871-1915), also a botanist, and generally thereafter published under her married surname, C.B.E. 1918, D.B.E. 1919, Linnean Society Medal 1920, died 26 Aug 1967. (*H.C.I. Gwynne-Vaughan*).
+Gwynne-Vaughan, Helen Charlotte Isabelle (Dame) (née Fraser) (1879-1967), English cytologist and mycologist, born 21 Jan 1879 in London, B.Sc. 1904 and D.Sc. 1907 Univ. of London, lecturer in botany, Royal Holloway College, head, Dept. of Botany 1909-1917 and Prof. of Botany 1921-1939, 1941-1944, Birbeck College (Univ. of London), Queen Mary's Army Auxiliary Corps (W.W.-I) in France 1917, president British Mycological Society 1928, Commandant Women's Royal Air Force (W.W.-II) 1939-1941, on 7 Dec 1911 married David Thomas Gwynne-Vaughan (1871-1915), also a botanist, and generally thereafter published under her married surname, C.B.E. 1918, D.B.E. 1919, Linnean Society Medal 1920, died 26 Aug 1967. 
+**Abbreviated name**: *H.C.I. Gwynne-Vaughan*
 
 #### Herbarium and types
 

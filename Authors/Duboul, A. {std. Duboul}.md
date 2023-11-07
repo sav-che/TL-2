@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103835#page/132/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33260110) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duboul, A. (fl. 1886-1890), French botanist. (*Duboul*).
+Duboul, A. (fl. 1886-1890), French botanist. 
+**Abbreviated name**: *Duboul*
 
 #### Herbarium and types
 

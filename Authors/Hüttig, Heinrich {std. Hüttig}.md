@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/item/103253#page/386/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33068602) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hüttig, Heinrich (*fl*. 1872-1890), German botanist and high school teacher at Schweidnitz and Zeitz. (*Hüttig*).
+Hüttig, Heinrich (*fl*. 1872-1890), German botanist and high school teacher at Schweidnitz and Zeitz. 
+**Abbreviated name**: *Hüttig*
 
 #### Herbarium and types
 

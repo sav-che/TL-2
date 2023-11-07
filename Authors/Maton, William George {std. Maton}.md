@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/item/104137#page/382/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33355453) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Maton, William George (1774-1835), British botanist. (*Maton*).
+Maton, William George (1774-1835), British botanist. 
+**Abbreviated name**: *Maton*
 
 #### Herbarium and types
 

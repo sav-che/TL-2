@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103861#page/80/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33266377) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bretzl, Hugo (1878-x), German botanist and philologist, born at Diedolshausen, Kreis Rappoltsweiler, educated at the Lyceum of Strassburg 1890-1897, studied classical philology and botany with Ed. Schwartz and Solms-Laubach, collected in Algeria and Southern France Mar-Apr 1900, Dr. phil. Strassburg 1902. (*H. Bretzl*).
+Bretzl, Hugo (1878-x), German botanist and philologist, born at Diedolshausen, Kreis Rappoltsweiler, educated at the Lyceum of Strassburg 1890-1897, studied classical philology and botany with Ed. Schwartz and Solms-Laubach, collected in Algeria and Southern France Mar-Apr 1900, Dr. phil. Strassburg 1902. 
+**Abbreviated name**: *H. Bretzl*
 
 #### Herbarium and types
 

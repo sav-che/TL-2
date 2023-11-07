@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103250#page/484/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33066764) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolff, Johann Philipp (1743-1825), German (Bavarian) physician and botanist at Schweinfurt. (*J.P. Wolff*).
+Wolff, Johann Philipp (1743-1825), German (Bavarian) physician and botanist at Schweinfurt. 
+**Abbreviated name**: *J.P. Wolff*
 
 #### Herbarium and types
 

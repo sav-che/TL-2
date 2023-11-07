@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103835#page/244/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33260222) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Earle, \[Rev.\] John (1824-1903), English linguist and botanist, born 29 Jan 1824, Churchstowe, Devon, BA Oxford 1845, professor of Anglo-Saxon languages, Oxford 1849-1854 and 1876-1903, Rector of Swanswick, Bath 1857-1903, died 31 Jan 1903 at Oxford. (*J. Earle*).
+Earle, \[Rev.\] John (1824-1903), English linguist and botanist, born 29 Jan 1824, Churchstowe, Devon, BA Oxford 1845, professor of Anglo-Saxon languages, Oxford 1849-1854 and 1876-1903, Rector of Swanswick, Bath 1857-1903, died 31 Jan 1903 at Oxford. 
+**Abbreviated name**: *J. Earle*
 
 #### Herbarium and types
 

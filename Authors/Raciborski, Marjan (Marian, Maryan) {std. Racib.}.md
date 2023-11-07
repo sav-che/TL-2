@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/item/103624#page/543/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33190000) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raciborski, Marjan \[Marian, Maryan\], (1863-1917), Polish botanist; Dr. phil. München 1894; assistant with K. Goebel 1894-1896; at Buitenzorg (Bogor) Java, with M. Treub, 1896-1897; at Kagok, Tegal, Central Java (Java Sugar Experiment Station), succeeding F.A.F.C. Went, 1897-1898; in charge of tobacco research, Buitenzorg 1898-1900; professor of botany at the agricultural university of Dublany, Lemberg, Poland 1900-1909; extraordinary professor of botany at Lemberg 1903, ord. professor and director of the plant-physiological institute ibid. 1909-1912; director of the botanical institute of the University of Krakau 1912-1917; pioneer of nature protection in Poland. (*Racib.*).
+Raciborski, Marjan \[Marian, Maryan\], (1863-1917), Polish botanist; Dr. phil. München 1894; assistant with K. Goebel 1894-1896; at Buitenzorg (Bogor) Java, with M. Treub, 1896-1897; at Kagok, Tegal, Central Java (Java Sugar Experiment Station), succeeding F.A.F.C. Went, 1897-1898; in charge of tobacco research, Buitenzorg 1898-1900; professor of botany at the agricultural university of Dublany, Lemberg, Poland 1900-1909; extraordinary professor of botany at Lemberg 1903, ord. professor and director of the plant-physiological institute ibid. 1909-1912; director of the botanical institute of the University of Krakau 1912-1917; pioneer of nature protection in Poland. 
+**Abbreviated name**: *Racib.*
 
 #### Herbarium and types
 

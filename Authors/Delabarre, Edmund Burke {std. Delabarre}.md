@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103833#page/179/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33259213) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delabarre, Edmund Burke (1863-x), American psychologist, born 25 Sep 1863 at Dover, Maine, student Brown University 1882-1883, A.B. Amherst 1886, A.M. Harvard 1889, Ph.D. University of Freiburg 1891, Assoc. professor of psychology 1891-1896, at Harvard University during absence of prof. Münsterberg 1896-1897, professor 1896-1932. (*Delabarre*).
+Delabarre, Edmund Burke (1863-x), American psychologist, born 25 Sep 1863 at Dover, Maine, student Brown University 1882-1883, A.B. Amherst 1886, A.M. Harvard 1889, Ph.D. University of Freiburg 1891, Assoc. professor of psychology 1891-1896, at Harvard University during absence of prof. Münsterberg 1896-1897, professor 1896-1932. 
+**Abbreviated name**: *Delabarre*
 
 #### Herbarium and types
 

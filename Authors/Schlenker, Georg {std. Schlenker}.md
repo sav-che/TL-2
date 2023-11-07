@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/item/104077#page/234/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33333359) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlenker, Georg (1847-1932), German (Schwaben) botanist, high school teacher at Cannstadt, Württemberg from 1877; Dr. h.c. Stuttgart 1925. (*Schlenker*).
+Schlenker, Georg (1847-1932), German (Schwaben) botanist, high school teacher at Cannstadt, Württemberg from 1877; Dr. h.c. Stuttgart 1925. 
+**Abbreviated name**: *Schlenker*
 
 #### Herbarium and types
 

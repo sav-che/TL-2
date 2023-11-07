@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103832#page/75/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33258541) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fronius, Franz Friedrich \[Friedrich Franz\] (1829-1886), Hungarian evangelical clergyman and botanist, born 9 \[4?\] Jan 1829 in Nadesch (Szász Nádos, Siebenbürgen; now Romania), attended elementary school in Nadesch and gymnasium in Schässburg, studied theology and natural history at Univ. of Leipzig 1847-1849, teacher at the gymnasium of Schässburg (Segesvárott), minister in Arkeden 1859, from 1868 at Agnetheln (Sz.-Agothän, Siebenbürgen) where he died 14 Feb 1886. (*Fronius*).
+Fronius, Franz Friedrich \[Friedrich Franz\] (1829-1886), Hungarian evangelical clergyman and botanist, born 9 \[4?\] Jan 1829 in Nadesch (Szász Nádos, Siebenbürgen; now Romania), attended elementary school in Nadesch and gymnasium in Schässburg, studied theology and natural history at Univ. of Leipzig 1847-1849, teacher at the gymnasium of Schässburg (Segesvárott), minister in Arkeden 1859, from 1868 at Agnetheln (Sz.-Agothän, Siebenbürgen) where he died 14 Feb 1886. 
+**Abbreviated name**: *Fronius*
 
 #### Herbarium and types
 

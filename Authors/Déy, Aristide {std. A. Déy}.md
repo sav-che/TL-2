@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103833#page/295/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Déy, Aristide (1807-1889), French historian and botanist, born 16 Mai 1807 at Arbois (Jura), director of the "Domaines" 1873-1875 at Laon (Aisne), died 17 Feb 1889 at Vendôme (Loir-et-Cher). (*A. Déy*).
+Déy, Aristide (1807-1889), French historian and botanist, born 16 Mai 1807 at Arbois (Jura), director of the "Domaines" 1873-1875 at Laon (Aisne), died 17 Feb 1889 at Vendôme (Loir-et-Cher). 
+**Abbreviated name**: *A. Déy*
 
 #### Herbarium and types
 

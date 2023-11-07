@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/item/103858#page/341/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33265056) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barnades, Miguel (x-1771), Spanish (Catalonian born) botanist, ultimately professor with the Real Jardin de Madrid. (*Barnades*).
+Barnades, Miguel (x-1771), Spanish (Catalonian born) botanist, ultimately professor with the Real Jardin de Madrid. 
+**Abbreviated name**: *Barnades*
 
 #### Herbarium and types
 

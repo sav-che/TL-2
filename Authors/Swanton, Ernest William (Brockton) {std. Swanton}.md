@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/item/103683#page/125/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33212157) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swanton, Ernest William \[Brockton\] (1870-1958), British botanist, schoolmaster and private tutor; curator Haslemere Museum 1897-1948. (*Swanton*).
+Swanton, Ernest William \[Brockton\] (1870-1958), British botanist, schoolmaster and private tutor; curator Haslemere Museum 1897-1948. 
+**Abbreviated name**: *Swanton*
 
 #### Herbarium and types
 

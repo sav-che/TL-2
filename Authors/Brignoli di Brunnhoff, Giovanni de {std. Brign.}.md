@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103414#page/374/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33120457) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brignoli di Brunnhoff, Giovanni de {std. Brign.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brignoli di Brunnhoff, Giovanni de (1774-1857), Italian botanist at Modena. (*Brign.*).
+Brignoli di Brunnhoff, Giovanni de (1774-1857), Italian botanist at Modena. 
+**Abbreviated name**: *Brign.*
 
 #### Herbarium and types
 

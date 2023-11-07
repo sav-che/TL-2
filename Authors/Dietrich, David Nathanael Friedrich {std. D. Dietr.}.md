@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/item/103414#page/699/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33120782) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dietrich, David Nathanael Friedrich {std. D. Dietr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dietrich, David Nathanael Friedrich (1799-1888), German botanical polygraph "Ein Vielschreiber in Jena, der deutschen Buchoz" (PR); baptized as Johann David Nicolaus Dietrich. (*D. Dietr.*).
+Dietrich, David Nathanael Friedrich (1799-1888), German botanical polygraph "Ein Vielschreiber in Jena, der deutschen Buchoz" (PR); baptized as Johann David Nicolaus Dietrich. 
+**Abbreviated name**: *D. Dietr.*
 
 #### Herbarium and types
 

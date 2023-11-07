@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103832#page/409/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33258875) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grinţescu \[Grintescu, Grintzesco\], Joan \[Ioan, Ion, Jean, Johann\] (1874-1963), Romanian pharmacist and botanist, born 13/26 Jan 1874 in Broşteni, studied pharmacy in Bucharest 1895-1896 and Geneva 1896-1898 receiving his diploma 1898, Dr. ès-sciences naturelles 1902 Geneva (under R.-H. Chodat), asst. and "agrégé-particulier", Inst. of Botany, Geneva 1897-1911, prof. of natural sciences, Central College of Agriculture, Bucharest 1911-1919, prof. of anatomy and physiology of plants and dir. of the botany inst., Univ. of Cluj 1919-1936, chair of plant physiology, Univ. of Bucharest 1936-1939, retired 1939, died 1 Jul 1963 in Bucharest. (*J. Grinţ.*).
+Grinţescu \[Grintescu, Grintzesco\], Joan \[Ioan, Ion, Jean, Johann\] (1874-1963), Romanian pharmacist and botanist, born 13/26 Jan 1874 in Broşteni, studied pharmacy in Bucharest 1895-1896 and Geneva 1896-1898 receiving his diploma 1898, Dr. ès-sciences naturelles 1902 Geneva (under R.-H. Chodat), asst. and "agrégé-particulier", Inst. of Botany, Geneva 1897-1911, prof. of natural sciences, Central College of Agriculture, Bucharest 1911-1919, prof. of anatomy and physiology of plants and dir. of the botany inst., Univ. of Cluj 1919-1936, chair of plant physiology, Univ. of Bucharest 1936-1939, retired 1939, died 1 Jul 1963 in Bucharest. 
+**Abbreviated name**: *J. Grinţ.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/item/104077#page/256/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33333381) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Adolf Wilhelm Ferdinand (1812-1899), German (Berlin) botanist, diatomologist and malacologist; studied theology at Halle 1832-1835; theological exam. 1836-1837; private teacher at Merseburg, subsequently curate at Halberstadt and art teacher at the Domgymnasium ib.; deacon (1846) and archdeacon (1848) at Aschersleben (Saxony) until his retirement in 1895; Dr. phil. h.c. Halle 1890. (*Ad. Schmidt*).
+Schmidt, Adolf Wilhelm Ferdinand (1812-1899), German (Berlin) botanist, diatomologist and malacologist; studied theology at Halle 1832-1835; theological exam. 1836-1837; private teacher at Merseburg, subsequently curate at Halberstadt and art teacher at the Domgymnasium ib.; deacon (1846) and archdeacon (1848) at Aschersleben (Saxony) until his retirement in 1895; Dr. phil. h.c. Halle 1890. 
+**Abbreviated name**: *Ad. Schmidt*
 
 #### Herbarium and types
 

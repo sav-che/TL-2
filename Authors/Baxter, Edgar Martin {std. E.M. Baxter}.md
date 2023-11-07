@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103858#page/405/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265120) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baxter, Edgar Martin (1903-1967), American amateur cactus "hobbyist". (*E.M. Baxter*).
+Baxter, Edgar Martin (1903-1967), American amateur cactus "hobbyist". 
+**Abbreviated name**: *E.M. Baxter*
 
 #### Herbarium and types
 

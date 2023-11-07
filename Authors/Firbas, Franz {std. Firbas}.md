@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103834#page/220/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33259702) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Firbas, Franz (1902-1964), German botanist, pioneering plant ecologist and palynologist, born 4 Jun 1902 in Prague, attended schools in Prague, Dr. Sci. Nat. 1924 German Univ. of Prague, asst. to A. Pascher and F. Knoll, to Frankfurt a. M. 1928, to Göttingen 1933-1939, where he became Prof. of Botany 1937, at the School of Agriculture in Hohenheim 1939, then at Univ. of Strasbourg 1941, returned to Göttingen 1946 (after W.W.-II) as extraord. prof., full prof. 1952, Dr. h.c. 1953 Univ. of Munich, died 19 Feb 1964 in Göttingen. (*Firbas*).
+Firbas, Franz (1902-1964), German botanist, pioneering plant ecologist and palynologist, born 4 Jun 1902 in Prague, attended schools in Prague, Dr. Sci. Nat. 1924 German Univ. of Prague, asst. to A. Pascher and F. Knoll, to Frankfurt a. M. 1928, to Göttingen 1933-1939, where he became Prof. of Botany 1937, at the School of Agriculture in Hohenheim 1939, then at Univ. of Strasbourg 1941, returned to Göttingen 1946 (after W.W.-II) as extraord. prof., full prof. 1952, Dr. h.c. 1953 Univ. of Munich, died 19 Feb 1964 in Göttingen. 
+**Abbreviated name**: *Firbas*
 
 #### Herbarium and types
 

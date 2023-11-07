@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103624#page/277/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33189734) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pilar, Georg \[Gjuro\] (1847-1893), Slavonian/Croatian palaeobotanist; professor at Zagreb (Agram) University. (*Pilar*).
+Pilar, Georg \[Gjuro\] (1847-1893), Slavonian/Croatian palaeobotanist; professor at Zagreb (Agram) University. 
+**Abbreviated name**: *Pilar*
 
 #### Collections
 

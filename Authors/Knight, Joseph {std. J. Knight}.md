@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/item/103253#page/603/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33068819) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knight, Joseph (c. 1777-1855), British gardener and nurseryman. (*J. Knight*).
+Knight, Joseph (c. 1777-1855), British gardener and nurseryman. 
+**Abbreviated name**: *J. Knight*
 
 #### Herbarium and types
 

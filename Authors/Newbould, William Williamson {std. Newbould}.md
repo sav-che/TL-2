@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/104137#page/751/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33355822) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Newbould, William Williamson (1819-1886), British botanist and clergyman; BA Cantab 1842; Curate Bluntisham, Hunts, 1845; id. Camberton, Cambr. 1846; later living at Turnham Green and Kew. (*Newbould*).
+Newbould, William Williamson (1819-1886), British botanist and clergyman; BA Cantab 1842; Curate Bluntisham, Hunts, 1845; id. Camberton, Cambr. 1846; later living at Turnham Green and Kew. 
+**Abbreviated name**: *Newbould*
 
 #### Herbarium and types
 

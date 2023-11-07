@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/item/103253#page/65/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33068281) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hamy, Théodore Jules Ernest (1842-1908), French anthropologist, ethnologist, and historian of science. (*Hamy*).
+Hamy, Théodore Jules Ernest (1842-1908), French anthropologist, ethnologist, and historian of science. 
+**Abbreviated name**: *Hamy*
 
 #### Herbarium and types
 

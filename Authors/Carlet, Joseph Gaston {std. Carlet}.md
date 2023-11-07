@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/103861#page/425/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33266722) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carlet, Joseph Gaston (1845-1892), French naturalist and biologist, born at Dijon, studied medicine, préparateur at the École de médecine intern in the hospital at Besançon, "aide-major de l'armée" in the 1870 war, Dr. phil. Paris 1873, professor at Grenoble 1873-1892, died 18 Mai 1892. (*Carlet*).
+Carlet, Joseph Gaston (1845-1892), French naturalist and biologist, born at Dijon, studied medicine, préparateur at the École de médecine intern in the hospital at Besançon, "aide-major de l'armée" in the 1870 war, Dr. phil. Paris 1873, professor at Grenoble 1873-1892, died 18 Mai 1892. 
+**Abbreviated name**: *Carlet*
 
 #### Herbarium and types
 

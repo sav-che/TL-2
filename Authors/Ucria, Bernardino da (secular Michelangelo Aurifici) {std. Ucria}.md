@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/item/103683#page/572/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ucria, Bernardino da (secular: Michelangelo Aurifici) (1739-1796), Italian clergyman (order of St. Francis) and botanist at Palermo, "demonstrator at the Royal Palermo botanical Academy". (*Ucria*).
+Ucria, Bernardino da (secular: Michelangelo Aurifici) (1739-1796), Italian clergyman (order of St. Francis) and botanist at Palermo, "demonstrator at the Royal Palermo botanical Academy". 
+**Abbreviated name**: *Ucria*
 
 #### Herbarium and types
 

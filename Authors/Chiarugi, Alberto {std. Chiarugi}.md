@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/item/103414#page/543/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33120626) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chiarugi, Alberto {std. Chiarugi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Chiarugi, Alberto (1901-1960), Italian botanist at Florence. (*Chiarugi*).
+Chiarugi, Alberto (1901-1960), Italian botanist at Florence. 
+**Abbreviated name**: *Chiarugi*
 
 #### Collections
 

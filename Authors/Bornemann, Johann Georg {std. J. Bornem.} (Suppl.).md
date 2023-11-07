@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/item/103859#page/352/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265539) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bornemann, Johann Georg {std. J. Bornem.}|first entry]] for this author
 
 ### Author
 
-\* Bornemann, Johann Georg (1831-1896), German (born at Mühlhausen, Thüringen) botanist and geologist, educated at the Gymnasium at Mühlhausen 1842-1850, studied natural sciences at the University of Leipzig 1850-1851, id. at Göttingen 1851-1852, id. at Berlin 1852-1853, Dr. phil. Göttingen 1854, travelled and collected in Southern Europe and the Mediterranean area 1856-1861, settled as private scientist at Eisenach 1864-1896. (*J. Bornem.*).
+\* Bornemann, Johann Georg (1831-1896), German (born at Mühlhausen, Thüringen) botanist and geologist, educated at the Gymnasium at Mühlhausen 1842-1850, studied natural sciences at the University of Leipzig 1850-1851, id. at Göttingen 1851-1852, id. at Berlin 1852-1853, Dr. phil. Göttingen 1854, travelled and collected in Southern Europe and the Mediterranean area 1856-1861, settled as private scientist at Eisenach 1864-1896. 
+**Abbreviated name**: *J. Bornem.*
 
 #### Herbarium and types
 

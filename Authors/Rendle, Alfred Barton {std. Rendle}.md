@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/103624#page/741/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Renelle, Alfred Barton (1865-1938), British botanist; BA Cantab 1887, M.A. 1891; B.Sc. London 1887; D.Sci. 1898; connected with the Botany Dept. British Museum, Nat. Hist., from 1888-1906 as assistant, from 1906-1930 as keeper; president Linnean Society, London 1923-1927; F.R.S. 1909; member of the Editorial Committee for the International Rules of botanical Nomenclature 1905-1935; Victoria Medal R.H.S. 1917. (*Rendle*).
+Renelle, Alfred Barton (1865-1938), British botanist; BA Cantab 1887, M.A. 1891; B.Sc. London 1887; D.Sci. 1898; connected with the Botany Dept. British Museum, Nat. Hist., from 1888-1906 as assistant, from 1906-1930 as keeper; president Linnean Society, London 1923-1927; F.R.S. 1909; member of the Editorial Committee for the International Rules of botanical Nomenclature 1905-1935; Victoria Medal R.H.S. 1917. 
+**Abbreviated name**: *Rendle*
 
 #### Herbarium and types
 

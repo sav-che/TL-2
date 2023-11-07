@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/103253#page/743/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lacoizqueta, José Maria de (1831-1891), Spanish clergyman and botanist at Navarte in Navarra. (*Lacoizq.*).
+Lacoizqueta, José Maria de (1831-1891), Spanish clergyman and botanist at Navarte in Navarra. 
+**Abbreviated name**: *Lacoizq.*
 
 #### Herbarium and types
 

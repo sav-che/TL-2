@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/item/103624#page/630/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33190087) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Réchin, Jules (1853-1913), French clergyman and botanist, teacher at Précigni and, from 1876, at the "Collège de Mamers". (*Réchin*).
+Réchin, Jules (1853-1913), French clergyman and botanist, teacher at Précigni and, from 1876, at the "Collège de Mamers". 
+**Abbreviated name**: *Réchin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103683#page/69/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33212063) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stüwe, \[Hermann Heinrich\] Wilhelm \[Theodor\] (1875-?), German (Prussian) pharmacist and botanist; studied pharmacy in Breslau, Neusalz and Sorau; at the University of Greifswald 1903-1909. (*Stüwe*).
+Stüwe, \[Hermann Heinrich\] Wilhelm \[Theodor\] (1875-?), German (Prussian) pharmacist and botanist; studied pharmacy in Breslau, Neusalz and Sorau; at the University of Greifswald 1903-1909. 
+**Abbreviated name**: *Stüwe*
 
 #### Herbarium and types
 

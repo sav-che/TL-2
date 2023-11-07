@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/item/103414#page/773/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33120856) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eeden, Frederik Willem van {std. Eeden} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Eeden, Frederik Willem van (1829-1901), Dutch agronomist and botanist, first director of the Colonial Museum at Haarlem. (*Eeden*).
+Eeden, Frederik Willem van (1829-1901), Dutch agronomist and botanist, first director of the Colonial Museum at Haarlem. 
+**Abbreviated name**: *Eeden*
 
 #### Herbarium and types
 

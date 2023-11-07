@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103253#page/78/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hardwicke, Thomas (1757-1833), British zoologist and botanist; soldier in the Bengal Artillery (1778); major-general in the Indian army (retired 1823); collected in India, Mauritius, South Africa and St. Helena. (*Hardw.*).
+Hardwicke, Thomas (1757-1833), British zoologist and botanist; soldier in the Bengal Artillery (1778); major-general in the Indian army (retired 1823); collected in India, Mauritius, South Africa and St. Helena. 
+**Abbreviated name**: *Hardw.*
 
 #### Herbarium and types
 

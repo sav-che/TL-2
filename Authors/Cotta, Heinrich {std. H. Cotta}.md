@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/item/103860#page/416/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33266083) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cotta, Heinrich (1763-1844), German forest officer, born at Eisenach, Sachsen-Weimar, studied at the University of Jena 1784-1785 fiscal sciences and mathematics, later at the Forstinstitut von Bechstein in Waltershausen, with Grossherzog von Sachsen-Weimar 1794-1801, Forstmeister in Eisenach, from 1810 in Saxony at the Forstlehranstalt of Tharand. (*H. Cotta*).
+Cotta, Heinrich (1763-1844), German forest officer, born at Eisenach, Sachsen-Weimar, studied at the University of Jena 1784-1785 fiscal sciences and mathematics, later at the Forstinstitut von Bechstein in Waltershausen, with Grossherzog von Sachsen-Weimar 1794-1801, Forstmeister in Eisenach, from 1810 in Saxony at the Forstlehranstalt of Tharand. 
+**Abbreviated name**: *H. Cotta*
 
 #### Herbarium and types
 

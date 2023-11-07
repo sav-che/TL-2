@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/item/104137#page/433/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33355504) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Menzies, Archibald (1754-1842), British physician, gardener, botanist, zoologist and plant collector; assistant-surgeon in the Royal Navy 1782; in N.W. America 1786-1789; with Capt. Vancouver on the Voyage of the Discovery and Chatham 1791-1795. (*Menzies*).
+Menzies, Archibald (1754-1842), British physician, gardener, botanist, zoologist and plant collector; assistant-surgeon in the Royal Navy 1782; in N.W. America 1786-1789; with Capt. Vancouver on the Voyage of the Discovery and Chatham 1791-1795. 
+**Abbreviated name**: *Menzies*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/item/103624#page/967/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33190424) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roxas Clemente y Rubio, Simon de (1777-1827), Spanish botanist; librarian of the Jardin botanico de Madrid. (*Roxas*).
+Roxas Clemente y Rubio, Simon de (1777-1827), Spanish botanist; librarian of the Jardin botanico de Madrid. 
+**Abbreviated name**: *Roxas*
 
 #### Herbarium and types
 

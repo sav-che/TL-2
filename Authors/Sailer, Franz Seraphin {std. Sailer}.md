@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1060](https://www.biodiversitylibrary.org/item/103624#page/1074/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1060](https://www.biodiversitylibrary.org/page/33190531) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sailer, Franz Seraphin (1792-1847), Austrian botanist and clergyman; ordained 1816; chaplain at Gallneukirchen 1816-1821; curate at Altenberg and ultimately parson at Pöstingberg until 1835; "Konsistorialrath" at Linz 1835-1847. (*Sailer*).
+Sailer, Franz Seraphin (1792-1847), Austrian botanist and clergyman; ordained 1816; chaplain at Gallneukirchen 1816-1821; curate at Altenberg and ultimately parson at Pöstingberg until 1835; "Konsistorialrath" at Linz 1835-1847. 
+**Abbreviated name**: *Sailer*
 
 #### Herbarium and types
 

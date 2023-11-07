@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/item/104077#page/127/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33333252) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaffner, Wilhelm (later: J. Guillermo Schaffner) (x-1882), German (Hessen) plant collector and pharmacist; settled in Mexico 1856; collected extensively around Mexico, Orizaba and San Louis Potosi. (*W. Schaffn.*).
+Schaffner, Wilhelm (later: J. Guillermo Schaffner) (x-1882), German (Hessen) plant collector and pharmacist; settled in Mexico 1856; collected extensively around Mexico, Orizaba and San Louis Potosi. 
+**Abbreviated name**: *W. Schaffn.*
 
 #### Herbarium and types
 

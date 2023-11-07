@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/item/103860#page/536/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33266203) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cuzent, Gilbert Henri (1820-1891), French botanist, born at Brest, working on Tahiti between 29 Nov 1854 until 16 Mai 1858 as pharmacist of the navy. (*Cuzent*).
+Cuzent, Gilbert Henri (1820-1891), French botanist, born at Brest, working on Tahiti between 29 Nov 1854 until 16 Mai 1858 as pharmacist of the navy. 
+**Abbreviated name**: *Cuzent*
 
 #### Herbarium and types
 

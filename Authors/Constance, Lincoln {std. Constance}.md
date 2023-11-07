@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103860#page/316/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265983) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Constance, Lincoln (1909-x), American botanist, born at Eugene, Oregon, studied at the University of Oregon, A.B. 1930, University of California A.M. 1932, assistant professor of botany and assistant curator of the Herbarium at Washington State College Pullman, 1933-1934, Ph.D. 1934 at University of California, from 1937 at Berkeley as professor of botany, curator of seed plants and director of the University herbarium. (*Constance*).
+Constance, Lincoln (1909-x), American botanist, born at Eugene, Oregon, studied at the University of Oregon, A.B. 1930, University of California A.M. 1932, assistant professor of botany and assistant curator of the Herbarium at Washington State College Pullman, 1933-1934, Ph.D. 1934 at University of California, from 1937 at Berkeley as professor of botany, curator of seed plants and director of the University herbarium. 
+**Abbreviated name**: *Constance*
 
 #### Herbarium and types
 

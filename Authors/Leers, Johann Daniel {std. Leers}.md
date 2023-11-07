@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/item/103253#page/837/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33069053) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leers, Johann Daniel (1727-1774), German botanist and pharmacist; born at Wunsiedel nr. Bayreuth; from 1755 owner of the academic pharmacy at Herborn, Nassau. (*Leers*).
+Leers, Johann Daniel (1727-1774), German botanist and pharmacist; born at Wunsiedel nr. Bayreuth; from 1755 owner of the academic pharmacy at Herborn, Nassau. 
+**Abbreviated name**: *Leers*
 
 #### Herbarium and types
 

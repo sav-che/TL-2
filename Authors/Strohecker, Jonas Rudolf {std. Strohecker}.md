@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103683#page/61/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33212055) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strohecker, Jonas Rudolf (*fl*. 1869), German pharmacist and botanist. (*Strohecker*).
+Strohecker, Jonas Rudolf (*fl*. 1869), German pharmacist and botanist. 
+**Abbreviated name**: *Strohecker*
 
 #### Herbarium and types
 

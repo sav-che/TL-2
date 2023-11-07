@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/item/103683#page/631/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33212663) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Urumoff, Ivan Kiroff \[Urumov, I. Kirov\] (1857-1937), Bulgarian botanist and highschool teacher at Sofia; studied at Heidelberg; student of the flora of Bulgaria. (*Urum.*).
+Urumoff, Ivan Kiroff \[Urumov, I. Kirov\] (1857-1937), Bulgarian botanist and highschool teacher at Sofia; studied at Heidelberg; student of the flora of Bulgaria. 
+**Abbreviated name**: *Urum.*
 
 #### Herbarium and types
 

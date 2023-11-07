@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103414#page/403/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33120486) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brongniart, Alexandre (1770-1847), French palaeobiologist, director of the Sèvres china factory, father of Adolphe Brongniart. (*Al. Brongn.*).
+Brongniart, Alexandre (1770-1847), French palaeobiologist, director of the Sèvres china factory, father of Adolphe Brongniart. 
+**Abbreviated name**: *Al. Brongn.*
 
 #### Collections
 

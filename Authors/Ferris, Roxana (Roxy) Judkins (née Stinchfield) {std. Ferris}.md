@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103834#page/187/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259669) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferris, Roxana ('Roxy') Judkins (née Stinchfield) (1895-1978), American botanist, born 13 Apr 1895 in Sycamore, Calif., B.A. 1915 and M.A. 1916 Stanford Univ., Stanford, Calif., student asst. 1913-1916, asst. 1916-1929, asst. curator 1929-1962 and curator 1962-1963, all Dudley Herb., Stanford Univ., married 20 Aug 1916 Gordon Floyd Ferris, an entomologist, collected widely in the w. U.S.A. and Mexico, died 30 Jun 1978 in Palo Alto, Calif. (*Ferris*).
+Ferris, Roxana ('Roxy') Judkins (née Stinchfield) (1895-1978), American botanist, born 13 Apr 1895 in Sycamore, Calif., B.A. 1915 and M.A. 1916 Stanford Univ., Stanford, Calif., student asst. 1913-1916, asst. 1916-1929, asst. curator 1929-1962 and curator 1962-1963, all Dudley Herb., Stanford Univ., married 20 Aug 1916 Gordon Floyd Ferris, an entomologist, collected widely in the w. U.S.A. and Mexico, died 30 Jun 1978 in Palo Alto, Calif. 
+**Abbreviated name**: *Ferris*
 
 #### Herbarium and types
 

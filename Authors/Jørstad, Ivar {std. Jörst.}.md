@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103253#page/471/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jørstad, Ivar (1887-1967), Norwegian mycologist and phytopathologist; studied at Oslo and Madison, Wisc. (M. Se. 1920); from 1920-1957 government mycologist at Oslo; Dr. phil. Oslo 1934. (*Jörst.*).
+Jørstad, Ivar (1887-1967), Norwegian mycologist and phytopathologist; studied at Oslo and Madison, Wisc. (M. Se. 1920); from 1920-1957 government mycologist at Oslo; Dr. phil. Oslo 1934. 
+**Abbreviated name**: *Jörst.*
 
 #### Herbarium and types
 

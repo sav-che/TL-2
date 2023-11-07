@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/item/104077#page/818/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33333943) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sprengel, Christian Konrad (1750-1816), German (Brandenburg/Prussian) botanist and high school teacher; uncle of Kurt Sprengel; studied theology and philosophy at Halle; teacher "at the Friedrichs-Hospital School, Berlin 1774, from 1780 rector of the Great Lutheran City School at Spandau, teaching natural sciences and languages; pioneer flower biologist. (*CK. Spreng.*).
+Sprengel, Christian Konrad (1750-1816), German (Brandenburg/Prussian) botanist and high school teacher; uncle of Kurt Sprengel; studied theology and philosophy at Halle; teacher "at the Friedrichs-Hospital School, Berlin 1774, from 1780 rector of the Great Lutheran City School at Spandau, teaching natural sciences and languages; pioneer flower biologist. 
+**Abbreviated name**: *CK. Spreng.*
 
 #### Herbarium and types
 

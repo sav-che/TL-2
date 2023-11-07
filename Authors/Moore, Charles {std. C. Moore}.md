@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/item/104137#page/583/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33355654) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moore, Charles (1820-1905), Scottish-born Australian botanist; director of the Botanical Garden at Sydney (1848-1896); younger brother of David Moore. (*C. Moore*).
+Moore, Charles (1820-1905), Scottish-born Australian botanist; director of the Botanical Garden at Sydney (1848-1896); younger brother of David Moore. 
+**Abbreviated name**: *C. Moore*
 
 #### Herbarium and types
 

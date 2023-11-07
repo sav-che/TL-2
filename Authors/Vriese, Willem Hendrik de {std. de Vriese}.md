@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/item/103683#page/802/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33212834) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vriese, Willem Hendrik de (1806-1862), Dutch botanist; studied medicine in Leiden 1825-1830; Dr. med. Leiden 1830; practicing physician and lecturer at the Rotterdam medical school 1831-1834; professor of botany at the University of Amsterdam 1834-1845; from 1845 id. Leiden 1845-1862; travelled in the Dutch East Indies 1858-1861. (*de Vriese*).
+Vriese, Willem Hendrik de (1806-1862), Dutch botanist; studied medicine in Leiden 1825-1830; Dr. med. Leiden 1830; practicing physician and lecturer at the Rotterdam medical school 1831-1834; professor of botany at the University of Amsterdam 1834-1845; from 1845 id. Leiden 1845-1862; travelled in the Dutch East Indies 1858-1861. 
+**Abbreviated name**: *de Vriese*
 
 #### Herbarium and types
 

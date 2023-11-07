@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/item/103253#page/724/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33068940) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kuntze, Carl Ernst Otto (1843-1907), German traveller, botanist and polemic nomenclatural reformer; Dr. phil. Freiburg i.B. 1878; travelled around the world 1874-1876 and in 1904. (*Kuntze*).
+Kuntze, Carl Ernst Otto (1843-1907), German traveller, botanist and polemic nomenclatural reformer; Dr. phil. Freiburg i.B. 1878; travelled around the world 1874-1876 and in 1904. 
+**Abbreviated name**: *Kuntze*
 
 #### Herbarium and types
 

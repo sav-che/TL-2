@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103253#page/75/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33068291) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hanstein, Johannes Ludwig Emil Robertvon (1822-1880), German botanist, at first in Berlin; studied in Berlin with Link and Klotzsch; Dr. phil. Berlin 1848; high school teacher at Berlin 1849-1859; curator at the Berlin herbarium 1860-1865; from 1865, professor of botany in Bonn; creator of the Bonn Botanical Institute; outstanding plant anatomist and developmental morphologist. (*J. Hanst.*).
+Hanstein, Johannes Ludwig Emil Robertvon (1822-1880), German botanist, at first in Berlin; studied in Berlin with Link and Klotzsch; Dr. phil. Berlin 1848; high school teacher at Berlin 1849-1859; curator at the Berlin herbarium 1860-1865; from 1865, professor of botany in Bonn; creator of the Bonn Botanical Institute; outstanding plant anatomist and developmental morphologist. 
+**Abbreviated name**: *J. Hanst.*
 
 #### Herbarium and types
 

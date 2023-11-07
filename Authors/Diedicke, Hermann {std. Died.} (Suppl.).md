@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103833#page/307/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33259341) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Diedicke, Hermann {std. Died.}|first entry]] for this author
 
 ### Author
 
-\* Diedicke, Hermann (1865-1940), German botanist (mycologist) and teacher, born 26 Apr 1865, Delitzsch, Reg.-Bez. Merseburg, died 4 Mai 1940, Erfurt, Thüringen, came 1890 as teacher to Erfurt, conrector in Erfurt. (*Died.*).
+\* Diedicke, Hermann (1865-1940), German botanist (mycologist) and teacher, born 26 Apr 1865, Delitzsch, Reg.-Bez. Merseburg, died 4 Mai 1940, Erfurt, Thüringen, came 1890 as teacher to Erfurt, conrector in Erfurt. 
+**Abbreviated name**: *Died.*
 
 #### Herbarium and types
 

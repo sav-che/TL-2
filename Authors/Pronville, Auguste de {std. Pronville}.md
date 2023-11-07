@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103624#page/432/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pronville, Auguste de (*fl*. 1818), French rhodologist. (*Pronville*).
+Pronville, Auguste de (*fl*. 1818), French rhodologist. 
+**Abbreviated name**: *Pronville*
 
 #### Herbarium and types
 

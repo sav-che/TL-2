@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103253#page/197/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33068413) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hermann, Johannes Gotthelf (1741-x), German pharmacist. (*J. Herm.*).
+Hermann, Johannes Gotthelf (1741-x), German pharmacist. 
+**Abbreviated name**: *J. Herm.*
 
 #### Herbarium and types
 

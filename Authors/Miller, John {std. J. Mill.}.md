@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/item/104137#page/507/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33355578) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miller, John (1849-1918), American botanist active in Erie County, Pennsylvania, (*J. Mill.*).
+Miller, John (1849-1918), American botanist active in Erie County, Pennsylvania, 
+**Abbreviated name**: *J. Mill.*
 
 #### Herbarium and types
 

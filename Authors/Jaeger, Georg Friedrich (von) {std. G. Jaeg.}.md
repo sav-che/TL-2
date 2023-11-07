@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/103253#page/441/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33068657) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaeger, Georg Friedrich \[von\] \[1785-1866\], German physician and naturalist; Dr. med. Tubingen 1808; high school teacher (1822-1844); curator of the Stuttgart "Naturalienkabinett" (1817-1856); "Medizinalrat" (1834-1852); honorary citizen of Stuttgart. (*G. Jaeg.*).
+Jaeger, Georg Friedrich \[von\] \[1785-1866\], German physician and naturalist; Dr. med. Tubingen 1808; high school teacher (1822-1844); curator of the Stuttgart "Naturalienkabinett" (1817-1856); "Medizinalrat" (1834-1852); honorary citizen of Stuttgart. 
+**Abbreviated name**: *G. Jaeg.*
 
 #### Herbarium and types
 

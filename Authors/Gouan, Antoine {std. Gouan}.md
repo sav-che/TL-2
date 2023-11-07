@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 975](https://www.biodiversitylibrary.org/item/103414#page/1023/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 975](https://www.biodiversitylibrary.org/page/33121106) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gouan, Antoine {std. Gouan} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gouan, Antoine (1733-1821), French botanist at Montpellier, correspondent of Linnaeus. (*Gouan*).
+Gouan, Antoine (1733-1821), French botanist at Montpellier, correspondent of Linnaeus. 
+**Abbreviated name**: *Gouan*
 
 #### Herbarium and types
 

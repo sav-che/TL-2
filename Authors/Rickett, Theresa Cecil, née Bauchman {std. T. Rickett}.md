@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 783](https://www.biodiversitylibrary.org/item/103624#page/797/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 783](https://www.biodiversitylibrary.org/page/33190254) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rickett, Theresa Cecil, née Bauchman (1902-x), American botanist; married 28 Aug 1923, Madison, Wisc., Harold William Rickett; Wisconson State Teacher's College (Stevens Point) 1919; BS Univ. Wisconsin 1922; high school teacher at Friendship, Wisc. 1919-1920, Columbus, Wisc. 1922-1923. (*T. Rickett*).
+Rickett, Theresa Cecil, née Bauchman (1902-x), American botanist; married 28 Aug 1923, Madison, Wisc., Harold William Rickett; Wisconson State Teacher's College (Stevens Point) 1919; BS Univ. Wisconsin 1922; high school teacher at Friendship, Wisc. 1919-1920, Columbus, Wisc. 1922-1923. 
+**Abbreviated name**: *T. Rickett*
 
 #### Herbarium and types
 

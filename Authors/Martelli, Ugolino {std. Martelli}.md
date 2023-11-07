@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/item/104137#page/329/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33355400) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martelli, Ugolino (1860-1934), Italian botanist, "gentiluomo di nobilissimo casato", hence independent, at Pisa and Florence; founder of Webbia. (1905). (*Martelli*).
+Martelli, Ugolino (1860-1934), Italian botanist, "gentiluomo di nobilissimo casato", hence independent, at Pisa and Florence; founder of Webbia. (1905). 
+**Abbreviated name**: *Martelli*
 
 #### Herbarium and types
 

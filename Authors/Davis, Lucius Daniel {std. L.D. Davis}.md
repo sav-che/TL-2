@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/item/103833#page/120/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Davis, Lucius Daniel (1826-1900), Methodist Episcopal clergyman, born in Jerusalem, N.Y., later at New York, died 31 Oct 1900, Newport, RI. (*L.D. Davis*).
+Davis, Lucius Daniel (1826-1900), Methodist Episcopal clergyman, born in Jerusalem, N.Y., later at New York, died 31 Oct 1900, Newport, RI. 
+**Abbreviated name**: *L.D. Davis*
 
 #### Herbarium and types
 

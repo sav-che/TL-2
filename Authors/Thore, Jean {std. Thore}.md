@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103683#page/301/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33212333) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thore, Jean (1762-1823), French physician and naturalist; army physician in S. France from 1792, later practicing physician at Dax; from 1815 some time school teacher at Saint-Vincent, ultimately again at Dax. (*Thore*).
+Thore, Jean (1762-1823), French physician and naturalist; army physician in S. France from 1792, later practicing physician at Dax; from 1815 some time school teacher at Saint-Vincent, ultimately again at Dax. 
+**Abbreviated name**: *Thore*
 
 #### Herbarium and types
 

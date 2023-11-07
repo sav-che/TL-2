@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/item/103414#page/275/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33120358) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Blainville, Henri Marie Ducrotay de {std. Blainv.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Blainville, Henri Marie Ducrotay de (1777-1850), French paleobiologist. (*Blainville*).
+Blainville, Henri Marie Ducrotay de (1777-1850), French paleobiologist. 
+**Abbreviated name**: *Blainville*
 
 #### Collections
 

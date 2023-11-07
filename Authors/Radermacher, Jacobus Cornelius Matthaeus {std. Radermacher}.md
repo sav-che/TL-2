@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/item/103624#page/553/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Radermacher, Jacobus Cornelius Matthaeus (1741-1783), Dutch botanist; to the Dutch East Indies 1758 as general administrator, ultimately "Raad van Indië" (State Council); founder of the Bataviaasch Genootschap van Kunsten en Wetenschappen. (*Radermacher*).
+Radermacher, Jacobus Cornelius Matthaeus (1741-1783), Dutch botanist; to the Dutch East Indies 1758 as general administrator, ultimately "Raad van Indië" (State Council); founder of the Bataviaasch Genootschap van Kunsten en Wetenschappen. 
+**Abbreviated name**: *Radermacher*
 
 #### Herbarium and types
 

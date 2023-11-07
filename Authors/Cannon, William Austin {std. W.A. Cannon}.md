@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103861#page/401/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33266698) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cannon, William Austin (1870-1958), American botanist, born 23 September 1870 in Washington, Michigan, died 16 January 1858 in Palo Alto, California, first resident investigator in the Carnegie Institute's Desert Botanical Laboratory in Tucson, Arizona \[duties upto 1 Sep 1903\], plant physiologist, he traveled extensively in Africa and in the arid parts of Mexico. (*W.A. Cannon*).
+Cannon, William Austin (1870-1958), American botanist, born 23 September 1870 in Washington, Michigan, died 16 January 1858 in Palo Alto, California, first resident investigator in the Carnegie Institute's Desert Botanical Laboratory in Tucson, Arizona \[duties upto 1 Sep 1903\], plant physiologist, he traveled extensively in Africa and in the arid parts of Mexico. 
+**Abbreviated name**: *W.A. Cannon*
 
 #### Herbarium and types
 

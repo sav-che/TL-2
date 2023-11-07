@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103832#page/194/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33258660) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Georgia, Ada E. {std. Georgia}|first entry]] for this author
 
 ### Author
 
-\* Georgia, Ada Eljiva (1859-1921), American botanist and educator, born in Newfield, New York, daughter of a stone mason who helped build Cornell Univ., Ithaca, New York, school teacher, Elmira, New York, asst. 1906-1911, Cornell Nature-Study Bureau, which was directed by Liberty Hyde Bailey, and instructor in farm nature-study until 1920, died 8 Jan 1921 in Ithaca. (*Georgia*).
+\* Georgia, Ada Eljiva (1859-1921), American botanist and educator, born in Newfield, New York, daughter of a stone mason who helped build Cornell Univ., Ithaca, New York, school teacher, Elmira, New York, asst. 1906-1911, Cornell Nature-Study Bureau, which was directed by Liberty Hyde Bailey, and instructor in farm nature-study until 1920, died 8 Jan 1921 in Ithaca. 
+**Abbreviated name**: *Georgia*
 
 #### Herbarium and types
 

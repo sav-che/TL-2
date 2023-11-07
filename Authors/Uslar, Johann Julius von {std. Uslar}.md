@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/item/103683#page/631/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33212663) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uslar, Johann Julius von (1762-1838), German (Braunschweig/Brunswick) botanist. (*Uslar*).
+Uslar, Johann Julius von (1762-1838), German (Braunschweig/Brunswick) botanist. 
+**Abbreviated name**: *Uslar*
 
 #### Herbarium and types
 

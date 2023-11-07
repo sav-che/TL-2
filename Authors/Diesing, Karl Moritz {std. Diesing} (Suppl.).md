@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103833#page/332/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33259366) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Diesing, Carl Moritz {std. Diesing}|first entry]] for this author
 
 ### Author
 
-\* Diesing, Karl Moritz (1800-1867), Austrian helminthologist and botanist, born at Krakau 16 Jun 1800, died in Vienna 10 Jan 1867, visited Gymnasium in Lemberg, studied medicine in Vienna from 1819, physician in 1826, custos of the Zoological Museum in Vienna, assistant also on the "Lehrkanzel" of botany under Jacquin, from 1840 with the Kaiserl. Akad. Wiss., Wien. (*Diesing*).
+\* Diesing, Karl Moritz (1800-1867), Austrian helminthologist and botanist, born at Krakau 16 Jun 1800, died in Vienna 10 Jan 1867, visited Gymnasium in Lemberg, studied medicine in Vienna from 1819, physician in 1826, custos of the Zoological Museum in Vienna, assistant also on the "Lehrkanzel" of botany under Jacquin, from 1840 with the Kaiserl. Akad. Wiss., Wien. 
+**Abbreviated name**: *Diesing*
 
 #### Herbarium and types
 

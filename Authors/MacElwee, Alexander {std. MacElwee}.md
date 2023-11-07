@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/item/104137#page/234/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-MacElwee, Alexander (1869-1923), Scottish-born gardener and botanist; in the United States from 1883; curator of botanical collections, Philadelphia College of Pharmacy 1894-1901; gardener on private estates 1901-1916; landscape gardener of the city of Philadelphia 1917-1923. (*MacElwee*).
+MacElwee, Alexander (1869-1923), Scottish-born gardener and botanist; in the United States from 1883; curator of botanical collections, Philadelphia College of Pharmacy 1894-1901; gardener on private estates 1901-1916; landscape gardener of the city of Philadelphia 1917-1923. 
+**Abbreviated name**: *MacElwee*
 
 #### Herbarium and types
 

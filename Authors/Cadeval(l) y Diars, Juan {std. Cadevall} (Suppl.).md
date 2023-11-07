@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103861#page/306/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33266603) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cadeval(l) y Diars, Juan {std. Cadevall}|first entry]] for this author
 
 ### Author
 
-\* Cadeval\[l\] y Diars, Juan (1846-1921), Catalonian botanist, born at Castelligalí, Barcelona, educated at the college San Ignacio de Manresa y Tarrasense and studied at the University of Barcelona, Dr. ci. nat. 1873, teacher at the college Tarrasense as professor of nat. hist., physics and geometrics 1870, later agronomist in the province of Barcelona, wrote numerous botanical works on the environment of Barcelona. (*Cadevall*).
+\* Cadeval\[l\] y Diars, Juan (1846-1921), Catalonian botanist, born at Castelligalí, Barcelona, educated at the college San Ignacio de Manresa y Tarrasense and studied at the University of Barcelona, Dr. ci. nat. 1873, teacher at the college Tarrasense as professor of nat. hist., physics and geometrics 1870, later agronomist in the province of Barcelona, wrote numerous botanical works on the environment of Barcelona. 
+**Abbreviated name**: *Cadevall*
 
 #### Herbarium and types
 

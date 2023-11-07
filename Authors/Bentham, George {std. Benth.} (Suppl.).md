@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103859#page/86/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265273) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bentham, George {std. Benth.}|first entry]] for this author
 
 ### Author
 
-\* Bentham, George (1800-1884), English botanist, in France with his family 1816-1826, studied at Montauban, returned to London 1826, studied law, divided his time between law and botany 1829-1832, active in the Linnean Society from 1828, fully dedicating himself to botany after 1832, moved to Pontrilas House in Herefordshire 1842, returned to London 1854, presented his herbarium and library to the Royal Botanical Gardens at Kew continuing his basic taxonomic work, president of the Linnean Society 1863-1874. (*Benth.*).
+\* Bentham, George (1800-1884), English botanist, in France with his family 1816-1826, studied at Montauban, returned to London 1826, studied law, divided his time between law and botany 1829-1832, active in the Linnean Society from 1828, fully dedicating himself to botany after 1832, moved to Pontrilas House in Herefordshire 1842, returned to London 1854, presented his herbarium and library to the Royal Botanical Gardens at Kew continuing his basic taxonomic work, president of the Linnean Society 1863-1874. 
+**Abbreviated name**: *Benth.*
 
 #### Herbarium and types
 

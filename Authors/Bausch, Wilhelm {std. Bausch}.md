@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103858#page/403/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265118) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bausch, Wilhelm (1804-1873), German (Baden) lawyer and amateur cryptogamist, studied law at Freiburg and Göttingen, practicing from 1829, bailiff in various cities in Baden, ultimately in Karlsruhe as head of an administrative court. (*Bausch*).
+Bausch, Wilhelm (1804-1873), German (Baden) lawyer and amateur cryptogamist, studied law at Freiburg and Göttingen, practicing from 1829, bailiff in various cities in Baden, ultimately in Karlsruhe as head of an administrative court. 
+**Abbreviated name**: *Bausch*
 
 #### Herbarium and types
 

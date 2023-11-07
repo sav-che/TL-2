@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103253#page/44/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33068260) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hall, Harvey Munroe (1874-1932), Californian pioneer biosystematist, at Berkeley, later at Carnegie Institution of Washington at Stanford; inspired the work of Clausen, Keck and Hiesey; took the first initiatives (1930) towards the establishment of an International Bureau of Plant Taxonomy and the compilation of the Index Herbariorum and type registers. (*H. M.Hall*).
+Hall, Harvey Munroe (1874-1932), Californian pioneer biosystematist, at Berkeley, later at Carnegie Institution of Washington at Stanford; inspired the work of Clausen, Keck and Hiesey; took the first initiatives (1930) towards the establishment of an International Bureau of Plant Taxonomy and the compilation of the Index Herbariorum and type registers. 
+**Abbreviated name**: *H. M.Hall*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103683#page/87/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suckow \[Succow\], Laurenz (later: Lorenz) Johann Daniel (1722-1801), German (Mecklenburg) physicist and naturalist; Mag. phil. Jena 1746; lecturer at Jena, subsequently high school teacher of mathematics in Hamburg, from 1756 professor of mathematics and physics at the University of Jena; "weimarischer Kammerrath", father of Georg Adolph Suckow. (*L. Suckow*).
+Suckow \[Succow\], Laurenz (later: Lorenz) Johann Daniel (1722-1801), German (Mecklenburg) physicist and naturalist; Mag. phil. Jena 1746; lecturer at Jena, subsequently high school teacher of mathematics in Hamburg, from 1756 professor of mathematics and physics at the University of Jena; "weimarischer Kammerrath", father of Georg Adolph Suckow. 
+**Abbreviated name**: *L. Suckow*
 
 #### Herbarium and types
 

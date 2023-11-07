@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/item/104077#page/498/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33333623) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Segret, L. (1867-1949), French clergyman and botanist. (*Segret*).
+Segret, L. (1867-1949), French clergyman and botanist. 
+**Abbreviated name**: *Segret*
 
 #### Herbarium and types
 

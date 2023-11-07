@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103835#page/394/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33260372) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Erdinger, Karl (Carl) (1822-1899), Austrian priest and botanist, born 22 Feb 1922 at Steinegg near Horn (Niederösterreich), became director of the episcopal seminar at Krems and Seitenstetten, later dean of the cathedral at St. Pölten, died 14 Dec 1899. (*Erdinger*).
+Erdinger, Karl (Carl) (1822-1899), Austrian priest and botanist, born 22 Feb 1922 at Steinegg near Horn (Niederösterreich), became director of the episcopal seminar at Krems and Seitenstetten, later dean of the cathedral at St. Pölten, died 14 Dec 1899. 
+**Abbreviated name**: *Erdinger*
 
 #### Herbarium and types
 

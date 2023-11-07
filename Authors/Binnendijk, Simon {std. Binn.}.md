@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103414#page/264/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33120347) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Binnendijk, Simon {std. Binn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Binnendijk, Simon (1821-1883), Dutch gardener at Buitenzorg (Bogor), collaborated with Teijsmann. (*Binnend.*).
+Binnendijk, Simon (1821-1883), Dutch gardener at Buitenzorg (Bogor), collaborated with Teijsmann. 
+**Abbreviated name**: *Binnend.*
 
 #### Herbarium and types
 

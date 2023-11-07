@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/104077#page/429/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33333554) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwacke, \[Carl August\] Wilhelm (1848-1904), German (Hannover) botanist; studied botany at Göttingen and Bonn; on active service in the Franco-Prussian war; emigrated to Brazil 1872; "naturalista viajante" travelling scientist for the Rio de Janeiro National Museum 1874-1891; professor of botany at and later director of the School of Pharmacy in Ouro Preto 1891-1904; German vice-consul for Minas Geraes. (*Schwacke*).
+Schwacke, \[Carl August\] Wilhelm (1848-1904), German (Hannover) botanist; studied botany at Göttingen and Bonn; on active service in the Franco-Prussian war; emigrated to Brazil 1872; "naturalista viajante" travelling scientist for the Rio de Janeiro National Museum 1874-1891; professor of botany at and later director of the School of Pharmacy in Ouro Preto 1891-1904; German vice-consul for Minas Geraes. 
+**Abbreviated name**: *Schwacke*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/item/103250#page/374/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33066654) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Willey, Henry (1824-1907), American lawyer, journalist and botanist (lichenologist), admitted to the New York bar 1848; practiced law at Geneseo and Spencerport N.Y. 1848-1851; editor of the New Bedford Daily Evening Standard 1857-1900. (*Willey*).
+Willey, Henry (1824-1907), American lawyer, journalist and botanist (lichenologist), admitted to the New York bar 1848; practiced law at Geneseo and Spencerport N.Y. 1848-1851; editor of the New Bedford Daily Evening Standard 1857-1900. 
+**Abbreviated name**: *Willey*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/item/103414#page/873/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33120956) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ferdinandsen, Carl Christian Frederi(c)k {std. Ferd.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ferdinandsen, Carl Christian Frederic(k) (1879-1944), Danish botanist. (*Ferd.*).
+Ferdinandsen, Carl Christian Frederic(k) (1879-1944), Danish botanist. 
+**Abbreviated name**: *Ferd.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/103414#page/794/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33120877) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Emory, Major William Hemsley (1811-1887) ("Helmsley"), American soldier. (*Emory*).
+Emory, Major William Hemsley (1811-1887) ("Helmsley"), American soldier. 
+**Abbreviated name**: *Emory*
 
 #### Collections
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/item/103859#page/248/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33265435) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bobilioff-Preisser, Wassily (1888-?), Russian (Bielsk) born mycologist and phytopathologist, educated at a secondary school in Bielostok, studied chemistry at the Technical College in Brünn, later at the Polytechnic in Cöthen (Anhalt), worked with Rosenfeld in Breslau and sometime at the brewery experiment station at Freising, Bavaria, studied at the University of Zürich 1912-1915, assistant ib. with A. Ernst; Dr. phil. Zürich 1916, worked in the Treub laboratory, Buitenzorg (Bogor) 1917-1920, later scientist for the rubber culture in the Dutch East Indies in the late twenties and early thirties. (*Bobilioff*).
+Bobilioff-Preisser, Wassily (1888-?), Russian (Bielsk) born mycologist and phytopathologist, educated at a secondary school in Bielostok, studied chemistry at the Technical College in Brünn, later at the Polytechnic in Cöthen (Anhalt), worked with Rosenfeld in Breslau and sometime at the brewery experiment station at Freising, Bavaria, studied at the University of Zürich 1912-1915, assistant ib. with A. Ernst; Dr. phil. Zürich 1916, worked in the Treub laboratory, Buitenzorg (Bogor) 1917-1920, later scientist for the rubber culture in the Dutch East Indies in the late twenties and early thirties. 
+**Abbreviated name**: *Bobilioff*
 
 #### Herbarium and types
 

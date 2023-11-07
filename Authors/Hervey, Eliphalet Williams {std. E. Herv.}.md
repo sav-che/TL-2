@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103253#page/203/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hervey, Eliphalet Williams (1834-1925), American botanist. (*E. Herv.*).
+Hervey, Eliphalet Williams (1834-1925), American botanist. 
+**Abbreviated name**: *E. Herv.*
 
 #### Herbarium and types
 

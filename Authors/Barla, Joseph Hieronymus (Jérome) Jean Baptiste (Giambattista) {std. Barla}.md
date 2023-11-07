@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103414#page/169/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33120252) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barla, (Joseph Hieronymus (Jérome)) Jean Baptiste {std. Barla} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Barla, Joseph Hieronymus (Jérome) Jean Baptiste (Giambattista) (1817-1896), French botanist, director of the natural history museum at Nice. (*Barla*).
+Barla, Joseph Hieronymus (Jérome) Jean Baptiste (Giambattista) (1817-1896), French botanist, director of the natural history museum at Nice. 
+**Abbreviated name**: *Barla*
 
 #### Herbarium and types
 

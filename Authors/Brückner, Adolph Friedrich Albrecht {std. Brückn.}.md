@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/item/103414#page/427/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33120510) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brückner, Adolph Friedrich Albrecht (1781-1818), German physician at Neubrandenburg. (*Brückn.*).
+Brückner, Adolph Friedrich Albrecht (1781-1818), German physician at Neubrandenburg. 
+**Abbreviated name**: *Brückn.*
 
 #### Herbarium and types
 

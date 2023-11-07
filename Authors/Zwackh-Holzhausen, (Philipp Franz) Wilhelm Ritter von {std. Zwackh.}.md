@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/103250#page/625/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zwackh-Holzhausen, \[Philipp Franz\] Wilhelm Ritter von (1825-1903), German (Baden) botanist (lichenologist), soldier and nobleman of private means. (*Zwackh.*).
+Zwackh-Holzhausen, \[Philipp Franz\] Wilhelm Ritter von (1825-1903), German (Baden) botanist (lichenologist), soldier and nobleman of private means. 
+**Abbreviated name**: *Zwackh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103683#page/242/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tharp, Benjamin Carroll (1885-1964), American botanist; Univ. Texas AM 1915; Dr. phil. 1925; botanist and plant physiologist with the Texas Department of Agriculture 1915-1917; associate professor of biology Sam Houston State Teachers College 1917-1919; instructor in botany Univ. Texas 1919-1920, asst. professor ib. 1920-1925, associate professor ib. 1925-1933; professor of botany 1933-1956; emeritus id. from 1956. (*Tharp*).
+Tharp, Benjamin Carroll (1885-1964), American botanist; Univ. Texas AM 1915; Dr. phil. 1925; botanist and plant physiologist with the Texas Department of Agriculture 1915-1917; associate professor of biology Sam Houston State Teachers College 1917-1919; instructor in botany Univ. Texas 1919-1920, asst. professor ib. 1920-1925, associate professor ib. 1925-1933; professor of botany 1933-1956; emeritus id. from 1956. 
+**Abbreviated name**: *Tharp*
 
 #### Herbarium and types
 

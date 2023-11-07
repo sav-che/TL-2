@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103859#page/103/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33265290) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berghaus, Heinrich Karl Wilhelm (1797-1884), German cartographer, from 1824 professor of mathematics at the "Bauakademie" in Berlin. (*Berghaus*).
+Berghaus, Heinrich Karl Wilhelm (1797-1884), German cartographer, from 1824 professor of mathematics at the "Bauakademie" in Berlin. 
+**Abbreviated name**: *Berghaus*
 
 #### Herbarium and types
 

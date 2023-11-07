@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/item/103414#page/128/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33120211) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Aubriot, L. J. (*fl. 1*885), French botanist. (*Aubriot*).
+Aubriot, L. J. (*fl. 1*885), French botanist. 
+**Abbreviated name**: *Aubriot*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103683#page/119/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33212151) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Svenson, Henry Knute \[Knut\] (1897-x), Swedish-born American botanist; Dr. phil. Harvard Univ. 1928; assistant Arnold Arb. 1920; instructor in biology, Union College 1922-1925; asst. prof. biology 1925-1927; asst. Gray herbarium 1928-1929; asst. curator Brooklyn Bot. Gard. 1930-1936, curator herbarium 1936-1946; curator and chairman Dept. Forestry and General Botany, Amer. Mus. nat. hist. 1946-1952; botanist U.S. Geol. Survey 1954-1966. (*Svens.*).
+Svenson, Henry Knute \[Knut\] (1897-x), Swedish-born American botanist; Dr. phil. Harvard Univ. 1928; assistant Arnold Arb. 1920; instructor in biology, Union College 1922-1925; asst. prof. biology 1925-1927; asst. Gray herbarium 1928-1929; asst. curator Brooklyn Bot. Gard. 1930-1936, curator herbarium 1936-1946; curator and chairman Dept. Forestry and General Botany, Amer. Mus. nat. hist. 1946-1952; botanist U.S. Geol. Survey 1954-1966. 
+**Abbreviated name**: *Svens.*
 
 #### Herbarium and types
 

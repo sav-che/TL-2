@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/item/103858#page/410/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bayle-Barelle, Giuseppe (1768-1811), Italian botanist, professor of agriculture at the University of Paris. (*Bayle-Barelle*).
+Bayle-Barelle, Giuseppe (1768-1811), Italian botanist, professor of agriculture at the University of Paris. 
+**Abbreviated name**: *Bayle-Barelle*
 
 #### Herbarium and types
 

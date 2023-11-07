@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103833#page/295/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deyl, Miloš (1906-1985), Czechoslovakian botanist, born at Smidary, Bohemia 19 Jun 1906, died suddenly in Prague on 21 Feb 1985, studied plant ecology with Karel Domin at the Charles University of Prague, scientist of the National Museum in Prague 1933-1976 (from 1965-1970 head of the botany department). (*Deyl*).
+Deyl, Miloš (1906-1985), Czechoslovakian botanist, born at Smidary, Bohemia 19 Jun 1906, died suddenly in Prague on 21 Feb 1985, studied plant ecology with Karel Domin at the Charles University of Prague, scientist of the National Museum in Prague 1933-1976 (from 1965-1970 head of the botany department). 
+**Abbreviated name**: *Deyl*
 
 #### Herbarium and types
 

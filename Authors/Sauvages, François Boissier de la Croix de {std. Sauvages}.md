@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/104077#page/91/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33333216) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sauvages, François Boissier de la Croix de (1706-1767), French naturalist and physician; Dr. med. Montpellier 1726; professor of medicine (1734), later of botany (1740) at the University of Montpellier; royal professor of botany ib. 1755; staunch supporter of Linnaeus and the Linnaean ideas in France. (*Sauvages*).
+Sauvages, François Boissier de la Croix de (1706-1767), French naturalist and physician; Dr. med. Montpellier 1726; professor of medicine (1734), later of botany (1740) at the University of Montpellier; royal professor of botany ib. 1755; staunch supporter of Linnaeus and the Linnaean ideas in France. 
+**Abbreviated name**: *Sauvages*
 
 #### Herbarium and types
 

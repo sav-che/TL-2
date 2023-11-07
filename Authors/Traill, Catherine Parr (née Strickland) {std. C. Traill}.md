@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/103683#page/440/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33212472) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Traill, Catherine Parr (née Strickland) (1802-1899), British naturalist and writer; married Thomas Traill 1832; emigrated to Canada 1832; resident in Lakefield, Ashburnham and Rice Lake, Ontario. (*C. Traill*).
+Traill, Catherine Parr (née Strickland) (1802-1899), British naturalist and writer; married Thomas Traill 1832; emigrated to Canada 1832; resident in Lakefield, Ashburnham and Rice Lake, Ontario. 
+**Abbreviated name**: *C. Traill*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/item/104077#page/900/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stent, Sydney Margaret (1875-1942), South African botanist; caretaker of the Transvaal Dept. Agr. herbarium 1904, subsequently economic botanist and agrostologist ib. until 1930; with the Rhodesian Dept. of Agriculture, Salisbury 1930-1934; in retirement at Pretoria. (*Stent*).
+Stent, Sydney Margaret (1875-1942), South African botanist; caretaker of the Transvaal Dept. Agr. herbarium 1904, subsequently economic botanist and agrostologist ib. until 1930; with the Rhodesian Dept. of Agriculture, Salisbury 1930-1934; in retirement at Pretoria. 
+**Abbreviated name**: *Stent*
 
 #### Herbarium and types
 

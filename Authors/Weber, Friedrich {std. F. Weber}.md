@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/item/103250#page/186/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33066466) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weber, Friedrich (1781-1823), German botanist; Dr. phil. Kiel 1801; supervisor university hospital 1802; adjunct philos. faculty Kiel 1803, extraord. prof. id. 1804; Dr. med. 1805; in charge of the botanical garden 1810; extraord. professor of medicine 1811; son of Georg Heinrich Weber. (*F. Weber*).
+Weber, Friedrich (1781-1823), German botanist; Dr. phil. Kiel 1801; supervisor university hospital 1802; adjunct philos. faculty Kiel 1803, extraord. prof. id. 1804; Dr. med. 1805; in charge of the botanical garden 1810; extraord. professor of medicine 1811; son of Georg Heinrich Weber. 
+**Abbreviated name**: *F. Weber*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103624#page/439/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Puihn, Johann Georg (x-1793), German botanist and physician; regional physician at Kulmbach. (*Puihn*).
+Puihn, Johann Georg (x-1793), German botanist and physician; regional physician at Kulmbach. 
+**Abbreviated name**: *Puihn*
 
 #### Herbarium and types
 

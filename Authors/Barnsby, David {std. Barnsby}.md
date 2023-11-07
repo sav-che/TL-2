@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103858#page/348/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265063) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barnsby, David (fl. 1857-1903), French pharmacist and botanist at Tours (Indre-et-Loire), pharmacist at the general hospital, director of the Jardin des Plantes (1857-1903), teacher for natural history at the school for medicine and pharmacy. (*Barnsby*).
+Barnsby, David (fl. 1857-1903), French pharmacist and botanist at Tours (Indre-et-Loire), pharmacist at the general hospital, director of the Jardin des Plantes (1857-1903), teacher for natural history at the school for medicine and pharmacy. 
+**Abbreviated name**: *Barnsby*
 
 #### Herbarium and types
 

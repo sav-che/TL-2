@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103414#page/466/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33120549) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burret, Karl Ewald Maximilian {std. Burret} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Burret, Karl Ewald Maximilian (1883-1964), German botanist. (*Burret*).
+Burret, Karl Ewald Maximilian (1883-1964), German botanist. 
+**Abbreviated name**: *Burret*
 
 #### Herbarium and types
 

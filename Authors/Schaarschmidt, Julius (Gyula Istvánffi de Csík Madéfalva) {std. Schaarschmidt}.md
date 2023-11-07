@@ -1,10 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/104077#page/112/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaarschmidt, Julius after 1886 Gyula \[von\] Istvánffi de Csík Madéfalva (1860-1930), Hungarian botanist; professor of botany at the Technical University of Budapest. (*Schaarschmidt*).
-
+Schaarschmidt, Julius after 1886 Gyula \[von\] Istvánffi de Csík Madéfalva (1860-1930), Hungarian botanist; professor of botany at the Technical University of Budapest. 
+**Abbreviated name**: *Schaarschmidt*
 **Alternate abbreviation:** (*Istv.*)
 
 #### Herbarium and types

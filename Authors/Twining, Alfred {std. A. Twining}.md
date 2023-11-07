@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/item/103683#page/569/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33212601) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Twining, Alfred (1853-1922), American botanist. (*A. Twining*).
+Twining, Alfred (1853-1922), American botanist. 
+**Abbreviated name**: *A. Twining*
 
 #### Herbarium and types
 

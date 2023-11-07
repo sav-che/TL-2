@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/item/103414#page/980/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Georgia, Ada Eljiva {std. Georgia} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Georgia, Ada E. (x-1921), American botanist. (*Georgia*).
+Georgia, Ada E. (x-1921), American botanist. 
+**Abbreviated name**: *Georgia*
 
 #### Herbarium and types
 

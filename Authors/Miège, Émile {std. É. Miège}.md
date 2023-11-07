@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/item/104137#page/486/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33355557) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miège, Émile (*fl*. 1910), French botanist; Dr. Sci. Paris 1910; agricultural botanist at the École nationale d'agriculture de Rennes. (*É. Miège*).
+Miège, Émile (*fl*. 1910), French botanist; Dr. Sci. Paris 1910; agricultural botanist at the École nationale d'agriculture de Rennes. 
+**Abbreviated name**: *É. Miège*
 
 #### Herbarium and types
 

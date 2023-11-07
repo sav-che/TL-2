@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/item/103624#page/49/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33189468) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palun, Maurice (1777-1860), French botanist at Avignon. (*Palun*).
+Palun, Maurice (1777-1860), French botanist at Avignon. 
+**Abbreviated name**: *Palun*
 
 #### Herbarium and types
 

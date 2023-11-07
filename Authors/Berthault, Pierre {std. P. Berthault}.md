@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/item/103859#page/129/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33265316) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berthault, Pierre (fl. 1911), French agricultural engineer, sometime connected with the botanical laboratory of the École nationale d'Agriculture at Grignon, Dr. sci. nat. Paris 1911. (*P. Berthault*).
+Berthault, Pierre (fl. 1911), French agricultural engineer, sometime connected with the botanical laboratory of the École nationale d'Agriculture at Grignon, Dr. sci. nat. Paris 1911. 
+**Abbreviated name**: *P. Berthault*
 
 #### Herbarium and types
 

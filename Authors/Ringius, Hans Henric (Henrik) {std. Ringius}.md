@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/item/103624#page/810/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33190267) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ringius, Hans Henric \[Henrik\] (1808-1874), Swedish clergyman and botanist in Skåne; Dr. phil. Lund 1838; ultimately rector at Silvåkra and Revinge. (*Ringius*).
+Ringius, Hans Henric \[Henrik\] (1808-1874), Swedish clergyman and botanist in Skåne; Dr. phil. Lund 1838; ultimately rector at Silvåkra and Revinge. 
+**Abbreviated name**: *Ringius*
 
 #### Herbarium and types
 

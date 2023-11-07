@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/item/103414#page/942/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fuchs, Leonhard (1501-1566), German physician and botanist, professor of medicine at Tübingen, one of the German "fathers of botany." (*Fuchs*).
+Fuchs, Leonhard (1501-1566), German physician and botanist, professor of medicine at Tübingen, one of the German "fathers of botany." 
+**Abbreviated name**: *Fuchs*
 
 #### Herbarium and types
 

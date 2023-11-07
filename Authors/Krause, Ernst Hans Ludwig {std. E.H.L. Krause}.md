@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/item/103253#page/691/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krause, Ernst Hans Ludwig (1859-1942), German physician and botanist; Dr. med. Berlin 1881; prolific batologist; longtime "Oberstabarzt" at Saarlouis; later in Rostock. (*E. H. L. Krause*).
+Krause, Ernst Hans Ludwig (1859-1942), German physician and botanist; Dr. med. Berlin 1881; prolific batologist; longtime "Oberstabarzt" at Saarlouis; later in Rostock. 
+**Abbreviated name**: *E. H. L. Krause*
 
 #### Herbarium and types
 

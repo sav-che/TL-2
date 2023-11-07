@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103250#page/479/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33066759) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolf, Carl Brandt (1905-1974), American botanist; studied at Occidental College 1921-1926 (and worked one year with the Theodore Payne Nursery, Los Angeles); A.B. 1926; M.Sc. Stanford 1927, Dr. phil. ib. 1930; teaching assistant Stanford 1927-1930; botanist at the Rancho Santa Ana Botanic Garden 1930-1945; manager of the Sespe Land and Water Company, Fillmore, Calif. 1945-1967. (*C. Wolf*).
+Wolf, Carl Brandt (1905-1974), American botanist; studied at Occidental College 1921-1926 (and worked one year with the Theodore Payne Nursery, Los Angeles); A.B. 1926; M.Sc. Stanford 1927, Dr. phil. ib. 1930; teaching assistant Stanford 1927-1930; botanist at the Rancho Santa Ana Botanic Garden 1930-1945; manager of the Sespe Land and Water Company, Fillmore, Calif. 1945-1967. 
+**Abbreviated name**: *C. Wolf*
 
 #### Herbarium and types
 

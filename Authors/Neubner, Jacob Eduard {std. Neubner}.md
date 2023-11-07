@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/item/104137#page/746/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neubner, Jacob Eduard (1855-?), German lichenologist; Dr. phil. Leipzig 1883; high school teacher at Plaven/Vogtland from 1882. (*Neubner*).
+Neubner, Jacob Eduard (1855-?), German lichenologist; Dr. phil. Leipzig 1883; high school teacher at Plaven/Vogtland from 1882. 
+**Abbreviated name**: *Neubner*
 
 #### Herbarium and types
 

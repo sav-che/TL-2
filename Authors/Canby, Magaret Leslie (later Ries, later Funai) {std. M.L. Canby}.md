@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/item/103861#page/365/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266662) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Canby, Magaret Leslie (later Ries, later Funai) (1904-x), American botanist at Southern California Academy of Sciences... 1927. (*M.L. Canby*).
+Canby, Magaret Leslie (later Ries, later Funai) (1904-x), American botanist at Southern California Academy of Sciences... 1927. 
+**Abbreviated name**: *M.L. Canby*
 
 #### Herbarium and types
 

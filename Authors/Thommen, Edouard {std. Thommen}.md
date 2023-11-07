@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/item/103683#page/288/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33212320) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thommen, Edouard (1880-1961), Swiss philologist and botanist; studied languages at Basel, Paris, Oxford and Göttingen; Dr. phil. Göttingen 1903; stenographer with the Swiss federal government 1903-1906; the Office international du Travail at Basel 1906-1920; with the Bureau international du Travail Genève 1920-1940, from 1940 dedicating himself mainly to Swiss floristic botany. (*Thommen*).
+Thommen, Edouard (1880-1961), Swiss philologist and botanist; studied languages at Basel, Paris, Oxford and Göttingen; Dr. phil. Göttingen 1903; stenographer with the Swiss federal government 1903-1906; the Office international du Travail at Basel 1906-1920; with the Bureau international du Travail Genève 1920-1940, from 1940 dedicating himself mainly to Swiss floristic botany. 
+**Abbreviated name**: *Thommen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103835#page/185/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33260163) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dupler, Alphaeus William (1883-1928), American botanist, born 27 Jul 1883 at Thornville, Ohio, A.B. Juniata 1911, M.S. Chicago 1914, Ph.D. 1917, at Ogden graduate school of science, specialized in plant morphology, gymnosperms, and liverworts. (*Dupler*).
+Dupler, Alphaeus William (1883-1928), American botanist, born 27 Jul 1883 at Thornville, Ohio, A.B. Juniata 1911, M.S. Chicago 1914, Ph.D. 1917, at Ogden graduate school of science, specialized in plant morphology, gymnosperms, and liverworts. 
+**Abbreviated name**: *Dupler*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103835#page/168/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dumée, Paul (1849-1930), French botanist and pharmacist, born 14 Jun 1849 at Coulommiers (Seine-et-Marne), died 1 Mai 1930, studied pharmacy at the "École supérieure de Paris", certificate of pharmacy 1st class 1874, 1874-1909 at Meaux. (*Dumée*).
+Dumée, Paul (1849-1930), French botanist and pharmacist, born 14 Jun 1849 at Coulommiers (Seine-et-Marne), died 1 Mai 1930, studied pharmacy at the "École supérieure de Paris", certificate of pharmacy 1st class 1874, 1874-1909 at Meaux. 
+**Abbreviated name**: *Dumée*
 
 #### Herbarium and types
 

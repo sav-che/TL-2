@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/item/103253#page/535/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33068751) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kausel, Eberhard Max Leopold (1910-1972), Chilean dentist and botanist at Santiago; specialist on Myrtaceae. (*Kausel*).
+Kausel, Eberhard Max Leopold (1910-1972), Chilean dentist and botanist at Santiago; specialist on Myrtaceae. 
+**Abbreviated name**: *Kausel*
 
 #### Herbarium and types
 

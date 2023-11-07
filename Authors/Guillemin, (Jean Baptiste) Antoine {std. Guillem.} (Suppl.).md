@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103832#page/464/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33258930) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Guillemin, (Jean Baptiste) Antoine {std. Guillem.}|first entry]] for this author
 
 ### Author
 
-\* Guillemin, \[Jean Baptiste\] Antoine (1796-1842), French botanist and traveler, born 20 Jan 1796 in Pouilly-sur-Saône (Côtes-d'Or), apprenticed to a pharmacy in Dijon 1812, moved to Geneva 1814 where he studied under Jean Pierre Vaucher and then A.P. de Candolle, moved to Paris 1820 where eventually he succeeded Achille Richard as curator of Benjamin Delessert's herb. and library 1827-1842, simultaneously "aide-préparateur" 1827 and "aide naturaliste" to the botany chair (succeeding Adolphe T. Brongniart) 1834, Muséum natl. d'Histoire naturelle, Paris, Dr. en médecine 1832 Paris, sent on a government sponsored mission to Brazil 1838-1839, died 13 \[15?\] Jan 1842 shortly after moving to Montpellier. (*Guillem.*).
+\* Guillemin, \[Jean Baptiste\] Antoine (1796-1842), French botanist and traveler, born 20 Jan 1796 in Pouilly-sur-Saône (Côtes-d'Or), apprenticed to a pharmacy in Dijon 1812, moved to Geneva 1814 where he studied under Jean Pierre Vaucher and then A.P. de Candolle, moved to Paris 1820 where eventually he succeeded Achille Richard as curator of Benjamin Delessert's herb. and library 1827-1842, simultaneously "aide-préparateur" 1827 and "aide naturaliste" to the botany chair (succeeding Adolphe T. Brongniart) 1834, Muséum natl. d'Histoire naturelle, Paris, Dr. en médecine 1832 Paris, sent on a government sponsored mission to Brazil 1838-1839, died 13 \[15?\] Jan 1842 shortly after moving to Montpellier. 
+**Abbreviated name**: *Guillem.*
 
 #### Note
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/item/103683#page/86/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33212118) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suchlandt, Otto (1873-1947), German (East-Prussian) pharmacist, limnologist and botanist; founded the Rhätische Apotheke in Davos 1911; Dr. phil. Lausanne 1917. (*Suchlandt*).
+Suchlandt, Otto (1873-1947), German (East-Prussian) pharmacist, limnologist and botanist; founded the Rhätische Apotheke in Davos 1911; Dr. phil. Lausanne 1917. 
+**Abbreviated name**: *Suchlandt*
 
 #### Herbarium and types
 

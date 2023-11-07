@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103834#page/30/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33259512) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fabricius, Philipp Conrad {std. Fabr.}|first entry]] for this author
 
 ### Author
 
-\* Fabricius, Philipp Conrad \[Konrad\] (1714-1774), German physician and botanist, born 2 Apr 1714 in Butzbach \[Latin Butisbacum\], Hessen, prof. at the former Univ. of Helmstädt, died 19 Jul 1774 in Helmstädt. (*Fabr.*).
+\* Fabricius, Philipp Conrad \[Konrad\] (1714-1774), German physician and botanist, born 2 Apr 1714 in Butzbach \[Latin Butisbacum\], Hessen, prof. at the former Univ. of Helmstädt, died 19 Jul 1774 in Helmstädt. 
+**Abbreviated name**: *Fabr.*
 
 #### Herbarium and types
 

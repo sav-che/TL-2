@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/103861#page/195/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33266492) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buch, Otto (1848-?), German botanist, studied at the University of Breslau, Ph. D. ib. 1870. (*O. Buch*).
+Buch, Otto (1848-?), German botanist, studied at the University of Breslau, Ph. D. ib. 1870. 
+**Abbreviated name**: *O. Buch*
 
 #### Herbarium and types
 

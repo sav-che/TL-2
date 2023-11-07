@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/104077#page/350/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33333475) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schrenk, Joseph von (1842-1890), Transylvania born botanist who emigrated to the United States ca. 1865; principal of the College Point, Long Island, Public School; in Hoboken, New Jersey from 1886; principal of the German Hoboken Academy and professor of Pharmacy at the New York College of Pharmacy 1886-1890. (*J. Schrenk*).
+Schrenk, Joseph von (1842-1890), Transylvania born botanist who emigrated to the United States ca. 1865; principal of the College Point, Long Island, Public School; in Hoboken, New Jersey from 1886; principal of the German Hoboken Academy and professor of Pharmacy at the New York College of Pharmacy 1886-1890. 
+**Abbreviated name**: *J. Schrenk*
 
 #### Herbarium and types
 

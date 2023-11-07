@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103624#page/44/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33189463) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmer, Ernest Jesse (1875-1962), English-born American botanist and forester; came to the U.S. in 1878; collector for the Missouri Botanical Garden and the Arnold Arboretum; on the staff of the Arnold Arboretum 1921-1948; student of *Crataegus*. (*E.J. Palmer*).
+Palmer, Ernest Jesse (1875-1962), English-born American botanist and forester; came to the U.S. in 1878; collector for the Missouri Botanical Garden and the Arnold Arboretum; on the staff of the Arnold Arboretum 1921-1948; student of *Crataegus*. 
+**Abbreviated name**: *E.J. Palmer*
 
 #### Herbarium and types
 

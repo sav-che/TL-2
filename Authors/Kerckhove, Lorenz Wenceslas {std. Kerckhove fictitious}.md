@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/item/103253#page/550/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33068766) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kerckhove, Lorenz Wenceslas (1785-1839) \[fictitious\] Dutch botanist. (*==Name in the standard form is not specified==.*).
+Kerckhove, Lorenz Wenceslas (1785-1839) \[fictitious\] Dutch botanist. 
+**Abbreviated name**: *==Name in the standard form is not specified==.*
 
 #### Note
 

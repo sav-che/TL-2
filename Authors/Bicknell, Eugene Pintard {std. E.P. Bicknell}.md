@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103414#page/260/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33120343) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bicknell, Eugene Pintard {std. E.P. Bicknell} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bicknell, Eugene Pintard (1859-1925), American banker, botanist and ornithologist. (*E. P. Bicknell*).
+Bicknell, Eugene Pintard (1859-1925), American banker, botanist and ornithologist. 
+**Abbreviated name**: *E. P. Bicknell*
 
 #### Herbarium and types
 

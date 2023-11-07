@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/item/103833#page/246/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33259280) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Desvaux, Nicaise Auguste {std. Desv.}|first entry]] for this author
 
 ### Author
 
-\* Desvaux, Augustin-Niçaise \[also Nicaise Auguste\] (1784-1856), French botanist, born at Poitiers, Vienne 28 Aug 1784, died at his estate de Bellevue near Angers, Maine-et-Loire 12 Jul 1856, from 1813-1814 published by D. the Journal de Botanique rédigé par une Société de Botanistes, from 1817 director of the Botanical Garden at Angers. (*Desv.*).
+\* Desvaux, Augustin-Niçaise \[also Nicaise Auguste\] (1784-1856), French botanist, born at Poitiers, Vienne 28 Aug 1784, died at his estate de Bellevue near Angers, Maine-et-Loire 12 Jul 1856, from 1813-1814 published by D. the Journal de Botanique rédigé par une Société de Botanistes, from 1817 director of the Botanical Garden at Angers. 
+**Abbreviated name**: *Desv.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/104137#page/387/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33355458) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Matthiesen, Franz (1878-1914), German botanist; Dr. phil. München 1907. (*Matthiesen*).
+Matthiesen, Franz (1878-1914), German botanist; Dr. phil. München 1907. 
+**Abbreviated name**: *Matthiesen*
 
 #### Herbarium and types
 

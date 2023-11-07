@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103859#page/131/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33265318) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berthold, Gottfried Dietrich Wilhelm {std. Berthold}|first entry]] for this author
 
 ### Author
 
-\* Berthold, Gottfried Dietrich Wilhelm (1854-1937), German (Westfalen) botanist, educated at Dortmund (Rektoratsschule), studied at Würzburg 1874-1877, and Göttingen 1877-1878, Dr. phil. ib. 1878, assistant at the institute for plant physiology ib. 1878-1879, assistant at the Zoological Station at Napoli 1879-1881, habil. Göttingen 1881, worked with Morren in Liège 1883-1884, again at Napoli 1884-1886, extraordinary professor at Göttingen (1884-)1885-1887, from 1887-1923 regular professor ib. and director of the institute for plant physiology, in retirement from 1923. (*Berthold*).
+\* Berthold, Gottfried Dietrich Wilhelm (1854-1937), German (Westfalen) botanist, educated at Dortmund (Rektoratsschule), studied at Würzburg 1874-1877, and Göttingen 1877-1878, Dr. phil. ib. 1878, assistant at the institute for plant physiology ib. 1878-1879, assistant at the Zoological Station at Napoli 1879-1881, habil. Göttingen 1881, worked with Morren in Liège 1883-1884, again at Napoli 1884-1886, extraordinary professor at Göttingen (1884-)1885-1887, from 1887-1923 regular professor ib. and director of the institute for plant physiology, in retirement from 1923. 
+**Abbreviated name**: *Berthold*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103253#page/204/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herzog, Theodor \[Carl Julius\] (1880-1961), German bryologist who collected widely e.g. in Sardinia (1904, 1906), Ceylon (1905-1908) and Bolivia (1907-1912); Dr. phil. München 1903; Dr. phil. h.c. Greifswald 1955; professor of botany at München (1920-1925), at Jena (1925-1948). (*Herz.*).
+Herzog, Theodor \[Carl Julius\] (1880-1961), German bryologist who collected widely e.g. in Sardinia (1904, 1906), Ceylon (1905-1908) and Bolivia (1907-1912); Dr. phil. München 1903; Dr. phil. h.c. Greifswald 1955; professor of botany at München (1920-1925), at Jena (1925-1948). 
+**Abbreviated name**: *Herz.*
 
 #### Herbarium and types
 

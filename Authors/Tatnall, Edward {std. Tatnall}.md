@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103683#page/188/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33212220) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tatnall, Edward (1818-1898), American farmer, industrialist and botanist at Wilmington, Delaware; pioneer fruitcanner and match-maker. (*Tatnall*).
+Tatnall, Edward (1818-1898), American farmer, industrialist and botanist at Wilmington, Delaware; pioneer fruitcanner and match-maker. 
+**Abbreviated name**: *Tatnall*
 
 #### Herbarium and types
 

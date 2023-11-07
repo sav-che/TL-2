@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/item/103624#page/55/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33189474) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pancher, Jean Armand Isidore (1814-1877), French gardener, botanist and collector ("jardinier colonial") in Tahiti (1849-1857) and in New Caledonia 1857-1869, in France 1869-1874; again to New Caledonia, for J. Linden 1874-1877. (*Pancher*).
+Pancher, Jean Armand Isidore (1814-1877), French gardener, botanist and collector ("jardinier colonial") in Tahiti (1849-1857) and in New Caledonia 1857-1869, in France 1869-1874; again to New Caledonia, for J. Linden 1874-1877. 
+**Abbreviated name**: *Pancher*
 
 #### Herbarium and types
 

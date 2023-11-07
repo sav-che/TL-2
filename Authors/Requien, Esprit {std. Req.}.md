@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/item/103624#page/747/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33190204) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Requien, Esprit (1788-1851), French botanist, malacologist and palaeontologist at Avignon; from 1809 director of the Avignon botanical garden, from 1840 curator of the "Musée d'histoire naturelle"; botanical explorer of the Provence and Corsica. (*Requien*) (*Req.*).
+Requien, Esprit (1788-1851), French botanist, malacologist and palaeontologist at Avignon; from 1809 director of the Avignon botanical garden, from 1840 curator of the "Musée d'histoire naturelle"; botanical explorer of the Provence and Corsica. (*Requien*) 
+**Abbreviated name**: *Req.*
 
 #### Herbarium and types
 

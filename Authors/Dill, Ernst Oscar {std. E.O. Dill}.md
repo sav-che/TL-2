@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103833#page/351/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33259385) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dill, Ernst Oscar (fl. 1895), Swiss botanist at Basel, Dr. phil. 1895 at the University of Basel. (*E.O. Dill*).
+Dill, Ernst Oscar (fl. 1895), Swiss botanist at Basel, Dr. phil. 1895 at the University of Basel. 
+**Abbreviated name**: *E.O. Dill*
 
 #### Herbarium and types
 

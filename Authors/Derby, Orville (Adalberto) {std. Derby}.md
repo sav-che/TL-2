@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103833#page/224/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33259258) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Derby, Orville \[Adalberto\] (1851-1915), American geologist and palaeontologist, born 23 Jul 1851 at Kelloggsville, N.Y., died 27 Nov 1915 at Rio de Janeiro, studied at Cornell University, assistant in Geological Survey of Brazil 1879, with the Museu Nacional, Brazil, 1886 organized the Geology Survey of the State of São Paulo. (*Derby*).
+Derby, Orville \[Adalberto\] (1851-1915), American geologist and palaeontologist, born 23 Jul 1851 at Kelloggsville, N.Y., died 27 Nov 1915 at Rio de Janeiro, studied at Cornell University, assistant in Geological Survey of Brazil 1879, with the Museu Nacional, Brazil, 1886 organized the Geology Survey of the State of São Paulo. 
+**Abbreviated name**: *Derby*
 
 #### Herbarium and types
 

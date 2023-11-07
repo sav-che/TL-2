@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/104137#page/293/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33355364) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mann, Benjamin Pickmann (1848-1926), American scientific bibliographer and entomologist; A. B. Harvard 1870; instructor bot. Bowdoin Coll. 1877-1881; asst. entomologist USDA 1881-1886; asst. examiner U.S. Patent Office 1887. (*B. Mann*).
+Mann, Benjamin Pickmann (1848-1926), American scientific bibliographer and entomologist; A. B. Harvard 1870; instructor bot. Bowdoin Coll. 1877-1881; asst. entomologist USDA 1881-1886; asst. examiner U.S. Patent Office 1887. 
+**Abbreviated name**: *B. Mann*
 
 #### Herbarium and types
 

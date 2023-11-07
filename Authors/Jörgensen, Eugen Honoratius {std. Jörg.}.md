@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/item/103253#page/471/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jörgensen, Eugen Honoratius (1862-1938), Norwegian high school teacher and botanist at Bergen; associated with Bergens Museum from 1894. (*Jörg.*).
+Jörgensen, Eugen Honoratius (1862-1938), Norwegian high school teacher and botanist at Bergen; associated with Bergens Museum from 1894. 
+**Abbreviated name**: *Jörg.*
 
 #### Herbarium and types
 

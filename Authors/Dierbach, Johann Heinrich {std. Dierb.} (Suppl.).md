@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/item/103833#page/329/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33259363) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dierbach, Johann Heinrich {std. Dierb.}|first entry]] for this author
 
 ### Author
 
-\* Dierbach, Johann Heinrich (1788-1845), German botanist, born 23 Mar 1788 in Heidelberg, died 9 Mar 1798 in Heidelberg, studied at the Heidelberger Gymnasium with professor Mais, after seven years medicine, work 1816, became "Privatdocent" 1817-1820, extraordinary professor in Heidelberg and botanical historian until 1845. (*Dierb.*).
+\* Dierbach, Johann Heinrich (1788-1845), German botanist, born 23 Mar 1788 in Heidelberg, died 9 Mar 1798 in Heidelberg, studied at the Heidelberger Gymnasium with professor Mais, after seven years medicine, work 1816, became "Privatdocent" 1817-1820, extraordinary professor in Heidelberg and botanical historian until 1845. 
+**Abbreviated name**: *Dierb.*
 
 #### Herbarium and types
 

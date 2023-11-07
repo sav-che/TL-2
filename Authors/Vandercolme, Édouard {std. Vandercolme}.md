@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/item/103683#page/671/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33212703) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vandercolme, Édouard (*fl*. 1870), French physician; studied at the Faculté de Médecine, Paris; Dr. med. ib. 1870. (*Vandercolme*).
+Vandercolme, Édouard (*fl*. 1870), French physician; studied at the Faculté de Médecine, Paris; Dr. med. ib. 1870. 
+**Abbreviated name**: *Vandercolme*
 
 #### Herbarium and types
 

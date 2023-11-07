@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/item/103414#page/550/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33120633) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Christmanm, Gottlieb Friedrich (1752-1836), German botanist and physician at Urach (Winneuden). (*Christm.*).
+Christmanm, Gottlieb Friedrich (1752-1836), German botanist and physician at Urach (Winneuden). 
+**Abbreviated name**: *Christm.*
 
 #### Herbarium and types
 

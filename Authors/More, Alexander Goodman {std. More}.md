@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/item/104137#page/591/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33355662) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-More, Alexander Goodman (1830-1895), British botanist, entomologist, and ornithologist; assistant, later curator of the Natural History museum, Dublin (1867-1887). (*More*).
+More, Alexander Goodman (1830-1895), British botanist, entomologist, and ornithologist; assistant, later curator of the Natural History museum, Dublin (1867-1887). 
+**Abbreviated name**: *More*
 
 #### Herbarium and types
 

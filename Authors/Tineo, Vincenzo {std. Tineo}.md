@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103683#page/375/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33212407) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tineo, Vincenzo (1791-1856), Italian botanist; director of the botanical garden and professor of botany at Palermo 1815-1836, chancellor of Palermo University 1838. (*Tineo*).
+Tineo, Vincenzo (1791-1856), Italian botanist; director of the botanical garden and professor of botany at Palermo 1815-1836, chancellor of Palermo University 1838. 
+**Abbreviated name**: *Tineo*
 
 #### Herbarium and types
 

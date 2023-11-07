@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103858#page/260/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33264975) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baerecke, John Frederick (1851-1920), American biologist, M.D. University of Georgia 1899; professor of biology in John B. Stetson University, DeLand, Florida. (*Baerecke*).
+Baerecke, John Frederick (1851-1920), American biologist, M.D. University of Georgia 1899; professor of biology in John B. Stetson University, DeLand, Florida. 
+**Abbreviated name**: *Baerecke*
 
 #### Herbarium and types
 

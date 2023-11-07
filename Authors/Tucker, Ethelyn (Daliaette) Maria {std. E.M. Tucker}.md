@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/item/103683#page/533/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33212565) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tucker, Ethelyn \[Daliaette\] Maria (1871-?), American botanical librarian; assistant Forbes Library, Northampton, Mass. 1897; assistant Harvard College 1897-1904; assistant Arnold Arboretum library 1904-1918; librarian 1918-1933. (*E.M. Tucker*).
+Tucker, Ethelyn \[Daliaette\] Maria (1871-?), American botanical librarian; assistant Forbes Library, Northampton, Mass. 1897; assistant Harvard College 1897-1904; assistant Arnold Arboretum library 1904-1918; librarian 1918-1933. 
+**Abbreviated name**: *E.M. Tucker*
 
 #### Herbarium and types
 

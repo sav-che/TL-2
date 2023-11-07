@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/104137#page/138/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33355209) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Llano, George Albert (1911-x), Cuban-born American lichenologist; student of C. W. Dodge. (*Llano*).
+Llano, George Albert (1911-x), Cuban-born American lichenologist; student of C. W. Dodge. 
+**Abbreviated name**: *Llano*
 
 #### Herbarium and types
 

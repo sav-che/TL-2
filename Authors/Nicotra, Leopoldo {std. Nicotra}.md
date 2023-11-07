@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/104137#page/760/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33355831) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nicotra, Leopoldo (1846-1940), Italian physician and botanist, professor of botany and curator of the botanical garden of Sassari 1892-1900; professor of botany at Messina 1900-1900; at Cagliari 1911-1914. (*Nicotra*).
+Nicotra, Leopoldo (1846-1940), Italian physician and botanist, professor of botany and curator of the botanical garden of Sassari 1892-1900; professor of botany at Messina 1900-1900; at Cagliari 1911-1914. 
+**Abbreviated name**: *Nicotra*
 
 #### Herbarium and types
 

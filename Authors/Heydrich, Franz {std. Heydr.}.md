@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/103253#page/213/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33068429) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heydrich, Franz (x-1911), German algologist. (*Heydr.*).
+Heydrich, Franz (x-1911), German algologist. 
+**Abbreviated name**: *Heydr.*
 
 #### Herbarium and types
 

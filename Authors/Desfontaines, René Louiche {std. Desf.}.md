@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/item/103414#page/675/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33120758) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Desfontaines, René Louiche {std. Desf.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Desfontaines, René Louiche (1750-1833), French botanist, professor at the Jardin des plantes (Muséum d'Histoire nat.) in Paris. (*Desf.*).
+Desfontaines, René Louiche (1750-1833), French botanist, professor at the Jardin des plantes (Muséum d'Histoire nat.) in Paris. 
+**Abbreviated name**: *Desf.*
 
 #### Herbarium and types
 

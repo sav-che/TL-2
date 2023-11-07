@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103624#page/29/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33189500) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palisot de Beauvois, Ambroise Marie François Joseph (1752-1820), French traveller and botanist; from 1786-1787 in Oware and Bénin; 1788-1791 on Haiti; 1791-1798 in the United States (briefly in Haiti again 1793); back in Paris as teacher at the Athenée des Étrangers; member Institut de France 1806; councillor Université de Paris 1815. (*P. Beauv.*).
+Palisot de Beauvois, Ambroise Marie François Joseph (1752-1820), French traveller and botanist; from 1786-1787 in Oware and Bénin; 1788-1791 on Haiti; 1791-1798 in the United States (briefly in Haiti again 1793); back in Paris as teacher at the Athenée des Étrangers; member Institut de France 1806; councillor Université de Paris 1815. 
+**Abbreviated name**: *P. Beauv.*
 
 #### Herbarium and types
 

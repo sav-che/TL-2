@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/103860#page/431/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33266098) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coulter, Thomas {std. Coult.}|first entry]] for this author
 
 ### Author
 
-\* Coulter, Thomas (1793-1843), Irish botanist, born at Dundalk, County Louth, educated in Dundalk, studied at the University of Dublin, Trinity College, explored Central Mexico 1825-1834 and S. California 1831-1833, curator of the herbarium of Trinity; with A.P. de Candolle 1822-1823 at Genève. (*Coult.*).
+\* Coulter, Thomas (1793-1843), Irish botanist, born at Dundalk, County Louth, educated in Dundalk, studied at the University of Dublin, Trinity College, explored Central Mexico 1825-1834 and S. California 1831-1833, curator of the herbarium of Trinity; with A.P. de Candolle 1822-1823 at Genève. 
+**Abbreviated name**: *Coult.*
 
 #### Herbarium and types
 

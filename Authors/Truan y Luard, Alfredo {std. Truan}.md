@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103683#page/521/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33212553) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Truan y Luard, Alfredo (1837-1890), Swiss-born Spanish photographer, lithographer and diatomist; trained as photographer in Switzerland, 1853-1863; from 1863 in Gijon, Spain in charge of a glass factory, and dedicating himself in his spare time to the study of diatoms. (*Truan*).
+Truan y Luard, Alfredo (1837-1890), Swiss-born Spanish photographer, lithographer and diatomist; trained as photographer in Switzerland, 1853-1863; from 1863 in Gijon, Spain in charge of a glass factory, and dedicating himself in his spare time to the study of diatoms. 
+**Abbreviated name**: *Truan*
 
 #### Herbarium and types
 

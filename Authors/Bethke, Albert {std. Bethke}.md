@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103859#page/157/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33265344) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bethke, Albert (1849-1890), German (Prussian) botanist and teacher at secondary schools, educated at the Gymnasia in Konitz and Dt. Krone, studied at the University of Breslau 1872-1873, id. at Königsberg i. Pr. 1873-1878, part-time private teacher concurrently, assistant at the Königsberg botanical garden 1877-1890, Dr. phil. Königsberg 1882. (*Bethke*).
+Bethke, Albert (1849-1890), German (Prussian) botanist and teacher at secondary schools, educated at the Gymnasia in Konitz and Dt. Krone, studied at the University of Breslau 1872-1873, id. at Königsberg i. Pr. 1873-1878, part-time private teacher concurrently, assistant at the Königsberg botanical garden 1877-1890, Dr. phil. Königsberg 1882. 
+**Abbreviated name**: *Bethke*
 
 #### Herbarium and types
 

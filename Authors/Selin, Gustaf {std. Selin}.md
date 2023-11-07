@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/item/104077#page/513/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Selin, Gustaf (1836-1862), Finnish botanist. (*Selin*).
+Selin, Gustaf (1836-1862), Finnish botanist. 
+**Abbreviated name**: *Selin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/104137#page/380/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33355451) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mathews, Ferdinand Schuyler (1845-1938), American botanist. (*F. S. Mathews*).
+Mathews, Ferdinand Schuyler (1845-1938), American botanist. 
+**Abbreviated name**: *F. S. Mathews*
 
 #### Herbarium and types
 

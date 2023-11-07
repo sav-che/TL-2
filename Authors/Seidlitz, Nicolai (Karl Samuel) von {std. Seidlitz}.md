@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/item/104077#page/507/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Seidlitz, Nicolai \[Karl Samuel\] von (1831-1907), Latvian (Baltic-German) botanist and statistician; studied botany at Dorpat 1852-1854; travelled in the Caucasus and Persia 1855-1857; Mag. bot. Dorpat 1858; director of a serilogical school in Nucha (Transkaukasia) 1858-1863; with the surveyors office of the Caucasus 1866-1868; with the Office of Statistics at Tiflis 1868-1877, later judge at Tiflis. (*Seidlitz*).
+Seidlitz, Nicolai \[Karl Samuel\] von (1831-1907), Latvian (Baltic-German) botanist and statistician; studied botany at Dorpat 1852-1854; travelled in the Caucasus and Persia 1855-1857; Mag. bot. Dorpat 1858; director of a serilogical school in Nucha (Transkaukasia) 1858-1863; with the surveyors office of the Caucasus 1866-1868; with the Office of Statistics at Tiflis 1868-1877, later judge at Tiflis. 
+**Abbreviated name**: *Seidlitz*
 
 #### Herbarium and types
 

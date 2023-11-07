@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/103250#page/541/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33066821) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wydler, Heinrich (1800-1883), Swiss botanist; studied medicine and natural sciences in Zürich and Göttingen; sometime teacher at a private school; travelled in the West Indies at the request of A.P. de Candolle 1827; adjunct at the St. Petersburg botanical garden 1828-1830; curator of the de Candolle herbarium 1830-1834; Dr. med. h.c. Basel 1933; high school teacher at Bern 1834, also e.o. prof. botany Bern 1835-1839, 1842-1853, 1857-1874; from 1853 living as private scientist at Bern and Strasbourg. (*Wydl.*).
+Wydler, Heinrich (1800-1883), Swiss botanist; studied medicine and natural sciences in Zürich and Göttingen; sometime teacher at a private school; travelled in the West Indies at the request of A.P. de Candolle 1827; adjunct at the St. Petersburg botanical garden 1828-1830; curator of the de Candolle herbarium 1830-1834; Dr. med. h.c. Basel 1933; high school teacher at Bern 1834, also e.o. prof. botany Bern 1835-1839, 1842-1853, 1857-1874; from 1853 living as private scientist at Bern and Strasbourg. 
+**Abbreviated name**: *Wydl.*
 
 #### Herbarium and types
 

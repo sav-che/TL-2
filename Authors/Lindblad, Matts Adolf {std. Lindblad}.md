@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/item/104137#page/54/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33355087) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lindblad, Matts Adolf (1821-1899), Swedish botanist; Dr. phil. Ups. 1854; lecturer in botany at Uppsala 1855-1873. (*Lindblad*).
+Lindblad, Matts Adolf (1821-1899), Swedish botanist; Dr. phil. Ups. 1854; lecturer in botany at Uppsala 1855-1873. 
+**Abbreviated name**: *Lindblad*
 
 #### Herbarium and types
 

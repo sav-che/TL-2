@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/103414#page/646/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33120729) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Darlington, William {std. Darl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Darlington, William (1782-1863), American physician, botanist and antiquarian at West Chester nr. Philadelphia. (*Darl.*).
+Darlington, William (1782-1863), American physician, botanist and antiquarian at West Chester nr. Philadelphia. 
+**Abbreviated name**: *Darl.*
 
 #### Herbarium and types
 

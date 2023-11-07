@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/item/103624#page/786/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33190243) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richen, Gottfried (1863-?), German-born (Prussian Rheinland) roman catholic clergyman (S. J.) and botanist; from 1889 high shool teacher at Feldkirch (Vorarlberg, Austria). (*Richen*).
+Richen, Gottfried (1863-?), German-born (Prussian Rheinland) roman catholic clergyman (S. J.) and botanist; from 1889 high shool teacher at Feldkirch (Vorarlberg, Austria). 
+**Abbreviated name**: *Richen*
 
 #### Herbarium and types
 

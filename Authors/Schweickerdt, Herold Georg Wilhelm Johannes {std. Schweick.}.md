@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/item/104077#page/441/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schweickerdt, Herold Georg Wilhelm Johannes (1903-1977), South-African botanist (especially agrostologist), (born in Germany, 1904 to S. Africa); B.Sc. Transvaal Universiteitskollege 1924; Dr. phil. Bonn 1928 (student of H. Fitting); with C.E.B. Bremekamp at the University of Pretoria 1928-1931; with the National Herbarium of South Africa from 1932-1944; liaison officer for South African botany at Kew 1934-1938; in protective custody 1940-1944; senior lecturer University of Pretoria 1944-1951; Louis Botha chair for general botany ib. 1952-1963; Havenga prize of the S. African Academy of Sciences and Arts 1962. (*Schweick.*).
+Schweickerdt, Herold Georg Wilhelm Johannes (1903-1977), South-African botanist (especially agrostologist), (born in Germany, 1904 to S. Africa); B.Sc. Transvaal Universiteitskollege 1924; Dr. phil. Bonn 1928 (student of H. Fitting); with C.E.B. Bremekamp at the University of Pretoria 1928-1931; with the National Herbarium of South Africa from 1932-1944; liaison officer for South African botany at Kew 1934-1938; in protective custody 1940-1944; senior lecturer University of Pretoria 1944-1951; Louis Botha chair for general botany ib. 1952-1963; Havenga prize of the S. African Academy of Sciences and Arts 1962. 
+**Abbreviated name**: *Schweick.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/item/104077#page/735/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33333860) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Solander, Daniel \[Carlsson\] (1733-1782), Swedish botanist and traveller; student of Linnaeus at Uppsala 1750-1759; travelled in Lapland and Northern Norway 1753; to England 1760, studied and worked at Oxford; invited 1762 by Linnaeus to become his successor but declined; from 1763-1768 assistant librarian of the British Museum; with J. Banks on the circumnavigation of the Endeavour (Captain Cook) 1768-1771; librarian with Joseph Banks 1771-1782; to Iceland with Banks 1772; also keeper of the Natural History Dept. of the British Museum from 1773. (*Sol.*).
+Solander, Daniel \[Carlsson\] (1733-1782), Swedish botanist and traveller; student of Linnaeus at Uppsala 1750-1759; travelled in Lapland and Northern Norway 1753; to England 1760, studied and worked at Oxford; invited 1762 by Linnaeus to become his successor but declined; from 1763-1768 assistant librarian of the British Museum; with J. Banks on the circumnavigation of the Endeavour (Captain Cook) 1768-1771; librarian with Joseph Banks 1771-1782; to Iceland with Banks 1772; also keeper of the Natural History Dept. of the British Museum from 1773. 
+**Abbreviated name**: *Sol.*
 
 #### Herbarium and types
 

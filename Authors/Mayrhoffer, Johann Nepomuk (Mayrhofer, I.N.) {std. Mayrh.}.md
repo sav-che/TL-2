@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/104137#page/407/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33355478) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mayrhoffer, Johann Nepomuk \[Mayrhofer, I.N.\] (1764-1832), Austrian botanical artist, later at München. (*Mayrh.*).
+Mayrhoffer, Johann Nepomuk \[Mayrhofer, I.N.\] (1764-1832), Austrian botanical artist, later at München. 
+**Abbreviated name**: *Mayrh.*
 
 #### Herbarium and types
 

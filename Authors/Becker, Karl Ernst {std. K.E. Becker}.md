@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/item/103859#page/41/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33265228) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Becker, Karl Ernst (1893-x), German botanist, born at Magdeburg 15 Jan 1893, educated at the König-Wilhelms-Gymnasium until 1912, studied at the Universities of Tübingen and Halle, in World War I on active service until February 1919, Dr. phil. 1920 at Halle-Wittenberg. (*K.E. Becker*).
+Becker, Karl Ernst (1893-x), German botanist, born at Magdeburg 15 Jan 1893, educated at the König-Wilhelms-Gymnasium until 1912, studied at the Universities of Tübingen and Halle, in World War I on active service until February 1919, Dr. phil. 1920 at Halle-Wittenberg. 
+**Abbreviated name**: *K.E. Becker*
 
 #### Herbarium and types
 

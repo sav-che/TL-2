@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/item/104077#page/635/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33333760) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sirks, Marius Jakob (1889-1966), Dutch botanist and geneticist; Dr. phil. Utrecht Univ. 1915 (student of F.A.F.C. Went); plant breeder at Bunnik 1916-1917, botanist and research geneticist at the Institute for plant breeding at Wageningen 1917-1937; extra-ordinary professor of genetics Groningen (and idem at Leiden) 1937-1948; regular professor of genetics Groningen 1948-1960 (1961), secretary of the International Union of Biological Sciences 1935-1947, president 1947-1950. (*Sirks*).
+Sirks, Marius Jakob (1889-1966), Dutch botanist and geneticist; Dr. phil. Utrecht Univ. 1915 (student of F.A.F.C. Went); plant breeder at Bunnik 1916-1917, botanist and research geneticist at the Institute for plant breeding at Wageningen 1917-1937; extra-ordinary professor of genetics Groningen (and idem at Leiden) 1937-1948; regular professor of genetics Groningen 1948-1960 (1961), secretary of the International Union of Biological Sciences 1935-1947, president 1947-1950. 
+**Abbreviated name**: *Sirks*
 
 #### Herbarium and types
 

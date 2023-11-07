@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/104077#page/139/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schelle, Ernst (1864-1929), German gardener and botanist; head gardener at the University botanical Garden of Tübingen. (*Schelle*).
+Schelle, Ernst (1864-1929), German gardener and botanist; head gardener at the University botanical Garden of Tübingen. 
+**Abbreviated name**: *Schelle*
 
 #### Herbarium and types
 

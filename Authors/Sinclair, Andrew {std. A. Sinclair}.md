@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/item/104077#page/626/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33333751) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sinclair, Andrew (ca. 1796-1861), British physician and plant collector; surgeon Royal Navy from ca. 1824; on HMS Sulphur 1834-1842; surgeon convict ship in Australia 1842; colonial secretary New Zealand 1844-1856; collected in Australia, New Zealand and in regions visited by the Sulphur; actively pursuing botanical collecting in retirement; drowned on an expedition nr Mt. Sinclair. (*A. Sinclair*).
+Sinclair, Andrew (ca. 1796-1861), British physician and plant collector; surgeon Royal Navy from ca. 1824; on HMS Sulphur 1834-1842; surgeon convict ship in Australia 1842; colonial secretary New Zealand 1844-1856; collected in Australia, New Zealand and in regions visited by the Sulphur; actively pursuing botanical collecting in retirement; drowned on an expedition nr Mt. Sinclair. 
+**Abbreviated name**: *A. Sinclair*
 
 #### Herbarium and types
 

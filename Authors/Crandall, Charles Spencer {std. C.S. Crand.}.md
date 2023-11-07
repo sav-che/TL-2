@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/item/103860#page/457/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33266124) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crandall, Charles Spencer (1852-1929), American horticulturist, born 12 Oct 1852 at Waverly, N.Y., Foreman gardens Mich. Agric. College 1885-1889, professor botany and horticulture at Colorado Agric. College 1890-1900, instructor and professor University Illinois 1902-1929, died at Hollywood, Calif. 11 Jul 1929. (*C.S. Crand.*).
+Crandall, Charles Spencer (1852-1929), American horticulturist, born 12 Oct 1852 at Waverly, N.Y., Foreman gardens Mich. Agric. College 1885-1889, professor botany and horticulture at Colorado Agric. College 1890-1900, instructor and professor University Illinois 1902-1929, died at Hollywood, Calif. 11 Jul 1929. 
+**Abbreviated name**: *C.S. Crand.*
 
 #### Herbarium and types
 

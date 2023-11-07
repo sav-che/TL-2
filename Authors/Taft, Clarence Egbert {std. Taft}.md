@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103683#page/160/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33212192) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taft, Clarence Egbert (1906-x), American botanist (algologist); Dr. phil. Ohio State University 1934; botanical assistant Univ. Oklahoma 1929-1931; Univ. scholar, Dept. Bot., Ohio State Univ. 1931-1932, graduate assistant 1932-1933, chief assistant 1933-1934, instructor 1934-1951, professor of botany 1951-1977. (*Taft*).
+Taft, Clarence Egbert (1906-x), American botanist (algologist); Dr. phil. Ohio State University 1934; botanical assistant Univ. Oklahoma 1929-1931; Univ. scholar, Dept. Bot., Ohio State Univ. 1931-1932, graduate assistant 1932-1933, chief assistant 1933-1934, instructor 1934-1951, professor of botany 1951-1977. 
+**Abbreviated name**: *Taft*
 
 #### Herbarium and types
 

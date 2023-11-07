@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/item/103860#page/459/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33266126) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Crantz, Heinrich Johann Nepomuk (Freiherr) von {std. Crantz}|first entry]] for this author
 
 ### Author
 
-\* Crantz, Heinrich Johann Nepomuk \[Freiherr\] von (1722-1799), Luxembourg born Austrian physician and botanist at Vienna, on voyage to work mainly with Paris physicians 1750-1754, active physician 1754 with students as professor until 1790, ultimately Austrian "Regierungsrath". (*Crantz*).
+\* Crantz, Heinrich Johann Nepomuk \[Freiherr\] von (1722-1799), Luxembourg born Austrian physician and botanist at Vienna, on voyage to work mainly with Paris physicians 1750-1754, active physician 1754 with students as professor until 1790, ultimately Austrian "Regierungsrath". 
+**Abbreviated name**: *Crantz*
 
 #### Herbarium and types
 

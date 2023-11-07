@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103832#page/209/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33258675) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gibbes, Lewis \[Louis\] Reeve (1810-1894), American mathematician and naturalist, born 14 Aug 1810 in Charleston, South Carolina, attended Pendleton Academy, Pendleton, South Carolina 1823-1827, graduated 1829 South Carolina College (now Univ. of South Carolina, Columbia), held various teaching appointments while studying medicine, M.D. 1836 Medical College of the State, studied in Paris 1836-1837, prof. of mathematics and later astronomy and physics, College of Charleston from 1838 (and for 54 years!), emeritus 1892, died 21 Nov 1894 in Charleston. (*Gibbes*).
+Gibbes, Lewis \[Louis\] Reeve (1810-1894), American mathematician and naturalist, born 14 Aug 1810 in Charleston, South Carolina, attended Pendleton Academy, Pendleton, South Carolina 1823-1827, graduated 1829 South Carolina College (now Univ. of South Carolina, Columbia), held various teaching appointments while studying medicine, M.D. 1836 Medical College of the State, studied in Paris 1836-1837, prof. of mathematics and later astronomy and physics, College of Charleston from 1838 (and for 54 years!), emeritus 1892, died 21 Nov 1894 in Charleston. 
+**Abbreviated name**: *Gibbes*
 
 #### Herbarium and types
 

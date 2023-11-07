@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/104077#page/375/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33333500) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schüep, Otto (1888-x), Swiss botanist, student of C. Schröter; Dr. phil. Zürich 1911, subsequently lecturer in botany at the University of Basel. (*Shüepp*).
+Schüep, Otto (1888-x), Swiss botanist, student of C. Schröter; Dr. phil. Zürich 1911, subsequently lecturer in botany at the University of Basel. 
+**Abbreviated name**: *Shüepp*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/item/103683#page/438/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33212470) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trafvenfelt, Eric Carl (1774-1835), Swedish physician and botanist; Dr. med. Uppsala 1797; ultimately "medicinalråd" at Stockholm, from 1801 with the title professor. (*Trafv.*).
+Trafvenfelt, Eric Carl (1774-1835), Swedish physician and botanist; Dr. med. Uppsala 1797; ultimately "medicinalråd" at Stockholm, from 1801 with the title professor. 
+**Abbreviated name**: *Trafv.*
 
 #### Herbarium and types
 

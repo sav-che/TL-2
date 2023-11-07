@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/item/104077#page/435/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33333560) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwann, Theodor (1810-1882), German (Rhineland-Prussian) microscopist; Dr. med. Berlin 1834; assistant with Johannes Müller at Berlin 1834-1839; postulated the biological nature of alcoholic fermentation (1837); co-operated with M.J. Schleiden in developing the "cell-theory"; professor of anatomy at Louvain 1839; id. at Liège 1848; also professor of physiology ib. from 1858. (*Schwann*).
+Schwann, Theodor (1810-1882), German (Rhineland-Prussian) microscopist; Dr. med. Berlin 1834; assistant with Johannes Müller at Berlin 1834-1839; postulated the biological nature of alcoholic fermentation (1837); co-operated with M.J. Schleiden in developing the "cell-theory"; professor of anatomy at Louvain 1839; id. at Liège 1848; also professor of physiology ib. from 1858. 
+**Abbreviated name**: *Schwann*
 
 #### Herbarium and types
 

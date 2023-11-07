@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/item/103683#page/84/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33212116) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stuxberg, Anton Julius (1849-1902), Swedish zoologist and botanist; Dr. phil. Uppsala 1875; director of the zoological department of the Göteborg Museum 1882; accompanied A.E. Nordenskiöld on his Arctic journeys of 1875-1876 and 1878-1880 (Vega expedition). (*Stuxberg*).
+Stuxberg, Anton Julius (1849-1902), Swedish zoologist and botanist; Dr. phil. Uppsala 1875; director of the zoological department of the Göteborg Museum 1882; accompanied A.E. Nordenskiöld on his Arctic journeys of 1875-1876 and 1878-1880 (Vega expedition). 
+**Abbreviated name**: *Stuxberg*
 
 #### Herbarium and types
 

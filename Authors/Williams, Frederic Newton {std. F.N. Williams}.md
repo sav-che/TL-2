@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/item/103250#page/376/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33066656) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williams, Frederic Newton (1862-1923), British physician and botanist; practicing physician at Brentford, Middlesex, especially interested in Caryophyllaceae. (*F.N. Williams*).
+Williams, Frederic Newton (1862-1923), British physician and botanist; practicing physician at Brentford, Middlesex, especially interested in Caryophyllaceae. 
+**Abbreviated name**: *F.N. Williams*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103414#page/219/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33120302) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Beltramini de' Casati, Francesco (1828-1903), Italian botanist and chemist. (*Beltr.*).
+Beltramini de' Casati, Francesco (1828-1903), Italian botanist and chemist. 
+**Abbreviated name**: *Beltr.*
 
 #### Herbarium and types
 

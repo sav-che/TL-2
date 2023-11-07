@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/item/103624#page/933/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33190390) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roth, Ernst \[Carl Ferdinand\] (1857-1918), German (Berlin/Prussian) botanist and librarian; Dr. phil. Berlin 1883 (student of P. Ascherson); assistant at the Bot. Mus. Berlin 1883-1886; librarian at the Berlin Royal Library (as assistant 1886, later librarian); head librarian of the University Library, Halle 1891; head of the library of the "Leopoldina" 1904. (*E. Roth*).
+Roth, Ernst \[Carl Ferdinand\] (1857-1918), German (Berlin/Prussian) botanist and librarian; Dr. phil. Berlin 1883 (student of P. Ascherson); assistant at the Bot. Mus. Berlin 1883-1886; librarian at the Berlin Royal Library (as assistant 1886, later librarian); head librarian of the University Library, Halle 1891; head of the library of the "Leopoldina" 1904. 
+**Abbreviated name**: *E. Roth*
 
 #### Herbarium and types
 

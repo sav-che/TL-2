@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/103861#page/319/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33266616) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Calderon, Salvador (1884-1940), Salvadorian botanist, chief of the Agricultural botany of Salvador, collected large sets of Salvador plants in collaboration with Paul C. Standley of the Field Museum for the Flora of El Salvador. (*S. Calderon*).
+Calderon, Salvador (1884-1940), Salvadorian botanist, chief of the Agricultural botany of Salvador, collected large sets of Salvador plants in collaboration with Paul C. Standley of the Field Museum for the Flora of El Salvador. 
+**Abbreviated name**: *S. Calderon*
 
 #### Herbarium and types
 

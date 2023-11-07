@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103250#page/249/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33066529) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wenzlaff, Franz (1810-?), German (Prussian) botanist; studied at Königsberg 1839-1843; at Berlin 1843-1844; Dr. phil. ib. 1844, later high school director in Berlin. (*Wenzlaff*).
+Wenzlaff, Franz (1810-?), German (Prussian) botanist; studied at Königsberg 1839-1843; at Berlin 1843-1844; Dr. phil. ib. 1844, later high school director in Berlin. 
+**Abbreviated name**: *Wenzlaff*
 
 #### Herbarium and types
 

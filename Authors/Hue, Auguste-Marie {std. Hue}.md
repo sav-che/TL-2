@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/item/103253#page/382/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33068598) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hue, Auguste-Marie (1840-1917), French clergyman and lichenologist, "précepteur" at Canisy (Manche), later "aumônier des Petites-Soeurs" at Levallois-Perret. (*Hue*).
+Hue, Auguste-Marie (1840-1917), French clergyman and lichenologist, "précepteur" at Canisy (Manche), later "aumônier des Petites-Soeurs" at Levallois-Perret. 
+**Abbreviated name**: *Hue*
 
 #### Herbarium and types
 

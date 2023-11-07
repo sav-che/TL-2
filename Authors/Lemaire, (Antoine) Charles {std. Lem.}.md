@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/item/103253#page/860/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33069076) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lemaire, \[Antoine\] Charles (1800-1871), French botanist; specialist on Cactaceae; edited *L'Horticulteur universel* (1839-1845) and *Jardin fleuriste* (1851-1854) at Paris; and the *Flore des Serres* and *L'Illustration horticole* at Gent (1854-1868). (*Lem.*).
+Lemaire, \[Antoine\] Charles (1800-1871), French botanist; specialist on Cactaceae; edited *L'Horticulteur universel* (1839-1845) and *Jardin fleuriste* (1851-1854) at Paris; and the *Flore des Serres* and *L'Illustration horticole* at Gent (1854-1868). 
+**Abbreviated name**: *Lem.*
 
 #### Herbarium and types
 

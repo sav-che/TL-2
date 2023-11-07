@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103414#page/344/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33120427) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bouton, Louis {std. Bouton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bouton, Louis (x-1878 (1879?)), botanist at Port Louis, Mauritius, curator of the Colonial Museum and secretary of the Royal Society of Mauritius. (*Bouton*).
+Bouton, Louis (x-1878 (1879?)), botanist at Port Louis, Mauritius, curator of the Colonial Museum and secretary of the Royal Society of Mauritius. 
+**Abbreviated name**: *Bouton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103624#page/47/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33189466) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palmstruch, Johan Wilhelm (1770-1811), Swedish soldier \[ryttmästare, cavalry capt.)\] and botanical artist. (*Palmstr.*).
+Palmstruch, Johan Wilhelm (1770-1811), Swedish soldier \[ryttmästare, cavalry capt.)\] and botanical artist. 
+**Abbreviated name**: *Palmstr.*
 
 #### Original drawings
 

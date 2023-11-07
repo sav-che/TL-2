@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103833#page/57/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259091) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dandy, James Elgar (1903-1976), British botanist, born at Preston, Lancashire 24 Sep 1903, educated at Preston Grammar School and Downing College, Cambridge, with the Royal Bot. Gardens, Kew 1925-1927 as assistant to John Hutchinson, moved to British Museum (Natural History), from 1927, keeper of botany 1956-1966, retired 1966. (*Dandy*).
+Dandy, James Elgar (1903-1976), British botanist, born at Preston, Lancashire 24 Sep 1903, educated at Preston Grammar School and Downing College, Cambridge, with the Royal Bot. Gardens, Kew 1925-1927 as assistant to John Hutchinson, moved to British Museum (Natural History), from 1927, keeper of botany 1956-1966, retired 1966. 
+**Abbreviated name**: *Dandy*
 
 #### Herbarium and types
 

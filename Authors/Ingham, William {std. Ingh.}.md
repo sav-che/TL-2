@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103253#page/411/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ingham, William (1854-1923), British bryologist at York; organizing inspector of church schools, later on the staff of the York Education office.(*Ingh.*).
+Ingham, William (1854-1923), British bryologist at York; organizing inspector of church schools, later on the staff of the York Education office.
+**Abbreviated name**: *Ingh.*
 
 #### Herbarium and types
 

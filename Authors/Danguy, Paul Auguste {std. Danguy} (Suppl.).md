@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/item/103833#page/63/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33259097) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Danguy, Paul Auguste {std. Danguy}|first entry]] for this author
 
 ### Author
 
-\* Danguy, Paul Auguste (1862-1942), French botanist, born at Gagny, Seine-et-Oise 7 Aug 1862, died 5 Feb 1942, studied at the University of Paris, at the Muséum d'Histoire naturelle as "boursier" 1885, préparateur in 1888, later assistant and "sous-directeur" 1888-1928, Chev. Légion d'Honneur 1929. (*Danguy*).
+\* Danguy, Paul Auguste (1862-1942), French botanist, born at Gagny, Seine-et-Oise 7 Aug 1862, died 5 Feb 1942, studied at the University of Paris, at the Muséum d'Histoire naturelle as "boursier" 1885, préparateur in 1888, later assistant and "sous-directeur" 1888-1928, Chev. Légion d'Honneur 1929. 
+**Abbreviated name**: *Danguy*
 
 #### Herbarium and types
 

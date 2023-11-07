@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/item/104077#page/566/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33333691) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shaw, George Russell (1848-1937), American architect and botanist; practicing architecture with Henry Hunnewell at Boston 1873-1902. (*Shaw*).
+Shaw, George Russell (1848-1937), American architect and botanist; practicing architecture with Henry Hunnewell at Boston 1873-1902. 
+**Abbreviated name**: *Shaw*
 
 #### Herbarium and types
 

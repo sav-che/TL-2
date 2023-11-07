@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103835#page/297/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33260275) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eilker, Georg (fl. 1881-1888), German teacher at a school in Geestemünde. (*Eilker*).
+Eilker, Georg (fl. 1881-1888), German teacher at a school in Geestemünde. 
+**Abbreviated name**: *Eilker*
 
 #### Herbarium and types
 

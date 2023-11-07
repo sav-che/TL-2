@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/item/104137#page/694/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33355765) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mygind, Franz (Frauds von (1710-1789), Austrian imperial counsel ("Hofrat") at the ministry of commerce; friend of N. J. von Jacquin. (*Mygind*).
+Mygind, Franz (Frauds von (1710-1789), Austrian imperial counsel ("Hofrat") at the ministry of commerce; friend of N. J. von Jacquin. 
+**Abbreviated name**: *Mygind*
 
 #### Herbarium and types
 

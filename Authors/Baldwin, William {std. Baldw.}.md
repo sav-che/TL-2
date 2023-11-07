@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103414#page/158/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33120241) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baldwin, William {std. Baldw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baldwin, William (1779-1819), United States physician and botanist, plant collector in the southeastern United States and in South America. (*Baldw.*).
+Baldwin, William (1779-1819), United States physician and botanist, plant collector in the southeastern United States and in South America. 
+**Abbreviated name**: *Baldw.*
 
 #### Herbarium and types
 

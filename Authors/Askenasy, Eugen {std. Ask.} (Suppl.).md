@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/103858#page/208/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33264923) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Askenasy, Eugen {std. Ask.}|first entry]] for this author
 
 ### Author
 
-\* Askenasy, Eugen (1845-1903), Russian (Odessa) born botanist living in Germany from 1853; primary school at Dresden 1853-1855, at the "Gymnasium zum Heiligen Kreuz", Dresden, agricultural stage at Durlach 1859-1861, at the Hohenheim Akademie nr. Stuttgart 1861-1862, at the Poppelsdorf agricultural academy 1863 (with J. Sachs), from 1864-1903 at the University of Heidelberg, Dr. phil. ib. 1866, habil. 1872, extraordinary professor 1881, full professor (plant physiology and anatomy) 1891, member of the Leopoldina from 1886. (*Ask.*).
+\* Askenasy, Eugen (1845-1903), Russian (Odessa) born botanist living in Germany from 1853; primary school at Dresden 1853-1855, at the "Gymnasium zum Heiligen Kreuz", Dresden, agricultural stage at Durlach 1859-1861, at the Hohenheim Akademie nr. Stuttgart 1861-1862, at the Poppelsdorf agricultural academy 1863 (with J. Sachs), from 1864-1903 at the University of Heidelberg, Dr. phil. ib. 1866, habil. 1872, extraordinary professor 1881, full professor (plant physiology and anatomy) 1891, member of the Leopoldina from 1886. 
+**Abbreviated name**: *Ask.*
 
 #### Herbarium and types
 

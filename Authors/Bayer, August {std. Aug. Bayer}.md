@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103858#page/408/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265123) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bayer, August (1882-1942), Czecho-slovak botanist, originally in Prague, lecturer in botany at the Agricultural University in Brno, professor and director of the Botanical Garden of Masaryk University, Brno, 1938-1942, died 23 Feb 1942 in the concentration camp Mauthausen. (*Aug. Bayer*).
+Bayer, August (1882-1942), Czecho-slovak botanist, originally in Prague, lecturer in botany at the Agricultural University in Brno, professor and director of the Botanical Garden of Masaryk University, Brno, 1938-1942, died 23 Feb 1942 in the concentration camp Mauthausen. 
+**Abbreviated name**: *Aug. Bayer*
 
 #### Herbarium and types
 

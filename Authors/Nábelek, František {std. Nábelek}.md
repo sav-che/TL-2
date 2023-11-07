@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/item/104137#page/694/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33355765) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nábelek, František (1884-1965), Moravian botanist; studied at Vienna University under R. v. Wettstein (1902-1907); Dr. phil. Wien 1907; from 1908-1920 high school teacher at Lipníka (Leipnik); visited Near East (1909-1911); from 1921-1928 id. at Brno, from 1925-1934 lecturer, from 1934-1939 professor of botany at Masaryk University, Brno; from 1939-1950 professor of botany and head of the Botanical Institute of Comenius University, Bratislava. (*Nábelek*).
+Nábelek, František (1884-1965), Moravian botanist; studied at Vienna University under R. v. Wettstein (1902-1907); Dr. phil. Wien 1907; from 1908-1920 high school teacher at Lipníka (Leipnik); visited Near East (1909-1911); from 1921-1928 id. at Brno, from 1925-1934 lecturer, from 1934-1939 professor of botany at Masaryk University, Brno; from 1939-1950 professor of botany and head of the Botanical Institute of Comenius University, Bratislava. 
+**Abbreviated name**: *Nábelek*
 
 #### Herbarium and types
 

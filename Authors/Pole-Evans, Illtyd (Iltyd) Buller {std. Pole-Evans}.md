@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103624#page/341/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33189798) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pole-Evans, Illtyd (Iltyd) Buller (1879-1968), British-born mycologist; M.A. Cantab.; South Africa 1905; mycologist to Transvaal Govt. 1905-1911; Chief Div. Mycology & Plant Pathology, Dept. Agr. S. Afr. 1911-1918; Director Botanical Survey S. Afr. 1918-1939; L.L.D. hon. Witwatersrand 1933. (*Pole-Evans*).
+Pole-Evans, Illtyd (Iltyd) Buller (1879-1968), British-born mycologist; M.A. Cantab.; South Africa 1905; mycologist to Transvaal Govt. 1905-1911; Chief Div. Mycology & Plant Pathology, Dept. Agr. S. Afr. 1911-1918; Director Botanical Survey S. Afr. 1918-1939; L.L.D. hon. Witwatersrand 1933. 
+**Abbreviated name**: *Pole-Evans*
 
 #### Herbarium and types
 

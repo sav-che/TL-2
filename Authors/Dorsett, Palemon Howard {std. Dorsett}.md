@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/item/103835#page/72/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33260050) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dorsett, Palemon Howard (1862-1943), American horticulturist and agricultural explorer and collector, born 21 Apr 1862 Carlinville, Ill., A.B. Missouri 1884, died 1 Apr 1943 Washington, D.C., horticulturist with the U.S. Dept. Agric. Washington, recipient of the Meyer Medal for distinguished service. (*Dorsett*).
+Dorsett, Palemon Howard (1862-1943), American horticulturist and agricultural explorer and collector, born 21 Apr 1862 Carlinville, Ill., A.B. Missouri 1884, died 1 Apr 1943 Washington, D.C., horticulturist with the U.S. Dept. Agric. Washington, recipient of the Meyer Medal for distinguished service. 
+**Abbreviated name**: *Dorsett*
 
 #### Herbarium and types
 

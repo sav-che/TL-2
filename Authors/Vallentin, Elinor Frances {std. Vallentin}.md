@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/item/103683#page/661/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33212693) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vallentin, Elinor Frances (formerly Nichol; née Bertrand) 1873-1924), Falkland Islands-born British botanical artist; married Rupert Vallentin 23 Mar 1904; to Plymouth, England 1904. (*Vallentin*).
+Vallentin, Elinor Frances (formerly Nichol; née Bertrand) 1873-1924), Falkland Islands-born British botanical artist; married Rupert Vallentin 23 Mar 1904; to Plymouth, England 1904. 
+**Abbreviated name**: *Vallentin*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/item/103414#page/515/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33120598) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Castagne, Jean-Louis-Martin {std. Castagne} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Castagne, Jean Louis Martin (1785-1858), French merchant and amateur botanist. (*Castagne*).
+Castagne, Jean Louis Martin (1785-1858), French merchant and amateur botanist. 
+**Abbreviated name**: *Castagne*
 
 #### Herbarium and types
 

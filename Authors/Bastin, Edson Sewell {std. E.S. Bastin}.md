@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103858#page/381/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33265096) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bastin, Edson Sewell (1843-1897), American botanist, Wisconsin born, on active service 1862-1865, with General Steele at Little Rock, at the University of Chicago 1865-1867, employed in a drug store while studying pharmacy, registrar of the University of Chicago 1874-1883, also teaching botany, professor of botany and microscopy at the Chicago College of Pharmacy 1883-1890, professor of materia medica and botany in the Northwestern University School of Pharmacy 1890-1894, id. in the Philadelphia College of Pharmacy 1894-1897. (*E.S. Bastin*).
+Bastin, Edson Sewell (1843-1897), American botanist, Wisconsin born, on active service 1862-1865, with General Steele at Little Rock, at the University of Chicago 1865-1867, employed in a drug store while studying pharmacy, registrar of the University of Chicago 1874-1883, also teaching botany, professor of botany and microscopy at the Chicago College of Pharmacy 1883-1890, professor of materia medica and botany in the Northwestern University School of Pharmacy 1890-1894, id. in the Philadelphia College of Pharmacy 1894-1897. 
+**Abbreviated name**: *E.S. Bastin*
 
 #### Herbarium and types
 

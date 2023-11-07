@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/item/103861#page/168/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33266465) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brun, Jacques-Joseph {std. Brun}|first entry]] for this author
 
 ### Author
 
-\* Brun, Jacques-Joseph (1826-1908), Swiss pharmacist and diatomist at Genève, educated by his maternal grandfather, physician at Verney, studied pharmacy at Genève and Paris (École de Pharmacie, with Balard), settled in Genève as pharmacist, from1876-1900 professor of pharmacology at the Faculté de Médecine of Genève, in addition a diatomist especially dealing with the Alps and the Jura. (*Brun*).
+\* Brun, Jacques-Joseph (1826-1908), Swiss pharmacist and diatomist at Genève, educated by his maternal grandfather, physician at Verney, studied pharmacy at Genève and Paris (École de Pharmacie, with Balard), settled in Genève as pharmacist, from1876-1900 professor of pharmacology at the Faculté de Médecine of Genève, in addition a diatomist especially dealing with the Alps and the Jura. 
+**Abbreviated name**: *Brun*
 
 #### Herbarium and types
 

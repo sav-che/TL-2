@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103414#page/171/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barnhart, John Hendley {std. Barnhart} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Barnhart, John Hendley (1871-1949), American botanist and bibliographer at the New York Botanical Garden. (*Barnhart*).
+Barnhart, John Hendley (1871-1949), American botanist and bibliographer at the New York Botanical Garden. 
+**Abbreviated name**: *Barnhart*
 
 #### Herbarium and types
 

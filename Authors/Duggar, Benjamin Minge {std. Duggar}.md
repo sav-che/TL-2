@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103835#page/162/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33260140) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duggar, Benjamin Minge (1872-1956), American botanist, mycologist, plant physiologist, and microbiologist, born 1 Sep 1872 at Gallion, Alabama, studied at the University of Alabama 1887-1889, later at Mississippi State University, B.S. 1891, M.S. 1892 at Alabama Polytechnic Institute, A.B. in 1894 and M.A. in 1895 at Harvard, at Cornell University 1896-1901, Ph.D. 1898, with U.S.D.A. 1901, professor of botany Univ. Missouri 1902-1907, College of Agriculture Cornell University 1907-1912, Washington University 1912-1927, professor of plant physiology at the University of Wisconsin 1927 until his retirement in 1943, died 10 Sep 1956 at New Haven, Conn. (*Duggar*).
+Duggar, Benjamin Minge (1872-1956), American botanist, mycologist, plant physiologist, and microbiologist, born 1 Sep 1872 at Gallion, Alabama, studied at the University of Alabama 1887-1889, later at Mississippi State University, B.S. 1891, M.S. 1892 at Alabama Polytechnic Institute, A.B. in 1894 and M.A. in 1895 at Harvard, at Cornell University 1896-1901, Ph.D. 1898, with U.S.D.A. 1901, professor of botany Univ. Missouri 1902-1907, College of Agriculture Cornell University 1907-1912, Washington University 1912-1927, professor of plant physiology at the University of Wisconsin 1927 until his retirement in 1943, died 10 Sep 1956 at New Haven, Conn. 
+**Abbreviated name**: *Duggar*
 
 #### Herbarium and types
 

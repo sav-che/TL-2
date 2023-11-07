@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103858#page/244/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33264959) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bachmann, Franz Ewald Theodor {std. Bachm.}|first entry]] for this author
 
 ### Author
 
-\* Bachmann, \[Franz\] Ewald \[Theodor\] (1850-1937), German (Saxonian) botanist (lichenologist), at the teachers college in Dresden-Friedrichstadt 1865-1870; teacher in Riesa (Sachsen) 1870-1872, id. at the Dannerberg pre-gymnasium 1872-1875, at the University of Leipzig studying paedagogics and natural sciences 1875-1878, final teacher's examination 1878, Dr. phil. Leipzig 1881, teacher at the "Freimaurerinstitut für Töchter gebildeter Stände" Löbtau, Dresden 1878-1880, at the highschool in Plauen, Vogtland 1880-1915, at Radebeul, Sachsen 1915-1930, in retirement in Königsberg, Ostpreussen 1931-1937, to Kiel 1937. (*Bachm.*).
+\* Bachmann, \[Franz\] Ewald \[Theodor\] (1850-1937), German (Saxonian) botanist (lichenologist), at the teachers college in Dresden-Friedrichstadt 1865-1870; teacher in Riesa (Sachsen) 1870-1872, id. at the Dannerberg pre-gymnasium 1872-1875, at the University of Leipzig studying paedagogics and natural sciences 1875-1878, final teacher's examination 1878, Dr. phil. Leipzig 1881, teacher at the "Freimaurerinstitut für Töchter gebildeter Stände" Löbtau, Dresden 1878-1880, at the highschool in Plauen, Vogtland 1880-1915, at Radebeul, Sachsen 1915-1930, in retirement in Königsberg, Ostpreussen 1931-1937, to Kiel 1937. 
+**Abbreviated name**: *Bachm.*
 
 #### Herbarium and types
 

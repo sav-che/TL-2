@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/104077#page/73/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33333198) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sartory, Auguste Theodore (1881-1950), French mycologist and bacteriologist; Dr. Sci. Paris 1908; "chargé de cours" École supérieure de pharmacie de Nancy, later "chef du service bactériologique" ib.; associate professor at the École supérieure de Pharmacie de Strasbourg 1919; doyen ib. 1936; id. Clermont-Ferrand 1939-1945 (war-time locations of Strasbourg faculty); professor of microbiology at Strasbourg 1947-1950. (*Sartory*).
+Sartory, Auguste Theodore (1881-1950), French mycologist and bacteriologist; Dr. Sci. Paris 1908; "chargé de cours" École supérieure de pharmacie de Nancy, later "chef du service bactériologique" ib.; associate professor at the École supérieure de Pharmacie de Strasbourg 1919; doyen ib. 1936; id. Clermont-Ferrand 1939-1945 (war-time locations of Strasbourg faculty); professor of microbiology at Strasbourg 1947-1950. 
+**Abbreviated name**: *Sartory*
 
 #### Herbarium and types
 

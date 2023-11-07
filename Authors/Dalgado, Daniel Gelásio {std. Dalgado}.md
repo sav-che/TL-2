@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103833#page/38/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33259072) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dalgado, Daniel Gelásio (1850-1923), Portuguese physician and botanist at Goa and Savantvadi. (*Dalgado*).
+Dalgado, Daniel Gelásio (1850-1923), Portuguese physician and botanist at Goa and Savantvadi. 
+**Abbreviated name**: *Dalgado*
 
 #### Herbarium and types
 

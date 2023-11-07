@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/item/103624#page/368/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33189825) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Postels, Alexander Philipou (1801-1871), Esthonian-born geologist who collected plants on the voyage of the corvette *Seniavin* around the world. (*Postels*).
+Postels, Alexander Philipou (1801-1871), Esthonian-born geologist who collected plants on the voyage of the corvette *Seniavin* around the world. 
+**Abbreviated name**: *Postels*
 
 #### Herbarium and types
 

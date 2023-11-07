@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103624#page/283/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pinto, Joaquim de Almeida (x-1870), Brazilian botanist and pharmacist. (*J. de A. Pinto*).
+Pinto, Joaquim de Almeida (x-1870), Brazilian botanist and pharmacist. 
+**Abbreviated name**: *J. de A. Pinto*
 
 #### Herbarium and types
 

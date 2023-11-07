@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103833#page/68/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33259102) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dannenberg, Ingeborg (later known as Markgraf-Dannenberg) (fl. 1938), Swiss botanist who worked with Fr. Markgraf at the Botanical Museum in Berlin-Dahlem. (*Markgr.-Dann.*).
+Dannenberg, Ingeborg (later known as Markgraf-Dannenberg) (fl. 1938), Swiss botanist who worked with Fr. Markgraf at the Botanical Museum in Berlin-Dahlem. 
+**Abbreviated name**: *Markgr.-Dann.*
 
 #### Herbarium and types
 

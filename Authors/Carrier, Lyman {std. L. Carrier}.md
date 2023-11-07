@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103861#page/432/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33266729) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carrier, Lyman (1877-?), American botanist, agronomist in pasture investigations and forage-crop investigations. (*L. Carrier*).
+Carrier, Lyman (1877-?), American botanist, agronomist in pasture investigations and forage-crop investigations. 
+**Abbreviated name**: *L. Carrier*
 
 #### Herbarium and types
 

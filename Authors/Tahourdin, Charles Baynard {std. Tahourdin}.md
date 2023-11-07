@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/item/103683#page/161/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tahourdin, Charles Baynard (1872-1942), British solicitor and amateur orchidologist. (*Tahourdin*).
+Tahourdin, Charles Baynard (1872-1942), British solicitor and amateur orchidologist. 
+**Abbreviated name**: *Tahourdin*
 
 #### Herbarium and types
 

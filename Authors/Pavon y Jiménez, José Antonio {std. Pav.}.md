@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/item/103624#page/131/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33189588) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pavon y Jiménez, José Antonio (1754-1844), Spanish botanist; with H. Ruiz in South America 1778-1788. (*Pav.*).
+Pavon y Jiménez, José Antonio (1754-1844), Spanish botanist; with H. Ruiz in South America 1778-1788. 
+**Abbreviated name**: *Pav.*
 
 #### Herbarium and types
 

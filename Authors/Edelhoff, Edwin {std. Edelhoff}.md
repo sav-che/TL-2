@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/item/103835#page/267/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Edelhoff, Edwin (fl. 1806), German botanist, from Heinrichswalde (Ostpreußen), "Doctorwürde" at the Kgl. Friedrich-Alexanders-Universität Erlangen. (*Edelhoff*).
+Edelhoff, Edwin (fl. 1806), German botanist, from Heinrichswalde (Ostpreußen), "Doctorwürde" at the Kgl. Friedrich-Alexanders-Universität Erlangen. 
+**Abbreviated name**: *Edelhoff*
 
 #### Herbarium and types
 

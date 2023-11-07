@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/item/103858#page/408/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265123) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bayer, Edvin {std. E. Bayer}|first entry]] for this author
 
 ### Author
 
-\* Bayer, Edvin (1862-1927), Bohemian palaeobotanist, lichenologist and botanical historian, studied at the Technical University Prague, assistant to Celakovsky in the Department of Botany of the National Museum in Prague 1887, idem at the Botanical Institute of the University of Prague 1892, Dr. phil. Prague 1891, adjunct at the National Museum 1895, from 1903 (or 1902) curator of the botanical collection, ultimately director of the Department of Botany ib. (*E. Bayer*).
+\* Bayer, Edvin (1862-1927), Bohemian palaeobotanist, lichenologist and botanical historian, studied at the Technical University Prague, assistant to Celakovsky in the Department of Botany of the National Museum in Prague 1887, idem at the Botanical Institute of the University of Prague 1892, Dr. phil. Prague 1891, adjunct at the National Museum 1895, from 1903 (or 1902) curator of the botanical collection, ultimately director of the Department of Botany ib. 
+**Abbreviated name**: *E. Bayer*
 
 #### Herbarium and types
 

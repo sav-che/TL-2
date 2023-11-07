@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/104137#page/286/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malte, Malte Oskar (1880-1933), Swedish-born botanist who settled in Canada; Dr. phil. Lund 1910; Dominion agrostologist at Ottawa (1912-1921); chief botanist, National Herbarium of Canada 1921-1933. (*Malte*).
+Malte, Malte Oskar (1880-1933), Swedish-born botanist who settled in Canada; Dr. phil. Lund 1910; Dominion agrostologist at Ottawa (1912-1921); chief botanist, National Herbarium of Canada 1921-1933. 
+**Abbreviated name**: *Malte*
 
 #### Herbarium and types
 

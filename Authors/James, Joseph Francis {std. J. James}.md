@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/item/103253#page/445/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33068661) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-James, Joseph Francis (1857-1897), American naturalist; from 1881-1886 professor of medical botany at Cincinnati College of Pharmacy and custodian of the Society of Natural History (Cincinnati); from 1886-1888 professor of botany and geology at Miami University, Oxford, Ohio; from 1889-1891 assistant palaeontologist with the USGS; from 1891-1897 vegetable pathologist at USDA. (*J. James*).
+James, Joseph Francis (1857-1897), American naturalist; from 1881-1886 professor of medical botany at Cincinnati College of Pharmacy and custodian of the Society of Natural History (Cincinnati); from 1886-1888 professor of botany and geology at Miami University, Oxford, Ohio; from 1889-1891 assistant palaeontologist with the USGS; from 1891-1897 vegetable pathologist at USDA. 
+**Abbreviated name**: *J. James*
 
 #### Herbarium and types
 

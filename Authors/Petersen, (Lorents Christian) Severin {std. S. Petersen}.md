@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/item/103624#page/213/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33189670) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petersen, \[Lorents Christian\] Severin (1840-1929), Danish mycologist, schoolmaster at Slotsbjergby near Slagelse, later at Sorø. (*S. Petersen*).
+Petersen, \[Lorents Christian\] Severin (1840-1929), Danish mycologist, schoolmaster at Slotsbjergby near Slagelse, later at Sorø. 
+**Abbreviated name**: *S. Petersen*
 
 #### Herbarium and types
 

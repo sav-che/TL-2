@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103624#page/70/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33189489) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paris, \[Jean\] Édouard Gabriel \[Narcisse\] (1827-1911), French soldier and bryologist; collected in France and Algeria; retired from the military as général de brigade 1889; commander of the Légion d'Honneur. (*Par.*).
+Paris, \[Jean\] Édouard Gabriel \[Narcisse\] (1827-1911), French soldier and bryologist; collected in France and Algeria; retired from the military as général de brigade 1889; commander of the Légion d'Honneur. 
+**Abbreviated name**: *Par.*
 
 #### Herbarium and types
 

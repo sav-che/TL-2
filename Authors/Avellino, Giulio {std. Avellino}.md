@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103858#page/229/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33264944) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Avellino, Giulio (fl. 1840-1843), Italian botanist at Napoli associate of G.A. Pasquale. (*Avellino*).
+Avellino, Giulio (fl. 1840-1843), Italian botanist at Napoli associate of G.A. Pasquale. 
+**Abbreviated name**: *Avellino*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/item/103624#page/709/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33190166) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reid, Eleanor Mary (May) (née Wynne-Edwards) (1860-1953), British mathematician and palaobotanist; married Clement Reid (1897). (*E. Reid*).
+Reid, Eleanor Mary (May) (née Wynne-Edwards) (1860-1953), British mathematician and palaobotanist; married Clement Reid (1897). 
+**Abbreviated name**: *E. Reid*
 
 #### Herbarium and types
 

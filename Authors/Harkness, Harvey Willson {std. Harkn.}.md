@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103253#page/80/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33068296) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harkness, Harvey Willson (1821-1901), American physician and mycologist; in California from 1849, until 1869 at Sacramento as a practicing physician; from 1869 in retirement at San Francisco. (*Harkn.*).
+Harkness, Harvey Willson (1821-1901), American physician and mycologist; in California from 1849, until 1869 at Sacramento as a practicing physician; from 1869 in retirement at San Francisco. 
+**Abbreviated name**: *Harkn.*
 
 #### Herbarium and types
 

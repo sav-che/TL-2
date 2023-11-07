@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103835#page/280/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33260258) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eggleston, Willard Webster (1863-1935), American agriculturalist and economic botanist, born 28 Mar 1863, Pittsfield, Vt., died 25 Nov 1935, Washington D.C., B.S. degree at Dartmouth College 1891, at New York 1904-1907, botanist in the West over a long span of years, from 1910 asst. botanist, Bureau of Plant Industry, Washington D.C. (*Eggl.*).
+Eggleston, Willard Webster (1863-1935), American agriculturalist and economic botanist, born 28 Mar 1863, Pittsfield, Vt., died 25 Nov 1935, Washington D.C., B.S. degree at Dartmouth College 1891, at New York 1904-1907, botanist in the West over a long span of years, from 1910 asst. botanist, Bureau of Plant Industry, Washington D.C. 
+**Abbreviated name**: *Eggl.*
 
 #### Herbarium and types
 

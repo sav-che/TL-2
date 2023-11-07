@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 901](https://www.biodiversitylibrary.org/item/103624#page/915/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 901](https://www.biodiversitylibrary.org/page/33190372) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ross, \[Sir\] James Clark (1800-1862), British (English) arctic and antarctic explorer; in the Royal Navy, lieutenant 1822; with W.E. Parry in voyages of 1819-1820, 1821-1823, 1824-1825 and 1827; commander of the antarctic expedition of 1839-1843 (botanist: J.D. Hooker); ultimately (1858) rear-admiral; nephew of Sir John Ross. (*J.C. Ross*).
+Ross, \[Sir\] James Clark (1800-1862), British (English) arctic and antarctic explorer; in the Royal Navy, lieutenant 1822; with W.E. Parry in voyages of 1819-1820, 1821-1823, 1824-1825 and 1827; commander of the antarctic expedition of 1839-1843 (botanist: J.D. Hooker); ultimately (1858) rear-admiral; nephew of Sir John Ross. 
+**Abbreviated name**: *J.C. Ross*
 
 #### Herbarium and types
 

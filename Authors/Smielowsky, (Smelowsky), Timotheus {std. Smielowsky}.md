@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/item/104077#page/672/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smielowsky, \[Smelowsky\], Timotheus (1769-1815), Russian pharmacist at St. Petersburg. (*Smielowsky*).
+Smielowsky, \[Smelowsky\], Timotheus (1769-1815), Russian pharmacist at St. Petersburg. 
+**Abbreviated name**: *Smielowsky*
 
 #### Herbarium and types
 

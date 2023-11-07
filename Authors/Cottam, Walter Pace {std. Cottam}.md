@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/item/103860#page/416/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33266083) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cottam, Walter Pace (1894-x), American botanist, born at St. George, Utah, B.A. Brigham Young University 1916, M.S. 1919, teacher highschool Utah 1918-1919, Ph.D. at Chicago 1926, assistant professor of botany at Brigham Young 1920-1925, full professor 1925-1931, ass. professor University of Utah 1931-1935, professor 1935-1962, emer. since 1962. (*Cottam*).
+Cottam, Walter Pace (1894-x), American botanist, born at St. George, Utah, B.A. Brigham Young University 1916, M.S. 1919, teacher highschool Utah 1918-1919, Ph.D. at Chicago 1926, assistant professor of botany at Brigham Young 1920-1925, full professor 1925-1931, ass. professor University of Utah 1931-1935, professor 1935-1962, emer. since 1962. 
+**Abbreviated name**: *Cottam*
 
 #### Herbarium and types
 

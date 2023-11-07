@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103858#page/322/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265037) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bancroft, Helen \["Nellie"\] Holme (1887-?), British palaeobotanist, M.A. Oxon., B.S. London 1910, D. Sci. id. 1915, private research worker at Barneville (Manche), France. (*H.H. Bancroft*).
+Bancroft, Helen \["Nellie"\] Holme (1887-?), British palaeobotanist, M.A. Oxon., B.S. London 1910, D. Sci. id. 1915, private research worker at Barneville (Manche), France. 
+**Abbreviated name**: *H.H. Bancroft*
 
 #### Herbarium and types
 

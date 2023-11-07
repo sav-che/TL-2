@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/104077#page/411/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33333536) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schumacher, Albert (1893-1975), German (Rhine-Prussian) botanist and school teacher; teacher's examination 1919 and 1921; teacher at Waldbröl 1921-1958; active floristic botanist, batologist and bryologist. (*A. Schumach.*).
+Schumacher, Albert (1893-1975), German (Rhine-Prussian) botanist and school teacher; teacher's examination 1919 and 1921; teacher at Waldbröl 1921-1958; active floristic botanist, batologist and bryologist. 
+**Abbreviated name**: *A. Schumach.*
 
 #### Herbarium and types
 

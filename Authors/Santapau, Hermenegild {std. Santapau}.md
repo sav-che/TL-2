@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/item/104077#page/54/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33333141) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Santapau, Hermenegild (1903-1970), Spanish-born clergyman and botanist; Dr. phil. Gregorian Univ., Roma, 1927; to India 1928; studying botany in London 1936-1940; professor of botany at St. Xavier's College, Bombay; 1940-1954 with the Botanical Survey of India; from 1961-1968 as director; rector of St. Xavier's College, Bombay 1968-1970. (*Santapau*).
+Santapau, Hermenegild (1903-1970), Spanish-born clergyman and botanist; Dr. phil. Gregorian Univ., Roma, 1927; to India 1928; studying botany in London 1936-1940; professor of botany at St. Xavier's College, Bombay; 1940-1954 with the Botanical Survey of India; from 1961-1968 as director; rector of St. Xavier's College, Bombay 1968-1970. 
+**Abbreviated name**: *Santapau*
 
 #### Herbarium and types
 

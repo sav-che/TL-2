@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/item/103832#page/167/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33258633) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gay, François {std. F. Gay}|first entry]] for this author
 
 ### Author
 
-\* Gay, \[Henri Félix\] François (1858-1898), French algologist, born 31 Mai 1858 in Montpellier, pupil of Édouard Bornet, prof. (specializing in green algae) at Montpellier from 15 Oct 1884, Dr. ès-sciences naturelles 1891 Paris, died 26 Sep 1898 in Montpellier. (*F. Gay*).
+\* Gay, \[Henri Félix\] François (1858-1898), French algologist, born 31 Mai 1858 in Montpellier, pupil of Édouard Bornet, prof. (specializing in green algae) at Montpellier from 15 Oct 1884, Dr. ès-sciences naturelles 1891 Paris, died 26 Sep 1898 in Montpellier. 
+**Abbreviated name**: *F. Gay*
 
 #### Herbarium and types
 

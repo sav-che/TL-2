@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/item/103624#page/830/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33190287) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robinson, James Fraser (1857-1927), British (English) schoolmaster and naturalist at Hull, Yorkshire. (*J.F. Robinson*).
+Robinson, James Fraser (1857-1927), British (English) schoolmaster and naturalist at Hull, Yorkshire. 
+**Abbreviated name**: *J.F. Robinson*
 
 #### Herbarium and types
 

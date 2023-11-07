@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103833#page/304/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259338) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Didrichsen, Didrik Ferdinand {std. Didr.}|first entry]] for this author
 
 ### Author
 
-\* Didrichsen, Didrik Ferdinand (1814-1887), Danish botanist, surgeon and botanist on the "Galathea" 1845-1847, librarian at the Botanic Garden in Copenhagen 1851, docent in the University of Copenhagen 1858-1875, professor of botany in this University 1875-1885. (*Didr.*).
+\* Didrichsen, Didrik Ferdinand (1814-1887), Danish botanist, surgeon and botanist on the "Galathea" 1845-1847, librarian at the Botanic Garden in Copenhagen 1851, docent in the University of Copenhagen 1858-1875, professor of botany in this University 1875-1885. 
+**Abbreviated name**: *Didr.*
 
 #### Herbarium and types
 

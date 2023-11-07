@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/item/104137#page/803/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33355874) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nyárády, Erasmus Julius (1881-1966), Roumanian (Transylvanian) botanist; studied at Budapest; from 1922 at Cluj. (*Nyár.*).
+Nyárády, Erasmus Julius (1881-1966), Roumanian (Transylvanian) botanist; studied at Budapest; from 1922 at Cluj. 
+**Abbreviated name**: *Nyár.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103414#page/354/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33120437) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brândză, Dimitrie {std. D. Brândză} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brândzǎ, Dimitrie (1846-1895), Roumanian botanist. (*D. Brândzǎ*).
+Brândzǎ, Dimitrie (1846-1895), Roumanian botanist. 
+**Abbreviated name**: *D. Brândzǎ*
 
 #### Herbarium and types
 

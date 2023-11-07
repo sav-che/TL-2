@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/item/104077#page/609/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siemaszko, Wincenty \[Vincent\] (1887-x), Polish plant pathologist and mycologist; Dr. phil. Cracow; professor of plant pathology at the Warsaw college of Agriculture, also director of the Phytopathological Institute Skierniewice. (*Siemaszko*).
+Siemaszko, Wincenty \[Vincent\] (1887-x), Polish plant pathologist and mycologist; Dr. phil. Cracow; professor of plant pathology at the Warsaw college of Agriculture, also director of the Phytopathological Institute Skierniewice. 
+**Abbreviated name**: *Siemaszko*
 
 #### Herbarium and types
 

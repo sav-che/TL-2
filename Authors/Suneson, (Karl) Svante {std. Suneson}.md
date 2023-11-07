@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/item/103683#page/103/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33212135) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suneson, \[Karl\] Svante (1904-x), Swedish botanist; lecturer in botany at Lund University 1937. (*Suneson*).
+Suneson, \[Karl\] Svante (1904-x), Swedish botanist; lecturer in botany at Lund University 1937. 
+**Abbreviated name**: *Suneson*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/103253#page/63/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33068279) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hammerschmid, Anton (1851-1933), German Franciscan monk and botanist, educated at München; from 1889 in the monastery of Bad Tölz. (*Hammerschmid*).
+Hammerschmid, Anton (1851-1933), German Franciscan monk and botanist, educated at München; from 1889 in the monastery of Bad Tölz. 
+**Abbreviated name**: *Hammerschmid*
 
 #### Herbarium and types
 

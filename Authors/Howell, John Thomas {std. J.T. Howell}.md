@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/item/103253#page/375/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33068591) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Howell, John Thomas (1903-x), American botanist at the California Academy of Sciences; specialist on the phanerogamic floras of California and the Galapagos Islands. (*J. T. Howell*).
+Howell, John Thomas (1903-x), American botanist at the California Academy of Sciences; specialist on the phanerogamic floras of California and the Galapagos Islands. 
+**Abbreviated name**: *J. T. Howell*
 
 #### Herbarium and types
 

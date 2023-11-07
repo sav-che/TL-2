@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/104077#page/51/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33333138) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sanguinetti, Pietro (1802-1868), Italian botanist; director of the botanical garden in Rome 1851-1855 and professor of botany at the Sapienza 1851-1868. (*Sanguinetti*).
+Sanguinetti, Pietro (1802-1868), Italian botanist; director of the botanical garden in Rome 1851-1855 and professor of botany at the Sapienza 1851-1868. 
+**Abbreviated name**: *Sanguinetti*
 
 #### Herbarium and types
 

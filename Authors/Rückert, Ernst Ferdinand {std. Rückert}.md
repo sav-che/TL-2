@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/item/103624#page/990/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rückert, Ernst Ferdinand (1794-1843), German (Saxonian) botanist and practicing physician at Königsbrück. (*Rückert*).
+Rückert, Ernst Ferdinand (1794-1843), German (Saxonian) botanist and practicing physician at Königsbrück. 
+**Abbreviated name**: *Rückert*
 
 #### Herbarium and types
 

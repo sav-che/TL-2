@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103414#page/516/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33120599) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Castelnau, François Louis Nompar de Caumont de Laporte, Comte de (1810-1880), French naturalist, leader of an expedition to South America 1843-1847, later French consul general at Melbourne. (*Castelnau*).
+Castelnau, François Louis Nompar de Caumont de Laporte, Comte de (1810-1880), French naturalist, leader of an expedition to South America 1843-1847, later French consul general at Melbourne. 
+**Abbreviated name**: *Castelnau*
 
 #### Herbarium and types
 

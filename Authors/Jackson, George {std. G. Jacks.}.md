@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/item/103253#page/425/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33068641) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jackson, George (c. 1780-1811), Scottish botanist; editor of the Botanists Repository (1807-1811); curator of the Lambert Herbarium. (*G. Jacks.*).
+Jackson, George (c. 1780-1811), Scottish botanist; editor of the Botanists Repository (1807-1811); curator of the Lambert Herbarium. 
+**Abbreviated name**: *G. Jacks.*
 
 #### Herbarium and types
 

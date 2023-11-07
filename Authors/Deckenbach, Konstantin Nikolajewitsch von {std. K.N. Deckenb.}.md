@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103833#page/153/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259187) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deckenbach, Konstantin Nikolajewitsch von (?-1920), Russian botanist especially interested in fungi and algae, died 1920 at Charkov. (*K.N. Deckenb.*).
+Deckenbach, Konstantin Nikolajewitsch von (?-1920), Russian botanist especially interested in fungi and algae, died 1920 at Charkov. 
+**Abbreviated name**: *K.N. Deckenb.*
 
 #### Herbarium and types
 

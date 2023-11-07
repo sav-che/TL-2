@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/103834#page/360/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33259842) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fortuné, Henri (fl. 1884-1887), French pharmacist "Préparateur", École supérieure de pharmacie, Montpellier, pharmacist first class who won several prizes in 1884. (*H. Fortuné*).
+Fortuné, Henri (fl. 1884-1887), French pharmacist "Préparateur", École supérieure de pharmacie, Montpellier, pharmacist first class who won several prizes in 1884. 
+**Abbreviated name**: *H. Fortuné*
 
 #### Herbarium and types
 

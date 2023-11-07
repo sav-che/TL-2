@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/item/103414#page/311/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33120394) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolle, Carl (Karl) August {std. Bolle} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bolle, Carl \[Karl\] August (1821-1909), German dendrologist and ornithologist at Berlin, industrious plant collector. (*Bolle*).
+Bolle, Carl \[Karl\] August (1821-1909), German dendrologist and ornithologist at Berlin, industrious plant collector. 
+**Abbreviated name**: *Bolle*
 
 #### Herbarium and types
 

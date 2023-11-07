@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/104077#page/287/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33333412) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, George (1848-1917), French-born gardener; went to England 1870; from 1872 employee of Veitch & Sons, Chelsea. (*Geo. Schneid.*).
+Schneider, George (1848-1917), French-born gardener; went to England 1870; from 1872 employee of Veitch & Sons, Chelsea. 
+**Abbreviated name**: *Geo. Schneid.*
 
 #### Herbarium and types
 

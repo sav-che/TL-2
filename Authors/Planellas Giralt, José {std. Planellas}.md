@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103624#page/303/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33189760) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Planellas Giralt, José (1850-1886), Spanish botanist; studied at Santiago; Dr. sci. nat. Madrid 1879; until 1883 professor of natural history at Barcelona; later director of the botanical garden and professor of botany at Habana, Cuba (1883-1886). (*Planellas*).
+Planellas Giralt, José (1850-1886), Spanish botanist; studied at Santiago; Dr. sci. nat. Madrid 1879; until 1883 professor of natural history at Barcelona; later director of the botanical garden and professor of botany at Habana, Cuba (1883-1886). 
+**Abbreviated name**: *Planellas*
 
 #### Herbarium and types
 

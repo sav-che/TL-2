@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/item/103414#page/134/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33120217) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Backer, Cornelis Andries {std. Backer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Backer, Cornelis Andries (1874-1963), Dutch botanist, worker on the flora of Java. (*Backer*).
+Backer, Cornelis Andries (1874-1963), Dutch botanist, worker on the flora of Java. 
+**Abbreviated name**: *Backer*
 
 #### Herbarium and types
 

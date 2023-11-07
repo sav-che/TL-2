@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103250#page/385/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33066665) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williams, Samuel (1743-1817), American historian, naturalist and clergyman; minister at Bradford, Mass. 1765-1780; Hollis professor of mathematics and natural philosophy Harvard University 1780-1788; minister at Rutland, Vt. 1789-1795, editor of the Rutland Herald 1795-1804. (*S. Williams*).
+Williams, Samuel (1743-1817), American historian, naturalist and clergyman; minister at Bradford, Mass. 1765-1780; Hollis professor of mathematics and natural philosophy Harvard University 1780-1788; minister at Rutland, Vt. 1789-1795, editor of the Rutland Herald 1795-1804. 
+**Abbreviated name**: *S. Williams*
 
 #### Herbarium and types
 

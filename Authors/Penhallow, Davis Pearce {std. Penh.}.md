@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103624#page/166/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33189623) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Penhallow, Davis Pearce (1854-1910), American actuo– and palaeobotanist; B.S. Amherst Agr. Coll. 1873; professor of botany and chemistry at the College of Agriculture, Sapporo (Japan) 1876-1880; at Harvard 1880-1882; at the Houghton Experimental Farm, N.Y., 1882-1883; from 1883-1910 professor of botany at McGill University, Montreal; D.Sc. Montreal 1904. (*Penh.*).
+Penhallow, Davis Pearce (1854-1910), American actuo– and palaeobotanist; B.S. Amherst Agr. Coll. 1873; professor of botany and chemistry at the College of Agriculture, Sapporo (Japan) 1876-1880; at Harvard 1880-1882; at the Houghton Experimental Farm, N.Y., 1882-1883; from 1883-1910 professor of botany at McGill University, Montreal; D.Sc. Montreal 1904. 
+**Abbreviated name**: *Penh.*
 
 #### Herbarium and types
 

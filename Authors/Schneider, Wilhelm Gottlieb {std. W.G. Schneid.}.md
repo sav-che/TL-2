@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/item/104077#page/292/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, Wilhelm Gottlieb (1814-1889), German (Silesian) mycologist and entomologist; Dr. phil. Breslau 1843; private scientist dedicating himself to entomology from 1843 and to mycology from 1864. (*W.G. Schneid.*).
+Schneider, Wilhelm Gottlieb (1814-1889), German (Silesian) mycologist and entomologist; Dr. phil. Breslau 1843; private scientist dedicating himself to entomology from 1843 and to mycology from 1864. 
+**Abbreviated name**: *W.G. Schneid.*
 
 #### Herbarium and types
 

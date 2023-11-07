@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/item/104137#page/737/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33355808) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nel, Gert Cornelius (1885-1950), South African botanist; Dr. phil. Berlin 1914 (under Engler); professor of botany at Stellenbosch, South Africa 1921-1950. (*Nel*).
+Nel, Gert Cornelius (1885-1950), South African botanist; Dr. phil. Berlin 1914 (under Engler); professor of botany at Stellenbosch, South Africa 1921-1950. 
+**Abbreviated name**: *Nel*
 
 #### Herbarium and types
 

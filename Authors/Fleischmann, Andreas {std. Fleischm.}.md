@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/item/103414#page/893/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33120976) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fleischmann, Andreas (1805-1867), Austrian gardener and botanist. (*Fleischm.*).
+Fleischmann, Andreas (1805-1867), Austrian gardener and botanist. 
+**Abbreviated name**: *Fleischm.*
 
 #### Herbarium and types
 

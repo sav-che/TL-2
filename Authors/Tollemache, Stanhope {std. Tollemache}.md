@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103683#page/396/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33212428) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tollemache, Stanhope (fl. 1901), British author. (*Tollemache*).
+Tollemache, Stanhope (fl. 1901), British author. 
+**Abbreviated name**: *Tollemache*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103250#page/202/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33066482) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weeber, Gustav (1857-1943), Moravian high school teacher at the Obergymnasium of Friedek \[Friedeck, Frydek\] 1896-1917. (*Weeber*).
+Weeber, Gustav (1857-1943), Moravian high school teacher at the Obergymnasium of Friedek \[Friedeck, Frydek\] 1896-1917. 
+**Abbreviated name**: *Weeber*
 
 #### Herbarium and types
 

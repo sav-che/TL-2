@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/104077#page/440/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33333565) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwarzenbach, Fritz (1894-x), Swiss botanist and high school teacher; Dr. phil. Zürich 1922. (*F. Schwarzenbach*).
+Schwarzenbach, Fritz (1894-x), Swiss botanist and high school teacher; Dr. phil. Zürich 1922. 
+**Abbreviated name**: *F. Schwarzenbach*
 
 #### Herbarium and types
 

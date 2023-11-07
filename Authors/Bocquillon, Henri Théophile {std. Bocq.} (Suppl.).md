@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103859#page/251/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33265438) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bocquillon, Henri Théophile {std. Bocq.}|first entry]] for this author
 
 ### Author
 
-\* Bocquillon, Henri Théophile (1834-1883), French botanist, Dr. sci. 1868, Dr. méd. 1869, professor of natural history at the Lycée impérial Napoléon, the École centrale d'Architecture, later id. at the Faculté de Médecine, Paris. (*Bocq.*).
+\* Bocquillon, Henri Théophile (1834-1883), French botanist, Dr. sci. 1868, Dr. méd. 1869, professor of natural history at the Lycée impérial Napoléon, the École centrale d'Architecture, later id. at the Faculté de Médecine, Paris. 
+**Abbreviated name**: *Bocq.*
 
 #### Herbarium and types
 

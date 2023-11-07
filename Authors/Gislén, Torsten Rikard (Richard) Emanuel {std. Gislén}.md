@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/item/103832#page/242/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33258708) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gislén, Torsten Rikard \[Richard\] Emanuel (1893-1954), Swedish plant anatomist and zoogeographer, born 21 Jun 1893 in Kalmar, fil. mag. 1916, fil. lic. 1921 and Ph.D. 1924 Uppsala Univ., secondary school teacher, appointed Prof., Lund Univ. 1932, also dir. Limnological stations in Lund and Aneboda 1934-1945. (*Gislén*).
+Gislén, Torsten Rikard \[Richard\] Emanuel (1893-1954), Swedish plant anatomist and zoogeographer, born 21 Jun 1893 in Kalmar, fil. mag. 1916, fil. lic. 1921 and Ph.D. 1924 Uppsala Univ., secondary school teacher, appointed Prof., Lund Univ. 1932, also dir. Limnological stations in Lund and Aneboda 1934-1945. 
+**Abbreviated name**: *Gislén*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/item/103832#page/439/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33258905) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grubb, Violet Margaret (1898-1985), British algologist and missionary, B.Sc. 1920, M.Sc. 1922 and D.Sc. 1926, Westfield College, Univ. of London, visit to Changsa, Hunan, China 1926 evidently sponsored by the Church Missionary Society, F.L.S., later in the Botanical Dept., Westfield College (at Hampstead). (*V.M. Grubb*).
+Grubb, Violet Margaret (1898-1985), British algologist and missionary, B.Sc. 1920, M.Sc. 1922 and D.Sc. 1926, Westfield College, Univ. of London, visit to Changsa, Hunan, China 1926 evidently sponsored by the Church Missionary Society, F.L.S., later in the Botanical Dept., Westfield College (at Hampstead). 
+**Abbreviated name**: *V.M. Grubb*
 
 #### Herbarium and types
 

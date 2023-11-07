@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/item/104137#page/547/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33355618) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moebius, Martin August Johannes (1859-1946), German botanist; Dr. phil. Heidelberg 1883, habil. 1887; at Heidelberg 1887-1893, from 1893-1933 librarian and botanist at the Forschungsinstitut Senckenberg, and director of the Senckenberg botanical garden (1893-1928), Frankfurt a.M.; professor of botany at Frankfurt 1914-1925; from 1939 at Homburg v.d. Höhe. (*Moebius*).
+Moebius, Martin August Johannes (1859-1946), German botanist; Dr. phil. Heidelberg 1883, habil. 1887; at Heidelberg 1887-1893, from 1893-1933 librarian and botanist at the Forschungsinstitut Senckenberg, and director of the Senckenberg botanical garden (1893-1928), Frankfurt a.M.; professor of botany at Frankfurt 1914-1925; from 1939 at Homburg v.d. Höhe. 
+**Abbreviated name**: *Moebius*
 
 #### Herbarium and types
 

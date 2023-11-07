@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103683#page/215/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33212247) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tejada, R. (1913), Guatemala botanist. (*Tejada*).
+Tejada, R. (1913), Guatemala botanist. 
+**Abbreviated name**: *Tejada*
 
 #### Herbarium and types
 

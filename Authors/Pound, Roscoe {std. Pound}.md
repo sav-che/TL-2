@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/item/103624#page/381/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33189838) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pound, Roscoe (1870-1964), American botanist; Dr. phil. Univ. Nebraska 1897, director Nebraska bot. Survey 1892-1903; Dean College of Law, Nebraska 1903-1907; professor of law Northwestern Univ. 1907-1909; Law School Chicago 1904-1915; LL.D. Mich. Univ. 1913; Harvard Law School 1910-1915; Dean of Harvard Law School 1915-1936, professor of law 1937-1947. (*Pound*).
+Pound, Roscoe (1870-1964), American botanist; Dr. phil. Univ. Nebraska 1897, director Nebraska bot. Survey 1892-1903; Dean College of Law, Nebraska 1903-1907; professor of law Northwestern Univ. 1907-1909; Law School Chicago 1904-1915; LL.D. Mich. Univ. 1913; Harvard Law School 1910-1915; Dean of Harvard Law School 1915-1936, professor of law 1937-1947. 
+**Abbreviated name**: *Pound*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103835#page/292/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33260270) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eichler, Johann Adam (fl. 1883), German teacher in Neukirchen, later in Eschwege, father of August Wilhelm Eichler (see above). (*J.A. Eichler*).
+Eichler, Johann Adam (fl. 1883), German teacher in Neukirchen, later in Eschwege, father of August Wilhelm Eichler (see above). 
+**Abbreviated name**: *J.A. Eichler*
 
 #### Herbarium and types
 

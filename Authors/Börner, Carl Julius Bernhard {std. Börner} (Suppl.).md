@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103859#page/280/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265467) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boerner (Börner), Carl (Karl) Julius Bernard {std. Börner}|first entry]] for this author
 
 ### Author
 
-\* Börner, Carl Julius Bernhard (1880-1953), German (Bremen born) zoologist and botanist, from 1901 on employed by the \[Kaiserlichen\] Biologischen Anstalt für Land- und Forstwirtschaft at Dahlem-Berlin, stationed at institute of the branch office at St. Julien near Metz, Lotharingen up to 1914, later idem at Naumburg, mainly working on viniculture and phytopathology, published on Arthropoda s.l. as well as on botany. (*Börner*).
+\* Börner, Carl Julius Bernhard (1880-1953), German (Bremen born) zoologist and botanist, from 1901 on employed by the \[Kaiserlichen\] Biologischen Anstalt für Land- und Forstwirtschaft at Dahlem-Berlin, stationed at institute of the branch office at St. Julien near Metz, Lotharingen up to 1914, later idem at Naumburg, mainly working on viniculture and phytopathology, published on Arthropoda s.l. as well as on botany. 
+**Abbreviated name**: *Börner*
 
 #### Herbarium and types
 

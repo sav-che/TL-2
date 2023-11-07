@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103414#page/129/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33120212) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Auerswald, Bernhard {std. Auersw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Auerswald, Bernhard (1818-1870), German mycologist, highschool teacher at Leipzig. (*Auersw.*).
+Auerswald, Bernhard (1818-1870), German mycologist, highschool teacher at Leipzig. 
+**Abbreviated name**: *Auersw.*
 
 #### Herbarium and types
 

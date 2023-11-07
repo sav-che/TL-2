@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103860#page/40/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265707) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chabaud, J. Benjamin (1833-1915), French botanist and head of the botanical garden of the "Marine" at St.-Mandrier. (*Chabaud*).
+Chabaud, J. Benjamin (1833-1915), French botanist and head of the botanical garden of the "Marine" at St.-Mandrier. 
+**Abbreviated name**: *Chabaud*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/item/103860#page/152/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chow, Chung Hwang (fl. 1934-1936), Chinese botanist, research fellow of the China foundation for the promotion of education and culture, studied at the Faculté des Sciences de l'Université de Paris, Dr. phil. ib. 1934. (*C.H. Chow*).
+Chow, Chung Hwang (fl. 1934-1936), Chinese botanist, research fellow of the China foundation for the promotion of education and culture, studied at the Faculté des Sciences de l'Université de Paris, Dr. phil. ib. 1934. 
+**Abbreviated name**: *C.H. Chow*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/item/103860#page/451/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33266118) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Craigie, John Hubert (1887-?), Canadian, Nova Scotia born botanist (pathologist), served in the Canadian army 1915-1918, A.B. at Harvard, M.S. at Minnesota, Ph.D. Manitoba 1930, with Arthur Henry Reginald Buller, studied at the function of pycnia in Puccinia e.a., sometimes one year an agent of U.S.D.A., 1925-1927 pathologist at the Dominian rust research laboratory, Winnipeg, Can., chief of the division of botany and plant pathology ib. 1945-1952, ultimately principal plant pathologist 1952-1958. (*Craigie*).
+Craigie, John Hubert (1887-?), Canadian, Nova Scotia born botanist (pathologist), served in the Canadian army 1915-1918, A.B. at Harvard, M.S. at Minnesota, Ph.D. Manitoba 1930, with Arthur Henry Reginald Buller, studied at the function of pycnia in Puccinia e.a., sometimes one year an agent of U.S.D.A., 1925-1927 pathologist at the Dominian rust research laboratory, Winnipeg, Can., chief of the division of botany and plant pathology ib. 1945-1952, ultimately principal plant pathologist 1952-1958. 
+**Abbreviated name**: *Craigie*
 
 #### Herbarium and types
 

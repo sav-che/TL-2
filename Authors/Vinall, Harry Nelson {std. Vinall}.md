@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/item/103683#page/758/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vinall, Harry Nelson (1880-1937), American agronomist; B.S. Kansas College 1903; M.C. Cornell Univ. 1912; teacher at rural schools, Kansas 1896-1898; assistant horticulturist Kansas College 1898-1902; foreman and salesman Nebraska 1903-1906; scientific assistant forage crops USDA 1906-1910, asst. agrostologist 1910-1913; agronomist 1913-1928; senior agronomist 1928-1937. (*Vinall*).
+Vinall, Harry Nelson (1880-1937), American agronomist; B.S. Kansas College 1903; M.C. Cornell Univ. 1912; teacher at rural schools, Kansas 1896-1898; assistant horticulturist Kansas College 1898-1902; foreman and salesman Nebraska 1903-1906; scientific assistant forage crops USDA 1906-1910, asst. agrostologist 1910-1913; agronomist 1913-1928; senior agronomist 1928-1937. 
+**Abbreviated name**: *Vinall*
 
 #### Herbarium and types
 

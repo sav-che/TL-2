@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/item/103624#page/148/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33189605) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pease, Arthur Stanley (1881-1964), American classicist and botanist; A.B. Univ. Illinois 1902; Ph. D. Harvard 1906; taught Latin and Greek at Harvard (1906-1909), Univ. Illinois (1909-1924), Amherst Coll. (1924-1926), Harvard (1932-1950); president Amherst College (1927-1932); active plant collector, made trip around the world 1926-1927. (*Pease*).
+Pease, Arthur Stanley (1881-1964), American classicist and botanist; A.B. Univ. Illinois 1902; Ph. D. Harvard 1906; taught Latin and Greek at Harvard (1906-1909), Univ. Illinois (1909-1924), Amherst Coll. (1924-1926), Harvard (1932-1950); president Amherst College (1927-1932); active plant collector, made trip around the world 1926-1927. 
+**Abbreviated name**: *Pease*
 
 #### Herbarium and types
 

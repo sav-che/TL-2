@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/item/104137#page/819/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-O'Donell, Carlos Alberto (1912-1954), Argentine botanist; Dr. pharm. Buenos Aires 1937; at the Instituto Miguel Lillo Tucuman, 1938-1954. (*O'Don.*).
+O'Donell, Carlos Alberto (1912-1954), Argentine botanist; Dr. pharm. Buenos Aires 1937; at the Instituto Miguel Lillo Tucuman, 1938-1954. 
+**Abbreviated name**: *O'Don.*
 
 #### Herbarium and types
 

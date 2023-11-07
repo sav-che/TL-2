@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/103253#page/385/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33068601) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Huet du Pavillon, Édouard (1819-1908), French born botanist, living at Genève, brother of Alfred Huet du Pavillon (1829-1907). (*E. Huet*).
+Huet du Pavillon, Édouard (1819-1908), French born botanist, living at Genève, brother of Alfred Huet du Pavillon (1829-1907). 
+**Abbreviated name**: *E. Huet*
 
 #### Herbarium and types
 

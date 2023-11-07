@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/item/103861#page/425/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33266722) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carles, Pierre-Paulin (fl. 1871-1881), "Préparateur des travaux chimiques à l'École supérieure de Pharmacie de Paris". 1871 (*Carles*).
+Carles, Pierre-Paulin (fl. 1871-1881), "Préparateur des travaux chimiques à l'École supérieure de Pharmacie de Paris". 1871 
+**Abbreviated name**: *Carles*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/104077#page/203/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33333328) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlatter, Theodor (1847-1918), Swiss botanist and merchant at St. Gallen; trained as a pharmacist at Würzburg, Basel and and Bern; head of the family firm of paints, dyes and colonial produce. (*Schlatter*).
+Schlatter, Theodor (1847-1918), Swiss botanist and merchant at St. Gallen; trained as a pharmacist at Würzburg, Basel and and Bern; head of the family firm of paints, dyes and colonial produce. 
+**Abbreviated name**: *Schlatter*
 
 #### Herbarium and types
 

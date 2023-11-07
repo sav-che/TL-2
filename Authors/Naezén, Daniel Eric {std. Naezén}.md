@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/item/104137#page/702/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33355773) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Naezén, Daniel Eric (1752-1808), Swedish physician and botanist; studied with Linnaeus fil.; Dr. phil. Uppsala 1779; Dr. med. ib. 1783; regional physician for the Umeå district from 1782-1808. (*Naezén*).
+Naezén, Daniel Eric (1752-1808), Swedish physician and botanist; studied with Linnaeus fil.; Dr. phil. Uppsala 1779; Dr. med. ib. 1783; regional physician for the Umeå district from 1782-1808. 
+**Abbreviated name**: *Naezén*
 
 #### Herbarium and types
 

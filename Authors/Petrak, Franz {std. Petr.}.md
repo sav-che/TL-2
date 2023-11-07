@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/item/103624#page/219/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33189676) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petrak, Franz (1886-1973), Austrian mycologist, born in Mährisch-Weisskirchen (later Hranice); studied in Vienna from 1906-1910 with R. von Wettstein; Dr. sci. ib. 1913; high school teacher in Wien until 1916; in the Austrian Army 1916-1918; from 1918-1938; living as a private scientist in his home town selling exsiccatae; at the Naturh. Museum, Wien 1938-1951; travelled in the United States Apr 1950-Feb 1951. (*Petr.*).
+Petrak, Franz (1886-1973), Austrian mycologist, born in Mährisch-Weisskirchen (later Hranice); studied in Vienna from 1906-1910 with R. von Wettstein; Dr. sci. ib. 1913; high school teacher in Wien until 1916; in the Austrian Army 1916-1918; from 1918-1938; living as a private scientist in his home town selling exsiccatae; at the Naturh. Museum, Wien 1938-1951; travelled in the United States Apr 1950-Feb 1951. 
+**Abbreviated name**: *Petr.*
 
 #### Herbarium and types
 

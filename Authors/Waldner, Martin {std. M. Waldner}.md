@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103250#page/90/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Waldner, Martin (*fl*. 1887), Austrian botanist. (*M. Waldner*).
+Waldner, Martin (*fl*. 1887), Austrian botanist. 
+**Abbreviated name**: *M. Waldner*
 
 #### Herbarium and types
 

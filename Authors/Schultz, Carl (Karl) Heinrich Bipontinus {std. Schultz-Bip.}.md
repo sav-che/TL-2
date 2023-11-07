@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/104077#page/384/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33333509) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schultz, Carl \[Karl\] Heinrich "Bipontinus" (1805-1867), German (Rhenisch Palatinate) botanist and physician; state medical examination München 1829; practicing physician ib. 1829-1832; imprisoned for political reasons 1832-1835; physician at the Deidesheim hospital 1836-1867; specialist on *Compositae*; founder and director of the Pollichia society. (*Schultz-Bip.*).
+Schultz, Carl \[Karl\] Heinrich "Bipontinus" (1805-1867), German (Rhenisch Palatinate) botanist and physician; state medical examination München 1829; practicing physician ib. 1829-1832; imprisoned for political reasons 1832-1835; physician at the Deidesheim hospital 1836-1867; specialist on *Compositae*; founder and director of the Pollichia society. 
+**Abbreviated name**: *Schultz-Bip.*
 
 #### Herbarium and types
 

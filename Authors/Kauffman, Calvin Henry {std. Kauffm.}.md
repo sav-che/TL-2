@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/item/103253#page/533/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33068749) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kauffman, Calvin Henry (1869-1931), America mycologist of Pennsylvania-Dutch origin at the University of Michigan, Ann Arbor, Michigan; Ph. D. Ann Arbor 1907; instructor of botany 1904; assist. professor 1912; associate professor 1920; full professor 1923; founder of the Ann Arbor mycological school. (*Kauffm.*).
+Kauffman, Calvin Henry (1869-1931), America mycologist of Pennsylvania-Dutch origin at the University of Michigan, Ann Arbor, Michigan; Ph. D. Ann Arbor 1907; instructor of botany 1904; assist. professor 1912; associate professor 1920; full professor 1923; founder of the Ann Arbor mycological school. 
+**Abbreviated name**: *Kauffm.*
 
 #### Herbarium and types
 

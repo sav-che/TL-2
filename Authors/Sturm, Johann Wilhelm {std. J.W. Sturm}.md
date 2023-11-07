@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/item/103683#page/82/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33212114) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sturm, Johann Wilhelm (1808-1865), German botanist and botanical artist at Nürnberg; son of Jacob Sturm. (*J. W. Sturm*).
+Sturm, Johann Wilhelm (1808-1865), German botanist and botanical artist at Nürnberg; son of Jacob Sturm. 
+**Abbreviated name**: *J. W. Sturm*
 
 #### Herbarium and types
 

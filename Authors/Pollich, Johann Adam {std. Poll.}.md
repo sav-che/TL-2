@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/item/103624#page/344/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33189801) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pollich, Johann Adam (1740-1780), German botanist and physician at Kaiserslautern; Dr. med. Strassbourg 1763; from 1764 devoting himself solely to natural history. (*Poll.*).
+Pollich, Johann Adam (1740-1780), German botanist and physician at Kaiserslautern; Dr. med. Strassbourg 1763; from 1764 devoting himself solely to natural history. 
+**Abbreviated name**: *Poll.*
 
 #### Herbarium and types
 

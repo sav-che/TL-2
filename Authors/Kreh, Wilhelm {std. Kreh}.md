@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/item/103253#page/696/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kreh, Wilhelm (1884-1954), German botanist and phytosociologist at Stuttgart. (*Kreh*).
+Kreh, Wilhelm (1884-1954), German botanist and phytosociologist at Stuttgart. 
+**Abbreviated name**: *Kreh*
 
 #### Herbarium and types
 

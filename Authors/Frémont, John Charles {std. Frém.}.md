@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/item/103414#page/922/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33121005) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Frémont, John Charles (1813-1890), United States explorer, "Pathmarker of the West," "from the ashes of his campfires have sprung cities." (*Frém.*).
+Frémont, John Charles (1813-1890), United States explorer, "Pathmarker of the West," "from the ashes of his campfires have sprung cities." 
+**Abbreviated name**: *Frém.*
 
 #### Herbarium and types
 

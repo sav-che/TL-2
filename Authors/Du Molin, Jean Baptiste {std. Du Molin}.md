@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103835#page/171/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33260149) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Du Molin, Jean Baptiste (1790-1873), French botanist, born 21 Mar 1790 at Bordeaux, died 28 Jan 1873 at Saint Maurin, Lot-et-Garonne. (*Du Molin*).
+Du Molin, Jean Baptiste (1790-1873), French botanist, born 21 Mar 1790 at Bordeaux, died 28 Jan 1873 at Saint Maurin, Lot-et-Garonne. 
+**Abbreviated name**: *Du Molin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/item/103683#page/403/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33212435) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tonning, Henrik (Henrich, Heinrich\] (1732-1796), Norwegian teacher and botanist; Dr. med. Uppsala 1768, student of Linnaeus; teacher in Trondhjem and curator with J.E. Gunnerus. (*Tonning*).
+Tonning, Henrik (Henrich, Heinrich\] (1732-1796), Norwegian teacher and botanist; Dr. med. Uppsala 1768, student of Linnaeus; teacher in Trondhjem and curator with J.E. Gunnerus. 
+**Abbreviated name**: *Tonning*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/item/103834#page/46/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259528) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Falck, Richard \[Ryszard\] (1873-1955), German mycologist, born 7 Mai 1873 in Landek (W. Prussia), studied pharmacy and chemistry of food products in Marburg, Berlin and Königsberg, asst. to Oscar Brefeld in Breslau 1900, Dr. phil. 1901 Breslau, succeeded O. Brefeld 1905, prof. of technical mycology, College of Forestry, Hannover-Münden 1910, later dismissed for being Jewish 1933, invited to Poland 1936 and then went to Palestine where his 65th birthday was noticed in 1938, ultimately moved to Atlanta, Georgia, U.S.A. where he died 1 Jan 1955. (*Falck*).
+Falck, Richard \[Ryszard\] (1873-1955), German mycologist, born 7 Mai 1873 in Landek (W. Prussia), studied pharmacy and chemistry of food products in Marburg, Berlin and Königsberg, asst. to Oscar Brefeld in Breslau 1900, Dr. phil. 1901 Breslau, succeeded O. Brefeld 1905, prof. of technical mycology, College of Forestry, Hannover-Münden 1910, later dismissed for being Jewish 1933, invited to Poland 1936 and then went to Palestine where his 65th birthday was noticed in 1938, ultimately moved to Atlanta, Georgia, U.S.A. where he died 1 Jan 1955. 
+**Abbreviated name**: *Falck*
 
 #### Note
 

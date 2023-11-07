@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/104137#page/582/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33355653) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moody, Sophy (*fl. 1864*), British author. (*Moody*).
+Moody, Sophy (*fl. 1864*), British author. 
+**Abbreviated name**: *Moody*
 
 #### Herbarium and types
 

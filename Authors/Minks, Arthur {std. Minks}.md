@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/item/104137#page/523/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33355594) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Minks, Arthur (1846-1908), German physician and lichenologist at Stettin. (*Minks*).
+Minks, Arthur (1846-1908), German physician and lichenologist at Stettin. 
+**Abbreviated name**: *Minks*
 
 #### Herbarium and types
 

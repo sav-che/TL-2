@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103624#page/34/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33189495) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pallas, Johann Dietrich (*fl*. 1758), German botanist. (*J. Pall.*).
+Pallas, Johann Dietrich (*fl*. 1758), German botanist. 
+**Abbreviated name**: *J. Pall.*
 
 #### Herbarium and types
 

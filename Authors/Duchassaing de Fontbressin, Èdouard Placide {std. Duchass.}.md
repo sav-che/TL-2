@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/item/103414#page/737/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33120820) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duchassaing de Fontbressin, Édouard Placide {std. Duchass.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Duchassaing de Fontbressin, Èdouard Placide (1818-1873), Guadeloupe physician and naturalist. (*Duchass.*).
+Duchassaing de Fontbressin, Èdouard Placide (1818-1873), Guadeloupe physician and naturalist. 
+**Abbreviated name**: *Duchass.*
 
 #### Herbarium and types
 

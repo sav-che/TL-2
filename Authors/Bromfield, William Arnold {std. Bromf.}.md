@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/item/103414#page/399/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33120482) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bromfield, William Arnold (1801-1851), British botanist who collected in North America, the West Indies and the Near East. (*Bromf.*).
+Bromfield, William Arnold (1801-1851), British botanist who collected in North America, the West Indies and the Near East. 
+**Abbreviated name**: *Bromf.*
 
 #### Herbarium and types
 

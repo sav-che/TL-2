@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/item/103253#page/416/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33068632) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Istvánffi de Csík Madéfalva, Gyula, until 1886 Julius Schaarschmidt, (1860-1930), Hungarian botanist. (*Istv.*).
+Istvánffi de Csík Madéfalva, Gyula, until 1886 Julius Schaarschmidt, (1860-1930), Hungarian botanist. 
+**Abbreviated name**: *Istv.*
 
 #### Herbarium and types
 

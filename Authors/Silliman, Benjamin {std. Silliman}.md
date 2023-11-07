@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/item/104077#page/612/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33333737) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Silliman, Benjamin (1779-1864), American chemist and geologist; graduated from Yale College 1796; professor of chemistry and natural history ib. 1802-1864 (from 1853 emeritus); founder of the American Journal of Science (1818). (*Silliman*).
+Silliman, Benjamin (1779-1864), American chemist and geologist; graduated from Yale College 1796; professor of chemistry and natural history ib. 1802-1864 (from 1853 emeritus); founder of the American Journal of Science (1818). 
+**Abbreviated name**: *Silliman*
 
 #### Herbarium and types
 

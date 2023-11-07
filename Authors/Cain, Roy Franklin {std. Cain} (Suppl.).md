@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/item/103861#page/310/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33266607) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cain, Roy Franklin {std. Cain}|first entry]] for this author
 
 ### Author
 
-\* Cain, Roy Franklin (1906-x), Canadian botanist born near Paris, Ontario, studied botany at the University of Toronto, BA 1930, MA 1931, Ph. D. 1933, class assistant ib. 1928-1932, technical assistant, ulimately professor of botany at the cryptogamic herbarium of Toronto 1932-1975. (*Cain*).
+\* Cain, Roy Franklin (1906-x), Canadian botanist born near Paris, Ontario, studied botany at the University of Toronto, BA 1930, MA 1931, Ph. D. 1933, class assistant ib. 1928-1932, technical assistant, ulimately professor of botany at the cryptogamic herbarium of Toronto 1932-1975. 
+**Abbreviated name**: *Cain*
 
 #### Herbarium and types
 

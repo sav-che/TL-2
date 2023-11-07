@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/item/104077#page/671/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smeathman, Henry (x-1786), British naturalist, who collected for John Fothergill and others on Madagascar, the West Indies and especially (ca. 1771) in Sierra Leone. (*Smeathman*).
+Smeathman, Henry (x-1786), British naturalist, who collected for John Fothergill and others on Madagascar, the West Indies and especially (ca. 1771) in Sierra Leone. 
+**Abbreviated name**: *Smeathman*
 
 #### Herbarium and types
 

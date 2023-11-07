@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103832#page/135/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33258601) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Garcke, Christian August Friedrich {std. Garcke}|first entry]] for this author
 
 ### Author
 
-\* Garcke, \[Christian\] August \[Friedrich\] (1819-1904), German botanist, born 25 Aug 1819 in Bräunrode nr. Mansfeld (Saxony), studied theology in Halle 1840-1844 and pupil of D.F.L. von Schlechtendal also at Halle, after 1854 curator, "dozent" and ultimately prof. of botany at Berlin, died 10 Jan 1904 in Berlin. (*Garcke*).
+\* Garcke, \[Christian\] August \[Friedrich\] (1819-1904), German botanist, born 25 Aug 1819 in Bräunrode nr. Mansfeld (Saxony), studied theology in Halle 1840-1844 and pupil of D.F.L. von Schlechtendal also at Halle, after 1854 curator, "dozent" and ultimately prof. of botany at Berlin, died 10 Jan 1904 in Berlin. 
+**Abbreviated name**: *Garcke*
 
 #### Herbarium and types
 

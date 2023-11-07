@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/104137#page/733/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33355804) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neger, Johannes (*fl*. 1871), German botanist at Nürnberg. (*J. Neger*).
+Neger, Johannes (*fl*. 1871), German botanist at Nürnberg. 
+**Abbreviated name**: *J. Neger*
 
 #### Herbarium and types
 

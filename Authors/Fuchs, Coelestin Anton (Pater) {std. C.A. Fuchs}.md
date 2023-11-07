@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/103832#page/82/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33258548) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fuchs, Coelestin Anton (Pater) (fl. 1898-1909), Austrian botanist and priest, high school teacher Komotau, "Böhmen" 1909, at least. (*C.A. Fuchs*).
+Fuchs, Coelestin Anton (Pater) (fl. 1898-1909), Austrian botanist and priest, high school teacher Komotau, "Böhmen" 1909, at least. 
+**Abbreviated name**: *C.A. Fuchs*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/item/103624#page/761/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33190218) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reverchon, Julien (1834-1905), French botanical collector; brother of E. Reverchon settled in Texas in 1856; from 1856-1858 in "La Réunion", from then on living on a farm near Dallas and collecting in various parts of the state. (*J. Reverchon*).
+Reverchon, Julien (1834-1905), French botanical collector; brother of E. Reverchon settled in Texas in 1856; from 1856-1858 in "La Réunion", from then on living on a farm near Dallas and collecting in various parts of the state. 
+**Abbreviated name**: *J. Reverchon*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/103859#page/401/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265588) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bourdot, abbé Hubert {std. Bourdot}|first entry]] for this author
 
 ### Author
 
-\* Bourdot, Hubert (Chanoine) (1861-1937), French clergyman and mycologist, educated at Moulins (Allier), teacher at the "externat Saint-Michel" ib. 1883, curé de Saint-Priest-en-Murat 1898-1937. (*Bourdot*).
+\* Bourdot, Hubert (Chanoine) (1861-1937), French clergyman and mycologist, educated at Moulins (Allier), teacher at the "externat Saint-Michel" ib. 1883, curé de Saint-Priest-en-Murat 1898-1937. 
+**Abbreviated name**: *Bourdot*
 
 #### Herbarium and types
 

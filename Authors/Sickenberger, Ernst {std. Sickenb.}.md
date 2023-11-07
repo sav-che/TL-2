@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/item/104077#page/594/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33333719) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sickenberger, Ernst (1831-1895), German (Baden) botanist and pharmacist; studied at Heidelberg University 1852-1853; pharm. exam. Stuttgart 1854; practicing pharmacist in Kirchgarten 1858-1865; in Freiburg i. Br. 1865-1872, as owner of a liquor store and (1872) in charge of the botanical garden; owner of a pharmacy in Lörrach 1873-1876; from 1876-1895 in Cairo in charge of the German pharmacy; exploring Egypt 1881-1885, professor of pharmacology (later chemistry) from 1889, member of the Egyptian Institute from 1890. (*Sickenb.*).
+Sickenberger, Ernst (1831-1895), German (Baden) botanist and pharmacist; studied at Heidelberg University 1852-1853; pharm. exam. Stuttgart 1854; practicing pharmacist in Kirchgarten 1858-1865; in Freiburg i. Br. 1865-1872, as owner of a liquor store and (1872) in charge of the botanical garden; owner of a pharmacy in Lörrach 1873-1876; from 1876-1895 in Cairo in charge of the German pharmacy; exploring Egypt 1881-1885, professor of pharmacology (later chemistry) from 1889, member of the Egyptian Institute from 1890. 
+**Abbreviated name**: *Sickenb.*
 
 #### Herbarium and types
 

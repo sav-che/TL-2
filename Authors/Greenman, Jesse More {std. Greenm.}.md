@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 997](https://www.biodiversitylibrary.org/item/103414#page/1045/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 997](https://www.biodiversitylibrary.org/page/33121128) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Greenman, Jesse More {std. Greenm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Greenman, Jesse More (1867-1951), United States botanist, specialist on the Mexican and Central American flora. (*Greenm.*).
+Greenman, Jesse More (1867-1951), United States botanist, specialist on the Mexican and Central American flora. 
+**Abbreviated name**: *Greenm.*
 
 #### Herbarium and types
 

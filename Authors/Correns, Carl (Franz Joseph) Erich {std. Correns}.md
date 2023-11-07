@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/item/103860#page/383/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33266050) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Correns, Carl \[Franz Joseph\] Erich (1864-1933), German botanist, born in München, educated at the humanistic Gymnasium at Augsburg, went to St. Gallen because of tuberculosis, remained there until matriculation 1885, studied with K.W. von Nägeli in München 1885-1888, Dr. phil. 1889, in Berlin with Schwendener, some time at Leipzig, in 1891 to Tübingen, (habil.) until 1909, füll professor in Münster 1909-1914, from 1914-1933 director of the Kaiser Wilhelm Institut für Biologie at Berlin. (*Correns*).
+Correns, Carl \[Franz Joseph\] Erich (1864-1933), German botanist, born in München, educated at the humanistic Gymnasium at Augsburg, went to St. Gallen because of tuberculosis, remained there until matriculation 1885, studied with K.W. von Nägeli in München 1885-1888, Dr. phil. 1889, in Berlin with Schwendener, some time at Leipzig, in 1891 to Tübingen, (habil.) until 1909, füll professor in Münster 1909-1914, from 1914-1933 director of the Kaiser Wilhelm Institut für Biologie at Berlin. 
+**Abbreviated name**: *Correns*
 
 #### Herbarium and types
 

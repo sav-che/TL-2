@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/item/104077#page/758/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33333883) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Songeon, André (1826-1905), French botanist at Chambéry; botanical explorer of Savoie. (*Songeon*).
+Songeon, André (1826-1905), French botanist at Chambéry; botanical explorer of Savoie. 
+**Abbreviated name**: *Songeon*
 
 #### Herbarium and types
 

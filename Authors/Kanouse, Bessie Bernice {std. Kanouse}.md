@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/item/103253#page/522/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kanouse, Bessie Bernice (1889-1969), American mycologist; Ph. D. Univ. Mich. 1926; specialist on watermolds and discomycetes; at the Ann Arbor University Herbarium of the University of Michigan (1926-1960). (*Kanouse*).
+Kanouse, Bessie Bernice (1889-1969), American mycologist; Ph. D. Univ. Mich. 1926; specialist on watermolds and discomycetes; at the Ann Arbor University Herbarium of the University of Michigan (1926-1960). 
+**Abbreviated name**: *Kanouse*
 
 #### Herbarium and types
 

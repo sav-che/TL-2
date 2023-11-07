@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/item/103683#page/574/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33212606) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uexküll-Gyllenbrand, Margarete von (*fl*. 1901), Baltic-German (Latvian) botanist; Dr. phil. Zürich 1901; student of C. Schröter. (*Uexküll*).
+Uexküll-Gyllenbrand, Margarete von (*fl*. 1901), Baltic-German (Latvian) botanist; Dr. phil. Zürich 1901; student of C. Schröter. 
+**Abbreviated name**: *Uexküll*
 
 #### Herbarium and types
 

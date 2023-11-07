@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/item/103683#page/116/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33212148) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Svanlund, \[Johan\] Fredrik \[Eberhard\] (1832-1902), Swedish botanist; telegraph inspector at Karlskrona 1856-1892; later director of a technical school. (*Svanlund*).
+Svanlund, \[Johan\] Fredrik \[Eberhard\] (1832-1902), Swedish botanist; telegraph inspector at Karlskrona 1856-1892; later director of a technical school. 
+**Abbreviated name**: *Svanlund*
 
 #### Herbarium and types
 

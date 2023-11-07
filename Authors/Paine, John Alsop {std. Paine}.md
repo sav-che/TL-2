@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103624#page/23/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33189506) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paine, John Alsop (1840-1912), American botanist; M.A. Hamilton College 1862; Dr. phil. id. 1874; employed by the board of regents of the State of New York in connection with the flora of the State in 1862-1867; teaching at various colleges and editing journals from 1868; in Eastern Palestine for the Palestine Exploration Society 1872-1873; curator at the Metropolitan Museum of Art, New York, from 1889. (*Paine*).
+Paine, John Alsop (1840-1912), American botanist; M.A. Hamilton College 1862; Dr. phil. id. 1874; employed by the board of regents of the State of New York in connection with the flora of the State in 1862-1867; teaching at various colleges and editing journals from 1868; in Eastern Palestine for the Palestine Exploration Society 1872-1873; curator at the Metropolitan Museum of Art, New York, from 1889. 
+**Abbreviated name**: *Paine*
 
 #### Herbarium and types
 

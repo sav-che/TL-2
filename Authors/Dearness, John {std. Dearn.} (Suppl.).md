@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103833#page/135/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259169) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dearness, John {std. Dearn.}|first entry]] for this author
 
 ### Author
 
-\* Dearness, John (1852-1954\[sic\]), Canadian botanist (mycologist), teacher and administrator in Canadian schools, worked on the farm of his parents N.W. of London, 1871 at Toronto Normal School, Principal of Lucan Village School, at 21 Principal of Strathroy public school, with the Board of Education and the Ontario Dept. of Education, later at the High School, from 1874-1899 Public School inspector East Middlesex, also 1888-1914 professor of biology Med-School Western University. (*Dearn.*).
+\* Dearness, John (1852-1954\[sic\]), Canadian botanist (mycologist), teacher and administrator in Canadian schools, worked on the farm of his parents N.W. of London, 1871 at Toronto Normal School, Principal of Lucan Village School, at 21 Principal of Strathroy public school, with the Board of Education and the Ontario Dept. of Education, later at the High School, from 1874-1899 Public School inspector East Middlesex, also 1888-1914 professor of biology Med-School Western University. 
+**Abbreviated name**: *Dearn.*
 
 #### Herbarium and types
 

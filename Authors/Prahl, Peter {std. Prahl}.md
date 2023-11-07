@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/item/103624#page/389/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33189846) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Prahl, Peter (1843-1911), German (Schleswig) botanist; born in Danish northern Schleswig; studied medicine at the military hospital of the Friedrich Wilhelms Institut at Berlin; from 1867-1868 assistant physician at the Berlin Charité; military physician at Flensburg 1868-1870, in the Franco-Prussian war of 1870-1871, at Hadersleben 1871-1876 at Flensburg 1876-1879, at Kiel 1879-1888, at Stettin in 1890, at Wandbeck 1890-1892, 1892-1899 at Rostock; on sick leave and later retired living at Lübeck 1899-1911; ardent amateur botanist since his student days. (*Prahl*).
+Prahl, Peter (1843-1911), German (Schleswig) botanist; born in Danish northern Schleswig; studied medicine at the military hospital of the Friedrich Wilhelms Institut at Berlin; from 1867-1868 assistant physician at the Berlin Charité; military physician at Flensburg 1868-1870, in the Franco-Prussian war of 1870-1871, at Hadersleben 1871-1876 at Flensburg 1876-1879, at Kiel 1879-1888, at Stettin in 1890, at Wandbeck 1890-1892, 1892-1899 at Rostock; on sick leave and later retired living at Lübeck 1899-1911; ardent amateur botanist since his student days. 
+**Abbreviated name**: *Prahl*
 
 #### Herbarium and types
 

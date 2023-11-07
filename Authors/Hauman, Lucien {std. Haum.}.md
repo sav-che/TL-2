@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/item/103253#page/127/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hauman, Lucien (1880-1965), Belgian botanist; educated at Gembloux; pupil of Leo Errera; at the Faculty of Agronomy in Buenos Aires, Argentina, from 1904-1926; professor of botany at the Université libre de Bruxelles 1928-1950; Dr. agron. h.c. Buenos Aires 1949. (*Haum.*).
+Hauman, Lucien (1880-1965), Belgian botanist; educated at Gembloux; pupil of Leo Errera; at the Faculty of Agronomy in Buenos Aires, Argentina, from 1904-1926; professor of botany at the Université libre de Bruxelles 1928-1950; Dr. agron. h.c. Buenos Aires 1949. 
+**Abbreviated name**: *Haum.*
 
 #### Herbarium and types
 

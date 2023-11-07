@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/103414#page/276/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33120359) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blanck, A. (*fl*. 1884), German physician and naturalist at Schwerin. (*Blanck*).
+Blanck, A. (*fl*. 1884), German physician and naturalist at Schwerin. 
+**Abbreviated name**: *Blanck*
 
 #### Herbarium and types
 

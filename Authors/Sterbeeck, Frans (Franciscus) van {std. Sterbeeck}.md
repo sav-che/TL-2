@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/item/104077#page/910/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/page/33334035) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sterbeeck, Frans \[Franciscus\] van (1630-1693), Flemish (Antwerp-born) clergyman and botanist; priest at Hoogstraten (de Kempen, Belgium); ord. 1655; chaplain at Antwerp 1663; titular canon at Hoogstraten, stationed at Antwerp 1674. (*Sterbeeck*).
+Sterbeeck, Frans \[Franciscus\] van (1630-1693), Flemish (Antwerp-born) clergyman and botanist; priest at Hoogstraten (de Kempen, Belgium); ord. 1655; chaplain at Antwerp 1663; titular canon at Hoogstraten, stationed at Antwerp 1674. 
+**Abbreviated name**: *Sterbeeck*
 
 #### Herbarium and types
 

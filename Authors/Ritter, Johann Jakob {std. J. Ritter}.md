@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/item/103624#page/816/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33190273) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ritter, Johann Jakob (1714-1784), Swiss botanist; sometime professor at Franeker, Netherlands; ultimately at Gnadenfrei in Silezia. (*J. Ritter*).
+Ritter, Johann Jakob (1714-1784), Swiss botanist; sometime professor at Franeker, Netherlands; ultimately at Gnadenfrei in Silezia. 
+**Abbreviated name**: *J. Ritter*
 
 #### Herbarium and types
 

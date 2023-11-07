@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103253#page/28/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33068244) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Habirshaw, Frederick (*fl*. 1877), American diatomologist. (*Habirshaw*).
+Habirshaw, Frederick (*fl*. 1877), American diatomologist. 
+**Abbreviated name**: *Habirshaw*
 
 #### Herbarium and types
 

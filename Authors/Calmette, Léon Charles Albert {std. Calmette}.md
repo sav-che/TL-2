@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103414#page/474/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Calmette, Léon Charles Albert (1863-1933), French microbiologist. (*Calmette*).
+Calmette, Léon Charles Albert (1863-1933), French microbiologist. 
+**Abbreviated name**: *Calmette*
 
 #### Herbarium and types
 

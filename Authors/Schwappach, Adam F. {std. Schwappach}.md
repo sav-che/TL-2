@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/104077#page/436/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33333561) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwappach, Adam F. (1851-1932), German (Bavarian) forester; Dr. oec. München 1872; Königlicher Bayerischer Forstgehilfe, Martiniamitz 1873-1875; id. Ebrach 1875-1876; assistant for chemistry at the Forstliche Lehranstalt Aschaffenburg 1876-1878; at the Kreisforstbüro Würzburg 1878-1881; extra-ordinary profssor of forestry Giessen 1881-1886; in charge of forestry research at the Forstliche Hochschule Eberswalde 1886-1921. (*Schwappach*).
+Schwappach, Adam F. (1851-1932), German (Bavarian) forester; Dr. oec. München 1872; Königlicher Bayerischer Forstgehilfe, Martiniamitz 1873-1875; id. Ebrach 1875-1876; assistant for chemistry at the Forstliche Lehranstalt Aschaffenburg 1876-1878; at the Kreisforstbüro Würzburg 1878-1881; extra-ordinary profssor of forestry Giessen 1881-1886; in charge of forestry research at the Forstliche Hochschule Eberswalde 1886-1921. 
+**Abbreviated name**: *Schwappach*
 
 #### Herbarium and types
 

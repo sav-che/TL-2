@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103253#page/415/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Isnard, Antoine-Tristan Danty d' (1663-1743), French botanist at the Jardin du Roi at Paris; established the genus *Euphorbia*. (*Isnard*).
+Isnard, Antoine-Tristan Danty d' (1663-1743), French botanist at the Jardin du Roi at Paris; established the genus *Euphorbia*. 
+**Abbreviated name**: *Isnard*
 
 #### Herbarium and types
 

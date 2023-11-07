@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/item/103414#page/582/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33120665) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Conwentz, Hugo Wilhelm {std. Conw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Conwentz, Hugo Wilhelm (1855-1922), German palaeobotanist, director of nature conservation for Prussia. (*Conw.*).
+Conwentz, Hugo Wilhelm (1855-1922), German palaeobotanist, director of nature conservation for Prussia. 
+**Abbreviated name**: *Conw.*
 
 #### Collections
 

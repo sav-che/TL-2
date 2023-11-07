@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/item/104137#page/746/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neuman, Julius John (*fl*. 1914), American botanist with the Wisconsin geological and natural history survey. (*J. Neuman*).
+Neuman, Julius John (*fl*. 1914), American botanist with the Wisconsin geological and natural history survey. 
+**Abbreviated name**: *J. Neuman*
 
 #### Herbarium and types
 

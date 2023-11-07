@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/item/103683#page/62/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33212056) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strohmeyer, Otto \[August Karl\] (1869-?), German (Prussian) botanist; Dr. phil. Erlangen 1896; assistant at the Institute for Hygiene in Hamburg. (*Strohmeyer*).
+Strohmeyer, Otto \[August Karl\] (1869-?), German (Prussian) botanist; Dr. phil. Erlangen 1896; assistant at the Institute for Hygiene in Hamburg. 
+**Abbreviated name**: *Strohmeyer*
 
 #### Herbarium and types
 

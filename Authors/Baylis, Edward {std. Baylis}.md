@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103414#page/202/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33120285) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baylis, Edward (*fl*. 1791-1794), British physician and botanist. (*Baylis*).
+Baylis, Edward (*fl*. 1791-1794), British physician and botanist. 
+**Abbreviated name**: *Baylis*
 
 #### Herbarium and types
 

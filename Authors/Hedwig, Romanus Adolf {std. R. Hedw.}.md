@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103253#page/148/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33068364) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hedwig, Romanus Adolf (1772-1806), German botanist; from 1801 professor of botany in Leipzig; son of Johannes Hedwig. (*R. Hedw.*).
+Hedwig, Romanus Adolf (1772-1806), German botanist; from 1801 professor of botany in Leipzig; son of Johannes Hedwig. 
+**Abbreviated name**: *R. Hedw.*
 
 #### Herbarium and types
 

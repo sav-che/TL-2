@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/item/103253#page/542/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33068758) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Keller, Robert (1854-1939), Swiss botanist (especially rhodologist) and high school teacher at Winterthur. (*R. Keller*).
+Keller, Robert (1854-1939), Swiss botanist (especially rhodologist) and high school teacher at Winterthur. 
+**Abbreviated name**: *R. Keller*
 
 #### Herbarium and types
 

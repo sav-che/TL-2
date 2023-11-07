@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/item/104137#page/628/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33355699) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mudd, William (A.) (1830-1879), British gardener and lichenologist; at first at Great Ayton, Cumb.; later (1865) curator of the Cambridge botanic garden. (*Mudd*).
+Mudd, William (A.) (1830-1879), British gardener and lichenologist; at first at Great Ayton, Cumb.; later (1865) curator of the Cambridge botanic garden. 
+**Abbreviated name**: *Mudd*
 
 #### Herbarium and types
 

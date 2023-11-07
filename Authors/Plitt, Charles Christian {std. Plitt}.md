@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103624#page/310/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33189767) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plitt, Charles Christian (1869-1933), American lichenologist and bryologist; Ph.G. (pharmacy) Maryland College Pharmacy 1891; Dr. sci. 1921 Int. Acad. Sci., Baltimore; teacher at various public schools in Baltimore, later at Baltimore City College; ultimately professor of botany at the University of Maryland. (*Plitt*).
+Plitt, Charles Christian (1869-1933), American lichenologist and bryologist; Ph.G. (pharmacy) Maryland College Pharmacy 1891; Dr. sci. 1921 Int. Acad. Sci., Baltimore; teacher at various public schools in Baltimore, later at Baltimore City College; ultimately professor of botany at the University of Maryland. 
+**Abbreviated name**: *Plitt*
 
 #### Herbarium and types
 

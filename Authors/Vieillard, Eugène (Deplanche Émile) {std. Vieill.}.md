@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/item/103683#page/738/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33212770) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vieillard, Eugène \[Deplanche Émile\] (1819-1896), French naval surgeon and botanist; collected in New Caledonia (1857-1859, ca. 1861-1869) and Tahiti (1855-1857); director of the Jardin botanique de la ville de Caen 1871-1895. (*Vieill.*).
+Vieillard, Eugène \[Deplanche Émile\] (1819-1896), French naval surgeon and botanist; collected in New Caledonia (1857-1859, ca. 1861-1869) and Tahiti (1855-1857); director of the Jardin botanique de la ville de Caen 1871-1895. 
+**Abbreviated name**: *Vieill.*
 
 #### Herbarium and types
 

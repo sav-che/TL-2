@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/103253#page/591/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33068807) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Klement, Oscar (1897-x), Bohemian lichenologist; pupil of Anders; in Czechoslovakia until 1945; later in Hannover and Kempten. (*Klem.*).
+Klement, Oscar (1897-x), Bohemian lichenologist; pupil of Anders; in Czechoslovakia until 1945; later in Hannover and Kempten. 
+**Abbreviated name**: *Klem.*
 
 #### Herbarium and types
 

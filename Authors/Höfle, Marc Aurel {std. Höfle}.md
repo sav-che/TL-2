@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/item/103253#page/252/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33068468) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Höfle, Marc Aurel (x-1855), German practicing physician and botanist at Heidelberg. (*Höfle*).
+Höfle, Marc Aurel (x-1855), German practicing physician and botanist at Heidelberg. 
+**Abbreviated name**: *Höfle*
 
 #### Herbarium and types
 

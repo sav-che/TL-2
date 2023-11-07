@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/item/103253#page/197/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33068413) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hermann, Friedrich (1873-1967), German botanist, lawyer and notary. (*F. Herm.*).
+Hermann, Friedrich (1873-1967), German botanist, lawyer and notary. 
+**Abbreviated name**: *F. Herm.*
 
 #### Herbarium and types
 

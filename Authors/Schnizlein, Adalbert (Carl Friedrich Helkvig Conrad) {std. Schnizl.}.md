@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/item/104077#page/293/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33333418) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schnizlein, Adalbert \[Carl Friedrich Helkvig Conrad\] (1814-1868), German (Bavarian) botanist and pharmacist; studied at the University of München; Dr. phil. Erlangen 1836; spent training years in Genève (1837), Speyer (1838), Mainbernheim (1839-1840); continued his botanical studies in München 1841-1842; pharmacist in Erlangen 1843; habil. Erlangen 1845; from 1850-1868 professor of botany and director of the botanical garden. (*Schnizl.*).
+Schnizlein, Adalbert \[Carl Friedrich Helkvig Conrad\] (1814-1868), German (Bavarian) botanist and pharmacist; studied at the University of München; Dr. phil. Erlangen 1836; spent training years in Genève (1837), Speyer (1838), Mainbernheim (1839-1840); continued his botanical studies in München 1841-1842; pharmacist in Erlangen 1843; habil. Erlangen 1845; from 1850-1868 professor of botany and director of the botanical garden. 
+**Abbreviated name**: *Schnizl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103861#page/467/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33266764) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Castillon, Léon (fl. 1908-1928), Argentine botanist, sometime Chief of the Botanical Section at the Museo de Historia natural of the Universidad Nacional de Tucumán, Argentina, sometime (± 1914) priest of the order of Jesu at Lourdes. (*Castillon*).
+Castillon, Léon (fl. 1908-1928), Argentine botanist, sometime Chief of the Botanical Section at the Museo de Historia natural of the Universidad Nacional de Tucumán, Argentina, sometime (± 1914) priest of the order of Jesu at Lourdes. 
+**Abbreviated name**: *Castillon*
 
 #### Herbarium and types
 

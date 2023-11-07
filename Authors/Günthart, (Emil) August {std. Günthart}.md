@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/103832#page/448/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33258914) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Günthart, \[Emil\] August (1879-1957), Swiss botanist, born 8 Jul 1879 in Frauenfeld (Kt. Thurgau), Ph.D. 1902 Zürich, teacher in girls' schools in Barmen 1902-1905 and Zürich 1905-1912, leader of the mathematics/natural history division of the Teubner Press in Leipzig 1912-1917, Dir., Botanical Garden, Frauenfeld from 1920, died 22 Apr 1957 in Frauenfeld. (*Günthart*).
+Günthart, \[Emil\] August (1879-1957), Swiss botanist, born 8 Jul 1879 in Frauenfeld (Kt. Thurgau), Ph.D. 1902 Zürich, teacher in girls' schools in Barmen 1902-1905 and Zürich 1905-1912, leader of the mathematics/natural history division of the Teubner Press in Leipzig 1912-1917, Dir., Botanical Garden, Frauenfeld from 1920, died 22 Apr 1957 in Frauenfeld. 
+**Abbreviated name**: *Günthart*
 
 #### Herbarium and types
 

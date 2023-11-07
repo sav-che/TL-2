@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/item/103253#page/739/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33068955) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Labouret, J. (*fl*. 1858), French cactus grower at Raffec, Charente. (*Labour.*).
+Labouret, J. (*fl*. 1858), French cactus grower at Raffec, Charente. 
+**Abbreviated name**: *Labour.*
 
 #### Herbarium and types
 

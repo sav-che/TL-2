@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103624#page/347/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33189804) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Polunin, Nicholas Vladimir (1909-x), British botanist, ecologist and conservationist; D.Sc. Oxon.; demonstrator and lecturer in botany Oxford 1938-1947; McDonald professor of botany, McGill Univ. 1947-1952; director Baghdad University Herbarium 1955-1958; guest prof. bot. Geneva 1959-1961; professor of botany Univ. of Ife, Nigeria 1962-1966. (*Polunin*).
+Polunin, Nicholas Vladimir (1909-x), British botanist, ecologist and conservationist; D.Sc. Oxon.; demonstrator and lecturer in botany Oxford 1938-1947; McDonald professor of botany, McGill Univ. 1947-1952; director Baghdad University Herbarium 1955-1958; guest prof. bot. Geneva 1959-1961; professor of botany Univ. of Ife, Nigeria 1962-1966. 
+**Abbreviated name**: *Polunin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/item/103253#page/192/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33068408) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herbich, Franz (1791-1865), Austrian military surgeon and botanist, at Naples 1821-1824, from 1824 active mainly in Galicia and the Bucowina. (*Herbich*).
+Herbich, Franz (1791-1865), Austrian military surgeon and botanist, at Naples 1821-1824, from 1824 active mainly in Galicia and the Bucowina. 
+**Abbreviated name**: *Herbich*
 
 #### Herbarium and types
 

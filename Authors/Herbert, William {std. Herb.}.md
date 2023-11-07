@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103253#page/191/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33068407) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Herbert, William (1778-1847), British botanist who entered the Anglican ministry in 1814, active at Spotforth, Yorkshire. (*Herb.*).
+Herbert, William (1778-1847), British botanist who entered the Anglican ministry in 1814, active at Spotforth, Yorkshire. 
+**Abbreviated name**: *Herb.*
 
 #### Types
 

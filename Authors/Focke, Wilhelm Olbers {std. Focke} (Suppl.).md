@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/item/103834#page/302/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33259784) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Focke, Wilhelm Olbers {std. Focke}|first entry]] for this author
 
 ### Author
 
-\* Focke, Wilhelm Olbers (1834-1922), German physician and botanist (batologist), born 5 Apr 1834 in Bremen, where he attended school, studied medicine in Bonn 1853-1855, Dr. Sci. 1857 Würtzburg, traveled to Vienna 1857-1858 and Berlin 1858, physician 1859-1861 in Oberneuland nr. Bremen, later in Bremen, left his medical practice 1904, but remained an active botanist until his death 29 Sep 1922. (*Focke*).
+\* Focke, Wilhelm Olbers (1834-1922), German physician and botanist (batologist), born 5 Apr 1834 in Bremen, where he attended school, studied medicine in Bonn 1853-1855, Dr. Sci. 1857 Würtzburg, traveled to Vienna 1857-1858 and Berlin 1858, physician 1859-1861 in Oberneuland nr. Bremen, later in Bremen, left his medical practice 1904, but remained an active botanist until his death 29 Sep 1922. 
+**Abbreviated name**: *Focke*
 
 #### Herbarium and types
 

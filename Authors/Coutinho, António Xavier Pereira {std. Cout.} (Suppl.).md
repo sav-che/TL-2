@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/item/103860#page/436/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33266103) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Coutinho, António Xavier Pereira {std. Cout.}|first entry]] for this author
 
 ### Author
 
-\* Coutinho, António Xavier Pereira (1851 -1939), Portuguese botanist and agronomist, born at Lisboa, educated at the Instituto agricola de Lisboa, thesis 1874, from ca. 1874-1878 agronomist in the district of Bragança, in charge of the chemical laboratories of the Instituto agricola 1878-1884, in charge of silviculture in the district of Bragança, professor of botany at the Instituto from 1893. (*Cout.*).
+\* Coutinho, António Xavier Pereira (1851 -1939), Portuguese botanist and agronomist, born at Lisboa, educated at the Instituto agricola de Lisboa, thesis 1874, from ca. 1874-1878 agronomist in the district of Bragança, in charge of the chemical laboratories of the Instituto agricola 1878-1884, in charge of silviculture in the district of Bragança, professor of botany at the Instituto from 1893. 
+**Abbreviated name**: *Cout.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/item/104077#page/378/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schuez, \[Georg\] Emil \[Carl Christoph\] (1828-1877), German (Schwabian) physician and botanist; studied at Tübingen Univ. 1846-1851; from 1853 practicing physician at Calw, Nordschwarzwald, Oberschwaben; Dr. med. Tübingen 1858. (*E. Schüz*).
+Schuez, \[Georg\] Emil \[Carl Christoph\] (1828-1877), German (Schwabian) physician and botanist; studied at Tübingen Univ. 1846-1851; from 1853 practicing physician at Calw, Nordschwarzwald, Oberschwaben; Dr. med. Tübingen 1858. 
+**Abbreviated name**: *E. Schüz*
 
 #### Herbarium and types
 

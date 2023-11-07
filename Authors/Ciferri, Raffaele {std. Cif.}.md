@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/item/103414#page/551/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33120634) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ciferri, Raffaele (Rafael) {std. Cif.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ciferri, Raffaele (1897-1964), Italian mycologist. (*Cif.*).
+Ciferri, Raffaele (1897-1964), Italian mycologist. 
+**Abbreviated name**: *Cif.*
 
 #### Herbarium and types
 

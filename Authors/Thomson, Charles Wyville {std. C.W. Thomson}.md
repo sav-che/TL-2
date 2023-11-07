@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103683#page/293/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33212325) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomson, Charles Wyville (1830-1882), British marine zoologist and botanist; LLD Aberdeen 1853, knighted 1876; lecturer in botany Aberdeen 1850, professor id. 1851; professor of natural history, Cork 1853; professor of mineralogy and geology, Belfast 1854, of natural history ib. 1860; professor of natural history, Edinburgh 1870-1881; chief of the Challenger staff 1872-1876. (*C.W. Thomson*).
+Thomson, Charles Wyville (1830-1882), British marine zoologist and botanist; LLD Aberdeen 1853, knighted 1876; lecturer in botany Aberdeen 1850, professor id. 1851; professor of natural history, Cork 1853; professor of mineralogy and geology, Belfast 1854, of natural history ib. 1860; professor of natural history, Edinburgh 1870-1881; chief of the Challenger staff 1872-1876. 
+**Abbreviated name**: *C.W. Thomson*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/item/103414#page/470/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33120553) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cadeval(l) y Diars, Juan {std. Cadevall} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cadeval\[l\] y Diars, Juan (1846-1921), Catalonian botanist. (*Cadeval*).
+Cadeval\[l\] y Diars, Juan (1846-1921), Catalonian botanist. 
+**Abbreviated name**: *Cadeval*
 
 #### Herbarium and types
 

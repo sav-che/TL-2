@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/item/103835#page/360/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33260338) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Engler, Arnold (1869-1923), Swiss forester, born 29 Jan 1869 at Stans, started studying natural sciences 1887 as well as forestry, became at the age of 28 professor in forestry at the Eidgenössische Technische Hochschule at Zürich (1897-1923) and in 1902 leader of the Swiss Forest Experiment Station, died 15 Jul 1923 at Zürich. (*Arn. Engl.*).
+Engler, Arnold (1869-1923), Swiss forester, born 29 Jan 1869 at Stans, started studying natural sciences 1887 as well as forestry, became at the age of 28 professor in forestry at the Eidgenössische Technische Hochschule at Zürich (1897-1923) and in 1902 leader of the Swiss Forest Experiment Station, died 15 Jul 1923 at Zürich. 
+**Abbreviated name**: *Arn. Engl.*
 
 #### Herbarium and types
 

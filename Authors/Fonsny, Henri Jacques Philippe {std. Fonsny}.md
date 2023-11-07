@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/item/103834#page/318/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33259800) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fonsny, Henri Jacques Philippe (1853-1936), Belgian pharmacist, born 7 Jul 1853 in Hodimont (Liège), prof. of chemistry at the industrial school, expert on the flora of his home-town Verviers (Liège), died 18 Aug 1936 in Verviers. (*Fonsny*).
+Fonsny, Henri Jacques Philippe (1853-1936), Belgian pharmacist, born 7 Jul 1853 in Hodimont (Liège), prof. of chemistry at the industrial school, expert on the flora of his home-town Verviers (Liège), died 18 Aug 1936 in Verviers. 
+**Abbreviated name**: *Fonsny*
 
 #### Herbarium and types
 

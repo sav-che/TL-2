@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/item/103414#page/592/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33120675) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooke, William Bridge (1908-x), American mycologist. (*W. B. Cooke*).
+Cooke, William Bridge (1908-x), American mycologist. 
+**Abbreviated name**: *W. B. Cooke*
 
 #### Herbarium and types
 

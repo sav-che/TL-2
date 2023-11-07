@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/item/104137#page/819/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Oeder, George Christian \[von Oldenburg\] (1728-1791), German botanist; Dr. med. Göttingen 1749; to Denmark 1752; royal professor of botany at Kjøbenhavn 1754-1770; various times in Norway between 1755-1760; from 1773 in Oldenburg as regional governor (Landvogt); ennobled 1788. (*Oed.*).
+Oeder, George Christian \[von Oldenburg\] (1728-1791), German botanist; Dr. med. Göttingen 1749; to Denmark 1752; royal professor of botany at Kjøbenhavn 1754-1770; various times in Norway between 1755-1760; from 1773 in Oldenburg as regional governor (Landvogt); ennobled 1788. 
+**Abbreviated name**: *Oed.*
 
 #### Herbarium and types
 

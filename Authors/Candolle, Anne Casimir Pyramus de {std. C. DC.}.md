@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/item/103414#page/485/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33120568) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Candolle, (Anne) Casimir (Pyramus) de {std. C. DC.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Candolle, Anne Casimir Pyramus de (1836-1918), Swiss botanist, son of Alphonse de Candolle. (*C. DC*).
+Candolle, Anne Casimir Pyramus de (1836-1918), Swiss botanist, son of Alphonse de Candolle. 
+**Abbreviated name**: *C. DC*
 
 #### Herbarium and types
 

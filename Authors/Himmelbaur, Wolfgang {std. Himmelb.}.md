@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103253#page/233/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Himmelbaur, Wolfgang (1886-1937), Austrian botanist, pharmacognocist and phytopathologist; pupil of R. v. Wettstein; Dr. phil. Wien 1909; in various functions at the Landwirtschaftslich-chemische Bundes-Versuchsanstalt; from 1914 privatdocent, from 1934 professor of applied botany at the University of Vienna. (*Himmelb.*).
+Himmelbaur, Wolfgang (1886-1937), Austrian botanist, pharmacognocist and phytopathologist; pupil of R. v. Wettstein; Dr. phil. Wien 1909; in various functions at the Landwirtschaftslich-chemische Bundes-Versuchsanstalt; from 1914 privatdocent, from 1934 professor of applied botany at the University of Vienna. 
+**Abbreviated name**: *Himmelb.*
 
 #### Herbarium and types
 

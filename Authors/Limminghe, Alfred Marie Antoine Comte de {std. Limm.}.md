@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/104137#page/35/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33355108) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Limminghe, Alfred Marie Antoine Comte de (1834-1861), Belgian cryptogamist at Namur and Gentinnes (nr. Marbais, Brabant); assassinated in the streets of Rome, April 1861. (*Limm.*).
+Limminghe, Alfred Marie Antoine Comte de (1834-1861), Belgian cryptogamist at Namur and Gentinnes (nr. Marbais, Brabant); assassinated in the streets of Rome, April 1861. 
+**Abbreviated name**: *Limm.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/item/103414#page/582/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33120665) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Contejean, Charles (-Louis) {std. Contejean} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Contejean, Charles Louis (1824-1907), Alsatian botanist. (*Contejean*).
+Contejean, Charles Louis (1824-1907), Alsatian botanist. 
+**Abbreviated name**: *Contejean*
 
 #### Herbarium and types
 

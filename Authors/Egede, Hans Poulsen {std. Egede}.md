@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/item/103414#page/774/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33120857) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Egede, Hans Poulsen (1686-1758), Danish missionary in Greenland (1721-1736). (*Egede*).
+Egede, Hans Poulsen (1686-1758), Danish missionary in Greenland (1721-1736). 
+**Abbreviated name**: *Egede*
 
 #### Herbarium and types
 

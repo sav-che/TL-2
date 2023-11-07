@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/item/104077#page/803/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33333928) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spielmann, Jakob Reinhold (1722-1783), German (Alsatian) botanist and pharmacist; travelled in Germany 1740-1742; pharmaceutical examination at Strassburg 1743; Dr. med. ib. 1748; professor of medicine, chemistry and botany ib. (extraordinary) 1755, (ordinary) 1759-1783. (*Spielm.*).
+Spielmann, Jakob Reinhold (1722-1783), German (Alsatian) botanist and pharmacist; travelled in Germany 1740-1742; pharmaceutical examination at Strassburg 1743; Dr. med. ib. 1748; professor of medicine, chemistry and botany ib. (extraordinary) 1755, (ordinary) 1759-1783. 
+**Abbreviated name**: *Spielm.*
 
 #### Herbarium and types
 

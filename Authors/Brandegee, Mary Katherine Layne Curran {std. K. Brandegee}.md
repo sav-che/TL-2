@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103414#page/350/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33120433) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandegee, Mary Katherine (Layne, later Curran) {std. K. Brandegee} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brandegee, Mary Katherine Layne Curran (1844-1920), American botanist in California, wife of T. S. Brandegee. (*K. Brandegee*).
+Brandegee, Mary Katherine Layne Curran (1844-1920), American botanist in California, wife of T. S. Brandegee. 
+**Abbreviated name**: *K. Brandegee*
 
 #### Herbarium and types
 

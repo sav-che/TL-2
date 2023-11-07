@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/item/103833#page/331/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33259365) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dierckx, E.P. Frans (1863-1937), Belgian Roman Catholic priest and natural scientist, born 14 Jan 1863 at Turnhout, visited schools and the St. Jozef college in his hometown until 1880, studied also natural sciences, teacher at Leuven from 1888, at the same time studying at the university 1888-1892, ordination in 1895, produced a thesis on Penicillium (17 Jun 1908) which was only published by Prof. Biourge in 1923, visited Java, Ceylon, and British India 1901-1902, died 30 Oct 1937 in the college of Godinne. (*Dierckx*).
+Dierckx, E.P. Frans (1863-1937), Belgian Roman Catholic priest and natural scientist, born 14 Jan 1863 at Turnhout, visited schools and the St. Jozef college in his hometown until 1880, studied also natural sciences, teacher at Leuven from 1888, at the same time studying at the university 1888-1892, ordination in 1895, produced a thesis on Penicillium (17 Jun 1908) which was only published by Prof. Biourge in 1923, visited Java, Ceylon, and British India 1901-1902, died 30 Oct 1937 in the college of Godinne. 
+**Abbreviated name**: *Dierckx*
 
 #### Herbarium and types
 

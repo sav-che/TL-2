@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/103860#page/537/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33266204) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cyge\[Cygowa\], Tekla (fl. 1930), Polish botanist at the University of Cracow. (*Cyge*).
+Cyge\[Cygowa\], Tekla (fl. 1930), Polish botanist at the University of Cracow. 
+**Abbreviated name**: *Cyge*
 
 #### Herbarium and types
 

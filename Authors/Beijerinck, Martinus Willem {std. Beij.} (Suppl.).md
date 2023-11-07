@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103859#page/64/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33265251) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beijerinck, Martinus Willem {std. Beij.}|first entry]] for this author
 
 ### Author
 
-\* Beijerinck, Martinus Willem (1851-1931), Dutch botanist (microbiologist), studied biological technology at the University of Delft 1869-1872, idem part time biology at the University of Leiden 1872-1877, Dr. phil. Leiden 1877 as student of F.W.R. Suringar, teacher at the Agricultural College at Warffum, id. at the Lyceum at Utrecht 1875, at the Wageningen Agricultural College 1876-1885, employed by the Dutch yeast and alcohol factory at Delft 1885-1895, professor of microbiology at the Delft Polytechnic 1895-1921, in retirement at Gorssel, Overijssel. (*Beij.*).
+\* Beijerinck, Martinus Willem (1851-1931), Dutch botanist (microbiologist), studied biological technology at the University of Delft 1869-1872, idem part time biology at the University of Leiden 1872-1877, Dr. phil. Leiden 1877 as student of F.W.R. Suringar, teacher at the Agricultural College at Warffum, id. at the Lyceum at Utrecht 1875, at the Wageningen Agricultural College 1876-1885, employed by the Dutch yeast and alcohol factory at Delft 1885-1895, professor of microbiology at the Delft Polytechnic 1895-1921, in retirement at Gorssel, Overijssel. 
+**Abbreviated name**: *Beij.*
 
 #### Herbarium and types
 

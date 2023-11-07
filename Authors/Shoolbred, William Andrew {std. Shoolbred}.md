@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/item/104077#page/582/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shoolbred, William Andrew (1852-1928), British surgeon and amateur botanist; house surgeon at St. Bartholomew's Hospital; from 1878 at Chepstow as practicing physician. (*Shoolbred*).
+Shoolbred, William Andrew (1852-1928), British surgeon and amateur botanist; house surgeon at St. Bartholomew's Hospital; from 1878 at Chepstow as practicing physician. 
+**Abbreviated name**: *Shoolbred*
 
 #### Herbarium and types
 

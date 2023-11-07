@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/item/103250#page/515/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33066795) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Woronin, Michael \[Stephanovitch\] (1838-1903), Russian botanist, and mycologist (phytopathologist); studied natural sciences at the University of St. Petersburg 1854-1858, at Heidelberg 1858-1859, at Freiburg i.Br. with A. de Bary 1859-1860; at Antibes with G.A. Thuret 1860; Mag. bot. St. Petersburg 1861; Dr. phil. h.c. Odessa 1874; private scientist working mainly at St. Petersburg from 1861; member of the Imp. Akad. Sci. St. Petersburg 1898; Foreign member Linn. Soc. 1895. (*Woronin*).
+Woronin, Michael \[Stephanovitch\] (1838-1903), Russian botanist, and mycologist (phytopathologist); studied natural sciences at the University of St. Petersburg 1854-1858, at Heidelberg 1858-1859, at Freiburg i.Br. with A. de Bary 1859-1860; at Antibes with G.A. Thuret 1860; Mag. bot. St. Petersburg 1861; Dr. phil. h.c. Odessa 1874; private scientist working mainly at St. Petersburg from 1861; member of the Imp. Akad. Sci. St. Petersburg 1898; Foreign member Linn. Soc. 1895. 
+**Abbreviated name**: *Woronin*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103861#page/251/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33266548) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burgsdorff, Friedrich August Ludwig von {std. Burgsd.}|first entry]] for this author
 
 ### Author
 
-\* Burgsdorff, Friedrich August Ludwig von (1747-1802), German forester, born in Leipzig, educated early in the french military service, subsequently educated in forestry and hunting at the Gotha court, travelled in Europe 1767-1770, teacher at a forestry school in Berlin 1770, administrator of the Forest inspection Tegel 1777, lecturer in forestry science in Berlin, from 1792 forestry superintendent of the Kurmark of Brandenburg, cultivated many exotic woody cultivars with seeds from North America. (*Burgsd.*).
+\* Burgsdorff, Friedrich August Ludwig von (1747-1802), German forester, born in Leipzig, educated early in the french military service, subsequently educated in forestry and hunting at the Gotha court, travelled in Europe 1767-1770, teacher at a forestry school in Berlin 1770, administrator of the Forest inspection Tegel 1777, lecturer in forestry science in Berlin, from 1792 forestry superintendent of the Kurmark of Brandenburg, cultivated many exotic woody cultivars with seeds from North America. 
+**Abbreviated name**: *Burgsd.*
 
 #### Herbarium and types
 

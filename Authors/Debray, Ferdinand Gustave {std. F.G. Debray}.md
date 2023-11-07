@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/103833#page/142/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33259176) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Debray, Ferdinand Gustave (1854-1900), French botanist and teacher, born at Amiens, Somme, died at Paris, studied algues in the North of France, moved to Alger 1882, as maître de conférences, later professor at the École des sciences d'Alger (*F.G. Debray*).
+Debray, Ferdinand Gustave (1854-1900), French botanist and teacher, born at Amiens, Somme, died at Paris, studied algues in the North of France, moved to Alger 1882, as maître de conférences, later professor at the École des sciences d'Alger 
+**Abbreviated name**: *F.G. Debray*
 
 #### Herbarium and types
 

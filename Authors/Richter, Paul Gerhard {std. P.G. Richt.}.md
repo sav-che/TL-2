@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/item/103624#page/794/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33190251) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Richter, Paul Gerhard (1837-1913), German (Saxonian) algologist; close associate of L. Rabenhorst; high school teacher at Leipzig 1861-1907; editor from 1879 of Rabenhorst's *Krypt.-Fl.* ed. 2. (*P.G. Richt.*).
+Richter, Paul Gerhard (1837-1913), German (Saxonian) algologist; close associate of L. Rabenhorst; high school teacher at Leipzig 1861-1907; editor from 1879 of Rabenhorst's *Krypt.-Fl.* ed. 2. 
+**Abbreviated name**: *P.G. Richt.*
 
 #### Herbarium and types
 

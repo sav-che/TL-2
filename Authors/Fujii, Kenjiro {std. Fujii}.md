@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103832#page/87/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33258553) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fujii, Kenjiro (1866-1952), Japanese botanist and cytologist, born 5 Oct 1866 in Kanazawa (prov. Kaga), B.Sc. ("Rigakushi"), also studied at Univ. of Munich 1903-1904, prof. of plant morphology and genetics, Tokyo Imperial Univ., 1903-ca. 1927, died 11 Jan 1952. (*Fujii*).
+Fujii, Kenjiro (1866-1952), Japanese botanist and cytologist, born 5 Oct 1866 in Kanazawa (prov. Kaga), B.Sc. ("Rigakushi"), also studied at Univ. of Munich 1903-1904, prof. of plant morphology and genetics, Tokyo Imperial Univ., 1903-ca. 1927, died 11 Jan 1952. 
+**Abbreviated name**: *Fujii*
 
 #### Herbarium and types
 

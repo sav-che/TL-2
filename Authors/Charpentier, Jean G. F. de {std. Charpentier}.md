@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/item/103414#page/534/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Charpentier, Jean G. F. de (1786-1855), German born Swiss geologist, conchologist and botanist, director of the mines of the canton Waadt (Vaud). (*Charpentier*).
+Charpentier, Jean G. F. de (1786-1855), German born Swiss geologist, conchologist and botanist, director of the mines of the canton Waadt (Vaud). 
+**Abbreviated name**: *Charpentier*
 
 #### Herbarium and types
 

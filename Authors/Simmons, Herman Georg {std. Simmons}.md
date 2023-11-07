@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/item/104077#page/620/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33333745) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simmons, Herman Georg (1866-1943), Swedish botanist; Dr. phil. and lecturer at Lund 1906; lecturer in botany and zoology at Ultuna agricultural college 1914-1933; professor's title 1917; travelled in Schleswig-Holstein 1893; Faroes 1895; botanist on the second Norwegian polar expedition on the Fram 1898-1902. (*Simmons*).
+Simmons, Herman Georg (1866-1943), Swedish botanist; Dr. phil. and lecturer at Lund 1906; lecturer in botany and zoology at Ultuna agricultural college 1914-1933; professor's title 1917; travelled in Schleswig-Holstein 1893; Faroes 1895; botanist on the second Norwegian polar expedition on the Fram 1898-1902. 
+**Abbreviated name**: *Simmons*
 
 #### Herbarium and types
 

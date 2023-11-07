@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/103858#page/285/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265000) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baines, Thomas (1823-1895), of Lancaster, British gardener, at first at Catteral House near Garstang (Lancs) and at Southgate House, London. (*Th. Baines, Lancs.*).
+Baines, Thomas (1823-1895), of Lancaster, British gardener, at first at Catteral House near Garstang (Lancs) and at Southgate House, London. 
+**Abbreviated name**: *Th. Baines, Lancs.*
 
 #### Herbarium and types
 

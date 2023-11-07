@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/item/103860#page/447/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33266114) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cox, Charles Finney (1846-1912), Treasurer of the New York Botanical Garden from 1899, had studied at the College of the City of New York and at Oberlin College, L.L.D. 1911. (*C.F. Cox*).
+Cox, Charles Finney (1846-1912), Treasurer of the New York Botanical Garden from 1899, had studied at the College of the City of New York and at Oberlin College, L.L.D. 1911. 
+**Abbreviated name**: *C.F. Cox*
 
 #### Herbarium and types
 

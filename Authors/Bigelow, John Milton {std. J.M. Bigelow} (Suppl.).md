@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103859#page/173/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33265360) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bigelow, John Milton {std. J.M. Bigelow}|first entry]] for this author
 
 ### Author
 
-\* Bigelow, John Milton (1804-1878), American surgeon and botanist, attended Medical College of Ohio, Cincinnati, graduated 1832, practising physician from 1832 e.g. in Lancaster, Ohio, surgeon to the Mexican Boundary Commission 1850, surgeon and botanist to the expedition of the Pacific Railroad Survey under Lieutenant A.W. Whipple (from Fort Smith, Arkansas to San Pedro, California 1853), collected further in California 1853, returned to eastern North America 1853 (c.q. 1854) and took up his practice in Lancaster, Ohio, removed to Detroit ca. 1860-1861 as professor of botany and pharmacy at Detroit Medical College, from 1868 surgeon to the Marine Hospital in Detroit. (*J.M. Bigelow*).
+\* Bigelow, John Milton (1804-1878), American surgeon and botanist, attended Medical College of Ohio, Cincinnati, graduated 1832, practising physician from 1832 e.g. in Lancaster, Ohio, surgeon to the Mexican Boundary Commission 1850, surgeon and botanist to the expedition of the Pacific Railroad Survey under Lieutenant A.W. Whipple (from Fort Smith, Arkansas to San Pedro, California 1853), collected further in California 1853, returned to eastern North America 1853 (c.q. 1854) and took up his practice in Lancaster, Ohio, removed to Detroit ca. 1860-1861 as professor of botany and pharmacy at Detroit Medical College, from 1868 surgeon to the Marine Hospital in Detroit. 
+**Abbreviated name**: *J.M. Bigelow*
 
 #### Herbarium and types
 

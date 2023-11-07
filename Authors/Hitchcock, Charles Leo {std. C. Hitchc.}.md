@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103253#page/242/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33068458) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hitchcock, Charles Leo (1902-x), American botanist in the Pacific Northwest. (*C. Hitchc.*).
+Hitchcock, Charles Leo (1902-x), American botanist in the Pacific Northwest. 
+**Abbreviated name**: *C. Hitchc.*
 
 #### Herbarium and types
 

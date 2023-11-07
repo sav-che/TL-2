@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/104077#page/305/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schönlein, Johann Lucas (1793-1864), German (Bavarian) physician and palaeobotanist; studied natural sciences and medicine at Landshut and Würzburg; Dr. med. 1816; lecturer in pathological anatomy at Würzburg 1817-1824, provisional head (1819), subs, head (1824) of the medical clinic of the Julius Hospital; regular professor of medicine 1824-1833, id. at Zürich (1833-1839) and Berlin 1839-1859; first physician in ordinary to the King of Prussia. (*J. Schönlein*).
+Schönlein, Johann Lucas (1793-1864), German (Bavarian) physician and palaeobotanist; studied natural sciences and medicine at Landshut and Würzburg; Dr. med. 1816; lecturer in pathological anatomy at Würzburg 1817-1824, provisional head (1819), subs, head (1824) of the medical clinic of the Julius Hospital; regular professor of medicine 1824-1833, id. at Zürich (1833-1839) and Berlin 1839-1859; first physician in ordinary to the King of Prussia. 
+**Abbreviated name**: *J. Schönlein*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/item/103414#page/651/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Day, Mary Anna {std. Day} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Day, Mary Anna (1852-1924), American botanist. (*Day*).
+Day, Mary Anna (1852-1924), American botanist. 
+**Abbreviated name**: *Day*
 
 #### Herbarium and types
 

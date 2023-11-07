@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/item/103414#page/353/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33120436) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandt, Johann Friedrich {std. Brandt} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brandt, Johann Friedrich \[von\] (1802-1879), German botanist, at St. Petersburgh from 1832 onward. (*Brandt*).
+Brandt, Johann Friedrich \[von\] (1802-1879), German botanist, at St. Petersburgh from 1832 onward. 
+**Abbreviated name**: *Brandt*
 
 #### Herbarium and types
 

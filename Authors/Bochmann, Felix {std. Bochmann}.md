@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103859#page/251/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33265438) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bochmann, Felix (fl. 1901), Swiss pharmacist, studied at the University of Bern, Dr. phil. ib. 1901. (*Bochmann*).
+Bochmann, Felix (fl. 1901), Swiss pharmacist, studied at the University of Bern, Dr. phil. ib. 1901. 
+**Abbreviated name**: *Bochmann*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/104077#page/317/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33333442) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schorler, Bernhard (1859-1920), German (Saxonian) botanist; studied in Jena and Leipzig; high school teacher in Dresden 1887; curator of the herbarium of the Sächsische Gartenbauschule, from 1898 at the herbarium and library of the Technische Hochschule, Dresden. (*Schorler*).
+Schorler, Bernhard (1859-1920), German (Saxonian) botanist; studied in Jena and Leipzig; high school teacher in Dresden 1887; curator of the herbarium of the Sächsische Gartenbauschule, from 1898 at the herbarium and library of the Technische Hochschule, Dresden. 
+**Abbreviated name**: *Schorler*
 
 #### Herbarium and types
 

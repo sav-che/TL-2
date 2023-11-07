@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/item/103253#page/273/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33068489) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoffstad, Olaf Alfred (1865-1943), Norwegian botanist; teacher at Trondhjem, Egersund, Haugesund and Roros; from 1892 at Sandefjord. (*Hoffstad*).
+Hoffstad, Olaf Alfred (1865-1943), Norwegian botanist; teacher at Trondhjem, Egersund, Haugesund and Roros; from 1892 at Sandefjord. 
+**Abbreviated name**: *Hoffstad*
 
 #### Herbarium and types
 

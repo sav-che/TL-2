@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/103624#page/214/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petit, Emil Charles Nicolai \[Nicolai Emil Charles\] (1817-1893), Danish botanist and physician; one of the founders of "Det Naturhistoriske Selskab" (later Botanisk Forening); schoolteacher from 1843-1848; military physician 1841-1852; practicing physician 1848-1852; id. in Fredensborg 1852-1873; living at Copenhagen from 1878. (*Petit, E.*).
+Petit, Emil Charles Nicolai \[Nicolai Emil Charles\] (1817-1893), Danish botanist and physician; one of the founders of "Det Naturhistoriske Selskab" (later Botanisk Forening); schoolteacher from 1843-1848; military physician 1841-1852; practicing physician 1848-1852; id. in Fredensborg 1852-1873; living at Copenhagen from 1878. 
+**Abbreviated name**: *Petit, E.*
 
 #### Herbarium and types
 

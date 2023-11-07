@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/item/103624#page/583/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramatuelle, Thomas Albin Joseph d'Audibert de (abbé) (1750-1794), French clergyman and botanist at Aix-en-Provence; died from falling off the roof of a prison during the French revolution. (*Ramat.*).
+Ramatuelle, Thomas Albin Joseph d'Audibert de (abbé) (1750-1794), French clergyman and botanist at Aix-en-Provence; died from falling off the roof of a prison during the French revolution. 
+**Abbreviated name**: *Ramat.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/item/104137#page/728/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33355799) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nees von Esenbeck, Theodor Friedrich Ludwig (1787-1837), German botanist; pharmaceutical assistant at Basel 1811-1816, at Hanau 1816-1817; inspector of the Leiden botanical garden 1817-1819; Dr. phil. Erlangen 1818; garden inspector and lecturer at Bonn University 1819; professor of pharmacy ib. (1822 extraord., 1827 ord.), co-director of the botanic garden 1833; brother of C. G. Nees von Esenbeck. (*T. Nees*).
+Nees von Esenbeck, Theodor Friedrich Ludwig (1787-1837), German botanist; pharmaceutical assistant at Basel 1811-1816, at Hanau 1816-1817; inspector of the Leiden botanical garden 1817-1819; Dr. phil. Erlangen 1818; garden inspector and lecturer at Bonn University 1819; professor of pharmacy ib. (1822 extraord., 1827 ord.), co-director of the botanic garden 1833; brother of C. G. Nees von Esenbeck. 
+**Abbreviated name**: *T. Nees*
 
 #### Herbarium and types
 

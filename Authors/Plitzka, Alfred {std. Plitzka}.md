@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/item/103624#page/311/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plitzka, Alfred (1861-?), Austrian-Silesian/Moravian botanist; high school teacher at Neutitschein (Nový Jicín) 1894-1903. (*Plitzka*).
+Plitzka, Alfred (1861-?), Austrian-Silesian/Moravian botanist; high school teacher at Neutitschein (Nový Jicín) 1894-1903. 
+**Abbreviated name**: *Plitzka*
 
 #### Herbarium and types
 

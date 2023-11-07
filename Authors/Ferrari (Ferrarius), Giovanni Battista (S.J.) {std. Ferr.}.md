@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/item/103834#page/182/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33259664) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferrari \[Ferrarius\], Giovanni Battista (S.J.) (1583-1655), Italian scholar, botanist and priest, born in Siena (then part of the Grand Duchy of Tuscany), baptized 2 Mai 1583, entered the Jesuit Order in Rome 1602, elected chair of Hebrew and rhetoric at the Jesuit College in Rome ca. 1623 and held the post for 28 years, also cultivated a close association with the collector and scholar Cassiano dal Pozzo (1588-1657) who facilitated his 1623 appointment as gardener and chief horticultural advisor to the Barberini family to which Pope Urban VIII (1568-1664) belonged, died 1 Feb 1655 in Siena. (*Ferr.*).
+Ferrari \[Ferrarius\], Giovanni Battista (S.J.) (1583-1655), Italian scholar, botanist and priest, born in Siena (then part of the Grand Duchy of Tuscany), baptized 2 Mai 1583, entered the Jesuit Order in Rome 1602, elected chair of Hebrew and rhetoric at the Jesuit College in Rome ca. 1623 and held the post for 28 years, also cultivated a close association with the collector and scholar Cassiano dal Pozzo (1588-1657) who facilitated his 1623 appointment as gardener and chief horticultural advisor to the Barberini family to which Pope Urban VIII (1568-1664) belonged, died 1 Feb 1655 in Siena. 
+**Abbreviated name**: *Ferr.*
 
 #### Herbarium and types
 

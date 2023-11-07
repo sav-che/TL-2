@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103861#page/263/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33266560) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Burman, Nicolaas Laurens {std. Burm. f.}|first entry]] for this author
 
 ### Author
 
-\* Burman, Nicolaas Laurens (1733-1793), Dutch botanist and physician, son of Johannes Burman, born in Amsterdam, studied botany with his father in Amsterdam, and medicine at the University of Leiden 1752-1759, travelled in Denmark and Sweden 1760 visiting Linnaeus at Uppsala, assisted his father at the Amsterdam Athenaeum illustre from 1761, succeeded him as full professor of botany in 1777, was an early user of the Linnaean binary nomenclature, had as well a regular medical practise from 1761, involved in the writing of the Pharmacopoea Amstelodamensis nova. (*Burm. f.*).
+\* Burman, Nicolaas Laurens (1733-1793), Dutch botanist and physician, son of Johannes Burman, born in Amsterdam, studied botany with his father in Amsterdam, and medicine at the University of Leiden 1752-1759, travelled in Denmark and Sweden 1760 visiting Linnaeus at Uppsala, assisted his father at the Amsterdam Athenaeum illustre from 1761, succeeded him as full professor of botany in 1777, was an early user of the Linnaean binary nomenclature, had as well a regular medical practise from 1761, involved in the writing of the Pharmacopoea Amstelodamensis nova. 
+**Abbreviated name**: *Burm. f.*
 
 #### Herbarium and types
 

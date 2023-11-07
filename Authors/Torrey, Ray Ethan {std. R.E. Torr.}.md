@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/item/103683#page/418/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33212450) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torrey, Ray Ethan (1887-1956), American botanist; B.S. Massachusetts Agricultural College \[later: Massachusetts State Coll. Amherst\] 1912, M.A. Harvard 1916; Dr. phil. ib., student of E.C. Jeffrey, 1918, assistant professor of biology at Grove City College, Pa., 1912-1915, instructor in botany, Wesleyan University 1918-1919; professor of botany at Massachusetts State Coll. \[later University of Massachusetts, Amherst\] 1919-1956. (*R.E. Torr.*).
+Torrey, Ray Ethan (1887-1956), American botanist; B.S. Massachusetts Agricultural College \[later: Massachusetts State Coll. Amherst\] 1912, M.A. Harvard 1916; Dr. phil. ib., student of E.C. Jeffrey, 1918, assistant professor of biology at Grove City College, Pa., 1912-1915, instructor in botany, Wesleyan University 1918-1919; professor of botany at Massachusetts State Coll. \[later University of Massachusetts, Amherst\] 1919-1956. 
+**Abbreviated name**: *R.E. Torr.*
 
 #### Herbarium and types
 

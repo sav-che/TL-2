@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103861#page/148/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33266445) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, Olof Theodor (1845-1893), Swedish telegraph operator in Göteborg and botanist. (*O.T. Br.*).
+Brown, Olof Theodor (1845-1893), Swedish telegraph operator in Göteborg and botanist. 
+**Abbreviated name**: *O.T. Br.*
 
 #### Herbarium and types
 

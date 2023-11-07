@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/item/103414#page/664/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Delile (also Raffeneau Delile), Alire {std. Delile} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Delile, Alire (Raffeneau) (1778-1850), French botanist and physician who accompanied Napoleon to Egypt and who travelled in North Carolina; professor of botany at Montpellier 1819-1850. (*Delile*).
+Delile, Alire (Raffeneau) (1778-1850), French botanist and physician who accompanied Napoleon to Egypt and who travelled in North Carolina; professor of botany at Montpellier 1819-1850. 
+**Abbreviated name**: *Delile*
 
 #### Herbarium and types
 

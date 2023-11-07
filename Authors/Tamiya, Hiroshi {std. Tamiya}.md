@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103683#page/166/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33212198) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tamiya, Hiroshi (1903-x), Japanese mycologist; studied at Tokyo University; plant physiologist at the Tokugawa Biological Research Institution. (*Tamiya*).
+Tamiya, Hiroshi (1903-x), Japanese mycologist; studied at Tokyo University; plant physiologist at the Tokugawa Biological Research Institution. 
+**Abbreviated name**: *Tamiya*
 
 #### Herbarium and types
 

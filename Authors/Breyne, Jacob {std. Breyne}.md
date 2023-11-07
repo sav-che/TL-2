@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103414#page/369/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33120452) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Breyne, Jacob (1637-1697), Danzig merchant and naturalist (also: Breyn, Breynius). (*Breyne*).
+Breyne, Jacob (1637-1697), Danzig merchant and naturalist (also: Breyn, Breynius). 
+**Abbreviated name**: *Breyne*
 
 #### Herbarium and types
 

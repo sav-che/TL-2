@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/104137#page/166/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33355237) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lojacono-Pojero, Michele (1853-1919), Italian botanist at Palermo. (*Lojac.*).
+Lojacono-Pojero, Michele (1853-1919), Italian botanist at Palermo. 
+**Abbreviated name**: *Lojac.*
 
 #### Herbarium and types
 

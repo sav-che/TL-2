@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103835#page/105/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33260083) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drew, Elmer Reginald (1865-1930), American physicist and botanist, born 17 Dec 1865 (Calif.), B.S. California Univ. 1880, Ph.D. Cornell 1903, instructor in physics California Univ. 1890-1902, assist. professor Stanford Univ. 1905-1923, assoc. professor 1923-1928, died 1930. (*Drew*).
+Drew, Elmer Reginald (1865-1930), American physicist and botanist, born 17 Dec 1865 (Calif.), B.S. California Univ. 1880, Ph.D. Cornell 1903, instructor in physics California Univ. 1890-1902, assist. professor Stanford Univ. 1905-1923, assoc. professor 1923-1928, died 1930. 
+**Abbreviated name**: *Drew*
 
 #### Herbarium and types
 

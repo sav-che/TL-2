@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/item/104137#page/375/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33355446) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Massee, George Edward (1850-1917), British mycologist at Kew (1893-1915); travelled in South America with Richard Spruce. (*Massee*).
+Massee, George Edward (1850-1917), British mycologist at Kew (1893-1915); travelled in South America with Richard Spruce. 
+**Abbreviated name**: *Massee*
 
 #### Herbarium and types
 

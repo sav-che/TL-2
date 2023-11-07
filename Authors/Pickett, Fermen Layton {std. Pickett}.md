@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/item/103624#page/269/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33189726) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pickett, Fermen Layton (1881-1940), American botanist; Dr. phil. Indiana Univ. 1914; at the Department of Botany at Washington State College from 1914, head of the Department from 1918, dean of the graduate school from 1930. (*Pickett*).
+Pickett, Fermen Layton (1881-1940), American botanist; Dr. phil. Indiana Univ. 1914; at the Department of Botany at Washington State College from 1914, head of the Department from 1918, dean of the graduate school from 1930. 
+**Abbreviated name**: *Pickett*
 
 #### Herbarium and types
 

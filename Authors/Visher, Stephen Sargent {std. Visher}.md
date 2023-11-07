@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/103683#page/764/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33212796) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Visher, Stephen Sargent (1887-1967), American geographer and botanist; B.S. Univ. Chicago 1909, Dr. phil. ib. 1914; instructor in geology Univ. South Dakota 1910-1913; professor of geography State College Moorhead, Minn. 1915-1917; assistant professor Indiana Univ. 1919-1922, associate professor 1922-1936, professor from 1936. (*Visher*).
+Visher, Stephen Sargent (1887-1967), American geographer and botanist; B.S. Univ. Chicago 1909, Dr. phil. ib. 1914; instructor in geology Univ. South Dakota 1910-1913; professor of geography State College Moorhead, Minn. 1915-1917; assistant professor Indiana Univ. 1919-1922, associate professor 1922-1936, professor from 1936. 
+**Abbreviated name**: *Visher*
 
 #### Herbarium and types
 

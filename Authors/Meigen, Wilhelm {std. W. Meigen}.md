@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/104137#page/417/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33355488) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meigen, Wilhelm (1826/7-x), German high school teacher and botanist at Wesel. (*W. Meigen*).
+Meigen, Wilhelm (1826/7-x), German high school teacher and botanist at Wesel. 
+**Abbreviated name**: *W. Meigen*
 
 #### Herbarium and types
 

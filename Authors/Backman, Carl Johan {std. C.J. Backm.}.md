@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/item/103858#page/255/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33264970) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Backman, Carl Johan (1822-1898), Swedish botanist and teacher, studied in Uppsala 1840-1845, Dr. phil. ib. 1845, teacher at a secondary school at Luleå 1855, rector ib. 1859-1884, "lektor" ib. 1884-1888. (*C.J. Backm.*).
+Backman, Carl Johan (1822-1898), Swedish botanist and teacher, studied in Uppsala 1840-1845, Dr. phil. ib. 1845, teacher at a secondary school at Luleå 1855, rector ib. 1859-1884, "lektor" ib. 1884-1888. 
+**Abbreviated name**: *C.J. Backm.*
 
 #### Herbarium and types
 

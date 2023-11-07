@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/item/103414#page/532/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33120615) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Champy, P. (*fl*. 1844), French author. (*Champy*).
+Champy, P. (*fl*. 1844), French author. 
+**Abbreviated name**: *Champy*
 
 #### Herbarium and types
 

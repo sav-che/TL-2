@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1058](https://www.biodiversitylibrary.org/item/103624#page/1072/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1058](https://www.biodiversitylibrary.org/page/33190529) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sahlén, Anders Johan (1822-1891), Swedish botanist; Dr. phil. Lund 1850; teacher at Vänersborg 1850-1854; id. at Lidköping 1855; adjunct (1856), later lecturer (1861) at the State high school of Skara. (*Sahlén*).
+Sahlén, Anders Johan (1822-1891), Swedish botanist; Dr. phil. Lund 1850; teacher at Vänersborg 1850-1854; id. at Lidköping 1855; adjunct (1856), later lecturer (1861) at the State high school of Skara. 
+**Abbreviated name**: *Sahlén*
 
 #### Herbarium and types
 

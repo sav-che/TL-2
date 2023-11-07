@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/item/103624#page/796/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33190253) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rickett, Harold William (1896-x), English-born American botanist; emigrated to the United States 1910; studied at Harvard Univ. 1913-1915 and Univ. of Wisconsin (Dr. phil. 1922); in France in World War I 1917-1918; instructor at Univ. Wisconsin 1922-1924; asst. professor of botany at Univ. of Missouri 1924-1928; assoc. professor 1928-1939 ; visiting lecturer Reed College 1937-1938; bibliographer at the New York Botanical Garden 1939-1964 (succeeding J.H. Barnhart in 1942), writing *Wild flowers of the United States* 1964-1973; in retirement at Carmel, California 1973-x. (*Rickett*).
+Rickett, Harold William (1896-x), English-born American botanist; emigrated to the United States 1910; studied at Harvard Univ. 1913-1915 and Univ. of Wisconsin (Dr. phil. 1922); in France in World War I 1917-1918; instructor at Univ. Wisconsin 1922-1924; asst. professor of botany at Univ. of Missouri 1924-1928; assoc. professor 1928-1939 ; visiting lecturer Reed College 1937-1938; bibliographer at the New York Botanical Garden 1939-1964 (succeeding J.H. Barnhart in 1942), writing *Wild flowers of the United States* 1964-1973; in retirement at Carmel, California 1973-x. 
+**Abbreviated name**: *Rickett*
 
 #### Herbarium and types
 

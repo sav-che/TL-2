@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/item/103860#page/274/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Colebrooke, Henry Thomas {std. Colebr.}|first entry]] for this author
 
 ### Author
 
-\* Colebrook \[Colebrooke\], Henry Thomas (1765-1837), British colonial magistrate, Sanskrit scholar and amateur botanist, born at London, in India 1783-1815, chief judge in Bengal, president of the Asiatic Society of Bengal, stood in cooperation with W. Roxburgh, W.J. Hooker and A.B. Lambert, died in London. (*Colebr.*).
+\* Colebrook \[Colebrooke\], Henry Thomas (1765-1837), British colonial magistrate, Sanskrit scholar and amateur botanist, born at London, in India 1783-1815, chief judge in Bengal, president of the Asiatic Society of Bengal, stood in cooperation with W. Roxburgh, W.J. Hooker and A.B. Lambert, died in London. 
+**Abbreviated name**: *Colebr.*
 
 #### Herbarium and types
 

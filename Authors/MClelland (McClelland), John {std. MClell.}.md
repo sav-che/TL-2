@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/104137#page/230/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33355301) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-M'Clelland \[McClelland\], John (1805-1883), British physician and zoologist in the Bengal Medical Service (1846-1865), also superintendent of the Calcutta gardens. (*M'Clell.*).
+M'Clelland \[McClelland\], John (1805-1883), British physician and zoologist in the Bengal Medical Service (1846-1865), also superintendent of the Calcutta gardens. 
+**Abbreviated name**: *M'Clell.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103253#page/410/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Incarville, Pierre Nicolas le Chéron, called d'Incarville (1706-1757), French Jesuit, teacher at Québec 1730-1739, missionary at Peking 1740-1757, botanist and sinologist. (*Incarv.*).
+Incarville, Pierre Nicolas le Chéron, called d'Incarville (1706-1757), French Jesuit, teacher at Québec 1730-1739, missionary at Peking 1740-1757, botanist and sinologist. 
+**Abbreviated name**: *Incarv.*
 
 #### Herbarium and types
 

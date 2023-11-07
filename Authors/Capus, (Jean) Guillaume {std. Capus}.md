@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/item/103861#page/407/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33266704) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Capus, \[Jean\] Guillaume (1857-1931), Luxembourg \[in Esch\] born botanist, studied at the Faculté des Sciences de Paris, Dr. sci. nat. 26 Jul 1879, attaché au Laboratoire de culture du Muséum d'Histoire naturelle, directeur générale de l'Agriculture en Indochina, travelled and collected widely in central Asia 1880-1887, from 1897-1907 at the Direction de l'Agriculture in Saigon, Indo-Chine, from 1907 professor at the colonial school at Nogent, died Boulognesur- Seine 1931. (*Capus*).
+Capus, \[Jean\] Guillaume (1857-1931), Luxembourg \[in Esch\] born botanist, studied at the Faculté des Sciences de Paris, Dr. sci. nat. 26 Jul 1879, attaché au Laboratoire de culture du Muséum d'Histoire naturelle, directeur générale de l'Agriculture en Indochina, travelled and collected widely in central Asia 1880-1887, from 1897-1907 at the Direction de l'Agriculture in Saigon, Indo-Chine, from 1907 professor at the colonial school at Nogent, died Boulognesur- Seine 1931. 
+**Abbreviated name**: *Capus*
 
 #### Herbarium and types
 

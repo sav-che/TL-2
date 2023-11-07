@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103861#page/174/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33266471) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunner, Carl (of Hamburg) (1874-?), German (Hamburg born) botanist. (*C. Brunner, Hamb.*).
+Brunner, Carl (of Hamburg) (1874-?), German (Hamburg born) botanist. 
+**Abbreviated name**: *C. Brunner, Hamb.*
 
 #### Herbarium and types
 

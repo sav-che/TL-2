@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/104137#page/386/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33355457) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mattei, Giovanni Ettore (1865-1943), Italian botanist, from 1884-1901 at the Bologna Istituto botanica; from 1901-1905 at Napoli; from 1905-1914 at Palermo; 1914-1925 at Firenze; 1925-1935 at Messina (*Mattei*).
+Mattei, Giovanni Ettore (1865-1943), Italian botanist, from 1884-1901 at the Bologna Istituto botanica; from 1901-1905 at Napoli; from 1905-1914 at Palermo; 1914-1925 at Firenze; 1925-1935 at Messina 
+**Abbreviated name**: *Mattei*
 
 #### Herbarium and types
 

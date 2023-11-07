@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103835#page/225/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duval, Henri Auguste {std. Duval}|first entry]] for this author
 
 ### Author
 
-\* Duval, Henri Auguste (1777-1814), French physician and botanist, born 28 Apr 1777 at Alençon (Orne), died 16 Mar 1814 at Paris. (*Duval*).
+\* Duval, Henri Auguste (1777-1814), French physician and botanist, born 28 Apr 1777 at Alençon (Orne), died 16 Mar 1814 at Paris. 
+**Abbreviated name**: *Duval*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/item/104077#page/749/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33333874) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soltwedel, Friedrich \[Wilhelm Otto\] (1858-1890), German (Grünhagen, Hannover) botanist and sugar-technologist; went to the Dutch East Indies 1884; chemist with the Kali Woengoe sugar factory at Semarang, Java; with the sugar cane experiment garden at Semarang 1885; director of the Central Java Sugar Experiment Station at Semarang 1886-1890. (*Soltwedel*).
+Soltwedel, Friedrich \[Wilhelm Otto\] (1858-1890), German (Grünhagen, Hannover) botanist and sugar-technologist; went to the Dutch East Indies 1884; chemist with the Kali Woengoe sugar factory at Semarang, Java; with the sugar cane experiment garden at Semarang 1885; director of the Central Java Sugar Experiment Station at Semarang 1886-1890. 
+**Abbreviated name**: *Soltwedel*
 
 #### Herbarium and types
 

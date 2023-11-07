@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/item/104137#page/252/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33355323) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McVaugh, Rogers (1909-x), American botanist and botanical historian; at the Bureau of Plant Industry 1938-1946; from 1938 at the University of Michigan, ultimately as H. H. Bartlett professor of botany; president of I. A. P. T. 1970-1975. (*Mc Vaugh*).
+McVaugh, Rogers (1909-x), American botanist and botanical historian; at the Bureau of Plant Industry 1938-1946; from 1938 at the University of Michigan, ultimately as H. H. Bartlett professor of botany; president of I. A. P. T. 1970-1975. 
+**Abbreviated name**: *Mc Vaugh*
 
 #### Herbarium and types
 

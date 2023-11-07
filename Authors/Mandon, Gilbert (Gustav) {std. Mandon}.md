@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/item/104137#page/289/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33355360) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mandon, Gilbert ("Gustav") (1799-1866), French administrator and traveller; plant collector in Bolivia, Madeira and the Canary Islands. (*Mandon*).
+Mandon, Gilbert ("Gustav") (1799-1866), French administrator and traveller; plant collector in Bolivia, Madeira and the Canary Islands. 
+**Abbreviated name**: *Mandon*
 
 #### Herbarium and types
 

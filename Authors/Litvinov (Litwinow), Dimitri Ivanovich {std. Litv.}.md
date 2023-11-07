@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/104137#page/137/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Litvinov \[Litwinow\], Dimitri Ivanovich (1854-1929), Russian botanist and explorer of central Asia. (*Litv.*).
+Litvinov \[Litwinow\], Dimitri Ivanovich (1854-1929), Russian botanist and explorer of central Asia. 
+**Abbreviated name**: *Litv.*
 
 #### Herbarium and types
 

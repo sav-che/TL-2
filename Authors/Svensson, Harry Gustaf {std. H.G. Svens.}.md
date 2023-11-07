@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/item/103683#page/120/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33212152) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Svensson, Harry Gustaf (1894-1959), Swedish botanist; Dr. phil. Uppsala 1925; lecturer at the University of Uppsala 1925-1932; high school teacher at Karlstad 1932-1943; at Uppsala from 1944. (*H.G. Svens.*).
+Svensson, Harry Gustaf (1894-1959), Swedish botanist; Dr. phil. Uppsala 1925; lecturer at the University of Uppsala 1925-1932; high school teacher at Karlstad 1932-1943; at Uppsala from 1944. 
+**Abbreviated name**: *H.G. Svens.*
 
 #### Herbarium and types
 

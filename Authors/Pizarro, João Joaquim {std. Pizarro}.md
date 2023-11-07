@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103624#page/297/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33189754) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pizarro, João Joaquim (*fl*. 1872-1887), Brazilian physician and botanist; Dr. med. Rio de Janeiro 1872; later professor of natural history at the Rio de Janeiro medical faculty. (*Pizarro*).
+Pizarro, João Joaquim (*fl*. 1872-1887), Brazilian physician and botanist; Dr. med. Rio de Janeiro 1872; later professor of natural history at the Rio de Janeiro medical faculty. 
+**Abbreviated name**: *Pizarro*
 
 #### Herbarium and types
 

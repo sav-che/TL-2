@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103832#page/406/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33258872) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grignon, Eugène (1858-x), French pharmacist, born 9 Dec 1858 in Courseulles-sur-Mer (Calvados). (*E. Grignon*).
+Grignon, Eugène (1858-x), French pharmacist, born 9 Dec 1858 in Courseulles-sur-Mer (Calvados). 
+**Abbreviated name**: *E. Grignon*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103858#page/335/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265050) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barcianu, Daniel Popoviciú (1847-?), Roumanian (Transylvanian) botanist, educated at the German Gymnasium Hermannstadt \[Sibiu\], dipl. 1866; at the Greek-oriental theological and paedagogical seminar ib. 1866-1869; teacher at Resinari 1869-1870; studied at the University of Vienna natural sciences and philosophy 1870, continued his studies in Bonn 1871, id., at the University of Leipzig 1872-1874, Dr. phil. Leipzig 1874. (*Barcianu*).
+Barcianu, Daniel Popoviciú (1847-?), Roumanian (Transylvanian) botanist, educated at the German Gymnasium Hermannstadt \[Sibiu\], dipl. 1866; at the Greek-oriental theological and paedagogical seminar ib. 1866-1869; teacher at Resinari 1869-1870; studied at the University of Vienna natural sciences and philosophy 1870, continued his studies in Bonn 1871, id., at the University of Leipzig 1872-1874, Dr. phil. Leipzig 1874. 
+**Abbreviated name**: *Barcianu*
 
 #### Herbarium and types
 

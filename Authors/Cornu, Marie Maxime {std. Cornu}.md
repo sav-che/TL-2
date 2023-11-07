@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/item/103414#page/598/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33120681) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cornu, (Marie) Maxime {std. Cornu} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cornu, Marie Maxime (1843-1901), French cryptogamist. (*Cornu*).
+Cornu, Marie Maxime (1843-1901), French cryptogamist. 
+**Abbreviated name**: *Cornu*
 
 #### Herbarium and types
 

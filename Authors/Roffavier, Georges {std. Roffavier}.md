@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/item/103624#page/870/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33190327) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roffavier, Georges (1775-1866), French merchant and botanist at Lyon, collaborator of J.B. Balbis and co-founder of the Société Linnéenne de Lyon (1822); student of Gilibert. (*Roffavier*).
+Roffavier, Georges (1775-1866), French merchant and botanist at Lyon, collaborator of J.B. Balbis and co-founder of the Société Linnéenne de Lyon (1822); student of Gilibert. 
+**Abbreviated name**: *Roffavier*
 
 #### Herbarium and types
 

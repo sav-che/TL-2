@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/item/103624#page/1058/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/page/33190515) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sacleux, Charles (1856-1943), French missionary, linguist and plant collector in Zanzibar and adjoining East Africa 1879-1898; from then on teacher at a missionary college at Chevilly and working at the Museum d'Histoire naturelle, Paris; ordained 1878. (*Sacleux*).
+Sacleux, Charles (1856-1943), French missionary, linguist and plant collector in Zanzibar and adjoining East Africa 1879-1898; from then on teacher at a missionary college at Chevilly and working at the Museum d'Histoire naturelle, Paris; ordained 1878. 
+**Abbreviated name**: *Sacleux*
 
 #### Herbarium and types
 

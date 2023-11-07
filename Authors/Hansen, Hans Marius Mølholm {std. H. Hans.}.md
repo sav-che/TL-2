@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103253#page/73/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hansen, Hans Marius Mølholm (1899-1960), Danish lichenologist and plant geographer at Copenhagen. (*H. Hans.*).
+Hansen, Hans Marius Mølholm (1899-1960), Danish lichenologist and plant geographer at Copenhagen. 
+**Abbreviated name**: *H. Hans.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/104137#page/304/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33355375) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marchal, Émile Jules Joseph (1871-1954), Belgian botanist, working in various capacities at the Institut agronomique de la Station de Phytopathologie de l'État at Gembloux; son of Él. Marchai. (*Ém. Marchal*).
+Marchal, Émile Jules Joseph (1871-1954), Belgian botanist, working in various capacities at the Institut agronomique de la Station de Phytopathologie de l'État at Gembloux; son of Él. Marchai. 
+**Abbreviated name**: *Ém. Marchal*
 
 #### Herbarium and types
 

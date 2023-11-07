@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/item/103414#page/900/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33120983) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forbes, Edward {std. E. Forbes} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Forbes, Edward (1815-1854), British naturalist from the Isle of Man. (*E. Forbes*).
+Forbes, Edward (1815-1854), British naturalist from the Isle of Man. 
+**Abbreviated name**: *E. Forbes*
 
 #### Herbarium and types
 

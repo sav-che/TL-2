@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/item/103858#page/401/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33265116) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baumgartner, \[Hofrat\] Julius (1870-1955), Austrian botanist (bryologist) and revenue-officer at the Austrian state finance department in Vienna, ultimately "Oberfinanzrat" 1919 and "wirklicher Hofrat" 1925, connected with the University of Vienna and the Natural History Museum ib., specialized in the bryology of the Balkan peninsula. (*J. Baumg.*).
+Baumgartner, \[Hofrat\] Julius (1870-1955), Austrian botanist (bryologist) and revenue-officer at the Austrian state finance department in Vienna, ultimately "Oberfinanzrat" 1919 and "wirklicher Hofrat" 1925, connected with the University of Vienna and the Natural History Museum ib., specialized in the bryology of the Balkan peninsula. 
+**Abbreviated name**: *J. Baumg.*
 
 #### Herbarium and types
 

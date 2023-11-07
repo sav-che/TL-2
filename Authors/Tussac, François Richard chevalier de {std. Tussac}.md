@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/item/103683#page/564/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33212596) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tussac, François Richard chevalier de (1751-1837), French colonial botanist; at Martinique 1786, subsequently in Haiti until 1802, at Jamaica 1802; returned to France late 1802, director of the Jardin botanique, Angers, while resident in Paris. (*Tussac*).
+Tussac, François Richard chevalier de (1751-1837), French colonial botanist; at Martinique 1786, subsequently in Haiti until 1802, at Jamaica 1802; returned to France late 1802, director of the Jardin botanique, Angers, while resident in Paris. 
+**Abbreviated name**: *Tussac*
 
 #### Herbarium and types
 

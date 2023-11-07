@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/item/103253#page/608/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33068824) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Knowles, George Beauchamp (*fl*. 1829-1852), British surgeon and botanist at the Brimingham School of Medicine. (*G. Knowles*).
+Knowles, George Beauchamp (*fl*. 1829-1852), British surgeon and botanist at the Brimingham School of Medicine. 
+**Abbreviated name**: *G. Knowles*
 
 #### Herbarium and types
 

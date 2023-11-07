@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103414#page/522/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33120605) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cavara, Fridiano {std. Cavara} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cavara, Fridiano (1857-1929), Italian mycologist, director of the Napoli botanical garden. (*Cavara*).
+Cavara, Fridiano (1857-1929), Italian mycologist, director of the Napoli botanical garden. 
+**Abbreviated name**: *Cavara*
 
 #### Herbarium and types
 

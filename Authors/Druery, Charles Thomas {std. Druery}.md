@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103835#page/126/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33260104) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Druery, Charles Thomas (1843-1917), British pteridologist, born 25 Mai 1843, died Acton (Middx.) 8 Aug 1917, president and secretary of the British Pteridological Society, editor of the British Fern Gazette, Druery discovered apospory. (*Druery*).
+Druery, Charles Thomas (1843-1917), British pteridologist, born 25 Mai 1843, died Acton (Middx.) 8 Aug 1917, president and secretary of the British Pteridological Society, editor of the British Fern Gazette, Druery discovered apospory. 
+**Abbreviated name**: *Druery*
 
 #### Herbarium and types
 

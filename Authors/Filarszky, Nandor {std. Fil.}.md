@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/item/103414#page/878/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33120961) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Filarszky, Nándor (a.k.a. Ferdinand) {std. Fil.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Filarszky, Nandor (1858-1941), Hungarian algologist. (*Filarszky*).
+Filarszky, Nandor (1858-1941), Hungarian algologist. 
+**Abbreviated name**: *Filarszky*
 
 #### Herbarium and types
 

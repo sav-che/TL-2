@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/item/103683#page/443/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33212475) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tranzschel \[Transhel\], Woldemar \[Andrejevich\] (1868-1942), Russian botanist; assistant Forestry Institute St. Petersburg; assistant for syst. bot. at the University of Warsaw 1898; curator at the department of cryptogams of the St. Petersburg Botanical Museum 1900, professor at the Institute for applied Zoology and Phytopathology, Leningrad. (*Tranzschel*).
+Tranzschel \[Transhel\], Woldemar \[Andrejevich\] (1868-1942), Russian botanist; assistant Forestry Institute St. Petersburg; assistant for syst. bot. at the University of Warsaw 1898; curator at the department of cryptogams of the St. Petersburg Botanical Museum 1900, professor at the Institute for applied Zoology and Phytopathology, Leningrad. 
+**Abbreviated name**: *Tranzschel*
 
 #### Herbarium and types
 

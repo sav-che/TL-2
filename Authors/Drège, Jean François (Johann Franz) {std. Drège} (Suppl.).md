@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103835#page/101/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33260079) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Drège, Jean François (Johann Franz) {std. Drège}|first entry]] for this author
 
 ### Author
 
-\* Drège, Jean François (Johann Franz) (1794-1881), German botanist, born 25 Mar 1794 in Altona near Hamburg, received a horticultural training in Göttingen, was employed in several botanic gardens such as Munich, Riga, Berlin, and St. Petersburg, went to South Africa 1826 where he collected plants with his brother for many years, returned to Germany, died in Altona 3 Feb 1881. (*Drège*).
+\* Drège, Jean François (Johann Franz) (1794-1881), German botanist, born 25 Mar 1794 in Altona near Hamburg, received a horticultural training in Göttingen, was employed in several botanic gardens such as Munich, Riga, Berlin, and St. Petersburg, went to South Africa 1826 where he collected plants with his brother for many years, returned to Germany, died in Altona 3 Feb 1881. 
+**Abbreviated name**: *Drège*
 
 #### Herbarium and types
 

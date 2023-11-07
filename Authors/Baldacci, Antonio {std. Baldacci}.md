@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/item/103414#page/157/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33120240) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Baldacci, Antonio {std. Baldacci} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Baldacci, Antonio (1867-1950), Italian botanist, collected on the Balcan and in Greece. (*Baldacci*).
+Baldacci, Antonio (1867-1950), Italian botanist, collected on the Balcan and in Greece. 
+**Abbreviated name**: *Baldacci*
 
 #### Herbarium and types
 

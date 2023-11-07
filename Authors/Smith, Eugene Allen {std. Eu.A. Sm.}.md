@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/item/104077#page/684/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33333809) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Eugene Allen (1841-1927), American geologist and plant collector; A.B. Univ. Alabama 1862; at Berlin, Göttingen and Heidelberg 1865-1868; Dr. phil. Heidelberg 1868; LL.D. Univ. Mississipi 1899; with the Alabama Geological Survey 1868-1871; professor of mineralogy and geology Univ. Alabama from 1871; State geologist of Alabama from 1873. (*Eu.A. Sm.*).
+Smith, Eugene Allen (1841-1927), American geologist and plant collector; A.B. Univ. Alabama 1862; at Berlin, Göttingen and Heidelberg 1865-1868; Dr. phil. Heidelberg 1868; LL.D. Univ. Mississipi 1899; with the Alabama Geological Survey 1868-1871; professor of mineralogy and geology Univ. Alabama from 1871; State geologist of Alabama from 1873. 
+**Abbreviated name**: *Eu.A. Sm.*
 
 #### Herbarium and types
 

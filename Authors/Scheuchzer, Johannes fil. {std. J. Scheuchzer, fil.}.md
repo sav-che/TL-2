@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/104077#page/157/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33333282) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheuchzer, Johannes fil. (1738-1815), Swiss botanist at Zürich; son of Joh. Scheuchzer (1684-1738); Dr. med. Leiden 1760; private scientist at Zürich from 1760; for some time assistant librarian at the municipal library, head-librarian 1789-1795. (*J. Scheuchzer, fil.*).
+Scheuchzer, Johannes fil. (1738-1815), Swiss botanist at Zürich; son of Joh. Scheuchzer (1684-1738); Dr. med. Leiden 1760; private scientist at Zürich from 1760; for some time assistant librarian at the municipal library, head-librarian 1789-1795. 
+**Abbreviated name**: *J. Scheuchzer, fil.*
 
 #### Herbarium and types
 

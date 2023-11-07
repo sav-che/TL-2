@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/item/104137#page/851/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33355922) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Olsson, Peter (1833-1906), Swedish botanist of Värmland, Dr. phil. Uppsala 1866; high school teacher at Norrköping 1864-1902. (*P. Olsson, Värml.*).
+Olsson, Peter (1833-1906), Swedish botanist of Värmland, Dr. phil. Uppsala 1866; high school teacher at Norrköping 1864-1902. 
+**Abbreviated name**: *P. Olsson, Värml.*
 
 #### Herbarium and types
 

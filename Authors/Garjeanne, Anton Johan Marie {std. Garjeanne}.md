@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103832#page/140/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33258606) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Garjeanne, Anton Johan Marie (1875-1965), Dutch botanist (bryologist and taxonomist), born 22 Nov 1875 in Delft, Ph.D. 1901 Erlangen, Germany, died 29 Jun 1965 in Groesbeeck. (*Garjeanne*).
+Garjeanne, Anton Johan Marie (1875-1965), Dutch botanist (bryologist and taxonomist), born 22 Nov 1875 in Delft, Ph.D. 1901 Erlangen, Germany, died 29 Jun 1965 in Groesbeeck. 
+**Abbreviated name**: *Garjeanne*
 
 #### Herbarium and types
 

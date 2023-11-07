@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/item/104137#page/520/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33355591) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Milne-Edwards, Alphonse (1835-1900), French-born (English parents) palaeontologist, especially palaeo-ornithologist; Dr. med. Paris 1860; Dr. sci. id. 1861; aide-naturaliste Muséum 1862-1865; professor at the Paris School of Pharmacy 1865-1895; from 1876 in various functions again at the Muséum d'Histoire naturelle, Paris, director 1891-1900. (*Milne-Edw.*).
+Milne-Edwards, Alphonse (1835-1900), French-born (English parents) palaeontologist, especially palaeo-ornithologist; Dr. med. Paris 1860; Dr. sci. id. 1861; aide-naturaliste Muséum 1862-1865; professor at the Paris School of Pharmacy 1865-1895; from 1876 in various functions again at the Muséum d'Histoire naturelle, Paris, director 1891-1900. 
+**Abbreviated name**: *Milne-Edw.*
 
 #### Herbarium and types
 

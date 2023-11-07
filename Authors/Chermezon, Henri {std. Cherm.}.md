@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/item/103860#page/92/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265759) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chermezon, Henri (1885-1939), French botanist, born in Paris, studied at the Lycée Buffon, "boursier préparateur" in botany at the \[Paris\] Sorbonne, 1906, Chef des travaux on botany in the Faculty of Sciences at the University of Strasbourg 1919, maître de conférence ib. 1926, professor "sans chaire" 1929, titular chair 1935, director of the Institute of Botany and the Jardin Botanique 1936, died 15 Jan 1939 in Strasbourg. (*Cherm.*).
+Chermezon, Henri (1885-1939), French botanist, born in Paris, studied at the Lycée Buffon, "boursier préparateur" in botany at the \[Paris\] Sorbonne, 1906, Chef des travaux on botany in the Faculty of Sciences at the University of Strasbourg 1919, maître de conférence ib. 1926, professor "sans chaire" 1929, titular chair 1935, director of the Institute of Botany and the Jardin Botanique 1936, died 15 Jan 1939 in Strasbourg. 
+**Abbreviated name**: *Cherm.*
 
 #### Herbarium and types
 

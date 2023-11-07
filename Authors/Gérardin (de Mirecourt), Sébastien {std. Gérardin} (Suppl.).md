@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/item/103832#page/200/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33258666) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gérardin de Mirecourt, Sébastien {std. Gérardin}|first entry]] for this author
 
 ### Author
 
-Gérardin (de Mirecourt), Sébastien (1751-1816), French naturalist, born 9 Mar 1751 in Mirecourt (Vosges), prof. of natural history, École centrale des Vosges, attached to the Muséum natl. d'Histoire naturelle, Paris 1803, died 17 Jul 1816 in Paris. (*Gérardin*).
+Gérardin (de Mirecourt), Sébastien (1751-1816), French naturalist, born 9 Mar 1751 in Mirecourt (Vosges), prof. of natural history, École centrale des Vosges, attached to the Muséum natl. d'Histoire naturelle, Paris 1803, died 17 Jul 1816 in Paris. 
+**Abbreviated name**: *Gérardin*
 
 #### Herbarium and types
 

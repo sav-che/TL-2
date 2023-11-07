@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/item/103414#page/769/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33120852) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebel, Paul Wilhelm Sositheus Eugen (1815-1884), German botanist, lecturer at Königsberg, later land-owner in Württemberg. (*Ebel*).
+Ebel, Paul Wilhelm Sositheus Eugen (1815-1884), German botanist, lecturer at Königsberg, later land-owner in Württemberg. 
+**Abbreviated name**: *Ebel*
 
 #### Herbarium and types
 

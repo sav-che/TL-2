@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/item/103860#page/313/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33265980) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conners, Ibra Lockwood (1894-x), Canadian botanist and plant pathologist, B.A. 1918, University of Toronto M.A. 1920, first plant pathologist Dominian field laboratories in Manitoba 1920-1929 (except Jan 1922-Jul 1923, at Univ. Minnesota, cand. for Ph.D.), from 1929 at the Botany and Plant Pathology Division, science service, Ottawa, Ontaria (Central Farm). (*Conners*).
+Conners, Ibra Lockwood (1894-x), Canadian botanist and plant pathologist, B.A. 1918, University of Toronto M.A. 1920, first plant pathologist Dominian field laboratories in Manitoba 1920-1929 (except Jan 1922-Jul 1923, at Univ. Minnesota, cand. for Ph.D.), from 1929 at the Botany and Plant Pathology Division, science service, Ottawa, Ontaria (Central Farm). 
+**Abbreviated name**: *Conners*
 
 #### Herbarium and types
 

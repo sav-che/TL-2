@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/item/104137#page/671/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33355742) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Münter, Johann Andreas Heinrich August Julius (1815-1885), German botanist; Dr. med. Berlin 1841; physician at the Charité, Berlin 1845-1848; habil. Berlin 1848; from 1849 (extra ord.), 1851 (ordinary); later professor of botany and zoology at Greifswald; Geh. Regierungsrath 1884; published mainly on plant physiology (*Münter*).
+Münter, Johann Andreas Heinrich August Julius (1815-1885), German botanist; Dr. med. Berlin 1841; physician at the Charité, Berlin 1845-1848; habil. Berlin 1848; from 1849 (extra ord.), 1851 (ordinary); later professor of botany and zoology at Greifswald; Geh. Regierungsrath 1884; published mainly on plant physiology 
+**Abbreviated name**: *Münter*
 
 #### Herbarium and types
 

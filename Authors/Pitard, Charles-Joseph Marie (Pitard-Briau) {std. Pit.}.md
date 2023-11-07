@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/item/103624#page/291/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33189748) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pitard, Charles-Joseph Marie (Pitard-Briau) (1873-1927), French botanist; Dr. sci. nat. Bordeaux 1899, pharmacien supérieur 1901; from 1897-1902 at the Faculté des Sciences, Bordeaux; from 1902 curator, from 1904 professor of natural sciences at the École de médecine, Tours; travelled in the Canary Islands (1904/05, 1905/06) and North Africa. (*Pit.*).
+Pitard, Charles-Joseph Marie (Pitard-Briau) (1873-1927), French botanist; Dr. sci. nat. Bordeaux 1899, pharmacien supérieur 1901; from 1897-1902 at the Faculté des Sciences, Bordeaux; from 1902 curator, from 1904 professor of natural sciences at the École de médecine, Tours; travelled in the Canary Islands (1904/05, 1905/06) and North Africa. 
+**Abbreviated name**: *Pit.*
 
 #### Herbarium and types
 

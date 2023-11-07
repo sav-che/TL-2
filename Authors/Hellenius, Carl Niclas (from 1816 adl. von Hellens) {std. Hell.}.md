@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103253#page/171/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33068387) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hellenius, Carl Niclas (from 1816 adl. von Hellens) (1745-1820), Finnish botanist, professor of economics and natural history at Åbo 1793-1816. (*Hell.*).
+Hellenius, Carl Niclas (from 1816 adl. von Hellens) (1745-1820), Finnish botanist, professor of economics and natural history at Åbo 1793-1816. 
+**Abbreviated name**: *Hell.*
 
 #### Herbarium and types
 

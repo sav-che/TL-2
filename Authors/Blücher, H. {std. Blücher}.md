@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103859#page/235/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33265422) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blücher, H. (fl. 1899-1909), German author of popular text and plates of plants and especially fungi. (*Blücher*).
+Blücher, H. (fl. 1899-1909), German author of popular text and plates of plants and especially fungi. 
+**Abbreviated name**: *Blücher*
 
 #### Herbarium and types
 

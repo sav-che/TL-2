@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/103414#page/659/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33120742) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-De la Pylaie, Auguste Jean Marie Bachelot (1786-1856), French bryologist, phycologist and archeologist. (*Pylaie*).
+De la Pylaie, Auguste Jean Marie Bachelot (1786-1856), French bryologist, phycologist and archeologist. 
+**Abbreviated name**: *Pylaie*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103833#page/263/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deventer, Wilhelmina Frederike von (fl. 1930), Dutch botanist at Utrecht, working under F.A.F.C. Went and Johanna Westerdijk. (*Deventer*).
+Deventer, Wilhelmina Frederike von (fl. 1930), Dutch botanist at Utrecht, working under F.A.F.C. Went and Johanna Westerdijk. 
+**Abbreviated name**: *Deventer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/item/103832#page/181/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33258647) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Geissler, Otto (?-1875), Swiss botanist. (*O. Geissler*).
+Geissler, Otto (?-1875), Swiss botanist. 
+**Abbreviated name**: *O. Geissler*
 
 #### Herbarium and types
 

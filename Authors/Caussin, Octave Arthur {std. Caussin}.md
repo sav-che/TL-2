@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/item/103861#page/474/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33266771) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Caussin, Octave Arthur (1862-1913), French botanist, studied at the Pensionat Gouge de Framerville l'École de Médecine d'Amiens, practicing physician at Rosières près de Proyart, Somme, from 1901 again at Proyart. (*Caussin*).
+Caussin, Octave Arthur (1862-1913), French botanist, studied at the Pensionat Gouge de Framerville l'École de Médecine d'Amiens, practicing physician at Rosières près de Proyart, Somme, from 1901 again at Proyart. 
+**Abbreviated name**: *Caussin*
 
 #### Herbarium and types
 

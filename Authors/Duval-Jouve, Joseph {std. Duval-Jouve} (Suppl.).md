@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/103835#page/226/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33260204) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Duval-Jouve (earlier Duval), Joseph {std. Duval-Jouve}|first entry]] for this author
 
 ### Author
 
-\* Duval-Jouve, Joseph (1810-1883), French botanist, born 7 Aug 1810 at Boisy-Lamberville (Eure), as Joseph Duval, joined after his marriage (1834) his wife's family name to his own (Duval-Jouve), at Castellane 1829-1832 occupied with botany and geology, teacher at a college at Grasse 1832-1852, inspector of the academy at Alger (1853-1854), Strasbourg and Montpellier, died 25 Aug 1883 at Montpellier. (*Duval-Jouve*).
+\* Duval-Jouve, Joseph (1810-1883), French botanist, born 7 Aug 1810 at Boisy-Lamberville (Eure), as Joseph Duval, joined after his marriage (1834) his wife's family name to his own (Duval-Jouve), at Castellane 1829-1832 occupied with botany and geology, teacher at a college at Grasse 1832-1852, inspector of the academy at Alger (1853-1854), Strasbourg and Montpellier, died 25 Aug 1883 at Montpellier. 
+**Abbreviated name**: *Duval-Jouve*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/item/103253#page/697/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33068913) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krempelhuber, August von (1813-1882), German lichenologist and forester; "Königlicher bayerischer Forstrath" in München. (*Kremp.*).
+Krempelhuber, August von (1813-1882), German lichenologist and forester; "Königlicher bayerischer Forstrath" in München. 
+**Abbreviated name**: *Kremp.*
 
 #### Herbarium and types
 

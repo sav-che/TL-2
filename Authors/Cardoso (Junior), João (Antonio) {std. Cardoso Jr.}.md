@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103861#page/411/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266708) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cardoso \[Junior\], João \[Antonio\] (1857-1937), Portuguese pharmacist and botanist, sometime in charge of the pharmaceutic services of the province of Cabo Verde Islands, member of the Academy of Sciences at Lisboa, resident in the Cabo Verde Islands 1883-1905. (*Cardoso Jr.*).
+Cardoso \[Junior\], João \[Antonio\] (1857-1937), Portuguese pharmacist and botanist, sometime in charge of the pharmaceutic services of the province of Cabo Verde Islands, member of the Academy of Sciences at Lisboa, resident in the Cabo Verde Islands 1883-1905. 
+**Abbreviated name**: *Cardoso Jr.*
 
 #### Herbarium and types
 

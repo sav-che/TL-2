@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/item/104137#page/695/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33355766) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Naccari, Fortunato Luigi (1793-1860), Italian botanist; high school teacher at the seminary of Chioggia; later university librarian at Padova (*Naccari*).
+Naccari, Fortunato Luigi (1793-1860), Italian botanist; high school teacher at the seminary of Chioggia; later university librarian at Padova 
+**Abbreviated name**: *Naccari*
 
 #### Herbarium and types
 

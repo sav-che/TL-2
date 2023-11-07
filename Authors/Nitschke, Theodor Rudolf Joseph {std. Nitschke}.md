@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/item/104137#page/772/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nitschke, Theodor Rudolf Joseph (1834-1883), German mycologist; Dr. phil. Breslau 1858; habil. Münster 1860; from 1867 professor of botany at the University of Münster. (*Nitschke*).
+Nitschke, Theodor Rudolf Joseph (1834-1883), German mycologist; Dr. phil. Breslau 1858; habil. Münster 1860; from 1867 professor of botany at the University of Münster. 
+**Abbreviated name**: *Nitschke*
 
 #### Herbarium and types
 

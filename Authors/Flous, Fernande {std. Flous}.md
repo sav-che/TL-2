@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103834#page/293/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33259775) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flous, Fernande (1908-1941), French botanist who specialized in Coniferae, Dr. ès-sciences 1936 Toulouse, asst. to H.M. Gaussen of the botanical lab., Faculty of Science, Toulouse, awarded Prix Gandoger 1937. (*Flous*).
+Flous, Fernande (1908-1941), French botanist who specialized in Coniferae, Dr. ès-sciences 1936 Toulouse, asst. to H.M. Gaussen of the botanical lab., Faculty of Science, Toulouse, awarded Prix Gandoger 1937. 
+**Abbreviated name**: *Flous*
 
 #### Herbarium and types
 

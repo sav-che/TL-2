@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/item/104077#page/117/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schaefer, Michael (1790-1846), German botanist and clergyman; ord. 1815 Trier; chaplain at the St. Laurentius church and high school teacher at Trier. (*M. Schaefer*).
+Schaefer, Michael (1790-1846), German botanist and clergyman; ord. 1815 Trier; chaplain at the St. Laurentius church and high school teacher at Trier. 
+**Abbreviated name**: *M. Schaefer*
 
 #### Herbarium and types
 

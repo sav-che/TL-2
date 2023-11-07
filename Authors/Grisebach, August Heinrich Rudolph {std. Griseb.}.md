@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/item/103414#page/1055/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33121138) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grisebach, August Heinrich Rudolf (Rudolph) {std. Griseb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Grisebach, August Heinrich Rudolph (1814-1879), German botanist at Göttingen, "Geheimer Regierungsrath" and director of the botanical garden. (*Griseb.*).
+Grisebach, August Heinrich Rudolph (1814-1879), German botanist at Göttingen, "Geheimer Regierungsrath" and director of the botanical garden. 
+**Abbreviated name**: *Griseb.*
 
 #### Herbarium and types
 

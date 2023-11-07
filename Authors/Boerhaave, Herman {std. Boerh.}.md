@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103414#page/298/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33120381) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boerhaave, Herman (1668-1739), Dutch physician and botanist, "communis Europae praeceptor." (*Boerh.*).
+Boerhaave, Herman (1668-1739), Dutch physician and botanist, "communis Europae praeceptor." 
+**Abbreviated name**: *Boerh.*
 
 #### Herbarium and types
 

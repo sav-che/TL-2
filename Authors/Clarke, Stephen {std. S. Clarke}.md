@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/103860#page/197/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33265864) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clarke, Stephen (fl. 1820-1825), British botanist at Borde Hill, Sussex. (*S. Clarke*).
+Clarke, Stephen (fl. 1820-1825), British botanist at Borde Hill, Sussex. 
+**Abbreviated name**: *S. Clarke*
 
 #### Herbarium and types
 

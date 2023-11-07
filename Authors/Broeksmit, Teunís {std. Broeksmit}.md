@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/item/103861#page/124/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33266421) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Broeksmit, Teunís (1855-1946), Dutch physician at Rotterdam, Dr. med. 1891, bryologist and collector of Myxomycetes at Zeist (Netherlands). (*Broeksmit*).
+Broeksmit, Teunís (1855-1946), Dutch physician at Rotterdam, Dr. med. 1891, bryologist and collector of Myxomycetes at Zeist (Netherlands). 
+**Abbreviated name**: *Broeksmit*
 
 #### Herbarium and types
 

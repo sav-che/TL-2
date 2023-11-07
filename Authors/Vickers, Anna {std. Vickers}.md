@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/item/103683#page/734/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33212766) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vickers, Anna (1852-1906), French-born British algologist. (*Vickers*).
+Vickers, Anna (1852-1906), French-born British algologist. 
+**Abbreviated name**: *Vickers*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103624#page/340/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33189797) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Polakowsky, Helmuth (1847-1917), German botanist; until 1880 in Berlin. (*Polak.*).
+Polakowsky, Helmuth (1847-1917), German botanist; until 1880 in Berlin. 
+**Abbreviated name**: *Polak.*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/item/103414#page/250/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bertoloni, Antonio {std. Bertol.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bertoloni, Antonio (1775-1869), Italian botanist, professor of botany at Bologna 1816-1869. (*Bertol.*).
+Bertoloni, Antonio (1775-1869), Italian botanist, professor of botany at Bologna 1816-1869. 
+**Abbreviated name**: *Bertol.*
 
 #### Herbarium and types
 

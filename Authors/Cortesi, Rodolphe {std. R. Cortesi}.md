@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103860#page/395/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33266062) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cortesi, Rodolphe (1894-1967), French botanist, born 1894 at Méru (dépt. de l'Oise), died 1967 at Genève, at Rennes "licencié ès sciences" 1917, at Paris pharmacist first class 1918, received special title in chemical botany at Paris 1933, superior pharmacist in 1934, "docteur ès sciences" Université de Lausanne 1939, from 1939 working in Genève, extra-ordinary Professor in phytotechnology from 1947. (*R. Cortesi*).
+Cortesi, Rodolphe (1894-1967), French botanist, born 1894 at Méru (dépt. de l'Oise), died 1967 at Genève, at Rennes "licencié ès sciences" 1917, at Paris pharmacist first class 1918, received special title in chemical botany at Paris 1933, superior pharmacist in 1934, "docteur ès sciences" Université de Lausanne 1939, from 1939 working in Genève, extra-ordinary Professor in phytotechnology from 1947. 
+**Abbreviated name**: *R. Cortesi*
 
 #### Herbarium and types
 

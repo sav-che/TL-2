@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/item/103835#page/461/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33260439) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eys, Jan Nicolaas van (1743-1818), Dutchman, born 5 Mai 1743 at Amsterdam, 1786 administrator of the East Indian Company, in 1913 in the administration of the town of Amsterdam, member of the Royal Netherlands Institute and director of the Scientific Society at Haarlem, much interested in agriculture, died 10 Mai 1818. (*Eys*).
+Eys, Jan Nicolaas van (1743-1818), Dutchman, born 5 Mai 1743 at Amsterdam, 1786 administrator of the East Indian Company, in 1913 in the administration of the town of Amsterdam, member of the Royal Netherlands Institute and director of the Scientific Society at Haarlem, much interested in agriculture, died 10 Mai 1818. 
+**Abbreviated name**: *Eys*
 
 #### Herbarium and types
 

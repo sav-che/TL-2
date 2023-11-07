@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/item/103832#page/117/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33258583) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Galeotti, Henri Guillaume {std. Galeotti}|first entry]] for this author
 
 ### Author
 
-\* Galeotti, Henri-Guillaume (1814-1858), French-born Belgian (naturalized 28 Feb 1843) geologist, botanist and horticulturist, born 10 Sep 1814 in Paris, the son of a Milanese father, moved with his family in childhood to Brussels, studied natural history at the Établissement Géographique de Bruxelles, awarded gold medal in science for work in geology, Belgian Royal Acad. Sci. 1835, traveled in Mexico Dec 1835-Jun 1840, returned to Europe and established an horticultural firm in the suburbs of Brussels, revisited Mexico 1840-1841, dir., botanical garden, Brussels 1853 until his death on 14 Mar 1858 in Brussels. (*Galeotti*).
+\* Galeotti, Henri-Guillaume (1814-1858), French-born Belgian (naturalized 28 Feb 1843) geologist, botanist and horticulturist, born 10 Sep 1814 in Paris, the son of a Milanese father, moved with his family in childhood to Brussels, studied natural history at the Établissement Géographique de Bruxelles, awarded gold medal in science for work in geology, Belgian Royal Acad. Sci. 1835, traveled in Mexico Dec 1835-Jun 1840, returned to Europe and established an horticultural firm in the suburbs of Brussels, revisited Mexico 1840-1841, dir., botanical garden, Brussels 1853 until his death on 14 Mar 1858 in Brussels. 
+**Abbreviated name**: *Galeotti*
 
 #### Herbarium and types
 

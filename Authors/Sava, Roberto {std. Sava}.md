@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/104077#page/95/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33333220) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sava, Roberto (*fl*. 1844), Italian physician and botanist at Prato. (*Sava*).
+Sava, Roberto (*fl*. 1844), Italian physician and botanist at Prato. 
+**Abbreviated name**: *Sava*
 
 #### Herbarium and types
 

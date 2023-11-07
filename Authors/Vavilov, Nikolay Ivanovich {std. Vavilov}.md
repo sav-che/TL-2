@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/item/103683#page/695/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33212727) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vavilov, Nikolay Ivanovich (1887-1943), Russian botanist, agronomist, geneticist and phytogeographer; studied at the Moscow Agricultural Institute 1906-1911, reserach assistant ib. 1911-1912; with the Bureau of Applied Botany and the Bureau of Mycology, St. Petersburg 1912-1913; studied at the University of Cambridge and the John Innes Institution 1913-1914; teacher at Moscow University 1914-1916; explored Iran and Pamir 1916-1917; professor of genetics at the Voronezh Agricultural Institute and id. of agronomy at Saratov University 1917-1920; head of the department of applied botany Petrograd 1920-1924; in charge of the All Union Institute of applied botany (later id. of plant breeding, VIR) 1924, set up the All Union Lenin Academy of Agricultural Sciences, 1929-1935; travelled widely 1929-1940, collecting economic plants. (*Vavilov*).
+Vavilov, Nikolay Ivanovich (1887-1943), Russian botanist, agronomist, geneticist and phytogeographer; studied at the Moscow Agricultural Institute 1906-1911, reserach assistant ib. 1911-1912; with the Bureau of Applied Botany and the Bureau of Mycology, St. Petersburg 1912-1913; studied at the University of Cambridge and the John Innes Institution 1913-1914; teacher at Moscow University 1914-1916; explored Iran and Pamir 1916-1917; professor of genetics at the Voronezh Agricultural Institute and id. of agronomy at Saratov University 1917-1920; head of the department of applied botany Petrograd 1920-1924; in charge of the All Union Institute of applied botany (later id. of plant breeding, VIR) 1924, set up the All Union Lenin Academy of Agricultural Sciences, 1929-1935; travelled widely 1929-1940, collecting economic plants. 
+**Abbreviated name**: *Vavilov*
 
 #### Herbarium and types
 

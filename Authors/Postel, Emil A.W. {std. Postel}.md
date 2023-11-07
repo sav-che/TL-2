@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/item/103624#page/368/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33189825) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Postel, Emil A.W. (*fl*. 1856), German botanist, cantor and teacher at Parchwitz, Schlesien. (*Postel*).
+Postel, Emil A.W. (*fl*. 1856), German botanist, cantor and teacher at Parchwitz, Schlesien. 
+**Abbreviated name**: *Postel*
 
 #### Herbarium and types
 

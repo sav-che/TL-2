@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103860#page/229/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265896) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Clinton, George Perkins {std. G.P. Clinton}|first entry]] for this author
 
 ### Author
 
-\* Clinton, George Perkins (1867-1937), American botanist, born at Polo, Illinois, educated at the Polo High School until 1886, at the University of Illinois, B.Sc. 1890, assistant botanist in the Agricultural Experimental Station of the University of Illinois at Urbana 1890-1900, Master of Science 1894, at Harvard University with W.G. Farlow and R. Thaxter 1900, Master of Science 1901, Dr. Sci. 1902, from 1902 at the Connecticut Agricultural Experiment Station in New Haven, also lecturer in forest pathology at Yale University 1915-1926, research associate in botany at Yale 1926-1929, member Natl. Academy 1930. (*G.P. Clinton*).
+\* Clinton, George Perkins (1867-1937), American botanist, born at Polo, Illinois, educated at the Polo High School until 1886, at the University of Illinois, B.Sc. 1890, assistant botanist in the Agricultural Experimental Station of the University of Illinois at Urbana 1890-1900, Master of Science 1894, at Harvard University with W.G. Farlow and R. Thaxter 1900, Master of Science 1901, Dr. Sci. 1902, from 1902 at the Connecticut Agricultural Experiment Station in New Haven, also lecturer in forest pathology at Yale University 1915-1926, research associate in botany at Yale 1926-1929, member Natl. Academy 1930. 
+**Abbreviated name**: *G.P. Clinton*
 
 #### Herbarium and types
 

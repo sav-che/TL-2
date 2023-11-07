@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103833#page/14/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33259048) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dade, Harry Arthur (1895-1978), British mycologist, assistant mycologist in the Department of Agriculture, Gold Coast. (*Dade*).
+Dade, Harry Arthur (1895-1978), British mycologist, assistant mycologist in the Department of Agriculture, Gold Coast. 
+**Abbreviated name**: *Dade*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/item/104077#page/441/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwatka, Frederick (1849-1892), American soldier and explorer, especially of the Arctic; studied at West Point, 1867-1871; cavalry lieutenant 1871-1885; Dr. med. New York 1876; on the New York Herald expedition to King William's land 1878-1880; in command of the New York Times Alaska expedition 1886. (*Schwatka*).
+Schwatka, Frederick (1849-1892), American soldier and explorer, especially of the Arctic; studied at West Point, 1867-1871; cavalry lieutenant 1871-1885; Dr. med. New York 1876; on the New York Herald expedition to King William's land 1878-1880; in command of the New York Times Alaska expedition 1886. 
+**Abbreviated name**: *Schwatka*
 
 #### Herbarium and types
 

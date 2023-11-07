@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/item/104137#page/687/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33355758) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Murray, Stewart (1789?-1858), Scottish botanist, superintendent of the Glasgow botanic Garden. (*S. Murray*).
+Murray, Stewart (1789?-1858), Scottish botanist, superintendent of the Glasgow botanic Garden. 
+**Abbreviated name**: *S. Murray*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103253#page/84/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33068300) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Harris, Thomas Maxwell (1903-x), British palaeobotanist in London; trained at Cambridge; collected in East Greenland 1926-1927; specialized on Jurassic fossil plants. (*T. Harris*).
+Harris, Thomas Maxwell (1903-x), British palaeobotanist in London; trained at Cambridge; collected in East Greenland 1926-1927; specialized on Jurassic fossil plants. 
+**Abbreviated name**: *T. Harris*
 
 #### Collections
 

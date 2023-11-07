@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/item/103861#page/441/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33266738) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Carter, Annetta Mary (1907-1991), American botanist, born Sierra Madre, Los Angeles Co., Calif., studied and worked at the University of California, AB 1930, AM 1932. (*A.M. Carter*).
+Carter, Annetta Mary (1907-1991), American botanist, born Sierra Madre, Los Angeles Co., Calif., studied and worked at the University of California, AB 1930, AM 1932. 
+**Abbreviated name**: *A.M. Carter*
 
 #### Herbarium and types
 

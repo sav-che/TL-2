@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103835#page/263/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33260241) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eckerberg, Johann Gustaf (1776-1808), Swedish botanist, born 24 Feb 1776 at Karlstad, studied at Lund from 1798, fil. dr. Lund 1802, docent in botany there 1805, died 23 Mar 1808 at Stockholm. (*Eckerberg*).
+Eckerberg, Johann Gustaf (1776-1808), Swedish botanist, born 24 Feb 1776 at Karlstad, studied at Lund from 1798, fil. dr. Lund 1802, docent in botany there 1805, died 23 Mar 1808 at Stockholm. 
+**Abbreviated name**: *Eckerberg*
 
 #### Herbarium and types
 

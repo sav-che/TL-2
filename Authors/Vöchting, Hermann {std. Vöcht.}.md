@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/item/103683#page/773/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vöchting, Hermann (1847-1917), German (Lippe) botanist; at a pharmacy in Lippe-Detmold 1864-1867; assistant at the Berlin Botanical Garden 1867; studied natural sciences at Berlin University as student of N. Pringsheim 1872; gardener at Blomberg 1870, at Kew 1871, assistant to Pringsheim 1872; Dr. phil. Göttingen 1873; assistant at Bonn with J.L.E.R. von Hanstein 1874; habil. ib. 1874, extraordinary professor of botany Bonn 1877; ordinary professor of botany Basel 1878-1887; id. Tübingen 1887-1917; experimental morphologist. (*Vöcht.*).
+Vöchting, Hermann (1847-1917), German (Lippe) botanist; at a pharmacy in Lippe-Detmold 1864-1867; assistant at the Berlin Botanical Garden 1867; studied natural sciences at Berlin University as student of N. Pringsheim 1872; gardener at Blomberg 1870, at Kew 1871, assistant to Pringsheim 1872; Dr. phil. Göttingen 1873; assistant at Bonn with J.L.E.R. von Hanstein 1874; habil. ib. 1874, extraordinary professor of botany Bonn 1877; ordinary professor of botany Basel 1878-1887; id. Tübingen 1887-1917; experimental morphologist. 
+**Abbreviated name**: *Vöcht.*
 
 #### Herbarium and types
 

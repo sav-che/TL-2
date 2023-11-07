@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/item/104137#page/742/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33355813) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Němejc, František (1901-1976), Bohemian (Czechoslovakian) palaeobotanist; Dr. phil. Praha 1924; assistant (1924) later (1939) director of the geological-palaeontological department of the Natural History Museum, Prague; extraord. (1929), later (1948) ordinary professor at the Charles University. (*F. Němejc*).
+Němejc, František (1901-1976), Bohemian (Czechoslovakian) palaeobotanist; Dr. phil. Praha 1924; assistant (1924) later (1939) director of the geological-palaeontological department of the Natural History Museum, Prague; extraord. (1929), later (1948) ordinary professor at the Charles University. 
+**Abbreviated name**: *F. Němejc*
 
 #### Herbarium and types
 

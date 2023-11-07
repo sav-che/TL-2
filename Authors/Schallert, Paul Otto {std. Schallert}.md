@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/104077#page/130/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33333255) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schallert, Paul Otto (1879-1970), American physician, amateur botanist and plant collector; Dr. med. Univ. Illinois 1904; practicing physician; collected all over the United States from 1904-1958; ultimately at Altamonte Springs, Florida. (*Schallert*).
+Schallert, Paul Otto (1879-1970), American physician, amateur botanist and plant collector; Dr. med. Univ. Illinois 1904; practicing physician; collected all over the United States from 1904-1958; ultimately at Altamonte Springs, Florida. 
+**Abbreviated name**: *Schallert*
 
 #### Herbarium and types
 

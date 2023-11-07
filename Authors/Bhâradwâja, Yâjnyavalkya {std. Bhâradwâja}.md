@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103859#page/164/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33265351) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bhâradwâja, Yâjnyavalkya (1895-1963), Indian (Punjab) botanist (algologist and limnologist), educated at the Government College Lahore, M.Sc. 1918, demonstrator in botany at St. John's College, Agra, assistant professor of botany at the Banares Hindu University 1922-1923, full professor 1933, Dr. phil. Univ. London 1933, retired 1955. (*Bhâradwâja*).
+Bhâradwâja, Yâjnyavalkya (1895-1963), Indian (Punjab) botanist (algologist and limnologist), educated at the Government College Lahore, M.Sc. 1918, demonstrator in botany at St. John's College, Agra, assistant professor of botany at the Banares Hindu University 1922-1923, full professor 1933, Dr. phil. Univ. London 1933, retired 1955. 
+**Abbreviated name**: *Bhâradwâja*
 
 #### Herbarium and types
 

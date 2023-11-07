@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/item/103253#page/771/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lange, Jakob Emanuel (1864-1941), Danish mycologist; 1888-1924 teacher at the Danish agricultural Folk Highschool at Dalum near Odense; 1918-1934 principal of the Smallholders Agricultural School at Odense; active liberal politician. (*J. E. Lange*).
+Lange, Jakob Emanuel (1864-1941), Danish mycologist; 1888-1924 teacher at the Danish agricultural Folk Highschool at Dalum near Odense; 1918-1934 principal of the Smallholders Agricultural School at Odense; active liberal politician. 
+**Abbreviated name**: *J. E. Lange*
 
 #### Herbarium and types
 

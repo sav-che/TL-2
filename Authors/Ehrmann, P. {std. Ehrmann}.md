@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/item/103835#page/284/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33260262) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ehrmann, P. (fl. 1917), German scientist living at Leipzig-Gohlis. (*Ehrmann*).
+Ehrmann, P. (fl. 1917), German scientist living at Leipzig-Gohlis. 
+**Abbreviated name**: *Ehrmann*
 
 #### Herbarium and types
 

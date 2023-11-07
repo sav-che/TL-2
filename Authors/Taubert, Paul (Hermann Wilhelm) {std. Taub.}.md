@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/item/103683#page/189/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33212221) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taubert, Paul \[Hermann Wilhelm\] (1862-1897), German (Berlin) botanist; Dr. phil. Berlin 1889 (student of I. Urban); travelled and collected in Cyrenaica (1887); associated with the Berlin Botanical Museum 1889-1895 (1893-1895 as scientific assistant); in 1896 in Brazil, ultimately at Manaos. (*Taub.*).
+Taubert, Paul \[Hermann Wilhelm\] (1862-1897), German (Berlin) botanist; Dr. phil. Berlin 1889 (student of I. Urban); travelled and collected in Cyrenaica (1887); associated with the Berlin Botanical Museum 1889-1895 (1893-1895 as scientific assistant); in 1896 in Brazil, ultimately at Manaos. 
+**Abbreviated name**: *Taub.*
 
 #### Herbarium and types
 

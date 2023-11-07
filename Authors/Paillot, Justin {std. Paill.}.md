@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/103624#page/22/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33189507) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Paillot, Justin (1829-1891), French botanist; high school teacher at Nans; from 1863-1885 pharmacist at Besançon; from 1886 at Rougemont. (*Paill.*).
+Paillot, Justin (1829-1891), French botanist; high school teacher at Nans; from 1863-1885 pharmacist at Besançon; from 1886 at Rougemont. 
+**Abbreviated name**: *Paill.*
 
 #### Herbarium and types
 

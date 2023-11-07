@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103624#page/312/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33189769) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plukenet, Leonard (1642-1706), British botanist and physician, probably educated at Westminster School; practicing physician in London, later Queen's botanist to Mary II (wife of Willem III) and superintendent of Hampton Court. (*Pluk.*).
+Plukenet, Leonard (1642-1706), British botanist and physician, probably educated at Westminster School; practicing physician in London, later Queen's botanist to Mary II (wife of Willem III) and superintendent of Hampton Court. 
+**Abbreviated name**: *Pluk.*
 
 #### Herbarium and types
 

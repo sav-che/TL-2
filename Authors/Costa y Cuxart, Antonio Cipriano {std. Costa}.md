@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/item/103414#page/603/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33120686) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Costa y Cuxart, Antonio Cipriano {std. Costa} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Costa y Cuxart, Antonio Cipriano (1817-1886), Catalan botanist in Barcelona. (*Costa*).
+Costa y Cuxart, Antonio Cipriano (1817-1886), Catalan botanist in Barcelona. 
+**Abbreviated name**: *Costa*
 
 #### Herbarium and types
 

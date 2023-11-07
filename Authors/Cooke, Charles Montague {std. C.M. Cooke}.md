@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/item/103860#page/337/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33266004) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cooke, Charles Montague (1874-1948), American zoologist and botanist born at Honolulu, Hawaii, some time plant physiologist with the Hawaiian Sugar Planters Association. (*C.M. Cooke*).
+Cooke, Charles Montague (1874-1948), American zoologist and botanist born at Honolulu, Hawaii, some time plant physiologist with the Hawaiian Sugar Planters Association. 
+**Abbreviated name**: *C.M. Cooke*
 
 #### Herbarium and types
 

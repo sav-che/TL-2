@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/item/104077#page/807/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/page/33333932) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spire, Camille Joseph (*fl*. 1903), French military colonial physician and botanist; in Indochina ca. 1903. (*Spire*).
+Spire, Camille Joseph (*fl*. 1903), French military colonial physician and botanist; in Indochina ca. 1903. 
+**Abbreviated name**: *Spire*
 
 #### Herbarium and types
 

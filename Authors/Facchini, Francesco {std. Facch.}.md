@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103834#page/31/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33259513) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Facchini, Francesco (1788-1852), Italian physician, born 24 Oct 1788 in Forno (Val di Fassa) (then part of the Austrian Empire), studied physics in Innsbruck 1807-1808, philology and philosophy at Landshut until 1810, medicine at the Univ. of Padua until 1815, physician in Val di Fassa 1821-1837, lived in Giovanni di Vigo and studied the Fassa Valley flora, died 6 Oct 1852. (*Facch.*).
+Facchini, Francesco (1788-1852), Italian physician, born 24 Oct 1788 in Forno (Val di Fassa) (then part of the Austrian Empire), studied physics in Innsbruck 1807-1808, philology and philosophy at Landshut until 1810, medicine at the Univ. of Padua until 1815, physician in Val di Fassa 1821-1837, lived in Giovanni di Vigo and studied the Fassa Valley flora, died 6 Oct 1852. 
+**Abbreviated name**: *Facch.*
 
 #### Herbarium and types
 

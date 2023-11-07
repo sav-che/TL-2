@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/item/104077#page/154/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33333279) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scherfel, Aurei Wilhelm (Vilmos Auréi) (1835-1895), Austro-Hungarian botanist and pharmacist; practicing pharmacist at Felka; founder and first director of the Tatra Museum in Poprad-Felka (Slovakia), explorer of the western Carpathic Mts. (*Scherfel*).
+Scherfel, Aurei Wilhelm (Vilmos Auréi) (1835-1895), Austro-Hungarian botanist and pharmacist; practicing pharmacist at Felka; founder and first director of the Tatra Museum in Poprad-Felka (Slovakia), explorer of the western Carpathic Mts. 
+**Abbreviated name**: *Scherfel*
 
 #### Herbarium and types
 

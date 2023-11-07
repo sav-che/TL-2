@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/item/103683#page/398/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33212430) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tomin, Michail Petrovich (1883-1967), Russian lichenologist; Dr. phil. Moskva 1913; at the Agricultural Institute Woronesch 1913-1929; ultimately at the Biological Institute of the Academy of Sciences, Minsk. (*Tomin*).
+Tomin, Michail Petrovich (1883-1967), Russian lichenologist; Dr. phil. Moskva 1913; at the Agricultural Institute Woronesch 1913-1929; ultimately at the Biological Institute of the Academy of Sciences, Minsk. 
+**Abbreviated name**: *Tomin*
 
 #### Herbarium and types
 

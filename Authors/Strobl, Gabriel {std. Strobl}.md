@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/item/103683#page/56/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33212050) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strobl, Gabriel (1846-1925), Austrian botanist, zoologist and clergyman; educated in the Benedictine monastery at Admont; ordained 1870; studied natural sciences at Innsbruck as a student of A. Kerner 1872-1876; teacher at the Benedictine Gymnasium of Seitenstetten 1876-1880; idem at the Gymnasium of Melk 1880-1886; from 1887 idem at Admont. (*Strobl*).
+Strobl, Gabriel (1846-1925), Austrian botanist, zoologist and clergyman; educated in the Benedictine monastery at Admont; ordained 1870; studied natural sciences at Innsbruck as a student of A. Kerner 1872-1876; teacher at the Benedictine Gymnasium of Seitenstetten 1876-1880; idem at the Gymnasium of Melk 1880-1886; from 1887 idem at Admont. 
+**Abbreviated name**: *Strobl*
 
 #### Herbarium and types
 

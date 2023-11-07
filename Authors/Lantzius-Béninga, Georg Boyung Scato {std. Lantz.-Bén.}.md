@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/item/103253#page/780/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lantzius-Béninga, Georg Boyung Scato (1815-1871), East-Frisian/German botanist; Dr. phil. Göttingen 1844; lecturer (1846), "assessor" (1852) and professor (1870) at Göttingen University. (*Lantz.-Bén.*).
+Lantzius-Béninga, Georg Boyung Scato (1815-1871), East-Frisian/German botanist; Dr. phil. Göttingen 1844; lecturer (1846), "assessor" (1852) and professor (1870) at Göttingen University. 
+**Abbreviated name**: *Lantz.-Bén.*
 
 #### Herbarium and types
 

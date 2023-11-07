@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103861#page/328/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33266625) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Calvino, Mario (1875-x), Italian botanist, born 26 Mar 1875, San Remo, Italia, at University of Pisa as Dr. Sci. agric. 1899, at Porto Mauricio 1901-1908 Director Ambul. Chair Agric., chief hortic. Estac. Agric. Centr. Mexico 1909-1914, chief at same station 1915-1916, chief Dept. Agric. Yucatán 1916, director Estac. Agric. Cub. 1917. (*Calvino*).
+Calvino, Mario (1875-x), Italian botanist, born 26 Mar 1875, San Remo, Italia, at University of Pisa as Dr. Sci. agric. 1899, at Porto Mauricio 1901-1908 Director Ambul. Chair Agric., chief hortic. Estac. Agric. Centr. Mexico 1909-1914, chief at same station 1915-1916, chief Dept. Agric. Yucatán 1916, director Estac. Agric. Cub. 1917. 
+**Abbreviated name**: *Calvino*
 
 #### Herbarium and types
 

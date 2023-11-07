@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103834#page/187/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259669) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ferrière, Émile (1830-1900), French philosopher, born in Paris, studied literature and philosophy, published a book on Darwinism (1872) and several other books hostile to Christianity and its traditions. (*Ferrière*).
+Ferrière, Émile (1830-1900), French philosopher, born in Paris, studied literature and philosophy, published a book on Darwinism (1872) and several other books hostile to Christianity and its traditions. 
+**Abbreviated name**: *Ferrière*
 
 #### Herbarium and types
 

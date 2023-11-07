@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/item/103858#page/256/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33264971) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Badham, Charles David {std. Badham}|first entry]] for this author
 
 ### Author
 
-\* Badham, Charles David (1806-1857), British clergyman, mycologist, and entomologist, educated at Eton, studied at Cambridge (Emmanuel), B.A. ib. 1826, at Oxford (Pembroke), M.A. 1829, M.B. 1828, M.D. 1833; practised in Rome, Paris, and in Norfolk; ultimately curate at East Bergholt, Suffolk 1849-1855. (*Badham*).
+\* Badham, Charles David (1806-1857), British clergyman, mycologist, and entomologist, educated at Eton, studied at Cambridge (Emmanuel), B.A. ib. 1826, at Oxford (Pembroke), M.A. 1829, M.B. 1828, M.D. 1833; practised in Rome, Paris, and in Norfolk; ultimately curate at East Bergholt, Suffolk 1849-1855. 
+**Abbreviated name**: *Badham*
 
 #### Herbarium and types
 

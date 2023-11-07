@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/item/103833#page/244/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33259278) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dessalle, Louis-Auguste (1855-?), French botanist, secretary of the scientific and literary society of the Basses-Alpes. (*Dessalle*).
+Dessalle, Louis-Auguste (1855-?), French botanist, secretary of the scientific and literary society of the Basses-Alpes. 
+**Abbreviated name**: *Dessalle*
 
 #### Herbarium and types
 

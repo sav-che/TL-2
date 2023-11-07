@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/item/104077#page/686/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33333811) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Gerard Edwards (1804-1881), British clergyman and botanist; BA Oxon. 1829; curate at Sellinge (Kent) 1829-1830; vicar at Cantley (Yorks.) 1844-1846; id. at Osmaston (Derby) 1854-1871. (*G.E. Sm.*).
+Smith, Gerard Edwards (1804-1881), British clergyman and botanist; BA Oxon. 1829; curate at Sellinge (Kent) 1829-1830; vicar at Cantley (Yorks.) 1844-1846; id. at Osmaston (Derby) 1854-1871. 
+**Abbreviated name**: *G.E. Sm.*
 
 #### Herbarium and types
 

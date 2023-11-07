@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/104077#page/189/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33333314) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schinz, Hans (1858-1941), Swiss botanist; Dr. phil. Zürich 1883; travelled in southwest Africa 1884-1887; habil. Zürich 1889; in charge of the University botanical garden 1893-1929; extraordinary professor 1895-1929. (*Schinz*).
+Schinz, Hans (1858-1941), Swiss botanist; Dr. phil. Zürich 1883; travelled in southwest Africa 1884-1887; habil. Zürich 1889; in charge of the University botanical garden 1893-1929; extraordinary professor 1895-1929. 
+**Abbreviated name**: *Schinz*
 
 #### Herbarium and types
 

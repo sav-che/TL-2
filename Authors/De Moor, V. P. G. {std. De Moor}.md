@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/item/103414#page/669/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[De Moor, V.P.G. {std. De Moor} (Suppl.)|second entry]] for this author
 
 ### Author
 
-De Moor, V. P. G. (1827-1895), Belgian botanist and government veterinarian. (*De Moor*).
+De Moor, V. P. G. (1827-1895), Belgian botanist and government veterinarian. 
+**Abbreviated name**: *De Moor*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103253#page/232/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hillmann, Johannes (1881-1943), German lichenologist, high school teacher at Berlin. (*Hillm.*).
+Hillmann, Johannes (1881-1943), German lichenologist, high school teacher at Berlin. 
+**Abbreviated name**: *Hillm.*
 
 #### Herbarium and types
 

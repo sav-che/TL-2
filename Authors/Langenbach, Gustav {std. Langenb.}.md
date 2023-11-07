@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/item/103253#page/775/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33068991) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Langenbach, Gustav (1831-1873), German botanist; Dr. phil. Breslau 1863; later at Naples where he died of cholera. (*Langenb.*).
+Langenbach, Gustav (1831-1873), German botanist; Dr. phil. Breslau 1863; later at Naples where he died of cholera. 
+**Abbreviated name**: *Langenb.*
 
 #### Herbarium and types
 

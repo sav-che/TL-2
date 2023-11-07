@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/item/103624#page/430/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33189887) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pröli, Alois (*fl*. 1839), Austrian physician and botanist; Dr. med. Wien 1839. (*Pröll*).
+Pröli, Alois (*fl*. 1839), Austrian physician and botanist; Dr. med. Wien 1839. 
+**Abbreviated name**: *Pröll*
 
 #### Herbarium and types
 

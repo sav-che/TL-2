@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103835#page/259/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ebermaier, Carl (Karl) Heinrich (1802-1870), German botanist and physician, born 4 Feb 1802 at Rheda, studied in Bonn and Berlin, "Medizinalrath" in Düsseldorf, died 1 Jan 1870. (*C.H. Eberm.*).
+Ebermaier, Carl (Karl) Heinrich (1802-1870), German botanist and physician, born 4 Feb 1802 at Rheda, studied in Bonn and Berlin, "Medizinalrath" in Düsseldorf, died 1 Jan 1870. 
+**Abbreviated name**: *C.H. Eberm.*
 
 #### Herbarium and types
 

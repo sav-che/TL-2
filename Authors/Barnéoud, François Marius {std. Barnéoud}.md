@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/item/103414#page/170/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33120253) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barnéoud, François Marius {std. Barnéoud} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Barnéoud, François Marius (1821-?), French botanist. (*Barnéoud*).
+Barnéoud, François Marius (1821-?), French botanist. 
+**Abbreviated name**: *Barnéoud*
 
 #### Herbarium and types
 

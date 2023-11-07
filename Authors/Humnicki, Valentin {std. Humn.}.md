@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/item/103253#page/397/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33068613) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Humnicki, Valentin (1815-x), French botanist. (*Humn.*).
+Humnicki, Valentin (1815-x), French botanist. 
+**Abbreviated name**: *Humn.*
 
 #### Herbarium and types
 

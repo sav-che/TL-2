@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/item/103624#page/170/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33189627) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Penzig, Albert Julius Otto \[later: Alberto Giulio Ottone\] (1856-1929), German (Silesian) botanist, from 1878 in Italy, Italian citizen 1882; Dr. phil. Breslau 1877; at Pavia with Garovaglio 1878-1879; with Saccardo at Padua 1879-1883; at the Stazione agronomica, Modena 1883-1886; professor of botany and director of the botanical garden, Genova 1887 (Jan)-1929; in Java Nov 1896-Apr 1897. (*Penz.*).
+Penzig, Albert Julius Otto \[later: Alberto Giulio Ottone\] (1856-1929), German (Silesian) botanist, from 1878 in Italy, Italian citizen 1882; Dr. phil. Breslau 1877; at Pavia with Garovaglio 1878-1879; with Saccardo at Padua 1879-1883; at the Stazione agronomica, Modena 1883-1886; professor of botany and director of the botanical garden, Genova 1887 (Jan)-1929; in Java Nov 1896-Apr 1897. 
+**Abbreviated name**: *Penz.*
 
 #### Herbarium and types
 

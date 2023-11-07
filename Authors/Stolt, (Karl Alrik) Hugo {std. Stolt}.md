@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/item/103683#page/29/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33212075) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stolt, \[Karl Alrik\] Hugo (1885-1942), Swedish botanist; studied at Uppsala, fil. mag. 1911; Dr. phil. 1921, high school teacher at Visby 1923-1930, at Norrköping 1930-1942. (*Stolt*).
+Stolt, \[Karl Alrik\] Hugo (1885-1942), Swedish botanist; studied at Uppsala, fil. mag. 1911; Dr. phil. 1921, high school teacher at Visby 1923-1930, at Norrköping 1930-1942. 
+**Abbreviated name**: *Stolt*
 
 #### Herbarium and types
 

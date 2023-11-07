@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/item/103414#page/874/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ferreira, Alexandre (Alejandro) Rodrigues {std. Ferreira} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ferreira, Alexandre (Alejandro) Rodrigues (1756-1815), Portuguese botanist. (*Ferreira*).
+Ferreira, Alexandre (Alejandro) Rodrigues (1756-1815), Portuguese botanist. 
+**Abbreviated name**: *Ferreira*
 
 #### Herbarium and types
 

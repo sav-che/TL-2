@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/item/103253#page/292/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33068508) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hombron, Jacques Bernard (1800-1852), French explorer on the voyage of the Astrolabe and Zelée (1837-1840); surgeon-botanist; later stationed at Senegal. (*Hombr.*).
+Hombron, Jacques Bernard (1800-1852), French explorer on the voyage of the Astrolabe and Zelée (1837-1840); surgeon-botanist; later stationed at Senegal. 
+**Abbreviated name**: *Hombr.*
 
 #### Herbarium and types
 

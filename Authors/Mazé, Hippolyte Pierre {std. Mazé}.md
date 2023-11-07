@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/item/104137#page/407/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33355478) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mazé, Hippolyte Pierre (1818-1892), French naval author who collected in the West Indies. (*Mazé*).
+Mazé, Hippolyte Pierre (1818-1892), French naval author who collected in the West Indies. 
+**Abbreviated name**: *Mazé*
 
 #### Herbarium and types
 

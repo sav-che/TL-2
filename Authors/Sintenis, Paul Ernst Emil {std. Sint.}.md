@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/item/104077#page/633/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33333758) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sintenis, Paul Ernst Emil (1847-1907), German (Prussian) botanist and plant collector; studied pharmacy at Breslau (1877-1879) but dedicated himself exclusively to botanical collecting; in the Dobrudscha 1872-1876 (with his brother Max Benjamin Gerhard S., 1848-1894); in Cyprus 1880; worked with A. Toepfer in the Silesian exchange Club 1881-1882; collected in the Austrian coastal regions 1881, in Troas 1883, in Puerto Rico 1884-1887 and St. Thomas 1887; from then on collecting mainly in Greece, the Middle East, Armenia and Iran. (*Sint.*).
+Sintenis, Paul Ernst Emil (1847-1907), German (Prussian) botanist and plant collector; studied pharmacy at Breslau (1877-1879) but dedicated himself exclusively to botanical collecting; in the Dobrudscha 1872-1876 (with his brother Max Benjamin Gerhard S., 1848-1894); in Cyprus 1880; worked with A. Toepfer in the Silesian exchange Club 1881-1882; collected in the Austrian coastal regions 1881, in Troas 1883, in Puerto Rico 1884-1887 and St. Thomas 1887; from then on collecting mainly in Greece, the Middle East, Armenia and Iran. 
+**Abbreviated name**: *Sint.*
 
 #### Herbarium and types
 

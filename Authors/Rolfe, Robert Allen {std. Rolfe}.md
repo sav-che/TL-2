@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/item/103624#page/883/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33190340) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rolfe, Robert Allen (1855-1921), English botanist, especially orchidologist; brought up as a gardener; came as such to the Royal Botanic Gardens Kew 1879; assistant in the herbarium ib. 1880-1921. (*Rolfe*).
+Rolfe, Robert Allen (1855-1921), English botanist, especially orchidologist; brought up as a gardener; came as such to the Royal Botanic Gardens Kew 1879; assistant in the herbarium ib. 1880-1921. 
+**Abbreviated name**: *Rolfe*
 
 #### Herbarium and types
 

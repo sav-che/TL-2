@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103833#page/300/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33259334) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dickinson, Sydney (1898-x), American botanist at the University of Minnesota, Agricultural Experiment Station, Division of Plant Pathology and Botany. (*Sydn. Dickinson*).
+Dickinson, Sydney (1898-x), American botanist at the University of Minnesota, Agricultural Experiment Station, Division of Plant Pathology and Botany. 
+**Abbreviated name**: *Sydn. Dickinson*
 
 #### Herbarium and types
 

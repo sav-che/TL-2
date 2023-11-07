@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/item/103414#page/744/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33120827) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dumont dUrville, Jules Sébastien César {std. dUrv.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Dumont d'Urville, Jules Sébastien César (1790-1842), French hydrographer and explorer. (*Dum. d'Urv.*).
+Dumont d'Urville, Jules Sébastien César (1790-1842), French hydrographer and explorer. 
+**Abbreviated name**: *Dum. d'Urv.*
 
 #### Herbarium and types
 

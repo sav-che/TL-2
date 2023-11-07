@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103624#page/192/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33189649) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perry, William Groves (1796-1863), British bookseller and botanist, curator of the Warwickshire Museum at Warwick. (*W.G. Perry*).
+Perry, William Groves (1796-1863), British bookseller and botanist, curator of the Warwickshire Museum at Warwick. 
+**Abbreviated name**: *W.G. Perry*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/item/104137#page/593/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33355664) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moretti, Giuseppe (1782-1853), Italian botanist; professor of botany and director of the Botanical Garden at the University of Pavia 1826-1853. (*Moretti*).
+Moretti, Giuseppe (1782-1853), Italian botanist; professor of botany and director of the Botanical Garden at the University of Pavia 1826-1853. 
+**Abbreviated name**: *Moretti*
 
 #### Herbarium and types
 

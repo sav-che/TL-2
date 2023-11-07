@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/item/103859#page/78/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33265265) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Benecke, \[Friedrich\] Wilhelm (1868-1946), German (Heidelberg-born) botanist, moved with his family to Strassburg 1872, studied at schools and universities at Strassburg, Berlin, Zürich and Jena, Dr. phil. Jena, with E. Stahl; scientific assistant with W. Pfeffer at Leipzig 1892-1893; assistant with Solms-Laubach in Strassburg 1894-1899, habil. ib. 1894, id. at Kiel 1899, assistant with Reinke 1899, professor title 1900, director of the Kiel botanical garden 1906; e.o. professor of botany at Bonn with Strasburger 1909-1911, id. with Haberlandt 1911-1914, ordinary professor at the Agricultural University of Berlin 1914, id. at the Westfälische Wilhelms-Universität as successor to Carl Correns 1915 (on active service in the German army 1915-1917) until 1935, as emeritus still active until 1939. (*W. Benecke*).
+Benecke, \[Friedrich\] Wilhelm (1868-1946), German (Heidelberg-born) botanist, moved with his family to Strassburg 1872, studied at schools and universities at Strassburg, Berlin, Zürich and Jena, Dr. phil. Jena, with E. Stahl; scientific assistant with W. Pfeffer at Leipzig 1892-1893; assistant with Solms-Laubach in Strassburg 1894-1899, habil. ib. 1894, id. at Kiel 1899, assistant with Reinke 1899, professor title 1900, director of the Kiel botanical garden 1906; e.o. professor of botany at Bonn with Strasburger 1909-1911, id. with Haberlandt 1911-1914, ordinary professor at the Agricultural University of Berlin 1914, id. at the Westfälische Wilhelms-Universität as successor to Carl Correns 1915 (on active service in the German army 1915-1917) until 1935, as emeritus still active until 1939. 
+**Abbreviated name**: *W. Benecke*
 
 #### Herbarium and types
 

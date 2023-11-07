@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103833#page/226/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Derx, Henry George (1898-1953), Dutch microbiologist at Amsterdam, sometime head of the Treub Laboratory of Kebun Raya, Indonesia, Bogor, died 15 Aug 1953 at Amsterdam. (*Derx*).
+Derx, Henry George (1898-1953), Dutch microbiologist at Amsterdam, sometime head of the Treub Laboratory of Kebun Raya, Indonesia, Bogor, died 15 Aug 1953 at Amsterdam. 
+**Abbreviated name**: *Derx*
 
 #### Herbarium and types
 

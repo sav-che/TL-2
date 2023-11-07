@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/item/103834#page/38/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33259520) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fairchild, David Grandison (1869-1954), American botanist, mycologist and plant explorer, born 7 Apr 1869 in Lansing, Michigan, B.S. 1888 and M.S. 1893 Kansas State College of Agriculture, Manhattan, Kansas, also studied plant pathology and mycology at Ames, Iowa, employed in plant pathology section U.S.D.A. 1889-1893, resigned to travel, employed as chief of seed and plant introduction section U.S.D.A. 1898 until retirement in 1933 (then appointed collaborator), married Marian Hubbard ('Daisy') Bell (1880-1962), daughter of Alexander Graham Bell (inventor of the telephone and a founder of the Natl. Geographic Magazine) in 1905, throughout his life he traveled the world to collect plants and seeds for introduction into the U.S.A., died 6 Aug 1954 in Miami (Coconut Grove), Florida. (*D.G. Fairchild*).
+Fairchild, David Grandison (1869-1954), American botanist, mycologist and plant explorer, born 7 Apr 1869 in Lansing, Michigan, B.S. 1888 and M.S. 1893 Kansas State College of Agriculture, Manhattan, Kansas, also studied plant pathology and mycology at Ames, Iowa, employed in plant pathology section U.S.D.A. 1889-1893, resigned to travel, employed as chief of seed and plant introduction section U.S.D.A. 1898 until retirement in 1933 (then appointed collaborator), married Marian Hubbard ('Daisy') Bell (1880-1962), daughter of Alexander Graham Bell (inventor of the telephone and a founder of the Natl. Geographic Magazine) in 1905, throughout his life he traveled the world to collect plants and seeds for introduction into the U.S.A., died 6 Aug 1954 in Miami (Coconut Grove), Florida. 
+**Abbreviated name**: *D.G. Fairchild*
 
 #### Herbarium and types
 

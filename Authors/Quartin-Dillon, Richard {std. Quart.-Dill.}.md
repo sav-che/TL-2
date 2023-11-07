@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/item/103624#page/466/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Quartin-Dillon, Richard (x-1841), French botanist, explorer of Abyssinia (1839-1840). (*Quart.-Dill.*).
+Quartin-Dillon, Richard (x-1841), French botanist, explorer of Abyssinia (1839-1840). 
+**Abbreviated name**: *Quart.-Dill.*
 
 #### Herbarium and types
 

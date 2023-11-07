@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/103624#page/130/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33189587) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pavlov, Nikolai Vasilievich (1893-1971), Russian botanist at the Academy of Sciences of Kazakhstan at Alma Ata; specialist on Allium, Astragalus and Artemisia. (*Pavlov*).
+Pavlov, Nikolai Vasilievich (1893-1971), Russian botanist at the Academy of Sciences of Kazakhstan at Alma Ata; specialist on Allium, Astragalus and Artemisia. 
+**Abbreviated name**: *Pavlov*
 
 #### Herbarium and types
 

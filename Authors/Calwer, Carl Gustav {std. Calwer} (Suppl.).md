@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/item/103861#page/328/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33266625) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Calwer, Carl Gustav {std. Calwer}|first entry]] for this author
 
 ### Author
 
-\* Calwer, Carl Gustav (1821-1873), German "Revierförster" (quarter ranger) at the Reichenberg near Backnang, N. Württemberg. (*Calwer*).
+\* Calwer, Carl Gustav (1821-1873), German "Revierförster" (quarter ranger) at the Reichenberg near Backnang, N. Württemberg. 
+**Abbreviated name**: *Calwer*
 
 #### Herbarium and types
 

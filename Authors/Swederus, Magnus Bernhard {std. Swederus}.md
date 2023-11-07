@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103683#page/131/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33212163) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swederus, Magnus Bernhard (1840-1911), Swedish botanist; Dr. phil. Uppsala 1877; teacher at an Uppsala grammar school 1884-1908. (*Swederus*).
+Swederus, Magnus Bernhard (1840-1911), Swedish botanist; Dr. phil. Uppsala 1877; teacher at an Uppsala grammar school 1884-1908. 
+**Abbreviated name**: *Swederus*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103683#page/196/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33212228) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, Adam (*fl*. 1769), British gardener to J. Sutton, New Park, near Devises, Wilts. (*Ad. Tayl*).
+Taylor, Adam (*fl*. 1769), British gardener to J. Sutton, New Park, near Devises, Wilts. 
+**Abbreviated name**: *Ad. Tayl*
 
 #### Herbarium and types
 

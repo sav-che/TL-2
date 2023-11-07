@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103861#page/422/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carey, John {std. J. Carey}|first entry]] for this author
 
 ### Author
 
-\* Carey, John (1797-1880), British tradesman and botanist, born at Camberwell, London, went to the United States 1830, settled at first at Towanda, Pa., at Bellow Falls, Vermont 1831-1836, at New York 1836-1852, made a botanical journey with Asa Gray to North Carolina 1841, returned to London (G.B.), died at Blackheath, London 1880. (*J. Carey*).
+\* Carey, John (1797-1880), British tradesman and botanist, born at Camberwell, London, went to the United States 1830, settled at first at Towanda, Pa., at Bellow Falls, Vermont 1831-1836, at New York 1836-1852, made a botanical journey with Asa Gray to North Carolina 1841, returned to London (G.B.), died at Blackheath, London 1880. 
+**Abbreviated name**: *J. Carey*
 
 #### Herbarium and types
 

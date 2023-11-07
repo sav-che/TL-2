@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/item/103414#page/950/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/page/33121033) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gaertner, Joseph (1732-1791), German physician and botanist, who ultimately settled as "Privatgelehrter" at Calw. (*Gaertn.*).
+Gaertner, Joseph (1732-1791), German physician and botanist, who ultimately settled as "Privatgelehrter" at Calw. 
+**Abbreviated name**: *Gaertn.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/item/103861#page/84/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33266381) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brierley, William Broadhurst (1889-1963), British agricultural botanist, school teacher Manchester 1907-1909, studied at the University of Manchester, B. Sc. 1911, M. Sc. 1912, D. Sc. 1920, lecturer economic botany 1911-1914, assistant at Kew, pathologic laboratory 1914-1918, Rothamsted Experiment Station head department plant pathology 1918-1932, professor of agricultural botany at the University of Reading 1932-1954. (*Brierley*).
+Brierley, William Broadhurst (1889-1963), British agricultural botanist, school teacher Manchester 1907-1909, studied at the University of Manchester, B. Sc. 1911, M. Sc. 1912, D. Sc. 1920, lecturer economic botany 1911-1914, assistant at Kew, pathologic laboratory 1914-1918, Rothamsted Experiment Station head department plant pathology 1918-1932, professor of agricultural botany at the University of Reading 1932-1954. 
+**Abbreviated name**: *Brierley*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103624#page/264/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33189721) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piccone, Antonio (1844-1901), Italian botanist; high school teacher at the Liceo Cristoforo Colombo in Genova. (*Picc*).
+Piccone, Antonio (1844-1901), Italian botanist; high school teacher at the Liceo Cristoforo Colombo in Genova. 
+**Abbreviated name**: *Picc*
 
 #### Herbarium and types
 

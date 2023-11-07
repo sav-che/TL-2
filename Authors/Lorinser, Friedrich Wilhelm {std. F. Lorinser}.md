@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/item/104137#page/178/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33355249) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lorinser, Friedrich Wilhelm (1817-1895), Austrian (Bohemian-born) botanist and physician; "Landes-Sanitätsrath" and surgeon at the Wiedner hospital in Wien; brother of Gustav Lorinser (*F. Lorinser*).
+Lorinser, Friedrich Wilhelm (1817-1895), Austrian (Bohemian-born) botanist and physician; "Landes-Sanitätsrath" and surgeon at the Wiedner hospital in Wien; brother of Gustav Lorinser 
+**Abbreviated name**: *F. Lorinser*
 
 #### Herbarium and types
 

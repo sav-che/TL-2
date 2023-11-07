@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/item/103624#page/896/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33190353) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roscoe, Margaret (née Lace; Mrs Edward Roscoe) (*fl*. 1830), British botanical artist, daughter-in-law of William Roscoe. (*M. Roscoe*).
+Roscoe, Margaret (née Lace; Mrs Edward Roscoe) (*fl*. 1830), British botanical artist, daughter-in-law of William Roscoe. 
+**Abbreviated name**: *M. Roscoe*
 
 #### Herbarium and types
 

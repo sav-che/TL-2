@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/item/103835#page/186/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33260164) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duppa, Richard (1770-1831), British artist and author on botanical subjects, born at Culmington, Shropshire, 1770, studied art in Rome, matriculated at Trinity College, Oxford in 1807, graduated LL.B. at Trinity Hall, Cambridge in 1814, died in London 11 Jul 1831. (*Duppa*).
+Duppa, Richard (1770-1831), British artist and author on botanical subjects, born at Culmington, Shropshire, 1770, studied art in Rome, matriculated at Trinity College, Oxford in 1807, graduated LL.B. at Trinity Hall, Cambridge in 1814, died in London 11 Jul 1831. 
+**Abbreviated name**: *Duppa*
 
 #### Note
 

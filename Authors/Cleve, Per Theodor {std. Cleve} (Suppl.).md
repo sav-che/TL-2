@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/item/103860#page/224/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33265891) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cleve, Per Theodor {std. Cleve}|first entry]] for this author
 
 ### Author
 
-\* Cleve, Per Theodor (1840-1905), Swedish botanist, studied at the University of Uppsala 1858, Dr. phil. ib. 1863, adjunct in chemical technology in Stockholm 1870, professor at Uppsala from 1874. (*Cleve*).
+\* Cleve, Per Theodor (1840-1905), Swedish botanist, studied at the University of Uppsala 1858, Dr. phil. ib. 1863, adjunct in chemical technology in Stockholm 1870, professor at Uppsala from 1874. 
+**Abbreviated name**: *Cleve*
 
 #### Herbarium and types
 

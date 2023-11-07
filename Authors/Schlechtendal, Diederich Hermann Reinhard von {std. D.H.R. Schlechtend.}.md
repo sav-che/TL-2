@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/104077#page/218/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schlechtendal, Diederich \[Dietrich\] Hermann Reinhard von (1834-1916), German (Sachsen-born) entomologist, palaeontologist and plant pathologist; son of D.F.L. von Schlechtendal; state examiniation ordnance survey and geodesy 1868; "Markschneider" (surveyor of mines) at Zwickau 1869-1881; from 1881 in Halle as private scientist; assistant at the Halle mineralogical institute 1885-1913, also active as librarian. (*D.H.R. Schlechtend.*).
+Schlechtendal, Diederich \[Dietrich\] Hermann Reinhard von (1834-1916), German (Sachsen-born) entomologist, palaeontologist and plant pathologist; son of D.F.L. von Schlechtendal; state examiniation ordnance survey and geodesy 1868; "Markschneider" (surveyor of mines) at Zwickau 1869-1881; from 1881 in Halle as private scientist; assistant at the Halle mineralogical institute 1885-1913, also active as librarian. 
+**Abbreviated name**: *D.H.R. Schlechtend.*
 
 #### Herbarium and types
 

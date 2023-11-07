@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/item/103624#page/331/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pohl, Julius (1861-1939), German botanist; professor of pharmacology at the German University of Prag (1895). (*Jul. Pohl*).
+Pohl, Julius (1861-1939), German botanist; professor of pharmacology at the German University of Prag (1895). 
+**Abbreviated name**: *Jul. Pohl*
 
 #### Herbarium and types
 

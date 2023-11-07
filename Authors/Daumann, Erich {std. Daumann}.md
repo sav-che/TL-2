@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/103833#page/99/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33259133) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daumann, Erich (1905-1978), Czech botanist, in several ranks at the Botanical Institute at Prague as assistant, assistant professor and professor, worked on experimental flower ecology. (*Daumann*).
+Daumann, Erich (1905-1978), Czech botanist, in several ranks at the Botanical Institute at Prague as assistant, assistant professor and professor, worked on experimental flower ecology. 
+**Abbreviated name**: *Daumann*
 
 #### Herbarium and types
 

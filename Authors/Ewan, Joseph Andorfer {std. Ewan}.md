@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/103835#page/446/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33260424) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ewan, Joseph Andorfer (1909-x), American botanist, bibliographer and historian born 24 Oct 1909 at Philadelphia, studied at the University of California, AB 1934, 1933-1937 assistant phanerogamic botany California, instructor biology Colorado 1937-1944, botanist in Colombia 1944-1945, assistant curator Smithsonian Institution 1945-1946, U.S.D.A. 1946-1947, assistant professor botany Tulane University, New Orleans 1947-1952, associate professor from 1952. (*Ewan*).
+Ewan, Joseph Andorfer (1909-x), American botanist, bibliographer and historian born 24 Oct 1909 at Philadelphia, studied at the University of California, AB 1934, 1933-1937 assistant phanerogamic botany California, instructor biology Colorado 1937-1944, botanist in Colombia 1944-1945, assistant curator Smithsonian Institution 1945-1946, U.S.D.A. 1946-1947, assistant professor botany Tulane University, New Orleans 1947-1952, associate professor from 1952. 
+**Abbreviated name**: *Ewan*
 
 #### Herbarium and types
 

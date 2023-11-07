@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/item/103834#page/262/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259744) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Flahault, Charles Henri Marie {std. Flahault}|first entry]] for this author
 
 ### Author
 
-\* Flahault, Charles \[Henri Marie\] (1852-1935), French botanist, born 3 Oct 1852 in Bailleul (Nord), B.A. 1872 Douai (Nord), gardener, Jardin des Plantes, Paris 1872 and studied under J. Decaisne and P.É.L. van Tieghem at the Muséum natl. d'Histoire naturelle, Paris, "préparateur", Faculty of Sciences, Paris 1878, Dr. ès-sciences 1878 Paris, collaborated and traveled with Éd. Bornet, "chargé de cours", Faculty of Sciences 1881, Prof. of Botany 1883 and founder, inst. of botany 1890, all at Montpellier, awarded Prix Gay 1897 for his studies of the French Mediterranean, vice-president, 1st Intl. Botanical Congr., Paris 1900, Académie des Sciences 1918, reorganized the botanical inst., Strasbourg 1919-1920, retired 1927, Académie d'agriculture de France, Corr. Member, B.S.A., Dr. h.c. Univ. of Uppsala, died 3 Feb 1935 in Montpellier. (*Flahault*).
+\* Flahault, Charles \[Henri Marie\] (1852-1935), French botanist, born 3 Oct 1852 in Bailleul (Nord), B.A. 1872 Douai (Nord), gardener, Jardin des Plantes, Paris 1872 and studied under J. Decaisne and P.É.L. van Tieghem at the Muséum natl. d'Histoire naturelle, Paris, "préparateur", Faculty of Sciences, Paris 1878, Dr. ès-sciences 1878 Paris, collaborated and traveled with Éd. Bornet, "chargé de cours", Faculty of Sciences 1881, Prof. of Botany 1883 and founder, inst. of botany 1890, all at Montpellier, awarded Prix Gay 1897 for his studies of the French Mediterranean, vice-president, 1st Intl. Botanical Congr., Paris 1900, Académie des Sciences 1918, reorganized the botanical inst., Strasbourg 1919-1920, retired 1927, Académie d'agriculture de France, Corr. Member, B.S.A., Dr. h.c. Univ. of Uppsala, died 3 Feb 1935 in Montpellier. 
+**Abbreviated name**: *Flahault*
 
 #### Herbarium and types
 

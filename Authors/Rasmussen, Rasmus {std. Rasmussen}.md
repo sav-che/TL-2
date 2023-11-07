@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/item/103624#page/595/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33190052) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rasmussen, Rasmus (1871-1962), Danish botanist of the Faroe Islands, born in Midvåg, carpenter, teacher, writer. (*Rasmussen*).
+Rasmussen, Rasmus (1871-1962), Danish botanist of the Faroe Islands, born in Midvåg, carpenter, teacher, writer. 
+**Abbreviated name**: *Rasmussen*
 
 #### Herbarium and types
 

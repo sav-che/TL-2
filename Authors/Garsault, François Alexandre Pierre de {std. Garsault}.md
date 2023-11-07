@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/item/103414#page/966/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/page/33121049) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Garsault, François Alexandre (Pierre) de {std. Garsault} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Garsault, François Alexandre Pierre de (1691-1778), French botanical artist. (*Garsault*).
+Garsault, François Alexandre Pierre de (1691-1778), French botanical artist. 
+**Abbreviated name**: *Garsault*
 
 #### Herbarium and types
 

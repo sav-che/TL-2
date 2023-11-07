@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/item/103832#page/420/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33258886) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Grøntved \[Gröntved\], Johannes (1882-1956), Danish floristic botanist, born 25 Jan 1882 in Mygdad, Ph.D. 1917 Copenhagen, amanuensis in Botanical Museum 1918-1934, died 11 Jul 1956. (*Grøntved*).
+Grøntved \[Gröntved\], Johannes (1882-1956), Danish floristic botanist, born 25 Jan 1882 in Mygdad, Ph.D. 1917 Copenhagen, amanuensis in Botanical Museum 1918-1934, died 11 Jul 1956. 
+**Abbreviated name**: *Grøntved*
 
 #### Note
 

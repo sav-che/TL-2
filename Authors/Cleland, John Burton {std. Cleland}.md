@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103860#page/211/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33265878) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cleland, John Burton (1878-1971), Australian microbiologist, pathologist and bacterialogist, educated at the Prince Alfred College Adelaide, Bachelor of medicine Sydney Univ. 1900, worked on tropical medicine and cancer research, scholar at the London Hospital 1904-1905, government pathologist W. Australia 1906-1909, principal microbiologist Dept. Public Health NSW 1913-1919, professor of pathology at Adelaide University 1919-1949, emeritus id. 1949. (*Cleland*).
+Cleland, John Burton (1878-1971), Australian microbiologist, pathologist and bacterialogist, educated at the Prince Alfred College Adelaide, Bachelor of medicine Sydney Univ. 1900, worked on tropical medicine and cancer research, scholar at the London Hospital 1904-1905, government pathologist W. Australia 1906-1909, principal microbiologist Dept. Public Health NSW 1913-1919, professor of pathology at Adelaide University 1919-1949, emeritus id. 1949. 
+**Abbreviated name**: *Cleland*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/item/104077#page/637/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sismonda, Eugenio (1815-1870), Italian palaeontologist; Dr. med. Torino 1839. (*Sismonda*).
+Sismonda, Eugenio (1815-1870), Italian palaeontologist; Dr. med. Torino 1839. 
+**Abbreviated name**: *Sismonda*
 
 #### Herbarium and types
 

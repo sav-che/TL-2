@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103835#page/316/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33260294) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ellacombe, \[Rev.\] Henry Nicholson (1822-1916), British clergyman very much interested in botany, born 18 Feb 1822 in Bitton (Glos.), BA at Oxford 1844, Rector of Bitton 1850, Hon. Canon of Bristol 1880, had a well-known garden and was known in the horticultural world, died 7 Feb 1916 at Bitton. (*Ellacombe*).
+Ellacombe, \[Rev.\] Henry Nicholson (1822-1916), British clergyman very much interested in botany, born 18 Feb 1822 in Bitton (Glos.), BA at Oxford 1844, Rector of Bitton 1850, Hon. Canon of Bristol 1880, had a well-known garden and was known in the horticultural world, died 7 Feb 1916 at Bitton. 
+**Abbreviated name**: *Ellacombe*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/item/104077#page/881/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33334006) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stefani, Carlo de \[De Stefani\] (1851-1924), Italian lawyer, economist and geologist; practicing lawyer Firenze 1872-1876; professor of economics Siena 1876, later director of the Geological Institute at Firenze. (*Stef.*).
+Stefani, Carlo de \[De Stefani\] (1851-1924), Italian lawyer, economist and geologist; practicing lawyer Firenze 1872-1876; professor of economics Siena 1876, later director of the Geological Institute at Firenze. 
+**Abbreviated name**: *Stef.*
 
 #### Herbarium and types
 

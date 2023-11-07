@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/item/103832#page/318/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33258784) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goodspeed, Thomas Harper ('Harper') (1887-1966), American botanist specializing in *Nicotiana*, born 17 Mai 1887 in Springfield, Mass., studied briefly at Gaillard College, Lausanne, Switzerland, A.B. 1909 Brown Univ., Providence, Rhode Island, Ph.D. 1912 Univ. of Calif. at Berkeley, instructor in Botany 1912, asst. prof. 1916, assoc. prof. 1920 and prof. 1928, all Univ. of Calif. at Berkeley, curator 1926 and first dir. 1934 of revived and expanded Botanic Garden in Berkeley, from which he launched collecting trips to the Andes, Dr. h.c. 1940 Brown Univ. and 1943 Univ. of La Plata (Argentina), hon. Sc.D. 1957 Univ. of Cuzco (Peru), numerous other honors, retired 1957, died 17 Mai 1966 in Calistoga, Calif. (*Goodspeed*).
+Goodspeed, Thomas Harper ('Harper') (1887-1966), American botanist specializing in *Nicotiana*, born 17 Mai 1887 in Springfield, Mass., studied briefly at Gaillard College, Lausanne, Switzerland, A.B. 1909 Brown Univ., Providence, Rhode Island, Ph.D. 1912 Univ. of Calif. at Berkeley, instructor in Botany 1912, asst. prof. 1916, assoc. prof. 1920 and prof. 1928, all Univ. of Calif. at Berkeley, curator 1926 and first dir. 1934 of revived and expanded Botanic Garden in Berkeley, from which he launched collecting trips to the Andes, Dr. h.c. 1940 Brown Univ. and 1943 Univ. of La Plata (Argentina), hon. Sc.D. 1957 Univ. of Cuzco (Peru), numerous other honors, retired 1957, died 17 Mai 1966 in Calistoga, Calif. 
+**Abbreviated name**: *Goodspeed*
 
 #### Herbarium and types
 

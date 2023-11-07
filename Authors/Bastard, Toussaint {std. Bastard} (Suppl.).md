@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/item/103858#page/379/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33265094) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bastard, Toussaint {std. Bastard}|first entry]] for this author
 
 ### Author
 
-\* Bastard, Toussaint (1784-1846), French physician and botanist, born at Chalonnes-sur-Loire (2 Feb 1784), studied medicine in Paris, internal physician at the Hôtel-Dieu, Angers, director of the Jardin des Plantes d'Angers 1807-1816, in addition curator of the Musée d'Histoire naturelle, Angers, 1809, with Napoléon during the "cent jours", continued his medical studies in Paris 1816-1817, Dr. med. ib. 1817, established himself at Chalonnes, practicing medicine 1817-1846, travelled widely in the Languedoc 1821. (*Bastard*).
+\* Bastard, Toussaint (1784-1846), French physician and botanist, born at Chalonnes-sur-Loire (2 Feb 1784), studied medicine in Paris, internal physician at the Hôtel-Dieu, Angers, director of the Jardin des Plantes d'Angers 1807-1816, in addition curator of the Musée d'Histoire naturelle, Angers, 1809, with Napoléon during the "cent jours", continued his medical studies in Paris 1816-1817, Dr. med. ib. 1817, established himself at Chalonnes, practicing medicine 1817-1846, travelled widely in the Languedoc 1821. 
+**Abbreviated name**: *Bastard*
 
 #### Herbarium and types
 

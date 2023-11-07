@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103683#page/199/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33212231) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, Joseph (ca. 1762-1844), British naturalist; author of Newington Butts, Surrey. (*Jos. Tayl.*).
+Taylor, Joseph (ca. 1762-1844), British naturalist; author of Newington Butts, Surrey. 
+**Abbreviated name**: *Jos. Tayl.*
 
 #### Herbarium and types
 

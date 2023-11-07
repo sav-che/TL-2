@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103860#page/73/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265740) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chatel, Rémy (1850-?), French pharmacist and botanist, born 4 Oct 1850, Saint-Denis, Réunion, thèse de pharmacie 10 Aug 1880. (*R. Chatel*).
+Chatel, Rémy (1850-?), French pharmacist and botanist, born 4 Oct 1850, Saint-Denis, Réunion, thèse de pharmacie 10 Aug 1880. 
+**Abbreviated name**: *R. Chatel*
 
 #### Herbarium and types
 

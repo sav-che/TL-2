@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/104137#page/193/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33355264) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lowe, Josiah Lincoln (1905-x), American lichenologist and mycologist at Syracuse; Ph. D. Mich. Univ. 1938; assistant botanist Syracuse 1933-1938; Instructor ib. 1938-1944; assistant professor ib. 1944-1947; associate professor 1947-1951; professor of forest botany 1952-1959; research prof. 1959. (*J. Lowe*).
+Lowe, Josiah Lincoln (1905-x), American lichenologist and mycologist at Syracuse; Ph. D. Mich. Univ. 1938; assistant botanist Syracuse 1933-1938; Instructor ib. 1938-1944; assistant professor ib. 1944-1947; associate professor 1947-1951; professor of forest botany 1952-1959; research prof. 1959. 
+**Abbreviated name**: *J. Lowe*
 
 #### Herbarium and types
 

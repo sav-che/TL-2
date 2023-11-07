@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/103832#page/114/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33258580) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gaillard, Albert {std. Gaillard}|first entry]] for this author
 
 ### Author
 
-\* Gaillard, Albert (1858-1903), French pharmacist and mycologist, born 5 Sep 1858 in Neuillysur-Seine nr. Paris, curator of the Lloyd herbarium, Angers (Maine-et-Loire), collected in Venezuela 1887, Lauréat de l'Institut de France (Paris), died 28 Jul 1903 in Angers. (*Gaillard*).
+\* Gaillard, Albert (1858-1903), French pharmacist and mycologist, born 5 Sep 1858 in Neuillysur-Seine nr. Paris, curator of the Lloyd herbarium, Angers (Maine-et-Loire), collected in Venezuela 1887, Lauréat de l'Institut de France (Paris), died 28 Jul 1903 in Angers. 
+**Abbreviated name**: *Gaillard*
 
 #### Herbarium and types
 

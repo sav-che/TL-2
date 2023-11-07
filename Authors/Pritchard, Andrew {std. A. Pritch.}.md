@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/item/103624#page/422/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33189879) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pritchard, Andrew (1804-1882), British microscopist and naturalist; until 1852 running an optical establishment in London, from then on dedicating himself fully to his biological-microscopical interests. (*A. Pritch.*).
+Pritchard, Andrew (1804-1882), British microscopist and naturalist; until 1852 running an optical establishment in London, from then on dedicating himself fully to his biological-microscopical interests. 
+**Abbreviated name**: *A. Pritch.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/item/103860#page/446/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33266113) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cowles, Henry Chandler (1869-1939), American botanist, born at Kensington, Connecticut, attended Oberlin College, graduated 1893, instructor of natural science of Gates College at Waterloo, Iowa 1894-1895, had a graduate fellowship at the University of Chicago 1895-1896, with J.M. Coulter ib. Ph.D. 1898, D.Sc. 1923, professor in the department 1911, chairman 1925, retired 1934, died in Chicago. (*Cowles*).
+Cowles, Henry Chandler (1869-1939), American botanist, born at Kensington, Connecticut, attended Oberlin College, graduated 1893, instructor of natural science of Gates College at Waterloo, Iowa 1894-1895, had a graduate fellowship at the University of Chicago 1895-1896, with J.M. Coulter ib. Ph.D. 1898, D.Sc. 1923, professor in the department 1911, chairman 1925, retired 1934, died in Chicago. 
+**Abbreviated name**: *Cowles*
 
 #### Herbarium and types
 

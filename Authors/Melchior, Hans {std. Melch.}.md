@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/104137#page/425/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33355496) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Melchior, Hans (1894-x), German botanist; student of Engler; 1917 assistant with G. Haberlandt, Berlin; Dr. phil. Berlin 1920; at the Botanical Museum as Assistant 1920; Oberassistent 1929; Kustos 1932-1955; from 1940 professor; Wissenschaftlicher Oberrat 1955; kommissarischer Leiter 1958-1959. (*Melch.*).
+Melchior, Hans (1894-x), German botanist; student of Engler; 1917 assistant with G. Haberlandt, Berlin; Dr. phil. Berlin 1920; at the Botanical Museum as Assistant 1920; Oberassistent 1929; Kustos 1932-1955; from 1940 professor; Wissenschaftlicher Oberrat 1955; kommissarischer Leiter 1958-1959. 
+**Abbreviated name**: *Melch.*
 
 #### Herbarium and types
 

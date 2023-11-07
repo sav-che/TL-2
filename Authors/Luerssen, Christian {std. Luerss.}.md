@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/104137#page/202/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Luerssen, Christian (1843-1916), German botanist; Dr. phil. Jena 1866; lecturer at Leipzig 1869-1884; at the forestry school of Eberswalde 1884-1888; professor of botany at Königsberg 1888-1910. (*Luerss.*).
+Luerssen, Christian (1843-1916), German botanist; Dr. phil. Jena 1866; lecturer at Leipzig 1869-1884; at the forestry school of Eberswalde 1884-1888; professor of botany at Königsberg 1888-1910. 
+**Abbreviated name**: *Luerss.*
 
 #### Herbarium and types
 

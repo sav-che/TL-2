@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/item/103860#page/503/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33266170) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cufino, Luigi (1884-?), Italian botanist, born at Napoli, "secrétaire de la Società Africana d’Italia" from 1908, "vice-secrétaire de la Società di Naturalisti di Napoli", visited the environs of Tripoli 20 Mai – 25 Jun 1906, collecting for the Botanical Institute at Napoli. (*Cufino*).
+Cufino, Luigi (1884-?), Italian botanist, born at Napoli, "secrétaire de la Società Africana d’Italia" from 1908, "vice-secrétaire de la Società di Naturalisti di Napoli", visited the environs of Tripoli 20 Mai – 25 Jun 1906, collecting for the Botanical Institute at Napoli. 
+**Abbreviated name**: *Cufino*
 
 #### Herbarium and types
 

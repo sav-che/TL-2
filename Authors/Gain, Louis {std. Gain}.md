@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/item/103832#page/116/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33258582) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gain, Louis (1883-1963), French naturalist (ornithologist and algologist) and meteorologist, naturalist aboard the *Pourquoi Pas?* on Jean-Baptiste Auguste Étienne Charcot's 2nd Exped. to the Antarctic 1908-1910, also sailed (1911-1912) on the *Hirondelle II*, which had been built for oceanographic research by Prince Albert I (1848-1922) of Monaco, Dr. ès-sciences 1912 Paris, "préparateur" to the Prof. of Comparative Anatomy, Muséum natl. d'Histoire naturelle, Paris 1913, after W.W.-I employed as a meteorologist becoming asst.-dir., national office of meteorology, retired 1952. (*Gain*).
+Gain, Louis (1883-1963), French naturalist (ornithologist and algologist) and meteorologist, naturalist aboard the *Pourquoi Pas?* on Jean-Baptiste Auguste Étienne Charcot's 2nd Exped. to the Antarctic 1908-1910, also sailed (1911-1912) on the *Hirondelle II*, which had been built for oceanographic research by Prince Albert I (1848-1922) of Monaco, Dr. ès-sciences 1912 Paris, "préparateur" to the Prof. of Comparative Anatomy, Muséum natl. d'Histoire naturelle, Paris 1913, after W.W.-I employed as a meteorologist becoming asst.-dir., national office of meteorology, retired 1952. 
+**Abbreviated name**: *Gain*
 
 #### Herbarium and types
 

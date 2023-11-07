@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/item/103414#page/471/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33120554) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Caffin, Jacques-François {std. Caffin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Caffin, Jacques François (1778-1854), French botanist. (*Caffin*).
+Caffin, Jacques François (1778-1854), French botanist. 
+**Abbreviated name**: *Caffin*
 
 #### Herbarium and types
 

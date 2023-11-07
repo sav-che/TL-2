@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/item/103858#page/274/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33264989) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bailey, Irving Widmer {std. I.W. Bailey}|first entry]] for this author
 
 ### Author
 
-\* Bailey, Irving Widmer (1884-1967), American botanist, anatomist at the Bussey Institution of Harvard University, studied at Harvard University, A.B. 1907, M.F. 1909. (*I.W. Bailey*).
+\* Bailey, Irving Widmer (1884-1967), American botanist, anatomist at the Bussey Institution of Harvard University, studied at Harvard University, A.B. 1907, M.F. 1909. 
+**Abbreviated name**: *I.W. Bailey*
 
 #### Herbarium and types
 

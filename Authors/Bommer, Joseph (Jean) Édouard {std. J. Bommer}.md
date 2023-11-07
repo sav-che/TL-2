@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103414#page/316/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33120399) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bommer, Jean-Édouard {std. J. Bommer} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bommer, Joseph (Jean) Édouard (1829-1895), Belgian pteridologist at Bruxelles. (*J. Bommer*).
+Bommer, Joseph (Jean) Édouard (1829-1895), Belgian pteridologist at Bruxelles. 
+**Abbreviated name**: *J. Bommer*
 
 #### Herbarium and types
 

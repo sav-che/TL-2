@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103683#page/68/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33212062) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stützer, Olga (*fl*. 1935), German botanist from Mainz. (*Stützer*).
+Stützer, Olga (*fl*. 1935), German botanist from Mainz. 
+**Abbreviated name**: *Stützer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/item/103624#page/579/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33190036) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raineri, Rita (1896-x), Italian botanist and paleontologist at Torino. (*Raineri*).
+Raineri, Rita (1896-x), Italian botanist and paleontologist at Torino. 
+**Abbreviated name**: *Raineri*
 
 #### Herbarium and types
 

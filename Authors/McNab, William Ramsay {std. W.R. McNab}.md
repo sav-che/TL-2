@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/item/104137#page/247/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33355318) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McNab, William Ramsay (1844-1889), Scottish botanist; M. D. Edin. 1866, professor of botany, Royal College of Science Dublin 1872-1889; scientific superintendent of Botanic Gardens, Glasnevin, 1880-1889. (*W. R. McNab*).
+McNab, William Ramsay (1844-1889), Scottish botanist; M. D. Edin. 1866, professor of botany, Royal College of Science Dublin 1872-1889; scientific superintendent of Botanic Gardens, Glasnevin, 1880-1889. 
+**Abbreviated name**: *W. R. McNab*
 
 #### Herbarium and types
 

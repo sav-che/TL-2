@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/item/104137#page/206/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33355277) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Luetzelburg, Philipp von (1880-1948), German botanist and explorer; Dr. phil. München 1909; collected extensively in northeastern Brazil 1910-1922, 1935-1937 and, with Rondon (1928-1929) in Amazonia; back in Germany 1922-1924, and 1937-1948. (*Luetzelb.*).
+Luetzelburg, Philipp von (1880-1948), German botanist and explorer; Dr. phil. München 1909; collected extensively in northeastern Brazil 1910-1922, 1935-1937 and, with Rondon (1928-1929) in Amazonia; back in Germany 1922-1924, and 1937-1948. 
+**Abbreviated name**: *Luetzelb.*
 
 #### Herbarium and types
 

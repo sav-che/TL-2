@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/104077#page/177/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33333302) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schimper, Georg \[Heinrich\] Wilhelm (1804-1878), German (Baden) botanist and plant collector; brother of Karl Friedrich Schimper; collected for the Esslinger Reiseverein in S. France and Algeria 1831; in Egypt and Arabia 1834-1836; in Abyssinia from 1837; became Abyssinian, married a daughter of Ras Ubies and became governor of the district of Antitscho 1840-1855; living on his collecting from 1855. (*G.W. Schimp.*).
+Schimper, Georg \[Heinrich\] Wilhelm (1804-1878), German (Baden) botanist and plant collector; brother of Karl Friedrich Schimper; collected for the Esslinger Reiseverein in S. France and Algeria 1831; in Egypt and Arabia 1834-1836; in Abyssinia from 1837; became Abyssinian, married a daughter of Ras Ubies and became governor of the district of Antitscho 1840-1855; living on his collecting from 1855. 
+**Abbreviated name**: *G.W. Schimp.*
 
 #### Herbarium and types
 

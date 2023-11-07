@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103832#page/175/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33258641) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gedner, Christophor \[Eliasson\] (1729-1773), Swedish student of Linnaeus, born 24 Jul 1729 in Vittinge, Uppland, at Uppsala Univ. 1743, in Berlin 1755, died 3 Mai 1773 in Karlstad. (*Gedner*).
+Gedner, Christophor \[Eliasson\] (1729-1773), Swedish student of Linnaeus, born 24 Jul 1729 in Vittinge, Uppland, at Uppsala Univ. 1743, in Berlin 1755, died 3 Mai 1773 in Karlstad. 
+**Abbreviated name**: *Gedner*
 
 #### Herbarium and types
 

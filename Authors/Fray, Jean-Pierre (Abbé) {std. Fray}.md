@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103834#page/417/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33259899) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fray, Jean-Pierre (Abbé) (1832-1905), French priest and botanist, born 11 Sep 1832 in Villeneuve (Ain), secondary school teacher at the college in Thoissey 1857-1870, chaplain ("aumônier") at the normal school in Bourg 1870-1882, spiritual dir. of the inst. St.-Pierre of Bourg 1882-1884, and finally parish priest in Laiz 1884-1887 and Guéreins 1887-1901, retired to Pont-d'Ain (Ain) 1901 where he died 2 Mar 1905. (*Fray*).
+Fray, Jean-Pierre (Abbé) (1832-1905), French priest and botanist, born 11 Sep 1832 in Villeneuve (Ain), secondary school teacher at the college in Thoissey 1857-1870, chaplain ("aumônier") at the normal school in Bourg 1870-1882, spiritual dir. of the inst. St.-Pierre of Bourg 1882-1884, and finally parish priest in Laiz 1884-1887 and Guéreins 1887-1901, retired to Pont-d'Ain (Ain) 1901 where he died 2 Mar 1905. 
+**Abbreviated name**: *Fray*
 
 #### Herbarium and types
 

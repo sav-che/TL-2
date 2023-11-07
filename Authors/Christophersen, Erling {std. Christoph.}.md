@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/item/103860#page/175/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265842) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Christophersen, Erling (1898-x), Norwegian botanist, studied at Yale University with Ph.D. in 1924, Fellow with the Bishop Museum, Honolulu 1924-1925, at the University of Oslo on the staff of the Botanic Garden 1925-1929, botanist at the Bishop Museum and professor of botany at Honolulu 1929-1933, from 1933 curator at the Botanical Museum, Oslo, on an expedition to Tristan da Cunha 1937-1938, from 1947 cultural attaché to the Royal Norwegian Embassy at Washington D.C. (*Christoph.*).
+Christophersen, Erling (1898-x), Norwegian botanist, studied at Yale University with Ph.D. in 1924, Fellow with the Bishop Museum, Honolulu 1924-1925, at the University of Oslo on the staff of the Botanic Garden 1925-1929, botanist at the Bishop Museum and professor of botany at Honolulu 1929-1933, from 1933 curator at the Botanical Museum, Oslo, on an expedition to Tristan da Cunha 1937-1938, from 1947 cultural attaché to the Royal Norwegian Embassy at Washington D.C. 
+**Abbreviated name**: *Christoph.*
 
 #### Herbarium and types
 

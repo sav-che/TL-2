@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103624#page/142/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33189599) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Payrau, Vincent (*fl*. 1900), French botanist and pharmacist, Dr. pharm., Paris, 1900, resident pharmacist of the Paris hospitals. (*Payrau*).
+Payrau, Vincent (*fl*. 1900), French botanist and pharmacist, Dr. pharm., Paris, 1900, resident pharmacist of the Paris hospitals. 
+**Abbreviated name**: *Payrau*
 
 #### Herbarium and types
 

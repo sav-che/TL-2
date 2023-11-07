@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/item/104137#page/756/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33355827) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nichols, George Elwood (1882-1939), American bryologist and ecologist; Dr. phil. Yale 1909; with Yale from 1904 as assistant, instructor (1909), ass. professor (1915), assoc. professor (1924), Eaton professor of botany 1926-1939. (*Nichols*).
+Nichols, George Elwood (1882-1939), American bryologist and ecologist; Dr. phil. Yale 1909; with Yale from 1904 as assistant, instructor (1909), ass. professor (1915), assoc. professor (1924), Eaton professor of botany 1926-1939. 
+**Abbreviated name**: *Nichols*
 
 #### Herbarium and types
 

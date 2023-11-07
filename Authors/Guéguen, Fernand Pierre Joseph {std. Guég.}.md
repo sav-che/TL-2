@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/item/103414#page/1066/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guéguen, Fernand Pierre Joseph (1872-1915), French mycologist. (*Guég.*).
+Guéguen, Fernand Pierre Joseph (1872-1915), French mycologist. 
+**Abbreviated name**: *Guég.*
 
 #### Herbarium and types
 

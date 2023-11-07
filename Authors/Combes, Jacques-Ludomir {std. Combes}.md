@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103860#page/293/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33265960) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Combes, Jacques-Ludomir (1824-1892), Franch pharmacist and botanist at Fumel, interested in botany and paleontology of the Haut-Agenais and Lot-et-Garonne. (*Combes*).
+Combes, Jacques-Ludomir (1824-1892), Franch pharmacist and botanist at Fumel, interested in botany and paleontology of the Haut-Agenais and Lot-et-Garonne. 
+**Abbreviated name**: *Combes*
 
 #### Herbarium and types
 

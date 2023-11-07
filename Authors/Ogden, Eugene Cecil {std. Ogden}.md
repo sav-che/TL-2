@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/item/104137#page/829/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ogden, Eugene Cecil (1905-x), American botanist; Dr. phil. Univ. Maine 1938; in various functions at the University of Maine 1938-1952; from 1952 State Botanist of New York. (*Ogden*).
+Ogden, Eugene Cecil (1905-x), American botanist; Dr. phil. Univ. Maine 1938; in various functions at the University of Maine 1938-1952; from 1952 State Botanist of New York. 
+**Abbreviated name**: *Ogden*
 
 #### Herbarium and types
 

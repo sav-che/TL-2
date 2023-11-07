@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/item/103414#page/592/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33120675) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cooper, Daniel, A. {std. Cooper} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cooper, Daniel (1817?-1842), British botanist. (*Cooper*).
+Cooper, Daniel (1817?-1842), British botanist. 
+**Abbreviated name**: *Cooper*
 
 #### Herbarium and types
 

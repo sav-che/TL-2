@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103860#page/521/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cupp, Easter E. (1904-?), American diatomist at Scripps Institution of Oceanography, University of California, La Jolla, California. (*Cupp*).
+Cupp, Easter E. (1904-?), American diatomist at Scripps Institution of Oceanography, University of California, La Jolla, California. 
+**Abbreviated name**: *Cupp*
 
 #### Herbarium and types
 

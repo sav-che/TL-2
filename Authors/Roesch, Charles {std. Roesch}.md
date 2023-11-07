@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/item/103624#page/867/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33190324) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roesch, Charles (*fl*. 1894), French (Alsatian) diatomologist. (*Roesch*).
+Roesch, Charles (*fl*. 1894), French (Alsatian) diatomologist. 
+**Abbreviated name**: *Roesch*
 
 #### Herbarium and types
 

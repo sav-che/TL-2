@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103624#page/260/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33189717) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pia, Julius \[von\] (1887-1943), Austrian palaeobotanist; Dr. phil. Wien 1911; in various functions at the Natural History Museum ib. from 1913 (Volontär), 1916 (assistant), 1928 (Kustos I. Klasse). (*Pia*).
+Pia, Julius \[von\] (1887-1943), Austrian palaeobotanist; Dr. phil. Wien 1911; in various functions at the Natural History Museum ib. from 1913 (Volontär), 1916 (assistant), 1928 (Kustos I. Klasse). 
+**Abbreviated name**: *Pia*
 
 #### Collections
 

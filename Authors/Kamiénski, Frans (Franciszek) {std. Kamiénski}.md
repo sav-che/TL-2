@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/item/103253#page/518/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kamiénski, Frans (Franciszek) (1851-1912), Polish botanist, sometime director of the Odessa botanical garden. (*Kamiénski*).
+Kamiénski, Frans (Franciszek) (1851-1912), Polish botanist, sometime director of the Odessa botanical garden. 
+**Abbreviated name**: *Kamiénski*
 
 #### Herbarium and types
 

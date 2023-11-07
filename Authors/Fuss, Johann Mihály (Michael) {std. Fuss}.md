@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/item/103414#page/948/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/page/33121031) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fuss, Johann Mihály (Michael) (1814-1883), Transsylvanian botanist, originally teacher at Hermannstadt, later preacher at Giresau, then at Gross-Scheuern. (*Fuss*).
+Fuss, Johann Mihály (Michael) (1814-1883), Transsylvanian botanist, originally teacher at Hermannstadt, later preacher at Giresau, then at Gross-Scheuern. 
+**Abbreviated name**: *Fuss*
 
 #### Herbarium and types
 

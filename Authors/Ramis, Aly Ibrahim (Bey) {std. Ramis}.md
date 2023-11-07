@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/item/103624#page/585/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33190042) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramis, Aly Ibrahim (Bey) (1875-1928), Egyptian physician and botanist; Dr. med. München 1901; physician in Cairo 1903-1928; professor of surgery Cairo University. (*Ramis*).
+Ramis, Aly Ibrahim (Bey) (1875-1928), Egyptian physician and botanist; Dr. med. München 1901; physician in Cairo 1903-1928; professor of surgery Cairo University. 
+**Abbreviated name**: *Ramis*
 
 #### Herbarium and types
 

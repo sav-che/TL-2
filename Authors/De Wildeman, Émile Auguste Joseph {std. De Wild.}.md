@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/item/103414#page/687/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/page/33120770) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[De Wildeman, Émile Auguste Joseph {std. De Wild.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-De Wildeman, Émile Auguste Joseph (1866-1947); Belgian botanist, long time director of the Jardin botanique de 1'État at Bruxelles, pioneer botanist of the study of the Congolese flora. (*De Wild.*).
+De Wildeman, Émile Auguste Joseph (1866-1947); Belgian botanist, long time director of the Jardin botanique de 1'État at Bruxelles, pioneer botanist of the study of the Congolese flora. 
+**Abbreviated name**: *De Wild.*
 
 #### Herbarium and types
 

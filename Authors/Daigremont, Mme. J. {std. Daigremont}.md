@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/item/103833#page/34/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259068) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Daigremont, Mme. J. (fl. 1908-1915), French botanist interested in the culture of alpine plants. (*Daigremont*).
+Daigremont, Mme. J. (fl. 1908-1915), French botanist interested in the culture of alpine plants. 
+**Abbreviated name**: *Daigremont*
 
 #### Herbarium and types
 

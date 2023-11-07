@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/item/103861#page/214/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Budde, Herrmann (1890-1954), German botanist, algologist and pollen analyst, student of the Westphalian bogs and phytosociologist, school teacher, later lecturer at a teacher's training college, subsequently lecturer and professor at the University of Münster. (*Budde*).
+Budde, Herrmann (1890-1954), German botanist, algologist and pollen analyst, student of the Westphalian bogs and phytosociologist, school teacher, later lecturer at a teacher's training college, subsequently lecturer and professor at the University of Münster. 
+**Abbreviated name**: *Budde*
 
 #### Herbarium and types
 

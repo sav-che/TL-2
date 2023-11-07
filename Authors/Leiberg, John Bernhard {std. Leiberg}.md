@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/item/103253#page/850/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33069066) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leiberg, John Bernhard (1853-1913), Swedish-born botanist; moved to America after 1868; settled near Lake Coeur d'Alene, Idaho 1888; collector and explorer for the U.S. Department of Agriculture (1895-1896), for the U.S. Geological Survey (1897-1903); forestry inspector in the Phillippines 1904-1905, 1905-1906 id. in Western U.S.; made a trip around the world in 1909. (*Leiberg*).
+Leiberg, John Bernhard (1853-1913), Swedish-born botanist; moved to America after 1868; settled near Lake Coeur d'Alene, Idaho 1888; collector and explorer for the U.S. Department of Agriculture (1895-1896), for the U.S. Geological Survey (1897-1903); forestry inspector in the Phillippines 1904-1905, 1905-1906 id. in Western U.S.; made a trip around the world in 1909. 
+**Abbreviated name**: *Leiberg*
 
 #### Herbarium and types
 

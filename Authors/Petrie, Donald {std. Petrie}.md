@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103624#page/223/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33189680) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petrie, Donald (1846-1925), Scottish botanist; M.A. Aberdeen 1867; to Australia 1868, teacher at Scotch College, Melbourne; inspector of schools Otago prov. govt., New Zealand 1874; chief inspector of schools, Auckland 1894. (*Petrie*).
+Petrie, Donald (1846-1925), Scottish botanist; M.A. Aberdeen 1867; to Australia 1868, teacher at Scotch College, Melbourne; inspector of schools Otago prov. govt., New Zealand 1874; chief inspector of schools, Auckland 1894. 
+**Abbreviated name**: *Petrie*
 
 #### Herbarium and types
 

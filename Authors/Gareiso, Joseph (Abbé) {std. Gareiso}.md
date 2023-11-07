@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/item/103832#page/140/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33258606) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gareiso, Joseph (Abbé) (1805-1885), French cleric and botanist, born 31 Mar 1805 in Pont-Saint-Esprit (Gard), studied in Avignon and Nîmes, ordained as a priest 1828, served in different functions and parishes in Dépt. Gard, Prof. of Canon Law 1840-1853 and Superior 1853-1877 of the Grand séminaire, Nîmes, "Vicaire général" of Nîmes diocese 1877, died 5 Feb 1885 in Nîmes. (*Gareiso*).
+Gareiso, Joseph (Abbé) (1805-1885), French cleric and botanist, born 31 Mar 1805 in Pont-Saint-Esprit (Gard), studied in Avignon and Nîmes, ordained as a priest 1828, served in different functions and parishes in Dépt. Gard, Prof. of Canon Law 1840-1853 and Superior 1853-1877 of the Grand séminaire, Nîmes, "Vicaire général" of Nîmes diocese 1877, died 5 Feb 1885 in Nîmes. 
+**Abbreviated name**: *Gareiso*
 
 #### Herbarium and types
 

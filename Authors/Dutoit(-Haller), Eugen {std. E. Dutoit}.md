@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/item/103835#page/222/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33260200) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dutoit\[-Haller\], Eugen (1837-1921), Swiss physician, born 25 Jul 1837 at Milden, visited schools in Bern, studied medicine at the University of Bern and shortly Geneva, went for further studies to Paris, London, Edinburgh, Prague, Vienna, and Berlin, worked for 30 years as physician at Bern, was since his boyhood interested in botany as well, honorary member Naturf. Gesellschaft Bern, died 3 Jan 1921. (*E. Dutoit*).
+Dutoit\[-Haller\], Eugen (1837-1921), Swiss physician, born 25 Jul 1837 at Milden, visited schools in Bern, studied medicine at the University of Bern and shortly Geneva, went for further studies to Paris, London, Edinburgh, Prague, Vienna, and Berlin, worked for 30 years as physician at Bern, was since his boyhood interested in botany as well, honorary member Naturf. Gesellschaft Bern, died 3 Jan 1921. 
+**Abbreviated name**: *E. Dutoit*
 
 #### Herbarium and types
 

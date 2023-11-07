@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/item/103858#page/254/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33264969) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Backman, Albin Lonnart (1880-?), Finnish forester and botanist. (*A.L. Backm.*).
+Backman, Albin Lonnart (1880-?), Finnish forester and botanist. 
+**Abbreviated name**: *A.L. Backm.*
 
 #### Herbarium and types
 

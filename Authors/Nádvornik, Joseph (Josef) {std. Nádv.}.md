@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/item/104137#page/697/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nádvornik, Joseph (Josef) (1906-1977), Czechoslovak lichenologist and high school teacher (from 1925-1966) at Uzhgorod, Hlinsko and Praha. (*Nádv.*).
+Nádvornik, Joseph (Josef) (1906-1977), Czechoslovak lichenologist and high school teacher (from 1925-1966) at Uzhgorod, Hlinsko and Praha. 
+**Abbreviated name**: *Nádv.*
 
 #### Herbarium and types
 

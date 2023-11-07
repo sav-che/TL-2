@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/item/103253#page/71/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hanin, L. (*fl*. 1800), French botanist and physician. (*Hanin*).
+Hanin, L. (*fl*. 1800), French botanist and physician. 
+**Abbreviated name**: *Hanin*
 
 #### Herbarium and types
 

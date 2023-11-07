@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103250#page/102/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33066382) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wallis, John (1714-1793), Britsh clergyman, county historian and naturalist; MA Oxford 1740, curate at Simonburn c. 1746-1772, at Billingham 1776-1792. (*J. Wallis*).
+Wallis, John (1714-1793), Britsh clergyman, county historian and naturalist; MA Oxford 1740, curate at Simonburn c. 1746-1772, at Billingham 1776-1792. 
+**Abbreviated name**: *J. Wallis*
 
 #### Herbarium and types
 

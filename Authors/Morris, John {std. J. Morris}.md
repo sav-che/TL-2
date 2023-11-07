@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/item/104137#page/611/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33355682) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morris, John (1810-1886), British geologist and palaeontologist; pharmaceutical chemist in Kensington until 1855; with Roderick Murchison on geological tours in Europe 1853-1855; from 1855-1877 professor of geology at University College, London. (*J. Morris*).
+Morris, John (1810-1886), British geologist and palaeontologist; pharmaceutical chemist in Kensington until 1855; with Roderick Murchison on geological tours in Europe 1853-1855; from 1855-1877 professor of geology at University College, London. 
+**Abbreviated name**: *J. Morris*
 
 #### Herbarium and types
 

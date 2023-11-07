@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/item/104077#page/812/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33333937) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sprague, Mary Letitia \["Manna"\], née Green (1886-1978), British botanist, nomenclaturist and botanical bibliographer; with the Royal Botanical Gardens, Kew, 1912-1945, from 1912-1925 as temporary technical assistant for Index kewensis and Index londinensis, from 1925 permanent assistant responsible for the Index kewensis supplements; married Thomas Archibald Sprague 1938. (*M.L. Sprague*).
+Sprague, Mary Letitia \["Manna"\], née Green (1886-1978), British botanist, nomenclaturist and botanical bibliographer; with the Royal Botanical Gardens, Kew, 1912-1945, from 1912-1925 as temporary technical assistant for Index kewensis and Index londinensis, from 1925 permanent assistant responsible for the Index kewensis supplements; married Thomas Archibald Sprague 1938. 
+**Abbreviated name**: *M.L. Sprague*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103253#page/69/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33068285) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Handel-Mazzetti, Heinrich, Freiherr von (1882-1940), Austrian botanist and explorer; Dr. phil. Wien 1907; in China 1914-1919; from 1903-1925 connected with the University of Vienna, from 1925-1931 at the Natural History Museum; pupil of Richard Wettstein; died in a car accident on 1 Feb 1940. (*Hand.-Mazz.*).
+Handel-Mazzetti, Heinrich, Freiherr von (1882-1940), Austrian botanist and explorer; Dr. phil. Wien 1907; in China 1914-1919; from 1903-1925 connected with the University of Vienna, from 1925-1931 at the Natural History Museum; pupil of Richard Wettstein; died in a car accident on 1 Feb 1940. 
+**Abbreviated name**: *Hand.-Mazz.*
 
 #### Herbarium and types
 

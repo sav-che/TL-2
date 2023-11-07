@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/104137#page/743/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33355814) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nessel, Hermann (1877-1949), German botanist and gardener; originally assistant at the Institute for Plant Physiology of Berlin University; subsequently in charge of the University of Giessen Botanical Garden; specialist on Lycopodiaceac. (*Nessel*).
+Nessel, Hermann (1877-1949), German botanist and gardener; originally assistant at the Institute for Plant Physiology of Berlin University; subsequently in charge of the University of Giessen Botanical Garden; specialist on Lycopodiaceac. 
+**Abbreviated name**: *Nessel*
 
 #### Herbarium and types
 

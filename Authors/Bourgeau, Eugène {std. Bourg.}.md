@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/item/103414#page/343/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33120426) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bourgeau, Eugène {std. Bourg.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bourgeau, Eugène (1815-1877), French botanical traveller and collector. (*Bourgeau*).
+Bourgeau, Eugène (1815-1877), French botanical traveller and collector. 
+**Abbreviated name**: *Bourgeau*
 
 #### Herbarium and types
 

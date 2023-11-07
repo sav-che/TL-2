@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/item/103861#page/76/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33266373) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bresadola, Don Giacopo (Giacomo, abate) {std. Bres.}|first entry]] for this author
 
 ### Author
 
-\* Bresàdola, Giacomo (1847-1929), Italian mycologist and clergyman, born in Ortisei, Trento, primary schooling at Montichiari, subsequently at the Technical school at Rovereto 1859, entered the seminary in Trento 1863, ordination 1870, curate in various locations from 1864, ultimately 1887-1910 adminstrator of the cathedral chapter in Trento, lifelong dedicating himself also to mycology. (*Bres.*).
+\* Bresàdola, Giacomo (1847-1929), Italian mycologist and clergyman, born in Ortisei, Trento, primary schooling at Montichiari, subsequently at the Technical school at Rovereto 1859, entered the seminary in Trento 1863, ordination 1870, curate in various locations from 1864, ultimately 1887-1910 adminstrator of the cathedral chapter in Trento, lifelong dedicating himself also to mycology. 
+**Abbreviated name**: *Bres.*
 
 #### Herbarium and types
 

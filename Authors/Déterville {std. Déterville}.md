@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/item/103414#page/684/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Déterville (*fl*. 1800), French publisher. (*Déterville*).
+Déterville (*fl*. 1800), French publisher. 
+**Abbreviated name**: *Déterville*
 
 #### Note
 

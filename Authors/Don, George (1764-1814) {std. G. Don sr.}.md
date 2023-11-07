@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/item/103414#page/718/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33120801) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Don, George (1764-1814), Scottish nurseryman, father of David and George (1798-1856) Don. (*G. Don sr.*).
+Don, George (1764-1814), Scottish nurseryman, father of David and George (1798-1856) Don. 
+**Abbreviated name**: *G. Don sr.*
 
 #### Herbarium and types
 

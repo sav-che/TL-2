@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/item/103253#page/670/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33068886) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Konrad, Paul (1877-1948), Swiss geometrician; amateur mycologist and botanical artist at Neuchâtel, from 1902 with the Compagnie des Tramways de Neuchâtel, director 1938-1948; Dr. sci. h.c. Neuchâtel 1932. (*Konrad*).
+Konrad, Paul (1877-1948), Swiss geometrician; amateur mycologist and botanical artist at Neuchâtel, from 1902 with the Compagnie des Tramways de Neuchâtel, director 1938-1948; Dr. sci. h.c. Neuchâtel 1932. 
+**Abbreviated name**: *Konrad*
 
 #### Herbarium and types
 

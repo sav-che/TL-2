@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/104077#page/78/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33333203) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sauer, Friedrich \[Fritz\] Ludwig Ferdinand (1852-?), German (Prussian) botanist ; studied at the Potsdam Gymnasium and the University of Berlin; Dr. phil. Halle 1880. (*Sauer*).
+Sauer, Friedrich \[Fritz\] Ludwig Ferdinand (1852-?), German (Prussian) botanist ; studied at the Potsdam Gymnasium and the University of Berlin; Dr. phil. Halle 1880. 
+**Abbreviated name**: *Sauer*
 
 #### Herbarium and types
 

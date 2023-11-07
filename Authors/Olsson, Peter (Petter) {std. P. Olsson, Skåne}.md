@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/item/104137#page/851/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33355922) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Olsson, Peter \[Petter\] (1838-1923), Swedish botanist and zoologist born in Skåne; Dr. phil. Lund 1865; lecturer at Lund 1867-1869; high school teacher at Östersund 1869-1905. (*P. Olsson, Skåne*).
+Olsson, Peter \[Petter\] (1838-1923), Swedish botanist and zoologist born in Skåne; Dr. phil. Lund 1865; lecturer at Lund 1867-1869; high school teacher at Östersund 1869-1905. 
+**Abbreviated name**: *P. Olsson, Skåne*
 
 #### Herbarium and types
 

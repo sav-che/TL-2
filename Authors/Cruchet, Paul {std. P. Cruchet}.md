@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/item/103860#page/495/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33266162) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cruchet, Paul (1875-1964), Swiss botanist (mycologist), born 25 Sep 1875 at Montpreveyres (Vaud), son of D. Cruchet (see above), studied at a gymnasium, afterwards at the Faculty of Science at the University of Lausanne, Dr. ès sciences 1906, "professor" at the Collège de Payerne, in 1922 at Morges until his retreat in 1935, died at Morges 31 Mar 1964. (*P. Cruchet*).
+Cruchet, Paul (1875-1964), Swiss botanist (mycologist), born 25 Sep 1875 at Montpreveyres (Vaud), son of D. Cruchet (see above), studied at a gymnasium, afterwards at the Faculty of Science at the University of Lausanne, Dr. ès sciences 1906, "professor" at the Collège de Payerne, in 1922 at Morges until his retreat in 1935, died at Morges 31 Mar 1964. 
+**Abbreviated name**: *P. Cruchet*
 
 #### Herbarium and types
 

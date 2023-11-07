@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103835#page/135/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33260113) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ducamp, Louis (fl. 1902), French botanist. (*L. Ducamp*).
+Ducamp, Louis (fl. 1902), French botanist. 
+**Abbreviated name**: *L. Ducamp*
 
 #### Herbarium and types
 

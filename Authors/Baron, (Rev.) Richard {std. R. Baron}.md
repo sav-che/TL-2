@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103858#page/349/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33265064) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Baron, \[Rev.\] Richard (1847-1907), British missionary and botanist, theological training at the Lancashire Independent College, in Madagascar under the auspices of the London Missionary Society 1872-1907. (*R. Baron*).
+Baron, \[Rev.\] Richard (1847-1907), British missionary and botanist, theological training at the Lancashire Independent College, in Madagascar under the auspices of the London Missionary Society 1872-1907. 
+**Abbreviated name**: *R. Baron*
 
 #### Herbarium and types
 

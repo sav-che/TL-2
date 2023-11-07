@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/item/103414#page/964/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33121047) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Garovaglio, Santo (Sancto, Sanctus) {std. Garov.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Garovaglio, Santo (1805-1882), Italian cryptogamic botanist, professor of botany at Pavia. (*Garov.*).
+Garovaglio, Santo (1805-1882), Italian cryptogamic botanist, professor of botany at Pavia. 
+**Abbreviated name**: *Garov.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/item/103833#page/262/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33259296) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Devauversin, A. (fl. 1897-1907), French botanist studying the flora of the départment Marne. (*Devauv.*).
+Devauversin, A. (fl. 1897-1907), French botanist studying the flora of the départment Marne. 
+**Abbreviated name**: *Devauv.*
 
 #### Herbarium and types
 

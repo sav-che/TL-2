@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103860#page/346/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266013) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cooper, Daniel {std. Cooper}|first entry]] for this author
 
 ### Author
 
-\* Cooper, Daniel, A. (1817?-1842), British naturalist and medical Student, associate Linn. Soc. 1837, curator of the botanical Society of London 1837-1839, assistant Zoological Department of the British Museum 1839-1841, assistant-surgeon in the army 1842. (*Cooper*).
+\* Cooper, Daniel, A. (1817?-1842), British naturalist and medical Student, associate Linn. Soc. 1837, curator of the botanical Society of London 1837-1839, assistant Zoological Department of the British Museum 1839-1841, assistant-surgeon in the army 1842. 
+**Abbreviated name**: *Cooper*
 
 #### Herbarium and types
 

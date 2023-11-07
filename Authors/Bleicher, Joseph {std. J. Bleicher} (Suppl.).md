@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/item/103859#page/221/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265408) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bleicher, Joseph {std. J. Bleicher}|first entry]] for this author
 
 ### Author
 
-\* Bleicher, Joseph (fl. 1899), German highschool teacher and botanist at Ingolstadt. (*J. Bleicher*).
+\* Bleicher, Joseph (fl. 1899), German highschool teacher and botanist at Ingolstadt. 
+**Abbreviated name**: *J. Bleicher*
 
 #### Herbarium and types
 

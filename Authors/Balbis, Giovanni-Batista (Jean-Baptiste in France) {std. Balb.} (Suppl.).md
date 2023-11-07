@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103858#page/299/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33265014) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Balbis, Giovanni-Batista {std. Balb.}|first entry]] for this author
 
 ### Author
 
-\* Balbis, Giovanni-Batista \[Jean-Baptiste in France\] (1765-1831), Italian (Piemont) botanist, studied medicine, succeeded Allioni as professor at the University of Torino and director of its Botanical Garden 1802-1814; dismissed as such in 1814 because he had served the French, in Torino, during the Napoleontic occupation; retired to Pavia working with D. Nocca on a *Flora ticinensis*; director of the Botanical Garden in Lyon, France 1819-1830; in retirement in Torino. (*Balb.*).
+\* Balbis, Giovanni-Batista \[Jean-Baptiste in France\] (1765-1831), Italian (Piemont) botanist, studied medicine, succeeded Allioni as professor at the University of Torino and director of its Botanical Garden 1802-1814; dismissed as such in 1814 because he had served the French, in Torino, during the Napoleontic occupation; retired to Pavia working with D. Nocca on a *Flora ticinensis*; director of the Botanical Garden in Lyon, France 1819-1830; in retirement in Torino. 
+**Abbreviated name**: *Balb.*
 
 #### Herbarium and types
 

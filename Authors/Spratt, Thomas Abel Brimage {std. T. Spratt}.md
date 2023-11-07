@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/item/104077#page/816/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33333941) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spratt, Thomas Abel Brimage (1811-1888), British vice-admiral; member of the mediterranean hydrographical survey. (*T. Spratt*).
+Spratt, Thomas Abel Brimage (1811-1888), British vice-admiral; member of the mediterranean hydrographical survey. 
+**Abbreviated name**: *T. Spratt*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/item/104077#page/477/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33333602) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scriba, Julius \[Karl\] (1848-1905), German (Hessen) physician and botanist; Dr. med. Heidelberg 1875; assistant at Freiburg i. Br. 1875-1879; lecturer ib. 1879-1881 (1870-1871 on active service); professor of surgery at the university of Tokyo 1881-1905. (*J. Scriba*).
+Scriba, Julius \[Karl\] (1848-1905), German (Hessen) physician and botanist; Dr. med. Heidelberg 1875; assistant at Freiburg i. Br. 1875-1879; lecturer ib. 1879-1881 (1870-1871 on active service); professor of surgery at the university of Tokyo 1881-1905. 
+**Abbreviated name**: *J. Scriba*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103414#page/209/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33120292) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Becker, Alexander {std. A.K. Becker} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Becker, Alexander (1818-1901), Russian botanist and musician (organ player) at Sarepta, explorer of the lower Wolga region and the Caucasus. (*A. Becker*).
+Becker, Alexander (1818-1901), Russian botanist and musician (organ player) at Sarepta, explorer of the lower Wolga region and the Caucasus. 
+**Abbreviated name**: *A. Becker*
 
 #### Herbarium and types
 

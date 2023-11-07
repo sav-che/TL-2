@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/item/103253#page/408/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33068624) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hylander, Nils (1904-1970), Swedish botanist. (*Hyl.*).
+Hylander, Nils (1904-1970), Swedish botanist. 
+**Abbreviated name**: *Hyl.*
 
 #### Herbarium and types
 

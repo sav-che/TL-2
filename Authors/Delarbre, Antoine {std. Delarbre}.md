@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/item/103414#page/660/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33120743) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delarbre, Antoine (1724-1813), French botanist at Clermont-Ferrand. (*Delarbre*).
+Delarbre, Antoine (1724-1813), French botanist at Clermont-Ferrand. 
+**Abbreviated name**: *Delarbre*
 
 #### Herbarium and types
 

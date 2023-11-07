@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/item/104137#page/377/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33355448) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Masson, Francis (1741-1805), British plant collector and gardener, from Kew, at the Cape (1772-1774), Canaries and Azores (1776-1782), Spain and Portugal (1781-1785), Cape (1786-1795), N. America (1798). (*Masson*).
+Masson, Francis (1741-1805), British plant collector and gardener, from Kew, at the Cape (1772-1774), Canaries and Azores (1776-1782), Spain and Portugal (1781-1785), Cape (1786-1795), N. America (1798). 
+**Abbreviated name**: *Masson*
 
 #### Herbarium and types
 

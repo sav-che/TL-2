@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103683#page/278/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33212310) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thorn, Charles (1872-1956), American mycologist and microbiologist; at Lake Forest College, Illinois 1895-1897, A.M. ib. 1897; instructor in biology Missouri State Univ. 1897-1899; Dr. phil. ib. 1899; instructor in botany ib. 1899-1901, assistant professor of botany ib. 1901-1902; assistant in mycology Cornell University 1902-1904; mycologist with USDA for cheese investigation at Storrs, Connecticut 1904-1913; mycologist in charge of the USDA microbiological laboratory, Washington 1913-1927; mycologist in charge of the Division of Soil microbiology ib. 1927-1942 (from 1934 in the Bureau of Plant Industry). (*Thom*).
+Thorn, Charles (1872-1956), American mycologist and microbiologist; at Lake Forest College, Illinois 1895-1897, A.M. ib. 1897; instructor in biology Missouri State Univ. 1897-1899; Dr. phil. ib. 1899; instructor in botany ib. 1899-1901, assistant professor of botany ib. 1901-1902; assistant in mycology Cornell University 1902-1904; mycologist with USDA for cheese investigation at Storrs, Connecticut 1904-1913; mycologist in charge of the USDA microbiological laboratory, Washington 1913-1927; mycologist in charge of the Division of Soil microbiology ib. 1927-1942 (from 1934 in the Bureau of Plant Industry). 
+**Abbreviated name**: *Thom*
 
 #### Herbarium and types
 

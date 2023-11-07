@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/item/103860#page/510/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33266177) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cummings, Clara Eaton {std. Cumm.}|first entry]] for this author
 
 ### Author
 
-\* Cummings, Clara Eaton (1855-1906), American botanist (lichenologist) and teacher in botany, born in Plymouth, N.H., educated on New Hampshire normal School in Plymouth, N.H., studied at Wellesley College 1876-1880, curator of the museum of the college 1878-1879, instructor in botany 1879-1886, studied at the University of Zürich 1886-1887 (with Arnold Dodel), returned to Wellesley 1887, associate professor of cryptogamic botany, temporary chairman of the department, was relieved of administrative duties in 1906. (*Cumm.*).
+\* Cummings, Clara Eaton (1855-1906), American botanist (lichenologist) and teacher in botany, born in Plymouth, N.H., educated on New Hampshire normal School in Plymouth, N.H., studied at Wellesley College 1876-1880, curator of the museum of the college 1878-1879, instructor in botany 1879-1886, studied at the University of Zürich 1886-1887 (with Arnold Dodel), returned to Wellesley 1887, associate professor of cryptogamic botany, temporary chairman of the department, was relieved of administrative duties in 1906. 
+**Abbreviated name**: *Cumm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103832#page/260/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33258726) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gochnat, Frédéric \[Friedrich\] Charles \[Karl\] (1784-1816), Alsatian botanist and physician, Dr. en médecine, student of Dominque Villars. (*Gochnat*).
+Gochnat, Frédéric \[Friedrich\] Charles \[Karl\] (1784-1816), Alsatian botanist and physician, Dr. en médecine, student of Dominque Villars. 
+**Abbreviated name**: *Gochnat*
 
 #### Herbarium and types
 

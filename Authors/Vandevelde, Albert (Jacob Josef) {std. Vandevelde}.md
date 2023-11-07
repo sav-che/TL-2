@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/item/103683#page/673/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33212705) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vandevelde, Albert \[Jacob Josef\] (1871-?), Belgian food technologist, chemist and botanist; Dr. rer. nat. Gent 1893; assistant for chemistry at Gent University 1891; director of the municipal laboratory Gent 1900; professor of technology at the "École professionelle" ib. 1904, later in charge of the Service phytopathologique at Ledeberg. (*Vandevelde*).
+Vandevelde, Albert \[Jacob Josef\] (1871-?), Belgian food technologist, chemist and botanist; Dr. rer. nat. Gent 1893; assistant for chemistry at Gent University 1891; director of the municipal laboratory Gent 1900; professor of technology at the "École professionelle" ib. 1904, later in charge of the Service phytopathologique at Ledeberg. 
+**Abbreviated name**: *Vandevelde*
 
 #### Herbarium and types
 

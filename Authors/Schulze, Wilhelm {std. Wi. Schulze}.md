@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/104077#page/409/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulze, Wilhelm (*fl*. 1899), German (Rheinland-Prussian) botanist. (*Wi. Schulze*).
+Schulze, Wilhelm (*fl*. 1899), German (Rheinland-Prussian) botanist. 
+**Abbreviated name**: *Wi. Schulze*
 
 #### Herbarium and types
 

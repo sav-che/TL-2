@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/item/103624#page/814/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33190271) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ritschi, Georg \[Adolf\] (1816-1866), German (Prussian) philologist and botanist; studied philology in Berlin and Greifswald; teacher's examination 1841; high school teacher at Stettin, Neustettin, and Putbus, from 1844-1866 at the Friedrich-Wilhelms-Gymnasium in Posen; died of cholera. (*Ritschl*).
+Ritschi, Georg \[Adolf\] (1816-1866), German (Prussian) philologist and botanist; studied philology in Berlin and Greifswald; teacher's examination 1841; high school teacher at Stettin, Neustettin, and Putbus, from 1844-1866 at the Friedrich-Wilhelms-Gymnasium in Posen; died of cholera. 
+**Abbreviated name**: *Ritschl*
 
 #### Herbarium and types
 

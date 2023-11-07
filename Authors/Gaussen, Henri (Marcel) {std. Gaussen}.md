@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103832#page/162/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33258628) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gaussen, Henri \[Marcel\] (1891-1981), French phytogeographer and specialist in gymnosperms, born 14 Jul 1891 in Cabrières-d'Aigues (Vaucluse), Dr. ès-sciences 1926 Paris, chair of botany at Toulouse 1928-1947, founder of the scientific section of the Institut Français in Pondichery, India, Grand Prix de la Société de Géographie pour Travaux et Publications Géographiques 1971, died 27 Jul 1981 in Toulouse. (*Gaussen*).
+Gaussen, Henri \[Marcel\] (1891-1981), French phytogeographer and specialist in gymnosperms, born 14 Jul 1891 in Cabrières-d'Aigues (Vaucluse), Dr. ès-sciences 1926 Paris, chair of botany at Toulouse 1928-1947, founder of the scientific section of the Institut Français in Pondichery, India, Grand Prix de la Société de Géographie pour Travaux et Publications Géographiques 1971, died 27 Jul 1981 in Toulouse. 
+**Abbreviated name**: *Gaussen*
 
 #### Herbarium and types
 

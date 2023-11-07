@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/item/103624#page/145/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33189602) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pearson, Henry Harold Welch (1870-1916), English botanist; M.A. Cambridge 1900, D. Sc. ib. 1907; assistant curator Cambridge herbarium 1898-1899; assistant for India at Kew 1899-1903; from 1903-1916 Harry Bolus professor of botany at the South African College, Cape Town; founder of the Kirstenbosch National Botanic Gardens of South Africa. (*H. Pearson*).
+Pearson, Henry Harold Welch (1870-1916), English botanist; M.A. Cambridge 1900, D. Sc. ib. 1907; assistant curator Cambridge herbarium 1898-1899; assistant for India at Kew 1899-1903; from 1903-1916 Harry Bolus professor of botany at the South African College, Cape Town; founder of the Kirstenbosch National Botanic Gardens of South Africa. 
+**Abbreviated name**: *H. Pearson*
 
 #### Herbarium and types
 

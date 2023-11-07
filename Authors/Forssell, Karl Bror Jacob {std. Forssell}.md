@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/item/103414#page/903/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Forssell, Karl (Carl) Bror Jakob {std. Forssell} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Forssell, Karl Bror Jacob (1856-1898), Swedish botanist at Uppsala and Karlstad. (*Forssell*).
+Forssell, Karl Bror Jacob (1856-1898), Swedish botanist at Uppsala and Karlstad. 
+**Abbreviated name**: *Forssell*
 
 #### Herbarium and types
 

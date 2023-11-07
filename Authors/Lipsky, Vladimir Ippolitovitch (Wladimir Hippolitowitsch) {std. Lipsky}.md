@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/item/104137#page/132/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33355203) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lipsky, Vladimir lppolitovitch (Wladimir Hippolitowitsch) (1863-1937), Russian botanist; explorer of Central Asia; until 1917 at Leningrad, later at Kiew and Odessa. (*Lipsky*).
+Lipsky, Vladimir lppolitovitch (Wladimir Hippolitowitsch) (1863-1937), Russian botanist; explorer of Central Asia; until 1917 at Leningrad, later at Kiew and Odessa. 
+**Abbreviated name**: *Lipsky*
 
 #### Herbarium and types
 

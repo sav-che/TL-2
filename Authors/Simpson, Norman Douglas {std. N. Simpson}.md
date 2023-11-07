@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/104077#page/625/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Simpson, Norman Douglas (1890-1974), British botanist and bibliographer; BA Cambr. Univ. 1911; Cambridge Diploma in Agriculture 1914; on active service in World War I 1914-1920; with the Cotton Research Board Station at El Giza nr Cairo 1921-1930; at the Peradiniya Botanic Garden, Ceylon 1931-1932; from 1932 living at Bournemouth dedicating himself entirely to botany, travelling, collecting plants and botanical books. (*N. Simpson*).
+Simpson, Norman Douglas (1890-1974), British botanist and bibliographer; BA Cambr. Univ. 1911; Cambridge Diploma in Agriculture 1914; on active service in World War I 1914-1920; with the Cotton Research Board Station at El Giza nr Cairo 1921-1930; at the Peradiniya Botanic Garden, Ceylon 1931-1932; from 1932 living at Bournemouth dedicating himself entirely to botany, travelling, collecting plants and botanical books. 
+**Abbreviated name**: *N. Simpson*
 
 #### Herbarium and types
 

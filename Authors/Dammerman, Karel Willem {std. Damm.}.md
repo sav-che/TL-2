@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/item/103833#page/54/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33259088) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dammerman, Karel Willem (1885-1951), Dutch zoologist and botanist, born at Arnhem, Gelderland, Netherlands, educated at the University of Utrecht, assistant at the Natural History Museum of Leiden, Ph.D. Utrecht 1910, entomologist of the Botanical Laboratories at Buitenzorg (Bogor) 1912-1919, Chief of the Zoological Museum ib. 1919, from 1932-1939 director of the Botanic Garden, returned to Leiden Oct 1939. (*Damm.*).
+Dammerman, Karel Willem (1885-1951), Dutch zoologist and botanist, born at Arnhem, Gelderland, Netherlands, educated at the University of Utrecht, assistant at the Natural History Museum of Leiden, Ph.D. Utrecht 1910, entomologist of the Botanical Laboratories at Buitenzorg (Bogor) 1912-1919, Chief of the Zoological Museum ib. 1919, from 1932-1939 director of the Botanic Garden, returned to Leiden Oct 1939. 
+**Abbreviated name**: *Damm.*
 
 #### Herbarium and types
 

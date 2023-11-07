@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/item/103861#page/75/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33266372) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brenner, Wilhelm (fl. 1900-1910), Swiss (Basel born) botanist and highschool teacher at Basel, studied at the University of Basel, worked on his thesis at the Botanisches Institut der Universität Halle-Wittenberg 1898-1899. (*W. Brenner*).
+Brenner, Wilhelm (fl. 1900-1910), Swiss (Basel born) botanist and highschool teacher at Basel, studied at the University of Basel, worked on his thesis at the Botanisches Institut der Universität Halle-Wittenberg 1898-1899. 
+**Abbreviated name**: *W. Brenner*
 
 #### Herbarium and types
 

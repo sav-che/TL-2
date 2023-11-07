@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/item/104137#page/546/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33355617) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moe, Asche (1867-1937), Norwegian botanist at Stavanger. (*A. Moe*).
+Moe, Asche (1867-1937), Norwegian botanist at Stavanger. 
+**Abbreviated name**: *A. Moe*
 
 #### Herbarium and types
 

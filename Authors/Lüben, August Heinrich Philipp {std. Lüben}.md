@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/item/104137#page/201/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lüben, August Heinrich Philipp (1804-1874), German botanist and high school teacher at Weissenfels (1822-1825), Dorf-Alsleben (1825-1829), Aschersleben (1829-1850), Merseburg (1850-1858), and Bremen (1858-1874). (*Lüben*).
+Lüben, August Heinrich Philipp (1804-1874), German botanist and high school teacher at Weissenfels (1822-1825), Dorf-Alsleben (1825-1829), Aschersleben (1829-1850), Merseburg (1850-1858), and Bremen (1858-1874). 
+**Abbreviated name**: *Lüben*
 
 #### Herbarium and types
 

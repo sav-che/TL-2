@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/item/103250#page/452/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33066732) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wisniewski, Tadeusz (1905-1943), Polish bryologist, phytogeographer and traveller (born in Taganrog, to which city his father had been deported); from 1919 living in Warsaw; from 1928-1943 assistant at the Josef Pilsudski University, Warsaw; Dr. phil. ib. 1930; also working for the Polish botanical Society; executed as a hostage in Warsaw 30 Nov 1943. (*Wisn.*).
+Wisniewski, Tadeusz (1905-1943), Polish bryologist, phytogeographer and traveller (born in Taganrog, to which city his father had been deported); from 1919 living in Warsaw; from 1928-1943 assistant at the Josef Pilsudski University, Warsaw; Dr. phil. ib. 1930; also working for the Polish botanical Society; executed as a hostage in Warsaw 30 Nov 1943. 
+**Abbreviated name**: *Wisn.*
 
 #### Herbarium and types
 

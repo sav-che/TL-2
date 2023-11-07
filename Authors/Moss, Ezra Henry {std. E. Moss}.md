@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/item/104137#page/618/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33355689) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moss, Ezra Henry (1892-1963), Canadian botanist; Dr. phil. Toronto 1925; at the Department of Botany of the University of Alberta, 1929 (from 1938 as full professor)-1957; student of the vegetation of Alberta. (*E. Moss*).
+Moss, Ezra Henry (1892-1963), Canadian botanist; Dr. phil. Toronto 1925; at the Department of Botany of the University of Alberta, 1929 (from 1938 as full professor)-1957; student of the vegetation of Alberta. 
+**Abbreviated name**: *E. Moss*
 
 #### Herbarium and types
 

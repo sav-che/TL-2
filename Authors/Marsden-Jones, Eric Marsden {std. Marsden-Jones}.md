@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/item/104137#page/323/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33355394) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Marsden-Jones, Eric Marsden (1887-1960), British experimental taxonomist; established the Potterne Biological Station, near Devizes, Wiltshire 1923 (-1940); collaborated with W. B. Turrill at Kew. (*Marsden-Jones*).
+Marsden-Jones, Eric Marsden (1887-1960), British experimental taxonomist; established the Potterne Biological Station, near Devizes, Wiltshire 1923 (-1940); collaborated with W. B. Turrill at Kew. 
+**Abbreviated name**: *Marsden-Jones*
 
 #### Herbarium and types
 

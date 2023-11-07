@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/item/103414#page/862/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33120945) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Farwell, Oliver Atkins {std. Farw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Farwell, Oliver Atkins (1867-1944), American botanist working on the Michigan flora. (*Farw.*).
+Farwell, Oliver Atkins (1867-1944), American botanist working on the Michigan flora. 
+**Abbreviated name**: *Farw.*
 
 #### Herbarium and types
 

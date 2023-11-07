@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/item/103834#page/329/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33259811) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fonvert, Amédée de \[full name: Alexandre Jean Baptiste Amédée Reinaud de Fonvert\] (1797-1872), French botanist, born 28 vêntose an V (=18 Mar 1797) in Aix-en-Provence (Bouches du Rhône), member of its scientific society, studied the local flora, died 28 Jan 1871 in Aix-en-Provence. (*Rein. Fonv.*).
+Fonvert, Amédée de \[full name: Alexandre Jean Baptiste Amédée Reinaud de Fonvert\] (1797-1872), French botanist, born 28 vêntose an V (=18 Mar 1797) in Aix-en-Provence (Bouches du Rhône), member of its scientific society, studied the local flora, died 28 Jan 1871 in Aix-en-Provence. 
+**Abbreviated name**: *Rein. Fonv.*
 
 #### Herbarium and types
 

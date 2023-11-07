@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/item/103414#page/458/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33120541) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bureau, Louis Édouard {std. Bureau} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bureau, Louis Édouar'd (1830-1918), French botanist, professor of taxonomic botany at the Paris Muséum d'Histoire naturelle 1874-1907. (*Bureau*).
+Bureau, Louis Édouar'd (1830-1918), French botanist, professor of taxonomic botany at the Paris Muséum d'Histoire naturelle 1874-1907. 
+**Abbreviated name**: *Bureau*
 
 #### Herbarium and types
 

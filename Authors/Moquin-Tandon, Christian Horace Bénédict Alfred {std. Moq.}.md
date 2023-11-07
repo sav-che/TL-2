@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/item/104137#page/589/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33355660) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moquin-Tandon, Christian Horace Bénédict Alfred (1804-1863), French naturalist and botanist; pupil of A. P. de Candolle; Dr. Sci. Montpellier 1826, high school teacher at Marseille 1829-1833; director of the botanic garden of Toulouse 1834-1853; subsequently professor of botany at the Faculté de Médecine, Paris; best known for his work on teratology; one of the founders of the Société botanique de France. (*Moq.*).
+Moquin-Tandon, Christian Horace Bénédict Alfred (1804-1863), French naturalist and botanist; pupil of A. P. de Candolle; Dr. Sci. Montpellier 1826, high school teacher at Marseille 1829-1833; director of the botanic garden of Toulouse 1834-1853; subsequently professor of botany at the Faculté de Médecine, Paris; best known for his work on teratology; one of the founders of the Société botanique de France. 
+**Abbreviated name**: *Moq.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103253#page/43/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33068259) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hall, Elihu (1822-1882), American botanist at Athens, Ill.; botanical explorer of the Rocky Mountains with C. C. Parry and J. P. Harbour; one of the organizers of the Illinois Natural History Society at Bloomington (1858). (*E. Hall*).
+Hall, Elihu (1822-1882), American botanist at Athens, Ill.; botanical explorer of the Rocky Mountains with C. C. Parry and J. P. Harbour; one of the organizers of the Illinois Natural History Society at Bloomington (1858). 
+**Abbreviated name**: *E. Hall*
 
 #### Herbarium and types
 

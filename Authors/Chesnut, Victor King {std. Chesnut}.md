@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/item/103860#page/98/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33265765) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chesnut, Victor King (1867-1938), American chemist and ethnobotanist, student of E.L. Greene at the University of California, assistant in chemistry at this University 1890-1893, from 1894-1933 as assistant botanist, later botanist. (*Chesnut*).
+Chesnut, Victor King (1867-1938), American chemist and ethnobotanist, student of E.L. Greene at the University of California, assistant in chemistry at this University 1890-1893, from 1894-1933 as assistant botanist, later botanist. 
+**Abbreviated name**: *Chesnut*
 
 #### Herbarium and types
 

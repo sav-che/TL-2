@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/item/103253#page/753/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33068969) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Laing, Robert Malcolm (1865-1941), New Zealand botanist; M. A. Canterbury, N.Z. 1889; master at Otago Boy's High School 1886-1924; specialist on New Zealand marine algae. (*Laing*).
+Laing, Robert Malcolm (1865-1941), New Zealand botanist; M. A. Canterbury, N.Z. 1889; master at Otago Boy's High School 1886-1924; specialist on New Zealand marine algae. 
+**Abbreviated name**: *Laing*
 
 #### Herbarium and types
 

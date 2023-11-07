@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/item/103860#page/395/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33266062) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Corti, Alfredo (fl. 1898), Swiss botanist. (*A. Corti*).
+Corti, Alfredo (fl. 1898), Swiss botanist. 
+**Abbreviated name**: *A. Corti*
 
 #### Herbarium and types
 

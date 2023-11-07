@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/item/103414#page/720/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33120803) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Donkin, Arthur Scott, (*fl*. 1858-1873), British diatomologist and lecturer in medical jurisprudence at Durham. (*Donkin*).
+Donkin, Arthur Scott, (*fl*. 1858-1873), British diatomologist and lecturer in medical jurisprudence at Durham. 
+**Abbreviated name**: *Donkin*
 
 #### Collections
 

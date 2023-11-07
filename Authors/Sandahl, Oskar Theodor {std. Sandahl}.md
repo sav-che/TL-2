@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/104077#page/40/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33333127) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sandahl, Oskar Theodor (1829-1894), Swedish physician, entomologist and botanist; studied at Uppsala 1847; Dr. med. Lund 1863; associated with the Karolinska Institute from 1852, as professor of pharmacology from 1873; also inspector of the pharmaceutical institute Stockholm from 1873. (*Sandahl*).
+Sandahl, Oskar Theodor (1829-1894), Swedish physician, entomologist and botanist; studied at Uppsala 1847; Dr. med. Lund 1863; associated with the Karolinska Institute from 1852, as professor of pharmacology from 1873; also inspector of the pharmaceutical institute Stockholm from 1873. 
+**Abbreviated name**: *Sandahl*
 
 #### Herbarium and types
 

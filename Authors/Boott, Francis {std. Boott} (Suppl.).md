@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103859#page/336/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33265523) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boott, Francis M. B. {std. Boott}|first entry]] for this author
 
 ### Author
 
-\* Boott, Francis (1792-1863), American physician and botanist (*Carex*), born in Boston, Mass., studied at Harvard University, B.A. ib. 1810, went to Liverpool 1811, studied at the universities of Edinburgh and Paris, M.D. Edinburgh 1824, practicing medicine in London from 1825, also lecturing at Webb Street School of Medicine ib. from 1825. (*Boott*).
+\* Boott, Francis (1792-1863), American physician and botanist (*Carex*), born in Boston, Mass., studied at Harvard University, B.A. ib. 1810, went to Liverpool 1811, studied at the universities of Edinburgh and Paris, M.D. Edinburgh 1824, practicing medicine in London from 1825, also lecturing at Webb Street School of Medicine ib. from 1825. 
+**Abbreviated name**: *Boott*
 
 #### Herbarium and types
 

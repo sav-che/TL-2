@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/item/103253#page/871/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33069087) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Léon, Frère \[Sauget y Barbis, Joseph Sylvestre\], \[Hermano Léon\] (1871-1955), French-born botanist; member of the Frères des écoles chrétiennes; settled at La Salle, Havana, Cuba in 1905; author of *Flora de Cuba* (1946-1963); Dr. phil. h.c. Columbia 1927. (*Léon*).
+Léon, Frère \[Sauget y Barbis, Joseph Sylvestre\], \[Hermano Léon\] (1871-1955), French-born botanist; member of the Frères des écoles chrétiennes; settled at La Salle, Havana, Cuba in 1905; author of *Flora de Cuba* (1946-1963); Dr. phil. h.c. Columbia 1927. 
+**Abbreviated name**: *Léon*
 
 #### Herbarium and types
 

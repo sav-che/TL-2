@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/103859#page/225/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33265412) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blochmann, Friedrich (1858-1931), German zoologist, born in Karlsruhe, studied natural sciences at the University of Heidelberg, Dr. phil. ib., habil. ib. 1886, professor of zoology at the University of Rostock 1891, idem at the University of Tübingen 1898. (*Blochm.*).
+Blochmann, Friedrich (1858-1931), German zoologist, born in Karlsruhe, studied natural sciences at the University of Heidelberg, Dr. phil. ib., habil. ib. 1886, professor of zoology at the University of Rostock 1891, idem at the University of Tübingen 1898. 
+**Abbreviated name**: *Blochm.*
 
 #### Herbarium and types
 

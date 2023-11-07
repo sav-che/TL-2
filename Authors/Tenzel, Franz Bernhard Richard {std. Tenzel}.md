@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/item/103683#page/229/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33212261) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tenzel, Franz Bernhard Richard (1790-?), German (Bavarian) botanist; ultimately at Erlangen. (*Tenzel*).
+Tenzel, Franz Bernhard Richard (1790-?), German (Bavarian) botanist; ultimately at Erlangen. 
+**Abbreviated name**: *Tenzel*
 
 #### Herbarium and types
 

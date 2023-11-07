@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/item/104137#page/875/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33355946) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Otto, \[Carl Friedrich\] Eduard (1812-1885), German botanist and horticulturist at Hamburg; son of C. F. Otto; collected in Cuba, North America and Venezuela 1838-1841; curator of the Hamburg botanical garden 1844-1866; later commercial nurseryman at Altona. (*Ed. Otto*).
+Otto, \[Carl Friedrich\] Eduard (1812-1885), German botanist and horticulturist at Hamburg; son of C. F. Otto; collected in Cuba, North America and Venezuela 1838-1841; curator of the Hamburg botanical garden 1844-1866; later commercial nurseryman at Altona. 
+**Abbreviated name**: *Ed. Otto*
 
 #### Herbarium and types
 

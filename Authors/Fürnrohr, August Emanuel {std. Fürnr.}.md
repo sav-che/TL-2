@@ -1,4 +1,4 @@
-> [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/item/103414#page/945/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/page/33121028) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 Fürnrohr, August Emanuel (1804-1861), German botanist, editor of Flora 1830-1861

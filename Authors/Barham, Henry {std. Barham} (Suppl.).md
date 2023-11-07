@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103858#page/337/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barham, Henry {std. Barham}|first entry]] for this author
 
 ### Author
 
-\* Barham, Henry (1670-1726), British naturalist, master-surgeon Royal Navy, visited Spain, Madras, settled at Jamaica as surgeon-major of the British military forces, returned briefly to England, F.R.S. 1717, returned to Jamaica 1720-1726. (*Barham*).
+\* Barham, Henry (1670-1726), British naturalist, master-surgeon Royal Navy, visited Spain, Madras, settled at Jamaica as surgeon-major of the British military forces, returned briefly to England, F.R.S. 1717, returned to Jamaica 1720-1726. 
+**Abbreviated name**: *Barham*
 
 #### Herbarium and types
 

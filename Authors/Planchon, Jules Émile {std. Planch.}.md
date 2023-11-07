@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/item/103624#page/298/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33189755) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Planchon, Jules Émile (1823-1888), French botanist; Dr. sci. nat. Montpellier 1844; assistant to William Jackson Hooker at Kew 1844-1848; professor of botany at the horticultural institute, Gent, 1849-1851; at the École de Pharmacie, Nancy, 1851-1853; assistant professor at Montpellier succeeding Dunal (Faculté des Sciences) 1853-1857), professor at id. as well as at the École de Pharmacie 1857-1881; at the Faculté de Médecine and director of the botanical garden, Montpellier 1881-1888; discovered Phylloxera 1868. (*Planch.*).
+Planchon, Jules Émile (1823-1888), French botanist; Dr. sci. nat. Montpellier 1844; assistant to William Jackson Hooker at Kew 1844-1848; professor of botany at the horticultural institute, Gent, 1849-1851; at the École de Pharmacie, Nancy, 1851-1853; assistant professor at Montpellier succeeding Dunal (Faculté des Sciences) 1853-1857), professor at id. as well as at the École de Pharmacie 1857-1881; at the Faculté de Médecine and director of the botanical garden, Montpellier 1881-1888; discovered Phylloxera 1868. 
+**Abbreviated name**: *Planch.*
 
 #### Herbarium and types
 

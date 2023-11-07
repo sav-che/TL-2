@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103858#page/166/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Arens, Federico Mathias (1886-x), German (Prussian, born in Peru), educated at the Gymnasium in Bonn 1896-1906, studied at the University of Bonn 1906-1911, employed in the Dutch EastIndies sugar, rubber and oil palm industry until 1936, in charge of the Botanical Institute, Bonn 1936. (*Arens*).
+Arens, Federico Mathias (1886-x), German (Prussian, born in Peru), educated at the Gymnasium in Bonn 1896-1906, studied at the University of Bonn 1906-1911, employed in the Dutch EastIndies sugar, rubber and oil palm industry until 1936, in charge of the Botanical Institute, Bonn 1936. 
+**Abbreviated name**: *Arens*
 
 #### Herbarium and types
 

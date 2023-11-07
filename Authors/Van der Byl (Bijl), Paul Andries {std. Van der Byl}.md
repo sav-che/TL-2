@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/item/103683#page/670/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33212702) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van der Byl \[Bijl\], Paul Andries (1888-1939), South African botanist (mycologist, phytopathologist); M.A. Victoria College Stellenbosch 1913; Dr. Sci. Cape Town 1915; teacher in Bethlehem O.F.S.; with the Division of Plant Pathology, Pretoria from ca. 1915-1918; in charge of the Botanic Station and National Herbarium, Durban 1918-1921; professor of phytopathology at the Agricultural Faculty of Stellenbosch University 1921-1928; principal of the Stellenbosch-Elsenburg Agricultural College 1928-1939. (*Van der Byl*).
+Van der Byl \[Bijl\], Paul Andries (1888-1939), South African botanist (mycologist, phytopathologist); M.A. Victoria College Stellenbosch 1913; Dr. Sci. Cape Town 1915; teacher in Bethlehem O.F.S.; with the Division of Plant Pathology, Pretoria from ca. 1915-1918; in charge of the Botanic Station and National Herbarium, Durban 1918-1921; professor of phytopathology at the Agricultural Faculty of Stellenbosch University 1921-1928; principal of the Stellenbosch-Elsenburg Agricultural College 1928-1939. 
+**Abbreviated name**: *Van der Byl*
 
 #### Herbarium and types
 

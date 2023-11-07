@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/item/103683#page/216/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33212248) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Temminck, Coenraad Jacob (1778-1858), Dutch zoologist; ordinary professor botany and zoology and director of the Royal Netherlands Zoological Museum at Leiden. (*Temminck*).
+Temminck, Coenraad Jacob (1778-1858), Dutch zoologist; ordinary professor botany and zoology and director of the Royal Netherlands Zoological Museum at Leiden. 
+**Abbreviated name**: *Temminck*
 
 #### Herbarium and types
 

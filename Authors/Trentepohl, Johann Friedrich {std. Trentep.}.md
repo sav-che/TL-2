@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103683#page/478/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33212510) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trentepohl, Johann Friedrich (1748-1806), German (Oldenburg) clergyman and botanist; studied theology at Leipzig; private teacher at Dötlingen and Rodenkirchen; pastor at Eckwarden 1781-1789, from 1789-1806 at Oldenbrok. (*Trentep.*).
+Trentepohl, Johann Friedrich (1748-1806), German (Oldenburg) clergyman and botanist; studied theology at Leipzig; private teacher at Dötlingen and Rodenkirchen; pastor at Eckwarden 1781-1789, from 1789-1806 at Oldenbrok. 
+**Abbreviated name**: *Trentep.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/103253#page/164/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33068380) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heimerl, Anton (1857-1942), Austrian botanist; Dr. phil. Wien 1888; high school teacher at Sechshaus nr. Wien. (*Heimerl*).
+Heimerl, Anton (1857-1942), Austrian botanist; Dr. phil. Wien 1888; high school teacher at Sechshaus nr. Wien. 
+**Abbreviated name**: *Heimerl*
 
 #### Herbarium and types
 

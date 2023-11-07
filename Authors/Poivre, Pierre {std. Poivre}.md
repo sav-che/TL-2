@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/item/103624#page/338/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33189795) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Poivre, Pierre (1719-1786), French plant collector and administrator, travelling and collecting in China (1739-1745), Indochina, the Moluccas, the Philippines and Madagascar, for the French East India Company from 1748-1757, in France as agriculturist 1757-1767; from 1767-1773 "intendant" of Réunion and Ile de France; from 1773 again in France (*Poivre*).
+Poivre, Pierre (1719-1786), French plant collector and administrator, travelling and collecting in China (1739-1745), Indochina, the Moluccas, the Philippines and Madagascar, for the French East India Company from 1748-1757, in France as agriculturist 1757-1767; from 1767-1773 "intendant" of Réunion and Ile de France; from 1773 again in France 
+**Abbreviated name**: *Poivre*
 
 #### Herbarium and types
 

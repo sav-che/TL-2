@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/item/103414#page/486/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33120569) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Candolle, Augustin Pyramus de {std. DC.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Candolle, Augustin Pyramus de (1778-1841), Swiss botanist at Genève. (*DC*).
+Candolle, Augustin Pyramus de (1778-1841), Swiss botanist at Genève. 
+**Abbreviated name**: *DC*
 
 #### Herbarium and types
 

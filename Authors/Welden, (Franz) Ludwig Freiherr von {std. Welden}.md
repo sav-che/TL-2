@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103250#page/233/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33066513) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Welden, \[Franz\] Ludwig Freiherr von (1782-1853), German (Schwaben) soldier; studied law at Würzburg; from 1798 in the Austrian army; participated in all Austrian campaigns against Napoleon, ultimately military governor of Wien; retired 1851 as k.k. Feldmarschall; amateur botanist and horticulturist. (*Welden*).
+Welden, \[Franz\] Ludwig Freiherr von (1782-1853), German (Schwaben) soldier; studied law at Würzburg; from 1798 in the Austrian army; participated in all Austrian campaigns against Napoleon, ultimately military governor of Wien; retired 1851 as k.k. Feldmarschall; amateur botanist and horticulturist. 
+**Abbreviated name**: *Welden*
 
 #### Herbarium and types
 

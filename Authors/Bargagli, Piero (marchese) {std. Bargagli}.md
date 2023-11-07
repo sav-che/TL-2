@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/item/103858#page/337/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bargagli, Piero (marchese) (1844-1918), Italian entomologist and botanist, born in Siena, originally following a military career, later dedicating himself to natural history. (*Bargagli*).
+Bargagli, Piero (marchese) (1844-1918), Italian entomologist and botanist, born in Siena, originally following a military career, later dedicating himself to natural history. 
+**Abbreviated name**: *Bargagli*
 
 #### Herbarium and types
 

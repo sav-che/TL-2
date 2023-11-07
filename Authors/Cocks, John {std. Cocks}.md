@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/item/103414#page/565/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33120648) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cocks, John (1787-1861), British algologist. (*Cocks*).
+Cocks, John (1787-1861), British algologist. 
+**Abbreviated name**: *Cocks*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/104137#page/232/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33355303) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McDermott, Laura Frances (1882-1923), American botanist; M. Sc. Univ. Calif. 1907; later high school teacher at San Diego. (*McDermott*).
+McDermott, Laura Frances (1882-1923), American botanist; M. Sc. Univ. Calif. 1907; later high school teacher at San Diego. 
+**Abbreviated name**: *McDermott*
 
 #### Herbarium and types
 

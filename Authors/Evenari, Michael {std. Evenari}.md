@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/103835#page/445/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33260423) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Evenari, Michael (1904-1989), plant ecologist, geneticist and physiologist, born 9 Oct 1904 at Metz, Germany (now France) as Walter Schwarz, studied at the Wolfgang von Goethe University at Frankfurt from 1923, Dr. Sci. nat. 20 Dec 1926, moved to the Karls-University at Prague in 1928, returned to Germany (Darmstadt) but left, because of political problems, his home country in 1933, emigrated to Israel and changed his name to Michael Evenari, working for the Hebrew University, Jerusalem, fought with the Jewish Brigade in Italy in WW II. (*Evenari*).
+Evenari, Michael (1904-1989), plant ecologist, geneticist and physiologist, born 9 Oct 1904 at Metz, Germany (now France) as Walter Schwarz, studied at the Wolfgang von Goethe University at Frankfurt from 1923, Dr. Sci. nat. 20 Dec 1926, moved to the Karls-University at Prague in 1928, returned to Germany (Darmstadt) but left, because of political problems, his home country in 1933, emigrated to Israel and changed his name to Michael Evenari, working for the Hebrew University, Jerusalem, fought with the Jewish Brigade in Italy in WW II. 
+**Abbreviated name**: *Evenari*
 
 #### Herbarium and types
 

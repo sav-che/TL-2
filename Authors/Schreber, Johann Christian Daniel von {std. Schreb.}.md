@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/item/104077#page/342/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33333467) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schreber, Johann Christian Daniel von (1739-1810), German (Thüringian) botanist and zoologist; studied medicine, natural sciences and theology at Halle; Dr. med. Uppsala 1760 (with C. Linnaeus), practicing physician at Bützow, Mecklenburg with a readership at the University 1761; secretary of the "Oekonomische Gesellschaft" Leipzig 1764; third professor of medicine (incl. botany) ar Erlangen 1770; director of the Erlangen botanical garden 1773; professor of natural history ib. 1776; 1791 second, 1793 first professor of medicine; president of the Leopoldina 1791-1810. (*Schreb.*).
+Schreber, Johann Christian Daniel von (1739-1810), German (Thüringian) botanist and zoologist; studied medicine, natural sciences and theology at Halle; Dr. med. Uppsala 1760 (with C. Linnaeus), practicing physician at Bützow, Mecklenburg with a readership at the University 1761; secretary of the "Oekonomische Gesellschaft" Leipzig 1764; third professor of medicine (incl. botany) ar Erlangen 1770; director of the Erlangen botanical garden 1773; professor of natural history ib. 1776; 1791 second, 1793 first professor of medicine; president of the Leopoldina 1791-1810. 
+**Abbreviated name**: *Schreb.*
 
 #### Herbarium and types
 

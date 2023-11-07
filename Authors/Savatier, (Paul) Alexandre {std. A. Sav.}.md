@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/104077#page/97/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33333222) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savatier, \[Paul\] Alexandre (1824-1886), French botanist and practicing physician at and maire of Beauvais-sous-Matha (Charente-Maritime); studied at Montpellier. (*A. Sav.*).
+Savatier, \[Paul\] Alexandre (1824-1886), French botanist and practicing physician at and maire of Beauvais-sous-Matha (Charente-Maritime); studied at Montpellier. 
+**Abbreviated name**: *A. Sav.*
 
 #### Herbarium and types
 

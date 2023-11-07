@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103683#page/292/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33212324) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomsen, Christen (1822-1874), Danish botanist and high school teacher at Vordingborg, Randers and Roskilde. (*Chr. Thomsen*).
+Thomsen, Christen (1822-1874), Danish botanist and high school teacher at Vordingborg, Randers and Roskilde. 
+**Abbreviated name**: *Chr. Thomsen*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/item/104137#page/232/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33355303) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-MacDougal, Daniel Trembly (1865-1958), American botanist, Ph. D. Purdue Univ.; lecturer Univ. Minnesota 1893, ass. prof. bot. id. 1895; director laboratory of the New York Botanical Garden 1899-1905; director of the Desert Laboratory, Tucson, Arizona 1905-1928. (*MacDougal*).
+MacDougal, Daniel Trembly (1865-1958), American botanist, Ph. D. Purdue Univ.; lecturer Univ. Minnesota 1893, ass. prof. bot. id. 1895; director laboratory of the New York Botanical Garden 1899-1905; director of the Desert Laboratory, Tucson, Arizona 1905-1928. 
+**Abbreviated name**: *MacDougal*
 
 #### Herbarium and types
 

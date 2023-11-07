@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/item/104137#page/231/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McCormick, Robert (1800-1890), British navy surgeon and explorer who collected on the arctic expedition of W. E. Parry and the antarctic expedition of J. C. Ross. (*McCormick*).
+McCormick, Robert (1800-1890), British navy surgeon and explorer who collected on the arctic expedition of W. E. Parry and the antarctic expedition of J. C. Ross. 
+**Abbreviated name**: *McCormick*
 
 #### Herbarium and types
 

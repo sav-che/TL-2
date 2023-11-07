@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/item/103624#page/849/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33190306) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roe, John Septimus (1797-1878), English naval officer in the Royal Navy 1813-1827; surveyor general, W. Australia, 1829-1870; explorer and naturalist. (*Roe*).
+Roe, John Septimus (1797-1878), English naval officer in the Royal Navy 1813-1827; surveyor general, W. Australia, 1829-1870; explorer and naturalist. 
+**Abbreviated name**: *Roe*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/103624#page/262/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33189719) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piccioli, Antonio (1741-1842), Italian botanist; curator of the Firenze botanical garden. (*A. Piccioli*).
+Piccioli, Antonio (1741-1842), Italian botanist; curator of the Firenze botanical garden. 
+**Abbreviated name**: *A. Piccioli*
 
 #### Herbarium and types
 

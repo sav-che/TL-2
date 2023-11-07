@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/item/103834#page/293/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33259775) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Flot, Léon Alfred Victor (1857-x), French botanist, born 4 Dec 1857 in Montmorency (Seine-et-Oise), instructor ("Professeur"), Lycée Charlemagne, Dr. ès-sciences 1890 Paris. (*Flot*).
+Flot, Léon Alfred Victor (1857-x), French botanist, born 4 Dec 1857 in Montmorency (Seine-et-Oise), instructor ("Professeur"), Lycée Charlemagne, Dr. ès-sciences 1890 Paris. 
+**Abbreviated name**: *Flot*
 
 #### Herbarium and types
 

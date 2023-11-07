@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103253#page/362/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33068578) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Horsfield, Thomas (1773-1859), American zoologist and botanist; Dr. med. Philadelphia 1798; naturalist on Java 1800-1818; from 1820 keeper of the East India Company museum, London. (*Horsf*).
+Horsfield, Thomas (1773-1859), American zoologist and botanist; Dr. med. Philadelphia 1798; naturalist on Java 1800-1818; from 1820 keeper of the East India Company museum, London. 
+**Abbreviated name**: *Horsf*
 
 #### Herbarium and types
 

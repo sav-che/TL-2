@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/item/103683#page/685/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33212717) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vaniot, Eugène (x-1913), French clergyman (S.J.) and botanist in Le Mans. (*Vaniot*).
+Vaniot, Eugène (x-1913), French clergyman (S.J.) and botanist in Le Mans. 
+**Abbreviated name**: *Vaniot*
 
 #### Herbarium and types
 

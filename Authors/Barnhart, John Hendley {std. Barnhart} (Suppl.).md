@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/item/103858#page/345/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33265060) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barnhart, John Hendley {std. Barnhart}|first entry]] for this author
 
 ### Author
 
-\* Barnhart, John Hendley (1871-1949), American (New York) botanist and botanical bibliographer, educated in private schools and under tutors, A.B. Wesleyan University (Middletown, Conn.) 1892 (honours in biology), A.M. id. 1893, medical study in the College of Physicians and Surgeons 1893-1896, M.D. med. Columbia University 1896, never practised medicine but dedicated himself to botany, member of the Torrey Botanical Club from 1891, dedicating himself to botanical nomenclature, bibliography, biography and the Utriculariaceae, lived mainly in the New York area, 1898-1914 in Tarrytown, N.Y., from 1914 in the Bronx, editorial assistant at the New York Botanical Garden 1903, librarian ib. 1907, bibliographer ib. 1913-1942, with the main charge of editing the North American Flora, bibliographer emeritus 1942-1949. (*Barnhart*).
+\* Barnhart, John Hendley (1871-1949), American (New York) botanist and botanical bibliographer, educated in private schools and under tutors, A.B. Wesleyan University (Middletown, Conn.) 1892 (honours in biology), A.M. id. 1893, medical study in the College of Physicians and Surgeons 1893-1896, M.D. med. Columbia University 1896, never practised medicine but dedicated himself to botany, member of the Torrey Botanical Club from 1891, dedicating himself to botanical nomenclature, bibliography, biography and the Utriculariaceae, lived mainly in the New York area, 1898-1914 in Tarrytown, N.Y., from 1914 in the Bronx, editorial assistant at the New York Botanical Garden 1903, librarian ib. 1907, bibliographer ib. 1913-1942, with the main charge of editing the North American Flora, bibliographer emeritus 1942-1949. 
+**Abbreviated name**: *Barnhart*
 
 #### Herbarium and types
 

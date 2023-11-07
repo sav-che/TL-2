@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/item/103834#page/200/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33259682) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Figdor, Wilhelm (1866-1938), Austrian plant morphologist and physiologist, born 11 Mar 1866 in Vienna, studied botany and chemistry in Vienna and Bonn, Ph.D. 1891, visited Buitenzorg (i.e. Bogor), Java and Ceylon 10 Nov 1893-10 Feb 1894, demonstrator 1895, then asst. 1897 and finally prof. 1909, plant physiological Inst., all Univ. of Vienna, retired 1 Apr 1933, died 27 Jan 1938 in Vienna. (*Figdor*).
+Figdor, Wilhelm (1866-1938), Austrian plant morphologist and physiologist, born 11 Mar 1866 in Vienna, studied botany and chemistry in Vienna and Bonn, Ph.D. 1891, visited Buitenzorg (i.e. Bogor), Java and Ceylon 10 Nov 1893-10 Feb 1894, demonstrator 1895, then asst. 1897 and finally prof. 1909, plant physiological Inst., all Univ. of Vienna, retired 1 Apr 1933, died 27 Jan 1938 in Vienna. 
+**Abbreviated name**: *Figdor*
 
 #### Herbarium and types
 

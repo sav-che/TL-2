@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/item/103253#page/843/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33069059) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Legué, Alphonse Marie Léon (1841-1920), French botanist at Mondoubleau in Loir-et Cher. (*Legué*).
+Legué, Alphonse Marie Léon (1841-1920), French botanist at Mondoubleau in Loir-et Cher. 
+**Abbreviated name**: *Legué*
 
 #### Herbarium and types
 

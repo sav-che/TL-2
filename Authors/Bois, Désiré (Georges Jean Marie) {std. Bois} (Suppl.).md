@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103859#page/286/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33265473) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bois, Désiré Georges Jean Marie {std. Bois}|first entry]] for this author
 
 ### Author
 
-\* Bois, Désiré \[Georges Jean Marie\] (1856-1946), French horticulturist, employed 1872 as apprentice gardener at the Muséum d'Histoire naturelle, Paris, "préparateur" in botany 1879, assistant for cultivation 1886, id. professor 1920, honorary professor 1933, sometime editor of the Bulletin de la Société d'Horticulture de France 1895-1921, published numerous horticultural treatises, collected in Indo-China 1902-1903, visited Buitenzorg (Bogor) 1903, ultimately living in Saint Mondé. (*Bois*).
+\* Bois, Désiré \[Georges Jean Marie\] (1856-1946), French horticulturist, employed 1872 as apprentice gardener at the Muséum d'Histoire naturelle, Paris, "préparateur" in botany 1879, assistant for cultivation 1886, id. professor 1920, honorary professor 1933, sometime editor of the Bulletin de la Société d'Horticulture de France 1895-1921, published numerous horticultural treatises, collected in Indo-China 1902-1903, visited Buitenzorg (Bogor) 1903, ultimately living in Saint Mondé. 
+**Abbreviated name**: *Bois*
 
 #### Herbarium and types
 

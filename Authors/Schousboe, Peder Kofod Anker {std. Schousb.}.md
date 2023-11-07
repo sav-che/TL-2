@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/104077#page/323/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33333448) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schousboe, Peder Kofod Anker (1766-1832), Danish botanist and traveller; studied botany in Copenhagen with e.g. Rottbtøll; associated with the Copenhagen Botanical Garden and as such sent to collect in Spain and Morocco 1791-1793; counseller at the college of economic and commercial studies 1797; travelled in Spain and Portugal 1797-1798; consul for Denmark at Tangier 1801-1821, consul general 1821-1832. (*Schousb.*).
+Schousboe, Peder Kofod Anker (1766-1832), Danish botanist and traveller; studied botany in Copenhagen with e.g. Rottbtøll; associated with the Copenhagen Botanical Garden and as such sent to collect in Spain and Morocco 1791-1793; counseller at the college of economic and commercial studies 1797; travelled in Spain and Portugal 1797-1798; consul for Denmark at Tangier 1801-1821, consul general 1821-1832. 
+**Abbreviated name**: *Schousb.*
 
 #### Herbarium and types
 

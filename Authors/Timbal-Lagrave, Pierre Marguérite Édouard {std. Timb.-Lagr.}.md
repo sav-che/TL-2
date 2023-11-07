@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/item/103683#page/366/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33212398) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Timbal-Lagrave, Pierre Marguérite Édouard (1819-1888), French botanist; studied pharmacy and chemistry at Toulouse and Montpellier; pharmacien 1re classe Montpellier; practicing pharmacist; professor at the École de médecine et de pharmacie, Toulouse. (*Timb.-Lagr.*).
+Timbal-Lagrave, Pierre Marguérite Édouard (1819-1888), French botanist; studied pharmacy and chemistry at Toulouse and Montpellier; pharmacien 1re classe Montpellier; practicing pharmacist; professor at the École de médecine et de pharmacie, Toulouse. 
+**Abbreviated name**: *Timb.-Lagr.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/item/104077#page/637/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sjöstedt, \[Lars\] Gunnar (1894-1975), Swedish botanist; studied at Lund; Dr. phil. 1920; assistant at the Lund botanical Institute from 1918; lecturer in marine biology Univ. Lund 1928-1932; head teacher in biology High School Falun 1932-1948; id. Training School Kristianstad 1949-1958. (*Sjöstedt*).
+Sjöstedt, \[Lars\] Gunnar (1894-1975), Swedish botanist; studied at Lund; Dr. phil. 1920; assistant at the Lund botanical Institute from 1918; lecturer in marine biology Univ. Lund 1928-1932; head teacher in biology High School Falun 1932-1948; id. Training School Kristianstad 1949-1958. 
+**Abbreviated name**: *Sjöstedt*
 
 #### Herbarium and types
 

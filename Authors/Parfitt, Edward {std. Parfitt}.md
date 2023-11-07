@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103624#page/70/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33189489) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parfitt, Edward (1820-1893), British gardener, entomologist, mycologist and lichenologist; gardener in Norfolk and from 1848-1860 in Exeter; librarian of the Devon and Exeter Institution 1861-1893. (*Parfitt*).
+Parfitt, Edward (1820-1893), British gardener, entomologist, mycologist and lichenologist; gardener in Norfolk and from 1848-1860 in Exeter; librarian of the Devon and Exeter Institution 1861-1893. 
+**Abbreviated name**: *Parfitt*
 
 #### Herbarium and types
 

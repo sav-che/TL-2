@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/item/103414#page/731/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33120814) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Drümpelmann \[Drimpelman\], Ernst Wilhelm (1760-1830), German born Latvian botanist. (*Drümpelmann*).
+Drümpelmann \[Drimpelman\], Ernst Wilhelm (1760-1830), German born Latvian botanist. 
+**Abbreviated name**: *Drümpelmann*
 
 #### Herbarium and types
 

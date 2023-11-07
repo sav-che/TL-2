@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/item/103624#page/703/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33190160) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Reichenbach, Heinrich Gustav (1824-1889), German (Saxonian) botanist; especially orchidologist; Dr. phil. Leipzig 1852; assistant professor for natural history forestry college Tharandt 1848-1853; lecturer University of Leipzig 1852-1855; extra-ordinary professor of botany and curator of the herbarium Leipzig 1855-1863; professor of botany and the "Academic Gymnasium" and director of the botanical garden Hamburg 1863-1889. (*Rchb. fil.*).
+Reichenbach, Heinrich Gustav (1824-1889), German (Saxonian) botanist; especially orchidologist; Dr. phil. Leipzig 1852; assistant professor for natural history forestry college Tharandt 1848-1853; lecturer University of Leipzig 1852-1855; extra-ordinary professor of botany and curator of the herbarium Leipzig 1855-1863; professor of botany and the "Academic Gymnasium" and director of the botanical garden Hamburg 1863-1889. 
+**Abbreviated name**: *Rchb. fil.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/item/104077#page/897/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33334022) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stenfort, F. (*fl*. 1874), French botanist. (*Stenfort*).
+Stenfort, F. (*fl*. 1874), French botanist. 
+**Abbreviated name**: *Stenfort*
 
 #### Herbarium and types
 

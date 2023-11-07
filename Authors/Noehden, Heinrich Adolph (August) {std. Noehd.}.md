@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/item/104137#page/777/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noehden, Heinrich Adolph \[August\] (1775-1804), German botanist at Göttingen. (*Noehd.*).
+Noehden, Heinrich Adolph \[August\] (1775-1804), German botanist at Göttingen. 
+**Abbreviated name**: *Noehd.*
 
 #### Herbarium and types
 

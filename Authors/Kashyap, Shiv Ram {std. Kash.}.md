@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/item/103253#page/532/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33068748) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kashyap, Shiv Ram (1822-1934), Pakistani botanist; from 1919 professor of botany at the University of Panjab, Lahore. (*Kash.*).
+Kashyap, Shiv Ram (1822-1934), Pakistani botanist; from 1919 professor of botany at the University of Panjab, Lahore. 
+**Abbreviated name**: *Kash.*
 
 #### Herbarium and types
 

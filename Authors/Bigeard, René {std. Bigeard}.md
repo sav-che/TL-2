@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103859#page/171/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33265358) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bigeard, René (1840-1917), French mycologist, grew up on the paternal farm, adjunct teacher 1861-1862 at Anost, from 1862 idem at Vendenesse-sur-Arroux, 1866 id. at Antully and at Mouthiers-en-Bresse from 1874, later at Nolay, active member of the Société mycologique de France from ca. 1884. (*Bigeard*).
+Bigeard, René (1840-1917), French mycologist, grew up on the paternal farm, adjunct teacher 1861-1862 at Anost, from 1862 idem at Vendenesse-sur-Arroux, 1866 id. at Antully and at Mouthiers-en-Bresse from 1874, later at Nolay, active member of the Société mycologique de France from ca. 1884. 
+**Abbreviated name**: *Bigeard*
 
 #### Herbarium and types
 

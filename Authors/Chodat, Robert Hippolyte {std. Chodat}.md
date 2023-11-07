@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/item/103414#page/544/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33120627) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Chodat, Robert-Hippolyte {std. Chodat} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Chodat, Robert Hippolyte (1865-1934), Swiss botanist at Genève, plant collector in Paraguay. (*Chodat*).
+Chodat, Robert Hippolyte (1865-1934), Swiss botanist at Genève, plant collector in Paraguay. 
+**Abbreviated name**: *Chodat*
 
 #### Herbarium and types
 

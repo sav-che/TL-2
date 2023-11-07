@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/item/104077#page/576/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33333701) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sherrin, William Robert (1871-1955), English taxidermist and botanist; articulator Zool. Dept. BM(NH) 1895-1928; in charge of moss collection, Bot. Dept. ib. 1928-1947; curator South London Botanical Institute 1919. (*Sherrin*).
+Sherrin, William Robert (1871-1955), English taxidermist and botanist; articulator Zool. Dept. BM(NH) 1895-1928; in charge of moss collection, Bot. Dept. ib. 1928-1947; curator South London Botanical Institute 1919. 
+**Abbreviated name**: *Sherrin*
 
 #### Herbarium and types
 

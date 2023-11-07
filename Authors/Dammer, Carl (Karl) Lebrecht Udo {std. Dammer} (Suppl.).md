@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/item/103833#page/49/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33259083) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dammer, Carl Lebrecht Udo {std. Dammer}|first entry]] for this author
 
 ### Author
 
-\* Dammer, Carl \[Karl\] Lebrecht Udo (1860-1920), German botanist, born at Apolda (Thüringen), educated at the Luisenstädt. Gymnasium, Berlin, 1877-1878 at the königl. Gärten Potsdam, studied at the Botanical Garden Berlin, stage at Pomologisches Institut, Proskau 1879-1881, curator at the Botanical Garden St. Petersburg 1882-1886, studied botany at the University of Berlin 1886-1888, Dr. phil. Univ. Freiburg (with Pringsheim) 1888, at the Botanical Museum, Berlin 1889-1919, ultimately as curator, retired to Pommern, died in an accident near Karlsruh/Kolberg. (*Dammer*).
+\* Dammer, Carl \[Karl\] Lebrecht Udo (1860-1920), German botanist, born at Apolda (Thüringen), educated at the Luisenstädt. Gymnasium, Berlin, 1877-1878 at the königl. Gärten Potsdam, studied at the Botanical Garden Berlin, stage at Pomologisches Institut, Proskau 1879-1881, curator at the Botanical Garden St. Petersburg 1882-1886, studied botany at the University of Berlin 1886-1888, Dr. phil. Univ. Freiburg (with Pringsheim) 1888, at the Botanical Museum, Berlin 1889-1919, ultimately as curator, retired to Pommern, died in an accident near Karlsruh/Kolberg. 
+**Abbreviated name**: *Dammer*
 
 #### Herbarium and types
 

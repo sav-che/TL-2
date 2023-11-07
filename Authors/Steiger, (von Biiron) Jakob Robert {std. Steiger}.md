@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/item/104077#page/885/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33334010) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steiger, \[von Biiron\] Jakob Robert (1801-1862), Swiss botanist, politician and physician; physicians examination 1826; practicing in Biiron 1826-1830; id. and in various administrative functions in Luzern 1830-1862. (*Steiger*).
+Steiger, \[von Biiron\] Jakob Robert (1801-1862), Swiss botanist, politician and physician; physicians examination 1826; practicing in Biiron 1826-1830; id. and in various administrative functions in Luzern 1830-1862. 
+**Abbreviated name**: *Steiger*
 
 #### Herbarium and types
 

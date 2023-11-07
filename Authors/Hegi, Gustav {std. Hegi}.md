@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/103253#page/156/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33068372) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hegi, Gustav (1876-1932), Swiss botanist; studied at Zürich with Schinz; from 1902 curator, later lecturer and professor of botany (1910) at München; consul-general for Switzerland at München. (*Hegi*).
+Hegi, Gustav (1876-1932), Swiss botanist; studied at Zürich with Schinz; from 1902 curator, later lecturer and professor of botany (1910) at München; consul-general for Switzerland at München. 
+**Abbreviated name**: *Hegi*
 
 #### Herbarium and types
 

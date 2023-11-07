@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/item/103624#page/907/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33190364) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosenstock, Eduard (1856-post 1928), German (Kurhessen) pteridologist; owner of large fern collections; high school teacher at Gotha from ca. 1889. (*Rosenstock*).
+Rosenstock, Eduard (1856-post 1928), German (Kurhessen) pteridologist; owner of large fern collections; high school teacher at Gotha from ca. 1889. 
+**Abbreviated name**: *Rosenstock*
 
 #### Herbarium and types
 

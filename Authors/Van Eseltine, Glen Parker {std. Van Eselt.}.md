@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/item/103683#page/674/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33212706) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van Eseltine, Glen Parker (1888-1938), American botanist; AB Syracuse 1913, Aid, U.S. Natl. Herb. 1913-1915; assistant Office for seed and plant introduction USDA 1915-1919, assistant botanist 1919-1922; teacher North High School, Syracuse 1922-1926; associate horticulturist N.Y. Experiment Station, Geneva 1927. (*Van Eselt.*).
+Van Eseltine, Glen Parker (1888-1938), American botanist; AB Syracuse 1913, Aid, U.S. Natl. Herb. 1913-1915; assistant Office for seed and plant introduction USDA 1915-1919, assistant botanist 1919-1922; teacher North High School, Syracuse 1922-1926; associate horticulturist N.Y. Experiment Station, Geneva 1927. 
+**Abbreviated name**: *Van Eselt.*
 
 #### Herbarium and types
 

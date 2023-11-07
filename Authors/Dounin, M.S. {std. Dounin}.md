@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103835#page/89/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33260067) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dounin, M.S. (fl. 1929), Russian director of the Agricultural Laboratories in Moscow. (*Dounin*).
+Dounin, M.S. (fl. 1929), Russian director of the Agricultural Laboratories in Moscow. 
+**Abbreviated name**: *Dounin*
 
 #### Herbarium and types
 

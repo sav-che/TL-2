@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/item/103253#page/875/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33069091) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lespinasse, Jean Martial Gustave (1807-1876), French botanist at Bordeaux. (*Lesp.*).
+Lespinasse, Jean Martial Gustave (1807-1876), French botanist at Bordeaux. 
+**Abbreviated name**: *Lesp.*
 
 #### Herbarium and types
 

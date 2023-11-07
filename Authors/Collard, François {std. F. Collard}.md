@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103860#page/279/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33265946) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collard, François (b. 1826), Belgian botanist. (*F. Collard*).
+Collard, François (b. 1826), Belgian botanist. 
+**Abbreviated name**: *F. Collard*
 
 #### Herbarium and types
 

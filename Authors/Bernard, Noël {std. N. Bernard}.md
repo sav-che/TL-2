@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/item/103859#page/117/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33265304) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bernard, Noël (1874-1911), French botanist, originally at Caen, from 1909 lecturer ("Maître de Conférences") at the Faculté des Sciences at Poitiers. (*N. Bernard*).
+Bernard, Noël (1874-1911), French botanist, originally at Caen, from 1909 lecturer ("Maître de Conférences") at the Faculté des Sciences at Poitiers. 
+**Abbreviated name**: *N. Bernard*
 
 #### Herbarium and types
 

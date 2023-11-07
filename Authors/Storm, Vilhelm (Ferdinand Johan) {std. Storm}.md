@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/item/103683#page/38/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33212066) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Storm, Vilhelm \[Ferdinand Johan\] (1835-1913), Norwegian botanist and zoologist; studied at the University of Oslo; curator of the Trondhjem Museum 1856-1913. (*Storm*).
+Storm, Vilhelm \[Ferdinand Johan\] (1835-1913), Norwegian botanist and zoologist; studied at the University of Oslo; curator of the Trondhjem Museum 1856-1913. 
+**Abbreviated name**: *Storm*
 
 #### Herbarium and types
 

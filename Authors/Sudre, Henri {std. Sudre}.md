@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/item/103683#page/87/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sudre, Henri (1862-1918), French botanist (batologist); teacher at the Albi teacher's college, from 1904 id. at Toulouse. (*Sudre*).
+Sudre, Henri (1862-1918), French botanist (batologist); teacher at the Albi teacher's college, from 1904 id. at Toulouse. 
+**Abbreviated name**: *Sudre*
 
 #### Herbarium and types
 

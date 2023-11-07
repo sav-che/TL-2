@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/item/103624#page/826/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robin, Jean (1550-1629), French botanist and royal gardener; from 1590 at the Jardin des Plantes, Paris. (*J. Robin*).
+Robin, Jean (1550-1629), French botanist and royal gardener; from 1590 at the Jardin des Plantes, Paris. 
+**Abbreviated name**: *J. Robin*
 
 #### Herbarium and types
 

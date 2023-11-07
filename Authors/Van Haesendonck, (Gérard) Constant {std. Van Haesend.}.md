@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/item/103683#page/675/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Van Haesendonck, \[Gérard\] Constant (1810-1881), Belgian physician and botanist; studied at Antwerp; became gynaecologist and pharmacist at the St. Elisabeth hospital, also practicing physician at Tongerloo. (*Van Haesend.*).
+Van Haesendonck, \[Gérard\] Constant (1810-1881), Belgian physician and botanist; studied at Antwerp; became gynaecologist and pharmacist at the St. Elisabeth hospital, also practicing physician at Tongerloo. 
+**Abbreviated name**: *Van Haesend.*
 
 #### Herbarium and types
 

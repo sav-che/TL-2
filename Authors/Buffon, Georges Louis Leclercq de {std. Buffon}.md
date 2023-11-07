@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/item/103414#page/448/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33120531) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buffon, Georges Louis Leclercq de (1707-1788), French naturalist, "intendant" of the Jardin des Plantes, highly gifted writer, spiritual father of the idea of descendence. (*Buffon*).
+Buffon, Georges Louis Leclercq de (1707-1788), French naturalist, "intendant" of the Jardin des Plantes, highly gifted writer, spiritual father of the idea of descendence. 
+**Abbreviated name**: *Buffon*
 
 #### Collections
 

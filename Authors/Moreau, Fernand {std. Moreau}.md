@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/item/104137#page/592/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33355663) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moreau, Fernand (1886-1980), French mycologist and lichenologist; Dr. Sci. Paris 1913; at Clermond Ferrand (Faculty of Sciences) and director of the biological station at Besse, Puy-de-Dôme; from 1936 director of the Jardin botanique de la ville de Caen. (*Moreau*).
+Moreau, Fernand (1886-1980), French mycologist and lichenologist; Dr. Sci. Paris 1913; at Clermond Ferrand (Faculty of Sciences) and director of the biological station at Besse, Puy-de-Dôme; from 1936 director of the Jardin botanique de la ville de Caen. 
+**Abbreviated name**: *Moreau*
 
 #### Herbarium and types
 

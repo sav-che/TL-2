@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/item/103414#page/505/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33120588) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Carleton, Mark Alfred {std. Carleton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Carleton, Mark Alfred (1866-1925), American mycologist and phytopathologist. (*Carleton*).
+Carleton, Mark Alfred (1866-1925), American mycologist and phytopathologist. 
+**Abbreviated name**: *Carleton*
 
 #### Herbarium and types
 

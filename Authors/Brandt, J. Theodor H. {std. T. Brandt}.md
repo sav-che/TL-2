@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/item/103861#page/27/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33266324) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brandt, J. Theodor H. (1877-1939), German lichenologist, studied at the University of Münster in Westphalen, Dr. phil. ib. 1906. (*T. Brandt*).
+Brandt, J. Theodor H. (1877-1939), German lichenologist, studied at the University of Münster in Westphalen, Dr. phil. ib. 1906. 
+**Abbreviated name**: *T. Brandt*
 
 #### Herbarium and types
 

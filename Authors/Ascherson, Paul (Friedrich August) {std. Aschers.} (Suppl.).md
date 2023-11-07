@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/item/103858#page/198/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33264913) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ascherson, Paul Friedrich August {std. Aschers.}|first entry]] for this author
 
 ### Author
 
-\* Ascherson, Paul \[Friedrich August\] (1834-1913), German (Berlin) botanist, educated at the Marggraff Knabenschule and the Friedrich-Werder Gymnasium, Berlin, at the University of Berlin 1850 studying medicine, from 1852 botany with Alexander Braun, Dr. phil. ib. 1855, state medical examination 1856, practicing medicine 1856-1857, from 1857 dedicating himself only to botany, one of the founders (with Alexander Braun) of the "Botanischer Verein der Mark Brandenburg" 1859, worked on the flora of the Mark Brandenburg 1859-1864, travelled and collected widely in Central and South Europe as well as in North Africa, assistant at the Berlin Botanical Garden 1860-1876, from 1865 also first assistant of the herbarium, curator from 1871-1884, Dr. phil. Rostock 1863, "Habilitation" University of Berlin 1863, extraordinary professor of botany University of Berlin 1873, "Geheimer Regierungsrath" 1904, honorary full professor 1908. (*Aschers.*).
+\* Ascherson, Paul \[Friedrich August\] (1834-1913), German (Berlin) botanist, educated at the Marggraff Knabenschule and the Friedrich-Werder Gymnasium, Berlin, at the University of Berlin 1850 studying medicine, from 1852 botany with Alexander Braun, Dr. phil. ib. 1855, state medical examination 1856, practicing medicine 1856-1857, from 1857 dedicating himself only to botany, one of the founders (with Alexander Braun) of the "Botanischer Verein der Mark Brandenburg" 1859, worked on the flora of the Mark Brandenburg 1859-1864, travelled and collected widely in Central and South Europe as well as in North Africa, assistant at the Berlin Botanical Garden 1860-1876, from 1865 also first assistant of the herbarium, curator from 1871-1884, Dr. phil. Rostock 1863, "Habilitation" University of Berlin 1863, extraordinary professor of botany University of Berlin 1873, "Geheimer Regierungsrath" 1904, honorary full professor 1908. 
+**Abbreviated name**: *Aschers.*
 
 #### Herbarium and types
 

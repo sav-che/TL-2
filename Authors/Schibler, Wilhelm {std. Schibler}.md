@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/104077#page/159/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33333284) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schibler, Wilhelm (1861-1931), Swiss botanist; Dr. med. et phil. Bern 1887; from 1890 physician at Davos. (*Schibler*).
+Schibler, Wilhelm (1861-1931), Swiss botanist; Dr. med. et phil. Bern 1887; from 1890 physician at Davos. 
+**Abbreviated name**: *Schibler*
 
 #### Herbarium and types
 

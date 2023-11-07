@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/item/104137#page/288/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33355359) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Malzine, Omer de Pierre Antoine Hyacinthe Recq de (1820-1881), Belgian traveller in Mexico. (*Malzine*).
+Malzine, Omer de Pierre Antoine Hyacinthe Recq de (1820-1881), Belgian traveller in Mexico. 
+**Abbreviated name**: *Malzine*
 
 #### Herbarium and types
 

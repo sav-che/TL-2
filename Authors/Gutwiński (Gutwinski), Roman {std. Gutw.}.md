@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/item/103832#page/478/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33258944) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gutwiński \[Gutwinski\], Roman (1860-1932), Polish phycologist, born 4 Jun 1860 in Pagorzyne (Gorlice District), studied at Jaslo College 1871-1878 and then Krakow Univ. 1878-1882, assisted J.T. Rostafińsky until 1885, taught at various secondary schools incl. schools in Podgorze nr. Krakow 1892-1900 and finally Krakow 1900-1924, where he died 27 Oct 1932. (*Gutw.*).
+Gutwiński \[Gutwinski\], Roman (1860-1932), Polish phycologist, born 4 Jun 1860 in Pagorzyne (Gorlice District), studied at Jaslo College 1871-1878 and then Krakow Univ. 1878-1882, assisted J.T. Rostafińsky until 1885, taught at various secondary schools incl. schools in Podgorze nr. Krakow 1892-1900 and finally Krakow 1900-1924, where he died 27 Oct 1932. 
+**Abbreviated name**: *Gutw.*
 
 #### Herbarium and types
 

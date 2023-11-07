@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/item/103414#page/133/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33120216) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bach, Michael {std. Bach} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bach, Michael (1808-1878), German botanist and entomologist, teacher at a college in Boppard. (*Bach*).
+Bach, Michael (1808-1878), German botanist and entomologist, teacher at a college in Boppard. 
+**Abbreviated name**: *Bach*
 
 #### Herbarium and types
 

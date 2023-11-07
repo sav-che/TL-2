@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/item/103858#page/322/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265037) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bancroft, Edward (1744-1821), British naturalist and chemist, traveller in America, especially active in dyeing and calico printing, father of E.N. Bancroft. (*E. Bancroft*).
+Bancroft, Edward (1744-1821), British naturalist and chemist, traveller in America, especially active in dyeing and calico printing, father of E.N. Bancroft. 
+**Abbreviated name**: *E. Bancroft*
 
 #### Herbarium and types
 

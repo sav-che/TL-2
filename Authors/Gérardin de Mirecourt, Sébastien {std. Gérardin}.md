@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/item/103414#page/982/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 934](https://www.biodiversitylibrary.org/page/33121065) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gérardin (de Mirecourt), Sébastien {std. Gérardin} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gérardin de Mirecourt, Sébastien (1751-1816), French naturalist. (*Gérardin*).
+Gérardin de Mirecourt, Sébastien (1751-1816), French naturalist. 
+**Abbreviated name**: *Gérardin*
 
 #### Herbarium and types
 

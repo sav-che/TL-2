@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/item/103414#page/912/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fougeroux de Bondaroy, Auguste Denis (1732-1789), French agronomist and botanist, nephew of Duhamel du Monceau. (*Foug.*).
+Fougeroux de Bondaroy, Auguste Denis (1732-1789), French agronomist and botanist, nephew of Duhamel du Monceau. 
+**Abbreviated name**: *Foug.*
 
 #### Herbarium and types
 

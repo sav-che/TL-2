@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/item/104137#page/882/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33355953) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Overholts, Lee Oras (1890-1946), \# American mycologist; A.B. Miami Univ. 1912; Ph.D. St. Louis 1915; instructor in botany at Pennsylvania State College 1915-1917; professor of botany at id. 1917-1946. (*Overh.*).
+Overholts, Lee Oras (1890-1946), \# American mycologist; A.B. Miami Univ. 1912; Ph.D. St. Louis 1915; instructor in botany at Pennsylvania State College 1915-1917; professor of botany at id. 1917-1946. 
+**Abbreviated name**: *Overh.*
 
 #### Herbarium and types
 

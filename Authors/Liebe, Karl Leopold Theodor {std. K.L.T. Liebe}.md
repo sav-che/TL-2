@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/104137#page/27/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33355116) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Liebe, Karl Leopold Theodor (1828-1894), German ornithologist, mineralogist, geologist, and botanist; Dr. phil. Jena 1852; high school teacher at Hamburg (1852-1855); id. Gera (1855-1861 at the" Gewerbeschule", 1861-1894 at the "Rutheneum"); student of Oken and Schleiden. (*K.L.T. Liebe*).
+Liebe, Karl Leopold Theodor (1828-1894), German ornithologist, mineralogist, geologist, and botanist; Dr. phil. Jena 1852; high school teacher at Hamburg (1852-1855); id. Gera (1855-1861 at the" Gewerbeschule", 1861-1894 at the "Rutheneum"); student of Oken and Schleiden. 
+**Abbreviated name**: *K.L.T. Liebe*
 
 #### Herbarium and types
 

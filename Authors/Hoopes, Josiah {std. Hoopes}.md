@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/item/103253#page/328/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hoopes, Josiah (1832-1904), American nurseryman; popular author on gardening; ornithologist; at West Chester, Pa. (*Hoopes*).
+Hoopes, Josiah (1832-1904), American nurseryman; popular author on gardening; ornithologist; at West Chester, Pa. 
+**Abbreviated name**: *Hoopes*
 
 #### Herbarium and types
 

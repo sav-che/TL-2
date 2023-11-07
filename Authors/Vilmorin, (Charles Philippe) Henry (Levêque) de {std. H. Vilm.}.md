@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/item/103683#page/751/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33212783) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vilmorin, \[Charles Philippe\] Henry \[Levêque\] de (1843-1899), French botanist, geneticist and plant-breeder, son of Louis de Vilmorin; head of the Vilmorin-Andrieux et Cie 1867-1899 (from 1873 "chef de la Maison"); Légion d'Honneur 1882; Veitch Memorial Medal 1896. (*H. Vilm.*).
+Vilmorin, \[Charles Philippe\] Henry \[Levêque\] de (1843-1899), French botanist, geneticist and plant-breeder, son of Louis de Vilmorin; head of the Vilmorin-Andrieux et Cie 1867-1899 (from 1873 "chef de la Maison"); Légion d'Honneur 1882; Veitch Memorial Medal 1896. 
+**Abbreviated name**: *H. Vilm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/item/103624#page/283/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pio, Giovanni Batista (*fl*. 1813), Italian botanist. (*Pio*).
+Pio, Giovanni Batista (*fl*. 1813), Italian botanist. 
+**Abbreviated name**: *Pio*
 
 #### Herbarium and types
 

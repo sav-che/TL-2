@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/item/103414#page/571/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33120654) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Colla, Luigi (Aloysius) {std. Colla} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Colla, Luigi Aloysius (1766-1848), Italian lawyer and botanist, owner of a botanical garden at Rivoli near Torino. (*Colla*).
+Colla, Luigi Aloysius (1766-1848), Italian lawyer and botanist, owner of a botanical garden at Rivoli near Torino. 
+**Abbreviated name**: *Colla*
 
 #### Herbarium and types
 

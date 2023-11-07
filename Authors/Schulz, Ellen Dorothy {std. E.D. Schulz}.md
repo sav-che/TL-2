@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/104077#page/400/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33333525) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schulz, Ellen Dorothy (1887-1970), American botanist; M.S. Univ. Mich. 1918; high school teacher at San Antonio, Texas 1919-1925; director Witte Memorial Museum, ib. 1925-1960; married Roy William Quillin 29 Jul 1928. (*E.D. Schulz*).
+Schulz, Ellen Dorothy (1887-1970), American botanist; M.S. Univ. Mich. 1918; high school teacher at San Antonio, Texas 1919-1925; director Witte Memorial Museum, ib. 1925-1960; married Roy William Quillin 29 Jul 1928. 
+**Abbreviated name**: *E.D. Schulz*
 
 #### Herbarium and types
 

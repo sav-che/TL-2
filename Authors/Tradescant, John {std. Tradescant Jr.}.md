@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/item/103683#page/437/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33212469) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tradescant, John (1608-1662), British naturalist, traveller, collector and gardener; in Virginia 1637 collecting material for his father's museum at South Lambeth; from 1638 gardener to Queen Henrietta Maria; continued the management and further development of his father's garden and museum. (*Tradescant Jr.*).
+Tradescant, John (1608-1662), British naturalist, traveller, collector and gardener; in Virginia 1637 collecting material for his father's museum at South Lambeth; from 1638 gardener to Queen Henrietta Maria; continued the management and further development of his father's garden and museum. 
+**Abbreviated name**: *Tradescant Jr.*
 
 #### Herbarium and types
 

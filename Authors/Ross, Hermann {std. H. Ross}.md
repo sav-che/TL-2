@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/item/103624#page/914/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/page/33190371) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ross, Hermann (1862-1942), German (Danzig) botanist and cecidiologist; gardener at Greifswald 1880-1882; with Kny and Wittmack in Berlin 1882-1883; worked in Portici 1883-1884; assistant at the Palermo botanical garden 1884-1885; assistant with Wittmack in Berlin 1885-1887; Dr. phil. Freiburg i. Br. 1887; again assistant at Palermo 1887-1890; lecturer ib. 1890-1895; interim dir. Palermo botanical garden 1892-1893; running a milk processing plant at Palermo 1895-1897; "Kustos" (curator) at München with K. Goebel 1897-1902 at the botanical garden; id. with Radlkofer at the botanical museum 1902-1908; "Konservator" 1909, titular professor 1920, "Abteilungsleiter 1925; retired 1927; in retirement working especially on cecidiology. (*H. Ross*).
+Ross, Hermann (1862-1942), German (Danzig) botanist and cecidiologist; gardener at Greifswald 1880-1882; with Kny and Wittmack in Berlin 1882-1883; worked in Portici 1883-1884; assistant at the Palermo botanical garden 1884-1885; assistant with Wittmack in Berlin 1885-1887; Dr. phil. Freiburg i. Br. 1887; again assistant at Palermo 1887-1890; lecturer ib. 1890-1895; interim dir. Palermo botanical garden 1892-1893; running a milk processing plant at Palermo 1895-1897; "Kustos" (curator) at München with K. Goebel 1897-1902 at the botanical garden; id. with Radlkofer at the botanical museum 1902-1908; "Konservator" 1909, titular professor 1920, "Abteilungsleiter 1925; retired 1927; in retirement working especially on cecidiology. 
+**Abbreviated name**: *H. Ross*
 
 #### Herbarium and types
 

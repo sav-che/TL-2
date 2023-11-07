@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103683#page/160/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33212192) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Tafalla, Juan José (1755(?)-1811), Spanish botanist; pharmacist in Navarra; with Ruiz and Pavon on their expedition to Peru; professor of botany at Lima from 1788. (*Tafalla*).
+Tafalla, Juan José (1755(?)-1811), Spanish botanist; pharmacist in Navarra; with Ruiz and Pavon on their expedition to Peru; professor of botany at Lima from 1788. 
+**Abbreviated name**: *Tafalla*
 
 #### Herbarium and types
 

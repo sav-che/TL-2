@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/item/103253#page/165/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33068381) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hein, Heinrich (*fl*. 1877), German gardener (–Kunstgärtner–) in Hamburg (*H. Hein*).
+Hein, Heinrich (*fl*. 1877), German gardener (–Kunstgärtner–) in Hamburg 
+**Abbreviated name**: *H. Hein*
 
 #### Herbarium and types
 

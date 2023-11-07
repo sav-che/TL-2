@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/item/104137#page/591/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33355662) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morandi, Giambattista (Giovanni Battista) (*fl*. 1744), Italian medical botanist and artist at Milano. (*Morandi*).
+Morandi, Giambattista (Giovanni Battista) (*fl*. 1744), Italian medical botanist and artist at Milano. 
+**Abbreviated name**: *Morandi*
 
 #### Herbarium and types
 

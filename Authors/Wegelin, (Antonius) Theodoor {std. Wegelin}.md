@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/item/103250#page/205/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33066485) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wegelin, \[Antonius\] Theodoor (*fl*. 1837), Swiss (Sankt-Gallen) botanist and physician; Dr. med. Zürich 1838. (*Wegelin*).
+Wegelin, \[Antonius\] Theodoor (*fl*. 1837), Swiss (Sankt-Gallen) botanist and physician; Dr. med. Zürich 1838. 
+**Abbreviated name**: *Wegelin*
 
 #### Herbarium and types
 

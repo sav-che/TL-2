@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103624#page/398/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33189855) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Préaubert, Ernest (1852-1933), French botanist and physicist; teacher at a primary school in Rennes 1872-1873, id. at the Lycée de Rennes for physics 1873-1876; "professeur de sciences" at the Collège de Beauvois 1876-1882; as full professor at the Lycée de Rennes 1882-1902; director of the municipal courses of Rennes 1882-1905; from then on in retirement for health reasons. (*Préub.*).
+Préaubert, Ernest (1852-1933), French botanist and physicist; teacher at a primary school in Rennes 1872-1873, id. at the Lycée de Rennes for physics 1873-1876; "professeur de sciences" at the Collège de Beauvois 1876-1882; as full professor at the Lycée de Rennes 1882-1902; director of the municipal courses of Rennes 1882-1905; from then on in retirement for health reasons. 
+**Abbreviated name**: *Préub.*
 
 #### Herbarium and types
 

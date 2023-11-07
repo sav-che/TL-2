@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/item/103832#page/440/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33258906) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Grumman, Vitus Johannes {std. Grumm.}|first entry]] for this author
 
 ### Author
 
-\* Grummann, Vitus Johannes (1899-1967), German teacher and amateur lichenologist, born 3 Mar 1899 in Jacobsdorf (Oberschlesien), military service 1917-1918 (i.e. W.W.-I), teacher in Berlin 1920-1942 and again after W.W.-II, Ph.D. 1941 Berlin, retired 1963, died 9 \[12?\] Dec 1967 in Berlin. (*Grumm.*).
+\* Grummann, Vitus Johannes (1899-1967), German teacher and amateur lichenologist, born 3 Mar 1899 in Jacobsdorf (Oberschlesien), military service 1917-1918 (i.e. W.W.-I), teacher in Berlin 1920-1942 and again after W.W.-II, Ph.D. 1941 Berlin, retired 1963, died 9 \[12?\] Dec 1967 in Berlin. 
+**Abbreviated name**: *Grumm.*
 
 #### Herbarium and types
 

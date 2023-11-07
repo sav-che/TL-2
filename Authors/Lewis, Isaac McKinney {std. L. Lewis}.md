@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/item/103253#page/895/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33069111) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lewis, Isaac McKinney (1878-1943), American botanist; educated at Indiana State University; instructor of botany at New Hampshire State College (1908-1909); idem, later professor of botany at the University of Texas from 1909. (*L. Lewis*).
+Lewis, Isaac McKinney (1878-1943), American botanist; educated at Indiana State University; instructor of botany at New Hampshire State College (1908-1909); idem, later professor of botany at the University of Texas from 1909. 
+**Abbreviated name**: *L. Lewis*
 
 #### Herbarium and types
 

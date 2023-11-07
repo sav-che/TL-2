@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/item/103683#page/490/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33212522) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trevisan de Saint-Léon, Vittore \[Benedetto Antonio\], Conte (1818-1897), Italian botanist (cryptogamist). (*Trevis.*).
+Trevisan de Saint-Léon, Vittore \[Benedetto Antonio\], Conte (1818-1897), Italian botanist (cryptogamist). 
+**Abbreviated name**: *Trevis.*
 
 #### Herbarium and types
 

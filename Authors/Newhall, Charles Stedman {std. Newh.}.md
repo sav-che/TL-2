@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/item/104137#page/752/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33355823) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Newhall, Charles Stedman (1842-1935), American clergyman and dendrologist; BA. Amherst 1869, MA 1892; studied at Union Theological Seminary; filled various pastorates; ultimately superintendent of the forest reserves of Northern California. (*Newh.*).
+Newhall, Charles Stedman (1842-1935), American clergyman and dendrologist; BA. Amherst 1869, MA 1892; studied at Union Theological Seminary; filled various pastorates; ultimately superintendent of the forest reserves of Northern California. 
+**Abbreviated name**: *Newh.*
 
 #### Herbarium and types
 

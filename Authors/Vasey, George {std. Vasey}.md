@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/item/103683#page/686/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33212718) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vasey, George (1822-1893), English-born American botanist, especially agrostologist; came with his parents to the United States 1823; Dr. med. Pittsfield, Mass. 1847; practicing physician in northern Illinois 1848-1868; with J.W. Powell on exploring expeditions to Colorado 1868 and 1869; in charge of the Museum of the State Normal University of Illinois, Bloomington 1869-1872; from 1872-1893 botanist at the United States Department of Agriculture and curator of the United States National Herbarium. (*Vasey*).
+Vasey, George (1822-1893), English-born American botanist, especially agrostologist; came with his parents to the United States 1823; Dr. med. Pittsfield, Mass. 1847; practicing physician in northern Illinois 1848-1868; with J.W. Powell on exploring expeditions to Colorado 1868 and 1869; in charge of the Museum of the State Normal University of Illinois, Bloomington 1869-1872; from 1872-1893 botanist at the United States Department of Agriculture and curator of the United States National Herbarium. 
+**Abbreviated name**: *Vasey*
 
 #### Herbarium and types
 

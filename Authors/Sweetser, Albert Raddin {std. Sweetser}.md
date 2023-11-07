@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103683#page/135/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33212167) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sweetser, Albert Raddin (1861-1940), American botanist; M.A. Wesleyan Univ. 1887; Dr. phil. h.c. Univ. Oregon 1931; Harvard graduate School of Botany 1893-1897; botanist at Pacific University, Forest Grove, Oregon 1897-1902; professor of biology, University of Oregon 1902-1909; head Botany Dept. ib. 1909-1931; emeritus professor ib. from 1931. (*Sweetser*).
+Sweetser, Albert Raddin (1861-1940), American botanist; M.A. Wesleyan Univ. 1887; Dr. phil. h.c. Univ. Oregon 1931; Harvard graduate School of Botany 1893-1897; botanist at Pacific University, Forest Grove, Oregon 1897-1902; professor of biology, University of Oregon 1902-1909; head Botany Dept. ib. 1909-1931; emeritus professor ib. from 1931. 
+**Abbreviated name**: *Sweetser*
 
 #### Herbarium and types
 

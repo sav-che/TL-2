@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/item/103683#page/135/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33212167) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swezey, Goodwin Deloss (1851-1934), American astronomer, meteorologist and botanist; A.M. Beloit Coll., Wisconsin 1876; profesor of natural sciences Doane College, Nebraska 1880-1894; meteorologist State Board Agriculture, Nebraska 1891-1902; professor and professor emeritus astronomy and meteorology Univ. Nebraska from 1896; director Nebraska Weather Service 1884-1896; meteorologist U.S. Expt. Sta., Lincoln 1884-1906. (*Swezey*).
+Swezey, Goodwin Deloss (1851-1934), American astronomer, meteorologist and botanist; A.M. Beloit Coll., Wisconsin 1876; profesor of natural sciences Doane College, Nebraska 1880-1894; meteorologist State Board Agriculture, Nebraska 1891-1902; professor and professor emeritus astronomy and meteorology Univ. Nebraska from 1896; director Nebraska Weather Service 1884-1896; meteorologist U.S. Expt. Sta., Lincoln 1884-1906. 
+**Abbreviated name**: *Swezey*
 
 #### Herbarium and types
 

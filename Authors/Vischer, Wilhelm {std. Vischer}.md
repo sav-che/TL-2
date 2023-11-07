@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/item/103683#page/762/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33212794) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vischer, Wilhelm (1890-1960), Swiss botanist; studied medicine in Genève and Basel and natural sciences at München (1911-1914); Dr. phil. München 1914, student of K. Goebel; with R. Chodat in Paraguay 1914, working on the Paraguay collections in Genève 1914-1919; botanist at the Rubber Proefstation Westjava, Buitenzorg (Bogor) 1919-1923; habil. Basel 1924, lecturer 1924 and extraordinary professor of botany, Basel 1928-1960; phycologist, plant-geographer and nature conservationist. (*Vischer*).
+Vischer, Wilhelm (1890-1960), Swiss botanist; studied medicine in Genève and Basel and natural sciences at München (1911-1914); Dr. phil. München 1914, student of K. Goebel; with R. Chodat in Paraguay 1914, working on the Paraguay collections in Genève 1914-1919; botanist at the Rubber Proefstation Westjava, Buitenzorg (Bogor) 1919-1923; habil. Basel 1924, lecturer 1924 and extraordinary professor of botany, Basel 1928-1960; phycologist, plant-geographer and nature conservationist. 
+**Abbreviated name**: *Vischer*
 
 #### Herbarium and types
 

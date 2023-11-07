@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/item/103861#page/251/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33266548) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Burk, Karl (1888-x), German botanist, born 8 Mar 1888 at Wiesbaden, Oberrealschule until 1907, at the universities of Marburg, Berlin and München on natural sciences and geography, Dr. phil. Marburg 26 Feb 1913. (*K. Burk*).
+Burk, Karl (1888-x), German botanist, born 8 Mar 1888 at Wiesbaden, Oberrealschule until 1907, at the universities of Marburg, Berlin and München on natural sciences and geography, Dr. phil. Marburg 26 Feb 1913. 
+**Abbreviated name**: *K. Burk*
 
 #### Herbarium and types
 

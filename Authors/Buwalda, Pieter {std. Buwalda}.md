@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103861#page/299/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33266596) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buwalda, Pieter (1909-1947), Dutch botanist born in Exmorra, Friesland, studied at the University of Groningen, graduated (Ph. D.) 1936, assistant at the rubber plantation Bantardjaga near Rangkasbitoeng in Batam, Java, Indonesia 1937, later in 1937 employed by the Dutch East Indian Forest Service at the disposal of the Director of the Forest Research Institute, Buitenzorg/Bogor 1937-1939, stationed at Rengat, Indragiri, Sumatra 1939, in the Dutch East Indian Army 1941, to be transferred to Buitenzorg/Bogor Herbarium, but died on leave of absence at Haren, Groningen, Netherlands. (*Buwalda*).
+Buwalda, Pieter (1909-1947), Dutch botanist born in Exmorra, Friesland, studied at the University of Groningen, graduated (Ph. D.) 1936, assistant at the rubber plantation Bantardjaga near Rangkasbitoeng in Batam, Java, Indonesia 1937, later in 1937 employed by the Dutch East Indian Forest Service at the disposal of the Director of the Forest Research Institute, Buitenzorg/Bogor 1937-1939, stationed at Rengat, Indragiri, Sumatra 1939, in the Dutch East Indian Army 1941, to be transferred to Buitenzorg/Bogor Herbarium, but died on leave of absence at Haren, Groningen, Netherlands. 
+**Abbreviated name**: *Buwalda*
 
 #### Herbarium and types
 

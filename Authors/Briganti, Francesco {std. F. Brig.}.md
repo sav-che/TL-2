@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/item/103861#page/85/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33266382) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Briganti, Francesco (1802-1865), Italian botanist, born 18 Apr 1802, Naples, as son of Vincenzo Briganti (see TL-2/1: 325-326), continued the works of his father as professor at the University of Naples, died 21 Dec 1865, Naples. (*F. Brig.*).
+Briganti, Francesco (1802-1865), Italian botanist, born 18 Apr 1802, Naples, as son of Vincenzo Briganti (see TL-2/1: 325-326), continued the works of his father as professor at the University of Naples, died 21 Dec 1865, Naples. 
+**Abbreviated name**: *F. Brig.*
 
 #### Herbarium and types
 

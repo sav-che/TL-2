@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/item/103683#page/74/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33212106) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sturgis, William Codman (1886-1942), American cryptogamist; Dr. phil. Harvard 1889; vegetable pathologist at the Connecticut Agricultural Station 1891-1901; lecturer Yale School of Forestry 1899-1901; professor and dean School of Forestry, Colorado Springs 1904-1917; educational secretary Board of Missions, Prot. Episcopal Church, New York 1917-1927; lecturer College of preachers, Washington, D.C. 1928-1931; warden St. Martin's House, Bernardville, N.Y. 1934-1937. (*Sturgis*).
+Sturgis, William Codman (1886-1942), American cryptogamist; Dr. phil. Harvard 1889; vegetable pathologist at the Connecticut Agricultural Station 1891-1901; lecturer Yale School of Forestry 1899-1901; professor and dean School of Forestry, Colorado Springs 1904-1917; educational secretary Board of Missions, Prot. Episcopal Church, New York 1917-1927; lecturer College of preachers, Washington, D.C. 1928-1931; warden St. Martin's House, Bernardville, N.Y. 1934-1937. 
+**Abbreviated name**: *Sturgis*
 
 #### Herbarium and types
 

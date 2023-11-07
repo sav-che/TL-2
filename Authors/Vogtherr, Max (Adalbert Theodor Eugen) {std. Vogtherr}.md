@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/103683#page/783/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33212815) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vogtherr, Max \[Adalbert Theodor Eugen\] (1850-1915), German (Silesian) botanist and pharmacist; Dr. phil. Erlangen 1894; student-pharmacist at the "Jesuit Pharmacy" Liegnitz 1866, studied at the University of Breslau 1872-1874, state exam. pharm. 1874; assistant at the Pharmaceutic Institute of Breslau University ca. 1874-1876; owner of the pharmacy at Kindelbrück (Erfurt) 1876-1883; studied botany and philosophy at the University of Jena 1883-1885; owner of the pharmacy at Greussen 1885-1889; from 1876 conducting in addition a school for pharmacists and from 1889 owner of a private chemical-pharmaceutical laboratory; ultimately residing in Berlin. (*Vogtherr*).
+Vogtherr, Max \[Adalbert Theodor Eugen\] (1850-1915), German (Silesian) botanist and pharmacist; Dr. phil. Erlangen 1894; student-pharmacist at the "Jesuit Pharmacy" Liegnitz 1866, studied at the University of Breslau 1872-1874, state exam. pharm. 1874; assistant at the Pharmaceutic Institute of Breslau University ca. 1874-1876; owner of the pharmacy at Kindelbrück (Erfurt) 1876-1883; studied botany and philosophy at the University of Jena 1883-1885; owner of the pharmacy at Greussen 1885-1889; from 1876 conducting in addition a school for pharmacists and from 1889 owner of a private chemical-pharmaceutical laboratory; ultimately residing in Berlin. 
+**Abbreviated name**: *Vogtherr*
 
 #### Herbarium and types
 

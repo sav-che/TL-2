@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/item/104137#page/30/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33355113) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lienau, W., (*fl*. 1863), German pharmacist and botanist at Eutin, later court chemist at Rendsburg. (*Lienau*).
+Lienau, W., (*fl*. 1863), German pharmacist and botanist at Eutin, later court chemist at Rendsburg. 
+**Abbreviated name**: *Lienau*
 
 #### Herbarium and types
 

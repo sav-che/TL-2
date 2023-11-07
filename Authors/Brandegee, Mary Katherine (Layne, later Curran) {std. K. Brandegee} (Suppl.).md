@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/item/103861#page/19/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33266316) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brandegee, Mary Katherine Layne Curran {std. K. Brandegee}|first entry]] for this author
 
 ### Author
 
-\* Brandegee, Mary Katherine (Layne, later Curran) (1844-1920), American (California) botanist and plant collector, born in W. Tennessee, from 1853 in California, early schooling at a seminary in Folsom, Calif., married Hugh Curran (Irish) 1866-1874, came to San Francisco 1875, studied medicine at the University of California 1875-1878, M.D. 1878, took interest in botany from 1879, curator of the herbarium of the California Academy of Sciences 1883, married Towns===h===end Stith Brandegee 1889, the couple moved to San Diego 1894 setting up their own botanical library and herbarium, returned to Berkeley 1906 continuing botanizing without official appointment. (*K. Brandegee*).
+\* Brandegee, Mary Katherine (Layne, later Curran) (1844-1920), American (California) botanist and plant collector, born in W. Tennessee, from 1853 in California, early schooling at a seminary in Folsom, Calif., married Hugh Curran (Irish) 1866-1874, came to San Francisco 1875, studied medicine at the University of California 1875-1878, M.D. 1878, took interest in botany from 1879, curator of the herbarium of the California Academy of Sciences 1883, married Towns===h===end Stith Brandegee 1889, the couple moved to San Diego 1894 setting up their own botanical library and herbarium, returned to Berkeley 1906 continuing botanizing without official appointment. 
+**Abbreviated name**: *K. Brandegee*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/item/103253#page/507/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33068723) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Just, Theodor Karl (1904-1960), Austrian-born American botanist and palaeontologist from 1946 at the Field Museum, Chicago. (*Just*).
+Just, Theodor Karl (1904-1960), Austrian-born American botanist and palaeontologist from 1946 at the Field Museum, Chicago. 
+**Abbreviated name**: *Just*
 
 #### Herbarium and types
 

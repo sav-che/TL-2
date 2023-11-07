@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/item/103414#page/896/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Flowers, Seville {std. Flow.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Flowers, Seville (1900-1968), American bryologist. (*Flow.*).
+Flowers, Seville (1900-1968), American bryologist. 
+**Abbreviated name**: *Flow.*
 
 #### Herbarium and types
 

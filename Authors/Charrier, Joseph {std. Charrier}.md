@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103860#page/66/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33265733) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Charrier, Joseph (1879-1963), French pharmacist and bryologist, born at Gardes (Maine-et-Loire), educated at the Pensionat Saint-Gabriel in Saint-Laurent-sur-Sèvre (Vendée) 1886-1896, studied pharmacy at the Faculté de Bordeaux, 1906 pharmacien 1-re classe, 1910 pharmacist at La Châtaigneraie (Vendée) until 1956, (interrupted by the 1914-1918 war), retired 1956 at La Rochelle. (*Charrier*).
+Charrier, Joseph (1879-1963), French pharmacist and bryologist, born at Gardes (Maine-et-Loire), educated at the Pensionat Saint-Gabriel in Saint-Laurent-sur-Sèvre (Vendée) 1886-1896, studied pharmacy at the Faculté de Bordeaux, 1906 pharmacien 1-re classe, 1910 pharmacist at La Châtaigneraie (Vendée) until 1956, (interrupted by the 1914-1918 war), retired 1956 at La Rochelle. 
+**Abbreviated name**: *Charrier*
 
 #### Herbarium and types
 

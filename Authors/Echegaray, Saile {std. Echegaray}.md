@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103835#page/261/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33260239) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Echegaray, Saile (fl. 1876), Argentinian botanist, born at San Juan, Argentina, collected in Argentina 1876 (herb. univ. Córdoba). (*Echegaray*).
+Echegaray, Saile (fl. 1876), Argentinian botanist, born at San Juan, Argentina, collected in Argentina 1876 (herb. univ. Córdoba). 
+**Abbreviated name**: *Echegaray*
 
 #### Herbarium and types
 

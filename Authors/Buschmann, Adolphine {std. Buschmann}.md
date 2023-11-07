@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103861#page/286/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33266583) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Buschmann, Adolphine (1908-1989), Austrian botanist, studied at the University of Graz, demonstrator in the Botanical Garden Graz, from 1 Dec 1938 assistant at the botanical institute of the University of Graz, later specialist in Poa and Deschampsia as well as university lecturer. (*Buschmann*).
+Buschmann, Adolphine (1908-1989), Austrian botanist, studied at the University of Graz, demonstrator in the Botanical Garden Graz, from 1 Dec 1938 assistant at the botanical institute of the University of Graz, later specialist in Poa and Deschampsia as well as university lecturer. 
+**Abbreviated name**: *Buschmann*
 
 #### Herbarium and types
 

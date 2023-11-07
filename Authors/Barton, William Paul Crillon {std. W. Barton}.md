@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/103414#page/177/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33120260) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Barton, William Paul Crillon {std. W. Barton} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Barton, William Paul Crillon (1786-1856), American botanist at Philadelphia; nephew of B. S. Barton. (*W. Barton*).
+Barton, William Paul Crillon (1786-1856), American botanist at Philadelphia; nephew of B. S. Barton. 
+**Abbreviated name**: *W. Barton*
 
 #### Herbarium and types
 

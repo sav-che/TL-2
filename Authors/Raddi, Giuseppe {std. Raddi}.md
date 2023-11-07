@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/item/103624#page/550/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33190007) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Raddi, Giuseppe (1770-1829), Italian botanist at Firenze; on the Austrian Expedition to Brazil (1817-1818), collected also in Madeira (1817) and Egypt (1827-1829); died on the homeward journey from Egypt at Rhodos. (*Raddi*).
+Raddi, Giuseppe (1770-1829), Italian botanist at Firenze; on the Austrian Expedition to Brazil (1817-1818), collected also in Madeira (1817) and Egypt (1827-1829); died on the homeward journey from Egypt at Rhodos. 
+**Abbreviated name**: *Raddi*
 
 #### Herbarium and types
 

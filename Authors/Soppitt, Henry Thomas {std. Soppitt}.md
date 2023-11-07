@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/item/104077#page/763/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33333888) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Soppitt, Henry Thomas (1858-1899), British (Yorkshire) mycologist and drysalter, in Bradford until 1894; in Halifax 1894-1899. (*Soppitt*).
+Soppitt, Henry Thomas (1858-1899), British (Yorkshire) mycologist and drysalter, in Bradford until 1894; in Halifax 1894-1899. 
+**Abbreviated name**: *Soppitt*
 
 #### Herbarium and types
 

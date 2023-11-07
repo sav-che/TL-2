@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/item/103833#page/349/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33259383) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dietzow, W. Ludwig \[von\] (fl. 1909-1938), German school teacher and bryologist living at Grünhagen (Kreis Pr. Holland). (*Dietzow*).
+Dietzow, W. Ludwig \[von\] (fl. 1909-1938), German school teacher and bryologist living at Grünhagen (Kreis Pr. Holland). 
+**Abbreviated name**: *Dietzow*
 
 #### Herbarium and types
 

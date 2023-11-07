@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/item/104137#page/593/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33355664) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Morel, L. F. (*fl*. 1865), French clergyman, high school teacher and mycologist. (*L. Morel*).
+Morel, L. F. (*fl*. 1865), French clergyman, high school teacher and mycologist. 
+**Abbreviated name**: *L. Morel*
 
 #### Herbarium and types
 

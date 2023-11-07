@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/item/103858#page/277/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bailey, Liberty Hyde {std. L.H. Bailey}|first entry]] for this author
 
 ### Author
 
-\* Bailey, Liberty Hyde (1858-1954), American horticulturist and botanist, educated at Michigan Agricultural College; B.S. 1882, professor of horticulture and landscape gardening at Michigan State (Agricult.) College 1885, M.S. ib. 1886, professor of practical and experimental horticulture at Cornell University, Ithaca, N.Y. 1888-1903, second director of the College of Agriculture ib. 1903, dean of the New York State College of Agriculture and director of ib. experiment station 1904, founder, and donor of the Bailey Hortorium. (*L.H. Bailey*).
+\* Bailey, Liberty Hyde (1858-1954), American horticulturist and botanist, educated at Michigan Agricultural College; B.S. 1882, professor of horticulture and landscape gardening at Michigan State (Agricult.) College 1885, M.S. ib. 1886, professor of practical and experimental horticulture at Cornell University, Ithaca, N.Y. 1888-1903, second director of the College of Agriculture ib. 1903, dean of the New York State College of Agriculture and director of ib. experiment station 1904, founder, and donor of the Bailey Hortorium. 
+**Abbreviated name**: *L.H. Bailey*
 
 #### Herbarium and types
 

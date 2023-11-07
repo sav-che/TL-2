@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/item/103833#page/263/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Devez, G. (fl. 1922), French doctor in sciences and medicine, member of the "Chambre d'Agriculture de la Guyane". (*Devez*).
+Devez, G. (fl. 1922), French doctor in sciences and medicine, member of the "Chambre d'Agriculture de la Guyane". 
+**Abbreviated name**: *Devez*
 
 #### Herbarium and types
 

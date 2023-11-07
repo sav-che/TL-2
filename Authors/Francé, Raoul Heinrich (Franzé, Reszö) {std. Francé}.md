@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/item/103414#page/917/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33121000) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Francé (Franzé), Raoul (Rudolf, Reszö) Heinrich {std. Francé} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Francé, Raoul Heinrich \[Franzé, Reszö\] (1874-x), Hungarian algologist. (*Francé*).
+Francé, Raoul Heinrich \[Franzé, Reszö\] (1874-x), Hungarian algologist. 
+**Abbreviated name**: *Francé*
 
 #### Herbarium and types
 

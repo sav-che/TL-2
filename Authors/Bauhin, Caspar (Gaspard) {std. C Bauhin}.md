@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/item/103414#page/195/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33120278) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bauhin, Caspar (Gaspard) (1560-1624), Swiss physician and botanist, professor of anatomy and botany at Basel University 1588-1614. (*C Bauhin*).
+Bauhin, Caspar (Gaspard) (1560-1624), Swiss physician and botanist, professor of anatomy and botany at Basel University 1588-1614. 
+**Abbreviated name**: *C Bauhin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103833#page/81/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259115) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Darker, Grant Dooks (1898-1979), Canadian mycologist, born 23 Dec 1898, Streetsville, Ontario, at the University of Toronto AB 1922, AM 1925, Harvard Ph.D. 1931, assistant in botany at the University of Toronto 1922-1928, at Harvard (Arnold Arboretum) 1928-1931, Toronto fellow traveller Europa 1931-1932, assistant 1932-1933, associate from 1933. (*Darker*).
+Darker, Grant Dooks (1898-1979), Canadian mycologist, born 23 Dec 1898, Streetsville, Ontario, at the University of Toronto AB 1922, AM 1925, Harvard Ph.D. 1931, assistant in botany at the University of Toronto 1922-1928, at Harvard (Arnold Arboretum) 1928-1931, Toronto fellow traveller Europa 1931-1932, assistant 1932-1933, associate from 1933. 
+**Abbreviated name**: *Darker*
 
 #### Herbarium and types
 

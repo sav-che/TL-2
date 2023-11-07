@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/item/103860#page/493/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33266160) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Crowfoot, Grace Mary (Hood) (fl. 1910-1932), British traveller and botanist, travelled in Sudan and Transjordan ca. 1914-1925. (*Crowfoot*).
+Crowfoot, Grace Mary (Hood) (fl. 1910-1932), British traveller and botanist, travelled in Sudan and Transjordan ca. 1914-1925. 
+**Abbreviated name**: *Crowfoot*
 
 #### Herbarium and types
 

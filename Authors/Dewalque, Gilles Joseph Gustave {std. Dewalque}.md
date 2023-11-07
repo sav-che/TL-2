@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/item/103833#page/265/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dewalque, Gilles Joseph Gustave (1828-1905), Belgian physician, mineralogist, geologist, palaeontologist and botanist, born 2 Dec 1828 at Stavelot (or 2 Dec 1826?), studied medicine and natural sciences, teacher at Liège in 1850, 1852 preparator for physiology at the Université de Liège, Dr. medicine in 1853 and in 1854 Dr. natural sciences, e.o. professor for mineralogy, geology, and palaeontology at Liège in 1857, 1870 president of the Belgian Academy, retired in 1897, died 3 Nov 1905 at Liège. (*Dewalque*).
+Dewalque, Gilles Joseph Gustave (1828-1905), Belgian physician, mineralogist, geologist, palaeontologist and botanist, born 2 Dec 1828 at Stavelot (or 2 Dec 1826?), studied medicine and natural sciences, teacher at Liège in 1850, 1852 preparator for physiology at the Université de Liège, Dr. medicine in 1853 and in 1854 Dr. natural sciences, e.o. professor for mineralogy, geology, and palaeontology at Liège in 1857, 1870 president of the Belgian Academy, retired in 1897, died 3 Nov 1905 at Liège. 
+**Abbreviated name**: *Dewalque*
 
 #### Herbarium and types
 

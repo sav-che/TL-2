@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/item/104077#page/786/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33333911) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spalowsky, Joachim Johann Nepomuk (1752-1797), Austrian physician, zoologist and botanist; physician of the Bürger-Regiment" in Vienna. (*Spalowsky*).
+Spalowsky, Joachim Johann Nepomuk (1752-1797), Austrian physician, zoologist and botanist; physician of the Bürger-Regiment" in Vienna. 
+**Abbreviated name**: *Spalowsky*
 
 #### Herbarium and types
 

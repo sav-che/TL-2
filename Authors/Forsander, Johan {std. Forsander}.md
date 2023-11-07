@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/item/103834#page/342/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33259824) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forsander, Johan (1795-1866), Swedish botanist, born 6 Mai 1795 in Jönköping, studied at Lund from 1813, Dr. phil. 1817 (under C.A. Agardh), high school teacher at gymnasium Växjö 1821-1860, died 8 Jul 1866 in Växjö. (*Forsander*).
+Forsander, Johan (1795-1866), Swedish botanist, born 6 Mai 1795 in Jönköping, studied at Lund from 1813, Dr. phil. 1817 (under C.A. Agardh), high school teacher at gymnasium Växjö 1821-1860, died 8 Jul 1866 in Växjö. 
+**Abbreviated name**: *Forsander*
 
 #### Herbarium and types
 

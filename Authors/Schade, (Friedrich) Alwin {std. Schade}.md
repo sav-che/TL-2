@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/item/104077#page/116/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33333241) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schade, \[Friedrich\] Alwin (1881-1976), German (Lausitz) botanist (lichenologist); Dr. phil. Jena 1911; high school teacher ("Studienrat") at the Kreuzschule at Dresden 1906-1945; on war duty and p.o.w. in France 1914-1919; schoolsupervisor at Putzkau 1946-1947; Dr. h.c. Dresden Techn.Univ. 1966. (*Schade*).
+Schade, \[Friedrich\] Alwin (1881-1976), German (Lausitz) botanist (lichenologist); Dr. phil. Jena 1911; high school teacher ("Studienrat") at the Kreuzschule at Dresden 1906-1945; on war duty and p.o.w. in France 1914-1919; schoolsupervisor at Putzkau 1946-1947; Dr. h.c. Dresden Techn.Univ. 1966. 
+**Abbreviated name**: *Schade*
 
 #### Herbarium and types
 

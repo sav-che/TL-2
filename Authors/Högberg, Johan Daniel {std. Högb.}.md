@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/item/103253#page/253/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33068469) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Högberg, Johan Daniel (1823-1843), Swedish student pharmacist and botanist at Strängnäs and Uppsala. (*Högb.*).
+Högberg, Johan Daniel (1823-1843), Swedish student pharmacist and botanist at Strängnäs and Uppsala. 
+**Abbreviated name**: *Högb.*
 
 #### Herbarium and types
 

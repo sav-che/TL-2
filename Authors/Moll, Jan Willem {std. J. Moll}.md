@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/item/104137#page/568/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33355639) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moll, Jan Willem (1851-1933), Dutch phytographer; Dr. Phil. Leiden 1876; high school teacher at Utrecht 1876-1890; from then on professor of botany at Groningen and director of the botanical garden until 1917. (*J. Moll*).
+Moll, Jan Willem (1851-1933), Dutch phytographer; Dr. Phil. Leiden 1876; high school teacher at Utrecht 1876-1890; from then on professor of botany at Groningen and director of the botanical garden until 1917. 
+**Abbreviated name**: *J. Moll*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/item/103860#page/183/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265850) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cienkowski, Leo de (Tzenkovskii, Lev Semenovich) {std. Cienk.}|first entry]] for this author
 
 ### Author
 
-\* Cienkowski\[or -y\], Leo de (Tzenkovskii, Lev Semenovich) (1822-1887), Polish biologist and microscopist, born at Warsaw 13 Oct 1822, educated at the Gymnasium of St.Petersburg, professor of botany at the University of St. Petersburg 1854-1861, id. at Warsaw 1862-1865, at Odessa 1865-1871 and Charkof 1871-1887, died 7 Oct 1887 at Leipzig. (*Cienk.*).
+\* Cienkowski\[or -y\], Leo de (Tzenkovskii, Lev Semenovich) (1822-1887), Polish biologist and microscopist, born at Warsaw 13 Oct 1822, educated at the Gymnasium of St.Petersburg, professor of botany at the University of St. Petersburg 1854-1861, id. at Warsaw 1862-1865, at Odessa 1865-1871 and Charkof 1871-1887, died 7 Oct 1887 at Leipzig. 
+**Abbreviated name**: *Cienk.*
 
 #### Herbarium and types
 

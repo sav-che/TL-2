@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/item/103414#page/608/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33120691) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coupin, Henri Eugène Victor (1868-x), French botanist. (*Coupin*).
+Coupin, Henri Eugène Victor (1868-x), French botanist. 
+**Abbreviated name**: *Coupin*
 
 #### Herbarium and types
 

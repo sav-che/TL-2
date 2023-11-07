@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/item/103253#page/853/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33069069) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leighton, (Rev.) William Allport (1805-1889), British clergyman and botanist in Luciefelde near Shrewsbury. (*Leight.*).
+Leighton, (Rev.) William Allport (1805-1889), British clergyman and botanist in Luciefelde near Shrewsbury. 
+**Abbreviated name**: *Leight.*
 
 #### Herbarium and types
 

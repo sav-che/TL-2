@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/103859#page/319/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265506) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bonavia, Emanuel (1826-1908), British colonial physician and botanist, M.D. in the Bengal Medical Service 1857, superintendent Lucknow Gardens 1876, from 1885 at Calcutta. (*Bonavia*).
+Bonavia, Emanuel (1826-1908), British colonial physician and botanist, M.D. in the Bengal Medical Service 1857, superintendent Lucknow Gardens 1876, from 1885 at Calcutta. 
+**Abbreviated name**: *Bonavia*
 
 #### Herbarium and types
 

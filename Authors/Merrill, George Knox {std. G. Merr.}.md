@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/104137#page/446/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33355517) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Merrill, George Knox (1864-1927), American lichenologist, journalist and photographer; active at Rockland, Maine were he kept an art studio. (*G. Merr.*).
+Merrill, George Knox (1864-1927), American lichenologist, journalist and photographer; active at Rockland, Maine were he kept an art studio. 
+**Abbreviated name**: *G. Merr.*
 
 #### Herbarium and types
 

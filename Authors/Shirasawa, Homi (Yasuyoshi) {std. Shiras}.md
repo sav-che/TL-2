@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/item/104077#page/580/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33333705) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shirasawa, Homi \[Yasuyoshi\] (1868-1947), Japanese dendrologist; inspector of forests at the Ministry of agriculture and commerce; director of the Forestry Experiment Station 1913-1932. (*Shiras*).
+Shirasawa, Homi \[Yasuyoshi\] (1868-1947), Japanese dendrologist; inspector of forests at the Ministry of agriculture and commerce; director of the Forestry Experiment Station 1913-1932. 
+**Abbreviated name**: *Shiras*
 
 #### Herbarium and types
 

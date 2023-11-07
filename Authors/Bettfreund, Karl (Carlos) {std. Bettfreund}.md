@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/item/103414#page/257/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33120340) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bettfreund, Karl \[Carlos\] (*fl*. 1887-1901), botanist of German origin in Argentina. (*Bettfreund*).
+Bettfreund, Karl \[Carlos\] (*fl*. 1887-1901), botanist of German origin in Argentina. 
+**Abbreviated name**: *Bettfreund*
 
 #### Herbarium and types
 

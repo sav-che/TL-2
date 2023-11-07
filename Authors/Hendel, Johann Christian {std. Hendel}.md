@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103253#page/180/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hendel, Johann Christian (1742-1823), German publisher and bookseller. (*Hendel*).
+Hendel, Johann Christian (1742-1823), German publisher and bookseller. 
+**Abbreviated name**: *Hendel*
 
 #### Herbarium and types
 

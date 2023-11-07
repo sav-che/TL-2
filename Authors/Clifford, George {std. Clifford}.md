@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/item/103414#page/559/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Clifford, George (1685-1760), Dutch banker, governor of the Dutch East Indian Company, trustee of the *Hortus medicus* in Amsterdam and owner of the estate De Hartecamp south of Haarlem (near Bennebroek). (*Clifford*).
+Clifford, George (1685-1760), Dutch banker, governor of the Dutch East Indian Company, trustee of the *Hortus medicus* in Amsterdam and owner of the estate De Hartecamp south of Haarlem (near Bennebroek). 
+**Abbreviated name**: *Clifford*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/103833#page/39/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33259073) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dallas, Ellen Markoe (née Wharton) (fl. 1867-1900), American botanist, married 22 Oct 1867 with George Mittlin Dallas. (*Dallas*).
+Dallas, Ellen Markoe (née Wharton) (fl. 1867-1900), American botanist, married 22 Oct 1867 with George Mittlin Dallas. 
+**Abbreviated name**: *Dallas*
 
 #### Herbarium and types
 

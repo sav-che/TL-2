@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/item/103624#page/50/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33189469) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Palustre (*fl*. 1840), French physician and botanist. (*Palustre*).
+Palustre (*fl*. 1840), French physician and botanist. 
+**Abbreviated name**: *Palustre*
 
 #### Herbarium and types
 

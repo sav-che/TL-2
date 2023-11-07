@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/item/103414#page/1024/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33121107) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gourlie, William (1815-1856), Scottish palaeobiologist, pupil of W. J. Hooker and J. H. Balfour, (*Gourlie*).
+Gourlie, William (1815-1856), Scottish palaeobiologist, pupil of W. J. Hooker and J. H. Balfour, 
+**Abbreviated name**: *Gourlie*
 
 #### Collections
 

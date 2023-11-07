@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/item/103859#page/37/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33265224) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Beck, Lewis Caleb {std. L.C. Beck}|first entry]] for this author
 
 ### Author
 
-\* Beck, Louis Caleb (1798-1853), American physician and naturalist, born in Schenectady, N.Y., educated at Union College, Schenectady 1817, studied medicine 1817-1818, practicing at Schenectady 1818-1820; in St. Louis, Mo., 1820-1822, returned to Albany 1822, connected with Rensselaer Polytechnic Institute, Rutgen College and Albany Medical College as professor of botany and other sciences. (*L.C. Beck*).
+\* Beck, Louis Caleb (1798-1853), American physician and naturalist, born in Schenectady, N.Y., educated at Union College, Schenectady 1817, studied medicine 1817-1818, practicing at Schenectady 1818-1820; in St. Louis, Mo., 1820-1822, returned to Albany 1822, connected with Rensselaer Polytechnic Institute, Rutgen College and Albany Medical College as professor of botany and other sciences. 
+**Abbreviated name**: *L.C. Beck*
 
 #### Herbarium and types
 

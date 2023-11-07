@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103860#page/187/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33265854) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cihlar, Cvijeta (fl. 1915), Croatian botanist at Zagreb. (*Cihlar*).
+Cihlar, Cvijeta (fl. 1915), Croatian botanist at Zagreb. 
+**Abbreviated name**: *Cihlar*
 
 #### Herbarium and types
 

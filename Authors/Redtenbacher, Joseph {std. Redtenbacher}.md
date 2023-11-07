@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/item/103624#page/644/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/page/33190101) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Redtenbacher, Joseph (1810-1870), Austrian chemist and botanist; Dr. med. Wien 1834; studied with Mitscherlich in Berlin, and with Liebig in Giessen; professor of chemistry Praha 1841-1849, idem at Wien 1849-1870. (*Redtenbacher*).
+Redtenbacher, Joseph (1810-1870), Austrian chemist and botanist; Dr. med. Wien 1834; studied with Mitscherlich in Berlin, and with Liebig in Giessen; professor of chemistry Praha 1841-1849, idem at Wien 1849-1870. 
+**Abbreviated name**: *Redtenbacher*
 
 #### Herbarium and types
 

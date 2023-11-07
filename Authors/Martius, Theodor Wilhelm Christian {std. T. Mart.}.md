@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/item/104137#page/356/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33355427) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Martius, Theodor Wilhelm Christian (1796-1863), German pharmacist and botanist at Erlangen; brother of G. F. P. von Martius. (*T. Mart.*).
+Martius, Theodor Wilhelm Christian (1796-1863), German pharmacist and botanist at Erlangen; brother of G. F. P. von Martius. 
+**Abbreviated name**: *T. Mart.*
 
 #### Herbarium and types
 

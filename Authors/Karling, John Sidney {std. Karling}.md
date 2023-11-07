@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/item/103253#page/524/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33068740) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Karling, John Sidney (1898-x), American algologist and mycologist at Columbia and Purdue Universities, Ph. D. Columbia Univ. 1926. (*Karling*).
+Karling, John Sidney (1898-x), American algologist and mycologist at Columbia and Purdue Universities, Ph. D. Columbia Univ. 1926. 
+**Abbreviated name**: *Karling*
 
 #### Herbarium and types
 

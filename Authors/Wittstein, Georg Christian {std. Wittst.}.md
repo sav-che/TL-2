@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/item/103250#page/472/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33066752) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wittstein, Georg Christian (1810-1887), German (Hannover) pharmacist; studied pharmacy in various Hannoverian pharmacies; student, later assistant at the Pharmaceutical Institute, Univ. München 1835-1850; Dr. phil. München 1840; teacher at a technical school in Ansbach 1851-1853; in charge of a private school for chemistry in München 1853-1879. (*Wittst.*).
+Wittstein, Georg Christian (1810-1887), German (Hannover) pharmacist; studied pharmacy in various Hannoverian pharmacies; student, later assistant at the Pharmaceutical Institute, Univ. München 1835-1850; Dr. phil. München 1840; teacher at a technical school in Ansbach 1851-1853; in charge of a private school for chemistry in München 1853-1879. 
+**Abbreviated name**: *Wittst.*
 
 #### Herbarium and types
 

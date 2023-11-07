@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103624#page/281/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Piller, Mathias (1733-1788), Austrian botanist and clergyman (S. J.); professor of natural history at the Theresianum in Vienna; later idem in Buda. (*Piller*).
+Piller, Mathias (1733-1788), Austrian botanist and clergyman (S. J.); professor of natural history at the Theresianum in Vienna; later idem in Buda. 
+**Abbreviated name**: *Piller*
 
 #### Herbarium and types
 

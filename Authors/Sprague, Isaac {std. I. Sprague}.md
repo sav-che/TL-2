@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/item/104077#page/811/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33333936) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sprague, Isaac (1811-1895), American botanical and zoological artist in Massachusetts, who worked for e.g. Audubon and Asa Gray. (*I. Sprague*).
+Sprague, Isaac (1811-1895), American botanical and zoological artist in Massachusetts, who worked for e.g. Audubon and Asa Gray. 
+**Abbreviated name**: *I. Sprague*
 
 #### Herbarium and types
 

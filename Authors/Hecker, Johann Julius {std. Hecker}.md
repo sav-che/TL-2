@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/item/103253#page/143/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33068359) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hecker, Johann Julius (1707-1768), German botanist; high school teacher and Ober-Consistorialrath at Berlin (*Hecker*).
+Hecker, Johann Julius (1707-1768), German botanist; high school teacher and Ober-Consistorialrath at Berlin 
+**Abbreviated name**: *Hecker*
 
 #### Herbarium and types
 

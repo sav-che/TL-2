@@ -189,7 +189,7 @@ editor.rereplace('<Name>', '### Author\n\n%%Name%%\n')
 editor.rereplace('</Name>', '\n%%/Name%%\n')
 
 # Tag not in XSD scheme
-editor.rereplace('<AlternateAbbrev>', '\*\*Alternate abbreviation:\*\* ')
+editor.rereplace('<AlternateAbbrev>', '\*\*;Alternate abbreviation:\*\* ')
 # Tag not in XSD scheme
 editor.rereplace('</AlternateAbbrev>', '\n%%/AlternateAbbrev%%\n')
 

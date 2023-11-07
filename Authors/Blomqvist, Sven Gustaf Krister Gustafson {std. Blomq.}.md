@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/103859#page/233/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265420) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Blomqvist, Sven Gustaf Krister G:Son (1882-1953), Swedish botanist, studied at secondary grammar schools at Skara and Uppsala, and at the University of Uppsala, fil. kand. 1905, fil. lic. 1910, Dr. phil. Uppsala 1911, assistant at Bergielund 1907-1909, teacher of biology and geography at Örebro, lector in biology at the secondary school at Sundsvall 1919. (*Blomq.*).
+Blomqvist, Sven Gustaf Krister G:Son (1882-1953), Swedish botanist, studied at secondary grammar schools at Skara and Uppsala, and at the University of Uppsala, fil. kand. 1905, fil. lic. 1910, Dr. phil. Uppsala 1911, assistant at Bergielund 1907-1909, teacher of biology and geography at Örebro, lector in biology at the secondary school at Sundsvall 1919. 
+**Abbreviated name**: *Blomq.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/item/104137#page/717/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nealley, Greenleaf Cilley (1846-1896), American botanist; in Burlington, Iowa 1863-1882; with Texas A & M 1882-1883, in Houston 1886-1891; at San Antonio and San Diego, Texas 1892-1896; collected grasses for USDA (*Nealley*).
+Nealley, Greenleaf Cilley (1846-1896), American botanist; in Burlington, Iowa 1863-1882; with Texas A & M 1882-1883, in Houston 1886-1891; at San Antonio and San Diego, Texas 1892-1896; collected grasses for USDA 
+**Abbreviated name**: *Nealley*
 
 #### Herbarium and types
 

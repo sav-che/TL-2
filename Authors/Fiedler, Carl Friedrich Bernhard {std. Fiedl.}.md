@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/item/103414#page/876/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33120959) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fiedler, Carl Friedrich Bernhard (1807-1869), German botanist, regional physician in Dömitz, Mecklenburg. (*Fiedl.*).
+Fiedler, Carl Friedrich Bernhard (1807-1869), German botanist, regional physician in Dömitz, Mecklenburg. 
+**Abbreviated name**: *Fiedl.*
 
 #### Herbarium and types
 

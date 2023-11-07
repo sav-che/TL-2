@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/item/104077#page/352/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33333477) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schröder, \[Theodor\] Julius \[Reinhold\] von (1843-1895), Baltic-German (Estonian-born) botanist and chemist; studied at Dorpat; assistant to Carl Schmidt ib. 1866-1868; continued his studies in Heidelberg; assistant, later professor of chemistry at the Forest College of Tharandt from 1869; specialist on tanning. (*J. Schröd.*).
+Schröder, \[Theodor\] Julius \[Reinhold\] von (1843-1895), Baltic-German (Estonian-born) botanist and chemist; studied at Dorpat; assistant to Carl Schmidt ib. 1866-1868; continued his studies in Heidelberg; assistant, later professor of chemistry at the Forest College of Tharandt from 1869; specialist on tanning. 
+**Abbreviated name**: *J. Schröd.*
 
 #### Herbarium and types
 

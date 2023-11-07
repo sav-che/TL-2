@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/item/103833#page/309/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33259343) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Diehl, William Webster (1891-1978), American botanist (mycologist), born 15 Jan 1891 at Logansport, Indiana, moved to Dayton 1894, on grammar school until 1904, at school in Winchester, Indiana 1905-1909, at Miami University, Oxford, Ohio 1910-1914, entered Iowa State College 1914, MS botany 1915, teaching fellow 1914-1916, instructor in botany and plant pathology at Clemson College 1916-1917, with U.S.D.A. Washington 1928-1958, adjunct professor at George Washington University 1936-1956, retired from U.S.D.A. 1958. (*Diehl*).
+Diehl, William Webster (1891-1978), American botanist (mycologist), born 15 Jan 1891 at Logansport, Indiana, moved to Dayton 1894, on grammar school until 1904, at school in Winchester, Indiana 1905-1909, at Miami University, Oxford, Ohio 1910-1914, entered Iowa State College 1914, MS botany 1915, teaching fellow 1914-1916, instructor in botany and plant pathology at Clemson College 1916-1917, with U.S.D.A. Washington 1928-1958, adjunct professor at George Washington University 1936-1956, retired from U.S.D.A. 1958. 
+**Abbreviated name**: *Diehl*
 
 #### Herbarium and types
 

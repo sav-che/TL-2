@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/item/103624#page/70/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33189489) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pardo de Tavera, Trinidad Herménégilde José (1857-1925), Philippine physician, anthropologist, philologist and botanist; studied medicine at Paris; professor of anatomy at the Universidad de Santo Tomás; later heavily involved in local politics as well as representing the Philippines abroad. (*Pardo*).
+Pardo de Tavera, Trinidad Herménégilde José (1857-1925), Philippine physician, anthropologist, philologist and botanist; studied medicine at Paris; professor of anatomy at the Universidad de Santo Tomás; later heavily involved in local politics as well as representing the Philippines abroad. 
+**Abbreviated name**: *Pardo*
 
 #### Herbarium and types
 

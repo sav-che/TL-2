@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/item/103860#page/379/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33266046) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Corrêa da Serra, José Francisco {std. Corrêa}|first entry]] for this author
 
 ### Author
 
-\* Corrêa \[Correira\] da Serra, José Francisco (1751-1823), Portuguese politician and scientist, born at Serpa, educated at Rome, took Orders, returned to Lisbon 1777, founder of the Portuguese Academy of Sciences, went to England 1786 with Joseph Banks, member of the Royal Society, 1797 secretary to the Portuguese embassy, resided in Paris 1802-1813, moved to New York 1813, Portuguese minister-plenipotentiaiy at Washington 1816, back in Portugal with a seat in the Cortes. (*Corrêa*).
+\* Corrêa \[Correira\] da Serra, José Francisco (1751-1823), Portuguese politician and scientist, born at Serpa, educated at Rome, took Orders, returned to Lisbon 1777, founder of the Portuguese Academy of Sciences, went to England 1786 with Joseph Banks, member of the Royal Society, 1797 secretary to the Portuguese embassy, resided in Paris 1802-1813, moved to New York 1813, Portuguese minister-plenipotentiaiy at Washington 1816, back in Portugal with a seat in the Cortes. 
+**Abbreviated name**: *Corrêa*
 
 #### Herbarium and types
 

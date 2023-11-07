@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/item/103253#page/444/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33068660) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-James, Edwin (1797-1861), American physician and botanist and explorer on Long's exploring expedition to the sources of the St. Peters River; Colorado's first botanist; from 1836 nr. Burlington, Iowa. (*E. James*).
+James, Edwin (1797-1861), American physician and botanist and explorer on Long's exploring expedition to the sources of the St. Peters River; Colorado's first botanist; from 1836 nr. Burlington, Iowa. 
+**Abbreviated name**: *E. James*
 
 #### Herbarium and types
 

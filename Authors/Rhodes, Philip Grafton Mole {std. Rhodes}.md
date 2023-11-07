@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/item/103624#page/769/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rhodes, Philip Grafton Mole (1885-1934), British (Roman-catholic) clergyman, bryologist and mycologist; BA Cambridge, DD Fribourg; curate at Kidderminster, Worcs., professor of Ascott college, Birmingham; parish priest at Evensham. (*Rhodes*).
+Rhodes, Philip Grafton Mole (1885-1934), British (Roman-catholic) clergyman, bryologist and mycologist; BA Cambridge, DD Fribourg; curate at Kidderminster, Worcs., professor of Ascott college, Birmingham; parish priest at Evensham. 
+**Abbreviated name**: *Rhodes*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/item/104077#page/111/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33333236) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scepin, Constantin (1727- ?), Russian botanist and physician; Dr. med. Leiden 1758. (*Scepin*).
+Scepin, Constantin (1727- ?), Russian botanist and physician; Dr. med. Leiden 1758. 
+**Abbreviated name**: *Scepin*
 
 #### Herbarium and types
 

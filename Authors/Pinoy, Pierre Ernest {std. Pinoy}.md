@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/item/103624#page/282/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pinoy, Pierre Ernest (1873-1948), French physician and mycologist; Dr. med. Paris 1899, Dr. sci. Paris 1907; professor of microbiology and cryptogamy at the faculty of medecine of Algeria. (*Pinoy*).
+Pinoy, Pierre Ernest (1873-1948), French physician and mycologist; Dr. med. Paris 1899, Dr. sci. Paris 1907; professor of microbiology and cryptogamy at the faculty of medecine of Algeria. 
+**Abbreviated name**: *Pinoy*
 
 #### Herbarium and types
 

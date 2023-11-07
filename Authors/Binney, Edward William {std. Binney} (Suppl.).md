@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/item/103859#page/178/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33265365) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Binney, Edward William {std. Binney}|first entry]] for this author
 
 ### Author
 
-\* Binney, Edward William (1812-1881), British solicitor and palaeobotanist in Manchester, one of the founders of the Manchester Geological Society, president 1857-1859 and 1865-1867. (*Binney*).
+\* Binney, Edward William (1812-1881), British solicitor and palaeobotanist in Manchester, one of the founders of the Manchester Geological Society, president 1857-1859 and 1865-1867. 
+**Abbreviated name**: *Binney*
 
 #### Collections
 

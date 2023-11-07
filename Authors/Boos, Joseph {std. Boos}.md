@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103414#page/324/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33120407) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boos, Joseph (1794-1879), Austrian assistant gardener at Schönbrunn. (*Boos*).
+Boos, Joseph (1794-1879), Austrian assistant gardener at Schönbrunn. 
+**Abbreviated name**: *Boos*
 
 #### Herbarium and types
 

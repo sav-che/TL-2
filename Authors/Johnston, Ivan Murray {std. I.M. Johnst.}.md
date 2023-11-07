@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103253#page/476/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Johnston, Ivan Murray (1898-1960), American botanist at the Arnold Arboretum; Ph. D. Harvard 1925; in Chile 1925-1926; from 1922-1931 assistant at Gray herbarium with Robinson and Fernald; 1931-1938 research associate Arnold Arboretum; ass. professor of botany Harvard 1938-1960; ass. dir. Arnold Arboretum 1948-1953; specialist on Boraginaceae. (*I. M. Johnst.*).
+Johnston, Ivan Murray (1898-1960), American botanist at the Arnold Arboretum; Ph. D. Harvard 1925; in Chile 1925-1926; from 1922-1931 assistant at Gray herbarium with Robinson and Fernald; 1931-1938 research associate Arnold Arboretum; ass. professor of botany Harvard 1938-1960; ass. dir. Arnold Arboretum 1948-1953; specialist on Boraginaceae. 
+**Abbreviated name**: *I. M. Johnst.*
 
 #### Herbarium and types
 

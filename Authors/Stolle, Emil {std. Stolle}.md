@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/item/103683#page/28/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33212076) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stolle, Emil (1868-1940), German (Oberlausitz) botanist (bryologist and lichenologist); gardener in various places; from 1919 merchant (vegetables) (from 1921-ca. 1934 as street vendor) in Dresden. (*Stolle*).
+Stolle, Emil (1868-1940), German (Oberlausitz) botanist (bryologist and lichenologist); gardener in various places; from 1919 merchant (vegetables) (from 1921-ca. 1934 as street vendor) in Dresden. 
+**Abbreviated name**: *Stolle*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/item/104137#page/585/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33355656) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moore, George Thomas (1871-1956), American algologist; Ph. D. Harvard 1900; plant physiologist at Washington Univ. 1909-1912; director of the Missouri Botanical Garden 1912-1953 (*G. Moore*).
+Moore, George Thomas (1871-1956), American algologist; Ph. D. Harvard 1900; plant physiologist at Washington Univ. 1909-1912; director of the Missouri Botanical Garden 1912-1953 
+**Abbreviated name**: *G. Moore*
 
 #### Herbarium and types
 

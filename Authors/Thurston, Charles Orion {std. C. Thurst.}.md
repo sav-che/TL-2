@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/item/103683#page/349/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33212381) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thurston, Charles Orion (1857-1933), American botanist; AB Dartmouth 1884. (*C. Thurst.*).
+Thurston, Charles Orion (1857-1933), American botanist; AB Dartmouth 1884. 
+**Abbreviated name**: *C. Thurst.*
 
 #### Herbarium and types
 

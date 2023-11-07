@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/item/103253#page/896/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33069112) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Leydolt, Franz (1810-1859), Austrian mineralogist and botanist at Vienna: Dr. med. Wien 1837; assistant with J. F. von Jacquin 1838; from 1843 at the Vienna polytechnic, from 1847 as professor of mineralogy and geognosy. (*Leyd.*).
+Leydolt, Franz (1810-1859), Austrian mineralogist and botanist at Vienna: Dr. med. Wien 1837; assistant with J. F. von Jacquin 1838; from 1843 at the Vienna polytechnic, from 1847 as professor of mineralogy and geognosy. 
+**Abbreviated name**: *Leyd.*
 
 #### Herbarium and types
 

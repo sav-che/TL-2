@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/item/104137#page/296/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33355367) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mann, Wenzeslaus \[Wenzel\] Blasius (1799-1839), Bohemian botanist and physician at Reichstadt (Leipa). (*W. Mann*).
+Mann, Wenzeslaus \[Wenzel\] Blasius (1799-1839), Bohemian botanist and physician at Reichstadt (Leipa). 
+**Abbreviated name**: *W. Mann*
 
 #### Herbarium and types
 

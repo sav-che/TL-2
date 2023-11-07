@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103860#page/302/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33265969) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Comstock, John Lee (1789-1858), American botanist, born in Lyme, Connecticut 1789, died Hartford 1858, studied medicine, assistant surgeon in the 25-th. infantry, served at Fort Trumbull, New London, Conn., in the war of 1812 in charge of three hospitals, settled after the war in Hartford, Conn., published many text-books in science, his "system of natural Philosophy" had a sale of near 900.000 copies. (*Comstock*).
+Comstock, John Lee (1789-1858), American botanist, born in Lyme, Connecticut 1789, died Hartford 1858, studied medicine, assistant surgeon in the 25-th. infantry, served at Fort Trumbull, New London, Conn., in the war of 1812 in charge of three hospitals, settled after the war in Hartford, Conn., published many text-books in science, his "system of natural Philosophy" had a sale of near 900.000 copies. 
+**Abbreviated name**: *Comstock*
 
 #### Herbarium and types
 

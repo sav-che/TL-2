@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/item/103683#page/404/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33212436) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Torén, Olof (1718-1753), Swedish clergyman and ship chaplain; studied at Uppsala; ordained 1747, ship chaplain with the Swedish East India Company 1748-1749 (to China) and 1750-1752 (to China and India); collected plants in Surat and Malabar. (*Torén*).
+Torén, Olof (1718-1753), Swedish clergyman and ship chaplain; studied at Uppsala; ordained 1747, ship chaplain with the Swedish East India Company 1748-1749 (to China) and 1750-1752 (to China and India); collected plants in Surat and Malabar. 
+**Abbreviated name**: *Torén*
 
 #### Herbarium and types
 

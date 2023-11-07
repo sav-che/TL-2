@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/item/103624#page/1026/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/page/33190483) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ruys, Jan Daniel (1897-1954), Dutch botanist; Dr. phil. Utrecht 1925; director of the Moerheim nursery 1926-1954. (*J.D. Ruys*).
+Ruys, Jan Daniel (1897-1954), Dutch botanist; Dr. phil. Utrecht 1925; director of the Moerheim nursery 1926-1954. 
+**Abbreviated name**: *J.D. Ruys*
 
 #### Herbarium and types
 

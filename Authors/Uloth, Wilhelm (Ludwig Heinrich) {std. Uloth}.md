@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/103683#page/594/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33212626) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Uloth, Wilhelm \[Ludwig Heinrich\] (1833-1895), German (Hessen) botanist and pharmacist; studied pharmacy in Treysa; worked with C. v. Nägeli in Zürich 1856; studied at the University of Marburg 1857-1859; Dr. phil. ib. 1859; in charge of a chemical-pharmaceutical factory at Bad Nauheim 1860; in charge of the Nauheim pharmacy 1868; id. at Friedberg 1878-1879; teacher at Colleges in Friedberg (1879) and Bensheim (1880), specialist for pharmacy at the Darmstadt ministery 1881; professor of pharmacognosy at the Darmstadt Technical University from 1884. (*Uloth*).
+Uloth, Wilhelm \[Ludwig Heinrich\] (1833-1895), German (Hessen) botanist and pharmacist; studied pharmacy in Treysa; worked with C. v. Nägeli in Zürich 1856; studied at the University of Marburg 1857-1859; Dr. phil. ib. 1859; in charge of a chemical-pharmaceutical factory at Bad Nauheim 1860; in charge of the Nauheim pharmacy 1868; id. at Friedberg 1878-1879; teacher at Colleges in Friedberg (1879) and Bensheim (1880), specialist for pharmacy at the Darmstadt ministery 1881; professor of pharmacognosy at the Darmstadt Technical University from 1884. 
+**Abbreviated name**: *Uloth*
 
 #### Herbarium and types
 

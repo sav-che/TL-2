@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/item/104077#page/262/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33333387) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Franz Wilibald (1764-1796), Bohemian botanist and physician; professor of botany at Praha University; Dr. phil. Praha 1793. (*F.W. Schmidt*).
+Schmidt, Franz Wilibald (1764-1796), Bohemian botanist and physician; professor of botany at Praha University; Dr. phil. Praha 1793. 
+**Abbreviated name**: *F.W. Schmidt*
 
 #### Herbarium and types
 

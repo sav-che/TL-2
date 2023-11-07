@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/item/103250#page/557/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33066837) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zabel, Hermann (1832-1912), German forester and botanist; assistant at the Botanical Garden and Museum, Greifswald 1854-1860; asst. forester at Neu-Katzow 1860-1869; in charge of the forestry botanical garden ("Akademischer Gartenmeister") at Hannov.-Münden 1869-1895; in retirement at Gotha. (*Zab.*).
+Zabel, Hermann (1832-1912), German forester and botanist; assistant at the Botanical Garden and Museum, Greifswald 1854-1860; asst. forester at Neu-Katzow 1860-1869; in charge of the forestry botanical garden ("Akademischer Gartenmeister") at Hannov.-Münden 1869-1895; in retirement at Gotha. 
+**Abbreviated name**: *Zab.*
 
 #### Herbarium and types
 

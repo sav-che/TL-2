@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/104137#page/87/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33355158) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Linnaeus, Carl (from 1761: Carl von Linné) (1707-1778), Swedish botanist, physician and zoologist; Dr. med. Harderwijk 1735; in the Netherlands 1735-1738, for the greater part of the time as physician to George Clifford at the Hartecamp near Haarlem; from 1738-1741 practicing physician at Stockholm; professor of medicine and botany at Uppsala 1741-1778; founder of modern plant systematics and nomenclature. (*L.*).
+Linnaeus, Carl (from 1761: Carl von Linné) (1707-1778), Swedish botanist, physician and zoologist; Dr. med. Harderwijk 1735; in the Netherlands 1735-1738, for the greater part of the time as physician to George Clifford at the Hartecamp near Haarlem; from 1738-1741 practicing physician at Stockholm; professor of medicine and botany at Uppsala 1741-1778; founder of modern plant systematics and nomenclature. 
+**Abbreviated name**: *L.*
 
 #### Herbarium and types
 

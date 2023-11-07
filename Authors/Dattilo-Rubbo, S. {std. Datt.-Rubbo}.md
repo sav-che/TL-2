@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/item/103833#page/95/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33259129) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dattilo-Rubbo, S. (fl. 1938), biochemist at the London School of Hygiene and Tropical Medicine, University of London. (*Datt.-Rubbo*).
+Dattilo-Rubbo, S. (fl. 1938), biochemist at the London School of Hygiene and Tropical Medicine, University of London. 
+**Abbreviated name**: *Datt.-Rubbo*
 
 #### Herbarium and types
 

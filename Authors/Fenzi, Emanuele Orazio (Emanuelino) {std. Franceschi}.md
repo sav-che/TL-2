@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/item/103834#page/152/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33259634) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Franceschi (Francheschi), Francesco {std. Franceschi} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Fenzi, Emanuele Orazio \['Emanuelino'\] (1843-1924) \[published in America from 1893-1913 as Franceschi, Francesco\], Italian lawyer, banker and horticulturalist, born 12 Mar 1843 in Florence, Dr. of Law 1864 Univ. of Pisa, first secretary, then president of the Royal Tuscan Society of Horticulture, emigrated (fled?) to Calif. (Los Angeles) in 1893 and renamed himself Francesco Franceschi (possibly to cover his role in the failure of a family bank), settled in Santa Barbara, Calif. and started a nursery business that greatly influenced Californian horticulture, left Calif. in 1913 for a position offered by the Italian government to establish an experimental garden in Libya, Frank N. Meyer Memorial Medal 1922, died 5 Nov 1924 in Tripoli. (*Franceschi*).
+Fenzi, Emanuele Orazio \['Emanuelino'\] (1843-1924) \[published in America from 1893-1913 as Franceschi, Francesco\], Italian lawyer, banker and horticulturalist, born 12 Mar 1843 in Florence, Dr. of Law 1864 Univ. of Pisa, first secretary, then president of the Royal Tuscan Society of Horticulture, emigrated (fled?) to Calif. (Los Angeles) in 1893 and renamed himself Francesco Franceschi (possibly to cover his role in the failure of a family bank), settled in Santa Barbara, Calif. and started a nursery business that greatly influenced Californian horticulture, left Calif. in 1913 for a position offered by the Italian government to establish an experimental garden in Libya, Frank N. Meyer Memorial Medal 1922, died 5 Nov 1924 in Tripoli. 
+**Abbreviated name**: *Franceschi*
 
 #### Herbarium and types
 

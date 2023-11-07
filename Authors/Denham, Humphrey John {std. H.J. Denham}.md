@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/item/103833#page/213/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33259247) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Denham, Humphrey John (1893-?), British botanist, born 15 Nov 1893, MA Cambridge 1917, D.Sc. 1926. (*H.J. Denham*).
+Denham, Humphrey John (1893-?), British botanist, born 15 Nov 1893, MA Cambridge 1917, D.Sc. 1926. 
+**Abbreviated name**: *H.J. Denham*
 
 #### Herbarium and types
 

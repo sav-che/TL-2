@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/item/103414#page/472/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cailliaud, Fréderic {std. Caill.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Cailliaud, Frédéric (1787-1869), French traveller, antiquary and naturalist at Nantes. (*Caill.*).
+Cailliaud, Frédéric (1787-1869), French traveller, antiquary and naturalist at Nantes. 
+**Abbreviated name**: *Caill.*
 
 #### Herbarium and types
 

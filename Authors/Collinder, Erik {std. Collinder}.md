@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/item/103860#page/280/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265947) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collinder, Erik (1848-1920), Swedish teacher and botanist, born at Arbrå, Hälsingland, educated at Gävle high school 1871, at Uppsala University, fil. kand. 1877, ultimately teacher at Sundsvall 1879-1913. (*Collinder*).
+Collinder, Erik (1848-1920), Swedish teacher and botanist, born at Arbrå, Hälsingland, educated at Gävle high school 1871, at Uppsala University, fil. kand. 1877, ultimately teacher at Sundsvall 1879-1913. 
+**Abbreviated name**: *Collinder*
 
 #### Herbarium and types
 

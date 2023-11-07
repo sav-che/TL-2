@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103683#page/266/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Theune, Erich (1884-?), German (Prussian) botanist; state teacher's exam. 1906; teacher at Leitzkau 1907-1908; id. at Weissenfels 1908-1910; lower high school teacher's exam. 1910, senior high school exam. 1913; studied natural sciences at Leipzig 1911-1912, id. Halle 1913-1916; from 1916 assistant at the Botanical Institute, Halle (*Theune*).
+Theune, Erich (1884-?), German (Prussian) botanist; state teacher's exam. 1906; teacher at Leitzkau 1907-1908; id. at Weissenfels 1908-1910; lower high school teacher's exam. 1910, senior high school exam. 1913; studied natural sciences at Leipzig 1911-1912, id. Halle 1913-1916; from 1916 assistant at the Botanical Institute, Halle 
+**Abbreviated name**: *Theune*
 
 #### Herbarium and types
 

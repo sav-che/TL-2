@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/item/103414#page/744/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33120827) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dumont de Courset, Georges Louis Marie \[Baron\] (1746-1824), French agronomist. (*Dum. Cours.*).
+Dumont de Courset, Georges Louis Marie \[Baron\] (1746-1824), French agronomist. 
+**Abbreviated name**: *Dum. Cours.*
 
 #### Herbarium and types
 

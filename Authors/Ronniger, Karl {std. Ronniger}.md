@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/item/103624#page/892/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33190349) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ronniger, Karl (1871-1954), Austrian botanist and "Rechnungsdirector" at the ministry of finances Wien, specialist on *Thymus*. (*Ronniger*).
+Ronniger, Karl (1871-1954), Austrian botanist and "Rechnungsdirector" at the ministry of finances Wien, specialist on *Thymus*. 
+**Abbreviated name**: *Ronniger*
 
 #### Herbarium and types
 

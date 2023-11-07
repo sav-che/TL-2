@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/item/103624#page/809/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Riley, Laurence Athelstan Molesworth (1888-1928), British (Jersey-born) botanist; volunteer worker at K, on St. George Pacific Expedition 1924-1925; M.A. Oxford 1927. (*L. Riley*).
+Riley, Laurence Athelstan Molesworth (1888-1928), British (Jersey-born) botanist; volunteer worker at K, on St. George Pacific Expedition 1924-1925; M.A. Oxford 1927. 
+**Abbreviated name**: *L. Riley*
 
 #### Herbarium and types
 

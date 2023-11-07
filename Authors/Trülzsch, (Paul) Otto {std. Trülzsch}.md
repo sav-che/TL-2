@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/item/103683#page/523/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trülzsch, \[Paul\] Otto (1889-?), German (Saxonian) botanist; studied linguistics in Marburg a. L. 1908, linguistics, subsequently natural sciences at Leipzig 1909-1913; Dr. phil. Leipzig 1914, student of W.F.P. Pfeffer. (*Trülzsch*).
+Trülzsch, \[Paul\] Otto (1889-?), German (Saxonian) botanist; studied linguistics in Marburg a. L. 1908, linguistics, subsequently natural sciences at Leipzig 1909-1913; Dr. phil. Leipzig 1914, student of W.F.P. Pfeffer. 
+**Abbreviated name**: *Trülzsch*
 
 #### Herbarium and types
 

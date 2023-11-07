@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/item/103860#page/336/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33266003) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cook, Walter Robert Ivimey (1901-1952), British mycologist, B.Sc. London 1923, FLS 1927, demonstrator King's College, London 1923-1928, lecturer Bristol University 1928-1931, Senior lecturer in botany, University of Wales, Cardiff 1931-1952. (*Ivimey Cook*).
+Cook, Walter Robert Ivimey (1901-1952), British mycologist, B.Sc. London 1923, FLS 1927, demonstrator King's College, London 1923-1928, lecturer Bristol University 1928-1931, Senior lecturer in botany, University of Wales, Cardiff 1931-1952. 
+**Abbreviated name**: *Ivimey Cook*
 
 #### Herbarium and types
 

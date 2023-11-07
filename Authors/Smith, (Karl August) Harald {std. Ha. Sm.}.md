@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/item/104077#page/689/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, \[Karl August\] Harald ("Harry"), 1889-1971, Swedish botanist; Dr. phil. Uppsala 1920; lecturer plant biology 1920; travelled in China 1921-1924 and 1934-1935; curator Uppsala 1926; from 1947 superintendent of the Botanical Museum. (*Ha. Sm.*).
+Smith, \[Karl August\] Harald ("Harry"), 1889-1971, Swedish botanist; Dr. phil. Uppsala 1920; lecturer plant biology 1920; travelled in China 1921-1924 and 1934-1935; curator Uppsala 1926; from 1947 superintendent of the Botanical Museum. 
+**Abbreviated name**: *Ha. Sm.*
 
 #### Herbarium and types
 

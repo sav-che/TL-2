@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/item/103624#page/904/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/page/33190361) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rosenberg, \[Gustaf\] Otto (1872-1948), Swedish botanist; fil. kand. Uppsala 1895; Dr. phil. Bonn 1899; lecturer in botany at Stockholm University (Stockholms högskola) 1899; profesor of botany ib. (plant anatomy and cytology) 1911-1940; outstanding botanical cytologist, embryologist and precursor of experimental taxonomy. (*O. Rosenberg*).
+Rosenberg, \[Gustaf\] Otto (1872-1948), Swedish botanist; fil. kand. Uppsala 1895; Dr. phil. Bonn 1899; lecturer in botany at Stockholm University (Stockholms högskola) 1899; profesor of botany ib. (plant anatomy and cytology) 1911-1940; outstanding botanical cytologist, embryologist and precursor of experimental taxonomy. 
+**Abbreviated name**: *O. Rosenberg*
 
 #### Herbarium and types
 

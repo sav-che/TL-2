@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/item/104137#page/239/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33355310) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-McIlvaine, Charles (1840-1909), American mycologist, soldier (1861-1863), "scriptor jocosus" and famous mycophagist. (*McIlv.*).
+McIlvaine, Charles (1840-1909), American mycologist, soldier (1861-1863), "scriptor jocosus" and famous mycophagist. 
+**Abbreviated name**: *McIlv.*
 
 #### Herbarium and types
 

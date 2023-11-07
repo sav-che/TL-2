@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103683#page/394/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Togashi, Kogo (1895-1952), Japanese mycologist and plant pathologist; Dr. sci. Hokkaido Univ. 1931; assistant professor Kyoto University 1925; professor of plant pathology Morioka College of Agriculture and Forestry 1926. (*Togashi*).
+Togashi, Kogo (1895-1952), Japanese mycologist and plant pathologist; Dr. sci. Hokkaido Univ. 1931; assistant professor Kyoto University 1925; professor of plant pathology Morioka College of Agriculture and Forestry 1926. 
+**Abbreviated name**: *Togashi*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/item/103624#page/1092/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/page/33190549) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saint-Simon, Maximilien Henri, Marquis de (1720-1799), French-Dutch horticulturist; engaged in the French-Italian wars as aide-de-camp to the Prince de Conti; in 1758 he retired to the Netherlands, living at the estate of Nieuw Amelisweerd near Utrecht. (*Saint-Simon*).
+Saint-Simon, Maximilien Henri, Marquis de (1720-1799), French-Dutch horticulturist; engaged in the French-Italian wars as aide-de-camp to the Prince de Conti; in 1758 he retired to the Netherlands, living at the estate of Nieuw Amelisweerd near Utrecht. 
+**Abbreviated name**: *Saint-Simon*
 
 #### Herbarium and types
 

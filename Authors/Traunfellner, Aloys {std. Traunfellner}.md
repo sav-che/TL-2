@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103683#page/452/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Traunfellner, Aloys (1782-1840), Austrian pharmacist and botanist; practicing pharmacist in Klagenfurt from 1801; collected in Dalmatia (1806) and Istria. (*Traunfellner*).
+Traunfellner, Aloys (1782-1840), Austrian pharmacist and botanist; practicing pharmacist in Klagenfurt from 1801; collected in Dalmatia (1806) and Istria. 
+**Abbreviated name**: *Traunfellner*
 
 #### Herbarium and types
 

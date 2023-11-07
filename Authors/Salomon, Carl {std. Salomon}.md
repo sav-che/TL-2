@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/item/104077#page/26/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33333171) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salomon, Carl (1829-1899), German botanist, royal Bavarian gardener at Würzburg; popular author on botany. (*Salomon*).
+Salomon, Carl (1829-1899), German botanist, royal Bavarian gardener at Würzburg; popular author on botany. 
+**Abbreviated name**: *Salomon*
 
 #### Herbarium and types
 

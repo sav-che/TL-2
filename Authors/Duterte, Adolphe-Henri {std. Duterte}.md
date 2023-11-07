@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103835#page/217/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33260195) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duterte, Adolphe-Henri (1847-1887), French pharmacist and florist, born 17 Jan 1847 at Fyé (Sarthe), went to school at Fresnay-sur-Sarthe and started to study pharmacy at the age of 16, at the same time botanizing around Alençon, went to the school of pharmacy at Paris in 1868, finished his study in 1871 and started a pharmacy at Alençon, but retired already because of ill health in 1880, died at Alençon 3 Oct 1887. (*Duterte*).
+Duterte, Adolphe-Henri (1847-1887), French pharmacist and florist, born 17 Jan 1847 at Fyé (Sarthe), went to school at Fresnay-sur-Sarthe and started to study pharmacy at the age of 16, at the same time botanizing around Alençon, went to the school of pharmacy at Paris in 1868, finished his study in 1871 and started a pharmacy at Alençon, but retired already because of ill health in 1880, died at Alençon 3 Oct 1887. 
+**Abbreviated name**: *Duterte*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/item/103414#page/270/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33120353) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Biswas, Kalipada P. {std. Biswas} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Biswas, Kalipada P. (1899-x), Indian botanist. (*Biswas*).
+Biswas, Kalipada P. (1899-x), Indian botanist. 
+**Abbreviated name**: *Biswas*
 
 #### Herbarium and types
 

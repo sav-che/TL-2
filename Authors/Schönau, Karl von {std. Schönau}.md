@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/item/104077#page/300/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33333425) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schönau, Karl von (1885-1944), German (Bavarian) botanist; Dr. phil. München 1910; botanical assistant at München 1910-1913; curator for cryptogams at the Botanische Staatssammlungen 1913; head curator 1928. (*Schönau*).
+Schönau, Karl von (1885-1944), German (Bavarian) botanist; Dr. phil. München 1910; botanical assistant at München 1910-1913; curator for cryptogams at the Botanische Staatssammlungen 1913; head curator 1928. 
+**Abbreviated name**: *Schönau*
 
 #### Herbarium and types
 

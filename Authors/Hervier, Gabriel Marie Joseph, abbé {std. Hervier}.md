@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103253#page/203/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hervier, Gabriel Marie Joseph, abbé (1846-1900), French clergyman and botanist. (*Hervier*).
+Hervier, Gabriel Marie Joseph, abbé (1846-1900), French clergyman and botanist. 
+**Abbreviated name**: *Hervier*
 
 #### Herbarium and types
 

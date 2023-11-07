@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/item/103860#page/304/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33265971) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Conard, Alexandre Xavier Justin (1892-x), Belgian botanist, educated at the Université libre de Bruxelles, chargé de cours at this university 1929, from 1929 working at the Laboratoire de Cytologie Institut Botanique de Leo Errera, professor at the University of Brussels from 1931. (*A.X.J. Conard*).
+Conard, Alexandre Xavier Justin (1892-x), Belgian botanist, educated at the Université libre de Bruxelles, chargé de cours at this university 1929, from 1929 working at the Laboratoire de Cytologie Institut Botanique de Leo Errera, professor at the University of Brussels from 1931. 
+**Abbreviated name**: *A.X.J. Conard*
 
 #### Herbarium and types
 

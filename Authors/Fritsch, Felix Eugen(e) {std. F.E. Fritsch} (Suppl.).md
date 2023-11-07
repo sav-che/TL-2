@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/item/103832#page/59/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33258487) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Fritsch, Felix Eugen {std. F.E. Fritsch}|first entry]] for this author
 
 ### Author
 
-\* Fritsch, Felix Eugen\[e\] (1879-1954), British algologist of German ancestry, born 26 Apr 1879 in London (Hampstead), B.Sc. 1898 Univ. College, Univ. of London, went to Germany where he worked as an asst., Botany Dept., Ludwig-Maximilians Univ., Munich 1899-1901, where he also received a Ph.D., briefly worked at Jodrell Lab., Kew, then as a lecturer, Botany Dept., Univ. College 1902-1906, D.Sc. 1905 Univ. College, asst. prof. 1906-1911, prof. 1924 and head 1911-1948, all Dept. of Botany, Queen Mary College (then called East London College), Univ. of London, retired 1948, F.L.S 1903 and president Linnean Society 1949-1952, F.R.S. 1932, Darwin Medal 1950, D.Litt. h.c. 1953 Univ. of London, Corr. Member, B.S.A., died 23 Mai 1954 in Cambridge. (*F.E. Fritsch*).
+\* Fritsch, Felix Eugen\[e\] (1879-1954), British algologist of German ancestry, born 26 Apr 1879 in London (Hampstead), B.Sc. 1898 Univ. College, Univ. of London, went to Germany where he worked as an asst., Botany Dept., Ludwig-Maximilians Univ., Munich 1899-1901, where he also received a Ph.D., briefly worked at Jodrell Lab., Kew, then as a lecturer, Botany Dept., Univ. College 1902-1906, D.Sc. 1905 Univ. College, asst. prof. 1906-1911, prof. 1924 and head 1911-1948, all Dept. of Botany, Queen Mary College (then called East London College), Univ. of London, retired 1948, F.L.S 1903 and president Linnean Society 1949-1952, F.R.S. 1932, Darwin Medal 1950, D.Litt. h.c. 1953 Univ. of London, Corr. Member, B.S.A., died 23 Mai 1954 in Cambridge. 
+**Abbreviated name**: *F.E. Fritsch*
 
 #### Herbarium and types
 

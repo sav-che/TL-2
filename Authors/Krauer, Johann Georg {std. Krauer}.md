@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/item/103253#page/690/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krauer, Johann Georg (1794-1845), Swiss botanist and physician at Luzern and Rothenburg. (*Krauer*).
+Krauer, Johann Georg (1794-1845), Swiss botanist and physician at Luzern and Rothenburg. 
+**Abbreviated name**: *Krauer*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/item/103253#page/451/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jaquet, Firmin (1858-1933), Swiss botanist. (*Jaquet*).
+Jaquet, Firmin (1858-1933), Swiss botanist. 
+**Abbreviated name**: *Jaquet*
 
 #### Herbarium and types
 

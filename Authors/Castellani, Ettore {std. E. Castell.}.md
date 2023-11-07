@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/item/103861#page/464/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33266761) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Castellani, Ettore (1909-?), Italian botanist. (*E. Castell.*).
+Castellani, Ettore (1909-?), Italian botanist. 
+**Abbreviated name**: *E. Castell.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/item/103253#page/742/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33068958) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lackowitz, August Wilhelm (1836-1916), German botanist; high school teacher in Berlin. (*Lackow.*).
+Lackowitz, August Wilhelm (1836-1916), German botanist; high school teacher in Berlin. 
+**Abbreviated name**: *Lackow.*
 
 #### Herbarium and types
 

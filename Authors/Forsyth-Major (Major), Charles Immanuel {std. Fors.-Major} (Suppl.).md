@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/item/103834#page/351/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33259833) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Major, Charles Immanuel Forsyth (Forsyth Major) {std. Fors.-Major}|first entry]] for this author
 
 ### Author
 
-\* Forsyth-Major \[Major\], Charles Immanuel (1843-1923), Swiss-born British botanist, paleontologist and physician of Scottish descent, born 15 Aug 1843 in Basel, educated in Basel, Göttingen and Zurich universities, M.D. 1868 Basel, practiced medicine in Florence, but also studied fossil mammals, collected fossil vertebrates for the Italian government 1877, abandoned his medical practice 1886 to devote himself solely to scientific research, from 1886-1889 collected in Greece and collaborated with W. Barbey and others in publishing on the geology, paleontology and botany of the Ionian Isls., moved to London 1893, collected plants, animals and fossils in Madagascar 1894-1896 for the BMNH, F.R.S. 1908, retired to Corisca 1908, died 25 Mar 1923 in Kaufbeuren (Bavaria). (*Fors.-Major*).
+\* Forsyth-Major \[Major\], Charles Immanuel (1843-1923), Swiss-born British botanist, paleontologist and physician of Scottish descent, born 15 Aug 1843 in Basel, educated in Basel, Göttingen and Zurich universities, M.D. 1868 Basel, practiced medicine in Florence, but also studied fossil mammals, collected fossil vertebrates for the Italian government 1877, abandoned his medical practice 1886 to devote himself solely to scientific research, from 1886-1889 collected in Greece and collaborated with W. Barbey and others in publishing on the geology, paleontology and botany of the Ionian Isls., moved to London 1893, collected plants, animals and fossils in Madagascar 1894-1896 for the BMNH, F.R.S. 1908, retired to Corisca 1908, died 25 Mar 1923 in Kaufbeuren (Bavaria). 
+**Abbreviated name**: *Fors.-Major*
 
 #### Note
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/item/103414#page/905/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33120988) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Forsström, Johan Eric (1775-1824), Swedish clergyman and botanist who travelled in Lapland, Finmark and the West Indies (1803-1815), pupil of Thunberg. (*Forsström*).
+Forsström, Johan Eric (1775-1824), Swedish clergyman and botanist who travelled in Lapland, Finmark and the West Indies (1803-1815), pupil of Thunberg. 
+**Abbreviated name**: *Forsström*
 
 #### Herbarium and types
 

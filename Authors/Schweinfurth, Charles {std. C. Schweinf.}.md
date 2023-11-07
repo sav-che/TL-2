@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/item/104077#page/444/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33333569) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schweinfurth, Charles (1890-1970), American botanist (orchidologist); A.B. Harvard 1913; curator of O. Arnes herbarium 1914-1931, from 1931 idem with the Orchid Herbarium of Oakes Ames at the Botanical Museum, Harvard University; honorary professor of botany Univ. Mayor de San Marcos, Peru 1948; id. Cuzco 1962. (*C. Schweinf.*).
+Schweinfurth, Charles (1890-1970), American botanist (orchidologist); A.B. Harvard 1913; curator of O. Arnes herbarium 1914-1931, from 1931 idem with the Orchid Herbarium of Oakes Ames at the Botanical Museum, Harvard University; honorary professor of botany Univ. Mayor de San Marcos, Peru 1948; id. Cuzco 1962. 
+**Abbreviated name**: *C. Schweinf.*
 
 #### Herbarium and types
 

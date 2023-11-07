@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/item/103414#page/106/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33120189) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Ardissone, Francesco {std. Ardiss.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Ardissone, Francesco (1837-1910), Italian botanist at Fano, later at the College of Agriculture at Milano (*Ardiss.*).
+Ardissone, Francesco (1837-1910), Italian botanist at Fano, later at the College of Agriculture at Milano 
+**Abbreviated name**: *Ardiss.*
 
 #### Herbarium and types
 

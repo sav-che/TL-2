@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 956](https://www.biodiversitylibrary.org/item/103414#page/1004/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 956](https://www.biodiversitylibrary.org/page/33121087) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gmelin, Johann Georg (1709-1755), German botanist and geographer who travelled in Siberia between 1733 and 1743, professor at Tübingen 1749-1755; nephew of J. F. Gmelin. (*J. G. Gmelin*).
+Gmelin, Johann Georg (1709-1755), German botanist and geographer who travelled in Siberia between 1733 and 1743, professor at Tübingen 1749-1755; nephew of J. F. Gmelin. 
+**Abbreviated name**: *J. G. Gmelin*
 
 #### Herbarium and types
 

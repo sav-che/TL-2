@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/item/104137#page/794/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33355865) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noulet, Jean Baptiste (1802-1890), French anthropologist and botanist; Dr. med. Toulouse 1826; director of the Musée d'histoire naturelle and the Jardin des plantes de Toulouse and professor at the École de médecine et de pharmacie. (*Noulet*).
+Noulet, Jean Baptiste (1802-1890), French anthropologist and botanist; Dr. med. Toulouse 1826; director of the Musée d'histoire naturelle and the Jardin des plantes de Toulouse and professor at the École de médecine et de pharmacie. 
+**Abbreviated name**: *Noulet*
 
 #### Herbarium and types
 

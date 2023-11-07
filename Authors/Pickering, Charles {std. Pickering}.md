@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/item/103624#page/268/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33189725) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pickering, Charles (1805-1878), American botanist, zoologist and anthropologist; M.D. Harvard 1826; from 1827-1838 at Philadelphia; from 1838-1842 with Wilkes and Brackenridge on the U.S. Exploring Expedition; in Egypt, India, Arabia and E. Africa 1843-1844; from 1844 residing in Boston. (*Pickering*).
+Pickering, Charles (1805-1878), American botanist, zoologist and anthropologist; M.D. Harvard 1826; from 1827-1838 at Philadelphia; from 1838-1842 with Wilkes and Brackenridge on the U.S. Exploring Expedition; in Egypt, India, Arabia and E. Africa 1843-1844; from 1844 residing in Boston. 
+**Abbreviated name**: *Pickering*
 
 #### Herbarium and types
 

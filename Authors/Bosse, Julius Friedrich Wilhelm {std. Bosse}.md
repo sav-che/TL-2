@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/item/103859#page/380/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33265567) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bosse, Julius Friedrich Wilhelm (1788-1864), German (Oldenburg) gardener and botanist, "Hofgärtner" in Oldenburg 1814-1856, retired to Delmenhorst, died in Oldenburg. (*Bosse*).
+Bosse, Julius Friedrich Wilhelm (1788-1864), German (Oldenburg) gardener and botanist, "Hofgärtner" in Oldenburg 1814-1856, retired to Delmenhorst, died in Oldenburg. 
+**Abbreviated name**: *Bosse*
 
 #### Herbarium and types
 

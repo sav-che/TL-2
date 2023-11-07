@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/item/103683#page/297/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33212329) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Thomson, Thomas (1817-1878), British physician and botanist; MD Glasgow 1839; student of W.J. Hooker; surgeon in the Bengal army 1839; superintendent, Botanic Garden, Calcutta 1854-1861; travelled in the W. Himalayas and Tibet 1847-1851 (with J.D. Hooker 1849). (*Th. Thomson*).
+Thomson, Thomas (1817-1878), British physician and botanist; MD Glasgow 1839; student of W.J. Hooker; surgeon in the Bengal army 1839; superintendent, Botanic Garden, Calcutta 1854-1861; travelled in the W. Himalayas and Tibet 1847-1851 (with J.D. Hooker 1849). 
+**Abbreviated name**: *Th. Thomson*
 
 #### Herbarium and types
 

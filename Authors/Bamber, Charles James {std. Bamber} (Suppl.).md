@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/103858#page/321/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265036) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bamber, Charles James {std. Bamber}|first entry]] for this author
 
 ### Author
 
-\* Bamber, Charles James (1855-1941), British colonial physician and botanist, with the Indian medical service 1878; inspector-general of civil hospitals, Punjab 1910-1915. (*Bamber*).
+\* Bamber, Charles James (1855-1941), British colonial physician and botanist, with the Indian medical service 1878; inspector-general of civil hospitals, Punjab 1910-1915. 
+**Abbreviated name**: *Bamber*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/item/103833#page/55/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33259089) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dancer, Thomas (ca. 1750-1811), British physician and botanist, born in Northern England, studied originally theology, MD Edinburgh 1771, to Jamaica 1773, became physician 1781 at Bath on Jamaica, superintendant of the Bath Gardens 1788, 1795-1797 for health reasons back to England, but returned as botanist to Bath Island, settled 1799 as physician at Kingston, Jamaica. (*Dancer*).
+Dancer, Thomas (ca. 1750-1811), British physician and botanist, born in Northern England, studied originally theology, MD Edinburgh 1771, to Jamaica 1773, became physician 1781 at Bath on Jamaica, superintendant of the Bath Gardens 1788, 1795-1797 for health reasons back to England, but returned as botanist to Bath Island, settled 1799 as physician at Kingston, Jamaica. 
+**Abbreviated name**: *Dancer*
 
 #### Herbarium and types
 

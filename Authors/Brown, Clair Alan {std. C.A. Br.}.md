@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/item/103861#page/143/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brown, Clair Alan (1903-x), American botanist, born at Port Allegany, Pennsylvania, worked mainly on the flora of Louisiana, B.S. 1925 St. Coll. Forestry N.Y., Univ. Michigan M.A. 1926, Ph. D.\[?\] 1933, instructor of botany, Louisiana University ca. 1926, professor ib. 1943. (*C.A. Br.*).
+Brown, Clair Alan (1903-x), American botanist, born at Port Allegany, Pennsylvania, worked mainly on the flora of Louisiana, B.S. 1925 St. Coll. Forestry N.Y., Univ. Michigan M.A. 1926, Ph. D.\[?\] 1933, instructor of botany, Louisiana University ca. 1926, professor ib. 1943. 
+**Abbreviated name**: *C.A. Br.*
 
 #### Herbarium and types
 

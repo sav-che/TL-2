@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103683#page/137/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33212169) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Swingle, Walter Tennyson (1871-1952), American botanist; M.Sc. State Agr. Coll. Kansas 1896; Dr. sci. h.c. 1922; with the United States Department of Agriculture 1891-1941; in 1895-1896 and 1898 studying at the Universities of Bonn (with E. Strasburger) and Leipzig (with Pfeffer); specialist on *Citrus*. (*Swingle*).
+Swingle, Walter Tennyson (1871-1952), American botanist; M.Sc. State Agr. Coll. Kansas 1896; Dr. sci. h.c. 1922; with the United States Department of Agriculture 1891-1941; in 1895-1896 and 1898 studying at the Universities of Bonn (with E. Strasburger) and Leipzig (with Pfeffer); specialist on *Citrus*. 
+**Abbreviated name**: *Swingle*
 
 #### Herbarium and types
 

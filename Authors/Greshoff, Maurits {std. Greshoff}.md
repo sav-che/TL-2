@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/item/103414#page/1049/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33121132) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Greshoff, Maurits {std. Greshoff} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Greshoff, Maurits (1862-1909), Dutch botanist and phytochemist, worked at Buitenzorg 1888-1892, at the Koloniaal Museum Haarlem 1895-1909. (*Greshoff*).
+Greshoff, Maurits (1862-1909), Dutch botanist and phytochemist, worked at Buitenzorg 1888-1892, at the Koloniaal Museum Haarlem 1895-1909. 
+**Abbreviated name**: *Greshoff*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/item/104077#page/760/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33333885) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sonnini de Manoncour, Charles Nicolas Sigisbert (1751-1812), French naturalist and traveller; in Guyana 1772-1776; in the eastern Mediterranean area 1777-1780;judge and provincial administrator dépt. Meurthe 1793; later director of a college in Vienne. (*Sonnini*).
+Sonnini de Manoncour, Charles Nicolas Sigisbert (1751-1812), French naturalist and traveller; in Guyana 1772-1776; in the eastern Mediterranean area 1777-1780;judge and provincial administrator dépt. Meurthe 1793; later director of a college in Vienne. 
+**Abbreviated name**: *Sonnini*
 
 #### Herbarium and types
 

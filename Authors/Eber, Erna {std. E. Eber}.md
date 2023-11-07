@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/item/103835#page/256/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33260234) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eber, Erna (fl. 1934), German botanist at München. (*E. Eber*).
+Eber, Erna (fl. 1934), German botanist at München. 
+**Abbreviated name**: *E. Eber*
 
 #### Herbarium and types
 

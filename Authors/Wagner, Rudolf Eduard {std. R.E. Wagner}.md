@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/item/103250#page/75/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33066355) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wagner, Rudolf Eduard (1842-1913), German (Oberlausitz/Sachsen) high school teacher and botanist at Löbau. (*R.E. Wagner*).
+Wagner, Rudolf Eduard (1842-1913), German (Oberlausitz/Sachsen) high school teacher and botanist at Löbau. 
+**Abbreviated name**: *R.E. Wagner*
 
 #### Herbarium and types
 

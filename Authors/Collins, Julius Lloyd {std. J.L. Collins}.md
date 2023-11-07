@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/item/103860#page/286/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33265953) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Collins, Julius Lloyd (1889-?), American geneticist, born 16 Feb 1889 at Kewanna, Indiana, B.S. California 1918, Ph.D. genetics 1923, high school Oregon (Prin.) 1912-1914, assistant genetics California 1918-1925, assistant professor 1925-1930, geneticist at Hawaiian Pineapple Canners 1930-1939, idem Pine-apple Res. Inst. Hawaii 1939-1945, geneticist 1945-1954, emer. geneticist from 1954. (*J.L. Collins*).
+Collins, Julius Lloyd (1889-?), American geneticist, born 16 Feb 1889 at Kewanna, Indiana, B.S. California 1918, Ph.D. genetics 1923, high school Oregon (Prin.) 1912-1914, assistant genetics California 1918-1925, assistant professor 1925-1930, geneticist at Hawaiian Pineapple Canners 1930-1939, idem Pine-apple Res. Inst. Hawaii 1939-1945, geneticist 1945-1954, emer. geneticist from 1954. 
+**Abbreviated name**: *J.L. Collins*
 
 #### Herbarium and types
 

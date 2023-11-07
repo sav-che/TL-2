@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/item/103624#page/141/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33189598) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Payot, Venance (1826-1902), French (Savoie) commercial naturalist and mountain guide; local administrator and botanist at Chamonix; botanical explorer of the Mont Blanc region. (*Payot*).
+Payot, Venance (1826-1902), French (Savoie) commercial naturalist and mountain guide; local administrator and botanist at Chamonix; botanical explorer of the Mont Blanc region. 
+**Abbreviated name**: *Payot*
 
 #### Herbarium and types
 

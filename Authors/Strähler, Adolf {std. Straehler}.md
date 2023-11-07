@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/item/103683#page/40/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33212034) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strähler, Adolf (1829-1897), German (Silesian) botanist and forester; forester in Görbersdorf 1858-1880, idem at Theerkeute nr. Wronke (Posen) ultimately at Jauer. (*Straehler*).
+Strähler, Adolf (1829-1897), German (Silesian) botanist and forester; forester in Görbersdorf 1858-1880, idem at Theerkeute nr. Wronke (Posen) ultimately at Jauer. 
+**Abbreviated name**: *Straehler*
 
 #### Herbarium and types
 

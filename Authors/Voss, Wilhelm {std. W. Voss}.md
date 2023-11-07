@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/item/103683#page/794/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33212826) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Voss, Wilhelm (1849-1895), Austrian mycologist; studied at the Technical University, Wien 1867-1871; assistant for zoology and botany ib. 1871-1874; high school teacher at Laibach (Ljubljana) 1874-1894; professor at the high school in district iv, Vienna 1894-1895. (*W. Voss*).
+Voss, Wilhelm (1849-1895), Austrian mycologist; studied at the Technical University, Wien 1867-1871; assistant for zoology and botany ib. 1871-1874; high school teacher at Laibach (Ljubljana) 1874-1894; professor at the high school in district iv, Vienna 1894-1895. 
+**Abbreviated name**: *W. Voss*
 
 #### Herbarium and types
 

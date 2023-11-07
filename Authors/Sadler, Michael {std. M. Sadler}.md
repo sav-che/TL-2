@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/item/103624#page/1063/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sadler, Michael (*fl*. 1831), Hungarian botanist; brother of Joseph Sadler. (*M. Sadler*).
+Sadler, Michael (*fl*. 1831), Hungarian botanist; brother of Joseph Sadler. 
+**Abbreviated name**: *M. Sadler*
 
 #### Herbarium and types
 

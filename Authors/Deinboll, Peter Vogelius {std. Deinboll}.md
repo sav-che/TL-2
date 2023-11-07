@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/item/103414#page/659/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33120742) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Deinboll, Peter Vogelius (1783-1874), Danish clergyman and botanist. (*Deinboll*).
+Deinboll, Peter Vogelius (1783-1874), Danish clergyman and botanist. 
+**Abbreviated name**: *Deinboll*
 
 #### Herbarium and types
 

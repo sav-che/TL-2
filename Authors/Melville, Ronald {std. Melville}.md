@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/104137#page/427/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33355498) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Melville, Ronald (1903-x), British botanist; Cheshunt Exp. Sta. 1930-1933; at the Royal Botanic Gardens, Kew, from 1934; specialist on the Australasian flora and British *Rosa*. (*Melville*).
+Melville, Ronald (1903-x), British botanist; Cheshunt Exp. Sta. 1930-1933; at the Royal Botanic Gardens, Kew, from 1934; specialist on the Australasian flora and British *Rosa*. 
+**Abbreviated name**: *Melville*
 
 #### Herbarium and types
 

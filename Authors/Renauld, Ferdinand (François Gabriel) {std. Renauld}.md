@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/item/103624#page/730/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33190187) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Renauld, Ferdinand \[François Gabriel\], (1837-1910), French soldier and botanist (bryologist); from 1856-1887 with the "Spahis" (8 campaigns in Algeria); from 1885-1893 commander of Monaco; Légion d'honneur 1884; in retirement in Vesoul 1893-1897, later in Vence and Nice, from 1908-1910 in Paris. (*Renauld*).
+Renauld, Ferdinand \[François Gabriel\], (1837-1910), French soldier and botanist (bryologist); from 1856-1887 with the "Spahis" (8 campaigns in Algeria); from 1885-1893 commander of Monaco; Légion d'honneur 1884; in retirement in Vesoul 1893-1897, later in Vence and Nice, from 1908-1910 in Paris. 
+**Abbreviated name**: *Renauld*
 
 #### Herbarium and types
 

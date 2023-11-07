@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/item/103861#page/346/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266643) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Campbell, Robert (1835-1921), Canadian botanist, born 21 Jun 1835, Drummond, Ontario, died 13 Mar 1921, Montreal, Quebec. (*Rob. Campb.*).
+Campbell, Robert (1835-1921), Canadian botanist, born 21 Jun 1835, Drummond, Ontario, died 13 Mar 1921, Montreal, Quebec. 
+**Abbreviated name**: *Rob. Campb.*
 
 #### Herbarium and types
 

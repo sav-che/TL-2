@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/item/103253#page/796/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lauterborn, Robert (1869-1952), German algologist and protozoologist. (*Lauterborn*).
+Lauterborn, Robert (1869-1952), German algologist and protozoologist. 
+**Abbreviated name**: *Lauterborn*
 
 #### Herbarium and types
 

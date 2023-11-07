@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/103859#page/266/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33265453) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Boer, Petrus de (1841-1890), Dutch (Frisian) botanist, studied at the University of Utrecht, pupil of F.A.W. Miquel, Dr. phil. Utrecht 1866, succeeded 1871 H.C. van Hall as professor of botany and director of the Hortus Botanicus at the University of Groningen. (*P. de Boer*).
+Boer, Petrus de (1841-1890), Dutch (Frisian) botanist, studied at the University of Utrecht, pupil of F.A.W. Miquel, Dr. phil. Utrecht 1866, succeeded 1871 H.C. van Hall as professor of botany and director of the Hortus Botanicus at the University of Groningen. 
+**Abbreviated name**: *P. de Boer*
 
 #### Herbarium and types
 

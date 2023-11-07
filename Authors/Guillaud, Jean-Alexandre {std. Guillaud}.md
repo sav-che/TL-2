@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/item/103832#page/458/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33258924) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Guillaud, Jean-Alexandre (1849-1923), French botanist, born 12 Feb 1849 in Aumagne (Charente-Inférieure), Prof., Faculty of Medicine and Pharmacy, Bordeaux, Dr. ès-sciences naturelles 1878 Paris, collected fungi in s.w. France 1883-1884, died 18 Nov 1923 in Saintes (Charente-Maritime). (*Guillaud*).
+Guillaud, Jean-Alexandre (1849-1923), French botanist, born 12 Feb 1849 in Aumagne (Charente-Inférieure), Prof., Faculty of Medicine and Pharmacy, Bordeaux, Dr. ès-sciences naturelles 1878 Paris, collected fungi in s.w. France 1883-1884, died 18 Nov 1923 in Saintes (Charente-Maritime). 
+**Abbreviated name**: *Guillaud*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/item/104137#page/383/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33355454) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Matruchot, \[Alphonse\] Louis \[Paul\] (1863-1921), French mycologist; at École normale supérieure 1885-1888; librarian École norm. sup. 1888-1895; lecturer Faculté des Sciences, Paris 1895-1900; lecturer École norm. sup. from 1901; from 1905 in addition professor adj., from 1912 professor of cryptogamic botany at the Sorbonne (*Matr.*).
+Matruchot, \[Alphonse\] Louis \[Paul\] (1863-1921), French mycologist; at École normale supérieure 1885-1888; librarian École norm. sup. 1888-1895; lecturer Faculté des Sciences, Paris 1895-1900; lecturer École norm. sup. from 1901; from 1905 in addition professor adj., from 1912 professor of cryptogamic botany at the Sorbonne 
+**Abbreviated name**: *Matr.*
 
 #### Herbarium and types
 

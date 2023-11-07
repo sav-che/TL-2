@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/item/103835#page/164/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33260142) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dughi, Raymond-Paul (fl. 1932-1963), French botanist (lichenologist), Licencié ès Sci. 1932, prof. École normale and conservateur of the Musée Hist. Nat. Aix-en-Provence, prix Jean Thore 1949, prix Gandoger 1958 (cryptogamy). (*Dughi*).
+Dughi, Raymond-Paul (fl. 1932-1963), French botanist (lichenologist), Licencié ès Sci. 1932, prof. École normale and conservateur of the Musée Hist. Nat. Aix-en-Provence, prix Jean Thore 1949, prix Gandoger 1958 (cryptogamy). 
+**Abbreviated name**: *Dughi*
 
 #### Herbarium and types
 

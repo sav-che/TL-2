@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/item/104077#page/101/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33333226) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Savi, Paolo (1798-1871), Italian zoologist and geologist; son of Gaetano Savi; professor of zoology and mineralogy at the University of Pisa; from 1823 professor of natural history at Pisa University, from 1840 professor of zoology and comparative anatomy. (*Pa. Savi*).
+Savi, Paolo (1798-1871), Italian zoologist and geologist; son of Gaetano Savi; professor of zoology and mineralogy at the University of Pisa; from 1823 professor of natural history at Pisa University, from 1840 professor of zoology and comparative anatomy. 
+**Abbreviated name**: *Pa. Savi*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/item/104077#page/84/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33333209) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Saupe, Karl Alwin (1861 -?), German (Saxonian) botanist; Dr. phil. Leipzig 1887. (*Saupe*).
+Saupe, Karl Alwin (1861 -?), German (Saxonian) botanist; Dr. phil. Leipzig 1887. 
+**Abbreviated name**: *Saupe*
 
 #### Herbarium and types
 

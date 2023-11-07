@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/item/103250#page/224/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33066504) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weiss, \[Christian\] Ernst (1833-1890), German (Prussian-Saxony) palaeontologist; studied at Halle and Berlin; state teacher's examination 1858; Dr. phil. Halle 1859; teacher at the royal mining school in Saarbrücken 1860; lecturer Univ. Bonn 1868; from 1878 state geologist and professor at the mining academy in Berlin. (*C.E. Weiss*).
+Weiss, \[Christian\] Ernst (1833-1890), German (Prussian-Saxony) palaeontologist; studied at Halle and Berlin; state teacher's examination 1858; Dr. phil. Halle 1859; teacher at the royal mining school in Saarbrücken 1860; lecturer Univ. Bonn 1868; from 1878 state geologist and professor at the mining academy in Berlin. 
+**Abbreviated name**: *C.E. Weiss*
 
 #### Herbarium and types
 

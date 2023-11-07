@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/item/103832#page/129/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33258595) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gandoger, Michel {std. Gand.}|first entry]] for this author
 
 ### Author
 
-\* Gandoger, \[Jean\] Michel \[Michael, Michaële, Michaeli, Michale\] (Abbé) (1850-1926), French botanist, born 10 Mai 1850 in Arnas (Rhône), began collecting plants at age 15, joined the Société Botanique de France at age 21, became a priest at age 26, began his *Flora Europae* (which eventually included more than 100,000 formae) at age 32, amassed an enormous herb. through collecting and purchase, ceased traveling in 1921 after becoming ill, died 4 Oct 1926 in Lyon. (*Gand.*).
+\* Gandoger, \[Jean\] Michel \[Michael, Michaële, Michaeli, Michale\] (Abbé) (1850-1926), French botanist, born 10 Mai 1850 in Arnas (Rhône), began collecting plants at age 15, joined the Société Botanique de France at age 21, became a priest at age 26, began his *Flora Europae* (which eventually included more than 100,000 formae) at age 32, amassed an enormous herb. through collecting and purchase, ceased traveling in 1921 after becoming ill, died 4 Oct 1926 in Lyon. 
+**Abbreviated name**: *Gand.*
 
 #### Herbarium and types
 

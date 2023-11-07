@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/item/104137#page/159/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33355230) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Loeske, Leopold (1865-1935), German amateur bryologist, journalist, later administrator. (*Loeske*).
+Loeske, Leopold (1865-1935), German amateur bryologist, journalist, later administrator. 
+**Abbreviated name**: *Loeske*
 
 #### Herbarium and types
 

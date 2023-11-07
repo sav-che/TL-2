@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/item/103859#page/171/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33265358) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bigelow, Jacob {std. Bigelow}|first entry]] for this author
 
 ### Author
 
-\* Bigelow, Jacob (1787-1879), American botanist, physician and educator, born at Sudbury, Mass., A.B. Harvard College 1806, M.D. University of Pennsylvania 1810, began practicing medicine 1810, professor of materia medica in Harvard 1815-1855, also physician to the Massachusetts General Hospital, president of the American Academy of Arts and Sciences 1847-1863. (*Bigelow*).
+\* Bigelow, Jacob (1787-1879), American botanist, physician and educator, born at Sudbury, Mass., A.B. Harvard College 1806, M.D. University of Pennsylvania 1810, began practicing medicine 1810, professor of materia medica in Harvard 1815-1855, also physician to the Massachusetts General Hospital, president of the American Academy of Arts and Sciences 1847-1863. 
+**Abbreviated name**: *Bigelow*
 
 #### Herbarium and types
 

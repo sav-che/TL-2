@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/item/103253#page/28/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33068244) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hackel, Eduard (1850-1926), Bohemia-born Austrian agrostologist and high school teacher at St. Pölten (1871-1900); from 1904 at Graz. (*Hack.*).
+Hackel, Eduard (1850-1926), Bohemia-born Austrian agrostologist and high school teacher at St. Pölten (1871-1900); from 1904 at Graz. 
+**Abbreviated name**: *Hack.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/item/103414#page/691/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dick, James (x-1775), Swiss amateur botanist who collected widely in Switzerland, and who was acquainted with A. von Haller. (*Dick*).
+Dick, James (x-1775), Swiss amateur botanist who collected widely in Switzerland, and who was acquainted with A. von Haller. 
+**Abbreviated name**: *Dick*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/item/103250#page/210/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33066490) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Weigel, Johann Adam Valentin (1740-1806), German (Franconian) botanist, entomologist and clergyman; went to school and pursued his studies under the guidance of C.J. Trew at Nürnberg; studied theology at Leipzig; from 1761-1768 teacher at Halle; private teacher in Silesia 1769-1778; from then on lutheran pastor in Ober-Haselbach, Silesia. (*J. Weigel*).
+Weigel, Johann Adam Valentin (1740-1806), German (Franconian) botanist, entomologist and clergyman; went to school and pursued his studies under the guidance of C.J. Trew at Nürnberg; studied theology at Leipzig; from 1761-1768 teacher at Halle; private teacher in Silesia 1769-1778; from then on lutheran pastor in Ober-Haselbach, Silesia. 
+**Abbreviated name**: *J. Weigel*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/item/103859#page/100/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33265287) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berger, Louis Guillaume den (1881-1945), Dutch chemist and agriculturist, studied at the Technical College at Delft, Ir. 1935, assistant at the Experiment Station for Rice at Buitenzorg 1905, with the Forestry Institute at Buitenzorg 1917, wood technologist 1918, chief of the division of technology 1928, director of the General Experiment Station for Agriculture, Buitenzorg 1928-1931, retired 1931, settled in the Netherlands. (*L.G. den Berger*).
+Berger, Louis Guillaume den (1881-1945), Dutch chemist and agriculturist, studied at the Technical College at Delft, Ir. 1935, assistant at the Experiment Station for Rice at Buitenzorg 1905, with the Forestry Institute at Buitenzorg 1917, wood technologist 1918, chief of the division of technology 1928, director of the General Experiment Station for Agriculture, Buitenzorg 1928-1931, retired 1931, settled in the Netherlands. 
+**Abbreviated name**: *L.G. den Berger*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/item/103833#page/215/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33259249) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Denis, Marcel (1897-1929), French botanist, assistant at the Botanical Laboratory of the Sorbonne, Dr. ès-Sci. 1921, assistant at the Faculté des Sciences de Clermont-Ferrand, id. as "professeur suppléant à l'École de Médecine", Clermont-Ferrand. (*Denis*).
+Denis, Marcel (1897-1929), French botanist, assistant at the Botanical Laboratory of the Sorbonne, Dr. ès-Sci. 1921, assistant at the Faculté des Sciences de Clermont-Ferrand, id. as "professeur suppléant à l'École de Médecine", Clermont-Ferrand. 
+**Abbreviated name**: *Denis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/item/103624#page/211/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33189668) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petersen, Niels Frederick (1877-1940), Danish-born American botanist; grew up in Plainview, Nebraska; M.S. Univ. Nebraska 1911, instructor of botany at Baton Rouge 1909-1913; in Panama 1914; at Univ. of Chicago 1915-1916; at Nevada Experiment Station 1917-1920; from 1921 at Nebraska Experiment Station; later settling again at Plainview, Nebr. (*N Petersen*).
+Petersen, Niels Frederick (1877-1940), Danish-born American botanist; grew up in Plainview, Nebraska; M.S. Univ. Nebraska 1911, instructor of botany at Baton Rouge 1909-1913; in Panama 1914; at Univ. of Chicago 1915-1916; at Nevada Experiment Station 1917-1920; from 1921 at Nebraska Experiment Station; later settling again at Plainview, Nebr. 
+**Abbreviated name**: *N Petersen*
 
 #### Herbarium and types
 

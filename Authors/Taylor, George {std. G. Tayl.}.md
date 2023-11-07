@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/item/103683#page/197/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33212229) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Taylor, George (1904-x), British botanist; studied at Edinburgh University; B.Sc. 1926; with RBG Edinburgh 1927-1928; with Botany Department British Museum (Natural History) London 1928-1956, asst. keeper 1928-1950, keeper 1950-1956; director of the Royal Botanic Gardens, Kew 1956-1971; in retirement at Dunbar, Scotland; collected in East Africa 1927-1928 and 1934-1935, in the Himalayas (Tibet, Bhutan and Sikkim) 1938; president of the International Association of Plant Taxonomy 1969-1972; knighted 1962. (*G. Tayl.*).
+Taylor, George (1904-x), British botanist; studied at Edinburgh University; B.Sc. 1926; with RBG Edinburgh 1927-1928; with Botany Department British Museum (Natural History) London 1928-1956, asst. keeper 1928-1950, keeper 1950-1956; director of the Royal Botanic Gardens, Kew 1956-1971; in retirement at Dunbar, Scotland; collected in East Africa 1927-1928 and 1934-1935, in the Himalayas (Tibet, Bhutan and Sikkim) 1938; president of the International Association of Plant Taxonomy 1969-1972; knighted 1962. 
+**Abbreviated name**: *G. Tayl.*
 
 #### Herbarium and types
 

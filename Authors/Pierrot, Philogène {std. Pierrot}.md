@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/item/103624#page/274/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33189731) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pierrot, Philogène (1835-1896), French botanist, printer and newspaper publisher at Montmédy near Sedan; sometime burgomaster of the city and county-counsel. (*Pierrot*).
+Pierrot, Philogène (1835-1896), French botanist, printer and newspaper publisher at Montmédy near Sedan; sometime burgomaster of the city and county-counsel. 
+**Abbreviated name**: *Pierrot*
 
 #### Herbarium and types
 

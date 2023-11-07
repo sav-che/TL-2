@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/item/104137#page/733/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33355804) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Negri, Giovanni (1877-1960), Italian botanist, Dr. phil. Torino 1925; assistant at the Istituto botanico Torino 1903-1924, at Cagliari 1925; from 1925-1947 professor of botany and director of the Istituto botanico, Firenze. (*G. Negri*).
+Negri, Giovanni (1877-1960), Italian botanist, Dr. phil. Torino 1925; assistant at the Istituto botanico Torino 1903-1924, at Cagliari 1925; from 1925-1947 professor of botany and director of the Istituto botanico, Firenze. 
+**Abbreviated name**: *G. Negri*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103861#page/177/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33266474) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brutschy, Adolf (1885-?), Swiss algologist, studied at the University of Zürich, Dr. phil. ib. 1912. (*Brutschy*).
+Brutschy, Adolf (1885-?), Swiss algologist, studied at the University of Zürich, Dr. phil. ib. 1912. 
+**Abbreviated name**: *Brutschy*
 
 #### Herbarium and types
 

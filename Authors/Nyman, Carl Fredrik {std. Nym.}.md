@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/item/104137#page/813/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33355884) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Nyman, Carl Fredrik (1820-1893), Swedish botanist; med. fil. kand. Uppsala 1840; curator ("amanuens") at the botanical dept. of Naturhistoriska Riksmuseum 1855-1889. (*Nym.*).
+Nyman, Carl Fredrik (1820-1893), Swedish botanist; med. fil. kand. Uppsala 1840; curator ("amanuens") at the botanical dept. of Naturhistoriska Riksmuseum 1855-1889. 
+**Abbreviated name**: *Nym.*
 
 #### Herbarium and types
 

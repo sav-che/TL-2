@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/item/103683#page/512/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33212544) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Troilius, Adolf Magnus (1838-1909), Swedish administrator and botanist; Dr. phil. Uppsala 1860; nominal district judge in Gävle 1866, secretary of the town administration and public notary ib. 1876-1907. (*Troilius*).
+Troilius, Adolf Magnus (1838-1909), Swedish administrator and botanist; Dr. phil. Uppsala 1860; nominal district judge in Gävle 1866, secretary of the town administration and public notary ib. 1876-1907. 
+**Abbreviated name**: *Troilius*
 
 #### Herbarium and types
 

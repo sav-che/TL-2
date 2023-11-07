@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/item/103624#page/637/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Redouté, Pierre Joseph (1759-1840); Luxemburg-born botanical artist who settled in Paris 1782, originally as designer of stage scenery, moving to botanical drawing and painting stimulated by CL. L'Héritier de Brutelle from 1784, draughtsman and painter to the cabinet of Marie-Antoinette 1787 and associated with G. van Spaendonck; on the staff of the Muséum national d'histoire naturelle, Paris and working with R.L. Desfontaines and A.P. de Candolle after 1795; painter for Joséphine de Beauharnais and Ventenat, later to Marie Louise during the Napoleonic period; during the Restauration working independently as well as for Marie Caroline de Berry. (*Redouté*).
+Redouté, Pierre Joseph (1759-1840); Luxemburg-born botanical artist who settled in Paris 1782, originally as designer of stage scenery, moving to botanical drawing and painting stimulated by CL. L'Héritier de Brutelle from 1784, draughtsman and painter to the cabinet of Marie-Antoinette 1787 and associated with G. van Spaendonck; on the staff of the Muséum national d'histoire naturelle, Paris and working with R.L. Desfontaines and A.P. de Candolle after 1795; painter for Joséphine de Beauharnais and Ventenat, later to Marie Louise during the Napoleonic period; during the Restauration working independently as well as for Marie Caroline de Berry. 
+**Abbreviated name**: *Redouté*
 
 #### Herbarium and types
 

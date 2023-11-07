@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/item/103253#page/494/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Juillard-Hartmann, G. (*fl*. 1919), French mycologist. (*Juill.-Hartm.*).
+Juillard-Hartmann, G. (*fl*. 1919), French mycologist. 
+**Abbreviated name**: *Juill.-Hartm.*
 
 #### Herbarium and types
 

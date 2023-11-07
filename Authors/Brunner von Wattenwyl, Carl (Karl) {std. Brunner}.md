@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/item/103414#page/432/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33120515) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brunner von Wattenwyl, Carl (Karl) (1823-1914), Swiss geologist. (*Brunner*).
+Brunner von Wattenwyl, Carl (Karl) (1823-1914), Swiss geologist. 
+**Abbreviated name**: *Brunner*
 
 #### Collections
 

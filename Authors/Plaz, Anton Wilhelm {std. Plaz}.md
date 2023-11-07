@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/item/103624#page/306/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33189763) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Plaz, Anton Wilhelm (1708-1784), German (Saxonian) botanist; Dr. med. Halle 1728; extraord. professor of botany Leipzig 1733, ord. id. 1749; later professor of physiology and therapeutics; dean of the medical faculty from 1773. (*Plaz*).
+Plaz, Anton Wilhelm (1708-1784), German (Saxonian) botanist; Dr. med. Halle 1728; extraord. professor of botany Leipzig 1733, ord. id. 1749; later professor of physiology and therapeutics; dean of the medical faculty from 1773. 
+**Abbreviated name**: *Plaz*
 
 #### Herbarium and types
 

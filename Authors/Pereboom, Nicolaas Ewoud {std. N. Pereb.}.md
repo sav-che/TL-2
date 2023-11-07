@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/item/103624#page/177/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33189634) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pereboom, Nicolaas Ewoud (*fl*. 1787), Dutch botanist, son of Cornells Pereboom. (*N. Pereb.*).
+Pereboom, Nicolaas Ewoud (*fl*. 1787), Dutch botanist, son of Cornells Pereboom. 
+**Abbreviated name**: *N. Pereb.*
 
 #### Herbarium and types
 

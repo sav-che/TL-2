@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/item/103683#page/746/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33212778) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Viguier, René (1880-1931), French botanist; technician at the École nationale supérieure d'Agriculture and at the Muséum d'Histoire naturelle (with van Tieghem); maître de conférences Sorbonne 1912; professor of botany at the University and director of the municipal botanical garden at Caen 1919-1931. (*R. Vig.*).
+Viguier, René (1880-1931), French botanist; technician at the École nationale supérieure d'Agriculture and at the Muséum d'Histoire naturelle (with van Tieghem); maître de conférences Sorbonne 1912; professor of botany at the University and director of the municipal botanical garden at Caen 1919-1931. 
+**Abbreviated name**: *R. Vig.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/item/103253#page/469/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33068685) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jesup, Henry Griswold (1826-1903), American botanist, studied at Yale, professor of natural history (1877-1893) and professor of botany (1893-1899) at Dartmouth College N. H. (*Jesup*).
+Jesup, Henry Griswold (1826-1903), American botanist, studied at Yale, professor of natural history (1877-1893) and professor of botany (1893-1899) at Dartmouth College N. H. 
+**Abbreviated name**: *Jesup*
 
 #### Herbarium and types
 

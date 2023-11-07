@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/item/103253#page/39/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33068255) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hagerup, Olaf (1889-1961), Danish botanist; educated at Copenhagen University under Warming; Dr. phil. Copenhagen 1930; travelled to Greenland (1924) and Niger (1927); from 1927-1935 lecturer at a pharmaceutical college; from 1935 curator at the Copenhagen Botanical Museum. (*Hagerup*).
+Hagerup, Olaf (1889-1961), Danish botanist; educated at Copenhagen University under Warming; Dr. phil. Copenhagen 1930; travelled to Greenland (1924) and Niger (1927); from 1927-1935 lecturer at a pharmaceutical college; from 1935 curator at the Copenhagen Botanical Museum. 
+**Abbreviated name**: *Hagerup*
 
 #### Herbarium and types
 

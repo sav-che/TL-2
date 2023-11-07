@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103860#page/36/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33265703) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cerón y Martínez, Salvador (1828-1897), Spanish botanist, born 11 Jun 1828, died 8 Jan 1897 in Cádiz. (*Cerón*).
+Cerón y Martínez, Salvador (1828-1897), Spanish botanist, born 11 Jun 1828, died 8 Jan 1897 in Cádiz. 
+**Abbreviated name**: *Cerón*
 
 #### Herbarium and types
 

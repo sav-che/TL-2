@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/item/103414#page/434/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33120517) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bubák, Frantisek {std. Bubák} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bubák, František (1865-1925), Bohemian botanist, professor at the agricultural college at Tabor. (*Bubák*).
+Bubák, František (1865-1925), Bohemian botanist, professor at the agricultural college at Tabor. 
+**Abbreviated name**: *Bubák*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/item/103683#page/139/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33212171) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sydow, Hans (1879-1946), German (Berlin) amateur mycologist; son of Paul Sydow; bank employee in Berlin from 1899-1937 (from 1904 with the Dresdner Bank); collected in Costa Rica 1924-1925, Venezuela 1927-1928, Ecuador 1937-1938. (*Syd.*).
+Sydow, Hans (1879-1946), German (Berlin) amateur mycologist; son of Paul Sydow; bank employee in Berlin from 1899-1937 (from 1904 with the Dresdner Bank); collected in Costa Rica 1924-1925, Venezuela 1927-1928, Ecuador 1937-1938. 
+**Abbreviated name**: *Syd.*
 
 #### Herbarium and types
 

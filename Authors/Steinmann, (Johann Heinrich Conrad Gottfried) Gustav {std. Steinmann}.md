@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/item/104077#page/893/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33334018) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Steinmann, \[Johann Heinrich Conrad Gottfried\] Gustav (1856-1929), German palaeontologist and geologist; Dr. phil. München 1877; assistant (1877) and lecturer (1880) in Strasbourg; extraord. prof. geology Jena 1885; ord. prof. ib. Freiburg i. Br. 1886; prof. geology and palaeontology Bonn 1906-1929. (*Steinmann*).
+Steinmann, \[Johann Heinrich Conrad Gottfried\] Gustav (1856-1929), German palaeontologist and geologist; Dr. phil. München 1877; assistant (1877) and lecturer (1880) in Strasbourg; extraord. prof. geology Jena 1885; ord. prof. ib. Freiburg i. Br. 1886; prof. geology and palaeontology Bonn 1906-1929. 
+**Abbreviated name**: *Steinmann*
 
 #### Herbarium and types
 

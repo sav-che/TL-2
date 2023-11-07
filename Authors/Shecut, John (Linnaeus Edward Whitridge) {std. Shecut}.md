@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/item/104077#page/571/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33333696) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Shecut, John \[Linnaeus Edward Whitridge\] (1770-1836), American botanist; Dr. med. Philadelphia 1791; practicing physician at Charleston, S.C. 1791-1836. (*Shecut*).
+Shecut, John \[Linnaeus Edward Whitridge\] (1770-1836), American botanist; Dr. med. Philadelphia 1791; practicing physician at Charleston, S.C. 1791-1836. 
+**Abbreviated name**: *Shecut*
 
 #### Herbarium and types
 

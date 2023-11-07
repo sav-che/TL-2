@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/item/103624#page/602/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33190059) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rau, Eugene Abraham (1848-1932), American botanist at Bethlehem, Pa. (*Rau*).
+Rau, Eugene Abraham (1848-1932), American botanist at Bethlehem, Pa. 
+**Abbreviated name**: *Rau*
 
 #### Herbarium and types
 

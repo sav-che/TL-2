@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/item/103250#page/534/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wüstnei, Karl Georg Gustav (1810-1858), German (Mecklenburg-Schwerin) high school teacher, botanist and entomologist; from 1835 teacher for mathematics and natural sciences at the high school in Schwerin; contributed to Rabenhorst's series of exsiccatae. (*Wüstnei*).
+Wüstnei, Karl Georg Gustav (1810-1858), German (Mecklenburg-Schwerin) high school teacher, botanist and entomologist; from 1835 teacher for mathematics and natural sciences at the high school in Schwerin; contributed to Rabenhorst's series of exsiccatae. 
+**Abbreviated name**: *Wüstnei*
 
 #### Herbarium and types
 

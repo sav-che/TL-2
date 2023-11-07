@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/item/104137#page/789/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Noroña, Francisco (Noronha, François; also err. Fernando) (ca. 1748-1788), Spanish physician and botanist who travelled to the Philippines and Java 1786-1787. (*Noroña*).
+Noroña, Francisco (Noronha, François; also err. Fernando) (ca. 1748-1788), Spanish physician and botanist who travelled to the Philippines and Java 1786-1787. 
+**Abbreviated name**: *Noroña*
 
 #### Herbarium and types
 

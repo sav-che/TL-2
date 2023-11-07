@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/item/103832#page/71/mode/1up) of TL-2 Suppl. VIII.
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33258499) of TL-2 Suppl. VIII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fritsch, Karl \[Carl\] Wilhelm Georg (Freiherr) von (1838-1906), German vulcanologist and paleontologist, born 11 Nov 1838 in Weimar, visited Teneriffe 1862, died 9 Jan 1906 in Halle (on the Saale River). (*K.W.G. Fritsch*).
+Fritsch, Karl \[Carl\] Wilhelm Georg (Freiherr) von (1838-1906), German vulcanologist and paleontologist, born 11 Nov 1838 in Weimar, visited Teneriffe 1862, died 9 Jan 1906 in Halle (on the Saale River). 
+**Abbreviated name**: *K.W.G. Fritsch*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/item/103683#page/21/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33212083) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Stockwell, \[William\] Palmer (1898-1950), American botanist, MS (Bot.) Univ. Arizona 1932; Dr. phil. Stanford 1940; technical assistant Carnegie Institution of Washington at Stanford 1932-1935; with Inst. Forest Genetics, Calif. Forest & Range Exp. Sta. until 1950, director from 1940. (*Stockw.*).
+Stockwell, \[William\] Palmer (1898-1950), American botanist, MS (Bot.) Univ. Arizona 1932; Dr. phil. Stanford 1940; technical assistant Carnegie Institution of Washington at Stanford 1932-1935; with Inst. Forest Genetics, Calif. Forest & Range Exp. Sta. until 1950, director from 1940. 
+**Abbreviated name**: *Stockw.*
 
 #### Herbarium and types
 

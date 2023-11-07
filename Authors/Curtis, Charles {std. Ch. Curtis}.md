@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/item/103860#page/524/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33266191) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Curtis, Charles (1853-1928), British botanist and plant collector, born at Barnstaple, Devon, plant collector for Bale's Nursery, North Devon, collected for Veitch 1878-1884, to Borneo, Sumatra, Java, Molluccas, etc. ca. 1880, in charge of the Botanical Garden at Penang 1884-1903, returned to England at Barnstaple, died 16 Aug 1928. (*Ch. Curtis*).
+Curtis, Charles (1853-1928), British botanist and plant collector, born at Barnstaple, Devon, plant collector for Bale's Nursery, North Devon, collected for Veitch 1878-1884, to Borneo, Sumatra, Java, Molluccas, etc. ca. 1880, in charge of the Botanical Garden at Penang 1884-1903, returned to England at Barnstaple, died 16 Aug 1928. 
+**Abbreviated name**: *Ch. Curtis*
 
 #### Herbarium and types
 

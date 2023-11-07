@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/item/103859#page/91/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265278) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz {std. Bercht.}|first entry]] for this author
 
 ### Author
 
-\* Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz (Uherčic) (1781-1876), Bohemian (Budweis) botanist, educated at the Altstädter Gymnasium, Prague, studied at the University of Prague with J.C. Mikan (for botany), Dr. med. 1804, visited various central European botanists 1804-1805, practising physician in Tučap (Bohemia) until 1815, turned definitively to botany from 1815, travelled from 1836-1855 widely in Europe, the Near East and, 1846-1847, in Brazil. (*Bercht.*).
+\* Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz (Uherčic) (1781-1876), Bohemian (Budweis) botanist, educated at the Altstädter Gymnasium, Prague, studied at the University of Prague with J.C. Mikan (for botany), Dr. med. 1804, visited various central European botanists 1804-1805, practising physician in Tučap (Bohemia) until 1815, turned definitively to botany from 1815, travelled from 1836-1855 widely in Europe, the Near East and, 1846-1847, in Brazil. 
+**Abbreviated name**: *Bercht.*
 
 #### Herbarium and types
 

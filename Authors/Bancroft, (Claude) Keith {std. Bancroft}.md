@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/item/103858#page/321/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265036) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bancroft, \[Claude\] Keith (1885-1919), British (Barbados born) mycologist and phytopathologist, educated at Harrison College Barbados, studied at Trinity College, Cambridge, England, B.A. 1909, worked some time in the Jodrell Laboratory, Kew, assistant mycologist in the Federated Malay States 1910, assistant director and government botanist, British Guiana 1913-1919. (*Bancroft*).
+Bancroft, \[Claude\] Keith (1885-1919), British (Barbados born) mycologist and phytopathologist, educated at Harrison College Barbados, studied at Trinity College, Cambridge, England, B.A. 1909, worked some time in the Jodrell Laboratory, Kew, assistant mycologist in the Federated Malay States 1910, assistant director and government botanist, British Guiana 1913-1919. 
+**Abbreviated name**: *Bancroft*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/item/103835#page/73/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33260051) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dostál, Rudolf (1885-1973), Czech (Moravian) botanist, born 28 Mar 1885 in Proruby nr. Potštejn, died 19 Aug 1973 Brno, professor of botany (morphologist) at the "Tierärztliche Hochschule" at Brno from 1928. (*R. Dostál*).
+Dostál, Rudolf (1885-1973), Czech (Moravian) botanist, born 28 Mar 1885 in Proruby nr. Potštejn, died 19 Aug 1973 Brno, professor of botany (morphologist) at the "Tierärztliche Hochschule" at Brno from 1928. 
+**Abbreviated name**: *R. Dostál*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/item/103414#page/232/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33120315) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berendt, Georg Carl (Karl) (1790-1850), German physician at Danzig, collector and student of amber fossils, collaborator of Goeppert. (*Berendt*).
+Berendt, Georg Carl (Karl) (1790-1850), German physician at Danzig, collector and student of amber fossils, collaborator of Goeppert. 
+**Abbreviated name**: *Berendt*
 
 #### Collections
 

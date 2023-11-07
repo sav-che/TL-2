@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103834#page/93/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33259575) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Favre, Émile-Florentin (1843-1905), Swiss monk ("chanoine"), amateur botanist and entomologist, born 13 Feb 1843 in Sembrancher (Ct. Valais), taught primary school in Liddes, after military service entered the congregation of Grand-Saint-Bernard 1867, chaplain in Sembrancher 1875-1877, curate of Bovernier and Chandolin 1877-1882, vicar in Fully 1882-1888, at the house of the Martigny congregation from 1888, member of the scientific society "La Murithienne" from 1871, died 20 Aug 1905 (other dates in error) in Morgins. (*Ém. Favre*).
+Favre, Émile-Florentin (1843-1905), Swiss monk ("chanoine"), amateur botanist and entomologist, born 13 Feb 1843 in Sembrancher (Ct. Valais), taught primary school in Liddes, after military service entered the congregation of Grand-Saint-Bernard 1867, chaplain in Sembrancher 1875-1877, curate of Bovernier and Chandolin 1877-1882, vicar in Fully 1882-1888, at the house of the Martigny congregation from 1888, member of the scientific society "La Murithienne" from 1871, died 20 Aug 1905 (other dates in error) in Morgins. 
+**Abbreviated name**: *Ém. Favre*
 
 #### Herbarium and types
 

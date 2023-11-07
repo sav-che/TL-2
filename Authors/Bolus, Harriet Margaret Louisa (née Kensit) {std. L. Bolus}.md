@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/item/103414#page/315/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33120398) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bolus, (Harriet Margaret) Louisa {std. L. Bolus} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bolus, Harriet Margaret Louisa (née Kensit) (1877-1970), South African botanist, daughter-in-law of Harry Bolus. (*L. Bolus*).
+Bolus, Harriet Margaret Louisa (née Kensit) (1877-1970), South African botanist, daughter-in-law of Harry Bolus. 
+**Abbreviated name**: *L. Bolus*
 
 #### Herbarium and types
 

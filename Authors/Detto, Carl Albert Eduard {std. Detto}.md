@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/item/103833#page/261/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33259295) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Detto, Carl Albert Eduard (1877-1907), German botanist, born 26 Nov 1877 in Wittstock (Ostprignitz), at the gymnasium of Wittstock 1888-1895, moved to Frankfurt an der Oder and studied at the Frankfurter Gymnasium 1895-1899, studied medicine at the University of Jena 1899-1901, biology (especially botany) and geology ib. 1901-1902, Dr. phil at Jena Jul 1902. (*Detto*).
+Detto, Carl Albert Eduard (1877-1907), German botanist, born 26 Nov 1877 in Wittstock (Ostprignitz), at the gymnasium of Wittstock 1888-1895, moved to Frankfurt an der Oder and studied at the Frankfurter Gymnasium 1895-1899, studied medicine at the University of Jena 1899-1901, biology (especially botany) and geology ib. 1901-1902, Dr. phil at Jena Jul 1902. 
+**Abbreviated name**: *Detto*
 
 #### Herbarium and types
 

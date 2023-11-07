@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/item/103253#page/568/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33068784) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kindberg, Nils Conrad (1832-1910), Swedish bryologist; Dr. phil. Uppsala 1857; High school teacher at Linköping (1862-1901). (*Kindb.*).
+Kindberg, Nils Conrad (1832-1910), Swedish bryologist; Dr. phil. Uppsala 1857; High school teacher at Linköping (1862-1901). 
+**Abbreviated name**: *Kindb.*
 
 #### Herbarium and types
 

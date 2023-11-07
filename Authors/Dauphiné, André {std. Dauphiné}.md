@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/item/103833#page/100/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33259134) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dauphiné, André (1880-1948), French botanist, born at Montpellier Mar 1880, member Société botanique de France 1903-1941 with G. Bonnier as vice-president 1924. (*Dauphiné*).
+Dauphiné, André (1880-1948), French botanist, born at Montpellier Mar 1880, member Société botanique de France 1903-1941 with G. Bonnier as vice-president 1924. 
+**Abbreviated name**: *Dauphiné*
 
 #### Herbarium and types
 

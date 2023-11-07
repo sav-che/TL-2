@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/104077#page/434/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33333559) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schwalb, Karl Josef W. (1842-?), Austrian mycologist. (*Schwalb*).
+Schwalb, Karl Josef W. (1842-?), Austrian mycologist. 
+**Abbreviated name**: *Schwalb*
 
 #### Herbarium and types
 

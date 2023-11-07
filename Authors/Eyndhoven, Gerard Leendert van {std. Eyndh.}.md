@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/item/103835#page/460/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33260438) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Eyndhoven, Gerard Leendert van (1906-1990), Dutch entomologist and mycologist, born 29 Mar 1906 at Amsterdam, moved 1922 to Haarlem, shortly after WW II appointed as entomologist at the zoological museum in Amsterdam, recieved a Dr. honoris causa from the University of Amsterdam in 1967, especially interested in Gasteromycetes, died 18 Oct 1990. (*Eyndh.*).
+Eyndhoven, Gerard Leendert van (1906-1990), Dutch entomologist and mycologist, born 29 Mar 1906 at Amsterdam, moved 1922 to Haarlem, shortly after WW II appointed as entomologist at the zoological museum in Amsterdam, recieved a Dr. honoris causa from the University of Amsterdam in 1967, especially interested in Gasteromycetes, died 18 Oct 1990. 
+**Abbreviated name**: *Eyndh.*
 
 #### Herbarium and types
 

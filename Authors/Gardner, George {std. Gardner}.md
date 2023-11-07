@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/item/103414#page/963/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33121046) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Gardner, George (1812-1849), British botanist and explorer, later superintendent of the Peradenya botanic garden. (*Gardner*).
+Gardner, George (1812-1849), British botanist and explorer, later superintendent of the Peradenya botanic garden. 
+**Abbreviated name**: *Gardner*
 
 #### Herbarium and types
 

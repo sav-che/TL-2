@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/item/103253#page/167/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33068383) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Heinzel, Philipp Gustav (1816-?), German botanist; Dr. phil. Breslau 1844. (*Heinzel*).
+Heinzel, Philipp Gustav (1816-?), German botanist; Dr. phil. Breslau 1844. 
+**Abbreviated name**: *Heinzel*
 
 #### Herbarium and types
 

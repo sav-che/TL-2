@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/item/103861#page/30/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33266327) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Branner, John Casper (1850-1922), American geologist and botanist, born in Newmarket, Tenn., studied at Cornell University, grad. 1874, geologist on the Imperial Geological Commission, Brazil 1875-1877, topographical geologist at the Geological Survey of Pennsylvania 1883-1885, professor of geology at the University of Indiana 1885-1892, State geologist of Arkansas 1887-1892, professor of geology at Leland Stanford Junior University from 1892. (*Branner*).
+Branner, John Casper (1850-1922), American geologist and botanist, born in Newmarket, Tenn., studied at Cornell University, grad. 1874, geologist on the Imperial Geological Commission, Brazil 1875-1877, topographical geologist at the Geological Survey of Pennsylvania 1883-1885, professor of geology at the University of Indiana 1885-1892, State geologist of Arkansas 1887-1892, professor of geology at Leland Stanford Junior University from 1892. 
+**Abbreviated name**: *Branner*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/103250#page/93/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33066373) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wallace, Alfred Russel (1823-1913), British explorer, zoologist and botanist; collected with H.W. Bates in S. America 1848-1852, in the Malay Archipelago 1854-1862. (*Wallace*).
+Wallace, Alfred Russel (1823-1913), British explorer, zoologist and botanist; collected with H.W. Bates in S. America 1848-1852, in the Malay Archipelago 1854-1862. 
+**Abbreviated name**: *Wallace*
 
 #### Herbarium and types
 

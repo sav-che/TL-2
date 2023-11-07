@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/item/103860#page/122/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33265789) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Chivers, Arthur Houston (1880-x), American mycologist and pathologist, born at Amesbury, Mass., A.B. Dartmouth College 1902, at Harvard 1904, Thayer fellow 1909-1910, Ph.D. 1914, instructor in botany at Radcliffe College 1905-1906, at Dartmouth College 1906-1910, assistant professor 1910-1920, professor ib. 1920-1950. (*Chivers*).
+Chivers, Arthur Houston (1880-x), American mycologist and pathologist, born at Amesbury, Mass., A.B. Dartmouth College 1902, at Harvard 1904, Thayer fellow 1909-1910, Ph.D. 1914, instructor in botany at Radcliffe College 1905-1906, at Dartmouth College 1906-1910, assistant professor 1910-1920, professor ib. 1920-1950. 
+**Abbreviated name**: *Chivers*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/item/104137#page/622/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33355693) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mougeot, Jean Baptiste (1776-1858), Alsatian physician and botanist; 1798-1802 French army health officer in Germany; from 1803 physician at Bruyères; 1833-1858 member of the Conseil général des Vosges. (*Moug.*).
+Mougeot, Jean Baptiste (1776-1858), Alsatian physician and botanist; 1798-1802 French army health officer in Germany; from 1803 physician at Bruyères; 1833-1858 member of the Conseil général des Vosges. 
+**Abbreviated name**: *Moug.*
 
 #### Herbarium and types
 

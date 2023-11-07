@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/item/103253#page/686/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Kraepelin, Karl (earlier publ.: Carl) \[Mathias Friedrich\] (1848-1915), German botanist and zoologist; Dr. phil. Leipzig 1872; from 1873-1874 high school teacher at Leipzig; from 1878-1889 at the Hamburg Johanneum; from 1889-1914 director of the natural history museum at Hamburg. (*Kraep.*).
+Kraepelin, Karl (earlier publ.: Carl) \[Mathias Friedrich\] (1848-1915), German botanist and zoologist; Dr. phil. Leipzig 1872; from 1873-1874 high school teacher at Leipzig; from 1878-1889 at the Hamburg Johanneum; from 1889-1914 director of the natural history museum at Hamburg. 
+**Abbreviated name**: *Kraep.*
 
 #### Herbarium and types
 

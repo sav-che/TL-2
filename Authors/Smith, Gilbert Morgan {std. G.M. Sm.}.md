@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/item/104077#page/686/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33333811) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Gilbert Morgan (1885-1959), American botanist; B.S. Beloit Coll. 1907; Dr. sci. ib. 1927; Dr. phil. Wisconsin 1913; botanical assistant Univ. Wisconsin 1909-1910; instructor Pomona Coll. 1910-1911; assistant Univ. Wisconsin 1911-1912; instructor 1912-1917; assistant prof. 1917-1919; assoc. prof. 1919-1925; professor of botany, Stanford Univ. 1925-1950; in retirement at Palo Alto, Calif. (*G.M. Sm.*).
+Smith, Gilbert Morgan (1885-1959), American botanist; B.S. Beloit Coll. 1907; Dr. sci. ib. 1927; Dr. phil. Wisconsin 1913; botanical assistant Univ. Wisconsin 1909-1910; instructor Pomona Coll. 1910-1911; assistant Univ. Wisconsin 1911-1912; instructor 1912-1917; assistant prof. 1917-1919; assoc. prof. 1919-1925; professor of botany, Stanford Univ. 1925-1950; in retirement at Palo Alto, Calif. 
+**Abbreviated name**: *G.M. Sm.*
 
 #### Herbarium and types
 

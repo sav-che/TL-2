@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/104077#page/305/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schoenlein, Philipp (1834-1856), Swiss-born botanist; educated in Berlin; travelled in Upper Guinea 1855-1856; died at Cap Palmas, Liberia; son of J.L. Schönlein. (*P. Schoenlein*).
+Schoenlein, Philipp (1834-1856), Swiss-born botanist; educated in Berlin; travelled in Upper Guinea 1855-1856; died at Cap Palmas, Liberia; son of J.L. Schönlein. 
+**Abbreviated name**: *P. Schoenlein*
 
 #### Herbarium and types
 

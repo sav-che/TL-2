@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/item/103835#page/199/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33260177) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dureau de la Malle \[Lamalle\], Adolphe Auguste Jules César (1777-1857), French scientist, born at Paris 2 Mar 1777, author mainly on economic plants of ancient times, died 17 Mai 1857 at Paris. (*Dureau*).
+Dureau de la Malle \[Lamalle\], Adolphe Auguste Jules César (1777-1857), French scientist, born at Paris 2 Mar 1777, author mainly on economic plants of ancient times, died 17 Mai 1857 at Paris. 
+**Abbreviated name**: *Dureau*
 
 #### Herbarium and types
 

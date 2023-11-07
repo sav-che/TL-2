@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/item/103683#page/706/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33212738) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vellozo \[Velloso, Veloso\], José Mariano da Conceição (1742-1811), Brazilian clergyman and botanist; entered Franciscan order 1761; ord. 1762; instructor in geometry São Paulo 1771; charged to study the flora of Rio de Janeiro 1782; from 1790 in Lisboa, in charge of the Tipografia Caliográfica e Tipoplástica de Arco do Cego. (*Vell.*).
+Vellozo \[Velloso, Veloso\], José Mariano da Conceição (1742-1811), Brazilian clergyman and botanist; entered Franciscan order 1761; ord. 1762; instructor in geometry São Paulo 1771; charged to study the flora of Rio de Janeiro 1782; from 1790 in Lisboa, in charge of the Tipografia Caliográfica e Tipoplástica de Arco do Cego. 
+**Abbreviated name**: *Vell.*
 
 #### Herbarium and types
 

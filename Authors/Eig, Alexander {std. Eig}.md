@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/item/103414#page/786/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33120869) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Eig, Alexander {std. Eig} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Eig, Alexander (1894-1938), Russian born Israeli botanist. (*Eig*).
+Eig, Alexander (1894-1938), Russian born Israeli botanist. 
+**Abbreviated name**: *Eig*
 
 #### Herbarium and types
 

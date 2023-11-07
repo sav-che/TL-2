@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/item/104077#page/47/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sandifort, Gerard (1779-1848), Dutch botanist and physician; prosector and adjunct to his father, the professor of anatomy at the Leiden University 1799; Dr. med. ib. 1801; honorary professor of anatomy 1801, ord. professor id. 1812, re-affirmed by the Dutch government in 1815; in charge of the Leiden Botanical Garden 1819-1822. (*Sandif.*).
+Sandifort, Gerard (1779-1848), Dutch botanist and physician; prosector and adjunct to his father, the professor of anatomy at the Leiden University 1799; Dr. med. ib. 1801; honorary professor of anatomy 1801, ord. professor id. 1812, re-affirmed by the Dutch government in 1815; in charge of the Leiden Botanical Garden 1819-1822. 
+**Abbreviated name**: *Sandif.*
 
 #### Herbarium and types
 

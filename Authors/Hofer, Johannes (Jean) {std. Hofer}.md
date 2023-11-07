@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/item/103253#page/261/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hofer, Johannes \[Jean\] (1697-1781), Swiss botanist. (*Hofer*).
+Hofer, Johannes \[Jean\] (1697-1781), Swiss botanist. 
+**Abbreviated name**: *Hofer*
 
 #### Herbarium and types
 

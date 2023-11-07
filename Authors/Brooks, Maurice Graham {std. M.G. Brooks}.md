@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/item/103861#page/133/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33266430) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brooks, Maurice Graham (1900-x), American botanist, studied at West Virginia University, A.B. 1923, M.S. 1935, assistant leader St. 4...H Club 1923-1926, at Upshur College and High School assistant principal 1926-1933, instructor in biology 1935. (*M.G. Brooks*).
+Brooks, Maurice Graham (1900-x), American botanist, studied at West Virginia University, A.B. 1923, M.S. 1935, assistant leader St. 4...H Club 1923-1926, at Upshur College and High School assistant principal 1926-1933, instructor in biology 1935. 
+**Abbreviated name**: *M.G. Brooks*
 
 #### Herbarium and types
 

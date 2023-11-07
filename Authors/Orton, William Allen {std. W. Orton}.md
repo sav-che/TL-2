@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/item/104137#page/866/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33355937) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Orton, William Allen (1877-1930), American plant pathologist; M. Sc. Univ. Vermont 1898; from 1899-1930 with USDA, from 1907-1924 pathologist in charge of the office of cotton, truck and forage crop disease investigations; from 1924-1930 also scientific director of the Tropical plant research Foundation. (*W. Orton*).
+Orton, William Allen (1877-1930), American plant pathologist; M. Sc. Univ. Vermont 1898; from 1899-1930 with USDA, from 1907-1924 pathologist in charge of the office of cotton, truck and forage crop disease investigations; from 1924-1930 also scientific director of the Tropical plant research Foundation. 
+**Abbreviated name**: *W. Orton*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103683#page/64/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33212058) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Strutt, Jacob George (*fl*. 1820-1850), British landscape painter and etcher; at Lausanne and Rome 1830-1851. (*Strutt*).
+Strutt, Jacob George (*fl*. 1820-1850), British landscape painter and etcher; at Lausanne and Rome 1830-1851. 
+**Abbreviated name**: *Strutt*
 
 #### Herbarium and types
 

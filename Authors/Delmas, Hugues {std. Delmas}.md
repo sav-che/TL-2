@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/103833#page/194/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259228) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Delmas, Hugues (fl. 1931), French pharmacist and botanist at Toulouse, studied Moroccan vegetation and halophytes. (*Delmas*).
+Delmas, Hugues (fl. 1931), French pharmacist and botanist at Toulouse, studied Moroccan vegetation and halophytes. 
+**Abbreviated name**: *Delmas*
 
 #### Herbarium and types
 

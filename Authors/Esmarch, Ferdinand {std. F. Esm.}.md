@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/item/103835#page/421/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33260399) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Esmarch, Ferdinand (1886-x), German botanist, born 8 Jun 1886 at Wacken (Holstein), visited the Realgymnasium at Altona, studied from 1905 mathematics and natural sciences at Tübingen, Heidelberg and Kiel, 30-31 Jul 1909 examination for teacher in botany, zoology, physics and mathematics, thesis in 1914. (*F. Esm.*).
+Esmarch, Ferdinand (1886-x), German botanist, born 8 Jun 1886 at Wacken (Holstein), visited the Realgymnasium at Altona, studied from 1905 mathematics and natural sciences at Tübingen, Heidelberg and Kiel, 30-31 Jul 1909 examination for teacher in botany, zoology, physics and mathematics, thesis in 1914. 
+**Abbreviated name**: *F. Esm.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103859#page/110/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33265297) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Berkenkamp, W.A. (fl. 1816), German gardener at the Botanical Garden in Köln. (*Berkenkamp*).
+Berkenkamp, W.A. (fl. 1816), German gardener at the Botanical Garden in Köln. 
+**Abbreviated name**: *Berkenkamp*
 
 #### Herbarium and types
 

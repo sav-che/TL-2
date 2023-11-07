@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/item/104077#page/160/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33333285) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schiede, Christian Julius Wilhelm (1798-1836), German (Hessen) botanist, traveller and plant collector; originally gardener; studied medicine at Göttingen and Berlin; to Mexico 1828 (with F. Deppe); staying there until his death in 1836 exploring Orizaba, Jalapa, Cuautla and Cuernavaca. (*Schiede*).
+Schiede, Christian Julius Wilhelm (1798-1836), German (Hessen) botanist, traveller and plant collector; originally gardener; studied medicine at Göttingen and Berlin; to Mexico 1828 (with F. Deppe); staying there until his death in 1836 exploring Orizaba, Jalapa, Cuautla and Cuernavaca. 
+**Abbreviated name**: *Schiede*
 
 #### Herbarium and types
 

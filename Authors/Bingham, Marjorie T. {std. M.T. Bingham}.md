@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/item/103859#page/177/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265364) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bingham, Marjorie T. (fl. 1939-1945), American botanist at the Cranbrook Institute of Science, Bloomfield Hills, Michigan, research with botanical survey of Oakland Co., Mich. and id. Bois Blanc Island, Mich., vice president of the Detroit Academy of Natural Sciences. (*M.T. Bingham*).
+Bingham, Marjorie T. (fl. 1939-1945), American botanist at the Cranbrook Institute of Science, Bloomfield Hills, Michigan, research with botanical survey of Oakland Co., Mich. and id. Bois Blanc Island, Mich., vice president of the Detroit Academy of Natural Sciences. 
+**Abbreviated name**: *M.T. Bingham*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/item/103683#page/101/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33212133) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sulzberger, Robert (*fl*. 1888), Belgian botanist and school teacher. (*Sulzberger*).
+Sulzberger, Robert (*fl*. 1888), Belgian botanist and school teacher. 
+**Abbreviated name**: *Sulzberger*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/item/103414#page/1068/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33121151) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Guettard, Jean-Étienne {std. Guett.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Guettard, Jean Étienne (1715-1786), French physician and naturalist. (*Guett.*).
+Guettard, Jean Étienne (1715-1786), French physician and naturalist. 
+**Abbreviated name**: *Guett.*
 
 #### Herbarium and types
 

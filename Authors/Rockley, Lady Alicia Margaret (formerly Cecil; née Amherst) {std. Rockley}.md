@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/item/103624#page/840/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33190297) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rockley, Lady Alicia Margaret (formerly Cecil; née Amherst), (1865-1941), British (English) popular botanical author; collected in Mozambique (1899), Rhodesia (1900), Ceylon, Australia, New Zealand, Canada (1927); married (1898) Sir Evelyn Cecil (later Baron Rockley). (*Rockley*).
+Rockley, Lady Alicia Margaret (formerly Cecil; née Amherst), (1865-1941), British (English) popular botanical author; collected in Mozambique (1899), Rhodesia (1900), Ceylon, Australia, New Zealand, Canada (1927); married (1898) Sir Evelyn Cecil (later Baron Rockley). 
+**Abbreviated name**: *Rockley*
 
 #### Herbarium and types
 

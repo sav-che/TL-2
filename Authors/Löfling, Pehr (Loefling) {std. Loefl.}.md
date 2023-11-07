@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/item/104137#page/154/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33355225) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Löfling, Pehr (Loefling) (1729-1756), Swedish botanist and explorer; to Spain 1751; from 1754-1756 in northern S. America; "Linnaei bästa discipel." (*Loefl.*).
+Löfling, Pehr (Loefling) (1729-1756), Swedish botanist and explorer; to Spain 1751; from 1754-1756 in northern S. America; "Linnaei bästa discipel." 
+**Abbreviated name**: *Loefl.*
 
 #### Herbarium and types
 

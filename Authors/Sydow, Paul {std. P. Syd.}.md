@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/item/103683#page/142/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33212174) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sydow, Paul (1851-1925), German (Pommeranian) botanist (cryptogamist), bibliographer and schoolmaster at Berlin. (*P. Syd.*).
+Sydow, Paul (1851-1925), German (Pommeranian) botanist (cryptogamist), bibliographer and schoolmaster at Berlin. 
+**Abbreviated name**: *P. Syd.*
 
 #### Herbarium and types
 

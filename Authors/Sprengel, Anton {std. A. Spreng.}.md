@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/item/104077#page/818/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33333943) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sprengel, Anton (1803-1851), German (Prussian-Saxony) botanist; Dr. phil. Halle 1825; habil. ib. 1828; lecturer at the University of Halle from 1829; ultimately volunteer in the Schleswig-Holstein war of 1851; son of K.P.J. Sprengel. (*A. Spreng.*).
+Sprengel, Anton (1803-1851), German (Prussian-Saxony) botanist; Dr. phil. Halle 1825; habil. ib. 1828; lecturer at the University of Halle from 1829; ultimately volunteer in the Schleswig-Holstein war of 1851; son of K.P.J. Sprengel. 
+**Abbreviated name**: *A. Spreng.*
 
 #### Herbarium and types
 

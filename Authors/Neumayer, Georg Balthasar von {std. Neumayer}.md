@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 732](https://www.biodiversitylibrary.org/item/104137#page/748/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 732](https://www.biodiversitylibrary.org/page/33355819) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Neumayer, Georg Balthasar von (1862-1909), German naturalist; director of the Hamburg naval observatory 1876-1903. (*Neumayer*).
+Neumayer, Georg Balthasar von (1862-1909), German naturalist; director of the Hamburg naval observatory 1876-1903. 
+**Abbreviated name**: *Neumayer*
 
 #### Herbarium and types
 

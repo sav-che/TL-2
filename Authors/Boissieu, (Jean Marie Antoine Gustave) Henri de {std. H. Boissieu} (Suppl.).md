@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/item/103859#page/292/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265479) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Boissieu, Henri de {std. H. Boissieu}|first entry]] for this author
 
 ### Author
 
-\* Boissieu, \[Jean Marie Antoine Gustave\] Henri de (1871-1912), French botanist, born at the Château de Varambon, Dépt. Ain, of private means, studied at the University of Lyon, licencié-ès-lettres, turned mainly to botany, worked often at the Muséum d'Histoire naturelle with Bureau and Franchet, botanical explorer of S.E. France, travelled in Greece and western Asia, worked on the flora of China, Japan and Korea, died on a botanical field trip in the Jura. (*H. Boissieu*).
+\* Boissieu, \[Jean Marie Antoine Gustave\] Henri de (1871-1912), French botanist, born at the Château de Varambon, Dépt. Ain, of private means, studied at the University of Lyon, licencié-ès-lettres, turned mainly to botany, worked often at the Muséum d'Histoire naturelle with Bureau and Franchet, botanical explorer of S.E. France, travelled in Greece and western Asia, worked on the flora of China, Japan and Korea, died on a botanical field trip in the Jura. 
+**Abbreviated name**: *H. Boissieu*
 
 #### Herbarium and types
 

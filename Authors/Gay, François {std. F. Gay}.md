@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/item/103414#page/974/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33121057) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Gay, (Henri Félix) François {std. F. Gay} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Gay, François (1857-1898), French algologist at Montpellier, pupil of Édouard Bornet. (*F. Gay*).
+Gay, François (1857-1898), French algologist at Montpellier, pupil of Édouard Bornet. 
+**Abbreviated name**: *F. Gay*
 
 #### Herbarium and types
 

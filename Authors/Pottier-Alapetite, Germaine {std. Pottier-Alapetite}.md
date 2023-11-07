@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/item/103624#page/379/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pottier-Alapetite, Germaine (1894-x), French botanist at the Institut des Hautes Études de Tunis. (*Pottier-Alapetite*).
+Pottier-Alapetite, Germaine (1894-x), French botanist at the Institut des Hautes Études de Tunis. 
+**Abbreviated name**: *Pottier-Alapetite*
 
 #### Herbarium and types
 

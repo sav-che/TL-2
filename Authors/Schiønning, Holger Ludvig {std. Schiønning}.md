@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/item/104077#page/196/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schiønning, Holger Ludvig (1868-1942), Danish mycologist; cand. chem. 1893; assistant at the Carlsberg Laboratory; specialist in the physiology of yeasts. (*Schiønning*).
+Schiønning, Holger Ludvig (1868-1942), Danish mycologist; cand. chem. 1893; assistant at the Carlsberg Laboratory; specialist in the physiology of yeasts. 
+**Abbreviated name**: *Schiønning*
 
 #### Herbarium and types
 

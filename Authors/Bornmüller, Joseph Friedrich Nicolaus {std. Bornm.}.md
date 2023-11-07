@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/item/103414#page/331/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33120414) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Bornmüller, Joseph (Friedrich Nicolaus) {std. Bornm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Bornmüller, Joseph Friedrich Nicolaus (1862-1948), German botanical explorer of the Orient, curator of the Haussknecht herbarium at Weimar. (*Bornm.*).
+Bornmüller, Joseph Friedrich Nicolaus (1862-1948), German botanical explorer of the Orient, curator of the Haussknecht herbarium at Weimar. 
+**Abbreviated name**: *Bornm.*
 
 #### Herbarium and types
 

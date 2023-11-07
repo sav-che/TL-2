@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/item/104137#page/212/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33355283) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lundmark, Johan Daniel (1755-1792). Swedish physician and botanist; studied at Uppsala 1774-1780; Dr. med. Uppsala 1788; regional physician of Filipstads district (1783) 1784. (*Lundmark*).
+Lundmark, Johan Daniel (1755-1792). Swedish physician and botanist; studied at Uppsala 1774-1780; Dr. med. Uppsala 1788; regional physician of Filipstads district (1783) 1784. 
+**Abbreviated name**: *Lundmark*
 
 #### Herbarium and types
 

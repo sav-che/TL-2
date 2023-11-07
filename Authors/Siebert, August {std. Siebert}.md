@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/item/104077#page/598/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33333723) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Siebert, August (1854-1923), German (Pommeranian) botanist and gardener; with commercial garden firms at Erfurt and Wandsbeck-Hamburg; Obergärtner, subsequently director of the "Palmengarten" in Frankfurt a. Main 1886-1923. (*Siebert*).
+Siebert, August (1854-1923), German (Pommeranian) botanist and gardener; with commercial garden firms at Erfurt and Wandsbeck-Hamburg; Obergärtner, subsequently director of the "Palmengarten" in Frankfurt a. Main 1886-1923. 
+**Abbreviated name**: *Siebert*
 
 #### Herbarium and types
 

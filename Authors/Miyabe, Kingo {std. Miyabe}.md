@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/item/104137#page/543/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33355614) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Miyabe, Kingo (1860-1951), Japanese botanist; D. Sc. Harvard 1889; at Hokkaido University, Sapporo and Tokyo, director of the Botanic garden of the Faculty of Agriculture 1884-1927. (*Miyabe*).
+Miyabe, Kingo (1860-1951), Japanese botanist; D. Sc. Harvard 1889; at Hokkaido University, Sapporo and Tokyo, director of the Botanic garden of the Faculty of Agriculture 1884-1927. 
+**Abbreviated name**: *Miyabe*
 
 #### Herbarium and types
 

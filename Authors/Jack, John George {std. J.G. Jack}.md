@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103253#page/421/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33068637) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jack, John George (1861-1949), American, largely self-taught, dendrologist; from 1891-1935 at the Arnold Arboretum; ultimately associate professor of dendrology. (*J. G. Jack*).
+Jack, John George (1861-1949), American, largely self-taught, dendrologist; from 1891-1935 at the Arnold Arboretum; ultimately associate professor of dendrology. 
+**Abbreviated name**: *J. G. Jack*
 
 #### Herbarium and types
 

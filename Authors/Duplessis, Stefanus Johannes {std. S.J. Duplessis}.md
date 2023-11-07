@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/item/103835#page/185/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33260163) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Duplessis, Stefanus Johannes (1908-x), South African plant pathologist, born 3 Nov 1908, Hofmeyr, Cape Province, educated at Stellenbosch University, B.Sc. agriculture 1929, M.Sc. 1931, D.Sc. 1935, research officer Stellenbosch-Elsenburg Agricultural College 1929-1943, senior lecturer in plant pathology 1944-1946, professor plant pathology and microbiology Stellenbosch 1946-1953, dept. of agriculture Pretoria 1953-1958, asst. director 1958-1962, director 1962-1966, advisor agric. policy to the minister 1968-1974. (*S.J. Duplessis*).
+Duplessis, Stefanus Johannes (1908-x), South African plant pathologist, born 3 Nov 1908, Hofmeyr, Cape Province, educated at Stellenbosch University, B.Sc. agriculture 1929, M.Sc. 1931, D.Sc. 1935, research officer Stellenbosch-Elsenburg Agricultural College 1929-1943, senior lecturer in plant pathology 1944-1946, professor plant pathology and microbiology Stellenbosch 1946-1953, dept. of agriculture Pretoria 1953-1958, asst. director 1958-1962, director 1962-1966, advisor agric. policy to the minister 1968-1974. 
+**Abbreviated name**: *S.J. Duplessis*
 
 #### Herbarium and types
 

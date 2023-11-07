@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/item/104077#page/158/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33333283) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Scheutz, Nils Johan Wilhelm (1836-1889), Swedish botanist; Dr. phil. Uppsala 1857; high school teacher at Västervik (1859) and Växjö (1862); lecturer in natural history and Latin Växjö 1872; especially interested in rhodology and bryology. (*Scheutz*).
+Scheutz, Nils Johan Wilhelm (1836-1889), Swedish botanist; Dr. phil. Uppsala 1857; high school teacher at Västervik (1859) and Växjö (1862); lecturer in natural history and Latin Växjö 1872; especially interested in rhodology and bryology. 
+**Abbreviated name**: *Scheutz*
 
 #### Herbarium and types
 

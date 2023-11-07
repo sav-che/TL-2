@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/item/103833#page/303/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dickson, James Hill (c. 1795-1867), British nurseryman, head of the firm of James Dickson & Sons and of the Newton nurseries, Chester (Cheshire), died 28 Dec 1876. (*J. Hill Dicks.*).
+Dickson, James Hill (c. 1795-1867), British nurseryman, head of the firm of James Dickson & Sons and of the Newton nurseries, Chester (Cheshire), died 28 Dec 1876. 
+**Abbreviated name**: *J. Hill Dicks.*
 
 #### Herbarium and types
 

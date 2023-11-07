@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/item/103835#page/162/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33260140) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dugas, Marguerite (fl. 1928), French botanist at Paris, Docteur ès sciences naturelles 1928 at the faculty of sciences of the University of Paris. (*Dugas*).
+Dugas, Marguerite (fl. 1928), French botanist at Paris, Docteur ès sciences naturelles 1928 at the faculty of sciences of the University of Paris. 
+**Abbreviated name**: *Dugas*
 
 #### Herbarium and types
 

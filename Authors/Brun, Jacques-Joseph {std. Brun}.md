@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/item/103414#page/429/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33120512) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Brun, Jacques-Joseph {std. Brun} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Brun, Jacques-Joseph (1826-1908), Swiss diatomist at Genève. (*Brun*).
+Brun, Jacques-Joseph (1826-1908), Swiss diatomist at Genève. 
+**Abbreviated name**: *Brun*
 
 #### Herbarium and types
 

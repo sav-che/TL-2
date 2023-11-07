@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103624#page/224/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33189681) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petrovic, Sava (1839-1889), Serbian botanist; educated at Belgrad and Paris (Faculté de médecine), M.D. 1868; physician to King Milan 1873; "Sanitätsoberst" (military physician) at Belgrad. (*Petrovic*).
+Petrovic, Sava (1839-1889), Serbian botanist; educated at Belgrad and Paris (Faculté de médecine), M.D. 1868; physician to King Milan 1873; "Sanitätsoberst" (military physician) at Belgrad. 
+**Abbreviated name**: *Petrovic*
 
 #### Herbarium and types
 

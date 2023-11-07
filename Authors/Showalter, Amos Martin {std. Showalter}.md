@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/item/104077#page/584/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33333709) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Showalter, Amos Martin (1891-1968), American cytologist, geneticist and hepaticologist; Dr. phil. Univ. Wisconsin 1922; assistant for botany, Univ. Wisconsin 1919-1922; exchange fellow Relief Belgium Educ. Found. 1922-1924; Natl. Res. Council Fellow 1924-1927; assistant professor of botany Washington University, St. Louis 1928-1930; associate professor of biology, Bridgewater College, Va., 1931, regular professor 1932; at Harrisburg State Teachers College (Madison College) 1934-1960. (*Showalter*).
+Showalter, Amos Martin (1891-1968), American cytologist, geneticist and hepaticologist; Dr. phil. Univ. Wisconsin 1922; assistant for botany, Univ. Wisconsin 1919-1922; exchange fellow Relief Belgium Educ. Found. 1922-1924; Natl. Res. Council Fellow 1924-1927; assistant professor of botany Washington University, St. Louis 1928-1930; associate professor of biology, Bridgewater College, Va., 1931, regular professor 1932; at Harrisburg State Teachers College (Madison College) 1934-1960. 
+**Abbreviated name**: *Showalter*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/item/103414#page/476/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33120559) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Camisola, Giuseppe (1781-1856), Italian physician and botanist at S. Damiano d'Asti. (*Camisola*).
+Camisola, Giuseppe (1781-1856), Italian physician and botanist at S. Damiano d'Asti. 
+**Abbreviated name**: *Camisola*
 
 #### Herbarium and types
 

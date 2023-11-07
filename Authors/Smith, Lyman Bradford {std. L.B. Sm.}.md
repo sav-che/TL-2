@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/item/104077#page/715/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33333840) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Smith, Lyman Bradford (1904-x), American botanist; Dr. phil. Harvard 1930; scientist Gray Herbarium, Harvard University 1931-1947; from 1947-1956 botanist at the Smithsonian Institution; curator of phanerogams 1956-1966, senior botanist 1966-x; on expeditions to Gaspe, Canada 1923, Cuba 1936, Brazil 1928, 1952, 1956, 1964, Argentina 1948; specialist on Bromeliaceae. (*L.B. Sm.*).
+Smith, Lyman Bradford (1904-x), American botanist; Dr. phil. Harvard 1930; scientist Gray Herbarium, Harvard University 1931-1947; from 1947-1956 botanist at the Smithsonian Institution; curator of phanerogams 1956-1966, senior botanist 1966-x; on expeditions to Gaspe, Canada 1923, Cuba 1936, Brazil 1928, 1952, 1956, 1964, Argentina 1948; specialist on Bromeliaceae. 
+**Abbreviated name**: *L.B. Sm.*
 
 #### Herbarium and types
 

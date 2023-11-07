@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/item/104077#page/609/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Sieurin, Johan Magnus (1813-1846), Swedish botanist and physician; Dr. phil. Uppsala (under E. Fries) 1836; med. lic. ibid. 1844; assistant for natural history and librarian at the Karolinska Inst., Stockholm 1840-1845; ships physician on the Carlskrona 1845; drowned off Cape Matanzas, Cuba. (*Sieurin*).
+Sieurin, Johan Magnus (1813-1846), Swedish botanist and physician; Dr. phil. Uppsala (under E. Fries) 1836; med. lic. ibid. 1844; assistant for natural history and librarian at the Karolinska Inst., Stockholm 1840-1845; ships physician on the Carlskrona 1845; drowned off Cape Matanzas, Cuba. 
+**Abbreviated name**: *Sieurin*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/item/103253#page/126/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Haub, Peter Ferdinand (1804-1867), German high school teacher; from 1833 at the Konitz (Marienwerder) Gymnasium. (*Haub*).
+Haub, Peter Ferdinand (1804-1867), German high school teacher; from 1833 at the Konitz (Marienwerder) Gymnasium. 
+**Abbreviated name**: *Haub*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/104077#page/186/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33333311) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schindler, Anton Karl (1879-1964), German (Bremen) botanist; studied in Göttingen, Strassburg, Halle; Dr. phil. Erlangen 1904; professor of natural sciences at the University of Peking 1905-1907, idem Shanghai 1907-1910; high school teacher at Magdeburg and Posen 1910-1916; on active service 1916-1918; teacher in Jüterbog 1918-1925; studied dentistry 1925-1929; practiced in Grossalmerode nr. Kassel 1929-1932; in Döberitz nr. Berlin 1932-1956; fled to Düsseldorf 1956. (*Schiudl.*).
+Schindler, Anton Karl (1879-1964), German (Bremen) botanist; studied in Göttingen, Strassburg, Halle; Dr. phil. Erlangen 1904; professor of natural sciences at the University of Peking 1905-1907, idem Shanghai 1907-1910; high school teacher at Magdeburg and Posen 1910-1916; on active service 1916-1918; teacher in Jüterbog 1918-1925; studied dentistry 1925-1929; practiced in Grossalmerode nr. Kassel 1929-1932; in Döberitz nr. Berlin 1932-1956; fled to Düsseldorf 1956. 
+**Abbreviated name**: *Schiudl.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/item/103834#page/247/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33259729) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fiske, Jessie Gladys (1895-1966), American botanist, born 29 Mar 1895 in Brookfield, Vermont, Ph.B. 1917 Univ. of Vermont, seed analyst Rutgers Agricultural Experiment Station, New Jersey 1917-1951, M.Sc. 1920 College of Agriculture (now Cook College at Rutgers Univ.), New Brunswick, New Jersey (under plant physiologist J.W. Shive), State Seed Analyst ca. 1920-1949, lecturer in Botany 1918-1960, Chair of Botanical and Zoological Depts. (later combined as Biological Sciences Dept.) 1942-ca. 1960, at the New Jersey College for Women (now Douglass College, Rutgers Univ.), Dr. h.c. 1958 State Univ. of New Jersey (Rutgers Univ.), retired to Brookfield, Vermont where she died 15 Nov 1966. (*J.G. Fiske*).
+Fiske, Jessie Gladys (1895-1966), American botanist, born 29 Mar 1895 in Brookfield, Vermont, Ph.B. 1917 Univ. of Vermont, seed analyst Rutgers Agricultural Experiment Station, New Jersey 1917-1951, M.Sc. 1920 College of Agriculture (now Cook College at Rutgers Univ.), New Brunswick, New Jersey (under plant physiologist J.W. Shive), State Seed Analyst ca. 1920-1949, lecturer in Botany 1918-1960, Chair of Botanical and Zoological Depts. (later combined as Biological Sciences Dept.) 1942-ca. 1960, at the New Jersey College for Women (now Douglass College, Rutgers Univ.), Dr. h.c. 1958 State Univ. of New Jersey (Rutgers Univ.), retired to Brookfield, Vermont where she died 15 Nov 1966. 
+**Abbreviated name**: *J.G. Fiske*
 
 #### Herbarium and types
 

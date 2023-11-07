@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/item/103250#page/114/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33066394) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walton, Elijah (1832-1880), British artist, specialized in landscape and mountain painting. (*E. Walton*).
+Walton, Elijah (1832-1880), British artist, specialized in landscape and mountain painting. 
+**Abbreviated name**: *E. Walton*
 
 #### Herbarium and types
 

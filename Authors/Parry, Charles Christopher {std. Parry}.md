@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/item/103624#page/93/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33189550) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Parry, Charles Christopher (1823-1890), English-born American botanist and explorer; to the United States 1832; Dr. med Columbia 1846; with the Mexican Boundary Survey 1849-1861; exploring the Rocky Mountains 1861-1867; with the Pacific Railroad Survey 1867-1869; with the U.S. Dept. of Agriculture 1869-1872; from then on free-lance explorer in Utah, Nevada, California and Mexico; "king of Colorado Botany" (J.D. Hooker). (*Parry*).
+Parry, Charles Christopher (1823-1890), English-born American botanist and explorer; to the United States 1832; Dr. med Columbia 1846; with the Mexican Boundary Survey 1849-1861; exploring the Rocky Mountains 1861-1867; with the Pacific Railroad Survey 1867-1869; with the U.S. Dept. of Agriculture 1869-1872; from then on free-lance explorer in Utah, Nevada, California and Mexico; "king of Colorado Botany" (J.D. Hooker). 
+**Abbreviated name**: *Parry*
 
 #### Herbarium and types
 

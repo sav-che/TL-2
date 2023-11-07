@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/item/103624#page/1019/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Russell, Paul George (1889-1963), American botanist; with the U.S. Department of Agriculture at Beltsville, MD. (*P.G. Russell*).
+Russell, Paul George (1889-1963), American botanist; with the U.S. Department of Agriculture at Beltsville, MD. 
+**Abbreviated name**: *P.G. Russell*
 
 #### Herbarium and types
 

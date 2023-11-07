@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/item/103250#page/513/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33066793) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wooton, Elmer Ottis (1865-1945), American botanist; studied at Earlham College, B.S. 1889, A.M. 1896; in charge of botany New Mexico State College 1890-1896; studied at Columbia University and the New York Botanical Garden 1896-1898; professor of botany Agricultural College and Experiment Station, New Mexico 1898-1900, of biology 1900-1911; in various functions with USDA 1911-1935; in retirement at Arlington, Va. (*Woot.*).
+Wooton, Elmer Ottis (1865-1945), American botanist; studied at Earlham College, B.S. 1889, A.M. 1896; in charge of botany New Mexico State College 1890-1896; studied at Columbia University and the New York Botanical Garden 1896-1898; professor of botany Agricultural College and Experiment Station, New Mexico 1898-1900, of biology 1900-1911; in various functions with USDA 1911-1935; in retirement at Arlington, Va. 
+**Abbreviated name**: *Woot.*
 
 #### Herbarium and types
 

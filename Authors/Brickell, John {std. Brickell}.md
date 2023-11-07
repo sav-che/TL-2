@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/item/103414#page/371/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33120454) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Brickell, John (1748-1809), Irish born botanist and physician who settled in Georgia (1779). (*Brickell*).
+Brickell, John (1748-1809), Irish born botanist and physician who settled in Georgia (1779). 
+**Abbreviated name**: *Brickell*
 
 #### Herbarium and types
 

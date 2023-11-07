@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/item/104077#page/289/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33333414) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schneider, \[Karl Friedrich\] Robert (1798-1872), German (Silezian) high school teacher, botanist and geographer; studied natural sciences at Breslau Univ., travelled with H. v. Schubert 1824; teacher at Weissenfells until 1828; from then on at Bunzlau (Bezirk Liegnitz). (*Rob. Schneid.*).
+Schneider, \[Karl Friedrich\] Robert (1798-1872), German (Silezian) high school teacher, botanist and geographer; studied natural sciences at Breslau Univ., travelled with H. v. Schubert 1824; teacher at Weissenfells until 1828; from then on at Bunzlau (Bezirk Liegnitz). 
+**Abbreviated name**: *Rob. Schneid.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103858#page/407/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33265122) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bayer, Adolf Joseph Wilhelm (1900-1978), South-African botanist, educated at Durban Boys High School 1913-1918, at University College 1919-1924, M.Sc. 1924, lecturer in botany, Natal University College 1925, professor of botany, University of Natal 1939-1967. (*Ad. Bayer*).
+Bayer, Adolf Joseph Wilhelm (1900-1978), South-African botanist, educated at Durban Boys High School 1913-1918, at University College 1919-1924, M.Sc. 1924, lecturer in botany, Natal University College 1925, professor of botany, University of Natal 1939-1967. 
+**Abbreviated name**: *Ad. Bayer*
 
 #### Herbarium and types
 

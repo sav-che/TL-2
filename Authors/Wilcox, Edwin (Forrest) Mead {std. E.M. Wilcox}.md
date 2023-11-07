@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/item/103250#page/348/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33066628) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilcox, Edwin \[Forrest\] Mead (1876-1931), American agricultural botanist and plant pathologist; B.S. Ohio State 1896; Dr. phil. Harvard 1899; assistant in botany Ohio State 1894-1897; fellow Harvard 1899-1900; in Buitenzorg (Bogor), Indonesia 1900; professor of botany and entomology, Oklahoma Agr. Mech. College 1900-1901; biologist and horticulturist Alabama Polytechnic Inst., Auburn 1901-1904; professor of botany Alabama Experiment Station 1904-1908; professor of agricultural botany Nebraska Exp. Sta. and State botanist 1908-1920; director Santo Domingo Exp. Sta. 1920-1921; professor of biology Transylvania College 1924-1926; assistant John Crerar Library 1924-1926; director Agronomical Station and College of Agriculture Haina, East Lansing, Mich. from 1927. (*E.M. Wilcox*).
+Wilcox, Edwin \[Forrest\] Mead (1876-1931), American agricultural botanist and plant pathologist; B.S. Ohio State 1896; Dr. phil. Harvard 1899; assistant in botany Ohio State 1894-1897; fellow Harvard 1899-1900; in Buitenzorg (Bogor), Indonesia 1900; professor of botany and entomology, Oklahoma Agr. Mech. College 1900-1901; biologist and horticulturist Alabama Polytechnic Inst., Auburn 1901-1904; professor of botany Alabama Experiment Station 1904-1908; professor of agricultural botany Nebraska Exp. Sta. and State botanist 1908-1920; director Santo Domingo Exp. Sta. 1920-1921; professor of biology Transylvania College 1924-1926; assistant John Crerar Library 1924-1926; director Agronomical Station and College of Agriculture Haina, East Lansing, Mich. from 1927. 
+**Abbreviated name**: *E.M. Wilcox*
 
 #### Herbarium and types
 

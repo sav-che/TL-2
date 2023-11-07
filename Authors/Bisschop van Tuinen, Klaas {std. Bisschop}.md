@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/item/103859#page/187/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33265374) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bisschop van Tuinen, Klaas (1840-1905), Dutch (Frisian) highschool teacher, entomologist and botanist, studied at a teacher's college in Amsterdam 1870-1871, teacher at the secondary school at Zwolle 1871-1905 and from 1879-1905 concurrently biology teacher at the Zwolle "Gymnasium". (*Bisschop*).
+Bisschop van Tuinen, Klaas (1840-1905), Dutch (Frisian) highschool teacher, entomologist and botanist, studied at a teacher's college in Amsterdam 1870-1871, teacher at the secondary school at Zwolle 1871-1905 and from 1879-1905 concurrently biology teacher at the Zwolle "Gymnasium". 
+**Abbreviated name**: *Bisschop*
 
 #### Herbarium and types
 

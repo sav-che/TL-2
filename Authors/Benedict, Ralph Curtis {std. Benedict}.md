@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/item/103859#page/79/mode/1up) of TL-2 Suppl. II.
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265266) of TL-2 Suppl. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Benedict, Ralph Curtis (1883-1965), American botanist (pteridologist), studied at Syracuse University, Ph. D. ib. 1906, id. Colombia University 1911, student and aid at the New York Botanical Garden 1906-1908, assistant curator 1909, research scholar 1910-1911, lecturer in botany Fordham University Medical School 1910, instructor in botany at N.Y. University School of Applied Science 1911, taught in New York City High Schools 1912-1931, chairman Biology Department Stuyvesant High School 1919-1928, id. Haarem High 1928-1931, instructor in botany 1931-1938, one of the organizers of the American fern Society. (*Benedict*).
+Benedict, Ralph Curtis (1883-1965), American botanist (pteridologist), studied at Syracuse University, Ph. D. ib. 1906, id. Colombia University 1911, student and aid at the New York Botanical Garden 1906-1908, assistant curator 1909, research scholar 1910-1911, lecturer in botany Fordham University Medical School 1910, instructor in botany at N.Y. University School of Applied Science 1911, taught in New York City High Schools 1912-1931, chairman Biology Department Stuyvesant High School 1919-1928, id. Haarem High 1928-1931, instructor in botany 1931-1938, one of the organizers of the American fern Society. 
+**Abbreviated name**: *Benedict*
 
 #### Herbarium and types
 

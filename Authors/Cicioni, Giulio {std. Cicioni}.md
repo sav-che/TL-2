@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/item/103860#page/182/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265849) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Cicioni, Giulio (fl. 1910), Italian clergyman, botanist and taxonomist, professor and abbot, at seminary of Perugia. (*Cicioni*).
+Cicioni, Giulio (fl. 1910), Italian clergyman, botanist and taxonomist, professor and abbot, at seminary of Perugia. 
+**Abbreviated name**: *Cicioni*
 
 #### Herbarium and types
 

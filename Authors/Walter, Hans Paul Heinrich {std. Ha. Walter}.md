@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103250#page/109/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33066389) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walter, Hans Paul Heinrich (1882-x), German (Prussian) botanist; studied at Halle 1902-1904, Freiburg i.Br. 1904, Halle 1904-1906; Dr. phil. Erlangen 1906; collaborator of A. Engler 1906-1909. (*Ha. Walter*).
+Walter, Hans Paul Heinrich (1882-x), German (Prussian) botanist; studied at Halle 1902-1904, Freiburg i.Br. 1904, Halle 1904-1906; Dr. phil. Erlangen 1906; collaborator of A. Engler 1906-1909. 
+**Abbreviated name**: *Ha. Walter*
 
 #### Herbarium and types
 

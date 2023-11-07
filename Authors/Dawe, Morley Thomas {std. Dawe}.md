@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/item/103833#page/123/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33259157) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dawe, Morley Thomas (1880-1943), British gardener, agricultural director or advisor, botanical collector, born at Sticklepath, Devon, Kew Gardener 1900, assistant botany at Forestry and Scientific Departement at Uganda 1902, head of dept. 1903-1910, director Botanic gardens Entebbe, director of agriculture in Mozambique 1910-1914, advisor idem in Gambia 1920, later Angola, in Sierra Leone 1922, director of agriculture at Cyprus 1928. (*Dawe*).
+Dawe, Morley Thomas (1880-1943), British gardener, agricultural director or advisor, botanical collector, born at Sticklepath, Devon, Kew Gardener 1900, assistant botany at Forestry and Scientific Departement at Uganda 1902, head of dept. 1903-1910, director Botanic gardens Entebbe, director of agriculture in Mozambique 1910-1914, advisor idem in Gambia 1920, later Angola, in Sierra Leone 1922, director of agriculture at Cyprus 1928. 
+**Abbreviated name**: *Dawe*
 
 #### Herbarium and types
 

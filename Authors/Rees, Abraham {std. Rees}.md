@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/item/103624#page/644/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 630](https://www.biodiversitylibrary.org/page/33190101) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rees, Abraham (1763-1825), British encyclopaedist; student and subsequently tutor at the Hoxton Academy for \[protestant\] Dissenting Ministers near London; from 1768 pastor of the Presbyterian congregation, Southwark, from 1783 minister in London (congregation of Jewin Street). (*Rees*).
+Rees, Abraham (1763-1825), British encyclopaedist; student and subsequently tutor at the Hoxton Academy for \[protestant\] Dissenting Ministers near London; from 1768 pastor of the Presbyterian congregation, Southwark, from 1783 minister in London (congregation of Jewin Street). 
+**Abbreviated name**: *Rees*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/item/103860#page/445/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33266112) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Coward, Katherine Hope (1885-?), British botanist and palaeobotanist, Platt Exhibitioner of the University of Manchester, B.Sc. Univ. Manchester 1906. (*K.H. Coward*).
+Coward, Katherine Hope (1885-?), British botanist and palaeobotanist, Platt Exhibitioner of the University of Manchester, B.Sc. Univ. Manchester 1906. 
+**Abbreviated name**: *K.H. Coward*
 
 #### Herbarium and types
 

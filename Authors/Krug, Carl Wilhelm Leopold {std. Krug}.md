@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/item/103253#page/706/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krug, Carl Wilhelm Leopold (1833-1898), German botanist, businessman and consular official; in Puerto Rico 1857-1876; later working with I. Urban on a flora of the West Indies. (*Krug*).
+Krug, Carl Wilhelm Leopold (1833-1898), German botanist, businessman and consular official; in Puerto Rico 1857-1876; later working with I. Urban on a flora of the West Indies. 
+**Abbreviated name**: *Krug*
 
 #### Herbarium and types
 

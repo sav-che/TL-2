@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/item/103683#page/105/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33212137) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Suringar, Gerard Conrad Bernard (1802-1874), German (Lingen/Hannover)-born Dutch physician; Dr. med. Leiden 1824; studied in Gent, Liège, Paris and Berlin 1824-1826; Dr. chirurg. Leiden 1826; practicing physician at Leiden 1826-1830; professor of anatomy at the Athenaeum, Amsterdam 1830-1831 (from 1831-1843 honorary) professor of medicine at the Clinical School Amsterdam 1831-1843; professor of medicine Leiden 1843-1872. (*G. Suringar*).
+Suringar, Gerard Conrad Bernard (1802-1874), German (Lingen/Hannover)-born Dutch physician; Dr. med. Leiden 1824; studied in Gent, Liège, Paris and Berlin 1824-1826; Dr. chirurg. Leiden 1826; practicing physician at Leiden 1826-1830; professor of anatomy at the Athenaeum, Amsterdam 1830-1831 (from 1831-1843 honorary) professor of medicine at the Clinical School Amsterdam 1831-1843; professor of medicine Leiden 1843-1872. 
+**Abbreviated name**: *G. Suringar*
 
 #### Herbarium and types
 

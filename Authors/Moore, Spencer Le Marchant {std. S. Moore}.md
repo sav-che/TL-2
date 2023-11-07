@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/item/104137#page/586/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33355657) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Moore, Spencer Le Marchant (1850-1931), British botanist and explorer; B. Sc. London 1872; at Kew 1872-1879; to Matto Grosso 1891-1892; to Western Australia 1894-1896; from 1898 connected with BMNH. (*S. Moore*).
+Moore, Spencer Le Marchant (1850-1931), British botanist and explorer; B. Sc. London 1872; at Kew 1872-1879; to Matto Grosso 1891-1892; to Western Australia 1894-1896; from 1898 connected with BMNH. 
+**Abbreviated name**: *S. Moore*
 
 #### Herbarium and types
 

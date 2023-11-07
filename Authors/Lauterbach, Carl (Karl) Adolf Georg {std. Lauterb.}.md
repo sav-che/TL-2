@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/item/103253#page/794/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/page/33069010) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lauterbach, Carl (Karl) Adolf Georg (1864-1937), German botanist and explorer; director of the Neu-Guinea Compagnie; characteristic "Privatgelehrter" of independent means, who built up a rich botanical collection and library on his estate Stabelwitz near Breslau. (*Lauterb.*).
+Lauterbach, Carl (Karl) Adolf Georg (1864-1937), German botanist and explorer; director of the Neu-Guinea Compagnie; characteristic "Privatgelehrter" of independent means, who built up a rich botanical collection and library on his estate Stabelwitz near Breslau. 
+**Abbreviated name**: *Lauterb.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/item/103253#page/427/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Jacobovics, Anton (*fl*. 1835), Hungarian botanist; Dr. med. Pest 1835. (*Jacobov.*).
+Jacobovics, Anton (*fl*. 1835), Hungarian botanist; Dr. med. Pest 1835. 
+**Abbreviated name**: *Jacobov.*
 
 #### Herbarium and types
 

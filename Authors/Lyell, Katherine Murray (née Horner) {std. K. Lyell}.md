@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/item/104137#page/216/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33355287) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lyell, Katherine Murray (née Horner) (1817-1915), British pteridologist; sister-in-law of Sir Charles Lyell (1797-1875). (*K. Lyell*).
+Lyell, Katherine Murray (née Horner) (1817-1915), British pteridologist; sister-in-law of Sir Charles Lyell (1797-1875). 
+**Abbreviated name**: *K. Lyell*
 
 #### Herbarium and types
 

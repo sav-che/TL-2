@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/item/103414#page/1049/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33121132) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Greville, Robert Kaye {std. Grev.} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Greville, Robert Kaye (1794-1866), British botanist at Edinburgh. (*Grev.*).
+Greville, Robert Kaye (1794-1866), British botanist at Edinburgh. 
+**Abbreviated name**: *Grev.*
 
 #### Herbarium and types
 

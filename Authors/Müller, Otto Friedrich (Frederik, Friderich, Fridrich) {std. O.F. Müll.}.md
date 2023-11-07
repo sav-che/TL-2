@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/item/104137#page/666/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33355737) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Müller, Otto Friedrich \[Frederik, Friderich, Fridrich\] (1730-1784), Danish botanist, zoologist, theologian and linguist; cand. jur. Copenhagen 1760; private tutor to Sigismund Schulin at Frederiksdal; from 1771-1773 secretary to the Danish ministry for Norway; from 1773 financially independent by marriage and devoting himself exclusively to science; one of the editors of *Flora danica*.(*O. F. Müll.*).
+Müller, Otto Friedrich \[Frederik, Friderich, Fridrich\] (1730-1784), Danish botanist, zoologist, theologian and linguist; cand. jur. Copenhagen 1760; private tutor to Sigismund Schulin at Frederiksdal; from 1771-1773 secretary to the Danish ministry for Norway; from 1773 financially independent by marriage and devoting himself exclusively to science; one of the editors of *Flora danica*.
+**Abbreviated name**: *O. F. Müll.*
 
 #### Herbarium and types
 

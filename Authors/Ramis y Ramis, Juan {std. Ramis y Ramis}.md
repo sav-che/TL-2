@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/item/103624#page/586/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33190043) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Ramis y Ramis, Juan (1746-1819), Spanish (Balearic) botanist at Mahon, Minorca. (*Ramis y Ramis*).
+Ramis y Ramis, Juan (1746-1819), Spanish (Balearic) botanist at Mahon, Minorca. 
+**Abbreviated name**: *Ramis y Ramis*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/item/103624#page/184/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33189641) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Perrier de la Bâthie, Eugène Pierre \[baron\] de (1825-1916), French landowner, agronomist and botanist at Conflans (Albertville), Savoie; professor of agriculture at Albertville 1875-1900. (*E. Perrier*).
+Perrier de la Bâthie, Eugène Pierre \[baron\] de (1825-1916), French landowner, agronomist and botanist at Conflans (Albertville), Savoie; professor of agriculture at Albertville 1875-1900. 
+**Abbreviated name**: *E. Perrier*
 
 #### Herbarium and types
 

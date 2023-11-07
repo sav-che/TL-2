@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/item/103858#page/333/mode/1up) of TL-2 Suppl. I.
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Barbieri, Paolo (1789-1875), Italian botanist, curator of the botanical garden of Mantua, later id. in Pavia, professor of botany and agriculture at the Lyceum in Mantua. (*Barbieri*).
+Barbieri, Paolo (1789-1875), Italian botanist, curator of the botanical garden of Mantua, later id. in Pavia, professor of botany and agriculture at the Lyceum in Mantua. 
+**Abbreviated name**: *Barbieri*
 
 #### Herbarium and types
 

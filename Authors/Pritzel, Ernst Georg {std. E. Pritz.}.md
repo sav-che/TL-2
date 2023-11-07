@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/item/103624#page/423/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Pritzel, Ernst Georg (1875-1946), German botanist; with L. Diels in W. Australia 1900-1901. (*E. Pritz.*).
+Pritzel, Ernst Georg (1875-1946), German botanist; with L. Diels in W. Australia 1900-1901. 
+**Abbreviated name**: *E. Pritz.*
 
 #### Herbarium and types
 

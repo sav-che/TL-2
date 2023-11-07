@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/item/103414#page/74/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33120157) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Åkermark, Sophia (née Areschoug) (1817-1882), Swedish cryptogamist, sister of J. E. Areschoug. (*Åkermark*).
+Åkermark, Sophia (née Areschoug) (1817-1882), Swedish cryptogamist, sister of J. E. Areschoug. 
+**Abbreviated name**: *Åkermark*
 
 #### Herbarium and types
 

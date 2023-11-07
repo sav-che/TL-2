@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/item/103250#page/552/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33066832) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Young, Herbert Andrew (1857-1894), American civil engineer and botanist; ultimately officer of the Mexican Central Railway. (*H.A. Young*).
+Young, Herbert Andrew (1857-1894), American civil engineer and botanist; ultimately officer of the Mexican Central Railway. 
+**Abbreviated name**: *H.A. Young*
 
 #### Herbarium and types
 

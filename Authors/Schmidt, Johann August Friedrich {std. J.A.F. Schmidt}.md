@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/item/104077#page/270/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33333395) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmidt, Johann August Friedrich (*fl*. 1832), German (Thuringian) clergyman and popular writer on botany; dean in Ilmenau. (*J.A.F. Schmidt*).
+Schmidt, Johann August Friedrich (*fl*. 1832), German (Thuringian) clergyman and popular writer on botany; dean in Ilmenau. 
+**Abbreviated name**: *J.A.F. Schmidt*
 
 #### Herbarium and types
 

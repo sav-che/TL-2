@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/item/103253#page/692/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33068908) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krause, Ernst Ludwig (1839-1903), German botanist; popular writer on botany; used the pseudonym Carus Sterne. (*E. L. Krause*).
+Krause, Ernst Ludwig (1839-1903), German botanist; popular writer on botany; used the pseudonym Carus Sterne. 
+**Abbreviated name**: *E. L. Krause*
 
 #### Herbarium and types
 

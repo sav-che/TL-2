@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/item/103253#page/844/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33069060) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lehmann, August (*fl*. 1869), German botanist; high school teacher at Torgau (on Elbe, Saxonia). (*A. Lehm.*).
+Lehmann, August (*fl*. 1869), German botanist; high school teacher at Torgau (on Elbe, Saxonia). 
+**Abbreviated name**: *A. Lehm.*
 
 #### Herbarium and types
 

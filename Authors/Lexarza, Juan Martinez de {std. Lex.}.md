@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/item/103253#page/895/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33069111) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lexarza, Juan Martinez de (1785-1824), Mexican physician and botanist. (*Lex.*).
+Lexarza, Juan Martinez de (1785-1824), Mexican physician and botanist. 
+**Abbreviated name**: *Lex.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/item/103414#page/1016/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33121099) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Goldenberg, Carl Friedrich (1798-1881), German palaeobiologist at Saarbrücken. (*Goldenberg*).
+Goldenberg, Carl Friedrich (1798-1881), German palaeobiologist at Saarbrücken. 
+**Abbreviated name**: *Goldenberg*
 
 #### Collections
 

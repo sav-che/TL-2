@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/item/103250#page/375/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33066655) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Williams, Benjamin Samuel (1822-1890), English horticulturist (orchidologist); gardener's training with his father at The Woodlands, Hertfordshire owned by John Warner, some time in charge of the orchid collections at The Woodlands; nurseryman with R. Parker at Holloway 1854-1861; independent flower grower at Holloway from 1861 (Victoria and Paradise nurseries). (*B.S. Williams*).
+Williams, Benjamin Samuel (1822-1890), English horticulturist (orchidologist); gardener's training with his father at The Woodlands, Hertfordshire owned by John Warner, some time in charge of the orchid collections at The Woodlands; nurseryman with R. Parker at Holloway 1854-1861; independent flower grower at Holloway from 1861 (Victoria and Paradise nurseries). 
+**Abbreviated name**: *B.S. Williams*
 
 #### Herbarium and types
 

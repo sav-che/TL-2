@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/item/103834#page/417/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33259899) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fraude, Hermann (1882-x), German algologist, Ph.D. 1905 Univ. Greifswald, later published (1925) on fisheries. (*Fraude*).
+Fraude, Hermann (1882-x), German algologist, Ph.D. 1905 Univ. Greifswald, later published (1925) on fisheries. 
+**Abbreviated name**: *Fraude*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/item/104137#page/244/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33355315) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mac Leod, Julius (1857-1919), Belgian botanist; Dr. phil. Gent 1878; in various functions at the University of Gent. (*Mac Leod*).
+Mac Leod, Julius (1857-1919), Belgian botanist; Dr. phil. Gent 1878; in various functions at the University of Gent. 
+**Abbreviated name**: *Mac Leod*
 
 #### Herbarium and types
 

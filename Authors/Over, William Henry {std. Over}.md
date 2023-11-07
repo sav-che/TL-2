@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/item/104137#page/881/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33355952) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Over, William Henry (1866-?), American botanist; curator of the Museum of the University of South Dakota at Vermillion. (*Over*).
+Over, William Henry (1866-?), American botanist; curator of the Museum of the University of South Dakota at Vermillion. 
+**Abbreviated name**: *Over*
 
 #### Herbarium and types
 

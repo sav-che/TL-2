@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/item/103250#page/480/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33066760) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wolf, Frederick Adolph (1885-1975), American mycologist and plant pathologist; studied at the University of Nebraska 1903-1908, M.Sc. 1908; at the University of Texas 1909-1910; Dr. phil. Cornell Univ. with G.F. Atkinson; plant pathologist Alabama Agricultural Experiment Station, Auburn 1911-1915; plant pathologist at the Agricultural Experiment Station at North Carolina State College, Raleigh 1915-1925; plant pathologist USDA at Orlando, Florida 1925-1927; professor of botany Duke University, Durham, North Carolina 1927-1954; emeritus professor from 1954. (*F.A. Wolf*).
+Wolf, Frederick Adolph (1885-1975), American mycologist and plant pathologist; studied at the University of Nebraska 1903-1908, M.Sc. 1908; at the University of Texas 1909-1910; Dr. phil. Cornell Univ. with G.F. Atkinson; plant pathologist Alabama Agricultural Experiment Station, Auburn 1911-1915; plant pathologist at the Agricultural Experiment Station at North Carolina State College, Raleigh 1915-1925; plant pathologist USDA at Orlando, Florida 1925-1927; professor of botany Duke University, Durham, North Carolina 1927-1954; emeritus professor from 1954. 
+**Abbreviated name**: *F.A. Wolf*
 
 #### Herbarium and types
 

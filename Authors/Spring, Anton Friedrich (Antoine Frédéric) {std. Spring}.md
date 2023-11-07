@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/item/104077#page/829/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33333954) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Spring, Anton Friedrich \[Antoine Frédéric\] (1814-1872), German (Bavarian) born botanist and physician; studied medicine and botany at the University of München; Dr. phil. ib. 1835, Dr. med. 1836; curator at the München botanical garden 1835-1836; temporarily practicing medicine at München 1836-1837; continued his studies at Paris; professor of physiology and anatomy, later of pathology and internal medicine at the University of Liège 1839-1872. (*Spring*).
+Spring, Anton Friedrich \[Antoine Frédéric\] (1814-1872), German (Bavarian) born botanist and physician; studied medicine and botany at the University of München; Dr. phil. ib. 1835, Dr. med. 1836; curator at the München botanical garden 1835-1836; temporarily practicing medicine at München 1836-1837; continued his studies at Paris; professor of physiology and anatomy, later of pathology and internal medicine at the University of Liège 1839-1872. 
+**Abbreviated name**: *Spring*
 
 #### Herbarium and types
 

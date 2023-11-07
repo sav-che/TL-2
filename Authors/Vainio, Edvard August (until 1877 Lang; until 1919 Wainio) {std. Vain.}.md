@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/item/103683#page/646/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33212678) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Vainio, Edvard August (until 1877: Lang; until 1919: Wainio) (1853-1929), Finnish lichenologist; studied at the University of Helsinki 1870; Dr. phil. ib. 1880; honorary lecturer for botany ib. 1880; travelled in Europe 1884-1885, 1889-1890, 1898; in W. Siberia 1880, in Brazil 1885; in various modest functions, mostly as teacher in natural sciences between 1874 and 1891; censor at the \[Russian\] press service in Helsinki 1891-1917; assistant professor and curator of the cryptogamic herbarium of Turku University 1922-1929. (*Vain.*).
+Vainio, Edvard August (until 1877: Lang; until 1919: Wainio) (1853-1929), Finnish lichenologist; studied at the University of Helsinki 1870; Dr. phil. ib. 1880; honorary lecturer for botany ib. 1880; travelled in Europe 1884-1885, 1889-1890, 1898; in W. Siberia 1880, in Brazil 1885; in various modest functions, mostly as teacher in natural sciences between 1874 and 1891; censor at the \[Russian\] press service in Helsinki 1891-1917; assistant professor and curator of the cryptogamic herbarium of Turku University 1922-1929. 
+**Abbreviated name**: *Vain.*
 
 #### Herbarium and types
 

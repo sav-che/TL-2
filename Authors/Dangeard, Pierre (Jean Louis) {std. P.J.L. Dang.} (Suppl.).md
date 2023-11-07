@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/item/103833#page/61/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33259095) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Dangeard, Pierre Jean Louis {std. P.J.L. Dang.}|first entry]] for this author
 
 ### Author
 
-\* Dangeard, Pierre \[Jean Louis\] (1895-1970), French botanist, born 18 Feb 1895 at Poitiers, son of Pierre-Augustin Dangeard \[see above\], Licencié in Sciences naturelles 1914, on active service in W.W. I 1915-1918, Légion d'honneur 1922, from 1928 at the "École normale supérieure abrégé" 1921, "préparateur" at the Faculté des Sciences Paris, professor at Bordeaux 1932, Prix Montagne 1929, Prix Desmazières 1948, Member Acad. Sci. 1964. (*P.J.L. Dang.*).
+\* Dangeard, Pierre \[Jean Louis\] (1895-1970), French botanist, born 18 Feb 1895 at Poitiers, son of Pierre-Augustin Dangeard \[see above\], Licencié in Sciences naturelles 1914, on active service in W.W. I 1915-1918, Légion d'honneur 1922, from 1928 at the "École normale supérieure abrégé" 1921, "préparateur" at the Faculté des Sciences Paris, professor at Bordeaux 1932, Prix Montagne 1929, Prix Desmazières 1948, Member Acad. Sci. 1964. 
+**Abbreviated name**: *P.J.L. Dang.*
 
 #### Herbarium and types
 

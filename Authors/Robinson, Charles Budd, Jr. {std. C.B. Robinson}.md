@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/item/103624#page/829/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33190286) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Robinson, Charles Budd, Jr. (1871-1913), Canadian (Nova Scotian) botanist; BA Dalhousie Univ. 1891; teacher at Kentville, N.S. 1892-1893, Pictou, N.S. 1893-1897, 1899-1903, associated with the New York Botanical Garden 1903-1908; Dr. phil. Columbia Univ. 1906; economic botanist with the Bureau of Science Manila 1908-1911, again associated with the New York Botanical Garden 1911-1912, and with the Bureau of Science 1912-1913. (*C.B. Robinson*).
+Robinson, Charles Budd, Jr. (1871-1913), Canadian (Nova Scotian) botanist; BA Dalhousie Univ. 1891; teacher at Kentville, N.S. 1892-1893, Pictou, N.S. 1893-1897, 1899-1903, associated with the New York Botanical Garden 1903-1908; Dr. phil. Columbia Univ. 1906; economic botanist with the Bureau of Science Manila 1908-1911, again associated with the New York Botanical Garden 1911-1912, and with the Bureau of Science 1912-1913. 
+**Abbreviated name**: *C.B. Robinson*
 
 #### Herbarium and types
 

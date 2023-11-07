@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/item/103253#page/124/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33068340) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hassler, Émile (1861-1937), Swiss botanical collector and physician who settled in Paraguay (1885-1937) with several prolonged stays in Europe; Dr. phil. h.c. Ascunsión 1930. (*Hassl.*).
+Hassler, Émile (1861-1937), Swiss botanical collector and physician who settled in Paraguay (1885-1937) with several prolonged stays in Europe; Dr. phil. h.c. Ascunsión 1930. 
+**Abbreviated name**: *Hassl.*
 
 #### Herbarium and types
 

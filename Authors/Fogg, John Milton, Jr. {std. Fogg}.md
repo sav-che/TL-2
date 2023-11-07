@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/item/103834#page/311/mode/1up) of TL-2 Suppl. VII.
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259793) of TL-2 Suppl. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Fogg, John Milton, Jr. (1898-1982), American taxonomist, horticulturist and administrator, born 8 Nov 1898 in Philadelphia, B.S. 1925 Univ. of Penn., Philadelphia, Ph.D. 1929 Harvard Univ., Cambridge, Mass. (under M.L. Fernald), instructor 1925-1932, asst. prof. of botany 1932-1941, assoc. prof. 1941-1944, prof. 1944-1965, dean of College of Arts and Sciences 1941-1944 and dir., Morris Arboretum 1954-1965, all Univ. of Penn., botanical consultant, E.R. Squibb & Co. 1954-1962 (investigated *Rauwolfia*), dir. of the arboretum, Barnes Foundation, Merion Station, Penn. 1965-1979, founder, American Magnolia Society, registrar, Intl. Registration Authority of Cultivar Names in Magnolias 1961, Sc.D. LaSalle College (now Univ.), Philadelphia, died 12 Oct 1982 in Bryn Mawr, Penn. (*Fogg*).
+Fogg, John Milton, Jr. (1898-1982), American taxonomist, horticulturist and administrator, born 8 Nov 1898 in Philadelphia, B.S. 1925 Univ. of Penn., Philadelphia, Ph.D. 1929 Harvard Univ., Cambridge, Mass. (under M.L. Fernald), instructor 1925-1932, asst. prof. of botany 1932-1941, assoc. prof. 1941-1944, prof. 1944-1965, dean of College of Arts and Sciences 1941-1944 and dir., Morris Arboretum 1954-1965, all Univ. of Penn., botanical consultant, E.R. Squibb & Co. 1954-1962 (investigated *Rauwolfia*), dir. of the arboretum, Barnes Foundation, Merion Station, Penn. 1965-1979, founder, American Magnolia Society, registrar, Intl. Registration Authority of Cultivar Names in Magnolias 1961, Sc.D. LaSalle College (now Univ.), Philadelphia, died 12 Oct 1982 in Bryn Mawr, Penn. 
+**Abbreviated name**: *Fogg*
 
 #### Herbarium and types
 

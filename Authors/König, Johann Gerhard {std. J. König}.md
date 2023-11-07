@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/item/103253#page/626/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33068842) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-König, Johann Gerhard (1728-1785), Baltic-German pharmacist and physician; 1759-1767 in Denmark; from 1767 India, Siam, Malacca and Ceylon as missionary and plant collector. (*J. König*).
+König, Johann Gerhard (1728-1785), Baltic-German pharmacist and physician; 1759-1767 in Denmark; from 1767 India, Siam, Malacca and Ceylon as missionary and plant collector. 
+**Abbreviated name**: *J. König*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/item/103253#page/372/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33068588) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hovelacque, Maurice Jean Alexandre (1858-1898), French botanist. (*Hovel*).
+Hovelacque, Maurice Jean Alexandre (1858-1898), French botanist. 
+**Abbreviated name**: *Hovel*
 
 #### Herbarium and types
 

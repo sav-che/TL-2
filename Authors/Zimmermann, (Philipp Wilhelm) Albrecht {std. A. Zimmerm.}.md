@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/item/103250#page/598/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Zimmermann, \[Philipp Wilhelm\] Albrecht (1860-1931), German (Braunschweig) botanist; studied natural sciences at Tübingen, Berlin, Würzburg and Leipzig; Dr. phil. Leipzig 1881; assistant with Schwendener at the Berlin Institute for plant physiology 1881-1883 and with L. Kny at the botanical Institute of the Berlin Agricultural College 1883-1884; lecturer at the University of Leipzig 1885; id. Tübingen 1888, e.o. professor of botany ib. 1894; habil. Berlin 1895 and lecturer ib.; botanist at the Coffee culture experiment station at Buitenzorg, Java 1896; botanist and asst. director at the biological-agronomical institute at Amani (E. Africa) 1902-1920; professor of botany at the Forestry College Hann. Münden 1921, director of the botanical laboratory of the Biological State Institute for Agriculture and Forestry, Berlin-Dahlem 1922-1925; in retirement continuing his work on colonial botany. (*A. Zimmerm.*).
+Zimmermann, \[Philipp Wilhelm\] Albrecht (1860-1931), German (Braunschweig) botanist; studied natural sciences at Tübingen, Berlin, Würzburg and Leipzig; Dr. phil. Leipzig 1881; assistant with Schwendener at the Berlin Institute for plant physiology 1881-1883 and with L. Kny at the botanical Institute of the Berlin Agricultural College 1883-1884; lecturer at the University of Leipzig 1885; id. Tübingen 1888, e.o. professor of botany ib. 1894; habil. Berlin 1895 and lecturer ib.; botanist at the Coffee culture experiment station at Buitenzorg, Java 1896; botanist and asst. director at the biological-agronomical institute at Amani (E. Africa) 1902-1920; professor of botany at the Forestry College Hann. Münden 1921, director of the botanical laboratory of the Biological State Institute for Agriculture and Forestry, Berlin-Dahlem 1922-1925; in retirement continuing his work on colonial botany. 
+**Abbreviated name**: *A. Zimmerm.*
 
 #### Herbarium and types
 

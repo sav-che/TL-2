@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/item/104137#page/418/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33355489) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Meijer, Frans Nicholaas (after 1908 Frank Nicholas Meyer) (1875-1918), Dutch botanist, gardener and botanical explorer; with Hugo de Vries before 1900; travelled through the United States and Mexico 1901-1904; at the Missouri Botanical Garden 1904-1905; with USDA as plant collector at the initiative of David Fairchild in 1905-1908, 1909-1912, 1913-1915 and 1916-1918; naturalised U.S. citizen 1908; drowned (murdered?) in the Yang-tsze-kiang. (*F. N. Meyer*).
+Meijer, Frans Nicholaas (after 1908 Frank Nicholas Meyer) (1875-1918), Dutch botanist, gardener and botanical explorer; with Hugo de Vries before 1900; travelled through the United States and Mexico 1901-1904; at the Missouri Botanical Garden 1904-1905; with USDA as plant collector at the initiative of David Fairchild in 1905-1908, 1909-1912, 1913-1915 and 1916-1918; naturalised U.S. citizen 1908; drowned (murdered?) in the Yang-tsze-kiang. 
+**Abbreviated name**: *F. N. Meyer*
 
 #### Herbarium and types
 

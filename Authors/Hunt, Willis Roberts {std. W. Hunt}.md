@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/item/103253#page/398/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33068614) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Hunt, Willis Roberts (1893-x), American botanist and phytopathologist; Dr. phil. Yale 1926. (*W. Hunt*).
+Hunt, Willis Roberts (1893-x), American botanist and phytopathologist; Dr. phil. Yale 1926. 
+**Abbreviated name**: *W. Hunt*
 
 #### Herbarium and types
 

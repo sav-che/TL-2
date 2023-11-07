@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/item/103253#page/368/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33068584) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Houstoun, William (1695-1733), British surgeon; studied at Leiden under Boerhaave; with the South Sea Company in C. America and W. Indies (1729-1733). (*Houst.*).
+Houstoun, William (1695-1733), British surgeon; studied at Leiden under Boerhaave; with the South Sea Company in C. America and W. Indies (1729-1733). 
+**Abbreviated name**: *Houst.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/item/103624#page/838/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33190295) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rochet d'Héricourt, C.L.X. (*fl*. 1846), French chemist, explorer and geographer; travelled e.g. in Ethiopia 1839-1845. (*Rochet*).
+Rochet d'Héricourt, C.L.X. (*fl*. 1846), French chemist, explorer and geographer; travelled e.g. in Ethiopia 1839-1845. 
+**Abbreviated name**: *Rochet*
 
 #### Herbarium and types
 

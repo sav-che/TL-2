@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/item/103624#page/934/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33190391) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Roth, Georg (1842-1915), German (Hessen) forester and botanist (bryologist); studied forestry at Giessen; "Forstassessor" and "Forstrevisor" in Darmstadt, later "Rechnungsrath"; from 1887 in retirement at Laubach (Hessen) dedicating himself entirely to bryology; Forstrat 1898; Dr. h.c. Giessen 1907. (*G. Roth*).
+Roth, Georg (1842-1915), German (Hessen) forester and botanist (bryologist); studied forestry at Giessen; "Forstassessor" and "Forstrevisor" in Darmstadt, later "Rechnungsrath"; from 1887 in retirement at Laubach (Hessen) dedicating himself entirely to bryology; Forstrat 1898; Dr. h.c. Giessen 1907. 
+**Abbreviated name**: *G. Roth*
 
 #### Herbarium and types
 

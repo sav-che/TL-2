@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/item/103835#page/131/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33260109) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Dubian, Robert (1865-1936), German major and mycologist, born 19 Nov 1865 in Johannistal nr. Hoyerswerda, died 9 Mar 1936 in Berlin. (*Dubian*).
+Dubian, Robert (1865-1936), German major and mycologist, born 19 Nov 1865 in Johannistal nr. Hoyerswerda, died 9 Mar 1936 in Berlin. 
+**Abbreviated name**: *Dubian*
 
 #### Herbarium and types
 

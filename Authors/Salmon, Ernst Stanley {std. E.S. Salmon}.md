@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/item/104077#page/24/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33333173) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Salmon, Ernst Stanley (1872-1959), British mycologist; at Jodrell Laboratory, Kew, 1899-1906; mycologist S.E.Agric. Coll., Wye 1906-1937; reader in mycology, London Univ. 1912; professor ib. 1925; specialist on hop diseases and Erysiphaceae; amateur bryologist. (*E.S. Salmon*).
+Salmon, Ernst Stanley (1872-1959), British mycologist; at Jodrell Laboratory, Kew, 1899-1906; mycologist S.E.Agric. Coll., Wye 1906-1937; reader in mycology, London Univ. 1912; professor ib. 1925; specialist on hop diseases and Erysiphaceae; amateur bryologist. 
+**Abbreviated name**: *E.S. Salmon*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/item/103250#page/358/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33066638) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Wilkinson, Caroline Catherine, Lady, née Lucas (1822-1881), British amateur botanist; married Sir Gardner Wilkinson 1856. (*Wilkinson*).
+Wilkinson, Caroline Catherine, Lady, née Lucas (1822-1881), British amateur botanist; married Sir Gardner Wilkinson 1856. 
+**Abbreviated name**: *Wilkinson*
 
 #### Herbarium and types
 

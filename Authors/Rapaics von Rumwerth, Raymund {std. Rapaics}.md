@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/item/103624#page/593/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Rapaics von Rumwerth, Raymund (1885-1954), Hungarian botanist; assistant at the agricultural college of Kolozsvár (Klausenburg, Cluj) 1910, ass. prof. ib. 1912; later at Budapest. (*Rapaics*).
+Rapaics von Rumwerth, Raymund (1885-1954), Hungarian botanist; assistant at the agricultural college of Kolozsvár (Klausenburg, Cluj) 1910, ass. prof. ib. 1912; later at Budapest. 
+**Abbreviated name**: *Rapaics*
 
 #### Herbarium and types
 

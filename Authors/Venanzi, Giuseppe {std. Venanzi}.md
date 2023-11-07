@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/item/103683#page/709/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33212741) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Venanzi, Giuseppe (1851-?), Italian botanist at Bergamo. (*Venanzi*).
+Venanzi, Giuseppe (1851-?), Italian botanist at Bergamo. 
+**Abbreviated name**: *Venanzi*
 
 #### Herbarium and types
 

@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/item/103860#page/452/mode/1up) of TL-2 Suppl. IV.
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266119) of TL-2 Suppl. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Cramer, Carl Eduard {std. C.E. Cramer}|first entry]] for this author
 
 ### Author
 
-\* Cramer, Carl Eduard (1832-1901), Swiss botanist, born at Zürich, educated at the Zürich Gymnasium, at the Zürich University 1850-1852, moved with his professor Nägeli to Freiburg i. Br. 1852, Dr. phil. ib. 1855 ("phil. dr. Friburgensis"), at the eidgenössischen Polytechnicum in Zürich from 1859, professor ib. 1861-1901, Director Bot. Gart. Zürich 1882-1893. (*C.E. Cramer*).
+\* Cramer, Carl Eduard (1832-1901), Swiss botanist, born at Zürich, educated at the Zürich Gymnasium, at the Zürich University 1850-1852, moved with his professor Nägeli to Freiburg i. Br. 1852, Dr. phil. ib. 1855 ("phil. dr. Friburgensis"), at the eidgenössischen Polytechnicum in Zürich from 1859, professor ib. 1861-1901, Director Bot. Gart. Zürich 1882-1893. 
+**Abbreviated name**: *C.E. Cramer*
 
 #### Herbarium and types
 

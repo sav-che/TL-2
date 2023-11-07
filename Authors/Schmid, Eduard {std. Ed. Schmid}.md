@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/item/104077#page/249/mode/1up) of TL-2 Vol. V.
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Schmid, Eduard (*fl*. 1906), Swiss botanist from Ober-Stammheim; Dr. phil. Zürich 1906. (*Ed. Schmid*).
+Schmid, Eduard (*fl*. 1906), Swiss botanist from Ober-Stammheim; Dr. phil. Zürich 1906. 
+**Abbreviated name**: *Ed. Schmid*
 
 #### Herbarium and types
 

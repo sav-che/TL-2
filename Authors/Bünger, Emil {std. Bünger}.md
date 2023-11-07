@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/item/103861#page/217/mode/1up) of TL-2 Suppl. III.
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33266514) of TL-2 Suppl. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Bünger, Emil (1861-?), German botanist, born at Neu-Ruppin, Mark Brandenburg, left the gymnasium of Neu-Ruppin 1882, studied at the University of Berlin 1882-1890, with e.g. Ascherson, Eichler and Schwendener, Dr. phil. 1890, teacher at the Spandau Gymnasium. (*Bünger*).
+Bünger, Emil (1861-?), German botanist, born at Neu-Ruppin, Mark Brandenburg, left the gymnasium of Neu-Ruppin 1882, studied at the University of Berlin 1882-1890, with e.g. Ascherson, Eichler and Schwendener, Dr. phil. 1890, teacher at the Spandau Gymnasium. 
+**Abbreviated name**: *Bünger*
 
 #### Herbarium and types
 

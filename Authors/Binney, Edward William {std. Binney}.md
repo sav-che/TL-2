@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/item/103414#page/265/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33120348) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Binney, Edward William {std. Binney} (Suppl.)|second entry]] for this author
 
 ### Author
 
-Binney, Edward William (1812-1881), British palaeobotanist. (*Binney*).
+Binney, Edward William (1812-1881), British palaeobotanist. 
+**Abbreviated name**: *Binney*
 
 #### Collections
 

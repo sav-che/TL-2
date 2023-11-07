@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/item/103624#page/212/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33189669) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Petersen, Otto Georg (1847-1937), Danish botanist, Dr. phil. Kjøbenhavn 1882; with the Botanical Museum 1878-1882, from 1882-1893 in various functions at the University and the Botanical Garden; from 1893-1902 lecturer, from 1902-1919 professor of botany at the Copenhagen Agricultural College. (*O. Petersen*).
+Petersen, Otto Georg (1847-1937), Danish botanist, Dr. phil. Kjøbenhavn 1882; with the Botanical Museum 1878-1882, from 1882-1893 in various functions at the University and the Botanical Garden; from 1893-1902 lecturer, from 1902-1919 professor of botany at the Copenhagen Agricultural College. 
+**Abbreviated name**: *O. Petersen*
 
 #### Herbarium and types
 

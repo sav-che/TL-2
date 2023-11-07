@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/item/103250#page/108/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33066388) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Walpole, Branson Alva (1890-1952), American botanist and teacher; teacher of agriculture, high school, Ypsilanti, Michigan 1915-1921, asst. professor of vocational education Michigan State College 1921. (*B. Walpole*).
+Walpole, Branson Alva (1890-1952), American botanist and teacher; teacher of agriculture, high school, Ypsilanti, Michigan 1915-1921, asst. professor of vocational education Michigan State College 1921. 
+**Abbreviated name**: *B. Walpole*
 
 #### Herbarium and types
 

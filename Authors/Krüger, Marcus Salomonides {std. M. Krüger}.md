@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/item/103253#page/706/mode/1up) of TL-2 Vol. II.
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Krüger, Marcus Salomonides (*fl. 1841*), German bibliographer. (*M. Krüger*).
+Krüger, Marcus Salomonides (*fl. 1841*), German bibliographer. 
+**Abbreviated name**: *M. Krüger*
 
 #### Herbarium and types
 

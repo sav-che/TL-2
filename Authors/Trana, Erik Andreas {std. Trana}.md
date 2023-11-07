@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/item/103683#page/441/mode/1up) of TL-2 Vol. VI.
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33212473) of TL-2 Vol. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Trana, Erik Andreas (1847-1933), Swedish botanist, egyptologist and judge; Dr. phil. Uppsala 1872; Exam. jur. ib. 1876; with the Uppsala Court of Appeal 1876; from 1877-1917 in Göteborg in various judiciary functions. (*Trana*).
+Trana, Erik Andreas (1847-1933), Swedish botanist, egyptologist and judge; Dr. phil. Uppsala 1872; Exam. jur. ib. 1876; with the Uppsala Court of Appeal 1876; from 1877-1917 in Göteborg in various judiciary functions. 
+**Abbreviated name**: *Trana*
 
 #### Herbarium and types
 

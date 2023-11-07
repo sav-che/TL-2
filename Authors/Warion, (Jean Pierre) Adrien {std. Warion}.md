@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/item/103250#page/131/mode/1up) of TL-2 Vol. VII.
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Warion, \[Jean Pierre\] Adrien (1837-1880), French (Lorraine) military physician and botanist; Dr. méd. Service de Santé, Paris (Val de Grâce) (1861), École de Strasbourg 1861; subsequently stationed at Rome (1861), Algeria (1863), Morocco (1866), Vincennes (1869), with the Armée du Nord at Metz (1870), later again in North Africa, from 1877 at Perpignan. (*Warion*).
+Warion, \[Jean Pierre\] Adrien (1837-1880), French (Lorraine) military physician and botanist; Dr. méd. Service de Santé, Paris (Val de Grâce) (1861), École de Strasbourg 1861; subsequently stationed at Rome (1861), Algeria (1863), Morocco (1866), Vincennes (1869), with the Armée du Nord at Metz (1870), later again in North Africa, from 1877 at Perpignan. 
+**Abbreviated name**: *Warion*
 
 #### Herbarium and types
 

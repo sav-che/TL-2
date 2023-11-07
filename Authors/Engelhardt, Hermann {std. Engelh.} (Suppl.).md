@@ -1,11 +1,12 @@
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/item/103835#page/351/mode/1up) of TL-2 Suppl. VI.
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33260329) of TL-2 Suppl. VI.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 > [!example] See also [[Engelhardt, Hermann {std. Engelh.}|first entry]] for this author
 
 ### Author
 
-\* Engelhardt, Hermann (1839-1918), German teacher and palaeobotanist, born 10 Mar 1839 in Oberhohndorf near Zwickau (Saxony), visited primary school at Zwickau, later the "Proseminar" at Freiberg which moved to Nossen, after his training for teacher he was appointed first at Kleinvoigtsberg later at Nossen, from 1861 teacher in Dresden, was most interested in botany and especially palaeobotany, member of Isis at Dresden, changed to another school in Dresden 1869 where he stayed until 1907, died 24 Jan 1918. (*Engelh.*).
+\* Engelhardt, Hermann (1839-1918), German teacher and palaeobotanist, born 10 Mar 1839 in Oberhohndorf near Zwickau (Saxony), visited primary school at Zwickau, later the "Proseminar" at Freiberg which moved to Nossen, after his training for teacher he was appointed first at Kleinvoigtsberg later at Nossen, from 1861 teacher in Dresden, was most interested in botany and especially palaeobotany, member of Isis at Dresden, changed to another school in Dresden 1869 where he stayed until 1907, died 24 Jan 1918. 
+**Abbreviated name**: *Engelh.*
 
 #### Herbarium and types
 

@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/item/104137#page/618/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33355689) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Mosseray, Raoul (1908-1940), Belgian botanist and high school teacher; studied at the teachers' college of Carlsbourg; Ing. agron. Louvain 1930, Dr. sci. nat. ib. 1931; died on the battlefield in 1940. (*Mosseray*).
+Mosseray, Raoul (1908-1940), Belgian botanist and high school teacher; studied at the teachers' college of Carlsbourg; Ing. agron. Louvain 1930, Dr. sci. nat. ib. 1931; died on the battlefield in 1940. 
+**Abbreviated name**: *Mosseray*
 
 #### Herbarium and types
 

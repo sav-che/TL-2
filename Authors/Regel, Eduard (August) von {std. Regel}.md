@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/item/103624#page/652/mode/1up) of TL-2 Vol. IV.
+> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33190109) of TL-2 Vol. IV.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Regel, Eduard \[August\] von (1815-1892), German (Thuringian) botanist; assistant at the botanical gardens of Göttingen 1833-1837, Bonn 1837-1839, Berlin 1839-1842; head gardener at the University botanical garden Zürich 1842-1855; Dr. phil. Zürich 1855; scientific director of the imperial botanical garden St. Petersburg \[1855-\]1857-1867, first botanist 1867-1875, director 1875-1892. (*Regel*).
+Regel, Eduard \[August\] von (1815-1892), German (Thuringian) botanist; assistant at the botanical gardens of Göttingen 1833-1837, Bonn 1837-1839, Berlin 1839-1842; head gardener at the University botanical garden Zürich 1842-1855; Dr. phil. Zürich 1855; scientific director of the imperial botanical garden St. Petersburg \[1855-\]1857-1867, first botanist 1867-1875, director 1875-1892. 
+**Abbreviated name**: *Regel*
 
 #### Herbarium and types
 

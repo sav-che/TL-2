@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 948](https://www.biodiversitylibrary.org/item/103414#page/996/mode/1up) of TL-2 Vol. I.
+> [!cite] BHL link: this entry starts at [page 948](https://www.biodiversitylibrary.org/page/33121079) of TL-2 Vol. I.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Girgensohn, Gustav Karl (*fl*. 1856), Estonian bryologist, "Hofrath" in Dorpat. (*Girg.*).
+Girgensohn, Gustav Karl (*fl*. 1856), Estonian bryologist, "Hofrath" in Dorpat. 
+**Abbreviated name**: *Girg.*
 
 #### Herbarium and types[^1]
 

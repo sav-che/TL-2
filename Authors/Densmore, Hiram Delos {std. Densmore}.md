@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/item/103833#page/222/mode/1up) of TL-2 Suppl. V.
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33259256) of TL-2 Suppl. V.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Densmore, Hiram Delos (1862-?), American botanist, professor of botany in Beloit College, Beloit, Wisconsin. (*Densmore*).
+Densmore, Hiram Delos (1862-?), American botanist, professor of botany in Beloit College, Beloit, Wisconsin. 
+**Abbreviated name**: *Densmore*
 
 #### Herbarium and types
 

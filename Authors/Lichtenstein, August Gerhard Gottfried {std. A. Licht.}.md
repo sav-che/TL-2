@@ -1,9 +1,10 @@
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/item/104137#page/24/mode/1up) of TL-2 Vol. III.
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33355119) of TL-2 Vol. III.
 > Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
 
 ### Author
 
-Lichtenstein, August Gerhard Gottfried (1780(?)-1851), German botanist at Helmstädt. (*A. Licht.*).
+Lichtenstein, August Gerhard Gottfried (1780(?)-1851), German botanist at Helmstädt. 
+**Abbreviated name**: *A. Licht.*
 
 #### Herbarium and types
 
