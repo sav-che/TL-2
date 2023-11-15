@@ -32,7 +32,7 @@ Barnhart 1: 177 (b. 3 Jan 1828, d. 26 Feb 1903); BJI 1: 5; BM 1: 156, 6: 87-88; 
 
 #### Composite works
 
-(1) Contributed bryophytes to E.P.N. Fournier, *Mexicanas plantas* 1. Jan 1872, see TL-2/1835. – However, Bescherelle, who was not content with the slow pace of bringing out this publication, preprinted his text on the bryophytes in the Mém. Soc. natl. Sci. nat. Cherbourg 16: 145-256. 1872, with the title *Prodromus bryologiae mexicanae* 1872.
+- (1) Contributed bryophytes to E.P.N. Fournier, *Mexicanas plantas* 1. Jan 1872, see TL-2/1835. – However, Bescherelle, who was not content with the slow pace of bringing out this publication, preprinted his text on the bryophytes in the Mém. Soc. natl. Sci. nat. Cherbourg 16: 145-256. 1872, with the title *Prodromus bryologiae mexicanae* 1872.
 
 ### Publications
 

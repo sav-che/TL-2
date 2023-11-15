@@ -12,8 +12,8 @@
 
 [[Collection REN|REN]] (worldwide, mainly Lich.), other material at [[Collection FH|FH]], [[Collection IFAN|IFAN]], [[Collection K|K]], [[Collection M|M]] (exsicc.), [[Collection NTM|NTM]], [[Collection PC|PC]], [[Collection US|US]]; for sets of exsiccatae see IH 2: 25. – Abbayes left his herbarium and library to L. Massé, Rennes, deposited in [[Collection REN|REN]].
 *Exsiccatae*: (1) *Lichenes armoricani spectabilis exsiccati* fasc. 1-3 (nos. 1-60). 1929, 4 (61-80). 1930, 5 (81-100). 1932, 6 (101-120). 1936. – See IH 2: 25.
-(2) *Lichenes gallici et nonnulli alii exsiccati* fasc. 1-2 (1-40). 1936, 3 (41-60). 1937. See IH 2: 25 and Rev. bryol. lichénol. 10: 117. 1937.
-(3) *Lichenes madagascarienses et borbonici exsiccati* fasc. 1 (1-20). 1961, 2 (21-40). 1966. See IH 2: 25.
+- (2) *Lichenes gallici et nonnulli alii exsiccati* fasc. 1-2 (1-40). 1936, 3 (41-60). 1937. See IH 2: 25 and Rev. bryol. lichénol. 10: 117. 1937.
+- (3) *Lichenes madagascarienses et borbonici exsiccati* fasc. 1 (1-20). 1961, 2 (21-40). 1966. See IH 2: 25.
 
 #### Bibliography and biography
 
@@ -40,9 +40,9 @@ GR p. 264, pl. \[29\]; IH 2: 25; LS suppl. 1: 2; Roon p. 9; TL-2/1: 1.
 
 #### Note
 
-(1) Outside our period *Traité de Lichénologie*, Paris (Lechevalier), Encycl. Biol. 41: i-x, 1-217. 1951.
-(2) id., with others, *Botanique*, anatomies, cycles évolutifs, systématique, Paris 1963, 1.039 p.
-(3) Editor, *Flore et végétation du massif armoricain*, 1. *Flore vasculaire* 1971, on p. xxiii-xxviii. 1972 (notes on botanists cited).
+- (1) Outside our period *Traité de Lichénologie*, Paris (Lechevalier), Encycl. Biol. 41: i-x, 1-217. 1951.
+- (2) id., with others, *Botanique*, anatomies, cycles évolutifs, systématique, Paris 1963, 1.039 p.
+- (3) Editor, *Flore et végétation du massif armoricain*, 1. *Flore vasculaire* 1971, on p. xxiii-xxviii. 1972 (notes on botanists cited).
 
 ### Publications
 

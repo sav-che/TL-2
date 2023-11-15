@@ -28,7 +28,7 @@ AG 1: 349; Barnhart 1: 162; BL 2: 628 (index, 12 entries); BM 1: 135; Clokie p. 
 
 #### Composite works
 
-(1) Contributed to H. Watson, *Topogr. Bot.* suppl. 2, see TL-2/16.808.
+- (1) Contributed to H. Watson, *Topogr. Bot.* suppl. 2, see TL-2/16.808.
 
 ### Publications
 

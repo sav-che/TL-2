@@ -10,7 +10,8 @@ Arthur, Joseph Charles (1850-1942), American mycologist, professor of botany at 
 
 #### Herbarium and types
 
-[[Collection PUR|PUR]]; duplicates in various herbaria, see IH. – *Exsiccatae: Uredineae exsiccatae et icones* (fasc. i-iv, nos. *1-17*, Sep 1894; *18-34*, Dec 1898; *35-44*, Jun 1901; *45-60*, Dec 1902) (with Edward Willet Dorland Holway, 1853-1923). Sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection LA|LA]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection KSC|KSC]], [[Collection MASS|MASS]], [[Collection MIN|MIN]], [[Collection MONT|MONT]], [[Collection MSC|MSC]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection URTPP|URTPP]], [[Collection TRTC|TRTC]], [[Collection UC|UC]], [[Collection VT|VT]], [[Collection WU|WU]].
+[[Collection PUR|PUR]]; duplicates in various herbaria, see IH.
+*Exsiccatae*: Uredineae exsiccatae et icones* (fasc. i-iv, nos. *1-17*, Sep 1894; *18-34*, Dec 1898; *35-44*, Jun 1901; *45-60*, Dec 1902) (with Edward Willet Dorland Holway, 1853-1923). Sets at [[Collection BPI|BPI]], [[Collection CUP|CUP]], [[Collection FH|FH]], [[Collection LA|LA]], [[Collection ILL|ILL]], [[Collection ISC|ISC]], [[Collection KSC|KSC]], [[Collection MASS|MASS]], [[Collection MIN|MIN]], [[Collection MONT|MONT]], [[Collection MSC|MSC]], [[Collection NEB|NEB]], [[Collection NY|NY]], [[Collection OS|OS]], [[Collection PUR|PUR]], [[Collection URTPP|URTPP]], [[Collection TRTC|TRTC]], [[Collection UC|UC]], [[Collection VT|VT]], [[Collection WU|WU]].
 *Ref*.: IH 1 (ed. 6): 355, 2: 42.
 - Stevenson, Beih. Nova Hedwigia 36: 17-20. 1971.
 
@@ -34,9 +35,9 @@ Barnhart 1: 80; BL 1: 192; BM 1: 64, 6: 34; Bossert p. 15; CSP 12: 24, 13: 171-1
 
 #### Composite works
 
-(1) Editor of*Botanical Gazette* Chicago. vol. 7-39, 1882-1903.
-(2) Editor and in part author of *The plant Rusts*, New York 1929.
-(3) *Uredinales*, NAF 7: 83-160. 1907; 161-187, 211-268. 1912; 269-404. 1920; 405-480. 1921; 481-586. 1922; 605; 648. 1924; 669-732. 1925; 733-796. 1926; 797-848. 1927.
+- (1) Editor of *Botanical Gazette* Chicago. vol. 7-39, 1882-1903.
+- (2) Editor and in part author of *The plant Rusts*, New York 1929.
+- (3) *Uredinales*, NAF 7: 83-160. 1907; 161-187, 211-268. 1912; 269-404. 1920; 405-480. 1921; 481-586. 1922; 605; 648. 1924; 669-732. 1925; 733-796. 1926; 797-848. 1927.
 
 #### Eponymy
 

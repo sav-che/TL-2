@@ -25,9 +25,8 @@ Barnhart 1: 17 (b. 6 Nov 1854, d. 8 Mar 1918); BM 1: 12; CSP 9: 15, 13: 32; IH 2
 
 #### Composite works
 
-(1) Bryaceae, *in* Krok and Almquist, *Sv. flora f. skolor* 2: 9-45. 1886, ed.
-2. 10-53. 1898, ed. 3. 12-58. 1907, ed. 4. 12-58. 1927.
-(2) *Rubus* L., *in* C.A.M. Lindman, Sv. fanerogamfl. 308-321. 1918.
+- (1) Bryaceae, *in* Krok and Almquist, *Sv. flora f. skolor* 2: 9-45. 1886, ed. 2. 10-53. 1898, ed. 3. 12-58. 1907, ed. 4. 12-58. 1927.
+- (2) *Rubus* L., *in* C.A.M. Lindman, Sv. fanerogamfl. 308-321. 1918.
 
 ### Publications
 

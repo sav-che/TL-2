@@ -31,8 +31,8 @@ Barnhart 1: 132 (orig. inf.); BFM 3167; Bossert p. 27; IH 2: 58; Kew 1: 172; Len
 
 #### Outside our period
 
-(1) *Mosses of Guatemala*, Fieldiana, Bot. 25: i-v, 1-442. 1949; reprinted 1972; see Taxon 28: 527. 1972, see TL-2/328.
-(2) for further titles see the bibliography in H. Crum (1967), p. 934-936.
+- (1) *Mosses of Guatemala*, Fieldiana, Bot. 25: i-v, 1-442. 1949; reprinted 1972; see Taxon 28: 527. 1972, see TL-2/328.
+- (2) for further titles see the bibliography in H. Crum (1967), p. 934-936.
 
 ### Publications
 

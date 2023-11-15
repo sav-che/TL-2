@@ -24,7 +24,7 @@ Barnhart 1: 181 (b. 1 Oct 1852, d. 6 Jul 1932); BL 2: 374; Christiansen p. 64, 3
 
 #### Composite works
 
-(1) Contributed to H. Potonié, *Ill. Fl.* ed. 4. 1889, see TL-2/8211.
+- (1) Contributed to H. Potonié, *Ill. Fl.* ed. 4. 1889, see TL-2/8211.
 
 ### Publications
 

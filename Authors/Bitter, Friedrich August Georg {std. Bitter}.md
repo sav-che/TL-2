@@ -23,8 +23,8 @@ Barnhart 1: 192; BFM 1178; BL 1: 110; BM 6: 94; Bossert p. 40; CSP 13: 574; IF p
 #### Composite works
 
 EP ed. 1, *Marattiaceae* in 1(4): 422-449. 1900, publ.: p. 422-432, 17 Apr 1900, p. 433-449, Aug 1900; *Ophioglossaceae* in 1(4): 449-472, 799-800, 1900, publ.: 449-472, Aug 1900, 799-800, 4 Jan 1902. (see Taxon 21: 509-510. 1972).
-(2) *Hegi, Illustr. Flora von Mitteleuropa, Solanum*, in vol. 5(4). 1928 (incl. other genera of Solanaceae).
-(3) Buchenau, *Flora von Bremen und Oldenburg*, 9. Auflage, Bremen (G. Winter) 1927; together with B. Schütt.
+- (2) *Hegi, Illustr. Flora von Mitteleuropa, Solanum*, in vol. 5(4). 1928 (incl. other genera of Solanaceae).
+- (3) Buchenau, *Flora von Bremen und Oldenburg*, 9. Auflage, Bremen (G. Winter) 1927; together with B. Schütt.
 
 #### Eponymy
 

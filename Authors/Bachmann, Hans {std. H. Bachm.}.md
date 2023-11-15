@@ -23,7 +23,7 @@ Barnhart 1: 98; CSP 13: 224; LS 1424-1426; LS suppl. 1504; Nordstedt suppl. p. 3
 
 #### Composite works
 
-(1) Julius Rothmayer (see TL-2/4: 927), *Die Pilze des Waldes. Volksausgabe* zusammengestellt von Hans Bachmann, Luzern (Verlag bei Eugen Haag). 1920. Oct.
+- (1) Julius Rothmayer (see TL-2/4: 927), *Die Pilze des Waldes. Volksausgabe* zusammengestellt von Hans Bachmann, Luzern (Verlag bei Eugen Haag). 1920. Oct.
 
 ### Publications
 

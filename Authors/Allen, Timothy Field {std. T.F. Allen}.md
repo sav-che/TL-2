@@ -10,7 +10,8 @@ Allen, Timothy Field (1837-1902), American algologist.
 
 #### Herbarium and types
 
-[[Collection NY|NY]] (mostly Charophyta). — Exsiccatae: 1. *Characeae americanae exsiccatae* (pars i, nos. 1-10, fasc. ii-iv, nos. 11-40a, 41-46, Boston (i), New York 1880-1895). Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection PC|PC]].
+[[Collection NY|NY]] (mostly Charophyta).
+*Exsiccatae*: 1. *Characeae americanae exsiccatae* (pars i, nos. 1-10, fasc. ii-iv, nos. 11-40a, 41-46, Boston (i), New York 1880-1895). Sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection PC|PC]].
 2. *Characeae japonicae exsiccatae* (nos. 1-17, 1895), sets at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection L|L]], [[Collection NY|NY]], [[Collection PC|PC]]. The New York Botanical Garden also issued duplicates from Allen's herbarium outside the regular exsiccatae.
 *Ref*.: IH 2: 32.
 - De Toni, Syll. alg. 4(1): ii. 1897 (bibl.)

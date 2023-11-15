@@ -10,7 +10,8 @@ Boulay, Abbé Jean Nicolas (1837-1905), Northern French clergyman, bryologist an
 
 #### Herbarium and types
 
-[[Collection LILLE|LILLE]], further material at [[Collection H|H]], [[Collection MPU|MPU]], [[Collection P|P]], [[Collection PC|PC]]. – Exsiccatae: *Rubi praesertim Galliae exs*. 1893-1898.
+[[Collection LILLE|LILLE]], further material at [[Collection H|H]], [[Collection MPU|MPU]], [[Collection P|P]], [[Collection PC|PC]].
+*Exsiccatae*: *Rubi praesertim Galliae exs*. 1893-1898.
 *Ref*.: IH 2: 89.
 - Candolle, Phytographie 398. 1880.
 

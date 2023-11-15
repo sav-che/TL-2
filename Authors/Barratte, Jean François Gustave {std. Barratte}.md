@@ -27,7 +27,7 @@ Barnhart 1: 127; BFM 1531, 1534; BL 1: 41, 60; BM 1: 101, 197; CSP 13: 313; GF p
 
 #### Composite works
 
-(1) see TL-2/1589, E. Durand and G. Barratte, *Fl. libyc. prodr.* 1910. − *Review*: E. Malinvaud, Bull. Soc. bot. France 57(8): 629-630. 24 Feb 1911.
-(2) as junior author with E. Bonnet, *Explor. Sci. Tunisie*, *Ill. bot.* 1892-1895, see TL-2/640 and 641.
-(3) *Characées*, *in* N.T. Patouillard, *Cat. pl. cell. Tunisie* 1897, see TL-2/7475.
+- (1) see TL-2/1589, E. Durand and G. Barratte, *Fl. libyc. prodr.* 1910. − *Review*: E. Malinvaud, Bull. Soc. bot. France 57(8): 629-630. 24 Feb 1911.
+- (2) as junior author with E. Bonnet, *Explor. Sci. Tunisie*, *Ill. bot.* 1892-1895, see TL-2/640 and 641.
+- (3) *Characées*, *in* N.T. Patouillard, *Cat. pl. cell. Tunisie* 1897, see TL-2/7475.
 

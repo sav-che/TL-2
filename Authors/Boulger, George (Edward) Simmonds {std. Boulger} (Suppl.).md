@@ -28,14 +28,14 @@ Barnhart 1: 229; BB p. 40, 339; BJI 2: 6; BL 2: 633 (index); BM 1: 213, 6: 115; 
 
 #### Composite works
 
-(1) With James Britten (1846-1926), *A biographical index of British and Irish botanists*, London 1893, see TL-2/772.
-(2) *History of Ceylon Botany*, *in* H. Trimen, *A hand-book to the flora of Ceylon*, see TL-2/15.157, in vol. 5: 369-381. 1900.
-(3) With Ida Southwell Perrin (1860-?), *British flowering plants* 1914, see TL-2/7709, introduction and descriptive notes by G.S. Boulger. − See also J. Bot. 51: 263. Aug 1913 (prospectus and specimen plates issued), and BL 2: 215.
+- (1) With James Britten (1846-1926), *A biographical index of British and Irish botanists*, London 1893, see TL-2/772.
+- (2) *History of Ceylon Botany*, *in* H. Trimen, *A hand-book to the flora of Ceylon*, see TL-2/15.157, in vol. 5: 369-381. 1900.
+- (3) With Ida Southwell Perrin (1860-?), *British flowering plants* 1914, see TL-2/7709, introduction and descriptive notes by G.S. Boulger. − See also J. Bot. 51: 263. Aug 1913 (prospectus and specimen plates issued), and BL 2: 215.
 
 #### Notes
 
-(1) *History of Essex botany*. Part 1. The botanists of the 16-th and 17-th centuries, *Essex Natural*. 11: 57-68, 169-184, 229-236. 1899-1900, 13: 218-229. 1904 (unfinished, ends with John Ray).
-(2) *Botanical bibliography of the south-eastern counties*, Proc. S.E. Union Soc. 4: 43-52. 1899 (annotations, lists herbaria).
+- (1) *History of Essex botany*. Part 1. The botanists of the 16-th and 17-th centuries, *Essex Natural*. 11: 57-68, 169-184, 229-236. 1899-1900, 13: 218-229. 1904 (unfinished, ends with John Ray).
+- (2) *Botanical bibliography of the south-eastern counties*, Proc. S.E. Union Soc. 4: 43-52. 1899 (annotations, lists herbaria).
 
 ### Publications
 

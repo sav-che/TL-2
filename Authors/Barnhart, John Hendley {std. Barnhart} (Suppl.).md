@@ -37,21 +37,21 @@ A detailed bibliography of J.H. Barnhart was given by H.W. Rickett, John Hendley
 
 #### Composite works
 
-(1) *Helianthemum*, with J.K. Small, *in* J.K. Small, *Fl. South-East U.S.* 796-797. 22 Jul 1903 and in ed. 2. 796-797. 23 Apr 1913.
-(2) *Pinguiculaceae*, id., *in* id. 1089-1092. 22 Jul 1903 and in ed. 2. 1089-1092. 23 Apr 1913.
-(3) *Koeberliniaceae*, *in North Amer. Fl.* 25: 101-102. 3 Jun 1910.
-(4) *Pinguiculaceae*, *in* J.K. Small, *Fl. Florida Keys* 134. 11 Aug 1913.
-(5) *Lentibulariaceae*, *in* N.L. Britton and A. Brown, *Ill. Fl. north. U.S., Canada*... ed. 2. 3: 225-232. 7 Jun 1913.
-(6) *Pinguiculaceae*, *in* J.K. Small and J.J. Carter, *Fl. Lancaster county* 265. 3 Sep 1913.
-(7) *Lentibulariaceae*, *in* N.L. Britton and C.F. Millspaugh, *Bahama fl*. 393-395, "26"-30 Jun 1920.
-(8) *Lentibulariaceae*, *in* N.L. Britton, *Descr. cuban. pl.*, Mem. Torrey bot. Club 16: 110-111. 13 Sep 1920.
-(9) *Pinguiculaceae*, *in* J.K. Small, *Manual south east. flora* 1231-1238. 30 Nov. 1933.
-(10) *Oedogoniales*, *in North Amer. Fl.* 11(1): 87-97. 1937.
-(11) Editor of Bull. Torrey bot. Club 30-34, Jan 1903-Dec 1907.
-(12) Editor, with G.V. Nash, Addisonia 1-6, 1916-1921.
-(13) J.C. Arthur (q.v.), J.H. Barnhart, N.L. Britton and 20 others (see sub Arthur), *Code of Botanical Nomenclature*, New York 1904. Oct.
-(14) J.C. Arthur, (q.v.), J.H. Barnhart, N.L. Britton and 15 others (see sub Arthur), *American Code of Botanical Nomenclature*... From the Bulletin of the Torrey botanical Club 34: 167-178. 1907. Oct.
-(15) Barnhart, J.H. and F.W. Pennell, *in* F.W. Pennell, *The Scrophulariaceae of Eastern temperate North America*, Monographs of the Academy of Natural Sciences of Philadelphia 1: 597-628. 1935.
+- (1) *Helianthemum*, with J.K. Small, *in* J.K. Small, *Fl. South-East U.S.* 796-797. 22 Jul 1903 and in ed. 2. 796-797. 23 Apr 1913.
+- (2) *Pinguiculaceae*, id., *in* id. 1089-1092. 22 Jul 1903 and in ed. 2. 1089-1092. 23 Apr 1913.
+- (3) *Koeberliniaceae*, *in North Amer. Fl.* 25: 101-102. 3 Jun 1910.
+- (4) *Pinguiculaceae*, *in* J.K. Small, *Fl. Florida Keys* 134. 11 Aug 1913.
+- (5) *Lentibulariaceae*, *in* N.L. Britton and A. Brown, *Ill. Fl. north. U.S., Canada*... ed. 2. 3: 225-232. 7 Jun 1913.
+- (6) *Pinguiculaceae*, *in* J.K. Small and J.J. Carter, *Fl. Lancaster county* 265. 3 Sep 1913.
+- (7) *Lentibulariaceae*, *in* N.L. Britton and C.F. Millspaugh, *Bahama fl*. 393-395, "26"-30 Jun 1920.
+- (8) *Lentibulariaceae*, *in* N.L. Britton, *Descr. cuban. pl.*, Mem. Torrey bot. Club 16: 110-111. 13 Sep 1920.
+- (9) *Pinguiculaceae*, *in* J.K. Small, *Manual south east. flora* 1231-1238. 30 Nov. 1933.
+- (10) *Oedogoniales*, *in North Amer. Fl.* 11(1): 87-97. 1937.
+- (11) Editor of Bull. Torrey bot. Club 30-34, Jan 1903-Dec 1907.
+- (12) Editor, with G.V. Nash, Addisonia 1-6, 1916-1921.
+- (13) J.C. Arthur (q.v.), J.H. Barnhart, N.L. Britton and 20 others (see sub Arthur), *Code of Botanical Nomenclature*, New York 1904. Oct.
+- (14) J.C. Arthur, (q.v.), J.H. Barnhart, N.L. Britton and 15 others (see sub Arthur), *American Code of Botanical Nomenclature*... From the Bulletin of the Torrey botanical Club 34: 167-178. 1907. Oct.
+- (15) Barnhart, J.H. and F.W. Pennell, *in* F.W. Pennell, *The Scrophulariaceae of Eastern temperate North America*, Monographs of the Academy of Natural Sciences of Philadelphia 1: 597-628. 1935.
 
 ### Publications
 

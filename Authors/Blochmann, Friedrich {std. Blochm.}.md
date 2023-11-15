@@ -21,7 +21,7 @@ Barnhart 1: 201 (b. 21 Jan 1858, Karlsruhe, Baden); BM 1: 176, 2: 985 (sub Kirch
 
 #### Composite works
 
-(1) Kirchner, E.O.O. and Blochmann, F., *Die microskopische Pflanzen- und Thierwelt des Süsswassers*, 1885-1886 (Blochmann wrote the part on the "Thierwelt").
+- (1) Kirchner, E.O.O. and Blochmann, F., *Die microskopische Pflanzen- und Thierwelt des Süsswassers*, 1885-1886 (Blochmann wrote the part on the "Thierwelt").
 
 #### Eponymy
 

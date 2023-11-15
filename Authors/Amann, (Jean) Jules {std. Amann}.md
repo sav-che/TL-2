@@ -29,7 +29,7 @@ Barnhart 1: 48; CSP 13: 80-81; De Toni 1: iii, 4: iii; IH 2: 34; LS 891; LS supp
 
 #### Composite works
 
-(1) *Flore des Mousses de la Suisse*... Lausanne 1912 \[i.e. Dec 1918\]; *part 1* with C. Meylan, *part 2* with C. Meylan and P.F. Culman, see TL-2/5940. – *Index muscorum* dates both parts at 1919. Nat. Nov. Aug 1919 mentions only part 1 as just received, part 2 is not mentioned by Nat. Nov. *Part 3* (*Révision et additions*): Oct-Dec 1933 by J. Amann. – See also P. Geissler, Taxon 30: 651-652. 1981: date of both 31 Dec 1918. See also *Fl. mouss. Suisses* 1896 below.
+- (1) *Flore des Mousses de la Suisse*... Lausanne 1912 \[i.e. Dec 1918\]; *part 1* with C. Meylan, *part 2* with C. Meylan and P.F. Culman, see TL-2/5940. – *Index muscorum* dates both parts at 1919. Nat. Nov. Aug 1919 mentions only part 1 as just received, part 2 is not mentioned by Nat. Nov. *Part 3* (*Révision et additions*): Oct-Dec 1933 by J. Amann. – See also P. Geissler, Taxon 30: 651-652. 1981: date of both 31 Dec 1918. See also *Fl. mouss. Suisses* 1896 below.
 
 ### Publications
 

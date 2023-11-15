@@ -23,8 +23,8 @@ Barnhart 1: 60; BFM 300, 306, 307; BM 1: 25; GR p. 58 (b. 5 Mai 1883, Bengel/Tri
 
 #### Composite works
 
-(1) Edited and revised G. Brause, *Die Farnpflanzen, in* G. Lindau, *Krypt.-Fl. Anf.* ed. 2, 6. 1927 (see H. Reimers, Hedwigia 67(1): 25 Mai 1927).
-(2) Collaborator of H. Handel-Mazzetti, *Symb. sin.* 1929-1937, TL-2/2364.
+- (1) Edited and revised G. Brause, *Die Farnpflanzen, in* G. Lindau, *Krypt.-Fl. Anf.* ed. 2, 6. 1927 (see H. Reimers, Hedwigia 67(1): 25 Mai 1927).
+- (2) Collaborator of H. Handel-Mazzetti, *Symb. sin.* 1929-1937, TL-2/2364.
 
 ### Publications
 

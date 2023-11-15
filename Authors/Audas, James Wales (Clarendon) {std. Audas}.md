@@ -22,7 +22,7 @@ Barnhart 1: 89; BL 1: 73-74; IH 2: 45.
 
 #### Composite works
 
-(1) With P.F. Morris, *Suppl. weeds Victoria*, see TL-2/6350.
+- (1) With P.F. Morris, *Suppl. weeds Victoria*, see TL-2/6350.
 
 #### Outside our period
 

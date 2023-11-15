@@ -29,8 +29,8 @@ Barnhart 1: 172; BL 2: 12; BM 6: 85-86; IH 2: 70; Kew 1: 226-227; LS 2796-2805, 
 
 #### Composite works
 
-(1) *Algues d'eau douce*, *in* Nova Guinea 8 (Bot.) (2): 253-270. 1910.
-(2) *Flore dévonienne*, Leipzig 1904, TL-2/8224, with H. Potonié (1857-1913), see also H. Solms, Bot. Zeit. 62: 187. 1904 (rev.).
+- (1) *Algues d'eau douce*, *in* Nova Guinea 8 (Bot.) (2): 253-270. 1910.
+- (2) *Flore dévonienne*, Leipzig 1904, TL-2/8224, with H. Potonié (1857-1913), see also H. Solms, Bot. Zeit. 62: 187. 1904 (rev.).
 
 ### Publications
 

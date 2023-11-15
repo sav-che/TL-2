@@ -34,13 +34,13 @@ G. Wagenitz, Ind. coll. princ. herb. Gotting. 198. 1982.
 
 #### Composite works
 
-(1) EP ed. 1, *Marattiaceae* and *Ophioglossaceae*, see TL-2/1: 222.
-(2) The entry: *Solanum*, *in* Hegi, Ill. Fl. Mitteleur. 5(4). 1928 in TL-2/1: 222 should be deleted: the entry should be attributed to H. Marzell.
-(3) Edited eds. 8 and 9 of Buchenau, *Fl. Bremen* 1919 and 1927, see TL-2/1: 222.
-(4) *Dichroismus und Pleiochroismus als Rassencharacter*, *in* Festschrift Ascherson, Berlin 1904.
-(5) *Einige neue Solanum-Arten* aus der Tuberarium-Gruppe, p. 546 (lower part)-555, *in* L. Wittmack, *Einige neue Solanum-Arten*... 5 Mai 1914, see TL-2/1914.
-(6) *Solanaceae*, *in* F. Sarasin and J. Roux, Nova Caledonia, Botanik 1(3): 221-244. 1 Jan-9 Feb 1922. − See TL-2/5: 50.
-(7) Contributed items on *Solanaceae*, *in* C. Skottsberg, *The natural history of Juan Fernandez* 2: 78-80, 130-137, 166-168. 1922 (Solanaceae).
+- (1) EP ed. 1, *Marattiaceae* and *Ophioglossaceae*, see TL-2/1: 222.
+- (2) The entry: *Solanum*, *in* Hegi, Ill. Fl. Mitteleur. 5(4). 1928 in TL-2/1: 222 should be deleted: the entry should be attributed to H. Marzell.
+- (3) Edited eds. 8 and 9 of Buchenau, *Fl. Bremen* 1919 and 1927, see TL-2/1: 222.
+- (4) *Dichroismus und Pleiochroismus als Rassencharacter*, *in* Festschrift Ascherson, Berlin 1904.
+- (5) *Einige neue Solanum-Arten* aus der Tuberarium-Gruppe, p. 546 (lower part)-555, *in* L. Wittmack, *Einige neue Solanum-Arten*... 5 Mai 1914, see TL-2/1914.
+- (6) *Solanaceae*, *in* F. Sarasin and J. Roux, Nova Caledonia, Botanik 1(3): 221-244. 1 Jan-9 Feb 1922. − See TL-2/5: 50.
+- (7) Contributed items on *Solanaceae*, *in* C. Skottsberg, *The natural history of Juan Fernandez* 2: 78-80, 130-137, 166-168. 1922 (Solanaceae).
 
 ### Publications
 

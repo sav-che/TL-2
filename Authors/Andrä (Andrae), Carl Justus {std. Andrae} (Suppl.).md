@@ -26,7 +26,7 @@ AG 2(1): 291; Andrews ed. 2: 232; Barnhart 1: 59 (b. 1 Oct 1816, d. 8 Mai 1885);
 
 #### Composite works
 
-(1) Author of appendix of "*Siebenbürgische Tertiärpflanzen", in O*. Heer, *Sächs.-thür. Braunk.-Fl.*, TL-2/2544.
+- (1) Author of appendix of "*Siebenbürgische Tertiärpflanzen", in O*. Heer, *Sächs.-thür. Braunk.-Fl.*, TL-2/2544.
 
 ### Publications
 

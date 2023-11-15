@@ -10,7 +10,8 @@ Bauer, Ernst (1860-1942), Czechoslovak bryologist.
 
 #### Herbarium and types
 
-[[Collection PR|PR]] – for further details see IH. *Exsiccatae* (see Sayre for further details):
+[[Collection PR|PR]] – for further details see IH.
+*Exsiccatae* (see Sayre for further details):
 1. *Bryotheca bohemica*. Laub- und Lebermoose aus Böhmen in getrockneten Exemplaren (cent, i-iv, nos. 1-400. Smirchov nr Prague, 1898-1904), at [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]].
 2. *Musci brasilienses* (coll. V. Schiffner) (nos. 1-174, Obersdorf 1932) – see Schiffner. 3. *Musci europaei* \[series 35-46: *et Americani*\]*exsiccati*. Die Laubmoose Europas unter Mitwirkung namhafter Bryologen und Floristen (series 1-46, nos. 1-2300, Prague 1903-1936): [[Collection BM|BM]], [[Collection BP|BP]], [[Collection C|C]], [[Collection FH|FH]], [[Collection G|G]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection PR|PR]], [[Collection S|S]]-PA, [[Collection W|W]].
 Bauer also contributed to Kneucker, *Carices exsicc*.

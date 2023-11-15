@@ -35,7 +35,9 @@ Barnhart 1:54 (b. 9 Nov 1897); GR p. 202; IH 2: 35; Roon p. 11.
 
 #### Outside our period
 
-(1) *Introgressive hybridization* 1949, facsimile ed. 1968. (2) *The considered landscape*: essays by A., ed. D. Maloney, Buffalo 1985, 52 p. (3) *Plants, man and life*, Berkeley 1952, ix, 251 p., also id. 1967, 1969 and various other editions.
+- (1) *Introgressive hybridization* 1949, facsimile ed. 1968. 
+- (2) *The considered landscape*: essays by A., ed. D. Maloney, Buffalo 1985, 52 p. 
+- (3) *Plants, man and life*, Berkeley 1952, ix, 251 p., also id. 1967, 1969 and various other editions.
 
 ### Publications
 

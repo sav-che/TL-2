@@ -29,12 +29,12 @@ AG 4: 431, 6(1): 207, 12(1): 244, 12(3): 302; Barnhart 1: 149; BFM \[ind.\]; BL 
 
 #### Composite works
 
-(1) EP ed. 1, *Orobanchaceae*, in 4(3B): 123-132. 1891 (suppl. by Engler in Nachtr. 2-4: 299. 1897).
-(2) *Pflanzenreich*: Orobanchaceae, iv. 261, Heft 96, 30 Sep 1930 (348 p.), repr. 1958/60.
-(3) Reichenbach, *Icones florae Germaniae*, editor from 1900-1907; vol. 22 (dec. 31-33, p. 169-230, t. 271, 1900-1903); vol. 24 (dec. 1-14, p. 1-112, pl. 139-250, 1903-1907).
-(4) Becker, *Hernstein in Niederösterreich*, 2. *Flora* bearbeitet von G. Beck (also some animal taxa).
-(5) Paulitschke, *Harar, Forschungsreise*..., *Wissenschaftlicher Theil*; *botanische Ergebnisse* by Beck. (1888).
-(6) Wawra von Fernsee, *Itinera Principum S. Coburgi*, Wien 1883-1888, edited by G. Beck.
+- (1) EP ed. 1, *Orobanchaceae*, in 4(3B): 123-132. 1891 (suppl. by Engler in Nachtr. 2-4: 299. 1897).
+- (2) *Pflanzenreich*: Orobanchaceae, iv. 261, Heft 96, 30 Sep 1930 (348 p.), repr. 1958/60.
+- (3) Reichenbach, *Icones florae Germaniae*, editor from 1900-1907; vol. 22 (dec. 31-33, p. 169-230, t. 271, 1900-1903); vol. 24 (dec. 1-14, p. 1-112, pl. 139-250, 1903-1907).
+- (4) Becker, *Hernstein in Niederösterreich*, 2. *Flora* bearbeitet von G. Beck (also some animal taxa).
+- (5) Paulitschke, *Harar, Forschungsreise*..., *Wissenschaftlicher Theil*; *botanische Ergebnisse* by Beck. (1888).
+- (6) Wawra von Fernsee, *Itinera Principum S. Coburgi*, Wien 1883-1888, edited by G. Beck.
 
 #### Eponymy
 

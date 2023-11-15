@@ -33,10 +33,10 @@ Barnhart 1: 76; BJI 2: 4; BL 2: 517, 521, 545; BM 1: 62, 6: 33; Bossert p. 14; C
 
 #### Composite works
 
-(1) With S.O. Lindberg, *Musci as. bor.* 1889-1890, see TL-2/4609.
-(2) With C.E.O. Jensen, *Moose Sarekgeb*. 1907-1910, see TL-2/3334.
-(3) Treated *Hepaticae, in* O.R. Holmberg, *Skand. fl.* 2a, 1928, see TL-2/2947; review L. Loeske, Hedwigia Beibl. 68(1): (19). Aug 1928.
-(4) Collections Arnell, *in* I. Hagen, *Musci Norveg. bor.* 1899-1904, see TL-2/2249.
+- (1) With S.O. Lindberg, *Musci as. bor.* 1889-1890, see TL-2/4609.
+- (2) With C.E.O. Jensen, *Moose Sarekgeb*. 1907-1910, see TL-2/3334.
+- (3) Treated *Hepaticae, in* O.R. Holmberg, *Skand. fl.* 2a, 1928, see TL-2/2947; review L. Loeske, Hedwigia Beibl. 68(1): (19). Aug 1928.
+- (4) Collections Arnell, *in* I. Hagen, *Musci Norveg. bor.* 1899-1904, see TL-2/2249.
 
 ### Publications
 

@@ -52,9 +52,9 @@ AG 2(1): 448, 3: 137, 12(3): 690; Barnhart 1: 224 (b. 6 Jul 1778, Agen, d. 26 De
 
 #### Composite works
 
-(1) With L.A. Chaubard, *Nouv. fl. Pélop.* 1839, in which Bory de Saint-Vincent treated the cryptogams. See TL-2/1090 sub Chaubard; further copy seen at B; also on IDC mf. 6507/1.
-(2) With J.P.F.C. Montagne, *Sur un nouveau genre de la famille des hépatiques*, 1843, see TL-2/6245.
-(3) See also BM 1: 204 for a further listing of works in which B. was involved.
+- (1) With L.A. Chaubard, *Nouv. fl. Pélop.* 1839, in which Bory de Saint-Vincent treated the cryptogams. See TL-2/1090 sub Chaubard; further copy seen at B; also on IDC mf. 6507/1.
+- (2) With J.P.F.C. Montagne, *Sur un nouveau genre de la famille des hépatiques*, 1843, see TL-2/6245.
+- (3) See also BM 1: 204 for a further listing of works in which B. was involved.
 
 ### Publications
 

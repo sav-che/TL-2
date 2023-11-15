@@ -32,9 +32,9 @@ AG 12(2): 567 (epon.); Barnhart 1: 44 (b. 15 Feb 1844, Stockholm); BL 2: 511; BM
 
 #### Composite works
 
-(1) Co-author, with Th.O.B.N. Krok, *Svensk flora för skolor* eds. 1-15, 1883-1919 (TL-2/3954); *Svensk flora för skolor, Kryptogamer* eds. 1-4. 1886-1917 (TL-2/3955).
-(2) *Gagea in* Th.O.B.N. Krok, C.J. och C. Hartman, *Handbok i Skandinaviens flora* ed. 12. 1889, p. 73-75; *Orchideae*, p. 82-102, *Juncaceae*, p. 112-128 (TL-2/2426).
-(3) *Calamagrostis* and *Carices distigmaticae* etc., *in* Th. Saelan et al., Herb. mus. fenn. ed.
+- (1) Co-author, with Th.O.B.N. Krok, *Svensk flora för skolor* eds. 1-15, 1883-1919 (TL-2/3954); *Svensk flora för skolor, Kryptogamer* eds. 1-4. 1886-1917 (TL-2/3955).
+- (2) *Gagea in* Th.O.B.N. Krok, C.J. och C. Hartman, *Handbok i Skandinaviens flora* ed. 12. 1889, p. 73-75; *Orchideae*, p. 82-102, *Juncaceae*, p. 112-128 (TL-2/2426).
+- (3) *Calamagrostis* and *Carices distigmaticae* etc., *in* Th. Saelan et al., Herb. mus. fenn. ed.
 2.1. Helsinki (TL-2/9979).
 
 ### Publications

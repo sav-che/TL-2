@@ -30,9 +30,9 @@ Barnhart 1: 167 (b. 18 Aug 1815, d. 20 Nov 1866); BJI 1: 5, 2: 10; BM 1: 139; CS
 
 #### Composite works
 
-(1) see TL-2/1: 185.
-(2) Berg senior author of O.C. Berg and C.F. Schmidt, *Darstell. Beschr. off. Gew.*, TL-2/10.873. − Further *copy*: U.
-(3) Berg co-author of original text of O.C. Berg et al., (*Atlas off. Pfl.*), TL-2/10.874 sub C.F. Schmidt. − Further *copy*: U.
+- (1) see TL-2/1: 185.
+- (2) Berg senior author of O.C. Berg and C.F. Schmidt, *Darstell. Beschr. off. Gew.*, TL-2/10.873. − Further *copy*: U.
+- (3) Berg co-author of original text of O.C. Berg et al., (*Atlas off. Pfl.*), TL-2/10.874 sub C.F. Schmidt. − Further *copy*: U.
 
 ### Publications
 

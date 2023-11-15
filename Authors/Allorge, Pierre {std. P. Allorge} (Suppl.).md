@@ -33,13 +33,13 @@ Barnhart 1: 43; BL 2: 171, 202, 906; Bossert p. 8; Kew 1: 42; PFC 2(2): xviii, 3
 
 #### Composite works
 
-(1) Preface to N.A. Naumor, *Clés des mucorinées* 1939, TL-2/6657.
-(2) *Riella* et al., *in* L. Diels et al., *Die Pflanzenareale* ser. 3. 5, maps 41-44. 1932.
-(3) *Les Muscinées*, *in* P. Allorge et al., *Histoire du peuplement de la Corse. Étude biogéographique*, Paris (Paul Lechevalier...) 1926, p. \[247\]-250.
+- (1) Preface to N.A. Naumor, *Clés des mucorinées* 1939, TL-2/6657.
+- (2) *Riella* et al., *in* L. Diels et al., *Die Pflanzenareale* ser. 3. 5, maps 41-44. 1932.
+- (3) *Les Muscinées*, *in* P. Allorge et al., *Histoire du peuplement de la Corse. Étude biogéographique*, Paris (Paul Lechevalier...) 1926, p. \[247\]-250.
 
 #### Posthumous publ.
 
-(1) *Essai de bryogéographie de la Péninsule ibérique*, Paris (Paul Chevalier) 1947.
+- (1) *Essai de bryogéographie de la Péninsule ibérique*, Paris (Paul Chevalier) 1947.
 
 ### Publications
 

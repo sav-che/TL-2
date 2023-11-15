@@ -10,7 +10,8 @@ Aigret, Louis Clément Joseph (1856-1921), Belgian botanist
 
 #### Herbarium and types
 
-Some material of Aigret at [[Collection LV|LV]]. – *Exsiccatae* (with V. François): *Herbier des muscinées de Belgique*. Cent. 1, 100 nos., Gent 1887 (Nat. Nov. Mai 1887).
+Some material of Aigret at [[Collection LV|LV]].
+*Exsiccatae* (with V. François): *Herbier des muscinées de Belgique*. Cent. 1, 100 nos., Gent 1887 (Nat. Nov. Mai 1887).
 *Ref*.: IH 2: 29.
 
 #### Bibliography and biography

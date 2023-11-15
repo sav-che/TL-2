@@ -25,8 +25,8 @@ Barnhart 1: 109; BJI 2: 6; BL 1: 65; BM 4: 1946, 6: 51; Desmond p. 31 (b. Woolwi
 
 #### Composite works
 
-(1) R.T. Baker (senior author) and Henry George Smith (1852-1924), *A research on the Eucalypts* 1902, see TL-2/12.209. − Further copies seen of ed. 1: B-S (\[i, h.t.\], frontisp., \[iii, t.p.\]-xi, corr. slip, \[1\]-295, *pl. 1-9, pl.* \[*1\*-34\**\]) and at MO.
-(2) Id., *A research on the pines of Australia* 1910, see TL-2/12.210. − *Copies*: B, G, L, MO, NSW, NY.
+- (1) R.T. Baker (senior author) and Henry George Smith (1852-1924), *A research on the Eucalypts* 1902, see TL-2/12.209. − Further copies seen of ed. 1: B-S (\[i, h.t.\], frontisp., \[iii, t.p.\]-xi, corr. slip, \[1\]-295, *pl. 1-9, pl.* \[*1\*-34\**\]) and at MO.
+- (2) Id., *A research on the pines of Australia* 1910, see TL-2/12.210. − *Copies*: B, G, L, MO, NSW, NY.
 
 ### Publications
 

@@ -27,7 +27,7 @@ Barnhart 1: 97; BL 2: 254, 266; BM 1: 79; CSP 1: 139, 13: 221; Desmond p. 25; IH
 
 #### Composite works
 
-(1) Co-author W.M. Hind et al., *Fl. Suffolk* 1889, see TL-2/2783.
+- (1) Co-author W.M. Hind et al., *Fl. Suffolk* 1889, see TL-2/2783.
 
 #### Manuscripts
 

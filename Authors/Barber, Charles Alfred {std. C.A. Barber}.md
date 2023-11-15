@@ -25,7 +25,7 @@ Barnhart 1: 119 (b. 10 Nov 1860, d. 24 Feb 1933); BJI 1: 3; Desmond p. 36 (b. 10
 
 #### Composite works
 
-(1) Editor *Agricultural journal of the Leeward Isles* nos. 1-3, and suppl. 1894-1895.
+- (1) Editor *Agricultural journal of the Leeward Isles* nos. 1-3, and suppl. 1894-1895.
 
 ### Publications
 

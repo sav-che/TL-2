@@ -21,7 +21,7 @@ Barnhart 1: 213; Hortus 3: 1189.
 
 #### Composite works
 
-(1) *Resedaceae*, *in* Engler, A. and K.A.E. Prantl, *Nat. Pflanzenfam.* ed.
+- (1) *Resedaceae*, *in* Engler, A. and K.A.E. Prantl, *Nat. Pflanzenfam.* ed.
 2. 17b: 659-692. 1936.
 
 ### Publications

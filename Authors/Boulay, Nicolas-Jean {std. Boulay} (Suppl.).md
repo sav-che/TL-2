@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection LILLE|LILLE]], further material at [[Collection AUT|AUT]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection CLF|CLF]], [[Collection H|H]] (musci), [[Collection MANCH|MANCH]], [[Collection MPU|MPU]] (musci), [[Collection P|P]], [[Collection PC|PC]]. − *Exsiccatae*: *Rubi praesertim Galliae exsicc*. 1893-1898. − Friedrich Wilhelm Sauerbeck's bryoph. herb. was acquired by Boulay and is now also at [[Collection LILLE|LILLE]] (see E. Malinvaud, Bull. Soc. bot. France 41: 239-240. 1894).
+[[Collection LILLE|LILLE]], further material at [[Collection AUT|AUT]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection CLF|CLF]], [[Collection H|H]] (musci), [[Collection MANCH|MANCH]], [[Collection MPU|MPU]] (musci), [[Collection P|P]], [[Collection PC|PC]]. −
+*Exsiccatae*: *Rubi praesertim Galliae exsicc*. 1893-1898. − Friedrich Wilhelm Sauerbeck's bryoph. herb. was acquired by Boulay and is now also at [[Collection LILLE|LILLE]] (see E. Malinvaud, Bull. Soc. bot. France 41: 239-240. 1894).
 
 #### Bibliography and biography
 
@@ -35,8 +36,8 @@ AG 4: 329; Barnhart 1: 229; BL 2: 107, 185; BM 1: 212, 6: 113; CSP 7: 229, 12: 1
 
 #### Notes
 
-(1) TL-2/687, *Muscinées de la France* 1884-1904, also on microfiche IDC E-8311/1.
-(2) *Rubus* in (TL-2/9706), G. Rouy, *Fl. France* 6: 30-149. Jun 1900.
+- (1) TL-2/687, *Muscinées de la France* 1884-1904, also on microfiche IDC E-8311/1.
+- (2) *Rubus* in (TL-2/9706), G. Rouy, *Fl. France* 6: 30-149. Jun 1900.
 
 ### Publications
 

@@ -65,21 +65,21 @@ AG 3: 211; Backer p. 60, 404; Barnhart 1: 148 (b. 19 Nov 1843, Firenze, d. 25 Oc
 
 #### Composite works
 
-(1) Editor, *Nuovo Giornale botanico italiano*, 1-3. 1869-1871.
-(2) *Notes on the plants collected by Sig. L.M. d'Albertis in New Guinea*, *in* L.M. d'Albertis, *New Guinea*: what I did and what I saw 2: 391-398. 1880; id. *Catalogue of the plants of the Fly River 1877*, on p. 396-400.
-(3) *Palmae, in* K. Schumann and M. Hollrung, *Die Flora von Kaiser Wilhelms Land* 1889, p. 15-17.
-(4) With J.D. Hooker, *Palmae*, *in* J.D. Hooker, *Fl. Brit. India* 6: 402-448, 449-483. Jul 1892 (TL-2/2981).
-(5) *Palmae*, *in* G.F. Scott Elliot, *New and little known Madagascar plants*,... J. Linn. Soc. London, Bot. 29: 61-62. 1893.
-(6) *Palmae*, *in* J.R. Perkins, *Fragmenta florae Philippinae* 1: 45-48. 1904 (TL-2/7681).
-(7) *Palmae*, *in* K. Schumann and C. Lauterbach, *Nachträge zur Flora der Deutschen Schutzgebiete in der Südsee* 60-61. 1905 (TL-2/4239).
-(8) *Palmae*, *in* H. Winkler, *Beiträge zur Kenntnis der Flora und Pflanzengeographie* II., Bot. Jahrb. 48: 89-93. 1912.
-(9) *Palmae*, *in* I. Urban, *Symbolae Antillanae* 7: 170-172. 15 Jun 1912 (TL-2/15.687).
-(10) *Palmae*, *in* K. Rechinger, *Botanische und Zoologische Ergebnisse*... *Salomoninseln 5*, Denkschr. K. Akad. Wiss, Math.-naturw. Kl. 89: 502-509. 1913 (TL-2/8725, no. 5).
-(11) *Neue Palmen Mikronesiens*, *in* G. Volkens, *Beiträge zur Flora von Mikronesien*, Bot. Jahrb. 52: 4. 1914. – Also reprinted, p. \[1\]. *Copy*: B. – TL-2/16.348.
-(12) *Neue Palmen Papuasiens*, *in* C. Lauterbach, *Beiträge zur Flora von Papuasien* 4, Bot. Jahrb. 52: 23-39. 24 Nov 1914 (TL-2/4240).
-(13) *Palmae*, *in* J.F. Rock, *Palmyra Island*, coll. Hawaii Publ. Bull. 4: 44-48, *pl. 17-18.* 1916, also as reprint with independent pagination p. 1-5, *pl. 18-19* \[sic\].
-(14) *Palmae*, *in* E. Chiovenda, *Result. sci. Miss. Stefanini – Paoli* Somalia 1: 176-177, 230. 1916.
-(15) *Palmae*, *in* L.S. Gibbs, *Dutch N.W. New Guinea* 91-98, 200. 1917.
+- (1) Editor, *Nuovo Giornale botanico italiano*, 1-3. 1869-1871.
+- (2) *Notes on the plants collected by Sig. L.M. d'Albertis in New Guinea*, *in* L.M. d'Albertis, *New Guinea*: what I did and what I saw 2: 391-398. 1880; id. *Catalogue of the plants of the Fly River 1877*, on p. 396-400.
+- (3) *Palmae, in* K. Schumann and M. Hollrung, *Die Flora von Kaiser Wilhelms Land* 1889, p. 15-17.
+- (4) With J.D. Hooker, *Palmae*, *in* J.D. Hooker, *Fl. Brit. India* 6: 402-448, 449-483. Jul 1892 (TL-2/2981).
+- (5) *Palmae*, *in* G.F. Scott Elliot, *New and little known Madagascar plants*,... J. Linn. Soc. London, Bot. 29: 61-62. 1893.
+- (6) *Palmae*, *in* J.R. Perkins, *Fragmenta florae Philippinae* 1: 45-48. 1904 (TL-2/7681).
+- (7) *Palmae*, *in* K. Schumann and C. Lauterbach, *Nachträge zur Flora der Deutschen Schutzgebiete in der Südsee* 60-61. 1905 (TL-2/4239).
+- (8) *Palmae*, *in* H. Winkler, *Beiträge zur Kenntnis der Flora und Pflanzengeographie* II., Bot. Jahrb. 48: 89-93. 1912.
+- (9) *Palmae*, *in* I. Urban, *Symbolae Antillanae* 7: 170-172. 15 Jun 1912 (TL-2/15.687).
+- (10) *Palmae*, *in* K. Rechinger, *Botanische und Zoologische Ergebnisse*... *Salomoninseln 5*, Denkschr. K. Akad. Wiss, Math.-naturw. Kl. 89: 502-509. 1913 (TL-2/8725, no. 5).
+- (11) *Neue Palmen Mikronesiens*, *in* G. Volkens, *Beiträge zur Flora von Mikronesien*, Bot. Jahrb. 52: 4. 1914. – Also reprinted, p. \[1\]. *Copy*: B. – TL-2/16.348.
+- (12) *Neue Palmen Papuasiens*, *in* C. Lauterbach, *Beiträge zur Flora von Papuasien* 4, Bot. Jahrb. 52: 23-39. 24 Nov 1914 (TL-2/4240).
+- (13) *Palmae*, *in* J.F. Rock, *Palmyra Island*, coll. Hawaii Publ. Bull. 4: 44-48, *pl. 17-18.* 1916, also as reprint with independent pagination p. 1-5, *pl. 18-19* \[sic\].
+- (14) *Palmae*, *in* E. Chiovenda, *Result. sci. Miss. Stefanini – Paoli* Somalia 1: 176-177, 230. 1916.
+- (15) *Palmae*, *in* L.S. Gibbs, *Dutch N.W. New Guinea* 91-98, 200. 1917.
 
 ### Publications
 

@@ -24,9 +24,9 @@ Barnhart 1: 192 (b. 17 Feb 1852, La Longa, Vicenza, d. 1 Apr 1885, Padova); BL 2
 
 #### Composite works
 
-(1) With P.A. Saccardo, *Aggiunte alla flora trevigiana* 1880, see TL-2/9897.
-(2) With P.A. Saccardo, *Flora biologica della Venezia* 1883, see TL-2/9899.
-(3) With P.A. Saccardo, *Supplemento micologico alla flora veneta crittogamica*, parte I, Funghi, by G. Bizzozero, 110 p. Padova (tip. del Seminario). 1899.
+- (1) With P.A. Saccardo, *Aggiunte alla flora trevigiana* 1880, see TL-2/9897.
+- (2) With P.A. Saccardo, *Flora biologica della Venezia* 1883, see TL-2/9899.
+- (3) With P.A. Saccardo, *Supplemento micologico alla flora veneta crittogamica*, parte I, Funghi, by G. Bizzozero, 110 p. Padova (tip. del Seminario). 1899.
 
 ### Publications
 

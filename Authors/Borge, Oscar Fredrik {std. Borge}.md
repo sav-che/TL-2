@@ -28,7 +28,7 @@ Ainsworth p. 233, 332 (Andersson); Barnhart 1: 58 (Andersson), 222 (b. 21 Jan 18
 
 #### Composite works
 
-(1) Contributed to A. Pascher, *Süsswasserflora*, see TL-2/4: 85-89, *Zygnemales*, Heft 9, 1913.
+- (1) Contributed to A. Pascher, *Süsswasserflora*, see TL-2/4: 85-89, *Zygnemales*, Heft 9, 1913.
 
 ### Publications
 

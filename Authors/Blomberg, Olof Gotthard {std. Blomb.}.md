@@ -23,7 +23,7 @@ Barnhart 1: 202; GR p. 472, pl. \[*27*\]; GR cat. p. 60; IH 2: 79; KR p. 89 (b. 
 
 #### Composite works
 
-(1) Treated lichens, with K.B.J. Forsell, in Points-förteckning: *Enumerantur plantae Scandinaviae* 4: 57-116. Lund 1880. − See KR p. 574.
+- (1) Treated lichens, with K.B.J. Forsell, in Points-förteckning: *Enumerantur plantae Scandinaviae* 4: 57-116. Lund 1880. − See KR p. 574.
 
 ### Publications
 

@@ -44,9 +44,9 @@ Barnhart 1: 233 (b. 4 Nov 1855, d. 11 Apr 1948); BFM 2263a; BJI 1: 6, 2: 17; BM 
 
 #### Note
 
-(1) TL-2/693, *Ferns* received at K as follows: 1: 27 Jun 1923, 2: 22 Oct 1926, 3: 22 Sep 1928 (inf. R.E.G. Pichi-Sermolli).
-(2) TL-2/694, *Primitive land plants*... 1935, facsimile ed. by Hafner Publ. Co. 1959.
-(3) See A. de Bary, *Vergl. Anat. Veg.-Org.* 1877; English translation by F.O. Bower.
+- (1) TL-2/693, *Ferns* received at K as follows: 1: 27 Jun 1923, 2: 22 Oct 1926, 3: 22 Sep 1928 (inf. R.E.G. Pichi-Sermolli).
+- (2) TL-2/694, *Primitive land plants*... 1935, facsimile ed. by Hafner Publ. Co. 1959.
+- (3) See A. de Bary, *Vergl. Anat. Veg.-Org.* 1877; English translation by F.O. Bower.
 
 ### Publications
 

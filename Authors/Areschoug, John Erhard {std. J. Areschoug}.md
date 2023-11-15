@@ -10,7 +10,8 @@ Areschoug, John Erhard (1811-1887), Swedish algologist at Uppsala.
 
 #### Herbarium and types
 
-Phanerogams at [[Collection UPS|UPS]]; algae at [[Collection S|S]]. – Exsiccatae: 1. *Algae scandinavicae exsiccatae* (fasc. 1, 12 nos., Lund 1836) fide KR. 2. *Algae scandinavicae exsiccatae* (fasc. 1-3, nos. 1-3, nos. 1-84, Göteborg 1840-1841); sets at [[Collection BM|BM]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]].
+Phanerogams at [[Collection UPS|UPS]]; algae at [[Collection S|S]].
+*Exsiccatae*: 1. *Algae scandinavicae exsiccatae* (fasc. 1, 12 nos., Lund 1836) fide KR. 2. *Algae scandinavicae exsiccatae* (fasc. 1-3, nos. 1-3, nos. 1-84, Göteborg 1840-1841); sets at [[Collection BM|BM]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]].
 3. *Algae Scandinaviae exsiccatae quas adjectis characeis*, ser. nov. (fasc. 1-9, nos. 1-430, Uppsala 1861-1879); 5 sets e.g. at [[Collection B|B]], [[Collection BM|BM]], [[Collection C|C]], [[Collection FH|FH]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection W|W]]. (See Hedwigia 2: 128. 130. 1863 \[fasc. 1-3\]; 3: 10-12. Jan 1864 \[4\]; 4: 107-108. Jul 1865 \[5\]; 6: 62-63. 1867 \[6\].)
 4. *Phyceae extraeuropaeae exsiccatae* (fasc. 1-3, nos. 1-90, Uppsala 1850-1856); sets at [[Collection C|C]], [[Collection G|G]], [[Collection FH|FH]], [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection LE|LE]], [[Collection PC|PC]], [[Collection S|S]], [[Collection UPS|UPS]], [[Collection W|W]]. – Only 20 sets issued.
 *Ref*.: IH 2: 40; KR p. 48, 51.

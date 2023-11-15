@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection M|M]] (10.000 fungi). – Exsiccatae, with Johann Nepomuk Schnabl (1890-1900), *Fungi bavarici exsiccati*: [[Collection B|B]], [[Collection BUC|BUC]], [[Collection C|C]], [[Collection FH|FH]] (including "undistributed" material), [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]]. – For a list of types of taxa described by A. see A. Bresinsky (1973), lichens coll. by A. in [[Collection M|M]], some dupl. at [[Collection HBG|HBG]].
+[[Collection M|M]] (10.000 fungi).
+*Exsiccatae*, with Johann Nepomuk Schnabl (1890-1900), *Fungi bavarici exsiccati*: [[Collection B|B]], [[Collection BUC|BUC]], [[Collection C|C]], [[Collection FH|FH]] (including "undistributed" material), [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]]. – For a list of types of taxa described by A. see A. Bresinsky (1973), lichens coll. by A. in [[Collection M|M]], some dupl. at [[Collection HBG|HBG]].
 
 #### Bibliography and biography
 
@@ -34,8 +35,8 @@ Mitt. Bot. Staatssamml. München 11: 35. 1973.
 
 #### Composite works
 
-(1) With P. Hennings, *Pilze aus dem Umanakdistrikt*, *in* Bot. Erg.... Grönlandsexp., Bibl. bot. 42: 40-54. 1899.
-(2) *Fungi imperfecti*, *in* Rabenh. Krypt.-Fl. ed. 2. 1(6): ii-viii, \[1\]-1016. 1901, 1(7): \[ii\]-viii, \[1\]-1072. 1903; also in IDC 5399 (nos. 122-141).
+- (1) With P. Hennings, *Pilze aus dem Umanakdistrikt*, *in* Bot. Erg.... Grönlandsexp., Bibl. bot. 42: 40-54. 1899.
+- (2) *Fungi imperfecti*, *in* Rabenh. Krypt.-Fl. ed. 2. 1(6): ii-viii, \[1\]-1016. 1901, 1(7): \[ii\]-viii, \[1\]-1072. 1903; also in IDC 5399 (nos. 122-141).
 
 ### Publications
 

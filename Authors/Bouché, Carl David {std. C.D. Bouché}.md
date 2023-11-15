@@ -25,11 +25,11 @@ AG 2(1): 758; Barnhart 1: 228; BM 1: 211; CSP 1: 514-515; Hortus 3: 1189; IH 2: 
 
 #### Composite works
 
-(1) Co-author with C.S. Kunth and H.I. Link, *Plantae novae horti regii botanici berolinensis* \[1844\], see sub C.S. Kunth, TL-2/4010.
-(2) Co-author with A.C.H. Braun and J.F. Klotzsch, *Species novae et minus cognitae* 1851/1852, see sub Klotsch, TL-2/3735.
-(3) Co-author with A. Braun, J.F. Klotzsch, and K.H.E. Koch, *Appendix specierum novarum* 1853, see TL-2/3737.
-(4) Co-author with K.H.E. Koch et al., *Appendix generum et specierum novarum* 1854, see TL-2/3738.
-(5) Co-author with A.C.H. Braun, P.F.A. Ascherson and K.H.E. Koch, *Appendix plantarum novarum* 1872, see TL-2/3795.
+- (1) Co-author with C.S. Kunth and H.I. Link, *Plantae novae horti regii botanici berolinensis* \[1844\], see sub C.S. Kunth, TL-2/4010.
+- (2) Co-author with A.C.H. Braun and J.F. Klotzsch, *Species novae et minus cognitae* 1851/1852, see sub Klotsch, TL-2/3735.
+- (3) Co-author with A. Braun, J.F. Klotzsch, and K.H.E. Koch, *Appendix specierum novarum* 1853, see TL-2/3737.
+- (4) Co-author with K.H.E. Koch et al., *Appendix generum et specierum novarum* 1854, see TL-2/3738.
+- (5) Co-author with A.C.H. Braun, P.F.A. Ascherson and K.H.E. Koch, *Appendix plantarum novarum* 1872, see TL-2/3795.
 
 #### Eponymy
 

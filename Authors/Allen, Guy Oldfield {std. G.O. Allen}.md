@@ -10,7 +10,8 @@ Allen, Guy Oldfield (1883-1963), British algologist.
 
 #### Herbarium and types
 
-[[Collection BM|BM]]. – Further material of Charophyta from India in [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection K|K]], [[Collection MO|MO]]. – Exsiccatae:
+[[Collection BM|BM]]. – Further material of Charophyta from India in [[Collection CGE|CGE]], [[Collection FH|FH]], [[Collection K|K]], [[Collection MO|MO]].
+*Exsiccatae*:
 1. *Charophyta indica* (fasc. 1, nos. 1-14, 1927), sets at [[Collection BM|BM]], [[Collection E|E]] and [[Collection FH|FH]], and possibly at [[Collection CGE|CGE]] and [[Collection MO|MO]]; and
 2. *British Charophyta* (slide series 1, nos. 1-24, 1949), set at [[Collection BM|BM]]. Duplicates of especially Indian species were also distributed with labels "Ex Herb. G. O. Allen."
 *Ref*.: IH 1(ed. 6): 355, 2: 32.

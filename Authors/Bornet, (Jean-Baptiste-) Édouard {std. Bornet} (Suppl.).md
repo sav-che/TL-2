@@ -45,10 +45,10 @@ AG 3: 559, 12(3): 136; Barnhart 1: 223 (further refs.); BJI 1: 6; BM 1: 203; Bos
 
 #### Composite works
 
-(1) *Notice biographique* \[de\] *J. Decaisne*, *in* M.J. Vesque, *Catalogue de la bibliothèque de feu M.J. Decaisne*, Paris 1883, see also TL-2/6: 715, CW (2).
-(2) Contributed to V. Wittrock and O. Nordstedt, *Algae aquae dulcis exsiccatae*... fasc. 16: no. 787. 1886, 32: no. 1540, 1543. 1903, see also Bot. Not. 1886: 137 and V.B. Wittrock, Nordstedt and Lagerheim, *Algae*... *exsicc*. 21: 49. 1889, 35: 25. 1903 (see also KR p. 98, Bornet no. 1.
-(3) Bornet published G. Thuret, *Études phycologiques* 1878, see TL-2/14.442 (6: 337).
-(4) Contributed to E. Askenasy, *in* A. Engler, *Forschungsreise Gazelle*, (b) *Algen*. Sep 1888, see TL-2/1705(b) and G.H.O.W. Hieronymus, Bot. Zeit. 47(9): 317-318. 10 Mai 1889.
+- (1) *Notice biographique* \[de\] *J. Decaisne*, *in* M.J. Vesque, *Catalogue de la bibliothèque de feu M.J. Decaisne*, Paris 1883, see also TL-2/6: 715, CW (2).
+- (2) Contributed to V. Wittrock and O. Nordstedt, *Algae aquae dulcis exsiccatae*... fasc. 16: no. 787. 1886, 32: no. 1540, 1543. 1903, see also Bot. Not. 1886: 137 and V.B. Wittrock, Nordstedt and Lagerheim, *Algae*... *exsicc*. 21: 49. 1889, 35: 25. 1903 (see also KR p. 98, Bornet no. 1.
+- (3) Bornet published G. Thuret, *Études phycologiques* 1878, see TL-2/14.442 (6: 337).
+- (4) Contributed to E. Askenasy, *in* A. Engler, *Forschungsreise Gazelle*, (b) *Algen*. Sep 1888, see TL-2/1705(b) and G.H.O.W. Hieronymus, Bot. Zeit. 47(9): 317-318. 10 Mai 1889.
 
 ### Publications
 

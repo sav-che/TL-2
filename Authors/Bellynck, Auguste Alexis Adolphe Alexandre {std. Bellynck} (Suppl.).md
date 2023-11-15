@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection NAM|NAM]]. – Further material in [[Collection LG|LG]], [[Collection W|W]]. – *Exsiccatae*: *Cryptogames recueillies dans la Province de Namur*, cent. 1-2, Namur 1853, see also G. Sayre, Mem. New York bot. Gard. 19(1): 8. 1969.
+[[Collection NAM|NAM]]. – Further material in [[Collection LG|LG]], [[Collection W|W]].
+*Exsiccatae*: *Cryptogames recueillies dans la Province de Namur*, cent. 1-2, Namur 1853, see also G. Sayre, Mem. New York bot. Gard. 19(1): 8. 1969.
 
 #### Bibliography and biography
 

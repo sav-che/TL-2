@@ -10,7 +10,8 @@ Berkeley, Rev. Miles Joseph (1803-1889), British clergyman and cryptogamist.
 
 #### Herbarium and types
 
-Berkeley's private herbarium and manuscripts of fungi are at [[Collection K|K]], correspondence and drawings of algae at [[Collection BM|BM]]. Further specimens at [[Collection CGE|CGE]], [[Collection E|E]], [[Collection L|L]], [[Collection LINN|LINN]], [[Collection MICH|MICH]], [[Collection OXF|OXF]] and [[Collection PC|PC]]. The collections on which the *Decades of fungi* are based and which were not part of the private herbarium are also at [[Collection K|K]]. – *Exsiccatae*: *British Fungi* (4 fasc., 1836-1843) sets at [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection K|K]], [[Collection PC|PC]].
+Berkeley's private herbarium and manuscripts of fungi are at [[Collection K|K]], correspondence and drawings of algae at [[Collection BM|BM]]. Further specimens at [[Collection CGE|CGE]], [[Collection E|E]], [[Collection L|L]], [[Collection LINN|LINN]], [[Collection MICH|MICH]], [[Collection OXF|OXF]] and [[Collection PC|PC]]. The collections on which the *Decades of fungi* are based and which were not part of the private herbarium are also at [[Collection K|K]].
+*Exsiccatae*: *British Fungi* (4 fasc., 1836-1843) sets at [[Collection BM|BM]], [[Collection E|E]], [[Collection FH|FH]], [[Collection K|K]], [[Collection PC|PC]].
 *Ref*.: BB p. 31; IH 1 (ed. 6): 356, 2: 70.
 - Anon., J. Bot. 17: 32. 1879.
 - Clokie, Account herbaria Oxford 131. 1964.
@@ -45,12 +46,12 @@ Barnhart 1: 171; BB p. 31; BM 1: 144, 6: 83; Bossert p. 34; CSP 1: 295-297, 7: 1
 
 #### Composite works
 
-(1) *United States Exploring Expedition* \[Wilkes\], vol. 17, Botany I. Lower Cryptogamia, *Fungi* by M. A. Curtis and M.J. Berkeley on p. 193-202, publ. 1862.
-(2) Griffith and Henry, *The micrographie dictionary*. Berkeley assisted with ed. 3, 1875, and was co-editor for the fourth edition (1883).
-(3) Naves, *Narrative of a Voyage to the Polar Sea*, ed. 2, vol. 2, app. 14, Fungi collected during the 1875-1876 expedition by M.J. Berkeley (1878).
-(4) Smith, *The English flora*, vol. 5, Cryptogamia part 2, Fungi by M.J. Berkeley 1836 (see J. E. Smith and also W. J. Hooker, *British flora*, of which this treatment is part of vol. 2).
-(5) Cooke, *Fungi*, London 1875, edited by M. J. Berkeley.
-(6) *Journal of the Royal Horticultural Society*, London, editor 1866-1877.
+- (1) *United States Exploring Expedition* \[Wilkes\], vol. 17, Botany I. Lower Cryptogamia, *Fungi* by M. A. Curtis and M.J. Berkeley on p. 193-202, publ. 1862.
+- (2) Griffith and Henry, *The micrographie dictionary*. Berkeley assisted with ed. 3, 1875, and was co-editor for the fourth edition (1883).
+- (3) Naves, *Narrative of a Voyage to the Polar Sea*, ed. 2, vol. 2, app. 14, Fungi collected during the 1875-1876 expedition by M.J. Berkeley (1878).
+- (4) Smith, *The English flora*, vol. 5, Cryptogamia part 2, Fungi by M.J. Berkeley 1836 (see J. E. Smith and also W. J. Hooker, *British flora*, of which this treatment is part of vol. 2).
+- (5) Cooke, *Fungi*, London 1875, edited by M. J. Berkeley.
+- (6) *Journal of the Royal Horticultural Society*, London, editor 1866-1877.
 
 #### Eponymy
 

@@ -32,11 +32,11 @@ Barnhart 1: 162; BB p. 28; BL 2: 233, 557, 566; BM 1: 135; Clokie p. 130; CSP 7:
 
 #### Composite works
 
-(1), (2), and (3) see TL-2/1: 171.
-(4) J. Sachs, *Textbook of botany*... translated and annotated by A.W. Bennett, assisted by W.T. Thiselton-Dyer, Oxford 1875, see TL-2/9954.
-(5) Editor of English version of J. Seboth, *Die Alpenpflanzen* (the *Alpine plants*), 1879-1884, see TL-2/5: 470 (no. 11.586). "*Alpine plants painted from nature*".
-(6) Warming, E., *Symbolae* 28: 280-283. 10 Mar 1883 (Hydroleaceae, Polygalaceae).
-(7) Translated and edited The *Tourist's Guide to the flora of the Alps* (1886) by K.W. v. Dalla Torre.
+- (1), (2), and (3) see TL-2/1: 171.
+- (4) J. Sachs, *Textbook of botany*... translated and annotated by A.W. Bennett, assisted by W.T. Thiselton-Dyer, Oxford 1875, see TL-2/9954.
+- (5) Editor of English version of J. Seboth, *Die Alpenpflanzen* (the *Alpine plants*), 1879-1884, see TL-2/5: 470 (no. 11.586). "*Alpine plants painted from nature*".
+- (6) Warming, E., *Symbolae* 28: 280-283. 10 Mar 1883 (Hydroleaceae, Polygalaceae).
+- (7) Translated and edited The *Tourist's Guide to the flora of the Alps* (1886) by K.W. v. Dalla Torre.
 
 ### Publications
 

@@ -24,11 +24,11 @@ Barnhart 1: 240; BFM see no. 10; BJI 1: 6, 2: 17-18; BM 1: 120; CSP 13: 763; DTS
 
 #### Composite works
 
-(1) and (2) see TL-2/1: 302.
-(3) *Editor* (with Ernst Hallier and R. Wohlfarth) of W.D.J. Koch, *Syn. deut. schweiz. Fl. *1892-1907, see TL-2/3804.
-(4) *Editor* of Ernst Huth, *Fl. Frankfurt a. O.*, ed. 3, 1909, see TL-2/3168.
-(5) *Symplocaceae*, *in* R. Pilger, *Plantae Uleanae novae vel minus cognitae*, Notizbl. Kön. bot. Gart. Mus. Berlin-Dahlem 55: 172. 4 Apr 1914.
-(6) *Convolvulaceae*, *in* E.H. Hallier, *Syn. deut. schweiz. Fl.* p. 1977-1990. Apr 1902.
+- (1) and (2) see TL-2/1: 302.
+- (3) *Editor* (with Ernst Hallier and R. Wohlfarth) of W.D.J. Koch, *Syn. deut. schweiz. Fl. *1892-1907, see TL-2/3804.
+- (4) *Editor* of Ernst Huth, *Fl. Frankfurt a. O.*, ed. 3, 1909, see TL-2/3168.
+- (5) *Symplocaceae*, *in* R. Pilger, *Plantae Uleanae novae vel minus cognitae*, Notizbl. Kön. bot. Gart. Mus. Berlin-Dahlem 55: 172. 4 Apr 1914.
+- (6) *Convolvulaceae*, *in* E.H. Hallier, *Syn. deut. schweiz. Fl.* p. 1977-1990. Apr 1902.
 
 ### Publications
 

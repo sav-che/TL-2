@@ -23,14 +23,14 @@ Barnhart 1: 227 (b. 4 Mar 1850, Lucca, d. 6 Sep 1931, Bagni di Lucca); BM 1: 210
 
 #### Composite works
 
-(1) With Gustavo Venturi, *Enumerazione critica dei muschi italiani*... Varese 1884, TL-2/16.014. − Brief review by T. Husnot, Rev. bryol. 11(5): 78. 1884.
-(2) With G. Arcangeli and L. Macchiati, *Prima contribuzione alla flora briologica della Calabria*, Atti Soc. crittogamol. Ital. 3(Disp. 2): 105-119. 1883, also as reprint p. \[1\]-15. − See A. Geheeb, Bot. Centralbl. 12(51): 412. 11-15. 1882, 13(2): 47. 1-5 Jan 1883 \[sic\] (rev.).
-(3) With Carlo Fitzgerald \[unknown to us\], *Prodromo della Briologia dei bacini del Serchio e della Magra*, Nuovo Giorn. bot. ital. 13(2): 23-122. Apr 1881. − See A. Geheeb, Bot. Centralbl. 7(28): 34-35. 1881, also footnote on p. 35. − Further reviews: Anon., Rev. bryol. 8(3): 50-51. 1881, 9(1): 4-5. 1882.
+- (1) With Gustavo Venturi, *Enumerazione critica dei muschi italiani*... Varese 1884, TL-2/16.014. − Brief review by T. Husnot, Rev. bryol. 11(5): 78. 1884.
+- (2) With G. Arcangeli and L. Macchiati, *Prima contribuzione alla flora briologica della Calabria*, Atti Soc. crittogamol. Ital. 3(Disp. 2): 105-119. 1883, also as reprint p. \[1\]-15. − See A. Geheeb, Bot. Centralbl. 12(51): 412. 11-15. 1882, 13(2): 47. 1-5 Jan 1883 \[sic\] (rev.).
+- (3) With Carlo Fitzgerald \[unknown to us\], *Prodromo della Briologia dei bacini del Serchio e della Magra*, Nuovo Giorn. bot. ital. 13(2): 23-122. Apr 1881. − See A. Geheeb, Bot. Centralbl. 7(28): 34-35. 1881, also footnote on p. 35. − Further reviews: Anon., Rev. bryol. 8(3): 50-51. 1881, 9(1): 4-5. 1882.
 
 #### Notes
 
-(1) Thesis for Dr. phil. Pisa: *Richerche briologiche nell'Isola d'Elba*. Con una nota sul Fissidens serrulatus Brid., Pisa 1886, 46 p. (n.v.), see F. Gravet, Rev. bryol. 13(6): 109. 1886.
-(2) A. Bottini, *Bibliografia briologica italiana*, Mem. Atti Soc. Tosc. Sci. nat., Pisa 12: 257-292. 1892. − Also issued separately Pisa 1892, 40 p. (see Rev. bryol. 20(3): 61. 1893).
+- (1) Thesis for Dr. phil. Pisa: *Richerche briologiche nell'Isola d'Elba*. Con una nota sul Fissidens serrulatus Brid., Pisa 1886, 46 p. (n.v.), see F. Gravet, Rev. bryol. 13(6): 109. 1886.
+- (2) A. Bottini, *Bibliografia briologica italiana*, Mem. Atti Soc. Tosc. Sci. nat., Pisa 12: 257-292. 1892. − Also issued separately Pisa 1892, 40 p. (see Rev. bryol. 20(3): 61. 1893).
 
 ### Publications
 

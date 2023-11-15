@@ -48,7 +48,7 @@ Barnhart 1: 105; BM 1: 86; Bossert p. 21; CSP 1: 155-156, 6: 574, 9: 98; DAB 1: 
 
 #### Composite works
 
-(1) With Harvey, *Algae*, *in* U.S. Exploring Exped. 1838-1842 under command of Charles Wilkes, vol. 17 (Botany): 153-192, *pl. 1-9*, see TL-2/1: 94 (no. 239).
+- (1) With Harvey, *Algae*, *in* U.S. Exploring Exped. 1838-1842 under command of Charles Wilkes, vol. 17 (Botany): 153-192, *pl. 1-9*, see TL-2/1: 94 (no. 239).
 
 ### Publications
 

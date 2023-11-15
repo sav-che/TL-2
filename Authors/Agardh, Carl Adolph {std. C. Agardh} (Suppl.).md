@@ -63,11 +63,11 @@ Barnhart 1: 19 (b. 13 Jan 1785, d. 28 Jan 1859); BM 1: 15; Bossert p. 4; CSP 1: 
 
 #### Composite works
 
-(1) see TL-2/4613, A.E. Lindblom, *Stirp. agri rotnov.* 1828, thesis defended under C.A. Agardh but to be attributed to Lindblom.
-(2) Contributed data on *Algae* to J.W. Palmstruck et al., *Svensk botanik* (TL-2/7247; plates of diatoms listed by S.L. VanLandingham, Catal. Diat. 7: 4146. 1978).
-(3) Contributed *Algae* to C.S. Kunth, Syn. pl. 1: 1-6. 1822 (TL-2/3998).
-(4) Contributed *Algae* to K.B. Presl, *Reliq. haenk.* 1(1): 8-12. 1825, see C.B. Presl, TL-2/8291.
-(5) Contributed *Algae* to C. Gaudichaud-Beaupré, Voy. Uranie 147-160, *pl. 31-40.* 13 Jan 1827, 161- 165. 12 Sep 1827, see TL-2/1968.
+- (1) see TL-2/4613, A.E. Lindblom, *Stirp. agri rotnov.* 1828, thesis defended under C.A. Agardh but to be attributed to Lindblom.
+- (2) Contributed data on *Algae* to J.W. Palmstruck et al., *Svensk botanik* (TL-2/7247; plates of diatoms listed by S.L. VanLandingham, Catal. Diat. 7: 4146. 1978).
+- (3) Contributed *Algae* to C.S. Kunth, Syn. pl. 1: 1-6. 1822 (TL-2/3998).
+- (4) Contributed *Algae* to K.B. Presl, *Reliq. haenk.* 1(1): 8-12. 1825, see C.B. Presl, TL-2/8291.
+- (5) Contributed *Algae* to C. Gaudichaud-Beaupré, Voy. Uranie 147-160, *pl. 31-40.* 13 Jan 1827, 161- 165. 12 Sep 1827, see TL-2/1968.
 
 #### Manuscripts and correspondence
 

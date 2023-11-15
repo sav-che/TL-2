@@ -29,7 +29,7 @@ Barnhart 1: 15; BJI 2: 2; BL 1: 28, 71, 2: 243, 271; Clokie p. 126; Desmond p. 4
 
 #### Composite works
 
-(1) Co-editor and principal contributor to *The Flora of the Cape Peninsula* (1950).
+- (1) Co-editor and principal contributor to *The Flora of the Cape Peninsula* (1950).
 
 #### Note
 

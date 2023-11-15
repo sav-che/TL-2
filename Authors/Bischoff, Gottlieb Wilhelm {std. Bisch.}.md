@@ -10,7 +10,8 @@ Bischoff, Gottlieb Wilhelm (1797-1854), German botanist, lexicographer and gloss
 
 #### Herbarium and types
 
-collections at [[Collection B|B]], [[Collection HEID|HEID]], [[Collection LZ|LZ]], [[Collection M|M]]. – *Exsiccatae*: *Herbarium normale plantarum officinalium et mercatorium*, 2 sets, the second issued 1856 by von Schlechtendal. Bischoff's herbarium was sold by public auction on 21 Jul 1856. Grumman mentions plants at the Museum of Bad Dürkheim, Bischoff's birthplace.
+collections at [[Collection B|B]], [[Collection HEID|HEID]], [[Collection LZ|LZ]], [[Collection M|M]].
+*Exsiccatae*: *Herbarium normale plantarum officinalium et mercatorium*, 2 sets, the second issued 1856 by von Schlechtendal. Bischoff's herbarium was sold by public auction on 21 Jul 1856. Grumman mentions plants at the Museum of Bad Dürkheim, Bischoff's birthplace.
 *Ref*.: GR p. 6; IH 2: 76.
 - Anon., Bot. Zeit. 14: 463-464, 496. 1856 (sale of herb.).
 - Anon., Bonplandia 6: 342. 1858.

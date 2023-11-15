@@ -21,7 +21,7 @@ Barnhart 1: 202 (b. 12 Sep 1872, Rockford, Ill., d. 4 Mar 1926, N.Y. City); BL 1
 
 #### Composite works
 
-(1) Co-author of F. Shreve et al., *The plant life of Maryland*, Baltimore 1910, see TL-2/11.915.
+- (1) Co-author of F. Shreve et al., *The plant life of Maryland*, Baltimore 1910, see TL-2/11.915.
 
 ### Publications
 

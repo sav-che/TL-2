@@ -28,10 +28,10 @@ AG 6(2): 738; Barnhart 1: 211 (b. 9 Oct 1856, Granville, Manche); BFM 2909; BL 1
 
 #### Composite works
 
-(1) Co-author with Auguste Pailleux, *Le potager d'un curieux* 1885, see TL-2/7190.
-(2) Co-author with Maurice de Vilmorin, *Fruticetum vilmorinianum* 1904, see TL-2/16.195. − Additional copy seen: U.
-(3) *Les produits coloniaux*. Origine, production, commerce... 1912. Oct. See under Capus.
-(4) Junior co-author of S. Costantin, *La végétation du Sud-ouest de Madagascar*... Orléans 1907. Oct. See under S. Costantin.
+- (1) Co-author with Auguste Pailleux, *Le potager d'un curieux* 1885, see TL-2/7190.
+- (2) Co-author with Maurice de Vilmorin, *Fruticetum vilmorinianum* 1904, see TL-2/16.195. − Additional copy seen: U.
+- (3) *Les produits coloniaux*. Origine, production, commerce... 1912. Oct. See under Capus.
+- (4) Junior co-author of S. Costantin, *La végétation du Sud-ouest de Madagascar*... Orléans 1907. Oct. See under S. Costantin.
 
 ### Publications
 

@@ -20,7 +20,7 @@ SK 4: 47, cv.
 
 #### Composite works
 
-(1) Krebs, F.L., *Vollständige Beschreibung und Abbildung der sämmtlichen Holzarten*, Braunschweig 1826-1835, 35 fasc., *149 pl*., of which *pl. 43b-138* (8-24 fasc.), 1828-1832 by A., see TL-2/3928.
-(2) Blume, C.L., *Flora Javae* (esp. plates in period 1829 – ca. 1834), see TL-2/563.
-(3) Blume, C.L., *Rumphia* (occasional contributions), see TL-2/566.
+- (1) Krebs, F.L., *Vollständige Beschreibung und Abbildung der sämmtlichen Holzarten*, Braunschweig 1826-1835, 35 fasc., *149 pl*., of which *pl. 43b-138* (8-24 fasc.), 1828-1832 by A., see TL-2/3928.
+- (2) Blume, C.L., *Flora Javae* (esp. plates in period 1829 – ca. 1834), see TL-2/563.
+- (3) Blume, C.L., *Rumphia* (occasional contributions), see TL-2/566.
 

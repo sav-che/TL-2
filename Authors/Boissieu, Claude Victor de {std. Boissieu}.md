@@ -45,8 +45,8 @@ Barnhart 1: 211, 381: 189; Jackson p. 226; Kew 1: 285; NI 191; Plesch p. 147; PR
 
 *Copies*: B, G, L, NY.
 *Issues*: (1) "grand raisin fin" octavo; *copies*: B, L.
-(2) "grand raisin superfin" octavo.
-(3) "papler vélin, " quarto; *copy*: NY.
+- (2) "grand raisin superfin" octavo.
+- (3) "papler vélin, " quarto; *copy*: NY.
 The plates are usually arranged in numerical order. There are three engraved t.p.'s (by J. J. de Boissieu). The original plan was to issue 600-700 plates in volumes of 100 plates. The plates are uncoloured copper engravings.
 The title given above is that of the engraved title pages. The covers had in addition:
 "Ouvrage destiné à servir de supplément à tous des livres élémentaires de botanique, à toutes les descriptions, à toutes les flores particulières de tous les pays de l'Europe, et à l'aide duquel on peut facilement acquérir la connaissance d'un grand nombre de plantes et une parfaite intelligence du language botanique." – PR reports the presence of all 660 plates in the Delessert library (now Institut de France). Each plate is accompanied by 1 or 2 pages of text. – Magnin states that, although the *Flore d'Europe* carries Boissieu's name, it was the work of several collaborators: Auger, Dujat d'Ambérieu, Hubert de Saint-Didier, and Dumarché.

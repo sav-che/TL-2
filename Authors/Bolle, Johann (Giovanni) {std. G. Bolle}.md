@@ -16,5 +16,5 @@ Kew 1: 289; LS 3252-3263, 31.316-31.329; LS suppl. 3129-3130; Morren ed. 10, p. 
 
 #### Composite works
 
-(1) Senior author with F. Thümen of *Contribuzioni allo studio dei funghi del Litorale* 1877-1885, see TL-2/14.313. − Reviews by N.L., Bot. Zeit. 36(21): 336. 24 Mai 1878, 39: 483. 1881.
+- (1) Senior author with F. Thümen of *Contribuzioni allo studio dei funghi del Litorale* 1877-1885, see TL-2/14.313. − Reviews by N.L., Bot. Zeit. 36(21): 336. 24 Mai 1878, 39: 483. 1881.
 

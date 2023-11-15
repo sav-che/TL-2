@@ -10,7 +10,8 @@ Allen, John Alphaeus (1863-1916), American bryologist.
 
 #### Herbarium and types
 
-[[Collection NY|NY]] — Allen also collected for [[Collection GH|GH]]; see IH for further sets of duplicates. *Exsiccatae*: *Mosses of the Cascade Mountains, Washington* (nos. 1-147, Cambridge 1900), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection F|F]], [[Collection FH|FH]], [[Collection LE|LE]], [[Collection NY|NY]], [[Collection US|US]], [[Collection WELC|WELC]].
+[[Collection NY|NY]] — Allen also collected for [[Collection GH|GH]]; see IH for further sets of duplicates.
+*Exsiccatae*: *Mosses of the Cascade Mountains, Washington* (nos. 1-147, Cambridge 1900), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection F|F]], [[Collection FH|FH]], [[Collection LE|LE]], [[Collection NY|NY]], [[Collection US|US]], [[Collection WELC|WELC]].
 *Ref*.: IH 1 (ed. 6): 355, 2: 32.
 - Day, Rhodora 3: 219. 1901.
 - Nichols, Bryologist 17: 30. 1914.

@@ -29,5 +29,5 @@ ADB 47: 182-184; Barnhart 1: 241 (b. 25 Mai 1802, Jüterborgh, d. 3/15 Jul 1879 
 
 #### Composite works
 
-(1) Continued F.G. Hayne, *Getreue Darstell. Gew.* 1805-1846, see TL-2/2508.
+- (1) Continued F.G. Hayne, *Getreue Darstell. Gew.* 1805-1846, see TL-2/2508.
 

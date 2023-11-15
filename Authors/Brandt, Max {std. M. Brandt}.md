@@ -22,8 +22,8 @@ Barnhart 1: 241 (b. 17 Sep 1884, Rüsselsheim a. M., d. 29 Nov 1914, killed in b
 
 #### Composite works
 
-(1) With Ernst Gilg (senior author), *Vitaceae africanae*, Bot. Jahrb. 46: 415-558. 1911.
-(2) Contributed to J. Mildbread et al., *Wiss. Erg. deut. Zentr.-Afr. Exped., Bot.* 1914, see TL-2/6008.
+- (1) With Ernst Gilg (senior author), *Vitaceae africanae*, Bot. Jahrb. 46: 415-558. 1911.
+- (2) Contributed to J. Mildbread et al., *Wiss. Erg. deut. Zentr.-Afr. Exped., Bot.* 1914, see TL-2/6008.
 
 #### Note
 

@@ -10,7 +10,8 @@ Bellynck, August Alexis Adolphe Alexandre (1814-1877), Belgian jesuit and crypto
 
 #### Herbarium and types
 
-[[Collection NAM|NAM]]. – *Exsiccatae*: *Cryptogames recueillis dans la Province de Namur * (cent. i-ii, nos. 1-200, Namur 1852), sets at [[Collection LG|LG]], [[Collection NAM|NAM]], [[Collection W|W]].
+[[Collection NAM|NAM]].
+*Exsiccatae*: *Cryptogames recueillis dans la Province de Namur * (cent. i-ii, nos. 1-200, Namur 1852), sets at [[Collection LG|LG]], [[Collection NAM|NAM]], [[Collection W|W]].
 *Ref*.: IH 2: 67.
 - Bellynck, Bull. Acad. Sci. Bruxelles 19: 45-81. 1852.
 - Sayre, Mem. New York Bot. Gard. 19(1): 8. 1969.

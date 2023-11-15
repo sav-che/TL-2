@@ -29,8 +29,8 @@ AG 12(3): 364; Barnhart 1: 148 (b. 20 Mar 1867); BFM 962; BJI 2: 7; BL 2: 627 (i
 
 #### Composite works
 
-(1) *Bulletin de l'Herbier Boissier, ser. 2*, 8 vols., 1901-1908, as well as *Mémoires* id., 1 vol., 1900, G. Beauverd editor, W. Barbey sponsor.
-(2) *Index botanique universel des genres, espèces et variétés de plantes* parus depuis le 1er Janvier 1901; editor G. Beauverd, sponsor W. Barbey, nos. 1-17199 published 1902-1906 as a supplement to the *Bull. Herb. Boissier.* – See TL-2/298.
+- (1) *Bulletin de l'Herbier Boissier, ser. 2*, 8 vols., 1901-1908, as well as *Mémoires* id., 1 vol., 1900, G. Beauverd editor, W. Barbey sponsor.
+- (2) *Index botanique universel des genres, espèces et variétés de plantes* parus depuis le 1er Janvier 1901; editor G. Beauverd, sponsor W. Barbey, nos. 1-17199 published 1902-1906 as a supplement to the *Bull. Herb. Boissier.* – See TL-2/298.
 
 #### Note
 

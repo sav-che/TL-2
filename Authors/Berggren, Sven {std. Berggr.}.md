@@ -10,7 +10,8 @@ Berggren, Sven (1837-1917), Swedish botanist at Lund, travelled to and collected
 
 #### Herbarium and types
 
-[[Collection LD|LD]] – for details on the location of his duplicates see IH. – Exsiccatae: *Plantae in itineribus suecorum polaribus collectae/Insulae spetsbergenses* (nos. 1-199, Lund 1874), at [[Collection B|B]], [[Collection C|C]], [[Collection FH|FH]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]]-PA.
+[[Collection LD|LD]] – for details on the location of his duplicates see IH.
+*Exsiccatae*: *Plantae in itineribus suecorum polaribus collectae/Insulae spetsbergenses* (nos. 1-199, Lund 1874), at [[Collection B|B]], [[Collection C|C]], [[Collection FH|FH]], [[Collection GB|GB]], [[Collection H|H]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection NY|NY]], [[Collection PC|PC]], [[Collection S|S]]-PA.
 *Ref*.: IH 2: 69.
 - Hellbom, Bih. Sv. Vet.-akad. Handl. 21(3, 13) 1896.
 - Sayre, Mem. New York Bot. Gard. 19(2): 183. 1971.

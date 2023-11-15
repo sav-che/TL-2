@@ -30,7 +30,7 @@ Barnhart 1: 215 (b. 21 Nov 1873, Strasbourg, d. 2 Feb 1927, Lure, Haute-Saône);
 
 #### Composite works
 
-(1) Contributed to H. Lecomte, *Fl. gén. Indo-Chine*, *Primulaceae*, *in* 3(6): 753-764. 1930, *Solanaceae*, *in* 4(3): 313-336. Sep 1915, and 4(4): 337-341. Jan 1927. − Rev. G. Beauverd, Bot. Centralbl. 128(9): 246. 2 Mar 1915.
+- (1) Contributed to H. Lecomte, *Fl. gén. Indo-Chine*, *Primulaceae*, *in* 3(6): 753-764. 1930, *Solanaceae*, *in* 4(3): 313-336. Sep 1915, and 4(4): 337-341. Jan 1927. − Rev. G. Beauverd, Bot. Centralbl. 128(9): 246. 2 Mar 1915.
 
 ### Publications
 

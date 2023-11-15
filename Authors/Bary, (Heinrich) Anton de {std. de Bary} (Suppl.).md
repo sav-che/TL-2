@@ -72,7 +72,7 @@ Ainsworth p. 339 (index, 37 entries); Barnhart 1: 134 (b. 26 Jan 1831, Frankfurt
 #### Note (1)
 
 De Bary's first publication was: *Beitrag zur Kenntnis der Achlya prolifera*, Bot. Zeit. 10(28): 473-479, *pl. 7.* 9 Jul, 10(29): 489-496. 16 Jul, 10(30): 505-511. 23 Jul 1852.
-(2) A set of photos of preparations made by de Bary was published in 1893: *Mikro-Photographien* nach botanischen Präparaten von A. de Bary... photographisch aufgenommen in der mikro-photographischen Anstalt von Jul. Grimm in Offenburg (Baden). I. Heft, p. \[i\], \[iii, list of names for the photos\], microphotos 1-10. *Copy*: U. − We have found no continuation of this enterprise.
+- (2) A set of photos of preparations made by de Bary was published in 1893: *Mikro-Photographien* nach botanischen Präparaten von A. de Bary... photographisch aufgenommen in der mikro-photographischen Anstalt von Jul. Grimm in Offenburg (Baden). I. Heft, p. \[i\], \[iii, list of names for the photos\], microphotos 1-10. *Copy*: U. − We have found no continuation of this enterprise.
 
 ### Publications
 
@@ -222,13 +222,12 @@ De Bary's first publication was: *Beitrag zur Kenntnis der Achlya prolifera*, Bo
 *Second edition*: 1864, as *Vergleichende Morphologie und Biologie der Pilze, Mycetozoen und Bacterien*, Leipzig 1884, see TL-2/335. − Prantl no. 86.
 *Russian translation* (n.v.) Jan-Feb 1872, translated by "Frau M.W.L.", preface by A. Beketoff, see Bot. Zeit. 30(11): 183. 15 Mar 1872.
 *French and English translations* of some chapters:
-(1) *De la génération sexuelle dans les Champignons*. Ann Sci. nat., Bot. ser. 5. 5: 343-367.
-*pl. 12.* 1866.
-(2) *On Saprolegniae*, Grevillea 1: 117-120. 1873.
-(3) *On sexual reproduction in the Perenosporeae*, ib. p. 150-152.
-(4) *On sexual reproduction in the Erysiphei*, ib. p. 152-154.
-(5) *On sexual reproduction in the Erysiphei*, ib. p. 167-168.
-(6) *On Cystidia*, ib. p. 181-183.
+- (1) *De la génération sexuelle dans les Champignons*. Ann Sci. nat., Bot. ser. 5. 5: 343-367. *pl. 12.* 1866.
+- (2) *On Saprolegniae*, Grevillea 1: 117-120. 1873.
+- (3) *On sexual reproduction in the Perenosporeae*, ib. p. 150-152.
+- (4) *On sexual reproduction in the Erysiphei*, ib. p. 152-154.
+- (5) *On sexual reproduction in the Erysiphei*, ib. p. 167-168.
+- (6) *On Cystidia*, ib. p. 181-183.
 *English translation*: 1887, p. \[i-vii\], viii-xviii, \[xix\* err.\], \[1\]-525. *Copies*: MO, NY. − *Comparative morphology and biology of the Fungi, Mycetozoa and Bacteria*... Oxford (at the Clarendon Press) 1887; translated by Henry E.F. Garnsey, revised by Isaac Bailey Balfour.
 *Ref*.: Hoffmann, H.K.H., Bot. Zeit. 25: 46-48. 8 Feb, 53-54. 15 Feb 1867 (rev.).
 

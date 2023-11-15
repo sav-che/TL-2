@@ -10,7 +10,8 @@ Barth, Jozsef (Joseph) (1833-1915), Transsylvanian botanist.
 
 #### Herbarium and types
 
-[[Collection BP|BP]]. – Exsiccatae: *Herbarium transsylvanicum* series of phanerogams, lichens and bryophytes (ed. 1871-1888; lichens 50 nos., ed. 1873, bryophytes 100 nos., 1871, also issued as *Bryotheca transsilvanica* \[fasc. i-ii, nos. 1-100, Langenthal 1871\]), sets at [[Collection BP|BP]], [[Collection F|F]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection W|W]], [[Collection WRSL|WRSL]].
+[[Collection BP|BP]].
+*Exsiccatae*: *Herbarium transsylvanicum* series of phanerogams, lichens and bryophytes (ed. 1871-1888; lichens 50 nos., ed. 1873, bryophytes 100 nos., 1871, also issued as *Bryotheca transsilvanica* \[fasc. i-ii, nos. 1-100, Langenthal 1871\]), sets at [[Collection BP|BP]], [[Collection F|F]], [[Collection GH|GH]], [[Collection GOET|GOET]], [[Collection IBF|IBF]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection W|W]], [[Collection WRSL|WRSL]].
 *Ref*.: GR p. 655; IH 2: 57.
 - Barth, Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannst. 27: 97-98. 1877.
 - Sayre, Mem. New York Bot. Gard. 19(1): 115. 1969, 19(2): 180. 1971.

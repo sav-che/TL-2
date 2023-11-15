@@ -10,12 +10,13 @@
 
 #### Herbarium and types
 
-Herbarium up to 1885 acquired by NHES, present location unknown to us. – Further material at [[Collection B|B]], [[Collection HH (sensu TL-2)|HH]] (impt. set), [[Collection LE|LE]], [[Collection MICH|MICH]]. [[Collection MIN|MIN]], [[Collection NY|NY]] (impt. set). – *Exsiccatae*: Mosses of the Cascade Mountains, Washington (147 nos.), Cambridge 1900. – Allen collected primarily for [[Collection GH|GH]] (now [[Collection HH (sensu TL-2)|HH]]) and [[Collection NY|NY]].
+Herbarium up to 1885 acquired by NHES, present location unknown to us. – Further material at [[Collection B|B]], [[Collection HH (sensu TL-2)|HH]] (impt. set), [[Collection LE|LE]], [[Collection MICH|MICH]]. [[Collection MIN|MIN]], [[Collection NY|NY]] (impt. set).
+*Exsiccatae*: Mosses of the Cascade Mountains, Washington (147 nos.), Cambridge 1900. – Allen collected primarily for [[Collection GH|GH]] (now [[Collection HH (sensu TL-2)|HH]]) and [[Collection NY|NY]].
 
 #### Note
 
-(1) Joseph Asaph Allen (1833-1921), American mammologist and ornithologist collected also plants during his explorations. For further details see J. and N.D. Ewan, Biogr. dict. Rocky Mt. naturalists ed. 2: 4. 1981.
-(2) John Alpheus Allen (1863-1916) was the son of Oscar Dana Allen (son of Alpheus and Hanna Allen), see A.M.M. Reid (1987).
+- (1) Joseph Asaph Allen (1833-1921), American mammologist and ornithologist collected also plants during his explorations. For further details see J. and N.D. Ewan, Biogr. dict. Rocky Mt. naturalists ed. 2: 4. 1981.
+- (2) John Alpheus Allen (1863-1916) was the son of Oscar Dana Allen (son of Alpheus and Hanna Allen), see A.M.M. Reid (1987).
 
 #### Bibliography and biography
 

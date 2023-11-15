@@ -24,5 +24,5 @@ Barnhart 1: 235 (b. 23 Sep 1856, Philadelphia, d. 27 Mai 1928, id.); De Toni 4: 
 
 #### Composite works
 
-(1) C.S. Boyer, *Diatoms*, *in* N.L. Britton and C.F. Millspaugh, *Bahama flora*, New York 26 Jun 1920.
+- (1) C.S. Boyer, *Diatoms*, *in* N.L. Britton and C.F. Millspaugh, *Bahama flora*, New York 26 Jun 1920.
 

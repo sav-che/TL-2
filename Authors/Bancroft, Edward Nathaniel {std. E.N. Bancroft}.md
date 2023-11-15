@@ -22,7 +22,7 @@ Barnhart 1: 116; BB p. 18 (b. 1772); CSP 1: 75; Desmond p. 34 (b. London 1772, d
 
 #### Composite works
 
-(1) Contributed to John Lunan, *Hort. jamaic.* 1814, see TL-2/5096.
+- (1) Contributed to John Lunan, *Hort. jamaic.* 1814, see TL-2/5096.
 
 #### Eponymy
 

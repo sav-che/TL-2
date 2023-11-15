@@ -29,13 +29,13 @@ AG 2(2): 207; Barnhart 1: 69; BFM 272; CSP 13: 134 (incomplete); DTS 1: 351, 3: 
 
 #### Composite works
 
-(1) *Juncaceae, Cyperaceae* and *Gramineae, in* P. Knuth, Fl. nordfries. Ins. 1895 (not in TL-2), p. \[1-33, reprint at B\].
-(2) Edited P. Knuth, *Handbuch der Blüthenbiologie*, see reference under Knuth, TL-2/2: 585.
-(3) Contributed to *Flora exsiccata Bavaria*, Regensburg, fasc. 1-2, 1897-1898.
-(4) Senior author *in* O. Appel and H.H. Wollenweber, *Grundl. Monogr. Fusarium* 1910, TL-2/18. 180 (Nat. Nov. Oct (2) 1910).
-(5) Edited A. Thaer, *Die landwirtschaftlichen Unkräuter* ed. 4, 1923, see TL-2/14.005.
-(6) Editor, *Handbuch der Pflanzenkrankheiten* \[original author P.C.M. Sorauer, see TL-2/12.459\], ed. 6, 6 vols. 1933-1952.
-(7) Contributed to *Unsere Freiland-Nadelhölzer*, see TL-2/11.978.
+- (1) *Juncaceae, Cyperaceae* and *Gramineae, in* P. Knuth, Fl. nordfries. Ins. 1895 (not in TL-2), p. \[1-33, reprint at B\].
+- (2) Edited P. Knuth, *Handbuch der Blüthenbiologie*, see reference under Knuth, TL-2/2: 585.
+- (3) Contributed to *Flora exsiccata Bavaria*, Regensburg, fasc. 1-2, 1897-1898.
+- (4) Senior author *in* O. Appel and H.H. Wollenweber, *Grundl. Monogr. Fusarium* 1910, TL-2/18. 180 (Nat. Nov. Oct (2) 1910).
+- (5) Edited A. Thaer, *Die landwirtschaftlichen Unkräuter* ed. 4, 1923, see TL-2/14.005.
+- (6) Editor, *Handbuch der Pflanzenkrankheiten* \[original author P.C.M. Sorauer, see TL-2/12.459\], ed. 6, 6 vols. 1933-1952.
+- (7) Contributed to *Unsere Freiland-Nadelhölzer*, see TL-2/11.978.
 
 ### Publications
 

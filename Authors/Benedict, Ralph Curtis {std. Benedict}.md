@@ -25,9 +25,9 @@ Barnhart 1: 161 (b. 14 Jun 1883, Syracuse, N.Y.); BJI 2: 10; Hortus 3: 1188; IF 
 
 #### Composite works
 
-(1) *Ophioglossaceae* (with L.M. Underwood), N. Amer. Fl. 16(1): 3-13. 6 Nov 1909.
-(2) *Osmundaceae*, N. Amer. Fl. 16(1): 27-28. 6 Nov 1909.
-(3) *Ceratopteridaceae*, N. Amer. Fl. 16(1): 29-30. 6 Nov 1909.
+- (1) *Ophioglossaceae* (with L.M. Underwood), N. Amer. Fl. 16(1): 3-13. 6 Nov 1909.
+- (2) *Osmundaceae*, N. Amer. Fl. 16(1): 27-28. 6 Nov 1909.
+- (3) *Ceratopteridaceae*, N. Amer. Fl. 16(1): 29-30. 6 Nov 1909.
 
 ### Publications
 

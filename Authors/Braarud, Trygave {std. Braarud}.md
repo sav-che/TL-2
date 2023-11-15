@@ -46,7 +46,7 @@ The *Øst Expedition to the Denmark Strait* 1929. II. The *phytoplankton* and it
 *Publ*.: Shortly after 9 Jul 1935 (date of printing on p. \[174\]), cover-t.p., p. \[1\]-173, \[174\].
 *Copy*: L. – Issued as no. 10 Hvalrådets Skrifter, Oslo, 1935.
 *Note*: (1) The first part of this publication (by T. Braarud and J.T. Ruud) 1932 dealt with *Hydrography*.
-(2) A further publ. before 1940 dealt with *A quantitative study of the phytoplankton in the Bay of Fundy and the Gulf of Maine*, J. Biol. Canada 1: 5 seq. 1935.
+- (2) A further publ. before 1940 dealt with *A quantitative study of the phytoplankton in the Bay of Fundy and the Gulf of Maine*, J. Biol. Canada 1: 5 seq. 1935.
 
 ##### n.22.488. Microspores in Diatoms
 

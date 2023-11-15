@@ -34,10 +34,10 @@ AG 7: 414; Barnhart 1: 106; BL 1: 6, 96; BL 2: 97, 188; BM 1: 87, 6: 49; Bossert
 
 #### Composite works
 
-(1): *Phytocreneae*, DC., *Prodr*. 17: 7-26. 16 Oct 1837.
-(2) Grandidier: *Histoire*... *de Madagascar, Histoire naturelle des Plantes*, t. 2-5, see under Grandidier.
-(3) *Dichapetalaceae*, Martius, Fl. bras. 12(1): 365-380, *pl. 75-78.* 1 Apr 1886.
-(4) Contributed to P. O. Réveil et al., *Le règne végétal*, vols. 7-8, 1871 (*FI. méd.*)
+- (1): *Phytocreneae*, DC., *Prodr*. 17: 7-26. 16 Oct 1837.
+- (2) Grandidier: *Histoire*... *de Madagascar, Histoire naturelle des Plantes*, t. 2-5, see under Grandidier.
+- (3) *Dichapetalaceae*, Martius, Fl. bras. 12(1): 365-380, *pl. 75-78.* 1 Apr 1886.
+- (4) Contributed to P. O. Réveil et al., *Le règne végétal*, vols. 7-8, 1871 (*FI. méd.*)
 
 #### Eponymy
 

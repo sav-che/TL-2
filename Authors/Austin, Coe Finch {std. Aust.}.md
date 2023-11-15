@@ -10,7 +10,8 @@ Austin, Coe Finch (1831-1880), American bryologist.
 
 #### Herbarium and types
 
-[[Collection NY|NY]]. – for duplicates see IH. Exsiccatae: 1. *Hepaticae boreali-americanae exsiccatae*; or specimens of North American Liverworts (nos. 1-150, Closter, New Jersey 1873); sets at [[Collection BM|BM]], [[Collection NY|NY]].
+[[Collection NY|NY]]. – for duplicates see IH.
+*Exsiccatae*: 1. *Hepaticae boreali-americanae exsiccatae*; or specimens of North American Liverworts (nos. 1-150, Closter, New Jersey 1873); sets at [[Collection BM|BM]], [[Collection NY|NY]].
 2. *Musci appalachiani* (nos. 1-450, Closter, New Jersey 1870, suppl. nos. 451-550. 1878); sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection FH|FH]], [[Collection G|G]], [[Collection K|K]], [[Collection MANCH|MANCH]], [[Collection NY|NY]], [[Collection PRE|PRE]], [[Collection W|W]]. (Accompanying text see below).
 *Ref*.: IH 1 (ed. 6): 355, 2: 45.
 - Sayre, Mem. New York Bot. Gard. 19(2): 177-178. 1971.

@@ -24,13 +24,13 @@ Barnhart 1: 52 (b. 5 Jan 1913, Leeuwarden, Neth.); Hortus 3: 1157; Kew 1: 53; La
 
 #### Composite works
 
-(1) *Papilionaceae, in* A.A. Pulle, *Flora of Suriname* 2(2): 1-257. Jul 1939 (see TL-2/8393).
-(2) *Olacaceae, in* id. 1(1): 262-272. Jan 1938.
-(3) *Gramineae*, with J.Th. Henrard, *in* id. 1(1): 273-442. Jan 1943.
-(4) *Myrtaceae, in* id. 3(2): 56-158. 1951.
-(5) *Aquifoliaceae*, in id. 3(2): 159-165.1951.
-(6) Contributed 12 families to C.A. Backer, *Beknopte flora von Java* (Nooduitgave), and *in* C.A. Backer and R.C. Bakhuizen van den Brink, *Flora of Java* (1963).
-(7) *Leguminosae* of New Guinea, proofs Mai 1943, not published, a Single proof was used by Verdcourt in his revision of the Leguminosae for New Guinea. Copy of the proof at L (Steenis, C.G.G.J. van, Fl. males. Bull. 38: 128.1985).
+- (1) *Papilionaceae, in* A.A. Pulle, *Flora of Suriname* 2(2): 1-257. Jul 1939 (see TL-2/8393).
+- (2) *Olacaceae, in* id. 1(1): 262-272. Jan 1938.
+- (3) *Gramineae*, with J.Th. Henrard, *in* id. 1(1): 273-442. Jan 1943.
+- (4) *Myrtaceae, in* id. 3(2): 56-158. 1951.
+- (5) *Aquifoliaceae*, in id. 3(2): 159-165.1951.
+- (6) Contributed 12 families to C.A. Backer, *Beknopte flora von Java* (Nooduitgave), and *in* C.A. Backer and R.C. Bakhuizen van den Brink, *Flora of Java* (1963).
+- (7) *Leguminosae* of New Guinea, proofs Mai 1943, not published, a Single proof was used by Verdcourt in his revision of the Leguminosae for New Guinea. Copy of the proof at L (Steenis, C.G.G.J. van, Fl. males. Bull. 38: 128.1985).
 
 ### Publications
 

@@ -28,8 +28,9 @@ Hortus 3: 1187 (Backeb.); TL-2/1: 86; Zander ed. 11, p. 719.
 
 #### Outside our period
 
-(1) *Die Cactaceae*. Handbuch der Kakteenkunde, vols. 1-6, Jena (Gustav Fischer Verlag). 1958-1962. − An English translation was announced in Taxon 14: 110. 1965. (2) *Stachelige Wildnis*. 80.000 km durch die Urwelt Amerikas... Neudamm & Berlin (Verlag J. Neumann), ed. 1. 1941 (autumn), ed. 2. 1943 (spring), portr., p. \[i\]-viii, \[1\]-420, *90 pl*., 5 maps with text, *3 pl*. hierogl.
-(3) Das *Kakteenlexikon*. Enumeratio diagnostica Cactacearum... Stuttgart (Gustav Fischer Verlag) 1966. Oct., p. \[1\]-741, \[1-464 (text), 465-487 (maps), 490-741 (uncol. & col. photos)\]. *Copies*: G, U. Published 20 Mar 1966. − Ed. 2. 1970; ed. 5. 1979.
+- (1) *Die Cactaceae*. Handbuch der Kakteenkunde, vols. 1-6, Jena (Gustav Fischer Verlag). 1958-1962. − An English translation was announced in Taxon 14: 110. 1965. 
+- (2) *Stachelige Wildnis*. 80.000 km durch die Urwelt Amerikas... Neudamm & Berlin (Verlag J. Neumann), ed. 1. 1941 (autumn), ed. 2. 1943 (spring), portr., p. \[i\]-viii, \[1\]-420, *90 pl*., 5 maps with text, *3 pl*. hierogl.
+- (3) Das *Kakteenlexikon*. Enumeratio diagnostica Cactacearum... Stuttgart (Gustav Fischer Verlag) 1966. Oct., p. \[1\]-741, \[1-464 (text), 465-487 (maps), 490-741 (uncol. & col. photos)\]. *Copies*: G, U. Published 20 Mar 1966. − Ed. 2. 1970; ed. 5. 1979.
 
 ### Publications
 

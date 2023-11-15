@@ -8,7 +8,8 @@ Braun, Heinrich (1851-1920), Austrian botanist, alderman at Vienna.
 
 #### Herbarium and types
 
-[[Collection W|W]](9000), further material at [[Collection B|B]] (herb. Ullepitsch), [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]]), [[Collection IAC|IAC]], [[Collection L|L]], [[Collection LE|LE]], [[Collection PRC|PRC]]. – *Exsiccatae* in [[Collection M|M]]. Willkomm, *Algen* 1890, see Bot. Centralbl. 44(52): 432. 24 Dec 1890.
+[[Collection W|W]](9000), further material at [[Collection B|B]] (herb. Ullepitsch), [[Collection GOET|GOET]], [[Collection HH (sensu TL-2)|HH]]([[Collection A|A]]), [[Collection IAC|IAC]], [[Collection L|L]], [[Collection LE|LE]], [[Collection PRC|PRC]].
+*Exsiccatae* in [[Collection M|M]]. Willkomm, *Algen* 1890, see Bot. Centralbl. 44(52): 432. 24 Dec 1890.
 
 #### Bibliography and biography
 
@@ -24,8 +25,8 @@ AG 6(1): 95; Barnhart 1: 243 (b. 13 Feb 1851, Wien, d. 3 Sep 1920, Wien); BM 1: 
 
 #### Composite works
 
-(1) Co-author with E. von Halácsy, *Nachtr. Fl. Nieder-Oesterr.* Mar-Jul 1882, see TL-2/2270. – *Berichtungen zu "Nachtr....*", ÖBZ 32(9): 302-303. 1882; review J.F. Freyn, Bot. Centralbl. 12(51): 400-402. 11-15 Dec 1882 (detailed rev.).
-(2) See Karl Rechinger, Beitrag zur *Flora von Persien* \[Wien 1889\], TL-2/8723, based on plants collected by J.A. Knapp 1884; part 1, Verh. zool.-bot. Ges. Wien 39: 213-239. 1889 (Labiatae) written by Knapp (see also Nat. Nov. Jul (1) 1889).
+- (1) Co-author with E. von Halácsy, *Nachtr. Fl. Nieder-Oesterr.* Mar-Jul 1882, see TL-2/2270. – *Berichtungen zu "Nachtr....*", ÖBZ 32(9): 302-303. 1882; review J.F. Freyn, Bot. Centralbl. 12(51): 400-402. 11-15 Dec 1882 (detailed rev.).
+- (2) See Karl Rechinger, Beitrag zur *Flora von Persien* \[Wien 1889\], TL-2/8723, based on plants collected by J.A. Knapp 1884; part 1, Verh. zool.-bot. Ges. Wien 39: 213-239. 1889 (Labiatae) written by Knapp (see also Nat. Nov. Jul (1) 1889).
 
 #### Note
 

@@ -22,7 +22,7 @@ Barnhart 1: 75; BFM p. 272; BL 2: 374; BM 1: 62; Desmond p. 18; IH 2: 41; Jackso
 
 #### Composite works
 
-(1) *Observations on the botany of Natal, in* J. Chapman, *Travels in the* *interior of South Africa*, vol. 2, appendix, 1888, *Copy*: NY.
+- (1) *Observations on the botany of Natal, in* J. Chapman, *Travels in the* *interior of South Africa*, vol. 2, appendix, 1888, *Copy*: NY.
 
 ### Publications
 

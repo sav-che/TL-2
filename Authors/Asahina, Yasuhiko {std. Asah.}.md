@@ -10,7 +10,8 @@ Asahina, Yasuhiko (1881-1975), Japanese lichenologist.
 
 #### Herbarium and types
 
-[[Collection TNS|TNS]]. – Exsiccatae: *Lichenes japoniae exsiccati* (nos. 1-300, Tokyo); set at [[Collection UPS|UPS]].
+[[Collection TNS|TNS]].
+*Exsiccatae*: *Lichenes japoniae exsiccati* (nos. 1-300, Tokyo); set at [[Collection UPS|UPS]].
 *Ref*.: GR p. 585; IH 1 (ed. 6): 355, 2: 43.
 - Sayre, Mern. New York Bot. Gard. 19(1): 114-115. 1969.
 

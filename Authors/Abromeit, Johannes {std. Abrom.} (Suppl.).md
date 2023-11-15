@@ -27,10 +27,10 @@ AG 2(1): 454; Barnhart 1: 8; BFM 151, 155; BL 2: 155; BM 6: 2; Bossert p. 2; CSP
 
 #### Composite works
 
-(1) Contributed to C. Bänitz, *Herbarium dendrologicum* Lief. 19, 20 u. Nachtrag V, Breslau 1905.
-(2) *Dünenflora, in* P. Gerhardt, *Handb. deut. Dünenbaues*, Berlin 1900.
-(3) *Die Pflanzenwelt Masurens*, *in* Alb. Zweck, *Masuren*, Saarland und das Pregelthal, Stuttgart (Verl. Hobbing & Büchle) 1900.
-(4) O. Wünsche, *Die Pflanzen Deutschlands* ed. 9, Mai 1909, edited and revised by Abromeit, see TL-2/18.365. – Rev. by W. Wangerin, Bot. Centralbl. 113(10): 270. 8 Mar 1910. Revised also ed. 10(2). 1916, see e.g. Allg. bot. Z. 22: 88. 20 Dec 1916 and Bot. Centralbl. 134(21): 333-334. 22 Mai 1917.
+- (1) Contributed to C. Bänitz, *Herbarium dendrologicum* Lief. 19, 20 u. Nachtrag V, Breslau 1905.
+- (2) *Dünenflora, in* P. Gerhardt, *Handb. deut. Dünenbaues*, Berlin 1900.
+- (3) *Die Pflanzenwelt Masurens*, *in* Alb. Zweck, *Masuren*, Saarland und das Pregelthal, Stuttgart (Verl. Hobbing & Büchle) 1900.
+- (4) O. Wünsche, *Die Pflanzen Deutschlands* ed. 9, Mai 1909, edited and revised by Abromeit, see TL-2/18.365. – Rev. by W. Wangerin, Bot. Centralbl. 113(10): 270. 8 Mar 1910. Revised also ed. 10(2). 1916, see e.g. Allg. bot. Z. 22: 88. 20 Dec 1916 and Bot. Centralbl. 134(21): 333-334. 22 Mai 1917.
 
 #### Note
 

@@ -34,7 +34,7 @@ ADB 1: 644-645; Barnhart 1: 1: 90 (b. 19 Mar 1819, d. 30 Jun 1870); BM 1: 71-72;
 
 #### Composite works
 
-(1) *Synopsis Pyrenomycetum Europaeorum*, *in* G.L. Rabenhorst, *Mycologia europaea* Heft 5-6 (Pyrenomycetes). 1869, see TL-2/8445.
+- (1) *Synopsis Pyrenomycetum Europaeorum*, *in* G.L. Rabenhorst, *Mycologia europaea* Heft 5-6 (Pyrenomycetes). 1869, see TL-2/8445.
 
 ### Publications
 

@@ -20,7 +20,7 @@
 
 O. Mattirolo, *Note bibliografiche Allioniane e Nomenclator allionianus*, Geneva (Tipogr. Angelo Ciminago), 1904, p. 1-82, *pl. 6-7* (portr., bust), also published in Malpighia 18 (6-9): 228-292. 1904 (*in*: *Scritti botanici*, Genova 1904 (76 p., also in Malpighia).
 
-#### Recent studies on allioni
+#### Recent studies on Allioni
 
 *Simposio Carlo Ludovico Allioni e la "Flora Pedemontana"*, Allionia 27: 79-143. \[1985\] 1986.
 *Contents*: Montacchini, F., ib. 27: 81-82. 1986 (A. as a naturalist). Arrigoni, P.V., ib. 27: 83-85. 1986 (A. and the Sardinian flora).

@@ -10,7 +10,8 @@ Bach, Michael (1808-1878), German botanist and entomologist, teacher at a colleg
 
 #### Herbarium and types
 
-Unknown. – Exsiccatae (with Ph. Wirtgen): Herbarium der seltern oder weniger bekannten Pflanzen Deutschlands der Flora des Mittel- und Niederrheins (1847).
+Unknown.
+*Exsiccatae* (with Ph. Wirtgen): Herbarium der seltern oder weniger bekannten Pflanzen Deutschlands der Flora des Mittel- und Niederrheins (1847).
 
 #### Bibliography and biography
 

@@ -27,7 +27,7 @@ Barnhart 1: 211 (b. 16 Feb 1871, Varambon, Ain, d. 22 Nov 1868); CSP 13: 654; Ho
 
 #### Composite works
 
-(1) *Violaceae*, *in* H. Lecomte et al., Fl. gén. Indo-Chine 1(1): 206-208. Oct 1908, 1(3): 209-218. Mai 1909 (see TL-2/4275).
+- (1) *Violaceae*, *in* H. Lecomte et al., Fl. gén. Indo-Chine 1(1): 206-208. Oct 1908, 1(3): 209-218. Mai 1909 (see TL-2/4275).
 
 ### Publications
 

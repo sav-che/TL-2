@@ -10,7 +10,8 @@ Bohler, John (1797-1872), British lichenologist.
 
 #### Herbarium and types
 
-Unknown. – Exsiccatae: *Lichenes britannici* (fasc. 1-16, nos. 1-128, Sheffield 1835-1837) at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection K|K]], [[Collection M|M]], [[Collection NJ|NJ]]. "with description and occasional remarks". See GR p. 390, PR 937 and Sayre (1969).
+Unknown.
+*Exsiccatae*: *Lichenes britannici* (fasc. 1-16, nos. 1-128, Sheffield 1835-1837) at [[Collection BM|BM]], [[Collection FH|FH]], [[Collection K|K]], [[Collection M|M]], [[Collection NJ|NJ]]. "with description and occasional remarks". See GR p. 390, PR 937 and Sayre (1969).
 *Ref*.: BM 1: 188; IH 2: 82;
 - Sayre, Mem. New York Bot. Gard. 19(1): 115-116. 1969.
 

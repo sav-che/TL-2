@@ -94,5 +94,5 @@ Barnhart 1: 215 (b. 18 Mai 1858, d. 14 Apr 1924); BM 1: 195, 6: 107; Hortus 3: 1
 **Notes**
 *Publ*.: 1917, cover-t.p., p. \[1\]-7. *Copies*: G(2), L(2). − Reprinted and to be cited from Bull. Mus. natl. Hist. nat. Paris 22(7): 410-416. 1917.
 *Note*: (1) A further publ. by B. in 1917: *A propos d'une fougère trouvée en Espagne*, Bull. Soc. bot. France 64: 54-55. 1917. − No reprints issued.
-(2) Idem *Ptéridophytes* de l'Herbier du Muséum *récoltées à Madagascar* par M.M. Waterlot et Decary, Bull. Mus. natl. Hist. nat. Paris 26(6): 541-546. − No reprints seen by us.
+- (2) Idem *Ptéridophytes* de l'Herbier du Muséum *récoltées à Madagascar* par M.M. Waterlot et Decary, Bull. Mus. natl. Hist. nat. Paris 26(6): 541-546. − No reprints seen by us.
 

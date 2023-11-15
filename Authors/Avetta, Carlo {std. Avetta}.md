@@ -22,10 +22,10 @@ Barnhart 1: 93; BL 1: 34, 2: 354; BM 1: 77; GR p. 527; IH 2: 46; LS 1350-1352, 1
 
 #### Composite works
 
-(1) *Addenda* to G. Passerini, *Fl. Parma* (TL-2/7435), Malphigia 11: 209-224. 1897, with V. Casoni, 12: 164. 1898.
-(2) Italian translation of E.A. Strasburger, *Lehrb. Bot.*, as *Trattato di botanica* ed. 1. 1896 (and possibly later editions eds. 2-4, 1913-1928, not seen by us; see TL-2/13.237, p. 38).
-(3) With P. Baccarini (senior author), *Contribuzione allo studio della micologia romana* 1885, see Baccarini.
-(4) T. Levi and D. Stanghellini, eds., C. Avetta, *Lezioni di botanica*... Parma 1899, 554 p.
+- (1) *Addenda* to G. Passerini, *Fl. Parma* (TL-2/7435), Malphigia 11: 209-224. 1897, with V. Casoni, 12: 164. 1898.
+- (2) Italian translation of E.A. Strasburger, *Lehrb. Bot.*, as *Trattato di botanica* ed. 1. 1896 (and possibly later editions eds. 2-4, 1913-1928, not seen by us; see TL-2/13.237, p. 38).
+- (3) With P. Baccarini (senior author), *Contribuzione allo studio della micologia romana* 1885, see Baccarini.
+- (4) T. Levi and D. Stanghellini, eds., C. Avetta, *Lezioni di botanica*... Parma 1899, 554 p.
 (n.v.), id. Parma 1900, 532 p. (n.v.).
 
 ### Publications

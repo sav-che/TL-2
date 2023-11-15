@@ -36,5 +36,5 @@ AG 2(2): 371, 5(1): 164; Barnhart 1: 135; Dryander 3: 85, 316; Frank 3(Anh.): 8;
 
 #### Composite works
 
-(1) *Alisma parnassifolium*, *in* Linnaeus, Syst. nat. ed. 12. 3: 230. 1767. (KR no. 1).
+- (1) *Alisma parnassifolium*, *in* Linnaeus, Syst. nat. ed. 12. 3: 230. 1767. (KR no. 1).
 

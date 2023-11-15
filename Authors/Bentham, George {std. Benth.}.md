@@ -54,17 +54,17 @@ AG 3: 828; Barnhart 1: 165; BFM 2263; BB p. 30; BL 1: 49, 63, 244, 2: 214; BM 1:
 
 #### Composite works
 
-(1) Contributions to DC., *Prodr*.:
+- (1) Contributions to DC., *Prodr*.:
 (a) Ericaceae, 7: 612-712. Apr (sero) 1838.
 (b) Labiatae, 12: 27-603, 697-501 \[cf. also 13(2): 458\]. 5 Nov 1848.
 (c) Polemoniaceae, 9: 302-322, 565. 1 Jan 1845.
 (d) Polygonaceae-Eriogoneae, 14: 5-28. med. Oct 1856.
 (e) Scrophulariaceae, 10: 186-586, 589-598. 8 Apr 1846.
 (f) Stackhousiaceae, 15(1): 499-502. Mai (prim.) 1864.
-(2) Endlicher, *Enumeratio plantarium... C. de Hügel* 1837 (Bentham co-author).
-(3) Miquel et al., *Plantae Junghuhnianae*, Leguminosae by Bentham.
-(4) Seemann, *Botany voyage Herald*, Leguminosae, Scrophularinae, Labiatae by Bentham.
-(5) Martius, *Fl. bras.*, Leguminosae in vol. 15(1): 1-216, *pl. 1-56.* 30 Jul 1859; 15(1): 217-332, *pl. 57-127.* 15 Jan 1862, 15(2): 1-254, *pl. 1-66.* 1 Dec 1870; 15(2): 257-504, *pl. 67-138.* 1 Jul 1876; repr. Lehre 1967.
+- (2) Endlicher, *Enumeratio plantarium... C. de Hügel* 1837 (Bentham co-author).
+- (3) Miquel et al., *Plantae Junghuhnianae*, Leguminosae by Bentham.
+- (4) Seemann, *Botany voyage Herald*, Leguminosae, Scrophularinae, Labiatae by Bentham.
+- (5) Martius, *Fl. bras.*, Leguminosae in vol. 15(1): 1-216, *pl. 1-56.* 30 Jul 1859; 15(1): 217-332, *pl. 57-127.* 15 Jan 1862, 15(2): 1-254, *pl. 1-66.* 1 Dec 1870; 15(2): 257-504, *pl. 67-138.* 1 Jul 1876; repr. Lehre 1967.
 
 #### Eponymy
 

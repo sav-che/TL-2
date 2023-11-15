@@ -27,9 +27,9 @@ Barnhart 1: 22; BM 1: 21; Frank 3(Anh.): 4; GR p. 485; KR p. 21 (b. 31 Oct 1801,
 
 #### Composite works
 
-(1) *Musci*, *in* E.Fries, *Novit. fl. suec. alt.* 290-302. 1828, see TL-2/1871.
-(2) *Agaricus (Lepiota) cingulatus, in* E. Fries, Eclogae fungorum *in* Linnaea 5: \[507\], 723, *pl.10.* 1830.
-(3) *Bryaceae et Hepaticae, in* E. Fries, *Fl. Scan.* (part. 13-16): 223-254b. 1836.
+- (1) *Musci*, *in* E.Fries, *Novit. fl. suec. alt.* 290-302. 1828, see TL-2/1871.
+- (2) *Agaricus (Lepiota) cingulatus, in* E. Fries, Eclogae fungorum *in* Linnaea 5: \[507\], 723, *pl.10.* 1830.
+- (3) *Bryaceae et Hepaticae, in* E. Fries, *Fl. Scan.* (part. 13-16): 223-254b. 1836.
 
 #### Eponymy
 

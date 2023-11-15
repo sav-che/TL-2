@@ -27,9 +27,9 @@ Barnhart 1: 242; BM 1: 224; IH 2: 93; Jackson p. 333; Kew 1: 342; LS 3745-3746, 
 
 #### Composite works
 
-(1) *Lichener*, *in* H. Jónsson, *Floraen paa Snaefellsnaes*, Bot. Tidsskr. 22: 173-176. 1899.
-(2) *Lichens*, *in* Duc d'Orléans, *Croisière océanographique*... *de la Belgica* 1905, *Botanique *p. 13.
-(3) *Lichenes*, *in Botany of the Faeröes* 1: 317-338. 1901, see below.
+- (1) *Lichener*, *in* H. Jónsson, *Floraen paa Snaefellsnaes*, Bot. Tidsskr. 22: 173-176. 1899.
+- (2) *Lichens*, *in* Duc d'Orléans, *Croisière océanographique*... *de la Belgica* 1905, *Botanique *p. 13.
+- (3) *Lichenes*, *in Botany of the Faeröes* 1: 317-338. 1901, see below.
 
 ### Publications
 

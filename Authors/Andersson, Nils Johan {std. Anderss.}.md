@@ -10,7 +10,8 @@ Andersson, Nils Johan (1821-1880), Swedish botanist.
 
 #### Herbarium and types
 
-[[Collection S|S]]. – For voyages and distribution of duplicates see IH. – Exsiccatae: *Flora lapponica exsiccata* (1865, 15 sets).
+[[Collection S|S]]. – For voyages and distribution of duplicates see IH.
+*Exsiccatae*: *Flora lapponica exsiccata* (1865, 15 sets).
 *Ref*.: IH 1 (ed. 6): 355, 2: 36.
 - Urban, Fl. bras. 1(1): I. 1906.
 - Stafleu, The great Prodromus 19. 1966.

@@ -36,9 +36,9 @@ Wagenitz, G., Index coll. princ. herb. Gotting. 199. 1982; Monogr. biol. Canar. 
 
 #### Composite works
 
-(1) *Die Palmen*, eds. 1-2, 1857-1863, German translation of B. Seemann, *Pop. hist. palms*, see TL-2/11.604.
-(2) Preface and brief biography, *in* K.H.C. Koch, *Bäum. Griechenl.* 1879, see TL-2/3798.
-(3) Provided collections for J.P.F.C. Montagne, *Florula gorgonea*, Paris 1860, see TL-2/6260.
+- (1) *Die Palmen*, eds. 1-2, 1857-1863, German translation of B. Seemann, *Pop. hist. palms*, see TL-2/11.604.
+- (2) Preface and brief biography, *in* K.H.C. Koch, *Bäum. Griechenl.* 1879, see TL-2/3798.
+- (3) Provided collections for J.P.F.C. Montagne, *Florula gorgonea*, Paris 1860, see TL-2/6260.
 
 ### Publications
 

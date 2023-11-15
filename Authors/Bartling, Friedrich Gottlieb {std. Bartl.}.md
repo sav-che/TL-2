@@ -10,7 +10,8 @@ Bartling, Friedrich Gottlieb (1798-1875), German botanist.
 
 #### Herbarium and types
 
-[[Collection GOET|GOET]] – *Exsiccatae*: (with Georg Ernst Ludwig Hampe, 1795-1880): *Vegetabilia cellularia in gemiania septenirionali praesertim in Hercynia et in agro Gottingensi lecta*, 1832-1845, series A, Musci (23 dec), B, Hepaticae (8 dec.); C, Lichenes (7 or 8 dec). Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]]. For details see Sayre 1969.
+[[Collection GOET|GOET]]
+*Exsiccatae*: (with Georg Ernst Ludwig Hampe, 1795-1880): *Vegetabilia cellularia in gemiania septenirionali praesertim in Hercynia et in agro Gottingensi lecta*, 1832-1845, series A, Musci (23 dec), B, Hepaticae (8 dec.); C, Lichenes (7 or 8 dec). Sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection GOET|GOET]], [[Collection HAL|HAL]], [[Collection K|K]], [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]]. For details see Sayre 1969.
 *Ref*.: IH 2: 58.
 - Anon., Flora 15(2), Int. Bl. 38-40 (= \[54\]-\[56\]). Aug 1832.
 - Sayre, Mem. New York Bot. Gard. 19(1): 7. 1969.

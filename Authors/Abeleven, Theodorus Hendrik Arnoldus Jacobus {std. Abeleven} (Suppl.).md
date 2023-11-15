@@ -35,9 +35,9 @@ Barnhart 1: 6 (b. 28 Dec 1822, Nijmegen; d. 21 Feb 1904); BL 2: 430; BM 1: 2, 2:
 
 #### Composite works
 
-(1) *Nieuwe lijst der Nederlandsche blad- en levermossen*, *in* \[Anon.\], Prodromus florae Batavae ed. 2. 2(1), 1893.
-(2) *Flora noviomagensis* 1848, with P.M.E. Gevers Deynoot, see TL-2/2008.
-(3) Editor, *Nederlandsch kruidkundig Archief* ser 2. 1-6, 1871-1895.
+- (1) *Nieuwe lijst der Nederlandsche blad- en levermossen*, *in* \[Anon.\], Prodromus florae Batavae ed. 2. 2(1), 1893.
+- (2) *Flora noviomagensis* 1848, with P.M.E. Gevers Deynoot, see TL-2/2008.
+- (3) Editor, *Nederlandsch kruidkundig Archief* ser 2. 1-6, 1871-1895.
 
 #### Portrait
 

@@ -38,6 +38,6 @@ Barnhart 1: 185; BL 1: 206-207; BM 1: 162; Ewan ed. 1: 64, 164, 335, ed. 2: 19; 
 
 #### Composite works
 
-(1) With G. Engelmann as senior author: *Description of the Cactaceae*, see TL-2/1691.
-(2) With A. Hor(r), *Florula lancastriensis* 1841, see TL-2/3054.
+- (1) With G. Engelmann as senior author: *Description of the Cactaceae*, see TL-2/1691.
+- (2) With A. Hor(r), *Florula lancastriensis* 1841, see TL-2/3054.
 

@@ -20,7 +20,7 @@ Barnhart 1: 66; KR p. 43 (b. 20 Nov 1888 Vartofta, Västergotland).
 
 #### Composite works
 
-(1) *The big tree as a climatic measure, in* J.C. Jones et al. *Quarternary* *climates*, Washington (Published by the Carnegie Instititions...) Jul 1925, p. 115-153.
+- (1) *The big tree as a climatic measure, in* J.C. Jones et al. *Quarternary* *climates*, Washington (Published by the Carnegie Instititions...) Jul 1925, p. 115-153.
 
 ### Publications
 

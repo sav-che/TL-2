@@ -10,7 +10,8 @@ Becker, Wilhelm (1874-1928), German teacher and botanist.
 
 #### Herbarium and types
 
-[[Collection B|B]] – Exsiccatae: *Violae exsiccatae germanicae, austro-hungaricae et helvetiae* (Lief, i-viii, 1900-1908, nos. 1-202), sets at [[Collection B|B]], [[Collection GOET|GOET]] and probably also in [[Collection FR|FR]], [[Collection GB|GB]], [[Collection GJO|GJO]], [[Collection GH|GH]] and [[Collection W|W]].
+[[Collection B|B]]
+*Exsiccatae*: *Violae exsiccatae germanicae, austro-hungaricae et helvetiae* (Lief, i-viii, 1900-1908, nos. 1-202), sets at [[Collection B|B]], [[Collection GOET|GOET]] and probably also in [[Collection FR|FR]], [[Collection GB|GB]], [[Collection GJO|GJO]], [[Collection GH|GH]] and [[Collection W|W]].
 *Ref*.: DTS 6: 111-112; IH 2: 64.
 - Urban, Gesch. Berlin-Dahlem 328. 1916.
 

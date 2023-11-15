@@ -42,7 +42,7 @@ Backer p. 22; Barnhart 1: 50 (b. 26 Sep 1874, d. 28 Apr 1950); BM 6: 20; Bossert
 
 #### Composite works
 
-(1) Contributed numerous treatments of orchid genera to L.H. Bailey, Cyclop. Am. Hortic. 1900.
+- (1) Contributed numerous treatments of orchid genera to L.H. Bailey, Cyclop. Am. Hortic. 1900.
 
 #### Eponymy (addition)
 

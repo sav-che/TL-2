@@ -32,5 +32,5 @@ AG 3: 153; Barnhart 1: 93 (b. 4 Jun 1803, Lübeck, d. 17 Mai 1867, ib.); BM 1: 7
 
 #### Composite works
 
-(1) With F.E.L. Fischer and C.A. Meyer, *Animadversiones botanicae*, *in Index seminum*, quae *hortus* botanicus Imperialis *Petropolitanus* pro mutua commutatione offert. Accedunt *Animadversiones botanicae nonnullae* 6-11, suppl. Petropoli 1839-1846. See also TR 1629. Pagination and dates: 6: 43-67. 1839, 8: 51-74. 1842, 9: 55-97. 1843, 9 (suppl.): 8-25. 1844, 10: 43-60. 1845, 11: 49-83. 1846.
+- (1) With F.E.L. Fischer and C.A. Meyer, *Animadversiones botanicae*, *in Index seminum*, quae *hortus* botanicus Imperialis *Petropolitanus* pro mutua commutatione offert. Accedunt *Animadversiones botanicae nonnullae* 6-11, suppl. Petropoli 1839-1846. See also TR 1629. Pagination and dates: 6: 43-67. 1839, 8: 51-74. 1842, 9: 55-97. 1843, 9 (suppl.): 8-25. 1844, 10: 43-60. 1845, 11: 49-83. 1846.
 

@@ -64,7 +64,7 @@ Uppsala; other letters at KVA, Stockholm.
 
 #### Composite works
 
-(1) Acharius gave assistance for cryptogams to J.H. Wallman, the editor of S. Liljeblad, Utkast Sv. Fl. ed. 3. 1816, from 257 on, see TL-2/4528.
+- (1) Acharius gave assistance for cryptogams to J.H. Wallman, the editor of S. Liljeblad, Utkast Sv. Fl. ed. 3. 1816, from 257 on, see TL-2/4528.
 
 ### Publications
 

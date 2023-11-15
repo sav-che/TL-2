@@ -21,7 +21,7 @@ BL 2: 203, 204; BM 1: 172; CSP 1: 415, 7: 189; GR p. 306; Jackson p. 291, 472; K
 
 #### Composite works
 
-(1) *Observations sur la flore de la Seine-Inférieure* à propos de la quatrième édition de la Flore de la Normandie de M. de Brébisson (Caen 1869), par M. le Dr. Emm. Blanche, p. \[1\]-35. *Copy*: NY. − For Brébisson's flora see TL-2/723, ed. 4. Jul-Nov 1869.
+- (1) *Observations sur la flore de la Seine-Inférieure* à propos de la quatrième édition de la Flore de la Normandie de M. de Brébisson (Caen 1869), par M. le Dr. Emm. Blanche, p. \[1\]-35. *Copy*: NY. − For Brébisson's flora see TL-2/723, ed. 4. Jul-Nov 1869.
 
 #### Handwriting
 

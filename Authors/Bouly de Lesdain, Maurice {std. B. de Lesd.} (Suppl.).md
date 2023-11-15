@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-Pre-1940 material mainly lost; further material in: [[Collection BPI|BPI]], [[Collection DBN|DBN]], [[Collection DUKE|DUKE]], [[Collection F|F]], [[Collection GL|GL]], [[Collection H|H]] (musci), [[Collection LD|LD]], [[Collection LS|LS]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection NSW|NSW]], [[Collection O|O]], [[Collection P|P]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]]. − *Exsiccatae*: Bouly de Lesdain was also involved in the publication of *Rubi praesertim Galliae exsicc*., see N.-J. Boulay, treated above.
+Pre-1940 material mainly lost; further material in: [[Collection BPI|BPI]], [[Collection DBN|DBN]], [[Collection DUKE|DUKE]], [[Collection F|F]], [[Collection GL|GL]], [[Collection H|H]] (musci), [[Collection LD|LD]], [[Collection LS|LS]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection NSW|NSW]], [[Collection O|O]], [[Collection P|P]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection US|US]], [[Collection W|W]]. −
+*Exsiccatae*: Bouly de Lesdain was also involved in the publication of *Rubi praesertim Galliae exsicc*., see N.-J. Boulay, treated above.
 
 #### Bibliography and biography
 

@@ -27,9 +27,9 @@ BFM 964; BL 2: 590; IH 2: 85; Kew 1: 296; SBC p. 116; TL-2/1: 271-272.
 
 #### Composite works
 
-(1) *Bryophyta* in *Index nominum genericorum plantarum* 1979, 1588 entries.
-(2) *Index Hepaticarum* pars I: *Plagiochila* (Dum.) Dum., Weinheim 1962, 340 p., see e.g. P.A. Florschütz, Taxon 11: 205. 1962 and F.A. Stafleu, Taxon 15: 152-153. 1966 (review parts 1-5). − Pars vi: *Goebeliella to Jubula* 1966, vii *Supplementum* A-C (curavit H. Bischler) 1976, viii *Jungermannia* 1976 (text publ.), see Taxon 16: 112. 1977.
-(3) *Ebenales*, *in* Encycl. Britt. ed. 15. 1974.
+- (1) *Bryophyta* in *Index nominum genericorum plantarum* 1979, 1588 entries.
+- (2) *Index Hepaticarum* pars I: *Plagiochila* (Dum.) Dum., Weinheim 1962, 340 p., see e.g. P.A. Florschütz, Taxon 11: 205. 1962 and F.A. Stafleu, Taxon 15: 152-153. 1966 (review parts 1-5). − Pars vi: *Goebeliella to Jubula* 1966, vii *Supplementum* A-C (curavit H. Bischler) 1976, viii *Jungermannia* 1976 (text publ.), see Taxon 16: 112. 1977.
+- (3) *Ebenales*, *in* Encycl. Britt. ed. 15. 1974.
 
 ### Publications
 

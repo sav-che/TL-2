@@ -25,8 +25,8 @@ Barnhart 1: 171; BM 1: 145, 6: 83, Bossert p. 35; CSP 12: 74, 13: 477-478; DTS 1
 
 #### Composite works
 
-(1) *Rivista di Patología vegetale*, Berlese co-editor, vols. 1-10, 1892-1902.
-(2) Saccardo, *Sylloge fungorum*. Berlese contributed Myxomycetes (vol. 7, 1), Laboulbeniaceae (8), Phycomycetes (7, 1) and additamenta to vols. 1-4.
+- (1) *Rivista di Patología vegetale*, Berlese co-editor, vols. 1-10, 1892-1902.
+- (2) Saccardo, *Sylloge fungorum*. Berlese contributed Myxomycetes (vol. 7, 1), Laboulbeniaceae (8), Phycomycetes (7, 1) and additamenta to vols. 1-4.
 
 #### Eponymy
 

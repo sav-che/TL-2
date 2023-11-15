@@ -8,7 +8,8 @@ Braithwaite, Robert (1824-1917), British bryologist.
 
 #### Herbarium and types
 
-[[Collection BM|BM]], dupl. at [[Collection B|B]] and [[Collection K|K]]. – Exsiccatae: *Sphagnaceae britannieae exsiccatae* (nos. 1-53. London, Apr-Jul 1877) at [[Collection BM|BM]], [[Collection E|E]], [[Collection G|G]], [[Collection NY|NY]]; (66 sets issued).
+[[Collection BM|BM]], dupl. at [[Collection B|B]] and [[Collection K|K]].
+*Exsiccatae*: *Sphagnaceae britannieae exsiccatae* (nos. 1-53. London, Apr-Jul 1877) at [[Collection BM|BM]], [[Collection E|E]], [[Collection G|G]], [[Collection NY|NY]]; (66 sets issued).
 *Ref*.: BB p. 43; IH 2: 92.
 - Brainerd, Monthly micr. J. vols. 6-14, 1871-75 (descr. of exsicc.)
 - Kent, Brit, herbaria 44. 1953.

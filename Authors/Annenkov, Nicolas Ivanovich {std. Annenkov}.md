@@ -8,7 +8,8 @@ Annenkov, Nicolas Ivanovich (1819-1889), Russian cryptogamist.
 
 #### Herbarium and types
 
-[[Collection LE|LE]], [[Collection MW|MW]], also at [[Collection P|P]] and [[Collection PC|PC]]. – Exsiccatae: *Flora mosquensis exsiccata *(cent. i-v, 500 nos., Moskva 1849-1851). No sets known, data obtained by Sayre from Mikutowicz, *Bryotheca baltica* 1910; see also Lipschitz 1: 64, no. 8.
+[[Collection LE|LE]], [[Collection MW|MW]], also at [[Collection P|P]] and [[Collection PC|PC]].
+*Exsiccatae*: *Flora mosquensis exsiccata *(cent. i-v, 500 nos., Moskva 1849-1851). No sets known, data obtained by Sayre from Mikutowicz, *Bryotheca baltica* 1910; see also Lipschitz 1: 64, no. 8.
 *Ref*.: IH 2: 38.
 - Sayre, Mem. New York Bot. Gard. 19(1): 6. 1967.
 

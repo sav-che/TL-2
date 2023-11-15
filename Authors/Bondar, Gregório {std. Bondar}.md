@@ -22,7 +22,7 @@ IH 2: 84; Kew 1: 294; LS suppl. 3159; Stevenson p. 1236.
 
 #### Note
 
-(1) Outside our period: *Palmeiras do Brasil*... São Paulo, Brasil 1964, 159 p. − Issued as Bol. Inst. Bot. São Paulo no. 2.
+- (1) Outside our period: *Palmeiras do Brasil*... São Paulo, Brasil 1964, 159 p. − Issued as Bol. Inst. Bot. São Paulo no. 2.
 
 ### Publications
 

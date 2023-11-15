@@ -8,7 +8,8 @@ Boggiani, \[Colonel\] Oliviero (1859-1933), Italian soldier, alpinist and botani
 
 #### Herbarium and types
 
-[[Collection FI|FI]], further material at [[Collection GE|GE]], [[Collection LAU|LAU]]. − *Exsiccatae*: *Flora Verbona-Lepontica* cent. 1, 1912.
+[[Collection FI|FI]], further material at [[Collection GE|GE]], [[Collection LAU|LAU]]. −
+*Exsiccatae*: *Flora Verbona-Lepontica* cent. 1, 1912.
 
 #### Bibliography and biography
 
@@ -23,5 +24,5 @@ Barnhart 1: 210 (b. 1 Feb 1859, Novara, d. 6 Oct 1933, Tripoli); BL 2: 374; IH 2
 
 #### Composite works
 
-(1) *La flora* delle terme *di Valdieri*. Note di topografia botanica, *in* B. Marchisio, *Guida alle terme di Valdieri*, Torino (Vincenzo Bona...) 1898. Oct., on p. \[145\]-267. *Copy*: G. − Annotated list of 683 vasc. pl.; Blake 2: 374 cites this "flora" from Arch. Bot., Forli 11: 301. 1935. − The reprint was announced in Bot. Zeit. 16 Nov 1898, Nat. Nov. Oct (1) 1898.
+- (1) *La flora* delle terme *di Valdieri*. Note di topografia botanica, *in* B. Marchisio, *Guida alle terme di Valdieri*, Torino (Vincenzo Bona...) 1898. Oct., on p. \[145\]-267. *Copy*: G. − Annotated list of 683 vasc. pl.; Blake 2: 374 cites this "flora" from Arch. Bot., Forli 11: 301. 1935. − The reprint was announced in Bot. Zeit. 16 Nov 1898, Nat. Nov. Oct (1) 1898.
 

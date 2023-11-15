@@ -30,5 +30,5 @@ ADB 6(1): 677 (see TL-2/1: 252); Barnhart 1: 210 (letters in Torrey corr., d. ab
 
 #### Composite works
 
-(1) Contributed to P.W. Wirtgen, *Prodr. Fl. preuss. Rheinlande* 1842, see TL-2/18.037.
+- (1) Contributed to P.W. Wirtgen, *Prodr. Fl. preuss. Rheinlande* 1842, see TL-2/18.037.
 

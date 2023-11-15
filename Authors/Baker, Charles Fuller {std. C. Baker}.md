@@ -10,7 +10,8 @@ Baker, Charles Fuller (1872-1927), American botanist, agronomist and entomologis
 
 #### Herbarium and types
 
-[[Collection POM|POM]], much material also at [[Collection NY|NY]]. – For details on C. F. Baker's extensive collections see IH. – Exsiccatae:
+[[Collection POM|POM]], much material also at [[Collection NY|NY]]. – For details on C. F. Baker's extensive collections see IH.
+*Exsiccatae*:
 1. *Plants of southern Colorado* (1895-1901), at [[Collection E|E]];
 2. *Plants of Santa Marta*, Colombia;
 3. *Plants of Nevada*, see IH;

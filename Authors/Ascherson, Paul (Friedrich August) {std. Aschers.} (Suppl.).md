@@ -48,11 +48,11 @@ ADB 8: 196; AG 1: 287 (epon.), 2(1): 352, 590, 3: 576, 5(1): 309, 5(2): 439, 5(3
 
 #### Composite works
 
-(1) See TL-2/1: 73 and especially the bibliography by Dalla Torre, *in* Festschrift Ascherson 1904, p. iv-xlvii (ca. 1500 nos.).
-(2) With Th. von Heldreich and F. Kurtz: *Verzeichniss der bis jetzt aus der Troas bekannten Pflanzen*. Nach den Sammlungen von R. Virchow und J. Schmidt und den literarischen Quellen..., *in* H. Schliemann, *Ilios*, Stadt und Land der Trojaner... Leipzig 1881, p. 804-813. *Copies*: B, B-S.
-(3) *Potamogetonaceae*, *in* A. Engler and K.A.E.P. Prantl, *Nat. Pflanzenfam.* 2(1): 194-214. 22 Feb 1889, see TL-2/1710.
-(4) Editor (c.q. co-editor) *Verhandlungen des Botanischen Vereins der Provinz Brandenburg* 1 (1859)- 38 (1896).
-(5) *Index nominum vernaculorum*..., *in* E. Boissier, *Fl. Orient.* 5(2): \[825\]-844. Apr 1884. – With assistance from J.G. Wetzstein \[sic\]; TL-2/611.
+- (1) See TL-2/1: 73 and especially the bibliography by Dalla Torre, *in* Festschrift Ascherson 1904, p. iv-xlvii (ca. 1500 nos.).
+- (2) With Th. von Heldreich and F. Kurtz: *Verzeichniss der bis jetzt aus der Troas bekannten Pflanzen*. Nach den Sammlungen von R. Virchow und J. Schmidt und den literarischen Quellen..., *in* H. Schliemann, *Ilios*, Stadt und Land der Trojaner... Leipzig 1881, p. 804-813. *Copies*: B, B-S.
+- (3) *Potamogetonaceae*, *in* A. Engler and K.A.E.P. Prantl, *Nat. Pflanzenfam.* 2(1): 194-214. 22 Feb 1889, see TL-2/1710.
+- (4) Editor (c.q. co-editor) *Verhandlungen des Botanischen Vereins der Provinz Brandenburg* 1 (1859)- 38 (1896).
+- (5) *Index nominum vernaculorum*..., *in* E. Boissier, *Fl. Orient.* 5(2): \[825\]-844. Apr 1884. – With assistance from J.G. Wetzstein \[sic\]; TL-2/611.
 
 #### Festschrift
 

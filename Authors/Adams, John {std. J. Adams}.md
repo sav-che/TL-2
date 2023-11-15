@@ -23,8 +23,8 @@ Barnhart 1: 14 (b. 20 Jan 1872); BL 1: 133, 143, 145, 2: 279; Desmond p. 3 (b. 2
 
 #### Note
 
-(1) Published *A census catalogue of Irish fungi*, Proc. R. Irish Acad. 28(B): 120-157. 1910.
-(2) Published *A bibliography of Canadian plant geography to the end of the year 1920 \[-35\]*, Trans. R. Can. Inst. 16: 293-355. 1928, 17: 103-145. 1929, (for 1921-25): 267-295. 1930, 18 (for 1926-30): 343-373. 1932, 21 (for 1931-1935): 95-134. 1936.
+- (1) Published *A census catalogue of Irish fungi*, Proc. R. Irish Acad. 28(B): 120-157. 1910.
+- (2) Published *A bibliography of Canadian plant geography to the end of the year 1920 \[-35\]*, Trans. R. Can. Inst. 16: 293-355. 1928, 17: 103-145. 1929, (for 1921-25): 267-295. 1930, 18 (for 1926-30): 343-373. 1932, 21 (for 1931-1935): 95-134. 1936.
 
 ### Publications
 

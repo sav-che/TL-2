@@ -42,15 +42,15 @@ Barnhart 1: 58; BL 2: 474, 509, 528; BM 1: 44; DTS 1: 4; Frank 3(Anh.): 4-5; Hor
 
 #### Composite works
 
-(1) Editor \[Nya\] *Botaniska Notiser* 1849-1851.
-(2) Translated into Swedish, with additions and notes of S. Unger, *Vexternas anatomi* och physiologi... Stockholm 1852. See TL-2/15.599.
-(3) *Euphorbia flabellaris, in* E. Boissier, *in* Euphorbia, DC. et al., Prodr. 15(2): 17. 1862.
-(4) *Salix, in* A.S. Örsted, *Frilands-traevaext* 1, 1864. See TL-2/7026.
-(5) *Gramineae, in* W.C.H. Peters, *Naturwiss. Reise Mozambique*, Bot. 2: 546-564, *pl. 60.* 1864.
-(6) *Gramineae, in* W.G. Walpers, Ann. Bot. 6(6): 934-960. 1864, 6(7): 961-1072. 1865.
-(7) *Gymnanthelia* Andersson et al., *in* G. Schweinfurth, *Beitr. Fl. Aethiop.* 1: 299. 1867. – See TL-2/11.459.
-(8) *Salicineae, in* DC. et al., Prodr. 16(2): 190-323. med. Jul. 1868. See TL-2/1: 46.
-(9) *Salix, in* M.N. and A. Blytt, *Norges flora* 2(1): 418-484. 1874; also reprinted in *Norges* *Salix*, Christiania 1864, 69 p.
+- (1) Editor \[Nya\] *Botaniska Notiser* 1849-1851.
+- (2) Translated into Swedish, with additions and notes of S. Unger, *Vexternas anatomi* och physiologi... Stockholm 1852. See TL-2/15.599.
+- (3) *Euphorbia flabellaris, in* E. Boissier, *in* Euphorbia, DC. et al., Prodr. 15(2): 17. 1862.
+- (4) *Salix, in* A.S. Örsted, *Frilands-traevaext* 1, 1864. See TL-2/7026.
+- (5) *Gramineae, in* W.C.H. Peters, *Naturwiss. Reise Mozambique*, Bot. 2: 546-564, *pl. 60.* 1864.
+- (6) *Gramineae, in* W.G. Walpers, Ann. Bot. 6(6): 934-960. 1864, 6(7): 961-1072. 1865.
+- (7) *Gymnanthelia* Andersson et al., *in* G. Schweinfurth, *Beitr. Fl. Aethiop.* 1: 299. 1867. – See TL-2/11.459.
+- (8) *Salicineae, in* DC. et al., Prodr. 16(2): 190-323. med. Jul. 1868. See TL-2/1: 46.
+- (9) *Salix, in* M.N. and A. Blytt, *Norges flora* 2(1): 418-484. 1874; also reprinted in *Norges* *Salix*, Christiania 1864, 69 p.
 
 ### Publications
 

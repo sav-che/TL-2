@@ -29,7 +29,7 @@ Barnhart 1: 83 (b. 5 Mai 1845, d. 24 Aug 1903); BM 1: 67; Bossert p. 16; CSP 7: 
 #### Note (1)
 
 See TL-2/1: 77-78.
-(2) TL-2/202, *Forschungsreise Gazelle, Bot. Alg.* 1888, see M. Möbius, Bot. Centralbl. 37: 112-119. 22 Jan 1889 (detailed review); see also Hieronymus, Bot. Zeit. 47: 317-318. 1889.
+- (2) TL-2/202, *Forschungsreise Gazelle, Bot. Alg.* 1888, see M. Möbius, Bot. Centralbl. 37: 112-119. 22 Jan 1889 (detailed review); see also Hieronymus, Bot. Zeit. 47: 317-318. 1889.
 
 ### Publications
 

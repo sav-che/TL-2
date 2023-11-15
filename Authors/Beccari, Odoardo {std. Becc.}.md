@@ -31,8 +31,8 @@ AG 3: 211; Barnhart 1: 148; BL 1: 103, 120; BM 1: 118, 6: 68; Bossert p. 30; CSP
 
 #### Composite works
 
-(1) *Nuovo Giornale botanico Italiano* publicato da O. Beccari, vols, i-iii, 1869-1871.
-(2) Hooker, *Fl. Brit. India*, Palmae (with J. D. Hooker), 6: 402-448. Jul 1892, 449-483. Sep 1893.
+- (1) *Nuovo Giornale botanico Italiano* publicato da O. Beccari, vols, i-iii, 1869-1871.
+- (2) Hooker, *Fl. Brit. India*, Palmae (with J. D. Hooker), 6: 402-448. Jul 1892, 449-483. Sep 1893.
 
 #### Eponymy
 

@@ -28,8 +28,8 @@ Barnhart 1: 155; BJI 1: 4; BM 1: 124; CSP 9: 172, 12: 63, 13: 412; De Toni 1: x,
 
 #### Composite works
 
-(1) Editor: *Botanisches Centralbl*. 6-34. 1881-1888.
-(2) Editor: *Zeitschrift für wissenschaftliche Mikroskopie* 1-19. 1884-1902.
+- (1) Editor: *Botanisches Centralbl*. 6-34. 1881-1888.
+- (2) Editor: *Zeitschrift für wissenschaftliche Mikroskopie* 1-19. 1884-1902.
 
 ### Publications
 

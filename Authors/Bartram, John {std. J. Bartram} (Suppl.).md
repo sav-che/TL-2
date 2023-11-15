@@ -104,7 +104,7 @@ Backer p. 57; Barnhart 1: 133 (standard refs.); BB p. 22-23; BM 1: 105, 6: 62; C
 
 #### Composite works
 
-(1) Tho. Short, *Medicina britannica*. Philadelphia 1751, xx, 339, 40, 7 p. Preface, appendix (7 p.), and annotations scattered throughout the work, for complete title and notes see Barnhart 1931 (p. 5).
-(2) *A journal*..., *in* W. Stork, *An account of East-Florida*, with a journal kept by John Bartram ... ed. 2, London 1767. − See Barnhart 1931, p. 52-53 for various editions.
-(3) William Stork and John Bartram, *A description of East Florida, with a journal kept by John Bartram*... ed. 3 \[eds. 1 and 2 n.v.\] 1769; Bartram's contr. 40 p. *Copy*: NY.
+- (1) Tho. Short, *Medicina britannica*. Philadelphia 1751, xx, 339, 40, 7 p. Preface, appendix (7 p.), and annotations scattered throughout the work, for complete title and notes see Barnhart 1931 (p. 5).
+- (2) *A journal*..., *in* W. Stork, *An account of East-Florida*, with a journal kept by John Bartram ... ed. 2, London 1767. − See Barnhart 1931, p. 52-53 for various editions.
+- (3) William Stork and John Bartram, *A description of East Florida, with a journal kept by John Bartram*... ed. 3 \[eds. 1 and 2 n.v.\] 1769; Bartram's contr. 40 p. *Copy*: NY.
 

@@ -26,7 +26,7 @@ Barnhart 1: 41 (b. 6 Jun 1873, West Newton, Indiana).
 
 #### Composite works
 
-(1) See E.E. Cupp in this supplement: E.E. Cupp and W.E. Allen, *Plankton diatoms of the Gulf of California*... \[2\]. 1938.
+- (1) See E.E. Cupp in this supplement: E.E. Cupp and W.E. Allen, *Plankton diatoms of the Gulf of California*... \[2\]. 1938.
 
 ### Publications
 

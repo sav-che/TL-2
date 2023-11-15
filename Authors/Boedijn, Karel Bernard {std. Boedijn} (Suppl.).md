@@ -30,8 +30,8 @@ Barnhart 1: 207; BFM 2288; IH 2: 81, 439; JW 1: 439, 2: 158, 185; Kew 1: 277; LS
 
 #### Outside our period
 
-(1) *The fungi in Rumphius's herbarium Amboinense*, *in* H.C. de Wit, ed., Rumphius memorial volume 289-294. 1959.
-(2) *The Uredinales of Indonesia*, Nova Hedwigia 1(3-4): 463-496, *pl. 105-106.* 20 Feb 1960 (also printed separately).
+- (1) *The fungi in Rumphius's herbarium Amboinense*, *in* H.C. de Wit, ed., Rumphius memorial volume 289-294. 1959.
+- (2) *The Uredinales of Indonesia*, Nova Hedwigia 1(3-4): 463-496, *pl. 105-106.* 20 Feb 1960 (also printed separately).
 
 ### Publications
 

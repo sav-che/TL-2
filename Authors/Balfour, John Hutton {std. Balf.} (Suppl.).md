@@ -48,7 +48,7 @@ see G.D.R. Bridson et al., Nat. hist. mss. resources British Isl. 382 \[index\].
 
 #### Composite works
 
-(1) J.H. Balfour, ed., Ann. Mag. nat. Hist. ser. 1. 9-20 and ser. 2. 1-20. 1842-1857.
+- (1) J.H. Balfour, ed., Ann. Mag. nat. Hist. ser. 1. 9-20 and ser. 2. 1-20. 1842-1857.
 
 ### Publications
 

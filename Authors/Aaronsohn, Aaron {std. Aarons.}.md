@@ -24,7 +24,7 @@ Barnhart 1: 1 (d. 15 Mai 1919); BJI 2: 1 (refs. to 3 reviews of his work); Hortu
 
 #### Composite works
 
-(1) Numerous identifications in H.R. Oppenheimer (b. 1900). *Reliquiae Aaronsohnianae*... I. *Florula transiordanica*, Genève 1931, see TL-2/7094. *Copies*: FAS, US.
+- (1) Numerous identifications in H.R. Oppenheimer (b. 1900). *Reliquiae Aaronsohnianae*... I. *Florula transiordanica*, Genève 1931, see TL-2/7094. *Copies*: FAS, US.
 
 #### Postage stamps
 

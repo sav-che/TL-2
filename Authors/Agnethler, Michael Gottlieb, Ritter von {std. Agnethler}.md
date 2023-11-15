@@ -24,8 +24,8 @@ ADB 1: 140 (b. 10 Jun 1719, d. 15 Jan 1752); Barnhart 1: 20 (d. 17 Jan 1752 at H
 
 #### Composite works
 
-(1) Editor of Linnaeus, C., Bibl. bot., ed. nov. 1743, J.G. Bierwirth issue, see TL-2/4711.
-(2) Id. of Linnaeus, C., Syst. nat. ed. 5, see TL-2/4742 and 8050.
+- (1) Editor of Linnaeus, C., Bibl. bot., ed. nov. 1743, J.G. Bierwirth issue, see TL-2/4711.
+- (2) Id. of Linnaeus, C., Syst. nat. ed. 5, see TL-2/4742 and 8050.
 
 ### Publications
 

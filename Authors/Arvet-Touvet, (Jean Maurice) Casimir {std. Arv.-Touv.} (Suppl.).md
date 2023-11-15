@@ -29,8 +29,8 @@ AG 12(1): 23, 119, 12(2): 29, 225; Barnhart 1: 80 (b. 4 Mar 1841, d. 4 Mar 1913,
 
 #### Composite works
 
-(1) Briquet, J., Indications d' Épervières \[*Hieracium*\] rares et nouvelles, ... d' après des *déterminations* de M. *Arvet-Touvet*, Bull. Herb. Boiss. 2(10): 616\[1\]- 632\[16\]. Oct. 1894.
-(2) Co-author, J.B. Verlot, *Liste syst. pl.* 1877 (TL-2/16.054).
+- (1) Briquet, J., Indications d' Épervières \[*Hieracium*\] rares et nouvelles, ... d' après des *déterminations* de M. *Arvet-Touvet*, Bull. Herb. Boiss. 2(10): 616\[1\]- 632\[16\]. Oct. 1894.
+- (2) Co-author, J.B. Verlot, *Liste syst. pl.* 1877 (TL-2/16.054).
 
 #### Handwriting
 

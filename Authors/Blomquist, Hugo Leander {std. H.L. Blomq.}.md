@@ -22,8 +22,8 @@ Barnhart 1: 203; BL 1: 204, 287; IH 2: 79; Kew 1: 269; SBC p. 116.
 
 #### Outside our period
 
-(1) *The grasses of North Carolina*, Duke University Press, Durham, N.C. 1948, p. \[i\]-vi, \[vii\], \[1\]-276. *Copies*: NY, U.
-(2) *Flowers of the South* native and exotic... Chapel Hill, The University of North Carolina Press \[1953\], p. \[i\]-xiv, \[1\]-208, map. *Copy*: MO.
+- (1) *The grasses of North Carolina*, Duke University Press, Durham, N.C. 1948, p. \[i\]-vi, \[vii\], \[1\]-276. *Copies*: NY, U.
+- (2) *Flowers of the South* native and exotic... Chapel Hill, The University of North Carolina Press \[1953\], p. \[i\]-xiv, \[1\]-208, map. *Copy*: MO.
 
 ### Publications
 

@@ -28,16 +28,15 @@ Barnhart 1: 190; BFM 3060; Desmond p. 66; IH 2: 76; Kew 1: 250; LS suppl. 1256, 
 
 #### Outside our period
 
-(1) *An introduction to the taxonomy and the nomenclature of fungi*, Kew 1945, 117 p.
-(2) *The fungi of India* by E.J. Butler and G.R. Bisby, ed. 2. 1960, supplement 1-2, New Dehli 1962-1968 (suppl. 2 by S.T. Tikk). − See also TL-2/6544.
-(3) With G.C. Ainsworth, *A dictionary of the fungi*, ed. 1. Sep 1943, ed. 2. Aug 1945, ed. 3. Mai 1950, ed. 4. Jan 1954, ed. 5. Jan 1961, ed. 6. Oct 1971, ed. 7. Aug 1983 (eds. 5 and 6 by Ainsworth, 7 by Ainsworth et al.).
+- (1) *An introduction to the taxonomy and the nomenclature of fungi*, Kew 1945, 117 p.
+- (2) *The fungi of India* by E.J. Butler and G.R. Bisby, ed. 2. 1960, supplement 1-2, New Dehli 1962-1968 (suppl. 2 by S.T. Tikk). − See also TL-2/6544.
+- (3) With G.C. Ainsworth, *A dictionary of the fungi*, ed. 1. Sep 1943, ed. 2. Aug 1945, ed. 3. Mai 1950, ed. 4. Jan 1954, ed. 5. Jan 1961, ed. 6. Oct 1971, ed. 7. Aug 1983 (eds. 5 and 6 by Ainsworth, 7 by Ainsworth et al.).
 
 #### Composite works
 
-(1) With J.C. Arthur et al., *The plant rusts*. 1929, see TL-2, suppl. 1: no.
-19.539.
-(2) *The British mycological Society* (Recognosce notum, ignotum inspice) *Transactions*. Fifty year index (1896-1946; volumes 1-30). Cambridge (at the University Press) 1952.
-(3) With E.J. Butler (senior author, q.v.), *The fungi of India*... Calcutta (Government of India...) 1931. Oct.; revised by B.S. Vasadera, New Dehli 4 Jun 1960. − See also Mundkur, B.B., Fungi India Suppl. 1938, TL-2/6544.
+- (1) With J.C. Arthur et al., *The plant rusts*. 1929, see TL-2, suppl. 1: no. 19.539.
+- (2) *The British mycological Society* (Recognosce notum, ignotum inspice) *Transactions*. Fifty year index (1896-1946; volumes 1-30). Cambridge (at the University Press) 1952.
+- (3) With E.J. Butler (senior author, q.v.), *The fungi of India*... Calcutta (Government of India...) 1931. Oct.; revised by B.S. Vasadera, New Dehli 4 Jun 1960. − See also Mundkur, B.B., Fungi India Suppl. 1938, TL-2/6544.
 
 ### Publications
 

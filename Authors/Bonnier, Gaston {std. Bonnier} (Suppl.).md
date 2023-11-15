@@ -36,7 +36,7 @@ Ainsworth p. 98, 320; Barnhart 1: 218; BFM p. 276; BJI 1: 6, 2: 16; BL 2: 98, 10
 
 #### Composite works
 
-(1) Editor of the *Revue génerale de botanique* 1(1889)-34(1922).
+- (1) Editor of the *Revue génerale de botanique* 1(1889)-34(1922).
 
 ### Publications
 

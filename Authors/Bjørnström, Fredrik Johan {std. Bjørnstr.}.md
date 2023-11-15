@@ -21,5 +21,5 @@ Barnhart 1: 193 (b. 28 Apr 1833, d. 23 Sep 1889); BL 2: 530; BM 1: 168; GR p. 48
 
 #### Composite works
 
-(1) See Johann Emanuel Zetterstedt (1828-1880), *Monogr. Andreaear. Scand. tent.* 1855, TL-2/18.644, F.J. Björnström co-author.
+- (1) See Johann Emanuel Zetterstedt (1828-1880), *Monogr. Andreaear. Scand. tent.* 1855, TL-2/18.644, F.J. Björnström co-author.
 

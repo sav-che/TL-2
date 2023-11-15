@@ -48,8 +48,8 @@ AG 3: 403; Barnhart 1: 108; BB p. 15-16; BJI 2: 3; BL 1: 98, 285, 2: 625-626 \[i
 
 #### Composite works
 
-(1)-(7) See TL-2/1: 104.
-(8) *Scitamineae*, *in* J.D. Hooker, *Fl. Brit. India* 6: 198-264. 1894.
+- (1)-(7) See TL-2/1: 104.
+- (8) *Scitamineae*, *in* J.D. Hooker, *Fl. Brit. India* 6: 198-264. 1894.
 
 ### Publications
 

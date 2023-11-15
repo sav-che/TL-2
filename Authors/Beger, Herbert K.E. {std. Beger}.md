@@ -23,8 +23,8 @@ Barnhart 1: 153 (b. 3 Mai 1889, Dresden); BFM 2037; BJI 2: 9; Hegi 6(2): 1243; Z
 
 #### Composite works
 
-(1) Contributed to C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleur.* 3, Abt. 3. 1926-1932, see TL-2/11.174.
-(2) Contributed to G. Hegi, ed., *Ill. Fl. Mitt. Eur.* vols. 5(1), 5(2), 5(3), 6(2), see TL-2/2571.
+- (1) Contributed to C. Schröter, *Lebensgesch. Bl.-Pfl. Mitteleur.* 3, Abt. 3. 1926-1932, see TL-2/11.174.
+- (2) Contributed to G. Hegi, ed., *Ill. Fl. Mitt. Eur.* vols. 5(1), 5(2), 5(3), 6(2), see TL-2/2571.
 
 ### Publications
 

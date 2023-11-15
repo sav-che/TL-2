@@ -61,11 +61,11 @@ ADB 2: 746; Backer p. 70; Barnhart 1: 204; BM 1: 178-179; Bossert p. 42; Bret. p
 
 #### Note
 
-(1) TL-2/568, *Fl. Javae nov. ser.*, Royal Dutch Acad. Sci. received a copy in Nov 1839.
-(2) TL-2/561, *Tab. pl. Jav. Orchid.*, see further info. on publication by C.G.G.J. van Steenis, *in* J.C. Arends et al., Liber gratulatorius in honorem H.C.D. de Wit 1980, p. 289-291.
-(3) TL-2/570, *Mélanges botaniques*, see C.G.G.J. van Steenis, Taxon 35(2): 272-285. 1986. Copies located, hence duly published, reproduction of the entire publ. of p. \[1\]-12. 1 Aug 1855. *Copy*: L. − Also extract in Fl. males. Bull. 9(3): 305. 1986.
-(4) TL-2/8962, *Hepaticae javanicae*, by C.G.C. Reinwardt, C.G. Nees von Esenbeck and C.L. Blume.
-(5) TL-2/567, C.G.G.J. van Steenis, Index to C.L. Blume, *Museum botanicum* vol. 2 (1856-1857). Leiden iii, 24 p. 1974.
+- (1) TL-2/568, *Fl. Javae nov. ser.*, Royal Dutch Acad. Sci. received a copy in Nov 1839.
+- (2) TL-2/561, *Tab. pl. Jav. Orchid.*, see further info. on publication by C.G.G.J. van Steenis, *in* J.C. Arends et al., Liber gratulatorius in honorem H.C.D. de Wit 1980, p. 289-291.
+- (3) TL-2/570, *Mélanges botaniques*, see C.G.G.J. van Steenis, Taxon 35(2): 272-285. 1986. Copies located, hence duly published, reproduction of the entire publ. of p. \[1\]-12. 1 Aug 1855. *Copy*: L. − Also extract in Fl. males. Bull. 9(3): 305. 1986.
+- (4) TL-2/8962, *Hepaticae javanicae*, by C.G.C. Reinwardt, C.G. Nees von Esenbeck and C.L. Blume.
+- (5) TL-2/567, C.G.G.J. van Steenis, Index to C.L. Blume, *Museum botanicum* vol. 2 (1856-1857). Leiden iii, 24 p. 1974.
 
 #### Archives
 

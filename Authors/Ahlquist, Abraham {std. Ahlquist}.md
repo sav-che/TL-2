@@ -24,7 +24,7 @@ Barnhart 1: 22; BL 2: 536; BM 1: 21; KR p. 20 (b. 5 July 1794, d. 9 Jul 1844); P
 
 #### Composite works
 
-(1) *Flora runsteniensis* dissertation defended under Thunberg, see TL-2/14.393. The part of Ahlquist as author is not quite clear. However, Krok lists this Flora under Ahlquist who published three further botanical papers. The *Flora runsteniensis* is available on IDC 619 (nos. 79-83).
+- (1) *Flora runsteniensis* dissertation defended under Thunberg, see TL-2/14.393. The part of Ahlquist as author is not quite clear. However, Krok lists this Flora under Ahlquist who published three further botanical papers. The *Flora runsteniensis* is available on IDC 619 (nos. 79-83).
 
 #### Correspondence
 

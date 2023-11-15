@@ -33,8 +33,8 @@ Halfs Saga ok Hálfsrekka, Einleiting, Inaugural dissertation, Univ. Kiel, Halle
 
 #### Composite works
 
-(1) Class Musci, Order *Sphagnales*, fam. 1. *Sphagnaceae*, 1. *Sphagnum*, North Amer. Fl. 15(1): 1-31. 14 Jun 1913.
-(2) *Bryaceae, in* A. Grout Moss Fl. N. Amer. 2(1): 184-210. 1935, 2(4): 211-262. 1940 (incl. Mniaceae, Rhizogoniaceae).
+- (1) Class Musci, Order *Sphagnales*, fam. 1. *Sphagnaceae*, 1. *Sphagnum*, North Amer. Fl. 15(1): 1-31. 14 Jun 1913.
+- (2) *Bryaceae, in* A. Grout Moss Fl. N. Amer. 2(1): 184-210. 1935, 2(4): 211-262. 1940 (incl. Mniaceae, Rhizogoniaceae).
 
 ### Publications
 

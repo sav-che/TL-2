@@ -25,6 +25,6 @@ Barnhart 1: 228 (b. Paray-le-Monial, 26 Jul 1757, d. 24 Nov 1844, Abbeville); BL
 
 #### Notes
 
-(1) Addition to entry TL-2/681, *Extr. fl. Abbeville.* − Fournier as well as Blake mention a second (1833) and a third edition (1834), n.v. − PR 1053 on ed. 3: *Flore d'Abbeville* ed. 3. Abbeville 1834, Oct., 116 p. (n.v.).
-(2) Not to be confused with Jacques Boucher de Crèvecoeur de Perthes 1788-1868, customs director at Abbeville, student of prehistory and the history of primitive man. − See Quensted p. 49-50.
+- (1) Addition to entry TL-2/681, *Extr. fl. Abbeville.* − Fournier as well as Blake mention a second (1833) and a third edition (1834), n.v. − PR 1053 on ed. 3: *Flore d'Abbeville* ed. 3. Abbeville 1834, Oct., 116 p. (n.v.).
+- (2) Not to be confused with Jacques Boucher de Crèvecoeur de Perthes 1788-1868, customs director at Abbeville, student of prehistory and the history of primitive man. − See Quensted p. 49-50.
 

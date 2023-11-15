@@ -23,7 +23,7 @@ Ainsworth p. 329; Barnhart 1: 178 (b. 20 Feb 1877, d. 17 Jul 1957); CSP 13: 516;
 
 #### Composite works
 
-(1) *Vegetationsbilder aus Russisch-Turkestan*, *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 3. 2, 6 p. text, *6 pl*.
+- (1) *Vegetationsbilder aus Russisch-Turkestan*, *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 3. 2, 6 p. text, *6 pl*.
 
 ### Publications
 

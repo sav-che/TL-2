@@ -41,17 +41,17 @@ AG 6(1): 750, 12(3): 64; Barnhart 1: 223 (b. 6 Dec 1862); BFM p. 417-418; BJI 2:
 
 #### Note
 
-(1) For handwriting, Festschriften and Botanical Exploration see TL-2/1: 283-284.
-(2) See Haussknecht, Heinrich Carl (1838-1903), TL-2/2: 103-104, for Herbarium Haussknecht (JE). Bornmüller was curator of this herbarium (see caption), but he kept his herbarium und library apart and gave it to B.
+- (1) For handwriting, Festschriften and Botanical Exploration see TL-2/1: 283-284.
+- (2) See Haussknecht, Heinrich Carl (1838-1903), TL-2/2: 103-104, for Herbarium Haussknecht (JE). Bornmüller was curator of this herbarium (see caption), but he kept his herbarium und library apart and gave it to B.
 
 #### Festschriften
 
-(1) Bornmüller-Festschrift, herausgegeben von O. Schwarz, Repert. sp. nov. regn. veg., Beih. C, 228 p., 15 pl., publ. 1 Mar 1938 (75th anniv.).
-(2) Branco, K., ed., Mitt. Thür. bot. Ver. ser. 2. 50, 252 p. 1943 (80th anniv.).
+- (1) Bornmüller-Festschrift, herausgegeben von O. Schwarz, Repert. sp. nov. regn. veg., Beih. C, 228 p., 15 pl., publ. 1 Mar 1938 (75th anniv.).
+- (2) Branco, K., ed., Mitt. Thür. bot. Ver. ser. 2. 50, 252 p. 1943 (80th anniv.).
 
 #### Composite works
 
-(1) *Neue Cousinien des Orients*, Genève 1895-1897, with C. Winkler (senior author), see TL-2/17.950. − *Copies*: B, G.
+- (1) *Neue Cousinien des Orients*, Genève 1895-1897, with C. Winkler (senior author), see TL-2/17.950. − *Copies*: B, G.
 
 ### Publications
 

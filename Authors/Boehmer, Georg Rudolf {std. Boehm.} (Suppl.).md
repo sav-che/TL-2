@@ -31,10 +31,10 @@ ADB 1: 74-75 (A. Engler); AG 2(1): 147; Backer p. 72; Barnhart 1: 208; BM 1: 184
 
 #### Composite works
 
-(1) editor and p.p. author of C.G. Ludwig, *Def. gen. pl. ed. 3*, 1760, see TL-2/582 and 5067. − Totally revised, p. \[i\]-xlviii, \[1\]-516, \[index, 44 p.\]. *Copy*: L.
-(2) Co-author with C.G. Kiesling, *Pl. caule bulbif.* \[1749\], see TL-2/3629.
-(3) *De plantis in cultorum memoriam nominatis*, *in* C.F. Ludwig, *Delectus opusculorum*, 1790, see TL-2/5058, p. 191-271, see also Dryander 3: 50. 1797.
-(4) With P.F.F. Gmelin author of the text of G.W. Knorr, *Thesaurus rei herbariae* 1750-1771, see TL-2/3770.
+- (1) editor and p.p. author of C.G. Ludwig, *Def. gen. pl. ed. 3*, 1760, see TL-2/582 and 5067. − Totally revised, p. \[i\]-xlviii, \[1\]-516, \[index, 44 p.\]. *Copy*: L.
+- (2) Co-author with C.G. Kiesling, *Pl. caule bulbif.* \[1749\], see TL-2/3629.
+- (3) *De plantis in cultorum memoriam nominatis*, *in* C.F. Ludwig, *Delectus opusculorum*, 1790, see TL-2/5058, p. 191-271, see also Dryander 3: 50. 1797.
+- (4) With P.F.F. Gmelin author of the text of G.W. Knorr, *Thesaurus rei herbariae* 1750-1771, see TL-2/3770.
 
 ### Publications
 

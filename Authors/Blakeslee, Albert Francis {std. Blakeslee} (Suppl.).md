@@ -32,7 +32,7 @@ Barnhart 1: 197 (b. 9 Nov 1874, d. 17 Nov 1954); BL 2: 14; BM 6: 91; Kew 1: 263-
 
 #### Composite works
 
-(1) Blakeslee signed, with many others, G.F. Atkinson, *Motions relating to the rules for Nomenclature of the Fungi*, 1910 (for 3rd. IBC at Brussels 1910).
+- (1) Blakeslee signed, with many others, G.F. Atkinson, *Motions relating to the rules for Nomenclature of the Fungi*, 1910 (for 3rd. IBC at Brussels 1910).
 
 ### Publications
 

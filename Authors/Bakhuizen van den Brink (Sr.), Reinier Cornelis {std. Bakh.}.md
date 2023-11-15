@@ -24,10 +24,10 @@ Backer p. 51-52 (orig. info.); Barnhart 1: 110 (b. 30 Jan 1881, Pasuruan, Java; 
 
 #### Composite works
 
-(1) With H.J. Lam (senior author), *Index Verbenacearum* quae anno 1921 in Horto botanico bogoriensi coluntur, Bull. Jard. bot. Buitenzorg ser. 3. 3(4): 283-287. 1922.
-(2) With J.J. Ochse (senior author), *Indische groenten* 1931, see TL-2/6996.
-(3) With J.J. Ochse (id.), *Vegetables of the Dutch East Indies* 1931, see TL-2/6998. − The facsimile ed. of 1977 contains a biogr. note.
-(4) With J.J. Ochse (id.), *Fruits and fruitculture* 1931, see TL-2/6999.
+- (1) With H.J. Lam (senior author), *Index Verbenacearum* quae anno 1921 in Horto botanico bogoriensi coluntur, Bull. Jard. bot. Buitenzorg ser. 3. 3(4): 283-287. 1922.
+- (2) With J.J. Ochse (senior author), *Indische groenten* 1931, see TL-2/6996.
+- (3) With J.J. Ochse (id.), *Vegetables of the Dutch East Indies* 1931, see TL-2/6998. − The facsimile ed. of 1977 contains a biogr. note.
+- (4) With J.J. Ochse (id.), *Fruits and fruitculture* 1931, see TL-2/6999.
 
 ### Publications
 

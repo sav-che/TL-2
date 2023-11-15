@@ -28,10 +28,10 @@ Barnhart 1: 223; BFM 3273; BJI 2: 17; Futak-Domin p. 118; GR p. 656; Hegi 5(4): 
 
 #### Outside our period
 
-(1) *Bryogeography and Bryoflora Ungarns*, Akadémiai Kiadó, Budapest 1968, 466 p., 1 col. chart. − See e.g. F. Ochsner, Bot. Jahrb. 89(Lit): 21-22. 28 Mai 1969 (detailed rev.).
-(2) *Magyarország Mohái* (*Bryophyta Hungariae*), Budapest 1953, 360 p. − See H. Reimers Bot. Jahrb. 76(Lit.): 24. Jan 1954 (rev.).
-(3) *Botanisches Wörterbuch*. Begriffe und Fachausdrücke der Botanik,... Zürich (S. Hirzel Verlag) 1955, 255 p.
-(4) *Lexikon der Botanik*... Stuttgart 1958, 276 p.
+- (1) *Bryogeography and Bryoflora Ungarns*, Akadémiai Kiadó, Budapest 1968, 466 p., 1 col. chart. − See e.g. F. Ochsner, Bot. Jahrb. 89(Lit): 21-22. 28 Mai 1969 (detailed rev.).
+- (2) *Magyarország Mohái* (*Bryophyta Hungariae*), Budapest 1953, 360 p. − See H. Reimers Bot. Jahrb. 76(Lit.): 24. Jan 1954 (rev.).
+- (3) *Botanisches Wörterbuch*. Begriffe und Fachausdrücke der Botanik,... Zürich (S. Hirzel Verlag) 1955, 255 p.
+- (4) *Lexikon der Botanik*... Stuttgart 1958, 276 p.
 
 ### Publications
 

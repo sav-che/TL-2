@@ -20,7 +20,7 @@ AG 2(1): 368; Barnhart 1: 93; BL 2: 348; BM 1: 77; PR ed. 1: 363-365; Rehder 3: 
 
 #### Composite works
 
-(1) With G.A. Pasquale (senior author), *Fl. med. Napoli*, see TL-2/7426.
+- (1) With G.A. Pasquale (senior author), *Fl. med. Napoli*, see TL-2/7426.
 
 #### Eponymy
 

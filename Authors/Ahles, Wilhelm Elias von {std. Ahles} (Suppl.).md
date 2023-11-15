@@ -33,9 +33,9 @@ Ahler issued a first set of 8 wall charts in Ravensburg 1873, accompanied by a t
 
 #### Composite works
 
-(1) Actual author of C.F. Hochstetter, *Giftgew. Deutschl.* (TL-2/2835), ed. 3, 1874-1876.
-(2) Introduction to C.A.J.A. Oudemans, *Afb. beschr. handelspl.* 1882 (TL-2/7153).
-(3) Edited and augmented ed. 5 of M.A. Seubert, *Grundr. Bot.* ed. 5, 1883, TL-2/11.813, rev. by E. Koehne, Bot. Zeit. 42: 347-348. 30 Mai 1884, Id. ed. 7, Leipzig (C.F. Winter), 1887 (Bot. Centralbl. 25-29 Apr 1887), vi, 621 p. (Rev. by M. Moebius, Bot. Centralbl. 32: 1-3. 3-7 Oct 1887.
+- (1) Actual author of C.F. Hochstetter, *Giftgew. Deutschl.* (TL-2/2835), ed. 3, 1874-1876.
+- (2) Introduction to C.A.J.A. Oudemans, *Afb. beschr. handelspl.* 1882 (TL-2/7153).
+- (3) Edited and augmented ed. 5 of M.A. Seubert, *Grundr. Bot.* ed. 5, 1883, TL-2/11.813, rev. by E. Koehne, Bot. Zeit. 42: 347-348. 30 Mai 1884, Id. ed. 7, Leipzig (C.F. Winter), 1887 (Bot. Centralbl. 25-29 Apr 1887), vi, 621 p. (Rev. by M. Moebius, Bot. Centralbl. 32: 1-3. 3-7 Oct 1887.
 
 ### Publications
 

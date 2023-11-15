@@ -29,9 +29,9 @@ Backer p. 77; Barnhart 1: 229 (b. 16 Mar 1794, Hamburg, d. 22 Nov 1881, Vienna);
 
 #### Composite works
 
-(1) Text on vegetation in European Turkey in his *La Turquie d'Europe* 1: 408-478. 1840. − Also in German, edited by F. Tempsky; *Die europäische Türkei*, Wien 1889.
-(2) In S.B. Akad. Wiss. Wien, Math.-nat. Kl., Bot. 7: 256-270. 1851 (*Ueber die baumlosen Gegenden der Continente*).
-(3) *Mémoires géologiques et paléontologiques*, Tome 1, xvi, 362 p., *4 pl*. 1832. Oct., published by Boué.
+- (1) Text on vegetation in European Turkey in his *La Turquie d'Europe* 1: 408-478. 1840. − Also in German, edited by F. Tempsky; *Die europäische Türkei*, Wien 1889.
+- (2) In S.B. Akad. Wiss. Wien, Math.-nat. Kl., Bot. 7: 256-270. 1851 (*Ueber die baumlosen Gegenden der Continente*).
+- (3) *Mémoires géologiques et paléontologiques*, Tome 1, xvi, 362 p., *4 pl*. 1832. Oct., published by Boué.
 
 ### Publications
 

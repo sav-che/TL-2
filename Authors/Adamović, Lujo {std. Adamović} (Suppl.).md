@@ -32,10 +32,10 @@ AG 5(1): 588-589; Barnhart 1: 12 (b. 31 Jul 1864); BFM 1672-1673; BJI 2: 329; BL
 
 #### Composite works
 
-(1) *Vegetationsbilder aus Dalmatien*, *in* G. Karsten and H. Schenck, Vegetations-Bilder, 7. Reihe, Heft 4, *pl. 19-24.* Jena 1909.
-(2) *Vegetationsbilder aus Bosnien und der Herzegowina*, *in* id. 8. Reihe, Heft 4, *pl. 19-24A + 24B.* Jena 1910.
-(3) *Vegetationsbilder aus Dalmatien*, *in* id., 10. Reihe, Heft 7-8, *pl. 37-48.* Jena 1913.
-(4) *Vegetationsbilder aus Mazedonien*, *in* id., 12. Reihe, Heft 7, *pl. 37-42.* Jena 1916.
+- (1) *Vegetationsbilder aus Dalmatien*, *in* G. Karsten and H. Schenck, Vegetations-Bilder, 7. Reihe, Heft 4, *pl. 19-24.* Jena 1909.
+- (2) *Vegetationsbilder aus Bosnien und der Herzegowina*, *in* id. 8. Reihe, Heft 4, *pl. 19-24A + 24B.* Jena 1910.
+- (3) *Vegetationsbilder aus Dalmatien*, *in* id., 10. Reihe, Heft 7-8, *pl. 37-48.* Jena 1913.
+- (4) *Vegetationsbilder aus Mazedonien*, *in* id., 12. Reihe, Heft 7, *pl. 37-42.* Jena 1916.
 
 ### Publications
 

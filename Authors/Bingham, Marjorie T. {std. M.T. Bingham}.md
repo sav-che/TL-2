@@ -16,7 +16,7 @@ Barnhart 1: 188 (married Burton F. Bingham).
 
 #### Outside our period
 
-(1) *Flora of Oakland County, Michigan*, Bull. 22, Cranbrook Institute of Sience, Bloomfield Hills, Mich. 1945, p. \[1\]-155, 1945; see also A. Cronquist, J. New York Bot. Gard. 47(553): 19. Jan 1946.
+- (1) *Flora of Oakland County, Michigan*, Bull. 22, Cranbrook Institute of Sience, Bloomfield Hills, Mich. 1945, p. \[1\]-155, 1945; see also A. Cronquist, J. New York Bot. Gard. 47(553): 19. Jan 1946.
 
 ### Publications
 

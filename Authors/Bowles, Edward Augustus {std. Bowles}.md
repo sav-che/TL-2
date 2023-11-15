@@ -32,7 +32,7 @@ Barnhart 1: 234 (b. 14 Mai 1865); Desmond p. 81 (further refs.); Hortus 3: 1189;
 
 #### Note
 
-(1) Bowles' "*My garden in spring, summer, autumn and winter*", 3 vols. 1914-1915. − Reprinted 1972.
+- (1) Bowles' "*My garden in spring, summer, autumn and winter*", 3 vols. 1914-1915. − Reprinted 1972.
 
 ### Publications
 

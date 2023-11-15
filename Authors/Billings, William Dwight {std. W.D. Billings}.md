@@ -20,7 +20,7 @@ Barnhart 1: 187 (b. 29 Dec 1910, Washington, D.C.); IH 2: 74.
 
 #### Note
 
-(1) With B.R. Strain editor of *Vegetation and environment*, Handbook of vegetation Science no. 6, viii, 194 p., 9 tables. Den Haag 1974.
+- (1) With B.R. Strain editor of *Vegetation and environment*, Handbook of vegetation Science no. 6, viii, 194 p., 9 tables. Den Haag 1974.
 
 ### Publications
 

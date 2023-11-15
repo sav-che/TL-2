@@ -29,8 +29,8 @@ Barnhart 1: 36 (d. 1957); BL 2: 77, 78, 79; GR p. 774, pl. \[no. *42*\] (b. 27 A
 #### Note
 
 Outside our period: (1) *Flora of New Zealand*, vol. 1, Wellington, N.Z., 1961, liv, 1085 p.
-(2) *Handbook of the naturalized flora of New Zealand*, Wellington (Government Printer) 1940, 344 p.
-(3) *The botanical names of the flora of New Zealand*, (with A. Wall), Wellington (Whitcombe & Tombs Ltd.) 1945, 88 p.
+- (2) *Handbook of the naturalized flora of New Zealand*, Wellington (Government Printer) 1940, 344 p.
+- (3) *The botanical names of the flora of New Zealand*, (with A. Wall), Wellington (Whitcombe & Tombs Ltd.) 1945, 88 p.
 
 ### Publications
 

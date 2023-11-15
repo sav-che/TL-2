@@ -45,7 +45,7 @@ Ainsworth p. 214; Backer p. 65; Barnhart 1: 155 (b. 16 Mar 1851, d. 1 Jan 1931);
 
 #### Composite works
 
-(1) M.W. Beijerinck, *Verzamelde Geschriften* \[collected works\], Delft 1921-1940. 6 vols.
+- (1) M.W. Beijerinck, *Verzamelde Geschriften* \[collected works\], Delft 1921-1940. 6 vols.
 
 ### Publications
 

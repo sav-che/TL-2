@@ -6,9 +6,9 @@
 Berdau, Félix I. (1826-1895), Polish physician and botanist at Krakow, later at Warsawa. 
 **Abbreviated name**: *Berdau*
 
-#### HERBARIUM and TYPES
+#### Herbarium and types
 
-KRA, KRAM, WA.
+[[Collection KRA|KRA]], [[Collection KRAM|KRAM]], [[Collection WA|WA]].
 *Ref*.: GR p. 723; IH 2: 69.
 
 #### Bibliography and biography

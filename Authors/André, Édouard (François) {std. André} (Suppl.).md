@@ -33,14 +33,14 @@ AG 6(1): 296; Barnhart 1: 59 (b. 17 Jul 1840, Bourges; d. 25 Oct 1911, La Croix,
 
 #### Composite works
 
-(1) Editor of *Illustration horticole* 1868-1880, see C.A. Lemaire, Composite works.
-(2) Editor-in-chief *Revue horticole* 1882-1911.
-(3) See TL-2/6449, J. Müller-Arg., *Les lichens neo-granadiens* 1879.
-(4) See C. de Candolle, *Piperaceae andreanae*, Bull. Herb. Boissier ser. 2, 5: 696-711. 1907.
-(5) See Él. Marchal, *Not. Hédérac.* 1880.
-(6) G. Nicholson, *Dictionnaire pratique d'horticulture* 1892-1895, 5 vols., see TL-2/6784, André collaborator.
-(7) Co-author with August Rivière, *Fougères*, TL-2/9263.
-(8) See C. Roumeguère, Les lichens neo-granadiens et ecuadoriens 4 Oct 1879, TL-2/9680, André collector. *Review*: Anon., Bull. Soc. bot. France 26 (Rev. Bibl.): 170. 1879.
+- (1) Editor of *Illustration horticole* 1868-1880, see C.A. Lemaire, Composite works.
+- (2) Editor-in-chief *Revue horticole* 1882-1911.
+- (3) See TL-2/6449, J. Müller-Arg., *Les lichens neo-granadiens* 1879.
+- (4) See C. de Candolle, *Piperaceae andreanae*, Bull. Herb. Boissier ser. 2, 5: 696-711. 1907.
+- (5) See Él. Marchal, *Not. Hédérac.* 1880.
+- (6) G. Nicholson, *Dictionnaire pratique d'horticulture* 1892-1895, 5 vols., see TL-2/6784, André collaborator.
+- (7) Co-author with August Rivière, *Fougères*, TL-2/9263.
+- (8) See C. Roumeguère, Les lichens neo-granadiens et ecuadoriens 4 Oct 1879, TL-2/9680, André collector. *Review*: Anon., Bull. Soc. bot. France 26 (Rev. Bibl.): 170. 1879.
 
 ### Publications
 

@@ -34,9 +34,9 @@ Backer p. 72; Barnhart 1: 209 (b. 18 Nov 1849, d. 25 Aug 1900); BJI 1: 6; BL 1: 
 
 #### Composite works
 
-(1) *Icones bogorienses*, editor 1897-1900.
-(2) Contributed to A.L. van Hasselt, *Bijdr. fl. Midd. Sumatra* 1884, see TL-2/2460.
-(3) Introduction to *Schets. nutt. Ind. pl.* by M. Greshoff, see TL-2/2158.
+- (1) *Icones bogorienses*, editor 1897-1900.
+- (2) Contributed to A.L. van Hasselt, *Bijdr. fl. Midd. Sumatra* 1884, see TL-2/2460.
+- (3) Introduction to *Schets. nutt. Ind. pl.* by M. Greshoff, see TL-2/2158.
 
 ### Publications
 
@@ -59,9 +59,10 @@ Backer p. 72; Barnhart 1: 209 (b. 18 Nov 1849, d. 25 Aug 1900); BJI 1: 6; BL 1: 
 
 **Notes**
 *Authorship*: (1) Editor and author of preface: Pieter Johannes Veth (1815-1895), editor (no botanical texts).
-(2) J.G. Boerlage, junior author, text on p. 16-35.
-(3) Cornelius Marinus van der Sande Lacoste (1815-1887), author of cryptogams p. 35-50 (4) Arend Ludolf van Hasselt (1848-1909), senior author, text on p. B1-42.
-(5) D. de Loos, botanical fats, text on p. C1-3.
+- (2) J.G. Boerlage, junior author, text on p. 16-35.
+- (3) Cornelius Marinus van der Sande Lacoste (1815-1887), author of cryptogams p. 35-50.
+- (4) Arend Ludolf van Hasselt (1848-1909), senior author, text on p. B1-42.
+- (5) D. de Loos, botanical fats, text on p. C1-3.
 *Publ*.: 1884 (preface 30 Sep 1884), p. \[ii-vi\], \[1\]-50, *9 pl*., \[1\]-42, \[1\]-3, \[1\]-5 (index). *Copy*: U. − Issued by P.J. Veth as *Midden-Sumatra*. Reizen en onderzoekingen der Sumatra expeditie,... 1877-1879, vol. 4, Natural History, part 2: *Flora*.
 
 ##### n.21.822. Révision
@@ -100,12 +101,12 @@ Backer p. 72; Barnhart 1: 209 (b. 18 Nov 1849, d. 25 Aug 1900); BJI 1: 6; BL 1: 
 *Publ*.: 1888, cover-t.p., p. \[i, t.p.\], \[1\]-36. *Copy*: L. − Reprinted and to be cited from Algemeene Aardrijkskundige Bibliographie van Nederland... tweede deel. Natuurkundige Toestand, Leiden 1888, p. 11-45.
 *Reprint*: 1975, in Bibliografie van de flora en fauna van Nederland 1753-1886 door J.G. Boerlage en P.P.C. Hoek... Amsterdam (Backhuys & Meesters) 1975, p. 11-45 (facsimile). − See Taxon 24: 377. 1975.
 *Earlier list* of publications on Dutch plants given on p.\[1\] as follows:
-(1) C.A. Bergsma, *Lijst* der werken waarin onze *inlandsche planten* als zoodanig opgegeven en beschreven zyn. Alg. Konst- Letterbode 1834(1).(2): 23-26.
-(2) F.A.W. Miquel, Iets over de *Litteratuur onzer inlandsche Flora*, ib. 1834(1).(3): 57-59, 80. − See F.A. Stafleu, F.A.W. Miquel, *Netherlands botanist*, Wentia 16: 50 (no. 5). 1966.
-(3) C.A. Bergsma, *Brief aan den Redacteur* van den Konst- en Letterbode, id. 1834(8): 114-116.
-(4) F.A.W. Miquel, *Brief aan den Redacteur* van den Konst- en Letterbode, id. 1834(13): 196-197.
-(5) C.A. Bergsma, *Brief aan den Redacteur* van den Konst- en Letterbode, id. 1834(14): 212-215.
-(6) C.A.J.A. Oudemans, *De ontwikkeling onzer kennis aangaande de flora van Nederland *uit de bronnen geschetst en kritisch toegelicht, Ned. kruidk. Arch. ser. 2. 2(3): 214-319. 1877, 3(1): 1-75. 1878, 3(3): 325-398. 1881. − See also TL-2/7146, Historical review on p. 862.
+- (1) C.A. Bergsma, *Lijst* der werken waarin onze *inlandsche planten* als zoodanig opgegeven en beschreven zyn. Alg. Konst- Letterbode 1834(1).(2): 23-26.
+- (2) F.A.W. Miquel, Iets over de *Litteratuur onzer inlandsche Flora*, ib. 1834(1).(3): 57-59, 80. − See F.A. Stafleu, F.A.W. Miquel, *Netherlands botanist*, Wentia 16: 50 (no. 5). 1966.
+- (3) C.A. Bergsma, *Brief aan den Redacteur* van den Konst- en Letterbode, id. 1834(8): 114-116.
+- (4) F.A.W. Miquel, *Brief aan den Redacteur* van den Konst- en Letterbode, id. 1834(13): 196-197.
+- (5) C.A. Bergsma, *Brief aan den Redacteur* van den Konst- en Letterbode, id. 1834(14): 212-215.
+- (6) C.A.J.A. Oudemans, *De ontwikkeling onzer kennis aangaande de flora van Nederland *uit de bronnen geschetst en kritisch toegelicht, Ned. kruidk. Arch. ser. 2. 2(3): 214-319. 1877, 3(1): 1-75. 1878, 3(3): 325-398. 1881. − See also TL-2/7146, Historical review on p. 862.
 
 ##### n.21.826. Het geslacht Achyranthes
 

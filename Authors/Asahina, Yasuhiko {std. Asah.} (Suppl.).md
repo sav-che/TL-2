@@ -14,8 +14,8 @@
 
 #### Notes
 
-(1): See TL-2/1: 72
-(2): Asahina discovered Paraphenylendiamine as a reagent for lichen compounds.
+- (1): See TL-2/1: 72
+- (2): Asahina discovered Paraphenylendiamine as a reagent for lichen compounds.
 
 #### Bibliography and biography
 

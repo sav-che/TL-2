@@ -73,20 +73,20 @@ ADB 47: 163-165; AG 1: 40, 4: 52, 5(1): 270, 12(3): 573; Ainsworth p. 117, 236, 
 
 #### Composite works
 
-(1)-(4) see TL-2/1: 308.
-(5) A. Braun contributed to J.G.C. Lehmann, *Plantae Preissianae* 1844/47, see TL-2/4332.
-(6) Co-author with J.F. Klotzsch and C.D. Bouché, *Species novae et minus cognitae* 1851/52, see TL-2/3735. – See below.
-(7) Co-author with J.F. Klotzsch, C.D. Bouché and K.H.E. Koch, *Appendix specierum novarum* 1853, see TL-2/3737. – See also TL-2/3738, 3795. – See below.
-(8) *Characeae*, *in* F.v. Mueller, *Fragm. Phytogr. Austral.* 1: 43-44. Mar 1858-Dec 1859. – TL-2/6397.
-(9) *Uebersicht des natürlichen Systems* nach der Anordnung desselben von A. Braun, *in *P.F.A. Ascherson, *Fl. Prov. Brandenburg* 1: 22-146. 1864.
-(10) *Selaginellae in* J. Triana and J.E. Planchon, *Prodr. Fl. Novo-Granat.* 2: 354-390. 1865 (also Ann. Sci. nat., Bot. ser. 5. 3: 270-306. 1865).
-(11) *Characeae*, *in* F.J. Cohn, *Krypt.-Fl. Schlesien* 1(2). Mai 1877, see TL-2/1159.
-(12) *Characeae Australianae* hactenus cognitae a scriptis A. Braun enumeratae, *in* F.J.H. von Mueller, *Fragm. Phytogr. Austral.* suppl. to vol. 11(2): 45-52. 1880, see TL-2/3: 618.
+- (1)-(4) see TL-2/1: 308.
+- (5) A. Braun contributed to J.G.C. Lehmann, *Plantae Preissianae* 1844/47, see TL-2/4332.
+- (6) Co-author with J.F. Klotzsch and C.D. Bouché, *Species novae et minus cognitae* 1851/52, see TL-2/3735. – See below.
+- (7) Co-author with J.F. Klotzsch, C.D. Bouché and K.H.E. Koch, *Appendix specierum novarum* 1853, see TL-2/3737. – See also TL-2/3738, 3795. – See below.
+- (8) *Characeae*, *in* F.v. Mueller, *Fragm. Phytogr. Austral.* 1: 43-44. Mar 1858-Dec 1859. – TL-2/6397.
+- (9) *Uebersicht des natürlichen Systems* nach der Anordnung desselben von A. Braun, *in *P.F.A. Ascherson, *Fl. Prov. Brandenburg* 1: 22-146. 1864.
+- (10) *Selaginellae in* J. Triana and J.E. Planchon, *Prodr. Fl. Novo-Granat.* 2: 354-390. 1865 (also Ann. Sci. nat., Bot. ser. 5. 3: 270-306. 1865).
+- (11) *Characeae*, *in* F.J. Cohn, *Krypt.-Fl. Schlesien* 1(2). Mai 1877, see TL-2/1159.
+- (12) *Characeae Australianae* hactenus cognitae a scriptis A. Braun enumeratae, *in* F.J.H. von Mueller, *Fragm. Phytogr. Austral.* suppl. to vol. 11(2): 45-52. 1880, see TL-2/3: 618.
 
 #### Handwriting
 
-(1) W. Ilg, Hoppea 42: 93. 1984.
-(2) Wagenitz, G., Index coll. princ. herb. Gotting. 299. 1982.
+- (1) W. Ilg, Hoppea 42: 93. 1984.
+- (2) Wagenitz, G., Index coll. princ. herb. Gotting. 299. 1982.
 
 #### Note
 

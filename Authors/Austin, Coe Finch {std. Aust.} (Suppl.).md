@@ -37,7 +37,7 @@ Barnhart 1: 92; BM 1: 74; Bossert p. 17; CSP 1: 123, 7: 59, 12: 31; IH 1 (ed. 6)
 
 #### Composite works
 
-(1) Contributed *Lemnaceae* to A. Gray, *Manual* (TL-2/2124) ed. 5. 1867.
+- (1) Contributed *Lemnaceae* to A. Gray, *Manual* (TL-2/2124) ed. 5. 1867.
 
 #### Handwriting
 

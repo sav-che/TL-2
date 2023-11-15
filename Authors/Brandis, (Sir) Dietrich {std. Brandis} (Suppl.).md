@@ -44,10 +44,10 @@ ADB 6(2): 446, 12(3): 60; Backer p. 80-81; Barnhart 1: 241; BB p. 43; BJI 1: 7, 
 
 #### Composite works
 
-(1)-(2)\[(a), (b)\] see TL-2/1: 304.
-(3) see J.L. Stewart and D. Brandis, *Forest fl. N.W. India* 1874, TL-2/13.099. – IDC E-7319/2 and E-7320/2. – Bot. Zeit. 6 Nov 1874.
-(4) TL-2/704, *Forest fl., N.W. India* 1874, also on microfiche E-8442/1 (atlas). – *Facsimile reprint*: Dehra Dun 1972.
-(5) TL-2/705, *Indian trees* 1906, also on microfiche E-7305/2.
+- (1)-(2)\[(a), (b)\] see TL-2/1: 304.
+- (3) see J.L. Stewart and D. Brandis, *Forest fl. N.W. India* 1874, TL-2/13.099. – IDC E-7319/2 and E-7320/2. – Bot. Zeit. 6 Nov 1874.
+- (4) TL-2/704, *Forest fl., N.W. India* 1874, also on microfiche E-8442/1 (atlas). – *Facsimile reprint*: Dehra Dun 1972.
+- (5) TL-2/705, *Indian trees* 1906, also on microfiche E-7305/2.
 
 ### Publications
 

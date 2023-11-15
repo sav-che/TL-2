@@ -38,11 +38,11 @@ AG 4: 431, 6(1): 207, 12(1): 244, 12(3): 302; Barnhart 1: 149 (b. 25 Aug 1856, d
 
 #### Composite works
 
-(1) *Editor* of H. Wawra, *Itin. princ. S. Coburgi* 1883-1888, TL-2/16.847. − See also review by E. Hackel, ÖBZ 38: 319-320. 1 Sep 1888.
-(2) For further contributions of Beck in composite works see TL-2/1: 157-158, and the references to Beck in the other volumes of TL-2.
-(3) *Addition* to no. 384, *Die Vegetationsverhältnisse der illyrischen Länder*... 1901. *Reprint* 1976, A.R. Gantner Verlag, Vaduz, p. \[i\]-xv, \[1\]-535, *6 pl*., 2 maps. *Copy*: FAS(B). − Vegetation der Erde 4, 1976. − Extensive *review* by F. Fedde, Bot. Centralbl. 90(48): 630-640. 2 Dec 1902.
-(4) *Flora*, *in* Moritz Alvis von Becker (1808?-1887) *Hernstein in Niederösterreich*... Wien 1886, see e.g. BM 1: 120.
-(5) *Orobanche*, *in* E. Hannig and H. Winkler, *Die Pflanzenareale* ser. 1. 7: maps 61-69. 1927.
+- (1) *Editor* of H. Wawra, *Itin. princ. S. Coburgi* 1883-1888, TL-2/16.847. − See also review by E. Hackel, ÖBZ 38: 319-320. 1 Sep 1888.
+- (2) For further contributions of Beck in composite works see TL-2/1: 157-158, and the references to Beck in the other volumes of TL-2.
+- (3) *Addition* to no. 384, *Die Vegetationsverhältnisse der illyrischen Länder*... 1901. *Reprint* 1976, A.R. Gantner Verlag, Vaduz, p. \[i\]-xv, \[1\]-535, *6 pl*., 2 maps. *Copy*: FAS(B). − Vegetation der Erde 4, 1976. − Extensive *review* by F. Fedde, Bot. Centralbl. 90(48): 630-640. 2 Dec 1902.
+- (4) *Flora*, *in* Moritz Alvis von Becker (1808?-1887) *Hernstein in Niederösterreich*... Wien 1886, see e.g. BM 1: 120.
+- (5) *Orobanche*, *in* E. Hannig and H. Winkler, *Die Pflanzenareale* ser. 1. 7: maps 61-69. 1927.
 
 ### Publications
 

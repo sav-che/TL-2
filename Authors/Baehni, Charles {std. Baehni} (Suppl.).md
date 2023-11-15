@@ -31,13 +31,13 @@ Barnhart 1: 101; Hortus 3: 1187; IH 2: 48; Kew 1: 116-117; TL-2/1: 90; Zander ed
 
 #### Composite works
 
-(1) *Ulmaceae*, *in* J.F. Macbride et al., *Flora of Peru*, Chicago 2(2): 268-274. 1937.
-(2) *Planchonella puulupensis* (with O. Degener), *in* O. Degener, *Fl. Hawaiiensis* 1938, 2 p., *1 pl*.
-(3) *Code international de la nomenclature botanique*, traduction française par Ch. Baehni, *in* J. Lanjouw et al., *International Code of botanical nomenclature* adopted by the Seventh International Botanical Congress, Stockholm, July 1950, Utrecht 1952, p. 160-219; also co-editor of the English original, Regnum veg. vol. 3. Sep 1952.
-(4) Proposed *International Code of Nomenclature for Cultivated plants*, with Roger de Vilmorin, French translation, Regnum veg. 3: 204-219. Sep 1952.
-(5) Co-editor, J. Lanjouw et al., *International Code of Botanical Nomenclature*... Regnum veg. vol. 8, Utrecht, Dec. 1956, as well as id., Regnum veg. vol. 23, Dec 1961.
-(6) *Sapotaceae*, *in* J.F. Macbride et al., *Flora of Peru* 5a(3): 133-177. 27 Feb 1970, with Luciano Bernardi.
-(7) *Les Musées de Genève* 1944-1963; Baehni contributed many brief articles, written for a wider public, in this remarkable journal.
+- (1) *Ulmaceae*, *in* J.F. Macbride et al., *Flora of Peru*, Chicago 2(2): 268-274. 1937.
+- (2) *Planchonella puulupensis* (with O. Degener), *in* O. Degener, *Fl. Hawaiiensis* 1938, 2 p., *1 pl*.
+- (3) *Code international de la nomenclature botanique*, traduction française par Ch. Baehni, *in* J. Lanjouw et al., *International Code of botanical nomenclature* adopted by the Seventh International Botanical Congress, Stockholm, July 1950, Utrecht 1952, p. 160-219; also co-editor of the English original, Regnum veg. vol. 3. Sep 1952.
+- (4) Proposed *International Code of Nomenclature for Cultivated plants*, with Roger de Vilmorin, French translation, Regnum veg. 3: 204-219. Sep 1952.
+- (5) Co-editor, J. Lanjouw et al., *International Code of Botanical Nomenclature*... Regnum veg. vol. 8, Utrecht, Dec. 1956, as well as id., Regnum veg. vol. 23, Dec 1961.
+- (6) *Sapotaceae*, *in* J.F. Macbride et al., *Flora of Peru* 5a(3): 133-177. 27 Feb 1970, with Luciano Bernardi.
+- (7) *Les Musées de Genève* 1944-1963; Baehni contributed many brief articles, written for a wider public, in this remarkable journal.
 
 #### Note
 

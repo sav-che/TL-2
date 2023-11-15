@@ -25,8 +25,8 @@ Barnhart 1: 243; BL 2: 207; GR p. 206; Hortus 3: 1189; IF suppl. 4, p. 314; IH 2
 
 #### Notes
 
-(1) Outside our period: *The woody plants of Ohio* 1961, facsimile ed. 1969, 362 p., see Taxon 20: 187. 28 Feb 1971.
-(2) id. *Deciduous forests of Eastern North America* 1950, facsimile ed. 1964, 586 p., see Taxon 13: 295. 1964.
+- (1) Outside our period: *The woody plants of Ohio* 1961, facsimile ed. 1969, 362 p., see Taxon 20: 187. 28 Feb 1971.
+- (2) id. *Deciduous forests of Eastern North America* 1950, facsimile ed. 1964, 586 p., see Taxon 13: 295. 1964.
 
 ### Publications
 

@@ -18,7 +18,7 @@ AG 4: 722 (b. 6 Dec 1854, Tuliglawy, Galicia), 12(1): 247; Barnhart 1: 202; CSP 
 
 D. Szymkiewicz, Bibl. Fl. Polsk. 65-69. 1925 (detailed list of publications (nos. 765-845).
 
-#### BIOFILE
+#### Biofile
 
 - Anon., Bot. Not. 1920: 126 (d.).
 - Lack, H.W. and O. v. Sydow, Willdenowia 14: 447. 1984 (mentions many letters from botanists to him in addition to some letters written by himself to Karl Keck at UPS-UB).

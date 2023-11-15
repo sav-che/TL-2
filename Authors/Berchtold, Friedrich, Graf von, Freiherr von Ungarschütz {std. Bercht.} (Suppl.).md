@@ -22,10 +22,10 @@ AG 1: 345; Barnhart 1: 166 (b. 25 Oct 1781, Platz, bei Neuhaus, d. 3 Apr 1876, S
 - Ilg, W., Hoppea 42: 318. 1984 (member Regensb. bot. Ges. 1817).
 - Nemec, Vesmir 14: 33-39. 1935.
 
-#### Note (1)
+#### Note 
 
-See TL-2/1: 182-184 and indexes. − The spelling "Berchthold" is incorrect.
-(2) *Prir. rostlin*, TL-2/433. *Additional copy*: BM.
+- (1) See TL-2/1: 182-184 and indexes. − The spelling "Berchthold" is incorrect.
+- (2) *Prir. rostlin*, TL-2/433. *Additional copy*: BM.
 
 ### Publications
 

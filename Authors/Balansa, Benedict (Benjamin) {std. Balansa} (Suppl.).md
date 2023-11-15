@@ -40,7 +40,7 @@ G. Astre, *La vie de Benjamin Balansa*, Toulouse 1947, figs. 4 and 5.
 
 #### Composite works
 
-(1) With P.E. Boissier, *Description du genre Thurya*, see Boissier.
+- (1) With P.E. Boissier, *Description du genre Thurya*, see Boissier.
 
 ### Publications
 

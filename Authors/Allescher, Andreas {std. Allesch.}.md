@@ -10,7 +10,8 @@ Allescher, Andreas (1828-1903), German mycologist and highschool-teacher at Mün
 
 #### Herbarium and types
 
-[[Collection M|M]] (10.000 fungi). – Exsiccatae (with Johann Nepomuk Schnabl (1890-1900)): *Fungi bavarici exsiccati* (7 cent., nos. 1-700, 1890-1900), [[Collection B|B]], [[Collection C|C]], [[Collection FH|FH]] (has cent. 1-10), [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]].
+[[Collection M|M]] (10.000 fungi).
+*Exsiccatae* (with Johann Nepomuk Schnabl (1890-1900)): *Fungi bavarici exsiccati* (7 cent., nos. 1-700, 1890-1900), [[Collection B|B]], [[Collection C|C]], [[Collection FH|FH]] (has cent. 1-10), [[Collection HBG|HBG]], [[Collection KIEL|KIEL]], [[Collection L|L]], [[Collection LE|LE]], [[Collection M|M]], [[Collection NY|NY]], [[Collection PC|PC]].
 *Ref*.: IH 1 (ed. 6): 355, 2: 32.
 - Barnhart, NAF 9(6): 427. 1916.
 

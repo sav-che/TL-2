@@ -28,7 +28,7 @@ Barnhart 1: 183; BL 1: 187; CSP 13: 536; Hortus 3: 1188; IH 2: 73; Langman p. 13
 
 #### Composite works
 
-(1) Contributed texts and plates to *Addisonia* 2: 29-30, *pl. 55.* 30 Jun 1917 (*Baccharis halimifolia*), 2: 79-88, *pl. 80.* 31 Dec 1917 (*Aster cordifolius*), 3: 47-48, *pl. 104.* 30 Sep 1918 (*Aster laevis*), 3: 71-72, *pl. 116.* 31 Dec 1918 (*Ilex verticillata*), 6: 25-26, *pl. 205.* 15 Sep 1921 (*Hypopitys insignata*; Bicknell's last botanical publication).
+- (1) Contributed texts and plates to *Addisonia* 2: 29-30, *pl. 55.* 30 Jun 1917 (*Baccharis halimifolia*), 2: 79-88, *pl. 80.* 31 Dec 1917 (*Aster cordifolius*), 3: 47-48, *pl. 104.* 30 Sep 1918 (*Aster laevis*), 3: 71-72, *pl. 116.* 31 Dec 1918 (*Ilex verticillata*), 6: 25-26, *pl. 205.* 15 Sep 1921 (*Hypopitys insignata*; Bicknell's last botanical publication).
 
 ### Publications
 

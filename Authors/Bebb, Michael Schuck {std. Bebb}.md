@@ -27,7 +27,7 @@ Barnhart 1: 148 (b. 23 Dec 1838, Hamilton, Ohio, d. 5 Dec 1895, San Bernardino, 
 
 #### Note
 
-(1) See TL-2/9658, J.T. Rothrock, Rep. U.S. geogr. Surv. Wheeler 1879.
+- (1) See TL-2/9658, J.T. Rothrock, Rep. U.S. geogr. Surv. Wheeler 1879.
 
 ### Publications
 

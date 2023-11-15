@@ -54,7 +54,7 @@ Backer p. 11; Barnhart 1: 18 (b. 8 Oct 1750, Larv, Västergötland, d. 30 Jan 18
 
 #### Composite works
 
-(1) A. Afzelii... *Fungi Guineenses*,... praeside Mag. E. Fries... pp. C.M. Nyman, Pars 1, Uppsala 1837. q.v.
+- (1) A. Afzelii... *Fungi Guineenses*,... praeside Mag. E. Fries... pp. C.M. Nyman, Pars 1, Uppsala 1837. q.v.
 *Addition* to no. 31, *Gen. pl. guin.*: IDC 8528.
 *Addition* to no. 34, *Reliq. afzel.*: see review in ÖBZ 12: 100. 1862 (on distribution of the plates).
 

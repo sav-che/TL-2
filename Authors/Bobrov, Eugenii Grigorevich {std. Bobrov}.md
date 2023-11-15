@@ -26,38 +26,41 @@ Barnhart 1: 205; Hortus 3: 1188; IH 2: 80; Kew 1: 273; Roon p. 19; Zander ed. 10
 #### Composite works
 
 Contributions to Komarov et al., *Flora URSS*:
-(1) Ephedraceae, 1: 195-204. Jan 1934.
-(2) Gramineae – Gen. 178-182, with V.I. Kreczetovicz, 2: 494-543. 24 Aug 1934.
-(3) Gramineae – Loliolum, 2: 544-545. 24 Aug 1934.
-(4) Betulaceae – Coryleae, 5: 253-268. 22 Jun 1936.
-(5) Fagaceae – Castanea, 5: 320-322. 22 Jun 1936.
-(6) Santalaceae, 5: 412-431. 22 Jun 1936.
-(7) Ranunculaceae – Adonis, 7: 528-539. 8 Jul 1937.
-(8) Capparidaceae, 8: 1-14. 20 Mai 1939.
-(9) Leguminosae – Lagonychium, 11: 13-15. 23 Jul 1945.
-(10) Leguminosae – Caesalpinia, 11: 22-23. 23 Jul 1945.
-(11) Leguminosae – Gen. 791-792, 11: 176-261. 23 Jul 1945.
-(12) Introduction to vol. 13 with B.K. Schischkin, id. 13: \[ii-vii\], vii-xxiv. 24 Jan 1948.
-(13) Leguminosae – Gen. 827-829, 13: 520-530. 24 Jan 1948.
-(14) Leguminosae – Phaseolus, 13: 534-538. 24 Jan 1948.
-(15) Introduction to vol. 14, with B.K. Schischkin 14: ii-xxix. 9 Mar 1949.
-(16) Geraniaceae – Geranium, 14: 1-62. 9 Mar 1949.
-(17) Geraniaceae – Pelargonium, 14: 72-73. 9 Mar 1949.
-(18) Zygophyllaceae, 14: 146-198. 9 Mar 1949.
-(19) Introduction to vol. 15, with B.K. Schischkin, 15: ii-xxiii. 12 Dec 1949.
-(20) Umbelliferae – Hydroc., Sanicul., 15: 57-88. 25 Nov 1950.
-(21) Introduction to vol. 18, with B.K. Schischkin, 18: ii-xxix. 16 Oct 1952.
-(22) Monotropaceae, 18: 19-22. 16 Oct 1952.
-(23) Menyanthaceae, 18: 640-645. 16 Oct 1952.
-(24) Introduction to vol. 22, with B.K. Schischkin, 22: ii-xxv. 18 Jun 1955.
-(25) Globulariaceae, 23: 128-131. 12 Dec 1958.
-(26) Introduction to vol. 24, with B.K. Schischkin, 24: ii-xvii. 9 Feb 1957.
-(27) Moringaceae, 24: 1-10. 9 Feb 1957.
-(28) Dipsacaceae, 24: 10-91. 9 Feb 1957.
-(29) Addenda, 24: 455-476. 9 Feb 1957.
-(30) Introduction to vol. 26, with B.K. Schischkin, 26: ii-xxiv. 31 Oct 1961. (31) Introduction to vol. 27, with B.K. Schischkin, 27: ii-xxii. 10 Aug 1962. (32) Compositae – Echinops, 27: 1-53. 10 Aug 1962.
-(33) Compositae – Atractylodes 27: 88-89. 10 Aug 1962.
-(34) Addenda, 27: 714-727. 10 Aug 1962.
-(35) Introduction to vol. 28, with S.K. Czerepanov, 28: ii-xx. 24 Jun 1963. (36) Introduction to vol. 29, with N.N. Tzelev, 29: ii-xxiv. 24 Feb 1962.
-(37) Index to vols. i-xxx, 1964.
+- (1) Ephedraceae, 1: 195-204. Jan 1934.
+- (2) Gramineae – Gen. 178-182, with V.I. Kreczetovicz, 2: 494-543. 24 Aug 1934.
+- (3) Gramineae – Loliolum, 2: 544-545. 24 Aug 1934.
+- (4) Betulaceae – Coryleae, 5: 253-268. 22 Jun 1936.
+- (5) Fagaceae – Castanea, 5: 320-322. 22 Jun 1936.
+- (6) Santalaceae, 5: 412-431. 22 Jun 1936.
+- (7) Ranunculaceae – Adonis, 7: 528-539. 8 Jul 1937.
+- (8) Capparidaceae, 8: 1-14. 20 Mai 1939.
+- (9) Leguminosae – Lagonychium, 11: 13-15. 23 Jul 1945.
+- (10) Leguminosae – Caesalpinia, 11: 22-23. 23 Jul 1945.
+- (11) Leguminosae – Gen. 791-792, 11: 176-261. 23 Jul 1945.
+- (12) Introduction to vol. 13 with B.K. Schischkin, id. 13: \[ii-vii\], vii-xxiv. 24 Jan 1948.
+- (13) Leguminosae – Gen. 827-829, 13: 520-530. 24 Jan 1948.
+- (14) Leguminosae – Phaseolus, 13: 534-538. 24 Jan 1948.
+- (15) Introduction to vol. 14, with B.K. Schischkin 14: ii-xxix. 9 Mar 1949.
+- (16) Geraniaceae – Geranium, 14: 1-62. 9 Mar 1949.
+- (17) Geraniaceae – Pelargonium, 14: 72-73. 9 Mar 1949.
+- (18) Zygophyllaceae, 14: 146-198. 9 Mar 1949.
+- (19) Introduction to vol. 15, with B.K. Schischkin, 15: ii-xxiii. 12 Dec 1949.
+- (20) Umbelliferae – Hydroc., Sanicul., 15: 57-88. 25 Nov 1950.
+- (21) Introduction to vol. 18, with B.K. Schischkin, 18: ii-xxix. 16 Oct 1952.
+- (22) Monotropaceae, 18: 19-22. 16 Oct 1952.
+- (23) Menyanthaceae, 18: 640-645. 16 Oct 1952.
+- (24) Introduction to vol. 22, with B.K. Schischkin, 22: ii-xxv. 18 Jun 1955.
+- (25) Globulariaceae, 23: 128-131. 12 Dec 1958.
+- (26) Introduction to vol. 24, with B.K. Schischkin, 24: ii-xvii. 9 Feb 1957.
+- (27) Moringaceae, 24: 1-10. 9 Feb 1957.
+- (28) Dipsacaceae, 24: 10-91. 9 Feb 1957.
+- (29) Addenda, 24: 455-476. 9 Feb 1957.
+- (30) Introduction to vol. 26, with B.K. Schischkin, 26: ii-xxiv. 31 Oct 1961.
+- (31) Introduction to vol. 27, with B.K. Schischkin, 27: ii-xxii. 10 Aug 1962.
+- (32) Compositae – Echinops, 27: 1-53. 10 Aug 1962.
+- (33) Compositae – Atractylodes 27: 88-89. 10 Aug 1962.
+- (34) Addenda, 27: 714-727. 10 Aug 1962.
+- (35) Introduction to vol. 28, with S.K. Czerepanov, 28: ii-xx. 24 Jun 1963.
+- (36) Introduction to vol. 29, with N.N. Tzelev, 29: ii-xxiv. 24 Feb 1962.
+- (37) Index to vols. i-xxx, 1964.
 

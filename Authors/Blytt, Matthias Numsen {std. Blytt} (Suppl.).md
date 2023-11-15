@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection O|O]]; further material at [[Collection B|B]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection E|E]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection L|L]], [[Collection M|M]], [[Collection O|O]], [[Collection P|P]], [[Collection PH|PH]], [[Collection WAG|WAG]], [[Collection WRSL|WRSL]]. − Exsiccatae: *Plantae norvegiae, praesertium alpinum rariores*, ca. 1856.
+[[Collection O|O]]; further material at [[Collection B|B]], [[Collection BUF|BUF]], [[Collection C|C]], [[Collection E|E]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection L|L]], [[Collection M|M]], [[Collection O|O]], [[Collection P|P]], [[Collection PH|PH]], [[Collection WAG|WAG]], [[Collection WRSL|WRSL]]. −
+*Exsiccatae*: *Plantae norvegiae, praesertium alpinum rariores*, ca. 1856.
 
 #### Bibliography and biography
 
@@ -35,7 +36,7 @@ AG 2(1): 159; Barnhart 1: 205 (b. 26 Apr 1789, d. 26 Jul 1862); BL 2: 631 (index
 
 #### Composite works
 
-(1) Fortegnelse over de in Kongeriget Norge vildvaxende Traearter og Buskväxter, *in* J.W. Hornemann, *Fors. oecon. Plantel.* ed. 3. 2: 323-338. 1837 (see also TL-2/3045).
+- (1) Fortegnelse over de in Kongeriget Norge vildvaxende Traearter og Buskväxter, *in* J.W. Hornemann, *Fors. oecon. Plantel.* ed. 3. 2: 323-338. 1837 (see also TL-2/3045).
 
 #### Eponymy
 

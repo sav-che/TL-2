@@ -43,7 +43,7 @@ H.M. Burdet, Candollea 27: 329-330. 1971.
 
 #### Composite works
 
-(1) Co-editor of the student paper *Samfundsblade* at the University of Christiania \[Oslo\].
+- (1) Co-editor of the student paper *Samfundsblade* at the University of Christiania \[Oslo\].
 
 ### Publications
 

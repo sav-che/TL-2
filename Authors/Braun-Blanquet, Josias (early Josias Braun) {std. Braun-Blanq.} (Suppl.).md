@@ -66,9 +66,9 @@ E. and S. Pignatti, Phytocoenologia 9(4): 433-442. 1981 (173 publ. by B. only, 7
 
 #### Composite works
 
-(1) Contributed to G. Hegi, *Ill. Fl. Mitt.-Eur.* 4(2), 5(1), see TL-2/2571.
-(2) Map 30, *Callitris articulata*, *in* E. Hanning and H. Winkler, eds., Pflanzenareale ser. 1. 3: no. 4. 1927.
-(3) *Les Phanérogames*, *in* P. Allorge et al., *Histoire du peuplement de la Corse*, Étude biogéographique p. 237-245. 1925.
+- (1) Contributed to G. Hegi, *Ill. Fl. Mitt.-Eur.* 4(2), 5(1), see TL-2/2571.
+- (2) Map 30, *Callitris articulata*, *in* E. Hanning and H. Winkler, eds., Pflanzenareale ser. 1. 3: no. 4. 1927.
+- (3) *Les Phanérogames*, *in* P. Allorge et al., *Histoire du peuplement de la Corse*, Étude biogéographique p. 237-245. 1925.
 
 ### Publications
 

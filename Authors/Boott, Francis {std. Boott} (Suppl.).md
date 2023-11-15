@@ -38,8 +38,8 @@ AG 1: 34; Backer p. 74; Barnhart 1: 220 (b. 26 Apr 1792, d. 25 Dec 1863); BB p. 
 
 #### Composite works
 
-(1) see TL-2/1: 278.
-(2) *Carex*, *in* W.J. Hooker, *Flora boreali-americana* 2: 207-228. 1840.
+- (1) see TL-2/1: 278.
+- (2) *Carex*, *in* W.J. Hooker, *Flora boreali-americana* 2: 207-228. 1840.
 
 ### Publications
 

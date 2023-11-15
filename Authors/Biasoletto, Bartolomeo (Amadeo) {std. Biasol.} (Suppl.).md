@@ -36,8 +36,8 @@ AG 1: 249 (err. d. 17 Jan 1859); Barnhart 1: 182; BM 1: 160; Bossert p. 38; CSP 
 
 #### Composite works
 
-(1) *Conspectus plantarum oeconomicarum Istriae*, *in* Pittoreskes Oestreich, Nr. 13, Istrien, Wien 1840, n.v., see PR ed. 1.
-(2) *Viaggio di* S.M. *Federico Augusto re di Sassonia* per l'Istria, Dalmacia e Montenegro, Trieste 1841. Oct., 264 p., *3 pl*. n.v., listed by PR ed. 1, no. 863. − German extract Dresden 1842 (n.v.).
+- (1) *Conspectus plantarum oeconomicarum Istriae*, *in* Pittoreskes Oestreich, Nr. 13, Istrien, Wien 1840, n.v., see PR ed. 1.
+- (2) *Viaggio di* S.M. *Federico Augusto re di Sassonia* per l'Istria, Dalmacia e Montenegro, Trieste 1841. Oct., 264 p., *3 pl*. n.v., listed by PR ed. 1, no. 863. − German extract Dresden 1842 (n.v.).
 
 #### Note
 

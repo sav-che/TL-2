@@ -46,15 +46,16 @@ Ainsworth p. 320, 321; Barnhart 1: 112 (b. 31 Mar 1853, d. 30 Nov 1922); BB p. 1
 
 #### Composite works
 
-(see also TL-2/1: 111): (1) *Botany* \[of *Rodriguez*\], *in* An account of the collections made... during the *Transit of Venus expedition* in Phil. Trans. Roy. Soc. 168 (extra vol.): 302-387, *pl. 19-36.* 1879. *Copy*: B-S. − The botany part was preprinted 1878 (rd. at Genève "fin 1878"): p. \[1\]-118, *pl. 19-40* (uncol. liths.). Balfour's part contained *Introductory remarks*, and *Flowering plants* and *ferns*. *Copy*: G.
-(2) K. Goebel, *Outlines of classification and special morphology*. A new edition of Sach's *Textbook of botany*. Book II. Translated by Henry E.F. Garnsey, revised by I.B. Balfour, London 1887, 482 p. (*Publ*.: Mar 1887, see Bot. Centralbl. 30: 18. 1887, review ib. 30: 226-227. 1887).
-(3) *Comparative morphology and biology of the Fungi*, Mycetozoa and Bacteria, English translation by H.E.F. Garnsey, revised by I.B. Balfour, London 1887, 522 p.
-(4) With H.E.F. Garnsey, *Lectures on bacteria*. Oxford 1888, xii, 193 p.
-(5) J. Sachs, *History of botany* 1530-1860, Oxford (Clarendon Press) 1890, translation by H.E.F. Garnsey, revised by I.B. Balfour.
-(6) H. Solms-Laubach, *Fossil botany*. London 1891, translation by H.E.F. Garnsey, revised by I.B. Balfour.
-(7) I.B. Balfour et al., *Botany of Sokotra and Abd-el-Kuri*, *in* W.R. Ogilvie-Grant et al., *The natural history of Sokotra and Abd-el-Kuri*, Liverpool (Free Public Library, Museum...) 1903, contributions by Balfour on p. \[i, iii\], 449-534, *pl. 26A, 26B* (col.) \[Angiosp.\], \[535\]-542, 543-570, *pl. 27.* − Reprint at G (no date).
-(8) Translated K.L.E. Goebel, *Organographie der Pflanzen* ed. 1, 1898-1901 as *Organography of plants*, see TL-2/2067.
-(9) Translated E. Warming, *Plante samfund* 1895 (see TL-2/16.732), *Oecology of plants*. Mai 1909.
+(see also TL-2/1: 111): 
+- (1) *Botany* \[of *Rodriguez*\], *in* An account of the collections made... during the *Transit of Venus expedition* in Phil. Trans. Roy. Soc. 168 (extra vol.): 302-387, *pl. 19-36.* 1879. *Copy*: B-S. − The botany part was preprinted 1878 (rd. at Genève "fin 1878"): p. \[1\]-118, *pl. 19-40* (uncol. liths.). Balfour's part contained *Introductory remarks*, and *Flowering plants* and *ferns*. *Copy*: G.
+- (2) K. Goebel, *Outlines of classification and special morphology*. A new edition of Sach's *Textbook of botany*. Book II. Translated by Henry E.F. Garnsey, revised by I.B. Balfour, London 1887, 482 p. (*Publ*.: Mar 1887, see Bot. Centralbl. 30: 18. 1887, review ib. 30: 226-227. 1887).
+- (3) *Comparative morphology and biology of the Fungi*, Mycetozoa and Bacteria, English translation by H.E.F. Garnsey, revised by I.B. Balfour, London 1887, 522 p.
+- (4) With H.E.F. Garnsey, *Lectures on bacteria*. Oxford 1888, xii, 193 p.
+- (5) J. Sachs, *History of botany* 1530-1860, Oxford (Clarendon Press) 1890, translation by H.E.F. Garnsey, revised by I.B. Balfour.
+- (6) H. Solms-Laubach, *Fossil botany*. London 1891, translation by H.E.F. Garnsey, revised by I.B. Balfour.
+- (7) I.B. Balfour et al., *Botany of Sokotra and Abd-el-Kuri*, *in* W.R. Ogilvie-Grant et al., *The natural history of Sokotra and Abd-el-Kuri*, Liverpool (Free Public Library, Museum...) 1903, contributions by Balfour on p. \[i, iii\], 449-534, *pl. 26A, 26B* (col.) \[Angiosp.\], \[535\]-542, 543-570, *pl. 27.* − Reprint at G (no date).
+- (8) Translated K.L.E. Goebel, *Organographie der Pflanzen* ed. 1, 1898-1901 as *Organography of plants*, see TL-2/2067.
+- (9) Translated E. Warming, *Plante samfund* 1895 (see TL-2/16.732), *Oecology of plants*. Mai 1909.
 
 ### Publications
 

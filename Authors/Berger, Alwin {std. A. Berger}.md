@@ -25,7 +25,8 @@ Barnhart 1: 168; BL 2: 362; BM 6: 81; Bossert p. 34; CSP 13: 464; Kew 1: 221; La
 
 #### Composite works
 
-(1) EP ed. 2, *Crassulaceae*, 18a: 352-483. 1930. (2) Pflanzenreich, Heft 33, *Liliaceae — Asphodeloideae – Aloineae*. Leipzig 8 Mai 1908, 347 p., 1 pl., 817 figs., repr. Lehre 1958/60.
+- (1) EP ed. 2, *Crassulaceae*, 18a: 352-483. 1930. 
+- (2) Pflanzenreich, Heft 33, *Liliaceae — Asphodeloideae – Aloineae*. Leipzig 8 Mai 1908, 347 p., 1 pl., 817 figs., repr. Lehre 1958/60.
 
 #### Eponymy
 

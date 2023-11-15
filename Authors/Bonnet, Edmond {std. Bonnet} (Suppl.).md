@@ -34,7 +34,7 @@ AG 2(2): 384, 7: 411; Barnhart 1: 218; BFM 1531; BJI 1: 6; BL 1: 19, 38, 43, 44,
 
 #### Composite works
 
-(1) *Énumeration systématique des plantes recueillies par la mission saharienne*, *in* F. Foureau, Docum. Sci. miss. sahar. 1905: 400-413.
+- (1) *Énumeration systématique des plantes recueillies par la mission saharienne*, *in* F. Foureau, Docum. Sci. miss. sahar. 1905: 400-413.
 
 ### Publications
 

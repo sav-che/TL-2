@@ -23,10 +23,10 @@ Barnhart 1: 44 (b. 14 Jan 1892); BL 2: 622 (index with numerous entries); GR p. 
 
 #### Composite works
 
-(1) With E. Asplund, *Stockholmstraktens växter* ed. 2, 1937, see G. Andersson 1914, ed. 1; see also BL 2: 547 for further details.
-(2) Edited Th. Krok, *Sv. Fl. Skol.* 1883 (TL-2/3954), editions 16-25, 1920-1960.
-(3) Id. Th. Krok, *Sv. fl. skol., Krypt.* eds. 5-7, 1932-1962.
-(4) Id. Th. Krok, *Sv. skolfl.* 1957 (TL-2/3957).
+- (1) With E. Asplund, *Stockholmstraktens växter* ed. 2, 1937, see G. Andersson 1914, ed. 1; see also BL 2: 547 for further details.
+- (2) Edited Th. Krok, *Sv. Fl. Skol.* 1883 (TL-2/3954), editions 16-25, 1920-1960.
+- (3) Id. Th. Krok, *Sv. fl. skol., Krypt.* eds. 5-7, 1932-1962.
+- (4) Id. Th. Krok, *Sv. skolfl.* 1957 (TL-2/3957).
 
 ### Publications
 

@@ -23,7 +23,7 @@ Backer p. 646; Barnhart 1: 202; IH 2: 79; JW 2: 185; Kew 1: 268; Roon p. 18; SK 
 
 #### Composite works
 
-(1) *Myoporaceae*, *in* C.G.G.J. van Steenis, ed., Fl. males. ser. 1. 4(3): 265-266. Dec 1951.
+- (1) *Myoporaceae*, *in* C.G.G.J. van Steenis, ed., Fl. males. ser. 1. 4(3): 265-266. Dec 1951.
 
 ### Publications
 

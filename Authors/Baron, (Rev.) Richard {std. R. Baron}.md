@@ -26,8 +26,8 @@ BB p. 21; BL 1: 97; BM 1: 100; CSP 3: 311; Desmond p. 41 (b. 8 Sep 1847, Kendal,
 
 #### Note
 
-(1) For a detailed account of Richard Baron's *Compendium des plantes malgaches* of 1901-1906 see L.J. Dorr (1987) (also list of sources).
-(2) Idem for his *Botany*, na filazana ny amy ny zava-maniry sy ny fombany..., Antananarivo (NY L.M.S. College) 1888, see L.J. Dorr (1987).
+- (1) For a detailed account of Richard Baron's *Compendium des plantes malgaches* of 1901-1906 see L.J. Dorr (1987) (also list of sources).
+- (2) Idem for his *Botany*, na filazana ny amy ny zava-maniry sy ny fombany..., Antananarivo (NY L.M.S. College) 1888, see L.J. Dorr (1987).
 
 #### Eponymy
 

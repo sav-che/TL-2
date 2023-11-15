@@ -10,7 +10,8 @@ Abbayes, Henri des (1898-1974), French lichenologist and plant collector at Renn
 
 #### Herbarium and types
 
-Mainly in private herbarium, also in [[Collection ABI|ABI]], [[Collection BM|BM]], [[Collection NTM|NTM]], [[Collection PC|PC]], [[Collection REN|REN]], [[Collection US|US]]. – *Exsiccatae*:
+Mainly in private herbarium, also in [[Collection ABI|ABI]], [[Collection BM|BM]], [[Collection NTM|NTM]], [[Collection PC|PC]], [[Collection REN|REN]], [[Collection US|US]].
+*Exsiccatae*:
 1. *Lichenes armoricani spectabiles exsiccati* (25 sets, fasc. i-vi, nos. 1-120, St. Brieuc (i-iv), Rennes (v-vi) 1926-1936), sets at [[Collection B|B]], [[Collection BPI|BPI]], [[Collection LD|LD]], [[Collection NTM|NTM]], [[Collection PC|PC]], [[Collection REN|REN]], [[Collection UPS|UPS]], [[Collection W|W]].
 2. *Lichenes gallici et nonnulli alii exsiccati* (fasc. i-iii, nos. 1-60, Rennes 1936-1937), sets at [[Collection B|B]], [[Collection BM|BM]], [[Collection BPI|BPI]], [[Collection H|H]], [[Collection L|L]], [[Collection LD|LD]], [[Collection PC|PC]], [[Collection UPS|UPS]], [[Collection W|W]].
 3. *Lichenes madagascarienses et borbonici exsiccati* (fasc. i-ii, nos. 1-40, Rennes 1961-1966), sets at [[Collection FH|FH]], [[Collection L|L]], [[Collection M|M]], [[Collection PC|PC]], [[Collection REN|REN]], [[Collection TUR|TUR]], [[Collection UPS|UPS]] (in all 15 sets published).

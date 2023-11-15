@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection PAD|PAD]], further material at [[Collection B|B]], [[Collection MSC|MSC]]. − Exsiccatae: *Fungi lusitanici* (78 nos.), with P.A. Saccardo and C. Roumeguère, set at [[Collection FH|FH]].
+[[Collection PAD|PAD]], further material at [[Collection B|B]], [[Collection MSC|MSC]]. −
+*Exsiccatae*: *Fungi lusitanici* (78 nos.), with P.A. Saccardo and C. Roumeguère, set at [[Collection FH|FH]].
 
 #### Bibliography and biography
 

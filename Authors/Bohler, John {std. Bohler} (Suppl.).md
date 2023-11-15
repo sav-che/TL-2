@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection BIRA|BIRA]]. − Exsiccatae: *Lichenes britannici* or, specimens of the Lichens of Britain in monthly fasciculi with descriptions and occasional remarks, Sheffield (Ridge), 16 fasc., 128 nos., as follows (fide G. Sayre 1969):
+[[Collection BIRA|BIRA]]. −
+*Exsiccatae*: *Lichenes britannici* or, specimens of the Lichens of Britain in monthly fasciculi with descriptions and occasional remarks, Sheffield (Ridge), 16 fasc., 128 nos., as follows (fide G. Sayre 1969):
 
 |Fasc.|numbers|dates|Fasc.|numbers|dates|
 |---|---|---|---|---|---|
@@ -41,6 +42,6 @@ Barnhart 1: 210; BB p. 37; BL 2: 262; BM 1: 188; Desmond p. 73 (further referenc
 
 #### Composite works
 
-(1) *A flora of Roche Abbey, in* Aveling, *History of Roche Abbey*, London 1870 (n.v.). − See Blackwell, E.M. (1961).
-(2) *The flora of Sherwood Forest*, *in* Rob. White, Worksop, *The Dukery and Sherwood Forest*, Worksop 1875, p. 303-326 (fide BL 2: 262). − Has a sketch of Bohler's life.
+- (1) *A flora of Roche Abbey, in* Aveling, *History of Roche Abbey*, London 1870 (n.v.). − See Blackwell, E.M. (1961).
+- (2) *The flora of Sherwood Forest*, *in* Rob. White, Worksop, *The Dukery and Sherwood Forest*, Worksop 1875, p. 303-326 (fide BL 2: 262). − Has a sketch of Bohler's life.
 

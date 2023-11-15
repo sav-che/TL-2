@@ -10,7 +10,8 @@ Billot, Paul Constantin (1796-1863), Alsatian botanist at Hagenau.
 
 #### Herbarium and types
 
-Unknown. His exsiccatae (see below) in many herbaria. Exsiccatae: *Flora Galliae et Germaniae exsiccata*, herbier servant de complément à celui du Dr. F. Schultz, 1846-1861 (-1878)
+Unknown. His exsiccatae (see below) in many herbaria.
+*Exsiccatae*: *Flora Galliae et Germaniae exsiccata*, herbier servant de complément à celui du Dr. F. Schultz, 1846-1861 (-1878)
 
 |cent.	|dates	|cent.	|dates	|p.\*	|cent.	|dates	|p.|
 |---	|---	|---	|---	|---	|---	|---	|---	|

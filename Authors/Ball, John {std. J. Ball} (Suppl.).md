@@ -58,7 +58,7 @@ John Ball was an enthusiastic alpinist; he published in this field. His main wor
 
 #### Composite works
 
-(1) Co-author with J.D. Hooker and George Maw, *Journ. Marocco* 1878, TL-2/2982.
+- (1) Co-author with J.D. Hooker and George Maw, *Journ. Marocco* 1878, TL-2/2982.
 
 ### Publications
 

@@ -28,12 +28,12 @@ Barnhart 1: 149; BFM see p. 273-274; BL 2: see index on p. 627-628; Hortus 3: 11
 
 #### Composite works
 
-(1) Editor *Bauhinia* 1962-1973.
-(2) \[Obit. of\] *Adolf Engler*, Apotheker-Zeitung 68(50): 671-672. 1970.
-(3) Binz, A., *Schul- und Exkursionsflora für die Schweiz*, ed. 8, Basel. 1957; ed. 9. Jul 1959; ed. 10. 1961; ed. 11. 1964; ed. 12. 1966; ed. 13. 1968; ed. 14. 1970; ed. 15. 1973; ed. 16. Mai 1976, ed. 17 (with C. Heitz). 1980. − See TL-2/521.
-(4) Binz, A. and E. Thommen, *Flore de la Suisse* (éd. française 3 by P. Villaret on ed. 11 of German original).
-(5) Ed. 5 of E. Thommen, *Taschenatlas der Schweizer Flora*, for eds. 1-4 see TL-2/14.241.
-(6) Editor and for the major part author of: *Flora Vallesiacae supplementum*, Zürich 1956, see Henri Jaccard, TL-2/3208.
+- (1) Editor *Bauhinia* 1962-1973.
+- (2) \[Obit. of\] *Adolf Engler*, Apotheker-Zeitung 68(50): 671-672. 1970.
+- (3) Binz, A., *Schul- und Exkursionsflora für die Schweiz*, ed. 8, Basel. 1957; ed. 9. Jul 1959; ed. 10. 1961; ed. 11. 1964; ed. 12. 1966; ed. 13. 1968; ed. 14. 1970; ed. 15. 1973; ed. 16. Mai 1976, ed. 17 (with C. Heitz). 1980. − See TL-2/521.
+- (4) Binz, A. and E. Thommen, *Flore de la Suisse* (éd. française 3 by P. Villaret on ed. 11 of German original).
+- (5) Ed. 5 of E. Thommen, *Taschenatlas der Schweizer Flora*, for eds. 1-4 see TL-2/14.241.
+- (6) Editor and for the major part author of: *Flora Vallesiacae supplementum*, Zürich 1956, see Henri Jaccard, TL-2/3208.
 
 ### Publications
 

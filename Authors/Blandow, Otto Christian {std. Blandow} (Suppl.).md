@@ -27,7 +27,7 @@ ADB 2: 555; Barnhart 1: 198 (b. 5 Aug 1778, Waren, Meckl., d. 15 Mar 1810, id.);
 
 #### Composite works
 
-(1) See J. Sturm, *Deutschl. Fl. Abth. II, Crypt.* 3(9-11), 1809-1810, see TL-2/13.335 on p. 69.
+- (1) See J. Sturm, *Deutschl. Fl. Abth. II, Crypt.* 3(9-11), 1809-1810, see TL-2/13.335 on p. 69.
 
 ### Publications
 

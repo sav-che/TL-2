@@ -32,9 +32,9 @@ AG 6(1): 533-534, 5(2): 126; Barnhart 1: 119; BL 1: 41, 2: 386; BM 1: 96, 6: 57;
 
 #### Composite works
 
-(1) Stefani et al., *Samos*, Étude géologique, paléontologique, et botanique. Lausanne 1892.
-(2) Durand et Baratte, *Florae Libycae Prodromus* (1910); Barbey collaborator.
-(3) *Bulletin de l'Herbier Boissier*, 2 series, 1893-1908 (see also E. Autran and G. Beauverd who were the actual editors).
+- (1) Stefani et al., *Samos*, Étude géologique, paléontologique, et botanique. Lausanne 1892.
+- (2) Durand et Baratte, *Florae Libycae Prodromus* (1910); Barbey collaborator.
+- (3) *Bulletin de l'Herbier Boissier*, 2 series, 1893-1908 (see also E. Autran and G. Beauverd who were the actual editors).
 
 #### Eponymy
 

@@ -10,7 +10,8 @@ Bartram, Edwin Bunting (1878-1964), American bryologist.
 
 #### Herbarium and types
 
-[[Collection FH|FH]] (75.000). – Exsiccatae: *Mosses of Southern Arizona* (fasc. i-vii, nos. 1-175, Bushkill, Pa., 1924-1927): [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PC|PC]].
+[[Collection FH|FH]] (75.000).
+*Exsiccatae*: *Mosses of Southern Arizona* (fasc. i-vii, nos. 1-175, Bushkill, Pa., 1924-1927): [[Collection FH|FH]], [[Collection NY|NY]], [[Collection PC|PC]].
 *Ref*.: IH 2: 58.
 - Sayre, Mem. New York Bot. Gard. 19(2): 180-181. 1971.
 

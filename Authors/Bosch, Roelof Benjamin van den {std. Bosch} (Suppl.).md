@@ -34,14 +34,14 @@ Barnhart 1: 225 (b. 31 Oct 1810, Rotterdam, d. 18 Jan 1862, Goes); BL 2: 439; BM
 
 #### Composite works
 
-(1) Co-author with F. Dozy, *Bryologia javanica* 1855-1870, see TL-2/1512 and review by K.M., Bot. Zeit. 17(21): 189-190. 1859.
-(2) Co-author with F.A.W. Miquel, *Plantae junghuhnianae* 1851-1857, see TL-2/6107.
-(3) Co-author with J.P.F.C. Montagne, *Lichenes javanici* 1857, see TL-2/6259.
+- (1) Co-author with F. Dozy, *Bryologia javanica* 1855-1870, see TL-2/1512 and review by K.M., Bot. Zeit. 17(21): 189-190. 1859.
+- (2) Co-author with F.A.W. Miquel, *Plantae junghuhnianae* 1851-1857, see TL-2/6107.
+- (3) Co-author with J.P.F.C. Montagne, *Lichenes javanici* 1857, see TL-2/6259.
 
 #### Corrections
 
-(1) TL-2/679, *Prodromus florae batavae*, vol. 2, pars 3, has as pagination 303-405. 1858.
-(2) TL-2/676, *Synopsis Hymenophyllacearum* 1858-1861, also on IDC mf. E-7165/1. (1913 revision by Goddijn). − Review by E. Fournier, Bull. Soc. bot. France 8: 649-651. 1862.
+- (1) TL-2/679, *Prodromus florae batavae*, vol. 2, pars 3, has as pagination 303-405. 1858.
+- (2) TL-2/676, *Synopsis Hymenophyllacearum* 1858-1861, also on IDC mf. E-7165/1. (1913 revision by Goddijn). − Review by E. Fournier, Bull. Soc. bot. France 8: 649-651. 1862.
 
 ### Publications
 

@@ -16,7 +16,7 @@ Barnhart 1: 62 (b. 5 Jan 1839, d. 22 Aug 1921); IH 2: 37; Rehder 1: 317.
 
 #### Composite works
 
-(1) Co-author C.B. Graves et al., *Cat. pl Connecticut* 1910, see TL-2/2115. *Copies*: G, NY.
+- (1) Co-author C.B. Graves et al., *Cat. pl Connecticut* 1910, see TL-2/2115. *Copies*: G, NY.
 
 ### Publications
 

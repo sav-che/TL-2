@@ -54,9 +54,8 @@ AG 1: 332, 6(1): 566; Backer p. 49; Barnhart 1: 97; BB p. 12; BL 2: 625 \[index\
 
 #### Composite works
 
-(1) Editor *Annals and Magazine of natural History* vols. 9-20, and ser.
-2. 1 − ser. 4. 20 (1842-1877).
-(2) With J.H. Balfour and W.H. Campbell, *A catalogue of British plants*. Part first, containing the flowering plants and ferns, second edition, Edinburgh 1841, p. \[i-iii\], \[1\]-16. *Copies*: G(2).
+- (1) Editor *Annals and Magazine of natural History* vols. 9-20, and ser. 2. 1 − ser. 4. 20 (1842-1877).
+- (2) With J.H. Balfour and W.H. Campbell, *A catalogue of British plants*. Part first, containing the flowering plants and ferns, second edition, Edinburgh 1841, p. \[i-iii\], \[1\]-16. *Copies*: G(2).
 
 #### Note on other botanical babingtons
 

@@ -43,11 +43,11 @@ ADB 4: 32, 6(2): 145; Barnhart 1: 178 (b. 21 Mai 1845, d. 25 Feb 1915); BJI 1: 5
 
 Raymond J. Pool, *Flowers and flowering plants* ed. 1, 1929 dedicated to the memory of C.E. Bessey (for Pool see TL-2/4: 336, especially no. 8157).
 
-#### Context and bases of the besseyan dicta
+#### Context and bases of the Besseyan dicta
 
 See R.W. Kiger, *Context and basis... dicta*, thesis Univ. Maryland 1971, p. \[i\]-vi, 1-158. *Copy*: MO.
 
-#### Charles e. bessey papers
+#### Charles E. Bessey papers
 
 See J.G. Svoboda and Patricia Churray, eds., Guide and index to the *microfilm* edition of the Charles E. Bessey Papers (1865-1915), Univ. Nebraska Studies ser. 2. 67, Lincoln 1984, p. \[1\]-198. – Contains a biogr. sketch on p. 13-15.
 

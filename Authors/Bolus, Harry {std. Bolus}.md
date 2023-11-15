@@ -10,7 +10,8 @@ Bolus, Harry (1834-1911), British born South African banker and botanist.
 
 #### Herbarium and types
 
-[[Collection BOL|BOL]]. Other coll. e.g. [[Collection BUL|BUL]], [[Collection GRA|GRA]], [[Collection NH|NH]], [[Collection NU|NU]], [[Collection PRE|PRE]], [[Collection SAM|SAM]], [[Collection STE|STE]] and outside S. Africa. Exsiccatae: *Herbarium austro-africanum*, with Mac Owan, q v.
+[[Collection BOL|BOL]]. Other coll. e.g. [[Collection BUL|BUL]], [[Collection GRA|GRA]], [[Collection NH|NH]], [[Collection NU|NU]], [[Collection PRE|PRE]], [[Collection SAM|SAM]], [[Collection STE|STE]] and outside S. Africa.
+*Exsiccatae*: *Herbarium austro-africanum*, with Mac Owan, q v.
 *Ref*.: IH 2: 84.
 - Tölken, Index herb. austro-afr. 58. 1971.
 

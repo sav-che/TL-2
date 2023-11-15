@@ -20,7 +20,7 @@ BL 1: 24; Kew 1: 326; Roon p. 21.
 
 #### Composite works
 
-(1) See bibliography by A. Lawalrée (1986) for the numerous publications with other authors after 1939.
+- (1) See bibliography by A. Lawalrée (1986) for the numerous publications with other authors after 1939.
 
 ### Publications
 
@@ -34,5 +34,5 @@ BL 1: 24; Kew 1: 326; Roon p. 21.
 *Senior author*: P. Staner.
 *Publ*.: 1937 (read 24 Apr 1937), cover-t.p., p. \[1\]-228, *7 pl*. (uncol. phot.). *Copy*: U. − Issued as Mém. Inst. Roy. Colon. Belg., Sci. nat. méd., coll. in octavo., vol. 5. 1937.
 *Note* (1) See also his (with Staner) *Les plantes médicinales* indigènes congolaises, J. Agron. col., Bruxelles 1937: 229-233.
-(2) B's publications nos. 4-44 were published 1945-1972.
+- (2) B's publications nos. 4-44 were published 1945-1972.
 

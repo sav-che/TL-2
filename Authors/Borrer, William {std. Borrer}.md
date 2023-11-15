@@ -41,7 +41,7 @@ AG 2(1): 458, 4: 717; Barnhart 1: 224 (b. 13 Jan 1781, d. 10 Jan 1862); BB p. 39
 
 #### Composite works
 
-(1) D. Turner and W. Borrer, *Spec. lichenogr. brit.* 1839, see TL-2/15.368.
+- (1) D. Turner and W. Borrer, *Spec. lichenogr. brit.* 1839, see TL-2/15.368.
 
 #### Eponymy
 

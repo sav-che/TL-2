@@ -35,11 +35,11 @@ Backer p. 57; Barnhart 1: 131; BL 1: 128; BM 6: 61; Bossert p. 27; Hortus 3: 118
 
 #### Composite works
 
-(1) With B.L. Robinson, *New plants from Guatemala and Mexico* (coll. C.C. Dean), Proc. Amer. Acad. Arts Sci. 43: 48-60. 1907.
-(2) With H. de Vries, *The evening primroses of Dixie Landing, Alabama*, Science, ser. 2. 36: 599-601. 1912.
-(3) With Carl D. La Rue, *An analysis of the changes involved in a case of progressive mutation* ... Genetics 4: 207-224. Mai 1918.
-(4) Review of Witmer Stone, *The plants of southern New Jersey*, Rhodora 14: 94-96. 1912. − See TL-2/13.204.
-(5) See A. Eastwood, *Synopsis of the Mexican and Central American species of Castilleja*, Cambridge, Mass. 1919.
+- (1) With B.L. Robinson, *New plants from Guatemala and Mexico* (coll. C.C. Dean), Proc. Amer. Acad. Arts Sci. 43: 48-60. 1907.
+- (2) With H. de Vries, *The evening primroses of Dixie Landing, Alabama*, Science, ser. 2. 36: 599-601. 1912.
+- (3) With Carl D. La Rue, *An analysis of the changes involved in a case of progressive mutation* ... Genetics 4: 207-224. Mai 1918.
+- (4) Review of Witmer Stone, *The plants of southern New Jersey*, Rhodora 14: 94-96. 1912. − See TL-2/13.204.
+- (5) See A. Eastwood, *Synopsis of the Mexican and Central American species of Castilleja*, Cambridge, Mass. 1919.
 
 #### Eponymy
 

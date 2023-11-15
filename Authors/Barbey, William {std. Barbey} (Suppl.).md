@@ -41,19 +41,19 @@ AG 5(2): 126, 6(1): 533-534; Barnhart 1: 119 (b. 14 Jul 1842, d. 18 Nov 1914); B
 
 #### Composite works
 
-(1) Co-author with E. Burnat (q.v.): *Notes sur un voyage botanique dans les Iles Baleares*... 1882.
-(2) Co-author with J. Ball, *Cousinia layardi* 1890, see sub J. Ball in this supplement.
-(3) *Bulletin de l'Herbier Boissier* ser. 1, 7 vols. 1893-1899, ser. 2, 8 vols. 1901-1908, *Mémoires* id. 1 vol. 1900, sponsored by W. Barbey, ser. 1 edited by E. Autran, ser. 2 and Mém. edited by G. Beauverd. − See also W. Barbey, Bull. Herb. Boissier ser. 2. 8(11): 777. 1908 (announcement discontinuation of the journal by 1 Dec 1908).
-(4) Co-author with C.J.F. Major, *Halki* 1894, TL-2/5279.
-(5) Co-author with Carlo de Stefani, *Samos*, 1891, TL-2/12.901.
-(6) Co-author with Carlo de Stefani, senior author, and C.J.F. Major, *Karpathos*, Lausanne 1895, TL-2/12.902. *Review*: E. Roth, Bot. Centralbl. 66(22/23): 324-325. 4 Jun 1896.
-(7) Co-author with C.J.F. Major, *Amoi*, étude botanique, Bull. Herb. Boissier 3: 30. 1895.
-(8) E.J. Autran and T.A. Durand, *Hortus boissierianus* 1896, TL-2/210, sponsored by Barbey.
-(9) Co-author with C.J.F. Major, *Sertum cerigense*, Bull. Herb. Boissier 5: 398-400 (1-3). Mai 1897.
-(10) Co-author with C.J.F. Major, *Ikaria*, Bull. Herb. Boissier 5: 279-284 (1-6). Apr 1897.
-(11) *Index botanique universel des genres, espèces et variétés de plantes parus depuis le 1er janvier 1901*, nos. 1-17199, supplement to Bull. Herb. Boissier, sponsored by Barbey, edited by G. Beauverd q.v., listed in TL-2/1: 119 under Barbey.
-(12) Barbey sponsored also the early volumes of the Bull. Soc. bot. Genève which replaced the Bull. Herb. Boissier after its demise in 1908.
-(13) Collaborator for T.A. Durand and J.F.G. Barratte, *Florae Libycae Prodromus*, 1910.
+- (1) Co-author with E. Burnat (q.v.): *Notes sur un voyage botanique dans les Iles Baleares*... 1882.
+- (2) Co-author with J. Ball, *Cousinia layardi* 1890, see sub J. Ball in this supplement.
+- (3) *Bulletin de l'Herbier Boissier* ser. 1, 7 vols. 1893-1899, ser. 2, 8 vols. 1901-1908, *Mémoires* id. 1 vol. 1900, sponsored by W. Barbey, ser. 1 edited by E. Autran, ser. 2 and Mém. edited by G. Beauverd. − See also W. Barbey, Bull. Herb. Boissier ser. 2. 8(11): 777. 1908 (announcement discontinuation of the journal by 1 Dec 1908).
+- (4) Co-author with C.J.F. Major, *Halki* 1894, TL-2/5279.
+- (5) Co-author with Carlo de Stefani, *Samos*, 1891, TL-2/12.901.
+- (6) Co-author with Carlo de Stefani, senior author, and C.J.F. Major, *Karpathos*, Lausanne 1895, TL-2/12.902. *Review*: E. Roth, Bot. Centralbl. 66(22/23): 324-325. 4 Jun 1896.
+- (7) Co-author with C.J.F. Major, *Amoi*, étude botanique, Bull. Herb. Boissier 3: 30. 1895.
+- (8) E.J. Autran and T.A. Durand, *Hortus boissierianus* 1896, TL-2/210, sponsored by Barbey.
+- (9) Co-author with C.J.F. Major, *Sertum cerigense*, Bull. Herb. Boissier 5: 398-400 (1-3). Mai 1897.
+- (10) Co-author with C.J.F. Major, *Ikaria*, Bull. Herb. Boissier 5: 279-284 (1-6). Apr 1897.
+- (11) *Index botanique universel des genres, espèces et variétés de plantes parus depuis le 1er janvier 1901*, nos. 1-17199, supplement to Bull. Herb. Boissier, sponsored by Barbey, edited by G. Beauverd q.v., listed in TL-2/1: 119 under Barbey.
+- (12) Barbey sponsored also the early volumes of the Bull. Soc. bot. Genève which replaced the Bull. Herb. Boissier after its demise in 1908.
+- (13) Collaborator for T.A. Durand and J.F.G. Barratte, *Florae Libycae Prodromus*, 1910.
 
 #### Note
 

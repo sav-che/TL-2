@@ -31,9 +31,9 @@ Barnhart 1: 224 (b. 21 Mai 1887); BFM 1483; BJI 2: 17; Bossert p. 46; Futak-Domi
 
 #### Lists of publications
 
-(1) Al. Baia and E. Ghişa, Bul. Grbd. Bot. Cluj 25, 1945, app. I, list of B's publications nos. 1-339.
-(2) Anon., Contrib. Bot. Cluj 1967, p. 23-28, nos. 340-448.
-(3) Pop, E., Contributii botanice 1972, p. 35-36, nos. 449-470.
+- (1) Al. Baia and E. Ghişa, Bul. Grbd. Bot. Cluj 25, 1945, app. I, list of B's publications nos. 1-339.
+- (2) Anon., Contrib. Bot. Cluj 1967, p. 23-28, nos. 340-448.
+- (3) Pop, E., Contributii botanice 1972, p. 35-36, nos. 449-470.
 
 #### Note
 

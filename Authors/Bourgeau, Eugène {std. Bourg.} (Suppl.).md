@@ -11,9 +11,9 @@
 #### Herbarium and types
 
 [[Collection P|P]], but also important collections in [[Collection G|G]] and [[Collection K|K]]; further material in [[Collection AL|AL]], [[Collection AWH|AWH]], [[Collection BHU|BHU]], [[Collection BM|BM]], [[Collection BPC|BPC]], [[Collection BUC|BUC]], [[Collection C|C]], [[Collection CGE|CGE]], [[Collection CN|CN]], [[Collection DBN|DBN]], [[Collection DS|DS]], [[Collection E|E]], [[Collection F|F]], [[Collection FI|FI]], [[Collection GB|GB]], [[Collection GE|GE]], [[Collection GOET|GOET]], [[Collection H|H]], [[Collection HEID|HEID]], [[Collection HH (sensu TL-2)|HH]], [[Collection JE|JE]], [[Collection K|K]], [[Collection LE|LE]], [[Collection LY|LY]], [[Collection LZ|LZ]], [[Collection M|M]], [[Collection MA|MA]], [[Collection MANCH|MANCH]], [[Collection MO|MO]], [[Collection MPU|MPU]], [[Collection NCY|NCY]], [[Collection NTM|NTM]], [[Collection NY|NY]], [[Collection OXF|OXF]], [[Collection PH|PH]], [[Collection RO|RO]], [[Collection S|S]], [[Collection TCD|TCD]], [[Collection TO|TO]], [[Collection UC|UC]], [[Collection US|US]], [[Collection W|W]], [[Collection WAG|WAG]], [[Collection WRSL|WRSL]].
-(1) *Collected* for the Association botanique française d'exploration, see B's mimeographed letter on the availability of his collections 26 Jan 1849, *Copy*: G. − See also TL-2/1: 295.
-(2) Letter of B. Boivin to FAS 12 Sep 1979: Collected 12.000 specimens in Western Canada (Manitoba, W. Ontario, N. Minnesota, N. Dakota (sic.)). − Manitoba and Saskatchewan records discounted by Breitung in his catalogue of Saskatchewan.
-(3) Mss. material at [[Collection BM|BM]].
+- (1) *Collected* for the Association botanique française d'exploration, see B's mimeographed letter on the availability of his collections 26 Jan 1849, *Copy*: G. − See also TL-2/1: 295.
+- (2) Letter of B. Boivin to FAS 12 Sep 1979: Collected 12.000 specimens in Western Canada (Manitoba, W. Ontario, N. Minnesota, N. Dakota (sic.)). − Manitoba and Saskatchewan records discounted by Breitung in his catalogue of Saskatchewan.
+- (3) Mss. material at [[Collection BM|BM]].
 
 #### Bibliography and biography
 

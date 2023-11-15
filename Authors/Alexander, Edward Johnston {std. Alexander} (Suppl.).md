@@ -23,7 +23,7 @@ Barnhart 1: 33 (b. 31 Jul 1901, Asheville, N.C.); Bossert p. 6; IH 2: 30, 908; K
 
 #### Composite works
 
-(1) With E.E. Sherff, N. Amer. Fl. ser. 2. 2: 1-149. 9 Dec 1955 (Compostae p.p.), 19(1): 51-60. 27 Nov 1937 (Pontederiaceae).
-(2) *Iridaceae* and *Violaceae*, *in* H.A. Gleason, *New Britton and Brown* Illustrated Flora 1952.
-(3) with C.H. Woodward, The flora of the *Unicorn tapestries* 1941.
+- (1) With E.E. Sherff, N. Amer. Fl. ser. 2. 2: 1-149. 9 Dec 1955 (Compostae p.p.), 19(1): 51-60. 27 Nov 1937 (Pontederiaceae).
+- (2) *Iridaceae* and *Violaceae*, *in* H.A. Gleason, *New Britton and Brown* Illustrated Flora 1952.
+- (3) with C.H. Woodward, The flora of the *Unicorn tapestries* 1941.
 

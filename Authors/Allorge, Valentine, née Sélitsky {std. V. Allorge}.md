@@ -10,7 +10,8 @@ Allorge, Valentine, née Sélitsky (1888-x), French bryologist.
 
 #### Herbarium and types
 
-[[Collection P|P]] and [[Collection PC|PC]]. – Exsiccatae (p.p. with Pierre Allorge): 1. *Cryptogames de l'Empire colonial Français* (series [[Collection A|A]]-C, nos. 1-60, Paris 1938-1949). *Sets*: [[Collection FH|FH]], [[Collection PC|PC]].
+[[Collection P|P]] and [[Collection PC|PC]].
+*Exsiccatae* (p.p. with Pierre Allorge): 1. *Cryptogames de l'Empire colonial Français* (series [[Collection A|A]]-C, nos. 1-60, Paris 1938-1949). *Sets*: [[Collection FH|FH]], [[Collection PC|PC]].
 2. *Bryophyta azorica*. Mousses et hépatiques récoltées en 1937 aux îles Açores (nos. 1-133, Paris 1942). [[Collection PC|PC]], [[Collection S|S]]-PA – Very few sets were made up.
 3. *Bryotheca iberica*. Muscinées de l'Espagne et du Portugal, (ser. i-v, nos. 1-250, Paris 1928-1938). *Sets*: [[Collection FH|FH]], [[Collection G|G]], [[Collection PC|PC]].
 *Ref*.: IH 2: 32.

@@ -29,7 +29,7 @@ Barnhart 1: 139; BB p. 24; BJI 1: 4; BM 1: 110-111, 6: 65; Bossert p. 28; CSP 9:
 
 #### Composite works
 
-(1): Edward Morell Holmes (1843-1930) issued, partly with Batters, *Algae britannicae rariores exsiccatae*, fasc. 1-12, ed. 1883-1910, nos. 1-312, see Holmes, TL-2/2: 260 for further details.
+- (1): Edward Morell Holmes (1843-1930) issued, partly with Batters, *Algae britannicae rariores exsiccatae*, fasc. 1-12, ed. 1883-1910, nos. 1-312, see Holmes, TL-2/2: 260 for further details.
 
 ### Publications
 

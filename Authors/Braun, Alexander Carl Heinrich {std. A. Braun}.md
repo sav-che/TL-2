@@ -62,10 +62,10 @@ ADB 47: 163-165; AG 1: 40, 4: 52, 5(1): 270, 12(3): 573; Andrews ed. 2, p. 241; 
 
 #### Composite works
 
-(1) Contributed to Lehmann, *Plantae preissianae* (1844-1847).
-(2) Botanischer Anhang 1, in Rohlfs, *Quer durch Afrika*, vol. 2. 1875.
-(3) *Characeae*, in Cohn, *Krypt. Fl. Schlesien* vol. I. 1876.
-(4) The *Flora cryptogamica badensis* which Braun was to write as part of Gmelin's *Flora badensis* was never published.
+- (1) Contributed to Lehmann, *Plantae preissianae* (1844-1847).
+- (2) Botanischer Anhang 1, in Rohlfs, *Quer durch Afrika*, vol. 2. 1875.
+- (3) *Characeae*, in Cohn, *Krypt. Fl. Schlesien* vol. I. 1876.
+- (4) The *Flora cryptogamica badensis* which Braun was to write as part of Gmelin's *Flora badensis* was never published.
 
 #### Eponymy
 

@@ -10,7 +10,8 @@ Anders, Joseph (1863-1936), Czeck lichenologist.
 
 #### Herbarium and types
 
-[[Collection PRM|PRM]] and [[Collection PR|PR]]. – Exsiccatae: *Lichenes exsiccati Bohemiae borealis* (*Flechten Nordböhmens*) (fasc. i-vi, nos. 1-333, 1929-1933); sets at [[Collection PRM|PRM]] and [[Collection PR|PR]].
+[[Collection PRM|PRM]] and [[Collection PR|PR]].
+*Exsiccatae*: *Lichenes exsiccati Bohemiae borealis* (*Flechten Nordböhmens*) (fasc. i-vi, nos. 1-333, 1929-1933); sets at [[Collection PRM|PRM]] and [[Collection PR|PR]].
 *Ref*.: GR p. 430; IH 1 (ed. 6): 35, 2: 35.
 - Sayre, Mem. New York Bot. Gard. 19(1): 108-109. 1969.
 

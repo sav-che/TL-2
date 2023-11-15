@@ -20,9 +20,8 @@ BL 2: 10; Futak-Domin p. 101; IF suppl. 3, p. 202; Kew 1: 221; LS suppl. 2407.
 
 #### Composite works
 
-(1) *Peltolepis*, *Sauteria, Clevea*, *in* L. Diels et al., *Die Pflanzenareale* ser.
-3. 5, p. 45-61, map 46-48. 1932.
-(2) Collaborator G. Hegi, *Ill. fl.* ed. 2., see TL-2/2571.
+- (1) *Peltolepis*, *Sauteria, Clevea*, *in* L. Diels et al., *Die Pflanzenareale* ser. 3. 5, p. 45-61, map 46-48. 1932.
+- (2) Collaborator G. Hegi, *Ill. fl.* ed. 2., see TL-2/2571.
 
 ### Publications
 

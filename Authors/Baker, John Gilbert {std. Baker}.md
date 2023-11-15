@@ -39,19 +39,19 @@ AG 3: 403; Barnhart 1: 108; BB p. 15-16; BL 2: 525-526 \[index\]; Bossert p. 12;
 
 #### Composite works
 
-(1) Contributions to Martius, *Fl. bras*.:
+- (1) Contributions to Martius, *Fl. bras*.:
 a. *Cyatheaceae, Polypodiaceae*, 1(2): 305-624, *pl. 20-70.* 1 Mai 1870.
 b. *Connaraceae, Ampelidae*, 14(2): 173-216, *pl. 41-52.* 1 Jul 1871.
 c. *Compositae* I, 6(2): 1-180, *pl. 1-50.* 1 Jun 1873.
 d. *Compositae* II, 6(2): 181-376, *pl. 51-102.* 1 Feb 1876.
 e. *Compositae* III, 6(3): 1-134, *pl. 1-44.* 1 Jul 1882.
 f. *Compositae* IV, 6(3): 137-412, *pl. 45-108.* 1 Mai 1884.
-(2) Baines, *Flora Yorkshire*, Suppl. 1, Flowering plants and ferns, London 1854.
-(3) Oliver, *Flora of tropical Africa*, vols. 1-8, 1868-1903, many treatments (see BM 1: 89, 6: 50).
-(4) *Journal of Botany*, assistant editor to B. Seemann, vols. 8-13, 1870-1875.
-(5) Hooker and Baker, *Synopsis filicum*, see W. J. Hooker.
-(6) Hooker, *Fl. Brit. India*: Leguminosae in 2: 56-240. Mai 1876, 241-306. Jul 1878; Scitamineae in 6: 198-224. Dec 1890, 225-264. Jul 1892.
-(7) Saunders, *Refugium botanicum*, 5 vols. 1869-1873; descriptions by J. G. Baker.
+- (2) Baines, *Flora Yorkshire*, Suppl. 1, Flowering plants and ferns, London 1854.
+- (3) Oliver, *Flora of tropical Africa*, vols. 1-8, 1868-1903, many treatments (see BM 1: 89, 6: 50).
+- (4) *Journal of Botany*, assistant editor to B. Seemann, vols. 8-13, 1870-1875.
+- (5) Hooker and Baker, *Synopsis filicum*, see W. J. Hooker.
+- (6) Hooker, *Fl. Brit. India*: Leguminosae in 2: 56-240. Mai 1876, 241-306. Jul 1878; Scitamineae in 6: 198-224. Dec 1890, 225-264. Jul 1892.
+- (7) Saunders, *Refugium botanicum*, 5 vols. 1869-1873; descriptions by J. G. Baker.
 
 #### Eponymy
 

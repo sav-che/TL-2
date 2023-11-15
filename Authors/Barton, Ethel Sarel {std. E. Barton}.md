@@ -31,8 +31,8 @@ Barnhart 2: 40; BB p. 22, 120; BM 1: 105, 6: 364; CSP 13: 327-328; Desmond p. 44
 
 #### Composite works
 
-(1) *Marine algae*, *in* W.P. Hiern, *Catalogue of the African plants collected by Dr. Friedrich Welwitsch in 1853-1861*, 2: 324-328.
-(2) *List of marine algae* with a note on the fructification of *Halimeda* (see also below, *The genus Halimeda*), *in* Ceylon Pearl Oyster Fisheries 1903, supplementary reports no. ii. *Copy*: L (author's copy reprinted from part i).
+- (1) *Marine algae*, *in* W.P. Hiern, *Catalogue of the African plants collected by Dr. Friedrich Welwitsch in 1853-1861*, 2: 324-328.
+- (2) *List of marine algae* with a note on the fructification of *Halimeda* (see also below, *The genus Halimeda*), *in* Ceylon Pearl Oyster Fisheries 1903, supplementary reports no. ii. *Copy*: L (author's copy reprinted from part i).
 
 #### Eponymy
 

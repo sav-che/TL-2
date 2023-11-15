@@ -27,7 +27,7 @@ Barnhart 1: 84; BL 2: 487; BM 1: 67-68; Colmeiro 1: clxii, clxxx; Dryander 3: 14
 
 #### Composite works
 
-(1) Translated into Spanish P. Loefling, *Iter hispan*., TL-2/4921 in Anal. Ci. nat. 3: 278-315, 4: 158-191, 5: 82-104. 1801-1802.
+- (1) Translated into Spanish P. Loefling, *Iter hispan*., TL-2/4921 in Anal. Ci. nat. 3: 278-315, 4: 158-191, 5: 82-104. 1801-1802.
 
 ### Publications
 

@@ -20,7 +20,7 @@ Barnhart 1: 141 (b. 26 Feb 1868, d. 25 Oct 1933); BFM 575; BL 2: 583; Kew 1: 182
 
 #### Composite works
 
-(1) *Vegetation des Untersees* (Bodensee), *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 9, Heft 3: 13 p. text, *pl. 13-18.* 1911.
+- (1) *Vegetation des Untersees* (Bodensee), *in* G. Karsten and H. Schenck, *Vegetationsbilder* ser. 9, Heft 3: 13 p. text, *pl. 13-18.* 1911.
 
 ### Publications
 

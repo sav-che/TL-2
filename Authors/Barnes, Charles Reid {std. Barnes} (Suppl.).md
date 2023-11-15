@@ -38,9 +38,9 @@ Barnhart 1: 124; BL 1: 176; BM 1: 100, 6: 58; Bossert p. 25; CSP 12: 50, 13: 308
 
 #### Composite works
 
-(1) *Bryaceae*, with E.G. Britton, *in* E.L. Rand and J.H. Redfield, *Fl. Mount Desert Isl. Maine*, Cambridge 1894. − TL-2/8623.
-(2) With J.M. Coulter and M.C. Cowles, *A text book of botany* for colleges and universities ... American Book Co. 1910.
-(3) With J.C. Arthur and J.M. Coulter, *Handbook of plant dissection*, New York (Henry Holt & Company) 1886, − See J.C. Arthur in this supplement.
+- (1) *Bryaceae*, with E.G. Britton, *in* E.L. Rand and J.H. Redfield, *Fl. Mount Desert Isl. Maine*, Cambridge 1894. − TL-2/8623.
+- (2) With J.M. Coulter and M.C. Cowles, *A text book of botany* for colleges and universities ... American Book Co. 1910.
+- (3) With J.C. Arthur and J.M. Coulter, *Handbook of plant dissection*, New York (Henry Holt & Company) 1886, − See J.C. Arthur in this supplement.
 
 ### Publications
 

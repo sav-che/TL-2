@@ -31,9 +31,9 @@ Barnhart 1: 194 (b. 28 Apr 1855, Wigtown, Scotland, d. 2 Dec 1951, Adelaide); BJ
 
 #### Notes
 
-(1) *Additions to the Flora of South Australia*, a series of papers illustrated by the author; 45 nos. in 41 years, for partial information see J.B. Cleland, *in* C.M. Earley and J.B. Cleland 1953, p. xi. − We had no opportunity to list these papers published between 1909 and 1949 in toto. We list below the few that came to our attention.
-(2) *Australian botanical nomenclature*, Paper read to Section M (Botany), Adelaide meeting, *in* Proc. Australas. Ass. Adv. Sci., Reports 17: 742-745. 1924.
-(3) *Flora of South Australia* ed. 1. 1-4. 1922-1929, see TL-2/544, additional information: *Part 1*: Aug 1922, reviews: Anon., J. Bot. 61: 27-28. Jan 1923; K. Krause, Bot. Jahrb. 58(Lit.): 55. 1 Apr 1923.
+- (1) *Additions to the Flora of South Australia*, a series of papers illustrated by the author; 45 nos. in 41 years, for partial information see J.B. Cleland, *in* C.M. Earley and J.B. Cleland 1953, p. xi. − We had no opportunity to list these papers published between 1909 and 1949 in toto. We list below the few that came to our attention.
+- (2) *Australian botanical nomenclature*, Paper read to Section M (Botany), Adelaide meeting, *in* Proc. Australas. Ass. Adv. Sci., Reports 17: 742-745. 1924.
+- (3) *Flora of South Australia* ed. 1. 1-4. 1922-1929, see TL-2/544, additional information: *Part 1*: Aug 1922, reviews: Anon., J. Bot. 61: 27-28. Jan 1923; K. Krause, Bot. Jahrb. 58(Lit.): 55. 1 Apr 1923.
 *Part 2*: Jun 1924, rev. J. Britten, J. Bot. 63: 27-28. Jan 1925.
 *Part 3*: Dec 1926, rev. Anon., J. Bot. 65: 90. Mai 1927.
 *Parts 1-4* (part 4: Jun 1929): rev. Kew Bull. 1930(8): 398-399. 22 Sep 1930. *Microfiche edition*: IDC 6523.

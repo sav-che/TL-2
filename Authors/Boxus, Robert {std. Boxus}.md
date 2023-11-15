@@ -16,7 +16,7 @@ BL 2: 30, 39, 633.
 
 #### Note
 
-(1) Outside our period: *Dictionaire Wallon Hutois des noms des plantes* indigènes et cultivées, Huy, 93 p., s.d. \[1949?\]. − 943 Walloon names used in Huy and vicinity (BL 2: 39). − See also Joseph Bastin, *Les plantes de la Wallonie malmédienne*, Liège 1939, 260 p.
+- (1) Outside our period: *Dictionaire Wallon Hutois des noms des plantes* indigènes et cultivées, Huy, 93 p., s.d. \[1949?\]. − 943 Walloon names used in Huy and vicinity (BL 2: 39). − See also Joseph Bastin, *Les plantes de la Wallonie malmédienne*, Liège 1939, 260 p.
 
 ### Publications
 

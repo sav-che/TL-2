@@ -10,7 +10,8 @@ Balsamo-Crivelli, Giuseppe Gabriel (1800-1874), Italian botanist.
 
 #### Herbarium and types
 
-[[Collection MI|MI]], other material at [[Collection FI|FI]], [[Collection G|G]], [[Collection MPU|MPU]] and [[Collection PAD|PAD]]. – Exsiccatae (with G. De Notaris): *Musci mediolanenses* (fasc. i-iv, nos. 1-80, 1833-1838), sets at [[Collection B|B]], [[Collection FI|FI]], [[Collection G|G]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection RO|RO]], [[Collection TO|TO]], [[Collection W|W]].
+[[Collection MI|MI]], other material at [[Collection FI|FI]], [[Collection G|G]], [[Collection MPU|MPU]] and [[Collection PAD|PAD]].
+*Exsiccatae* (with G. De Notaris): *Musci mediolanenses* (fasc. i-iv, nos. 1-80, 1833-1838), sets at [[Collection B|B]], [[Collection FI|FI]], [[Collection G|G]], [[Collection M|M]], [[Collection MPU|MPU]], [[Collection PAD|PAD]], [[Collection PAV|PAV]], [[Collection RO|RO]], [[Collection TO|TO]], [[Collection W|W]].
 *Ref*.: IH 2: 51.
 - Sayre, Mem. New York Bot. Gard. 19(2): 179-180. 1971.
 - Harant et al., Rev. bryol. lichénol. 89: 720-724. 1966.

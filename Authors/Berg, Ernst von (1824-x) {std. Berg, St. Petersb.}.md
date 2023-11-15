@@ -21,8 +21,8 @@ Barnhart 1: 167 (b. 11 Nov 1824, Livland); BM 1: 138; Jackson p. 2, 3; Kew 1: 22
 
 #### Composite works
 
-(1) See G.A. Pritzel, TL-2/8353: *Additamenta* to Thes. lit. bot. 1859, 1862, 1864. Rev. D.F.L. von Schlechtendal, Bot. Zeit. 16: 287. 1858, 20: 303. 1862, 22: 92. 1864.
-(2) *Catalogus systematicus bibliothecae Horti* Imperialis botanici *Petropolitani*, St. Petersburg 1852, p. i-xvi, 1-514 (n.v.).
+- (1) See G.A. Pritzel, TL-2/8353: *Additamenta* to Thes. lit. bot. 1859, 1862, 1864. Rev. D.F.L. von Schlechtendal, Bot. Zeit. 16: 287. 1858, 20: 303. 1862, 22: 92. 1864.
+- (2) *Catalogus systematicus bibliothecae Horti* Imperialis botanici *Petropolitani*, St. Petersburg 1852, p. i-xvi, 1-514 (n.v.).
 
 ### Publications
 

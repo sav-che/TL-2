@@ -29,11 +29,11 @@ Barnhart 1: 96 (b. 10 Jul 1877, d. 8 Dec 1954); Hortus 3: 1187; IH 2: 47; Kew 1:
 
 #### Composite works
 
-(1) With G.L. Stebbins, *The genus Youngia* 1937, TL-2/12.848.
-(2) With id., *Amer. sp. Crepis* 1938, TL-2/12.852, Babcock senior author.
-(3) With id., *The effect of polyploidy*... 1939, TL-2/12.856.
-(4) With id., *Systematic studies in the Cichorieae*... 1943, TL-2/12.858.
-(5) *in* T.H. Goodspeed, *Essays in geobotany*, p. 9-54. 1936: *The origin of Crepis and related genera*.
+- (1) With G.L. Stebbins, *The genus Youngia* 1937, TL-2/12.848.
+- (2) With id., *Amer. sp. Crepis* 1938, TL-2/12.852, Babcock senior author.
+- (3) With id., *The effect of polyploidy*... 1939, TL-2/12.856.
+- (4) With id., *Systematic studies in the Cichorieae*... 1943, TL-2/12.858.
+- (5) *in* T.H. Goodspeed, *Essays in geobotany*, p. 9-54. 1936: *The origin of Crepis and related genera*.
 
 ### Publications
 

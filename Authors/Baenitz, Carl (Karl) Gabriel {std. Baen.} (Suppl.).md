@@ -34,12 +34,12 @@ AG 1: 17, 12(1): 186; Barnhart 1: 101 (b. 28 Jan 1837, Marienwalde, Brandenburg,
 
 #### Composite works
 
-(1) Contributed specimens to Wilhelm Gottlieb Lasch (1787-1863) (TL-2/2: 761-762), *Herbarium norddeutscher Pflanzen* (exsiccatae), fasc. 1-8.
+- (1) Contributed specimens to Wilhelm Gottlieb Lasch (1787-1863) (TL-2/2: 761-762), *Herbarium norddeutscher Pflanzen* (exsiccatae), fasc. 1-8.
 
 #### Notes
 
-(1) On TL-2/232, *Fl. östl. Niederlausitz* 1861; detailed review by Carl Bolle, Bonplandia 9: 237-238. 1 Sep 1861.
-(2) On his set of exsiccatae *Die Keimpflanzen der Holzgewächse* see his paper on this subject in Deut. bot. Monatschr. 22(10): 145-149. Aug 1911, 22(11): 161-166. Sep 1911, 22(12): 177-181. Oct 1911.
+- (1) On TL-2/232, *Fl. östl. Niederlausitz* 1861; detailed review by Carl Bolle, Bonplandia 9: 237-238. 1 Sep 1861.
+- (2) On his set of exsiccatae *Die Keimpflanzen der Holzgewächse* see his paper on this subject in Deut. bot. Monatschr. 22(10): 145-149. Aug 1911, 22(11): 161-166. Sep 1911, 22(12): 177-181. Oct 1911.
 
 ### Publications
 

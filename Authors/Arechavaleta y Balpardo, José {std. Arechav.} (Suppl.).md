@@ -10,7 +10,8 @@
 
 #### Herbarium and types
 
-[[Collection MVM|MVM]] (12.000), further material at [[Collection B|B]], [[Collection BAF|BAF]], [[Collection CORD|CORD]], [[Collection F|F]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MIN|MIN]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection R|R]], [[Collection WRSL|WRSL]], [[Collection ZT|ZT]]. – *Exsiccatae*: contributed to V. Wittrock and O. Nordstedt, *Algae aquae dulcis exsiccatae*, see IH 2(7): 1177.
+[[Collection MVM|MVM]] (12.000), further material at [[Collection B|B]], [[Collection BAF|BAF]], [[Collection CORD|CORD]], [[Collection F|F]], [[Collection G|G]], [[Collection K|K]], [[Collection L|L]], [[Collection LD|LD]], [[Collection M|M]], [[Collection MIN|MIN]], [[Collection NY|NY]], [[Collection PH|PH]], [[Collection R|R]], [[Collection WRSL|WRSL]], [[Collection ZT|ZT]].
+*Exsiccatae*: contributed to V. Wittrock and O. Nordstedt, *Algae aquae dulcis exsiccatae*, see IH 2(7): 1177.
 
 #### Bibliography and biography
 

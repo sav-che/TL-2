@@ -40,9 +40,9 @@ AG 6(1): 605 (Rubus Bloxamii); Barnhart 1: 204 (b. 22 Sep 1801, d. 2 Feb 1878); 
 
 #### Composite works
 
-(1) *Of the natural history of the Sandwich Islands*, selected from the papers of A. Bloxam, *in* G.A. Byron, *Voyage of H.M.S. Blonde to the Sandwich Islands*, London 1826, *Appendix no. 3.*
-(2) *The Botany* by the Rev. A. Bloxam and C. Babington, *in* Thomas Rossell Potter, *The history and antiquities of Charnwood Forest*, London 1842, p. 35-62. See also A.B. Jackson, J. Bot. 44: 261-266. 1906 (annotated list vasc. and cell. pl.).
-(3) *Mosses* found in the neighbourhood *of Ventnor*, Bonchurch, and Appuldurcombe, *in* Edmund Venables, *The Isle of Wight*. A guide..., London 1860. − *Mosses* by Bloxam with additions by Venables, *Lichens* by Bloxam with additions by T. Salwey on p. 503-505, *Fungi* id.
-(4) See also R.B. Freeman, Brit. nat. hist. books 1495-1900. 1980, p. 53, no. 363: *A description of Bradgate Park* 1829(?), n.v.
-(5) See also H.C. Watson, *Topographical botany* ed. 2. 538. 1883 (contr. to London Catalogue, ed. 2).
+- (1) *Of the natural history of the Sandwich Islands*, selected from the papers of A. Bloxam, *in* G.A. Byron, *Voyage of H.M.S. Blonde to the Sandwich Islands*, London 1826, *Appendix no. 3.*
+- (2) *The Botany* by the Rev. A. Bloxam and C. Babington, *in* Thomas Rossell Potter, *The history and antiquities of Charnwood Forest*, London 1842, p. 35-62. See also A.B. Jackson, J. Bot. 44: 261-266. 1906 (annotated list vasc. and cell. pl.).
+- (3) *Mosses* found in the neighbourhood *of Ventnor*, Bonchurch, and Appuldurcombe, *in* Edmund Venables, *The Isle of Wight*. A guide..., London 1860. − *Mosses* by Bloxam with additions by Venables, *Lichens* by Bloxam with additions by T. Salwey on p. 503-505, *Fungi* id.
+- (4) See also R.B. Freeman, Brit. nat. hist. books 1495-1900. 1980, p. 53, no. 363: *A description of Bradgate Park* 1829(?), n.v.
+- (5) See also H.C. Watson, *Topographical botany* ed. 2. 538. 1883 (contr. to London Catalogue, ed. 2).
 

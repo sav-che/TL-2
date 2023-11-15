@@ -32,13 +32,13 @@ Barnhart 1: 108; BJI 2: 6; BL 1: 284-285 (index), 2: 273; BM 1: 89, 6: 50; CSP 1
 
 #### Composite works
 
-(1) see A.B. Rendle et al., *Motion nom. alg.* and further titles, TL-2/9065, 9067-9071.
-(2) see H.N. Ridley, *Report bot. Wollaston exp.*, TL-2/9210; Baker's contribution on p. 33-35 and 50-57.
-(3) see H. Schinz, *Beiträge Kenntn. Afrik. Fl.*, TL-2/10.710.
-(4) see S. Schönland, *New species of Crassula*, TL-2/10.999.
-(5) *Botanical appendix*, *in* H.H.P. Deasy, *In Tibet and Chinese Turkestan* 1901, with Spencer Moore and A.B. Rendle, see J. Bot. 39: 214. 1901.
-(6) *Polypetalae*, *in* J.W. Gregory, The Great Rift valley 389-392. 1896 (Appendix B).
-(7) Contributed to botanical part of C.W. Andrews, *A monograph of Christmas Island*, London 1900, botany by E.G. Baker et al. on p. 171-200, *pl. 17-18.*
+- (1) see A.B. Rendle et al., *Motion nom. alg.* and further titles, TL-2/9065, 9067-9071.
+- (2) see H.N. Ridley, *Report bot. Wollaston exp.*, TL-2/9210; Baker's contribution on p. 33-35 and 50-57.
+- (3) see H. Schinz, *Beiträge Kenntn. Afrik. Fl.*, TL-2/10.710.
+- (4) see S. Schönland, *New species of Crassula*, TL-2/10.999.
+- (5) *Botanical appendix*, *in* H.H.P. Deasy, *In Tibet and Chinese Turkestan* 1901, with Spencer Moore and A.B. Rendle, see J. Bot. 39: 214. 1901.
+- (6) *Polypetalae*, *in* J.W. Gregory, The Great Rift valley 389-392. 1896 (Appendix B).
+- (7) Contributed to botanical part of C.W. Andrews, *A monograph of Christmas Island*, London 1900, botany by E.G. Baker et al. on p. 171-200, *pl. 17-18.*
 
 #### Eponymy
 

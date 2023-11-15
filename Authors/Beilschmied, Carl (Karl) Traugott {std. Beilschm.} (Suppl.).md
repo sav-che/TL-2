@@ -37,10 +37,10 @@ Backer p. 60; Barnhart 1: 155 (b. 19 Oct 1793, Langenöls, Schles., d. 6 Mai 184
 
 #### Composite works
 
-(1) see TL-2/1: 167.
-(2) see H.C. Watson, TL-2/16.803, German translation with additions and further observations of *Rem. geogr. distr. Brit. pl.* 1835.
-(3) see J. Lindley, TL-2/4644, *Intr. nat. syst. bot.*, German extract 1833.
-(4) see J.E. Wikström, TL-2/7: 284 (comp. works) for his German translation (with many additions by the translator) of the *Öfversigt... botaniska arbeten* et al., as *Jahresbericht*... über die Fortschritte der Botanik im Jahre 1820 \[-1843\], Breslau 1834-1847. See Pritzel 10.259 and especially PR ed. 1, no. 666.
+- (1) see TL-2/1: 167.
+- (2) see H.C. Watson, TL-2/16.803, German translation with additions and further observations of *Rem. geogr. distr. Brit. pl.* 1835.
+- (3) see J. Lindley, TL-2/4644, *Intr. nat. syst. bot.*, German extract 1833.
+- (4) see J.E. Wikström, TL-2/7: 284 (comp. works) for his German translation (with many additions by the translator) of the *Öfversigt... botaniska arbeten* et al., as *Jahresbericht*... über die Fortschritte der Botanik im Jahre 1820 \[-1843\], Breslau 1834-1847. See Pritzel 10.259 and especially PR ed. 1, no. 666.
 
 ### Publications
 

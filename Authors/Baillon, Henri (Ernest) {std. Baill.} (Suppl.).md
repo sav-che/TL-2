@@ -44,8 +44,8 @@ AG 7: 414; Barnhart 1: 106 (b. 30 Nov 1827, Calais, d. 18 Jul 1895, Paris); BJI:
 
 #### Composite works
 
-(1)-(4) see TL-2/1: 97.
-(5) Préface to J.R.A. de Lanessan, *Hist. drogues orig. vég.* 1878, see TL-2/4272.
+- (1)-(4) see TL-2/1: 97.
+- (5) Préface to J.R.A. de Lanessan, *Hist. drogues orig. vég.* 1878, see TL-2/4272.
 
 #### Eponymy
 

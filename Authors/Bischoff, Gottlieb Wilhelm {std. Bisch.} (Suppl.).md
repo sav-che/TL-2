@@ -41,8 +41,8 @@ ADB 2: 673; Barnhart 1: 190 (b. 21 Mai 1797, d. 11 Sep 1854); BFM 2462-2463; BM 
 
 #### Composite works
 
-(1) Co-author of C.G.D. Nees et al., *Unterird. Rhizomorph.* 1823, see TL-2/6684.
-(2) *Hydrocotyle to Cnidium* in T.F.L. Nees, *Gen. fl. germ.* TL-2/6704.
+- (1) Co-author of C.G.D. Nees et al., *Unterird. Rhizomorph.* 1823, see TL-2/6684.
+- (2) *Hydrocotyle to Cnidium* in T.F.L. Nees, *Gen. fl. germ.* TL-2/6704.
 
 ### Publications
 

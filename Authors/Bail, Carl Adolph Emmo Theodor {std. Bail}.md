@@ -10,7 +10,8 @@ Bail, Carl Adolph Emmo Theodor (1833-1922), German high-school teacher at Danzig
 
 #### Herbarium and types
 
-Unknown. – Exsiccatae: *Herbarium mycologicum typicum* (nos. 1-201, + 37 add.; no. 172 lacking) 20 sets issued, only set known [[Collection IB|IB]].
+Unknown.
+*Exsiccatae*: *Herbarium mycologicum typicum* (nos. 1-201, + 37 add.; no. 172 lacking) 20 sets issued, only set known [[Collection IB|IB]].
 *Ref*: DTS 1: 14.
 - Bail, Oest. bot. Z. 10: 101-114. 1860 (text).
 - Anon., Flora 43: 352. 14 Jun 1860.

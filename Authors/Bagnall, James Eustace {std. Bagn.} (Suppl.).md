@@ -33,9 +33,9 @@ Barnhart 1: 103; BB p. 14; BL 2: 265, 271, 272; BM 1: 84; CSP 7, 68, 9: 97, 12: 
 
 #### Composite works
 
-(1) *The mosses, hepatics and lichens*, *in* W. Mathews, ed., *Handbook of Birmingham* 331-334. 1886.
-(2) Botany, *in* W. Page, ed., The *Victoria History of the Counties of England* p. 65-68 (*Lichens*) \[botany in vol. 1, p. 33-66\].
-(3) Contributed mosses and hepatics to John Amphlett and Carleton Rea, *The botany of Worcestershire*, Birmingham 1909, under Rea, TL-2/8714.
+- (1) *The mosses, hepatics and lichens*, *in* W. Mathews, ed., *Handbook of Birmingham* 331-334. 1886.
+- (2) Botany, *in* W. Page, ed., The *Victoria History of the Counties of England* p. 65-68 (*Lichens*) \[botany in vol. 1, p. 33-66\].
+- (3) Contributed mosses and hepatics to John Amphlett and Carleton Rea, *The botany of Worcestershire*, Birmingham 1909, under Rea, TL-2/8714.
 
 ### Publications
 

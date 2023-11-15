@@ -17,11 +17,11 @@ The Allioni herbarium was acquired by G. B. Balbis (1765-1831), then by M. Bonaf
 - Mattirolo, Carlo Allioni, Enc. Ital. 2: 552. 1929.
 - Cavillier, Boissiera 5: 9. 1941.
 
-#### Nomenclator allionianus
+#### Nomenclator Allionianus
 
 Mattirolo et Ferrari, Nomenclator Allionianus, sive index specierum Carolo Allioni adscriptarum. Malpighia 18: 228-292. 1904.
 
-#### Iconographia taurinensis
+#### Iconographia Taurinensis
 
 The botanical garden at Torino (TO) holds a collection of about 7500 paintings and drawings of plants, bound in 65 folio volumes. This collection is often cited by Allioni and Colla and contains many of the originals of the illustrations of the works by these authors, in particular of Allioni's *Flora pedemontana*. The main artists are: 1741-1766 Francesco Peyrolery, from Viù (Piemont) – Pietro Peyrolery's drawings for the *Flora Pedemontana* are probably also incorporated. 1767-1802 Giovanni-Antonio Bottione, also from Viù.
 1802-1837 Angela Maria Bottione, from Torino.

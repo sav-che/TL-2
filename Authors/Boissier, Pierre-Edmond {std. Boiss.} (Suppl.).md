@@ -85,18 +85,20 @@ AG 2(1): 535, 3: 258, 6(1): 533, 12(2): 152; Barnhart 1: 211 (many biogr. refs.)
 
 #### Composite works
 
-(1) Various descriptions of new *Compositae in* A.P. de Candolle, *Prodr*. 7, 1838.
-(2) Id. *Labiatae*, *in* id. 12, 1848.
-(3) Id. *Plumbaginaceae*, *in* id. 12: 617-696. 1848, see Composite works in TL-2/1: 256.
-(4) Various descriptions of new species in P. de Tchikatcheff, *Asie min., Bot. in* vols. 1 and 2, see TL-2/13.852.
-(5) *Euphorbiaceae*, *in* A.P. de Candolle, Prodr., see Composite works in TL-2/1: 256.
-(6) With W. Barbey, *Lydie, Lycie et Carie*, 1842, 1883, 1887, *Études botaniques*. Lausanne 1890. Qu. 82 p., *5 pl*. 1890 − See Barbey in TL-2/suppl. 1/20.181.
-(7) With F. Buhse (q.v., in suppl. TL-2), *Aufzaehlung der auf einer Reise durch Transkaukasien und Persien gesammelten Pflanzen in Gemeinschaft* 1860, Boissier mainly collector.
+- (1) Various descriptions of new *Compositae in* A.P. de Candolle, *Prodr*. 7, 1838.
+- (2) Id. *Labiatae*, *in* id. 12, 1848.
+- (3) Id. *Plumbaginaceae*, *in* id. 12: 617-696. 1848, see Composite works in TL-2/1: 256.
+- (4) Various descriptions of new species in P. de Tchikatcheff, *Asie min., Bot. in* vols. 1 and 2, see TL-2/13.852.
+- (5) *Euphorbiaceae*, *in* A.P. de Candolle, Prodr., see Composite works in TL-2/1: 256.
+- (6) With W. Barbey, *Lydie, Lycie et Carie*, 1842, 1883, 1887, *Études botaniques*. Lausanne 1890. Qu. 82 p., *5 pl*. 1890 − See Barbey in TL-2/suppl. 1/20.181.
+- (7) With F. Buhse (q.v., in suppl. TL-2), *Aufzaehlung der auf einer Reise durch Transkaukasien und Persien gesammelten Pflanzen in Gemeinschaft* 1860, Boissier mainly collector.
 
 #### Correction
 
-TL-2/605, *Voy. bot. Espagne* (1): Vol. 2 starts with fascicle 2 (not with fasc. 17). (2): fasc. 22 of vol. 2 has plates 4a and 85a (not 185a).
-(3): Vol. 1 carries the title *Première partie*, vol. 2: *Seconde partie* (see Baum, Taxon 17: 720-724).
+TL-2/605, *Voy. bot. Espagne*
+- (1): Vol. 2 starts with fascicle 2 (not with fasc. 17).
+- (2): fasc. 22 of vol. 2 has plates 4a and 85a (not 185a).
+- (3): Vol. 1 carries the title *Première partie*, vol. 2: *Seconde partie* (see Baum, Taxon 17: 720-724).
 
 #### Eponymy (journal)
 

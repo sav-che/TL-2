@@ -22,8 +22,8 @@ Barnhart 1: 45; BFM 1174; BM 1: 33; Christiansen no. A 530, B 36b, see also p. 3
 
 #### Composite works
 
-(1) Published ed. 6 of A. Lueben, *Anweisung zu einem methodischen Unterricht in der Pflanzenkunde*. 1879.
-(2) Published *Friedrich Ehrhart*, Mitt. aus seinem Leben... Leipzig (Engelmann) 1905, 452 p.
+- (1) Published ed. 6 of A. Lueben, *Anweisung zu einem methodischen Unterricht in der Pflanzenkunde*. 1879.
+- (2) Published *Friedrich Ehrhart*, Mitt. aus seinem Leben... Leipzig (Engelmann) 1905, 452 p.
 
 ### Publications
 

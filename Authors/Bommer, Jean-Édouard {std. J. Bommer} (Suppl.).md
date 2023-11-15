@@ -29,8 +29,8 @@ Barnhart 1: 215 \[Joseph Édouard\] (b. 17 Nov 1829, Bruxelles, d. 19 Feb 1895, 
 
 #### Composite works
 
-(1) Contributed *Fungi* (with Rousseau), *in* Th.A. Durand and H. Pittier, *Prim. fl. Costaric.* 1(3): 81-96. 1896. − See TL-2/1592.
-(2) Idem *Filices* (with H. Christ), *in* id. 1(3): 97-179. 1896
+- (1) Contributed *Fungi* (with Rousseau), *in* Th.A. Durand and H. Pittier, *Prim. fl. Costaric.* 1(3): 81-96. 1896. − See TL-2/1592.
+- (2) Idem *Filices* (with H. Christ), *in* id. 1(3): 97-179. 1896
 
 #### Note
 

@@ -67,10 +67,10 @@ A. is often cited as Walker-Arnott, George Arnott.
 
 #### Composite works
 
-(1) With Robert Kaye Greville, *Tent. meth. musc.* see TL-2/2159, see also MD p. 134-135.
-(2) with W.J. Hooker, *Brit. fl.*, see TL-2/3000, ed. 6, ed. 7.
-(3) with W.J. Hooker, *Bot. Beechey Voy.*, see TL-2/3001.
-(4) See B.M. Kittel, *Mém. hist. nat.*, see TL-2/3685.
+- (1) With Robert Kaye Greville, *Tent. meth. musc.* see TL-2/2159, see also MD p. 134-135.
+- (2) with W.J. Hooker, *Brit. fl.*, see TL-2/3000, ed. 6, ed. 7.
+- (3) with W.J. Hooker, *Bot. Beechey Voy.*, see TL-2/3001.
+- (4) See B.M. Kittel, *Mém. hist. nat.*, see TL-2/3685.
 
 ### Publications
 

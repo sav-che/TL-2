@@ -25,7 +25,7 @@ Barnhart 1: 199 (b. 23 Feb 1862, Glasgow, Ill., d. 2 Jul 1938, Decoto, Calif.); 
 
 #### Composite works
 
-(1) *Plantae Lindheimerianae* part 3, 25 Nov 1907, see Georg Engelmann, TL-2/1690. Parts 1 and 2 by Georg Engelmann and Asa Gray. − See also BL 1: 215.
+- (1) *Plantae Lindheimerianae* part 3, 25 Nov 1907, see Georg Engelmann, TL-2/1690. Parts 1 and 2 by Georg Engelmann and Asa Gray. − See also BL 1: 215.
 
 ### Publications
 

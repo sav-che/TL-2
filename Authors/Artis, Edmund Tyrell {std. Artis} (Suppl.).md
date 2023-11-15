@@ -22,7 +22,6 @@ Barnhart 1: 80 (d. 24 Dec 1847 at Doncaster); BB p. 10; BM 1: 64; Desmond p. 20;
 - Mabberley, D.J., Jupiter botanicus 258. 1985.
 - Ward, L.F., Ann. Rep. U.S. Geol. Survey 5: 405-406. 1885.
 
-#### See tl-2/1
-
-71. – Some of his illustrations from *Antediluvian phytology* were used by G.A. Mantell in his *Pict. atlas foss. remains*, TL-2/5368.
+#### See 
+TL-2/1: 71. – Some of his illustrations from *Antediluvian phytology* were used by G.A. Mantell in his *Pict. atlas foss. remains*, TL-2/5368.
 

@@ -44,8 +44,8 @@ Ainsworth p. 287, 329; Barnhart 1: 80 (b. 11 Jan 1850, Lowville, NY, d. 30 Apr 1
 
 #### Composite works
 
-(1)-(3) see TL-2/1: 70-71.
-(4) A. published E.W.D. Holway, *N. Amer. Uredineae* part 5, 2 Aug 1924, see TL-2/2958.
+- (1)-(3) see TL-2/1: 70-71.
+- (4) A. published E.W.D. Holway, *N. Amer. Uredineae* part 5, 2 Aug 1924, see TL-2/2958.
 
 ### Publications
 

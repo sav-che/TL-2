@@ -39,8 +39,8 @@ Barnhart 1: 8 (further refs.); BFM 1580; BL 1: 162, 166; BM 6: 2; Bossert p. 2; 
 
 #### Composite works
 
-(1) *The Gymnosperms growing in the grounds of Leland Stanford Jr. University*, *in* Dudley Memorial Volume, Stanford Univ. Publ. 81-110. 1913 (TBC 18 Jun 1913).
-(2) *Uva-Ursi*, *in* J.W. Small, *Ericaceae*, N. Amer. Fl. 29(1): 31 Aug 1914.
+- (1) *The Gymnosperms growing in the grounds of Leland Stanford Jr. University*, *in* Dudley Memorial Volume, Stanford Univ. Publ. 81-110. 1913 (TBC 18 Jun 1913).
+- (2) *Uva-Ursi*, *in* J.W. Small, *Ericaceae*, N. Amer. Fl. 29(1): 31 Aug 1914.
 
 ### Publications
 

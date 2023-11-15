@@ -20,7 +20,7 @@ Barnhart 1: 112; Kew 1: 145.
 
 #### Composite works
 
-(1) For publications with R. Chodat see under that author.
+- (1) For publications with R. Chodat see under that author.
 
 ### Publications
 

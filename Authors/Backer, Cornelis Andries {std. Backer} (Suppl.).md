@@ -40,15 +40,15 @@ Barnhart 1: 99 (b 18 Sep 1874); BJI 2: 420-421; BL 1: 112, 113, 2: 420-421; BM 6
 
 #### Composite works
 
-(1) *in* C.G.G.J. van Steenis ed., *Fl. males.* 1/4(3): 195-279. Dec 1951, *Polemoniaceae*... *Myricaceae*.
+- (1) *in* C.G.G.J. van Steenis ed., *Fl. males.* 1/4(3): 195-279. Dec 1951, *Polemoniaceae*... *Myricaceae*.
 
 #### Notes on titles tl-2/1
 
 NOS. 221-230:
-(1): 221, *Fl. Batavia* 1907, rev. A.A. Pulle, Indische Mercuur 5 Mai 1908 (reprint p. \[1\]-2, U). − Further copy: L.
-(2): 222, *Schoolfl. Java* 1911, rev. A.A. Pulle, Indische Mercuur 28 Mai 1912 (reprint p. \[1\]-2, U).
-(3): 227, *Verkl. Woordenb.* 1936, rev. H.J. Lam, Blumea 2(3): 235-236. 1936. − Available on IDC 8722.
-(4): 228, *Varenfl. Java* 1939, available on IDC 8761.
+- (1): 221, *Fl. Batavia* 1907, rev. A.A. Pulle, Indische Mercuur 5 Mai 1908 (reprint p. \[1\]-2, U). − Further copy: L.
+- (2): 222, *Schoolfl. Java* 1911, rev. A.A. Pulle, Indische Mercuur 28 Mai 1912 (reprint p. \[1\]-2, U).
+- (3): 227, *Verkl. Woordenb.* 1936, rev. H.J. Lam, Blumea 2(3): 235-236. 1936. − Available on IDC 8722.
+- (4): 228, *Varenfl. Java* 1939, available on IDC 8761.
 
 ### Publications
 

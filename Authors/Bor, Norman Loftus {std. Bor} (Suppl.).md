@@ -35,16 +35,16 @@ Barnhart 1: 220 (b. 3 Mai 1893, Tramore, Ireland); Desmond p. 76, 683; IH 2: 86;
 
 #### Composite works
 
-(1) Contributed to Kanjilal, *Fl. Assam* 1934-1940, see TL-2/3511.
-(2) With C.E.C. Fischer, *A new genus and species of Caryophyllaceae* (*Illebraceae*). Indian Forester 65: 611-613. 1939.
-(3) With M.B. Raizada, Some beautiful Indian climbers and shrubs, I. *Ipomoea*, J. Bombay Nat. Hist. Soc. 41: 1-11. 1939, II. *Aristolochia*, ib. 41: 203-220. 1939, III. *Bignonia*, ib. 41: 453-460. 1940, IV. *Tecoma*, ib. 41: 681-690. 1940, V. *Bauhinia*, ib. 42: 1-12. 1940, VI. *Rubiaceae*, ib. 42: 233-241. 1941, VII. *Rubiaceae* (2), ib. 42: 455-471. 1941. − For further instalments of this series nos. VIII.-XXVIII. see C.M.K. Pope, 1975.
-(4) *Notes on Asiatic grasses* 1-30, 1952-1958, *in* Kew Bull., see C.M.K. Pope, 1975.
+- (1) Contributed to Kanjilal, *Fl. Assam* 1934-1940, see TL-2/3511.
+- (2) With C.E.C. Fischer, *A new genus and species of Caryophyllaceae* (*Illebraceae*). Indian Forester 65: 611-613. 1939.
+- (3) With M.B. Raizada, Some beautiful Indian climbers and shrubs, I. *Ipomoea*, J. Bombay Nat. Hist. Soc. 41: 1-11. 1939, II. *Aristolochia*, ib. 41: 203-220. 1939, III. *Bignonia*, ib. 41: 453-460. 1940, IV. *Tecoma*, ib. 41: 681-690. 1940, V. *Bauhinia*, ib. 42: 1-12. 1940, VI. *Rubiaceae*, ib. 42: 233-241. 1941, VII. *Rubiaceae* (2), ib. 42: 455-471. 1941. − For further instalments of this series nos. VIII.-XXVIII. see C.M.K. Pope, 1975.
+- (4) *Notes on Asiatic grasses* 1-30, 1952-1958, *in* Kew Bull., see C.M.K. Pope, 1975.
 
 #### Note
 
-(1) By far the major part of Bor's publications were published outside our period. The major publications before 1940 are *A list of the grasses of Assam*, Indian Forest Rec. II(Bot.). 1: 47-102. 1938, and *A sketch of the vegetation of the Aka Hills, Assam*, ib. 1: 103-221. 1938. − For a detailed bibliography see C.M.K. Pope, Kew Bull. 30(1): 4-10. 1975.
-(2) Major publ. outside our period e.g. *The grasses of Burma, Ceylon, India and Pakistan*, London, New York, Paris 1960, *reprint*, with addenda, Otto Koeltz 1973, see Taxon 22: 494. 5 Sep 1973.
-(3) *Gramineae*, in *Flora of Assam* 5, 480 p., Calcutta. 1940.
-(4) *Gramineae*, in *Flora of Iraq* 9, vi + 588 p., Baghdad. 1968.
-(5) *Gramineae*, in *Flora Iranica* 70, 573 p. + 72 pl., Graz. 1970.
+- (1) By far the major part of Bor's publications were published outside our period. The major publications before 1940 are *A list of the grasses of Assam*, Indian Forest Rec. II(Bot.). 1: 47-102. 1938, and *A sketch of the vegetation of the Aka Hills, Assam*, ib. 1: 103-221. 1938. − For a detailed bibliography see C.M.K. Pope, Kew Bull. 30(1): 4-10. 1975.
+- (2) Major publ. outside our period e.g. *The grasses of Burma, Ceylon, India and Pakistan*, London, New York, Paris 1960, *reprint*, with addenda, Otto Koeltz 1973, see Taxon 22: 494. 5 Sep 1973.
+- (3) *Gramineae*, in *Flora of Assam* 5, 480 p., Calcutta. 1940.
+- (4) *Gramineae*, in *Flora of Iraq* 9, vi + 588 p., Baghdad. 1968.
+- (5) *Gramineae*, in *Flora Iranica* 70, 573 p. + 72 pl., Graz. 1970.
 

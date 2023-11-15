@@ -10,7 +10,8 @@ Arvet-Touvet, Jean Maurice Casimir (1841-1913), French hieraciologist at Gières
 
 #### Herbarium and types
 
-[[Collection GRM|GRM]], much material also at [[Collection P|P]]. *Exsiccatae*: 1. *Hieraciotheca gallica* (fasc. i-xx, 1897-1908), sets at [[Collection B|B]], [[Collection BC|BC]], [[Collection G|G]], [[Collection GR|GR]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection P|P]], [[Collection TO|TO]], [[Collection W|W]] (10 sets issued) (with G. Gautier).
+[[Collection GRM|GRM]], much material also at [[Collection P|P]].
+*Exsiccatae*: 1. *Hieraciotheca gallica* (fasc. i-xx, 1897-1908), sets at [[Collection B|B]], [[Collection BC|BC]], [[Collection G|G]], [[Collection GR|GR]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection P|P]], [[Collection TO|TO]], [[Collection W|W]] (10 sets issued) (with G. Gautier).
 2. *Hieraciotheca hispanica* (fasc. i-xx, 1897-1908), sets at [[Collection B|B]], [[Collection BC|BC]], [[Collection G|G]], [[Collection GR|GR]], [[Collection K|K]], [[Collection L|L]], [[Collection LE|LE]], [[Collection P|P]], [[Collection TO|TO]], [[Collection W|W]] (10 sets issued) (with G. Gautier).
 *Ref*.: AG 12(1): 23; IH 1 (ed. 6): 105, 355; Kew 1: 86.
 

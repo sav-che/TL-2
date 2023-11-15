@@ -31,11 +31,11 @@ AG 6(2): 770; Barnhart 1: 92 (b. 8 Sep 1855, d. 22 Aug 1912); BL 1: 254; BM 1: 7
 
 #### Composite works
 
-(1) *Bulletin de l' Herbier Boissier*, ser. 1, vols. 1-7, 1893-1899, Autran editor, sponsored by W. Barbey, q.v.
-(2) See G. Schweinfurth, *Récolte cons. pl.* 1889. TL-2/4473, translated by Autran.
-(3) See H. Schinz, *Des genres Achatocarpus* Triana *et Basia* Linné... Genève 1893, TL-2/10.709, Autran junior author.
-(4) See G.E. Post, *Plantae postianae*, Lausanne 1890-1900, 10 parts, Autran co-author for fasc. 6, 8-9. See TL-2/8190.
-(5) With Th. Durand, *Hortus boissierianus*, see TL-2/210.
+- (1) *Bulletin de l' Herbier Boissier*, ser. 1, vols. 1-7, 1893-1899, Autran editor, sponsored by W. Barbey, q.v.
+- (2) See G. Schweinfurth, *Récolte cons. pl.* 1889. TL-2/4473, translated by Autran.
+- (3) See H. Schinz, *Des genres Achatocarpus* Triana *et Basia* Linné... Genève 1893, TL-2/10.709, Autran junior author.
+- (4) See G.E. Post, *Plantae postianae*, Lausanne 1890-1900, 10 parts, Autran co-author for fasc. 6, 8-9. See TL-2/8190.
+- (5) With Th. Durand, *Hortus boissierianus*, see TL-2/210.
 
 ### Publications
 

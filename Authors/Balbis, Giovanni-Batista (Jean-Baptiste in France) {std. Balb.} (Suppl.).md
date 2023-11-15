@@ -48,7 +48,7 @@ AG 2(1): 406, 5(2): 290; Barnhart 1: 110 (b. 17 Nov 1765, Moretta, Saluzzo; d. 1
 
 #### Composite works
 
-(1) Co-author, with D. Nocca, *Flora ticinensis* 1816-1821, 2 vols., TL-2/6842.
+- (1) Co-author, with D. Nocca, *Flora ticinensis* 1816-1821, 2 vols., TL-2/6842.
 
 ### Publications
 

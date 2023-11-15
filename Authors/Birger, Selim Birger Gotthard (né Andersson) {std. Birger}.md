@@ -32,8 +32,8 @@ Brother of Carl Filip Gunnar Andersson (1865-1928), see TL-2/1: 45 and suppl. 1:
 
 #### Composite works
 
-(1) With Carl Filip Gunnar Andersson (1865-1928), *Den norrländska florans geografiska fördelning*... Uppsala 1912, viii, 416 p. − *German*: *Die geographische Verteilung und die Einwanderungsgeschichte der nordskandinavischen Flora*, Bot. Jahrb. 51: 502-593, *pl. 3-4.* 1914 (extract). − KR p. 35, no. 58.
-(2) With G. Andersson, *in* G. Andersson et al., *Stockholms växter*, G. Andersson and S. Birger, *Några huvuddrag i Stockholmstraktens naturförhållunden* p. xxxii-xli. 1914.
+- (1) With Carl Filip Gunnar Andersson (1865-1928), *Den norrländska florans geografiska fördelning*... Uppsala 1912, viii, 416 p. − *German*: *Die geographische Verteilung und die Einwanderungsgeschichte der nordskandinavischen Flora*, Bot. Jahrb. 51: 502-593, *pl. 3-4.* 1914 (extract). − KR p. 35, no. 58.
+- (2) With G. Andersson, *in* G. Andersson et al., *Stockholms växter*, G. Andersson and S. Birger, *Några huvuddrag i Stockholmstraktens naturförhållunden* p. xxxii-xli. 1914.
 
 ### Publications
 

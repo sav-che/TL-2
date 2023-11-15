@@ -25,7 +25,7 @@ Backer p. 63; Barnhart 1: 170 (b. 12 Mar 1798 Leeuwarden, d. 22 Jun 1859, Utrech
 
 #### Composite works
 
-(1) With Albert von Beek (1787-1856), *Observations thermo-électriques* sur l'élévation de température des fleurs de *Colocasia odora*, Utrecht 1838, 14 p., *7 pl*., 1 tab.
+- (1) With Albert von Beek (1787-1856), *Observations thermo-électriques* sur l'élévation de température des fleurs de *Colocasia odora*, Utrecht 1838, 14 p., *7 pl*., 1 tab.
 
 #### Eponymy
 

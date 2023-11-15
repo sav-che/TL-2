@@ -34,8 +34,8 @@ AG 5(4): 40; Barnhart 1: 18; BFM 1172, 1173; Bossert p. 4; Hortus 3: 1187; IH 1 
 
 #### Composite works
 
-(1) With H.M. Iljin, *Chenopodium, in* Fl. SSSR 6: 41-73. 1936 (text attributed only to Iljin; correction published on separate slip issued with Fl. SSSR 7. 1936).
-(2) \[outside our period, e.g. *Chenopodiaceae*, *in* Hegi, Ill. Fl. Mitteleur, ed. 2. 3(2-4): 693-747. 1961, and *Dysphaniaceae*, l.c. 3(2-4): 748. 1961; also *Chenopodiaceae*, *in* H. Merxmüller, Prodr. Fl. S.W. Afr. 32: 1-22. Aug 1970; id., *in* P.H. Davis, Fl. Turkey 2: 294-339; *Amaranthaceae*, *in* id. 2: 340-344. 1967.\].
+- (1) With H.M. Iljin, *Chenopodium, in* Fl. SSSR 6: 41-73. 1936 (text attributed only to Iljin; correction published on separate slip issued with Fl. SSSR 7. 1936).
+- (2) \[outside our period, e.g. *Chenopodiaceae*, *in* Hegi, Ill. Fl. Mitteleur, ed. 2. 3(2-4): 693-747. 1961, and *Dysphaniaceae*, l.c. 3(2-4): 748. 1961; also *Chenopodiaceae*, *in* H. Merxmüller, Prodr. Fl. S.W. Afr. 32: 1-22. Aug 1970; id., *in* P.H. Davis, Fl. Turkey 2: 294-339; *Amaranthaceae*, *in* id. 2: 340-344. 1967.\].
 
 #### Eponymy
 

@@ -28,8 +28,8 @@ HU, see M.T. Stieber et al., Huntia 4(1): 35-39. 1981.
 
 #### Composite works
 
-(1) With F. Lamson-Scribner, *Stud. Amer. grasses*, see TL-2/4167.
-(2) With L.H. Pammel et al., *Grass. Iowa* part 2, 1905, see TL-2/7255.
+- (1) With F. Lamson-Scribner, *Stud. Amer. grasses*, see TL-2/4167.
+- (2) With L.H. Pammel et al., *Grass. Iowa* part 2, 1905, see TL-2/7255.
 
 ### Publications
 

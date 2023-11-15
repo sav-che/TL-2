@@ -25,7 +25,7 @@ AG 6(1): 110, 12(2): 277; Barnhart 1: 232; BL 2: 198, 199, 557, 572; BM 1: 217; 
 
 #### Note
 
-(1) TL-2/690, *Flore des Alpes* ed. 1: Jan 1878 (p. iv: 15 Dec 1877; Soc. bot. France rd. 25 Jan 1878).
+- (1) TL-2/690, *Flore des Alpes* ed. 1: Jan 1878 (p. iv: 15 Dec 1877; Soc. bot. France rd. 25 Jan 1878).
 
 ### Publications
 

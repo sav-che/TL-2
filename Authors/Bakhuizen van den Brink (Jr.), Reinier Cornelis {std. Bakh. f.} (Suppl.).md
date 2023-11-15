@@ -27,10 +27,10 @@ Bossert p. 22; IH 2: 51; Kew 1: 135; Roon p. 13; SK 1(1): 32, cxlviii (handwriti
 
 #### Composite works
 
-(1) Contributed 35 entries on Malesian phanerogams to E.R. Farr, J.A. Leussink and F.A. Stafleu, Index nom. gen. vols. 1-3. 1979.
-(2) *Linaceae*, *in* A.A. Pulle, *Fl. Suriname* 3(1): 409-411. 1941, *Humiriaceae*, ib. 3(1): 412-421. 1941.
-(3) With C.A. Backer, *Flora of Java* 1-3, 1963-1968 (also various contr. to the *Beknopte Flora van Java, Nooduitgave*).
-(4) see TL-2/1: 106-107.
+- (1) Contributed 35 entries on Malesian phanerogams to E.R. Farr, J.A. Leussink and F.A. Stafleu, Index nom. gen. vols. 1-3. 1979.
+- (2) *Linaceae*, *in* A.A. Pulle, *Fl. Suriname* 3(1): 409-411. 1941, *Humiriaceae*, ib. 3(1): 412-421. 1941.
+- (3) With C.A. Backer, *Flora of Java* 1-3, 1963-1968 (also various contr. to the *Beknopte Flora van Java, Nooduitgave*).
+- (4) see TL-2/1: 106-107.
 
 ### Publications
 

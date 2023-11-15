@@ -24,7 +24,7 @@ Barnhart 1: 212; BM 1: 189; Jackson p. 37; Kew 1: 285; NI 192-193; Plesch 148; P
 
 #### Composite works
 
-(1) See F.N.A. Dubois, *Meth.... plantes de la France*, ed. 4 by Boitard.
+- (1) See F.N.A. Dubois, *Meth.... plantes de la France*, ed. 4 by Boitard.
 
 ### Publications
 

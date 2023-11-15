@@ -39,9 +39,9 @@ ADB 2: 132-133, 46: 224-225; Barnhart 1: 132 (b. 9 Dec 1798, d. 19 Nov 1875); BM
 
 #### Composite works
 
-(1) Contributed to J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, TL-2/4332.
-(2) *Laurineae*, *in* Plantae Ecklonianae, Linnaea 7(4): 538. 1832, *Droseraceae*, *in* id. 7(5): 620. 1832.
-(3) *Beiträge zur Flora des österr. Küstenlandes*, *in* Bartling and Wendland (see TL-2/316), Beitr. Bot. 1825.
+- (1) Contributed to J.G.C. Lehmann, *Pl. Preiss.* 1844-1848, TL-2/4332.
+- (2) *Laurineae*, *in* Plantae Ecklonianae, Linnaea 7(4): 538. 1832, *Droseraceae*, *in* id. 7(5): 620. 1832.
+- (3) *Beiträge zur Flora des österr. Küstenlandes*, *in* Bartling and Wendland (see TL-2/316), Beitr. Bot. 1825.
 
 ### Publications
 

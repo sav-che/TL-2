@@ -23,9 +23,9 @@ Barnhart 1: 162; BB p. 28; CSP 7: 137, 9: 189, 13: 444; DNB suppl. 2(1): 143; GR
 
 #### Composite works
 
-(1) Hooker, *Fl. Brit. India*, Polygaleae 1: 200-208. Mai 1872, 209-211. Jan 1874; Simarubeae 1: 517-521. Feb 1875, Ochnaceae 1: 523-527. Feb 1875, Burseraceae 1: 527-540. Feb. 1875.
-(2) Martius, *Flora bras*., Hydroleaceae et Pedalineae 7: 391-406, *pl. 129-131.* 1 Mar 1871; Polygaleae 13(3): 1-82, *pl. 1-30.* 1 Apr 1874.
-(3) With George Murray (q.v.): *A handbook of cryptogamic botany*. London (Longmans), 1889 (publ. Mar 1889), viii, 473 p., see Percy W. Myles, J. Bot. 27: 277-286. 1889.
+- (1) Hooker, *Fl. Brit. India*, Polygaleae 1: 200-208. Mai 1872, 209-211. Jan 1874; Simarubeae 1: 517-521. Feb 1875, Ochnaceae 1: 523-527. Feb 1875, Burseraceae 1: 527-540. Feb. 1875.
+- (2) Martius, *Flora bras*., Hydroleaceae et Pedalineae 7: 391-406, *pl. 129-131.* 1 Mar 1871; Polygaleae 13(3): 1-82, *pl. 1-30.* 1 Apr 1874.
+- (3) With George Murray (q.v.): *A handbook of cryptogamic botany*. London (Longmans), 1889 (publ. Mar 1889), viii, 473 p., see Percy W. Myles, J. Bot. 27: 277-286. 1889.
 
 #### Eponymy
 

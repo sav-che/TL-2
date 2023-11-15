@@ -29,8 +29,8 @@ Barnhart 1: 224 (b. 20 Aug 1852, Messina, d. 21 Aug 1921, Lucca); BFM 1483; BL 1
 
 #### Composite works
 
-(1) Editor of *Malpighia* 1887-1898 with Otto Penzig.
-(2) Editor of *Contribuzioni alla biologia vegetale*, Fasc. 1894-1909, vols. 1-4, see IDC mf. E-991/2.
+- (1) Editor of *Malpighia* 1887-1898 with Otto Penzig.
+- (2) Editor of *Contribuzioni alla biologia vegetale*, Fasc. 1894-1909, vols. 1-4, see IDC mf. E-991/2.
 
 ### Publications
 

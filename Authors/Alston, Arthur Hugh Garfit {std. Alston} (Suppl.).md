@@ -35,9 +35,9 @@ Barnhart 1: 45; BL 2: 22; Desmond p. 10; Hortus 3: 1187; IF suppl. 3: 201, suppl
 
 #### Composite works
 
-(1) *Selaginellaceae*, *in* A.A. Pulle et al., *Fl. Suriname* 1(1): 162-170, Jan 1938.
-(2) *Lycopodiaceae*, *in* A.A. Pulle et al., *Fl. Suriname* 1(1): 171-175. Jan 1938.
-(3) *The ferns and fern-allies of West Tropical Africa*, suppl. to Fl. W. Afr. ed.2, 1959, 89 p.
+- (1) *Selaginellaceae*, *in* A.A. Pulle et al., *Fl. Suriname* 1(1): 162-170, Jan 1938.
+- (2) *Lycopodiaceae*, *in* A.A. Pulle et al., *Fl. Suriname* 1(1): 171-175. Jan 1938.
+- (3) *The ferns and fern-allies of West Tropical Africa*, suppl. to Fl. W. Afr. ed.2, 1959, 89 p.
 
 ### Publications
 
